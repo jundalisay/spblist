@@ -1,15 +1,12 @@
-+++
-title=  "Infanticide and Healthcare Policy"
-heading=  "Chapter 22"
-description=  "Dionysius Halicarnasseus, laid the citizens under an obligation to educate all their male children, and the eldest of their daughters"
-image=  "/covers/spirit.jpg"
-author = "Montesquieu"
-date=  2020-03-27
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-23/chapter-20"
-linkbtext=  "Chapter 20"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-23/chapter-28"
-linkftext=  "Chapter 28"
-+++
+---
+title: "Infanticide and Healthcare Policy"
+heading: "Chapter 22"
+description: "Dionysius Halicarnasseus, laid the citizens under an obligation to educate all their male children, and the eldest of their daughters"
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+---
+
+
 
 
 THE Roman policy was very good in respect to abortion. <!-- the exposing of children. --> 
@@ -20,11 +17,11 @@ Dionysius Halicarnasseus says that Romulus made the citizens educate:
 
 If the infants were deformed and monstrous, he permitted killing them<!--  the exposing them, --> after showing them to 5 of their nearest neighbours.
 
-Romulus did not allow killing <!-- suffer† them to kill --> any infant under 3 years old. He thus  reconciled the law that gave to fathers the right of life and death over their children<!--  , with that which prohibited their being exposed -->.
+Romulus did not allow killing <!-- suffer† them to kill --> any infant under 3 years old. He thus reconciled the law that gave to fathers the right of life and death over their children<!--  , with that which prohibited their being exposed -->.
 
 The law which obliged the citizens to marry and to educate all their children was in force in the 277th year of Rome. Custom had restrained the law of Romulus which permitted them to kill<!--  expose --> their younger daughters.
 
-We have no knowledge of what 
+<!-- We have no knowledge of what  -->
 
 The law of the twelve tables was made in Rome in 301. Cicero says that after the creation of that law:
 - the monstrous infant was stifled
@@ -55,7 +52,9 @@ These led to the abuse of abortion.
 
 ## Chapter 23: The State of the World after the Fall of the Romans
 
-THE regulations made by the Romans to increase the number of their citizens, had their effect, while the republic, in the full vigour of her constitution, had nothing to repair but the losses she sustained by her courage, by her intrepidity, by her firmness, her love of glory, and of virtue. But soon the wisest laws could not re-establish what a dying republic, what a general anarchy, what a military government, what a rigid empire, what a proud despotic power, what [152] a feeble monarchy, what a stupid, weak, and superstitious court had successively pulled down. It might indeed be said, that they conquered the world only to weaken it, and to deliver it up defenceless to barbarians. The Gothic nations, the Getes, the Saracens, and Tartars, by turns harrassed them=  and soon the barbarians had none to destroy but barbarians. Thus, in fabulous times, after the inundations and the deluge, there arose out of the earth armed men, who exterminated one another.
+THE regulations made by the Romans to increase the number of their citizens, had their effect, while the republic, in the full vigour of her constitution, had nothing to repair but the losses she sustained by her courage, by her intrepidity, by her firmness, her love of glory, and of virtue. But soon the wisest laws could not re-establish what a dying republic, what a general anarchy, what a military government, what a rigid empire, what a proud despotic power, what [152] a feeble monarchy, what a stupid, weak, and superstitious court had successively pulled down. 
+
+It might indeed be said, that they conquered the world only to weaken it, and to deliver it up defenceless to barbarians. The Gothic nations, the Getes, the Saracens, and Tartars, by turns harrassed them=  and soon the barbarians had none to destroy but barbarians. Thus, in fabulous times, after the inundations and the deluge, there arose out of the earth armed men, who exterminated one another.
 
 
 

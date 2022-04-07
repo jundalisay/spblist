@@ -1,5 +1,6 @@
 ---
-title: "The limits and end of knowledge"
+# title: "The limits and end of knowledge"
+title: "Knowledge"
 heading: Chapter 1
 weight: 6
 image: "/covers/interpret.jpg"

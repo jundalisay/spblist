@@ -29,11 +29,30 @@ It is an unquestionable fact* that those who are equally acquainted with, and eq
 > *Superphysics Note: This is not true at all.
 
 
-Few human creatures would consent to be changed into any of the lower animals, for a promise of the fullest allowance of a beast's pleasures; no intelligent human being would consent to be a fool, no instructed person would be an ignoramus, no person of feeling and conscience would be selfish and base, even though they should be persuaded that the fool, the dunce, or the rascal is better satisfied with his lot than they are with theirs. They would not resign what they possess more than he, for the most complete satisfaction of all the desires which they have in common with him. 
+Few human creatures would consent to be changed into any of the lower animals just for the fullest experience of a beast's pleasures.
+- No intelligent human being would consent to be a fool. 
+- No instructed person would be an ignoramus.
+- No person of feeling and conscience would be selfish and base, even though they should be persuaded that the fool, the dunce, or the rascal is better satisfied with his lot than they are with theirs. 
 
-If they ever fancy they would, it is only in cases of unhappiness so extreme, that to escape from it they would exchange their lot for almost any other, however undesirable in their own eyes. A being of higher faculties requires more to make him happy, is capable probably of more acute suffering, and is certainly accessible to it at more points, than one of an inferior type; but in spite of these liabilities, he can never really wish to sink into what he feels to be a lower grade of existence.
+They would not resign what they possess more than he, for the most complete satisfaction of all the desires which they have in common with him. 
 
-We may give what explanation we please of this unwillingness; we may attribute it to pride, a name which is given indiscriminately to some of the most and to some of the least estimable feelings of which mankind are capable; we may refer it to the love of liberty and personal independence, an appeal to which was with the Stoics one of the most effective means for the inculcation of it; to the love of power, or to the love of excitement, both of which do really enter into and contribute to it= but its most appropriate appellation is a sense of dignity, which all human beings possess in one form or other, and in some, though by no means in exact, proportion to their higher faculties, and which is so essential a part of the happiness of those in whom it is strong, that nothing which conflicts with it could be, otherwise than momentarily, an object of desire to them. 
+If they ever fancy they would, it is only in cases of unhappiness so extreme, that to escape from it they would exchange their lot for almost any other, however undesirable in their own eyes. 
+
+A being of higher faculties requires more to make him happy. He is:
+- capable of more acute suffering
+- accessible to suffering at more points, than one of an inferior type
+
+But in spite of these liabilities, he can never really wish to sink into what he feels to be a lower grade of existence.
+
+Why do we please of this unwillingness?
+
+- It could be because of pride.
+
+The name "pride" is given indiscriminately to some of the most and to some of the least estimable feelings of which mankind are capable; 
+
+- It could be because of the love of liberty and personal independence
+
+It is an appeal to which was with the Stoics one of the most effective means for the inculcation of it; to the love of power, or to the love of excitement, both of which do really enter into and contribute to it= but its most appropriate appellation is a sense of dignity, which all human beings possess in one form or other, and in some, though by no means in exact, proportion to their higher faculties, and which is so essential a part of the happiness of those in whom it is strong, that nothing which conflicts with it could be, otherwise than momentarily, an object of desire to them. 
 
 Whoever supposes that this preference takes place at a sacrifice of happiness-that the superior being, in anything like equal circumstances, is not happier than the inferior-confounds the two very different ideas, of happiness, and content. 
 

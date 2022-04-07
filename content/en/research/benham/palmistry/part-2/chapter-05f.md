@@ -1,6 +1,6 @@
 ---
-title: "Color of the Heart Line"
-heading: "Chapter 5e"
+title: "Splits of the Heart Line"
+heading: "Chapter 5f"
 weight: 22
 image: "/covers/reading.png"
 description: "Every variation in the path of the Heart line means a change in the qualities for which it stands."
@@ -9,17 +9,21 @@ contributors: ['Benham']
 ---
 
 
-All lines which rise from a Main line are more favorable than lines which fall from it, so split lines rising from the Heart line are better indications than those which fall below it.
+All lines which rise from a Main line are more favorable than lines which fall from it. So, split lines rising from the Heart line are better indications than those which fall below it.
 
-These lines which split from the Heart line will rise to or near a Mount, and will indicate that either the characteristics of the Mount, or someone belonging to that type, so strongly attract the heart as to split off part of the line and draw it up toward the Mount. 
+These lines which split from the Heart line will rise to or near a Mount, and will indicate that either the characteristics of the Mount, or someone belonging to that type, so strongly attract the heart as to split off part of the line and draw it up toward the Mount.
 
-Thus, a split rising from the Heart line under Jupiter (49) will show that ambition will guide love, and the person who will attract this subject will be someone on the Jupiterian order. 
+Thus, a split rising from the Heart line under Jupiter (49) will show that:
+- ambition will guide love
+- the person who will attract this subject will be a Jupiterian. 
 
-He does not necessarily have to have money, but he must be prominent, or one who gives promise of rising. 
+He does not necessarily have to have money. But he must be prominent, or one who gives promise of rising. 
 
 A split line rising under Saturn (50) will indicate that the subject is attracted by some of the Saturnian qualities. 
 
-If the subject, on whose hand you find this line, is developed in his mental world, it will be this side of the Saturnian that will attract him, and he will love one who has scholarly attainments. If your client's middle world is strongest, he will love one who has farming, mining, or horticultural aptitudes, or scientific talents. 
+If the subject, on whose hand you find this line, is developed in his mental world, it will be this side of the Saturnian that will attract him. He will love one who has scholarly attainments. 
+
+If your client's middle world is strongest, he will love one who has farming, mining, or horticultural aptitudes, or scientific talents. 
 
 If his lower world is strongest, he will love one who has the saving disposition of the Saturnian. In every case this subject will like best one who has the soberness, caution, and wisdom that belong to the Saturnian type. The subject himself may not belong to the Saturnian type, but he will admire these qualities. 
 

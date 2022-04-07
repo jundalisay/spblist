@@ -11,15 +11,28 @@ writer:
 ---
 
 
-It appeareth then, what is now in proposition, not by general circumlocution, but by particular note, no former philosophy varied in terms or method; 
+It appeareth then, what is now in proposition, 
 
-no new placet or speculation upon particulars already known; no referring to action by any manual of practice, but the revealing and discovering of new inventions and operations. 
+not by general circumlocution, but by particular note, no former philosophy varied in terms or method; 
 
-This to be done without the errors and conjectures of art, or the length or difficulties of experience; the nature and kinds of which inventions have been described as they could be discovered; for your eye cannot pass one kenning without further sailing: only we have stood upon the best advantages of the notions received, as upon a mount, to show the knowledges adjacent and confining. 
+no new placet or speculation upon particulars already known; no referring to action by any manual of practice, but 
 
-If therefore the true end of knowledge not propounded, has bred large error, the best and perfectest condition of the same end, not perceived, will cause some declination. For when the butt is set up, men need not rove, but except the white be placed, men cannot level. 
+the revealing and discovering of new inventions and operations. 
 
-This perfection we mean, not in the worth of the effects, but in the nature of the direction; for our purpose is not to stir up men's hopes, but to guide their travels. 
+
+This to be done without the errors and conjectures of art, or a long, difficult experiene. 
+
+The nature and kinds of which inventions have been described as they could be discovered. Your eye cannot pass one kenning without further sailing.
+
+We have only stood on the best advantages of the received notions. This is similar to us going up a mountain, to show the adjacent and confining knowledges. 
+
+If therefore the true end of knowledge not propounded, has bred large error, the best and perfectest condition of the same end, not perceived, will cause some declination. 
+
+For when the butt is set up, men need not rove, but except the white be placed, men cannot level. 
+
+This perfection is not of effects, but in the nature of the direction. 
+
+Our purpose is to guide men's travels, not to stir up men's hopes. 
 
 The fullness of direction to work, and produce any effect, consists in 2 conditions:
 1. Certainty
