@@ -109,38 +109,10 @@ We should <!-- It is preferable to --> regard labour*, including, of course, the
 - capital equipment
 - effective demand. 
 
-> *Superphysics Note= Here, Keynes makes land and stock subservient to labor, different from the Classical notion that puts all three as equal. Under Keynes' reasoning, money can be eased as to employ humans to make Antartica or the Sahara productive. This is absurd.   
+> *Superphysics Note: Here, Keynes makes land and stock subservient to labor, different from the Classical notion that puts all three as equal. Under Keynes' reasoning, money can be eased as to employ humans to make Antartica or the Sahara productive. This is absurd.   
 
 
 This is why I used the unit of labour [common-labour] as the sole physical unit needed in my economic system, apart from units of money [money-wage] and time [hour]. 
 
-<!-- It is true that some lengthy or roundabout processes are physically efficient. 
 
-But so are some short processes. Lengthy processes are not physically efficient because they are long. Some, probably most, lengthy processes would be physically very inefficient, for there are such things as spoiling or wasting with time.[1] 
-
-With a given labour force there is a definite limit to the quantity of labour embodied in roundabout processes which can be used to advantage. Apart from other considerations, there must be a due proportion between the amount of labour employed in making machines and the amount which will be employed in using them. The ultimate quantity of value will not increase indefinitely, relatively to the quantity of labour employed, as the processes adopted become more and more roundabout, even if their physical efficiency is still increasing. 
-
-Only if the desire to postpone consumption were strong enough to produce a situation in which full employment required a volume of investment so great as to involve a negative marginal efficiency of capital, would a process become advantageous merely because it was lengthy; in which event we should employ physically inefficient processes, provided they were sufficiently lengthy for the gain from postponement to outweigh their inefficiency. 
-
-We should in fact have a situation in which short processes would have to be kept sufficiently scarce for their physical efficiency to outweigh the disadvantage of the early delivery of their product. A correct theory, therefore, must be reversible so as to be able to cover the cases of the marginal efficiency of capital corresponding either to a positive or to a negative rate of interest; and it is, I think, only the scarcity theory outlined above which is capable of this. 
-
-Moreover there are all sorts of reasons why various kinds of services and facilities are scarce and therefore expensive relatively to the quantity of labour involved. For example, smelly processes command a higher reward, because people will not undertake them otherwise. 
-
-So do risky processes. But we do not devise a productivity theory of smelly or risky processes as such. In short, not all labour is accomplished in equally agreeable attendant circumstances; and conditions of equilibrium require that articles produced in less agreeable attendant circumstances (characterised by smelliness, risk or the lapse of time) must be kept sufficiently scarce to command a higher price. 
-
-But if the lapse of time becomes an agreeable attendant circumstance, which is a quite possible case and already holds for many individuals, then, as I have said above, it is the short processes which must be kept sufficiently scarce. Given the optimum amount of roundaboutness, we shall, of course, select the most efficient roundabout processes which we can find up to the required aggregate. But the optimum amount itself should be such as to provide at the appropriate dates for that part of consumers’ demand which it is desired to defer. In optimum conditions, that is to say, production should be so organised as to produce in the most efficient manner compatible with delivery at the dates at which consumers’ demand is expected to become effective. 
-
-It is no use to produce for delivery at a different date from this, even though the physical output could be increased by changing the date of delivery; — except in so far as the prospect of a larger meal, so to speak, induces the consumer to anticipate or postpone the hour of dinner. 
-
-If, after hearing full particulars of the meals he can get by fixing dinner at different hours, the consumer is expected to decide in favour of 8 o'clock, it is the business of the cook to provide the best dinner he can for service at that hour, irrespective of whether 7.30, 8 o'clock or 8.30 is the hour which would suit him best if time counted for nothing, one way or the other, and his only task was to produce the absolutely best dinner. In some phases of society it may be that we could get physically better dinners by dining later than we do; but it is equally conceivable in other phases that we could get better dinners by dining earlier. My theory is applicable to both contingencies. 
-
-If the interest rate were zero, there would be an optimum interval for any given article between the average date of input and the date of consumption, for which labour cost would be a minimum; — a shorter process of production would be less efficient technically, whilst a longer process would also be less efficient by reason of storage costs and deterioration. 
-
-If the interest rate exceeds zero, a new element of cost is introduced which increases with the length of the process, so that the optimum interval will be shortened, and the current input to provide for the eventual delivery of the article will have to be curtailed until the prospective price has increased sufficiently to cover the increased cost — a cost which will be increased both by the interest charges and also by the diminished efficiency of the shorter method of production. 
-
-If the rate of interest falls below zero (assuming this to be technically possible), the opposite is the case. Given the prospective consumers’ demand, current input to-day has to compete, so to speak, with the alternative of starting input at a later date; and, consequently, current input will only be worth while when the greater cheapness, by reason of greater technical efficiency or prospective price changes, of producing later on rather than now, is insufficient to offset the smaller return from negative interest. 
-
-In the case of the great majority of articles, it would involve great technical inefficiency to start up their input more than a very modest length of time ahead of their prospective consumption. 
-
-Thus, even if the rate of interest is zero, there is a strict limit to the proportion of prospective consumers’ demand which it is profitable to begin providing for in advance; and, as the rate of interest rises, the proportion of the prospective consumers’ demand for which it pays to produce to-day shrinks pari passu.  -->
 

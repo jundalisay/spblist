@@ -141,13 +141,14 @@ This ambiguity of expression has rendered this popular notion so familiar to us.
 
 Even they who are convinced of its absurdity are very apt to forget their own principles.
 In the course of their reasonings, they take it for granted as an undeniable truth.
+
 Some of the best English commerce writers start by observing that the country's wealth consists in its lands, houses, and goods, and not in its gold and silver only.
+- In the course of their reasonings, the lands, houses, and goods seem to slip out of their memory.
+- Their argument frequently supposes that all wealth consists in gold and silver.
+- They supposed that the great object of national industry and commerce is to multiply those metals.
 
-In the course of their reasonings, the lands, houses, and goods seem to slip out of their memory.
-Their argument frequently supposes that all wealth consists in gold and silver.
-They supposed that the great object of national industry and commerce is to multiply those metals.
 
-Restraints and Encouragements from the Idea that Money is Wealth
+## Restraints and Encouragements from the Idea that Money is Wealth
 
 
 {{< s v="35" >}} The great object of political economy became to reduce foreign imports for home consumption and increase the exports of domestic produce.

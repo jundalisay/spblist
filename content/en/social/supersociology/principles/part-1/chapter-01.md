@@ -187,17 +187,17 @@ It would be easier to prevent the growth of ego by pointing out that no one is p
 - A beautiful woman will have most of her attention on her physical looks, making her deficient in intellect
 - An intelligent man will have most of his attention on abstract ideas, making him deficient in bodily strength or looks
 
-In the above, the common interest is overall personal well-being.
+In the above, the common interest is **overall personal well-being**.
 
 - A popular politician will spend most of his time interacting with the masses, instead of spending time for policy research
 - A bright researcher will have many good policy-ideas, but will not have the popularity or connections to have them implemented
 
-In the above, the common interest is implementing the right policies.
+In the above, the common interest is **implementing the right policies**.
 
 - A skilled app developer can create a superior app, but might not have the skill to market it 
 - An active marketer can make any app go viral, but might not know how to make an app in the first place
 
-In the above, the common interest spreading useful apps.
+In the above, the common interest is **spreading useful apps**.
 
 {{< q a="Socrates" c="The Republic by Plato Simplified, Book 5, Chapter 2">}}
 Then in our city, the language of harmony and concord will be more often heard than in any other. They will have their pleasures and pains in common. They will have a common interest in the same thing which they will alike call 'my own'. Having this common interest, they will have a common feeling of pleasure and pain. The is because the guardians will have a community of women and children. We called this unity of feeling as the greatest good.
