@@ -32,7 +32,9 @@ The category was the inmost essence of existence.
 
 **The category means that existence and self-consciousness are the same being**.* They are the same not as a matter of comparison, but really and truly in and for themselves. 
 
-> *Superphysics Note: This is why we say Consciousness is the other half of Existence and vice versa.  
+> *Superphysics Note: This is why we say Consciousness is the other half of Existence and vice versa.
+
+
 
 It is only a onesided, unsound idealism which lets this unity again appear on one side as consciousness, with a reality per se over against it on the other.
 
@@ -156,16 +158,29 @@ Such a kind of knowledge is at the same time asserted by the very principle of t
 
 Pure reason as conceived by this idealism, if it is to get at this “other” which is essential to it, i.e. really is per se, but which it does not possess in itself — is thus thrown back on that knowledge which is not a knowledge of the real truth. 
 
-It thus condemns itself knowingly and voluntarily to being an untrue kind of knowledge, and cannot get away from “meaning” and “perceiving”, which for it have no truth at all.
+It thus condemns itself knowingly and voluntarily to being an untrue kind of knowledge. It cannot get away from “meaning” and “perceiving”, which for it have no truth at all.
 
 It falls into a direct contradiction.
 
-It asserts that the real has a twofold nature, consists of elements in sheer opposition, is the unity of apperception and a “thing” as well; whether a thing is called an alien impact, or an empirical entity, or sensibility, or the “thing in itself”, it remains in principle precisely the same, viz. something external and foreign to that unity.
+It asserts that the real has a twofold nature, consists of elements in sheer opposition, is the unity of apperception and a “thing” as well.
+
+A thing remains precisely the same -- something external and foreign to that unity. This is whether it is called:
+- an alien impact, or
+- an empirical entity
+- sensibility
+- the “thing in itself”
 
 
 {{< s v='239' >}} This idealism falls into such a contradiction because it asserts the abstract notion of reason to be the truth. 
 
-Consequently reality comes directly before it just as much in a form which is not strictly the reality of reason at all, whereas reason all the while is intended to be all reality. Reason remains, in this case, a restless search, which in its very process of seeking declares that it is utterly impossible to have the satisfaction of finding.
+Consequently, reality comes directly before it just as much in a form which is not strictly the reality of reason at all, whereas reason all the while is intended to be all reality. 
 
-But actual concrete reason is not so inconsequent as this. Being at first merely the certainty that it is all reality, it is in this notion well aware that qua certainty qua ego it is not yet in truth all reality; and thus reason is driven on to raise its formal certainty into actual truth, and give concrete filling to the empty “mine”.
+In this case, reason remains a restless search. In its very process of seeking declares that it is utterly impossible to have the satisfaction of finding.
 
+But actual concrete reason is not so inconsequent as this. 
+
+Concrete reason is the certainty that it is all reality. In this notion, reason is well aware that qua certainty qua ego it is not yet truly all reality.
+
+Thus, reason is:
+- driven on to raise its formal certainty into actual truth, and
+- give concrete filling to the empty “mine”.

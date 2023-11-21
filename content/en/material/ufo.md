@@ -12,7 +12,7 @@ icon: /icons/spmat.png
 
 Superphysics uses information from all possible sources to increase the knowledge about a topic or subject. 
 
-This means we take information from sources from ancient times, various cultures, and even non-human, as channeled aliens, elementals, etc. 
+This means we take information from sources from ancient times, various cultures, and even non-humans, as channeled aliens, elementals, etc.
 
 An example of channeled information is the Quran which was channeled* through the Prophet Mohammad.    
 

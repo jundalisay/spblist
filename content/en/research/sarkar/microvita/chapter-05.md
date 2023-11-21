@@ -6,11 +6,11 @@ image: "/covers/mv.png"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
-weight: 12
+weight: 14
 ---
 
 
-Khamúrtti.(1) Kha + múrtti = khamúrtti. 
+<!-- Khamúrtti.(1) Kha + múrtti = khamúrtti. 
 
 Khamúrtti literally means “image in space”. 
 
@@ -28,10 +28,10 @@ If a spiritual aspirant asks them for any mundane object, they may or may not gr
 
 If a spiritual aspirant asks for something spiritual, one may get it either directly or through the siddhas. 
 
-Siddhas are a category of microvita(2) which are very helpful to spiritual aspirants. 
+Siddhas are a category of microvita(2) which are very helpful to spiritual aspirants.  -->
 
 <!-- I have already told you about the different categories of devayonis or microvita, and in that connection I have said something about siddhas.  -->
-
+<!-- 
 Yogis and spiritual aspirants say that sometimes during their sádhaná they see siddhas and receive direct help from them.
 
 People see khamúrttis due to the grace of Parama Puruśa. 
@@ -71,16 +71,16 @@ Cháyá puruśa is a mere image of a shadow, whereas khamúrtti is an image 
 
 If any of you have had a chance to see such a khamúrtti or are still seeing one on any occasion due to the grace of the guru, you should not pray for any mundane object or for any finite object of enjoyment from these khamúrttis.
 
-There is yet another kind of shadowy appearance unrelated to khamúrtti. 
+There is yet another kind of shadowy appearance unrelated to khamúrtti.  -->
 
 
-## Yakśińii
+## Yakśińii Siddhi
 
-In Tantra, this is known as yakśińii darshana. As a result of practising a special type of Tantra, people attain the yakśińii siddhi. 
+This is achieved by practising a special type of Tantra, and is called yakśińii darshana.
 
-Such people are known as yakśińii siddhas – sádhakas who have attained a type of occult power. 
+Such people are called yakśińii siddhas – sádhakas who have attained a type of occult power. 
 
-These yakśińiis(4) work under the instructions of the siddhas, and provided that some rules and regulations are not violated, they abide by their instructions. 
+These yakśińiis(4) work under the instructions of the siddhas. As long as some rules are not violated, the yaksiniis abide by their instructions. 
 
 Usually, the yakśińiis cannot be induced to perform any evil deed. 
 

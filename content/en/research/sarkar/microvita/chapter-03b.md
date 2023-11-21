@@ -6,20 +6,25 @@ image: "/covers/mv.png"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
-weight: 6
+weight: 10
 ---
-
-
 
 
 Microvita are innumerable times more subtle and smaller than atoms.
 
-Since an atom does not come within the range of an ordinary microscope, how can microvita come within the scope of an ordinary microscope or ordinary perception in the psychic sphere, or also of inferences?
+An atom is not detectable by an ordinary microscope.
+
+How then can microvita be detected by:
+- an ordinary microscope or 
+- ordinary perception in the psychic sphere
+- inferences?
 
 **Each structure of carbonic origin in this universe, whether animate or inanimate, has a mind.** 
-- A mind is associated with every structure either in manifested form or in dormant form. 
+- A mind is associated with every structure either:
+  - in manifested form or
+  - in dormant form. 
 
-Wherever there is no mind, there is no endoplasmic coverage.
+Wherever there is no mind, there is no endoplasmic [higher mind] coverage.
 
 Wherever the mind is expressed, endoplasmic coverage shall be there. 
 
@@ -41,7 +46,7 @@ An intake of more and more defective carbonic pabula adversely affects the psych
 
 An example is in a mythological fable in the epic Rámáyana where Ahalyá was turned into stone for a sin she committed.
 
-There are two ill-effects when people get detached from non-carbonic pabula and become increasingly engrossed in carbonic pabula: 
+There are 2 ill-effects when people get detached from non-carbonic pabula and become increasingly engrossed in carbonic pabula:
 
 1. The arena of one’s own carbonic pabula will increase -- the mind will gradually and steadily drift towards crude matter.
 
@@ -121,21 +126,26 @@ The application of Neo-ethics will lead to multi-lateral salvation of human soci
 
 ## The Role of Guru
 
-If there is a happy adjustment and balanced blending between carbonic and non-carbonic pabula in the human mind and corpor, there will be no imperialism at all. Rather, heaven will descend on the dusty earth.
+If there is a happy adjustment and balanced blending between carbonic and non-carbonic pabula in the human mind and body, there will be no imperialism at all. Rather, heaven will descend on the dusty earth.
 
-While following the path of Neo-ethics, human beings will attain enormous progress in the spiritual sphere with greater speed. 
+While following the path of Neo-ethics, human beings will attain enormous progress in the spiritual sphere with greater speed.
 
 With the help of non-carbonic pabula they will sharpen their psychic penetration within inter- and intra-atomic and molecular space. 
 
-With the help of microvita, they will be able to powder down their ectoplasms and transform them into cognitive faculto-factors.
+With the help of microvita, they will be able to powder down their ectoplasms [lover minds] and transform them into cognitive faculto-factors*.
+
+> *Superphysics Note: The lower mind becomes more like the higher mind in detection abilities
+
 
 The majority of people today do not know the technique of using microvita. 
 
-The Universal Entity, sitting in one place, has been using microvita to accelerate the spiritual growth of individuals in different celestial bodies in different ways. 
+The Universal Entity sits in one place. He has been using microvita to accelerate the spiritual growth of individuals in different celestial bodies in different ways. 
 
-Only that Supreme Entity who is conversant with these techniques and can teach them to individual spiritual aspirants is the Supreme Guru. He keeps all within His contact, and with the help of microvita, elevates all spiritually.
+Only that Supreme Entity who is conversant with these techniques and can teach them to individual spiritual aspirants is the Supreme Guru. 
 
-Living beings, through their own individual efforts, can achieve only a little progress in the carbonic world, but in the non-carbonic world only the grace of the Supreme Guru can lead them towards the supreme goal.
+He keeps all within His contact, and with the help of microvita, elevates all spiritually.
+
+Living beings, through their own individual efforts, can achieve only a little progress in the carbonic world. But in the non-carbonic world only the grace of the Supreme Guru can lead them towards the supreme goal.
 
 Hence, it has been rightly said,
 
@@ -146,6 +156,3 @@ Gurukrpá hi kevalam
 This alone is the supreme truth. This is the be-all and end-all of life.
 
 26 March 1987, Calcutta
-
-
-

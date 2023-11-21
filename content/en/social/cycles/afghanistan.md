@@ -24,7 +24,7 @@ Afghanistan fell to the Taliban in the middle of August, three months after the 
 
 The fall surprised a lot of people, especially since the US spent 20 years building the country from scratch. It was the job of the Afghan army to defend their country and they were doing a decent job before 2021, despite the corruption of their leaders<!--  and despite Obama reducing troop numbers -->. 
 
-![Taliban](/countries/af/taliban.jpg)
+![Taliban](/photos/countries/af/taliban.jpg)
 
 This all changed when Trump announced a withdrawal of the US military by May 1, 2021, a policy which was continued by Biden. This cancelled the air support that was vital to the operations of the Afghan army. Without it, their operations started to fail and the Taliban started winning. 
 

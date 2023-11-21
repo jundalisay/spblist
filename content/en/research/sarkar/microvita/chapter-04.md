@@ -1,61 +1,90 @@
 ---
 title: "Four Dimensions of Micropsychic Longing"
 heading: "Chapter 4"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: "Human longings are expressed through different lateral directions of so many waves, and of so many aspirations, hopes and longings"
 image: "/covers/mv.png"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
-weight: 8
+weight: 12
+draft: true
 ---
+
+
+> *Superphysics Note: We have removed this because it has nothing to do with microvita
 
 
 Human longings are expressed through different lateral directions of so many waves, and of so many aspirations, hopes and longings. 
 
 <!-- Hence the subject of today’s discourse is “Four Dimensions of Micropsychic Longing”.  -->
 
-There are many micropsychic longings. They are also multifarious, not only in number but also in quality and quantity. But they may be brought within the range of 4 broad categories.
+There are many micropsychic longings. 
+
+They are also multifarious in quantity and quality. 
+
+<!-- , not only in number but also in quality and quantity.  -->
+
+These can classed into 4 broad categories.
 
 
+1. Inherent psycho-physical longing for physical pabulum [food]
 
-1. Psycho-physical longing for physical pabulum
+This is part of inborn instinct. All living beings are goaded by this primordial nature of longing.
+ <!-- that is, psycho-physical longing for physical pabulum.  -->
 
+<!-- It is a natural instinct for each and every object.  -->
 
-This is the longing concerning inborn instinct. All living beings are goaded by this primordial nature of longing, that is, psycho-physical longing for physical pabulum. 
+<!-- Even in non-living elements, we find  -->
 
-It is a natural instinct for each and every object. Even in non-living elements, we find this type of longing in both animate and inanimate objects. 
-
-In each and every physical and psychic structure there remain certain self-controlling faculties. 
-
-In the case of this inborn instinct, or, say, psycho-physical longing, there are self-controlling faculties also. But these faculties cannot move against the characteristics of the vital force. 
-
-When these controlling faculties go against the characteristics of the vital force, disintegration and dissociation start both within and without the framework. 
-
-This is the wont of the individual structure. 
-
-In the case of collective structures, regarding these psycho-physical longings, if it is seen that the collective body of a particular nature of living being or expression does not like it, then the controlling faculty creates a sort of change and metamorphosis in the physical structure, and as a result the nature of the longings also changes. 
-
-That is, in the case of the individual structure it is to be goaded by the controlling faculty only up to a certain range or certain stratum. Otherwise the structure will start disintegration or dissociation both within and without. 
-
-And in a collective body, the collective controlling faculty may create a sort of change in the physical structures if such a change is supported by Macrocosmic conation, otherwise not.
+This type of longing is both in animate and inanimate objects.
 
 
+In each and every physical and psychic structure there, there exists self-controlling faculties that must move with the vital force.
 
-2. Psycho-physical longing, in this case also for physical pabulum
+<!-- This inborn instinct is a psycho-physical longing., there are self-controlling faculties also.  -->
 
-But this longing is not of inborn nature. 
+<!-- But these faculties cannot move against the   -->
+ <!-- the characteristics of -->
+When these controlling faculties go against the vital force, disintegration and dissociation start both within and without the framework.
 
-These longings are created after the development of so many plexi and change in the nature and structure of so many hormones secreted from those newly-created or newly-developed plexi. 
+<!-- This is the wont of the individual structure.  -->
 
-The difference between the first category and the second is that the first one is inborn and the second one is not inborn, it is created later on.
+In the case of collective structures, regarding these psycho-physical longings, if it is seen that 
 
-Both the pabula are of physical nature, are physical pabula. 
+A collective living body or expression of a particular nature might not like its current longing. 
 
-But in the second case the controlling faculty, the inherent controlling faculty, can move a bit forward, but when this movement goes ultra vires to the fundamental principles of the physical structure, the structure cannot remain as before; that is, it starts decomposition. 
+In such a case, the controlling faculty creates a change in the physical structure that also changes the nature of the longings.
 
-It cannot maintain its integration or structural solidarity. In this case, one’s physical structure may be saved if one applies or rather ascribes the Macrocosmic grandeur to physical pabulum. 
+In an individual structure, the controlling faculty can only goad up to a certain range or stratum. 
+- Otherwise, the structure will start disintegration or dissociation both within and without. 
 
-There is no other way. But in the case of the collective body, or the collective structure, there may be change, and that change may not go against the characteristics of the physical structure if there remains a constant endeavour for such a change, rather for such a metamorphosis. This is the second longing, and both the pabula are of physical nature.
+In a collective body, the collective controlling faculty may create a change in the physical structures if such a change is supported by Macrocosmic conation. 
+ <!-- otherwise not. -->
+
+
+2. Imposed psycho-physical longing for physical pabulum [food]
+
+These longings are not inborn. These are created after the development of so many plexi and change in the nature and structure of so many hormones secreted from those newly-created or newly-developed plexi. 
+
+Unlike the previous category, this one:
+- is created later on.
+<!-- The difference between the first category and the second is that the first one is inborn and the second one is not inborn, it is created later on. -->
+
+<!-- Both the pabula are of physical nature, are physical pabula.  -->
+- has the inherent controlling faculty able to move a bit forward
+
+But when this movement goes against the fundamental principles of the physical structure, the structure cannot remain as before -- it starts decomposition from not being able to maintain its integration or structural solidarity. 
+
+In this case, one’s physical structure may be saved only if one ascribes the Macrocosmic grandeur to physical food. 
+ <!-- pabulum -->
+
+<!-- There is no other way.  -->
+
+But in the case of the collective structure, there may be change.
+
+That change may not go against the characteristics of the physical structure if there remains a constant endeavour for such a change, rather for such a metamorphosis. 
+
+<!-- This is the second longing, and both the pabula are of physical nature. -->
 
 
 3. Psychic longing for psychic pabulum. 

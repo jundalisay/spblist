@@ -10,16 +10,28 @@ weight: 8
 
 ## The Observation of Nature
 
-{{< s v='244' >}} WHEN the unreflective consciousness speaks of observation and experience as being the fountain of truth, the phrase may possibly sound as if the whole business were a matter of tasting, smelling, feeling, hearing, and seeing. 
+{{< s v='244' >}} Unreflective consciousness speaks of observation and experience as being the fountain of truth.
 
-It forgets, in its zeal for tasting, smelling, etc., to say that, in point of fact, it has really and rationally determined for itself already the object thus sensuously apprehended, and this determination of the object is at least as important for it as that apprehension.
+This gives the impression that observation were a matter of tasting, smelling, feeling, hearing, and seeing. 
 
-It will also as readily admit that its whole concern is not simply a matter of perceiving, and will not allow, e.g,. the perception that this penknife lies beside this snuff-box to pass for an “observation”. What is perceived should, at least, have the significance of a universal, and not of a sensuous particular “this”.
+In its zeal for tasting, smelling, etc., unreflective consciousness has really and rationally determined for itself already the object being observed. 
+
+This determination of the object is at least as important for it as that apprehension.
+
+The whole concern of unreflective consciousness is not simply perceiving.
+
+<!-- , and will not allow, e.g,. the perception that this penknife lies beside this snuff-box to pass for an “observation”.  -->
+
+What is perceived should, at least, have the significance of a universal, and not of a sensuous particular “this”.
 
 
-{{< s v='245' >}} The universal, here regarded, is, only in the first instance, what remains identical with itself; its movement is merely the uniform recurrence of the same operation. 
+{{< s v='245' >}} This universal is regarded only in the first instance, what remains identical with itself.
 
-The consciousness, which thus far finds in the object merely universality or the abstract “mine”, must take upon itself the movement peculiar to the object; and, since it is not yet at the stage of understanding that object, it must, at least, be the recollection of it, a recollection which expresses in a universal way what, in actual fact, is merely present in a particular form. 
+Its movement is merely the uniform recurrence of the same operation. 
+
+The consciousness, which thus far finds in the object merely universality or the abstract “mine”, must take upon itself the movement peculiar to the object; 
+
+Since it is not yet at the stage of understanding that object, it must, at least, be the recollection of it, a recollection which expresses in a universal way what, in actual fact, is merely present in a particular form. 
 
 This superficial way of educing from particularity, and the equally superficial form of universality into which the sense element is merely taken up, without the sense element having in itself become a universal — this description of things is not as yet a process effected in the object itself. 
 
@@ -38,9 +50,11 @@ In this realm where universality means indeterminateness, where particularity no
 It can no longer know whether what seems to have being per se is not a chance accident. What bears the impress of a confused or immature feeble structure, barely evolving from the stage of elementary indeterminateness, cannot claim even to be described.
 
 
-{{< s v='2446' >}} While this seeking and describing seem to be concerned merely with things, we see that in point of fact it does not continue in the form of sense-perception. 
+{{< s v='2446' >}} This seeking and describing seem to be concerned merely with things. Yet we see that it does not continue in the form of sense-perception.
 
-Rather, what enables things to be known is more important for description than the range of sense properties still left over, qualities which, of course, the thing itself cannot do without, but which consciousness dispenses with. Through this distinction into what is essential and what is unessential, the notion rises out of the dispersion of sensibility, and knowledge thereby makes it clear that it has to do at least quite as essentially with its own self as with things. 
+Rather, what enables things to be known is more important for description than the range of sense properties still left over, qualities which, of course, the thing itself cannot do without, but which consciousness dispenses with. 
+
+Through this distinction into what is essential and what is unessential, the notion rises out of the dispersion of sensibility, and knowledge thereby makes it clear that it has to do at least quite as essentially with its own self as with things. 
 
 This twofold essentiality produces a certain hesitation as to whether what is essential and necessary for knowledge is also so in the case of the things. On the one hand, the qualifying “marks” have merely to serve the purpose of knowledge in distinguishing things inter se; on the other hand, however, it is not the unessential quality of things that has to be known, but that feature in virtue of which they themselves break away from the general continuity of being as a whole, separate themselves from others and stand by themselves.
 

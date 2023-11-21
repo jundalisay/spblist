@@ -40,11 +40,26 @@ Hence it follows that to identify all of them, it suffices to consider all the e
 
 ### 52. What is their use, and how they can be enumerated.
 
-The objects which affect the senses do not incite in us various passions due to all the diversities that exist in them, but only due to the various ways in which they can harm or benefit us, or simply be important in general.
+The objects which affect the senses incite various passions in us due to:
+- the various ways in which those objects can harm or benefit us
+- their importance to use in general
 
-The use of all passions consists solely in disposing the soul to desire the things that nature dictates to be useful to us, and to persist in this desire; just as the same agitation of the spirits, which usually causes them, disposes the body to the movements that serve the execution of these things. 
+<!--  all the diversities that exist in them, but only due to 
 
-Therefore, to enumerate them, it is sufficient to systematically examine in how many different ways our senses can be moved by their objects. Here, I will proceed to list all the principal passions in the order in which they can be found.
+, or simply be important . -->
+
+The purpose of all passions is to dispose the soul:
+- to desire the things that nature dictates to be useful to us, and
+- to persist in this desire
+
+<!-- just as the same agitation of the spirits, which usually causes them, disposes the body to the movements that serve the execution of these things.  -->
+
+<!-- Therefore, to enumerate them, it is sufficient to systematically examine in how many -->
+
+
+I will list all the principal passions in the order in which they can be found.
+
+These are the main ways our senses can be moved by their objects.
 
 
 ## The order and enumeration of the Passions
