@@ -1,548 +1,116 @@
 ---
-title: The World War
+title: Before the World War
 heading: Chapter 5
-weight: 14
+weight: 38
 description: ""
 image: /covers/mein.jpg
 ---
 
 
+In my youth, my energy was dampened by the world erecting temples of fame only in honour of businessmen and State
+officials.
 
-DURING THE boisterous years of my youth nothing used to damp my wild spirits so much as to think that I was born at a time when the world had manifestly decided not to erect any more temples of fame except in honour of business people and State
-officials. The tempest of historical achievements seemed to have permanently subsided,
-so much so that the future appeared to be irrevocably delivered over to what was called
-peaceful competition between the nations. 
+Historical achievements seemed no longer important. The future belonged to the peaceful competition between the nations. 
 
-This simply meant a system of mutual exploitation by fraudulent means, the principle of resorting to the use of force in selfdefence being formally excluded. Individual countries increasingly assumed the appearance of commercial undertakings, grabbing territory and clients and concessions from each other under any and every kind of pretext. And it was all staged to an accompaniment of loud but innocuous shouting. 
+This simply meant a system of mutual exploitation by fraudulent means.
+- The principle of resorting to the use of force in self defence was formally excluded. 
 
-This trend of affairs seemed destined to develop steadily and permanently. Having the support of public approbation, it
-seemed bound eventually to transform the world into a mammoth department store. In
-the vestibule of this emporium there would be rows of monumental busts which would
-confer immortality on those profiteers who had proved themselves the shrewdest at
-their trade and those administrative officials who had shown themselves the most
-innocuous. 
+Individual countries increasingly assumed commercial undertakings, grabbing territory, clients, and concessions from each other under any and every kind of pretext.
 
-The salesmen could be represented by the English and the administrative functionaries by the Germans; whereas the Jews would be sacrificed to the unprofitable calling of proprietorship, for they are constantly avowing that they make no profits and are always being called upon to 'pay out'. Moreover they have the advantage of being
-versed in the foreign languages.
+<!-- And it was all staged to an accompaniment of loud but innocuous shouting.  -->
 
-Why could I not have been born a hundred years ago? I used to ask myself. Somewhere
-about the time of the Wars of Liberation, when a man was still of some value even
-though he had no 'business'.
+<!-- This trend of affairs seemed destined to develop steadily and permanently.  -->
 
-Thus I used to think it an ill-deserved stroke of bad luck that I had arrived too late on
-this terrestrial globe, and I felt chagrined at the idea that my life would have to run its
-course along peaceful and orderly lines. As a boy I was anything but a pacifist and all
-attempts to make me so turned out futile.
+Having the support of public approbation, it seemed bound eventually to transform the world into a mammoth department store. 
 
-Then the Boer War came, like a glow of lightning on the far horizon. Day after day I
-used to gaze intently at the newspapers and I almost 'devoured' the telegrams and 
-COMMUNIQUES, overjoyed to think that I could witness that heroic struggle, even
-though from so great a distance.
+<!-- In the vestibule of this emporium there would be rows of monumental busts which would confer immortality on those profiteers who had proved themselves the shrewdest at their trade and those administrative officials who had shown themselves the most innocuous.  -->
 
-When the Russo-Japanese War came I was older and better able to judge for myself. For
-national reasons I then took the side of the Japanese in our discussions. I looked upon
-the defeat of the Russians as a blow to Austrian Slavism.
+- The salesmen were represented by the English.
+- The administrative functionaries were represented by the Germans.
+- The Jews would be sacrificed to the unprofitable calling of proprietorship.
+  - They constantly avow that they make no profits
+  - They have the advantage of being versed in the foreign languages.
 
-Many years had passed between that time and my arrival in Munich. I now realized
-that what I formerly believed to be a morbid decadence was only the lull before the
-storm. During my Vienna days the Balkans were already in the grip of that sultry pause
-which presages the violent storm. Here and there a flash of lightning could be
-occasionally seen; but it rapidly disappeared in sinister gloom. Then the Balkan War
-broke out; and therewith the first gusts of the forthcoming tornado swept across a
-highly-strung Europe. 
+Why could I not have been born a hundred years ago during the Wars of Liberation, when a man was still of some value even though he had no 'business'?
 
-In the supervening calm men felt the atmosphere oppressive and
+<!-- Thus I used to think it an ill-deserved stroke of bad luck that I had arrived too late on this terrestrial globe, and I felt chagrined at the idea that my life would have to run its course along peaceful and orderly lines. As a boy I was anything but a pacifist and all attempts to make me so turned out futile. -->
+
+When the Boer War came I used to gaze intently at the newspapers and almost 'devoured' the telegrams and COMMUNIQUES, overjoyed to think that I could witness that heroic struggle, even though from so great a distance.
+
+When the Russo-Japanese War came I was older and better able to judge for myself. For national reasons I sided with the Japanese in our discussions. I looked upon the defeat of the Russians as a blow to Austrian Slavism.
+
+Many years had passed between that time and my arrival in Munich. 
+
+I now realized that the morbid decadence was only the lull before the storm. During my Vienna days, the Balkans were already in the grip of that sultry pause which presages the violent storm. 
+
+Here and there a flash of lightning could be occasionally seen; but it rapidly disappeared in sinister gloom. Then the Balkan War broke out. Then the first gusts of the forthcoming tornado swept across a highly-strung Europe. 
+
+<!-- In the supervening calm men felt the atmosphere oppressive and
 foreboding, so much so that the sense of an impending catastrophe became transformed
 into a feeling of impatient expectance. They wished that Heaven would give free rein to
 the fate which could now no longer be curbed. Then the first great bolt of lightning
 struck the earth. The storm broke and the thunder of the heavens intermingled with the
-roar of the cannons in the World War.
+roar of the cannons in the World War. -->
 
-When the news came to Munich that the Archduke Franz Ferdinand had been
-murdered, I had been at home all day and did not get the particulars of how it
-happened. At first I feared that the shots may have been fired by some GermanAustrian students who had been aroused to a state of furious indignation by the
-persistent pro-Slav activities of the Heir to the Habsburg Throne and therefore wished
-to liberate the German population from this internal enemy. It was quite easy to
-imagine what the result of such a mistake would have been. It would have brought on a
-new wave of persecution, the motives of which would have been 'justified' before the
+When the news came to Munich that the Archduke Franz Ferdinand had been murdered, I had been at home all day. At first I feared that the shots may have been fired by some German-Austrian students who hated the persistent pro-Slav activities of the Heir to the Habsburg Throne. 
+
+ <!-- and therefore wished to liberate the German population from this internal enemy.  -->
+
+But the assassins were Serbs. The greatest friend of the Slavs had fallen a victim to the bullets of Slav patriots.
+
+<!-- it would have brought on a new wave of persecution.
+, the motives of which would have been 'justified' before the
 whole world. But soon afterwards I heard the names of the presumed assassins and also
 that they were known to be Serbs. I felt somewhat dumbfounded in face of the
-inexorable vengeance which Destiny had wrought. The greatest friend of the Slavs had
-fallen a victim to the bullets of Slav patriots.
+inexorable vengeance which Destiny had wrought.  -->
 
 It is unjust to the Vienna government of that time to blame it now for the form and
 tenor of the ultimatum which was then presented. In a similar position and under
 similar circumstances, no other Power in the world would have acted otherwise. On her
 southern frontiers Austria had a relentless mortal foe who indulged in acts of
 provocation against the Dual Monarchy at intervals which were becoming more and
-more frequent. This persistent line of conduct would not have been relaxed until the
-arrival of the opportune moment for the destruction of the Empire. In Austria there was
-good reason to fear that, at the latest, this moment would come with the death of the old
-Emperor. Once that had taken place, it was quite possible that the Monarchy would not
-be able to offer any serious resistance. For some years past the State had been so 
-completely identified with the personality of Francis Joseph that, in the eyes of the great
-mass of the people, the death of this venerable personification of the Empire would be
-tantamount to the death of the Empire itself. Indeed it was one of the clever artifices of
-Slav policy to foster the impression that the Austrian State owed its very existence
-exclusively to the prodigies and rare talents of that monarch. This kind of flattery was
-particularly welcomed at the Hofburg, all the more because it had no relation
-whatsoever to the services actually rendered by the Emperor. No effort whatsoever was
-made to locate the carefully prepared sting which lay hidden in this glorifying praise.
-One fact which was entirely overlooked, perhaps intentionally, was that the more the
-Empire remained dependent on the so-called administrative talents of 'the wisest
-Monarch of all times', the more catastrophic would be the situation when Fate came to
-knock at the door and demand its tribute.
+more frequent. 
+
+This persistent line of conduct would not have been relaxed until the arrival of the opportune moment for the destruction of the Empire. In Austria there was good reason to fear that, at the latest, this moment would come with the death of the old Emperor. 
+
+Once that had taken place, it was quite possible that the Monarchy would not be able to offer any serious resistance. 
+
+For some years past the State had been so  completely identified with the personality of Francis Joseph that, in the eyes of the great mass of the people, the death of this venerable personification of the Empire would be tantamount to the death of the Empire itself. 
+
+It was one of the clever artifices of Slav policy to foster the impression that the Austrian State owed its very existence exclusively to the prodigies and rare talents of that monarch. 
+
+This kind of flattery was particularly welcomed at the Hofburg, all the more because it had no relation whatsoever to the services actually rendered by the Emperor. No effort whatsoever was made to locate the carefully prepared sting which lay hidden in this glorifying praise.
+
+The more the Empire remained dependent on the administrative talents of 'the wisest Monarch of all times', the more catastrophic the situation would be when Fate demanded its tribute.
 
 Was it possible even to imagine the Austrian Empire without its venerable ruler?
+
 Would not the tragedy which befell Maria Theresa be repeated at once?
-It is really unjust to the Vienna governmental circles to reproach them with having
-instigated a war which might have been prevented. The war was bound to come.
-Perhaps it might have been postponed for a year or two at the most. But it had always
-been the misfortune of German, as well as Austrian, diplomats that they endeavoured
-to put off the inevitable day of reckoning, with the result that they were finally
-compelled to deliver their blow at a most inopportune moment.
+
+It is really unjust to the Vienna governmental circles to reproach them with having instigated a war which might have been prevented. The war was bound to come. 
+
+Perhaps it might have been postponed for a year or two at the most. But it had always been the misfortune of German, as well as Austrian, diplomats that they endeavoured to put off the inevitable day of reckoning, with the result that they were finally compelled to deliver their blow at a most inopportune moment.
 
 No. Those who did not wish this war ought to have had the courage to take the
 consequences of the refusal upon themselves. Those consequences must necessarily
-have meant the sacrifice of Austria. And even then war would have come, not as a war
-in which all the nations would have been banded against us but in the form of a
-dismemberment of the Habsburg Monarchy. In that case we should have had to decide
-whether we should come to the assistance of the Habsburg or stand aside as spectators,
-with our arms folded, and thus allow Fate to run its course.
-Just those who are loudest in their imprecations to-day and make a great parade of
-wisdom in judging the causes of the war are the very same people whose collaboration
-was the most fatal factor in steering towards the war.
+have meant the sacrifice of Austria.
 
-For several decades previously the German Social-Democrats had been agitating in an
-underhand and knavish way for war against Russia; whereas the German Centre Party,
-with religious ends in view, had worked to make the Austrian State the chief centre and
-turning-point of German policy. The consequences of this folly had now to be borne.
-What came was bound to come and under no circumstances could it have been
-avoided. The fault of the German Government lay in the fact that, merely for the sake of
-preserving peace at all costs, it continued to miss the occasions that were favourable for
-action, got entangled in an alliance for the purpose of preserving the peace of the world, 
-and thus finally became the victim of a world coalition which opposed the German
+Even then war would have come, not as a war in which all the nations would have been banded against us but in the form of a
+dismemberment of the Habsburg Monarchy. 
+
+In that case we should have had to decide whether we should come to the assistance of the Habsburg or stand aside as spectators, with our arms folded, and thus allow Fate to run its course.
+
+Just those who are loudest in their imprecations to-day and make a great parade of wisdom in judging the causes of the war are the very same people whose collaboration was the most fatal factor in steering towards the war.
+
+For several decades previously the German Social-Democrats had been agitating in an underhand and knavish way for war against Russia; whereas the German Centre Party, with religious ends in view, had worked to make the Austrian State the chief centre and turning-point of German policy.
+
+The consequences of this folly had now to be borne. What came was bound to come and under no circumstances could it have been avoided. 
+
+The fault of the German Government lay in the fact that, merely for the sake of preserving peace at all costs, it continued to miss the occasions that were favourable for action, got entangled in an alliance for the purpose of preserving the peace of the world, and thus finally became the victim of a world coalition which opposed the German
 effort for the maintenance of peace and was determined to bring about the world war.
-Had the Vienna Government of that time formulated its ultimatum in less drastic terms,
-that would not have altered the situation at all: but such a course might have aroused
-public indignation. For, in the eyes of the great masses, the ultimatum was too
-moderate and certainly not excessive or brutal. Those who would deny this to-day are
+
+
+Had the Vienna Government of that time formulated its ultimatum in less drastic terms, that would not have altered the situation at all: but such a course might have aroused public indignation. For, in the eyes of the great masses, the ultimatum was too moderate and certainly not excessive or brutal. Those who would deny this to-day are
 either simpletons with feeble memories or else deliberate falsehood-mongers.
-The War of 1914 was certainly not forced on the masses; it was even desired by the
-whole people.
 
-There was a desire to bring the general feeling of uncertainty to an end once and for all.
-And it is only in the light of this fact that we can understand how more than two
-million German men and youths voluntarily joined the colours, ready to shed the last
-drop of their blood for the cause.
 
-For me these hours came as a deliverance from the distress that had weighed upon me
-during the days of my youth. I am not ashamed to acknowledge to-day that I was
-carried away by the enthusiasm of the moment and that I sank down upon my knees
-and thanked Heaven out of the fullness of my heart for the favour of having been
-permitted to live in such a time.
-
-The fight for freedom had broken out on an unparalleled scale in the history of the
-world. From the moment that Fate took the helm in hand the conviction grew among
-the mass of the people that now it was not a question of deciding the destinies of
-Austria or Serbia but that the very existence of the German nation itself was at stake.
-At last, after many years of blindness, the people saw clearly into the future. Therefore,
-almost immediately after the gigantic struggle had begun, an excessive enthusiasm was
-replaced by a more earnest and more fitting undertone, because the exaltation of the
-popular spirit was not a mere passing frenzy. It was only too necessary that the gravity
-of the situation should be recognized. At that time there was, generally speaking, not
-the slightest presentiment or conception of how long the war might last. People
-dreamed of the soldiers being home by Christmas and that then they would resume
-their daily work in peace.
-
-Whatever mankind desires, that it will hope for and believe in. The overwhelming
-majority of the people had long since grown weary of the perpetual insecurity in the
-general condition of public affairs. Hence it was only natural that no one believed that
-the Austro-Serbian conflict could be shelved. Therefore they looked forward to a radical
-settlement of accounts. I also belonged to the millions that desired this. 
-The moment the news of the Sarajevo outrage reached Munich two ideas came into my
-mind: First, that war was absolutely inevitable and, second, that the Habsburg State
-would now be forced to honour its signature to the alliance. For what I had feared most
-was that one day Germany herself, perhaps as a result of the Alliance, would become
-involved in a conflict the first direct cause of which did not affect Austria. In such a
-contingency, I feared that the Austrian State, for domestic political reasons, would find
-itself unable to decide in favour of its ally. But now this danger was removed. The old
-State was compelled to fight, whether it wished to do so or not.
-
-My own attitude towards the conflict was equally simple and clear. I believed that it
-was not a case of Austria fighting to get satisfaction from Serbia but rather a case of
-Germany fighting for her own existence--the German nation for its own to-be-or-not-tobe, for its freedom and for its future. The work of Bismarck must now be carried on.
-
-Young Germany must show itself worthy of the blood shed by our fathers on so many
-heroic fields of battle, from Weissenburg to Sedan and Paris. And if this struggle should
-bring us victory our people will again rank foremost among the great nations. Only
-then could the German Empire assert itself as the mighty champion of peace, without
-the necessity of restricting the daily bread of its children for the sake of maintaining the
-peace.
-
-As a boy and as a young man, I often longed for the occasion to prove that my national
-enthusiasm was not mere vapouring. Hurrahing sometimes seemed to me to be a kind
-of sinful indulgence, though I could not give any justification for that feeling; for, after
-all, who has the right to shout that triumphant word if he has not won the right to it
-there where there is no play-acting and where the hand of the Goddess of Destiny puts
-the truth and sincerity of nations and men through her inexorable test? Just as millions
-of others, I felt a proud joy in being permitted to go through this test. I had so often
-sung DEUTSCHLAND ÜBER ALLES and so often roared 'HEIL' that I now thought it
-was as a kind of retro-active grace that I was granted the right of appearing before the
-Court of Eternal Justice to testify to the truth of those sentiments.
-One thing was clear to me from the very beginning, namely, that in the event of war,
-which now seemed inevitable, my books would have to be thrown aside forthwith. I
-also realized that my place would have to be there where the inner voice of conscience
-called me.
-
-I had left Austria principally for political reasons. What therefore could be more
-rational than that I should put into practice the logical consequences of my political
-opinions, now that the war had begun. I had no desire to fight for the Habsburg cause,
-but I was prepared to die at any time for my own kinsfolk and the Empire to which they
-really belonged. 
-
-On August 3rd, 1914, I presented an urgent petition to His Majesty, King Ludwig III,
-requesting to be allowed to serve in a Bavarian regiment. In those days the Chancellery
-had its hands quite full and therefore I was all the more pleased when I received the
-answer a day later, that my request had been granted. I opened the document with
-trembling hands; and no words of mine could now describe the satisfaction I felt on
-reading that I was instructed to report to a Bavarian regiment. Within a few days I was
-wearing that uniform which I was not to put oft again for nearly six years.
-For me, as for every German, the most memorable period of my life now began. Face to
-face with that mighty struggle, all the past fell away into oblivion. With a wistful pride I
-look back on those days, especially because we are now approaching the tenth
-anniversary of that memorable happening. I recall those early weeks of war when kind
-fortune permitted me to take my place in that heroic struggle among the nations.
-As the scene unfolds itself before my mind, it seems only like yesterday. I see myself
-among my young comrades on our first parade drill, and so on until at last the day
-came on which we were to leave for the front.
-
-In common with the others, I had one worry during those days. This was a fear that we
-might arrive too late for the fighting at the front. Time and again that thought disturbed
-me and every announcement of a victorious engagement left a bitter taste, which
-increased as the news of further victories arrived.
-
-At long last the day came when we left Munich on war service. For the first time in my
-life I saw the Rhine, as we journeyed westwards to stand guard before that historic
-German river against its traditional and grasping enemy. As the first soft rays of the
-morning sun broke through the light mist and disclosed to us the Niederwald Statue,
-with one accord the whole troop train broke into the strains of DIE WACHT AM
-RHEIN. I then felt as if my heart could not contain its spirit.
-
-And then followed a damp, cold night in Flanders. We marched in silence throughout
-the night and as the morning sun came through the mist an iron greeting suddenly
-burst above our heads. Shrapnel exploded in our midst and spluttered in the damp
-ground. But before the smoke of the explosion disappeared a wild 'Hurrah' was
-shouted from two hundred throats, in response to this first greeting of Death.
-
-Then began the whistling of bullets and the booming of cannons, the shouting and singing of
-the combatants. With eyes straining feverishly, we pressed forward, quicker and
-quicker, until we finally came to close-quarter fighting, there beyond the beet-fields and
-the meadows. Soon the strains of a song reached us from afar. Nearer and nearer, from
-company to company, it came. And while Death began to make havoc in our ranks we
-passed the song on to those beside us: DEUTSCHLAND, DEUTSCHLAND ÜBER
-ALLES, ÜBER ALLES IN DER WELT. 
-
-After four days in the trenches we came back. Even our step was no longer what it had
-been. Boys of seventeen looked now like grown men. The rank and file of the List
-Regiment (Note 11) had not been properly trained in the art of warfare, but they knew
-how to die like old soldiers.
-
-That was the beginning. And thus we carried on from year to year. A feeling of horror
-replaced the romantic fighting spirit. Enthusiasm cooled down gradually and exuberant
-spirits were quelled by the fear of the ever-present Death. A time came when there
-arose within each one of us a conflict between the urge to self-preservation and the call
-of duty. And I had to go through that conflict too. As Death sought its prey everywhere
-and unrelentingly a nameless Something rebelled within the weak body and tried to
-introduce itself under the name of Common Sense; but in reality it was Fear, which had
-taken on this cloak in order to impose itself on the individual. But the more the voice
-which advised prudence increased its efforts and the more clear and persuasive became
-its appeal, resistance became all the stronger; until finally the internal strife was over
-and the call of duty was triumphant. Already in the winter of 1915-16 I had come
-through that inner struggle. The will had asserted its incontestable mastery. Whereas in
-the early days I went into the fight with a cheer and a laugh, I was now habitually calm
-and resolute. And that frame of mind endured. Fate might now put me through the
-final test without my nerves or reason giving way. The young volunteer had become an
-old soldier.
-
-This same transformation took place throughout the whole army. Constant fighting had
-aged and toughened it and hardened it, so that it stood firm and dauntless against
-every assault.
-
-Only now was it possible to judge that army. After two and three years of continuous
-fighting, having been thrown into one battle after another, standing up stoutly against
-superior numbers and superior armament, suffering hunger and privation, the time had
-come when one could assess the value of that singular fighting force.
-For a thousand years to come nobody will dare to speak of heroism without recalling
-the German Army of the World War. And then from the dim past will emerge the
-immortal vision of those solid ranks of steel helmets that never flinched and never
-faltered. And as long as Germans live they will be proud to remember that these men
-were the sons of their forefathers.
-
-I was then a soldier and did not wish to meddle in politics, all the more so because the
-time was inopportune. I still believe that the most modest stable-boy of those days
-served his country better than the best of, let us say, the 'parliamentary deputies'. My
-hatred for those footlers was never greater than in those days when all decent men who
-had anything to say said it point-blank in the enemy's face; or, failing this, kept their
-mouths shut and did their duty elsewhere. I despised those political fellows and if I had 
-had my way I would have formed them into a Labour Battalion and given them the
-opportunity of babbling amongst themselves to their hearts' content, without offence or
-harm to decent people.
-
-In those days I cared nothing for politics; but I could not help forming an opinion on
-certain manifestations which affected not only the whole nation but also us soldiers in
-particular. There were two things which caused me the greatest anxiety at that time and
-which I had come to regard as detrimental to our interests.
-
-Shortly after our first series of victories a certain section of the Press already began to
-throw cold water, drip by drip, on the enthusiasm of the public. At first this was not
-obvious to many people. It was done under the mask of good intentions and a spirit of
-anxious care. The public was told that big celebrations of victories were somewhat out
-of place and were not worthy expressions of the spirit of a great nation. The fortitude
-and valour of German soldiers were accepted facts which did not necessarily call for
-outbursts of celebration. Furthermore, it was asked, what would foreign opinion have
-to say about these manifestations? Would not foreign opinion react more favourably to
-a quiet and sober form of celebration rather than to all this wild jubilation?
-
-Surely the
-time had come--so the Press declared--for us Germans to remember that this war was
-not our work and that hence there need be no feeling of shame in declaring our
-willingness to do our share towards effecting an understanding among the nations. For
-this reason it would not be wise to sully the radiant deeds of our army with
-unbecoming jubilation; for the rest of the world would never understand this.
-Furthermore, nothing is more appreciated than the modesty with which a true hero
-quietly and unassumingly carries on and forgets. Such was the gist of their warning.
-Instead of catching these fellows by their long ears and dragging them to some ditch
-and looping a cord around their necks, so that the victorious enthusiasm of the nation
-should no longer offend the aesthetic sensibilities of these knights of the pen, a general
-Press campaign was now allowed to go on against what was called 'unbecoming' and
-'undignified' forms of victorious celebration.
-
-No one seemed to have the faintest idea that when public enthusiasm is once damped,
-nothing can enkindle it again, when the necessity arises. This enthusiasm is an
-intoxication and must be kept up in that form. Without the support of this enthusiastic
-spirit how would it be possible to endure in a struggle which, according to human
-standards, made such immense demands on the spiritual stamina of the nation?
-I was only too well acquainted with the psychology of the broad masses not to know
-that in such cases a magnaminous 'aestheticism' cannot fan the fire which is needed to
-keep the iron hot. In my eyes it was even a mistake not to have tried to raise the pitch of
-public enthusiasm still higher. Therefore I could not at all understand why the contrary
-policy was adopted, that is to say, the policy of damping the public spirit. 
-
-Another thing which irritated me was the manner in which Marxism was regarded and
-accepted. I thought that all this proved how little they knew about the Marxist plague. It
-was believed in all seriousness that the abolition of party distinctions during the War
-had made Marxism a mild and moderate thing.
-
-But here there was no question of party. There was question of a doctrine which was
-being expounded for the express purpose of leading humanity to its destruction. The
-purport of this doctrine was not understood because nothing was said about that side of
-the question in our Jew-ridden universities and because our supercilious bureaucratic
-officials did not think it worth while to read up a subject which had not been prescribed
-in their university course. This mighty revolutionary trend was going on beside them;
-but those 'intellectuals' would not deign to give it their attention. That is why State
-enterprise nearly always lags behind private enterprise. Of these gentry once can truly
-say that their maxim is: What we don't know won't bother us. In the August of 1914 the
-German worker was looked upon as an adherent of Marxist socialism. That was a gross
-error. When those fateful hours dawned the German worker shook off the poisonous
-clutches of that plague; otherwise he would not have been so willing and ready to fight.
-And people were stupid enough to imagine that Marxism had now become 'national',
-another apt illustration of the fact that those in authority had never taken the trouble to
-study the real tenor of the Marxist teaching. If they had done so, such foolish errors
-would not have been committed.
-
-Marxism, whose final objective was and is and will continue to be the destruction of all
-non-Jewish national States, had to witness in those days of July 1914 how the German
-working classes, which it had been inveigling, were aroused by the national spirit and
-rapidly ranged themselves on the side of the Fatherland. Within a few days the
-deceptive smoke-screen of that infamous national betrayal had vanished into thin air
-and the Jewish bosses suddenly found themselves alone and deserted. It was as if not a
-vestige had been left of that folly and madness with which the masses of the German
-people had been inoculated for sixty years. That was indeed an evil day for the
-betrayers of German Labour. The moment, however, that the leaders realized the
-danger which threatened them they pulled the magic cap of deceit over their ears and,
-without being identified, played the part of mimes in the national reawakening.
-
-The time seemed to have arrived for proceeding against the whole Jewish gang of
-public pests. Then it was that action should have been taken regardless of any
-consequent whining or protestation. At one stroke, in the August of 1914, all the empty
-nonsense about international solidarity was knocked out of the heads of the German
-working classes. A few weeks later, instead of this stupid talk sounding in their ears,
-they heard the noise of American-manufactured shrapnel bursting above the heads of
-the marching columns, as a symbol of international comradeship. Now that the German
-worker had rediscovered the road to nationhood, it ought to have been the duty of any 
-Government which had the care of the people in its keeping, to take this opportunity of
-mercilessly rooting out everything that was opposed to the national spirit.
-While the flower of the nation's manhood was dying at the front, there was time enough
-at home at least to exterminate this vermin. But, instead of doing so, His Majesty the
-Kaiser held out his hand to these hoary criminals, thus assuring them his protection and
-allowing them to regain their mental composure.
-
-And so the viper could begin his work again. This time, however, more carefully than
-before, but still more destructively. While honest people dreamt of reconciliation these
-perjured criminals were making preparations for a revolution.
-Naturally I was distressed at the half-measures which were adopted at that time; but I
-never thought it possible that the final consequences could have been so disastrous?
-But what should have been done then? Throw the ringleaders into gaol, prosecute them
-and rid the nation of them? Uncompromising military measures should have been
-adopted to root out the evil. Parties should have been abolished and the Reichstag
-brought to its senses at the point of the bayonet, if necessary. It would have been still
-better if the Reichstag had been dissolved immediately. Just as the Republic to-day
-dissolves the parties when it wants to, so in those days there was even more justification
-for applying that measure, seeing that the very existence of the nation was at stake. Of
-course this suggestion would give rise to the question: Is it possible to eradicate ideas
-by force of arms? Could a WELTANSCHAUUNG be attacked by means of physical
-force?
-
-At that time I turned these questions over and over again in my mind. By studying
-analogous cases, exemplified in history, particularly those which had arisen from
-religious circumstances, I came to the following fundamental conclusion:
-Ideas and philosophical systems as well as movements grounded on a definite spiritual
-foundation, whether true or not, can never be broken by the use of force after a certain
-stage, except on one condition: namely, that this use of force is in the service of a new
-idea or WELTANSCHAUUNG which burns with a new flame.
-
-The application of force alone, without moral support based on a spiritual concept, can
-never bring about the destruction of an idea or arrest the propagation of it, unless one is
-ready and able ruthlessly to exterminate the last upholders of that idea even to a man,
-and also wipe out any tradition which it may tend to leave behind. Now in the majority
-of cases the result of such a course has been to exclude such a State, either temporarily
-or for ever, from the comity of States that are of political significance; but experience has
-also shown that such a sanguinary method of extirpation arouses the better section of
-the population under the persecuting power. As a matter of fact, every persecution 
-which has no spiritual motives to support it is morally unjust and raises opposition
-among the best elements of the population; so much so that these are driven more and
-more to champion the ideas that are unjustly persecuted. With many individuals this
-arises from the sheer spirit of opposition to every attempt at suppressing spiritual
-things by brute force.
-
-In this way the number of convinced adherents of the persecuted doctrine increases as
-the persecution progresses. Hence the total destruction of a new doctrine can be
-accomplished only by a vast plan of extermination; but this, in the final analysis, means
-the loss of some of the best blood in a nation or State. And that blood is then avenged,
-because such an internal and total clean-up brings about the collapse of the nation's
-strength. And such a procedure is always condemned to futility from the very start if
-the attacked doctrine should happen to have spread beyond a small circle.
-That is why in this case, as with all other growths, the doctrine can be exterminated in
-its earliest stages. As time goes on its powers of resistance increase, until at the
-approach of age it gives way to younger elements, but under another form and from
-other motives.
-
-The fact remains that nearly all attempts to exterminate a doctrine, without having
-some spiritual basis of attack against it, and also to wipe out all the organizations it has
-created, have led in many cases to the very opposite being achieved; and that for the
-following reasons:
-
-When sheer force is used to combat the spread of a doctrine, then that force must be
-employed systematically and persistently. This means that the chances of success in the
-suppression of a doctrine lie only in the persistent and uniform application of the
-methods chosen. The moment hesitation is shown, and periods of tolerance alternate
-with the application of force, the doctrine against which these measures are directed
-will not only recover strength but every successive persecution will bring to its support
-new adherents who have been shocked by the oppressive methods employed. The old
-adherents will become more embittered and their allegiance will thereby be
-strengthened. Therefore when force is employed success is dependent on the consistent
-manner in which it is used. This persistence, however, is nothing less than the product
-of definite spiritual convictions. Every form of force that is not supported by a spiritual
-backing will be always indecisive and uncertain. Such a force lacks the stability that can
-be found only in a WELTANSCHAUUNG which has devoted champions. Such a force
-is the expression of the individual energies; therefore it is from time to time dependent
-on the change of persons in whose hands it is employed and also on their characters
-and capacities.
-
-But there is something else to be said: Every WELTANSCHAUUNG, whether religious
-or political--and it is sometimes difficult to say where the one ends and the other 
-begins--fights not so much for the negative destruction of the opposing world of ideas
-as for the positive realization of its own ideas. Thus its struggle lies in attack rather than
-in defence. It has the advantage of knowing where its objective lies, as this objective
-represents the realization of its own ideas. Inversely, it is difficult to say when the
-negative aim for the destruction of a hostile doctrine is reached and secured. For this
-reason alone a WELTANSCHAUUNG which is of an aggressive character is more
-definite in plan and more powerful and decisive in action than a
-WELTANSCHAUUNG which takes up a merely defensive attitude. If force be used to
-combat a spiritual power, that force remains a defensive measure only so long as the
-wielders of it are not the standard-bearers and apostles of a new spiritual doctrine.
-To sum up, the following must be borne in mind: That every attempt to combat a
-WELTANSCHAUUNG by means of force will turn out futile in the end if the struggle
-fails to take the form of an offensive for the establishment of an entirely new spiritual
-order of' things. It is only in the struggle between two Weltan-schauungen that physical
-force, consistently and ruthlessly applied, will eventually turn the scales in its own
-favour. It was here that the fight against Marxism had hitherto failed.
-This was also the reason why Bismarck's anti-socialist legislation failed and was bound
-to fail in the long run, despite everything. It lacked the basis of a new
-WELTANSCHAUUNG for whose development and extension the struggle might have
-been taken up. To say that the serving up of drivel about a so-called 'State-Authority' or
-'Law-and-Order' was an adequate foundation for the spiritual driving force in a life-ordeath struggle is only what one would expect to hear from the wiseacres in high official
-positions.
-
-It was because there were no adequate spiritual motives back of this offensive that
-Bismarck was compelled to hand over the administration of his socialist legislative
-measures to the judgment and approval of those circles which were themselves the
-product of the Marxist teaching. Thus a very ludicrous state of affairs prevailed when
-the Iron Chancellor surrendered the fate of his struggle against Marxism to the goodwill
-of the bourgeois democracy. He left the goat to take care of the garden. But this was
-only the necessary result of the failure to find a fundamentally new
-WELTANSCHAUUNG which would attract devoted champions to its cause and could
-be established on the ground from which Marxism had been driven out. And thus the
-result of the Bismarckian campaign was deplorable.
-During the World War, or at the beginning of it, were the conditions any different?
-Unfortunately, they were not.
-
-The more I then pondered over the necessity for a change in the attitude of the
-executive government towards Social-Democracy, as the incorporation of contemporary
-Marxism, the more I realized the want of a practical substitute for this doctrine. 
-Supposing Social-Democracy were overthrown, what had one to offer the masses in its
-stead? Not a single movement existed which promised any success in attracting vast
-numbers of workers who would be now more or less without leaders, and holding
-these workers in its train. It is nonsensical to imagine that the international fanatic who
-has just severed his connection with a class party would forthwith join a bourgeois
-party, or, in other words, another class organization. For however unsatisfactory these
-various organizations may appear to be, it cannot be denied that bourgeois politicians
-look on the distinction between classes as a very important factor in social life, provided
-it does not turn out politically disadvantageous to them. If they deny this fact they show
-themselves not only impudent but also mendacious.
-
-Generally speaking, one should guard against considering the broad masses more
-stupid than they really are. In political matters it frequently happens that feeling judges
-more correctly than intellect. But the opinion that this feeling on the part of the masses
-is sufficient proof of their stupid international attitude can be immediately and
-definitely refuted by the simple fact that pacifist democracy is no less fatuous, though it
-draws its supporters almost exclusively from bourgeois circles. As long as millions of
-citizens daily gulp down what the social-democratic Press tells them, it ill becomes the
-'Masters' to joke at the expense of the 'Comrades'; for in the long run they all swallow
-the same hash, even though it be dished up with different spices. In both cases the cook
-is one and the same--the Jew.
-
-One should be careful about contradicting established facts. It is an undeniable fact that
-the class question has nothing to do with questions concerning ideals, though that dope
-is administered at election time. Class arrogance among a large section of our people, as
-well as a prevailing tendency to look down on the manual labourer, are obvious facts
-and not the fancies of some day-dreamer. Nevertheless it only illustrates the mentality
-of our so-called intellectual circles, that they have not yet grasped the fact that
-circumstances which are incapable of preventing the growth of such a plague as
-Marxism are certainly not capable of restoring what has been lost.
-
-The bourgeois' parties--a name coined by themselves--will never again be able to win
-over and hold the proletarian masses in their train. That is because two worlds stand
-opposed to one another here, in part naturally and in part artificially divided. These
-two camps have one leading thought, and that is that they must fight one another. But
-in such a fight the younger will come off victorious; and that is Marxism.
-In 1914 a fight against Social-Democracy was indeed quite conceivable. But the lack of
-any practical substitute made it doubtful how long the fight could be kept up. In this
-respect there was a gaping void.
-
-Long before the War I was of the same opinion and that was the reason why I could not
-decide to join any of the parties then existing. During the course of the World War my 
-conviction was still further confirmed by the manifest impossibility of fighting SocialDemocracy in anything like a thorough way: because for that purpose there should
-have been a movement that was something more than a mere 'parliamentary' party, and
-there was none such.
-
-I frequently discussed that want with my intimate comrades. And it was then that I first
-conceived the idea of taking up political work later on. As I have often assured my
-friends, it was just this that induced me to become active on the public hustings after
-the War, in addition to my professional work. And I am sure that this decision was
-arrived at after much earnest thought. 
-
-### Notes
-
-[Note 11. The Second Infantry Bavarian Regiment, in which Hitler served as a volunteer.] 

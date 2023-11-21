@@ -1,8 +1,8 @@
 ---
 title: The Revolution
 heading: Chapter 7
-weight: 18
-description: ""
+weight: 48
+description: "IN 1915, the enemy started their propaganda among our soldiers"
 image: /covers/mein.jpg
 ---
 
@@ -20,52 +20,52 @@ Gradually our soldiers began to think just in the way the enemy wished them to t
 
 Back then, the army were ready to do counter-propaganda. But unfortunately, they did not have the necessary means. And so  the German side, there was none.
 
-Moreover, the army authorities would have made a psychological mistake had they undertaken this task of mental training. To be efficacious it had come from the home front. For only thus could it be successful among men who for nearly four years now had been performing immortal deeds of heroism and undergoing all sorts of privations for the sake of that
-home. 
+Moreover, the army authorities would have made a psychological mistake had they undertaken this task of mental training. To be efficacious it had come from the home front. For only thus could it be successful among men who for nearly four years now had been performing immortal deeds of heroism and undergoing all sorts of privations for the sake of that home. 
 
-But what were the people at home doing? Was their failure to act merely due to
-unintelligence or bad faith?
+But what were the people at home doing? Was their failure to act merely due to unintelligence or bad faith?
 
-In the midsummer of 1918, after the evacuation of the southern bank of the hearne, the German Press adopted a policy which was so woefully inopportune, and even criminally stupid, that I used to ask myself a question which made me more and more
-furious day after day: Is it really true that we have nobody who will dare to put an end to this process of spiritual sabotage which is being carried on among our heroic troops?
+In the midsummer of 1918, after the evacuation of the southern bank of the hearne, the German Press adopted a criminally stupid policy.
 
-What happened in France during those days of 1914, when our armies invaded that country and were marching in triumph from one victory to another? What happened in Italy when their armies collapsed on the Isonzo front? What happened in France again during the spring of 1918, when German divisions took the main French positions by
-storm and heavy long-distance artillery bombarded Paris?
+<!--  which was so woefully inopportune, and even , that I used to ask myself a question which made me more and more
+furious day after day: Is it really true that we have nobody who will dare to put an end to this process of spiritual sabotage which is being carried on among our heroic troops? -->
 
-How they whipped up the flagging courage of those troops who were retreating and fanned the fires of national enthusiasm among them! 
+What happened in France during those days of 1914, when our armies invaded that country and were marching in triumph from one victory to another? What happened in Italy when their armies collapsed on the Isonzo front? 
+
+What happened in France again during the spring of 1918, when German divisions took the main French positions by storm and heavy long-distance artillery bombarded Paris?
+
+How they whipped up the flagging courage of those troops who were retreating and fanned the fires of national enthusiasm among them!
 
 How their propaganda and their marvellous aptitude in the exercise of mass-influence reawakened the fighting spirit in that broken front and hammered into the heads of the soldiers a, firm belief in final victory! 
 
-Meanwhile, what were our people doing in this sphere? Nothing, or even worse than nothing. Again and again I used to become enraged and indignant as I read the latest papers and realized the nature of the mass-murder they were committing: through their influence on the minds of the people and the soldiers. 
+Meanwhile, what were our people doing in this sphere? Nothing. 
+
+I became enraged as I read the latest papers and realized the nature of the mass-murder they were committing: through their influence on the minds of the people and the soldiers.
 
 More than once I was tormented by the thought that if Providence had put the conduct of German propaganda into my
-hands, instead of into the hands of those incompetent and even criminal ignoramuses
-and weaklings, the outcome of the struggle might have been different.
-
+hands, instead of into the hands of those incompetent and even criminal ignoramuses and weaklings, the outcome of the struggle might have been different.
 
 During those months I felt for the first time that Fate was dealing adversely with me in keeping me on the fighting front and in a position where any chance bullet from some nigger or other might finish me, whereas I could have done the Fatherland a real service in another sphere. 
 
-For I was then presumptuous enough to believe that I would have been successful in managing the propaganda business.
+<!-- For I was then presumptuous enough to believe that I would have been successful in managing the propaganda business.
 But I was a being without a name, one among eight millions. 
 
 Hence it was better for me to keep my mouth shut and do my duty as well as I could in the position to which I had
-been assigned.
+been assigned. -->
 
-In the summer of 1915 the first enemy leaflets were dropped on our trenches. They all
-told more or less the same story, with some variations in the form of it. The story was
-that distress was steadily on the increase in Germany; that the War would last
-indefinitely; that the prospect of victory for us was becoming fainter day after day; that
-the people at home were yearning for peace, but that 'Militarism' and the 'Kaiser' would
-not permit it; that the world--which knew this very well--was not waging war against
-the German people but only against the man who was exclusively responsible, the
-Kaiser; that until this enemy of world-peace was removed there could be no end to the
-conflict; but that when the War was over the liberal and democratic nations would
-receive the Germans as colleagues in the League for World Peace. This would be done
-the moment 'Prussian Militarism' had been finally destroyed.
+In the summer of 1915, the first enemy leaflets were dropped on our trenches. They all told the same story:
+- distress was steadily on the increase in Germany
+- the War would last indefinitely
+- the prospect of victory for us was becoming fainter day after day
+- the people at home were yearning for peace, but that 'Militarism' and the 'Kaiser' would not permit it
+- the world was not waging war against the German people but only against the Kaiser
+- until the Kaiser was removed there could be no end to the conflict
+- when the War was over the democratic nations would receive the Germans as colleagues in the League for World Peace. 
 
-To illustrate and substantiate all these statements, the leaflets very often contained 'Letters from Home', the contents of which appeared to confirm the enemy's propagandist message.
+This would be done the moment 'Prussian Militarism' had been finally destroyed.
 
-Generally speaking, we only laughed at all these efforts. The leaflets were read, sent to base headquarters, then forgotten until a favourable wind once again blew a fresh contingent into the trenches. These were mostly dropped from aeroplanes which were used specially for that purpose.
+<!-- To illustrate and substantiate all these statements, the leaflets very often contained 'Letters from Home', the contents of which appeared to confirm the enemy's propagandist message. -->
+
+We only laughed at all these efforts. The leaflets were read, sent to base headquarters, then forgotten until a favourable wind once again blew a fresh contingent into the trenches.
 
 One feature of this propaganda was very striking. It was that in sections where
 Bavarian troops were stationed every effort was made by the enemy propagandists to
@@ -204,356 +204,3 @@ and preferred to be at the front once again. Therefore, just after my arrival in
 reported myself for service again. At the beginning of March 1917 I rejoined my old
 regiment at the front.
 
-Towards the end of 1917 it seemed as if we had got over the worst phases of moral
-depression at the front. After the Russian collapse the whole army recovered its courage
-and hope, and all were gradually becoming more and more convinced that the struggle
-would end in our favour. We could sing once again. The ravens were ceasing to croak.
-Faith in the future of the Fatherland was once more in the ascendant.
-The Italian collapse in the autumn of 1917 had a wonderful effect; for this victory
-proved that it was possible to break through another front besides the Russian. This
-inspiring thought now became dominant in the minds of millions at the front and
-encouraged them to look forward with confidence to the spring of 1918. It was quite
-obvious that the enemy was in a state of depression. During this winter the front was
-somewhat quieter than usual. But that was the calm before the storm.
-Just when preparations were being made to launch a final offensive which would bring
-this seemingly eternal struggle to an end, while endless columns of transports were
-bringing men and munitions to the front, and while the men were being trained for that
-final onslaught, then it was that the greatest act of treachery during the whole War was
-accomplished in Germany.
-
-Germany must not win the War. At that moment when victory seemed ready to alight
-on the German standards, a conspiracy was arranged for the purpose of striking at the
-heart of the German spring offensive with one blow from the rear and thus making
-victory impossible. A general strike in the munition factories was organized.
-If this conspiracy could achieve its purpose the German front would have collapsed and
-the wishes of the VORWÄRTS (the organ of the Social-Democratic Party) that this time
-victory should not take the side of the German banners, would have been fulfilled. For 
-want of munitions the front would be broken through within a few weeks, the offensive
-would be effectively stopped and the Entente saved. Then International Finance would
-assume control over Germany and the internal objective of the Marxist national betrayal
-would be achieved. That objective was the destruction of the national economic system
-and the establishment of international capitalistic domination in its stead. And this goal
-has really been reached, thanks to the stupid credulity of the one side and the
-unspeakable treachery of the other.
-
-The munition strike, however, did not bring the final success that had been hoped for:
-namely, to starve the front of ammunition. It lasted too short a time for the lack of
-ammunitions as such to bring disaster to the army, as was originally planned. But the
-moral damage was much more terrible.
-
-In the first place. what was the army fighting for if the people at home did not wish it to
-be victorious? For whom then were these enormous sacrifices and privations being
-made and endured? Must the soldiers fight for victory while the home front goes on
-strike against it?
-
-In the second place, what effect did this move have on the enemy?
-In the winter of 1917-18 dark clouds hovered in the firmament of the Entente. For nearly
-four years onslaught after onslaught has been made against the German giant, but they
-failed to bring him to the ground. He had to keep them at bay with one arm that held
-the defensive shield because his other arm had to be free to wield the sword against his
-enemies, now in the East and now in the South. But at last these enemies were
-overcome and his rear was now free for the conflict in the West. Rivers of blood had
-been shed for the accomplishment of that task; but now the sword was free to combine
-in battle with the shield on the Western Front. And since the enemy had hitherto failed
-to break the German defence here, the Germans themselves had now to launch the
-attack. The enemy feared and trembled before the prospect of this German victory.
-At Paris and London conferences followed one another in unending series. Even the
-enemy propaganda encountered difficulties. It was no longer so easy to demonstrate
-that the prospect of a German victory was hopeless. A prudent silence reigned at the
-front, even among the troops of the Entente. The insolence of their masters had
-suddenly subsided. A disturbing truth began to dawn on them. Their opinion of the
-German soldier had changed. Hitherto they were able to picture him as a kind of fool
-whose end would be destruction; but now they found themselves face to face with the
-soldier who had overcome their Russian ally. The policy of restricting the offensive to
-the East, which had been imposed on the German military authorities by the necessities
-of the situation, now seemed to the Entente as a tactical stroke of genius. For three years
-these Germans had been battering away at the Russian front without any apparent
-success at first. Those fruitless efforts were almost sneered at; for it was thought that in 
-the long run the Russian giant would triumph through sheer force of numbers.
-Germany would be worn out through shedding so much blood. And facts appeared to
-confirm this hope.
-
-Since the September days of 1914, when for the first time interminable columns of
-Russian war prisoners poured into Germany after the Battle of Tannenberg, it seemed
-as if the stream would never end but that as soon as one army was defeated and routed
-another would take its place. The supply of soldiers which the gigantic Empire placed
-at the disposal of the Czar seemed inexhaustible; new victims were always at hand for
-the holocaust of war. How long could Germany hold out in this competition? Would
-not the day finally have to come when, after the last victory which the Germans would
-achieve, there would still remain reserve armies in Russia to be mustered for the final
-battle? And what then? According to human standards a Russian victory over Germany
-might be delayed but it would have to come in the long run.
-
-All the hopes that had been based on Russia were now lost. The Ally who had sacrificed
-the most blood on the altar of their mutual interests had come to the end of his
-resources and lay prostrate before his unrelenting foe. A feeling of terror and dismay
-came over the Entente soldiers who had hitherto been buoyed up by blind faith. They
-feared the coming spring. For, seeing that hitherto they had failed to break the Germans
-when the latter could concentrate only part of the fighting strength on the Western
-Front, how could they count on victory now that the undivided forces of that amazing
-land of heroes appeared to be gathered for a massed attack in the West?
-The shadow of the events which had taken place in South Tyrol, the spectre of General
-Cadorna's defeated armies, were reflected in the gloomy faces of the Entente troops in
-Flanders. Faith in victory gave way to fear of defeat to come.
-Then, on those cold nights, when one almost heard the tread of the German armies
-advancing to the great assault, and the decision was being awaited in fear and
-trembling, suddenly a lurid light was set aglow in Germany and sent its rays into the
-last shell-hole on the enemy's front. At the very moment when the German divisions
-were receiving their final orders for the great offensive a general strike broke out in
-Germany.
-
-At first the world was dumbfounded. Then the enemy propaganda began activities
-once again and pounced on this theme at the eleventh hour. All of a sudden a means
-had come which could be utilized to revive the sinking confidence of the Entente
-soldiers. The probabilities of victory could now be presented as certain, and the anxious
-foreboding in regard to coming events could now be transformed into a feeling of
-resolute assurance. The regiments that had to bear the brunt of the Greatest German
-onslaught in history could now be inspired with the conviction that the final decision in
-this war would not be won by the audacity of the German assault but rather by the 
-powers of endurance on the side of the defence. Let the Germans now have whatever
-victories they liked, the revolution and not the victorious army was welcomed in the
-Fatherland.
-British, French and American newspapers began to spread this belief among their
-readers while a very ably managed propaganda encouraged the morale of their troops
-at the front.
-
-'Germany Facing Revolution! An Allied Victory Inevitable!' That was the best medicine
-to set the staggering Poilu and Tommy on their feet once again. Our rifles and machineguns could now open fire once again; but instead of effecting a panic-stricken retreat
-they were now met with a determined resistance that was full of confidence.
-That was the result of the strike in the munitions factories. Throughout the enemy
-countries faith in victory was thus revived and strengthened, and that paralysing
-feeling of despair which had hitherto made itself felt on the Entente front was banished.
-Consequently the strike cost the lives of thousands of German soldiers. But the
-despicable instigators of that dastardly strike were candidates for the highest public
-positions in the Germany of the Revolution.
-
-At first it was apparently possible to overcome the repercussion of these events on the
-German soldiers, but on the enemy's side they had a lasting effect. Here the resistance
-had lost all the character of an army fighting for a lost cause. In its place there was now
-a grim determination to struggle through to victory. For, according to all human rules
-of judgment, victory would now be assured if the Western front could hold out against
-the German offensive even for only a few months. The Allied parliaments recognized
-the possibilities of a better future and voted huge sums of money for the continuation of
-the propaganda which was employed for the purpose of breaking up the internal
-cohesion of Germany.
-
-It was my luck that I was able to take part in the first two offensives and in the final
-offensive. These have left on me the most stupendous impressions of my life--
-stupendous, because now for the last time the struggle lost its defensive character and
-assumed the character of an offensive, just as it was in 1914. A sigh of relief went up
-from the German trenches and dug-outs when finally, after three years of endurance in
-that inferno, the day for the settling of accounts had come. Once again the lusty
-cheering of victorious battalions was heard, as they hung the last crowns of the
-immortal laurel on the standards which they consecrated to Victory. Once again the
-strains of patriotic songs soared upwards to the heavens above the endless columns of
-marching troops, and for the last time the Lord smiled on his ungrateful children.
-In the midsummer of 1918 a feeling of sultry oppression hung over the front. At home
-they were quarrelling. About what? We heard a great deal among various units at the 
-front. The War was now a hopeless affair, and only the foolhardy could think of victory.
-It was not the people but the capitalists and the Monarchy who were interested in
-carrying on. Such were the ideas that came from home and were discussed at the front.
-At first this gave rise to only very slight reaction. What did universal suffrage matter to
-us? Is this what we had been fighting for during four years? It was a dastardly piece of
-robbery thus to filch from the graves of our heroes the ideals for which they had fallen.
-It was not to the slogan, 'Long Live Universal Suffrage,' that our troops in Flanders once
-faced certain death but with the cry, 'DEUTSCHLAND ÜBER ALLES IN DER WELT'. A
-small but by no means an unimportant difference. And the majority of those who were
-shouting for this suffrage were absent when it came to fighting for it. All this political
-rabble were strangers to us at the front. During those days only a fraction of these
-parliamentarian gentry were to be seen where honest Germans foregathered.
-The old soldiers who had fought at the front had little liking for those new war aims of
-Messrs. Ebert, Scheidemann, Barth, Liebknecht and others. We could not understand
-why, all of a sudden, the shirkers should abrogate all executive powers to themselves,
-without having any regard to the army.
-
-From the very beginning I had my own definite personal views. I intensely loathed the
-whole gang of miserable party politicians who had betrayed the people. I had long ago
-realized that the interests of the nation played only a very small part with this
-disreputable crew and that what counted with them was the possibility of filling their
-own empty pockets. My opinion was that those people thoroughly deserved to be
-hanged, because they were ready to sacrifice the peace and if necessary allow Germany
-to be defeated just to serve their own ends. To consider their wishes would mean to
-sacrifice the interests of the working classes for the benefit of a gang of thieves. To meet
-their wishes meant that one should agree to sacrifice Germany.
-Such, too, was the opinion still held by the majority of the army. But the reinforcements
-which came from home were fast becoming worse and worse; so much so that their
-arrival was a source of weakness rather than of strength to our fighting forces. The
-young recruits in particular were for the most part useless. Sometimes it was hard to
-believe that they were sons of the same nation that sent its youth into the battles that
-were fought round Ypres.
-
-In August and September the symptoms of moral disintegration increased more and
-more rapidly, although the enemy's offensive was not at all comparable to the
-frightfulness of our own former defensive battles. In comparison with this offensive the
-battles fought on the Somme and in Flanders remained in our memories as the most
-terrible of all horrors. 
-At the end of September my division occupied, for the third time, those positions which
-we had once taken by storm as young volunteers. What a memory!
-Here we had received our baptism of fire, in October and November 1914. With a
-burning love of the homeland in their hearts and a song on their lips, our young
-regiment went into action as if going to a dance. The dearest blood was given freely
-here in the belief that it was shed to protect the freedom and independence of the
-Fatherland.
-In July 1917 we set foot for the second time on what we regarded as sacred soil. Were
-not our best comrades at rest here, some of them little more than boys--the soldiers who
-had rushed into death for their country's sake, their eyes glowing with enthusiastic
-love.
-The older ones among us, who had been with the regiment from the beginning, were
-deeply moved as we stood on this sacred spot where we had sworn 'Loyalty and Duty
-unto Death'. Three years ago the regiment had taken this position by storm; now it was
-called upon to defend it in a gruelling struggle.
-With an artillery bombardment that lasted three weeks the English prepared for their
-great offensive in Flanders. There the spirits of the dead seemed to live again. The
-regiment dug itself into the mud, clung to its shell-holes and craters, neither flinching
-nor wavering, but growing smaller in numbers day after day. Finally the British
-launched their attack on July 31st, 1917.
-
-We were relieved in the beginning of August. The regiment had dwindled down to a
-few companies, who staggered back, mud-crusted, more like phantoms than human
-beings. Besides a few hundred yards of shell-holes, death was the only reward which
-the English gained.
-
-Now in the autumn of 1918 we stood for the third time on the ground we had stormed
-in 1914. The village of Comines, which formerly had served us as a base, was now
-within the fighting zone. Although little had changed in the surrounding district itself,
-yet the men had become different, somehow or other. They now talked politics. Like
-everywhere else, the poison from home was having its effect here also. The young
-drafts succumbed to it completely. They had come directly from home.
-During the night of October 13th-14th, the British opened an attack with gas on the
-front south of Ypres. They used the yellow gas whose effect was unknown to us, at least
-from personal experience. I was destined to experience it that very night. On a hill south
-of Werwick, in the evening of October 13th, we were subjected for several hours to a
-heavy bombardment with gas bombs, which continued throughout the night with more
-or less intensity. About midnight a number of us were put out of action, some for ever. 
-Towards morning I also began to feel pain. It increased with every quarter of an hour;
-and about seven o'clock my eyes were scorching as I staggered back and delivered the
-last dispatch I was destined to carry in this war. A few hours later my eyes were like
-glowing coals and all was darkness around me.
-I was sent into hospital at Pasewalk in Pomerania, and there it was that I had to hear of
-the Revolution.
-
-For a long time there had been something in the air which was indefinable and
-repulsive. People were saying that something was bound to happen within the next few
-weeks, although I could not imagine what this meant. In the first instance I thought of a
-strike similar to the one which had taken place in spring. Unfavourable rumours were
-constantly coming from the Navy, which was said to be in a state of ferment. But this
-seemed to be a fanciful creation of a few isolated young people. It is true that at the
-hospital they were all talking abut the end of the war and hoping that this was not far
-off, but nobody thought that the decision would come immediately. I was not able to
-read the newspapers.
-
-In November the general tension increased. Then one day disaster broke in upon us
-suddenly and without warning. Sailors came in motor-lorries and called on us to rise in
-revolt. A few Jew-boys were the leaders in that combat for the 'Liberty, Beauty, and
-Dignity' of our National Being. Not one of them had seen active service at the front.
-Through the medium of a hospital for venereal diseases these three Orientals had been
-sent back home. Now their red rags were being hoisted here.
-During the last few days I had begun to feel somewhat better. The burning pain in the
-eye-sockets had become less severe. Gradually I was able to distinguish the general
-outlines of my immediate surroundings. And it was permissible to hope that at least I
-would recover my sight sufficiently to be able to take up some profession later on. That
-I would ever be able to draw or design once again was naturally out of the question.
-Thus I was on the way to recovery when the frightful hour came.
-
-My first thought was that this outbreak of high treason was only a local affair. I tried to
-enforce this belief among my comrades. My Bavarian hospital mates, in particular, were
-readily responsive. Their inclinations were anything but revolutionary. I could not
-imagine this madness breaking out in Munich; for it seemed to me that loyalty to the
-House of Wittelsbach was, after all, stronger than the will of a few Jews. And so I could
-not help believing that this was merely a revolt in the Navy and that it would be
-suppressed within the next few days.
-
-With the next few days came the most astounding information of my life. The rumours
-grew more and more persistent. I was told that what I had considered to be a local affair 
-was in reality a general revolution. In addition to this, from the front came the shameful
-news that they wished to capitulate! What! Was such a thing possible?
-On November 10th the local pastor visited the hospital for the purpose of delivering a
-short address. And that was how we came to know the whole story.
-I was in a fever of excitement as I listened to the address. The reverend old gentleman
-seemed to be trembling when he informed us that the House of Hohen-zollern should
-no longer wear the Imperial Crown, that the Fatherland had become a 'Republic', that
-we should pray to the Almighty not to withhold His blessing from the new order of
-things and not to abandon our people in the days to come. In delivering this message he
-could not do more than briefly express appreciation of the Royal House, its services to
-Pomerania, to Prussia, indeed, to the whole of the German Fatherland, and--here he
-began to weep. A feeling of profound dismay fell on the people in that assembly, and I
-do not think there was a single eye that withheld its tears. As for myself, I broke down
-completely when the old gentleman tried to resume his story by informing us that we
-must now end this long war, because the war was lost, he said, and we were at the
-mercy of the victor. The Fatherland would have to bear heavy burdens in the future. We
-were to accept the terms of the Armistice and trust to the magnanimity of our former
-enemies. It was impossible for me to stay and listen any longer. Darkness surrounded
-me as I staggered and stumbled back to my ward and buried my aching head between
-the blankets and pillow.
-
-I had not cried since the day that I stood beside my mother's grave. Whenever Fate dealt
-cruelly with me in my young days the spirit of determination within me grew stronger
-and stronger. During all those long years of war, when Death claimed many a true
-friend and comrade from our ranks, to me it would have appeared sinful to have
-uttered a word of complaint. Did they not die for Germany? And, finally, almost in the
-last few days of that titanic struggle, when the waves of poison gas enveloped me and
-began to penetrate my eyes, the thought of becoming permanently blind unnerved me;
-but the voice of conscience cried out immediately: Poor miserable fellow, will you start
-howling when there are thousands of others whose lot is a hundred times worse than
-yours? And so I accepted my misfortune in silence, realizing that this was the only thing
-to be done and that personal suffering was nothing when compared with the
-misfortune of one's country.
-
-So all had been in vain. In vain all the sacrifices and privations, in vain the hunger and
-thirst for endless months, in vain those hours that we stuck to our posts though the fear
-of death gripped our souls, and in vain the deaths of two millions who fell in
-discharging this duty. Think of those hundreds of thousands who set out with hearts
-full of faith in their fatherland, and never returned; ought not their graves to open, so
-that the spirits of those heroes bespattered with mud and blood should come home and
-take vengeance on those who had so despicably betrayed the greatest sacrifice which a 
-human being can make for his country? Was it for this that the soldiers died in August
-and September 1914, for this that the volunteer regiments followed the old comrades in
-the autumn of the same year? Was it for this that those boys of seventeen years of age
-were mingled with the earth of Flanders? Was this meant to be the fruits of the sacrifice
-which German mothers made for their Fatherland when, with heavy hearts, they said
-good-bye to their sons who never returned? Has all this been done in order to enable a
-gang of despicable criminals to lay hands on the Fatherland?
-
-Was this then what the German soldier struggled for through sweltering heat and
-blinding snowstorm, enduring hunger and thirst and cold, fatigued from sleepless
-nights and endless marches? Was it for this that he lived through an inferno of artillery
-bombardments, lay gasping and choking during gas attacks, neither flinching nor
-faltering, but remaining staunch to the thought of defending the Fatherland against the
-enemy? Certainly these heroes also deserved the epitaph:
-
-Traveller, when you come to Germany, tell the Homeland that we lie here, true to the
-Fatherland and faithful to our duty. (Note 13) [Note 13. Here again we have the
-defenders of Thermopylae recalled as the prototype of German valour in the Great War.
-Hitler's quotation is a German variant of the couplet inscribed on the monument erected
-at Thermopylae to the memory of Leonidas and his Spartan soldiers who fell defending
-the Pass. As given by Herodotus, who claims that he saw the inscription himself, the
-original text may be literally translated thus:
-
-Go, tell the Spartans, thou who passeth by, That here, obedient to their laws, we lie.]
-And at Home? But--was this the only sacrifice that we had to consider? Was the
-Germany of the past a country of little worth? Did she not owe a certain duty to her
-own history? Were we still worthy to partake in the glory of the past? How could we
-justify this act to future generations?
-What a gang of despicable and depraved criminals!
-
-The more I tried then to glean some definite information of the terrible events that had
-happened the more my head became afire with rage and shame. What was all the pain I
-suffered in my eyes compared with this tragedy?
-The following days were terrible to bear, and the nights still worse. To depend on the
-mercy of the enemy was a precept which only fools or criminal liars could recommend.
-During those nights my hatred increased--hatred for the orignators of this dastardly
-crime.
-
-During the following days my own fate became clear to me. I was forced now to scoff at
-the thought of my personal future, which hitherto had been the cause of so much worry 
-to me. Was it not ludicrous to think of building up anything on such a foundation?
-Finally, it also became clear to me that it was the inevitable that had happened,
-something which I had feared for a long time, though I really did not have the heart to
-believe it.
-Emperor William II was the first German Emperor to offer the hand of friendship to the
-Marxist leaders, not suspecting that they were scoundrels without any sense of honour.
-While they held the imperial hand in theirs, the other hand was already feeling for the
-dagger.
-There is no such thing as coming to an understanding with the Jews. It must be the
-hard-and-fast 'Either-Or.'
-For my part I then decided that I would take up political work. 

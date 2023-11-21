@@ -1,7 +1,7 @@
 ---
 title: Years Of Study And Suffering In Vienna
 heading: Chapter 2
-weight: 6
+weight: 7
 description: ""
 image: /covers/mein.jpg
 ---

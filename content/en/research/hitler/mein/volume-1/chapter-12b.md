@@ -2,7 +2,7 @@
 title: Obligations 1-5 of the Movement
 heading: Chapter 12b
 weight: 30
-description: ""
+description: "As early as 1919, we knew that our new movement should first aim for the nationalization of the masses"
 image: /covers/mein.jpg
 ---
 

@@ -2,43 +2,48 @@
 title: Obligations 12- of the Movement
 heading: Chapter 12d
 weight: 34
-description: ""
+description: "The inner structure of the movement has the following principles"
 image: /covers/mein.jpg
 ---
 
 
-Having taken all these considerations into account, the following principles were laid
-down for the inner structure of the movement:
+The inner structure of the movement has the following principles:
 
-(a) That at the beginning all activity should be concentrated in one town: namely, Munich. 
+1. (a) At the beginning all activity should be concentrated in Munich. 
 
-That a band of absolutely reliable followers should be trained and a school founded which would subsequently help to propagate the idea of the movement. That the prestige of the movement, for the sake of its subsequent extension, should first be established here through gaining as many successful and visible results as possible in
-this one place. 
+Absolutely reliable followers should be trained. A school should be founded which would subsequently help to propagate the idea of the movement.
 
-To secure name and fame for the movement and its leader it was necessary, not only to give in this one town a striking example to shatter the belief that the Marxist doctrine was invincible but also to show that a counter-doctrine was
-possible.
+The prestige of the movement, for the sake of its subsequent extension, should first be established here through gaining as many successful and visible results as possible in this one place. 
 
-(b) That local groups should not be established before the supremacy of the central authority in Munich was definitely established and acknowledged.
+To secure name and fame for the movement and its leader, it was necessary to give Munich the idea that:
+- the Marxist doctrine can be defeated 
+- a counter-doctrine is possible.
 
-(c) That District, Regional, and Provincial groups should be formed only after the need for them has become evident and only after the supremacy of the central authority has been satisfactorily guaranteed.
 
-Further, that the creation of subordinate organisms must depend on whether or not those persons can be found who are qualified to undertake the leadership of them.
+2. (b) Local groups should not be established before the supremacy of the central authority in Munich was definitely established.
 
-Here there were only two solutions:
+3. (c) That District, Regional, and Provincial groups should be formed only after:
+- the need for them has become evident 
+- the supremacy of the central authority has been guaranteed.
 
-(a) That the movement should acquire the necessary funds to attract and train intelligent people who would be capable of becoming leaders. The personnel thus obtained could then be systematically employed according as the tactical situation and
-the necessity for efficiency demanded.
+The creation of subordinate organisms depends on finding qualified leaders for them.
+
+Here there were only 2 solutions:
+
+1. (a) The movement should acquire the necessary funds to attract and train intelligent people who would be capable of becoming leaders. 
+
+The personnel thus obtained could then be systematically employed according as the tactical situation and the necessity for efficiency demanded.
 
 This solution was the easier and the more expedite. But it demanded large financial resources; for this group of leaders could work in the movement only if they could be paid a salary.
 
-(b) Because the movement is not in a position to employ paid officials it must begin by depending on honorary helpers. Naturally this solution is slower and more difficult. 
+
+2. (b) The movement is not in a position to employ paid officials. It must begin by depending on honorary helpers.
+
+Naturally this solution is slower and more difficult. 
 
 It means that the leaders of the movement have to allow vast territories to lie fallow unless in these respective districts one of the members comes forward who is capable and willing to place himself at the service of the central authority for the purpose of organizing and directing the movement in the region concerned.
 
-It may happen that in extensive regions no such leader can be found, but that at the
-same time in other regions two or three or even more persons appear whose capabilities
-are almost on a level. The difficulty which this situation involves is very great and can
-be overcome only with the passing of the years.
+It may happen that in extensive regions no such leader can be found, but that at the same time in other regions two or three or even more persons appear whose capabilities are almost on a level. The difficulty which this situation involves is very great and can be overcome only with the passing of the years.
 
 For the establishment of any branch of the organization the decisive condition must always be that a person can be found who is capable of fulfilling the functions of a leader.
 
@@ -106,10 +111,9 @@ When these truths become part of the flesh and blood, as it were, of our members
 
 We must never forget that admiration for everything that is great is not only a tribute to one creative personality but that all those who feel such admiration become thereby united under one covenant.
 
-Nothing can take the place of the individual, especially if the individual embodies in himself not the mechanical element but the element of cultural creativeness. No pupil can take the place of the master in completing a great picture which he has left unfinished; and just in the same way no substitute can take the place of the great poet or 
-thinker, or the great statesman or military general. For the source of their power is in
-the realm of artistic creativeness. It can never be mechanically acquired, because it is an
-innate product of divine grace.
+Nothing can take the place of the individual, especially if the individual embodies in himself not the mechanical element but the element of cultural creativeness. 
+
+No pupil can take the place of the master in completing a great picture which he has left unfinished; and just in the same way no substitute can take the place of the great poet or thinker, or the great statesman or military general. For the source of their power is in the realm of artistic creativeness. It can never be mechanically acquired, because it is an innate product of divine grace.
 
 The greatest revolutions and the greatest achievements of this world, its greatest cultural works and the immortal creations of great statesmen, are inseparably bound up with one name which stands as a symbol for them in each respective case. The failure to pay tribute to one of those great spirits signifies a neglect of that enormous source of
 power which lies in the remembrance of all great men and women.
