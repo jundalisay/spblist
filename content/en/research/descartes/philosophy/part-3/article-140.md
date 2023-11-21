@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 140. The principle of the motion of a Planet.
+### 140. The principle of the motion of a Planet
 
 Let us assume that the star N is capable of less agitation, or has less solidity, NB. See fig. pag. 171. than the globules of the second element, which are towards the circumference of our sky, but still has somewhat more than some of those which are towards the Sun: Whence we understand, that as soon as it is taken away from the vortex of the Sun, it should immediately descend towards its center, until it reaches those celestial globules with which it is equal in solidity, or in aptitude to continue in its motion in straight lines:
 
@@ -80,7 +80,3 @@ Seeing the inferior Planets from among these, being carried faster in their orbi
 Nor will we wonder in the meantime that the spots which appear on its surface are carried much more slowly than any Planet: (for they spend 26 days in their very short circuit, while Mercury in its more than sixty times larger, barely three months, and Saturn in its perhaps 2,000 times larger, only thirty years, which unless it moved faster than them, it should spend more than a hundred). 
 
 For we will think that this happens because the particles of the third element, arising from the continuous dissolution of the spots, are gathered around the Sun, and there compose a certain large mass of air or ether, perhaps extending up to the sphere of Mercury, or even further; whose ether particles, being very irregular and branched, adhere to each other in such a way that they are not separately moved, as the globules of celestial matter, but are all swept away together by the Sun, and with them both the solar spots and also the part of the sky near Mercury; hence they complete not much more circuits than Mercury in the same time, and therefore do not move so fast.
-
-
-
-

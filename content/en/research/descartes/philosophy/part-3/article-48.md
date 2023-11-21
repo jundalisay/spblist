@@ -11,19 +11,6 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 47. The falsity of these assumptions does not prevent the truth and certainty of the conclusions derived from them.
-
-These few assumptions seem sufficient to me, so that from them, as causes, all the effects that appear in this world can arise according to the laws of nature previously explained. I do not think that simpler, more easily understood, or even more probable principles of things can be devised. 
-
-For even if it were possible to deduce the same order that now exists in things from Chaos through the laws of Nature, which I have attempted to explain before, confusion seems less fitting with the supreme perfection of God, the creator of things, than proportion or order, and it can also be perceived less distinctly by us. No proportion or order is simpler and easier to understand than that which consists of perfect equality. 
-
-Therefore, I suppose that all the particles of matter were initially equal in both size and motion and leave no inequality in the universe except that which is in the positions of the fixed stars and which appears so clearly to anyone who looks at the sky at night that it can scarcely be denied. 
-
-It hardly matters what is supposed in this way, because it is later to be changed according to the laws of nature. And hardly anything can be assumed from which the same effect could not be deduced through the same laws of nature, albeit perhaps with more difficulty. 
-
-For since matter, with the help of those laws, successively assumes all forms of which it is capable, if we consider those forms in order, we will finally be able to arrive at that which is of this world. So that no error from a false supposition is to be feared here.
-
-
 ### 48. How all the particles of celestial matter became spherical.
 
 So, to begin to show the efficacy of the laws of nature in the proposed hypothesis, it must be considered that the particles into which we suppose all the matter of this world was initially divided could not have been spherical at first, because several globules joined together do not fill a continuous space. 
@@ -44,7 +31,9 @@ Namely, while the angles of those matter particles, which are becoming round, ar
 
 ### 50. The particles of this finer matter can be easily divided.
 
-It should be noted that the smaller these fragments of other particles are, the more easily they can be moved and broken down into even smaller pieces. Because the smaller they are, the more surface area they have in proportion to their volume, and they encounter other bodies by their surface and are divided by their volume.
+The smaller these fragments of other particles are, the more easily they can be moved and broken down into even smaller pieces. 
+
+Because the smaller they are, the more surface area they have in proportion to their volume, and they encounter other bodies by their surface and are divided by their volume.
 
 
 ### 51. The same particles move very quickly.
@@ -54,5 +43,3 @@ They are agitated much more swiftly than the other particles of matter from whic
 In the same way, we see air exit very quickly from a bellows, even if it is slowly closed, because of the narrowness of the passage through which it passes. 
 
 Some portion of matter must move very quickly and be divided into practically infinite parts so that various circular and unequal motions can occur without rarefaction or voids, and no other matter is found to be suitable for this purpose.
-
-

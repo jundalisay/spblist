@@ -1,5 +1,5 @@
 ---
-title: "What is Light?"
+title: "Light and the Movement of Spacetime Particles"
 heading: Articles 56-59
 weight: 32
 description: "Understanding the effort towards motion in inanimate objects"
@@ -29,6 +29,7 @@ This does not mean that they move by themselves. Instead, they are moved in a ce
 <!-- it should not be thought that I am attributing any thought to them, from which this effort arises; 
 
 rather, they are simply situated and moved in such a way that they will indeed move in that direction  -->
+
 
 ### 57. How different efforts towards motion can coexist in the same body
 

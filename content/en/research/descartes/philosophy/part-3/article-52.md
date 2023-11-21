@@ -1,8 +1,8 @@
 ---
-title: "The 3 Elements of the Visible World"
+title: "The Creation of the Universe"
 heading: Articles 52-55
 weight: 31
-description: "Understanding the effort towards motion in inanimate objects"
+description: "There are three elements of this visible world"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

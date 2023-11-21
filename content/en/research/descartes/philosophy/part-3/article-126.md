@@ -13,7 +13,9 @@ icon: "/icons/descartes.png"
 
 ### 126. The Initial Motion of a Comet
 
-If we assume that star N has more solidity than the globules of the second element sufficiently distant from the center of vortex S, which we assume to be all equal among themselves, it can initially be carried in various directions and move more or less towards S, depending on the various dispositions of other vortices it encounters. It can be variously retained or pushed by them, and also depending on its solidity; the greater its solidity, the more it resists being deflected by other causes from the direction it was first sent. 
+If we assume that star N has more solidity than the globules of the second element sufficiently distant from the center of vortex S, which we assume to be all equal among themselves, it can initially be carried in various directions and move more or less towards S, depending on the various dispositions of other vortices it encounters. 
+
+It can be variously retained or pushed by them, and also depending on its solidity; the greater its solidity, the more it resists being deflected by other causes from the direction it was first sent. 
 
 Nevertheless, it cannot be pushed with great force by neighboring vortices because it is assumed to have previously been at rest near them. 
 
@@ -25,7 +27,9 @@ For example, if it initially moves along line NC, once it reaches C, where this 
 
 As it reaches C, from the matter of the second element more distant from S than that which is at C and therefore moves more swiftly, it is more solid, as we assume. 
 
-It cannot help but have greater force to continue its motion along the straight line tangent to that circle. But as soon as it recedes from point C, it encounters the matter of the second element moving more swiftly, which somewhat diverts it from the straight line while also increasing its speed, making it rise further along the curved line C2, which is closer to the tangent line the more solid this star is and the greater its speed from N to C.
+It cannot help but have greater force to continue its motion along the straight line tangent to that circle. 
+
+But as soon as it recedes from point C, it encounters the air-aether moving more swiftly, which somewhat diverts it from the straight line while also increasing its speed, making it rise further along the curved line C2, which is closer to the tangent line the more solid this star is and the greater its speed from N to C.
 
 
 ### 127. On the Continuation of a Comet's Motion Through Various Vortices

@@ -2,7 +2,7 @@
 title: "The Hypothesis of Copernicus and Tycho"
 heading: Articles 15-19`
 weight: 16
-description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+description: "The hypotheses of Copernicus and Tycho do not differ as hypotheses"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -43,22 +43,24 @@ Therefore, I will not explain it.
 
 ### 17. <sup>2-3</sup> The hypotheses of Copernicus and Tycho do not differ as hypotheses. 
 
-The second is Copernicus's, and the third is Tycho Brahe's: these two, insofar as they are merely hypotheses, satisfy the phenomena in the same way, and there is not much difference between them, except that Copernicus's is somewhat simpler and clearer; so that Tycho had no occasion to change it, except because he was attempting not just to explain a hypothesis but the truth itself."
+The second is Copernicus's. The third is Tycho Brahe's.
+
+These two satisfy the phenomena in the same way. There is not much difference between them, except that Copernicus's is somewhat simpler and clearer. Tycho did not need to change it, except because he was attempting to explain a hypothesis and the truth itself.
+
 
 ### 18. Tycho in words denies, but in reality assigns more motion to the Earth than Copernicus. 
 
-For while Copernicus did not hesitate to attribute motion to the Earth, 
+Copernicus did not hesitate to attribute motion to the Earth. But Tycho considered it very absurd in physics and contrary to common human sense. And so he sought to correct it.
 
-Tycho, considering this very absurd in physics and contrary to common human sense, sought to correct it: 
+**But he did not sufficiently consider the true nature of motion.**
 
-but because he did not sufficiently consider the true nature of motion, he asserted only in words that the Earth is stationary, while in reality, he assigned more motion to it than the other.
+And so, he asserted only in words that the Earth is stationary. While in reality, he assigned more motion to it than to the other.
 
 
 ### 19. I deny the Earth's motion more accurately than Copernicus and more truly than Tycho.
 
-Therefore, differing from both only in this, that I will more truly than Tycho and more carefully than Copernicus remove all motion from the Earth; 
+I differ from both only in this: **I will more truly than Tycho and more carefully than Copernicus remove all motion from the Earth.**
 
-I will propose here the hypothesis that seems to be the simplest of all, and most suitable both for understanding the phenomena and for investigating their natural causes:
+I will propose here the simplest hypothesis of all, and most suitable both for understanding the phenomena and for investigating their natural causes.
 
 I wish it to be regarded only as a hypothesis, not as the truth.
-

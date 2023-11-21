@@ -39,7 +39,9 @@ This has already been demonstrated above concerning the small spheres contained 
 
 But now this same phenomenon, along with the remaining spheres contained within the entire cone, will become clearer through the operation of this first element. 
 
-For the part of it that forms the body of the Sun propels both the small spheres of the second element that are towards the ecliptic e and those that are towards the poles d and f, and finally all that are in the cone dHf towards H. It does not move with greater force towards e than towards d and f and other intermediate parts: the part that is now supposed to be at H tends towards C, from where it returns through K and L towards S as if in a circle. 
+For the part of it that forms the body of the Sun propels both the small spheres of the second element that are towards the ecliptic e and those that are towards the poles d and f, and finally all that are in the cone dHf towards H. 
+
+It does not move with greater force towards e than towards d and f and other intermediate parts: the part that is now supposed to be at H tends towards C, from where it returns through K and L towards S as if in a circle. 
 
 Therefore, it does not prevent those small spheres from approaching H, and by their approach, the space that was previously there increases the body of the Sun, and is filled with the matter of the first element flowing there from the centers KL and similar points.
 

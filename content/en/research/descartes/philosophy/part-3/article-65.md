@@ -19,7 +19,13 @@ Therefore, if we assume the first vortex, whose center is S, moves from A throug
 
 Similarly, a third vortex, whose center is not in the plane SAFE but above it, forming a triangle with the centers S and F, and which is connected with the other two vortices AEI and AEV in the line AE, should move from A through E upwards. 
 
-Given this, the fourth vortex, whose center is f, cannot move from E towards I to agree with the motion of the first vortex, because it would oppose the motions of the second and third vortices; nor can it move from E towards V like the second vortex, because it would conflict with the first and third vortices; nor can it finally move upwards from E like the third vortex, because it would conflict with the first and second vortices. Therefore, it must have one of its poles towards E and the other in the opposite direction towards B, rotating around the axis EB, from I to V.
+Given this, the fourth vortex, whose center is f, cannot move from E towards I to agree with the motion of the first vortex, because it would oppose the motions of the second and third vortices.
+
+Nor can it move from E towards V like the second vortex, because it would conflict with the first and third vortices.
+
+Nor can it finally move upwards from E like the third vortex, because it would conflict with the first and second vortices. 
+
+Therefore, it must have one of its poles towards E and the other in the opposite direction towards B, rotating around the axis EB, from I to V.
 
 
 ### 66. The motions of these vortices are somehow deflected to harmonize with each other.

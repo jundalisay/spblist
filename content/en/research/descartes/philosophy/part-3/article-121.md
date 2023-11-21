@@ -1,6 +1,6 @@
 ---
 title: "The Solidity and Agitation of Bodies"
-heading: Articles 121-
+heading: Articles 121-125
 weight: 56
 description: "This effort found in celestial matter"
 writer:
