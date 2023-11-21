@@ -11,9 +11,7 @@ weight: 24
 
 
 [I J Since men, as we have said, are led more by passion than by reason , it naturally follows that a people will unite and consent to be guided as if by one mind not at reason's prompting but through some common emotion, such as (as we said
-in Section 9, Chapter 3) a common hope, or common fear, or desire to avenge
-some common injury. Now since fear of isolation is innate in all men inasmuch
-as in isolation no one has the strength to defend himself and acquire the necessi5 [dominandi bbidine The connotation IS sexual (see the General OeflDltions of the Affects followIng ElDef48).]
+in Section 9, Chapter 3) a common hope, or common fear, or desire to avenge some common injury. Now since fear of isolation is innate in all men inasmuch as in isolation no one has the strength to defend himself and acquire the necessi5 [dominandi bbidine The connotation IS sexual (see the General OeflDltions of the Affects followIng ElDef48).]
 6 [Machiavelli. Discourses I, 55.]
 
 7 [No doubt a reference to the executIOn ofEngland's Charles 1m 1 649. For Spinoza's more extended
