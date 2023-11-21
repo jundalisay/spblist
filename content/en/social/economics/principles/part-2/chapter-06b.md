@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 6b"
 linkTitle: Chapter 6b
-title: Supply Efficiency and Inefficiency
+title: "Efficiency Model: Supply and Demand Efficiency"
 # title: "Producer's & Consumer's Surplus and Deadweight Loss"
 date: 2019-06-17
 weight: 25
@@ -17,28 +17,38 @@ toc: false
 ---
 
 
+Chapter 3 explained the different types of effort. 
+
+Chapter 4 explained that these efforts will likely be valued by the demand that allows the most primary arbitrage. 
+
+The best match real-time of effort and need, as supply and demand, is one of the goals of Supereconomics. 
+
+Inefficiencies can be grouped into 2:
+
+1. Demand Inefficiency
+
+This is when nominal value is decreasing. 
+
+2. Supply Inefficiency
+
+This is when real value, as costs, is increasing.
+
+
 <!-- Update March 2020: Since 2016, our new science has been warning of a global economic crisis to occur in 2019. This is how we predicted it. The crisis is now here, so we will pause Superphysics, as it has already done its part and we have already built the new economic system called Tao to solve it (whether people will use it is another question that is beyond us). We will shift focus on a solution for Covid via its sister science which we call Bio Superphysics to disrupt Western Medicine and create Medical Singularity just as Superphysics aims to disrupt Economics with Economic Singularity. -->
 
-The subjective match of supply and demand via primary arbitrage will increase the revenue for the suppliers and benefits for the purchasers.  
+<!-- The subjective match of supply and demand via primary arbitrage will increase the revenue for the suppliers and benefits for the purchasers.   -->
 
-Nominal Value | Real Value | Name
---- | --- | ---
-Increase | Stable | Demand Efficiency
-Decrease | Stable | Demand Inefficiency
-Stable | Increase | Supply Inefficiency
-Stable | Decrease | Supply Efficiency
+This leads to the following table:
+
+Name | Nominal Value | Real Value | Meaning
+--- | --- | --- | ---
+Demand Efficiency | Increase | Stable | Demand is matched as precisely to Supply as Possible
+Demand Inefficiency | Decrease | Stable | There is a mismatch between Demand and Supply
+Supply Inefficiency | Stable | Increase | Costs decline
+Supply Efficiency | Stable | Decrease | Costs increase
 
 
 {{< i s="/graphics/econ/supplydemand.jpg" a="Supply and Demand shifts" >}}
-
-
-Concept | Meaning | Example
---- | --- | ---
-Demand Efficiency | Demand is matched as precisely to Supply as Possible | 
-Demand Inefficiency | There is a mismatch between Demand and Supply | 
-Supply Efficiency | Costs decline   
-Supply Inefficiency | Costs increase
-
 
 
 ### Supply Efficiency and Inefficency
@@ -56,7 +66,7 @@ D | Medium | Low | No
 E | Medium | Medium | Yes
 F | Medium | High | No
 G | High | Low | Yes
-H | High | Medium | Yes
+H | **High** | **Medium** | **Yes**
 I | High | High | No
 
 The best match for the job would be Person H. 
@@ -65,7 +75,9 @@ The best match for the job would be Person H.
 - Supply Inefficiency is in employing Person F as having the worst match. 
 
 
-According to Economics, a market dis-equilibrium creates 3 inefficiencies:
+## The Inefficiencies of Economics
+
+Our model is different from Economics which has 3 inefficiencies from market dis-equilibrium:
 
 Inefficiency | Defintion
 --- | ---
@@ -84,7 +96,7 @@ Since the mind only gives names to real experiences, that area cannot get a name
 
 ## The Proper Surpluses Plotted Realistically
 
-To eliminate this unreal area, we will show how these ‘surpluses’ naturally manifest in our supereconomic supply and demand curves below:
+To eliminate this unreal area, we will apply our efficiency model as the supereconomic supply and demand curves below:
 
 ![Supply and Demand of Superphysics](/charts/econ/prod.png)
 

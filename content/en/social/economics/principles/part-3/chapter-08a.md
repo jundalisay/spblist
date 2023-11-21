@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 7"
+heading: "Chapter 8b"
 title: "Economic Karma"
 description : "Economic Karma is the cause and effect of economic actions"
 weight: 42

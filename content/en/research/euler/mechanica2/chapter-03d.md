@@ -103,9 +103,10 @@ g
 Corollary 2.
 604. But the difference between the arcs of the ascent and of the descent, clearly is equal
 to :
-Whereby the difference between the arc of the descent and the ascent is as the biquadratic
-[fourth power] of the sum of the arcs.
+Whereby the difference between the arc of the descent and the ascent is as the biquadratic [fourth power] of the sum of the arcs.
+
 Scholium 1.
+
 605. From these it is evident in the rarest medium, which resists as the quadruple of the
 ratio of the speeds, the difference between the arc of the ascent and of the descent is
 proportional to the biquadratic of the sum of the arcs, or
@@ -113,6 +114,7 @@ Moreover above we saw in the rarest medium, which resisted in the ratio of the s
 the speeds, that the arc of the descent
 and the arc of the ascent
 hence this gives
+
 (557). Whereby in this resistance the difference between the arc of the ascent and the arc
 of the descent is as the square of the sum of the arcs. And in a medium that resists in the
 simple ratio of the speeds, if it were the rarest, isEULER'S MECHANICA VOL. 2.
@@ -138,7 +140,9 @@ progressions of transcendentals, or of these general terms that are unable to be
 algebraically.] From which indeed it is agreed, that if 2m is an odd number, then the
 value of this fraction involves the quadrature of the circle, as also we have found in the
 case in which 2m = 1.
+
 Scholium 2. [p. 322]
+
 606. Because indeed it touches on that proposition that Newton demonstrated in the
 Principia [Book. II, Prop. XXXI] which is, that the difference between the arcs of the
 descent and of the ascent on a cycloid is as the sum of the arcs raised to the whole power
