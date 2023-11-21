@@ -1,7 +1,7 @@
 ---
 title: "The Invisible Hand of Human Dharma"
 date: 2013-11-18
-image: /photos/hand.jpg
+image: /photos/objects/hand.jpg
 description : "The concept that best matches the invisible hand is simply the aspects of human nature which maintain social order"
 writer:
   name: Juan

@@ -115,11 +115,16 @@ ground for both sensual experience and liberation. -->
 
 <sup>21</sup> The phenomenal world exists to reveal the true nature to consciousness.
 
-<sup>22</sup> Once the true nature is revealed, the phenomenal world no longer appears as such. It continues to exist as a common reality for everyone else, though.
+<sup>22</sup> Once the true nature is revealed, the phenomenal world no longer appears as such. It continues to exist as a common reality for everyone else.
 
-<sup>23</sup> Creation and consciousness 
+<sup>23</sup> The phenomenal world has the power to take on many forms. 
 
-<sup>24</sup> Ignorance is the cause of this phenomenal world. 
+<!-- Creation and consciousness 
+own owner power acquisition of own forms in yoga -->
+
+<sup>24</sup> This is the cause of Ignorance (or the Illusion).
+
+ <!-- is the cause of this phenomenal world.  -->
 
 <sup>25</sup> Yoga ends the ignorance, revealing that awareness is free and untouched by phenomena.
 
@@ -201,38 +206,38 @@ ground for both sensual experience and liberation. -->
 
 <sup>34</sup> Improper thoughts and emotions such as those of violence- whether done, caused to be done, or even approved of- indeed, any thought originating in desire, anger or delusion, whether mild medium or intense- do all result in endless pain and misery. Overcome such distractions by pondering on the opposites.
 
-<sup>35</sup> Being firmly grounded in non-violence creates an atmosphere in which others can let go of their hostility.
+<sup>35</sup> Being firmly grounded in **non-violence** creates an atmosphere in which others can let go of their hostility.
 
-<sup>36</sup> For those grounded in truthfulness, every action and its consequences are imbued with truth.
+<sup>36</sup> For those grounded in **truthfulness**, every action and its consequences are imbued with truth.
 
-<sup>37</sup> For those who have no inclination to steal, the truly precious is at hand.
+<sup>37</sup> For those who have **no inclination to steal**, the truly precious is at hand.
 
-<sup>38</sup> Those who see Supreme in all acquire vitality.
+<sup>38</sup> Those who **see the Supreme in all** acquire vitality.
 
-<sup>39</sup> Freedom from wanting unlocks the real purpose of existence.
+<sup>39</sup> **Freedom from wanting** unlocks the real purpose of existence.
 
 <sup>40</sup> From purity follows a withdrawal from enchantment over one's own body as well as a cessation of desire for physical contact with others.
 
-<sup>41</sup> Purification leads to a one-pointed sense leading to happiness, mastery of the soul, and ability for vision.
+<sup>41</sup> **Purification** leads to a one-pointed sense leading to happiness, mastery of the soul, and ability for vision.
  <!-- self-awareness -->
 
-<sup>42</sup> Contentment brings unsurpassed joy.
+<sup>42</sup> **Contentment** brings unsurpassed joy.
 
-<sup>43</sup> Auserity burns away impurities, increasing the powers of the senses. 
+<sup>43</sup> **Auserity** burns away impurities, increasing the powers of the senses. 
 
-<sup>44</sup> Spiritual self-study brings one closer to one’s divine goals. 
+<sup>44</sup> **Spiritual self-study** brings one closer to one’s divine goals. 
 
  <!-- personal deity. -->
 
-<sup>45</sup> Surrendering to the Supreme gives powers to reach samadhi. 
+<sup>45</sup> **Surrendering to the Supreme** gives powers to reach samadhi. 
 
-<sup>46</sup> Asanas bring steady happiness. <sup>47</sup> These relax the body, allowing a deeper meditation  <sup>48</sup> so that one is no longer disturbed by the play of opposites.
+<sup>46</sup> **Asanas** bring steady happiness. <sup>47</sup> These relax the body, allowing a deeper meditation  <sup>48</sup> so that one is no longer disturbed by the play of opposites.
 
 <sup>49</sup> With this deep meditation, the flow of inhalation and exhalation, as pranayama, can further end the play of opposites.  
 
 <sup>50</sup> This leads to a breathing pattern of inhalation, exhalation, and lull. When done in a specific duration, number, and focus, the breath becomes subtle. <sup>51-52</sup> This makes the external and internal world give way to the fourth world of light that removes the veil <sup>53</sup> so that the mind's capacity for focus in attained. 
 
-<sup>54</sup> Pratyahara is the decoupling of the senses from external objects. This is achieved when the mind itself decouples from the external world. <sup>55</sup> Then, the senses serve only the Supreme.
+<sup>54</sup> **Pratyahara** is the decoupling of the senses from external objects. This is achieved when the mind itself decouples from the external world. <sup>55</sup> Then, the senses serve only the Supreme.
 
 
 

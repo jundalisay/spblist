@@ -45,7 +45,7 @@ paginate = 12
         weight = 7
     [[languages.en.menu.main]]
         name = "/icons/question.png"
-        url = "faq"
+        url = "faqs"
         weight = 8
     [[languages.en.menu.main]]
         name = "/icons/about.png"
@@ -491,7 +491,7 @@ paginate = 12
     languageName = "عربي"
     [[languages.ar.menu.main]]
       name = "/icons/question.png"
-      url = "faq"
+      url = "faqs"
       weight = 8
     [[languages.ar.menu.main]]
       name = "/icons/about.png"
@@ -633,7 +633,7 @@ paginate = 12
     languageName = "中文"
     [[languages.zh.menu.main]]
         name = "/icons/question.png"
-        url = "faq"
+        url = "faqs"
         weight = 8
     # [[languages.zh.menu.main]]
     #     name = "/icons/about.png"
@@ -775,7 +775,7 @@ paginate = 12
     languageName = "Deutsch"
     [[languages.de.menu.main]]
         name = "/icons/question.png"
-        url = "faq"
+        url = "faqs"
         weight = 8
     [[languages.de.menu.main]]
         name = "/icons/about.png"
@@ -917,7 +917,7 @@ paginate = 12
     languageName = "Français"
     [[languages.fr.menu.main]]
         name = "/icons/question.png"
-        url = "faq"
+        url = "faqs"
         weight = 8
     [[languages.fr.menu.main]]
         name = "/icons/about.png"
@@ -1059,7 +1059,7 @@ paginate = 12
     languageName = "हिन्दी भाषा"
     [[languages.hi.menu.main]]
         name = "/icons/question.png"
-        url = "faq"
+        url = "faqs"
         weight = 8
     [[languages.hi.menu.main]]
         name = "/icons/about.png"
@@ -1201,7 +1201,7 @@ paginate = 12
     languageName = "Bahasa Indonesia"
     [[languages.id.menu.main]]
         name = "/icons/question.png"
-        url = "faq"
+        url = "faqs"
         weight = 8
     [[languages.id.menu.main]]
         name = "/icons/about.png"
@@ -1343,7 +1343,7 @@ paginate = 12
     languageName = "日本語"
     [[languages.jp.menu.main]]
         name = "/icons/question.png"
-        url = "faq"
+        url = "faqs"
         weight = 8
     [[languages.jp.menu.main]]
         name = "/icons/about.png"
@@ -1485,7 +1485,7 @@ paginate = 12
     languageName = "Tieng Viet"
     [[languages.vi.menu.main]]
         name = "/icons/question.png"
-        url = "faq"
+        url = "faqs"
         weight = 8
     [languages.vi.params]
       intro = "Siêu Vật Lý: Khoa học kết hợp với Siêu hình học"
@@ -1521,7 +1521,7 @@ paginate = 12
     languageName = "русский"
     [[languages.ru.menu.main]]
         name = "/icons/question.png"
-        url = "faq"
+        url = "faqs"
         weight = 8
     [[languages.ru.menu.main]]
         name = "/icons/about.png"

@@ -5,7 +5,7 @@ title: "'God' as the Supreme Being"
 date: 2020-11-30
 # 2020-01-04
 weight: 34
-image: /photos/hand.jpg
+image: /photos/objects/hand.jpg
 description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
 writer:
   name: Juan

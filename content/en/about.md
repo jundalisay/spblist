@@ -93,7 +93,7 @@ Feel free to contact us via email at pantrypoints@gmail.com .
 
 Core Team | 
 --- | ---
-Juan | Founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "Line of Intuition" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. 
+Juan | Founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "Line of Intuition" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. He is also a full-stack developer.
 Lam | Joined Juan in 2017 to build Pantrypoints. Like Juan, she has a "Line of Intuition" and "Solomon Ring". She is still trying to get samadhi.
  <!-- Pantrypoints then , likes to read and write about the works from the Enlightenment -->
 <!-- She writes about economics, business, and history -->
