@@ -1,13 +1,14 @@
 ---
-title: "Why String Theory is a waste of time"
-date: 2023-05-23
+title: "Why String Theory and Supersymmetry are a waste of time"
+# date: 2023-05-23
+date: 2024-12-21
 weight: 2
 image: /graphics/physics/string.jpg
 description: "To unify both, physicists invented string theory wherein particles become threads which integrate with the fabric of spacetime."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.pn
+icon: /icons/spmat.png
 ---
 
 
@@ -22,12 +23,12 @@ It assumes that the line joining 2 points of a solid body does not conserve its 
 {{< /q >}}
 
 
-The big problem began in 1905 when Einstein applied the same constant speed of light to time, as the idea of "simultaniety of time".
+The big problem began in 1905 when Einstein applied the same constant speed of light to time, as the idea of "simultaneity of time".
 
 Practically, this prevented teleportation and only allowed time travel upon reaching very fast speeds.  
 
 Theoreticaly, this led to problems with particle physics when the possible interactions between particles were analyzed through Feynman loops. 
-- These loops applied the simultaniety of time to particles and naturally came up with impossible infinities.  
+- These loops applied the simultaneity of time to particles and naturally came up with impossible infinities.  
 
 To solve these infinities, **Supersymmetry Theory** was created. 
 - This theorized partner particles for each of the known ones, making the infinite finite. 
@@ -37,9 +38,9 @@ To solve these infinities, **Supersymmetry Theory** was created.
 {{< i s="/graphics/physics/string.jpg" a="String Theory and Supersymmetry are wrong" >}}
 
 
-Another theoretical problem created by the simultaniety of time was that gravity did not match quantum mechanics. 
+Another theoretical problem created by the simultaneity of time was that gravity did not match quantum mechanics. 
 
-This is because simultaniety uses light to judge space, when in reality, it is the immaterial space (as an agent of the aether) that judges material light.
+This is because simultaneity uses light to judge space, when in reality, it is the immaterial space (as an agent of the aether) that judges material light.
 
 To solve this, **String Theory** was invented.
 - This absurdly converts particles into dimensions which are glued together by an even more absurd 'M-Theory'. 
@@ -51,14 +52,14 @@ In other words:
 So both of them are just 2 sides of the same fallacy coin. 
 - Both of them will fail in reality because an imaginary object can never have a reality no matter what you do.
 
-The creator of the imaginary object is the simultaniety of time. 
-- This is because, in Cartesian Physics, the true cause of simultaniety is the 5th Element called the aether.
-- But Einstein's simultaniety is based on light (1st Element) and so does not match Nature or reality
+The creator of the imaginary object is the simultaneity of time. 
+- This is because, in Cartesian Physics, the true cause of simultaneity is the 5th Element called the aether.
+- But Einstein's simultaneity is based on light (1st Element) and so does not match Nature or reality
 
 
 ### The Solution
 
-The solution is to get rid of Einstein's Relativity which carries the false idea of the simultaniety of time. 
+The solution is to get rid of Einstein's Relativity which carries the false idea of the simultaneity of time. 
 
 Instead of being light-based, time can be split into 3 kinds:
 
@@ -80,7 +81,7 @@ In this way:
 - the mismatch between gravity (spatial layer) and quantum mechanics (aethereal layer) is corrected by making the aether the mechanism behind spacetime 
 
 
-{{< u d="Dec 22, 2024" u="Overhauled the post after drilling down on the simultaniety of time in Part 2, Chapter 9 of Material Superphysics Principles" >}}
+{{< u d="Dec 22, 2024" u="Overhauled the post after drilling down on the simultaneity of time in Part 2, Chapter 9 of Material Superphysics Principles" >}}
 
 
 <!--

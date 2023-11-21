@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "The Five Layers of Superphysics"
 # date: 2020-01-01
-image: "/graphics/physics/layers.png"
+image: "/graphics/physics/layers.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 writer:
   name: Juan

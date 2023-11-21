@@ -33,15 +33,17 @@ Lower | Spacetime | Space is dominant
 
 The media of the spatial layer create the various forces:
 
-Layer | Media | Force
+Layer | Media | Manifesting Force
 --- | --- | ---
-Aethereal-Spatial | Spacetime or most3 (cluster) | Dark Energy
-Spatial-Spatial | Spacetime or most3 (galaxy) |  Dark Matter
-Spatial-Radiant/Material | Spacetime or most3 + som | Gravity
-Radiant | Spacetime or most3 + mor3 | Magnetism 
-Material | Aetherspace or most2 | Gluon or Strong Force
+Spatial | most + qost | Dark Energy
+Spatial | most + qost2 |  Dark Matter
+Radiant | most + mor | Lensing
+Radiant | most + mor2 | Magnetism 
+Material | most + mom | Gravity
+Material | mos + som | Gluon or Strong Force
 
- 
+
+
 Forces that work in the Spatial and Athereal layers are not detectable by instruments. That is why physicists are unable to find dark matter, dark energy, and gravity. 
 
 <!-- Name | Image | Description
@@ -55,13 +57,23 @@ Aetherspace | | This the space inside an atom and other places that are too smal
 ### The Spatial Layer has Different Dynamics in Other Universes
 
 
-In this universe, the aether decided that most3 act like fluids by being less rigid, allowing them to convert from most3 to qosts. 
+In our galaxy, mosts are arranged with particles facing outwards. This causes material spheres.
+
+However, in other galaxies they might be facing inwards. This would create a reverse gravity wherein creatures would walk on the sky of planets. 
+
+
+{{< img src="/graphics/physics/reverse.jpg" alt="Reverse Gravity" cap="Reverse gravity could be possible in other galaxies" >}}
+
+
+
+
+<!-- decided that most3 act like fluids by being less rigid, allowing them to convert from most3 to qosts. 
 
 In other universes within the multiverse however, the aether might decide for for most3 or gravitation to be more rigid. 
 
 Instead of pulling objects down to a planet's core, it might push those objects farther. 
 
-The diversity of the universes therefore are due to the difference in the qualities or properties of the media and quanta of each layer. 
+The diversity of the universes therefore are due to the difference in the qualities or properties of the media and quanta of each layer.  -->
 
 
 <!-- q a="Socrates" c="The Republic by Plato Simplified" >

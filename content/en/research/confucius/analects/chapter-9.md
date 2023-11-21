@@ -4,7 +4,7 @@ title: "His Favorite Disciple's Opinion of Him"
 description: "The Master rarely spoke on Advantage, Destiny, and Duty of man to man"
 weight: 18
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

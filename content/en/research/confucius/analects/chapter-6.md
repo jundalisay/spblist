@@ -4,7 +4,7 @@ title: "Wisdom and Philanthropy"
 description: "To be serious in regard to spiritual beings, and to hold aloof from them, this may be called wisdom"
 weight: 12
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

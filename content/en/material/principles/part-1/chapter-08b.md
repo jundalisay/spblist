@@ -94,7 +94,7 @@ The image above shows that the aether drag has always been there. We call the la
 The data scientist will deal with the low-level aether drag for use in technological applications.
 - The metaphysician will deal with high-level aether drag for guidance
 
-These will add quality control to aether science and prevent junk theorists like Kant and Einstein from destroying and corrupting it with transcendence and simultaniety respectively. 
+These will add quality control to aether science and prevent junk theorists like Kant and Einstein from destroying and corrupting it with transcendence and simultaneity respectively. 
 
 Instead, the metaphysician will use the spacetime definition of Avicenna, Hume, and Poincare to guide the data scientist in developing space-time tech and aether tech that are rooted in reality instead of imagination.
 - Examples of space-time tech are levitation, teleportation, and time travel

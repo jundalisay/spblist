@@ -49,7 +49,7 @@ But where did this Singularity come from?
 To solve this mystery, we throw out sophistical opinion of Einstein, Newton, and Aristotle that movement is sourced externally whether from concentric spheres or a fabric-like spacetime. 
 
 <!--  get out of this 
-all separated by the simultaniety of time which he pegs to the speed of light which is really circular reasoning. 
+all separated by the simultaneity of time which he pegs to the speed of light which is really circular reasoning. 
 
 The end result is a singularity that defies physics and which no one can explain. It's like hiding dust under the rug, hoping that no one will notice or ask about. -->
 

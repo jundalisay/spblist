@@ -4,7 +4,7 @@ title: "Art of Governing amd Consistency"
 description: "Art of Governing amd Consistency"
 weight: 30
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

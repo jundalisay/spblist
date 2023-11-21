@@ -19,7 +19,7 @@ Bob Lazar gave his descriptions of the Gravity-A waves that power the Gray UFO i
 
 {{< youtube cJWzBCV0ksc >}}
 
-In Cartesian-Spinoza Physics, this is the same as the aetherspace which surrounds the quarks in a proton. 
+In Material Superphysics, this is the same as the aetherspace which surrounds the quarks in a proton. 
 
 The Gray UFO's mechanism is to use Element-115 that has a large aetherspace that extends beyond the atom. 
 
@@ -29,7 +29,7 @@ In human levitation, this aetherspace is known as chi which is propelled downwar
 
 The aetherspace can be harnessed without Element 115. The Grays probably only use it because it is a compact source of ready-aetherspace.
 
-Our preferred theoretical way to generate the aetherspace is through external electric fields that replicate the natural aetherspace in atoms through Cartesian Relativity (see superpositioon and decoherence video).
+Our preferred theoretical way to generate the aetherspace is through an external electro-aetheric field-force that replicates the natural aetherspace in atoms through Cartesian Relativity (see superpositioon and decoherence video).
 
 This requires more power than what can be carried in the small craft of the Grays and is what is used by larger UFO craft.
 

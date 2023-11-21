@@ -4,7 +4,7 @@ title: "Good and Bad Government"
 description: "Good and Bad Government"
 weight: 32
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

@@ -4,7 +4,7 @@ title: "Confucius' Favorite Disciple"
 description: "Comparative Worth of His Disciples"
 weight: 24
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

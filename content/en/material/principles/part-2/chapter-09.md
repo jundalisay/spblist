@@ -100,7 +100,7 @@ In fact, another mathematician-turned-physicist Hawking has a whole book on thes
 {{< img src="/graphics/physics/constant.jpg" alt="Physics Constant" cap="Einstein has trapped humans away from advanced technology" >}}
 
 
-### Metric Tensor: The Simultaniety of Time Fallacy
+### Metric Tensor: The Simultaneity of Time Fallacy
 
 The flaw of using constants to create the shape of space, locking spatial reality in, is understandable error. 
 
@@ -110,14 +110,14 @@ Few people seemed to notice that this method is very wasteful because it has to 
 
  <!-- . It creates a kind of space (and time) that can bend or be perpendicular to anything the imagination thinks of.  -->
 
-But in order to make the arbitrary spacetimes real, Einstein uses the speed of light -- the same c that created space -- to create time, as the simultaniety of time.
+But in order to make the arbitrary spacetimes real, Einstein uses the speed of light -- the same c that created space -- to create time, as the simultaneity of time.
 
 <!-- To confine this arbitrariness, Einstein uses c or light (which everyone perceives in the same way) to make measurements, as .  -->
 
  <!-- empirical observations (that are common to all humans) possible. This c is then balanced by a cosmological constant as the medium or arena for the c. -->
 
 {{< q a="Einstein-sophist" c="Relativity, Chapter 8" >}}
-We test simultaniety by putting an observer in the middle `M` between `A` and `B`. He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time. **If he sees the two flashes of lightning at the same time, then they are simultaneous [happen at the same time]** You object by saying that "time" would only be "simultaniety" if light travels at a constant speed but the speed of light is measured by time. **You would say this is reasoning in a circle and therefore, simultaniety has absolutely nothing to do with light.**
+We test simultaneity by putting an observer in the middle `M` between `A` and `B`. He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time. **If he sees the two flashes of lightning at the same time, then they are simultaneous [happen at the same time]** You object by saying that "time" would only be "simultaneity" if light travels at a constant speed but the speed of light is measured by time. **You would say this is reasoning in a circle and therefore, simultaneity has absolutely nothing to do with light.**
 {{< /q >}}
 
 

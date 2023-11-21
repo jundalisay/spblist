@@ -4,7 +4,7 @@ title: "Confucious' Disciples"
 description: "The first to make progress in the Proprieties and in Music are plain farmers"
 weight: 20
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Zhao_Rukuo
 image: "/covers/analects.png"
 ---

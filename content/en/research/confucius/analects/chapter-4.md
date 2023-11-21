@@ -4,7 +4,7 @@ title: "Social Virtue--Superior and Inferior Man"
 description: "To be slow to speak, but prompt to act, is the desire of the 'superior man.'"
 weight: 8
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

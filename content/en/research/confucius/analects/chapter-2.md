@@ -4,7 +4,7 @@ title: "Good Government, Filial Piety, and The Superior Man"
 description: "Filial piety is in not being perverse. We should always follow the Rules of Propriety with regard to our parents"
 weight: 4
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

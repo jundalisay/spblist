@@ -8,7 +8,9 @@ author: Consolidated from Bashar
 
 
 
-The Essassani are a 5th dimensional civilization in a parallel reality in the Orion's belt. They are based on unconditional love, ecstasy, fun, following your excitement, being totally non-judgmental, and giving validity and equality to the uniqueness of each individual in their society*.
+The Essassani are a 5th dimensional civilization in a parallel reality in the Orion's belt. They are a hybrid of human and Gray DNA created by the Grays (future humans). This means they are even closer to humans that the Grays. This is proven by them being able to procreate whereas the Grays could not.   
+
+They are based on unconditional love, ecstasy, fun, following your excitement, being totally non-judgmental, and giving validity and equality to the uniqueness of each individual in their society*.
 
 <!-- Even the Pleiadians look up to the Essassani civilization as being exceptionally spiritually-advanced*. -->
 

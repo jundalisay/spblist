@@ -4,7 +4,7 @@ title: "What makes a Minister Great?"
 description: "Great ministers' are those who serve their prince conscientiously. They retire when they cannot do so. They may be called 'qualified ministers.'"
 weight: 22
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

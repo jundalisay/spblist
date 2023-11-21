@@ -3,8 +3,7 @@ heading: "Chapter 2c"
 title: "The Properties of Time"
 # date: 2023-03-10
 weight: 8
-image: /photos/psych/bore.jpg
-# was 1c
+image: /graphics/physics/spacetimeratio.png
 description: "Proper Time passes faster on a mountain because it covers more space for the same amount of Coordinate time, so Proper time adjusts accordingly"
 writer:
   name: Juan
@@ -16,6 +15,56 @@ icon: /icons/spmat.png
 We define:
 - "timespan" as the gap between specific perceived identities, as experiences, events, or incidents
 - "time" as the gap within perceptions in general
+
+
+A perception is new or different from a pervious perception if it has something different in it. So we can say that time is an effect of change.
+
+
+### 3 Kinds of Time
+
+A universe that has zero changes does not have time. Changes in the universe happen in the 3 Layers:
+
+1. Aethereal
+2. Radiant
+3. Material
+
+
+The changes are facilitated by 2 Layers next to them:
+
+1. Spatial
+
+This results in the general concept of time 
+
+2. Convertible
+
+This results in particle decay times. 
+
+
+These lead to 3 kinds of times:
+
+1. Aethereal
+
+This is mental time. This is the time that "flies fast when you're having fun".
+
+2. Radiant
+
+This is relativistic time facilitated by invariance and constant speed of light.
+
+3. Material
+
+This is absolute time in classical mechanics. 
+
+
+{{< box >}}
+By pegging time to c, Einstein blocked out aethereal time and therefore the aethereal and spatial layers. 
+
+This is why we downgrade his simultaneity of time from a principle into a convention in order to restore Nature and allow mental or subjective time. This means that:
+- the metric tensor varies and is not even a tensor because this changes his 4d continuum into 2d slices that can be arranged arbitrarily instead of sequentially.
+  - This arbitrariness allows teleportation where matter can be in one place now and a totally different place in another.
+
+People would use the simultaneity of time when they need precise timing values, such as those for GPS.
+{{< /box >}}
+
 
 
 ### The Unity of Space and Time
@@ -35,17 +84,31 @@ In the Physical Domain, space is dominant because objects are dominant. For exam
 
 Notice how the "Riemann" object on the left makes obvious the space it occupies, as its length, width, and height. **But it does not make the time aspect obvious.**
 
+> A physical object makes the space aspect obvious, but not the time aspect
+
+
 Our sliced object on the right, on the contrary, exposes **both the space and the time used by perception** to have knowledge of the same object.  
 
-We look at the object one part at a time. Usually, we look at it from top to bottom. We do not see the object in totality immediately as to know all its visual properties.
+This is because we look at the object one part at a time. This is in turn because the mind can only have 1 object inside it at a time.
+
+{{< q a="Sarkar" c="Idea and Ideology" >}}
+Unless the mindstuff takes the form of incoming the quantum-perceptions, no perception is possible. This is because the ego can work only when the mindstuff adopts a form.
+{{< /q >}}
+
+
+Usually, we look at it from top to bottom. We do not see the object in totality immediately as to know all its visual properties.
 
 Therefore, our spacetime model makes the unity of space and time easier to understand. 
 - This unity is really the unity of subject and object, or of perceiver and perception.
 
 
-## Why Time Always Moves Forward
+## Time Always Moves Forward
 
 Both space and time are products of perception which always moved outward or forward from the **self** as the lower mind. This is why time always moves forward whether externally or internally.
+
+This is because main purpose of the aethereal layer is to facilitate perception. 
+
+A consciousness that moves backwards will be deleting its own mind its its own ideas and feelings.
 
 {{< img src="/graphics/physics/soul.jpg" alt="The Direction of Perception" cap="Time always moves forward from the perspective of the lower mind." >}}
 
@@ -94,7 +157,9 @@ This leads to our concept of timespace.
 
 ## Physical Time Versus Metaphysical Time
 
-Physical Time occupies the lower layers of timespace while Metaphysical Time occupies the upper layers. 
+We classify the material and radiant times are physical time, and the aethereal or mental time as metaphysical. 
+- Physical Time occupies the lower layers of timespace
+- Metaphysical Time occupies the upper layers. 
 
 <!-- Here we likewise create the concept of Physical Time and Metaphysical Time.  -->
 
@@ -103,7 +168,7 @@ In Physics, this is roughly similar to the concept of Proper and Coordinate Time
 - Physical Time is objective.
 - Metaphysical Time is subjective.
 
-Physical Time in Superphysics also includes Newtonian Time and the Radioactive Decay-time of certain elements.
+<!-- Physical Time in Superphysics also includes Newtonian Time and the Radioactive Decay-time of certain elements. -->
 
 <!-- These 'times' follow the hierarchy of the 5 Layers. This means that:
 - Metaphysical time is superior and the most important of all the times as it dictates our common actions
@@ -115,20 +180,17 @@ Physical Time in Superphysics also includes Newtonian Time and the Radioactive D
 
  
 
-Domain | Spacetime Sublayer | Name | Measure | Physics Name
+Domain | Layer | Name | Measure | Physics Name
 --- | --- | --- | --- | ---   
-Metaphysical | Aethereal | Mental Time | Experience | Coordinate Time (Einstein)
-Physical | Radiant | Electromagnetic Time | Atomic Clock | Proper Time (Einstein)
-Physical | Convertible | Radioactive Time | Radioactive Decay Clock |
-Physical | Material | Material Time | Sand Clock | Absolute Time (Newton)
+Metaphysical | Aethereal | Mental | Experience | Coordinate Time (Einstein)
+Metaphysical | Spatial | Time | Perception | Timespan
+Physical | Radiant | Electromagnetic | Atomic Clock | Proper Time (Einstein)
+Physical | Convertible | Decay | Radioactive Decay Clock |
+Physical | Material | Material | Sand Clock | Absolute Time (Newton)
 
 
-<!-- Einstein Relativity | Superphysics
---- | ---
-Proper Time | Physical Time
-Coordinate Time | Metaphysical Time 
 
-Relativity says that Proper Time passes faster on a mountain than at sea level because  -->
+<!--Relativity says that Proper Time passes faster on a mountain than at sea level because  -->
 
 <!--
 The water spins because the energy is transferred to it by the bucket. There is a dip in the center because that is the center of gravity of the bucket, which serves as the anchor for the gravitational band between the water and the bucket and the Earth. 
@@ -158,9 +220,9 @@ Einstein defined time as the time that it takes for light to travel between two 
 
 
 {{< q a="Einstein-sophist" c="Relativity Simplified, Section 8" >}}
-We test simultaniety by putting an observer in the middle M between A and B. He as two mirrors inclined at 90° to let him see both A and B at the same time. If he sees the two flashes of lightning at the same time, then they are simultaneous.
+We test simultaneity by putting an observer in the middle M between A and B. He as two mirrors inclined at 90° to let him see both A and B at the same time. If he sees the two flashes of lightning at the same time, then they are simultaneous.
 
-You object by saying that they would only be true, that time would be simultaniety, if all light travels at a constant speed. <i><b>But the speed of light would itself be measured by time, so this is reasoning in a circle -- simultaniety has absolutely nothing to do with light.</b></i>
+You object by saying that they would only be true, that time would be simultaneity, if all light travels at a constant speed. <i><b>But the speed of light would itself be measured by time, so this is reasoning in a circle -- simultaneity has absolutely nothing to do with light.</b></i>
 
 I answer that this simultaneity of time is only used for us to make empirical decisions. 
 {{< /q >}} -->
@@ -199,12 +261,4 @@ Descartes | Gravity is caused by the aether which creates spinning vortices | Im
 Newton | Gravity comes from mass | No observations of galactic movements | Mass comes from gravity, gravity comes from the aether | 5/10
 Einstein | Gravity comes from mass through the distortions of the spacetime fabric or field | Using light as the measuring rod | Use sound as the measuring rod, in line with Kepler and Pythagoras | 3/10
  -->
-
-<!-- The main purpose of the aethereal layer is to facilitate perception. 
-
-Perception happens when consciousness goes out of itself. This outward movement is a forward action and is why time moves forward. 
-
-A consciousness that moves back will be deleting its own mind its its own ideas and feelings.  -->
-
-
 

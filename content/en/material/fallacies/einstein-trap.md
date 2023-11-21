@@ -29,7 +29,7 @@ But the big problem is that light is part of the Radiant (ELectromagentic) Layer
 Einstein permanently damages Physics by making it go through circular reasoning which we call the **Einstein trap**:
 
 {{< q a="Einstein-sophist" c="Relativity, Section 8" >}}
-Two lightning flashes occurred simultaneously at A and B seen by an observer at the middle. [We thus define time as simultaniety, and define simultaniety as light appearing at the same time.]  <i>It would thus appear that we are reasoning in a logical circle</i>.
+Two lightning flashes occurred simultaneously at A and B seen by an observer at the middle. [We thus define time as simultaneity, and define simultaneity as light appearing at the same time.]  <i>It would thus appear that we are reasoning in a logical circle</i>.
 {{< /q >}}
 
 This circular reasoning is why physicists are unable to unify Relativity with Quantum Mechanics. 

@@ -175,7 +175,7 @@ Likewise, to avoid having to laboriously find the relation between everything th
  <!-- gravitational field or the dharma of the reference frame that affects everything -->
 
 {{< q a="Einstein-sophist" c="Relativity, Section 8" >}}
-But we only demand that ‘simultaniety’ supply us with an empirical decision.
+But we only demand that ‘simultaneity’ supply us with an empirical decision.
 {{< /q >}}
 
 
@@ -185,7 +185,7 @@ The result is that their theories are not universal and will fall apart once new
 
 <!-- ### Why General Relativity Holds
 
-Einstein's General Relativity only holds because the simultaniety of time is rooted in the perception action. This action is based on the generation of the idea (or feeling) to start perceiving. 
+Einstein's General Relativity only holds because the simultaneity of time is rooted in the perception action. This action is based on the generation of the idea (or feeling) to start perceiving. 
 
 The speed of the generation or perception of ideas (or feelings) holds a ratio to the speed of the generation or perception of gravitational signatures or the speed of creating discrete things within the universe (since [everything is an idea](/superphysics/principles/chapter-02/)). 
 
@@ -215,7 +215,7 @@ Physical time then is the gap between two perceptions done by the Mind of the Un
 
 We replace Einstein's Special Relativity with the original [Law of Relativity](/research/poincare/science/chapter-05b) by Poincare using Electromagnetism (Radiance) as the basis for Physical Time.
 
-We replace Einstein's General Relativity with the same Poincare Law of Relativity but using qosts (Spacetime) as the basis for Physical Time instead of Einstein's simultaniety based on `c`.
+We replace Einstein's General Relativity with the same Poincare Law of Relativity but using qosts (Spacetime) as the basis for Physical Time instead of Einstein's simultaneity based on `c`.
 
 To avoid mixing up Poincare's Relativity with that of Einstein, we change it to "Relationality". -->
 
@@ -313,4 +313,4 @@ Mar 28, 2024 | added Poincare's Law of Relativity and sprinkled some Descartes o
 
 <!-- - Replacing constant c with variable s representing the changing speed limit of the universe
 - Replacing mass m with the inherent gravitational signature G of the object, entity, or mind that is applicable to all five physical layers and even to the metaphysical layer
-- Defining time as the gap between two observations, instead of being the simultaniety of events -->
+- Defining time as the gap between two observations, instead of being the simultaneity of events -->

@@ -20,11 +20,11 @@ Upper | Timespace | Quasi-Physical | Teleportation (via Electromagnetism)
 Middle | Aetherspace | Quasi-Physical and Physical | Gluons (via Matter)
 Lower | Spacetime | Physical | Gravity (via Matter), Dark Matter (via Light, Matter), Magnetism (via Electromagnetism) 
 
-In Bio Superphysics, it is where spacetimes are glued together by the abstract mind. 
+
 
 {{< youtube 6D9LNAgWbRE >}}
 
-In Cartesian Physics and the pre-Science era, this was known as extension. 
+This is where spacetime slices exist. In Cartesian Physics and the pre-Science era, this was known as extension. 
 
 {{< q a="Descartes" c="" >}}
 The essence of matter consists in extension
@@ -35,7 +35,7 @@ Extension is an attribute of God, or God is an extended thing
 {{< /q >}}
 
 
-{{< s i="/graphics/meta/space.jpg" a="Extension" c="We call extension as metaphysical space" >}}
+{{< i s="/graphics/meta/space.jpg" a="Extension" c="The philosophical extension is the metaphysical space occupied by a physical object in the mind" >}}
 
 
 This allows the concept of 7 dimensions each of which has its own property:
@@ -63,6 +63,8 @@ Technically, the 7th Dimension is purely aethereal and no longer part of the Spa
 
 ## Properties of the Aetherspace
 
+### Spacetime Ratio as Liquidity
+
 The main property of the aetherspace is the space-time ratio. 
 
 - In the lower dimension both time and space are at their minimum. 
@@ -72,13 +74,31 @@ In between, they are both malleable:
 - In the lower dimensions, time is rigid or limited, but space is malleable or freer
 - In the upper dimensions, space is rigid or limited, but time is malleable or freer
 
+This is because the aetherspace is more immaterial and more liquid than spacetime. 
+
+This liquidity gives its wave and probabilistic nature, just as the water in pool with so many people in it will have many fluctuations or splashes and waves.
+- However, the water will never suddenly go to one side of the pool. The nature of doing so belongs to the aethereal layer and not the spatial. 
+
 This has practical uses:
 - In Material Superphysics, this leads to teleportation (via timespace).
 - In Bio Superphysics, this leads to anti-aging.
 - In Social Superphysics, this leads to the faster evolution of societies.
 
 
-### In the Material to Radiant Layers
+### Separator for Universes
+
+The aetherspace separates spacetime slices from each other. 
+
+The spacetime slices that are most similar to each other are naturally stitched together by timespace.  
+
+Therefore, those slices that are most different from the current one are the 'farthest' away in the aetherspace. This really means that they are of a different waveform that the timespace is unable to match in frequency. 
+
+
+## Difference Between the Aetherspace and Spacetime
+
+ <!-- In the Material to Radiant Layers -->
+
+You can think of the aetherspace as the book's body, and the spacetime slices as the pages of the book. The timespace is the browsing or flipping of the pages of the book.  
 
 From the Material to Radiant Layers, the aetherspace facilitates quantum mechanics. Its most important use is for teleportation, which will be explained in another chapter. 
 
@@ -89,17 +109,14 @@ If atoms are our basis, then:
 {{< youtube Ov5jFvtb3bg >}}
 
 
-<!-- Currently, Physics has is stuck because Einstein used light as a measuring rod for all of spacetime. The problem is that light is part of the Radiant Layer which is naturally inferior to the Spatial layer which spacetime is a part of. 
+### Natural and Artificial Vortices
 
-**So Einstein used the inferior to judge the superior.** 
+Some areas of spacetime have high concentrations of the aether that allow aetherspace to exist as holes or vortices that can allow matter to tunnel through. 
 
-The effect of this is that the real nature of the spacetime is not revealed. This prevents and development of spacetime technologies such as:
-- anti-gravity
-- teleportation
-- time travel 
-- speeding up or freezing of photons via the aether
+These are natural portals that, when accesssed by timespace, can allow matter to jump between spacetimes. 
 
-Instead of Minkowski spacetime, we use the Cartsian View. This splits up reality into individual slices separated by Planck time for timespan and Planck length for distance.
+These can be recreated artificially by electro-aetherically enlarging the aetherspace that is already in matter. 
 
-< img src="/graphics/physics/In the above example, a  man walking from southwest to northeast is represented by a dot. The Cartesian View splits this movement into different slices of reality where each slice is an instance of perception. ">}} -->
+When enlarged as to wrap around matter, it creates a vortex that can let the matter tunnel through to another spacetime.  This is how UFOs travel vast distances, as explained by Bob Lazar and the Essassani.
+
  

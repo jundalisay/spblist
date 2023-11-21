@@ -4,7 +4,7 @@ title: "Philanthropy and Friendships"
 description: "Philanthropy and Friendships"
 weight: 28
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---
