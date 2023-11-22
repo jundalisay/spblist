@@ -1,6 +1,6 @@
 ---
-# heading: "Book 4"
-title: "Book 2"
+heading: "Book 2"
+title: "What is Virtue?"
 image: "/covers/ethics.jpg"
 weight: 80
 writer:

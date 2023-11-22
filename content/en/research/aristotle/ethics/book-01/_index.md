@@ -1,6 +1,7 @@
 ---
-title: "Book 1"
-weight: 1
+heading: "Book 1"
+title: "What is Happiness?"
+weight: 2
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

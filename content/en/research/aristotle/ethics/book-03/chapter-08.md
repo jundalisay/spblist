@@ -1,7 +1,7 @@
 ---
 heading: Chapter 8
 title: "Moral Virtues"
-weight: 8
+weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

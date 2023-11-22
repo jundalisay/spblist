@@ -1,17 +1,14 @@
 ---
-heading: Chapters 1-2
-title: "The Ends of Anything"
+heading: Chapter 1
+title: "The Kinds of Human Excellence"
 weight: 2
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
-description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
+description: "Human Excellence is of two kinds"
 icon: "/icons/aris.png"
 ---
-
-
-## Chapter 1
 
 
 Human Excellence is of two kinds:
@@ -38,7 +35,9 @@ A stone, for instance, by nature gravitates downwards. It could never be brought
 <!-- nor could file again be brought to descend, nor in fact could anything whose nature is in one way be brought by custom to be in another.  -->
 
 
-The Virtues then come to be in us neither by nature, nor in despite of nature[3]. But we are furnished by nature with a capacity for receiving them and are perfected in them through custom.
+The Virtues then come to be in us neither by nature, nor in despite of nature[3].
+
+But we are furnished by nature with a capacity for receiving them and are perfected in them through custom.
 
 In whatever cases we get things by nature, we get the faculties first and perform the acts of working afterwards.
 

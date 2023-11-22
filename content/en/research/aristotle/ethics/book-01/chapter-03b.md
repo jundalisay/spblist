@@ -1,7 +1,7 @@
 ---
 heading: Chapter 3b
 title: "Is the One Universal?"
-weight: 4
+weight: 8
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -1,7 +1,7 @@
 ---
 heading: Chapters 9-10
 title: "What is the highest end of action?"
-weight: 12
+weight: 20
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

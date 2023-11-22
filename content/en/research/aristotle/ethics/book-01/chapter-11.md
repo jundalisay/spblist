@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11
 title: "What is Excellence?"
-weight: 12
+weight: 22
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -40,14 +40,33 @@ The Excellence of this manifestly is not peculiar to the human species but commo
 
 There seems to be another Irrational Nature of the Soul, which yet in a way partakes of Reason. 
 
-For in the man who controls his appetites, and in him who resolves to do so and fails, we praise the Reason or Rational part of the Soul, because it exhorts aright and to the best course: but clearly there is in them, beside the Reason, some other natural principle which fights with and strains against the Reason. (For in plain terms, just as paralysed limbs of the body when their owners would move them to the right are borne aside in a contrary direction to the left, so is it in the case of the Soul, for the impulses of men who cannot control their appetites are to contrary points: the difference is that in the case of the body we do see what is borne aside but in the case of the soul we do not. 
+For in the man who controls his appetites, and in him who resolves to do so and fails, we praise the Reason or Rational part of the Soul, because it exhorts aright and to the best course: but clearly there is in them, beside the Reason, some other natural principle which fights with and strains against the Reason. 
+
+(For in plain terms, just as paralysed limbs of the body when their owners would move them to the right are borne aside in a contrary direction to the left, so is it in the case of the Soul, for the impulses of men who cannot control their appetites are to contrary points: the difference is that in the case of the body we do see what is borne aside but in the case of the soul we do not. 
 
 But, it may be, not the less[42] on that account are we to suppose that there is in the Soul also somewhat besides the Reason, which is opposed to this and goes against it; as to how it is different, that is irrelevant.)
 
 But of Reason this too does evidently partake, as we have said: for instance, in the man of self-control it obeys Reason: and perhaps in the man of perfected self-mastery,[43] or the brave man, it is yet more obedient; in them it agrees entirely with the Reason.
 
-So then the Irrational is plainly twofold: the one part, the merely vegetative, has no share of Reason, but that of desire, or appetition generally, does partake of it in a sense, in so far as it is obedient to it and capable of submitting to its rule. (So too in common phrase we say we have λόγος of our father or friends, and this in a different sense from that in which we say we have λόγος of mathematics.)[44]
+So then the Irrational is plainly twofold: the one part, the merely vegetative, has no share of Reason, but that of desire, or appetition generally, does partake of it in a sense, in so far as it is obedient to it and capable of submitting to its rule.
 
-Now that the Irrational is in some way persuaded by the Reason, admonition, and every act of rebuke and exhortation indicate. If then we are to say that this also has Reason, then the Rational, as well as the Irrational, will be twofold, the one supremely and in itself, the other paying it a kind of filial regard.
+So too in common phrase we say we have λόγος of our father or friends, and this in a different sense from that in which we say we have λόγος of mathematics.[44]
 
-The Excellence of Man then is divided in accordance with this difference: we make two classes, calling the one Intellectual, and the other Moral; pure science, intelligence, and practical wisdom—Intellectual: liberality, and perfected self-mastery—Moral: in speaking of a man’s Moral character, we do not say he is a scientific or intelligent but a meek man, or one of perfected self-mastery: and we praise the man of science in right of his mental state;[45] and of these such as are praiseworthy we call Excellences.
+The Irrational is in some way persuaded by the Reason, admonition, and every act of rebuke and exhortation indicate. 
+
+If then we are to say that this also has Reason, then the Rational, as well as the Irrational, will be twofold, the one supremely and in itself, the other paying it a kind of filial regard.
+
+The Excellence of Man then is divided into two:
+
+1. The Intellectual
+
+This includes pure science, intelligence, and practical wisdom
+
+
+2. The Moral
+
+This includes liberality, and perfected self-mastery
+
+We praise a moral character by saying that he is meek and has self-mastery. We do not say that he is a scientific or intelligent man.
+
+<!-- , or one of perfected  and we praise the man of science in right of his mental state;[45] and of these such as are praiseworthy we call Excellences. -->

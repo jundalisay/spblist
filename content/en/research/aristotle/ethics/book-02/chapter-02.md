@@ -1,27 +1,147 @@
-## Chapter 2
+---
+heading: Chapter 2
+title: "The Middle or Mean"
+weight: 4
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+image: "/covers/ethics.jpg"
+description: "It is the nature of moral actions to be spoiled by defect and excess"
+icon: "/icons/aris.png"
+---
 
-Since then the object of the present treatise is not mere speculation, as it is of some others (for we are enquiring not merely that we may know what virtue is but that we may become virtuous, else it would have been useless), we must consider as to the particular actions how we are to do them, because, as we have just said, the quality of the habits that shall be formed depends on these.
 
-Now, that we are to act in accordance with Right Reason is a general maxim, and may for the present be taken for granted: we will speak of it hereafter, and say both what Right Reason is, and what are its relations to the other virtues.[4]
+<!-- Since then the object of the present treatise is not mere speculation, as it is of some others (for we are -->
 
-But let this point be first thoroughly understood between us, that all which can be said on moral action must be said in outline, as it were, and not exactly: for as we remarked at the commencement, such reasoning only must be required as the nature of the subject-matter admits of, and matters of moral action and expediency have no fixedness any more than matters of health. And if the subject in its general maxims is such, still less in its application to particular cases is exactness attainable:[5] because these fall not under any art or system of rules, but it must be left in each instance to the individual agents to look to the exigencies of the particular case, as it is in the art of healing, or that of navigating a ship. Still, though the present subject is confessedly such, we must try and do what we can for it.
+This work is asking both about virtue and how to become virtuous.
 
-First then this must be noted, that it is the nature of such things to be spoiled by defect and excess; as we see in the case of health and strength (since for the illustration of things which cannot be seen we must use those that can), for excessive training impairs the strength as well as deficient: meat and drink, in like manner, in too great or too small quantities, impair the health: while in due proportion they cause, increase, and preserve it.
+Since the quality of the habits are formed from actions, then  what actions should be done to achieve this?
 
-Thus it is therefore with the habits of perfected Self-Mastery and Courage and the rest of the Virtues: for the man who flies from and fears all things, and never stands up against anything, comes to be a coward; and he who fears nothing, but goes at everything, comes to be rash. In like manner too, he that tastes of every pleasure and abstains from none comes to lose all self-control; while he who avoids all, as do the dull and clownish, comes as it were to lose his faculties of perception: that is to say, the habits of perfected Self-Mastery and Courage are spoiled by the excess and defect, but by the mean state are preserved.
+<!-- , else it would have been useless), we must consider as to the particular actions how we are to do them, because, as we have just said, -->
 
-Furthermore, not only do the origination, growth, and marring of the habits come from and by the same circumstances, but also the acts of working after the habits are formed will be exercised on the same: for so it is also with those other things which are more directly matters of sight, strength for instance: for this comes by taking plenty of food and doing plenty of work, and the man who has attained strength is best able to do these: and so it is with the Virtues, for not only do we by abstaining from pleasures come to be perfected in Self-Mastery, but when we have come to be so we can best abstain from them: similarly too with Courage: for it is by accustoming ourselves to despise objects of fear and stand up against them that we come to be brave; and after we have come to be so we shall be best able to stand up against such objects.
+A general maxim is that we are to act according to Right Reason.
 
-And for a test of the formation of the habits we must take the pleasure or pain which succeeds the acts; for he is perfected in Self-Mastery who not only abstains from the bodily pleasures but is glad to do so; whereas he who abstains but is sorry to do it has not Self-Mastery: he again is brave who stands up against danger, either with positive pleasure or at least without any pain; whereas he who does it with pain is not brave.[6]
+ <!-- is , and may for the present be taken for granted: we will speak of it hereafter, and say both what Right Reason is, and what are its relations to the other virtues.[4] -->
 
-For Moral Virtue has for its object-matter pleasures and pains, because by reason of pleasure we do what is bad, and by reason of pain decline doing what is right (for which cause, as Plato observes, men should have been trained straight from their childhood to receive pleasure and pain from proper objects, for this is the right education). Again: since Virtues have to do with actions and feelings, and on every feeling and every action pleasure and pain follow, here again is another proof that Virtue has for its object-matter pleasure and pain. 
+<!-- But let this point be first thoroughly understood between us, that  -->
 
-The same is shown also by the fact that punishments are effected through the instrumentality of these; because they are of the nature of remedies, and it is the nature of remedies to be the contraries of the ills they cure. Again, to quote what we said before: every habit of the Soul by its very nature has relation to, and exerts itself upon, things of the same kind as those by which it is naturally deteriorated or improved: now such habits do come to be vicious by reason of pleasures and pains, that is, by men pursuing or avoiding respectively, either such as they ought not, or at wrong times, or in wrong manner, and so forth (for which reason, by the way, some people define the Virtues as certain states of impassibility and utter quietude,[7] but they are wrong because they speak without modification, instead of adding “as they ought,” “as they ought not,” and “when,” and so on). Virtue then is assumed to be that habit which is such, in relation to pleasures and pains, as to effect the best results, and Vice the contrary.
+All which can be said on moral action is an outline and not something exact. 
 
-The following considerations may also serve to set this in a clear light. There are principally three things moving us to choice and three to avoidance, the honourable, the expedient, the pleasant; and their three contraries, the dishonourable, the hurtful, and the painful: now the good man is apt to go right, and the bad man wrong, with respect to all these of course, but most specially with respect to pleasure: because not only is this common to him with all animals but also it is a concomitant of all those things which move to choice, since both the honourable and the expedient give an impression of pleasure.
+<!-- must be said in outline, as it were, and not exactly: for as we remarked at the commencement, such reasoning only must be required as the nature of the subject-matter admits of, and  -->
 
-Again, it grows up with us all from infancy, and so it is a hard matter to remove from ourselves this feeling, engrained as it is into our very life.
+This is because matters of moral action and expediency have no fixedness any more than matters of health. 
 
-Again, we adopt pleasure and pain (some of us more, and some less) as the measure even of actions: for this cause then our whole business must be with them, since to receive right or wrong impressions of pleasure and pain is a thing of no little importance in respect of the actions. Once more; it is harder, as Heraclitus says, to fight against pleasure than against anger: now it is about that which is more than commonly difficult that art comes into being, and virtue too, because in that which is difficult the good is of a higher order: and so for this reason too both virtue and moral philosophy generally must wholly busy themselves respecting pleasures and pains, because he that uses these well will be good, he that does so ill will be bad.
+General maxims are even less applicable to particular cases where is exactness is not attainable[5].
 
-Let us then be understood to have stated, that Virtue has for its object-matter pleasures and pains, and that it is either increased or marred by the same circumstances (differently used) by which it is originally generated, and that it exerts itself on the same circumstances out of which it was generated.
+This is because moral actions  fall not under any system of rules. Instead, they must be left in each instance to each individual to look to the exigencies of the particular case, like in the art of healing, or the navigation of a ship. 
+
+<!-- Still, though the present subject is confessedly such, we must try and do what we can for it. -->
+
+<!-- First then this must be noted, that  -->
+
+## The Middle Path
+
+It is the nature of moral actions to be spoiled by defect and excess, just like in the case of health and strength.
+
+ <!-- (since for the illustration of things which cannot be seen we must use those that can),  -->
+
+Excessive training impairs the strength just as  deficient training does.
+
+Too much or too little meat and drink impair the health. In due proportion they increase, and preserve it.
+
+This is the case with the habits of perfected Self-Mastery, Courage, and the rest of the Virtues.
+- The man who flees from and fears all things, and never stands up against anything becomes a coward.
+- He who fears nothing, but goes at everything, becomes rash. 
+- He who tastes every pleasure and abstains from none comes to lose all self-control.
+- He who avoids all, as do the dull and clownish, comes as it were to lose his faculties of perception
+
+The habits of perfected Self-Mastery and Courage are spoiled by the excess and defect, but by the mean state are preserved.
+
+Furthermore, not only do the origination, growth, and marring of the habits come from and by the same circumstances, but also the acts of working after the habits are formed will be exercised on the same: 
+
+for so it is also with those other things which are more directly matters of sight, strength for instance: 
+
+for this comes by taking plenty of food and doing plenty of work, and the man who has attained strength is best able to do these: 
+
+and so it is with the Virtues, for not only do we by  come to be
+
+We perfect Self-Mastery when we:
+- abstain from pleasures
+- have developed the habit of abstaining
+
+ <!-- from them:  -->
+
+We develop Courage by getting used to:
+- despising objects of fear
+- standing up against them that we come to be brave
+
+<!-- ; and after we have come to be so we shall be best able to stand up against such objects. -->
+
+And for a test of the formation of the habits we must take the pleasure or pain which succeeds the acts.
+
+Self-Mastery is perfected when a person abstains from the bodily pleasures but is also glad to do so.
+
+Whereas, he who abstains but is sorry to do it has no Self-Mastery.
+
+A brave man stands up against danger, either with positive pleasure or at least without any pain.[6]
+<!-- ; whereas he who does it with pain is not brave. -->
+
+Moral Virtue has for its object-matter pleasures and pains. Through pleasure, we do what is bad, and thorugh pain, we decline doing what is right.
+
+Plato observes that men should have been trained  from their childhood to receive pleasure and pain from proper objects, as the right kind of education.
+
+Virtues have to do with actions and feelings.
+
+On every feeling and every action, pleasure and pain follow. This is another proof that Virtue has pleasure and pain for its object-matter*.
+
+> *Superphysics Note: We replace this with ease and unease
+
+
+This is also why punishments are effected through the instrumentality of pain and pleasure -- punishments are remedies which are contraries of the ills they cure. 
+
+ <!-- these;  -->
+
+Every habit of the Soul by its very nature has relation to, and exerts itself upon, things of the same kind as those by which it is naturally deteriorated or improved: 
+
+Such habits come to be vicious through pleasures and pains -- by men pursuing or avoiding respectively, either such as they ought not, or at wrong times, or in wrong manner, and so forth 
+
+This is why some people define the Virtues as certain states of impassibility and utter quietude,[7]. But they are wrong because they speak without modification.  Instead they add:
+- “as they ought”
+- “as they ought not”
+- “when” and so on. 
+
+Virtue then is assumed to be that habit which is such, in relation to pleasures and pains, as to effect the best results, and Vice the contrary.
+
+There are principally 3 things moving us to choice:
+
+1. The honourable
+2. The expedient
+3. The pleasant
+
+Three things move us to avoidance:
+
+1. The dishonourable
+2. The hurtful
+3. The painful
+
+The good man is apt to go right with all these, most specially with pleasure.
+- The bad man is apt to go wrong, 
+
+This is because:
+- pleasure is common to him with all animals 
+- the honourable and the expedient give an impression of pleasure.
+
+<!-- Again, it grows up with us all from infancy, and so it is a hard matter to remove from ourselves this feeling, engrained as it is into our very life. -->
+
+Again, we adopt pleasure and pain (some of us more, and some less) as the measure even of actions.
+
+For this cause then our whole business must be with them, since to receive right or wrong impressions of pleasure and pain is a thing of no little importance in respect of the actions. Once more; it is harder, as Heraclitus says, to fight against pleasure than against anger: 
+
+now it is about that which is more than commonly difficult that art comes into being, and virtue too, because in that which is difficult the good is of a higher order: and so for this reason too both virtue and moral philosophy generally must wholly busy themselves respecting pleasures and pains, because he that uses these well will be good, he that does so ill will be bad.
+
+
+Virtue has for its object-matter pleasures and pains. 
+
+It is either increased or marred by the same circumstances that originally generates it.
+
+It exerts itself on the same circumstances out of which it was generated.

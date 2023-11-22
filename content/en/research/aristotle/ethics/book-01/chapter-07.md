@@ -1,6 +1,22 @@
-## Chapter 7
+---
+heading: Chapter 7
+title: "How Can We Get Happiness?"
+weight: 16
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+image: "/covers/ethics.jpg"
+description: "Is Happiness a thing that can be learned?"
+icon: "/icons/aris.png"
+---
 
-Hence, is Happiness a thing that can be learned? Or can it be acquired by habituation or discipline of some other kind? Or does it come from divine dispensation? Or does it come by the way of chance?
+
+
+Hence, is Happiness a thing that can be learned? 
+
+Or can it be acquired by habituation or discipline of some other kind?
+
+Or does it come from divine dispensation? Or does it come by the way of chance?
 
 <!-- Now to be sure, if anything else is a gift of the Gods to men,  -->
 
@@ -20,6 +36,12 @@ The question may be determined also by a reference to our definition of Happines
 
 These considerations will harmonise also with what we said at the commencement: for we assumed the End of πολιτικὴ to be most excellent: now this bestows most care on making the members of the community of a certain character; good that is and apt to do what is honourable.
 
-With good reason then neither ox nor horse nor any other brute animal do we call happy, for none of them can partake in such working: and for this same reason a child is not happy either, because by reason of his tender age he cannot yet perform such actions: if the term is applied, it is by way of anticipation.
+With good reason then neither ox nor horse nor any other brute animal do we call happy, for none of them can partake in such working: 
 
-For to constitute Happiness, there must be, as we have said, complete virtue and a complete life: for many changes and chances of all kinds arise during a life, and he who is most prosperous may become involved in great misfortunes in his old age, as in the heroic poems the tale is told of Priam: but the man who has experienced such fortune and died in wretchedness, no man calls happy.
+For this same reason a child is not happy either, because by reason of his tender age he cannot yet perform such actions: if the term is applied, it is by way of anticipation.
+
+For to constitute Happiness, there must be complete virtue and a complete life: 
+
+Many changes and chances of all kinds arise during a life, and he who is most prosperous may become involved in great misfortunes in his old age, as in the heroic poems the tale is told of Priam: 
+
+But the man who has experienced such fortune and died in wretchedness, no man calls happy.

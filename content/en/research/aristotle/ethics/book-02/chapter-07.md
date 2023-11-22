@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7
-title: "The Ends of Anything"
+title: "The Basis of Virtue"
 weight: 7
 writer:
   name: Aristotle
@@ -13,7 +13,9 @@ icon: "/icons/aris.png"
 
 It is not enough, however, to state this in general terms. We must also apply it to particular instances.
 
-This is because in treatises on moral conduct, general statements have an air of vagueness. But those which go into detail one of greater reality. 
+This is because in treatises on moral conduct, general statements have an air of vagueness. 
+
+But those which go into detail one of greater reality. 
 - The actions must be in detail. 
 - The general statements, to be worth anything, must hold good here.
 

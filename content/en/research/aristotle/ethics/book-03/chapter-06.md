@@ -1,7 +1,7 @@
 ---
 heading: Chapter 6
 title: "Wish"
-weight: 8
+weight: 10
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -21,8 +21,11 @@ For there are fair and pleasant things peculiar to, and so varying with, each st
 
 The multitude of men seem to be deceived by reason of pleasure, because though it is not really a good it impresses their minds with the notion of goodness, so they choose what is pleasant as good and avoid pain as an evil.
 
-Chapter VII.
-Now since the End is the object of Wish, and the means to the End of Deliberation and Moral Choice, the actions regarding these matters must be in the way of Moral Choice, i.e. voluntary: but the acts of working out the virtues are such actions, and therefore Virtue is in our power.
+
+
+## Chapter 7
+
+The End is the object of Wish, and the means to the End of Deliberation and Moral Choice, the actions regarding these matters must be in the way of Moral Choice, i.e. voluntary: but the acts of working out the virtues are such actions, and therefore Virtue is in our power.
 
 And so too is Vice: because wherever it is in our power to do it is also in our power to forbear doing, and vice versâ: therefore if the doing (being in a given case creditable) is in our power, so too is the forbearing (which is in the same case discreditable), and vice versâ.
 

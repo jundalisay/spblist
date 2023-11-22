@@ -1,7 +1,7 @@
 ---
 heading: Chapters 5-6
 title: "What Kind of a State is Virtue?"
-weight: 5
+weight: 10
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -28,15 +28,31 @@ The absolute mean of the thing is something that is equidistant from either extr
 
 The mean relatively to ourselves is that which is neither too much nor too little for the particular individual. 
 
-This of course is not one nor the same to all: for instance, suppose ten is too much and two too little, people take six for the absolute mean; because it exceeds the smaller sum by exactly as much as it is itself exceeded by the larger, and this mean is according to arithmetical proportion.[12]
+This is not one nor the same to all.
 
-But the mean relatively to ourselves must not be so found ; for it does not follow, supposing ten minæ[13] is too large a quantity to eat and two too small, that the trainer will order his man six; because for the person who is to take it this also may be too much or too little: for Milo it would be too little, but for a man just commencing his athletic exercises too much: similarly too of the exercises themselves, as running or wrestling.
+For instance, suppose 10 is too much and 2 is too little. 
+
+People take 6 for the absolute mean because it exceeds the smaller sum by exactly as much as it is itself exceeded by the larger. 
+
+This mean is according to arithmetical proportion.[12]
+
+But the mean relatively to ourselves is not found like that. It does not follow if 10 minæ[13] is too large a quantity to eat and 2 is too small, that the trainer will order his man 6. 
+
+ <!-- because for the person who is to take it this also may be too much or too little:  -->
+
+For Milo, it would be too little, but for a man just commencing his athletic exercises, it is too much.
+
+<!-- : similarly too of the exercises themselves, as running or wrestling. -->
 
 So then it seems every one possessed of skill avoids excess and defect, but seeks for and chooses the mean, not the absolute but the relative.
 
 If all skill thus accomplishes well its work by keeping an eye on the mean, and bringing the works to this point (whence it is common enough to say of such works as are in a good state, “one cannot add to or take ought from them,” under the notion of excess or defect destroying goodness but the mean state preserving it), and good artisans, as we say, work with their eye on this, and excellence, like nature, is more exact and better than any art in the world, it must have an aptitude to aim at the mean.
 
-It is moral excellence, i.e. Virtue, of course which I mean, because this it is which is concerned with feelings and actions, and in these there can be excess and defect and the mean: it is possible, for instance, to feel the emotions of fear, confidence, lust, anger, compassion, and pleasure and pain generally, too much or too little, and in either case wrongly; but to feel them when we ought, on what occasions, towards whom, why, and as, we should do, is the mean, or in other words the best state, and this is the property of Virtue.
+It is moral excellence, i.e. Virtue, of course which I mean, because this it is which is concerned with feelings and actions, and in these there can be excess and defect and the mean: 
+
+It is possible, for instance, to feel the emotions of fear, confidence, lust, anger, compassion, and pleasure and pain generally, too much or too little, and in either case wrongly; 
+
+But to feel them when we ought, on what occasions, towards whom, why, and as, we should do, is the mean, or in other words the best state, and this is the property of Virtue.
 
 With respect to the actions, there may be excess and defect and the mean.
 

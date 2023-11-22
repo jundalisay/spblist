@@ -1,17 +1,15 @@
 ---
-heading: Chapters 6-8
+heading: Chapter 8
 title: "What is Happiness?"
-weight: 10
+weight: 18
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
-description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
+description: "Are we then to call no man happy while he lives, and, as Solon would have us, look to the end?"
 icon: "/icons/aris.png"
 ---
 
-
-## Chapter 8
 
 Are we then to call no man happy while he lives, and, as Solon would have us, look to the end? 
 

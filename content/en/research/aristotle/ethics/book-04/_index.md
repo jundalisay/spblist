@@ -1,6 +1,6 @@
 ---
-# heading: "Book 4"
-title: "Book 4"
+heading: "Book 4"
+title: "The Virtues"
 image: "/covers/ethics.jpg"
 weight: 100
 writer:

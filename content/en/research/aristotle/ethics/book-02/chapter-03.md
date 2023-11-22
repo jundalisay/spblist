@@ -1,5 +1,5 @@
 ---
-heading: Chapters 3-5
+heading: Chapters 3-4
 title: "What is Just? What is Virtue?"
 weight: 8
 writer:

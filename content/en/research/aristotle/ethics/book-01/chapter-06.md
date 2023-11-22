@@ -1,7 +1,7 @@
 ---
-heading: Chapters 6-8
+heading: Chapter 6
 title: "What is Happiness?"
-weight: 8
+weight: 14
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -10,8 +10,6 @@ description: "Every art, and every science reduced to a teachable form, and simi
 icon: "/icons/aris.png"
 ---
 
-
-## Chapter 6
 
 What is Happiness?
 
