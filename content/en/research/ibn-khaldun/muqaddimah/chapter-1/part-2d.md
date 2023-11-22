@@ -1,10 +1,10 @@
 ---
-title: "Zone 1: Egypt, Yemen, Sri Lanka, Korea"
-description: "The first zone contains only a part of China to the east and the whole of the Yemen"
+title: "The Seven Zones"
+description: "The ancient philosophers divided the cultivated part of the earth in the north into 7 zones by east-west lines"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 2d"
-weight: 10
+heading: "Part 2c"
+weight: 8
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
@@ -12,103 +12,157 @@ writer:
 
 
 
-The Canaries from which Ptolemy began the determination of geographical longitude, are in the west. They are not part of the land mass of the first zone. 
+The ancient philosophers divided the cultivated part of the earth in the north into 7 zones by means of imaginary lines running from west to east. They maintain that these zones have different latitudinal extensions.
 
-They lie in the Surrounding Sea. A number of islands constitute them. The largest and best known are three in number. They are said to be cultivated. 
+Zone 1 runs along the equator, north of it. 
 
-European Christian ships reached them in the middle of this century, fought with the inhabitants, plundered them, captured some of them, and sold some of the captives along the Moroccan coast where they came into the service of the ruler. 
+South of it, there is only the civilization to which reference was made by Ptolemy. Beyond that are waste regions and sandy deserts, up to the circle of water which is called the Surrounding Sea.
 
-After they had learned Arabic, they gave information about conditions on their island. They said that they tilled the soil with horns. Iron was lacking in their country. Their bread59 was made of barley. 
+To the north, Zone 1 is followed successively by Zone 2 through Zone 7.
 
-Their animals were goats. They fought with stones, which they hurled backwards. Their worship consisted of prostrations before the rising sun. They knew no (revealed) religion and had not been reached by any missionary activity.
+Zone 7 constitutes the northern limit of civilization. Beyond it are only empty and waste regions, down to the Surrounding Sea as (in the south).
 
-These islands can be reached only by chance, and not intentionally by navigation.
+However, the empty regions in the south are much larger than those in the north.*
 
-Navigation on the sea depends on the winds. It depends on knowledge of the directions the winds blow from and where they lead, and on following a straight course from the places that lie along the path of a particular wind. When the wind changes and it is known where a straight course along it will lead, the sails are set for it, and the ship thus sails according to nautical norms evolved by the mariners and sailors 60 who are in charge of sea voyages. 
+As to latitudes and length of days in the various zones, the 2 poles of the firmament are on the horizon at the equator in the west and the east.
 
-The countries situated on the two shores of the Mediterranean are noted on a chart (sahifah) which indicates the true facts regarding them and gives their positions along the coast in the proper order. The various winds and their paths are likewise put down on the chart. 
+<!-- The philosophers divided the cultivated part of the earth into 7 zones from south to north.
 
-This chart is called the "compass." 61 fit It is on this (compass) that (sailors) rely on their voyages. Nothing of the sort exists for the Surrounding Sea. Therefore, ships do not enter it, because, were they to lose sight of shore, they would hardly be able to find their way back to it. Moreover, the air of the Surrounding Sea and its surface harbors vapors that hamper ships on their courses. 
+The whole of the cultivated area is distributed over these zones. Each zone extends from west to east.
 
-Because of the remoteness of these (vapors), the rays of the sun which the surface of the earth deflects, cannot reach and dissolve them. It is, therefore, difficult to find the way to (the Eternal Islands) and to have information about them.
+Zone 1 runs from west to east with the equator as its southern border.
+
+Beyond it, there are only waste regions and sandy deserts, and civilization of a sort that, if it actually exists, is more like non-civilization. 
+
+To the north, Zone 1 is followed, successively, by the second through the seventh zones. 
+
+The seventh zone constitutes the northern limit of civilization. Beyond it (to the north) are only empty and waste regions until the Surrounding Sea is reached. 
+
+The situation is the same here as it is beyond the first zone to the south. However, the empty areas in the north are much smaller than those in the south.-->
 
 
-## Section 1
+The sun there is at the zenith. As we follow the cultivated part of the earth farther and farther north, the north pole ascends slightly, and the south pole descends correspondingly, (at the horizon). 
 
-This contains the mouth of the Nile which has its origin in the Mountain of the Qumr. 62 This is called the Sudanese Nile river which flows toward the Surrounding Sea and into it at the island of Awlil. 63
+Furthermore, the sun moves a corresponding distance from (its zenith at) the equinoctial line. These 3 distances are equal to each other. Each of them is called geographical latitude. This is well known to the scholars who determine the prayer times.
 
-The city of Sila,64 Takrur,65 and Ghanah66 are situated along this Nile. At this time, all of them belong to the Mali people,67 a Negro nation. Moroccan merchants travel to their country.
+People hold different opinions as to:
+- the latitudinal extension of the cultivated part of the earth and 
+- the latitudinal extension (width) of the various zones. 
 
-Close to it in the north is the country of the Lamtunah and of the other groups of the Veiled Berbers (Sinhajah), as well as the deserts in which they roam. 
+Ptolemy thinks that the latitudinal extension of the entire cultivated part of the earth is 771/ 2 .
 
-To the south of this Nile, there is a Negro people called Lamlam. They are unbelievers. They brand themselves on the face and temples. The people of Ghanah and Takrur invade their country, capture them, and sell them to merchants who transport them to the Maghrib. There, they constitute the ordinary mass of slaves. 
+The latitudinal extension of the cultivated part beyond the equator to the south is 11°.
 
-Beyond them to the south, there is no civilization in the proper sense. There are only humans who are closer to dumb animals than to rational beings.
+Thus, the latitudinal extension of the zones in the north is 66 1. 
 
-They live in thickets and caves and eat herbs and unprepared grain. They frequently eat each other.68 They cannot be considered human beings. All the fruits of the Negro territory come from fortified villages in the desert of the Maghrib, such as Touat (Tawat, Tuwat), Tigurarin, 69 and Ouargla (Wargalan).70 
+<!-- 48b 49 -->
+According to him:
+- Zone 1 extends to 16°
+- Zone 2 extends to 20° 
+- Zone 3 extends to 27°
+- Zone 4 extends to 33°
+- Zone 5 extends to 38° 
+- Zone 6 extends to 43° 
+- Zone 7 extends to 48° 
 
-In Ghanah, an 'Alid king and dynasty are said to have existed. (These 'Alids) were known as the Banu Salih.
+He then determined the degree on the firmament as having a length of 662/ miles, were it measured on the surface of the earth.
 
-According to the Book of Roger, (Salih) was Salih b. 'Abdallah b. Hasan b. al-Hasan, but no such Salih is known among the sons of 'Abdallah b. Hasan .71 At this time the dynasty has disappeared, and Ghanah belongs to the Mali ruler.
+- Zone 1 from south to north is 1,067 miles wide
+- Zone 2 is 2,333 miles
+- Zone 3 is 2,790 miles
+- Zone 4 is 2,185 miles
+- Zone 5 is 2,520 miles
+- Zone 6 is 2,840 miles
+- Zone 7 is 3,150 miles
 
-To the east of this territory, in the third section of the first zone, is the territory of Gawgaw 7 2 It lies along a river that has its origin in certain mountains there, flows westward, and disappears in the sand in the second section. The realm of Gawgaw was independent. 
+The length of night and day differs in the various zones because of:
+- the declination of the sun from the equinoctial line
+- the elevation of the north pole above the horizon.
 
-The Mali ruler then gained power over the territory, and it came into his possession. At this time it is devastated as the result of a disturbance that happened there and that we shall mention when we discuss the Mali dynasty in its proper place in the history of the Berbers. 73
+This causes a difference in the arcs of day and night.
 
-To the south of the country of Gawgaw lies the territory of Kanim, a Negro nation Beyond them are the Wangarah 75 on the border of the (Sudanese Nile) to the north. To the east of the countries of the Wangarah and the Kanim, there is the country of the Zaghay 76 and the Tajirah, 77 adjoining the land of the Nubah in the fourth section of the first zone. The land of the Nubah is traversed by the Egyptian Nile throughout its course from its beginning at the equator to the Mediterranean in the north. 
+At the boundary of the first zone, the longest night-which occurs when the sun enters Capricorn-and the longest day which occurs when the sun enters Cancer-reach a maximum of 13 hours. The same is the case at the boundary of Zone 2 in the north. 
 
-This Nile originates at the Mountain of the Qmr, sixteen degrees above 78 the equator. There are different opinions as to the correct form of the name of this mountain.
+The length of day there reaches its maximum of 13.5 hours when the sun enters Cancer, the summer tropic.
 
-Some scholars read the name as qamar "moon," because the mountain is very white and luminous. Yaqut, in the Mushtarik, 79 as well as Ibn Sa'id, 80 reads qumr, with reference to an Indian people. 81
+The longest night -when the sun enters Capricorn, the winter tropic is as long. For the shortest day and night, there thus remains the difference between 13.5 and 24, which is the combined number of hours of day and night, or one complete revolution of the firmament.
 
-Ten springs issue from this mountain. Five of them flow into one lake and five into another lake. There is a distance of six miles between the two lakes. From each of the two lakes, three rivers come forth. They come together in a swampy [?] lake (batihah) at the foot of which a mountain emerges. This mountain cuts across the lake at the northern end and divides its waters into two branches. 
+The same is the case also at the boundary of:
+- Zone 3 in the north, where night and day reach a maximum length of 14 hours;
+- Zone 4, where they reach a maximum length of 14.5 hours
+- Zone 5, where they reach a maximum length of 15 hours
+- Zone 6, where they reach a maximum length of 15.5 hours
+- Zone 7, where they reach a maximum length of 16 hours. 
 
-The western branch flows westward through the Negro territory, and finally flows into the Surrounding Sea. The eastern branch flows northward through the countries of the Abyssinians and the Nubah and the region in between. 
+There, civilization ends. 
 
-At the boundary of Egypt, it divides. Three of its branches flow into the Mediterranean at Alexandria, at Rosetta, 8 2 and at Damietta. One flows into a salt lake before reaching the sea.
+The difference in the maximum length of night and day in the various zones, consequently, is an evenly distributed, gradual increase of half an hour in each, all the way from the first zone in the south to the last zone in the north.
 
-In the middle of the first zone along the Nile, lie the countries of the Nubah and the Abyssinians and some of the oases down to Assuan. A settled part of the Nubah country is the city of Dongola, west of the Nile. Beyond it are 'Alwah 83 and Yulaq. 84 Beyond them, a six days' journey north of Yulaq, is the mountain of the cataracts. 
+In connection with these zones, "geographical latitude" refers to the distance between the sun at its zenith in a given place and the equinoctial line where it is at thezenith on the equator. 
 
-This is a mountain which rises to a great height on the Egyptian side but is much less elevated on the side of the country of the Nubah, The Nile cuts through it and flows down precipitately in tremendous cascades for a long distance. Boats cannot get through. 
+It likewise corresponds to the depression of the south pole below the horizon in that particular place, as well as to the elevation of the north pole. 
 
-Cargoes from the Sudanese boats are taken off and carried on pack animals to Assuan at the entrance to Upper Egypt. In the same way, the cargoes of the boats from Upper Egypt are carried over the cataracts. The distance from the cataracts to Assuan is a twelve day's journey. 
+<!-- As was mentioned before, 51  -->
 
-The oases on the west bank of the Nile there are now in ruins. They show traces of ancient settlement.
+These 3 distances are equal to each other. They are called "geographical latitude."
 
-In the middle of the first zone, in its fifth section, is the country of the Abyssinians, through which a river flows, which comes from beyond the equator and 8 5 flows toward the land of the Nubah, where it flows into the Nile and so on down into Egypt. 
+According to Ptolemy, the longest night which occurs when the sun enters Capricorn - and the longest day-which occurs when the sun enters Cancer-reach
+- a maximum of 12.5 hours at the boundary of Zone 1
+- a maximum of 13 hours at the boundary of Zone 2
+- a maximum of 13.5 hours at the boundary of Zone 3  
+- a maximum of 14 hours at the boundary of Zone 4
+- a maximum of 14.5 hours at the boundary of Zone 5
+- a maximum of 15 hours at the boundary of Zone 6
+- a maximum of 15.5 hours at the boundary of Zone 7
 
-Many people have held fantastic opinions about it and thought that it was part of the Nile of the Qumr (Mountain of the Moon). Ptolemy mentioned it in the Geography. He mentioned that it did not belong to the Nile.
+For the shortest day and night, there thus remains the difference between the last figure and 24, which is the combined number of hours of day and night, or one complete revolution of the firmament. 
 
-In the middle of the first zone, in the fifth section, the Indian Ocean terminates. It comes down from the region of China and covers most of the first zone to the fifth section. Consequently, there is not much civilization there. Civilization exists only on the islands in (the Indian Ocean) which are numerous and said to number up to one thousand.
+The difference in the maximum length of night and day in the various zones, consequently, is an evenly distributed, gradual increase of half an hour in each, all the way from the first zone in the south to the last zone in the north.*
 
-Civilization also exists on the southern coast of the Indian Ocean, the southernmost limit of the cultivated part of the earth, as also on its northern coast. Of these coasts, the first zone contains only a part of China to the east and the whole of the Yemen in the sixth section of this zone, where two seas branch off northwards from the Indian Ocean, namely, the Red Sea (Sea of al-Qulzum) and the Persian Gulf. 
 
-Between them lies the Arabian Peninsula, comprising the Yemen, ash-Shihr to the east on the shore of the Indian Ocean, the Hijaz, the Yamimah, and adjacent regions which we shall mention in connection with the second zone and the regions farther north. 
+Ishaq b. al-Hasan al-Khazini thinks that the latitudinal extension of civilization beyond the equator (to the south) is 16 ° 25', and the longest night and day there, 13 hours. 
 
-On the western shore of the Indian Ocean is Zayla' (Zila'), which is on the boundary of Abyssinia, and the desert plains of the Beja north of Abyssinia, which lie between the mountain of al-'Alliqi 86 in the southernmost part of Upper Egypt and the Red Sea which branches off from the Indian Ocean. 
+The latitudinal extension of Zone 1 and the length of day and night there are the same as beyond the equator (to the south). 
 
-North of Zayla' (Zila') in the northern part of this section is the straits of Bib al-Mandeb, where the sea that branches off there is narrowed by the promontory of alMandeb which juts into the Indian Ocean from south to north along the west coast of the Yemen for twelve miles. As a result, the sea becomes sonarrow that its width shrinks to approximately three miles. This is called Bib al-Mandeb.
+Zone 2 extends to 24°, and the length of its (longest) day and night at its farthest point is 13.5 hours. 
 
-Yemenite ships pass it on their way to the coast of Suez near Egypt (Cairo). North of Bib al-Mandeb are the islands of Suakin and Dahlak. Opposite it to the west are the desert plains of the Beja, a Negro nation, as we have just mentioned. To the east, on the coast of (the straits of Bib al-Mandeb) is the Tihimah of the Yemen. It includes the place of Haly b. Ya'qub.87
+<!-- 51a -->
+For Zone 3, it is 30° and 14 hours. 
 
-To the south of Zayla' (Zila') on the western coast of the Indian Ocean are the villages of Berbera which extend one after the other all along the southern coast of the (Indian Ocean) to the end of the sixth section. There, to the east, the country of the Zanj adjoins them. Then 88 comes the city of Mogadishu, a very populous city with many merchants, yet nomad in character, on the southern coast of the Indian Ocean.
+For Zone 4, it is 36° and 14.5 hours. 
 
-Adjoining it to the east is the country of the Sufilah on the southern coast in the seventh section of the first zone. 
+For Zone 5, it is 41° and 15 hours.
 
-East of the country of the Sufilah on the southern shore, lies the country of al-Wiqwiq 89 which stretches to the end of the tenth section of the first zone, where the Indian Ocean comes out of the Surrounding Sea.
+For Zone 6, it is 45° and 15.5 hours.
 
-There are many islands in the Indian Ocean.
+For Zone 7, it is 48.5° and 16 hours.
 
-One of the largest islands is the island of Ceylon (Sarandib) which is round in shape and has a famous mountain said to be the highest mountain on earth. It lies opposite Sufilah. Then, there is the island of Java (Malay Archipelago), 90 an oblong island that begins opposite the land of Sufilah and extends northeastward until it approaches the coasts that constitute China's southern boundary. 
+The latitudinal extension of civilization beyond Zone 7 to the north reaches from the boundary of Zone 7 to latitude 63 ° , and the length of the (longest) day and night to twenty hours.
 
-In the Indian Ocean, to the south China is surrounded by the islands of al-Wiqwaq, and to the east by the islands of Korea. 91 There are numerous other islands in the Indian Ocean. 
+Other leading scholars in the discipline, apart from Ishaq al-Khazini, maintain that the latitudinal extension of the cultivated area beyond the equator (to the south) is 16 ° 27'.
 
-These islands produce different kinds of perfumes and incense. They also are said tocontain gold and emerald mines. Most of their inhabitants are Magians. 92 They have numerous rulers. These islands present remarkable cultural features that have been mentioned by geographers.
+The first zone extends to 20 ° 15'; the second to 27 ° 13'; the third to 33 ° 20'; the fourth to 38 1 / 2 ° ; 52 the fifth to 43 ° ; the sixth to 47 ° 53'; or, according to another opinion, to 46 ° 50'; 
 
-The northern coast of the Indian Ocean, in the sixth section of the first zone, is occupied by the whole of the Yemen. On the Red Sea side lie Zabid, al-Muhjam, 93 and the Tihamah of the Yemen. Next beyond that is Sa'dah, the seat of the Zaydi imams, lying far from the (Indian) Ocean to the south, and from the Persian Gulf to the east. 
+The seventh to 51 ° 53'. Civilization beyond the seventh zone extends to 77 ° .
 
-In the region beyond that are the city of Aden and, north of it, San'a'. Beyond these two cities, to the east, is the land of al-Ahqaf and Z, afar. Next comes the land of Hadramawt, followed by the country of ash-Shihr between the (Indian) Ocean in the south and the Persian Gulf. 
+<!-- 53 -->
+Abu Jafar al-Khazini is one of the leading scholars in the discipline. He also finds that the latitudinal extension of the first zone is from 1 ° to 20 ° 13'; of the second, to 27 ° 13'; of the third, to 33° 39'; of the fourth, to 38° 23'; of the fifth, to 42 ° 58'; of the sixth, to 47 ° 2'; and of the seventh, to 60°45'. 
 
-This part of the sixth section is the only part that is not covered by water in the middle region of the first zone. Apart from it, a small portion of the ninth section is not covered by water, as well as a larger area in the tenth section that includes the southernmost limit of China. 
+<!-- 5 4 -->
 
-One of China's famous cities is the city of Canton. 94 Opposite it to the east are the islands of Korea which have just been mentioned. This concludes the discussion of the first zone.
+<!-- This is as much as I know about the different opinions concerning latitudinal
+extension and length of day and night in the zones and concerning their width as indicated
+in miles. -->
+
+The geographers have subdivided each of the 7 zones lengthwise from west to east in ten equal sections. 
+
+They mention the countries, cities, mountains, and rivers of each section, and the traveling distances between them.
+We shall now briefly summarize the best-known countries, rivers, and seas of each section. 
+
+Our model will be the data set forth in the Nuzhat al-mushtaq which al-'Alawi al-Idrisi al-Hammudi composed for the Christian king of Sicily, Roger, the son of Roger.
+
+Al-Idrisi's family had given up its rule of Malaga. He had settled at (Roger's) court in Sicily. 
+
+He wrote the book in the mid-12th century. 
+
+He utilized many books by authors such as al-Mas'udi, Ibn Khurradadhbih, al-Hawgali, al-'Udhri, Ishaq al-Munajjim, 57 Ptolemy and others.

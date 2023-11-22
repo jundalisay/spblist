@@ -1,10 +1,10 @@
 ---
-title: "The Levels of Human Mentality"
+title: "The Ego Separates the Union of Souls"
 heading: "Chapter 1b"
 image: "/photos/social/monkey.jpg"
 date: 2021-07-01
-weight: 5
-description : "Unlike animal minds, human minds are endowed with a higher level of sentience or self-consciousness which lets us exercise freedom from basic instincts"
+weight: 4
+description : "A society is three or more entities working towards a common interest or goal"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,85 +12,122 @@ icon: /icons/spsoc.png
 ---
 
 
-<!-- Abstract -->
+The flexibility of the soul (or malleability of the mind) is the main quality that allows it to connect and merge with other souls, whether it be of animals, plants, or humans. 
 
-Despite being thousands of years old, human civilization is still suffering from most of the man-made problems it had since antiquity.  
+This, together with the principle that like attracts like (as the foundation of the common interest), allows souls to form into society. 
 
-The recurrence of man-made disasters, whether they be territorial, political, philosophical, or economic in nature, proves that our leaders seem to forget the lessons from history.  By analyzing the nature of the human mind and the mind of societies throughout history, we can identify patterns that show the root causes of these problems.  
-
-Further research can unravel the details of these patterns, which can be used to create frameworks to guide political decision-makers and develop universal systems to deliver lasting solutions.
-
-
-## History Repeats Itself
-
-After the Holocaust of World War II wherein as much as six million people were senselessly killed, world leaders vowed to never again undergo the horrors of genocide. Yet in 1994, world leaders sat helplessly as Rwandans murdered hundreds of thousands of their own people in the name of ethnic cleansing. 
-
-In the 1930’s, the US government enacted regulations to ensure that the Wall Street Crash of 1929 would not happen again. But in 1999, such regulation was repealed, leading to a bigger global recession in the late 2000’s.
-
-Despite the devastation of war recorded in Biblical times, Israel and Iran still choose to antagonize each other over the issue of each other’s existence.
-
-These events beg the question: Why do leaders and societies repeat the same horrible mistakes over and over? Is there a way to stop repeating the mistakes of the past so that humanity can truly move forward?
+- The flexibility makes souls and societies dynamic and scaleable 
+- The similarlity keeps the waves together 
 
 
-## Western Objective versus Eastern Subjective Approaches
+The loss of this flexibility (as the rigidity of the mind) disconnects the soul from others and confines it to itself.
 
-To understand why humans behave as such, it is necessary to analyze the most basic component that makes up humanity, starting with the human mind.
+This confinement builds ego, which is the feeling for the self. 
 
-Unlike animal minds, human minds are endowed with a higher level of sentience or self-consciousness which lets us exercise freedom from basic instincts. 
+When left unchecked, this ego leads to disagreements, disunity, and eventual conflict. The more democratic the society, the more difficult it is to maintain unity:
 
-![Monkey](/photos/social/monkey.jpg)
+{{< q a="Smith" c="The Simple Wealth of Nations Book 5, Chapter 3" >}}
+Rancorous and virulent factions which are inseparable from small democracies. Those factions have so frequently divided their people and disturbed the peace of their democratic governments. 
+{{< /q >}}
 
-Animal Minds | Human Minds
---- | ---
-Only preoccupied with basic life processes | Often go beyond the basics, into culture, science, religion, and politics
-Must adapt their behavior to ensure basic life processes | Behave according to a more complex consciousness 
-
-The differences in behavioral patterns between humans from different areas and time periods can be attributed to how their consciousness has been shaped by events or by their environment, education, culture, situation, etc. 
-
-The kinds and levels of consciousness have not been explored by Western philosophers in depth, as the Western scientific approach focuses more on objectivity or things that can be observed and measured by all, such those of ‘thought experiments’, which observe the results of conscious activity instead of the nature of consciousness itself.
-
-Eastern philosophers, on the other hand, do not have this limitation as Eastern spirituality (originating from India at a much earlier era) has techniques such as meditation and yoga that go beyond the objective physical world into the subjective world of the mind. 
-
-This has led to common observations by Eastern philosophers on the nature of human minds. 
-
-For example, according to Yamazaki (1988), the Buddhist tantric monk Kukai in the year 830, observed that the evolution of a human mind has ten stages, starting from a lower animalistic mind, then, slowly evolving into a more enlightened or higher mind.
-
-Level of Mind | Characteristics and Behavior
---- | ---
-10. Unstable goatish mind | driven by instincts and needs for security, sex, and food
-9. Foolish abstinent mind | strives to be ethical and moral
-8. Childlike fearless mind | seeks to believe in an eternally unchanging god or salvation doctrine
-7. Mind of selfless aggregates | seeks personal liberation
-6. Mind free of karmic seeds | understands the process of conditioning, slowly destroying ignorance
-5. Compassionate mahayana mind | has great compassion as it sees the consciousness in nature
-4. Mind awakened to the Unborn | realizes the void nature of both objects and mind itself
-3. Mind of the single way | realizes that all possible worlds are contained in a single thought within mind
-2. Mind of ultimate no-self-nature | penetrates all things but still limited by duality
-1. Secret sublime mind | breaks through duality, fully realizing the true nature
+{{< q a="Socrates" c="The Simple Republic by Plato, Book 9" >}}
+When the whole soul follows the philosophical principle and there is no division, the several parts are just. 
+{{< /q >}}
 
 
-{{< cap >}}
-Table 1. Jūjūshinron (十住心論) Treatise on The Ten Stages of the Development of Mind by Kukai
-{{< /cap >}}
+The ego is built up by the current ideologies of liberalism, materialism, and even science which treats the soul (and therefore the merging of souls) as pseudo-science. And so no one studies it and everyone remains ignorant of how to actually work together to solve so many current problems. 
 
-This is similar to the other levels of consciousness observed by Buddhist groups (Soka Gakai, 2004) and yoga practitioners (Dasgupta, 1991).  
+For example, science knows that countries must work together to stop global warming, but is actually impotent to make them do so. And so the planet heads for a slow extinction thanks to science and the current liberal and materialist beliefs.  
 
-Since every entity in the universe is evolving at its own pace, the human species will have a certain number of minds at each level at any given point in time. 
+{{< q a="Socrates" c="The Simple Republic by Plato, Book 10" >}}
+Are you not aware that the soul of man is immortal and imperishable? ..But reason will not allow us to believe this. It will not let us believe that the soul, in its truest nature, is full of variety, difference, and dissimilarity. 
+{{< /q >}}
 
-During prehistoric times when the human race was at its infancy, the majority of humans had animalistic minds. Yet there were also a few enlightened minds who united early humans into tribes, which later became civilizations.  
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 4">}}
+There is something ridiculous in the expression 'master of himself' because the master is also the servant and the servant is the master since the same person is denoted. It really means that in the human soul there is a better and a worse principle. When the better has the worse under control, then a man the master of himself. When due to evil education or association, the better principle is overwhelmed by the worse principle, then the man is blamed and is called "unprincipled" or the slave of the self. 
+{{< /q >}}
 
-As time progressed, these minds evolved to develop more sophistication: founding nations, religions, culture, and sciences.
 
-Even if the total ratio of enlightened minds is currently growing through the natural process of evolution, **animalistic minds will always exist** until humans evolve into a different species.  
+## The Solution: Harness the Common Interest via Social Networkism 
 
-Persons with higher minds, such as Rene Descartes and Leonardo Da Vinci, may exist in a time of lower human minds and be recognized as brilliant scientists or inventors.  
+<!-- Dialectical Social Networkism -->
 
-Likewise, persons with lower minds may exist in a time of higher minds and become investment bankers, religious fanatics, fierce tribalists, or corrupt government officials.  
+It would be easier to prevent the growth of ego by pointing out that no one is perfect:
 
-History has shown that:
-- when humans with higher minds become leaders, ‘golden ages’ take place
-- when those of lower minds become leaders, war, depressions, and collapse usually result
+- A beautiful woman will have most of her attention on her physical looks, making her deficient in intellect
+- An intelligent man will have most of his attention on abstract ideas, making him deficient in bodily strength or looks
 
-If individual minds have certain levels which may be higher or lower than others, what happens when they are grouped together?
+In the above, the common interest is **overall personal well-being**.
 
-This will be explained in the Law of Social Cycles
+- A popular politician will spend most of his time interacting with the masses, instead of spending time for policy research
+- A bright researcher will have many good policy-ideas, but will not have the popularity or connections to have them implemented
+
+In the above, the common interest is **implementing the right policies**.
+
+- A skilled app developer can create a superior app, but might not have the skill to market it 
+- An active marketer can make any app go viral, but might not know how to make an app in the first place
+
+In the above, the common interest is **spreading useful apps**.
+
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 5, Chapter 2">}}
+Then in our city, the language of harmony and concord will be more often heard than in any other. They will have their pleasures and pains in common. They will have a common interest in the same thing which they will alike call 'my own'. Having this common interest, they will have a common feeling of pleasure and pain. The is because the guardians will have a community of women and children. We called this unity of feeling as the greatest good.
+{{< /q >}}
+
+Thus, the key to common interest is to **group everyone according to ideas that would interest them**. This would let them gravitate to it and hopefully lower their egos in order to explore that idea further. 
+
+For example, we sometimes go to Meetups about the food, technology, artists, and sports that we like. Nowadays, the internet, social networks, and messaging apps like Whatsapp, Zalo, and Viber help us to access such interests virtually. 
+
+
+
+## Facebook is a Personal Network, Not a Social Network
+
+Unfortunately, some social apps group people not to build the common interest, but merely funnel advertisements more effectively. An example is Facebook which lets its users add other users that they like, creating a **personal network** instead of a proper social network.  
+
+Those users can then post whatever is in their personal interest which then creates a personal bubble or echo chamber that might go against other bubbles. If left unchecked, it can lead to online conflict, followed by real physical conflict or harm.
+
+{{< dc t="Update 2024" >}}
+This is even more evident in the discussion site called Reddit, where the ability to express ideas is based on karma points which are from upvotes. This merely strengthens the current ideologies that are creating the current dysfunctional world.
+{{< /dc >}}
+
+
+<!-- traps its users in an echo chamber that can help it serve ads that strike our personal or group interest. 
+
+In addition, Facebook has no active regulator to keep its users united or prevent conflict. This creates disharmony which increases into radicalism since the interactions are often left unchecked* in the name of freedom. -->
+
+<!-- Facebook is a similar system that groups people according to their interests and allows them to network with each other. However, the main difference is that it has  -->
+
+<!-- Because Facebook has no regulator, anyone can add users according to their whim. Therefore, it is really a personal network instead of a real social network since personal interest, and not common interest, dominates. This creates a  -->
+
+In order to earn more from ads, some social networks focus on user quantity instead of user quality. Our system is different because it earns primarily from a tax, as [Pointtax](https://www.pantrypoints.com/services/tax/), and only secondarily from advertising.
+
+A true social network therefore is one that encourages personal interest as long as it is within the common interest. This necessitates a regulator, just as an early society has a chieftain and a modern society has a President or Prime Minister. 
+
+The key qualification of this regulator is his understanding of the common interest as to keep the society unified and whole. His whole moral authority depends on this. 
+
+Socrates' version of the regulators are the guardians who are morally upright:
+
+
+{{< q a="Socrates" >}}
+The guardians will be delivered from all these evils. Their life will be more blessed than the life of Olympic victors. The Olympic victor is happy to receive a part only of the blessedness secured to our citizens. The citizens' victory is the salvation of the State at the public cost. The crown with which they and their children have is the fulness of all that life needs.
+{{< /q >}}
+
+
+<!-- 
+ therefore not based on arbitrary friend-additions, but on real social contracts or promises, as desribed by David Hume. This is why our proposed economic system is based on social contracts, as a tool to realize the common interest. Thus we define dialectical social networkism as a paradigm that uses Dialectics to implement a system of social contracts, under a moral authority, in order to generate sustainable happiness for the self through its society and beyond.
+
+In future posts, we will explain how this moral authority can be implemented by machine learning in order to create what Socrates calls guardians.
+ -->
+
+
+We implement his guardians as [ISAIAH](/superphysics/solutions/isaiah) which is the machine learning that will regulate our proposed points-based economic network which implements our concept of social networkism desribed here. Thus, social networkism is made up of the following ideas:
+
+- The soul of society being made up of individual souls that merge and dissociate flexibly
+- A common interest that unifies such souls together into a society 
+- A moral leader or regulator to protect and grow that common interest
+
+It is similar to the dynamics of a Republic or Aristocracy as described by Socrates and Spinoza. It is not a wild democracy as is in force in the United States and in most countries that allow free elections. 
+
+
+{{< q a="Spinoza" c="Political Treatise, Chapter 11" >}}
+In democracies, it is not the best men who are appointed to govern, but those who happen to be wealthy or to be eldest sons.
+{{< /q >}}

@@ -4,7 +4,7 @@ heading: Chapter 4b
 # heading: "Doing what is dharmic and avoiding the adharmic"
 date: 2019-12-17
 weight: 17
-image: "/photos/social/anu.jpg"
+image: "/photos/medieval/anu.jpg"
 description: "Action and Reaction applies not only in the physical domain, but also in the metaphysical"
 writer:
   name: Juan

@@ -59,9 +59,14 @@ The four governments are those of Crete and Sparta, which are generally applaude
 
 It's a 3D matrix that classifies ideas based on three axes:
 
-- Selfishness-nonselfishness (as a function of ego or the entity observing existence)
-- Objectivism-nonobjectivism (as a function of the natural duality of existence, or physics vs metaphysics, within space-time)
-- Social cycles (as a function of how the ego changes in duality in different space-times)
+- Selfishness-nonselfishness 
+  - This is a function of ego or the entity observing existence
+  - Selfishness is from the Negative Force. Non-Selfishness is from the Positive (though from the perspective of the self, selfishness can be seen as Positive and selflessness as Negative)
+- Objectivism-nonobjectivism 
+  - This is a function of the natural duality of existence, or physics versus metaphysics, within space-time
+  - Objectivism is from the Negative Force. Subjectivism (respecting the opinion of others) is from the Positive
+- Social cycles
+  - This is a function of how the ego changes in duality in different space-times, as how the Positive and Negative fight each other
 
 ![Ideology Matrix 3D](/graphics/social/ideology.jpg)
 
@@ -86,11 +91,27 @@ In America, this can be seen in:
 
 <!-- ![](https://cdn-images-1.medium.com/max/800/1*58okvB3XEPK5ClzXm4rKCQ.jpeg) -->
 
+
+### Vectorization of Ideas (Update Nov 2024)
+
+The plotting of these abstract ideas and ideologies through time exposes how they change through the years. For example:
+- The Communism in China under Mao is differnt from the Communism of Xi which has state capitalism
+  - We can say that China's Communism has moved towards more personal selfishness, but still not as selfish as Western Capitalism
+- The belief in Jesus of the Catholic church is different from the belief of the modern evangelical churches
+  - The modern era has changed Jesus from a non-objective spiritual Saviour into an objective prosperity giver
+- The Big Bang theory during the time of Einstein is different from the modern Lambda CDM model
+  - The modern theory is more objective because of the data from modern telescopes  
+
+These movements of ideas can be thought of as vectors in a vector space which we call the aetherspace. The goal of Superphysics is to move human ideologies towards the center by applying both a pull and push tactic. This is similar to the hammer and anvil approach of Alexander the Great.
+
+For example:
+- in authoritarian countries like China and North Korea, personal autonomy under a single ruler or ideology could be encouraged
+- in liberal countries like the US and Europe, materialism can be checked by pushing people towards abstract non-objective ideas through the central education system
+
  
-The most sustainable political philosophies and economic systems are those that are near the center, which balance non-selfishness and objective-ness, while adapting to changes in the social cycles. 
+The most sustainable ideologies, political philosophies, and economic systems are those that are near the center, which balance non-selfishness and objective-ness, while adapting to changes in the social cycles. 
 
 In [Buddhism](/research/schumacher/buddhist-economics/part-1), this is called the Middle Way and is essential to sustainable happiness. 
-
 
 In economics, this would be Capitalist systems having a bit of Socialism (as what the Nordic countries are doing), or Socialist systems having a bit of Capitalism (as what China is doing, though they seem to take the state capitalism side too far).
 

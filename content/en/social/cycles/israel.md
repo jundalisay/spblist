@@ -143,7 +143,7 @@ Enlil got upsed with the early humans and so he left Earth after destroying them
 Enki, however, had an attachment to his creations so he stayed behind and guided them through their evolution, as God in the Bible and Allah in the Quran.
 
 
-{{< i s="/photos/medieval/enki.jpg" a="Enki likes to be worshipped" c="Enki likes to be worshipped A LOT" >}}
+{{< i s="/photos/medieval/anu.jpg" a="Enki likes to be worshipped" c="Enki likes to be worshipped A LOT" >}}
 
 
 Our solution is to unify the Old Testament and the Quran by replacing 'God' and 'Allah' with 'Enki', as the Anunnaki [Torah](/research/ancient/jewish/old-testament/genesis/chapter-02)-[Quran](/research/mohammad/quran/sura-002a)

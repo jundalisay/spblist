@@ -1,10 +1,10 @@
 ---
-title: "Zone 7"
-description: "The Surrounding Sea covers most of Zone 7 in the north from the beginning to the middle of Section 5"
+title: "Zone 6"
+description: "Half of this section is mostly covered by the sea, which stretches eastward in a curving line along the northern part"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 2j"
-weight: 22
+heading: "Part 2i"
+weight: 20
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
@@ -12,66 +12,89 @@ writer:
 
 
 
+## Section 1
 
-The Surrounding Sea covers most of Zone 7 in the north from the beginning to the middle of Section 5, where it touches the Qufaya Mountains that surround Gog and Magog.
+Half of this section is mostly covered by the sea, which stretches eastward in a curving line along the northern part, then runs southward along the eastern part, and ends near the southern part of the section. 
 
-### Sections 1 and 2
+A portion of land in this part is not covered by the sea. It is similar in shape to a peninsula, formed by two arms of the
+Surrounding Sea. It is long and wide. 
 
-These are covered by water, except where England is located, most of which lies in the second section. 
+All this is the land of Brittany. At the entrance to it, between those two arms (of the sea) and in the southeast corner of this section, there is the country of Sees which is adjacent to the country of Poitou. (The country of Poitou) has
+been mentioned before in connection with the first and second sections of the fifth zone.
 
-In the first section, there is a corner of England which extends towards the north.The remainder, with a portion of the sea that encircles it, lies in the second section of the sixth zone. 
 
-The channel connecting England with the mainland is twelve miles wide. Beyond the island of England, in the north of the second section, is the island of Raslandah oblong in shape, stretching lengthwise from west to east.
+### Section 2
 
-### Section 3
+This is entered by the Surrounding Sea in the west and north. In the northwest, it covers an oblong portion (extending) over more than half (the south-north extension) of (the section),188a east of Brittany (which was mentioned) in the first section. (This portion of the sea) connects with the other portion in the north (that extends) from west to east. It widens somewhat in the western half of (the section). 
 
-Most of this section is covered by water, except for an oblong portion in the south that is wider in its eastern part. Here, the land of Poland continues. 
+There, a portion of the island of England is situated. It is a large, far-flung island which contains a number of cities and is the seat of a magnificent realm. The remainder of (England) lies in the seventh zone. 
 
-In the western part of the portion of the sea covering this section, there lies a round, wide (island). It is connected with the mainland by an isthmus in the south, which leads to the land of Poland. North of it is the island of Norway, 204 oblong in shape, which stretches lengthwise from west to east in the north (of the section). 
+South of and adjacent to this western part and the island located there, (and still) in the western half of this section, are the countries of Normandy and Flanders. Then, there is (northern) France in the southwest of this section, and, east of it, the countryof Burgundy. All these countries belong to the European Christian nations. 
+
+The eastern half of the section contains the country of the Germans (Alamanni). The south is taken up by the country of Aquileia, with the country of Burgundy farther north, and then the lands of Lorraine and Saxony. 
+
+On a portion of the Surrounding Sea in the northeast corner, is the land of Frisia. All these countries belong to the German (Alamanni) nations. The western part of the third section of the sixth zone contains, in the south, the country of Bohemia, 189 and in the north, the country of Saxony. 
+
+The eastern part contains, in the south, the country of Hungary, and in the north, the country of Poland. (Hungary and Poland) are separated by the Carpathian Mountains (Balwat). They come from the fourth section, run northwest, and eventually end in the country of Saxony at the boundary of the western half (of this section).
+
 
 ### Section 4
 
-This is entirely covered in the north by the Surrounding Sea from the western to the eastern (boundaries of the section). Its southern part is not covered by the sea. To the west, it contains the land of the Finland [?] 205 Turks. To the east lies the country of Tavast,206 followed by the land of Estonia [?] 207 extending to the eastern boundary of the section. 
+This, in the south, contains the country of Jathuliyah, 189a and, in the north, the country of Russia. They are separated by the Carpathian Mountains, from the beginning of the section in the west to its end in the eastern half. 
 
-(Estonia) is permanently covered by snow and has little civilization. It borders on the country of Russia in the fourth and fifth sections of the sixth zone.
+East of the land of Jathuliyah is the country of Jarmaniyah. In the southeast corner, there is the land of Constantinople and the city of Constantinople at the end of the straits coming from the Mediterranean, where it connects with the Black Sea. 
+
+A small portion of the Black Sea connecting with the straits appears in the southeast corner of the section. The corner between the straits and the Black Sea contains Musannah [?]. 190
+
 
 ### Section 5
 
-This contains in the west the country of Russia. In the north, (Russia) 207a extends to where the portion of the Surrounding Sea and the Qufaya Mountains meet, as we have mentioned before. 
+This, in the south, contains the Black Sea, stretching due east from the straits at the end of the fourth section. It traverses the whole of this section and part of the sixth section, covering a distance (in length) of 1,300 miles from its beginning and (in width) of 600 miles. Beyond the Black Sea in the south of this section, there remains a piece of the mainland which is oblong in shape and stretches from west to east. 
 
-The eastern region of the section contains the continuation of the land of the Comans, which lies on (the shore of) a portion of the Black Sea in the sixth section of the sixth zone. It reaches the Lake of T-r-m-y 208
-in this section. 
+The (western portion) of it contains Heracleia 191 on the shore of the Black Sea, (a city) adjacent to the country of al-Baylaqan in the fifth zone. In the east(ern portion) of it is the land of the Alans, with its principal place, Sinope, on the Black Sea. North of the Black Sea in this section is the land of the Bulgars (Burjan) 192 in the west, and in the east the country of Russia. All (these countries) lie on the shores of the Black Sea. 
 
-This is a fresh-water lake into which drain many rivers from the mountains south and north of it. In the northeast of this section is the land of the Nabariyah 209 Turks, which extends to the boundary of the section.
+The country of Russia surrounds the country of the Bulgars (Burjan), (bordering it) in the east(ern portion) of this section, in the north(ern portion) of the fifth section of the seventh zone, and in the west(ern portion) of the fourth section of the sixth zone.
+
 
 ### Section 6
 
-This contains in the southwest the continuation of the land of the Comans. In the middle of that region is Lake Gh-n-w-n. 210 This is a fresh-water lake into which drain the rivers from the mountains in the regions east of it. 
+This contains in the west the remainder of the Black Sea, where it turns slightly north. Between the Black Sea and the northern boundary of the section is the country of the Comans. 193 Following the northward direction of the Black Sea, there is the remainder of the country of the Alans, which was at the southern end of the fifth section and which here becomes wider as it extends northwards. 
 
-It is constantly frozen because of the severe cold, except for a short while during the summer. East of the country of the Comans is the country of Russia, which started in the northeast of the fifth section of the sixth zone. In the southeast corner of this (the sixth) section, is the remainder of the land of the Bulgars (Bulghar) that started in the northeastern part of the sixth section of the sixth zone. In the middle of this portion of the land of the Bulgars, there is the point where the Volga makes its first turn to the south, as has been mentioned. 
+In the eastern part of this section, the land of the Khazars continues, and farther east lies the land of the Burtas.194 In the northeast corner is the land of the Bulgars (Bulghar). In the southeast corner is the land of Balanjar, 195 which is there traversed by a portion of Mount Shiyah. 196 These mountains follow (the coast of) the Caspian Sea later on in the seventh section, and, after separating from it, run west across this part (of the sixth section), and  enter the sixth section of the fifth zone, where they are linked with the Mountains of the "Gates." The country of the Khazars lies on both sides of them. 
 
-The Qufaya Mountains stretch all along the northern boundary of the sixth section from the west to the east.
 
 ### Section 7
 
-This, in the west, contains the remainder of the land of the Pechenegs, a Turkish nation. 
+This contains in the south an area that Mount Shiyah cuts across, to the western boundary of the section, after leaving the Caspian Sea. It is a portion of the country of the Khazars. East of (the country of the Khazars) is the portion of (the coast of) the Caspian Sea that is traversed by Mount (Shiyah) in the northeast. 
 
-Beginning in the northeastern part of the preceding sixth and southwest of this section, it then, in the south, enters the sixth zone. In the east, there is the remainder of the land of the Bashqirs, followed by the remainder of the Stinking Land, which extends to the eastern boundary of the section. 
+Beyond Mount Shiyah, in the northwest, is the land of the Burps. In the eastern portion of the section is the land of the Bashqirs nations. and the Pechenegs, Turkish The entire southern part of the eighth section of (the sixth zone) is occupied by the land of the Khulukh Turks. 199 
 
-The northern boundary of the section is formed by the surrounding Qufaya Mountains stretching (all along it) from the west to the east. 
+The northern region contains in the west the Stinking Land200 and, in the east, the land Gog and Magog are said to have laid waste before the Dam was constructed. In this Stinking Land, the Volga, one of the largest rivers in the
+world, originates. 
 
-### Section 8
+It passes through the country of the Turks and flows into the Caspian Sea in the seventh section of the fifth zone. 
 
-This contains in the southwest the continuation of the Stinking Land. East of it is the Sunken 211 Land, a remarkable place. It is an immense opening in the earth, so deep that the bottom cannot be reached. The appearance of smoke during the day and of fire at night, which by turns flares up and disappears, leads to the conclusion that the place is inhabited. A river is occasionally seen there. It cuts through itfrom south to north. In the east of this section is the Waste Country, which borders the Dam. 
+The Volga makes many turnings. It originates in a mountain in the Stinking Land, from which three streams issue and unite to form one river. It flows due west to the boundary of the seventh section of the sixth zone and turns north into the seventh section of the seventh zone, where it flows along the southwestern boundary. 
 
-Across the northern limit of the section are the Qufaya Mountains, stretching all along it from the west to the east. 
+It leaves the seventh zone in the sixth section, flows a short distance west, then turns south a second time, and returns to the sixth section of the sixth zone, where a branch comes out of it and flows westward into the Black Sea in that section. (The Volga itself next) passes through a portion of the country of the Bulgars (Bulghar) in the
+northeast, leaves the sixth zone in the seventh section to turn south a third time, flows through Mount Shiyah, traverses the country of the Khazars, and enters the fifth zone in the seventh section. 
 
-### Section 9
+There it flows into the Caspian Sea, in that portion of the southwest corner of the section which is not covered by the sea.
+The ninth section of the sixth zone, in the west, contains the country of the Khifshakh Turks-the Qipchaqs-and the country of the Turgish, 201 who are also Turks. 
 
-This contains in the west the country of the Khifshakh, that is, the Qipchaqs. It is traversed by the Qufaya Mountains where they turn away from the north (of the section) at the Surrounding Sea and run southeast through the middle (of the section). 
+In the east, it contains the country of Magog which is separated from the west by the aforementioned surrounding 201a Qufaya Mountains. They start at the Surrounding Sea in the eastern part of the fourth zone, and follow (the Surrounding Sea) to the northern boundary of the zone. 
 
-They then leave (this zone) for the ninth section of the sixth zone and pass across it. There, in the middle of them, is the Dam of Gog and Magog, which we have already mentioned. The eastern part of this section contains the land of Magog, behind the Qufaya Mountains, on the sea. It 211a is not very wide and is oblong in shape and surrounds it in the east and north.
+There, they leave it and run northwesterly until they enter the ninth section of the fifth zone, where they return to their former due northerly course into the ninth section of (the sixth zone), which they cross from south to north, bearing a little to the west. There, in the middle of (the mountains), is the Dam built by Alexander. 
 
-### Section 10
+The mountains, then, continue due north into the ninth section of the seventh zone, which they traverse from the south on up to the Surrounding Sea in the north. They follow along it from there westward into the fifth section of the seventh zone, where they encounter a portion of the Surrounding Sea to the west.
 
-This is is entirely covered by the sea.
+In the middle of this ninth section is the Dam built by Alexander, as we have said.
+
+Correct information about it is found in the Qur'an. 'Ubaydallah b. Khurradadhbih mentioned in his geographical work 202 that al-Wathiq saw in a dream that the Dam had opened. Frightened, he awakened and sent Salim (Sallam) the dragoman to investigate the
+Dam and to bring back information about it and a description of it, which he did. This is a
+long story that has nothing to do with the purpose of our work.
+
+The tenth section of the sixth zone is occupied by the country of Magog, extending to the end of (the section). There it borders on a portion of the Surrounding Sea which surrounds (the section) to the east and north. (This portion) is oblong in the north and
+widens somewhat in the east.
+
+

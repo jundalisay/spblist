@@ -93,6 +93,8 @@ Should these reasons against voluntary divorces be insufficient, I hope nobody w
 
 When divorces were most frequent among the Romans, marriages were most rare. Augustus was obliged, by penal laws, to force men of fashion into marriage. This never happened anywhere else. <!-- A circumstance which is scarcely to be found in any other age or nation. --> 
 
-The more ancient laws of Rome prohibited divorces. They are extremely praised by Dionysius Halycarnassæus.8 He said that "Wonderful was the harmony which this inseparable union of interests produced between married persons; while each of them considered the inevitable necessity by which they were linked together, and abandoned all prospect of any other choice or establishment."
+The more ancient laws of Rome prohibited divorces. They are extremely praised by Dionysius Halycarnassæus.8 
+
+He said that "Wonderful was the harmony which this inseparable union of interests produced between married persons; while each of them considered the inevitable necessity by which they were linked together, and abandoned all prospect of any other choice or establishment."
 
 The exclusion of polygamy and divorces sufficiently recommends our present European practice with regard to marriage.

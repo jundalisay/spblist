@@ -1,10 +1,10 @@
 ---
-title: "Zone 4"
-description: "Its first section, in the west, contains a portion of the Surrounding oblong Sea"
+title: "Zone 3"
+description: "Opposite its western limit in the Surrounding Sea are two of Canary Islands"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 2g"
-weight: 16
+heading: "Part 2f"
+weight: 14
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
@@ -12,132 +12,146 @@ writer:
 
 
 
-This is contiguous with the northern part of Zone 3. 
+## Zone 3
 
-Its first section, in the west, contains a portion of the Surrounding Sea which, oblong in shape, extends from the southern to the northern boundary of the section. The city of Tangier is situated on it in the south. North of Tangier, the Mediterranean branches off from this portion of the Surrounding Sea in a narrow straits that is only twelve miles wide, Tarifa and Algeciras (lying) to the north of it and Qasr al-Majaz 143 and Ceuta to the south of it. 
-
-It runs east until it reaches the middle of the fifth section of the fourth zone, gradually widening and eventually covering the (first) four sections and most of the fifth section of the fourth zone, as well as adjacent regions of the third and fifth zones, as we shall mention.
-
-The Mediterranean is also called the "Syrian Sea." It contains many islands. The largest of them, from west to east, are Ibiza, Majorca, Minorca, Sardinia, Sicily-which is the largest of them -the Peloponnesos, Crete, and Cyprus. We shall mention each of them in its particular section.
-
-At the end of the third section of the fourth zone and in the third section of the fifth zone, the Adriatic Sea (Straits of the Venetians) branches off from the Mediterranean. 
-
-It runs in a northern direction, then turns westward in the northern half of the section, and finally ends in the second section of the fifth zone. 
-
-At the eastern boundary of the fourth section of the fifth zone, the Straits of Constantinople branches off from the Mediterranean. In the north, it makes a narrow passage only an arrow shot in width, extending up to the boundary of the zone and on into the fourth section of the sixth zone, where it turns into the Black Sea, running eastward across the whole of the fifth, and half of the sixth, sections of the sixth zone, as we shall mention in the proper place.
-
-Where the Mediterranean leaves the Surrounding Sea through the Straits of Tangier and expands into the third zone, there remains a small portion of this section south of the Straits. The city of Tangier is situated in it, at the confluence of the two seas. After Tangier comes Ceuta on the Mediterranean, then Tetuan (Tittawin), and Badis. 
-
-The remainder of this section to the east is covered by the Mediterranean, which extends into the third (zone). Most of the cultivated area in this section is north of it and north of the Straits. All this is Spain.
-
-The western part of Spain, the area between the Surrounding Sea and the Mediterranean, begins at Tarifa, at the confluence of the two seas. East of it, on the shoreof the Mediterranean, is Algeciras, followed by Malaga, Almunecar, and Almeria.
-
-Northwest of these cities and close to the Surrounding Sea, there is Jerez (de la Frontera), followed by Niebla. Opposite these two cities, in the Surrounding Sea, is the island of Cadiz. East of Jerez and Niebla are Sevilla, followed by Ecija, Cordoba, and Marbella [? ], 144 then Granada, Jaen, and Ubeda, then Guadix and Baza. 
-
-Northwest of these cities on the Surrounding Sea are Santamaria and Silves. (North)east of these two cities are Badajoz, Merida, and Evora '145 followed by Ghafiq 146 and Trujillo, and then Calatrava.
-
-Northwest of these cities on the Surrounding Sea, there is Lisbon on the Tajo. East of Lisbon, on the Tajo, are Santarem and Coria. Then, there is Alcantara. Facing Lisbon on the east, there rises the Sierra (de Guadarrama) which starts in the west there and runs eastward along the northern boundary of the section. It ends at Medinaceli beyond the middle of (the section). Below (at the foot of) the Sierra, is Talavera, east of Coria, followed by Toledo, Guadalajara, and Medinaceli. Where the Sierra begins, in the region between the Sierra and Lisbon, is Coimbra. This is western Spain.
-
-Eastern Spain is bordered by the Mediterranean. Here, Almeria is followed by Cartagena, Alicante, Denia, and Valencia, up to Tarragona 147 at the eastern boundary of the section. North of these cities are Lorca and Segura, adjacent to Baza and Calatrava, which belong to western Spain. To the east, then, comes Murcia, followed by Jativa north of Valencia,148 then Jucar,149 Tortosa, and 150 Tarragona at the boundary of the section. 
-
-Then, north of these cities, there are the lands of Chinchilla and Huete, which are adjacent to Segura and Toledo in the west. Northeast of Tortosa, then, is Fraga. East of Medinaceli, there is Calatayud, followed by Saragossa and Lerida at the northeastern end of the section. 
-
-The second section of the fourth zone is entirely covered by water, except for a portion in the northwest which includes the remainder of the Pyrenees,151 the "Mountain of Passes and Roads." It comes there from the boundary of the first section of the fifth zone. It starts at the southeastern limit of the Surrounding Sea on the boundary of this section, runs southeastward, and enters the fourth zone upon leaving the first section for the second, so that a portion of it falls into the fourth zone. Its passes lead into the adjacent mainland, which is called the land of Gascogne. It contains the cities of Gerona and Carcassonne. 
-
-On the shores of the Mediterranean in this portion, is the city of Barcelona, followed by Narbonne.
-
-The sea which covers this section contains many islands, most of which are uninhabited because they are small. In the west, there is the island of Sardinia, and in the east the large island of Sicily. Its circumference is said to be seven hundred miles. It contains many cities, the best known among them being Syracuse, Palermo, Trapani, Mazzara, and Messina. Sicily is opposite Ifriqiyah. Between Sicily and Ifriqiyah are the islands of Gozzo and Malta.
-
-The third section of the fourth zone is also covered by the sea, except for three portions in the north. The one in the west belongs to the land of Calabria, the one in the middle to Lombardy, and the one in the east to the country of the Venetians.
-
-The fourth section of the fourth zone is also covered by the sea, as has been mentioned. It contains many islands. Most of them are uninhabited, as is the case in the third section. The inhabited islands are the Peloponnesos, in the northwest, and Crete, which is oblong in shape and stretches from the middle of the section to the southeast. 
-
-A large triangular area of the fifth section in the southwest is covered by the sea. The western side of (this triangle) goes to the northern boundary of the fifth section. The southern side goes across about two-thirds of the section. There remains at the eastern side of the section a portion of about one-third. Its northern part runs west along the seacoast
+This is contiguous with the northern boundary of Zone 2. 
 
 
-Its southern half contains the northernmost region of Syria. It is traversed in the middle by the Amanus. The Amanus eventually reaches the northern end of Syria, where it turns in a northeasterly direction. At the point where it turns, it is called "ChainMountain."152 There, it enters the fifth zone. 
+### Section 1
 
-After it turns, it traverses a portion of the Jazirah in an easterly direction. West of where it turns, there rise contiguous mountain ranges. They finally end at an inlet of the Mediterranean, near the northern end of the section. Through these mountains, there are passes which are called ad-Durub (mountain passes). They lead into Armenia. This section contains a portion of Armenia situated between these mountains and the Chain Mountain.
+This is about 1/3 of the way from the southernmost part of the zone, contains the Atlas Mountain 1 07 which runs from the western part of the first section at the Surrounding Sea to the eastern end of the section. 
 
-The southern region, as we have mentioned before, comprises the northernmost region of Syria, and the Amanus extends across it from south to north in the area between the Mediterranean and the boundary of the section. On the seacoast is Antarsus,153 at the beginning of the section to the south. It borders on 'Arqah and Tripoli which lie on the shore of the Mediterranean in the third zone. North of Antarsus is Jabalah, followed by Lattakiyah, Alexandretta, and Selefke. North of these cities is the Byzantine territory. 
+This mountain is inhabited by innumerable Berber nations, as will be mentioned.108 In the region between this mountain and the second zone, at the Surrounding Sea, there is the Ribat (Monastery) Missah. 109 East of here are the adjoining countries of (as-)Sus 110 and Noun (Nul). Directly to the east of (these countries) is the country of Dar'ah, followed by the country of Sijilmasah and then by a portion of the desert of Nisar, the stretch of desert that we mentioned in describing the second zone.
 
-The Amanus, which lies between the sea and the end of the section, is hugged, in Syria in the southwestern part of the section, by the fortress of llisn al-Khawabi, which belongs to the Isma'ili Assassins who at this time are called Fidawis. The fortress (also) is called Masyat. 154 It lies opposite Antarsus to the east. On the side opposite this fortress, east of the Amanus, is Salamlyah, north of Emesa. North of Masyat, between the mountain and the sea, lies Antioch. Opposite it, east of the Amanus, is al-Ma'arrah, and east of al-Ma'arrah, al-Marighah. 
+The Atlas Mountain towers over all these countries of the first section. The western region of the Atlas has few passes and roads but near the Moulouya (Malwiyah) River, and from there on to where it ends, the Atlas has a great number of passes and roads. This region contains the Masmudah nations= at the Surrounding Sea the Saks1wah, then theHintatah, the Tinmallal, the Gidmiwah,111 and then the Haskurah who are the last Masmudah in this area. 
 
-North of Antioch, there is al-Massisah, followed by Adhanah and Tarsus, at the furthest point of Syria. Facing (Antioch), west of the mountain, is Qinnasrin, followed by 'Ayn Zarbah. Opposite Qinnasrin, east of the mountain, is Aleppo, and opposite 'Ayn Zarbah is Manbij, the furthest point of Syria.
+Then there are the Zanigah, 112 that is, the Sinhijah- tribes. At the boundary of the first section of the third zone, there are some Zanatah tribes. To the north, Mount Awras (L'Aures), the mountain of the Kutamah, adjoins (the Atlas). After that, there are other Berber nations which we shall mention in their proper places.
 
-The area to the right of the Durub, between them and the Mediterranean, comprises the Byzantine territory (Anatolia). At this time, it belongs to the Turkomans and is ruled by Ibn Uthman (the Ottomans). 155 On the shore of the Mediterranean there, are Antalya and al--'Alaya.
+The Atlas Mountain in the western part of the section towers over Morocco to the north of it. In the southern part of (Morocco) lie Marrakech, Aghmat, and Tadla. On the Surrounding Sea there, are the Ribat Asfi and the city of Sale (Sala). East 112a of the country of Marrakech lie Fez, Meknes, Taza, and Qasr Kutamah,113 
 
-Armenia, which lies between the Durub and the Chain Mountain, comprises Mar'ash, Malatya, and Ankara, 155a up to the northern end of the section. In Armenia, in the fifth section, originate the river Jayhan and, to the east of it, the river Sayhan. The
-Jayhan flows south until it has traversed the Durub.
+This is the area that is customarily called the Farthest Maghrib (Morocco) by its inhabitants. On the shore of the Surrounding Sea in that region lie Arcila (Azila) 114 and Larache (al-'Ara'ish). Directly to the east of this area, there is the country of the Middle Maghrib whose center is Tlemcen (Tilimsan). On the shores of the Mediterranean there, lie Hunayn,115 Oran, and Algiers. 
 
-It then passes by Tarsus and al-Massisah, then turns northwestward and eventually flows into the Mediterranean south of Selefke. The Sayhan runs parallel to the Jayhan. It is opposite Ankara and Mar'ash, traverses the Durub Mountains, reaches Syria, then passes by 'Ayn Zarbah, then turns away from the Jayhan, and turns northwestward. It joins the Jayhan west of al-Massisah. 
+The Mediterranean leaves the Surrounding Sea at the Straits of Tangier in the western part of the fourth zone, 116 and then extends eastward to Syria. Shortly after it leaves the narrow straits, it widens to the south and to the north and enters the third and fifth zones. 
 
-The Jazirah, which is surrounded by the portion of the Amanus that turns into the Chain Mountain, contains in the south ar-Rafiqah and ar-Raqqah, followed by Harran, Saruj, Edessa, Nisibis, Samosata, and Amid, north of the Chain Mountain, at the northeastern end of the section. 
+This is why many places within the third zone are on the Mediterranean coast, from Tangier up to al-Qasr as-saghir, then Ceuta, the country of Badis, and Ghassasah. 
 
-The Euphrates and the Tigris traverse this area in the middle. They originate in the fifth zone, pass southward through Armenia, and cross the Chain Mountain. The Euphrates, then, flows west of Samosata and Saruj in an easterly direction. 
-
-It passes west of ar-Rafiqah and ar-Raqqah and on into the sixth section. The Tigris flows east of Amid and shortly thereafter turns to the east. Then, it soon passes on into the sixth section.
-
-The sixth section of the fourth zone contains the Jazirah to the west. Immediately east of it is the country of the 'Iraq, which terminates near the boundary of the section. At the boundary of the 'Iraq is the Mountain of Isfahan which comes from the south of the section and runs in a westerly direction. When it reaches the middle of the northern end of the section, it runs west. 
- 
-Eventually, leaving the sixth section, it joins on its course due west, the Chain Mountain in the fifth section.
-The sixth section is divided into two portions, a western and an eastern. Thewestern portion, in the south, contains the point where the Euphrates leaves the fifth section, and, in the north, the point where the Tigris leaves it. As soon as the Euphrates enters the sixth section, it passes Qirqisiya'. 
-
-There, a (river) branches off from the Euphrates. It flows north into the Jazirah and disappears there in the ground. Shortly past Qirqisiya', the Euphrates turns south and passes to the west of the Khabir and on west of ar-Rahbah. A (river) branches off there from the Euphrates and flows south. Siffin lies to the west of it. (This river) then turns east and divides into a number of branches. 
-
-Some of them pass by alKufah, others by Qasr Ibn Hubayrah and al-Jami'ayn (alHillah). Now, in the south of the section all of them enter the third zone and disappear into the ground east of al-Hirah and al-Qadisiyah. The Euphrates flows directly east from arRahbah, and passes north of Hit. It then flows south of azZab 155b and al-Anbar, and into the Tigris at Baghdad.
-
-When the Tigris leaves the fifth section for the sixth section, it flows due east, opposite the Chain Mountain which connects with the Mountain of al-'Iraq on its course due west, and passes north of Jazirat Ibn 'Umar. 
-
-Then it passes Mosul in the same way, and Takrit. It reaches al-Hadithah, turns south, leaving al-Hadithah to the east of it, and likewise the Greater and the Lesser Zab. It flows directly south and to the west of al- Qadisiyah. Eventually it reaches Baghdad and joins with the Euphrates. 
-
-Then it flows south, to the west of Jarjaraya, and eventually leaves the section and enters the third zone. There it divides into many branches. They unite again and there flow into the Persian Gulf at 'Abbidin. 
-
-The region between the Tigris and the Euphrates, before they have come together at Baghdad, is the Jazirah. Below Baghdad, another river joins the Tigris. It comes from northeast of (the Tigris). It reaches an-Nahrawin opposite Baghdad to the east. Then it turns south and joins with the Tigris before entering the third zone. 
-
-For the region between this river and the mountains of al-'Iriq and Kurdistan, there remains Jaluli' and, east of it at the mountain, Hulwin and Saymarah. The western portion of the section contains a mountain that starts from the Kurdish mountains and runs east toward the end of the section. It is called the Mountain of Shahrazur. It divides the (western portion) into two subdivisions. 
-
-The southern subdivision contains Khunajin, northwest of Isfahan. This section is called the country of al-Bahlus. 156 In the middle of the southern subdivision is Nahiwand, and, in the north, Shahrazur, west of the point where the two mountain ranges meet, and ad-Dinawar (is) on the east, at the boundary of the section. 
-
-The other subdivision contains part of Armenia, including its principal place, al-Marighah. The portion of the Mountain of al-'Iraq that faces it is called the Mountain of Birimma. 157 It is inhabited by Kurds. The Greater Zab and the Lesser Zib at the Tigris are behind it. 
-
-At the eastern end of this section lies Azerbaijan, which includes Tabriz and al-Baylagan. 158 In the northeast corner of the section is a small portion of [the Black Sea,] the Caspian (Sea of the Khazars). 159
-
-The seventh section of the fourth zone contains, in the southwest, the largest portion of the country of al-Bahlus, including Hamadhin and Qazwin. The remainder of it is in the third zone; Isfahan is situated there. (Al-Bahlus and Isfahan) are surrounded on the south by mountains which come from the west, pass through the third zone, leave it in the sixth section for the fourth zone, and join the eastern portion of the Mountain of al-'Iraq, as has been mentioned before. They (also) surround the eastern portion of the country of al-Bahlus. 
-
-These mountains which surround Isfahan run north from the third zone, enter this seventh section, and then inclose the country of al-Bahlus on the east. Below (at the foot of) them, is Qishin, followed by Qumm. Near the middle of their course, they turn slightly west; then, describing an arc, they run northeastward, and eventually enter Zone 5. 
-
-Where they turn (west) and make the circle, ar-Rayy lies to the east. Where they turn (west), another mountain range starts and runs west to the boundary of the seventh section. 
-
-South of the mountains there is Qazwin. North of them and alongside the connecting mountains of arRayy, extending in a northeastern direction to the middle of the section and then into the fifth zone, lies the country of Tabaristan in the region between these mountains and a portion of the Caspian Sea (Sea of Tabaristan). 
-
-From Zone 5, it enters the seventh section about halfway between west and east. Where the mountains of ar-Rayy turn west, there lie other, connecting mountains. They run directly east and slightly south, and eventually enter the eighth section from the west. Between the mountains of ar-Rayy and these mountains, at their starting point, there remains Jurjan,
-which includes Bistam. 160 
-
-Behind these (latter) mountains, there is a part of the seventh section that contains the remainder of the desert area between Fars and Khurisan, to the east of Qishin. At its farthest point, near these mountains, is Astaribidh. On the eastern
-slopes of these mountains, and extending to the boundary of the section, lies the country of Nisabur, which belongs to Khurisin. South of the mountains and east of the desert area, lies Nisabur, followed by Marw ash-Shihijan 161 at the end of the section. North of it and east of Jurjan, are Mihrajin, Khazarun, and Tus, the eastern end of the section. 
-
-All these places are north of the mountains. Far to the north of them is the country of Nasa, which is surrounded by barren stretches of desert, in the northeastern corner of the section. 
-
-The eighth section of the fourth zone, in the west, contains the Oxus which flows from south to north. On its western bank, there are Zamm 162 and Amul which belong to Khurasan, as well as at-Tahiriyah and Gurganj which belongs to Khuwarizm. The
-southwest corner of the section is surrounded by the mountains of Astarabadh, which were found already in the seventh section. They enter this section from the west and encircle the (southwestern) corner, which includes the remainder of the country of Herat. In the third zone, the mountains pass between Herat and al-Juzajan, and eventually connect with the
-Buttam Mountain, as we mentioned there. East of the Oxus in the south of this section, is the country of Bukhara, followed by the country of the Soghd, with Samarkand as its principal place. Then comes the country of Usritshanah, which includes Khujandah at the eastern end of the section. North of Samarkand and Usrushanah, is the land of Ilaq.163
-North of Ilaq is the land of Tashkent (ash-Shish), which extends to the eastern boundary of
-the section and occupies a portion of the ninth section that in the south includes the
-remainder of the land of Farghanah.
-
-From this portion of the ninth section, comes the river of Tashkent (Syr Darya). It cuts through the eighth section, and eventually flows into the Oxus where the latter leaves the eighth section in the north for the fifth zone. In the land of Ilaq, a river coming from the ninth section of the third zone, from the borders of Tibet, flows into the river of
-Tashkent, and before the latter leaves the ninth section, the river of Farghanah flows into it.
+Algiers, which comes next, is near Bougie (Bajayah) on the east. Then, east of Bougie at the boundary of the first section is Constantine, a day's journey from the Mediterranean. South of these places, toward the south of the Middle Maghrib, is the territory of Ashir, with Mount Titteri, followed by Msila (al-Masilah) and the Zab. The center of (the Zab) is Biskra, north of Mount Awras which connects with the Atlas, as has been mentioned. This is the eastern end of the first section.
 
 
-Parallel to the river of Tashkent lies Mount Jabraghun, which starts from the fifth zone, turns southeast, and eventually enters the ninth section and runs along the borders of the land of Tashkent. Then, it turns in the ninth section, continues along the boundaries of Tashkent and Farghanah, goes on to the southern part of the section, and then enters the
-third zone. Between the river of Tashkent and the bend of this mountain in the middle of
-the section, there is the country of Farab. Between it and the land of Bukhari and
-Khuwarizm are barren stretches of desert. In the northeast corner of this section is the land
-of Khujandah, 163a which includes Isbijab 164 and Taraz. 1 65
+### Section 2
 
-The ninth section of the fourth zone, to the west beyond Farghanah and Tashkent, contains the land of the Kharlukh in the south, and the land of the Khallukh 166 in the north. The whole eastern part of the section to its farthest point is occupied by the land of
-the Kimak. 
+This is like the first section in that about one-third of the distance from its southern (limit) lies the Atlas Mountain which extends across this section from west to east and divides it into two portions. The Mediterranean covers one area in the north. The portion south of the Atlas Mountain is all desert to the west. 
 
-It extends over the whole tenth section to the Qufaya Mountains 167 which are at the eastern end of the section and lie there on a portion of the Surrounding Sea. They are the Mountains of Gog and Magog. All these nations are Turkish peoples.
+To the east, there is Ghadames. Directly to the east (of this portion) is the land of Waddan, the remainder of which is situated in the second zone, as has been mentioned. The portion north of the Atlas Mountain between the Atlas and the Mediterranean contains in the west Mount Awras, Tebessa, and Laribus (al-Urbus). 
 
+On the seacoast is Bone (Bunah). Directly east of these places lies the country of Ifriqiyah, with the city of Tunis, then Sousse (Susah), and al-Mahdiyah on the seacoast. South of these places and north of the Atlas Mountain, is the country of the Djerid (Jarid, al-Jarid), Tozeur (Tuzar), Gafsa (Qafsah), and Nefzoua (Nafzawah). Between them and the coast is the city of Kairouan (al-Qayrawan), Mount Ousselat (Ouselet, Waslat), and Sbeitla (Subaytilah). 
+
+Directly east of these places lies Tripoli on the Mediterranean. Facing it in the south are the mountains of the Hawwarah tribes, Dammar (Mount Demmer), and Maqqarah (the city of Maggara), which connect with the Atlas and are opposite Ghadames which we mentioned at the end of the southern portion. At the eastern end of the second section lies Suwayqat Ibn
+Mathkud 116a on the sea. 
+
+To the south are the desert plains of the Arabs in the land of Waddan.
+
+
+### Section 3
+
+This is also traversed by the Atlas Mountain, but at the limit (of the section) the Atlas turns northward and runs due north up to the Mediterranean. There, it is called Cape Awthan. The Mediterranean covers the northern part of the third section, so that the land between it and the Atlas narrows. 
+
+Behind the mountain to the southwest, there is the remainder of the land of Waddan and the desert plains of the Arabs. Then, there is Zawilat Ibn Khattab,117 followed by sandy deserts and waste regions to the eastern boundary of the section. To the west of the area between themountain and the sea, there is Sirte (Surt) at the sea. 
+
+Then, there are empty and waste regions in which the Arabs roam. Then, there is Ajdabiyah and, where the mountain makes a turn, Barca (Barqah). Next comes Tulaymithah (Ptolemais) on the sea. Then, to the east of the mountain, after it makes the turn, are the desert plains of the Hayyib 118 and the Ruwahah, which extend to the end of the section.
+
+The southwestern part of the fourth section of the third zone contains the desert of Berenice. North of it is the country of the Hayyib and the Ruwahah. Then, the Mediterranean enters this section and covers part of it in a southern direction almost to the southern boundary. 
+
+Between it and the end of the section, there remains a waste region through which the Arabs roam. Directly to the east of it is the Fayyum, at the mouth of one of the two branches of the Nile. This branch passes by al-Lahfin in Upper Egypt, in the fourth section of the zone, and flows into the Lake of the Fayyum. 
+
+Directly to the east of (the Fayyum) is the land of Egypt with its famous city (Cairo), situated on the other branch of the Nile, the one that passes through Dalas in Upper Egypt at the boundary of the second section. This latter branch divides a I, log second time into two more branches below Cairo, at Shattanawf and Zifta(h).119 
+
+The right branch again divides into two other branches at Tarnut.120 All these branches flow into the Mediterranean. At the mouth of the western branch is Alexandria; at the mouth of the middle branch is Rosetta; and at the mouth of the eastern branch is Damietta. Between Cairo and the Mediterranean coast at these points lies the whole of northern Egypt, which is densely settled and cultivated. 
+
+
+### Section 5
+
+This contains all or most of Syria. The Red Sea ends in the southwest (of the section) at Suez, because in its course from the Indian Ocean northward, it turns eventually westward. 
+
+A long portion of its western extension lies in this section, with Suez at its western end. Beyond Suez, on this part of the Red Sea, there are the mountains of Paran (Faran), Mount Sinai (atTur), Aila (Aylah) in Midyan (Madyan), and, where it ends, al-Hawra'. 121 From there, its shoreline turns southward towards the land of the Hijaz, as has been mentioned in connection with the fifth section of the second zone.
+
+A portion of the Mediterranean covers much of the northwestern part of the fifth section. On its (coast) lie alFarama 122 and al-'Arish. The end of this portion of the Mediterranean comes close to al-Qulzum. 
+
+The area in between there is narrow. It becomes a kind of gate leading into Syria. West of this gate is the desert plain (at-Tih), a bare country in which nothing grows, where the Israelites wandered for forty years after they had left Egypt and before they entered Syria, as the Qur'an tells.123 
+
+In this portion of the Mediterranean, in the fifth section, lies part of the island of Cyprus. The remainder (of Cyprus) lies in the fourth zone, as we shall mention. Along the coastline of that narrow strip of land between the Mediterranean and the Red Sea, are al'Arish, the boundary of Egypt, and Ascalon. Between them, there is a (narrow) strip of land (separating the Mediterranean and) the Red Sea. Then, this portion of the Mediterranean turns to the north into the fourth zone at Tripoli and 'Argah.124 That is the eastern end of the Mediterranean.
+
+This portion of the Mediterranean comprises most of the Syrian coast. 
+
+East and slightly to the north of Ascalon, is Caesarea. Then, in the same general direction, are Acco, Tyre, Sidon, and 'Arqah. The sea then turns north into the fourth zone.
+
+Opposite these places on the coast of this portion of the Mediterranean, in the fifth section, there is a big mountain which rises from the coast at Aila (Aylah) on the Red Sea. It runs northeastward until it leaves the fifth section. It is called Amanus (al-Lukkam). 
+
+It is a kind of barrier between Egypt and Syria. At the one end, near Aila (Aylah), lies al- 'Aqabah which the pilgrims pass through on their way from Egypt to Mecca. After it, to the north, is Abraham's tomb at Mount ash-Sharah 125 which is a continuation of the afore-mentioned Amanus north of al-'Aqabah. It extends due east, and then turns slightly(to the south). East of there is al-Hijr, the land of the Thamild, Tema (Tayma'), and Dumat al-Jandal, the northernmost part of the Hijaz. South of it is Mount Radwa. 126 
+
+Farther south, there are the castles of Khaybar. Between Mount ash-Sharah and the Red Sea lies the desert of Tabuk. North of Mount ash-Sharah is the city of Jerusalem near the Amanus.
+
+Then, there is the Jordan and Tiberias. East of it lies the (Jordan) depression (Ghor, al- Ghawr) 126a which extends to Adhri'at and the Hawran. Directly to the east of (the Hawran) is Dumat al-Jandal which constitutes the end of the Hijaz and the fifth section. Where the Amanus turns north at the end of the fifth section is the city of Damascus, opposite Sidon and Beirut on the coast. 
+
+The Amanus lies between (Sidon and Beirut, on the one hand), and (Damascus, on the other). Directly east 127 of Damascus and facing it, is the city of Ba'lbakk. Then, there is the city of Emesa at the northern end of the fifth section, where the Amanus breaks off. East of Ba'lbakk and Emesa are the city Palmyra and desert plains extending to the end of the fifth section.
+
+The southernmost part of the sixth section contains the desert plains of the Arab Bedouins, (which are) located to the north of the Najd and the Yamimah in the area between the Mountain of al-'Arj and as-Sammin and extending to alBahrayn and Hajar at the Persian Gulf. 
+
+In the northernmost part of the sixth section, to the north of the desert plains, lie al-Hirah, al-Qidisiyah, and the swampy lowlands of the Euphrates. Beyond that to the east is the city of al-Basrah. In the northeastern part of the sixth section, the Persian Gulf ends, at 'Abbidan and al-Ubullah. The mouth of the Tigris is at 'Abbidan. The Tigris divides into many branches and takes in other branches from the Euphrates. All of them come together at 'Abbidan and flow into the Persian Gulf. This portion of the Persian Gulf is wide in the southernmost part (of the section). 
+
+It narrows toward its eastern boundary, and where it ends in the north it (also) is narrow. On the western coast lie the northernmost portion of al-Bahrayn, Hajar, and al-Ahsa'. To the west of this portion of the Persian Gulf, lie al-Khatt, as-Sammin, 128 and the remainder of the land of the Yamimah. 
+
+The eastern coast comprises the shores of Fars. In their southernmost part, at the eastern end of the sixth section, along a line stretching from the Persian Gulf eastward and beyond it to the south, are the mountains of al-Qufs 129 which are in Kirman. 
+
+North of Hurmuz on the coast of the Persian Gulf, are Sirif and Najiram. In the east, toward the end of the sixth section and north of Hurmuz, is the country of Firs, comprising, for instance, Sibur, Darabjird, Fasi, Istakhr, ash-Shihijin, and Shiriz, the principal city. North of the country of Firs, at the end of the Persian Gulf, lies the country of Khuzistin which includes al-Ahwiz, Tustar, Jundishibur, Susa (as-Sus), Rimhurmuz, and other cities. Arrajin is on the boundary between Firs and Khuzistin. 
+
+To the east of the country of Khuzistin are the Kurdish Mountains, which extend to the region of Isfahin. The Kurds live there. They roam beyond the mountains into the country of Firs. They are called az-zumum. 130
+
+The southwestern part of the seventh section contains the remainder of the Mountains of al-Qufs to which are adjacent in the south and north the countries of Kirman (and Mukran). They include the cities of ar-Rudhan, ash-Shirajan, Jiruft (Jayruft), Yazdshir, and al-Fahraj. 
+
+North of the land of Kirman is the remainder of the country of Fars up to the border of Isfahan. The city of Isfahan lies in the northwest corner of the seventh section. East of the countries of Kirman and Firs, there is the land of Sijistin to the south, and the land of Kuhistan to the north. Between Kirmin-Firs and Sijistan-Kuhistin, in the middle of this section, is the great desert which has few roads because of the difficult terrain. 
+
+Cities in Sijistin are Bust and at-Tiq. Kuhistan belongs to the country of Khurisin. One of Khurisan's best known places is Sarakhs, 131 on the boundary of the section.
+
+
+### Section 8
+
+This contains, in the southwest, the plains of the Khalaj, 132 a Turkish nation. They adjoin the land of Sijistan in the west and the land of Kabul of Eastern Indiain the south. North of these desert plains are the mountains and country of al-Ghar starting with Ghaznah, the key to India. Where al-Ghur ends in the north, lies Astarabadh. 
+
+Then, to the north is the country of Herat in the middle of Khurasan, extending to the boundary of the section. It includes Isfarayin, Qishan, Bushanj, Marw-ar-rudh, at-Taliqan, and al-Juzajan. This part of Khurasan extends to the river Oxus. Khurasanian places on this river are the city of Balkh to the west, and the city of at-Tirmidh to the east. The city of Balkh
+was the seat of the Turkish realm.
+
+The Oxus comes from the country of Wakhan in the area of Badakhshan which borders on India, in the southeast corner of this section. It soon turns west to the middle of the section. There, it is called the Kharnab River. It then turns north, passes Khurasan, flows due north, and finally flows into Lake Aral in the fifth zone, as we shall mention. 
+
+In the middle of the eighth section where it turns from the south to the north, five large rivers belonging to the country of Khuttal and Wakhsh 133 flow into it on the east. Other rivers, coming from the Buttam Mountains to the east and north of Khuttal, also flow into it. The Oxus, thus, becomes wider and larger, so much so that no other river equals it in these respects. 
+
+One of the five rivers flowing into the Oxus is the Wakhshab 134 which comes from the country of Tibet that extends over the southeastern portion of this section. It flows toward the northwest. 
+
+Its course is blocked by a great mountain which runs from the middle of this section in the south toward the northeast, and leaves this section close to its northern (boundary) to pass into the ninth section. It crosses the country of Tibet toward the southeast portion of this section. It separates the Turks from the country of Khuttal. It has only one road in the middle of this section to the east. AlFadl b. Yahya constructed a dam there with a gate in it, 135 like the Dam of Gog and Magog. 
+
+When the Wakhshab leaves the country of Tibet and comes up against that mountain, it flows under it for a long
+distance, until it enters the country of Wakhsh and flows into the Oxus at the border of
+Balkh. (The Oxus) then sweeps on to at-Tirmidh in the north and flows into the country of
+al-J(izajan.
+
+East of the country of al-Ghur, in the region between (this country) and the Oxus, is the country of al-Bamiyan, which belongs to Khurasan. There on the eastern bank of the river is the country of Khuttal, most of which is mountainous, and the country of Wakhsh. 
+
+This is bordered in the north by the Buttam Mountains, which come from the border of Khurasan, west of the Oxus, and run eastward. Finally, where they end, a large mountain range begins, behind which lies the country of Tibet and under which there flows the Wakhshab, as we have stated. 
+
+The two mountain ranges join at the gate of al-Fadl b. Yahya. 
+
+The Oxus passes between them. Other rivers flow into it, among them the river of the country of Wakhsh, which flows into it from the east, below at-Tirmidh in the north. 135a The Balkha River 136 comes from the Buttam Mountains where it starts at al-
+Juzaj an, and flows into it from the west. On the western bank of this river (Oxus) lies Amul, which belongs to Khurasan. East of this river (Oxus) are the lands of the Soghd and Usrushanah, which belong to the country of the Turks. East of them is the land of Farghanah, which extends to the eastern end of the section. 
+
+The entire country of the Turks here is crossed by the Buttam Mountains on the north.
+
+In the western part of the ninth section lies the country of Tibet, up to the middle of the section. In the south is India, and in the east, to the boundary of the section, is China. In the northernmost part of this section, north of the country of Tibet, is the country of the Kharlukh, 137 which belongs to the country of the Turks, extending to the northern boundary of the section. 
+
+Adjacent to it on the west is the land of Farghanah, 138 and on the east is the land of the Turkish Tughuzghuz, 139 extending to the northeastern end of the section.
+
+The southern part of the tenth section is entirely occupied by the remaining northernmost portion of China. In the north is the remainder of the country of the Tughuzghuz. East of them is the country of the Turkish Kirghiz, 140 extending to the
+eastern end of the section. North of the land of the Kirghiz is the country of the Turkish Kimak.141
+
+Opposite (the Kirghiz and Kimak countries), in the Surrounding Sea, lies the Hyacinth (Ruby) Island in the middle of a round mountain that completely blocks access to it. Climbing to the top of the mountain from the outside is extremely difficult. On the island, there are deadly snakes and many pebbles of hyacinth (ruby). The people of that region contrive to mine them with the help of divine inspiration.
+
+The regions in the ninth and tenth sections extending beyond Khurasan and Khuttal are desert plains where innumerable Turkish nations roam. They are wandering nomads who have camels, sheep, cattle, and horses for breeding, riding, and eating. There are very many, (indeed) innumerable groups. There are Muslims among them in the area adjacent to the Oxus. They make raids on the unbelievers among them, who follow the Magian 142 religion. They sell their captives to their near (neighbors), who export them to Khurasan, India, and the Iraq.
