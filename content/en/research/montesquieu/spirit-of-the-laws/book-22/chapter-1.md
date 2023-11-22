@@ -65,6 +65,7 @@ The state is in a prosperous condition when:
 
 That is, when they have such a relative value, that we may have the one as soon as we have the other.
 This never happens in any other than a moderate government, nor does it always happen there.
+
 For example, if the laws favour the dishonest debtor, his effects are no longer a representative or sign of money.
 With regard to a despotic government, it would be a prodigy, did things there represent their sign.
 Tyranny and distrust make every one bury their money.

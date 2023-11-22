@@ -52,7 +52,7 @@ Therefore, he wanted more of the *arrangement* of things which promotes the conv
 - gives it propriety and beauty.
 
 
-{{< s v="5" >}} In the same way, a watch that falls behind two minutes per day is despised by a watch-lover. He sells it for two guineas and buys another at 50 which will not lose more than a minute in a fortnight.
+{{< s v="5" >}} In the same way, a watch that falls behind 2 minutes per day is despised by a watch-lover. He sells it for 2 guineas and buys another at 50 which will not lose more than 1 minute in a fortnight.
 
 However, the sole use of watches is to tell us the time to prevent us from breaking any engagement.
 <!-- or
@@ -70,14 +70,14 @@ Toy lovers are pleased with the aptness of toys to promote utility, and not the 
 
 {{< s v="7" >}} This is not limited to frivolous objects. It also manifests as <!-- even affects  is often the secret motive of --> the most serious and important pursuits of life.
 
+
 {{< s v="8" >}} The poor man's ambitous son<!-- , whom heaven's anger has imbued with ambition, --> admires the condition of the rich.
-- He finds his father's cottage to be too small.
-  - He fancies that he should live with more ease in a palace.
-- He is displeased by walking on foot or by riding on horseback.
-  - He sees his superiors carried about in machines.
-  - He imagines that he could travel with less inconvenience like them.
-- He feels naturally indolent.
-  - He thinks that having many servants would save him from a lot of trouble.
+
+He finds that his father's cottage is too small. He wants to live with more ease in a palace.
+
+He is displeased by walking on foot or by riding on horseback. He sees his superiors carried around in machines. He imagines that he could travel with less inconvenience like them.
+
+He feels naturally indolent. He thinks that having many servants would save him from a lot of trouble.
 
 He thinks that if he had attained all these, he would be contented and happy. He is enchanted with this distant happiness.
 

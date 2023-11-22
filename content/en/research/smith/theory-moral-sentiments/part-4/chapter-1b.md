@@ -97,6 +97,8 @@ The study of politics best promotes public spirit. It is the study of:
 - the constitution, situation, commerce, defence, and the interest of our own country with regard to foreign nations, and
 - how to remove its disadvantages and guard against its dangers.
 
-Upon this account, political essays which are just, reasonable, and realistic, are the most useful of all the works of speculation. Even the weakest and the worst of them are useful. They serve to:
+Upon this account, political essays which are just, reasonable, and realistic, are the most useful of all the works of speculation. Even the weakest and the worst of them are useful. 
+
+They serve to:
 - animate the public passions of men, and
 - rouse them to seek ways to promote the society's happiness.

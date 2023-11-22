@@ -11,36 +11,52 @@ icon: /avatars/smith.png
 ---
 
 
-{{< s v="12" >}} The following can promote or disturb individual and societal happiness= 
+{{< s v="12" >}} The following can affect the happiness of a person and society
 - the characters of people
 - contrivances of art
-- the institutions of government.
+- the institutions of government
 
-The prudent, equitable, active, resolute, and sober character promises prosperity and satisfaction to:
+A good person promises prosperity and satisfaction to himself and others connected with him.
+- His goodness is like the beauty of a machine designed for happiness. 
+
+A bad person brings ruin to himself and others connected with him.
+
+<!-- The prudent, equitable, active, resolute, and sober character :
 - the person himself, and
-- everyone connected with him.
+- everyone connected with him. -->
 
-This has all the beauty as the most perfect machine invented for that purpose.
 
-On the contrary, the rash, insolent, slothful, effeminate, and voluptuous brings= 
+
+<!-- This has all the beauty as the most perfect machine invented for that purpose. -->
+
+<!-- On the contrary, the rash, insolent, slothful, effeminate, and voluptuous brings:
 - ruin to the individual, and
-- misfortune to all who have anything to do with him.
+- misfortune to all who have anything to do with him. -->
 
 <!-- This has all the deformity of the most awkward and clumsy contrivance. -->
 
-What institution of government could promote mankind's happiness as the prevalence of wisdom and virtue?
+<!-- What institution of government could promote mankind's happiness as the prevalence of wisdom and virtue?
 
-Government is just an imperfect remedy for the deficiency of these. Therefore, the beauty of government from its utility must belong more to wisdom and virtue. 
+Government is just an imperfect remedy for the deficiency of these.
 
-On the contrary, vices are the most ruinous and destructive civil policy. Governments are fatal if they cannot guard against the mischiefs from human wickedness.
+Therefore, the beauty of government from its utility must belong more to wisdom and virtue. 
+
+On the contrary, vices are the most ruinous and destructive civil policy. -->
 
 
-{{< s v="13" >}} This beauty of characters from their usefulness strikes those who philosophically consider mankind's conduct.
+Therefore, the beauty of government from its utility is from wisdom and virtue. 
+- Governments are failures if they cannot guard against human wickedness.
+
+
+{{< s v="13" >}} We only see the morality of actions when we see how others react to them.
+
+<!-- This beauty of characters from their usefulness strikes those who philosophically consider mankind's conduct.
 
 When a philosopher examines why humanity is approved of, or why cruelty is condemned, he does not always clearly conceive any action of cruelty or humanity.
-- He is commonly contented with the vague and indeterminate idea suggested to him by those qualities.
+- He is commonly contented with the vague and indeterminate idea suggested to him by those qualities. -->
 
-But the morality of actions is obvious and discernible only in particular instances which allow us to distinctly perceive= 
+
+<!--   obvious and discernible only in particular instances which allow us to distinctly perceive= 
 - the concord or disagreement between our own affections and those of the agent, or
 - either a social gratitude or a sympathetic resentment towards him.
 
@@ -50,18 +66,27 @@ When we consider virtue and vice in an abstract and general manner=
 
 On the contrary, the happy effects of virtue and the fatal consequences of vice seem then to= 
 - rise up to the view, and
-- distinguish themselves from all the other qualities of either.
+- distinguish themselves from all the other qualities of either. -->
 
 
-{{< s v="14" >}} David Hume has been so struck with this view of things. He resolves our whole approbation of virtue into a perception of this kind of beauty from utility. He observes that:
+{{< s v="14" >}} David Hume has been so struck with this view of things. 
+
+To him, a person who is:
+- useful to others is a virtue 
+- not useful is a vice
+
+<!-- He resolves our whole approbation of virtue into a perception of this kind of beauty from utility. 
+
+He observes that:
 - only the qualities of the mind which are useful or agreeable to the person himself or to others, are approved of as virtuous.
-- only the qualities which are not useful or agreeable are are disapproved of as vicious
+- only the qualities which are not useful or agreeable are are disapproved of as vicious  sentiments of approbation and disapprobation -->
 
-Nature seems to have so happily adjusted our sentiments of approbation and disapprobation to the convenience of the individual and the society.
+Nature has adjusted our feelings of actions based on the convenience of the individual and the society.
 
-After the strictest examination, I believe that this is universally the case.
+<!-- After the strictest examination, I believe that this is universally the case. -->
 
-But still I affirm, that it is not the view of this utility which is the principal source of our approbation.
+But it is not this utility which is the principal source of our approbation.
+
 These feelings are no doubt enlivened by the beauty from this utility.
 
 But they are still originally and essentially different from this perception.
