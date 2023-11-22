@@ -11,7 +11,7 @@ image: /covers/mecha.jpg
 
 <!-- EULER'S MECHANICA VOL. 1. -->
 
-### DEFINITION 1
+### Definition 1: Motion
 
 1. Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place. 
 
@@ -28,7 +28,7 @@ Corollary 2.
 All bodies are either moving or at rest.
 
 
-DEFINITION 2.
+### Definition  2: Place
 
 4. The place is a part of the immense or boundless space which constitutes the whole world.
 
@@ -95,7 +95,7 @@ Bodies are in a state of:
 - motion if they are passing from one part of space to another
 
 
-DEFINITION 3.
+## Definition 3: Relative Motion
 
 9. Relative motion is the change in the position of a body that it is agreeable to assume within a space.
 
@@ -109,7 +109,7 @@ Those bodies are at rest if they maintain their own unchanging places on [relati
 
 In a similar way, bodies remain relatively at rest on the same place on the ship, even if they are relatively moving as the ship changes its position.*
 
-{{< n nn="This is exactly Descartes' explanation of relative motion in Principie Philosophia" >}}
+{{< n n="This is exactly Descartes' explanation of relative motion in Principie Philosophia" >}}
 
 <!-- that change their position on the ship. -->
 

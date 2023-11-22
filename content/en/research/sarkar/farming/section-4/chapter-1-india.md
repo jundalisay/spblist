@@ -76,9 +76,19 @@ The factories established by the British severely affected indigenous industries
 
 Consequently, people gave up their traditional occupations and crowded the agricultural sector for a livelihood.
 
-This problem was compounded by growth in the population, which led to the subdivision and fragmentation of agricultural land. This in turn resulted in decreased production. Food was imported from outside India to feed the population. During the Second World War the importation of food was stopped, causing a severe shortage of food in the country.
+This problem was compounded by growth in the population, which led to **the subdivision and fragmentation of agricultural land**. 
+- This in turn resulted in decreased production. 
 
-To overcome the great famine that struck Bengal in 1943, the Wavell administration introduced a rationing system. Wavell also tried to alleviate the famine by restricting the movement of food from one province to another. But these measures did not solve the problem – rather most people became trapped in the food rationing system.
+Food was imported from outside India to feed the population.
+
+During the Second World War the importation of food was stopped, causing a severe shortage of food in the country.
+
+To overcome the great famine that struck Bengal in 1943, the Wavell administration introduced a rationing system. 
+
+Wavell also tried to alleviate the famine by restricting the movement of food from one province to another. 
+
+But these measures did not solve the problem – rather most people became trapped in the food rationing system.
+
 
 
 ## Post-Independence India
@@ -119,7 +129,7 @@ Recently, a particular group of politicians raised the slogan of “agricultural
 
 However, there are vast differences between the agricultural problems confronted by India and those confronted by China. The problems of India can never be solved by following the policies of China.
 
-China's problem is its huge population which cannot be fed despite considerable agricultural progress. 
+**China's problem is its huge population which cannot be fed despite considerable agricultural progress.** 
 - It does not even have enough land to accommodate its huge population which is continually increasing. 
 
 In the industrial sphere, China has already exhausted most of its natural resources. 
@@ -145,9 +155,17 @@ There is ample scope for agricultural development and industrial revolution in I
 
 India suffers economic hardships today because its economic potential has not been properly harnessed.
 
-There are two fundamental economic issues in India. First, the agricultural potentiality of the country must be developed by reducing the percentage of the population working in agriculture. Secondly, the excessively high percentage of the population dependent on agriculture must be reduced by developing industries.
+There are 2 fundamental economic issues in India.
 
-Infusing in people the sentiment of grabbing land from other countries will not solve India’s agricultural problems. The only solution is to increase productivity within the country. 
+1. The agricultural potentiality of the country must be developed by reducing the percentage of the population working in agriculture.
+
+2. The excessively high percentage of the population dependent on agriculture must be reduced by developing industries.
+
+Infusing in people the sentiment of grabbing land from other countries will not solve India’s agricultural problems. 
+
+**The only solution is to increase productivity within the country.** 
+
+{{< n n="In other words, China needed to industrialize, while India needed to agriculturize. Both needed to reduce the emplyoment in agriculture" >}}
 
 Those who raised the slogan, “China’s agrarian revolution shows the way for India” are labouring under the illusion of defective thinking.
 

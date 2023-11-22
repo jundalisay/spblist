@@ -1,11 +1,13 @@
 ---
 heading: Lecture 1
 title: ARITHMETIC AND LOGARITHMS
-description: 
+description: Arithmetic is divided into 2 parts
 image: "/covers/math.jpg"
-# date: 2022-06-25
+date: 2022-06-25
 weight: 120
+draft: true
 ---
+
 
 
 Arithmetic is divided into 2 parts.

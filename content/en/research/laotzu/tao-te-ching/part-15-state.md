@@ -53,6 +53,7 @@ Who knows what either will come to in the end?
 {{< s v="2">}} Shall we then dispense with correction? 
 
 The method of correction shall by a turn become distortion. The good in it shall by a turn become evil. 
+
 The delusion of the people on this point has indeed subsisted for a long time.
 
 

@@ -1,7 +1,7 @@
 ---
 heading: Enlightened
 title: "Maupertuis"
-weight: 135
+weight: 136
 date: 2025-03-16
 description: "Maupertuis invented Action (state-change) and the Principle of Least Action"
 image: "/covers/mau.jpg"

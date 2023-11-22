@@ -9,7 +9,7 @@ image: /covers/mecha.jpg
 ---
 
 
-DEFINITION 10.
+## Definition 10: Forcec
 
 99. **A force is an action on a free body that either:**
 **- leads to the motion of the body at rest, or
@@ -19,7 +19,7 @@ The force of gravity is a force of this kind.
 
 Through gravity, bodies fall freely downwards, and the descending motion is one of continuous acceleration.
 
-Corollary
+### Corollary
 
 100. Any body left to itself will continue in a state of rest or of uniform motion in a fixed direction.
 
@@ -27,7 +27,7 @@ Therefore to what extent it occurs that a free body at rest begins to move, or t
 
 <!-- [It is almost impossible to give succinctly this definition the exact meaning that I think Euler had in mind, in modern terms, as two different terms are applied to distinguish aspects of forces acting on a mass: at the time of writing the term vis (which means force or strength of a force and is a general expression for a force or action, or even an acceleration expressed as the force per unit mass) was applied to the innate or inertial force, the familiar mass × acceleration, or what we might now simply term the resultant of the external forces; and the mass in turn had some external forces applied to it, called by the term potentia, (which also means force, but these are usually given by Euler by a formula of some kind). Thus, we might say that the sum of the external forces is to be measured by the size of the inertial force produced on the body itself.] -->
 
-Scholium 1.
+### Scholium 1.
 
 101. Concerning the principles of external forces, in as far as many external forces are applied to a body in equilibrium and they keep the body at rest, that has now been explained in Statics. 
 
@@ -61,7 +61,7 @@ What is the effect of any forces on bodies?
 <!-- [Thus, Euler intends to talk only about gravitational forces, for which experimental laws exist, until the other forces of nature have been more fully investigated. Daniel Bernoulli had a lot of influence on Euler's thoughts about mechanics at this time, as Euler actually stayed with him, and both worked at the St. Petersburg Academy; both published papers on the topics considered in this chapter at the time in the early volumes of the St. Petersburg Commentarii.] -->
 
 
-DEFINITION 11.
+## Definition 11. Direction
 
 103. The direction of the force is the straight line along which the body is trying to move.
 

@@ -5,7 +5,7 @@ image: "/covers/treasure.jpg"
 heading: Unenlightened
 description: "Thomas Mun, a British merchant, is the father of Mercantilism which mutated into Neo-classical Economics after the Marginal Revolution"
 # date: 2020-10-31
-weight: 142
+weight: 141
 # date: 2022-05-30
 ---
 

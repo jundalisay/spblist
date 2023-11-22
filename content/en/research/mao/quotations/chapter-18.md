@@ -26,7 +26,11 @@ The victory of China and the defeat of the invading imperialists will help the p
 <cite>"The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 196.*</cite>
 
 
-What kind of spirit is this that makes a foreigner selflessly adopt the cause of the Chinese people's liberation as his own? It is the spirit of internationalism, the spirit of communism, from which every Chinese Communist must learn… We must unite with the proletariat of all the capitalist countries, with the proletariat of Japan, Britain, the United States, Germany, Italy and all other capitalist countries, before it is possible to overthrow imperialism, to liberate our nation and people, and to liberate the other nations and peoples ofthe world. This is our internationalism, the internationalism with which we oppose both narrow nationalism and narrow patriotism.
+What kind of spirit is this that makes a foreigner selflessly adopt the cause of the Chinese people's liberation as his own? 
+
+It is the spirit of internationalism, the spirit of communism, from which every Chinese Communist must learn… 
+
+We must unite with the proletariat of all the capitalist countries, with the proletariat of Japan, Britain, the United States, Germany, Italy and all other capitalist countries, before it is possible to overthrow imperialism, to liberate our nation and people, and to liberate the other nations and peoples ofthe world. This is our internationalism, the internationalism with which we oppose both narrow nationalism and narrow patriotism.
 
 <cite>"In Memory of Norman Bethune" (December 21, 1939), Selected Works, Vol. II, p. 337.*</cite>
 

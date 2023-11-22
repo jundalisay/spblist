@@ -12,14 +12,14 @@ contributors: ['Lao Tzu']
 
 ## Chapter 75: Economic Policy
 
-{{< s v="1">}} The people suffer from famine because of the multitude of taxes consumed by their superiors.
+	{{< s v="1">}} The people suffer from famine because of the multitude of taxes consumed by their superiors.
 
 
-{{< s v="2">}} The people are difficult to govern because of the excessive agency of their superiors in governing them. 
+	{{< s v="2">}} The people are difficult to govern because of the excessive agency of their superiors in governing them. 
 
 
-{{< s v="3">}} The people make light of dying because of the greatness of their labours in seeking for the means of living. 
-It is this which makes them think light of dying. Thus, it is that to leave the subject of living altogether out of view is better than to set a high value on it.
+	{{< s v="3">}} The people make light of dying because of the greatness of their labours in seeking for the means of living. 
+	It is this which makes them think light of dying. Thus, it is that to leave the subject of living altogether out of view is better than to set a high value on it.
 
 
 

@@ -10,7 +10,7 @@ image: /covers/mecha.jpg
 
 
 
-Definition 12: Absolute Force
+## Definition 12: Absolute Force
 
 111. The absolute force is the force that acts equally on a body either at rest or moving.
 
@@ -22,7 +22,7 @@ Corollary.
 112. If therefore the absolute effect of a force acting on a body at rest is known, then the effect of the force on the body is also known for any kind of motion.
 
 
-Definition 13: Relative Force
+## Definition 13: Relative Force
 
 113. A force is relative, which acts in one way on a body at rest, in another on a body in motion. 
 

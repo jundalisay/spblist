@@ -1,9 +1,9 @@
 ---
-title: "Ireland and America"
+title: "Excessive Speculation Leading to Payment Problems"
 heading: "Chapter 3k"
-weight: 26
+weight: 24
 image: "/covers/wn.jpg"
-description: "Ireland and America should help reduce Great Britain's public debt"
+description: "The difficulty of getting payment from our sugar colonies is due to the planters' temptation in overtrading"
 icon: "/avatars/smith.png"
 writer:
   name: Adam Smith
@@ -11,128 +11,53 @@ writer:
 ---
 
 
-{{< s v="88" >}} Ireland and America should pay to help reduce Great Britain's public debt.
-- That debt was to support the government established by the Revolution.
-- The Protestants of Ireland owe their liberty, property, and religion to that government.
-- Several American colonies owe to that government their present charters and consequently their present constitution.
-  - All American colonies owe their liberty, security, and property to that constitution.
+{{< s v="86" >}} The difficulty and irregularity of payment from the colonies to Great Britain have not been proportional to the balances due from them.
 
-That public debt was incurred to defend Great Britain and all the empire's provinces.
+Generally, payments were more regular from the northern colonies than from the tobacco colonies.
+- The northern colonies have generally paid a pretty large balance in money.
+- The tobacco colonies have paid no balance or a much smaller one.
 
-America's defence created:
-- the immense debt from the recent American Revolutionary War
-- most of the debt from the Seven Years' War.
+The difficulty of getting payment from our sugar colonies is due to:
+- <!-- has been proportional more to --> their uncultivated land, and not so much to the huge balances due<!--  from them -->.
+- the planters' temptation in overtrading, or of settling and planting in more waste land than what their capitals can afford.
 
+The big island of Jamaica still has much uncultivated land.
+- The smaller islands of Barbados, Antigua, and Saint Kitts have been completely cultivated.
 
+In general, the returns from Jamaica have been more irregular and uncertain than those from those smaller islands.
+- **Those small islands have afforded less field for the planter's speculations.**
 
-{{< s v="89" >}} By a union with Great Britain, Ireland would gain the freedom of trade and other much more important advantages.
-- These advantages would much more than compensate any tax increases that might accompany that union.
-
-By the union with England, the Scottish middle and lower classes were completely freed from the power of an aristocracy which always oppressed them.
-
-By a union with Great Britain, most Irish would gain an equally complete freedom from a much more oppressive aristocracy.
-- Unlike Scotland's aristocracy, Irish aristocracy is not founded in the natural and respectable distinctions of birth and fortune.
-- It is founded on religious and political prejudices, the most odious of all distinctions. These prejudices= 
-  - animate most the oppressors' insolence and the hatred of the oppressed
-  - commonly render its own people more hostile to one another than to foreigners.
-    
-Without a union with Great Britain, the Irish will not likely consider themselves as one people for many ages.
+The new acquisitions of Grenada, Tobago, St. Vincents, and Dominica have opened a new field for such speculations.
+- The returns from those islands have been recently as irregular and uncertain as those from Jamaica.
 
 
-{{< s v="90" >}} No oppressive aristocracy has ever prevailed in the colonies.
+{{< s v="87" >}} It is not the poverty of the colonies which creates the present scarcity of gold and silver money.
 
-Even they would gain considerably by a union with Great Britain.
-It would at least deliver them from those rancorous and virulent factions which are inseparable from small democracies.
+Their great demand for active and productive stock:
+- makes it convenient for them to have as little dead stock as possible
+- disposes them to be content with a cheaper but less commodious instrument of commerce than gold and silver
 
-Those factions have so frequently divided their people and disturbed the peace of their democratic governments.
+They are thereby enabled to convert the value of that gold and silver into:
+- the instruments of trade,
+- clothing materials,
+- household furniture,
+- ironworks for building and extending their settlements and plantations.
 
-If they were totally separated from Great Britain, those factions would be 10 times more virulent than ever.
+In businesses which can only be transacted with gold and silver money, they can always find the needed quantity of those metals.
+- If they do not find it, **their failure is generally the effect of their unnecessary and excessive enterprise**, not of their necessary poverty.
+- It is not because they are poor that their payments are irregular and uncertain, **but because they are too eager to become excessively rich**.
 
-Before the start of the present disturbances, Great Britain's coercive power was always able to restrain those factions.
-- If that coercive power were entirely taken away, they would probably soon break out into open violence and bloodshed.
+If all the proceeds of the colony taxes, exceeding what was needed to pay their own civil and military establishments, were remitted to Great Britain in gold and silver, the colonies would have all the means to buy those needed metals.
 
-**In all great countries united under one uniform government, the spirit of party commonly prevails less in the remote provinces than in the centre of the empire.**
+In this case, they would be obliged to buy dead stock with their surplus produce instead of active and productive stock.
 
-The capital is the principal seat of the great scramble of faction and ambition. The distance of those provinces from the capital renders them:
-- more indifferent to the contending parties, and
-- impartial spectators of the conduct of all.
+In transacting their domestic business, they would be obliged to employ a more costly instrument of commerce.
+- The expence of buying this costly instrument might dampen the vivacity and ardour of their excessive enterprise in land improvement.
 
-The spirit of party prevails less in Scotland than in England.
-- In the case of a union, it would probably prevail less in Ireland than in Scotland.
+It might be unnecessary to remit any part of the American revenue in gold and silver.
 
-The colonies would probably enjoy a degree of concord and unanimity unknown in the British empire.
+It might be remitted in bills drawn on and accepted by particular merchants or companies in Great Britain to whom some of America's surplus produce was consigned.
 
-Both Ireland and the colonies would be subjected to heavier taxes.
-- More of those taxes might not last long if the public revenue would be diligently and faithfully applied towards discharging the national debt.
+Those merchants and companies would pay into the treasury the American revenue in money after receiving the value of those goods.
 
-Great Britain's public revenue might be reduced to what was necessary for maintaining peace.
-
-
-
-{{< s v="91" >}} The East India Company's territorial acquisitions is the right of the British people.
-
-It might be a source of revenue more abundant than all those mentioned.
-
-Those countries are more fertile and extensive.
-- They are much richer and more populous than Great Britain, relative to their size.
-- It would probably be unnecessary to impose a new tax system to draw a great revenue from them, as those countries are already sufficiently taxed.
-  - It might be more proper to lighten the burden of those unfortunate countries by preventing the embezzlement and misapplication of their taxes.
-
-
-{{< s v="92" >}} If it is impractical for Great Britain to increase its revenue from the resources mentioned, her only remaining resource is to reduce her expence.
-
-Great Britain is at least as economical as her neighbours in collecting and spending the public revenue.
-- There is still room for improvement for both collecting and spending.
-
-Her military is more moderate than any European state of equal status.
-- Its expences does not seem to be considerably reducible 
-
-<!-- None of those articles seem to admit of any  reduction of expence. -->
-
-Before the present disturbances, the peace-keeping costs in the colonies was very big.
-- It should be all saved if no revenue can be drawn from the colonies.
-- This constant expence in peacetime was very great, but is insignificant compared to wartime.
-
-
-The Spanish War of Jenkins' Ear of 1739 was principally undertaken for the colonies.
-- It cost Great Britain more than £40 million and led to the Seven Years' War.
-
-The Seven Years' War was undertaken for the colonies.
-- It cost Great Britain more than £90 million.
-
-Most of it should be charged to the colonies.
-
-The cost of those 2 wars was much more than double the national debt before 1739.
-- Without those wars, Great Britain's debt might have been completely paid by this time.
-- Had it not been for the colonies, those 2 wars certainly would not have been undertaken.
-- They were undertaken because the colonies were supposed to be provinces of the British empire.
-
-"But countries which contribute neither revenue nor military force towards the support of the empire cannot be considered as provinces."
-- They may be considered as appendages, as showy equipage of the empire.
-
-But if the empire can no longer keep up this equipage, it should be laid down.
-- If it cannot raise its revenue in proportion to its expence, it should at least match its expence to its revenue.
-
-The colonies refuse to submit to British taxes.
-
-If they are still to be considered as British provinces, their defence in a future war might cost Great Britain a very big expence.
-
-For more than a century, Great Britain's rulers have amused the people with the imagination that they had a great empire in North America.
-
-This empire has existed in imagination only.
-It has been the project of an empire and not an empire.
-It was the project of a gold mine, not a gold mine.
-It was a project which has cost and will likely cost immense expence, without bringing any profit.
-- To the people, the monopoly of the colony trade was a mere loss instead of profit.
-- Our rulers and the people should realize this golden dream which they have been indulging themselves in.
-- Our rulers should awake themselves and the people from it.
-
-If the project cannot be completed, it should be given up.
-If any of the British empire's provinces cannot be made to contribute to support the whole empire, Great Britain should free herself from the cost of:
-- defending those provinces, and
-- supporting their civil or military establishments.
-
-She should make future plans according to the real mediocrity of her circumstances.
-
-
-END
+The whole business might frequently be transacted without exporting a single ounce of gold or silver from America.
