@@ -115,7 +115,7 @@ We may distinguish rest and motion, absolute and relative, one from the other by
 
 Bodies really at rest do rest in respect to one another. **Therefore it is possible that in the remote regions of outerspace  there may be some body absolutely at rest.** *
 
-> *Superphysics Note: This is the basis of Newton's idea for a center of the universe
+{{< n n="This is the basis of Newton's idea for a center of the universe" >}}
 
 
 But this is impossible to know, from the position of bodies to one another in our regions, whether any of these do keep the same position to that remote body. It follows that absolute rest cannot be determined from the position of bodies in our regions. 

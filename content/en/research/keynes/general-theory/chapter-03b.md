@@ -74,13 +74,16 @@ Hence, if there is no change in the propensity to consume, employment cannot inc
 
 The classical theory thinks <!-- has special assumptions --> that there is some force* which, when employment increases, always causes the Disposable Income for Investments <!-- `D2` [investment] --> to increase enough to fill the widening gap between `Price Level` <!-- `Aggregate Supply Price` --> <!-- `Z` --> and `Disposable Income for Consumption` <!-- `D1` -->. 
 
-> *Superphysics Note: This is the absolute demand from Adam Smith, which is not present in Ricardo nor any other economist. This absolute demand is killed by profit maximization embodied in the `Disposable Income for Investement`<!-- `D2` -->. Economic Superphysics aims to counteract profit maximization through barter. There is no mention of barter anywhere in Keynes' General Theory
+
+
+{{< n n="This is the absolute demand from Adam Smith, which is not present in Ricardo nor any other economist. This absolute demand is killed by profit maximization embodied in the `Disposable Income for Investement`<!-- `D2` -->. Economic Superphysics aims to counteract profit maximization through barter. There is no mention of barter anywhere in Keynes' General Theory" >}}
 
 
 
 On the contrary, I believe that the economy can be in stable equilibrium with `N` [employment level] below full employment* (the intersection of the aggregate demand with aggregate supply).
 
-> *Superphysics Note: This is underemployment where people work in 2 jobs to address the rising price levels which are caused by investors squatting on investments. 
+
+{{< n n="This is underemployment where people work in 2 jobs to address the rising price levels which are caused by investors squatting on investments." >}}
 
 
 Thus, employment is not determined by slave wages <!-- the marginal disutility of labour --> measured in terms of real wages, except when the supply of labour available at a given real wage sets a maximum level to employment.
@@ -89,7 +92,8 @@ Instead, the volume of employment is determined by:
 - the propensity to consume [demand] and
 - the rate of new investment*
 
-> *Superphysics Note: Keynes adds the importance of investors when the Classical system did not give them special emphasis
+
+{{< n n="Keynes adds the importance of investors when the Classical system did not give them special emphasis" >}}
 
 
 
@@ -110,7 +114,8 @@ The shortage of effective demand often will:
 Moreover, the richer the society, the wider will be the gap* between its actual and its potential production [because the rich are not demanding more]. 
 - This will lead to more obvious and outrageous defects of the economic system. 
 
-> *Superphysics note: In Economic Superphysics, this is addressed by 2 state funds, an investment fund and a clearing fund. The investment fund is a mini sovereign wealth fund that funds investments in industries that create basic necessities. The clearing fund provides trade financing. These close the gap in effective demand and absorb idle money.
+
+{{< n n="In Economic Superphysics, this is addressed by 2 state funds, an investment fund and a clearing fund. The investment fund is a mini sovereign wealth fund that funds investments in industries that create basic necessities. The clearing fund provides trade financing. These close the gap in effective demand and absorb idle money." >}}
 
 
 A poor society will be prone to consume more of its output [have high effective demand].
@@ -118,14 +123,14 @@ A poor society will be prone to consume more of its output [have high effective 
 
 Whereas, a wealthy society will have to find better opportunities for investment* if the saving propensities of its wealthier members are to be compatible with the employment of its poorer members. 
 
-> *Superphysics note: This is because profit and rent maximization is more acute in a wealthy society
+{{< n n="This is because profit and rent maximization is more acute in a wealthy society" >}}
 
 
 If the inducement to invest is weak in a potentially wealthy society, then <!-- , in spite of its potential wealth, the working of the principle of --> the effective demand will be lower. 
 - This will compel it to reduce its actual output until <!-- in spite of its potential wealth, --> it becomes so poor that its surplus over its consumption is reduced to match the weak inducement to invest*.
 
 
-> *Superphysics Note: This weakness is caused by the doctrine of profit maximization
+{{< n n="This weakness is caused by the doctrine of profit maximization" >}}
 
 
 The marginal propensity to consume[6] will be weaker in a wealthy community. 
@@ -135,7 +140,7 @@ The opportunities for further investment are less attractive unless the interest
 - This brings us to my theory of interest rates. 
 - It explains why interest rates do not automatically fall to the appropriate level. Book 4 will discuss this. 
 
-> *Superphysics Note: In Classical Economics, falling interest rates mean that profit rates are also falling. Keynes wrongly assumes that artificially low interest rates will drive investments. He fails to realize that investment has been corrupted by profit maximization which renders his solution impotent. The focus is only for Marginal Effciency of Capital 
+{{< n n="In Classical Economics, falling interest rates mean that profit rates are also falling. Keynes wrongly assumes that artificially low interest rates will drive investments. He fails to realize that investment has been corrupted by profit maximization which renders his solution impotent. The focus is only for Marginal Effciency of Capital" >}}
 
 
 Thus, 3 main gaps in our existing knowledge are:
@@ -144,7 +149,8 @@ Thus, 3 main gaps in our existing knowledge are:
 2. The definition of the Marginal Efficiency of Capital
 3. The theory of the Rate of Interest*
 
-> *Superphysics note: This is really the fallacy promoted by Keynesian doctrine
+
+{{< n n="This is really the fallacy promoted by Keynesian doctrine" >}}
 
 
 The Theory of Prices is subsidiary to our general theory. Money plays an essential part in our theory of the Rate of Interest.

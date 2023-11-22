@@ -56,7 +56,7 @@ Examples are taxes on salt, beer, malt, etc., levied by the officers of custom a
 - They can pay only to those appointed by parliament.
 - They must have the discharge of the public creditor.
 
-> *Superphysics note: In Economic Superphysics, the exchequer makes up the fourth branch of of government
+{{< n n="In Economic Superphysics, the exchequer makes up the fourth branch of of government" >}}
 
 
 The surplus of the mortgages goes into the 'sinking fund' for paying the public debt. This secures the government in the present family. If a revolution were to happen, the public creditors, who are men of interest, would lose both principal and interest.

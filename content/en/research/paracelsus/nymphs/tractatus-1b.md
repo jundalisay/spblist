@@ -11,8 +11,6 @@ writer:
 ---
 
 
-
-
 <!-- SPIRITUS QUID ET ANIMA; ITEM SPIRITUS HORUM CARO EST ET CARO SPIRITUS; EXEMPLUM RESURRECTIONIS. -->
 
 There are 2 kinds of flesh:
@@ -29,15 +27,14 @@ The flesh from Adam is the man from Adam. He is coarse like the earth which is c
 
 But walls recede before the flesh that is not from Adam. It means that such flesh does not require doors nor holes. It goes through intact walls and does not break anything*.
 
-> *Superphysics note: We put this material as the aether which allows neutrinos to go through walls. In our 5 Layer model, neutrinos are from the Convertible Layer which is the Water ELement in alchemy. Nymphs are the most common Elemental and reside in the Water Element. This is why we will often use neutrinos to explain their dynamics.
+{{< n n="We put this material as the aether which allows neutrinos to go through walls. In our 5 Layer model, neutrinos are from the Convertible Layer which is the Water ELement in alchemy. Nymphs are the most common Elemental and reside in the Water Element. This is why we will often use neutrinos to explain their dynamics." >}}
 
 
 They are both flesh, blood, bone and so on, whatever belongs to a man, and in their whole nature they are like man's. But they are different in that they have a double origin like 2 cousins. 
 
 They are in equal way like a spirit and like man*.
 
-> *Superphysics note: Neutrinos can interact with matter through liquid argon and so switch from 'spirit' to 'man'.
-
+{{< n n="Neutrinos can interact with matter through liquid argon and so switch from 'spirit' to 'man'." >}}
 
 
 The spirit goes through all walls. Nothing locks him out.
@@ -118,4 +115,6 @@ Their flesh rots like other flesh and their bones like other men's bones and not
 
 The same applies to their figures: they are very differ- ent, like men. In food they are like men, eat and enjoy the product of their labor, spin and weave their own clothing. They know how to make use of things, have wisdom to govern, justice to preserve and protect. For although they are beasts, they have all the reason of man, except the soul. Therefore, they have not the judgment to serve God, to walk in his path, for they have not the soul. 
 
-The beast from inborn nature seeks a just course toward itself, and so do they, but they have the highest reason, above all other animals. Just as man, above all creatures, is closest to God on earth in intelligence and faculties, so they are, among all animals, closest to man and so close that they are called people and men and are held and taken for such, so that there is no difference except in their spirit-like way and in the lack of soul-a queer and marvellous creature, to be considered above all others.
+The beast from inborn nature seeks a just course toward itself, and so do they, but they have the highest reason, above all other animals. 
+
+Just as man, above all creatures, is closest to God on earth in intelligence and faculties, so they are, among all animals, closest to man and so close that they are called people and men and are held and taken for such, so that there is no difference except in their spirit-like way and in the lack of soul-a queer and marvellous creature, to be considered above all others.

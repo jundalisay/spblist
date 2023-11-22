@@ -179,7 +179,7 @@ own owner power acquisition of own forms in yoga -->
 4. Brahmacarya (Seeing all as the Supreme)
 5. Aparigraha (Focus on Needs, not Wants)
 
-> *Superphysics Note: These 5 are for the 5 Layers: Ahimsa is for Matter, Brahmacarya is for Convertible, Aparigraha is for Radiance, Asteya is for Spacetime, Satya is for Aether
+{{< n n="These 5 are for the 5 Layers: Ahimsa is for Matter, Brahmacarya is for Convertible, Aparigraha is for Radiance, Asteya is for Spacetime, Satya is for Aether" >}}
 
 
 <sup>31</sup> The yogi has a great vow to observe these at all levels regardless of time, place, circumstance, or position in life.

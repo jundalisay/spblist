@@ -20,7 +20,7 @@ Most philosophers have now decided to declare that:
 
 By what*? 
 
-> *Superphysics note: Our guide is the Two Forces, the Five Layers, and the Law of Social Cycles 
+{{< n n="Our guide is the Two Forces, the Five Layers, and the Law of Social Cycles " >}}
 
 
 Faith—instinct—intuition—revelation—feeling—taste—urge—wish—whim. 

@@ -50,7 +50,7 @@ When there is the sudden appearance of powerful celestial bodies or a sudden cha
 - **Movement in universal space is subject to the movement of positive and negative microvita.** *
 - This also affects life on earth.
 
-> *Superphysics Note: This is the pure aether in living form, having more of Shiva
+{{< n n="This is the pure aether in living form, having more of Shiva" >}}
 
 
 The angularity of the movement of celestial bodies also affects the minds of human beings. 

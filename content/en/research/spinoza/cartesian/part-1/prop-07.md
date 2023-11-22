@@ -53,7 +53,8 @@ Nothing is easy or difficult in an absolute sense, but only with respect to its 
 
 So one thing can be easy and difficult at the same time in respect of different causes.*
 
-> *For example, the spider easily weaves a web that men would find very difficult to weave. On the other hand, men find it quite easy to do many thmgs that are perhaps impossible for angels. 
+
+{{< f f="*For example, the spider easily weaves a web that men would find very difficult to weave. On the other hand, men find it quite easy to do many thmgs that are perhaps impossible for angels." >}}
 
 <!-- 1 36 Principles of Cartesian Philosophy -->
 
@@ -167,11 +168,11 @@ Corollary: Hence it follows that whatever involves necessary existence is a supr
 
 Lemma 2: The nature of one who has the power to preserve himself involves necessary existence.
 
-Proof: He who has the force to preserve himself has also the force to create himself (Ax. 1 0); that is (as everyone will readily admit), he needs no external cause to exist, but his own nature alone will be a sufficient cause of his existence, either possibly (Ax. 10) or necessarily. 
+Proof: Anyone who has the force to preserve himself also has the force to create himself (Ax. 1 0).
 
-But not possibly; for then (through what I have demonstrated with regard to Axiom 10) from the fact that he now existed it would not follow that he would thereafter exist (which is contrary to the hypothesis).
-
-Therefore necessarily; that is, his nature involves necessary existence. Q.E.D. 
+He needs no external cause to exist. But his own nature alone will be a sufficient cause of his existence, only necessarily, not possibly (Ax. 10). 
+- Not possibly because the fact that he exists now it would not follow that he would thereafter exist (which is contrary to the hypothesis).
+- Necessarily because his nature involves necessary existence. Q.E.D. 
 
 <!-- Part 1, Proposition 9 1 39 -->
 
@@ -179,5 +180,5 @@ Corollary: God can bring about every thing that we clearly perceive, just as we 
 
 Proof: All this follows clearly from the preceding proposition. For there God's existence was proved from the fact that there must exist someone in whom are all the perfections of which there is an idea in us. 
 
-Now there is in us the idea of a power so great that by him alone in whom it resides there can be made the sky, the earth, and all the other things that are understood by me as possible. Therefore, along with God's existence, all these things, too, are proved of him.
+There is in us the idea of a power so great that by him alone in whom it resides there can be made the sky, the earth, and all the other things that are understood by me as possible. Therefore, along with God's existence, all these things, too, are proved of him.
 

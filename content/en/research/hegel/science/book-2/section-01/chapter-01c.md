@@ -8,7 +8,7 @@ icon: /avatars/hegel.png
 image: /covers/science.png
 ---
 
-> *Superphysics Note: We replace 'being' with existence and 'instance' with time. 
+{{< n n="We replace 'being' with existence and 'instance' with time." >}} 
 
 
 <!-- Essence, Illusory Being
@@ -128,7 +128,13 @@ Determining reflection is in general the unity of positing and external reflecti
 
 § 854
 
-What is posited is consequently an other, but in such a manner that the equality of reflection with itself is completely preserved; for what is posited is only as sublated, as a relation to the returninto-self. In the sphere of being, determinate being was the being in which negation was present, and being was the immediate base and element of this negation, which consequently was itself immediate. In the sphere of essence, positedness corresponds to determinate being. It is likewise a determinate being but its base is being as essence or as pure negativity; it is a determinateness or negation, not as affirmatively present [seiend] but immediately as sublated. Determinate being is merely posited being or positedness; this is the proposition of essence about determinate being. Positedness stands opposed, on the one hand, to determinate being, and on the other, to essence, and is to be considered as the middle term which unites determinate being with essence, and conversely, essence with determinate being. Accordingly, when it is said that a determination is only a positedness, this can have a twofold meaning; it is a positedness as opposed to determinate being or as opposed to essence. In the former meaning, determinate being is taken to be superior to positedness and the latter is ascribed to external reflection, to the subjective side. But in fact positedness is the superior; for as positedness, determinate being is that which it is in itself, a negative, something that is simply and solely related to the return-into-self. It is for this reason that positedness is only a positedness with respect to essence, as the negation of the accomplished return-into-self.
+What is posited is consequently an other, but in such a manner that the equality of reflection with itself is completely preserved; for what is posited is only as sublated, as a relation to the returninto-self. In the sphere of being, determinate being was the being in which negation was present, and being was the immediate base and element of this negation, which consequently was itself immediate. In the sphere of essence, positedness corresponds to determinate being. 
+
+It is likewise a determinate being but its base is being as essence or as pure negativity; it is a determinateness or negation, not as affirmatively present [seiend] but immediately as sublated. Determinate being is merely posited being or positedness; this is the proposition of essence about determinate being. Positedness stands opposed, on the one hand, to determinate being, and on the other, to essence, and is to be considered as the middle term which unites determinate being with essence, and conversely, essence with determinate being. 
+
+Accordingly, when it is said that a determination is only a positedness, this can have a twofold meaning; it is a positedness as opposed to determinate being or as opposed to essence. In the former meaning, determinate being is taken to be superior to positedness and the latter is ascribed to external reflection, to the subjective side. 
+
+But in fact positedness is the superior; for as positedness, determinate being is that which it is in itself, a negative, something that is simply and solely related to the return-into-self. It is for this reason that positedness is only a positedness with respect to essence, as the negation of the accomplished return-into-self.
 
 § 855
 
@@ -136,21 +142,44 @@ What is posited is consequently an other, but in such a manner that the equality
 
 § 856
 
-The determination of reflection is distinct from the determinateness of being, from quality. The latter is immediate relation to other in general; positedness, too, is a relation to other, but to reflectedness-into-self. Negation as quality, is negation simply as affirmative [seiend]; being constitutes its ground and element. The determination of reflection, on the other hand, has for this ground reflectedness-into-self. Positedness fixes itself into a determination precisely because reflection is equality-with-self in its negatedness; its negatedness is consequently itself a reflection-into-self. Here the determination persists not through being but through its equality with itself. Because being, which supports quality, is not equal to the negation, quality is unequal within itself and hence a transitory moment vanishing in the other. The determination of reflection, on the other hand, is positedness as negation, negation which has negatedness as its ground; it is therefore not unequal within itself, and hence is essential, not transitory determinateness. It is the equality of reflection with itself that possesses the negative only as negative, as sublated or posited being, that enables the negative to persist.
+The determination of reflection is distinct from the determinateness of being, from quality. The latter is immediate relation to other in general; positedness, too, is a relation to other, but to reflectedness-into-self. Negation as quality, is negation simply as affirmative [seiend]; being constitutes its ground and element. The determination of reflection, on the other hand, has for this ground reflectedness-into-self. 
+
+Positedness fixes itself into a determination precisely because reflection is equality-with-self in its negatedness; its negatedness is consequently itself a reflection-into-self. Here the determination persists not through being but through its equality with itself. 
+
+Because being, which supports quality, is not equal to the negation, quality is unequal within itself and hence a transitory moment vanishing in the other. The determination of reflection, on the other hand, is positedness as negation, negation which has negatedness as its ground; it is therefore not unequal within itself, and hence is essential, not transitory determinateness. It is the equality of reflection with itself that possesses the negative only as negative, as sublated or posited being, that enables the negative to persist.
 
 § 857
 
-By virtue of this reflection-into-self the determinations of reflection appear as free essentialities floating in the void without attracting or repelling one another. In them the determinateness has established and infinitely fixed itself through the relation-to-self. It is the determinate that has brought into subjection its transitoriness and its mere positedness, or has bent back its reflection-into-other into reflection-into-self. These determinations hereby constitute determinate illusory being as it is in essence, essential illusory being. Because of this, determining reflection is reflection that has come forth from itself; the equality of essence with itself has perished in the negation, which is the dominant factor.
+By virtue of this reflection-into-self the determinations of reflection appear as free essentialities floating in the void without attracting or repelling one another. 
+
+In them the determinateness has established and infinitely fixed itself through the relation-to-self. It is the determinate that has brought into subjection its transitoriness and its mere positedness, or has bent back its reflection-into-other into reflection-into-self. 
+
+These determinations hereby constitute determinate illusory being as it is in essence, essential illusory being. Because of this, determining reflection is reflection that has come forth from itself; the equality of essence with itself has perished in the negation, which is the dominant factor.
 
 § 858
 
-In the determination of reflection, therefore, there are two sides which at first are distinguished from one another. First, the determination is positedness, negation as such; secondly, it is reflection-into-self. As positedness, it is negation as negation; this accordingly is already its unity with itself. But at first, it is this only in itself or in principle [an sich], or, it is the immediate as sublating itself in its own self, as the other of itself. To this extent, reflection is an immanent determining. In the process, essence does not go outside itself; the differences are simply posited, taken back into essence. But according to the other side, they are not posited but reflected into themselves; the negation as negation is in an equality with itself, is not reflected into its other, into its non-being.
+In the determination of reflection, therefore, there are two sides which at first are distinguished from one another. First, the determination is positedness, negation as such; secondly, it is reflection-into-self. As positedness, it is negation as negation; this accordingly is already its unity with itself. 
+
+But at first, it is this only in itself or in principle [an sich], or, it is the immediate as sublating itself in its own self, as the other of itself. To this extent, reflection is an immanent determining. 
+
+In the process, essence does not go outside itself; the differences are simply posited, taken back into essence. But according to the other side, they are not posited but reflected into themselves; the negation as negation is in an equality with itself, is not reflected into its other, into its non-being.
 
 § 859
 
-3. Now since the determination of reflection is as much a reflected relation within itself as it is positedness, this fact immediately throws more light on its nature. For as positedness, it is negation as such, a non-being over against an other, namely, over against absolute reflection-into-self, or over against essence. But as self-relation it is reflected into itself. This its reflection and the above positedness are distinct; its positedness is rather its sublatedness; but its reflectedness-into-self is its subsistence. In so far, therefore, as it is the positedness that is at the same time reflection-into-self, the determinateness of reflection is the relation to its otherness within itself. It is not an affirmative [seiende], quiescent determinateness, which would be related to an other in such a way that the related term and its relation are distinct from each other, the former a being-within-self, a something that excludes its other and its relation to this other from itself; on the contrary, the determination of reflection is in its own self the determinate side and the relation of this determinate side as determinate, that is, to its negation. Quality, through its relation, passes over into an other; in its relation its alteration begins. The determination of reflection, on the other hand, has taken its otherness back into itself. It is positedness, negation, which however bends back into itself the relation to other, and negation which is equal to itself, the unity of itself and its other, and only through this is an essentiality. It is, therefore, positedness, negation; but as reflection-into-self it is at the same time the sublatedness of this positedness, infinite self-relation.
+3. The determination of reflection is as much a reflected relation within itself as it is positedness.
 
-The Essentialities or Determinations of Reflection - next section
+This immediately throws more light on its nature. 
 
+Positedness is negation, a non-being over against an other. It is a non-being over against absolute reflection-into-self, or over against essence. 
 
+But as self-relation, it is reflected into itself.
 
+This its reflection and the above positedness are distinct. Its positedness is rather its sublatedness.
+
+But its reflectedness-into-self is its subsistence. In so far, therefore, as it is the positedness that is at the same time reflection-into-self, the determinateness of reflection is the relation to its otherness within itself. 
+
+It is not an affirmative [seiende], quiescent determinateness, which would be related to an other in such a way that the related term and its relation are distinct from each other, the former a being-within-self, a something that excludes its other and its relation to this other from itself; on the contrary, the determination of reflection is in its own self the determinate side and the relation of this determinate side as determinate, that is, to its negation. Quality, through its relation, passes over into an other; 
+
+In its relation its alteration begins. The determination of reflection, on the other hand, has taken its otherness back into itself. 
+
+It is positedness, negation, which however bends back into itself the relation to other, and negation which is equal to itself, the unity of itself and its other, and only through this is an essentiality. It is, therefore, positedness, negation; but as reflection-into-self it is at the same time the sublatedness of this positedness, infinite self-relation.

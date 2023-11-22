@@ -97,17 +97,21 @@ Mr. Kuznets has arrived at much the same conclusion in compiling the statistics 
 
 The physical fact, to which the statistics of output correspond, is inevitably the gross, and not the net, investment. Mr. Kuznets has also discovered the difficulties in passing from gross investment to net investment. “The difficulty”, he writes, “of passing from gross to net capital formation, that is, the difficulty of correcting for the consumption of existing durable commodities, is not only in the lack of data. The very concept of annual consumption of commodities that last over a number of years suffers from ambiguity”*.
 
-> *These references are taken from a Bulletin (No. 52) of the National Bureau of Economic Research, giving preliminary results of Mr. Kuznets’ forthcoming book
+
+{{< f f="*These references are taken from a Bulletin (No. 52) of the National Bureau of Economic Research, giving preliminary results of Mr. Kuznets’ forthcoming book" >}}
+
 
 
 He falls back, therefore, “on the assumption that the allowance for depreciation and depletion on the books of business firms describes correctly the volume of consumption of already existing’ finished durable goods used by business firms”. On the other hand, he attempts no deduction at all in respect of houses and other durable commodities in the hands of individuals. His very interesting results for the United States can be summarised as follows= 
 
 (Millions of Dollars) 1925 1926 1927 1928 1929 
+
 Gross capital formation (after allowing for net change in business inventories) 30,706 33,571 31,157 33,934 34,491 
 Entrepreneurs’ servicing, repairs, maintenance, depreciation and depletion 7,685 8,288 8,223 8,481 9,010 
 Net capital formation (on Mr. Kuznets'definition) 23,021 25,293 22,934 25,453 25,481 
 
 (Millions of Dollars) 1930 1931 1932 1933 
+
 Gross capital formation (after allowing for net change in business inventories) 27,538 19,721 7,780 14,879 
 Entrepreneurs’ servicing, repairs, maintenance, depreciation and depletion 8,502 7,623 6,543 8,204 
 Net capital formation (on Mr. Kuznets’ definition) 19,036 11,098 1,237 6,675 

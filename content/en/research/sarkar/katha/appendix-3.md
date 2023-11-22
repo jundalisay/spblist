@@ -30,7 +30,7 @@ The bone of contention is: Does Taraka Brahma have a previous life? How can Shri
 
 Taraka Brahma has no previous life as he is unborn or self-born. What about Shri Ram Chandra Upadhyaya episode then? Is it untenable?*
 
-> *Superphysics Note: This is solved easily by saying that Anandamurti is Taraka Brahma, not needing a previous life. It is PR Sarkar, the mortal vehicle chosen by Anandamurti, that needs a previous life. Baba therefore should refer to Anandamurti and not PR Sarkar. This is consistent with Jesus being the vehicle of God, and Mohammad being the vehicle of Allah. This is why Anandamurti can manifest at will to his devotees.
+{{< n n="This is solved easily by saying that Anandamurti is Taraka Brahma, not needing a previous life. It is PR Sarkar, the mortal vehicle chosen by Anandamurti, that needs a previous life. Baba therefore should refer to Anandamurti and not PR Sarkar. This is consistent with Jesus being the vehicle of God, and Mohammad being the vehicle of Allah. This is why Anandamurti can manifest at will to his devotees." >}}
 
 
 To me, it is not. In order to understand this riddle, a short philosophical discussion will help:
@@ -46,7 +46,7 @@ This means it is a particular position and state of consciousness, which we call
 
 We cannot say then that this entity has a separate existence* from the supreme and that it holds a particular position independent of the supreme. 
 
-> *Superphysics Note: Here, Santosananda reverts to dogma by unifying PR Sarkar and Anandamurti, in contradiction to Nagina's own accounts. Anandamurti is Taraka Brahma, PR Sarkar is just Its vehicle, just as Jesus was the medium for God, and Mohammad was the messenger for Allah. Nagina proves that metaphysics is the same everwhere.
+{{< n n="Here, Santosananda reverts to dogma by unifying PR Sarkar and Anandamurti, in contradiction to Nagina's own accounts. Anandamurti is Taraka Brahma, PR Sarkar is just Its vehicle, just as Jesus was the medium for God, and Mohammad was the messenger for Allah. Nagina proves that metaphysics is the same everwhere." >}}
 
 
 It has become supreme. As such, it is Supreme in its new status. 
@@ -55,7 +55,7 @@ Take for example water of well, pond, and ocean. After due purification when the
 
 What we find is just water*. All distinctions have vanished since the factors creating distinctions exist no more now.
 
-> *Superphysics Note: Here, Santosananda really means Saguna Brahma and not Taraka Brahma. So his point is useless here. 
+{{< n n="Here, Santosananda really means Saguna Brahma and not Taraka Brahma. So his point is useless here. " >}}
 
 
 Similarly, a sadhaka in the elevated state of his mind passes through various experiences, and merges in the highest being when he has exhausted all his samskaras. 
@@ -68,7 +68,7 @@ He can give up physical body whenever he desires. The bondage of mortal life cea
 
 It is true Taraka Brahma has no need for sadhana* for His salvation. 
 
-> *Superphysics Note: Correct, Taraka Brahma does not need sadhana. It is PR Sarkar who needs sadhana to keep the real-time connection with Anandamurti alive.
+{{< n n="Correct, Taraka Brahma does not need sadhana. It is PR Sarkar who needs sadhana to keep the real-time connection with Anandamurti alive." >}}
 
 
 He is not in bondage so there is no question of salvation for him. He is perfect within Himself. 
@@ -77,7 +77,7 @@ He is the Supreme Lord, the goal of all creatures and objects. But then the moot
 
 When He takes a samkalpa to assume human form*, how does it materialise? 
 
-> *Superphysics Note: The recurring cycles of 3,500 years means the mechanism for Taraka Brahma descending is based on the position or alignment of the heavenly bodies which move in a natural cyclic way. 
+{{< n n="The recurring cycles of 3,500 years means the mechanism for Taraka Brahma descending is based on the position or alignment of the heavenly bodies which move in a natural cyclic way. " >}}
 
 
 Since he has no previous life, how did he get a physical medium for expression?
@@ -99,7 +99,7 @@ The mind of an entity requires a physical frame that is capable of maintaining p
 
 The mention of Shri Ram Chandra Upadhyaya* in this regard is simply to denote that it was the medium accepted by Taraka Brahma. 
 
-> *Superphysics Note: This is wrong. Shri Ram Chandra Upadhyaya is merely PR Sarkar without Taraka Brahma. There is nothing special about him that is not special with other spiritual humans. 
+{{< n n="This is wrong. Shri Ram Chandra Upadhyaya is merely PR Sarkar without Taraka Brahma. There is nothing special about him that is not special with other spiritual humans. " >}}
 
 
 It was Ram Chandra Upadhyaya who got salvation and not the Taraka Brahma.
@@ -130,13 +130,13 @@ By using the expression Brahma – knowing entities” implication is that Brahm
 
 While recording Baba’s words in the article, ”Unresolved Mystery” in Bodhikalpa (January 75), Amitananda Avadhuta writes: “I have gone to Jamalpur hill for doing sadhana. I am sitting when someone tells in my ears, come with me. I will show you a better place for sadhana, follow me. I see no one but I follow the voice whose presence I feel so clearly and asks me to do sadhana. After a while, it tells me, Are you mad? Don’t, he is Maya. Are you P.R. Sarkar? See who your are! And a reel of my past life, my earlier lives, flashes clearly before my eyes and I realize who I am” (Here “I” is used for Baba).
 
-> *Superphysics Note: This is an example of Anandamurti talking to P.R. Sarkar. 
+{{< n n="This is an example of Anandamurti talking to P.R. Sarkar." >}} 
 
 Once in a demonstration on an avadhuta at Jamalpur, Baba asked him to see who Baba was 7000 years ago. The avadhuta saw Shiva. When asked to see 3500 years ago, he saw Krsna*.
 
 Taraka Brahma has no previous lives*, but the fact that he was Shiva and Krsna is previous lives is intended to suggest that Lord comes in every age on a particular mission. 
 
-> *Superphysics Note: Here, Taraka Brahma incarnated as Shiva and Krsna by using those respective bodies. It is those souls of those bodies that have previous lives which Taraka Brahma used.
+{{< n n="Here, Taraka Brahma incarnated as Shiva and Krsna by using those respective bodies. It is those souls of those bodies that have previous lives which Taraka Brahma used." >}}
 
 
 The same Lord is known as Shiva, Krsna and today Anandamurti. He is the same whenever and wherever He appears.
@@ -155,7 +155,7 @@ To my humble and imperfect intellect at seems that because of psychic associatio
 
 In the end I would like to emphasize that Lord’s Liila is inscrutable.*
 
-> *Superphysics Note: Here, Santosananda's reasoning breaks down because of his intellectual limitation. 
+{{< n n="Here, Santosananda's reasoning breaks down because of his intellectual limitation. " >}}
 
 
 The more we try to question and find out the answer, greater is the chance of being confused. Taraka Brahma is not a figure of philosophy, He is the creation of devotional sentiment. 

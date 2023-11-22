@@ -12,7 +12,7 @@ icon: "/avatars/keynes.png"
 ---
 
 
-> *Superphysics Note: Here, we dissect Keynes' reasoning on why his system is totally different from Classical -- because he enshrines the love for cash!
+{{< n n="Here, we dissect Keynes' reasoning on why his system is totally different from Classical -- because he enshrines the love for cash, just like any Mercantilist!" >}}
 
 
 <!-- Thus the rate of interest at any time is the reward for parting with liquidity. -->
@@ -43,14 +43,14 @@ But this breaks down as soon as we see that it is impossible to deduce the rate 
 
 The psychological time-preferences of an individual need two sets of decisions.
 
-> 1. The propensity to consume= This is his time-preference or the need for cash now
+1. The propensity to consume= This is his time-preference or the need for cash now
 
 How much money does he need now?
 
 <!-- This determines for each individual how much of his income he will consume and save. -->
 
 
-> 2. His liquidity preference= This is his need or love for cash in the future
+2. His liquidity preference= This is his need or love for cash in the future
 
 How much money does he *not* need now? 
 
@@ -61,7 +61,8 @@ How much money does he *not* need now?
 **The mistake of previous theories on the rate of interest is that they neglect the liquidity preference.** This neglect is what we are repairing. <b>The rate of interest cannot a revenue from saving or waiting*</b><!-- for return to saving or waiting as such -->. A man who hoards cash in his room will not earn interest. 
 
 
-> *Superphysics note= Here, Keynes totally misunderstands the Classical definition which really is "the profits in lending". From here, we will rename 'liquidity' as cash and 'liquidity-preference' as 'love for future cash' and propensity to consume as 'need for cash now'. Keynes says he is correcting Classical Economics for not loving cash so much. We counter-correct Keynes by saying the obsession with cash is an addiction 
+
+{{< n n="Here, Keynes totally misunderstands the Classical definition which really is 'the profits in lending'. From here, we will rename 'liquidity' as cash and 'liquidity-preference' as 'love for future cash' and propensity to consume as 'need for cash now'. Keynes says he is correcting Classical Economics for not loving cash so much. We counter-correct Keynes by saying the obsession with cash is an addiction" >}}
 
 
 <!-- If a man hoards his savings in cash, he earns no interest, though he saves just as much as before. -->
@@ -96,7 +97,7 @@ This is how the quantity of cash enters into the economic scheme.
 
 Anciently, the use of money was distinguished into:
 
-> 1. A tool of trade
+1. A tool of trade
 
 We gain the convenience of liquidity by sacrificing a certain amount of interest.
 
@@ -105,7 +106,7 @@ But the intrest rate is never negative. Why should anyone prefer to hold his wea
 A full explanation is complex and is in Chapter 15.
 
 
-> 2. A store of wealth
+2. A store of wealth
 
 <!-- There is, however, a necessary condition failing which the existence of a liquidity-preference for money as a means of holding wealth could not exist. -->
 
@@ -131,8 +132,7 @@ The actuarial profit or mathematical expectation of gain calculated based on the
 The uncertainty of future interest rates in organised debt-markets also fuels the love for future cash. This is because different people will estimate the prospects differently*. Anyone who thinks differently from the predominant market trends might keep cash in order to profit against the market. <!-- If he is right, from its turning out in due course that the 1dr’s were in a mistaken relationship to one another.[3] -->
 
 
-
-> *Superphsics note= Keynes clearly enshrines gambling and speculation
+{{< n n="Keynes clearly enshrines gambling and speculation" >}}
 
 
 This is closely analogous to <!-- what we have already discussed at some length in connection with --> the marginal efficiency of capital.

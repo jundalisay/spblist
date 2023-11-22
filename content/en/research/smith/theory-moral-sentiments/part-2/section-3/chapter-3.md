@@ -14,7 +14,7 @@ description: "The irregularity in our moral feelings on the outcome is caused by
 
 ### The irregularity in our moral feelings on the outcome is caused by Nature trying to preserve our physical well-being without the uneeded psychological troubles
 
-> Superphysics note: This part resembles Socrates' argument in the Republic
+{{< n n="This part resembles Socrates' argument in the Republic" >}}
 
 {{< s v="24" >}} Such is the effect of an action's consequences on its doer and on others. 
 

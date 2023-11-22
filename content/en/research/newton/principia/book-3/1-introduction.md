@@ -131,9 +131,7 @@ This is immutable.
 
 Their gravity is diminished as they recede from the earth. -->
 
-
-> *Superphysics Note: Newton bases perception-effects on the immediate senses. This leads to causes which are limited to the 3 layers instead of all 5 layers since 2 of the upper layers are sensed by feelings instead of the eyes.
-
+{{< n n="Newton bases perception-effects on the immediate senses. This leads to causes which are limited to the 3 layers instead of all 5 layers since 2 of the upper layers are sensed by feelings instead of the eyes." >}}
 
 
 
@@ -142,4 +140,6 @@ Their gravity is diminished as they recede from the earth. -->
 Our experiments<!--  philosophy -->, must be based on propositions collected by general induction from phenomena as accurately or very nearly true, despite any contrary imaginary hypotheses, until these are corrected by <!--  till such time as --> other phenomena. <!--  occur, by which they may either be made more accurate, or liable to exceptions. --> <!-- This rule we must follow, that --> The argument of induction cannot evaded by hypotheses.
 
 
-> *Superhysics Note: Superphysics improves Physics-inductions by getting the general inductions from the feelings noted throughout history which may have escaped most people who have a limited view. These are then put into experiments to create new principles. We use data science instead of math to improve the quality of inductions, as well as aid in the expriments, since the brain can only process a limited data set
+
+{{< n n="Superhysics Note: Superphysics improves Physics-inductions by getting the general inductions from the feelings noted throughout history which may have escaped most people who have a limited view. These are then put into experiments to create new principles. We use data science instead of math to improve the quality of inductions, as well as aid in the expriments, since the brain can only process a limited data set" >}}
+

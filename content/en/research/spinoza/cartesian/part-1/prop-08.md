@@ -23,7 +23,7 @@ Conversely, we clearly perceive body without mind, as everyone readily admits.
 Therefore, at least through divine power, mind can be without body and body without mind*. 
 <!-- 39  -->
 
-> *Superphysics Note: In Superphysics, mind without body is called the soul
+{{< n n="In Superphysics, mind without body is called the soul" >}}
 
 
 Substances that can exist independently are distinct in reality (Def. 10). 

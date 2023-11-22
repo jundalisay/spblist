@@ -37,7 +37,7 @@ Taraka Brahma is a concept of Tantra.
 
 It happens when the Objectless Existence (Nirguńa Brahma), by His own will, takes the help of the 5 layers to come within the scope of Existence (Saguńa Brahma) as a physical entity*.  
 
-> *Superphysics note: Taraka Brahma becomes real if the person wants to rush to the Nucleus. Unlike an avatar who is the God in physical form, Taraka Brahma is Nothing that temporarily becomes a unit Something to speed up the journey of a unit mind to Nothing.
+{{< n n="Taraka Brahma becomes real if the person wants to rush to the Nucleus. Unlike an avatar who is the God in physical form, Taraka Brahma is Nothing that temporarily becomes a unit Something to speed up the journey of a unit mind to Nothing." >}}
 
 
 Those who aim at mokśa do sádhaná to completely surrender the self into <!-- That --> Objectless Existence. <!-- Nirguńa Brahma, the Objectless Consciousness), -->

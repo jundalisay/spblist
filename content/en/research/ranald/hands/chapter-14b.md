@@ -14,7 +14,7 @@ This is also called the line of Mars (number 10). It is a sister line to the lin
 
 This line greatly strengthens a weak line of life and adds tremendous energy to a good one*.
 
-> *Superphysics Note: In Benham's system this indicates help from family or bloodline. 
+{{< n n="In Benham's system this indicates help from family or bloodline. " >}}
 
 Its aid is limited to the period during which it extends, and only when the line of vitality continues for the whole length of the line of life is its effect felt from birth to death. 
 

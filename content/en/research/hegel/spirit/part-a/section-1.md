@@ -11,7 +11,7 @@ weight: 4
 
 <!-- – A – CONSCIOUSNESS (1) -->
 
-> *Superphysics Note: We replace 'Sense Certainty' with 'Perception'
+{{< n n="We replace 'Sense Certainty' with 'Perception'" >}}
 
 
 ## 1. The Object of Perceptions 
@@ -75,7 +75,7 @@ In the same way, the certainty “of” something is an immediate pure relation.
 
 Consciousness is I* – nothing more, a pure this. 
 
-<!-- > *Superphysics note: Here Kant confuses consciousness for identity and the ego -->
+<!-- n n="Here Kant confuses consciousness for identity and the ego -->
 
 
 The individual consciousness knows a pure this, or knows what is individual.

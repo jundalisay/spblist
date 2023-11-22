@@ -75,7 +75,7 @@ Indirect parallelism is when the physical object expressed in the mental word<!-
 - If the mental wave gets cruder, human beings will be transformed into cruder beings*. 
 - They take the path of reverse subtilification. <!-- negative pratisaiṋcara --> <!-- and spiritual elevation will remain a dream. --> 
 
-> *Superphysics Note: This is why scientists naturally become non-spiritual <!-- and why memorization tends to stifle spiritual growth -->
+{{< n n="This is why scientists naturally become non-spiritual <!-- and why memorization tends to stifle spiritual growth -->" >}}
 
 
 

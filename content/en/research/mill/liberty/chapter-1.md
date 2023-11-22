@@ -11,7 +11,7 @@ aliases:
 ---
 
 
-> Superphysics Note: Mill's system of liberty only prevents the violence of despotism. It does not prevent the slavery and oppression from the strong classes that prey on the weak. This manifess nowdays as the oppression from inequality and inflation 
+{{< n n="Mill's system of liberty only prevents the violence of despotism. It does not prevent the slavery and oppression from the strong classes that prey on the weak. This manifess nowdays as the oppression from inequality and inflation" >}}
 
 
 <!-- The grand, leading principle, towards which every argument unfolded in these pages directly converges, is the absolute and essential importance of human development in its richest diversity.—Wilhelm Von Humboldt= Sphere and Duties of Government. -->

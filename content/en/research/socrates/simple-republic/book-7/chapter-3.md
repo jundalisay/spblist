@@ -12,7 +12,7 @@ icon: "/icons/socrates.png"
 
 ## The Patterns of Geometry Can Be Seen In Astronomy*
 
-> *Superphysics Note: As later proven by Isaac Newton who invented calculus from geometric patterns through the observation of heavenly bodies
+{{< n n="As later proven by Isaac Newton who invented calculus from geometric patterns through the observation of heavenly bodies" >}}
 
 
 {{< l a="Socrates" >}}
@@ -108,9 +108,8 @@ The spangled heavens should be used as a pattern and with a view to that higher 
 {{< /l >}}
 
 
-> *Superphysics Note: This is similar to General Relativity. 
+{{< n n="<li>This is similar to General Relativity</li><li>Unlike General Relativity, the cause of the motions of heavenly bodies are inherent. We call this 'gravitational signatures'. Socrates implies that photons cannot directly measure such inherent signatures. The pattern of such signatures can then be used to make a locational map that Einstein refers to as the fabric of spacetime and can be used to predict the motions of heavenly bodies.</li>" >}}
 
-> **Superphysics Note: Unlike General Relativity, the cause of the motions of heavenly bodies are inherent. I call this "gravitational signatures". Socrates implies that photons cannot directly measure such inherent signatures. The pattern of such signatures can then be used to make a locational map that Einstein refers to as the fabric of spacetime and can be used to predict the motions of heavenly bodies.
 
 {{< l a="Socrates" >}}
 Their beauty is like the beauty of pictures excellently wrought by the hand of Daedalus or some other great artist.
@@ -120,7 +119,7 @@ Any geometrician who saw them would appreciate the exquisiteness of their workma
 Likewise, a true astronomer will have the same feeling when he looks at the movements of the stars.
 {{< /l >}}
 
-> *Superphysics Note: Socrates rejects a cosmological constant
+{{< n n="Socrates rejects a cosmological constant" >}}
 
 
 {{< r a="Glaucon" >}}
@@ -141,7 +140,7 @@ Then, in astronomy, as in geometry, we should employ problems, and leave the hea
 This would make the natural gift of reason useful.
 {{< /l >}}
 
-> *Superphysics Note: Socrates discourages the search for a universal constant.
+{{< n n="Socrates discourages the search for a universal constant." >}}
 
 
 {{< l a="Socrates" >}}

@@ -76,7 +76,7 @@ In this case, the universe must of necessity be spatially unbounded and of finit
 ![Blah](/icons/einbla.png)
 
 
-> *Superphysics Note: This is totally wrong as proven by James Webb. 
+{{< n n="This is totally wrong as proven by James Webb. " >}}
 
 
 If we consider the gravitational field and the electromagnetic field from the standpoint of the ether hypothesis, we find a remarkable difference between the two.
@@ -108,7 +108,7 @@ This would conclude the the epoch of theoretical physics founded by Faraday and 
 
 Through General Relativity*, the whole of physics would become a complete system of thought, like geometry, kinematics, and the theory of gravitation. 
 
-> *Superphysics Note: Such a unification is actually being prevented by General Relativity
+{{< n n="Such a unification is actually being prevented by General Relativity" >}}
 
 
 

@@ -14,7 +14,7 @@ For example, mayúrásana [peacock posture] has a pressurizing effect on the m
 
 The secretions of the glands and sub-glands of the mańipura cakra and the propensities associated with them will become more balanced if this ásana is practised regularly. **If someone has a great fear of public speaking, it means his or her mańipura cakra is weak**.*
 
-> *Superphysics Note: In Superphysics, this is the Jupiter Mount
+{{< n n="In Superphysics, this is the Jupiter Mount" >}}
 
 
 Through the regular practice of mayúrásana, this propensity will be controlled and fear will be eliminated. Other ásanas may have a depressurizing effect on the mańipura cakra, and if these ásanas are performed regularly the glands and sub-glands associated with the cakra will become less active.

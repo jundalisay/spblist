@@ -50,7 +50,8 @@ To predict how entrepreneurs <!-- possessing a given equipment --> will respond 
 
 <!--  would compare with what they were at a different date or in another country.  -->
 
-> *Superhysics note: This is actually why we created the [grain index](/social/economics/principles/part-4/chapter-07c)
+
+{{< n n="This is actually why we created the [grain index](/social/economics/principles/part-4/chapter-07c)" >}}
 
 
 

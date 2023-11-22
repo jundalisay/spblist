@@ -91,7 +91,7 @@ But the revolution-time of small body around a bigger body that attracts it, is 
 If the densities of Jupiter and Saturn were the same with that of the Earth, then the revolutions of their moons would be shorter than actual. This is because the quantity of matter, and consequently their gravity would be as the cubes of their diameters*.
 
 
-> *Superphysics note: This from Kepler
+{{< n n="This from Kepler" >}}
 
 
 By comparing the visual size of those Planets and the revolutions of their moons, they found that: 
@@ -109,7 +109,7 @@ Newton's system is more strictly connected together than those of any other phil
 The universality of gravity states that gravity decreases as the squares of the distance increase*. Everything then follows this rule. <!-- , and all the appearances, which he joins together by it, necessarily follow. -->
 
 
-> *Superphysics note:  This was implied by Kepler's kinships
+{{< n n=" This was implied by Kepler's kinships" >}}
 
 
 This rule is precise and is observed everywhere, different from the loose principles of most other systems.

@@ -25,7 +25,7 @@ This says that in everything there is manifested:
 
 This Principle* is closely connected with the Principle of Polarity. 
 
-> *Superphysics Note: This is karma in Hinduism and Buddhism
+{{< n n="This is karma in Hinduism and Buddhism" >}}
 
 
 Rhythm manifests between the two poles. This does not mean, however, that the pendulum of Rhythm swings to the extreme poles, for this rarely happens. In fact, it is difficult to establish the extreme polar opposites in the majority of cases. But the swing is ever "toward" first one pole and then the other.

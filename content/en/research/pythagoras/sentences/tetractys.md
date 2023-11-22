@@ -74,7 +74,7 @@ Odd | 1 | 3 | 9 | 27
 - The third among even numbers is 4; but among odd numbers is 9.
 - The fourth among even numbers is 8; but among odd numbers is 27.
 
-> *Superphysics Note: This doubling technique is used in Egyptian Math which we integrate into our Qualimath
+{{< n n="This doubling technique is used in Egyptian Math which we integrate into our Qualimath" >}}
 
 
 

@@ -16,9 +16,6 @@ icon: "/icons/descartes.png"
 The aether that could not become the fire-aether or air-aether necessarily are the larger and more massive ones. These move out to the edges of the stellar gravitational territories onto other stellar gravitational territories without staying long in each territory.
 
 
-<!-- > *Superphysics note: This is the Big Bang. The major difference is that Cartesian Big Bang has no material beginning. In fact, the expansion of space (air-aether) is totally independent of matter.  This independence from matter allows large galaxies to be formed from the 'early galaxy' which was discovered by the James Webb Telescope. In reality, the galaxies farthest from us are not earlier galaxies.  -->
-
-
 By contrast, all the less massive aether had to be pushed, each toward the center of the air-aether containing it.
 <!-- , by the course of the air-aether of that heaven.  -->
 

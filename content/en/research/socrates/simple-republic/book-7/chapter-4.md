@@ -19,7 +19,7 @@ These two are the study of motions from sight and sound*. The eyes are designed 
 **These are sister sciences, as the Pythagoreans say.**
 {{< /l >}}
 
-> *Superphysics Note: The study of visible motion deals with particles, the study of audible motion deals with waves.
+{{< n n="The study of visible motion deals with particles, the study of audible motion deals with waves." >}}
 
 
 {{< l a="Socrates" >}}
@@ -63,7 +63,7 @@ But it is useful if sought with a view to the beautiful and good. But it is usel
 Until then, there is no profit in pursuing them.
 {{< /l >}}
 
-> *Superphysics Note: The theory of gravitational signatures leads to the study of gravitational affinity.
+{{< n n="The theory of gravitational signatures leads to the study of gravitational affinity." >}}
 
 
 {{< r a="Glaucon" >}}
@@ -142,7 +142,7 @@ Custom calls them sciences. But they should have some other name implying more c
 But why should we dispute about names when we have realities of such importance to consider?
 {{< /l >}}
 
-> *Superphysics Note: We can call Science as Physics, Opinion as Metaphysics, and their middle ground of Understanding as "Superphysics". In this way, Superphysics is clearer than Metaphysics, but less clear than Physics, and serves to connect both.
+{{< n n="We can call Science as Physics, Opinion as Metaphysics, and their middle ground of Understanding as 'Superphysics'. In this way, Superphysics is clearer than Metaphysics, but less clear than Physics, and serves to connect both." >}}
 
 
 {{< r a="Glaucon" >}}
@@ -253,7 +253,7 @@ I saw philosophy so undeservedly trampled. I was disgusted at the authors of her
 {{< /l >}}
 
 
-> *Superphysics Note: This is seen nowadays in the educated labeling alternative theories as pseudo-science.
+{{< n n="This is seen nowadays in the educated labeling alternative theories as pseudo-science." >}}
 
 
 ## The Foundations of Dialectics Should be Taught to the Youth 

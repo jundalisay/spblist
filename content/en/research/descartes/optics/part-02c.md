@@ -66,7 +66,8 @@ The 3 comparisons I have just used are so appropriate that all the particulariti
 
 The curved surfaces of transparent bodies deflect the rays that pass through each of their points, in the same way that flat surfaces, which one can imagine touching these bodies at the same points*, would do. 
 
-> *The tangent planes at the point of impact. 
+{{< f f="*The tangent planes at the point of impact." >}}
+ 
 
 For example, the refraction of the rays `AB`, `AC`, `AD`, which come from the flame A and fall on the curved surface of the crystal ball `BCD`, must be considered in the same way as if `AB` fell on the flat surface `EBF`, and `AC` on `GCH`, and `AD` on `IDK`, and so on for the others.
 

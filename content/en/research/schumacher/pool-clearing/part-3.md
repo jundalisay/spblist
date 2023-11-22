@@ -23,7 +23,7 @@ Pool Clearing allows every country to discharge all its cash obligations to the 
   - payments for foreign goods and services*,
   - interest, dividend and amortisation payments on old and new foreign debts, etc.
 
-> *Superphysics Note: In Supereconomics, the deficit country pays through its exports or services, not through the international money market. This is because a surplus country might print money to fill its own Clearing Fund. However, this will cause inflation and raise the price of its own exports
+{{< n n="In Supereconomics, the deficit country pays through its exports or services, not through the international money market. This is because a surplus country might print money to fill its own Clearing Fund. However, this will cause inflation and raise the price of its own exports" >}}
 
 
 Only new capital movements would have to be dealt with specially, whether they arise out of commercial lending or a private capital flight. 
@@ -35,7 +35,7 @@ Whenever a National Clearing Fund receives payment from a resident at home who w
 In this way, each country gives to each other country an overdraft facility for foreign payments. This might be a good way of getting world trade started again after the war when most countries will find themselves without any international means of payment. However, no country would wish to give the world an unlimited overdraft on its own resources*.
 
 
-> *Superphysics Note: In Supereconomics, funds are seeded by giving the importing country free surplus goods of productive exporting countries.
+{{< n n="In Supereconomics, funds are seeded by giving the importing country free surplus goods of productive exporting countries." >}}
 
 
 How should these overdraft facilities be <!-- quantitatively --> determined?

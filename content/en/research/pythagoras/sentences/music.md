@@ -59,7 +59,7 @@ These 8 correspond to ut in the consonance diapason.
 Of these the first ut, and the last fa (the eighth), produce the diapason consonance or the double, or the octave*.
 
 
-> *Superphysics note: 7 tacti lead to 8 tones. In Chinese philosophy, 4 tacti lead to 5 tones. 
+{{< n n="7 tacti lead to 8 tones. In Chinese philosophy, 4 tacti lead to 5 tones. " >}}
 
 
 Let the same chord `CD` be divided into 3 equal parts in the points `F, G`.

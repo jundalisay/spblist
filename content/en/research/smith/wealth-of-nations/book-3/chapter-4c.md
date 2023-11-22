@@ -42,7 +42,7 @@ The merchants and craftsmen were much less ridiculous.
 
 Neither of them had knowledge nor foresight of that great revolution which the folly of the one, and the industry of the other, were gradually bringing about.*
 
-> *Superphysics note: Selfish people usually cite such a phenomenon where self-interest leads to justice. However, such reasoning negates the fact that such justice only came after a very long and painful process full of chaos and death. The phenomenon of commerce-driven good governance destroys the current wrong belief that long-term economic sanctions on erring countries such as North Korea, Iran, Cuba, Myanmar, and Venezuela will lead to better governments. The proper sanctions policy is discussed in Book 4, Chapter 2
+{{< n n="Selfish people usually cite such a phenomenon where self-interest leads to justice. However, such reasoning negates the fact that such justice only came after a very long and painful process full of chaos and death. The phenomenon of commerce-driven good governance destroys the current wrong belief that long-term economic sanctions on erring countries such as North Korea, Iran, Cuba, Myanmar, and Venezuela will lead to better governments. The proper sanctions policy is discussed in Book 4, Chapter 2" >}}
 
 
 

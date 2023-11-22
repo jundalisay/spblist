@@ -34,7 +34,7 @@ A man alone on an island will think not that it, by itself, is wealth.
 The measure of his wealth is not be the price for exchanging them. 
 - **It is the length of time which no farther labour will be needed to satisfy his wants, compared with the extent of those wants.** *
 
-> *Superphysics Note: Sismondi measures wealth in terms of non-lack
+{{< n n="Sismondi measures wealth in terms of non-lack" >}}
 
 
 - By subduing those animals, he has made them his property and wealth. 

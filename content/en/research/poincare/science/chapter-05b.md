@@ -37,14 +37,14 @@ In other words, **the state of the bodies and their mutual distances at any mome
 
 **This is what we shall call the law of relativity.**
 
-> *Superysics Note: This is consistent with both Descartes' Rule 1 of Movement and Quantum Mechanics which is also state-based. And so, we can safely replace Einstein's Relativity with that of Poincare and use it as foudation for anti-gravity (spacetime) technologies that are impossible with Einstein. 
+{{< n n="This is consistent with both Descartes' Rule 1 of Movement and Quantum Mechanics which is also state-based. And so, we can safely replace Einstein's Relativity with that of Poincare and use it as foudation for anti-gravity (spacetime) technologies that are impossible with Einstein." >}}
 
 
 So far I have spoken as a Euclidean geometer. But an experiment requires an interpretation on:
 - the Euclidean hypothesis, and
 - the non-Euclidean hypothesis*.
 
-> *Superphysics Note: Euclid's Elements is about the 5 Elements and not a book about shapes. Therefore the universe is only Euclidean. Riemann geometry is a mix of Euclidean principles. 
+{{< n n="Euclid's Elements is about the 5 Elements and not a book about shapes. Therefore the universe is only Euclidean. Riemann geometry is a mix of Euclidean principles. " >}}
 
 
 We have interpreted a series of experiments on the Euclidean hypothesis. These experiments thus interpreted do not violate this “law of relativity.” 

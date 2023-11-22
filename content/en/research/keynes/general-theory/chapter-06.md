@@ -129,7 +129,9 @@ The aggregate demand curve <!-- function --> is the hypothetical quantity of emp
 The effective demand is the point on the aggregate demand <!-- function --> curve which <!-- becomes effective because, taken in conjunction with the conditions of supply, it --> corresponds to the level of employment which maximises the entrepreneur’s expectation of profit*.
 
 
-> *Superphysics note: This proves that the effective demand of Neoclassical Economics is based on the supplier and not the demander
+
+{{< n n="This proves that the effective demand of Neoclassical Economics is based on the supplier and not the demander" >}}
+
 
 
 <!-- This set of definitions also has the advantage that  -->

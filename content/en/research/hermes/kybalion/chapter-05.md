@@ -47,7 +47,7 @@ Some philosophers say that THE ALL created the Universe from ITSELF*. But this w
 - each particle in the Universe would be aware of its being THE ALL since THE ALL could not lose its knowledge of itself, nor actually BECOME an atom, or blind force, or lowly living thing.
 
 
-> *Superphysics note: This is the answer of Buddhism and Hinduism which Superphysics adopts. This leads to the two forces of Yin-Yang
+{{< n n="This is the answer of Buddhism and Hinduism which Superphysics adopts. This leads to the two forces of Yin-Yang" >}}
 
 
 
@@ -73,7 +73,7 @@ In the first place there would be a taking away, and in the second case a multip
 
 The correct answer is that Man creates MENTALLY! He uses no outside materials, nor does he reproduce himself, and yet his Spirit pervades the Mental Creation*.
 
-> *Superphysics note: This answer is from the perspective of the Absolute. It implies that the universe is an illusion, similar to Vedanta philosophy. Superphysics rejects this as ours is a problem-solving framework for the real world. And so it has to accept the reality of existence and its effects in order to solve them. The effect of Kybalion Philosophy is to imagine the problem to go away. This is similar to how Vedanta 'solves' problems by ignoring them. Too much materialism is bad. But too much mentalism is bad too.    
+{{< n n="This answer is from the perspective of the Absolute. It implies that the universe is an illusion, similar to Vedanta philosophy. Superphysics rejects this as ours is a problem-solving framework for the real world. And so it has to accept the reality of existence and its effects in order to solve them. The effect of Kybalion Philosophy is to imagine the problem to go away. This is similar to how Vedanta 'solves' problems by ignoring them. Too much materialism is bad. But too much mentalism is bad too." >}}
 
 
 Following the Principle of Correspondence, THE ALL creates the Universe MENTALLY just as how Man creates Mental Images. <!-- And, here is where the report of Reason tallies precisely with the report of the Illumined, as shown by their teachings and writings. Such are the teachings of the Wise Men. Such was the Teaching of Hermes. -->
@@ -99,7 +99,7 @@ The Infinite Mind of THE ALL is the womb of Universes
 
 The Principle of Gender* is manifested on all planes of life, material mental and spiritual. But, as we have said before, "Gender" does not mean "Sex" sex is merely a material manifestation of gender. "Gender" means "relating to generation or creation". 
 
-> *Superpyhsics note: The author is unable to say where the Principle of Gender comes from. In Superphysics, it comes from Yin-Yang as the 2 forces that divide the One into the All. The author merely says that the Principle of Gender exists
+{{< n n="The author is unable to say where the Principle of Gender comes from. In Superphysics, it comes from Yin-Yang as the 2 forces that divide the One into the All. The author merely says that the Principle of Gender exists" >}}
 
 
 

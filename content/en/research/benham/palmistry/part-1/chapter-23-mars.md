@@ -8,7 +8,7 @@ contributors: ['Benham']
 ---
 
 
-> Superphysics Note: In Superphysics, the Martian is based in the base chakra
+{{< n n="In Superphysics, the Martian is based in the base chakra" >}}
 
 
 THE fifth Mount type is the Martian. 

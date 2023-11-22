@@ -31,7 +31,7 @@ Both in classical mechanics and in special relativity, we differentiate between:
 
 ![Einstein Con-man](/icons/einbla.png)
 
-> *Superphysics Note: No, they are not more important or have more priority to Nature. All reference-bodies or viewpoints are of equal importance!
+{{< n n="No, they are not more important or have more priority to Nature. All reference-bodies or viewpoints are of equal importance!" >}}
 
 
 A gas range has two identical pots with water. Steam is being emitted continuously from Pot A which is on a flame, but not from Pot B which has no flame. <!-- I am surprised at this, even if I have never seen either a gas range or a pan before. But if I now notice a luminous something of bluish colour under the first pan but not under the other, I cease to be astonished, even if I have never before seen a gas flame.  --> I can see that the flame causes steam. If both have no flame but Pot A still gives steam, then I will be puzzled.
@@ -42,13 +42,14 @@ Similarly, I seek in vain for a real something in classical mechanics or special
 
 ![Einstein Con-man](/icons/einbla.png)
 
-> **Einstein Note: The objection is most important when the motion of the viewpoint is inherent<!-- . reference-body is of such a nature that it does not require any external agency for its maintenance, --> e.g. when the viewpoint is rotating uniformly.
+
+{{< f f="**Einstein Note: The objection is most important when the motion of the viewpoint is inherent<!-- . reference-body is of such a nature that it does not require any external agency for its maintenance, --> e.g. when the viewpoint is rotating uniformly." >}}
 
 
 Newton saw this objection and attempted to invalidate it, but without success*. 
 
 
-> *Superphysics Note: Here, Einstein explains that he invents inertial mass (and therefore the preference to relativistic spacetime) simply because he couldn't find the cause for gravity. So he sources it from Newton's Second Law in a spacetime that is in perpetual movement. This is why gravity in his General Relativity is not a force that acts from afar, but a warping of spacetime that changes movements of perpetually-moving objects.  <p>The cause of gravity has already been identified by Descartes as aethereal vortices. Newton discarded Descartes and so he couldn't identify the cause of gravitation.
+{{< n n="Here, Einstein explains that he invents inertial mass (and therefore the preference to relativistic spacetime) simply because he couldn't find the cause for gravity. So he sources it from Newton's Second Law in a spacetime that is in perpetual movement. This is why gravity in his General Relativity is not a force that acts from afar, but a warping of spacetime that changes movements of perpetually-moving objects.  <p>The cause of gravity has already been identified by Descartes as aethereal vortices. Newton discarded Descartes and so he couldn't identify the cause of gravitation." >}}
 
 
 <!-- Einstein tries to source gravity from Newton's 2nd Law -- that's why he has to impose that everything is moving! -->

@@ -91,17 +91,17 @@ But the inner motion he divided in 6 places and made 7 unequal circles [chakras]
 He bade the orbits proceed in a direction opposite to one another, 3 <!-- (Sun, Mercury, Venus) --> he made to move with equal swiftness*.
 
 
-> *Superphysics note: These are the top 3 chakras 
+{{< n n="These are the top 3 chakras" >}}
 
 The remaining four <!-- (Moon, Saturn, Mars, Jupiter) -->  move with unequal swiftness to the 3 and to 1 another, but in due proportion.*
 
 
-> *Superphysics note: These are the lower 4 chakras
+{{< n n="These are the lower 4 chakras" >}}
 
 When the Creator had framed the soul according to His will, he formed within it the corporeal universe and brought the 2 together and united them centre to centre*.
 
 
-> *Superphysics note: This is the heart chakra
+{{< n n="This is the heart chakra" >}}
 
 
 The soul, interfused everywhere from the centre to the circumference of heaven, of which also she is the external envelopment, herself turning in herself, began a divine beginning of never-ceasing and rational life enduring throughout all time. 

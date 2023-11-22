@@ -43,7 +43,8 @@ The idea that individual saving* is just as good for effective demand as an act 
 {{< /c >}}
 
 
-> *Superphysics Note: Here, Keynes confuses "saving" with "abstaining" or putting money under a pillow. Classical savings always implies saving money in a bank. Thus, the correct Classical phrase is: 'Individual saving IN A BANK is just as good for effective demand'
+{{< n n="Here, Keynes confuses 'saving' with 'abstaining' or putting money under a pillow. Classical savings always implies saving money in a bank. Thus, the correct Classical phrase is: 'Individual saving IN A BANK is just as good for effective demand'" >}}
+
 
 
 <!-- The absurd, though almost universal, idea that an act of , has been fostered by the fallacy, much more specious than the conclusion derived from it, that  -->
@@ -56,7 +57,7 @@ Classical Economics has a fallacy that an increased desire to hold wealth is the
 
 These are fallacies coming from the idea that the owner of wealth wants a capital-asset for the sake of that asset* instead for its prospective yield.
 
-> *Superphysics Note: This desire is actually the desire for security which Keynes called "precautionary-motive" in Chapter 13. Adam Smith mentions this as kings hoarding treasure (massive treasure-saving) for the sake of security. How could Keynes forget his own principles? Here, he is strangely imposing the "transactions-motive" on capital-owners, like telling an apple to be an orange.
+{{< n n="This desire is actually the desire for security which Keynes called 'precautionary-motive' in Chapter 13. Adam Smith mentions this as kings hoarding treasure (massive treasure-saving) for the sake of security. How could Keynes forget his own principles? Here, he is strangely imposing the 'transactions-motive' on capital-owners, like telling an apple to be an orange." >}}
 
 
 **Prospective yield wholly depends on the expectation of future effective demand in relation to future conditions of supply.**
@@ -68,7 +69,7 @@ These are fallacies coming from the idea that the owner of wealth wants a capita
 The creation of new wealth wholly depends on the prospective yield of the new wealth reaching the standard set by the current interest rate*.
 - The prospective yield of the marginal new investment is not increased by someone wanting to increase his wealth. This is because the prospective yield of the marginal new investment depends on the expectation of a demand<!--  for a specific article at a specific date -->. 
 
-> *Superphysics Note: Here Keynes imposes investmetns to mean money-investments  
+{{< n n="Here Keynes imposes investments to mean money-investments" >}}
 
 
 I impose that the owner of wealth wants <!--  is not a given prospective yield but --> the best available prospective yield. 
@@ -97,7 +98,9 @@ An asset's scarcity gives it a higher <!--  offers a prospect of yielding during
 If capital becomes less scarce, the excess yield will diminish. Yet it will stay as productive at least in the physical sense*.
 
 
-> *Superhysics Note: Here, Keynes applies sophistry. If everyone has access to a capital equipment, then the old capital equipment will not be used as much, rendering it less productive per equipment-unit. For example, 4G in mobile phones has made wifi routers unnecessary and therefore less productive to the eyes of society. 
+{{< n n="Here, Keynes applies sophistry. If everyone has access to a capital equipment, then the old capital equipment will not be used as much, rendering it less productive per equipment-unit. For example, 4G in mobile phones has made wifi routers unnecessary and therefore less productive to the eyes of society." >}}
+
+
 
 
 
@@ -109,10 +112,8 @@ We should <!-- It is preferable to --> regard labour*, including, of course, the
 - capital equipment
 - effective demand. 
 
-> *Superphysics Note: Here, Keynes makes land and stock subservient to labor, different from the Classical notion that puts all three as equal. Under Keynes' reasoning, money can be eased as to employ humans to make Antartica or the Sahara productive. This is absurd.   
+
+{{< n n="Here, Keynes makes land and stock subservient to labor, different from the Classical notion that puts all three as equal. Under Keynes' reasoning, money can be eased as to employ humans to make Antartica or the Sahara productive. This is absurd." >}}
 
 
 This is why I used the unit of labour [common-labour] as the sole physical unit needed in my economic system, apart from units of money [money-wage] and time [hour]. 
-
-
-

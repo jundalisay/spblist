@@ -308,7 +308,16 @@
   transition-duration:2s;
 }
 
-
+blockquote {
+  font-weight: 700;
+  font-size: 1.4rem;
+  line-height: 1.1;
+  font-style: normal !important;
+  word-break: break-word;
+/*  background-color: silver !important;*/
+/*  color: darkcyan !important;*/
+/*  font-color: seagreen;*/
+}
 
 .box {
   border-radius: 6px;

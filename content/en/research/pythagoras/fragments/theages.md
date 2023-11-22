@@ -35,7 +35,7 @@ But the virtue of the whole soul is justice*. Men become bad either through:
 - a natural ferocity.
 
 
-> *Superphysics Note: We translate this as dharma and not justice
+{{< n n="We translate this as dharma and not justice" >}}
 
 
 But they injure each other, either through:

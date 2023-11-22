@@ -217,7 +217,7 @@ These merchants do not submit to slavery. They cannot tyrannize others like the 
 The lower house of parliament owes its chief influence to the encrease of commerce which threw the balance of property into the hands of the commons*. 
 
 
-> *Superphysics Note: Hume blames the fall of liberty to the imbalance of the 4 classes 
+{{< n n="Hume blames the fall of liberty to the imbalance of the 4 classes " >}}
 
 It is therefore wrong to violently blame the refinement in the arts for the fall of liberty and public spirit!
 

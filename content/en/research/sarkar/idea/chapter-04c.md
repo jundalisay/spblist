@@ -94,7 +94,7 @@ Within the scope of these propensities lies the seed of saḿskár.
   - The exhaustion of all the previous momentum accumulated by the mind due to its previous journeys in Brahma Cakra is called mokśa, the union with the Transcendentality.
 
 
-> *Superphysics note: We implement the 50 propensities as the lines (travel, marriage, venus, etc). <!-- 7 + 3 dimensions multiplied by 5 layers. --> The "2" is the change from past to present. The "10" is the dominant 7 mounts and 3 lines. 
+{{< n n="We implement the 50 propensities as the lines (travel, marriage, venus, etc). <!-- 7 + 3 dimensions multiplied by 5 layers. --> The 2 is the change from past to present. The 10 is the dominant 7 mounts and 3 lines. " >}}
 
 
 30 May 1959

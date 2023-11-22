@@ -81,7 +81,7 @@ It should be a ratio since it is relative to the rate of interest.
 
 Yet it is not usually clear what the two terms of the ratio should be*.
 
-> *Superphysics note: We solve this with our Supereconomic ratios
+{{< n n="We solve this with our Supereconomic ratios" >}}
 
 
 ### Ambiguity 3:

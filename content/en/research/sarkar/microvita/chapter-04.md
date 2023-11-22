@@ -11,7 +11,7 @@ draft: true
 ---
 
 
-> *Superphysics Note: We have removed this because it has nothing to do with microvita
+{{< n n="We have removed this because it has nothing to do with microvita" >}}
 
 
 Human longings are expressed through different lateral directions of so many waves, and of so many aspirations, hopes and longings. 

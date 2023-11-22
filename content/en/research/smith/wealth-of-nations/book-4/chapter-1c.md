@@ -46,7 +46,7 @@ Increasing the wealth of any country by introducing or detaining an unnecessary 
 Likewise, the expence of buying an unnecessary quantity of gold and silver reduces the wealth which feeds, clothes, lodges, maintains, and employs the people in every country*.
 
 
-> *Superphysics Note: This is why the increase in the market size, capitalization, and employment in the financial industry during a country's boom times necessarily makes the country insensibly poorer, culminating in a bust or downturn   
+{{< n n="This is why the increase in the market size, capitalization, and employment in the financial industry during a country's boom times necessarily makes the country insensibly poorer, culminating in a bust or downturn" >}}
 
 
 **It must be remembered that gold and silver, whether in coin or plate, are utensils like the utensils of the kitchen.**
@@ -61,7 +61,7 @@ If gold and silver were accumulated beyond the amount needed, no law could preve
 {{< s v="20" >}} It is not always necessary to accumulate gold and silver to carry on foreign wars and maintain fleets and armies in distant countries.
 - Fleets and armies are maintained with consumable goods, not with gold and silver*.
 
-> *Superphysics Note: This is why the financial sanctions against Russia invading Ukraine does little to limit Russia's ability to continue that war
+{{< n n="This is why the financial sanctions against Russia invading Ukraine does little to limit Russia's ability to continue that war" >}}
 
 
 The nation which has more than sufficient domestic industry can maintain foreign wars in distant countries because it has the means to buy consumable goods in those distant countries.

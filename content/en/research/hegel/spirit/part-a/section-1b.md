@@ -56,7 +56,7 @@ It exists in a two-fold form* as:
 - the Now
 - the Here
 
-> *Superphysics Note: From starting with the aethereal consciousness, Hegel's reasoning goes to the spacetime 'here' and 'now'. 
+{{< n n="From starting with the aethereal consciousness, Hegel's reasoning goes to the spacetime 'here' and 'now'." >}}
 
 Its dialectic will take a form as intelligible as the This-perception itself.
 
@@ -87,7 +87,7 @@ This self-maintaining Now is therefore not something immediate but something med
   - It is not at all affected by this otherness, as either night or day
   <!-- , through which it is what it is.  -->
 
-> *Superphysics Note: Because of spacetime, perceptions are now split into Universal and Instances of the Universal. This matches David Hume's entity within an entity or citizens within a Republic. 
+{{< n n="Because of spacetime, perceptions are now split into Universal and Instances of the Universal. This matches David Hume's entity within an entity or citizens within a Republic." >}}
 
 
 A 'Universal Idea' is a simple entity of this sort. 

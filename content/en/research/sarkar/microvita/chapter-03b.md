@@ -134,7 +134,7 @@ With the help of non-carbonic pabula they will sharpen their psychic penetration
 
 With the help of microvita, they will be able to powder down their ectoplasms [lover minds] and transform them into cognitive faculto-factors*.
 
-> *Superphysics Note: The lower mind becomes more like the higher mind in detection abilities
+{{< n n="The lower mind becomes more like the higher mind in detection abilities" >}}
 
 
 The majority of people today do not know the technique of using microvita. 

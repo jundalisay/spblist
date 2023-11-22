@@ -54,14 +54,16 @@ Free-trade economists address these controversies without looking into the theor
 The Mercantilist doctrine has some scientific truth*.
 - Its claimed advantages are national advantages and not global ones.
 
-> *Superphysics note: This is consistent with Keynes enshrining liquidity preference just as merchants love money
+
+{{< n n="This is consistent with Keynes enshrining liquidity preference just as merchants love money" >}}
 
 
 When a country is growing rapidly in wealth, this growth can be interrupted<!-- , in conditions of laissez-faire, --> by the insufficiency of the incentives to new investment. 
 - The well-being of a progressive state essentially depends on <!-- , for the reasons we have already explained, on the sufficiency of --> such inducements*.
 
 
-> *Superphysics note: In Classical economics, incentives are only given to difficult industries, like research and overseas expansion
+
+{{< n n="In Classical economics, incentives are only given to difficult industries, like research and overseas expansion" >}}
 
 <!-- Given the social and political environment and the national characteristics which determine the propensity to consume,  -->
 
@@ -126,7 +128,11 @@ We, the faculty of economists, are guilty of presumptuous error in treating as a
 
 Under the influence of this faulty theory the City of London gradually devised the most dangerous technique for the maintenance of equilibrium which can possibly be imagined, namely, the technique of bank rate coupled with a rigid parity of the foreign exchanges. 
 
-This meant that the objective of maintaining a domestic rate of interest consistent with full employment was wholly ruled out. Since, in practice, it is impossible to neglect the balance of payments, a means of controlling it was evolved which, instead of protecting the domestic rate of interest, sacrificed it to the operation of blind forces. Recently, practical bankers in London have learnt much, and one can almost hope that in Great Britain the technique of bank rate will never be used again to protect the foreign balance in conditions in which it is likely to cause unemployment at home. Regarded as the theory of the individual firm and of the distribution of the product resulting from the employment of a given quantity of resources, the classical theory has made a contribution to economic thinking which cannot be impugned. 
+This meant that the objective of maintaining a domestic rate of interest consistent with full employment was wholly ruled out. Since, in practice, it is impossible to neglect the balance of payments, a means of controlling it was evolved which, instead of protecting the domestic rate of interest, sacrificed it to the operation of blind forces. 
+
+Recently, practical bankers in London have learnt much, and one can almost hope that in Great Britain the technique of bank rate will never be used again to protect the foreign balance in conditions in which it is likely to cause unemployment at home. 
+
+Regarded as the theory of the individual firm and of the distribution of the product resulting from the employment of a given quantity of resources, the classical theory has made a contribution to economic thinking which cannot be impugned. 
 
 It is impossible to think clearly on the subject without this theory as a part of one’s apparatus of thought. I must not be supposed to question this in calling attention to their neglect of what was valuable in their predecessors. 
 

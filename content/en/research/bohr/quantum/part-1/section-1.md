@@ -18,7 +18,7 @@ Consequently, any change of the energy of the system, including emission and abs
 
 These states will be denoted as the “stationary states” of the system.*
 
-> *Superphysics Note: Quantum theory is in line with Descartes' Physics which is based on states
+{{< n n="Quantum theory is in line with Descartes' Physics which is based on states" >}}
 
 
 2. The radiation absorbed or emitted during a transition between 2 stationary states is “unifrequentic” and possesses a frequency `ν`, given by the relation: 
@@ -68,7 +68,8 @@ We assume that it is possible to describe the motion in the stationary states, b
 
 We shall calculate the motions of the particles in the stationary states as the motions of mass-points according to ordinary mechanics including the modifications claimed by Relativity.*
 
-> *Superphysics note: The main error of Bohr is to use mechanics and Relativity for describing state-change. In reality, the forces that lead to quantum effects do not obey mechanics (matter) nor Relativity (electromagnetism) completely since the forces are aether-based. 
+
+{{< n n="The main error of Bohr is to use mechanics and Relativity for describing state-change. In reality, the forces that lead to quantum effects do not obey mechanics (matter) nor Relativity (electromagnetism) completely since the forces are aether-based." >}}
 
 
 <!-- We shall later in the discussion of the special applications come back to the question of the degree of approximation which may be obtained in this way.  -->

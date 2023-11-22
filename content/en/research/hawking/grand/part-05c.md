@@ -41,9 +41,7 @@ Einstein showed that, like the concept of rest, time cannot be absolute, as Newt
 
 In other words, it is not possible to assign to every event a time with which every observer will agree.
 
-Instead, all observers have their own measures of time, and the times measured by two observers who are moving relative to each other will not agree*. 
-
-> *Superphysics Note: 
+Instead, all observers have their own measures of time, and the times measured by two observers who are moving relative to each other will not agree. 
 
 
 Einstein’s ideas go counter to our intuition because their implications aren’t noticeable at the speeds we normally encounter in everyday life.

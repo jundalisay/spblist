@@ -35,7 +35,8 @@ The force acting on himself, and in fact on all other bodies which are at rest r
 The space-distribution of this gravitational field is of a kind that would not be possible on Newton’s theory of gravitation*.
 
 
-> *Einstein Note: The field disappears at the centre of the disc and increases proportionally to the distance from the centre as we proceed outwards.
+
+{{< f f="*Einstein Note: The field disappears at the centre of the disc and increases proportionally to the distance from the centre as we proceed outwards." >}}
 
 
 But since the observer believes in GR, he believes that a general law of gravitation can be formulated — a law which not only explains the motion of the stars correctly, but also the field of force experienced by himself.
@@ -75,7 +76,7 @@ On the other hand, the measuring-rod will not experience a shortening in length,
 If, then, the observer first measures the circumference of the disc with his measuring-rod and then the diameter of the disc, on dividing the one by the other, he will not obtain as quotient the familiar number `π = 3.14..`, but a larger number*, whereas of course, for a disc which is at rest with respect to `K`, this operation would yield π exactly. 
 
 
-> *Einstein Note: We have to use the Galileian (non-rotating) system `K` as reference-body, since we may only assume the validity of the results of Special Relativity relative to `K` (relative to `K'` a gravitational field prevails).
+{{< f f="*Einstein Note: We have to use the Galileian (non-rotating) system `K` as reference-body, since we may only assume the validity of the results of Special Relativity relative to `K` (relative to `K'` a gravitational field prevails)." >}}
 
 
 This proves that Euclidean geometry cannot hold exactly on the rotating disc, nor in general in a gravitational field, at least if we attribute the length 1 to the rod in all positions and in every orientation. Hence the idea of a straight line also loses its meaning. 

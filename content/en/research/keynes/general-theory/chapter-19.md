@@ -91,7 +91,7 @@ But if the classical theory is not allowed to extend its conclusions of a specif
 - This is because it has no method of analysis to tackle the problem*.
 
 
-> *Superphysics Note: Keynes keeps on emphasizing money-wages, when it is nearly irrelevant to Classical Economics. What is important is real wages. In reality, a reduction in money-wages does not normally happen. Instead, inflation eats up real wages as to make it shrink. Instead of reducing money-wages, employers delay payment or fire workers.  
+{{< n n="Keynes keeps on emphasizing money-wages, when it is nearly irrelevant to Classical Economics. What is important is real wages. In reality, a reduction in money-wages does not normally happen. Instead, inflation eats up real wages as to make it shrink. Instead of reducing money-wages, employers delay payment or fire workers." >}}
 
 
 Pigou’s Theory of Unemployment:

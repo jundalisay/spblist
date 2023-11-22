@@ -36,7 +36,7 @@ But it is unlikely that the propensity to save under full employment becomes sat
 - If <!-- , therefore, this more favourable possibility comes to the rescue, --> this happens, it will probably take effect <!-- , not just at the point --> when the interest rate is vanishing and <!-- , but at some previous point --> during the gradual decline of interest rate*.
 
 
-> *Superphysics Note: The failure of QE from 2009 blows this argument out of existence. Keynes' flaw is that he assumes that investments will just happen even at low interest rates because he forgets about profit maximization. 
+{{< n n="The failure of QE from 2009 blows this argument out of existence. Keynes' flaw is that he assumes that investments will just happen even at low interest rates because he forgets about profit maximization." >}}
 
 
 {{< c v="red" >}}
@@ -64,19 +64,19 @@ Under full employment, the interest rate cannot fall as fast as the fall of the 
 This means that even a diversion of the desire to hoard zero yield assets* will increase economic well-being.
 {{< /c >}}
 
-> *Superphysics Note: This is now the trend of real estate bubbles and 'dry powder' in money markets
+
+{{< n n="This is now the trend of real estate bubbles and 'dry powder' in money markets" >}}
 
 
 Millionaires find their satisfaction in building mighty mansions. Digging holes in the ground* paid by savings will increase employment and the real national dividend of useful goods and services.
 
-> *Superphyscs Note: This is now seen as bullshit jobs which increase employment quantity but reduces quality, while the non-working capital-owners increase their pleasures. Keynes is to blame for it.
+
+{{< n n="This is now seen as bullshit jobs which increase employment quantity but reduces quality, while the non-working capital-owners increase their pleasures. Keynes is to blame for it." >}}
 
 
 <!--  to contain their bodies when alive and pyramids to shelter them after death, or, repenting of their sins, erect cathedrals and endow monasteries or foreign missions, --> <!-- The day when abundance of capital will interfere with abundance of output may be postponed. “To dig holes in the ground,” paid for out of savings, -->  
 
 <!-- It is not reasonable, however, that a sensible community should be content to remain dependent on such fortuitous and often wasteful mitigations when once we understand the influences upon which effective demand depends. IV  -->
-
-
 
 
 Let us assume that:
@@ -90,7 +90,7 @@ This should bring down the marginal efficiency of capital in equilibrium approxi
 If I am right in imagining it to be easy to make capital-goods so abundant that the marginal efficiency of capital is zero, this would be the most sensible way of gradually getting rid of many of the objectionable features of capitalism*. 
 
 
-> *Superphysics Note: This is actually done by China as state capitalism which is able to flood the world with equipment and infrastructure.
+{{< n n="This is actually done by China as state capitalism which is able to flood the world with equipment and infrastructure." >}}
 
 
 For a little reflection will show what enormous social changes would result from a gradual disappearance of a rate of return on accumulated wealth.
@@ -102,7 +102,7 @@ A man would still be free to accumulate his earned income for spending it later.
 The rentier would disappear. There would still be room for enterprise and skill*. 
 
 
-> *Superphysics Note: This is also done by China which has a free market, but without the oligarch rent-seekers
+{{< n n="This is also done by China which has a free market, but without the oligarch rent-seekers" >}}
 
 
 <!--  in the estimation of prospective yields about which opinions could differ. For the above relates primarily to the pure rate of interest apart from any allowance for risk and the like, and not to the gross yield of assets including the return in respect of risk. Thus unless the pure rate of interest were to be held at a negative figure, there would still be a positive yield to skilled investment in individual assets having a doubtful prospective yield. Provided there was some measurable unwillingness to undertake risk, there would also be a positive net yield from the aggregate of such assets over a period of time. But it is not unlikely that, in such circumstances, the eagerness to obtain a yield from doubtful investments might be such that they would show in the aggregate a negative net yield. --> 

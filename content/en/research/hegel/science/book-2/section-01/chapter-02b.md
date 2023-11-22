@@ -8,7 +8,7 @@ icon: /avatars/hegel.png
 image: /covers/science.png
 ---
 
-> *Superphysics Note: We replace 'being' with existence and 'instance' with time. 
+{{< n n="We replace 'being' with existence and 'instance' with time." >}}
 
 
 § 869

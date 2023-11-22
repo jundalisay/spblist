@@ -81,7 +81,7 @@ The avowed mystics held the arbitrary, unaccountable “will of God” as the st
 The neomystics replaced it with “the good of society”*. Thus they collapsed the definition such as “the standard of the good is that which is good for society” into circularity.
 
 
-> *Superphysics Note: This is our definition too. It is based on feelings which cam be objectively surveyed and analyzed through time. This is similar to the votes in a presidential election which always comes up with an objective result. This means if Mr. X won as President then he represents the will and the good of society.  
+{{< n n="This is our definition too. It is based on feelings which cam be objectively surveyed and analyzed through time. This is similar to the votes in a presidential election which always comes up with an objective result. This means if Mr. X won as President then he represents the will and the good of society." >}}
 
 
 This meant that “society” stands above any principles of ethics, since:

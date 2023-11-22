@@ -215,7 +215,7 @@ We do not know the truth about ancient times, so we turn lies into truth as much
 
 ## Second Quality of God: God Does Not Give True Lies*
 
-> *Superphysics Note: This is called Satya in Hinduism and Buddhism
+{{< n n="This is called Satya in Hinduism and Buddhism" >}}
 
 
 {{< l a="Socrates" >}}

@@ -15,7 +15,8 @@ The comets that are not in the sun's territory send less rays towards the Earth 
 <!-- - This is true even for those that are ready to enter it. -->
 - Consequently, such comets cannot be seen unless their size is extraordinary*.
 
-> *Superphysics note: This is why supernovae are used as standard candles for measuring the expansion of the universe
+
+{{< n n="This is why supernovae are used as standard candles for measuring the expansion of the universe" >}}
 
 
 This is because most of the rays that the sun sends to them to reveal them are dissipated by the refraction that they undergo at the edge of that boundary.
@@ -44,8 +45,6 @@ But they should bend greatly in returning from the comet toward the earth, so th
 This can happen when the comet is still far from the sun's territory.
 - If it were close to the sun's territory, it would cause that territory's edge to curve inward.
 
-<!-- > *Superphysics note: This is the same as the bending of Einstein's spacetime fabric -->
-
 
 Its far distance also impedes it from receiving as many rays as when it is ready to enter the sun's territory.
 - That comet receives rays from the star at the center of the gravitational territory containing it.
@@ -54,7 +53,7 @@ Its far distance also impedes it from receiving as many rays as when it is ready
 Those comets possess a certain refraction of their rays.
 - This is why some of them appear around the comets as a tail or a curl*. 
 
-> *Translator's Note: In the Assayer (trans. Drake in Drake and O’Malley, Controversy (see n.45), 190), Galileo describes the phenomenon as a “curl” [chioma]. Descartes’ term is chevelure, which literally means “head of hair”
+{{< n n="*Translator's Note: In the Assayer (trans. Drake in Drake and O’Malley, Controversy (see n.45), 190), Galileo describes the phenomenon as a 'curl' [chioma]. Descartes’ term is chevelure, which literally means 'head of hair'" >}}
 
 
 {{< img src="/graphics/physics/world15c.gif" alt="Comets" cap="" >}}

@@ -50,7 +50,7 @@ These passions are much more steady in their operation and much more universal i
 - The affluence of the rich excites the indignation of the poor.
 - The poor are often driven by want and prompted by envy to invade his possessions.
 
-> *Superphysics note: This is seen in monkey behavior where monkeys get jealous of monkeys that eat better. This is a sign of the development of ego.
+{{< n n="This is seen in monkey behavior where monkeys get jealous of monkeys that eat better. This is a sign of the development of ego." >}}
 
 
 

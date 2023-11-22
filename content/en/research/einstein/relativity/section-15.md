@@ -18,7 +18,8 @@ Special Relativity grew out of electrodynamics and optics. It has considerably s
 - considerably reduced the number of independent hypotheses which form the basis of theory
   - This is much more important
 
-> *Superphysics Note: We argue that relativity, through Einstein's field equations, actually made Physics unecessarily complicated
+
+{{< n n="We argue that relativity, through Einstein's field equations, actually made Physics unecessarily complicated" >}}
 
 
 
@@ -29,7 +30,7 @@ Examples are the motions of electrons and ions. For slower motions*, the variati
 
 ![Einstein Con-man](/icons/einbla.png)
 
-> *Superphysics Note: Here, Einstein says his theory only works for fast-moving objects. This is false. In reality, it only works for electromagnetic particles. **Speed has nothing to do with it.** This is proven by the Aharonov-Bohm experiment. Instead, it is the Layer or Element of the particle that decides whether it follows Special Relativity or not. Fast speed or dynamism is a property of Electromagnetism just as slow speed or staticity is a property of the Strong Force.
+{{< n n="Here, Einstein says his theory only works for fast-moving objects. This is false. In reality, it only works for electromagnetic particles. **Speed has nothing to do with it.** This is proven by the Aharonov-Bohm experiment. Instead, it is the Layer or Element of the particle that decides whether it follows Special Relativity or not. Fast speed or dynamism is a property of Electromagnetism just as slow speed or staticity is a property of the Strong Force." >}}
 
 
 
@@ -48,7 +49,8 @@ mc2 / √ (1-(v2/c2))
 This expression approaches infinity as the velocity `v` approaches the velocity of light `c`*.  The velocity must therefore always remain less than `c`. <!-- , however great may be the energies used to produce the acceleration.  -->
 
 
-> *Superphysics Note: Here, Einstein imposes c as the supreme judge of all movemements. Newton sourced all movement from "Lord God" (Principia, Book 3). But Einstein sourced all movement from spacetime which is then evidenced by light. But spacetime is based on imagination and so Einstein's god of motion is really his own imagination using the language of math. This leads to arbitrary shapes of the universe in Section 32.
+
+{{< n n="Here, Einstein imposes c as the supreme judge of all movemements. Newton sourced all movement from 'Lord God' (Principia, Book 3). But Einstein sourced all movement from spacetime which is then evidenced by light. But spacetime is based on imagination and so Einstein's god of motion is really his own imagination using the language of math. This leads to arbitrary shapes of the universe in Section 32." >}}
 
 
 
@@ -69,7 +71,8 @@ Special Relativity is important because it changes our concept of mass. Before R
 
 These two fundamental laws appeared independent of each other. Relativity unites them into one law*. 
 
-> *Superphysics Note: This is why the word 'mass' is now used for both inertial mass of the Strong Force (Newtonian) measured in grams, and electromagnetic mass of quantum particles measured in electron volts. We fix this by renaming electromagnetic mass as electromagentic potential. In this way, a photon is not a massless particle, but a kinetic particle (non-potential).   
+
+{{< n n="This is why the word 'mass' is now used for both inertial mass of the Strong Force (Newtonian) measured in grams, and electromagnetic mass of quantum particles measured in electron volts. We fix this by renaming electromagnetic mass as electromagentic potential. In this way, a photon is not a massless particle, but a kinetic particle (non-potential)." >}}
 
 
 
@@ -120,7 +123,7 @@ The expression for the energy is:
 
 Here, `mc2` is nothing but the energy possessed by the body* before it absorbed the energy `E0`.
 
-> *As judged from a co-ordinate system moving with the body.
+{{< f f="*As judged from a co-ordinate system moving with the body." >}}
 
 
 A direct comparison of this relation with experiment is not possible now because the changes in energy `E0` to which we can subject a system are not large enough to make themselves perceptible as a change in the inertial mass of the system.

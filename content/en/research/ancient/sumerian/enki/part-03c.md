@@ -96,7 +96,7 @@ She is to be the mistress of heaven. She is to stand beside An and speak to him 
 
 She is to carry off her big flint antasura blade. She is to be the metal-worker of the Land.*
 
-> *Superphysics Note: This is to atomize the gold
+{{< n n="This is to atomize the gold" >}}
 
 
 The fitting of the good diadem when a king is born and the crowning with the crown when a lord is born are to be in her hands."

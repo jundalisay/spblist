@@ -50,14 +50,14 @@ Copper sulphate (blue vitriol) is CUS04 5H20.
 
 After the theory of microvita is well established, a chemist will use the new formula – CUS04 5H20 (Group B MV 20 million)*.
 
-> *Superphysics Note: Microvita here has quality (as qualitative differences between varities, as Group B) and quantity (as millions)
+{{< n n="Microvita here has quality (as qualitative differences between varities, as Group B) and quantity (as millions)" >}}
 
 
 This means the chemical formulae regarding the inner structure of objects is undergoing a tremendous change. 
 
 **The size of formulae will be bigger than what they are today.** *
 
-> *Superphysics Note: Our qualimath has the scope for such increased formulas because it allows the notation of qualities 
+{{< n n="Our qualimath has the scope for such increased formulas because it allows the notation of qualities " >}}
 
 
 But the denomination of the object and its internal qualities will not be changed. 

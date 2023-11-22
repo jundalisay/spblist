@@ -24,7 +24,8 @@ The expression of the value of a commodity in gold — x commodity A = y money-c
 
 1 ton of iron = 2 ounces of gold expresses the value of iron to society. We do not need this equation to be linked in the chain of equations* that express the values of all other commodities because gold now has the character of money. 
 
-> *Superphysics note:  This is fundamentally different from the Economic Table of the Physiocrats which traces the chain of values of any commodity
+
+{{< n n="This is fundamentally different from the Economic Table of the Physiocrats which traces the chain of values of any commodity" >}}
 
 
 <!-- The general form of relative value has resumed its original shape of simple or isolated relative value. On the other hand, the expanded expression of relative value, the endless series of equations, has now become the form peculiar to the relative value of the money-commodity. The series itself, too, is now given, and has social recognition in the prices of actual commodities. We have only to read the quotations of a price-list backwards, to find the magnitude of the value of money expressed in all sorts of commodities. -->
@@ -32,7 +33,7 @@ The expression of the value of a commodity in gold — x commodity A = y money-c
 Money itself has no price. It is equated to itself as its own equivalent*.
 
 
-> *Superphysics note: Here Marx enshrines money as having an endogenous abstract value. This is opposite of Smith, Hume, and Socrates where the value of money is in social utility (non-arbitrary). Therefore, Marx' value is based on personal valuation of personal labor (arbitrary)
+{{< n n="Here Marx enshrines money as having an endogenous abstract value. This is opposite of Smith, Hume, and Socrates where the value of money is in social utility (non-arbitrary). Therefore, Marx' value is based on personal valuation of personal labor (arbitrary)" >}}
 
 
 The price or money-form of commodities is a purely ideal or mental form. These ideals are made perceptible by their equality with gold, a mental relation. 
@@ -154,7 +155,9 @@ Price, like relative value in general, expresses the value of a commodity (e.g.,
 
 But it by no means states the converse, that iron is directly exchangeable for gold. In order, therefore, that a commodity may in practice act effectively as exchange-value, it must quit its bodily shape, must transform itself from mere imaginary into real gold, although to the commodity such transubstantiation may be more difficult than to the Hegelian “concept,” the transition from “necessity” to “freedom,” or to a lobster the casting of his shell, or to Saint Jerome the putting off of the old Adam. [15] 
 
-Though a commodity may, side by side with its actual form (iron, for instance), take in our imagination the form of gold, yet it cannot at one and the same time actually be both iron and gold. To fix its price, it suffices to equate it to gold in imagination. But to enable it to render to its owner the service of a universal equivalent, it must be actually replaced by gold. If the owner of the iron were to go to the owner of some other commodity offered for exchange, and were to refer him to the price of the iron as proof that it was already money, he would get the same answer as St. Peter gave in heaven to Dante, when the latter recited the creed —
+Though a commodity may, side by side with its actual form (iron, for instance), take in our imagination the form of gold, yet it cannot at one and the same time actually be both iron and gold. To fix its price, it suffices to equate it to gold in imagination. 
+
+But to enable it to render to its owner the service of a universal equivalent, it must be actually replaced by gold. If the owner of the iron were to go to the owner of some other commodity offered for exchange, and were to refer him to the price of the iron as proof that it was already money, he would get the same answer as St. Peter gave in heaven to Dante, when the latter recited the creed —
 
 “Assai bene è trascorsa d’esta moneta già la lega e ’l peso, ma dimmi se tu l’hai ne la tua borsa.”
 
@@ -349,10 +352,4 @@ Total £1,000,000  Total £1,000,000
 
 66. “What money is more than of absolute necessity for a Home Trade, is dead stock ... and brings no profit to that country it’s kept in, but as it is transported in trade, as well as imported.” (John Bellers, “Essays,” p. 13.) “What if we have too much coin? We may melt down the heaviest and turn it into the splendour of plate, vessels or utensils of gold or silver, or send it out as a commodity, where the same is wanted or desired; or let it out at interest, where interest is high.” (W. Petty=  “Quantulumcunque,” p. 39.) “Money is but the fat of the Body Politick, whereof too much doth as often hinder its agility, as too little makes it sick ... as fat lubricates the motion of the muscles, feeds in want of victuals, fills up the uneven cavities, and beautifies the body; so doth money in the state quicken its action, feeds from abroad in time of dearth at home, evens accounts ... and beautifies the whole; altho more especially the particular persons that have it in plenty.” (W. Petty, “Political Anatomy of Ireland,” p. 14.)
 
-Transcribed by Zodiac
-Html Markup by Stephen Baird (1999)
-
-Next=  Chapter Four=  The General Formula for Capital
-
-Capital Volume One - Index
  -->

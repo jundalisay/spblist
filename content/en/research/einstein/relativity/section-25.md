@@ -63,7 +63,8 @@ So far, these considerations hold for a continuum of 2D.
 
 The Gaussian method can also be applied to a continuum of 3 or more dimensions. A 4D continuum is reprsented by the following.*
 
-> *Supeprhysics Note: In Cartesian Physics, a 3D Gaussian Continuum is a 3D Euclidean Continuum that is based on the 1st Element (Electromagnetism) 
+
+{{< n n="In Cartesian Physics, a 3D Gaussian Continuum is a 3D Euclidean Continuum that is based on the 1st Element (Electromagnetism)" >}}
 
 
 Each point of the continuum has 4 arbitrary numbers `x1 , x2 , x3 , x4` as “co-ordinates.” Adjacent points correspond to adjacent values of the co-ordinates. 
@@ -90,7 +91,10 @@ However, the Gauss treatment for `ds^2` which we have given above is not always 
 
 An example is when the marble slab is heated from the center. The temperature is constant for a small part of the slab [on the sides]*. Thus, the geometrical behaviour of the rods follows the rules of Euclidean geometry.
 
-> *Superhysics Note: This is referring to the marble in the previous chapter. 
+
+
+
+{{< n n="This is referring to the marble in the previous chapter." >}}
 
 
 Hence, the imperfection of the squares in Section 24 are not evident until this construction is extended over a considerable portion of the table's surface.
@@ -106,9 +110,7 @@ The Gaussian co-ordinate system is a logical generalisation of the Cartesian co-
 It is also applicable to non-Euclidean continua only when the small parts (in terms of size or distance) of the continuum behave more nearly like a Euclidean system, emphasizing the smaller the part of the continuum.
 
 
-{{< box >}}
-**Update April 2024**
+{{< u d="April 2024" u="Added graphic" >}}
 
-Added graphic
+
 <!-- Changed the heating marble slab into the original.  -->
-{{< /box >}}

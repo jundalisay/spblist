@@ -12,7 +12,7 @@ weight: 28
 
 {{< s v='139' >}} The interplay of the 2 forces in this way arises from and consists in the 2 being thus determined with opposite characteristics*.
 
-> *Superphysics Note: This is Shiva and Shakti in Hinduism, and Yang and Yin in Taoism. In Superphysics, we call it the Positive and Negative Forces. 
+{{< n n="This is Shiva and Shakti in Hinduism, and Yang and Yin in Taoism. In Superphysics, we call it the Positive and Negative Forces." >}}
 
 
 It is in their being for one another in virtue of this determination and in the complete and exchange of their characteristics – a transition direct from one to the other, whereby alone these determinations, in which the forces seem to appear independently, have being. 

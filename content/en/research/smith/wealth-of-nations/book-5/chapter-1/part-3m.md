@@ -27,7 +27,7 @@ It had a successful business for many years despite some extraordinary losses ca
 But in time, when the principles of liberty were better understood, it became more doubtful how far a Royal Charter, not confirmed by act of parliament, could convey an exclusive privilege*.
 
 
-> *Superphysics Note: Without parliament, the company would lose to smaller private competitors 
+{{< n n="Without parliament, the company would lose to smaller private competitors " >}}
 
 
 The decisions of the courts of justice on this question were not uniform. They varied with: 
@@ -39,13 +39,13 @@ Interlopers multiplied on the company. From the end of Charles 2nd's reign in 16
 In 1698, a proposal was made to parliament to <!-- advance --> loan £2 million to government at 8%, provided the subscribers were collected into a new East India Company with exclusive privileges*.
 
 
-> *Superphysics Note: Here, the investors wanted guaranteed profits by eliminating private businesses
+{{< n n="Here, the investors wanted guaranteed profits by eliminating private businesses" >}}
 
 
 The old East India Company offered £700,000, nearly the amount of their capital, at 4% on the same conditions.
 - Public credit was such in a bad state, that it was more convenient for government to borrow £2 million at 8%* than £700,000 at 4%.
 
-> *Superphysics Note: This is the similar condition of poor countries in 2015 getting Chinese debt
+{{< n n="This is the similar condition of poor countries in 2015 getting Chinese debt" >}}
 
 
 The proposal<!--  of the new subscribers --> was accepted and a new East India Company established.

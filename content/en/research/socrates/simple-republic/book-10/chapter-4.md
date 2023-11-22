@@ -53,7 +53,7 @@ The summary of the long story is that Er said that for every wrong which they ha
 - The penalty being thus paid 10 times in 1,000 years.
 {{< /l >}}
 
-> *Superphysics Note: This is the concept of karma in Hinduism
+{{< n n="This is the concept of karma in Hinduism" >}}
 
 
 

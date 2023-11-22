@@ -28,8 +28,6 @@ This is because:
 - only the air-aether keeps the Earth where it is. 
 - the air `5678` and the water `1234` surrounding this earth are liquid* bodies.
 
-<!-- > *Superphysics Note: This is the water-aether or the Reactive Layer in Superphysics -->
-<!-- For nothing but the course alone of the matter of that heaven maintains the earth in the place where it is. And, because  -->
 
 This same force that presses the earth also make the Earth's liquids sink toward `T` from the side `6, 2` and also from its opposite `8, 4`
 - To compensate, they rise in `5, 1` and `7, 3`.

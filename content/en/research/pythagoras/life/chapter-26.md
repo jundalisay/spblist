@@ -33,7 +33,7 @@ By various experiments, he found that the difference of sound arose from **the m
 - the transposition of the iron which was beaten.
 
 
-> *Superphysics Note: We interpret magnitude as density. 
+{{< n n="We interpret magnitude as density." >}}
 
 
 He accurately examined the weights and the equal counterpoise of the hammers. 

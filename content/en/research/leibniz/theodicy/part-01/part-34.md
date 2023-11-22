@@ -156,7 +156,7 @@ This is therefore not a defect where God and the saints are concerned: on the co
 
 We cannot be sensible of our independence*. We are not aware always of the causes, often imperceptible, whereon our resolution depends.
 
-> *Superphysics note: Leibniz says this because he has never had samadhi, whereas Descartes has
+{{< n n="Leibniz says this because he has never had samadhi, whereas Descartes has" >}}
 
 
 It is as though the magnetic needle took pleasure in turning towards the north: for it would think that it was turning independently of any other cause, not being aware of the imperceptible [151]movements of the magnetic matter. 

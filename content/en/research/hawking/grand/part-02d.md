@@ -13,7 +13,7 @@ If nature is governed by laws, 3 questions arise:
 2. Are there any exceptions to the laws, i.e., miracles?
 3. Is there only one set of possible laws?
 
-> *Superphysics Note: 1. Nirguna Brahma, 2. None. Miracles are achieved by people who have 6 senses instead of 5, 3. All universes in the multiverse has variations of the laws. 
+{{< n n="1. Nirguna Brahma, 2. None. Miracles are achieved by people who have 6 senses instead of 5, 3. All universes in the multiverse has variations of the laws. " >}}
 
 
 

@@ -38,7 +38,7 @@ Acts without justifiable cause that do harm to others might come from <!-- , may
 
 
 
-> *Superphysics note: Mill promotes the free circulation of hurtful ideas not knowing that those hurtful ideas lead to hurtful actions that he is against. So in effect, he is promoting something that he doesn't like.  
+{{< n n="Mill promotes the free circulation of hurtful ideas not knowing that those hurtful ideas lead to hurtful actions that he is against. So in effect, he is promoting something that he doesn't like. " >}} 
 
 
 Thus, the liberty of the individual must be limited. He must not make himself a nuisance to other people. 
@@ -48,7 +48,7 @@ But this contradicts the rule of letting opinions be free.
 The imperfection of mankind leads to the need for different opinions. This means that there should be different experiments of living. {{< color color="red" val="Free scope should be given to varieties of character, short of injury to others. The worth of different modes of life should be proved practically, when any one thinks fit to try them.*" >}}
 
 
-> *Superphysics Note: Here, Mill encourages inequality
+{{< n n="Here, Mill encourages inequality" >}}
 
 
 
@@ -63,7 +63,7 @@ The greatest difficulty with this principle is the indifference of persons to th
 Liberty would not be undervalued if individuality were enshrined as one of the leading essentials of well-being. {{< color color="red" val="It would make the adjustment of the boundaries between individuality and social control easier*." >}}
 
 
-> *Superphysics Note: This is disproven by the high incidence of mass shootings and race riots in the US
+{{< n n="This is disproven by the high incidence of mass shootings and race riots in the US" >}}
 
 
 
@@ -132,7 +132,7 @@ There is no natural connection between strong impulses and a weak conscience.  T
 {{< /c >}}
 
 
-> *Superphysics Note: Here, Mill shows his ignorance of the concept of the ego being the effect of the Negative Force.
+{{< n n="Here, Mill shows his ignorance of the concept of the ego being the effect of the Negative Force." >}}
 
 
 Person A's feelings are stronger and more various than those of Person B. He:
@@ -208,8 +208,12 @@ But if it be any part of religion to believe that man was made by a good being, 
 
 There is a different type of human excellence from the Calvinistic; a conception of humanity as having its nature bestowed on it for other purposes than merely to be abnegated. "Pagan self-assertion" is one of the elements of human worth, as well as "Christian self-denial."[12] There is a Greek ideal of self-development, which the Platonic and Christian ideal of self-government blends with, but does not supersede. It may be better to be a John Knox than an Alcibiades, but it is better to be a Pericles than either; nor would a Pericles, if we had one in these days, be without anything good which belonged to John Knox.
 
-It is not by wearing down into uniformity all that is individual in themselves, but by cultivating it and calling it forth, within the limits imposed by the rights and interests of others, that human beings become a noble and beautiful object of contemplation; and as the works partake the character of those who do them, by the same process human life also becomes rich, diversified, and animating, furnishing more abundant aliment to high thoughts and elevating feelings, and strengthening the tie which binds every individual to the race, by making the race infinitely better worth belonging to. In proportion to the development of his individuality, each person becomes more valuable to himself, and is therefore capable of being more valuable to others. There is a greater fulness of life about his own existence, and when there is more life in the units there is more in the mass which is composed of them. 
+It is not by wearing down into uniformity all that is individual in themselves, but by cultivating it and calling it forth, within the limits imposed by the rights and interests of others, that human beings become a noble and beautiful object of contemplation; and as the works partake the character of those who do them, by the same process human life also becomes rich, diversified, and animating, furnishing more abundant aliment to high thoughts and elevating feelings, and strengthening the tie which binds every individual to the race, by making the race infinitely better worth belonging to. 
+
+In proportion to the development of his individuality, each person becomes more valuable to himself, and is therefore capable of being more valuable to others. There is a greater fulness of life about his own existence, and when there is more life in the units there is more in the mass which is composed of them. 
 
 As much compression as is necessary to prevent the stronger specimens of human nature from encroaching on the rights of others, cannot be dispensed with; but for this there is ample compensation even in the point of view of human development. The means of development which the individual loses by being prevented from gratifying his inclinations to the injury of others, are chiefly obtained at the expense of the development of other people. 
 
-Even to himself there is a full equivalent in the better development of the social part of his nature, rendered possible by the restraint put upon the selfish part. To be held to rigid rules of justice for the sake of others, develops the feelings and capacities which have the good of others for their object. But to be restrained in things not affecting their good, by their mere displeasure, develops nothing valuable, except such force of character as may unfold itself in resisting the restraint. If acquiesced in, it dulls and blunts the whole nature. To give any fair-play to the nature of each, it is essential that different persons should be allowed to lead[Pg 119] different lives. In proportion as this latitude has been exercised in any age, has that age been noteworthy to posterity. Even despotism does not produce its worst effects, so long as Individuality exists under it; and whatever crushes individuality is despotism, by whatever name it may be called, and whether it professes to be enforcing the will of God or the injunctions of men.
+Even to himself there is a full equivalent in the better development of the social part of his nature, rendered possible by the restraint put upon the selfish part. To be held to rigid rules of justice for the sake of others, develops the feelings and capacities which have the good of others for their object. But to be restrained in things not affecting their good, by their mere displeasure, develops nothing valuable, except such force of character as may unfold itself in resisting the restraint. 
+
+If acquiesced in, it dulls and blunts the whole nature. To give any fair-play to the nature of each, it is essential that different persons should be allowed to lead[Pg 119] different lives. In proportion as this latitude has been exercised in any age, has that age been noteworthy to posterity. Even despotism does not produce its worst effects, so long as Individuality exists under it; and whatever crushes individuality is despotism, by whatever name it may be called, and whether it professes to be enforcing the will of God or the injunctions of men.

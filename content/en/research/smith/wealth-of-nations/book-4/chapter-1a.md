@@ -148,7 +148,7 @@ For example, if the exchange between England and Holland was 5% against England,
 {{< /q >}}
 
 
-> *Superphysics Note: Mun's assertion is now known as balance of payments deficit or surplus. This is only true because international barter trade is non-existent. Smith's assertions will be valid after an international barter trade system is established as to provide competition to the money system. This is what [Pantrypoints](https:/pantrypoints.com) is aiming for. 
+{{< n n="Mun's assertion is now known as balance of payments deficit or surplus. This is only true because international barter trade is non-existent. Smith's assertions will be valid after an international barter trade system is established as to provide competition to the money system. This is what [Pantrypoints](https:/pantrypoints.com) is aiming for. " >}}
 
 
 {{< s v="9" >}} **Those arguments were partly solid and partly sophistical.**

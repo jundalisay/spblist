@@ -57,7 +57,9 @@ The whole spindle has the same motion. But, as the whole revolves in one directi
 
 
 
-> *Superphysics Note: The image interprets the whorls as chakras and the spindle as the anthakarana which binds the chakras to physical reality. The key is Socrates' description of the fourth whorl as having a reddish color which matches the Hindu description of the navel or third chakra as having a red color. The top chakra is also known to have the highest frequency and accordingly has the fastest speed according to Socrates. The lower chakras (Whorl 2, 3, and 4) are known to act opposite to the higher chakras. Socrates describes this as those latter whorls having a reverse motion. In yoga, each chakra has a specific sound, which is described below.
+{{< n n="The image interprets the whorls as chakras and the spindle as the anthakarana which binds the chakras to physical reality. The key is Socrates' description of the fourth whorl as having a reddish color which matches the Hindu description of the navel or third chakra as having a red color. The top chakra is also known to have the highest frequency and accordingly has the fastest speed according to Socrates. The lower chakras (Whorl 2, 3, and 4) are known to act opposite to the higher chakras. Socrates describes this as those latter whorls having a reverse motion. In yoga, each chakra has a specific sound, which is described below." >}}
+
+
 On the upper surface of each circle is a siren, who goes round with them, hymning a single tone or note.
 
 

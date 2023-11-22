@@ -122,24 +122,25 @@ The Classical theory of interest rates supposes that, if the demand curve for ca
 
 The assumption that income* is constant is inconsistent with the assumption that these 2 curves can shift independently of one another.
 
-> *Superphysics Note: The income here is real income, not nominal. But Keynes thinks of nominal and always forgets the real 
+{{< n n="The income here is real income, not nominal. But Keynes thinks of nominal and always forgets the real" >}}
 
 
 If either of them shift, then, in general, income will change. This results in the break down of whole schema based on a given income. 
 
 The position could only be saved by some complicated assumption. It would provide for an automatic change in the wage-unit* of an amount just sufficient in its effect on liquidity-preference in order to establish an interest rate which would just offset the supposed shift. This would then leave output at the same level as before.
 
-> *Superphysics Note: This is grain valuation, or basing the wages on how much grain it will buy. This  is not complicated at all. It was used by the Romans, ancient Inca, Khmer, and Chinese up to the time of Adam Smith.
+
+{{< n n="This is grain valuation, or basing the wages on how much grain it will buy. This  is not complicated at all. It was used by the Romans, ancient Inca, Khmer, and Chinese up to the time of Adam Smith." >}}
 
 
 
 In fact, there is no hint to be found in the above writers as to the necessity for any such assumption*.
 
-> *Superphysics Note: There was no need to explain it because it is common sense.
+
+{{< n n="There was no need to explain it because it is common sense" >}}
 
 
 At the best, it would be plausible only in relation to long-period equilibrium. It could not form the basis of a short-period theory. There is no ground for supposing it to hold even in the long-period. 
 
-> *Superphysics Note: In the short term, gold and silver is the basis of valuation. Grains is for the long-term. 
-
+{{< n n="In the short term, gold and silver is the basis of valuation. Grains is for the long-term." >}}
 

@@ -19,7 +19,8 @@ To measure the distance between two points on a rigid body, we need a measuring 
 
 Assuming there is Point A and B are on a rigid body. We can draw a line joining them starting from Point A. We can mark off the distance S time after* time until we reach B. The number of these operations required is the numerical measure of the distance AB.
 
-> *Superphysics note: This is similar to Newton drawing mini-rectangles to draw curves in Calculus. We shall call this the Calculus way 
+
+{{< n n="This is similar to Newton drawing mini-rectangles to draw curves in Calculus. We shall call this the Calculus way" >}}
 
 
 
@@ -29,7 +30,7 @@ Assuming there is Point A and B are on a rigid body. We can draw a line joining 
 This is the basis of all measurement of length*.
 
 
-> *Einstein footnote: The measurement is always in a whole number because we use divided measuring-rods
+{{< f f="*Einstein footnote: The measurement is always in a whole number because we use divided measuring-rods" >}}
 
 
 All events or positions of objects in space are based on points on a rigid body (body of reference) where those events or objects exist. 
@@ -77,7 +78,7 @@ available; furthermore, the magnitudes of the coordinates are not actually deter
 
 If the results of physics and astronomy are to maintain their clearness, the physical meaning of
 specifications of position must always be sought in accordance with the above considerations. 1
-We thus obtain the following result=  
+We thus obtain the following result:
 
 Thus, all events in space involves the use of a rigid body where those events happen. The relationship between events, as 'distances', follow Euclidean geometry represented by marks on the rigid body. 
 

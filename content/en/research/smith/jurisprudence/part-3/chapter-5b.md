@@ -23,7 +23,7 @@ When the division of labour is perfected, every man only has a simple operation 
 - His whole attention is confined to this.
 - Only the few ideas that are immediately connected with it pass in his mind*.
 
-> *Superphysics Note: This is the same problem with science which is too specialized that it cannot discover common patterns
+{{< n n="This is the same problem with science which is too specialized that it cannot discover common patterns" >}}
 
 
 When the mind is employed on various objects, it is expanded and enlarged.

@@ -10,7 +10,7 @@ icon: /avatars/ef.png
 ---
 
 
-> Superphysics note: This is a simplified version of [Buddhist Economics](https://centerforneweconomics.org/publications/buddhist-economics/)
+{{< n n="This is a simplified version of [Buddhist Economics](https://centerforneweconomics.org/publications/buddhist-economics/)" >}}
 
 
 | | Modern Economics | Buddhist Economics |

@@ -33,7 +33,7 @@ In this case, the quantity of work is the only regulator of exchangeable value.
 
 In the advanced state, price has three components: wages, profits, rent*
 
-> *Superphysics note: In Supereconomics, wages are in the rude state because wages are the revenue of the worker or shudra class
+{{< n n="In Supereconomics, wages are in the rude state because wages are the revenue of the worker or shudra class" >}}
 
 
 ## The Second Component: Profits 
@@ -59,13 +59,13 @@ He would only advance his stock, in the form of wages and materials to those wor
 They are regulated by different principles*.
 
 
-> *Superphysics note: In Supereconomics, profit is the revenue of the business or vaesya class
+{{< n n="In Supereconomics, profit is the revenue of the business or vaesya class" >}}
 
 **Profits bear no proportion to the quantity or quality of management work.** Profits are:
 - regulated by the value of the stock employed, and
 - proportional to the size of this stock.
 
-> *Superphysics note: In Supereconomics, management is classified as value-maintaining effort and not value-adding
+{{< n n="In Supereconomics, management is classified as value-maintaining effort and not value-adding" >}}
 
 
 Let us suppose that:
@@ -107,6 +107,6 @@ When land becomes private property, he needs to pay:
 
 This share is the rent of land. It is the third component part of price*.
 
-> *Superphysics note: In Supereconomics, rent is the revenue of the warrior or ksattriya class
+{{< n n="In Supereconomics, rent is the revenue of the warrior or ksattriya class" >}}
 
 

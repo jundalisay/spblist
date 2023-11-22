@@ -65,5 +65,7 @@ This mechanical behaviour is different from the behavior of those objects before
 
 The Galileian law does not hold with respect to the erratically-moving train. This is why we feel compelled to grant an absolute physical reality* to erratic motion in Newtonian Physics, which is different from General Relativity. <!-- But in what follows we shall soon see that this conclusion cannot be maintained. -->
 
-> *Superphysics Note: This absolute reality is given by Newton as his concept of "Lord God" in Book 3 of Principia
+
+{{< n n="This absolute reality is given by Newton as his concept of 'Lord God' in Book 3 of Principia" >}}
+
 

@@ -10,7 +10,9 @@ type: "featured"
 
 ## It Began with the Financial Crisis 
 
-Superphysics arose from Juan's personal research on the 2008 Financial Crisis which happened because Allan Greenspan did not do his job of regulating the banking industry, citing Adam Smith who advocated non-regulation.
+Superphysics was founded by Juan from his personal research on the 2008 Financial Crisis.
+
+That crisis happened because Allan Greenspan did not do his job to regulate the banking industry, citing Adam Smith who advocated non-regulation.
 
 <!-- led to the 2008 Food Crisis, 2011 Arab Spring, and the Eurozone crisis. -->
 
@@ -18,9 +20,7 @@ Superphysics arose from Juan's personal research on the 2008 Financial Crisis wh
 
 So Adam Smith is such an evil guy for causing so much trouble, right?
 
-By reading Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to [the building of firewalls in order to prevent the spread of fire](/research/smith/wealth-of-nations/book-2/chapter-2m/).
-
-Greenspan was really citing Samuelson and neoliberal writers who preferred selfish-interest over social interest.
+By reading Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to [the building of firewalls in order to prevent the spread of fire](/research/smith/wealth-of-nations/book-2/chapter-2m/). Greenspan was really citing Samuelson and neoliberal writers who preferred selfish-interest over social interest.
 
 After concluding that Greenspan and Samuelson were the bad guys, Smith logically became the good guy to us. 
 - Smith cited David Hume heavily in his works
@@ -36,7 +36,7 @@ Socrates thus became the essential link between Western and Eastern philosophy, 
 
 ## Unifying Human Knowledge
 
-[Superphysics](/superphysics/principles/chapter-10) is thus Science unified with Philosophy, or Physics unified with Metaphysics. 
+Superphysics is thus Science unified with Philosophy, or Physics unified with Metaphysics. 
 
 Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists already explained how the Supreme Entity works as the **cause** of everything. 
 
@@ -45,7 +45,9 @@ Its external implementation is Western science since the West already knows how 
 It is divided into five:
 
 {{< dc t="Material Superphysics (click to expand)" >}}
-. | Primarily based on Cartesian-Spinoza Physics
+Material Superphysics implements the principles of Superphysics in order to overhaul Newtonian Physics and put it under the Physics or Descartes and Spinoza. This introduces the aethereal monad as the smallest particle in existence.  
+
+What | Details
 --- | --- 
 Basic Goal | Put Newtonian Physics under Cartesian Physics and conclusively solve remaining mysteries in Physics 
 Target Output |  Levitation, teleportation, antimatter/fusion, precision fabrication technologies
@@ -53,28 +55,37 @@ Target Output |  Levitation, teleportation, antimatter/fusion, precision fabrica
 
 
 {{< dc t="Bio Superphysics (click to expand)" >}}
-_ | Aims to solve diseases and improve health for humans, animals, and plants
+Bio Superphysics implements Material Superphysics onto living things in order to solve diseases and improve health for humans, animals, and plants.
+
+What | Details
 --- | --- 
 Basic Goal | Put Alternative Medicine on a level with Western Medicine
 Target Output | Automated Natural Intelligence (ANI) for predicting health issues, Using sound for agriculture, Testing agriculture in seawater
 {{< /dc >}}
 
 {{< dc t="Supersociology (click to expand)" >}}
-_ | Aims to solve chronic problems in economy, politics, and society
+Supersociology implements the principles of Superphysics to solve chronic problems in economy, politics, and society
+
+What | Details
 --- | --- 
 Basic Goal | Replace current Sociology with Socrates-Ibn Khaldun
 Target Output | Confirmation Elections, Constitutional Virtues, World Constitution, National Constitution Template for a unified political system, Automated Natural Intelligence (ANI) for predicting social cycles 
 {{< /dc >}}
 
+
 {{< dc t="Supereconomics (click to expand)" >}}
-_ | Aims to solve chronic problems in economy, politics, and society
+Supereconomics implements the principles of Superphysics to solve chronic problems in economy, politics, and society
+
+What | Details
 --- | --- 
 Basic Goal | Replace Neoclassical Economics with Socrates-Smith Economics
 Target Output | Moneyless Economy, Pool Clearing (free trade system), Replace GDP with NDP, Automated Natural Intelligence (ANI) for coordinating an economy in real-time
 {{< /dc >}}
 
 {{< dc t="Spiritual Superphysics (click to expand)" >}}
-_ | Systematize philosophy, religion, and spirituality
+Spiritual Superphysics implements the principles of Superphysics to systematize philosophy, religion, and spirituality
+
+What | Details
 --- | --- 
 Goal | Help everyone find their spiritual path or their true goal in life (dharma) 
 Target Output | Classify major belief systems under Omnitheism and suggest them to people based on their personality type
@@ -100,7 +111,7 @@ It pointed to a series of crises from 2019 to 2030, which we call The Great Stag
  <!-- as "The Overhaul" because current systems will break down during those times. -->
 
 {{< dc t="Updates (click to expand)" >}}
-_ | _
+Date | Event
 --- | --- 
 April 2021 | The crisis years came via Covid. It turned out that the medical system was the first one to break down. This led us to create [Pantry Health](https://pantrypoints.com/trisactions/health) as an implementation of Bio Superphysics as a solution. Our model predicts that the financial system will be the next one to crash at year X, which led us to create the [Points Banking](https://pantrypoints.com/trisactions/banking). Economic and international law systems will be stressed much later.
 July 2022 | The invasion by Russia on Ukraine proves the failure of international law, while the failure of Sri Lanka, and soon Pakistan, proves the failure of economic systems.
@@ -118,14 +129,14 @@ We are looking for:
  <!-- superphysicsorg@gmail.com.  -->
 
 {{< dc t="Team (click to expand)" >}}
-Core Team | 
+Who | Core Team 
 --- | ---
 [Juan](https://www.linkedin.com/in/jundalisay/) | Founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "[Line of Intuition](/research/benham/palmistry/part-2/chapter-14b-intuition)" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. 
 [Lam](https://www.linkedin.com/in/baolamnguyen/) | Joined Juan in 2017 to build Pantrypoints. Like Juan, she has a "Line of Intuition" and "Solomon Ring". She is still trying to get samadhi.
  <!-- Pantrypoints then , likes to read and write about the works from the Enlightenment -->
 <!-- She writes about economics, business, and history -->
 
-Rest of the Team | 
+Who | Rest of the Team
 --- | ---
 Jose | An alternative medicine practitioner since the 2000s, focusing on homeopathy and naturopathy, though he has tried doing Chinese medicine. He has gotten samadhi a few times in India. 
 Jing | Vice-President of an agriculture association. He is a Catholic and does not care about samadhi. However, he is very keen on using Bio Superphysics for agriculture  

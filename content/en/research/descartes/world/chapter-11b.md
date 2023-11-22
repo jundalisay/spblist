@@ -87,7 +87,6 @@ The parts of the stellar air aether have very irregular and diverse shapes.
 - This is why, while the whole territory `ABCD` turns, the air-aether at `6` always remains opposite to those that are at `2` and at `F`.
 - They only shift one way or the other due to physical winds or other forces.
 
-<!-- > *Superphysics Note: This is now proven by LIGO's detection of gravitational waves -->
 
 The air-aether at `ABCD` rotates much faster than the Earth.
 - But its air-aether that are caught in the pores of terrestrial bodies move just as slow as those terrestrial bodies around the center `T`

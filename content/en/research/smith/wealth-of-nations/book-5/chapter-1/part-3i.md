@@ -48,7 +48,7 @@ But most of those investors <!-- proprietors --> seldom pretend to understand th
 
 **This total exemption from trouble and risk, beyond a limited sum, encourages many people to become adventurers in joint stock companies.** *
 
-> *Superphysics Note: The joint principles of laziness and managed risk or safety leads to the huge size of corporations
+{{< n n="The joint principles of laziness and managed risk or safety leads to the huge size of corporations" >}}
 
 
 

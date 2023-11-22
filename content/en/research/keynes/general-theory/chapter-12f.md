@@ -23,10 +23,7 @@ Most of our decisions to do something positive, of which the full consequences w
 **These spirits spontaneously urge us to action rather than inaction**,* and not from the result of a weighted average of quantitative benefits multiplied by quantitative probabilities. 
 
 
-> *Superphysics Note: Here, Keynes exposes his big misunderstanding of Descartes' animal spirits which he confuses for the propensities of the chakras. Animal spirits or chi or prana are just energy which drives action. That action can be anything, as investing action, gardening action, eating action, etc. It is the chakras the impose what action that energy will course through. Optimism is generally a product of the higher chakras. But the optimism in negative actions, such as winning in gambling, successfully robbing a bank, or quietly stealing a car is from the lower chakras.  
-
-
-
+{{< n n="Here, Keynes exposes his big misunderstanding of Descartes' animal spirits which he confuses for the propensities of the chakras. Animal spirits or chi or prana are just energy which drives action. That action can be anything, as investing action, gardening action, eating action, etc. It is the chakras the impose what action that energy will course through. Optimism is generally a product of the higher chakras. But the optimism in negative actions, such as winning in gambling, successfully robbing a bank, or quietly stealing a car is from the lower chakras." >}}
 
 Enterprise only pretends to be mainly actuated by the statements in its own prospectus, however candid and sincere. 
 
@@ -41,8 +38,9 @@ These would leave us to depend only on mathematical expectation though the fears
 
 **It is safe to say that enterprise which depends on hopes stretching into the future benefits the community as a whole.** *
 
-> *Superphysics Note: This is wrong. A long term hope for the profitability of coal-fired plans would actually be detrimental to life on Earth. Enterprise by itself is not immediately moral or immoral just as patience or waiting is. Quantitative measures such as profitability is impotent in determining the morality of an action. This has been discussed extensively by David Hume. Qualitative measures that match the dharma of society are the better basis for morality, or what is better or worse for society. 
 
+{{< n n="This is wrong. A long term hope for the profitability of coal-fired plans would actually be detrimental to life on Earth. Enterprise by itself is not immediately moral or immoral just as patience or waiting is. Quantitative measures such as profitability is impotent in determining the morality of an action. This has been discussed extensively by David Hume. Qualitative measures that match the dharma of society are the better basis for morality, or what is better or worse for society." >}}
+ 
 
 But individual initiative will only be adequate when reasonable calculation is supplemented and supported by animal spirits. In this way, the thought of ultimate loss which often overtakes pioneers is put aside in the same way that a healthy man puts aside the fear of death. 
 
@@ -106,7 +104,8 @@ Yet we are still entitled to return to the changes in the interest rate as exerc
 
 **Only experience, however, can show how far management of the interest rate can continuously stimulate the appropriate volume of investment.** *
 
-> *Superphysics Note: All that Keynes' system did is to create a lose-lose situation where raising interest rates causes recession, but lowering interest rates causes inflation. Our solution is to bring back barter so that it can absorb the unemployment and excess capacity during recessions. This will create a win-win solution where interest rates are much less relevant. This was the case in Classical Economics before the Federal Reserve was established.   
+{{< n n="All that Keynes' system did is to create a lose-lose situation where raising interest rates causes recession, but lowering interest rates causes inflation. Our solution is to bring back barter so that it can absorb the unemployment and excess capacity during recessions. This will create a win-win solution where interest rates are much less relevant. This was the case in Classical Economics before the Federal Reserve was established." >}}
+
 
 
 

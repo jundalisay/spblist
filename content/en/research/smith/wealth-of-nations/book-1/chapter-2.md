@@ -43,7 +43,7 @@ Whoever offers a bargain of any kind, proposes to do this. The meaning of every 
 In this way, we get most of what we need. **It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest**.*
 
 
-> *Superphysics note: Here Smith refers to own interest as svadharma and not selfishness
+{{< n n="Here Smith refers to own interest as svadharma and not selfishness" >}}
 
 
 We address, not their humanity but their self-love. We never talk to them of our own necessities but of their advantages.
@@ -66,7 +66,7 @@ He uses the donated money to buy food. He exchanges the old clothes donated to h
 - **by purchase**. *
 
 
-> *Superphysics Note: Our points-based system is a hybrid of treaty and barter. 
+{{< n n="Our points-based system is a hybrid of treaty and barter." >}}
 
 
 **This trucking disposition is the origin of the division of labour.**
@@ -82,7 +82,7 @@ A tribal person makes bows and arrows better than any other.
 - have an occupation, and
 - cultivate whatever talent he might have.
 
-> *Superphysics Note: This is why a points-based system requires long-term investment
+{{< n n="This is why a points-based system requires long-term investment" >}}
 
 
 
@@ -91,14 +91,14 @@ A tribal person makes bows and arrows better than any other.
 The different levels of skill of different men in different professions is the effect of the division of labour*.
 
 
-> *Superphysics Note: The natural human ability to communicate and trade is the cause, skill and specialization is the effect. However, we go deeper and assign the root cause as a living mind's ability to express
+{{< n n="The natural human ability to communicate and trade is the cause, skill and specialization is the effect. However, we go deeper and assign the root cause as a living mind's ability to express" >}}
 
 
 The difference between a philosopher and a street porter seems to arise not so much from nature, but from **habit, custom, and education**.*
 - They were perhaps very much alike when they were 6-8 years old.
 - As they got older, the difference in their talents widened until their employments became totally different.
 
-> *Superphysics Note: This matches David Hume's assertion that 'nurture' is more important than 'nature'
+{{< n n="This matches David Hume's assertion that 'nurture' is more important than 'nature'" >}}
 
 
 Without the disposition to truck, barter, and exchange:

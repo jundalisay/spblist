@@ -86,7 +86,7 @@ They transfer to us 2 supportive qualities.
   - This supports life and motion
   - This is provided by direct, straight light
 
-> *Superphysics Note: Wet force is Yin or Shakti while Warm force is Yang or life  
+{{< n n="Wet force is Yin or Shakti while Warm force is Yang or life " >}} 
 
 
 These forces affect us through the light which falls to us unceasingly from the planets.

@@ -17,7 +17,7 @@ How was the allodial government overturned to give way to the feudal system?
 
 These great lords were continually making war on one another. In order to keep their tenants, they gave them annual land leases. This lease was later held by them for life.
 
-The great lords usually engaged in very hazardous enterprises with their vassals. They extended this right to the land to their son and grandson's life so that= 
+The great lords usually engaged in very hazardous enterprises with their vassals. They extended this right to the land to their son and grandson's life so that:
 - their vassals' families might not be left destitute in the worst cases, and
 - their vassals could be more encouraged to follow them.
 
@@ -27,7 +27,7 @@ It was thought cruel to turn out an old tenant. And so finally, the right became
 - In this way, wardships were introduced*.
 
 
-> *Superphysics Note: The Roman system was created from the top down, with the senate awarding lands to soldiers, under the idea of a state. The feudal system is built from the ground-up, with the lords personally awarding lands to tenants without any idea of a state.
+{{< n n="The Roman system was created from the top down, with the senate awarding lands to soldiers, under the idea of a state. The feudal system is built from the ground-up, with the lords personally awarding lands to tenants without any idea of a state." >}}
 
 
 When the heir female succeeded, the feudal baron had a right to marry her to whomever he pleased because the baron should have a vassal of his own choosing.
@@ -92,4 +92,4 @@ At first, every man paid his proportion to the king.  But afterwards, the boroug
 
 In the reign of King John, a law* was made that if a lord married his ward to a burgher he only forfeited his wardship.
 
-> *Superphysics Note: Magna Carta?
+{{< n n="Magna Carta?" >}}

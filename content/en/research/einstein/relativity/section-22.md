@@ -15,7 +15,8 @@ writer:
 
 Section 20 showed that General Relativity (GR) lets us derive properties of the gravitational field in a purely theoretical way*.
 
-> *Superphysics Note: Yes, it's only theoretical just as Genesis is theoretical and not real!
+
+{{< n n="Yes, it's only theoretical just as Genesis is theoretical and not real!" >}}
 
 
 Let us suppose that we know the space-time “course” for any path in Galileian space relative to a non-moving viewpont.
@@ -43,7 +44,8 @@ This is very important because:
 From the earth's viewpoint, certain fixed stars are seen around the sun during a total eclipse. These stars should then appear displaced away from the sun by 1.7 seconds of arc compared to their apparent position in the sky when the sun is elsewhere*. 
 
 
-> *Einstein Note: Through star photographs, the Joint Committee of the Royal and Royal Astronomical Societies confirmed the deflection of light demanded by GR during the solar eclipse of 29th May, 1919.
+
+{{< f f="*Einstein Note: Through star photographs, the Joint Committee of the Royal and Royal Astronomical Societies confirmed the deflection of light demanded by GR during the solar eclipse of 29th May, 1919." >}}
 
 <!-- This should be tested by astronomers.  -->
 <!-- The examination of the correctness or otherwise of this deduction is a problem of the greatest importance, the early solution of which is to be expected of astronomers. -->
@@ -67,7 +69,7 @@ Electrostatics is contained in electrodynamics as a limiting case.
 The laws of electrodynamics lead directly to laws of electrostatics when the fields are invariable with regard to time*.
 
 
-> Superphysics Note: Here Einstein shows his sophistry. Electrostatics is a part of Electrodynamics just as a car being able to part (have a handbrake) is a part of the whole design for a moving car. But General Relativity is different because it is a sophistical extension of Maxwell-Lorentz onto outerspace and gravity. It is like adding wings to a car to make it into a flying car yet applying road rules in flight. 
+{{< n n="Here Einstein shows his sophistry. Electrostatics is a part of Electrodynamics just as a car being able to part (have a handbrake) is a part of the whole design for a moving car. But General Relativity is different because it is a sophistical extension of Maxwell-Lorentz onto outerspace and gravity. It is like adding wings to a car to make it into a flying car yet applying road rules in flight." >}}
 
 
 {{< c v="red" >}} Special Relativity points to a more comprehensive theory in the form of General Relativity. {{< /c >}}
@@ -82,12 +84,13 @@ Through the bending of light by gravity, General Relativity enables us to theore
 
 ![Einstein Con-man](/icons/einbla.png)
 
-> *Superphysics Note: No, it doesn't. It actually makes gravity more confusing because it is totally different from Newton who clearly saw gravity as a force.
+{{< n n="No, it doesn't. It actually makes gravity more confusing because it is totally different from Newton who clearly saw gravity as a force" >}}
 
 
 We already know what happens to spacetime without gravity. <!--  are acquainted with space-time domains which behave (approximately) in a “Galileian” fashion under suitable choice of reference-body, i.e. domains in which gravitational fields are absent. --> A gravity-less moving body <!-- If we now refer such a domain to a reference-body --> `K'` <!-- possessing any kind of motion, --> will interact with a <!-- then relative to K' there exists a --> gravitational field which is variable with respect to space and time*. The character of this field will depend on<!--  the motion chosen for --> `K'`'s motion. 
 
-> *Einstein note: This follows from a generalisation of Section 20.
+
+{{< f f="*Einstein note: This follows from a generalisation of Section 20." >}}
 
 
 According to GR, the general law of the gravitational field applies. <!-- must be satisfied for all gravitational fields obtainable in this way. --> Not all gravitational fields are produced in this way [exposed by moving bodies]. 
@@ -98,6 +101,7 @@ According to GR, the general law of the gravitational field applies. <!-- must b
 
 ![Einstein Con-man](/icons/einbla.png)
 
-> *Superphysics Note: After 100 years, no general law of gravitation has been derived from GR because his gravitation was a sophistry in the first place. 
+
+{{< n n="After 100 years, no general law of gravitation has been derived from GR because his gravitation was a sophistry in the first place." >}}
 
 <!-- This hope has been realised in the most beautiful manner.  -->

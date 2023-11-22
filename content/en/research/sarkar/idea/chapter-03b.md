@@ -106,13 +106,13 @@ The motor organs <!-- indriyas --> create quantum-perceptions <!-- tanmátras -
 **Any increase in the number of sense perceptions does not affect the total intensity of perception. It remains constant in a mathematical manner.**
 - If the solid can transmit the 5 fundamental perceptions of sound, touch, form, taste and smell with equal intensity, it does not mean that each and every perception of this solid quantum-perception <!-- tanmátra --> will have the same intensity of sound waves transmitted by the aethereal body.*
 
-> *Superphysics Note: This is embodied in our Law of Conservation of Idea
+{{< n n="This is embodied in our Law of Conservation of Idea" >}}
 
 
 The aethereal body has the singular characteristic of transmitting sound waves.
 - These sound waves have the collective intensity of all the 5 quantum-perceptions <!-- tanmátras --> transmitted by the solid body having the multilateral sensory functions.*
 
-> *Superphysics Note: This means that an aethereal version of a solid object gives out the perceptions of that object via sound, just as its physical version gives out its perceptions as touch, sight, smell.    
+{{< n n="This means that an aethereal version of a solid object gives out the perceptions of that object via sound, just as its physical version gives out its perceptions as touch, sight, smell." >}} 
 
 <!-- idea-object gives out the perceptions via sound just as its physical object gives out its perceptions as touch, sight,   -->
 

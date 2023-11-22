@@ -9,7 +9,7 @@ icon: "/icons/socrates.png"
 
 
 
-> *Superphysics note: Here, Parmenides calls the Illusion as not
+{{< n n="Here, Parmenides calls the Illusion as not" >}}
 
 
 2.a. What is the consequence if the One is not?

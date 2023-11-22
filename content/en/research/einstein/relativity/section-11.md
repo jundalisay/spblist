@@ -21,8 +21,7 @@ Sections 8-10 show that the apparent incompatibility of the law of propagation o
 If we drop those two, then the dilemma of Section 7 disappears, because the addition of velocities (Section 6) becomes invalid*. This then makes the law of the propagation of light in vacuum compatible with the principle of relativity.
 
 
-
-> *Superphysics Note: Here, Einstein "solves" the inconsistencies in his Theory of Relativity by creating the idea of a spacetime unity that is different from the separated Newtonian spacetime. In reality, his spacetime is merely Galilean spacetime of the material layer glued together by the light of the Electromagnetic layer. Galilean transformation allows the addition of velocities through the standard of matter, while the Lorentz transformation allows a relativistic 'addition' through the standard of light. In a nutshell, the Lorentz transformation 
+{{< n n="Here, Einstein 'solves' the inconsistencies in his Theory of Relativity by creating the idea of a spacetime unity that is different from the separated Newtonian spacetime. In reality, his spacetime is merely Galilean spacetime of the material layer glued together by the light of the Electromagnetic layer. Galilean transformation allows the addition of velocities through the standard of matter, while the Lorentz transformation allows a relativistic 'addition' through the standard of light. In a nutshell, the Lorentz transformation" >}}
 
 
 <!--  spacetime of electromagnetism is different from the spacetime of matter.  
@@ -78,7 +77,7 @@ t' = (t-(v/c2))x) / √(1-v2/c2
 
 
 
-> *Einstein Note: This is explained in Appendix 1
+{{< f f="*Einstein Note: This is explained in Appendix 1" >}}
 
 
 
@@ -116,13 +115,11 @@ t' = ( 1 − (v/c) ) t / √ (1 − (v2/c2)
 ```
 
 
-
-from which, by division, the expression follows= 
+from which, by division, the expression follows:
 
 ``` elixir
 x' = ct'
 ```
-
 
 
 If referred to the system `K'`, the speed of light takes place according to this equation. We thus see that the velocity of transmission relative to the moving `K'` is also equal to `c`.  The same result is obtained for rays of light advancing in any other direction. <!-- This is because the equations of the Lorentz transformation 

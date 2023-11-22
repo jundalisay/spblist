@@ -27,7 +27,7 @@ We extend this to mean any subject of comparison, without a connecting principle
 - Thus, philosophers classify distance as a true relation, because we acquire an idea of distance by comparing 2 objects.
 
 
-> *Superphysics note: The 2 meanings show the 2 domains of physical and metaphysical reality
+{{< n n="The 2 meanings show the 2 domains of physical and metaphysical reality" >}}
 
 
 

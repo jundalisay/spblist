@@ -46,7 +46,8 @@ To explain this outward motion, let us imagine the sun as a void.
 
 Imagine the air-aether particles at `E` were all alone and that there was absolutely no light (fire-aether) anywhere, even where the sun is.
 
-{{< img src="/graphics/physics/world-13hhh.jpg" alt="Black Hole" cap="Descartes explains why the solar wind goes outwards when the spacetime particles go inwards to cause stellar gravity" alt="Solar Winds" >}}
+{{< i s="/graphics/physics/world-13hhh.jpg" alt="Black Hole" c="Descartes explains why the solar wind goes outwards when the spacetime particles go inwards to cause stellar gravity" a="Solar Winds" >}}
+
 
 1. If that air-aether at `E` disappeared, then the air-aether beyond circle `FEG`, say at `M`, will not fill its place since it tends to move away from it.
 

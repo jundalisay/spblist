@@ -24,7 +24,7 @@ However, theory is unable to explain why this happens. It is still less able to 
 
 This inability is from the impossibility of following up analytically all the consequences of such complex relations*.
 
-> *Superphysics Note: It cannot be explained in analytical means, but through principles, such as those laid out by Adam Smith, Socrates, and Ibn Khaldun (who explained the wealth of the Persians and Arabs who live in a desert). 
+{{< n n="It cannot be explained in analytical means, but through principles, such as those laid out by Adam Smith, Socrates, and Ibn Khaldun (who explained the wealth of the Persians and Arabs who live in a desert). " >}}
 
 
 
@@ -45,7 +45,7 @@ The Political Economist is occupied principally with the material wants of manki
 
 This subject is still far too vast to be properly grasped by any one man*. 
 
-> *Superphysics Note: It has already been grasped by Adam Smith
+{{< n n="It has already been grasped by Adam Smith" >}}
 
 
 It affords inexhaustible material for unripe systems and slow investigations. 
@@ -76,7 +76,7 @@ If we compare one nation with another, by what invariable tokens shall we determ
 - According to the rate of movement up or down whether of population or of annual product? 
   - Provided that the reckoning covers a sufficient time this is, to be sure, the least equivocal symptom of the welfare or misery of society
 
-> *Superphysics Note: This has already been solved by Adam Smith who used grains as the measure of value. We implement this in our Points-based Economic System wherein we compare the prices of comparable goods and services  of countries and societies based on a grain-index. 
+{{< n n="This has already been solved by Adam Smith who used grains as the measure of value. We implement this in our Points-based Economic System wherein we compare the prices of comparable goods and services  of countries and societies based on a grain-index. " >}}
 
 
 But how can this symptom help us except to recognize accomplished facts, and facts which have been produced, not only by economic causes in the ordinary meaning of the words, but also by the simultaneous cooperation of a multitude of moral causes.

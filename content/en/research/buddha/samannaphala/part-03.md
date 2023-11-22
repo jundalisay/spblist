@@ -69,7 +69,8 @@ He replied: 'If you ask me if there exists another world [after death], if I tho
 
 I don't think in that way. I don't think otherwise. I don't think not. I don't think not not.*
 
-> *Superphysics Note: This is likely the Zeno or paradoxical way of answering
+{{< n n="This is likely the Zeno or paradoxical way of answering" >}}
+
 
 If you asked me if there isn't another world... both is and isn't... neither is nor isn't... if there are beings who transmigrate... if there aren't... both are and aren't... neither are nor aren't... if the Tathagata exists after death... doesn't... both... neither exists nor doesn't exist after death, would I declare that to you? 
 

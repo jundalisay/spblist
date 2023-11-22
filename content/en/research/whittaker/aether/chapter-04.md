@@ -67,7 +67,7 @@ Bernoulli is a thorough Cartesian in spirit.
 
 He rejects action at a distance. He insists that even the elasticity of his aether* shall be explicable in terms of matter and motion.
 
-> *Superphysics Note: In actual Cartesian Physics, the vortices manifest as the spacetime vortices which are different from the aether. 
+{{< n n="In actual Cartesian Physics, the vortices manifest as the spacetime vortices which are different from the aether." >}} 
 
 
 This aggregate of small vortices, or "fine-grained turbulent motion," as it came to be called a century and a half later,[6] is intenspersed with solid corpuscles, whose dimensions are small compared with their distances apart. 

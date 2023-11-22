@@ -11,7 +11,8 @@ writer:
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
-> Superphysics note: In Economic Superphysics, demand is under the 1st Law of Value as Energy Movement
+
+{{< n n="In Economic Superphysics, demand is under the 1st Law of Value as Energy Movement" >}}
 
 
 An entrepreneur has 2 kinds of expenses based on employment: 
@@ -54,14 +55,14 @@ The income* which the entrepreneurs expect to receive from the sale determines:
 - the factor cost per unit of employment
 - the amount of employment
 
-> *Superphysics note: This is opposite of what is natural, which says the cost determines the income. 
+
+{{< n n="This is opposite of what is natural, which says the cost determines the income." >}}
 
 
 Entrepreneurs will try to adjust the amount of employment to maximise profits. <!--  the excess of the proceeds over the factor cost.  -->
 
-> *Superphysics note: In reality, the adjustments are based on the volume of sale. 
 
-
+{{< n n="In reality, the adjustments are based on the volume of sale." >}}
 
 
 The Aggregate Supply Curve is:
@@ -107,7 +108,8 @@ The classical doctrine is “Supply creates its own Demand” <!-- It continues 
 
 The Classical theory assumes that the aggregate demand price always accommodates itself to the aggregate supply price.* 
 
-> *Superphysics note: Yes, because the supply price is the cost in grains and everyone needs to eat. 
+
+{{< n n="Yes, because the supply price is the cost in grains and everyone needs to eat." >}}
 
 
 In this way, no matter how many workers are employed, the gross income is equal to the aggregate supply price <!-- Z --> which corresponds to that number of workers.
@@ -116,7 +118,8 @@ It means that:
 - **effective demand, instead of having a unique equilibrium value, is an infinite range of values all equally admissible.** *
 - the amount of employment is indeterminate except until it hits the level of slave-wages. <!-- in so far as the marginal disutility of labour sets an upper limit.  -->
 
-> *Superphysics note: Yes, the demand is always in flux. Instead of equilibrium, it has a predictable range. 
+
+{{< n n="Yes, the demand is always in flux. Instead of equilibrium, it has a predictable range." >}}
 
 
 This means that competition between entrepreneurs would always increase employment up where there is full employment and the supply of output as a whole becomes inelastic [because there there are no more additional workers]. At this point, a further increase in effective demand will no longer lead to any increase in output. 
@@ -128,7 +131,8 @@ An alternative, equivalent, criterion is a situation where aggregate employment 
 Say’s law says that the aggregate demand price of output as a whole is equal to its aggregate supply price for all volumes of output. 
 - It means that there is no obstacle to full employment*.
 
-> *Superphysics Note: Barter removes such obstacles. 
+
+{{< n n="Barter removes such obstacles." >}}
 
 
 <!-- If, however, this is not the true law relating the aggregate demand and supply functions, there is a vitally important chapter of economic theory which remains to be written and without which all discussions concerning the volume of aggregate employment are futile.  -->
@@ -167,11 +171,10 @@ Thus, given the propensity to consume and the rate of new investment, there will
 
 This level cannot be greater than full employment, i.e. the real wage cannot be less than the marginal disutility of labour. But there is no reason to expect it to be equal to full employment. 
 
+
 ### Exception 
 
 The effective demand associated with full employment is a special case.
 - It is only realised when the propensity to consume and the inducement to invest stand in a particular relationship to one another. This particular relationship corresponds to classical assumptions. It is in a sense an optimum relationship. 
 
 But it can only exist when, by accident or design, current investment provides an amount of demand just equal to the excess of the aggregate supply price of the output resulting from full employment over what the community will choose to spend on consumption when it is fully employed. 
-
-

@@ -100,7 +100,7 @@ But this does not happen because many of the large sugar plantation owners<!--  
 - The difference goes to the owners as gold and silver*.
 
 
-> *Superphysics Note: The money of Great Britain stays in Great Britain
+{{< n n="The money of Great Britain stays in Great Britain" >}}
 
 
 

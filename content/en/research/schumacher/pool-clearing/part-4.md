@@ -48,7 +48,7 @@ Under the Gold Standard (or any other international monetary system based on fre
   - capital investments abroad.
 
 
-> *Superphysics Note: Pool clearing can solve stagnation by letting countries export their way out of it.
+{{< n n="Pool clearing can solve stagnation by letting countries export their way out of it." >}}
 
 
 

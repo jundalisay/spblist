@@ -50,7 +50,7 @@ In Tantra, this latent Activity <!-- Prakrti --> is known as Unexpressed Activit
 - This Unexpressed Activity* <!-- Anucchúnyá Prakrti --> is the causal stage of the 3 expressed principles. 
 - It is purely abstract. 
 
-> *Superphysics Note: Superphysics calls it "Pre-Existence". This uses the sequential property of logic instead of the expressive property of the ego
+{{< n n="Superphysics calls it 'Pre-Existence'. This uses the sequential property of logic instead of the expressive property of the ego" >}}
 
 
 When the <!-- Anucchúnyá --> Unexpressed gets disturbed, the 3 fundamental principles start functioning.
@@ -77,7 +77,7 @@ Activation of any force signifies a change in position of the body on which the 
 
 **Mind cannot maintain its existence without objectivity.** *
 
-> *Superphysics Note: We say that mind must always have an object. To get over a bad or painful event, simply give your mind a new, positive object 
+{{< n n="We say that mind must always have an object. To get over a bad or painful event, simply give your mind a new, positive object " >}}
 
 
 During its course of creation, mind automatically gets an objectivity in the form of the done ego or static “I”. 
@@ -135,7 +135,7 @@ and 5 dividing:
 
 The cooperative activity of these 10 is known as the vital energy or práńáh*.
 
-> *Superphysics note: Práńa is just energy. Práńáh is the energy that maintains the structure.
+{{< n n="Práńa is just energy. Práńáh is the energy that maintains the structure." >}}
 
 
 The sense and motor organs (indriyas) are actually in the brain and not on the external surface of the physical body, which are merely the gateways. 

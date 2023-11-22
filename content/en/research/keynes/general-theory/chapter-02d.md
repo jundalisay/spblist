@@ -78,7 +78,8 @@ Pigou believes:
 Contemporary thought is still deeply steeped in the notion that if people do not spend their money in one way they will spend it in another.[11] Post-war economists seldom succeed in maintaining this standpoint consistently*.
 
 
-> *Superphysics Note: This is due to growth in the doctrine of profit maximization which did not exist during the time of Mill or Ricardo 
+{{< n n="This is due to growth in the doctrine of profit maximization which did not exist during the time of Mill or Ricardo" >}}
+ 
 
 <!-- Their thought today is too much permeated with the contrary tendency and with facts of experience too obviously inconsistent with their former view.[12] But they have not drawn sufficiently far-reaching consequences; and have not revised their fundamental theory. -->
 
@@ -96,7 +97,7 @@ Similarly, it is natural to suppose that a man who enriches himself, without tak
 
 <!-- For, once more, it is indubitable that the sum of the net increments of the wealth of individuals must be exactly equal to the aggregate net increment of the wealth of the community. -->
 
-> *Superphysics Note: Yes, because there is no profit maximization to hinder investments at low profits
+{{< n n="*Superphysics Note: Yes, because there is no profit maximization to hinder investments at low profits" >}}
 
 
 <!-- Those who think in this way are deceived, nevertheless, by an optical illusion, which makes two essentially different activities appear to be the same. They are fallaciously supposing that there is a nexus which unites decisions to abstain from present consumption with decisions to provide for future consumption; whereas the motives which determine the latter are not linked in any simple way with the motives which determine the former.
@@ -116,9 +117,9 @@ The assumptions of classical theory are:
 These <!-- three assumptions, however, all amount to the same thing in the sense that they all --> stand and fall together*<!-- , any one of them logically involving the other two -->.
 
 
-> *Superphysics Note: Yes they fall if you convert real value (based on goods) into nominal value (based on cash and money). That would then lead to a gambling or speculative economy which is totally arbitrary. 
 
-
+{{< n n="Yes they fall if you convert real value (based on goods) into nominal value (based on cash and money). That would then lead to a gambling or speculative economy which is totally arbitrary." >}}
+ 
 
 <!-- ### Author’s Footnotes
 

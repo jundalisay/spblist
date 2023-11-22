@@ -28,7 +28,7 @@ But the pure theory of what determines the actual employment of the available re
 
 This is based on two fundamental postulates:
 
-> 1. Wage is equal to the marginal product of labour
+**1. Wage is equal to the marginal product of labour**
 
 A worker's wage is equal to the value which would be lost if employment were reduced by one unit after deducting any other costs which this reduction of output would avoid.
 
@@ -37,7 +37,7 @@ This equality is disturbed if competition and markets are imperfect.
 This gives the demand curve for employment.
 
 
-> 2. The utility of the wage when a given volume of labour is employed is equal to the "marginal disutility" of that amount of employment.
+**2. The utility of the wage when a given volume of labour is employed is equal to the "marginal disutility" of that amount of employment.**
 
 The worker's real wage is that which is just enough (in the workers' view) to induce the workers to work.  <!-- volume of labour actually employed to be forthcoming.  -->
 
@@ -84,7 +84,7 @@ It follows that there are only four ways to increase employment:
 This is Pigou’s Theory of Unemployment, which is the only detailed account of the classical theory of employment*.
 <!-- [3] -->
 
-> Superphysics Note: Adam Smith has a more complete version in the Wealth of Nations Book 1, Chapters 6-9. But no one seems to bother to check it 
+{{< n n="Adam Smith has a more complete version in the Wealth of Nations Book 1, Chapters 6-9. But no one seems to bother to check it " >}}
 
 
 
@@ -98,7 +98,9 @@ The classical school reconciles this with their second postulate. They argue tha
 
 However, this situation is due to an agreement amongst workers not to work for less. If all workers agree to lower nominal wages* <!-- money-wages -->, then more employment would come. In this case, such unemployment is apparently involuntary. But it should be included under the ‘voluntary’ unemployment due to the effects of collective bargaining, etc.
 
-> *Superphysics Note: Here, Keynes corrupts the Classical Theory by replacing real wages with nominal wages
+
+{{< n n="*Superphysics Note: Here, Keynes corrupts the Classical Theory by replacing real wages with nominal wages" >}}
+
 
 <!-- This calls for two observations, the first of which relates to the actual attitude of workers towards real wages and money-wages respectively and is not theoretically fundamental, but the second of which is fundamental. -->
 
@@ -108,8 +110,8 @@ Let us assume that:
 
 {{< c v="red" >}}This does not mean that the existing real wages accurately measures the marginal disutility of labour* [workers refusing to work for slave wages]{{< /c >}}
 
-> *Superphysics Note: Keynes' wrong assumption of making nominal wages more important than real wages leads to this wrong statement. He wrongly assumes that humans work for money (dollar bills, coins) and not for the food, essentials, and luxuries that that money provides
 
+{{< n n="Keynes' wrong assumption of making nominal wages more important than real wages leads to this wrong statement. He wrongly assumes that humans work for money (dollar bills, coins) and not for the food, essentials, and luxuries that that money provides" >}}
 
 
 A reduction in the existing nominal-wage <!-- money-wage --> would lead to work stoppage. But it does not follow that a fall in the value of the existing nominal-wage <!-- money-wage --> in terms of wage-goods would do so, if it were due to inflation.<!--   a rise in the price of the latter.  -->
@@ -126,19 +128,19 @@ The classical school has assumed that this would involve no significant change i
 <!-- [5] -->
 
 
-> *Superphysics note: Keynes here purposely corrupts the Classical theory which is based on real wages and does not care about nominal or money-wages. Real wages always has consumer prices (wage-goods) as their reference. But Keynes is all for nominal money-wages which he imposes on the Classical theory. He then blames the Classical theory for its mistake when Keynes is the one making the mistake.  The Classical theory has been in force since the time of the ancient Greeks up to the 18th century. How could the collective billions of people from that timespan be wrong, and only Keynes be correct? 
+{{< n n="Keynes here purposely corrupts the Classical theory which is based on real wages and does not care about nominal or money-wages. Real wages always has consumer prices (wage-goods) as their reference. But Keynes is all for nominal money-wages which he imposes on the Classical theory. He then blames the Classical theory for its mistake when Keynes is the one making the mistake.  The Classical theory has been in force since the time of the ancient Greeks up to the 18th century. How could the collective billions of people from that timespan be wrong, and only Keynes be correct?" >}}
 
 
 
 They did not realise that, unless the supply of labour is a function of real wages alone*, their supply curve for labour will shift bodily with every movement of prices. 
 
 
-> *Superphysics note: Yes, the Classical economists knew that. That's why they ignore nominal wages. But Keynes imposes nominal wages which is not what the Classical theory is about.
+{{< n n="Yes, the Classical economists knew that. That's why they ignore nominal wages. But Keynes imposes nominal wages which is not what the Classical theory is about." >}}
 
 
 Thus their method is tied up with their very special assumptions*. It cannot be adapted to deal with the more general case.
 
-> *Superphysics note: Yes, the Classical postulates require the ignoring of nominal values which is opposite of what Keynes is doing and imposing as a general case
+{{< n n="Yes, the Classical postulates require the ignoring of nominal values which is opposite of what Keynes is doing and imposing as a general case" >}}
 
 
 
@@ -149,7 +151,7 @@ Thus their method is tied up with their very special assumptions*. It cannot be 
 {{< img src="/photos/psych/facepalm.jpg" cap="WTF?!? The reason why workers resist reduction in money-wages is because such a reduction is large and happens in one time. Inflation, on the other hand, is slow and happens in small amounts. Eventually when those small amounts add up to a large amount, workers will resist inflation too, just as they resisted an instant reduction in money wages." >}}
 
 
-> *Superphysics Note: Workers actually go on strike during inflation which is a temporary withdrawal of labour. 
+{{< n n="Workers actually go on strike during inflation which is a temporary withdrawal of labour." >}}
 
 
 <!-- It would be illogical for workers to resist a reduction of money-wages but not a reduction of real wages. For reasons given below (section III), this might not be so illogical as it appears at first; and, as we shall see later, fortunately so. But, whether logical or illogical, experience shows that this is how labour in fact behaves. -->
@@ -165,6 +167,5 @@ Wide variations are experienced in the volume of employment without any apparent
 Labour is not more truculent in the depression than in the boom — far from it. Nor is its physical productivity less. These facts are a prima facie ground for questioning the adequacy of the classical analysis*.
 
 
-
-> *Superphysics Note: The Classical theory does not blame workers for the Depression. It blames the <b>profit maximization</b> of the investment function which prevents investments and the circulation of value. Profit maximization is a new invention by the Marginal Revoltion of the 1870's that is incompatible with Classical Economics. Keynes totally ignores profit maximization and instead blames the workers not agreeing to lower money wages for the Depression.<br><br>His solution then becomes to flood the economy with money via quantitative easing and deficit spending which lead to even more problems. His system is thus <b>socialism for Wall Street and the financial system</b>. The banking system likes this and so it became their interest to promote Keynes over Pigou and Hayek through lobbying.
+{{< n n="The Classical theory does not blame workers for the Depression. It blames the <b>profit maximization</b> of the investment function which prevents investments and the circulation of value. Profit maximization is a new invention by the Marginal Revoltion of the 1870's that is incompatible with Classical Economics. Keynes totally ignores profit maximization and instead blames the workers not agreeing to lower money wages for the Depression.<br><br>His solution then becomes to flood the economy with money via quantitative easing and deficit spending which lead to even more problems. His system is thus <b>socialism for Wall Street and the financial system</b>. The banking system likes this and so it became their interest to promote Keynes over Pigou and Hayek through lobbying." >}}
 

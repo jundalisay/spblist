@@ -68,7 +68,7 @@ Those who know forms comprehends the unity of nature in substances apparently mo
 - He can disclose and bring forward, therefore (though it has never yet been done), things which neither the vicissitudes of nature, nor the industry of experiment, nor chance itself, would ever have brought about.
 - Genuine theory and free practice arises from the discovery of forms*.
 
-> *Superphysics Note: An example of the knowledge of a Form is the knowledge of electromagnetism which is the Form of electrons, photons, and other subatomic particles.
+{{< n n="An example of the knowledge of a Form is the knowledge of electromagnetism which is the Form of electrons, photons, and other subatomic particles." >}}
 
 
 

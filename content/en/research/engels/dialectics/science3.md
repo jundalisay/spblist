@@ -143,7 +143,8 @@ The empirical proof of this motion is not wholly free from gaps.
 - But these are insignificant in comparison with what has already been firmly established
 - Each year, they become more and more filled up.*
 
-> *Superphysics note: Human experiences are limited and therefore the scientific system will have perpetual gaps
+
+{{< n n="Human experiences are limited and therefore the scientific system will have perpetual gaps" >}}
 
 
 <!-- How could the proof in detail be otherwise than defective when one bears in mind that  -->

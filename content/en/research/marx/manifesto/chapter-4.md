@@ -23,7 +23,9 @@ In France, the Communists:
 - ally with the Social-Democrats* against the conservative and radical capitalists. 
 - reserve the right to take up a critical position on the phases and illusions handed down from the French Revolution.
 
-> *The party then represented in Parliament by Ledru-Rollin, in literature by Louis Blanc, in the daily press by the Réforme. The name of Social-Democracy signifies, with these its inventors, a section of the Democratic or Republican Party more or less tinged with socialism. [Engels, English Edition 1888]
+
+{{< f f="*The party then represented in Parliament by Ledru-Rollin, in literature by Louis Blanc, in the daily press by the Réforme. The name of Social-Democracy signifies, with these its inventors, a section of the Democratic or Republican Party more or less tinged with socialism. [Engels, English Edition 1888]" >}}
+
 
 
 In Switzerland, they support the Radicals even if the Radicals have antagonistic elements as Democratic Socialists and radical capitalist.
@@ -47,7 +49,7 @@ The Communists now focus chiefly to Germany because:
 - the capitalist revolution in Germany will be the prelude to a proletarian revolution immediately afterwards*.
 
 
-> *Superphysics Note: According to our social cycles model, Germany at that time was already leaving its Merchant (Capitalist) Cycle and was entering a Democratic cycle.  
+{{< n n="According to our social cycles model, Germany at that time was already leaving its Merchant (Capitalist) Cycle and was entering a Democratic cycle." >}}
 
 
 <!-- that is bound to be carried out under more advanced conditions of European civilisation and with a much more developed proletariat than that of England was in the seventeenth, and France in the eighteenth century, and because  -->
@@ -69,4 +71,5 @@ The proletarians have nothing to lose but their chains.
 Working Men of All Countries, Unite!*
 
 
-> *The famous final phrase of the Manifesto, “Working Men of All Countries, Unite!”, in the original German is: “Proletarier aller Länder, vereinigt euch!” Thus, a more correct translation would be “Proletarians of all countries, Unite!” “Workers of the World, Unite. You have nothing to lose but your chains!” is a popularisation of the last three sentences, and is not found in any official translation. Since this English translation was approved by Engels, we have kept the original intact.
+{{< f f="*The famous final phrase of the Manifesto, “Working Men of All Countries, Unite!”, in the original German is: “Proletarier aller Länder, vereinigt euch!” Thus, a more correct translation would be “Proletarians of all countries, Unite!” “Workers of the World, Unite. You have nothing to lose but your chains!” is a popularisation of the last three sentences, and is not found in any official translation. Since this English translation was approved by Engels, we have kept the original intact." >}}
+

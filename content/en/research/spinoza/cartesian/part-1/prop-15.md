@@ -55,7 +55,8 @@ Our will has no limits.
 
 If God had wished to make infinite our faculty of understanding, then he would not have given us the faculty of willing. The will that we already possess is enough for assenting to an infinite number of things.*
 
-> *Superphysics Note: In other words, God gave us will so that we could focus on, and appreciate, specific areas of Existence. A will-less entity would experience all things at once. It would appreciate the All-ness and not the individual-ness
+
+{{< n n="In other words, God gave us will so that we could focus on, and appreciate, specific areas of Existence. A will-less entity would experience all things at once. It would appreciate the All-ness and not the individual-ness" >}}
 
 <!-- needed to give us a more extensive fuculty of willing than that which we already possess in order to enable us to assent to all that we understand. -->
 

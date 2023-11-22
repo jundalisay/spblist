@@ -28,20 +28,20 @@ Every event has infinite “neighbouring” events (realised or imaginary). The 
 Before my theory of Relativity, time played a different and more independent rôle to the space co-ordinates. This is why we usually treat time as an independent continuum*.
 
 
-> *Superphysics Note: The time-coordinate was not important in the past because electromagnetism was not so important in the 18th century. Even in daily life today, we rarely encounter motions that are faster than a jet or racecar as to bother about time-coordinates. Einstein is like a lobbyist for light that promotes the 4D spacetime over the 3D one
+{{< n n="The time-coordinate was not important in the past because electromagnetism was not so important in the 18th century. Even in daily life today, we rarely encounter motions that are faster than a jet or racecar as to bother about time-coordinates. Einstein is like a lobbyist for light that promotes the 4D spacetime over the 3D one" >}}
 
 
 Time is absolute* in classical mechanics -- it is independent of the position and the condition of motion of the system of coordinates. This is expressed in the last equation of the Galileian transformation as `t' = t`. 
 
 
-> *Superphysics Note: Time is absolute in classical mechanics because classical movement happened within the observable space that is within human cognitive limitations.
+{{< n n="Time is absolute in classical mechanics because classical movement happened within the observable space that is within human cognitive limitations." >}}
 
 
 
 
 The 4D spacetime is natural to the theory of relativity which robs time of its independence*. 
 
-> *Superphysics Note: In Superphysics, this is handled by the Physical and Aethereal Cartesian Plane. The Physical Cartesian Plane gives emphasis to space, while the Aethereal Cartesian Plane gives emphasis to time.
+{{< n n="In Superphysics, this is handled by the Physical and Aethereal Cartesian Plane. The Physical Cartesian Plane gives emphasis to space, while the Aethereal Cartesian Plane gives emphasis to time." >}}
 
 
 Time is absolute in classical mechanics because classical movement happened within the observable space that is within human cognitive limitations.

@@ -15,9 +15,8 @@ icon: "/avatars/keynes.png"
 
 In truth, the classical theory has not been alive to the relevance of changes in the level of income or to the possibility of the level of income being actually a function of the rate of the investment*.
 
-> *Superphysics Note: This is because the Classical Theory was anti-mercantilism 
-
-
+{{< n n="This is because the Classical Theory was anti-mercantilism" >}}
+ 
 
 This is illustrated by investment versus interest rates.
 

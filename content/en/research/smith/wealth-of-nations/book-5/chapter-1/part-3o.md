@@ -26,7 +26,7 @@ But after the term's expiration*:
 - the company should be compensated for them<!-- ir value should be paid to the company -->, and
 - the trade should be opened to all the citizens<!--  state's subjects -->.
 
-> *Superphysics Note: This is similar to the Build-Operate-Transfer scheme
+{{< n n="This is similar to the Build-Operate-Transfer scheme" >}}
 
 
 By a perpetual monopoly, everyone else is taxed very absurdly in 2 ways:

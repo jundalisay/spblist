@@ -107,29 +107,70 @@ All this shows that prestige lasts at best four generations.
 
 ## 15. Savage nations are better able to achieve superiority than others.
 
-Chapter 1 Part 3 stated that 93 desert life is the reason for bravery and that savage groups are braver than others. 
+<!-- 93 -->
+Chapter 1 Part 3 stated that:
+- desert life is the reason for bravery
+- savage groups are braver than others. 
 
-They are, therefore, better able to achieve superiority and to take away the things that are in the hands of other nations. The situation of one and the same group changes, in this respect, with the change of time. 
+They are, therefore, can better take away the things that are in the hands of other nations.
 
-Whenever people settle in the fertile plains and amass 94 luxuries and become accustomed to a life of abundance and luxury, their bravery decreases to the degree that their wildness and desert habits decrease.
+The situation of one and the same group changes, in this respect, with the change of time. 
 
-This is exemplified by dumb animals, such as gazelles, wild buffaloes (cows), and donkeys, that are domesticated. When they cease to be wild as the result of contact with human beings, and when they have a life of abundance, their vigor
-and violence undergo change. 
+<!-- 94 -->
 
-This affects even their movements and the beauty of their coat. 95 The same applies to savage human beings who become sociable and friendly.
 
-The reason is that familiar customs determine human nature and character.
+Their bravery decreases as their wildness and desert habits decrease when they:
+- settle in the fertile plains
+- amass luxuries
+- become accustomed to a life of abundance and luxury,
 
-Superiority comes to nations through enterprise and courage. The more firmly rooted in desert habits and the wilder a group is, the closer does it come to achieving superiority over others, if both (parties are otherwise) approximately equal in number, strength, and group (feeling). 
+This is exemplified by dumb domesticated animals such as:
+- gazelles
+- wild buffaloes (cows)
+- donkeys.
 
-In this connection, one may compare the Mudar with the Ijimyar and the Kahlan before them, who preceded them in royal authority and in the life of luxury, and also with the Rabi'ah who settled in the fertile fields of the 'Iraq. 
 
-The Mudar retained their desert habits, and the others embarked upon a life of abundance and great luxury before they did. Desert life prepared the Mudar most effectively for achieving superiority. 
+
+Their vigor and violence undergo change when they:
+- cease to be wild
+- have a life of abundance
+
+<!-- 95 -->
+This affects even their movements and the beauty of their coat. 
+
+The same applies to savage human beings who become sociable and friendly.
+
+This is because familiar customs determine human nature and character.
+
+Superiority comes to nations through enterprise and courage. 
+
+The more firmly rooted in desert habits and the wilder a group is, the closer does it come to achieving superiority over others, if both (parties are otherwise) approximately equal in number, strength, and group (feeling). 
+
+This is proven by comparing the Mudar with:
+- the Ijimyar and the Kahlan before them
+  - These preceded them in royal authority and luxury
+- the Rabi'ah who settled in the fertile fields of the 'Iraq.
+
+The Mudar retained their desert habits.
+
+The others embarked upon a life of abundance and great luxury before the Mudar did.
+
+Desert life prepared the Mudar most effectively for achieving superiority. 
 
 They took away and appropriated what the other groups had in their hands.
 
-The same was the case also with the Banu Tayy, the Banu 'Amir b. Sa'sa'ah, and the Banu Sulaym b. Mansur 96 later on. They remained longer in the desert than the other Mudar and Yemenite tribes, and did not have any of their wealth. The desert habits thus preserved the power of their group feeling, and the habits of luxury did not wear it out. 
+<!-- 96 -->
+The same was the case also with the later:
+- the Banu Tayy
+- the Banu 'Amir b. Sa'sa'ah
+- the Banu Sulaym b. Mansur . 
 
-They thus eventually became the most powerful (group) among (the Arabs). 
+They remained longer in the desert than the other Mudar and Yemenite tribes, and did not have any of their wealth. 
 
-Thus, wherever an Arab tribe leads a life of luxury and abundance, while another does not, the one holding fast to desert life the longer will be superior to and more powerful than the other, if both parties are (otherwise) equal in strength and number.
+The desert habits thus preserved the power of their group feeling, and the habits of luxury did not wear it out. 
+
+They thus eventually became the most powerful group among the Arabs. 
+
+Thus, wherever an Arab tribe leads a life of luxury and abundance, while another does not, the one holding fast to desert life the longer will be superior to and more powerful than the other, if both parties are equal in strength and number.*
+
+{{< n n="Update 2024: This maxim is only true when the level of Physics is in contact forces. It becomes obsolete as one goes up the Elements or Layers. For example, gunpowder of the Convertible Layer made civilized nations superior in warfare. The discovery of electromagnetism made them even more superior, as proven in the current fight between the Israel and Gaza" >}}

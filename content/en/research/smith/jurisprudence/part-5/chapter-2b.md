@@ -13,7 +13,7 @@ description: "The Holy War was then undertaken by most of the European princes"
 
 **This superior degree of humanity in war was introduced during the time of Popery.**
 
-> *Superphysics Note: Catholicism
+{{< n n="Catholicism" >}}
 
 
 We never find it among the Greeks and Romans, despite all their attainments.

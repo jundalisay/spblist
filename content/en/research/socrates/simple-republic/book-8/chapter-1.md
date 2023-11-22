@@ -142,7 +142,7 @@ When discord arose, the two castes were drawn different ways:
 Previously, the upper caste formerly protected the freemen as their friends and maintainers. But there was a battle between the lower and the upper caste. In the end, the upper caste enslaved the freemen and then distributing their land and houses. The upper caste went to war against the freemen. 
 {{< /l >}}
 
-> *Superphysics note: The iron became the democrats. The brass became the oligarchs. The silver became the tyrants. The gold became the aristocrats (philosophers). The upper caste therefore becomes an aristocracy, and the lower an oligarchy.
+{{< n n="The iron became the democrats. The brass became the oligarchs. The silver became the tyrants. The gold became the aristocrats (philosophers). The upper caste therefore becomes an aristocracy, and the lower an oligarchy." >}}
 
 
 

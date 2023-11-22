@@ -78,7 +78,7 @@ As witnessing entity, the Macrocosmic Nucleus:
 
 **This reflection is not like a reflection in a mirror, but an associative reflection like the rays of the sun.** *
 
-> *Superphysics Note: A mirror just lets light bounce off. But other solids reflect light by assimilating a part of that light, as to give color.
+{{< n n="A mirror just lets light bounce off. But other solids reflect light by assimilating a part of that light, as to give color." >}}
 
 
 "Prota yoga" is the association of the Macrocosmic Nucleus with the Cosmic Mind or creation, whereby He functions as the witnessing entity for that creation as a whole. 

@@ -51,7 +51,7 @@ Therefore we have 5 correct variations. Three simple and two double, as already 
 This is why there are 3 outer planets and 2 inner ones*.
 
 
-> *Superphysics note: In Superphysics the reason for the inner and outer planets are the gravitational territories having an inner, middle, and outer regions. Kepler was too obsessed with the 5 Platonic solids being the 5 Planets and so he makes this wrong analogy. 
+{{< n n="In Superphysics the reason for the inner and outer planets are the gravitational territories having an inner, middle, and outer regions. Kepler was too obsessed with the 5 Platonic solids being the 5 Planets and so he makes this wrong analogy. " >}}
 
 <!-- , for this reason (although other reasons are obvious) it is surely correct that the planets have been created in such a number. -->
 

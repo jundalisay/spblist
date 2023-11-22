@@ -58,7 +58,7 @@ All things return (to their root and disappear), and do not know that it is it w
 
 It may be named in the greatest things.
 
-> *Superphysics note: This is similar to Hinduism where the ego is detached from the effect of action
+{{< n n="This is similar to Hinduism where the ego is detached from the effect of action" >}}
 
 
 {{< s v="3">}} Hence in the same way, the sage is able to accomplish his great achievements. It is through his not making himself great that he can accomplish them.

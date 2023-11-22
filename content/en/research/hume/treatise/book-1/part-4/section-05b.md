@@ -35,7 +35,7 @@ These are all absurd and contradictory.* No one can think of a feeling that has:
 - a width of 1 meter, and
 - a thickness of 1 centimeter.
 
-> *Superphysics Note: Hume's error is in not knowing the those philosophers were referring to metaphysical space which is also indivisible as one metaphysical idea. His error is in comparing a metaphysical feeling in physical kilometers or meters. In other words, the indivisible metaphysical feeling is the same as, and of the same material as, the indivisible metaphysical space.  
+{{< n n="Hume's error is in not knowing the those philosophers were referring to metaphysical space which is also indivisible as one metaphysical idea. His error is in comparing a metaphysical feeling in physical kilometers or meters. In other words, the indivisible metaphysical feeling is the same as, and of the same material as, the indivisible metaphysical space.  " >}}
 
 
 Thought and space are totally incompatible.
@@ -98,7 +98,7 @@ A moral reflection cannot be placed on the right or on the left hand of a passio
 
 If the passions and feelings appear to the perception to have a location, the idea of space might be derived from them as well as from the sight and touch.
 
-> *Superphysics Note: This will be proven by visualizing the feelings via machine learning
+{{< n n="This will be proven by visualizing the feelings via machine learning" >}}
 
 
 But this is contrary to what we have already established.

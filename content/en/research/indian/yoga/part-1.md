@@ -60,7 +60,7 @@ weight: 4
 
 <sup>11</sup> Memory is the retention of experiences
 
-> *Superphysics Note: These come from the 5 layers: Matter (Erroneous thoughts), Convertible (Correct thoughts), Radiant (Memory), Spacetime (Sleep), Aethereal (Ideation)
+{{< n n="These come from the 5 layers: Matter (Erroneous thoughts), Convertible (Correct thoughts), Radiant (Memory), Spacetime (Sleep), Aethereal (Ideation)" >}}
 
 
 
@@ -109,7 +109,7 @@ independent from the fundamental qualities of nature. -->
 
 <sup>18</sup> Later, with constant practice, these four kinds of cognition fall away, leaving only samskara. <sup>19</sup> After death, the soul is reborn according to these samskaras through Prakrti.
 
-> *Superphysics Note: Samskara is potential karma. Throwing a rock into the air is action or karma. Its hitting the ground is the result of the action and is also karma. Samskara is the period right after throwing the rock and before it lands. By burning samskara then the consequences of the rock hitting the ground are nullified. The rock will still hit, but whatever it hits will not create a consequence for the thrower. Without consequence, then the thrower is not agitated or worried or hopeful about his throwing the rock. Another way to think of samskara is unfinished business. Without unfinished business, then the soul has no reason to reincarnate. 
+{{< n n="Samskara is potential karma. Throwing a rock into the air is action or karma. Its hitting the ground is the result of the action and is also karma. Samskara is the period right after throwing the rock and before it lands. By burning samskara then the consequences of the rock hitting the ground are nullified. The rock will still hit, but whatever it hits will not create a consequence for the thrower. Without consequence, then the thrower is not agitated or worried or hopeful about his throwing the rock. Another way to think of samskara is unfinished business. Without unfinished business, then the soul has no reason to reincarnate. " >}}
 
 
 
@@ -131,7 +131,7 @@ reborn. -->
 
 <sup>22</sup> This nearness depends on whether the practice is mild, moderate, or intense, <sup>23</sup> or if the soul has surrendered to the Supreme Isvara*.
 
-> *Superphysics Note: Isvara here means the controlling aspect of the Universe 
+{{< n n="Isvara here means the controlling aspect of the Universe " >}}
 
 
 <!-- 1.21. Equalminded contemplation is nearest to those whose desire is most ardent.
@@ -157,7 +157,7 @@ reborn. -->
 
 <sup>27</sup> The Supreme's sound is Om*.
 
-> *Superphysics Note: The Om sound is used to maintain the Universe. You can think of this as the rumble that a machine makes as a sign that it is running. Is the Om sound the cause or the effect? We think it is the effect and that's why some spiritual people can hear it.
+{{< n n="The Om sound is used to maintain the Universe. You can think of this as the rumble that a machine makes as a sign that it is running. Is the Om sound the cause or the effect? We think it is the effect and that's why some spiritual people can hear it." >}}
 
 
 <sup>28</sup> By repetitively chanting the Om sound, the meaning of the Om sound is realized. <sup>29</sup> Then inner consciousness is attained and obstacles disappear. 

@@ -24,7 +24,7 @@ IN every government there are 3 sorts of power:
   - punish criminals
   - judge the disputes between individuals. 
 
-> Superphysics Note: The legislative is the worker class, the executive is warrior class, the judiciary is the intellectual class. We propose a fourth power which is the resource power representing the merchant class. This mirrors the despotism of the workers, the monarchy of the warriors, and the republic of the intellectuals. 
+{{< n n="The legislative is the worker class, the executive is warrior class, the judiciary is the intellectual class. We propose a fourth power which is the resource power representing the merchant class. This mirrors the despotism of the workers, the monarchy of the warriors, and the republic of the intellectuals. " >}}
 
 
 The political liberty of the subject is a tranquillity of mind arising from the opinion each person has of his safety. In order to have this liberty, it is requisite the government be so con stituted as one man need not be afraid of another.

@@ -64,7 +64,7 @@ Whether what is called Mind and what is called Body is one and the same substanc
 
 9. When we say that something is contained in the nature or conception of some thing, that is the same as saying that it is true of that thing or can be truly affirmed of it.*
 
-> *In each of the preceding 8 definitions, a word or phrase has been Italicized to indicate the definition. But in this definition and the next, there is no text italicized. We assume that Definition 9 has as definition contained in the nature or conception of some thing and Definition 10 are distinct in reality.
+{{< f f="*In each of the preceding 8 definitions, a word or phrase has been Italicized to indicate the definition. But in this definition and the next, there is no text italicized. We assume that Definition 9 has as definition contained in the nature or conception of some thing and Definition 10 are distinct in reality." >}}
 
 
 10. Two substances are said to be distinct in reality when each one can exist without the other.

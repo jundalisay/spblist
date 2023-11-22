@@ -42,12 +42,12 @@ By proper distinctions and separations, we can divide this idea into parts which
 
 **We reject the mind's infinite capacity.** *
 
-> *Superphysics Note: We assume that Hume is bashing the infinite divisibility of space by Descartes-Spinoza since he bashes both in another Section
+{{< n n="We assume that Hume is bashing the infinite divisibility of space by Descartes-Spinoza since he bashes both in another Section" >}}
 
 
 Instead, we suppose that the mind can reach the final division of its ideas.*
 
-> *Superphysics Note: This is now Planck length and Planck time which are not derived experimentally, but from derivation from known constants
+{{< n n="This is now Planck length and Planck time which are not derived experimentally, but from derivation from known constants" >}}
 
 
 
@@ -69,21 +69,21 @@ But the idea of a grain of sand* is:
 - not separable into 20, much less into 1,000, 10,000, or an infinite number of different ideas.
 
 
-> *Superphysics Note: Here, Hume is mixed up between the idea of a grain of sand and a physical grain of sand. A grain of sand is divisible into atoms. So clearly, he means the **metaphysical** idea of a grain of sand. 
+{{< n n="Here, Hume is mixed up between the idea of a grain of sand and a physical grain of sand. A grain of sand is divisible into atoms. So clearly, he means the **metaphysical** idea of a grain of sand. " >}}
 
 
 The same is true for the impressions of the senses and the imagination.
 
 Put a spot of ink on paper, fix your eye on that spot, and walk away that finally you lose sight of it. The moment before it vanished, the image or impression was perfectly indivisible. The smallest parts of distant bodies do not convey any sensible impression, not because of the lack of light striking our eyes.*
 
-> *Superphysics Note: Here, Hume makes it clear that the basis divisibilty is the physical detection capability.
+{{< n n="Here, Hume makes it clear that the basis divisibilty is the physical detection capability." >}}
 
 
 It is because they are removed beyond that distance, at which their impressions were:
 - reduced to a minimum, and
 - incapable of any further reduction*.
 
-> *Superphysics Note: No, they can be further reduced or divided, but it would not be detectable anymore. 
+{{< n n="No, they can be further reduced or divided, but it would not be detectable anymore. " >}}
 
 
 
@@ -115,14 +115,14 @@ We take the impressions of those minute objects to be equal to the objects.
 
 We find by reason that there are other objects vastly more minute.*
 
-> *Superphysics Note: This is because the aether naturally can go beyond physical limitations.\
+{{< n n="This is because the aether naturally can go beyond physical limitations." >}}
 
 
 We too hastily conclude that these more minute objects are inferior to any idea of our imagination or impression of our senses.
 
 We can create ideas no greater than the smallest atom of the animal spirits* of an insect 1,000 times smaller than a mite.
 
-> *Superphysics Note: Here, Hume misunderstands Descartes' animal spirits and is why we assume that this section attacks Descartes. 
+{{< n n="Here, Hume misunderstands Descartes' animal spirits and is why we assume that this section attacks Descartes. " >}}
 
 
 We should rather conclude, that the difficulty lies in enlarging our conceptions to create a just notion of a mite or an insect 1,000 times smaller than a mite.
@@ -133,5 +133,5 @@ According to the system of infinite divisibility, this idea is:
 - utterly impossible*, and
 - extremely difficult because of the vast number and multiplicity of these parts.
 
-> *Superphysics Note: No, we do not need to have an idea of every tiny part. We only need what is relevant.
+{{< n n="No, we do not need to have an idea of every tiny part. We only need what is relevant." >}}
 

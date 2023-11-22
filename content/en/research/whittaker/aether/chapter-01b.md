@@ -19,7 +19,7 @@ The globules of the 2nd element, and all the matter of the 1st element, are cons
 This presses the globules with each other. They tend to move outwards, although they do not actually so move.[6] 
 The transmission of this pressure constitutes light.*
 
-> *Superphysics Note: In Superphysics, light is from the friction of spacetime particles which we call qosts. This overhauls the material Big Bang into the aethereal Big Bootup, evidenced by ~~baryonic~~ aethereal acoustic oscillations. 
+{{< n n="In Superphysics, light is from the friction of spacetime particles which we call qosts. This overhauls the material Big Bang into the aethereal Big Bootup, evidenced by ~~baryonic~~ aethereal acoustic oscillations." >}}
 
 
 The action of light therefore extends on all sides around the sun and fixed stars, and travels instantaneously to any distance.[7]
@@ -65,7 +65,8 @@ When rays meet ponderable bodies, "they are liable to be deflected or stopped in
 
 Thus he replaces light, whose velocity of propagation he believes to be always infinite*, by a projectile whose velocity varies from one medium to another. 
 
-> *Superhysics Note: The speed of light to Descartes was infinite because he really meant the aether
+{{< n n="The speed of light to Descartes was infinite because he really meant the aether" >}}
+
 
 
 Next is the law of refraction[11]:
@@ -103,7 +104,7 @@ The use of the magnetic compass at sea was not derived from classical antiquity.
 
 Magnetism was one of the few sciences which progressed during the Middle Ages. In the 13th century, Petrus Peregrinus,[13] a native of Maricourt in Picardy discovered it.*
 
-> *Superphysics Note: The Chinese discovered it much earlier in 400 BC.
+{{< n n="The Chinese discovered it much earlier in 400 BC." >}}
 
 
 He took a natural magnet or lodestone, rounded into a globular form. He laid it on a needle, and marked the line along which the needle set itself. 

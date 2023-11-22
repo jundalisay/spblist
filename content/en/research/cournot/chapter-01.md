@@ -45,7 +45,7 @@ But it would be vain for him to think of exchanging it for something which he mi
 But he is neither able to accumulate his products, nor to exchange them for objects of luxury which do not exist. 
 - He has power, authority, the enjoyments which belong to his position, but he has not wealth*.
 
-> *Superphysics Note: Here, Cournot shallowly equates wealth with money, which is a circulating capital to Adam Smith
+{{< n n="Here, Cournot shallowly equates wealth with money, which is a circulating capital to Adam Smith" >}}
 
 
 

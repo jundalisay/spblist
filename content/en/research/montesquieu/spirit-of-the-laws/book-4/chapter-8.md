@@ -21,7 +21,7 @@ He agrees with him in the power and influence of music over the manners of the p
 
 It is an opinion grounded on mature reflection being one of the principles of their polity. Thus it was with music that they enacted laws, and how they required cities should be governed.*
 
-> *Superphysics Note: Music here is not audible music, but philosophy-religion-worship (poetry), feeling, and mentality.
+{{< n n="Music here is not audible music, but philosophy-religion-worship (poetry), feeling, and mentality." >}}
 
 In the Greek cities, especially those whose principal object was war, all lucrative arts and professions were considered as unworthy of a freeman. 
 

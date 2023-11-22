@@ -17,8 +17,7 @@ icon: "/avatars/keynes.png"
 
 THERE is not much discussion of interest rates in the works of Marshall, Edgeworth or Professor Pigou*.
 
-
-> *Superphysics Note: This is because productivity is the focus of Classical Economics, not money
+{{< n n="This is because productivity is the focus of Classical Economics, not money" >}}
 
 
 ## Alfred Marshall = Interest is the price of capital
@@ -50,7 +49,8 @@ It is more accurate to say that if the net interest rate on new investments in e
 
 The value of capital investment in land, building, etc. is the aggregate discounted value of its estimated future net incomes [or quasi-rents]. If its prospective income-yielding power should diminish, its value would fall accordingly and would be the capitalised value of that smaller income after depreciation” (p. 593). 
 
-> *Superphysics Note: Keynes emphasizes the future, yet bashes the future.
+
+{{< n n="Keynes emphasizes the future, yet bashes the future." >}}
 
 
 
@@ -82,7 +82,8 @@ for many savings which are meant to become capital in fact fail of their purpose
 
 Pigou believes that interest rate is determined by demand and supply of real capital which is in the control of a bank.
 
-> *Industrial Fluctuations (1st edn.), pp. 251-3
+{{< f f="*Industrial Fluctuations (1st edn.), pp. 251-3" >}}
+
 
 He argues that:
 
@@ -99,7 +100,8 @@ I think this is caused by Marshall taking the concept of “interest”, which b
 
 “Interest” has really no business to turn up at all in Marshall’s Principles of Economics, — it belongs to another branch of the subject.
 
-> *Superphysics Note: Here, Keynes exposes that he is totally money-minded
+
+{{< n n="Here, Keynes exposes that he is totally money-minded" >}}
 
 
 In his Economics of Welfare, Professor Pigou <!-- , conformably with his other tacit assumptions, --> leads us to infer that:

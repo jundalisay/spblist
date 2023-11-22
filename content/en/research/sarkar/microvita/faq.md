@@ -114,10 +114,9 @@ Can there be any correlation between the specialities of the nuclear structure o
 You know nothing about the nuclear structure of microvita. You know a little about the nuclear structure of carbon atoms. You know a few specialities of carbon atoms. 
 
 There can be a proper adjustment and correlation* with friendly microvita. For other microvita there cannot be any correlation. They are ultravires to the existence of each other.
-
-> *Superphysics Note: This is because the correlation depends on the perceiving mind. 
 {{< /l >}}
 
+{{< n n="This is because the correlation depends on the perceiving mind." >}}
 
 {{< l a="Sarkar" >}}
 When a few negative microvita penetrate your body, you feel very uneasy. But when millions of negative microvita enter, it does not take more then a few seconds for even an elephant to die. 
@@ -127,10 +126,8 @@ If neutral microvita enter your body, you do not feel anything special. When fri
 A few negative microvita, when they enter the human body and mind, bring much change in the feelings, but when millions of them enter, it becomes very difficult for anyone to survive long. 
 
 **Ordinarily, microvita become more active in the night when human beings are asleep.** *
-
-> *Superphysics Note: This is because the physical sense organs are shut down, leaving only the non physical lower and higher minds active. 
 {{< /l >}}
 
-
+{{< n n="This is because the physical sense organs are shut down, leaving only the non physical lower and higher minds active." >}}
 
 February 1987

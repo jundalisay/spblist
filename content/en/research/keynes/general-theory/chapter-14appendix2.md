@@ -40,14 +40,15 @@ It assumes the usual classical assumption that there is always full employment. 
 
 It assumes 'ceteris paribus', that there is no change* in psychological propensities and expectations other than those arising out of a change in money supply. In such a case, there is only one rate of interest which will be compatible with full employment in the long term.
 
-> *Superphysics Note: The Classical notion is natural and correct because it occured before profit maximization (a concept from Mercantilism) was enshrined by the marginal revolution. The imposition of profit maximization is the colossal change in psychological expectations that rendered the Classical notion of interest invalid to Keynes, who lived in a time when money became the established religion and profit maximization the mode of worship.
+{{< n n="The Classical notion is natural and correct because it occured before profit maximization (a concept from Mercantilism) was enshrined by the marginal revolution. The imposition of profit maximization is the colossal change in psychological expectations that rendered the Classical notion of interest invalid to Keynes, who lived in a time when money became the established religion and profit maximization the mode of worship." >}}
 
 
 Ricardo and his successors failed to see that even in the long term:
 - the volume of employment is not necessarily full but is capable of varying
 - to every banking policy there corresponds a different long-period level of employment so that there are a number of positions of long-period equilibrium corresponding to different conceivable interest policies on the part of the monetary authority. 
 
-> *Superphysics Note: Here, Keynes points to the power of banks in controlling employment, different from the time of Ricardo when they were in the power of entrepreneurs, merchants, and industrialists. This implies that banks in 1936 had already gained such an unnatural economic power. This is proven by giant banks such as JP Morgan and the Federal Reserve being established in the 1890s to the 1910s. This huge, but imperceptible, change was the necessary consequence of the marginal revolution.   
+
+{{< n n="*Here, Keynes points to the power of banks in controlling employment, different from the time of Ricardo when they were in the power of entrepreneurs, merchants, and industrialists. This implies that banks in 1936 had already gained such an unnatural economic power. This is proven by giant banks such as JP Morgan and the Federal Reserve being established in the 1890s to the 1910s. This huge, but imperceptible, change was the necessary consequence of the marginal revolution." >}}
 
 
 Ricardo is correct if applied only to the money supply created by a central bank. <!-- monetary authority, it would still have been correct on the assumption of flexible money-wages. --> It is true that interest rates would not change if the central bank held money supply at a fixed amount. 
@@ -60,7 +61,7 @@ But if the central bank changes the money supply, such as by buying of selling b
 
 <!--  which it will, either by a change in the volume of discounts or by open-market operations, increase or decrease its assets — which is what Ricardo expressly does mean in the above quotation —  then it is not the case either that the policy of the monetary authority is nugatory or that only one policy is compatible with long-period equilibrium. -->
 
-> *Superphysics Note: According to Adam Smith, the buying and selling of bonds is a mercantilist tool <br> **Keynes imposes his ideas onto Ricardo who clearly said that interest rates have nothing to do with the bank, but with the profits in society (in line with Adam Smith's notions).
+{{< n n="*According to Adam Smith, the buying and selling of bonds is a mercantilist tool <br> **Keynes imposes his ideas onto Ricardo who clearly said that interest rates have nothing to do with the bank, but with the profits in society (in line with Adam Smith's notions)." >}}
 
 
 <!-- though in the extreme case where money-wages are assumed to fall without limit in face of involuntary unemployment through a futile competition for employment between the unemployed labourers, there will, it is true, be -->
@@ -139,7 +140,11 @@ But the equality between the stock of capital-goods offered and the stock demand
 
 2. This assumes that income is not constant. 
 
-But it is not obvious in what way a rise in the rate of interest will lead to “extra work”. Is the suggestion that a rise in the rate of interest is to be regarded, by reason of its increasing the attractiveness of working in order to save, as constituting a sort of increase in real wages which will induce the factors of production to work for a lower wage? This is, I think, in Mr. D. H. Robertson’s mind in a similar context. Certainly this “would not quickly amount to much”; and an attempt to explain the actual fluctuations in the amount of investment by means of this factor would be most unplausible, indeed absurd. My rewriting of the latter half of this sentence would be= “and if an extensive increase in the demand for capital in general, due to an increase in the schedule of the marginal efficiency of capital, is not offset by a rise in the rate of interest, the extra employment and the higher level of income, which will ensue as a result of the increased production of capital-goods, will lead to an amount of extra waiting which in terms of money will be exactly equal to the value of the current increment of capital-goods and will, therefore, precisely provide for it.” 
+But it is not obvious in what way a rise in the rate of interest will lead to “extra work”. Is the suggestion that a rise in the rate of interest is to be regarded, by reason of its increasing the attractiveness of working in order to save, as constituting a sort of increase in real wages which will induce the factors of production to work for a lower wage? This is, I think, in Mr. D. H. Robertson’s mind in a similar context. 
+
+Certainly this “would not quickly amount to much”; and an attempt to explain the actual fluctuations in the amount of investment by means of this factor would be most unplausible, indeed absurd. My rewriting of the latter half of this sentence would be:
+
+“and if an extensive increase in the demand for capital in general, due to an increase in the schedule of the marginal efficiency of capital, is not offset by a rise in the rate of interest, the extra employment and the higher level of income, which will ensue as a result of the increased production of capital-goods, will lead to an amount of extra waiting which in terms of money will be exactly equal to the value of the current increment of capital-goods and will, therefore, precisely provide for it.” 
 
 3. Why not by a rise in the supply price of capital-goods? Suppose, for example, that the “extensive increase in the demand for capital in general” is due to a fall in the rate of interest. I would suggest that the sentence should be rewritten= “In so far, therefore, as the extensive increase in the demand for capital-goods cannot be immediately met by an increase in the total stock, it will have to be held in check for the time being by a rise in the supply price of capital-goods sufficient to keep the marginal efficiency of capital in equilibrium with the rate of interest without there being any material change in the scale of investment; meanwhile (as always) the factors of production adapted for the output of capital-goods will be used in producing those capital-goods of which the marginal efficiency is greatest in the new conditions.” 
 

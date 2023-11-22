@@ -45,7 +45,7 @@ The work of the Creator<!-- , whenever he looks to the unchangeable and fashions
 
 Was the heaven or the world always in existence and without beginning? Or was it created, and had it a beginning?*
 
-> *Superphysics Note: Timaeus uses the created angle to explain how physical reality works. Whereas Superphysics believes in both non-created and created angles. The non-created is the Nirguna Brahma or the Absolute Entity and the created angle is the journey from the Absolute into the Supreme Entity or Saguna Brahma. The kew feature of the Supreme Entity is a natural hierarchy wherein the aether is superior and matter is the inferion. This is why money cannot buy true happiness or anything lasting, which can only be acquired by aethereal spirituality.  
+{{< n n="Timaeus uses the created angle to explain how physical reality works. Whereas Superphysics believes in both non-created and created angles. The non-created is the Nirguna Brahma or the Absolute Entity and the created angle is the journey from the Absolute into the Supreme Entity or Saguna Brahma. The kew feature of the Supreme Entity is a natural hierarchy wherein the aether is superior and matter is the inferion. This is why money cannot buy true happiness or anything lasting, which can only be acquired by aethereal spirituality. " >}} 
 
 
 <!-- , whether called by this or by any other more appropriate name—assuming the name, I am asking a question which has to be asked at the beginning of an enquiry about anything—was the world,  -->
@@ -95,7 +95,7 @@ Why did the Creator make this world of generation?
 
 He was good.* The good can never have any jealousy of anything. Being free from jealousy, He desired that all things should be as like Himself as they could be.
 
-> *Superphysics Note: Good here means Positive and inclined to create and preserve, as opposed to Negative which wants to destroy. This implies that created being want to exist. However, the pure Positivity of the Creator is a fallacy from actual experience. 
+{{< n n="Good here means Positive and inclined to create and preserve, as opposed to Negative which wants to destroy. This implies that created being want to exist. However, the pure Positivity of the Creator is a fallacy from actual experience." >}} 
 
 
 This is in the truest sense the origin of creation and of the world, as we shall do well in believing on the testimony of wise men: God wamted that all things should be good and nothing bad, so far as this was attainable. 
@@ -113,7 +113,7 @@ Reflecting on the things which are visible by nature, he found generally that:
 This is why, when he was framing the universe, he put intelligence in soul*, and soul in body, so that his work which was by nature fairest and best. 
 - Using the language of probability, we may say that the world became a living creature truly endowed with soul and intelligence by the providence of God.
 
-> *Superphysics note: Intelligence here is the Positive Force, the soul is the aethereal mind or material
+{{< n n="Intelligence here is the Positive Force, the soul is the aethereal mind or material" >}}
 
 
 In the likeness of what animal did the Creator make the world? 
@@ -135,7 +135,7 @@ If the created copy is to accord with the original, then there must be one only.
 
 Thus, the Creator made only one world.*
 
-> *Superphysics Note: We call this Saguna Brahma or Totality of Existence. Each world has many copies within that single Brahma or Totality. 
+{{< n n="We call this Saguna Brahma or Totality of Existence. Each world has many copies within that single Brahma or Totality. " >}}
 
 
 <!-- In order then that the world might be solitary, like the perfect animal, the creator made not two worlds or an infinite number of them; but there is and ever will be one only-begotten and created heaven. -->
@@ -151,14 +151,14 @@ The fairest bond is that which makes the most complete fusion* of:
 - itself and
 - the things which it combines
 
-> *Superphysics Note: In Social Superphysics, this is why the leaders of society must bind themselves with the citizens, instead of commanding from afar. 
+{{< n n="In Social Superphysics, this is why the leaders of society must bind themselves with the citizens, instead of commanding from afar. " >}}
 
 
 Proportion is best adapted to effect such a union. 
 
 If a set of any 3 numbers has a mean, the 1st number is 
 
-> *Superphysics Note: For example, 1 and 5 has 3 as its 'mean' being away by 2 units from both.
+{{< n n="For example, 1 and 5 has 3 as its 'mean' being away by 2 units from both." >}}
 
 
 For whenever in any three numbers, whether cube or square, there is a mean, which is to the last term what the first term is to it.
@@ -169,7 +169,7 @@ When the mean is to the first term as the last term is to the mean—then the me
 If the universal frame had been created a surface only and having no depth, a single mean would have sufficed to bind together itself and the other terms. 
 - But now, the world must be solid. Solid bodies are always compacted two means, not one.*
 
-> *Superphysics Note: In a universe where there is only light or electromagnetism, there would only be one 'mean'. But since we live in a universe with solid material bodies, there are 2. This manifests as wave-particle duality.
+{{< n n="In a universe where there is only light or electromagnetism, there would only be one 'mean'. But since we live in a universe with solid material bodies, there are 2. This manifests as wave-particle duality." >}}
 
 
 And so, God placed water and air in the mean between fire and earth.

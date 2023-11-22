@@ -139,5 +139,4 @@ Besides this, they used every trick to reduce:
 
 All these things were permitted by the military rules they created to avoid both effort and danger. Thus, they reduced Italy’s reputation and have brought it into slavery*.
 
-
-> *Superphysics Note: This indicates that Italy then was in a philosophical cycle
+{{< n n="This indicates that Italy then was in a philosophical cycle" >}}

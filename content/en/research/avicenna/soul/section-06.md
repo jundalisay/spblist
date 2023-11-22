@@ -21,7 +21,6 @@ Philosophers have differed on how we see.
 In the Timaeus, Plato asserts that they perceive wholly and solely through an [aethereal] ray that shoots out beyond the eye. This makes them sense the sensible objects*<!--  that are seen -->. 
 
 
-<!-- > *Superphysics Note: This is the aether as a substance of perception -->
 
 
 Others assert that the perceiving power itself encounters the sensible objects that are seen, and so perceives them.
@@ -39,7 +38,7 @@ Aristotle is correct and Plato’s view is false*.
 If a[n aethereal] ray goes out from the eyes and encounters sensible objects, then sight would not need light. It would be able to perceive in the dark.
 <!-- - light up the air on its exit into the dark -->
 
-> *Superphysics note: Plato's 'ray' is merely the aethereal willpower of the soul to want to perceive such objects. A less-physical example is curiosity.  
+{{< n n="Plato's 'ray' is merely the aethereal willpower of the soul to want to perceive such objects. A less-physical example is curiosity.  " >}}
 
 
 

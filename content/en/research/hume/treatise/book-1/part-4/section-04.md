@@ -48,7 +48,7 @@ The following are like the spectres in the dark:
 - their fictions of substance and accident, and
 - their reasonings on substantial forms and occult qualities.
 
-> *Superphysics note: Here, Hume is targetting Aristotle, as seen in Section 3 
+{{< n n="Here, Hume is targetting Aristotle, as seen in Section 3 " >}}
 
 
 They are derived from common principles in human nature which are not universal and are avoidable.

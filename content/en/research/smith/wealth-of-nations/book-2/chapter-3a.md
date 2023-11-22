@@ -36,7 +36,7 @@ But the manufacturer’s labour realizes itself in some vendible commodity which
 - The price of that vendible commodity can afterwards mobilize labour equal to the labour which originally produced it*.
 
 
-> *Superphysics note: This is similar to how the 1 guinea coin mobilized value worth 3 guineas through three transactions or by being circulated three times.
+{{< n n="This is similar to how the 1 guinea coin mobilized value worth 3 guineas through three transactions or by being circulated three times." >}}
 
 On the contrary, the labour of the menial servant, does not realize itself in any vendible commodity.
 
@@ -219,7 +219,7 @@ Our ancestors were idle for the lack of encouragement to industry. The proverb s
 We are more industrious than our forefathers because the funds presently maintaining industry are much greater than the funds maintaining idleness, compared with the funds 200-300 years ago*.
 
 
-> *Superphysics Note:  This is why Economic Superphysics seeks to repeal both the minimum wage and contractualization
+{{< n n=" This is why Supereconomics seeks to repeal both the minimum wage and contractualization" >}}
 
 
 

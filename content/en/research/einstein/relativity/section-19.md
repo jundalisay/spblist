@@ -29,7 +29,8 @@ According to Faraday, a magnet attracts a piece of iron not through the medium o
 
 This magnetic field is always around the magnet. It operates on the piece of iron, so that the iron moves towards the magnet.
 
-> *Superphysics Note: In Cartesian Physics, the magentic field is a combined effect of Electromagnetism, Matter, and Spacetime, with Spacetime being the true medium. A magnet attract the iron really eliminates the spacetime between them. A magnet that repels another magnet really creates space between them.  
+
+{{< n n="In Cartesian Physics, the magentic field is a combined effect of Electromagnetism, Matter, and Spacetime, with Spacetime being the true medium. A magnet attract the iron really eliminates the spacetime between them. A magnet that repels another magnet really creates space between them." >}}
 
 
 
@@ -54,7 +55,8 @@ In contrast to electric and magnetic fields, **the gravitational field makes bod
 - **This acceleration does not depend at all on that body's material or its physical state**. A piece of lead and a piece of wood fall in exactly the same way*. <!-- manner in a
 gravitational field (in vacuo), when they start off from rest or with the same initial velocity.  -->
 
-> *Superphysics Note: It only depends on their Nature as Matter (as opposed to Electromagnetic Nature like light or electrons)
+
+{{< n n="It only depends on their Nature as Matter (as opposed to Electromagnetic Nature like light or electrons)" >}}
 
 <!-- exhibits a most remarkable property, which is of fundamental importance for what follows.  -->  <!-- Bodies solely affected by the influence of gravity accelerate. --> 
 
@@ -77,7 +79,8 @@ Force = gravitational mass × intensity of the gravitational field
 
 The “gravitational mass”* is also a characteristic constant [G] for the body. 
 
-> *Superphysics Note: Here, Einstein subtly hacks Newton by converting his 'mass' into 'gravitational  mass'. This is in order to make room for his new idea which he calls 'inertial mass' which in Superphysics is 'electromagnetic potential' 
+
+{{< n n="Here, Einstein subtly hacks Newton by converting his 'mass' into 'gravitational  mass'. This is in order to make room for his new idea which he calls 'inertial mass' which in Superphysics is 'electromagnetic potential'" >}}
 
 
 From these, 2 relations follows:
@@ -115,7 +118,8 @@ The gravitational mass of a body is equal to its inertial mass.
 
 This important law is already in mechanics. But it had not been interpreted*. 
 
-> *Superphysics Note: Inertia in rest mass is gravity. It had not been interpreted because no one would be crazy to assign the cause of gravity to electromagnetism. Even in Cartesian Physics, the cause of gravity is Spacetime and not Matter. 
+
+{{< n n="Inertia in rest mass is gravity. It had not been interpreted because no one would be crazy to assign the cause of gravity to electromagnetism. Even in Cartesian Physics, the cause of gravity is Spacetime and not Matter." >}}
 
 
 I interpret it as: The inertia of body is its weight. 

@@ -81,7 +81,7 @@ At one time the Germans had more than enough military armament. But they lacked:
 - the energy* to for national self-preservation and 
 - the will to hold on to one's own. 
 
-> *Superphysics Note: The Germans were materially depleted compared to their enemies. This caused the loss of energy. This wrong belief became evident again in World War 2.
+{{< n n="The Germans were materially depleted compared to their enemies. This caused the loss of energy. This wrong belief became evident again in World War 2." >}}
 
 
 The best armament is only dead and worthless material as long as the spirit is wanting which makes men willing and determined to avail themselves of such weapons. 

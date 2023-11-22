@@ -33,7 +33,7 @@ Suppose a man is deaf and dumb.
 
 Hearing and speech are controlled by nerve cells or nerve fibres which in turn are controlled with the help of the lunar plexus*.
 
-> *Superphysics Note: In Cartesian Physics, this is the pineal gland.
+{{< n n="In Cartesian Physics, this is the pineal gland." >}}
 
 
 Positive microvita may function directly up to the lunar plexus. But there at the lunar plexus, if positive microvita are to influence the nerve cells, they require some special power. 

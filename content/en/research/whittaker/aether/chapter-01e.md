@@ -46,15 +46,13 @@ To avoid dispute and make this hypothesis general, light consists of rays differ
 
 In any case, light and aether are capable of mutual interaction. Aether is the intermediary between light and ponderable matter*. 
 
-> *Superphysics note: In Superphysics, spacetime is the intermediary between the aether and light. Aether is the intermediary between Idea and Spacetime. 
+{{< n n="In Superphysics, spacetime is the intermediary between the aether and light. Aether is the intermediary between Idea and Spacetime." >}} 
 
 
 When ray of light meets a stratum of aether denser or rarer than that through which it has lately been passing, it is, in general, deflected from its rectilinear course. 
 
 Differences of density of the aether between one material medium and another account on these principles for the reflexion and refraction of light. 
 
-
-<!--  -->
 
 The condensation or rarefaction of the aether due to a material body extends to some little distance from the surface of the body, so that the inflexion due to it is really continuous and not abrupt. 
 

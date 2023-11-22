@@ -128,4 +128,5 @@ We take refuge in God from doing what an intelligent person ought not to
 do. 
  -->
 
-> *Superphysics Note: This is why we simplify the works of the Enlightenment
+{{< n n="This is why we simplify the works of the Enlightenment" >}}
+

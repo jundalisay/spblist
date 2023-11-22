@@ -31,7 +31,7 @@ For example, There might be cold in the dogdays.
 - This does not occur of necessity*.
 
 
-> *Superphysics note: This is just a cover for ignorance of ultimate causes
+{{< n n="This is just a cover for ignorance of ultimate causes" >}}
 
 
 The accidental is what occurs:
@@ -70,9 +70,9 @@ Luck is an accidental cause at work in such events adapted to an end as are usua
 
 And so, luck and thought are concerned with the same sphere. This is because purpose cannot exist without thought. 
 
-The causes from which lucky results might happen are indeterminate.
+The causes from which lucky results might happen are indeterminate.*
 
-<!-- > *Superphysics Note: This proves that Aristotle is unenlightened -->
+{{< n n="This proves that Aristotle is unenlightened" >}}
 
 
 And so luck is obscure to human calculation and is a cause by accident, but in the unqualified sense, a cause of nothing. 

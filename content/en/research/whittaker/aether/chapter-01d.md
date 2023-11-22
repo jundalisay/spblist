@@ -132,7 +132,7 @@ His theory of gravitation, for example, is strictly an expression of the results
 
 It involves no hypothesis as to the cause of the attraction which subsists between ponderable bodies*.
 
-> *Superphysics Note: This is why Newtonian Physics is forever ignorant on root causes -- because it never aimed at finding root causes. It just wanted to gather data and explain all things as they are. It really is just notating qualitative phenomena into dry, quantitative systems. 
+{{< n n="This is why Newtonian Physics is forever ignorant on root causes -- because it never aimed at finding root causes. It just wanted to gather data and explain all things as they are. It really is just notating qualitative phenomena into dry, quantitative systems." >}}
 
 
 His own desire in regard to optics was to present a theory free from speculation as to the hidden mechanism of light.

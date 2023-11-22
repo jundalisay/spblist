@@ -39,7 +39,7 @@ Extending this method will encounter difficulties.
 
 For example, if 3 squares meet at a corner, then 2 sides of the fourth square are already laid, and as a consequence, the arrangement of the remaining two sides of the square is already completely determined. But I am now no longer able to adjust the quadrilateral so that its diagonals may be equal. If they are equal of their own accord, then this is an especial favour of the marble slab and of the little rods about which I can only be thankfully surprised.*
 
-> *Superphysics Note: We do not understand this paragraph. 
+{{< n n="We do not understand this paragraph." >}}
 
 <!-- We must needs experience many such surprises if the construction is to be successful. If everything has really gone smoothly, then I say that --> 
 
@@ -57,7 +57,8 @@ Let us say that the rods “expand” with the increase of temperature. We heat 
 
 <!-- With reference to our little rods — defined as unit lengths — --> The marble slab no longer is a Euclidean continuum.*
 
-> *Superphysics Note: In Euclid's Elements, 3D space is still Euclidean
+
+{{< n n="In Euclid's Elements, 3D space is still Euclidean" >}}
 
 We also can no longer use <!-- , and we are also no longer in the position of defining --> Cartesian coordinates<!--  directly with their aid , since the above construction can no longer be carried out.--> But since there are other things which are not influenced in a similar manner to the little rods (or perhaps not at all) by the temperature of the table, it is possible quite naturally to maintain the point of view that the marble slab is a “Euclidean continuum.” This can be done  by making a more subtle stipulation about the measurement or the comparison of lengths.
 
@@ -68,5 +69,6 @@ How else should we define the distance without our proceeding being in the highe
 Cartesian coordinates must then be discarded and replaced by another system which does not assume the validity of Euclidean geometry for rigid bodies*. 
 
 
-> *Einstein Note: Mathematicians solved this in this way: An ellipsoid is in Euclidean 3D space. It has a 2D surface just like a plane. the situation depicted here corresponds to the one brought about by the general postulate of relativity (Section 23). Gauss used this 2D geometry from first principles, neglecting <!--  of the fact that the surface belongs to a --> the Euclidean continuum of three dimensions. If we stick to our example of the rigid rods on the marble slab, we will find that the laws of these rods are different from those of Euclidean plane geometry. Gauss pointed to Riemann's method of dealing with multidimensional, non-Euclidean continua. Thus, those mathematicians long ago solved the formal problems of General Relativitys
+
+{{< f f="Mathematicians solved this in this way: An ellipsoid is in Euclidean 3D space. It has a 2D surface just like a plane. the situation depicted here corresponds to the one brought about by the general postulate of relativity (Section 23). Gauss used this 2D geometry from first principles, neglecting <!--  of the fact that the surface belongs to a --> the Euclidean continuum of three dimensions. If we stick to our example of the rigid rods on the marble slab, we will find that the laws of these rods are different from those of Euclidean plane geometry. Gauss pointed to Riemann's method of dealing with multidimensional, non-Euclidean continua. Thus, those mathematicians long ago solved the formal problems of General Relativity" >}}
 

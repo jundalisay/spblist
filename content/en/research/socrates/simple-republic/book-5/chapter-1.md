@@ -155,7 +155,7 @@ But our opponents use the word 'nature' differently*, as physical natures.
 {{< /l >}}
 
 
-> *Superphysics note: The problem here is the ambiguity of the word "Nature". Hindus solve this with a separate word "dharma", just as Taoists use a separate word "tao" for "nature" that is based on metaphysics instead of that based on shallow perception
+{{< n n="The problem here is the ambiguity of the word 'Nature'. Hindus solve this with a separate word 'dharma', just as Taoists use a separate word 'tao' for 'nature' that is based on metaphysics instead of that based on shallow perception" >}}
 
 
 {{< l a="Socrates" >}}

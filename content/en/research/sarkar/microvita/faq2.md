@@ -85,13 +85,10 @@ What is the relationship between the collective body of ectoplasm [lower mind] a
 {{< l a="Sarkar" >}}
 There are so many microcosms and microvita. **Microvita do not have the clear “I” feeling**. Their existence is more of physical nature than of psychic nature.* 
 
-> *Superphysics Note: This is parallel to Elements of the Physical Domain. Therefore, microvita are the Elements of the Metaphysical Domain, as the Lower Mind of the Supreme, just as souls are the Higher Mind of the Supreme. 
-
-
 The collective body of microvita is another name of carbon atom. The carbon atom is another name of so many microvita with so many specialities, with so many characteristics. 
-
 {{< /l >}}
 
+{{< n n="This is parallel to Elements of the Physical Domain. Therefore, microvita are the Elements of the Metaphysical Domain, as the Lower Mind of the Supreme, just as souls are the Higher Mind of the Supreme." >}}
 
 {{< l a="Sarkar" >}}
 <!-- collective body of microvita -->
@@ -107,14 +104,14 @@ The relationship is inert. In animate and inanimate objects there is:
 
 **But these gaps are not a vacuum. They are filled with macropsychic conation.** *
 
-> *Superphysics Note: This is the same as Descartes asserting that there is no Void in Nature.
-
-
 In animate objects there are intra-protoplasmic and inter- protoplasmic gaps. These gaps are also not a vacuun. They are also filled with macropsychic conation.
 
-The microcosm is composed of ectoplasm [lower mind]. **But the movement of ectoplasm [lower mind] is decided by the movement of microvita**.* They move in circum-rotarian style wrought by Macrocosm.
+The microcosm is composed of ectoplasm [lower mind]. **But the movement of ectoplasm [lower mind] is decided by the movement of microvita**.** They move in circum-rotarian style wrought by Macrocosm.
 
-> *Superhysics Note: This is similar to how chi or animal spirits creates passions for the soul.
+
 {{< /l >}}
 
+{{< n n="*This is similar to how chi or animal spirits creates passions for the soul." >}}
 
+
+{{< n n="**This is the same as Descartes asserting that there is no Void in Nature." >}}

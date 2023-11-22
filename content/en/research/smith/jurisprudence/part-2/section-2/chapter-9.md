@@ -71,7 +71,7 @@ The commerce of every European nation has been remarkably increased by the creat
 
 ### The Bank of Amsterdam=  Money Warehousing
 
-> Superphysics Note: The Bank of Amsterdam is our model for Resource Banking
+{{< n n="The Bank of Amsterdam is our model for Resource Banking" >}}
 
 Banks were first established to facilitate money transfers. To this day, this is the only design of the bank at Amsterdam.
 

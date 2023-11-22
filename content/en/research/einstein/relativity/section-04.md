@@ -35,4 +35,4 @@ This system were the law of inertia applies is called a
 “Galileian system of coordinates.”  The Classical mechanics of Galilei-Newton are valid only for a Galileian system of coordinates*.
 
 
-> *Superphysics note:  In order to justify the dominance of light, Einstein bases the different kinds of movement onto the different kinds of spacetime. Instead of such sophistry, we assign Classical mechanics to the Material layer and not to Galilean coordinates. We assign Special Relativity to the Electromagnetic layer and not to the Lorentz Transformation or to Minkowski space
+{{< n n=" In order to justify the dominance of light, Einstein bases the different kinds of movement onto the different kinds of spacetime. Instead of such sophistry, we assign Classical mechanics to the Material layer and not to Galilean coordinates. We assign Special Relativity to the Electromagnetic layer and not to the Lorentz Transformation or to Minkowski space" >}}

@@ -21,7 +21,7 @@ Is the One becoming older and younger than the Others, and the Others being youn
 An age gap between two things in the present will still be the same age gap in the future. This is because the future implies that the same amount of timespan is added to both things*.
 
 
-> *Superphysics Note: A 1-year old and a 6 year-old today will be a 2-year old and a 7-year old next year with the same age gap
+{{< n n="A 1-year old and a 6 year-old today will be a 2-year old and a 7-year old next year with the same age gap" >}}
 
 
 But this age gap can change through a change in perspective, in the same way that we said:
@@ -37,7 +37,7 @@ The One, as the Others, has experienced only one timeline each.
 
 If we add an equal timespan to the aggregate of these timelines and to the single timeline, then the aggregate timeline will differ from the single timeline by a smaller portion than before.
 
-> *Superphysics Note: The number of timelines is the divisor 
+{{< n n="The number of timelines is the divisor " >}}
 
 
 Then the difference between the age of the One as the Whole and the age of the Others, taken individually, will not be afterwards so great as at first. They will differ less and less in age if the same timespan is added successively to their timelines. 
@@ -45,7 +45,7 @@ Then the difference between the age of the One as the Whole and the age of the O
 In this way, the age gap between the One as the Whole, and the One as the Others, will be less*.
 
 
-> *Superphysics Note: In Hinduism and Buddhism, this is implemented by reducing or eliminating time from one's timeline instead of adding it. The mind is trained to negate time, by going into deep meditation which reduces perception and experience. This brings the mind gradually closer to the The Whole as the Brahma. Parmenides adds time to timelines to unite the Self with the Whole because he takes the viewpoint of the The Whole
+{{< n n="In Hinduism and Buddhism, this is implemented by reducing or eliminating time from one's timeline instead of adding it. The mind is trained to negate time, by going into deep meditation which reduces perception and experience. This brings the mind gradually closer to the The Whole as the Brahma. Parmenides adds time to timelines to unite the Self with the Whole because he takes the viewpoint of the The Whole" >}}
 
 
 The One, as the Whole, which was previously growing older from the perspective of the Others, is now becoming younger relative to those Others due to a change in perspective. This means that the Others will become older relative to the One, as the Whole.

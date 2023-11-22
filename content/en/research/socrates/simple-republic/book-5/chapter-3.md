@@ -126,7 +126,7 @@ Knowledge corresponds to being*. Ignorance corresponds to not-being. The interme
 The existence of opinion is the same with the existence of knowledge or some other faculty. Then opinion and knowledge have to do with different kinds of matter corresponding to this difference of faculties. Knowledge is relative to being and knows being.
 {{< /l >}}
 
-> *Superphysics Note: Being here is the same as Existence. Hume defines truth as the equivalence between perception and existence. Therefore, knowledge is the match between ideas and perceptions, with the ideas being 'facts'. Opinion is the possible equivalence of ideas and perceptions. Truth, knowlege, and opinion are therefore dependent on the faculty of perception, which is why Plato assigns knowledge and opnion as faculties. Knowledge and opinion differ between humans because humans have different levels of perception, just as some humans are color-blind, short-sighted, deaf, ignorant, etc.
+{{< n n="Being here is the same as Existence. Hume defines truth as the equivalence between perception and existence. Therefore, knowledge is the match between ideas and perceptions, with the ideas being 'facts'. Opinion is the possible equivalence of ideas and perceptions. Truth, knowlege, and opinion are therefore dependent on the faculty of perception, which is why Plato assigns knowledge and opnion as faculties. Knowledge and opinion differ between humans because humans have different levels of perception, just as some humans are color-blind, short-sighted, deaf, ignorant, etc." >}}
 
 
 {{< l a="Socrates" >}}

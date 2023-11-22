@@ -60,7 +60,7 @@ It would then be so easy for us to believe that their doctrine was in the form o
 The common herd ascribe rest to the Earth. But data shows that Saturn has a very slow motion which is very close to rest. 
 - This is why the Hebrews gave it a name from the word “rest”*
 
-> *Superphysics Note: In Cartesian Physics, Saturn and Jupiter have slow orbits and are large because the gravitational territory of the sun or a star has 3 parts: the inner, middle, and outer parts. The inner part is fast. The middle part is slow -- this leads to large planets. The outer part is Medium. These parts are an effect of a rotating vortex. 
+{{< n n="In Cartesian Physics, Saturn and Jupiter have slow orbits and are large because the gravitational territory of the sun or a star has 3 parts: the inner, middle, and outer parts. The inner part is fast. The middle part is slow -- this leads to large planets. The outer part is Medium. These parts are an effect of a rotating vortex. " >}}
 
 
 
@@ -85,7 +85,7 @@ The dodecahedron is assigned to the world. I think this is because the Earth’s
 **Therefore, the Pythagoreans were assigning the the 5 shapes not among the elements, as Aristotle believed, but among the planets themselves.**
 - This is very strongly confirmed by Proclus telling us that the aim of geometry is to tell how the heaven has received appropriate shapes for definite parts of itself*.
 
-> *Superphysics Note: Here only Kepler is mistaken. Euclid, Proclus, and the Pythagoreans were correct. The 5 Shapes are the visualization of the 5 Elements which to Superphysics are the 5 Layers of Strong force, Weak force, Electromagnetism, Spacetime, and Aether. This is different from their current visualization which uses color as quantum chromodynamics.  
+{{< n n="Here only Kepler is mistaken. Euclid, Proclus, and the Pythagoreans were correct. The 5 Shapes are the visualization of the 5 Elements which to Superphysics are the 5 Layers of Strong force, Weak force, Electromagnetism, Spacetime, and Aether. This is different from their current visualization which uses color as quantum chromodynamics. " >}} 
 
 
 <!-- Nor is this yet the end of the damage which Ramus has inflicted on us. Consider the most ingenious of today’s geometers,  -->

@@ -36,7 +36,7 @@ Thus, the prince can no more ascertain the value of merchandise that he can esta
 
 Julian’s lowering the price of provisions at Antioch caused a most terrible famine.
 
-> *Superphysics Note: Price controls misrepresents the actual supply
+{{< n n="Price controls misrepresents the actual supply" >}}
 
 
 

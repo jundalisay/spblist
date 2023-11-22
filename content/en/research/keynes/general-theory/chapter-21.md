@@ -36,15 +36,15 @@ It is wrong to divide Economics between:
 - the Theory of Value and Distribution
 - the Theory of Money
 
-> *Superphysics note: We make a distinction because money is a particle, but value is a wave.
 
+{{< n n="We make a distinction because money is a particle, but value is a wave." >}}
 
 
 The right dichotomy is between:
 - the Theory of the Individual Firm* and its profits and money, and 
 - the Theory of Output and Employment. 
 
-> *Superphysics note: Keynes shifts economic power from the people to businesses
+{{< n n="Keynes shifts economic power from the people to businesses" >}}
 
 
 

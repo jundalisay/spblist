@@ -12,7 +12,7 @@ toc: false
 ---
 
 
-> Superphysics Note: Here, we condense [Buddhist Economics by EF Schumacher](/research/schumacher/buddhist-economics/part-1). 
+{{< n n="Here, we condense [Buddhist Economics by EF Schumacher](/research/schumacher/buddhist-economics/part-1)" >}}
 
 
 ## Buddhist Economics vs Modern Economics
@@ -45,7 +45,7 @@ But Buddhism is “The Middle Way”. Therefore, it is not antagonistic to physi
 - The problem is not the enjoyment of pleasurable things, but the craving for them.
 - The keynote of Buddhist economics, therefore, is **simplicity and non-violence**.*
 
-> *Superphysics Note: These are the same tenets of Islam, Christianity, Hinduism, and Taoism 
+{{< n n="These are the same tenets of Islam, Christianity, Hinduism, and Taoism" >}}
 
 
 The modern economist will marvel at the Buddhist way of life -- the amazingly small means leading to extraordinarily satisfactory results. 
@@ -84,7 +84,7 @@ Modern economics tries to maximise consumption through **the optimal pattern of 
 ![sad](/photos/sad.jpg)
 
 
-> *Superphysics Note: This matches our [Effort Theory of Value](/social/economics/principles/part-2/chapter-01b/) which aims for minimizing toil and trouble, while maximizing happiness
+{{< n n="This matches our [Effort Theory of Value](/social/economics/principles/part-2/chapter-01b/) which aims for minimizing toil and trouble, while maximizing happiness" >}}
 
 
 Simplicity and non-violence are obviously closely related.
@@ -105,7 +105,7 @@ From the point of view of Buddhist economics:
 - The most irrational economy is the one that depends on imports from afar and exports to unknown and distant peoples*
   - This is justifiable only in exceptional cases and on a small scale.
 
-> *Superphysics Note: Mercantilism does this because distant peoples usually have needs that cannot be addressed locally. This then leads to high profits for the merchant. 
+{{< n n="Mercantilism does this because distant peoples usually have needs that cannot be addressed locally. This then leads to high profits for the merchant." >}}
 
 
 The modern economist <!-- admits that increased use of transportation between a man’s home and his workplace is a misfortune and not a high standard of life. - He --> would view the increase in the number of ton/miles per head of the population carried by a country’s transport system as proof of economic progress.
@@ -145,7 +145,7 @@ Modern economics does not distinguish between renewable and non-renewable materi
 <!-- Thus, taking various alternative fuels, like coal, oil, wood, or water-power: the only difference between them recognised by modern economics is relative cost per equivalent unit.
 - The cheapest is automatically the one to be preferred, as to do otherwise  -->
 
-> *Superphyics Note: Supereconomics addresses this through a points-based system which emphasizes quality over quantity. Quality includes moral quality.
+{{< n n="Supereconomics addresses this through a points-based system which emphasizes quality over quantity. Quality includes moral quality." >}}
 
 
 From a Buddhist point of view, this will not do. 

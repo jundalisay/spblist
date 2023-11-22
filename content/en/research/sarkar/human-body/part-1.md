@@ -96,7 +96,7 @@ Then Bhiima, the son of Pandu, is váyu, the aerial factor, at the anáhata he
 
 Finally, the position of Yudhisthira is at the vishuddha throat cakra* where matter ends and the other world starts.
 
-> *Superphysics Note: This is the aethereal layer
+{{< n n="This is the aethereal layer" >}}
 
 
 Yudhi sthirah Yudhiśt́hirah [“One who remains steady in battle is called ‘Yudhiśt́hira’”].

@@ -104,4 +104,4 @@ sinful people?
 
 ## 46. MUHAMMAD (Muhammad)
 
-> *Superphysics Note: This chapter just repeats the previous warnings and has no new information 
+{{< n n="This chapter just repeats the previous warnings and has no new information " >}}

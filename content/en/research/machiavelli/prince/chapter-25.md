@@ -22,13 +22,13 @@ Because of this, they make us believe that it is unnecessary to labour much in a
 This opinion has gained more credit in our times because of the great changes in affairs which cannot have been predicted*. I sometimes agree to it. 
 
 
-> *Superphysics Note: Social Superphysics is able to predict these changes
+{{< n n="Social Superphysics is able to predict these changes" >}}
 
 
 Nevertheless, in order not to destroy our free will, I believe that fortune decides half of our actions, but that she still leaves the other half, or perhaps a little less*, for us to direct.
 
 
-> *Superphysics Note: This only happens for entities that are ignorant of metaphysics. The more metaphysics is mastered, the less the influence of fortune or chance. 
+{{< n n="This only happens for entities that are ignorant of metaphysics. The more metaphysics is mastered, the less the influence of fortune or chance. " >}}
 
 
 Fortune is like a great river sweeps away trees and buildings during a flood. <!-- , bearing away the soil from place to place. Everything flies before it, all yield to its violence, without being able in any way to resist it. -->  But it <!--  although its nature is like that, it --> does not mean that <!--  follow therefore that --> people cannot make <!-- , when the weather becomes fine, should not make --> canals and defenses against floods. <!-- preparations, both with canals and defences, so that in the future the rising waters are directed away, and their force is not so unrestrained and dangerous. --> 
@@ -104,4 +104,4 @@ She allows herself to be mastered by the adventurous rather than by those who go
 She is always like a woman*, a lover of young men because they are less cautious, more violent, and command her with more boldness.
 
 
-> *Superphysics Note: This is why the Hindus assign feminine characteristics to Shakti
+{{< n n="This is why the Hindus assign feminine characteristics to Shakti" >}}

@@ -12,7 +12,7 @@ writer:
 
 
 
-> Superphysics note: To make large number simpler, the shillings and pences have been removed in some amounts.
+{{< n n="To make large number simpler, the shillings and pences have been removed in some amounts." >}}
 
 {{< s v="28" >}} A sinking fund is instituted for the payment of old debts.
 

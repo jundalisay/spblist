@@ -52,7 +52,7 @@ This was the reason why at that time the gods created in us the desire of sexual
 Liquids pass through the lung under the kidneys and into the bladder. This liquid is emitted by the pressure of the air*. This air penetrates also into the body of the marrow, which passes from the head along the neck and through the back. It ends in "the seed". 
 
 
-> *Superphysics note: This is the pranah of the spatial layer
+{{< n n="This is the pranah of the spatial layer" >}}
 
 
 1. Humans

@@ -176,7 +176,7 @@ Yes, my child. The elephant God was coming. But the mahut forbade you to stay th
 
 The scriptures say that water* is a form of God. But some water is fit to be used for worship, some water for washing the face, and some only for washing plates or dirty linen. 
 
-> *Superphysics Note: Water is a symbol for the flow of the unseen aether
+{{< n n="Water is a symbol for the flow of the unseen aether" >}}
 
 
 This last sort cannot be used for drinking or for a holy purpose. 

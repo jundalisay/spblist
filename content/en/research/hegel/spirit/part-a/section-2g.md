@@ -31,7 +31,7 @@ In other words, the elements when set up as independent, pass directly over into
 
 **This process is called Force.** *
 
-> *Superphysics note: Hegel correctly defines force as the passing from unity to disunity and vice versa,
+{{< n n="Hegel correctly defines force as the passing from unity to disunity and vice versa" >}}
 
 
 

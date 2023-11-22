@@ -18,21 +18,25 @@ What is this difference of quality in pleasures? What makes one pleasure more va
 
 <!-- , merely as a pleasure, except its being greater in amount, there is but one possible answer.  -->
 
-I answer that the more desirable pleasure is the one that is preferred over another, irrespective of any feeling of moral obligation to prefer it.
+The more desirable pleasure is the one that is preferred over another, irrespective of any feeling of moral obligation to prefer it.
 
 <!-- Of two pleasures, if there be one to which all or almost all who have experience of both give a decided preference, , that is .  -->
 
-If one of the two is, by those who are competently acquainted with both, placed so far above the other that they prefer it, even though knowing it to be attended with a greater amount of discontent, and would not resign it for any quantity of the other pleasure which their nature is capable of, we are justified in ascribing to the preferred enjoyment a superiority in quality, so far outweighing quantity as to render it, in comparison, of small account.
+<!-- If one of the two is, by those who are competently acquainted with both, placed so far above the other that they prefer it, even though knowing it to be attended with a greater amount of discontent, and would not resign it for any quantity of the other pleasure which their nature is capable of, 
 
-It is an unquestionable fact* that those who are equally acquainted with, and equally capable of appreciating and enjoying, both, do give a most marked preference to the manner of existence which employs their higher faculties. 
+we are justified in ascribing to the preferred enjoyment a superiority in quality, so far outweighing quantity as to render it, in comparison, of small account. -->
 
-> *Superphysics Note: This is not true at all.
+<!-- It is an unquestionable fact* that those who are equally acquainted with, and equally capable of appreciating and enjoying, both, do give a most marked preference to the manner of existence which   -->
 
+Humans prefer whatever employs their higher faculties.
 
-Few human creatures would consent to be changed into any of the lower animals just for the fullest experience of a beast's pleasures.
+Few human creatures would consent to be changed into a lower animal just to get the fullest experience of a beast's pleasures.*
 - No intelligent human being would consent to be a fool. 
 - No instructed person would be an ignoramus.
 - No person of feeling and conscience would be selfish and base, even though they should be persuaded that the fool, the dunce, or the rascal is better satisfied with his lot than they are with theirs. 
+
+{{< n n="This is not true at all. Many humans prefer to binge eat and/or have sex as their highest pleasure. This pleasure is the same as that of animals" >}}
+
 
 They would not resign what they possess more than he, for the most complete satisfaction of all the desires which they have in common with him. 
 
@@ -50,7 +54,7 @@ Why do we please of this unwillingness?
 
 The name "pride" is given indiscriminately to some of the most and to some of the least estimable feelings of which mankind are capable; 
 
-- It could be because of the love of liberty and personal independence
+- It could be because of the love of liberty and personal independence.
 
 It is an appeal to which was with the Stoics one of the most effective means for the inculcation of it; to the love of power, or to the love of excitement, both of which do really enter into and contribute to it= but its most appropriate appellation is a sense of dignity, which all human beings possess in one form or other, and in some, though by no means in exact, proportion to their higher faculties, and which is so essential a part of the happiness of those in whom it is strong, that nothing which conflicts with it could be, otherwise than momentarily, an object of desire to them. 
 

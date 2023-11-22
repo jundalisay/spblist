@@ -130,7 +130,7 @@ In that case, there can be a change in the atmospheric pressure* without changin
 
 There will be a change in calorie, but that does not mean that there will be a change in the temperature.
 
-> *Superphysics note: This is because microvita exist in the Spatial Layer
+{{< n n="This is because microvita exist in the Spatial Layer" >}}
 
 
 18 September 1987, Calcutta

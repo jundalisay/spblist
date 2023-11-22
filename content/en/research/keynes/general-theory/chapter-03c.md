@@ -49,8 +49,7 @@ The Ricardian doctrine reached conclusions quite different from what the ordinar
 - It acquired authority from it saying that the attempt to change* such things will do more harm than good on the whole. 
 - It justified the free activities of the individual capitalist, commended it to social forces. <!-- allowing it to  the support of the dominant social force behind authority.  -->
 
-> *Superphysics Note: The failure of modern economies from the neoclassical changes done by Keynes is proof of the solidity of this Ricardian idea
-
+{{< n n="The failure of modern economies from the neoclassical changes done by Keynes is proof of the solidity of this Ricardian idea" >}}
 
 But although the doctrine itself has remained unquestioned by orthodox economists up to a late date, its signal failure for purposes of scientific prediction has greatly impaired, in the course of time, the prestige of its practitioners.
 
@@ -64,7 +63,8 @@ Candides <!-- left this world to  the cultivation of their gardens, --> teaches 
 
 A classical economy would natural tend towards the optimum employment of resources. But to assume* that it actually does so is to assume our difficulties away. <!--  in a Society which was functioning after the manner of the classical postulates. It may well be that the classical theory represents the way in which we should like our Economy to behave.  -->
 
-> *Superphysics Note: The Classical system is supposed to make the lawmakers check against unnatural ideas such as profit maximization and too-big-to-fail, since these interfere with the natural corrective mechanisms. For some reason, this failed during the Marginal Revolution which was unchecked. This then led to the Depression. <br><br> So yes, it is the fault of Classical economics for not denouncing the Mmarginal Revolution and for not putting itself on a mathematical foundation. 
+
+{{< n n="The Classical system is supposed to make the lawmakers check against unnatural ideas such as profit maximization and too-big-to-fail, since these interfere with the natural corrective mechanisms. For some reason, this failed during the Marginal Revolution which was unchecked. This then led to the Depression. <br><br> So yes, it is the fault of Classical economics for not denouncing the Mmarginal Revolution and for not putting itself on a mathematical foundation." >}}
 
 
 

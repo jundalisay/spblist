@@ -29,7 +29,7 @@ Whenever an action of knowing takes place within the mind*:
 - a portion of it plays the subjective role and
 - another portion plays the objective role. 
 
-> *Superphysics Note: We say that mind splits itself into the perception and perceiver
+{{< n n="We say that mind splits itself into the perception and perceiver" >}}
 
 
 

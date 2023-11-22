@@ -12,7 +12,7 @@ icon: "/avatars/keynes.png"
 ---
 
 
-> *Superphysics Note: We replace 'liquidity-preference' with 'love for cash'
+{{< n n="We replace 'liquidity-preference' with 'love for cash'" >}}
 
 
 What are the motives for liquidity-preference or the love for cash?

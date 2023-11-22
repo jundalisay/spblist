@@ -19,7 +19,7 @@ contributors: ['Lao Tzu']
 
 {{< s v="2">}} Therefore, the knower of the Tao puts his own person last position, yet will be in the foremost position. He treats his self as if it were another self* in order to realize his Tao or True Nature. <!--  foreign to him, and yet that person is preserved. --> This allows his self to be impartial and avoid personal and private ends. This then allows him to realize those ends. 
 
-> *Superphysics Note: This is the impartial spectator technique mentioned by Adam Smith in the Theory of Moral Sentiments. 
+{{< n n="This is the impartial spectator technique mentioned by Adam Smith in the Theory of Moral Sentiments." >}} 
 
 
 ## Chapter 8: Excellence is nearness to one's Tao or True Nature

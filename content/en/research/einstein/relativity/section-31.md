@@ -75,7 +75,8 @@ In other words, the “world-sphere” is a “surface of constant curvature.”
 
 To this 2D sphere-universe there is a 3D analogy, namely, the 3D spherical space which was discovered by Riemann*. 
 
-> *Superphysics Note: In Cartesian Relativity and the Law of Relativity by Poincare, which we can call Enlightened Relativity, the emphasis is on the **states** of the bodies in question in relation to other bodies in the system. These focus on the **points** on the system and not on the **paths** that join the points. This is totally different from Einstein's sophistical Relativity which is based on rigid measuring rods that are based on the speed of light. In Enlightened Relativity, there is no such thing as spherical or Riemann geometry. Instead, everything is Euclidean. Even the path from New York to Tokyo is not a sphere, but a 2D arc. 
+
+{{< n n="In Cartesian Relativity and the Law of Relativity by Poincare, which we can call Enlightened Relativity, the emphasis is on the **states** of the bodies in question in relation to other bodies in the system. These focus on the **points** on the system and not on the **paths** that join the points. This is totally different from Einstein's sophistical Relativity which is based on rigid measuring rods that are based on the speed of light. In Enlightened Relativity, there is no such thing as spherical or Riemann geometry. Instead, everything is Euclidean. Even the path from New York to Tokyo is not a sphere, but a 2D arc." >}}
 
 
 Its points are likewise all equivalent. It possesses a finite volume, which is determined by its “radius” ( 2 π 2 R 3 ). 

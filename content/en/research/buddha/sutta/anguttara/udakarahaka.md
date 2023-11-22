@@ -26,7 +26,7 @@ image: "/photos/meta/buddhism.jpg"
 
 ## Pabhassara Sutta: Luminous
 
-> *controversial
+<!-- > *controversial -->
 
 The mind is luminous.[1] 
 

@@ -60,7 +60,7 @@ I know who you are and where you've come from. You've come from the immortal rea
 {{< /r >}}
 
 
-> *Superphysics Note: This is in line with Jewish tradition
+{{< n n="This is in line with Jewish tradition" >}}
 
 Then Jesus, knowing that he was thinking about what's exalted, said to him:
 

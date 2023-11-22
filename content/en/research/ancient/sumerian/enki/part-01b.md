@@ -26,7 +26,7 @@ Enki distributed his semen destined for Damgalnuna. He poured semen into Ninhurs
 - Her four months were four days, but her five months were five days, but her six months were six days, but her seven months were seven days, but her eight months were eight days, but her nine months were nine days. 
 
 
-> *Superphysics Note: This is probably the increased speed of development of the embryo for testing
+{{< n n="This is probably the increased speed of development of the embryo for testing" >}}
 
 
 In the month of womanhood, like fine (?) oil, like fine (?) oil, like oil of abundance, Nintur, mother of the country, like fine (?) oil, gave birth to Ninnisig.

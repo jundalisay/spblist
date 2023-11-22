@@ -111,7 +111,7 @@ This practice was called *raising money by circulation*.
 
 Many vast projects were carried on for several years with only drawn and redrawn bills*. 
 
-> *Superphysics note: Nowadays, this is similar to venture capital werein the angel investor sells his shares to a venture capitalist who then sells it to another even if the business is running at a loss.
+{{< n n="Nowadays, this is similar to venture capital werein the angel investor sells his shares to a venture capitalist who then sells it to another even if the business is running at a loss." >}}
 
 
 The entrepreneurs had golden dreams of great profit. After waking up at the end of their projects or when they could no longer continue them, they very seldom found great profits.

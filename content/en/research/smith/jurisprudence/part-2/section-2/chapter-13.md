@@ -40,7 +40,7 @@ If any extraordinary demand was made on them, they would pay some of it in money
 Through this, the whole land of Scotland would go from hand to hand in a very short time, as a 20 shilling note does*.
 
 
-> *Superphysics Note: Nowadays this is done through cryptocurrency which are scams
+{{< n n="Nowadays this is done through cryptocurrency which are scams" >}}
 
 
 This project was never executed. It is hard to say what the consequence might have been. It has the following inconveniences:
@@ -120,7 +120,7 @@ After the treaty of Utrecht, he borrowed 8 million livres from Holland through h
 
 Had he stopped here, he would have answered all engagements. But his future proceedings ruined all.*
 
-> *Superphysics Note: In effect, this would've used the Mississippi Scheme to pay for the debt of the government
+{{< n n="In effect, this would've used the Mississippi Scheme to pay for the debt of the government" >}}
 
 
 ## Step 4: Issue more notes from the shares to pay the debt 
@@ -139,13 +139,13 @@ Prudent people opposed this scheme. This was the first thing that made his bank 
 
 He was obliged to pay only <!--  capital sums, --> the annual dividend of 200 livres arising from the profits, and not the investment amount*. 
 
-> *Superphysics Note: This is the same as modern governments paying only the interest of public debt
+{{< n n="This is the same as modern governments paying only the interest of public debt" >}}
 
 
 He might have let them fall to their original 500-lives with just a reputational loss*. But he issued so many notes from the shares that they must return on him. He was obliged to open offices in different parts of Paris to pay them.
 
 
-> *Superphysics Note: People know that public debt will never be repaid
+{{< n n="People know that public debt will never be repaid" >}}
 
 
 
@@ -187,7 +187,7 @@ Most of the people had their whole fortunes in notes and were reduced to beggary
 - With their bank notes, they bought all the valuable goods and a lot of land, though at the highest prices and made immense fortunes by it*. 
 
 
-> *Superphysics Note: A modern example is George Soros who bets against failing currencies
+{{< n n="A modern example is George Soros who bets against failing currencies" >}}
 
 
 The clamour from Law’s last edict rescinded it. The notes were again declared to be paid at value. But the bank never recovered its credit and this had no effect.

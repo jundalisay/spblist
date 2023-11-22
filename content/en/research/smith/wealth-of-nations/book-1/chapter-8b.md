@@ -114,7 +114,7 @@ This perhaps is the present state of Bengal and some English settlements in the 
   - **the genius of the British constitution which governs North America**
   - **the mercantile company which oppresses the East Indies**.
 
-> *Superphysics Note: The North American colonies were seeded by the British people and capital themselves where they have ownership, while the Indian colonies were outsourced to the locals via the East India Company which has ownership. The latter manifests nowadays as Foreign Direct Investment (FDI) with majority ownership. Mercantilism benefitted natives in an oppressive way just as FDI really benefits the investor more. 
+{{< n n="The North American colonies were seeded by the British people and capital themselves where they have ownership, while the Indian colonies were outsourced to the locals via the East India Company which has ownership. The latter manifests nowadays as Foreign Direct Investment (FDI) with majority ownership. Mercantilism benefitted natives in an oppressive way just as FDI really benefits the investor more. " >}}
 
 
 - A society advancing to wealth has high wages as its natural symptom.

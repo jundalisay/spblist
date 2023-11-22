@@ -144,7 +144,7 @@ Yet we do not have proofs to know precisely whether:
 - there ever was science in the learning of the Chaldeans and Egyptians, or
 - despotism in the East prevented the growth of Philosophy* just as anarchy did in the West.
 
-> *Superphysics Note: Science in the 'despotic' East was integrated into their traditions and religions, instead of being separate. We can say that despotism or monarchy is great at unifying even the sciences if the despot or monarch is truly intelligent. 
+{{< n n="Science in the 'despotic' East was integrated into their traditions and religions, instead of being separate. We can say that despotism or monarchy is great at unifying even the sciences if the despot or monarch is truly intelligent." >}} 
 
 
 <!-- That despotism is more destructive of security and leisure than anarchy itself.
@@ -152,7 +152,7 @@ It prevailed over all the East. -->
 
 The Greeks had no concept of the distinction of ranks*. This leads to the lack of regular subordination. This then leads to confusion and misrule. 
 
-> *Superphysics Note: This distinction is based on the four classes
+{{< n n="This distinction is based on the four classes" >}}
 
 
 The Greek colonies settled amid either barbarous or unwarlike nations, and soon the former acquired a very great authority over the latter.

@@ -19,18 +19,18 @@ But by Special Relativity, the same equations <!-- without any change of meaning
 
 **But why must I distinguish the non-moving `K` system above all moving `K'` systems, which are physically equivalent to it in all respects, by assuming that the ether is at rest relatively to the non-moving `K` system?** 
 
-> *Superphysics Note: We answer that the duality is essential because the non-moving `K` has properties that affect and explain the motions and dynamics within the moving `K'`. This is part of our Elastic Theory. 
+{{< n n="We answer that the duality is essential because the non-moving `K` has properties that affect and explain the motions and dynamics within the moving `K'`. This is part of our Elastic Theory." >}} 
 
 
 I think that such an asymmetry in the theoretical structure, with no corresponding asymmetry in the system of experience, is intolerable*. 
 
-> *Superphysics Note: To Einstein, it is intolerable to have a dimension which is unknown
+{{< n n="To Einstein, it is intolerable to have a dimension which is unknown" >}}
 
 
 
 If the ether were at rest relatively to non-moving `K`, but in motion relatively to moving `K'`, the physical equivalence of non-moving `K` and moving `K'` is <!-- seems to me from the logical standpoint, not indeed  downright incorrect, but nevertheless-->  unacceptable.
 
-> *Superphysics Note: It is acceptable because there is no void, and the non-moving ether is actually moving a bit relative to the non-moving `K`
+{{< n n="It is acceptable because there is no void, and the non-moving ether is actually moving a bit relative to the non-moving `K`" >}}
 
 
 ![Hitler](/photos/medieval/hitler.jpg)
@@ -77,7 +77,7 @@ The electromagnetic field is like water, consisting of lines of force. Each sepa
 
 There might be extended physical objects to which the idea of motion cannot be applied. They might not be made up of trackable particles*. 
 
-> *Superphysics Note: The buoys would not be there. 
+{{< n n="The buoys would not be there. " >}}
 
 <!-- They may not be thought of as consisting of particles which allow themselves to be separately tracked through time.  -->
 

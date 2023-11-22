@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7"
 linkTitle: Chapter 7
-title: "Demand Inflation Deflation"
+title: "Demand Inflation, Demand Deflation"
 # date: 2022-03-27
 # date: 2022-08-10
 weight: 28
@@ -22,8 +22,10 @@ What really 'deflated' was economic activity, arising from Japan's declining pop
 - inflation as **demand inflation** *
 - deflation as **demand deflation**
 
-> *From the viewpoint of Economics, the Superphysics definition is Demand-Pull Inflation. Cost-push inflation is merely demand-pull inflation from the viewpoint of the suppliers and producers.
+{{< f f="*From the viewpoint of Economics, the Superphysics definition is Demand-Pull Inflation. Cost-push inflation is merely demand-pull inflation from the viewpoint of the suppliers and producers." >}}
 
+
+> What really 'deflated' was economic activity
 
 ![Downturn in financial market](/photos/econ/crash.jpg)
 
@@ -32,13 +34,13 @@ With this new definition, we can derive the following concepts intuitively:
 
 ### Zero Inflation 
 
-This means that the demand of society is satsified as quickly as possible so as to not have leftover unanswered demand. It also implies that the amount of money circulating is just enough to circulate the supply to the demand. 
+Zero Inflation means that the demand of society is satsified as quickly as possible so as to not have leftover unanswered demand. It also implies that the amount of money circulating is just enough to circulate the supply to the demand. 
 
 If a society were one huge family, then it would be a family where all the children are fed and satisfied. 
 
 ### Stagflation
 
-This is a situation where rich people can still demand even if production stagnates or even declines. The demand of the rich allows money to overcirculate. 
+Stagflation is a situation where rich people can still demand even if production stagnates or even declines. The demand of the rich allows money to overcirculate. 
 
 An analogy is a family wherein some children have much more than others.
 
@@ -48,14 +50,18 @@ Real-world examples are:
 
 ### Recession or Depression
 
-This is a situation where even the rich cannot demand (or merely withholding their demand in the hopes of higher future profits). 
+Recession is a situation where even the rich cannot demand (or merely withholding their demand in the hopes of higher future profits).
 
 In this case, there is an undercirculation of money. This is similar to a family in poverty wherein the children go hungry.
+
+A depression is a prolonged recession. Both recession and depression are effects of the Negative Force.
 
 
 ### Hyperinflation
 
-This is a situation where production declines relative to demand. Unlike stagflation which is largely caused by the private sector, hyperinflation is caused by the government reacting to an earlier round of inflation. This prompts it to oversupply money. 
+Hyperinflation is a situation where production declines relative to demand. 
+
+Unlike stagflation which is largely caused by the private sector, hyperinflation is caused by the government reacting to an earlier round of inflation. This prompts it to oversupply money. 
 
 Anciently, this happened when a king debased his currency, causing it to overcirculate. An example is a family where the father demands all the resources. 
 
@@ -100,7 +106,7 @@ According to the Four Social Cycles, the Worker, Warrior, Thinker, and Trader ha
 However, sometimes the dominant class wants to stay in power. In the economy, this is done in the following ways:
 
 Class | Examples | Revenue Model
---- | --- 
+--- | ---  | ---
 1 Worker | Communism, Populism | Wages
 2 Warrior | Tyranny, Dictatorship | Tax
 3 Thinker | Research, Religions | Research Grants, Tithes, Dogma

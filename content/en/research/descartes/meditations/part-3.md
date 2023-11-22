@@ -58,7 +58,7 @@ But I used believed that my ideas of those sensory objects were exactly as those
 But what about abstract ideas like those of arithmetic or geometry, like 2 + 3 = 5? These are true*.
 
 
-> Superphysics Note: The truth of `2 + 3 = 5` comes from the fact that `2`, `3`, and `5` are all idea-objects made up of aether, and not sensory objects made uo of electromagnetism or strong and weak forces. Thus, the idea and mind match, leading to truth, because they are both of the same material. The idea of God is an idea with a huge aether content.
+{{< n n="The truth of `2 + 3 = 5` comes from the fact that `2`, `3`, and `5` are all idea-objects made up of aether, and not sensory objects made uo of electromagnetism or strong and weak forces. Thus, the idea and mind match, leading to truth, because they are both of the same material. The idea of God is an idea with a huge aether content." >}}
 
 <!-- Didn’t I see these things clearly enough to accept them as true? Indeed, the only reason I could find for doubting them was this= Perhaps some God could have made me so as to be deceived even in those matters that seemed most obvious.  -->
 

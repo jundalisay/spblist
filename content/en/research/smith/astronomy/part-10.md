@@ -138,8 +138,6 @@ The Moon revolves in an ellipse, which has the centre of the Earth in one of its
 - The longer axis of its orbit is called the Line of its Apsides
   - This line is not to be always directed towards the same points of outer space. Instead, it revolves forwards, from west to east, so as to pass through all the points of the Ecliptic, and to complete its period in about 9 years.
 
-<!-- > *Superphysics Note: Lateral precession? -->
-
 
 This was another irregularity that very much perplexed Astronomers. This was also solved by the theory of gravity.
 

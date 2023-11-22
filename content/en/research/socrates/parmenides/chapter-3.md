@@ -192,4 +192,4 @@ Then it is neither named, nor expressed, nor opined, nor known, nor does anythin
 But can all this be true about the One?
 
 
-> *Superphysics Note: This is the same as Chapter 24 of the Tao Te Ching-- "There was something undefined and complete, coming into existence before Heaven and Earth. It was still and formless, standing alone, and undergoing no change. It reaches everywhere yet in no danger of being exhausted! It may be regarded as the Mother of all things. I do not know its name, but I call it as an effect of the Way or Course of the Tao. Making an effort further, I call it 'The Great'".
+{{< n n="This is the same as Chapter 24 of the Tao Te Ching-- 'There was something undefined and complete, coming into existence before Heaven and Earth. It was still and formless, standing alone, and undergoing no change. It reaches everywhere yet in no danger of being exhausted! It may be regarded as the Mother of all things. I do not know its name, but I call it as an effect of the Way or Course of the Tao. Making an effort further, I call it 'The Great'" >}}

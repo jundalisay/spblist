@@ -48,7 +48,7 @@ Adamas begat Seth in that place after the image of … and after the likeness of
 He made the incorruptible generation of Seth appear to the 12 androgynous luminaries*. And then, he made 72 luminaries appear in the incorruptible generation according to the Spirit's will.
 
 
-> *Superphysics Note: These are the same as the 12 zodiacs in Timaeus.
+{{< n n="These are the same as the 12 zodiacs in Timaeus." >}}
 
 
 Then the 72 luminaries themselves made 360 luminaries appear in the incorruptible generation according to the Spirit's will so that there would be 5 for each [360/72].

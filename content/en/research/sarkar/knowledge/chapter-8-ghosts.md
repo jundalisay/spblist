@@ -77,9 +77,7 @@ The mind operates the physical body through the nerve cells. By creating vibrati
 
 But luminous bodies* have no nerves because the nerves are all physical.
 
-> *Superphysics Note: Luminous bodies are metaphysical entities. Auto- and outer- suggestion are aethereal entities.  /-+
-
-n/m
+{{< n n="Luminous bodies are metaphysical entities. Auto- and outer- suggestion are aethereal entities." >}}
 
 Thus, they cannot function properly. 
 
@@ -159,7 +157,7 @@ After death, when the mind dissociates from the body, the accumulation of unfulf
 
 Thus, the mind cannot function, but it remains in potential form*.
 
-> *Superphysics Note: Here, the mind does not re-acquire the 2 other factors to become a luminous being or the 4 factors to become a physical being. 
+{{< n n="Here, the mind does not re-acquire the 2 other factors to become a luminous being or the 4 factors to become a physical being. " >}}
 
 
 In some circumstances, if a living person's ectoplasm is associated with that disembodied potential mind, then that disembodied mind gets a temporary mental body for a very short time. 
@@ -188,7 +186,7 @@ In fact, we cannot prove the existence of a preśitamánas or siddha, and inso
 
 If you see a positive hallucination, it is a mental disease.*
 
-> *Superphysics Note: If you see a ghost then you have a mental issue because you let your mental body be used by disembodied minds. 
+{{< n n="If you see a ghost then you have a mental issue because you let your mental body be used by disembodied minds." >}} 
 
 
 If anything of this sort (preśitamánas or luminous body) comes before you, there is only one remedy to remove it -- do kiirtana or devotional chanting. 

@@ -75,7 +75,7 @@ Experience shows that the human body frequently is perfectly healthy under a vas
 The healthful state of the human body contains in itself some unknown principle of preservation*. The body can prevent or correct the bad effects of a very faulty regimen.
 
 
-> *Superphysics Note: This is dharma
+{{< n n="This is dharma" >}}
 
 
 Quesnay is a very speculative physician.

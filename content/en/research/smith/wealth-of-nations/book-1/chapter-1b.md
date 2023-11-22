@@ -27,7 +27,7 @@ So many different trades are employed in each branch of the linen and woollen ma
 - **so complete a separation of one business from another, as in manufactures** *
 
 
-> *Superphysics note: This is why Economic Superphysics advocates a country's agricultural sector to not be more than 30% of its GDP
+{{< n n="This is why Economic Superphysics advocates a country's agricultural sector to not be more than 30% of its GDP" >}}
 
 
 It is impossible to entirely separate the grazier's business from the wheat-farmer's business. 

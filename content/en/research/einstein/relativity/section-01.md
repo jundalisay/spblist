@@ -81,15 +81,13 @@ The question of the “truth” of the individual geometrical propositions is th
 
 **But his is actually unanswerable by the methods of geometry. It is also in itself entirely without meaning.** *
 
-> *Superphysics Note: This is because Euclid's Elements are about the nature of the Five Elements (Strong Force, Weak Force, Electromagnetism, Spacetime, Aether) represented in lines and shapes. It is not about shapes.
 
+{{< n n="This is because Euclid's Elements are about the nature of the Five Elements (Strong Force, Weak Force, Electromagnetism, Spacetime, Aether) represented in lines and shapes. It is not about shapes." >}}
 
 
 We cannot ask whether it is true that only one straight line goes through two points*. 
 
-> *Superphysics Note: Einstein here is talking about Postulate 1. We assert that Postulate 1 is about the aethereal link between two identities. This is essential in Kepler's theory of gravity which is made up of invisible chains between objects. Postulate 1 means that there is **ONLY** 1 link between to identities. 
-
-
+{{< n n="Einstein here is talking about Postulate 1. We assert that Postulate 1 is about the aethereal link between two identities. This is essential in Kepler's theory of gravity which is made up of invisible chains between objects. Postulate 1 means that there is **ONLY** 1 link between to identities." >}}
 
 
 We can only say that Euclidean geometry deals with things called “straight lines.” These lines have the property of being uniquely determined by two points situated on it.
@@ -97,7 +95,7 @@ We can only say that Euclidean geometry deals with things called “straight lin
 
 The concept “true”* does not tally with the assertions of pure geometry, because by the word “true” we are eventually in the habit of designating always the correspondence with a “real” object.
 
-> *Superphysics Note: The truth of Postulate 1 is proven by cutting or manipulating that single aethereal link in order to change the weight or  gravity of a body. This is already done by zipping UFOs, and by levitating Buddhist monks (from whom we got our Elastic Theory of Gravity). 
+{{< n n="The truth of Postulate 1 is proven by cutting or manipulating that single aethereal link in order to change the weight or  gravity of a body. This is already done by zipping UFOs, and by levitating Buddhist monks (from whom we got our Elastic Theory of Gravity)." >}}
 
 
 
@@ -105,7 +103,7 @@ The concept “true”* does not tally with the assertions of pure geometry, bec
 
 Geometry*, however, is not concerned with the relation of the ideas involved in it to objects of experience, but only with the logical connection of these ideas among themselves.
 
-> *Superphysics Note: Euclid's Geometry is about the Metaphysics of physical phenomena. These are drawn in simple relations, as lines, curves, and shapes. It is not about Physics nor physical shapes. 
+{{< n n="Euclid's Geometry is about the Metaphysics of physical phenomena. These are drawn in simple relations, as lines, curves, and shapes. It is not about Physics nor physical shapes." >}}
 
 
 

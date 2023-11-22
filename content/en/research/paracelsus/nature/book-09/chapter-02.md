@@ -33,7 +33,7 @@ These signs prove the proverb:
 
 For they are signs of vices, seldome signifying any good.*
 
-> *Superphysics Note: This arises from principle of karma
+{{< n n="This arises from principle of karma" >}}
 
 
 The Executioner marks his sons with infamous markes. 

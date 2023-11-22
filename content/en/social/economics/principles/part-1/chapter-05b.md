@@ -16,7 +16,8 @@ icon: /icons/pantry.png
 The recent high energy prices in Europe has exposed the flaws of the market-model of energy which was adopted from the 1990s*. 
 
 
-> *The market model, in turn, was caused by Reaganomics shifting policy into corporate stocks in order to solve the 1970's stagflation. This shift manifested as the mergers and acquisitions of the 1990s, and consequentially, the push for privatization to make those mergers viable as an effect of the "force of capital". This is because to make those mergers pay off, those corporations pay lobbyists to penetrate profitable ventures such as utilities, healthcare, and insurance.  This in turn explains the wave of privatizations from the late 1990s and 2000's. After all those profitable ventures are occupied, the force of capital resumes to feed off of oil, making oil prices rise. This is how our model correctly predicted the current stagflation many years ahead of time.
+{{< f f="*The market model, in turn, was caused by Reaganomics shifting policy into corporate stocks in order to solve the 1970's stagflation. This shift manifested as the mergers and acquisitions of the 1990s, and consequentially, the push for privatization to make those mergers viable as an effect of the 'force of capital'. This is because to make those mergers pay off, those corporations pay lobbyists to penetrate profitable ventures such as utilities, healthcare, and insurance.  This in turn explains the wave of privatizations from the late 1990s and 2000's. After all those profitable ventures are occupied, the force of capital resumes to feed off of oil, making oil prices rise. This is how our model correctly predicted the current stagflation many years ahead of time." >}}
+
 
 <!-- Utilities are a guaranteed revenue stream. This then justifies the pooling of huge capital, and so lobbyists pushed for the privatization of utilities the most.  
  -->
@@ -65,7 +66,9 @@ The difference between privatized and state-run energy is evident in the differe
 
 To get into the profitable utilities business, investors usually highlight how massively indebted state-owned utilities are. They hide the fact that **being under massive debts is the nature of such utilities**.* 
 
-> *This is mirrored by the fact that parents are often get into debt in order to fund the education and upkeep of their children. The reverse of this is to make money from one's children by using them as child labor and neglecting their education. Nationalization does the former, while privatization does the latter. 
+{{< f f="*This is mirrored by the fact that parents are often get into debt in order to fund the education and upkeep of their children. The reverse of this is to make money from one's children by using them as child labor and neglecting their education. Nationalization does the former, while privatization does the latter." >}}
+
+ 
 
 
 State-run energy systems have some variations:
@@ -73,9 +76,7 @@ State-run energy systems have some variations:
 - In the French system, the government has control, as a majority stake, in energy production and transmission, allowing the rest to be privately held
 - In Singapore, Vietnam, and China, the government owns everything. This leads to low energy prices because the government is supposed to be not-for-profit. This allows energy, as the base of the modern economy, to be really inclusive, as the people paying to maintain each other* 
 
-> *State-run utilities are maintained by subsidies which are sourced from taxes from everyone. In privatized utilities, the system is reversed: people pay to maintain the lifestyle of the rich investors.
-
-
+{{< f f="*State-run utilities are maintained by subsidies which are sourced from taxes from everyone. In privatized utilities, the system is reversed: people pay to maintain the lifestyle of the rich investors." >}}
 
 
 
@@ -115,7 +116,7 @@ We can call this a "social corporation" or "social conglomerate" as opposed to a
 - "Corporation" emphasizes the share distribution
 - "Conglomerate*" emphasizes vertical and horizontal integration to reduce costs instead of raising profits. 
 
-> *Conglomerate comes from Latin glomerare "form into a ball"
+{{< f f="*Conglomerate comes from Latin glomerare 'form into a ball'">}}
 
 
 Such measures will reduce the cash strain and make capital improvements cheaper, without sacrificing quality. This hybrid system works well for single land masses like France, China, and Vietnam especially after nuclear fusion is realized. Lastly, it is more or less politically agnostic. 
@@ -127,8 +128,7 @@ But what about archipelagos where each island is like a feudal kingdom?
 
 For isolated areas, micro-grids can be established in a cooperative basis, as a branch of the social corporation*.  
 
-
-> *The social security provided by the social corporation is an important incentive to encourage engineers to go to difficult areas
+{{< f f="*The social security provided by the social corporation is an important incentive to encourage engineers to go to difficult areas">}}
 
 
 Micro-grids are not connected to the main grid and must be completely self-sustaining. They can be seeded by long term barter debt by the rural community, paying in crops or fish*, until they can learn to maintain the system themselves. The reduction in the cost of solar panels makes such grids more and more viable. 
@@ -136,7 +136,8 @@ Micro-grids are not connected to the main grid and must be completely self-susta
 This also spurs the local industry of the community. It will then be the job of either the social corporation or the local government to find a market for those community products.
 
 
-> *Microgrids will allow refrigeration which will make economic storage and trade of crops and fish viable
+{{< f f="*Microgrids will allow refrigeration which will make economic storage and trade of crops and fish viable">}}
+
 
 
 ### The Vision of Fusion
@@ -181,13 +182,15 @@ These principles can be applied to any country to fix their energy crisis. For t
 
 A corollary reform is to allow majority ownership of SPU*s by foreign entities, under the joint regulation of the local government and ERC (and NCIP**). This requires a constitutional change. 
 
-> *Small Power Utilities
+{{< f f="<li>*Small Power Utilities</li><li>**National Commission on Indigenous Peoples</li>">}}
 
-> **National Commission on Indigenous Peoples
+
 
 3. **Abolish WESM and revert to hybrid Feed-in-Tariffs and bidding** as done in other countries. The WESM* infrastructure can be used by the ERC to predict future shocks and bid electricity 6 months ahead of time. This transfers the burden from WESM onto the ERC
 
-> *Wholesale Electricity Spot Market -- a junk idea borrowed from the California energy market which caused the Enron scandal
+
+{{< f f="*Wholesale Electricity Spot Market -- a junk idea borrowed from the California energy market which caused the Enron scandal">}}
+
 
 
 4. **Transfer the burden of SPUGs to the local governments**, with NAPOCOR, ERC, and DENR as oversight. This reduces the burden of the "universal charge" and is in preparation for a future federal form of governance. This reduces the need for DTI and DOF because barter will be added to help maintain the system especially in tribal areas which are not used to banking. In such areas, NCIP oversight is more important

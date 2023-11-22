@@ -11,7 +11,7 @@ writer:
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
-> Superphysics Note: We replace "wage-unit" with "hourly-common-wage"
+{{< n n="We replace 'wage-unit' with 'hourly-common-wage'" >}}
 
 <!-- WE are now in a position to return to our main theme, from which we broke off at the end of Book I in order to deal with certain general problems of method and definition. --> 
 

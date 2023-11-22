@@ -86,7 +86,8 @@ I thought before that the concept of a “natural” rate of interest* was most 
 - But now it has nothing very useful to contribute to our analysis. 
 - It is merely the interest rate which will preserve the status quo.
 
-> *Superphyics Note: Economic Superphysics has a concept of a natural interest rate based on the 4th Law of Value. It is not a rate that preserves the status quo. Rather it is the rate that keeps economic balance in order to maintain zero inflation. 
+
+{{< n n="Economic Superphysics has a concept of a natural interest rate based on the 4th Law of Value. It is not a rate that preserves the status quo. Rather it is the rate that keeps economic balance in order to maintain zero inflation." >}}
 
 
 In general, we have no predominant interest in the status quo as such.
@@ -126,3 +127,4 @@ It investigates what laws will govern the application and rewards of the communi
 9. A mortgage and the interest thereon are, indeed, fixed in terms of money. But the fact that the mortgagor has the option to deliver the land itself in discharge of the debt — and must so deliver it if he cannot find the money on demand — has sometimes made the mortgage system approximate to a contract of land for future delivery against land for spot delivery. There have been sales of lands to tenants against mortgages effected by them, which, in fact, came very near to being transactions of this character. 
 
 10. This definition does not correspond to any of the various definitions of neutral money given by recent writers; though it may, perhaps, have some relation to the objective which these writers have had in mind. 11. Cf. Chapter 20 below.
+

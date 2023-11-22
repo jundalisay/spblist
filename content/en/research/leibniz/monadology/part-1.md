@@ -97,7 +97,7 @@ It even reinforced the opinion of some people with twisted minds that souls are 
 
 Appetite cannot always completely attain the whole perception it is aiming for, but it always obtains something of it, and arrives at new perceptions.
 
-> *Superphysics Note: We call this 'desire'
+{{< n n="We call this 'desire'" >}}
 
 
 16. We ourselves experience a multiplicity in a simple substance, when we find that the least thought of which we are conscious includes a variegation within its object.

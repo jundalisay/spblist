@@ -18,7 +18,8 @@ The class which controls material production also has control of mental producti
 
 The ruling ideas are nothing more than the idea-based expression of the dominant material relationships*.
 
->  *Superphysics Note: In our Supersociology, the ruling ideas are based on the 4 Cycles, one manifestation of which is material relationship.
+
+{{< n n="In our Supersociology, the ruling ideas are based on the 4 Cycles, one manifestation of which is material relationship." >}}
 
 
 <!-- , the dominant material relationships grasped as ideas. -->
@@ -56,9 +57,7 @@ The other part is made up of those who have less time to make up illusions and i
 
 The existence of revolutionary ideas in a particular period presupposes the existence of a revolutionary class*.
 
-<!-- ; about the premises for the latter sufficient has already been said above. -->
-
-> *Superphysics note: In social cycles model, this class is commonly either the worker or warrior class.
+{{< n n="In social cycles model, this class is commonly either the worker or warrior class." >}}
 
 
 In the course of history, the ruling class imposes the dominant ideas. 

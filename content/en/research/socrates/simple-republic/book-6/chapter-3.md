@@ -176,7 +176,7 @@ Make the two main divisions answer, one to the visible, and the other to the int
 {{< /l >}}
 
 
-> *Superphysics Note: This is the foundation of our metaphysical and physical domains
+{{< n n="This is the foundation of our metaphysical and physical domains" >}}
 
 
 {{< l a="Socrates" >}}
@@ -195,7 +195,7 @@ The intellectual sphere has two subdivisions:
 - In the higher, the soul passes out of hypotheses and goes up to a principle which is above hypotheses. It uses no images unlike in the former case. Instead, it proceeds through the ideas themselves.
 {{< /l >}}
 
-> *Superphysics note: An example of the lower subdivision is solving a math problem. An example of the higher subdivision is looking at the nature or root causes of phenomena. This is also the source of our division of Existence and Pre-existence (probability)
+{{< n n="An example of the lower subdivision is solving a math problem. An example of the higher subdivision is looking at the nature or root causes of phenomena. This is also the source of our division of Existence and Pre-existence (probability)" >}}
 
 
 {{< l a="Socrates" >}}

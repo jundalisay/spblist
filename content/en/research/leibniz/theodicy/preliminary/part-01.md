@@ -31,7 +31,7 @@ Reason is sometimes contrasted with experience.
 
 Reason consists in the linking together* of truths. 
 
-> *Superphysics Note: This is consistent with our definition of logic as the connection of ideas. We define reason as the ability to use logic to explain cause and effect in general. 
+{{< n n="This is consistent with our definition of logic as the connection of ideas. We define reason as the ability to use logic to explain cause and effect in general. " >}}
 
 
 Reason connects truths from experience, in order to draw mixed conclusions.
@@ -51,7 +51,7 @@ It is similar as us relying on the experience of those who have seen China.
 
 The inward motion of the Holy Spirit* takes possession of souls and persuades them and prompts them to good without always having need of motives..
 
-> *Superphysics Note: We call this the Positive Force, or Yang in Taoism or Shiva in Hinduism, which has an inward motion towards the aether. Yin or Shakti has an outward motion, towards matter. 
+{{< n n="We call this the Positive Force, or Yang in Taoism or Shiva in Hinduism, which has an inward motion towards the aether. Yin or Shakti has an outward motion, towards matter. " >}}
 
 <!-- , that is, to faith and to charity,  -->
 

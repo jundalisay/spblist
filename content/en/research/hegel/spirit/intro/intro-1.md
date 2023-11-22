@@ -43,7 +43,7 @@ This chance of error creates apprehensiveness which can make us even think that 
 
 Between knowledge and the Absolute, there is a boundary which completely cuts off the one from the other*.
 
-> *Superphysics Note: Superphysics calls it aethereal boundary
+{{< n n="Superphysics calls it aethereal boundary" >}}
 
 
 If knowledge is the instrument to attain the absolute Reality, then the application of an instrument to anything does not expose the Absolute. 

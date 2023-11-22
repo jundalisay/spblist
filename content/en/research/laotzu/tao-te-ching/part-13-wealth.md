@@ -110,7 +110,7 @@ Those who are skilled in the Tao do not dispute about it. The disputatious are n
 
 Those who know the Tao are not extensively learned. The extensively learned* do not know the Tao.
 
-> *Superphysics note: This is because the learned have been imposed on with a lot of perceptions from their teachers
+{{< n n="This is because the learned have been imposed on with a lot of perceptions from their teachers" >}}
 
 
 

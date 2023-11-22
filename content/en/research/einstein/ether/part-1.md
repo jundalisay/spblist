@@ -21,7 +21,7 @@ Outside of physics, we know nothing of action at a distance*.
 
 
 
-> *Superphysics note: This is false because most actions in metaphysics are actions at a distance.
+{{< n n="This is false because most actions in metaphysics are actions at a distance." >}}
 
 <!-- When we try to connect cause and effect in the experiences which natural objects afford us, it seems at first as if -->
 
@@ -66,7 +66,7 @@ The ether hypothesis did not at first bring with it any theory of gravity*.<!-- 
 
 <!-- But the ether hypothesis was bound always to play some part in physical science, even if at first only a latent part. -->
 
-> *Superphysics Note: Wrong. Descartes' aether, Kepler's aether, and even Timaeus aether all describe gravity. They merely don't call it as gravity, which is a word invented by Newton
+{{< n n="Wrong. Descartes' aether, Kepler's aether, and even Timaeus aether all describe gravity. They merely don't call it as gravity, which is a word invented by Newton" >}}
 
 
 <!--  the far-reaching similarity was revealed which subsists between the properties of light and those of ,  -->
@@ -112,8 +112,6 @@ They gradually admitted electric and magnetic force as fundamental concepts side
 Thus the purely mechanical view of nature was gradually abandoned.
 
 
-<!-- > *Superphysics note: This led to wave-particle duality  -->
-
 
 This led to a fundamental dualism which was insupportable in the long-run. <!-- A way of escape was now sought in the reverse direction, by reducing the principles of mechanics to those of electricity, and this especially as confidence in  --> The strict validity of <!-- the equations of --> Newton's mechanics was shaken by the experiments with β-rays and rapid cathode rays.
 
@@ -127,7 +125,7 @@ In the theory of Hertz, matter is:
 This means that the ether also bears electromagnetic fields. It is thus indistinguishable in its functions from ordinary matter*.
 
 
-> *Superphysics Note: In Superphysics, this is the RIB or Radiance Internatl Boundary which is the Higgs Field to Physics. 
+{{< n n="In Superphysics, this is the RIB or Radiance Internatl Boundary which is the Higgs Field to Physics. " >}}
 
  <!-- or the This is the earth-aether (Stokes' aether) -->
 
@@ -135,7 +133,7 @@ This means that the ether also bears electromagnetic fields. It is thus indistin
 Within matter, it takes part in the motion of matter. In empty space, it has a velocity everywhere*. 
 
 
-> *Superphysics Note: We call these as qosts or air-aether (Descartes aether) 
+{{< n n="We call these as qosts or air-aether (Descartes aether) " >}}
 
 
 In this way, it has a definite velocity throughout space. There is no fundamental difference between Hertz's ether and ponderable matter (which in part subsists in the ether).
@@ -152,12 +150,12 @@ He achieved this by taking from ether its mechanical qualities, and from matter 
 The ether in empty space and inside matter  <!-- As in empty space, so too in the interior of material bodies, , and not matter viewed atomistically, --> was exclusively the seat of electromagnetic fields*. 
 
 
-> *Superphysics Note: Therefore, Lorentz Aether is now the Higgs Field
+{{< n n="Therefore, Lorentz Aether is now the Higgs Field" >}}
 
 
 According to Lorentz, only the quantum particles of matter can carry out movements. Their electromagnetic activity is entirely confined to the carrying of electric charges*.
 
-> *Superphysics Note: Correct, the Higgs Field gives electromagnetic potential
+{{< n n="Correct, the Higgs Field gives electromagnetic potential" >}}
 
 
 Thus, Lorentz reduced all electromagnetic happenings to Maxwell's equations for free space.

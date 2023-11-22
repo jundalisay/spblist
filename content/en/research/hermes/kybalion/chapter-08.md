@@ -89,7 +89,7 @@ This comprises forms of the most subtle and tenuous Matter, the existence of whi
 
 This comprises "The Ether" of science*. It is a substance of extreme tenuity and elasticity, pervading all Universal Space, and acting as a medium for the transmission of waves of energy, such as light, heat, electricity, etc.
 
-> *Superphysics Note: The planes of the Kybalion are mixed up and confused. 
+{{< n n="The planes of the Kybalion are mixed up and confused." >}}
 
 
 This Ethereal Substance forms a connecting link between Matter (so-called) and Energy, and partakes of the nature of each. The Hermetic Teachings, however, instruct that this plane has seven sub-divisions (as have all of the Minor Planes), and that in fact there are seven ethers, instead of but one.
@@ -117,7 +117,7 @@ This comprises 7 subplanes of higher forms of energy not as yet discovered by sc
 This comprises 7 sub-planes of energy so highly organized that it bears many of the characteristics of "life". But it is not recognized by the minds of ordinary men. It is available for the use of beings of the Spiritual Plane alone and is considered as "the divine power"*.
 
 
-> *Superphysics Note: In Superphysics, the divine power comes from the nature of the aether.
+{{< n n="In Superphysics, the divine power comes from the nature of the aether." >}}
 
 
 The beings employing these are as "gods" compared even to the highest known humans.

@@ -87,7 +87,7 @@ This <!-- Prakrti --> Activity is also a collective flow of 3 immanent principle
 2. Mutative <!-- or rajah -->: This transforms identity into an active identity as the Doer “I” or active ego
 3. Static <!-- or tamah -->: This causes the <!-- mutative --> ego to <!-- imbibe the results of actions of the Doer “I”, that is, by --> create the ego-effect <!-- done “I” out --> from the action of the <!-- of the Doer “I” as the results of the latter --> active ego*
 
-> *Superphysics note: This is the 'me' of Descartes
+{{< n n="This is the 'me' of Descartes" >}}
 
 
 <!-- . Prakrti is the collective name of these three principles. -->

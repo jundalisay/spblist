@@ -11,7 +11,7 @@ description: "The beginnings of the Wealth of Nations is from this Chapter to Pa
 ---
 
 
-> Superphysics Note: The beginnings of the Wealth of Nations is from this Chapter to Part 4. We can conclude that the rest is to form his work on Jurisprudence
+{{< n n="The beginnings of the Wealth of Nations is from this Chapter to Part 4. We can conclude that the rest is to form his work on Jurisprudence" >}}
 
 In an uncivilized nation where labour is undivided, everything is provided for by the natural needs of mankind.
 

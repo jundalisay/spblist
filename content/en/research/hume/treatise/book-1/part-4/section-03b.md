@@ -43,7 +43,7 @@ They have some genius to free themselves from this shallow error.
 
 But they do not have enough genius to stop themselves from chasing this connection into matter* or causes.
 
-> *Superphysics Note: Because the power does not originate from matter, but from their own minds.
+{{< n n="Because the power does not originate from matter, but from their own minds." >}}
 
 
 Had they fallen on the just conclusion, they would have returned to the shallow situation.

@@ -16,7 +16,7 @@ THERE are 3 kinds of government:
 2. Monarchical - a single person governs by fixed and established laws
 3. Despotic - a single person directs every thing by his own will and caprice
 
-> *Superphysics note: Montesquieu really classifies it as aristocracy, democracy, monarchy, and despostism.  
+{{< n n="Montesquieu really classifies it as aristocracy, democracy, monarchy, and despostism. " >}} 
 
 
 

@@ -41,7 +41,8 @@ Our criticism of the classical theory is in pointing out that its tacit assumpti
 - This makes it unable to solve actual economic problems*. 
 
 
-> *Superphysics Note: Classical Economics was overshadowed by the Marginal Revolution which enshrined profit maximization. It is this profit maximization that causes the problems. Keynesian economics keeps profit maximization and so it also is unable to solve problems, as seen from the 1970s up to today.
+{{< n n="Classical Economics was overshadowed by the Marginal Revolution which enshrined profit maximization. It is this profit maximization that causes the problems. Keynesian economics keeps profit maximization and so it also is unable to solve problems, as seen from the 1970s up to today." >}}
+
 
 <!-- has consisted not so much in finding logical flaws in its analysis as in  -->
 
@@ -107,7 +108,11 @@ International trade would cease to be what it is, namely, a desperate expedient 
 
 Have they insufficient roots in the motives which govern the evolution of political society? Are the interests which they will thwart stronger and more obvious than those which they will serve? I do not attempt an answer in this place. 
 
-It would need a volume of a different character from this one to indicate even in outline the practical measures in which they might be gradually clothed. But if the ideas are correct — an hypothesis on which the author himself must necessarily base what he writes — it would be a mistake, I predict, to dispute their potency over a period of time. At the present moment people are unusually expectant of a more fundamental diagnosis; more particularly ready to receive it; eager to try it out, if it should be even plausible. But apart from this contemporary mood, the ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. 
+It would need a volume of a different character from this one to indicate even in outline the practical measures in which they might be gradually clothed.
+
+But if the ideas are correct — an hypothesis on which the author himself must necessarily base what he writes — it would be a mistake, I predict, to dispute their potency over a period of time. At the present moment people are unusually expectant of a more fundamental diagnosis; more particularly ready to receive it; eager to try it out, if it should be even plausible. 
+
+But apart from this contemporary mood, the ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. 
 
 The world is ruled by little else. Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist. Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back. 
 

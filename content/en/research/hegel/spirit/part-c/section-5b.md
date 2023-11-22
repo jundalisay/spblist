@@ -32,7 +32,7 @@ The category was the inmost essence of existence.
 
 **The category means that existence and self-consciousness are the same being**.* They are the same not as a matter of comparison, but really and truly in and for themselves. 
 
-> *Superphysics Note: This is why we say Consciousness is the other half of Existence and vice versa.
+{{< n n="This is why we say Consciousness is the other half of Existence and vice versa." >}}
 
 
 
@@ -68,7 +68,7 @@ However, this latter assurance itself implies that we need no longer accept it a
 
 Difference starts in the pure ego*, in pure understanding itself. 
 
-> Superphysics Note: The ego is inherently negative and is what destabilizes the 'pure' category
+{{< n n="The ego is inherently negative and is what destabilizes the 'pure' category" >}}
 
 
 Here, it is immediacy that makes assurances. 

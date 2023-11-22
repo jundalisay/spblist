@@ -66,7 +66,7 @@ But the paper cannot go abroad because=
 
 The channel of home circulation will remain filled with 1 million of paper instead of the 1 million of metals which filled it before.
 
-> *Superphysics Note: Bretton Woods made the US paper currency acceptable in foreign countries, creating instability in the entire financial system
+{{< n n="Bretton Woods made the US paper currency acceptable in foreign countries, creating instability in the entire financial system" >}}
 
 
 {{< s v="31" >}} The gold and silver sent abroad will be exchanged for foreign goods for the home country or another foreign country.

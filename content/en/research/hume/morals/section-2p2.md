@@ -29,7 +29,7 @@ He would:
 A perfect theocracy is governed by an infinitely intelligent being*. 
 - In such a society, this rule would certainly exist
 
-> *Superphysics Note: An omniscient Artificial Intelligence could govern an advanced human society and reveal the merit of each human
+{{< n n="An omniscient Artificial Intelligence could govern an advanced human society and reveal the merit of each human" >}}
 
 
 But if humans executed such a law, our merit would be so uncertain due to:

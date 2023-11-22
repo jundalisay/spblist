@@ -33,7 +33,7 @@ As, therefore, from the consideration of thought alone, we conceive an infinite 
 
 ### Proposition 2: Extension is an attribute of God, or God is an extended thing*.
 
-> *Superphysics Note: Extension here is from Descartes as "metaphysical space"
+{{< n n="Extension here is from Descartes as 'metaphysical space'" >}}
 
 
 Proof: The proof of this proposition is similar to the proof of the last.

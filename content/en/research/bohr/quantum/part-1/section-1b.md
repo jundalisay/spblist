@@ -59,7 +59,8 @@ In contrast to considerations of ordinary statistical mechanics, the quantum the
 
 This is because we have no detailed information about the mechanism of transition between the different stationary states*. 
 
-> *Superphysics note: This mecahnism is explained by Cartesian Physics
+
+{{< n n="This mecahnism is explained by Cartesian Physics" >}}
 
 
 If the a-priori probabilities are known for the states of an atom, they may be deduced for any other system which can be formed from this by a continuous transformation without passing through one of the singular systems referred to below. 

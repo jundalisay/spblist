@@ -8,7 +8,7 @@ contributors: ['Benham']
 ---
 
 
-> *Superphysics note: We have found that a Mercury line also associates with superstition
+{{< n n="We have found that a Mercury line also associates with superstition" >}}
 
 
 

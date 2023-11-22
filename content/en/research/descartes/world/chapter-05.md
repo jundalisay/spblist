@@ -18,7 +18,7 @@ That air is not composed of vapors of the earth, but is an element in itself. Ab
 
 These two elements are mixed with liquids and solids of <!-- water and earth in the composition of --> all the inferior bodies. This aethereal air and fire fill the in-between spaces* among the parts of the real air that we breathe. These bodies, interlaced with one another, then compose a real solid mass.
 
-> *Superphysics Note: The previous chapter explained that the aether had bodies within it. This chapter explains what those bodies are, as air-aether and fire-aether
+{{< n n="The previous chapter explained that the aether had bodies within it. This chapter explains what those bodies are, as air-aether and fire-aether" >}}
 
 
 <!-- But, in order better to make you understand my thought on this subject, and so that you will not think I want to force you to believe all the philosophers tell us about the elements, I should describe them to you in my fashion. -->
@@ -63,7 +63,7 @@ Its particles have very little or no motion that might cause them to change posi
 
 "Heat", "cold", "moistness", and "dryness"* are all accounted for by these 3 Elements through the motion, size, shape, and arrangement of their particles. 
 
-> *Superphysics Note: In Superphysics, heat and cold are from the Fire-aether. Wet and dry are from the mix of the 3 Elements.
+{{< n n="In Superphysics, heat and cold are from the Fire-aether. Wet and dry are from the mix of the 3 Elements." >}}
 
 
 <!-- I do not use the qualities called  as do the philosophers. <!-- I shall say to you that these qualities appear to me to be themselves in need of explanation. --> 
@@ -127,7 +127,7 @@ Examples are the sun and the stars.
 
 Examples are the gravitational territories* of stars and planets.
 
-> *Superphysics note: These are gravitational fields to Newtonian Physics
+{{< n n="These are gravitational fields to Newtonian Physics" >}}
 
 3. The earth-aether bodies
 
@@ -177,5 +177,3 @@ We cam think of these mixed perceptible bodies as sponges. They are earth-aether
 
 <!-- Many other things remain for me to explain here, and I would myself be happy to add here several arguments to make my opinions more plausible. In order, however, to make the length of this discourse less boring for you, I want to wrap part of it in the cloak of a fable, in the course of which I hope that the truth will not fail to appear sufficiently and that it will be no less agreeable to see than if I were to set it forth wholly naked.
  -->
-
- 

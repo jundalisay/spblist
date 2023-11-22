@@ -98,7 +98,7 @@ In the latter part of the 18th and early-19th centuries[16] caloric was conceive
 
 This idea fitted well with the observation that bodies commonly expand when they are absorbing heat. But it was less competent to explain the fact[17] that water expands when freezing.*
 
-> *Superphysics Note: This was explained by Descartes through water-particles having different shapes. 
+{{< n n="This was explained by Descartes through water-particles having different shapes." >}}
 
 
 This was solved by assigning a chemical nature to the freezing and melting of water. In this way, the changes in volume would be out of scope for predictions.

@@ -34,9 +34,7 @@ According to him, the world was divided into opposite powers:
 - the "other" was an inferior duad, darkness, left, unequal, unstable and movable**.
 
 
-> *Superphysics note: This is Yang or Shiva
-
-> **Superphysics note: This is Yin or Shakti
+{{< n n="<li>*This is Yang or Shiva</li><li>**This is Yin or Shakti</li>" >}}
 
 
 <!-- 39. --> 
@@ -59,14 +57,12 @@ There are two kinds of pleasures:
 
 At each of these we should consider our past actions, and those that are to come. We should require of ourselves an account of our past deeds, while of the future we should have a providential care. Therefore he advised everybody to repeat to himself the following verses before he fell asleep:
 
-        "Nor suffer sleep to close thine eyes
-        Till thrice thy acts that day thou hast run o'er;
-        How slipt? What deeds? What duty left undone?"
+> Nor suffer sleep to close thine eyes till thrice thy acts that day thou hast run o'er; How slipt? What deeds? What duty left undone?
 
 On rising:
 
-        "As soon as ere thou wakest, in order lay
-        The actions to be done that following day"
+> As soon as ere thou wakest, in order lay. The actions to be done that following day
+
 
 41. He advised above all things to speak the truth, for this alone deifies men. 
 

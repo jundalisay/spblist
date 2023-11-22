@@ -87,7 +87,9 @@ He replied:
 
 'Great king, there is nothing given, nothing offered, nothing sacrificed. There is no fruit or result of good or bad actions.*
 
-> *Superphysics Note: This is likely the Zen way of answering 
+
+{{< n n="This is likely the Zen way of answering" >}}
+
 
 There is no this world, no next world, no mother, no father, no spontaneously reborn beings; no brahmans or contemplatives who, faring rightly and practicing rightly, proclaim this world and the next after having directly known and realized it for themselves. 
 

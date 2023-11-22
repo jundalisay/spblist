@@ -11,7 +11,7 @@ icon: "/avatars/smith.png"
 ---
 
 
-> Superphysics note:  The core of the misunderstanding of Smith's Labour Theory of Value is the ambiguity of the word 'labour'. Here, we replace it with 'toil and trouble' to equate it more to psychology, emotions, and subjectiveness, instead of physical force or objectiveness. Toil and trouble is more related to suffering and non-suffering. A link to the original translation with the word 'labour' will be posted in the bottom.
+{{< n n=" The core of the misunderstanding of Smith's Labour Theory of Value is the ambiguity of the word 'labour'. Here, we replace it with 'toil and trouble' to equate it more to psychology, emotions, and subjectiveness, instead of physical force or objectiveness. Toil and trouble is more related to suffering and non-suffering. A link to the original translation with the word 'labour' will be posted in the bottom." >}}
 
 
 ## Toil and trouble is the real measure of Exchangeable Value

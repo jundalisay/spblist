@@ -136,6 +136,6 @@ In such a space, dissociation occurs.
 
 The physical deficiency caused by this wear and tear is compensated by the energy <!-- práńa --> that we get from food, light, air, water, etc.
 
-<!-- > *Superphysics note: This means that the longevity of objects (anti-entrophy) is maintained by the unifying force -->
+<!-- {n n="This means that the longevity of objects (anti-entrophy) is maintained by the unifying force -->
 
 **The solidarity of our composite structure remains unchanged in spite of this wear and tear as long as the nucleus remains under the influence of the <!-- resultant interial --> creative unifying force.**

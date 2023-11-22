@@ -55,7 +55,7 @@ When there is this abstinence from action, good order is universal.
 
 {{< s v="2">}} The space between heaven and earth can be compared to a bellows. It is emptied, but does not lose its power*. It is moved again to blow out more air. 
 
-> *Superphysics Note: As Nirguna, the Tao is pure potentiality which technically doesn't exist yet. 
+{{< n n="As Nirguna, the Tao is pure potentiality which technically doesn't exist yet." >}}
 
 <!-- Much speech to swift exhaustion lead we see;
 Your inner being guard, and keep it free. -->

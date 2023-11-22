@@ -22,7 +22,7 @@ Trade | Barter
 
 The country of Maharlika* (Ma-i) is north of Borneo. Its capital has over 1,000 families settled together along both banks of a creek [Pasig River]. 
 
-> *Superphysics note: Ma-i is a shortcut for May-nila which means "having blue". Nila is Sanskrit for blue. The color blue represents the caste of free citizens called Maharlika based on the precolonial caste system. It is improper to call the people of the Philippines as "Manilans" just as we do not call all the French as "Paris-ians". Instead, we call it France as a reference to the Frankish people. We extend this to the Philippines to call the country as Maharlikans as a reference to the majority caste. This is supported by the Chinese characters for Ma-i 麻逸 where 逸 signifies moving freely. 
+{{< n n="Ma-i is a shortcut for May-nila which means 'having blue'. Nila is Sanskrit for blue. The color blue represents the caste of free citizens called Maharlika based on the precolonial caste system. It is improper to call the people of the Philippines as 'Manilans' just as we do not call all the French as 'Paris-ians'. Instead, we call it France as a reference to the Frankish people. We extend this to the Philippines to call the country as Maharlikans as a reference to the majority caste. This is supported by the Chinese characters for Ma-i 麻逸 where 逸 signifies moving freely." >}} 
 
 
 <!-- </p><p>We apply the Maharlikan caste system as progressive taxation where the datus (ruling class and high net worth people) are taxed more and the maharlika (free citizens). The aliping namamahay (servants and low-class workers) and aliping sagigilid (criminals, vagrants) are not taxed. The description by Chau-ju-kua also explains why federalism is the natural system for Maharlika and also for Indonesia. The unitary system can work with the Arab nations since Islam and the Persian system already has been in force for a long time.</p><p>The caste system manifests in modern countries as the rich caste versus the poor caste. We explain the current caste system in the Philippines at the bottom</p> -->
@@ -45,9 +45,9 @@ there will yet be no loss. -->
 - They then repay the foreign merchants with what they had obtained for the goods.
 - Some, however, do not return within the proper time**. This delay is why vessels trading with Maharlika are the last to return home.
 
-> *Superphysics note: The foreign merchants would leave a representative or envoy behind to make sure that the goods would be returned on the next visit.
+{{< n n="The foreign merchants would leave a representative or envoy behind to make sure that the goods would be returned on the next visit." >}}
 
-> **Superphysics note: Here, Filipino time is consistent with Maharlikan time. This is why "truth" (katotohanan) is the first constitutional virtue suggested
+{{< n n="Here, Filipino time is consistent with Maharlikan time. This is why 'truth' (katotohanan) is the first constitutional virtue suggested" >}}
 
 
 The following places belong to Maharlika:
@@ -73,7 +73,7 @@ Their exports are:
 - medicinal betel-nuts*
 - yuta cloth
 
-> *Superphysics note: This is clear proof of the influence of the babaylans which were the feminine priest caste that also concocted herbal medicine. It shows that the Babaylan caste had export potential which contributed to Maharlika's GDP. This is why Maharlikanism advocates the advancement of Maharlikan herbal medicines to catch up with Indian Ayurveda and Traditional Chinese Medicine
+{{< n n="This is clear proof of the influence of the babaylans which were the feminine priest caste that also concocted herbal medicine. It shows that the Babaylan caste had export potential which contributed to Maharlika's GDP. This is why Maharlikanism advocates the advancement of Maharlikan herbal medicines to catch up with Indian Ayurveda and Traditional Chinese Medicine" >}}
 
 
 
@@ -88,7 +88,7 @@ Foreign merchants barter for these with:
 - coloured glass beads
 - iron needles*
 
-> *Superphysics note: This is consistent with the observation of Pigafetta and Jagor that Maharlikan manufacturing was very weak. This is why Talino is also an important constitutional virtue
+{{< n n="This is consistent with the observation of Pigafetta and Jagor that Maharlikan manufacturing was very weak. This is why Talino is also an important constitutional virtue" >}}
 
 
 <!-- Notes.
@@ -161,7 +161,7 @@ The Visayas* (Sansu or Three Islands) belong to Maharlika:
 - Palawan 
 - Leyte-Samar (Pakinung)
 
-> *Superphysics Note: This proves that Visayas and Sri Vijaya do not mean 'victory'. Instead, vija means 3 or tiga. In this way, Visayas means 3 islands just as Sri Vijaya (Sanfotsi) means 3 nations as Sumatran, Malay, and Southern Thai
+{{< n n="This proves that Visayas and Sri Vijaya do not mean 'victory'. Instead, vija means 3 or tiga. In this way, Visayas means 3 islands just as Sri Vijaya (Sanfotsi) means 3 nations as Sumatran, Malay, and Southern Thai" >}}
 
 
 Each has its own tribes scattered over the islands.
@@ -224,7 +224,7 @@ The following are exchanged in barter:
 
 Mindanao (Pulilu) is connected with the Visayas, but its settlements are more populous. Most of the people are of a cruel disposition and given to robbery*. 
 
-> *Superphysics Note= This manifests as the 'rido' clan-war culture and piracy in Sulu. A suggestion to soften such a culture is to overwhelm them with effeminate KPop
+{{< n n="This manifests as the 'rido' clan-war culture and piracy in Sulu. A suggestion to soften such a culture is to overwhelm them with effeminate KPop" >}}
 
 
 The sea thereabout is full of bare ribs of rock with jagged teeth like blasted trees, their points and edges sharper than swords and lances. When ships pass, they tack out in time in order to steer clear of them.
@@ -271,7 +271,7 @@ Brunei administrated the following places* in Maharlika:
   Shahuchong 沙胡重, -->
   <!--  Oton, Manaluonu 麻拿囉奴, and Yachen 啞陳, and Wenduling 文杜陵. -->
 
-> *Superphysics note= This is proven by Pigafetta observing that Visayas and Eastern Mindanao (Butuan) were not Islamic 
+{{< n n="This is proven by Pigafetta observing that Visayas and Eastern Mindanao (Butuan) were not Islamic" >}}
 
 ---
 

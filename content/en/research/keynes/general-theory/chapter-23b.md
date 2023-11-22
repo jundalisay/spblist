@@ -215,7 +215,8 @@ But I now read them in an honest intellectual effort to keep separate what the c
 - interest rate*
 - the marginal efficiency of capital
 
-> *Superphysics Note= Interest rate is the profits in lending capital. Return on capital is the profits in using capital yourself
+
+{{< n n="Interest rate is the profits in lending capital. Return on capital is the profits in using capital yourself" >}}
 
 
 

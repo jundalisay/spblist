@@ -36,10 +36,8 @@ But is it still the same wax?
 
 Of course it is, no-one denies this*. 
 
-
-> *Superphysics note: According to David Hume, it is a different wax. 
-
-
+{{< n n="According to David Hume, it is a different wax." >}}
+ 
 
 The properties of the wax changed even if is the same wax. 
 <!-- So what was it about the wax that I understood so clearly? Evidently it was not any of the features that the senses told me of; for all of them – brought to me through taste, smell, sight, touch or hearing – have now altered, yet it is still the same wax. -->

@@ -187,7 +187,7 @@ Thus, Socrates, gods and men unite in making the life of the unjust better than 
 {{< /r >}}
 
 
-> *Superphysics Note: This is refuted by Socrates in Book 10, Chapter 2.
+{{< n n="This is refuted by Socrates in Book 10, Chapter 2." >}}
 
 
 

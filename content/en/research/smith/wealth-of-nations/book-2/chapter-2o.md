@@ -73,7 +73,7 @@ In 1772, the Pennsylvania government pretended on their first paper money to ren
 A positive law can render a shilling equal to a guinea because it can direct the courts to discharge the debtor who made that tender.*
 - **But no positive law can oblige a free seller to accept a shilling as a payment for something priced at a guinea.**
 
-> *Superphysics note: This is because a debt is bound by a long time, which can include changes in circumstances. But a purchase is immediate. 
+{{< n n="This is because a debt is bound by a long time, which can include changes in circumstances. But a purchase is immediate. " >}}
 
 
 In the exchange with Great Britain, £100 was occasionally considered equal to £130 in some colonies.

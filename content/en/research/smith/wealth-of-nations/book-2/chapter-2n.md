@@ -27,7 +27,7 @@ icon: "/avatars/smith.png"
 - <!-- increases the amount of currency and  -->reduce the value of currency, and
 - increase the money price of commodities.
 
-> *Superphysics Note: The increase of paper money here is the increased subdivision of metal value into smaller values such as 5 or 10 shillings, as opposed to large pound values. In modern speak, it means the creation of more pennies instead of $100 bills. It follows that if all $100 bills were converted to their penny-equivalents for easier small transactions, then inflation will not be affected.
+{{< n n="The increase of paper money here is the increased subdivision of metal value into smaller values such as 5 or 10 shillings, as opposed to large pound values. In modern speak, it means the creation of more pennies instead of $100 bills. It follows that if all $100 bills were converted to their penny-equivalents for easier small transactions, then inflation will not be affected." >}}
 
 
 **In reality, paper money does not necessarily increase the amount of currency, because the gold and silver removed from the currency is always equal to the paper added to it.**

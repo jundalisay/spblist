@@ -16,8 +16,8 @@ icon: /icons/descartes.png
 The animal spirits are like a very subtle wind, or a very pure and vivid flame. 
 - It continually rises in great abundance from the heart to the brain*.
 
-> *Superphysics Note: From the external spacetime particles to the heart up to the brain, the animal spirits are pranah or vital energy. The animal spirits get crudified in the brain from where it is sent throughout the body where it manifests as the nerve impulses traveling through the anthakarana. Telekinesis is the channeling of the spacetime particles from the heart directly through the body and back to the external space as to create movement. This requires a breathing technique to energize the heart. Spacetime particles also contain the aether and so extra-sensory information can also be derived from spacetime.  
-
+{{< n n="From the external spacetime particles to the heart up to the brain, the animal spirits are pranah or vital energy. The animal spirits get crudified in the brain from where it is sent throughout the body where it manifests as the nerve impulses traveling through the anthakarana. Telekinesis is the channeling of the spacetime particles from the heart directly through the body and back to the external space as to create movement. This requires a breathing technique to energize the heart. Spacetime particles also contain the aether and so extra-sensory information can also be derived from spacetime." >}}
+  
 
 From the brain, it penetrates through the nerves into the muscles, and moves all the parts. 
 
@@ -44,17 +44,39 @@ My Treatise explains the following:
 
  <!-- , and in a manner as suited, whether to the objects that are presented to its senses or to its internal affections, as can take place in our own case apart from the guidance of the will.  -->
 
-Nor will this appear at all strange to those who are acquainted with the variety of movements performed by the different automata, or moving machines fabricated by human industry, and that with help of but few pieces compared with the great multitude of bones, muscles, nerves, arteries, veins, and other parts that are found in the body of each animal. Such persons will look upon this body as a machine made by the hands of God, which is incomparably better arranged, and adequate to movements more admirable than is any machine of human invention. 
+This will not be strange to those who know the variety of movements by the different automata, or moving machines fabricated by human industry.
 
-Were there such machines exactly resembling organs and outward form an ape or any other irrational animal, we could have no means of knowing that they were in any respect of a different nature from these animals; 
+<!-- , and that with help of but few pieces compared with the great multitude of bones, muscles, nerves, arteries, veins, and other parts that are found in the body of each animal.  -->
 
-But if there were machines bearing the image of our bodies, and capable of imitating our actions as far as it is morally possible, there would still remain two most certain tests whereby to know that they were not therefore really men. 
+Our body is a machine made by the hands of God, which is incomparably better arranged than any machine of human invention.
 
-Of these the first is that they could never use words or other signs arranged in such a manner as is competent to us in order to declare our thoughts to others= for we may easily conceive a machine to be so constructed that it emits vocables, and even that it emits some correspondent to the action upon it of external objects which cause a change in its organs; 
+If our bodies had exactly the organs and outward form an ape or any other irrational animal, then we would not be different from them. 
 
-For example, if touched in a particular place it may demand what we wish to say to it; if in another it may cry out that it is hurt, and such like; but not that it should arrange them variously so as appositely to reply to what is said in its presence, as men of the lowest grade of intellect can do. 
+ <!-- have no means of knowing that they were in any respect of a different nature from these animals;  -->
 
-The second test is, that although such machines might execute many things with equal or perhaps greater perfection than any of us, they would, without doubt, fail in certain others from which it could be discovered that they did not act from knowledge, but solely from the disposition of their organs= for while reason is an universal instrument that is alike available on every occasion, these organs, on the contrary, need a particular arrangement for each particular action; whence it must be morally impossible that there should exist in any machine a diversity of organs sufficient to enable it to act in all the occurrences of life, in the way in which our reason enables us to act. 
+But if those bodies were like ours capable of imitating our actions as far as it is morally possible, then there would be 2 tests to prove whether they were human. 
+
+ <!-- still remain two most certain tests whereby to know that they were not therefore really men.  -->
+
+1. They could never use words or other signs arranged in order to communicate our thoughts to others.
+
+A machine can be so constructed to emit words. [Am example is a parrot]
+
+ <!-- vocables, and even that it emits some correspondent to the action upon it of external objects which cause a change in its organs;  -->
+
+<!-- For example, if touched in a particular place it may demand what we wish to say to it; if in another it may cry out that it is hurt, and such like;  -->
+
+But such a machine cannot arrange those words to create a valid reply as when men of the lowest grade of intellect can do. 
+
+2. Such bodies would fail in certain actions that required knowledge, instead of the disposition of their organs.
+
+<!-- The second test is, that although such machines might execute many things with equal or perhaps greater perfection than any of us, they would, without doubt, -->
+
+<!-- from which it could be discovered that they did not act from knowledge, but solely from  -->
+
+Reason, the universal instrument for knowledge, is not present in the organs. 
+
+<!-- that is alike available on every occasion, these organs, on the contrary, need a particular arrangement for each particular action; whence it must be morally impossible that there should exist in any machine a diversity of organs sufficient to enable it to act in all the occurrences of life, in the way in which our reason enables us to act.  -->
 
 These two tests can let us know the difference between men and brutes.
 
@@ -65,7 +87,7 @@ This inability does not arise from lack of organs. Magpies and parrots can utter
 
 <!-- ; in place of which men born deaf and dumb, and thus not less, but rather more than the brutes, destitute of the organs which others use in speaking, are in the habit of spontaneously inventing certain signs by which they discover their thoughts to those who, being usually in their company, have leisure to learn their language. -->
 
-This proves that animals have less reason than man, but that they have none at all. Very little is required for a person to speak.
+**This proves that animals have less reason than man, but that they have none at all.** Very little is required for a person to speak.
 
 The soul of brutes are of a nature totally different from ours because:
 - a certain inequality of capacity is observable among animals of the same species, as well as among men
@@ -80,7 +102,9 @@ For if such were the case, since they are endowed with many organs analogous to 
 
 There are many animals which are more hardworking than us in certain actions. 
 
-The same animals are yet observed to show none at all in many others= so that the circumstance that they do better than we does not prove that they are endowed with mind, for it would thence follow that they possessed greater reason than any of us, and could surpass us in all things; on the contrary, it rather proves that they are destitute of reason, and that it is nature which acts in them according to the disposition of their organs= thus it is seen, that a clock composed only of wheels and weights can number the hours and measure time more exactly than we with all our skin.
+The same animals are yet observed to show none at all in many others= so that the circumstance that they do better than we does not prove that they are endowed with mind, for it would thence follow that they possessed greater reason than any of us, and could surpass us in all things.
+
+On the contrary, it rather proves that they are destitute of reason, and that it is nature which acts in them according to the disposition of their organs= thus it is seen, that a clock composed only of wheels and weights can number the hours and measure time more exactly than we with all our skin.
 
 The reasonable soul:
 - is not educed from the power of matter. Instead, the soul must be expressly created. 

@@ -9,7 +9,7 @@ icon: /avatars/poincare.png
 ---
 
 
-> Superphysics Note: Proof by Recurrence is numerical perception
+{{< n n="Proof by Recurrence is numerical perception" >}}
 
 
 This monotonous series of reasonings exposes a nature of <!--  may now be laid aside; but their very monotony brings vividly to light the process, which is --> uniformity at every step.
@@ -42,7 +42,7 @@ Reasoning by Recurrence is therefore mathematical reasoning par excellence.
 They follow one another in a cascade*. 
 
 
-> *Superphysics Note: Reasoning by Recurrence is the repeated connection of numerical ideas
+{{< n n="Reasoning by Recurrence is the repeated connection of numerical ideas" >}}
 
 
 

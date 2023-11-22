@@ -29,7 +29,7 @@ Being which is per se straightway non-being we call a 'show', a semblance (Schei
 
 This totality as totality or universal* is what makes up the inner world, the play of forces in the sense of its reflection into itself. 
 
-> *Superphysics note: In Hinduism, this is the Brahma
+{{< n n="In Hinduism, this is the Brahma" >}}
 
 
 There, consciousness has before itself in objective form the things of perception as they truly are, that is, as:

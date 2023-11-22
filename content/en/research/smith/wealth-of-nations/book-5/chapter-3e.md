@@ -178,4 +178,4 @@ The pernicious system of funding encumbers, in peacetime as it encumbers in wart
 
 It supposes that the whole public debt is because of the people*, which is not true. The Dutch and other nations have a very big share in our public funds. Even if the whole debt was due to the people, it would not be less pernicious.
 
-> *Superphysics note: This is caused by the tendency of the mind to simplify value into money prices 
+{{< n n="This is caused by the tendency of the mind to simplify value into money prices " >}}

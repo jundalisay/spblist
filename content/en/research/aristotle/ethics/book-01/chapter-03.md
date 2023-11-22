@@ -84,7 +84,7 @@ The good cannot be something common and universal and one in all. Otherwise, it 
 
 3. Since those things which range under one ἰδέα are also under the cognisance of one science, there would have been, on their theory, only one science taking cognisance of all goods collectively*.
 
-> *Superphysics Note: Superphysics aims to be that one science.
+{{< n n="Superphysics aims to be that one science." >}}
 
 But in fact, there are many even for those which range under one category.
 

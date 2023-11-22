@@ -12,7 +12,7 @@ writer:
 ---
 
 
-> Superphysics Note: We replace "wage-unit" with "hourly-common-wage" and "labour-unit" with "hourly-common-labour"
+{{< n n="We replace 'wage-unit' with 'hourly-common-wage' and 'labour-unit' with 'hourly-common-labour'" >}}
 
 <!-- ## Book 3 The Propensity to Consume -->
 

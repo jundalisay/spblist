@@ -203,7 +203,7 @@ Back of that Aspect is "The Aspect of BEING" in which all Laws are lost in LAW. 
 Therefore, Metaphysical speculation on this point is futile*. 
 
 
-> *Superphysics note: The absence of the One is why the author ascribes no reason to existence
+{{< n n="The absence of the One is why the author ascribes no reason to existence" >}}
 
 
 <!-- We go into the matter here, merely to show that we recognize the question, and also the absurdity of the ordinary answers of metaphysics and theology. -->

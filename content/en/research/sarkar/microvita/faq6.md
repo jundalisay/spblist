@@ -152,6 +152,6 @@ If the microvita moving through the particular smell inference of a solid object
 This is because there would be no change in the major wavelength, although there was a qualitative change in all of its five attributes.
 
 But if the major wavelength – that is, the inferential wave – of the solid object undergoes a change, all the inferences will be transmuted accordingly.*
-
-> *Superphysics Note: Here, the object itself changes as opposed to a single attribute
 {{< /l >}}
+
+{{< n n="Here, the object itself changes as opposed to a single attribute" >}}

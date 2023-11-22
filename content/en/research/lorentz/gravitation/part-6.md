@@ -11,7 +11,7 @@ writer:
 weight: 10
 ---
 
-> Superphysics Note: This is still under construction
+{{< n n="This is still under construction" >}}
 
 
 Each of the two disturbances of the aether is propagated at the speed of light. 

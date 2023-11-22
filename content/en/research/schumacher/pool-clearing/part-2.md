@@ -16,7 +16,7 @@ The International Clearing Office requires no finance of its own. It does not ha
 - to ascribe any one particular balance, or part of it, to any one particular surplus country*.
   - The Gordian knot is cut by making all the surplus countries the joint owners of the balances in all the deficit countries.
 
-> *Superphysics Note: In theory, Supereconomics can untie this knot <!-- if every transaction is done in a single system  -->
+{{< n n="In theory, Supereconomics can untie this knot <!-- if every transaction is done in a single system  -->" >}}
 
 **In this way, every national currency is made into a world currency and the creation of a new world currency becomes unnecessary.** 
 
@@ -27,7 +27,7 @@ In this regard, the International Clearing Office does not require any special p
 It would be of no economic significance if a new international currency were created*. The holding of “a share in the Pool” would then be called a holding of “world currency”, but the backing of the world currency would just be the cash balances in the deficit countries.
 
 
-> *Superphysics Note: Here, we agree with Schumacher and disregard any new currency like the Bancor
+{{< n n="Here, we agree with Schumacher and disregard any new currency like the Bancor" >}}
 
 
 The Clearing Funds of surplus countries:
@@ -40,7 +40,7 @@ Both their debt and their share in the Pool would be equal to their trade surplu
 -The Clearing Funds of countries with no surplus nor deficit will hold neither cash nor a share in the Pool.
 
 
-> *Superphysics Note: In Supereconomics, the surplus countries become indebted to their own citizens who make prepayments that can be used overseas, as a sort of import or purchase of the services of the other countries like tourism, medical services, or education. This increases local employment globally at the expense of international finance which is Mercantilist banking to Adam Smith
+{{< n n="In Supereconomics, the surplus countries become indebted to their own citizens who make prepayments that can be used overseas, as a sort of import or purchase of the services of the other countries like tourism, medical services, or education. This increases local employment globally at the expense of international finance which is Mercantilist banking to Adam Smith" >}}
 
 
 This system is fully multilateral.

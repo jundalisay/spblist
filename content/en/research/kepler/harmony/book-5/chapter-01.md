@@ -33,7 +33,7 @@ Next is the tetrahedron as a part established by division of the cube.
 The tetrahedron `ACDF` appears hidden in the cube, in such a way that any face of the tetrahedron, such as `ACD`, is covered by one vertex of the cube `ACDB`.
 
 
-<!-- > *Superphysics Note: The Cube is the Aether, the Tetrahedron is Electromagnetism, and the IN ESSASSANI CONSCIOUSNESS IS TETRAHEDRON -->
+<!-- n n="The Cube is the Aether, the Tetrahedron is Electromagnetism, and the IN ESSASSANI CONSCIOUSNESS IS TETRAHEDRON -->
 
 
 

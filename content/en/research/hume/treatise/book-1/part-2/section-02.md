@@ -32,7 +32,7 @@ It follows that if any finite space is infinitely divisible, then a finite space
 
 But this latter supposition is absurd.
 
-> Superphysics Note: This is an attack on Descartes who went against the indivisibility of atoms. The error in Hume is that he is imposing a finite or limited space. In Cartesian Physics, spacetime is limited or has an edge, but that edge is constantly growing because the 2nd Element (spacetime particles) are constantly being divided.  
+{{< n n="This is an attack on Descartes who went against the indivisibility of atoms. The error in Hume is that he is imposing a finite or limited space. In Cartesian Physics, spacetime is limited or has an edge, but that edge is constantly growing because the 2nd Element (spacetime particles) are constantly being divided." >}}  
 
 
 I clear this up by thinking of the smallest idea that I can about space.
@@ -47,7 +47,7 @@ Therefore:
 - no finite space can have an infinite number of parts.
 
 
-> Superphysics Note: This is what Descartes' reasoning is based on. And so it agrees with Hume. 
+{{< n n="This is what Descartes' reasoning is based on. And so it agrees with Hume. " >}}
 
 Consequently, no finite space is infinitely divisible [Footnote 3].
 

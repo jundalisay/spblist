@@ -41,7 +41,7 @@ It will be sent abroad* to find profitable employment that it cannot find at hom
 This continual exportation of gold and silver further increases the bank's expence in finding new gold and silver to replenish those rapidly-emptying coffers.
 Such a bank must increase its second expence still more than the first expence, proportional to this forced increase of their business.
 
-> *Superphysics Note: As capital flight
+{{< n n="As capital flight" >}}
 
 
 {{< s v="52" >}} Let us say that all the paper of a bank which the national circulation can easily employ was exactly £40,000.

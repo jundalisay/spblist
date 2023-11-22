@@ -85,7 +85,7 @@ Assume this goes on for 12 months and each Fund has 3 outcomes:
 2. Surplus countries will be short of local currency for exporters and will sell Tbills to get cash
 3. Balanced countries will be in same position as 12 months before
 
-> *Superphysics note: In Supereconomics, the excess currency stays locked up and is not used to buy Tbills. This makes the currency inert in order to reduce inflation. However, this might also starve the country of cash to cause a recession. That's why the other countries will be encouraged to travel to deficit countries and avail of their services, likely via tourism and hospitality, to empty the Clearing Fund. 
+{{< n n="In Supereconomics, the excess currency stays locked up and is not used to buy Tbills. This makes the currency inert in order to reduce inflation. However, this might also starve the country of cash to cause a recession. That's why the other countries will be encouraged to travel to deficit countries and avail of their services, likely via tourism and hospitality, to empty the Clearing Fund. " >}}
 
 What would be the position of ownership of the deficit countries?
 - America sells 10x more to Britain
@@ -110,7 +110,7 @@ This cannot be answered unless the time sequence of all individual transactions 
 
 **This is the decisive feature of “Pool Clearing”.**
 
-> *Superphysics Note: The balances lose their identity because currency destroys the traceability. Supereconomics uses points to maintain the identity and traceability to be able to disentangle world trade. If a country leaves the pool, then its promise-to-import will be enforced. Otherwise, the pool will absorb the loss.
+{{< n n="The balances lose their identity because currency destroys the traceability. Supereconomics uses points to maintain the identity and traceability to be able to disentangle world trade. If a country leaves the pool, then its promise-to-import will be enforced. Otherwise, the pool will absorb the loss." >}}
 
 
 
@@ -136,4 +136,4 @@ All cash balances accumulating (in the form of a holding of Treasury Bills) in t
 ![Pool Union Graphic](https://sorasystem.sirv.com/charts/pool/poolunion.png)
 
 
-> *Superphysics Note: In our proposed Pantrypoints system, this is the job of ISAIAH. The main difference is that Schumacher's system 'sells' the idle cash to the money market. In Pantrypoints, the idle cash stays idle and does not earn interest because its only purpose is to circulate world trade. This is because Adam Smith, from whom Pantrypoints is based, saw Tbills as part of the Mercantile system. This removes the need for an International Clearing Office and International Pool, as well as the costs associated with it. However, this creates the need for a deposit and withdrawal sysetm for the citizens of the Pool to travel to other Pool-member countries to avail of 'nonindustrialized' services instead of goods. This subsystem is called Points-Banking. Instead, idle cash in net-importer-countries are emitted back to the economy through foreign tourists coming in, and the outsourcing or export of services.
+{{< n n="In our proposed Pantrypoints system, this is the job of ISAIAH. The main difference is that Schumacher's system 'sells' the idle cash to the money market. In Pantrypoints, the idle cash stays idle and does not earn interest because its only purpose is to circulate world trade. This is because Adam Smith, from whom Pantrypoints is based, saw Tbills as part of the Mercantile system. This removes the need for an International Clearing Office and International Pool, as well as the costs associated with it. However, this creates the need for a deposit and withdrawal sysetm for the citizens of the Pool to travel to other Pool-member countries to avail of 'nonindustrialized' services instead of goods. This subsystem is called Points-Banking. Instead, idle cash in net-importer-countries are emitted back to the economy through foreign tourists coming in, and the outsourcing or export of services." >}}

@@ -11,9 +11,7 @@ image: "/covers/med.png"
 icon: "/icons/descartes.png"
 ---
 
-
-
-Rene Descartes 1639
+<!-- Rene Descartes 1639 -->
 
 <!-- Source= Meditations on First Philosophy in which are demonstrated the existence of God and the distinction between the human soul and the body, by René Descartes, translated by John Cottingham. Published by Cambridge University Press.
 Transcribed= by Andy Blunden. -->
@@ -128,7 +126,8 @@ I shall do this until I have something to counter-balance the old opinion. <!-- 
 
 I shall suppose that some malicious, powerful, cunning demon has done all to deceive me. <!--  – rather than this being done by God, who is supremely good and the source of truth. --> I shall think that the sky, air, earth, colours, shapes, sounds and all external things are merely dreams that the demon* has contrived as traps for my judgment.
 
-> *Superphysics Note: In Hinduism, this is Maya
+{{< n n="In Hinduism, this is Maya" >}}
+
 
 
 I shall consider myself as having no hands or eyes, or flesh, or blood or senses, but as having falsely believed that I had all these things. 

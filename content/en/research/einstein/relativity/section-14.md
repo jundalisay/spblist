@@ -27,7 +27,8 @@ This led to the Lorentz transformation and not the Galilei transformation of cla
 Every general law of nature* is transformed into a law of exactly the same form when, instead of the spacetime variables `x, y, z, t` of the original non-moving coordinate system `K`, we introduce new space-time variables `x', y', z', t'` of a moving coordinate system `K'`. 
 {{< /q >}}
 
-> *Superphysics Note: This part of Relativity is correct. The error is in basing it in the constancy of light
+
+{{< n n="This part of Relativity is correct. The error is in basing it in the constancy of light" >}}
 
 
 
@@ -38,4 +39,7 @@ The relation between the ordinary and the accented magnitudes is given by the Lo
 This is a definite mathematical condition that my theory of relativity demands of a natural law. This makes my theory a valuable heuristic aid in the search for the general laws of nature. If a general law of nature were to be found which did not satisfy this condition, then at least one of the two fundamental assumptions of the theory would have been disproved*.
 
 
-> *Superphysics Note: We easily disprove Einstein's theory with the levitating Buddhist monk, the levitating of ancient Egyptian blocks as the pyramids, and the zipping of UFOs through spacetime without needing immense amounts of energy. His theory only works in the electromagnetic layer and not in the material layer (where principles of Classical mechanics works) or the spacetime and aethereal layers (where the principles of Superphysics works)
+
+{{< n n="We easily disprove Einstein's theory with the levitating Buddhist monk, the levitating of ancient Egyptian blocks as the pyramids, and the zipping of UFOs through spacetime without needing immense amounts of energy. His theory only works in the electromagnetic layer and not in the material layer (where principles of Classical mechanics works) or the spacetime and aethereal layers (where the principles of Superphysics works)" >}}
+
+

@@ -11,7 +11,7 @@ description: "The Saturn line is frequently called the line of Fate."
 
 <!-- "We make our fortunes and we call them fate." - B. DISRAELI -->
 
-> *Superphysics Note: In our experience, a long Saturn line is synonymous with racket or financial need
+{{< n n="In our experience, a long Saturn line is synonymous with racket or financial need" >}}
 
 
 THE line of Saturn is the fourth Main line which receives the Current.

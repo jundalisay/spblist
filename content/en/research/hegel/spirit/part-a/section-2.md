@@ -115,20 +115,20 @@ They are expressed in the simple form of the universal [as a collective].
 The simple self-identical universality, however, is itself distinct and detached from these determinate characteristics that it has*. 
 - **It is pure self-relation, the “medium” wherin all these characteristics exist.** 
 
-> *Superphysics Note: Each existence is separate from the rest via spacetime, but is related to itself in those other spacetimes.
+{{< n n="Each existence is separate from the rest via spacetime, but is related to itself in those other spacetimes." >}}
 
 In a bare, simple unity, one thing interpenetrates another, each without affecting the other*. 
 - Likewise, the parts of the simple self-identical universality are indifferent to each other
   - Each is by itself simply by participating in this universality.
 
-> *Superphysics Note: This is when the existences are static. 
+{{< n n="This is when the existences are static. " >}}
 
 
 This abstract universal medium we can call as “Thinghood”. 
 - It is merely the Here and Now, as This on analysis turned out to exist.
 - It is a simple togetherness of many Heres and Nows.*
 
-> *Superphysics Note: This is when the existences are joined together by joining their spacetimes.
+{{< n n="This is when the existences are joined together by joining their spacetimes." >}}
 
 
 But the many (in the present case) are themselves simply universals in their determinateness.

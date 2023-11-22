@@ -94,10 +94,10 @@ By an intricate ballot, such as that of Venice or Malta, they choose the followi
 - a council of war inspects the militia and its arms and generals
 - a council of the admiralty controls the navy
     
-> *Superphysics note: We suggest this in our [solution to Afghanistan](/social/cycles/afghanistan/#solution-an-80-year-phased-approach) 
+{{< n n="We suggest this in our [solution to Afghanistan](/social/cycles/afghanistan/#solution-an-80-year-phased-approach) " >}}
 
 
-> *Superphysics note: We suggest [a Guardian council](/research/socrates/simple-republic/book-5/chapter-1)
+{{< n n="We suggest [a Guardian council](/research/socrates/simple-republic/book-5/chapter-1)" >}}
 
 
 Each council has:

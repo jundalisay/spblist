@@ -104,7 +104,7 @@ Its most usual and normal origin is from the center of the palm near the wrist. 
 
 When the line of destiny begins from the line of life* (see plate 46), a person's own efforts are largely responsible for  whatever success he attains. The higher on the line of life the beginning of the Saturn line, the later will success be achieved.
 
-> *Superphysics Note: To Benham, this means poverty which is more constent with our own findings
+{{< n n="To Benham, this means poverty which is more constent with our own findings" >}}
 
 
 The opposite is shown by a line of destiny originating on the mount of Luna, later merges into the line of heart (see plate 47). This aid is likely due to a brilliant and most fortunate marriage, combining an ideal relationship with wealth and ease.

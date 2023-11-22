@@ -25,7 +25,7 @@ Whereas the Moral comes from custom. This is why the Greek word for it is a slig
 
 None of the Moral Virtues comes to be in us merely by nature*. This is because things in mature cannot be changed by custom. 
 
-> *Superphysics Note: We argue that morality is a  natural force. It is merely not as immediate as that of the physical forces.
+{{< n n="We argue that morality is a  natural force. It is merely not as immediate as that of the physical forces." >}}
 
 
 A stone, for instance, by nature gravitates downwards. It could never be brought to ascend by custom, not even if it were thrown up 10,000 times.

@@ -65,7 +65,7 @@ But:
       - when does it return and
       - how is it produced?
 
-> *Superphysics Note: The impression is called 'samadhi' which is derived from pure consciousness (atman in Sanskrit). It is a pleasant impression of sensation which happens when the kundalini rises. The rise is depedent on so many factors, though it is possible to happen always. 
+{{< n n="The impression is called 'samadhi' which is derived from pure consciousness (atman in Sanskrit). It is a pleasant impression of sensation which happens when the kundalini rises. The rise is depedent on so many factors, though it is possible to happen always. " >}}
 
 
 Philosophers evade these questions by saying that the idea of a substance exists by itself and is sufficient. Such an idea:
@@ -87,7 +87,7 @@ This means that our perceptions:
 Perceptions therefore are substances.
 - Substances define substances.*
 
-> *Superphysics Note: In Superphysics, this invisible pseudo-material substance is called 'aether'. 
+{{< n n="In Superphysics, this invisible pseudo-material substance is called 'aether'. " >}}
 
 
 We cannot arrive at any satisfactory notion of substance through:
@@ -102,7 +102,7 @@ Our ideas only come from perceptions.*
 - A 'substance' is not a <!--  entirely different from --> perception.
 - Therefore, we have no idea of a 'substance'.
 
-> *Superphysics Note: Hume has no concept of the unity or Oneness of creation. This is because he takes the perspective of the human only, and not of the Supreme, as the One of Parmenides
+{{< n n="Hume has no concept of the unity or Oneness of creation. This is because he takes the perspective of the human only, and not of the Supreme, as the One of Parmenides" >}}
 
 
 

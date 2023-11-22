@@ -12,7 +12,7 @@ icon: "/avatars/keynes.png"
 ---
 
 
-> Superphysics note: In Economic Superphysics, wages are under the 3rd Law of Value as Energy Flow
+{{< n n="In Supereconomics, wages are under the 3rd Law of Value as Energy Flow" >}}
 
 What is the actual statistical relationship between:
 - changes in money-wages and
@@ -34,7 +34,7 @@ Workers are readier to accept wage-cuts when employment is falling off. Yet real
 But this only happens when there is overemployment. <!--  to suppose that this is invariably the case would be absurd. --> <!-- For more labour than is at present employed is usually available at  --> The existing money-wage usually has unemployed people even during inflation. This causes real wages to fall. This means that the real prices of things is not an accurate indication of the marginal disutility of labour [workers refusing to work]. The second postulate does not hold good*.
 
 
-> *Superphysics Note: This happens in a recession. But both the inflation and unemployment is not the fault of the workers, but of the investment function. 
+{{< n n="*This happens in a recession. But both the inflation and unemployment is not the fault of the workers, but of the investment function." >}}
 
 
 
@@ -56,8 +56,7 @@ The second postulate flows from the idea that the real wages of workers depend o
 {{< img src="/photos/wtf.jpg" alt="WTF" cap="WTF" >}}
 
 
-
-> *Superphysics Note: Here, Keynes clearly corrupts the Classical Theory by imposing that nominal value as determininng real value
+{{< n n="Here, Keynes clearly corrupts the Classical Theory by imposing that nominal value as determininng real value" >}}
 
 
 
@@ -68,14 +67,14 @@ The second postulate flows from the idea that the real wages of workers depend o
 {{< img src="/photos/psych/facepalm.jpg" alt="WTF" cap="The fact that the world allowed the absurd statements by Kenyes is a huge insult to the intellect of humanity" >}}
 
 
-> *Superphyics Note: The corruption done by Keynes on Classical Theory leads to absurd statements.
+{{< n n="The corruption done by Keynes on Classical Theory leads to absurd statements." >}}
 
 
 The postulate that there is a tendency for the real wage to come to equality with the marginal disutility of labour [workers refusing to work for slave wages] clearly presumes that workers can decide their real wages, but not the quantity of employment willing to work at this wage.
 
 The traditional theory maintains that the real wage* is determined by the wage bargains between the entrepreneurs and the workers. 
 
-> *Superphysics Note= Yes, workers determine their real wages by signing or not signing the employment contract. Money-wages (nominal values) are irrelevant. Workers will not work for 1,000,000 junk-cryptocoin unless that junk-cryptocoin can buy real goods.  
+{{< n n="Yes, workers determine their real wages by signing or not signing the employment contract. Money-wages (nominal values) are irrelevant. Workers will not work for 1,000,000 junk-cryptocoin unless that junk-cryptocoin can buy real goods." >}}  
 
 
 
@@ -101,7 +100,7 @@ The classical conclusions:
 {{< img src="/photos/wtf.jpg" alt="WTF" cap="WTF?!? Is effect the new cause during Keynes' time?" >}}
 
 
-> *Superphysics Note: The Classical conclusions are based on a dynamic open system. It does not care about the money-wages that will render it as a closed system. The proper statement is that the reduction of money-wages is caused by a reduction in economic activity (sales), investments (liquidity), etc.  
+{{< n n="The Classical conclusions are based on a dynamic open system. It does not care about the money-wages that will render it as a closed system. The proper statement is that the reduction of money-wages is caused by a reduction in economic activity (sales), investments (liquidity), etc." >}}
 
 
 
@@ -113,7 +112,7 @@ The classical conclusions:
 
 {{< img src="/photos/psych/fail.jpg" alt="WTF" cap="Keynes created a fallacy and then says that fallacy isn't true.. which brings us back to the starting point" >}}
 
-> *Superphysics Note= Here, Keynes blames phantoms. The proper statement is= Real wages depend on real-wage  bargains, not money-wage bargains. No worker bargains with junk-cryptocoin that is worth nothing. 
+{{< n n="Here, Keynes blames phantoms. The proper statement is= Real wages depend on real-wage  bargains, not money-wage bargains. No worker bargains with junk-cryptocoin that is worth nothing." >}}
 
 
 
@@ -123,7 +122,8 @@ The classical conclusions:
 
 Thus if money-wages change, prices would change in almost the same proportion. It would leave the real wage and unemployment the same as before. Any small gain or loss to labour being at the expense or profit of other elements of marginal cost which have been left unaltered.[6]
 
-> *Superphysics Note: The money-wages in the Classical theory are representations of real wages and do not represent themselves. They are always relative to consumer goods and never independent of them. A change in money-wages will not automatically mean a change in real prices because money-wages are an effect and not a cause. 
+
+{{< n n="The money-wages in the Classical theory are representations of real wages and do not represent themselves. They are always relative to consumer goods and never independent of them. A change in money-wages will not automatically mean a change in real prices because money-wages are an effect and not a cause." >}}
 
 
 
@@ -134,20 +134,21 @@ They diverted from this idea by the settled conviction:
 
 <!--  And the belief in the proposition that labour is always in a position to determine its own real wage, once adopted, has been maintained by its being confused with the proposition that  -->
 
-Thus, the second postulate of the classical theory has two objections:
+Thus, the second postulate of the classical theory has 2 objections:
 
-> **1. The actual behaviour of labour**
+
+### 1. The actual behaviour of labour
 
 I assert that a fall in real wages due to inflation, with money-wages unaltered, does not cause the number of available <!-- workers --> job-seekers at the current reduced real wage to be less than the number actually employed prior to inflation.
 
 If it does, then all those who are now unemployed at the current reduced real wage will stop working because of just a small inflation*. <!-- withdraw the offer of their labour in the event of even a small rise in the cost of living. --> Yet this strange supposition is what Pigou’s Theory of Unemployment says[7].  <!-- and it is what all members of the orthodox school are tacitly assuming. -->
 
 
-> *Superphysics Note: The current workers ask for a wage increase instead of quitting work
+{{< n n="The current workers ask for a wage increase instead of quitting work" >}}
 
 
 
-> 2. **The wage bargain directly determines the general level of real wages** 
+### 2. The wage bargain directly determines the general level of real wages
 
 There may be no method available to workers to make the general level of money-wages conform with the marginal disutility of the current volume of employment [workers refusing to work]. 
 
@@ -157,5 +158,5 @@ I argue that <!-- This will be our contention. We shall endeavour to show that p
 
 <!-- The attempt to elucidate this problem will be one of our main themes. We shall argue that there has been a fundamental misunderstanding of how in this respect the economy in which we live actually works. -->
 
-> *Superphysics Note: Here, Keynes strangely ignores the workers' ability to negotiate wages and salaries 
+{{< n n="Here, Keynes strangely ignores the workers' ability to negotiate wages and salaries" >}}
 

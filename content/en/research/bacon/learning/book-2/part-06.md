@@ -21,7 +21,7 @@ We may return to the former distribution of the 3 philosophies*:
 3. Human
 
 
-> *Superphysics Note: This is similar to our division of Superphysics into Material (Natural), Medical & Social (Human), and Superphysics core (Divine)
+{{< n n="This is similar to our division of Superphysics into Material (Natural), Medical & Social (Human), and Superphysics core (Divine)" >}}
 
 
 Divine philosophy is natural theology. 
@@ -58,4 +58,6 @@ For although the Scripture saith, “Let no man deceive you in sublime discourse
 
 But the sober and grounded inquiry, which may arise out of the passages of Holy Scriptures, or out of the gradations of nature, is not restrained.
 
-So of degenerate and revolted spirits, the conversing with them or the employment of them is prohibited, much more any veneration towards them; but the contemplation or science of their nature, their power, their illusions, either by Scripture or reason, is a part of spiritual wisdom.  For so the apostle saith, “We are not ignorant of his stratagems.”  And it is no more unlawful to inquire the nature of evil spirits, than to inquire the force of poisons in nature, or the nature of sin and vice in morality.  But this part touching angels and spirits I cannot note as deficient, for many have occupied themselves in it; I may rather challenge it, in many of the writers thereof, as fabulous and fantastical.
+So of degenerate and revolted spirits, the conversing with them or the employment of them is prohibited, much more any veneration towards them; but the contemplation or science of their nature, their power, their illusions, either by Scripture or reason, is a part of spiritual wisdom.  
+
+For so the apostle saith, “We are not ignorant of his stratagems.”  And it is no more unlawful to inquire the nature of evil spirits, than to inquire the force of poisons in nature, or the nature of sin and vice in morality.  But this part touching angels and spirits I cannot note as deficient, for many have occupied themselves in it; I may rather challenge it, in many of the writers thereof, as fabulous and fantastical.

@@ -48,7 +48,7 @@ This is because we the tremors of a body giving out a sound are not capable of e
 The movement of light coming from the luminous body is propagated through what I call "Ethereal matter".*
 - It is not the same that serves for the propagation of sound. 
 
-> *Superphysics Note: In Cartesian Physics, Huygen's Luminiferous Aether is the 2nd Element which is now called Spacetime. It is totally different from Descartes' Pure Aether. 
+{{< n n="In Cartesian Physics, Huygen's Luminiferous Aether is the 2nd Element which is now called Spacetime. It is totally different from Descartes' Pure Aether." >}}
 
 
 The medium for the propagation of sound is the air. 

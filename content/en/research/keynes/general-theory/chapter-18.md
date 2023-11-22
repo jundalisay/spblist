@@ -85,7 +85,8 @@ Thus our ultimate independent variables* are:
 
 3. The quantity of money as determined by the action of the central bank -- this leads to the interest rate
 
-> *Superphysics note: These roughly correspond to DCT of our DCTI model, with the national income as the remaining I
+
+{{< n n="These roughly correspond to DCT of our DCTI model, with the national income as the remaining I" >}}
 
 
 
@@ -142,9 +143,10 @@ This trend has 3 ways which will tend to increase the demand for money:
 
 Thus, the position of equilibrium will be influenced by these and other repercussions. 
 
-All the above factors can substantially change without much warning. Hence, the extreme complexity* of the actual course of events. 
+All the above factors can substantially change without much warning. Hence, the extreme complexity* of the actual course of events.
 
-> *Superphysics note: We account for those complexities through our DCTI model
+
+{{< n n="We account for those complexities through our DCTI model" >}}
 
 
 Nevertheless, these are the factors which are useful and convenient to isolate. 

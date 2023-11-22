@@ -11,12 +11,11 @@ icon: "/icons/descartes.png"
 ---
 
 
-
+{{< dc t="Principles" >}}
 Cartesian Principles | Assertions
 --- | ---
 Light is a media that is different from physical objects |  Light has a form, quality, action or movement
-
-
+{{< /dc >}}
 
 
 
@@ -42,7 +41,7 @@ Body `A` cannot move Body `B` unless Body `A` itself were also moving [7].
 It means that the flame's body that acts against the wood is composed of small particles*. These move independently of one another with a very fast and violent motion.
 
 
-> *Superphysics note: Unlike Newton who viewed motion from a large viewpoint, as from the perspective of 'Lord God', Descartes views movement from the quantum level or small particles
+{{< n n="Unlike Newton who viewed motion from a large viewpoint, as from the perspective of 'Lord God', Descartes views movement from the quantum level or small particles" >}}
 
 
 They push and move with them the particles of the body:
@@ -59,7 +58,7 @@ I add nothing concerning the direction in which each moves.
 
 These can exist one without the other as I have set out in the Dioptrics[9]. Each part moves in the way least difficult* for it by the bodies around it.[10]
 
-> *Superphysics note: This is the path of least resistance for each quantum
+{{< n n="This is the path of least resistance for each quantum" >}}
 
 
 A flame can have particles going upward, downward, in straight lines, or circles. They can go in all directions, without changing anything of the flame's nature. 

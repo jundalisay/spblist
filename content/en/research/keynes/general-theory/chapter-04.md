@@ -11,7 +11,7 @@ writer:
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
 ---
 
-> Superphysics note: In Economic Superphysics, units are under the 1st Law of Value as Energy Manifestation
+{{< n n="In Economic Superphysics, units are under the 1st Law of Value as Energy Manifestation" >}}
 
 
 Chapters 4 to 7 are a digression on three perplexities:
@@ -36,7 +36,8 @@ This net output is from the economic activities and sacrifices of the current pe
 **But I seriously object to this because the society's output of goods and services is a non-homogeneous complex which cannot be measured** *.
 
 
-> *Superphysics Note: This is the same essence as Ricardo's objection to Adam Smith using grains as the measure of value.
+
+{{< n n="This is the same essence as Ricardo's objection to Adam Smith using grains as the measure of value." >}}
 
 
 
@@ -107,7 +108,7 @@ In this way, 1 hour of special labour paid at 2x ordinary labor at 1 hour will c
 - "wage-unit" is the money-wage of a labour-unit*.[5] 
 
 
-> *Superphysics note: We rename labour unit into "hourly-common-labour" and wage unit as "hourly-common-wage". Keynes' use of wage-unit as the measure of value in an economy is the reason why minimum wage is established in countries
+{{< n n="We rename labour unit into 'hourly-common-labour' and wage unit as 'hourly-common-wage'. Keynes' use of wage-unit as the measure of value in an economy is the reason why minimum wage is established in countries" >}}
 
 
 Thus, `Wages = Employment Level * hourly-common-wage`

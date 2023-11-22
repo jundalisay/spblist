@@ -20,7 +20,7 @@ Thus, Activity <!-- Prakrti --> expresses Herself as the resultant force that st
 - It creates the Pure “I” feeling in Consciousness<!--  Puruśa -->. 
 
 
-> *Superphysics Note: Crudification<!--  Saincara --> is the start of the feelings
+{{< n n="Crudification<!--  Saincara --> is the start of the feelings" >}}
 
 
 It is a pure “I” feeling because sentient Activity <!-- Prakrti --> cannot go any further. 

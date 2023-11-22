@@ -64,7 +64,7 @@ Thus:
 - the several elements never present themselves in the same form.  
 
 
-> *Superphysics note: In Hinduism, this is called Brahmacakra
+{{< n n="In Hinduism, this is called Brahmacakra" >}}
 
 <!-- how can any one have the assurance to assert positively that any of them, whatever it may be, is one thing rather than another?  -->
 

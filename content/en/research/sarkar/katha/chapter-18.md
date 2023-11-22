@@ -149,4 +149,4 @@ We followed Baba silently. On the way, my thoughts revolved around one idea:
 But I have not been able to find a solution to this riddle* till this day. It is an unsolved question, which Baba alone can solve. Whether that moment will come in this life, I cannot tell.
 
 
-> *Superphysics Note: We solve this riddle by explaining that Anandamurti was supposed to leave PR Sarkar's body but cancelled that decision. Sarkar's body walked mechanically with heavy breathing because he was recovering from his Anandamurti-induced near-death experience
+{{< n n="We solve this riddle by explaining that Anandamurti was supposed to leave PR Sarkar's body but cancelled that decision. Sarkar's body walked mechanically with heavy breathing because he was recovering from his Anandamurti-induced near-death experience" >}}

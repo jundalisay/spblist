@@ -82,7 +82,7 @@ Yet, my idea is to add three: quintile (72 grades), biquintile (144 grades) and 
 
 Those have subsequently been confirmed by manifold experience*.
 
-<!-- > *Superphysics Note: This means that Kepler is really refering to the 8 chakras which are circular energy-plates known to reflect light -->
+<!-- n n="This means that Kepler is really refering to the 8 chakras which are circular energy-plates known to reflect light -->
 
 The classical aspects hereby mentioned correspond with: a point, a line segment, a triangle, a square and a hexagon. 
 

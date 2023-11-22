@@ -42,7 +42,7 @@ This is the 20th century, not 400 B.C. when the original meaning was given. <!--
 From an exhaustive study of the Girdle of Venus, I have found that it does not as a rule indicate debauchery and license. Instead, it nearly always does indicate an intense state of nervousness*. In most cases, great liability to hysteria. 
 
 
-> *Superphysics note: The nervousness is a sign of the too-strong influence of the heart which then leads to the amorous love
+{{< n n="The nervousness is a sign of the too-strong influence of the heart which then leads to the amorous love" >}}
 
 
 In a large percentage of hands in which this Girdle of Venus is found, the palm will be crossed by innumerable lines running in every direction. 

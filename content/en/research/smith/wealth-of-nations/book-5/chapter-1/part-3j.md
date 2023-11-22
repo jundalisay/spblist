@@ -59,4 +59,4 @@ Before the Royal African Company's establishment, there were 3 other joint stock
 - Those charters conveyed a real exclusive privilege.
 
 
-> *Superphysics Note: This implies that the African slave trade was declining that it had to be liberalized through private regulated companies instead of joint stock companies. It seems that join stock companies are for agriculture while the regulated companies are for extractive industries.
+{{< n n="This implies that the African slave trade was declining that it had to be liberalized through private regulated companies instead of joint stock companies. It seems that join stock companies are for agriculture while the regulated companies are for extractive industries." >}}

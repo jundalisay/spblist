@@ -60,7 +60,7 @@ GR absorbs the Newtonian theory if we confine gravitational fields to be:
 
 Thus, GR absorbs Newton's theory without needing* the inverse square law where gravitation between two objects depends on the square of the distance between them.
 
-> *Superphysics note: This is because General Relativity has its version of the inverse square law in the metric tensor
+{{< n n="This is because General Relativity has its version of the inverse square law in the metric tensor" >}}
 
 
 <!--  the latter theory is obtained here without any particular assumption, whereas Newton had to introduce
@@ -92,7 +92,7 @@ This rotation was 43 seconds of arc per century.
 
 All planets, except Mercury, rotates in a very small manner to be detected. But in the case of Mercury, it amounts to 43 seconds of arc per century -- this agrees with observation.*
 
-> *Superphysics note: The precession of Mercury is caused by its core, not by spacetime coordinates
+{{< n n="The precession of Mercury is caused by its core, not by spacetime coordinates" >}}
 
 
 

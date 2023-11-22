@@ -49,7 +49,8 @@ The other three are so bound together that they cannot be straightened out indep
 I think that we are surrounded on all sides by an atmosphere which is charged with some imponderable force*. If it is not electricity, is still very like it in action and results. 
 
 
-> *Superphysics Note=  In Taoism, this is chi. In Hinduism, it is pranah that lies in the aethereal layer. 
+
+{{< n n="In Taoism, this is chi. In Hinduism, it is pranah that lies in the aethereal layer." >}}
 
 
 This force is widely diffused, intangible, and possesses great power. The concentration of this force creates the life Current which is a link between the human being and the Unknown.
@@ -97,5 +98,3 @@ It is not until the Current reaches a line that it begins to operate, so since t
 The lower part of the line of Saturn covering the first years of life, the topmost portion the latter days, and the central portion the middle part of life. The lines of Apollo and Mercury both are read in the same direction. 
 
 The Main lines in the hand are six in number, and are called the Heart line, the Head line, the Life line, the Saturn line, the Apollo line, and the Mercury line, each one of which indicates different qualities. The Mercury line has also been designated Hepatica, Liver line, and line of Health, but it is in reality the line of Mercury, and I shall call it so. 
-
-

@@ -61,10 +61,7 @@ This is why the stars look disproportional and mixed up.
 
 <!-- - It cannot impede the force of the ray `moon-B`* to extend to `earth`. 
 
-> *Superphysics Note: This is now known as the pull of a moon on a planet. -->
-
-
-<!-- In the same way, `sirius` can extend its rays to `earth`
+In the same way, `sirius` can extend its rays to `earth`
 - The matter of the heaven between `sirius` and `2` aids them more than the matter between `4` and `earth` resists them.
 
 Likewise:

@@ -117,7 +117,8 @@ An effect of order `p/v` is not expected. But an effect of order `p2 / V2` is no
 
 Since we know nothing about the nature of molecular forces*, it is impossible to verify the hypothesis. 
 
-> *Superphysics Note: In Superphysics, molecular forces operate as vortices.
+{{< n n="In Superphysics, molecular forces operate as vortices." >}}
+
 
 
 We only can calculate the influence of the motion of ponderable matter on electric and magnetic forces. 

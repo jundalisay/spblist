@@ -24,6 +24,7 @@ For even though all the veins carry the blood they contain to the heart, it some
 
 By considering the various alterations that experience shows in our body while our soul is agitated by different passions, I notice in Love, when it is alone, that is, when it is not accompanied by strong Joy, Desire, or Sadness, that the heartbeat is regular and much stronger and more forceful than usual, that a gentle warmth is felt in the chest, and that the digestion of food happens very quickly in the stomach, so that this Passion is beneficial for health.
 
+
 ### 98. In Hatred
 
 On the contrary, in Hatred, I notice that the heartbeat is irregular, smaller, and often faster, that one feels chills mixed with a certain harsh and prickly heat in the chest, that the stomach ceases to function properly and tends to vomit and reject the food eaten, or at least to corrupt it and turn it into bad humors.
@@ -55,7 +56,7 @@ This blood is pushed to the heart with more force than that in other parts of th
 
 It enters the heart in greater abundance and excites a stronger heat. This is because it is coarser* than that which has already been rarefied several times by passing and repassing through the heart.
 
-> *Superphysics Note: Because it didn't go through the liver?
+{{< n n="Because it didn't go through the liver?" >}}
 
 
 This makes it also send spirits to the brain, whose parts are larger and more agitated than usual. 

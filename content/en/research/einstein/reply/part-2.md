@@ -85,7 +85,7 @@ From this easily understandable error, you concluded the existence of synthetic 
 {{< /l >}}
 
 
-> *Superphysics Note: Active-thinking judgements confined-to-the-mind
+{{< n n="Active-thinking judgements confined-to-the-mind" >}}
 
 
 

@@ -94,7 +94,7 @@ Virtues have to do with actions and feelings.
 
 On every feeling and every action, pleasure and pain follow. This is another proof that Virtue has pleasure and pain for its object-matter*.
 
-> *Superphysics Note: We replace this with ease and unease
+{{< n n="We replace this with ease and unease" >}}
 
 
 This is also why punishments are effected through the instrumentality of pain and pleasure -- punishments are remedies which are contraries of the ills they cure. 

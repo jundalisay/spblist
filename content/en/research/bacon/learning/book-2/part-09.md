@@ -45,7 +45,7 @@ But before we distribute so far, it is good to constitute.
 Generally, human nature should be made a knowledge by itself as the sympathies and concordances between the mind and body. These are mixed and cannot be properly assigned to the sciences of either*.
 
 
-> *Superphysics Note: This is what Superphysics is made for. 
+{{< n n="This is what Superphysics is made for. " >}}
 
 
 This knowledge of human nature is not to create delightful and elegant discourses about man's:
@@ -76,7 +76,15 @@ This has led to 2 arts:
 - prediction or prenotion; whereof the one is honoured with the inquiry of Aristotle
 - the other of Hippocrates. 
 
-And although they have of later time been used to be coupled with superstitions and fantastical arts, yet being purged and restored to their true state, they have both of them a solid ground in Nature, and a profitable use in life.  The first is physiognomy, which discovereth the disposition of the mind by the lineaments of the body.  The second is the exposition of natural dreams, which discovereth the state of the body by the imaginations of the mind.  In the former of these I note a deficience.  For Aristotle hath very ingeniously and diligently handled the factures of the body, but not the gestures of the body, which are no less comprehensible by art, and of greater use and advantage.  For the lineaments of the body do disclose the disposition and inclination of the mind in general; but the motions of the countenance and parts do not only so, but do further disclose the present humour and state of the mind and will.  For as your majesty saith most aptly and elegantly, “As the tongue speaketh to the ear so the gesture speaketh to the eye.”  And, therefore, a number of subtle persons, whose eyes do dwell upon the faces and fashions of men, do well know the advantage of this observation, as being most part of their ability; neither can it be denied, but that it is a great discovery of dissimulations, and a great direction in business.
+And although they have of later time been used to be coupled with superstitions and fantastical arts, yet being purged and restored to their true state, they have both of them a solid ground in Nature, and a profitable use in life.  The first is physiognomy, which discovereth the disposition of the mind by the lineaments of the body.  The second is the exposition of natural dreams, which discovereth the state of the body by the imaginations of the mind.  In the former of these I note a deficience.  
+
+Aristotle had very ingeniously and diligently handled the factures of the body, but not the gestures of the body, which are no less comprehensible by art, and of greater use and advantage.  For the lineaments of the body do disclose the disposition and inclination of the mind in general; but the motions of the countenance and parts do not only so, but do further disclose the present humour and state of the mind and will.
+
+As your majesty said most aptly:
+
+“As the tongue speaketh to the ear so the gesture speaketh to the eye.”  
+
+Therefore, a number of subtle persons, whose eyes do dwell upon the faces and fashions of men, do well know the advantage of this observation, as being most part of their ability; neither can it be denied, but that it is a great discovery of dissimulations, and a great direction in business.
 
 ## Impression
 

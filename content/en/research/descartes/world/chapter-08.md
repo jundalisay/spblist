@@ -47,8 +47,6 @@ Instead, each division happened as circular motions with different centers. This
 <!-- Before it was moved by God, the hardest and most solid body in the world*.  -->
 <!-- For to consider this matter in the state in which it could have been before God began to move it, one should imagine it as -->  
 
-<!-- > *Superphysics Note: As a triangle  -->
-
 <!-- And, since one could not push any part of such a body without pushing or pulling all the other parts by the same means, so one must imagine that the action or  -->
 
 <!-- The force of moving or dividing, which had first been placed in some of the parts of the aether, spread out in an instant, as equally as it could. -->

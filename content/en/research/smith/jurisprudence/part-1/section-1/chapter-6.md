@@ -43,7 +43,7 @@ All the western provinces were taken possession of much in this way.
 
 The Romans built a wall and kept garrisons to secure their province from the pillagers of the north*. But these were called away to defend Gaul, which at that time was also infested.
 
-> *Superphysics Note: This is the same as sedentary China making walls against the Mongols
+{{< n n="This is the same as sedentary China making walls against the Mongols" >}}
 
 
 

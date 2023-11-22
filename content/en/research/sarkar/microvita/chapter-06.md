@@ -62,7 +62,7 @@ Boys younger than 12-13 do not develop semen, and so they are very sentimental, 
 
 After the age of 12-13, ova are created in the female body. But that is usually ejected from the body at a particular period in every month, hence the nerves in the female body are comparatively weak.*
 
-> *Superphysics Note: Women have weak nerves because they cannot preserve ova. But men can preserve semen.  
+{{< n n="Women have weak nerves because they cannot preserve ova. But men can preserve semen. " >}} 
 
 
 

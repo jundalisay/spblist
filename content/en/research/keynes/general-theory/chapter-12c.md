@@ -69,7 +69,7 @@ Thus, the professional investor is forced to concern himself with the anticipati
 
 **This is the inevitable result of investment markets organised with a view to so-called “liquidity”.** *
 
-> Superphysics Note: We remove the influence of mass psychology through our points-based system which is totally liquid even without money 
+{{< n n="We remove the influence of mass psychology through our points-based system which is totally liquid even without money " >}}
 
 
 Of the maxims of orthodox finance, the fetish of liquidity is the most anti-social.
@@ -81,7 +81,8 @@ It forgets that there is no such thing as liquidity of investment for the commun
 
 The social object of skilled investment should be to defeat the dark forces of time and ignorance* which envelop our future.
 
-> *Superphysics note: It's ironic that Keynes is pushing investors to defeat ignorance when his own General Theory is ignorant of the evils of liquidity preference [love of cash] 
+
+{{< n n="It's ironic that Keynes is pushing investors to defeat ignorance when his own General Theory is ignorant of the evils of liquidity preference [love of cash]" >}}
 
 
 The actual, private object of the most skilled investment today is to:

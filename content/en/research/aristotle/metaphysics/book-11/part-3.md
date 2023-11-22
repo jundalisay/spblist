@@ -107,7 +107,7 @@ Physics studies things, not being. It studies sharing in movement.
 
 Dialectics and Sophistry deals with the attributes of things but not their being*.
 
-> *Superphysics Note: Superphysics studies things to solve problems, but Metaphysics studies things to create theories
+{{< n n="Superphysics studies things to solve problems, but Metaphysics studies things to create theories" >}}
 
 
 <!-- that exist, but not of things qua being, and not with being itself in so far as it is being;  -->

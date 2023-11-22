@@ -12,7 +12,7 @@ icon: /avatars/ef.png
 
 There are 3 solutions to over-importing*:
 
-> *Superphysics Note: Over-importing will cause the importing Clearing Authority to be full of local currency and the exporting Clearing Authorities to be starved of cash. This will raise prices of those exports and reduce the price of the goods of the importing country. 
+{{< n n="Over-importing will cause the importing Clearing Authority to be full of local currency and the exporting Clearing Authorities to be starved of cash. This will raise prices of those exports and reduce the price of the goods of the importing country. " >}}
 
 
 
@@ -67,7 +67,7 @@ She would ask some countries for specific deliveries on a deferred payment basis
 
 Instead, she would issue a bond* specifying the interest and amortisation payments that will be made later. When these latter payments fall due, they would take the form of money and would be made into the Polish National Clearing Fund, like any other international payment.
 
-> *Superphysics note: In Supereconomics, this is called a barter-credit. The difference is that is is pegged to the value of grains such as rice. This removes the need for interest rates. 
+{{< n n="In Supereconomics, this is called a barter-credit. The difference is that is is pegged to the value of grains such as rice. This removes the need for interest rates. " >}}
 
 
 This kind of arrangement would make international capital movements far more conscious and more easily recognisable. 
@@ -78,7 +78,7 @@ Interest and amortisation charges would appear as a mortgage on the future overd
 
 The objection is that in this way, the lending operation itself (although not the return flow of interest and amortisation) would become bilateral*. For example, Poland could not borrow in the US and then spend the proceeds on additional imports from Britain. It is difficult to estimate the weight of this objection.
 
-> *Superphysics note: Our barter credits are based on grain which are universal instead of bilateral.  
+{{< n n="Our barter credits are based on grain which are universal instead of bilateral." >}} 
 
 
 2. Alternatively, the lending might be in an agreement between the U.S. Clearing Fund and the Polish Clearing Fund.

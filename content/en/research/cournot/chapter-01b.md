@@ -10,7 +10,7 @@ image: "/covers/researches.jpg"
 
 3. The abstract idea of wealth or of value in exchange* is a definite idea.
 
-> *Superphysics Note: This is different from Smith's definition of wealth which is the actual quality and quantity of useful goods and services. 
+{{< n n="This is different from Smith's definition of wealth which is the actual quality and quantity of useful goods and services. " >}}
 
 
 
@@ -35,7 +35,7 @@ The ambiguity of the word wealth in ordinary speech has led to:
 The lack of a fixed standard for the utility of things is the cause of:[1]
 - the confusion between the fixed, definite idea of value in exchange, and the ideas of utility which each person estimates in his own way*
 
-> *Superphysics Note: This is why Supereconomics is not a materialist science but instead is based on ever-changing patterns
+{{< n n="This is why Supereconomics is not a materialist science but instead is based on ever-changing patterns" >}}
 
 
 
@@ -49,7 +49,7 @@ Calculating in this way, the Dutch Company destroyed in the islands of the Sound
 - Here is a complete destruction of objects to which the word wealth is applied because they are both sought after, and not easily obtainable. 
 - Here is a miserly, selfish act, evidently opposed to the interests of society. Yet this sordid act, this actual destruction, is a real creation of wealth* in the commercial sense of the word. 
 
-> *Superphysics Note: Because of Cournot's wrong definition of wealth, he confuses the destruction of wealth with the creation of wealth. In reality, the Dutch company destroyed wealth in order to increase exchangeable value since they had a monopoly. This exchangeable value is therefore tied to its unnatural monopoly and is not a natural phenomenon.  
+{{< n n="Because of Cournot's wrong definition of wealth, he confuses the destruction of wealth with the creation of wealth. In reality, the Dutch company destroyed wealth in order to increase exchangeable value since they had a monopoly. This exchangeable value is therefore tied to its unnatural monopoly and is not a natural phenomenon.  " >}}
 
 
 The publisher's inventory will rightly show a greater value for his assets. After the sale of the copies, 

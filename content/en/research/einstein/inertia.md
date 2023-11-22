@@ -6,7 +6,9 @@ weight: 80
 # date: 1939-08-02
 ---
 
-> Superphysics Note: This is a simplified version. The equations will be fixed in the future. We just want to know what Einstein is really trying to say. 
+
+{{< n n="This is a simplified version. The equations will be fixed in the future. We just want to know what Einstein is really trying to say." >}}
+
 
 
 September 27, 1905 
@@ -154,7 +156,7 @@ The fact that the energy withdrawn from the body becomes energy of radiation mak
 
 If the energy changes by `L`, the mass changes in the same sense by `L/9 × 1020`, the energy being measured in ergs, and the mass in grams*.
 
-> *Superphysics Note: In Cartesian Pyhsics, the mass or inertia changes because the lost radiation reduces the electromagnetism in the body. This frees up the body's spacetime particles, reducing their pushing pressure, manifesting as less mass or inertia. If the body is material (3rd Element), then mass and grams can be used. But if the body is non-material (i.e. electrons, neutrinos) then it should be electromagnetic potential measured in MeV.
+{{< n n="In Cartesian Pyhsics, the mass or inertia changes because the lost radiation reduces the electromagnetism in the body. This frees up the body's spacetime particles, reducing their pushing pressure, manifesting as less mass or inertia. If the body is material (3rd Element), then mass and grams can be used. But if the body is non-material (i.e. electrons, neutrinos) then it should be electromagnetic potential measured in MeV." >}}
 
 
 

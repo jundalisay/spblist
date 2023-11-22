@@ -51,30 +51,6 @@ He now preserves all this matter in precisely the same way and by the same reaso
 He also always maintains the same amount of motion in it.
 
 
-<!-- ### 36. God is the primary cause of motion, and always preserves the same quantity of motion in the universe.
-
-Nature’s primary motive force or cause for introducing motion into matter is its inherent propensity for avoiding mutual contact*.  
-
-> *Superphysics Note: This is based on our Law of Conservation of Idea
-
-
-It is the same reason why all bodies strive to recede from each other as much as possible. 
-
-If there were even the slightest contact between bodies, motion would instantly cease, and everything would remain at complete rest.
-
-Imagine 2 iron balls, `A` and `B`, suspended freely in a vacuum and equidistant from each other. 
-
-There is nothing to impede them and so these spheres will recede infinitely far from each other in a straight line if impelled by an initial, equally strong force. 
-
-This mutual recession will continue as long as there is no external obstacle to hinder it.
-
-Suppose a third iron ball, `C`, is placed between `A` and `B`, also equidistant from each other. 
-
-Ball `C` will be driven away from each of the larger spheres `A` and `B` with equal force due to its inherent propensity to avoid contact.
-
-The result will be a motion along a straight line, as depicted in the following diagram. -->
-
-
 
 #### 37. The First Law of Nature: Each thing always perseveres in the same state as much as it can. thus, what is once moved always continues to be moved.
 

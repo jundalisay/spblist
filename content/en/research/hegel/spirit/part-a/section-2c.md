@@ -34,7 +34,7 @@ We thus regard the characteristic of being a universal medium as our reflection.
 
 White is only opposed to black, and so on. The thing is a “one” just by the fact that it is opposed to other things*.
 
-> *Superphysics Note: Here is the start of identity. 
+{{< n n="Here is the start of identity." >}}
 
 
 It does not, however, exclude others from itself, so far as it is “one”. To be “one” is to be in a universal relation of self to self. Hence, a thing is rather like all because of it being “one”. 
@@ -77,7 +77,7 @@ Putting these properties into a “one” belongs solely to consciousness which 
   - preserves the thing in the sense of the “also”*.
 
 
-> *Superphysics Note: The mind has to keep the properties distinct yet connected with other properties, via 'also'. 
+{{< n n="The mind has to keep the properties distinct yet connected with other properties, via 'also'." >}} 
 
 
 Consciousness at first makes itself responsible for the "oneness" in such a way that what was called a property is represented as being “free matter” (materia libera). (3) 
@@ -97,7 +97,7 @@ Through this comparison, consciousness thus finds:
 - that its way of taking the truth contains diverse moments of apprehension and returns on itself
 - that the truth itself about the thing manifests itself in this twofold manner*. 
 
-> *Superphysics note: This is our loop of cause and effect, as karma-samskara-karma. 
+{{< n n="This is our loop of cause and effect, as karma-samskara-karma." >}}
 
 
 As a result of experience, the thing exhibits itself in a specific way to the consciousness seeing it.

@@ -40,7 +40,7 @@ The Classical school says that unions will block any increase in aggregate emplo
   - resist cuts in money-wages.
   - do not go on strike for every rise in the cost of living*.
 
-> *Superphysics Note: This is actually the weakness of working class that is subtly exploited by the profit and rent earning class
+{{< n n="This is actually the weakness of working class that is subtly exploited by the profit and rent earning class" >}}
 
 
 
@@ -72,7 +72,7 @@ Therefore, "apparent unemployment" is the result of temporary loss of:
 
 Thus Classical economists <!--  writers in the classical tradition, overlooking the special assumption underlying their theory, have been driven inevitably to the conclusion, perfectly logical on their assumption, --> concluded that apparent unemployment is caused by a refusal by the unemployed to accept a reward* which corresponds to their marginal productivity. 
 
-> *Superphysics Note: In a depression, real wages become slave wages due to the reduced total economic activity. 
+{{< n n="In a depression, real wages become slave wages due to the reduced total economic activity." >}}
 
 
 A classical economist may sympathise with workers refusing to accept lower money-wages. But such a condition is temporary. <!-- , and he will admit that it may not be wise to make it to meet conditions which are temporary; but --> Scientific integrity forces him to declare that this refusal is the cause of the problem.
@@ -81,7 +81,7 @@ If the classical theory is only applicable to the case of full employment, it is
 
 The classical theorists resemble Euclidean geometers in a non-Euclidean world. They discover parallel lines often meet. They rebuke the lines for not keeping straight. But the real <!--  as the only remedy for the unfortunate collisions which are occurring. Yet, in truth, there is no  -->remedy is to throw away* the axiom of parallels and to work out a non-Euclidean geometry. 
 
-> *Superphysics Note= Here Keynes blames Classical theory for staying with non-profit maximizing, non-monetary paradigm. He urges it to go with the current corrupted reality. 
+{{< n n="Here Keynes blames Classical theory for staying with non-profit maximizing, non-monetary paradigm. He urges it to go with the current corrupted reality." >}}
 
 
 Something similar is required today in economics. We need to throw over the second postulate of the classical doctrine and to work out a system where involuntary unemployment is possible.

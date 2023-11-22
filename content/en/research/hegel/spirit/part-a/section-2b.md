@@ -18,7 +18,7 @@ It is merely the character of positive universality that is first noticed and de
 But if the many determinate properties were utterly indifferent to each other, and were entirely related to themselves alone, then they would not be determinate.
 - They are determinate because they are distinguished and related to others as their opposites.*
 
-> *Superphysics Note: The movement of the mind makes them determinate. Otherwise, they are static and indeterminate because they are not compared to any other of themselves.
+{{< n n="The movement of the mind makes them determinate. Otherwise, they are static and indeterminate because they are not compared to any other of themselves." >}}
 
 
 In view of this opposition, however, they cannot exist together in the bare and simple unity of their “medium”, which unity is just as essential to them as negation.

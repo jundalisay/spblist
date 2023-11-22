@@ -86,8 +86,7 @@ But because the degrees of reality that we observe in ideas are not in the ideas
 
 To make this conclusion more clearly understood, I shall illustrate it with one or two examples. 
 
-If anyone sees some books (imagine one to be that of a distinguished philosopher and the other to be that of some trifler) written in one and the same hand, and if he pays no attention to the meaning ofthe words (i.e., insofar as they are symbols) but only to the shape of the writing and the order of the letters, he will find no distinction between them such as to compel him to seek
-different causes for them. 
+If anyone sees some books (imagine one to be that of a distinguished philosopher and the other to be that of some trifler) written in one and the same hand, and if he pays no attention to the meaning ofthe words (i.e., insofar as they are symbols) but only to the shape of the writing and the order of the letters, he will find no distinction between them such as to compel him to seek different causes for them. 
 
 They will appear to him to have proceeded from the same cause and in the same manner. But if he pays attention to the meaning of the words and of the language, he will find a considerable distinction between them. He will therefore conclude that the first cause of the one book was very different from the first cause of the other, and that the one cause was in fact more perfect than the other to the extent that the meaning of the language of the two books, or their words considered as symbols, are found to differ from one another.
 
@@ -108,7 +107,8 @@ There will be nothing to prevent us from thinking that it was copied from anothe
 
 From the fact that at this moment we are thinking, it does not necessarily follow that we shall hereafter be thinking. For the concept that we have of our thought does not involve, or does not contain, the necessary existence of the thought. 
 
-I can clearly and distinctly conceive the thought even though I suppose it not to exist. 31
+I can clearly and distinctly conceive the thought even though I suppose it not to exist. 
+<!-- 31 -->
 
 The nature of every cause must contain in itself or involve the perfection of its effect (Ax. 8). Hence it clearly follows that there must be something in us or external to us that we have not yet understood, whose concept or nature involves existence, and that is the reason why our thought began to exist and also continues to exist. 
 
@@ -117,10 +117,16 @@ For although our thought began to exist, its nature and essence does not on that
 What we here say about thought must be said about every thing whose essence does not involve necessary existence.
 
 
-#### 11. Of every thing that exists, it can be asked what is the cause or reason why it exists. 
+#### 11. Of every thing that exists, it can be asked why it exists. 
 
 See Descartes, Axiom I.
 
-Because to exist is something positive, we cannot say that it has nothing for its cause (Ax. 7). Therefore we must assign some positive cause or reason why it exists. And this must be either external (Le., outside the thing itself) or else internal (Le., included in the nature and definition of the existing thing itself).
+To exist is something positive. We cannot say that it has no cause (Ax. 7). 
+
+Therefore, we must assign some positive reason why it exists.
+
+This must be either:
+- external (Le., outside the thing itself) or
+- internal (Le., included in the nature and definition of the existing thing itself).
 
 Propositions 5-8 that follow are taken from Descartes.

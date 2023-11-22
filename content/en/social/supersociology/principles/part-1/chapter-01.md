@@ -28,6 +28,8 @@ Our definition looks at society from a metaphysics-first perspective. We define 
 - Implicit agreement is by convenience. 
 - Explicit agreement is by choice. 
 
+> Society is a metaphysical organism that is made up of individual minds
+
 
 ## Oversoul-Soul, Paramatman-Atman 
 
@@ -51,7 +53,7 @@ Since the mind exists, the mental plate exists, and the reflection of Paramatman
 
 Science views the abstract mind as coming from the physical brain.
 
-In contrast, Superphysics views brain activity as coming from the abstract mind. This is why we instead use the word 'soul' or 'aethereal mind' to refer to a society.
+In contrast, Supersociology views brain activity as coming from the abstract mind. This is why we instead use the word 'soul' or 'aethereal mind' to refer to a society.
 
 In this way, a society can refer to:
 - the soul of society, or
@@ -71,9 +73,8 @@ Consciousness | Experiencer | Atman
 By referring to a society as a soul, we:
 - free it from physical limitations
 - give it flexible qualities that are similar to sound and music
-  - These flexible qualities resemble waves, which is the medium to transmit feeling-information. 
-
-For example, a tune can change either gradually or immediately from melodic to rhythmic, just as a mind can choose to switch from eating American food to Chinese food gradually or immediately.
+  
+These flexible qualities resemble waves, which is the medium to transmit feeling-information. For example, a tune can change either gradually or immediately from melodic to rhythmic, just as a mind can choose to switch from eating American food to Chinese food gradually or immediately.
 
 ![The soul of society](https://sorasystem.sirv.com/graphics/soulsociety.png)
 
@@ -105,17 +106,30 @@ Few people ever reflect that from the evil of other men, something of evil is co
 {{< /q >}}
 
 
+> Our definition gives flexible wave-like properties to societies
+
 
 This flexibility lets souls send and receive invisible information via intuition. In our music analogy, the orchestra can get visual hints from the conductor to speed up the tempo or make the strings louder. 
 
 This flexible quality also lets souls merge and agree, as proven by the phrase "the meeting of minds" or "being on the same page". This would be like an orchestra adding more instruments that jive with its style. 
 
-In our earlier example, it would explain that the wavelength of the idea of using chopsticks matched the wavelength of soul of Chinese society and is why it was assimilated into their society's identity. This was different from the European wavelength with matched the idea of spoon and fork better. By knowing the difference between the wavelength of the idea of chopsticks and spoon and fork then we can find a middle-ground vibration that can be acceptable to both Chinese and Europeans so that the wavelength of their societies can be harmonized and be on the same page instead of being contrary and opposing.   
+It explains why Chinese adopted chopsticks, while Europeans adopted spoon and fork
+
+- The wavelength of chopsticks-idea matched the wavelength of the Chinese society-organism, causing it to be assimilated
+- The wavelength of spoon-and-fork-idea matched the wavelength of the European society-organism
+
+By knowing the difference between the wavelength of the chopsticks-idea and spoon-and-fork-idea then we can find a middle-ground vibration that can be acceptable to both Chinese and Europeans. In this way, the wavelength of their societies can be harmonized and be on the same page instead of being contrary and opposing.   
 
 
-Matter and physical objects, on the contrary, cannot occupy the same physical 'page' nor meet at a 'place' without losing their individual identity.
+Unlike waves, matter and physical objects cannot occupy the same physical 'page' without losing their individual identity.
 
-We then call this **merging of the minds or souls** as the formation of society, establishing friendships, creating companies, nation-building, etc. For example:
+This **merging of the minds or mental-waves** manifests as:
+- the formation of society
+- the establishment of friendships
+- the creation of companies
+- nation-building, etc.
+
+For example:
 - A family begins when a man's soul agrees to unite with a woman's soul which then adds another soul as their child. A divorce is a dissociation of the soul the family back into its component souls
 - A company begins when the souls of the incorporators agree to be bound into a business organization
 - A sports team begins when the souls of playes agree to play together

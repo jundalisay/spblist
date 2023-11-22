@@ -13,7 +13,7 @@ writer:
 
 
 
-> Superphysics Note: Einstein invents General Relativity by creating the idea of inertial mass which is really Newton's third law. This is why he has to say that everything is moving -- because his inertial gravity is not really gravity, but just action and reaction.
+{{< n n="Einstein invents General Relativity by creating the idea of inertial mass which is really Newton's third law. This is why he has to say that everything is moving -- because his inertial gravity is not really gravity, but just action and reaction." >}}
 
 <!-- Assuming empty space so far removed from stars and other appreciable masses that we have before us approximately the conditions required by the fundamental law of Galilei. 
 
@@ -57,7 +57,7 @@ admit that  -->
 
 ![WTF](/graphics/wtf.png)
 
-> *Superphysics note: WTF!!! Gravity is not equivalent to the Second or Third Law of Newton! When our car moves forward and we are pushed back by inertia, we never say that there was gravity behind the car! 
+{{< n n="WTF!!! Gravity is not equivalent to the Second or Third Law of Newton! When our car moves forward and we are pushed back by inertia, we never say that there was gravity behind the car! " >}}
 
 
 
@@ -71,9 +71,9 @@ GR is based on the law of the equality of inertial and gravitational mass. <!-- 
 
 {{< c v="red" >}} This law is the fundamental property of the gravitational field that gives all bodies the same acceleration*.{{< /c >}}
 
-> *Superphysics Note: We totally understand what Einstein is trying to do here: In Cartesian Physics, both gravity and electromagnetism (and therefore gravitational lensing, planetary orbits, gravitational waves, time dilation) are caused by Spacetime. Einstein tries to achieve this Spacetime effect by imposing the equality of inertial mass (electromagnetic potential) and gravitational mass (Newtonian mass). But in doing so, he puts electromagnetism as the supreme principle just as Newton put matter as supreme. 
+{{< n n="We totally understand what Einstein is trying to do here: In Cartesian Physics, both gravity and electromagnetism (and therefore gravitational lensing, planetary orbits, gravitational waves, time dilation) are caused by Spacetime. Einstein tries to achieve this Spacetime effect by imposing the equality of inertial mass (electromagnetic potential) and gravitational mass (Newtonian mass). But in doing so, he puts electromagnetism as the supreme principle just as Newton put matter as supreme. " >}}
 
-<!-- > *Superphysics Note: G to Newton was based on gravitational mass. But G to Einstein is based on both inertia and gravitational mass which he imposes as a new law of gravity, instead of as another theory.   -->
+<!-- n n="G to Newton was based on gravitational mass. But G to Einstein is based on both inertia and gravitational mass which he imposes as a new law of gravity, instead of as another theory.   -->
 
 
 If this natural law did not exist, the man in the moving box:
@@ -93,7 +93,7 @@ However, an observer outside will see that the hanging rope joins the box's moti
 Thus, GR <!-- Guided by this example, we see that our extension of the principle of relativity implies the --> <!-- necessity --> requires the law of the equality of inertial and gravitational mass*. <!-- Thus we have obtained a physical interpretation of this law. --> <!-- From our consideration of the accelerated chest we see that a general theory of relativity must yield important results on the laws of gravitation. --> <!-- In point of fact, the systematic pursuit of the general idea of relativity has supplied the laws satisfied by the gravitational field. Before proceeding farther, however, I must warn the reader against a misconception suggested by these considerations.  --> A gravitational field exists for the man in the box, despite the fact that there was no such gravity in the spacetime before the box moved.
 
 
-> *Superphysics note: Yes, GR needs inertial and gravitational mass to be the same. But those masses do not need GR! They need the aether!
+{{< n n="Yes, GR needs inertial and gravitational mass to be the same. But those masses do not need GR! They need the aether!" >}}
 
 
 We might think that:
@@ -111,4 +111,4 @@ The observer in the train jerks forwards as a result of the train braking. This 
 {{< c v="red" >}} The brakes created a gravitational field which was directed forwards and is variable with respect to time.{{< /c >}} Because of this <!-- Under the influence of this --> [fake] gravitational field, the embankment's backward movement slowed down.
 
 
-> *Superphysics note: Einstein sources gravity from the the weird idea that non-moving large masses are actually moving and that massless bodies are not moving.  
+{{< n n="Einstein sources gravity from the the weird idea that non-moving large masses are actually moving and that massless bodies are not moving.  " >}}
