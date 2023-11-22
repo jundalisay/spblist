@@ -81,7 +81,7 @@ d2 Si ✏ijk ✏abc a @j b @k c 2 Z
 8⇡v 3 S21
 (2.89)
 In a sector with ⌫ 6= 0, the gauge symmetry breaking remains SU (2) ! U (1). The
-di↵erence is that now the unbroken U (1) ⇢ SU (2) changes as we move around the
+difference is that now the unbroken U (1) ⇢ SU (2) changes as we move around the
 asymptotic S21 .
 
 The next step is to notice that if the Higgs field has winding ⌫ 6= 0, then we must also turn on a compensating gauge field. 
@@ -107,7 +107,7 @@ r -->
 
 This integral diverges linearly. We learn that if we genuinely want a finite energy
 excitation in which the Higgs field winds asymptotically then we must also turn on the
-– 110 –gauge fields Ai to cancel the 1/r asymptotic fall-o↵ of the angular gradient terms, and
+– 110 –gauge fields Ai to cancel the 1/r asymptotic fall-off of the angular gradient terms, and
 ensure that D✓ ! 0 as r ! 1. We want to solve:
 
 <!-- Di = @ i
@@ -121,7 +121,7 @@ ai
 v
 v -->
 
-Here the first term works to cancel the fall-o↵ from @i . To see this, you will need to use the fact that tr 2 ! v 2 , and so tr( @i ) ! 0, as well as the su(2) commutation relations. 
+Here the first term works to cancel the fall-off from @i . To see this, you will need to use the fact that tr 2 ! v 2 , and so tr( @i ) ! 0, as well as the su(2) commutation relations. 
 
 The second term in Ai does not contribute to the covariant derivative Di .
 
@@ -222,7 +222,7 @@ v2) -->
 
 (2.92)
 
-This results in coupled, ordinary di↵erential equations for h(r) and k(r). 
+This results in coupled, ordinary differential equations for h(r) and k(r). 
 
 In general, they cannot be solved analytically, but it is not difficult to find numerical solutions for the minimal ’t Hooft-Polyakov monopole.
 

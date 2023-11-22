@@ -112,7 +112,7 @@ This is now in a form that should be vaguely familiar from our first course in q
 
 All we have to do is solve these equations. That, you may not be surprised to hear, is easier said than done.
 
-We can, however, try to see the e↵ect of the ✓ term. 
+We can, however, try to see the effect of the ✓ term. 
 
 Suppose that we find a physical, energy eigenstate — call it 0 (A) — that solves both (2.31), as well as the Schrödinger equation (2.32) with ✓ = 0. 
 
@@ -159,7 +159,7 @@ tr Fij Ak + Ai Aj Ak
 
 This is known as the Chern-Simons functional. It has a number of beautiful and subtle properties, some of which we will see below, some of which we will explore in Section 8. 
 
-It also plays an important role in the theory of the Quantum Hall E↵ect. Note that we’ve already seen the expression (2.35) before: when we wrote the ✓ term as a total derivative (2.24), the temporal component was 
+It also plays an important role in the theory of the Quantum Hall Effect. Note that we’ve already seen the expression (2.35) before: when we wrote the ✓ term as a total derivative (2.24), the temporal component was 
 
 <!-- K 0 = 4⇡ 2 W . -->
 

@@ -49,7 +49,7 @@ Here Bi = 12 ✏ijk Fjk is the non-Abelian magnetic field (sometimes called the 
 
 I’ve chosen not to use the electric field notation in (2.26) as the Ȧ terms highlight the canonical structure.
 
-Note that the ✓ term is linear in time derivatives; this is reminiscent of the e↵ect of a magnetic field in Newtonian particle mechanics and we will see some similarities below. 
+Note that the ✓ term is linear in time derivatives; this is reminiscent of the effect of a magnetic field in Newtonian particle mechanics and we will see some similarities below. 
 
 The Lagrangian (2.26) is not quite equivalent to (2.25); it should be supplemented by the equation of motion for A0 . In analogy with electromagnetism, we refer to this
 as Gauss’ law. It is 
@@ -106,5 +106,5 @@ tr B2
 8⇡ 2
 g2 -->
 
-It is this ✓-dependent shift in the canonical momentum which a↵ects the quantum theory.
+It is this ✓-dependent shift in the canonical momentum which affects the quantum theory.
 

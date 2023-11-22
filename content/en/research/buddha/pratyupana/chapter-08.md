@@ -24,7 +24,7 @@ The Buddha said, “As I now pronounce this samādhi, 1,800 koṭi gods, asuras,
 The Buddha told the bhikṣus Śāriputra and Maudgalyāyana, as well as Bhadrapāla Bodhisattva and others: “I sought bodhi for uncountable kalpas, and I now have attained Buddhahood. I uphold this sūtra and entrust it to you all. Study and recite it, uphold and guard it, and do not forget or lose it. If there are those who aspire to learn it, you should teach them completely in accordance with the Dharma. You should pronounce it fully to those who wish to hear it.”
 
 After the Buddha pronounced this sūtra, Bhadrapāla Bodhisattva and the bhikṣus Śāriputra, Maudgalyāyana, and Ānanda, as well as gods, asuras, dragons, spirits, and their retinues, greatly rejoiced. They made obeisance to the Buddha and departed.
-
+<!-- 
 —Buddha Pronounces the Sūtra of the Pratyutpanna Buddha Sammukhāvasthita Samādhi
 Translated from the digital Chinese Canon (T13n0417)
 
@@ -33,3 +33,4 @@ Notes
 1. Bhadrapāla Bodhisattva, the interlocutor in this sūtra, is the first of the sixteen Upright Ones in Sūtra 25. He also appears in Sūtras 18 and 19, in which his Sanskrit name is translated by meaning as Worthy Protector. (Return to text)
 2. Here, the Chinese phrase is actually “zhuqi huanxi” (助其歡喜), which means “aid them to rejoice.” This phrase is found in another version of this sūtra (T13n0418), also translated by Lokakṣema (支婁迦讖, or 支讖, 147–?). However, in the later version of this sūtra (T13n0416), translated by Jñānagupta (闍那崛多, 523–600), used instead is the phrase “suixi” (隨喜), which means “express sympathetic joy.” This is the fifth of the ten great actions taught by Samantabhadra Bodhisattva (Sūtra 21), and it appears in many other sūtras. For consistency, all cases of “aid them to rejoice” are translated as “express sympathetic joy.” (Return to text)
 3. The corresponding passage in text 416, fascicle 5, chapter 15, better explains the fourth thought: “I now share the merit acquired from my sympathetic joy with all sentient beings so that we all have sympathetic joy and will acquire this samādhi, hear much of the Dharma, and attain anuttara-samyak-saṁbodhi” (T13n0416, 0894b22–24). (Return to text)
+ -->

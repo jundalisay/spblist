@@ -1,7 +1,7 @@
 ---
-heading: Chapters 6-8
-title: "What is Happiness?"
-weight: 10
+heading: Chapters 9-10
+title: "What is the highest end of action?"
+weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -9,39 +9,6 @@ image: "/covers/ethics.jpg"
 description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
 icon: "/icons/aris.png"
 ---
-
-
-## Chapter 8
-
-Are we then to call no man happy while he lives, and, as Solon would have us, look to the end? 
-
-If we are to maintain this position, is a man then happy when he is dead? or is not this a complete absurdity, specially in us who say Happiness is a working of a certain kind?
-
-If on the other hand we do not assert that the dead man is happy, and Solon does not mean this, but only that one would then be safe in pronouncing a man happy, as being thenceforward out of the reach of evils and misfortunes, this too admits of some dispute, since it is thought that the dead has somewhat both of good and evil (if, as we must allow, a man may have when alive but not aware of the circumstances), as honour and dishonour, and good and bad fortune of children and descendants generally.
-
-Nor is this view again without its difficulties: for, after a man has lived in blessedness to old age and died accordingly, many changes may befall him in right of his descendants; some of them may be good and obtain positions in life accordant to their merits, others again quite the contrary: it is plain too that the descendants may at different intervals or grades stand in all manner of relations to the ancestors.[31] Absurd indeed would be the position that even the dead man is to change about with them and become at one time happy and at another miserable. Absurd however it is on the other hand that the affairs of the descendants should in no degree and during no time affect the ancestors.
-
-But we must revert to the point first raised,[32] since the present question will be easily determined from that.
-
-If then we are to look to the end and then pronounce the man blessed, not as being so but as having been so at some previous time, surely it is absurd that when he is happy the truth is not to be asserted of him, because we are unwilling to pronounce the living happy by reason of their liability to changes, and because, whereas we have conceived of happiness as something stable and no way easily changeable, the fact is that good and bad fortune are constantly circling about the same people: for it is quite plain, that if we are to depend upon the fortunes of men, we shall often have to call the same man happy, and a little while after miserable, thus representing our happy man,
-
-“Chameleon-like, and based on rottenness.”
-
-Is not this the solution? that to make our sentence dependent on the changes of fortune, is no way right: for not in them stands the well, or the ill, but though human life needs these as accessories (which we have allowed already), the workings in the way of virtue are what determine Happiness, and the contrary the contrary.
-
-And, by the way, the question which has been here discussed, testifies incidentally to the truth of our account of Happiness.[33] For to nothing does a stability of human results attach so much as it does to the workings in the way of virtue, since these are held to be more abiding even than the sciences: and of these last again[34] the most precious are the most abiding, because the blessed live in them most and most continuously, which seems to be the reason why they are not forgotten. So then this stability which is sought will be in the happy man, and he will be such through life, since always, or most of all, he will be doing and contemplating the things which are in the way of virtue: and the various chances of life he will bear most nobly, and at all times and in all ways harmoniously, since he is the truly good man, or in the terms of our proverb “a faultless cube.”
-
-And whereas the incidents of chance are many, and differ in greatness and smallness, the small pieces of good or ill fortune evidently do not affect the balance of life, but the great and numerous, if happening for good, will make life more blessed (for it is their nature to contribute to ornament, and the using of them comes to be noble and excellent), but if for ill, they bruise as it were and maim the blessedness: for they bring in positive pain, and hinder many acts of working. But still, even in these, nobleness shines through when a man bears contentedly many and great mischances not from insensibility to pain but because he is noble and high-spirited.
-
-And if, as we have said, the acts of working are what determine the character of the life, no one of the blessed can ever become wretched, because he will never do those things which are hateful and mean. For the man who is truly good and sensible bears all fortunes, we presume, becomingly, and always does what is noblest under the circumstances, just as a good general employs to the best advantage the force he has with him; or a good shoemaker makes the handsomest shoe he can out of the leather which has been given him; and all other good artisans likewise. And if this be so, wretched never can the happy man come to be: I do not mean to say he will be blessed should he fall into fortunes like those of Priam.
-
-Nor, in truth, is he shifting and easily changeable, for on the one hand from his happiness he will not be shaken easily nor by ordinary mischances, but, if at all, by those which are great and numerous; and, on the other, after such mischances he cannot regain his happiness in a little time; but, if at all, in a long and complete period, during which he has made himself master of great and noble things.
-
-Why then should we not call happy the man who works in the way of perfect virtue, and is furnished with external goods sufficient for acting his part in the drama of life:[35] and this during no ordinary period but such as constitutes a complete life as we have been describing it.
-
-Or we must add, that not only is he to live so, but his death must be in keeping with such life, since the future is dark to us, and Happiness we assume to be in every way an end and complete. And, if this be so, we shall call them among the living blessed who have and will have the things specified, but blessed as Men.[36]
-
-On these points then let it suffice to have denned thus much.
 
 
 
@@ -54,3 +21,30 @@ But since things which befall are many, and differ in all kinds of ways, and som
 If then, as of the misfortunes which happen to one’s self, some have a certain weight and turn the balance of life, while others are, so to speak, lighter; so it is likewise with those which befall all our friends alike; if further, whether they whom each suffering befalls be alive or dead makes much more difference than in a tragedy the presupposing or actual perpetration of the various crimes and horrors, we must take into our account this difference also, and still more perhaps the doubt concerning the dead whether they really partake of any good or evil; it seems to result from all these considerations, that if anything does pierce the veil and reach them, be the same good or bad, it must be something trivial and small, either in itself or to them; or at least of such a magnitude or such a kind as neither to make happy them that are not so otherwise, nor to deprive of their blessedness them that are.[37]
 
 It is plain then that the good or ill fortunes of their friends do affect the dead somewhat: but in such kind and degree as neither to make the happy unhappy nor produce any other such effect.
+
+
+Having determined these points, let us examine with respect to Happiness, whether it belongs to the class of things praiseworthy or things precious; for to that of faculties[38] it evidently does not.
+
+Everything which is a subject of praise is praised for:
+- being of a certain kind and
+- having a relation to something else.
+
+For instance, we praise the just, the valiant, the good man, and virtue itself because of the actions and the results.
+
+We praise the strong man, the quick runner, etc, for being of a certain nature and having a relation to something good and excellent.
+
+This is illustrated by praises to gods who are presented in a ludicrous aspect[39] relative to our standard. This is caused by all praise having  reference to a standard. 
+
+If it is to such objects that praise belongs, it is evident that what is applicable to the best objects is not praise, but something higher and better: which is plain matter of fact, for not only do we call the gods blessed and happy, but of men also we pronounce those blessed who most nearly resemble the gods.
+
+Similarly, in respect of goods, no man thinks of praising Happiness as he does the principle of justice, but calls it blessed, as being somewhat more godlike and more excellent.
+
+Eudoxus[40] too is thought to have advanced a sound argument in support of the claim of pleasure to the highest prize: for the fact that, though it is one of the good things, it is not praised, he took for an indication of its superiority to those which are subjects of praise: a superiority he attributed also to a god and the Chief Good, on the ground that they form the standard to which everything besides is referred. 
+
+For praise applies to virtue, because it makes men apt to do what is noble; but encomia to definite works of body or mind.[41]
+
+However, it is perhaps more suitable to a regular treatise on encomia to pursue this topic with exactness: it is enough for our purpose that from what has been said it is evident that Happiness belongs to the class of things precious and final.
+
+It seems to be so also because of its being a starting-point; which it is, in that with a view to it we all do everything else that is done; now the starting-point and cause of good things we assume to be something precious and divine.
+
+

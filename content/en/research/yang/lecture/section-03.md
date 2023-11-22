@@ -1,7 +1,7 @@
 ---
 heading: Section 3
 title: "Gauge Symmetry"
-description: "The algebra g has many di↵erent representations R"
+description: "The algebra g has many different representations R"
 image: "/covers/yang.png"
 # icon: /icons/xeno.png
 weight: 6
@@ -17,15 +17,15 @@ The set of all such transformations is known as the gauge group. Sometimes we wi
 
 The action on the gauge field is
 
-Aμ ! ⌦(x)Aμ ⌦ 1 (x) + i⌦(x)@μ ⌦ 1 (x)
+<!-- Aμ ! ⌦(x)Aμ ⌦ 1 (x) + i⌦(x)@μ ⌦ 1 (x)
 
-(2.11)
+(2.11) -->
 
 A short calculation shows that this induces the action on the field strength
 
-Fμ⌫ ! ⌦(x) Fμ⌫ ⌦ 1 (x)
+<!-- Fμ⌫ ! ⌦(x) Fμ⌫ ⌦ 1 (x)
 
-(2.12)
+(2.12) -->
 
 The Yang-Mills action is then invariant by virtues of the trace in (2.8).
 
@@ -33,7 +33,7 @@ In the case that G = U (1), the transformations above reduce to the familiar gau
 
 In this case we can write ⌦ = ei! and the transformation of the gauge field becomes Aμ ! Aμ + @μ !.
 
-Gauge symmetry is poorly named. It is not a symmetry of the system in the sense that it takes one physical state to a di↵erent physical state. 
+Gauge symmetry is poorly named. It is not a symmetry of the system in the sense that it takes one physical state to a different physical state. 
 
 Instead, it is a redundancy in our description of the system. This is familiar from electromagnetism and remains true in Yang-Mills theory.
 

@@ -17,15 +17,25 @@ Physicists and astronomers were surprised that the James Webb Telescope revealed
 
 <!-- surprisingly many galaxies, galaxies that are surprisingly smooth, surprisingly small and surprisingly old. -->
 
+To this we add earlier surprises from cosmic microwave background (CMB) data:
+
+3. Gravitational waves did not exist in the CMB
+4. The temperature differences in the CMB did not have much variety
+
 ![Galaxy](/photos/physics/galaxy.jpg)
 
-The cause of the surprise was the false materialist belief called **The Big Bang Theory** which says that the universe began as a mass of singularity that exploded to create spacetime and the current galaxies. 
+The cause of these surprises was the false materialist belief called **The Big Bang Theory** which says that the universe began as a mass of singularity that exploded to create spacetime and the current galaxies. 
 
 Such a theory would lead to the following assumptions:
 - There should be more galaxies at a certain region of the universe compared to others
 - Old galaxies should be bigger than new ones
+- Gravitational waves should be present because there is expansion and therefore a fabric of spacetime
+- There should be more temperature differences because of the expansion
 
-Such assumptions were destroyed by the findings of the James Webb Telescope which could detect red-shift, and thus, get more information about distant galaxies.
+
+Such assumptions were destroyed by the findings of:
+- the James Webb Telescope which could detect red-shift, and thus, get more information about distant galaxies
+- the Planck satellite which detected the CMB 
 
 
 ## The Cause of the Error: Confusing Time with Light
@@ -41,7 +51,7 @@ They then extend this error onto distant galaxies. For example, they think that 
 
 So they get perplexed when they see such old galaxies behaving as if they were just a few million years old. 
 
-Cartesian Physics gets rid of their confusion by saying that they are correct in thinking that the light from the sun takes 8 minutes to get here. **But they are wrong in saying that the information that goes with that light is also 8 minutes old. reality, the information from that light is current and up-to-date.** 
+The Physics of Descartes (and Spinoza) gets rid of their confusion by saying that they are correct in thinking that the light from the sun takes 8 minutes to get here. **But they are wrong in saying that the information that goes with that light is also 8 minutes old. reality, the information from that light is current and up-to-date.** 
 
 
 {{< img src="/graphics/physics/light.jpg" alt="Light is different from Information" cap="Physicists think that information travels at the speed of light. They do not know that information is really aethereal and travels instantly" >}}
@@ -62,9 +72,13 @@ So those farther galaxies detected by the James Webb Space Telescope are not old
 
 The red shift is a property of spacetime, and not of light. It happens only at the edges of galaxies and stars where their territories clash with those of others. This clash creates the visible stretching. 
 
-The instantaneousness of information and teleportation is the principle behind our proposal for a Solar Eye -- a crystal supercomputer that orbits the Earth and constantly looks at the sun (star detector) relative to a target star to teleport to. The Solar Eye acts as a lighthouse helping spacecraft teleport correctly to their target destination in spacetime. 
+There are no gravitational waves in the CMB because such waves are a product of black holes which are allied with light, and not microwaves. The latter is allied with time, and so the CMB is a better basis of the age of the universe than redshift. 
 
-In Bob Lazar's UFO drawings, the star detector of the UFO is on the top as vents that has a 360 degree view of the front. This is similar to the windshield in cars being positioned in the front so the driver can see where he is going.  
+{{< img src="/graphics/physics/msq.jpg" alt="MSQ" cap="" >}}
+
+<!-- The instantaneousness of information and teleportation is the principle behind our proposal for a Solar Eye -- a crystal supercomputer that orbits the Earth and constantly looks at the sun (star detector) relative to a target star to teleport to. The Solar Eye acts as a lighthouse helping spacecraft teleport correctly to their target destination in spacetime. 
+
+In Bob Lazar's UFO drawings, the star detector of the UFO is on the top as vents that has a 360 degree view of the front. This is similar to the windshield in cars being positioned in the front so the driver can see where he is going.  --> 
 
 
 ## Einstein is to Blame
@@ -73,12 +87,11 @@ Why did physicists confuse light and time?
 
 This is because Einstein used the speed of light as the measuring rod for space. Since spacetime is one being, then light also measures time. 
 
-Therefore, the age of something is determined by its light. However, this is totally wrong because the Spacetime Elemenet (Spatial Layer in Superphysics) is superior to Electromagnetism (Radiant Layer). 
+Therefore, the age of something is determined by its light. However, this is totally wrong because  Spacetime (called the '2nd Element' in Cartesian Physics and 'Spatial Layer' in our Superphysics) is superior to Electromagnetism (called the 1st Element in Cartesian Physics and the Radiant Layer in Superphysics). 
 
-It would be like using a janitor as the benchmark to judge the merits of a CEO or executive. A good CEO is one that cleans toilets spotlessly and wipes all the windows clearly. 
+It would be like using a janitor as the benchmark to judge the merits of a CEO or executive -- a good CEO is one who cleans toilets spotlessly and wipes all the windows clearly. 
 
-In Physics, this manifests as the lowest Material Layer (3rd Element to Descartes) as being the highest principle. This leads to the Big Bang Theory which states that the universe came from a material singularity. From that singularity emerged spacetime and light. 
-
+In Physics, this manifests as the Strong Force (called the 3rd Element by Descartes and the Material Layer in Superphysics) as being the highest principle. This leads to the Big Bang Theory which states that the universe came from a material singularity. From that singularity emerged spacetime and light. 
 
 <!-- The spectra reveal that these primeval galaxies are extremely metal poor, have masses between 107 and a few times 108
 solar masses, and young ages.. These findings demonstrate the rapid emergence of the first generations of galaxies at cosmic dawn. -->
@@ -100,7 +113,7 @@ q a="Newton" c="Principia Mathematica Simplified, Proposition 11-12, Theorem 11-
 The common centre of gravity of the earth, the sun, and all the planets, is the centre of the universe. This is because the sun, and all the planets, mutually gravitate one towards another, and are therefore, according to their powers of gravity, in perpetual agitation. It is plain that their moveable centres can not be taken for the immovable centre of the world.
 
 This is opposite of the cause discovered by Descartes, which is the **aether**. 
-
++
 
 q a="descartes"
 The power to move and the power that determines that motion's direction are 2 completely different things. These can exist one without the other (as I have set out in the Dioptrics). <b>Each part moves in the way least difficult for it by the bodies around it.</b>
@@ -143,26 +156,26 @@ We bring back the superiority of Spacetime over Electromagnetism and Matter thro
 
 {{< img src="/graphics/physics/layers.jpg" cap="Superphysics has the aether as the highest layer or element, based on the neatly-ordered and intuitive Hindu Pancabhutas and Taoist Wu-xing framework. Materialist Physics has matter as the highest layer or element, as an effect of fully embracing the illusion created  by Nature" >}}
 
-> We can expose Newton's misunderstanding of the vortices theory in another post.
+> 
 
 
 Instead of a material big bang, the universe began as [aethereal ideas of the Supreme Mind](/material/principles/part-1/chapter-02/) which Hindu science calls *Saguna Brahma*.
 
-These ideas flow down (as explained by Taoist science) as Thoughts onto the Spacetime layer, manifesting as vortices (as explained by Descartes). 
+These ideas flow down (as explained by Taoist science) as Thoughts onto the Spacetime layer, manifesting as vortices, as explained by Descartes. We can expose Newton's misunderstanding of the vortices theory in another post. 
 - Clockwise vortices convert matter and objects into energy and ideas. In cosmology, this manifests as quasars.
 - Counter-Clockwise vortices convert energy and ideas into matter and objects. This manifests as galaxies.
 
 
-
-
-
-Instead of a Big Bang, the entire universe already pre-exists as a bunch of probabilities through the theoretical probability layer that become instantly real depending on the mind that perceives it.
+Instead of a Big Bang, the entire universe already pre-exists as a bunch of probabilities through the Probability Layer that become instantly real depending on the mind that perceives it.
 - This bunch of probabilities make up the multiverse when they are in effect (have a perceiver ready). 
 - They remain as unreal existences whenever a perceiver is unavailable.   
 
 It means that **the universe has no single starting point other than the mind that is perceiving that universe**. 
 
-If the James Web Telescope teleported to another galaxy, it would see the same even distribution of galaxies. Even if it teleported to a galaxy on the outer edge of its knowledge, it would likewise see an even distribution of mostly new galaxies to add to its knowledge.  
+- If the James Web Telescope teleported to another galaxy, it would see the same even distribution of galaxies.
+- If it positioned itself at the edge of the known universe and tried to teleport beyond the edge, it would merely go to another nearly-exact universe and not go into a Void
+
+ <!-- to a galaxy on the outer edge of its knowledge, it would likewise see an even distribution of mostly new galaxies to add to its knowledge.   -->
 
 Therefore, **the age of a universe depends on the layer where the perceiving mind is.** 
 

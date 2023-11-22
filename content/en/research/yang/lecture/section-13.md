@@ -1,7 +1,7 @@
 ---
 heading: Section 13
 title: "A Single Instanton in SU (2)"
-description: "The algebra g has many di↵erent representations R"
+description: "The algebra g has many different representations R"
 image: "/covers/yang.png"
 # icon: /icons/xeno.png
 weight: 26

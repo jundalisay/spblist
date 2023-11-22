@@ -3,8 +3,8 @@ heading: "Chapter 8c"
 title: "The 5 Senses for the 5 Layers"
 date: 2024-05-08
 weight: 40
-image: "/covers/hume.jpg"
-description: ""
+image: "/photos/econ/singer.jpg"
+description: "We assign senses to the 5 Layers"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,6 +14,9 @@ draft: true
 
 
 Humans have 5 senses to detect the 5 Layers.
+
+
+
 
 Layer | Sense Organ | Sense
 --- | --- | ---

@@ -96,6 +96,3 @@ Let us grant that, from this infinite number of rectangles, only two exist.
 The ideas of these two exist as they are contained in the idea of the circle, but also as they involve the existence of those rectangles.
 
 Wherefore they are distinguished from the remaining ideas of the remaining rectangles.
-
-
-

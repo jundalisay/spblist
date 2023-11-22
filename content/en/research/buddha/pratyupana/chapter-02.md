@@ -2,13 +2,15 @@
 heading: Chapter 2
 title: "The Training"
 weight: 6
-description: "Buddha was in the Karaṇḍa Bamboo Garden of the city of Rājagṛha, together with many great Bodhisattvas, bhikṣus, bhikṣuṇīs, upāsakas, and upāsikās"
+description: "If Bodhisattvas aspire to attain this samādhi quickly, they should stand in great faith"
 image: "/photos/meta/buddhism.jpg"
 ---
 
 
 
-The Buddha told Bhadrapāla, “If Bodhisattvas aspire to attain this samādhi quickly, they should stand in great faith. Those who train themselves in accordance with the Dharma can attain this samādhi. Do not raise any doubts, even as slight as a hair. This Dharma of Concentrated Mind is also called the Bodhisattva Way Surpassing All Other Ways.”
+The Buddha told Bhadrapāla, 
+
+“If Bodhisattvas aspire to attain this samādhi quickly, they should stand in great faith. Those who train themselves in accordance with the Dharma can attain this samādhi. Do not raise any doubts, even as slight as a hair. This Dharma of Concentrated Mind is also called the Bodhisattva Way Surpassing All Other Ways.”
 
 [Then the Buddha spoke in verse:]
 

@@ -94,9 +94,9 @@ We learn that the ’t Hooft-Polyakov monopoles are labelled by an r-dimensional
 A closer look reveals that the ’t Hooft-Polyakov monopoles have magnetic charge m 2 2⇡ ⇤co root (g), as required by the Goddard-Nuyts-Olive quantisation (2.80).
 
 
-## 2.8.2 The Witten E↵ect 
+## 2.8.2 The Witten Effect 
 
-Again We saw in Section 1.2.3 that, in the presence of a ✓ term, a Dirac monopole picks up an electric charge. As we now show this phenomenon, known as the Witten e↵ect, also occurs for the ’t Hooft-Polyakov monopole.
+Again We saw in Section 1.2.3 that, in the presence of a ✓ term, a Dirac monopole picks up an electric charge. As we now show this phenomenon, known as the Witten effect, also occurs for the ’t Hooft-Polyakov monopole.
 
 To see this, we simply need to be careful in identifying the electric charge operator in the presence of a monopole. 
 
@@ -146,7 +146,7 @@ m=
 d3 x tr Di Bi
 v -->
 
-We see that the theta term does indeed turn the monopole into a dyon. This agrees with our previous discussion of the Witten e↵ect (1.19), with the seemingly di↵erent
+We see that the theta term does indeed turn the monopole into a dyon. This agrees with our previous discussion of the Witten effect (1.19), with the seemingly different
 factor of 2 arising because, as explained above, q is quantised in units of 1/2 in the
 non-Abelian gauge theory.
 

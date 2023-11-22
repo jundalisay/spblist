@@ -73,7 +73,7 @@ Back then, Physical Review refused to entertain the name “instanton”, so the
 
 Motivated by this result, Jackiw and Rebbi [113], and independently Callan, Dashen and Gross [23], understood the semi-classical vacuum structure of Yang-Mills in Section 2.2. 
 
-Jackiw’s lectures [115] give a very clear discussion of the theta angle and were the basis for the discussion here. Reviews covering a number of di↵erent properties of
+Jackiw’s lectures [115] give a very clear discussion of the theta angle and were the basis for the discussion here. Reviews covering a number of different properties of
 instantons can be found in [182, 191, 197].
 
 

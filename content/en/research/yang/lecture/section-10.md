@@ -59,7 +59,7 @@ Consider a particle of unit charge, restricted to move on a circle of radius R.
 
 Through the middle of the circle we thread a magnetic flux.
 
-Because the particle sits away from the magnetic field, its classical motion is una↵ected by the flux.
+Because the particle sits away from the magnetic field, its classical motion is unaffected by the flux.
 
 Nonetheless, the quantum spectrum does depend on the flux and this arises for reasons very similar
 to those described above.
@@ -110,5 +110,5 @@ n2Z
 
 We see that the spectrum of the theory does depend on the flux , even though the particle never goes near the region with magnetic field. 
 
-Moreover, as far as the particle is concerned, the flux is a periodic variable, with periodicity 2⇡. In particular, if is an integer multiple of 2⇡, then the spectrum of the theory is una↵ected by the flux.
+Moreover, as far as the particle is concerned, the flux is a periodic variable, with periodicity 2⇡. In particular, if is an integer multiple of 2⇡, then the spectrum of the theory is unaffected by the flux.
 

@@ -2,7 +2,7 @@
 heading: "Chapter 3"
 title: "The Medium-Substance-Quantum MSQ Classification"
 date: 2023-11-26
-image: "/graphics/physics/model.jpg"
+image: "/graphics/physics/msq.jpg"
 description: "Material Superphysics uses Medium-Substance-Quantum Classification"
 writer:
   name: Juan

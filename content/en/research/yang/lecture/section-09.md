@@ -35,7 +35,7 @@ This is novel to non-Abelian gauge theories and has a beautiful interpretation.
 
 To understand this interpretation, we need to understand something about the topology of non-Abelian gauge transformations. 
 
-These gauge transformations fall into di↵erent classes.
+These gauge transformations fall into different classes.
 We’ve already met the first classification of gauge transformations. 
 
 Those with ⌦ 6= 1
@@ -50,7 +50,7 @@ Each gauge transformation with this property then defines a map,
 
 Such maps fall into disjoint classes. This arises because the gauge transformations can “wind” around the spatial S3 , in such a way that one gauge transformation cannot be continuously transformed into another. 
 
-We’ll meet this kind of idea a lot throughout these lectures. Such maps are characterised by homotopy theory. In general, we will be interested in the di↵erent classes of maps from spheres Sn into some space X. 
+We’ll meet this kind of idea a lot throughout these lectures. Such maps are characterised by homotopy theory. In general, we will be interested in the different classes of maps from spheres Sn into some space X. 
 
 Two maps are said to be homotopic if they can be continuously deformed into each other. The homotopically distinct maps are classified by the group ⇧n (X). For us, the relevant formula is
 
