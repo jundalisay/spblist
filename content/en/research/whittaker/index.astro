@@ -1,0 +1,36 @@
+---
+import Layout from "/src/layouts/Base.astro";
+// const { frontmatter } = Astro.props;
+// const { title, meta_title, heading, description, date, image, categories, author, tags } = frontmatter;
+---
+
+
+<Layout >
+<section class="section pt-7">
+  <div class="container">
+    <div class="row justify-center">
+      <article class="lg:col-10">
+        {
+        }
+		<h1>Whittaker</h1>	
+        <ul class="mb-4">
+          <li href="assembly" class="mr-4 inline-block">Assembly</li>
+          <li href="assembly" class="mr-4 inline-block">Assembly</li>
+          <li href="assembly" class="mr-4 inline-block">Assembly</li>
+          <li href="assembly" class="mr-4 inline-block">Assembly</li>                    
+        </ul>
+        <div class="content mb-10">
+			<slot />
+        </div>
+        <div class="row items-start justify-between">
+          <div class="mb-10 flex items-center lg:col-5 lg:mb-0">
+          <div class="flex items-center lg:col-4">
+          </div>
+        </div>
+      </article>
+    </div>
+
+  </div>
+</section>
+</Layout>
+
