@@ -26,7 +26,9 @@ In the case of this inborn instinct, or, say, psycho-physical longing, there are
 
 When these controlling faculties go against the characteristics of the vital force, disintegration and dissociation start both within and without the framework. 
 
-This is the wont of the individual structure. And in the case of collective structures, regarding these psycho-physical longings, if it is seen that the collective body of a particular nature of living being or expression does not like it, then the controlling faculty creates a sort of change and metamorphosis in the physical structure, and as a result the nature of the longings also changes. That is, in the case of the individual structure it is to be goaded by the controlling faculty only up to a certain range or certain stratum. Otherwise the structure will start disintegration or dissociation both within and without. 
+This is the wont of the individual structure. And in the case of collective structures, regarding these psycho-physical longings, if it is seen that the collective body of a particular nature of living being or expression does not like it, then the controlling faculty creates a sort of change and metamorphosis in the physical structure, and as a result the nature of the longings also changes. 
+
+That is, in the case of the individual structure it is to be goaded by the controlling faculty only up to a certain range or certain stratum. Otherwise the structure will start disintegration or dissociation both within and without. 
 
 And in a collective body, the collective controlling faculty may create a sort of change in the physical structures if such a change is supported by Macrocosmic conation, otherwise not.
 
@@ -36,7 +38,9 @@ But this longing is not of inborn nature. These longings are created after the d
 
 Both the pabula are of physical nature, are physical pabula. But in the second case the controlling faculty, the inherent controlling faculty, can move a bit forward, but when this movement goes ultra vires to the fundamental principles of the physical structure, the structure cannot remain as before; that is, it starts decomposition. 
 
-It cannot maintain its integration or structural solidarity. In this case, one’s physical structure may be saved if one applies or rather ascribes the Macrocosmic grandeur to physical pabulum. There is no other way. But in the case of the collective body, or the collective structure, there may be change, and that change may not go against the characteristics of the physical structure if there remains a constant endeavour for such a change, rather for such a metamorphosis. This is the second longing, and both the pabula are of physical nature.
+It cannot maintain its integration or structural solidarity. In this case, one’s physical structure may be saved if one applies or rather ascribes the Macrocosmic grandeur to physical pabulum. 
+
+There is no other way. But in the case of the collective body, or the collective structure, there may be change, and that change may not go against the characteristics of the physical structure if there remains a constant endeavour for such a change, rather for such a metamorphosis. This is the second longing, and both the pabula are of physical nature.
 
 3. Psychic longing for psychic pabulum. 
 

@@ -23,11 +23,13 @@ Subtle microvita are those that are too subtle to come within the scope of a hig
 
 
 
-## Type 1
+## Type 2
 
 1. Yaksa
 
-Those microvita which do not come within the scope of a microscope but come within the scope of inferences are known by their collective form and are called “yakśas”. As they are perceived through inferential vibrations, their field of action is the human mind. They are instrumental in arousing the propensity to accumulate more and more wealth. 
+Those microvita which do not come within the scope of a microscope but come within the scope of inferences are known by their collective form and are called “yakśas”. 
+
+As they are perceived through inferential vibrations, their field of action is the human mind. They are instrumental in arousing the propensity to accumulate more and more wealth. 
 
 Although this propensity has some spatial and personal necessity, it is mostly a psychic ailment. In most cases, this psychic ailment aroused by yakśas is more fatal than the diseases called “yakśmá” (such as tuberculosis or consumption). It has produced extremely fissiparous tendencies in human society, and has lead to the exploitation of one group of human beings by another group who feel elated to hear the lamentations of others. 
 
@@ -38,7 +40,6 @@ The collective name of the microvita which produce this disease in the human min
 When a person devoid of any ideology becomes engrossed in the thought of accumulating wealth, yakśas begin their frenetic dance in his or her mind. These yakśas are one of the seven types of devayonis (the others are gandharva, kinnara, vidyádhara, videhaliina, prakrtiliina and siddha) which are the collective names of different categories of microvita.
 
 
-## Type 2
 
 2. Gandharva 
 

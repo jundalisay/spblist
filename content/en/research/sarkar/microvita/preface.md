@@ -15,7 +15,9 @@ It was the author’s wish that the new and difficult science of microvita would
 
 In this third edition of Microvitum in a Nutshell, all the talks given by P.R. Sarkar on the subject of microvita have been compiled and published in English for the first time.
 
-The chapters “Some Examples of Microvita in Daily Life”, “Crude and Subtle Microvita”, “Microvita and Spiritual Attainment”, “Smell and Microvita” and “Disembodied Souls and Microvita” have been translated from the original Bengali edition of Shabda Cayaniká. The talks contained in the first three of these chapters were published in the second edition of Microvitum in a Nutshell but have been revised for the present edition. The talks contained in the remaining two chapters have been translated and published in English for the first time.
+The chapters “Some Examples of Microvita in Daily Life”, “Crude and Subtle Microvita”, “Microvita and Spiritual Attainment”, “Smell and Microvita” and “Disembodied Souls and Microvita” have been translated from the original Bengali edition of Shabda Cayaniká. The talks contained in the first three of these chapters were published in the second edition of Microvitum in a Nutshell but have been revised for the present edition. 
+
+The talks contained in the remaining two chapters have been translated and published in English for the first time.
 
 The Renaissance Universal (RU) Discourses “Microvita – The Mysterious Emanation of Cosmic Factor”, “Four Dimensions of Micropsychic Longings”, “Microvitum and Its Effect on Human Body and Human Mind”, “Mobility and Movement of Microvita”, “Microvita and Their Influence on Micropsychic and Macropsychic Corporeal Structures” and “Matter and Abstract” were all given in English.
 

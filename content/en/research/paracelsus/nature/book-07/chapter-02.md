@@ -39,14 +39,15 @@ If they are not beautifull enough, anoint them over with the white of an Egge, a
 
 In the like manner are Coralls made, with which men endeavour to deceive one the other as with Pearle. The processe is this:
 
-[Pg 77]
 
 How counterfeit Coralls may be made.
+
 Take Cinnabar, grinde it on a Marble, with the white of an Egge, for the space of an houre, then dry it, as Potters doe their Earth, then make it into what forme thou pleasest: Afterwards dry them as much as may bee, and noint them over with the white of an Egge, as thou didst Pearle, and dry them by themselves again.
 
 So thou shalt have Corall like to the naturall in form, but not in vertue.
 
 A Golden or Silver varnish.
+
 Thou must also know, That the white of an Egge may bee of it selfe coagulated into most cleer Vernish, in the coagulation of which Silver, or Gold may bee strewed.
 
 There are also many other, and various Transmutations of Naturall things: Whereof those which I know, and have had experience of, I will by the way set down, and briefly declare to you.
@@ -69,7 +70,6 @@ Of Flax boiled in sharp Lie made of the Ashes of Wood is Silke made.
 Feathers may bee Spun.
 Also the feathery parts pulled off from quills, and boiled in that Lie, may bee spun, and weaved like Cotton.
 
-[Pg 78]
 
 Any Oyle or Spermatick mucilage may bee coagulated into Vernish.
 

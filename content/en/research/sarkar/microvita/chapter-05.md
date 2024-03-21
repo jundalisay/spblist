@@ -97,11 +97,15 @@ Instances of people being possessed by ghosts, gods and goddesses, d́ákiniis,
 
 Although these things are similar psychologically, they are somewhat different in practice. To treat various diseases by performing a special type of dhárańá [deep concentration] on various gods and goddesses, is nothing but the play of the conscious, subconscious and unconscious levels of the mind.(5)
 
-If, due to the grace of Parama Puruśa, someone gets the chance to see a khamúrtti and asks that entity for success on the path of self-abnegation, then one may get such inspiration from that siddha devayoni (positive microvitum). One will merge one’s individual existence and spiritual flow into the Macrocosmic stance of Parama Puruśa and attain savisheśa or savikalpa samadhi, the state of partial absorption of mind; or, by merging in the supreme stance of Parama Puruśa, attain nirvisheśa or nirvikalpa samádhi, the state of complete absorption of mind. This is the summit of spiritual attainment. In the final stages of one’s spiritual journey, the entitative existence of the sádhaka is merged into Parama Puruśa.
+If, due to the grace of Parama Puruśa, someone gets the chance to see a khamúrtti and asks that entity for success on the path of self-abnegation, then one may get such inspiration from that siddha devayoni (positive microvitum). 
+
+One will merge one’s individual existence and spiritual flow into the Macrocosmic stance of Parama Puruśa and attain savisheśa or savikalpa samadhi, the state of partial absorption of mind; or, by merging in the supreme stance of Parama Puruśa, attain nirvisheśa or nirvikalpa samádhi, the state of complete absorption of mind. This is the summit of spiritual attainment. In the final stages of one’s spiritual journey, the entitative existence of the sádhaka is merged into Parama Puruśa.
 
 6 September 1987, Calcutta
 
-Footnotes
+
+
+## Footnotes
 
 (1) The contents of this chapter consists of elaboration on the words khamúrtti and khamúrttimán. The author’s discourse on that day entailed linguistic discussion of a number of Sanskrit terms; the discussion of each term became an entry in the author’s linguistic encyclopedia Shabda Cayaniká (“Collection of Words”). –Eds.
 

@@ -1,16 +1,40 @@
-How metalls may be preserved.
-In preserving of Metalls, their Enemies are first to bee known, that so much the better they may bee preserved from harme. What are the enemies of metalls.The chiefest Enemies of Metalls are all sharp corroding Waters, all Corrosive things, all Salts, crude Sulphur, Antimony, and Mercury. But that you may know particularly how they show their enmity, it is thus. Sharp Waters, and such things as are Corrosive, and Salts shew their enmity, in that they mortifie, dissolve, calcine, corrupt Metalls, and reduce them to nothing.
+---
+heading: Chapter 2
+title: "How metals may be preserved"
+description: "The Generation of Natural Things is Twofold"
+image: "/covers/nature.png"
+weight: 9
+date: 2024-02-28
+writer:
+  name: Paracelsus
+  url: https://en.wikipedia.org/wiki/Paracelsus/
+---
 
-How the fume of Sulphur doth discolour metalls.
+
+
+What are the enemies to the preserving of Metals?
+
+The chiefest Enemies of Metalls are all sharp corroding Waters, all Corrosive things, all Salts, crude Sulphur, Antimony, and Mercury. 
+
+
+Sharp and Corrosive Waters, and Salts shew their enmity, in that they mortifie, dissolve, calcine, corrupt Metalls, and reduce them to nothing.
+
+How the fume of Sulphur doth discolour metals.
+
 Crude Sulphur shews its enmity in the fume thereof: for by its fume it takes away from Copper its colour, and rednesse, and makes it white. From white Metalls, as Silver, Tinne, Lead, and Iron it takes away the whitenesse, and makes them red, and yellowish. From Gold it takes away that faire amiable yellownesse, and golden colour, and makes it black, and so foule, that nothing can bee more foule.
 
 How Antimony spoiles and discolours metalls.
 Antimony shews its enmity in this, in that all Metalls with which it is melted, or mixed, it spoiles, carryeth away, and preys upon, and also not unlike to Sulphur, by its fume it takes away from Metalls their true, and naturall colour, and brings in another.
 
 Quicksilver distroyes metalls, and how.
-Quicksilver doth destroy Metalls upon this accompt, in that it enters into Metalls, with which it is joined, and dissolves them, so that it makes an Amalgama of them: Wherefore the fume thereof, which wee call common Mercury, makes all Metalls brittle, that they cannot bee malleated, and calcines them, also it makes all red Metalls of a golden co[Pg 23]lour, to bee white: but it is the greatest enemie of all to Iron, and Steel; for if common Mercury doe but touch a barre of Iron, or Steel, or that be but smeared over with Mercuriall oile, that bar will afterward be broken like glasse, and be bowed; which indeed is a great secret, and deserves to be kept exceeding close. In like manner must the Loadstone be kept from Mercury, for the like enmity it shews to that as to Iron. How the loadstone may be spoyled.For any Loadstone that Mercury hath but touched, or which hath been smeered with Mercuriall oyle, or only put into Mercury, will never draw Iron more. Let no man wonder at this, for there is a naturall cause for it, and it is this, viz. because Mercury extracts the spirit of Iron, which was hid in the Loadstone, which spirit draws the spirit of Iron to it: and this is not only in the Loadstone, but in all naturall things else, so that alwaies a strange spirit in a body which is not of the same Nature with it selfe, drawes to it self a body which is of the same Nature: and this wee must know to bee so, not only in the Loadstone, but also in all other naturall things, as Mineralls, Stones, Hearbs, Roots, Men, and Brutes.
+
+Quicksilver destroys Metalls upon this accompt, in that it enters into Metalls, with which it is joined, and dissolves them, so that it makes an Amalgama of them: Wherefore the fume thereof, which wee call common Mercury, makes all Metalls brittle, that they cannot bee malleated, and calcines them, also it makes all red Metalls of a golden colour, to bee white: but it is the greatest enemie of all to Iron, and Steel; for if common Mercury doe but touch a barre of Iron, or Steel, or that be but smeared over with Mercuriall oile, that bar will afterward be broken like glasse, and be bowed; which indeed is a great secret, and deserves to be kept exceeding close. In like manner must the Loadstone be kept from Mercury, for the like enmity it shews to that as to Iron. 
+
+How the loadstone may be spoyled.For any Loadstone that Mercury hath but touched, or which hath been smeered with Mercuriall oyle, or only put into Mercury, will never draw Iron more. Let no man wonder at this, for there is a naturall cause for it, and it is this, viz. because Mercury extracts the spirit of Iron, which was hid in the Loadstone, which spirit draws the spirit of Iron to it: and this is not only in the Loadstone, but in all naturall things else, so that alwaies a strange spirit in a body which is not of the same Nature with it selfe, drawes to it self a body which is of the same Nature: and this wee must know to bee so, not only in the Loadstone, but also in all other naturall things, as Mineralls, Stones, Hearbs, Roots, Men, and Brutes.
+
 
 What antipathy there is betwixt metalls themselves.
+
 That Metalls have an enmity, and hate one the other naturally, as you see in Lead, which is naturally a very great enemy to Gold. For it breaks asunder all parts of Gold, it makes it foule, weak, spoiles, and destroyes it even to death, more then any other Metall.
 
 Tin also hates, and is an enemy to all Metalls: for it makes them base, immalleable, hard, unprofitable, if it bee mixed with them in the fire, or in melting.
@@ -20,16 +44,23 @@ Since therefore you have now heard of the Enemies[Pg 24] of Metalls, you must ne
 Gold is preserved in boyes urine.
 First therefore concerning Gold, you must know, that it cannot bee preserved better, and fairer then in boyes urine, in which Salt Armoniack is dissolved, or in water alone of Salt Armoniack. In them in time the colour is so highly exalted that it can bee exalted no higher.
 
+
 How silver is preserved.
-Silver cannot be better preserved then if it be boiled in common Water, or Vineger, in which Tartar or Salt have been dissolved. So any old Silver, that is made black, and fouled, is renewed by being boiled in these waters. How Iron and Steel may be preserved.The best preservative for Iron and Steel is the lard of a Barrow-hog not salted, which indeed preserves Iron, and Steel from rust, if once every moneth they be smeered over with it. Also if Iron bee melted with fixt Arsenicke, it will be so renewed and fixt, that it will like Silver never contract rust. How Copper is preserved.Copper may be preserved, if it bee only mixed with sublimed Mercury, or bee smeered over with the oyle of Salt; and so it will never any more be grown over with verdegrease.
+
+Silver cannot be better preserved then if it be boiled in common Water, or Vineger, in which Tartar or Salt have been dissolved. So any old Silver, that is made black, and fouled, is renewed by being boiled in these waters. How Iron and Steel may be preserved.The best preservative for Iron and Steel is the lard of a Barrow-hog not salted, which indeed preserves Iron, and Steel from rust, if once every moneth they be smeered over with it. 
+
+Also if Iron bee melted with fixt Arsenicke, it will be so renewed and fixt, that it will like Silver never contract rust. How Copper is preserved.Copper may be preserved, if it bee only mixed with sublimed Mercury, or bee smeered over with the oyle of Salt; and so it will never any more be grown over with verdegrease.
 
 How Lead is preserved.
-Lead can no wayes bee better preserved then in cold Earth, and in a moist place, according to the Nature thereof. How the Loadstone is preserved.The Loadstone is preserved best of all with the filings of Iron, and Steel, for by this meanes it is never weakened, but daily strengthened.
+
+Lead can no wayes bee better preserved then in cold Earth, and in a moist place, according to the Nature thereof. How the Loadstone is preserved. The Loadstone is preserved best of all with the filings of Iron, and Steel, for by this meanes it is never weakened, but daily strengthened.
 
 The preservation of Salts.
-Now concerning the preservation of Salts, and all things, that are of a saltish Nature, and may be comprehended under the name of Salt (of which there are[Pg 25] more then an hundred sorts) you must know that they are to bee preserved in a hot dry place, and in woodden vessells, not in Glasse, Stone, or Metalls: for in those they are dissolved and become a Water, and an Amalgama which cannot be in Wood.
+
+Salts are to bee preserved in a hot dry place, and in woodden vessells, not in Glasse, Stone, or Metalls: for in those they are dissolved and become a Water, and an Amalgama which cannot be in Wood.
 
 The preservation of liquors with oils.
+
 Moreover you must know how some kind of Waters, and Liquors pressed out of hearbs, roots, and all other fruits, and Vegetables, which doe easily contract filth, and slime as if a skin were spread over them, may be preserved. These Waters therefore, and Liquors must bee put up into glasses that are narrow towards the top, and wide below, and the glasses be filled to the top, then adde a few drops of oyl Olive, that all the Water, or Liquor may bee covered: so the Oyl will swim on the top, and preserve the Liquor, or Water a long time from filth or slime. For there is no Water, or liquor if it bee covered with oyl, that will bee musty, or of an ill savour.
 
 By this means also may two sorts of Water, of Liquors of Wine bee kept apart in one vessell, that they may not bee mixed: and not only two sorts, but three, four, five, and more, if only the oyle bee put betwixt: For they are severed by the Oyle, as by a wall, which wil not suffer them to be joined together, and united, for oyle and water are two contraries, and neither can be mixed with the other: For as the Oyle will not suffer the Waters to be united, so on the contrary, the Water will not suffer the Oyls to be mixed.
@@ -42,7 +73,11 @@ Now to preserve Cloath, and Garments from moths, there is no better way then wit
 
 ## How all sorts of Wood may be preserved?
 
-Also all manner of Woods, as in Houses, Bridges, Ships, or wheresoever they be, may bee preserved so that they will never bee putrefied, either in waters, or under waters, or out of water in the earth, under the earth or above the earth, whether they be set in the rain, or wind, aire, snow, or ice, in winter, or summer; also that they be not worm-eaten, nor that any worms may breed in them whensoever they bee cut. Now this preservative is a great Arcanum against all kinds of putrefactions, yea so excellent a secret that none may bee compared to it. Fixed oyle of sulphur.And it is nothing else but Oyle of Sulphur, the processe whereof is this. Let common yellow Sulphur bee powdered, and put into a Gourd glasse, upon which let there be poured so much of the strongest Aqua fortis, that may cover it three fingers breadth: then draw it oft by distillation, three, or four times; and last of all, till it be dry. Let the Sulphur that remaines in the bottome being of a black, sad red colour, be put upon marble, or in a glasse, and it will easily bee dissolved into Oyle, which is a great secret in preserving of Wood from putrefaction, and wormes. For this Oyle doth so tinge the wood that is nointed with it, that it can never bee washed out of it againe. Many more things may bee preserved with this Oil of Sulphur; from putrefaction, as ropes, cords in ships, and masts of ships, in carts, fishing-nets, and gins which Fowlers, and Hunters use, and such like, which are oftentimes used in waters, or raine, and are otherwise easily rotted, and broken, so also linnen clothes, and many other such like things.
+Also all manner of Woods, as in Houses, Bridges, Ships, or wheresoever they be, may bee preserved so that they will never bee putrefied, either in waters, or under waters, or out of water in the earth, under the earth or above the earth, whether they be set in the rain, or wind, aire, snow, or ice, in winter, or summer; also that they be not worm-eaten, nor that any worms may breed in them whensoever they bee cut. Now this preservative is a great Arcanum against all kinds of putrefactions, yea so excellent a secret that none may bee compared to it. Fixed oyle of sulphur.
+
+And it is nothing else but Oyle of Sulphur, the processe whereof is this. Let common yellow Sulphur bee powdered, and put into a Gourd glasse, upon which let there be poured so much of the strongest Aqua fortis, that may cover it three fingers breadth: then draw it oft by distillation, three, or four times; and last of all, till it be dry. Let the Sulphur that remaines in the bottome being of a black, sad red colour, be put upon marble, or in a glasse, and it will easily bee dissolved into Oyle, which is a great secret in preserving of Wood from putrefaction, and wormes. 
+
+For this Oyle doth so tinge the wood that is nointed with it, that it can never bee washed out of it againe. Many more things may bee preserved with this Oil of Sulphur; from putrefaction, as ropes, cords in ships, and masts of ships, in carts, fishing-nets, and gins which Fowlers, and Hunters use, and such like, which are oftentimes used in waters, or raine, and are otherwise easily rotted, and broken, so also linnen clothes, and many other such like things.
 
 
 Which are potable things, and how they are preserved.
