@@ -11,6 +11,7 @@ The Great Mental Plane comprises those forms of "living things" known to us in o
 
 The classification of the Seven Minor Mental Planes is more or less satisfactory and arbitrary (unless accompanied by elaborate explanations which are foreign to the purpose of this particular work), but we may as well mention them. They are as follows:
 
+
 1. The Plane of Mineral Mind
 
 This comprises the "states or conditions" of the units or entities, or groups and combinations of the same, which animate the forms known to us as "minerals, chemicals, etc." 
@@ -34,6 +35,7 @@ They are invisible to the ordinary senses of man, but, nevertheless, exist and p
 
 Their degree of intelligence is between that of the mineral and chemical entities on the one hand, and of the entities of the plant kingdom on the other. There are seven subdivisions to this plane, also.
 
+
 3. The Plane of Plant Mind 
 
 The Plane of Plant Mind, in its seven sub-divisions, comprises the states or conditions of the entities comprising the kingdoms of the Plant World, the vital and mental phenomena of which is fairly well understood by the average intelligent person, many new and interesting scientific works regarding "Mind and Life in Plants" having been published during the last decade. Plants have life, mind and "souls," as well as have the animals, man, and super-man.
@@ -56,21 +58,41 @@ The Plane of Elemental Mind (C), in its seven sub-divisions, comprises those ent
 7. The Plane of Human Mind
 
 
-The Plane of Human Mind, in its seven sub-divisions, comprises those manifestations of life and mentality which are common to Man, in his various grades, degrees, and divisions. In this connection, we wish to point out the fact that the average man of today occupies but the fourth sub-division of the Plane of Human Mind, and only the most intelligent have crossed the borders of the Fifth Sub-Division. 
+The Plane of Human Mind, in its seven sub-divisions, comprises those manifestations of life and mentality which are common to Man, in his various grades, degrees, and divisions. 
 
-It has taken the race millions of years to reach this stage, and it will take many more years for the race to move on to the sixth and seventh sub-divisions, and beyond. But, remember, that there have been races before us which have passed through these degrees, and then on to higher planes. 
+The average man of today occupies but the 4th sub-division of the Plane of Human Mind. Only the most intelligent have crossed the borders of the 5th Sub-Division. 
 
-Our own race is the fifth (with stragglers from the fourth) which has set foot upon The Path. And, then there are a few advanced souls of our own race who have outstripped the masses, and who have passed on to the sixth and seventh sub-division, and some few being still further on. The man of the Sixth Sub-Division will be "The Super-Man"; he of the Seventh will be "The Over-Man."
+It has taken the race millions of years to reach this stage. It will take many more years for the race to move on to the 6th and 7th sub-divisions, and beyond. There have been races before us which have passed through these degrees, and then on to higher planes. 
+
+Our own race is the 5th (with stragglers from the 4th) which has set foot upon The Path.
+
+There are a few advanced souls of our own race who have outstripped the masses, and who have passed on to the sixth and seventh sub-division, and some few being still further on. 
+
+- The man of the Sixth Sub-Division will be "The Super-Man"
+- The man of the Seventh will be "The Over-Man"
 
 In our consideration of the Seven Minor Mental Planes, we have merely referred to the Three Elementary Planes in a general way.
 
-We do not wish to go into this subject in detail in this work, for it does not belong to this part of the general philosophy and teachings. But we may say this much, in order to give you a little clearer idea, of the relations of these planes to the more familiar ones—the Elementary Planes bear the same relation to the Planes of Mineral, Plant, Animal and Human Mentality and Life, that the black keys on the piano do to the white keys.
+We do not wish to go into this subject in detail in this work, for it does not belong to this part of the general philosophy and teachings. 
 
-The white keys are sufficient to produce music, but there are certain scales, melodies, and harmonies, in which the black keys play their part, and in which their presence is necessary. They are also necessary as "connecting links" of soul-condition; entity states, etc., between the several other planes, certain forms of development being attained therein—this last fact giving to the reader who can "read between the lines" a new light upon the processes of Evolution, and a new key to the secret door of the "leaps of life" between kingdom and kingdom. 
+
+## Piano 
+
+In order to give you a little clearer idea, of the relations of these planes to the more familiar ones, we can say that the Elementary Planes bear the same relation to the Planes of Mineral, Plant, Animal and Human Mentality and Life, that the black keys on the piano do to the white keys.
+
+The white keys are sufficient to produce music, but there are certain scales, melodies, and harmonies, in which the black keys play their part, and in which their presence is necessary. 
+
+They are also necessary as "connecting links" of soul-condition; entity states, etc., between the several other planes, certain forms of development being attained therein—this last fact giving to the reader who can "read between the lines" a new light upon the processes of Evolution, and a new key to the secret door of the "leaps of life" between kingdom and kingdom. 
 
 The great kingdoms of Elementals are fully recognized by all occultists, and the esoteric writings are full of mention of them. The readers of Bulwer's "Sanoni" and similar tales will recognize the entities inhabiting these planes of life.
 
-Passing on from the Great Mental Plane to the Great Spiritual Plane, what shall we say? How can we explain these higher states of Being, Life and Mind, to minds as yet unable to grasp and understand the higher subdivisions of the Plane of Human Mind? The task is impossible. We can speak only in the most general terms. How may Light be described to a man born blind—how sugar, to a man who has never tasted anything sweet—how harmony, to one born deaf?
+Passing on from the Great Mental Plane to the Great Spiritual Plane, what shall we say? How can we explain these higher states of Being, Life and Mind, to minds as yet unable to grasp and understand the higher subdivisions of the Plane of Human Mind? 
+
+The task is impossible. 
+
+We can speak only in the most general terms. 
+
+How may Light be described to a man born blind—how sugar, to a man who has never tasted anything sweet—how harmony, to one born deaf?
 
 All that we can say is that the Seven Minor Planes of the Great Spiritual Plane (each Minor Plane having its seven sub-divisions) comprise Beings possessing Life, Mind and Form as far above that of Man of to-day as the latter is above the earth-worm, mineral or even certain forms of Energy or Matter. 
 
@@ -128,7 +150,7 @@ The legends of the Fallen Angels have a basis in actual facts, as all advanced o
 
 The striving for selfish power on the Spiritual Planes inevitably results in the selfish soul losing its spiritual balance and falling back as far as it had previously risen. 
 
-But to even such a soul, the opportunity of a return is given—and such souls make the return journey, paying the terrible penalty according to the invariable Law.
+But to even such a soul, the opportunity of a return is given. Such souls make the return journey, paying the terrible penalty according to the invariable Law.
 
 <!-- In conclusion we would again remind you that according to the Principle of Correspondence, which embodies the truth: "As Above so Below; as Below, so Above," all of the Seven Hermetic Principles are in full operation on all of the many planes, Physical Mental and Spiritual.  -->
 

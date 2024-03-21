@@ -117,7 +117,7 @@ This comprises 7 subplanes of higher forms of energy not as yet discovered by sc
 This comprises 7 sub-planes of energy so highly organized that it bears many of the characteristics of "life". But it is not recognized by the minds of ordinary men. It is available for the use of beings of the Spiritual Plane alone and is considered as "the divine power"*.
 
 
-> *Superphysics Note: In Superphysics, the divine power comes form the nature of the aether.
+> *Superphysics Note: In Superphysics, the divine power comes from the nature of the aether.
 
 
 The beings employing these are as "gods" compared even to the highest known humans.
