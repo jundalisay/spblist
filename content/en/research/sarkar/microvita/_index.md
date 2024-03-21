@@ -1,6 +1,6 @@
 ---
 title: "Microvita in a Nutshell"
-image: "/covers/discourses.jpg"
+image: "/covers/mv.png"
 weight: 2
 ---
 
