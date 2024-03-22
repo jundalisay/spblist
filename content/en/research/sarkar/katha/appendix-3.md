@@ -46,14 +46,17 @@ This means it is a particular position and state of consciousness, which we call
 
 We cannot say then that this entity has a separate existence* from the supreme and that it holds a particular position independent of the supreme. 
 
-> *Superphysics Note: Here, Santosananda reverts to dogma by unifying PR Sarkar and Anandamurti, in contradiction to Nagina's own accounts.
+> *Superphysics Note: Here, Santosananda reverts to dogma by unifying PR Sarkar and Anandamurti, in contradiction to Nagina's own accounts. Anandamurti is Taraka Brahma, PR Sarkar is just Its vehicle, just as Jesus was the medium for God, and Mohammad was the messenger for Allah. Nagina proves that metaphysics is the same everwhere.
 
 
 It has become supreme. As such, it is Supreme in its new status. 
 
 Take for example water of well, pond, and ocean. After due purification when they are mixed together, no trace of the distinctive characteristics of well, pond or ocean could be found. 
 
-What we find is just water. All distinctions have vanished since the factors creating distinctions exist no more now.
+What we find is just water*. All distinctions have vanished since the factors creating distinctions exist no more now.
+
+> *Superphysics Note: Here, Santosananda really means Saguna Brahma and not Taraka Brahma. So his point is useless here. 
+
 
 Similarly, a sadhaka in the elevated state of his mind passes through various experiences, and merges in the highest being when he has exhausted all his samskaras. 
 
@@ -63,13 +66,19 @@ But the fact is that he has already cast off the robe of unit entity.
 
 He can give up physical body whenever he desires. The bondage of mortal life ceases for him in that most exalted state.
 
-It is true Taraka Brahma has no need for sadhana for His salvation. 
+It is true Taraka Brahma has no need for sadhana* for His salvation. 
+
+> *Superphysics Note: Correct, Taraka Brahma does not need sadhana. It is PR Sarkar who needs sadhana to keep the real-time connection with Anandamurti alive.
+
 
 He is not in bondage so there is no question of salvation for him. He is perfect within Himself. 
 
 He is the Supreme Lord, the goal of all creatures and objects. But then the moot point is:
 
-When He takes a samkalpa to assume human form, how does it materialise? 
+When He takes a samkalpa to assume human form*, how does it materialise? 
+
+> *Superphysics Note: The recurring cycles of 3,500 years means the mechanism for Taraka Brahma descending is based on the position or alignment of the heavenly bodies which move in a natural cyclic way. 
+
 
 Since he has no previous life, how did he get a physical medium for expression?
 
@@ -82,14 +91,16 @@ It will be unnatural.
 
 What does he do then? He wants to take a human form and assign a role for himself. 
 
-At that moment, he chooses a medium whose all samskaras have been exhausted and therefore free from the qualification of unit entity. Obviously this medium can be any unit who has reached that supreme state since all are same at
-that pinnacled state of consciousness. 
+At that moment, he chooses a medium whose all samskaras have been exhausted and therefore free from the qualification of unit entity. Obviously this medium can be any unit who has reached that supreme state since all are same at that pinnacled state of consciousness. 
 
 And it is in this background, that a particular body may be said to possess a particular name at a given time of its existence in the evolutionary flow of cosmological order. 
 
 The mind of an entity requires a physical frame that is capable of maintaining parallelism with its psychic wave. And so Taraka Brahma chooses a body inhabited by a liberated soul.
 
-The mention of Shri Ram Chandra Upadhyaya in this regard is simply to denote that it was the medium accepted by Taraka Brahma. 
+The mention of Shri Ram Chandra Upadhyaya* in this regard is simply to denote that it was the medium accepted by Taraka Brahma. 
+
+> *Superphysics Note: This is wrong. Shri Ram Chandra Upadhyaya is merely PR Sarkar without Taraka Brahma. There is nothing special about him that is not special with other spiritual humans. 
+
 
 It was Ram Chandra Upadhyaya who got salvation and not the Taraka Brahma.
 
@@ -99,15 +110,17 @@ Thus, no communication gap appears to exist in relation to Shri Upadhyaya and hi
 
 Somewhere Baba has said. “Body is not the guru. The entity operating within the body is Guru... but the form has special significance since He is expressing through it." 
 
-Therefore use of the term ‘Baba’ by Nagina da in describing the previous lives is merely to state the narrative. 
+Therefore use of the term ‘Baba’ by Nagina in describing the previous lives is merely to state the narrative. 
 
-Quite obviously the body is presently the medium of expression of Taraka Brahma, but since, in the evolutionary flow of the cosmos it is related to Shri Upadhyaya Baba has been used in both the senses according to the context.
+The body is the medium of expression of Taraka Brahma. But since, in the evolutionary flow of the cosmos it is related to Shri Upadhyaya Baba has been used in both the senses according to the context.
 
-Another relevant point to be mentioned here is that Taraka Brahma is an Infinite, formless. Abstract entity. 
+Taraka Brahma is an Infinite, formless. Abstract entity. 
 
-How can he have a physical body, which is bound by the imperfection of limitations? It is therefore absurd to debate on the point that Taraka Brahma created an altogether a different and special body which doesn’t have to pass through saincara and pratisaincara. 
+How can he have a physical body, which is bound by the imperfection of limitations? 
 
-Such a proposition will be totally illogical and philosophically unsound. And precisely for this reason the theory of avatarvada is not supported b ‘Ananda Marga philosophy.
+It is therefore absurd to debate on the point that Taraka Brahma created a different and special body which doesn’t have to pass through saincara and pratisaincara.
+
+Such a proposition will be totally illogical and philosophically unsound. This is why the theory of avatarvada is not supported by Ananda Marga philosophy.
 
 Taraka Brahma is an entity and not a body. He chooses a body for his expression which he deems best. The form is not He, resident of the form is He. 
 
@@ -115,7 +128,7 @@ In his discourse on Tantra and Indo-Aryan civilization (see the book Abhimata) B
 
 By using the expression Brahma – knowing entities” implication is that Brahma alone knows Brahma and one realizing Brahma becomes Brahma himself. He is verily Brahma is that stance of his existence.
 
-While recording Baba’s words in the article, ”Unresolved Mystery” in Bodhikalpa (January 75), reverend brother (Late) Amitananda Avadhuta writes: “I have gone to Jamalpur hill for doing sadhana. I am sitting when someone tells in my ears, come with me. I will show you a better place for sadhana, follow me. I see no one but I follow the voice whose presence I feel so clearly and asks me to do sadhana. After a while, it tells me, Are you mad? Don’t, he is Maya. Are you P.R. Sarkar? See who your are! And a reel of my past life, my earlier lives, flashes clearly before my eyes and I realize who I am” (Here “I” is used for Baba).
+While recording Baba’s words in the article, ”Unresolved Mystery” in Bodhikalpa (January 75), Amitananda Avadhuta writes: “I have gone to Jamalpur hill for doing sadhana. I am sitting when someone tells in my ears, come with me. I will show you a better place for sadhana, follow me. I see no one but I follow the voice whose presence I feel so clearly and asks me to do sadhana. After a while, it tells me, Are you mad? Don’t, he is Maya. Are you P.R. Sarkar? See who your are! And a reel of my past life, my earlier lives, flashes clearly before my eyes and I realize who I am” (Here “I” is used for Baba).
 
 > *Superphysics Note: This is an example of Anandamurti talking to P.R. Sarkar. 
 
@@ -151,8 +164,8 @@ Hence total surrender can alone satisfy the inner urge of a soul.
 
 This is why when Amitanandaji requested Baba to untangle the riddle about strange factual events concerning Him, Baba's reply was:
 
-"Naham manye suvedeti no na vedeti veda ca.
-Yo nastadveda tadveda no na vedeti veda ca".
+*"Naham manye suvedeti no na vedeti veda ca.
+Yo nastadveda tadveda no na vedeti veda ca".*
 
 That is, "Neither do I say that I know Him, nor do I say that I don’t know Him, because I know He is beyond my knowing and not knowing.”
 

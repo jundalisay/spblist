@@ -4,7 +4,9 @@ title: "How to Solve Bangladesh's Economic Problems"
 description: "The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought"
 weight: 76
 date: 1989
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 icon: /icons/sarkar.png
 image: "/covers/mystic.jpg"
 ---

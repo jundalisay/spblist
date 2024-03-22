@@ -77,7 +77,7 @@ As a result of the clash, portions of the physical body get powdered down, trans
 - This is because its physical body itself is a creation of the Cosmic Mindstuff. 
 - This Cosmic Mindstuff keeps the subtler Identity-layer and the Ego-layer as its dormant aspects. 
 
-The first stages of the creation of mind is thus from natural (external-static-pressure) physical chemical reactions where vital energy is present. 
+**The first stages of the creation of mind is thus from natural (external-static-pressure) physical chemical reactions where vital energy is present.**
 - These first minds are made up of mere mindstuff, without ego (Ego-layer)
 - Without ego, the blind vital energy <!--  force práńáh --> cannot cause the <!--  activate the --> physical structure to act. 
 

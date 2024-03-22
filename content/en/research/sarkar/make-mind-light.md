@@ -4,7 +4,9 @@ weight: 6
 image: "/covers/discourses.jpg"
 description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 

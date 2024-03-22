@@ -5,7 +5,9 @@ weight: 28
 image: "/covers/discourses.jpg"
 description: "Buddhism believes in rebirth and transmigration of souls, so the question arises: Who is reborn if there is no Átman?"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Tattvadarshii, Acaryas, Sarvashúnyaváda]
 ---
 

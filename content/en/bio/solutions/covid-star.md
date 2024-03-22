@@ -8,6 +8,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmed.png
+aliases:
+  /medical/solutions/covid-star
 ---
 
 

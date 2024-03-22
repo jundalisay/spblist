@@ -8,6 +8,9 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmed.png
+aliases:
+  /medical/solutions/covid
+  /medical/physical/solutions/how-to-stop-covid  
 ---
 
 

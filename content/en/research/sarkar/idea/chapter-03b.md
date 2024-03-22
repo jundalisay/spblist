@@ -62,7 +62,9 @@ They represent the crest and trough of physical science.
 
 <!-- HOW TO REFLECT SUBTLER WAVES??? -->
 
-<!-- The existence of -->**A physical structure is nothing but a state of continuous vibration.** 
+<!-- The existence of -->
+
+**A physical structure is nothing but a state of continuous vibration.** 
 - Its very existence demands eternal movement. 
 - This vibration creates waves which strike the gateways of the sense-organs.
   - From them, a sympathetic vibration within the sensory nerve is conveyed to the actual organ in the brain. 

@@ -5,7 +5,9 @@ weight: 6
 image: "/covers/discourses.jpg"
 description: "Tantra flourished in Bengal due to the pervasive intermixture of Dravidian and Mongolian blood."
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Tantra, Bengal, Dravidians, Austrics]
 ---
 

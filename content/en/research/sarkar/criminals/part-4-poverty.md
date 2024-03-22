@@ -5,7 +5,9 @@ weight: 10
 image: "/covers/discourses.jpg"
 description: "Most crimes throughout the world are committed due to poverty"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Criminals]
 aliases:
   /research/sarkar/criminals/part-3-poverty

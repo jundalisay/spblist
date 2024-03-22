@@ -5,7 +5,9 @@ weight: 14
 image: "/covers/discourses.jpg"
 description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Society]
 ---
 

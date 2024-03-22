@@ -4,7 +4,9 @@ weight: 100
 image: "/covers/discourses.jpg"
 description: "How does the development of civilization take place? Civilization has an intimate relation with science. They progress together"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Culture, Civilization]
 ---
 

@@ -4,7 +4,9 @@ weight: 11
 image: "/covers/discourses.jpg"
 description: "Samája (society) means a group of people who move together"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Cardinal Principles]
 ---
 

@@ -10,17 +10,20 @@ description: "Keshab Chandra Sen and Sri Ramakrishna met for the first time at B
 
 Keshab Chandra Sen and Sri Ramakrishna met for the first time in the garden house of Jaygopāl Sen at Belgharia, a few miles from Dakshineśwar, where the great Brāhmo leader was staying with some of his disciples.
 
-In many respects, the two were poles apart, though an irresistible inner attraction was to make them intimate friends. The
-Master had realized God as Pure Spirit and Consciousness, but he believed in the various forms of God as well.
+In many respects, the two were poles apart, though an irresistible inner attraction was to make them intimate friends. 
 
-Keshab, on the other hand, regarded image worship as idolatry and gave allegorical explanations of the Hindu deities. Keshab was an orator and a writer of books and magazine articles; Sri Ramakrishna had a horror of lecturing and hardly 54knew how to write his own name. 
 
-Keshab's was famous locally and also in England. The Master still led a secluded life in the village of Dakshineśwar. Keshab emphasized social reforms for India's regeneration; to Sri Ramakrishna God-realization was the only goal of life. 
+Ramakrishna | Keshab
+--- | ---
+Realized God as Pure Spirit and Consciousness, but believed in the various forms of God as well | Regarded image worship as idolatry and gave allegorical explanations of the Hindu deities
+Had a horror of lecturing and hardly knew how to write his own name. | an orator and a writer of books and magazine articles.
+led a secluded life in the village of Dakshineśwar | was famous both locally and in England.
+God-realization was the only goal of life | emphasized social reforms for India's regeneration 
+the simple child of Kāli, the Divine Mother, though he too, in a different way, acknowledged Christ's divinity | a disciple of Christ and accepted in a diluted form the Christian sacraments and Trinity
+a paramahamsa and completely indifferent to the life of the world | a house-holder and took a real interest in the welfare of his children
 
-Keshab considered himself a disciple of Christ and accepted in a diluted form the Christian sacraments and Trinity; Sri
-Ramakrishna was the simple child of Kāli, the Divine Mother, though he too, in a different way, acknowledged Christ's divinity. 
 
-Keshab was a house-holder and took a real interest in the welfare of his children, whereas Sri Ramakrishna was a paramahamsa and completely indifferent to the life of the world. Yet, as their acquaintance ripened into friendship, Sri Ramakrishna and Keshab held each other in great love and respect. 
+Yet, as their acquaintance ripened into friendship, Sri Ramakrishna and Keshab held each other in great love and respect. 
 
 Years later, at the news of Keshab's death, the Master felt as if half his body had become paralysed. Keshab's concepts of the harmony of religions and the Motherhood of God were deepened and enriched by his contact with Sri Ramakrishna.
 
@@ -80,9 +83,9 @@ Pratāp Chandra Mazumdār, the right-hand man of Keshab and an accomplished Brā
 In the course of an article about Sri Ramakrishna, Pratāp wrote in the "Theistic Quarterly Review": 
 
 {{< box >}}
-"What is there in common between him and me? I, a Europeanized, civilized, self-centered, semi-sceptical, so-called educated reasoner, and he, a poor, illiterate, unpolished, half-idolatrous, friendless Hindu devotee? 
+What is there in common between him and me? I, a Europeanized, civilized, self-centered, semi-sceptical, so-called educated reasoner, and he, a poor, illiterate, unpolished, half-idolatrous, friendless Hindu devotee? 
 
-Why should I sit long hours to attend to him, I, who have listened to Disraeli and Fawcett, Stanley and Max Muller, and a whole host of European scholars and divines? … And it is not I only, but dozens like me, who do the same. … He worships Śiva, he worships Kāli, he worships Rāmā, he worships Krishna, and is a confirmed advocate of Vedāntic doctrines. … He is an idolater, yet is a faithful and most devoted Meditator on the perfections of the One Formless, Absolute, Infinite Deity. … His religion is ecstasy, his worship means transcendental insight, his whole nature burns day and night with a permanent fire and fever of a strange faith and feeling. … So long as he is spared to us, gladly shall we sit at his feet to learn from him the sublime precepts of purity, unworldliness, spirituality, and inebriation in the love of God. … He, by his childlike bhakti, by his strong conceptions of an ever-ready Motherhood, helped to unfold it [God as our Mother] in our minds wonderfully. … By associating with him we learnt to realize better the divine attributes as scattered over the 330 millions of deities of mythological India, the gods of the Purānās."
+Why should I sit long hours to attend to him, I, who have listened to Disraeli and Fawcett, Stanley and Max Muller, and a whole host of European scholars and divines? … And it is not I only, but dozens like me, who do the same. … He worships Śiva, he worships Kāli, he worships Rāmā, he worships Krishna, and is a confirmed advocate of Vedāntic doctrines. … He is an idolater, yet is a faithful and most devoted Meditator on the perfections of the One Formless, Absolute, Infinite Deity. … His religion is ecstasy, his worship means transcendental insight, his whole nature burns day and night with a permanent fire and fever of a strange faith and feeling. … So long as he is spared to us, gladly shall we sit at his feet to learn from him the sublime precepts of purity, unworldliness, spirituality, and inebriation in the love of God. … He, by his childlike bhakti, by his strong conceptions of an ever-ready Motherhood, helped to unfold it [God as our Mother] in our minds wonderfully. … By associating with him we learnt to realize better the divine attributes as scattered over the 330 millions of deities of mythological India, the gods of the Purānās.
 {{< /box >}}
 
 

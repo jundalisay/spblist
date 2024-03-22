@@ -5,7 +5,9 @@ weight: 30
 image: "/covers/discourses.jpg"
 description: "Shaḿkarácárya was a Shaeva Tántrika or a practitioner of Tantra who followed Shiva."
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Shankara, Tantra, Shiva]
 ---
 

@@ -317,7 +317,7 @@ paginate = 12
       url = "/material/solutions/millennium/"
       img= "/graphics/physics/prize.jpg"
       title = "Material Superphysics: Solutions to Millennium Prize Problems"
-      sub = "We use Qualimath and the Physics of Rene Descartes on all Millennium Prize Problems (2030)"      
+      sub = "We will use Qualimath and the Physics of Rene Descartes on all Millennium Prize Problems (2030)"
     [languages.en.params.tricon6.items.e]
       # url = "/social/cycles/"
       img= "/photos/objects/gold.jpg"
@@ -383,15 +383,16 @@ paginate = 12
       title = "Superphysics: Qualimath"
       sub = "Mathematics that applies the operations of mind onto qualities (2022-current)"
     [languages.en.params.tricon6.items.m]
-      url = "/superphysics/solutions/bullet-style-writing/"
-      img = "/photos/econ/writer.jpg"
-      title = "Superphysics: Bullet-Style Writing"
-      sub = "A writing style that makes reading easy and intuitive (2013-current)"
-    [languages.en.params.tricon6.items.n]
       url = "/superphysics/principles/chapter-12/"
       img = "https://www.pantrypoints.com/graphics/predict.jpg"
       title = "Superphysics: Artificial Sentience"
       sub = "We propose a model-based machine learning based on Superphysics (year 2080s)"
+    [languages.en.params.tricon6.items.n]
+      url = "/superphysics/solutions/bullet-style-writing/"
+      img = "/photos/econ/writer.jpg"
+      title = "Superphysics: Bullet-Style Writing"
+      sub = "A writing style that makes reading easy and intuitive (2013-current)"
+
 
     [languages.en.params.tricon7]
       heading = "Unite the World with Common Morals and Systems"
@@ -424,7 +425,7 @@ paginate = 12
       url = "/social/cycles/israel"
       img = "/flags/il.png"
       title = "Israel-Palestine: Unification"
-      sub = "A secular state that uses a common law book"
+      sub = "A secular state that uses a common law book that unites the morals in the Torah and the Quran"
     [languages.en.params.tricon7.items.f]
       # url = "/social/cycles/russia"
       img = "/flags/my.png"
@@ -439,7 +440,7 @@ paginate = 12
       url = "/social/cycles/afghanistan"
       img= "/flags/af.png"
       title = "Afghanistan: A Female Guardian"
-      sub = "Establish a Female Protector of Afghanistan which has veto over the President and will secure civil laws"
+      sub = "Establish a Female Protector of Afghanistan (as a Socratic Guardian) which has veto over the President and will secure civil laws"
     [languages.en.params.tricon7.items.i]
       url = "/social/cycles/japan/"
       img= "/flags/jp.png"

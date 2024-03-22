@@ -11,17 +11,19 @@ aliases:
 ---
 
 
+In every epoch, the ideas of the ruling class are the ruling ideas. The class with the ruling material force is at the same time its ruling intellectual force. 
 
-The ideas of the ruling class are in every epoch the ruling ideas. The class with the ruling material force is at the same time its ruling intellectual force. 
+The class which controls material production also has control of mental production at the same time.
+- The ideas of those who lack the means of mental production are subject to the ruling ideas. 
 
-The class which controls material production also has control over the means of mental production at the same time.
-- The ideas of those who lack the means of mental production are subject to it. 
+The ruling ideas are nothing more than the idea-based expression of the dominant material relationships*.
 
-The ruling ideas are nothing more than the idea-based expression of the dominant material relationships.
+>  *Superphysics Note: In our Supersociolog, the ruling ideas are based on the 4 Cycles, one manifestattion of which is material relationship.
+
 
 <!-- , the dominant material relationships grasped as ideas. -->
 
-Hence it is the ideas of dominance in the relationships which make the one class the ruling one.
+Hence the ruling class is the ruling class because of its ideas of dominance in the relationships.
 
 The individuals composing the ruling class have consciousness among other things, and therefore think. They:
 - rule as thinkers
@@ -102,15 +104,14 @@ The class doing the revolution can do this because its interest really is more c
 
 <!-- , because under the pressure of hitherto existing conditions its interest has not yet been able to develop as the particular interest of a particular class.  -->
 
-Its victory, therefore, benefits also many individuals of the other classes which are not winning a dominant position, but only insofar as it now puts these individuals in a position to raise themselves into the ruling class. 
-
-When the French bourgeoisie overthrew the aristocracy, it allowed many proletarians to raise themselves above the proletariat, but only insofar as they become bourgeois. 
+Therefore, its victory benefits also many individuals of the other classes that do not have a dominant position, by allowing them to raise themselves into the ruling class. 
+- When the French bourgeoisie overthrew the aristocracy, it allowed many proletarians to raise themselves above the proletariat, but only insofar as they become bourgeois. 
 
 Every new class, therefore, achieves its hegemony only on a broader basis than that of the class ruling previously, whereas the opposition of the non-ruling class against the new ruling class later develops all the more sharply and profoundly. 
 
 Both these things determine the fact that the struggle to be waged against this new ruling class, in its turn, aims at a more decided and radical negation of the previous conditions of society than could all previous classes which sought to rule.
 
-This whole semblance, that the rule of a certain class is only the rule of certain ideas, comes to a natural end, of course, as soon as class rule in general ceases to be the form in which society is organised, that is to say, as soon as it is no longer necessary to represent a particular interest as general or the “general interest” as ruling.
+This whole semblance, that the rule of a certain class is only the rule of certain ideas, naturally ends as soon as class rule in general ceases to be the form in which society is organised, that is to say, as soon as it is no longer necessary to represent a particular interest as general or the “general interest” as ruling.
 
 Once the ruling ideas have been separated from the ruling individuals and, above all, from the relationships which result from a given stage of the mode of production, and in this way the conclusion has been reached that history is always under the sway of ideas, it is very easy to abstract from these various ideas “the idea,” the notion, etc. as the dominant force in history, and thus to understand all these separate ideas and concepts as “forms of self-determination” on the part of the concept developing in history. 
 

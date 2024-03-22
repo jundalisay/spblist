@@ -5,7 +5,9 @@ weight: 20
 image: "/covers/discourses.jpg"
 description: "The popular allegation that lawyers earn their living by deceiving others and by encouraging litigation is, according to my understanding, not totally correct"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [vrtti, businessmen]
 ---
 

@@ -5,7 +5,9 @@ weight: 8
 image: "/covers/discourses.jpg"
 description: "It is absolutely wrong to make a distinction between Hindu Tantra and Buddhist Tantra."
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 

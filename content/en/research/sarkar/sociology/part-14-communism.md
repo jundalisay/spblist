@@ -5,7 +5,9 @@ weight: 36
 image: "/covers/discourses.jpg"
 description: "Communism must go immediately or be removed without any delay"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Communism, Karl Marx]
 ---
 

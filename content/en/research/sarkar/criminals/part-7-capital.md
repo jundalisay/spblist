@@ -5,7 +5,9 @@ weight: 16
 image: "/covers/discourses.jpg"
 description: "In most countries crime is defined with reference to a sense of pápa [vice] and puńya [virtue]"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Capital Punishment]
 ---
 

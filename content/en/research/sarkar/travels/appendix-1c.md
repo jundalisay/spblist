@@ -4,7 +4,9 @@ title: "Increasing Agricultural Production"
 description: "The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought"
 weight: 74
 date: 1988
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 icon: /icons/sarkar.png
 image: "/covers/mystic.jpg"
 ---

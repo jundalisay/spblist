@@ -68,6 +68,9 @@ The mindstuff has an Identity-layer and an Ego-layer (Mahattattva and Ahaḿtatt
 
 In the crudification <!-- cycle, extroversial saiṋcara --> process, mindstuff gradually crudifies under the influence of static Activity until the crude solid is created. 
 
+
+## 5 Portions or Kosas
+
 This process of crudification of mindstuff is coordinated between the Identity-layer and the Ego-layer. This process is divided into 5 <!--portions --> portions or kosas. Each portion has a relative density of crudeness developed through the bondage of the static principle.
 
 These 5 portions are the crude portion of the Macrocosmic Mind where it displays its will. 

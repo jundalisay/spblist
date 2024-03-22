@@ -140,7 +140,10 @@ Such excessive care of the body, when carried beyond the rules of gymnastic, hin
 Yes, it is equally incompatible with the management of a house, an army, or an office of state. Most importantly, it is irreconcileable with any kind of study or self-reflection.
 
 Headache and giddiness are suspected to come from philosophy. Therefore, all practice of virtue in the higher sense should be absolutely stopped.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 A man always imagines that he is being made ill. He is in constant anxiety about the state of his body. That's why our politic Asclepius showed the power of his medicine only to healthy persons who had a real ailment. He cured these by purges and operations. He consulted the interests of the State.
 
 But he does not attempt to cure bodies penetrated through and through by disease<!-- by gradual processes of evacuation and infusion -->. He did not want to lengthen good-for-nothing lives or to have weak fathers begetting weaker sons. If a man was not able to live in the ordinary way, he had no business to cure him. Such a cure would have been of no use either to himself, or to the State.

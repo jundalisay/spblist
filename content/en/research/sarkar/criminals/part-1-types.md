@@ -5,7 +5,9 @@ weight: 4
 image: "/covers/discourses.jpg"
 description: "There are 5 categories of criminals"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Criminals]
 ---
 

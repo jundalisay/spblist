@@ -5,7 +5,9 @@ weight: 14
 image: "/covers/discourses.jpg"
 description: "People judge the mistakes of others to the best of their own intellectual capacities"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Judges]
 ---
 

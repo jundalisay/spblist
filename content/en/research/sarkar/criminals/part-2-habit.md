@@ -5,7 +5,9 @@ weight: 6
 image: "/covers/discourses.jpg"
 description: "Ordinary people manage to keep their base propensities under control through internal moral reasoning"
 icon: "/icons/sarkar.png"
-contributors: ['PR Sarkar']
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 keywords: [Criminals, Ripus]
 ---
 
