@@ -1,11 +1,11 @@
 ---
 heading: "Chapter 1"
 linkTitle: Chapter 1
-title: "The Second Law of Value"
+title: "The Third Law of Value"
 # date: 2022-01-03
 # date: 2022-01-31
-image: "/graphics/econ/law2.jpg"
-description: "The Second Law states that real value emerges from nominal value and is maximized by following one's true interests or dharma."
+image: "/graphics/econ/law3.jpg"
+description: "The Third Law states that real value emerges from nominal value and is maximized by following one's true interests or dharma."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,16 +13,16 @@ weight: 10
 toc: false
 ---
 
-<!-- ### The Second Law of Value: The Invisible Hand of Dharma as Real Prices -->
+<!-- ### The Third Law of Value: The Invisible Hand of Dharma as Real Prices -->
 
-[The First Law of Value](/social/economics/principles/part-1/chapter-01) introduced Exchangeable Value which is seen as Nominal Price to the Buyer. The Second Law of Value introduces **Real Price** which is the Exchangeable Value to the Seller. 
+[The First Law of Value](/social/economics/principles/part-1/chapter-01) introduced Exchangeable Value which is seen as Nominal Price to the Buyer. The Third Law of Value introduces **Real Price** which is the Exchangeable Value to the Seller.
 - Real value is the value of the effort, trouble, hardship, and sentimentalism that is put into the Item by its owner or seller. This leads to [the Effort theory of value](/social/economics/principles/part-2/chapter-01b/) that we derived from Adam Smith, which is opposite of the Labor theory of value of Karl Marx
 - Nominal value is the value of the Item to its buyer/s who may or may not have idea of its real value to its owner
 
-The Second Law of Value states that **value goes from areas with high value to areas with low value in order to spread out the value and remove the lack in society**. This mirrors the Second Law of Thermodynamics that states that energy goes from hot to cold to equalize the heat, or that organized systems become unstable as time passes. It also leads to the concept of economic development just as the thermodynamics law leads to the concept of time*. 
+The Third Law of Value states that **value goes from areas with high value to areas with low value in order to spread out the value and remove the lack in society**. This mirrors the Third Law of Thermodynamics that states that energy goes from hot to cold to equalize the heat, or that organized systems become unstable as time passes. It also leads to the concept of economic development just as the thermodynamics law leads to the concept of time*. 
 
 
-![Second Law](/graphics/econ/law2.jpg)
+![Third Law](/graphics/econ/law3.jpg)
 
 > *It explains why people always make an effort to better themselves just as time always moves forward. The causal mechanism is the cycling of the Positive and Negative forces
 
@@ -33,6 +33,8 @@ This demand manifests as the arbitrary motives such as profit, duty, conservatio
 
 > *In Medical Superphysics, this dynamism or entropy manifests as the mind jumping to conclusions unless it is restrained by conscience. In Supersociology, this manifests as popular opinion turning into mob rule unless it is restrained by the common interest.
 
+
+We put the Third Law way ahead of the Second Law to represent the current reality where liberalism enshrines the self instead of society. 
 
 
 ## The Effort Theory of Value
@@ -86,7 +88,7 @@ Cake Market Price  | Day 1 Buyers | Day 2 Buyers | Day 3 Buyers | Chef Revenue a
 $4 | C | D, E | demand satisfied | $4 | $12 (3 cakes) | all ok | 3 days
 
 
-{{< img src="/graphics/law2.png" alt="Second Law Definition" cap="The second law of value creates a downward sloping supply curve in pantrynomics. In Economics, it is limited to the profit-motive which causes its supply curve to slope upwards. While the concept of nominal value exists in Economics, real value does not. For example, Real GDP is still measured in money and not in commodities" >}}
+{{< img src="/graphics/law2.png" alt="Third Law Definition" cap="The Third Law of value creates a downward sloping supply curve in pantrynomics. In Economics, it is limited to the profit-motive which causes its supply curve to slope upwards. While the concept of nominal value exists in Economics, real value does not. For example, Real GDP is still measured in money and not in commodities" >}}
 
 
 
@@ -135,12 +137,12 @@ Total | | | $7 | $12 | 	|
 
 In contrast, the non-profit-maximizing system of pantrynomics earns through **primary arbitrage** or through the differences in hardship incurred in making a product or service. 
 
-In the example, Mr. Chef is able to make quality cakes at low effort because of his great skill in making them. **His profit is from increasing his mastery which lowers his costs, and not in stifling supply by raising prices.**  His mastery can be achieved faster if he were passionate in his chosen business or employment. This is why we call the Second law of Value as the [Invisible Hand of the Tao](/pantrynomics/invisible-hand-of-tao) that shows itself through the effort theory of value-->
+In the example, Mr. Chef is able to make quality cakes at low effort because of his great skill in making them. **His profit is from increasing his mastery which lowers his costs, and not in stifling supply by raising prices.**  His mastery can be achieved faster if he were passionate in his chosen business or employment. This is why we call the Third Law of Value as the [Invisible Hand of the Tao](/pantrynomics/invisible-hand-of-tao) that shows itself through the effort theory of value-->
 
 
-## The Resulting Concepts from the Second Law
+## The Resulting Concepts from the Third Law
 
-The resulting concepts from the Second Law of Value are:
+The resulting concepts from the Third Law of Value are:
 
 - The invisible hand of dharma
 - The Force of Capital

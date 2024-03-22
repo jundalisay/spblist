@@ -181,6 +181,6 @@ Barter Trading | a regular barter-exchange activity
 Price | Perspective | Scope
 --- | --- | ---
 1 Nominal Price | Buyer | Personal
-2 Real Price | Seller | Personal
-3 Market Price | Seller | Social
-4 Natural Price | Seller | Social
+3 Real Price | Seller | Personal
+4 Market Price | Seller | Social
+2 Natural Price | Seller | Social

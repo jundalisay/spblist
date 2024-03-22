@@ -18,7 +18,7 @@ Unlike Neoclassical Economics which only focuses on money, revenue, and business
 
 As such, we divide this book into four parts, with each part representing a law of exchangeable value. 
 
-Theme 				| Law 1 						| Law 2 				| Law 3 				| Law 4
+Theme 				| Law 1 						| Law 3 				| Law 4 				| Law 2
 ---- 				| --- 							| --- 					| ---					 | --- 
 1 Name 				 | Nominal (Needs) 		| Real (Effort Theory + Dharma) 	| Market (Exchange)  | Natural (Regulations) 
 2 Energy Manifestation | Commodities and Stores of Value | Fixed Capital 		| Circulating Capital 	| Taxes
