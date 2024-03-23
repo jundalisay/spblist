@@ -291,7 +291,7 @@ paginate = 12
 
     [languages.en.params.tricon5.items.o]
       url = "https://en.wikipedia.org/wiki/Samadhi"
-      img = "/photos/meta/buddhism.jpg"
+      img = "/photos/med/meditate.jpg"
       title = "Superphysics: Personal Samadhi"
       sub = "Testing began in 2004 by dropping Christianity and adopting Asian Spirituality. Samadhi was achieved in 2008, leading to the precursor of Superphysics in 2012"
    [languages.en.params.tricon5.items.n]
