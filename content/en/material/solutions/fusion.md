@@ -242,6 +242,8 @@ So the steps towards sustainable fusion are:
 3. Make that plasma flow under extreme compression and confinement
 
 
+## Update: February 2024
+
 We have done baby steps wtih Step 1 by making a 1 kilogram mass lighter by 2 grams, and a 300 gram mass lighter by 1 gram. But more specialized equipment, which we do not have, is needed to reduce the weight more.
 
 So for now, we switch to more practical and useful Cartesian experiments, such as a [top-down fire setup](https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac/?trackingId=gS8C5O58Ru6A40bi5D2mPA%3D%3D)

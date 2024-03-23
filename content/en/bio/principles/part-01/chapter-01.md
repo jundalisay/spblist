@@ -4,7 +4,7 @@ title: "What are Elementals?"
 date: 2024-03-14
 weight: 2
 image: "/photos/meta/fairy.jpg"
-description: "Elementals are made up of Yaksas, "
+description: "Paracelsus calls Elementals as spirit-beings that have human-like properties. "
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,21 +12,57 @@ icon: /icons/spmed.png
 ---
 
 
-> Note: This topic is quite huge and we do not want to Indian or Chinese or native tradition by getting facts wrong. However, we also want to make some corrections on misconceptions. So it will take time for us to complete this part.
+> Note: This topic is quite huge and we do not want to disrespect Indian or Chinese or native tradition by getting facts wrong. However, we also want to clear up some misconceptions. So it will take time for us to complete this part.
 
 
+## The Two Paths of Life
 
-Bio-Superphysics applies the 5 Elements to the metaphysical domain in order to classify the Elementals. 
+Superphysics allows 2 Domains in Reality: Physical and Metaphysical
 
-Elementals are metaphysical beings that can cross over to physical reality as to produce physical effects. This makes them different from metaphysical beings that cannot create such effects, usually because they are so subtle and so far away from physicality. 
+This is applied in Bio Superphysics which divides the path of life into two: The Physical and the Metaphysical Tracks. 
 
-Layer | Class
---- | ---
-Aethereal | 
-Spatial |
-Radiant |
-Convertible |
-Material | 
+{{< img src="/graphics/bio/elemental.jpg" alt="Elemental Tracks" cap="The Circle of Life begins with the Idea of the Supreme. It then gets crudified as matter in stars which are 'deployed' throughout the universe via supernovae. It then evolves through the Layers or Elements until it becomes aethereal and returns to the Supreme">}}
+
+The Physical Track is made up of physical life that we all know of. This is divided into kingdoms and species such as those of bacteria, plants, animals, and humans.  
+
+The Metaphysical Track is made up of metaphysical life that we commonly call as spirits, deities, or elementals. Like physical life, this has many divisions which we organize according to the 5 Layers or Elements (This is why they are called Elementals in the first place). 
+
+We only discuss the Elementals that have physical effects and not for any impractical speculation. We then use these effects to solve problems in the Physical Domain. 
+
+
+## What are Elementals?
+
+Paracelsus calls Elementals as spirit-beings that have human-like properties. 
+
+We think that such properties arise from them having chakras, similar to how humans and animals have chakras.  
+
+We define Elementals as metaphysical beings that can cross over to physical reality as to produce physical effects. This makes them different from pure metaphysical beings that cannot create such effects, usually because they are so subtle and so far away from physicality. Such entities, we call as spirits. 
+
+Elementals are useful in gauging the health of Nature. The destruction of natural environments cause the Positive Elementals to die out, allowing the negative ones to flourish. It is these Negative Elementals that implant evil desires and ideas into physical life, in humans, animals, etc. This then manifests as the degeneration of society through wars, crime, immorality, etc. 
+
+Therefore, the knowlege of Elementals is essential in creating a better world.  
+
+
+## The 5 Elements
+
+We go with Paracelsus and classify the Elementals according to the Elements. 
+
+<!-- Bio-Superphysics applies the 5 Elements to the metaphysical domain in order to classify the Elementals.  -->
+
+Our main reference for this is Paracelsus and PR Sarkar, as well as Hindu, Buddhist, and Taoist tradition as these are very common in India. 
+
+Indians do not call them “fairies” or “nymphs”. They have their own ancient names for the many varieties of these spirits - Devas, Maruts, Adityas, Rudras, Vasus, Asuras, Daityas, Danavas, Kalakeyas, Nivatakavachas, Panis, Ganas, Abhasvaras, Pramathas, Raumyas, Nagas, Uragas, Pannagas, Mahoragas, Apsaras, Gandharvas, Kinnaras, Vidyadharas, Charanas, Sadhyas, Kindevas, Yakshas, Guhyakas, Gramanis, Dakinis, Dakas, Rakshasas, Brahmarakshasas, Krodhavasas, Nairratas, Suparnas, Bhutas, Pretas, Pishachas, Vetalas, Darbas, Yatudhanis, Makaras, etc.
+
+We categorize the many Elementals into Five: 
+
+Layer | Indian Class Name | Paracelsus Name
+--- | --- | ---
+Aethereal | Siddha, Vidyadhara, Videhaliina | ?
+Spatial | Ghandarva | Sylphs
+Radiant | Yaksa | Vulcani
+Convertible | Kinnara | Nymphs
+Material | Prakrtilina | Gnomes
+
 
 <!-- 1 prakrtiliina 
 2  Kinnara
@@ -39,9 +75,7 @@ Material |
 
 Like anything above the Phyiscal Radiant Layer, these can be triggered by sound of the Aethereal layer. 
 
-Our main reference for this is Paracelsus and PR Sarkar, as well as Hindu, Buddhist, and Taoist tradition. 
 
-These are very common in India. 
 
 <!-- Elementals in Hindiusm are called Yakshis and Yakshas who guards treasures, equivalent to Gnomes. -->
 
@@ -58,7 +92,7 @@ Many people in India have told me stories of meeting such spirits face to face, 
 Devas are felt to guide the processes of nature, such as the growth of plants, and to reside within the very light of sun, moon, and stars, and within the elements of earth, water, fire, air, and ether. Indian farmers especially propitiate them as they have since the Vedas were revealed. The reverential worship of nymphs continues in India today as fervently as ever it did in Pagan Greece. Certain trees are especially sacred to particular spirits. -->
 
 
-Of course Indians do not call them “fairies” or “nymphs”. They have their own ancient names for the many varieties of these spirits - Devas, Maruts, Adityas, Rudras, Vasus, Asuras, Daityas, Danavas, Kalakeyas, Nivatakavachas, Panis, Ganas, Abhasvaras, Pramathas, Raumyas, Nagas, Uragas, Pannagas, Mahoragas, Apsaras, Gandharvas, Kinnaras, Vidyadharas, Charanas, Sadhyas, Kindevas, Yakshas, Guhyakas, Gramanis, Dakinis, Dakas, Rakshasas, Brahmarakshasas, Krodhavasas, Nairratas, Suparnas, Bhutas, Pretas, Pishachas, Vetalas, Darbas, Yatudhanis, Makaras, etc.
+
 
 
 <!-- 

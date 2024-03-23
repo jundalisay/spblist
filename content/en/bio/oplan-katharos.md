@@ -7,6 +7,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /avatars/jun.jpg
+draft: true
 ---
 
 
