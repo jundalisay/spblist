@@ -45,15 +45,15 @@ Therefore, the knowlege of Elementals is essential in creating a better world.
 
 ## The 5 Elements
 
-We go with Paracelsus and classify the Elementals according to the Elements. 
+We go with Paracelsus and classify the Elementals according to the Elements which we call Layers in Superphysics. 
 
 <!-- Bio-Superphysics applies the 5 Elements to the metaphysical domain in order to classify the Elementals.  -->
 
-Our main reference for this is Paracelsus and PR Sarkar, as well as Hindu, Buddhist, and Taoist tradition as these are very common in India. 
+Aside from Paracelsus, our other references for this are PR Sarkar, Hindu, Buddhist, and Taoist tradition as these are very common in India. 
 
 Indians do not call them “fairies” or “nymphs”. They have their own ancient names for the many varieties of these spirits - Devas, Maruts, Adityas, Rudras, Vasus, Asuras, Daityas, Danavas, Kalakeyas, Nivatakavachas, Panis, Ganas, Abhasvaras, Pramathas, Raumyas, Nagas, Uragas, Pannagas, Mahoragas, Apsaras, Gandharvas, Kinnaras, Vidyadharas, Charanas, Sadhyas, Kindevas, Yakshas, Guhyakas, Gramanis, Dakinis, Dakas, Rakshasas, Brahmarakshasas, Krodhavasas, Nairratas, Suparnas, Bhutas, Pretas, Pishachas, Vetalas, Darbas, Yatudhanis, Makaras, etc.
 
-We categorize the many Elementals into Five: 
+We categorize these many Elementals into Five: 
 
 Layer | Indian Class Name | Paracelsus Name
 --- | --- | ---
@@ -74,6 +74,25 @@ Material | Prakrtilina | Gnomes
 
 
 Like anything above the Phyiscal Radiant Layer, these can be triggered by sound of the Aethereal layer. 
+
+
+## Ways to Detect the 5 Elementals
+
+
+There are various ways to detect Elementals just as you can detect animals through their sound, smell, sight, or touch.
+
+The most common way is through a developed ajna chakra which acts as a window or third eye to the Elemental universe. 
+
+{{< img src="/photos/med/meditate.jpg" alt="Meditation" cap="Humans can 'see' the Elemental Universe through their ajna chakra. It can be 'felt' through the heart chakra and others">}}
+
+Our preferred technique is to meditate with your back touching against a large tree. This creates a physical contact connection with your spine and the tree which then has connections to the Earth and the Elemental Universe. 
+
+An important part is to hold the proper mudra to let the aethereal energy circulate through your body. For this we have tried 2 mudras:
+- pranayama open handed (in the photo above)
+- right hand over left hand* (not interlocking) with thumb touching and hands on the navel area  
+
+> *Left over right hand emits energy
+
 
 
 
