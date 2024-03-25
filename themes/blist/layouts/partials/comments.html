@@ -1,7 +1,9 @@
+
+
 <section class="" id="contact">
   <div class="px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
     <div class="mb-4">
-      <div class="mb-6 max-w-3xl text-center sm:text-center md:mx-auto md:mb-12">
+      <div class="mb-6 text-center sm:text-center md:mx-auto md:mb-12">
           <p class="text-base font-semibold uppercase tracking-wide text-green-600 dark:text-green-200">
              Any Comments? Post them below!
           </p>
@@ -36,6 +38,8 @@
           <button type="submit" class="w-full hover:bg-green-600 bg-green-800 text-white px-6 py-3 font-xl rounded-md sm:mb-0">Submit Comment</button>
         </div>
     </form>
+
+
 
     {{ with .Params.Comments }}
       {{- range . }}
