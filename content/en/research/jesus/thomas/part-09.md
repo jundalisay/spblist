@@ -1,8 +1,8 @@
 ---
-heading: Part 3
-title: "The Gospel of Thomas" 
-description: ""
-weight: 10
+heading: Part 9
+title: "Serving Two Masters" 
+description: "it is impossible for a servant to serve two masters"
+weight: 20
 image: "/covers/jesus.jpg"
 ---
 
@@ -25,7 +25,7 @@ Yet I have said, whichever one of you comes to be a child will be acquainted wit
 
 (47) Jesus said, "It is impossible for a man to mount two horses or to stretch two bows.
 
-And it is impossible for a servant to serve two masters; otherwise, he will honor the one and treat the other contemptuously. No man drinks old wine and immediately desires to drink new wine.
+It is impossible for a servant to serve two masters. Otherwise, he will honor the one and treat the other contemptuously. No man drinks old wine and immediately desires to drink new wine.
 
 And new wine is not put into old wineskins, lest they burst; nor is old wine put into a new wineskin, lest it spoil it. An old patch is not sewn onto a new
 garment, because a tear would result."

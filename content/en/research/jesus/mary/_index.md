@@ -1,0 +1,6 @@
+---
+title: "The Gospel of Mary Magdalene"
+description: "The Gospel of Mary is from the Berlin Gnostic Codex"
+weight: 6
+image: "/covers/jesus.jpg"
+---

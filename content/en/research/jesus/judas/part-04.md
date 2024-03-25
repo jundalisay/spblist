@@ -2,7 +2,7 @@
 heading: Part 4
 title: "The Betrayal" 
 description: "These are the secret sayings which the living Jesus spoke and which Didymos Judas Thomas wrote down."
-weight: 8
+weight: 10
 image: "/covers/jesus.jpg"
 ---
 

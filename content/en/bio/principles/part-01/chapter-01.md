@@ -53,6 +53,9 @@ Aside from Paracelsus, our other references for this are PR Sarkar, Hindu, Buddh
 
 Indians do not call them “fairies” or “nymphs”. They have their own ancient names for the many varieties of these spirits - Devas, Maruts, Adityas, Rudras, Vasus, Asuras, Daityas, Danavas, Kalakeyas, Nivatakavachas, Panis, Ganas, Abhasvaras, Pramathas, Raumyas, Nagas, Uragas, Pannagas, Mahoragas, Apsaras, Gandharvas, Kinnaras, Vidyadharas, Charanas, Sadhyas, Kindevas, Yakshas, Guhyakas, Gramanis, Dakinis, Dakas, Rakshasas, Brahmarakshasas, Krodhavasas, Nairratas, Suparnas, Bhutas, Pretas, Pishachas, Vetalas, Darbas, Yatudhanis, Makaras, etc.
 
+{{< img src="/photos/meta/fairy.jpg" alt="" cap="Faeries are 'devatas' in Hinduism." >}}
+
+
 We categorize these many Elementals into Five: 
 
 Layer | Indian Class Name | Paracelsus Name
@@ -81,7 +84,7 @@ Like anything above the Phyiscal Radiant Layer, these can be triggered by sound 
 
 There are various ways to detect Elementals just as you can detect animals through their sound, smell, sight, or touch.
 
-The most common way is through a developed ajna chakra which acts as a window or third eye to the Elemental universe. 
+The most effective way that we know is through a developed ajna chakra which acts as a window or third eye to the Elemental universe. 
 
 {{< img src="/photos/med/meditate.jpg" alt="Meditation" cap="Humans can 'see' the Elemental Universe through their ajna chakra. It can be 'felt' through the heart chakra and others">}}
 
@@ -92,6 +95,11 @@ An important part is to hold the proper mudra to let the aethereal energy circul
 - right hand over left hand* (not interlocking) with thumb touching and hands on the navel area  
 
 > *Left over right hand emits energy
+
+
+
+Another, but far less effective, way is through psychedelics. These alter the brain in order to allow the perception of the other layers of reality. However, this also might cause physical damage, aside from building dependence, and so it is not recommended. 
+
 
 
 

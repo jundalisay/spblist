@@ -1,8 +1,8 @@
 ---
-heading: Part 4
+heading: Part 10
 title: "The Gospel of Thomas" 
 description: ""
-weight: 14
+weight: 140
 image: "/covers/jesus.jpg"
 ---
 

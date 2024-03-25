@@ -2,7 +2,7 @@
 heading: Part 2
 title: "Jesus and Judas" 
 description: "These are the secret sayings which the living Jesus spoke and which Didymos Judas Thomas wrote down."
-weight: 4
+weight: 6
 image: "/covers/jesus.jpg"
 ---
 
