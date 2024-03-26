@@ -190,7 +190,6 @@ paginate = 12
       sub = "See our model's predictions for various countries"
 
 
-
     [languages.en.params.tricon8]
       heading = "The Waves in the Economy"
       title = "Supereconomics"
@@ -378,7 +377,7 @@ paginate = 12
       title = "Social Superphysics: Confirmation Elections"
       sub = "A democratic election system that is done annually (year 2100s)"
     [languages.en.params.tricon6.items.m]
-      # url = "/social/supersociology/solutions/confirmation-elections/"
+      url = "/research/hume/essays/part-2/16-the-ideal-system-of-government/"
       img = "/covers/hume.jpg"
       title = "Social Superphysics: Confederated World Government"
       sub = "The States that federated according to the Points-based economic system are then unified through the 'Ideal Commonwealth' plan of David Hume (year ?)"
@@ -390,16 +389,20 @@ paginate = 12
       title = "Superphysics: Qualimath"
       sub = "Mathematics that applies the operations of mind onto qualities (2022-current)"
     [languages.en.params.tricon6.items.p]
-      url = "/superphysics/principles/chapter-12/"
-      img = "https://www.pantrypoints.com/graphics/predict.jpg"
-      title = "Superphysics: Artificial Sentience"
-      sub = "We propose a model-based machine learning based on Superphysics (year 2080s)"
-    [languages.en.params.tricon6.items.n]
       url = "/superphysics/solutions/bullet-style-writing/"
       img = "/photos/econ/writer.jpg"
       title = "Superphysics: Bullet-Style Writing"
       sub = "A writing style that makes reading easy and intuitive (2013-current)"
-
+    [languages.en.params.tricon6.items.q]
+      url = "/superphysics/principles/chapter-08e"
+      img = "/graphics/meta/ngu.jpg"
+      title = "Superphysics: The NTCFD Model for Goal Setting"
+      sub = "We replace SMART with NTCFD based on the 5 Layers (2023)"
+    [languages.en.params.tricon6.items.z]
+      url = "/superphysics/principles/chapter-12/"
+      img = "https://www.pantrypoints.com/graphics/predict.jpg"
+      title = "Superphysics: Artificial Sentience"
+      sub = "We propose a model-based machine learning based on Superphysics (year 2080s)"
 
     [languages.en.params.tricon7]
       heading = "Unite the World with Common Morals and Systems"

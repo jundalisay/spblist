@@ -48,13 +48,14 @@ This can happen when the comet is still far from the sun's territory.
 
 
 Its far distance also impedes it from receiving as many rays as when it is ready to enter the sun's territory.
-- That comet receives rays from the star at the center of the heaven containing it.
-- It cannot send those rays back toward the earth any more than the new moon can send back those of the sun.
+- That comet receives rays from the star at the center of the gravitational territory containing it.
+- It cannot send those rays back towards the earth any more than the new moon can send back those of the sun.
 
 Those comets possess a certain refraction of their rays.
 - This is why some of them appear around the comets as a tail or a curl*. 
 
 > *Translator's Note: In the Assayer (trans. Drake in Drake and O’Malley, Controversy (see n.45), 190), Galileo describes the phenomenon as a “curl” [chioma]. Descartes’ term is chevelure, which literally means “head of hair”
+
 
 {{< img src="/graphics/physics/world15c.gif" alt="Comets" cap="" >}}
 

@@ -11,18 +11,22 @@ icon: /icons/newton.png
 
 The hypothesis of vortices is problematic. 
 
-It says that each planet by a radius drawn to the sun may describe areas proportional to the times of description, the periodic times of the several parts of the vortices should observe the duplicate proportion of their distances from the sun. 
+It says that each planet by a radius drawn to the sun may describe areas proportional to the times of description, the periodic times of the several parts of the vortices should observe the duplicate proportion of their distances from the sun.
 
-But that the periodic times of the planets may obtain the sesquiplicate proportion of their distances from the sun the periodic times of the parts of the vortex ought to be in the sesquiplicate proportion of their distances.
+But that the periodic times of the planets may obtain the sesquiplicate proportion of their distances from the sun the periodic times of the parts of the vortex should be in the sesquiplicate proportion of their distances.
 
-The smaller vortices may maintain their lesser revolutions about Saturn, Jupiter, and other planets, and swim quietly and undisturbed in the greater vortex of the sun, the periodic times of the parts of the sun's vortex should be equal but the rotation of the sun and planets about their axes which should correspond with the motions of their vortices, recede far from all these proportions.
+The smaller vortices may maintain their lesser revolutions around Saturn, Jupiter, and other planets, and swim quietly and undisturbed in the greater vortex of the sun. 
+
+The periodic times of the parts of the sun's vortex should be equal but the rotation of the sun and planets about their axes which should correspond with the motions of their vortices, recede far from all these proportions.
 
 I have explained that the motions of the comets are very regular. These:
 - are governed by the same laws with the motions of the planets
 - cannot be accounted for by the hypothesis of vortices as axes because coments have very elliptical orbits
 - have a freedom that is incompatible with the notion of a vortex
 
-Bodies thrown in our air experience air resistance. Withdraw the air and the resistance ceases. In a vacuum, a piece of tine and a piece of solid gold fall with equal velocity. 
+Bodies thrown in our air experience air resistance. Withdraw the air and the resistance ceases. 
+
+In a vacuum, a piece of tine and a piece of solid gold fall with equal speed. 
 
 The same thing happens in outer space where:
 - there is no air to resist their motions
