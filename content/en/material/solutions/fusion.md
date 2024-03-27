@@ -95,7 +95,7 @@ This has already been done by Buddhist monks who can levitate at will.
 
 In this case, they use sound, as a mantra, to manipulate the vortices (chakras) in their body in order to allow qosts to pass through. We call this the passive version. We made this inference after a monk taught us how levitation works -- we combined Buddhist principles with those of Descartes*. 
 
-> *We couldn't find any modern Western theory for this, so we went backwards to Aristotle, Socrates, Avicenna, etc. until we encountered Cartesian Physics which thankfully had everything that we were looking for.  Rene Descartes saved us **A LOT of time** because he already explained all the basic principles. We just had to build on them and fix some minor mistakes (such as him having only 3 Elements instead of the traditional 5). This made us realize that Einstein was a genius **sophist**. 
+> *We couldn't find any modern Western theory for this, so we went backwards to Aristotle, Socrates, Avicenna, etc. until we encountered Cartesian Physics which thankfully had everything that we were looking for.  Rene Descartes saved us **A LOT of time** because he already explained all the basic principles. We just had to build on them and fix some minor mistakes (such as him having only 3 Elements instead of the traditional 5). This made us realize that Einstein was a genius **sophist** and that is why no one is able to unify General Relativity and Quantum Mechanics. 
 
 
 
