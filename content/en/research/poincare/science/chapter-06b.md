@@ -107,51 +107,63 @@ It is an indirect process, the use of which is not indispensable theoretically. 
 said that the attraction is inversely proportional to the square of the distance, without being proportional to the product of the masses, that it is equal to f /r 2 but without
 having f = kmm 0.
 
-If it were so, we should nevertheless, by observing the relative motion of the celestial bodies,
-be able to calculate the masses of these bodies.
+If it were so, we should nevertheless, by observing the relative motion of the celestial bodies, be able to calculate the masses of these bodies.
 
 But have we any right to admit the hypothesis of central forces? 
 
-Is this hypothesis rigorously accurate? 
+<!-- Is this hypothesis rigorously accurate? 
 
 Is it certain that it will never be falsified by experiment?
 
-Who will venture to make such an assertion? 
+Who will venture to make such an assertion?  -->
 
 And if we must abandon this hypothesis, the building which has been so laboriously erected must fall to the ground.
 
-We have no longer any right to speak of the component of the acceleration of A which is due to the action of B. 
+We have no longer any right to speak of the component of the acceleration of `A` which is due to the action of `B`. 
 
-We have no means of distinguishing it from that which is due to the action of C or of any other body. The rule becomes inapplicable in the measurement of masses.
+We have no means of distinguishing it from that which is due to the action of `C` or of any other body. 
+
+The rule becomes inapplicable in the measurement of masses.
 
 What then is left of the principle of the equality of action and reaction? 
 
-If we reject the hypothesis of central forces this principle must go too; the geometrical resultant of all the forces applied to the different bodies of a system abstracted from all external action will be zero. 
+If we reject the hypothesis of central forces, this principle must go too. 
 
-In other words, the motion of the centre of gravity of this system will be uniform and in a straight line. Here would seem to be a means of defining mass.
+The geometrical resultant of all the forces applied to the different bodies of a system abstracted from all external action will be zero. 
 
-The position of the centre of gravity evidently depends on the values given to the
-masses; we must select these values so that the motion of the centre of gravity is uniform and rectilinear. 
+In other words, the motion of the centre of gravity of this system will be uniform and in a straight line. 
 
-This will always be possible if Newton’s third law holds good, and it will be in general possible only in one way. But no system exists which is abstracted from all external action; every part of the universe is subject, more or less, to the action of the other parts. The law of the motion of the centre of gravity is only rigorously true when applied to the whole universe.
+Here would seem to be a means of defining mass.
 
-But then, to obtain the values of the masses we must find the motion of the centre of gravity of the universe.the classical mechanics.
+The position of the centre of gravity evidently depends on the values given to the masses. We must select these values so that the motion of the centre of gravity is uniform and rectilinear.
 
-The absurdity of this conclusion is obvious; the motion of the centre of gravity of the universe will be for ever to us unknown. 
+This will always be possible if Newton’s third law holds good, and it will be in general possible only in one way. 
+
+But no system exists which is abstracted from all external action. Every part of the universe is subject to the action of the other parts. 
+
+The law of the motion of the centre of gravity is only rigorously true when applied to the whole universe.
+
+But then, to obtain the values of the masses we must find the motion of the centre of gravity of the universe.
+
+<!-- the classical mechanics. -->
+
+The absurdity of this conclusion is obvious. The motion of the centre of gravity of the universe will forever be unknown to us. 
 
 Nothing, therefore, is left, and our efforts are fruitless.
 
-There is no escape from the following definition, which is only a confession of failure: Masses
-are co-efficients which it is found convenient to introduce
-into calculations.
+There is no escape from the following definition, which is only a confession of failure: Masses are co-efficients which it is found convenient to introduce into calculations.
 
-We could reconstruct our mechanics by giving to our masses different values. The new mechanics would be in contradiction neither with experiment nor with the general principles of dynamics (the principle of inertia, proportionality of masses and accelerations, equality of action and reaction, uniform motion of the centre of gravity in a straight line, and areas). 
+We could reconstruct our mechanics by giving to our masses different values. 
 
-But the equations of this mechanics would not be so simple. 
+The new mechanics would be in contradiction neither with experiment nor with the general principles of dynamics (the principle of inertia, proportionality of masses and accelerations, equality of action and reaction, uniform motion of the centre of gravity in a straight line, and areas). 
+
+But the equations of this mechanics would not be so simple.
 
 Only the first terms would be less simple—i.e., those we already know through experiment; perhaps the small masses could be slightly altered without the complete equations gaining or losing in simplicity.
 
-Hertz has inquired if the principles of mechanics are rigorously true. “In the opinion of many physicists it seems inconceivable that experiment will ever alter the impregnable principles of mechanics; and yet, what is due to experiment may always be rectified by experiment.”
+Hertz has inquired if the principles of mechanics are rigorously true. 
+
+“In the opinion of many physicists it seems inconceivable that experiment will ever alter the impregnable principles of mechanics; and yet, what is due to experiment may always be rectified by experiment.”
 
 From what we have just seen these fears would appear to be groundless. The principles of dynamics appeared to us first as experimental truths, but we have been compelled
 to use them as definitions. 
@@ -169,8 +181,7 @@ there are systems which are nearly isolated.
 
 If we observe such a system, we can study not only the relative motion of its different parts with respect to each other, but the motion of its centre of gravity with respect to the other parts of the universe. 
 
-We then find that the motion of its centre of gravity is nearly uniform and rec-
-tilinear in conformity with Newton’s Third Law. 
+We then find that the motion of its centre of gravity is nearly uniform and rectilinear in conformity with Newton’s Third Law. 
 
 This is an experimental fact, which cannot be invalidated by athe classical mechanics.
 

@@ -1,9 +1,8 @@
 ---
-title: "Fresnel"
+title: "Fresnel, Augustin-Jean"
 linkTitle: Fresnel
 date: 2023-05-29
 weight: 32
-draft: true
-image: /covers/freud.jpg
+image: /covers/fresnel.jpg
 ---
 

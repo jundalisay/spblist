@@ -6,7 +6,7 @@ weight: 30
 description: ""
 contributors: ['Fresnel']
 draft: true
-# image: /covers/freud.jpg
+image: /covers/fresnel.jpg
 ---
 
 

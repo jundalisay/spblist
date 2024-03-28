@@ -1,242 +1,126 @@
 ---
-title: "The Application Of Theory Of Interference To Huygens's Principle"
-heading: Section 2
+title: "The Wave Theory of Light"
+heading: Section 2b
 date: 2023-05-30
 weight: 30
 description: ""
 contributors: ['Fresnel']
-# image: /covers/freud.jpg
+image: /covers/fresnel.jpg
 ---
 
 
-57. Let the waves from any luminous point be partly inter-cepted by an opaque body AG. To begin with, we shall suppose that this screen is so large that no light comes around theedge G, so that we need consider only that part of the wavewhich lies to the left of the point A. 
+41. From this general expression it is seen that the resultant
+intensity of the light vibrations is equal to the sum of intensities of the two constituent pencils when they are in perfectagreement and to their difference when they are in exactlyopposite phases, and, lastly, to the square root of the sum of
+their squares when their phase difference is a quarter of a wave-length, as we' have already shown.
+It thus follows that the phase of the wave corresponds ex- actly to the angular position of the resultant of two forces, a and a'. The distance from the first wave to the second is c, to the resultant wave ^-, and from the resultant wave to the/*7T second is c
+-
+; accordingly, the corresponding angles are
+(* C ' 2TT., i, and 2ir. i. Let us multiply the equation A A +
+' COS ( 2TT \=:A COS i by sin t, and the following equation
+a' sin ( %TT
+J =A sin i by cos i. Subtracting one from the other, we have a sin i=a' sin t 2?r i V
+which, together with
+a' sin ( 27T j =A sin i, gives the following proportion:
+I 2?r i\: sin i : sin 2?r- : : a : a' : A.
+42. The general expression, A sin gyff -Y_t|, for the
+velocity of the particles in a wave produced by the meeting of two others shows that this wave has the same length as its components and that the velocities at corresponding points are proportional, so that the resultant wave is always of the samenature as its components and differs only in intensity that is to say, in the constant by which we must multiply the velocities in either of the components in order to obtain the correspond107
+sn
 
-Let `DB` represent the plane upon which are received the shadow and its fringes. Theproblem then is to find the intensity .of the light at any pointP in this plane.
+ing velocities in the resultant. In combining this resultantwith still another new wave., one again arrives at an expressionof the same form a remarkable property of a function of thiskind. Thus in the resultant of any number of trains of wavesof the same length the light particles are always urged by velocities proportional to those of the components at points locatedat the same distance from the end of each wave. [This is seen~by multiplying each of the last three terms in the preceding proportion by sin tat. For then, a sin wt : a
 
-If from C as centre and with a radius CA we describe thecircle AMI, it will represent the light- wave at the instant it is partly intercepted by the opaque body.
-It is from this position of the wave that I have computed the resultant of the sec- ondary waves sent to the point P.. If we
-consider the wave in an earlier position, say A'MT, i.t then becomes necessary to calculate the effect of the obstacle on each
-of the secondary waves arising from the arc A'MT
+1 sin wi : A sin ut ::a : a' :A'
 
-If we consider the wave in a later position, say `A"M"I"`, it becomes necessary to first determine the intensities of its various points, for they are no longer
-equal, having been changed by the inter- position of the screen. In this case the
-computation is vastly more complicated, possibly quite impracticable. If, however, we consider the wave at the instant it Fig. 19 reaches A, the process is simple ; for then all parts of the wavehave the same intensity. 
+: : constant ratio. ] APPLICATIONS OF HUYGENS'S PRINCIPLE TO THE PHENOMENAOF DIFFRACTION
+43. Having determined the resultant of any number of trainsof light-waves, I shall now show how by the aid of these inter-ference formulae and by the principle of Huygens alone it is possible to explain, and even to compute, all the phenomenaof diffraction. This principle, which I consider as a rigorousdeduction from the basal hypothesis, maybe expressed thus:The vibrations at each point in the wave-front may be consideredas the sum of the elementary motions which at any one instantare sent to that point from all parts of this same wave in anyone of its previous* positions, each of these parts acting inde-pendently the one of the other. It follows from the principleof the superposition of small motions that the vibrations pro-duced at any point in an elastic fluid by several disturbancesare equal to the resultant of all the disturbances reaching thispoint at the same instant from different centres of vibration,whatever be their number, their respective positions, theirnature, or the epoch of the different disturbances. This general principle must apply to all particular cases. I shall suppose that all of these disturbances, infinite in number, are ofthe same kind, that they take place simultaneously, that they*I am here discussing only an infinite train of waves, or the most general vibration of a fluid. It is only in this sense that one can speak of twolight, waves annulling one another when they are half a wave-length apart.The formulae of interference just given do not apply to the case of a sin- gle wave, not 'o mention the fact that such waves do not occur in nature.
 
-Not only so, but none of the secondary waves are now affected by the opaque screen. Howevernumerous the subdivisions into which we may consider theseelementary waves divided, it is evident that the number will be the same for each, since they are transmitted freely in all directions. And, therefore, we need only consider the axes of these pencils of split rays?, e., the straight lines drawn fromthe various points on the wave AMI to the point P. The dif- ferences of length in these direct rays are the differences of path traversed by the elementary or partial resultants meetingat P.*
-In order to compute the total effect, I refer these partial re- sultants to the wave emitted by the point M on the straight line CP, and to another wave displaced a quarter of a wave-lengthwith reference to the preceding. This is the process alreadyemployed (p. 101) in the general solution of the interference*
-[Afoot-note is here omitted.'] 119
+are contiguous and occur in the single plane or on a singlespherical surface. I shall make still another hypothesis withreference to the nature of these disturbances, viz., I shall sup-pose that the velocities impressed upon the particles are all directed in the same sense, perpendicular to the surface of thesphere,* and, besides, that they are proportional to the compression, and in such a/ way that the particles have no retrogrademotion. I have thus reconstructed a primary wave out of partial [secondary] disturbances. We may, therefore, say that thevibrations at each point in the wave-front can be looked uponas the resultant of all the secondary displacements which reachit at the same instant from all parts of this same wave in someprevious position, each of these parts acting independently oneof the other.
 
-problem. We shall consider only a section of the wave madeby a plane perpendicular to the edge of the screen, and shallindicate by dz an element, nn', of the primary wave, and by z its distance from the point M. These, as I have shown, suffice todetermine the position and the relative intensities of the brightand dark bands. The distance nS included between the waveAMI and the tangential arc, EMF, described about the point Pas centre is |
-= ^ where. a and b are, as before, the distancesab
-CA and AB. If we denote the wave-length by X, we have forthe component in question, referred to the wave leaving thepoint M, the following expression
-dz cos ( TT -
-) ; \ abX J
-' while for the other component,* referred to a wave displaced aquarter of a wave-length from the first, we have
-If, now, we take the sum of all similar components of all theother elements, we shall have rdz cos , +
-and rdz siri J ab\ I J ab\
-Hence the intensity of the vibration at P resulting from all these small disturbances is
-The intensity of the sensation, being proportional to thesquare of the speeds of the particles, is
-This is what I have called the intensity of the light in order toconform to ordinary usage, while reserving the expression in- tensity of vibration to designate the speed of an ether particleduring its oscillation. *
-[ TJiese expressions for amplitude follow directly from sec. 40, when in the
-ke a. 120
-general expressionfor velocity we make ao, a'=dz, and c=^- .]
+44. If the intensity of the primary wave is uniform, it fol- lows from theoretical as well as from all other considerationsthat this uniformity will be maintained throughout its path,provided only that no part of the wave is intercepted or re- tarded with respect to its neighboring parts, because the re- sultant of the secondary displacements mentioned above will be the same at every point. But if a portion of the wave bestopped by the interposition of an opaque body, then the in- tensity of each point varies with its distance from the edge ofthe shadow, and these variations will be especially marked nearthe edge of the geometrical shadow.
 
+Let be the luminous point, AG the screen, AME a wavewhich has just reached A and is partly intercepted by theopaque body. Imagine it to be divided into an infinite number of small arcs Am', m'm, wM, Mw, nn', n'n", etc. In orderto determine the intensity at any point P in any of the later positions of the wave BPD, it is necessary to find the resultant of*It is possible for light- waves to occur in which the direction of the ab- solute velocity impressed upon the particles is not perpendicular to the wave surface. In studying the laws of interference of polarized light, I have become convinced since the writing of this memoir that light vibra- tions are at right angles to the rays or parallel to the wave surface. Thearguments and computations contained in this memoir harmonize quite
+as well with this new hypothesis as with the preceding, because they are quite independent of the actual direction of the vibrations and pre-sup- pose only that the direction of these vibrations is the same for all rays belonging to any system of waves producing fringes.
 
-58. In the case we are now considering, where the body, AG,is so large that we can neglect any light coming around theedge G, the integration extends from A to infinity on the sidetowards I. This integral naturally divides into two parts, oneextending from A to M, the other from M to infinity. Thislatter integral remains constant, while the former varies withthe position of the point P. This variation, indeed, is the de-termining factor in the size and relative intensity of the brightand dark bands. The integrals
-r, / z*(a+b)\ -,/,.
-Jdz cos (T-^) and /
-dz sin may be evaluated in finite terms when the limits of z are takenat zero and infinity ; but between any other limits their valuescan be expressed only in terms of a series or by means of partial integration.
-The latter method seems to me more convenient, and I have,therefore, employed it in the computation of the followingtable, where the limits of integration are taken so close togetherthat we can neglect the square of half the arc included betweenthem.*
-* Let * and i+t be the narrow limits between which it is proposed to in- tegrate dv cos q^ and dv sin qv'
-2
-. Neglecting the square of -, we then
-&
-timl the following approximate values for these integrals:
-These are the formulae which I have used in the computation of the table. When the limits are sufficiently narrow for us to neglect <
-2 instead of 5 j
-j the following still simpler formnlae may be employed : / dv cos 9^=2^ sin qi (i+2t)-sin qi*
-i+t /** i r
-I dv sin qv*=p-T-\ cos otf (i / 2iq\
-/t+t L
+Fig. 16
+all the secondary waves which each of theseportions of the primitive wave would send tothe point P, provided they were acting independently one of the other. Since the impulse communicated to every'part of the primitive wave was directed alongthe normal, the motion which each [part of thewave] tends to impress upon the ether oughtto be more intense in this direction than inany other ; and the rays which would emanatefrom it, if acting alone, would be less and lessintense as they deviated more and more fromthis direction.
 
-This arc here amounts to ^ of a quadrant, since this fur- nishes results of an accuracy greater than is attainable in the
-observations. In place of the integrals mentioned above, I havesubstituted fdv sin qv"
-1 and fdv cos qv*, where q stands for quadrant or -.
-/v To pass from one of these forms to the other is a simplematter.
-[Following is a derivation of these formulae, which Verdet found in one of
-Fresnel's journals. Let the limits of integration he denoted by a and a -f 2p. Put v=a+p-\-u. Then du=dv ; and when v=a, u=p; but whenv=a+2p, u=+p.
-Substituting for v,
-I dv cos qv*= I du cos q\ u'1 + 2(a +p)u + (a +_^)
-2 1.
-If the limiting values of u are +p and p, we may take p so smalL say
-Y
-1^, that we may neglect its square, u
-1
-. We then have C
-a i*+p \ 1
-I dv cos qv*= I du cos q\ Zu(a+p)+(a+p)*
-Ja+*P J-p
-2q(a+p)
+45. The investigation of the law according to which theirintensity varies about each centre of disturbance is doubtless avery difficult matter ;* but, fortunately, we have no need ofknowing it, for it is easily seen that the effects produced bythese rays are mutually destructive when their directions aresensibly inclined towards the normal. Consequently, the rayswhich produce any appreciable Qifect upon the quantity oflight received at any point P may be regarded as of equal in-tensity, f Let us now consider the rays EP, FP, and IP, which are sen-*
+[This is the problem solved by Stokes; Math, and Phys. Papers, vol. ii., p. 243.]
+f When the centre of disturbance has been compressed, the force of ex-pansion tends to thrust the particles in all directions ; and if they have nobackward motion, the reason is simply that their initial velocities forwarddestroy those which expansion tends to impress upon them towards therear ; but it does not follow that the disturbance can be transmitted onlyalong the direction of the initial velocities, for the force of expansion in aperpendicular direction, for instance, combines with a primitive impulsewithout having its effect diminished. It is clear that the intensity of thewave thus produced must vary greatly at different points of its circumference, not only on account of the initial impulse, but also because the compressions do not obey the same law around the centre of disturbance ; butthe variations of intensity in the resultant wave must follow the law ofcontinuity, and may, therefore, be considered as vanishing throughout asmall angle, especially along the normal to the primitive wave. For theinitial velocities of the particles in any direction whatever are proportional to the cosine of the angle which this direction makes with that of thenormal, so that these components vary much less rapidly than the angleso long as the angle is small. 110
 
-TABLE OF THE NUMERICAL VALUES OF THE INTEGRALS
-fdv cos qv* and J
-dv sin qv*.*
-Limits
-of
-Integrals
+sibly inclined and which meet at P, a point whose distance fromthe wave EA I shall suppose to include a large number of wavelengths. Take the two arcs EF and FI of such a length that thedifferences EP FP and FP IP shall be equal to a half wavelength. Since these rays are quite oblique, and since a halfwave-length is very small compared with their length, thesetwo arcs will be very nearly equal, and the rays which they sendto the point P will be practically parallel ; and since corre-sponding rays on the two arcs differ by half a wave-length, thetwo are mutually destructive. We may then suppose that all the rays which various partsof the primary wave AE send to the point P are of equal in- tensity, since the only rays for which this assumption is notaccurate produce no sensible effect upon the quantity of light
+which it receives. In the same manner, for the sake of simplifying the calculation of the resultant of all the elementarywaves, we may consider their vibrations as taking place in thesame direction, since the angles which these rays make witheach other are very small ; so that the problem reduces itself to the one which we have already solved namely, to find the resultant of any number ofparallel trains of light-waves of the same length, the intensities and relative positions being given.
+The intensities are here proportional to the lengths of the il- luminating arcs, and the relative positions of the wave trains are given by the differences of path traversed.
+46. Properly speaking, we have considered up to this pointonly the section of the wave made by a plane perpendicular to the edge of the screen projected at A. We shall now considerit in its entirety, and shall think of it as divided by equidistantmeridians perpendicular to the plane of the figure into infinitely
+thin spindles. We shall then be able to employ the same process of reasoning which we have just used for a section of thewave, and thus show that the rays which are quite oblique are mutually destructive. In the case we are now considering these spindles are indefinitely extended in a direction parallel to the edge of the screen,
+for the wave is intercepted only on one side. Accordingly theintensity of the resultant of all the vibrations which they sendto the point P would be the same for each of them ; for, owingto the extremely small difference of path, the rays which emanate from these spindles must be considered as of equal inIll
 
-Either of the integrals idv cos qv* and jdv sin qv* taken from zero to infinity have the value -3-. We may thus by the
-aid of the above table find the intensity of light corresponding to any given position of the point P, or, what is the samething, corresponding to any definite value of v, where v is one limit of integration and infinity the other. We have only to take from the table the values ofJ
-civ cos qv* and / dv sin qv*,
-using the value of v as an argument, then add to each , andfinally take the sum of their squares.
+tensity, at least throughout that region of the primitive wavewhich produces a sensible effect upon the light sent to P.Further, it is evident that each elementary resultant will differin phase by the same quantity with respect to the ray comingfrom that point of the spindle nearest P, that is to say, fromthe point at which the spindle cuts the plane of the figure.The intervals between these elementary resultants will then beequal to the difference of path traversed by the rays AP, m'P,mP, etc., all lying in the plane of the figure; and their intensities will be proportional .to the arcs Aw', m'm, mM., etc. Inorder now to obtain the intensity of the total resultant, wehave to -make the same calculation which we have alreadymade, considering only the section of the wave by a plane per-pendicular to the edge of the screen.*
+47. Before deriving the analytical expression for this result-ant I propose to draw from the principle of Huygens some of theinferences which follow from simple geometrical considerations.Let AG represent an opaque body suffi-ciently narrow for one to distinguish fringesin its shadow at the distance AB. Let bethe luminous point and BD be either the fo-/ i i cal pl^ne of the magnifying-glass with whichone observes these fringes or a white cardupon which the fringes are projected.
+Let us now imagine the original wave di-vided into small arcs Am, mm', m'm", etc.,Gn, nri, n'n", ri'ri", etc. in such a waythat the rays drawn from the point P in theFi shadow to two consecutive points of divisionwill differ by half a wave-length. All of thesecondary waves sent to the point P by the elements of eachof these arcs will completely interfere with those which emanate* So lone: as the edge of the screen is rectilinear we can determine theposition of the dark and bright bands and their relative intensities by con-sidering only the section of the wave made by a plane which is perpendicular to the edge of the screen. But when the edge of the screen is curvedor composed of straight edges inclined at an angle it is then necessary tointegrate along two directions at right ansrles to each other, or to integratearound the point under consideration. In some particular cases this lattermethod is simpler, as, for instance, when we have to calculate the intensityof the light in the centre of the shadow produced by a screen or in theprojection of a circular aperture. 
 
 
-59. Simple inspection of this table shows a periodic changein the intensity of light as one leaves the geometrical shadow.
+from the corresponding parts of the two arcs immediately ad-joining it "^ so that, if all these arcs were equal, the rays whichthey would send to the point P would be mutually destructive, with the exception of the extreme arc mA. Half of the in- tensity of this arc would be left, for half the light sent bythe arc mm' (with which mA is in complete discordance)would be destroyed, by half of the preceding arc m"m'. Assoon as the rays meeting at P are considerably inclined withrespect to the normal, these arcs are practically equal. Theresultant wave, therefore, corresponds in phase almost exactly to the middle of mA, the only arc which producesany sensible effect. It is thus seen that it differs in phaseby one-quarter of a wave-length from the element at the edgeA of the opaque screen. Since the same thing takes place in the other part of the incident wave Qn, the interference be- tween these two vibrations occurring at the point P is deter- mined by the difference of length between the two rays sP andtP, which take their rise at the middle of the arcs Am and Gn,or, what amounts to the same thing, by the difference betweenthe two rays AP and GP coming from the very edge of the opaque body. It thus happens that when the interior fringes
+under consideration are rather distant from the edges of the
+geometrical shadow, we are able to apply practically withouterror the formula based upon the hypothesis that the inflected waves have their origin at the very edges of the opaque body;but in proportion as the point P approaches B the arc Ambe- comes greater in comparison with the arc mm', the arc mm'with respect to the arc m'm", etc. ; and likewise in the arc mAthe elements in the immediate vicinity of the point A becomesensibly greater than the elements which are situated near the
+point m, and which correspond to equal differences of path. It happens, therefore, that the effective* ray, sP, will not be the mean between the outside rays, mP and AP, but will morenearly approach the length of the latter. On the other side of the opaque body we have slightly different circumstances.
+The difference between the ray GP and the effective ray tP ap- proximates more and more nearly a quarter of a wave-length* I have given this name to the distance of the resultant wave from the
+original wave because the positions of the dark and bright bands are the same as they would be if these effective rays alone produced them. H 113
 
-To obtain the values of v corresponding to maxima and minima,i. e., the brightest and darkest points in the respective bright
-and dark bands, I take from the table the numbers which mostnearly correspond to them and then compute the corresponding intensities. Finally, by means of these data and a simple
-formula of approximation, I determine with sufficient accu- racy the values of v. which give maxima and minima.
 
-Let us represent by * the approximate value of v taken di- rectly from the table, by / and Y the corresponding values of
-_[_ jdv cos qv* and i+jdv sin qv*, and by t the small arc by
-which v must be increased in order to give the maximum or minimum of light. Neglecting the square of t, we find that the following formula gives the value of t which yields a maximum or a minimum.
-f /-a, o'Al- %qil sin n i A. - qi*_[A foot-note containing the derivation of this expression is here omitted.}
-If in this formula we substitute the numbers taken from the
-table, we obtain the following results :
-either integral. The successive values of v employed in the first column
-are 6=0.1,
-0=0.2,
-v=0.3,
-etc. The same remark applies to the following tables. [E. Verdet.] 124
+as the point P moves farther and farther away from D, so thatthe difference of path traversed varies more rapidly betweenthe effective rays sP and tP than between the rays AP and GP; consequently, the fringes in the neighborhood of the point Bought to be a little farther from the centre of the shadow thanwould be indicated by the formula based upon the first hypothesis.
+48. Having considered the case of fringes produced by anarrow body, I pass to the consideration of those which arecaused by a small aperture.
 
-TABLE OF MAXIMA AND MINIMA FOR EXTERIOR FRINGESAND OF THE CORRESPONDING INTENSITIES
+Let AG be the aperture through whichthe light passes. I shall at first supposethat it is sufficiently narrow for the darkbands of the first order to fall inside thegeometrical shadow of the screen, andat the same time to be fairly distantfrom the edges B and D. 
 
-Therefore
-fdz cos fa ^+*>) .__ /~^2 fdv cos J \ ab\ I V 2(^fS)J
-and
-Also
-c"
-Now the factor ^ rr- is constant ; whence we infer that4{a+o)
-these two quantities,
-and
-/ r , A
-2 / r , I I dv cos sin gt^J 4- ( ^
-will each reach their maximum or minimum values at the sametime. Let us now denote by n the value of v which yields amaximum or minimum value for these integrals ; the corre-sponding value of z will then be
-. , ##X Z^r The size of the fringe, x, [that is, its distance from the edge ofthe opaque screen] then follows from the proportion a : z :: whence
-or, substituting for z,
-This radical, it may be remarked, is exactly the distancebetween the edge of the geometrical shadow and that point126
-THE WAVE-THEORY OF LIGHT
-which corresponds to a difference* of a quarter of a wave-lengthbetween the direct ray and the ray coming via the edge of theopaque screen. But this is precisely what might have beenpredicted, inasmuch as the corresponding value of v [viz., the quadrant] has been taken as unity in the table of numericalvalues of jdv cos qv
-2 and / dv sin qv
-2
-. If in the formula
-V 2a~
-we substitute for n the value corresponding to a minimum of the first order i. e., to the darkest part of the first dark band,we have
-z=1.873
-61. If, however, we assume that the fringes are producedby the meeting of the direct rays with those reflected at theedge of the opaque screen, and if we suppose further that thereflected rays lose half a wave-length, we have [section 20] for the same band
-or x=
-Accordingly, these two quantities are in the ratio of 2 to 1.873. The second is measurably smaller than the first, differing as they do by nearly a fifteenth; so that by accurate observations on homogeneous light of well-determined wave-length onemight distinguish between these two theories by means of ex- periment.
-62. The method which I at first thought best adapted to the determination of the wave-length was to measure the size of the fringes produced by two mirrors slightly inclined to oneanother, and also the distance between the two images of theluminous point; but the slightest curvature in the mirrorsdiminishes the accuracy, and so I preferred to use the bands* [The general expression for this difference of path, d, has been given
-above section 20. ax* ~2b(a+b)' Put d=, and we haw the value of x in question.] 127
-MEMOIRS ON
-produced by a narrow slit combined with the cylindrical lensof which I have already spoken. We have already found thatthe distance between any two consecutive dark bands, either tothe right or the left of the aperture, is , where X is the wavec length, c the width of the aperture, and b its distance from themicrometer. The distance between the two dark bandsofthe first order is just twice this amount. With these data, itis an easy matter to determine X from measurements on thefringes.
-The following table gives the results of five observations ofthis kind, together with the wave-lengths computed from them.In order to describe all the conditions of the experiment,Iinclude in the table the various values of #, the distance fromthe luminous point to the screen, even though this quantityisnot employed in the calculation. These measures have beenmade with practically homogeneous red light, obtained by useof the same colored glass which, for the purpose of gettingresults that are comparable, I have used in all my observations. Each measure recorded in the table is the mean of fourobservations.
-THE WAVE-THEORY OF LIGHT
-65. Having thus, by means of simple and well-known methods, verified the wave-length determination made with the
-single slit and cylindrical lens, I have used this same value to compute the exterior fringes by use of the formula
-S = IH>+*)*X
-, 2a
-substituting for w those values of v which, according to the
-table, give maxima and minima.
-The table on page 130 summarizes the results of calculation
-and observation. In my experiments I have measured the
-positions of the minima only, because I considered this a sufficient test of the theory, and because my eye can determine the
-darkest point of a dark band with greater accuracy than it canset upon the brightest point of a bright baud.
-[Only every fifth observation in the table is reproduced.]
-More striking agreement between theory and experimentcould scarcely be expected. W^hen these small differences are compared with the quantities measured, and when the great
-variations in the quantities a and b are noted, one can no longer
-doubt that the integrals which led to these Jesuits accurately
-describe the law governing the phenomena. The probability
-in favor of the new theory is still further increased by the fact that the wave-length here employed has been deduced fromdifferent and simpler phenomena.
-[Four pages, devoted to a description of some experimental
-precautions and to a computation of exterior fringes on Young'shypothesis of reflection from the edge of the opaque body, are
-here omitted.}
+Let P be thedarkest point in one of these two bands;it is then easily seen that this must cor-respond to a difference of one whole wavelength between the two extreme rays APand GP. Let us now imagine anotherray, PI, drawn in such a way that its length shall be a mean between the othertwo. Then, on account of its marked in- clination to the arc AIG, the point I will
+fall almost exactly in the middle. We now have the arc di- vided into two parts, whose corresponding elements are almostexactly equal, and send to the point P vibrations in exactlyopposite phases, so that these must annul each other. By the same reasoning it is easily seen that the darkestpoints in the other dark bands also correspond to differencesof an even number of half wave-lengths between ihe two rayswhich come from the edges of the aperture ; and, in like manner, the brightest points of the bright bands correspond todifferences of an uneven number of half wave-lengths that is to say, their positions are exactly reversed as compared withthose which are deduced from the interference of the limitingrays on the hypothesis that these alone are concerned in theproduction of fringes. This is true with the exception of thepoint at the middle, which, on either hypothesis, must be114
 
-68. Both the formation and the position of the exterior fringes can be explained in a satisfactory manner by considering them as produced by the meeting of aninfinitely great number of secondary waves which originate onthat part of the primary wave which is not intercepted by the opaque screen.
+bright. The inferences deduced from the theory
+fringes result from the superposition of all of the disturbancesfrom all parts of the arc AGr are verified by experiments,
+which at the same time disprove the theory which looks uponthese bands as produced only by rays inflected and reflected at the edges of the diaphragm. These are precisely the phenomena which first led me to recognize the insufficiency of this hypothesis, and suggested the fundamental principle of the
+theory which I have just explained namely, the principle of Huygens combined with the principle of interference.
+49. In the case which we have just considered, where, byvirtue of a very small aperture, the dark bands of the first or- der fall at some distance from the edges of the geometrical
+shadow, it follows from theory, as well as from experiment,
+that the distance comprised between the darkest points is al- most exactly double that of the other intervals between the middle points of two consecutive dark bands, and this is all the more nearly true in proportion as the aperture becomessmaller or more distant from the luminous point and from the
+focus of the magnifying-glass with which one observes the
+fringes ; for, by sufficiently increasing these distances one mayproduce the same effects with an aperture of any size whatever. But when these distances are not very great, and when their aperture is too large for the rays producing the fringes to be very much inclined to the wave-front, AG-, it follows that corresponding elements of the arcs into which we have supposed a wave to be divided can no longer be considered as each
+equal to the other, for they are sensibly larger on the side next
+the band un'der consideration. Under these conditions wecan rigorously deduce the positions of maximum and minimum intensity only by computing the resultant of all the
+small secondary waves which are sent out by the incident
+wave.
 
-From this view it follows that the light whichis inflected into the shadow ought not to produce any bright or dark band, but ought to diminish gradually in intensity, pro- vided the screen is sufficiently large to allow no light to goaround the other side; and this is true, even though this inflected light, like that which gives rise to the exterior fringes, is the resultant of an infinitude of secondary waves. This will 
+50. But there is one very remarkable case where a knowledge of this integral is not needed for the determination of the law of the fringes by an aperture of very considerable
+size. This is the case where a lens is placed in front of the
+diaphragm, and brings the refracted rays to focus upon the
+plane in which the fringes are observed. The problem is nowgreatly simplified by the fact that the centre of curvature of the
 
-TABLE COMPARING THE RESULTS OF EXPERIMENT WITHTHOSE OF THEORY
-EXTERIOR FRINGES IN RED LIGHT OP WAVE-LENGTH 0.000638 MM.
+emergent wave now lies in this plane instead of at the lumi-nous point.
+Let be the projection of the middlepoint of the aperture upon this plane.From the point as centre, and with aradius equal to AO, let us now describethe arc AI'Gr, which will now representthe incident wave as modified by the inter-position of the lens. If, now, from thepoint P as centre, and with a radius AP,we describe the arc AEF, those portionsof the luminous rays meeting at the pointP which are comprised between the arcAI'G- and the arc AEF will be the differ-ences of path traversed by the secondarywaves ; and, since these two arcs haveequal curvatures and are convex towardsthe same side, it follows that equal differ-ences of path will correspond to equal intervals upon the wavefront AI'G. Let us suppose this wave divided in such a mannerthat any two consecutive rays drawn through the points of di-vision shall differ by one-half a wave-length. If, then, the pointP be located in such a way that the total number of these arcs is even, it will no longer receive any light. For these arcs, takentwo and two, are mutually destructive, since the vibrations dueto corresponding elements are at the same time of equal in-tensity and opposite phase. The light reaching any pointP will be a maximum when the total number of arcs is uneven. The brightest points of the bright bands, therefore, cor-respond to a difference of an uneven number of half wavelengths between the two rays coming from the edges of thediaphragm, and the darkest points on the dark bands to a dif-ference of an even number of half wave-lengths. Consequently,all the dark bands will be equally spaced among themselves,with the exception of the first two, where the interval is ex-actly double that which separates the others. This result,which had already been suggested by theory, I found to bethoroughly confirmed by experiment. I shall cite only oneexperiment of this kind made in homogeneous red light. Inorder to bring the centre of the incident wave to the plane ofthe micrometer wire, I used, instead of an ordinary lens, a116
 
-Number
-of obser- vation
+glass cylinder, which, in order to get the full length of the
+fringes, I placed with its generating line parallel to the edges
+of the aperture in the diaphragm.
+mm.
+Size of the aperture 2.00
+m. Distance from the luminous point to the diaphragm, or a 2 507
+Distance from the diaphragm to the micrometer, or b 1.140 mm.
+Interval between the middle points of the two dark bands of the first order 0.72
+Interval between the band of the first order and the third 0.73
+Interval between the band of the third order and the fifth 0.72
+It will be observed that the first interval is double that of the others.
+I have observed that the same law holds, even at distances
+which are not very great, for apertures which are much wider,
+a centimeter or even a centimeter and a half ; but if we further
+increase the aperture of the diaphragm, the fringes becomeconfused, however much care be taken to place the micrometer in the focus of the cylindrical lens; which goes to showthat the rays refracted by this glass vibrate in unison [in the same phase} only within rather narrow limits, just as happenswith ordinary lenses.
+51. When the aperture of the diaphragm thus backed with a
+cylindrical lens is not too great, the dark and bright bandsproduced are as sharp as the fringes which result from the
+union of rays reflected from two mirrors. But, in the latter
+case, the intensity of the light is the same for all fringes, or, at
+least, whatever differences there are appear to arise merely fromthe fact that the light employed is not perfectly homogeneous; and if it happen that the bright bands diminish in brilliancy,
+the dark bands become less dark, so that the sum of the light
+in one entire fringe remains practically constant. But in theother phenomenon, as one recedes from the centre he observesa rapid diminution of the light, which is easily accounted for by the theory we have just explained. For, indeed, all therays which leave the wave-front AI'Gr and meet at the centreof the bright band of the first order have traversed equalpaths ; so that all the small secondary waves which they bringto this point coincide \in phase] and strengthen each other.
 
-by taking the sums of the squares of the corresponding numbersand subtracting ^. In spite of the inaccuracy introduced by
-the method of partial integration employed in the first table,
-it is seen that the intensity of light diminishes rapidly as v
-increases, presenting none of the maxima and minima observed
-outside of the shadow.
-INTENSITIES OF LIGHT DIFFRACTED INTO THE SHADOW
-UNDER DIFFERENT ANGLES
-Values of v
 
-and therefore
-
-69. By the aid of these formulae we can find the value of thedistance x or the angle x/b of the inflected ray correspondingto the various values of #; and vice versa, if x or the slant x/bbe given, we can find v, and thus determine the intensity of theinflected light. One striking inference from this formula,\ a
-~\
-'
-, is that the values of x are not directly pro6(1 portional to those of b, but are related to them as the ordinatesof a hyperbola are to its abscissas. It thus follows that pointsof equal intensity along the edge of the geometrical shadow donot lie upon a straight line as we vary b, but upon a hyperbolaof appreciable curvature, like the corresponding loci in exteriorfringes.
-
-70. I have not yet succeeded in verifying by direct experiment the ratios of intensity in the inflected light as predictedby the theory of interference applied to the principle of Huygens. 
-
-A measurement of this kind is very difficult [foot-noteomitted], and I hardly think that one would be able to reachthe same accuracy as in the determination of the darkest andbrightest points in fringes. The results already obtained forfringes, however, appear to me as verifications indirect, itmust be confessed of these very ratios of intensity; forwhenever the positions of maxima and minima have been de-duced from the general expression for the intensity of lightand have been found to coincide accurately with experiment,it becomes more and more probable that this integral correctly represents all the variations of intensity in the inflectedlight.
-
-71. In the case of exterior fringes one may, as we have seen,use the table of maxima and minima to compute the positionsof the darkest and brightest points in the dark and bright bandsfor all values of a and b. This, however, is not the case withregard to the interior fringes in the shadow of a narrow bodyor in the case of a narrow aperture. The limits of the integralvary all the while, and it is therefore impossible to give generalresults applicable to every case, so that one is obliged to deter-mine the maxima and minima for each particular case, using the table, which gives the numerical values of j
-dv cos qv
-2 and/ dv sin qv
-2
-. I propose to give the results of all the computations of this kind which, up to the present, I have made for the
-purpose of testing the theory. They are very long, and I havenot been able to finish as many as I had desired, but this lack in quantity is, perhaps, compensated by the variety of the cases which I have studied, for in trying the theory on the observations, I have, by preference, selected cases in which the disposi- tion of the fringes is somewhat unusual.
-
-72. first, I propose to consider the case of a narrowaperture which presents at once the
-case of exterior and interior fringes.
-Let C be a luminous point, AG
-a narrow aperture whose edges A
-and G are straight and parallel ; let BD be the central projection of
-this aperture upon the plane in which the fringes are observed,
-and P be any point in this plane
-at which the intensity is to be de- termined. For this purpose we
-must integrate // g* dz cos ( 2q
-and
-''(ab]\
-ab\ I
-I dz sin l*2q ab\ 1 between the limits A and G, afterwards taking the sum of thesquares of these integrals. This will give us the intensity of
-light at the point P, but we must not forget that the origin
-from which z is measured lies upon the direct line CP, andthat therefore the two limits A and G correspond to z=MGand z= AM. The next step is to compute the correspondingvalues of v from the formula
-/2 v=zyor
-
-where x is the distance from the point P to the edge of thegeometrical shadow. From the table of integrals,
-/ dv cos qv
-2 and / dv sin qv
-2
-, we then find the values most nearly corresponding to those of v. Let us call t the difference between the value for which theintegral is desired and the. number i [for which it is computed]in the table. The proper integral can then be found by meansof the formulas of approximation.
-/i+t
-/ i
--| dv cos qv
-2 = I dv cos qv* + (sin qi (i'-\-*Zt) sin qi2
-) Jo 2iq
-/
-i+t r
-l i dv sin qv
-2 =.J dv sin qv
-2
--f- T-T- (cos qi (i + '2t)-{-cos qi
-2 ). Having made this computation for the two values of v whichrepresent the edges A and G- of the aperture, if the point is in-side we add these integrals; if, however, it is on the outside,we subtract them ; and, lastly, take the sum of the squares ofthe two numbers thus found. In like manner, one finds theintensity of the light for any other point whose position is given, and in comparing these various results the positions ofmaxima and minima may be found.
-[Half a page concerning the method of interpolation is hereomitted.]
-73. In order to apply this method of computation to the ob-servations, I first determined the tabulary value of c, that is tosay, the size of the aperture, by means of the formula
-f, = /2(a V
-so that I thus obtained the tabular interval between the limits.By a few easy trials I find between what numbers of the tablethe maxima and minima lie ; afterwards I determine their posi-tion more accurately by the process which I have just described. Having thus obtained the values of v corresponding tomaxima or minima, I subtract them from the half of the tabularyvalue of c, in order to refer them to the middle of the aperture.And, last of all, the for inn hi 2a
-gives me the distance of these same maxima or minima fromthe middle of the projection of aperture, which is the point ofreference used in my observations.
+But this is not the case with the other bright bands. Thebrightest band of the second order, for instance, correspondsto a division of the wave AI'G- into three arcs, the extremerays of which differ by one-half a wave-length ; the effectsproduced by two of these arcs annul each other. Consequently, this band receives light from only one-third of the incidentwave-front, while even the effect produced by this third is somewhat diminished by the fact that there is a difference ofone-half a wave-length between the rays from its edges. Asimilar process of reasoning shows that the middle of thebright band of the third order is illuminated by only one-fifthof the wave-front AI'G, the light of this one-fifth being still further diminished by opposition of phase in its extremerays.[Here are omitted six pages, including a geometrical discussionof the general relations between size of aperture (or obstacle), dis- tance of screen, distance of luminous point, etc.] 56. I have just explained the general relations between thesize of any particular fringe and the respective distances of theobstacle from the luminous point and from the micrometer.As we have seen, these laws may be derived from theory quiteindependently of any knowledge of the integral which at eachpoint represents the resultant of all the secondary waves ; butin order to find the absolute size of these fringes, it is essentialthat we compute this resultant, for the positions of maxima andminima of intensity can be determined only by a comparisonof the different values of this resultant, or at least by knowingthe function which represents it. In order to do this, we propose to apply to the principle ofHuygens the method which we have already explained for computing the resultant of any number of trains of waves whentheir intensities and relative positions [phases'] are given.
 
 

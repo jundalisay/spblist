@@ -4,8 +4,9 @@ title: "The Emission Theory"
 date: 2023-05-30
 weight: 30
 description: ""
+draft: true
 contributors: ['Fresnel']
-# image: /covers/freud.jpg
+image: /covers/fresnel.jpg
 ---
 
 
@@ -102,7 +103,7 @@ ofa
 of light produce upon one another. Recently the distinguished Dr. Thomas Young has shown by a simple and ingeniousexperiment that the interior fringes are produced by the meeting of rays inflected at each side of the opaque body. Thishe proved by using a screen to intercept one of the two pencils of light; and in this way lie was able to make the interiorfringes completely vanish, whatever might be the form, mass,or nature of the screen, and whether he intercepted the lu-minous pencil before or after its passage into the shadow.
 18. Brighter and sharper fringes may be produced by cut-ting two parallel slits close together in a piece of cardboardor a sheet of metal, and placing the screen thus prepared infront of the luminous point. We may then observe, by useof a magnifying -glass between the opaque body and the eye,that the shadow is filled with a large number of very sharpcolored fringes so long as the light shines through both openings at the same time, but these disappear whenever the lightis cut off from one of the slits. 19. If we allow two pencils of light, each coming from thesame source and regularly reflected by two metallic mirrors,to meet under a very small angle, we obtain similar fringes,the colors of which are even purer and more brilliant thanbefore. To obtain these bands, it is necessary to be very care-ful that in the region where the two mirrors come into contact, or at least throughout a portion of their line of contact,,the surface of the one is not shifted sensibly past that of theother. This is necessary in order that the difference of pathtraversed by two reflected rays meeting in the area commonto the two luminous* fields may be very small.
 
-The theory of interference alone will* In the case of white light, or even in light as homogeneous as possible, the number of fringes which one can see is always limited, because evenwhen the light has reached a degree of simplicity as great as possiblewithout too far diminishing its intensity, it is still composed of rays whichare heterogeneous; and since the bright and dark bands thus produced donot all have the same size, they encroach the one upon the other in pro-portion as their order increases, and finally they completely destroy eachother ; and this is why one does not see any fringes when the differenceof paths becomes slightly sensible. Concerning the details of this ex-periment and its explanation on the principle of interference, see the arti- cle upon Light in the French translation of Thomson's Chemistry, alreadycited.
+The theory of interference alone will* In the case of white light, or even in light as homogeneous as possible, the number of fringes which one can see is always limited, because evenwhen the light has reached a degree of simplicity as great as possiblewithout too far diminishing its intensity, it is still composed of rays whichare heterogeneous; and since the bright and dark bands thus produced donot all have the same size, they encroach the one upon the other in pro-portion as their order increases, and finally they completely destroy eachother ; and this is why one does not see any fringes when the differenceof paths becomes slightly sensible. Concerning the details of this ex-periment and its explanation on the principle of interference, see the article upon Light in the French translation of Thomson's Chemistry, already cited.
 
 
 explain this experiment, and that the experiment calls formanipulation so delicate and effort so continued that it is almost impossible that one should strike upon it by accident.

@@ -1,132 +1,95 @@
 ---
-title:  "Augustin Fresnel"
+title:  "The Wave Theory: Leonhard Euler"
 heading:  "Chapter 4b"
-weight: 28
+weight: 27
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
 image:  "/covers/history.jpg"
-description: "Fresnel fell into trouble for having enlisted in the small army which attempted to bar Napoleon's return"
+description: "Euler published 'Nova Theoria Laucis et Colorum' [9] while  living under the patronage of Frederic the Great at Berlin"
 ---
 
 
-Laplace's theory was promptly attacked by Young,[23] who pointed out the improbability of such a system of forces required to impress the requisite change of velocity on the light-corpuscles.
 
-Young's paper failed to convince the contemporary world. But it permanently enriched science by proposing a dynamical foundation for double refraction on the principles of the wave-theory.
+The wave-theory was defended by:
+- Franklin[8]
+- the mathematician Leonhard Euler (b, 1707, d. 1783)
 
-<!-- Young says: -->
+Euler published 'Nova Theoria Laucis et Colorum' [9] while  living under the patronage of Frederic the Great at Berlin.
+- He insisted strongly on the resemblance between light and sound: "light is in the aether the same thing as sound in air." 
 
-{{< q a="Young" >}}
-My solution is based on the principles of Huygens: Of a medium more easily compressible in one direction than in any direction perpendicular to it, as if it consisted of an infinite number of parallel plates connected by a substance somewhat less elastic. Such a structure of the elementary atoms of the crystal can be compared to a block of wood or of mica. **Mr. Chladni found that the mere obliquity of the fibres of a rod of Scotch fir reduced the velocity with which it transmitted sound in the proportion of 4 to 5.** Therefore, such a block of wood transmits every impulse in spheroidal (oval) undulations.
+He accepted Newton's doctrine that colour depends on wavelength, he in this memoir supposed the frequency greatest for red light, and least for violet; but a few years later[10] he adopted the opposite opinion.
 
-The spheroid will be truly elliptical when the body consists either of plane and parallel strata, or of equidistant fibres, supposing both to be extremely thin, and to be connected by a less highly elastic substance; the spheroid being in the former case oblate and in the latter oblong.
-{{< /q >}}
+The chief novelty of Euler's writings on light is his explanation of the manner in which material bodies appear coloured when viewed by white light; and, in particular, of the way in which the colours of thin plates are produced. 
 
+He denied that such colours are due to a more copious reflexion of light of certain particular periods, and supposed that they represent vibrations generated within the body itself under the stimulus of the incident light. 
 
-Young then proceeds to a formal proof that "an impulse is propagated through every perpendicular section of a lamellar elastic substance in the form of an elliptic undulation." 
+A coloured surface, according to this hypothesis, contains large numbers of elastic molecules, which, when agitated, emit light of period depending only on their own structure. 
 
-This is the beginning of the dynamical theory of light in crystals.
+The colours of thin plates Euler explained in the same way, the elastic response and free period of the plate at any place would, he conceived, depend on its thickness at that place; and in this way the dependence of the colour on the thickness was accounted for, the phenomena as a whole being analogous to well-known effects observed in experiments on sound.
 
-Brewster[24] afterwards confirmed it when he found that compression in one direction causes an isotropic transparent solid to become doubly-refracting.
+An attempt to improve the corpuscular theory in another direction was made in 1752 by the Marquis de Courtivron,[11] and independently in the following year by T. Melvill.[12] 
 
-Meanwhile, in January 1808, the French Academy had proposed as the subject for the physical prize in 1810, "To furnish a mathematical theory of double refraction, and to confirm it by experiment." 
+These writers suggested, as an explanation of the different refrangibility of different colours, that "the differently colour'd rays are projected with different velocities from the luminous body: the red with the greatest, violet with the least, and the intermediate colours with intermediate degrees of velocity." 
 
-Among those who resolved to compete was Étienne Louis Malus (b. 1775, d. 1812), a colonel of engineers who had seen service with Napoleon's expedition to Egypt.
+On this supposition, as its authors pointed out, the amount of aberration would be different for every different colour; and the satellites of Jupiter would change colour, from white through green to violet, through an interval of more than half a minute before their immersion into the planet's shadow; while at emersion the contrary succession of colours should be observed, beginning with red and ending in white. The testimony of practical astronomers was soon given that such appearances are not observed; and the hypothesis was accordingly abandoned.
 
-While conducting experiments towards the end of 1808 in a house in the Rue des Enfers in Paris, Malus happened to analyse with a rhomb of Iceland spar the light of the setting sun reflected from the window of the Luxembourg, and was surprised to notice that the two images were of very different intensities. 
+The fortunes of the wave-theory began to brighten at the end of the century, when a new champion arose. Thomas Young, born at Milverton in Somersetshire in 1773, and trained to the practice of medicine, began to write on optical theory in 1799. 
 
-Following up this observation, he found that light which bad been reflected from glass acquires thereby a modification similar to that which Huygens had noticed in rays which have experienced double refraction, and which Newton had explained by supposing rays of light to have "sides." 
+In his first paper[13] he remarked that, according? to the corpuscular theory, the velocity of emission of a corpuscle must be the same in all cases, whether the projecting force be that of the feeble spark produced by the friction of two pebbles, or the intense heat of the sun itself—a thing almost incredible. This difficulty does not exist in the undulatory theory, since all disturbances are known to be transmitted) through an elastic fluid with the same velocity. 
 
-This discovery appeared so important that without waiting for the prize competition he communicated it to the Academy in December, 1808, and published it in the following month.[25]
+The reluctance which some philosophers felt to filling all space with an elastic fluid he met with an argument which strangely foreshadows the electric theory of light: "That a medium resembling in many properties that which has been denominated ether does really exist, is undeniably proved by the phenomena of electricity. The rapid transmission of the electrical shock shows that the electric medium is possessed of an elasticity as great as is necessary to be supposed for the propagation of light. 
 
+Whether the electric ether is to be considered the same with the luminons ether, if such a fluid exists, may perhaps at some future time be discovered by experiment: hitherto I have not been able to observe that the refractive power of a fluid, undergoes any change by electricity."
 
-{{< q a="Young" >}}
-I have found that this singular disposition, which has hitherto been regarded as one of the peculiar effects of double refraction, can be completely impressed on the luminous molecules by all transparent solids and liquids. For example, light reflected by the surface of water at an angle of 52°45' has all the characteristics of one of the beams produced by the double refraction of Iceland spar, whose principal section is parallel to the plane which passes through the incident ray and the reflected ray. 
+Young then proceeds to show the superior power of the wave-theory to explain reflexion and refraction, In the corpuscular theory it is difficult to see why part of the light should be reflected and another part of the same beam reflected; 
 
-If we receive this reflected ray on any doubly-refracting crystal, whose principal section is parallel to the plane of reflexion, it will not be divided into two beams as a ray of ordinary light would be, but will be refracted according to the ordinary law."
-{{< /q >}}
+but in the undulatory theory there is no trouble, as is shown by analogy with the partial reflexion of sound from a cloud or denser stratum of air: "Nothing more is necessary than to suppose all refracting media to retain, by their attraction, a greater or less quantity of the luminous ether, so as to make its. density greater than that which it possesses in a vacuum, without increasing its elasticity.". This is precisely the hypothesis adopted later by Fresnel and Green.
 
+In 1801, Young made a discovery of the first magnitude[14] when attempting to explain Newton's rings on the principles of the wave-theory. 
 
-After this, Malus found that light which has been refracted at the surface of any transparent substance likewise possesses in some degree this property, to which he gave the name polarization. 
+Rejecting Euler's hypothesis of induced vibrations, he assumed that the colours observed all exist in the incident light, and showed that they could be derived from it by a process which was now for the first time recognized in optical science.
 
-His memoir[26], submitted to the Academy, contains a rich store of experimental and analytical work on double refraction. 
+The idea of this process was not altogether new, for it had been used by Newton in his theory of the tides. 
 
-It obtained the prize in 1810. Its immediate effect as regards the rival theories of the ultimate nature of light was to encourage the adherents of the corpuscular doctrine. It brought into greater prominence the phenomena of polarization, of which the wave-theorists, still misled by the analogy of light with sound, were unable to give any account.
+"It may happen," he wrote,[15]: "that the tide may be propagated from the ocean through different channels towards the same port, and may pass in less time through some channels than through others, in which case the same generating tide, being thus. divided into two or more succeeding one another, may produce by composition new types of tide." 
 
-The successful discoverer was elected to the Academy of Sciences, and became a member of tho celebrated club of Arcueil.[27] 
+Newton applied this. principle to explain the anomalous tides at Batsha in Tonkin, which had previously been described by Halley.[16]
 
-But his health, which had been undermined by the Egyptian campaign, now broke down completely. He died at 36 in the following year.
+Young's own illustration of the principle is evidently suggested by Newton's. 
 
-The polarization of a reflected ray is in general incomplete i.e. the ray displays only imperfectly the properties of light which has been polarized by double refraction, but for one particular angle of incidence, which depends on the reflecting body, the polarization of the reflected ray is complete.
+"Suppose," he says,[17] "a number of equal waves of water to move upon the surface of a stagnant lake, with a certain constant velocity, and to enter a narrow channel leading out of the lake; suppose then another similar cause to have excited another equal series of waves, which arrive at the same channel, with the same velocity, and at the same time with the first. Neither series of waves will destroy the other, but their effects will be combined; if they enter the channel in such a manner that the elevations of one series. coincide with those of the other, they must together produce a series of greater joint elevations; but if the elevations of one: series are so situated as to correspond to the depressions of the other, they mist exactly fill up those depressions, and the surface of the water must remain smooth. Now I maintain that similar effects take place whenever two portions of light are thus mixed; and this I call the general law of the interference of light."
 
-Malus measured with considerable accuracy the polarizing angles for glass and water, and attempted to connect them with the other optical constants of these substances, the refractive indices and dispersive powers, but without success. 
+Thus, "whenever two portions of the same light arrive to the eye by different routes, either exactly or very nearly in the same direction, the light becomes most intense when the difference of the routes is any multiple of a certain length, and least intense in the intermediate state of the interfering portions; and this length is different for light of different colours."
 
-The matter was afterwards taken up by David Brewster (b. 1781, d. 1868), who in 1815[28] showed that there is complete polarization by reflexion when the reflected and refracted rays satisfy the condition of being at right angles to each other.
+Young's explanation of the colours of thin plates as seen by reflexion was, then, that the incident light gives rise to two beans which reach the eye: one of these beams has been reflected at the first surface of the plate, and the other at the second surface; and these two beams produce the colours by their interference.
 
-Almost at the same time, Brewster made another discovery which profoundly affected the theory of double refraction. 
+One difficulty encountered in reconciling this theory with observation arose from the fact that the central spot in Newton's rings (where the thickness of the thin film of air is zero) is black and not white, as it would be if the interfering beams were similar to each other in all respects. To account for this Young showed, by analogy with the impact of elastic bodies, that when z light is reflected at the surface of a denser medium, its phase is retarded by half an undulation: so that the interfering beams at the centre of Newton's rings destroy each other. 
 
-It had till then beer believed that double refraction is always of the type occurring in Iceland spar, to which Huygens' construction is applicable. Brewster now found this belief to be erroneous, and showed that in a large class of crystals there are two axes, instead of one, along which there is no double refraction. 
+The correctness of this assumption he verified by substituting essence of sassafras (whose refractive index is intermediate between those of crown and flint glass) for air in the space between the lenses; as he anticipated, the centre of the ring-system was now white.
 
-Such crystals are called biaxal, the simpler type to which Iceland spar belongs being called uniaxal.
+Newton had long before observed that the rings are smaller when the medium producing them is optically more dense. 
 
+Interpreted by Young's theory, this definitely proved that the wave-length of light is shorter in dense media, and therefore, that its velocity is less. The publication of Young's papers occasioned a fierce attack on him in the Edinburgh Review, from the pen of Henry Brougham, afterwards Lord Chancellor of England. 
 
-The wave-theory at this time was still encumbered with difficulties.
+Young replied in a pamphlet which sold only 1 copy: There can be no doubt that Brougham for the time being achieved his object of discrediting the wave-theory.[19]
 
-Diffraction was not satisfactorily explained.
-- There was no explanation for polarization.
-- The Huygenian construction appeared to require 2 different luminiferous media within doubly refracting bodies
-  - The universality of that construction had been impugned by Brewster's discovery of biaxal crystals.
+Young now turned his attention to the fringes of shadows. 
 
-The upholders of the emission theory were emboldened by the success of Laplace's theory of double refraction.
+In the corpuscular explanation of these, it was supposed that the attractive forces which operate in refraction extend their influence to some distance from the surfaces of bodies, and inflect such rays as pass close by. If this were the case, the amount of inflexion should obviously depend on the strength of the attractive forces, and consequently on the refractive indices of the bodies-a proposition which had been refuted by the experiments of s'Gravesande. 
 
-In March 1817, they proposed Diffraction as the subject of the Academy's prize for 1818. Within just 7 years, the corpuscular theory was completely overthrown.
+The cause of diffraction effects was thus wholly unknown, until Young, in the Bakerian lecture for 1803,[20] showed that the principle of interference is concerned in their formation; for when a hair is placed in the cone of rays diverging from a luminous point, the internal fringes (i.e. those within the geometrical shadow) disappear when the light passing on one side of the hair is intercepted. His conjecture as to the origin of the interfering rays was not so fortunate; for he attributed the fringes outside the geometrical shadow to interference between the direct rays and rays reflected at the diffracting eige; and supposed the internal fringes of the shadow of a narrow object to be due to the interference of rays inflected by the two edges of the object.
 
-<!-- Their expectation was disappointed; and the successful memoir afforded the first of a series of reverses by which, in the short space of -->
+The success of so many developments of the wave-theory led Young to inquire more closely into its capacity for solving the chief outstanding problem of optics—that of the behaviour of light in crystals. The beautiful construction for the extraordinary ray given by Huygens had lain neglected for a century; and the degree of accuracy with which it represented the observations was unknown. 
 
+At Young's suggestion Wollaston[21] investigated the matter experimentally, and showed that the agreement between his own measurements and Huygeus' rule was remarkably close. "I think," he wrote, "the result must be admitted to be highly favourable to the Huygenian theory; and, although the existence of two refractions at the same time, in the same substance, be not well accounted for, and still less. their interchange with each other, when a ray of light is made to pass through a second piece of spar situated transversely to the first, yet the oblique refraction, when considered alone, seems nearly as well explained as any other optical phenomenon."
 
-## Augustin Fresnel
+Meanwhile the advocates of the corpuscular theory were not idle; and in the next few years a succession of discoveries on their part, both theoretical and experimental, seemed likely to imperil the good position to which Young had advanced the rival hypothesis.
 
-The winner was Augustin Fresnel (b. 1788, d. 1827). He was:
-- the son of an architect
-- a civil engineer in the Government service in Normandy. 
+The first of these was a dynamical explanation of the refraction of the extraordinary ray in crystals, which was published in 1808 by Laplace.[22] His method is an extension of that by which Maupertuis had accounted for the refraction of the ordinary ray, and which since Maupertuis' day had been so developed that it was now possible to apply it to problems of all degrees of complexity. 
 
-During the brief dominance of Napoleon after his escape from Elba in 1815, Fresnel fell into trouble for having enlisted in the small army which attempted to bar Napoleon's return.
+Laplace assumes that the crystalline medium acts on the light-corpuscles of the extraordinary ray so as to modify their velocity, in a ratio which depends on the inclination of the extraordinary ray to the axis of the crystal: 50 that, in fact, the difference of the squares of the velocities of the ordinary and extraordinary rays is proportional to the square of the sine of the angle which the latter ray makes with the axis.
 
-His arrest led to an enforced idleness which he used to study diffraction.
+The principle of least action then leads to a law of refraction identical with that found by Huygens' construction with the spheroid; just as Maupertuis' investigation led to a law of refraction for the ordinary ray identical with that found by Huygens' construction with the sphere.
 
-In his earliest memoir[29], he propounded a theory similar to that of Young, which was spoiled like Young's theory by the assumption that the fringes depend on light reflected by the diffracting edge. 
-
-Observing, however, that the blunt and sharp edges of a knife produce exactly the same fringes, he became dissatisfied with this attempt, and 
-
-On July 15, 1816, he presented to the Academy a supplement to his paper[30]. For the first time, diffraction-effects are referred to their true cause—the mutual interference of the secondary waves emitted by those portions of the original wave-front which have not been obstructed by the diffracting.
-
-Fresnel's method of calculation utilized the principles of both Huygens and Young.
-
-He summed the effects due to different portions of the same primary wave-front, with due regard to the differences of phase engendered in propagation.
-
-<!-- The sketch presented to the Academy in 1816 was during the next two years developed into an exhaustive memoir,[31] which was submitted for the Academy's prize. -->
-
-The earliest memoir, which had been presented to the Academy in the autumn of 1815, had been referred to a Commission of which the reporter was François Arago (b. 1786, d. 1853). Arago was so much impressed that he sought the Fresnel's friendship. He eventually became Fresnel's strenuous champion.
-
-A champion was needed when the larger memoir was submitted. 
-
-The Commission was largely made up of Laplace, Poisson, and Biot.
-- They were all zealous supporters of the corpuscular theory. 
-
-During the examination, however, Fresnel was vindicated in a curious way.
-
-He had calculated in the mernoir the diffraction-patterns of a straight edge, of a narrow opaque body bounded by parallel sides, and of a narrow opening bounded by parallel cdges, and had shown that the results agreed excellently with his experimental measures. 
-
-Poisson, when reading the manuscript, happened to notice that the analysis could be extended to other cases, and in particular that it would indicate the existence of a bright spot at the centre of the shadow of a circular screen.
-
-He suggested to Fresnel that this and some further consequences should be tested experimentally; this was done, and the results were found to confirm the new theory. 
-
-The concordance of observation and calculation was so admirable in all cases where a comparison was possible that the prize was awarded to Fresnel without further hesitation.
-
-In the same year in which the memoir on diffraction was submitted, Fresnel published an investigation[32] of the influence of the earth's motion on light. 
-
-We have already seen that aberration was explained by its discoverer in terms of the corpuscular theory, and it was Young who first showed[33] how it may be explained on the wave-hypothesis. "Upon considering the phenomena of the aberration of the stars," he wrote, "I am disposed to believe that the luminiferous aether pervades the substance of all material bodies with little or no resistance, as freely perhaps as the wind passes through a grove of trees." 
-
-In fact, if we suppose the aether surrounding the earth to be at rest and unaffected by the earth's motion, the light-waves will not partake of the motion of the telescope, which we may suppose directed to the true place of the star, and the image of the star will therefore be displaced from the central spider-line at the focus by a distance equal to that which the earth describes while the light is travelling through the telescope. This agrees with what is actually observed.
-
-But a host of further questions now suggest themselves. Suppose, for instance, that a slab of glass with a plane face is carried along by the motion of the earth, and it is desired to adjust it so that a ray of light coming from a certain star shall not be bent when it enters the glass: must the surface be placed at right angles to the true direction of the star as freed from aberration, or to its apparent direction as affectedly aberration? 
+The law of refraction for the extraordinary ray may also be deduced from Fermat's principle of least time, provided that the velocity is taken inversely proportional to that assumed in the principle of least action; and the velocity appropriate to Fermat's principle agrees with that found by Huygens, being, in fact, proportional to the radius of the spheroid. These results are obvious extensions of those already obtained for ordinary refraction.

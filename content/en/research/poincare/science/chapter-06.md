@@ -65,9 +65,11 @@ the first two parts, of the book.  -->
 
 Provisionally, then, we shall admit absolute time and Euclidean geometry.
 
+
 ## The Principle of Inertia
 
 A body under the action of no force can only move uniformly in a straight line.
+
 Is this a truth imposed on the mind à priori ? 
 
 If this be so, how is it that the Greeks ignored it? How could they have believed that motion ceases with the cause of motion? 
@@ -79,43 +81,38 @@ If it be said that the velocity of a body cannot change, if there is no reason f
 Have there ever been experiments on bodies acted on by no forces? and, if so, how did we know
 that no forces were acting? 
 
-The usual instance is that of a ball rolling for a very long time on a marble table; but
-why do we say it is under the action of no force? Is it be-
-cause it is too remote from all other bodies to experience
-any sensible action? 
+The usual instance is that of a ball rolling for a very long time on a marble table; but why do we say it is under the action of no force? 
 
-It is not further from the earth than if it were thrown freely into the air; and we all know that
-in that case it would be subject to the attraction of the earth.
+Is it because it is too remote from all other bodies to experience any sensible action? 
+
+It is not further from the earth than if it were thrown freely into the air; and we all know that in that case it would be subject to the attraction of the earth.
 
 Teachers of mechanics usually pass rapidly over the example of the ball, but they add that the principle of inertia is verified indirectly by its consequences. This
-is very badly expressed; they evidently mean that various
-consequences may be verified by a more general principle, of which the principle of inertia is only a particular case. 
+is very badly expressed; they evidently mean that various consequences may be verified by a more general principle, of which the principle of inertia is only a particular case. 
 
 I shall propose for this general principle the following enunciation:—The acceleration of a body depends only on its position and that of neighbouring bodies, and
-on their velocities. Mathematicians would say that the
-movements of all the material molecules of the universe
-depend on differential equations of the second order. To the classical mechanics. make it clear that this is really a generalisation of the law of inertia we may again have recourse to our imagination.
+on their velocities. Mathematicians would say that the movements of all the material molecules of the universe
+depend on differential equations of the second order. 
+
+To the classical mechanics. make it clear that this is really a generalisation of the law of inertia we may again have recourse to our imagination.
 
 The law of inertia, as I have said above, is not imposed on us à priori ; other laws would be just as compatible with the principle of sufficient reason. If a body is not acted upon by a force, instead of supposing that its velocity is unchanged we may suppose that its position or its acceleration is unchanged.
 
-Let us for a moment suppose that one of these two laws is a law of nature, and substitute it for the law of inertia: what will be the natural generalisation? A
-moment’s reflection will show us. In the first case, we
-may suppose that the velocity of a body depends only on
-its position and that of neighbouring bodies; in the second case, that the variation of the acceleration of a body depends only on the position of the body and of neighbouring bodies, on their velocities and accelerations; or, in mathematical terms, the differential equations of the motion would be of the first order in the first case and of the third order in the second.
+Let us for a moment suppose that one of these two laws is a law of nature, and substitute it for the law of inertia: what will be the natural generalisation? 
+
+A moment’s reflection will show us. In the first case, we may suppose that the velocity of a body depends only on
+its position and that of neighbouring bodies.
+
+In the second case, that the variation of the acceleration of a body depends only on the position of the body and of neighbouring bodies, on their velocities and accelerations; or, in mathematical terms, the differential equations of the motion would be of the first order in the first case and of the third order in the second.
 
 
 Suppose a world analogous to our solar system, but one in which by
-a singular chance the orbits of all the planets have neither eccentricity nor inclination; and further, I supposescience and hypothesis
+a singular chance the orbits of all the planets have neither eccentricity nor inclination; and further, I supposescience and hypothesis that the masses of the planets are too small for their
+mutual perturbations to be sensible. 
 
-that the masses of the planets are too small for their
-mutual perturbations to be sensible. Astronomers living
-in one of these planets would not hesitate to conclude
-that the orbit of a star can only be circular and parallel
-to a certain plane; the position of a star at a given mo-
-ment would then be sufficient to determine its velocity
-and path. The law of inertia which they would adopt
-would be the former of the two hypothetical laws I have
-mentioned.
+Astronomers living in one of these planets would not hesitate to conclude that the orbit of a star can only be circular and parallel
+to a certain plane; the position of a star at a given moment would then be sufficient to determine its velocity
+and path. The law of inertia which they would adopt would be the former of the two hypothetical laws I have mentioned.
 
 Imagine this system to be some day crossed by a body of vast mass and immense velocity coming from
 distant constellations. All the orbits would be profoundly disturbed. Our astronomers would not be greatly astonished. 

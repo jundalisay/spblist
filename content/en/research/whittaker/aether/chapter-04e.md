@@ -1,158 +1,146 @@
 ---
-title:  "Fresnel's Formula"
-heading:  "Chapter 4d"
-weight: 32
+title:  "Non-polarized Light"
+heading:  "Chapter 4c"
+weight: 30
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
 image:  "/covers/history.jpg"
-description: "Fresnel's second supplement to his first memoir on Double Refraction was presented to the Academy on November 26, 1821"
+description: "Fresnel considered the relation of the direction of vibration to the plane of polarization"
 ---
 
 
+The nature of ordinary non-polarized light was next discussed. 
 
-Fresnel's second supplement to his first memoir on Double Refraction was presented to the Academy on November 26, 1821[62].
-
-It indicated the lines on which his theory might be extended so as to take account of dispersion:
-
-"The molecular groups, or the particles of bodies may be separated by intervals which, though small, are certainly not altogether insensible relatively to the length of a wave." 
-
-Such a coarse-grainedness of the medium would, as he foresaw, introduce into the equations terms by which dispersion might be explained.
-
-The theory of dispersion which was afterwards given by Cauchy was actually based on this principle. It seems likely that, towards the close of his life, Fresnel was contemplating a great memoir on dispersion,[63] which was never completed.
-
-Fresnel had reason at first to be pleased with the reception of his work on the optics of crystals: for in August, 1822, Laplace spoke highly of it in public. 
-
-At the end of the year a seat in the Academy became vacant, he was encouraged to hope that the choice would fall on him. 
-
-In this he was disappointed.[64] 
-
-Meanwhile, his researches were steadily continued. In January, 1823, the very month of his rejection, he presented to the Academy a theory in which reflexion and refraction[65] are referred to the dynamical properties of the luminiferous media.
-
-As in his previous investigations, he assumes that the vibrations which constitute light are executed at right angles to the plane of polarization. 
-
-He adopts Young's principle, that reflexion and refraction are due to differences in the inertia of the aether in different material bodies, and supposes (as in his memoir on Aberration) that the inertia is proportional to the inverse square of the velocity of propagation of light in the medium.
-
-The conditions which he proposes to satisfy at the interface between two media are that the displacements of the adjacent molecules, resolved parallel to this interface, shall be equal in the two media, and that the energy of the reflected and refracted waves together shall be equal to that of the incident wave.
-
-On these assumptions the intensity of the reflected and refracted light may be obtained in the following way:—
-
-Consider first the case in which the incident light is polarized in the plane of incidence, so that the displacement is at right angles to the plane of incidence; let the amplitude of the displacement at a given point of the interface be f for the incident ray, g for the reflected ray, and h for the refracted ray.
-
-The quantities of energy propagated per second across unit cross-section of the incident, reflected, and refracted beams are proportional respectively to
-
-where c1, c2, denote the velocities of light, and ρ1,ρ2 the densities of aether, in the two media, and the cross-sections of the beams which meet the interface in unit area are
-
-cos i, cos i, cor r
-
-respectively. The principle of conservation of energy therefore gives
+Fresnel wrote[51] 
 
 
-The equation of continuity of displacement at the interface is
+{{< q a="Fresnel" >}}
+"that if the polarization of a ray of light consists in this, that all its vibrations are executed in the same direction, it results from any hypothesis on the generation of light-waves, that a ray emanating from & single centre of disturbance will always be polarized in a definite plane at any instant. 
 
-```
-f + g = h.
-```
-
-Eliminating h between these two equations, and using the formulae
-
-we obtain the equation
-
-Thus when the light is polarized in the plane of reflexion, the amplitude of the reflected wave is
-
- the amplitude of the incident vibration.
-
-Fresnel shows in a similar way that when the light is polarized at right angles to the plane of reflexion, the ratio of the amplitudes of the reflected and incident waves is
-
-These formulæ are generally known as Fresnel's sine-law and Fresnel's tangent-law respectively. They had, however, been discovered experimentally by Brewster some years previously. When the incidence is perpendicular, so that i and r are very small, the ratio of the amplitudes becomes
-,
-where μ2 and μ1 denote the refractive indices of the media. 'This formula had been given previously by Young[66] and Poisson,[67] on the supposition that the elasticity of the aether is of the same kind as that of air in sound.
-
-When i + r = 90°, tan (i + r) becomes infinite: and thus a theoretical explanation is obtained for Brewster's law, that if the incidence is such as to make the reflected and refracted rays perpendicular to each other, the reflected light will he wholly polarized in the plane of reflexion.
-
-Fresnel's investigation can scarcely be called a dynamical theory in the strict sense, as the qualities of the medium are not defined. His method was to work backwards from the known properties of light, in the hope of arriving at a mechanism to which they could be attributed; he succeeded in accounting for the phenomena in terms of a few simple principles, but was not able to specify an aether which would in turn account for these principles. The "displacement" of Fresnel could not be a displacement in an elastic solid of the usual type, since its normal component is not continuous across the interface between two media.[68]
-
-The theory of ordinary reflexion was completed by a discussion of the case in which light is reflected totally. This had formed the subject of some of Fresnel's experimental researches several years before .
-
-In 2 papers[69] presented to the Academy in November, 1817, and January, 1818, he had shown that light polarized in any plane inclined to the plane of reflexion is partly "depolarized" by total reflexion. 
-
-This is due to differences of phase which are introduced between the components polarized in and perpendicular to the plane of reflexion. 
-
-"When the reflexion is total," he said, "rays polarized in the plane of reflexion are reflected nearer the surface of the glass than those polarized at right angles to the same plane, so that there is a difference in the paths described."
-
-This change of phase he now deduced from the formulae already obtained for ordinary reflexion. Considering light polarized in the plane of reflexion, the ratio of the amplitudes of the reflected and incident light is, as we have seen,
+But an instant afterwards, the direction of the motion changes, and with it the plane of polarization; and these variations follow each other as quickly as the perturbations of the vibrations of the luminous particle: so that even if we could isolate the light of this particular particle from that of other luminous particles, we should doubtless not recognize in it any appearance of polarization. 
+{{< /q >}}
 
 
-when the sine of the angle of incidence is greater than μ2/μ1, so that total reflexion takes place, this ratio may be written in the form
+{{< q a="Fresnel" >}}
+If we consider now the effect produced by the union of all the waves which emanate from the different points of a luminous body, we see that at each instant, at a definite point of the aether, the general resultant of all the motions which commingle there will have a determinate direction, but this direction will vary from one instant to the next.
 
-where θ denotes a real quantity defined by the equation
+So direct light can be considered as the union, or more exactly as the rapid succession, of systems of waves polarized in all directions.
 
-Fresnel interpreted this expression to mean that the amplitude of the reflected light is equal to that of the incident, but that the two waves differ in phase by an amount θ. The case of light polarized at right angles to the plane of reflexion may be treated in the same way, and the resulting formulae are completely confirmed by experiment.
+According to this way of looking at the matter, the act of polarization consists not in creating these transverse motions, but in decomposing them in two invariable directions, and separating the components from each other; for. then, in each of them, the oscillatory motions take place always in the same plane."
+{{< /q >}}
 
-A few months after the memoir on reflexion had been presented, Fresnel was elected to a seat in the Academy, and during the rest of his short life honours came to him both from France and abroad.
 
-In 1827, the Royal Society awarded him the Rumford medal; but Arago, to whom Young had confided the mission of conveying the medal, found him dying; and eight days afterwards he breathed his last.
+He then proceeded to consider the relation of the direction of vibration to the plane of polarization. "Apply these ideas to double refraction, and regard a uniaxal crystal as an elastic medium in which the accelerating force which results from the displacement of a row of molecules perpendicular to the axis, relative to contiguous rows, is the same all round the axis; while the displacements parallel to the axis produce accelerating forces of a different intensity, stronger if the crystal "repulsive," and weaker if it is "attractive." 
 
-By the genius of Young and Fresnel the wave-theory of light was established in a position which has since remained unquestioned. It seemed almost a work of supererogation when, in 1850, Foucault[70] and Fizeau,[71] carrying out a plan long before imagined by Arago, directly measured the velocity of light in air and in water, and found that on the question so long debated between the rival schools the adherents of the undulatory theory had been in the right.
 
-<!-- Notes
- Phil. Trans. xxxv (1728), p. 637.
- Roemer, in a letter to Huygens of date 30th Dec., 1677, mentions a suspected displacement of the apparent position of a star, due to the motion of the earth at right angles to the line of sight. Cf. Correspondance de Huygens, vii, p. 53,
- Struye in 1845 found for the constant of aberration the value 20″·445, which he afterwards corrected to 20″·463. This was superseded in 1883 by the value 20″·492, determined by M. Nyrén. The observations of both Struve and Nyrén were made with the transit in the prime vertical. The method now generally used depends on the measurement of differences of meridian zenith distances (Talcott's method, as applied by F. Küstner, Beobachtungs-Ergebnisse der kön. Sternwarte zu Berlin, Heft 3, 1888): the value at present favoured for the constant of aberration is 20″·523. Cf. Chandler, Ast. Journal, xxiii, pp. 1, 12 (1903).
-The collective translatory motion of the solar system gives rise to aberrational terms in the apparent places of the fixed stars; but the principal term of this character does not vary with the time, and consequently is equivalent to a permanent constant displacement. The second-order terms (i.e. those which involve the ordinary constant of aberration multiplied by the sun's velocity) might be measurable quantities in the case of stars near the Pole; and the same is true of the variations in the first-order terms (i.e. those which involve the sun's velocity not multiplied by the constant of aberration) due to the circumstance that the star's apparent R. A. and Declination, which occur in these terms, are not constant, but are affected by Precession, Nutation, and Aberration. Cf. Seeliger, Ast. Nach., cix., p. 273 (1834).
 
- Printed in 1752, in the Recueil des pièces qui ont remporter les prix de l'Acad., tome iii.
- Aeta eruditorum, mdcci, p. 19.
- Cf. Lord Kelvin's vortex-sponge aether, described later in this work.
- Mém. de l'Acad., 1744, p. 417.
- Letter xxii, written in 1762.
- L. Euleri Opuscula rarii argumenti, Berlin, 1746, p. 169.
- Mém. de l'Acad. de Berlin, 1752, p.262.
- Courtivron's Traité d'optique, 1752.
- Phil. Trans. xlviii (1758), p. 262.
- Phil. Trans., 1800, p. 106.
- Phil. Trans., 1802, pp. 12, 387.
- Principia, Book iii, Prop. 24.
- Phil. Trans. xiv (1684), p. 681.
- Young's Works, I, p. 202.
- Peacock's Life of Young.
- "Strange fellow," wrote Macaulay, when half a century afterwards he found himself sitting beside Brougham in the House of Lords, "his powers gone: his spite immortal."
- Phil. Trans., 1804; Young's Works, i, p. 179.
- Phil. Trans., 1802, p. 381.
- Mém. de l'Iost., 1809, p. 300: Journal de Physique, Jan., 1809; Mém. de la Soo. d'Arcueil, ii.
- Quarterly Review, Nov., 1809; Young's Works, i, p. 220.
- Pbil. Trans., 1815, p. 60.
- Nouveau Bulletin des Sciences, par la Soc. Philomatique, i (1809), p. 266; Mémoires de la Soc. d'Arcueil, ii (1809).
- Mém. présentés à l'Inst. par divers Savans, ii (1811), p. 303.
- So called from the village near Paris where Laplace and Berthollet had their country-houses, and where the meetings took place. The club consisted of a dozen of the most celebrated scientific men in France.
- Phil. Trans., 1815, p. 125.
- Anuales de Chimie (2), i (1816), p 239; Œuvres, i, p. 89.
- Œuvres, i, p. 129.
- Mém. de l'Acad., 7 (1826), p. 339; Œuvres, i, p. 247.
- Annales de Chimie, ix, p. 57 (1818); Œuvres, ii, p. 627.
- Phil. Trans., 1804, p. 12; Young's Works, i, p. 188.
- Phil. Trans., 1784, p. 35.
- Trane. R. S. Edin., i, Hist., p. 30.
- Biot, Astron. Phys., 3rd ed., 1, p. 364. The accuracy of Arago's experiment can scarcely have been such as to demonstrate absolutely his result.
- Phil. Mag. xxviii (1846) p. 76.
- Annales de Chimie, lvii (1859), p. 385. Algo by A. A. Michelson and E. W. Morley, Am. Journ. Science, xxxi (1886), p. 377.
- Archives Néerl. iii, 180 (1868).
- Fresnel's law may also be deduced from the principle that the amount of light transmitted by a slab of transparent matter must be the same whether the slab is at rest or in motion: otherwise the equilibrium of exchanges of radiation would be tiated. Cf. Larmor, Phil. Trang. eixxxv (1893), p. 776.
- Proc. Roy. Soc., xx, p. 35.
- Mem. Accad. Sci. Bologna, 71, p. 279.
- Ast. Nach, lxxiii, p. 193.
- Ann. de l'Ecole Normale, (2) i, p. 157.
- It was not published until 1819, in Annales de Chimie,; Fresnel's Œuvres, i, p. 509. By means of this result, Fresnel was able to give a complete explanation of a class of phenomena which Arago had discovered in 1811, viz. that when polarized light is transmitted through thin plates of sulphate of lime or mica, and afterwards analysed by a prism of Iceland spar, beautiful complementary colours are displayed. Young had shown that these effects are due essentially to interference, hut had not made clear the part played by polarization.
- Young's Works, i., P. 360.
- Peacock's Life of Young, p. 391.
- Young's Works, i., p. 279.
- This analogy had been given by Hooke in a communication to the Royal Society on Feb. 15, 1671-2. But there seems no reason to suppose that Hooke appreciated the point now advanced by Young,
- Annales de Chimie, xvii (1821), p. 180; Œuvres, i, p. 629. Young had already drawn attention to this point. "It is difficult," he says in his Lectures on Natural Philosophy, ed. 1807, vol. i, p. 138, "to compare the lateral adhesion, or the force which resists the detrusion of the parts of a solid, with any form of direct cohesion. This force constitutes the rigidity or hardness of a solid body, and is wholly absent from liquids."
- Loc. cit., p. 185.
- His first memoir ou Double Refraction was presented to the Academy on Nov. 19th, 1821, but has not been published except in his collected works: Œuvres, ii, p. 261. It was followed by other papers in 1822; and the results were finally collected in a memoir which was printed in 1827, Mém. de l'Acad. vii, p. 45, Œuvres, ii, p. 479.
- In attempting to reconstruct Fresnel's course of thought at this period, the present writer has derived much help from the Life prefixed to the ''Œuvres de Fresnel. Both Fresnel and Young were singularly fortunate in their biographers: Peacock's Life of Young, and this notice of Fresnel, which was the last work of Verdet, are excellent reading.
- It is evident from this that the optic axes, or lines of single wave-velocity, along which there is no double refraction, will be perpendicular to the two circular sections of the surface of elasticity.
- Another construction for the wave-surface is the following, which is due to MacCullagh, Coll. Works, p. 1. Let the ellipsoid
+The distinctive character of the rays which are ordinarily refracted being that of propagating themselves with the same velocity in all directions, we must admit that their oscillatory motions are executed at right angles to the plane drawn through these rays and the axis of the crystal; for then the displacements which they occasion, always taking place along directions perpendicular to the axis, will, by hypothesis, always give rise to the same accelerating forces. 
 
-be intersected by a plane through its centre, and on the perpendicular to that plane take lengths equal to the semi-axes of the section. The locus of these extremities is the wave-surface.
- -->
+But, with the conventional meaning which is attached to the expression plane of polarization, the plane of polarization of the ordinary rays is the plane through the axis: thus, in a pencil of polarized light, the oscillatory motion is executed at right angles to the plane of polarization."
+
+This result afforded Fresnel a foothold in dealing with the problem which occupied the rest of his life: henceforth his aim was to base the theory of light on the dynamical properties of the luminiferous medium.
+
+The first topic which he attacked from this point of view was the propagation of light in crystalline bodies. Since Brewster's discovery that many crystals do not conform to the type to which Huygens' construction is applicable, the wave theory had to some extent lost credit in this region. Fresnel, now, by what was perhaps the most brilliant of all his efforts,[52] not only reconquered the lost territory, but added a new domain to science.
+
+He had, as he tells us himself, never believed the doctrine that in crystals there are two different luminiferous media, one to transmit the ordinary, and the other the extraordinary waves. The alternative to which he inclined was that the two velocities of propagation were really the two roots of a quadratic equation, derivable in some way from the theory of a single aether. Could this equation be obtained, he was confident of finding the explanation, not only of double refraction, but also of the polarization by which it is always accompanied.
+
+The first step was to take the case of uniaxal crystals, which had been discussed by Huygens, and to see whether Huygens' sphere and spheroid could be replaced by, or made to depend on, a single surface.[53]
+
+Now a wave propagated in any direction through a uniaxal crystal can be resolved into two plane-polarized components; one of these, the "ordinary ray," is polarized in the principal section, and has a velocity v1, which may be represented by the radius of Huygens' sphere—say,
+
+while the other, the "extraordinary ray," is polarized in a plane at right angles to the principal section, and has a wave-velocity v2, which may be represented by the perpendicular drawn from the centre of Huygens' spheroid on the tangent-plane parallel to the plane of the wave. If the spheroid be represented by the equation
+
+
+and if (l, m, n) denote the direction-cosines of the normal to the plane of the wave, we have therefore
+
+But the quantities 1/v1 and 1/v2, as given by these equations, are easily seen to be the lengths of the semi-axes of the ellipse in which the spheroid
+
+is intersected by the plane
+
+and thus the construction in terms of Huygens' sphere and spheroid can be replaced by one which depends only on a single surface, namely the spheroid
+
+
+Having achieved this reduction, Fresnel guessed that the case of biaxal crystals could be covered by substituting for the latter spheroid an ellipsoid with three unequal axes—say,
+
+If 1/v1 and 1/v2 denote the lengths of the semi-axes of the ellipse in which this ellipsoid is intersected by the plane
+
+
+it is well known that v1 and v2 are the roots of the equation in v
+
+and accordingly Fresnel conjectured that the roots of this equation represent the velocities, in a biaxal crystal, of the two plane-polarized waves whose normals are in the direction (l, m, n)
+
+Having thus arrived at his result by reasoning of a purely geometrical character, he now devised a dynamical scheme to suit it.
+
+The vibrating medium within a crystal he supposed to be ultimately constituted of particles subjected to mutual forces; and on this assumption he showed that the elastic force of restitution when the system is disturbed must depend linearly on the displacement. 
+
+In this first proposition a difference is apparent between Fresnel's and a true elastic-solid theory; for in actual elastic solids the forces of restitution depend not on the absolute displacement, but on the strains, i.e., the relative displacements.
+
+In any crystal there will exist three directions at right angles to each other, for which the force of restitution acts in the same line as the displacement: the directions which possess this property are named axes of elasticity. Let these be taken as axes, and suppose that the elastic forces of restitution for unit displacements in these three directions are 1/ε1, 1/ε2, 1/ε3 respectively. 
+
+The elasticity should vary with the direction of the molecular displacement seemed to Fresnel to suggest that the molecules of the material body either take part in the luminous vibration, or at any rate influence in some way the elasticity of the aether.
+
+A unit displacement in any arbitrary direction (α, β, γ) can be resolved into component displacements (cos α, cos β, cos γ) parallel to the axes, and each of these produces its own effect independently; so the components of the force of restitution are
+
+This resultant force has not in general the same direction as the displacement which produced it; but it may always be decomposed into two other forces, one parallel and the other perpendicular to the direction of the displacement; and the former of these is evidently
+
+The surface
+
+will therefore have the property that the square of its radius vector in any direction is proportional to the component in that direction of the elastic force due to a unit displacement in that direction: it is called the surface of elasticity.
+
+Consider now a displacement along one of the axes of the section on which the surface of elasticity is intersected by the plane of the wave. It is easily seen that in this case the component of the elastic force at right angles to the displacement acts along the normal to the wave-front.
+
+Fresnel assumes that it will be without influence on the propagation of the vibrations, on the ground of his fundamental hypothesis that the vibrations of light are performed solely in the wave-front.
+
+This step is evidently open to criticism; for in a dynamical theory everything should be deduced from the laws of motion without special assumptions. But granting his contention, it follows that such a displacement will retain its direction, and will be propagated as a plane-polarized wave with a definite velocity.
+
+Now, in order that a stretched cord may vibrate with unchanged period, when its tension is varied, its length must be increased proportionally to the square root of its tension; and similarly the wave-length of a luminous vibration of given period is proportional to the square root of the elastic force (per unit displacement), which urges the molecules of the medium parallel to the wave-front. 
+
+Hence the velocity of propagation of a wave, measured at right angles to its front, is proportional to the square root of the component, along the direction of displacement, of the elastic force per unit displacement, and the velocity of propagation of such a plane-polarized wave as we have considered is proportional to the radius vector of the surface of elasticity in the direction of displacement.
+
+Moreover, any displacement in the given wave-front can be resolved into two, which are respectively parallel to the two axes of the diametral section of the surface of elasticity by a plane parallel to this wave-front. 
+
+It follows from what has been said that each of these component displacements will be propagated as an independent plane-polarized wave, the velocities of propagation being proportional to the axes of the section,[54] and therefore inversely proportional to the axes of the section of the inverse surface of this with respect to the origin, which is the ellipsoid
+
+But this is precisely the result to which, as we have seen, Fresnel lad been led by purely geometrical considerations; and thus his geometrical conjecture could now be regarded as substantiated by a study of the dynamics of the medium.
+
+It is easy to determine the wave-surface or locus at any instant—say, t = 1—of a disturbance originated at some previous instant—say,t=0—at some particular point—say, the origin. For this wave-surface will evidently be the envelope of plane waves emitted from the origin at the instant t = 0—that is, it will be the envelope of planes
+
+where the constants l, m, n, v are connected by the identical equation
+
+and by the relation previously found—namely,
+
+
+By the usual procedure for determining envelopes, it may be shown that the locus in question is the surface of the fourth degree
+
+which is called Fresnel's wave-surface.[55] It is a two-sheeted surface, as must evidently be the case from physical considerations. In uniaxal crystals, for which ε2 and ε3 are equal, it degenerates into the sphere
+
+and the spheroid
+
+It is to these two surfaces that tangent-planes are drawn in the construction given by Huygens for the ordinary and extraordinary refracted rays in Iceland spar. As Fresnel observed, exactly the same construction applies to biaxal crystals, when the two sheets of the wave-surface are substituted for Huygens' sphere and spheroid.
+
+"The theory which I have adopted," says Fresnel at the end of this memorable paper, "and the simple constructions which I have deduced from it, have this remarkable character, that all the unknown quantities are determined together by the solution of the problem. We find at the same time the velocities of the ordinary ray and of the extraordinary ray, and their planes of polarization. Physicists who have studied attentively the laws of nature will feel that such simplicity and such close relations between the different elements of the phenomenon are conclusive in favour of the hypothesis on which they are based."
+
+The question as to the correctness of Fresnel's construction was discussed for many years afterwards.
+
+A striking consequence of it was pointed out in 1832 by William Rowan Hamilton (b. 1805, d. 1865), Royal Astronomer of Ireland, who remarked[56] that the surface defined by Fresnel's equation has four conical points, at each of which there is an infinite number of tangent planes; consequently, a single ray, proceeding from a point within the crystal in the direction of one of these points, must be divided on emergence into an infinite number of rays, constituting a conical surface.
+
+Hamilton also showed that there are four planes, each of which touches the wave-surface in an infinite number of points, constituting a circle of contact: so that a corresponding ray incident externally should be divided within the crystal into an infinite number of refracted rays, again constituting a conical surface.
+
+These singular and unexpected consequences of the theory were shortly afterwards verified experimentally by Humphrey Lloyd,[57] and helped greatly to confirm belief in Fresnel's theory.
+
+However, conical refraction only shows his form of the wave-surface to be correct in its general features, and is no test of its accuracy in all details.
+
+But the following experiments showed that the construction of Huygens and Fresnel is very correct:
+- Stokes in 1872[58] 
+- Glazebrook in 1879[59]
+- Hastings in 1887,[60]
+
+Fresnel's final formulae have since been unassailable.
+
+The dynamical substructure on which he based them is open to objection.
+
+But, as Stokes observed[61]:
+
+"If we reflect on the state of the subject as Fresnel found it, and as he left it, the wonder is, not that he failed to give a rigorous dynamical theory, but that a single mind was capable of effecting so much."
+
