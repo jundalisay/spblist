@@ -1,95 +1,81 @@
 ---
 heading: "Chapter 3b"
-title: "How Kepler's Harmonic Ratios Create Movement"
-date: 2023-11-10
-image: "/graphics/physics/doremi.jpg"
-description: "Kepler's Harmonic Ratios came from the musical notes of Pythagoras. It is also present in Hindu and Taoist science"
-icon: /spmat.png
+title: "The Law of Relativity"
+date: 2020-01-31
+image: "/photos/idea.jpg"
+description: "A Quantum of Aether or Qoa is the seed or starting point for a universe in the multiverse in the Matrix of Existence"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 10
+icon: /icons/spmat.png
 ---
 
 
-Superphysics uses the Eagle equation to connect all movements, as ratios between gravitational signatures. We call the operation of these ratios as the **Kepler Tensor**.  
+The History of the Aether Idea
+In 1816, Augustin Fresnel presented his wave theory which eventually became the luminiferous aether hypothesis.
 
-These ratios determine attraction, repulsion, or stasis or stability of the objects or identities concerned. 
+He got the aether idea from Huygens who got it from Descartes who got it from Timaeus/Socrates who then got it from the Egyptians.
 
-The harmonic ratios of Kepler came from the musical notes invented by Pythagoras.
+Fresnel believed that within space, there was an invisible elastic aether that propelled light and gave it wave properties. This was also eventually adopted by Maxwell.
 
+Since this propulsion was directional, then there should be some drag from the opposite direction as to change the speed of light. This variable speed of light is consistent with Descartes' Physics.
 
-## The Origin of the Musical Notes
+The Michelson-Morley experiment revealed no aether drag and that the speed of light was constant everywhere and in whatever direction.
 
-In 535 BC, Pythagoras went to Egypt to learn Egyptian Science and Cosmology. He came back with the scale `do re mi fa sol la ti`.
+Before this, it was thought that space was constant and light was changing.
 
-Note | Representation
---- | ---
-Do | Gamma or Gaia or Earth-Element which is the 1st Element now called the Strong Force
-Re | Things (Latin 'Re')
-Mi | Moons (Greek Minis)
-Fa | Planets (Egytian 'bearer'). This has the 2nd Element as Water or Weak Force.
-Sol | Stars (Greek 'Sun'). This has the 3rd Element as Fire or Electromagnetism.
-La | Galaxies (Latin 'Lac' or Milky [way]). This has the 4th Element as Air or Spacetime.
-Ti | The total perception (Latin 'Ti' or you). This has the 5th Element as Aether.
+After this, physicists realized that space was changing and light was constant.
 
+This prompted Lorentz to create length contractions (1892), and Poincare to create the Law of Relativity (1902) in space.
 
-{{< img src="/graphics/physics/doremi.jpg" alt="Universal sounds" >}}
+Poincare's Law of Relativity is based on a body's current state compared to its initial state and the current states of other bodies, all referencing the current absolute state of the system.
 
+This is consistent with Descartes' Rule 1 of state-change (since the Cartesian aether is arbitrary), and with Quantum Mechanics that came later with Bohr.
 
+Einstein Messes Up Physics
+For some reason, Einstein comes out of nowhere in 1905 to hack Poincare's Law of Relativity.
 
-Johannes Kepler revived the Pythagorean system to explain the gravitation between planets and the sun as Harmonic Ratios. 
-
-Instead of using equations such as Force = Mass * Acceleration, Kepler's system uses ratios. For example, a starting ratio for a mass is:
-
-```
-Mass_State1 : Location 1
-```
-
-To move it to location 2:
-
-```
-(Material Contact Force + Mass_State1) : Location 2
-```
-
-Here, matter-ial forces can be added to matter to change their location in space because both are of the Earth-Element (Strong Force). 
-
-In effect, the addition of the Material force on Mass_State1 caused it to change state, so that:
-
-```
-Mass_State2 : Location 2
-```
-
-But this is not true for Electromagnetic Forces (Fire Element). For example, the following does not work:
-
-```
-(Heat + Mass) : Location 2
-```
-
-Instead, to move the mass to location 2 Physics uses `(F = Q(vB))`:
-
-```
-Magnetic Force + (charged object (magnetic speed : field)) : Location 2
-```
-
-Note how this has more factors than matter-induced movement. Those factors have to be manipulated in a more precise way to change the state of the mass or object. 
-
-Therefore, to move the mass with Aethereal Force (5th Element):
-
-```
-Aethereal Effort + (mass (...) : (charged object (..)) : Location 2
-```
-
-Where `...` represents the factors that we are still trying to discover.
-
-This is the foundation of anti-gravity as done by the ancient Egyptians.
+Minimize image
+Edit image
+Delete image
 
 
+He enshrines the constancy of the speed of light and uses it as a measure of both space and time, disregarding Newton. This is wildly different from Poincare who allowed different times: Newtonian time, Electromagnetic time, and Mental time.
 
-Kepler's system was very complicated, because being German like Hegel and Kant, he over-explained it as to be totally confusing.
+This flexibility of time is why Poincare wrote:
 
-Newton solved it with a dumbed-down system of F = ma. It removes the factors and makes it understandable to all. 
+"We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion." (The Measure of Time)
 
-But by doing so, it also removed the possibility of magenetic and aethereal movement.
+But Einstein duped everyone and locked space and time to light anyway. This led to E=mc2 where m is really electromagnetic potential in active particles and not Newtonian mass in static inertial ones.
 
-We aim to simplify Kepler's system to make it understandable while retaining its potential for aethereal movement, as well as more improved magnetic ones.
+This is why it works for uranium, but not for iron. This led to nuclear fission at the expense of nuclear fusion which requires anti-gravity which is impossible under Einstein, but possible under Poincare.
+
+Poincare's Law of Relativity Matches Quantum Mechanics and James Webb Space Telescope
+In Cartesian Physics, the speed of light varies in every star system dictated by that star's vortex.
+
+Light is 300,000 km/s because that is how the sun wants it.
+
+An atom has a certain number of electron shells (different from other atoms) because that's how its nucleon wants it.
+
+Similarly, a CEO sets the salary brackets [energy levels] for his employees because that's how he wants it (based on his Finance background [laws of thermodynamics]).
+
+The electron has to follow those shells imposed by the nucleon's territory just as light has to follow the speed imposed on it by the star's territory. Likewise, the employees have to follow the salary brackets in order to maintain the cohesiveness of the company (where the salary represents the energy states). 
+
+To Einstein, the speed of light is constant EVERYWHERE. So it means that light from a distant galaxy 1 million light years away is 1 million years old.
+
+But to Descartes, that light is the current age.
+
+For example, if your friend in Berlin starts a 1 hour Zoom meeting exactly at 6:00 pm, then the you at Tokyo will start it at 2:00 am. A lag of 1 second in the Zoom signal does not mean that Berlin started its meeting late by 1 second.
+
+An Einsteinian would argue that if the lag were 1 hour then at 3:00 am you see your Berlin friend's state at 2:00 am. Therefore, you see a non-current version of your friend.
+
+A Cartesian would reply that such a lag would mean something unnatural was blocking the signal, causing it to float in limbo for 1 hour. But space telescopes see the light from distant galaxies continuously and not twinkling nor disrupted. So there should be no, or very little lag, in its information.
+
+This is why the James Webb Space Telescopes (JWST) shows all distant galaxies as having nearly the same look as ours, instead of being at their infancy.
+
+The problem is that physicists have been conditioned to think that Einstein was a genius. And so they would rather concoct wacky new theories on early galaxy formation to match the data from JWST rather than the more common sense solution of dropping Relativity.
+
+The total refutation of Einstein's Relativity is essential not only in matching the findings of JWST and Hubble. It is also needed to harmonize Classical Mechanics with Quantum Mechanics through the Cartesian Aether as a 'Grand Unifying Theory'.
+
+This unification will create the anti-gravity that is needed for nuclear fusion and space travel that is superior to nuclear fission and Newtonian rockets respectively.

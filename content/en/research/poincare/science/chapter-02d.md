@@ -1,8 +1,8 @@
 ---
-title: The Physical Continuum of several Dimensions
+title: The Physical Continuum of Several Dimensions
 heading: Chapter 2d
 weight: 16
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -21,9 +21,9 @@ A < C.
 Let us now see how this notion is generalised, and how from it may be derived the concept of continuums of several dimensions. 
 
 Consider any two aggregates of sensations. We can either distinguish between them, or
-we cannot; just as in Fechner’s experiments the weight of 10 grammes could be distinguished from the weight of 12 grammes, but not from the weight of 11 grammes.
+we cannot; just as in Fechner’s experiments the weight of 10 grams could be distinguished from the weight of 12 grams, but not from the weight of 11 grams.
 
-This is all that is required to construct the continuum of several dimensions.science and hypothesis
+This is all that is required to construct the continuum of several dimensions. 
 
 Let us call one of these aggregates of sensations an element. 
 
@@ -52,7 +52,7 @@ If, on the contrary, C can only be subdivided by cuts which are themselves conti
 dimensions, and so on. 
 
 Thus the notion of the physical continuum of several dimensions is defined, thanks to the
-very simple fact, that two aggregates of sensations may science and hypothesis
+very simple fact, that two aggregates of sensations may  
 
 be distinguishable or indistinguishable.
 

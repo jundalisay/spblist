@@ -2,7 +2,7 @@
 title: Non-euclidean Geometries
 heading: Chapter 3
 weight: 18
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -50,7 +50,7 @@ which I may mention those of Beltrami and Helmholtz.
 
 ## The Geometry of Lobatschewsky
 
-If it were possible to deduce Euclid’s postulate from the several axioms, it is evident that by rejecting the postulate and retainingscience and hypothesis the other axioms we should be led to contradictory consequences. It would be, therefore, impossible to found on those premisses a coherent geometry. 
+If it were possible to deduce Euclid’s postulate from the several axioms, it is evident that by rejecting the postulate and retaining  the other axioms we should be led to contradictory consequences. It would be, therefore, impossible to found on those premisses a coherent geometry. 
 
 Now, this is precisely what Lobatschewsky has done. He assumes at the outset that several parallels may be drawn through a point to a given straight line, and he retains all the other axioms of Euclid. 
 

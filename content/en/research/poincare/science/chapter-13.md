@@ -2,7 +2,7 @@
 title: Electro-dynamics
 heading: Chapter 13
 weight: 72
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -13,138 +13,94 @@ Ampère’s immortal work is "Théorie des phénomènes electro-dynamiques, uniq
 
 <!-- He had made no hypotheses; but as we shall not be long in recognising, he was mistaken; only, of these hypotheses he was quite unaware.  -->
 
-On the other hand, his successors see them clearly enough, because their attention is attracted by the weak points in Ampère’s solution. They
-made fresh hypotheses, but this time deliberately. How many times they had to change them before they reached
-the classic system, which is perhaps even now not quitedefinitive, we shall see.
+On the other hand, his successors see them clearly enough, because their attention is attracted by the weak points in Ampère’s solution. They made fresh hypotheses, but this time deliberately. 
+
+How many times they had to change them before they reached the classic system, which is perhaps even now not quite definitive, we shall see.
 
 
 ## Ampère’s Theory
 
 In Ampère’s experimental study of the mutual action of currents, he has operated, and he could operate only, with closed currents.
-This was not because he denied the existence or possibility of open currents. If two conductors are positively
-and negatively charged and brought into communication by a wire, a current is set up which passes from one to
-the other until the two potentials are equal. 
 
+This was not because he denied the existence or possibility of open currents. If two conductors are positively and negatively charged and brought into communication by a wire, a current is set up which passes from one to the other until the two potentials are equal. 
 
 According to the ideas of Ampère’s time, this was considered to be an open current; the current was known to pass from the first conductor to the second, but they did not know it returned from the second to the first. 
 
-All currents of this kind were therefore considered by Ampère to be
-open currents—for instance, the currents of discharge of
-a condenser; he was unable to experiment on them, their
-duration being too short. 
+All currents of this kind were therefore considered by Ampère to be open currents—for instance, the currents of discharge of
+a condenser; he was unable to experiment on them, their duration being too short. 
 
-Another kind of open current may be imagined. Suppose we have two conductors
+Another kind of open current may be imagined. Suppose we have two conductors A and B connected by a wire AMB. 
 
-A and B connected by a wire AMB. 
-
-Small conducting masses in motion are first of all placed in contact with the conductor B, receive an electric charge, and leav-
-ing B are set in motion along a path BNA, carrying their charge with them. On coming into contact with A
-they lose their charge, which then returns to B along the
-wire AMB. 
+Small conducting masses in motion are first of all placed in contact with the conductor B, receive an electric charge, and leaving B are set in motion along a path BNA, carrying their charge with them. On coming into contact with A they lose their charge, which then returns to B along the wire AMB. 
 
 Now here we have, in a sense, a closed circuit, since the electricity describes the closed circuit BNAMB;
-but the two parts of the current are quite different. 
 
-In the wire AMB the electricity is displaced through a fixed conductor like a voltaic current, overcoming an ohmic
-resistance and developing heat; we say that it is displaced by conduction. In the part BNA the electricity
-is carried by a moving conductor, and is said to be displaced by convection. If therefore the convection currentelectro-dynamics.
+But the two parts of the current are quite different. 
 
-is considered to be perfectly analogous to the conduction
-current, the circuit BNAMB is closed; if on the contrary
-the convection current is not a “true current,” and, for
-instance, does not act on the magnet, there is only the
-conduction current AMB, which is open. 
+In the wire AMB the electricity is displaced through a fixed conductor like a voltaic current, overcoming an ohmic resistance and developing heat; we say that it is displaced by conduction. In the part BNA the electricity is carried by a moving conductor, and is said to be displaced by convection. If therefore the convection currentelectro-dynamics.
 
-For example, if we connect by a wire the poles of a Holtz machine, the charged rotating disc transfers the electricity by convec-
-tion from one pole to the other, and it returns to the first pole by conduction through the wire. 
+is considered to be perfectly analogous to the conduction current, the circuit BNAMB is closed; if on the contrary the convection current is not a “true current,” and, for instance, does not act on the magnet, there is only the conduction current AMB, which is open. 
 
-But currents of this kind are very difficult to produce with appreciable
-intensity; in fact, with the means at Ampère’s disposal
-we may almost say it was impossible.
+For example, if we connect by a wire the poles of a Holtz machine, the charged rotating disc transfers the electricity by convection from one pole to the other, and it returns to the first pole by conduction through the wire. 
 
-To sum up, Ampère could conceive of the existence of two kinds of open currents, but he could experiment
-on neither, because they were not strong enough, or because their duration was too short. Experiment therefore
-could only show him the action of a closed current on a closed current—or more accurately, the action of a closed
-current on a portion of current, because a current can be made to describe a closed circuit, of which part may be
-in motion and the other part fixed. 
+But currents of this kind are very difficult to produce with appreciable intensity; in fact, with the means at Ampère’s disposal we may almost say it was impossible. 
+
+To sum up, Ampère could conceive of the existence of two kinds of open currents, but he could experiment on neither, because they were not strong enough, or because their duration was too short. 
+
+Experiment therefore could only show him the action of a closed current on a closed current—or more accurately, the action of a closed current on a portion of current, because a current can be made to describe a closed circuit, of which part may be in motion and the other part fixed. 
 
 The displacements of the moving part may be studied under the action of another closed current. On the other hand, Ampère had no means of studying the action of an open current either on a closed or on another open current.
+
 
 ### 1. The Case of Closed Currents
 
 In the case of the mutual action of two closed currents, experiment revealed to Ampère remarkably simple laws. The following will be useful to us in the sequel:
 
-1. If the intensity of the currents is kept constant, and if the two circuits, after having undergone any dis-
-placements and deformations whatever, return finally to their initial positions, the total work done by the electro-
-dynamical actions is zero. In other words, there is an electro-dynamical potential of the two circuits propor-
-tional to the product of their intensities, and depending
-on the form and relative positions of the circuits; the
-work done by the electro-dynamical actions is equal to
-the change of this potential.
+1. If the intensity of the currents is kept constant, and if the two circuits, after having undergone any displacements and deformations whatever, return finally to their initial positions, the total work done by the electrodynamical actions is zero. In other words, there is an electro-dynamical potential of the two circuits proportional to the product of their intensities, and depending on the form and relative positions of the circuits; the work done by the electro-dynamical actions is equal to the change of this potential.
 
 2. The action of a closed solenoid is zero.
 
-3. The action of a circuit C on another voltaic circuit C 0 depends only on the “magnetic field” developed
-by the circuit C. 
+3. The action of a circuit C on another voltaic circuit C 0 depends only on the “magnetic field” developed by the circuit C. 
 
-At each point in space we can, in fact, define in magnitude and direction a certain force called
-“magnetic force,” which enjoys the following properties:
+At each point in space we can, in fact, define in magnitude and direction a certain force called “magnetic force,” which enjoys the following properties:
 
-(a) The force exercised by C on a magnetic pole is
-applied to that pole, and is equal to the magnetic force
+(a) The force exercised by C on a magnetic pole is applied to that pole, and is equal to the magnetic force
 multiplied by the magnetic mass of the pole.
-(b) A very short magnetic needle tends to take the
-direction of the magnetic force, and the couple to which
-it tends to reduce is proportional to the product of the
-magnetic force, the magnetic moment of the needle, and
-the sine of the dip of the needle.
-(c) If the circuit C 0 is displaced, the amount of the
-work done by the electro-dynamic action of C on C 0 will
-be equal to the increment of “flow of magnetic force”
-which passes through the circuit.
+
+(b) A very short magnetic needle tends to take the direction of the magnetic force, and the couple to which it tends to reduce is proportional to the product of the magnetic force, the magnetic moment of the needle, and the sine of the dip of the needle.
+
+(c) If the circuit C 0 is displaced, the amount of the work done by the electro-dynamic action of C on C 0 will
+be equal to the increment of “flow of magnetic force” which passes through the circuit.
+
 
 ### 2. Action of a Closed Current on a Portion of Current
 
-Ampère was unable to produce the open current. He had only one way of studying the action of a closed current on a portion of current. This was
-by operating on a circuit C composed of two parts, one movable and the other fixed. The movable part was, for
-instance, a movable wire αβ, the ends α and β of which could slide along a fixed wire. In one of the positions of
-the movable wire the end α rested on the point A, and the end β on the point B of the fixed wire. The current
-ran from α to β—i.e., from A to B along the movable wire, and then from B to A along the fixed wire. This
-current was therefore closed.
+Ampère was unable to produce the open current. He had only one way of studying the action of a closed current on a portion of current. This was by operating on a circuit C composed of two parts, one movable and the other fixed. The movable part was, for instance, a movable wire αβ, the ends α and β of which could slide along a fixed wire. In one of the positions of
+the movable wire the end α rested on the point A, and the end β on the point B of the fixed wire. 
+
+The current ran from α to β—i.e., from A to B along the movable wire, and then from B to A along the fixed wire. This current was therefore closed.
 
 
-In the second position, the movable wire having slipped, the points α and β were respectively at A 0 and B 0science and hypothesis on the fixed wire. The current ran from α to β—i.e., from A 0 to B 0 on the movable wire, and returned from B 0
-to B, and then from B to A, and then from A to A 0 —all on the fixed wire. This current was also closed. 
+In the second position, the movable wire having slipped, the points α and β were respectively at A 0 and B 0  on the fixed wire. The current ran from α to β—i.e., from A 0 to B 0 on the movable wire, and returned from B 0 to B, and then from B to A, and then from A to A 0 —all on the fixed wire. This current was also closed. 
 
-If a similar circuit be exposed to the action of a closed current C,
-the movable part will be displaced just as if it were acted on by a force. 
+If a similar circuit be exposed to the action of a closed current C, the movable part will be displaced just as if it were acted on by a force. 
 
-Ampère admits that the force, apparently acting on the movable part AB, representing the action
-of C on the portion αβ of the current, remains the same whether an open current runs through αβ, stopping at α and β, or whether a closed current runs first to β and
-then returns to α through the fixed portion of the circuit.
+Ampère admits that the force, apparently acting on the movable part AB, representing the action of C on the portion αβ of the current, remains the same whether an open current runs through αβ, stopping at α and β, or whether a closed current runs first to β and then returns to α through the fixed portion of the circuit.
 
-This hypothesis seemed natural enough, and Ampère innocently assumed it; nevertheless the hypothesis is not
-a necessity, for we shall presently see that Helmholtz rejected it. However that may be, it enabled Ampère, although he had never produced an open current, to lay
-down the laws of the action of a closed current on an open current, or even on an element of current. They are simple:
+This hypothesis seemed natural enough, and Ampère innocently assumed it.
 
-(1) The force acting on an element of current is ap-
-plied to that element; it is normal to the element and to
-the magnetic force, and proportional to that component
-of the magnetic force which is normal to the element.electro-dynamics.
+Nevertheless the hypothesis is not a necessity, for we shall presently see that Helmholtz rejected it. However that may be, it enabled Ampère, although he had never produced an open current, to lay down the laws of the action of a closed current on an open current, or even on an element of current. They are simple:
 
-(2) The action of a closed solenoid on an element of
-current is zero. But the electro-dynamic potential has
-disappeared—i.e., when a closed and an open current of
-constant intensities return to their initial positions, the
-total work done is not zero.
+(1) The force acting on an element of current is applied to that element; it is normal to the element and to the magnetic force, and proportional to that component of the magnetic force which is normal to the element.electro-dynamics.
+
+(2) The action of a closed solenoid on an element of current is zero. But the electro-dynamic potential has disappeared—i.e., when a closed and an open current of constant intensities return to their initial positions, the total work done is not zero.
+
 
 ### 3. Continuous Rotations
 
-The most remarkable electro-dynamical experiments are those in which continuous rotations are produced, and which are called
-unipolar induction experiments. 
+The most remarkable electro-dynamical experiments are those in which continuous rotations are produced, and which are called unipolar induction experiments. 
 
-A magnet may turn around its axis. A current passes first through a fixed wire and then enters the magnet by the pole N, for instance, passes through half the magnet, and emerges by a sliding contact and re-enters the fixed wire. The magnet then
-begins to rotate continuously. 
+A magnet may turn around its axis. A current passes first through a fixed wire and then enters the magnet by the pole N, for instance, passes through half the magnet, and emerges by a sliding contact and re-enters the fixed wire. The magnet then begins to rotate continuously. 
 
 This is Faraday’s experiment. 
 
@@ -189,7 +145,7 @@ speaking, no magnetic force; and we have above defined this force in three diffe
 
 1. By the action on a magnetic pole
 2. By the director couple which orientates the magnetic needle
-3. By the action on an element of current.science and hypothesis
+3. By the action on an element of current. 
 
 In the case with which we are immediately concerned, not only are these three definitions not in harmony, but each has lost its meaning:—
 

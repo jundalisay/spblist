@@ -2,7 +2,7 @@
 title: Space And Geometry
 heading: Chapter 4
 weight: 24
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -56,7 +56,7 @@ no less important difference: this pure visual space is not homogeneous.
 
 All the points on the retina, apart from the images which may be formed, do not play the same rôle.
 
-The yellow spot can in no way be regarded as identicalscience and hypothesis
+The yellow spot can in no way be regarded as identical 
 
 with a point on the edge of the retina. Not only does the
 same object produce on it much brighter impressions, but
@@ -108,7 +108,7 @@ pendently, we must take into account one more indepen-
 dent variable, and complete visual space will appear to
 us as a physical continuum of four dimensions. And so in
 this there is also a fact of external experiment. Nothing
-prevents us from assuming that a being with a mind likescience and hypothesis
+prevents us from assuming that a being with a mind like 
 
 ours, with the same sense-organs as ourselves, may be
 placed in a world in which light would only reach him af-
@@ -160,7 +160,7 @@ number of experiments, and no doubt if the education
 of our senses had taken place in a different medium,
 where we would have been subjected to different impres-
 sions, then contrary habits would have been acquired,
-and our muscular sensations would have been associatedscience and hypothesis
+and our muscular sensations would have been associated 
 
 according to other laws.
 

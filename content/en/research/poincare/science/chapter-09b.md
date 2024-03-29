@@ -2,7 +2,7 @@
 title: The Unity of Nature
 heading: Chapter 9b
 weight: 48
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -51,7 +51,7 @@ details, richer and more complex? How can we even rec-
 oncile it with the unity of nature? For if all things are
 interdependent, the relations in which so many different
 objects intervene can no longer be simple.
-If we study the history of science we see produced twoscience and hypothesis
+If we study the history of science we see produced two 
 164
 phenomena which are, so to speak, each the inverse of the
 other. Sometimes it is simplicity which is hidden under
@@ -87,7 +87,7 @@ If in astronomy they are negligible, and if the law thus regains its simplicity,
 mous distances of the celestial bodies. No doubt, if our
 means of investigation became more and more penetrating, we should discover the simple beneath the complex,
 and then the complex from the simple, and then again the simple beneath the complex, and so on, without ever
-being able to predict what the last term will be. We mustscience and hypothesis
+being able to predict what the last term will be. We must 
 
 stop somewhere, and for science to be possible we must
 stop where we have found simplicity. That is the only

@@ -2,7 +2,7 @@
 title: Proof By Recurrence
 heading: Chapter 1d
 weight: 8
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -109,7 +109,7 @@ Necessary, no doubt, but not sufficient!
 
 For a construction to be useful and not mere waste of mental effort, for it to serve as a stepping-stone to higher things, it must first of all possess a kind of unity enabling us to see something more than the juxtaposition of its elements. 
 
-Or more accurately, there must be some advantage in considering the construction rather than thescience and hypothesis elements themselves. What can this advantage be? 
+Or more accurately, there must be some advantage in considering the construction rather than the  elements themselves. What can this advantage be? 
 
 Why reason on a polygon, for instance, which is always decomposable into triangles, and not on elementary triangles?
 

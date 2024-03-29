@@ -12,6 +12,13 @@ icon: /icons/spmat.png
 ---
 
 
+
+Axioms | Propositions
+--- | ---
+The Law of Conservation of Idea | This manifests as Gravitational Signatures
+. | Gravitational Signatures lead to Gravitational Territories
+
+
 The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of the identity. In Physics, this is known as 'gravitational fields'.
 
 Rene Descartes described these signatures as spinning vortices, each with its own strength and direction. 
@@ -42,3 +49,5 @@ These 4 zones match the:
   - Large Planet zone
   - Oort Cloud
   - Stellar Halo
+
+This will be discussed more in the Part on Spacetime.

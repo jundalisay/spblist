@@ -2,7 +2,7 @@
 heading: Chapter 2c
 title: Mathematical Magnitude And Experiment
 weight: 14
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -61,7 +61,7 @@ which are derived from more or less elaborate empirical notions.
 
 ## Measurable Magnitude
 
-So far we have not spoken of the measure of magnitudes; we can tell if any one ofscience and hypothesis
+So far we have not spoken of the measure of magnitudes; we can tell if any one of 
 
 them is greater than any other, but we cannot say that
 it is two or three times as large.
@@ -93,7 +93,7 @@ Here, then, are new terms intercalated in our series; and if I may be permitted 
 have created a kind of continuum of the third order.
 
 It is an easy matter to go further, but it is idle to do so, for we would only be imagining symbols without any
-possible application, and no one will dream of doing that.science and hypothesis
+possible application, and no one will dream of doing that. 
 
 This continuum of the third order, to which we are led by the consideration of the different orders of infinitesimals, is in itself of but little use and hardly worth quoting.
 

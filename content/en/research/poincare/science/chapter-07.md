@@ -2,7 +2,7 @@
 title: Relative And Absolute Motion
 heading: Chapter 7
 weight: 40
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png

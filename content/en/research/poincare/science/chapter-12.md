@@ -2,7 +2,7 @@
 title: Optics And Electricity
 heading: Chapter 12
 weight: 68
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png

@@ -1,7 +1,7 @@
 ---
 title: General Conclusions on Part 3
 heading: Chapter 8c
-weight: 44
+weight: 45
 description: The principles of mechanics are therefore presented to us under 2 different aspects
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
@@ -30,7 +30,7 @@ In no way can they be regarded as geometrical experiments. And even the probable
 
 Our fundamental experiments are pre-eminently physiological experiments which refer, not to the space which is the object that geometry must study, but to our body—that is to say, to the instrument which we use for that study. 
 
-On the other hand, the fundamental conventions of mechanics and the experiments which prove to us that they are convenient, certainly refer to the same objects or to analogous objects. Conventional and general principlesscience and hypothesis.
+On the other hand, the fundamental conventions of mechanics and the experiments which prove to us that they are convenient, certainly refer to the same objects or to analogous objects. Conventional and general principles .
 
 are the natural and direct generalisations of experimental and particular principles. Let it not be said that I am thus tracing artificial frontiers between the sciences; that I am separating by a barrier geometry properly so
 called from the study 

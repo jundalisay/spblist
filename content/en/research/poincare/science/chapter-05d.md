@@ -2,12 +2,11 @@
 title: What does space having 3 dimensions mean?
 heading: Chapter 5d
 weight: 33
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
 ---
-
 
 
 8. 

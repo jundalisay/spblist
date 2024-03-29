@@ -7,10 +7,17 @@ description: "In Superphysics, electrons have a positive or masculine charge, wh
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 8
 icon: /icons/spmat.png
 toc: false
 ---
+
+
+
+Axioms | Propositions
+--- | ---
+The Law of Conservation of Idea in Physical Reality  | This manifests as Gravitational Signatures
+
 
 
 The Law of Conservation of Idea of Superphysics states that everything in reality is an idea of the Supreme. 

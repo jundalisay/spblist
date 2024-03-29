@@ -1,8 +1,8 @@
 ---
 title: The Creation of the Mathematical Continuum
-weight: 12
+weight: 13
 heading: Chapter 2b
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -11,12 +11,9 @@ icon: /avatars/poincare.png
 
 ##  First Stage
 
-So far it would suffice, in order to account for
-facts, to intercalate between A and B a small number of
-terms which would remain discrete. 
+In order to account for facts, to intercalate between A and B a small number of terms which would remain discrete. 
 
-What happens now if we have recourse to some instrument to make up for
-the weakness of our senses? 
+What happens now if we have recourse to some instrument to make up for the weakness of our senses? 
 
 If, for example, we use a microscope? 
 
@@ -38,24 +35,18 @@ The whole is homogeneous to the part; and there is a fresh contradiction—or ra
 
 The contradiction ceases as soon as the number of terms is regarded as infinite. 
 
-There is nothing, for example, to prevent us from regarding the aggregate of integers as similar to the aggregate of even
-numbers, which is however only a part of it; in fact, to each integer corresponds another even number which is its double. 
+There is nothing, for example, to prevent us from regarding the aggregate of integers as similar to the aggregate of even numbers, which is however only a part of it; in fact, to each integer corresponds another even number which is its double. 
 
 But it is not only to escape this contradiction contained in the empiric data that the mind is led to create the concept of a continuum formed of an indefinite number of terms.
 
-Here everything takes place just as in the series of the integers. We have the faculty of conceiving that a unit
-may be added to a collection of units. 
+Here everything takes place just as in the series of the integers. We have the faculty of conceiving that a unit may be added to a collection of units. 
 
-Thanks to experiment, we have had the opportunity of exercising this faculty and are conscious of it; but from this fact we feel
-that our power is unlimited, and that we can count indefinitely, although we have never had to count more than a
-finite number of objects. 
+Thanks to experiment, we have had the opportunity of exercising this faculty and are conscious of it; but from this fact we feel that our power is unlimited, and that we can count indefinitely, although we have never had to count more than a finite number of objects. 
 
 In the same way, as soon as we have intercalated terms between two consecutive terms of a series, we feel that this operation may be continued without limit, and that, so to speak, there is no intrinsic reason for stopping. 
 
-As an abbreviation, I may give the name of a mathematical continuum of the first order to
-every aggregate of terms formed after the same law as
-the scale of commensurable numbers. If, then, we intercalate new sets according to the laws of incommensurable
-numbers, we obtain what may be called a continuum of
-the second order.
+As an abbreviation, I may give the name of a mathematical continuum of the first order to every aggregate of terms formed after the same law as the scale of commensurable numbers. 
+
+If, then, we intercalate new sets according to the laws of incommensurable numbers, we obtain what may be called a continuum of the second order.
 
 

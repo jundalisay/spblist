@@ -13,6 +13,12 @@ icon: /icons/pantry.png
 ---
 
 
+Axioms | Propositions
+--- | ---
+There are 5 Layers in Reality | Each Layer has 3 Sublayers Representing 3 Influences 
+
+
+
 Chapter 1 divided reality into 5 layers. 
 
 This chapter divides each layer into 3 sublayers, a upper, middle, and a lower part. This matches the [3 Influences or Gunas](/superphysics/principles/chapter-05b/).

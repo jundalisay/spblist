@@ -2,7 +2,7 @@
 title: Proof By Recurrence
 heading: Chapter 1c
 weight: 6
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png

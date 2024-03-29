@@ -12,6 +12,13 @@ icon: /icons/spmat.png
 ---
 
 
+
+Axioms | Propositions
+--- | ---
+There are 5 Layers in Reality | The MSQ Classification makes it easier to classify things within the 5 Layers 
+
+
+
 Modern Physics was created from the lowest Material layer (Strong Force), working its way upwards to the Convertible (Weak Force) and then to the Radiant (Electromagnetic).
 
 In contrast, Superphysics is created from the top Aethereal layer working downwards to the Material. This allows us to see all particles and forces from the highest viewpoint and reclassify them in a proper and intuitive way.
@@ -90,3 +97,6 @@ Material | qom (Quantum of Matter) | Quark
 - Neutrons and Protons are an essential substance or quanta even if it is not a fundamental particle in Physics
 - In Superphysics, quark 'colors' are merely representations of the 3 Influences of Crudifying, Transforming, and Subtlifying   
 - The Superphysics model extends all the way to the Aethereal -->
+
+
+Each Layer will be discussed in a Part. 

@@ -2,7 +2,7 @@
 title: Interpretation of Non-Euclidean Geometries
 heading: Chapter 3b
 weight: 20
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -80,7 +80,7 @@ when they are abandoned one after another, there are
 still left standing some propositions which are common to
 the geometries of Euclid, Lobatschewsky, and Riemann.
 These propositions must be based on premisses that ge-
-ometers admit without enunciation. It is interesting toscience and hypothesis
+ometers admit without enunciation. It is interesting to 
 
 try and extract them from the classical proofs.
 
@@ -129,7 +129,7 @@ the possibility of this motion, but also some of its prop-
 erties. 
 
 This first arises in the definition of the straight line. Many defective definitions have been given, but the
-true one is that which is understood in all the proofs inscience and hypothesis
+true one is that which is understood in all the proofs in 
 
 which the straight line intervenes. “It may happen that the motion of an invariable figure may be such that all the points of a line belonging to the figure are motionless, while all the points situate outside that line are in motion. 
 

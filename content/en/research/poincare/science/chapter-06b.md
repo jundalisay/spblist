@@ -82,7 +82,7 @@ choff’s definition: force is the product of the mass and the acceleration. Thi
 
 But as a definition it is insufficient, for we do not know what mass is. It enables us, no doubt, to calculate the ratio of two forces applied at different times to the same body, but it tells us nothing about the ratio of two forces applied to two different bodies. 
 
-To fill up the gap we must have recourse to Newton’s third law, the equality of action and reaction, still regarded not as an experimental law but as a definition. Two bodies,science and hypothesis A and B, act on each other; the acceleration of A, multiplied by the mass of A, is equal to the action of B on A; in the same way the acceleration of B, multiplied by the mass of B is equal to the reaction of A on B.
+To fill up the gap we must have recourse to Newton’s third law, the equality of action and reaction, still regarded not as an experimental law but as a definition. Two bodies,  A and B, act on each other; the acceleration of A, multiplied by the mass of A, is equal to the action of B on A; in the same way the acceleration of B, multiplied by the mass of B is equal to the reaction of A on B.
 
 As, by definition, the action and the reaction are equal, the masses of A and B arc respectively in the inverse ratio of their masses. Thus is the ratio of the two masses defined, and
 it is for experiment to verify that the ratio is constant.

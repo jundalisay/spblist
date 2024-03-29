@@ -2,7 +2,7 @@
 title: The Nature Of Mathematical Reasoning
 heading: Chapter 1b
 weight: 4
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -11,7 +11,7 @@ icon: /avatars/poincare.png
 
 ## 3. Geometry
 
-<!-- Let us now see the geometer at work, and try to surprise some of his methods. The task is not without difficulty; it is not enough to open a book at random and to anal-science and hypothesis
+<!-- Let us now see the geometer at work, and try to surprise some of his methods. The task is not without difficulty; it is not enough to open a book at random and to anal- 
 
 yse any proof we may come across.  -->
 

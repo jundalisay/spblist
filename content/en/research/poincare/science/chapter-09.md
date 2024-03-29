@@ -2,7 +2,7 @@
 title: Hypotheses In Physics
 heading: Chapter 9
 weight: 46
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png

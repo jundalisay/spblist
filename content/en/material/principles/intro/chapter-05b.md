@@ -12,6 +12,13 @@ icon: /icons/pantry.png
 ---
 
 
+
+Axioms | Propositions
+--- | ---
+The 2 Forces in Physical Reality | This manifests as different kinds of energy, a bit different from Physics entropy
+
+
+
 ## How Energy Manifests in the 5 Layers
 
 Superphysics is the paradigm that sees the universe or reality as being made up of 2 Forces and 5 Layers. 

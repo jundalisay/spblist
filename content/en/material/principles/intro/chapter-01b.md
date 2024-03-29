@@ -12,6 +12,19 @@ icon: /icons/pantry.png
 ---
 
 
+Axioms | Propositions
+--- | ---
+There are 5 Layers in Reality | Layer 0 is the Probability Layer
+
+
+
+{{< q a="Poincare" c="" >}}
+Predicted facts can only be probable.
+
+Every time the physicist reasons by induction, he consciously requires the calculus of probabilities. That is why I examine what this calculus is worth, and what dependence we may place on it.
+{{< /q >}}
+
+
 The Probability Layer is above and covers the aethereal layer. This means it is above existence  and is only theoretical.  We can also call this pre-existence that binds existence.
 
 This layer is static and is driven by the desire of either the Creator or the createe. 

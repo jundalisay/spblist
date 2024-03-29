@@ -2,7 +2,7 @@
 title: Changes of State and Changes of Position
 heading: Chapter 4c
 weight: 28
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -38,7 +38,7 @@ We may thus conceive that beings whose education has taken place in a medium in 
 Suppose, for example, a world enclosed in a large sphere and subject to the following laws:—The temper-
 ature is not uniform; it is greatest at the centre, and
 gradually decreases as we move towards the circumference of the sphere, where it is absolute zero. The law of
-this temperature is as follows:—If R be the radius of thescience and hypothesis
+this temperature is as follows:—If R be the radius of the 
 
 sphere, and r the distance of the point considered from the centre, the absolute temperature will be proportional to R 2 − r 2 . Further, I shall suppose that in this world all bodies have the same co-efficient of dilatation, so that the linear dilatation of any body is proportional to its absolute temperature. 
 
@@ -106,7 +106,7 @@ Conclusions.—It is seen that experiment plays a considerable rôle in the gene
 
 What a rough approximation it would be! Geometry would be only the study of the movements of solid bodies; but, in reality, it is not concerned with natural solids: its object is certain ideal solids, absolutely invariable, which are but a greatly simplified and very remote image of them.
 
-The concept of these ideal bodies is entirely mental, andscience and hypothesis
+The concept of these ideal bodies is entirely mental, and 
 
 experiment is but the opportunity which enables us to
 reach the idea. The object of geometry is the study of a

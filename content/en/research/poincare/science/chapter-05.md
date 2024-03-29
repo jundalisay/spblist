@@ -2,7 +2,7 @@
 title: Experiment And Geometry
 heading: Chapter 5
 weight: 30
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png

@@ -2,7 +2,7 @@
 title: The Fourth Geometry
 heading: Chapter 3c
 weight: 22
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -37,7 +37,7 @@ This is answered by a theorem from Sophus Lie. Suppose the following premisses a
 
 The number of geometries compatible with these premisses will be limited. I may even add that if n is given, a superior limit can be assigned to p. 
 
-If, therefore, the possibility of the movement is granted, we can only invent a finite and even a rather restricted number of three-science and hypothesis dimensional geometries.
+If, therefore, the possibility of the movement is granted, we can only invent a finite and even a rather restricted number of three-  dimensional geometries.
 
 
 ## Riemann’s Geometrie
@@ -78,7 +78,7 @@ get rid of this, and while rejecting this proposition let us construct a false a
 We shall not be able to do it. We shall be even tempted at the outset to look upon these intuitions as analytical. 
 
 Besides, to take up again our fiction of animals without thickness, we can scarcely admit that
-these beings, if their minds are like ours, would adopt the Euclidean geometry, which would be contradicted byscience and hypothesis all their experience. Ought we, then, to conclude that the axioms of geometry are experimental truths? 
+these beings, if their minds are like ours, would adopt the Euclidean geometry, which would be contradicted by  all their experience. Ought we, then, to conclude that the axioms of geometry are experimental truths? 
 
 But we do not make experiments on ideal lines or ideal circles; we can only make them on material objects. On what, therefore, would experiments serving as a foundation for geometry be based? 
 

@@ -2,7 +2,7 @@
 title: Changes of State and Changes of Position
 heading: Chapter 4b
 weight: 26
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -15,7 +15,7 @@ If the concept of geometrical space is not imposed upon our minds, and if, on th
 
 None of our sensations, if isolated, could have brought us to the concept of space; we are brought to it solely by studying the laws by which those sensations succeed one another. 
 
-We see at first that our impressions are subject to change; but among the changes that we ascertain, we are very soonscience and hypothesis led to make a distinction. Sometimes we say that the objects, the causes of these impressions, have changed
+We see at first that our impressions are subject to change; but among the changes that we ascertain, we are very soon led to make a distinction. Sometimes we say that the objects, the causes of these impressions, have changed
 their state, sometimes that they have changed their position, that they have only been displaced. 
 
 Whether an object changes its state or only its position, this is always translated for us in the same manner, by a modification in an aggregate of impressions. How then have we been
@@ -26,17 +26,15 @@ If there were only change of position, we could restore the primitive aggregate 
 If, for example, it were a question of the sight, and if an object be displaced before our eyes, we
 can “follow it with the eye,” and retain its image on the
 same point of the retina by appropriate movements of the
-eyeball. These movements we are conscious of because
-they are voluntary, and because they are accompanied
-by muscular sensations. 
+eyeball. 
 
-But that does not mean that we represent them to ourselves in geometrical space. So
-what characterises change of position, what distinguishes
-it from change of state, is that it can always be corrected
-by this means. It may therefore happen that we passspace and geometry.
+These movements we are conscious of because they are voluntary, and because they are accompanied by muscular sensations. 
 
-from the aggregate of impressions A to the aggregate B
-in two different ways. 
+But that does not mean that we represent them to ourselves in geometrical space. So what characterises change of position, what distinguishes
+it from change of state, is that it can always be corrected by this means. It may therefore happen that we passspace and geometry.
+
+<!-- from the aggregate of impressions A to the aggregate B
+in two different ways.  -->
 
 First, involuntarily and without experiencing muscular sensations—which happens when
 it is the object that is displaced; secondly, voluntarily,
@@ -61,7 +59,7 @@ by any sensations whatever.
 
 How is such a compensation possible in such a way that two changes, otherwise mutually independent, may be reciprocally corrected? 
 
-A mind already familiar with geometry would science and hypothesis reason as follows:—If there is to be compensation, the different parts of the external object on the one hand, and
+A mind already familiar with geometry would reason as follows:—If there is to be compensation, the different parts of the external object on the one hand, and
 the different organs of our senses on the other, must be in
 the same relative position after the double change. 
 
@@ -160,5 +158,5 @@ the internal changes those which have a correlative in the
 first category.
 Thus by means of this reciprocity is defined a partic-
 ular class of phenomena called displacements. The laws
-of these phenomena are the object of geometry.science and hypothesis
+of these phenomena are the object of geometry.
 

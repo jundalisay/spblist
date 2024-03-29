@@ -12,6 +12,12 @@ icon: /icons/pantry.png
 ---
 
 
+
+Axioms | Propositions
+--- | ---
+There are 5 Layers in Reality | 
+
+
 The universe is a reality that is made up of 5 Layers that are completely integrated with each other. 
 
 An analogy is a Photoshop image which is made up layers that are on top of each other. 

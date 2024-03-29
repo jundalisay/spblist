@@ -12,6 +12,12 @@ icon: /icons/spmat.png
 ---
 
 
+Axioms | Propositions
+--- | ---
+The 2 Forces in Physical Reality | This manifests as Vortices in the 5 Layers
+
+
+
 The 2 Forces of Positive and Negative create a duality in the physical domain just as it does in the metaphysical. This manifests as a positive and negative in each of the 5 Layers:
 
 <!-- Layer | Duality 

@@ -107,7 +107,7 @@ In the second case, that the variation of the acceleration of a body depends onl
 
 
 Suppose a world analogous to our solar system, but one in which by
-a singular chance the orbits of all the planets have neither eccentricity nor inclination; and further, I supposescience and hypothesis that the masses of the planets are too small for their
+a singular chance the orbits of all the planets have neither eccentricity nor inclination; and further, I suppose  that the masses of the planets are too small for their
 mutual perturbations to be sensible. 
 
 Astronomers living in one of these planets would not hesitate to conclude that the orbit of a star can only be circular and parallel

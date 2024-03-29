@@ -2,7 +2,7 @@
 title: Anthropomorphic Mechanics
 heading: Chapter 6c
 weight: 38
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -24,7 +24,7 @@ This direct intuition arises from the idea of effort which is familiar to us fro
 
 Everything which does not teach us how to measure it is as useless to the mechanician as, for instance, the subjective idea of heat and cold to the student of heat.
 
-This subjective idea cannot be translated into numbers,science and hypothesis and is therefore useless; a scientist whose skin is an absolutely bad conductor of heat, and who, therefore, has never felt the sensation of heat or cold, would read a thermometer in just the same way as any one else, and would have enough material to construct the whole of the theory of heat.
+This subjective idea cannot be translated into numbers,  and is therefore useless; a scientist whose skin is an absolutely bad conductor of heat, and who, therefore, has never felt the sensation of heat or cold, would read a thermometer in just the same way as any one else, and would have enough material to construct the whole of the theory of heat.
 
 Now this immediate notion of effort is of no use to us in the measurement of force. It is clear, for example, that I shall experience more fatigue in lifting a weight of
 100 lb. than a man who is accustomed to lifting heavy burdens. 
@@ -52,7 +52,7 @@ A body `A` is attached to a thread. At the other extremity of the thread acts a 
 
 The experiment is then renewed with both A and B until the increment of length is β.
 
-The 4 accelerations observed should be proportional.science and hypothesis
+The 4 accelerations observed should be proportional. 
 
 Here we have an experimental verification of the law of acceleration enunciated above. Again, we may consider a body under the action of several threads in equal tension, and by experiment we determine the direction of those threads when the body is in equilibrium. This is an experimental verification of the law of the composition of forces. 
 
@@ -83,7 +83,7 @@ Without taking into account the fact that the conditions in which your definitio
 
 The ideas expounded by M. Andrade are none the less very interesting. If they do not satisfy our logical requirements, they give us a better view of the historical genesis of the fundamental ideas of mechanics. 
 
-The reflections they suggest show us how the human mind passed fromscience and hypothesis 
+The reflections they suggest show us how the human mind passed from  
 a naïve anthropomorphism to the present conception of science.
 
 We see that we end with an experiment which is very particular, and as a matter of fact very crude, and we start with a perfectly general law, perfectly precise, the truth of which we regard as absolute. We have, so to speak, freely conferred this certainty on it by looking upon it as a convention.

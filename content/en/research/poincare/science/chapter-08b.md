@@ -64,7 +64,7 @@ appeared more jealous of our attempts to discover it.
 
 But these are only small reasons. Before we raise Mayer’s law to the dignity of an absolute principle, a deeper discus-
 sion is necessary. But if we embark on this discussion we see that this absolute principle is not even easy to enun-
-ciate. In every particular case we clearly see what energyscience and hypothesis
+ciate. In every particular case we clearly see what energy 
 
 is, and we can give it at least a provisory definition; but it is impossible to find a general definition of it. If we
 wish to enunciate the principle in all its generality and apply it to the universe, we see it vanish, so to speak,
@@ -107,7 +107,7 @@ on the same difficulty as before. If the future state of the
 system is not entirely determined by its present state, it
 is because it further depends on the state of bodies ex-
 ternal to the system. But then, is it likely that there
-exist among the parameters x which define the state ofscience and hypothesis
+exist among the parameters x which define the state of 
 
 the system of equations independent of this state of the
 external bodies? and if in certain cases we think we can
@@ -158,5 +158,5 @@ claim to be first approximations, and we hope to replace
 them little by little by more exact laws. If, on the other
 hand, the principle of Clausius reduces to an inequality,
 this is not caused by the imperfection of our means of
-observation, but by the very nature of the question.science and hypothesis
+observation, but by the very nature of the question. 
 

@@ -2,7 +2,7 @@
 title: Helmholtz’s Theory
 heading: Chapter 13b
 weight: 74
-description: Science and Hypothesis
+description:  
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png

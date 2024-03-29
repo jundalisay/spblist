@@ -13,9 +13,7 @@ icon: /avatars/poincare.png
 
 There are 2 kinds of open conduction currents. 
 
-There are first the currents of discharge of a condenser, or of any conductor whatever. There are also cases in which the
-electric charges describe a closed contour, being displaced by conduction in one part of the circuit and by convection
-in the other part. 
+There are first the currents of discharge of a condenser, or of any conductor whatever. There are also cases in which the electric charges describe a closed contour, being displaced by conduction in one part of the circuit and by convection in the other part. 
 
 The question might be regarded as solved for open currents of the first kind; they were closed by currents of displacement. For open currents of the second kind the solution appeared still more simple. 
 
