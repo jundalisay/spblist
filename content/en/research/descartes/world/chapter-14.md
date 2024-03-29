@@ -18,6 +18,7 @@ Light pushes on our eyes. The principal properties of light are:
 
 This is due to the circular motion of their particles.
 
+
 2. It travels to any distance
 
 

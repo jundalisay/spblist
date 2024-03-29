@@ -21,17 +21,25 @@ Firstly, it is worth noting that the powder of filings does not accumulate rando
 
 These tubes allow the striated particles to flow more freely than through the air and, as a result, they indicate the paths these particles take. 
 
-To make these paths clearly visible to the naked eye, some of the filings should be sprinkled on a surface that has a hole in which a spherical magnet is inserted in such a way that its poles touch the surface on both sides. This is similar to how astronomers insert a straight sphere into the circle of the horizon on celestial globes to represent the Earth. The scattered filings will then arrange themselves into tubes that exhibit the curved paths of the striated particles around the magnet, or even around the globe representing the Earth, as described by us before.
+To make these paths clearly visible to the naked eye, some of the filings should be sprinkled on a surface that has a hole in which a spherical magnet is inserted in such a way that its poles touch the surface on both sides. 
 
-Furthermore, if another magnet is inserted in the same manner next to the previous one, with the South pole of one magnet facing the North pole of the other, the scattered filings will also demonstrate how the striated particles move through these two magnets as if they were a single one. The tubes that extend from one pole to the other will be straight, while those that connect opposing poles will bend around the magnets, such as the lines BRVXTa shown here. 
+This is similar to how astronomers insert a straight sphere into the circle of the horizon on celestial globes to represent the Earth. The scattered filings will then arrange themselves into tubes that exhibit the curved paths of the striated particles around the magnet, or even around the globe representing the Earth, as described by us before.
 
-When a piece of iron filings is suspended from one magnet, let's say the South pole, and the South pole of another magnet placed below it is turned towards it and gradually approached, the tubes made from the filings initially retract and bend upwards. This happens because the striated particles flowing through them are repelled by the ones coming from the lower magnet. Then, if this lower magnet is much stronger than the upper one, these tubes will dissolve, and the filings will fall towards the lower magnet. 
+Furthermore, if another magnet is inserted in the same manner next to the previous one, with the South pole of one magnet facing the North pole of the other, the scattered filings will also demonstrate how the striated particles move through these two magnets as if they were a single one. 
+
+The tubes that extend from one pole to the other will be straight, while those that connect opposing poles will bend around the magnets, such as the lines BRVXTa shown here. 
+
+When a piece of iron filings is suspended from one magnet, let's say the South pole, and the South pole of another magnet placed below it is turned towards it and gradually approached, the tubes made from the filings initially retract and bend upwards. 
+
+This happens because the striated particles flowing through them are repelled by the ones coming from the lower magnet. Then, if this lower magnet is much stronger than the upper one, these tubes will dissolve, and the filings will fall towards the lower magnet. 
 
 This occurs because the ascending striated particles from the lower magnet exert force on each individual particle of the filings, which cannot enter unless they adhere to the same surfaces to which the upper magnet adheres, causing them to separate from the upper magnet. Conversely, if the South pole of the upper magnet, to which the filings adhere, is turned towards the North pole of the lower magnet, the filings align their tubes directly towards the lower magnet and extend them as much as possible. 
 
 This happens because the particles flowing from either magnet provide a pathway for the other, but they are not separated from the upper magnet unless they first come into contact with the lower one due to the force of contact we discussed earlier.
 
-And due to this same force, if the iron filings adhering to a magnet, no matter how strong, are touched by a weaker magnet or even just a piece of iron, some of its parts will leave the stronger magnet and follow the weaker one or the iron. This happens because the parts that touch the stronger magnet with a larger surface area than the other will adhere to it more strongly. Since these surfaces of the filings are small and uneven, it always happens that some particles of the filings connect more strongly to one magnet or iron than to another.
+Due to this same force, if the iron filings adhering to a magnet, no matter how strong, are touched by a weaker magnet or even just a piece of iron, some of its parts will leave the stronger magnet and follow the weaker one or the iron. 
+
+This happens because the parts that touch the stronger magnet with a larger surface area than the other will adhere to it more strongly. Since these surfaces of the filings are small and uneven, it always happens that some particles of the filings connect more strongly to one magnet or iron than to another.
 
 
 180. Why does an iron plate attached to a magnet hinder its force of attraction or reversal of iron?

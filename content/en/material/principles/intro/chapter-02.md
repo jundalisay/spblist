@@ -175,15 +175,28 @@ For example, the 2 Forces manifests in 10 ways, depending on the Layer that they
 
 The principles of Material Superphysics is organized under the following headings which become Chapters.
 
-Chapter | Topic
---- | ---
-1 | Intro
-2 | Sublayers + Media
-3 | Identity or Substance, Quantum, Medium
-4 | Duality or Symmetry (Vortex Direction)
-5 | Gravity Bands or Force
-6 | Properties 
-7 | Technologies
+Chapter | Topic | Probability | Aethereal | Spatial | Radiant | Convertible | Material 
+--- | --- | ---  |  ---  | --- | --- | --- | --- 
+1 | Layer Intro |  | | | | |
+2 | Sublayers | | | | | |
+3a | Medium | | moa | most | mor | moc | mom
+3b | Substance | | soa | sost | sor | soc | som
+3c | Quantum | | qoa | qost | qor | qoc | qom
+4a | Signature | | | | | | 
+4b | Territory | | | | | | 
+5a | 2 Forces or Vortex | | unite divide | clockwise anti | male female | react nonreact | matter anti
+5b | Relationality | | | | | |
+6a | Property Upper | | unconscious | dark energy | carrier | qoc1 detection | gas 
+6b | Property Mid | | subconscious | dark matter | wave (zeeman) | qoc2 detection  | liquid 
+6c | Property Lower | | conscious | gravity | particle | qoc3 detection  | solid
+7 | Technologies | | | | | | 
+
+
+<!-- 4a | Duality or Symmetry (Vortex Direction) | | | | | | 
+5 | Gravity Bands or Force | | | | | |
+6 | Properties | | | | | | 
+7 | Technologies | | | | | | 
+ -->
 
 <!-- 3 qost
   types

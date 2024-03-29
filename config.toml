@@ -427,11 +427,16 @@ paginate = 12
       title = "Vietnam, China: Splitting the Communist Party into Four"
       sub = "Remove Materialist philosophy and create a natural internal opposition of Labor, Nationalist, Conservative, and Liberal sub-parties. The Communist Party is then renamed as Republican Party"
     [languages.en.params.tricon7.items.d]
+      url = "/social/cycles/greece"
+      img = "/flags/eu.png"
+      title = "Moneyless Eurozone"
+      sub = "Implement Moneyless version of EF Schumacher's Pool Clearing to make Greek-style Debt Crises obsolete"
+    [languages.en.params.tricon7.items.e]
       url = "/social/cycles/russia"
       img = "/flags/ru.png"
       title = "Russia-Ukraine: Rus Unification"
       sub = "Russia, Ukraine, and Belarus are united as a federal state with Kiev as the capital. This undoes Kiev's mistake during the Mongol conquest"
-    [languages.en.params.tricon7.items.e]
+    [languages.en.params.tricon7.items.l]
       url = "/social/cycles/israel"
       img = "/flags/il.png"
       title = "Israel-Palestine: Unification"

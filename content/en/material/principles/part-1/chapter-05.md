@@ -10,6 +10,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 22
 icon: /icons/spmat.png
+draft: true
 ---
 
 
