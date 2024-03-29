@@ -9,6 +9,13 @@ icon: "/icons/descartes.png"
 ---
 
 
+Axioms | Propositions
+--- | ---
+Conversion from Aether to Matter | Aether becomes Spacetime then becomes Electromagnetism
+. | The Sizes of Spacetime Particles Depend on their Location
+
+
+
 ## Spacetime Becomes Electromagnetism
 
 The aether particles that broke off from air-aether during collisions gained:

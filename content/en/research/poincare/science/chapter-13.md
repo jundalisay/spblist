@@ -2,7 +2,7 @@
 title: Electro-dynamics
 heading: Chapter 13
 weight: 72
-description:  
+description:  In Ampère’s experimental study of the mutual action of currents, he has operated, and he could operate only, with closed currents
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png

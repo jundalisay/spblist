@@ -14,10 +14,14 @@ weight: 100
 
 In our Fallacies section, we explained the core flaw of Einstein's Relativity which is his ego dictating how Nature should work. 
 
-This is similar to other famous Germans:
+This is similar to other famous Germans*:
 - Hitler decreed that the Nazis were the master race
 - Marx decreed that Dialectical Materialism was a superior philosophy  
 - Kant decreed that Transendence was the supreme principle
+
+> *We speculate that a [high meat diet](https://www.euractiv.com/section/agriculture-food/news/study-germans-still-love-their-meat-and-eat-plenty-of-it/) contributes to this German problem, according to the principles of Bio Superphysics.
+
+
 
 Einstein's ego then deployed its real mistake by decreeing that the speed of light is constant and then used it to measure spacetime. 
 
@@ -39,14 +43,18 @@ This makes light and electromagnetism as superior to spacetime which is totally 
 
 <!-- We start by fitting Relativity to the 5-layer model of the Greeks.  -->
 
-{{< img alt="Five layers of Superphysics" src="/graphics/physics/layers.jpg" cap="Descartes' Earth is now Stokes' aether, while Descartes' Fire is now Lorentz-Fresnel aether" >}}
+{{< img alt="Five layers of Superphysics" src="/graphics/physics/layers.jpg" >}}
+
+<!-- cap="Descartes' Earth is now Stokes' aether, while Descartes' Fire is now Lorentz-Fresnel aether" -->
 
 We see that General Relativity cannot really extend to the Spatial layer because its domain is fundamentally in Electromagnetism as a consequence of being totally light-based.
 
 <!-- > *All motions of Newtonian inertia, traction, compression, torsion, friction, compression, as well as all Einsteinian motions of Special and General Relativity are based on the Electromagnetic layer. Gravitational motions such as matter-teleportation, and matter-levitation without magnetism have not been discovered yet. This is one of the goals of Material Superphysics. -->
 
 
-Likewise, Classical Mechanics is applicable only to the Material layer since it only deals with material bodies such as apples and planets. For example, galaxies do not act like balls that explode or push each other away when they collide. Instead, they pass through each other and eventually merge*.
+Likewise, Classical Mechanics is applicable only to the Material layer since it only deals with material bodies such as apples and planets. 
+
+Galaxies are not fundamentally material nor electromagentic. They do not act like balls that explode or push each other away when they collide. Instead, they pass through each other and eventually merge*.
 
 > *This is an example of the motion of spacetime vortices which we call Qosts 
 
@@ -77,22 +85,23 @@ However, Newton was unable to break through the ethereal layer (1st rank) becaus
  -->
 
 
-To Socrates, the metaphysical dimension is superior to the physical dimension, just as to Descartes, the aether is superior to matter. The aether is the material of the mind, idea, and feelings. This is why "mind over matter" is possible with Descartes, and is used by monks to levitate. We will tap into this as we develop Automated Intelligence that will allow new technologies mentioned later. 
+To Socrates, the metaphysical dimension is superior to the physical dimension, just as to Descartes, the aether is superior to matter. The aether is the material of the mind, idea (e.g. information), and feelings. 
+
+This is why the concept of "mind over matter" is possible with Descartes, and has been used by monks to levitate. We will tap into this as we develop Automated Intelligence that will allow new technologies to be mentioned later.
 
 
 ## Getting Rid of c
 
-Next, we replace `c` or the constant speed of light with `s` as the spatial speed limit* of the universe so that E :: ms{{< s v="2" >}}. 
+After putting Relativity to the Spatial Layer (spacetime instead of electromagnetism), we next replace `c` or the constant speed of light with `s` as the spatial speed limit* of the universe so that E :: ms{{< s v="2" >}}. 
 
-In this way, **gravitational waves travel within this spatial speed limit**, instead of traveling at the speed of light. This is to switch gravitation from being subordinate to light, to being superior to it, in accordance with our 5-layer model.
+This means that spacetime is the one confining light to 300,000 kilometers per second. This will switch gravitation from being subordinate to light, to being superior to it, in accordance with our 5-layer model.
 
 For the active version, we:
-- convert the stress-energy tensor into the [Kepler Tensor](/material/principles/intro/chapter-05) `G1` following Kepler's laws (as well as those of Socrates, Hume, Adam Smith, Ibn-Khaldun, Spinoza)
+- convert the stress-energy tensor into the Kepler Tensor `G1` following Kepler's laws (as well as those of Socrates, Hume, Adam Smith, Ibn-Khaldun, Spinoza)
 - convert the Einstein tensor as a ratio or relativity `:` of the identity in question to another identity 
 - convert the constants into the limiter `s` as the limits of physical space
 - remove light `c` which makes the cosmological constant `Λ` unnecessary 
-- put everthing inside a [Cartesian view](/material/solutions/cartesian-view) which imposes obervation and timespans, consequently the timeline
-
+- put everthing inside a Cartesian view which imposes obervation and timespans, consequently the timeline
 
 
 {{< img alt="Kepler Tensor" src="/graphics/keplertgr.png" cap="Material Superphysics converts Physics equations into ratios, since everything is relative and nothing, except the Absolute Entity, is absolute" >}}
@@ -175,7 +184,7 @@ From here we can assert, in line with Socrates, that the speed of light is not c
 
 An analogy is a mind that has just woken up. In the beginning, the mind is slow to think as it still has inertia. But after a few minutes, it starts thinking faster until it reaches its normal speed. Upon reaching normal speed, the entities in that mind then *graduate* to another mind that would have also just woken up. In this way, minds evolve and go up the evolutionary ladder. 
 
-Instead of the material Big Bang of Physics, the Metaphysics of Things in Superphysics leads to either*:
+Instead of the material Big Bang of Physics, the universe in Superphysics began as either*:
 - a Big Wakeup of the mind of [Brahma](https://en.wikipedia.org/wiki/Brahma) that 'thinks' of the universe
   - This is our explanation to people who are open-minded and not allergic to Asian or spiritual ideas
 - a Big Bootup of a giant Matrix program that 'generates' the universe
@@ -193,14 +202,45 @@ From this, we can make another important assertion that General Relativity (GR) 
 - GR only works on gravitational lensing because light is measured
 - Gravitational waves travel at the speed of light because lasers are used to measure it. This means a lot of things move faster than light, but are never visible nor measureable by anything electronic
 
-We replace Einstein's Special Relativity with the original Relativity of Lorentz-Poincare, using Poincare's definition of time as an illusion, instead of Einstein's time as simultaniety based on `c`. General Relativity is replaced by [qosts](/material/principles/part-2/chapter-02) with gravitational signatures. 
+We replace Einstein's Special Relativity with the original [Law of Relativity](/research/poincare/science/chapter-05b) by Poincare using Electromagnetism (Radiance) as the basis for Physical Time.
+
+We replace Einstein's General Relativity with the same Poincare Law of Relativity but using qosts (Spacetime) as the basis for Physical Time instead of Einstein's simultaniety based on `c`.
+
+To avoid mixing up Poincare's Relativity with that of Einstein, we change it to "Relationality".
 
 
-## So What's the Use of Gravitational Signatures?
 
-Its immediate use is to declare [dark matter](https://www.universetoday.com/150964/one-idea-to-explain-dark-matter-ultralight-bosons-fails-the-test/) as non-existent so that physicists can stop spending real money building dark matter detectors. <!-- Instead, galaxies are kept together by galactic qosts, as an effect of the aether, which itself is an effect of the Negative and Positive forces clashing. -->
+##  So What's the Use of Universal Relationality and Gravitational Signatures?
+
+Universal Relationality and Gravitational Signatures re-solves the following problems:
+- [Dark matter](https://www.universetoday.com/150964/one-idea-to-explain-dark-matter-ultralight-bosons-fails-the-test/) is replaced with properties of qosts. This means that physicists should stop wasting money and effort building dark matter detectors. 
+- Dark Energy is replaced by the [splitting of qosts](/research/descartes/world/chapter-08) which manifests as the expansion of spacetime.
+- Gravitational lensing is caused by the gravitational signature of the intervening galaxy [refracting the light from another galaxy](/research/descartes/world/chapter-15).
+- Galaxies are held together by the gravitational signature in their center vortex as [supermassive galactic qosts](/material/principles/part-2/chapter-02), not by dark matter.
+
+ <!-- This implies that there is more than one kind of gravity*, each with two subtypes, a superior and a junior.  -->
+
+
+<!-- Instead, galaxies are kept together by galactic qosts, as an effect of the aether, which itself is an effect of the Negative and Positive forces clashing. -->
 
 <!-- Rather, dark matter is caused by another type of gravitation -- galactic gravitation -- the same thing that causes spacetime expansion.  -->
+
+
+{{< img alt="Physics mysteries fallacies" src="https://sorasystem.sirv.com/graphics/det.png" cap="Physicists are preoccupied at the lowest layers of the visual kind because sight is the easiest perception for humans. They also smash particles for no practical purpose, since those smashed particles are unnatural to begin with and quickly fizzle out" >}}
+
+
+<!-- Instead of using expensive detectors, we use Socrates to solve the problems with General Relativity:
+- The expansion of space is caused by gravitational signatures of galaxies repelling each other, not by [dark energy](https://www.futurity.org/dark-energy-dark-matter-universe-expansion-2543202-2/) -->
+
+
+
+<!-- > *Material Superphysics asserts that there are five kinds of gravity, four of which have been discovered by Physics as the four fundamental forces -->
+
+
+
+Practically, the knowledge of how these signatures work can allow humans to **harness any motion** by converting them to force or movement equations. Currently, only the movements in the Material and Electromagnetic layer is artificially harnessed by humans, more commonly as combustion and electric motors. 
+
+The power of gravity and spacetime is not utilized because Newton assigned the cause of gravity to the material layer -- **opposite of how Nature arranged it!** This obsession with matter is then why physicists smash atoms to find what is inside them, wasting real effort and money in the process.  
 
 By this vein, we can say that the large hadron collider is also somewhat a waste of money because the ancient Greeks were able to classify all forces into five layers at far less cost. Or rather, it was a [$4.7 billion test](https://www.forbes.com/sites/alexknapp/2012/07/05/how-much-does-it-cost-to-find-a-higgs-boson/) to see whether ancient knowledge was correct. 
 
@@ -208,28 +248,6 @@ Instead, the money should be spent on gravity-detectors like LIGO which act like
 
 This is why we can make a conjecture that Einstein actually stifled science by leading physicists on a wild-goose-chase for dark matter and wormholes. Satellite Engineers would discover discrepancies in the timings of their satellites anyway, which would then create relativity theories naturally without the limiting `c`.
 
-
-
-{{< img alt="Physics mysteries fallacies" src="https://sorasystem.sirv.com/graphics/det.png" cap="Physicists are preoccupied at the lowest layers of the visual kind because sight is the easiest perception for humans. They also smash particles for no practical purpose, since those smashed particles are unnatural to begin with and quickly fizzle out" >}}
-
-
-Instead of using expensive detectors, we use Socrates to solve the problems with General Relativity:
-- The expansion of space is caused by gravitational signatures of galaxies repelling each other, not by [dark energy](https://www.futurity.org/dark-energy-dark-matter-universe-expansion-2543202-2/)
-- Gravitational lensing is caused by the gravitational signature of the intervening galaxy
-- Galaxies are held together by the gravitational signature in their center as [supermassive galactic qosts](/material/principles/part-2/chapter-02), not by dark matter. This implies that there is more than one kind of gravity*, each with two subtypes, a superior and a junior. 
-
-
-> *Material Superphysics asserts that there are five kinds of gravity, four of which have been discovered by Physics as the four fundamental forces
-
-<!-- https://en.wikipedia.org/wiki/Dark_star_(Newtonian_mechanics) -->
-
-
-
-
-
-Practically, the knowledge of how these signatures work can allow humans to **harness any motion** by converting them to force or movement equations. Currently, only the movements in the Material and Electromagnetic layer is artificially harnessed by humans, more commonly as combustion and electric motors. 
-
-The power of gravity and spacetime is not utilized because Newton assigned the cause of gravity to the material layer -- **opposite of how Nature arranged it!** This obsession with matter is then why physicists smash atoms to find what is inside them, wasting real effort and money in the process.  
 
 <!-- 's Physics couldn't break into the higher metaphysical layer because of the absurdities in Roman Catholicism, and so it settled at the bottom Material layer. -->
 
@@ -265,7 +283,8 @@ Superphysics aims to solve this by uniting understandings of the materialist sci
 Materially, this `G` can be used for:
 
 - Levitation technology as cargo ships that can float on air and never get stuck at the Suez Canal
-- Teleportation technology as spaceships that can travel to Mars and other planets far quicker, cheaper, and safer than the explosive rockets of SpaceX. Update April 2022: This can be applied as a countermeasure against hypersonic missles
+- Teleportation technology as spaceships that can travel to Mars and other planets far quicker, cheaper, and safer than the explosive rockets of SpaceX. 
+<!-- Update April 2022: This can be applied as a countermeasure against hypersonic missles -->
 - Spacetime power-generation can produce energy 24/7 from the expansion of spacetime without creating carbon emissions 
 - Anti-gravitation can allow fusion, by levitating and confining hydrogen with artificial gravity instead of energy-hungry magnetic confinement
 - Modern alchemy by enhancing weak interactions to create new compounds
@@ -291,7 +310,8 @@ Gravitational signatures don't just work for movements in the five physical laye
 {{< mess >}}
 - June 29, 2021: changed movement energy to inherent energy and F = ma to w = mg to make it consistent with E = Gl as the rest or potential state
 - January 15, 2022: added the active version of universal relativity
-- April 4, 2022: added Messier 87
+<!-- - April 4, 2022: added Messier 87 -->
+- March 28, 2024: added Poincare's Law of Relativity and sprinkled some Descartes on Socrates
 {{< /mess >}}
 
 

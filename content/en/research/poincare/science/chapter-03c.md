@@ -2,24 +2,21 @@
 title: The Fourth Geometry
 heading: Chapter 3c
 weight: 22
-description:  
+description: Among these explicit axioms there is one which seems to me to deserve some attention, because when we abandon it we can construct a fourth geometry as coherent as those of Euclid, Lobatschewsky, and Riemann
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
 ---
 
 
-Among these explicit axioms there is one which seems to me to deserve some attention,
-because when we abandon it we can construct a fourth geometry as coherent as those of Euclid, Lobatschewsky, and Riemann. 
+Among these explicit axioms there is one which seems to me to deserve some attention, because when we abandon it we can construct a fourth geometry as coherent as those of Euclid, Lobatschewsky, and Riemann. 
 
 To prove that we can always draw a perpendicular at a point A to a straight line AB, we consider
 a straight line AC movable about the point A, and initially identical with the fixed straight line AB. We then can make it turn about the point A until it lies in AB produced. 
 
-Thus we assume two propositions—first, that such a rotation is possible, and then that it may continuenon-euclidean geometries.
+Thus we assume two propositions—first, that such a rotation is possible, and then that it may continue until the two lines lie the one in the other produced. If the first point is conceded and the second rejected, we are led to a series of theorems even stranger than those of Lobatschewsky and Riemann, but equally free from contradiction. 
 
-until the two lines lie the one in the other produced. If the first point is conceded and the second rejected, we
-are led to a series of theorems even stranger than those of Lobatschewsky and Riemann, but equally free from
-contradiction. I shall give only one of these theorems, and I shall not choose the least remarkable of them. A
+I shall give only one of these theorems, and I shall not choose the least remarkable of them. A
 real straight line may be perpendicular to itself.
 
 
@@ -54,31 +51,32 @@ On the Nature of Axioms
 Most mathematicians re- gard Lobatschewsky’s geometry as a mere logical curiosity. Some of them have, however, gone further. If several geometries are possible, they say, is it certain that
 our geometry is the one that is true? 
 
-Experiment no doubt teaches us that the sum of the angles of a triangle is equal to two right angles, but this is because the triangles we deal with are too small. According to Lo-
-batschewsky, the difference is proportional to the area ofnon-euclidean geometries.
+Experiment teaches us that the sum of a triangle's angles is equal to 2 right angles. But this is because the triangles we deal with are too small. 
 
-the triangle, and will not this become sensible when we
-operate on much larger triangles, and when our measure-
-ments become more accurate? 
+According to Lobatschewsky, the difference is proportional to the area of the triangle. 
 
-Euclid’s geometry would thus be a provisory geometry. Now, to discuss this view
-we must first of all ask ourselves, what is the nature of
-geometrical axioms? 
+Will not this become sensible when we operate on much larger triangles, and when our measurements become more accurate? 
 
-Are they synthetic à priori intuitions, as Kant affirmed? They would then be imposed upon us with such a force that we could not conceive of the contrary proposition, nor could we build upon it a
-theoretical edifice. 
+Euclid’s geometry would thus be a provisory geometry. 
 
-There would be no non-Euclidean geometry. To convince ourselves of this, let us take a true
-synthetic à priori intuition—the following, for instance,
-which played an important part in the first chapter:
+What is the nature of geometrical axioms? 
+
+Are they synthetic à priori intuitions, as Kant affirmed? 
+
+They would then be imposed upon us with such a force that we could not conceive of the contrary proposition, nor could we build upon it a theoretical edifice. 
+
+**There would be no non-Euclidean geometry.** 
+
+To convince ourselves of this, let us take a true synthetic à priori intuition—the following, for instance, which played an important part in the first chapter:
 
 If a theorem is true for the number 1, and if it has been proved that it is true of n + 1, provided it is true of n, it will be true for all positive integers. Let us next try to
 get rid of this, and while rejecting this proposition let us construct a false arithmetic analogous to non-Euclidean geometry. 
 
 We shall not be able to do it. We shall be even tempted at the outset to look upon these intuitions as analytical. 
 
-Besides, to take up again our fiction of animals without thickness, we can scarcely admit that
-these beings, if their minds are like ours, would adopt the Euclidean geometry, which would be contradicted by  all their experience. Ought we, then, to conclude that the axioms of geometry are experimental truths? 
+Besides, to take up again our fiction of animals without thickness, we can scarcely admit that these beings, if their minds are like ours, would adopt the Euclidean geometry, which would be contradicted by  all their experience. 
+
+Should we conclude that the axioms of geometry are experimental truths? 
 
 But we do not make experiments on ideal lines or ideal circles; we can only make them on material objects. On what, therefore, would experiments serving as a foundation for geometry be based? 
 
@@ -95,10 +93,7 @@ If geometry were an experimental science, it would not be an exact science. It w
 
 Nay, it would from that day forth be proved to be erroneous, for we know that no rigorously invariable solid exists. 
 
-The geometrical axioms are therefore neither synthetic à priori intuitions nor experimental facts. They are conventions. Our choice among all possible conventions is guided by experimental facts; but it remains free,non-euclidean geometries.
-
-and is only limited by the necessity of avoiding every contradiction, and thus it is that postulates may remain
-rigorously true even when the experimental laws which have determined their adoption are only approximate.
+The geometrical axioms are therefore neither synthetic à priori intuitions nor experimental facts. They are conventions. Our choice among all possible conventions is guided by experimental facts; but it remains free, and is only limited by the necessity of avoiding every contradiction, and thus it is that postulates may remain rigorously true even when the experimental laws which have determined their adoption are only approximate.
 
 In other words, the axioms of geometry (I do not speak of those of arithmetic) are only definitions in disguise.
 What, then, are we to think of the question: Is Euclidean geometry true?

@@ -2,11 +2,12 @@
 title: Proof By Recurrence
 heading: Chapter 1c
 weight: 6
-description:  
+description: If mathematics had no algebraical calculus, no other instrument, then its development would immediately stop
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
 ---
+
 
 > Superphysics Note: Proof by Recurrence is numerical perception
 
@@ -76,7 +77,8 @@ To reach it we should require an infinite number of syllogisms, and we should ha
 
 We cannot conceive of a mind powerful enough to see at a glance the whole body of mathematical truth. 
 
-hisi
+<!-- hisi -->
+
 The answer is now easy. 
 
 A chess-player can combine for 4-5 moves ahead. But he cannot prepare for more than a finite number of moves. 

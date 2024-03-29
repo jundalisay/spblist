@@ -2,7 +2,7 @@
 title: Helmholtz’s Theory
 heading: Chapter 13b
 weight: 74
-description:  
+description:  Helmholtz rejects the Ampere's hypothesis.
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -48,11 +48,9 @@ In the second place, there could be no continuous rotation without sliding conta
 
 In Faraday’s experiment, if the magnet is fixed, and if the part of the current external to the magnet runs along a movable wire, that movable wire may undergo continuous rotation. 
 
-But it does not mean that, if the contacts of the wire with the magnet were suppressed, and an open current were to run along
-the wire, the wire would still have a movement of continuous rotation. 
+But it does not mean that, if the contacts of the wire with the magnet were suppressed, and an open current were to run along the wire, the wire would still have a movement of continuous rotation. 
 
-An isolated element is not acted on in the same way as a movable element making part of a closed circuit. But there is another
-difference. The action of a solenoid on a closed current is zero according to experiment and according to the 2 theories. 
+An isolated element is not acted on in the same way as a movable element making part of a closed circuit. But there is another difference. The action of a solenoid on a closed current is zero according to experiment and according to the 2 theories. 
 
 Its action on an open current would be zero according to Ampère, and it would not be zero according to Helmholtz. 
 
@@ -60,20 +58,17 @@ From this follows an important consequence.
 
 We have given above 3 definitions of the magnetic force. 
 
-The third has no meaning here, since an element of current is no longer acted upon by a single force. Nor
-has the first any meaning. What, in fact, is a magnetic pole? It is the extremity of an indefinite linear magnet.
+The third has no meaning here, since an element of current is no longer acted upon by a single force. Nor has the first any meaning. What, in fact, is a magnetic pole? It is the extremity of an indefinite linear magnet.
 
 This magnet may be replaced by an indefinite solenoid.
 
-For the definition of magnetic force to have any meaning, the action exercised by an open current on an indefinite
-solenoid would only depend on the position of the extremity of that solenoid—i.e., that the action of a closed
-solenoid is zero. 
+For the definition of magnetic force to have any meaning, the action exercised by an open current on an indefinite solenoid would only depend on the position of the extremity of that solenoid—i.e., that the action of a closed solenoid is zero. 
 
 But this is not the case. 
 
 On the other hand, there is nothing to prevent us from adopting the second definition which is founded on the measurement of the director couple which tends to orientate the magnetic needle. 
 
-but, if it is adopted, neither the effects of induction nor electro-dynamic effects will depend solely on the distribution of the lines of force in this magnetic field.
+But, if it is adopted, neither the effects of induction nor electro-dynamic effects will depend solely on the distribution of the lines of force in this magnetic field.
 
 
 
@@ -108,8 +103,7 @@ Maxwell, with a stroke of the pen, caused these difficulties to vanish.
 
 To him, all currents are closed currents. 
 
-Maxwell admits that if in a dielectric, the electric field happens to vary, this dielectric becomes the seat of a particular
-phenomenon acting on the galvanometer like a current and called the current of displacement. 
+Maxwell admits that if in a dielectric, the electric field happens to vary, this dielectric becomes the seat of a particular phenomenon acting on the galvanometer like a current and called the current of displacement. 
 
 If, then, two conductors bearing positive and negative charges are placed in connection by means of a wire, during the discharge there is an open current of conduction in that wire; but there are produced at the same time in the surrounding dielectric currents of displacement which close this current of conduction. 
 

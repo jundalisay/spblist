@@ -2,7 +2,7 @@
 heading: Chapter 2c
 title: Mathematical Magnitude And Experiment
 weight: 14
-description:  
+description:  If we try to imagine a line, it must have the characters of the physical continuum—that is to say, our representation must have a certain width
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -12,10 +12,13 @@ icon: /avatars/poincare.png
 
 ## Second Stage
 
-We have only taken our first step. We have explained the origin of continuums of the first order; we must now see why this is not sufficient, and why the incommensurable numbers had to be invented.
+We have only taken our first step. We have explained the origin of continuums of the first order.
 
-If we try to imagine a line, it must have the characters of the physical continuum—that is to say, our representation must have a certain breadth. Two lines will therefore appear to us under the form of two narrow bands, and if we are content with this rough image, it is clear that
-where two lines cross they must have some common part.
+We must now see why this is not sufficient, and why the incommensurable numbers had to be invented.
+
+If we try to imagine a line, it must have the characters of the physical continuum—that is to say, our representation must have a certain width. 
+
+Two lines will therefore appear to us under the form of two narrow bands, and if we are content with this rough image, it is clear that where two lines cross they must have some common part.
 
 But the pure geometer makes one further effort; without entirely renouncing the aid of his senses, he tries to imagine a line without breadth and a point without size. 
 

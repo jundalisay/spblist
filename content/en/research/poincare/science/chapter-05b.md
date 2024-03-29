@@ -1,9 +1,10 @@
 ---
 title: The Law of Relativity
 # title: Can geometry ever be directly contradicted by experiment? 
-heading: Chapter 5c
+heading: Chapter 5b
 weight: 31
-description: The state of bodies and their mutual distances at any given moment, as well as the velocities with which those distances are changing at that moment, will depend only on the state of those bodies, on their mutual distances at the initial moment
+description: The state of bodies and their mutual distances at any given moment, as well as the velocities with which those distances are changing at that moment, will depend only on the state of those bodies
+# , on their mutual distances at the initial moment
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png

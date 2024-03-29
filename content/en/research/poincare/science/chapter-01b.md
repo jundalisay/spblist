@@ -1,8 +1,8 @@
 ---
-title: The Nature Of Mathematical Reasoning
+title: Geometry
 heading: Chapter 1b
 weight: 4
-description:  
+description:  Geometry must be excluded, or the question becomes complicated by difficult problems
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png

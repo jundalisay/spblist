@@ -11,25 +11,19 @@ icon: /avatars/poincare.png
 
 Let us begin with a little paradox. 
 
-Beings whose minds were made as ours, and with senses like ours, but without any preliminary education, might receive from a suitably-chosen external world impressions which would lead them to construct a geometry other than that of Euclid, and to
-localise the phenomena of this external world in a non-Euclidean space, or even in space of four dimensions.
+Beings whose minds were made as ours, and with senses like ours, but without any preliminary education, might receive from a suitably-chosen external world impressions which would lead them to construct a geometry other than that of Euclid, and to localise the phenomena of this external world in a non-Euclidean space, or even in space of four dimensions.
 
 As for us, whose education has been made by our actual world, if we were suddenly transported into this new world, we should have no difficulty in referring phenomena to our Euclidean space. 
 
-Perhaps somebody may appear on the scene some day who will devote his life to it,
-and be able to represent to himself the fourth dimension.
+Perhaps somebody may appear on the scene some day who will devote his life to it, and be able to represent to himself the fourth dimension.
+
 
 ## Geometrical Space and Representative Space
 
-The images we form of external objects are localised in space, and even that they can only be
-formed on this condition. 
+The images we form of external objects are localised in space, and even that they can only be formed on this condition. 
 
 This space, which thus serves as a kind of framework ready prepared for our sensations and representations, is identical with the space of the geometers, having all the properties of
-that space. To all clear-headed men who think in this space and geometry.
-
-way, the preceding statement might well appear extraordinary
-
-but it is as well to see if they are not the victims of some illusion which closer analysis may be able to dissipate. 
+that space. To all clear-headed men who think in this way, the preceding statement might well appear extraordinary but it is as well to see if they are not the victims of some illusion which closer analysis may be able to dissipate. 
 
 What are the properties of space? <!-- I mean of that space which is
 the object of geometry, and which I shall call geometrical
@@ -51,73 +45,51 @@ A purely visual impression is caused by an image formed on the back of the retin
 
 This image as continuous, but as possessing only two dimensions, which already distinguishes purely visual from what may be called geometrical space. 
 
-On the other hand, the image is enclosed within a limited framework; and there is a
-no less important difference: this pure visual space is not homogeneous. 
+On the other hand, the image is enclosed within a limited framework; and there is a no less important difference: this pure visual space is not homogeneous. 
 
 All the points on the retina, apart from the images which may be formed, do not play the same rôle.
 
-The yellow spot can in no way be regarded as identical 
+The yellow spot can in no way be regarded as identical  with a point on the edge of the retina. Not only does the
+same object produce on it much brighter impressions, but in the whole of the limited framework the point which
+occupies the centre will not appear identical with a point near one of the edges.
 
-with a point on the edge of the retina. Not only does the
-same object produce on it much brighter impressions, but
-in the whole of the limited framework the point which
-occupies the centre will not appear identical with a point
-near one of the edges.
+Closer analysis no doubt would show us that this continuity of visual space and its 2 dimensions are but an illusion. 
+ 
+It would make visual space even more different than before from geometrical space, but we may treat this remark as incidental.
 
-Closer analysis no doubt would show us that this continuity of visual space and its two
-dimensions are but an illusion. 
-
-It would make visual space even more different than before from geometrical
-space, but we may treat this remark as incidental.
-
-However, sight enables us to appreciate distance, and therefore to perceive a third dimension. But every one knows that this perception of the third dimension reduces to a sense of the effort of accommodation which must be made, and to a sense of the convergence of the two
-eyes, that must take place in order to perceive an object
-distinctly. 
+However, sight enables us to appreciate distance, and therefore to perceive a third dimension. But every one knows that this perception of the third dimension reduces to a sense of the effort of accommodation which must be made, and to a sense of the convergence of the 2 eyes, that must take place in order to perceive an object distinctly. 
 
 These are muscular sensations quite different from the visual sensations which have given us the concept of the two first dimensions. 
 
-The third dimension will therefore not appear to us as playing the same rôle as the two others. What may be called complete visual space is not therefore an isotropic space. It has, it is true, exactly three dimensions; which means that the elements of our visual sensations (those at least which concur in forming the concept of extension) will be completely defined if wespace and geometry.
 
-know three of them; or, in mathematical language, they
-will be functions of three independent variables. But let
-us look at the matter a little closer. 
+### The third dimension
+
+The third dimension will therefore not appear to us as playing the same rôle as the two others. 
+
+What may be called complete visual space is not therefore an isotropic space. 
+
+It has exactly 3 dimensions. This means that the elements of our visual sensations (those at least which concur in forming the concept of extension) will be completely defined if we know three of them; or, in mathematical language, they will be functions of three independent variables. 
 
 The third dimension is revealed to us in 2 ways: 
 
 1. by the effort of accommodation
 2. the convergence of the eyes.
 
-These two indications are always in harmony;
+These two indications are always in harmony. There is between them a constant relation; or, in mathematical language, the two variables which measure these
+two muscular sensations do not appear to us as independent. 
 
-there is between them a constant relation; or, in mathe-
-matical language, the two variables which measure these
-two muscular sensations do not appear to us as indepen-
-dent. Or, again, to avoid an appeal to mathematical ideas
-which are already rather too refined, we may go back to
-the language of the preceding chapter and enunciate the
-same fact as follows:
+Or, again, to avoid an appeal to mathematical ideas which are already rather too refined, we may go back to
+the language of the preceding chapter and enunciate the same fact as follows:
 
-If two sensations of convergence A and B are indistinguishable, the two sensations of ac-
-commodation A 0 and B 0 which accompany them respec-
-tively will also be indistinguishable. 
+If two sensations of convergence A and B are indistinguishable, the two sensations of accommodation A 0 and B 0 which accompany them respectively will also be indistinguishable. 
 
-But that is, so to speak, an experimental fact. Nothing prevents us à pri-
-ori from assuming the contrary, and if the contrary takes
-place, if these two muscular sensations both vary inde-
-pendently, we must take into account one more indepen-
-dent variable, and complete visual space will appear to
-us as a physical continuum of four dimensions. And so in
-this there is also a fact of external experiment. Nothing
-prevents us from assuming that a being with a mind like 
+But that is, so to speak, an experimental fact. Nothing prevents us à priori from assuming the contrary, and if the contrary takes place, if these two muscular sensations both vary independently, we must take into account one more independent variable, and complete visual space will appear to us as a physical continuum of four dimensions. 
 
-ours, with the same sense-organs as ourselves, may be
-placed in a world in which light would only reach him af-
-ter being passed through refracting media of complicated
-form. 
+And so in this there is also a fact of external experiment. Nothing prevents us from assuming that a being with a mind like ours, with the same sense-organs as ourselves, may be
+placed in a world in which light would only reach him after being passed through refracting media of complicated form. 
 
 The two indications which enable us to appreciate distances would cease to be connected by a constant relation. A being educating his senses in such a world would
-no doubt attribute four dimensions to complete visual
-space.
+no doubt attribute four dimensions to complete visual space.
 
 
 

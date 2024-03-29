@@ -12,18 +12,27 @@ icon: "/icons/descartes.png"
 <!-- # title= "The Formation of the Sun and the Stars of the New World" -->
 
 
-God put inequality and confusion among the particles of the aether at the beginning.
 
-Gradually, those particles became the air-aether when they were reduced to:
-- one size, and
-- one middling motion. 
+Axioms | Propositions
+--- | ---
+Aethereal Universe |  God is constantly dividing the aether as vortices to create evolution and the expansion of the universe
+. | Each vortex-center has a different size and travels in straight lines
+. | These vortices were random at first, but gradually settled into place
+
 
 
 ## The Expansion of the Universe (No Big Bang)
 
+
+God put inequality and confusion among the particles of the aether at the beginning.
+
+Gradually, those particles became the air-aether when they were reduced to:
+- one size, and
+- one middling motion
+
 Before God divided it, the pure aether was singular. When it began to be divided, its division began in one part and spread out to all its parts as equally as it could. 
 
-However, this equality of division could not be perfect because the division could not spread in a straight line since there was no void
+However, this equality of division could not be perfect because the division could not spread in a straight line since there was no void.
 
 Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion. 
 

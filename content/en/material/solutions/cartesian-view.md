@@ -10,7 +10,11 @@ writer:
 icon: /icons/spmat.png
 toc: false
 weight: 4
+draft: true
 ---
+
+
+> This has been moved up to Superphysics Principles.
 
 
 In [a previous post](/material/fallacies/general-relativity), we explained our equation for everything as:

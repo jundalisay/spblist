@@ -1,8 +1,8 @@
 ---
-title: Changes of State and Changes of Position
+title: Law of Homogeneity
 heading: Chapter 4c
 weight: 28
-description:  
+description:  The first of these laws is the law of homogeneity
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -102,28 +102,27 @@ that we shall consider two of these transitions as 2 operations of the same natu
 
 There is nothing, then, to prevent us from imagining that these operations are combined according to any law we choose—for instance, by forming a group with the same structure as hat of the movements of an invariable four-dimensional solid. In this there is nothing that we cannot represent to ourselves, and, moreover, these sensations are those which a being would experience who has a retina of 2 dimensions, and who may be displaced in space of 4 dimensions. In this sense we may say that we can represent to ourselves the fourth dimension.
 
-Conclusions.—It is seen that experiment plays a considerable rôle in the genesis of geometry; but it would be a mistake to conclude from that that geometry is, even in part, an experimental science. If it were experimental, it would only be approximative and provisory. 
+## Conclusions
 
-What a rough approximation it would be! Geometry would be only the study of the movements of solid bodies; but, in reality, it is not concerned with natural solids: its object is certain ideal solids, absolutely invariable, which are but a greatly simplified and very remote image of them.
+Experiment plays a considerable rôle in the genesis of geometry. But it does not mean that geometry is, even in part, an experimental science. 
 
-The concept of these ideal bodies is entirely mental, and 
+If it were experimental, it would only be approximative and provisory. 
 
-experiment is but the opportunity which enables us to
-reach the idea. The object of geometry is the study of a
-particular “group”; but the general concept of group pre-
-exists in our minds, at least potentially. It is imposed on
-us not as a form of our sensitiveness, but as a form of our
-understanding; only, from among all possible groups, we
-must choose one that will be the standard, so to speak,
-to which we shall refer natural phenomena.
-Experiment guides us in this choice, which it does not
-impose on us. It tells us not what is the truest, but what
-is the most convenient geometry. It will be noticed that
-my description of these fantastic worlds has required no
-language other than that of ordinary geometry. Then,
-were we transported to those worlds, there would be no
-need to change that language. Beings educated there
-would no doubt find it more convenient to create a geometry different from ours, and better adapted to their impressions; 
+<!-- What a rough approximation it would be!  -->
 
-but as for us, in the presence of the same impressions, it is certain that we should not find it more
-convenient to make a change.
+Geometry would be only the study of the movements of solid bodies. But, in reality, it is not concerned with natural solids: its object is certain ideal solids, absolutely invariable, which are but a greatly simplified and very remote image of them.
+
+The concept of these ideal bodies is entirely mental, and experiment is but the opportunity which enables us to reach the idea. The object of geometry is the study of a particular “group”; but the general concept of group pre-exists in our minds, at least potentially. 
+
+It is imposed on us not as a form of our sensitiveness, but as a form of our understanding; only, from among all possible groups, we
+must choose one that will be the standard, so to speak, to which we shall refer natural phenomena.
+
+Experiment guides us in this choice, which it does not impose on us. It tells us not what is the truest, but what
+is the most convenient geometry. 
+
+It will be noticed that my description of these fantastic worlds has required no language other than that of ordinary geometry. Then,
+were we transported to those worlds, there would be no need to change that language. 
+
+Beings educated there would find it more convenient to create a geometry different from ours, and better adapted to their impressions.
+
+But as for us, in the presence of the same impressions, it is certain that we should not find it more convenient to make a change.

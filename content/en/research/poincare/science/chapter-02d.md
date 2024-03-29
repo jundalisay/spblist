@@ -2,7 +2,7 @@
 title: The Physical Continuum of Several Dimensions
 heading: Chapter 2d
 weight: 16
-description:  
+description: How from formula may be derived the concept of continuums of several dimensions?
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -10,7 +10,9 @@ icon: /avatars/poincare.png
 
 
 
-We have discussed above the physical continuum as it is derived from the immediate evidence of our senses—or, if the reader prefers, from the rough results of Fechner’s experiments; I have shown that these results are summed up in the contradictory formulæ
+We have discussed above the physical continuum as it is derived from the immediate evidence of our senses, from the rough results of Fechner’s experiments.
+
+These results are summed up in the contradictory formulæ:
 
 ```bash
 A = B,
@@ -18,10 +20,11 @@ B = C,
 A < C.
 ```
 
-Let us now see how this notion is generalised, and how from it may be derived the concept of continuums of several dimensions. 
+How is this notion generalised? 
 
-Consider any two aggregates of sensations. We can either distinguish between them, or
-we cannot; just as in Fechner’s experiments the weight of 10 grams could be distinguished from the weight of 12 grams, but not from the weight of 11 grams.
+How from it may be derived the concept of continuums of several dimensions?
+
+Consider any 2 aggregates of sensations. We can either distinguish between them, or we cannot, just as in Fechner’s experiments the weight of 10 grams could be distinguished from the weight of 12 grams, but not from the weight of 11 grams.
 
 This is all that is required to construct the continuum of several dimensions. 
 

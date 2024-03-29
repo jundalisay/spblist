@@ -10,6 +10,17 @@ icon: "/icons/descartes.png"
 
 
 
+
+
+Axioms | Propositions
+--- | ---
+Conversion from Aether to Matter | Some of the Spacetime Particles become Matter
+
+
+
+
+## The Earth Aether
+
 <!-- The parts of the aethers are very diverse. Most of them take the form of the fire-aether or the air-aether through breaking and dividing by collision with one another. -->
 
 The aether that became the earth-aether had 2 kinds:

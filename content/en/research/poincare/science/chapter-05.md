@@ -2,7 +2,7 @@
 title: Experiment And Geometry
 heading: Chapter 5
 weight: 30
-description:  
+description: The principles of geometry are not experimental facts. Euclid’s postulate cannot be proved by experiment.
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
@@ -53,44 +53,31 @@ An experiment that ascertains the existence of these lengths, would directly con
 
 Let us look at the question a little more closely. 
 
-I assume that the straight line in Euclidean space possesses any two properties, which I shall call A and B; that in non-Euclideanexperiment and geometry.
+I assume that the straight line in Euclidean space possesses any two properties, which I shall call A and B; that in non-Euclidean space it still possesses the property A, but no longer
+possesses the property B.
 
-space it still possesses the property A, but no longer
-possesses the property B; and, finally, I assume that
-in both Euclidean and non-Euclidean space the straight
-line is the only line that possesses the property A. 
+I assume that in both Euclidean and non-Euclidean space the straight line is the only line that possesses the property A. 
 
-If this were so, experiment would be able to decide between the hypotheses of Euclid and Lobatschewsky. It
-would be found that some concrete object, upon which we can experiment—for example, a pencil of rays of light—
-possesses the property A. 
+If this were so, experiment would be able to decide between the hypotheses of Euclid and Lobatschewsky. It would be found that some concrete object, upon which we can experiment—for example, a pencil of rays of light—possesses the property A. 
 
-We should conclude that it is rectilinear, and we should then endeavour to find out if
-it does, or does not, possess the property B. But it is not so. 
+We should conclude that it is rectilinear, and we should then endeavour to find out if it does, or does not, possess the property B. But it is not so. 
 
-There exists no property which can, like this property A, be an absolute criterion enabling us to recognise
-the straight line, and to distinguish it from every other
-line. Shall we say, for instance, “This property will be
-the following: the straight line is a line such that a figure
-of which this line is a part can move without the mutual distances of its points varying, and in such a way
-that all the points in this straight line remain fixed”?
+There exists no property which can, like this property A, be an absolute criterion enabling us to recognise the straight line, and to distinguish it from every other line. 
 
-Now, this is a property which in either Euclidean or non-Euclidean space belongs to the straight line, and belongs
-to it alone. But how can we ascertain by experiment if it belongs to any particular concrete object? Distances
-must be measured, and how shall we know that any concrete magnitude which I have measured with my material
-instrument really represents the abstract distance? 
+Shall we say, for instance, “This property will be the following: the straight line is a line such that a figure of which this line is a part can move without the mutual distances of its points varying, and in such a way that all the points in this straight line remain fixed”?
+
+This is a property which in either Euclidean or non-Euclidean space belongs to the straight line, and belongs to it alone. 
+
+But how can we ascertain by experiment if it belongs to any particular concrete object? Distances must be measured, and how shall we know that any concrete magnitude which I have measured with my material instrument really represents the abstract distance? 
 
 We have only removed the difficulty a little farther off. 
 
-In reality, the property that I have just enunciated is not a
-property of the straight line alone; it is a property of the
-straight line and of distance. For it to serve as an absolute criterion, we must be able to show, not only that it
-does not also belong to any other line than the straight line and to distance, but also that it does not belong to
-any other line than the straight line, and to any other magnitude than distance. 
+In reality, the property that I have just enunciated is not a property of the straight line alone. It is a property of the straight line and of distance. 
 
-Now, that is not true, and if we are not convinced by these considerations, I challenge any one to give me a concrete experiment which can be interpreted in the Euclidean system, and which cannot be interpreted in the system of Lobatschewsky. 
+For it to serve as an absolute criterion, we must be able to show, not only that it does not also belong to any other line than the straight line and to distance, but also that it does not belong to any other line than the straight line, and to any other magnitude than distance. 
 
-This challenge will never be accepted. Therefore, I conclude that no experiment will ever be in
-contradiction with Euclid’s postulate; 
+That is not true. If we are not convinced by these considerations, I challenge any one to give me a concrete experiment which can be interpreted in the Euclidean system, and which cannot be interpreted in the system of Lobatschewsky. 
 
-But, on the other hand, no experiment will ever be in contradiction with
-Lobatschewsky’s postulate.
+This challenge will never be accepted. Therefore, I conclude that no experiment will ever be in contradiction with Euclid’s postulate.
+
+But, on the other hand, no experiment will ever be in contradiction with Lobatschewsky’s postulate.
