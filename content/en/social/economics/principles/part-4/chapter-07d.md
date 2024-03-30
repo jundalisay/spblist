@@ -9,6 +9,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
+aliases:
+  /social/economics/solutions/gdp
 ---
 
 

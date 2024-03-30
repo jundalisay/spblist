@@ -49,8 +49,14 @@ The objection is rendered the more forcible when we consider that the retardatio
 
 ## Section 24
 
-Reply: Other things being equal, the force of gravitation, being produced by the single stream of atoms deprived of antagonists, is proportional to the square of the velocity of the atoms (by a proposition demonstrated generally), while the retardation above spoken of, being caused by the stream opposing the planet in its motion, is proportional to the product of this velocity of the atoms by that of the revolving body (as we shall prove directly). Consequently (things being equal) the gravitation is to the retardation as the velocity of the atoms is to that of the revolving body.
-Now, it is not hard to believe that the velocity of the atoms is greater than that of the revolving body; and, indeed, all that we have heretofore said would lead to the presumption that it is incomparably greater. Hence the system of thin-sown atoms moving in every direction agrees very well with a condition of gravitation incomparably greater than the retardation, and it agrees still, despite the consideration which fortifies the difficulty which we are considering, since a velocity has always been assigned to the atoms greater than would have been necessary to obviate this latter difficulty alone.
+Reply: Other things being equal, the force of gravitation, being produced by the single stream of atoms deprived of antagonists, is proportional to the square of the velocity of the atoms (by a proposition demonstrated generally), while the retardation above spoken of, being caused by the stream opposing the planet in its motion, is proportional to the product of this velocity of the atoms by that of the revolving body (as we shall prove directly). 
+
+Consequently (things being equal) the gravitation is to the retardation as the velocity of the atoms is to that of the revolving body.
+
+
+We can believe that the velocity of the atoms is greater than that of the revolving body. All that we have heretofore said would lead to the presumption that it is incomparably greater. 
+
+Hence, the system of thin-sown atoms moving in every direction agrees very well with a condition of gravitation incomparably greater than the retardation, and it agrees still, despite the consideration which fortifies the difficulty which we are considering, since a velocity has always been assigned to the atoms greater than would have been necessary to obviate this latter difficulty alone.
 
 Remark: I have said that the retardation of a great body caused by the opposing, stream of atoms moving much more rapidly than the body itself would be proportional to the product of the velocity of the atoms by that of the great body. I shall first demonstrate this proposition with respect to the couple of opposed streams parallel to the direction of the great body, and in so doing I shall have proved it for the case of opposing streams oblique to this direction, since their motions may be decomposed in two directions, the one parallel and the other perpendicular to the direction of the body, of which the first is nearly always much greater than the motion of the body, and of which the second produces no effect.
 

@@ -1,7 +1,7 @@
 ---
 title: "Politics May Be Reduced To a Science"
 heading: "Essay 3"
-description: "It is wrong to say that all governments are alike, and that their only difference is in the character and conduct of the governors. If this were true, then most political disputes would end and there would be just one constitution for all"
+description: "It is wrong to say that all governments are alike, and that their only difference is in the character and conduct of the governors."
 image: /covers/essays.jpg
 weight: 6
 writer:
@@ -28,8 +28,8 @@ The goodness of all government is in the goodness of the administration.
 
 Compare the French government under Henry III and Henry IV. 
 
-- Henry III's reign had oppression, levity, and artifice in its rulers, and faction, sedition, treachery, rebellion, disloyalty in its subjects. 
-- Henry IV was a patriot and heroic prince who succeeded Henry III. He caused everything to totally change.
+- Henry 3rd's reign had oppression, levity, and artifice in its rulers, and faction, sedition, treachery, rebellion, disloyalty in its subjects. 
+- Henry 4th was a patriot and heroic prince who succeeded Henry III. He caused everything to totally change.
 
 The difference was caused by the difference in the temper and conduct of these two sovereigns. Instances of this kind may be multiplied, almost without number, from ancient as well as modern history, foreign as well as domestic.
 

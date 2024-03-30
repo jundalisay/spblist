@@ -1,7 +1,7 @@
 ---
 title: "The Indepdendence of Parliament"
 heading: "Essay 6"
-description: "Political writers have  a maxim: In contriving any system of government and fixing the checks and controls of the constitution, every man should be supposed a knave, and have only private interest in all his actions"
+description: "Political writers have  a maxim: In contriving any system of government and fixing the checks and controls of the constitution, every man is a knave"
 image: /covers/essays.jpg
 weight: 12
 writer:
@@ -62,13 +62,18 @@ For this is actually the case with the British constitution.
 The share of power, allotted by our constitution to the house of commons, is so great.
 It absolutely commands all the other parts of the government.
 The king’s legislative power is plainly no proper check to it.
+
 Tthe king has a negative in framing laws.
-    But it is of so little moment.
-    Whatever is voted by the two houses, is always sure to pass into a law.
-    The royal assent is little better than a form.
+- But it is of so little moment.
+- Whatever is voted by the two houses, is always sure to pass into a law.
+- The royal assent is little better than a form.
+
 The principal weight of the crown lies in the executive power.
+
 But even the executive power in every government is subordinate to the legislative
+
 The exercise of this power requires an immense expence
+
 The commons have assumed to themselves the sole right of granting money.
 
 Therefore, how easy would it be for that house to wrest from the crown all these powers, one after another by:
@@ -82,12 +87,15 @@ The house of lords is a very powerful support to the Crown, so long as they are 
 How, therefore, shall we solve this paradox?
 
 How is this member of our constitution confined within the proper limits; since, from our very constitution, it must necessarily have as much power as it demands, and can only be confined by itself?
+
 How is this consistent with our experience [45] of human nature?
+
 I answer, that:
 - the interest of the body is here restrained by that of the individuals
 - the house of commons stretches not its power, because such an usurpation would be contrary to the interest of the majority of its members.
 
 The crown has so many offices at its disposal. When assisted by the honest and disinterested part of the house, it will always command the resolutions of the whole, as to preserve the ancient constitution from danger.
+
 We may call this influence as 'corruption' and 'dependence'.
 
 But some degree and some kind of it are:
@@ -101,8 +109,11 @@ Instead then of asserting1 absolutely, that the dependence of parliament is an i
 such a moderation is not to be expected in party-men of any kind.
 
 After a concession of this nature, all declamation must be abandoned.
+
 A calm enquiry into the proper degree of court-influence and parliamentary dependence would have been expected by the readers.
+
 The advantage, in such a controversy, might remain to the country-party.
+
 Yet the victory would not be so complete as wished for.
 
 A true patriot would not have given an entire loose to his zeal, for fear of running matters into a contrary extreme, by also reducing 2 far the crown's influence.
@@ -124,7 +135,9 @@ It might be too great in one hand or too little in another.
 
 In pure republics, the authority is distributed among several assemblies or senates.
 The checks and controls are more regular in their operation because the members of such numerous assemblies are always nearly equal in capacity and virtue.
+
 It is only their number, riches, or authority, which enter into consideration.
 But a limited monarchy does not have such stability.
+
 It is not possible to assign to the crown such a determinate degree of power, as will, in every hand, form a proper counterbalance to the other parts of the constitution.
 This is an unavoidable disadvantage, among the many advantages, attending that species of government.

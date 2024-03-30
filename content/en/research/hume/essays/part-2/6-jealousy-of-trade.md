@@ -1,7 +1,7 @@
 ---
 title: "The Jealousy of Trade"
 heading: "Essay 6"
-description: "The Jealousy of Trade"
+description: "A nation's domestic industry cannot be hurt by the greatest prosperity of their neighbours"
 image: /covers/essays.jpg
 weight: 14
 writer:
@@ -89,7 +89,8 @@ The advantage of superior stocks and correspondence is so great, that it is not 
 
 All the transactions encrease by the encrease of industry in the neighbouring states, even the Dutch whose commerce stands on this precarious basis, may at first reap a considerable profit from the flourishing condition of their neighbours. 
 
-The DUTCH have mortgaged all their revenues. They are not as important in European politics as before. But <!--   make not such a figure in political transactions as formerly; but --> their commerce is surely equal to what it was in the middle of the last century, when they were among the great powers of EUROPE.
+The DUTCH have mortgaged all their revenues. 
+- They are not as important in European politics as before. But <!--   make not such a figure in political transactions as formerly; but --> their commerce is surely equal to what it was in the middle of the last century, when they were among the great powers of EUROPE.
 
 
 If our narrow and malignant politics were to become successful, we should reduce all our neighbouring nations to the same state of sloth and ignorance that prevails in MOROCCO and the coast of BARBARY. 

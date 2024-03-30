@@ -28,7 +28,7 @@ This position has 2 parts:
 2. The conditions which define the absolute position of the system and its absolute orientation in space. 
 
 The law of the phenomena produced in this system will depend on:
-- on the state of these bodies, and
+- on the state* of these bodies, and
 - on their mutual distances
 
 **But because of the relativity and the inertia of space, they will not depend on the absolute position and orientation of the system.** 
@@ -36,6 +36,9 @@ The law of the phenomena produced in this system will depend on:
 In other words, **the state of the bodies and their mutual distances at any moment will solely depend on the state of the same bodies and on their mutual distances at the initial moment. But it will in no way depend on the absolute initial position of the system and of its absolute initial orientation.** 
 
 **This is what we shall call the law of relativity.**
+
+> *Superysics Note: This is consistent with both Descartes' Rule 1 of Movement and Quantum Mechanics which is also state-based. And so, we can safely replace Einstein's Relativity with that of Poincare and use it as foudation for anti-gravity (spacetime) technologies that are impossible with Einstein. 
+
 
 So far I have spoken as a Euclidean geometer. But an experiment requires an interpretation on:
 - the Euclidean hypothesis, and
@@ -87,10 +90,9 @@ I might also have spoken of those which define their velocities. I should then h
 The law of relativity would have to be enunciated as follows:
 
 {{< q a="Poincare ">}}
-**The state of bodies and their mutual distances at any given moment, as well as the velocities with which those distances are changing at that moment, will depend only on the state of those bodies, on their mutual distances at the initial moment, and on the velocities with which those distances were changing at the initial moment. 
+The state of bodies and their mutual distances at any given moment, as well as the velocities with which those distances are changing at that moment, will depend only on the state of those bodies, on their mutual distances at the initial moment, and on the velocities with which those distances were changing at the initial moment. 
 
-But they will not depend on the absolute initial position of the system nor on its absolute orientation, nor on the velocities with which that absolute position and orientation
-were changing at the initial moment. **
+But they will not depend on the absolute initial position of the system nor on its absolute orientation, nor on the velocities with which that absolute position and orientation were changing at the initial moment.
 {{< /q >}}
 
 

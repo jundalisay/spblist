@@ -1,9 +1,8 @@
 ---
-title: "The Operational Ratios of the Points-based System"
-# heading: "Ban Crypto and NFT"
+title: "The Operational Ratios of the Points-based System
 date: 2023-04-19
 image: "https://www.pantrypoints.com/og/banking.jpg"
-description : ""
+description : "We have come up with the following ratios to determine the useful productivity of the users of our system"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

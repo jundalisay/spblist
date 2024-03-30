@@ -1,7 +1,7 @@
 ---
 title: "Passive Obedience"
 heading: "Essay 13 Part 2"
-description: "Passive Obedience"
+description: "What are the practical consequences, deduced by each party, with regard to obedience to sovereigns?"
 image: /covers/essays.jpg
 weight: 42
 writer:

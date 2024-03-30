@@ -11,6 +11,7 @@ author: Le Sage
 
 Constitutions which I assign to heavy bodies and to the gravitational fluid; followed by a mathematical conception and some remarks to fix the ideas of geometers who desire to follow out for themselves the consequences of this mechanism, and who may desire first to know precisely what are the hypotheses from which I claim all the phenomena to follow necessarily. [158]
 
+
 ## The Constitution Of Heavy Bodies
 
 ### Supposition 1. Their indivisible particles are cages

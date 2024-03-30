@@ -2,6 +2,6 @@
 title: "Avicenna"
 heading: Unenlightened like Aristotle
 weight: 6
-description: ""
+description: "Avicenna proposed the Arab view of Physics"
 image: "/covers/avicenna.jpg"
 ---

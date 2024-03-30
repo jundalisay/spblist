@@ -1,6 +1,6 @@
 ---
-title:  "Michael Faraday's Magnetic Fields"
-heading:  "Chapter 6"
+title: "Michael Faraday's Magnetic Fields"
+heading: "Chapter 6"
 weight: 51
 writer:
   name: Edmund Whittaker

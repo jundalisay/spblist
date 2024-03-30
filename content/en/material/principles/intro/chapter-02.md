@@ -4,7 +4,7 @@ title: "The Upper, Middle, and Lower Sublayers"
 # Theoretical Organization of the 5 Layers
 date: 2023-11-02
 image: /graphics/super/layers.jpg
-# description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
+description: "The Sublayers are due to the 3 influences"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
