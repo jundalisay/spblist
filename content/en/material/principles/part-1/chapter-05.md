@@ -46,7 +46,7 @@ If one assumes the theory of Fresnel, then its meaning rather lies in the fact, 
 
 ## Einstein Destroys the Aether
 
-This malleable space was exploited by the scammer Einstein who added **time** in to the mix in order to create Minkowski 4-dimensional space. He then pegged this new 'spacetime' to the speed of light, called `c`, in order to create Special Relativity, and then General Relativity. 
+This malleable space was exploited by the sophist Einstein who added **time** in to the mix in order to create Minkowski 4-dimensional space. He then pegged this new 'spacetime' to the speed of light, called `c`, in order to create Special Relativity, and then General Relativity. 
 
 The huge problem with this (and is the reason why we demonize Einstein as a scammer and [nuclear-weapons promoter](https://www.businessinsider.com/albert-einstein-wrote-letter-us-roosvelt-atomic-bomb-2019-8)) is that **light is part of the electromagnetic (radiant) layer which is inferior to both the spacetime and aetheral layers**.
 

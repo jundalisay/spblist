@@ -7,17 +7,16 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
+draft: true
 ---
 
 
+THIS HAS BEEN REPLACED BY OUR POINCARE POST
 
-In the 19th century, nearly all physicists embraced the aether of Rene Descartes as the medium that gave light its wave properties.
 
-All that was needed was to get proof of the aether by measuring the changes in the speed of light in different times in a year. Such changes would then be evidence of an 'aether wind' that 'blew' light. 
 
-This was done through an 'interferometer' as the Michelson-Morley experiment
-
-That experiment showed that the speed of light is the same everywhere, and so there was no aether wind.
+{{< img src="" >}}
+/graphics/physics/fresnel.jpg
 
 Lorentz fixed this by saying that light had a constant speed because space was contracting at the same time with the aether wind. This led to the concept of 'length contraction'.
 

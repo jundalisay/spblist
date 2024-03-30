@@ -10,7 +10,9 @@ icon: /icons/spmat.png
 ---
 
 
-A muon is a subatomic particle that has a very short lifespan, only 2.2 microseconds on Earth.
+## What is Muon?
+
+A [muon](https://en.wikipedia.org/wiki/Muon) is a subatomic particle that has a very short lifespan, only 2.2 microseconds on Earth.
 
 Yet when it comes from outer space, it lasts longer and is able to hit the Earth. 
 
@@ -36,6 +38,9 @@ The percentage of the air-aether declines as the muon approaches the Earth. It t
 
 <!-- It is the water-aether or weak force that facilitates the decay.  -->
 
+
+## Speed Versus Type
+
 Here, the speed of the muon is just one effect of its nature as fire-aether. Therefore, its speed is not important in explaining why its life got extended. 
 
 Instead, the determining factor is the kind of aether that a particle is, in relation to the aether of another particle or environment. This is part of our Theory of Universal Relationality.
@@ -47,7 +52,10 @@ It merely says that time dilates and space contracts for something the faster th
 
 Relativity is complicated and full of inconsistencies. 
 
-Cartesian Physics is simple and intuitive. It can be applied to fix Newtonian errors:
+
+## Cartesian Corrections 
+
+Cartesian Physics is simple and intuitive. It can be applied to fix errors by Einstein and Newton:
 
 - The precession of Mercury is caused by the solidity of its core in relation to the core of the Sun.
 - Gravitational lensing is caused by the refraction of light by the air-aether of stars. Dark matter is unnecessary.

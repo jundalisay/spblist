@@ -1,7 +1,8 @@
 ---
 title: "De Broglie's Pilot Wave vs Bohr's Copenhagen Interpretation"
 date: 2024-01-30
-image: /photos/objects/water.jpg
+linkTitle: "Bohm vs Bohr"
+image: /graphics/physics/pilot.jpg
 description: "The aether drag has always been in the measurements done by physicists on light"
 writer:
   name: Juan
@@ -17,11 +18,16 @@ icon: /icons/spmat.png
 https://www.nasa.gov/wp-content/uploads/2022/07/web_first_images_release.png -->
 
 
-In Cartesian Physics, both the Pilot wave theory of De Broglie and the Copenhagen Interpretation of Bohr are properties of the fire-aether (Electromagnetism), which we call the Radiant Layer in Superphysics.
+In Cartesian Physics, both the [Pilot wave theory](https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory) of De Broglie and the Copenhagen Interpretation of Bohr are properties of the fire-aether (Electromagnetism), which we call the Radiant Layer in Superphysics.
 
 The Radiant Layer is subservient to the Spatial Layer (spacetime). 
 
 This is why both Pilot Wave and Copenhagen show the same interference or wave pattern, since spacetime is made up of waves.
+
+{{< img src="/graphics/physics/pilot.jpg" alt="Pilot Wave Theory" cap="The interpretations of Bohr, De Broglie, and Einstein are all within Cartesian Physics" >}}
+
+
+## Pilot Wave Versus Copenhagen Interpretation
 
 The main difference is that the Pilot-wave theory is more inclined towards the Spatial Layer, whereas the Copenhagen Interpretation is more inclined towards the Aethereal Layer. 
 

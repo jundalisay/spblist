@@ -57,7 +57,7 @@ We say that qualimath is fundamentally expansive and synthetic (prefers synthesi
 
 To attain precision, the qualimath can be crudified into normal math. 
 
-We begi by using Qualimath to solve the Yang Mills Theory. This will be given in future posts.  
+We will begin by using Qualimath to solve the Yang Mills Theory. This will be given in future posts.  
 
 
 

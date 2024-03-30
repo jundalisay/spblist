@@ -6,7 +6,25 @@ Spinoza 1632-1677
 Newton 1643-1727
 
 
+https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment
+
+james webb telescope
+https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/early-highlights/_documents/2022-061-jades/JADES_CurtisLake.pdf
+
+https://en.wikipedia.org/wiki/Dioptrique
+https://en.wikipedia.org/wiki/The_World_(book)
+
+https://en.wikipedia.org/wiki/Euclid%27s_Elements
+https://en.wikipedia.org/wiki/Muon
+
+https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory
+
+elastic gravity
+https://www.youtube.com/watch?v=3l9J6tH4iD0
+
 horiz 
+
+
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2557957536703477"
      crossorigin="anonymous"></script>

@@ -11,7 +11,7 @@ draft: true
 ---
 
 
-In Book 1 of "Elements", Euclid gives 5 Postulates which people think are about geometry.
+In Book 1 of "[Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements)", Euclid gives 5 Postulates which people think are about geometry.
 
 This is why they get so confused with Postulate 5 which is about 2 straight lines meeting. This makes people think that Euclid was talking about Geodesics and spherical geometry which they call as non-Euclidean.
 
@@ -21,7 +21,7 @@ We side with Kepler and emphasize that Euclid's Elements are about the dynamics 
 
 These were called Akasha, Vayu, Tejas, Jala, and Pritvi by the Hindus, and by 水,木,火,土,and 金 by the Chinese. Nowadays, these are called Aether, Spacetime, Electromagnetism, Weak Force, and Strong Force by Physics. 
 
-The simplest concept is Ren, which is literally your name
+<!-- The simplest concept is Ren, which is literally your name
 
 Ka is that vital essence that makes the difference between the living and the dead
 
@@ -29,19 +29,18 @@ Ib is the heart
 
 Ba is that which makes each of us unique and different. Your ba is destined to survive after death, often depicted or imagined as a human-headed bird, which with good fortune will go forth by day to enjoy the light, but might also end up existing only in the dark, like the bat or the ruin-haunting owl.
 
-Sheut is your shadow, and by extension the other you, as well as being used to describe a statue, a model or a painting of a human.
+Sheut is your shadow, and by extension the other you, as well as being used to describe a statue, a model or a painting of a human. -->
 
-Postulate 1 is about how the aether links two discrete identities. We call this an aethereal band. The details of this is given by Books 1, 7-10. 
 
-Postulate 2 is about how aethereal links spread out indefinitely, creating spacetime. The details of this is given by Books 5, 10. 
 
-Postulate 3 is about how aethereal links spread in all directions from a source, as seen in the light of Electromagnetism. The details of this is given by Book 3.
+1. Postulate 1 is about how the aether links two discrete identities. We call this an aethereal band. The details of this is given by Books 1, 7-10. 
+2. Postulate 2 is about how aethereal links spread out indefinitely, creating spacetime. The details of this is given by Books 5, 10. 
+3. Postulate 3 is about how aethereal links spread in all directions from a source, as seen in the light of Electromagnetism. The details of this is given by Book 3.
+4. Postulate 4 is about how some aethereal identities have a 'right angle' which is now the right handedness of a particle in the Weak Interaction. The details of this is given by Book 6, 11. 
+5. Postulate 5 is about how the meeting of aethereal links create matter (Strong Force) or interaction from non-right-handed particles. The details of this is given by Books 12-13. 
 
-Postulate 4 is about how some aethereal identities have a 'right angle' which is now the right handedness of a particle in the Weak Interaction. The details of this is given by Book 6, 11. 
 
-Postulate 5 is about how the meeting of aethereal links create matter (Strong Force) or interaction from non-right-handed particles. The details of this is given by Books 12-13. 
-
-Euclids and the Greeks got these principles from the Egyptians who were expert in geometry and math. 
+Euclid and the Greeks got these principles from the Egyptians who were expert in geometry and math. 
 
 A shallow person will say that there is no way for the Egyptians to know about left and right handedness of particles. 
 
@@ -49,10 +48,10 @@ We reply that left and right hand chirality manifests in chemical compounds, esp
 
 Proof is that the Chinese also used the principles of the 4th Element to invent gunpowder. 
 
-The Elements are therefore a guide on how the 5 Elements work, explained in a logical manner, and is not a mere book about how to draw shapes. 
+Euclid's Elements are therefore a guide on how the 5 Elements work, explained in a logical manner. It is not a mere book about how to draw shapes. 
 
 The main problem is that the later generations did not know about the 5 Elements and so their brains interpreted Euclid as writing about mere shapes. 
 
 Newton added to the problem by using his Calculus (which is ignorant of the 5 Elements) to bulldoze over the underlying propositions of Kepler's Laws. 
 
-Therefore, saying 'non-Euclidean geometry' is as absurd as saying 'non-universal universe'. Spherical (non-Euclidean) Geometry and geodesics are really a mix of Postulates 2 and 3, just as Einstein used c for spacetime. 
+Therefore, saying 'non-Euclidean geometry' is as absurd as saying 'non-universal universe'. Spherical (non-Euclidean, Riemann) Geometry and geodesics are really a mix of Postulates 2 and 3, just as Einstein used c for spacetime. 

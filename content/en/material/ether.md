@@ -11,9 +11,24 @@ draft: true
 ---
 
 
-In Cartesian Physics, the strong force, weak force, EM, spacetime, and aether are called earth-aether, water-aether, fire-aether, air-aether, and pure aether respectively. It has a hierarchy, with the latter aethers being superior to the former aethers. I.e. spacetime can gravitate light, but light cannot gravitate spacetime. 
+In Cartesian Physics, the fundamental forces of the Standard model are called Elements:
 
-The mistake of 19th century physics was to think that the pure aether was within the fire-aether. Fresnel is to blame for that mistake. 
+
+Physics Name | Cartesian Equivalent
+--- | ---
+Strong force | Earth-Aether or 3rd Element
+Weak force | Water-Aether
+Electromagnetism | Fire-Aether or 1st Element
+Spacetime | Air-Aether or 2nd Element
+Quantum Fields | Pure Aether
+
+ <!-- are called earth-aether, water-aether, fire-aether, air-aether, and pure aether respectively.  -->
+
+It has a hierarchy, with the pure aether being superior to the air-aether and so on. That is, spacetime can gravitate light, but light cannot gravitate spacetime. 
+
+The mistake of 19th century physics was to think that the pure aether was within the fire-aether. 
+
+Huygens is to blame for that mistake, since Fresnel got his luminiferous aether theory from him. 
 
 In reality, light is inferior to and within the air-aether (spacetime), while spacetime is inferior to and within the pure aether. That is proven by Lorentz transformations which are based on the pure aether which tranforms the air aether (spacetime).
 

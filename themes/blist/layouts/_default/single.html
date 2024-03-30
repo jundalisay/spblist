@@ -48,7 +48,13 @@
               <a href="{{ .RelPermalink }}">{{ .Params.title }}</a> /          
             {{- end }}
           {{- end }}
+
+          {{ if .Params.linkTitle }}
+            <a href="{{ .RelPermalink }}">{{ .Params.linkTitle }}</a> /
+          {{- else }}
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{- end }}          
+
       </small>
     </div>
 

@@ -12,8 +12,8 @@ icon: /icons/spmat.png
 
 
 Material Superphysics is largely based on Descartes Principia Philosophia which rivals the work of Newton. For example:
-- *La Dioptrique* is the counterpart of Newton's Principia
-- *Traité du monde* is the counterpart of Newton's System of the World. 
+- [La Dioptrique](https://en.wikipedia.org/wiki/Dioptrique) is the counterpart of Newton's Principia
+- [Traité du monde](https://en.wikipedia.org/wiki/The_World_(book)) is the counterpart of Newton's System of the World. 
 
 In addition, Descartes describes the phenomena observed by current Physics:
 

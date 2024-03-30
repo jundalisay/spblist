@@ -1,7 +1,8 @@
 ---
 title: "The Elastic Theory of Gravity"
 date: 2023-07-16
-image: /photos/physics/messier87.jpg
+# image: /photos/physics/messier87.jpg
+image: https://i.ytimg.com/vi/3l9J6tH4iD0/mqdefault.jpg
 description: "Our theory of gravity is called the Elastic theory derived from the theories of Kepler, Descartes, and Socrates"
 writer:
   name: Juan
@@ -9,6 +10,8 @@ writer:
 icon: /icons/spmat.png
 ---
 
+
+{{< youtube 3l9J6tH4iD0 >}}
 
 Our theory of gravity is called the Elastic theory derived by consolidating the theories of Kepler, Descartes, and Socrates among others. 
 

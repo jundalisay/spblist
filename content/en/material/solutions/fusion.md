@@ -99,11 +99,13 @@ In this case, they use sound, as a mantra, to manipulate the vortices (chakras) 
 
 
 
-An alternative way is to use the qosts directly to propel a mass. In the video below, the levitator uses his aethereal mind to force qosts down through his chakras to repel those on the floor. We call this the active version*. 
+An alternative way is to use the qosts directly to propel a mass. In the video below, the levitator uses his aethereal mind to force qosts down through his chakras to repel those on the floor. We call this the active version.
 
 {{< youtube QdBN3iN6pi4 >}}
 
-> *This is used by Bob Lazar's UFO design which utilizes 'gravity amplifiers' to emit gravity 'waves' through the ship's bottom. This makes the ship move top-forward towards its destination similar to how the levitator moves in a 'top-up' direction instead of a sideways direction. This is in contrast to the passive version where monks can travel sideways by blocking/unblocking the qosts that pass through instead of funneling them.    
+{{< img src="/graphics/physics/bob.jpg" alt="Bob Lazar UFO" >}}
+
+This is used by Bob Lazar's UFO design which utilizes 'gravity amplifiers' to emit gravity 'waves' through the ship's bottom. This makes the ship move top-forward towards its destination similar to how the levitator moves in a 'top-up' direction instead of a sideways direction. This is in contrast to the passive version where monks can travel sideways by blocking/unblocking the qosts that pass through instead of funneling them.    
 
 
 <!-- While pure energy and brute force are common in dealing with Electromagnetism, precision and sophistication are common in dealing with Spacetime.  -->

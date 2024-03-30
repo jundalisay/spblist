@@ -1,6 +1,7 @@
 ---
-title: "The Creation Story and the 5 Elements by Jesus"
+title: "The Creation Story and the 5 Elements According to Jesus"
 date: 2022-08-03
+linkTitle: Jesus 5 Elements
 image: /graphics/physics/jesus.jpg
 description: "The aether drag has always been in the measurements done by physicists on light"
 writer:
@@ -10,7 +11,7 @@ icon: /icons/spmat.png
 ---
 
 
-The ancient Greeks had a creation story wherein the god Paethon rode his solar chariot too close to the Earth, burning and destroying parts of it.
+The ancient Greeks had a creation story wherein [the god Paethon rode his solar chariot](/research/socrates/timaeus/chapter-02) too close to the Earth, burning and destroying parts of it.
 
 In Plato's Timaeus, this story is debunked by an old Egyptian priest who revealed that Paethon really represented a meteorite shower that destroyed large parts of Europe. It did not fall on Egypt and this allowed Egypt to be more advanced than Europe. 
 
@@ -18,7 +19,17 @@ The Egyptian clarified that antiquity is full of myths like these which should n
 
 The Gospel of Judas also has such a creation story from Jesus. He asserts that creator-angels each used 5 angels to facilitate the creation of each world.   
 
+1. Yaoth
+2. Harmathoth
+3. Galila
+4. Yobel
+5. Adonaios
+
+
 We find that the Jesus Cosmology Model fits neatly into our 5 Elements Model, derived from Timaeus and Descartes, proving that the principles of the universe stay the same regardless of time.  
+
+
+![Jesus Angels](/graphics/physics/jesus.jpg)
 
 Jesus adds new information when he asserts that the 5 angels are NOT the cause of the problems in each world. Instead, the problems are cause by the error of the stars. 
 

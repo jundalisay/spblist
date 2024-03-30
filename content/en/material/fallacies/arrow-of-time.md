@@ -60,4 +60,4 @@ Humans should either obey Einstein (and the materialists) and keep Physics stuck
 
 If you believe that science should stay stuck and that the planet should heat itself up and cause life to go extinct (since there is no scientific solution), then Einstein logically is a genius. 
 
-But if you believe that science should progress and we can get out of this heated planet by quantum teleportation and faster-than-light travel, then it follows that Einstein is a scammer who trapped humans in an extinction box, achieved faster with nuclear weapons which he himself promoted.
+But if you believe that science should progress and we can get out of this heated planet by quantum teleportation and faster-than-light travel, then it follows that Einstein is a sophist who trapped humans in an extinction box, achieved faster with nuclear weapons which he himself promoted.
