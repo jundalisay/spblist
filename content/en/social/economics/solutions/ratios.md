@@ -1,5 +1,5 @@
 ---
-title: "The Operational Ratios of the Points-based System
+title: "The Operational Ratios of the Points-based System"
 date: 2023-04-19
 image: "https://www.pantrypoints.com/og/banking.jpg"
 description : "We have come up with the following ratios to determine the useful productivity of the users of our system"

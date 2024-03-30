@@ -20,7 +20,7 @@ When he appeared on earth, he did signs and great wonders for the salvation of h
 One day, he was with his disciples in Judea. He found them sitting together practicing their piety. When he came up to his disciples sitting together praying over the bread, he laughed.
 
 {{< r a="Disciples" >}}
-Master, why are you laughing at [our] prayer? What have we done? [This] is what's right."
+Master, why are you laughing at [our] prayer? What have we done? [This] is what's right.
 {{< /r >}}
 
 {{< l a="Jesus" >}}
@@ -56,9 +56,11 @@ But their spirits weren't brave enough to stand before him – except Judas Isca
 
 
 {{< r a="Judas" >}}
-I know who you are and where you've come from. You've come from the immortal realm of Barbelo, and I'm not worthy to utter the name of the one who has sent you.
+I know who you are and where you've come from. You've come from the immortal realm of Barbelo, and I'm not worthy to utter the name* of the one who has sent you.
 {{< /r >}}
 
+
+> *Superphysics Note: This is in line with Jewish tradition
 
 Then Jesus, knowing that he was thinking about what's exalted, said to him:
 
