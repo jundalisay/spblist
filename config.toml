@@ -334,6 +334,11 @@ paginate = 12
       title = "Material Superphysics: Crystal Computers"
       sub = "A computer made of glass to overcome the limitations of semiconductors (year 2100s)"
     [languages.en.params.tricon6.items.d]
+      # url = "/material/solutions/fusion/"
+      img = "/graphics/physics/bob.jpg"
+      title = "Material Superphysics: Floating Vehicles via Anti-Gravity"
+      sub = "We propose to use Descartes' spacetime vortices to float vehicles following Bob Lazar's design (year 2100s)"
+    [languages.en.params.tricon6.items.f]
       url = "/material/solutions/fusion/"
       img = "/graphics/physics/reactor.jpg"
       title = "Material Superphysics: Fusion via Anti-Gravity"
@@ -344,7 +349,7 @@ paginate = 12
       img = "/photos/med/meds.jpg"
       title = "Bio Superphysics: Capsule Food"
       sub = "Food processing that preserves the aethereal pranah of food (year 2050s)"
-    [languages.en.params.tricon6.items.f]
+    [languages.en.params.tricon6.items.i]
       url = "https://www.pantrypoints.com/pantrypreneur/farm/"
       img = "https://www.pantrypoints.com/graphics/farm.jpg"
       title = "Bio Superphysics: Maximized Farming"
@@ -360,7 +365,7 @@ paginate = 12
       img= "https://www.pantrypoints.com/graphics/circle.jpg"
       title = "Social Superphysics: Points-based Economic System"
       sub = "This allows money and moneyless transactions. We began this in 2016, as the first solution, in order to provide the resources for the rest of the proposals. (2016-current)"
-    [languages.en.params.tricon6.items.i]
+    [languages.en.params.tricon6.items.n]
       url = "/social/supersociology/principles/part-5/fourth-branch/"
       # url = "/social/supersociology/principles/part-1/chapter-05"
       img = "/photos/social/pantry.jpg"

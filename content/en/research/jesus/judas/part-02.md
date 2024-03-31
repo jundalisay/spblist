@@ -46,7 +46,7 @@ Master, just as you've listened to all of them, now listen to me too, because I'
 But Jesus laughed when he heard this. 
 
 {{< l a="Jesus" >}}
-Why are you all worked up, you 13h demon? But speak up, and I'll bear with you.
+Why are you all worked up, you 13th demon? But speak up, and I'll bear with you.
 {{< /l >}}
 
 {{< r a="Judas" >}}
