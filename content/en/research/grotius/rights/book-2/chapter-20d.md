@@ -1,24 +1,31 @@
 ---
-title: Punishments
+title: Offences Against God
 heading: Chapter 40
 weight: 48
 image: /covers/warpeace.jpg
-description: ""
+description: "The progress of the work has necessarily led to the consideration of offences against God"
 author: "Hugo Grotius"
 ---
 
 
 ## Part 40:
 
-Kings and those who are possessed of sovereign power have a right to exact punishment not only for injuries affecting immediately themselves or their own subjects, but for gross violations of the law of nature and of nations, done to other states and subjects. For the liberty of inflicting punishment for the peace and welfare of society, which belonged to individuals in the early ages of the world, was converted into the judicial authority of sovereign states and princes; a right devolving upon them not only as rulers of others, but as subject to the controul of no earthly power. 
+Those who have sovereign power have a right to exact punishment for:
+- injuries affecting immediately themselves or their own subjects
+- gross violations of the law of nature and of nations, done to other states and subjects. 
+
+For the liberty of inflicting punishment for the peace and welfare of society, which belonged to individuals in the early ages of the world, was converted into the judicial authority of sovereign states and princes; a right devolving upon them not only as rulers of others, but as subject to the controul of no earthly power. 
 
 For that is a right, which can belong to no subject. It is never safe to leave the entire assertion of a man's own rights, or the punishment of his wrongs, to his own judgment; for he cannot be entirely disinterested in his own cause. Partiality will make him fall short of, or prejudice will make him exceed the bounds of justice. 
 
 It was the theme of praise bestowed upon the heroes of antiquity, that in their most arduous undertakings they avenged the wrongs of others rather than their own. Upon this principle there can be no hesitation in pronouncing all wars to be just, that are made upon pirates, general robbers, and enemies of the human race. 
 
-So far this opinion agrees with that of Innocentius and others, who maintain all war to be lawful against those who have renounced the ties and law of nature. An opinion directly the reverse is held by Victoria, Vasquez, Azorius, Molina, and others, who deem an aggression done to a prince, his government, or his subjects, or civil jurisdiction over the aggressor, the only justifiable warrant for inflicting punishment, particularly the punishment of hostilities. For they suppose punishment to be an effect purely arising from the authority of civil law, whereas, according to the proofs established in the beginning of this treatise, it was shewn to be a right resulting entirely from the law of nature.
+So far this opinion agrees with that of Innocentius and others, who maintain all war to be lawful against those who have renounced the ties and law of nature. An opinion directly the reverse is held by Victoria, Vasquez, Azorius, Molina, and others, who deem an aggression done to a prince, his government, or his subjects, or civil jurisdiction over the aggressor, the only justifiable warrant for inflicting punishment, particularly the punishment of hostilities. 
 
-248 If the opinion of those, from whom we differ, be admitted, no enemy will have a right to punish another, by the prosecution of a just war; a right, which notwithstanding is allowed and confirmed by the practice of all nations, not only after the defeat of an enemy, but during the continuance of a war; and that too, not from any civil jurisdiction, but from a natural right, which prevailed long before the foundation of states, and which still exists in all its force, in places, where the community consists of families distinct, and united as the subjects of one sovereign.
+For they suppose punishment to be an effect purely arising from the authority of civil law, whereas, according to the proofs established in the beginning of this treatise, it was shewn to be a right resulting entirely from the law of nature.
+
+If the opinion of those, from whom we differ, be admitted, no enemy will have a right to punish another, by the prosecution of a just war; a right, which notwithstanding is allowed and confirmed by the practice of all nations, not only after the defeat of an enemy, but during the continuance of a war; and that too, not from any civil jurisdiction, but from a natural right, which prevailed long before the foundation of states, and which still exists in all its force, in places, where the community consists of families distinct, and united as the subjects of one sovereign.
+
 
 ## Part 41-43:
 

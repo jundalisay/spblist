@@ -1,8 +1,8 @@
 ---
 title: "The Rights of War and Peace"
-heading: Enlightened
+heading: Enlightened but dogmatic
 weight: 1
-description: ""
-image: /covers/warpeace.jpg
+description: "Grotius describes the Rights of War and Peace"
+image: /covers/grotius.jpg
 ---
 

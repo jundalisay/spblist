@@ -1,14 +1,14 @@
 ---
 title: The Division of War Into Public and Private and the Nature of Sovereign Power
-heading: Part 8
+heading: Chapter 3b
 weight: 18
 image: /covers/warpeace.jpg
-description: 
+description: Some maintain that, everywhere and without exception, the sovereign power is vested in the people so that they have a right to restrain and punish kings for an abuse of their power
 author: "Hugo Grotius"
 ---
 
 
-## Part 8
+<!-- ## Part 8 -->
 
 Some maintain that, everywhere and without exception, the sovereign power is vested in the people so that they have a right to restrain and punish kings for an abuse of their power. 
 
@@ -39,11 +39,15 @@ It may also happen that a master of a family, having large possessions, will suf
 
 Thus Tacitus, speaking of the German slaves, says, "Each has his own separate habitation, and his own household to govern. The master considers him as a tenant, bound to pay a certain rent in corn, cattle, and wearing apparel. And this is the utmost extent of servitude."
 
-Aristotle, in describing the requisites, which fit men for servitude, says, that "those men, whose powers are chiefly confined to the body, and whose principal excellence consists in affording bodily service, are naturally slaves, because it is their interest to be so." In the same manner some nations are of such a disposition that they are more calculated to obey than to govern, which seems to have been the opinion which the Cappadocians held of themselves, who when the Romans offered them a popular government, refused to accept it, because the nation they said could not exist in safety without a king. 
+Aristotle described the requisites which fit men for servitude. He says, that "those men, whose powers are chiefly confined to the body, and whose principal excellence consists in affording bodily service, are naturally slaves, because it is their interest to be so." 
+
+In the same manner, some nations are of such a disposition that they are more calculated to obey than to govern, which seems to have been the opinion which the Cappadocians held of themselves, who when the Romans offered them a popular government, refused to accept it, because the nation they said could not exist in safety without a king. 
 
 Thus, Philostratus in the life of Apollonius, says, that it was foolish to offer liberty to the Thracians, the Mysians, and the Getae, which they were not capable of enjoying. 
 
-The example of nations, who have for many ages lived happily under a kingly government, has induced many to give the preference to that form. Livy says, that the cities under Eumenes would not have changed their condition for that of any free state whatsoever. And sometimes a state is so situated, that it seems impossible it can preserve its peace and existence, without submitting to the absolute government of a single person, which many wise men thought to be the case with the Roman Republic in the time of Augustus Caesar. From these, and causes like these it not only may, but generally does happen, that men, as Cicero observes in the second book of his offices, willingly submit to the supreme authority of another.
+The example of nations, who have for many ages lived happily under a kingly government, has induced many to give the preference to that form. Livy says, that the cities under Eumenes would not have changed their condition for that of any free state whatsoever. 
+
+Sometimes a state is so situated, that it seems impossible it can preserve its peace and existence, without submitting to the absolute government of a single person, which many wise men thought to be the case with the Roman Republic in the time of Augustus Caesar. From these, and causes like these it not only may, but generally does happen, that men, as Cicero observes in the second book of his offices, willingly submit to the supreme authority of another.
 
 Property may be acquired by just war in the same way as the rights to sovereignty. "Sovereignty" here means that of the monarchy alone, but to government by nobles, from any share in which the people are excluded. 
 
@@ -61,7 +65,11 @@ God addressing the people of Israel, says, if thou shalt say, "I will place a ki
 
 Thus David gives thanks to God, for subduing the people under him. 
 
-Christ says, "the Kings of the nations bear rule over them." There is a well known passage in Horace, "Powerful sovereigns reign over their own subjects, and the supreme being over sovereigns themselves." Seneca thus describes the three forms of government, "Sometimes the supreme66 power is lodged in the people, sometimes in a senate composed of the leading men of the state, sometimes this power of the people, and dominion over the people themselves is vested in a single person." Of the last description are those, who, as Plutarch says, exercise authority not according to the laws, but over the laws. And in Herodotus, Otanes describes a monarch as one whose acts are not subject to controul. Dion Prusaeensis also and Pausanias define a monarchy in the same terms.
+Christ says, "the Kings of the nations bear rule over them." There is a well known passage in Horace, "Powerful sovereigns reign over their own subjects, and the supreme being over sovereigns themselves." 
+
+Seneca thus describes the 3 forms of government: "Sometimes the supreme power is lodged in the people, sometimes in a senate composed of the leading men of the state, sometimes this power of the people, and dominion over the people themselves is vested in a single person." 
+
+Of the last description are those, who, as Plutarch says, exercise authority not according to the laws, but over the laws. And in Herodotus, Otanes describes a monarch as one whose acts are not subject to controul. Dion Prusaeensis also and Pausanias define a monarchy in the same terms.
 
 Aristotle says there are some kings, who have the same right, which the nation elsewhere possesses over persons and property. Thus when the Roman Princes began to exercise regal power, the people it was said had transferred all their own personal sovereignty to them, which gave rise to the saying of Marcus Antoninus the Philosopher, that no one but God alone can be judge of the Prince. Dion. L. liii. speaking of such a prince, says, "he is perfectly master of his own actions, to do whatever he pleases, and cannot be obliged to do any thing against his will." Such anciently was the power of the Inachidae established at Argos in Greece. 
 

@@ -1,6 +1,6 @@
 ---
-title: Contracts and Exchange
-heading: Chapter 12
+title: The Equality Of Terms Previous To The Contract
+heading: Chapter 12b
 weight: 24
 image: /covers/warpeace.jpg
 description: Human actions divided into simple or mixed—Gratuitous, or accompanied with mutual obligation—Acts by way of exchange, adjustment of what is to be given or done.

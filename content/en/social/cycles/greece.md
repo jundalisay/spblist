@@ -50,13 +50,16 @@ So why did Greece suffer a debt crisis?
 
 ### A Consequence of the Derivatives Spree in the 2000s
 
-In the 2000s, credit default swaps took off. It allowed large corporations to take on huge amounts of debt and spread the risk to so many people and investors. The key change was to regard the derivatives as an **insurance**, instead of as a loan. 
+In the 2000s, credit default swaps took off. It allowed large corporations to take on huge amounts of debt and spread the risk to so many people and investors. The key change was to regard the derivatives as an **insurance** which could be sold to many people, instead of as a loan. 
+
+Previously, this was illegal. But the [repeal of Glass-Steagall](https://en.wikipedia.org/wiki/Aftermath_of_the_repeal_of_the_Glass%E2%80%93Steagall_Act) suddenly allowed it from 1999. 
+
 
 {{< youtube W-Q9AOp2FW8 >}}
 
 This allowed banks to sell huge amounts of debt which then gave huge amounts of profits, and so they pushed it aggressively. 
 
-It soon spread to public debt where governments were offered so much debt. This is why former [Greek Prime Minister Simitis](https://english.pku.edu.cn/news_events/news/global/473.html) blamed "European economic management".
+It soon spread to public debt where governments were offered so much debt. This is why former [Greek Prime Minister Simitis](https://english.pku.edu.cn/news_events/news/global/473.html) blamed "European economic management" which was helpless against it.
 
 The last line of defense should have been credit rating agencies. Unfortunately, [their revenue came from the lenders](https://www.theguardian.com/business/2010/apr/28/greece-debt-crisis-standard-poor-credit-agencies) and so they allowed bad debt. 
 
@@ -64,9 +67,11 @@ The last line of defense should have been credit rating agencies. Unfortunately,
  <!-- with the risk spread over so many people.  -->
 
 
-This is why both private and public debt ballooned and collapsed nearly at the same years from 2007, as seen in the fall of Lehman, to 2010, as seen with the fall of Greece. 
+This is why both private and public debt ballooned and collapsed nearly at the same years:
+- from 2007, as seen in the fall of Lehman
+- to 2010, as seen with the fall of Greece
 
-This evils of debt was very well known in the 18th century, especially to Adam Smith who blamed the finance industry for it:
+The evils of debt were very well known in the 18th century, especially to Adam Smith who blamed the finance industry for it:
 
 
 {{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5" >}}
@@ -77,23 +82,23 @@ Such improvident anticipations gave birth to the more ruinous practice of perpet
 
 ### Large Debt = Wasteful Spending
 
-Unlike Spain, Portugal and Ireland, Greece had more opportunities to waste huge amounts of debt in the following ways:
+Unlike Spain, Portugal, and Ireland, Greece had more opportunities to waste huge amounts of debt in the following ways:
 
-- The Athens Olympics
+- [The Athens Olympics](https://www.usatoday.com/story/sports/olympics/2015/01/15/greek-think-tank-2004-athens-games-cost-greece-7-5-billion/21813819/)
 - Military spending
 - Socialist government pensions and salaries from a  governement
 
  <!-- by the Greek Government as a Legacy of Keynes -->
 
-{{< img src="/photos/countries/gr/athens.jpg" alt="Athens Olympics disused arena" cap="The Athens Olympics, 2004 and 2014. Keynesian projects bloat governments and attract the corrupt like sugar attracts ants" >}}
+{{< img src="/photos/countries/gr/athens.jpg" alt="Athens Olympics disused arena" cap="The Athens Olympics venues ended up unused. Keynesian projects bloat governments and attract the corrupt like sugar attracts ants" >}}
 
 
 {{< me d="March 2024" >}}
-The Greek mistake of spending wastefully for the Olympics was recently repeated by Japan spending for the 2020 Olympics which is much more wasteful because it coincided with the pandemic. Japan has recently fallen to be the fourth economy in the world because of its weak currency. Unlike debt which fueled the Greek mistake, it was quantitative easing which fueled that of Japan. Both are flawed Keynesian solutions. 
+The Greek mistake of spending wastefully for the Olympics was recently repeated by Japan spending for the 2020 Olympics which is much more wasteful because it coincided with the pandemic. Japan has recently fallen to be the fourth economy in the world because of its weak currency. Unlike debt which fueled the Greek mistake, it was quantitative easing which fueled that of Japan. Both are flawed Keynesian solutions which are based on the nature of money and finance. 
 {{< /me >}}
 
 
-The government's solution was austerity, raising taxes, and decreasing services and pensions. This resulted in the suffering of the people without the bankers getting punished proportionately.  
+The Greek government's solution was austerity, raising taxes, and decreasing services and pensions. This resulted in the suffering of the people without the bankers getting punished proportionately.  
 
 
 <!-- That's why we predict a crisis for Japan in the future and are proposing [Pool Clearing](/research/schumacher/pool-clearing) to solve it way before it hits. -->
@@ -185,9 +190,10 @@ Adam Smith's solution to financial crises was to revert to barter and to pay for
 
 Instead of raising taxes, the EU can set up a clearing fund in France and Germany where French and German importers of Greek products can pay into. Part of the proceeds can then go directly to the creditor banks. France and Germany can then encourage their people to import more Greek items in order to give liquidity to their own banking systems.
 
-![Pool clearing for Greece](https://sorasystem.sirv.com/charts/pool/gr.png)
+{{< img src="https://sorasystem.sirv.com/charts/pool/gr.png" alt="Pool clearing for Greece" cap="An example of Pool clearing for Greece" >}}
 
-Likewise, Greece will set up a clearing fund for its EU imports, so that the Greek Euros can go directly to pay the debt. In this way, the debt will be paid by the Greeks paying for EU imports into their clearing fund and by EU citizens paying for Greek products into theirs. The debt is paid by enticing production and trade instead of austerity and increased taxation.
+
+Likewise, Greece will set up a clearing fund for its EU imports, so that the Greek Euros can go directly to pay the debt. In this way, the debt will be paid by the Greeks paying for EU imports into their clearing fund and by EU citizens paying for Greek products into theirs. The debt is paid by enticing production and trade, a positive economic action, instead of austerity and increased taxation, a negative one.
 
 In effect, the clearing funds unify the EU states into a barter union to offset the problems of their monetary union. This keeps individual member states independent and able to state their own fiscal policies without needing a fiscal union*. 
 
@@ -203,11 +209,13 @@ As Greece is a country for tourism and hospitality, we can extend pool clearing 
 - Part of the payment will go directly to the creditor bank
 - The EU can encourage its citizens to avail of Greek tourism and deposit into the fund to pay off the debt faster
 
-![Athens Olympics fireworks](https://socioecons.files.wordpress.com/2015/04/athens.jpg)
+
+{{< img src="https://sorasystem.sirv.com/charts/pool/gr.png" alt="Athens Olympics fireworks" cap="Athens could be made a permanent place for Olympics" >}}
 
 To further raise tourism revenue and make it regular, the EU could make Greece a permanent Olypmics or sporting competition site for Europe so that the spending for the 2004 Olympics would not go to waste. This would make sense since Greece was the original birthplace of both ancient (Olympia) and modern olympics (Athens, 1859). 
 
-This system can be scaled to other countries so that the monopoly of finance can be broken and economic crises can be avoided. This proposal from Adam Smith was refined by EF Schumacher, not only as an economic solution, but also as a deterrent to war.  
+This system can be scaled to other countries so that the monopoly of finance can be broken and economic crises can be avoided. This proposal from Adam Smith was refined by EF Schumacher, not only as an economic solution, but also as a deterrent to war.
+
 
 <!-- This will generate a regular revenue stream which can be used to help pay off the debt.
  -->

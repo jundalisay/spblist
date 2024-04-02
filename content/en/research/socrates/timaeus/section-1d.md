@@ -151,9 +151,13 @@ The fourth from the triangle which has equal sides, 3 can be resolved into one a
 
 How are they constructed?
 
-From the triangle of which the hypotenuse is twice the lesser side the three first regular solids are formed—first, the equilateral pyramid or tetrahedron; 
+From the triangle of which the hypotenuse is twice the lesser side the three first regular solids are formed:
 
-secondly, the octahedron; thirdly, the icosahedron; 
+first, the equilateral pyramid or tetrahedron; 
+
+secondly, the octahedron; 
+
+thirdly, the icosahedron; 
 
 From the isosceles triangle is formed the cube.
 

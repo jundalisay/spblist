@@ -1,9 +1,9 @@
 ---
-title: Punishments
+title: Did the Gospel confine that liberty within closer bounds?
 heading: Chapter 20b
 weight: 44
 image: /covers/warpeace.jpg
-description: ""
+description: "The Gospel therefore, comprehending all men under the appellation of neighbour, not only forbids us to hurt our enemies, but commands us to do them good"
 author: "Hugo Grotius"
 ---
 
@@ -44,9 +44,15 @@ For these are the objects in view, either to prevent the individual, who has inj
 
 But as it requires a painful degree of patience to examine into facts, and no inconsiderable share of skill and equity to affix the extent of punishments; 
 
-in order to prevent quarrels from arising through the presuming conceit, which every man entertains of his own wisdom, and to which others are averse to yield; in all well regulated communities, it has been usual to select for the tribunals of justice those, who were deemed worthy of such honour, or likely to become so, from their integrity and wisdom. Democritus has said, there would have been no occasion for laws to prevent every man from living according to his own humour, if one had not done injury to another. For envy was the origin of strife. But as we have just observed, that it happens, in the case of revenge, so in this kind of punishment, inflicted for the sake of example, there are traces and remains of ancient law, in those places, and among those persons, that are subject to no230 CIVIL jurisdiction; and in certain other cases besides. Thus any Hebrew, according to the customs of that people, if he should turn away from God, or from the law of God, or should seduce others to false worship, might immediately be put to death by any one whatsoever.
+in order to prevent quarrels from arising through the presuming conceit, which every man entertains of his own wisdom, and to which others are averse to yield; in all well regulated communities, it has been usual to select for the tribunals of justice those, who were deemed worthy of such honour, or likely to become so, from their integrity and wisdom. Democritus has said, there would have been no occasion for laws to prevent every man from living according to his own humour, if one had not done injury to another. 
 
-The Hebrews call that an act of ZEAL, which was first done by Phinehas, and which afterwards became a custom. Thus Mattathias slew a Jew, who was polluting himself with Grecian rites. In the same manner, in the book commonly called the third book of Maccabees, it is related that three hundred other Jews were put to death by their own countrymen. Nor could any other pretext be assigned for stoning Stephen, and conspiring against Paul. Philo, and Josephus abound in instances of this kind. There are many countries where we may trace the remains of primitive law, in the plenary power allowed to masters over their slaves, and to parents over their children, extending even to inflict the punishment of death. So the Ephori of Sparta might put a citizen to death without the formality of trial. From what has been said, it is easy to infer what punishment the law of nature authorises, and how far it has remained in force.
+For envy was the origin of strife. But as we have just observed, that it happens, in the case of revenge, so in this kind of punishment, inflicted for the sake of example, there are traces and remains of ancient law, in those places, and among those persons, that are subject to no230 CIVIL jurisdiction; and in certain other cases besides. Thus any Hebrew, according to the customs of that people, if he should turn away from God, or from the law of God, or should seduce others to false worship, might immediately be put to death by any one whatsoever.
+
+The Hebrews call that an act of ZEAL, which was first done by Phinehas, and which afterwards became a custom. Thus Mattathias slew a Jew, who was polluting himself with Grecian rites. In the same manner, in the book commonly called the third book of Maccabees, it is related that three hundred other Jews were put to death by their own countrymen. Nor could any other pretext be assigned for stoning Stephen, and conspiring against Paul. 
+
+Philo, and Josephus abound in instances of this kind. There are many countries where we may trace the remains of primitive law, in the plenary power allowed to masters over their slaves, and to parents over their children, extending even to inflict the punishment of death. 
+
+So the Ephori of Sparta might put a citizen to death without the formality of trial. From what has been said, it is easy to infer what punishment the law of nature authorises, and how far it has remained in force.
 
 
 ## Part 10: Did the law of the Gospel confine that liberty within closer bounds?

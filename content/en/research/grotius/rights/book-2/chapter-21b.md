@@ -1,9 +1,9 @@
 ---
-title: The Communication of Punishment
+title: Should punishment be extended to those who are no way concerned in the crime?
 heading: Chapter 21
 weight: 52
 image: /covers/warpeace.jpg
-description: ""
+description: "Hugo suggests we should use some precautions in deciding this."
 author: "Hugo Grotius"
 ---
 

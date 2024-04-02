@@ -1,6 +1,6 @@
 ---
 title: Prices are Demand Driven
-heading: Chapter 12
+heading: Chapter 12c
 weight: 26
 image: /covers/warpeace.jpg
 description: ""
