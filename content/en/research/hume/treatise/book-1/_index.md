@@ -4,7 +4,9 @@ heading: Part 4
 description: "Research on David Hume"
 image: /covers/treatise.png
 weight: 4
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

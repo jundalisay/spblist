@@ -8,7 +8,7 @@ image: /covers/chronic.jpg
 ---
 
 
-It takes 3-5 days after vaccination before the vaccinated spot becomes inflamed? 
+It takes 3-5 days after vaccination before the vaccinated spot becomes inflamed.
 
 Does not the sort of fever developed - the sign of the completion of the disease - appear even later, when the protecting pock has been fully formed; i. e., on the seventh or eighth day?
 
@@ -16,15 +16,22 @@ Does it not take 10-12 days after infection with smallpox, before the inflammato
 
 What has nature been doing with the infection received in these ten or twelve days? Was it not necessary to first embody the disease in the whole organism before nature was enabled to kindle the fever, and to bring out the eruption on the skin?
 
+
 Measles also require 10-12 days after infection or inoculation before this eruption with its fever appears. 
 
-After infection with scarlet fever seven days usually pass before the scarlet fever, with the redness of the skin, breaks out.
+After infection with scarlet fever, 7 days usually pass before the scarlet fever, with the redness of the skin, breaks out.
 
-What then did nature do with the received miasma during the intervening days? What else but to incorporate the whole disease of measles or scarlet fever in the entire living organism before she had completed the work, so as to be enabled to produce the measles and the scarlet fever with their eruption.
+What then did nature do with the received miasma during the intervening days? 
 
-* We are indebted especially to the careful English and American physicians for these comforting experiences - to Hunter and Houlston (in London Med. Journal, Vol. I.), and to Vaughan, Shadwell and Percivai,, whose observations are recorded in Jam. Mease's "On the Hydrophobia, Philadelphia, 1793."
+Nature incorporated the whole disease of measles or scarlet fever in the entire organism so as to produce the measles and the scarlet fever with their eruption.
 
-+ An eight-year-old girl, in Glasgow, was bitten by a mad dog on the 21st of March, 1792. A surgeon immediately exsected the wound altogether, kept it suppurating and gave Mercury until it produced a mild salivation, which was kept up for two weeks; nevertheless hydrophobia broke out on the 27th of April and the patient died on the 29th of April. M. Duncan's Med. Comment, Dec. II., Vol. VII., Edinb., 1793, and The New London Med. Journ., II.
+<!-- * We are indebted especially to the careful English and American physicians for these comforting experiences - to Hunter and Houlston (in London Med. Journal, Vol. I.), and to Vaughan, Shadwell and Percivai,, whose observations are recorded in Jam. Mease's "On the Hydrophobia, Philadelphia, 1793." -->
+
++ An 8-year-old girl, in Glasgow, was bitten by a mad dog on March 21, 1792. 
+
+A surgeon immediately exsected the wound, kept it suppurating and gave Mercury until it produced a mild salivation, which was kept up for 2 weeks. Nevertheless, hydrophobia broke out on April 27. The patient died on April 29. 
+
+<!-- M. Duncan's Med. Comment, Dec. II., Vol. VII., Edinb., 1793, and The New London Med. Journ., II. -->
 
 From the progress of all these miasmatic diseases we may plainly see that, after the contagion from without, the malady connected with it in the interiors of the whole man must first be developed; i. e., the whole interior man must first have become thoroughly sick of small-pox, measles or scarlet fever, before these various eruptions can appear on the skin.
 

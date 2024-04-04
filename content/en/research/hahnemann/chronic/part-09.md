@@ -1,28 +1,36 @@
 ---
-heading: Part 9a
-title: "The Nature of Chronic Diseases"
-description: ""
+heading: Part 9
+title: "Cases of Itch"
+description: "A 3-year-old girl had the itch, for several weeks. When this was driven out by an ointment"
 author: Samuel Hahnemann
 weight: 24
 image: /covers/chronic.jpg
 ---
 
 
-A 3-year-old girl had the itch, for several weeks; when this was driven out by an ointment she was seized the next day by a suffocating catarrh with snoring, and with numbness and coldness of the whole body, from which she did not recover until the itch reappeared.
+A 3-year-old girl had the itch, for several weeks. When this was driven out by an ointment, she was seized the next day:
+- by a suffocating catarrh with snoring
+- with numbness and coldness of the whole body, from which she did not recover until the itch reappeared.
 
-9 A girl of twelve years had the itch with which she had frequently suffered, driven away from the skin by an ointment, when she was seized with an acute fever with suffocative catarrh, asthma and swelling, and afterward with pleurisy. Six days afterward, having taken an internal medicine containing sulphur, the itch again appeared and all the ailments, excepting the swelling, disappeared; but after twenty-four days the itch again dried up, which was followed by a new inflammation in the chest with pleurisy and vomiting.
+9 A 12-year old girl had the itch with which she had frequently suffered. It was driven away from the skin by an ointment. She was then seized with an acute fever with suffocative catarrh, asthma and swelling, and afterward with pleurisy. 
+
+Six days later, having taken an internal medicine containing sulphur, the itch again appeared and all the ailments, excepting the swelling, disappeared. 
+
+But after 24 days, the itch again dried up. It was followed by a new inflammation in the chest with pleurisy and vomiting.
 
 10 The dyspnoea of a youth, 20 years, caused by the driving away of itch was so great that he could not get any breath, and his pulse was hardly perceptible, in consequence of which he suffocated.
 
+
 11 A moist herpes on the left upper arm of a youth of 19 years was finally locally removed by many external applications. But soon after, there ensued a periodical asthma which was suddenly increased by a lengthy foot-tour in the heat of summer, even to suffocation, with a puffed up bluish-red face and quick, weak, uneven pulse.
+
 
 12 The dyspnoea from the driven out itch came on very suddenly, and the patient was suffocated.
 
-Asthma with General Swelling. Waldschmid, ibid. Hoech-stetter, Obs. Dec. III., obs. 7 Frft. et Lips, 1674, p. 248. Pelargus, Obs. Clin. Jahrg., 1723, p. 504.13 Riedlin, the father, Obs. Cent. II., obs. 91.14
+<!-- Asthma with General Swelling. Waldschmid, ibid. Hoech-stetter, Obs. Dec. III., obs. 7 Frft. et Lips, 1674, p. 248. Pelargus, Obs. Clin. Jahrg., 1723, p. 504.13 Riedlin, the father, Obs. Cent. II., obs. 91.14
 
 Asthma with Dropsy of the Chest. Storch in Act. Nat. Cur. Tom. V., obs. 147. Morgagni, de sed. et causis morb. XVI., Art. 34.15 Richard, Recueil d' observ. de Med. Tom. III., p. 308, a Paris, 1772. Hagendorn, as above, Cent. II., hist. 15.16
 
-Pleurisy and Inflammation in the Chest, Pelargus, as above, p. 10.17 Hagendorn, as above, Cent. III., hist. 58. Giseke,
+Pleurisy and Inflammation in the Chest, Pelargus, as above, p. 10.17 Hagendorn, as above, Cent. III., hist. 58. Giseke, -->
 
 13 A. 5-year-old girl had had for some time large itch vesicles on the hands, which dried up of themselves. Shortly after, she became sleepy and tired and was seized with dyspnoea. The following day the asthma continued and her abdomen became distended.
 
@@ -50,11 +58,11 @@ Hemoptysis and Consumption. Chn. Max. Spener, Diss. de egro febri maligni phthis
 
 20 A youth who removed his itch with a lead ointment, died four days afterward of a disease of the chest.
 
-21A general dropsy was quickly cured by a return of the itch, but when this was suppressed by a severe cold, pleurisy supervened and death ensued in three days.
+21 A general dropsy was quickly cured by a return of the itch, but when this was suppressed by a severe cold, pleurisy supervened and death ensued in three days.
 
-22A young peasant was attacked with acute fever, with pleurisy and dyspnoea, six days after driving out an eruption of itch with sulphur ointment.
+22 A young peasant was attacked with acute fever, with pleurisy and dyspnoea, six days after driving out an eruption of itch with sulphur ointment.
 
-23A school boy of 13 years was seized with cough and stitches in the chest when his itch dried up. These ailments disappeared when the itch broke out again.
+23 A school boy of 13 years was seized with cough and stitches in the chest when his itch dried up. These ailments disappeared when the itch broke out again.
 
 23*A man of 36 years had the itch removed sixteen months ago by an ointment of lead and mercury; he suffered since from a whooping cough accompanied by great anguish.
 

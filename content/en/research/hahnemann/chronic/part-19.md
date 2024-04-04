@@ -1,6 +1,6 @@
 ---
 heading: Part 19a
-title: "The Nature of Chronic Diseases"
+title: "The miasma of itch"
 description: ""
 author: Samuel Hahnemann
 weight: 44

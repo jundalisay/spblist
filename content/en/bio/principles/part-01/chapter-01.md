@@ -30,7 +30,7 @@ The Metaphysical Track is made up of metaphysical life that we commonly call as 
 We only discuss the Elementals that have physical effects and not for any impractical speculation. We then use these effects to solve problems in the Physical Domain. 
 
 
-## What are Elementals?
+## What are Elementals and What are They Used for?
 
 [Paracelsus](/research/paracelsus/nymphys/tractatus-1) calls Elementals as spirit-beings that have human-like properties. 
 
@@ -45,6 +45,17 @@ Elementals are useful in gauging the health of Nature. The destruction of natura
 It is these Negative Elementals that implant evil desires and ideas into physical life, in humans, animals, etc. This then manifests as the degeneration of society through wars, crime, immorality, etc. 
 
 Therefore, the knowlege of Elementals is essential in creating a better world both ecologically and morally.  
+
+The science of Elementals falls under Bio Superphysics which focuses on life as an active expression of the ideas of the Supreme. 
+
+Generally, their study will add diversity to human life just as:
+- the study of art leads to artists and galleries
+- the study of sports leads to athletes and spectator sports
+- the study of cooking leads to chefs and restaurants
+- the study of religion leads to priests and monks in churches and temples 
+
+All of these contribute to human and economic activity. In fact, the practice of using elementals was prevalent enough during the Roman times that their lawmakers had to set laws against what were regarded as supernatural acts. 
+
 
 
 ## The 5 Elements

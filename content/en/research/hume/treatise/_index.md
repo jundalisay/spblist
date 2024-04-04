@@ -2,7 +2,9 @@
 description: "Treatise of Human Nature Simplified"
 title: "Treatise of Human Nature"
 image: "/covers/treatise.png"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 weight: 8
 ---
 

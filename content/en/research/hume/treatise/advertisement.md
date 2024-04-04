@@ -3,7 +3,9 @@ title: "Advertisement"
 weight: 1
 description: "Advertisement Treatise of Human Nature"
 image: "/covers/treatise.png"
-contributors: ['Hume']
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
 

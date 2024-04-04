@@ -1,7 +1,7 @@
 ---
-heading: Part 11a
-title: "The Nature of Chronic Diseases"
-description: ""
+heading: Part 11
+title: "Cases of Itch"
+description: "A girl had a violent eruption of itch on the legs, with large ulcers in the bend of the knee. Being attacked with smallpox the itch was suppressed."
 author: Samuel Hahnemann
 weight: 28
 image: /covers/chronic.jpg
@@ -20,7 +20,7 @@ This induced a humid inflammation of the white of the eye and of the eyelids, wi
 
 43 Amaurosis from the same cause, with terrible headache.
 
-Deafness. Thore in Capelle, Journal de Santc, Tom. I. Daniel, Syst. aegritud. II., p. 228. Ludwig, as above.
+<!-- Deafness. Thore in Capelle, Journal de Santc, Tom. I. Daniel, Syst. aegritud. II., p. 228. Ludwig, as above.
 
 Inflammation of the Bowels, Hundertmark, Diss. de scabie artificiali, Lips. 1758, p. 29.
 
@@ -34,7 +34,7 @@ Suppression of Urine, Sennert, Prax. lib. 3, p. 8. Mor-gagni, as above, XLI., ar
 
 Erysipelas, Unzer Arts Th. V., St. 301.48
 
-Discharges of acrid humors. Fr. Hoffman, Consult. Tom. II., Cas. 125.
+Discharges of acrid humors. Fr. Hoffman, Consult. Tom. II., Cas. 125. -->
 
 44 Bleeding piles returned every month.
 
@@ -46,7 +46,7 @@ Discharges of acrid humors. Fr. Hoffman, Consult. Tom. II., Cas. 125.
 
 48A man rubbed himself with mercurial ointment against the itch, when there followed an erysipelatous inflammation in the neck, of which he died after five weeks.
 
-Ulcers, Unzer Arzt. Th. V., St. 301.49 Pelargus, as above, Jahrg., 1723, p. 673.50 Breslauer Samm., 1727, p. 107.51 Muzell, Wahrnehm, II., Cas. 6.52 Riedlin, the son, Cent. obs. 38.53 Alberti-Gorn, Diss. de scabi., p. 24. Halle, 1718.
+<!-- Ulcers, Unzer Arzt. Th. V., St. 301.49 Pelargus, as above, Jahrg., 1723, p. 673.50 Breslauer Samm., 1727, p. 107.51 Muzell, Wahrnehm, II., Cas. 6.52 Riedlin, the son, Cent. obs. 38.53 Alberti-Gorn, Diss. de scabi., p. 24. Halle, 1718.
 
 Caries, Richard, as above.
 
@@ -56,7 +56,7 @@ Pain in the Bones, Hamburger Magaz., XVIII., p. 3, 253.
 
 Rachitis and Marasmus in Children, Fr. Hoffman. Kinder-krankh. Leipz. 1741, p. 132.
 
-Fever, B.V. Faventinus, Medicina empir., p. 260. Ramaz-zini, Constit. epid. urbis. II. No. 32, 1691.54 J. C. Carl in Act. Nat. Cur. VI., obs. 16.55
+Fever, B.V. Faventinus, Medicina empir., p. 260. Ramaz-zini, Constit. epid. urbis. II. No. 32, 1691.54 J. C. Carl in Act. Nat. Cur. VI., obs. 16.55 -->
 
 49 A woman, after using a mercurial ointment against itch, had a putrescent eruption all over her body, so that whole pieces of flesh rotted away; she died in a few days with the greatest pains.
 

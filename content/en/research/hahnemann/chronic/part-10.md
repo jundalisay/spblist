@@ -1,7 +1,7 @@
 ---
-heading: Part 10a
-title: "The Nature of Chronic Diseases"
-description: ""
+heading: Part 10
+title: "Cases of Itch"
+description: "An eruption of itch in a youth of 18 years driven out by a mercurial plaster"
 author: Samuel Hahnemann
 weight: 26
 image: /covers/chronic.jpg
@@ -18,9 +18,9 @@ image: /covers/chronic.jpg
 
 29 A young man who had been warned by (the good physician and) Prof. Krause against the use of sulphur ointment for the reappearing itch, did not follow his advice, but rubbed himself with it, when he died of constipation. In his body, at the autopsy, were found sacs of pus in his abdominal viscera.
 
-30Also the diaphragm and the liver were diseased.
+30 Also the diaphragm and the liver were diseased.
 
-Degeneration of the Brain. Dimenbrock, Obs. et Curat. med., obs. 60. Bonet, Sepulchretum anat., Sect. IV., obs. 1, § l31 and § 2.32 J. H. Schulze, as above.
+<!-- Degeneration of the Brain. Dimenbrock, Obs. et Curat. med., obs. 60. Bonet, Sepulchretum anat., Sect. IV., obs. 1, § l31 and § 2.32 J. H. Schulze, as above.
 
 Hydrocephalus, Acta helvet., V., p. 190.
 
@@ -30,15 +30,17 @@ Sphacelus of the Stomach and Duodenum. Hundertmark, as above, p. 29.34
 
 General Dropsical Swelling.35
 
-Dropsy of the Chest. Hessler in Karl Wenzel, as above, p. 100 and 102.
+Dropsy of the Chest. Hessler in Karl Wenzel, as above, p. 100 and 102. -->
 
-31A little prince of two years had his tinea capitis driven away; in consequence, after his death, much bloody water was found under his skull.
+31 A little prince of two years had his tinea capitis driven away; in consequence, after his death, much bloody water was found under his skull.
 
 32 In a woman who had driven out the tinea by a lotion, one-half of the brain was found putrefied and filled with yellow humor.
 
-33A man of rank, of a cholerico-sanguine temperament, was afflicted with gouty pains of the abdomen and pains as from gravel. After the removal of the gout through various remedies the itch broke out, which he drove out through a desiccating bath of tan-bark; an ulcer formed on his stomach, which, as the autopsy showed, hastened his death.
+33 A man of rank, of a cholerico-sanguine temperament, was afflicted with gouty pains of the abdomen and pains as from gravel. After the removal of the gout through various remedies the itch broke out, which he drove out through a desiccating bath of tan-bark; an ulcer formed on his stomach, which, as the autopsy showed, hastened his death.
 
-34A boy of 7 weeks and a youth of 18 years died very suddenly from an itch driven out through a sulphur ointment. At the autopsy, in the case of the infant, the upper part of the stomach immediately below the orifice was found destroyed by gangrene, and in the second case that part of the duodenum into which the biliary duct and the pancreatic duct empty was found similarly diseased. A similar fatal inflammation of the stomach from driven-out itch, in Morgagni, as above, LV., art. II.
+34 A boy of 7 weeks and a youth of 18 years died very suddenly from an itch driven out through a sulphur ointment. At the autopsy, in the case of the infant, the upper part of the stomach immediately below the orifice was found destroyed by gangrene, and in the second case that part of the duodenum into which the biliary duct and the pancreatic duct empty was found similarly diseased.
+
+A similar fatal inflammation of the stomach from driven-out itch, in Morgagni, as above, LV., art. II.
 
 35 Of this, innumerable cases are found in a number of writers, of which I only desire to mention the one reported in J. D. Fick, Exercitalio med. de scabie retropulsa, Halle, 1710, § 6, where an eruption of itch, driven out by application of mercury, left behind it general dropsy, which was only mitigated by the re-appearance of the eruption.
 
@@ -46,7 +48,7 @@ The author of the book Epidemion lib. 5, No. 4, who gives his name as Hippocrate
 
 Dropsy of the Abdomen, Richard, as above, and with several other observers.
 
-Swelling of the Scrotum (in boys). Fr. Hoffman, Med. rat. syst., III., p. 175.
+<!-- Swelling of the Scrotum (in boys). Fr. Hoffman, Med. rat. syst., III., p. 175.
 
 Red Swelling of the Whole Body. Lentilius, Misc. med. pract., Part I., p. 176.
 
@@ -56,13 +58,15 @@ Swelling of the Parotid Glands. Barette, in the Journal de Med., XVIII., p. 169.
 
 Swelling of the Cervical Glands, Pelargus, as above, Jahrg., 1723, p. 593.36 Unzer, Arzt., Part VI., St., 301.37
 
-Obscuration of the Eyes and Presbyopia, Fr. Hoffman, Consult. med., 1 Cas. 50.38.
+Obscuration of the Eyes and Presbyopia, Fr. Hoffman, Consult. med., 1 Cas. 50.38. -->
 
-36A boy of 8 or 9 years, who had been shortly before healed of tinea, showed many swellings of the glands of the neck, by which his neck was drawn crooked and stiff.
+36 A boy of 8 or 9 years, who had been shortly before healed of tinea, showed many swellings of the glands of the neck, by which his neck was drawn crooked and stiff.
 
-37 A youth of 14 years had the itch in June, 1761. He rubbed with a gray ointment and the itch passed away. Upon this the glands behind both of his ears swelled up; the swelling on the left ear passed away of itself, but the right one in five months became monstrously enlarged and about August began to pain him. All the glands of the neck were swollen. On the outside the large gland was full of hard knots and without sensitiveness, but internally there was an obtuse pain, especially at night; at the same time he suffered from dyspnoea and obstructed deglutition. All means used to produce suppuration were in vain; it became so large that the patient was suffocated in the year 1762.
+37 A youth of 14 years had the itch in June, 1761. 
 
-38A girl of 13 years was seized with the itch, especially on the limbs, in the face and on the pudenda; this was finally driven away by ointments of zinc and sulphur, whereupon she gradually became weak of sight. Little dark bodies floated before her eyes, and these could also be seen from without floating in the aqueous humor of the anterior chamber of the eye. At the same time she could not recognize small bodies except with spectacles. The pupils were dilated.
+He rubbed with a gray ointment and the itch passed away. Upon this the glands behind both of his ears swelled up; the swelling on the left ear passed away of itself, but the right one in 5 months became monstrously enlarged and about August began to pain him. All the glands of the neck were swollen. On the outside the large gland was full of hard knots and without sensitiveness, but internally there was an obtuse pain, especially at night; at the same time he suffered from dyspnoea and obstructed deglutition. All means used to produce suppuration were in vain; it became so large that the patient was suffocated in the year 1762.
+
+38 A girl of 13 years was seized with the itch, especially on the limbs, in the face and on the pudenda; this was finally driven away by ointments of zinc and sulphur, whereupon she gradually became weak of sight. Little dark bodies floated before her eyes, and these could also be seen from without floating in the aqueous humor of the anterior chamber of the eye. At the same time she could not recognize small bodies except with spectacles. The pupils were dilated.
 
 <!-- Inflammation of the Eyes, G. W. Wedel. Snetter, Diss. de Ophthalmia, Jen., 1710. Hallmann, in Koenigl. Vetenskaps Handl. f. A. X., p. 210.39 G. Chph. Schiller, de scabie humida, p. 42, Erford., 1747.
 

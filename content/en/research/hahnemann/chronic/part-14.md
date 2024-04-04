@@ -1,16 +1,20 @@
 ---
 heading: Part 14a
-title: "The Nature of Chronic Diseases"
-description: ""
+title: "Cases of Itch"
+description: "A 7 month old baby boy was seized with epilepsy. The parents were unwilling to acknowledge that he had had the itch"
 author: Samuel Hahnemann
 weight: 34
 image: /covers/chronic.jpg
 ---
 
 
-86A boy of 7 months was seized with epilepsy, while the parents were unwilling to acknowledge that he had had the itch. But when the physician enquired more particularly the mother confessed that the little boy had some vesicles of itch on the sole of the foot, which had soon yielded to lead ointment; the child, as she said, had no other sign of the itch. The physician correctly recognized in this the only cause of the epilepsy.
+A 7 month old baby boy was seized with epilepsy. The parents were unwilling to acknowledge that he had had the itch. 
 
-87Two children were freed from epilepsy by the breaking out of humid tinea, but the epilepsy returned when the tinea was incautiously driven off.
+But when the physician enquired more particularly the mother confessed that the little boy had some vesicles of itch on the sole of the foot, which had soon yielded to lead ointment.
+
+The child, as she said, had no other sign of the itch. The physician correctly recognized in this the only cause of the epilepsy.
+
+Two children were freed from epilepsy by the breaking out of humid tinea, but the epilepsy returned when the tinea was incautiously driven off.
 
 88Five-year-old itch passed away, and this, after several years, produced epilepsy.
 
@@ -42,7 +46,7 @@ In the same place the author mentions also a woman whose fingers contracted from
 
 94 He found an idiotic melancholy arise in consequence of suppressed itch; when the itch broke out again the melancholy disappeared.
 
-95A student, 20 years old, had the humid itch, which so covered his hands that he became incapable of attending to his work. It was driven off by sulphur ointment. But shortly after it appeared how much his health had suffered from it. He became insane.
+95 A student, 20 years old, had the humid itch, which so covered his hands that he became incapable of attending to his work. It was driven off by sulphur ointment. But shortly after it appeared how much his health had suffered from it. He became insane.
 
 Aufsatze, Th. 1, p. 130.96 Altenburg, 1791. Richter in Hufel. Journal, XV., II. Grossmann in Baldinger's neuem Magaz., XI, I.97
 
