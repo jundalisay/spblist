@@ -29,6 +29,7 @@ How then can these things agree amongst themselves?
 
 Now if there were seven fingers on each hand, it then might bee granted, that every finger might bee ascribed to severall planets.
 
+
 ## Are the fingers be assigned to the Planets?
 
 But yet it falls out many times, that some men may have but seven fingers on both hands, the rest being casually cut off: but seing that they were cut off, and[Pg 119] just seven were not at their birth, this matter cannot be related hither.
