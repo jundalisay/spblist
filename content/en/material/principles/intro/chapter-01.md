@@ -15,7 +15,8 @@ icon: /icons/pantry.png
 
 Axioms | Propositions
 --- | ---
-There are 5 Layers in Reality | 
+There are 5 Layers in Reality | Each Layer has a sound
+
 
 
 The universe is a reality that is made up of 5 Layers that are completely integrated with each other. 
@@ -83,9 +84,9 @@ The knowledge of metaphysics can be revealed by knowing the nature of the aether
 - Matter acts as particles
   - This is good for quantifying and therefore math and engineering
 
-The operations of the mind for math and for philosophy are very different. A good philosopher often is bad at math, just as an excellent mathematician is awful at philosophy.
+The operations of the mind for math and for philosophy are very different. A good philosopher often is bad at math, just as an excellent mathematician is awful at philosophy. In fact, it is common to hear about mathematicians theorizing about paradoxes involving infinitity. This is merely a waste of time and mental energy. 
 
-Superphysicists (SPs) are generally philosophers first, who use data science and computers to augment any deficiency in mathematics or memorization. Rather than memorize formulas, SPs should understand how the formulas work, so they can recreate or derive formulas on-the-fly.  
+Superphysicists (SPs) are generally philosophers first, who use data science and computers to augment any deficiency in mathematics or memorization. Rather than memorize formulas, SPs should understand how the formulas work, so they can recreate or derive formulas on-the-fly. Such a pardigm is embodied in our 'Qualimath'. 
 
 
 ## The Evolution of Physics from the Focus on Matter
@@ -141,7 +142,7 @@ Probability | Metaphysical | Pseudo-science | Yang Yin | Soul | Octave
 Aethereal | Aether, Akasha, 水 (still water) | Pseudo-science | Creative force | Thought (effective qoa or idea) | Ti (You) 
 Spatial | Air, Vayu, 木 (moving wood) | Gravity | Gravity-Levity | Schwarzchild Radius (qost or graviton) |  La (Milky way)
 Radiant | Fire, Tejas, 火 (expanding fire) | Electromagnetism | Male-Female force | Photon (qol) | Sol (Sun)
-Convertible | Water, Jala, 土 (changing earth) | Weak | Conversion force | W Z Bosons (qor) | Re (Things)
+Convertible | Water, Jala, 土 (changing earth) | Weak | Conversion force | W Z Bosons (qor) | Fa (Planets)
 Material | Earth, Pritvi, 金 (solid metal) | Strong | Nuclear force | Gluons (effective qom) | Do (Earth)
 
 <!-- Rank | Name | Greek-Hindu | Chinese | Physics Force | Superphysics Force | Force Carrier | Resulting particles in Superphysics | Pythagorean Note
@@ -194,26 +195,22 @@ Western medicine is very good at material health problems that can be cured by p
 
 ### The Octave vs the Pentatonic Scale
 
-Each of these layers has a sound which represents the wave of that layer. This manifests as the five notes of the Chinese as `Do Mi Sol Ti`
-
-C–D–E–G–A
-
-
-and the 'diapente' of Pythagoras, as `Do Re Mi Sol La`.
-- Sol is the Greek Sol for the sun
-- La is Greek for 'milk' which became the name of the Milky Way galaxy, as their universe
+Each of these layers has a sound which represents the wave of that layer. 
 
 {{< img src="/graphics/physics/doremi.jpg" alt="Universal sounds" >}}
 
-This gives us ratios:
+This gives us frequencies:
 
-Layer | Note | Ratio
+Layer | Note | Frequency
 --- | --- | ---
-Aethereal | Ti | 
-Spatial | La |
-Radiant | Sol |
-Convertible | Mi |
-Material | Do |
+Aethereal | Ti | ?
+Spatial | La | ? 
+Radiant | Sol | ?
+Convertible | Fa | ?
+Material | Do | 130.81
+
+
+The questions marks above will test whether the following notes to impact the corresponding layer. We only could do tests on material objects and so we can set 130 Hz as the base for the rest. 
 
 
 The totality of the universe, combining the physical and metaphysical, have 8 tones as the octave of the Greeks and the Bagua of the Chinese.

@@ -77,7 +77,7 @@ Layer | Superphysics Substance | Common Name
 --- | --- | --- 
 Aethereal | soa (Substance of Aether) | Mind, Feeling, Idea
 Spatial | sost (Substance of Spacetime) | Time, Black Hole, Space
-Radiant | sor (Substance of Radiance) | Electron
+Radiant | sor (Substance of Radiance) | Electron-fluid (electricity)
 Convertible | sot (Substance of Conversion) | Neutron
 Material | som (Substance of Matter) | Proton
 

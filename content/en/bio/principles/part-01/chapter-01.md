@@ -32,31 +32,36 @@ We only discuss the Elementals that have physical effects and not for any imprac
 
 ## What are Elementals?
 
-Paracelsus calls Elementals as spirit-beings that have human-like properties. 
+[Paracelsus](/research/paracelsus/nymphys/tractatus-1) calls Elementals as spirit-beings that have human-like properties. 
 
 We think that such properties arise from them having chakras, similar to how humans and animals have chakras.  
 
 We define Elementals as metaphysical beings that can cross over to physical reality as to produce physical effects. This makes them different from pure metaphysical beings that cannot create such effects, usually because they are so subtle and so far away from physicality. Such entities, we call as spirits. 
 
-Elementals are useful in gauging the health of Nature. The destruction of natural environments cause the Positive Elementals to die out, allowing the negative ones to flourish. It is these Negative Elementals that implant evil desires and ideas into physical life, in humans, animals, etc. This then manifests as the degeneration of society through wars, crime, immorality, etc. 
+<!-- An example of a common spirit is the Holy Spirit in Christianity which serve merely to inspire and  -->
 
-Therefore, the knowlege of Elementals is essential in creating a better world.  
+Elementals are useful in gauging the health of Nature. The destruction of natural environments cause the Positive Elementals to die out, allowing the negative ones to flourish. 
+
+It is these Negative Elementals that implant evil desires and ideas into physical life, in humans, animals, etc. This then manifests as the degeneration of society through wars, crime, immorality, etc. 
+
+Therefore, the knowlege of Elementals is essential in creating a better world both ecologically and morally.  
 
 
 ## The 5 Elements
 
-We go with Paracelsus and classify the Elementals according to the Elements which we call Layers in Superphysics. 
+We go with Paracelsus and classify the Elementals according to the Elements which we call Layers in Superphysics. Like him, we are gutsy enough to analyze the Elemental realm in a systemic manner and compare it with the systems of other cultures. But unlike him, we use all 5 Elements instead of 4.
+
 
 <!-- Bio-Superphysics applies the 5 Elements to the metaphysical domain in order to classify the Elementals.  -->
 
 Aside from Paracelsus, our other references for this are PR Sarkar, Hindu, Buddhist, and Taoist tradition as these are very common in India. 
 
-Indians do not call them “fairies” or “nymphs”. They have their own ancient names for the many varieties of these spirits - Devas, Maruts, Adityas, Rudras, Vasus, Asuras, Daityas, Danavas, Kalakeyas, Nivatakavachas, Panis, Ganas, Abhasvaras, Pramathas, Raumyas, Nagas, Uragas, Pannagas, Mahoragas, Apsaras, Gandharvas, Kinnaras, Vidyadharas, Charanas, Sadhyas, Kindevas, Yakshas, Guhyakas, Gramanis, Dakinis, Dakas, Rakshasas, Brahmarakshasas, Krodhavasas, Nairratas, Suparnas, Bhutas, Pretas, Pishachas, Vetalas, Darbas, Yatudhanis, Makaras, etc.
+Indians do not call them “fairies” or “nymphs”. They have their own ancient names for the many varieties of these spirits and/or elementals - Devas, Maruts, Adityas, Rudras, Vasus, Asuras, Daityas, Danavas, Kalakeyas, Nivatakavachas, Panis, Ganas, Abhasvaras, Pramathas, Raumyas, Nagas, Uragas, Pannagas, Mahoragas, Apsaras, Gandharvas, Kinnaras, Vidyadharas, Charanas, Sadhyas, Kindevas, Yakshas, Guhyakas, Gramanis, Dakinis, Dakas, Rakshasas, Brahmarakshasas, Krodhavasas, Nairratas, Suparnas, Bhutas, Pretas, Pishachas, Vetalas, Darbas, Yatudhanis, Makaras, etc.
 
 {{< img src="/photos/meta/fairy.jpg" alt="" cap="Faeries are 'devatas' in Hinduism." >}}
 
 
-We categorize these many Elementals into Five: 
+We categorize the beings in our Elemental Zoo into Five: 
 
 Layer | Indian Class Name | Paracelsus Name
 --- | --- | ---
@@ -76,7 +81,7 @@ Material | Prakrtilina | Gnomes
 7 siddha -->
 
 
-Like anything above the Phyiscal Radiant Layer, these can be triggered by sound of the Aethereal layer. 
+Like anything above the Physical Radiant Layer, these can be triggered by sound of the Aethereal layer. 
 
 
 ## Ways to Detect the 5 Elementals
@@ -98,7 +103,7 @@ An important part is to hold the proper mudra to let the aethereal energy circul
 
 
 
-Another, but far less effective, way is through psychedelics. These alter the brain in order to allow the perception of the other layers of reality. However, this also might cause physical damage, aside from building dependence, and so it is not recommended. 
+Another way, though far less effective or sustainable, is through the use of psychedelics. These alter the brain in order to allow the perception of the other layers of reality. However, this also might cause physical damage, aside from building dependence, and so it is not recommended. 
 
 
 

@@ -53,11 +53,11 @@ This gives us 5 Boundaries:
 
 Layer | Boundary | Description
 --- | --- | ---
-Aethereal | aib (Aethereal Internal Boundary) | Separates identities with potential energy
-Spatial | sib (Spatial Internal Boundary) | Separates identities with potential energy
-Radiant | rib (Radiant Internal Boundary) | Separates identities with potential energy
-Convertible | cib (Convertible Internal Boundary) | Separates identities that can be changed and not changed
-Material | mib (Material Internal Boundary) | Separates identities with potential energy
+Aethereal | aib (Aethereal Internal Boundary) | Separates identities that can be split up
+Spatial | sib (Spatial Internal Boundary) | Separates identities with can be further split up
+Radiant | rib (Radiant Internal Boundary) | Separates identities with potential energy (and can be split up)
+Convertible | cib (Convertible Internal Boundary) | Separates identities that can be changed (manifesting as splitting up)
+Material | mib (Material Internal Boundary) | Separates identities that can be split up by antimatter
 
 
 <!-- 
@@ -115,6 +115,9 @@ We rename this as the Aethereal, Spatial, Radiant, Tranformative, and Material L
 - In the Convertible layer, it manifests as stability 
 - In the Material layer, it manifests as identity -->
 
+
+## The Hierarchy of the Layers
+
 From the Medium-Sibstance-Quantum (MSQ) Table, we can deduce that everything in existence has varying degrees of:
 - identifiability (from the Material Layer)
 - stability (from the Convertible Layer)
@@ -128,9 +131,9 @@ The layers work in a hierarchy, with the aether being most superior and subtle, 
 
 For example, adding heat to a rock will not make it float. Shining light on a rock will reveal its identity, but not make it heavier or lighter. 
 
-This is also why are those who know the 5 Layers (or 5 Elements) are naturally non-democratic. This is because,  in order to maximize Nature's hierarchy, wild democracy has to be stamped out. This then leads to Golden Ages. 
+In Social Superphysics, this is why those who know the 5 Layers (or 5 Elements) tend to be non-democratic. This is because, in order to full utilize or maximize the benefits of Nature's hierarchy, wild democracy has to be stamped out. This increases the chances for 'Golden Ages' in a civilization. This is an example of  
 
-
+In Bio Superphysics, this hierarchy principle manifests as Homeopathy or Chinese medicine having less bad side effects than Western Medicine. 
 
 
 
@@ -185,11 +188,11 @@ Chapter | Topic | Probability | Aethereal | Spatial | Radiant | Convertible | Ma
 4a | Signature | | | | | | 
 4b | Territory | | | | | | 
 5a | 2 Forces or Vortex | | unite divide | clockwise anti | male female | react nonreact | matter anti
-5b | Relationality | | | | | |
-6a | Property Upper | | unconscious | dark energy | carrier | qoc1 detection | gas 
-6b | Property Mid | | subconscious | dark matter | wave (zeeman) | qoc2 detection  | liquid 
-6c | Property Lower | | conscious | gravity | particle | qoc3 detection  | solid
-7 | Technologies | | | | | | 
+5b | Relationality | | Attraction-Repulsion | 'General Relationality' | 'Special Relationality' | Feynman Diagrams | Contact Forces
+6a | Property Upper | Low Probability | unconscious | dark energy | carrier | qoc1 detection | gas 
+6b | Property Mid | Medium Probability | subconscious | dark matter | wave (zeeman) | qoc2 detection  | liquid 
+6c | Property Lower | High Probability | conscious | gravity | particle | qoc3 detection  | solid
+7 | Technologies | | Artificial Sentience, Sonic Fire Suppression | Levitation, Teleportation, Fusion, Fission Retardant, Non-Abrasive Precision Fabrication | Crystal Computers, Room Temperature Superconductors | Neutrino Disease Detectors | Stronger Materials  
 
 
 <!-- 4a | Duality or Symmetry (Vortex Direction) | | | | | | 

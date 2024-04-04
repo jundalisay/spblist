@@ -266,7 +266,7 @@ paginate = 12
       url = "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
       img= "/photos/med/homeo.jpg"
       title = "Bio-Superphysics: Homeopathy Against Tooth Decay"
-      sub = "We successfully used Homeopathy against Tooth Decay (2023)"
+      sub = "We successfully used Homeopathy against Tooth Decay (2023). Disclaimer: Unlike other alternative medicine, Homeopathy only works if you believe in it. Whether it works or not totally depends on you."
     [languages.en.params.tricon5.items.g]
       url = "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
       img= "/photos/med/preg.jpg"

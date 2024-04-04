@@ -2,8 +2,8 @@
 heading: Tractatus 4
 title: "How They are Born"
 description: "Some Elmenetals married men and bore them children. When they have been provoked in any way by their husbands while they are on water, they simply drop into the water, and nobody can find them any more"
-image: "/covers/nature.png"
-weight: 8
+image: "/covers/nymphs.jpg"
+weight: 18
 date: 2024-03-20
 writer:
   name: Paracelsus
@@ -25,11 +25,17 @@ It also happens that sirens are born. They are water women too, but live more on
 
 The water people reproduce themselves like humans, but when it happens that they produce a monster, these monsters are sirens that swim on the water, for they repudiate them and do not keep them. This is why they occur in many forms and figures, as it happens and is the case with all monsters. Thus we marvel not only at the water people but also at the sirens, who have many strange features and are very different from people. Some can sing, some can whistle with reeds, some can do this and that. 
 
-Monks are also born from nymphs, that is, a monster which is shaped just like a monk. This you must know, namely, that such growths that are comparable to men and are found in some places, come from men, that is, they come from water people, earth manikins and similar beings. In order to understand the matter correctly, remember that God effects strange things in his creations. It is the same as with a comet. Born from other stars, the comet is nothing but a super-growth, that is, a growth that has not a natural course, as a star should have, but has been directed by God on purpose into another course. This is why the comet has great significance. And so have the sea wonders and simi- lar things which thus come from water people. They too are such regular comets that God presents to man on purpose, not without meaning and significance. There is no need to write about it here, but this you must know, that great things come from such people, who should be great mirrors held before man's eyes. But love has cooled down in many, and thus they pay no attention to the signs, intent only on usury, self-interest, gambling, drinking, matters that are interpreted by these beings, as if they were saying: look at the monsters, thus you shall be after death; let yourself be warned, beware-but nothing is done about it.
+Monks are also born from nymphs, that is, a monster which is shaped just like a monk. This you must know, namely, that such growths that are comparable to men and are found in some places, come from men, that is, they come from water people, earth manikins and similar beings. 
+
+In order to understand the matter correctly, remember that God effects strange things in his creations. It is the same as with a comet. Born from other stars, the comet is nothing but a super-growth, that is, a growth that has not a natural course, as a star should have, but has been directed by God on purpose into another course. This is why the comet has great significance. And so have the sea wonders and simi- lar things which thus come from water people. 
+
+They too are such regular comets that God presents to man on purpose, not without meaning and significance. There is no need to write about it here, but this you must know, that great things come from such people, who should be great mirrors held before man's eyes. But love has cooled down in many, and thus they pay no attention to the signs, intent only on usury, self-interest, gambling, drinking, matters that are interpreted by these beings, as if they were saying: look at the monsters, thus you shall be after death; let yourself be warned, beware-but nothing is done about it.
 
 To continue the discussion of these beings, know that such people also convene and assemble in one place, where they may live together and seek intercourse with man, for they love him. The reason is that flesh and blood hold to flesh and blood. 
 
-There are more women than men in such groups, few men, many women; hence they are after men whenever they have a chance. From such people a group originated that is called the Venusberg. It consists of nothing else but a kind of nymphs, thrown together in a cave and hole of their world, yet not in their own chaos, in man's chaos, but in their regionibus. Know about them that they reach a very old age, but you cannot notice it, because their appearance remains the same from begin- ning to end, and they die unchanged. Venus was a nymph and undine who excelled others and reigned for a long time, but she call them devils, although they know little enough about the devil himself. This you must know, that God lets such miracles happen not to have us all marry nymphs and live with them, but once in a while, in order to demonstrate the strange doings of divine creatures and that we may see the work of his labor. If it were the devil's work it should be despised, but it is not, for this he is not able to do; God alone is. Our nymph was a water woman. 
+There are more women than men in such groups, few men, many women; hence they are after men whenever they have a chance. From such people a group originated that is called the Venusberg. It consists of nothing else but a kind of nymphs, thrown together in a cave and hole of their world, yet not in their own chaos, in man's chaos, but in their regionibus. Know about them that they reach a very old age, but you cannot notice it, because their appearance remains the same from begin- ning to end, and they die unchanged. 
+
+Venus was a nymph and undine who excelled others and reigned for a long time, but she call them devils, although they know little enough about the devil himself. This you must know, that God lets such miracles happen not to have us all marry nymphs and live with them, but once in a while, in order to demonstrate the strange doings of divine creatures and that we may see the work of his labor. If it were the devil's work it should be despised, but it is not, for this he is not able to do; God alone is. Our nymph was a water woman. 
 
 She promised herself to von Staufenberg and stayed also with him, until he married another wife, and took her for a devil. Taking her for a devil and considering her such, he married another woman and thus broke his promise to her. 
 
@@ -41,9 +47,12 @@ We must pay equally great attention to Melusine, for she was not what the theolo
 
 Otherwise, she was a nympha, with flesh and blood, fertile and well built to have children. She came from the nymphs to the humans on earth and lived there. But then, as superstitio seduces and vexes all beings, she went away from her people in her superstitious belief, to the places where the seduced people come who are bewitched in superstitionibus and spell-bound. Mind you, she remained the same serpent to the end of her life, and God knows how long it lasted. 
 
-Thus these beings are warnings to us, to make us understand what we are on earth, and in what strange ways the devil deals with us and is after us in every corner. Nothing is hidden to him, neither in the depth of the sea nor in the center of the earth, where he whiles. But wherever we are, there is also God who redeems those who are his, in all places. It is stupid, however, to consider such women ghosts and devils on the basis of such happenings and because they are not from Adam. It is holding God's works in low esteem to assume that they are rejected because they have supersti- tiones. Yet there are more superstitiones in the Roman Church than in all these women and witches. And so it may be a warn- ing that if superstitio turns a man into a serpent, it also turns him into a devil. 
+Thus these beings are warnings to us, to make us understand what we are on earth, and in what strange ways the devil deals with us and is after us in every corner. Nothing is hidden to him, neither in the depth of the sea nor in the center of the earth, where he whiles. 
+
+But wherever we are, there is also God who redeems those who are his, in all places. It is stupid, however, to consider such women ghosts and devils on the basis of such happenings and because they are not from Adam. 
+
+It is holding God's works in low esteem to assume that they are rejected because they have supersti- tiones. Yet there are more superstitiones in the Roman Church than in all these women and witches. And so it may be a warn- ing that if superstitio turns a man into a serpent, it also turns him into a devil. 
 
 That is, if it happens to nymphs, it also happens to you in the Roman Church. That is, you too will be transformed into such serpents, you who now are pretty and handsome, adorned with large diadems and jewels. In the end you will be a serpent and dragon, like Melusine and others of her kind.
+
 Therefore, consider such things carefully, and be not blind with seeing eyes and dumb with good tongues, particularly since you will not let yourselves be called dumb and blind.
-
-

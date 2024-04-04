@@ -6,6 +6,9 @@ weight: 80
 # date: 1939-08-02
 ---
 
+> Superphysics Note: This is a simplified version. The equations will be fixed in the future. We just want to know what Einstein is really trying to say. 
+
+
 September 27, 1905 
 
 
@@ -30,8 +33,7 @@ Let the direction of the ray (the wave-normal) make an angle `φ` with the axis 
 
 If we introduce a new system of coordinates (`ξ`, `η`, `ζ`) moving in uniform parallel translation with respect to the system (`x`, `y`, `z`), and having its origin of co-ordinates in motion along the axis of `x` with the velocity `v`, then this quantity of light—measured in the system (`ξ`, `η`, `ζ`) possesses the energy `l`
 
-
-
+...
 
 where `c` denotes the speed of light. 
 
@@ -46,9 +48,7 @@ Meanwhile the body remains at rest with respect to the system (`x`, `y`, `z`).
 
 <!-- The principle of ∗The principle of the constancy of the velocity of light is in Maxwell’s equations. -->
 
-Energy must apply to this process, and in fact (by the principle of relativity) with respect to both systems of co-ordinates. If we call the energy of the body
-after the emission of light E1 or H1 respectively, measured relatively to the system (x, y, z) or (ξ, η, ζ) respectively, then by employing the relation given
-above we obtain
+Energy must apply to this process, and in fact (by the principle of relativity) with respect to both systems of co-ordinates. If we call the energy of the body after the emission of light E1 or H1 respectively, measured relatively to the system (x, y, z) or (ξ, η, ζ) respectively, then by employing the relation given above we obtain
 
 ```
 E0 = E1 + 
