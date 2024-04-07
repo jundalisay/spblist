@@ -4,7 +4,9 @@ title: "Solar Wind and Black Holes"
 weight: 29
 image: "/photos/physics/quasar.jpg"
 description: "This stone is similar to the aetheral air that compose the heavens"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 

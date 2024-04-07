@@ -4,7 +4,9 @@ title: "Cartesian Inertia and Gravitation"
 weight: 28
 image: "/covers/world.jpg"
 description: "Bodies that revolve always tend to move away from the centers of the circles they describe"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 

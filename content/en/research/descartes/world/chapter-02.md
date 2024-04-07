@@ -4,9 +4,20 @@ heading: "Chapter 2"
 weight: 6
 image: "/covers/world.jpg"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
+
+
+
+Cartesian Axioms | Propositions
+--- | ---
+Light is a media that is different from physical objects |  Light has a form, quality, action or movement
+
+
+
 
 
 Light naturally exists in the stars and flame, or fire.
@@ -17,7 +28,7 @@ Light naturally exists in the stars and flame, or fire.
 When flame burns wood, it moves the small particles of the wood and separates them from one another. 
 - This transforms the subtler particles into fire, air, and smoke, and leaving the grosser particles as ashes. 
 
-<!-- Hence, someone else may, if he wishes, imagine the form of "fire," the quality of "heat," and the action that "burns" it to be completely different things in this wood.[6]  -->
+Hence, the form of "fire," the quality of "heat," and the action that "burns" are completely different things from this wood.[6]
 
 <!-- For my part, afraid of misleading myself if I suppose anything more than what I see must of necessity be there, I am content to conceive there the motion of its particles. For, posit "fire" in the wood, posit "heat" in the wood, and make the wood "burn" as much as you please. 
 

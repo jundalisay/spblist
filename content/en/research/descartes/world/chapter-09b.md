@@ -4,7 +4,9 @@ title: "The Origin of the Planets and Comets"
 weight: 21
 image: "/covers/world.jpg"
 description: "There are a few comets in the aethereal world compared to the number of gravitational territories"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 

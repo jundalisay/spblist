@@ -4,7 +4,9 @@ heading: "Chapter 4"
 weight: 10
 image: "/covers/world.jpg"
 description: "All bodies, both hard and liquid, are made from the same matter"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 

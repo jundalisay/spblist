@@ -4,7 +4,9 @@ title: "The Planets the Earth and Moon"
 weight: 22
 image: "/covers/world.jpg"
 description: "Descartes explains the movement of the planets"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 

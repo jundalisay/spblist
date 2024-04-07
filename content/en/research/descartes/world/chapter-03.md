@@ -4,7 +4,9 @@ heading: "Chapter 3"
 weight: 8
 image: "/covers/world.jpg"
 description: "There is an infinity of diverse motions that endure perpetually in the world"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 

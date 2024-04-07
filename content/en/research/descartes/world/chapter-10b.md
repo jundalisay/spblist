@@ -4,7 +4,9 @@ title: "How are the Orbits of the Moons Formed?"
 weight: 23
 image: "/covers/world.jpg"
 description: "If two planets are at the same orbit, the smaller will be faster than the larger"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 

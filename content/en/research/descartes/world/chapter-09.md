@@ -4,7 +4,9 @@ title: "The Origin of Matter and the Stars"
 weight: 20
 image: "/covers/world.jpg"
 description: "In Cartesian Physics, matter begins when the churning of spacetime particles caused some to acquire a low frequency"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 

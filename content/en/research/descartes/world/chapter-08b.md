@@ -4,12 +4,14 @@ title: "The Birth of Electromagnetism from Spacetime"
 weight: 19
 image: "/covers/world.jpg"
 description: "In Cartesian Physics, Electromagnetism is created from Spacetime when spacetime particles break off"
-contributors: ['Rene Descartes']
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: "/icons/descartes.png"
 ---
 
 
-Axioms | Propositions
+Cartesian Axioms | Propositions
 --- | ---
 Conversion from Aether to Matter | Aether becomes Spacetime then becomes Electromagnetism
 . | The Sizes of Spacetime Particles Depend on their Location
