@@ -1,14 +1,18 @@
 ---
-title: "The End of Capitalism (Economic Materialism) and Marxism (Dialectical Materialism)"
-heading: "Materialistic Systems Have Caused So Many Problems"
+title: "The Balance Sheet of a Points-Based Economic System"
+# heading: "Materialistic Systems Have Caused So Many Problems"
 date: 2022-08-01
-image: "/photos/objects/regicide.jpg"
+# image: "/photos/objects/regicide.jpg"
+image: "/photos/econ/balance.jpg"
 description: "Here we explain how Points-banking puts an end to commercial (tradeable) equity and, subsequently, Capitalism"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
+aliases:
+  /social/economics/end-of-capitalism
 ---
+
 
 
 In 2017, we predicted that Masayoshi Son would be [the last capitalist](/social/economics/last-capitalist). This was because our model predicted a global economic crisis sparking in 2018, which would then create [a global stagflation by 2019](/social/supersociology/precrisis-years). 
