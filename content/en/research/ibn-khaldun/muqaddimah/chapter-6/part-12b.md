@@ -51,22 +51,44 @@ Malikites <!-- 192 --> in Egypt were certain members of the 'Abd-al-Hakam family
 Alid jurisprudence came into use there. All the other (schools with their) scholars were on the point of complete disappearance, when 199 Judge 'Abd-al-Wahhab 2 00 came to Egypt from Baghdad at the end of the fourth [tenth] century, because he was in need and had to seek a livelihood. The 'Ubaydid(-Fatimid) caliphs proceeded 201 to honor him. They
 advertised his great qualifications, in order to be able to blame the 'Abbasids for driving out such a religious leader, and showed satisfaction with him. 
 
-As a result, the Malikite school saw some flourishing in Egypt, until the extremist 202 Shi'ah 'Ubaydid(-Fatimid) dynasty was wiped out by Salah-ad-din b. Ayyub. That meant the end of 'Alid jurisprudence in Egypt and the return of orthodox jurisprudence among the Egyptians. The jurisprudence of ash-Shafi'i and his 'Iraqi followers now flourished (in Egypt). It turned out to be in a better position than before, and was greatly cultivated. <!-- 203 --> 
+As a result, the Malikite school saw some flourishing in Egypt, until the extremist Shi'ah 'Ubaydid(-Fatimid) dynasty was wiped out by Salah-ad-din b. Ayyub. 
 
-The book of ar-Rafi'i 204 was imported from the 'Iraq into Syria and Egypt. Among famous Shaft'ites were Muhyi-ad-din an-Nawawi, one of the champions who had grown up in the shadow of the Ayyubid dynasty in Syria, further, 'Izz-ad-din b. 'Abd-as-Salam, 205 then, Ibn ar-Raf'ah 206 in Egypt, and Taqi-ad-din b. Daqiqal-'id. 207 After the latter two, there was Taqi-ad-din as-Subki. 208 Finally, (Shafi'ite leadership) was assumed by the present Shaykh of Islam in Egypt, Siraj-ad-din al-Bulqini. 209 He is the greatest Shafi'ite in Egypt today and, indeed, the greatest Egyptian religious scholar.
+<!-- 202 -->
 
-Malik's school was restricted to Maghribis and Spaniards, even though it was also found among other peoples. However, (Maghribis and Spaniards) very rarely follow other schools. (This situation is explained by the fact that) they mostly traveled to the Hijaz. 
+That meant the end of 'Alid jurisprudence in Egypt and the return of orthodox jurisprudence among the Egyptians. The jurisprudence of ash-Shafi'i and his 'Iraqi followers now flourished (in Egypt). It turned out to be in a better position than before, and was greatly cultivated. <!-- 203 --> 
 
-There, their journey ended. Medina, at that time, was the home of religious scholarship, which spread to the 'Iraq from there. The 'Iraq did not lie in the way of (the travels of the Maghribis and the Spaniards). Thus, they restricted
-themselves to studying with the scholars of Medina, that is, with Malik, the leading Medinese scholar at that time, as with his teachers before him and with his pupils after him. 
+The book of ar-Rafi'i 204 was imported from the 'Iraq into Syria and Egypt. 
+
+Among famous Shaft'ites were:
+- Muhyi-ad-din an-Nawawi, one of the champions who had grown up in the shadow of the Ayyubid dynasty in Syria
+- 'Izz-ad-din b. 'Abd-as-Salam, 205 then,
+- Ibn ar-Raf'ah 206 in Egypt
+- Taqi-ad-din b. Daqiqal-'id. 207 
+
+After the latter two, there was Taqi-ad-din as-Subki. 208 
+
+Finally, (Shafi'ite leadership) was assumed by the present Shaykh of Islam in Egypt, Siraj-ad-din al-Bulqini. 209 
+- He is the greatest Shafi'ite in Egypt today and the greatest Egyptian religious scholar.
+
+Malik's school was restricted to Maghribis and Spaniards, even though it was also found among other peoples. 
+
+However, (Maghribis and Spaniards) very rarely follow other schools. (This situation is explained by the fact that) they mostly traveled to the Hijaz. 
+
+There, their journey ended. Medina, at that time, was the home of religious scholarship, which spread to the 'Iraq from there. The 'Iraq did not lie in the way of (the travels of the Maghribis and the Spaniards). 
+
+Thus, they restricted themselves to studying with the scholars of Medina, that is, with Malik, the leading Medinese scholar at that time, as with his teachers before him and with his pupils after him. 
 
 Thus, Maghribis and Spaniards (always) referred to (Malik) and became his adherents and nobody else's, as the methods of other (authorities) did not reach them. Furthermore, the desert attitude was predominant among Maghribis and Spaniards. They did not care for sedentary culture, such as existed among the 'Iraqis.
 
 Therefore, they were more inclined toward the Hijazis, because the Hijazis also had the desert attitude. Thus, the Malikite school among them always retained its simplicity and was not affected by the refinement and improvement of sedentary culture that took effect in other schools.
 
-The school doctrine of each authority became, among his adherents, a scholarly discipline in its own right. They were no longer in a position to apply independent judgment and analogy. Therefore, they had to make reference to the established principles from the school doctrine of their authority, in order to be able to analyze problems in their context and disentangle them when they got confused.
+The school doctrine of each authority became, among his adherents, a scholarly discipline in its own right. They were no longer in a position to apply independent judgment and analogy. 
 
-A firmly rooted habit was required to enable a person to undertake such analysis and disentanglement and to apply the school doctrine of his particular authority to those (processes) according to the best of his ability. This habit is (what is meant) at this time by the science of jurisprudence.
+Therefore, they had to make reference to the established principles from the school doctrine of their authority, in order to be able to analyze problems in their context and disentangle them when they got confused.
+
+A firmly rooted habit was required to enable a person to undertake such analysis and disentanglement and to apply the school doctrine of his particular authority to those (processes) according to the best of his ability. 
+
+This habit is (what is meant) at this time by the science of jurisprudence.
 
 All Maghribis are adherents of Malik. His pupils were formerly spread over Egypt and the 'Iraq. 
 
@@ -135,7 +157,9 @@ The Malikite school in Egypt had started with al-Harith b. Miskin, Ibn Muyassar,
 
 It had remained under cover because of the appearance of the extremist Shi'ah and 'Alid jurisprudence.
 
-The 'Iraqi school was shunned by the inhabitants of alQayrawan and Spain, because it was far away, its ways of reaching conclusions were obscure, and they knew little about the sources that (the 'Iraqis) used. Scholars are (basically) men of independent judgment, even when (their opinion) stands apart (and does not agreewith the general opinion), and they do not blindly believe in tradition, nor do they like to use it as (their) method. 
+The 'Iraqi school was shunned by the inhabitants of alQayrawan and Spain, because it was far away, its ways of reaching conclusions were obscure. 
+
+They knew little about the sources that (the 'Iraqis) used. Scholars are (basically) men of independent judgment, even when (their opinion) stands apart (and does not agreewith the general opinion), and they do not blindly believe in tradition, nor do they like to use it as (their) method. 
 
 Therefore, the Maghribis and Spaniards do not accept the opinion of the 'Iraqis, whenever they cannot find a tradition of the imam Malik or one of his companions to support it. 
 
@@ -145,7 +169,9 @@ One of his most important followers was the jurist Sanad, the author of the Tira
 
 A number of people studied with them. They included the 'Awf family and their followers. Abu 'Amr b. al-Hajib studied with them. He was followed by Shihab-ad-din alQarafi. 241 In this way, there was a continuity (of Maliki teaching) in those times.
 
-The Shafi'ite school had also been destroyed in Egypt at the time of the 'Alid 'Ubaydid(-Fatimid) 242 dynasty. Later on, the work of the Khurasanian Shafi'ite ar-Rafi'i 243 made its appearance with the jurists who renewed the Shafi'ite school. 
+The Shafi'ite school had also been destroyed in Egypt at the time of the 'Alid 'Ubaydid(-Fatimid) 242 dynasty. 
+
+Later on, the work of the Khurasanian Shafi'ite ar-Rafi'i 243 made its appearance with the jurists who renewed the Shafi'ite school. 
 
 In Syria, one of the Shafi'ite champions, Muhyi-ad-din an-Nawawi, made his appearance.
 

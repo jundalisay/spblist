@@ -50,13 +50,21 @@ It is not something that is much used by the people, and it is of no practical u
 However, it is useful for practice and offers the best opportunity for acquiring the proper habit, (which can then be) applied to actual cases.
 
 Most of the scholars who are concerned with this discipline refer, in order to prove its excellence, to the following tradition, which is transmitted on the authority of Abu Hurayrah: "The fard'id (inheritance laws) constitute onethird of (religious)
-scholarship, and they are the first (discipline) to be forgotten." 261 Another recension
-has= "Onehalf of (religious) scholarship." 
+scholarship, and they are the first (discipline) to be forgotten." 
 
-The tradition was published by the hadIth expert Abu Nu'aym.262 People who are concerned with inheritance laws use it as an
-argument (in favor of the importance of their science), because they think thatfard'id in the tradition quoted refers to estate division (furud). However, it is obvious that such an interpretation is farfetched. 
+<!-- 261  -->
 
-Fard'id here is intended to mean "obligations" (furud) imposed upon Muslims in connection with religious worship, customs, matters of inheritance, and other things. If understood in this sense, it is correct to state that (the fard'id) constitute one-half or one-third of scholarship. The inheritance laws (by themselves) constitute a much lesser portion of religious scholarship as a whole.
+Another recension has: "Onehalf of (religious) scholarship." 
+
+The tradition was published by the hadIth expert Abu Nu'aym.
+
+<!-- 262  -->
+
+People who are concerned with inheritance laws use it as an argument (in favor of the importance of their science), because they think thatfard'id in the tradition quoted refers to estate division (furud). However, it is obvious that such an interpretation is farfetched. 
+
+Fard'id here is intended to mean "obligations" (furud) imposed upon Muslims in connection with religious worship, customs, matters of inheritance, and other things. 
+
+If understood in this sense, it is correct to state that (the fard'id) constitute one-half or one-third of scholarship. The inheritance laws (by themselves) constitute a much lesser portion of religious scholarship as a whole.
 
 This interpretation of the meaning of fard'id in the tradition quoted, is supported by the fact that the application of the word fard'id to a particular discipline, or its restriction to estate division, is part of the technical terminology the jurists created when the various disciplines and terminologies came into existence.
 

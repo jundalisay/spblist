@@ -41,10 +41,15 @@ The relationship between the chapter heading and the chapter has remained obscur
 
 He died before he was able to fill in all the chapter headings, and his work was transmitted in this (incomplete form).
 
-However, as I learned from the companions of Judge Ibn Bakkar, 146 the judge of Granada who died in the battle of Tarifa in the year 741 [1340], 147 and who was well versed in the Sahih of al-Bukhari, the chapter heading (quoted) was
-intended by al-Bukhari to interpret the verse of the Qur'an in the sense that it dealt with "something established by law," and not with "something appointed by divine decree." 148 The difficulty results from interpreting "we made" in the sense of "we appointed by divine decree." 
+<!-- 146 147 148 149 -->
 
-If (the word in question) is interpreted in the sense of "we established by law," there is no confusion (or contradiction) in the (chapter heading saying that) a man with two little legs will destroy (the House). I learned this explanation from our teacher, Abul-Barakat al-Ballafiqi,149 who had it on the authority of (Ibn Bakkar). Al-Ballafiqi was one of his most important pupils. 
+However, as I learned from the companions of Judge Ibn Bakkar, the judge of Granada who died in the battle of Tarifa in the year 741 [1340], and who was well versed in the Sahih of al-Bukhari, the chapter heading (quoted) was intended by al-Bukhari to interpret the verse of the Qur'an in the sense that it dealt with "something established by law," and not with "something appointed by divine decree." 
+
+The difficulty results from interpreting "we made" in the sense of "we appointed by divine decree." 
+
+If (the word in question) is interpreted in the sense of "we established by law," there is no confusion (or contradiction) in the (chapter heading saying that) a man with two little legs will destroy (the House). 
+
+I learned this explanation from our teacher, Abul-Barakat al-Ballafiqi, who had it on the authority of (Ibn Bakkar). Al-Ballafiqi was one of his most important pupils. 
 
 Commentators who do not exhaust such problems do not completely fulfill their duties as commentators.
 
@@ -70,13 +75,19 @@ The imam al-Mazari was a Malikite jurist. He dictated a commentary on the Sahih 
 
 The work was later on perfected by Judge 'Iyad. 155 He called his work Ikmal al-Mu'lim. The two of them were followed by Muhyi-ad-din an-Nawawl with a commentary containing all the material of the two works and adding to it, thus becoming a complete commentary.
 
-The other three collections of traditions contain the most extensive source material for jurists. Most comment on (that material) is found in the law books, except for those things that are peculiar to the science of tradition. Scholars wrote on (that material) and exhaustively presented in this respect as much as was needed of the sciences of tradition, their subjects, and the collections which contain traditions considered (norms) for action.
+The other three collections of traditions contain the most extensive source material for jurists. Most comment on (that material) is found in the law books, except for those things that are peculiar to the science of tradition. 
+
+Scholars wrote on (that material) and exhaustively presented in this respect as much as was needed of the sciences of tradition, their subjects, and the collections which contain traditions considered (norms) for action.
 
 It should be known that, at this time, traditions are classified in grade as "sound," "good," "weak," "ill," and so on. The classification was fixed and made known by the leading hadith authorities. It is no longer possible to declare a tradition sound, that had not been (known as) sound before.  
 
-The hadith authorities made known the traditions in their various recensions and with their chains of transmitters. They were so thorough in this respect that, if a tradition had been transmitted with a chain of transmitters or in a recension not belonging to it, they would have realized that it had been tampered with. Something of the sort happened to the imam Muhammad b. Ismail 156 al-Bukhari. He came to Baghdad, and the hadith scholars wanted to examine him. 
+The hadith authorities made known the traditions in their various recensions and with their chains of transmitters. They were so thorough in this respect that, if a tradition had been transmitted with a chain of transmitters or in a recension not belonging to it, they would have realized that it had been tampered with. 
 
-They asked him about several traditions, transposing the chains of transmitters (cited). He said: "I do not know those traditions, but I was told by so-and-so . . ." and then he repeated all the traditions in the correct order, supplying each text with the chain of transmitters to which it belonged. The hadith scholars (in Baghdad), in consequence, acknowledged (al-Bukhari's) leadership. 157
+Something of the sort happened to the imam Muhammad b. Ismail 156 al-Bukhari. He came to Baghdad, and the hadith scholars wanted to examine him. 
+
+They asked him about several traditions, transposing the chains of transmitters (cited). He said: "I do not know those traditions, but I was told by so-and-so . . ." and then he repeated all the traditions in the correct order, supplying each text with the chain of transmitters to which it belonged. 
+
+The hadith scholars (in Baghdad), in consequence, acknowledged (al-Bukhari's) leadership. 157
 
 Religious leaders of independent judgment differed in the extent of their knowledge of traditions.
 
@@ -105,7 +116,9 @@ Therefore, it was difficult for him to transmit traditions, and his traditions a
 
 He was one of the greatest scholars of independent judgment in the science of tradition. This is proven by the fact that the hadith scholars follow his school and refer to it and take it into consideration in rejecting or accepting (arguments).
 
-Other hadith scholars, that is, the great majority, permitted a certain latitude in applying the conditions (governing the soundness of traditions). They transmitted many traditions, everyone relying on his own independent judgment. The later (Hanafites) permitted a certain latitude in applying the conditions and transmitted many traditions. At-Tahawi 160 was a transmitter who transmitted many traditions. 
+Other hadith scholars, that is, the great majority, permitted a certain latitude in applying the conditions (governing the soundness of traditions). 
+
+They transmitted many traditions, everyone relying on his own independent judgment. The later (Hanafites) permitted a certain latitude in applying the conditions and transmitted many traditions. At-Tahawi 160 was a transmitter who transmitted many traditions. 
 
 He wrote his Musnad, which is an important work.
 

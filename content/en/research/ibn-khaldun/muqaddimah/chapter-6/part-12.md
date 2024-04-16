@@ -82,10 +82,15 @@ Nothing has remained except the schools of the representatives of opinion (reaso
 
 The leading authority of the Iraqis, around whom their school centered, was Abu Hanifah an-Nu`man b. Thabit. 
 
-His place in jurisprudence is unrivaled. This has been attested by persons of his own caliber, in particular, Malik and ash-Shafi'i. The leading authority of the IIijazts was Malik b. Anas al-Asbahi, who held the leading position in Medina. He is distinguished by the fact that he added another source of law to those known to other scholars, namely, the practice of the Medinese. 
+His place in jurisprudence is unrivaled. This has been attested by persons of his own caliber, in particular, Malik and ash-Shafi'i. 
 
-He was of the opinion that by virtue of their religion and traditionalism, the Medinese always necessarily followed each immediately preceding generation of Medinese, in respect of what they cared 176 to do or not to do. The (process would have gone back) to the generation that was in contact with the actions of the Prophet, and they
-would have learned from him (what to do and not to do). 
+The leading authority of the IIijazts was Malik b. Anas al-Asbahi, who held the leading position in Medina. He is distinguished by the fact that he added another source of law to those known to other scholars, namely, the practice of the Medinese. 
+
+He was of the opinion that by virtue of their religion and traditionalism, the Medinese always necessarily followed each immediately preceding generation of Medinese, in respect of what they cared to do or not to do. 
+
+<!-- 176  -->
+
+The (process would have gone back) to the generation that was in contact with the actions of the Prophet, and they would have learned from him (what to do and not to do). 
 
 In (Malik's) opinion, the practice of the Medinese, thus, is basic legal evidence.
 
@@ -100,6 +105,10 @@ The necessity of the traditionalism of the Medinese (caused by the fact that the
 The problem (of the practice of the Medinese) has been mentioned in the chapter (of legal works) dealing with
 the general consensus. This is the most appropriate place for it, because both the (practice of the Medinese) and the general consensus are concerned with agreement.
 
-However, the agreement of general consensus is the result of independent judgment and opinion (reasoning), in view of the (available) evidence. The agreement of the Medinese, on the other hand, affects their practice in as much as it involves reliance upon personal observation of (the practice of) their predecessors. 
+However, the agreement of general consensus is the result of independent judgment and opinion (reasoning), in view of the (available) evidence. 
 
-It would have been more appropriate if the problem (of the practice of the Medinese) were mentioned in the chapter on the actions of the Prophet, or in connection with (the topic of) evidence concerning which there are differences of opinion - as, for example, (the use as legal evidence) of the law of the religions preceding us (Islam), the (legal) opinions of men around Muhammad, and (the problems of) praesumptio legis (istishab). 178
+The agreement of the Medinese, on the other hand, affects their practice in as much as it involves reliance upon personal observation of (the practice of) their predecessors. 
+
+It would have been more appropriate if the problem (of the practice of the Medinese) were mentioned in the chapter on the actions of the Prophet, or in connection with (the topic of) evidence concerning which there are differences of opinion - as, for example, (the use as legal evidence) of the law of the religions preceding us (Islam), the (legal) opinions of men around Muhammad, and (the problems of) praesumptio legis (istishab). 
+
+<!-- 178 -->

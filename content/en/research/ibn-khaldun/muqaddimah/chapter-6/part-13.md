@@ -99,13 +99,27 @@ Is something general applicable to something circumscribed?Is a text indicating 
 
 There are other such things. All of them are basic in this discipline, but since they are semantic problems, they have to do with philology.
 
-Next, the study of analogy is a very important basis of this discipline. It helps to ascertain the correctness of both principal and special aspects of laws depending on reasoning and analogy; to examine the particular characteristic of a
-case on which the law is considered probably to depend, as to whether it (exists) in the principle; and to find out whether that characteristic exists in the special case without anything contradicting (it), which would make it impossible to base the law upon it. There are other problems that belong together with this one. All of them are basic in this discipline.
+The study of analogy is a very important basis of this discipline. 
 
-It should be known that this discipline is of recent origin in Islam. The early Muslims could dispense with it. Nothing more than the linguistic habit they possessed was needed for deriving ideas from words. The (early Muslims themselves also) were the source for most of the norms needed in special cases for deriving laws. They had no need to study the chains of transmitters, because they were close to the (transmitters) in time and had personal knowledge and experience
-of them. Then the early Muslims died, and the first period of Islam was over. 
+It helps to ascertain the correctness of both principal and special aspects of laws depending on reasoning and analogy; 
+- to examine the particular characteristic of a case on which the law is considered probably to depend, as to whether it (exists) in the principle
+- to find out whether that characteristic exists in the special case without anything contradicting (it), which would make it impossible to base the law upon it. 
 
-All the sciences became technical, as we established earlier. 275 
+There are other problems that belong together with this one. All of them are basic in this discipline.
+
+This discipline is of recent origin in Islam. 
+
+The early Muslims could dispense with it. 
+
+Nothing more than the linguistic habit they possessed was needed for deriving ideas from words. 
+
+The early Muslims themselves also were the source for most of the norms needed in special cases for deriving laws. They had no need to study the chains of transmitters, because they were close to the (transmitters) in time and had personal knowledge and experience of them. 
+
+Then the early Muslims died, and the first period of Islam was over. 
+
+All the sciences became technical, as we established earlier. 
+
+<!-- 275  -->
 
 Jurists and religious scholars of independent judgment now had to acquire these norms and basic rules, in order to be able to derive the laws from the evidence. They wrote them down as a discipline in its own right and called it "principles of jurisprudence." 
 
