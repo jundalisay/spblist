@@ -120,26 +120,38 @@ On the contrary, superstition:
 - renders men tame and abject
 - fits them for slavery. 
 
-During the English civil wars, the independents and deists had opposite religious principles, yet were united in their political aim for a commonwealth. 
+During the English civil wars, the independents and deists had opposite religious principles. Yet they were united in their political aim for a commonwealth.
 
-Since the origin of whig and tory, the whigs' leaders have either been deists or  latitudinarians (friends to toleration, and indifferent to any particular sect of christians) 
+Since the origin of whig and tory, the whigs' leaders have either been Deists or Latitudinarians (friends to toleration, and indifferent to any particular sect of christians).
 
-While the sectaries, who have all a strong tincture of enthusiasm, have always, without exception, concurred with that party, in defence of civil liberty. 
+The Sectaries all have a strong tincture of enthusiasm. They have always concurred with that party in defence of civil liberty. 
 
-The resemblance in their superstitions long united the 
-- the high-church tories and 
+The resemblance in their superstitions have long united the: 
+- the high-church tories and
 - the Roman catholics, in support of prerogative° and kingly power. 
 
-Though experience of the tolerating spirit of the whigs seems of late to have reconciled the catholics to that party.
+<!-- Though experience of  -->
 
-The molinists and jansenists in France have so many unintelligible disputes, which are not worth thinking about.
+The tolerating spirit of the Whigs recently has reconciled the Catholics to that party.
 
-But what principally distinguishes these two sects, and alone merits attention, is the different spirit of their religion. 
+The Molinists and Jansenists in France have so many petty unintelligible disputes.
 
-The molinists of the jesuits, are great friends to superstition. They are rigid observers of external forms and ceremonies, and devoted to the authority of the priests, and to tradition. 
+<!-- , which are not worth thinking about. -->
 
-The jansenists are enthusiasts, and zealous promoters of the passionate devotion, and of the inward life; little influenced by authority; and, in a word, but half catholics. The consequences are exactly conformable to the foregoing reasoning. 
+<!-- But what principally distinguishes these two sects, and alone merits attention, is  -->
 
-The jesuits are the tyrants of the people, and the slaves of the court.
+- But their religions have a different spirit.
 
-The jansenists preserve alive the small sparks of the love of liberty found in France.
+ <!-- of .  -->
+
+The Jesuit Molinists are great friends to superstition. They are:
+- rigid observers of external forms and ceremonies
+- devoted to the authority of the priests, and to tradition. 
+
+The jansenists are enthusiasts, and zealous promoters of the passionate devotion, and of the inward life; little influenced by authority; and, in a word, but half catholics. 
+
+The consequences are exactly conformable to the foregoing reasoning. 
+
+The Jesuits are the tyrants of the people, and the slaves of the court.
+
+The Jansenists preserve alive the small sparks of the love of liberty found in France.
