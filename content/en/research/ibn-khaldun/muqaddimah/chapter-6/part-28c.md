@@ -12,73 +12,94 @@ weight: 82
 
 
 <!-- ## The Za'irajah  -->
+ 
 
-A branch of the science of letter magic, practiced among the authorities on letter magic, is the technique of finding out answers from questions by means of connections existing between the letters of the expressions used in the question.
+The science of letter magic has a branch that has the technique of finding out answers from questions through connections between the letters used in the question.
 
-They imagine that these (connections) can form the basis for knowing the future happenings they want to know. Here we have something like puzzles and trick problems. <!-- 835 --> 
+They imagine that these connections can form the basis for knowing the future happenings that they want to know. Here we have something like puzzles and trick problems. <!-- 835 --> 
 
-There are many discussions of the subject by them. The most comprehensive and most remarkable discussion of it is as-Sabti's Za'irajah of the World. 
+<!-- There are many discussions of the subject by them.  -->
 
-As-Sabti wrote a poem about it. <!-- 836 --> 
+The most comprehensive and remarkable discussion of it is as-Sabti's Za'irajah of the World. 
+<!-- 836 --> 
+- As-Sabti wrote a poem about it. 
 
-Then, we shall give a description of the Za'irajah with its circle 836aand the table written on the verso.
-Finally, we shall reveal the truth about it. 
+<!-- Then, we shall give a description of the Za'irajah with its circle 836aand the table written on the verso.
+Finally, we shall reveal the truth about it.  -->
 
-It is nothing supernatural; (the indications derived from it) result from an agreement in
-the wording of question and answer. It is (just) one interesting way among others, and a curious one, for finding out the answer from the question with the help of the technique called the technique of "breaking down." 837 We have referred to all this before.
+The science of letter magic is nothing supernatural.
 
-We have no authoritative tradition on which we might rely for the
-correctness of the poem and its attribution to asSabti 838 However, we have chosen
-(for our quotation) what gave the impression of being the best manuscript. This is
-the poem: <!-- 839 -->
+The indications derived from it result from an agreement in the wording of question and answer. 
 
-There speaks a little Ceutian, 840 praising his Lord,
-Praying for a guide who was God's messenger to mankind, (namely,)
-Muhammad who was sent as a prophet, the Seal of the Prophets,
-And expressing his satisfaction 841 with the men around him and those who
-followed them:
+It is a way for finding out the answer from the question with the help of the technique called "breaking down."  
 
-Behold, this is the Za'irajah of the World which You [sing.] see revealed through your [pl.] senses, and through the intellect. Whoever knows how to compose (the za'irajah) will know his body,
-And will obtain laws given from on high.
-Whoever knows how to tie (it down) will obtain power
-And be noted for having obtained the fear of God and everything. 842
+<!-- 837 838 -->
+We have no authoritative tradition on which we might rely for the correctness of the poem and its attribution to asSabti.
+
+However, we have chosen (for our quotation) what gave the impression of being the best manuscript. This is the poem: <!-- 839 840 -->
+ 
+{{< box >}}
+
+There speaks a little Ceutian, praising his Lord, Praying for a guide who was God's messenger to mankind, (namely,)
+Muhammad who was sent as a prophet, the Seal of the Prophets.
+
+<!-- Expressing his satisfaction with the men around him and those who
+followed them. -->
+
+Behold, this is the Za'irajah of the World which You [sing.] see revealed through your [pl.] senses and intellect. 
+
+Whoever knows how to compose the za'irajah will know his body, and will obtain laws given from on high.
+
+Whoever knows how to tie it down will obtain power and be noted for having obtained the fear of God and everything. 842
+
 He is seen taking on reality in the divine world.
-This is the station of those who are perfected through dhikr exercises.
-These are the secrets that you have to keep concealed.
-Set them up in circles and balance (them) with h
-And with t which has a "throne" on which it is engraved,
-In poetry and prose, or which one sees arranged as a table.
-Set up circles corresponding to the relationship of their spheres
-And draw stars for their highest degrees.
-Come out for its strings (chords), and draw letters for them,
-And repeat the same (letters) on the border of those that are free.
-Set up the shape of their zir, 843 and make its houses,
-And verify with a bamm wherever their light is apparent.
-Present sciences as an engineer for the natures (elements),
-And an established knowledge of figurations and the quadrants.
-Work with music and the knowledge of their 844 letters
-And the knowledge of an instrument. And verify and bring about
-And make circles and set down their letters in the right relationship.
+
+This is the station of those who are perfected through dhikr exercises. These are the secrets that you have to keep concealed.
+
+Set them up in circles and balance (them) with h and with t which has a "throne" on which it is engraved, in poetry and prose, or which one sees arranged as a table.
+
+Set up circles corresponding to the relationship of their spheres and draw stars for their highest degrees.
+
+Come out for its strings (chords), and draw letters for them, and repeat the same (letters) on the border of those that are free.
+
+Set up the shape of their zir, 843 and make its houses, and verify with a bamm wherever their light is apparent.
+
+Present sciences as an engineer for the natures (elements), and an established knowledge of figurations and the quadrants.
+
+<!-- 844 -->
+
+Work with music and the knowledge of their letters and the knowledge of an instrument. And verify and bring about and make circles and set down their letters in the right relationship.
+
 Set free their world and list the zones in a table.
-We have an amir 845 who desires Bougie for a Zanatah
-Dynasty, which has appeared and which has manifestly seized power,
-And a region of Spain, then[. . . ] 846
+
+We have an amir 845 who desires Bougie for a Zanatah Dynasty, which has appeared and which has manifestly seized power, and a region of Spain, then[. . . ] 846
+
 The Banu Nasr [?] came, and their victory followed.
-Rulers, knights, and people of wisdom,
-If you wish, write them down. Their region is empty.
-A Mahdi of the Almohads who rule in Tunis,
-Rulers for an East set down in magic squares, 847
-Cast a spell over the region, and believe.
-If you wish, represent (it) in Latin without linguistic error,
-And (Al)fonso and Barcelona. R is the letter for it.Their Franc(is) is dh, 848 and is perfected with t.
+
+Rulers, knights, and people of wisdom, if you wish, write them down. Their region is empty.
+
+A Mahdi of the Almohads who rule in Tunis, Rulers for an East set down in magic squares, 847
+
+Cast a spell over the region, and believe. If you wish, represent (it) in Latin without linguistic error, and (Al)fonso and Barcelona. 
+
+R is the letter for it. Their Franc(is) is dh, 848 and is perfected with t.
+
 Rulers of Kinawah. 849 They have pointed to their q.850
-And the Arabs, our people, have been weakened.
+
+The Arabs, our people, have been weakened.
+
 Abyssinian India and Sind (Western India), then Hurmus [?]
+
 And Tatar Persians, and what beyond them.. . .
+
 Their Byzantine Emperor is a h. Their (Persian) Yazdjard
+
 Belongs to k. Their Copt was written with a long l,
+
 And 'Abbas, all of them noble and venerable.
+
 But (they are) a Turk when the (magical) activity ceases.
+
 If you want to know the rulers exactly and to find them out,
 Seal fields, then bring (them) into relation and list (them) in a table
 According to the norm and science of the letters
@@ -94,8 +115,12 @@ The letters of Sibawayh will come to you disconnected.
 Then, strengthen with transformations and confront and exchange.
 With your precious warble shake the parts
 
+{{< /box >}}
+
 ...............................................
 
+
+{{< box >}}
 Select a (star) rise. Figure out its signs.
 Reverse its root [?]. Straighten (it) out with the cycle.
 Someone will perceive those things. He will achieve his purpose
@@ -139,6 +164,7 @@ opposites, the power of the grade which is
 distinguished according to the relationship to the place
 of attached mixtures of natures (elements), and the
 science of medicine, or the craft of alchemy.
+
 O student of medicine and of Jabir's science (alchemy), 855
 And you who know the extent of the powers in succession,
 If you want the science of medicine, there must exist a relationship
@@ -146,6 +172,7 @@ For the laws of scales, which 856 will hit upon a (possible) way.
 Your patient will be cured. The elixir will be right.
 The soundness of the mixtures of your composition will be apparent.
 Spiritual Medicine
+
 And you want Hawush 857 -[SIGNS]-and his mind. . .
 For Bahram-Birjis 858 and seven, who is perfect,
 For dissolving pains of cold diseases. Make it correct
@@ -199,8 +226,13 @@ With the beautiful names of God 859 you will hit upon a (possible) way.
 The Rabbis of mankind will obey you with their heart(s),
 As well as 860 their chief. It is operated in the sun [??].
 You will see all mankind tied to you
+
+{{< /box >}}
+
 .....................................................
 
+
+{{< box >}}
 If you wish, you will live in (the world of) existence together with the fear of
 God
 And solid religion, or you will be firmly rooted 861
@@ -329,8 +361,8 @@ The za'irajah is completed.
 The procedure of finding answers from questions
 through the Za'irajah of the World with the
 help of the might of God. 880
-A question may have three hundred and sixty answers, according to the
-degrees (of the firmament). The answers to one question under a given ascendant
-differ in accordance with different questions (forming part of the question asked),
-which are referred to the letters of the chords of the za'irajah and (in accordance
-with) the operation applied to finding out the letters from the verse of the poem. 881
+
+A question may have 360 answers, according to the degrees of the firmament. 
+
+The answers to one question under a given ascendant differ in accordance with different questions (forming part of the question asked), which are referred to the letters of the chords of the za'irajah and (in accordance with) the operation applied to finding out the letters from the verse of the poem. 881
+{{< /box >}}

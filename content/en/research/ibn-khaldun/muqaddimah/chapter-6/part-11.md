@@ -129,7 +129,15 @@ They were either traditions with few links in the chain of transmitters, which m
 
 It was to serve as a guide to orthodox practice. 
 
-These are the collections of traditions that are used as reference works in Islam. They are the chief orthodox works on traditions. Other collections have been added to these five, such as the Musnads of Abu Dawud at-Tayalisi, 133 al-Bazzar, 134 'Abd b. Humayd, 135 ad-Darimi, 136 Abu Ya la alMawsili, 137 and the imam Ahmad. 
+These are the collections of traditions that are used as reference works in Islam. 
+
+They are the chief orthodox works on traditions. Other collections have been added to these 5, such as:
+- the Musnads of Abu Dawud at-Tayalisi, 133
+- al-Bazzar, 134 
+- 'Abd b. Humayd, 135
+- ad-Darimi, 136
+- Abu Ya la alMawsili, 137
+- and the imam Ahmad. 
 
 According to Ibn as-Salah, their intention was to collect the material transmitted on the authority of the men around Muhammad that cannot be used as argument.
 
