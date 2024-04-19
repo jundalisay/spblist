@@ -6,6 +6,7 @@ weight: 8
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
 image: /covers/elements.jpg
+draft: true
 ---
 
 
