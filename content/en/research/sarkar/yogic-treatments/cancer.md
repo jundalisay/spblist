@@ -87,3 +87,17 @@ Necessary are:
 - physical labour for those who are lazy
 
 Eating a piece of myrobalan after a meal is always helpful to clear the bowels. 
+
+
+
+{{< box >}}
+
+## From Microvita in a Nutshell
+
+In the case of cancer, say stomach cancer, certain food restrictions will have to be strictly followed. 
+
+When pain starts in the stomach, one should sit for dhyána. but just prior to this one should take some juice from a sweet tasting, not a sour tasting fruit. 
+
+After performing dhyána, one should take another drink which is different from the first drink. The patient should also avoid any food which causes gas in the stomach, such as pappad, cauliflower, cabbage, turnip, etc.
+
+{{< /box >}}

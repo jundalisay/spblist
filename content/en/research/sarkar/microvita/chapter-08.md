@@ -1,7 +1,7 @@
 ---
 title: "Microvitum and Its Effect on Human Body and Human Mind"
 heading: "Chapter 8"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: "Microvitum moves through the media of inferences"
 image: "/covers/mv.png"
 writer:
   name: PR Sarkar
@@ -11,7 +11,7 @@ weight: 28
 
 
 
-Mcrovitum moves through the media of inferences. 
+Microvitum moves through the media of inferences.
 
 <!-- The fundamental difference between positive and negative microvitum is that  -->
 

@@ -1,72 +1,173 @@
 ---
-title: "FAQ on Microvita – Section C"
-heading: "FAQ Section C"
+title: "FAQ on Microvita – Section B2"
+heading: "FAQ Section B2"
 description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
 image: "/covers/mv.png"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
-weight: 42
+weight: 40
+date: 1987-09-25
 ---
 
 
 
-Questions and Answers on Microvita – Section C
-
-Q: If the medicine or mother tincture required for homoeopathic medicine is prepared in a sentient environment which contains positive microvita, will the medicine prepared from that medium or mother tincture have more effect than ordinary medicine available in the market?
-
-A: There is no doubt that the medicine prepared in a sentient environment by sentient people, from a medium or mother tincture which is also prepared in a sentient environment, will attract more positive microvita than ordinary medicines, so it will have a much greater effect in curing a patient.
-
-If a person contracts a disease caused by negative microvita before initiation and does dhyána sincerely after initiation, the disease will not spread but be contained. However, for different types of diseases one has to follow different food restrictions and practice dhyána at specific times.
-
-If a person contracts a disease caused by negative microvita after initiation, does dhyána perfectly and follows certain food restrictions, the disease will be completely cured. 
-
-Dhyána attracts many positive microvita. Negative microvita can only be controlled by positive microvita. The positive microvita eat the negative microvita and this is the reason why the disease is cured. 
-
-For example, if a person is suffering from jaundice, a disease caused by negative microvita, and if dhyána is practised perfectly, the disease will be cured very quickly. 
-
-In the case of cancer, say stomach cancer, certain food restrictions will have to be strictly followed. 
-
-When pain starts in the stomach one should sit for dhyána, but just prior to this one should take some juice from a sweet tasting, not a sour tasting fruit. After performing dhyána, one should take another drink which is different from the first drink. The patient should also avoid any food which causes gas in the stomach, such as pappad, cauliflower, cabbage, turnip, etc.
+{{< r a="Q" >}}
+Q: What is the structural formula of microvita?
+{{< /r >}}
 
 
+{{< l a="A" >}}
+A: Previously, people were under the impression that molecules were the minutest particles of elements. 
+
+Later it was found that atoms, not molecules, were the minutest entities. Still later it was discovered that even an atom is not the minutest particle, for atoms are made of electrons, protons and many other imaginary and non-imaginary particles. 
+
+So, neither atoms nor molecules are the minutest particles of elements because they are composed of many other particles of the expressed world.
+
+People think that a “virus” is the minutest living being. But virus is a vague term. There is in fact nothing like a virus – thus the question of it being a living being does not arise.
+{{< /l >}}
 
 
-Questions and Answers on Microvita – Section D
+{{< l a="A" >}}
+Microvitum is the minutest entity. The collection of microvita forms a carbon atom. 
 
-Q: What does archaeological history say – has there been any collective influence of positive or negative microvita on this earth or in the entire cosmos? And what is your guess regarding Atlantis, Oceanis and Gondwanaland?
+Since a microvitum is the minutest entity, it cannot have a structure like that of an atom or a solar system. 
+- As a microvitum is a singular entity, it has no structure. 
 
-A: Human beings came here one million years ago, but the history of civilization starts from the time of the Rg Veda, 15,000 years ago. From one million years ago to fifteen thousand years ago – for so many years, nine hundred and eighty-five thousand years, between the Miocene and the Oligocene ages – was human society in a dormant state?
-
-Humans invented pictorial letters less than seven thousand years ago. A full-fledged civilization, with the four symbols of advancement – agriculture, the wheel, dress and script – started seven thousand years ago. Is there any role of microvita, positive or negative? It is another question.
-
-With regard to civilization, there has been little progress during the long span of nine hundred and eighty-five thousand years. All the progress has taken place within the last fifteen thousand years, from the time of the Rg Veda, the oldest unwritten book of the world. (At that time people could not write).
-
-Do microvita influence the mind first, or matter first, of any human or living structure? Negative microvita can function directly at the physico-psychic plexus, but they cannot reach even directly to the occult plexus. Only positive microvita can touch the lunar plexus and they may be elevated up to the occult plexus, but negative microvita may be elevated to the lunar plexus by another course. If negative microvita affect the mind, the mind may undergo derangement, but negative microvita cannot affect the mind directly.
-
-Positive microvita may be used for intellectual development and for imparting certain occult powers, but not for spiritual power or spiritual development. Suppose a man is deaf and dumb. 
-
-As the functions of hearing and speech are controlled by nerve cells or nerve fibres, they are activated with the help of nerve cells or nerve fibres. Nerve cells are controlled with the help of the lunar plexus. 
-
-Positive microvita may function directly up to the lunar plexus, but there at the lunar plexus, if positive microvita are to influence the nerve cells, they require some special power. Positive microvita cannot do something supernatural with the help of the nerve cells – they require some special power of some powerful person.
-
-Suppose the Sadguru is saying something, and the deaf or dumb man wants to hear it but cannot. If one concentrates the mind on varábhaya mudrá, there will be the direct effect of positive microvita on the auricular or other nerve cells and also on the controlling cells, and it may be that all of a sudden he may get back the power of hearing. One should look towards these two mudrás and not to anything else. Microvita are radiated through these two mudrás. This is the inner secret.
-
-This is supernatural, but not illogical. Certainly it is supernatural because it does not come within the scope of natural phenomena. Here the inner secret does not lie with microvita, it depends on something else.
-
-During the last Vaeshákhii Púrńimá at Ananda Nagar, there were many spiritual aspirants who wanted that the speed of our progress should be accelerated regarding the establishment of Ananda Marga on this planet. Did you mark that after Dharma Mahácakra (DMC) the speed has accelerated? This is the effect of positive microvita through these two mudrás.
-
-If a deaf man sincerely wants to hear what the Sadguru is saying, the positive microvita radiated through these two mudrás are sure to help him – they will certainly help him. During this DMC, some boys mentally expressed that we should go on fighting. Now see our boys and girls will go on fighting, and fight in the realm of spirituality means victory.
-
-The highest point up to which negative microvita can function is the physico-psychic plexus, but with the application of some force they can be raised up to the lunar plexus. 
-
-This raising is called “risti” or “rusti”. The lunar plexus is the highest point of positive microvita, but if positive microvita are raised above this point, it is called “krpá”. 
-
-That is, raising positive microvita from the lunar plexus to the occult plexus is called “krpá”. And raising them from the lunar plexus to the pinnacled point of human glory is called “karuńá”. Without krpá there cannot be karuńá, there cannot be any galloping jump. 
-
-Raising negative microvita above the psycho-physical plexus is “rusti” or “risti”. You should always try to avoid rusti and always try to receive the glamour of krpá or karuńá.
-
-7 January 1988, Calcutta
+**By nature it is more energy than matter.**
+- And so, it travels and moves through inferences, whereas other entities cannot move through inferences.
+{{< /l >}}
 
 
+
+{{< r a="Q" >}}
+Q: What is the difference between positive microvitum and negative microvitum?
+{{< /r >}}
+
+
+{{< l a="A" >}}
+A: Positive microvitum is pro-ectoplasmic – it is more ectoplasmic than matter. Negative microvitum is pro-materialistic – it is more matter than mind, than ectoplasm. 
+
+Positive microvitum, being more of ectoplasmic nature, starts functioning or working first in the mental level then filters down towards physical matter. 
+
+Negative microvitum starts functioning in matter and moves towards the mind, towards ectoplasmic stuff and endoplasmic coverage.
+{{< /l >}}
+
+
+{{< r a="Q" >}}
+Q: What are the possible physiological effects of the application of positive or negative microvita? How and why do they take place?
+{{< /r >}}
+
+
+{{< l a="A" >}}
+A: If a lot of positive or negative microvita enter a person, there may be instantaneous or gradual death. 
+
+If the body is not properly developed, as in the case of boys below 16 years of age, or in the case of women whose minds are very sentimental, the application of positive or negative microvita may bring about instantaneous death. 
+
+To receive positive microvita, the body should not be carnivorous. It must be vegetarian. 
+
+Non-vegetarians are not fit to receive the application of positive microvita. 
+{{< /l >}}
+
+{{< l a="A" >}}
+Positive or negative microvita can affect the protoplasmic cells of a structure directly, and even bring about a change in the genetic structure. 
+
+Even the sex of a person can change due to the application of positive or negative microvita.
+
+The glands and sub-glands also are directly affected by negative or positive microvita, which in this way influence the hormone secretions as well as the nerve cells or nerve fibres. 
+
+One may gain or lose memory or gain or lose strength as a result of positive or negative microvita.
+{{< /l >}}
+
+
+{{< r a="Q" >}}
+Q: What are the possible psychological effects of the application of positive or negative microvita, and how and why do they take place?
+{{< /r >}}
+
+
+{{< l a="A" >}}
+A: Microvita creates psychological impact due to their influence on the plexii where all the three types of vrttis (propensities of the mind) are affected:
+- pro-physical propensities
+- psychic propensities
+- pro-spiritual propensities. 
+
+All the 50 vrttis are affected by positive or negative microvita. 
+
+The positive microvita are pro-ectoplasmic and can move both towards the subtler existence of the human spirit and also towards the cruder manifestations of human existence. But negative microvita, being pro-matter, can move only downwards.
+
+Negative microvita can function directly at the physico-psychic plexus (at the Vishuddha Cakra) but they cannot move upwards to the occult plexus (at the Guru Cakra). 
+{{< /l >}}
+
+
+{{< l a="A" >}}
+Only with the application of force by a powerful personality, can they be raised to the lunar plexus (at the Ájiṋa Cakra). 
+
+This raising of negative microvita above the physico-psychic plexus is called “rusti” or “risti”. 
+
+The application of negative microvita on the human mind deranges the mind and causes many psychic ailments such as eccentricity, schizophrenia, mania, melancholia, etc. 
+
+In the case of positive microvita, the reaction takes place after they cross the lunar plexus, both in female and male bodies. Only positive microvita can touch the lunar plexus and be elevated up to the occult plexus. 
+
+They start their journey in the lunar plexus, and as they move upwards they increase their speed and bring about acceleration in spiritual progress, both in the case of males and females. (Positive microvita may also be used for intellectual development and for imparting certain occult powers.)
+{{< /l >}}
+
+
+{{< l a="A" >}}
+The lunar plexus is the highest point of positive microvita. But if they are raised upwards to the occult plexus, this is called “krpá” (grace).
+
+Raising positive microvita from the lunar plexus to the pinnacled point of human glory is called “karuńá”. 
+
+Without krpá there cannot be karuńá. There cannot be any galloping jump. You should always try to avoid rusti, the raising of negative microvita, and always try to receive the glamour of krpá or karuńá.
+{{< /l >}}
+
+
+{{< r a="Q" >}}
+Q: What will happen to microvita at the boiling and freezing temperatures? Will they die?
+{{< /r >}}
+
+
+{{< l a="A" >}}
+A: No, they will undergo:
+- contraction and hibernation at freezing temperature
+- expansion and hibernation at boiling temperature. 
+
+Negative microvita will die a natural death after their natural life span. 
+
+In order to kill negative microvita before the end of their life span, the number of positive microvita has to be increased by good thinking and sádhaná (spiritual practice). 
+
+**Only by increasing the number of positive microvita is the unnatural death of negative microvita possible.**
+{{< /l >}}
+
+
+{{< l a="A" >}}
+If under extreme temperatures microvita died, then some of the diseases now prevalent would have ceased to exist, but this has not happened.
+
+Rather, diseases have become more complicated. Malaria has become malignant malaria. 
+
+During the WWI, the decaying bodies of dead soldiers attracted negative microvita from other stars and thus the influenza disease originated. 
+
+Even now, influenza is fatal to human beings in cold countries. **Influenza has a natural duration of 4 days whether medicine is taken or not.**
+{{< /l >}}
+
+
+{{< l a="A" >}}
+When negative microvita devour the positive microvita of a diseased person, then that person dies. 
+
+Medicines only reduce the pain caused by disease in different parts of the body. It is not proper to say that medicine cures a disease. 
+
+**The disease can be cured only when the numbers of positive microvita are increased, and they devour the negative microvita.**
+
+There are certain persons who can cure diseases merely by touch -- this is the application of positive microvita.
+
+<!-- . The science behind this is also the  And -->
+
+The cause of the decomposition of anything over time is negative microvita.
+
+When a person is attacked by negative microvita and certain symptoms are observed, it is called “prognosis”.
+
+When the symptoms develop in the final stage of the disease, it is called “diagnosis”.
+{{< /l >}}
+
+
+25 September 1987, Calcutta
 

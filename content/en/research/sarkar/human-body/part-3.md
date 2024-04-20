@@ -125,6 +125,7 @@ This is located in the throat region. It controls 16 propensities:
 
 **When any theory is put into effect, the process of practication is made effective by chanting the sounds hummm, phat́, vaośat́, vaśat́, sváhá and namah.**
 
+
 ## Ajiṋá cakra
 
 This is located between the eyebrows, which controls 2 propensities:

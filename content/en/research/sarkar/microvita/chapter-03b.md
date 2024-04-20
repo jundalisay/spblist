@@ -1,7 +1,7 @@
 ---
-title: "Detecting Microvita"
-heading: "Chapter 3"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+title: "Carbonic Food and Imperialism"
+heading: "Chapter 3b"
+description: "There are two ill-effects when people get detached from non-carbonic pabula and become increasingly engrossed in carbonic pabula"
 image: "/covers/mv.png"
 writer:
   name: PR Sarkar
@@ -12,7 +12,7 @@ weight: 6
 
 
 
-Microvita are innumerable times more subtle and smaller than atoms
+Microvita are innumerable times more subtle and smaller than atoms.
 
 Since an atom does not come within the range of an ordinary microscope, how can microvita come within the scope of an ordinary microscope or ordinary perception in the psychic sphere, or also of inferences?
 
@@ -32,56 +32,100 @@ Non-carbonic psychic pabulum helps in spiritual and supra-psychic motivation.
 
 A genuine spiritual aspirant must be very careful in selecting his or her food. 
 
-Pabula of carbonic nature help in maintaining and nourishing the physical structure, and pabula of non-carbonic nature help in strengthening the psychic structure. 
+- Carbonic pabula help maintain and nourish the physical structure.
+- Non-carbonic pabula help strengthen the psychic structure. 
 
-An intake of more and more defective carbonic pabula adversely affects the psychic triangle of forces, and thus hinders one’s psycho-spiritual progress. A stage may come when the physical structure becomes almost mindless. 
+An intake of more and more defective carbonic pabula adversely affects the psychic triangle of forces. 
+- It thus hinders one’s psycho-spiritual progress. 
+- A stage may come when the physical structure becomes almost mindless. 
 
-The mythological fable of Ahalyá (who was turned into stone for a sin she committed in the epic Rámáyana) may be cited as a case in point.
+An example is in a mythological fable in the epic Rámáyana where Ahalyá was turned into stone for a sin she committed.
 
-When people get detached from non-carbonic pabula and become increasingly engrossed in carbonic pabula, there are two ill-effects as a consequence. 
+There are two ill-effects when people get detached from non-carbonic pabula and become increasingly engrossed in carbonic pabula: 
 
-1. The arena of one’s own carbonic pabula will increase and the mind will gradually and steadily drift towards crude matter.
+1. The arena of one’s own carbonic pabula will increase -- the mind will gradually and steadily drift towards crude matter.
 
-2. One’s mind will think in terms of devouring other’s carbonic pabula. This is the psychological explanation of imperialism. 
+2. One’s mind will think in terms of devouring other’s carbonic pabula. 
 
-That is, imperialism has its origin in the psyche and functions in the psychic arena. 
+This is the psychological explanation of imperialism which originates in the psyche and functions in the psychic arena. 
 
-When expressed externally it takes various forms, such as capitalism, state capitalism, communism, nationalism, communalism, parochialism, provincialism, socialism, caste-imperialism, male chauvinism, lingualism, etc. 
+When expressed externally it takes various forms, such as:
+- capitalism
+- state capitalism
+- communism
+- nationalism
+- communalism
+- parochialism
+- provincialism
+- socialism
+- caste-imperialism
+- male chauvinism
+- lingualism, etc. 
 
-Once I went to a big village where the people’s language was Bengali, but even in the primary school Hindi was taught there substituting the mother-language. It is a glaring example of lingual imperialism.
+Once I went to a big village where the people’s language was Bengali. 
+- But even in the primary school, Hindi was taught there substituting the mother-language. 
+- It is a glaring example of lingual imperialism.
 
 These are all the same psychic ailments in various forms and figures.
 
-Goaded by this psychic ailment, a superpower forces its own selfish national interests on other weaker states to establish its suzerainty politically, militarily, etc. 
-
-An imperialist power wants to dominate and exploit other socio-politico-economic units as an expansion, perpetration and consolidation of its vested interests; a powerful linguistic group suppresses other minority linguistic groups; 
-
-The so-called upper castes subjugate the so-called lower castes in society and suck their vital juice under so many pleas and disguises; and opportunistic males curtail the rights of women in various ways. 
+Goaded by this psychic ailment:
+- a superpower forces its own selfish national interests on other weaker states to establish its suzerainty politically, militarily, etc. 
+- an imperialist power wants to dominate and exploit other socio-politico-economic units as an expansion, perpetration and consolidation of its vested interests
+- a powerful linguistic group suppresses other minority linguistic groups
+- the so-called upper castes subjugate the so-called lower castes in society and suck their vital juice under so many pleas and disguises
+- opportunistic males curtail the rights of women in various ways. 
 
 In all these cases, the same inherent psychological malady of imperialism prevails.
 
-Imperialism is anti-human. It runs counter to the spirit of Neo- humanism and the ethics of human life. It is detrimental to pramá saḿvrddhi, pramá rddhi and pramá siddhi in human society. In a word, it thwarts human progress and creates global wars and all sorts of divisive and destructive forces in society.
+Imperialism is anti-human. 
 
-Imperialism is a negative force, a destructive phenomenon, which generates exploitative and unjust conditions in individual and collective life. Such a poisonous radiation of black force attracts negative forces like negative microvita. 
+It runs counter to:
+- the spirit of Neo-humanism and
+- the ethics of human life. 
+
+It is detrimental to pramá saḿvrddhi, pramá rddhi and pramá siddhi in human society. 
+
+It thwarts human progress and creates global wars and all sorts of divisive and destructive forces in society.
+
+Imperialism is a negative force, a destructive phenomenon, which generates exploitative and unjust conditions in individual and collective life. 
+
+Such a poisonous radiation of black force attracts negative forces like negative microvita. 
 
 Those negative microvita intensify and escalate the demonic activities of imperialism in all aspects of human society – art, literature, education, trade, commerce, industry, agriculture, morality and social relations. 
 
-They cultivate a psychology based on slavery, inferiority complex, pseudo-culture and psycho-economic exploitation, and in certain cases are the cause of nihilism and cynicism.
+They cultivate a psychology based on:
+- slavery
+- inferiority complex
+- pseudo-culture
+- psycho-economic exploitation
 
-In order to wipe out imperialism, which is rooted deep in the human psyche Neo-ethics based on the following points is indispensable:
+In certain cases, they cause nihilism and cynicism.
 
-1. The Macrocosmic Entity must be accepted as the supreme desideratum in human life.
+Imperialism is rooted deep in the human psyche.
 
-2. There should be happy adjustment and balanced blending between carbonic and non-carbonic pabula.
+In order to wipe it out, neo-ethics based on the following points is indispensable:
 
-This is the Neo-ethics of the present age; a panacea for the present imperialistic social ills and a mesh of psychic disorders. The application of Neo-ethics will lead to multi-lateral salvation of human society by removing economic exploitation, political suppression, religious indoctrination, cultural imposition and social subordination.
+1. **The Macrocosmic Entity must be accepted as the supreme desideratum in human life.**
+
+2. **There should be happy adjustment and balanced blending between carbonic and non-carbonic pabula.**
+
+This is the Neo-ethics of the present age -- a panacea for the present imperialistic social ills and a mesh of psychic disorders. 
+
+The application of Neo-ethics will lead to multi-lateral salvation of human society by removing:
+- economic exploitation
+- political suppression
+- religious indoctrination
+- cultural imposition
+- social subordination.
 
 
 ## The Role of Guru
 
 If there is a happy adjustment and balanced blending between carbonic and non-carbonic pabula in the human mind and corpor, there will be no imperialism at all. Rather, heaven will descend on the dusty earth.
 
-While following the path of Neo-ethics, human beings will attain enormous progress in the spiritual sphere with greater speed. With the help of non-carbonic pabula they will sharpen their psychic penetration within inter- and intra-atomic and molecular space. 
+While following the path of Neo-ethics, human beings will attain enormous progress in the spiritual sphere with greater speed. 
+
+With the help of non-carbonic pabula they will sharpen their psychic penetration within inter- and intra-atomic and molecular space. 
 
 With the help of microvita, they will be able to powder down their ectoplasms and transform them into cognitive faculto-factors.
 

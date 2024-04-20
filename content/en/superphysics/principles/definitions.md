@@ -158,3 +158,17 @@ Quantum of Space-time | Qost | Invisible spacetime particles in the Spatial Laye
 Quantum of Aether | Qoa | Substance of idea, feeling, or the abstract mind or soul that has those ideas and feelings
 <!-- Spinoza | | the Aether, as to separate it from the Physics concept of the aether or the Higgs field -->
 
+
+
+
+## Bio Superphysics
+
+Word | Meaning
+--- | ---
+Anāhata (Heart) Cakra | 
+Ájiṋa (Third Eye) Cakra | Also Lunar plexus 
+Muladhara (Root or Base) Cakra |
+Sahasrara / Guru (Top) Cakra | Also Occult plexus 
+Svadhisthana (Sex) Cakra | 
+Visuddha (Throat) Cakra | Also Physico-psychic plexus
+Navel Cakra | 

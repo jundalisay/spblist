@@ -1,5 +1,5 @@
 ---
-heading: "Section 4b"
+heading: "Section 4c"
 title: "Definition Of A Straight Line"
 weight: 12
 image: /covers/treatise.png

@@ -20,10 +20,12 @@ Philosophers assert that men are virtuous if they conform to reason.
 They say that:
 - every rational creature should regulate his actions by reason.
 - he should oppose any other motive or principle that challenges reason.
-                    ◦ He should entirely subdue it make it conform to reason.
+
+He should entirely subdue it make it conform to reason.
 
 Most ancient and modern moral philosophy seems to be founded on this way of thinking.
-        ◦ Metaphysical arguments are also founded on this supposed pre-eminence of reason above passion.
+
+Metaphysical arguments are also founded on this supposed pre-eminence of reason above passion.
 
 The eternity, invariableness, and divine origin of reason has been displayed to the best advantage.
         ◦ The blindness, unconstancy, and deceitfulness of passion has been as strongly insisted on.
@@ -32,10 +34,11 @@ To show the fallacy of all this philosophy, I shall prove that reason alone:
         ◦ can never be a motive to any action of the will
         ◦ can never oppose passion in the direction of the will.
 
-    • The understanding exerts itself in two different ways:
+The understanding exerts itself in two different ways:
         ◦ as it judges from demonstration or probability
         ◦ as it regards the abstract relations of our ideas, or those relations of objects, of which experience only gives us information.
-    • I believe that reasoning alone is ever the cause of any action.
+
+I believe that reasoning alone is ever the cause of any action.
         ◦ The proper province of reason is the world of ideas.
         ◦ The will always places us in the province of realities.
             ▪ Demonstration and volition seem, on that account, to be totally removed from each other.
@@ -67,11 +70,13 @@ To show the fallacy of all this philosophy, I shall prove that reason alone:
         ◦ Reason is nothing but the discovery of this connection.
             ▪ The objects are able to affect us not through reason.
 
-    • Since reason alone can never produce any action, or give rise to volition, I infer that the same faculty is as incapable of:
-        ◦ preventing volition, or
-        ◦ disputing the preference with any passion or emotion.
-    • This consequence is necessary.
-        ◦ It is impossible that reason could have the latter effect of preventing volition, but by giving an impulse in a contrary direction to our passion;
+Since reason alone can never produce any action, or give rise to volition, I infer that the same faculty is as incapable of:
+- preventing volition, or
+- disputing the preference with any passion or emotion.
+
+This consequence is necessary.
+
+It is impossible that reason could have the latter effect of preventing volition, but by giving an impulse in a contrary direction to our passion;
         ◦ and that impulse, had it operated alone, would have been able to produce volition.
     • Nothing can oppose or retard the impulse of passion, but a contrary impulse.
         ◦ If this contrary impulse ever arises from reason, that latter faculty must have an original influence on the will, and must be able to cause, as well as hinder any act of volition.
@@ -162,16 +167,20 @@ In some circumstances, a trivial good might produce a desire superior to what ar
             ▪ rise to a great height
             ▪ produce a sensible emotion.
 
-    • The common error of metaphysicians is in:
-        ◦ ascribing the direction of the will entirely to one of these principles
-        ◦ supposing the other to have no influence.
-    • Men often act knowingly against their interest.
+
+The common error of metaphysicians is in:
+- ascribing the direction of the will entirely to one of these principles
+- supposing the other to have no influence.
+
+Men often act knowingly against their interest.
         ◦ For which reason the view of the greatest possible good does not always influence them.
-    • Men often counteract a violent passion in prosecution of their interests and designs.
+
+Men often counteract a violent passion in prosecution of their interests and designs.
         ◦ It is not therefore the present uneasiness alone which determines them.
     • Both these principles operate on the will.
         ◦ Where they are contrary, either of them prevails according to the person’s general character or present disposition.
-    • The strength of mind implies the prevalence of the calm passions above the violent ones.
-        ◦ No one constantly has this virtue to never yield to the solicitations of passion and desire.
-    • From these variations of temper proceeds the great difficulty of deciding on people’s actions and resolutions, where there is any contrariety of motives and passions.
+
+The strength of mind implies the prevalence of the calm passions above the violent ones.
+- No one constantly has this virtue to never yield to the solicitations of passion and desire.
+- From these variations of temper proceeds the great difficulty of deciding on people’s actions and resolutions, where there is any contrariety of motives and passions.
 
