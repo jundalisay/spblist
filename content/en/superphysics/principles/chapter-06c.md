@@ -1,12 +1,10 @@
 ---
-heading: Chapter 6c
-title: "Choice and Reasonable Versus Unreasonable"
-linkTitle: Choice
-date: 2020-05-26
-weight: 22
-image: "https://sorasystem.sirv.com/graphics/datascience.png"
-description: "The Enlightenment was a period where reason dominated. Afterwards, people became more egotistic and materialistic"
-draft: true
+title: "What is Morality?"
+heading: "Chapter 6b"
+date: 2020-01-02
+weight: 20
+image: /photos/psych/jealous.jpg
+description: "In our universe however, the Positive Force is slightly stronger than the Negative. This leads to the concept of morality as a check against negativity"
 icon: /icons/sp.png
 writer:
   name: Juan
@@ -14,45 +12,202 @@ writer:
 ---
 
 
-past and present change depending on the now
-for every decision there is more than one reason 
 
-Why did you eat eggs for breakfast?
-- It was easy to cook
-- I love the taste of eggs
-- It has nutrients that I need 
-- It goes well with the bread that I bought
-These waves one is more the dominance varies relative to other feelings in other times. 
+Chapter 2 explained that the Creator of the universe created the universe from Its Own metaphysical ideas and feelings. This is similar to a novelist who writes a novel from a stream of ideas and feelings coming from his metaphysical mind. 
+
+The purpose of ideas is to create experience. These experiences then create ideas. This leads to an unending loop of:
+- idea-experience
+- cause-effect
+- action-reaction
+- karma-samskara-karma
+
+Action and Reaction applies not only in the physical domain, but also in the metaphysical.  
+
+This is best observed as the action and reaction of our feelings.
+
+- Bad or negative feelings lead to bad action 
+- Bad actions lead to bad consequences
+- Bad consequences lead to bad feelings
+
+The cycle of negativity leads to the persistent suffering among physical beings. 
+
+In our universe however, the Positive Force is slightly stronger than the Negative. This leads to the concept of morality as a check against negativity. 
+
+Chapter 3 explaimed that true happiness is achieved when an identity matches or unites with its dharma or true nature. This match is facilitated by the Positive Force.  
+
+Unhappiness is experienced when an identity is kept away from its dharma. This separation is done by the Negative.  
+
+A moral or dharmic action is one that is in line with one's true nature or dharma. Its consequences are likewise Positive and within the dharma. 
+
+As it is difficult to explain or even discover one's true nature, then we can shallowly define morality as a quality that produces happiness for now and for as long as possible, for the self and for as many entities as possible.
+
+The phrases "for as long as possible" and "for as many entities as possible" shows an enlarged mentality that tries to unite with all of the universe. This is a sign of the Positive Force. 
+
+  
 
 
-## Reasonable Versus Unreasonable
 
-The Enlightenment was said to be a period where reason dominated. So it follows that before and after that period, people were unreasonable or less reasonable. 
 
-The word "reason" comes fron Latin *ratus* which is to reckon, think, or judge. 
 
-This is similar yet different from the word "intellect" which comes from intelligo or to understand. 
 
-The problem is that these definitions only account for logic or the connection of ideas, and not the feeling that powers those connections. <!--  do not  current definition of reason does not take into account the feelings.  -->
+<!-- Earlier, we said that:
+- every physical perception has a metaphysical idea-equivalent
+- all ideas come from The One by Its Desire
+- these ideas manifest in a gigantic Mind which houses all Its ideas, one of which is the idea of our current universe and everything inside it -->
+<!-- produces an opposite idea: beauty has ugliness, health has disease -->
+<!-- - these ideas exist inside the mind for them to be experienced, closing the loop between idea and experience
+- the journey from idea to experience is powered by feelings, of which desire is the main feeling  
+- all movement is based on the differences of the dharma or true nature of all ideas of The One
 
-- A terrorist might find it reasonable for him to bomb a market in order to send a signal to foreign occupiers to leave. 
-- A dictator might find it reasonable to supress a protest forcibly in order to deter further protests and insatbility 
+Superphysics aims to solve problems, by moving from chronic problem into lasting solution, from suffering and doubt into happiness and knowledge. 
 
-![Taliban fighters](/countries/af/taliban.jpg)
+To make this movement easier and have a better success rate, we have to explain the nature of the gigantic Mind or arena where Existence and all movement takes place.  -->
 
-Anti-terrorists and anti-dictators would then blame them as unreasonable and thus be subject to punishments. This is similar to how you punish your pet dogs and cats if they won't obey your commands.  
 
-Thus, when someone says 'be reasonable' it really means:
 
-{{< q >}}
-<p>Please have a desire to project your consicousness onto a mental thought-experiment of the future where the bad consequences of your current improper actions will lead to the suffering of either yourself or others, or both, and then feel that suffering and then decide if that future suffering is worth whatever you imagine to gain from your current improper action.</p>
-{{< /q >}}
 
-This requires:
-- the desire of the person to feel about consequences or to even think about it
-- the mental ability and energy to project his mind onto those consequences 
-- the emtional ability to feel the suffering as bad enough to stop the immoral action
+## The Positive and Negative Leads to Morality and Immorality 
 
-For example, a divorce would be immoral under most circumstances as it would deprive the child of love and support. But if the spouse is suffering too much as to die, such as being beaten, then it would be more moral to have a divorce. In this case, the chronic, constant suffering is worse than the future suffering of the child. 
+The rivalry between the Positive and Negative Forces as they generate Existence leads to duality, opposites, and good and bad. 
 
-However, if a divorce was thought of just because the spouse fell in love with another person, then it might be immoral to have a divorce because the interests of the children outweigh the romance of the spouse. 
+This includes our feelings which have natural opposites:
+- love versus hate
+- fear versus bravery
+- peace versus agitation
+- etc
+
+This extends to economics, politics, and philosophy:
+- economic booms versus busts
+- democracy versus autocracy
+- conservative versus liberal
+- religion versus atheism
+- traditional versus modern
+- etc 
+
+The Negative Force creates these differences and dualities in order to express the infiniteness of the Supreme. However, this also leads to infinite conflicts and problems which divert each entity away from its true nature, which then leads to its suffering. 
+
+How can we counteract the tendency of Existence for chaos and division? 
+
+
+### A Moral System that Focuses on the Positive
+
+The Supreme has the Positive Force to naturally counteract the Negative. 
+
+This Positive Force has an inherent tendency to unite and dwell in the abstract or metaphysical domain where it excels in knowledge. This is different from the Negative Force which dwells in the physical domain where it separates things to facilitate new creations* as well as maintain ignorance. 
+
+
+> *This is why 'Shakti' or the Negative is a force for creativity and power
+
+
+Since the metaphysical is superior to the physical, we are absolutely confident that the Positive will conquer the Negative in the long run. This manifests as the maxim: "The pen is mightier than the sword."
+
+Moreover, since the Supreme dwells in the metaphysical, becoming Positive will make one more like the Supreme. This manifests as actions being closer to one's true nature or divine will. 
+
+{{< img src="/graphics/ignorance.png" alt="Ignorance" cap="The more humans become positive, united, and knowledgeable of Existence (as the Mind of the Supreme), the more they assume the attributes of the Supreme. For example, a caveman would think that only magicians could communicate with other people on the other side of the world -- something that we can do now thanks to our knowledge of the principles of electromagnetism" >}}
+
+
+A better knowledge of how Existence is generated and structured will then let us find the true nature of things as ultimate causes, This means that we can find the ultimate causes of things that give us pain and suffering such as poverty, inequality, natural disasters, terrorism, etc. 
+
+We can then work on the root causes so that the things that give us pain and suffering will change, so that we can experience peace and happiness instead. This will then make us realize that the Supreme never intended for the universe to give us suffering. Rather it was created to give us experiences of joy and value. 
+
+
+This emphasis on positivity, dharma, unity, knowledge, and fellow-feeling makes up the core of the moral philosophy imbued in Medical and Social Superphysics. 
+
+
+<!-- into something that we enjoy and is worth existing in. This is similar to how we go to a theater to experience enjoyment, and not to feel more disturbed or depressed.
+ -->
+
+<!-- ## God Created Existence for Happiness, Not Suffering -->
+
+## The 19th Century Introduced So Many Mistakes
+
+The formalization of Western science, economics, and medicine in the 19th century led to unnatural systems that are now causing so many problems such as global warming, pandemic, war, and stagflation that have destroyed many life forms on Earth, and are still destroying many as we speak.
+
+Despite having the intellect to warn about global warming and pandemics, science lacks the knowledge of the critical feeling that is needed to actually implement the 'scientific' solutions to them.  
+
+Superphysics focuses on the Positive, while using the Negative force, in order to correct the mistakes of the 19th century by adding metaphysics and feelings to science. In this way, science can be more complete and be more able to conclusively solve problems and create a better Existence for all.
+
+
+<!-- 
+The key thing that separates a reality of suffering and a reality of joy, is then knowing how feelings lead to mentality and how mentality creates reality. To understand this latter part, we need to define consciousness. This would help us break out of the limitations created by science which is based primarily on the five senses, ignoring the sixth sense of feelings and intuition.
+ -->
+
+<!-- One just has to look at the night sky to imagine the chaos that exists, as moon getting hit by countless meteorites, and the sun burning planets  -->
+
+<!-- From realizing Its true form as The One, we can then work downwards into The Supreme Entity and explain how Existence is generated.  
+Our best analogy for Existence is the internet which creates an online reality.  -->
+
+<!-- 
+all possess human-like qualities as to be angry, benevolent, merciful, etc. 
+
+So where does our idea of a personal God, Yahweh, Tara, or Ganesh come from?
+ -->
+
+<!-- ## An Effect of the Positive Force
+
+The human mind naturally creates the idea of God to have an extremely positive counterweight to extremely negative perceptions* such as pain, suffering, typhoons, earthquakes,  death, poverty, evil, etc. 
+
+> *We say "Oh my God!" more during bad and suprising experiences than in regular and ordinary ones. We rarely say "Oh my God, I'm eating breakfast" or "Oh my God, I'm breathing and reading a blog post"
+
+
+The proof is that all human societies see God as a positive entity Who loves the good and punishes the bad, and never the other way around. 
+- Polytheism is having many god-ideas to counterbalance many isolated negative perceptions
+- Monotheism is having a single God-idea for all negative perceptions
+- Atheism is in treating all perceptions as they are -- as Existence, neither positive nor negative
+- Agnosticism is in not bothering to think about the specifics at all
+
+In our internet analogy:
+- Positivity is information, Negativity is lack of information
+- Atheism is the 'internet'
+- Monotheism is 'AWS, Google Cloud, Azure'
+- Polytheism is 'local webservers and VPN'
+- Agnosticism is using the internet without caring how it works
+
+In our novel analogy, where the novel stands for Existence:
+- Positivity is a story, Negativity is not having a story
+- Atheism is a novel having an unknown author
+- Polytheism is having many authors
+- Monotheism is having one author
+- Agnosticism is enjoying the novel without caring who the author is
+
+
+## Omnitheism to Unify All the Feelings
+
+Here we introduce the concept of **omnitheism** which is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions, each of which pushes their own idea of the Creator to the detriment of others. They ignore the fact that different societies have different negative experiences which lead to them requiring a different of God-idea.
+
+For example:
+- The Jews were surrounded by strong enemies such as the Assyrians, Babylonians, and Egyptians. And so they felt* the need to create a Yahweh that was strong
+- The Romans were imperial so they felt the need to invent their God to be superior to all other gods
+- The Arabs were tribal and unruly, often causing raids and disorders. And so the Prophet Mohammad felt the need to craft Allah to make them submit to a single God
+- The Hindus were multicultural and so they felt the need to invent different gods for their different cultures
+- The Buddha saw the problems with Hinduism and so he created Buddhism as to have no personal God, and instead rely on the impersonal Sunya or Zen -->
+ 
+<!-- Thus, for monotheism and polytheism, the idea of God is the positive counterweight to negative things in Existence, while for Atheism and Omnitheism, God is that Existence itself. 
+
+The definition of the former focuses on the negative aspect of Existence, such as Apocalypse, the Devil, and the End of Days, while the latter does not. Since mentality creates reality, we go with the latter definition. In this way, we build a system that is naturally free from conflict and negativity, very different from the other systems that have naturally-perpetual conflict .
+ -->
+
+<!-- > *We emphasize 'felt the need' in order to be consistent with [our moral solution](/superphysics/principles/idea) of getting all the feelings of diifferent human societies so that we can find the lowest-common-denominator-feeling. 
+
+
+If all the inventions of God, Yahweh, Allah, etc are all caused by our positive feelings in their effort to counteract negative feelings, then finding a common positive feeling can lead to a framework to unify all those Supreme Deities for the sake of peace and unity instead of division and conflict. 
+
+Omnitheism proposes to do this by having only two things:
+
+1. Existence - this is the impersonal Whole
+2. A Supreme Entity - this is the personal Deity
+
+Existence has infinite (or arbitrary) attributes, whereas the Supreme Entity only has two attributes:
+
+1. It is Supreme
+2. It is an Entity
+
+Thus, the impersonal Matrix, Sunya, Brahma, Tao represents Existence, while the personal God, Allah, Yahweh, Kali, Ganesh, represent the personal solutions to the negativity in Existence. 
+
+The more negativity the mind experiences, the more deities it needs to create as a counterweight. But since negativity arises from ignorance, then the more knowledge humans get, the less the need for having so many deities with so many attributes. 
+
+For example, in the ancient past, humans didn't know the principles behind volcanic eruptions and so they assigned it to a volcano-god. After geology was known, then the volcano-god no longer needs to exist. 
+
+We can extend this pattern and say that as humans learn and master the principles of Existence, then the less their need for numerous deities or for a Supreme Deity to have so many attributes. Instead, those attributes transfer over onto those existential principles. This is why our Supreme Entity concept only has two attributes, and Existence has infinite ones.
+
+ -->

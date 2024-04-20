@@ -29,7 +29,9 @@ Finally, there are some circumstances which may make it certain that relative or
 
 8. Let us now examine how some considerations perfectly analogous to those which we have just considered, spring from the idea of exchangeable values.
 
-Just as we can only assign situation to a point by reference to other points, so we can only assign value to a commodity[2] by reference to other commodities. In this sense there are only relative values. But when these relative values change, we perceive plainly that the reason of the variation may lie in the change of one term of the relation or of the other or of both at once; just as when the distance varies between two points, the reason for the change may lie in the displacement of one or the other or both of the two points. Thus again when two violin strings have had between them a definite musical interval, and when after a certain time they cease to give this interval, the question is whether one has gone up or the other gone down, or whether both of these effects have joined to cause the variation of the interval.
+Just as we can only assign situation to a point by reference to other points, so we can only assign value to a commodity[2] by reference to other commodities. In this sense there are only relative values. But when these relative values change, we perceive plainly that the reason of the variation may lie in the change of one term of the relation or of the other or of both at once; just as when the distance varies between two points, the reason for the change may lie in the displacement of one or the other or both of the two points. 
+
+Thus again when two violin strings have had between them a definite musical interval, and when after a certain time they cease to give this interval, the question is whether one has gone up or the other gone down, or whether both of these effects have joined to cause the variation of the interval.
 
 We can therefore readily distinguish the relative changes of value manifested by the changes of relative values from the absolute changes of value of one or another of the commodities between which commerce has established relations.
 
