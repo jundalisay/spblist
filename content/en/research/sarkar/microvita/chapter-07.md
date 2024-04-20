@@ -33,7 +33,11 @@ Take for instance the case of green vitriol. Up till now the recognized formula 
 
 But after a chemist is acquainted with the theory of microvita, he or she will no longer use this formula. He or she will prefer to use the new formula – say FeSO4 7H20 (Group A MV 20 million). 
 
-Take another case, say copper sulphate (blue vitriol). The present chemical formula is CUS04 5H20, but after the theory of microvita is well established, a chemist will use the new formula – CUS04 5H20 (Group B MV 20 million). This means the chemical formulae regarding the inner structure of objects is undergoing a tremendous change. Of course, it is true that the size of formulae will be bigger than what they are today.
+Take another case, say copper sulphate (blue vitriol). 
+
+The present chemical formula is CUS04 5H20, but after the theory of microvita is well established, a chemist will use the new formula – CUS04 5H20 (Group B MV 20 million). 
+
+This means the chemical formulae regarding the inner structure of objects is undergoing a tremendous change. Of course, it is true that the size of formulae will be bigger than what they are today.
 
 The denomination of the object and its internal qualities will not be changed. There will only be a change in the case of chemical formulae. 
 
@@ -43,15 +47,18 @@ All microvita are not of the same type. There are qualitative differences amongs
 
 According to the modern biologist, protoplasmic cells are made of carbon atoms, but in the microvita age the biologist will say that the protoplasmic cells are not made of carbon atoms, rather they are the collective solidified form of innumerable microvita. 
 
-By controlling the microvita of the protoplasmic cells, big changes can be effected within the human body. Ordinary people can be made extraordinary. Their mental qualities and capabilities can be enlarged by supplying microvita in sufficient quantity. That is to say, the theory of microvita has immense potentialities in introducing numerous changes in human society. 
+By controlling the microvita of the protoplasmic cells, big changes can be effected within the human body. Ordinary people can be made extraordinary. 
+
+Their mental qualities and capabilities can be enlarged by supplying microvita in sufficient quantity. That is to say, the theory of microvita has immense potentialities in introducing numerous changes in human society. 
 
 By changing microvita, ectoplasmic changes will come which in turn will bring about endoplasmic change, and thus the mind will be able to control the organism, the physical body, in a better way.
 
 Consequently, there will be remarkable changes in the over-all personalities of human beings. These changes will take place in the internal sphere as much as in the external structure. The personalities of human beings will not be the same as they are now. 
 
-Due to changes in the nerve cells, a change in the ectoplasmic cells also occurs, and as a result the effulgence of the body changes. In the age of microvita, the appearance of the physical body will change. Human beings will become more psychic than physical, and in the next phase they will become more spiritual than psychic.
+Due to changes in the nerve cells, a change in the ectoplasmic cells also occurs, and as a result the effulgence of the body changes. 
+
+In the age of microvita, the appearance of the physical body will change. Human beings will become more psychic than physical, and in the next phase they will become more spiritual than psychic.
+
+
 
 15 September 1987, Calcutta
-
-
-

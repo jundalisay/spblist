@@ -10,46 +10,101 @@ weight: 14
 ---
 
 
-According to their nature, microvita(1) are of three types – negative, ordinary and positive. Negative microvita function on their own through nature, while positive microvita function through specially created waves.
+According to their nature, microvita(1) are of 3 types:
 
-Negative microvita primarily function in the múládhára and svádhiśt́hána cakras and gradually rise upwards. If negative microvita are applied to the upper cakras, they will function very rapidly, but this may cause death to human beings. 
+1. Negative
+2. Ordinary
+3. Positive
 
-That is why negative microvita by nature function in the lower cakras of the human body, and their influence is mostly felt in the pain and disease of the kidneys, loins, waste, etc. Negative microvita function very perceptibly in the reproductive and excretory organs. Concentrated negative microvita are not usually applied to the human body because they immediately start affecting the human brain and bring death.
+Negative microvita function on their own through nature, while positive microvita function through specially created waves.
+
+Negative microvita primarily function in the múládhára and svádhiśt́hána cakras and gradually rise upwards. 
+
+If negative microvita are applied to the upper cakras, they will function very rapidly. But this may cause death to human beings.
+
+That is why negative microvita by nature function in the lower cakras of the human body. 
+
+Their influence is mostly felt in the pain and disease of the kidneys, loins, waste, etc. 
+
+**Negative microvita function very perceptibly in the reproductive and excretory organs.** 
+
+Concentrated negative microvita are not usually applied to the human body because they immediately start affecting the human brain and bring death.
 
 Ordinary microvita may affect the kidneys, liver, abdomen, chest, etc.
 
-Positive microvita are never spread through nature. A mighty personality, a Sadguru, if He so wishes, may emanate positive microvita through His own waves, and thus create similar vibrations in the male human body though positive microvita. In this case, the male body means those who are above twenty-four years of age.
+**Positive microvita are never spread through nature.** 
 
-In the undeveloped male body – that is, in those who are less than twenty-four years old – although shukra [a vital fluid which has three stages – lymph, spermatozoa and seminal fluid] is produced, the semen is not yet fully nourished or developed. In the male body, shukra starts being produced at the age of twelve or thirteen. 
+A mighty personality, a Sadguru, if He so wishes, may emanate positive microvita through His own waves, and thus create similar vibrations in the male human body though positive microvita. 
 
-It may be subsequently turned into semen, but that semen cannot be considered fully nourished semen before the male is twenty-four years old. Consequently, I usually treat thirty year old males as the standard age for being a medium for receiving positive microvita.
+Here, the male body are those above 24 years of age.
 
-Young brahmacáriis [trainee monks below twenty-four years old] always try to preserve their semen, hence their nerves are healthy. In the case of females, whether they are young or old, they discharge ova and other materials during their monthly menstrual cycle, and hence their nerves are weak.
+The undeveloped male body is that which is less than 24 years old.
 
-As boys up to the age of twelve or thirteen years of age do not develop semen, they are very sentimental, like women. There is little difference between boys and girls up to to the age of 12-13. 
+Although shukra [a vital fluid which has three stages – lymph, spermatozoa and seminal fluid] is produced, the semen is not yet fully nourished or developed. 
 
-After the age of 12-13, ova are created in the female body, but that is usually ejected from the body at a particular period in every month, hence the nerves in the female body are comparatively weak. Such bodies cannot successfully absorb the strong vibrations of positive microvita. 
+In the male body, shukra starts being produced at the age of 12-13. 
 
-Birds, animals, trees and plants also cannot absorb vibrations of positive microvita. Even in a five-thousand-year-old banyan tree or a gigantic and extremely powerful animal, the mind remains undeveloped and the nerves remain undernourished and weak. If positive microvita are applied to such bodies, they will cause death. 
+It may be subsequently turned into semen. But that semen is not fully nourished semen before the male is 24 years old.
+
+Consequently, I usually treat 30 year old males as the standard age for being a medium for receiving positive microvita.
+
+Young brahmacáriis [trainee monks below twenty-four years old] always try to preserve their semen, hence their nerves are healthy. 
+
+In the case of females, whether they are young or old, they discharge ova and other materials during their monthly menstrual cycle, and hence their nerves are weak.
+
+As boys younger than 12-13 do not develop semen. They are very sentimental, like women. 
+- There is little difference between boys and girls up to to the age of 12-13. 
+
+After the age of 12-13, ova are created in the female body. But that is usually ejected from the body at a particular period in every month, hence the nerves in the female body are comparatively weak.*
+
+> *Superphysics Note: Women have weak nerves because they cannot preserve ova. But men can preserve semen.  
+
+
+
+**Such bodies cannot successfully absorb the strong vibrations of positive microvita.** 
+
+Birds, animals, trees and plants also cannot absorb vibrations of positive microvita. 
+
+Even in a 5,000-year-old banyan tree or a gigantic and extremely powerful animal, the mind remains undeveloped. The nerves remain undernourished and weak. 
+
+If positive microvita are applied to such bodies, they will cause death. 
 
 The application of positive microvita may emancipate animals and plants through a galloping jump, but their death is inevitable. 
 
-So, positive microvita should never be applied to children, animals, birds and plants. Similarly, positive microvita should never be applied to the bodies of women. When the waves of positive microvita are widespread, they influence everyone and help in their all-round development.
+So, positive microvita should never be applied to children, animals, birds and plants. 
 
-Spiritual progress is effected through the pineal gland, and psycho-spiritual progress is effected through the pituitary gland. If a man is a diehard sinner or inveterate criminal, and if positive microvita are applied to him, the Sadguru will have to labour hard. 
+Similarly, positive microvita should never be applied to the bodies of women. 
+
+When the waves of positive microvita are widespread, they influence everyone and help in their all-round development.
+- Spiritual progress is effected through the pineal gland.
+- Psycho-spiritual progress is effected through the pituitary gland. 
+
+If a man is a diehard sinner or inveterate criminal, and if positive microvita are applied to him, the Sadguru will have to labour hard. 
 
 If a man is psychically or mentally weak, the Sadguru will also have to labour hard while applying positive microvita to his body.
 
-In the case of those who are physically, psychically and spiritually weak, He will have to labour still harder. In this case, the nerve cells and nerve fibres in the body of the weak man will have to be thoroughly cleaned, hence the labour involved will be immense. 
+In the case of those who are physically, psychically and spiritually weak, He will have to labour still harder. 
 
-Due to the unconditional grace of Parama Puruśa, if positive microvita are applied to a male body which is less than 24 years of age, the person may survive if he can adjust with the initial shock, but the probability of death is great. Boys below the age of twelve or thirteen years are sure to die.
+In this case, the nerve cells and nerve fibres in the body of the weak man will have to be thoroughly cleaned, hence the labour involved will be immense. 
 
-Positive microvita can only be applied by Parama Puruśa, but negative microvita are spread through natural forces, as in the case of conjunctivitis. If positive microvita are created through satsauṋga [good company], this will influence the collectivity. 
+Due to the unconditional grace of Parama Puruśa, if positive microvita are applied to a male body which is less than 24 years of age, the person may survive if he can adjust with the initial shock. But the probability of death is great. 
+
+Boys below the age of 12-13 are sure to die.
+
+Positive microvita can only be applied by Parama Puruśa. But negative microvita are spread through natural forces, as in the case of conjunctivitis. 
+
+If positive microvita are created through satsauṋga [good company], this will influence the collectivity. 
 
 
-It has been observed that when a sádhaka meditates alone, he or she may enjoy spiritual bliss, but if one is in the company of many sádhakas, one will enjoy more bliss.
+When a sádhaka meditates alone, he or she may enjoy spiritual bliss. But if one is in the company of many sádhakas, one will enjoy more bliss.
 
-In principle, negative and positive microvita are the same, but their field of activity is different. For instance, if negative microvita are applied to a male body, they will bring torture and afflictions and sometimes death. In the case of women and children, they will bring instant death. This is also the case with animals, birds and plants.
+In principle, negative and positive microvita are the same. But their field of activity is different. 
+
+For instance, if negative microvita are applied to a male body, they will bring torture and afflictions and sometimes death. 
+
+In the case of women and children, they will bring instant death. This is also the case with animals, birds and plants.
+
+
 
 11 September 1987, Calcutta
 

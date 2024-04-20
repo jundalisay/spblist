@@ -113,6 +113,7 @@ We are have a precise standard to judge of the equality and proportion of number
 
 We determine their relations according as they correspond to that standard, without any possibility of error.
 When two numbers are so combined, as that the one has always an unite answering to every unite of the other, we pronounce them equal.
+
 Geometry can never be a perfect and infallible science for want of such a standard of equality in extension.
 Geometry and Mathematics Create Philosophical Absurdities by Insisting on Exactness or Obscurity
 Geometry falls short of that perfect precision and certainty which are peculiar to arithmetic and algebra.
