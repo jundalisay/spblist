@@ -1,6 +1,6 @@
 ---
 heading: Section 6
-title: "THE INFLUENCE OF THE IMAGINATION ON THE PASSIONS"
+title: "The Influence Of The Imagination On The Passions"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 image: /covers/treatise.png
 weight: 4
@@ -22,26 +22,29 @@ Whenever our ideas of good or evil acquire a new vivacity, the passions:
     • I shall not determine whether this proceeds from the above principle, that any attendant emotion is easily converted into the predominant one.
         ◦ It is sufficient that we have many instances to confirm this influence of the imagination on the passions.
 
-    • Any pleasure we are acquainted with, affects us more than any other superior pleasure but of whose nature we are wholly ignorant.
+Any pleasure we are acquainted with, affects us more than any other superior pleasure but of whose nature we are wholly ignorant.
         ◦ We can form a particular and determinate idea of the pleasure we know.
         ◦ We conceive the unknown pleasure under the general notion of pleasure.
-    • The more general and universal any of our ideas are, the less influence they have on the imagination.
+
+The more general and universal any of our ideas are, the less influence they have on the imagination.
     • A general idea is nothing but a particular one considered in a certain view.
         ◦ It is commonly more obscure because no particular idea, which we use to represent a general one, is ever fixed or determinate.
             ▪ It may easily be changed for other particular ones serving equally in the representation.
- 
-    • Themistocles told the Athenians that he had formed a design, which would be highly useful to the public.
+ 
+
+Themistocles told the Athenians that he had formed a design, which would be highly useful to the public.
         ◦ But it was impossible for him to communicate to them without ruining the execution, since its success depended entirely on its secrecy.
-    • The Athenians, instead of granting him full power to act as he thought fitting, ordered him to communicate his design to Aristides.
+
+The Athenians, instead of granting him full power to act as he thought fitting, ordered him to communicate his design to Aristides.
         ◦ They had entire confidence in Aristides’ prudence.
         ◦ They would blindly to submit to his opinion.
     • Themistocles’ plan was to secretly set fire to all Greek fleets assembled in a neighbouring port.
         ◦ This would destroy the rivals of the Athenians at sea.
         ◦ Aristides returned to the assembly and told them, that Themistocles’ plan was most advantageous but most unjust.
             ▪ The people unanimously rejected the project.
- 
-    • Charles Rollin [Ancient History (Paris, 1730–38)] admires this most unique passage of ancient history.
- 
+ 
+    • Charles Rollin [Ancient History (Paris, 1730–38)] admires this most unique passage of ancient history.
+ 
     • He says:
         ◦ “The philosophers establish the finest maxims and most sublime rules of morality easily in their schools.
         ◦ Here, they do not decide that interest should never prevail above justice.
@@ -50,7 +53,7 @@ Whenever our ideas of good or evil acquire a new vivacity, the passions:
             ▪ They reject it unanimously and without hesitation, merely because it is contrary to justice.”
 
     • I see nothing extraordinary in this proceeding of the Athenians.
-        ◦ The same reasons, which render it so easy for philosophers to establish these sublime maxims, tend to reduce the merit of such a conduct in that people.
+        ◦ The same reasons, which render it so easy for philosophers to establish these sublime maxims, tend to reduce the merit of such a conduct in that people.
     • Philosophers never balance between profit and honesty.
         ◦ Because their decisions are general, and neither their passions nor imaginations are interested in the objects.
     • In the present case the advantage was immediate to the Athenians as a general advantage.

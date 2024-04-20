@@ -39,13 +39,13 @@ When any very distant object is presented to the imagination, we naturally refle
         ◦ passes easily from one idea to another related to it
         ◦ transports to the second idea all the passions excited by the first idea.
     • The object does not need to be actually distant from us to cause our admiration.
-        ◦ It is enough that it conveys our view to any considerable distance by the natural association of ideas.
+        ◦ It is enough that it conveys our view to any considerable distance by the natural association of ideas.
     • A great traveler our room will pass for a very extraordinary person as a Greek medal in our cabinet is always esteemed a valuable curiosity.
-        ◦ Here the object conveys our views to the distance, by a natural transition.
+        ◦ Here the object conveys our views to the distance, by a natural transition.
         ◦ The admiration arising from that distance returns back to the object by another natural transition.
 
     • Every great distance produces an admiration for the distant object.
-        ◦ A distance in time has a more considerable effect than a distance in space.
+        ◦ A distance in time has a more considerable effect than a distance in space.
     • Ancient busts and inscriptions are more valued than Japanese tables.
         ◦ We more venerate the old Chaldeans and Egyptians, than the modern Chinese and Persians.
         ◦ We take more fruitless pains to dear up the former’s history and chronology, than it would cost us to travel and be informed of the former’s character, learning and government.
@@ -71,7 +71,7 @@ When any very distant object is presented to the imagination, we naturally refle
         ◦ No wonder the mind desires opposition and is averse to compliance, in certain dispositions.
 
     • These principles have an effect on the imagination and the passions.
-        ◦ To be convinced of this. we only need to consider the influence of heights and depths on that faculty.
+        ◦ To be convinced of this. we only need to consider the influence of heights and depths on that faculty.
     • Any great elevation of place communicates a kind of pride or sublimity of imagination.
         ◦ It gives a fancied superiority over those that lie below.
         ◦ Vice versa, a sublime and strong imagination conveys the idea of ascent and elevation.
@@ -87,13 +87,13 @@ When any very distant object is presented to the imagination, we naturally refle
 
     • There is no natural nor essential difference between high and low.
         ◦ This distinction only arises from the gravitation of matter which produces a motion from the one to the other.
-    • The very same direction, which in this part of the globe is called ascent, is called descent in our antipodes.
+    • The very same direction, which in this part of the globe is called ascent, is called descent in our antipodes.
         ◦ This proceeds only from the contrary tendency of bodies.
-    • The tendency of bodies continually operating on our senses, must produce a like tendency in the fancy, from custom.
+    • The tendency of bodies continually operating on our senses, must produce a like tendency in the fancy, from custom.
         ◦ The idea of the weight of any ascending object gives us a propensity to transport it from its ascended situation to the place immediately below it, until we come to the ground.
             ▪ This equally stops the body and our imagination.
     • For a like reason, we feel a difficulty in mounting.
-        ◦ We are reluctant to pass from the lower to the higher situation, as if our ideas acquired a kind of gravity from their objects.
+        ◦ We are reluctant to pass from the lower to the higher situation, as if our ideas acquired a kind of gravity from their objects.
     • As a proof of this, we find that in the cadency of the harmony in music or poetry, the idea of facility communicates to us that of descent, in the same way as descent produces a facility.
 
     • The imagination finds an opposition in its internal qualities and principles in running from low to high.
@@ -104,7 +104,7 @@ When any very distant object is presented to the imagination, we naturally refle
         ◦ determines it to run against the natural stream of its thoughts and conceptions.
     • This aspiring progress of the imagination suits the mind’s present disposition.
         ◦ This difficulty sustains and increases its vigour, instead of extinguishing it.
-    • This is why virtue, genius, power, and riches are associated with height and sublimity, as poverty, slavery, and folly are conjoined with descent and lowness.
+    • This is why virtue, genius, power, and riches are associated with height and sublimity, as poverty, slavery, and folly are conjoined with descent and lowness.
     • Milton represents descent to be adverse with the angels.
         ◦ Angels cannot sink without labour and compulsion.
     • If we were like his angels, this order of things would be entirely inverted.
@@ -114,7 +114,7 @@ When any very distant object is presented to the imagination, we naturally refle
     • All this is easily applied to why a considerable distance in time produces a greater veneration for the distant objects than a like removal in space.
         ◦ The imagination moves with more difficulty in passing from one portion of time to another, than in a transition through the parts of space.
         ◦ Because space or extension appears united to our senses, while time or succession is always broken and divided.
-    • This difficulty interrupts and weakens the fancy, when joined with a small distance.
+    • This difficulty interrupts and weakens the fancy, when joined with a small distance.
         ◦ But it has a contrary effect in a great removal.
     • The mind, elevated by the vastness of its object, is still further elevated by the difficulty of the conception.
         ◦ It is obliged every moment to renew its efforts in the transition from one part of time to another.
@@ -129,7 +129,7 @@ When any very distant object is presented to the imagination, we naturally refle
     • We are not apt to imagine our posterity will excel us, or equal our ancestors.
         ◦ This phenomenon is the more remarkable, because any distance in futurity does not weaken our ideas so much as an equal removal in the past.
         ◦ Though a removal in the past, when very great, increases our passions beyond a like removal in the future.
-            ▪ Yet a small removal has a greater influence in reducing them.
+            ▪ Yet a small removal has a greater influence in reducing them.
 
 ## Effort of the Imagination
 
@@ -159,9 +159,9 @@ The affections mean the same with the passions. But affections:
     • Tranquillity leads us to a mistake concerning them.
         ◦ It causes us to regard them as conclusions only of our intellectual faculties.
     • The causes and effects of these violent and calm passions are pretty variable.
-        ◦ They depend on every individual’s peculiar temper and disposition.
+        ◦ They depend on every individual’s peculiar temper and disposition.
     • The violent passions generally have a more powerful influence on the will.
-        ◦ The calm passions are able to control the violent ones  in their most furious movements, when:
+        ◦ The calm passions are able to control the violent ones  in their most furious movements, when:
             ▪ corroborated by reflection
             ▪ seconded by resolution.
     • A calm passion may easily be changed into a violent one by:

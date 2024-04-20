@@ -1,8 +1,8 @@
 ---
-title: "THE WILL AND DIRECT PASSIONS"
+title: "Pride and Humility"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 image: /covers/treatise.png
-weight: 4
+weight: 2
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

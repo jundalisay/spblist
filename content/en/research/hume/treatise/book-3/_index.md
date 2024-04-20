@@ -1,5 +1,6 @@
 ---
-title: "Book 3"
+heading: "Book 3"
+title: "Morals"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 image: /covers/treatise.png
 weight: 6
@@ -8,3 +9,4 @@ writer:
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: /avatars/hume.png
 ---
+

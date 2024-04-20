@@ -4,7 +4,7 @@ title: "Conclusion Of Book 3"
 description: "The Simplified Treatise of Human Nature by Hume"
 image: /covers/treatise.png
 # date: 2015-x-x
-weight: 6
+weight: 46
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

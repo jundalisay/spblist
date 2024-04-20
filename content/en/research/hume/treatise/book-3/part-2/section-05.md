@@ -1,6 +1,6 @@
 ---
 heading: Section 5
-title: "Promises"
+title: "The Obligation of Promises"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 image: /covers/treatise.png
 # date: 2015-x-x

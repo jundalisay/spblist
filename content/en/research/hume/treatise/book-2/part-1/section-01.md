@@ -1,5 +1,5 @@
 ---
-title: "DIVISION OF THE SUBJECT"
+title: "Division Of The Subject"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 image: /covers/treatise.png
 weight: 4
@@ -65,10 +65,21 @@ In general the passions are more violent than the emotions arising from beauty a
         ◦ I shall take advantage of this vulgar and spacious division, that I may proceed with the greater order.
         ◦ I shall now explain those violent emotions or passions, their nature, origin, causes, and effects.
 
-When we take a survey of the passions, there occurs a division of them into direct and indirect.
-        ◦ Direct passions mean those that arise immediately from good or evil and pain or pleasure.
-            ▪ Examples are desire, aversion, grief, joy, hope, fear, despair and security.
-        ◦ Indirect passions mean those from the same principles, but by the conjunction of other qualities.
-            ▪ Examples are pride, humility, ambition, vanity, love, hatred, envy, pity, malice, generosity, with their dependants.
-    • I cannot presently justify or explain this distinction any further.
+
+When we take a survey of 
+
+The passions are either:
+
+1. Direct
+
+These arise immediately from good or evil and pain or pleasure.
+- Examples are desire, aversion, grief, joy, hope, fear, despair and security.
+
+
+2. Indirect
+
+These arise from the same principles, but by the conjunction of other qualities.
+- Examples are pride, humility, ambition, vanity, love, hatred, envy, pity, malice, generosity, with their dependants.
+
+I cannot presently justify or explain this distinction any further.
 

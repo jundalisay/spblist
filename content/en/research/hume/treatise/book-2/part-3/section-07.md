@@ -1,6 +1,6 @@
 ---
 heading: Section 7
-title: "CONTIGUITY AND DISTANCE IN SPACE AND TIME"
+title: "Contiguity And Distance In Space And Time"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 image: /covers/treatise.png
 weight: 4
@@ -17,9 +17,10 @@ Everything contiguous to us in space or time is conceived with a peculiar force 
 - whatever related to self must also be present to us.
 
 But if an object is so far removed, as to have lost this relation, its idea becomes still fainter and more obscure.
-        ◦ This would, perhaps, require a more particular examination.
 
-    • The imagination can never totally forget the points of space and time which we exist in.
+This would, perhaps, require a more particular examination.
+
+The imagination can never totally forget the points of space and time which we exist in.
         ◦ It receives their frequent advertisements from the passions and senses.
         ◦ No matter how it turns its attention to foreign and remote objects, it needs to reflect on the present at every moment.
     • It is also remarkable, that we:
@@ -33,7 +34,7 @@ But if an object is so far removed, as to have lost this relation, its idea beco
         ◦ hindering the conception from being so intense and continued, as when we reflect on a nearer object.
     • The fewer steps we make to arrive at the object and the smoother the road, the less this reduction of vivacity is felt.
         ◦ But still may be observed more or less in proportion to the degrees of distance and difficulty.
- 
+ 
     • Here then we are to consider two kinds of objects, the contiguous and remote.
         ◦ The contiguous object approaches an impression in force and vivacity, through their relation to ourselves.
         ◦ The remote object appears in a weaker and more imperfect light, through the interruption in our manner of conceiving them.
@@ -42,20 +43,20 @@ But if an object is so far removed, as to have lost this relation, its idea beco
     • Contiguous objects must have an influence much superior to the distant and remote.
         ◦ Accordingly, we commonly find that men are principally concerned about those objects which are not much removed in space or time.
         ◦ They enjoy the present and leave what is afar off, to the care of chance and fortune.
-            ▪ Talk to a man of his condition 30 years hence, and he will not regard you.
+            ▪ Talk to a man of his condition 30 years hence, and he will not regard you.
             ▪ Speak of what is to happen tomorrow, and he will lend you attention.
             ▪ The breaking of a mirror gives us more concern when at home, than the burning of a house abroad, some hundred leagues distant.
- 
+ 
     • Distance in space and time has a considerable effect:
         ◦ on the imagination
         ◦ consequently, on the will and passions, yet the consequence of a removal in space are much inferior to those of a removal in time.
-    • 20 years are certainly a small distance of time compared to what history and even the memory of some may inform them of
+    • 20 years are certainly a small distance of time compared to what history and even the memory of some may inform them of
         ◦ Yet I doubt if 1,000 leagues, or even the greatest distance this globe can admit of, will so remarkably:
             ▪ weaken our ideas
-            ▪ reduce our passions.
-    • A West-Indian merchant will tell you that he is concerned with what happens in Jamaica.
+            ▪ reduce our passions.
+    • A West-Indian merchant will tell you that he is concerned with what happens in Jamaica.
         ◦ Though few extend their views so far into the future, as to dread very remote accidents.
- 
+ 
     • The cause of this phenomenon lies in the different properties of space and time.
     • Without having recourse to metaphysics, anyone may easily observe that space or extension consists of a number of co-existent parts:
         ◦ disposed in a certain order
@@ -71,7 +72,7 @@ But if an object is so far removed, as to have lost this relation, its idea beco
         ◦ separates them in the imagination
         ◦ makes it more difficult for the imagination to trace any long succession or series of events.
     • Every part must appear single and alone.
-        ◦ It cannot regularly enter the fancy without banishing what has been immediately precedent.
+        ◦ It cannot regularly enter the fancy without banishing what has been immediately precedent.
     • By this means any distance in time causes a greater interruption in the thought than an equal distance in space.
         ◦ Consequently, weakens more considerably the idea, and consequently the passions which depend on the imagination, according to my system.
 
@@ -86,7 +87,7 @@ There is another phenomenon of a like nature with the foregoing: the superior ef
         ◦ From the consideration of any object, we pass more easily to the object which follows immediately after it than to that which went before it.
     • We may learn this from the order of historical narrations.
         ◦ Only an absolute necessity can oblige a historian to:
-            ▪ break the order of time in his narration
+            ▪ break the order of time in his narration
             ▪ give the precedence to an event which was really posterior to another.
 
     • A person’s present situation is always that of the imagination.
@@ -114,19 +115,19 @@ There is another cause which:
         ◦ The future will sometimes be present, so the past was once present.
     • If we could remove this quality of the imagination, an equal distance in the past and in the future, would have a similar influence.
         ◦ This true when the fancy:
-            ▪ remains fixed and surveys the future and the past from the present instant
+            ▪ remains fixed and surveys the future and the past from the present instant
             ▪ changes its situation and places us in different periods of time.
     • When we put ourselves in a point in time between between the present instant and the future object, we find:
         ◦ the future object approach to us
         ◦ the past retire and become more distant.
-    • When we put ourselves in a point in time between the present and the past, the past approaches to us and the future becomes more distant.
+    • When we put ourselves in a point in time between the present and the past, the past approaches to us and the future becomes more distant.
         ◦ But from the property of the fancy above-mentioned, we rather choose to fix our thought on the point of time between the present and the future, than on that between the present and the past.
     • We advance rather than retard our existence.
-        ◦ We proceed from past to present and from present to future, following what seems the natural succession of time.
-        ◦ Through this, we conceive:
+        ◦ We proceed from past to present and from present to future, following what seems the natural succession of time.
+        ◦ Through this, we conceive:
             ▪ the future as flowing every moment nearer us
             ▪ the past as retiring.
-    • Therefore, an equal distance in the past and in the future does not have the same effect on the imagination.
+    • Therefore, an equal distance in the past and in the future does not have the same effect on the imagination.
         ◦ Because we consider the one as continually increasing, and the other as continually diminishing.
     • The fancy:
         ◦ anticipates the course of things

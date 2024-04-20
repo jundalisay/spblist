@@ -13,32 +13,39 @@ icon: /avatars/hume.png
 We may assign the 3 reasons for the prevalance of the doctrine of liberty, however absurd it may be in one sense, and unintelligible in any other.
 
 1. After we have performed any action, it is difficult for us to persuade ourselves that:
-        ◦ we were governed by necessity
-        ◦ it was utterly impossible for us to have acted otherwise.
-            ▪ The idea of necessity seems to imply something of force, violence, and constraint we are not sensible of.
-            ▪ Few are capable of distinguishing between:
-                • the liberty of spontaniety and
-                    ◦ This is the most common meaning of liberty.
-                    ◦ Only this kind of liberty concerns us to preserve.
-                    ◦ This is why our thoughts have:
-                        ▪ been principally turned towards it
-                        ▪ almost universally confounded it with the liberty of indifference.
-                • the liberty of indifference.
-                    ◦ This liberty is between the liberty opposed to violence and the liberty negating necessity and causes.
+- we were governed by necessity
+- it was utterly impossible for us to have acted otherwise.
+
+The idea of necessity seems to imply something of force, violence, and constraint we are not sensible of.
+
+Few are capable of distinguishing between:
+- the liberty of spontaniety and
+  - This is the most common meaning of liberty.
+  - Only this kind of liberty concerns us to preserve. This is why our thoughts have:
+    - been principally turned towards it
+    - almost universally confounded it with the liberty of indifference.
+- the liberty of indifference.
+  - This liberty is between the liberty opposed to violence and the liberty negating necessity and causes.
+
 
 2. There is a false sensation or experience even of the liberty of indifference.
-        ◦ This false experience is an argument for the real existence of this liberty.
-        ◦ The necessity of any mental or physical action, is not a quality in the agent.
-            ▪ It is a quality in any thinking being who considers the action.
+
+This false experience is an argument for the real existence of this liberty.
+
+The necessity of any mental or physical action, is not a quality in the agent.
+
+It is a quality in any thinking being who considers the action.
             ▪ This quality consists in the determination of his thought to infer its existence from some preceding objects.
         ◦ Liberty or chance, on the other hand, is nothing but:
-            ▪ the lack of that determination
+            ▪ the lack of that determination
             ▪ a certain looseness we feel in passing or not passing from the idea of one to that of the other.
-        ◦ In reflecting on human actions, we seldom feel such a looseness or indifference.
+
+In reflecting on human actions, we seldom feel such a looseness or indifference.
             ▪ But we are commonly sensible of something like it in performing the actions themselves.
         ◦ All related or resembling objects are readily taken for each other.
             ▪ This has been employed as a demonstrative or even an intuitive proof of human liberty.
-        ◦ We feel that our actions are subject to our will on most occasions.
+
+We feel that our actions are subject to our will on most occasions.
             ▪ We imagine we feel that the will itself is subject to nothing.
             ▪ Because when our actions are denied, we are provoked to try.
                 • We feel that the will:
@@ -65,9 +72,9 @@ The most common and most blamable reasoning in philosophical debates is in refut
     • Any opinion that leads us into absurdities is certainly false.
         ◦ But it is not certain that an opinion is false because it is of dangerous consequence.
     • Such topics, therefore, should entirely be foreborn, as serving nothing to the discovery of truth.
-        ◦ It only makes the antagonist odious.
+        ◦ It only makes the antagonist odious.
     • I submit myself frankly to this kind of examination.
-    • I affirm that my doctrine of necessity is innocent and even advantageous to religion and morality.
+    • I affirm that my doctrine of necessity is innocent and even advantageous to religion and morality.
 
 
 ## Necessity
@@ -83,7 +90,7 @@ I place it either in:
 In both these senses, necessity universally, but tacitly, belongs to man’s will.
 
     • No one has ever denied that:
-        ◦ we can draw inferences on human actions
+        ◦ we can draw inferences on human actions
         ◦ those inferences are founded on the experienced union of like actions with like motives and circumstances.
     • Only those who refuse to call this ‘necessity’ can differ from me.
         ◦ But as long as the meaning is understood, I hope:
@@ -91,7 +98,7 @@ In both these senses, necessity universally, but tacitly, belongs to man’s wil
             ▪ that he will maintain there is something else in the operations of matter.
         ◦ Whether it is so or not is of no consequence to religion, whatever it may be to natural philosophy.
     • I may be mistaken in asserting that we have no idea of any other connection in the actions of body.
-        ◦ I shall be glad to be instructed further on that head.
+        ◦ I shall be glad to be instructed further on that head.
         ◦ But I am sure that I only ascribe what are readily allowed to the actions of the mind.
     • No one should put an invidious construction on my words, by saying that I:
         ◦ assert the necessity of human actions
@@ -106,7 +113,7 @@ I assert that this kind of necessity is so essential to religion and morality.
             ▪ there must ensue an absolute subversion of both
             ▪ every other supposition is entirely destructive to all laws both divine and human.
     • All human laws are founded on rewards and punishments.
-    • It is a fundamental principle that these motives have an influence on the mind.
+    • It is a fundamental principle that these motives have an influence on the mind.
     • Both produce the good and prevent the evil actions.
     • We may give to this influence what name we please.
     • But as it is usually conjoined with the action, common sense requires it should be:
@@ -136,12 +143,12 @@ This reasoning is equally solid when applied to divine laws, so far as the deity
     • According to the hypothesis of liberty, therefore, a man is as pure and untainted, after having committed the most horrid crimes, as at the first moment of his birth.
         ◦ His character is not concerned in his actions in any way, since they are not derived from it.
         ◦ The wickedness of the one can never be used as a proof of the depravity of the other.
-    • A person acquires any merit or demerit from his actions, only on the principles of necessity, however the common opinion may be contrary.
+    • A person acquires any merit or demerit from his actions, only on the principles of necessity, however the common opinion may be contrary.
 
 
-Men are so inconsistent with themselves.
+Men are so inconsistent with themselves.
         ◦ They often assert that necessity utterly destroys all merit and demerit towards mankind or superior powers.
-        ◦ But men continue to reason on these very principles of necessity in all their judgments on this matter.
+        ◦ But men continue to reason on these very principles of necessity in all their judgments on this matter.
     • Men are not blamed for such evil actions as they perform ignorantly and casually, whatever their consequences.
         ◦ Why?
         ◦ Because the causes of these actions:
@@ -165,10 +172,9 @@ Men are so inconsistent with themselves.
         ◦ that liberty and chance are synonymous
         ◦ the nature of moral evidence
         ◦ the regularity of human actions.
-    • Upon a review of these reasonings, I will have an entire victory.
-        ◦ Having proved that all actions of the will have particular causes, I explain:
-            ▪ what these causes are
-            ▪ how they operate.
 
+Upon a review of these reasonings, I will have an entire victory.
 
-
+Having proved that all actions of the will have particular causes, I explain:
+- what these causes are
+- how they operate.

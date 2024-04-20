@@ -1,246 +1,143 @@
-SEC. 8: MALICE AND ENVY
+---
+heading: Section 8
+title: "BEAUTY AND DEFORMITY"
+description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+image: /covers/treatise.png
+weight: 4
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: /avatars/hume.png
+---
 
-Malice imitates the effects of hatred as pity imitates the effects of love.
-    • It gives us a joy in the sufferings and miseries of others, without any offence or injury on their part.
-    • Men are so little governed by reason in their sentiments and opinions.
-        ◦ They always judge more of objects by comparison than from their intrinsic worth and value.
-    • When the mind considers, or is accustomed to perfection, whatever falls short of it has the same effect on the passions as what is defective and ill.
-    • This is an original quality of the soul.
-        ◦ This is similar to what we experience everyday in our bodies.
-    • Let a man heat one band and cool the other.
-        ◦ The same water will seem both hot and cold, according to the disposition of the different organs.
-    • A small degree of any quality, succeeding a greater produces the same sensation:
-        ◦ as if less than it really is
-        ◦ even sometimes as the opposite quality.
-    • Any gentle pain that follows a violent one, seems as nothing, or rather becomes a pleasure.
-        ◦ On the other hand a violent pain, succeeding a gentle one, is doubly grievous and uneasy.
-    • This is the same with our passions and sensations.
-        ◦ But there may arise some difficulty with regard to our ideas and objects.
-    • When an object changes to the eye or imagination from a comparison with others, the image and idea of the object are:
-        ◦ still the same
-        ◦ equally extended in:
-            ▪ the retina
-            ▪ the brain or organ of perception.
-    • The eyes refract the rays of light.
-        ◦ The optic nerves convey the images to the brain in the very same manner.
-        ◦ The imagination does not even alter the dimensions of its object because of a comparison with others.
-    • How can we form such different judgments of the same object from the same impression and idea?
-        ◦ How can we admire its bulk at one time and despise its littleness at another.
-    • This variation in our judgments must certainly proceed from a variation in some perception.
-        ◦ But the variation does not lie in the immediate impression or idea of the object.
-        ◦ It must lie in some other impression that accompanies it.
-    • I shall touch on two principles to explain this matter.
-        ◦ One will be fully explained.
-        ◦ The other has been already accounted for.
-    • I establish a general maxim:
-        ◦ The only objects presented to the senses or images formed in the fancy are those accompanied with some emotion or movement of spirits proportional to it.
-        ◦ No matter how custom makes us insensible of this sensation and cause us to confound it with the object or idea, it will be easy to separate and distinguish them by careful and exact experiments.
-    • In cases of objects of extension and number, the following excite a sensible emotion in the mind:
-        ◦ very bulky objects like the ocean, an extended plain, a vast chain of mountains, a wide forest
-        ◦ very numerous collection of objects, such as an army, a fleet, a crowd.
-    • The admiration arising from such objects, is one of the most lively pleasures human nature is capable of enjoying.
-        ◦ This admiration changes with the change of the objects.
-    • According to principles in Book 1, Part 3, Sec. 15, a compound effect from the conjunction of the several effects arises from each part of the cause.
-        ◦ Every part of extension and every unite of number has a separate emotion attending it.
-            ▪ Though that emotion is not always agreeable.
-            ▪ Yet it contributes to produce admiration by its:
-                • conjunction with others
-                • agitating the spirits to a just pitch.
-    • If this is allowed with respect to extension and number, we can make no difficulty with respect to:
-        ◦ virtue and vice
-        ◦ wit and folly
-        ◦ riches and poverty
-        ◦ happiness and misery
-        ◦ other objects which are always attended with an emotion.
-    • The second principle is our adherence to general rules.
-        ◦ This has such a mighty influence on the actions and understanding.
-        ◦ It is able to impose on the very senses.
-    • When an object is always accompanied with another, we naturally conceive the second object when the first object appears, even if the first object is changed in very material circumstances,
-        ◦ We form an idea of it in as lively and strong a way, as if we had inferred its existence by our understanding’s most authentic conclusion.
-        ◦ Nothing can undeceive us, not even our senses.
-        ◦ Instead of our senses correcting this false judgment, they:
-            ▪ are often perverted by it
-            ▪ seem to authorize its errors.
-    • My conclusion from these two principles is very short and decisive.
-        ◦ Every object is attended with some emotion proportioned to it.
-        ◦ A great object is attended with a great emotion.
-        ◦ A small object, with a small emotion.
-    • A great object succeeding a small one, therefore makes a great emotion succeed a small one.
-        ◦ A great emotion succeeding a small one:
-            ▪ becomes still greater
-            ▪ rises beyond its ordinary proportion.
-    • There is an emotion commonly attending every magnitude of an object.
-        ◦ When the emotion increases, we naturally imagine that the object has likewise increased.
-        ◦ The effect conveys our view to its usual cause, a certain degree of emotion to a certain magnitude of the object.
-        ◦ We do not consider that comparison may change the emotion without changing anything in the object.
-    • This whole operation will be easily conceived by those who:
-        ◦ are acquainted with the metaphysical part of optics
-        ◦ know how we transfer the judgments and conclusions of the understanding to the senses.
-    • We leave this new discovery of an impression that secretly attends every idea.
-        ◦ This discovery arose from that principle.
-        ◦ We must allow, in that principle, that objects appear greater or less by a comparison with others.
-    • We have so many instances of this.
-        ◦ It is impossible we can dispute its veracity.
-        ◦ I derive malice and envy from this principle.
-    • We must receive satisfaction or uneasiness from reflecting on our own condition and circumstances.
-        ◦ This must be in proportion as our condition appears fortunate or unhappy, in proportion to the riches and power, and merit and reputation, which we think we have.
-    • We seldom judge of objects from their intrinsic value.
-        ◦ Instead we form our notions of them from a comparison with other objects.
-        ◦ It follows that as we observe a share of happiness or misery in others, we must:
-            ▪ estimate it in our own
-            ▪ feel a consequent pain or pleasure.
-    • The misery of another gives us a more lively idea of our happiness.
-        ◦ This produces delight.
-    • His happiness gives us a more lively idea of our misery.
-        ◦ The latter produces uneasiness.
-    • Here then is a kind of reversed pity or contrary sensations arising in the beholder, from those which are felt by the person, whom he considers.
-    • In general, all kinds of comparison an object makes us always receive from another, to which it is compared, a sensation contrary to what arises from itself in its direct and immediate survey.
-        ◦ A small object makes a great one appear still greater.
-        ◦ A great object makes a little one appear less.
-    • Deformity of itself produces uneasiness.
-        ◦ But it makes us receive new pleasure by its contrast with a beautiful object, whose beauty is augmented by it.
-    • Beauty itself produces pleasure.
-        ◦ But it makes us receive a new pain by the contrast with any thing ugly, whose deformity it augments.
-    • The case must be the same with happiness and misery.
-        ◦ The direct survey of another’s pleasure naturally gives us pleasure.
-        ◦ It therefore produces pain when cornpared with our own.
-    • His pain, considered in itself, is painful to us.
-        ◦ But it:
-            ▪ augments the idea of our own happiness
-            ▪ gives us pleasure.
-    • It is not strange that we may feel a reversed sensation from the happiness and misery of others.
-        ◦ Since the same comparison may:
-            ▪ give us malice against ourselves
-            ▪ make us:
-                • rejoice for our pains
-                • grieve for our pleasures.
-    • Thus, the prospect of past pain is agreeable, when we are satisfied with our present condition.
-        ◦ On the other hand, our past pleasures give us uneasiness when we enjoy nothing at present equal to them.
-    • The comparison being the same, as when we reflect on the sentiments of others, must be attended with the same effects.
-    • A person may:
-        ◦ extend this malice against himself, even to his present fortune
-        ◦ carry this malice so far to:
-            ▪ seek affliction
-            ▪ increase his pains and sorrows.
-    • This may happen on two occasions.
-        ◦ On the distress and misfortune of a friend or person dear to him.
-        ◦ On the feeling any remorse for a crime he has been guilty of.
-            ▪ These irregular appetites for evil arise from the principle of comparison.
-    • A person who indulges in any pleasure, while his friend is under affliction, feels his friend’s reflected uneasiness more sensibly by a comparison with the original pleasure he himself enjoys.
-        ◦ This contrast should also enliven the present pleasure.
-        ◦ Grief is here supposed to be the predominant passion.
-            ▪ Every addition:
-                • falls to that passion
-                • is swallowed up in that passion, without operating on the contrary affection.
-    • It is the same case with those penances which men inflict on themselves for their past sins and failings.
-        ◦ When a criminal reflects on the punishment he deserves, its idea is magnified by a comparison with his present ease.
-            ▪ This forces him to seek uneasiness to avoid so disagreeable a contrast.
-    • This reasoning will account for the origin of envy and malice.
-        ◦ The only difference between them is that:
-            ▪ envy is excited by some present enjoyment of another person.
-                • By comparison, this reduces our idea of our own enjoyment.
-            ▪ malice is the unprovoked desire of producing evil to another to reap a pleasure from the comparison.
-        ◦ The enjoyment is the object of envy.
-            ▪ It is commonly superior to our own.
-    • A superiority naturally:
-        ◦ seems to overshadow us
-        ◦ presents a disagreeable comparison.
-    • But even in the case of an inferiority, we still desire a greater distance to further augment the idea of our self.
-        ◦ When this distance reduces, the comparison:
-            ▪ is less to our advantage
-            ▪ consequently gives us less pleasure
-            ▪ is even disagreeable.
-    • Hence arises that species of envy which men feel when they perceive their inferiors approaching or overtaking them in glory or happiness.
-        ◦ We may see the effects of comparison twice repeated in this envy.
-    • A man who compares himself to his inferior, receives a pleasure from the comparison.
-        ◦ When the inferiority decreases by the inferior’s elevation, what was supposed to have been a  decrease of pleasure, becomes a real pain through a new comparison with its preceding condition.
-    • The great disproportion between our self and another person does not produce the envy from a superiority in others.
-        ◦ On the contrary, it is our proximity.
-    • A common soldier bears no such envy to his general as to his sergeant or corporal.
-        ◦ An eminent writer does not have so great jealousy in common hackney scribblers, as in authors who more nearly approach him.
-    • It may be thought that the greater the disproportion, the greater the uneasiness from the comparison.
-        ◦ But on the other hand, the great disproportion:
-            ▪ cuts off the relation
-            ▪ keeps us from comparing ourselves with what is remote from us, or diminishes the effects of the comparison.
-    • Resemblance and proximity always produce a relation of ideas.
-        ◦ Accidents may bring two ideas together.
-        ◦ But accidents have no bond or connecting quality to join the ideas in the imagination.
-            ▪ If you destroy these ties, the ideas cannot:
-                • remain united long, or
-                • have any considerable influence on each other.
-    • I have observed in considering the nature of ambition, that the great feel a double pleasure in authority from comparing their own condition with that of their slaves.
-    • This comparison has a double influence because it is:
-        ◦ natural
-        ◦ presented by the subject.
-    • When the fancy, in the comparison of objects, does not pass easily from the one object to the other, the action of the mind is broken.
-        ◦ The fancy, in considering the second object, begins on a new footing.
-    • The impression attending every object is not greater in that case by succeeding a less of the same kind.
-        ◦ But these two impressions:
-            ▪ are distinct
-            ▪ produce their distinct effects, without any communication together.
-    • The lack of relation in the ideas breaks the relation of the impressions.
-        ◦ By such a separation prevents their mutual operation and influence.
- 
-    • To confirm this we may observe, that the proximity in the degree of merit is not alone sufficient to give rise to envy, but must be assisted by other relations.
-        ◦ A poet is not apt to envy a philosopher, or a poet of a different kind, of a different nation, or of a different age.
-    • All these differences prevent or weaken the comparison, and consequently the passion.
- 
-    • This is also why all objects appear great or little, merely by a comparison with those objects of the same species.
-    • A mountain does not magnify nor reduce a horse in our eyes.
-        ◦ But when a Flemish and a Welsh horse are seen together, one appears greater and the other less, than when viewed apart.
- 
-    • From this principle is why historians remark that any party in a civil war always chooses to call in a foreign enemy at any hazard rather than submit to their fellow-citizens.
-        ◦ Guicciardin applies this remark to the wars in Italy.
-        ◦ The relations between the different Italian states then were just of name, language, and contiguity.
-        ◦ When joined with superiority, these relations:
-            ▪ make the comparison more natural and grievous
-            ▪ cause men to search for some other unrelated superiority which will have a less sensible influence on the imagination.
-    • The mind quickly perceives its advantages and disadvantages.
-        ◦ It finds its situation most uneasy when superiority is conjoined with other relations.
-        ◦ It seeks its repose as much as possible, by:
-            ▪ separating them
-            ▪ breaking that association of ideas, which renders the comparison more natural and effective.
-        ◦ When it cannot break the association, it feels a stronger desire to remove the superiority.
-    • This is why travelers are commonly so lavish of their praises to the Chinese and Persians, while they depreciate their neighbouring, but rival nations.
-    • These examples from history and common experience are rich and curious.
-    • We may find parallel ones in the arts, which are no less remarkable.
-        ◦ If an author compose a treatise with one part serious and profound, and another light and humorous, everyone would:
-            ▪ condemn such a strange mixture
-            ▪ accuse him of neglecting all rules of art and criticism.
-    • These rules of art are founded on the qualities of human nature.
-        ◦ The quality which prevents the mind from immediately passing from one disposition to a different one, is the quality which requires a consistency in every performance.
-    • Yet this does not make us blame Mr. Prior, an admirable poet, for joining his Alma and his Solomon in the same volume.
-        ◦ He has succeeded perfectly well in Alma’s gaiety and Solomon’s melancholy.
-        ◦ Even if you read these two compositions without any interval, you would feel little difficulty in the change of passions.
-        ◦ Because these performances as considered as entirely different.
-            ▪ This break in the ideas:
-                • breaks the progress of the affections
-                • hinders the one from influencing or contradicting the other.
- 
-    • A heroic and burlesque design, united in one picture, would be monstrous.
-    • Though we place two pictures of so opposite a character next to each other in the same room without any difficulty.
- 
-    • No ideas can affect each other by comparison or by the passions they separately produce, unless they are united together by some relation which may:
-        ◦ cause an easy transition of:
-            ▪ the ideas
-            ▪ the emotions or impressions attending the ideas
-        ◦ may preserve the one impression in the imagination’s passage to the other.
-    • This principle is very remarkable because it is analogous to what we have observed concerning the understanding and the passions.
-    • Suppose two objects are presented to me, unconnected by any relation.
-        ◦ Suppose that:
-            ▪ each of these objects separately produces a passion
-            ▪ these two passions are contrary in themselves.
-        ◦ We find from experience, that the:
-            ▪ lack of relation in the objects or ideas hinders the natural contrariety of the passions
-            ▪ break in the thought’s transition:
-                • removes the affections from each other
-                • prevents their opposition.
- 
-    • It is the same case with comparison.
-    • From both these phenomena we conclude, that the relation of ideas must forward the transition of impressions.
-        ◦ Since its absence alone is able to:
-            ▪ prevent it
-            ▪ separate what naturally should have operated on each other.
-    • When the absence of an object or quality removes any usual or natural effect, we may certainly conclude that its presence contributes to the production of the effect.
 
+The body is connected with us to form one of the double relations which causes pride and humility. whether we consider the body as:
+- a part of ourselves, or
+- something external.
+
+Wherever we can find the other relation of impressions to join to the relation of ideas, we can be assured of pride or humility, depending on the pleasantness or uneasiness of the impression.
+
+All kinds of beauty give us a peculiar delight and satisfaction, as deformity produces pain, whatever it may be placed on, whether on an animate or inanimate object.
+        ◦ If the beauty or deformity were placed on our own bodies, this pleasure or uneasiness must be converted into pride or humility.
+        ◦ In this case, it has all the circumstances needed to produce a perfect transition of impressions and ideas.
+
+These opposite sensations are related to the opposite passions.
+    • The beauty or deformity is closely related to self.
+        ◦ No wonder our own beauty becomes an object of pride, and deformity of humility.
+    • The passions in this case do not arise without all the circumstances I required.
+    • This effect of personal and bodily qualities:
+        ◦ is a proof of the present system
+        ◦ may be employed as a stronger and more convincing argument.
+
+Beauty is an order and construction of parts that is fitted to give a pleasure and satisfaction to the soul, through:
+- the primary constitution of our nature
+- custom, or
+- caprice.
+
+This is the distinguishing character of beauty.
+        ◦ It forms all the difference between beauty and deformity.
+        ◦ Deformity’s natural tendency is to produce uneasiness.
+    • All hypotheses formed by philosophy or common reason to explain the difference between beauty and deformity resolve into this.
+    • Pleasure and pain:
+        ◦ are necessary attendants of beauty and deformity
+        ◦ constitute their very essence.
+    • A great part of the beauty we admire in animals or objects is derived from the idea of convenience and utility.
+        ◦ The shape which produces strength, is beautiful in one animal.
+            ▪ That shape which is a sign of agility is beautiful in another.
+        ◦ A palace’s order and convenience are essential to its beauty as its mere figure and appearance.
+        ◦ The rules of architecture require that the top of a pillar be more slender than its base.
+            ▪ Such a figure conveys to us the idea of security, which is pleasant.
+            ▪ The contrary form gives us the apprehension of danger, which is uneasy.
+    • Beauty, like wit, cannot be defined.
+        ◦ It is discerned only by a taste or sensation.
+    • From these considerations and innumerable instances of this kind, we conclude, that:
+        ◦ beauty is nothing but a form which produces pleasure.
+        ◦ deformity is a structure of parts which conveys pain.
+    • The power of producing pain and pleasure form the essence of beauty and deformity.
+        ◦ All the effects of beauty and deformity must be derived from the sensation.
+            ▪ Pride and humility are the most common and remarkable of these effects.
+    • This argument is just and decisive.
+        ◦ But let us suppose it false for a moment, and see what will follow.
+    • If the power of producing pleasure and pain does not form the essence of beauty and deformity, the sensations are at least inseparable from the qualities.
+        ◦ It is even difficult to consider them apart.
+    • Only this power of producing pleasure is common to natural and moral beauty.
+        ◦ Both of these are the causes of pride.
+        ◦ A common effect always supposes a common cause.
+        ◦ The pleasure must in both cases be the real and influencing cause of the passion.
+    • The only original difference between the beauty of our bodies and the beauty of external and foreign objects is that the former has a near relation to ourselves, which is lacking in the other.
+        ◦ Therefore, this original difference must be the cause of:
+            ▪ all their other differences
+            ▪ their different influence on the pride excited by our beauty.
+                • This kind of personal pride is not affected by the beauty of foreign and external objects.
+    • These two conclusions together compose the preceding system, that pleasure, as a related or resembling impression, when placed on a related object by a natural transition, produces pride and its contrary, produces humility.
+        ◦ This system seems already confirmed by experience.
+        ◦ But we have not yet exhausted all our arguments.
+    • The body’s beauty, strength, and force produce pride.
+        ◦ Strength is a kind of power; and therefore the desire to excel in strength is to be considered as an inferior species of ambition.
+    • For this reason, the present phenomenon will be sufficiently accounted for in explaining that passion.
+    • Our bodily features which are useful, beautiful, or surprising, are objects of pride.
+        ◦ Those that are contrary are objects of humility.
+    • Everything useful, beautiful or surprising, agrees:
+        ◦ in producing a separate pleasure
+        ◦ in nothing else.
+    • Therefore, the pleasure with the relation to the self must be the cause of the passion.
+    • It may be questioned whether beauty is:
+        ◦ not soxmething real
+        ◦ different from the power of producing pleasure.
+    • Surprise is merely a pleasure arising from novelty.
+        ◦ Beauty is not a quality in any object.
+        ◦ It is merely a passion or impression in the soul.
+    • Therefore, pride arises from a natural transition from beauty.
+        ◦ It arises so naturally.
+        ◦ Nothing in us or belonging to us produces surprise, that does not excite that other passion at the same time.
+    • Thus we are vain of the surprising adventures we have met with, the escapes we have made, and dangers we have been exposed to.
+    • Hence the origin of vulgar lying.
+        ◦ Men without any interest, and merely out of vanity, heap up a number of extraordinary events which:
+            ▪ are the fictions of their brain, or
+            ▪ if true, are unconnected with themselves.
+    • Their fruitful invention supplies them with a variety of adventures.
+    • Where that talent is lacking, they appropriate such as belong to others to satisfy their vanity.
+    • Two curious experiments are contained in this phenomenon.
+    • We judge of cause and effect in anatomy, natural philosophy, and other sciences by known rules.
+    • If we compare these two experiments according to known rules, this will be an undeniable argument for that influence of the double relations mentioned above.
+        ◦ By one of these experiments we find, that an object produces pride merely by the interposition of pleasure because the quality, by which it produces pride, is in reality nothing but the power of producing pleasure.
+        ◦ By the other experiment we find, that the pleasure produces the pride by a transition along related ideas; because when we cut off that relation the passion is immediately destroyed..
+    • A surprising adventure, which we have been in, is related to us.
+        ◦ It produces pride because of the relation.
+    • But the adventures of others which may cause pleasure, never excites pride because of the lack of this relation of ideas.
+    • What farther proof can be desired for the present system?
+    • There is only one objection to this system with regard to our body.
+        ◦ Nothing is more agreeable than health and more painful than sickness.
+        ◦ Yet men commonly are neither proud of the one, nor mortified with the other.
+    • This will easily be accounted for if we consider the second and fourth limitations, proposed to our general system.
+        ◦ No object ever produces pride or humility, if it does not have something peculiar to ourself.
+        ◦ Every cause of pride or humility must be constant and must hold some proportion to the duration of our self, which is its object.
+    • Health and sickness vary incessantly to all.
+        ◦ No one is solely or certainly fixed in health of sickness.
+        ◦ These accidental blessings and calamities are:
+            ▪ separated from us
+            ▪ never considered as connected with our being and existence.
+    • A terminal illness becomes an object of humility.
+        ◦ Nothing mortifies old men more than the consideration of their age and infirmities.
+    • They endeavour, as long as possible, to conceal their blindness and deafness, rheums and gouts.
+        ◦ They confess them with reluctance and uneasiness.
+    • Young men are not ashamed of every headache or cold.
+        ◦ Our susceptibility to such infirmities properly:
+            ▪ mortifies human pride
+            ▪ makes us entertain a mean opinion of our nature.
+    • This  proves that bodily pain and sickness are in themselves proper causes of humility.
+        ◦ The custom of estimating everything by comparison more than by its intrinsic value, makes us overlook these calamities.
+        ◦ These calamities:
+            ▪ are incident to everyone
+            ▪ causes us to form an idea of our merit and character independent of them.
+
+We are ashamed of maladies that affect others and are dangerous or disagreeable to them.
+
+We are ashamed of:
+        ◦ epilepsy, because it gives a horror to everyone present
+        ◦ the itch, because it is infectious
+        ◦ tuberculosis in children, because it commonly goes to posterity.
+    • Men always consider the sentiments of others in their judgment of themselves.
+        ◦ This has appeared in some of the foregoing reasonings.
+        ◦ It will appear more, and will be more fully explained afterwards.
 

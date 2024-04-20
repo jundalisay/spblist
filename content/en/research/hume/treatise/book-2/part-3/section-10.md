@@ -1,12 +1,25 @@
-SECT. 10: CURIOSITY, OR THE LOVE OF TRUTH
+---
+heading: Section 10
+title: "CURIOSITY, OR THE LOVE OF TRUTH"
+description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+image: /covers/treatise.png
+weight: 4
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: /avatars/hume.png
+---
 
-    • I think we would be a little inattentive to run over the human mind without once considering that love of truth, which was the first source of all our inquiries.
-    • We should:
+
+I think we would be a little inattentive to run over the human mind without once considering that love of truth, which was the first source of all our inquiries.
+
+We should:
         ◦ bestow a few reflections on curiosity
         ◦ show its origin in human nature.
-    • It is such a peculiar an affection.
+
+It is such a peculiar an affection.
         ◦ It would have been impossible to have treated of it under any previous heading, without danger of obscurity and confusion.
- 
+ 
     • Truth is of two kinds, consisting in:
         ◦ the discovery of the proportions of ideas or
         ◦ the conformity of our ideas of objects to their real existence.
@@ -18,18 +31,18 @@ SECT. 10: CURIOSITY, OR THE LOVE OF TRUTH
     • In an arithmetical operation, both the truth and the assurance are of the same nature, as in the most profound algebraic problem.
         ◦ In it, the pleasure is very inconsiderable, if it does not degenerate into pain.
         ◦ This is a proof that our satisfaction from the discovery of truth, does not proceed from its mere discovery, but only as endowed with certain qualities.
- 
-    • The first and most considerable circumstance needed to render truth agreeable, is the genius and capacity employed in its invention and discovery.
+ 
+    • The first and most considerable circumstance needed to render truth agreeable, is the genius and capacity employed in its invention and discovery.
         ◦ What is easy and obvious is never valued.
         ◦ Even what is difficult is but little regarded if we come to know it without:
             ▪ difficulty
             ▪ any stretch of thought or judgment.
     • We love to trace the demonstrations of mathematicians.
-        ◦ But we receive small entertainment from a person who barely informs us of the proportions of lines and angles, even if we have the utmost confidence in his judgment and veracity.
+        ◦ But we receive small entertainment from a person who barely informs us of the proportions of lines and angles, even if we have the utmost confidence in his judgment and veracity.
             ▪ In this case, it is enough to have ears to learn the truth.
-    • We are never obliged to fix our attention or exert our genius.
+    • We are never obliged to fix our attention or exert our genius.
         ◦ This is the most pleasant and agreeable of all the other exercises of the mind.
- 
+ 
     • The exercise of genius is the principal source of the satisfaction we receive from the sciences.
         ◦ I doubt if it alone is sufficient to give us any considerable enjoyment.
     • The truth we discover must also be of some importance.
@@ -50,7 +63,7 @@ SECT. 10: CURIOSITY, OR THE LOVE OF TRUTH
         ◦ were of no consequence
         ◦ had consequences entirely indifferent to them.
             ▪ This is a contradiction.
- 
+ 
     • To remove this contradiction, we must consider that there are certain desires and inclinations which:
         ◦ go no farther than the imagination
         ◦ are rather the faint shadows and images of passions, than any real affections.
@@ -61,7 +74,7 @@ SECT. 10: CURIOSITY, OR THE LOVE OF TRUTH
                 • arises from the utility, not the form of the objects.
                 • is only a sympathy with the inhabitants who benefit from the fortifications.
         ◦ Though it is possible, that he may have no kindness for them or may even hate them, as a stranger or enemy.
- 
+ 
     • It may be objected that:
         ◦ such a remote sympathy is a very slight foundation for a passion
         ◦ so much industry and application, as we frequently observe in philosophers, can never be derived from so inconsiderable an original.
@@ -89,7 +102,7 @@ SECT. 10: CURIOSITY, OR THE LOVE OF TRUTH
     • A man of the greatest fortune and the farthest from avarice takes a pleasure in hunting patridges and pheasants.
         ◦ He feels no satisfaction in shooting crows and magpies because he considers:
             ▪ patridges and pheasants fit for the table
-            ▪ crows and magpies as useless.
+            ▪ crows and magpies as useless.
     • The utility or importance of itself causes no real passion.
         ◦ It is only needed to support the imagination.
         ◦ The same person who overlooks a ten times greater profit in any other subject, is pleased to bring home six woodcocks or plovers, after having hunted them for several hours.
@@ -106,10 +119,10 @@ SECT. 10: CURIOSITY, OR THE LOVE OF TRUTH
         ◦ Since many leave a sure gain for this entertainment.
     • It is not derived from the game alone.
         ◦ Since the same persons have no satisfaction, when they play for nothing.
-    • It proceeds from both these causes united.
+    • It proceeds from both these causes united.
         ◦ Though separately, they have no effect.
     • It is here, as in certain chemical preparations, where the mixture of two clear and transparent liquids produces a third opaque and coloured liquid.
- 
+ 
     • Our interest in any game engages our attention, without which we can have no enjoyment.
     • Once our attention is engaged, the difficulty, variety, and sudden reverses of fortune, further interests us.
         ◦ Our satisfaction arises from that concern.
@@ -120,7 +133,7 @@ SECT. 10: CURIOSITY, OR THE LOVE OF TRUTH
                 • They are:
                     ◦ entered into with facility
                     ◦ agreeable to the imagination.
- 
+ 
     • The same theory that accounts for the love of truth in mathematics and algebra may be extended to morals, politics, natural philosophy, and other studies.
         ◦ In these, we consider the real connections and existence of ideas, not their other abstract relations of ideas.
     • The love of knowledge displays itself in the sciences.
@@ -144,9 +157,9 @@ SECT. 10: CURIOSITY, OR THE LOVE OF TRUTH
         ◦ Its certainty prevents uneasiness by:
             ▪ fixing one particular idea in the mind
             ▪ keeping it from wavering in the choice of its objects.
-    • The following is a conspicuous quality of human nature that is common to the mind and body.
+    • The following is a conspicuous quality of human nature that is common to the mind and body.
         ◦ A change that is too sudden and violent is unpleasant to us.
-        ◦ No matter how objects may be indifferent in themselves, their alteration gives uneasiness.
+        ◦ No matter how objects may be indifferent in themselves, their alteration gives uneasiness.
     • It is the nature of doubt to:
         ◦ cause a variation in the thought
         ◦ transport us suddenly from one idea to another

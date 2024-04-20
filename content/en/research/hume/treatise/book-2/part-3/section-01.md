@@ -1,6 +1,6 @@
 ---
 heading: Section 1
-title: "LIBERTY AND NECESSITY"
+title: "Liberty And Necessity"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 image: /covers/treatise.png
 weight: 4
@@ -19,7 +19,7 @@ The direct passions are the impressions arising immediately from good or evil, f
 
 The most remarkable of the immediate effect of pain and pleasure is the WILL.
 - The will is not one of the passions.
-- Yet the full understanding of its nature and properties is necessary to explain the passions.
+- Yet the full understanding of its nature and properties is necessary to explain the passions.
 
 I mean ‘will’ as nothing but the internal impression we feel and are conscious of when we knowingly create any new:
 - motion of our body, or
@@ -27,20 +27,20 @@ I mean ‘will’ as nothing but the internal impression we feel and are conscio
 
 Like pride and humility, love and hatred, it is impossible to define ‘will’.
         ◦ We shall cut off all those complex definitions and distinctions made by philosophers.
-        ◦ We shall instead examine that long disputed question on liberty and necessity.
+        ◦ We shall instead examine that long disputed question on liberty and necessity.
             ▪ This occurs so naturally in treating of the will.
 
 The operations of external bodies are necessary.
         ◦ There are no traces of indifference or liberty in:
             ▪ the communication of their motion
-            ▪ their attraction and mutual cohesion.
+            ▪ their attraction and mutual cohesion.
     • Every object is determined by an absolute fate to a certain degree and direction of its motion.
-        ◦ It can no more depart from its precise line of movement, than it can convert itself into an angel, spirit, or any superior substance.
+        ◦ It can no more depart from its precise line of movement, than it can convert itself into an angel, spirit, or any superior substance.
     • Therefore, the actions of matter are instances of necessary actions.
         ◦ Whatever is in this respect on the same footing with matter, must be acknowledged to be necessary.
-    • We shall examine matter so that we may know:
-        ◦ whether this is the case with the mind’s actions.
-        ◦ why we conclude one body or action to be the infallible cause of another, considering the necessity of its operations.
+    • We shall examine matter so that we may know:
+        ◦ whether this is the case with the mind’s actions.
+        ◦ why we conclude one body or action to be the infallible cause of another, considering the necessity of its operations.
 
 The ultimate connection of any objects is discoverable by our senses or by reason in no single instance.
         ◦ We can never penetrate so far into the essence and construction of bodies, as to perceive the principle of their mutual influence.
@@ -58,14 +58,14 @@ The ultimate connection of any objects is discoverable by our senses or by reaso
     • We do not discover their connection by any insight into the essence of bodies.
         ◦ The absence of this insight, while the union and inference remain, will never remove the necessity.
     • The observation of the union which produces the inference.
-        ◦ It might be sufficient to prove a constant union in the mind’s actions to establish the inference, along with their necessity.
+        ◦ It might be sufficient to prove a constant union in the mind’s actions to establish the inference, along with their necessity.
     • I shall examine these particulars apart to give my reasoning more force.
-        ◦ I shall first prove that our actions have a constant union with our motives, tempers, and circumstances, before I consider our inferences from them.
+        ◦ I shall first prove that our actions have a constant union with our motives, tempers, and circumstances, before I consider our inferences from them.
 
 A very general view of common human affairs will be sufficient to prove this.
 
 Whether we consider mankind according to the difference of sexes, ages, governments, conditions, or educational methods, the same uniformity and regular operation of natural principles are discernible.
-        ◦ Like causes still produce like effects; in the same manner as in the mutual action of the elements and powers of nature.
+        ◦ Like causes still produce like effects; in the same manner as in the mutual action of the elements and powers of nature.
 
 There are different trees which regularly produce fruit, whose relish is different from each other.
         ◦ This regularity is an instance of necessity and causes in external bodies.
@@ -74,7 +74,7 @@ There are different trees which regularly produce fruit, whose relish is differe
         ◦ Women are distinguished by their delicacy and softness.
 
     • Are the changes of our body from infancy to old age more regular and certain than those of our mind and conduct?
-    • Would a man expecting a four-year old infant to lift a 300 pound weight, be more ridiculous than a man who expects an infant to look for a philosophical reasoning, or a prudent and well-concerted action?
+    • Would a man expecting a four-year old infant to lift a 300 pound weight, be more ridiculous than a man who expects an infant to look for a philosophical reasoning, or a prudent and well-concerted action?
 
     • The cohesion of the parts of matter arises from natural and necessary principles, whatever difficulty we may find in explaining them.
         ◦ We must allow that:
@@ -82,14 +82,14 @@ There are different trees which regularly produce fruit, whose relish is differe
             ▪ our reason in the latter case is better than even that in the former.
                 • Because we:
                     ◦ observe that men always seek society
-                    ◦ can explain the principles of this universal propensity.
-    • Is it more certain that two flat pieces of marble will unite together, than a young male and female savage will copulate?
+                    ◦ can explain the principles of this universal propensity.
+    • Is it more certain that two flat pieces of marble will unite together, than a young male and female savage will copulate?
         ◦ Do the children from this copulation arise more uniformly, than the parents who care for their safety?
         ◦ After they have grown up, are the inconveniencies in their separation from their parents more certain than their:
             ▪ foresight of these inconveniencies
-            ▪ avoidance through a close union and confederacy?
+            ▪ avoidance through a close union and confederacy?
 
-The skin, pores, muscles, nerves, sentiments, actions and manners of a day-labourer are different from those of a man of quality.
+The skin, pores, muscles, nerves, sentiments, actions and manners of a day-labourer are different from those of a man of quality.
         ◦ The different stations of life influence the whole external and internal fabric.
         ◦ Different stations arise necessarily and uniformly from the necessary and uniform principles of human nature.
     • Men cannot:
@@ -98,13 +98,13 @@ The skin, pores, muscles, nerves, sentiments, actions and manners of a day-labo
             ▪ Government makes a distinction of property.
                 • It establishes the different ranks of men.
     • This produces industry, traffic, manufactures, law-suits, war, leagues, alliances, voyages, travels, cities, fleets, ports, and all those other actions and objects, which cause such a diversity.
-        ◦ It also maintains such an uniformity in human life.
+        ◦ It also maintains such an uniformity in human life.
 
-Few people would believe a traveler telling us about a climate in the 50th degree of northern latitude where all the fruits:
+Few people would believe a traveler telling us about a climate in the 50th degree of northern latitude where all the fruits:
 - ripen in the winter
 - decay in the summer, contrary to that of England
 
-A traveler would have little credit if he tells us of people exactly of the same with those in Plato’s republic or those in Hobbes’s Leviathan.
+A traveler would have little credit if he tells us of people exactly of the same with those in Plato’s republic or those in Hobbes’s Leviathan.
 
 There is a general course of nature in:
 - human actions
@@ -114,9 +114,9 @@ There are also characters peculiar to different nations and persons, as well as 
         ◦ The knowledge of these characters is founded on the observation of an uniformity in their actions.
         ◦ This uniformity forms the very essence of necessity.
 
-The only way to elude this argument is to deny that uniformity of human actions on which it is founded.
+The only way to elude this argument is to deny that uniformity of human actions on which it is founded.
 
-As long as actions have a constant union and connection with the agent’s situation and temper, we really allow the thing. no matter bow we may refuse to acknowledge the necessity.
+As long as actions have a constant union and connection with the agent’s situation and temper, we really allow the thing. no matter bow we may refuse to acknowledge the necessity.
 
 Some might find a pretext to deny this regular union and connection.
         ◦ For what is more capricious than human actions?
@@ -180,12 +180,12 @@ The same kind of reasoning runs through politics, war, commerce, economy.
         ◦ A man who orders his dinner, does not doubt the obedience of his servants.
     • In short, nothing more nearly interests us than our own actions and those of others.
         ◦ Most of our reasonings is employed in judgements concerning them.
-    • Whoever reasons after this manner, does ipso facto believe:
+    • Whoever reasons after this manner, does ipso facto believe:
         ◦ the actions of the will to arise from necessity
         ◦ that he does not know what he means when he denies it.
 
     • All the objects we call the cause and effect are as distinct and separate from each other as any two things in nature,
-        ◦ We can never infer the existence of the  one from the existence of the other.
+        ◦ We can never infer the existence of the  one from the existence of the other.
     • It is only from experience and the observation of their constant union that we are able to form this inference.
         ◦ The inference is nothing but the effects of custom on the imagination.
     • We must not be content with saying that the idea of cause and effect arises from objects constantly united.
@@ -198,7 +198,7 @@ The same kind of reasoning runs through politics, war, commerce, economy.
             ▪ Though perhaps we may avoid those expressions.
     • Motion in one body in all past instances that have fallen under our observation, is followed on impulse by motion in another.
         ◦ It is impossible for the mind to penetrate further.
-    • From this constant union, the mind forms the idea of cause and effect.
+    • From this constant union, the mind forms the idea of cause and effect.
         ◦ By its influence, the mind feels the necessity.
     • As there is the same constancy and influence in moral evidence, I ask no more.
         ◦ What remains can only be a dispute of words.
@@ -213,7 +213,7 @@ The same kind of reasoning runs through politics, war, commerce, economy.
         ◦ the constancy and fidelity of his guards
         ◦ the operation of the ax.
     • His mind runs along a train of ideas:
-        ◦ the soldiers’ refusal to let him escape
+        ◦ the soldiers’ refusal to let him escape
         ◦ the executioner’s action
         ◦ the separation of the head and body
             ▪ bleeding, convulsive motions, and death.
@@ -221,10 +221,10 @@ The same kind of reasoning runs through politics, war, commerce, economy.
 
 But the mind feels no difference between this chain of natural causes and voluntary actions in passing from one link to another.
         ◦ nor is it less certain of the future event than if it were connected with the present impressions of the memory and senses by a train of causes cemented together by a physical necessity.
-    • The same experienced union has the same effect on the mind, whether the united objects are motives, volitions and actions; or figure and motion.
+    • The same experienced union has the same effect on the mind, whether the united objects are motives, volitions and actions; or figure and motion.
     • We may change the names of things.
         ◦ But their nature and their operation on the understanding never change.
-    • No one can ever refute these reasonings than by:
+    • No one can ever refute these reasonings than by:
         ◦ altering my definitions
         ◦ assigning a different meaning to ’cause’, ‘effect’, ‘necessity’, ‘liberty’, and ‘chance’.
     • According to my definitions, necessity makes an essential part of causation; and consequently liberty, by removing necessity, removes also causes, and is the very same thing with chance.

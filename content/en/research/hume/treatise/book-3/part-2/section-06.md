@@ -1,5 +1,5 @@
 ---
-heading: Section 5
+heading: Section 6
 title: "More Reflections On Justice And Injustice"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 image: /covers/treatise.png

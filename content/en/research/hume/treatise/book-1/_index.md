@@ -1,9 +1,9 @@
 ---
-title: "Book 1"
-heading: Part 4
+title: "The Understanding"
+heading: Book 1
 description: "Research on David Hume"
 image: /covers/treatise.png
-weight: 4
+weight: 2
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

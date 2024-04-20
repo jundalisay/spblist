@@ -1,92 +1,104 @@
+---
+heading: Section 7
+title: "VICE AND VIRTUE"
+description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+image: /covers/treatise.png
+weight: 4
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: /avatars/hume.png
+---
 
-SEC. 7: COMPASSION
 
+With these limitations, let us:
+- examine the causes of pride and humility.
+- see whether in every case we can discover the double relations by which they operate on the passions.
 
-    • The desire of the happiness or misery of others is an arbitrary and original instinct implanted in our nature.
-        ◦ It may:
-            ▪ be counterfeited on many occasions
-            ▪ arise from secondary principles.
-    • Pity is a concern for, and malice a joy in the misery of others, without any friendship or enmity to occasion this concern or joy.
-        ◦ We pity even strangers who are perfectly indifferent to us.
-    • If our ill-will to another proceed from any harm or injury, it is not malice, but revenge.
-        ◦ Pity and malice are secondary affections arising from original ones which are varied by some turn of thought and imagination.
-    • It will be easy to explain pity from the precedent reasoning on sympathy.
-        ◦ We have a lively idea of everything related to us.
-        ◦ All human creatures are related to us by resemblance.
-        ◦ Therefore, their persons, interests, passions, pains and pleasures must:
-            ▪ strike us in a lively manner
-            ▪ produce an emotion similar to the original one.
-                • Since a lively idea is easily converted into an impression.
-    • If this is true in general, it must be more true of affliction and sorrow.
-        ◦ These always have a stronger and more lasting influence than any pleasure or enjoyment.
+There will be no further scruple with the present system if we find that all these causes:
+- are related to self
+- produce a pleasure or uneasiness separate from the passion.
 
-A spectator of a tragedy passes through a long train of grief, terror, indignation, and other affections, which the poet represents in his poem’s characters.
-        ◦ Many tragedies end happily.
-        ◦ All excellent tragedies have some reverses of fortune.
-        ◦ The spectator must:
-            ▪ sympathize with all these changes
-            ▪ receive the fictitious joy as well as every other passion.
-    • All passions arise from that principle, unless every distinct passion:
-        ◦ is communicated by a distinct original quality,
-        ◦ is not derived from the general principle of sympathy above-explained.
-    • It is highly unreasonable to have any passion as an exception.
-        ◦ All passions first present in the mind of one person.
-        ◦ Afterwards they appear in the mind of another.
-        ◦ The manner of their appearance is first as an idea, then as an impression.
-            ▪ This is the same in every case.
-            ▪ Thus, the transition must arise from the same principle.
-    • This method of reasoning would be certain in natural philosophy or common life.
-    • Pity depends, in a great measure, on the contiguity and even sight of the object.
-    • This is a proof that it is derived from the imagination.
-    • Women and children are most guided by the imagination.
-        ◦ Thus, they are most subject to pity.
-        ◦ This infirmity makes them:
-            ▪ faint at the sight of a naked sword, though in the hands of their best friend
-            ▪ pity those they find in any grief or affliction greatly.
-    • Some philosophers derive pity from some unknown reflections on:
-        ◦ the instability of fortune
-        ◦ our being liable to the same miseries we see.
-    • They will find this easy observation, and many others, contrary to them.
-    • Regarding pity, it is remarkable that the communicated sympathy:
-        ◦ sometimes acquires strength from the weakness of its original sympathy
-        ◦ even arises by a transition from non-existent affections.
-    • When a person obtains any honourable office, or inherits a great fortune, we always are happier for his prosperity:
-        ◦ the less sense he seems to have of it
-        ◦ the greater equanimity and indifference he shows in its enjoyment.
-    • Similarly, we more lament a man who is not dejected by misfortunes by his patience.
-        ◦ Our compassion increases if his patience utterly removes all his sense of uneasiness.
+We shall principally prove the latter point as the former is obvious.
+    • Vice and virtue are the most obvious causes of these passions.
+        ◦ In recent years, a controversy has so much excited the public’s curiosity: whether these moral distinctions:
+            ▪ are founded on natural and original principles, or
+            ▪ arise from interest and education.
+    • I will examine this in the following book.
+    • In the meantime, I shall show that my system maintains its ground on these hypotheses.
+        ◦ It will be a strong proof of its solidity.
+    • If morality had no foundation in nature, vice and virtue from self-interest or the prejudices of education would produce a real pain and pleasure in us.
+        ◦ This is strenuously asserted by the defenders of that hypothesis.
+        ◦ They say that every passion, habit, or turn of character which has a tendency to our advantage or prejudice, gives a delight or uneasiness.
+            ▪ Approbation or disapprobation arises from this.
+    • We easily gain from the liberality of others.
+        ◦ But we are always in danger of losing by their avarice.
+    • Courage defends us.
+        ◦ Cowardice lays us open to every attack.
+    • Justice is the support of society.
+        ◦ Injustice would quickly prove the ruin of society.
+    • Humility exalts us.
+        ◦ Pride mortifies.
+    • This why the those qualities are esteemed as virtues and vices.
+        ◦ There is a delight or uneasiness attending the merit or demerit of every kind.
+    • I agree with this. 
+    • This moral hypothesis is an absolute and invincible proof of my present system.
+    • If all morality is founded on the pain or pleasure from the prospect of our own loss or advantage or those of others, all the effects of morality must be derived from:
+        ◦ the same pain or pleasure
+        ◦ pride and humility, among other passions.
+    • The very essence of:
+        ◦ virtue is to produce pleasure
+        ◦ vice is to give pain.
+    • Virtue and vice must be part of our character to excite pride or humility.
+        ◦ What further proof can we want for the double relation of impressions and ideas?
+    • Some people maintain that morality is something real, essential, and founded on nature.
+        ◦ From this opinion, the same unquestionable argument may be derived.
+    • From a primary constitution of nature, certain characters and passions produce a pain and others excite a pleasure, by the very view and contemplation.
+        ◦ This is the most probable hypothesis which has been advanced to explain the distinction between:
+            ▪ vice and virtue
+            ▪ the origin of moral rights and obligations
+    • Uneasiness and satisfaction:
+        ◦ are inseparable from vice and virtue
+        ◦ constitute their very nature and essence.
+    • To approve of a character is to feel an original delight on its appearance.
+        ◦ To disapprove of it is to be sensible of an uneasiness.
+    • Therefore, pain and pleasure are the primary causes of vice and virtue.
+        ◦ They must also be the causes of:
+            ▪ all their effects
+            ▪ consequently, of pride and humility, which unavoidably attends that distinction.
+    • But if this hypothesis of moral philosophy is false, pain and pleasure are at least inseparable from vice and virtue, if not their causes.
+        ◦ A generous and noble character affords a satisfaction.
+        ◦ It never fails to charm and delight us even if presented only in a poem or fable.
+    • On the other hand, cruelty and treachery displease from their very nature.
+        ◦ It is impossible ever to reconcile us to these qualities in ourselves or others.
+    • Thus one hypothesis of morality is an undeniable proof of the foregoing system, and the other at worst agrees with it.
+    • According to the vulgar systems of ethics, pride and humility:
+        ◦ have been comprehended as parts of moral duty
+        ◦ arise from these qualities connected with pleasure and uneasiness and not the qualities of the mind alone.
+    • Nothing flatters our vanity more than the talent of pleasing by our wit, good humour, or any other accomplishment.
+        ◦ Nothing gives us more mortification than a disappointment in any attempt of that nature.
+    • No one has ever been able:
+        ◦ to tell what wit is
+        ◦ to show why such a system of thought must be received under that denomination, and another system rejected.
+    • We can decide on it only by taste.
+        ◦ We do not have any other standard to form a judgment of this kind.
+    • What is this taste:
+        ◦ from which true and false wit receive their being
+        ◦ without which no thought can have a title to either of these denominations?
+    • It is only from a sensation of pleasure from true wit, and of uneasiness from false.
+        ◦ We are unable to tell why we have that pleasure or uneasiness.
+    • Therefore, the power of bestowing these opposite sensations is the very essence of true and false wit.
+        ◦ Consequently, it is the cause of that pride or humility which arises from them.
+    • The following people might be surprised to hear me talk of:
+        ◦ virtue as exciting pride, when they look instead at vice
+        ◦ vice as producing humility, instead of virtue.
+    • I understand pride to be that agreeable impression arising in the mind, when our virtue, beauty, riches or power makes us satisfied with ourselves.
+        ◦ I understand humility to be the opposite impression.
+    • Pride is not always vicious.
+        ◦ Humility is not always virtuous.
+    • The most rigid morality allows us to receive a pleasure from reflecting on a generous action.
+        ◦ It is not a virtue to feel any fruitless remorses on the thoughts of past villainy and baseness.
+    • Therefore, let us:
+        ◦ examine these impressions considered in themselves.
+        ◦ inquire into their causes, whether placed on the mind or body, without troubling ourselves with that merit or blame attending them.
 
-When a person of merit falls into a great misfortune, we form a notion of his condition.
-        ◦ We carry our fancy from the cause to the usual effect.
-        ◦ We first conceive a lively idea of his sorrow.
-        ◦ We then feel an impression of it.
-        ◦ His mind’s greatness which elevates him above such emotions.
-            ▪ We:
-                • entirely overlook this, or
-                • only consider it to increase our admiration, love and tenderness for him.
-    • We find from experience that such a degree of passion is usually connected with such a misfortune.
-        ◦ Though this is an exception in the present case, the imagination is affected by the general rule.
-            ▪ It makes us:
-                • conceive a lively idea of the passion, or
-                • rather feel the passion itself in the same way as if the person were really actuated by it.
-    • This is why we blush for people who behave foolishly before us, though they:
-        ◦ show no sense of shame
-        ◦ do not seem conscious of their folly.
-    • All this proceeds from a partial kind of sympathy.
-        ◦ It views its objects only on one side, without considering the other, which has a contrary effect, and would entirely destroy that emotion from the first appearance.
-    • There are instances when an indifference and insensibility under misfortune increases our concern for the unfortunate, even if the indifference does not proceed from virtue and magnanimity.
-    • Persons killed in their sleep is aggravated murder.
-        ◦ Historians observe that any infant prince, killed in this way by his enemies, is worthier of compassion the less sensible he is of his miserable condition.
-    • Here, we are acquainted with the person’s wretched situation.
-        ◦ It gives us a lively idea and sensation of sorrow attending it.
-        ◦ This idea becomes more lively.
-        ◦ The sensation becomes more violent by a contrast with that security and indifference, which we observe in the person himself.
-    • A contrast of any kind never fails to affect the imagination, especially when:
-        ◦ presented by the subject
-        ◦ that pity depends entirely on the imagination.
-
-{{< box >}}
-Footnote 11.
-    • To prevent all ambiguity, when I oppose the imagination to the memory, I generally mean the imagination that presents our fainter ideas.
-    • In all other places, particularly when it is opposed to the understanding, the same imagination only excludes our demonstrative and probable reasonings.
-{{< /box >}}
