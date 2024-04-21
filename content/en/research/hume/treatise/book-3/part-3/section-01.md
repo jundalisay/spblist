@@ -15,31 +15,37 @@ icon: /avatars/hume.png
 
 ## Actions Themselves Are Not The Basis Of Morality
 
-    We now examine natural virtues and vices which are independent of men's artifice.
-    This examination will conclude this system of morals.
 
-    The chief spring or actuating principle of the human mind is pleasure or pain.
-        When these sensations are removed from our thought and feeling, we are incapable of:
-            passion or action
-            desire or volition.
-    The most immediate effects of pleasure and pain are the propense and averse motions of the mind.
-        These are diversified into:
-            volition
-            desire and aversion
-            grief and joy
-            hope and fear, according as the pleasure or pain:
-                changes its situation and becomes:
-                    probable or improbable,
-                    certain or uncertain, or
-                    out of our power for the present moment.
-    But when the objects that cause pleasure or pain acquire a relation to ourselves or others, they still continue to excite desire and aversion, grief and joy.
-        But they simultaneously cause the indirect passions of:
-            pride or humility
-            love or hatred
-                In this case, they have a double relation of impressions and ideas to the pain or pleasure.
+We now examine natural virtues and vices which are independent of men's artifice.
+- This examination will conclude this system of morals.
 
-    Moral distinctions depend entirely on peculiar sentiments of pain and pleasure.
-        Whatever mental quality in ourselves or others that gives us a satisfaction is virtuous, by its survey or reflection.
+<!-- spring or -->
+The chief actuating principle of the human mind is pleasure or pain. When these sensations are removed from our thought and feeling, we are incapable of:
+- passion or action
+- desire or volition.
+
+The most immediate effects of pleasure and pain are the propense and averse motions of the mind. 
+
+These are diversified into:
+- volition
+- desire and aversion
+- grief and joy
+- hope and fear, according as the pleasure or pain changes its situation and becomes:
+  - probable or improbable,
+  - certain or uncertain, or
+  - out of our power for the present moment.
+
+But when the objects that cause pleasure or pain acquire a relation to ourselves or others, they still continue to excite desire and aversion, grief and joy.
+
+But they simultaneously cause the indirect passions of:
+- pride or humility
+- love or hatred
+
+In this case, they have a double relation of impressions and ideas to the pain or pleasure.
+
+Moral distinctions depend entirely on peculiar sentiments of pain and pleasure.
+
+Whatever mental quality in ourselves or others that gives us a satisfaction is virtuous, by its survey or reflection.
         Everything that gives uneasiness is vicious.
     Every quality which gives pleasure in ourselves or others, always causes pride or love.
         Every quality that produces uneasiness, excites humility or hatred.
@@ -51,24 +57,24 @@ icon: /avatars/hume.png
             which causes love or pride can be called virtuous, and that
             which causes hatred or humility can be called vicious.
 
-    If any action is virtuous or vicious, it is only as a sign of some quality or character.
-    It must depend on durable principles of the mind which:
-        extend over the whole conduct, and
-        enter into the personal character.
-    Actions themselves do not proceed from any constant principle.
-    They have no influence on:
-        love or hatred,
-        pride or humility.
-    Consequently, actions are never considered in morality.
+If any action is virtuous or vicious, it is only as a sign of some quality or character.
+It must depend on durable principles of the mind which:
+    extend over the whole conduct, and
+    enter into the personal character.
+Actions themselves do not proceed from any constant principle.
+They have no influence on:
+    love or hatred,
+    pride or humility.
+Consequently, actions are never considered in morality.
 
-    This reflection is obvious and is the most important in the present subject.
-    We should never consider any single action in our enquiries on the origin of morals.
-    We should only consider the quality or character from which the action proceeded.
-        These alone are durable enough to affect our sentiments concerning the person.
-    Actions are, indeed, better indications of a character than:
-        words, or
-        even wishes and sentiments.
-    They are attended with love or hatred, praise or blame only when they are indications.
+This reflection is obvious and is the most important in the present subject.
+We should never consider any single action in our enquiries on the origin of morals.
+We should only consider the quality or character from which the action proceeded.
+    These alone are durable enough to affect our sentiments concerning the person.
+Actions are, indeed, better indications of a character than:
+    words, or
+    even wishes and sentiments.
+They are attended with love or hatred, praise or blame only when they are indications.
 
 
 ## Sympathy As The Basis Of Morals And Beauty

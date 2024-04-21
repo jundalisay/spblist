@@ -221,7 +221,7 @@ By writing a new law-book that unifies the Torah and the Quran. The root cause o
 - The Jews program their minds according to the Torah
 - The Muslims program their minds according to the Quran, which denounces the Torah 
 
-The great big problem is that **mentality creates reality**. And so the difference in programming creates a perpetual real conflict which eats up the attention and resources of the world. This is similar to how the fight between malware and anti-virus on your computer eats up resources that slows down other programs. The world has to push for such a new law-book, as the core of a one-state solution, for its own sake. 
+The great big problem is that **mentality creates reality**. If you absolutely believe in an Apocalypse then Nature will gladly create one for you. The current [Apocalypse](https://news.un.org/en/story/2023/12/1144492) in Gaza is a real trouble which eats up the attention and resources of the world. This is similar to how the fight between malware and anti-virus on your computer eats up resources that slows down other programs. The world has to push for such a new law-book, as the core of a one-state solution, for its own sake. 
 {{< /l >}}
 
 
@@ -231,9 +231,11 @@ How could that new law-book be created?
 
 
 {{< l a="Social-Superphysics" >}}
-Ideally, Palestinians, Jews, and Arabs should get together and write it. Until then, a shortcut could be to use machine learning like ChatGPT or Bard to combine the Torah and the Quran for the sake of world peace (since both are text-data). It would be a proof of concept of the great uses of AI -- using it to unite people instead of being [a danger to humanity](https://www.nytimes.com/2023/03/29/technology/ai-artificial-intelligence-musk-risks.html)
+Ideally, Palestinians, Jews, and Arabs should get together and write it.
 {{< /l >}}
 
+
+<!-- Until then, a shortcut could be to use machine learning like ChatGPT or Bard to combine the Torah and the Quran for the sake of world peace (since both are text-data). It would be a proof of concept of the great uses of AI -- using it to unite people instead of being [a danger to humanity](https://www.nytimes.com/2023/03/29/technology/ai-artificial-intelligence-musk-risks.html) -->
 
 ## Bigots
 
@@ -262,7 +264,7 @@ So what if there's global warming? In the long-run, we're all dead! At least I'v
 
 
 {{< l a="Superphysics" >}}
-Ok boomer, so Superphysics isn't for you. We reject selfishness, vice, and the lack of virtue. You should stay in some dogmatic religion that sees itself superior, or in Modern Physics and Economics that is limited to the 5 senses. 
+Ok boomer, so Superphysics isn't for you. We reject selfishness, vice, and the lack of virtue. You should stay in some dogmatic imperialist religion that sees itself superior, or in Modern Physics and Economics that is limited to the 5 senses. 
 
 People who ascribe to Superphysics are open-minded and lovers of philosophy, nature, and the Supreme Entity, as explained by Socrates. These allow the 6th sense of intuition and fellow-feeling, on top of the usual math and 5-sense cognitive abilities in IQ tests.
 
