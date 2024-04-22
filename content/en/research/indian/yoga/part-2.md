@@ -1,7 +1,12 @@
+---
+heading: Part 2
+title: "Spiritual Disciplines"
+description: ""
+image: "/covers/yoga.jpg"
+draft: true
+---
 
-End Part One.
-Part Two
-on Spiritual Disciplines
+
 
 2.1 Austerity, the study of sacred texts, and the dedication of action to God constitute the discipline of Mystic Union.
 

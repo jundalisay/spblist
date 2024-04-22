@@ -70,9 +70,9 @@ How is Socratic Dialectics different from Dialectics?
 Socratic Dialectics uses timeless metaphysical truths as the quality control for logic. Its rival is Aristotlean and Marxist dialectics which uses either the ego or matter (materialism). These have led to:
 - Economic Materialism which has caused financial crises and poverty
 - Dialectical Materialism which has led to Marxism and Communism 
-- Scientism which has limited Physics to the 3 Elements (Strong Force, Weak Force, Electromagnetism) and has kept the 2 higner Elements (Spacetime, and Aether) out of reach, undiscovered. As a result, humans are unable to spread themselves to Mars or even to the Moon.
+- Scientism which has limited Physics to the 3 Elements (Strong Force, Weak Force, Electromagnetism) and has kept the 2 higher Elements (Spacetime and Aether) out of reach, undiscovered. As a result, humans are unable to spread themselves to Mars or even to the Moon.
 
-The enlightened philosophers like Bacon, Hume, and Ibn-Khaldun denounced Aristotle. So we are fully in the Pythagoras-Plato-Descartes-Hume-Hinduism-Buddhism-Taoism camp. Socratic Dialectics also throws away Ontology and Epistemology, replacing them with logic and feelings.  
+The enlightened philosophers like Bacon, Hume, and Ibn-Khaldun denounced Aristotle. So we are fully in the Pythagoras-Plato-Descartes-Spinoza-Hume-Hinduism-Buddhism-Taoism camp. Socratic Dialectics also throws away Ontology and Epistemology, replacing them with logic and feelings.  
 {{< /l >}}
 
 
@@ -330,7 +330,7 @@ I guess you encounter a lot of opposition from humans who think that the limited
 {{< /r >}}
 
 {{< l a="Bio-Superphysics" >}}
-Yes. This is now known as 'scientism' propagated by materialists.
+Yes. This is now known as 'scientism' [propagated by materialists](https://www.psychologytoday.com/us/blog/out-the-darkness/201911/scientism).
 
 For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. 
 
