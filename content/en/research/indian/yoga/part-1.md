@@ -2,6 +2,9 @@
 heading: Part 1
 title: "Meditation and Samadhi"
 description: "Part 1 of the Yoga Sutras is about Meditation and Samadhi"
+writer:
+  name: Patanjali translated by Juan
+  url: https://www.linkedin.com/in/jundalisay/
 image: "/covers/yoga.jpg"
 ---
 
@@ -10,9 +13,9 @@ image: "/covers/yoga.jpg"
 3. on Divine Powers
 4. on Realizations -->
 
-Before beginning any spiritual text it is customary to clear the mind of all distracting thoughts, to calm the breath and to purify the heart.
+<!-- Before beginning any spiritual text it is customary to clear the mind of all distracting thoughts, to calm the breath and to purify the heart. -->
 
-<sup>1</sup> Now, instructions in Yoga (Union).
+<sup>1</sup> Now, instructions for Yoga (Union).
 
 <sup>2</sup> Yoga is the stilling of the fluctuations of the mind <sup>3</sup> so that the meditator dwells in his true nature.
 
