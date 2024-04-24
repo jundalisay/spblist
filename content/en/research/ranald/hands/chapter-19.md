@@ -5,9 +5,8 @@ weight: 42
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""
+draft: true
 ---
-
-
 
 
 IN ADDITION

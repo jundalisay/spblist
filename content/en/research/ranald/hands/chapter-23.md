@@ -5,13 +5,13 @@ weight: 52
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""
+draft: true
 ---
 
 
-In the following pages you will find the hands and analyses of
-ten world famous personages outstanding in different lines of en-
-deavor. Observe the various signs and lines in their hands that in-
-dicate their fame and success.
+In the following pages you will find the hands and analyses of ten world famous personages outstanding in different lines of endeavor. 
+
+Observe the various signs and lines in their hands that indicate their fame and success.
 
 
 ## THE HAND OF FRANKLIN DELANO ROOSEVELT

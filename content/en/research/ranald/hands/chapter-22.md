@@ -5,12 +5,14 @@ weight: 50
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""
+draft: true
 ---
 
 
 
-SPECIALIZATION is greater efficiency, man
-the keynote of present-day vocations. For
+SPECIALIZATION is greater efficiency, man the keynote of present-day vocations. 
+
+For
 has subdivided even the physical labor of
 roadbuilding or the manufacture of an automobile into many
 processes with special machinery and special operators assigned to

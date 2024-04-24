@@ -68,94 +68,47 @@ it
 its
  -->
 
-Saturn becomes wavery, thin and broken at its end, then the difficulties of this period will have proved too much. Again, how-
-ever, I want to remind you that the black and white differences line of which the old superstition of palmistry assigned
-to such marks cannot be accepted blindly. 
+Saturn becomes wavery, thin and broken at its end, then the difficulties of this period will have proved too much. 
 
-I have found hands which indicated extreme misfortune completely changed as their owners understood and overcame them.
+The black and white differences line of which the old superstition of palmistry assigned to such marks cannot be accepted blindly.
 
-their difficulties
-All lines cutting across the line of Saturn weaken it, and their
-place of origin will usually explain their nature. Lines rising from the
-mount
-of
-Luna
-indicate that impractical, fantastic imagination
-is
-proving an obstacle; lines from the mount of Venus, that sloth and
-love of good living are interfering with a successful career.
-With one exception, the line of Saturn always ends on the mount
-it is stopped before reaching that point. The ex-
-a turn towards the mount of Jupiter, and its significance
-of Saturn unless
-is
-ception
-that success will be due to ambition.
-is
-good one, showing
-The
-terminal on Saturn
-is
-a
-logical fulfillment of the talents contained in the
-hand.
-Lines running into the line of Saturn strengthen it, revealing the
-source of the strength they bring by their origin and direction.
-Though the line of Saturn does not vary much in its termination,
-it may begin from a number of places. Its most usual origin is from
-the center of the palm near the wrist. This origin is the normal
-in
-one, showing that a person has taken his direction fairly early
-life. When the line of destiny begins from the line of life (see plate
-own
-46), a person's
-cess
-he
-attains,
-Saturn line,
-The
-mount of
-efforts are largely responsible for
-and the higher on the
-whatever suc-
-line of life the beginning of the
-the later will success be achieved.
-opposite
-Luna
-is
-shown by a
-line of destiny originating
-on the
-(see plate 47). This shows the aid and influence of
+I have found hands which indicated extreme misfortune completely changed as their owners understood their difficulties and overcame them.
+
+
+All lines cutting across the line of Saturn weaken it, and their place of origin will usually explain their nature. Lines rising from the mount of Luna indicate that impractical, fantastic imagination is proving an obstacle. 
+
+Lines from the mount of Venus, that sloth and love of good living are interfering with a successful career.
+
+With one exception, the line of Saturn always ends on the mount of Saturn unless it is stopped before reaching that point. The exception is a turn towards the mount of Jupiter, and its significance is that success will be due to ambition.
+
+
+The terminal on Saturn is a good one, showing logical fulfillment of the talents contained in the hand.
+
+Lines running into the line of Saturn strengthen it, revealing the source of the strength they bring by their origin and direction.
+
+Though the line of Saturn does not vary much in its termination, it may begin from a number of places. Its most usual origin is from the center of the palm near the wrist. This origin is the normal one, showing that a person has taken his direction fairly early in life. 
+
+When the line of destiny begins from the line of life (see plate 46), a person's own efforts are largely responsible for  whatever success he attains. The higher on the line of life the beginning of the Saturn line, the later will success be achieved.
+
+
+The opposite is shown by a line of destiny originating on the mount of Luna, later merges into the line of heart (see plate 47). This aid is likely due to a brilliant and most fortunate marriage, combining an ideal relationship with wealth and ease.
+
+<!-- This shows the aid and influence of
 and family connections. If the line of destiny, be-
-of Luna, later merges into the line of heart
+
 mount
 on
 the
-ginning
-aid
-is likely due to a brilliant and most fortunate
-this
-(see plate 47),
-ideal relationship with wealth and ease.
-an
-marriage, combining
-A line of destiny beginning at the wrist and making its way
-friends, relatives
-straight
-and unbroken
-to the base of
-mount
-Saturn, without branches
-or influences of any kind along its entire length, marks a person out
-as a plaything of fate, tossed about by forces more powerful than
-he.
-With a
-star at both the origin
-this character,
-,or
-notoriety.
-and termination of a
-fate line of
-you can also expect some awful, twisted kind of fame
+ginning -->
 
+
+
+A line of destiny beginning at the wrist and making its way straight and unbroken to the base of mount Saturn, without branches or influences of any kind along its entire length, marks a person out as a plaything of fate, tossed about by forces more powerful than he.
+
+With a star at both the origin and termination of a fate line of this character, you can also expect some awful, twisted kind of fame or notoriety.
+
+
+
+
+
+friends, relatives

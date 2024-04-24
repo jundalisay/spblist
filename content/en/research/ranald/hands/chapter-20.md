@@ -5,10 +5,12 @@ weight: 44
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""
+draft: true
 ---
 
 
 The Hand as Medium
+
 one use to which study of the hands has been put with thor-
 method is in fingerprinting for the purposes of iden-
 Knowledge that individual fingerprints differ from each
