@@ -29,40 +29,43 @@ His book Yogava'shis't'ha is a philosophical exposition of the subtle spirituali
 
 ## Baba Versus Patanjali
 
-Momentarily diverting from Baba's article, it may be observed that yoga is thus a part of Tantra, indeed the subtlest aspect of the Tantric 
-practice. Shiva Himself elucidated yoga, as did a number of the Tantra scriptures. Three of the other foremost authorities on yoga were also 
-Tantrics: Krishna, Vashistha, and Patanjali. 
+<!-- Momentarily diverting from Baba's article, it may be observed that  -->
+
+Yoga is a part of Tantra, the subtlest aspect of the Tantric practice. 
+
+Shiva Himself elucidated yoga and many Tantric scriptures. 
+
+Three of the other foremost authorities on yoga were also Tantrics: Krishna, Vashistha, and Patanjali. 
 
 Patanjali was the last of the line, having lived only about 2000 years ago. 
 
-Though Baba generally agrees with Patanjali, He differs on a few  points. Most fundamental of these concern the very definition of yoga. 
+Baba generally agrees with Patanjali. But he differs on a few  points. 
 
-Patanjali wrote: Yogash citta vrtii nirodha. This means "To suspend the function of thinking is Yoga." 
+Most fundamental of these concern the very definition of yoga. 
+
+Patanjali wrote: 'Yogash citta vrtii nirodha.' (To suspend the function of thinking is Yoga.)
 
 Baba explained that it is the nature of mind to think. So it is unnatural to try to stop that thinking process.
 
 Such an effort amounts to suppression, and therefore may be harmful. 
 
-On the other hand, Baba quotes and supports a definition directly  from the Tantras: Sam'yogo yogo ityukto jiiva'tma' Parama'tmanah. 
+On the other hand, Baba quotes and supports a definition directly from the Tantras: "Sam'yogo yogo ityukto jiiva'tma' Parama'tmanah." (The union of the individual soul with the Supreme Soul is yoga).
 
-This means "The union of the individual soul with the Supreme Soul is yoga." 
-
-This process is founded on a natural attraction toward infinite bliss or infinite love. As one develops love for God, simultaneously love 
-for all of the creation is generated. The result is creative and expansive. 
+This process is founded on a natural attraction toward infinite bliss or infinite love. As one develops love for God, simultaneously love for all of the creation is generated. The result is creative and expansive. 
 
 Upon the ultimate merging of the individual mind with the Cosmic  Mind, the individual thought process automatically ceases, as there is no longer any separate individual. Such a person is aware only of God, and no ego remains. 
 
+One of the major etymological interpretations of Tantra also parallels this definition of yoga. 
 
-One of the major etymological interpretations of Tantra also parallels this definition of yoga. Tan means to expand, and tra means to liberate. 
-Thus Tantra means to become liberated from all sorts of bondage through theexpansion of one's self. We should clearly understand that 
-yoga is a process of expansion, not contraction or suppression. 
+`Tan` means to expand, and `tra` means to liberate. 
+
+Thus, Tantra means to become liberated from all sorts of bondage through the expansion of one's self. Yoga is a process of expansion, not contraction or suppression. 
 
 
 
 Turning back to Baba's article: 
 
-There are many who try to make a distinction between Hindu Tantra and Buddhist Tantra. This is absolutely wrong, for as I have said earlier, 
-Tantra is one and only one. It is based on one sentiment, on one idea.
+There are many who try to make a distinction between Hindu Tantra and Buddhist Tantra. This is absolutely wrong, for as I have said earlier, Tantra is one and only one. It is based on one sentiment, on one idea.
 
 The Buddhist and Hindu Tantras express the same thing in different  words.
 
@@ -77,20 +80,20 @@ He was called Gun'a'tiita or Nirgun'a Purus'a [the Transcendental] because he ha
 
 All spiritual and religious systems are adaptable to Tantra, though some systems are better than others. This is explained in the Kuia'rn'ava Tantra: 
 
+```
 Uttamo Brahmasadbha'vo 
-Madhyama' dhya'na dha'ran'a) 
-
+Madhyama' dhya'na dha'ran'a
 J apastu'ti sya'dhadhama' 
-
 Mu'rtipu'ja' dhama'dhama' 
+```
 
-This means: Ideation on Brahma or God is the best, meditation and concentration are second best, repetitious incantation and eulogistic prayer are the worst, and idol worship is the worst of the worst. 
+(Ideation on Brahma or God is the best, meditation and concentration are second best, repetitious incantation and eulogistic prayer are the worst, and idol worship is the worst of the worst.)
 
 
-or Non-Attributional Person]. As the result of His Tantra sa'dhana' He 
-attained extraordinary powers, which He employed for the good of 
-humanity. It was He who systematized the science of Tantra and thus He 
-was the guru or the father of Tantrics and yogis. 
+<!-- or Non-Attributional Person].  -->
+
+As the result of His Tantra sa'dhana' He  attained extraordinary powers, which He employed for the good of 
+humanity. It was He who systematized the science of Tantra and thus He was the guru or the father of Tantrics and yogis. 
 
 To this Self-realized Maha'purus'a, there was no distinction of high and low. People of all classes, from the highest to the lowest, were dear to Him. Irrespective of class—Aryan, non-Aryan, Dravidian, Austric or Mongolian—all flocked to Him.
 

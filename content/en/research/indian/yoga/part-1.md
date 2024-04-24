@@ -6,6 +6,7 @@ writer:
   name: Patanjali translated by Juan
   url: https://www.linkedin.com/in/jundalisay/
 image: "/covers/yoga.jpg"
+weight: 4
 ---
 
 
@@ -22,21 +23,24 @@ image: "/covers/yoga.jpg"
 
 <!-- // -stuff (citta) -->
 
-<sup>4</sup> Otherwise, he identifies with his propensities.
+<sup>4</sup> Otherwise, he identifies with his thoughts.
 
-<sup>5</sup> The propensities are five-fold, with positive and negative variations.
+<!-- propensities -->
+<sup>5</sup> The thoughts are five-fold, with positive and negative variations.
+
+<!-- propensities -->
 
 <!-- // painful and not painful: -->
 
 <sup>6</sup> 
 
-1. Correct propensities
+1. Correct thoughts
 
-<sup>7</sup> The correct propensities come from the direct senses, inference, and testimonies from teachers or established knowledge.
+<sup>7</sup> The correct thoughts come from the direct senses, inference, and testimonies from teachers or established knowledge.
 
-2. Erroneous propensities
+2. Erroneous thoughts
 
-<sup>8</sup> The erroneous propensities come from false knowledge, not based on truth.
+<sup>8</sup> The erroneous thoughts come from false knowledge, not based on truth.
 
 3. Ideation
 
@@ -50,7 +54,7 @@ image: "/covers/yoga.jpg"
 
 <sup>11</sup> Memory is the retention of experiences
 
-> *Superphysics Note: These come from the 5 layers: Matter (Erroneous Propensities), Convertible (Correct Propensities), Radiant (Sleep), Spacetime (Ideation), Aethereal (memory)
+> *Superphysics Note: These come from the 5 layers: Matter (Erroneous thoughts), Convertible (Correct thoughts), Radiant (Sleep), Spacetime (Ideation), Aethereal (memory)
 
 
 

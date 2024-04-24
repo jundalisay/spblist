@@ -1,80 +1,252 @@
 ---
 heading: Part 2
-title: "Spiritual Disciplines"
-description: ""
+title: "The Path To Realization"
+description: "The Path To Realization is achieved through yama and niyama"
 image: "/covers/yoga.jpg"
-draft: true
+weight: 6
 ---
 
 
+<sup>1</sup> Yoga has 3 components:
 
-2.1 Austerity, the study of sacred texts, and the dedication of action to God constitute the discipline of Mystic Union.
+1. Discipline
+2. Self-study
+3. Faith in the Supreme (Isvara)
 
-2.2 This discipline is practised for the purpose of acquiring fixity of mind on the Lord, free from all impurities and agitations, or on One's Own Reality, and for attenuating the afflictions.
+<!-- Orientation toward the ideal of pure awareness -->
 
-2.3 The five afflictions are ignorance, egoism, attachment, aversion, and the desire to cling to life.
+<sup>2</sup> The aim of Yoga is to eliminate suffering and attain samadhi. 
 
-2.4 Ignorance is the breeding place for all the others whether they are dormant or attenuated, partially overcome or fully operative.
 
-2.5 Ignorance is taking the non-eternal for the eternal, the impure for the pure, evil for good and non-self as self.
+<!-- 2.1 Austerity, the study of sacred texts, and the dedication of action to God constitute the discipline of Mystic Union. -->
 
-2.6 Egoism is the identification of the power that knows with the instruments of knowing.
+<sup>3</sup> The causes of suffering are:
 
-2.7 Attachment is that magnetic pattern which clusters in pleasure and pulls one towards such experience.
+1. Ignorance
+2. Ego
+3. Desires
+4. Aversion
+5. Self-preservation
 
-2.8 Aversion is the magnetic pattern which clusters in misery and pushes one from such experience.
 
-2.9 Flowing by its own energy, established even in the wise and in the foolish, is the unending desire for life.
+<sup>4</sup> Ignorance is the starting place for for all the other causes of suffering, whether they are dormant or active, or noticed or unnoticed.
 
-2.10 These patterns when subtle may be removed by developing their contraries.
+ <!-- partially overcome or fully operative. -->
 
-2.11 Their active afflictions are to be destroyed by meditation.
+<!-- 2.2 This discipline is practised for the purpose of acquiring fixity of mind on the Lord, free from all impurities and agitations, or on One's Own Reality, and for attenuating the afflictions.
 
-2.12 The impressions of works have their roots in afflictions and arise as experience in the present and the future births.
+2.3 The five afflictions are ignorance, egoism, attachment, aversion, and the desire to cling to life. -->
 
-2.13 When the root exists, its fruition is birth, life and experience.
+<!-- 2.4 Ignorance is the breeding place  -->
 
-2.14 They have pleasure or pain as their fruit, according as their cause be virtue or vice.
 
-2.15 All is misery to the wise because of the pains of change, anxiety, and purificatory acts.
+<sup>5</sup> Ignorance causes one to think that:
+- the impermanent is permanent
+- the impure is pure
+- what causes suffering is what causes happiness*
+- what is not your nature is your nature
 
-2.16 The grief which has not yet come may be avoided.
+ <!-- is eternal, the impure for the pure, evil for good and non-self as self. -->
 
-2.17 The cause of the avoidable is the superimposition of the external world onto the unseen world.
+> *Superphysics note: Examples are intoxicants and attachments that seem to make us happy but are actually causing suffering
 
-2.18 The experienced world consists of the elements and the senses in play. It is of the nature of cognition, activity and rest, and is for the purpose of experience and realization.
 
-2.19 The stages of the attributes effecting the experienced world are the specialized and the unspecialized, the differentiated and the undifferentiated.
+<!-- Lacking this wisdom, one mistakes that which is impermanent, impure, distressing, or empty of self
+for permanence, purity, happiness, and self. -->
 
-2.20 The indweller is pure consciousness only, which though pure, sees through the mind and is identified by ego as being only the mind.
 
-2.21 The very existence of the seen is for the sake of the seer.
+<sup>6</sup> The ego assigns the power of awareness to the self.
 
-2.22 Although Creation is discerned as not real for the one who has achieved the goal, it is yet real in that Creation remains the common experience to others.
+  <!-- is the identification of the power that knows with the instruments of knowing. -->
 
-2.23 The association of the seer with Creation is for the distinct recognition of the objective world, as well as for the recognition of the distinct nature of the seer.
+<sup>7</sup> The ego then pursues desires for pleasure <sup>8</sup> and avoids suffering.
+
+<!-- Desires Attachment Attachment is that magnetic pattern which clusters in pleasure and pulls one towards such experience. -->
+
+<!-- 2.8 Aversion is the magnetic pattern which clusters in misery and pushes one from such experience. -->
+
+<sup>9</sup> The ego then, even of a wise person, seeks to preserve itself.
+
+<!-- 2.9 Flowing by its own energy, established even in the wise and in the foolish, is the unending desire for life. -->
+
+<sup>10</sup> These causes of suffering can be removed by seeing subtly where they come from and reversing course.
+
+<!--  a
+
+2.10 These patterns when subtle may be removed by developing their contraries. -->
+
+<sup>11</sup> Intense meditation destroys their patterns. 
+
+<!-- 2.11 Their active afflictions are to be destroyed by meditation. -->
+
+<sup>12</sup> These causes result in actions which pile up unseen impressions in the soul which are expressed in future lives. 
+
+<sup>13</sup> So long as this root source exists, its contents will lead to birth, life, and experience.
+
+
+<!-- 2.12 The impressions of works have their roots in afflictions and arise as experience in the present and the future births. -->
+
+<!-- 2.13 When the root exists, its fruition is birth, life and experience. -->
+
+<sup>14</sup> Life is then marked by delight or anguish, in proportion to those good or bad actions that created the piled-up impressions (samskaras).
+
+<sup>15</sup> The wise see the suffering caused by:
+- the anguish of impermanence
+- the variety of samskaras
+- the beligerence of the propensities (of the sentient, mutative, and tamasic)
+<!-- The  these samskaras cause suffering.  -->
+
+<!-- 2.14 They have pleasure or pain as their fruit, according as their cause be virtue or vice. -->
+
+<!-- 2.15 All is misery to the wise because of the pains of change, anxiety, and purificatory acts. -->
+
+
+<sup>16</sup> But the suffering which has not yet come may be avoided.
+
+<sup>17</sup> The cause of the suffering can be overcome by discerning the events in the phenomenal world. 
+
+<!--   What awareness regards, namely the phenomenal world, embodies the qualities of luminosity,
+activity, and inertia; it includes oneself, composed of both elements and the senses; and, it is the
+ground for both sensual experience and liberation. -->
+
+<sup>18</sup> This discernment will make one realize that the patterns of activity, rest, and knowledge in the phenomenal world, making it both the source for experience and for liberation. <sup>19</sup> It reveals the distinction between the gunas (sentient, mutative, static). 
+
+<sup>20</sup> This discernment makes consciousness a witessing entity through the mind that perceives the phenomenal world. 
+
+<sup>21</sup> The phenomenal world exists to reveal the true nature to consciousness.
+
+<sup>22</sup> Once the true nature is revealed, the phenomenal world no longer appears as such. It continues to exist as a common reality for everyone else, though.
+
+<sup>23</sup> Creation and consciousness 
+
+<sup>24</sup> Ignorance is the cause of this phenomenal world. 
+
+<sup>25</sup> Yoga ends the ignorance, revealing that awareness is free and untouched by phenomena.
+
+<!-- 2.17 The cause of the avoidable is the superimposition of the external world onto the unseen world. -->
+
+<!-- 2.18 The experienced world consists of the elements and the senses in play. It is of the nature of cognition, activity and rest, and is for the purpose of experience and realization. -->
+
+<!-- 2.19 The stages of the attributes effecting the experienced world are the specialized and the unspecialized, the differentiated and the undifferentiated.
+
+2.20 The indweller is pure consciousness only, which though pure, sees through the mind and is identified by ego as being only the mind. -->
+
+<!-- 2.21 The very existence of the seen is for the sake of the seer. -->
+
+<!-- 2.22 Although Creation is discerned as not real for the one who has achieved the goal, it is yet real in that Creation remains the common experience to others. -->
+
+<sup>26</sup>  Continuous discernment is the means for attaining liberation.
+
+<!-- 2.23 The association of the seer with Creation is for the distinct recognition of the objective world, as well as for the recognition of the distinct nature of the seer.
 
 2.24 The cause of the association is ignorance.
 
-2.25 Liberation of the seer is the result of the dissassociation of the seer and the seen, with the disappearance of ignorance.
+2.25 Liberation of the seer is the result of the dissassociation of the seer and the seen, with the disappearance of ignorance. -->
 
-2.26 The continuous practice of discrimination is the means of attaining liberation.
+<!-- 2.26 The continuous practice of discrimination  -->
 
-2.27 Steady wisdom manifests in seven stages.
+<sup>27</sup> True wisdom manifests in seven stages.
 
-2.28 On the destruction of impurity by the sustained practice of the limbs of Union, the light of knowledge reveals the faculty of discrimination.
+<sup>28</sup> When the limbs of yoga are practiced:
+- impurities dwindle
+- the light of understanding shines forth, illuminating the way to discernment
 
-2.29 The eight limbs of Union are self-restraint in actions, fixed observance, posture, regulation of energy, mind-control in sense engagements, concentration, meditation, and realization.
 
-2.30 Self-restraint in actions includes abstention from violence, from falsehoods, from stealing, from sexual engagements, and from acceptance of gifts.
+<sup>29</sup> The eight limbs of yoga are:
 
-2.31 These five willing abstentions are not limited by rank, place, time or circumstance and constitute the Great Vow.
+1. Yama (External Rules)
+2. Niyama (Internal Rules)
+3. Asanas (Yoga Poses)
+4. Pranayama (Breath Regulation)
+5. Pratyahara (Sense Withdrawal)
+6. Dharana (Focus or Concentration)
+7. Dhyana (Intense Meditation)
+8. Samadhi
+
+<!-- concentration, meditative absorption, and integration. -->
+
+<sup>30</sup> Yama is made up of:
+
+1. Ahimsa (Non-harming)
+2. Satya (Truthfulnes)
+3. Asteya (Non-stealing)
+4. Brahmacarya (Seeing all as the Supreme)
+5. Aparigraha (Focus on Needs, not Wants)
+
+> *Superphysics Note: These 5 are for the 5 Layers: Ahimsa is for Matter, Brahmacarya is for Convertible, Aparigraha is for Radiance, Asteya is for Spacetime, Satya is for Aether, 
+
+
+<sup>31</sup> The yogi has a great vow to observe these at all levels regardless of time, place, circumstance, or position in life.
+
+
+<sup>32</sup> Niyama is made up of:
+
+1. Shaoca (Purity)
+2. Santosa (Contentment)
+3. Tapah (Austerity)
+4. Svadhyaya (Self-Study)
+5. Isvara Pranidhana (Surrender to Supreme)
+
+
+> *Superphysics Note: These 5 are for the 5 Layers: Shaoca is for Matter, Santosa is for Convertible, Tapah is for Radiance, Svadhyaya is for Spacetime, Isvara Pranidhana is for Aether, 
+
+<!-- 2.28 On the destruction of impurity by the sustained practice of the limbs of Union, the light of knowledge reveals the faculty of discrimination. -->
+
+<!-- 2.29 The eight limbs of Union are self-restraint in actions, fixed observance, posture, regulation of energy, mind-control in sense engagements, concentration, meditation, and realization. -->
+
+<!-- 2.30 Self-restraint in actions includes abstention from violence, from falsehoods, from stealing, from sexual engagements, and from acceptance of gifts. -->
+
+
+<sup>33</sup> Unwholesome thoughts can be neutralized by cultivating wholesome ones.
+
+<sup>34</sup> Improper thoughts and emotions such as those of violence- whether done, caused to be done, or even approved of- indeed, any thought originating in desire, anger or delusion, whether mild medium or intense- do all result in endless pain and misery. Overcome such distractions by pondering on the opposites.
+
+<sup>35</sup> Being firmly grounded in non-violence creates an atmosphere in which others can let go of their hostility.
+
+<sup>36</sup> For those grounded in truthfulness, every action and its consequences are imbued with truth.
+
+<sup>37</sup> For those who have no inclination to steal, the truly precious is at hand.
+
+<sup>38</sup> Those who see Supreme in all acquire vitality.
+
+<sup>39</sup> Freedom from wanting unlocks the real purpose of existence.
+
+<sup>40</sup> From purity follows a withdrawal from enchantment over one's own body as well as a cessation of desire for physical contact with others.
+
+<sup>41</sup> Purification leads to a one-pointed sense leading to happiness, mastery of the soul, and ability for vision.
+ <!-- self-awareness -->
+
+<sup>42</sup> Contentment brings unsurpassed joy.
+
+<sup>43</sup> Auserity burns away impurities, increasing the powers of the senses. 
+
+<sup>44</sup> Spiritual self-study brings one closer to one’s divine goals. 
+
+ <!-- personal deity. -->
+
+<sup>45</sup> Surrendering to the Supreme gives powers to reach samadhi. 
+
+<sup>46</sup> Asanas bring steady happiness. <sup>47</sup> These relax the body, allowing a deeper meditation  <sup>48</sup> so that one is no longer disturbed by the play of opposites.
+
+<sup>49</sup> With this deep meditation, the flow of inhalation and exhalation, as pranayama, can further end the play of opposites.  
+
+<sup>50</sup> This leads to a breathing pattern of inhalation, exhalation, and lull. When done in a specific duration, number, and focus, the breath becomes subtle. <sup>51-52</sup> This makes the external and internal world give way to the fourth world of light that removes the veil <sup>53</sup> so that the mind's capacity for focus in attained. 
+
+<sup>54</sup> Pratyahara is the decoupling of the senses from external objects. This is achieved when the mind itself decouples from the external world. <sup>55</sup> Then, the senses serve only the Supreme.
+
+
+
+<!-- perfecting  the body and its senses become supremely refined. -->
+
+<!-- With bodily purification, one’s body ceases to be compelling, likewise contact with others. -->
+
+<!-- 2.31 These five willing abstentions are not limited by rank, place, time or circumstance and constitute the Great Vow.
 
 2.32 The fixed observances are cleanliness, contentment, austerity, study and persevering devotion to God.
 
 2.33 When improper thoughts disturb the mind, there should be constant pondering over the opposites.
 
-2.34 Improper thoughts and emotions such as those of violence- whether done, caused to be done, or even approved of- indeed, any thought originating in desire, anger or delusion, whether mild medium or intense- do all result in endless pain and misery. Overcome such distractions by pondering on the opposites.
+2.34 
 
 2.35 When one is confirmed in non-violence, hostility ceases in his presence.
 
@@ -116,193 +288,6 @@ draft: true
 
 2.54 When the mind maintains awareness, yet does not mingle with the senses, nor the senses with sense impressions, then self-awareness blossoms.
 
-2.55 In this way comes mastery over the senses.
+2.55 In this way comes mastery over the senses. -->
 
-End Part Two
 
-Part Three
-on Divine Powers
-
-3.1 One-pointedness is steadfastness of the mind.
-
-3.2 Unbroken continuation of that mental ability is meditation.
-
-3.3 That same meditation when there is only consciousness of the object of meditation and not of the mind is realization.
-
-3.4 The three appearing together are self-control.
-
-3.5 By mastery comes wisdom.
-
-3.6 The application of mastery is by stages.
-
-3.7 The three are more efficacious than the restraints.
-
-3.8 Even that is external to the seedless realization.
-
-3.9 The significant aspect is the union of the mind with the moment of absorption, when the outgoing thought disappears and the absorptive experience appears.
-
-3.10 From sublimation of this union comes the peaceful flow of unbroken unitive cognition.
-
-3.11 The contemplative transformation of this is equalmindedness, witnessing the rise and destruction of distraction as well as one-pointedness itself.
-
-3.12 The mind becomes one-pointed when the subsiding and rising thought-waves are exactly similar.
-
-3.13 In this state, it passes beyond the changes of inherent characteristics, properties and the conditional modifications of object or sensory recognition.
-
-3.14 The object is that which preserves the latent characteristic, the rising characteristic or the yet-to-be-named characteristic that establishes one entity as specific.
-
-3.15 The succession of these changes in that entity is the cause of its modification.
-
-3.16 By self-control over these three-fold changes (of property, character and condition), knowledge of the past and the future arises.
-
-3.17 The sound of a word, the idea behind the word, and the object the idea signfies are often taken as being one thing and may be mistaken for one another. By self-control over their distinctions, understanding of all languages of all creatures arises.
-
-3.18 By self-control on the perception of mental impressions, knowledge of previous lives arises.
-
-3.19 By self-control on any mark of a body, the wisdom of the mind activating that body arises.
-
-3.20 By self-control on the form of a body, by suspending perceptibility and separating effulgence therefrom, there arises invisibility and inaudibilty.
-
-3.21 Action is of two kinds, dormant and fruitful. By self-control on such action, one portends the time of death.
-
-3.22 By performing self-control on friendliness, the strength to grant joy arises.
-
-3.23 By self-control over any kind of strength, such as that of the elephant, that very strength arises.
-
-3.24 By self-control on the primal activator comes knowledge of the hidden, the subtle, and the distant.
-
-3.25 By self-control on the Sun comes knowledge of spatial specificities.
-
-3.26 By self-control on the Moon comes knowledge of the heavens.
-
-3.27 By self-control on the Polestar arises knowledge of orbits.
-
-3.28 By self-control on the navel arises knowledge of the constitution of the body.
-
-3.29 By self-control on the pit of the throat one subdues hunger and thirst.
-
-3.30 By self-control on the tube within the chest one acquires absolute steadiness.
-
-3.31 By self-control on the light in the head one envisions perfected beings.
-
-3.32 There is knowledge of everything from intuition.
-
-3.33 Self-control on the heart brings knowledge of the mental entity.
-
-3.34 Experience arises due to the inability of discerning the attributes of vitality from the indweller, even though they are indeed distinct from one another. Self-control brings true knowledge of the indweller by itself.
-
-3.35 This spontaneous enlightenment results in intuitional perception of hearing, touching, seeing and smelling.
-
-3.36 To the outward turned mind, the sensory organs are perfections, but are obstacles to realization.
-
-3.37 When the bonds of the mind caused by action have been loosened, one may enter the body of another by knowledge of how the nerve-currents function.
-
-3.38 By self-control of the nerve-currents utilising the lifebreath, one may levitate, walk on water, swamps, thorns, or the like.
-
-3.39 By self-control over the maintenance of breath, one may radiate light.
-
-3.40 By self-control on the relation of the ear to the ether one gains distant hearing.
-
-3.41 By self-control over the relation of the body to the ether, and maintaining at the same time the thought of the lightness of cotton, one is able to pass through space.
-
-3.42 By self-control on the mind when it is separated from the body- the state known as the Great Transcorporeal- all coverings are removed from the Light.
-
-3.43 Mastery over the elements arises when their gross and subtle forms,as well as their essential characteristics, and the inherent attributes and experiences they produce, is examined in self-control.
-
-3.44 Thereby one may become as tiny as an atom as well as having many other abilities, such as perfection of the body, and non-resistence to duty.
-
-3.45 Perfection of the body consists in beauty, grace, strength and adamantine hardness.
-
-3.46 By self-control on the changes that the sense-organs endure when contacting objects, and on the power of the sense of identity, and of the influence of the attributes, and the experience all these produce- one masters the senses.
-
-3.47 From that come swiftness of mind, independence of perception, and mastery over primoridal matter.
-
-3.48 To one who recognizes the distinctive relation between vitality and indweller comes omnipotence and omniscience.
-
-3.49 Even for the destruction of the seed of bondage by desirelessness there comes absolute independence.
-
-3.50 When invited by invisible beings one should be neither flattered nor satisfied, for there is yet a possibility of ignorance rising up.
-
-3.51 By self-control over single moments and their succession there is wisdom born of discrimination.
-
-3.52 From that there is recognition of two similars when that difference cannot be distinguished by class, characteristic or position.
-
-3.53 Intuition, which is the entire discriminative knowledge, relates to all objects at all times, and is without succession.
-
-3.54 Liberation is attained when there is equal purity between vitality and the indweller.
-
-End Part Three
-
-Part Four
-on Realizations
-
-4.1 Psychic powers arise by birth, drugs, incantations, purificatory acts or concentrated insight.
-
-4.2 Transformation into another state is by the directed flow of creative nature.
-
-4.3 Creative nature is not moved into action by any incidental cause, but by the removal of obstacles, as in the case of a farmer clearing his field of stones for irrigation.
-
-4.4 Created minds arise from egoism alone.
-
-4.5 There being difference of interest, one mind is the director of many minds.
-
-4.6 Of these, the mind born of concentrated insight is free from the impressions.
-
-4.7 The impressions of unitive cognition are neither good nor bad. In the case of the others, there are three kinds of impressions.
-
-4.8 From them proceed the development of the tendencies which bring about the fruition of actions.
-
-4.9 Because of the magnetic qualities of habitual mental patterns and memory, a relationship of cause and effect clings even though there may be a change of embodiment by class, space and time.
-
-4.10 The desire to live is eternal, and the thought-clusters prompting a sense of identity are beginningless.
-
-4.11 Being held together by cause and effect, substratum and object- the tendencies themselves disappear on the dissolution of these bases.
-
-4.12 The past and the future exist in the object itself as form and expression, there being difference in the conditions of the properties.
-
-4.13 Whether manifested or unmanifested they are of the nature of the attributes.
-
-4.14 Things assume reality because of the unity maintained within that modification.
-
-4.15 Even though the external object is the same, there is a difference of cognition in regard to the object because of the difference in mentality.
-
-4.16 And if an object known only to a single mind were not cognized by that mind, would it then exist?
-
-4.17 An object is known or not known by the mind, depending on whether or not the mind is colored by the object.
-
-4.18 The mutations of awareness are always known on account of the changelessness of its Lord, the indweller.
-
-4.19 Nor is the mind self-luminous, as it can be known.
-
-4.20 It is not possible for the mind to be both the perceived and the perceiver simultaneously.
-
-4.21 In the case of cognition of one mind by another, we would have to assume cognition of cognition, and there would be confusion of memories.
-
-4.22 Consciousness appears to the mind itself as intellect when in that form in which it does not pass from place to place.
-
-4.23 The mind is said to perceive when it reflects both the indweller (the knower) and the objects of perception (the known).
-
-4.24 Though variegated by innumerable tendencies, the mind acts not for itself but for another, for the mind is of compound substance.
-
-4.25 For one who sees the distinction, there is no further confusing of the mind with the self.
-
-4.26 Then the awareness begins to discriminate, and gravitates towards liberation.
-
-4.27 Distractions arise from habitual thought patterns when practice is intermittent.
-
-4.28 The removal of the habitual thought patterns is similar to that of the afflictions already described.
-
-4.29 To one who remains undistracted in even the highest intellection there comes the equalminded realization known as The Cloud of Virtue. This is a result of discriminative discernment.
-
-4.30 From this there follows freedom from cause and effect and afflictions.
-
-4.31 The infinity of knowledge available to such a mind freed of all obscuration and property makes the universe of sensory perception seem small.
-
-4.32 Then the sequence of change in the three attributes comes to an end, for they have fulfilled their function.
-
-4.33 The sequence of mutation occurs in every second, yet is comprehensible only at the end of a series.
-
-4.34 When the attributes cease mutative association with awarenessness, they resolve into dormancy in Nature, and the indweller shines forth as pure consciousness. This is absolute freedom.
-
-End Part Four
-The end of the Yoga Sutras of Patanjali
