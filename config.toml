@@ -175,7 +175,7 @@ paginate = 12
       sub = "See how Supersociology aims to fix it"
     [languages.en.params.tricon4.items.b]
       url = "/social/supersociology/principles/part-1/chapter-05/"
-      img = "/photos/medieval/hitler.jpg"
+      img = "/covers/medieval/spartan.jpg"
       title = "The Socratic Law of Social Cycles"
       sub = "See how we use it to predict events like presidential elections and recessions"
     [languages.en.params.tricon4.items.c]
@@ -185,7 +185,7 @@ paginate = 12
       sub = "We classify parties and groups in order to predict their evolution, success, or failure"
     [languages.en.params.tricon4.items.d]
       url = "/social/cycles/"
-      img= "/photos/medieval/spartan.jpg"
+      img= "/photos/ukraine.jpg"
       title = "Social Cycles Predictions"
       sub = "See our model's predictions for various countries"
 
