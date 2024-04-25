@@ -138,7 +138,8 @@ paginate = 12
       heading = "The Soul of Living Entities"
       title = "Bio Superphysics"
       sub = "Based on the dynamics of the sentient energy"
-      youtube= "Y6YKmtqJak4"
+      # youtube= "Y6YKmtqJak4"
+      youtube= "yhD-Kb_bRBY"
       icon = "/icons/spmed.png"
       link= "/bio/principles"
     [languages.en.params.tricon3.items.a]
@@ -318,15 +319,15 @@ paginate = 12
       img= "/graphics/physics/prize.jpg"
       title = "Material Superphysics: Solutions to Millennium Prize Problems"
       sub = "We will use Qualimath and the Physics of Rene Descartes on all Millennium Prize Problems (2030)"
-    [languages.en.params.tricon6.items.e]
-      # url = "/social/cycles/"
-      img= "/photos/objects/gold.jpg"
-      title = "Material Superphysics: Aether-based Fabrication"
-      sub = "Fabrication that uses aether emissions to cut and flatten metals with high precision (year 2060s)"
+    # [languages.en.params.tricon6.items.e]
+    #   # url = "/social/cycles/"
+    #   img= "/photos/objects/gold.jpg"
+    #   title = "Material Superphysics: Aether-based Fabrication"
+    #   sub = "Fabrication that uses aether emissions to cut and flatten metals with high precision (year 2060s)"
     [languages.en.params.tricon6.items.b]
       # url = "/social/supersociology/principles/part-1/chapter-05"
-      img = "/photos/physics/light.jpg"
-      title = "Material Superphysics: Aether-based Manufacturing"
+      img = "/photos/objects/gold.jpg"
+      title = "Material Superphysics: Aether-based Foundry and Fabrication"
       sub = "Manufacturing that adds aether emissions to align Descartes' material 'pores' (year 2060s)"
     [languages.en.params.tricon6.items.c]
       url = "/material/solutions/crystal-computers/"
