@@ -15,15 +15,17 @@ I had pain in my back and it was difficult to sit in the lotus posture at the ti
 
 My mind was greatly disturbed by the devious and immoral behaviour of Ajit Singh, and the poisonous atmosphere created by it in my office. 
 
-Within a week of my return after initiation I had to go by motor launch to tour the border area of Bangladesh (then East Pakistan) by river, as at that time there was lot of open smuggling of betel nuts to India. The tour of duty lasted about a week and due to the constant travel on water, I again caught cold and my back pain increased. I also
-started having fever, and was forced to cancel the rest of my tour.
+Within a week of my return after initiation I had to go by motor launch to tour the border area of Bangladesh (then East Pakistan) by river, as at that time there was lot of open smuggling of betel nuts to India. 
 
-I returned on a Sunday, so the offices were closed. Even so I came to know that
-one of my subordinate inspectors, who was a confidant of my boss Ajit Singh and his
-right hand in maligning me, was caught red handed while receiving a bribe. 
+The tour of duty lasted about a week. Due to the constant travel on water, I again caught cold and my back pain increased. 
 
-My boss was viciously trying to implicate me in this affair somehow and to blame me for the
-crime of that inspector. 
+I also started having fever, and was forced to cancel the rest of my tour.
+
+I returned on a Sunday, so the offices were closed. 
+
+Even so, I came to know that one of my subordinate inspectors, who was a confidant of my boss Ajit Singh and his right hand in maligning me, was caught red handed while receiving a bribe. 
+
+My boss was viciously trying to implicate me in this affair somehow and to blame me for the crime of that inspector. 
 
 I came to know all about this whilst still ill and my mental tension was further aggravated and I became bedridden.
 

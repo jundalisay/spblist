@@ -18,7 +18,7 @@ icon: "/icons/descartes.png"
 Besides the animal spirit, man consists of:
 - spiritual air-aether, homogeneous with our animal spirit, and
 - watery humor, homogeneous with the solid parts that can be compared to the earth-aether
-
+  
  <!-- earth. -->
 
 The mixture of the animal spirit and humor forms the vital spirit, which is comparable to fire. 

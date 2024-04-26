@@ -56,7 +56,11 @@ Propensity is called vrtti in Sanskrit. If the man asks his friend to accompany 
 Sentiment is called bhávapravanatá in Sanskrit. If the friend says, “Why do you want to go to Calcutta when it is always water-logged and congested? It will adversely affect your health. Listen to reason!” but still the man goes, this is called “sentiment”.
 The human psyche is guided by these four aspects. Socio-economic theory and cult have to adjust with them.
 
-Take an example. The psychology of farmers is such that under normal circumstances they will never sell their land. Whenever a farmer donates a piece of land to someone it is usually out of pressure of circumstances or adherence to a high ideal. So any philosophy that preaches that all land belongs to the state goes against this basic aspect of human psychology. This is how the teachings of communism go against fundamental human psychology. Similarly, if a farmer is told by the authorities to give one thousand kilos of rice from his fields, he may give them, but if he is told to give them from his home, his wife may only give one hundred kilos. This is because she is accustomed to staying around the home, so her world is very small. Her psychology is also different from that of the authorities. So, although various groups of people have their own psychology, a socio-economic theory should not go against the fundamentals of human psychology.
+Take an example. The psychology of farmers is such that under normal circumstances they will never sell their land. Whenever a farmer donates a piece of land to someone it is usually out of pressure of circumstances or adherence to a high ideal. 
+
+So any philosophy that preaches that all land belongs to the state goes against this basic aspect of human psychology. This is how the teachings of communism go against fundamental human psychology. Similarly, if a farmer is told by the authorities to give one thousand kilos of rice from his fields, he may give them, but if he is told to give them from his home, his wife may only give one hundred kilos. This is because she is accustomed to staying around the home, so her world is very small. 
+
+Her psychology is also different from that of the authorities. So, although various groups of people have their own psychology, a socio-economic theory should not go against the fundamentals of human psychology.
 
 You have got a human body. Make the best utilization of it. Forget everything of the past from this very moment.
 

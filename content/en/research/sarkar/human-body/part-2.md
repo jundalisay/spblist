@@ -43,7 +43,9 @@ Suppose an old man and a young man are arguing, and the young one says tauntingl
 
 The young one responds, “Yes, yes, sure!” This is an example of common human psychology, of natural human reaction.
 
-Suppose certain sub-glands in the elder man’s chest around the anáhata cakra are activated. Then, instead of arguing, his response will become calmer, and not so serious and grave. He will become quieter and not so irritated. In this case, in the attached nerve cells and nerve fibres, certain changes will have been brought about in the glands and sub-glands of the chest portion of the body. By properly activating the controlling point of a human sentiment, the response has changed.
+Suppose certain sub-glands in the elder man’s chest around the anáhata cakra are activated. Then, instead of arguing, his response will become calmer, and not so serious and grave. He will become quieter and not so irritated. 
+
+In this case, in the attached nerve cells and nerve fibres, certain changes will have been brought about in the glands and sub-glands of the chest portion of the body. By properly activating the controlling point of a human sentiment, the response has changed.
 
 Thus, due to biological change, the psychological reaction or reflection will change. For this biological transformation, one should practise a spiritual cult which changes the human nerve cells and nerve fibres attached to those portions, and brings about changes in the hormonal secretions causing psychological changes. So, through the practice of a spiritual cult, changes come about in the nerve cells and nerve fibres.
 
@@ -55,6 +57,10 @@ By spiritual cult, spiritual sádhaná, you may bring about certain changes in
 
 Without spiritual practice there cannot be such a change.
 
-The main purpose of human beings coming here to this earth is to do spiritual practice. One is to render social service, one is to learn, one is to go through books, one is to help others, one is to do anything and everything just to encourage and accelerate the process of sádhaná. Sádhaná is the main theme of life. Whatever you do in the world, you should do it with a view to promote your sádhaná and help the sádhaná of others. Human beings come to earth to practise sádhaná, to move closer to Iishvara, the Supreme Goal – to come closer to Parama Puruśa [Supreme Consciousness]. Thus, the deeds of human beings will not be like the deeds of animals. Whatever human beings will do, they will do in such a manner that the progress in their sádhaná will go on accelerating.
+The main purpose of human beings coming here to this earth is to do spiritual practice. One is to render social service, one is to learn, one is to go through books, one is to help others, one is to do anything and everything just to encourage and accelerate the process of sádhaná. 
+
+Sádhaná is the main theme of life. Whatever you do in the world, you should do it with a view to promote your sádhaná and help the sádhaná of others. Human beings come to earth to practise sádhaná, to move closer to Iishvara, the Supreme Goal – to come closer to Parama Puruśa [Supreme Consciousness]. Thus, the deeds of human beings will not be like the deeds of animals. 
+
+Whatever human beings will do, they will do in such a manner that the progress in their sádhaná will go on accelerating.
 
 

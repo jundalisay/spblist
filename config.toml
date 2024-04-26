@@ -176,7 +176,7 @@ paginate = 12
       sub = "See how Supersociology aims to fix it"
     [languages.en.params.tricon4.items.b]
       url = "/social/supersociology/principles/part-1/chapter-05/"
-      img = "/covers/medieval/spartan.jpg"
+      img = "/photos/medieval/spartan.jpg"
       title = "The Socratic Law of Social Cycles"
       sub = "See how we use it to predict events like presidential elections and recessions"
     [languages.en.params.tricon4.items.c]
@@ -1472,6 +1472,22 @@ paginate = 12
       img= "/photos/ukraine.jpg"
       title = "社会サイクルの予測。"
       sub = "さまざまな国々に関する当社のモデルの予測を読んでください"
+
+  [languages.vi]
+    contentDir = "content/vi"
+    weight = 99
+    languageName = "Tieng Viet"
+    [[languages.vi.menu.main]]
+        name = "/icons/question.png"
+        url = "faq"
+        weight = 8
+    [languages.vi.params]
+      intro = "スーパーフィジックス：波に基づく科学的パラダイム。"
+      heading = "形而上学とソクラテス的弁証法に基づく新しい科学"
+      sub = "すべての知識は3つに分類できます："
+      youtube= "cA1KH1LYxvg"
+      banner = "/photos/physics/galaxy.jpg"
+
 
   [languages.ru]
     contentDir = "content/ru"

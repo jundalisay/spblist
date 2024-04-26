@@ -77,21 +77,18 @@ The mind is blind.
 
 With the help of the viveka [conscience] it is able to see and visualize. 
 
-The mind is Dhritarastra, the blind king of the Mahábhárata. Its forces as the 10 agents, the bahihkarańa – can work in 10 directions simultaneously.
-
-So the mind has 10 x 10 or 100 external expressions -- Dhritarastra has 100 sons.
+The mind is Dhritarastra, the blind king of the Mahábhárata. 
+- Its forces as the 10 agents, the bahihkarańa – can work in 10 directions simultaneously.
+- So the mind has 10 x 10 or 100 external expressions -- Dhritarastra has 100 sons.
 
 The Pandavas are the 5 brothers of the Mahábhárata. 
-
-They are the five fundamental factors in the human structure. 
+- They are the 5 fundamental factors in the human structure. 
 
 Sahadeva is the solid factor represented by the múládhára cakra (capable of answering everything). 
 
 Next is Nakula at the svádhiśt́hána cakra. 
-
-Nakula means “water which flows having no boundaries”. 
-
-Na means “no” and kula means “boundaries” – the liquid factor. 
+- Nakula means “water which flows having no boundaries”. 
+- Na means “no” and kula means “boundaries” – the liquid factor. 
 
 Next is Arjuna, the representation of energy or force, luminous at the mańipura cakra – always fighting to maintain balance. 
 
@@ -102,12 +99,9 @@ Finally, the position of Yudhisthira is at the vishuddha throat cakra* where mat
 > *Superphysics Note: This is the aethereal layer
 
 
-
-Yudhisthira remains undisturbed by: <!-- , unperturbed. --> 
-- So in the fight between materialists and spiritualists, in the struggle between matter and the sublime, 
-
-
 Yudhi sthirah Yudhiśt́hirah [“One who remains steady in battle is called ‘Yudhiśt́hira’”].
+
+In the fight between materialists and spiritualists, in the struggle between matter and the sublime, Yudhisthira remains undisturbed
 
 Krśńa is at the sahasrára cakra. 
 
@@ -116,15 +110,19 @@ When the kuńd́alinii [sleeping divinity] is awakened, it rises and reaches th
 The Pandavas are rescuing the jiiva and bringing it to the shelter of Krśńa.
 
 Sanjaya is the minister of Dhritarastra. 
+- He is consciousness.
+ <!-- viveka.  -->
 
-Sanjaya is viveka. 
-
-Dhritarastra is asking Sanjaya, because he cannot see by himself, “Oh, Sanjaya, tell me, in the battle of Kurukśetra and Dharmakśetra, what did my party [and that of the Pandavas] do? How did they fare?”
+Dhritarastra is asking Sanjaya, because he cannot see by himself: “Oh, Sanjaya, tell me, in the battle of Kurukśetra and Dharmakśetra, what did my party [and that of the Pandavas] do? How did they fare?”
 
 The 100 sons of Dhritarastra, the blind mind, are trying to control the jiiva, which is being rescued by the Pandavas through a constant fight.
 
 Finally, being triumphant, they bring the jiiva to the shelter of Krśńa. This is the inner significance of the Mahábhárata.
 
-Kurukśetra is the world of action, the external world, which is asking you to work and work. Work is the order. Kuru means “work”. [And kśetra means “field”.] Dharmakśetra is the internal psychic world. Here the Pandavas dominate.
+Kurukśetra is the world of action, the external world which is asking you to work and work. 
+
+Work is the order. Kuru means “work”. [And kśetra means “field”.] 
+
+Dharmakśetra is the internal psychic world. Here the Pandavas dominate.
 
 
