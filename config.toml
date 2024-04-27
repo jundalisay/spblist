@@ -121,7 +121,7 @@ paginate = 12
     [languages.en.params.tricon2.items.c]
       url= "/material/principles/intro/chapter-03/"
       img = "/graphics/physics/model.jpg"
-      title = "The Substance-Quantum-Medium Naming Convention"
+      title = "The Medium-Substance-Quantum Naming Convention"
       sub = "Are you confused with hadrons, baryons, fermions, leptons, etc? We propose a simpler naming convention"
       # url= "/material/principles/part-2/chapter-04/"
       # img = "/photos/physics/quasar.jpg"
@@ -143,7 +143,7 @@ paginate = 12
       icon = "/icons/spmed.png"
       link= "/bio/principles"
     [languages.en.params.tricon3.items.a]
-      url = "/bio/principles/part-04/chapter-03/"
+      url = "/bio/principles/part-05/chapter-03/"
       img= "/photos/med/cancer2.jpg"
       title = "Cancers and Diseases Have Been Cured by Non-Western Medicine"
       sub = "See the wave-based alternatives to particle-based Western Medicine"
