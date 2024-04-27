@@ -29,12 +29,13 @@ This message also silenced the opposition. Sadhakas who were well established in
 lofty ideals and philosophy of he Marga, began to flow like fountains with firmness and
 spread, removing the pebbles of their life was not like a stagnant pool and peace does
 not mean the peace of a burial ground.
-BABA INTRODUCES RENAISSANCE UNIVERSAL: NEW YEAR’S
-DMC IN BHAGALPUR 1958
+
+BABA INTRODUCES RENAISSANCE UNIVERSAL: NEW YEAR’S DMC IN BHAGALPUR 1958
+
 In January it was know that in Trimuhan in Bhagalpur district, DMC would be
 held. Although I had a strong desire to attend the DMC and was anxious to have
 Baba’s darshan due to adverse circumstances, I could not attend the DMC. This was
-th
+
 my misfortune. On 26 January 1958 at Trimuhan in Bhagalpur district, Baba
 inaugurated the first meeting of the Renaissance Club, in the midst of the meeting of
 the youth there.
