@@ -35,10 +35,10 @@ It finally unites with Paramashiva at the seventh cakra, the sahasrára cakra [
 
 
 The Buddhist Tantras say the same thing in different words:
-1. mańipura cakra, nirmáńa cakra
-anáhata, dharma cakra
-the vishuddha, sambhoga cakra
-the sahasrára, uśniiśa kamala or mahásukha cakra.
+- The mańipura cakra is called nirmáńa cakra
+- The anáhata cakra is called dharma cakra
+- The vishuddha cakra is called sambhoga cakra
+- The sahasrára cakra is called uśniiśa kamala or mahásukha cakra.
 
 Some have named the múládhára, mańipadma. 
 
@@ -46,7 +46,27 @@ In both the Buddhist and Hindu Tantras, hummm is the acoustic root of the unit f
 
 The so-called Buddhist Tantrics also say, Oṋḿ mańipadme hummm. 
 
-To them id́á, piuṋgalá and suśumná are lalaná, rasaná and avadhútikárespectively. So where, in reality, is the ideological difference between the Hindu Tantras such as Mahánirváńa Tantra, Kulárńava Tantra, Ajiṋána-bodhinii Tantra, Jiṋána-saḿkalinii Tantra, Rudrayámala Tantra, Bhaerava-yámala Tantra, Niila Tantra, etc., and the Buddhist Tantras such as Hevajra Tantra, Vajra-váráhii Kalpamahá Tantra, Ekallaviira Cańd́arośańa Tantra, D́ákárnava Tantra, Advaya Siddhi Tantra, etc.? Kauṋkalamálinii Tantra cannot be called either a Hindu Tantra or a Buddhist Tantra with any clear certainty.
+To them id́á, piuṋgalá and suśumná are lalaná, rasaná and avadhútikárespectively. 
+
+<!-- So there is no ideological difference between  -->
+
+Examples of Hindu Tantras are:
+- Mahánirváńa Tantra
+- Kulárńava Tantra
+- Ajiṋána-bodhinii Tantra
+- Jiṋána-saḿkalinii Tantra
+- Rudrayámala Tantra
+- Bhaerava-yámala Tantra
+- Niila Tantra, etc.
+
+Examples of Buddhist Tantras are:
+- Hevajra Tantra
+- Vajra-váráhii Kalpamahá Tantra
+- Ekallaviira Cańd́arośańa Tantra
+- D́ákárnava Tantra
+- Advaya Siddhi Tantra, etc.
+
+Kauṋkalamálinii Tantra cannot be called either a Hindu Tantra or a Buddhist Tantra with any clear certainty.
 
 Even the popular assumption that the Hindus borrowed idolatry from the Buddhists is totally wrong. Although there was a conception of gods and goddesses among the Aryan Vedics, there was no custom of modelling images for worship. But in the lowest stratum of Tantra sádhaná (that is, the lowest of the low grade) idolatry was prescribed:
 
@@ -115,7 +135,9 @@ Tantra is one.
 
 Therefore it is as much a mistake to distinguish between the Hindu and the Buddhist Tantras as it is to grope in vain for any differences in the inner import or final goals of the Hindu Tantras such as Shaeva Tantra, Shákta Tantra, Saora Tantra, Gáńapatya Tantra, Vaeśńaviiya Tantra (Rádhá Tantra), etc.
 
-The similarity between the gods and goddesses of the Hindu Tantras and those of the Buddhist Tantras is also particularly noteworthy. Each Tantra has either absorbed or discarded the other’s gods and goddesses according to its own convenience. Tárá is one of the famous deities of the Buddhist Tantras. 
+The similarity between the gods and goddesses of the Hindu Tantras and those of the Buddhist Tantras is also particularly noteworthy. 
+
+Each Tantra has either absorbed or discarded the other’s gods and goddesses according to its own convenience. Tárá is one of the famous deities of the Buddhist Tantras. 
 
 
 The following worships are very ancient:
@@ -135,6 +157,18 @@ There are some goddesses whose sources – Buddhist or Hindu – are impossible 
 
 The savikalpa samádhi [trance of determinate absorption – or vacuity] of the Hindu Tantras is the prabhásvara shúnyatá [luminous vacuity] of the Buddhists. The Hindus’ nirvikalpa [trance of objectless or indeterminate absorption – or vacuity] is the Buddhists’ vajra shúnyatá [complete vacuity].
 
-The goddess of vajra shúnyatá, of the unmanifest Prakrti, is Vajraváráhii, D́ombii, Naerátma Devii or Naerámańi in the language of the Buddhists. The different stages of savikalpa samádhi related to the upward movement of the kulakuńd́alinii are called sálokya [within the same loka], sámiipya [closest proximity], sárupya [identity], sarśt́hi [the stage between savikalpa and nirvikalpa], etc., in the Hindu Tantras; and in the Buddhist Tantras, viśáyánanda [objective bliss] in the nirmáńa cakra, paramánanda [supreme bliss] in the dharma cakra, virámánanda [intermittent bliss] in the sambhoga cakra and sahajánanda [absolute bliss] in the mahásukha cakra. 
+The goddess of vajra shúnyatá, of the unmanifest Prakrti, is Vajraváráhii, D́ombii, Naerátma Devii or Naerámańi in the language of the Buddhists. 
+
+The different stages of savikalpa samádhi related to the upward movement of the kulakuńd́alinii are called in the Hindu Tantras:
+- sálokya [within the same loka]
+- sámiipya [closest proximity
+- sárupya [identity]
+- sarśt́hi [the stage between savikalpa and nirvikalpa], etc.
+
+In the Buddhist Tantras they are called:
+- viśáyánanda [objective bliss] in the nirmáńa cakra
+- paramánanda [supreme bliss] in the dharma cakr
+- virámánanda [intermittent bliss] in the sambhoga cakra
+- sahajánanda [absolute bliss] in the mahásukha cakra.
 
 In this mahásukha cakra, Naerátma Devii is Bhagavatii Prajiṋá Sarveshvarii, an embodiment of sahajánanda [bliss]. This sahajánanda is the Brahmánanda [absolute bliss] of the Hindu Tantras.

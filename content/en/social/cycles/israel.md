@@ -40,13 +40,20 @@ They couldn't do this in ancient times when military strength was manual, throug
 
 This was because the population of the Israeli tribes was small compared to the Arabs, Persians, Romans, Babylonians, etc and so they were constantly defeated and expelled from Israel.
 
-The industrial revolution allowed machines to replace manual work. This helped Europe conquer the world until they realized that even conquest was a lot of work. And so they retreated back to Europe, leaving behind the European system to give them easy access to the world. 
+The industrial revolution allowed machines to replace manual work. This helped Europe conquer the world until they realized that even conquest was a lot of work. And so they retreated back to Europe, leaving behind the European system to give them easy access to the world. This mainly manifests as the Bretton Woods:
+- The World Bank which represents the US
+- The IMF which represents Europe 
+- [The World Trade Organization](https://history.state.gov/milestones/1937-1945/bretton-woods) 
+
+This is why the main weapons by the West against the Russian invasion of Ukraine were financial and trade sanctions. 
 
 The Jews embraced this European system through finance and industry (machines) since their population was small and these systems helped them maximize themselves by multiplying their labor.
 
-Their power rose along with the rise of industry and finance. This is why Hitler tried to isolate them to prevent their rise. He lost during World War II. This allowed the Jewish power to grow again and set foot in Israel. 
+Their power rose along with the rise of industry and finance.  Hitler then tried to isolate them to prevent their rise, eventually losing during World War II. 
 
-While the Jews focused on finance and industry, the Arabs focused on oil. The problem is that oil is a mere commodity and does not multiply labor or productivity.
+This allowed the Jewish power to grow again and set foot in Israel. 
+
+While the Jews focused on finance and industry, the Arabs focused on oil. The problem is that oil is a mere commodity and does not multiply labor nor productivity. It gives energy, but what good is that energy without machines?
 
 In a war using machines, productivity is important as it gives the vehicles, weapons, ammunition, and supplies needed by the military.
 
@@ -65,6 +72,7 @@ But this doesn't work because Palestinian productivity is nowhere close to that 
 
 The best and only real solution is to unify the 2 states into a single state of Israel where both peoples will have equal rights. 
 
+
 ### A Key Solution: A Unified Book
 
 The problem between the Jews and Arabs spring from the opposing ideas that have been programmed to them by their foundational books:
@@ -73,7 +81,7 @@ The problem between the Jews and Arabs spring from the opposing ideas that have 
 
 These opposing ideas and feelings exist in the metaphysical domain of the abstract mind or soul and obviously have take hostage of the Jewish and Arab souls, to the point that they sacrifice their physical lives for those metaphysical ideas and feelings.
 
-Although the Israel-Palesting conflict manifests as a physical land grab problem, it is first a metaphysical conflict arising from the difficulties of physical desert life. 
+Although the Israel-Palestine conflict manifests as a physical land-grab problem, it is first a metaphysical conflict arising from the difficulties of physical desert life. 
 
 Why are their ideas so contrary?
 
@@ -85,7 +93,7 @@ Printing allowed people to express their feelings and make policy suggestions. T
 
 So the key solution to the conflict is to make a new book that has both the feelings of the Torah and the Quran. We will call it as the "Unified Book". It will have the important principles in both Judaism and Islam such as God, civil law, Judgement Day, etc.  
 
-It will not be a religious book, but rather a moral or philosophical one. 
+It will not be a religious book, but rather a moral or philosophical one. Below is the proposed schedule for such changes which goes with the cycles of Israel. 
 
 
 Phase: Year | Policy 

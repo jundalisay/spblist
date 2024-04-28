@@ -57,8 +57,8 @@ David Hume explained that the concept of the self arises from experiences which 
 For example, when you buy a stock, you won't know if its price will rise or fall. This is because you cannot sense all the thoughts and feelings of all the other buyers and sellers of that stock. So you buy it based on your own limited sensory experiences. 
 
 Putting this under the 2-forces model, we can say that:
-- the decline in stock prices is a manifestation of the Negative Force
-- the rise is from the Positive Force
+- the decline in stock prices is a manifestation of the Negative Force, as people going away from stocks as repulsion
+- the rise is from the Positive Force, as people going to stocks as attraction
 
 <!-- <img src="https://sorasystem.sirv.com/avatars/hume.png" width="300px">
 <figcaption>David Hume is the big daddy of our Superphysics which [Taonomics](/taonomics) comes from</figcaption> -->
@@ -70,12 +70,15 @@ All your individual experiences combined makes up your metaphysical self-organis
 
 When all the individual experiences of all the people (self-organisms) in a country are combined, the result is a larger metaphysical organism called a **society**. 
 
-This has its own soul which we call the '**soul of society**'. Each personal-soul has a self-interest just as every society-soul has a common-interest.
+This has its own soul which we call the '**soul of society**'. 
+- Each personal-soul has a self-interest just as every society-soul has a common-interest.
+- Each personal-soul has a personality just as every society-soul has a culture. 
+- A personal-soul can have a personality disorder just as a society-soul can have a shocking culture. 
 
 <!-- conscience (which we call 'the experiencer') -->
 
 Each society-organism then expresses its collective experiences as events, just as a personal-soul expresses itself through individual activities.
-- A stock bubble is a manifestation of a society-organism wanting or choosing stocks (as Positive Force)
+- A stock bubble is a manifestation of a society-organism wanting stocks (as Positive Force mentioned earlier)
 - A presidential election is a society-organism choosing a leader (also as Positive Force)
 - A war is a manifestation of a society-organism wanting a fight (Negative Force) with other society-organisms, and so on
 
@@ -88,7 +91,7 @@ Through time, these desires and experiences form a pattern which manifest as **s
 
 Our social cycle model applies on all events, but is easiest applied on presidential elections and economic events since they have very granular and detailed data as votes and prices, respectively. It can even be applied on sporting events* because a team is also a society-organism made up of members and the score is the data that can be modeled. The two forces are the desire of each team to win, or to go home.
 
-> *According to this principle, between two equally matched teams, the date and time of the sporting event decides the winner. 
+> *According to this principle, between two equally matched teams, the date and time of the sporting event decides the winner (assuming the aether has no effect). 
 
 <!-- This negates home-court advantage and explains why teams can win away from home. -->
 
@@ -211,9 +214,9 @@ Buying and selling is based on desire and the roots of desire lies in the study 
 
 But such brain-drugs these do not exist.
 
-In the ancient past, Jewish prophets used metaphysics to make predictions about future events using their intuition, which allowed them to tap into their metaphysical society-organism. They would have an intuitional dream about a future event that might or might not happen. 
+In the ancient past, Jewish prophets used metaphysics to make predictions about future events using their intuition, which allowed them to tap into their metaphysical society-organism. They would have an intuitional (aethereal) dream about a future event that might or might not happen. 
 
-The problem with the ancient method is that the dream of the future event exists solely in the metaphysical dimension. It might not cross over onto the physical dimension (reality), leading to some predictions that do not come true.
+The problem with the ancient method is that the dream of the future event exists solely in the metaphysical ~~dimension~~ domain. It might not cross over onto physical reality, leading to some predictions that do not come true.
 
 Our [prediction system](/social/cycles/predictions) provides a more scientific and realistic way of making predictions by plotting both the **metaphysical behavior** of each society-organism and the **actual physical events** that really happen. 
 
@@ -230,7 +233,11 @@ This process can be automated with machine learning to create a digital prophet,
 {{< youtube aBb6eqh5fsU >}}
 
 
-Western economists and policy makers have no idea of metaphysics (karma, dharma, varna, dialectics), so they do not know the root causes of economic crises, wars, and other negative events and therefore are unable to provide real solutions. Proof is that terrorism still exists and economic crises and inequality are still here. North Korea is still nuclear and China is still grabbing land unjustly (just like the Mongols).
+Western economists and policy makers have no idea of metaphysics (karma, dharma, varna, dialectics), so they do not know the root causes of economic crises, wars, and other negative events. This is why they are unable to provide real solutions. Rather, their solutions solve a problem but create new ones. 
+- The problem of terrorism still exists.
+- Economic crises and inequality are still here.
+- North Korea is still nuclear.
+- China is still grabbing land unjustly (just like the Mongols).
 
 By tapping into Western metaphysics of David Hume, Adam Smith, Spinoza and Eastern metaphysics in Hinduism, Buddhism, Sikhism, Taoism, etc., the root causes of any event can be known and the best solutions can be put forward.
 
@@ -241,4 +248,4 @@ For the coming crisis, Adam Smith clearly points to the invention of money and c
 
 The solution therefore is a system that allows both money and [points-based transactions](/social/economics/alternatives-to-money). In time, the system will gravitate towards points because of its lower cost. This is because the points-based system will piggyback on the existing telecoms system, allowing it to save on the overhead needed by banks.
 
-The points-based system is then based on [The Four Laws of Value](/social/economics/principles/intro/chapter-04).  With all human problems solved, the only problems that remain will be the problems of physics, and that's where our [Superphysics](/superphysics/principles/) comes in.
+The points-based system is then based on [The Four Laws of Value](/social/economics/principles/intro/chapter-04).  With all human problems solved, the only problems that remain will be the problems of physics, and that's where our [Superphysics](/material/principles/) comes in.
