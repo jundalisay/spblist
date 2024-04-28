@@ -18,7 +18,9 @@ Current Cycle | Years per Cycle | Social Age
 Negative Warrior | 17 |
 
 
-The current Warrior mentality manifests as the belligerent attitude of Trump supporters which invaded the Capitol, as well as increased racism and police brutality
+Coming Soon!
+
+<!-- The current Warrior mentality manifests as the belligerent attitude of Trump supporters which invaded the Capitol, as well as increased racism and police brutality. -->
 
 
 <!-- Real America vs Liberal America

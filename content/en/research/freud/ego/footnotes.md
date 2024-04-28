@@ -1,3 +1,13 @@
+---
+title: "Postscript"
+heading: "Chapter 12"
+# description: "Why Traditional Theories of Wages Are Wrong"
+image: "/covers/group.jpg"
+contributors: ['Freud']
+draft: true
+---
+
+
 FOOTNOTES
 
 [1] ['Group' is used throughout this translation as equivalent to the rather more comprehensive German 'Masse'. The author uses this latter word to render both McDougall's 'group', and also Le Bon's 'foule', which would more naturally be translated 'crowd' in English. For the sake of uniformity, however, 'group' has been preferred in this case as well, and has been substituted for 'crowd' even in the extracts from the English translation of Le Bon.—Translator..]

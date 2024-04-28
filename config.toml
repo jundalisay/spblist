@@ -232,7 +232,7 @@ paginate = 12
       title = "Material Superphysics: James Webb Telescope Findings"
       sub = "The fidings of the James Webb Space Telescope (2022) support the no-Big-Bang-Theory of Rene Descartes"
     [languages.en.params.tricon5.items.b]
-      # url = "/social/cycles/"
+      url = "/material/levitation"
       img= "/photos/objects/rubik.jpg"
       title = "Material Superphysics: Prelevitation"
       sub = "We reduced the weight of a mass by 0.001-0.006% without contact using the Cartesian aether (2020 and 2023)"
@@ -249,27 +249,28 @@ paginate = 12
 
 
     [languages.en.params.tricon5.items.i]
-      # url = "/social/supersociology/principles/part-1/chapter-05"
+      url = "/bio/solutions/sound-agriculture"
       img = "/photos/objects/pechay.jpg"
       title = "Bio Superphysics: Athereal Plant Growth"
       sub = "We harvested Brassica Rapa Chinesis in 30 days instead of 40 using the aether. Very useful against food inflation (2023)"
     [languages.en.params.tricon5.items.j]
-      url = "/social/cycles/"
+      url = "https://en.wikipedia.org/wiki/Naturopathy"
       img= "/photos/med/cancer2.jpg"
       title = "Bio Superphysics: Naturopathy Against Cancer"
       sub = "We successfully used Naturopathy against Stage 2 Breast Cancer (2014)"
     [languages.en.params.tricon5.items.f]
-      url = "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
+      url = "https://www.pchrd.dost.gov.ph/news_and_updates/vco-supports-faster-recovery-from-covid-19-according-to-pchrd-funded-study/"
+      # url = "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
       img= "/photos/med/covid.jpg"
       title = "Bio-Superphysics: Virgin Coconut Oil Against Covid"
       sub = "We successfully used Virgin Coconut Oil (VCO) against Covid (2020). VCO was later proven by DOST-FNRI to scientifically diminish symptoms of Covid"
     [languages.en.params.tricon5.items.h]
-      url = "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
+      url = "https://en.wikipedia.org/wiki/Homeopathy"
       img= "/photos/med/homeo.jpg"
       title = "Bio-Superphysics: Homeopathy Against Tooth Decay"
       sub = "We successfully used Homeopathy against Tooth Decay (2023). Disclaimer: Unlike other alternative medicine, Homeopathy only works if you believe in it. Whether it works or not totally depends on you."
     [languages.en.params.tricon5.items.g]
-      url = "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
+      url = "https://en.wikipedia.org/wiki/Traditional_Chinese_medicine"
       img= "/photos/med/preg.jpg"
       title = "Bio-Superphysics: Chinese Medicine to get Pregnant"
       sub = "We successfully used Chinese Medicine to get Pregnant (2013)"
@@ -301,7 +302,7 @@ paginate = 12
       title = "Superphysics: True Love"
       sub = "One of our members used aethereal techniques to find true love (2017)"
    [languages.en.params.tricon5.items.p]
-      url = "https://www.youtube.com/watch?v=LgiPuYPWoPI"
+      url = "https://www.youtube.com/watch?v=hlUWAdavn0k"
       img = "/photos/objects/roulette.jpg"
       title = "Superphysics: Winning Prizes"
       sub = "We used aether techniques to win prizes in raffles and hackathons (2016-2022). One of our supporters used the technique to win in simple games like roulette and baccarat. None of us had the dharma (as focused aethereal energy) to win the lotto yet."
@@ -325,7 +326,7 @@ paginate = 12
     #   title = "Material Superphysics: Aether-based Fabrication"
     #   sub = "Fabrication that uses aether emissions to cut and flatten metals with high precision (year 2060s)"
     [languages.en.params.tricon6.items.b]
-      # url = "/social/supersociology/principles/part-1/chapter-05"
+      url = "/material/solutions/foundry"
       img = "/photos/objects/gold.jpg"
       title = "Material Superphysics: Aether-based Foundry and Fabrication"
       sub = "Manufacturing that adds aether emissions to align Descartes' material 'pores' (year 2060s)"
@@ -335,7 +336,7 @@ paginate = 12
       title = "Material Superphysics: Crystal Computers"
       sub = "A computer made of glass to overcome the limitations of semiconductors (year 2100s)"
     [languages.en.params.tricon6.items.d]
-      # url = "/material/solutions/fusion/"
+      url = "/material/ufo"
       img = "/graphics/physics/bob.jpg"
       title = "Material Superphysics: Floating Vehicles via Anti-Gravity"
       sub = "We propose to use Descartes' spacetime vortices to float vehicles following Bob Lazar's design (year 2100s)"
@@ -346,7 +347,7 @@ paginate = 12
       sub = "We propose to use Descartes' spacetime vortices to compress and confine plasma (year 2100s)"
 
     [languages.en.params.tricon6.items.h]
-      # url = "/social/supersociology/principles/part-1/chapter-05"
+      url = "/bio/solutions/capsule-food"
       img = "/photos/med/meds.jpg"
       title = "Bio Superphysics: Capsule Food"
       sub = "Food processing that preserves the aethereal pranah of food (year 2050s)"
@@ -418,7 +419,7 @@ paginate = 12
       # youtube = "AfByl9Mywi4"
       # icon = "/icons/sp.png"
     [languages.en.params.tricon7.items.a]
-      # url = "/social/cycles/"
+      url = "/social/cycles/united-states"
       img = "/flags/us.png"
       title = "Republican USA with 4 Parties"
       sub = "A less democractic USA with Labor, Nationalist, Conservative, and Liberal Parties that have morals defined"
@@ -428,7 +429,7 @@ paginate = 12
       title = "China-Taiwan: One State, Federalized Systems"
       sub = "China transitions into a Federal Republic to allow many systems, similar to the USA"
     [languages.en.params.tricon7.items.c]
-      # url = "/social/cycles/"
+      url = "/social/cycles/vietnam"
       img = "/flags/vn.png"
       title = "Vietnam, China: Splitting the Communist Party into Four"
       sub = "Remove Materialist philosophy and create a natural internal opposition of Labor, Nationalist, Conservative, and Liberal sub-parties. The Communist Party is then renamed as Republican Party"
@@ -448,12 +449,12 @@ paginate = 12
       title = "Israel-Palestine: Unification"
       sub = "A secular state that uses a common law book that unites the morals in the Torah and the Quran"
     [languages.en.params.tricon7.items.f]
-      # url = "/social/cycles/russia"
+      url = "/social/cycles/malaysia"
       img = "/flags/my.png"
       title = "Malaysia-Singapore: Reunification"
       sub = "Reunification as a secular federal state without Bumi policies."
     [languages.en.params.tricon7.items.g]
-      # url = "/social/cycles/"
+      url = "/social/cycles/india"
       img = "/flags/in.png"
       title = "India-Pakistan: Reunification"
       sub = "A secular state that undoes the partition mistake by the British"
@@ -463,7 +464,7 @@ paginate = 12
       title = "Afghanistan: A Female Guardian"
       sub = "Establish a Female Protector of Afghanistan (as a Socratic Guardian) which has veto over the President and is tasked to secure civil laws"
     [languages.en.params.tricon7.items.i]
-      url = "/social/cycles/japan/"
+      url = "/social/cycles/japan"
       img= "/flags/jp.png"
       title = "Japan: Abandon Keynes and Kanji"
       sub = "Abandon Keynesian Economics and implement structural reform like replacing kanji with kana to ease cultural entry barriers and unite with the world"
@@ -1482,11 +1483,31 @@ paginate = 12
         url = "faq"
         weight = 8
     [languages.vi.params]
-      intro = "スーパーフィジックス：波に基づく科学的パラダイム。"
-      heading = "形而上学とソクラテス的弁証法に基づく新しい科学"
-      sub = "すべての知識は3つに分類できます："
+      intro = "Siêu Vật Lý: Khoa học kết hợp với Siêu hình học"
+      heading = "Siêu Vật Lý là một khoa học mới dựa trên sóng và phép biện chứng của Socrates để giải quyết các vấn đề."
+      sub = "Tất cả kiến thức có thể được nhóm thành ba loại: Siêu hình học, Siêu Vật Lý, Vật Lý."
       youtube= "cA1KH1LYxvg"
       banner = "/photos/physics/galaxy.jpg"
+    [languages.vi.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "Siêu hình học có thể tái tạo 1-50%"
+      sub = "Nó chứa đựng những nghịch lý"
+    [languages.vi.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "Siêu Vật Lý có thể tái tạo 51-99%"
+      sub = "Nó mang tính chủ quan"
+    [languages.vi.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "Vật Lý có thể tái tạo 100%"
+      sub = "Nó mang tính khách quan"
+    [languages.vi.params.tricon1]
+      heading = "Bản chất của Linh hồn"
+      title = "Mọi thứ đều là sóng mà chúng ta nhìn nhận như là hạt"
+      sub = "Vũ trụ là tương đối, nhưng chúng ta nhìn nhận nó như là lượng tử rời rạc"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+
 
 
   [languages.ru]

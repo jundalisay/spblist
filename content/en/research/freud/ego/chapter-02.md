@@ -60,14 +60,16 @@ In this way, individuals in a group would come to show an average character.
 
 But Le Bon believes that they also display new characteristics which they have not previously possessed. He seeks the reason for this in 3 different factors.
 
-"
+
 1. The individual forming part of a group acquires, solely from numerical considerations, a sentiment of invincible power. This allows him to yield to instincts which, had he been alone, he would perforce have kept under restraint. 
 
 He will be the less disposed to check himself from the consideration that, a group being anonymous, and in consequence irresponsible, the sentiment of responsibility which always controls individuals disappears entirely.' (p. 33.)
 
-From our point of view we need not attribute so much importance to the appearance of new characteristics. For us it would be enough to say that in a group the individual is brought under conditions which allow him to throw off the repressions of his unconscious instincts. The apparently new characteristics which he then displays are in fact the manifestations of this unconscious, in which all that is evil in the human mind is contained as a predisposition. We can find no difficulty in understanding the disappearance of conscience or of a sense of responsibility in these circumstances. It has long been our contention that 'dread of society [soziale Angst]' is the essence of what is called conscience.[7]
+From our point of view we need not attribute so much importance to the appearance of new characteristics. For us it would be enough to say that in a group the individual is brought under conditions which allow him to throw off the repressions of his unconscious instincts. 
 
-"
+The apparently new characteristics which he then displays are in fact the manifestations of this unconscious, in which all that is evil in the human mind is contained as a predisposition. We can find no difficulty in understanding the disappearance of conscience or of a sense of responsibility in these circumstances. It has long been our contention that 'dread of society [soziale Angst]' is the essence of what is called conscience.[7]
+
+
 2. Contagion intervenes to determine the manifestation in groups of their special characteristics, and at the same time, the trend they are to take.
  
 

@@ -39,8 +39,8 @@ According to Newton's Second Law, net force equals mass times acceleration. This
 
 But what about a 50 kilogram Buddhist monk who floats and accelerates 1 meter/second {{< s v="2" >}} without any force? How can `0 = 50 1m/s^2`?   
 
+{{< img src="/graphics/physics/francis.jpg" alt="A monk levitating" cap="In Cartesian Physics, dark energy is the constant division of spacetime. Gravity is the relationality of sub-mass to a main mass. In this image, the monk is the sub-mass and the Earth is the main mass. Gravity is the metaphysical elastic band between the two." >}}
 
-![A monk levitating](/graphics/physics/francis.jpg)
 
 ## Aethereal Effort
 

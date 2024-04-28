@@ -1,6 +1,6 @@
 ---
 title: "Freud, Sigmund"
-heading: Unenlightened
+heading: Unenlightened and Obsessed with Sex
 linkTitle: Freud
 # date: 2022-07-21
 weight: 33
