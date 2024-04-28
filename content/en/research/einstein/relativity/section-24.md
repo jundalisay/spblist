@@ -6,7 +6,9 @@ weight: 42
 description: "Einstein explains invents the metric tensor as rigid rods in a Riemann curvature"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

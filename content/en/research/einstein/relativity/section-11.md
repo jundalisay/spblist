@@ -6,7 +6,9 @@ weight: 19
 description: "Einstein implements his c constant, relativity of time and space and moving viewpoints together as the Lorentz Transformation"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

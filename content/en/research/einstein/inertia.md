@@ -49,7 +49,7 @@ Meanwhile the body remains at rest with respect to the system (`x`, `y`, `z`).
 <!-- The principle of ∗The principle of the constancy of the velocity of light is in Maxwell’s equations. -->
 
 Energy must apply to this process, and in fact (by the principle of relativity) with respect to both systems of co-ordinates. If we call the energy of the body after the emission of light E1 or H1 respectively, measured relatively to the system (x, y, z) or (ξ, η, ζ) respectively, then by employing the relation given above we obtain
-
+<!-- 
 ```
 E0 = E1 + 
 L + 1
@@ -77,16 +77,22 @@ L
 p
 1 − v
 2/c2.
-```
+``` -->
 
-By subtraction we obtain from these equations H0 − E0 − (H1 − E1) = L (1 p
+...
+
+By subtraction we obtain from these equations 
+
+...
+
+<!-- H0 − E0 − (H1 − E1) = L (1 p
 
 ```
 1 − v
 2/c2
 − 1
 )
-```
+``` -->
 
 
 The two differences of the form `H − E` occurring in this expression have simple physical significations. 

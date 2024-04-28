@@ -6,7 +6,9 @@ weight: 22
 description: "To Einstein, the Fizeau Experiment proves that the speed of light is constant"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

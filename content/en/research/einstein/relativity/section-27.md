@@ -6,7 +6,9 @@ weight: 48
 description: "Einstein splits General Relativity from Special Relativity by creating an arbitrary, malleable spacetime"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

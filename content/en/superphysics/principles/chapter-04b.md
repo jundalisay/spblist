@@ -44,7 +44,7 @@ We do not notate States `2`, `4`, and `6` since they are pending reactions to St
 ---
 
 
-The colon means 'relative to' or 'compared to', and is a fundamental part of our proposed 'Qualimath'. 
+The colon means 'relative to' or 'compared to', and is a fundamental part of our proposed 'Qualimath'. In this way, Poincare's Law of Relativity is built into even the most elementary equations, such as those taught for kids.  
 
 This is different from normal math which uses 'deltas'.
 - Those deltas compare the object with itself at different states.
@@ -84,7 +84,7 @@ Let's say we want to convert `17 * 19 = 323` to Qualimath. This will create 3 st
 - State 2 for `19`
 - State 3 for the `answer`
 
-We notate this as `State 1 :: State 3`, deconstructed as `(17 * 19) :: answer` 
+We notate this as `(State 1 * State 2) :: State 3`, deconstructed as `(17 * 19) :: answer` 
 
 We use Egyptian Math, as Al-Khwarizmis algorithms, to deconstruct `17` (State 1) into its doubles as a ratio of the doubles of `19` (State 2).
 
@@ -121,13 +121,13 @@ Modern algebra has so many certain rules and formulas that it is full of confusi
 
 ### Decon Notation: Solving the Measurement Problem
 
-Material Superphysics will explain that the root cause in the limitations in Physics and consequently, in the technologies that humans can develop, is the limited ability of humans to perceive beyond the Electromagnetic layer. 
+Material Superphysics will explain that the root cause in the limitations in Physics (and consequently, in the technologies that humans can develop) is the limited ability of humans to perceive beyond the Radiant Layer (electromagnetism and light). 
 
 <!-- The real cause of the absurdity is the scientific decree to make things measurable.  -->
 
-Objective measurements are based on electromagnetic layer which allows light which then gives us objective information through our eyes, as our light-detectors. 
+Objective measurements are based on light giving our natural light-detectors (eyes) objective information. 
 
-Beyond Electromagnetism are the Spacetime and Aether layers. The measurements here are naturally subjective. For example:
+Beyond the Radiant Layer are the Spacetime and Aether layers where the measurements are naturally subjective. For example:
 - The distance from House A to House B can be denoted in meters, yards, feet, etc.
 - An idea can be important to some, but not important to others.  
 
@@ -149,7 +149,9 @@ We thus assign qualities to our deconstructed equations.
 
 For example, in `Wave 1 + Wave 2 = Wave 3`, we assign qualities instead of numbers and processes so we can arrive at the general outcome faster. 
 
-The `+` and `=` represent the natural operations of the human mind. The minds of less advanced species, such as penguins, might be capable of `+` and `-`, but are not capable of `*` or `/`. Likewise, human minds are limited to `=` and do not dwell so much on `:` which reqresents the hidden connection between things. 
+The `+` and `=` represent the natural operations of the human mind. The minds of less advanced species, such as penguins, might be capable of `+` and `-`, but are not capable of `*` or `/`. 
+
+Likewise, human minds seem to be limited to `=` and do not dwell so much on `:` which reqresents the hidden connection between things. 
 
 <!-- Since it deals with qualities instead of quantities, we can call it **Decon Notation** and its underlying system as **Quali-math**.  -->
 
@@ -234,7 +236,7 @@ In this universe, such a softening can be encouraged by emphasizing the abstract
 
 In `1 + 1 = 2`, the mind sweeps from the left to the right. But in `(1 + 1) :: 2`, the mind splits itself into the left and the right. It becomes an impartial spectator* of both sides or states.
 
-> *This idea was developed by Adam Smith who criticized the sophistical math of the mercantile system. Such sophistry now manifests as the strict demand for GDP growth by Economics which is currently causing mass exctinction and conflicts.
+> *This idea was developed by Adam Smith who criticized the sophistical math of the mercantile system. Such sophistry now manifests as the strict demand for GDP growth by Economics which is currently causing mass exctinction and conflicts. Economics enshrines growth because it has imposed money-only as the means of transaction. The problem is that money is an inert and static thing that gets its value from being exchanged. This constant exchange gives movement, growth, and consequently value. 
 
 
 In this way, the formula of economist John Maynard Keynes for money supply `M` as being affected by liquidity preference `L` and interest rate `r` 
@@ -242,28 +244,29 @@ In this way, the formula of economist John Maynard Keynes for money supply `M` a
 ```elixir
 M = Lr
 ```
-#
+
 becomes:
 
 
 ```elixir
 M :: (L : r)
 ```
-#
 
 when deconstructed:
 
 ```elixir
 money_supply :: (liquidity_preference : interest-rate)
 ```
-#
+
+This translates to "the money supply is totally dependent on the love of cash and the profits in lending (or cost of borrowing) cash"
+
+
 
 Likewise, Newton's gravity changes from 
 
 ```elixir
 F = (Gm1m2)/r^2
 ```
-# 
 
 into
 
@@ -275,7 +278,7 @@ F :: (G (m1/r^2 : m2/r^2))
 
 Notice how this isolates Newton's `G` away from the two masses being compared. 
 
-We then deconstruct it further:
+We then deconstruct it in Cartesian Physics further:
 
 <!-- `gravity between objects :: Gravitational_limiter (Mass1 / distance_between_them ^ 2 : Mass2 / distance_between_them ^ 2)` -->
 <!-- material-layer-gravitational-signature -->
@@ -284,16 +287,22 @@ We then deconstruct it further:
 gravity_between :: (material_layer_limiter (matter_amount_in_identity1 / distance_between^2 : matter_amount_in_identity2 / distance_between^2)
 ```
 
+This translates as "the pushing force of spacetime between 2 material identities depends on the quantity and quality of matter in them and their distance from each other."
+
+In future posts, we can apply the same technique to Maxwell's equations to show how the spacetime, radiant, and material layers work together to create Electromagnetism.  
+
+
+
 
 In price equations, this will allow us to more easily remove the influence of interest rates (of the financial system) and taxes (of the government) in order to reveal the natural price ratios from their own perspective. 
 
-The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Moreover, this system does not require PEMDAS.
+The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Notice how this system does not require PEMDAS because of the allowance for mind-splitting behavior.
 
 
 ## Math with a Practical and Moral Purpose Inspired by Al-Khwarizmi and Descartes
 
 
-The above decontstructed equation gives us 2 benefits:
+The above decontstructed equation "`gravity_between`" gives us 2 benefits:
 
 1. Practical: It helps us *code* the equation more easily into procedures and algorithms
 2. Moral: It makes us think of `Mass1` and `Mass2` independently, and separate from its limiter
@@ -321,6 +330,9 @@ A qualitative definition in one’s mind retains itself even if its mind moves i
 {{< q a="Smith" c="Theory of Moral Sentiments" >}}
 I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can survey both at equal distances, and judge their real proportions.
 {{< /q >}}
+
+{{< img src="/graphics/movement.png" alt="Superphysics Movement" cap="Qualimath uses Poincare's Law of Relativity which uses state-change instead of Einstein's Relativity which uses tensors" >}}
+
 
 
 Because of this, Qualimath also creates moral effects. It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side as what Westerners tend to do. 

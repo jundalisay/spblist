@@ -6,7 +6,9 @@ weight: 22
 description: "Einstein defines his theory of Relativity as frames of reference glued together by the constant speed of light"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

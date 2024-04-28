@@ -6,7 +6,9 @@ weight: 16
 description: "Einstein uses light as the judge for spacetime itself, instead of spacetime judging light."
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

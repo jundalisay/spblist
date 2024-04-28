@@ -8,6 +8,7 @@ icon: "/icons/einbla.png"
 image: "/covers/rel.jpg"
 writer:
   name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

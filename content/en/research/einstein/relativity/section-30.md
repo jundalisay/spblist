@@ -6,7 +6,9 @@ weight: 54
 description: "Einstein disproves Newton's theory of the universe having a center"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

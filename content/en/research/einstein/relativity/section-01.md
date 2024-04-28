@@ -6,7 +6,9 @@ weight: 4
 description: "Our perceptions of geometrical shapes are Relative and Dynamic and Not Absolute and Static"
 icon: "/icons/einbla.png"
 image: "/covers/rel.jpg"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

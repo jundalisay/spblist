@@ -85,12 +85,9 @@ ter, We increase for him his harvest; and
 whoever desires the harvest of this world, We
 give him thereof, and he has no share of the
 Hereafter.
-21. Or is it that they have partners who litigate
-for them religious laws never authorized by
-Allah? Were it not for the conclusive deci-
-sion, it would have been settled between
-them. The wicked will have a painful punish-
-ment.
+
+21. Or is it that they have partners who litigate for them religious laws never authorized by Allah? Were it not for the conclusive decision, it would have been settled between them. The wicked will have a painful punishment.
+
 22. You will see the unjust terrified of what
 they have earned, and it will befall them. As
 for those who believe and do good deeds,
@@ -98,36 +95,43 @@ they will be in the Meadows of the Gardens;
 they will have whatever they please in the
 presence of their Lord; that is the supreme
 blessing.
+
 23. That is the good news Allah gives to His
 servants who believe and do good deeds. Say,
 “I ask of you no wage for it, except affection
 among the near of kin.” Whoever does a good
 deed, We will increase its goodness for him.
-Allah is Forgiving and Appreciative.
+
+<!-- Allah is Forgiving and Appreciative. -->
+
 24. Or do they say, “He forged a lie about Al-
 lah.” If Allah so willed, He could have sealed
 your heart. But Allah obliterates the false, and
 confirm the true by His Words. He knows
 what is in the hearts.
+
 25. It is He who accepts the repentance of His
 worshipers, and remits the sins, and knows
 what you do.
+
 26. And He answers those who believe and do
 good deeds, and He increases them of His
-grace. But the disbelievers will suffer a terri-
-ble punishment.
-27. If Allah were to increase the provision to
-His servants, they would transgress on earth;
-but He sends down in precise measure what-
-ever He wills. Surely, regarding His servants,
-He is Expert and Observant.
+grace. But the disbelievers will suffer a terrible punishment.
+
+27. If Allah were to increase the provision to His servants, they would transgress on earth;
+but He sends down in precise measure whatever He wills. 
+
+Surely, regarding His servants, He is Expert and Observant.
+
 28. It is He who brings down the rain after they
 have despaired, and unfolds His mercy. He is
 the Guardian, the Praised.
+
 29. And of His signs are the creation of the
 heavens and the earth, and the creatures He
 has spread throughout them; and He is Able
 to gather them at will.
+
 30. Whatever misfortune befalls you, it is be-
 cause of what your hands have earned; and
 yet He pardons much.
@@ -188,9 +192,7 @@ He grants sons or daughters to whomever He wills.
 females; and He renders whomever He wills
 sterile. He is Knowledgeable and Capable.
 
-51. It is not for any human that Allah should speak to him, except by inspiration, or from
-behind a veil, or by sending a messenger to reveal by His permission whatever He wills.
-
+51. It is not for any human that Allah should speak to him, except by inspiration, or from behind a veil, or by sending a messenger to reveal by His permission whatever He wills.
 
 52. We thus inspired you spiritually, by Our command.
 

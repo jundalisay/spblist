@@ -1,7 +1,7 @@
 ---
 title: "Brahmajāla Sutta"
 weight: 900
-description: "Adanta Sutras: Untamed"
+description: "This is from the Adanta Sutras: Untamed"
 image: "/photos/meta/buddhism.jpg"
 ---
 
@@ -11,13 +11,19 @@ image: "/photos/meta/buddhism.jpg"
 
 I have heard that on one occasion the Blessed One was traveling on the highway between Rājagaha & Nālanda with a large Saṅgha of monks, approximately 500 monks.
 
-And Suppiya the wanderer was traveling on the highway between Rājagaha & Nālanda with his apprentice, Brahmadatta the young brahman.
+Suppiya the wanderer was traveling on the highway between Rājagaha & Nālanda with his apprentice, Brahmadatta the young brahman.
 
-Along the way, Suppiya the wanderer spoke in many ways in dispraise of the Buddha, in dispraise of the Dhamma, in dispraise of the Saṅgha. But Suppiya the wanderer’s apprentice, Brahmadatta the young brahman, spoke in many ways in praise of the Buddha, in praise of the Dhamma, in praise of the Saṅgha. Thus both of these, mentor & apprentice, speaking in direct contradiction to each other, followed right behind the Blessed One and the Saṅgha of monks.
+Along the way, Suppiya the wanderer spoke in many ways in dispraise of the Buddha, in dispraise of the Dhamma, in dispraise of the Saṅgha. But Suppiya the wanderer’s apprentice, Brahmadatta the young brahman, spoke in many ways in praise of the Buddha, in praise of the Dhamma, in praise of the Saṅgha. 
 
-Then the Blessed One, together with the Saṅgha of monks, entered the royal resthouse at Mango Stone to spend the night. And Suppiya the wanderer, together with his apprentice, Brahmadatta the young brahman, entered the royal resthouse at Mango Stone to spend the night. There, too, Suppiya the wanderer spoke in many ways in dispraise of the Buddha, in dispraise of the Dhamma, in dispraise of the Saṅgha. But Suppiya the wanderer’s apprentice, Brahmadatta the young brahman, spoke in many ways in praise of the Buddha, in praise of the Dhamma, in praise of the Saṅgha. Thus both of these, mentor & apprentice, speaking in direct contradiction to each other, followed right behind the Blessed One and the Saṅgha of monks.
+Thus both of these, mentor & apprentice, speaking in direct contradiction to each other, followed right behind the Blessed One and the Saṅgha of monks.
 
-Then, among a large number of monks who had arisen in the last watch of the night and were sitting gathered together in a pavilion, this discussion arose: “Isn’t it amazing! Isn’t it astounding!—how the Blessed One, the one who knows, the one who sees, worthy & rightly self-awakened, has truly experienced the differing convictions of beings. For this Suppiya the wanderer speaks in many ways in dispraise of the Buddha, in dispraise of the Dhamma, in dispraise of the Saṅgha. But Suppiya the wanderer’s apprentice, Brahmadatta the young brahman, speaks in many ways in praise of the Buddha, in praise of the Dhamma, in praise of the Saṅgha. Thus both of these, mentor & apprentice, speaking in direct contradiction to each other, follow right behind the Blessed One and the Saṅgha of monks.”
+Then the Blessed One, together with the Saṅgha of monks, entered the royal resthouse at Mango Stone to spend the night. And Suppiya the wanderer, together with his apprentice, Brahmadatta the young brahman, entered the royal resthouse at Mango Stone to spend the night. 
+
+There, too, Suppiya the wanderer spoke in many ways in dispraise of the Buddha, in dispraise of the Dhamma, in dispraise of the Saṅgha. But Suppiya the wanderer’s apprentice, Brahmadatta the young brahman, spoke in many ways in praise of the Buddha, in praise of the Dhamma, in praise of the Saṅgha. Thus both of these, mentor & apprentice, speaking in direct contradiction to each other, followed right behind the Blessed One and the Saṅgha of monks.
+
+Then, among a large number of monks who had arisen in the last watch of the night and were sitting gathered together in a pavilion, this discussion arose: “Isn’t it amazing! Isn’t it astounding!—how the Blessed One, the one who knows, the one who sees, worthy & rightly self-awakened, has truly experienced the differing convictions of beings. For this Suppiya the wanderer speaks in many ways in dispraise of the Buddha, in dispraise of the Dhamma, in dispraise of the Saṅgha. 
+
+But Suppiya the wanderer’s apprentice, Brahmadatta the young brahman, speaks in many ways in praise of the Buddha, in praise of the Dhamma, in praise of the Saṅgha. Thus both of these, mentor & apprentice, speaking in direct contradiction to each other, follow right behind the Blessed One and the Saṅgha of monks.”
 
 Then the Blessed One, knowing this discussion of the monks, went to the pavilion and, on arrival, sat down on a seat laid out. Seated, he addressed the monks: “For what topic of conversation are you sitting gathered together here? What is the topic of your conversation that has been interrupted midway?”
 
@@ -37,7 +43,8 @@ When this was said, the monks said to the Blessed One, “Just now, lord, among 
 
 “It would be of minor matters, lower matters, matters of virtue, that a run-of-the-mill person, when praising the Tathāgata, would speak. And which are the minor matters, lower matters, matters of virtue, of which a run-of-the-mill person, when praising the Tathāgata, would speak?
 
-The Lesser Section on Virtue
+## The Lesser Section on Virtue
+
 “‘Abandoning the taking of life, the contemplative Gotama abstains from the taking of life. He dwells with his rod laid down, his knife laid down, scrupulous, merciful, compassionate for the welfare of all living beings.’ It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
 
 “Or: ‘Abandoning the taking of what is not given, the contemplative Gotama abstains from taking what is not given. He takes only what is given, accepts only what is given, lives not by stealth but by means of a self that has become pure.’ It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
@@ -95,7 +102,8 @@ The Intermediate Section on Virtue
 
 “It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
 
-The Great Section on Virtue
+## The Great Section on Virtue
+
 “Or: ‘Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as:
 
 reading marks on the limbs [e.g., palmistry];

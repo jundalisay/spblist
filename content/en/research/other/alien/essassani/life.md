@@ -1,28 +1,11 @@
 ---
-title: "Life"
+title: "Life and the Seven Neutral Needs"
 weight: 6
 image: "/photos/physics/quasar.jpg"
 description: "Your life becomes whatever you focus your attention on."
 author: Consolidated from Bashar
 ---
 
-
-
-## The Uniqueness of Each Incarnation
-
-Each Soul extends portions of itself into time & space as particular incarnations. 
-- There are many incarnations at many points in time and space, just as one hand has many fingers. 
-- All souls emanating from the same Soul.  
-
-From the point of view of your Soul (outside time & space), all these incarnations (past incarnations, present incarnation, future incarnations) are all simultaneously occurring NOW. 
-
-Each incarnation of your Soul is a unique "version" of you that in all eternity will never occur again. 
-
-This incarnation or version of you will never occur again. So:
-- be the most you that you can be! 
-- be fully who you are! 
-
-That is the fulfillment of your purpose.
 
 
 ## Five Forms of Abundance
@@ -82,6 +65,22 @@ The Essassani no longer need to eat or sleep because they are always connected t
 This is an expression of your unique purpose or identity. This is where acting on your passions come in.  This expresses your energy. 
 
 
+
+## The Uniqueness of Each Incarnation
+
+Each Soul extends portions of itself into time & space as particular incarnations. 
+- There are many incarnations at many points in time and space, just as one hand has many fingers. 
+- All souls emanating from the same Soul.  
+
+From the point of view of your Soul (outside time & space), all these incarnations (past incarnations, present incarnation, future incarnations) are all simultaneously occurring NOW. 
+
+Each incarnation of your Soul is a unique "version" of you that in all eternity will never occur again. 
+
+This incarnation or version of you will never occur again. So:
+- be the most you that you can be! 
+- be fully who you are! 
+
+That is the fulfillment of your purpose.
 
 
 ## Unified Society

@@ -1,6 +1,6 @@
 ---
 title: "The Gospel of Thomas" 
-description: ""
+description: "The Gospel of Thomas is not a canonical Gospel"
 weight: 50
 image: "/covers/jesus.jpg"
 ---

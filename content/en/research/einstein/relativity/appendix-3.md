@@ -6,7 +6,9 @@ date: 2022-01-02
 description: "Einstein explains the Confirmations of General Relativity"
 icon: "/icons/einbla.png"
 image: "/covers/rel.jpg"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

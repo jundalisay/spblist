@@ -6,7 +6,9 @@ weight: 24
 description: "Eistein's Relativity leads to mass-energy also being constrained by c, leading to E = mc2"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

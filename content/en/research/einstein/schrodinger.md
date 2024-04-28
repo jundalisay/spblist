@@ -3,7 +3,9 @@ title: "Does Schrödinger’s Wave Mechanics Completely Determine a System's Mot
 description: "The recent work by E. Fermi and L. Szilard leads me to expect that uranium may be turned into a new and important source of energy"
 image: "/covers/einstein.jpg"
 weight: 41
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 Berlin, 5 May 1927

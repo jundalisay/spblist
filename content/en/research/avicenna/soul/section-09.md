@@ -1,7 +1,7 @@
 ---
 heading: "Section 9"
 title: "The Proofs of the Essentiality of the Soul, and of Its Independence of Body"
-description: ""
+description: "One of the logical proofs for establishing this Claim requires premisses"
 writer:
   name: Avicenna
   url: https://en.wikipedia.org/wiki/Avicenna
@@ -15,9 +15,7 @@ image: "/covers/soul.jpg"
 
 ## SUB-SECTION A
 
-One of the logical proofs for establishing this Claim:
-
-Let us however first preface it with premisses, among which are:—
+One of the logical proofs for establishing this Claim requires premisses, among which are:
 
 ### Premise 1
 

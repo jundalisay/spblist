@@ -5,7 +5,9 @@ date: 2022-04-24
 description: "The Classical movements of Galilei-Newton are valid only for a Galileian system of coordinates (material layer)"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

@@ -6,7 +6,9 @@ weight: 10
 description: "The principle of relativity applies with great accuracy in mechanics"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

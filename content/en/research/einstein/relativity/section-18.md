@@ -6,7 +6,9 @@ weight: 30
 description: "For the physical description of natural processes, neither of the reference-bodies K, K' is unique (lit. 'specially marked out') as compared with the other"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"
-author: Albert Einstein
+writer:
+  name: Albert Einstein
+  url: https://en.wikipedia.org/wiki/Albert_Einstein
 ---
 
 

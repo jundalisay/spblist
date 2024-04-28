@@ -49,35 +49,75 @@ The present Bengali society and civilization are the outcome of the mutual excha
 
 The greatest contribution of this civilization has been the well-structured and well-disciplined Tantra sádhaná. Tantra wields the greatest influence over the customs and usages of modern Bengal and eastern India. As a matter of fact, Tantra has had a more pervasive influence throughout all of India than have the Vedas, yet nowhere has this Tantric or non-Aryan influence been greater than in the eastern part of India.
 
-The iron bangles of the women, the vermilion mark in the parting of their hair, the various marriage customs and rites, etc., are all different social practices borrowed from the non-Aryans. The custom of addressing all women as “mother” (masiimá, pisiimá, kákiimá [aunts], didimá [grandmother], etc.) bears the mark of Tantric influence, because in Tantra the social dominance of women was widely accepted. Even the little non-Tantric or patrilineal influence that exists in the upper castes of Bengali society is not borrowed from the Aryans of northern India, but is a result of the close and intimate trans-oceanic relations that Bengal had in those days with regions outside India.
+
+
+The following are social practices borrowed from the non-Aryans:
+- the iron bangles of the women
+- the vermilion mark in the parting of their hair
+- the various marriage customs and rites, etc. 
+
+
+## 1. Matrilinear System
+
+The custom of addressing all women as “mother” (masiimá, pisiimá, kákiimá [aunts], didimá [grandmother], etc.) bears the mark of Tantric influence. This is because in Tantra, the social dominance of women was widely accepted. 
+
+The Tantric matrilineal order prevails even today in the Dravid-Keralite and Mongolo-Khashian societies.
+
+Northern India was governed by the Mitákśará or patrilineal system.
+
+Even the little non-Tantric or patrilineal influence that exists in the upper castes of Bengali society is not borrowed from the Aryans of northern India. Instead, it is a result of the close and intimate trans-oceanic relations that Bengal had in those days with regions outside India.
 
 In the life of Bengal, Tantra has surrendered to Veda only with respect to language.
 
-In fact, there was no alternative but to acknowledge this defeat: The Bengalees of those days were followers of Tantra who spoke many different languages. When they decided to formulate a new language of their own, they were bound to accept the language of the foreign Aryans due to its highly expressive power. 
+In fact, there was no alternative but to acknowledge this defeat. The Bengalees of those days were followers of Tantra who spoke many different languages. 
+
+When they decided to formulate a new language of their own, they were bound to accept the language of the foreign Aryans due to its highly expressive power. 
 
 The Dravidian and Mongolian languages [although also a form of Sanskrit] were not so expressive as the Sanskrit language of the Vedas.
 
-Although the Aryan conquerors were unable to influence the social life of Bengal to any appreciable degree, due to their influence the Tantric matrilineal social system of Bengal (the Tantric matrilineal order prevails even today in the Dravid-Keralite and Mongolo-Khashian societies) partially accepted the patrilineal order as well. As a result Bengal, though not governed by the Mitákśará, or patrilineal, system of northern India, built up a new social order according due respect to both father and mother. Subsequently, in recognition of this new social system, Bengal officially rescinded the Mitákśará system [insofar as it officially existed], and in its place established the Dáyabhága(3) system.
+The Aryan conquerors were unable to influence the social life of Bengal to any appreciable degree. Nevertheless, the Tantric matrilineal social system of Bengal partially accepted the patrilineal order as well due to their influence. 
+
+
+As a result, Bengal built up a new social order according due respect to both father and mother. 
+
+Subsequently, in recognition of this new social system, Bengal officially rescinded the Mitákśará system [insofar as it officially existed], and in its place established the Dáyabhága(3) system.
+
+
+## 2. Bengali language
 
 The second result of the Aryan influence was the Bengali language.
 
-The language that the Bengalees of the Vedic era used to speak had no connection with the Vedic language. Neither could the Vedic Aryans understand it. The Aryans used to say, “That is a country of birds. We don’t understand what those birds chirp and twitter.” Be that as it may, due the Vedic influence, particularly due to the influence of the eastern Vedic dialect, Mágadhii Prákrta, there emerged a Sanskrit-based Aryan language in Bengal. Later on the Tantrics of this area composed Tantric literature using Sanskrit(4) and the new Sanskrit-based Bengali.
+The language that the Bengalees of the Vedic era used to speak had no connection with the Vedic language. 
 
-In spite of their accepting the Aryan language, the Tantrics never gave up their own style of pronunciation. Even today the Mágadhii group of languages, particularly the Eastern Demi-Mágadhii group (Bengali, Oriya, Assamese and Maethilii), has a style of pronunciation that is completely its own. In spite of later distortions in the mode of pronunciation in northern India, due to the non-cultivation of the Sanskrit language and the heavy use of Arabic- and Persian-influenced Urdu, eastern and southern India did not give up their ancient modes of pronunciation. In ancient times the people speaking Shaorasenii and Málavii dialects used to make fun of the people speaking the Mágadhii dialect, which was heavily influenced by Tantra. 
+Neither could the Vedic Aryans understand it. The Aryans used to say, “That is a country of birds. We don’t understand what those birds chirp and twitter.” 
+
+Be that as it may, due the Vedic influence, particularly due to the influence of the eastern Vedic dialect, Mágadhii Prákrta, there emerged a Sanskrit-based Aryan language in Bengal. Later on the Tantrics of this area composed Tantric literature using Sanskrit(4) and the new Sanskrit-based Bengali.
+
+In spite of their accepting the Aryan language, the Tantrics never gave up their own style of pronunciation. 
+
+Even today, the Mágadhii group of languages, particularly the Eastern Demi-Mágadhii group (Bengali, Oriya, Assamese and Maethilii), has a style of pronunciation that is completely its own. 
+
+In spite of later distortions in the mode of pronunciation in northern India, due to the non-cultivation of the Sanskrit language and the heavy use of Arabic- and Persian-influenced Urdu, eastern and southern India did not give up their ancient modes of pronunciation. In ancient times the people speaking Shaorasenii and Málavii dialects used to make fun of the people speaking the Mágadhii dialect, which was heavily influenced by Tantra. 
 
 Thus the people of the western part of the Mágadhii-speaking area, that is, the Magahii- and Bhojpuri-speaking people, tried to pronounce in the Shaorasenii style. Though there is, as a result, some influence of Shaorasenii and Hindi on the pronunciation of the Magahii and Bhojpuri dialects, the intonation of the saḿvrta(5) a has remained unchanged. The Tantric pronunciations of jiṋa, ńa, śa, hya, and kśa are also still prevalent in eastern India today.
 
-The Aryans had a developed language but no script. It was indeed the Tantrics, and not the Vedics, who invented script and acoustic science. So far as correctness of pronunciation is concerned, the Tantric mode is to be accepted, not the Vedic. Remember that each of the fifty letters of the Sanskrit akśaramálá [alphabet] constitutes one acoustic root of Tantra. It was for the purpose of spiritual practice that the Tantrics had discovered these roots. Here the Aryans deserve no credit at all.
+The Aryans had a developed language but no script. It was indeed the Tantrics, and not the Vedics, who invented script and acoustic science. So far as correctness of pronunciation is concerned, the Tantric mode is to be accepted, not the Vedic. 
 
-The Tantric influence exists in all the Indian languages;(6) it is also prominent in observances and ceremonies. The non-Aryan and Tantric influence is prominent not only in social functions, but in religious ceremonies as well, due to the influence of the Tantric gods and goddesses.
+Remember that each of the 50 letters of the Sanskrit akśaramálá [alphabet] constitutes one acoustic root of Tantra. It was for the purpose of spiritual practice that the Tantrics had discovered these roots. Here the Aryans deserve no credit at all.
+
+The Tantric influence exists in all the Indian languages (6), It is also prominent in observances and ceremonies. The non-Aryan and Tantric influence is prominent not only in social functions, but in religious ceremonies as well, due to the influence of the Tantric gods and goddesses.
 
 In eastern India, particularly in Bengal, popular gods and goddesses such as Shiitalá (the goddess of smallpox), Manasá (the goddess of snakes), Niila T́hákura and Bat́uka Bhaerava [a Buddhist Tantric deity] are all Tantric gods and goddesses but are nevertheless worshipped in Hindu temples as Hindu gods and goddesses. (Bat́uka → Baŕua → Baŕuyá → Baŕo – in the rural areas of Bengal, Boŕo Shiva or Buŕo Shiva.(7) )
 
-Even the Satyanáráyańa of eastern India is a non-Aryan deity. Of course in this worship we also find some influence by the Muslims who came from the Arab world. Betels, plantains, areca nuts and coconuts [as used to worship Satyanáráyańa] are the main paraphernalia of non-Aryan worship, because they are Dravidian in origin. Perhaps the Vedic Aryans had never heard of these things, and perhaps there were no words for them in the Vedic language or in old Sanskrit. 
+Even the Satyanáráyańa of eastern India is a non-Aryan deity. 
+
+Of course in this worship we also find some influence by the Muslims who came from the Arab world. Betels, plantains, areca nuts and coconuts [as used to worship Satyanáráyańa] are the main paraphernalia of non-Aryan worship, because they are Dravidian in origin. Perhaps the Vedic Aryans had never heard of these things, and perhaps there were no words for them in the Vedic language or in old Sanskrit. 
 
 Words like nágavallarii [a kind of creeping plant], kadalii [plaintain] and nárikela [coconut] are modern Sanskrit, but these things are widely used in the worship of Satyanáráyańa and in other popular worship. Only the shirńii [food offered to a god] of the Muslims in the worship of Satyanáráyańa is imported.
 
-Sugar cane, coconut, limes, grapefruit, powdered rice, etc., used in the Chat́ Pújá [Sun Worship] are important food items in Dravidian festivities. Another noteworthy fact is that in the Chat́ and a number of other popular pújás, the Vedics or Brahmans have no place at all, or if they do participate, have a secondary role. The women play a most significant role in these pújás. The speciality of non-Aryan ceremonies is that the women’s role is predominant. Yet another remarkable factor is that although the Vedic sun-god is a male god, the non-Aryan sun-god is female, a goddess. Thus in eastern India worshippers address the sun-god as “Chat́ Máyii” instead of “Chat́ Pitá”. 
+Sugar cane, coconut, limes, grapefruit, powdered rice, etc., used in the Chat́ Pújá [Sun Worship] are important food items in Dravidian festivities. Another noteworthy fact is that in the Chat́ and a number of other popular pújás, the Vedics or Brahmans have no place at all, or if they do participate, have a secondary role. 
+
+The women play a most significant role in these pújás. The speciality of non-Aryan ceremonies is that the women’s role is predominant. Yet another remarkable factor is that although the Vedic sun-god is a male god, the non-Aryan sun-god is female, a goddess. Thus in eastern India worshippers address the sun-god as “Chat́ Máyii” instead of “Chat́ Pitá”. 
 
 The non-Aryan worship of Dalapati or Gańapati (group leader or people’s leader) prevalent in the non-Aryan Austric society, is also prevalent in the Aryan society in the name of Gańapati Pújá or Gańesha Pújá [actually this worship meant the worship of the group or society of the Austric people]. 
 
@@ -91,12 +131,28 @@ It would appear that rice seemed to be rather a queer thing to the Aryans, becau
 
 Tańd́ula means “one whose characteristic is to jump”. The word cál or cául [husked but uncooked rice] is derived from the Bengali root cálá – which means “sifting” in order to separate the rice from the chaff.
 
-Spiritual practice was common in the Tantric society. There is no spiritual vigour whatsoever in the lives of those who support pompous, so-called religious, ceremonies, as there is in the lives of introspective spiritual practitioners. After the Aryans came into India, two types of practice used to take place side by side: on the one side the sacrificial fires of the rśis, characterized by the smell of burning ghee and the sonorous refrains of those paying homage to the manes while offering oblations into the fire; and on the other side, the non-Aryans’ Tantra sádhaná, the practice of self-control and attainment of divine power. Spiritual depth and power of sádhaná brought fearlessness into the spiritual lives of the non-Aryans, as befitting staunch Tantrics.
+Spiritual practice was common in the Tantric society. 
 
-The non-Aryans regarded the Aryans’ sacrificial ceremonies as a time-killing childish pastime and would sabotage them whenever convenient. The Aryan munis and rśis asked the Aryan kings for protection against these saboteurs – or, in the language of the Aryans, these rákśasas, pashus and pishácas. 
+There is no spiritual vigour in those who support pompous, so-called religious, ceremonies, as there is in the lives of introspective spiritual practitioners. 
 
-Innumerable stories to this effect can be found in different Sanskrit books, even today. Although the words rákśasa [demon], pashu [beast] and pisháca [ghoul] were used in a general way to describe the non-Aryans, actually the Dravidians were normally called rákśasas (the short-statured among them “monkeys”), the Mongolians, asuras [monsters], and those Tantrics who did shava sádhaná [sádhańa upon dead bodies] in cemeteries and cremation grounds, pishácas. 
+After the Aryans came into India, 2 types of practice used to take place side by side:
 
+1. The sacrificial fires of the rśis
+
+This was characterized by the smell of burning ghee and the sonorous refrains of those paying homage to the manes while offering oblations into the fire.
+
+2. The non-Aryans’ Tantra sádhaná
+
+This was the practice of self-control and attainment of divine power. Spiritual depth and power of sádhaná brought fearlessness into the spiritual lives of the non-Aryans, as befitting staunch Tantrics.
+
+The non-Aryans regarded the Aryans’ sacrificial ceremonies as a time-killing childish pastime and would sabotage them whenever convenient. 
+
+The Aryan munis and rśis asked the Aryan kings for protection against these saboteurs – or, in the language of the Aryans, these rákśasas, pashus and pishácas. 
+
+Innumerable stories to this effect can be found in different Sanskrit books, even today. 
+
+Although the words rákśasa [demon], pashu [beast] and pisháca [ghoul] were used in a general way to describe the non-Aryans, actually the Dravidians were normally called rákśasas (the short-statured among them “monkeys”), the Mongolians, asuras [monsters], and those Tantrics who did shava sádhaná [sádhańa upon dead bodies] in cemeteries and cremation grounds, pishácas. 
+ 
 The Aryans also declared that these gangs of rákśasas and pishácas were cannibals. They drew horrible sketches of the dark-complexioned Dravidians and high-cheekboned and flat-nosed Mongolians, with grotesque forms and features, to prove them contemptible and vile. Actually they were a lot more civilized and educated than the Aryans.
 
 Apart from this there were many Aryans who married the daughters of these rákśasas and asuras, entranced by their beauty and qualities (those who had a mixture of Mongolian and Dravidian blood had particularly beautiful features). Bhiima married Hid́imbá, a non-Aryan girl; Arjuna married Citráuṋgadá, also a non-Aryan girl. 
