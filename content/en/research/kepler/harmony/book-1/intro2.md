@@ -13,7 +13,7 @@ icon: /avatars/kepler.png
 
 Following Ramus, Lazarus Schoner in his Geometry confessed that he could see absolutely no use for the 5 regular solids in the world.
 
-This was until he perused my little book 'The Secret of the Universe', in which I prove that the number and distances of the planets were taken from the 5 regular solids.
+This was until he read my little book 'The Secret of the Universe' in which I prove that the number and distances of the planets were taken from the 5 regular solids.
 
 See what damage Ramus the master did to Schoner the disciple. 
 
@@ -43,7 +43,7 @@ If the Pythagoreans attributed these shapes to the elements and not to the orbit
 
 If the Pythagoreans put forward the same teaching as mine and hid their doctrine by wrapping it up in words then Ramus would not say what he said.
 - In this way, the Copernican 'world' would be found in Aristotle himself
-- Ramus would then be wrong to falsely refute Coernicus under other names, as they called the Sun, Fire, and the Moon the Counter Earth
+- Ramus would then be wrong to falsely refute Copernicus under other names, as they called the Sun, Fire, and the Moon the Counter Earth
 
 Suppose that:
 - the disposition of the orbits of the Pythagoreans and Copernicus were the same
@@ -54,18 +54,21 @@ Suppose that the Pythagoreans and Copernicus all consistently taught that the 5 
 
 It would then be so easy for us to believe that their doctrine was in the form of a riddle was.
 - The Pythagoreans assigned the cube to the Earth, but I think they really meant Saturn -- its orbit was separated from Jupiter by the interposition of the cube.
-- This riddle was read by Aristotle who refuted it correctly refuted it
+- This riddle was read by Aristotle who refuted it correctly
 <!-- in the true sense of the words, when Aristotle read it as  -->
 
 The common herd ascribe rest to the Earth. But data shows that Saturn has a very slow motion which is very close to rest. 
-- This is why the Hebrews gave it a name from the word “rest” 
+- This is why the Hebrews gave it a name from the word “rest”*
+
+> *Superphysics Note: In Cartesian Physics, Saturn and Jupiter have slow orbits and are large because the gravitational territory of the sun or a star has 3 parts: the inner, middle, and outer parts. The inner part is fast. The middle part is slow -- this leads to large planets. The outer part is Medium. These parts are an effect of a rotating vortex. 
+
 
 
 The Pythagoreans assigned the octahedron to air. But I think they meant Mercury -- its orbit was enclosed by the octahedron.
 - Mercury is as swift as our nimble air is
 <!-- Similarly, Aristotle read it as the air to which the  was given, whereas they as it happened , the  of which  -->
 
-Mars was the interpreted to the word “fire, amd so the tetrahedron was given to Mars perhaps because its orbit is enclosed by that shape.
+Mars was the interpreted to the word “fire, and so the tetrahedron was given to Mars perhaps because its orbit is enclosed by that shape.
  <!-- which also had elsewhere the name Pyrois (fiery one) from fire; and to it  -->
 
 
@@ -76,10 +79,13 @@ Lastly, the word “world” could signify the Earth.
 
 The dodecahedron is assigned to the world. I think this is because the Earth’s course is contained within that shape, and marked off into 12 sections of its length, as a dodecahedron is contained within 12 faces around. 
 
+
+## The 5 Shapes are the 5 Planets, not the 5 Elements
+
 **Therefore, the Pythagoreans were assigning the the 5 shapes not among the elements, as Aristotle believed, but among the planets themselves.**
 - This is very strongly confirmed by Proclus telling us that the aim of geometry is to tell how the heaven has received appropriate shapes for definite parts of itself*.
 
-> *Sueprphysics Note: Here only Kepler is mistaken. Euclid, Proclus, and the Pythagoreans were correct. The 5 shapes are the visualization of the 5 layers of Strong force, Weak force, Electromagnetism, Spacetime, and Aether. This is different from their current visualization which uses color as quantum chromodynamics.  
+> *Superphysics Note: Here only Kepler is mistaken. Euclid, Proclus, and the Pythagoreans were correct. The 5 Shapes are the visualization of the 5 Elements which to Superphysics are the 5 Layers of Strong force, Weak force, Electromagnetism, Spacetime, and Aether. This is different from their current visualization which uses color as quantum chromodynamics.  
 
 
 <!-- Nor is this yet the end of the damage which Ramus has inflicted on us. Consider the most ingenious of today’s geometers,  -->
@@ -118,7 +124,7 @@ I say, to those who molest the inexpressibles with numbers, that is by expressin
 
 But I deal with those kinds not with numbers, not by algebra, but by mental processes of reasoning, because of course I do not need them in order to draw up accounts of merchandise, but to explain the causes of things. 
 
-He considers that such subtleties should be kept out of a “primer” and hidden away in a library.
+Snel considers that such subtleties should be kept out of a “primer” and hidden away in a library.
 - He keeps as the faithful disciple of Ramus
 
 Ramus removed the form from Euclid’s edifice, and tore down the coping stone, the 5 solids. 
@@ -131,7 +137,7 @@ Snel takes away the stonework as well because he saw no use for it other than th
 They think that:
 - the “Elements” is so called because Euclid knew every kind of propositions, problems, and theorems, for every kind of quantities.
  <!-- and of the arts concerned with them, whereas the book is called -->
-- the “Elementary Primer” which is the first in the chain of propositions
+- the “Elementary Primer” is the first in the chain of propositions
 
 <!-- from its form, because the following proposition always depends on the preceding one right up to the last one of the last Book (and partly also that of the ninth Book), which cannot do without any of the previous ones.  -->
 
@@ -142,12 +148,12 @@ They think that Euclid wrote his book to accommodate everybody else, but was the
 
 I saw that the true distinguishing features of geometrical objects. From them I drew out the causes of the harmonic proportions which were totally unknown to the common herd.
 
-Euclid had the zeal to handed them down. 
+Euclid had the zeal to hand them down. 
 
 <!-- He is being hooted off by the scoffing of Ramus. He is drowned by the din of frivolous people, is properly heard by no-one, or is reciting the secrets of philosophy to the deaf; and that Proclus, who could have opened the mind of
 Euclid, disclosed what was hidden, and made easy what was too difficult to grasp, was being mocked and had not continued his commentaries right up to Book 10. -->
 
-I therefore realized that had to:
+I therefore realized that I had to:
 - transcribe from Book 10 of Euclid what chiefly related to my present undertaking
 - bring to light the train of thought of that Book, inserting mention of certain definite divisions
 - indicate why some branches of the divisions were omitted by Euclid. 

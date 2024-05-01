@@ -157,7 +157,7 @@ The collective wave of desire of society is most easily seen in the following wh
 - foreign exchange rates
 - cryptocurrencies (as long as they are market-driven)
 
-{{< img src="/graphics/econ/wework.png" alt="We Work Stock price" cap="Stock prices reflect the Positive or Negative force in an economy. (Update April 20, 2024" >}}
+{{< img src="/graphics/econ/wework.png" alt="We Work Stock price" cap="Stock prices reflect the Positive or Negative force in an economy. (Update April 29, 2024)" >}}
 
 
 We can say that:
@@ -172,9 +172,9 @@ Sometimes you want a thing, sometimes you don't. But normally, the number of you
 
 In a society, this collective desire-waning manifests as chronic deflation, as seen in Japan which has a declining population.
 
-Since the 2008 financial crisis, the global economy has not risen as fast as before even if the global population has kept on increasing. 
+Since the 2008 financial crisis, the global economy however has not risen as fast as before even if the global population has kept on increasing. 
 
-{{< img src="/graphics/econ/world.jpg" alt="World GDP" cap="World GDP is lower than natural (Update April 20, 2024)" >}}
+{{< img src="/graphics/econ/world.jpg" alt="World GDP" cap="World GDP is lower than natural (Update April 29, 2024)" >}}
 
 For example, global GDP growth from 2009 to 2019* has only been 2.75%.
 - High population growth Pakistan was at 4.1% GDP growth
@@ -183,11 +183,11 @@ For example, global GDP growth from 2009 to 2019* has only been 2.75%.
 > *We exclude data from 2020 because the pandemic was a natural event that disrupted economies. Growth from 2020 would still be growth from a natural disaster and not really a man-made one, as different countries had different lockdown policies. 
 
 
-The minimum GPD growth after the Financial Crisis should have been 2.9%, and ideally a little under 3.4% which is the average from 1998 to 2008. This is to account for the higher oil prices from 2009. 
+The minimum GDP growth after the Financial Crisis should have been 2.9%, and ideally a little under 3.4% which is the average from 1998 to 2008. This is to account for the higher oil prices from 2009. 
 
-This means that the collective desire of humans has not risen, which then contradicts its natural behavior. Moreover, you'd expect that the global economy would be booming since oil prices are low at around $45 [September 2015]. 
+This means that **the collective desire of humans has not risen**, which then contradicts its natural behavior. Moreover, you'd expect that the global economy would be booming since oil prices are low at around $45 [September 2015]. 
 
-{{< img src="/graphics/econ/oil.jpg" alt="Oil Price Chart" cap="At the time this post was made, oil was around $45. As of April 2024, it is nearly double at $81 (Update April 20, 2024" >}}
+{{< img src="/graphics/econ/oil.jpg" alt="Oil Price Chart" cap="At the time this post was made, oil was around $45. As of April 2024, it is nearly double at $81 (Update April 29, 2024" >}}
 
 Therefore, there must be something artificial that is hindering the natural desires of humans. 
 
@@ -216,9 +216,11 @@ Stock trading and stock markets | Stock crashes
 Institutions such as Bretton Woods | Debt Crises
 
 
-Even if an entrepreneur wants to borrow money to create a new product that satisfies the emerging needs of the people, he is subject to interest rates that is decreed by financial authorities. Before the invention of open-market operations, interest rates were decided by the actual market. 
+Even if an entrepreneur wants to borrow money to create a new product that satisfies the emerging needs of the people, he is subject to interest rates that is decreed by financial authorities. 
 
-Each bank would have a different interest rate depending on its capital stock and the repayments of its borrowers. For example, Adam Smith cites the [Ayr Bank](https://www.superphysics.org/research/smith/wealth-of-nations/book-2/chapter-2i/) which lent at a low 5% interest when the prevailing rate was 6-8%. This caused businessmen to flock to it, causing the [1772 credit crunch](https://www.superhysics.org/social/economics/1772-credit-crunch/)*. 
+Before the invention of open-market operations, interest rates were decided by the actual market. Each bank would have a different interest rate depending on its capital stock and the repayments of its borrowers. 
+
+For example, Adam Smith cites the [Ayr Bank](https://www.superphysics.org/research/smith/wealth-of-nations/book-2/chapter-2i/) which lent at a low 5% interest when the prevailing rate was 6-8%. This caused businessmen to flock to it, causing the [1772 credit crunch](https://www.superhysics.org/social/economics/1772-credit-crunch/)*. 
 
 > *This is why the 1772 Credit Crunch has the same metaphysics as the 2008 Financial Crisis. This formed a pattern which then helped us predict a 2019 global stagflation.
 
@@ -279,5 +281,5 @@ Hopefully, that future crisis, which we predict to be a long global stagflation 
 {{< box >}}
 Date | Update
 --- | ---
-April 20, 2024 | Overhauled the post to make it simpler. In the book version, this post will be a chapter that removes references about the prediction since it would be irrelevant. <br><br> Since the global stagflation is already here, it will be overhauled to look back at how that stagflation matched the principles laid out by Adad Smith (for profit cycles) and Socrates (for social cycles).  
+April 29, 2024 | Overhauled the post to make it simpler. In the book version, this post will be a chapter that removes references about the prediction since it would be irrelevant. <br><br> Since the global stagflation is already here, it will be overhauled to look back at how that stagflation matched the principles laid out by Adad Smith (for profit cycles) and Socrates (for social cycles).  
 {{< /box >}}

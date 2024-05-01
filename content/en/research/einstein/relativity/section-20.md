@@ -19,17 +19,25 @@ writer:
 
 It is then possible to choose a Galileian reference-body for this part of space, relative to which points at rest remain at rest and points in motion continue permanently in uniform rectilinear motion.  -->
 
-Assume that, in outerspace, there is a huge glass box that serves as our reference-body. That box has a man inside it. <!--  let us imagine a spacious chest resembling a room with an observer inside who is equipped with apparatus. --> He floats because there is no gravity.  <!-- Gravitation naturally does not exist for this observer. He must tie himself with strings to the floor. Otherwise, the slightest impact against the floor will cause him to rise slowly towards the ceiling of the room. --> 
+Assume that, in outerspace, there is a huge glass box that serves as our reference-body. 
+- That box has a man inside it. 
+- He floats because there is no gravity.
+- In the middle of the lid of the chest, a hook is fixed externally. It has a rope attached. 
 
-In the middle of the lid of the chest, a hook is fixed externally. It has a rope attached. 
+<!--  let us imagine a spacious chest resembling a room with an observer inside who is equipped with apparatus. -->   <!-- Gravitation naturally does not exist for this observer. He must tie himself with strings to the floor. Otherwise, the slightest impact against the floor will cause him to rise slowly towards the ceiling of the room. --> 
 
-This rope is pulled <!-- , and now a “being” (what kind of a being is immaterial to us) begins pulling at this --> . Then assume that this box moves upwards through a constant force.  <!-- The chest together with the observer then begin to move “upwards” with a uniformly accelerated motion. In course of time their velocity will reach unheard-of values — provided that we are viewing all this from another reference-body which is not being pulled with a rope. But how does the man in the chest regard the process?  --> 
+This rope is pulled <!-- , and now a “being” (what kind of a being is immaterial to us) begins pulling at this --> .
+- This box then moves upwards through a constant force.  <!-- The chest together with the observer then begin to move “upwards” with a uniformly accelerated motion. In course of time their velocity will reach unheard-of values — provided that we are viewing all this from another reference-body which is not being pulled with a rope. But how does the man in the chest regard the process?  --> 
 
-The man will feel the acceleration of the chest by the reaction of the floor. He must take up this pressure through his legs  if he does not wish to be laid out on the floor. He is then standing inside the box<!--  in exactly the same way as anyone stands in a room of a house on our earth -->.
+The man will feel the acceleration of the box by the reaction of the floor. 
+- He must take up this pressure through his legs if he does not wish to be laid out on the floor.
+- He is then standing inside the box<!--  in exactly the same way as anyone stands in a room of a house on our earth -->.
 
 ![Box](/graphics/physics/box.jpg)
 
-If he releases a stone in his hand, it will also go to the floor of the box <!--  body which he previously had in his hand, the acceleration of the chest will no longer be transmitted to this body, and for this reason the body will approach the floor of the chest --> with an accelerated relative motion.  He will feel that he and the box are  <!-- The observer will further convince himself that the acceleration of the body towards the floor of the chest is always of the same magnitude, whatever kind of body he may happen to use for the experiment. Relying on his knowledge of the gravitational field --> <!-- (as it was discussed in the preceding section) , the man he  will thus come to the conclusion that he --> <!-- and the box are  -->in a gravitational field which is constant with regard to time. 
+If he releases a stone in his hand, it will also go to the floor of the box <!--  body which he previously had in his hand, the acceleration of the chest will no longer be transmitted to this body, and for this reason the body will approach the floor of the chest --> with an accelerated relative motion.  
+
+He will feel that he and the box are  <!-- The observer will further convince himself that the acceleration of the body towards the floor of the chest is always of the same magnitude, whatever kind of body he may happen to use for the experiment. Relying on his knowledge of the gravitational field --> <!-- (as it was discussed in the preceding section) , the man he  will thus come to the conclusion that he --> <!-- and the box are  -->in a gravitational field which is constant with regard to time. 
 
 <!-- He will be puzzled why the box does not fall in this gravitational field. He discovers the hook and rope at the top of the box. He concludes that the box is suspended at rest in the gravitational field. -->
 

@@ -40,7 +40,7 @@ In 1695, those who bought those annuities were allowed to exchange them for othe
 
 Such was the government's instability that even these terms procured few purchasers.
 
-In the reign of Queen Anne, money was borrowed on= 
+In the reign of Queen Anne, money was borrowed on:
 - annuities for lives, and
 - annuities for terms of 32, 89, 98, and 99 years
 
