@@ -51,12 +51,19 @@ Descartes adds on to Kepler's Physics by adding the idea of the electromagnetic 
 We merge the Physics of Kepler and Descartes with current findings to create the Theory of Elastic Gravitational Bands, or **The Elastic Theory**.
 
 
-{{< youtube IMOftV0yfso >}}
+{{< youtube 3l9J6tH4iD0 >}}
+<!-- IMOftV0yfso -->
 
 
 Instead of gravity being based on matter (as Newtonian mass) or the fabric of spacetime (as Einstein's fabric), it is based on different types of elastic bands that depend on the nature of the identities in question.
 
 ![Bands](/graphics/physics/bands.jpg)
+
+
+For example:
+- Newtonian gravity is a matter-to-matter band in static form. In active form, it manifests as Newtonian contact forces
+- The 'warping of spacetime' is caused by electromagnetic-to-electromagnetic band and is really the refraction of light in outerspace
+- Dark energy is really caused by the galaxy-to-galaxy band that follows the 'baryonic acoustic oscillation' sphere
 
 
 Band Type | Physics Name | Description 

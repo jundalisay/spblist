@@ -99,4 +99,14 @@ Material | qom (Quantum of Matter) | Quark
 - The Superphysics model extends all the way to the Aethereal -->
 
 
-Each Layer will be discussed in a Part. 
+## Equivalents
+
+Physics Name | Superphysics Name
+--- | ---
+Fermions | Non Media
+Bosons | Media 
+Baryon-Hadron | Matter (3 quarks)
+Meson-Hadron | Matter (quark-antiquark)
+Leptons | Radiant-Convertible
+
+Each Layer will be discussed in its own Part. 

@@ -25,6 +25,9 @@ People’s economy and psycho-economy are totally overlooked by modern economist
 
 ## People’s Economy
 
+> *Superphysics Note: In Supereconomics, the People's Economy is the 1st Law of Value
+
+
 {{< img src="/photos/econ/bake.jpg" alt="Baking via Rolling Pin" >}}
 
 This deals with the essential needs of the people in general. It includes the production, distribution, marketing, shipping, storage, pricing, sales, freight charges, pro forma costing, and all related activities of such essential needs. 
@@ -110,6 +113,9 @@ Energy and transportation: Until solar energy can be manufactured cheaply, other
 
 ## Psycho-Economy
 
+> *Superphysics Note: In Supereconomics, the Psycho-Economy is the 3rd Law of Value
+
+
 {{< img src="/photos/econ/writer.jpg" alt="Female writer" >}}
 
 This is concerned with increasing the psychic food of the individual and collective mind through appropriate economic activity. 
@@ -141,6 +147,8 @@ Psycho-economics will add to the glaring glamour of economics.
 
 ## Commercial Economy
 
+> *Superphysics Note: In Supereconomics, the Commercial Economy is the 4th Law of Value
+
 {{< img src="/photos/buy.jpg" alt="Buying at a Market" >}}
 
 This is concerned with the development of scientific, efficient methods of production and distribution which will not incur loss and where output will exceed input. 
@@ -149,6 +157,8 @@ Its aim is to ensure the maximum utilization and rational distribution of resour
 
 
 ## General Economy
+
+> *Superphysics Note: In Supereconomics, the General Economy is the 2nd Law of Value
 
 {{< img src="/photos/medieval/rome.jpg" alt="Roman economy" >}}
 

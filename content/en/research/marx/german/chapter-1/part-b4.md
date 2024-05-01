@@ -18,7 +18,7 @@ The class which controls material production also has control of mental producti
 
 The ruling ideas are nothing more than the idea-based expression of the dominant material relationships*.
 
->  *Superphysics Note: In our Supersociolog, the ruling ideas are based on the 4 Cycles, one manifestattion of which is material relationship.
+>  *Superphysics Note: In our Supersociology, the ruling ideas are based on the 4 Cycles, one manifestation of which is material relationship.
 
 
 <!-- , the dominant material relationships grasped as ideas. -->
@@ -48,11 +48,15 @@ The other part is made up of those who have less time to make up illusions and i
  <!-- while the others’ attitude to these ideas and illusions is more passive and receptive, because they are in reality the active members of this class and -->
 
 - This cleavage can even develop into a certain opposition and hostility between the two parts.
-- This hostility endangers this class which automatically comes to nothing
+- This hostility endangers this class which automatically comes to nothing. 
 
-, in which case there also vanishes the semblance that the ruling ideas were not the ideas of the ruling class and had a power distinct from the power of this class.
+<!-- This also causes the disappearance of the notion that the ruling ideas were not the ideas of the ruling class -->
 
-The existence of revolutionary ideas in a particular period presupposes the existence of a revolutionary class*; about the premises for the latter sufficient has already been said above.
+<!-- , in which case there also vanishes the semblance that  and had a power distinct from the power of this class. -->
+
+The existence of revolutionary ideas in a particular period presupposes the existence of a revolutionary class*.
+
+<!-- ; about the premises for the latter sufficient has already been said above. -->
 
 > *Superphysics note: In social cycles model, this class is commonly either the worker or warrior class.
 
@@ -105,19 +109,35 @@ The class doing the revolution can do this because its interest really is more c
 <!-- , because under the pressure of hitherto existing conditions its interest has not yet been able to develop as the particular interest of a particular class.  -->
 
 Therefore, its victory benefits also many individuals of the other classes that do not have a dominant position, by allowing them to raise themselves into the ruling class. 
-- When the French bourgeoisie overthrew the aristocracy, it allowed many proletarians to raise themselves above the proletariat, but only insofar as they become bourgeois. 
+- When the French bourgeoisie overthrew the aristocracy, it allowed many proletarians who became bourgeois to raise themselves above the proletariat
 
-Every new class, therefore, achieves its hegemony only on a broader basis than that of the class ruling previously, whereas the opposition of the non-ruling class against the new ruling class later develops all the more sharply and profoundly. 
+<!-- , but only insofar as they .  -->
 
-Both these things determine the fact that the struggle to be waged against this new ruling class, in its turn, aims at a more decided and radical negation of the previous conditions of society than could all previous classes which sought to rule.
+Every new class, therefore, achieves its hegemony only on a broader basis than that of the previous ruling class. Whereas, the opposition non-ruling class develops all the more sharply and profoundly against the new ruling class. 
 
-This whole semblance, that the rule of a certain class is only the rule of certain ideas, naturally ends as soon as class rule in general ceases to be the form in which society is organised, that is to say, as soon as it is no longer necessary to represent a particular interest as general or the “general interest” as ruling.
+Both these things mean that the class that struggles against this new ruling class should have a more decided and radical negation of the previous social conditions than all previous opposition classes.
 
-Once the ruling ideas have been separated from the ruling individuals and, above all, from the relationships which result from a given stage of the mode of production, and in this way the conclusion has been reached that history is always under the sway of ideas, it is very easy to abstract from these various ideas “the idea,” the notion, etc. as the dominant force in history, and thus to understand all these separate ideas and concepts as “forms of self-determination” on the part of the concept developing in history. 
+The idea that the rule of a certain class is only the rule of certain ideas naturally ends as soon as class rule ceases. This end happens when it is no longer necessary to represent a particular interest as the “general interest”.
 
-It follows then naturally, too, that all the relationships of men can be derived from the concept of man, man as conceived, the essence of man, Man. This has been done by the speculative philosophers. Hegel himself confesses at the end of the Geschichtsphilosophie that he “has considered the progress of the concept only” and has represented in history the “true theodicy.” (p.446.) 
+<!-- which result from a given stage of -->
+In this way, the ruling ideas are separated from the ruling individuals, and nost importantly, from the relationships of the mode of production. 
+- This leads to the conclusion that history is always under the sway of ideas.
+- This makes it easy to abstract away from these various ideas the actual idea or notion behind it. 
+ <!-- “the idea,” the notion, etc. as the dominant force in history, and -->
 
-Now one can go back again to the producers of the “concept,” to the theorists, ideologists and philosophers, and one comes then to the conclusion that the philosophers, the thinkers as such, have at all times been dominant in history: a conclusion, as we see[27], already expressed by Hegel. 
+- This makes it easy to understand that all these separate ideas are “forms of self-determination”.
+
+  <!-- on the part of the concept developing in history.  -->
+
+It follows that all the relationships of men can be derived from the concept of man.
+
+<!-- , man as conceived, the essence of man, Man.  -->
+
+This has been done by the speculative philosophers. Hegel confesses at the end of the Geschichtsphilosophie that he “has considered the progress of the concept only” and has represented in history the “true theodicy.” (p.446.) 
+
+One can go back again to the producers of the “concept” to the theorists, ideologists and philosophers. He will realize that they have at all times been dominant in history. This was Hegel's conclusion.
+
+<!-- : a conclusion, as we see[27], already expressed by Hegel.  -->
 
 The whole trick of proving the hegemony of the spirit in history (hierarchy Stirner calls it) is thus confined to the following 3 efforts.
 
