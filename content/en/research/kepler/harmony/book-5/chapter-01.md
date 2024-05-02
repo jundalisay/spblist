@@ -61,10 +61,9 @@ Therefore, to the same extent as this dodecahedric marriage has lost by using an
 
 This marriage also has a solid star,^® the generation of which is  from the continuation of five faces of the dodecahedron so that they all meet at a single point. 
 
-See their generation in Book II.
+See their generation in Book 2.
 
-Lastly, we must note the proportion of the spheres circumscribing them to those inscribed in them, as
-in the tetrahedron it is expressible, as 100000 to 33333 or as 3 to 1; in
+Lastly, we must note the proportion of the spheres circumscribing them to those inscribed in them, as in the tetrahedron it is expressible, as 100000 to 33333 or as 3 to 1; in
 the cubic marriage it is inexpressible, but the radius of the inscribed circle is expressible in square, as the
 root of one third of the square of the diameter, that is to say as 100000
 to 57735; in the dodecahedric marriage it is clearly inexpressible, as

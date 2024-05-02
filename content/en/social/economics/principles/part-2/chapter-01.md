@@ -16,25 +16,40 @@ toc: false
 <!-- ### The Third Law of Value: The Invisible Hand of Dharma as Real Prices -->
 
 [The First Law of Value](/social/economics/principles/part-1/chapter-01) introduced Exchangeable Value which is seen as Nominal Price to the Buyer. The Third Law of Value introduces **Real Price** which is the Exchangeable Value to the Seller.
+
+We put this law as the Third Law because it is the domain of the Thinker Class (intellectuals) which is the Third Class in the Socratic Social Cycles Theory. 
+
+
+## What is Real Value?
+
 - Real value is the value of the effort, trouble, hardship, and sentimentalism that is put into the Item by its owner or seller. This leads to [the Effort theory of value](/social/economics/principles/part-2/chapter-01b/) that we derived from Adam Smith, which is opposite of the Labor theory of value of Karl Marx
 - Nominal value is the value of the Item to its buyer/s who may or may not have idea of its real value to its owner
 
-The Third Law of Value states that **value goes from areas with high value to areas with low value in order to spread out the value and remove the lack in society**. This mirrors the Third Law of Thermodynamics that states that energy goes from hot to cold to equalize the heat, or that organized systems become unstable as time passes. It also leads to the concept of economic development just as the thermodynamics law leads to the concept of time*. 
+The Third Law of Value states that **value goes from areas with high value to areas with low value in order to spread out the value and remove the lack in society**. This mirrors the Third Law of Thermodynamics that states that energy goes from hot to cold to equalize the heat, or that organized systems become unstable as time passes. 
 
+It also leads to the concept of economic development just as the thermodynamics law leads to the concept of time*.
 
 ![Third Law](/graphics/econ/law3.jpg)
 
 > *It explains why people always make an effort to better themselves just as time always moves forward. The causal mechanism is the cycling of the Positive and Negative forces
 
 
-The instability is a sign of Nature’s inherent dynamism* and manifests as the concept of Absolute Demand of Supereconomics, which does not exist in Economics. 
+The instability is a sign of Nature’s inherent dynamism*. In Supereconomics, this manifests as the concept of Absolute Demand mentioned in the Part 1 and does not exist in Economics. 
 
 This demand manifests as the arbitrary motives such as profit, duty, conservation, benevolence, the force of capital, goal-in-life, etc. as part of the personal interest. This is different from Economics which enshrines only the profit motive as the selfish interest.
 
 > *In Medical Superphysics, this dynamism or entropy manifests as the mind jumping to conclusions unless it is restrained by conscience. In Supersociology, this manifests as popular opinion turning into mob rule unless it is restrained by the common interest.
 
 
-We put the Third Law way ahead of the Second Law to represent the current reality where liberalism enshrines the self instead of society. 
+<!-- We put the Third Law way ahead of the Second Law to represent the current reality where liberalism enshrines the self instead of society.  -->
+
+Without a society, only the First and Third Laws are needed. For example, if you are a hungry caveman, then you pick up fruits and berries to address your hunger.
+- The hunger is your effective demand
+- The labor of getting fruits is your real effort
+- The fruit is your goods for consumption
+
+In such a case, there is no need for a market price (Fourth Law) or a regulator (Second Law) to check if the fruits are safe for human consumption. 
+
 
 
 ## The Effort Theory of Value

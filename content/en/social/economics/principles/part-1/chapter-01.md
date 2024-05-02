@@ -113,7 +113,9 @@ Neoclassical Economics only has the concept of effective demand, but no concept 
 Here we natural limits. 
  -->
 
+## The Worker Class
 
+The First Law is aligned with the Worker class. These people work to satisfy their own demands.  
 
 <!-- Mr. A might not see value in a cake. But Mr. B might, as he might want it for his wife's birthday tomorrow. The value of the cake to Mr. B is then due to:
 - his inherent dharma or tao (nature) of giving gifts during birthdays, and

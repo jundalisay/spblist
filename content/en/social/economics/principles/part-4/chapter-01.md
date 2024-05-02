@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 1"
-title: "Fourth Law of Value: Natural Price"
+title: "Second Law of Value: Natural Price"
 weight: 14
 # dateorig: Originally written in 2016
-image: /graphics/econ/law4.jpg
-description: "The Fourth Law of Value states that economic balance must be maintained to allow natural prices"
+image: /graphics/econ/law2.jpg
+description: "The Second Law of Value states that economic balance must be maintained to allow natural prices"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,20 +14,22 @@ aliases:
 
 
 
-The market price is the nominal price that is applied on all customers for some time, from the customer's perspective. 
-
+<!-- The market price is the nominal price that is applied on all customers for some time, from the customer's perspective.  -->
 
 ## The Natural Price
 
-The **natural price** is the lowest common real price from all sellers over time, from the seller's perspective. 
+The **natural price** is the lowest common real price* from all sellers over time, from the seller's perspective. 
+
+> *Real price will be discussed in the next chapter.
+
 
 This assumes that:
 - the three prior laws were observed 
 - there is a sense of community instead of excessive ego that leads to profit maximization
 
-The natural price is established by the Fourth Law of Value which says that there must be balance in any economy, whether it be a family, company, or nation. This mirrors the Zeroth Law of Thermodynamics that has the concept of thermal equilibrium* leading to temperature. 
+The natural price is established by the Second Law of Value which says that there must be balance in any economy, whether it be a family, company, or nation. This mirrors the Zeroth Law of Thermodynamics that has the concept of thermal equilibrium* leading to temperature. 
 
-![Fourth law](/graphics/econ/law4.jpg)
+![Second law](/graphics/econ/law2.jpg)
 
 This concept does not exist in Economics because profit maximization prevents it. This is why modern economic systems have recurring crashes as a result of the violation of this natural law of value. Pantrynomic systems are crash-resistant because they know that there exists a natural price and so the system is designed to stay near it. 
 
@@ -56,7 +58,7 @@ The market price..is regulated by the proportion between the quantity..actually 
 {{< /q >}}
 
 
-![Fourth law definition](/graphics/law4.png)
+<!-- ![Fourth law definition](/graphics/law4.png) -->
 <!-- ![4](https://sorasystem.sirv.com/graphics/4.png) -->
 
 In Superphysics, the balance between market and natural prices is checked through a grain index which compares the prices of commodities relative to the common grain eaten by the people. 

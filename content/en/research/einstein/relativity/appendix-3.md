@@ -48,31 +48,34 @@ centre of gravity of the sun and the planet.  -->
 
 In such a system, the sun is the common centre of gravity and lies in one of the foci of the orbital ellipse. This makes the sun-planet distance in a revolution grows from a minimum to a maximum, and then decreases again to a minimum. 
 
-If instead of Newton’s law we insert a somewhat different law of attraction into the calculation, we find that, according to this new law, the motion would still take place in such a manner that the distance sun-planet exhibits periodic variations; but in this case the angle described by the line joining sun and planet during such a period (from perihelion — closest proximity to the sun — to perihelion) would differ from 360°. 
+If instead of Newton’s law, we insert a somewhat different law of attraction into the calculation. 
+- In this law, the motion would still take place in such a manner that the distance sun-planet exhibits periodic variations.
+- But in this case, the angle described by the line joining sun and planet during such a period (from perihelion — closest proximity to the sun — to perihelion) would differ from 360°. 
 
 The line of the orbit would not then be a closed one, but in the course of time it would fill up an annular part of the orbital plane, namely between the circle of least and the circle of greatest distance of the planet from the sun.
 
-According to General relativity, a small variation from the Newton-Kepler motion of a planet in its orbit should take place, and in such a way, that the angle described by the radius sun-planet between one perihelion and the
-next should exceed that corresponding to one complete revolution by an amount given by
+According to General relativity, a small variation from the Newton-Kepler motion of a planet in its orbit should take place. In such a way, that the angle described by the radius sun-planet between one perihelion and the
+next should exceed that corresponding to one complete revolution by an amount given by:
 
 24 π {{< s v="3" >}} a{{< s v="2" >}}
 __________________
 T{{< s v="2" >}} c{{< s v="2" >}} ( 1 − e{{< s v="2" >}} )
 
-Note— One complete revolution corresponds to the angle 2π in the absolute angular measure customary in physics. The above expression gives the amount by which the radius sun-planet exceeds this angle during the interval between one perihelion and the next.) 
+Note: One complete revolution corresponds to the angle 2π in the absolute angular measure customary in physics. The above expression gives the amount by which the radius sun-planet exceeds this angle during the interval between one perihelion and the next.) 
 - "a" is the major semi-axis of the ellipse
 - "e" its eccentricity
 - "c" the velocity of light
 - "T" the period of revolution of the planet
 
-According to General relativity, the major axis of the ellipse rotates round the sun in the same direction as the orbital motion of the planet. General relativity requires that this rotation should amount to 43 seconds of arc per century for the planet Mercury. But for the other planets, its magnitude should be so small that it would be undetectable.
+According to General relativity, the major axis of the ellipse rotates round the sun in the same direction as the orbital motion of the planet. General relativity requires that this rotation should amount to 43 seconds of arc per century for the planet Mercury. 
 
-Astronomers have found that Newton's theory does not suffice to calculate the observed motion of Mercury with an
-exactness corresponding to that of the delicacy of observation attainable at the present time.
+But for the other planets, its magnitude should be so small that it would be undetectable.
 
-After taking account of all the disturbing influences exerted on Mercury by the remaining planets, it was found (Leverrier — 1859 — and Newcomb — 1895) that an unexplained perihelial movement of the orbit of Mercury remained over,
-the amount of which does not differ sensibly from the above-mentioned + 43 seconds of arc per
-century. The uncertainty of the empirical result amounts to a few seconds only.
+Astronomers have found that Newton's theory does not suffice to calculate the observed motion of Mercury with an exactness corresponding to that of the delicacy of observation attainable at the present time.
+
+After taking account of all the disturbing influences exerted on Mercury by the remaining planets, it was found (Leverrier — 1859 — and Newcomb — 1895) that an unexplained perihelial movement of the orbit of Mercury remained over, the amount of which does not differ sensibly from the above-mentioned + 43 seconds of arc per century. 
+
+The uncertainty of the empirical result amounts to a few seconds only.
 
 
 (b) DEFLECTION OF LIGHT BY GRAVITATIONAL FIELD

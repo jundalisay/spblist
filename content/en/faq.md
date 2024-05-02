@@ -284,7 +284,7 @@ What's samadhi?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-Google it.
+What's samadhi? Ask [Patanjali](/research/indian/yoga/part-1)!
 
 All we can say is "No Samadhi, No Honey" :thumbsdown: (i.e. Without samadhi, you won't get a solid understanding of how the universe is structured and generated in real-time)
 {{< /l >}}
