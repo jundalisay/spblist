@@ -26,6 +26,8 @@ We continue this musical paradigm by using waves instead of particles. This is c
 
 In Part 3, we explained that the gender of a particle (male for negative charge, and female for positive) is a product of the Radiant Layer as a representation of its vortex.
 
+Subordinate to this idea is particle 'spin' which is the dualistic vortex property of the Convertible Layer (Weak Interaction in Physics). This spin is either left or right just as the dualistic vortex property of the Radian Layer is male or female. 
+
 Layer | Positive Vortex | Negative Vortex
 ---- | --- | ---
 Aethereal | Unifying |  Divisive
@@ -35,11 +37,15 @@ Convertible | Left | Right
 Material | Color Charge | Anti-Color Charge
 
 
+This spin is revealed when the particle is put through an electromagnetic field. This is because the Radiant Layer is superior to the Convertible Layer. 
 
-Subordinate to this idea is particle 'spin' which is revealed when the particle is put through an electromagnetic field. The consequent movement of the particle reveals the inherent spin of the particle. 
+<!-- The consequent movement of the particle reveals the inherent spin of the particle.  -->
 
+This spin direction then has a magnitude creating a direction-magnitude pair:
 
-This is mirrored by the concept of particle spin or 'intrinsic angular momentum' in the Convertible and Material layers. This has 2 inherent qualities:
+<!-- Spin has 2 inherent qualities: -->
+
+<!-- This is mirrored by the concept of particle spin or 'intrinsic angular momentum' in the Convertible and Material layers. This has  -->
 
 <!-- A necessary consequence of thinking in particles is the creation of the concept of spin. This is referred to as the  of particles in spacetime.  -->
 
@@ -59,7 +65,9 @@ This is mirrored by the concept of particle spin or 'intrinsic angular momentum'
 {{< youtube iWSu6U0Ujs8 >}}
 
 
-The spin of a particle is determined only after it goes through detectors which impose electromagnetism on it. This taps the male-female charge principle of the Radiant Layer.
+Spin determines a particles convertibility into different Matter particles, or non-convertibility, staying in the Radiant Layer. 
+
+<!-- The spin of a particle is determined only after it goes through detectors which impose electromagnetism on it. This taps the male-female charge principle of the Radiant Layer. -->
 
 <!--  This imposition causes the particle to react and respond with its own interpretation of the magnitude and direction of that energy based on the nature of that partcile. 
 
