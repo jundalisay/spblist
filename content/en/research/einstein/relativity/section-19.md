@@ -35,7 +35,7 @@ This magnetic field is always around the magnet. It operates on the piece of iro
 
 This idea is arbitrary. Nevertheless, it represents electromagnetic phenomena and is applied to the transmission of electromagnetic waves.
 
-The effects of gravitation is analogous to the effects of magnetism.
+**The effects of gravitation is analogous to the effects of magnetism.**
 
  <!-- also are regarded in an analogous manner. -->
 The action of the earth on a falling stone happens indirectly. 
@@ -67,10 +67,7 @@ Force = inertial mass × acceleration
 ```
 
 
-The “inertial mass” is a characteristic constant [G] of the accelerated body*.
-
-> *Superphysics Note: Here, Einstein subtly hacks Newton by converting his 'mass' into 'inertial mass'. This is in order to make room for his new idea which he calls 'gravitational mass' which in Superphysics is 'electromagnetic potential' 
-
+The “inertial mass” is a characteristic constant [g] of the accelerated body.
 
 If gravity caused the acceleration, we then have:
 
@@ -78,7 +75,12 @@ If gravity caused the acceleration, we then have:
 Force = gravitational mass × intensity of the gravitational field
 ```
 
-The “gravitational mass” is also a characteristic constant for the body. From these, 2 relations follows:
+The “gravitational mass”* is also a characteristic constant [G] for the body. 
+
+> *Superphysics Note: Here, Einstein subtly hacks Newton by converting his 'mass' into 'gravitational  mass'. This is in order to make room for his new idea which he calls 'inertial mass' which in Superphysics is 'electromagnetic potential' 
+
+
+From these, 2 relations follows:
 
 ``` elixir
 acceleration = (gravitational mass / inertial mass) × intensity of the gravitational field
@@ -97,9 +99,11 @@ This means that weight is inertia and vice versa.  -->
 <!-- It is true that this important law had hitherto been recorded in mechanics, but it had not been interpreted. A satisfactory interpretation can be obtained only if we recognise the following fact=  The same quality of a body manifests itself according to circumstances as “inertia” or as “weight” (lit. “heaviness”).  -->
 
 
-The ratio of the gravitational to the inertial mass is likewise the same for all bodies if the acceleration of a body is:
+The ratio of the gravitational to the inertial mass is likewise the same for all bodies if there is no acceleration.
+
+<!--  the acceleration of a body is:
 - independent of the nature and the condition of the body
-- always the same for a given gravitational field
+- always the same for a given gravitational field -->
 
 Through a common unit, this ratio becomes equal. 
 
@@ -111,7 +115,7 @@ The gravitational mass of a body is equal to its inertial mass.
 
 This important law is already in mechanics. But it had not been interpreted*. 
 
-> *Superphysics Note: Inertia in rest mass is gravity. It had not been interpreted because no one would be crazy to assign the cause of gravity to electromagnetism.  
+> *Superphysics Note: Inertia in rest mass is gravity. It had not been interpreted because no one would be crazy to assign the cause of gravity to electromagnetism. Even in Cartesian Physics, the cause of gravity is Spacetime and not Matter. 
 
 
 I interpret it as: The inertia of body is its weight. 
