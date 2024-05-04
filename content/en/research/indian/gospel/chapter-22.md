@@ -11,11 +11,12 @@ Saturday, May 24, 1884
 
 SRI RAMAKRISHNA was sitting on the small couch in his room. Rākhāl , M., and, several other devotees were present. 
 
-A special worship of Kāli had been performed in the temple the previous night. In connection with the worship a theatrical performance of the
-Vidyasundar had been staged in the Natmandir. The Master had watched a part of it
-that morning. The actors came to his room to pay him their respects. The Master, in a
-happy mood, became engaged in conversation with a fair complexioned young man who
-had taken the part of Vidyā and played his part very well.
+A special worship of Kāli had been performed in the temple the previous night. In connection with the worship a theatrical performance of the Vidyasundar had been staged in the Natmandir. 
+
+The Master had watched a part of it that morning. 
+
+The actors came to his room to pay him their respects. The Master, in a happy mood, became engaged in conversation with a fair complexioned young man who had taken the part of Vidyā and played his part very well.
+
 
 MASTER (to the actor): "Your acting was very good. If a person excels in singing, music, dancing, or any other art, he can also quickly realize God provided he strives sincerely. 
 
@@ -25,7 +26,12 @@ disciplines as worship, japa, and meditation.
 
 "Are you married? Any children?"
 
-ACTOR: "Yes, sir. I had a girl who died. Another child has been born."
+
+{{< r a="Actor" >}}
+Yes, sir. I had a girl who died. Another child has been born.
+{{< /r >}}
+
+
 MASTER: "Ah! A death and a birth, and all so quickly! You are so young! There is a saying: 'My husband died just after our marriage. There are so many nights for me to
 weep!' You are no doubt realizing the nature of worldly happiness. 
 
@@ -34,12 +40,14 @@ The world is like a hog plum. The hog plum has only pit and skin, and after eati
 
 That's fine. But it is a very painful profession. You are young now; so you have a full, round face. Afterwards there will be hollows in your
 cheeks. Almost all actors become like that; they get hollow cheeks and big bellies.
+
 (Laughter.)
 
-"Why did I stay to watch your performance? I found the rhythm, the music, and the melody all correct. Then the Divine Mother showed me that it was God alone who acted
-in the performance in the roles of the players."
+"Why did I stay to watch your performance? I found the rhythm, the music, and the melody all correct. Then the Divine Mother showed me that it was God alone who acted in the performance in the roles of the players."
 
-ACTOR: "Sir, what is the difference between lust and desire?"
+{{< r a="Actor" >}}
+Sir, what is the difference between lust and desire?
+{{< /r >}}
 
 MASTER: "Lust is like the root of the tree, and desires are branches and twigs.
 
@@ -50,11 +58,9 @@ One cannot completely get rid of the 6 passions: lust, anger, greed, and the lik
 
 Therefore one should direct them to God. If you must have desire and greed, then you 459should desire love of God and be greedy to attain Him. If you must be conceited and egotistic, then feel conceited and egotistic thinking that you are the servant of God, the child of God.
 
-A man cannot see God unless he gives his whole mind to Him. The mind is wasted on 'woman and gold'. Take your own case. You have children and are occupied with the
-theatre. The mind cannot be united with God on account of these different activities.
+A man cannot see God unless he gives his whole mind to Him. The mind is wasted on 'woman and gold'. Take your own case. You have children and are occupied with the theatre. The mind cannot be united with God on account of these different activities.
 
-"As long as there is bhoga, there will be less of yoga. Furthermore, bhoga begets suffering. It is said in the Bhagavata that the Avadhuta chose a kite as one of his
-twenty-four gurus. The kite had a fish in its beak; so it was surrounded by a thousand crows. Whichever way it flew with the fish, the crows pursued it crying, 'Caw! Caw!' 
+"As long as there is bhoga, there will be less of yoga. Furthermore, bhoga begets suffering. It is said in the Bhagavata that the Avadhuta chose a kite as one of his 24 gurus. The kite had a fish in its beak; so it was surrounded by a thousand crows. Whichever way it flew with the fish, the crows pursued it crying, 'Caw! Caw!' 
 
 When all of a sudden the fish dropped from its beak, the crows flew after the fish, leaving the kite alone.
 
@@ -63,23 +69,29 @@ When all of a sudden the fish dropped from its beak, the crows flew after the fi
 
 ## Money is the source of trouble
 
-Money itself becomes a source of trouble. Brothers may live happily, but they get into trouble when the property is divided. Dogs lick one another's bodies; they
-are perfectly friendly. But when the house-holder throws them a little food, they get into a scrap.
+Money itself becomes a source of trouble. 
+
+Brothers may live happily, but they get into trouble when the property is divided. Dogs lick one another's bodies; they are perfectly friendly. But when the house-holder throws them a little food, they get into a scrap.
 
 "Come here now and then. (Pointing to M. and the others) They come here on Sundays and other holidays.
 
 ACTOR: "We have holidays for three months, during the rainy and harvest seasons. It is our good fortune to be able to visit you. On our way to Dakshineswar we heard of 2 persons- yourself and Jnanarnava."
 
-MASTER: "Be on friendly terms with your brothers. It looks well. You must have noticed in your theatrical performance that if four singers sing each in a different way, the play is spoiled.
+{{< l a="Ramakrishna" >}}
+Be on friendly terms with your brothers. It looks well. You must have noticed in your theatrical performance that if four singers sing each in a different way, the play is spoiled.
+{{< /l >}}
 
 Actor: "Yes, sir. Many birds are trapped in a net; if they all fly together and drag the net in one direction, then many of them may be saved. But that doesn't happen if they try to fly in different directions.
 
-One also sees in a theatrical performance a person keeping a pitcher of water on his head and at the same time dancing about."
-Do your duties and remember God 
+One also sees in a theatrical performance a person keeping a pitcher of water on his head and at the same time dancing about.
 
-MASTER: "Live in the world but keep the pitcher steady on your head; that is to say, keep the mind firmly on God.
+
+## Do your duties and remember God 
+
+Live in the world but keep the pitcher steady on your head; that is to say, keep the mind firmly on God.
 
 I once said to the sephoys from the barracks: 'Do your duty in the world but remember that the "pestle of death" will some time smash your hand. Be alert about it.'
+
 "In Kamarpukur I have seen the women of carpenter families making flattened rice with a husking-machine. One woman kicks the end of the wooden beam, and another woman,
 while nursing her baby, turns the paddy in the mortar dug in the earth. 
 
@@ -95,57 +107,64 @@ To understand them he must live in the company of holy persons. You learn to fee
 
 ACTOR: "Yes, sir. Now I understand."
 
-MASTER: "You must practise tapasya. Only then can you attain the goal. It will avail you nothing even if you learn the texts of the scriptures by heart. You cannot become intoxicated by merely saying 'siddhi' over and over. You must swallow some.
+
+{{< l a="Ramakrishna" >}}
+You must practise tapasya. Only then can you attain the goal. It will avail you nothing even if you learn the texts of the scriptures by heart. You cannot become intoxicated by merely saying 'siddhi' over and over. You must swallow some.
 
 One cannot explain the vision of God to others. One cannot explain conjugal happiness to a child five years old."
+{{< /l >}}
+
+
 ACTOR: "How does One realize the Ātman?"
 
 Just then Rākhāl was about to take his meal in the Master's room. He hesitated at the sight of so many people. During those days the Master looked on Rākhāl as Gopala and on himself as Mother Yaśoda.
 
-MASTER (to Rākhāl): "Why don't you eat? Let the people stand aside if you wish it. (To a devotee) Keep some ice for Rākhāl. (To Rākhāl) Do you intend to go to Vanhooghly?  Don't go in this sun."
+
+{{< l a="Ramakrishna" >}}
+(to Rākhāl): "Why don't you eat? Let the people stand aside if you wish it. (To a devotee) Keep some ice for Rākhāl. (To Rākhāl) Do you intend to go to Vanhooghly?  Don't go in this sun."
+{{< /l >}}
+
 
 Rākhāl sat down to his meal. Sri Ramakrishna again spoke to the actor.
+
+
 MASTER: "Why didn't all of you take your meal from the kitchen of the Kāli temple? That
 would have been nice."
 
 ACTOR: "All of us don't have the same opinion about food; so our food is cooked separately. All don't like to eat in the guest-house."
+
 While Rākhāl was taking his meal, the Master and the devotees sat on the porch and continued their conversation.
 
-Means of Self-realization
 
-MASTER (to the actor): "You asked me about Self-realization. Longing is the means of
-realizing Ātman. A man must strive to attain God with all his body, with all his mind, and
-with all his speech. Because of an excess of bile one gets jaundice. Then one sees
-everything as yellow; one perceives no colour but yellow. Among you actors, those who
-take only the roles of women acquire the nature of a woman; by thinking of woman your
-ways and thoughts become womanly. Just so, by thinking day and night of God one
-acquires the nature of God.
-"The mind is like white linen just returned from the laundry. It takes on the colour you
-dip it in."
+## Means of Self-realization
+
+MASTER (to the actor): "You asked me about Self-realization. Longing is the means of realizing Ātman. A man must strive to attain God with all his body, with all his mind, and with all his speech. Because of an excess of bile one gets jaundice. 
+
+Then one sees everything as yellow; one perceives no colour but yellow. Among you actors, those who take only the roles of women acquire the nature of a woman; by thinking of woman your ways and thoughts become womanly. Just so, by thinking day and night of God one acquires the nature of God.
+
+"The mind is like white linen just returned from the laundry. It takes on the colour you dip it in."
+
 ACTOR: "But it must first be sent to the laundry."
-MASTER: "Yes. First is the purification of the mind. Afterwards, if you direct the mind to
-the contemplation of God, it will be coloured by God-Consciousness. Again, if you direct
-the mind to worldly duties, such as the acting of a play, it will be coloured by
-worldliness."
-Sri Ramakrishna had rested on his bed only a few minutes when Hari, Narayan,
-Narendra Bannerji, and other devotees arrived from Calcutta and saluted him. Narendra
-Bannerji was the son of the professor of Sanskrit at the Presidency College of Calcutta.
-Because of friction with other members of the family, he had rented a separate house
-where he lived with his wife and children. Narendra was a very simple and guileless man.
-He practised spiritual discipline and, at the time of meditation, heard various sounds-the
-sound of a gong, and so on. He had travelled in different parts of India and he visited the Master now and then.
+
+MASTER: "Yes. First is the purification of the mind. Afterwards, if you direct the mind to the contemplation of God, it will be coloured by God-Consciousness. Again, if you direct the mind to worldly duties, such as the acting of a play, it will be coloured by worldliness."
+
+Sri Ramakrishna had rested on his bed only a few minutes when Hari, Narayan, Narendra Bannerji, and other devotees arrived from Calcutta and saluted him. Narendra Bannerji was the son of the professor of Sanskrit at the Presidency College of Calcutta.
+
+Because of friction with other members of the family, he had rented a separate house where he lived with his wife and children. Narendra was a very simple and guileless man.
+
+He practised spiritual discipline and, at the time of meditation, heard various sounds-the sound of a gong, and so on. He had travelled in different parts of India and he visited the Master now and then.
 
 Narayan was a school boy 16 years old. He often visited the Master, who was very fond of him.
-Hari lived with his brothers at their Baghbazar house. He had studied up to the
-matriculation class in the General Assembly Institution. Then he had given up his studies
-and devoted his time at home to the contemplation of God, the reading of the scriptures,
-and the practice of yoga. 
+
+Hari lived with his brothers at their Baghbazar house. He had studied up to the matriculation class in the General Assembly Institution. Then he had given up his studies and devoted his time at home to the contemplation of God, the reading of the scriptures, and the practice of yoga. 
 
 He also visited the Master now and then.
 
 Sri Ramakrishna often sent for Hari when he went to Balarām's house in Baghbazar.
 
-MASTER (to the devotees): "I have heard a great deal about Buddha. He is one of the ten Incarnations of God.2 Brahman is immovable, immutable, inactive, and of the nature of Consciousness. When a man merges his buddhi, his intelligence, in Bodha, Consciousness, then he attains the Knowledge of Brahman; he becomes buddha,
+
+{{< l a="Ramakrishna" >}}
+(to the devotees): "I have heard a great deal about Buddha. He is one of the ten Incarnations of God.2 Brahman is immovable, immutable, inactive, and of the nature of Consciousness. When a man merges his buddhi, his intelligence, in Bodha, Consciousness, then he attains the Knowledge of Brahman; he becomes buddha,
 enlightened. 
 
 "Nangta used to say that the mind merges in the buddhi, and the buddhi in Bodha, Consciousness.
@@ -153,6 +172,8 @@ enlightened.
 ego. The ego comes under one's control after one has obtained the Knowledge of Brahman and seen God. Otherwise the ego cannot be controlled. It is difficult to catch
 one's own shadow. But when the sun is overhead, the shadow is within a few inches of
 the body."
+{{< /l >}}
+
 
 A DEVOTEE: "What is the vision of God like?"
 

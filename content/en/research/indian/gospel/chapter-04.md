@@ -14,7 +14,7 @@ THE MASTER WAS CONVERSING with Kedār and some other devotees in his room in the
 
 Kedār was a government official and had spent several years at Dāccā, in East Bengal, where he had become a friend of Vijay Goswami. The two would spend a great part of their time together, talking about Sri Ramakrishna and his spiritual experiences. Kedār had once been a member of the Brahmo Samaj. He followed the path of bhakti. Spiritual talk always brought tears to his eyes. 
 
-It was five o'clock in the afternoon. Kedār was very happy that day, having arranged a religious festival for Sri Ramakrishna. A singer had been hired by Ram, and the whole day passed in joy.
+It was 5pm. Kedār was very happy that day, having arranged a religious festival for Sri Ramakrishna. A singer had been hired by Ram, and the whole day passed in joy.
 
 
 The Master explained to the devotees the secret of communion with God.

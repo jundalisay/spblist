@@ -24,31 +24,34 @@ And Thou dost laugh and clap Thy hands, O Mother, watching them!
 On favouring winds, says Ramprasad, the kites set loose will speedily
 Be borne away to the Infinite, across the sea of the world.
 
-The Master said: 
-
+{{< l a="Ramakrishna" >}}
 The Divine Mother is always playful and sportive. This universe is Her play. She is self-willed and must always have Her own way. She is full of bliss. She gives freedom to 1 out of 100,000."
+{{< /l >}}
 
-A BRAHMO DEVOTEE: "But, sir, if She likes, She can give freedom to all. Why, then, has She kept us bound to the world?"
 
-MASTER: "That is Her will. She wants to continue playing with Her created beings. In a game of hide-and-seek the running about soon stops if in the beginning all the players touch the 'granny'. If all touch her, then how can the game go on? That displeases her. 
+{{< r a="Brahmo-Devotee" >}}
+But, sir, if She likes, She can give freedom to all. Why, then, has She kept us bound to the world?
+{{< /r >}}
+
+
+{{< l a="Ramakrishna" >}}
+That is Her will. She wants to continue playing with Her created beings. In a game of hide-and-seek the running about soon stops if in the beginning all the players touch the 'granny'. If all touch her, then how can the game go on? That displeases her. 
 
 Her pleasure is in continuing the game. Therefore the poet said:
+{{< /l >}}
+
 
 Out of a hundred thousand kites, at best but one or two break free;
-And Thou dost laugh and clap Thy hands, O Mother, watching
-them!
+And Thou dost laugh and clap Thy hands, O Mother, watching them!
 
-Reassurance to householders
 
-"It is as if the Divine Mother said to the human mind in confidence, with a sign from Her
-eye, 'Go and enjoy the world.' How can one blame the mind? The mind can disentangle
-itself from worldliness if, through Her grace, She makes it turn toward Herself. Only
-then does it become devoted to the Lotus Feet of the Divine Mother."
-Whereupon Sri Ramakrishna, taking upon himself, as it were, the agonies of all
-householders, sang a song complaining to the Divine Mother:
-Mother, this is the grief that sorely grieves my heart,
-That even with Thee for Mother, and though I am wide awake,
-There should be robbery in my house.
+## Reassurance to householders
+
+It is as if the Divine Mother said to the human mind in confidence, with a sign from Her eye, 'Go and enjoy the world.' How can one blame the mind? 
+
+The mind can disentangle itself from worldliness if, through Her grace, She makes it turn toward Herself. Only then does it become devoted to the Lotus Feet of the Divine Mother."
+
+Whereupon Sri Ramakrishna, taking upon himself, as it were, the agonies of all householders, sang a song complaining to the Divine Mother: Mother, this is the grief that sorely grieves my heart, That even with Thee for Mother, and though I am wide awake, There should be robbery in my house.
 
 Many and many a time I vow to call on Thee,
 Yet when the time for prayer comes round, I have forgotten.
@@ -78,13 +81,16 @@ Bidden it, at the same time, to go and enjoy the world."
 
 BRAHMO DEVOTEE: "Sir, can't we realize God without complete renunciation?"
 
-MASTER (with a laugh): "Of course you can! Why should you renounce everything? You are all right as you are, following the middle path-like molasses partly solid and partly liquid. Do you know the game of nax? Having scored the maximum number of points, I am out of the game. I can't enjoy it. But you are very clever. Some of you have scored
+
+{{< l a="Ramakrishna" >}}
+(with a laugh): "Of course you can! Why should you renounce everything? You are all right as you are, following the middle path-like molasses partly solid and partly liquid. Do you know the game of nax? Having scored the maximum number of points, I am out of the game. I can't enjoy it. But you are very clever. Some of you have scored
 ten points, some six, and some five. You have scored just the right number; so you are
 not out of the game like me. The game can go on. Why, that's fine! (All laugh.)
 "I tell you the truth: there is nothing wrong in your being in the world. But you must direct your
 mind toward God; otherwise you will not succeed.
 
 Do your duty with one hand and with the other hold to God. After the duty is over, you will hold to God with both hands.
+{{< /l >}}
 
 
 ## Bondage and liberation are of the mind

@@ -111,7 +111,11 @@ They were placed before the Master.
 
 Bhavanath and Hazra also received their share. When they were offered to M., Vidyasagar said: "Oh, he is like one of the family. We needn't worry about him."
 
-Referring to a young devotee, the Master said to Vidyasagar: "He is a nice young manand is sound at the core. He is like the river Phalgu. The surface is covered with sand; but if you dig a little you will find water flowing underneath."
+Referring to a young devotee, the Master said to Vidyasagar: 
+
+{{< l a="Ramakrishna" >}}
+He is a nice young manand is sound at the core. He is like the river Phalgu. The surface is covered with sand; but if you dig a little you will find water flowing underneath."
+{{< /l >}}
 
 After taking some of the sweets, the Master, with a smile, began to speak to Vidyasagar. 
 
@@ -158,11 +162,14 @@ harder."
 ## Uninspired scholarship condemned
 
 
-MASTER: "But you don't belong to that class. Mere pundits are like diseased fruit that becomes hard and will not ripen at all. Such fruit has neither the freshness of green fruit nor the flavour of ripe. 
+{{< l a="Ramakrishna" >}}
+But you don't belong to that class. Mere pundits are like diseased fruit that becomes hard and will not ripen at all. Such fruit has neither the freshness of green fruit nor the flavour of ripe. 
 
 Vultures soar very high in the sky, but their eyes are fixed on rotten carrion on the ground. The book-learned are reputed to be wise, but they are attached to 'woman and gold'. 
 
-Like the vultures, they are in search of carrion. They are attached to the world of ignorance. Compassion, love of God, and renunciation are the glories of true knowledge."
+Like the vultures, they are in search of carrion. They are attached to the world of ignorance. Compassion, love of God, and renunciation are the glories of true knowledge.
+{{< /l >}}
+
 
 Vidyasagar listened to these words in silence. The others, too, gazed at the Master and were attentive to every word he said.
 
@@ -170,8 +177,11 @@ Vidyasagar was very reticent about giving religious instruction to others. He ha
 
 Once, when M. had asked him his opinion of it, Vidyasagar had said,
 
+
+{{< r a="Vidyasagar" >}}
 "I think the philosophers have failed to explain what was in their minds." 
 
 But in his daily life he followed all the rituals of Hindu religion and wore the sacred thread of a brahmin.
 
-About God he had once declared: "It is indeed impossible to know Him. What, then, should be our duty? It seems to me that we should live in such a way that, if others followed our example, this very earth would be heaven. Everyone should try to do good to the world."
+About God he had once declared: "It is indeed impossible to know Him. What, then, should be our duty? It seems to me that we should live in such a way that, if others followed our example, this very earth would be heaven. Everyone should try to do good to the world.
+{{< /r >}}

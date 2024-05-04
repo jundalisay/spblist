@@ -63,16 +63,17 @@ He drank his milk from a brimming cup!
 
 ## Solitude for householders
 
-"Even if one lives in the world, one must go into solitude now and then. It will be of
-great help to a man if he goes away from his family, lives alone, and weeps for God even
-for three days. Even if he thinks of God for one day in solitude, when he has the leisure,
-that too will do him good. People shed a whole jug of tears for wife and children. But
-who cries for the Lord? Now and then one must go into solitude and practise spiritual
-discipline to realize God. Living in the world and entangled in many of its duties, the
-aspirant, during the first stage of spiritual life, finds many obstacles in the path of
-concentration. While the trees on the foot-path are young, they must he fenced around;
-otherwise they will be destroyed by cattle. The fence is necessary when the tree is
-young, but it can be taken away when the trunk is thick and strong. Then the tree won't
+Even if one lives in the world, one must go into solitude now and then. 
+
+It will be of great help to a man if he goes away from his family, lives alone, and weeps for God even for 3 days. 
+
+Even if he thinks of God for one day in solitude, when he has the leisure, that too will do him good. People shed a whole jug of tears for wife and children. 
+
+But who cries for the Lord? 
+
+Now and then one must go into solitude and practise spiritual discipline to realize God. Living in the world and entangled in many of its duties, the aspirant, during the first stage of spiritual life, finds many obstacles in the path of concentration. 
+
+While the trees on the foot-path are young, they must he fenced around. Otherwise they will be destroyed by cattle. The fence is necessary when the tree is young, but it can be taken away when the trunk is thick and strong. Then the tree won't
 be hurt even if an elephant is tied to it.
 
 
