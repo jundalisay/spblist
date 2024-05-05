@@ -1,7 +1,9 @@
 ---
 title: "Calendars for Agriculture"
 weight: 6
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "The Hindi months are lunar months so cultivation cannot be done according to the Hindi calendar"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

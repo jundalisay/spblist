@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "What use the Aire is for as to the life of things"
+title: "What use the air is for as to the life of things"
 description: "The Generation of Natural Things is Twofold"
 image: "/covers/nature.png"
 weight: 9
@@ -18,11 +18,11 @@ What the life of things is.and it is nothing else then a spirituall essence, a t
 
 What is the difference betwixt the Spirit and the Body.
 
-For what is the body without a spirit? Nothing at all. Wherefore the spirit contains in it secretly the vertue, and power of the thing, and not the body. For in the body there is death, and the body is the subject of death, neither is any else to be sought for in the body, but death.
+For what is the body without a spirit? Nothing at all. Wherefore the spirit contains in it secretly the virtue, and power of the thing, and not the body. For in the body there is death, and the body is the subject of death, neither is any else to be sought for in the body, but death.
 
 The Spirit never dyes.
 
-For that may severall wayes bee destroyed, and corrupted, but the spirit cannot. For the living spirit remains for ever, and also is the subject of life: and preserves the body alive; but in the ruine of the body it is separated from it, and leaves behind it a dead body, and returnes to its place, from whence it came, viz. into the Chaos, and the Aire of the upper and lower Firmament. Hence it appears that there are divers spirits, as well as divers bodies.
+For that may severall wayes bee destroyed, and corrupted, but the spirit cannot. For the living spirit remains for ever, and also is the subject of life: and preserves the body alive; but in the ruine of the body it is separated from it, and leaves behind it a dead body, and returnes to its place, from whence it came, viz. into the Chaos, and the air of the upper and lower Firmament. Hence it appears that there are divers spirits, as well as divers bodies.
 
 The division of the Spirit according to the variety of bodies.
 
@@ -33,8 +33,8 @@ For there are spirits Celestiall, Infernall, Humane, Metalline, Minerall, of Sal
 
 The life therefore of all men is nothing else but an Astrall balsome, a Balsamick impression, and a celestiall invisible Fire, an included Aire, and a tinging spirit of Salt. I cannot name it more plainly, although it bee set out by many names. And seeing wee have declared the best, and chiefest, wee shall bee silent in these which are lesse materiall.
 
-What the life of Metalls is.
-The life of Metalls is a secret fatnesse, which they have received from Sulphur, which is manifest by their flowing, for every thing that flowes in the fire, flowes by reason of that secret fatnesse that is in it: unlesse that were in it, no Metall could flow, as wee see in Iron, and Steel, which have lesse Sulphur, and fatnesse then all the other Metalls, wherefore they are of a dryer Nature then all the rest.
+What the life of metals is.
+The life of metals is a secret fatnesse, which they have received from Sulphur, which is manifest by their flowing, for every thing that flowes in the fire, flowes by reason of that secret fatnesse that is in it: unlesse that were in it, no Metall could flow, as wee see in Iron, and Steel, which have lesse Sulphur, and fatnesse then all the other metals, wherefore they are of a dryer Nature then all the rest.
 
 What the life of Mercury is. Mercury is like to a garment of skins.
 
@@ -98,16 +98,16 @@ The life of Bones.
 The life of Bones is the liquor of Mummie.
 
 The life of flesh.
-The life of flesh, and blood is nothing else but the spirit of Salt, which preserves them from stinking, and putrefaction, and is of it selfe as water separated from them.
+The life of flesh, and blood is nothing else but the spirit of Salt, which preserves them from stinking, and putrefaction, and is of it self as water separated from them.
 
 The life of every Element.
 Now concerning the life of Elements, you must know that the life of Water is its running. For when by the coldnesse of the Firmament it is congealed into ice, it is dead, and its mischievousnesse is taken from it, that nobody can bee drowned in it.
 
 What the life of Fire is.
-The life of Fire is Aire, for Aire makes fire burne with greater vehemency, and heate: Also there cometh forth from all Fire a kind of Aire, which will blow out a candle, and drives up a feather, as you may dayly see before your eyes. Wherefore[Pg 34] the flame of Fire is choaked if it bee so stopt up, that it can neither receive in Aire, and let out its own Aire.
+The life of Fire is Aire, for air makes fire burne with greater vehemency, and heate: Also there cometh forth from all Fire a kind of Aire, which will blow out a candle, and drives up a feather, as you may dayly see before your eyes. Wherefore[Pg 34] the flame of Fire is choaked if it bee so stopt up, that it can neither receive in Aire, and let out its own Aire.
 
-What the life of Aire is.
-The Aire lives by, and of it selfe, and gives life to all other things.
+What the life of air is.
+The air lives by, and of it self, and gives life to all other things.
 
 What the life of Earth is.
-The earth of it selfe is dead, but the Element of it is an invisible, and secret life.
+The earth of it self is dead, but the Element of it is an invisible, and secret life.

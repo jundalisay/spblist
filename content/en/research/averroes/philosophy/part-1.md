@@ -47,23 +47,38 @@ The Quran says: “Wherefore take example from them, ye who have eyes.”[3]
 
 That is a clear indication of the necessity of using the reasoning faculty, or rather[15] both reason and religion, in the interpretation of things. 
 
-Again it says: “Or do they not contemplate the kingdom of heaven and earth and the things which God hath created.”[4] This is a plain exhortation to encourage the use of observation of creation. 
+Again it says: “Or do they not contemplate the kingdom of heaven and earth and the things which God hath created.”[4] 
 
-And remember that one whom God especially distinguishes in this respect, Abraham, the prophet. For He says: “And this did we show unto Abraham: the kingdom of heaven and earth.”[5] Further He says: “Do they not consider the camels, how they are created; and the heaven, how it is raised.”[6] Or still again: “And (who) meditate on the creation of heaven and earth, saying, O Lord thou hast not created this in vain.”[7] There are many other verses on this subject: too numerous to be enumerated.
+This is a plain exhortation to encourage the use of observation of creation. 
+
+And remember that one whom God especially distinguishes in this respect, Abraham, the prophet. For He says: 
+
+
+God says: “This did we show to Abraham: the kingdom of heaven and earth.”[5] 
+
+“Do they not consider the camels, how they are created; and the heaven, how it is raised.”[6] 
+
+“(Who) meditate on the creation of heaven and earth, saying, O Lord thou hast not created this in vain.”[7] 
+
+There are many other verses on this subject: too numerous to be enumerated.
 
 <!-- Now, it being established that the Law makes the observation and consideration of creation by reason obligatory—and[16] consideration is nothing but to make explicit the implicit—this can only be done through reason.  -->
 
-Thus we must look into creation with the reason. 
+Thus we must look into creation with the reason.
 
 The observation which the Law approves and encourages must be of the most perfect type, performed with the most perfect kind of reasoning. 
 
-As the Law emphasises the knowledge of God and His creation by inference, it is incumbent on any who wish to know God and His whole creation by inference, to learn the kinds of inference, their conditions and that which distinguishes philosophy from dialectic and exhortation from syllogism. 
+The Law emphasises the knowledge of God and His creation by inference. So it is incumbent on any who wish to know God and His whole creation by inference, to learn the kinds of inference, their conditions and that which distinguishes philosophy from dialectic and exhortation from syllogism.
 
-This is impossible unless one possesses knowledge beforehand of the various kinds of reasoning and learns to distinguish between reasoning and what is not reasoning. This cannot be done except one knows its different parts, that is, the different kinds of premises.
+This is impossible unless one possesses knowledge beforehand of the various kinds of reasoning and learns to distinguish between reasoning and what is not reasoning. 
 
-Hence, for a believer in the Law and a follower of it, it is necessary to know[17] these things before he begins to look into creation, for they are like instruments for observation. For, just as a student discovers by the study of the law, the necessity of knowledge of legal reasoning with all its kinds and distinctions, a student will find out by observing the creation the necessity of metaphysical reasoning. Indeed, he has a greater claim on it than the jurist. 
+This cannot be done except one knows its different parts, that is, the different kinds of premises.
 
-For if a jurist argues the necessity of legal reasoning from the saying of God: “Wherefore take example from them O ye who have eyes,”[8] a student of divinity has a better right to establish the same from it on behalf of metaphysical reasoning.
+Hence, for a believer in the Law and a follower of it, it is necessary to know[17] these things before he begins to look into creation. They are like instruments for observation. 
+
+By the study of the law, a student discovers the necessity of knowledge of legal reasoning with all its kinds and distinctions. A student will find out by observing the creation the necessity of metaphysical reasoning. He has a greater claim on it than the jurist. 
+
+If a jurist argues the necessity of legal reasoning from the saying of God: “Wherefore take example from them O ye who have eyes,”[8] a student of divinity has a better right to establish the same from it on behalf of metaphysical reasoning.
 
 One cannot maintain that this kind of reasoning is an innovation in religion because it did not exist in the early days of Islam. For legal reasoning and its kinds are things which were invented also in later ages, and no one thinks they are innovations. 
 

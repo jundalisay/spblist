@@ -1,7 +1,9 @@
 ---
 title: "Radish and Potatoes"
 weight: 26
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Radish is a 45-60 day crop and came from Japan. It first came to India 3,000 years ago."
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

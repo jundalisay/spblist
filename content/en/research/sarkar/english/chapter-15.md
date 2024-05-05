@@ -2,7 +2,9 @@
 heading: "Chapter 15"
 title: "Avoiding Common Errors With Some Definitions"
 weight: 28
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: ""
 image: "/covers/grammar.png"
 icon: "/icons/sarkar.png"

@@ -17,7 +17,7 @@ icon: "/icons/descartes.png"
 
 I should add nothing farther to this the Fourth Part of the Principles of Philosophy, did I purpose carrying out my original design of writing a Fifth and Sixth Part, the one treating of things possessed of life, that is, animals and plants, and the other of man. But because I have not yet acquired sufficient knowledge of all the matters of which I should desire to treat in these two last parts, and do not know whether I shall ever have sufficient leisure to finish them, I will here subjoin a few things regarding the objects of our senses, that I may not, for the sake of the latter, delay too long the publication of the former parts, or of what may be desiderated in them, which I might have reserved for explanation in those others: for I have hitherto described this earth, and generally the whole visible world, as if it were merely a machine in which there was nothing at all to consider except the figures and motions of its parts, whereas our senses present to us many other things, for example colours, smells, sounds, and the like, of which, if I did not speak at all, it would be thought I had omitted the explication of the majority of the objects that are in nature. -->
 
-{{< s v="189" >}} What perception (SENSUS) is, and how we perceive.
+## {{< s v="189" >}} What perception (SENSUS) is, and how we perceive.
 
 The human soul is united to the whole body. But it has, nevertheless, its principal seat in the brain, where alone it understands, imagines, and perceives.
 

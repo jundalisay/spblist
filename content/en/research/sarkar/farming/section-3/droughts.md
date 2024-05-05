@@ -1,7 +1,9 @@
 ---
 title: "The Causes of Drought"
 weight: 8
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "3 main causes of droughts are deforestation and the destruction of plants"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

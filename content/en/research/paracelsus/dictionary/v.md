@@ -21,7 +21,7 @@ Viltrum philosophorum is an Alembick, but being taken absolutely is a strainer.
 
 Vinum correctum is the Alcool of Wine.
 
-Vinum essatum is Wine impregnated with the vertues of hearbs or any thing else.
+Vinum essatum is Wine impregnated with the virtues of hearbs or any thing else.
 
 Viriditas salis is the green oyle of salt.
 
@@ -57,9 +57,9 @@ Volans, or Vnquasi is Quicksilver.
 
 Volatile is in generall any light matter which is carryed upward.
 
-Vrina vini is Vineger, and sometimes it is used for the urine of a man that alwaies drinks wine.
+Vrina vini is Vineger, and sometimes it is used for the urine of a man that always drinks wine.
 
-Vulcanii, or Vulcanici are such as alwaies worke about the fire.
+Vulcanii, or Vulcanici are such as always worke about the fire.
 
 Vulcanus is fire.
 
@@ -97,7 +97,7 @@ Zerus is Gold.
 
 Zoraba is Vitriall.
 
-Zinck is a metallick marcasite, and a certain naturall mixture of four immature metalls, whereof Copper is most apparent.
+Zinck is a metallic marcasite, and a certain naturall mixture of four immature metals, whereof Copper is most apparent.
 
 Ziniar is Verdegrease.
 

@@ -3,7 +3,9 @@ title: "Land Redistribution"
 # title: "Agrarian Revolution"
 heading: "Chapter 2"
 weight: 4
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

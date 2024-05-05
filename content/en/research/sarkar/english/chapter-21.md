@@ -2,7 +2,9 @@
 heading: "Chapter 21"
 title: "General Knowledge On Composition"
 weight: 38
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: ""
 image: "/covers/grammar.png"
 icon: "/icons/sarkar.png"

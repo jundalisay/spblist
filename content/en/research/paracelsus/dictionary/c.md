@@ -20,7 +20,7 @@ They call their Priests wise men, and most skilfull of all secrets, such as were
 
 It was not set down in writing, but delivered by word of mouth. 
 
-After a while superstitious men, a kind of apes, began to spatter it with their pen, so that at last it is degenerated into monstrous superstition; by which means also Magick, which is the true wisdome that is received by divine inspiration, is accounted in these times Necromancy, and Nigromancy, so that it is an offence to be a wise man, and hee that professeth it openly shall cast himselfe into danger. But to teach the foolishnesse of Infidels publickly is commendable, and a gift of singular wisdome, and no man is judged wise, but hee that is the greatest foole.
+After a while superstitious men, a kind of apes, began to spatter it with their pen, so that at last it is degenerated into monstrous superstition; by which means also Magick, which is the true wisdome that is received by divine inspiration, is accounted in these times Necromancy, and Nigromancy, so that it is an offence to be a wise man, and he  that professeth it openly shall cast himself into danger. But to teach the foolishnesse of Infidels publickly is commendable, and a gift of singular wisdome, and no man is judged wise, but he  that is the greatest foole.
 
 
 Caballi, or Cabales are ghosts, and Astrall stars of men that dyed before their time.
@@ -107,11 +107,11 @@ Character veneris is love, which is in stead of a shield in keeping off danger.
 
 Cheiri in Paracelsus if it be put absolutely without any adjection, and if it be spoken of Mineralls, it signifies Quicksilver, if of Vegetables, Vegetable flowers. But when it is found with an adjection after this manner, flos Cheiri, it signifies the white Elixir made of silver, as Flos Anthos signifies the red Elixir.
 
-Cherio is the occult accidentall vertue of the externall Elements, and not the qualities of heat, and cold, and the like.
+Cherio is the occult accidentall virtue of the externall Elements, and not the qualities of heat, and cold, and the like.
 
 Cherionium is that in which Nature cannot be altered, as Crystal, which is so hardened by nature, that it cannot bee melted as that which is made by Art.
 
-Cherubin is a celestiall vertue, and influence, domination, and power above all dominations, and powers, proceeding from God, and descending upon the earth, and upon all men. Of this divine glory Paracelsus speaks largely in the expositions of the Psalms of David.
+Cherubin is a celestiall virtue, and influence, domination, and power above all dominations, and powers, proceeding from God, and descending upon the earth, and upon all men. Of this divine glory Paracelsus speaks largely in the expositions of the Psalms of David.
 
 Cherva is Cataputia, i.e. the Hearb Spurge.
 
@@ -143,7 +143,7 @@ Citrinulus is pale Crystall.
 
 Claretta is the white of Egs.
 
-Clissus is the occult vertue of things returning from whence they came, as the vertue of an hearb into the root in Autumne.
+Clissus is the occult virtue of things returning from whence they came, as the virtue of an hearb into the root in Autumne.
 
 Coagulatio is the making of a thin thing thick.
 
@@ -161,13 +161,13 @@ Cohos is whatsoever the skin contains in the whole body.
 
 Colcothar is calcined Vitriall, or the caput Mortuum of oyle of vitriall.
 
-Coleritium is a Liquor compounded of the corrosive materialls of Metalls.
+Coleritium is a Liquor compounded of the corrosive materialls of metals.
 
 Colica is Tartar resolved in the bowells, or a fixt disease in the Colon gut.
 
 Collatenna is an hearb called Lyons-foot, or a certain stiptick medicine.
 
-Colliquation is melting, as Metalls are melted.
+Colliquation is melting, as metals are melted.
 
 Cometz is half a drop.
 
@@ -183,11 +183,11 @@ Congelativa are medicines which stop any flux.
 
 Congluten is that, which by putrefaction is turned into a viscous matter.
 
-Conservativa are medicaments which preserve Nature from putrefaction, being such things as are full of Astrall vertue.
+Conservativa are medicaments which preserve Nature from putrefaction, being such things as are full of Astrall virtue.
 
 Consolidativa are externall medicines which Chirurgions use in healing, and drying wounds, and ulcers.
 
-Constellatio is the impression of superiour stars, or their vertues upon inferiour bodies.
+Constellatio is the impression of superiour stars, or their virtues upon inferiour bodies.
 
 Constrictiva are stiptick medicaments which Chirurgions use.
 
@@ -197,17 +197,17 @@ Contractio is a weaknesse of the members, and drawing of them together.
 
 Coostrum is the middle part of the Diaphragma.
 
-Cor amongst Metalls is called Gold.
+Cor amongst metals is called Gold.
 
 Corbatum is Copper.
 
 Cornu cervi is amongst the Chymists the nose of a still, amongst Paracelsus a vulnerary hearb.
 
-Corpora cœlestia Spagyrorum are Astrall vertues in their matter.
+Corpora cœlestia Spagyrorum are Astrall virtues in their matter.
 
 Corpora supercœlestia are such bodies that are not known by sense, but by reason.
 
-Corpus is the subject in which the vertues of things lie hid.
+Corpus is the subject in which the virtues of things lie hid.
 
 Corpus invisibile is the soul, which is corporeall in respect of its sustentation, and invisible by reason of its spirituality.
 
@@ -227,5 +227,5 @@ Cycima is Litharge.
 
 Cydar is Iupiter.
 
-Cyphantum is a distillatory vessell, or the Art it selfe.
+Cyphantum is a distillatory vessell, or the Art it self.
 

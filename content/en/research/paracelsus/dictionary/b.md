@@ -41,7 +41,7 @@ Brassadella, or Brassatella is Adders-tongue.
 
 Brunus is St. Anthony’s fire.
 
-Bruta is an influence of a Celestiall vertue, which by Brutes is manifested to men, as in the Sallendine by the Swallow, in Salt the use of a Glyster by the Storke, and many more of that kind.
+Bruta is an influence of a Celestiall virtue, which by Brutes is manifested to men, as in the Sallendine by the Swallow, in Salt the use of a Glyster by the Storke, and many more of that kind.
 
 Butyrum Saturni is that which above is called Altey, and it is the sweetnesse of Lead.
 

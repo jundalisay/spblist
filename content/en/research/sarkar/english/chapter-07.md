@@ -2,7 +2,9 @@
 heading: "Chapter 7"
 title: "Tenses"
 weight: 18
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: ""
 image: "/covers/grammar.png"
 icon: "/icons/sarkar.png"

@@ -1,7 +1,9 @@
 ---
 title: "Research"
 weight: 28
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Research centres should be developed on all large farming projects and master units"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

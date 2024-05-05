@@ -38,7 +38,7 @@ For they are signs of vices, seldome signifying any good.*
 
 The Executioner marks his sons with infamous markes. 
 
-Likewise, the evil Ascendents impresse upon their yong, supernatural mischievous marks, that they may bee the better taken heed of, which shew some marks in their forehead, cheeks, ears, fingers, hands, eyes, tongues, &c. being short, or cutted.
+Likewise, the evil Ascendents impresse upon their yong, supernatural mischievous marks, that they may bee the better taken he d of, which shew some marks in their forehead, cheeks, ears, fingers, hands, eyes, tongues, &c. being short, or cutted.
 
 Every one of these infamous signs denotes a peculiar vice. 
 

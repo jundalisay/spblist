@@ -20,7 +20,7 @@ What the art of signing is.
 
 The Art of signing teaches how true, and sutable names are to bee put on all things, all which Adam truly knew. 
 
-For presently after the Creation hee gave to every thing its proper name, as to Animals, so to Trees, Hearbs, Rootes, Stones, Minerals, Metals, Waters, &c. And to all the fruits of the earth, Water, Air, Fire, &c. And what names he put upon them all, were ratified, and approved of by God. For from the true, and intrinse[Pg 136]call foundation he tooke them all; not from opinion, or from a predestinated science, viz. the Art of Signing.
+For presently after the Creation he  gave to every thing its proper name, as to Animals, so to Trees, Hearbs, Rootes, Stones, Minerals, Metals, Waters, &c. And to all the fruits of the earth, Water, Air, Fire, &c. And what names he put upon them all, were ratified, and approved of by God. For from the true, and intrinse[Pg 136]call foundation he tooke them all; not from opinion, or from a predestinated science, viz. the Art of Signing.
 
 
 ## Adam the first signator.
@@ -28,7 +28,7 @@ For presently after the Creation hee gave to every thing its proper name, as to 
 Adam therefore was the first Signator. And it cannot be denyed, that also from the Hebrew tongue true and proper names doe flow, and are put upon every thing according to its nature, and condition.
 
 The nature of the Hebrew tongue.
-For what names are put upon them from the Hebrew tongue, doe with the same labour signifie their vertue, power, and property.
+For what names are put upon them from the Hebrew tongue, doe with the same labour signifie their virtue, power, and property.
 
 So when wee say, this is a Hog, a Horse, a Cow, a Beare, a Dog, a Fox, a Sheep.
 
@@ -37,17 +37,17 @@ The name of a Hog signifies together with it a filthy and unclean Animall: so a 
 
 Hence it is that a man is called a Hog, for his sordid and swinish life.
 
-And a Horse for his bearing, for which hee is eminent.
+And a Horse for his bearing, for which he  is eminent.
 
 And a Cow, because shee is unsatiable with meat, and drink, and knows no measure of her belly.
 
 And a Bear, because he is mishapen, and stronger then other men.
 
-A Fox, because he is a turn-coat, and deceitfull, accommodating himselfe to all, and offending none.
+A Fox, because he is a turn-coat, and deceitfull, accommodating himself to all, and offending none.
 
 A Dog, because he is faithfull to none, but his own mouth, is false, and inofficious to all.
 
-And a Sheep, because hee hurts no body but himselfe, and is usefull to all, rather then to himself, &c.
+And a Sheep, because he  hurts no body but himself, and is usefull to all, rather then to himself, &c.
 
 
 In what hearbs there is a signature.
@@ -59,9 +59,9 @@ So the Root Bloudwort is so called, because it stops bloud better then any other
 
 So the Hearb Pile-wort is so called, because it cures the piles better then other hearbs.
 
-The same also may be said of divers other hearbs, of which sort I could reckon a great number, all which were so called from their vertue, and faculty, as shall more largely be declared in our Herball.
+The same also may be said of divers other hearbs, of which sort I could reckon a great number, all which were so called from their virtue, and faculty, as shall more largely be declared in our Herball.
 
-Moreover, there bee many Hearbs, and Rootes, which are denominated not only from their imbred vertue, and faculty, but also from their figure, forme, and representation: As, Devills-bit, Five-leaved grasse, or Cinquefoile, Hounds-tongue, Adders-tongue, Horse-taile, Liver-wort, Ox-tongue, Lungwort, the hearb Chameleon, St. Johns-wort, or the hearb boared through, the hearb Dog-stone, Tongue-laurell, Thorow-leafe, Turne-sole, and many others which shall not here, but in the Herball bee severally considered.
+Moreover, there bee many Hearbs, and Rootes, which are denominated not only from their imbred virtue, and faculty, but also from their figure, forme, and representation: As, Devills-bit, Five-leaved grasse, or Cinquefoile, Hounds-tongue, Adders-tongue, Horse-taile, Liver-wort, Ox-tongue, Lungwort, the hearb Chameleon, St. Johns-wort, or the hearb boared through, the hearb Dog-stone, Tongue-laurell, Thorow-leafe, Turne-sole, and many others which shall not here, but in the Herball bee severally considered.
 
 What signature there is in Animals.
 The same also holds concerning the signes of Animals; for by the bloud, and its circle, and by the urine and its circle all diseases that lie hid in Man may be known.
@@ -86,7 +86,7 @@ The circles of the hornes of a Cow what.
 So the Signator of a Cow markes her hornes with circles, by which it may be known how many Calves shee hath brought forth. For every Circle signifies a Calfe.
 
 The teeth of a Horse.
-The same Signator puts forth the first teeth of a Horse, that the first seven yeers his age may be known by his teeth. For at first a Horse is brought forth, with fourteen teeth, of which every yeer hee loseth two, and so in the space of seven yeares hee loseth[Pg 139] all. So that after seven yeares his age can hardly be known, unlesse by one that is very skilful.
+The same Signator puts forth the first teeth of a Horse, that the first seven yeers his age may be known by his teeth. For at first a Horse is brought forth, with fourteen teeth, of which every yeer he  loseth two, and so in the space of seven yeares he  loseth[Pg 139] all. So that after seven yeares his age can hardly be known, unlesse by one that is very skilful.
 
 The bills and claws of Birds.
 The same Signator doth signe the bills and claws of Birds with peculiar signes, that the skilfull Fowler may know their age by them.
@@ -105,11 +105,11 @@ Whatsoever the Moon portends by her signs, shall come to passe the next day.
 And so much for Naturall signes. Now for Supernaturall signes, they are things of a particular science, as of Magical Astronomy, &c. and the like. It is therefore necessary that you be skilled in them.
 
 The kinds of Magicall Astronomie.
-Hence also many other Arts proceed, as Geomancy, Pyromancy, Hydromancy, Chaomancy, and Necromancy, whereof every one hath its peculiar stars, which stars doe so signe them after a supernaturall manner. And you must know, that the starres of Geomancy impresse their signs upon the earthy bodies of the whole Universe, and that divers wayes. For[Pg 140] they change the earth, and cause earthquakes, and gapings, they produce hills, and valleys, and bring many new Vegetables, they produce also Gamaheaus with naked figures, and images, having wonderfull vertues, and powers, which indeed they receive from the seven planets, as the But or mark receives the arrow from the Archer.
+Hence also many other Arts proceed, as Geomancy, Pyromancy, Hydromancy, Chaomancy, and Necromancy, whereof every one hath its peculiar stars, which stars doe so signe them after a supernaturall manner. And you must know, that the starres of Geomancy impresse their signs upon the earthy bodies of the whole Universe, and that divers wayes. For[Pg 140] they change the earth, and cause earthquakes, and gapings, they produce hills, and valleys, and bring many new Vegetables, they produce also Gamaheaus with naked figures, and images, having wonderfull virtues, and powers, which indeed they receive from the seven planets, as the But or mark receives the arrow from the Archer.
 
 But how those signs, and images of Gamaheaus may be known apart, and what they signifie magically; there is required a great experience, and knowledg of the nature of things, which can by no meanes bee here perfectly taught.
 
-Here you must well note, that the stone, or every Gamaheaus, cannot excell in the property, and vertue but of one star, and so be qualified but by one planet.
+Here you must well note, that the stone, or every Gamaheaus, cannot excell in the property, and virtue but of one star, and so be qualified but by one planet.
 
 And although there bee two or more planets in earthly bodies, as they are joined together in the superiour firmament: yet one is repressed by the other. For as one house cannot bear two Masters, but the one thrusts out the other: so also it is here; the one rules, the other serves: Or as one that overcomes him that keeps any house, casts him out by force; and sets himself, as master of the house, disposing of all things according to his pleasure, and making the other his servant.
 
@@ -136,7 +136,7 @@ What to Venus.
 Unto the planet of Venus are subjected whatsoever things belong to Musick, as Musicall instruments, venereall exercises, loves, whorings, &c.
 
 What to Saturn.
-Unto Saturne are subjected whosoever work in and beneath the earth, as Miners, Pioners, Bearers of the dead, Diggers of Wells, as also all instruments serving to either of these, &c.
+Unto Saturn are subjected whosoever work in and beneath the earth, as Miners, Pioners, Bearers of the dead, Diggers of Wells, as also all instruments serving to either of these, &c.
 
 What be the signes of Pyromancy.
 

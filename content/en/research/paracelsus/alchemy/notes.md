@@ -1,11 +1,12 @@
 ---
-title: "TRANSCRIBER’S NOTE"
+title: "Transcriber’S Note"
 description: "The Origin of Physiognomy"
 image: "/covers/alchemy.jpg"
 weight: 300
-# writer:
-#   name: Paracelsus
-#   url: https://en.wikipedia.org/wiki/Paracelsus/
+draft: true
+writer:
+  name: Paracelsus
+  url: https://en.wikipedia.org/wiki/Paracelsus/
 # date: 2022-05-18
 ---
 
@@ -17,14 +18,14 @@ Archaic, obsolete and inconsistent spellings have been included as in the origin
 
 Most of the archaic and obsolete spellings are homophones for the spelling used today, however there were some notable exceptions:
 
-Word in book		Current spelling
+<!-- Word in book		Current spelling
 Filbeards		Filberts
 flowre		flour
 Jeat		Jet
 Jngat		Ingot
 malitious		malicious
 pretious		precious
-Research indicates that “Archeus” and “Archeius” are inconsistent spellings of the same word.
+Research indicates that “Archeus” and “Archeius” are inconsistent spellings of the same word. -->
 
 The words “cachymie”, “cachymia” and “cachyma” do not appear in any of the usual sources for English words. They appear to be attempts to Anglicize the Latin word “Cachymia” (pl. “Cachymiæ”), which Paracelsus used to mean an “imperfect metallic body”.
 
@@ -48,7 +49,7 @@ The Twelve Treatises of A New Light of Alchymie.
 P. 12	have declared in the foregoingt reatises[foregoing treatises])
 P. 19	of Philosphers[Philosophers]) yet they are not bee hearkned to,
 P. 23-4	when it is all consumed consumed[2x] the body dies;
-P. 24	because wee are in this place to treat of the verte [vertue]
+P. 24	because wee are in this place to treat of the verte [virtue]
 P. 36-7	let him read the voluminous writings of ancicient[ancient]
 A Treatise of Sulphur.
 P. 91	and spirituall influencies[influences], which cannot give
@@ -56,11 +57,11 @@ P. 106	or lesse hot, dry or moist; and acccording[according] to the
 P. 109	one exceeds the other, and because then putrection[putrefaction]
 P. 110	immortall, especially in the the[2x] Minerall Kingdome
 P. 124	Indeed prrticulars[particulars] may easily bee made, if you have
-P. 128	of it, sometimes by itselfe, and somemes[sometimes]
+P. 128	of it, sometimes by itself, and somemes[sometimes]
 P. 131	many: There was Hermes, who was at[as] it were one
 P. 142	come Mercury, and Mercury bee made Suphur[Sulphur],
 P. 144	in the third Princple[Principle] of Salt, seeing here wee
-P. 145	is not Minerall. The vettue[vertue] of the Animall Sulphur
+P. 145	is not Minerall. The vettue[virtue] of the Animall Sulphur
 Of the Nature of Things.
 P. 8	Sidenote: Monsters come fom[from] the Devill.
 P. 14	and are ripned[ripened] through heat, and moisture,
@@ -73,7 +74,7 @@ P. 22	preserrved[preserved] from harme. The chiefest Enemies of
 P. 25	not suffer the Watres[Waters] to be united, so on the contrary,
 P. 26	putrefacton[putrefaction], and wormes. For this Oyle doth so
 P. 28	but put, or falnin[faln] into it, all the Honey is turned
-P. 29	Sidenote: What nse[use] the Aire is for as
+P. 29	Sidenote: What nse[use] the air is for as
 P. 32	Sidenote: The life of Excremeuts[Excrements]
 P. 38	Calcinaion[Calcination] with Aqua fortis, is that the Metall
 P. 40	until they begin to be green, which indeed wil quickty[quickly]
@@ -88,7 +89,7 @@ P. 54	it it[2x] is dead, and death is in it, neither hath it any
 P. 55	are thus asleep. (for[For] they which sleep a naturall sleep
 P. 56	would never bee perceived in them. Wheerefore[Wherefore] it
 P. 59	Sidenote: The flegme of of[2x] Wood is its Mercury, the
-P. 63	as oft as thou pleasest, viz. if thou puttest it a-into[into]
+P. 63	as oft as you pleasest, viz. if you puttest it a-into[into]
 P. 64	to to[2x] bee understood Dissolution, and Resolution,
 P. 66	sharpnesse of of[2x] the Salt, and makes them mild, and
 P. 68	and Minerall Fire in in[2x] Mountains, which indeed the
@@ -105,13 +106,13 @@ P. 88	be taken, and beaten intto[into] thin plates, or brought into
 P. 88	in the water, may bee so precipiated[precipitated] with
 P. 90	Cachymiies[Cachymies], red Talke, the Azure stone, and the like,
 P. 101	divers coloured coat, or sleeve. So every Magigrate[Magistrate]
-P. 109	and sordidly, and in stead of Wine hee mnst[must] drinke
+P. 109	and sordidly, and in stead of Wine he  mnst[must] drinke
 P. 112	Sidenote: What are Physignomicall[Physiognomicall] signes.
 P. 114	Sidenote: Roling[Rolling].
 “Roling” was an acceptable spelling when this was originally
 written, however I wanted to make clear that the root word was
 “roll”, not “role”.
-P. 114	and easily explosing[exposing] himselfe to dangers.
+P. 114	and easily explosing[exposing] himself to dangers.
 P. 115	otherwise skilfull enough in the Art of Physiogmony[Physiognomy]
 P. 116	Sidenote: Nothing can be judged by by[2x] the manners,
 P. 124	and accordiug[according] to its substance, measure, and
@@ -120,7 +121,7 @@ P. 130	it his tares. The same is the nature of Visisions[Visions],
 P. 134	But if it presenlly[presently] burn with a flame, and without
 P. 140	produce also Gamaheaus[?] with naked
 “Gamaheaus” appears to be a word made up by Paracelsus.
-P. 140	Gamaheaus, cannot excell in the prperty[property], and vertue
+P. 140	Gamaheaus, cannot excell in the prperty[property], and virtue
 P. 140	casts him out by force; and and[2x] sets himself, as master
 A Chymicall Dictionary.
 Williams at the Bible in Little-brittain[Britain], 1650.
@@ -144,7 +145,7 @@ Organopeotica[?] is an Art finding out
 “Organopoetica”, however, but it seems to have taken on a life of
 its own. “Organopoetica” is a Greek word meaning “the making of
 instruments”.
-Relloleum is a vertue from the complexionn[complexion], as in
+Relloleum is a virtue from the complexionn[complexion], as in
 Saltz, saltz[sultz], Selenipum, is brine.
 Staraphaxat is a resinging[restringing] or
 “Resinging” is an obsolete spelling for “resigning”. However, more

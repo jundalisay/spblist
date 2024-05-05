@@ -1,7 +1,9 @@
 ---
 title: "Mixed Cropping for Boundary Plants"
 weight: 4
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "To ensure the maximum utilization of every inch of land, plants are used in the boundary areas of all schools, farms, orchards, homes, etc"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

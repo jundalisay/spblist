@@ -14,7 +14,10 @@ icon: /icons/descartes.png
 
 
 The animal spirits are like a very subtle wind, or a very pure and vivid flame. 
-- It continually rises in great abundance from the heart to the brain. 
+- It continually rises in great abundance from the heart to the brain*.
+
+> *Superphysics Note: From the external spacetime particles to the heart up to the brain, the animal spirits are pranah or vital energy. The animal spirits get crudified in the brain from where it is sent throughout the body where it manifests as the nerve impulses traveling through the anthakarana. Telekinesis is the channeling of the spacetime particles from the heart directly through the body and back to the external space as to create movement. This requires a breathing technique to energize the heart. Spacetime particles also contain the aether and so extra-sensory information can also be derived from spacetime.  
+
 
 From the brain, it penetrates through the nerves into the muscles, and moves all the parts. 
 

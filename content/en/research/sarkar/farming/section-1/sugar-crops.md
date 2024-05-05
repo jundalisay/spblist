@@ -1,7 +1,9 @@
 ---
 title: "Sugar Crops"
 weight: 38
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Sugar is an important part of the human diet. For many farmers, sugar crops are an essential source of income"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

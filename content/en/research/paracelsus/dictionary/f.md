@@ -48,7 +48,7 @@ Folia daure are leaves of Gold.
 
 Fons philosophorum is Balneum Maris.
 
-Formæ rerum are called the influences of celestiall bodies, which inferiour bodies receive from them, or they are the vertues of any thing.
+Formæ rerum are called the influences of celestiall bodies, which inferiour bodies receive from them, or they are the virtues of any thing.
 
 Formicæ are little impostemes like warts.
 

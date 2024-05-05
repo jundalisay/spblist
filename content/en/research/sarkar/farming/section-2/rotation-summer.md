@@ -1,7 +1,9 @@
 ---
 title: "Crop Rotation for Vegetables"
 weight: 10
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Through scientific crop rotation maximum crops can be planted in the minimum period of time and maximum crops can be planted in the minimum space"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

@@ -1,7 +1,9 @@
 ---
 title: "Afforestation Program"
 weight: 4
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "For afforestation programmes to be successful, surface water must be conserved."
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

@@ -2,7 +2,9 @@
 heading: "Chapter 16"
 title: "SOME LATIN ADJECTIVES1"
 weight: 30
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: ""
 image: "/covers/grammar.png"
 icon: "/icons/sarkar.png"
@@ -13,15 +15,15 @@ NOUN | ADJECTIVE
 --- | ---
 youth | juvenile
 sugar | saccharine
-rosy	rosy
-brick	laterite
-iron	ferrous, ferric
-copper	cuprous, cupric
-rotary	rotarian
-beauty	cosmetic
-village (good sense)	rural
-village (bad sense)	rustic
-snake, serpent	serpentine (zigzag is the English adjective)
+rosy | rosy
+brick |	laterite
+iron | ferrous, ferric
+copper | cuprous, cupric
+rotary | rotarian
+beauty | cosmetic
+village (good sense) | rural
+village (bad sense)	| rustic
+snake, serpent | serpentine (zigzag is the English adjective)
 sound	acoustic
 world, earth	mundane
 ether	ethereal

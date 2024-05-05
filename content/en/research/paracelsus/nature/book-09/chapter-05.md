@@ -18,7 +18,7 @@ Minerals also, and Metals before they come to the fire have their true signes, a
 
 For the Minerall of Gold, is distinct from the Minerall of Silver: so also is the Minerall of Silver from that of Copper: and the Minerall of Copper from that of Iron: so the Minerall of Iron from that of Tinne, and Lead, and so of the rest.
 
-No man can deny, but that the Minerall, and all Metallick bodies of Mines, which lie hid in the earth,[Pg 124] may be known by art of Chiromancy by their exteriour signes. That is, the Chiromancy of Mines, Veines, and Conduits, &c. by which not only those things, which being hid within them, are brought forth, but also a certaine depth, and richnesse of the Mine, and plenty of Metall is manifested. 
+No man can deny, but that the Minerall, and all metallic bodies of Mines, which lie hid in the earth,[Pg 124] may be known by art of Chiromancy by their exteriour signes. That is, the Chiromancy of Mines, Veines, and Conduits, &c. by which not only those things, which being hid within them, are brought forth, but also a certaine depth, and richnesse of the Mine, and plenty of Metall is manifested. 
 
 In this Chiromancy, 3 things are necessary to be known, viz. the age, depth, and breadth of the veins, as hath been said a little before of hearbs. For by how much the older the veins are, by so much the richer, and more augmented are the Mines.
 
@@ -89,7 +89,7 @@ But now what Coruscation is, wee must consider in this place: and we must know t
 
 After the same manner is Coruscation carried along, from the East to the West, or from the West to the East, from the South to the North, or contrarily.
 
-All these Coruscations, how ever they appear, are a certain signe of Courses of Metals, that by them they may be known, and Metals as certain gifts of God may be brought forth out of the earth. For what God created for mans use, hee put that nature into it that it should not be hid: and although it were hid, yet he made peculiar externall signes which conduce to the finding of it out, by which the wonderful predestination of it may be known.
+All these Coruscations, how ever they appear, are a certain signe of Courses of Metals, that by them they may be known, and Metals as certain gifts of God may be brought forth out of the earth. For what God created for mans use, he  put that nature into it that it should not be hid: and although it were hid, yet he made peculiar externall signes which conduce to the finding of it out, by which the wonderful predestination of it may be known.
 
 In the same manner if men hide treasures they marke the place with some certain marks, and bury[Pg 129] them by some bound, statue, or fountaine, or any other thing, that when there is occasion they may find, and dig them up again.
 

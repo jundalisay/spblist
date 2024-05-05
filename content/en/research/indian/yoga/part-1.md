@@ -54,7 +54,7 @@ weight: 4
 
 <sup>11</sup> Memory is the retention of experiences
 
-> *Superphysics Note: These come from the 5 layers: Matter (Erroneous thoughts), Convertible (Correct thoughts), Radiant (Sleep), Spacetime (Ideation), Aethereal (memory)
+> *Superphysics Note: These come from the 5 layers: Matter (Erroneous thoughts), Convertible (Correct thoughts), Radiant (Memory), Spacetime (Sleep), Aethereal (Ideation)
 
 
 
@@ -151,7 +151,7 @@ reborn. -->
 
 <sup>27</sup> The Supreme's sound is Om*.
 
-> *Superphysics Note: The Om sound is used to maintain the Universe. You can think of this as the rumble that a machine makes as a sign that it is running. Is the Om sound the cause or the effect? We think it is the effect and that's why some spiritual people can hear it. 
+> *Superphysics Note: The Om sound is used to maintain the Universe. You can think of this as the rumble that a machine makes as a sign that it is running. Is the Om sound the cause or the effect? We think it is the effect and that's why some spiritual people can hear it.
 
 
 <sup>28</sup> By repetitively chanting the Om sound, the meaning of the Om sound is realized. <sup>29</sup> Then inner consciousness is attained and obstacles disappear. 

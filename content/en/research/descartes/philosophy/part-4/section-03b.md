@@ -22,7 +22,7 @@ icon: "/icons/descartes.png"
 <!-- terrestrial -->
 
 
-Violent motion is often found in lightning and whirlwinds. These happen when high clouds fall into lower ones. This explodes the intercepted air, as I explained in Meteoris.
+Violent motion is often found in lightning and whirlwinds. These happen when high clouds fall into lower ones. This explodes the intercepted air, as I explained in *Meteoris*.
 
 The earth-aether particles in the physical clouds do not yet adhere to the fire-aether in this motion. But if they are rapidly agitated by any other cause, they immediately shake loose from each other. The air-aether globules around them then start to float in it. Thus, they will sustain their motion. 
 

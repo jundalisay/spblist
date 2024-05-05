@@ -1,7 +1,9 @@
 ---
 title: "Fiber Crops"
 weight: 10
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Most pulses are high in protein but have varying degrees of fat. They are easier to digest than casein, but less substantial"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

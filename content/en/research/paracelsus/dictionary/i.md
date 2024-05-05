@@ -21,7 +21,7 @@ Idiotæ are contemners of true arts, although they are skilfull professors of th
 
 Iesahach is supernaturall.
 
-Ignis leonis is the Element it selfe of fire.
+Ignis leonis is the Element it self of fire.
 
 Ignis Persicus is a hot burning ulcer.
 
@@ -39,9 +39,9 @@ Ileidus is the Elementary aire: but in men it is the spirit which passeth throug
 
 Iliaster, or Iliastes, or Iliadum, is the first matter of all things, consisting of Sulphur, Mercury, and Salt; and it is fourefold according to the number of the Elements. The first is the chaos of the Earth, the second is the chaos of the Water, the third is the chaos of the Aire, the fourth the chaos of the Fire. Also there are four Iliastri of men respecting long life.
 
-Iliaster in generall is called the occult vertue of Nature, by which all things are increased, nourished, multiplyed, and flourish; of which you shall read more at large in the book of Paracelsus concerning the generations of Meteors.
+Iliaster in generall is called the occult virtue of Nature, by which all things are increased, nourished, multiplyed, and flourish; of which you shall read more at large in the book of Paracelsus concerning the generations of Meteors.
 
-Iliaster primus is the tearm of life, or the life it selfe, or the balsome of life in man.
+Iliaster primus is the tearm of life, or the life it self, or the balsome of life in man.
 
 Iliaster secundus is the term of the balsome, and the life which we have by Elements, and things elementated.
 
@@ -51,7 +51,7 @@ Iliaster magnus, or quartus is of the mind, or soule caught up into another worl
 
 Imaginatio is a star in man, a celestiall and supercelestiall body.
 
-Imagines are Metallick figures, or effigies, in which the celestiall powers operate.
+Imagines are metallic figures, or effigies, in which the celestiall powers operate.
 
 Impressiones are fruits as of stars in inferior things.
 
@@ -97,7 +97,7 @@ Kimit elevatum is white Cinnabar sublimed.
 
 Kist, or Cist, is half a gallon, or four pints.
 
-Kobalt, or Cobaltum, or Cobletum, is a metallick matter blacker then Lead, or Iron, without a Metallick splendor, yet will be melted, and malleated.
+Kobalt, or Cobaltum, or Cobletum, is a metallic matter blacker then Lead, or Iron, without a metallic splendor, yet will be melted, and malleated.
 
 Kymenna is a buble.
 
@@ -111,7 +111,7 @@ Lac Virginis is Mercuriall water.
 
 Lapis is taken for any fixt thing.
 
-Lapis Philosophorum is the highest vertue of all terrene things, giving tincture.
+Lapis Philosophorum is the highest virtue of all terrene things, giving tincture.
 
 Lapsus Demotinus is a suddaine death, more dangerous then an Apoplexy.
 
@@ -151,7 +151,7 @@ Liquor essentialis is that humour which is turned into flesh, and bloud.
 
 Liquor herbarum is made of hearbs pounded and pressed, and digested.
 
-Liquor Mercurii is the balsome of things, in which the vertue of curing or healing consists.
+Liquor Mercurii is the balsome of things, in which the virtue of curing or healing consists.
 
 Liquor Mumiæ is the fat of a Man.
 
@@ -207,7 +207,7 @@ Mangonaria is an art used in weights, whereby that which is made heavy is easily
 
 Manna is not only called a dew faln from heaven, which is a kind of balsome or fruit of the aire, but also it is taken for any sweet matter extracted out of any thing.
 
-Marcasita is an unripe matter of Metalls, and it is of as many kinds as there be Metalls.
+Marcasita is an unripe matter of metals, and it is of as many kinds as there be metals.
 
 Marmoreus tartarus, is a stone in man as hard as a marble.
 
@@ -241,7 +241,7 @@ Mercurius Crystallinus, is that which by often sublimations is brought into a cl
 
 Mercurius laxus is Turbith Mineral.
 
-Mercurius metallorum præcipitatus is Mercury extracted out of Metalls and precipitated.
+Mercurius metallorum præcipitatus is Mercury extracted out of metals and precipitated.
 
 Mercurius mineralium is an oylinesse extracted out of the Mines of Gold, and Silver.
 
@@ -359,7 +359,7 @@ Orexis is a heat caused by tartarous matter.
 
 Organopeotica is an Art finding out warlike instruments.
 
-Orizonæternitatis is the supercelestiall vertue of things.
+Orizonæternitatis is the supercelestiall virtue of things.
 
 Orizeum is Gold.
 
@@ -367,7 +367,7 @@ Orizeum foliatum is Leaf-gold.
 
 Orizeum præcipitatum is Gold brought into a Crocus, by the help of the Crocus of Mercury.
 
-Orobo is the glasse of Metalls.
+Orobo is the glasse of metals.
 
 Ossa paraleli are a universall medicine in the Gout.
 
@@ -461,13 +461,13 @@ Rebona is the same as Mummie.
 
 Rebus is the last matter of things.
 
-Redue is a powder whereby calcined Metalls, and Mineralls are melted.
+Redue is a powder whereby calcined metals, and Mineralls are melted.
 
 Regale is a Ciment whereby Gold is purged.
 
 Regulus is the purest metalline part of any metall, or the purest part of a minerall, the feces being separated.
 
-Relloleum is a vertue from the complexion, as in St. Johns-wort, the first vertue is in heat, and is healing, the other is accidentall, and occult, and is a preservative against worms, and corruption.
+Relloleum is a virtue from the complexion, as in St. Johns-wort, the first virtue is in heat, and is healing, the other is accidentall, and occult, and is a preservative against worms, and corruption.
 
 Repercussiva are medicines which drive back any flux.
 
@@ -479,7 +479,7 @@ Resina terræ potabilis is sublimed Sulphur, brought into a liquor, balsome, or 
 
 Reverberatorium is a furnace in which the matter is calcined by a flame.
 
-Rillus is an instrument which Goldsmiths use to poure their melted metalls into long forms, and it is called a Jngat.
+Rillus is an instrument which Goldsmiths use to poure their melted metals into long forms, and it is called a Jngat.
 
 Rosea is the same as Erisipelas.
 

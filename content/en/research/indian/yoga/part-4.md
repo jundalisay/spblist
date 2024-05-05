@@ -1,18 +1,12 @@
 ---
 heading: Part 4
-title: "The Divine Powers"
+title: "Realizations"
 description: "The Path To Realization is achieved through yama and niyama"
 image: "/covers/yoga.jpg"
 draft: true
 weight: 14
 ---
 
-
-
-End Part Three
-
-Part Four
-on Realizations
 
 4.1 Psychic powers arise by birth, drugs, incantations, purificatory acts or concentrated insight.
 

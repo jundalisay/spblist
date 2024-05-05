@@ -4,6 +4,9 @@ weight: 6
 image: "/covers/discourses.jpg"
 description: "Each language has 5 fundamental characteristics"
 icon: "/icons/sarkar.png"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 

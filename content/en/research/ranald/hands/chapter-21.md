@@ -9,12 +9,11 @@ draft: true
 ---
 
 
-PART FO UR
+<!-- PART FOUR -->
 
 CHILD TRAINING
 
-IN DISCUSSING
-guidance, I
+IN DISCUSSING guidance, I
 wish
 the application of hand analysis to vocational
 to take issue with the neat tabular classifica-

@@ -21,11 +21,11 @@ These are Cabalisticall signes, that cannot deceive, and therefore diligently to
 
 ## Divining Rods uncertain
 
-You must therefore take heed, that you suffer not your selves to be seduced by the divinations of uncertain Arts; for they are vain, and fruitlesse, especially Divining rods, which have deceived many Miners. For if they shew a thing truly once, they faile ten times.
+You must therefore take he d, that you suffer not your selves to be seduced by the divinations of uncertain Arts; for they are vain, and fruitlesse, especially Divining rods, which have deceived many Miners. For if they shew a thing truly once, they faile ten times.
 
 Also wee must not trust other fraudulent signes of the devill, which are made, and appeare in the night, and at some inconvenient times preternaturally, such as are ghosts, & visions. For I would have you know, that the devill can shew, and cause signes, but out of meer fraud, and deceit.
 
-So there is no Church built, but the devill hath his Chappell there. There is no Chappell built, but hee sets up his Altar. There is no good seed, but hee sows[Pg 130] amongst it his tares. The same is the nature of Visions, and supernaturall Apparitions, in Crystals, Berills, Looking-glasses, and Waters, as they are by Ceremoniall Negromancers contrary to Gods command, and the power of the light of Nature basely abused.
+So there is no Church built, but the devill hath his Chappell there. There is no Chappell built, but he  sets up his Altar. There is no good seed, but he  sows[Pg 130] amongst it his tares. The same is the nature of Visions, and supernaturall Apparitions, in Crystals, Berills, Looking-glasses, and Waters, as they are by Ceremoniall Negromancers contrary to Gods command, and the power of the light of Nature basely abused.
 
 Visions indeed are not absolutely to be rejected; for they have their place, but then they must bee done after another processe. For now wee are not any longer in the first generation, but the second. Ceremonies therefore, and Conjurations are not any longer to be used by us Christians in the regeneration, as the Ancients in the old Testament, who lived in the first generation used them. For those prefigurations were for us who were to live in the New Testament.
 
@@ -34,9 +34,9 @@ Whatsoever things therefore the Ancients that were under the Old Testament, and 
 In what chiefe points the foundations of Magick and Cabalie consists.
 In these 3 chief points consists all the foundation of the Magicall, and Cabalisticall Art, by which wee may obtain whatsoever we desire, so that to us Christians nothing is impossible.
 
-But wee shall desist to treat here of more things concerning these and other monuments of Cabalie, spoken of sufficiently in the book of Visions. I refer you thither, that you may see how wonderfully Christ the Son of God works by his Angells in us Christians, and the faithfull, and how brotherly he is conversant with us. Whence we are the true Angels, and[Pg 131] members of Christ, as hee is our head, as hee is in us, so we live in him, as is taught in the booke of the Lords Supper.
+But wee shall desist to treat here of more things concerning these and other monuments of Cabalie, spoken of sufficiently in the book of Visions. I refer you thither, that you may see how wonderfully Christ the Son of God works by his Angells in us Christians, and the faithfull, and how brotherly he is conversant with us. Whence we are the true Angels, and[Pg 131] members of Christ, as he  is our head, as he  is in us, so we live in him, as is taught in the booke of the Lords Supper.
 
-What is the vertue of the Tincture of Philosophers.
+What is the virtue of the Tincture of Philosophers.
 But to returne to our purpose concerning Minerall signes, and especially concerning the Coruscation of Metalline veins, we must know, that as Metals, which are yet in their first being, send forth their Coruscation, i.e. Signes, so also the Tincture of Philosophers, which changeth all imperfect Metals into Silver, and Gold (or White Metals into Silver, and Red into Gold) puts forth its proper signs like unto Coruscation, if it be Astrally perfected, and prepared. For as soon as a small quantity of it is cast upon a fluxil metall, so that they mixe together in the fire; there ariseth a naturall Coruscation, and brigthnesse, like to that of fine Gold, or Silver in a test, which then is a signe that that Gold, or Silver, is freed and purged without all manner of addition of other Metals.
 
 How the Tincture of Philosophers is made astrall.
@@ -44,7 +44,7 @@ But how the Tincture of Philosophers is made Astrall, you must conceive it after
 
 First of all you must know, that every Metall, as long as it lies hid in its first being, hath its certaine peculiar stars.
 
-So Gold hath the stars of the Sun, Silver the stars of the Moon, Copper the stars of Venus, Iron the stars of Mars, Tinne the stars of Jupiter, Lead the stars of Saturne, Quicksilver the starres of Mercury.
+So Gold hath the stars of the Sun, Silver the stars of the Moon, Copper the stars of Venus, Iron the stars of Mars, Tinne the stars of Jupiter, Lead the stars of Saturn, Quicksilver the starres of Mercury.
 
 But as soon as they come to their perfection, and are coagulated into a fixt Metalline body, their stars fall off from them, and leave them, as a dead body.
 

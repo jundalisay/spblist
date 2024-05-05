@@ -23,13 +23,13 @@ Pour on it good new Aqua Regis so that it may cover it 4 fingers breadth. Then a
 
 The water that is distilled off, poure on againe, then distill it off againe. 
 
-This doe so long untill thou seest the Gold to rise in the glasse, and grow after the manner of a tree, having many boughes, and leaves: and so there is made of Gold a wonderful, and pleasant shrub, which the Alchymists call their Golden hearb, and the Philosophers Tree. 
+This doe so long untill you seest the Gold to rise in the glasse, and grow after the manner of a tree, having many boughes, and leaves: and so there is made of Gold a wonderful, and pleasant shrub, which the Alchymists call their Golden hearb, and the Philosophers Tree. 
 
-In like manner you may proceed with Silver, and other Metalls, yet so that their calcination bee made after another manner, by another Aqua fortis, which I leave to thine experience. If thou art skilled in Alchymie, thou shalt not erre in these things.
+In like manner you may proceed with Silver, and other metals, yet so that their calcination bee made after another manner, by another Aqua fortis, which I leave to thine experience. If you art skilled in Alchymie, you shalt not erre in these things.
 
 
 ## To make an artificial stone of any form
 
 Know also that any flint taken out of River water, (and put into a gourd glasse, having River water poured upon it, that the glasse may bee filled, which Water is againe to bee distilled off as long as a drop will arise, and the Stone dryed, and the Glasse againe filled with this Water, and againe distilled off, and this done so long till the Glasse bee filled with this Stone) may in a few dayes by the Art of Alchymie bee made very great, which the Archeius of the Waters could scarce doe in many yeers.
 
-If then thou breake the Glasse, thou shalt have a Flint in the forme of the Glasse, as if it had been put into the Glasse, and although this bee not for profit, yet it is a thing that is strange, and wonderfull.
+If then you breake the Glasse, you shalt have a Flint in the forme of the Glasse, as if it had been put into the Glasse, and although this bee not for profit, yet it is a thing that is strange, and wonderfull.

@@ -2,7 +2,9 @@
 heading: "Chapter 13"
 title: "SOME RULES OF PRONUNCIATION"
 weight: 24
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: ""
 image: "/covers/grammar.png"
 icon: "/icons/sarkar.png"
@@ -13,18 +15,19 @@ The following is a list of words which are spelt in one way but pronounced in a 
 
 WORDS |	CORRECT PRONUNCIATION 1
 --- | ---
-housewife [in the sense of a case for needles, thread]	huzif
-Dalhousie	daluzi
-colonel	cornel
-lieutenant	leftnant
-sandwich	sandich
-Greenwich	[gren]ich
-Gloucester	glauster
-pall-mall [a game of ancient times]	pel-mel
-viscount	vicount
-government	guvment
-parliament2	parliment
-northwestern wind	nor'western wind
+housewife [in the sense of a case for needles, thread] | huzif
+Dalhousie | daluzi
+colonel	| cornel
+lieutenant | leftnant
+sandwich | sandich
+Greenwich | [gren]ich
+Gloucester | glauster
+pall-mall [an ancient game]	| pel-mel
+viscount | vicount
+government | guvment
+parliament2	| parliment
+northwestern wind |	nor'western wind
+
 [The words eighty and eighteen, though correctly pronounced as they are spelt, are sometimes mispronounced "eight-ty" and "eight-teen".]
 
 Use: The s in use will be pronounced like s when the word is a noun, and like z when the word is a verb.

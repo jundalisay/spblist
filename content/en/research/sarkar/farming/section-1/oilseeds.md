@@ -1,7 +1,9 @@
 ---
 title: "Oilseed Plants"
 weight: 22
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Numerous plants have known medicinal value"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

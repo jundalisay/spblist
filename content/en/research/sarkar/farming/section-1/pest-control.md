@@ -1,7 +1,9 @@
 ---
 title: "Pest Control"
 weight: 18
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Alternative pesticides like neem paste pesticide should be used"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

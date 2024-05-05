@@ -1,7 +1,9 @@
 ---
 title: "Bitter Gourd and Wax Gourd"
 weight: 14
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Fruits are a vital part of the human diet and the easiest food for humans to digest. "
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

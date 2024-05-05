@@ -1,6 +1,6 @@
 ---
 title: "How the Striped particles Flow through the paths of the Earth"
-heading: Section 5
+heading: Section 6
 weight: 21
 description: "Enumeration of properties of magnetic properties"
 writer:

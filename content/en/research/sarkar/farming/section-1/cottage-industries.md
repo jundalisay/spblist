@@ -1,7 +1,9 @@
 ---
 title: "Cottage Industries"
 weight: 10
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Various types of cottage industries should be established on master units, subject to the availability of raw materials"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

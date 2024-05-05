@@ -1,7 +1,9 @@
 ---
 title: "Useful Products From Insects"
 weight: 24
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "In Bengal, production based on insects has 3 main branches"
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

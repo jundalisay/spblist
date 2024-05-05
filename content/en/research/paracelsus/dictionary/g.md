@@ -13,7 +13,7 @@ date: 2024-02-24
 
 Gamahei are images impressed by a supercelestiall influence.
 
-Gamathei are stones in which celestiall vertues, and supernaturall constellations are impressed, being marked with wonderfull characters, and images.
+Gamathei are stones in which celestiall virtues, and supernaturall constellations are impressed, being marked with wonderfull characters, and images.
 
 Gamonynum is that one only Anatomie of all things.
 
@@ -31,7 +31,7 @@ Genula is a plant degenerating by transplanting of a parsnip.
 
 Geomancy is the most known Art of the earth, but in this place it is taken for the stars of the earth, manifesting themselves to men, so that thereby they may take some ground for presaging.
 
-Gibar is a Metallick medicine.
+Gibar is a metallic medicine.
 
 Gigantes are men exceeding the bounds of Nature.
 

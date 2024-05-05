@@ -1,7 +1,9 @@
 ---
 title: "Crop Rotation for Rice"
 weight: 8
-author: "PR Sarkar"
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "The rice is planted in Shrávańa, and then in the last week of Áshvina the “pigeon crop” is tossed into the field without tilling the soil or applying fertilizers."
 image: "/covers/farming.jpg"
 icon: "/icons/sarkar.png"

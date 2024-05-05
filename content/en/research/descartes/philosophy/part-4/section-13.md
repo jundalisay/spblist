@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-{{< s v="202" >}} The philosophy of Democritus is not less different from ours than from the common. 
+## {{< s v="202" >}} The philosophy of Democritus is not less different from ours than from the common. 
 
 [Footnote: "that of Aristotle or the others."]
 
@@ -36,23 +36,36 @@ The philosophy of Democritus was rejected because:
 <!-- I leave it to others to determine whether the philosophy I profess possesses a valid coherency, [and whether on its principles we can make the requisite number of deductions; and, inasmuch as the consideration of figure, magnitude, and motion has been admitted by Aristotle and by all the others, as well as by Democritus, and since I reject all that the latter has supposed, with this single exception, while I reject generally all that has been supposed by the others, it is plain that this mode of philosophizing has no more affinity with that of Democritus than of any other particular sect]. -->
 
 
-{{< s v="203" >}} How we may know the shapes, [magnitudes], and motions of the insensible particles?
+## {{< s v="203" >}} How we may know the shapes, [magnitudes], and motions of the insensible particles?
 
 I assign determinate shapes, magnitudes, and motions to the insensible particles of bodies, as if I had seen them.
 
 <!-- I admit that they do not fall under the senses. How could I have known them? -->
 
-First, I considered in general all our clear notions of material things.
+First, I considered in general all our clear notions of material things that are to be found in our understanding.
 
-that are to be found in our understanding, and that, finding no others except those of figures, magnitudes, and motions, and of the rules according to which these 3 things can be diversified by each other, which rules are the principles of geometry and mechanics, 
+I only found the shapes, magnitudes, and motions, and rules which are the principles of geometry and mechanics.
 
-I judged that all the knowledge man can have of nature must of necessity be drawn from this source
+<!--  according to which these 3 things can be diversified by each other, which rules are , 
 
-because all the other notions we have of sensible things, as confused and obscure, can be of no avail in affording us the knowledge of anything out of ourselves, but must serve rather to impede it]. 
+, and that, finding no others except those of figures,  -->
 
-Thereupon, taking as my ground of inference the simplest and best known of the principles that have been implanted in our minds by nature, I considered the chief differences that could possibly subsist between the magnitudes, and figures, and situations of bodies insensible on account of their smallness alone, and what sensible effects could be produced by their various modes of coming into contact.
+I judged that all the knowledge man can have of nature must necessarily be drawn from the principles of geometry and mechanics.
 
-Afterwards, when I found like effects in the bodies that we perceive by our senses, I judged that they could have been thus produced, especially since no other mode of explaining them could be devised.
+<!-- this source. -->
+
+This is because all the other notions we have of sensible things, as confused and obscure, cannot bring us knowledge but rather impedes knowledge.  
+
+<!-- be of no avail in affording us the knowledge of anything out of ourselves, but must serve rather to impede it].  -->
+
+Thereupon, taking as my ground of inference the simplest and best known of the principles that have been implanted in our minds by nature, I considered the chief differences that could possibly subsist between:
+- the magnitudes, shapes, and situations of bodies insensible because of their smallness alone, and
+- what sensible effects could be produced by our contact with them
+<!-- their various modes of coming into contact. -->
+
+<!-- Afterwards, when  -->
+
+I found like effects in the bodies that we perceive by our senses. From this, I judged that they could have been thus produced, especially since no other mode of explaining them could be devised.
 
 In this way, the example of several bodies made by art was of great service to me.
 

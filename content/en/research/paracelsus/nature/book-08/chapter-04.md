@@ -13,21 +13,21 @@ date: 2024-02-24
 
 
 
-After that wee have explained (as hitherto wee have done) the separation of Metalls from their Earth, and matter, as also of one Metall from another, and how it is done having passed through it with as much brevity as might be: it will in the next place bee necessary that wee treat also of those things out of which Metalls grow, and are generated, as are the three Principles. 
+After that wee have explained (as hitherto wee have done) the separation of metals from their Earth, and matter, as also of one Metall from another, and how it is done having passed through it with as much brevity as might be: it will in the next place bee necessary that wee treat also of those things out of which metals grow, and are generated, as are the three Principles. 
 
-Mercury, Sulphur, and Salt, as also all Mineralls, in which the first being of Metalls, i.e. the spirit of Metalls is found, as is manifest in Marcasites, Granats, Cachymies, red Talke, the Azure stone, and the like, in which the first being of Gold is found by the degree of Sublimation. 
+Mercury, Sulphur, and Salt, as also all Mineralls, in which the first being of metals, i.e. the spirit of metals is found, as is manifest in Marcasites, Granats, Cachymies, red Talke, the Azure stone, and the like, in which the first being of Gold is found by the degree of Sublimation. 
 
 So in white Marcasite, white Talke, Auripigmentum, Arsenick, Litharge, &c. the first being of Silver is found: In Cobaltus, Zinetus, &c. the first being of Iron: In Zinetus, Vitriall, Verdegrease, &c. the first being of Copper: In Zinetus, Bisemutus, &c. the first being of Tin: In Antimony, Minium, &c. the first being of Lead: In Cinnabar, the first being of Quicksilver is found.
 
 Concerning this first beginning you must know, that it is a volatile spirit, as yet consisting in volatility, as an infant lies in the wombe of its Mother, which[Pg 91] sometimes is made like to Liquor, sometimes to Alcool.
 
-Whosoever therefore desires to busie himselfe about the getting of the first being of any such body, or to separate it, must of necessity have much experience, and knowledge in the Art of Alchymie.
+Whosoever therefore desires to busie himself about the getting of the first being of any such body, or to separate it, must of necessity have much experience, and knowledge in the Art of Alchymie.
 
-For if hee shall not diligently and skilfully work in Alchymie, hee shal attempt many things in vain, and accomplish nothing.
+For if he  shall not diligently and skilfully work in Alchymie, he  shal attempt many things in vain, and accomplish nothing.
 
 But after what manner the first being is to be separated out of any Minerall, is sufficiently explained in the booke called Archidoxis, and need not here tediously bee repeated.
 
-But as concerning the separation of Mineralls, you must note, that many of them are to bee separated by the degree of Sublimation as fixed from those which are not fixed, spirituall and volatile bodies from fixt bodies, and so accordingly of all the members, as is declared concerning Metalls. For of all Mineralls there is one, and the like processe through all degrees, as the Art of Alchymie teacheth, &c.
+But as concerning the separation of Mineralls, you must note, that many of them are to bee separated by the degree of Sublimation as fixed from those which are not fixed, spirituall and volatile bodies from fixt bodies, and so accordingly of all the members, as is declared concerning metals. For of all Mineralls there is one, and the like processe through all degrees, as the Art of Alchymie teacheth, &c.
 
 
 ## The Separation of Vegetables
@@ -40,7 +40,7 @@ For first by Distillation the Flegm is separated from them, then the Mercury, th
 
 All these Separations being made according to the Spagiricall Art many notable, and excellent medicines come from thence, which are to be used as well within, as without the body.
 
-But now seeing idlenesse is so much in request amongst Physitians, and all labour and study is turned only to insolency; truly I do not wonder, that all such preparations are every where neglected, and coales sold at so low a price, that if Smiths could be so easily without coales in forging, and working their Metalls, as Physitians are in preparing their Medicines, certainly Colliers would long since have been brought to extream want.
+But now seeing idlenesse is so much in request amongst Physitians, and all labour and study is turned only to insolency; truly I do not wonder, that all such preparations are every where neglected, and coales sold at so low a price, that if Smiths could be so easily without coales in forging, and working their metals, as Physitians are in preparing their Medicines, certainly Colliers would long since have been brought to extream want.
 
 A reprehension of Physitians.
 
@@ -104,7 +104,7 @@ The Ashes which is left behind is called the Dead Earth, out of which never any 
 
 The Separation of Animals
 
-It is necessary, that Anatomie goe before the separation of Animalls, that the bloud may bee apart, the flesh apart, the bones apart, the skinne apart, the bowels apart, the tendons apart, &c. and after this must every one of these bee separated by it selfe by the help of the Spagiricall Art.
+It is necessary, that Anatomie goe before the separation of Animalls, that the bloud may bee apart, the flesh apart, the bones apart, the skinne apart, the bowels apart, the tendons apart, &c. and after this must every one of these bee separated by it self by the help of the Spagiricall Art.
 
 
 Therefore the separations in this place are chiefly 4.
@@ -121,7 +121,7 @@ Therefore it is the chiefest Chirurgical specificum, and in all cases, as in wou
 
 The third is the separation of waterie, and flegmatick moisture, together with the fat extracted out of bones. 
 
-For if these two bee carefully by the Art of Alchymie separated from Mens bones by the degree of Distillation, and the bones bee reduced, or burnt into most white ashes by the degree of Calcination; and then these three bee again after a right manner joined together, so that they resemble butter, they become a most wonderfull specificall Arcanum, with which thou maist soundly cure any fracture of bones without any pain at three bindings up, so that thou dost handle, and set the fracture according to the rules of Chirurgery, and then apply that specificum by way of plaister, &c.
+For if these two bee carefully by the Art of Alchymie separated from Mens bones by the degree of Distillation, and the bones bee reduced, or burnt into most white ashes by the degree of Calcination; and then these three bee again after a right manner joined together, so that they resemble butter, they become a most wonderfull specificall Arcanum, with which you maist soundly cure any fracture of bones without any pain at three bindings up, so that you dost handle, and set the fracture according to the rules of Chirurgery, and then apply that specificum by way of plaister, &c.
 
 
 This also doth most speedily cure the wounds of the skull, and any other contusion of bones whatsoever.
@@ -134,7 +134,7 @@ There might many other separations of these and other things bee reckoned up. Bu
 
 The last Separation is the last Iudgment
 
-And lastly in the end of all things shall bee the last separation, in the third generation, the great day when the Son of God shall come in majesty, and glory, The Manner of the last Iudgement.before whom shall be carried not swords, garlands, diadems, scepters, &c. and Kingly jewels, with which Princes, Kings, Cesars, &c. doe pompously set forth themselves, but his Crosse, his crown of thorns, and nails thrust through his hands, and feet, and spear with which his side was pierced, and the reed, and spunge in which they gave him vineger to drinke, and the whips wherewith hee was scourged, and beaten. He comes not accompanyed with troopes of Horse, and beating of Drums, but foure Trumpets shall bee sounded by the Angells towards the foure parts of the world, killing all that are then alive with their horrible noise, in one moment, and then presently raising these again, together with them that are dead, and buryed.
+And lastly in the end of all things shall bee the last separation, in the third generation, the great day when the Son of God shall come in majesty, and glory, The Manner of the last Iudgement.before whom shall be carried not swords, garlands, diadems, scepters, &c. and Kingly jewels, with which Princes, Kings, Cesars, &c. doe pompously set forth themselves, but his Crosse, his crown of thorns, and nails thrust through his hands, and feet, and spear with which his side was pierced, and the reed, and spunge in which they gave him vineger to drinke, and the whips wherewith he  was scourged, and beaten. He comes not accompanyed with troopes of Horse, and beating of Drums, but foure Trumpets shall bee sounded by the Angells towards the foure parts of the world, killing all that are then alive with their horrible noise, in one moment, and then presently raising these again, together with them that are dead, and buryed.
 
 Matth. 25.
 For the voice shall bee heard: Arise yee dead, and come to judgment. Then shal the twelve Apostles sit down, their seats being prepared in the clouds, and shal judge the twelve Tribes of Israel. 
@@ -143,6 +143,6 @@ In that place the holy Angels shall separate the bad from the good, the cursed f
 
 Then from the tribunall of God shal go forth this voice to them that stand on his left hand: Goe yee Cursed into everlasting fire prepared for the Devill, and his Angells from all eternity: For I was an hungry, and yee fed me not; thirsty, and you gave no drink; sick, in prison, and naked, and you visited me not, freed mee not, cloathed me not, and you shewed no pity towards me, therefore shalt you expect no pity from me.
 
-On the contrary, hee shal speak to them on his right hand: Come yee blessed; and chosen into my Fathers Kingdome, which hath been prepared for you, and his Angells from the foundation of the world. For I was hungry, and you gave me meat; thirsty, and you gave me drink; I was a stranger, and you took me in; naked[Pg 99] and you covered me; sick, and you visited me; in prison, and you came unto me. Therefore I will receive you into my Fathers Kingdom, where are provided many mansions for the Saints. You took pity on me, therefore will I take pity on you.
+On the contrary, he  shal speak to them on his right hand: Come yee blessed; and chosen into my Fathers Kingdome, which hath been prepared for you, and his Angells from the foundation of the world. For I was hungry, and you gave me meat; thirsty, and you gave me drink; I was a stranger, and you took me in; naked[Pg 99] and you covered me; sick, and you visited me; in prison, and you came unto me. Therefore I will receive you into my Fathers Kingdom, where are provided many mansions for the Saints. You took pity on me, therefore will I take pity on you.
 
 All these being finished, and dispatched, all Elementary things wil returne to the first matter of the Elements, and bee tormented to eternity, and never bee consumed, &c. and on the contrary, all holy things shall return to the first matter of Sacraments: i.e. shall be purified, and in eternall joy glorifie God their Creator, and worship him from age to age, from eternity, to eternity, Amen.

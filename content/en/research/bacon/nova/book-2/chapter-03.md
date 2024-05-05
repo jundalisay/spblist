@@ -5,6 +5,9 @@ weight: 6
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
+writer:
+  name: Francis Bacon
+  url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 

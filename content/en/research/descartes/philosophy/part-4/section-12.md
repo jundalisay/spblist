@@ -1,6 +1,6 @@
 ---
 title: "The Sensible Bodies and Insensible Particles"
-heading: Section 2
+heading: Section 12
 weight: 46
 description: "Sensible bodies are composed of insensible particles"
 writer:
@@ -11,26 +11,47 @@ icon: "/icons/descartes.png"
 ---
 
 
-{{< s v="196" >}} **The soul perceives only in so far as it is in the brain.**
+## {{< s v="196" >}} The soul perceives only in so far as it is in the brain
 
-The soul does not perceive in so far as it is in each member of the body, but only in so far as it is in the brain, where the nerves by their movements convey to it the diverse actions of the external objects that touch the parts of the body in which they are inserted.
+The soul does not perceive in so far as it is in each member of the body. It can only perceive when it is in the brain where the nerves, by their movements, convey to it the actions of the external objects that touch the parts of the body in which they are inserted.
 
-For, in the first place, there are various maladies, which, though they affect the brain alone, yet bring disorder upon, or deprive us altogether of the use of, our senses, just as sleep, which affects the brain only, and yet takes from us daily during a great part of our time the faculty of perception, which afterwards in our waking state is restored to us.
+There are 3 proofs for this:
 
-The second proof is, that though there be no disease in the brain, [or in the members in which the organs of the external senses are], it is nevertheless sufficient to take away sensation from the part of the body where the nerves terminate, if only the movement of one of the nerves that extend from the brain to these members be obstructed in any part of the distance that is between the two.
+1. There are various maladies which affect the brain alone. Yet bring disorder on, or deprive us of the use of, our senses. 
 
-The last proof is, that we sometimes feel pain as if in certain of our members, the cause of which, however, is not in these members where it is felt, but somewhere nearer the brain, through which the nerves pass that give to the mind the sensation of it. I could establish this fact by innumerable experiments; I will here, however, merely refer to one of them.
+This is the same way that sleep only affects the brain. Yet it takes from us the faculty of perception which afterwards is restored to us in our waking state.
 
-A girl suffered from a bad ulcer in the hand. She had her eyes bandaged whenever the surgeon came to dress it as she was unable to bear the sight of the dressing of the sore. The gangrene spread. After a few days, the arm was amputated from the elbow without the girl's knowledge. 
 
-Linen cloths tied one above the other were substituted in place of the part amputated, so that she remained for some time without knowing that the operation had been performed. Meanwhile, she complained of feeling various pains, sometimes in one finger of the hand that was cut off, and sometimes in another.
+2. The obstruction to the movement of the nerves that extend from the brain to the end of those nerves can take away sensation from the part of the body.
 
-The only explanation is that the nerves which before stretched downwards from the brain to the hand, and then terminated in the arm close to the elbow, were there moved in the same way as they required to be moved before in the hand for the purpose of impressing on the mind residing in the brain the sensation of pain in this or that finger.
+This happens even if there is no disease in the brain [or in the parts where the organs of the external senses are]. 
+
+
+ <!-- these members be obstructed in any part of the distance that is between the two. -->
+
+3. We sometimes feel pain in certain body parts even if the real cause is somewhere nearer the brain.
+
+<!-- , the cause of which, however, is not in these members where it is felt, but  -->
+
+<!-- , through which the nerves pass that give to the mind the sensation of it. I could establish this fact by innumerable experiments; I will here, however, merely refer to one of them. -->
+
+A girl suffered from a bad ulcer in the hand. She had her eyes bandaged whenever the surgeon came to dress it as she was unable to bear the sight of the dressing of the sore. 
+
+The gangrene spread. After a few days, the arm was amputated from the elbow without the girl's knowledge. 
+
+Linen cloths tied one above the other were substituted in place of the part amputated, so that she remained for some time without knowing that the operation had been performed. 
+
+Meanwhile, she complained of feeling various pains, sometimes in one finger of the hand that was cut off, and sometimes in another.
+
+The only explanation is that the nerves which before stretched from the brain to the hand, but now ended in near the elbow, were moved in the same way as they did before the amputation. This movement still impressed on the mind in the brain the sensation of pain in the finger.
+
+ <!-- required to be moved before in the hand for the purpose of  -->
 
 This clearly shows that the pain of the hand is not felt by the mind in so far as it is in the hand, but in so far as it is in the brain.
 
 
-{{< s v="197" >}} The mind can be excited by the various sensations from the motion of body.
+
+## {{< s v="197" >}} The mind can be excited by the various sensations from the motion of body.
 
 <!-- In the next place, it can be proved that our mind is of such a nature that  -->
 
@@ -51,7 +72,7 @@ The motion merely of a sword cutting a part of our skin causes pain, [but does n
 It is certain that this sensation of pain is not less different from the motion that causes it, or from that of the part of our body which the sword cuts, than are the sensations we have of colour, sound, odour, or taste. On this ground we may conclude that our mind is of such a nature that the motions alone of certain bodies can also easily excite in it all the other sensations, as the motion of a sword excites in it the sensation of pain.
 
 
-{{< s v="198" >}}  Our senses only tell us of the shape, location, magnitude, and motion of external objects.
+## {{< s v="198" >}}  Our senses only tell us of the shape, location, magnitude, and motion of external objects.
 
 We observe no such difference between the nerves as to lead us to judge that one set of them convey to the brain from the organs of the external senses anything different from another, or that anything at all reaches the brain besides the local motion of the nerves themselves.
 
@@ -82,7 +103,7 @@ The various dispositions of external objects such as light, colour, smell, taste
 <!-- [Footnote: "the diverse figures, situations, magnitudes, and motions of their parts."— French.] -->
 
 
-{{< s v="199" >}} There is no phenomenon of nature whose explanation has been omitted in this treatise.
+## {{< s v="199" >}} There is no phenomenon of nature whose explanation has been omitted in this treatise.
 
 <!-- And thus it may be gathered, from an enumeration that is easily made, that there is no phenomenon of nature whose explanation has been omitted in this treatise; for  -->
 
@@ -93,7 +114,9 @@ But leaving out of account motion, magnitude, figure, [and the situation of the 
 These I have recently shown to be nothing more, at least so far as they are known to us, than certain dispositions of the objects, consisting in magnitude, figure, and motion.
 
 
-{{< s v="200" >}} This treatise contains no principles which are not universally received; and that this philosophy is not new, but of all others the most ancient and common.
+## {{< s v="200" >}} This treatise contains no principles which are not universally received
+
+This philosophy is not new, but of all others the most ancient and common.
 
 I have here explained the whole nature of material things.
 

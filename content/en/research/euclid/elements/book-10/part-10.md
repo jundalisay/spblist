@@ -35,11 +35,19 @@ Therefore two straight lines AF, FB incommensurable in square have been found wh
 
 ## PROPOSITION 34
 
-To find two straight lines incommensurable in square which make the sum of the squares on them medial but the rectangle contained by them rational.
+To find 2 straight lines incommensurable in square which make the sum of the squares on them medial but the rectangle contained by them rational.
 
-Let there be set out two medial straight lines AB, BC, commensurable in square only, such that the rectangle which they contain is rational, and the square on AB is greater than the square on BC by the square on a straight line incommensurable with AB; [X. 31, ad fin.] let the semicircle ADB be described on AB, let BC be bisected at E, let there be applied to AB a parallelogram equal to the square on BE and deficient by a square figure, namely the rectangle AF, FB; [VI. 28] therefore AF is incommensurable in length with FB. [X. 18]
+Let there be set out 2 medial straight lines `AB`, `BC`, commensurable in square only, such that the rectangle which they contain is rational, and the square on AB is greater than the square on BC by the square on a straight line incommensurable with AB [X. 31, ad fin.] 
 
-Let FD be drawn from F at right angles to AB, and let AD, DB be joined.
+Let the semicircle `ADB` be described on `AB`. 
+
+Let `BC` be bisected at `E`.
+
+Let there be applied to `AB` a parallelogram equal to the square on `BE` and deficient by a square figure, namely the rectangle `AF`, `FB` [VI. 28].
+
+Therefore, AF is incommensurable in length with `FB`. [X. 18]
+
+Let `FD` be drawn from `F` at right angles to AB, and let AD, DB be joined.
 
 Since AF is incommensurable in length with FB, therefore the rectangle BA, AF is also incommensurable with the rectangle AB, BF. [X. 11]
 

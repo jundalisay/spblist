@@ -77,7 +77,7 @@ Senio maximus is the Author of long life.
 
 Sephirus is a hard, and dry aposteme.
 
-Seraphin is an unutterable vertue, an infinite power of the heaven, and especially the assembly of Angels.
+Seraphin is an unutterable virtue, an infinite power of the heaven, and especially the assembly of Angels.
 
 Serpheta is a medicine melting a stone.
 
@@ -99,7 +99,7 @@ Sol in homine is the invisible fire flowing from the celestiall Sun, preserving 
 
 Soladini are corporeall spirits dwelling in the invisible fire.
 
-Somnia are operations which are made in man by the stars when hee is sleeping.
+Somnia are operations which are made in man by the stars when he  is sleeping.
 
 Sonath is Anthos.
 
@@ -113,7 +113,7 @@ Spagiria is commonly taken for Alchymie.
 
 Spagirus, or spagiricus is he which knows to distinguish betwixt good, and bad, to separate pure from impure, or a Chymist, or Alchymist.
 
-Spara is the Minerall vertue out of the first being of metalls.
+Spara is the Minerall virtue out of the first being of metals.
 
 Sperma aquæ fortis is its feculency.
 
@@ -121,9 +121,9 @@ Sperniolum is a mucilaginous liquor of frogs.
 
 Spiritus Animalis is a power of the soul whereby it becomes like to the heavens.
 
-Stannar is called the mother of metalls, an occult fume out of which Elements are generated.
+Stannar is called the mother of metals, an occult fume out of which Elements are generated.
 
-Staraphaxat is a restringing or repercussive vertue.
+Staraphaxat is a restringing or repercussive virtue.
 
 Stellio adustus is Cinnabar.
 
@@ -203,7 +203,7 @@ Trigonum is a fourefold transmutation of the spirits of the stars according to t
 
 Tronus, or Tronossa is called the celestiall dew made of the air, or the sweetest kind of Manna.
 
-Truphat is an occult vertue of Mineralls, by which they act toward that end for which they were ordaind.
+Truphat is an occult virtue of Mineralls, by which they act toward that end for which they were ordaind.
 
 Turba magna is an innumerable multitude of the celestiall stars, and is a presage made by any of them.
 

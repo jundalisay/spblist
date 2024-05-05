@@ -1,0 +1,20 @@
+---
+title: "The Different Constants"
+date: 2022-04-13
+image: /graphics/physics/aether.jpg
+description: "The different constants in Physics reflects the limit of each Layer"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+icon: /icons/spmat.png
+draft: true
+---
+
+
+
+G is the Material Layer
+g is an instance in the Material Layer
+c is the Radiant Layer
+volt is an instance in the Radiant Layer
+
+Avogradro's constant
