@@ -16,6 +16,11 @@ aliases:
 ---
 
 
+Axiom | Proposition
+--- | ---
+Spacetime is superior to Electromagnetism | Einstein's General Relativity is wrong, not incomplete
+
+
 <!-- E :: G<sub>l</sub> as an alternative to E = mc{{< s v="2" >}} -->
 
 

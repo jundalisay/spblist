@@ -12,6 +12,12 @@ icon: /icons/sp.png
 ---
 
 
+Axiom | Proposition
+--- | ---
+The Positive Force is Superior to the Negative | Socratic Dialectics uses the Positive Force to sort through the belligerence of the Positive and Negative within the 5 Layers
+
+
+
 The previous chapter explained Critical Thinking and Critical Feeling. 
 
 - Critical thinking is the application of the intellect with added effort in order to push against, or break through, the limitations imposed by the Negative Force

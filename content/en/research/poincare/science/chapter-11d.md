@@ -27,12 +27,13 @@ a length (measured on the circumference of the circle of radius unity) of each r
 We have to calculate the integral of φ(θ) dθ, extending it on the one hand to all the red, and on the other hand to
 all the black compartments, and to compare the results. 
 
-Consider an interval 2 comprising two consecutive red and black compartments. Let M and m be the maxi-
-mum and minimum values of the function φ(θ) in this interval. The integral P extended to the red compartments
+Consider an interval 2 comprising two consecutive red and black compartments. Let M and m be the maximum and minimum values of the function φ(θ) in this interval. The integral P extended to the red compartments
 will be smaller than M; extended to the black it will be greater than m. 
 
+
 The difference will therefore be
-P
+
+...
 
 smaller than (M − m). But if the function φ is supposed continuous, and if on the other hand the interval 
 is very small with respect to the total angle described by

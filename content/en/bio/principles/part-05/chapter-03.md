@@ -20,6 +20,12 @@ A quinquelemental science should be applied to cure certain ailments associated 
 {{< /q >}}
 
 
+Axioms | Propositions
+--- | ---
+There are 5 Layers in Reality | These manifest as the 5 Medical Paradigms in to repair the engineering of the body
+The body is a biological machine | 
+
+
 Superphysics follows the five-layer model of the universe as described by the ancient Greeks, Hindus, and Chinese 
 
 

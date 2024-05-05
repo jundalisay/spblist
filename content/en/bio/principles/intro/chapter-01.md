@@ -16,6 +16,14 @@ aliases:
 ---
 
 
+
+Axioms | Propositions
+--- | ---
+The nature of the Negative is to divide | A soul can have many selves but a self can only have one soul
+The Soul or Mind is the Positive Force Surrounded by the Negative | If a perception is 1 second, then there are 3 billion selves in a 100 year lifetime 
+The Soul is split into different Selves by the Spacetime Layer |  
+
+
 In Book 1 of *A Treatise of Human Nature*, David Hume laid out his principle of the self.
 
 According to him, 'identity' is a perception of something that is separate and different from another perception. 
