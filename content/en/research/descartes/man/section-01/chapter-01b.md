@@ -1,8 +1,8 @@
 ---
-title: 
+title: How the Blood Goes Through the Body
 heading: Chapter 1b
 weight: 3
-description: "Rene Descartes starts to doubt all of his beliefs"
+description: "The pulse, or beat of the arteries, depends on the 11 little skins. These are like little doors which close and open the entrances of the 4 vessels which look into the 2 cavities of the heart"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -38,7 +38,7 @@ As the arteries swell, the small parts of the blood which they contain go to cho
 
 And so they have the power to push them a little in front of themselves and to put themselves in their place; then at the moment that the arteries unbend, each of its parts stops where it is, and by that alone is joined and united to those which it touches, according to what has been said above.
 
-Now, if it is the body of a child that our model represents, its material will be so soft and its pores so large that it will be able to be seen by the observer. 
+If it is the body of a child that our model represents, its material will be so soft and its pores so large that it will be able to be seen by the observer. 
 
 If it is the body of a child that our model represents, its matter will be so tender and its pores so easy to widen, that the parts of the blood which will thus enter into the composition of the rigid members, will commonly be a little larger than those in whose place they will be placed, or even it will happen that two or three will succeed together to one, which will be the cause of its growth: 
 

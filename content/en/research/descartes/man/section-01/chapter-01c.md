@@ -1,8 +1,8 @@
 ---
-title: 
+title: The Nerves and Muscles
 heading: Chapter 1c
-weight: 3
-description: "Rene Descartes starts to doubt all of his beliefs"
+weight: 5
+description: "It is through this manufacture alone that the spiritsin the brain present themselves to enter into some nerves, they have the force to move at the same moment some member"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

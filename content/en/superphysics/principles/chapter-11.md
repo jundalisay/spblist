@@ -21,7 +21,7 @@ The Positive Force is Superior to the Negative | Socratic Dialectics uses the Po
 The previous chapter explained Critical Thinking and Critical Feeling. 
 
 - Critical thinking is the application of the intellect with added effort in order to push against, or break through, the limitations imposed by the Negative Force
-- Critical feeling is the application of the feelings with added effort in order to go outside of the ego or the feeling of the self
+- Critical feeling is the application of the feelings with added effort in order to go outside of the ego or the feeling of the self which is also a result of the Negative Force
 
 These two are used to solve problems. 
 - Critical thinking is usually for intellectual and physical problems
@@ -111,7 +111,8 @@ The problem here is that **all causes are metaphysical in nature, since all caus
 - Supertyphoons are caused by the feelings of heat by the planet <!-- ideas of thermodynamics leading to the compound idea of --> as global warming
 - Covid is caused by the idea of coronaviruses which are felt as symptoms of coughing, fever, loss of taste, etc. Before science, epidemics were thought to be caused by evil spirits of unknown cause. Both science and non-science are ignorant* of the root cause of such viruses and evil spirits. 
 
-> *Superphysics places the root cause of such viruses or spirits as [coming from stars](/bio/solutions/covid-star), just like all matter comes from supernovae (star explosion). This is in line with the ancient 5 Elements model and is what Kepler's data-driven astrology was trying to prove. Unfortunately, science only took his astronomical observations, as Kepler's Laws
+> *Superphysics places the root cause of such viruses or spirits as [coming from stars](/bio/solutions/covid-star), just like all matter comes from supernovae (star explosion). This is in line with the ancient 5 Elements model and is what Kepler's data-driven astrology was trying to prove. Unfortunately, science only took his astronomical observations, as Kepler's Laws. You could think of stars and supernovae as the 'deploy' phase of the aethereal ideas of the Supreme onto reality. 
+
 
 
 Math, on the other hand, is confined to physical perceptions. The best that math and science can do is to speculate on the causes of problems based on the pattern of effects. It's like a blind man groping in the dark to discover where he is or what's around him. 

@@ -94,7 +94,7 @@ paginate = 12
       url = "/superphysics/principles/chapter-04b"
       img = "/graphics/physics/math.jpg"
       title = "A New Math for a New Science"
-      sub = "Has relativity baked in"
+      sub = "Has Poincare's Law of Relativity baked in"
     [languages.en.params.tricon1.items.d]
       url = "/superphysics/principles/chapter-11"
       img = "/avatars/socrates.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "The 1919 Eclipse"
+title: "Gravitational Lensing: Einstein Versus Descartes"
 # date: 2023-04-22
 weight: 13
 image: /photos/physics/star.jpg
@@ -9,14 +9,16 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
 toc: false
+draft: true
 ---
 
 
 In his book Relativity, Einstein says that the changing of the place of a star observed during the 1919 eclipse is due to spacetime being curved around the sun. 
 
-He then uses this as proof that spacetime is a flexible fabric that constrains all motions. This led pepole to believe that it would create immense amounts of energy to travel at the speed of light or even to travel through time. 
+He then uses this as proof that spacetime is a flexible fabric that constrains all motions. This led pepole to believe that it would create immense amounts of energy to travel at the speed of light or even to travel through time.
   
-Hawking then builds on this to create arbitrary and useless spacetime theories. This also led to the wild goose chase for dark matter and dark energy that are supposed to be within this spacetime fabric.
+Hawking then builds on this to create arbitrary and useless spacetime theories. This has also led to the wild goose chase for dark matter and dark energy that are supposed to be within this spacetime fabric.
+
 
 In reality, the 1919 eclipse is not a proof of General Relativity. Instead, it proved that Descartes' third rule is correct -- that curved motion happens when two object influence each other, and straight motion happens when there is no influence.
 

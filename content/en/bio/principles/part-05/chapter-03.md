@@ -31,7 +31,7 @@ Superphysics follows the five-layer model of the universe as described by the an
 
 Superphysics | Physics | Greeks (Timaeus) | Hindus | Chinese
 --- | --- | --- | --- | ---
-Aethereal | Higgs | Aether | Akasha | 水 still water 
+Aethereal | Quanta | Aether | Akasha | 水 still water 
 Spatial | Gravitation | Wind | Vayu |木 moving wood
 Radiant | Electromagnetism | Fire | Tejas | 火 radiant fire
 Convertible | Weak | Water | Jala | 土 transforming earth

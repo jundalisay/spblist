@@ -10,6 +10,8 @@ icon: /icons/spmat.png
 draft: true
 ---
 
+
+
 Robert Kolker Ah you are confusing the words 'discovery' with 'documentation'.
 
 The relation between magnetism and electricity was already documented by Gilbert in 1600. 

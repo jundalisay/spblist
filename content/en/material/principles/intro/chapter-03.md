@@ -87,7 +87,7 @@ Material | som (Substance of Matter) | Proton
 Layer | Superphysics Quanta | Common Name
 --- | --- | --- 
 Aethereal | qoa (Quantum of Aether) | Brahma, Oversoul, Soul
-Spatial | qost (Quantum of Spacetime) | Spacetime Particles
+Spatial | qost (Quantum of Spacetime) | Graviton
 Radiant | qor (Quantum of Radiance) | Electron
 Convertible | qot (Quantum of Conversion) | Neutrino 
 Material | qom (Quantum of Matter) | Quark

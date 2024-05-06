@@ -1,8 +1,8 @@
 ---
-title: 
+title: The Machine of the Human Body
 heading: Chapter 1
 weight: 2
-description: "Rene Descartes starts to doubt all of his beliefs"
+description: "The body is a machine of earth which God forms on purpose to make it as similar to us as possible. He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies."
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -21,7 +21,7 @@ These men will be composed, like us, of a soul and a body.
 ## Body
 
 <!-- nothing other than a statue or -->
-The body is a machine of earth which God forms on purpose to make it as similar to us as possible. He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies. 
+The body is a machine of earth which God forms on purpose to make it as similar to us as possible. He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies.
 
 These parts make the body walk, eat, breathe, and finally imitate all those of our functions which can be imagined to proceed from matter, and depend only on the disposition of the organs.
 
