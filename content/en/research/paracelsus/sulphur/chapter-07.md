@@ -196,7 +196,7 @@ How Sir?
 Know that all things in the earth, and upon the earth, are generated, and produced of three Principles; sometimes of two, to which the third is joined: he therefore that knows these 3 Principles. 
 
 The weight of them, how Nature joins them together, may be easily able by decoction to understand the degree of Fire in the subject, whether well, or ill, or indifferently decocted, and that according to more or lesse: For all Vegetable things are known by those, who know the three Principles.
-
+{{< /r >}}
 
 Alch. And how is this done? 
 
@@ -283,6 +283,7 @@ Alch. Sir, Can those enmities betwixt him and his Keepers bee reconciled?
 
 {{< r a="Vox" >}}
 Vox, Yes, if any one were so wise. 
+{{< /r >}}
 
 {{< l a="Alchemist" >}}
 Why does he not treat with them concerning a pacification? 
@@ -440,13 +441,19 @@ Well then, my friend, but it will succeed accordingly.
 
 Then they took that Sulphur, which the Alchymist found, and they did what the Alchymist would have done, they began to work divers ways, and to make experiments of Sulphur in divers strange kind of furnaces, which the Alchymist had: but in the conclusion of every operation there was brought forth nothing but Matches, such as old women usually sell to light candles withall. 
 
-Then they began a new work, and sublimed, and calcined Sulphur according to the Alchymists pleasure; but in what way soever they worked it, it succeeded as before, for still they made nothing but Matches; then said the Alchymist to Saturn, Truly Sir, I see it will not succeed according to my fancy, I beseech thee doe you work alone, what you knowest. 
+Then they began a new work, and sublimed, and calcined Sulphur according to the Alchymists pleasure; but in what way soever they worked it, it succeeded as before, for still they made nothing but Matches; then said the Alchymist to Saturn:
 
-Then Saturn said:
+{{< l a="Alchemist" >}}
+Truly Sir, I see it will not succeed according to my fancy, I beseech you to do what you know. 
+{{< /l >}}
 
-See then, and learn. he  then took two Mercuries of a differing substance, but of one originall, which Saturn washed in his owne urine, and called them Sulphurs of Sulphurs, and mixed the fixed with the volatile, and the composition being made, he  put it into its proper vessell, and lest the Sulphur should fly away, he  set a keeper over him, and then put him into a bath of a most gentle heat, according as the matter required, and he  made all things very well.
+{{< r a="Saturn" >}}
+See then, and learn. 
+{{< /r >}}
 
-Then they made the Philosophers Stone because of the true matter a true thing must needs bee made. 
+He then took two Mercuries of a differing substance, but of one originall, which Saturn washed in his owne urine, and called them Sulphurs of Sulphurs, and mixed the fixed with the volatile, and the composition being made, he  put it into its proper vessell, and lest the Sulphur should fly away, he  set a keeper over him, and then put him into a bath of a most gentle heat, according as the matter required, and he  made all things very well.
+
+Then they made the Philosophers Stone because of the true matter a true thing must needs be made. 
 
 The Alchymist being very glad took the Stone with the glass, and beholding the colour thereof, which was like burnt blood, he  was amazed, and by reason of too much joy he  began to leap, in which leaping the glasse fell out of his hands upon the ground, and was broken. 
 
@@ -460,7 +467,7 @@ Some of them, when things succeed not, say: We are wise men, wee hear that the g
 
 We grant unto the unworthy, that this Art is nothing, but to the Lovers of virtue, and the true Searchers, and Sons of Wisdome, wee doe most highly commend it, and doe affirme it not only to be true, but altogether the truest: which, sometimes wee have really made good before men worthy of such a fight, I say before men of high, and low condition: (yet this Medicine was not made by us, but received from a friend, and yet most true) for the searching out of which wee have sufficiently instructed the Searchers thereof; whom if our Writings doe not please, let them read those of other Authors, which[Pg 141] are easier, but with this Caution, That whatsoever they shall read, they shall always compare it with the possibility of Nature, lest they assay any thing contrary to Nature. Neither let them beleeve, although it were written in the bookes of Philosophers, that Fire burns not, because this is contrary to Nature: 
 
-but if it bee writ, that Fire hath a drying, and heating faculty, this is to bee beleeved, because it is according to Nature: For Nature doth always agree with a sound judgment, and in Nature there is nothing difficult, all truth is plain. Then also let them learne, what things in Nature are of affinity with each other, which wee conceive may be easier done by our Writings, then any other, seeing wee think wee have wrote sufficiently, untill some other shall come, who shall set downe the whole Receipt so plaine, as to make cheese of Milke, which is not lawfull for us to doe.
+But if it be written that Fire had a drying and heating faculty, this is to be believed, because it is according to Nature: For Nature doth always agree with a sound judgment, and in Nature there is nothing difficult, all truth is plain. Then also let them learne, what things in Nature are of affinity with each other, which wee conceive may be easier done by our Writings, then any other, seeing wee think wee have wrote sufficiently, untill some other shall come, who shall set downe the whole Receipt so plaine, as to make cheese of Milke, which is not lawfull for us to doe.
 
 But that I may not direct all things I say to the new beginner only, wee shall say something to you also who now have passed over these painfull labours. Have you seen that Countrey, where a man marryed a wife, whose nuptialls were celebrated in the house of Nature? 
 
