@@ -210,8 +210,7 @@ Convertible | Fa | ?
 Material | Do | 130.81
 
 
-The questions marks above will test whether the following notes to impact the corresponding layer. We only could do tests on material objects and so we can set 130 Hz as the base for the rest. 
-
+The question-marks above will test whether the following notes to impact the corresponding layer. We only could do tests on material objects and so we can set 130 Hz as the base for the rest. 
 
 The totality of the universe, combining the physical and metaphysical, have 8 tones as the octave of the Greeks and the Bagua of the Chinese.
 

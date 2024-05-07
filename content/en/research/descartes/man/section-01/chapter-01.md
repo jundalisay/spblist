@@ -15,7 +15,6 @@ icon: "/icons/descartes.png"
 These men will be composed, like us, of a soul and a body. 
 
 
-
 <!-- ; and I must first describe to you the body separately, then the soul also separately, and finally I must show you how these two natures must be joined and united to compose men who resemble us. -->
 
 ## Body
