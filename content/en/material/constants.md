@@ -18,3 +18,11 @@ c is the Radiant Layer
 volt is an instance in the Radiant Layer
 
 Avogradro's constant
+
+
+Spatial   Planck's constant
+Radiant c 
+Convertible W-to-Z mass constant Fermi Coupling constant
+Material  G force ratio between 2 masses
+
+Faraday constant

@@ -35,6 +35,23 @@ Our general equation in motion is G<sub>1(s)</sub> : G<sub>2(s)</sub>
 
 Here we explain material relativity. -->
 
+
+<!-- F : is the gravitational force between the masses,
+m1m1 and m2m2 : the masses of the two small spheres,
+rr : is the distance between the centers of the large and small spheres,
+GG : is the gravitational constant. -->
+
+
+
+
+
+
+
+
+
+
+
+
 According to Newton's Second Law, net force equals mass times acceleration. This is fine for ordinary things like a ball (mass) which is pushed (force) to start rolling (acceleration). 
 
 But what about a 50 kilogram Buddhist monk who floats and accelerates 1 meter/second {{< s v="2" >}} without any force? How can `0 = 50 1m/s^2`?   

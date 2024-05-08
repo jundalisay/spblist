@@ -47,7 +47,9 @@ This help is also essential for crude manifestation in the physical stratum and 
 - It requires cruder sub-stations under its control.
 
 
-Waves have to be developed for other manifestation of the internal reactive-momenta <!-- saḿskáras -->. 
+Waves have to be developed for other manifestation of the internal samskaras.
+ <!-- reactive-momenta  -->
+ <!-- saḿskáras -->. 
 - **These waves have to be created in the nerves and in the blood.**
 
 The sub-stations of the mind go on transmitting the waves depending on:
@@ -58,11 +60,12 @@ The sub-stations of the mind go on transmitting the waves depending on:
 **The seed of every propensity is in the brain.** 
 - **But the first expression occurs in the sub-station of the mind, as the glands of the body**. 
 
- 
+
 The glands or sub-stations of the mind create the waves. 
 - These waves are then expressed outwardly through efferent nerves. 
 - The motor organs work with the help of efferent nerves.
 - **But the secret of the working lies with these mental sub-stations or glands.**
+
 
 **The number of propensities varies according to the complexity of the physical structure.** 
 - The more complex the structure, the greater the number of propensities. 
@@ -82,7 +85,9 @@ Generally, there are 1,000 propensities in the human structure.
 
 The pineal as a structure controls all these 50* <!-- vrttis --> propensities taken internally and externally by all 10 sense-organs<!--  indriyas -->. 50 x 2 x 10 = 1,000.
 
-Within the scope of these propensities lies the seed of <!-- saḿskára – --> good or bad reactive momenta.
+Within the scope of these propensities lies the seed of saḿskár.
+
+ <!-- good or bad reactive momenta. -->
 
 - Yogis who can control<!--  over --> the sahasrára cakra can attain nirvikalpa samádhi -- a state where they are beyond the approach of all the propensities<!-- vrttis -->. 
   - The attainment of such a state means the end of all reactive momenta (samskara)

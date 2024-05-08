@@ -1,6 +1,6 @@
 ---
+heading: Sections 1-4
 title: The Machine of the Human Body
-heading: Chapter 1
 weight: 2
 description: "The body is a machine of earth which God forms on purpose to make it as similar to us as possible. He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies."
 writer:
@@ -11,16 +11,17 @@ icon: "/icons/descartes.png"
 ---
 
 
-
-These men will be composed, like us, of a soul and a body. 
+## {{< s v="1" >}} These men will be composed, like us, of a soul and a body. 
 
 
 <!-- ; and I must first describe to you the body separately, then the soul also separately, and finally I must show you how these two natures must be joined and united to compose men who resemble us. -->
 
-## Body
+<!-- ## Body -->
 
 <!-- nothing other than a statue or -->
-The body is a machine of earth which God forms on purpose to make it as similar to us as possible. He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies.
+## {{< s v="2" >}} The body is a machine of earth which God forms on purpose to make it as similar to us as possible. 
+
+He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies.
 
 These parts make the body walk, eat, breathe, and finally imitate all those of our functions which can be imagined to proceed from matter, and depend only on the disposition of the organs.
 
@@ -54,8 +55,11 @@ I will explain instead the small parts which are invisible because of their smal
  <!-- and for those which, because of their smallness, , I will be able to make them known to you more easily and more clearly by speaking to you of the movements which depend on them; so that it is only necessary that I explain these movements in order, and that I tell you by the same means which of our functions they represent.  -->
 
 <!-- of this machine -->
-First of all, the meats are digested in the stomach through the force of certain liquors.
-- These liquors slip between their parts, separate, agitate, and heat them just as common water does the same to quicklime, or strong water those of metals.
+
+
+## {{< s v="3" >}} First of all, the meats are digested in the stomach through the force of certain liquors.
+
+These liquors slip between their parts, separate, agitate, and heat them just as common water does the same to quicklime, or strong water those of metals.
 
 These liquors, brought from the heart by the arteries, become very hot.
 
@@ -89,7 +93,8 @@ The fire in the heart dilates, warms, and subtilises the blood which falls in co
 From there it goes to what is called by anatomists as the vein of the lung 'venous Yartère' from where it is distributed to the body.
 <!-- , in its other concavity, -->
 
-The flesh of the lung is so rare and soft. 
+
+## {{< s v="4" >}}  The flesh of the lung is so rare and soft. 
 
 It is always refreshed by the air of the breath. 
 
@@ -108,5 +113,5 @@ Babies who are still in their mothers' wombs cannot draw any fresh air by breath
 1. One through which the blood of the vena cava passes into the vein called the artery
 2. The other through which the vapors or rarefied blood of the artery called the vein are exhaled and go into the great artery
 
-Animals which have no lungs at all have only one cavity in the heart.
-- If they have several, they are all consecutive to each other.
+
+

@@ -17,20 +17,22 @@ Brahma Cakra is the Cosmic Circle. It is a Cosmic dance in which every created o
 
 An object or objectivity is nothing but a wave motion within the body of the Cosmos. <!-- The philosophy of Ananda Marga thus --> We thus establish the wave theory of modern science through an independent logical outlook. 
 
-Life consists only of an ocean of waves.
+**Life consists only of an ocean of waves.**
 
 Every layer (bhúta) from the aethereal to the solid is in an eternal flow.
 - The very existence of the created layers <!-- bhútatattva --> is just a pattern of waves. 
 
 Quantum-percpetions (Tanmátras) are a microscopic fraction of the waves, taken in a collective form by the mindstuff via the sensory organs<!-- -cum-citta -->. 
-- <!-- These microscopic fractions carried through waves are called . --> Hence, quantum-perceptions <!-- tanmátras --> <!-- are nothing but --> are the waves produced by the objects as a result of reflection of the subtler layer <!-- bhúta --> on the cruder ones.
+<!-- These microscopic fractions carried through waves are called . --> 
+- Hence, quantum-perceptions <!-- tanmátras --> <!-- are nothing but --> are the waves produced by the objects as a result of reflection of the subtler layer <!-- bhúta --> on the cruder ones.
 
-<!-- Tanmátras --> Quantum-perceptions in the mathematical sense are heterogeneous, not homogeneous.
+<!-- Tanmátras --> 
+Quantum-perceptions in the mathematical sense are heterogeneous, not homogeneous.
 - This leads to the varieties in the perceptible external world. 
 - This heterogeneity is specialized by the difference in wavelengths amongst different quantum-perceptions <!-- tanmátras --> internally or externally of the scope of any particular layer <!-- bhúta -->.
 
 
-Ákásha or the aether is theoretical. 
+Ákásha or the aether is theoretical.
 - It is the subtlest of all the layers<!-- bhútas -->, having the maximum wavelength. 
 - Its flow faces no physical hindrance, whereas the other layers<!--  bhútas --> do face some.
 
@@ -97,7 +99,7 @@ The <!-- indriyas or --> organs are 10:
 
 The sensory organs <!-- indriyas --> receives the different quantum-perceptions <!-- tanmátras -->.
 
-The motor organs <!-- indriyas --> create quantum-perceptions <!-- tanmátras --> according to the inherent reactive-momenta <!-- saḿskára --> and transmit them in a crude way. <!-- n extroversial style. -->
+The motor organs <!-- indriyas --> create quantum-perceptions <!-- tanmátras --> according to the inherent samskara <!-- reactive-momenta --> and transmit them in a crude way. <!-- n extroversial style. -->
 
 **A very important point to be noted here is that the immanent capacity of an object, whether aethereal or solid, for discharging quantum-perceptions <!-- tanmátras, --> remains the same.** 
 

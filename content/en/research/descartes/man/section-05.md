@@ -1,7 +1,7 @@
 ---
+heading: Sections 5-7
 title: How the Blood Goes Through the Body
-heading: Chapter 1b
-weight: 3
+weight: 4
 description: "The pulse, or beat of the arteries, depends on the 11 little skins. These are like little doors which close and open the entrances of the 4 vessels which look into the 2 cavities of the heart"
 writer:
   name: Rene Descartes
@@ -11,24 +11,65 @@ icon: "/icons/descartes.png"
 ---
 
 
+<!-- 5. Quod autem ad illa animalia, quae pulmone prorsus carent, unum tantum in corde ventriculum habent, vel si pluribus gaudeant, continui sunt.Fig. II. et III.
 
-The pulse, or beat of the arteries, depends on the 11 little skins. These are like little doors which close and open the entrances of the 4 vessels which look into the 2 cavities of the heart.
+6. Pulsus arteriarum dependet ab undecim pelliculis, quae valvularu minstar claudunt recluduntque introitus quatuor vasorum binis cordis ventriculis respondentium. Fig. IV. et V.Etenim pulsuum horum uno cessante, simul atque alius praesto est, valvulae duarum arteriarum orificiis affixae quàm exactissimè clausae deprehenduntur : illae verò quę in introitu duarum venarum, apertae. Ut fieri nequeat, quin duae sanguinis guttae ex duabus illis venis confestim elabantur : Altera videlicet in dextrum : Altera in sinistrum cordis ventriculum. 
+
+Hae autem deinceps sanguinis guttae illicò rarefactae in spatium longè majus, quàm antè occupaverant, extenduntur : adeoque premunt clauduntque valvulas in duarum venarum introitu constitutas, eâque ratione simul impediunt, ne uberiori sanguinis copia cor obruatur : propellunt verò recluduntque duarum arteriarum valvulas, in quas promptè et vi quadam ex corde irrumpant. Unde fit, ut cor omnesque totius corporis arteriae simul intumescant. Sed rarefactus hic sanguis iterum è vestigio condensatur, aut alias partes penetrat : facitque adeo ut cor et arteriae detumescant, et valvulae in duarum arteriarum orificiis sitae claudantur, aliae verò in duarum venarum introitu rursus aperiantur, atque transitum praebeant binis sanguinis guttis, quibus cor et arteriae, haud secus quàm praecedentibus, denuò distendantur.
+
+
+7. Causâ pulsus arteriarum cognitâ, non est intellectu difficile, non tàm illum sanguinem, qui in illius machinae venis continetur, quique recens ab hepate transfunditur, quàm illum, qui arteriis inest, quique jam in corde suo perfectus est, aliis ejus partibus agglutinari, atque inservire, ut restauretur quicquid continuus earum motus variaeque aliorum, quae circumstant, corporum actiones expellunt. Sanguis enim in venis 
+
+contentus ab earum extremitatibus ad cor sensim refluit juxta dispositionem valvularum quarundam, quas Anatomici variis in locis infixas venis observarunt, ut manifestè satis constet idem nobis accidere. E contrà verò sanguis arterias occupans vi quadam atque pluribus pulsibus à corde ad earum extremitates propellitur, ut omnibus ejus membris facilè jungatur, et uniatur, adeoque in iisdem sistatur, eaque proinde nutriat ; quin etiam augeat, si machina humanum corpus ad hoc dispositum referat. -->
+
+
+ <!-- Animals which have no lungs at all have only one cavity in the heart. -->
+
+## {{< s v="5" >}} Some animals entirely lack lungs and have only one ventricle in their heart. If they have multiple ventricles, these are all consecutive to each other.
+
+## {{< s v="6" >}} The pulse, or beat of the arteries, depends on the 11 little membranes. 
+
+These function as valves, opening and closing the entrances of the 4 vessels connected to the 2 ventricles of the heart. 
+
+
+<!-- These blood droplets are then immediately rarefied and expand into a space much larger than they previously occupied, thereby pressing against and closing the valves at the entrances of the two veins, 
+ They then open the valves of the two arteries, through which they promptly and forcefully rush from the heart. As a result, the heart and all the arteries of the entire body swell simultaneously. But this rarefied blood then quickly condenses again or penetrates other parts, causing the heart and arteries to subside, while the valves at the orifices of the two arteries close, and those at the entrances of the two veins open once more, allowing passage for the two blood droplets that once again distend the heart and arteries just like their predecessors.
+ -->
 
 When one of these beats ceases, another is about to begin. At that moment:
 - the little doors which are at the entrances of the 2 arteries are exactly closed
 - those which are at the entrances of the 2 veins are opened
 
-In this way, 2 drops of blood fall through these 2 veins, one in each cavity of the heart. 
+In this way, 2 drops of blood fall through these 2 veins, one into each cavity of the heart. 
 
-These drops of blood then become rarefied, and suddenly spread out into a larger space without any reason than the one they occupied before, pushing and closing those little doors which are at the entrances of the 2 veins.
+ <!-- it is impossible for the blood from the two veins to flow out immediately: one droplet into the right ventricle and another into the left ventricle of the heart. -->
 
-This prevents any more blood from going down into the heart, and pushing and opening those of the two arteries, through which they enter promptly and with effort, thus making the heart and all the arteries of the body swell at the same time.
+These drops of blood then become rarefied, and suddenly spread out into a larger space to occupy it. They push and close those valves at the entrances of the 2 veins.
 
-But immediately afterwards, this rarefied blood condenses again, or enters the other parts; and so the heart and arteries swell up, the little doors at the two entrances of the arteries close again, and those at the entrances of the two veins open again, and give passage to two other drops of blood, which again swell up the heart and arteries, just as the previous ones did.
+This prevents any more excess blood from going down into the heart. They then push and open the valves of the 2 arteries, through which they promptly and forcefully rush from the heart.
+
+This makes the heart and all the arteries of the body swell at the same time.
+
+But immediately afterwards, this rarefied blood condenses again, or enters the other parts. 
+
+And so the heart and arteries swell up, the valves at the 2 entrances of the arteries close again, and those at the entrances of the 2 veins open again. This gives passage to two other drops of blood, which again swell up the heart and arteries, just as the previous ones did.
+
+
+
+## {{< s v="7" >}} The continual agitation by the blood and the actions of the other bodies which surround them expel things from the blood.
+
+<!-- detach from them and cause them to come out. -->
+
+<!-- The blood in the veins comes from the liver.  -->
 
 <!-- Knowing thus the cause of the pulse, it is easy to understand that it is not so much the blood contained in the veins of this machine, and which comes again from its liver, as that which is in its arteries, and which has already been distilled in its heart, which can     -->
 
-It is the blood distilled in the heart that can attach itself to its other parts and repair what their continual agitation and the actions of the other bodies which surround them detach from them and cause to come out. 
+It is the blood distilled in the heart that can attach itself to its other parts and repair that deficiency.
+
+
+<!-- 7. With the cause of the arterial pulse understood, it is not difficult to comprehend how not only the blood contained in the veins of this machine, which is freshly transfused from the liver, but also the blood within the arteries, which has already been perfected in its own heart, may coagulate in other parts of the machine to restore whatever continuous motion and varied actions of surrounding bodies may expel. The blood contained in the veins gradually flows back toward the heart from their extremities, in accordance with the arrangement of certain valves that anatomists have observed fixed in various locations along the veins, making it clear that the same occurs with us.
+
+Conversely, the blood occupying the arteries is propelled from the heart to their extremities by a certain force and repeated pulsations, so that it can easily join and merge with all its parts, thus remaining within them to nourish them and even augment them, assuming the human body is designed to fulfill this purpose. -->
 
 For the blood which is in its veins always flows little by little from their extremities towards the heart (and the disposition of certain small doors, or valves, which the ana tomists have noticed in several places along our veins should persuade you enough that it happens in us all the same); 
 
@@ -103,3 +144,7 @@ Breathing and other ordinary, natural actions depend on the flow of the spirits.
 - This breathing is like the movements of a clock or a mill made continuous by flowing water. 
 
 <!-- , which the ordinary course of water can make continuous.  -->
+
+
+
+

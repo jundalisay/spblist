@@ -43,9 +43,11 @@ For example, if 3 squares meet at a corner, then 2 sides of the fourth square ar
 
 <!-- We must needs experience many such surprises if the construction is to be successful. If everything has really gone smoothly, then I say that --> 
 
-The points of the marble slab constitute a Euclidean continuum with respect to the little rod, which has been used as a “distance” (line-interval).
+The points of the marble slab constitute a Euclidean continuum with respect to the little testing-rod, which has been used as a “distance” (line-interval).
 
-By choosing one corner of a square as “origin,” I can characterise every other corner of a square with reference to this origin through 2 numbers. I only need state how many rods I must pass over when, starting from the origin, I proceed towards the “right” and then “upwards,” in order to arrive at the corner of the square under consideration. 
+By choosing one corner of a square as “origin,” I can characterise every other corner of a square with reference to this origin through 2 numbers. 
+
+I only need state how many rods I must pass over when, starting from the origin, I proceed towards the “right” and then “upwards,” in order to arrive at the corner of the square under consideration. 
 
 These 2 numbers are then the “Cartesian co-ordinates” of this corner with reference to the “Cartesian coordinate system” which is determined by the arrangement of little rods.
 
@@ -53,7 +55,9 @@ These 2 numbers are then the “Cartesian co-ordinates” of this corner with re
 
 Let us say that the rods “expand” with the increase of temperature. We heat the central part of the marble slab, but not the sides. This messes up our squares. <!-- periphery, in which case two of our little rods can still be brought into coincidence at every position on the table. But our construction of squares must necessarily come into disorder during the heating, because --> The little rods in the center of the table expand, whereas those on the outer part do not.
 
-<!-- With reference to our little rods — defined as unit lengths — --> The marble slab no longer is a Euclidean continuum. 
+<!-- With reference to our little rods — defined as unit lengths — --> The marble slab no longer is a Euclidean continuum.*
+
+> *Superphysics Note: In Euclid's Elements, 3D space is still Euclidean
 
 We also can no longer use <!-- , and we are also no longer in the position of defining --> Cartesian coordinates<!--  directly with their aid , since the above construction can no longer be carried out.--> But since there are other things which are not influenced in a similar manner to the little rods (or perhaps not at all) by the temperature of the table, it is possible quite naturally to maintain the point of view that the marble slab is a “Euclidean continuum.” This can be done  by making a more subtle stipulation about the measurement or the comparison of lengths.
 

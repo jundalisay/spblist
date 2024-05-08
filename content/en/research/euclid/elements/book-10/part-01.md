@@ -64,7 +64,7 @@ But those areas which are incommensurable with it are irrational
 Assume there are 2 unequal lines. 
 
 - The longer line has more than half of it subtracted
-- More than half of the reainder is subtracted
+- More than half of the remainder is subtracted
 
 If this happens continually, then some magnitude will eventually be left. It will be less than the lesser laid out magnitude.
 
