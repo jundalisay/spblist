@@ -21,16 +21,25 @@ I can get from any one point on this table to any other point by passing continu
 
 We express this property of the surface by describing the latter as a continuum.
 
-Many tiny rods  have been made, their lengths being small compared with the dimensions of the marble slab. When I say they are of equal length, I mean that one can be laid on any other without the ends overlapping. 
+Many tiny rods of equal length have been made. Their lengths are small compared with the dimensions of the marble slab. 
 
-We lay four little rods of equal length on the marble slab so that they create a square. <!--  the diagonals of which are equally long. --> To ensure the equality of the diagonals, we use a little testing-rod. To this square we add similar ones to fill the whole marble slab with squares, each of which has one rod in common with the first. Each side of a square belongs to 2 squares, and each corner to 4 squares. 
+"Equal length" means that one rod can be laid on any other without the ends overlapping. 
+
+We lay 4 little rods on the marble slab so that they create a square. <!--  the diagonals of which are equally long. --> To ensure the equality of the diagonals, we use a little testing-rod. 
+
+To this square, we add similar ones to fill the whole marble slab with squares. 
+- Each square has one rod in common with the first.
+- Each side of a square belongs to 2 squares.
+- Each corner belongs to 4 squares. 
 
 <!-- It is a veritable wonder that we can carry out this business without getting into the greatest
 difficulties. We only need to think of the following.  -->
 
-If at any moment three squares meet at a corner, then two sides of the fourth square are already laid, and as a consequence, the arrangement of the remaining two sides of the square is already completely determined. 
+Extending this method will encounter difficulties. 
 
-But I am now no longer able to adjust the quadrilateral so that its diagonals may be equal. If they are equal of their own accord, then this is an especial favour of the marble slab and of the little rods about which I can only be thankfully surprised. 
+For example, if 3 squares meet at a corner, then 2 sides of the fourth square are already laid, and as a consequence, the arrangement of the remaining two sides of the square is already completely determined. But I am now no longer able to adjust the quadrilateral so that its diagonals may be equal. If they are equal of their own accord, then this is an especial favour of the marble slab and of the little rods about which I can only be thankfully surprised.*
+
+> *Superphysics Note: We do not understand this paragraph. 
 
 <!-- We must needs experience many such surprises if the construction is to be successful. If everything has really gone smoothly, then I say that --> 
 
