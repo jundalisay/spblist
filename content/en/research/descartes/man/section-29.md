@@ -5,6 +5,9 @@ title: "The Brain"
 weight: 22
 description: "The brain is like a fairly expanded, dense, and intricately woven plexus, resembling a mesh of crosshatched texture"
 image: "/covers/man.jpg"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 ---
 
 

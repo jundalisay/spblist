@@ -1,14 +1,10 @@
 ---
 title: "Selection within assembly spaces"
-layout: '/src/layouts/article.astro'
-meta_title: "Unenlightened like Aristotle"
+weight: 6
 description: "Historical Evolution (HE) lets us understand how selection and historical contingency impose constraints on what can be made in the future"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+image: "/covers/assembly.png"
 ---
+
 
 <!-- /covers/assembly.png -->
 

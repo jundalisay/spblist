@@ -5,6 +5,9 @@ title: "The Spirits and Motion"
 weight: 12
 description: "How do the spirits enter into the nerves and create motion?"
 image: "/covers/man.jpg"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 ---
 
 

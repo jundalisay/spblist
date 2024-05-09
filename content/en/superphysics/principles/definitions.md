@@ -145,6 +145,8 @@ Pointism | the obsession with points
 Pointization | the conversion of goods and services into points 
 Products | a good that is processed and is for sale
 Service | anything that is for sale but does not occupy a specific spacetime 
+Wealth | the actual quality and quantity of useful goods and services
+
 
 
 ## Material Superphysics

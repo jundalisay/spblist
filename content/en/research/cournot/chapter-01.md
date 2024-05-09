@@ -1,67 +1,110 @@
 ---
 title: "Value In Exchange Or Of Wealth In General"
 heading: Chapter 1
-weight: 8
+weight: 2
 description: "The idea which the word wealth presents to us to-day, and which is relative to our state of civilization, could not have been grasped by men of Teutonic stock"
 image: "/covers/researches.jpg"
 ---
 
 
-1. The Teutonic root Rik or Reich has passed into all the Romance languages. 
+1. The Teutonic root `Rik` or `Reich` has passed into all the Romance languages. 
 
 It vaguely expressed a relation of superiority, strength, or power. 
 
-Los ricos hombres is still used in Spain for distinguished noblemen and eminent men. Such is also the force of the words riches hommes in the French of de Joinville. 
+`Los ricos hombres` is still used in Spain for distinguished noblemen and eminent men. Such is also the force of the words `riches hommes` in the French of de Joinville. 
 
-The idea which the word wealth presents to us to-day, and which is relative to our state of civilization, could not have been grasped by men of Teutonic stock, either at the epoch of the Conquest, or even at much later periods, when the feudal law existed in full vigour. 
+<!-- and which is relative to our state of civilization,  , either at the epoch of the Conquest, or even at much later periods, -->
+The idea which the word wealth presents to us today could not have been grasped by men of Teutonic stock when the feudal law was in full vigour. 
 
-Property, power, the distinctions between masters, servants and slaves, abundance, and poverty, rights and privileges, all these are found among the most savage tribes, and seem to flow necessarily from the natural laws which preside over aggregations of individuals and of families; 
 
-But such an idea of wealth as we draw from our advanced state of civilization, and such as is necessary to give rise to a theory, can only be slowly developed as a consequence of the progress of commercial relations, and of the gradual reaction of those relations on civil institutions.
 
-A shepherd is in possession of a vast pasture ground, and no one can disturb him with impunity. 
+All the following are found among the most savage tribes:
+- property
+- power
+- the distinctions between masters, servants and slaves
+- abundance and poverty
+- rights and privileges
 
-But it would be vain for him to think of exchanging it for something which he might prefer; there is nothing in existing habits and customs to make such an exchange possible; this man is a landholder, but he is not rich.
+<!-- which preside over aggregations of -->
+These flow necessarily from the natural laws among individuals and families. 
 
-The same shepherd has cattle and milk in abundance; he can provide for a numerous retinue of servants and slaves; he maintains a generous hospitality towards poor dependents; but he is neither able to accumulate his products, nor to exchange them for objects of luxury which do not exist; this man has power, authority, the enjoyments which belong to his position, but he has not wealth.
+<!-- ,  and such as is necessary to give rise to a theory, -->
+But our current idea of wealth from our advanced state of civilization can only be slowly developed as a consequence of:
+- the progress of commercial relations, and
+- the gradual reaction of those relations on civil institutions.
 
-2. Men can live for a considerable time together without effecting an exchange of goods and services.
+A shepherd owns a vast pasture ground. No one can disturb him with impunity. 
 
-But from this natural, and we may even say instinctive, action, it is a long step to the abstract idea of value in exchange, which supposes that the objects to which such value is attributed are in commercial circulation; i.e. that it is always possible to find means to exchange them for other objects of equal value. 
+But it would be vain for him to think of exchanging it for something which he might prefer. 
+- There is nothing in existing habits and customs to make such an exchange possible. 
+- He is a landholder, but he is not rich.
+- He has a lot of cattle and milk.
+- He can provide for many servants and slaves.
+- He maintains a generous hospitality towards poor dependents.
 
-The things, then, to which the state of commercial relations and civil institutions permits a value in exchange to be attached, are those which in the language of to-day are characterized by the word wealth; and to form an intelligible theory we ought to absolutely identify the sense of the word wealth with that which is presented to us by the words exchangeable values.
+But he is neither able to accumulate his products, nor to exchange them for objects of luxury which do not exist. 
+- He has power, authority, the enjoyments which belong to his position, but he has not wealth*.
 
-Under this conception, wealth has doubtless only an abstract existence; for, strictly speaking, of all the things on which we set a price, or to which we attribute a value in exchange, there are none always exchangeable at will for any other commodity of equal price or value. In the act of exchange, as in the transmission of power by machinery, there is friction to be overcome, losses which must be borne, and limits which cannot be exceeded. The proprietor of a great forest is only rich on condition of managing his lumbering with prudence, and of not glutting the market with his lumber; the owner of a valuable picture gallery may spend his life in the vain attempt to find purchasers; while, on the other hand, in the neighbourhood of a city the conversion of a sack of grain into money will only require the time necessary to carry it to the grain market; and at great commercial centres a stock of coffee can always be sold on the exchange.
+> *Superphysics Note: Here, Cournot shallowly equates wealth with money, which is a circulating capital to Adam Smith
 
-The extension of commerce and the development of commercial facilities tend to bring the actual condition of affairs nearer and nearer to this order of abstract conceptions, on which alone theoretical calculations can be based, in the same way as the skilful engineer approaches nearer to theoretical conditions by diminishing friction through polished bearings and accurate gearing. In this way nations are said to make progress in the commercial or mercantile system. These two expressions are etymologically equivalent, but one is now taken in a good and the other in a bad sense, as is generally the case, according to Bentham, with the names of things that involve advantages and evils of a moral order.
 
-We will not take up either these advantages or these evils. The progress of nations in the commercial system is a fact in the face of which all discussion of its desirability becomes idle; our part is to observe, and not to criticise, the irresistible laws of nature. Whatever man can measure, calculate, and systematize, ultimately becomes the object of measurement, calculation, and system. Wherever fixed relations can replace indeterminate, the substitution finally takes place. It is thus that the sciences and all human institutions are organized. The use of coin, which has been handed down to us from remote antiquity, has powerfully aided the progress of commercial organization, as the art of making glass helped many discoveries in astronomy and physics; but commercial organization is not essentially bound to the use of the monetary metals. All means are good which tend to facilitate exchange, to fix value in exchange; and there is reason to believe that in the further development of this organization the monetary metals will play a part of gradually diminishing importance.
 
-3. The abstract idea of wealth or of value in exchange, a definite idea, and consequently susceptible of rigorous treatment in combinations, must be carefully distinguished from the accessory ideas of utility, scarcity, and suitability to the needs and enjoyments of mankind, which the word wealth still suggests in common speech. These ideas are variable, and by nature indeterminate, and consequently ill suited for the foundation of a scientific theory. The division of economists into schools, and the war waged between practical men and theorists, have arisen in large measure from the ambiguity of the word wealth in ordinary speech, and the confusion which has continued to obtain between the fixed, definite idea of value in exchange, and the ideas of utility which every one estimates in his own way, because there is no fixed standard for the utility of things.[1]
+2. Men can live for a considerable time without an exchange of goods and services.
 
-It has sometimes happened that a publisher, having in store an unsalable stock of some work, useful and sought after by connoisseurs, but of which too many copies were originally printed in view of the class of readers for whom it was intended, has sacrificed and destroyed two-thirds of the number, expecting to derive more profit from the remainder than firom the entire edition.[2]
+But from this natural and instinctive action, it is a long step to the abstract idea of value in exchange. This value supposes that the objects with value are in commercial circulation i.e. it is always possible to find means to exchange them for other objects of equal value. 
 
-There is no doubt that there might be a book of which it would be easier to sell a thousand copies at sixty francs, than three thousand at twenty francs. Calculating in this way, the Dutch Company is said to have caused the destruction in the islands of the Sound of a part of the precious spices of which it had a monopoly. Here is a complete destruction of objects to which the word wealth is applied because they are both sought after, and not easily obtainable. Here is a miserly, selfish act, evidently opposed to the interests of society; and yet it is nevertheless evident that this sordid act, this actual destruction, is a real creation of wealth in the commercial sense of the word. The publisher's inventory will rightly show a greater value for his assets; and after the copies have left his hands, either wholly or in part, if each individual should draw up his inventory in commercial fashion, and if all these partial inventories could be collated to form a general inventory or balance sheet of the wealth in circulation, an increase would be found in the sum of these items of wealth.
+<!-- , are those which in the language of today are characterized by the word  -->
 
-On the contrary, suppose that only fifty copies exist of a curious book, and that this scarcity carries up the price at auction to three hundred francs a copy. A publisher reprints this book in an edition of a thousand copies, of which each will be worth five francs, and which will bring down the other copies to the same price from the exaggerated value which their extreme scarcity had caused. The 1050 copies will therefore only enter for 5250 francs into the sum of wealth which can be inventoried, and this sum will thus have suffered a loss of 9750 francs. The decrease will be even more considerable if (as should be the case) the value of the raw materials is considered, from which the reprints were made, and which existed prior to the reprinting. Here is an industrial operation, a material production, useful to the publisher who undertook it, useful to those whose products and labour it employed, useful even to the public if the book contains valuable information, and which is nevertheless a real destruction of wealth, in the abstract and commercial meaning of the term.
+"Wealth" today therefore means the things to which the state of commercial relations and civil institutions permits a value in exchange to be attached. 
 
-The rise and fall of exchange show perpetual oscillations in values, or in the abstract wealth in circulation, without intervention of actual production or destruction of the physical objects to which, in the concrete sense, the term wealth is applicable.
+<!-- the sense of the word -->
+To form an intelligible theory, we should absolutely identify "wealth" with that which is presented to us by "exchangeable values".
+- Under this conception, wealth has only an abstract existence. 
+- Strictly speaking, no one thing is always exchangeable at will for any other commodity of equal value.
 
-It has been long remarked, and justly, that commerce, properly so called, i.e. the transportation of raw materials or finished products, from one market to another, by adding to the worth of the objects transported, creates value or wealth in just the same way as the labour of the miner who extracts metals from the bowels of the earth, or the workman who adapts them to our needs. What ought to have been added, and what we shall have occasion to develop, is that commerce may also be a cause of destruction of values, even while making profits for the merchants who carry it on, and even when in every one's eyes it is a benefit to the countries which it connects in commercial intercourse.
+<!-- of all the things on which we set a price, or to which we attribute a value in exchange, there are  -->
 
-A fashion, a whim, or a chance occurrence may cause a creation or annihilation of values without notable influence on what is regarded as public utility or the general welfare; it can even come about that a destruction of wealth may be salutary, and an increase detrimental. If chemists should solve the problem of making diamonds, jewellers and the ladies who own sets of jewellery would suffer heavy losses; the general mass of wealth capable of circulation would experience a notable decrease, and yet I can hardly think than any sensible man would be tempted to consider it a public calamity, even though he might regret the individual losses involved. On the contrary, if the taste for diamonds should decline, if wealthy people should stop devoting an important part of their fortunes to this idle vanity, and if, in consequence, the value of diamonds in commerce should decrease, wise men would gladly commend this new departure of fashion.
+In the act of exchange, there is friction to be overcome just like in the transmission of power by machinery. 
+- Losses which must be borne.
+- Limits exist which cannot be exceeded. 
 
-4. When any event, accounted favourable to a country, as improving the condition of the majority of its inhabitants (for what other basis can be taken to estimate utility?), has nevertheless for its first effect the diminution of the mass of values in circulation, we are tempted to suppose that this event conceals the germ of an increase in the general wealth by means of its remote consequences, and that it will in this way turn out to the advantage of the country. Experience unquestionably shows that this is true in most cases, since, in general, an incontestable improvement in the condition of the people has kept pace with an equally incontestable increase in the sum total of wealth in circulation. But in consequence of the impossibility of following up analytically all the consequences of such complex relations, theory is unable to explain why this usually happens and is still less able to demonstrate that it must always continue to occur. Let us avoid confounding what is in the domain of accurate reasoning with what is the object of a more or less happy guess; what is rational with what is empirical. It is enough to have to guard against errors in logic on the first score; let us avoid encountering passionate declamations and insoluble questions on the other.
+The proprietor of a great forest is only rich if he can manage his lumber production with prudence, and not glutting the market with his lumber.
 
-5. From a standpoint of mere etymology, whatever appertains to the organization of society belongs to the field of Political Economy; but it has become customary to use this last term in a sense much more restricted and by so much less precise. The Political Economist, being occupied principally with the material wants of mankind, only considers social institutions as far as they favour or interfere with labour, thrift, commerce, and population; and as far as they affect the subdivision between the members of society of the gifts of nature and the rewards of labour.
+The owner of a valuable picture gallery may spend his life in the vain attempting to find purchasers. 
 
-This subject is still far too vast to be properly grasped by any one man. It affords inexhaustible material for unripe systems and slow investigations. How can we abstract the moral influences which enter into all these questions and which are entirely incapable of measurement? How are we to compare what may be called the material welfare of the Alpine shepherd with that of the Spanish idler or of the Manchester workingman; the convent alms with the poor-rates; the drudgery of the farm with that of the workshop; the pleasures and expenditures of a Norman noble in his feudal manor, with the pleasures and expenditures of his far-away descendant in a house in London or on a tour through Europe?
+Whereas on the other hand in a city, the conversion of a sack of grain into money only requires the time to carry it to the grain market. 
 
-If we compare one nation with another, by what invariable tokens shall we determine the progress or decay of their prosperity? Shall it be according to population? In that case China would far excel Europe. According to the abundance of coin? The example of Spain, mistress of the Peruvian mines, turned the world away from this gross error long ago, and, in fact, before even the first crude notions of the true rôle of coin were developed. According to business activity? Then inland peoples would be very unfortunate compared with those whom proximity to the sea invites to a mercantile career. According to the high price of goods or of wages? Then some miserable island would surpass the most smiling and fertile countries. According to the pecuniary value of what economists call the annual product? A year when this value increases greatly may easily be one of great distress for the greatest number. According to the actual quantity of this product reckoned in the appropriate unit for each kind of goods? But the kinds of goods produced and the relative proportions are different for each country. How can comparisons be made in this respect? According to the rate of movement up or down whether of population or of annual product? Provided that the reckoning covers a sufficient time this is, to be sure, the least equivocal symptom of the welfare or misery of society; but how can this symptom help us except to recognize accomplished facts, and facts which have been produced, not only by economic causes in the ordinary meaning of the words, but also by the simultaneous cooperation of a multitude of moral causes.
+At great commercial centres, a stock of coffee can always be sold on the exchange.
 
-We are far from wishing to depreciate the philanthropic efforts of those who seek to throw some light on social economy. It is characteristic only of narrow minds to decry medical science because physiological phenomena cannot be calculated as accurately as the planetary movements. Political Economy is the hygiene and pathology of the social system. It recognizes as its guide experience or rather observation; but sometimes the sagacity of a superior mind can even anticipate the results of experience. We only seek to make clear, that Political Economy fails to make progress by theory, towards its noble object of the improvement of the lot of mankind, either because the relations which it has to deal with are not reducible to fixed terms, or because these relations are much too complicated for our powers of combination and analysis.
+The extension of commerce and the development of commercial facilities tend to bring the actual condition of affairs nearer and nearer to this order of abstract conceptions. 
 
-6. On the other hand, as the abstract idea of wealth according to our conception constitutes a perfectly dtereminate relation, like all precise conceptions it can become the object of theoretical deductions, and if these deductions are sufficiently numerous and seem important enough to be collected into a system, it will presumably be advantageous to present this system by itself, except for such applications as it may seem proper to make to those branches of Political Economy with which the theory of wealth is ultimately connected. It will be useful to distinguish what admits of abstract demonstration from what allows only of a questionable opinion.
+These abstract conceptions are alone the basis for theoretical calculations. 
+- Likewise, the skillful engineer gets nearer to theoretical conditions by reducing friction through polished bearings and accurate gearing. 
 
-The Theory of Wealth, according to the idea we are trying to give, would doubtless only be an idle speculation, if the abstract idea of wealth or value in exchange on which it is founded, were too far from corresponding with the actual objects which make up wealth in the existing social status. The same would be true of hydrostatics if the character of ordinary fluids should be too far removed from the hypothesis of perfect fluidity. However, as we have already said, the influence of a progressive civilization constantly tends to bring actual and variable relations nearer and nearer to the absolute relation, which we attain to from abstract considerations. In such matters everything becomes more and more easily valued, and consequently more easily measured. The steps towards finding a market resolve themselves into brokerage, losses of time into discounts, chances of loss into insurance charges, and so on. The progress of the gregarious tendency and of the institutions related to it, and the modifications which have taken place in our civil institutions, all cooperate towards this mobility, which we would neither apologize for nor detract from, but on which the application of theory to social facts is founded.
+In this way, nations make progress in the commercial or mercantile system. 
+
+These 2 expressions are etymologically equivalent. According to Bentham, one is now taken in a good, and the other in a bad sense.
+
+<!-- , as is generally the case,  with the names of things that involve advantages and evils of a moral order. -->
+
+<!-- We will not take up either these advantages or these evils.  -->
+
+The progress of nations in the commercial system is a fact. 
+ <!-- in the face of which all discussion of its desirability becomes idle. -->
+
+Our part is to observe, and not to criticise, the irresistible laws of nature. 
+
+Whatever man can measure, calculate, and systematize, ultimately becomes the object of measurement, calculation, and system. 
+
+Wherever fixed relations can replace indeterminate, the substitution finally takes place. 
+
+It is thus that the sciences and all human institutions are organized. 
+
+The use of coins has been handed down to us from remote antiquity. It has powerfully aided the progress of commercial organization, just as the art of glass-making helped many discoveries in astronomy and physics.
+
+**But commercial organization is not essentially bound to the use of the monetary metals.** 
+
+All means are good which tend to facilitate exchange, to fix value in exchange. 
+
+**In the further development of this organization, the monetary metals will gradually reduce in importance.**
 

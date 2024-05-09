@@ -5,6 +5,9 @@ title: "Sight"
 weight: 14
 description: "The sense of sight depends on two nerves composed of a vast number of extremely mobile capillaries"
 image: "/covers/man.jpg"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 ---
 
 
@@ -85,4 +88,6 @@ Consequently, others, which are in a much smaller number, as the pupil is smalle
 
 Therefore, it happens that the soul can perceive only one single point distinctly in each vision; namely, that to which the whole eye turns. And therefore, other things will appear to it more confused, the farther they are from this. 
 
-For if, for example, all the rays of point R are accurately gathered at point S, the rays of point X will be less accurately collected at point Y than the rays of point T at point V. And the same judgment holds for the others, namely, in proportion to their distance from point R. However, the muscles O O, turning the eyes in all directions very readily, compensate for this deficiency; namely, by applying them successively to all points of the object in the smallest possible time, so that the soul sees one thing after another, yet all very distinctly.
+For if, for example, all the rays of point R are accurately gathered at point S, the rays of point X will be less accurately collected at point Y than the rays of point T at point V. And the same judgment holds for the others, namely, in proportion to their distance from point R. 
+
+However, the muscles O O, turning the eyes in all directions very readily, compensate for this deficiency; namely, by applying them successively to all points of the object in the smallest possible time, so that the soul sees one thing after another, yet all very distinctly.

@@ -27,6 +27,7 @@ In the preceding paragraph we have only looked on motion as a geometric relation
 
 Finally, there are some circumstances which may make it certain that relative or apparent movements come from the displacement of one body and not of another.[1] Thus the appearance of an animal will show by unmistakable signs whether it is stopping or starting. Thus, to return to the preceding example, experiments with the pendulum, taken in connection with the known laws of mechanics, will prove the diurnal motion of the earth; the phenomenon of the aberration of light will prove its annual motion; and the hypothesis of Copernicus will take its place among established truths.
 
+
 8. Let us now examine how some considerations perfectly analogous to those which we have just considered, spring from the idea of exchangeable values.
 
 Just as we can only assign situation to a point by reference to other points, so we can only assign value to a commodity[2] by reference to other commodities. In this sense there are only relative values. But when these relative values change, we perceive plainly that the reason of the variation may lie in the change of one term of the relation or of the other or of both at once; just as when the distance varies between two points, the reason for the change may lie in the displacement of one or the other or both of the two points. 

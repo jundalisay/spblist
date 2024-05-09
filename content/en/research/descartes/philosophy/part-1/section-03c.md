@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-{{< s v="57" >}} Some attributes exist in things inherently. Other attributes exist only in our thought. 
+### {{< s v="57" >}} Some attributes exist in things inherently. Other attributes exist only in our thought. 
 
 An example is timespan and time.
 
@@ -38,14 +38,14 @@ Hence, "time" is just a mode of thinking.
 - It is not superadded to duration, taken in its generality.
 
 
-{{< s v="58" >}} **Number and all universals are only modes of thought.**
+### {{< s v="58" >}} **Number and all universals are only modes of thought.**
 
 In the same way, an abstract or general number is just a mode of thinking.
 - The same is true of all those general ideas we call universals.
 <!-- , when it is not considered as in created things, but merely in the abstract or in general, ;  -->
 
 
-{{< s v="59" >}} How are universals formed? What are the 5 common universals?
+### {{< s v="59" >}} How are universals formed? What are the 5 common universals?
 
 1. Genus
 2. Species

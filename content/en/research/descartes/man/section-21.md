@@ -5,6 +5,9 @@ title: "Hunger and Thirst"
 weight: 18
 description: "Rene Descartes explains how hunger and thirst are generated"
 image: "/covers/man.jpg"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 ---
 
 

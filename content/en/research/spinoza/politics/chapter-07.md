@@ -177,10 +177,11 @@ militia be composed solely of citizens and that citizens should be his counsello
 while on the other hand citizens become completely subjugated and are laying
 the foundations for perpetual warfare from the moment that they allow mercenary troops to be engaged, 18 men whose trade is war and who find their greatest powerl9 amid discord and sedition.2o
 
-[13] That the king's counsellors should not be appointed for life, but for three,
-four, or five years at the most, is evident both from Section 10 and from what we
-have said in Section 9 ofthis Chapter. For if they were appointed for life, the greatest part of the citizens would have scarcely any hope of attaining this office, and
-this would result in great inequality among the citizens, leading to envy and inIS [Terence, Eunuchus 3 1 2.]
+[13] That the king's counsellors should not be appointed for life, but for 3-5 years at the most. This is evident both from Section 10 and Section 9 of this Chapter. 
+
+If they were appointed for life, most of the citizens would have scarcely any hope of attaining this office. This would result in great inequality among the citizens, leading to envy and incessant murmurings and finally to outbreaks of sedition -which would no doubt be not unwelcome to kings who are eager to dominate.
+
+<!-- IS [Terence, Eunuchus 3 1 2.] -->
 
 <!-- 1 6 [Tacitus, Histories Il, lxxxii, 1]
 17 [Tacitus, Histories I, XXXVI, 2-3.]
@@ -188,14 +189,14 @@ this would result in great inequality among the citizens, leading to envy and in
 19 [plurima vis, which connotes force or phYSical power 1
 20 [TaCitus, Histories IV, i, 3.]  -->
 
+In addition, the counsellors, rid of all fear of their successors, would cast off all restraint with little opposition from the king. 
 
-cessant murmurings and finally to outbreaks of sedition -which would no doubt
-be not unwelcome to kings who are eager to dominate. In addition, the counsellors, rid of all fear of their successors, would cast off all restra int with little opposition from the king. For the more they are hated by the citizens, the more they
-will cling to the king and the more ready they will be to fawn upon him. Indeed,
-even a five-year term of office still appears excessive, for in this space of time it
-seems not altogether impossible fur a considerable part of the council, however
-large it may be, to be corrupted by bribes or favours. So it will be a much safer
-arrangement if every year, two out of each clan retire and are replaced by a like
+For the more they are hated by the citizens, the more they will cling to the king and the more ready they will be to fawn upon him. 
+
+Even a five-year term of office still appears excessive, for in this space of time it seems not altogether impossible fur a considerable part of the council, however
+large it may be, to be corrupted by bribes or favours. 
+
+So it will be a much safer arrangement if every year, two out of each clan retire and are replaced by a like
 number (assuming that each clan is to have five counsellors) except in that year
 when the lawyer of a clan retires and another lawyer is appointed in his place.
 

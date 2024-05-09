@@ -6,8 +6,9 @@ description: "The body is a machine of earth which God forms on purpose to make 
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/man.jpg"
+image: "/covers/geometry.jpg"
 icon: "/icons/descartes.png"
+draft: true
 ---
 
 

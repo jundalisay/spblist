@@ -6,7 +6,9 @@ title: "Animal Spirits and Digestion"
 weight: 20
 description: "The spirits can exist at different times, in greater or lesser abundance"
 image: "/covers/man.jpg"
-# draft: true
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 ---
 
 

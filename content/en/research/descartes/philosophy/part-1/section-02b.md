@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-{{< s v="34" >}} The will and the understanding are required for judging.
+### {{< s v="34" >}} The will and the understanding are required for judging.
 
 The understanding is necessary for judging. We cannot judge of something that we do not apprehend.
 
@@ -22,19 +22,20 @@ It is not necessary, however, at least to form any judgment whatever, that we ha
 We may assent to many things of which we have only a very obscure and confused knowledge.
 
 
-{{< s v="35" >}}  The will is of greater extension than the understanding, and is thus the source of our errors.
+### {{< s v="35" >}}  The will is of greater extension than the understanding, and is thus the source of our errors.
 
 The perception of the intellect extends only to the few things that are presented to it. It is always very limited.
 
 The will, on the other hand, may be infinite because we observe nothing that can be the object of the will of any other, even of the unlimited will of God, to which ours cannot also extend, so that we easily carry it beyond the objects we clearly perceive. When we do this, it is not wonderful that we happen to be deceived.
 
 
-{{< s v="36" >}} Our errors cannot be imputed to God.
+### {{< s v="36" >}} Our errors cannot be imputed to God.
 
 God has not given us an omniscient understanding. But he is not on this account to be considered in any wise the author of our errors, for it is of the nature of created intellect to be finite, and of finite intellect not to embrace all things.
 
 
-{{< s v="37" >}} The chief perfection of man is his being able to act freely or by will 
+
+### {{< s v="37" >}} The chief perfection of man is his being able to act freely or by will 
 
 This which renders him worthy of praise or blame.
 

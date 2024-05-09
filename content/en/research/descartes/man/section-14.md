@@ -5,6 +5,9 @@ title: "Taste and Smell"
 weight: 14
 description: "The filaments that make up the nerve center of the tongue be more easily moved than those that assist touch."
 image: "/covers/man.jpg"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 ---
 
 

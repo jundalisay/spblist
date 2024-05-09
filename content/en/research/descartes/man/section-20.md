@@ -3,8 +3,11 @@ heading: Section 20
 title: "Distance Perception"
 # date: 2022-01-29
 weight: 16
-description: "Renatus Cartesius 31 March 1596 – 11 February 1650 was a French philosopher, mathematician, and scientist who invented analytic geometry"
+description: "All those different colors, which novelty endears and often provide greater delight to the sight than the color green, are like excellent and unusual musical modulations or the delicate food of a wise cook"
 image: "/covers/man.jpg"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 ---
 
 
@@ -15,7 +18,7 @@ Here I do not individually explain what gives the soul the opportunity to concei
 
 Nor do I describe at length here what objects pleasantly affect sight and what offend it. For it is not difficult to perceive, from what is known about other senses, that overly intense light can harm vision, while moderate light can refresh it, especially the color green, which consists of the proportion of one to two and is related to the octave in musical consonances, and daily bread compared to other types of food, which generally bring more pleasure. 
 
-And finally, all those different colors, which novelty endears and often provide greater delight to the sight than the color green, are like excellent and unusual musical modulations or the delicate food of a wise cook. 
+All those different colors, which novelty endears and often provide greater delight to the sight than the color green, are like excellent and unusual musical modulations or the delicate food of a wise cook. 
 
 They initially stimulate the senses like a pleasant itch. But they quickly cause weariness and nausea much faster than simple and ordinary objects. 
 
@@ -42,7 +45,11 @@ If these two hands F and G grasp different ends of the stick H and I, with which
 
 Similarly, if both eyes L and M directly look at the object N, the length of the line LM, and at the same time the angles LMN and MLN, in Figure XXIV, will show the soul where the point N is. However, in all these cases, the soul can often be deceived. First, if the position of the fingers or the eyes is distorted against nature by an external cause, the brain particles, from which the nerves originate, will not respond as accurately as they would if they depended only on naturally acting muscles; thus, the soul, which feels only through the intervention of those brain particles, may then be deceived as shown in Figure XXV.
 
-For example, if the hand F, when placed by itself to turn towards O, is distorted by some external force towards K, the parts of the brain from which these nerves originate will not be arranged in the same way as if the hand were turned towards K by spontaneous muscle movement, nor even in the same way as if it were truly directed towards O. But rather in a manner between those two, namely in the same way as if it were turned towards P. Hence the soul will take the opportunity, as depicted in Figure XXVI, to judge that the object K is at point P and is different from what the hand G touched. Similarly, if the eye M is twisted away from the object N by force and placed as if it were looking towards Q, the soul will judge it to be directed towards R. And because with the eye so positioned, the rays of the object N incident into the eye just as they would if coming from point S, if the eye were truly turned towards R, it will judge the object N to be at point S, and therefore different from what is seen by the eye M. Likewise, the two fingers T and R, touching the sphere X, will give the soul the opportunity, as shown in Figure XXVII, to think that two different bodies are being touched because the crossed fingers are held against their natural position. Furthermore, if rays or any other lines, due to the action of any distant objects, are curved when they reach the senses, the soul, which commonly assumes them to be straight, will take the opportunity to deceive itself.
+For example, if the hand F, when placed by itself to turn towards O, is distorted by some external force towards K, the parts of the brain from which these nerves originate will not be arranged in the same way as if the hand were turned towards K by spontaneous muscle movement, nor even in the same way as if it were truly directed towards O. But rather in a manner between those two, namely in the same way as if it were turned towards P. 
+
+Hence the soul will take the opportunity, as depicted in Figure XXVI, to judge that the object K is at point P and is different from what the hand G touched. Similarly, if the eye M is twisted away from the object N by force and placed as if it were looking towards Q, the soul will judge it to be directed towards R. 
+
+And because with the eye so positioned, the rays of the object N incident into the eye just as they would if coming from point S, if the eye were truly turned towards R, it will judge the object N to be at point S, and therefore different from what is seen by the eye M. Likewise, the two fingers T and R, touching the sphere X, will give the soul the opportunity, as shown in Figure XXVII, to think that two different bodies are being touched because the crossed fingers are held against their natural position. Furthermore, if rays or any other lines, due to the action of any distant objects, are curved when they reach the senses, the soul, which commonly assumes them to be straight, will take the opportunity to deceive itself.
 
 Just as, if the stick H is bent towards K, the object K that it touches will appear to the soul towards R. 
 

@@ -5,6 +5,9 @@ title: "The Senses Depend on 6 Circumstances"
 weight: 26
 description: "As for the diversity of qualities of the actions that open those tubes, it is also clear that they would open them differently according to their diversity"
 image: "/covers/man.jpg"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 ---
 
 
@@ -63,33 +66,56 @@ As for the disposition of the filaments composing the substance of the brain: it
 
 God has so arranged these filaments in forming them, that the channels and pores which He has left among them can convey the spirits, agitated by a peculiar force, into all the nerves to which they should tend, so that in this machine they may excite the same motions to which a similar action, arising from the instinct of our nature, could prompt us. 
 
- Just as, for example, when fire A burns hand B, it causes the spirits that enter through tube 7 to tend towards O: these spirits find two principal pores and ducts, o, r and o, s.
+Just as, for example, when fire A burns hand B, it causes the spirits that enter through tube 7 to tend towards O: these spirits find two principal pores and ducts, o, r and o, s.
 
 Of which one, o, r, conveys them into all the nerves that serve to move the external members, in such a way as is required to avoid the force of such action: namely, into those which retract the hand, or the arm, or the entire body; and into those which turn the head around, and direct the eyes towards the fire, to see more distinctly what needs to be done to avoid it.
 
-But through another duct, o, s, the spirits pass into all those nerves which serve internal movements, similar to those which follow pain in us: namely, into those which contract the heart, agitate the liver, and similar others. Likewise, into those nerves which can produce those external movements by which these internal movements are signified: as into those which induce tears, which furrow the brow and cheeks, and which prepare the voice for wailing. 
+But through another duct, `o, s`, the spirits pass into all those nerves which serve internal movements, similar to those which follow pain in us: namely, into those which contract the heart, agitate the liver, and similar others. 
 
-But if hand B were not burnt by fire A but only moderately warmed, it would cause the same spirits that enter through tube 7 not to tend towards O anymore, but towards P, where they would again find pores arranged so that they could pass through them into all the nerves serving motions corresponding to this action. It should be noted that I have not without reason distinguished two pores, o, r and o, s. Figure XLIX. Namely, to remind you that almost always two kinds of motions arise from any action. 
+Likewise, into those nerves which can produce those external movements by which these internal movements are signified: as into those which induce tears, which furrow the brow and cheeks, and which prepare the voice for wailing. 
 
-For external movements are excited, by which we pursue what we desire and avoid what is harmful. And internal ones, which we commonly call the principles of passions, and which dispose the heart and liver, and all the other organs on which the temperament of the blood, and therefore of the spirits, may depend: so that those spirits, which are then being generated, are suited to excite external movements as required. 
+But if hand B were not burnt by fire A but only moderately warmed, it would cause the same spirits that enter through tube 7 not to tend towards O anymore, but towards P, where they would again find pores arranged so that they could pass through them into all the nerves serving motions corresponding to this action. 
 
-Different qualities of spirits are caused by one of those circumstances which serve to change their courses. 
+I have not without reason distinguished two pores, o, r and o, s. Figure XLIX. 
 
-For example, if some evil is to be avoided or overcome by force, or repelled, to which the choleric passion inclines us, the spirits cannot but be agitated more unevenly and more vigorously than usual. 
+Namely, to remind you that almost always two kinds of motions arise from any action. 
 
-Conversely, if something must be avoided or borne patiently by dissimulation, to which fear inclines, a smaller quantity of spirits and less vehemence is required. To produce this effect, the heart must be contracted, and the spirits must be spared, for the purpose of preserving them for this work. Similar reasoning must be applied analogically to other passions. 
+For external movements are excited, by which we pursue what we desire and avoid what is harmful. 
 
-As for other external movements which do not lead to avoiding evil or obtaining good, but are merely testimonies of certain passions, such as laughter or weeping: these only occur if some occasion arises; and because the nerves through which the ingress of spirits occurs to create them are closely related to those through which the spirits are received to excite passions, as is evident from anatomy. But I have not yet demonstrated by what means different qualities of spirits have the power to change the determination of their courses. 
+The internal ones we commonly call "the principles of passions". These dispose the heart and liver, and all the other organs on which the temperament of the blood, and therefore of the spirits, depends on. Those spirits they generate then become suited to excite external movements as required. 
+
+Different qualities of spirits are caused by one of those circumstances which changes their course. 
+
+For example, if some evil is to be avoided or overcome or repelled by force, to which the choleric passion inclines us, the spirits cannot but be agitated more unevenly and more vigorously than usual. 
+
+Conversely, if something must be avoided or borne patiently by dissimulation, to which fear inclines, a smaller quantity of spirits and less vehemence is required. 
+
+To produce this effect, the heart must be contracted, and the spirits must be spared, to preserve them for this work. 
+
+Similar reasoning must be applied analogically to other passions. 
+
+Other external movements do not lead to avoiding evil or obtaining good. 
+
+Examples are laughter or weeping.
+
+These are merely testimonies of certain passions.
+
+These only occur if some occasion arises; and because the nerves through which the ingress of spirits occurs to create them are closely related to those through which the spirits are received to excite passions, as is evident from anatomy. 
+
+
+## How do the different qualities of spirits have the power to change their courses?
 
 This occurs especially when they are determined from elsewhere only temporarily or not at all. 
 
-For example, if the nerves of the stomach are affected in the way that, as mentioned above, they must be moved to stimulate hunger, and in the meantime nothing edible or drinkable presents itself to any sense or memory; the spirits which that action introduces into the brain through tubes 8 will locate themselves where they will find more pores arranged in such a way that they can be conveyed through them into all the nerves indiscriminately, by which our machine can seek or achieve a certain object: so that only the inequality of these particles can derive them into these nerves rather than into others. 
+For example, if the nerves of the stomach are affected in the way that they must be moved to stimulate hunger, and in the meantime nothing edible or drinkable presents itself to any sense or memory; 
+
+the spirits which that action introduces into the brain through tubes 8 will locate themselves where they will find more pores arranged in such a way that they can be conveyed through them into all the nerves indiscriminately, by which our machine can seek or achieve a certain object: so that only the inequality of these particles can derive them into these nerves rather than into others. 
 
 If stronger particles of spirits are conveyed to certain nerves, but immediately afterwards other stronger ones rush forth to the nerves opposite to them, the machine will imitate the motions, Those which occur to us when we hesitate or doubt about something.
 
+Similarly, if the action of fire A lies midway between those which can lead the spirits to O and to P, that is, between those which produce pain and pleasure: 
 
-Similarly, if the action of fire A lies midway between those which can lead the spirits to O and to P, that is, between those which produce pain and pleasure: it is not difficult to understand that only their multiple inequalities, inherent in themselves, suffice to determine them towards one or the other, as the action is pleasing to us when we are in a cheerful mood, often displeasing when we are tormented by melancholy. Hence, the explanation must be sought in those things which have been said about temperaments or inclinations, both natural and acquired, insofar as they depend on the difference in spirits.
-
+it is not difficult to understand that only their multiple inequalities, inherent in themselves, suffice to determine them towards one or the other, as the action is pleasing to us when we are in a cheerful mood, often displeasing when we are tormented by melancholy. Hence, the explanation must be sought in those things which have been said about temperaments or inclinations, both natural and acquired, insofar as they depend on the difference in spirits.
 
 As for the different positions of external limbs: it is only necessary to consider changing the pores through which the spirits are immediately conveyed into the nerves; so that, for example, if when fire A burns hand B, the head would incline to the left, as it is now inclined to the right, the spirits would flow clearly, just as they now pass from 7 to N, then to O, and from there to r and s. 
 
