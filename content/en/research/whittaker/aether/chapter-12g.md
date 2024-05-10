@@ -1,6 +1,6 @@
 ---
 title: "Can humans know absolute position in space relative to the aether?"
-heading: "Chapter 12e"
+heading: "Chapter 12g"
 weight: 116
 writer:
   name: Edmund Whittaker
@@ -34,9 +34,13 @@ This way of regarding the matter brings into prominence the fundamental question
 
 Before speaking of lengths and velocities, it is necessary to examine the nature of systems of measurement of space and time.
 
-Of the events with which Natural Philosophy is concerned, each is perceived to happen at some definite location at some definite moment. When a material object has been observed to occupy a certain position at a certain instant, the same object may again be observed at a subsequent instant; 
+Of the events with which Natural Philosophy is concerned, each is perceived to happen at some definite location at some definite moment. 
 
-but it is impossible to determine whether the object is or is not in the same position, since there is no obvious means of preserving the identity of any location from one moment to another. The physicist, however, finds it convenient to construct a framework of axes in space and time for the purpose of fitting his experiences into an orderly arrangement; and the question at issue is whether experience furnishes the means of determining a framework completely and uniquely by absolute properties, or whether the selection inevitably rests on arbitrary choice and accidental circumstance.
+When a material object has been observed to occupy a certain position at a certain instant, the same object may again be observed at a subsequent instant. 
+
+But it is impossible to determine whether the object is or is not in the same position, since there is no obvious means of preserving the identity of any location from one moment to another. 
+
+The physicist, however, finds it convenient to construct a framework of axes in space and time for the purpose of fitting his experiences into an orderly arrangement. The question at issue is whether experience furnishes the means of determining a framework completely and uniquely by absolute properties, or whether the selection inevitably rests on arbitrary choice and accidental circumstance.
 
 In attempting to answer this question, it may first be observed that the choice is always made so as to simplify the description of natural phenomena as much as possible; thus, the variable which is to measure time is so chosen that its increment in the interval between any two consecutive beats of a pendulum is the same as its increment in the interval between any other two consecutive beats. 
 

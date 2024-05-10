@@ -1,6 +1,6 @@
 ---
 title:  "W. Thomson"
-heading:  "Chapter 8b"
+heading:  "Chapter 8c"
 weight: 72
 writer:
   name: Edmund Whittaker

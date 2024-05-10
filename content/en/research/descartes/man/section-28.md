@@ -1,6 +1,6 @@
 ---
 heading: Sections 28-29
-title: The Brain
+title: The Surface of the Brain
 weight: 21
 description: "The pores of the brain are like the intervals between the threads of linen"
 writer:

@@ -1,6 +1,6 @@
 ---
 title: "Zeeman's Effect"
-heading: "Chapter 12f"
+heading: "Chapter 12h"
 weight: 118
 writer:
   name: Edmund Whittaker

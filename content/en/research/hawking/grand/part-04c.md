@@ -1,84 +1,79 @@
 ---
-heading: Part 1l
+heading: Part 4c
 title: "Feynman’s theory"
-description: ""
+description: "According to quantum physics, no matter how much information we obtain or how powerful our computing abilities, the outcomes of physical processes cannot be predicted with certainty because they are not determined with certainty"
 weight: 25
 image: /covers/design.jpg
 ---
 
 
-According to quantum physics, no matter how much information we obtain or how powerful our
-computing abilities, the outcomes of physical processes cannot be predicted with certainty because
-they are not determined with certainty. 
+According to quantum physics, no matter how much information we obtain or how powerful our computing abilities, the outcomes of physical processes cannot be predicted with certainty because they are not determined with certainty.
 
-Instead, given the initial state of a system, nature
-determines its future state through a process that is fundamentally uncertain. In other words, nature does not dictate the outcome of any process or experiment, even in the simplest of situations.
+Instead, given the initial state of a system, nature determines its future state through a process that is fundamentally uncertain. In other words, nature does not dictate the outcome of any process or experiment, even in the simplest of situations.
 
-Rather, it allows a number of different eventualities, each with a certain likelihood of being
-realized. It is, to paraphrase Einstein, as if God throws the dice before deciding the result of every physical process. 
+Rather, it allows a number of different eventualities, each with a certain likelihood of being realized. It is, to paraphrase Einstein, as if God throws the dice before deciding the result of every physical process. 
 
-That idea bothered Einstein, and so even though he was one of the fathers of
-quantum physics, he later became critical of it.
+That idea bothered Einstein, and so even though he was one of the fathers of quantum physics, he later became critical of it.
 
-Quantum physics might seem to undermine the idea that nature is governed by laws, but that is not
-the case. Instead it leads us to accept a new form of determinism: Given the state of a system at
-some time, the laws of nature determine the probabilities of various futures and pasts rather than
-determining the future and past with certainty. Though that is distasteful to some, scientists must
-accept theories that agree with experiment, not their own preconceived notions.
+Quantum physics might seem to undermine the idea that nature is governed by laws, but that is not the case. 
 
-What science does demand of a theory is that it be testable. If the probabilistic nature of the
-predictions of quantum physics meant it was impossible to confirm those predictions, then quantum theories would not qualify as valid theories. But despite the probabilistic nature of their
-predictions, we can still test quantum theories. For instance, we can repeat an experiment many
-times and confirm that the frequency of various outcomes conforms to the probabilities predicted.
+Instead, it leads us to accept a new form of determinism: Given the state of a system at some time, the laws of nature determine the probabilities of various futures and pasts rather than determining the future and past with certainty. 
 
+Though that is distasteful to some, scientists must accept theories that agree with experiment, not their own preconceived notions.
 
-Consider the buckyball experiment. Quantum physics tells us that nothing is ever located at a
-definite point because if it were, the uncertainty in momentum would have to be infinite. In fact,
-according to quantum physics, each particle has some probability of being found anywhere in the
-universe. 
+What science does demand of a theory is that it be testable. If the probabilistic nature of the predictions of quantum physics meant it was impossible to confirm those predictions, then quantum theories would not qualify as valid theories. But despite the probabilistic nature of their predictions, we can still test quantum theories. 
 
-So even if the chances of finding a given electron within the double-slit apparatus are
-very high, there will always be some chance that it could be found instead on the far side of the
-star Alpha Centauri, or in the shepherd’s pie at your office cafeteria. As a result, if you kick a
-quantum buckyball and let it fly, no amount of skill or knowledge will allow you to say in advance
-exactly where it will land. 
+For instance, we can repeat an experiment many times and confirm that the frequency of various outcomes conforms to the probabilities predicted.
 
-But if you repeat that experiment many times, the data you obtain will
-reflect the probability of finding the ball at various locations, and experimenters have confirmed
+## The buckyball experiment
+
+Quantum physics tells us that nothing is ever located at a definite point because if it were, the uncertainty in momentum would have to be infinite. 
+
+In fact, according to quantum physics, each particle has some probability of being found anywhere in the universe. 
+
+So even if the chances of finding a given electron within the double-slit apparatus are very high, there will always be some chance that it could be found instead on the far side of the star Alpha Centauri, or in the shepherd’s pie at your office cafeteria. 
+
+As a result, if you kick a quantum buckyball and let it fly, no amount of skill or knowledge will allow you to say in advance exactly where it will land. 
+
+But if you repeat that experiment many times, the data you obtain will reflect the probability of finding the ball at various locations, and experimenters have confirmed
 that the results of such experiments agree with the theory’s predictions.
 
-It is important to realize that probabilities in quantum physics are not like probabilities in
-Newtonian physics, or in everyday life. We can understand this by comparing the patterns built up
-by the steady stream of buckyballs fired at a screen to the pattern of holes built up by players
-aiming for the bull’s-eye on a dartboard. Unless the players have consumed too much beer, the
-chances of a dart landing near the center are greatest, and diminish as you go farther out. As with
-the buckyballs, any given dart can land anywhere, and over time a pattern of holes that reflects the
-underlying probabilities will emerge. 
+Probabilities in quantum physics are not like probabilities in Newtonian physics, or in everyday life. 
+
+We can understand this by comparing the patterns built up by the steady stream of buckyballs fired at a screen to the pattern of holes built up by players aiming for the bull’s-eye on a dartboard. Unless the players have consumed too much beer, the chances of a dart landing near the center are greatest, and diminish as you go farther out. 
+
+As with the buckyballs, any given dart can land anywhere, and over time a pattern of holes that reflects the underlying probabilities will emerge. 
 
 In everyday life we might reflect that situation by saying that a dart has a certain probability of landing in various spots; but if we say that, unlike the case of the buckyballs, it is only because our knowledge of the conditions of its launch is incomplete. 
 
 We could improve our description if we knew exactly the manner in which the player released the dart, its angle, spin, velocity, and so forth. In principle, then, we could predict where the dart will land with a precision as great as we desire. Our use of probabilistic terms to describe the outcome of events in everyday life is therefore a reflection not of the intrinsic nature of the process but only of our ignorance of certain aspects of it.
 
 Probabilities in quantum theories are different. They reflect a fundamental randomness in nature.
-The quantum model of nature encompasses principles that contradict not only our everyday
 
-experience but our intuitive concept of reality. Those who find those principles weird or difficult
-to believe are in good company, the company of great physicists such as Einstein and even
-Feynman, whose description of quantum theory we will soon present. In fact, Feynman once
-wrote, “I think I can safely say that nobody understands quantum mechanics.” But quantum
-physics agrees with observation. It has never failed a test, and it has been tested more than any
-other theory in science.
+The quantum model of nature encompasses principles that contradict not only our everyday experience but our intuitive concept of reality. Those who find those principles weird or difficult to believe are in good company, the company of great physicists such as Einstein and even Feynman, whose description of quantum theory we will soon present. 
 
-In the 1940s Richard Feynman had a startling insight regarding the difference between the
-quantum and Newtonian worlds. Feynman was intrigued by the question of how the interference
-pattern in the double-slit experiment arises. Recall that the pattern we find when we fire molecules
-with both slits open is not the sum of the patterns we find when we run the experiment twice, once
-with just one slit open, and once with only the other open. Instead, when both slits are open we
-find a series of light and dark bands, the latter being regions in which no particles land. That
-means that particles that would have landed in the area of the dark band if, say, only slit one was
-open, do not land there when slit two is also open. 
+In fact, Feynman once wrote, “I think I can safely say that nobody understands quantum mechanics.” 
 
-It seems as if, somewhere on their journey from source to screen, the particles acquire information about both slits. That kind of behavior is drastically different from the way things seem to behave in everyday life, in which a ball would follow a path through one of the slits and be unaffected by the situation at the other. 
+But quantum physics agrees with observation. It has never failed a test, and it has been tested more than any other theory in science.
+
+In the 1940's, Richard Feynman had a startling insight regarding the difference between the quantum and Newtonian worlds. 
+
+
+## The Double-slit Experiment
+
+Feynman was intrigued how the interference pattern in the double-slit experiment arises. 
+
+When we fire molecules with both slits open, the pattern we find is not the sum of the patterns we find when we run the experiment twice:
+- once with just one slit open and
+- once with only the other open. 
+
+Instead, when both slits are open, we find a series of light and dark bands. The latter are regions in which no particles land. 
+
+That means that particles that would have landed in the area of the dark band if, say, only slit 1 was open, do not land there when slit 2 is also open. 
+
+It seems as if, somewhere on their journey from source to screen, the particles acquire information about both slits. 
+
+That kind of behavior is drastically different from the way things seem to behave in everyday life, in which a ball would follow a path through one of the slits and be unaffected by the situation at the other. 
 
 According to Newtonian physics—and to the way the experiment would work if we did it with
 soccer balls instead of molecules—each particle follows a single well-defined route from its source

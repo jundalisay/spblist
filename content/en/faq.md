@@ -85,27 +85,39 @@ Because we absorb all data, information, and human knowledge, even from Asia, Af
 
 Hinduism, Buddhism, and Taoism allow other dimensions by default. Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality.
 
-This is different from Roman philosophy which has no metaphysics to allow other dimensions. The Roman mentality evolved to be Western thinking and science which only deal with the obvious and shallow perceptions.
+This is different from Roman philosophy which has very shallow metaphysics compared to that of Asia, as to not have detailed explanations of other dimensions and how to detect or access them. The Roman mentality evolved to be Western thinking and science which only deal with the obvious and shallow perceptions.
 {{< /l >}}
 
 <!-- Notice how Roman gods just mirror human characteristics.  and subsequently as the limited Western Science  -->
 
 {{< r a="Asker" >}}
-How do you weed out junk ideas like faeries and pixie dust?
+How do you weed out junk ideas like faeries, ghosts, and evil spirits?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-By finding consistent patterns from data. The patterns are then extrapolated and interpolated to lead to predictions that can be tested in the real world. Do you have data on faeries and pixie dust?
+By seeing if we can detect them through 6-senses and then analyze them through Socratic Dialectics. If you want to detect bacteria, you have to get a microscope. To get the microscope, you have to shell out money which you earn from the effort in your job, or by doing the effort to make a microscope yourself. 
+
+Likewise, gaining the skill to detect the invisible metaphysical domain requires continuous training and effort, since your mind is the detector itself, as explained by Rene Descartes' concept of "[animal spirits](/research/descartes/man/section-30/)". We then compare the person's description of faeries, ghosts, etc to a data set of known properties to see whether they match and therefore are predictable, or whether it is just the mind playing tricks. We have noted down those properties from various cultures and texts, especially those from India which has a lot of data on Elementals.
 {{< /l >}}
 
+
+{{< q a="Descartes" c="Treatise on Man" >}}
+Thus, in this way chimeras and hippogriffs are created in the imagination of people who dream while awake. They let loose their imagination through laziness, not diverted by any external objects, nor governed by reason.
+{{< /q >}}
+
+<!-- By finding consistent patterns from data. The patterns are then extrapolated and interpolated to lead to predictions that can be tested in the real world. Do you have data on faeries and pixie dust? -->
+<!-- I don't have any.  So there's nothing to test. We reject its reality until we can test it. But unlike close-minded science that automatically rejects its **possible** existence, we do not deny its possibility. 
+
+Perhaps they are real in another universe which has different Physics from ours, but only their aether-components cross over into the aethereal (abstract) minds of some people as aethereal ideas. Their brains then interpret those ideas as faeries and pixie dust. -->
+
 {{< r a="Asker" >}}
-I don't have any. 
+Those [Elementals](/bio/principles/part-01/chapter-01/) are the 'gods' worshipped by the polytheist Hindus, right?  
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-So there's nothing to test. We reject its reality until we can test it. But unlike close-minded science that automatically rejects its **possible** existence, we do not deny its possibility. 
+No. Those Elementals are "Nature Spirits" which humans tap for some utility just as we tap plants for food and our pet dogs to guard the house or keep us company. We sometimes adore our pets, but never worship them. 
 
-Perhaps they are real in another universe which has different Physics from ours, but only their aether-components cross over into the aethereal (abstract) minds of some people as aethereal ideas. Their brains then interpret those ideas as faeries and pixie dust.
+In Asian countries, these are the spirits that you make offerings to, in order to get something back. In Christian countries, these manifest as the saints that you pray to, in order to get some real-world blessing or benefit. It is this real-world benefit that makes them fall within the scope of Superphysics. Without any real effects, we wouldn't waste time on it. But since there are real effects facilitated by exchange, then we can systematically "domesticate" them to create an "Elemental industry", similar to how early humans domesticated plants and animals to create agriculture and animal husbandry.  
 {{< /l >}}
 
 <!--  If all five continents have oral tradition of faeries and pixie dust that survive up to modern times as to be testable, then there's some reality to it. But we find that there are none, so we cross it out as untrue.
@@ -113,12 +125,13 @@ Perhaps they are real in another universe which has different Physics from ours,
 Truth is the equality of perceptions. We're after true patterns that lead to the single truth, as the cause behind an issue or problem. This single truth represents the totality of perception.  -->
 
 {{< r a="Asker" >}}
-So the consistency of people around the world (who don't talk to each other) having common, innate, abstract, aethereal, or spiritual ideas is proof of a different reality or universe or dimension above ours?
+So the consistency of people around the world (who don't talk to each other) having common perceptions of "Nature Spirits" and "Gaia" is proof of a different reality or universe or dimension above ours?
 {{< /r >}}
 
+<!-- , innate, abstract, aethereal, or spiritual ideas  -->
 
 {{< l a="Superphysics" >}}
-Yes. All cultures have similar a belief in an afterlife or another type of reality, and of a Supreme Being that administers that reality as well as ours. We use their data to test that reality and that Being.  
+Yes. All cultures have similar a belief in another type of reality, and of a Supreme Being that administers that reality as well as ours. We use their data to test that reality and that Being.  
 {{< /l >}}
 
 
@@ -158,7 +171,7 @@ There are 3 principal sciences:
 
 
 {{< r a="Asker" >}}
-So how can that knowledge solve problems? Are you just going to be like the Hindus and solve the problem by ignoring it as an illusion?
+So how can that knowledge solve problems? Are you just going to be like the Hindus and solve the problem by ignoring it as an illusion? Or will you rely on spirits to solve your every problem?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}

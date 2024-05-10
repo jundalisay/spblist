@@ -1,7 +1,7 @@
 ---
 title: "Ampère's Work"
-heading:  "Chapter 3d"
-weight: 25
+heading:  "Chapter 3e"
+weight: 26
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
@@ -21,27 +21,35 @@ where φ(r) denotes any arbitrary function of r; for since
 
 this term vanishes when integrated round the circuit s; and it contains ds and ds′ linearly and homogeneously, as it should. We can also add any terms of the form
 
+...
 
 where χ(r) denotes any arbitrary function of r, and d denotes differentiation along the arc s, keeping ds′ fixed (so that dr = - ds); this differential may be written
 
+...
+
 In order that the law of Action and Reaction may not be violated, we must combine this with the former additional term so as to obtain an expression symmetrical in ds and ds′: and hence we see finally that the general value of F is given by the equation
 
+...
 
 The simplest form of this expression is obtained by taking
 
-
+...
 
 when we obtain
 
+...
 
 The comparatively simple expression in brackets is vector part of the quaternion product of the three vectors ds, r, ds′. [44]
 
 From any of these values of F we can find the ponderomotive force exerted by the whole circuit s on the element ds': it is, in fact, from the last expression,
 
 
-Now this value of B is precisely the value found by Biot and Savart[45] for the magnetic intensity at ds′ due to the current i in the circuit s. Thus we see that the ponderomotive force on a current-element ds′ in a magnetic field B is i′[ds′.B].
+This value of B is precisely the value found by Biot and Savart[45] for the magnetic intensity at ds′ due to the current i in the circuit s. Thus we see that the ponderomotive force on a current-element ds′ in a magnetic field B is i′[ds′.B].
 
-Ampère developed to a considerable extent the theory of the equivalence of magnets with circuits carrying currents; and showed that an electric current is equivalent, in its magnetic effects, to a distribution of magnetism on any surface terminated by the circuit, the axes of the magnetic molecules being everywhere normal to this surface:[46] such a magnetized surface is called a magnetic shell. He preferred, however, to regard the current rather than the magnetic fluid as the fundamental entity, and considered magnetism to be really an electrical phenomenon: each magnetic molecule owes its properties, according to this view, to the presence within it of a small closed circuit in which an electric current is perpetually flowing.
+
+Ampère developed to a considerable extent the theory of the equivalence of magnets with circuits carrying currents; and showed that an electric current is equivalent, in its magnetic effects, to a distribution of magnetism on any surface terminated by the circuit, the axes of the magnetic molecules being everywhere normal to this surface:[46] such a magnetized surface is called a magnetic shell. 
+
+He preferred, however, to regard the current rather than the magnetic fluid as the fundamental entity, and considered magnetism to be really an electrical phenomenon: each magnetic molecule owes its properties, according to this view, to the presence within it of a small closed circuit in which an electric current is perpetually flowing.
 
 The impression produced by Ampère's memoir was great and lasting. 
 

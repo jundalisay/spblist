@@ -31,9 +31,13 @@ This opens certain tubes into which the spirits first enter.
 6. The convergence of multiple actions that simultaneously affect the sense. 
 
 
-If, for example, object A, B, C acted on a sense other than sight, it would open different tubes in the inner surface of the brain than those noted as 2, 4, 6. 
+If, for example, object `A, B, C` acted on a sense other than sight, it would open different tubes in the inner surface of the brain than those noted as `2, 4, 6`. 
 
-However, if the object were closer or farther away, or in a different position with respect to the eye than it currently is, it could open the same tubes but they would be arranged differently than they are at present, and therefore the spirits would be directed to different locations than to a, b, c, where they are currently directed. 
+However, if the object were closer or farther away, or in a different position with respect to the eye than it currently is, it could open the same tubes but they would be arranged differently than they are at present.
+
+This would direct the spirits to different locations than to `a, b, c`.
+
+<!-- , where they are currently directed.  -->
 
 And so on for the rest. 
 

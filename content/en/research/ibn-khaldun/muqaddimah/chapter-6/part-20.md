@@ -21,16 +21,41 @@ The angles of any triangle are equal to two right angles.
 Parallel lines do not intersect anywhere, even when they extend to infinity.
 
 The opposite angles formed when two lines intersect are equal to each other.
-The result of multiplying the first and the third of four quantities in a
-proportion is equal to that of multiplying the second and the fourth. 654 And so on.
-The Greek work on this craft which has been translated (into Arabic) is the book of Euclid. It is entitled Kitab alusul wa-l-arkan ("Book of Basic Principles and Pillars"). 655 
 
-It is the simplest 656 book on the subject for students. It was the first Greek work to be translated in Islam in the days of Abu Jafar al-Mansur. The existing recensions differ, depending on the respective translators. There are the recensions of }Hunayn b. Ishaq, 657 Thabit b. Qurrah, 658 and Yusuf b. al-Hajjaj. 659
+<!-- 654 -->
+The result of multiplying the first and the third of four quantities in a proportion is equal to that of multiplying the second and the fourth. And so on.
 
-The work contains fifteen books, four on the planes, one on proportions, another one on the relationship of planes to each other, three on numbers, the tenth on rational and irrational (quantities) 660 the "roots" - and five on solids.
+The Greek work on this craft which has been translated into Arabic is the book of Euclid, entitled "Kitab alusul wa-l-arkan" ("Book of Basic Principles and Pillars"). 
+<!-- 655  -->
+
+<!-- 656 -->
+It is the simplest book on the subject for students. 
+
+It was the first Greek work to be translated in Islam in the days of Abu Jafar al-Mansur. 
+
+The existing recensions differ, depending on the respective translators. 
+
+There are the recensions of:
+- Hunayn b. Ishaq 
+- Thabit b. Qurrah
+- Yusuf b. al-Hajjaj
+ <!-- 657-659 -->
+
+The work contains 15 books:
+- 4 on the planes
+- 1 on proportions
+- 1 on the relationship of planes to each other
+- 3 on numbers
+- the tenth on rational and irrational (quantities) the "roots"
+- 5 on solids
+<!-- 660 -->
+
 Many abridgments of Euclid's work have been written.
 
-Avicenna devoted a special monograph treatment to it in (the section on) the mathematical disciplines in the Shifa'. Ibn as-Salt 661 made another abridgment in the Kitab al-Iqtisar, and the same was done by others. Many scholars have also written commentaries on it. 
+Avicenna devoted a special monograph treatment to it in (the section on) the mathematical disciplines in the Shifa'. 
+
+Ibn as-Salt made another abridgment in the Kitab al-Iqtisar, and the same was done by others. Many scholars have also written commentaries on it. 
+<!-- 661 -->
 
 It is the starting point of the geometrical sciences in general.
 
@@ -38,7 +63,8 @@ Geometry enlightens the intellect and sets one's mind right. All its proofs are 
 
 Thus, the mind that constantly applies itself to geometry is not likely to fall into error. In this convenient way, the person who knows geometry acquires intelligence. 
 
-Plato wrote: "No one who is not a geometrician may enter our house." 662
+Plato wrote: "No one who is not a geometrician may enter our house." 
+<!-- 662 -->
 
 Our teachers used to say that one's application to geometry does to the mind what soap does to a garment. It washes off stains and cleanses it of grease and dirt. The reason for this is that geometry is well arranged and orderly, as we have mentioned. 
 
@@ -55,11 +81,11 @@ Astronomy, therefore, depends on knowledge of the laws governing planes and sect
 
 Conic sections also are a branch of geometry. This discipline is concerned with study of the figures and sections occurring in connection with cones. It proves the properties of cones by means of geometrical proofs based upon elementary geometry. 
 
-Its usefulness is apparent in practical crafts that have to do with bodies,
-such as carpentry and architecture. It is also useful for making remarkable statues
-and rare large objects (effigies, hayakil) 664 and for moving loads and transporting
-large objects (hayakil) with the help of mechanical contrivances, engineering
-(techniques), pulleys, and similar things.
+Its usefulness is apparent in practical crafts that have to do with bodies, such as carpentry and architecture. 
+
+<!-- 664 -->
+It is also useful for making remarkable statues and rare large objects (effigies, hayakil) and for moving loads and transporting large objects (hayakil) with the help of mechanical contrivances, engineering
+(techniques), pulleys, and similar things. 
 
 There exists a book on mechanics that mentions every astonishing, remarkable technique and nice mechanical contrivance. It is often difficult to understand, because the geometrical proofs occurring in it are difficult. 
 
@@ -86,5 +112,6 @@ This discipline explains with geometrical proofs the reasons for these things an
 
 There are many other such things.
 
-Many Greeks wrote works on the subject. The most famous Muslim author on optics is Ibn al-Haytham. 668 Others, too, have written works on the subject. It is a branch of the mathematical sciences.
-
+Many Greeks wrote works on the subject. The most famous Muslim author on optics is Ibn al-Haytham. It is a branch of the mathematical sciences.
+<!-- Others, too, have written works on the subject.  -->
+<!-- 668  -->

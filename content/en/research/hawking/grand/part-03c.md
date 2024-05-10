@@ -1,15 +1,14 @@
 ---
-heading: Part 1i
+heading: Part 3c
 title: "A Good Model"
-description: ""
+description: "Model-dependent realism can provide a framework to discuss questions"
 weight: 18
 image: /covers/design.jpg
 ---
 
 
 
-Model-dependent realism can provide a framework to discuss questions such as: If the world was
-created a finite time ago, what happened before that? 
+Model-dependent realism can provide a framework to discuss questions such as: If the world was created a finite time ago, what happened before that? 
 
 St. Augustine (354–430), said that time was a property of the world that God created. Time did not exist before the creation.
 <!-- , which he believed had occurred not that long ago.  -->

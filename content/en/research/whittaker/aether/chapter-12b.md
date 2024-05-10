@@ -1,7 +1,7 @@
 ---
 title: "Christian Doppler"
 heading: "Chapter 12b"
-weight: 108
+weight: 109
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker

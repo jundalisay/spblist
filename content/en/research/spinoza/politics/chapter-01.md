@@ -14,20 +14,21 @@ How a community governed as a Monarchy or as an Aristocracy should be organised 
 
 <!-- , and if the Peace and Freedom of its citizens is to remain inviolate. -->
 
-CHAPTER 1
-[Introduction ] 1
+<!-- CHAPTER 1 -->
 
-[I] 
+<!-- [Introduction ] 1
 
-Philosophers look upon the passions by which we are assailed as vices, into which men fall through their own fault. So it is their custom to deride, bewail, berate them, or, if their purpose is to appear more zealous than others, to execrate
-them. They believe that they are thus performing a sacred duty, and that they are
-atta ining the summit of wisdom when they have learnt how to shower extravagant
-praise on a human nature that nowhere exists and to revile that which exists in actuality. The fact is that they conceive men not as they are, but as they would like them to be. 
+[I]  -->
 
-As a result, for the most part it is not ethics they have written, but satire; and they have never worked out a pol itical theory that can have practical application, only one that borders on fantasy or could be put into effect in Utopia
-or in that golden age of the poets where there would naturally be no need of such.
-Therefore, while theory is believed to be at variance with practice in all practical
-sciences, this is particularly so in the case of political theory, and no men are regarded as less fit for governing a state than theoreticians or philosophers.
+Philosophers look at the passions by which we are assailed as vices, into which men fall through their own fault. 
+
+So it is their custom to deride, bewail, berate them, or, if their purpose is to appear more zealous than others, to execrate them. 
+
+They believe that they are thus performing a sacred duty, and that they are attaining the summit of wisdom when they have learnt how to shower extravagant praise on a human nature that nowhere exists and to revile that which exists in actuality. The fact is that they conceive men not as they are, but as they would like them to be. 
+
+As a result, for the most part it is not ethics they have written, but satire. They have never worked out a pol itical theory that can have practical application, only one that borders on fantasy or could be put into effect in Utopia or in that golden age of the poets where there would naturally be no need of such.
+
+Therefore, while theory is believed to be at variance with practice in all practical sciences, this is particularly so in the case of political theory, and no men are regarded as less fit for governing a state than theoreticians or philosophers.
 
 [2] Statesmen, on the other hand, are believed to aim at men's undoing rather
 than their welfare, and they have a reputation for cunning rather than wisdom.

@@ -1,13 +1,13 @@
 ---
-heading: Part 6d
+heading: Part 6f
 title: "The Big Bang"
-description: ""
+description: "In the early universe—when the universe was small enough to be governed by both general relativity and quantum theory—there were effectively four dimensions of space and none of time"
 weight: 37
 image: /covers/design.jpg
 ---
 
 
-In the early universe—when the universe was small enough to be governed by both general relativity and quantum theory—there were effectively four dimensions of space and none of time. 
+In the early universe—when the universe was small enough to be governed by both general relativity and quantum theory—there were effectively 4 dimensions of space and none of time. 
 
 That means that when we speak of the “beginning” of the universe, we are skirting the subtle issue that as we look backward toward the very early universe, time as we know it does not exist! 
 

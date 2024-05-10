@@ -76,11 +76,9 @@ According to QED, all the interactions between charged particles—particles tha
 
 The predictions of QED have been tested and found to match experimental results with great precision. 
 
-But performing the mathematical calculations required by QED can be difficult because when you add to the above framework of particle exchange the quantum requirement that one include all the histories by which an interaction can occur—for
-example, all the ways the force particles can be exchanged—the mathematics becomes complicated. 
+But performing the mathematical calculations required by QED can be difficult because when you add to the above framework of particle exchange the quantum requirement that one include all the histories by which an interaction can occur—for example, all the ways the force particles can be exchanged—the mathematics becomes complicated. 
 
-Fortunately, along with inventing the notion of alternative histories—the way of thinking about quantum theories described in the last chapter—Feynman also developed a neat graphical method of accounting for the different histories, a method that is today applied not just to
-QED but to all quantum field theories.
+Fortunately, along with inventing the notion of alternative histories—the way of thinking about quantum theories described in the last chapter—Feynman also developed a neat graphical method of accounting for the different histories, a method that is today applied not just to QED but to all quantum field theories.
 
 Feynman’s graphical method provides a way of visualizing each term in the sum over histories.
 

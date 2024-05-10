@@ -1,17 +1,21 @@
 ---
-heading: Part 3d
+heading: Part 2d
 title: "Nature's Laws"
-description: ""
+description: "If nature is governed by laws, 3 questions arise"
 weight: 14
 image: /covers/design.jpg
 ---
 
 
-If nature is governed by laws, three questions arise:
+If nature is governed by laws, 3 questions arise:
 
 1. What is the origin of the laws?
 2. Are there any exceptions to the laws, i.e., miracles?
 3. Is there only one set of possible laws?
+
+> *Superphysics Note: 1. Nirguna Brahma, 2. None. Miracles are achieved by people who have 6 senses instead of 5, 3. All universes in the multiverse has variations of the laws. 
+
+
 
 These important questions have been addressed in varying ways by scientists, philosophers, and theologians. 
 

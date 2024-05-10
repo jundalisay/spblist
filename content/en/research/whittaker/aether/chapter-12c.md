@@ -1,6 +1,6 @@
 ---
 title: "Lorentz"
-heading: "Chapter 12b"
+heading: "Chapter 12c"
 weight: 110
 writer:
   name: Edmund Whittaker

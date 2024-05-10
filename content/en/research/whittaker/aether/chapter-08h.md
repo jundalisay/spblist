@@ -1,76 +1,99 @@
 ---
-title:  "Leroux's Phenomenon"
-heading:  "Chapter 8e"
-weight: 76
+title:  "Light Pressure"
+heading:  "Chapter 8h"
+weight: 77
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
 image:  "/covers/history.jpg"
-description: "In 1865, Maxwell occupied himself in writing a connected account of electrical theory"
+description: "Faraday, when studying the curvature of lines of force in electrostatic fields, had noticed an apparent tendency of adjacent lines to repel each other"
 ---
 
 
-This opinion that conductors are the media of propagation of electric disturbance was entertained also by Ludwig Lorenz (b. 1829, d. 1891), of Copenhagen, who independently developed an electromagnetic theory of light[60] a few years after the publication of Maxwell's memoirs.
 
-The procedure which Lorenz followed was that which Riemann had suggested[61] in 1858—namely, to modify the accepted formulae of electrodynamics by introducing terms which, though too small to be appreciable in ordinary laboratory experiments, would be capable of accounting for the propagation of electrical effects through space with a finite velocity. We have seen that in Neumann's theory the electric force E was determined by the equation
+The doctrines peculiar to Maxwell are the existence of:
+- displacement-currents, and
+- electromagnetic vibrations identical with light
 
-  (1)
+<!-- These were not introduced in Volume 1 or Volume 2 first half. The account given of them was scarcely more complete, and was perhaps less attractive, than that which had been furnished in the original memoirs. -->
 
-where φ denotes the electrostatic potential defined by the equation
+<!-- Some matters were, however, discussed more fully in the Treatise than in Maxwell's previous writings, and among these was the question of stress in the electromagnetic field. -->
+
+Faraday [62] studied the curvature of lines of force in electrostatic fields. He had noticed a tendency of adjacent lines to repel each other, as if each tube of force were inherently disposed to distend laterally.
+
+In addition to this repellent or diverging force in the transverse direction, he supposed an attractive or contractile force to be exerted at right angles to it in the direction of the lines of force.
+
+Maxwell was fully persuaded of the existence of these pressures and tensions.
+- He created analytical expressions suitable to represent them. 
+
+The tension along the lines of force must be supposed to maintain the ponderomotive force which acts on the conductor on which the lines of force terminate.
+
+It may therefore be measured by the force which is exerted on unit area of the conductor, i.e., εE2/8πc2 or  DE. 
+
+The pressure at right angles to the lines of force must then be determined so as to satisfy the condition that the aether is to be in equilibrium.
+
+Consider a thin shell of aether included between two equipotential surfaces. 
+
+The equilibrium of the portion of this shell which is intercepted by a tube of force: requires (as in the theory of the equilibrium of liquid films), that the resultant force per unit area due to the abovementioned normal tensions on its two faces shall have the value T(1/ρ1 + 1/ρ2), where ρ1 and ρ2 denote the principal radii of curvature of the shell at the place. 
+
+Where T denotes. the lateral stress across unit length of the surface of the shell, I being analogous to the surface-tension of a liquid film.
+
+If `t` denotes the thickness of the shell, the area intercepted on the second face by the tube of force bears to the area intercepted on the first face the ratio (ρ1 + t) (ρ2 + t)/ρ1ρ2; and by the fundamental property of tubes of force, D and E vary inversely as the cross-section of the tube, so the total force on the second face will bear to that on the first face the ratio
+
+ρ1ρ2/(ρ1 + t) (ρ2 + t),
+
+or approximately
+
+(1 - t/ρ1 - tρ2);
+
+the resultant force per unit area along the outward normal is
+
+...
 
 
-ρ′ being the density of electric charge at the point (x′, y′, z′), and where a denotes the vector-potential, defined by the equation
+therefore
+
+...
 
 
-ι′ being the conduction-current at (x′, y′, z′). We suppose the specific inductive capacity and the magnetic permeability to be everywhere unity.
+and so we have
 
-Lorenz proposed to replace these by the equations
+...
 
+or the pressure at right angles to the lines of force is 
 
+...
 
-the change consists in replacing the values which ρ′ and ι′ have at the instant t by those which they have at the instant (t - r/c), which is the instant at which a disturbance travelling with velocity c must leave the place (x′, y′, z′) in order to arrive at the place (x, y, z) at the instant t. Thus the values of the potentials at (x, y, z) at any instant t would, according to Lorenz's theory, depend on the electric state at the point (x′, y′, z′) at the previous instant (t - r/c): as if the potentials were propagated outwards from the charges and currents with velocity c. The functions φ and a formed in this way are generally known as the retarded potentials.
+DE per unit area—that is, it is numerically equal to the tension along the lines of force.
 
-The equations by which φ and a have been defined are equivalent to the equations
+The principal stresses in the medium being thus determined, it readily follows that the stress across any plane, to which the unit vector N is normal, is
 
- (2)
+...
 
- (3)
+Maxwell obtained[63] a similar formula for the case of magnetic fields. 
 
-while the equation of conservation of electricity,
+The pouderomotive forces on magnetized matter and on conductors carrying currents may be accounted for by assuming a stress in the medium, the stress across the plane N being represented by the vector
 
+...
 
+This, like the corresponding electrostatic formula, represents a tension across planes perpendicular to the lines of force, and a pressure across planes parallel to them.
 
-gives
+Maxwell made no distinction between stress in the material dielectric and stress in the aether. As long as material bodies when displaced carry the contained aether along with them, then no distinction was possible.
 
-(4)
+Maxwell's theory was modified many years afterwards by his followers. 
 
-From equations (1), (2), (4), we may readily derive the equation
+Stresses corresponding to those introduced by Maxwell were assigned to the aether, as distinct from ponderable matter. It was assumed that the only stresses set up in material bodies by the electromagnetic field are produced indirectly. 
 
- (I)
+They may be calculated by the methods of the theory of elasticity, from & knowledge of the ponderomotive forces exerted on the electric charges connected with the bodies.
 
-and from (1), (3), (4), we have
+Maxwell's theory considered the question of stress in the medium from the purely statical point of view. 
 
- (II)
+He determined the stress so that it might produce the required forces on ponderable bodies, and be self-equilibrating in free aether. 
 
-where H or curl a denotes the magnetic force: while from (1) we have
+But[64] if the electric and magnetic phenomena are really kinetic in their nature and not static, then the stress or pressure need not be self-equilibrating.
 
- (III)
+This is illustrated by reference to the hydrodynamical models of the aether in which perforated solids are immersed in a moving liquid.
 
-The equations (I), (II), (III) are, however, the fundamental equations of Maxwell's theory; and therefore the theory of L. Lorenz is practically equivalent to that of Maxwell, so far as concerns the propagation of electromagnetic disturbances through free aether. 
+The ponderomotive forces exerted on the solids by the liquid correspond to those which act on conductors carrying currents in a magnetic field, and yet there is no stress in the medium beyond the pressure of the liquid.
 
-Lorenz himself, however, does not appear to have clearly perceived this; for in his memoir he postulated the presence of conducting matter throughout space, and was consequently led to equations resembling those which Maxwell had given for the propagation of light in metals. 
-
-Observing that his equations represented periodic electric currents at right angles to the direction of propagation of the disturbance, he suggested that all luminous vibrations might be constituted by electric currents, and hence that there was "no longer any reason for maintaining the hypothesis of an aether, since we can admit that space contains sufficient ponderable matter to enable the disturbance to be propagated."
-
-Lorenz was unable to derive from his equations any explanation of the existence of refractive indiecs, and his theory lacks the rich physical suggestiveness of Maxwell's.
-
-The value of his memoir lies chiefly in the introduction of the retarded potentials. It may be remarked in passing that Lorenz's retarded potentials are not identical with Maxwell's scalar and vector potentials; for Lorenz's a is not a circuital vector, and Lorenz's φ is not, like Maxwell's, the electrostatic potential, but depends on the positions occupied by the charges at certain previous instants.
-
-For some years no progress was made either with Maxwell's theory or with Lorenz's. Meanwhile, Maxwell had in 1865 resigned his chair at King's College, and had retired to his estate in Dumfricsshire, where he occupied himself in writing a connected account of electrical theory. 
-
-In 1871, he returned to Cambridge as Professor of Experimental Physics; and two years later published his Treatise on Electricity and Magnetism.
-
-In this celebrated work is comprehended almost every branch of electric and magnetic theory; but the intention of the writer was to discuss the whole as far as possible from a single point of view, namely, that of Faraday; so that little or no account was given of the hypotheses which had been propounded in the two preceding decades by the great German electricians.
-
-So far as Maxwell's purpose was to disseminate the ideas of Faraday, it was undoubtedly fulfilled; but the Treatise was less successful when considered as the exposition of its author's own views.
 

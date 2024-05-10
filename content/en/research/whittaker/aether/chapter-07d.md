@@ -1,6 +1,6 @@
 ---
 title:  "The Conservation Of Dynamical Energy"
-heading:  "Chapter 7b"
+heading:  "Chapter 7d"
 weight: 65
 writer:
   name: Edmund Whittaker

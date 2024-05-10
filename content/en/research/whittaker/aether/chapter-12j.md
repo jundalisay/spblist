@@ -1,6 +1,6 @@
 ---
 title: "0. W. Richardson"
-heading: "Chapter 12h"
+heading: "Chapter 12j"
 weight: 122
 writer:
   name: Edmund Whittaker

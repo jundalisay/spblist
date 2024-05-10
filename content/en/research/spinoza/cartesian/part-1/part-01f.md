@@ -1,0 +1,206 @@
+---
+heading: Part 1f
+title: "Axioms Added To Descartes"
+image: "/covers/cartesian.jpg"
+description: "All things are predetermined by God, from his infinite power and not from his free will"
+writer:
+  name: Spinoza
+  url: https://en.wikipedia.org/wiki/Baruch_Spinoza
+weight: 17
+---
+
+
+## PROPOSITION 5
+
+The existence of Cod is known solely {rom the consideration of his nature.
+
+Proof: To say that something is contained in the nature or concept of a thing is the same as to say that it is true of that thing (Def. 9). 
+
+But necessary existence is contained in the concept of Cod (Ax. 6). Therefore it is true to say of Cod that there is necessary existence in him, or that he exists "
+
+Scholium From this proposition there follow many important consequences. 
+
+On this fact alone- that existence pertains to the nature of God, or that the concept of God involves necessary existence just as the concept of a triangle involves its 3 angles being equal to 2 right angles, or that his existence, just like his essence, is an eternal truth -depends alrnost all knowledge of the attributes of God through which we are brought to love of hirn and to the highest blessedness. Therefore it is rnuch to be desired that rnankind should corne round to our opinion on this subject.
+<!-- 31 This IS something everyone discovers In hnnself, insofar as he IS a thmkmg thmg. -->
+
+<!-- 32 [ef. Med5, 43-46 (AT7, 65-69); E1PllDeml; KVlIlIl-2 ] 
+1 34 Principles of Cartesian Philosophy -->
+
+There are sorne prejudices that prevent this frorn being so easily understood by everyone.33 
+
+If anyone, moved by goodwill and by the simple love of truth and his own true advantage, comes to look at the matter closely and to reflect on what is contained in the "Fifth Meditation" and the end of "Replies to the First Set of Objections," and also on what we say about Eternity in Chapter I Part 2 of our Appendix, he will undoubtedly understand the matter quite clearly and will in no way be able to doubt whether he has an idea of God (which is, of course, the first foundation of hurnan blessedness). 
+
+For when he realizes that God is completely different in kind from other things in respect of essence and existence, he will at once see clearly that the idea of God is far different from the ideas of other things. Therefore there is no need to detain the reader any longer on this subject.
+
+
+## PROPOSITION 6
+
+The existence of God is proved a posteriori from the mere fact that the idea of him is in us.
+
+Proof: The objective reality of any of our ideas requires a cause in which that same reality is contained not just objectively but formally or eminently (Ax. 9).
+
+We do have the idea of God (Defs. 2 and 8), and the objective reality of this idea is not contained in us either formally or eminently (Ax. 4), nor can it be contained in anything other than God himself (Def. 8). Therefore this idea of God, which is in us, requires God for its cause, and therefore God exists (Ax. 7) .'4
+
+Scholium: There are some who deny that they have any idea of God, and yet, as they declare, they worship and love him. And though you were to set before them the definition of God and the attributes of God, you will meet with no more success than if you were to labor to teach a man blind from birth the differences of colors as we see them.
+
+However, except to consider them as a strange type of creature halfway between man and beas� we should pay small heed to their words.
+
+How else, I ask, can we show the idea of some thing than by giving its definition and explaining its attributes? Because this is what we are doing in the case of the idea of God, there is no reason for us to be concerned over the words of men who deny the idea of God simply on the grounds that they cannot form an image of him in their brain. 
+
+<!-- 33 Read Principia Part 1 Art 16.
+34 [ef. Med3, 28-31 (AT7, 41J..-45) J 
+Part 1, Proposition 7 13 5 -->
+
+Furthermore, we should note that when Descartes quotes Axiom 4 to show that the objective reality of the idea of God is not contained in us either formally or eminently, he takes for granted that everyone knows that he is not an infinite substance, that is, supremely intelligent, supremely powerful, etc., and this he is entitled to do. For he who knows that he thinks, also knows that he doubts many
+things and that he does not understand everything clearly and distinctly.
+
+Finally, we should note that it also follows clearly from Definition 8 that there cannot be a number of Gods, but only one God, as we clearly demonstrate in
+Proposition II of this Part, and in Part 2 of our Appendix, Chapter 2.
+
+
+## PROPOSITION 7
+
+The existence of God is also proved from the fact that we ourselves exist while having the idea of him.
+
+Proof: If I had the force to preserve myself, I would be of such a nature that I would involve necessary existence (Lemma 2). Therefore (Corollary Lemma I) my nature would contain all perfections. But I find in myself, insofar as I am a thinking thing, many imperfections-as that I doubt, desire, etc.-and of this I am certain (Scholium Prop. 4). Therefore I have no force to preserve myself. 
+
+Nor can I say that the reason I now lack those perfections is that I now will to deny them to myself, for this would be clearly inconsistent with Lemma I, and with what I clearly find in myself (Ax. 5).
+
+Further, I cannot now exist, while I am existing, without being preserved either by myself- if indeed I have that force-or by someth ing else that does have that force (Axioms 10 and I I ). But I do exist (Scholium Prop. 4), and yet I do not have the force to preserve myself, as has just now been proved. 
+
+Therefore I am preserved by something else. But not by something else that does not have the force to preserve itself (by the same reasoning whereby I have just demonstrated that I am not able to preserve myself). 
+
+Therefore it must be by something else that has the force to preserve itself; that is (Lemma 2), something whose nature involves necessary existence; that is (Corollary Lemma I ), something that contains all the perfections that I clearly understand to pertain to a supremely perfect being. Therefore a supremely perfect being exists; that is (Def. 8), God exists. Q.E.D.
+
+Scholium: To demonstrate this proposition Descartes assumes the following 2 axioms:
+
+1. That which can effect what is greater or more difficult can also effect what is less.
+
+2. It is a greater thing to create or (Ax. 10) to preserve substance than the attributes or properties of substance.
+
+I do not know what he means by these axioms. 
+
+What does he call easy, and what difficult? 
+
+Nothing is said to be easy or difficult in an absolute sense, but only with respect to its cause. So one and the same thing can be said at the same time to be easy and difficult in respect of different causes.*
+
+> *For example, the spider easily weaves a web that men would find very difficult to weave. On the other hand, men find it quite easy to do many thmgs that are perhaps impossible for angels. 
+
+<!-- 1 36 Principles of Cartesian Philosophy -->
+
+
+Now if, of things that can be effected by the same cause, he calls those difficult that need great effort and those easy that need less (e.g., the force that can raise 50 pounds can raise twentyfive pounds twice as easily) then surely the axiom is not absolutely true, nor can he prove from it what he aims to prove. 
+
+For when he says, "If I had the force to preserve myself, I should also have the force to give myself all the perfections that I lack" (because this latter does not require as much power), I would grant him that the strength that I expend on preserving myself could effect many other thing.
+
+Far more easily had I not needed it to preserve myself, but I deny that, as long as I am using it to preserve myself,36 I can direct it to effecting other things however much easier, as can clearly be seen in our example.
+
+The difficulty is not removed by saying that, because I am a thinking thing, I must necessarily know whether I am expending all my strength in preserving myself, and whether this is also the reason why I do not give myself the other perfections. 
+
+For-apart from the fact that this point is not at issue, but only how the necessity of this proposition follows from this axiom- if I knew this, I should be a greater being and perhaps require greater strength than I have so as to preserve myself in that greater perfection. 
+
+I do not know whether it is a greater task to create or preserve substance than to create or preserve its attributes. 
+
+That is, to speak more clearly and in more philosophic terms, I do not know whether a substance, so as to preserve its attributes, does not need the whole of its virtue and essence with which it may be preserving itself.
+
+<!-- But let us leave this and examine further what our noble Author here intends;
+that is,  -->
+
+What does Descartes understand by 'easy' and what by 'difficult'. 
+
+I do not think, nor can I in any way be convinced, that by 'difficult' he understands that which is imp06sible (and therefore cannot be conceived in any way as coming into being),
+and by 'easy', that which does not imply any contradiction (and therefore can readily be conceived as coming into being) -although in the "Third Meditation" he
+seems at first glance to mean this when he says: "Nor ought I to think that perhaps those things that I lack are more difficult to acquire than those that are already in me. For on the contrary it is obvious that it was far more difficult for me, a thinking thing or substance, to emerge from nothing than ... ", etc. 37 
+
+This would not be consistent with the Author's words nor would it smack of his genius. For, passing over the first point, there is no relationship between the possible and the
+impossible, or between the intell igible and the nonintelligible, just as there is no relationship between something and nothing, and power has no more to do with
+impossible thing. than creation and generation, with nonentities; so there can be no comparison between them. Besides, I can compare things and understand
+their relationship only when I have a clear and distinct conception of them all.
+
+So I deny that it follows that he who can do the impossible can also do the possible. What sort of conclusion, I ask, would this be? That if someone can make a square circle, he will also be able to make a circle wherein all the lines drawn from the center to the circumference are equal. 
+
+<!-- 36 [I have diverged from the punctuabon of Gebhardt.- S.S.]
+" ICf. Med3, 32-ll (AT7, 48) I 
+Part 1, Proposition 7 137 -->
+
+
+Or if someone can bring it about that 'nothing' can be acted upon, and can use it as material to produce something, he
+will also have the power to make someth ing from something. 
+
+There is no agreement, or analogy, or comparison or any relationship whatsoever between these things and things like these. Anyone can see this, if only he gives a little attention to the matter. 
+
+Therefore I think this quite irreconcilable with Descartes's genius.
+
+But if I attend to the second of the two axioms just now stated, it appears that what he means by 'greater' and 'more difficult' is 'more perfect', and by 1esser' and 'easier', 1ess perfect'. 
+
+Yet this, again, seems very obscure, for there is here the same difficulty as before. As before, I deny that he who can do the greater can, at
+the same time and with the same effort (as must be supposed in the proposition),
+do the lesser.
+
+Again, when he says: "It is a greater thing to create or preserve substance than
+its attributes," surely he cannot understand by attributes that which is formally
+contained in substance and differs from substance itself only by conceptual abstraction. For then it would be the same thing to create substance as to create attributes. 
+
+Nor again, by the same reasoning, can he mean the properties of substance which necessarily follow from its essence and definition.
+
+Far less can he mean-and yet he appears to-the properties and attributes of another substance. For instance, if I say that I have the power to preserve myself, a finite thinking substance, I cannot for that reason say that I also have the power
+to give myself the perfections of infinite substance, which differs totally in essence
+from my essence. 
+
+For the force or essence whereby I preserve myself in my being is quite different in kind from the force or essence whereby absolutely infinite substance preserves itself, and from which its powers and properties are distinguishable only by abstract reason.38 So even though I were to suppose that I preserve myself, if I wanted to conceive that I could give myself the perfections of absolutely infinite substance, I should be supposing nothing other than this, that I
+could reduce my entire essence to nothing and create an infinite substance anew.
+
+This would be much more, surely, than merely to suppose that I can preserve myself, a finite substance.
+
+Therefore, because by the terms 'attributes' or 'properties' he can mean none of these things, there remain only the qualities that substance itself contains eminently (as this or that thought in the mind, which I clearly perceive to be lacking in me), but not the qualities that another substance contains eminently (as this or that motion in extension; for such perfections are not perfections for me, a thinking thing, and therefore they are not lacking to me). 
+
+But then what Descartes wants to prove-that if I am preserving myself, I also have the power to give myself all the perfections that I clearly see as pertaining to a most perfect being -can in no way be concluded from this axiom, as is quite clear from what I have said 38 
+
+<!-- 1 38 Principles of Cartesian Philosophy -->
+
+Note that the force by which substance preselVes Itself IS nothtng but lts essence, dlffenng from It only In name. 
+
+This wtll be a pamcular feature of our discussion to the Appendix, concerning the power of God previously. 
+
+However, not to leave the matter unproved, and to avoid all confusion, I have thought it advisable first of all to demonstrate the following Lemmas, and
+thereafter to construct on them the proof of Proposition 7.
+
+Lemma I The more perfect a thing is by its own nature, the greater the existence it involves, and the more necessary is the existence. Conversely, the more
+a thing by its own nature involves necessary existence, the more perfect it is.
+
+Proof Existence is contained in the idea or concept of everything (Ax.6). Then let it be supposed that A is a thing that has ten degrees of perfection. I say that its concept involves more existence than if it were supposed to con tain only five degrees of perfection. 
+
+Because we cannot affirm any existence of nothing (see Scholium Prop. 4), in proportion as we in thought subtract from its perfection and
+thereIore conceive it as participating more and more in nothing, to that extent we also deny the possibility of its existence. So if we conceive its degrees of perfection to be reduced indefinitely to nought or zero, it will contain no existence, or absolutely impossible existence. 
+
+But, on the other hand, if we increase its degrees of perfection indeIinitely, we shall conceive it as involving the utmost existence, and therefore the most necessary existence. That was the first thing to be proved.
+
+Now since these two things can in no way be separated (as is quite clear from Axiom 6 and the whole of Part I of this work), what we proposed to prove in the second place clearly follows.
+
+Note I. Although many things are said to exist necessarily solely on the grounds that there is given a cause determined to produce them, it is not of this that we are here speaking; we are speaking only of that necessity and possibility that follows solely from consideration of the nature or essence of a thing, without taking any account of its cause.
+
+Note 2. We are not here speaking of beauty and other 'perfections', which, out of superstition and ignorance, men have thought fit to call perfections; by perfection I understand only reality or being. For example, I perceive that more reality is contained in substance than in modes or accidents. 
+
+So I understand clearly that substance contains more necessary and more perfect existence than is contained in accidents, as is well established from Axioms 4 and 6.
+
+Corollary Hence it follows that whatever involves necessary existence is a supremely perfect being, or God. 
+
+Lemma 2 The nature of one who has the power to preserve himself involves necessary existence.
+
+Proof He who has the force to preserve himself has also the force to create himself (Ax. 1 0); that is (as everyone will readily admit), he needs no external cause to exist, but his own nature alone will be a sufficient cause of his existence, either possibly (Ax. 10) or necessarily. 
+
+But not possibly; for then (through what I have demonstrated with regard to Axiom 10) from the fact that he now existed it would
+not follow that he would thereafter exist (which is contrary to the hypothesis).
+
+Therefore necessarily; that is, his nature involves necessary existence. Q.E.D. 
+
+<!-- Part 1, Proposition 9 1 39 -->
+
+Corollary God can bring about every thing that we clearly perceive, just as we perceive it.
+
+Proof All this follows clearly from the preceding proposition. For there God's existence was proved from the fact that there must exist someone in whom are all
+the perfections of which there is an idea in us. 
+
+Now there is in us the idea of a power so great that by him alone in whom it resides there can be made the sky,
+the earth, and all the other things that are understood by me as possible. Therefore, along with God's existence, all these things, too, are proved of him.
+

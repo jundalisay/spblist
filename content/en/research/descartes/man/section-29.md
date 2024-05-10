@@ -63,7 +63,7 @@ Thus, this machine is arranged as to obey all the actions of the spirits equally
 
 When the machine is arranged in this way, it represents the body of a sleeping person to whom various phantasms occur through dreams. 
 
-For example, conceive of the difference between M and N, which we observe between a person half-awake and sleeping, and simultaneously dreaming, as shown in Figure XXXII.
+For example, conceive of the difference between M and N, which we observe between a person half-awake and sleeping, and simultaneously dreaming, as shown in Figure 32.
 
 
 <!-- But before I delve into sleep and its particular dreams, it will be worth considering all those things that happen in the brain during waking hours: how indeed ideas of objects are formed in the seat of imagination and common sense, and how they are preserved in memory, stirring the movement of all the limbs. -->

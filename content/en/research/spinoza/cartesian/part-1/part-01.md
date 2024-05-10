@@ -123,22 +123,26 @@ other bodily parts (since he had doubted these) but only insofar as he was doubt
 Examining this carefully, he realized that he could not doubt it for any of the foregoing reasons. For whether he is dreaming or awake as he
 thinks, nevertheless he thinks, and is. 13 
 
-And although others, or even he himself, had erred with regard to other matters; nevertheless, because they were erring,
-they were. He could imagine no author of his being so cunning as to deceive him
-on that score; for it must be granted that he himself exists as long as it is supposed
-that he is being deceived. 
+And although others, or even he himself, had erred with regard to other matters; nevertheless, because they were erring, they were. 
 
-In short, whatever other reason for doubting be devised,
-there could be adduced none of such a kind as not at the same time to make him
-most certain of his existence. Indeed, the more reasons are adduced for doubting,
-the more arguments are simultaneously adduced to convince him of his own existence. So, in whatever direction he turns in order to doubt, he is nevertheless compelled to utter these words: "I doubt, I think, therefore I am."14
+He could imagine no author of his being so cunning as to deceive him on that score; for it must be granted that he himself exists as long as it is supposed that he is being deceived. 
+
+In short, whatever other reason for doubting be devised, there could be adduced none of such a kind as not at the same time to make him most certain of his existence. Indeed, the more reasons are adduced for doubting, the more arguments are simultaneously adduced to convince him of his own existence. 
+
+So, in whatever direction he turns in order to doubt, he is nevertheless compelled to utter these words: "I doubt, I think, therefore I am."14
 
 
 Thus, in laying bare this truth, at the same time he also discovered the foundation of all the sciences, and also the measure and rule for all other truths-that whatever is perceived as clearly and distinctly as this, is true. l 5
-It is abundantly clear from the preceding that there can be no other foundation for the sciences than this; everything else can quite easily be called into doubt, but this can by no means be doubted. However, with regard to this foundation, it should be particularly noted that the statement, "I doubt, I think, therefore I am," is not a syllogism with the major premise omitted. 
 
-If it were a syllogism, the premises should be clearer and better known than the conclusion
-Therefore I am', and so 'I am' would not be the prime basis of all knowledge.
+<!-- It is abundantly clear from the preceding that  -->
+
+There can be no other foundation for the sciences than this. 
+
+Everything else can quite easily be called into doubt, but this can by no means be doubted. However, with regard to this foundation, it should be particularly noted that the statement, "I doubt, I think, therefore I am," is not a syllogism with the major premise omitted. 
+
+If it were a syllogism, the premises should be clearer and better known than the conclusion. 
+
+Therefore 'I am', and so 'I am' would not be the prime basis of all knowledge.
 
 Furthermore, it would not be a certain conclusion, for its truth would depend on universal premises which the Author had already called into doubt. So 'I think, therefore I am' is a Single independent proposition, equivalent to the following- 'I am, while thinking'.
 
@@ -148,7 +152,7 @@ In order to deduce this from what has gone before, our Author proceeds as follow
 
 He recalls to mind all thoughts that he once had about himself, that his soul is something tenuous like the wind or fire or the ether, infused among the denser parts of his body; that his body is better known to him than his soul; and that he perceives the former more clearly and distinctly.
 
-He realizes that all this is clearly inconsistent with what he has so far understood. For he was able to doubt
+
 
 <!-- " [Med2, 17-18 (An, 24-25) J
 14 [Med2, 18 (An, 25); Discourse on Method 4 (AT6, 32-33).1
@@ -157,11 +161,19 @@ principle directly from the cogito.]
 1 6 [Med2, 18 (An, 25-26) 1 
 124 Principles orear/esian Philosophy -->
 
-his body, but not his own essence insofar as he was thinking. Furthermore, he perceived these things neither clearly nor distinctly, and so, in accordance with the requirements of his method, he ought to reject them as false. Therefore, understanding that such things could not pertain to him insofar as he was as yet known to himself, he went on to ask what was that, pertaining peculiarly to his essence,
-which he had not been able to call into doubt and which had compelled him to conclude h is own existence. Of this kind there were- that he wanted to take precautions against being deceived, that he desired to understand many things, that he doubted everything that he could not understand, that up to this point he affirmed one thing only and everything else he denied and rejected as false, that he imagined many things even against his will, and, finally, that he was conscious of many things as proceeding from his senses. Because he could infer his existence with equal certainty from each of these points and could list none of them as belonging to the things that he had called into doubt, and finally, because all these things can be conceived under the same attribute, it follows that all these things are true and pertain to his nature.
 
-And so whenever he said, "I think," all the following modes of thinking were understood -doubting, understanding, affirming, denying, willing, non-will ing, imagining, and sensing 17
+He realizes that all this is clearly inconsistent with what he has so far understood. For he was able to doubt his body, but not his own essence insofar as he was thinking. 
+
+Furthermore, he perceived these things neither clearly nor distinctly, and so, in accordance with the requirements of his method, he ought to reject them as false. Therefore, understanding that such things could not pertain to him insofar as he was as yet known to himself, he went on to ask what was that, pertaining peculiarly to his essence, which he had not been able to call into doubt and which had compelled him to conclude h is own existence. 
+
+Of this kind there were- that he wanted to take precautions against being deceived, that he desired to understand many things, that he doubted everything that he could not understand, that up to this point he affirmed one thing only and everything else he denied and rejected as false, that he imagined many things even against his will, and, finally, that he was conscious of many things as proceeding from his senses. 
+
+Because he could infer his existence with equal certainty from each of these points and could list none of them as belonging to the things that he had called into doubt, and finally, because all these things can be conceived under the same attribute, it follows that all these things are true and pertain to his nature.
+
+So whenever he said, "I think," all the following modes of thinking were understood -doubting, understanding, affirming, denying, willing, non-will ing, imagining, and sensing 17
 
 Here it is important to note the following points, which will prove to be very useful later on when the distinction between mind and body is discussed. 
 
-First, these modes of thinking are clearly and distinctly understood independently of other matters that are still in doubt. Second, the clear and distinct conception we have of them would be rendered obscure and confused if we were to intermingle with them any of the matters of which we are still in doubt.
+1. These modes of thinking are clearly and distinctly understood independently of other matters that are still in doubt. 
+2. The clear and distinct conception we have of them would be rendered obscure and confused if we were to intermingle with them any of the matters of which we are still in doubt.
+

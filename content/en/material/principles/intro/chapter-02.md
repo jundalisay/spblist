@@ -135,6 +135,8 @@ In Social Superphysics, this is why those who know the 5 Layers (or 5 Elements) 
 
 In Bio Superphysics, this hierarchy principle manifests as Homeopathy or Chinese medicine having less bad side effects than Western Medicine. 
 
+These layers are detected by the 
+
 
 
 ## Unity or Disunity Instead of Order or Disorder

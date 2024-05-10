@@ -1,5 +1,5 @@
 ---
-title: "Political Treatise"
+title: "Political Treatise Simplified"
 description: ""
 image: "/covers/spinoza.jpg"
 # date: 2022-04-15

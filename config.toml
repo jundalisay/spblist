@@ -361,6 +361,11 @@ paginate = 12
       img = "https://www.pantrypoints.com/graphics/match.jpg"
       title = "Bio Superphysics: AI Disease Prediction"
       sub = "Machine learning disease prediction that uses Bio-Superphysics models (2023-current)"
+    [languages.en.params.tricon6.items.j]
+      url = "/bio/principles/part-01/chapter-01/"
+      img = "/photos/medieval/angkor.jpg"
+      title = "Bio Superphysics: Elemental Industry"
+      sub = "We tap Elementals for benefits just like agriculture taps plants for food and animals for work"
 
     [languages.en.params.tricon6.items.l]
       url = "https://pantrypoints.com"
@@ -373,7 +378,7 @@ paginate = 12
       img = "/photos/social/pantry.jpg"
       title = "Social Superphysics: The Resources Branch"
       sub = "The Resources Department is the fourth branch of goverment to complement the Executive, Legislative, and Judicicary (year 2100s)"
-    [languages.en.params.tricon6.items.j]
+    [languages.en.params.tricon6.items.p]
       url = "/social/supersociology/solutions/constitutional-virtues/"
       img = "/photos/objects/aquila.jpg"
       title = "Social Superphysics: Constitutional Virtues"
@@ -395,7 +400,7 @@ paginate = 12
       img = "/graphics/physics/qualimath.jpg"
       title = "Superphysics: Qualimath"
       sub = "Mathematics that applies the operations of mind onto qualities (2022-current)"
-    [languages.en.params.tricon6.items.p]
+    [languages.en.params.tricon6.items.y]
       url = "/superphysics/solutions/bullet-style-writing/"
       img = "/photos/econ/writer.jpg"
       title = "Superphysics: Bullet-Style Writing"

@@ -1,7 +1,7 @@
 ---
-heading: Part 1k
+heading: Part 4
 title: "Austria Experiment"
-description: ""
+description: "In 1999, A TEAM OF PHYSICISTS in Austria fired a series of soccer-ball-shaped molecules toward a barrier"
 weight: 22
 image: /covers/design.jpg
 ---
@@ -13,53 +13,37 @@ Those molecules, each made of sixty carbon atoms, are sometimes called buckyball
 
 Fuller’s geodesic domes were probably the largest soccer-ball-shaped objects in existence. The buckyballs were the smallest. The barrier toward which the scientists took their aim had, in effect, two slits through which the buckyballs could pass. Beyond the wall, the physicists situated the equivalent of a screen to detect and count the emergent molecules.
 
-If we were to set up an analogous experiment with real soccer balls, we would need a player with
-somewhat shaky aim but with the ability to launch the balls consistently at a speed of our
-choosing. We would position this player before a wall in which there are two gaps. On the far side
-of the wall, and parallel to it, we would place a very long net. Most of the player’s shots would hit
-the wall and bounce back, but some would go through one gap or the other, and into the net. If the gaps were only slightly larger than the balls, two highly collimated streams would emerge on the
-other side. If the gaps were a bit wider than that, each stream would fan out a little, as shown in the figure below.
+If we were to set up an analogous experiment with real soccer balls, we would need a player with somewhat shaky aim but with the ability to launch the balls consistently at a speed of our choosing. We would position this player before a wall in which there are two gaps. 
 
-Notice that if we closed off one of the gaps, the corresponding stream of balls would no longer get
-through, but this would have no effect on the other stream. If we reopened the second gap, that
-would only increase the number of balls that land at any given point on the other side, for we
-would then get all the balls that passed through the gap that had remained open, plus other balls
-coming from the newly opened gap. What we observe with both gaps open, in other words, is the
-sum of what we observe with each gap in the wall separately opened. That is the reality we are
-accustomed to in everyday life. But that’s not what the Austrian researchers found when they fired
-their molecules.
-In the Austrian experiment, opening the second gap did indeed increase the number of molecules
-arriving at some points on the screen—but it decreased the number at others, as in the figure
-below. In fact, there were spots where no buckyballs landed when both slits were open but where
+On the far side of the wall, and parallel to it, we would place a very long net. Most of the player’s shots would hit the wall and bounce back, but some would go through one gap or the other, and into the net. If the gaps were only slightly larger than the balls, two highly collimated streams would emerge on the other side. If the gaps were a bit wider than that, each stream would fan out a little, as shown in the figure below.
 
-balls did land when only one or the other gap was open. That seems very odd. How can opening a
-second gap cause fewer molecules to arrive at certain points?
+Notice that if we closed off one of the gaps, the corresponding stream of balls would no longer get through, but this would have no effect on the other stream. If we reopened the second gap, that would only increase the number of balls that land at any given point on the other side, for we would then get all the balls that passed through the gap that had remained open, plus other balls coming from the newly opened gap. 
 
-We can get a clue to the answer by examining the details. In the experiment, many of the
-molecular soccer balls landed at a spot centered halfway between where you would expect them to
-land if the balls went through either one gap or the other. A little farther out from that central
-position very few molecules arrived, but a bit farther away from the center than that, molecules
-were again observed to arrive. This pattern is not the sum of the patterns formed when each gap is
-opened separately, but you may recognize it from Chapter 3 as the pattern characteristic of
-interfering waves. 
+What we observe with both gaps open, in other words, is the sum of what we observe with each gap in the wall separately opened. 
 
-The areas where no molecules arrive correspond to regions in which waves
-emitted from the two gaps arrive out of phase, and create destructive interference; the areas where
-many molecules arrive correspond to regions where the waves arrive in phase, and create
-constructive interference.
+That is the reality we are accustomed to in everyday life. But that’s not what the Austrian researchers found when they fired their molecules.
 
-In the first two thousand or so years of scientific thought, ordinary experience and intuition were
-the basis for theoretical explanation. As we improved our technology and expanded the range of phenomena that we could observe, we began to find nature behaving in ways that were less and
-less in line with our everyday experience and hence with our intuition, as evidenced by the
-experiment with buckyballs. That experiment is typical of the type of phenomena that cannot be
-encompassed by classical science but are described by what is called quantum physics. In fact,
-Richard Feynman wrote that the double-slit experiment like the one we described above “contains
-all the mystery of quantum mechanics.”
+In the Austrian experiment, opening the second gap did indeed increase the number of molecules arriving at some points on the screen—but it decreased the number at others, as in the figure below. 
 
-The principles of quantum physics were developed in the first few decades of the twentieth century
-after Newtonian theory was found to be inadequate for the description of nature on the atomic—or
-subatomic—level. The fundamental theories of physics describe the forces of nature and how
-objects react to them. Classical theories such as Newton’s are built upon a framework reflecting
+In fact, there were spots where no buckyballs landed when both slits were open but where balls did land when only one or the other gap was open. That seems very odd. How can opening a second gap cause fewer molecules to arrive at certain points?
+
+We can get a clue to the answer by examining the details. In the experiment, many of the molecular soccer balls landed at a spot centered halfway between where you would expect them to land if the balls went through either one gap or the other. 
+
+A little farther out from that central position very few molecules arrived, but a bit farther away from the center than that, molecules were again observed to arrive. 
+
+This pattern is not the sum of the patterns formed when each gap is opened separately, but you may recognize it from Chapter 3 as the pattern characteristic of interfering waves. 
+
+The areas where no molecules arrive correspond to regions in which waves emitted from the two gaps arrive out of phase, and create destructive interference; the areas where many molecules arrive correspond to regions where the waves arrive in phase, and create constructive interference.
+
+In the first 2,000 or so years of scientific thought, ordinary experience and intuition were the basis for theoretical explanation. 
+
+As we improved our technology and expanded the range of phenomena that we could observe, we began to find nature behaving in ways that were less and less in line with our everyday experience and hence with our intuition, as evidenced by the experiment with buckyballs. 
+
+That experiment is typical of the type of phenomena that cannot be encompassed by classical science but are described by what is called quantum physics. In fact,
+Richard Feynman wrote that the double-slit experiment like the one we described above “contains all the mystery of quantum mechanics.”
+
+The principles of quantum physics were developed in the first few decades of the twentieth century after Newtonian theory was found to be inadequate for the description of nature on the atomic—or
+subatomic—level. The fundamental theories of physics describe the forces of nature and how objects react to them. Classical theories such as Newton’s are built upon a framework reflecting
 everyday experience, in which material objects have an individual existence, can be located at
 definite locations, follow definite paths, and so on. Quantum physics provides a framework for
 understanding how nature operates on atomic and subatomic scales, but as we’ll see in more detail

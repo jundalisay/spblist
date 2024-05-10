@@ -1,6 +1,6 @@
 ---
 title: "Space Transformations"
-heading: "Chapter 12c"
+heading: "Chapter 12e"
 weight: 112
 writer:
   name: Edmund Whittaker

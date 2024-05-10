@@ -1,7 +1,7 @@
 ---
 title:  "Canal Rays and X-Rays"
 heading:  "Chapter 11g"
-weight: 106
+weight: 107
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker

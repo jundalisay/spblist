@@ -1,6 +1,6 @@
 ---
 title:  "The Peltier Effect"
-heading:  "Chapter 7b"
+heading:  "Chapter 7j"
 weight: 69
 writer:
   name: Edmund Whittaker
@@ -58,23 +58,39 @@ As Seebeck had shown, a thermo-electric current will be set up in the circuit. T
 
 so the Peltier effect 
 
-{\displaystyle \textstyle \prod _{B}^{A}(T)} must be directly proportional to the absolute temperature T. This result, however, as Thomson well knew, was contradicted by the observations of Cumming, who had shown that when the temperature of the hot junction is gradually increased, the electromotive force rises to a maximum value and then decreases. 
+...
+<!-- {\displaystyle \textstyle \prod _{B}^{A}(T)}  -->
+
+
+must be directly proportional to the absolute temperature T. 
+
+This result, however, as Thomson well knew, was contradicted by the observations of Cumming, who had shown that when the temperature of the hot junction is gradually increased, the electromotive force rises to a maximum value and then decreases. 
 
 The contradiction led Thomson to predict the existence of a hitherto unrecognized thermo-electric phenomenon-namely, a reversible absorption of heat at places in the circuit other than the junctions. Suppose that a current flows along a wire which is of the same metal throughout, but varies in temperature from point to point. Thomson showed that heat must be liberated at some points and absorbed at others, so as either to accentuate or to diminish the differences of temperature at the different points of the wire.
 
 Suppose that the heat absorbed from external sources when unit electric charge passes from the absolute temperature T to the temperature (T + δT) in a metal A is denoted by SA(T).δT. The thermodynamical equation now takes the corrected form
 
+...
 
 Since the metals A and B are quite independent, this gives
+
+...
 
 This equation connects Thomson's "specific heat of electricity" SA(T) with the Peltier effect.
 
 In 1870 P. G. Tait[92] found experimentally that the specific heat of electricity in pure metals is proportional to the absolute temperature. We may therefore write 
 
-{\displaystyle \rho _{A}}, denotes a constant characteristic of the metal 
-�
-A. The thermodynamical equation then becomes
+...
+<!-- {\displaystyle \rho _{A}},  -->
 
+denotes a constant characteristic of the metal 
+
+
+...
+
+The thermodynamical equation then becomes
+
+...
 
 where πA denotes another constant characteristic of the metal. The chief part of the Peltier effect arises from the term πAT.
 

@@ -1,7 +1,7 @@
 ---
-heading: Part 3c
+heading: Part 2c
 title: "Descartes"
-description: ""
+description: "The modern concept of laws of nature emerged in the 17th century"
 weight: 12
 image: /covers/design.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Non-polarized Light"
-heading:  "Chapter 4c"
-weight: 30
+heading:  "Chapter 4e"
+weight: 31
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker

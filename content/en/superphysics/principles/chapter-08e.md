@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8b"
+heading: "Chapter 8e"
 title: "The 5 Layers for Goal-Setting"
 # date: 2015-09-09
 date: 2023-03-19

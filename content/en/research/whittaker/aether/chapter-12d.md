@@ -1,7 +1,7 @@
 ---
 title: "Lorentz Modification"
 heading: "Chapter 12d"
-weight: 110
+weight: 111
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker

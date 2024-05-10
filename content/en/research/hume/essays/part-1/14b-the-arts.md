@@ -139,13 +139,31 @@ The models left us by the ancients gave birth to all the arts about 200 years ag
 
 So late as the emperor Justinian, the Poet, by way of distinction, was understood, among the Greeks, to be Homer; among the Romans, Virgil. 
 
-Such admiration still remained for these divine geniuses; though no poet had appeared for many centuries, who could justly pretend to have imitated them. A man’s genius is always, in the beginning of life, as much unknown to himself as to others; and it is only after frequent trials, attended with success, that he dares think himself equal to those undertakings, in which those, who have succeeded, have fixed the admiration of mankind. If his own nation be already possessed of many models of eloquence, he naturally compares his own juvenile exercises with these; and being sensible of the great disproportion, is discouraged from any farther attempts, and never aims at a rivalship with those authors, whom he so much admires. A noble emulation is the source of every excellence. Admiration and modesty naturally extinguish this emulation. And no one is so liable to an excess of admiration and modesty, as a truly great genius. Next to emulation, the greatest encourager of the noble arts is praise and glory. 
+Such admiration still remained for these divine geniuses.
+
+Though no poet had appeared for many centuries, who could justly pretend to have imitated them. 
+
+A man’s genius is always, in the beginning of life, as much unknown to himself as to others. 
+
+It is only after frequent trials, attended with success, that he dares think himself equal to those undertakings, in which those, who have succeeded, have fixed the admiration of mankind. 
+
+If his own nation already has many models of eloquence, he naturally compares his own juvenile exercises with these. The great disproportion discourages him from any farther attempts. 
+
+He never aims to rival those authors he admires so much. 
+
+A noble emulation is the source of every excellence. 
+
+Admiration and modesty naturally extinguish this emulation. And no one is so liable to an excess of admiration and modesty, as a truly great genius. 
+
+Next to emulation, the greatest encourager of the noble arts is praise and glory. 
 
 A writer is animated with new force, when he hears the applauses for his former productions. This helps him reach perfection. But when the posts of honour are all occupied, his first attempts are but coldly received by the public, They would be compared to productions more excellent and established. 
 
 Were Moliere38 and Corneille to bring upon the stage at present their early productions, which were formerly so well received, it would discourage the young poets, to see the indifference and disdain of the public. The ignorance of the age alone could have given admission to the Prince of Tyre; but it is to that we owe the Moor: Had Every man in his humour been rejected, we had never seen Volpone.39 Perhaps, it may not be for the advantage of any nation to have the arts imported from their neighbours in too great perfection. This extinguishes emulation, and sinks the ardour of the generous youth. 
 
-So many models of Italian painting brought into England, instead of exciting our artists, is the cause of their small progress in that noble art. The same, perhaps, was the case of Rome, when it received the arts from Greece. That multitude of polite productions in the French language, dispersed all over Germany and the North, hinder these nations from cultivating their own language, and keep them still dependent on their neighbours for those elegant entertainments. It is true, the ancients had left us models in every kind of writing, which are highly worthy of admiration. 
+So many models of Italian painting brought into England, instead of exciting our artists, is the cause of their small progress in that noble art. 
+
+The same, perhaps, was the case of Rome, when it received the arts from Greece. That multitude of polite productions in the French language, dispersed all over Germany and the North, hinder these nations from cultivating their own language, and keep them still dependent on their neighbours for those elegant entertainments. It is true, the ancients had left us models in every kind of writing, which are highly worthy of admiration. 
 
 But besides that they were written in languages, known only to the learned; besides this, the comparison is not so perfect or entire between modern wits, and those who lived in so remote an age. Had Waller been born in Rome, during the reign of Tiberius, his first productions had been despised, when compared to the finished odes of Horace. 
 

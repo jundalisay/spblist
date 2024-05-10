@@ -1,12 +1,12 @@
 ---
-title:  "Leroux's Phenomenon"
-heading:  "Chapter 8e"
+title:  "Larmor's Theory"
+heading:  "Chapter 9b"
 weight: 84
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
 image:  "/covers/history.jpg"
-description: "We have now discussed models in which the magnetic force is represented as the velocity in a liquid, and others in which it is represented as the displacement in an elastic solid"
+description: "Larmor supposed the electric charge to exist in the form of discrete electrons, for the creation of which he suggested the following ideal process"
 ---
 
 

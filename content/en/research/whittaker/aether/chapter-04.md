@@ -1,7 +1,7 @@
 ---
 title:  "The Luminiferous Medium, From Bradley To Fresnel"
 heading:  "Chapter 4"
-weight: 26
+weight: 27
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker

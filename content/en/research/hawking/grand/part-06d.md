@@ -76,34 +76,37 @@ In fact, the term “big bang” was coined in 1949 by Cambridge astrophysicist 
 
 The first direct observations supporting the idea didn’t come until 1965, with the discovery that there is a faint background of microwaves throughout space.
 
-This cosmic microwave background radiation, or CMBR, is the same as that in your microwave oven, but much less powerful. You can observe the CMBR yourself by tuning your television to an unused channel—a few percent of the snow you see on the screen will be caused
-by it. 
+This cosmic microwave background radiation, or CMBR, is the same as that in your microwave oven, but much less powerful. 
 
-The radiation was discovered by accident by two Bell Labs scientists trying to eliminate such static from their microwave antenna. At first they thought the static might be coming from the droppings of pigeons roosting in their apparatus, but it turned out their problem had a more
-interesting origin—the CMBR is radiation left over from the very hot and dense early universe that would have existed shortly after the big bang. As the universe expanded, it cooled until the radiation became just the faint remnant we now observe.
+You can observe the CMBR yourself by tuning your television to an unused channel—a few percent of the snow you see on the screen will be caused by it. 
 
-At present these microwaves could heat your food to only about −270 degrees Centigrade—3 degrees above absolute zero, and not very
-useful for popping corn.
+The radiation was discovered by accident by two Bell Labs scientists trying to eliminate such static from their microwave antenna. 
 
-Astronomers have also found other fingerprints supporting the big bang picture of a hot, tiny early universe. For example, during the first minute or so, the universe would have been hotter than the center of a typical star. During that period the entire universe would have acted as a nuclear fusion reactor. 
+At first, they thought the static might be coming from the droppings of pigeons roosting in their apparatus. But it turned out that it was radiation left over from the very hot and dense early universe that would have existed shortly after the big bang. 
+
+As the universe expanded, it cooled until the radiation became just the faint remnant we now observe.
+
+At present, these microwaves could heat your food to only about −270 degrees Centigrade—3 degrees above absolute zero, and not very useful for popping corn.
+
+Astronomers have also found other fingerprints supporting the big bang picture of a hot, tiny early universe. 
+
+For example, during the first minute or so, the universe would have been hotter than the center of a typical star. During that period the entire universe would have acted as a nuclear fusion reactor. 
 
 The reactions would have ceased when the universe expanded and cooled sufficiently, but the theory predicts that this should have left a universe composed mainly of hydrogen, but also about 23 percent helium, with traces of lithium (all heavier elements were made later, inside stars).
-The calculation is in good accordance with the amounts of helium, hydrogen, and lithium we
-observe.
+
+The calculation is in good accordance with the amounts of helium, hydrogen, and lithium we observe.
 
 Measurements of helium abundance and the CMBR provided convincing evidence in favor of the big bang picture of the very early universe, but although one can think of the big bang picture as a valid description of early times, it is wrong to take the big bang literally, that is, to think of Einstein’s theory as providing a true picture of the origin of the universe. 
 
-That is because general relativity predicts there to be a point in time at which the temperature, density, and curvature of the
-universe are all infinite, a situation mathematicians call a singularity. 
+That is because general relativity predicts there to be a point in time at which the temperature, density, and curvature of the universe are all infinite, a situation mathematicians call a singularity. 
 
-To a physicist this means that Einstein’s theory breaks down at that point and therefore cannot be used to predict how the universe began, only how it evolved afterward. 
+To a physicist, this means that Einstein’s theory breaks down at that point and therefore cannot be used to predict how the universe began, only how it evolved afterward. 
 
 So although we can employ the equations of general relativity and our observations of the heavens to learn about the universe at a very young age, it is not correct to carry the big bang picture all the way back to the beginning.
 
 We will get to the issue of the origin of the universe shortly, but first a few words about the first phase of the expansion. Physicists call it inflation. Unless you’ve lived in Zimbabwe, where currency inflation recently exceeded 200,000,000 percent, the term may not sound very explosive. 
 
-But according to even conservative estimates, during this cosmological inflation, the universe expanded by a factor of 1,000,000,000,000,000,000,000,000,000,000 in .00000000000000000000000000000000001 second. It was as if a coin 1 centimeter in diameter
-suddenly blew up to ten million times the width of the Milky Way. 
+But according to even conservative estimates, during this cosmological inflation, the universe expanded by a factor of 1,000,000,000,000,000,000,000,000,000,000 in .00000000000000000000000000000000001 second. It was as if a coin 1 centimeter in diameter suddenly blew up to ten million times the width of the Milky Way. 
 
-That may seem to violate relativity, which dictates that nothing can move faster than light, but that speed limit does not
-apply to the expansion of space itself.
+That may seem to violate relativity, which dictates that nothing can move faster than light, but that speed limit does not apply to the expansion of space itself.
+

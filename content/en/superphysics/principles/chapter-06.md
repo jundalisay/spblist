@@ -2,7 +2,7 @@
 heading: "Chapter 6"
 title: "The Nature of Feelings and Emotions"
 date: 2020-12-15
-weight: 19
+weight: 20
 image: /graphics/psych/feelings.jpg
 description: "Desire is a fundamental kind of feeling which we sense through our hearts"
 writer:

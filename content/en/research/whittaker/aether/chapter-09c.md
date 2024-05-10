@@ -1,5 +1,5 @@
 ---
-title:  "Riemann's Equation "
+title:  "Riemann's Equation"
 heading:  "Chapter 9c"
 weight: 86
 writer:

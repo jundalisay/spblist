@@ -34,9 +34,13 @@ The heart chakra <!-- bhútatattvas, and práńendriya is more or less --> is
 - Every activity of the Heart Chakra is pulsative – contracting and expanding<!-- (saḿkoca-vikáshii) -->.
 - The auxiliary waves of the Heart Chakra flow in a pulsative way -- there is an arrangement of alternative motions and pauses in their flows. 
 
-It is during **the state of pause and potentiality** that the mindstuff:
+It is during **the state of pause and potentiality** that the mindstuff*:
 - is able to receive the quantum-perceptions<!--  tanmátras -->
 - takes the form of shapes represented by those quantum-perceptions<!-- tanmátras -->.
+
+> *Superphysics Note: In Cartesian Biology, the mindstuff is formed at the pineal gland. 
+
+
 
 Unless the mindstuff <!-- citta --> takes the form of incoming the quantum-perceptions, <!-- tanmátras --> no perception is possible. 
 - **This is because the ego can work only when the mindstuff <!-- citta --> adopts a form.**

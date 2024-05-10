@@ -1,7 +1,7 @@
 ---
 title:  "Augustin Fresnel"
-heading:  "Chapter 4c"
-weight: 29
+heading:  "Chapter 4d"
+weight: 30
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker

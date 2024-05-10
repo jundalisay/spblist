@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4
 title: "Duration and Time"
-image: "/covers/cartesian.jpg"
+image: "/covers/metaphysical.jpg"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

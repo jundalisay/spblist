@@ -1,7 +1,7 @@
 ---
-heading: Part 1j
+heading: Part 3d
 title: "Different Theories"
-description: ""
+description: "With each theory or model, our concepts of reality and of the fundamental constituents of the universe have changed. For example, consider the theory of light"
 weight: 20
 image: /covers/design.jpg
 ---

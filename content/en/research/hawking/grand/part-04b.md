@@ -1,7 +1,7 @@
 ---
-heading: Part 5b
+heading: Part 4b
 title: "James Clerk Maxwell"
-description: ""
+description: "The predictions of Newtonian theory matches the view of reality that we experience."
 weight: 24
 image: /covers/design.jpg
 ---

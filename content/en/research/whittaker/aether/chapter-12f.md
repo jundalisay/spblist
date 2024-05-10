@@ -1,6 +1,6 @@
 ---
 title: "The FitzGerald contraction of matter"
-heading: "Chapter 12d"
+heading: "Chapter 12f"
 weight: 114
 writer:
   name: Edmund Whittaker

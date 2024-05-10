@@ -1,140 +1,120 @@
 ---
-title:  "Maxwell Versus Thomson"
-heading:  "Chapter 8c"
-weight: 73
+title:  "Leroux's Phenomenon"
+heading:  "Chapter 8f"
+weight: 74
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
 image:  "/covers/history.jpg"
-description: "Maxwell taught that the dielectric between the coatings is the seat of a process"
+description: "Leroux's phenomenon was called anomalous dispersion"
 ---
 
 
+At this time, important developments were in progress in the last-named subject. Since the time of Fresnel, theories of dispersion had proceeded[41] from the assumption that the radii of action of the particles of luminiferous media are so large as to be comparable with the wave-length of light.
 
-It was inevitable that a theory so novel and so capacious as that of Maxwell should involve conceptions which his contemporaries understood with difficulty and accepted with reluctance.
+It was generally supposed that the aether is loaded by the molecules of ponderable matter, and that the amount of dispersion depends on the ratio of the wave-length to the distance between adjacent molecules. 
 
-Of these the most difficult and unacceptable was the principle that the total current is always a circuital vector; or, as it is generally expressed, that "all currents are closed." 
+This hypothesis was, however, seen to be inadequate, when, in 1862, F. P. Leroux[42] found that a prism filled with the vapour of iodine refracted the red rays to a greater degree than the blue rays; for in all theories which depend on the assumption of a coarse-grained lumini. ferous medium,, the refractive index increases with the frequency of the light.
 
-According to the older electricians, a current which is employed in charging a condenser is not closed, but terminates at the coatings of the condenser, where charges are accumulating.
+Leroux's phenomenon was called "anomalous dispersion". 
 
-Maxwell, on the other hand, taught that the dielectric between the coatings is the seat of a process—the displacement-current—which is proportional to the rate of increase of the electric force in the dielectric; and that this process produces the same magnetic effects as a true current, and forms, so to speak, a continuation, through the dielectric, of the charging current, so that the latter may be regarded as flowing in a closed circuit.
+Later investigators[43] showed that it was generally associated with "surface-colour," i.e., the property of brilliantly reflecting incident light of some particular frequency. 
 
-Another characteristic feature of Maxwell's theory is the conception—for which, as we have seen, lie was largely indebted to Faraday and Thomson—that magnetic energy is the kinetic energy of a medium occupying the whole of space, and that electric energy is the energy of strain of the same medium. By this conception electromagnetic theory was brought into such close parallelism with the elastic-solid theories of the aether, that it was bound to issue in an electromagnetic theory of light.
+Such an association seemed to indicate that the dispersive property of a substance is intimately connected with a certain frequency of vibration which is peculiar to that substance, and which, when it happens to fall within the limits of the visible spectrum, is apparent in the surface-colour. 
 
-Maxwell's views were presented in a more developed form in a memoir entitled "A Dynamical Theory of the Electromagnetic Field," which was read to the Royal Society in 1864;[31] in this the architecture of his system was displayed, stripped of the scaffolding by aid of which it had been first erected.
+This idea of a frequency of vibration peculiar to each kind of ponderable. matter is found in the writings of Stokes as far back as the year 1852;[44] when, discussing fluorescence, he remarked:—"Nothing seems more natural than to suppose that the incident vibrations of the luminiferous aether produce vibratory movements among the ultimate molecules of sensitive substances, and that the molecules in turn, swinging on their own account, produce vibrations in the luminiferous aether, and thus cause the sensation of light. 
 
-As the equations employed were for the most part the same as had been set forth in the previous investigation, they need only be briefly recapitulated. The magnetic induction μH, being a circuital vector, may be expressed in terms of a vector-potential A by the equation
+The periodic times of these vibrations depend on the periods in which the molecules are disposed to swing, not upon the periodic time of the incident vibrations."
 
-```
-μH = curl A.
-```
+This principle of considering the molecules as dynamical systems which possess natural free periods, and which interact with the incident vibrations, lies at the basis of We may all modern theories of dispersion. 
 
-The electric displacement D is connected with the volume-density ρ of free electric charge by tho electrostatic equation
+The earliest of these was devised by Maxwell, who, in the Cambridge Mathematical Tripos for 1869,[45] published the results of the following investigation:—
 
-div D = ρ.
+A model of a dispersive medium may be constituted by embedding systems which represent the atoms of ponderable matter in a medium which represents the aether. picture each atom[46] as composed of a single massive particle supported symmetrically by springs from the interior face of a massless spherical shell: if the shell be fixed, the particle will be capable of executing vibrations about the centre of the sphere, the effect of the springs being equivalent to a force on the particle proportional to its distance from the centre. 
 
-The principle of conservation of electricity yields the equation
+The atoms thus constituted may be supposed to occupy small spherical cavities in the aether, the outer shell of each atom being in contact with the aether at all points and partaking of its motion. An immense number of atoms is supposed to exist in each unit volume of the dispersive medium, so that the medium as a whole is fine-grained.
 
-div ι = -∂ρ/∂t,
+Suppose that the potential energy of strain of free aether per unit volume is
 
-where ι denotes the conduction-current.
 
-The law of induction of currents—namely, that the total electromotive force in any circuit is proportional to the rate of decrease of the number of lines of magnetic induction which pass through it—may be written
+where η denotes the displacement and E an elastic constant; so that the equation of wave-propagation in free aether is
 
--curl E = μḢ;
 
-from which it follows that the electric force E must be expressible in the form
 
-E = - Å + grad,
+where ρ denotes the aethereal density.
 
-where ψ denotes some scalar function. The quantities A and ψ which occur in this equation are not as yet completely determinate; for the equation by which A is defined in terms of the magnetic induction specifies only the circuital part of A; and as the irrotational part of A is thus indeterminate, it is evident that ψ also must be indeterminate, Maxwell decided the matter by assuming[32] A to be a circuital vector; thus
-div A = 0,
-and therefore
-div E = -∇2ψ,
-from which equation it is evident that represents the electrostatic potential.
+Then if σ denote the mass of the atomic particles in unit volume, (η + ζ) the total displacement of an atomic particle at the place x at tine t, and σp2ζ the attractive force, it is evident that for the compound medium the kinetic energy per unit volume is
 
-The principle which is peculiar to Maxwell's theory must now be introduced. 
 
-Currents of conduction are not the only kind of currents; even in the older theory of Faraday, Thomson, and Mossotti, it had been assumed that electric charges are set in motion in the particles of a dielectric when the dielectric is subjected to an electric field; and the predecessors of Maxwell would not have refused to admit that the motion of these charges is in some sense a current.
 
-Suppose, then, that S denotes the total current which is capable of generating a magnetic field: since the integral of the magnetic force round any curve is proportional to the electric current which flows through the gap enclosed by the curve, we have in suitable units
-curl H = 4πS.
+and the potential energy per unit volume is
 
+.
 
-In order to determine S, we may consider the case of a condenser whose coatings are supplied with electricity by a conduction-current ι per unit-area of coating. If ± σ denote the surface-density of electric charge on the coatings, we have
+The equations of motion, derived by the process usual in dynamics, are
 
-i = ∂σ/∂t, and σ = D,
 
-where D denotes the magnitude of the electric displacement D in the dielectric between the coatings; so ι = Ḋ. But since the total current is to be circuital, its value in the dielectric must be the same as the value ι which it has in the rest of the circuit; that is, the current in the dielectric has the value Ḋ. We shall assume that the current in dielectrics always has this value, so that in the general equations the total current must be understood to be ι + Ḋ.
+Consider the propagation, through the medium thus constituted, of vibrations whose frequency is n, and whose velocity of propagation in the medium is v; so that η and ζ are harmonic functions of n(t - x/v). Substituting these values in the differential equations, we obtain
 
-The above equations, together with those which express the proportionality of E to D in insulators, and to ι in conductors, constituted Maxwell's system for a field formed by isotropic bodies which are not in motion. When the magnetic field is due entirely to currents (including both conduction-currents and displacement-currents), so that there is no magnetization, we have
 
+`ρ/E` has the value `1/c2`, where `c` denotes the velocity of light in free aether; and c/v is the refractive index μ of the medium for vibrations of frequency n. So the equation, which may be written
 
-so that the vector-potential is connected with the total current by an equation of the same form as that which connects the scalar potential with the density of electric charge.
 
-To these potentials Maxwell inclined to attribute a physical significance; he supposed ψ to be analogous to a pressure subsisting in the mass of particles in his model, and A to be the measure of the electrotonic state. 
 
-The two functions are, however, of merely analytical interest, and do not correspond to physical entities. For let two oppositely-charged conductors, placed close to each other, give rise to an electrostatic field throughout all space. In such a field the vector-potential A is everywhere zero, while the scalar potential ψ has a definite value at every point.
+determines the refractive index of the substance for vibrations of any frequency n. The same formula was independently obtained from similar considerations three years later by W. Sellmeier.[47]
 
-Now let these conductors discharge each other; the electrostatic force at any point of space remains unchanged until the point in question is reached by a wave of disturbance, which is propagated outwards from the conductors with the velocity of light, and which annihilates the field as it passes over it. But this order of events is not reflected in the behaviour of Maxwell's functions ψ and A; for at the instant of discharge, ψ is everywhere annihilated, and A suddenly acquires a finite value throughout all space.
+If the oscillations are very slow, the incident light being in the extreme infra-red part of the spectrum, n is small, and the equation gives approximately μ2 = (ρ + σ)/ρ: for such oscillations, each atomic particle and its shell move together as a rigid body, so that the effect is the same as if the aether were simply loaded by the masses of the atomic particles, its rigidity remaining unaltered.
 
-As the potentials do not possess any physical significance, it is desirable to remove them from the equations. This was afterwards done by Maxwell himself, who[33] in 1868. proposed to base the electromagnetic theory of light solely on the equations
+The dispersion of light within the limits of the visible spectrum is for most substances controlled by a natural frcquency p which corresponds to a vibration beyond the violet end of the visible spectrum: so that, n being smaller than p, we may expand the fraction in the formula of dispersion, and obtain the equation
 
 
-together with the equations which define S in terms of E, and B in terms of H.
 
-The memoir of 1864 contained an extension of the equations to the case of bodies in motion; the consideration of which naturally revives the question as to whether the aether is in any degree carried along with a body which moves through it.
+which resembles the formula of dispersion in Cauchy's theory[48]; indeed, we may say that Cauchy's formula is the expansion of Maxwell's formula in a series which, as it converges only when a has values within a limited range, fails to represent the phenomena outside that range.
 
-Maxwell did not formulate any express doctrine on this subject; but his custom was to treat matter as if it were merely a modification of the aether, distinguished only by altered values of such constants as the magnetic permeability and the specific inductive capacity; so that his theory may be said to involve the assumption that matter and aether move together. 
+The theory as given above is defective in that it becomes meaningless when the frequency n of the incident light is equal to the frequency p of the free vibrations of the atoms. 
 
-In deriving the equations which are applicable to moving bodies, he made use of Faraday's principle that the electromotive force induced in a body depends only on the relative motion of the body and the lines of magnetic force, whether one or the other is in motion absolutely. 
+This defect may be remedied by supposing that the motion of an atomic particle relative to the shell in which it is contained is opposed by a dissipative force varying as the relative velocity: such a force suffices to prevent the forced vibration from becoming indefinitely great as the period of the incident light approaches the period of free vibration of the atoms; its introduction is justified by the fact that vibrations in this part of the spectrum suffer absorption in passing through the medium. When the incident vibration is not the same region of the spectrum as the free vibration, the absorption is not of much importance, and may be neglected.
 
-From this principle it may be inferred that the equation which determines the electric force[34] in terms of the potentials, in the case of a body which is moving with velocity w, is
+The spectroscope shows that the atomic systems which emit and absorb radiation in actual bodies possess more than one distinct free period. The theory already given may, however, readily be extended[49] to the case in which the atoms have several natural frequencies of vibration; we have only to suppose that the external massless rigid shell is connected by springs to an interior massive rigid shell, and that this again is connected by springs to another massive shell inside it, and so on. 
 
+The corresponding extension of the equation for the refractive index is
 
-Maxwell thought that the scalar quantity `ψ` in this equation represented the electrostatic potential. 
 
-But the researches of other investigators[35] have indicated that it represents the sum of the electrostatic potential and the quantity (A.w).
 
-The electromagnetic theory of light was moreover extended in this memoir so as to account for the optical properties of crystals. For this purpose Maxwell assumed that in crystals the values of the coefficients of electric and magnetic induction depend on direction, so that the equation
+where p1, p2, … denote the frequencies of the natural periods of vibration of the atom.
 
-is replaced by
+The validity of the Maxwell-Sellmeier formula of dispersion was strikingly confirmed by experimental researches in the closing years of the nineteenth century. In 1897 Rubens[50] showed that the formula represents closely the refractive indices of sylvin (potassium chloride) and rock-salt, with respect to light and radiant heat of wave-lengths between 4,240 A.U. and 223,000 A.U.
 
-and similarly the equation
+The constants in the formula being known from this comparison, it was possible to predict tho dispersion for radiations of still lower frequency; and it was found that the square of the refractive index should have a negative value (indicating complete reflexion) for wavelengths 370,000 A.U. to 550,000 A.U. in the case of rock-salt, and for wave-lengths 450,000 to 670,000 A.V. in the case of sylvin. This inference was verified experimentally in the following year.[51]
 
 
-is replaced by
 
+Maxwell successfully employed his electromagnetic theory to explain the propagation of light in:
+- isotropic media
+- crystals, and
+- metals.
 
-The other equations are the same as in isotropio media; so that the propagation of disturbance is readily seen to depend on the equation
+It may seem strange that he did not apply it to the problem of reflexion and refraction especially since the study of the optics of crystals had already revealed a close analogy between the electromagnetic theory and MacCullagh's elastic-solid theory.
 
+In order to explain reflexion and refraction eloctromagnetically, nothing more was necessary than to transcribe MacCullagh's investigation of the same problem, interpreting ė (the time-flux of the displacement of MacCullagh's aether) as the magnetic force, and curl e as the electric displacement. As in MacCullagh's theory the difference between the contiguous media is represented by a difference of their elastic constants, 80 in the electromagnetic theory it may be represented by a difference in their specific inductive capacities. 
 
+From a letter which Maxwell wrote to Stokes in 1864, and which has been preserved,[52] it appears that the problem of reflexion and refraction was engaging Maxwell's attention at the time when he was preparing his Royal Society memoir on the electromagnetic field; but he was not able to satisfy himself regarding the conditions which should be satisfied at the interface between the media.
 
-If `μ1`, `μ2`, `μ3` are supposed equal to each other, this equation is the same as the equation of motion of MacCullagh's aether in crystalline media,[36] the magnetic force H corresponding to MacCullagh's elastic displacement.
+He seems to have been in doubt which of the rival elastic-solid theories to take as a pattern.
 
-We may immediately infer that Maxwell's electromagnetic equations yield a satisfactory theory of the propagation of light in crystals, provided it is assumed that the magnetic permeability is (for optical purposes) the same in all directions, and provided the plane of polarization is identified with the plane which contains the magnetic vector. 
+It is not unlikely that he was led astray by relying too much on the analogy between the electric displacement and an elastic displacement.[53] For in the elastic-solid theory all three components of the displacement must be continuous across the interface between two contiguous media. 
 
-The direction of the ray is at right angles to the magnetic vector and the electric force, and that the wave-front is the plane of the magnetic vector and the electric displacement.[37]
+But Maxwell found that it was impossible to explain reflexion and refraction if all three components of the electric displacement were supposed to be continuous across the interface; and, unwilling to give up the analogy which had hitherto guided him aright, yet unable to disprove[54] the Greenian conditions at bounding surfaces, he seems to have laid aside the problem until some new light should dawn upon it.
 
-After this Maxwell proceeded to investigate the propagation of light in metals. 
+This was not the only difficulty which beset the electromagnetic theory.
 
-The difference between metals and dielectrics, so far as electricity is concerned, is that the former are conductors; and it was therefore natural to seek the cause of the optical properties of metals in their ohmic conductivity. 
+The theoretical conclusion, that the specific inductive capacity of a medium should be equal to the square of its refractive index with respect to waves of long period, was not as yet substantiated by experiment; and the theory of displacement-currents, on which everything else depended, was unfavourably received by the most distinguished of Maxwell's contemporaries. Helmholtz indeed ultimately accepted it, but only after many years; and W. Thomson (Kelvin) seems never to have thoroughly believed it to the end of his long life. 
 
-This idea at once suggested a physical reason for the opacity of metals—namely, that within a metal the energy of the light vibrations is converted into Joulian heat in the same way as the energy of ordinary electric currents.
+In 1888, he referred to it as a "curious and ingenious, but not wholly tenable hypothesis,"[55] and proposed[56] to replace it by an extension of the older potential theories. 
 
-The equations of the electromagnetic field in the metal may be written
+In 1896 he had some inclination[57] to speculate that alterations of electrostatic force due to rapidly-changing electrification are propagated by condensational waves in the luminiferous aether. In 1904 he admitted[58] that a bar-magnet rotating about an axis at right angles to its length is equivalent to a lamp emitting light of period equal to the period of the rotation, but gave his final judgment in the sentence[59]:—"The so-called electromagnetic theory of light has not helped us hitherto."
 
+Thomson appears to have based his ideas of the propagation of electric disturbance on the case which had first become familiar to him—that of the transmission of signals along a wire.
 
-where k denotes the ohmic conductivity; whence it is seen that the electric force satisfies the equation
-
-
-This is of the same form as the corresponding equation in the elastic-solid theory[38]; and, like it, furnishes a satisfactory general explanation of metallic reflexion. 
-
-It is correct in all details, so long as the period of the disturbance is not too short—i.e., so long as the light-waves considered belong to the extreme infra-red region of the spectrum; 
-
-but if we attempt to apply the theory to the case of ordinary light, we are confronted by the difficulty which Lord Rayleigh indicated in the elastic-solid theory.[39] and which attends all attempts to explain the peculiar properties of metals by inserting a viscous term in the equation. 
-
-The difficulty is that, in order to account for the properties of ideal silver, we must suppose the coefficient of Ë negative—that is, the dielectric constant of the metal must be negative, which would imply instability of electrical equilibrium in the metal. 
-
-The problem, as we have already remarked,[40] was solved only when its relation to the theory of dispersion was rightly understood.
+He clung to the older view that in such a disturbance the wire is the actual medium of transmission; whereas in Maxwell's theory the function of the wire is merely to guide the disturbance, which is resident in the surrounding dielectric.
 

@@ -34,6 +34,8 @@ We only discuss the Elementals that have physical effects and not for any imprac
 
 [Paracelsus](/research/paracelsus/nymphys/tractatus-1) calls Elementals as spirit-beings that have human-like properties. 
 
+{{< img src="/photos/medieval/angkor.jpg" alt="Angkor statue" cap="Hinduism and Buddhism have A LOT of Elementals" >}}
+
 We think that such properties arise from them having chakras, similar to how humans and animals have chakras.  
 
 We define Elementals as metaphysical beings that can cross over to physical reality as to produce physical effects. This makes them different from pure metaphysical beings that cannot create such effects, usually because they are so subtle and so far away from physicality. Such entities, we call as spirits. 
@@ -72,7 +74,7 @@ Indians do not call them “fairies” or “nymphs”. They have their own anci
 {{< img src="/photos/meta/fairy.jpg" alt="" cap="Faeries are 'devatas' in Hinduism." >}}
 
 
-We categorize the beings in our Elemental Zoo into Five: 
+We categorize the beings in our Elemental Zoo into Five just as the biological life is organized into kingdoms, genus, species, etc: 
 
 Layer | Indian Class Name | Paracelsus Name
 --- | --- | ---
@@ -101,6 +103,12 @@ Like anything above the Physical Radiant Layer, these can be triggered by sound 
 There are various ways to detect Elementals just as you can detect animals through their sound, smell, sight, or touch.
 
 The most effective way that we know is through a developed ajna chakra which acts as a window or third eye to the Elemental universe. 
+
+This is explained in the biology of Rene Descartes, wherein humans detect:
+- physical stimuli through the nerves in the sense organs and
+- metaphysical stimuli through "animal spirits" in the heart. 
+
+From the heart, [the animal spirits go to the pineal gland](/research/descartes/man/section-30) in the brain which is the basis of the ajna chakra in Hinduism.  
 
 {{< img src="/photos/med/meditate.jpg" alt="Meditation" cap="Humans can 'see' the Elemental Universe through their ajna chakra. It can be 'felt' through the heart chakra and others">}}
 

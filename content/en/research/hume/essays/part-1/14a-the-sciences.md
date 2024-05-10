@@ -103,7 +103,31 @@ It readily receives a check in some state or other, where it concurs not with th
 
 There concurred a happy climate, a soil not unfertile, and a most harmonious and comprehensive language; so that every circumstance among that people seemed to favour the rise of the arts and sciences. 
 
-Each city produced its several artists and philosophers, who refused to yield the preference to those of the neighbouring republics: Their contention and debates sharpened the wits of men: A variety of objects was presented to the judgment, while each challenged the preference to the rest: and the sciences, not being dwarfed by the restraint of authority, were enabled to make such considerable shoots, as are, even at this time, the objects of our admiration. After the Roman christian, or catholic church had spread itself over the civilized world, and had engrossed all the learning of the times; being really one large state within itself, and united under one head; this variety of sects immediately disappeared, and the Peripatetic philosophy was alone admitted into all the schools,10 to the utter depravation of every kind of learning. But mankind, having at length thrown off this yoke, affairs are now returned nearly to the same situation as before, and Europe is at present a copy at large, of what Greece was formerly a pattern in miniature. We have seen the advantage of this situation in several instances. What checked the progress of the Cartesian philosophy, to which the French nation shewed such a strong propensity towards the end of the last century, but the opposition made to it by the other nations of Europe, who soon discovered the weak sides of that philosophy? The severest scrutiny, which Newton’s theory has undergone, proceeded not from his own countrymen, but from foreigners; and if it can overcome the obstacles, which it meets with at present in all parts of Europe, it will probably go down triumphant to the latest posterity. The English are become sensible of the scandalous licentiousness of their stage, from the example of the French decency and morals. The French are convinced, that their theatre has become somewhat effeminate, by too much love and gallantry; and begin to approve of the more masculine taste of some neighbouring nations. 
+Each city produced its several artists and philosophers, who refused to yield the preference to those of the neighbouring republics. 
+
+Their contention and debates sharpened the wits of men.
+
+A variety of objects was presented to the judgment, while each challenged the preference to the rest. 
+
+The sciences, not being dwarfed by the restraint of authority, were enabled to make such considerable shoots, as are, even at this time, the objects of our admiration. 
+
+ <!-- christian, or -->
+After the Roman Catholic Church had spread itself over the civilized world, and had engrossed all the learning of the times; being really one large state within itself, and united under one head; this variety of sects immediately disappeared, and the Peripatetic philosophy was alone admitted into all the schools,10 to the utter depravation of every kind of learning. 
+
+But mankind, having at length thrown off this yoke, affairs are now returned nearly to the same situation as before, and Europe is at present a copy at large, of what Greece was formerly a pattern in miniature. 
+
+We have seen the advantage of this situation in several instances. 
+
+<!-- What checked the progress of the , to which  -->
+
+France showed such a strong propensity for Cartesian philosophy towards the end of the last century. But it was opposed by the other nations of Europe who soon discovered its weak sides. This checked its progress.
+
+Newton’s theory has undergone the severest scrutiny from foreigners, not from his own countrymen. 
+- If it can overcome the obstacles which it currently meets in all parts of Europe, it will probably go down triumphant to the latest posterity. 
+
+The English have become sensible of the scandalous licentiousness of their stage, from the example of the French decency and morals. 
+
+The French are convinced, that their theatre has become somewhat effeminate, by too much love and gallantry; and begin to approve of the more masculine taste of some neighbouring nations. 
 
 
 China has a big stock of politeness and science. After so many centuries, it might naturally become more perfect. But China is one vast empire, speaking one language, governed by one law, and sympathizing in the same manners. The authority of any teacher, such as Confucius, was propagated easily from one corner of the empire to the other. None had courage to resist the torrent of popular opinion. Posterity was not bold enough to dispute what had been universally received by their ancestors. This is one natural reason, why the sciences have made so slow a progress in China. 

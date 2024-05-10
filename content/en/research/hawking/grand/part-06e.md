@@ -1,7 +1,7 @@
 ---
-heading: Part 6b
-title: "The Big Bang"
-description: ""
+heading: Part 6e
+title: "The Expansion of the Universe"
+description: "The idea that such an episode of inflation might have occurred was first proposed in 1980."
 weight: 37
 image: /covers/design.jpg
 ---
@@ -9,7 +9,7 @@ image: /covers/design.jpg
 
 The idea that such an episode of inflation might have occurred was first proposed in 1980. 
 
-It was based  on considerations that go beyond Einstein’s General Relativity and take into account aspects of quantum theory. 
+It was based on considerations that go beyond Einstein’s General Relativity and take into account aspects of quantum theory. 
 
 We do not have a complete quantum theory of gravity as the details are still being worked out. Physicists aren’t sure exactly how inflation happened. 
 

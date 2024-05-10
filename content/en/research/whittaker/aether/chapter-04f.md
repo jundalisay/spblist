@@ -1,6 +1,6 @@
 ---
 title:  "Fresnel's Formula"
-heading:  "Chapter 4d"
+heading:  "Chapter 4f"
 weight: 32
 writer:
   name: Edmund Whittaker

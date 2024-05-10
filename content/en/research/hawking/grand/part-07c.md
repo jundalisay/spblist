@@ -1,7 +1,7 @@
 ---
 heading: Part 7c
-title: "The Primordial Universe"
-description: ""
+title: "The Model for the Universe"
+description: "By examining the model universes we generate when the theories of physics are altered in certain ways, one can study the effect of changes to physical law in a methodical manner."
 weight: 44
 image: /covers/design.jpg
 ---
@@ -94,20 +94,21 @@ That means that in the same way that the environmental coincidences of our solar
 Many people through the ages have attributed to God the beauty and complexity of nature that in their time seemed to have no scientific explanation. But just as Darwin and Wallace explained how the apparently miraculous design of living forms could appear without intervention by a supreme being, the multiverse concept can explain the fine-tuning of physical law without the need for a benevolent creator who
 made the universe for our benefit.
 
-Einstein once posed to his assistant Ernst Straus the question “Did God have any choice when he
-created the universe?” 
+Einstein once posed to his assistant Ernst Straus the question “Did God have any choice when he created the universe?” 
 
-In the late sixteenth century Kepler was convinced that God had created the universe according to some perfect mathematical principle. Newton showed that the same laws that apply in the heavens apply on earth, and developed mathematical equations to express those laws that were so elegant they inspired almost religious fervor among many 18th-century scientists, who seemed intent on using them to show that God was a mathematician.
+In the late 16th century, Kepler was convinced that God had created the universe according to some perfect mathematical principle. 
+
+Newton showed that the same laws that apply in the heavens apply on earth, and developed mathematical equations to express those laws that were so elegant they inspired almost religious fervor among many 18th-century scientists, who seemed intent on using them to show that God was a mathematician.
 
 Ever since Newton, and especially since Einstein, the goal of physics has been to find simple mathematical principles of the kind Kepler envisioned, and with them to create a unified theory of everything that would account for every detail of the matter and forces we observe in nature. 
 
-In the late nineteenth and early twentieth century Maxwell and Einstein united the theories of electricity,
-magnetism, and light. 
+In the late 19th and early 20th century, Maxwell and Einstein united the theories of electricity, magnetism, and light. 
 
-In the 1970s the standard model was created, a single theory of the strong and weak nuclear forces, and the electromagnetic force. String theory and M-theory then came into being in an attempt to include the remaining force, gravity. The goal was to find not just a single
-theory that explains all the forces but also one that explains the fundamental numbers we have
-been talking about, such as the strength of the forces and the masses and charges of the elementary
-particles. 
+In the 1970s, the standard model was created, a single theory of the strong and weak nuclear forces, and the electromagnetic force. 
+
+String theory and M-theory then came into being in an attempt to include the remaining force, gravity. 
+
+The goal was to find not just a single theory that explains all the forces but also one that explains the fundamental numbers we have been talking about, such as the strength of the forces and the masses and charges of the elementary particles. 
 
 As Einstein put it, the hope was to be able to say that “nature is so constituted that it is possible logically to lay down such strongly determined laws that within these laws only rationally completely determined constants occur (not constants, therefore, whose numerical value could be changed without destroying the theory).” 
 

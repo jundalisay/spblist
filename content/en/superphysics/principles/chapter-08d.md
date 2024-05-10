@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8c"
+heading: "Chapter 8d"
 title: "The Microlayers"
 # date: 2024-01-24
 date: 2020-12-03

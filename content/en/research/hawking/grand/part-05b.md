@@ -1,7 +1,7 @@
 ---
 heading: Part 5b
 title: "James Clerk Maxwell"
-description: ""
+description: "Scottish physicist James Clerk Maxwell developed Faraday’s thinking into a mathematical framework that explained the intimate and mysterious relation among electricity, magnetism, and light"
 weight: 30
 image: /covers/design.jpg
 ---
@@ -17,13 +17,13 @@ He had discovered that light itself is an electromagnetic wave!
 
 Today the equations that describe electric and magnetic fields are called Maxwell’s equations. 
 
-Few people have heard of them, but they are probably the most commercially important equations we know. Not only do they govern the working of everything from household appliances to computers, but they also describe waves other than light, such as microwaves, radio waves,
-infrared light, and X-rays. 
+Few people have heard of them, but they are probably the most commercially important equations we know. Not only do they govern the working of everything from household appliances to computers, but they also describe waves other than light, such as microwaves, radio waves, infrared light, and X-rays. 
 
-All of these differ from visible light in only one respect—their wavelength. Radio waves have wavelengths of a meter or more, while visible light has a
-wavelength of a few ten-millionths of a meter, and X-rays a wavelength shorter than a hundredmillionth of a meter. Our sun radiates at all wavelengths, but its radiation is most intense in the wavelengths that are visible to us. It’s probably no accident that the wavelengths we are able to see with the naked eye are those in which the sun radiates most strongly: It’s likely that our eyes
-evolved with the ability to detect electromagnetic radiation in that range precisely because that is
-the range of radiation most available to them.
+All of these differ from visible light in only one respect—their wavelength. Radio waves have wavelengths of a meter or more, while visible light has a wavelength of a few ten-millionths of a meter, and X-rays a wavelength shorter than a hundredmillionth of a meter. 
+
+Our sun radiates at all wavelengths, but its radiation is most intense in the wavelengths that are visible to us. 
+
+It’s probably no accident that the wavelengths we are able to see with the naked eye are those in which the sun radiates most strongly: It’s likely that our eyes evolved with the ability to detect electromagnetic radiation in that range precisely because that is the range of radiation most available to them.
 
 If we ever run into beings from other planets, they will probably have the ability to “see” radiation at whatever wavelengths their own sun emits most strongly, modulated by factors such as the light-blocking characteristics of the dust and gases in their planet’s atmosphere. So aliens who evolved in the presence of X-rays might have a nice career in airport security.
 

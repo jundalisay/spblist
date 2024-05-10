@@ -27,15 +27,19 @@ Poynting showed that the flux of energy at any place might be expressed by a sim
 
 The energy stored in unit volume of the medium is[34]
 
+...
 
 so the increase of this in unit time is (since in isotropic media D is proportional to E, and B is proportional to H)
 
+...
 
 or
 
-,
+...
+
 where S denotes the total current, and ι the current of conduction; or (in virtue of the fundamental electromagnetic equations)
 
+...
 
 (E. ι) is the amount of electric energy transformed into heat per unit volume per second; and therefore the quantity -(1/4π) div [E.H] must represent the deposit of energy in unit volume per second due to the streaming of energy; which shows that the flux of energy is represented by the vector -(1/4π) div [E.H].[35] This is Poynting's theorem: that the flux of energy at any place is represented by the vector-product of the electric and magnetic forces, divided by 4π.[36]
 
@@ -56,11 +60,19 @@ A similar conception was introduced in regard to lines of electric force. It was
 
 Poynting, moreover, assumed that when a steady current C flows in a straight wire, C tubes of electric force close in upon the wire in unit time, and are there dissolved, their energy appearing as heat. If E denote the magnitude of the electric force, the energy of each tube per unit length is 
 
+...
+
 E, so the amount of energy brought to the wire is 
+
+...
 
 CE per unit length per unit time. This is, however, only half the energy actually transformed into heat in the wire: so Poynting further assumed that E tubes of magnetic force also move in per unit length per unit time, and finally disappear by contraction to infinitely small rings. This motion accounts for the existence of the electric field; and since each tube (which is a closed ring) contains energy of amount 
 
+...
+
 C, the disappearance of the tubes accounts for the remaining 
+
+...
 
 CE units of energy dissipated in the wire.
 

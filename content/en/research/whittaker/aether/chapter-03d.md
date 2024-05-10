@@ -1,7 +1,7 @@
 ---
 title: "Hans Christian Oersted"
 heading:  "Chapter 3d"
-weight: 20
+weight: 25
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
@@ -54,7 +54,9 @@ The next step came from André Marie Ampère (b. 1775, d. 1836), who at the meet
 
 Ampère introduces his work by proclaiming himself a follower of that school which explained all physical phenomena in terms of equal and oppositely directed forces between pairs of particles; and he renounces the attempt to seek more speculative, though possibly more fundamental, explanations in terms of the motions of ultimate fluids and aethers. Nevertheless, he indicates two conceptions of this latter character, on which such explanations might be founded.
 
-In the first[41] he suggests that the ponderomotive forces between circuits carrying electric currents may be due to "the reaction of the elastic fluid which extends throughout all space, whose vibrations produce the phenomena of light," and which is "put in motion by electric currents." This fluid or aether can, he says, "be no other than that which results from the combination of the two electricities."
+In the first[41] he suggests that the ponderomotive forces between circuits carrying electric currents may be due to "the reaction of the elastic fluid which extends throughout all space, whose vibrations produce the phenomena of light," and which is "put in motion by electric currents." 
+
+This fluid or aether can, he says, "be no other than that which results from the combination of the two electricities."
 
 In the second conception,[42] Ampère suggests that the interspaces between the metallic molecules of a wire which carries a current may be occupied by a fluid composed of the two electricities, not in the proportions which form the neutral fluid, but with an excess of that one of them which is opposite to the electricity peculiar to the molecules of the metal, and which consequently masks this latter electricity. 
 
@@ -88,21 +90,24 @@ where φ and ψ denote undetermined functions of r.
 
 From (4) it follows that when ds, ds′', r are all multiplied by the same number, F is unaffected: this shows that
 
-
+...
 
 where A and B denote constants. Thus we have
 
-
+...
 
 Now, by (3), the resolved part of F along ds′ must vanish when integrated round the circuit s, i.e. it must be a complete differential when dr is taken to be equal to -ds. That is to say,
 
+...
 
 must be a complete differential; or
 
-
+..
 
 must be a complete differential; and therefore
 
 Thus finally we have
+
+...
 
 This is Ampère's formula: the multiplicative constant depends of course on the units chosen, and may be taken to be - 1.

@@ -1,7 +1,7 @@
 ---
-title: "Metaphysical Thoughts"
+title: "Metaphysical Thoughts Simplified"
 description: "Metaphysical Thoughts by Spinoza"
-image: "/covers/spinoza.jpg"
+image: "/covers/metaphysical.jpg"
 # date: 2022-04-15
 weight: 10
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Goldhammer"
-heading:  "Chapter 10f"
+heading:  "Chapter 10g"
 weight: 100
 writer:
   name: Edmund Whittaker

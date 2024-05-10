@@ -1,7 +1,7 @@
 ---
 heading: Part 8
-title: "The Primordial Universe"
-description: ""
+title: "The Game of Life"
+description: "The Game of Life was invented in 1970 by a young mathematician at Cambridge named John Conway"
 weight: 44
 image: /covers/design.jpg
 ---
@@ -37,11 +37,22 @@ These mental concepts are the only reality we can know. There is no modelindepen
 
 An example that can help us think about issues of reality and creation is the Game of Life, invented in 1970 by a young mathematician at Cambridge named John Conway. 
 
-The word “game” in the Game of Life is a misleading term. There are no winners and losers; in fact, there are no players. The Game of Life is not really a game but a set of laws that govern a twodimensional universe. It is a deterministic universe: Once you set up a starting configuration, or initial condition, the laws determine what happens in the future.
-The world Conway envisioned is a square array, like a chessboard, but extending infinitely in all
-directions. 
+The word “game” in the Game of Life is a misleading term. 
 
-Each square can be in one of two states: alive (shown in green) or dead (shown in black). Each square has eight neighbors: the up, down, left, and right neighbors and four diagonal neighbors. 
+There are no winners and losers. In fact, there are no players. 
+
+The Game of Life is not really a game but a set of laws that govern a 2D universe. 
+
+It is a deterministic universe. Once you set up a starting configuration, or initial condition, the laws determine what happens in the future.
+
+The world Conway envisioned is a square array, like a chessboard, but extending infinitely in all directions. 
+
+Each square can be in one of 2 states:
+
+1. Alive (shown in green)
+2. Dead (shown in black)
+
+Each square has eight neighbors: the up, down, left, and right neighbors and four diagonal neighbors. 
 
 Time in this world is not continuous but moves forward in discrete steps. Given any arrangement of dead and live squares, the number of live neighbors determine what happens next according to the following laws:
 
@@ -73,8 +84,9 @@ At the smallest scale, the fundamental physics tells us that there are just live
 
 At a still larger scale there are even more complex objects, such as glider guns: stationary patterns that periodically give birth to new gliders that leave the nest and stream down the diagonal.
 
-If you observed the Game of Life universe for a while on any particular scale, you could deduce laws governing the objects on that scale. For example, on the scale of objects just a few squares across you might have laws such as “Blocks never move,” “Gliders move diagonally,” and various laws for what happens when objects collide. You could create an entire physics on any level of
-composite objects.
+If you observed the Game of Life universe for a while on any particular scale, you could deduce laws governing the objects on that scale. 
+
+For example, on the scale of objects just a few squares across you might have laws such as “Blocks never move,” “Gliders move diagonally,” and various laws for what happens when objects collide. You could create an entire physics on any level of composite objects.
 
 The laws would entail entities and concepts that have no place among the original laws. 
 
@@ -84,25 +96,21 @@ Those describe merely the life and death of individual stationary squares. As in
 
 Conway and his students created this world because they wanted to know if a universe with fundamental rules as simple as the ones they defined could contain objects complex enough to replicate. 
 
-In the Game of Life world, do composite objects exist that, after merely following the laws of that world for some generations, will spawn others of their kind? Not only were Conway and his students able to demonstrate that this is possible, but they even showed that such an object
-would be, in a sense, intelligent! 
+In the Game of Life world, do composite objects exist that, after merely following the laws of that world for some generations, will spawn others of their kind? Not only were Conway and his students able to demonstrate that this is possible, but they even showed that such an object would be, in a sense, intelligent! 
 
 What do we mean by that? To be precise, they showed that the huge conglomerations of squares that self-replicate are “universal Turing machines.” 
 
 For our purposes that means that for any calculation a computer in our physical world can in principle carry out, if the machine were fed the appropriate input—that is, supplied the appropriate Game of Life world environment—then some generations later the machine would be in a state from which an output could be read that would correspond to the result of that computer calculation.
 
-To get a taste for how that works, consider what happens when gliders are shot at a simple 2 × 2 block of live squares. If the gliders approach in just the right way, the block, which had been stationary, will move toward or away from the source of the gliders. In this way, the block can simulate a computer memory. In fact, all the basic functions of a modern computer, such as AND
-and OR gates, can also be created from gliders. In this manner, just as electrical signals are
-employed in a physical computer, streams of gliders can be employed to send and process
-information.
+To get a taste for how that works, consider what happens when gliders are shot at a simple 2 × 2 block of live squares. If the gliders approach in just the right way, the block, which had been stationary, will move toward or away from the source of the gliders. 
+
+In this way, the block can simulate a computer memory. In fact, all the basic functions of a modern computer, such as AND and OR gates, can also be created from gliders. In this manner, just as electrical signals are employed in a physical computer, streams of gliders can be employed to send and process information.
 
 In the Game of Life, as in our world, self-reproducing patterns are complex objects. 
 
-One estimate, based on the earlier work of mathematician John von Neumann, places the minimum size of a selfreplicating pattern in the Game of Life at 10 trillion squares—roughly the number of molecules in
-a single human cell.
+One estimate, based on the earlier work of mathematician John von Neumann, places the minimum size of a selfreplicating pattern in the Game of Life at 10 trillion squares—roughly the number of molecules in a single human cell.
 
-One can define living beings as complex systems of limited size that are stable and that reproduce
-themselves. 
+One can define living beings as complex systems of limited size that are stable and that reproduce themselves. 
 
 The objects described above satisfy the reproduction condition but are probably not stable: A small disturbance from outside would probably wreck the delicate mechanism. 
 
@@ -118,9 +126,7 @@ Chapter 2 said this may be impossibly difficult if the being is large and comple
 
 We cannot even solve exactly the equations for three or more particles interacting with each other. 
 
-Since an alien the size of a human would contain about a thousand trillion trillion particles even if the alien were a robot, it would be impossible to solve the equations and predict what it would do. We would therefore have to say that any complex being has free will—not as a
-fundamental feature, but as an effective theory, an admission of our inability to do the calculations
-that would enable us to predict its actions.
+Since an alien the size of a human would contain about a thousand trillion trillion particles even if the alien were a robot, it would be impossible to solve the equations and predict what it would do. We would therefore have to say that any complex being has free will—not as a fundamental feature, but as an effective theory, an admission of our inability to do the calculations that would enable us to predict its actions.
 
 The example of Conway’s Game of Life shows that even a very simple set of laws can produce complex features similar to those of intelligent life. There must be many sets of laws with this property. 
 
@@ -146,8 +152,7 @@ This negative energy can balance the positive energy needed to create matter, bu
 
 A body such as a star will have more negative gravitational energy, and the smaller it is (the closer the different parts of it are to each other), the greater this negative gravitational energy will be. 
 
-But before it can become greater than the positive energy of the matter, the star will collapse to a black hole, and black holes have positive energy. That’s why empty space is stable. Bodies such as stars or black holes cannot just appear out of nothing. But a
-whole universe can.
+But before it can become greater than the positive energy of the matter, the star will collapse to a black hole, and black holes have positive energy. That’s why empty space is stable. Bodies such as stars or black holes cannot just appear out of nothing. But a whole universe can.
 
 Because gravity shapes space and time, it allows space-time to be locally stable but globally unstable. 
 
@@ -163,12 +168,10 @@ The ultimate theory must be consistent and must predict finite results for quant
 
 This is why M-theory is the only candidate for a complete theory of the universe.
 
-If it is finite—and this has yet to be proved—it will be a model of a universe that creates itself. We must be part of this universe,
-because there is no other consistent model.
+If it is finite—and this has yet to be proved—it will be a model of a universe that creates itself. We must be part of this universe, because there is no other consistent model.
 
 M-theory is the unified theory Einstein was hoping to find. 
 
 The fact that we human beings—who are ourselves mere collections of fundamental particles of nature—have been able to come this close to an understanding of the laws governing us and our universe is a great triumph. But perhaps the true miracle is that abstract considerations of logic lead to a unique theory that predicts and describes a vast universe full of the amazing variety that we see. 
 
-If the theory is confirmed by observation, it will be the successful conclusion of a search going back more than 3,000 years. We
-will have found the grand design.
+If the theory is confirmed by observation, it will be the successful conclusion of a search going back more than 3,000 years. We will have found the grand design.

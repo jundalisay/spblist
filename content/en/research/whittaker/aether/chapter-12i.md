@@ -1,6 +1,6 @@
 ---
 title: "Lorentz' Theory"
-heading: "Chapter 12g"
+heading: "Chapter 12i"
 weight: 120
 writer:
   name: Edmund Whittaker

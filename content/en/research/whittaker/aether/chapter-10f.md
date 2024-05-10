@@ -1,6 +1,6 @@
 ---
-title:  "E. Aulinger"
-heading:  "Chapter 10b"
+title:  "Hertz' Experiments"
+heading:  "Chapter 10f"
 weight: 98
 writer:
   name: Edmund Whittaker
