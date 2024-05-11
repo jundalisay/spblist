@@ -299,11 +299,11 @@ What's samadhi?
 {{< l a="Superphysics" >}}
 What's samadhi? Ask [Patanjali](/research/indian/yoga/part-1)!
 
-All we can say is "No Samadhi, No Honey" :thumbsdown: (i.e. Without samadhi, you won't get a solid understanding of how the universe is structured and generated in real-time)
+All we can say is "No Samadhi, No Honey" :thumbsdown: (i.e. Without samadhi, you won't get a solid understanding of how the universe is structured and generated in real-time). But here's a bonus: Patanjali actually gives hints how to upgrade yourself to 6-senses. 
 {{< /l >}}
 
 {{< r a="Asker" >}}
-That's like when Neo in *The Matrix* movie realizing that he was in a giant computer when he saw the code running behind his reality. (I like that movie :innocent:)
+That's like when Neo in *The Matrix* movie realizing that he was in a giant computer when his 6th sense saw the code running behind his reality. (I like that movie :innocent:)
 {{< /r >}}
 
 <!-- {{< l a="Superphysics" >}}
@@ -346,10 +346,15 @@ I guess you encounter a lot of opposition from humans who think that the limited
 Yes. This is now known as 'scientism' [propagated by materialists](https://www.psychologytoday.com/us/blog/out-the-darkness/201911/scientism).
 
 For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. 
+{{< /l >}}
 
+{{< l a="Social-Superphysics" >}}
 Imagine talking to cavemen about the possibility of creating agriculture, radio, antibiotics, and representative-goverments to improve their lives. Yet those very cavemen laugh and call you crazy and force you to cancel research and go back to hunting deer like all other cavemen.
 {{< /l >}}
 
+{{< l a="Material-Superphysics" >}}
+Yeah. Those materialists even refuse to declare that General Relativity is wrong even if the James Webb Space Telescope and DESI are screaming it to their faces. They always say General Relativity has passed tests, without realizing that all those tests are electromagnetic in nature, and not of spacetime (except for the Weak Equivalence Principle which is matter-based and Galilean anyway). Jeez. Talk about low standards. No wonder humans are still stuck on Earth. 
+{{< /l >}}
 
 <!-- But classifying everything is costly. Machine learning helps a lot, so the AI boom is a Godsend (Rather, by pursuing our dharma for Superphysics, reality bent or shifted towards one that has the tools to do what we do). 
 
