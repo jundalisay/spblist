@@ -1,12 +1,12 @@
 ---
-heading: Part 1e
+heading: Introduction 3
 title: "Axioms Added To Descartes"
 image: "/covers/cartesian.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "Spinoza adds All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 17
+weight: 6
 ---
 
 
@@ -93,12 +93,11 @@ From the fact that at this moment we are thinking, it does not necessarily follo
 
 I can clearly and distinctly conceive the thought even though I suppose it not to exist. 31
 
-The nature of every cause must contain in itself or involve the perfection of its effect (Ax. 8). Hence it clearly follows that there must be something in us or external to us that we have not yet understood, whose concept or nature involves existence, and that is the reason why our thought began to exist and also continues
-to exist. For although our thought began to exist, its nature and essence does not
-on that account involve necessary existence any the more than befure it existed,
-and so in order to persevere in existing it stands in need of the same force that it
-needs to begin existing. And what we here say about thought must be said about
-every thing whose essence does not involve necessary existence.
+The nature of every cause must contain in itself or involve the perfection of its effect (Ax. 8). Hence it clearly follows that there must be something in us or external to us that we have not yet understood, whose concept or nature involves existence, and that is the reason why our thought began to exist and also continues to exist. 
+
+For although our thought began to exist, its nature and essence does not on that account involve necessary existence any the more than befure it existed, and so in order to persevere in existing it stands in need of the same force that it needs to begin existing.
+
+What we here say about thought must be said about every thing whose essence does not involve necessary existence.
 
 11. Of every thing that exists, it can be asked what is the cause or reason why it exists. 
 

@@ -6,7 +6,7 @@ writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/sophist.jpg"
-description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
+description: "Using the same analytic method as before, I can discern 2 divisions of the imitative art"
 icon: "/icons/socrates.png"
 ---
 

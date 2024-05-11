@@ -1,7 +1,7 @@
 ---
 title: "The Foreigner"
 heading: "Part 1"
-weight: 2
+weight: 24
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

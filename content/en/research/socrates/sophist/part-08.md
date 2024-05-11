@@ -1,7 +1,7 @@
 ---
 title: "The Foreigner"
 heading: "Part 1"
-weight: 2
+weight: 20
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
@@ -48,7 +48,9 @@ FOREIGNER: I think that Parmenides, and all ever yet undertook to determine the 
 
 THEAETETUS: How?
 
-FOREIGNER: As if we had been children, to whom they repeated each his own mythus or story;—one said that there were three principles, and that at one time there was war between certain of them; and then again there was peace, and they were married and begat children, and brought them up; and another spoke of two principles,—a moist and a dry, or a hot and a cold, and made them marry and cohabit. The Eleatics, however, in our part of the world, say that all things are many in name, but in nature one; this is their mythus, which goes back to Xenophanes, and is even older. Then there are Ionian, and in more recent times Sicilian muses, who have arrived at the conclusion that to unite the two principles is safer, and to say that being is one and many, and that these are held together by enmity and friendship, ever parting, ever meeting, as the severer Muses assert, while the gentler ones do not insist on the perpetual strife and peace, but admit a relaxation and alternation of them; peace and unity sometimes prevailing under the sway of Aphrodite, and then again plurality and war, by reason of a principle of strife. Whether any of them spoke the truth in all this is hard to determine; besides, antiquity and famous men should have reverence, and not be liable to accusations so serious. Yet one thing may be said of them without offence—
+FOREIGNER: As if we had been children, to whom they repeated each his own mythus or story;—one said that there were three principles, and that at one time there was war between certain of them; and then again there was peace, and they were married and begat children, and brought them up; and another spoke of two principles,—a moist and a dry, or a hot and a cold, and made them marry and cohabit. The Eleatics, however, in our part of the world, say that all things are many in name, but in nature one; 
+
+This is their mythus, which goes back to Xenophanes, and is even older. Then there are Ionian, and in more recent times Sicilian muses, who have arrived at the conclusion that to unite the two principles is safer, and to say that being is one and many, and that these are held together by enmity and friendship, ever parting, ever meeting, as the severer Muses assert, while the gentler ones do not insist on the perpetual strife and peace, but admit a relaxation and alternation of them; peace and unity sometimes prevailing under the sway of Aphrodite, and then again plurality and war, by reason of a principle of strife. Whether any of them spoke the truth in all this is hard to determine; besides, antiquity and famous men should have reverence, and not be liable to accusations so serious. Yet one thing may be said of them without offence—
 
 THEAETETUS: What thing?
 

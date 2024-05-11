@@ -16,18 +16,17 @@ now try to explain what is to be understood by creation. Then we shall provide s
 
 [The common definition of creation is reiected. ] Here we should note that:
 
-I. We omit the words 'from nothing', which are commonly used by philosophers as if 'nothing' were the matter from which things were produced. This usage of
-theirs arises from the fact that, being accustomed in the case of generated things
-to suppose something prior to them from which they are made, in the case of creation they were unable to omit the preposition 'from'. The same confusion has
-befallen them in the case of matter. 
+I. We omit the words 'from nothing', which are commonly used by philosophers as if 'nothing' were the matter from which things were produced. This usage of theirs arises from the fact that, being accustomed in the case of generated things to suppose something prior to them from which they are made, in the case of creation they were unable to omit the preposition 'from'. 
+
+The same confusion has befallen them in the case of matter. 
 
 Seeing that all bodies are in a place and surrounded by other bodies, when they asked themselves where matter as a whole might be, they replied, "In some imaginary space." So there is no doubt that they
 have not considered 'nothing' as the negation of all reality but have imagined or pictured it as something real.
 
-[OUT own definition is explained. ] 2. I say that in creation no other causes concur beyond the efficient cause. I might indeed have said that creation denies or
-excludes all causes beyond the efficient cause. However, I have preferred to say
-'concur' so as to avoid having to reply to those who ask whether God in creation
-did not set before himself an end on account of which he created things. 
+[OUT own definition is explained. ] 
+
+2. In creation no other causes concur beyond the efficient cause. I might indeed have said that creation denies or excludes all causes beyond the efficient cause. However, I have preferred to say
+'concur' so as to avoid having to reply to those who ask whether God in creation did not set before himself an end on account of which he created things. 
 
 <!-- " [Numbers ZH8-ll.] 
 204 Principles of Cartesian Philosophy -->

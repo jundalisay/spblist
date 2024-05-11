@@ -1,12 +1,12 @@
 ---
-heading: Part 1d
+# heading: Part 1d
 title: "Propositions 1-21"
 image: "/covers/cartesian.jpg"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 16
+weight: 10
 ---
 
 

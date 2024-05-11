@@ -104,6 +104,3 @@ This will require no special arbiter -- all of you shall be arbiters.
 
 This was generally approved.
 
-Protagoras was obliged to agree that he would ask questions even if it was very much against his will.
-
-When he had put a sufficient number of them, that he would answer in his turn those which he was asked in short replies. 

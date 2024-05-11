@@ -1,7 +1,7 @@
 ---
 title: "The Arts"
 heading: "Part 7"
-weight: 12
+weight: 15
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

@@ -6,7 +6,7 @@ description: "All things are predetermined by God, from his infinite power and n
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 12
+weight: 6
 ---
 
 

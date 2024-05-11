@@ -1,12 +1,12 @@
 ---
-heading: Part 1b
+heading: Introduction 2
 title: "Liberation from All Doubts"
 image: "/covers/cartesian.jpg"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 8
+weight: 4
 ---
 
 

@@ -1,12 +1,12 @@
 ---
-heading: Part 1
+heading: Introduction 1
 title: "Doubt Concerning All Things"
 image: "/covers/cartesian.jpg"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 4
+weight: 2
 ---
 
 

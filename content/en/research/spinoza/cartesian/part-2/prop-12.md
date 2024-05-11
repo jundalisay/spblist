@@ -10,104 +10,90 @@ weight: 28
 ---
 
 
-PROPOSITION 12
-
-God is the principal cause of motion.
+## Proposition 12: God is the principal cause of motion.
 
 Proof See the immediately preceding Scholium.
 
-PROPOSITION 13
+## Proposition 13: God still preserves his concurrence the same quantity of motion and rest that he originally gave to matter.
 
-God still preserves /ry his concurrence the same quantity of motion and rest that he
-originally gave to matter.
-Proof Because God is the cause of motion and rest (Prop. 12 Part 2), he continues to preserve them by that same power by which he created them (Ax. 10 Part
-1 ), the quantity also remaining the same as when he first created them (Cor. Prop.
-20 Part 1 ). Q.E.D.
+Proof: Because God is the cause of motion and rest (Prop. 12 Part 2), he continues to preserve them by that same power by which he created them (Ax. 10 Part 1 ), the quantity also remaining the same as when he first created them (Cor. Prop. 20 Part 1 ). Q.E.D.
 
-Scholium I. Although in theology it is said that God does many things at h is
-own good pleasure and with the purpose of displaying his power to men, nevertheless, because those things that depend merely on his good pleasure are known
-by no other means than divine revelation, to prevent philosophy from being confused with theology, they are not to be admitted in philosophy, where enquiry is
+Scholium 1: Although in theology it is said that God does many things at h is own good pleasure and with the purpose of displaying his power to men, nevertheless, because those things that depend merely on his good pleasure are known by no other means than divine revelation, to prevent philosophy from being confused with theology, they are not to be admitted in philosophy, where enquiry is
 restricted to what reason tells us.
-2. Although motion is nothing but a mode of moving matter, it nevertheless
-has a fixed and determinate quantity. How this is to be understood will become
-evident from what follows. Read Art. 36 Part 2 of the Principia.
-PROPOSITION 14
-Each single thing, insofar as it is simple and undivided and is considered only in itself, always perseveres in the same state, as far as in it lies.
+
+2. Although motion is nothing but a mode of moving matter, it nevertheless has a fixed and determinate quantity. How this is to be understood will become evident from what follows. Read Art. 36 Part 2 of the Principia.
+
+
+## PROPOSITION 14: Each single thing, insofar as it is simple and undivided and is considered only in itself, always perseveres in the same state, as far as in it lies.
+
 Many take this proposition as an axiom, but we shall demonstrate it.
-Proof Because everything is in a certain state only by the concurrence of God
-(Prop. 12 Part 1) and God is in the highest degree constant in his works (Cor.
-Prop. 20 Part 1 ), if we pay no attention to any external causes (i.e., particular
-causes) but consider the thing only in itself, we must affirm that as far as in it lies,
-it always perseveres in the state in which it is. Q.E.D.
-Corollary A body that is once in motion always continues to move unless it is
-checked by external causes.
-Proof This is obvious from the preceding proposition. But to correct prejudice
-concerning motion, read Arts. 37 and 38 Part 2 of the Principia.
-PROPOSITION 15
-Every body in motion tends of itself to continue to move in a straight line, not in a
-curved line.
-This proposition could well be considered as an axiom, but 1 shall demonstrate
-it from the preceding, as follows.
-Proof Motion, having only God for its cause (Prop. 12 Part 2), never has of itself any force to exist (Ax. 10 Part 1 ), but at every moment continues, as it were, 
-160 Principles of Cartesian Philosophy
-to be created by God (by what is demonstrated in connection with the Axiom just
-cited). Therefore, although we attend only to the nature of the motion, we can
-never attribute to it, as pertaining to its nature, a duration that can be conceived
-as greater than another duration. But if it is said that it pertains to the nature of a
-moving body to describe by its movement a curve, we should be attributing to the
-nature of motion a longer duration than when it is supposed to be in the nature
-of a moving body to tend to continue to move in a straight line (Ax. 1 7). Now because (as we have just proved) we cannot attribute such duration to the nature of
-motion, then neither can we posit that it is of the nature of a moving body to continue to move in a curve; it must continue to move only in a straight line. Q.E.D.
-Scholium Perhaps many will think that this proof is equally effective in showing that it does not pertain to the nature of motion to describe a straight line as in
-showing that it does not pertain to the nature of motion to describe a curved line,
-and that this is so because there cannot be posited a straight line other than which
-there is no shorter, whether straight or curved, nor any curved line other than
-which there is no shorter curve. However, although I have this in mind, I nevertheless hold that the proof proceeds correctly, because it concludes what was
-required to be proved solely from the universal essence of lines, that is, their essential specific difference, and not from the length of individual lines, that is, their
-accidental specific difference. But to avoid making more obscure, by my proof, a
+
+Proof: Everything is in a certain state only by the concurrence of God (Prop. 12 Part 1) and God is in the highest degree constant in his works (Cor. Prop. 20 Part 1 ), if we pay no attention to any external causes (i.e., particular causes) but consider the thing only in itself, we must affirm that as far as in it lies, it always perseveres in the state in which it is. Q.E.D.
+
+Corollary A body that is once in motion always continues to move unless it is checked by external causes.
+
+Proof: This is obvious from the preceding proposition. But to correct prejudice concerning motion, read Arts. 37 and 38 Part 2 of the Principia.
+
+## PROPOSITION 15 Every body in motion tends of itself to continue to move in a straight line, not in a curved line.
+
+This proposition could well be considered as an axiom, but 1 shall demonstrate it from the preceding, as follows.
+
+Proof Motion, having only God for its cause (Prop. 12 Part 2), never has of itself any force to exist (Ax. 10 Part 1 ), but at every moment continues, as it were,  to be created by God (by what is demonstrated in connection with the Axiom just cited). 
+
+Therefore, although we attend only to the nature of the motion, we can never attribute to it, as pertaining to its nature, a duration that can be conceived as greater than another duration. 
+
+But if it is said that it pertains to the nature of a moving body to describe by its movement a curve, we should be attributing to the nature of motion a longer duration than when it is supposed to be in the nature
+of a moving body to tend to continue to move in a straight line (Ax. 1 7).  
+
+We cannot attribute such duration to the nature of motion, then neither can we posit that it is of the nature of a moving body to continue to move in a curve; it must continue to move only in a straight line. Q.E.D.
+
+Scholium:
+
+Perhaps many will think that this proof is equally effective in showing that it does not pertain to the nature of motion to describe a straight line as in showing that it does not pertain to the nature of motion to describe a curved line, and that this is so because there cannot be posited a straight line other than which there is no shorter, whether straight or curved, nor any curved line other than which there is no shorter curve.  
+
+However, although I have this in mind, I nevertheless hold that the proof proceeds correctly, because it concludes what was required to be proved solely from the universal essence of lines, that is, their essential specific difference, and not from the length of individual lines, that is, their accidental specific difference. But to avoid making more obscure, by my proof, a
 thing that is through itself quite clear, I refer my readers to the simple definition
 of motion, which affirms of motion nothing other than its being the transfer of
-one part of matter from the vicinity ... , etc., to the vicinity of other ... , etc. So
-unless we conceive this transfer in its simplest form-that is, as proceeding in a
-stra ight line-we are attaching to motion something not contained in its essence
-or definition, and so not pertaining to its nature.
-Corollary From this Proposition it follows that every body that moves in a curve
-is continuously deviating from the line along which it would continue to move of
-itself, and this is through the force of an external cause (Prop. 14 Part 2).
-PROPOSITION 16
-Every body that moves in a circle (e.g., a stone in a sling) is continuously determined
-to continue in motion at a tangent to that eiTcle.
-Proof A body that moves in a circle is continuously prevented by an external
-force from continuing to move in a straight line (Cor. previous Prop.). If this force
-ceases, the body will of itself proceed to move in a straight line (Prop. 1 5). Furthermore, I say that a body that moves in a circle is determined by an external
-cause to proceed to move at a tangent to the circle. If you deny this, suppose that
-a stone at B is determined (e.g., by a sling) to move not along the tangent BD but
-along another line conceived as drawn without or within the circle from the same
-point. When the sling is supposed to be coming from L toward B, let this line be
-BF. If on the other hand the sling is supposed to be coming from C toward B, let
-this line be BG. If BH is the line drawn from the center through the circumfer-
-Part 2, Proposition 16 161
-ence, which it cuts at B, I understand the angle GBH to be equal to the angle
-FBH. But if the stone at B is determined to proceed to move toward F by the sling
-moving in a circle from L toward B, then it necessarily follows (Ax. 1 8) that when the sling 0
+one part of matter from the vicinity ... , etc., to the vicinity of other ... , etc. 
+
+So unless we conceive this transfer in its simplest form-that is, as proceeding in a straight line-we are attaching to motion something not contained in its essence
+or definition, and so not pertaining to its nature. 
+
+Corollary: It follows that every body that moves in a curve is continuously deviating from the line along which it would continue to move of itself, and this is through the force of an external cause (Prop. 14 Part 2).
+
+
+## PROPOSITION 16 Every body that moves in a circle (e.g., a stone in a sling) is continuously determined to continue in motion at a tangent to that circle.
+
+Proof: A body that moves in a circle is continuously prevented by an external force from continuing to move in a straight line (Cor. previous Prop.). If this force
+ceases, the body will of itself proceed to move in a straight line (Prop. 1 5). 
+
+Furthermore, I say that a body that moves in a circle is determined by an external cause to proceed to move at a tangent to the circle. If you deny this, suppose that
+a stone at B is determined (e.g., by a sling) to move not along the tangent BD but along another line conceived as drawn without or within the circle from the same
+point. When the sling is supposed to be coming from L toward B, let this line be BF. 
+
+<!-- Part 2, Proposition 16 161 -->
+If on the other hand the sling is supposed to be coming from C toward B, let this line be BG. If BH is the line drawn from the center through the circumference, which it cuts at B, I understand the angle GBH to be equal to the angle FBH. 
+
+But if the stone at B is determined to proceed to move toward F by the sling moving in a circle from L toward B, then it necessarily follows (Ax. 1 8) that when the sling 0
 moves with a contrary determination from C toward B, the stone will be determined to proceed
 to move in line with BF with a contrary determination and will therefore tend not toward G but
-toward K. This is contrary to our hypothesis. And
-because no line except a tangent can be drawn
-through point B making equal adjacent angles,
-DBH, ABH, with the line BH,4 there can be no
-line but a tangent that can preserve the same hypothesis, whether the sling moves
+toward K. This is contrary to our hypothesis. 
+
+No line except a tangent can be drawn through point B making equal adjacent angles,
+DBH, ABH, with the line BH,4 there can be no line but a tangent that can preserve the same hypothesis, whether the sling moves
 from L to B or from C to B. And so the stone can tend to move along no line but
-the tangent. Q.E.D.
-AnoIher Proof Instead of a circle,> conceive a hexagon ABH inscribed in a circle, and a body C at rest on one side, AB. Then conceive thata ruler DBE, whose
-one end I suppose to be fixed at the center D while the other end is free, moves
-about the center D, continuously cutting the lineAB. It is evident that if the ruler
-DBE, conceived to move in this way, meets the body C just when the ruler cuts
-the line AB at right angles, by its impact the ruler
-will determine the body C to proceed to move
-along the line FBAG toward G, that is, along the
-side AB produced indefinitely. But because we
-have chosen a hexagon at random, the same must
+the tangent. Q.E.D. 
+
+Proof 2: Instead of a circle, conceive a hexagon ABH inscribed in a circle, and a body C at rest on one side, AB. 
+
+Then conceive thata ruler DBE, whose one end I suppose to be fixed at the center D while the other end is free, moves
+about the center D, continuously cutting the line AB.
+
+If the ruler DBE, conceived to move in this way, meets the body C just when the ruler cuts the line AB at right angles, by its impact the ruler
+will determine the body C to proceed to move along the line FBAG toward G, that is, along the
+side AB produced indefinitely. 
+
+But because we have chosen a hexagon at random, the same must
 be affirmed of any other figure that we conceive
 can be inscribed in a circle, namely, that when a
 body C, at rest on one side of the figure, is struck
@@ -116,53 +102,55 @@ at right angles, it will be determined by that ruler
 to proceed to move along that side produced indefinitely. Let us conceive, then, instead of a hexagon, a rectilinear figure having
 an infinite number of sides- that is, by Archimedes's definition, a circle. It is evident that, whenever the ruler DBE meets the body C, it always meets it just when
 it cuts some side of such a f.gure at right angles, and thus will never meet the body
-C without at the same time determining it to proceed to move along that side produced indefinitely. And because any side produced in either direction must always fall outside the figure, that side produced indefinitely will be the tangent to
-a figure of an infinite number of sides, that is, a circle. If, then, instead of a ruler
-4 TIllS IS evident from Proposittons 18 and 19 of Book 3 of the Elements.
-5 [Spmoza's diagram is rruslabeled. A rrrust be at the corner of the hexagon between B and G. In this
-alternative proof Spinoza substitutes the Archlmedean concept of a cucle for the Euclidean and
+C without at the same time determining it to proceed to move along that side produced indefinitely. And because any side produced in either direction must always fall outside the figure, that side produced indefinitely will be the tangent to a figure of an infinite number of sides, that is, a circle. If, then, instead of a ruler
+
+{{< s v="4" >}} It is evident from Propositions 18 and 19 of Book 3 of the Elements.
+
+{{< s v="5" >}} 5 [Spmoza's diagram is rruslabeled. A rrrust be at the corner of the hexagon between B and G. In this alternative proof Spinoza substitutes the Archlmedean concept of a cucle for the Euclidean and
 proVides a duect proof rather than a reductio argument.] 
-162 Principles of Cartesian Philosophy
+
 we conceive a sling moving in a circle, this will continuously determine the stone
 to proceed to move at a tangent. Q.E.D.
 It should here be noted that both of these proofS can be adapted to any curvilinear figure.
-PROPOSITION 17
-Every body that moves in a circle endeavors to move away {rom the center of the circle that it describes.
-Proof As long as a body moves in a circle, it is being compelled by some external cause; and if this ceases, it at once proceeds to
-~ move at a tangent to the circle (previous Prop.). All
-the points of this tangent, except that which touches
-the circle, fall outside the circle (Prop. 16 Book 3 Elements) and are therefore further distant from the
-center. Therefore when a stone moving in a circle in
-a sling EA is at a point A, it endeavors to continue in
+
+
+## PROPOSITION 17: Every body that moves in a circle endeavors to move away {rom the center of the circle that it describes.
+
+Proof: As long as a body moves in a circle, it is being compelled by some external cause; and if this ceases, it at once proceeds to
+~ move at a tangent to the circle (previous Prop.). 
+
+All the points of this tangent, except that which touches the circle, fall outside the circle (Prop. 16 Book 3 Elements) and are therefore further distant from the center. 
+
+Therefore when a stone moving in a circle in a sling EA is at a point A, it endeavors to continue in
 a line, all of whose points are farther distant from the
 center E than any points on the circumference LAB.
 And this is nothing other than to endeavor to move away from the center of the
 circle that it describes. Q.E.D.
-PROPOSITION 18
-If a body A moves toward a body B, which is at rest, and B loses nothing of its state
-of rest in spite of the impetus of body A, then neither will A lose anything of its motion, but will retain entirely the same quantity of motion that it had before.
-Proof If you deny this, suppose that body A loses some of its motion without
-/I transferring the lost motion to something else, say, to B. • When this happens, there will be in Nature a smaller quan­ liP' tity of motion than before, which is absurd (Prop. 13 Part 2).
-The proof proceeds in the same way with respect to the state
-of rest of body B, therefore if the one body does not transfer anything to the other
+
+## PROPOSITION 18: If a body A moves toward a body B, which is at rest, and B loses nothing of its state of rest in spite of the impetus of body A, then neither will A lose anything of its motion, but will retain entirely the same quantity of motion that it had before.
+
+Proof If you deny this, suppose that body A loses some of its motion without transferring the lost motion to something else, say, to B. • When this happens, there will be in Nature a smaller quan­ liP' tity of motion than before, which is absurd (Prop. 13 Part 2). 
+
+The proof proceeds in the same way with respect to the state of rest of body B, therefore if the one body does not transfer anything to the other
 body, B will retain all its rest, and A, all its motion. Q.E.D.
-PROPOSITION 19
-Motion, regarded in itself, is different from its determination toward a certain direction; and there is no need for a moving body to be for any time at rest in order
+
+## PROPOSITION 19: Motion, regarded in itself, is different from its determination toward a certain direction; and there is no need for a moving body to be for any time at rest in order
 that it may travel or be repelled in an opposite direction.
-Proof Suppose, as in the preceding proposition, that a body A moves in a straight
-line toward a body B and is prevented by body B from continuing further. Therefore (preceding Prop.) A will retain its motion undiminished, and it will not be at
-rest for even the smallest space of time. However, because it continues to move,
+
+Proof: Suppose, as in the preceding proposition, that a body A moves in a straight line toward a body B and is prevented by body B from continuing further. Therefore (preceding Prop.) A will retain its motion undiminished, and it will not be at rest for even the smallest space of time. However, because it continues to move,
 it does not move in the same direction as before, for it is supposed to be prevented
-by B. Therefore, with its motion remaining undiminished and its previous deter-
-Part 2, Proposition 22 163
-mination lost, it will move in the opposite direction, and not any other (see what
+by B. Therefore, with its motion remaining undiminished and its previous determination lost, it will move in the opposite direction, and not any other (see what
 is said in Chapter 2 Dioptrics). Therefore (Ax. 2) determination does not pertain
 to the essence of motion but is differen t from it, and a moving body that is repelled
 is not at rest for any time. Q.E.D.
-Corollary Hence it follows that motion is not contrary to motion.
-PROPOSITION 20
-If a body A collides with a body B and takes it along with it, A will lose as much of
-its motion as B acquires from A because of its collision with A.
+
+<!-- Part 2, Proposition 22 163 -->
+
+Corollary: Hence it follows that motion is not contrary to motion.
+
+## PROPOSITION 20: If a body A collides with a body B and takes it along with it, A will lose as much of its motion as B acquires from A because of its collision with A.
+
+
 Proof If you deny this, suppose that B acquires more or less motion from A than
 A loses. All this difference must be added to or subtracted
 from the quantity of motion in the whole of Nature, wh ich ...4iif 1M

@@ -1,21 +1,31 @@
-Appendix II I 189
+---
+title: "The Mind Control Course And The Organization Behind It"
+heading: "APPENDIX 2"
+weight: 200
+image: "/covers/silva.jpg"
+description : "The Mind Control movement is so widespread and fast-growing. "
+contributors: ['Silva']
+draft: true
+---
 
-Data from any research have to be evaluated in light of
-ail conditions present the tests and criteria used, and the
-are that goes into the study. Therefore, we will try to point
-xt all the factors we are aware of that might have in-
-fcriKid the result.
-From the standpoint of research, we wanted to know
-what effect the training had on disturbed individuals. As
-physicians, we wanted our patients all to get well. This
-Kdoubtedly had some bearing on the result as they surely
-•eased this. We believe our optimism carried over in some
-way; this is an integral part of our everyday therapeutic
-snort
+<!-- Appendix II I 189 -->
+
+Data from any research have to be evaluated in light of all conditions present the tests and criteria used, and the are that goes into the study. Therefore, we will try to point
+at all the factors we are aware of that might have increased the result.
+
+From the standpoint of research, we wanted to know what effect the training had on disturbed individuals. As
+physicians, we wanted our patients all to get well. 
+
+This undoubtedly had some bearing on the result as they surely eased this. 
+
+We believe our optimism carried over in some way; this is an integral part of our everyday therapeutic
+sort
+
 Initially with some of the psychotic patients we waited
 ••til they were well stabilized before sending them through
 ±4 course, but eventually patients were sent in acutely
 >-. chotic states.
+
 The EWI test was thought to be a sensitive indicator of
 reality perception, and we found that the scores matched
 zse clinical findings. Dr. El-Meligi confirmed that our clini-

@@ -31,14 +31,11 @@ has all the effectiveness of learning at the Alpha level plus the added reinforc
 
 You will need a tape recorder for this.
 
-Let us say that you have a complex chapter of a textbook to learn; you must not only remember but under-
-stand it. During the first step, do not go into Alpha but remain at outer consciousness, Beta. Read the chapter
-aloud into the recorder. Now go to your level, play it back, and concentrate on your own voice as it recites
-the material.
+Let us say that you have a complex chapter of a textbook to learn; you must not only remember but understand it. 
 
-At an early stage of your Mind Control, particularly if you are not too familiar with the machine you are
-using, you may flip back to Beta when you push the playback button and find that the sound of the tape
-will make it more difficult to return to Alpha. 
+During the first step, do not go into Alpha but remain at outer consciousness, Beta. Read the chapter aloud into the recorder. Now go to your level, play it back, and concentrate on your own voice as it recites the material.
+
+At an early stage of your Mind Control, particularly if you are not too familiar with the machine you are using, you may flip back to Beta when you push the playback button and find that the sound of the tape will make it more difficult to return to Alpha.  
 
 By the time you do return, you will have missed part or all of the lesson. 
 
@@ -46,9 +43,7 @@ With practice, this is less likely to happen.
 
 Here are a few tips:
 
-Go to your level with your finger already on the
-button. This will prevent your having to search for it
-with your eyes open.
+Go to your level with your finger already on the button. This will prevent your having to search for it with your eyes open.
 
 Have someone else press the playback for you when you give the signal. 
 
