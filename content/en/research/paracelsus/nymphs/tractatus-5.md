@@ -15,7 +15,11 @@ There are 2 more kinds that belong to the kind of nymphs and pygmies, namely, th
 
 Although it is a fact that Saint Christopher was a giant, yet he took birth from human seed, and hence we shall not write about him. But we shall write about the other giants, referred to in the stories of Bern, Sigenott, Hiltbrant, Dittrich, etc., also about the dwarf Laurin and others. 
 
-Such stories are frequently rejected, but you must know that the same people who reject them, reject also much more important truth. They distort Christ's word and put themselves into the fore. They have much more right to disregard things that have happened in this field, but their disbelief is all the same. The giants are too strong and too strange for us. They are beyond us, and hence we are inclined to deny their existence and to consider them ghosts. 
+Such stories are frequently rejected, but you must know that the same people who reject them, reject also much more important truth. 
+
+They distort Christ's word and put themselves into the fore. They have much more right to disregard things that have happened in this field, but their disbelief is all the same. 
+
+The giants are too strong and too strange for us. They are beyond us, and hence we are inclined to deny their existence and to consider them ghosts. 
 
 <!-- The same we wish to do with Christ. He also is too strong for us, and we are inclined to do with him as with the giants, so as to have nobody who could oppose us, or nobody whom we might fear.
 
@@ -75,19 +79,37 @@ About the dwarfs you must know that they are born from the earth manikins in the
 
 They are monsters also like the giants and their birth must be understood the same way. Thus we can highly appreciate the words of Saint John the Baptist who said to the Jews: And think not to say within yourselves, because you are the children of Abraham, you can resist God and defy him, as if you were not his own and he were nothing, as if he could not make other men. 
 
-For I say unto you, that God is able of these stones to raise up men. This must also be understood to mean that although we are from Adam yet there are people who are not from Adam, such as giants and dwarfs who are greater and stronger than we. 
+God is able to raise up men from these stones.
 
-It also means that if you shall not do honest work, God can exterminate you in the root and let you all dry out like fruit on a tree, and create other people thereafter. If it was possible for him to make Adam and his children from limus, it is also possible for him to make without limus other people such as nymphs, giants, etc., and to populate and maintain his world with them. Thus they stand as a warning that we are not alone and cannot force God. 
+We are from Adam, yet there are people who are not from Adam, such as giants and dwarfs who are greater and stronger than we. 
 
-If he can do one thing, he can do another also. If he can make a man seven feet long, he can also make him twenty or thirty feet long. This is apparent with the giants and similar beings, that they all are warnings to make us realize that God is the Lord, who can do things and endow a being with a soul in one breath.
+If you do not do honest work, God can exterminate you in the root and let you all dry out like fruit on a tree, and create other people thereafter. 
 
-To come to an end, know that such people, giants and dwarfs, may well make women from Adam pregnant, because same likes to meet same, and nature may permit it. Yet you must know that the monsters are not fertile, although they are monsters only so far as their strength and size is concerned; they are not misbuilt. But they have only one seed available, that is, they do not attain the third, fourth, etc. generation. Know also that when they get into man's kind, the result is uncertain."
+If it was possible for him to make Adam and his children from limus, it is also possible for him to make without limus other people such as nymphs, giants, etc., and to populate and maintain his world with them. 
 
-If the child's body takes after the mother it falls into her kind; if not, it becomes a beast like the father. It is not possible for it to become a mixed being because the seed of one of the two always prevails. 
+Thus, they stand as a warning that we are not alone and cannot force God. 
+
+If he can do one thing, he can do another also. 
+
+If he can make a man 7 feet long, he can also make him 20 or 30 feet long. 
+
+This is apparent with the giants and similar beings, that they all are warnings to make us realize that God is the Lord, who can do things and endow a being with a soul in one breath.
+
+Giants and dwarfs can make human women pregnant because same likes to meet same, and nature may permit it. 
+
+Yet the monsters are not fertile, although they are monsters only so far as their strength and size is concerned; they are not misbuilt. 
+
+But they have only one seed available-- they do not attain the third, fourth, etc. generation. 
+
+When they get into man's kind, the result is uncertain.
+
+If the child's body takes after the mother it falls into her kind; if not, it becomes a beast like the father. 
+
+It is not possible for it to become a mixed being because the seed of one of the two always prevails. 
 
 It happens otherwise that both become one seed, but here not. 
 
-And if it were one seed it would have to be qualified by the one partner who gives the soul. More is said about this subject in other philosophical treatises, and there is no need to tell it here. Their kind, however, has died out and they have left no descendants to replace them. 
+If it were one seed it would have to be qualified by the one partner who gives the soul. More is said about this subject in other philosophical treatises, and there is no need to tell it here. Their kind, however, has died out and they have left no descendants to replace them. 
 
 The comets, likewise, leave no seed behind them but come straight on and off at times, and at times up from below, all of a sudden, and then disappear.
 

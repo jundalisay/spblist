@@ -121,12 +121,14 @@ The science which pretends to investigate and explain those connecting principle
 {{< s v="154" >}} Different authors gave different systems of natural and moral philosophy.
 
 But the arguments which supported those systems were frequently very slender probabilities at best.
-Sometimes those arguments were mere sophisms.
-Their only foundation was the inaccuracy and ambiguity of common language.
-Speculative systems have always been adopted for frivolous reasons.
 
-Gross sophistry has never influenced mankind's opinions, except in matters of philosophy and speculation.
-Gross sophistry was frequently the greatest in philosophy and speculation.
+Sometimes those arguments were mere sophisms.
+
+Their only foundation was the inaccuracy and ambiguity of common language.
+
+Speculative systems have always been adopted for frivolous reasons.
+- Gross sophistry has never influenced mankind's opinions, except in matters of philosophy and speculation.
+- Gross sophistry was frequently the greatest in philosophy and speculation.
 
 The patrons of each system of natural and moral philosophy naturally tried to expose the weakness of the arguments of opposing systems.
 
@@ -135,10 +137,10 @@ In examining those arguments, they had to consider the difference between:
 - a fallacious and a conclusive one.
 
 Logic is the science of the general principles of good and bad reasoning.
+- It arose out of the scrutiny of this examination.
+- It was originally posterior to physics and ethics.
+- It was commonly taught in most of the ancient schools of philosophy, previous to physics and ethics.
 
-It arose out of the scrutiny of this examination.
-It was originally posterior to physics and ethics.
-It was commonly taught in most of the ancient schools of philosophy, previous to physics and ethics.
 The student was thought to understand the difference between good and bad reasoning before he was led to reason on important subjects.
 
 
@@ -147,7 +149,8 @@ The student was thought to understand the difference between good and bad reason
 {{< s v="156" >}} In the ancient philosophy, whatever concerned the nature of the human mind or the Deity was a part of physics.
 
 Those beings were parts of the great system of the universe.
-They produced the most important effects.
+- They produced the most important effects.
+
 Whatever human reason could conclude about them made two very important chapters, of the science which pretended to give an account of the origin and revolutions of the great system of the universe.
 
 But in European universities, philosophy was taught as subservient to theology.

@@ -30,49 +30,96 @@ And so many have been held before man that from them he may draw and take an ade
 
 For the like must be perceived by its like, that is, man is a spirit and a man, eternal and mortal. From this reasonably follows a knowl- edge of the other things, namely, that he is one who has been created from God after God. Thus man can not philosophize at any time about anything unless he has a subject from which his reasoning springs and on which it is founded. If such a man is possessed by the evil spirit he must now, at any time, consider what this means. 
 
-For nothing exists that remains concealed and is not revealed. Everything must come out, creature, nature, spirit, evil and good, outside and inside, and all arts, and all doctrines, teachings and what has been created. Sometimes, such things become apparent only insofar as they are preserved in the memory of the people. They are still hid- den and not generally known. It is not less true that man never becomes as apparent to others as these beings become apparent to man. 
+For nothing exists that remains concealed and is not revealed. Everything must come out, creature, nature, spirit, evil and good, outside and inside, and all arts, and all doctrines, teachings and what has been created. Sometimes, such things become apparent only insofar as they are preserved in the memory of the people. 
 
-The nymphs, namely, become apparent to us, but not we to them, except in what they tell about us in their world, as a pilgrim would, who had been in foreign lands. They do not need such rapture, the way the mountain people enrapture us, or the water people. For they have no power over man, and their world is not such that they could adopt us. Man is not subtile in body, but coarse in body and subtile in chaos, while it is the contrary with them. Therefore, they can well stand our chaos, but not we theirs. Their element also is in itself their chaos, which to us may not be chaos. Thus they appear to us, stay with us, marry with us, die with us, and also bear children.
+They are still hidden and not generally known. It is not less true that man never becomes as apparent to others as these beings become apparent to man. 
 
-Now, the fact that they shall be revealed, is equal to a divine decree. God sends an angel to us, recommends his creature
+The nymphs, namely, become apparent to us, but not we to them, except in what they tell about us in their world, as a pilgrim would, who had been in foreign lands. 
 
-to him, and then takes him away again. 
+They do not need such rapture, the way the mountain people enrapture us, or the water people. 
 
-In the same way, these beings are presented sufficiently before our eyes. This happens with the water people. They come out of their waters to us, make themselves known, act and deal with us, go back to their water, come again-all this to allow man the contempla- tion of the divine works. 
+For they have no power over man, and their world is not such that they could adopt us. 
 
-They are men, but on the animal side alone, without the soul. From this it follows that they marry men. A water woman takes a man from Adam, and keeps house for him, and gives birth to children. Of the children, we know that they follow after the father. 
+Man is not subtile in body, but coarse in body and subtile in chaos, while it is the contrary with them. 
 
-Because the father is a man from Adam, a soul is given to the child, and it becomes like a regular man, who has an eternal soul. Furthermore, this also is well known and must be considered, that such women also receive souls by becoming married, so that they are saved before God and by God like other women. 
+Therefore, they can well stand our chaos, but not we theirs. 
 
-It has been experienced in many ways that they are not eternal, but when they are bound to men, they become eternal, that is, endowed with a soul like man. You must understand this in the follow- ing way: God has created them so much like man and so resembling him, that nothing could be more alike, and a wonder happened in that they had no soul. 
+Their element also is in itself their chaos, which to us may not be chaos. 
 
-But when they enter into a union with man, then the union gives the soul. It is the same as with the union that man has with God and God with man, a union established by God, which makes it possible for us to enter the kingdom of God. If there were no such union, of what use would the soul be to us? Of none. But now there is that union with man, and therefore the soul is of use to man, who otherwise would have no purpose. 
+Thus they appear to us, stay with us, marry with us, die with us, and also bear children.
 
-This is demonstrated by them also: they have no soul, unless they enter into a union with men, and now they have the soul. They die, and nothing remains of them but the beast. And a man who is not in divine union is just like them. 
+The fact that they shall be revealed, is equal to a divine decree. God sends an angel to us, recommends his creature to him, and then takes him away again. 
 
-Just as the condition of these people is, when they are in union with man, so is the condition of man, when he is in union with God. And thus they demonstrate that they are beasts without man, and like them man without divine union is nothing. The union of two things with each other can achieve so much, that the inferior benefits from the superior and acquires its power.
+In the same way, these beings are presented sufficiently before our eyes. This happens with the water people. 
+
+They come out of their waters to us, make themselves known, act and deal with us, go back to their water, come again-all this to allow man the contemplation of the divine works. 
+
+They are men, but on the animal side alone, without the soul. 
+
+From this it follows that they marry men. 
+
+A water woman takes a man from Adam, and keeps house for him, and gives birth to children. 
+
+The children follow after the father. 
+
+Because the father is a man from Adam, a soul is given to the child, and it becomes like a regular man, who has an eternal soul. 
+
+Such women also receive souls by becoming married, so that they are saved before God and by God like other women. 
+
+It has been experienced in many ways that they are not eternal, but when they are bound to men, they become eternal, that is, endowed with a soul like man. 
+
+God has created them so much like man and so resembling him, that nothing could be more alike, and a wonder happened in that they had no soul. 
+
+But when they enter into a union with man, then the union gives the soul. 
+
+It is the same as with the union that man has with God and God with man, a union established by God, which makes it possible for us to enter the kingdom of God. 
+
+If there were no such union, of what use would the soul be to us? Of none. But now there is that union with man, and therefore the soul is of use to man, who otherwise would have no purpose. 
+
+This is demonstrated by them also. They have no soul, unless they enter into a union with men, and now they have the soul. 
+
+They die, and nothing remains of them but the beast. 
+
+A man who is not in divine union is just like them. 
+
+Just as the condition of these people is, when they are in union with man, so is the condition of man, when he is in union with God.
+
+Thus, they demonstrate that they are beasts without man, and like them man without divine union is nothing. 
+
+The union of two things with each other can achieve so much, that the inferior benefits from the superior and acquires its power.
 
 From this it follows that they woo man, and that they seek him assiduously and in secret. 
 
-A heathen begs for baptism and woos it in order to acquire his soul and to become alive in Christ. In the same way, they seek love with man, so as to be in union with men. With them all intelligence and wisdom are outside the qualities of the soul, and not the soul. 
+A heathen begs for baptism and woos it in order to acquire his soul and to become alive in Christ. 
 
-And so they receive the soul, and their children also, by virtue of Adam's fruit, freedom and power, which holds and carries them to God. One must also think of what God will do with them in the end, since they are so close to man and must be considered as wild men; just as you say, the wolf is a wild dog, the ibex a wild he-goat and such like. One must also know that not all of them may be married to us. The water people come first; they are the closest to us. 
+In the same way, they seek love with man, so as to be in union with men. With them all intelligence and wisdom are outside the qualities of the soul, and not the soul. 
 
-Next after them come the forest people, then the mountain and earth manikins who, however, rarely marry humans and are only obliged to serve them. The vulcans never attempt to enter into union with humans, and yet are apt to serve them. 
+And so they receive the soul, and their children also, by virtue of Adam's fruit, freedom and power, which holds and carries them to God. 
+
+What will God do with them in the end, since they are so close to man and must be considered as wild men just as the wolf is a wild dog, the ibex a wild he-goat, etc.?
+
+Not all of them may be married to us. The water people come first as they are the closest to us. 
+
+Next after them come the forest people, then the mountain and earth manikins who, however, rarely marry humans and are only obliged to serve them. 
+
+The vulcans never attempt to enter into union with humans, and yet are apt to serve them. 
 
 The earth manikins and vulcans are considered as spirits and not creatures. They are looked upon as a mirage only, or as ghosts. 
 
 They appear as flesh and blood like another man, and with that, quick and fast like a spirit, as was told in the beginning. 
 
-They also know all future affairs, present affairs and the past, which are not apparent but are hidden. In that they can serve man, protect, warn, guide him, and such like. For they have reason in common with man (except in regard to the soul). They have knowledge and intelligence of the spirit (except in regard to God). Thus they are highly gifted, and they know and warn, so that man may learn about such things, and see them, and believe in such creatures. For this purpose God has let them appear to man, that he may seek knowledge and learn what God effects in such
-creatures.
+They also know all future affairs, present affairs and the past, which are not apparent but are hidden. In that they can serve man, protect, warn, guide him, and such like. For they have reason in common with man (except in regard to the soul). 
+
+They have knowledge and intelligence of the spirit (except in regard to God). Thus they are highly gifted, and they know and warn, so that man may learn about such things, and see them, and believe in such creatures. For this purpose God has let them appear to man, that he may seek knowledge and learn what God effects in such creatures.
 
 Nymphs are said to come to us from the water, and sit on the banks of the brooks where they have their abode, where they are seen, taken also, caught, and married, as we said before. The forest people, however, are coarser than they.
 
 
 They do not talk, that is, they cannot talk although they have tongues and enough of all that is needed for speech. In this point they differ from the nymphs, for the nymphs can speak in the languages of the countries; the forest people, however, can- not but they learn easily. 
 
-The mountain manikins are endowed with speech like the nymphs, and the vulcans speak nothing, yet they can speak but roughly and rarely. The nymphs appear, as was said before, in human clothing, with human features and desires. The forest people are like men, but shy and fugitive. The mountain people are like men, not tall, short; sometimes they reach about half the size of man or so, some- times more. Thus and in the same way, the vulcans appear, fiery, and fire is all over their features and clothing. 
+The mountain manikins are endowed with speech like the nymphs, and the vulcans speak nothing, yet they can speak but roughly and rarely. The nymphs appear, as was said before, in human clothing, with human features and desires. The forest people are like men, but shy and fugitive. 
+
+The mountain people are like men, not tall, short; sometimes they reach about half the size of man or so, some- times more. Thus and in the same way, the vulcans appear, fiery, and fire is all over their features and clothing. 
 
 They are the ones of whom one says: a fire man or spirit is going through the house; there goes a burning soul, etc. It often happens that such figures are seen. They also are the flames that are frequently observed as glowing lights in meadows and fields, running through each other and towards each other. These are the vulcans, but they are not found living with man, on account of their fire. They are often found with old women, however, that is, with witches, wooing them. 
 
@@ -82,7 +129,9 @@ Know also that he equally takes possession of the mountain people and thus makes
 
 When these beings are not possessed by the devil they are human and seek union as has been mentioned. But they keep the way of spirits, in that they disappear. One who has a nymph for a wife, should not let her get close to any water, or at least should not offend her while they are on water. 
 
-And one who has a mountain manikin with him, should not offend him, particularly not at places where they get lost. But they are so much obliged to man and so closely bound to him, that they cannot get away from him, unless there is a reason for it, and this happens at the place from which they come. If one has a wife, she does not get away from him, unless she is provoked while they are on water. Otherwise she will not disappear and can be held. The mountain manikins also must keep their pledges, when they are in service and have been pledged. But obligations to them must be kept also, in all that is due to them. If duties are kept as should be, they are honest, constant, and intent on their work. 
+One who has a mountain manikin with him, should not offend him, particularly not at places where they get lost. But they are so much obliged to man and so closely bound to him, that they cannot get away from him, unless there is a reason for it, and this happens at the place from which they come. 
+
+If one has a wife, she does not get away from him, unless she is provoked while they are on water. Otherwise she will not disappear and can be held. The mountain manikins also must keep their pledges, when they are in service and have been pledged. But obligations to them must be kept also, in all that is due to them. If duties are kept as should be, they are honest, constant, and intent on their work. 
 
 They are particularly loyal to man and much inclined to spending money. 
 

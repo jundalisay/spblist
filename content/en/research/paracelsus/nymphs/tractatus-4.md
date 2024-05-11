@@ -35,24 +35,70 @@ To continue the discussion of these beings, know that such people also convene a
 
 There are more women than men in such groups, few men, many women; hence they are after men whenever they have a chance. From such people a group originated that is called the Venusberg. It consists of nothing else but a kind of nymphs, thrown together in a cave and hole of their world, yet not in their own chaos, in man's chaos, but in their regionibus. Know about them that they reach a very old age, but you cannot notice it, because their appearance remains the same from begin- ning to end, and they die unchanged. 
 
-Venus was a nymph and undine who excelled others and reigned for a long time, but she call them devils, although they know little enough about the devil himself. This you must know, that God lets such miracles happen not to have us all marry nymphs and live with them, but once in a while, in order to demonstrate the strange doings of divine creatures and that we may see the work of his labor. If it were the devil's work it should be despised, but it is not, for this he is not able to do; God alone is. Our nymph was a water woman. 
+Venus was a nymph and undine who excelled others and reigned for a long time. But she call them devils, although they know little enough about the devil himself. 
 
-She promised herself to von Staufenberg and stayed also with him, until he married another wife, and took her for a devil. Taking her for a devil and considering her such, he married another woman and thus broke his promise to her. 
+God lets such miracles happen not to have us all marry nymphs and live with them, but once in a while, in order to demonstrate the strange doings of divine creatures and that we may see the work of his labor. 
 
-Therefore, at the wedding, she gave him the sign, through the ceiling, during the banquet, and three days later, he was dead. It requires great experience to judge in such matters, for the breaking of a pledge never remains without sanction, whatever it may be, to uphold honor and honesty and to prevent other evil and vice. If she had been a ghost, from where would she have taken blood and flesh? If she had been a devil, where would she have hidden the devil's marks which always go with it? If it had been a spirit, why should it have needed such a being? She was a woman and a nympha, as we have described them, a woman in honor, not in dishonor, and this is why she wanted duty and loyalty to be kept. 
+If it were the devil's work it should be despised, but it is not, for this he is not able to do; God alone is. Our nymph was a water woman. 
 
-Since they were not kept, she herself, from divine destiny, punished the adulterer (for no judge would have passed a sentence at her request, since she was not from Adam). Thus God granted her the punish- ment that is appropriate for adultery, and permitted her to be her own judge, since the world repudiated her as a spirit or devil. Many more such things have happened that are despised by men, badly so and it is a sign of great stupidity.
+She promised herself to von Staufenberg and stayed also with him, until he married another wife, and took her for a devil. 
 
-We must pay equally great attention to Melusine, for she was not what the theologians considered her, but a nympha. It is true, however, that she was possessed by the evil spirit, of which she would have freed herself if she had stayed with her hus- band to the end. For such is the devil that he transforms these beings into different shapes, as he also does with the witches, transforming them into cats and werewolves, dogs, etc. This happened to her also, for she never was free of witchcraft but had a part in it. A superstitious belief resulted, that on Satur- days she had to be a serpent. This was her pledge to the devil for his helping her in getting a man.
+Taking her for a devil and considering her such, he married another woman and thus broke his promise to her. 
 
-Otherwise, she was a nympha, with flesh and blood, fertile and well built to have children. She came from the nymphs to the humans on earth and lived there. But then, as superstitio seduces and vexes all beings, she went away from her people in her superstitious belief, to the places where the seduced people come who are bewitched in superstitionibus and spell-bound. Mind you, she remained the same serpent to the end of her life, and God knows how long it lasted. 
+Therefore, at the wedding, she gave him the sign through the ceiling during the banquet. Three days later, he was dead. 
 
-Thus these beings are warnings to us, to make us understand what we are on earth, and in what strange ways the devil deals with us and is after us in every corner. Nothing is hidden to him, neither in the depth of the sea nor in the center of the earth, where he whiles. 
+It requires great experience to judge in such matters, for the breaking of a pledge never remains without sanction, whatever it may be, to uphold honor and honesty and to prevent other evil and vice. 
 
-But wherever we are, there is also God who redeems those who are his, in all places. It is stupid, however, to consider such women ghosts and devils on the basis of such happenings and because they are not from Adam. 
+If she had been a ghost, from where would she have taken blood and flesh? 
 
-It is holding God's works in low esteem to assume that they are rejected because they have supersti- tiones. Yet there are more superstitiones in the Roman Church than in all these women and witches. And so it may be a warn- ing that if superstitio turns a man into a serpent, it also turns him into a devil. 
+If she had been a devil, where would she have hidden the devil's marks which always go with it? 
 
-That is, if it happens to nymphs, it also happens to you in the Roman Church. That is, you too will be transformed into such serpents, you who now are pretty and handsome, adorned with large diadems and jewels. In the end you will be a serpent and dragon, like Melusine and others of her kind.
+If it had been a spirit, why should it have needed such a being? 
+
+She was a woman and a nympha, a woman in honor, not in dishonor. 
+
+This is why she wanted duty and loyalty to be kept. 
+
+Since they were not kept, she herself, from divine destiny, punished the adulterer (for no judge would have passed a sentence at her request, since she was not from Adam). 
+
+Thus, God granted her the punishment that is appropriate for adultery, and permitted her to be her own judge, since the world repudiated her as a spirit or devil. 
+
+Many more such things have happened that are despised by men, badly so and it is a sign of great stupidity.
+
+We must pay equally great attention to Melusine, for she was not what the theologians considered her, but a nympha. 
+
+She was possessed by the evil spirit, of which she would have freed herself if she had stayed with her husband to the end.
+
+For such is the devil that he transforms these beings into different shapes, as he also does with the witches, transforming them into cats and werewolves, dogs, etc. 
+
+This happened to her also, for she never was free of witchcraft but had a part in it. 
+
+A superstitious belief resulted, that on Saturdays she had to be a serpent. 
+
+This was her pledge to the devil for his helping her in getting a man.
+
+Otherwise, she was a nympha, with flesh and blood, fertile and well built to have children. 
+
+She came from the nymphs to the humans on earth and lived there. But then, as superstitio seduces and vexes all beings, she went away from her people in her superstitious belief, to the places where the seduced people come who are bewitched in superstitionibus and spell-bound. Mind you, she remained the same serpent to the end of her life, and God knows how long it lasted. 
+
+Thus these beings are warnings to us, to make us understand what we are on earth, and in what strange ways the devil deals with us and is after us in every corner. 
+
+Nothing is hidden to him, neither in the depth of the sea nor in the center of the earth, where he whiles. 
+
+But wherever we are, there is also God who redeems those who are his, in all places. 
+
+However, it is stupid to consider such women as ghosts and devils on the basis of such happenings and because they are not from Adam. 
+
+It is holding God's works in low esteem to assume that they are rejected because they have superstitions. 
+
+Yet there are more superstitions in the Roman Church than in all these women and witches. 
+
+And so it may be a warning that if superstition turns a man into a serpent, it also turns him into a devil. 
+
+That is, if it happens to nymphs, it also happens to you in the Roman Church. 
+
+You too will be transformed into such serpents, you who now are pretty and handsome, adorned with large diadems and jewels. 
+
+In the end, you will be a serpent and dragon, like Melusine and others of her kind.
 
 Therefore, consider such things carefully, and be not blind with seeing eyes and dumb with good tongues, particularly since you will not let yourselves be called dumb and blind.
