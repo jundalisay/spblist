@@ -1,9 +1,40 @@
-Chapter VI.
-We must now enquire concerning Happiness, not only from our conclusion and the data on which our reasoning proceeds, but likewise from what is commonly said about it: because with what is true all things which really are are in harmony, but with that which is false the true very soon jars.
+---
+heading: Chapters 6-8
+title: "What is Happiness?"
+weight: 8
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+image: "/covers/ethics.jpg"
+description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
+icon: "/icons/aris.png"
+---
 
-Now there is a common division of goods into three classes; one being called external, the other two those of the soul and body respectively, and those belonging to the soul we call most properly and specially good. Well, in our definition we assume that the actions and workings of the soul constitute Happiness, and these of course belong to the soul. And so our account is a good one, at least according to this opinion, which is of ancient date, and accepted by those who profess philosophy. Rightly too are certain actions and workings said to be the end, for thus it is brought into the number of the goods of the soul instead of the external. Agreeing also with our definition is the common notion, that the happy man lives well and does well, for it has been stated by us to be pretty much a kind of living well and doing well.
 
-And further, the points required in Happiness are found in combination in our account of it.
+## Chapter 6
+
+What is Happiness?
+
+Our basis for the answer should be from:
+- our conclusion
+- the data from our reasoning
+- the data from what is commonly said about it
+
+This is because with what is true all things which really are are in harmony, but with that which is false the true very soon jars.
+
+There is a common division of goods into 3 classes:
+
+1. The External
+2. Those of the soul and body
+3. Those belonging to the soul we call most properly and specially good
+
+In our definition, we assume that the actions and workings of the soul constitute Happiness. These of course belong to the soul. 
+
+And so our account is a good one, at least according to this opinion, which is of ancient date, and accepted by those who profess philosophy. 
+
+Rightly too are certain actions and workings said to be the end, for thus it is brought into the number of the goods of the soul instead of the external. Agreeing also with our definition is the common notion, that the happy man lives well and does well, for it has been stated by us to be pretty much a kind of living well and doing well.
+
+The points required in Happiness are found in combination in our account of it.
 
 For some think it is virtue, others practical wisdom, others a kind of scientific philosophy; others that it is these, or else some one of them, in combination with pleasure, or at least not independently of it; while others again take in external prosperity.
 
@@ -26,10 +57,19 @@ For all these co-exist in the best acts of working: and we say that Happiness is
 
 Still[26] it is quite plain that it does require the addition of external goods, as we have said: because without appliances it is impossible, or at all events not easy, to do noble actions: for friends, money, and political influence are in a manner instruments whereby many things are done: some things there are again a deficiency in which mars blessedness; good birth, for instance, or fine offspring, or even personal beauty: for he is not at all capable of Happiness who is very ugly, or is ill-born, or solitary and childless; and still less perhaps supposing him to have very bad children or friends, or to have lost good ones by death. As we have said already, the addition of prosperity of this kind does seem necessary to complete the idea of Happiness; hence some rank good fortune, and others virtue, with Happiness.
 
-Chapter VII.
-And hence too a question is raised, whether it is a thing that can be learned, or acquired by habituation or discipline of some other kind, or whether it comes in the way of divine dispensation, or even in the way of chance.
+## Chapter 7
 
-Now to be sure, if anything else is a gift of the Gods to men, it is probable that Happiness is a gift of theirs too, and specially because of all human goods it is the highest. But this, it may be, is a question belonging more properly to an investigation different from ours:[27] and it is quite clear, that on the supposition of its not being sent from the Gods direct, but coming to us by reason of virtue and learning of a certain kind, or discipline, it is yet one of the most Godlike things; because the prize and End of virtue is manifestly somewhat most excellent, nay divine and blessed.
+Hence, is Happiness a thing that can be learned? Or can it be acquired by habituation or discipline of some other kind? Or does it come from divine dispensation? Or does it come by the way of chance?
+
+<!-- Now to be sure, if anything else is a gift of the Gods to men,  -->
+
+It is probable that Happiness is a gift of the Gods. This is because it is the highest of all human goods. 
+
+But this, it may be, is a question belonging more properly to an investigation different from ours:[27] 
+
+There is a supposition that Happiness is not sent from the Gods directly. Instead, it comes to us by reason of virtue and learning of a certain kind, or discipline. Yet, it is one of the most Godlike things.
+
+This is because the prize and End of virtue is manifestly somewhat most excellent, nay divine and blessed.
 
 It will also on this supposition be widely participated, for it may through learning and diligence of a certain kind exist in all who have not been maimed[28] for virtue.
 

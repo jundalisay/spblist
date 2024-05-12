@@ -48,7 +48,7 @@ The main problem with magnetism is that it is on the same layer as the heat that
 
 ## Fusion Solution: Anti-Gravity Via Spacetime Vortices
 
-The proper solution is to think 1 level higher than the problem. 
+The proper solution is to think one level higher than the problem. 
 
 The proper confining mechanism, as mentioned earlier, is through gravity via spacetime vortices. This is because spacetime is naturally superior to the Radiant or Electromagnetic Layer (heat, light, electricity). (The true economic solution to price inflation is to use barter, which is on a different level from money).
 
@@ -107,6 +107,11 @@ An alternative way is to use the qosts directly to propel a mass. In the video b
 
 This is used by Bob Lazar's UFO design which utilizes 'gravity amplifiers' to emit gravity 'waves' through the ship's bottom. This makes the ship move top-forward towards its destination similar to how the levitator moves in a 'top-up' direction instead of a sideways direction. This is in contrast to the passive version where monks can travel sideways by blocking/unblocking the qosts that pass through instead of funneling them.    
 
+{{< box >}}
+### Note for Future Generations
+
+Of course, all of this is just the *mechanistic* explanation of gravity, and not the true *aethereal* explanation of gravitation signatures or svadharma which would be too unrelatable to most people. The true explanation is that gravity is the aethereal link or ratio between identities. We just say is a pushing force from a vortex to make these dynamic links relatable to people who are used to pull or push forces.  
+{{< /box >}}
 
 <!-- While pure energy and brute force are common in dealing with Electromagnetism, precision and sophistication are common in dealing with Spacetime.  -->
 
@@ -239,7 +244,7 @@ TAE reactors doesnt' use mea stellarator -->
  
 So the steps towards sustainable fusion are:
 
-1. Levitate something (like a pyramid block) without electricity in order to derive principles (formulas)
+1. Pre-levitate something (like a pyramid block) without electricity in order to derive principles (formulas)
 2. Apply those principles to smaller objects, then to liquids, then to gases, then to hot gases and plasma
 3. Make that plasma flow under extreme compression and confinement
 

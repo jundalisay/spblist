@@ -1,5 +1,21 @@
-Chapter VIII.
-Are we then to call no man happy while he lives, and, as Solon would have us, look to the end? And again, if we are to maintain this position, is a man then happy when he is dead? or is not this a complete absurdity, specially in us who say Happiness is a working of a certain kind?
+---
+heading: Chapters 6-8
+title: "What is Happiness?"
+weight: 10
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+image: "/covers/ethics.jpg"
+description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
+icon: "/icons/aris.png"
+---
+
+
+## Chapter 8
+
+Are we then to call no man happy while he lives, and, as Solon would have us, look to the end? 
+
+If we are to maintain this position, is a man then happy when he is dead? or is not this a complete absurdity, specially in us who say Happiness is a working of a certain kind?
 
 If on the other hand we do not assert that the dead man is happy, and Solon does not mean this, but only that one would then be safe in pronouncing a man happy, as being thenceforward out of the reach of evils and misfortunes, this too admits of some dispute, since it is thought that the dead has somewhat both of good and evil (if, as we must allow, a man may have when alive but not aware of the circumstances), as honour and dishonour, and good and bad fortune of children and descendants generally.
 
@@ -27,8 +43,11 @@ Or we must add, that not only is he to live so, but his death must be in keeping
 
 On these points then let it suffice to have denned thus much.
 
-Chapter IX.
-Now that the fortunes of their descendants, and friends generally, contribute nothing towards forming the condition of the dead, is plainly a very heartless notion, and contrary to the current opinions.
+
+
+## Chapter 9
+
+The fortunes of their descendants, and friends generally, contribute nothing towards forming the condition of the dead, is plainly a very heartless notion, and contrary to the current opinions.
 
 But since things which befall are many, and differ in all kinds of ways, and some touch more nearly, others less, to go into minute particular distinctions would evidently be a long and endless task: and so it may suffice to speak generally and in outline.
 

@@ -1,5 +1,5 @@
 ---
-heading: Chapter 1
+heading: Chapters 1-2
 title: "The Ends of Anything"
 weight: 2
 writer:

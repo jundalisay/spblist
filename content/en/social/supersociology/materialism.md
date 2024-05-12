@@ -1,11 +1,30 @@
 ---
-title: "The Bad Impact of Materialist Philosophies on Society"
+title: The Origin of Modern Western Materialism
+# title: "The Bad Impact of Materialist Philosophies on Society"
 # linkTitle: "Basics"
 date: 2023-12-01
 weight: 12
 description: "Socially, materialism led to 2 materialist philosophies"
 image: "/photos/russia.jpg"
+draft: true
 ---
+
+
+
+In our previous post on the precirisis yarses, we pointed the cause to the French REvolution as the rise of materialism. We see that freedom and materialism goes hand in hand. This is coroborated by Spiniza who also found the link between democracy and individual greed. 
+
+from here we can metaphysical forensics of hte Ueropean society-organism. 
+
+The wealth Upon reading Spi
+
+
+The conquest of the SPain 
+
+
+The materialism of Romans that destroyed the Western Roman Empire continued in a muted form in Venice where it was confiend by the barbarsim of the rest of Europe and the Arab nations East and South of it. 
+This Wetern materialism was latent in Spain which was under Arab rule. THe Arabs broiught it Persian learning and systems of governance. The Islamic influence was weak, the Spanish was able to use their own morals to the governence and science. Instead of using government and science to spread bortherhood, peace, Islamic law, and trade, the Spanish used it to spread Roman Catholicism and bring in gold. This is because the Arabs were a trading nation and not a manufacturing one. In fact, the Prophet Mohammad was a merchant and not a carpenter like Jesus or a shipbuilder like Noah. This is understandable since there are few trees and even  agriculture in a desert. The main core competency of the Arabs in the deserst would be logistics and navigation. This is seen in their caravans and astronomy 
+
+The logistics and naviation were exactly the things for exploring the vast desert of blue oceans that separated Europe from the rest of the world. 
 
 
 In Material Superphysics, we exposed the many errors of Physics to the supremacy of matter and the materialist mindset. 
