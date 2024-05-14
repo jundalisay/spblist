@@ -1,7 +1,7 @@
 ---
 title: "CARING FOR BINDESHWARIJI"
 heading: Chapter 14b
-weight: 31
+weight: 33
 description: "I returned with Bindeshwariji to Jamalpur that very night. Somehow that night passed off."
 image: "/covers/katha.png"
 author: Nagina

@@ -1,7 +1,7 @@
 ---
 title: "R. PRASAD AND THE SMUGGLERS"
 heading: Chapter 31
-weight: 58
+weight: 98
 description: "An Editor’s note in Prajina Bharati October 1983"
 image: "/covers/katha.png"
 author: Nagina

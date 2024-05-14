@@ -47,14 +47,15 @@ I wanted to go via the railway station market, so that I could buy some fruits f
 Baba. He enquired why I wanted to go via the station, as it was a longer route. I replied
 that I wanted to buy fruits for Baba. My friend asked me to stop the car, and he got out
 of it in hurry.
+
 He said, "If you have to take fruits for Baba, then go alone. But know well, that if
 you are turned out today, never again will you be allowed to enter there."I was perplexed, but anyhow I dropped the idea of purchasing fruit. Then at my
 request, my friend again got in the car, and we went together to Baba's house. He
 remained in the car outside, and I went into Baba's drawing room for His darshan.
-Baba came, and I touched His feet, I immediately felt immensely peaceful and
-satisfied.
-After some talk on my meditation I asked Baba, "Baba today, before coming
-here I wanted to buy some fruits for you, but the sadhaka brother stopped me and said
+
+Baba came, and I touched His feet, I immediately felt immensely peaceful and satisfied.
+
+After some talk on my meditation I asked Baba, "Baba today, before coming here I wanted to buy some fruits for you, but the sadhaka brother stopped me and said
 that you would not like it, and would prohibit me coming to your house again. Baba, it is
 our tradition that one does not go empty handed before one’s guru, God and the king. If
 nothing else, one should take some green leaves, flowers or fresh water."

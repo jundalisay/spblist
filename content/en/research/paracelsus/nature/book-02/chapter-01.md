@@ -13,13 +13,13 @@ writer:
 
 It is sufficiently manifest, and knowne to every one, that all naturall things grow, and are ripened through heat, and moisture, which is sufficiently demonstrated by rain, and the heat of the sun. For no man can deny that rain doth make the Earth fruitfull, and it is granted by all, that all fruits are ripened by the sun.
 
-An artificiall ripening of things.
+An artificial ripening of things.
 
 Seeing therefore this is by divine ordination naturally possible, who can gain-say, or not beleeve that a man is able, through the wise, and skilfull Art of Alchymie, to make that which is barren, fruitfull, and that which is crude, to ripen, and all things to grow, and to be increased.
 
 God hath subjected all things to man.For the Scripture saith, that God subjected all creatures to man, and put them into his hands as being his own, that he  might use them for his necessity, and rule over the fish of the sea, fowles of the aire, and all things upon the Earth, nothing excepted. 
 
-Wherefore man might well rejoice that God should so endow him with the excellency of Nature, that all the creatures of God should be forced to obey, and be subject to him, especially the whole Earth, and all things which are bred, live, and move in, and upon it. Since therefore wee see with our eyes, and are taught by daily experience, that by how much the oftner, & more abundantly the rain doth moisten the earth, and the sun doth again with its heat and warmth dry it, so much the sooner doe the fruits of the Earth come forth and are ripened, yea all fruits doe cleerly grow, and increase, what time of the yeer soever it be; The artificiall generation of fruit.
+Wherefore man might well rejoice that God should so endow him with the excellency of Nature, that all the creatures of God should be forced to obey, and be subject to him, especially the whole Earth, and all things which are bred, live, and move in, and upon it. Since therefore wee see with our eyes, and are taught by daily experience, that by how much the oftner, & more abundantly the rain doth moisten the earth, and the sun doth again with its heat and warmth dry it, so much the sooner doe the fruits of the Earth come forth and are ripened, yea all fruits doe cleerly grow, and increase, what time of the yeer soever it be; The artificial generation of fruit.
 
 Let no man henceforth wonder, that the Alchymist also by a manifold imbibition, and distillation should not doe the same. For what else is rain but the imbibition of the Earth? and the heat of the Sun, but the distillation of the Sun, which drawes up those humidities again? Wherefore I say it is possible by such a kind of Art, even in the midle of Winter to bring forth green Herbs, Flowers, and other fruit, through Earth, and Water, out of the seed, and root: 
 

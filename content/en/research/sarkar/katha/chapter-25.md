@@ -1,7 +1,7 @@
 ---
 title: "BABA’S CHILDHOOD AND FAMILY LIFE"
 heading: Chapter 25
-weight: 46
+weight: 76
 description: "His family and his father had lot of goodwill and fame in Jamalpur"
 image: "/covers/katha.png"
 author: Nagina

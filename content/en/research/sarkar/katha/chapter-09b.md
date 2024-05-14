@@ -1,7 +1,7 @@
 ---
 title: "THE ‘OUTSIDE’ DISCIPLES"
 heading: Chapter 9b
-weight: 21
+weight: 19
 description: "He sits there in front of me and I guide him in sadhana. His sadhana has progessed very rapidly"
 image: "/covers/katha.png"
 author: Nagina

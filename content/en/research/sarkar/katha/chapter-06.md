@@ -1,16 +1,13 @@
 ---
 title: "ASTHANAJI"
 heading: Chapter 6
-weight: 14
+weight: 13
 description: "My boss, Asthanaji asked us to stay for tea"
 image: "/covers/katha.png"
 author: Nagina
 ---
 
-
-
-During the rainy season in 1954, I had to go to Bhagalpur to attend a
-departmental conference. Many other officers of my own rank also attended. 
+During the rainy season in 1954, I had to go to Bhagalpur to attend a departmental conference. Many other officers of my own rank also attended. 
 
 When the meeting was over at about five, my boss, Asthanaji asked us to stay for tea. Amongst
 those present, one remarked that Nagina might not take tea as he is doing some

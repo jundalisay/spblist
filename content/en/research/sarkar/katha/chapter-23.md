@@ -1,7 +1,7 @@
 ---
 title: "THE IDEOLOGY AND LITERATURE OF ANANDA MARGA"
 heading: Chapter 23
-weight: 42
+weight: 72
 description: "Ananda Marga is a philosophy and Shrii Shrii Anandamurtiji it its propounder"
 image: "/covers/katha.png"
 author: Nagina

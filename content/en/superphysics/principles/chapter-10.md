@@ -80,9 +80,12 @@ Chapter | Principle
 5 | 2 Forces, Territories, Influences
 6 | Dharma
 7 | Life and Mind
+8 | 5 Layers
+9 | The Supreme
 
 
+In a nutshell, Superphysics is **a paradigm that merges the known and proven perceptions of the physical and metaphysical domains (Chapters 1-2, 8) in order to find patterns (Chapters 3-5) and principles (Chapters 6-9) for the sake of solving problems**.
 
- paradigm that sees the universe or reality as being made up of 2 Forces and 5 Layers. 
+<!--  paradigm that sees the universe or reality as being made up of 2 Forces and 5 Layers. 
 
-Superphysics is the paradigm that sees the universe as being made up of waves.
+Superphysics is the paradigm that sees the universe as being made up of waves. -->

@@ -1,110 +1,78 @@
-The orange fire 
-
-Since I've been here, the sky has been overcast. It drizzles continu¬ 
-ously-adding to the gloomy feeling. I am told that the weather was fine 
-until the moment Baba left on the 21st. This morning, the weather was 
-still dismal. 
-
-About ten thousand Margis were gathered on the front lawn in front 
-of the Central Office. All of us either sat or stood around the great 
-cement funeral pyre which has been constructed in the shape of a six- 
-pointed star (as in our symbol). It will remain as a permanent reminder 
-of this day. The crowd was abnormally restrained in their behavior. They 
-sang non-stop PrabhatSangiit and kiirtan. 
-
-At noon, the pall bearers appeared, carrying an open coffin in which 
-Baba lay. Almost in one voice, thousands of persons let out a gasp, then 
-a sigh. Though many wept quietly, the overall atmosphere was calm. 
-According to Ananda Marga system, a short ceremony to console the 
-bereaved was performed in which all participated. A final Guru Puja was 
-sung, sung with a feeling never before known. 
-
-Purified butter was poured on His body, the fire lit, and thick, dark 
-smoke rose. Exactly at that moment, two things happened. After six 
+---
+title: "The Orange Fire"
+# heading: "Part 2"
+description: "Last night, I went to sleep at 11pm in a second-story room of the yoga house. The other bed next to mine was empty."
+image: "/covers/mystic.jpg"
+weight: 3
+author: Dada
+---
 
 
-days of continuous clouds, the sky suddenly cleared sufficiently for the 
-sun to shine down brightly, the rays illuminating only the cremation 
-area. At the same time, a flock of birds dropped down from the clouds in 
-a V-formation, executed a tight circle directly over His body, and flew off 
-in steep ascent. 
+Since I've been here, the sky has been overcast. It drizzles continuously, adding to the gloomy feeling. 
+
+I am told that the weather was fine until the moment Baba left on the 21st. This morning, the weather was  still dismal. 
+
+About ten thousand Margis were gathered on the front lawn in front of the Central Office. All of us either sat or stood around the great  cement funeral pyre which has been constructed in the shape of a six-pointed star (as in our symbol). It will remain as a permanent reminder of this day. 
+
+The crowd was abnormally restrained in their behavior. They sang non-stop PrabhatSangiit and kiirtan. 
+
+At noon, the pall bearers appeared, carrying an open coffin in which Baba lay. Almost in one voice, thousands of persons let out a gasp, then  a sigh. Though many wept quietly, the overall atmosphere was calm.  
+
+According to Ananda Marga system, a short ceremony to console the  bereaved was performed in which all participated. A final Guru Puja was  sung, sung with a feeling never before known. 
+
+Purified butter was poured on His body, the fire lit, and thick, dark  smoke rose. Exactly at that moment, two things happened. After six days of continuous clouds, the sky suddenly cleared sufficiently for the 
+sun to shine down brightly, the rays illuminating only the cremation  area. 
+
+At the same time, a flock of birds dropped down from the clouds in a V-formation, executed a tight circle directly over His body, and flew off in steep ascent.
+
 
 ## He Sends Out a Clarion Call 
 
-For three hours the orange fire burned. The crowd continued to sit 
-and sing. During all that time, the sun shined brightly. At last, the fire 
-was gone, and only the slight remains went on smoking. The sun again 
-disappeared, the sky grew cloudy and somber, and gradually the Margis 
-dispersed. 
+For 3 hours, the orange fire burned. The crowd continued to sit  and sing. 
 
-Later in the evening, I was sitting alone on the roof, thinking of 
-nothing in particular. I felt freer than ever and full of love for Baba. For 
-a moment, my mind looked at itself and wondered why it was feeling so 
-peaceful. Immediately I knew: a previously unrecognized impediment in 
-my relation with Baba had been burned. 
+During all that time, the sun shined brightly. At last, the fire was gone, and only the slight remains went on smoking. The sun again  disappeared, the sky grew cloudy and somber, and gradually the Margis dispersed. 
 
-I found that I had always harbored a fear, deep in my subconscious 
-mind, that something in my guru was not perfect, that some sort of 
-personal ambition or purpose may have affected Him. Though I had not 
-been aware of this fear, it had nevertheless subtly affected me. Now it 
-was abundantly clear that He was a man who had not been guided by 
-even the minutest ego. His death was the final proof. Though He had 
-obviously planned His final moment in detail, He made no drama of it. 
+Later in the evening, I was sitting alone on the roof, thinking of nothing in particular. I felt freer than ever and full of love for Baba. For a moment, my mind looked at itself and wondered why it was feeling so 
+peaceful. Immediately I knew: a previously unrecognized impediment in  my relation with Baba had been burned. 
 
-The manner of His departure was in perfect silent harmony with the 
-message of His life. 
+I found that I had always harbored a fear, deep in my subconscious mind, that something in my guru was not perfect, that some sort of  personal ambition or purpose may have affected Him. 
 
+Though I had not been aware of this fear, it had nevertheless subtly affected me. Now it was abundantly clear that He was a man who had not been guided by 
+even the minutest ego. His death was the final proof. Though He had  obviously planned His final moment in detail, He made no drama of it. 
 
-If my story were divided dramatically, my first years on the spiritual 
-path and in Ananda Marga would be Act I, and the period I physically 
-knew Baba would be Act II. His physical departure leads me into Act III. 
-Act III is the most critical one, for it is in His absence that we will see the 
-test of His teachings, His love and the Tantric power that He exudes 
-without the burden of a physical body. 
+The manner of His departure was in perfect silent harmony with the message of His life. 
 
-A few years ago, He mentioned in a workers' meeting: "After my 
-physical passing, Margis and workers will be blessed with greater psy¬ 
-chic and spiritual attention than I am presently able to provide. They 
-will be very fortunate." At that time we gave little importance to His 
-words, thinking He would remain with us for a long time. 
+If my story were divided dramatically, it would be in 3 Acts:
 
-Though it is still too early to know how Act III will unfold, we can 
-take a look at some of the earliest scenes. 
+Act | Description
+1 | My first years on the spiritual path and in Ananda Marga
+2 | The period I physically  knew Baba
+3 | His physical departure
 
-Continuation of H is system 
+Act 3 is the most critical one, for it is in His absence that we will see the  test of His teachings, His love and the Tantric power that He exudes  without the burden of a physical body.
 
-Calcutta. 28 October. Several newspapers reported: "In the after- 
-math of P.R. Sarkar's passing, a great power struggle flares among 
-Ananda Marga's Central workers, as they fight over establishing new 
-systems and new leadership." As usual, the newspapers write with an 
-authority they don't deserve. Here everyone is aware of Baba's warning 
-to His brother and other family members that "After M aha Guru Ni Pat, 
-the departure of the great guru, for one year you must be very careful." 
-No one contemplates making major changes during this period. As the 
-Central Committee already exists, it is only necessary to chose a new 
-president. 
+A few years ago, He mentioned in a workers' meeting: "After my physical passing, Margis and workers will be blessed with greater psychic and spiritual attention than I am presently able to provide. They 
+will be very fortunate." At that time we gave little importance to His words, thinking He would remain with us for a long time. 
 
-Today, without fanfare, Dada Shraddhananda was unanimously 
-elected for the post. From all corners of our organization, he is regarded 
-as a saintly man, simple, straightforward, and uninvolved in 
+Though it is still too early to know how Act III will unfold, we can take a look at some of the earliest scenes. 
 
+## Continuation of H is system 
 
+Calcutta. 28 October. Several newspapers reported: "In the aftermath of P.R. Sarkar's passing, a great power struggle flares among  Ananda Marga's Central workers, as they fight over establishing new systems and new leadership." 
 
-political psychology or favoritism. Over seventy years old, he spent the 
-last years working in a small room as Central Finance Secretary and 
-editor of the Central newsletter. 
+As usual, the newspapers write with an authority they don't deserve. Here everyone is aware of Baba's warning to His brother and other family members that "After M aha Guru Ni Pat,  the departure of the great guru, for one year you must be very careful."
 
-Though it has no relation to the above, now, while writing, I 
-suddenly remember my dream of January 1987 104 . Baba gave me a 
-glimpse of a symbolic future when I should be careful not to forget Him 
-due to the presence of other personalities, no matter how outstanding 
-they might be. 
+No one contemplates making major changes during this period. As the Central Committee already exists, it is only necessary to chose a new president. 
 
-" W hatever happens I planned long ago" 
+Today, without fanfare, Dada Shraddhananda was unanimously elected for the post. From all corners of our organization, he is regarded  as a saintly man, simple, straightforward, and uninvolved in political psychology or favoritism. Over seventy years old, he spent the  last years working in a small room as Central Finance Secretary and  editor of the Central newsletter. 
 
-New Delhi. November. I don't know how many Margis and workers 
-told me stories of their dreams or thoughts which clearly foreshadowed 
-Baba's departure. I heard so many that it seems like nearly everyone had 
+Though it has no relation to the above, now, while writing, I  suddenly remember my dream of January 1987 104. 
+
+Baba gave me a  glimpse of a symbolic future when I should be careful not to forget Him  due to the presence of other personalities, no matter how outstanding they might be. 
+
+"Whatever happens I planned long ago" 
+
+New Delhi. November. I don't know how many Margis and workers  told me stories of their dreams or thoughts which clearly foreshadowed  Baba's departure. I heard so many that it seems like nearly everyone had 
 some form of premonition. 
 
 I recall my own experience last June in Ananda Nagar: for the first 

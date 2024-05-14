@@ -1,7 +1,7 @@
 ---
 title: "Some Clarifications"
-heading: Introduction 2
-weight: 3
+# heading: Introduction 2
+weight: 303
 description: "Crudification or Saiṋcara is the centrifugal activity of the Nucleus (Puruśottama) of the Macrocosm"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"
@@ -21,7 +21,7 @@ Chapter | Event
 9 | Winter 1954: Baba solves my difficulties in meditation and explains how His assistance is given from a distance. Shyam Charan Lahiri becomes ‘Vajra Bhairav’ at the tiger’s grave. Baba’s disciples of His previous lives. The ‘white lady’. The power and use of iis’t’a and guru mantras. Bindeshwariji’s daughter is initiated and her life is extended. My methods of pracar.33
 10 | November 1954: Demonstrations.
 
-Sunday 7 : Samadhis
+<!-- Sunday 7 : Samadhis
 th
 Sunday 14 Savikalpa and Nirvikalpa samadhi.
 st
@@ -55,7 +55,7 @@ March 1955: Holi is celebrated. Baba’s method of initiation and my father meet
 17 | 22 March 1955: Baba reveals His iis’t’a mantra and His desire to leave His body.
 
 25 March 1955: Baba becomes kalpataru and again tries to leave His body.
-He explanation of ‘nirman citta’..82
+He explanation of ‘nirman citta’..82 -->
 
 Chapter | Event
 --- | ---

@@ -1,7 +1,7 @@
 ---
 title: "SPIRITUAL ATTAINMENT AND ITS’ DOWNFALL"
 heading: Chapter 22
-weight: 40
+weight: 64
 description: "An Editor’s note in Prajina Bharati October 1983"
 image: "/covers/katha.png"
 author: Nagina

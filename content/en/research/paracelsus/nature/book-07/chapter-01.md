@@ -120,7 +120,7 @@ The one is done only by common Aire, or without Fire. The other by the superiour
 
 [Pg 68]
 
-But the Coagulation of Fire, which alone is here to bee taken notice of, is made by an Artificiall, and Graduall Fire of the Alchymists, and it is fixed, and permanent. For whatsoever such a Fire doth coagulate, the same abides so.
+But the Coagulation of Fire, which alone is here to bee taken notice of, is made by an artificial, and Graduall Fire of the Alchymists, and it is fixed, and permanent. For whatsoever such a Fire doth coagulate, the same abides so.
 
 The other Coagulation is done by the Ætnean, and Minerall Fire in Mountains, which indeed the Archeius of the Earth governs, and graduates not unlike to the Alchymists, and whatsoever is coagulated by such a Fire, is also fixed, and constant; as you see in Mineralls, and metals, which indeed at the beginning are a mucilaginous matter, and are coagulated into metals, Stones, Flints, Salts, and other bodies, by the Ætnean fire in Mountaines, through the Archeius of Earth, and operator of Nature.
 

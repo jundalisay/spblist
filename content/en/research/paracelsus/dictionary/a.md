@@ -165,7 +165,7 @@ Arsenicum is the flashing of metals, or the salt of them, or of Saturn, which in
 
 Artetiscus is he that wants any member.
 
-Arthoicum is red oyle, artificially extracted out of the rootes of Hearbs digested with bread in dung.
+Arthoicum is red oyle, artificialy extracted out of the rootes of Hearbs digested with bread in dung.
 
 Asaphatum is an itch bred betwixt the skin, and the flesh, like worms: and if the skinne bee crushed, long threds with black heads come forth.
 

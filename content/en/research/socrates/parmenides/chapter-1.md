@@ -81,27 +81,28 @@ And so you deceive the world into believing that you are saying different things
 {{< /l >}}
 
 {{< r a="Zeno" >}}
-Yes, Socrates, said Zeno. 
-
-You are as keen as a Spartan hound in pursuing the track. But you do not fully apprehend the true motive of the composition, which is not really such an artificial work as you imagine. 
+Yes. You are as keen as a Spartan hound in pursuing the track. But you do not fully apprehend the true motive of the composition, which is not really such an artificial work as you imagine. 
 
 For what you speak of was an accident; there was no pretence of a great purpose; nor any serious intention of deceiving the world. 
 
 The truth is, that these writings of mine were meant to protect the arguments of Parmenides against those who make fun of him and seek to show the many ridiculous and contradictory results which they suppose to follow from the affirmation of the one. 
+{{< /r >}}
 
+{{< r a="Zeno" >}}
 My answer is addressed to the partisans of the many, whose attack I return with interest by retorting upon them that their hypothesis of the being of many, if carried out, appears to be still more ridiculous than the hypothesis of the being of one. Zeal for my master led me to write the book in the days of my youth, but some one stole the copy; and therefore I had no choice whether it should be published or not; the motive, however, of writing, was not the ambition of an elder man, but the pugnacity of a young one. This you do not seem to see, Socrates; though in other respects, as I was saying, your notion is a very just one.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-I understand. 
-
-But tell me, Zeno, don't you think that there is an idea of likeness in itself, and another idea of unlikeness?
+I understand.  But tell me, Zeno, don't you think that there is an idea of likeness in itself, and another idea of unlikeness?
 
 The latter is the opposite of likeness. "Many" participates in likeness and unlikeness 
 - things which participate in 'likeness' become 'like' in that degree and manner
 - things which participate in 'unlikeness' become in that degree unlike
 - both like and unlike become in the degree in which they participate in both.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 All things can partake of both opposites, and be both like and unlike because of this participation.
 
 If a person could prove the absolute 'like' to become 'unlike', or the absolute 'unlike' to become 'like', then it would be a wonder. But there is nothing extraordinary in showing that the things which only partake of likeness and unlikeness experience both.
@@ -113,8 +114,11 @@ If a person were to show that all is one by partaking of one, and at the same ti
 
 But if he were to show me that the absolute one was many, or the absolute many one, I should be truly amazed.
 
-And so of all the rest= I should be surprised to hear that the natures or ideas themselves had these opposite qualities; but not if a person wanted to prove of me that I was many and also one. When he wanted to show that I was many he would say that I have a right and a left side, and a front and a back, and an upper and a lower half, for I cannot deny that I partake of multitude; when, on the other hand, he wants to prove that I am one, he will say, that we who are here assembled are seven, and that I am one and partake of the one.
+And so of all the rest. I should be surprised to hear that the natures or ideas themselves had these opposite qualities; but not if a person wanted to prove of me that I was many and also one. When he wanted to show that I was many he would say that I have a right and a left side, and a front and a back, and an upper and a lower half, for I cannot deny that I partake of multitude; when, on the other hand, he wants to prove that I am one, he will say, that we who are here assembled are seven, and that I am one and partake of the one.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 In both instances he proves his case. So again, if a person shows that such things as wood, stones, and the like, being many are also one, we admit that he shows the coexistence of the one and many, but he does not show that the many are one or the one many; he is uttering not a paradox but a truism.
 
 If however, as I just now suggested, some one were to abstract simple notions of like, unlike, one, many, rest, motion, and similar ideas, and then to show that these admit of admixture and separation in themselves, I should be very much astonished.

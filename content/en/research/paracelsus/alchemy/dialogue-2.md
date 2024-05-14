@@ -11,9 +11,17 @@ date: 2024-02-24
 ---
 
 
-Merc. O my Philosopher, now I wil leave you, for I am not yours. Alch. O you art but a devill, and wilt seduce mee. 
+{{< r a="Mercury" >}}
+O my Philosopher, now I wil leave you, for I am not yours. 
+{{< /r >}}
 
-Merc. Truly my Philosopher you art a devill to mee, not I to thee: for you dost deale most sordidly with mee, after a devillish manner. Alch. O what doe I hear? this certainly is a devill indeed, for I do all things according to the writings of Philosophers, and know very well how to work. 
+Alch. O you art but a devill, and wilt seduce mee. 
+
+{{< r a="Mercury" >}}
+Truly my Philosopher you art a devill to mee, not I to thee: for you dost deale most sordidly with mee, after a devillish manner.
+{{< /r >}}
+
+Alch. O what doe I hear? this certainly is a devill indeed, for I do all things according to the writings of Philosophers, and know very well how to work. 
 
 Merc. you knowest very well, for you dost more then you knowest, or readst of: for the Philosophers said, that Nature is to be mixed with Natures; and they command nothing to bee done without Nature; but you dost mix mee with almost all the sordidst things that bee, as dung.
 
@@ -51,7 +59,7 @@ Merc. I doe as you wilt have me, if you wilt have me be a body, I am a body: if 
 
 Merc. I am constrained to tell from the very foundation. If you wilt you maist understand mee: you seest my shape, and of this you needest not know further. But because you askest mee of the Center, my Center is the most fixed heart of all things, immortal, and penetrating: in that my Master rests, but I my self am the way, and the passenger, I am a stranger, and yet live at home, I am most faithfull to all my companions, I leave not those that doe accompany mee; I abide with them, I perish with them. I am an immortall body: I die when I am slaine, but I rise againe to judgement before a wise Judge. 
 
-Alch. Art you therefore the Philosophers Stone? Merc. My mother is such a one, of her is born artificially one certain thing, but my brother who dwells in the fort, hath in his will what the Philosophers desire. 
+Alch. Art you therefore the Philosophers Stone? Merc. My mother is such a one, of her is born artificialy one certain thing, but my brother who dwells in the fort, hath in his will what the Philosophers desire. 
 
 Alch. Art you old? 
 

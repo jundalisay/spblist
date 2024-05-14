@@ -1,40 +1,35 @@
 ---
 title: "Dharma Mahacakra at Gorakhpur"
 heading: Chapter 35
-weight: 64
+weight: 114
 description: "It was decided to hold a Dharma Mahacakra at Gorakhpur"
 image: "/covers/katha.png"
 author: Nagina
 ---
 
 
-It was decided to hold a Dharma Mahacakra at Gorakhpur on the occasion of
-the full-moon day of the month of Ashada I could not attend due to the illness of my
-mother and my wife.
+It was decided to hold a Dharma Mahacakra at Gorakhpur on the occasion of\ the full-moon day of the month of Ashada I could not attend due to the illness of my mother and my wife.
 
-Baba had gone to Gorakhpur from Jamalpur via broad gauge through Varanasi
-but he was returning from by the meter gauge train. Thus I was bound to touch Hajipur
+Baba had gone to Gorakhpur from Jamalpur via broad gauge through Varanasi but he was returning from by the meter gauge train. Thus I was bound to touch Hajipur 
 on his way from the DMC. The train used to reach Hajipur after 9. p.m. I therefore said
 that I would arrange dinner for Baba and other Margii brothers returning from
 Gorakhpur along with Baba in the evening and over the foodstuffs to the assistant
 secretary at Hajipur so that they may not feel inconvenienced on the train on the
 journey. Moreover, the train reached at about dinnertime.
-I started the arrangements for Blissful Baba and the Margii brothers’ dinner.
-Obstacles also began to appear in their bulk as soon as I began the arrangements. At
-about eleven in the morning my domestic assistant came to inform me that my wife’s
-condition had suddenly deteriorated. I had just arranged for a doctor and medicines for
-her when I was informed that the 20 kilos of milk bought in the morning for making
-sweets had gone sour at about 2 p.m. I was quite depressed but my domestic assistant
-and aunt did not feel so disheartened. They suggested that milk could be obtained
-again in the evening from a neighboring village. They were determined to prepare good
-and tasty food for Baba and the Margii brothers accompanying Him.
 
-As we were discussing these arrangements, some four or five Margii brothers
-arrived from Muzaffarpur. I was very happy to meet them; but my house in Hajipur was
+I started the arrangements for Blissful Baba and the Margii brothers’ dinner.
+
+Obstacles also began to appear in their bulk as soon as I began the arrangements. At about 11am my domestic assistant came to inform me that my wife’s
+condition had suddenly deteriorated. I had just arranged for a doctor and medicines for her when I was informed that the 20 kilos of milk bought in the morning for making
+sweets had gone sour at about 2 p.m. I was quite depressed but my domestic assistant and aunt did not feel so disheartened. They suggested that milk could be obtained
+again in the evening from a neighboring village. They were determined to prepare good and tasty food for Baba and the Margii brothers accompanying Him.
+
+As we were discussing these arrangements, some four or five Margii brothers arrived from Muzaffarpur. I was very happy to meet them; but my house in Hajipur was
 very small. It was with great difficulty that I was pulling on therein with the members of
 my family. Now, I had to make arrangements for their night halt also I requested the
-guest brothers to adjust themselves to the conditions we were in. I asked my domestic
-assistant to arrange for their food and night half. After freeing myself form them, I sent
+guest brothers to adjust themselves to the conditions we were in. 
+
+I asked my domestic assistant to arrange for their food and night half. After freeing myself form them, I sent
 my servant to the neighboring village in the evening to purchase more milk. By six in
 the evening my wife’s conditions improved. Milk also came by about the same time.
 Now hope returned that we should be able to do some thing for the dinner of the Lord,

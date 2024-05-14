@@ -1,15 +1,14 @@
 ---
 title: "BABA’S IISTA MANTRA"
 heading: Chapter 17
-weight: 33
+weight: 40
 description: "An Editor’s note in Prajina Bharati October 1983"
 image: "/covers/katha.png"
 author: Nagina
 ---
 
 
-
-22nd MARCH 1955
+MARCH 22, 1955
 
 Right from the start, the evening of Tuesday 22 March 1955 seemed to be
 different from other evenings, though I knew of no reason why it should be. As usual, I

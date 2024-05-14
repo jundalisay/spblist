@@ -1,7 +1,7 @@
 ---
 title: "I RESUME MY DUTY"
 heading: Chapter 28
-weight: 52
+weight: 92
 description: "My leave finished on 6 January 1956"
 image: "/covers/katha.png"
 author: Nagina

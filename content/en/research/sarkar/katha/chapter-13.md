@@ -1,59 +1,42 @@
 ---
 title: "I RECEIVE MY DEMOTION ‘WHEN I WILL IT’"
 heading: Chapter 13
-weight: 28
+weight: 30
 description: "An Editor’s note in Prajina Bharati October 1983"
 image: "/covers/katha.png"
 author: Nagina
 ---
 
 
-
 The first and second of January 1955 were holidays. I, therefore, did not go to the office, nor have a chance to read my mail. On the third of January, when I went to the office, a big bunch of letters awaited my attention. One of the postcards was from a brother disciple.
 
 This was written in Jamalpur. There was another official letter in my name. First I read the postcard.
 
-Shri Pranayji had written that Baba enquired about me on 1 of January 1955 at the ashram-quarter in Jamalpur. As I was not there Baba said amongst other disciples that Nagina stands first in 1954. He wanted this to be communicated to me through a
-letter.
+Shri Pranayji had written that Baba enquired about me on 1 of January 1955 at the ashram-quarter in Jamalpur. As I was not there Baba said amongst other disciples that Nagina stands first in 1954. He wanted this to be communicated to me through a letter.
 
-I was in a state of worry and fear and I tried to understand the significance of
-this letter. Meanwhile I opened the official letter and found that it contained the order of
-my demotion. Thus did bad news follow the good. I thought of God’s greatness and
-how He had given me a mixture of pleasure and sorrow in one composite dose.
+I was in a state of worry and fear and I tried to understand the significance of this letter. Meanwhile I opened the official letter and found that it contained the order of my demotion. Thus did bad news follow the good. I thought of God’s greatness and how He had given me a mixture of pleasure and sorrow in one composite dose.
 
 I gave the demotion order to my office and wrote on that letter itself to keep my charge report ready. There was quite a stir in the office when they saw this order. My subordinates felt sorry, some were happy also. My head clerk pointed out that this copy was personal and that it was not necessary to pass it on to the office.
 
-Mostly such orders are not made public and people come to know the truth much later. I said, “what
-is the use of hiding the truth for any time and how long can it be done? After all truth
-will be out one day - then why not just now?” At this my head clerk passed the order on
-to the office.
+Mostly such orders are not made public and people come to know the truth much later. I said, “what is the use of hiding the truth for any time and how long can it be done? After all truth will be out one day - then why not just now?” At this my head clerk passed the order on to the office.
 
-Shri Deep Narayanji was also in my department and his posting was under me.
-He was also present in the office that day. He was overwhelmed with grief and
-suggested that this order should be shown to Baba. I said that was of no use. Even so
-he insisted made me write a letter to Baba to inform Him about this matter. He saw
-Baba on fourth January and Baba replied to my letter in the following way:
+Shri Deep Narayanji was also in my department and his posting was under me. He was also present in the office that day. He was overwhelmed with grief and suggested that this order should be shown to Baba. I said that was of no use. 
 
+Even so, he insisted made me write a letter to Baba to inform Him about this matter. He saw Baba on fourth January and Baba replied to my letter in the following way:
 
-Jamalpur
-
-January 4 1955
+Jamalpur. January 4 1955
 
 Kalyaniyesu Nagina,
 
-Just make an appeal to the competent authority.
-The punishment imposed on and from December 26th should be
-withdrawn without any further delay else I fear misfortunes will come one after
-another.
+Just make an appeal to the competent authority. The punishment imposed on and from December 26th should be withdrawn without any further delay else I fear misfortunes will come one after another. 
 
-Yours Ashirvadak
+Yours Ashirvadak,
 Anandamurti
 
 I was very sad. Deep Narayanji brought to me this letter of Baba on the evening of 4th January at Begusarai but I do not know why I was not very enthusiastic even afterreading Baba’s letter.
-I said, “if according to destiny I must suffer pain and difficulties, then let them
-pour in a stream. Let them come, I shall bear them. Now I shall not request for the
-withdrawal of the punishment. Will the withdrawal of the punishment remove the
-incoming difficulties? If not, what is the use?”
+
+I said, “if according to destiny I must suffer pain and difficulties, then let them pour in a stream. Let them come, I shall bear them. Now I shall not request for the
+withdrawal of the punishment. Will the withdrawal of the punishment remove the incoming difficulties? If not, what is the use?”
 
 I thought, at worst, I shall be rendered a beggar or an invalid or I may face humiliation.
 

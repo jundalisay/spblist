@@ -11,7 +11,7 @@ writer:
 ---
 
 
-The generation of all natural things is twofold: Naturall, and without Art; and Artificiall, viz. by Alchymie. Although in generall it may bee said that all things are naturally generated of the Earth by means of putrefaction. For All things proceed from putrefaction.
+The generation of all natural things is twofold: Naturall, and without Art; and artificial, viz. by Alchymie. Although in generall it may bee said that all things are naturally generated of the Earth by means of putrefaction. For All things proceed from putrefaction.
 
 Putrefaction is the chiefe degree, and first step to Generation. Now Putrefaction is[Pg 2] occasioned by a moist heat. The cause of putrefaction is a moist heat.For a continuall moist heat causeth putrefaction, and changeth all naturall things from their first form, and essence, as also their virtues, and efficacy, into another thing. The power and nature of putrefaction.
 
@@ -24,14 +24,14 @@ What is putrefaction? For putrefaction is the change, and death of all things, a
 Putrefaction is the first degree to generation.
 Seeing therefore putrefaction is the first degree, and step to generation; it is very necessary that wee[Pg 3] know putrefaction well. Now there are many kinds of putrefactions, and one produceth its generation in another manner, then doth another. One also sooner then another. Putrefaction is manifold.Wee said also that moisture, and heat were the first degree, and step to putrefaction, which produceth all things, as a Hen doth her egs. Wherefore through, and in putrefaction, all mucilaginous flegme, and matter is made living, whatsoever it prove to be at last.
 
-An artificiall hatching of Chickens.
+An artificial hatching of Chickens.
 An example of this you have in egs, in which there is a mucilaginous humour, which by any kind of moderate continuall heat is putrefied, and turned into a living Chicke, not only by the heat of the Hen, but any such kind of heat. For in such a degree of Fire egs may be brought to maturity in a glasse, and ashes, and become living birds: yea any man may ripen an egge in his arm-hole, and hatch a Chicke, as well as the Hen.
 
 The raising of a dead bird to life.
 
 And here wee must take notice of something that is greater, and more then this: viz. if that living Chicke be in a vessell of glasse like a gourd, and sealed up, burnt to powder, or ashes in the third degree of Fire, and afterward so closed in, be putrefied with the exactest putrefaction of Horse-dung, into a mucilaginous flegm, then that flegm may be brought to maturity, and become a renewed, and new made Chicke: to wit, if that flegm bee againe inclosed in its former shell, or receptacle. This is to revive the dead by regeneration, and clarification, which indeed is a great, and profound miracle of Nature. According to this processe may all Birds bee killed, and made alive againe, and made new: and this is the highest, and greatest miracle, and mystery of God,[Pg 4] which he  ever discovered to mortall man.
 
-The Artificiall generation of Man.
+The artificial generation of Man.
 
 Wee must also know that after this manner men may bee generated without naturall Father, or Mother, i.e. not of a Woman in a naturall way: but by the Art, and industry of a skilfull Alchymist may a Man bee borne, and grow, as afterwards shall bee shewed.
 

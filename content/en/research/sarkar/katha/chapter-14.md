@@ -1,7 +1,7 @@
 ---
 title: "BHAGALPUR DMC : FEBRUARY 1955"
 heading: Chapter 14
-weight: 30
+weight: 32
 description: "The DMC was being held in a big room in the house of respectful Chandranathji"
 image: "/covers/katha.png"
 author: Nagina

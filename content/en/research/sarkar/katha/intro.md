@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-heading: Introduction 1
-weight: 2
+# heading: Introduction 1
+weight: 1
 description: "Baba undertook the task of initiating some people in yogic sadhana"
 image: "/covers/katha.png"
 author: Nagina

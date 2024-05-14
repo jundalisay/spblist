@@ -1,7 +1,7 @@
 ---
 title: "MY DEMOTION"
 heading: Chapter 7
-weight: 16
+weight: 15
 description: "Ajit Singh, was attempting to get me demoted and himself promoted"
 image: "/covers/katha.png"
 author: Nagina

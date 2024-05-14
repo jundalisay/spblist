@@ -1,7 +1,7 @@
 ---
 title: "BABA’S DEVOTION TO HIS MOTHER"
 heading: Chapter 16
-weight: 32
+weight: 38
 description: "There is pain in my mother's neck. I have to rub warm oil to her neck"
 image: "/covers/katha.png"
 author: Nagina

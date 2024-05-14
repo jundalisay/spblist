@@ -1,7 +1,7 @@
 ---
 title: "Baba’s Vanii"
 heading: Chapter 29
-weight: 54
+weight: 94
 description: "Oh human beings, you advance forward. Your only language should be the speed towards progress"
 image: "/covers/katha.png"
 author: Nagina

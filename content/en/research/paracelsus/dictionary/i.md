@@ -189,7 +189,7 @@ Magisterium is in Paracelsus any secret extracted out of naturall things without
 
 Magnalia are peculiar works of God.
 
-Magnesia is commonly taken for a Marcasite, but that which is artificiall is melted Tinne into which is put Quicksilver, and both mixt into a brittle matter, and white masse.
+Magnesia is commonly taken for a Marcasite, but that which is artificial is melted Tinne into which is put Quicksilver, and both mixt into a brittle matter, and white masse.
 
 Magneticus tartarus is a stone, in a man as hard as a Loadstone, and spongious.
 
@@ -341,7 +341,7 @@ Oleum Calcotharinum is red oyle of Vitriall.
 
 Oleum squaminum is oyle of Tartar.
 
-Oleum Vitrioli aurificatum, is that which is dulcified with gold artificially.
+Oleum Vitrioli aurificatum, is that which is dulcified with gold artificialy.
 
 Olympicus spiritus is a star in man, that makes him to yeeld a shadow of himself.
 
@@ -429,7 +429,7 @@ Pulpezia is a suddain astonishment or change in a mans body by reason of the sta
 
 Pusta is the digestion of corrupt matter.
 
-Pygmeæ are called artificiall men, and sometimes subterraneall spirits.
+Pygmeæ are called artificial men, and sometimes subterraneall spirits.
 
 Pyramis is a vessell made like a Pyramis.
 

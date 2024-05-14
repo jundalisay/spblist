@@ -1,7 +1,7 @@
 ---
 title: "Kalpataru Grants All Boons"
 heading: Chapter 21
-weight: 38
+weight: 59
 description: "Kalpataru can not grant such a boon. You ask for something else"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

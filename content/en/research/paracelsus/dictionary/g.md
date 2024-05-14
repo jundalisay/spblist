@@ -79,7 +79,7 @@ Henricus rubeus is the Colcathar of Vitriall.
 
 Hinicula, genicula, or gumicula is Valerian.
 
-Homunculus in Paracelsus is a man made artificially, the processe whereof you may see at large in the foregoing treatise the eight page, and sometimes they are taken for superstitious images.
+Homunculus in Paracelsus is a man made artificialy, the processe whereof you may see at large in the foregoing treatise the eight page, and sometimes they are taken for superstitious images.
 
 Horion is the Mercury of Gold.
 

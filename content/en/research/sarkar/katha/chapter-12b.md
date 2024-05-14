@@ -1,7 +1,7 @@
 ---
 title: "I SURRENDER EVERYTHING TO BABA AND HE BECOMES PLEASED WITH ME"
 heading: Chapter 12b
-weight: 26
+weight: 29
 description: "An Editor’s note in Prajina Bharati October 1983"
 image: "/covers/katha.png"
 author: Nagina

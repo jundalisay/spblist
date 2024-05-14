@@ -127,7 +127,7 @@ A Chymicall Dictionary.
 Williams at the Bible in Little-brittain[Britain], 1650.
 Aniadum is a a[2x] celestiall body planted in us Christians
 Then comes Ares Ares[2x] another dispenser of Nature,
-Arthoicnm[Arthoicum] is red oyle, artificially extracted
+Arthoicnm[Arthoicum] is red oyle, artificialy extracted
 concerning the observation of of[2x] Winds, as when
 Cherionium is that in which Natture[Nature] cannot be altered,
 and supernaturll[supernaturall] constellations are

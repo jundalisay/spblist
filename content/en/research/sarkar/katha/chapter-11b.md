@@ -1,7 +1,7 @@
 ---
 title: "Baba Angry"
 heading: Chapter 11b
-weight: 25
+weight: 27
 description: "'Are you not ashamed, why do you take your food there?'"
 image: "/covers/katha.png"
 author: Nagina
