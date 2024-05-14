@@ -13,20 +13,24 @@ icon: "/icons/spmed.png"
 ---
 
 
-Maslow's Hierarchy of Needs gives a table of requirements for human life. We systematize these under our 5 Layer Model.
+Maslow's Hierarchy of Needs gives a table of requirements for human life. 
 
 {{< img src="/graphics/econ/maslow.jpg" alt="Abraham Maslow hierarchy of needs" cap="Maslow's 'hierarchy of needs' gives more emphasis to utility by starting in the lower material layer and then moving up to the higher needs. It uses the bodily needs to make a path towards self-actualization" >}}
+
+The problem with this model is that it is based on [rats and American culture](/research/maslow/part-02). By accepting this model, or imposing it to your students, then you are accepting or imposing American culture and overruling your own culture.  
+
+We replace this with our model that is based on the 5 Layers, and works on all cultures:
 
 
 ## The 5 Needs According to Layers
 
-Layer | Need
---- | ---
-Aethereal | Expression 
-Spatial | Connections, Interaction
-Radiant | Sleep (Regenerate, Re-energize)
-Convertible | Shelter and Good Environment  
-Material | Air, Water, Food
+Layer | Need | Maslow Version 
+--- | --- | --- 
+Aethereal | Expression | Self-actualization
+Spatial | Connections, Interaction | Love
+Radiant | Sleep (Regenerate, Re-energize) | Physiological
+Convertible | Shelter and Good Environment  | Safety
+Material | Air, Water, Food | Physiological
 
 
 ### 5. Material
@@ -47,19 +51,23 @@ The material needs must be continuous for life to be continuous. This brings in 
 
 ### 3. Radiant 
 
-Unlike Maslow which puts belonging as a third-tier need, we put sleep and rest as the third need. This is in line with the Fourth Need. 
+This is in line with the Fourth Need. Unlike Maslow which puts belonging as a third-tier need, we put sleep and rest as the third need. 
+
+This is because nerves are essential to the functioning of the human body and the physical expressions of the aethereal soul (as animal spirits described by Rene Descartes). 
+
+Nerves are electromagnetic and so need to be healthy and refreshed in order to relay such expressions.
 
 
 ### 2. Spatial
 
 We put Maslow's Esteem and Belonging Needs in the Spatial Layer, which we call the need for connections and interaction. This is related to our Elastic Theory of Gravity which applies to social bonds. 
 
-Unlike Maslow's hierarchy wherein spritituality potentially begins in highest need, spirituality in Superphysics begins in this Layer, in line with the Heart Chakra. 
+Unlike Maslow's hierarchy wherein spritituality potentially begins in the highest need, spirituality in Superphysics begins in this Layer, in line with the Heart Chakra. 
 
 
 ### 1. Aethereal
 
-Our unique expression is our highest need. This validates our identity and justifies our existence in the physical domain. This is a level of spirituality which is higher than the Spatial. 
+Our unique expression is our highest need. This validates our identity and justifies our existence in the physical domain. This is a level of spirituality which is higher than the Spatial. In fact, the existence of the Spatial is just to serve the satisfaction of the aethereal above it, just as the Radiant serves that aethereal expression, and the Material is the overall physical vehicle for 'physicalizing' those expressions. 
 
 
 ## Applying the 5 Needs
@@ -72,3 +80,6 @@ Likewise, a religious policy such as praying 5 times a day (Aethereal Level) cou
 
 The importance of the Convertible Layer means that work from home or flexible work arrangement should be made possible by employers. 
 
+This integrates well with our [5-Layer-goal-setting model](/superphysics/principles/chapter-08e/) for the realization of the goals or needs of the soul. 
+
+![Goal-Setting](/graphics/meta/ngu.jpg)
