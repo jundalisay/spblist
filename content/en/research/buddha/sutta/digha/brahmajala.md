@@ -29,7 +29,9 @@ But Brahmadatta spoke in many ways in praise of the Buddha, in praise of the Dha
 
 Then, among a large number of monks who had arisen in the last watch of the night and were sitting gathered together in a pavilion, this discussion arose: 
 
-“Isn’t it amazing how the Buddha has truly experienced the differing convictions of beings. Suppiya speaks in many ways in dispraise of the Buddha, the Dhamma, and the Saṅgha. But Brahmadatta speaks in many ways in praise of the Buddha, the Dhamma, and the Saṅgha. Thus mentor & apprentice, speaking in direct contradiction to each other, follow right behind the Buddha and the Saṅgha of monks.”
+{{< r a="Monks" >}}
+Isn’t it amazing how the Buddha has truly experienced the differing convictions of beings. Suppiya speaks in many ways in dispraise of the Buddha, the Dhamma, and the Saṅgha. But Brahmadatta speaks in many ways in praise of the Buddha, the Dhamma, and the Saṅgha. Thus mentor & apprentice, speaking in direct contradiction to each other, follow right behind the Buddha and the Saṅgha of monks.
+{{< /r >}}
 
 Then the Buddha, knowing this discussion of the monks, went to the pavilion. On arrival, sat down on a seat laid out. 
 
@@ -77,32 +79,27 @@ A run-of-the-mill person would praise the Tathāgata speaking of minor matters, 
 ## The Lesser Section on Virtue
 
 A run-of-the-mill person, praising the Tathāgata, would speak of the contemplative Gotama as:
-- abandoning the taking of life
-  - abstaining from the taking of life
-  - dwelling with his rod laid down, his knife laid down
-  - scrupulous, merciful, compassionate for the welfare of all living beings
-- abandoning the taking of what is not given
-  - abstaining from taking what is not given
-  - taking only what is given, accepts only what is given, lives not by stealth but by means of a self that has become pure.
-
-
-“Or: ‘Abandoning uncelibacy, the contemplative Gotama lives a celibate life, aloof, refraining from the sexual act that is the villager’s way.’ It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
-
-“Or: ‘Abandoning false speech, the contemplative Gotama abstains from false speech. He speaks the truth, holds to the truth, is firm, reliable, no deceiver of the world.’ It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
-
-“Or: ‘Abandoning divisive speech, the contemplative Gotama abstains from divisive speech. What he has heard here he does not tell there to break those people apart from these people here. What he has heard there he does not tell here to break these people apart from those people there. Thus reconciling those who have broken apart or cementing those who are united, he loves concord, delights in concord, enjoys concord, speaks things that create concord.’ It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
-
-“Or: ‘Abandoning abusive speech, the contemplative Gotama abstains from abusive speech. He speaks words that are soothing to the ear, that are affectionate, that go to the heart, that are polite, appealing, & pleasing to people at large.’ It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
-
-“Or: ‘Abandoning idle chatter, he abstains from idle chatter. He speaks in season, speaks what is factual, what is in accordance with the goal [attha], the Dhamma, & the Vinaya. He speaks words worth treasuring, seasonable, reasonable, circumscribed, connected with what is profitable [attha].’ It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
-
-“Or: ‘The contemplative Gotama abstains from damaging seed & plant life.’…
-
-“Or: ‘The contemplative Gotama eats only once a day, refraining from the evening meal and from food at the wrong time of day.’…
-
-“Or: ‘The contemplative Gotama abstains from dancing, singing, instrumental music, and from watching shows.’…
-
-“Or: ‘The contemplative Gotama abstains from wearing garlands and from beautifying himself with scents & cosmetics.’…
+- abandoning and abstaining from the taking of life, or
+  - He dwels with his rod laid down, his knife laid down
+  - He is scrupulous, merciful, compassionate for the welfare of all living beings
+- abandoning and abstaining from the taking of what is not given
+  - He takes only what is given, accepts only what is given, lives not by stealth but by means of a self that has become pure.
+- abandoning uncelibacy, living a celibate life, aloof, refraining from the sexual act that is the villager’s way
+- abandoning and abstaining from false speech
+  - He speaks the truth, holds to the truth, is firm, reliable, no deceiver of the world
+- abandoning and abstaining from divisive speech
+  - What he has heard here he does not tell there to break those people apart from these people here. 
+  - What he has heard there he does not tell here to break these people apart from those people there. 
+  - Thus reconciling those who have broken apart or cementing those who are united, he loves concord, delights in concord, enjoys concord, speaks things that create concord.’
+- abandoning and abstaining abusive speech
+  -  He speaks words that are soothing to the ear, that are affectionate, that go to the heart, that are polite, appealing, & pleasing to people at large.
+- abandoning idle chatter, he abstains from idle chatter. 
+  - He speaks in season, speaks what is factual, what is in accordance with the goal [attha], the Dhamma, & the Vinaya. 
+  - He speaks words worth treasuring, seasonable, reasonable, circumscribed, connected with what is profitable [attha].’
+- abstaining from damaging seed & plant life.
+- eating only once a day, refraining from the evening meal and from food at the wrong time of day.’
+- abstaining from dancing, singing, instrumental music, and from watching shows.’
+- abstaining from wearing garlands and from beautifying himself with scents & cosmetics.’
 
 “Or: ‘The contemplative Gotama abstains from high and luxurious beds & seats.’…
 
@@ -114,9 +111,9 @@ A run-of-the-mill person, praising the Tathāgata, would speak of the contemplat
 
 “Or: ‘The contemplative Gotama abstains from mutilating, executing, imprisoning, highway robbery, plunder, & violence.’
 
-“It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
 
-The Intermediate Section on Virtue
+## The Intermediate Section on Virtue
+
 “Or: ‘Whereas some contemplatives & brahmans, living off food given in faith, remain addicted to damaging seed & plant life such as these—plants propagated from roots, stems, joints, buddings, & seeds—the contemplative Gotama abstains from damaging seed and plant life such as these.’ It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
 
 “Or: ‘Whereas some contemplatives & brahmans, living off food given in faith, remain addicted to consuming stored-up goods such as these—stored-up food, stored-up drinks, stored-up clothing, stored-up vehicles, stored-up bedding, stored-up scents, & stored-up meat—the contemplative Gotama abstains from consuming stored-up goods such as these.’ It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
@@ -284,47 +281,4 @@ the contemplative Gotama abstains from wrong livelihood, from “animal” arts 
 “It’s of this, monks, that a run-of-the-mill person, when praising the Tathāgata, would speak.
 
 “These are the minor matters, lower matters, matters of virtue, of which a run-of-the-mill person, when praising the Tathāgata, would speak.
-
-## View Standpoints
-
-“There are, monks, other dhammas—deep, hard to see, hard to realize, tranquil, refined, beyond the scope of conjecture, subtle, to-be-experienced by the wise—that the Tathāgata proclaims, having directly known & realized them for himself, and that those who, rightly speaking in praise of the Tathāgata in line with what is factual, would speak. And what are those dhammas—deep, hard to see, hard to realize, tranquil, refined, beyond the scope of conjecture, subtle, to-be-experienced by the wise—that the Tathāgata proclaims, having directly known & realized them for himself, and that those who, rightly speaking in praise of the Tathāgata in line with what is factual, would speak?
-
-Theorists about the Past
-“There are some contemplatives & brahmans who are theorists about the past, who hold views about the past, who approve of various beliefs with reference to the past on 18 grounds. And with reference to what, coming from what, are these honorable contemplatives & brahmans theorists about the past who hold views about the past, who approve of various beliefs with reference to the past on 18 grounds?
-
-## Eternalism
-
-“There are some contemplatives & brahmans who are adherents of eternalism, who proclaim an eternal self & cosmos1 on four grounds. And with reference to what, coming from what, are these honorable contemplatives & brahmans adherents of eternalism who proclaim an eternal self & cosmos on four grounds?
-
-1. “There is the case where a certain contemplative or brahman—through ardency, through exertion, through commitment, through heedfulness, through right attention—touches an awareness-concentration such that in his concentrated mind—purified, bright, unblemished, rid of defilement2—he remembers many past lives, i.e., one birth, two… five, ten… fifty, a hundred, a thousand, a hundred thousand, many hundreds, many thousands, many hundred thousands:3 ‘There I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure & pain, such the end of my life. Passing away from that state, I re-arose there. There too I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure & pain, such the end of my life. Passing away from that state, I re-arose here.’ Thus he recollects his manifold past lives in their modes & details.
-
-“He says: ‘The self & the cosmos are eternal, barren, stable as a mountain-peak, standing firm like a pillar. And although beings transmigrate, wander on, die, & reappear, there still is that which is for eternity. Why is that? Because I—through ardency, through exertion, through commitment, through heedfulness, through right attention—touch an awareness-concentration such that in my concentrated mind—purified, bright, unblemished, rid of defilement—I remember many past lives, i.e., one birth, two… five, ten… fifty, a hundred, a thousand, a hundred thousand, many hundreds, many thousands, many hundred thousands: ‘There I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure & pain, such the end of my life. Passing away from that state, I re-arose there. There too I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure & pain, such the end of my life. Passing away from that state, I re-arose here.’ Thus I recollect my manifold past lives in their modes & details. By means of this I know how the self & the cosmos are eternal, barren, stable as a mountain-peak, standing firm like a pillar. And although beings transmigrate, wander on, die, & reappear, there still is that which is for eternity.’
-
-“This is the first basis—with reference to which, coming from which—some contemplatives & brahmans are adherents of eternalism who proclaim an eternal self & cosmos.
-
-2. “As for the second: With reference to what, coming from what, are honorable contemplatives & brahmans adherents of eternalism who proclaim an eternal self & cosmos?
-
-“There is the case where a certain contemplative or brahman—through ardency, through exertion, through commitment, through heedfulness, through right attention—touches an awareness-concentration such that in his concentrated mind—purified, bright, unblemished, rid of defilement—he remembers many past lives, i.e., one eon of cosmic contraction & expansion, two eons… three… four… five… six… seven… eight… nine… ten eons of cosmic contraction & expansion.…
-
-“He says: ‘The self & the cosmos are eternal, barren, stable as a mountain-peak, standing firm like a pillar. And although beings transmigrate, wander on, die, & reappear, there is still that which is for eternity. Why is that? Because I—through ardency, through exertion, through commitment, through heedfulness, through right attention—touch an awareness-concentration such that in my concentrated mind—purified, bright, unblemished, rid of defilement—I remember many past lives… By means of this I know how the self & the cosmos are eternal, barren, stable as a mountain-peak, standing firm like a pillar. And although beings transmigrate, wander on, die, & reappear, there still is that which is for eternity.’
-
-“This is the second basis—with reference to which, coming from which—some contemplatives & brahmans are adherents of eternalism who proclaim an eternal self & cosmos.
-
-3. “As for the third: With reference to what, coming from what, are honorable contemplatives & brahmans adherents of eternalism who proclaim an eternal self & cosmos?
-
-“There is the case where a certain contemplative or brahman—through ardency, through exertion, through commitment, through heedfulness, through right attention—touches an awareness-concentration such that in his concentrated mind—purified, bright, unblemished, rid of defilement—he remembers many past lives, i.e., ten eons of cosmic contraction & expansion, twenty… thirty… forty eons of cosmic contraction & expansion.…
-
-“He says: ‘The self & the cosmos are eternal, barren, stable as a mountain-peak, standing firm like a pillar. And although beings transmigrate, wander on, die, & reappear, there is still that which is for eternity. Why is that? Because I—through ardency, through exertion, through commitment, through heedfulness, through right attention—touch an awareness-concentration such that in my concentrated mind—purified, bright, unblemished, rid of defilement—I remember many past lives… By means of this I know how the self & the cosmos are eternal, barren, stable as a mountain-peak, standing firm like a pillar. And although beings transmigrate, wander on, die, & reappear, there still is that which is for eternity.’
-
-“This is the third basis—with reference to which, coming from which—some contemplatives & brahmans are adherents of eternalism who proclaim an eternal self & cosmos.
-
-4. “As for the fourth: With reference to what, coming from what, are honorable contemplatives & brahmans adherents of eternalism who proclaim an eternal self & cosmos?
-
-“There is the case where a certain contemplative or brahman is a logician,4 an inquirer. He states his own improvisation, hammered out by logic, deduced from his inquiries: ‘The self & the cosmos are barren, stable as a mountain-peak, standing firm like a pillar. And even though beings transmigrate, wander on, die, & reappear, there still is that which is for eternity.’
-
-“This is the fourth basis—with reference to which, coming from which—some contemplatives & brahmans are adherents of eternalism, who proclaim an eternal self & cosmos.
-
-“These, monks, are the contemplatives & brahmans who are adherents of eternalism, who proclaim an eternal self & cosmos on four grounds. And whatever contemplatives & brahmans who are adherents of eternalism, who proclaim an eternal self & cosmos, they all do so on one or another of these four grounds. There is nothing outside of this.5
-“With regard to this, the Tathāgata discerns that ‘These standpoints, thus seized, thus grasped at, lead to such & such a destination, to such & such a state in the world beyond.’ That the Tathāgata discerns. And he discerns what is higher than that. And yet, discerning that, he does not grasp at it. And as he is not grasping at it, unbinding [nibbuti] is experienced right within. Knowing, as they have come to be, the origination, ending, allure, & drawbacks of feelings, along with the escape from feelings, the Tathāgata, monks—through lack of clinging/sustenance—is released.6
-“These, monks, are the dhammas—deep, hard to see, hard to realize, tranquil, refined, beyond the scope of conjecture, subtle, to-be-experienced by the wise—that the Tathāgata proclaims, having directly known & realized them for himself, and that those who, rightly speaking in praise of the Tathāgata in line with what is factual, would speak.
 
