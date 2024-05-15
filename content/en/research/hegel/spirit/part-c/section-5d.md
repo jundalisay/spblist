@@ -126,9 +126,13 @@ The result of the experiments is in this way to cancel the moments or inner sign
 Because of this self subsistence they therefore get the name of kinds of “matter”, which is neither a body nor a property of a body; certainly no one would call acid, positive and negative electricity, heat, (3) etc., bodies.
 
 
-{{< s v='252' >}}  Matter, on the contrary, is not a thing that exists, it is being in the sense of universal being, or being in the way the concept is being. 
+{{< s v='252' >}}  Matter, on the contrary, is not a thing that exists.
 
-Reason, still instinctive, correctly draws this distinction without being conscious that it (reason), by the very fact of its testing the law in every sense-particular, cancels the merely sensuous existence of the law; and, when it construes the moments of the law as forms of matter, their essential nature is taken to be something universal, and specifically expressed as a non-sensuous element of sense, an incorporeal and yet objective existence.
+It is being in the sense of universal being, or being in the way the concept is being. 
+
+Reason, still instinctive, correctly draws this distinction without being conscious that reason, by its testing the law in every sense-particular, cancels the mere sensuous existence of the law.
+
+When it construes the moments of the law as forms of matter, their essential nature is taken to be something universal, and specifically expressed as a non-sensuous element of sense, an incorporeal and yet objective existence.
 
 
 {{< s v='253' >}} What turn does its result take?

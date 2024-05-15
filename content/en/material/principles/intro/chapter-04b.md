@@ -16,7 +16,7 @@ icon: /icons/spmat.png
 Axioms | Propositions
 --- | ---
 The Law of Conservation of Idea | This manifests as Gravitational Signatures
-. | Gravitational Signatures lead to Gravitational Territories
+. | Gravitational Signatures lead to Gravitational Territories whenever the Spacetime Layer is considered
 
 
 The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of the identity. In Physics, this is known as 'gravitational fields'.
@@ -49,5 +49,41 @@ These 4 zones match the:
   - Large Planet zone
   - Oort Cloud
   - Stellar Halo
+
+
+This is also seen in galaxy rotation curves which have different dynamics from that predicted by Newton's inverse square law. 
+
+{{< img src="/graphics/physics/rotation.jpg" alt="Galaxy Rotation Curves" cap="The division of a territory into 4 parts is seen in both the orbits in our solar system and in the rotation curves of a spiral galaxy. This removes the need for dark matter to explain gravitational lensing and galaxy rotation." >}}
+
+
+## Works on BAOs too
+
+
+The spherical shape matches that of the baryonic acoustic oscilations (BAOs) which are seen from the cosmic microwave background (CMB). 
+
+{{< img src="/graphics/physics/bao.jpg" alt="baryonic acoustic oscilation" >}}
+
+Physics explains that after the Big Bang, the formation of protons and neutrons created sound waves that rippled through the radiation-soup that is later seen as the CMB. Galaxies then formed along those ripples, forming the observed clusters. 
+
+We explain that those ripples represent the aether deploying itself in spacetime as to create a ripple shape that has no visible vortex or center. This is because vortices imply an identity. 
+
+The galaxies that are along the ripples are then the identities deployed by the aether oscillations. This is why the BAOs do not have a vortex. Instead they have a ripple. 
+
+Likewise, a galaxy or star does not have a ripple, but instead has arms and orbits that go around its vortex.
+
+This rippling of gravitational territories then leads to our Multiverse Theory that is based on Cartesian Physics which views the aether as an invisible liquid substance that fills everything.
+
+{{< q a="Descartes" c="The World, Chapter 13" >}}
+The conclusion is that the force that causes them to go towards E is vibratory in nature. As the particles change position, it increases or relaxes those diverse small vibrations.  
+{{< /q >}}
+
+Changes or movement in the aether are done through vibrations, different from particles that are moved by contact. 
+
+## What Happens at the Edge?
+
+Going to the edge of the universe linearly is not possible, since the spacetime travels faster any the speed of any material or electromagnetic object. The only solution is to teleport beyond the edge of that universe. But this will merely bring the object to another universe within the same layer and spacetime coordinates. 
+
+
+{{< img src="/graphics/physics/multiverse.jpg" alt="Multiverse" cap="The proper movement to escape the confines of the current universe is to use the Positive Force to go up the multiverse ladder">}}
 
 This will be discussed more in the Part on Spacetime.
