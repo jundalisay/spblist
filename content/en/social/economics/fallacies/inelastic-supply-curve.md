@@ -21,14 +21,13 @@ The inelastic supply curve is the child-idea of the sophistry called the [Equili
 ![Inelastic Supply Curve](https://sorasystem.sirv.com/charts/inelastic.png)
 
 
-{{< q a="Paul-Samuelson" >}}
+{{< q a="Paul-Samuelson" c="Economics, Chapter 20: Determination Of Price By Supply And Demand" >}}
 If the amount supplied is perfectly fixed, as in perishable fish for sale at whatever price, we face the perfectly inelastic supply. 
-Economics, Chapter 20: Determination Of Price By Supply And Demand
 {{< /q >}}
 
 All Economics books use the auction scenario to justify both the upward-sloping and the vertical inelastic supply curve. 
 
-The problem is that **there is only one seller in an auction** as the auctioneer that makes the buyers, as bidders, fight each other. In reality, a normal market is the other way around -- the sellers fight each other to find buyers. A easy proof is the exsitence of sales, marketing, branding, advertising, and loyalty programs that entice buyers to gravitate towards specific sellers.
+The problem is that **THERE IS ONLY ONE SELLER IN AN AUCTION** as the auctioneer who makes the buyers, as bidders, fight each other. In reality, a normal market is the other way around -- the sellers fight each other to find buyers. A easy proof is the exsitence of sales, marketing, branding, advertising, and loyalty programs that entice buyers to gravitate towards specific sellers.
 
 ![Fish Auction](https://sorasystem.sirv.com/photos/fish.jpg)
 
@@ -59,7 +58,7 @@ However, it also shows that there are three makers selling 60,000 doses at varyi
 - The perfectly inelastic supply curve of Economics is true for only around 50% of the supply
 - The downward-sloping supply curve of Superphysics is true 100% when all suppliers are taken together
 
-This 50% truth of Economics is what Adam Smith says of the Commercial or Mercantile system --the businessmen and merchants take half-truths and then impose that as the truth onto everyone.
+This 50% truth of Economics is what Adam Smith says of the Commercial or Mercantile system --the businessmen and merchants take **half-truths** and then impose that as the truth onto everyone.
 
 {{< q a="Adam-Smith" >}}
 Those arguments were partly solid and partly sophistical.. However, they convinced the parliaments.. Those arguments were created by those who were supposed to understand trade for those who knew nothing about trade. Experience demonstrated that foreign trade enriched the country. But how it enriched the country, none of them knew well. The merchants knew perfectly how it enriched themselves. <!-- It was their business to know it. --> But to know how it enriched the country was none of their business.
@@ -82,13 +81,13 @@ The supply curves above show what happened when demand was infused with it. To k
 
 We see below that it slopes downward, with Astra Zeneca, the cheapest vaccine, being produced the most. Moderna, the most expensive, is among those produced the least. The biggest productions are those of AstraZeneca and Novavax, both made by the Serum Institute of India which is the world's largest vaccine-maker which focuses on low cost. 
 
-Thus, the pure supply curve in reality matches Superphysics and not Economics. Less than 40% of the supply matches the perfectly inelastic supply curve of Economics, making it less than a half-truth. Shall we say it's a 40%-truth?
+Thus, the pure supply curve in reality matches Supereconomics and not Economics. Less than 40% of the supply matches the perfectly inelastic supply curve of Economics, making it less than a half-truth. Shall we say it's a 40%-truth?
 
 ![Vaccine Production Chart](https://sorasystem.sirv.com/charts/vac/vacprodchart.png)
 
 <!-- The red line of Economics and the blue line of Superphysics -->
 
-Combining the actual supply with the actual demand by Britain and Belgium as representatives, we can come up with a real-life supply and demand curve which matches that of Superphysics:
+Combining the actual supply with the actual demand by Britain and Belgium as representatives, we can come up with a real-life supply and demand curve which matches that of Supereconomics:
 
 ![Vaccine shortage](https://sorasystem.sirv.com/charts/vac/vacshort.png)
 
@@ -103,7 +102,7 @@ When the rich man's dog gets the milk that the poor man's child needs to avoid r
 
 ## The Sinister Effect of the Supply Curve of Economics: Wars and Crises
 
-Economics teachers are unaware that, by teaching the Equilibrium theory, they are actually teaching selfishness and evil*. The only way for the upward-sloping supply curve to exist in our example is to remove the existence of AstraZeneca-Oxford and the Serum Institute with its high production. <b>Only when we get rid of government and all forms of socially-minded production can the models of Economics exist.</b>
+Economics teachers are unaware that, by teaching the Equilibrium theory, **they are actually teaching selfishness and evil**.* The only way for the upward-sloping supply curve to exist in our example is to remove the existence of AstraZeneca-Oxford and the Serum Institute with its high production. <b>Only when we get rid of government and all forms of socially-minded production can the models of Economics exist.</b>
 
 > *If badness is the lack of fellow feeling with others, then evil is the the total lack of such feeling
 
@@ -160,6 +159,6 @@ Without these, prices would have been kept secret and there would be no data to 
 
 However, the upward-sloping supply curve of Economics is only prevented by the existence of the cheap Astra Zeneca vaccines from Britain and India. The rest of the suppliers are still working under selfish-interest. This clearly means that the greed virus is still out there working behind the scenes to create the current crisis, as well as ensure future ones. This sureness is actually how we were able to [predict the current crisis](/social/supersociology/precrisis-years).
 
-We have workarounds, such as our proposed [Points Banking](https://www.pantrypoints.com/trisactions/banking/), [World Trade system](https://www.pantrypoints.com/trisactions/world/), and [Points-based Taxation](https://www.pantrypoints.com/services/tax/). However, the most lasting solution or antidote is to teach and practice fellow-feeling, as espoused by Adam Smith. This is actually imbued in [Superphysics](/social/economics), most fundamentally in our downward-sloping supply curve.
+We have workarounds, such as our proposed [Points Banking](https://www.pantrypoints.com/trisactions/banking/), [World Trade system](https://www.pantrypoints.com/trisactions/world/), and [Points-based Taxation](https://www.pantrypoints.com/services/tax/). However, the most lasting solution or antidote is to teach and practice fellow-feeling, as espoused by Adam Smith. This is actually imbued in [Supereconomics](/social/economics), most fundamentally in our downward-sloping supply curve.
 
-In the next post, we shall see another sophistry created by economists as the producer's and consumer's surplus
+<!-- In the next post, we shall see another sophistry created by economists as the producer's and consumer's surplus. -->

@@ -49,6 +49,7 @@ Omnitheism | a paradigm that views all Supreme Entities as different versions of
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
 Self | The perception of identity by the same perceiver
+Slavery | A regular state of control of another's actions that produces pain
 Socratic Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma, to arrive at a solution to a problem
 Soul | the mind when viewed independently of the body
 Substance | a thing which exists in such a way that it needs nothing beyond itself in order to exist (Descartes, Principia Philosophia Part 1)
