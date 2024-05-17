@@ -65,11 +65,11 @@ This is the zone which has direct contact with other territories.
 
 These have different manifestations depending on the type of identity. 
 
-Science | Inner | Middle | Outer | Edge
---- | --- | --- | --- | --- 
-Star | Goldilocks Zone | Large Planets Zone | Oort Cloud | Stellar Halo 
-Person | Unconcsious | Subconscious | Conscious | Interactions 
-Society | Religion | Politics | Economy | Interactions 
+Identity | Inner | Middle | Outer | Edge | Science
+--- |  --- | --- | --- | --- | --- 
+Star | Goldilocks Zone | Large Planets Zone | Oort Cloud | Stellar Halo | Material Superphysics
+Person | Unconscious | Subconscious | Conscious | Interactions | Bio Superphysics
+Society | Religion / Philosophy | Politics | Economy | Interactions | Social Superphysics
 
 
 In human life, this territory is the aethereal aura that radiates from people.   

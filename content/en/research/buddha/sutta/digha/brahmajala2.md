@@ -4,7 +4,7 @@ title: "Brahmajāla Sutta 2"
 weight: 902
 description: "Partial Eternalism"
 image: "/photos/meta/buddhism.jpg"
-author: Juan (simplified version)
+# author: Juan (simplified version)
 ---
 
 

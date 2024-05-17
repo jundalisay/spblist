@@ -4,7 +4,7 @@ title: "Brahmajāla Sutta 1b"
 weight: 900
 description: "View Standpoints and Eternalism"
 image: "/photos/meta/buddhism.jpg"
-author: Juan (simplified version)
+# author: Juan (simplified version)
 ---
 
 

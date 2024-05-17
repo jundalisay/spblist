@@ -3,7 +3,7 @@ title: "Brahmajāla Sutta"
 weight: 900
 description: "This is from the Adanta Sutras: Untamed"
 image: "/photos/meta/buddhism.jpg"
-author: Juan (simplified version)
+# author: Juan (simplified version)
 ---
 
 
