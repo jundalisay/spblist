@@ -31,7 +31,7 @@ The natural price is established by the Second Law of Value which says that ther
 
 ![Second law](/graphics/econ/law2.jpg)
 
-This concept does not exist in Economics because profit maximization prevents it. This is why modern economic systems have recurring crashes as a result of the violation of this natural law of value. Pantrynomic systems are crash-resistant because they know that there exists a natural price and so the system is designed to stay near it. 
+This concept does not exist in Economics because profit maximization prevents it. This is why modern economic systems have recurring crashes as a result of the violation of this natural law of value. Supereconomic systems are crash-resistant because they know that there exists a natural price and so the system is designed to stay near it. 
 
 - In Bio Superphysics, this manifests as the balance between things that affect our health to maintain an equilibrium as good health.
 - In Supersociology, this is balance of giving value to all classes of society in order to maintain stability and prevent revolutions.

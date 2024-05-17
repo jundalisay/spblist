@@ -103,7 +103,7 @@ Cake Market Price  | Day 1 Buyers | Day 2 Buyers | Day 3 Buyers | Chef Revenue a
 $4 | C | D, E | demand satisfied | $4 | $12 (3 cakes) | all ok | 3 days
 
 
-{{< img src="/graphics/law2.png" alt="Third Law Definition" cap="The Third Law of value creates a downward sloping supply curve in pantrynomics. In Economics, it is limited to the profit-motive which causes its supply curve to slope upwards. While the concept of nominal value exists in Economics, real value does not. For example, Real GDP is still measured in money and not in commodities" >}}
+{{< img src="/graphics/law2.png" alt="Third Law Definition" cap="The Third Law of value creates a downward sloping supply curve in Supereconomics. In Economics, it is limited to the profit-motive which causes its supply curve to slope upwards. While the concept of nominal value exists in Economics, real value does not. For example, Real GDP is still measured in money and not in commodities" >}}
 
 
 
@@ -128,14 +128,14 @@ Chef | Cake Market Price | Chef Revenue at the End | Cake Value Created | Povert
 --- | --- | --- | --- | --- 
 Entitled | $8 | $8 | $8 (1 cake) | 2
 Profit-maximizing | $6 | **$10** | $12 (2 cakes @ 2 days) | 1
-Pantrynomist | $4 | $4  | **$12 (3 cakes @ 2 days)** | 0
+Supereconomist | $4 | $4  | **$12 (3 cakes @ 2 days)** | 0
 Socialist | $2 | $2 | $6 (3 cakes @ 3 days) | 0
 
 
 From here, we can see that:
 - **The profit maximizer systemically gets the most revenue (most labor of society) at the cost of creating 1 unit of poverty**
-- The pantrynomist has less revenue than the profit-maximizer, but does not create poverty
-- The socialist also creates no poverty, but takes longer than the pantrynomist. Also, there is no left over revenue to improve cake-making or do exports
+- The Supereconomist has less revenue than the profit-maximizer, but does not create poverty
+- The socialist also creates no poverty, but takes longer than the Supereconomist. Also, there is no left over revenue to improve cake-making or do exports
 
 
 <!-- ### Solution: Society-Supported Competition
@@ -150,7 +150,7 @@ Total | | | $7 | $12 | 	|
 
 **This leads to artificial problems in demand and supply** where food is wasted yet many people, who have some productivity to offer and are not worthless, stay hungry. The alarming thing is that people pay to get into university to be taught such things that create such problems!
 
-In contrast, the non-profit-maximizing system of pantrynomics earns through **primary arbitrage** or through the differences in hardship incurred in making a product or service. 
+In contrast, the non-profit-maximizing system of Supereconomics earns through **primary arbitrage** or through the differences in hardship incurred in making a product or service. 
 
 In the example, Mr. Chef is able to make quality cakes at low effort because of his great skill in making them. **His profit is from increasing his mastery which lowers his costs, and not in stifling supply by raising prices.**  His mastery can be achieved faster if he were passionate in his chosen business or employment. This is why we call the Third Law of Value as the [Invisible Hand of the Tao](/pantrynomics/invisible-hand-of-tao) that shows itself through the effort theory of value-->
 

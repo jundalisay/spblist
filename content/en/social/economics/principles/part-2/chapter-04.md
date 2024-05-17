@@ -44,7 +44,7 @@ This is done by having two ways of exchange:
 
 In the beginning, the points-based transactions will be tiny relative to the money-based ones. However in time, the points-based ones will grow until it balances the money-based transactions. Having two ways allow circulation to continue even if there is a crisis in one way. 
 
-Having two arbitrages ensures that a *pantrynomy* will be more dynamic than an economy. In fact, Smith predicted that people will work so hard in such a system that caps on revenue would have to be decreed to protect the people's health:
+Having two arbitrages ensures that a *supereconomy* will be more dynamic than an economy. In fact, Smith predicted that people will work so hard in such a system that caps on revenue would have to be decreed to protect the people's health:
 
 {{< q a="Adam-Smith" >}}
 Our soldiers are not the most industrious people. Yet when they are liberally paid by the piece, their officers were frequently obliged to stipulate that they should not be allowed to earn above a certain rate every day. Before this stipulation, soldiers frequently overworked and hurt their health by mutual emulation and the desire of greater gain.

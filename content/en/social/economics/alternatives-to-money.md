@@ -33,7 +33,6 @@ This changed when the Spanish conquered Europe as the Hapsburgs to impose that p
 
 Thus, monarchial strength in Europe led to peace which led to money which led to the commercial system*. 
 
-
 > *The strength of China and India came from the imperial system and not the monarchial one. This allowed them to hinder commercial interests, similar to how Xi Jinping is able to clamp down on tech companies. This is the opposite of the US where its leaders are subservient to commercial interests, as seen in the phenomenon of globalization and the 2008 Financial Crisis. 
 
 
@@ -43,13 +42,21 @@ The showdown between the commercial and the imperial systems manifested as the O
 
 However, the commercial system also created problems:
 
-1. **Inefficiency in running an economy**: Before you can buy bread, you need to have money. To have this money, you need to sell something that you have. To sell something, you need to find a market. So to buy anything, humans need three steps
+1. **Inefficiency in running an economy**
+
+Before you can buy bread, you need to have money. To have this money, you need to sell something that you have. To sell something, you need to find a market. So to buy anything, humans need three steps
     
-2. **High expense and unproductive labor in financing the economy or supporting money**: The monopoly of money for exchange necessitates an expensive financial system filled with bankers, financiers, tellers, accountants, lawyers, etc. to support it. This adds to the cost of the economy without adding any real value. Adam Smith calls these 'unproductive labor' and is the most expensive part of the economy
+2. **High expense and unproductive labor in financing the economy or supporting money**
 
-3. **Lack of responsiveness, and slow progress**: Since many steps are needed to procure money, there is a lag in responding to supply-and-demand opportunities. This results in missed opportunities for addressing the needs of society, or for creating advanced technologies as many promising research projects remain unfunded. A lot of deals fail because one party lacks money to complete the transaction. 
+The monopoly of money for exchange necessitates an expensive financial system filled with bankers, financiers, tellers, accountants, lawyers, etc. to support it. This adds to the cost of the economy without adding any real value. Adam Smith calls these 'unproductive labor' and is the most expensive part of the economy
 
-4. **Arbitrariness and volatility**: Money allows economic control which can have both good and bad effects. One one hand, it keeps some stability through a central bank as the wholesaler of money. However, this same control also creates volatility when that money is hoarded by retailers such as banks and financiers.   
+3. **Lack of responsiveness, and slow progress**
+
+Since many steps are needed to procure money, there is a lag in responding to supply-and-demand opportunities. This results in missed opportunities for addressing the needs of society, or for creating advanced technologies as many promising research projects remain unfunded. A lot of deals fail because one party lacks money to complete the transaction. 
+
+4. **Arbitrariness and volatility**
+
+Money allows economic control which can have both good and bad effects. One one hand, it keeps some stability through a central bank as the wholesaler of money. However, this same control also creates volatility when that money is hoarded by retailers such as banks and financiers.   
 
 To solve these problems, Adam Smith suggested grains and precious metals as the store of value: 
 
@@ -59,7 +66,7 @@ Labour.. is the only universal and the only standard by which we can compare the
 
 ![Wheat in a farm](https://res.cloudinary.com/nara/image/upload/q_auto/wheatfarm_bsqhxr.jpg)
 
-This is why Superphysics will use points and bank gold to replace fiat currency*. 
+This is why Supereconomics (Economic Superphysics) will use points and bank gold to replace fiat currency*. 
 - Points are pegged to grains and are used for local transactions. For example, in China, the points will be pegged to rice. In the US, it will be pegged to wheat. 
 - Central bank gold will be used to transfer investments from one country to another. This makes the International Monetary Fund unnecessary. This gold is a fixed ratio to the actual fiat that is circulating and is different from market gold. This then leads to a gold-backed currency that makes the arbitrary printing of money illegal.
 
@@ -79,7 +86,7 @@ Grains | Local Points| Moderate | For local transactions of basic value
 Gold | Bank Gold and gold-backed local currencies | Slow | For foreign investments and circulation of non-basic value (wholesale money)  
 
 
-{{< img src="/graphics/econ/storesvalue.png" alt="Bank Gold, Points" cap="In Superphysics, the two stores of value work together to maintain and grow the economy sustainably" >}}
+{{< img src="/graphics/econ/storesvalue.png" alt="Bank Gold, Points" cap="In Supereconomics, the two stores of value work together to maintain and grow the economy sustainably" >}}
 
   
 Bank gold will only be used to circulate investments between countries and have nothing to do directly with commercial activity since bank gold is not legal tender (you can think of it as legal tender only between states). However, it will be the basis for gold-backed currencies which then will be used to circulate value. 
@@ -106,14 +113,14 @@ This solves Problems 1-3:
 3. Letting the points be served through the internet allows real-time responsiveness
 
 
-In Economics, you can buy bread or get a haircut only if you have money. But in Superphysics, you can do both by using money OR points. 
+In Economics, you can buy bread or get a haircut only if you have money. But in Supereconomics, you can do both by using money OR points. 
 
 This will allow the pantrynomy to keep on moving even during a financial crisis. During such an event, the pantrynomy can switch to points for its essential transactions*. Thus, we can say that points are for basics, while gold-backed currencies are for non-basics.
 
 
 <!-- The two other stores of value for commercial transactions as buying and selling are therefore fiat currency and local points. This system will allow two ways to buy bread or to get a haircut, different from the commercial money-only system that only allows money or money-based-credit:
 
-Kind | Commercial system | Pantrynomic system
+Kind | Commercial system | Supereconomic system
 --- | --- | ---
 Buying bread | use money | use money or points
 Getting a haircut | use money | use money or use points
@@ -168,7 +175,7 @@ Trade began with barter between tribes. It evolved into using coins, which later
 This new system creates a whole new set of measures, transaction methods, and investment vehicles that fund productive labour directly and eliminate both inequality and employment:
 
 - [Clearing Funds as an alternative to Bonds](/research/schumacher/pool-clearing)
-- [Purchasing Power as an alterative to GDP](/social/economics/principles/part-4/chapter-07c) 
+- [Purchasing Power as an alterative to GDP](/social/economics/principles/part-4/chapter-07d) 
 - Basic Universal Revenue as an alternative to money
 - [The Effort Theory of Value](/social/economics/principles/part-2/chapter-01b/) as an alternative to Marginal Pricing
 
@@ -176,6 +183,8 @@ This new system creates a whole new set of measures, transaction methods, and in
 
 
 {{< box >}}
+## Updates
+
 Date | Notes
 --- | ---
 Jan 11, 2021 | Harmonized with Pool Clearing

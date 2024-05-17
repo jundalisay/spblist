@@ -132,7 +132,7 @@ This approach deducts the effort of society in maintaing the money-system that c
 
 <!-- In the past, it was the imperial system of the Romans and ancient Chinese made up of a rent-seeking class* of tax collectors and eunuchs. 
 
-> *Pantrynomic systems aim to reduce corruption by reducing the rent-seeking and profit-seeking classes through automation. Unlike the fallacious systems of Communism and the Resource-based Economy where technology is used to <i>create</i> value, in Superphysics, technology and artificial intelligence are used to <i>maintain</i> value.  -->
+> *Supereconomic systems aim to reduce corruption by reducing the rent-seeking and profit-seeking classes through automation. Unlike the fallacious systems of Communism and the Resource-based Economy where technology is used to <i>create</i> value, in Superphysics, technology and artificial intelligence are used to <i>maintain</i> value.  -->
 
 
 The expenses for finance charges, insurance premiums, interest payments, credit card annual fees, etc. all go as into the gross revenue of banks, fintech, and financial institutions.  These do not affect the real economy in the sense that it does not matter whether a street bakery:

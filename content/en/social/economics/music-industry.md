@@ -102,15 +102,17 @@ Taylor Swift's optimism for the music industry is justified, not in the vendible
 But such activities require a lot of money which only famous and bankable musicians like Taylor Swift have. How will indie and less famous artists build a fan base to get the economic support that they need?
 
 
-## How Superphysics Can Help Struggling Musicians
+## Update July 2021: How Superphysics Can Help Struggling Musicians
 
 <!-- July 2021 --> 
 
-If an artist cannot catch the eye of big music companies, then they have to make efforts to catch the eye of society. After society "likes" them, then it is the job of society to fund and maintain such beneficial artists. Here is where our proposed pantrynomy comes in. 
+If an artist cannot catch the eye of big music companies, then they have to make efforts to catch the eye of society. After society "likes" them, then it is the job of society to fund and maintain such beneficial artists. Here is where our proposed points-based economic system comes in. 
 
-A pantrynomy is a community-based economic social network that funnels its excess revenues to funding employment that supports society, such as newsmaking and the arts. This prevents media from being corrupted into telling lies and artists from selling out.
+He or she can perform in exchange for points from an event organizer who acts as the points-banker who will then charge points to people seeing live performances. Those people will then pay the points banker in-kid during their convenient times and the points banker will then give those goods and services to the artist, taking a cut or using the items that he wants. 
+
+<!-- A pantrynomy is a community-based economic social network that funnels its excess revenues to funding employment that supports society, such as newsmaking and the arts. This prevents media from being corrupted into telling lies and artists from selling out. -->
 
 
-{{< me date="May 12, 2022" >}}
+<!-- me date="May 12, 2022"
 Basic Universal Revenue can maintain artists so that they can continue pursuing their passion even during disasters such as the current pandemic.
-{{< /me >}}
+/me -->

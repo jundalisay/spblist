@@ -94,7 +94,7 @@ Worse is that Keynes wasn't really sure if his theory could lead to stable money
 
 This is why economists sometimes advocate for 0%, 2%, or 4% inflation -- **because the whole theory was uncertain to begin with!** 
 
-<!-- The cause of Keynes' uncertainty is the fact that, to pantrynomics, money-price is a 'particle-effect' that represents 'value-feelings' which are really causal-waves that change constantly.  -->
+<!-- The cause of Keynes' uncertainty is the fact that, to Supereconomics, money-price is a 'particle-effect' that represents 'value-feelings' which are really causal-waves that change constantly.  -->
 
 Basing an economy on money or interest rates is to base the economy on an ever-changing effect instead of a known cause. This makes it naturally unstable, with solutions always lagging behind the problem, or even causing future problems. Nominal minimum wages might be adjusted to keep up with nominal price inflation, but real wages really lag behind as time passes, as seen in the productivity-wage gap.
 
@@ -118,7 +118,7 @@ Thus, Keynesian economics solves recessions by making workers work for free bit 
 
 At such a point, the worker gives too much free work and stops working by holding mutinous strikes and protests, which became so common in the 1970's and 80's. It also paralyzes governments which become mired in debt, and is seen in government shutdowns in the US and the increase in corporate lobbying which funds the pauper congressmen.
 
-To prevent such high inflation, the sweet-spot became 2% -- higher than the 0% that was advocated in the 1970s and what pantrynomics actually advocates, but lower than the 4+% that would bring instability. The focus on stability then became the job of central banks*. 
+To prevent such high inflation, the sweet-spot became 2% -- higher than the 0% that was advocated in the 1970s and what Supereconomics actually advocates, but lower than the 4+% that would bring instability. The focus on stability then became the job of central banks*. 
 
 
 Thus, while economists focus on **growth** to generate employment, central banks focus on **price stability** to keep that employment. 

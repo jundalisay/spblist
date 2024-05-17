@@ -73,7 +73,7 @@ Third Law = disorder decreases as temp goes to absolute zero. absolute zero cann
 
 We find that these four laws match the four factors of our [DCIT model](/posts-pantrynomics/the-demand-capital-industry-trade-model/) which is made up of:
 
-| **Factor** | **Law of Value** | **Value** | **Model** | **Physics equivalent** | **Pantrynomic system** | **Remarks** |
+| **Factor** | **Law of Value** | **Value** | **Model** | **Physics equivalent** | **Supereconomic system** | **Remarks** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Demand | First | Natural Price | GPFY | Higgs Field | Basic Universal Revenue <br> as store of value <br> and the Grain Index | Basis of economic justice <br> which is lacking in both <br> Capitalism and Communism |
 | Capital | Second | Real Price | GUE | Gravitation (we gravitate <br> towards certain interests <br> based on our dharma) | Effort Theory of Value <br> ISAIAH Match | Leads to economic democracy <br> and maximized non-commercial potential|

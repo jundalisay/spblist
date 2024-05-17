@@ -1,6 +1,7 @@
 ---
 title: "Law of Supply and Demand Fallacy"
-date: 2019-04-07
+date: 2015-10-01
+# date: 2019-04-07
 image: /graphics/econ/eq.jpg
 description : "We expose the fallacy of the law of supply and demand of Microeconomics by applying Socratic Dialectics"
 heading: "Mankiw is wrong"
@@ -15,7 +16,7 @@ toc: false
 
 
 {{< me date="April 2021" >}}
-[The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics
+[The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics. We replace our old pre-2019 name "Socioeconomics" with "Supereconomics".
 {{< /me >}}
 
 Adam Smith’s Supply and Demand Curves (below) are the foundation our proposed science called Supereconomics which is based on Classical Economics. It can be applied to any problem in economics in order to provide common sense answers.
@@ -71,7 +72,7 @@ More realistically, the event called specifically for that kind of mug, which le
 
 ## Scenario 3: That kind of coffee mug suddenly became so popular, for example through social media. 
 
-It was a new kind of mug based on a limited material. It was first sold at an introductory price to test the market. Once demand was established, the competition* among mug-makers for the limited material raised the cost, without increasing the number of such mugs in society. This increased cost then increased its natural price. Unlike the economist's answer, the price of the mugs in this case cannot be raised to infinite heights. The pantrynomist's answer leads to this. 
+It was a new kind of mug based on a limited material. It was first sold at an introductory price to test the market. Once demand was established, the competition* among mug-makers for the limited material raised the cost, without increasing the number of such mugs in society. This increased cost then increased its natural price. Unlike the economist's answer, the price of the mugs in this case cannot be raised to infinite heights. The Supereconomist's answer leads to this. 
 
 > *In Economics, the knowhow to make the special mugs would be monopolized by a single supplier. In Supereconomics, on the other hand, the basic intellectual property is made available to allow others to make the product and quench all demand as fast as possible. This is most commonly seen in open-source software which has sped up the development of software technology, leading to very useful apps and online services.  
 
@@ -103,6 +104,9 @@ Even if a terminal cancer patient was sold a life-saving drug in exchange for al
  
 <!-- me date="10/2015" -->
 
+
+## Update October 2016
+
 Looking back, we can see that Smith did mention in The Wealth of Nations that a commodity can be 'perfectly inelastic' if it matches the following conditions:
 
 {{< q a="Adam-Smith" c="Book 1, Chap 11, Digression" >}}
@@ -122,9 +126,7 @@ Teaching the inelastic supply curve therefore not only teaches selfishness and w
 <!-- such a policy in schools would lead to extinction just as it led to the extinction of some species. It would be illogical for a human school to knowingly teach something that will render humans extinct -- unless they didn't know it. The purpose of this post is to tell them that what they are teaching can actually make humans extinct eventually. The Covid pandemic is an easy proof, as it came from the destruction of the environment.
  -->
  
-{{< me date="October 2016" >}}
-Merging the old question with Smith's quote can help us create a new, more realistic question below.
-{{< /me >}}
+<!-- Merging the old question with Smith's quote can help us create a new, more realistic question below. -->
 
 ### Updated question: The market price of Rhino horns rose in Vietnam sharply last month, but the quantity supplied was the same as ever. What is the explanation?
 

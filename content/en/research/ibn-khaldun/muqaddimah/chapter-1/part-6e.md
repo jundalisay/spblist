@@ -61,26 +61,32 @@ Therefore, the Lawgiver (Muhammad) classified dream visions among "the bearers o
 remains of prophecy except the bearers of glad tidings." Asked what they were, he
 said= "A good dream vision, beheld by - or shown to - a good man." 303
 
-The reason why the veil of the senses is lifted in sleep is as follows.304 The
-perceptions and actions of the rational soul are the result of the corporeal animal
-spirit. This spirit is a fine vapor which is concentrated in the left cavity of the heart,
-as stated in the anatomical works of Galen and others. 305 It spreads with the blood
-in the veins and arteries, and makes sensual perception, motion, and all the other
-corporeal actions possible. 
+The reason why the veil of the senses is lifted in sleep is as follows.304 
 
-Its finest part goes up to the brain. There, it is temperedby the coldness of (the brain), and it effects the actions of the powers located in the
-cavities of the brain. The rational soul perceives and acts only by means of that
-vaporous spirit. It is connected with it. (This connection is) the result of the wisdom
-of creation which requires that nothing fine can influence anything coarse. Of all the
-corporeal matters, only the animal spirit is fine. Therefore, it is receptive to the
-influence of the essence, which differs from it only in respect of corporeality, that is,
-the rational soul. Thus, through the medium of (the animal spirit), the influence of
-the rational soul reaches the body.
-We have stated before 306 that the perception of the rational soul is of two
-kinds. There is an external perception through the five senses, and an inward
-perception through the cerebral powers. All these perceptions divert the rational soul
-from the perception for which 307 it is prepared by nature, (namely, that) of the
-essences of the spiritualia, which are higher than it.
+The perceptions and actions of the rational soul are the result of the corporeal animal spirit. 
+
+This spirit is a fine vapor which is concentrated in the left cavity of the heart, as stated in the anatomical works of Galen and others. 305 
+
+It spreads with the blood in the veins and arteries, and makes sensual perception, motion, and all the other corporeal actions possible. 
+
+Its finest part goes up to the brain. There, it is temperedby the coldness of (the brain), and it effects the actions of the powers located in the cavities of the brain. 
+
+The rational soul perceives and acts only by means of that vaporous spirit. It is connected with it. 
+
+This connection is the result of the wisdom of creation which requires that nothing fine can influence anything coarse. 
+
+Of all the corporeal matters, only the animal spirit is fine. 
+
+Therefore, it is receptive to the influence of the essence, which differs from it only in respect of corporeality, that is, the rational soul. 
+
+Thus, through the medium of the animal spirit, the influence of the rational soul reaches the body.
+
+The perception of the rational soul is of two kinds:
+
+1. An external perception through the five senses
+2. An inward perception through the cerebral powers
+
+All these perceptions divert the rational soul from the perception for which 307 it is prepared by nature, (namely, that) of the essences of the spiritualia, which are higher than it.
 
 Since the external senses are corporeal, they are subject to weakness and lassitude as the result of exertion and fatigue, and to spiritual exhaustion through too much activity. 
 
