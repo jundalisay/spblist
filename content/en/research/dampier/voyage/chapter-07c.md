@@ -1,5 +1,5 @@
 ---
-title: "THE AIR AND WEATHER AT PANAMA"
+title: "The Air And Weather At Panama"
 heading: "Chapter 7c"
 weight: 40
 writer:

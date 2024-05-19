@@ -84,42 +84,60 @@ They think that the difference between miracles and sorcery is this. Amiracle is
 
 The worker of miracles is supported in his activity by the spirit of God. 
 
-The sorcerer, on the other hand, does his work by himself and with the help of his own psychic power, and, under certain conditions, with the support of devils. The difference between the two actually concerns the idea, reality, and essence of the
-matter. We, however, (prefer to) deduce the differentiation merely from obvious signs. 
+The sorcerer, on the other hand, does his work by himself and with the help of his own psychic power, and, under certain conditions, with the support of devils.
 
-That is, miracles are found (to be wrought) by good persons for good purposes and by souls that are entirely devoted to good deeds. Moreover, (they include) the "advance challenge" (tahaddi) 787 of the claim to prophecy. Sorcery, on the other
-hand, is found (practiced) only by evil persons and as a rule is used for evil actions,
-788 such as causing discord between husband and wife, doing harm to enemies, and
+The difference between the two actually concerns the idea, reality, and essence of the matter. 
+
+We, however, prefer to deduce the differentiation merely from obvious signs. 
+
+That is, miracles are found to be wrought by good persons for good purposes and by souls that are entirely devoted to good deeds. 
+
+<!-- 787 -->
+Moreover, (they include) the "advance challenge" (tahaddi)  of the claim to prophecy. 
+
+Sorcery, on the other hand, is practiced only by evil persons. As a rule, it is used for evil actions, such as causing discord between husband and wife, doing harm to enemies, and
 similar things. 
+<!-- 788 -->
+- It is practiced by souls that are entirely devoted to evil deeds. 
 
-It is found (practiced) by souls that are entirely devoted to evil deeds. This is the difference between (prophecy and sorcery) in the opinion of metaphysicians.
+<!-- This is the difference between (prophecy and sorcery) in the opinion of metaphysicians. -->
 
-Among the Sufis some who are favored by acts of divine grace are also able to exercise an influence upon worldly conditions. This, however, is not counted as a kind of sorcery. It is effected with divine support, because the attitude and approach
-(of these men) result from prophecy and are a consequence of it. 
+Among the Sufis, some who are favored by acts of divine grace are also able to exercise an influence on worldly conditions. 
+
+This, however, is not counted as a kind of sorcery. It is effected with divine support, because the attitude and approach (of these men) result from prophecy and are a consequence of it. 
 
 They enjoy divine support, as befits their state and faith and belief in the cause of God. Were someone among them capable of doing evil deeds, he would not do them, because he is bound by the divine command in whatever he may do or not do. Whatever he is not permitted to do, he would certainly not do. Were he to, he would deviate from the path of truth and would in all likelihood lose his "state." 
 
-Miracles take place with the support of the spirit of God and the divine powers. Therefore, no piece of sorcery can match them. One may compare the affair of the sorcerers of Pharaoh with Moses and the miracle of the staff. Moses' staff
-devoured the phantoms the sorcerers produced, and their sorcery completely
-disappeared as if it had never been. 789
+Miracles take place with the support of the spirit of God and the divine powers. Therefore, no piece of sorcery can match them. One may compare the affair of the sorcerers of Pharaoh with Moses and the miracle of the staff. 
 
-Also, the following verse was revealed to the Prophet in the Mu'awwidhatan: "And (I take refuge in God) from the evil of the women who blow into knots." In this connection, 'A'ishah said= "As soon as he recited the Qur'an over one of the
-knots into which a spell against him had been placed, that particular knot became
-untied." 790 Sorcery cannot last whenever the name of God is mentioned in a
-believing state of mind. 791
+Moses' staff devoured the phantoms the sorcerers produced, and their sorcery completely disappeared as if it had never been. 
+<!-- 789 -->
 
-The historians report that the Darafsh-i-Kaviyan 792 - that is, the banner of the Persian emperor - had a magic square of a hundred fields 793 woven into it in gold. 
+Also, the following verse was revealed to the Prophet in the Mu'awwidhatan: "And (I take refuge in God) from the evil of the women who blow into knots." 
 
-That had been done when there were certain astronomical positions that had been (especially) observed for the purpose of writing down the magic square. 
+In this connection, 'A'ishah said: "As soon as he recited the Qur'an over one of the knots into which a spell against him had been placed, that particular knot became untied." 
+
+<!-- 790  -->
+
+Sorcery cannot last whenever the name of God is mentioned in a believing state of mind. 
+<!-- 791 -->
+<!-- 792 793 -->
+The historians report that the Darafsh-i-Kaviyan (the banner of the Persian emperor) had a magic square of a hundred fields  woven into it in gold. 
+
+That had been done when there were certain astronomical positions that had been especially observed for the purpose of writing down the magic square. 
 
 The banner was found on the day Rustum was killed at al-Qadisiyah. It was lying on the ground after the flight and dispersal of the Persians. 
 
-The people who work with talismans and magic squares think that such (a magic square) means victory in war and that a banner containing it or accompanied by it could never be routed.
-However, (the spell) was counteracted by divine support, which resulted from the faith of the men around the Prophet and their belief in the cause of God. 
+The people who work with talismans and magic squares think that such a magic square means victory in war and that a banner containing it or accompanied by it could never be routed.
 
-Through the presence of (faith), any magic spell was dissolved and did not last (this time, as it will always happen whenever faith is involved), "and what they did came to naught." <!-- 794 -->
+However, the spell was counteracted by divine support, which resulted from the faith of the men around the Prophet and their belief in the cause of God. 
 
-The religious law makes no distinction between sorcery, talismans, and prestidigitation. It puts them all into the same class of forbidden things. The Lawgiver (Muhammad) permitted us only those actions that are of relevance to us inour religion, which concerns the well-being of our life in the other world, and in our livelihood, which concerns the wellbeing of our life in this world.
+Through faith, any magic spell was dissolved and did not last (this time, as it will always happen whenever faith is involved), "and what they did came to naught." <!-- 794 -->
+
+The religious law makes no distinction between sorcery, talismans, and prestidigitation. 
+- It puts them all into the same class of forbidden things. 
+
+Muhammad permitted us only those actions that are of relevance to us inour religion, which concerns the well-being of our life in the other world, and in our livelihood, which concerns the wellbeing of our life in this world.
 
 Things that are of no relevance in these two respects and that may cause harm or some kind of harm, are forbidden, (and the strictness of the prohibition is) in proportion to the harm they might do. 
 
@@ -149,7 +167,7 @@ Miracles and sorcery are contradictory by their very natures, as are good and ev
 
 Another psychic influence is that of the eye. It is an influence exercised by the soul of the person who has the evil eye. <!-- 801 --> 
 
-A thing or situation appears pleasing to the eye of a person, and he likes it very much. This (circumstance) creates in him envy and the desire to take it away from its owner. 
+A thing or situation appears pleasing to the eye of a person, and he likes it very much. This circumstance creates in him envy and the desire to take it away from its owner. 
 
 Therefore, he prefers to destroy him. 
 

@@ -22,7 +22,7 @@ Yet there we got speech with some of the natives, who by signs made us to unders
 We might have passed between them and the main island, as we learnt since; but not knowing them, nor what dangers we might encounter there, we chose rather to sail to the eastward of them. But meeting very strong westerly winds we got nothing forward in many days. In this time we first saw the islands Meangis, which are about sixteen leagues distant from the Mindanao, bearing south-east. I shall have occasion to speak more of them hereafter.
 
 
-## TORNADOES AND BOISTEROUS WEATHER.
+## Tornadoes And Boisterous Weather
 
 On July 4, we got into a deep bay 4 leagues north-west from the 2 small islands before mentioned. But the night before, in a violent tornado, our bark being unable to bear any longer, bore away, which put us in some pain for fear she was overset, as we had like to have been ourselves. We anchored on the south-west side of the bay in fifteen fathom water, about a cable's length from the shore. 
 
