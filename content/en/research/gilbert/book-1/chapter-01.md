@@ -12,21 +12,71 @@ image: /covers/magnet.jpg
 
 
 
-At an early period, while philosophy lay as yet rude and uncultivated in the mists of error and ignorance, few were the virtues and properties of things that were known and clearly perceived: there was a bristling forest of plants and herbs, things metallick were hidden, and the knowledge of stones was unheeded. 
+In an early period, philosophy lay rude and uncultivated in the mists of error and ignorance. 
+- Few were the virtues and properties of things that were known and clearly perceived.
+- There was a bristling forest of plants and herbs.
+- Metallic things were hidden.
+- The knowledge of stones was unheeded. 
 
-But no sooner had the talents and toils of many brought to light certain commodities necessary for the use and safety of men, and handed them on to others (while at the same time reason and experience had added a larger hope), than a thorough examination began to be made of forests and fields, hills and heights; of seas too, and the depths of the waters, of the bowels of the earth's body; and all things began to be looked into. 
+But soon, the talents and toils of many brought to light certain commodities necessary for the use and safety of men.
+- They handed them on to others.
+- At the same time, reason and experience had added a larger hope.
 
-And at length by good luck the magnet-stone was discovered in iron lodes, probably by smelters of iron or diggers of metals. This, on being handled by metal folk, quickly displayed that powerful and strong attraction for iron, a virtue not latent and obscure, but easily proved by all, and highly praised and commended. And in after time when it had emerged, as it were out of darkness and deep dungeons, and had become dignified of men on account of its strong and amazing attraction for iron, many philosophers as well as physicians of ancient days discoursed of it, in short celebrated, as it were, its memory only; as for instance Plato in the Io[2], Aristotle in the De Anima[3], in Book 1 only, Theophrastus the Lesbian, Dioscorides, C. Plinius Secundus, and Julius Solinus[4]. 
+Then, a thorough examination was made of forests and fields, hills, heights, seas, and the bowels of the earth's body. 
+- All things began to be looked into. 
 
-As handed down by them the loadstone merely attracted iron, the rest of its virtues were all undiscovered. But that the story of the {2}loadstone might not appear too bare and too brief, to this singular and sole known quality there were added certain figments and falsehoods, which in the earliest times, no less than nowadays, used to be put forth by raw smatterers and copyists to be swallowed of men. 
+At length, by good luck, the magnet-stone was discovered in iron lodes, probably by smelters of iron or diggers of metals. 
 
-As for instance, that if a loadstone be anointed with garlick, or if a diamond be near, it does not attract iron[5]. Tales of this sort occur in Pliny, and in Ptolemy's Quadripartitum; and the errors have been sedulously propagated, and have gained ground (like ill weeds that grow apace) coming down even to our own day, through the writings of a host of men, who, to fill put their volumes to a proper bulk, write and copy out pages upon pages on this, that, and the other subject, of which they knew almost nothing for certain of their own experience. 
+This, on being handled by metal folk, quickly displayed that powerful and strong attraction for iron. This was a virtue not latent and obscure, but easily proved by all, and highly praised and commended. 
 
-Such fables of the loadstone even Georgius Agricola himself, most distinguished in letters, relying on the writings of others, has embodied as actual history in his books De Natura Fossilium. Galen noted its medicinal power in the ninth book of his De Simplicium Medicamentorum Facultatibus, and its natural property of attracting iron in the first book of De Naturalibus Facultatibus; but he failed to recognize the cause, as Dioscorides before him, nor made further inquiry. But his commentator Matthiolus repeats the story of the garlick and the diamond, and moreover introduces Mahomet's shrine vaulted with loadstones[6], and writes that, by the exhibition of this (with the iron coffin hanging in the air) as a divine miracle, the public were imposed upon. But this is known by travellers to be false. 
+  <!-- when it had emerged, as it were out of darkness and deep dungeons,  -->
+After some time, it had become dignified by men on account of its strong and amazing attraction for iron.
+- Many ancient philosophers and physicians discoursed of it.
+- They celebrated its memory only. Examples are:
+  - Plato in the Io[2]
+  - Aristotle in the De Anima[3], in Book 1 only
+  - Theophrastus the Lesbian, 
+  - Dioscorides, 
+  - C. Plinius Secundus,
+  - Julius Solinus[4]. 
 
-Yet Pliny relates that Chinocrates the architect had commenced to roof over the temple of Arsinoe at Alexandria with magnet-stone[7], that her statue of iron placed therein might appear to hang in space. His own death, however, intervened, and also that of Ptolemy, who had ordered it to be made in honour of his sister. 
+They explained that the loadstone merely attracted iron. The rest of its virtues were all undiscovered. 
 
-Very little was written by the ancients as to the causes of attraction of iron; by Lucretius and others there are some short notices; others only make slight and meagre mention of the attraction of iron: all of these are censured by Cardan for being so careless and negligent in a matter of such importance and in so wide a field of philosophizing; and for not supplying an ampler notion of it and a more perfect philosophy: 
+But so that the story of the loadstone might not appear too bare and brief, to this singular and sole known quality they added certain figments and falsehoods.
+
+<!-- , which in the earliest times, no less than nowadays, used to be put forth by raw smatterers and copyists to be swallowed of men.  -->
+
+For instance, that wrote that if a loadstone is anointed with garlic, or if a diamond is near, it does not attract iron[5]. Tales of this sort occur:
+- in Pliny
+- in Ptolemy's Quadripartitum
+
+The errors have been sedulously propagated, and have gained ground (like ill weeds that grow apace) coming down even to our own day, through the writings of a host of men.
+- To fill their volumes to a proper bulk, they write and copy out pages upon pages on this, that, and the other subject, of which they knew almost nothing for certain of their own experience. 
+
+Georgius Agricola was a most distinguished in letters.
+- He relied on the writings of others to create an actual history in his books De Natura Fossilium with such fables of the loadstone. 
+
+Galen noted:
+- its medicinal power in Book 9 of his De Simplicium Medicamentorum Facultatibus.
+- its natural property of attracting iron in Book 1 of De Naturalibus Facultatibus.
+
+But he failed to recognize the cause, as Dioscorides before him, nor made further inquiry. 
+
+But his commentator Matthiolus repeats the story of the garlick and the diamond, and moreover introduces Mahomet's shrine vaulted with loadstones[6]. 
+
+He writes that, by the exhibition of this (with the iron coffin hanging in the air) as a divine miracle, the public were imposed upon. 
+- But this is known by travellers to be false. 
+
+Yet Pliny relates that Chinocrates the architect had commenced to roof over the temple of Arsinoe at Alexandria with magnet-stone[7] so that her statue of iron placed therein might appear to hang in space. 
+- His own death, however, intervened, and also that of Ptolemy, who had ordered it to be made in honour of his sister. 
+
+Very little was written by the ancients as to the causes of attraction of iron.
+
+Lucretius and others made some short notices.
+
+Others only make slight and meagre mention of the attraction of iron.
+
+All of these are censured by Cardan for being so careless and negligent in a matter of such importance and in so wide a field of philosophizing and for not supplying an ampler notion of it and a more perfect philosophy.
 
 Yet, beyond certain received opinions and ideas borrowed from others and ill-founded conjectures, he has not himself any more than they delivered to posterity in all his bulky works any contribution to the subject worthy of a philosopher. 
 
@@ -42,7 +92,11 @@ Alexander Aphrodiseus in his Problemata considers the question of the loadstone 
 
 To much the same effect Johannes Costæus adduces a passage from Plutarch; Thomas Aquinas[12], writing briefly on the loadstone in Chapter 7 of his Physica, touches not amiss on its nature, and with his divine and clear intellect would have published much more, had he been conversant with magnetick experiments. Plato thinks the virtue divine. 
 
-But when three or four hundred years afterwards, the magnetick movement to North and South was discovered or again recognized by men, many learned men attempted, each according to the bent of his own mind, either by wonder and praise, or by some sort of reasonings, to throw light upon a virtue so notable, and so needful for the use of mankind. Of more modern authors a great number have striven to show what is the cause of this direction and movement to North and South, and to understand this great miracle of nature, and to disclose it to others: but they have lost both their oil and their pains; for, not being practised in the subjects of nature, and being misled by certain false physical systems, they adopted as theirs, from books only, without magnetical experiments, certain inferences based on vain opinions, and many things that are not, dreaming old wives' tales. Marsilius Ficinus ruminates over the ancient opinions, and in order to show the reason of the direction seeks the cause in the heavenly constellation of the Bear, supposing the virtue of the Bear to prevail in the stone and to be transferred to the iron. Paracelsus asserted that there are stars, endowed with the power of the loadstone, which attract to themselves iron. Levinus Lemnius describes and praises the compass[13], and infers its antiquity on certain grounds; he does not divulge the hidden miracle which he propounds. 
+Four hundred years later, the magnetic movement to North and South was discovered or again recognized by men. Many learned men attempted, each according to the bent of his own mind, either by wonder and praise, or by some sort of reasonings, to throw light upon a virtue so notable, and so needful for the use of mankind. 
+
+Of more modern authors a great number have striven to show what is the cause of this direction and movement to North and South, and to understand this great miracle of nature, and to disclose it to others: but they have lost both their oil and their pains; for, not being practised in the subjects of nature, and being misled by certain false physical systems, they adopted as theirs, from books only, without magnetical experiments, certain inferences based on vain opinions, and many things that are not, dreaming old wives' tales. 
+
+Marsilius Ficinus ruminates over the ancient opinions, and in order to show the reason of the direction seeks the cause in the heavenly constellation of the Bear, supposing the virtue of the Bear to prevail in the stone and to be transferred to the iron. Paracelsus asserted that there are stars, endowed with the power of the loadstone, which attract to themselves iron. Levinus Lemnius describes and praises the compass[13], and infers its antiquity on certain grounds; he does not divulge the hidden miracle which he propounds. 
 
 In the kingdom {4}of Naples the Amalfians were the first (so it is said) to construct the mariners' compass: and as Flavius Blondus says the Amalfians[14] boast, not without reason, that they were taught by a certain citizen, Johannes Goia, in the year thirteen hundred after the birth of Christ. 
 
@@ -50,9 +104,13 @@ That town is situated in the kingdom of Naples not far from Salerno, near the pr
 
 The knowledge of the little mariners' compass seems to have been brought into Italy by Paolo, the Venetian[15], who learned the art of the compass in the Chinas about the year MCCLX.; yet I do not wish the Amalfians to be deprived of an honour so great as that of having first made the construction common in the Mediterranean Sea. Goropius[16] attributes the discovery to the Cimbri or Teutons, forsooth because the names of the 32 winds inscribed on the compass are pronounced in the German tongue by all ship-masters, whether they be French, British, or Spaniards; but the Italians describe them in their own vernacular. 
 
-Some think that Solomon, king of Judæa, was acquaint with the use of the mariners' compass, and made it known to his ship-masters in the long voyages when they brought back such a power of gold from the West Indies: whence also, from the Hebrew word Parvaim[17], Arias Montanus maintains that the gold-abounding regions of Peru are named But it is more likely to have come from the coast of lower Æthiopia, from the region of Cephala, as others relate. Yet that account seems to be less true, inasmuch as the Phœnicians, on the frontier of Judæa, who were most skilled in navigation in former ages (a people whose talents, work, and counsel Solomon made use of in constructing ships and in the actual expeditions, as well as in other operations), were ignorant of magnetick aid, the art of the mariners' compass: 
+Some think that Solomon, king of Judæa, was acquaint with the use of the mariners' compass, and made it known to his ship-masters in the long voyages when they brought back such a power of gold from the West Indies: whence also, from the Hebrew word Parvaim[17], Arias Montanus maintains that the gold-abounding regions of Peru are named But it is more likely to have come from the coast of lower Æthiopia, from the region of Cephala, as others relate. 
 
-For had it been in use amongst them, without doubt the Greeks and also Italians and all barbarians would have understood a thing so necessary and made famous by common use; nor could matters of much repute, very easily known, and so highly requisite ever have perished in oblivion; but either the learning would have been handed down to posterity, or some memorial of it would be extant in writing. Sebastian Cabot was the first to discover that the magnetick iron varied[18]. Gonzalus Oviedus[19] is the first to write, as he does in the Historia, that in the south of the Azores it does not vary. 
+Yet that account seems to be less true, inasmuch as the Phœnicians, on the frontier of Judæa, who were most skilled in navigation in former ages (a people whose talents, work, and counsel Solomon made use of in constructing ships and in the actual expeditions, as well as in other operations), were ignorant of magnetick aid, the art of the mariners' compass: 
+
+For had it been in use amongst them, without doubt the Greeks and also Italians and all barbarians would have understood a thing so necessary and made famous by common use; nor could matters of much repute, very easily known, and so highly requisite ever have perished in oblivion; but either the learning would have been handed down to posterity, or some memorial of it would be extant in writing. 
+
+Sebastian Cabot was the first to discover that the magnetick iron varied[18]. Gonzalus Oviedus[19] is the first to write, as he does in the Historia, that in the south of the Azores it does not vary. 
 
 Fernelius in his book De Abditis Rerum Causis says that in the loadstone there is a hidden and abstruse cause, elsewhere calling it celestial; and he brings forth nothing but the unknown by means of what is still more unknown. {5}For clumsy, and meagre, and pointless is his inquiry into hidden causes. 
 
