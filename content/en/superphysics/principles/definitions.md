@@ -135,6 +135,7 @@ Commercialization | the shifting of an economy or trade into objective money-bas
 Commodity | a raw material or not-so-processed good for sale 
 Effort Theory of Value | the pegging of economic value into points represented by grains
 Goods | anything that is for sale and occupies a specific spacetime 
+Interest Rate | The revenue in lending that is determined by the demand and credit-worthiness of the borrowers and the availability of the lenders
 Monetization | the conversion of goods and services into money
 Pantrypoints system | the use of Pantries or Hubs as the store of resources
 Pantrypoints Pantry | a permanent or temporary repository of resources. Examples are stalls in a marketplace, a business address, or a person with a bag 
@@ -147,7 +148,6 @@ Pointization | the conversion of goods and services into points
 Products | a good that is processed and is for sale
 Service | anything that is for sale but does not occupy a specific spacetime 
 Wealth | the actual quality and quantity of useful goods and services
-
 
 
 ## Material Superphysics
