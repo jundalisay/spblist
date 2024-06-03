@@ -1,5 +1,5 @@
 ---
-title: "The sciences concerned with the Arabic language"
+title: "The Sciences Concerned with the Arabic language"
 description: "Arabic language has 4 pillars: lexicography, grammar, syntax and style (bayan), literature"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
@@ -55,78 +55,92 @@ The consonants, vowels, and positions (of letters [sounds]), that is, the forms 
 tongues that one generation learned from the other, as our children nowadays learn
 our languages.
 
-Then Islam came. The Arabs left the Hijaz to seek the royal authority that was in the hands of (foreign) nations and dynasties. They came into contact with non-Arabs. As a result, their linguistic habit changed under the influence of the
-solecisms they heard non-Arab speakers of Arabic make, and it is hearing that begets the linguistic habit. Thus, the (Arab linguistic habit began to) incline toward adopting forms of speech at variance with it, because (the Arabs) became used to
-hearing them spoken, and (their linguistic habit) became corrupted. 1240
+Then Islam came. The Arabs left the Hijaz to seek the royal authority that was in the hands of (foreign) nations and dynasties. 
 
-Cultured people feared that the (Arab linguistic) habit would become entirely corrupted and that, if the (process of corruption) went on for a long time, the Qur'an and the traditions would no longer be understood. Therefore, they derived certain norms for the (Arab linguistic) habit from their way of speaking. (These norms are) of general applicability, like universals and basic principles. 
+They came into contact with non-Arabs. As a result, their linguistic habit changed under the influence of the solecisms they heard non-Arab speakers of Arabic make, and it is hearing that begets the linguistic habit. 
+
+Thus, the (Arab linguistic habit began to) incline toward adopting forms of speech at variance with it, because (the Arabs) became used to hearing them spoken, and (their linguistic habit) became corrupted. 
+<!-- 1240 -->
+
+Cultured people feared that:
+- the Arab linguistic habit would become entirely corrupted 
+- the Qur'an and the traditions would no longer be understood if the process of corruption went on for a long time 
+
+Therefore, they derived certain norms for the Arab linguistic habit from their way of speaking. These norms are of general applicability, like universals and basic principles.
 
 They checked all the other parts of speech with them and combined like with like. (Among such norms,) for instance, are these:
 - The agent has the u-ending.
 - The object has the a-ending.
 - The subject of a nominal sentence has the u-ending.
 
-Then, they considered (the fact) that the meaning changes with the change of vowel (endings). For this (phenomenon), they used the technical term of i'rab. For the thing that necessitates the change (in meaning), they used the technical term
-"agent," ('amil), and so on. 
+Then, they considered the fact that the meaning changes with the change of vowel endings. 
 
-All these things came to be technical terms peculiar to the (grammarians) who set them down in writing and made a particular 1241 craft of them. 
+For this, they used the technical term of i'rab. 
 
-The technical term they used for that (craft) is "grammar" (nahw).
+They used the technical term "agent" ('amil) for the thing that necessitates the change in meaning, and so on. 
 
-The first to write on (grammar) was Abul-Aswad adDu'ali, of the Banu Kinanah. 1242 It is said that he did so upon the advice of 'Ali, who noticed that the (linguistic) habit was changing. 
+All these things came to be technical terms peculiar to the grammarians who set them down in writing and made a particular craft of them. 
+<!-- 1241 -->
 
-Therefore, he advised (ad-Du'ali) to protect it, and ad-Du'ali anxiously went about the task of fixing it accurately by means of comprehensive, inductively evolved rules.
+The technical term they used for that craft is "grammar" (nahw).
 
-Later on, scholars wrote books on (grammar). Eventually, in the time of al-
-Khalil b. Ahmad al-Farahidi, 1243 in the days of ar-Rashid, people were more in
-need of (grammatical rules than ever before), because the (linguistic) habit was
+<!-- 1242 -->
+The first to write on grammar was Abul-Aswad adDu'ali, of the Banu Kinanah. It is said that he did so upon the advice of 'Ali, who noticed that the linguistic habit was changing. 
+
+He advised ad-Du'ali to protect it. Ad-Du'ali anxiously went on fixing it accurately through comprehensive, inductively evolved rules.
+
+<!-- 1243 -->
+Later on, scholars wrote books on grammar. Eventually, in the time of al-Khalil b. Ahmad al-Farahidi, in the days of ar-Rashid, people were more in need of grammatical rules than ever before, because the linguistic habit was
 disappearing from among the Arabs.
 
-Al-Khalil improved the craft (of grammar) and perfected its various chapters. Sibawayh 1244 learned (grammar) from him. He
-perfected its details and increased the number of proofs and examples used in
-connection with it. He wrote on it his famous Book which became the model for
-everything subsequently written on (grammar). <!-- 1245 --> 
+Al-Khalil improved the craft of grammar and perfected its various chapters. 
 
-Short books for students were later written by Abu-Ali al-Farisi 1246 and Abul-Qasim az-Zajjaji. 1247 In them,
-they followed the model of (Sibawayh's) Book.
+<!-- 1244 -->
+Sibawayh learned grammar from him. He perfected its details and increased the number of proofs and examples used in
+connection with it. 
 
-Then, there was much grammatical discussion. Divergent opinions originated
-among the grammarians of al-Kufah and al-Basrah, the two old cities of the Arabs.
-They used an increasing number of proofs and arguments. The methods of
-(grammatical) instruction also became different. There was much difference of
-opinion with regard to vowel endings in many verses of the Qur'an, since thegrammarians held different opinions as to the basic rules of (grammar). 
+He wrote on it his famous Book which became the model for everything subsequently written on grammar. <!-- 1245 -->
 
-This became a lengthy subject for students (to study). Then recent scholars came, with their
-method of being brief. 
+<!-- 1246 1247 -->
+Short books for students were later written by Abu-Ali al-Farisi and Abul-Qasim az-Zajjaji. They followed the model of Sibawayh's Book.
 
-They cut short a good deal of the long discussion, though they included everything that had been transmitted. That, for instance, was what Ibn Malik 1248 did in the Kitab at-Tashil, and others. Or, they restricted themselves to
-elementary rules for (beginning) students. 
+Then, there was much grammatical discussion. Divergent opinions originated among the grammarians of al-Kufah and al-Basrah, the two old cities of the Arabs. 
 
-That, for instance, was what az-Zamakhshari did in the Mufassal and Ibn al-Hajib in the Muqaddimah. 1249 They
-also frequently versified the subject. That was done, for instance, by Ibn Malik in
-two rajaz poems, the large and the small one, and by Ibn Mu'ti 1250 in a rajaz poem
-of a thousand verses (ay'zyah).
+They used an increasing number of proofs and arguments. The methods of grammatical instruction also became different. There was much difference of opinion with regard to vowel endings in many verses of the Qur'an, since the grammarians held different opinions as to the basic rules of grammar. 
 
-In general, the works on this subject are innumerable and cannot all be
-known, and the methods of (grammatical) instruction are varied. The method of the
-ancients is different from that of recent (grammarians). The methods of the Kufians,
-the Basrians, the Baghdadis, and the Spaniards also, are all different. 
+This became a lengthy subject for students to study. Then recent scholars came, with their method of being brief. 
 
-Grammar has come to the point of being allowed to disappear, along with the
-decrease in the other sciences and crafts which we have noted and which is the
-result of a decrease in civilization. At the present time, there has reached us in the
-Maghrib a systematic work (diwan) from Egypt attributed to the Egyptian scholar,
-Jamal-ad-din b. Hisham. 1251 He treats in it all the rules governing vowel endings,
-both in general and in detail. He discusses the letters (sounds) and the individual
-words and sentences. He omits the repetitions found in most chapters of grammar.
+They cut short the long discussion, though they included everything that had been transmitted. 
+<!-- 1248 -->
+<!-- t, for instance, was what and others,  -->
+- Ibn Malik did this in the Kitab at-Tashil. 
 
-He called his work al-Mughni fi l-i'rab. 1252 He indicates all the fine points of the
-vowel endings in the Qur'an and sets them down accurately in chapters and sections
-and according to basic norms all of which are very orderly. We have found in (the
-work) much information attesting to (the author's) great ability and abundant
-knowledge of grammar. 
+Or, they restricted themselves to elementary rules for beginning students.
+- Az-Zamakhshari did this in the Mufassal and Ibn al-Hajib in the Muqaddimah. 
+<!-- 1249  -->
 
-In a way, his approach follows the method of the Mosul grammarians who followed in the footsteps of Ibn Jinni and adopted his technical terminology for (grammatical) instruction. 
+They also frequently versified the subject. 
+- Ibn Malik did this in 2 rajaz poems, the large and the small one
+- Ibn Mu'ti did this in a rajaz poem of a thousand verses (ay'zyah).
+<!-- 1250 -->
 
-In this way, he has produced a remarkable work that shows his powerful (linguistic) habit and his acquaintance with the
-subject.
+
+In general:
+- the works on this subject are innumerable and cannot all be known
+- the methods of grammatical instruction are varied. 
+
+The method of the ancients is different from that of recent grammarians. 
+
+The methods of the Kufians, the Basrians, the Baghdadis, and the Spaniards also, are all different. 
+
+Grammar has come to the point of being allowed to disappear, along with the decrease in the other sciences and crafts which we have noted and which is the result of a decrease in civilization. 
+
+<!-- 1251 -->
+At the present time, there has reached us in the Maghrib a systematic work (diwan) from Egypt attributed to the Egyptian scholar, Jamal-ad-din b. Hisham. He treats in it all the rules governing vowel endings, both in general and in detail. He discusses the letters (sounds) and the individual words and sentences. He omits the repetitions found in most chapters of grammar.
+
+<!-- 1252 -->
+He called his work al-Mughni fi l-i'rab.  He indicates all the fine points of the vowel endings in the Qur'an and sets them down accurately in chapters and sections and according to basic norms all of which are very orderly. We have found in it much information attesting to his great ability and abundant knowledge of grammar. 
+
+In a way, his approach follows the method of the Mosul grammarians who followed in the footsteps of Ibn Jinni and adopted his technical terminology for grammatical instruction. 
+
+In this way, he has produced a remarkable work that shows his powerful (linguistic) habit and his acquaintance with the subject.

@@ -11,16 +11,18 @@ weight: 15
 
 
 
-## PROPOSITION 15: Error is not anything positive.
+## Proposition 15: Error is not anything positive.
 
 Proof: If error were something positive, it would have as its cause only God, by whom it must be continuously created (Prop. 12). But this is absurd (Prop. 1 3).
 Therefore error is not anything positive. Q.E.D.
 
-Scholium: Because error is not anything positive in man, it can be nothing else than the privation of the right use of freedom (Schol. Prop. 14). Therefore God must not be said to be the cause of error, except in the sense in which we say that the absence of the sun is the cause of darkness, or that God, in making a child similar to others except for sight, is the cause of blindness. He is not to be said to
-be the cause of error in giving us an intellect that extends to only a few things. 
+Scholium: Because error is not anything positive in man, it can be nothing else than the privation of the right use of freedom (Schol. Prop. 14). 
 
-To understand this clearly, and also how error depends solely on the misuse of the will, and, finally, to understand how we may guard aga inst error, let us recall to
-mind the modes ofthinking that we possess, namely, all modes of perceiving (sensing, imagining, and pure understanding) and modes of willing (desiring, misliking, affirming, denying, and doubting); for they can all be subsumed under these two headings.
+Therefore God must not be said to be the cause of error, except in the sense in which we say that the absence of the sun is the cause of darkness, or that God, in making a child similar to others except for sight, is the cause of blindness. 
+
+He is not to be said to be the cause of error in giving us an intellect that extends to only a few things. 
+
+To understand this clearly, and also how error depends solely on the misuse of the will, and, finally, to understand how we may guard aga inst error, let us recall to mind the modes ofthinking that we possess, namely, all modes of perceiving (sensing, imagining, and pure understanding) and modes of willing (desiring, misliking, affirming, denying, and doubting); for they can all be subsumed under these two headings.
 
 Now with regard to these modes we should note, first, that insofar as the mind understands things clearly and distinctly and assents to them, it cannot be deceived (Prop. 1 4); nor again can it be deceived insofar as it merely perceives things and does not assent to them. 
 

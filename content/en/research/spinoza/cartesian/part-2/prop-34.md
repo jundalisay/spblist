@@ -10,7 +10,7 @@ weight: 32
 ---
 
 
-## PROPOSITION 34: Body B, under the same conditions as previously, cannot move more quickly than it is impelled by the external force, even though the particles by which it is surrounded are in much swifter motion.
+## Proposition 34: Body B, under the same conditions as previously, cannot move more quickly than it is impelled by the external force, even though the particles by which it is surrounded are in much swifter motion.
 
 Proof: Although the particles that, together with the external force, are impelling B in the same direction are in much swifter motion than the external force can
 move B, yet because (by hypothesis) they have no more force than the bodies that are repelling B in the opposite direction, they will use up all the power of their
@@ -19,7 +19,7 @@ determination merely in resisting these, without imparting any speed to B (Prop.
 Therefore, because no other circumstances or causes are supposed, B will not receive any amount of speed from any cause other than the external force, and therefore (Ax. 8 Part I) it cannot move more quickly than it is impelled by the external force. Q.E.D.
 
 
-## PROPOSITION 35
+## Proposition 35
 
 Whcm body B is thus moved by an external impulse, it receives the greatest part of its motion from the bodies by which it is constantly surrounded, and not from the external force.
 
@@ -38,7 +38,7 @@ And so in resisting one another they use up only their determination, and not th
 Therefore body B can receive no determination, and consequently (Cor. Prop. 27 Part 2) no speed insofar as that is distinct from motion-from adjacent bodies. But it can receive motion; indeed, when the extra force is added, it must necessarily be moved by them, as we have demonstrated in this proposition and as can be clearly seen from the manner of the proof of Proposition 33.10 See Prop. 24 Part 2, where d IS demonstrated that two bodies, In reslstmg one another, expend their determination, not their mohon 
 
 
-## PROPOSITION 36: If any body (e.g., our hand) can move in any direction whatsoever with equal motion without offering any resistance to any bodies or meeting with any resistance from any other bodies, then in that space through which it would thus move there must necessarily be as many bodies moving in one direction as there are bodies moving in any other direction, their force of speed being equal to one another's and to that of the hand.
+## Proposition 36: If any body (e.g., our hand) can move in any direction whatsoever with equal motion without offering any resistance to any bodies or meeting with any resistance from any other bodies, then in that space through which it would thus move there must necessarily be as many bodies moving in one direction as there are bodies moving in any other direction, their force of speed being equal to one another's and to that of the hand.
 
 Proof: Any space through which a body can move is bound to be full of bodies (Prop. 3 Part 2). I therefore say that the space through which our hand can thus move is filled with bodies which will move in the manner I have already described. For if you deny this, let them be supposed to be at rest, or to move in a different way. 
 
@@ -78,7 +78,7 @@ Why do I say 'with equal force of speed' and not simply 'with equal speed'? The 
 If you then ask whether the hand, while moving (e.g. , from A toward B), does not resist bodies that are moving at the same time with equal force from B toward A, read Prop. 33 Part 2, from which you will understand that their force is balanced by the force of the bodies moving together with the hand at the same time from A toward B (for, by the third part of this Prop., these two forces are equal).
 
 
-## PROPOSITION 37: If a body A can be moved in any direction whatsoever by any force, however small, it must necessarily be surrounded by bodies that are moving at the same speed as one another.
+## Proposition 37: If a body A can be moved in any direction whatsoever by any force, however small, it must necessarily be surrounded by bodies that are moving at the same speed as one another.
 
 Proof Body A must be surrounded on all sides by bodies (Prop. 6 Part 2), bodies that are moving equally in all directions. For if they were at rest, body A could not be moved, as is supposed, in any direction whatsoever by any force, however small, but only by such force as could at least be able to move along with itself the bodies immediately contiguous to A (Ax. 20 Part 2). 
 

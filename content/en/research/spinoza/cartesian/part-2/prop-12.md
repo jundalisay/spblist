@@ -24,7 +24,7 @@ restricted to what reason tells us.
 2. Although motion is nothing but a mode of moving matter, it nevertheless has a fixed and determinate quantity. How this is to be understood will become evident from what follows. Read Art. 36 Part 2 of the Principia.
 
 
-## PROPOSITION 14: Each single thing, insofar as it is simple and undivided and is considered only in itself, always perseveres in the same state, as far as in it lies.
+## Proposition 14: Each single thing, insofar as it is simple and undivided and is considered only in itself, always perseveres in the same state, as far as in it lies.
 
 Many take this proposition as an axiom, but we shall demonstrate it.
 
@@ -34,7 +34,7 @@ Corollary A body that is once in motion always continues to move unless it is ch
 
 Proof: This is obvious from the preceding proposition. But to correct prejudice concerning motion, read Arts. 37 and 38 Part 2 of the Principia.
 
-## PROPOSITION 15 Every body in motion tends of itself to continue to move in a straight line, not in a curved line.
+## Proposition 15 Every body in motion tends of itself to continue to move in a straight line, not in a curved line.
 
 This proposition could well be considered as an axiom, but 1 shall demonstrate it from the preceding, as follows.
 
@@ -62,7 +62,7 @@ or definition, and so not pertaining to its nature.
 Corollary: It follows that every body that moves in a curve is continuously deviating from the line along which it would continue to move of itself, and this is through the force of an external cause (Prop. 14 Part 2).
 
 
-## PROPOSITION 16 Every body that moves in a circle (e.g., a stone in a sling) is continuously determined to continue in motion at a tangent to that circle.
+## Proposition 16 Every body that moves in a circle (e.g., a stone in a sling) is continuously determined to continue in motion at a tangent to that circle.
 
 Proof: A body that moves in a circle is continuously prevented by an external force from continuing to move in a straight line (Cor. previous Prop.). If this force
 ceases, the body will of itself proceed to move in a straight line (Prop. 1 5). 
@@ -114,7 +114,7 @@ to proceed to move at a tangent. Q.E.D.
 It should here be noted that both of these proofS can be adapted to any curvilinear figure.
 
 
-## PROPOSITION 17: Every body that moves in a circle endeavors to move away {rom the center of the circle that it describes.
+## Proposition 17: Every body that moves in a circle endeavors to move away {rom the center of the circle that it describes.
 
 Proof: As long as a body moves in a circle, it is being compelled by some external cause; and if this ceases, it at once proceeds to
 ~ move at a tangent to the circle (previous Prop.). 
@@ -127,14 +127,14 @@ center E than any points on the circumference LAB.
 And this is nothing other than to endeavor to move away from the center of the
 circle that it describes. Q.E.D.
 
-## PROPOSITION 18: If a body A moves toward a body B, which is at rest, and B loses nothing of its state of rest in spite of the impetus of body A, then neither will A lose anything of its motion, but will retain entirely the same quantity of motion that it had before.
+## Proposition 18: If a body A moves toward a body B, which is at rest, and B loses nothing of its state of rest in spite of the impetus of body A, then neither will A lose anything of its motion, but will retain entirely the same quantity of motion that it had before.
 
 Proof If you deny this, suppose that body A loses some of its motion without transferring the lost motion to something else, say, to B. • When this happens, there will be in Nature a smaller quan­ liP' tity of motion than before, which is absurd (Prop. 13 Part 2). 
 
 The proof proceeds in the same way with respect to the state of rest of body B, therefore if the one body does not transfer anything to the other
 body, B will retain all its rest, and A, all its motion. Q.E.D.
 
-## PROPOSITION 19: Motion, regarded in itself, is different from its determination toward a certain direction; and there is no need for a moving body to be for any time at rest in order
+## Proposition 19: Motion, regarded in itself, is different from its determination toward a certain direction; and there is no need for a moving body to be for any time at rest in order
 that it may travel or be repelled in an opposite direction.
 
 Proof: Suppose, as in the preceding proposition, that a body A moves in a straight line toward a body B and is prevented by body B from continuing further. Therefore (preceding Prop.) A will retain its motion undiminished, and it will not be at rest for even the smallest space of time. However, because it continues to move,
@@ -148,7 +148,7 @@ is not at rest for any time. Q.E.D.
 
 Corollary: Hence it follows that motion is not contrary to motion.
 
-## PROPOSITION 20: If a body A collides with a body B and takes it along with it, A will lose as much of its motion as B acquires from A because of its collision with A.
+## Proposition 20: If a body A collides with a body B and takes it along with it, A will lose as much of its motion as B acquires from A because of its collision with A.
 
 
 Proof If you deny this, suppose that B acquires more or less motion from A than

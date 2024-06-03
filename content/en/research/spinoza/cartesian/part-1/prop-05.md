@@ -11,7 +11,7 @@ weight: 12
 ---
 
 
-## PROPOSITION 5
+## Proposition 5
 
 The existence of Cod is known solely {rom the consideration of his nature.
 
@@ -21,7 +21,9 @@ But necessary existence is contained in the concept of Cod (Ax. 6). Therefore it
 
 Scholium From this proposition there follow many important consequences. 
 
-On this fact alone- that existence pertains to the nature of God, or that the concept of God involves necessary existence just as the concept of a triangle involves its 3 angles being equal to 2 right angles, or that his existence, just like his essence, is an eternal truth -depends alrnost all knowledge of the attributes of God through which we are brought to love of hirn and to the highest blessedness. Therefore it is rnuch to be desired that rnankind should corne round to our opinion on this subject.
+On this fact alone- that existence pertains to the nature of God, or that the concept of God involves necessary existence just as the concept of a triangle involves its 3 angles being equal to 2 right angles, or that his existence, just like his essence, is an eternal truth -depends alrnost all knowledge of the attributes of God through which we are brought to love of hirn and to the highest blessedness. 
+
+Therefore it is rnuch to be desired that rnankind should corne round to our opinion on this subject.
 <!-- 31 This IS something everyone discovers In hnnself, insofar as he IS a thmkmg thmg. -->
 
 <!-- 32 [ef. Med5, 43-46 (AT7, 65-69); E1PllDeml; KVlIlIl-2 ] 
@@ -34,7 +36,7 @@ If anyone, moved by goodwill and by the simple love of truth and his own true ad
 For when he realizes that God is completely different in kind from other things in respect of essence and existence, he will at once see clearly that the idea of God is far different from the ideas of other things. Therefore there is no need to detain the reader any longer on this subject.
 
 
-## PROPOSITION 6
+## Proposition 6
 
 The existence of God is proved a posteriori from the mere fact that the idea of him is in us.
 
@@ -46,14 +48,17 @@ Scholium: There are some who deny that they have any idea of God, and yet, as th
 
 However, except to consider them as a strange type of creature halfway between man and beas� we should pay small heed to their words.
 
-How else, I ask, can we show the idea of some thing than by giving its definition and explaining its attributes? Because this is what we are doing in the case of the idea of God, there is no reason for us to be concerned over the words of men who deny the idea of God simply on the grounds that they cannot form an image of him in their brain. 
+How else, I ask, can we show the idea of some thing than by giving its definition and explaining its attributes? 
+
+Because this is what we are doing in the case of the idea of God, there is no reason for us to be concerned over the words of men who deny the idea of God simply on the grounds that they cannot form an image of him in their brain. 
 
 <!-- 33 Read Principia Part 1 Art 16.
 34 [ef. Med3, 28-31 (AT7, 41J..-45) J 
 Part 1, Proposition 7 13 5 -->
 
-Furthermore, we should note that when Descartes quotes Axiom 4 to show that the objective reality of the idea of God is not contained in us either formally or eminently, he takes for granted that everyone knows that he is not an infinite substance, that is, supremely intelligent, supremely powerful, etc., and this he is entitled to do. For he who knows that he thinks, also knows that he doubts many
-things and that he does not understand everything clearly and distinctly.
+Furthermore, we should note that when Descartes quotes Axiom 4 to show that the objective reality of the idea of God is not contained in us either formally or eminently, he takes for granted that everyone knows that he is not an infinite substance, that is, supremely intelligent, supremely powerful, etc., and this he is entitled to do. 
+
+For he who knows that he thinks, also knows that he doubts many things and that he does not understand everything clearly and distinctly.
 
 Finally, we should note that it also follows clearly from Definition 8 that there cannot be a number of Gods, but only one God, as we clearly demonstrate in
 Proposition II of this Part, and in Part 2 of our Appendix, Chapter 2.

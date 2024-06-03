@@ -15,18 +15,23 @@ weight: 142
 
 The word "taste" is in current use among those who are concerned with the various branches of literary criticism (bayan). It means the tongue's possession of the habit of eloquence. What eloquence is 1380 was explained above. 
 
-It is the conformity of speech to the meaning (intended), in every aspect, (and this is achieved) by means of certain qualities that give this (conformity) to the word combinations. An eloquent speaker of the Arabic language chooses the form
-(of expression) that affords such (conformity) according to the methods and ways of
-Arab address. 
+It is the conformity of speech to the meaning (intended), in every aspect, (and this is achieved) by means of certain qualities that give this (conformity) to the word combinations. An eloquent speaker of the Arabic language chooses the form (of expression) that affords such (conformity) according to the methods and ways of Arab address. 
 
-He arranges his speech along such lines so far as he is able. When he does this constantly in his use of Arabic speech, he gets the habit of arranging his speech along those lines. (The use of proper) word combinations becomes a simple matter for him. In this respect he hardly ever swerves from the way of Arab eloquence. If he hears a word combination that is not along those lines, he spits it out, and his ear recoils from it upon the slightest reflection. Indeed, no reflection whatever (is needed, for his reaction is) the consequence of the (linguistic) habit he has obtained.
+He arranges his speech along such lines so far as he is able. When he does this constantly in his use of Arabic speech, he gets the habit of arranging his speech along those lines. (The use of proper) word combinations becomes a simple matter for him. In this respect he hardly ever swerves from the way of Arab eloquence. 
+
+If he hears a word combination that is not along those lines, he spits it out, and his ear recoils from it upon the slightest reflection. Indeed, no reflection whatever (is needed, for his reaction is) the consequence of the (linguistic) habit he has obtained.
 
 Habits 1381 that are firmly established and rooted in their proper places appear to be natural and innate in those places. Therefore, many ignorant people who are not acquainted with the importance of habits, think that the correct use of vowel endings and the proper eloquence of Arabs in their language are natural things. 
 
-They say that "the Arabs speak (correct Arabic) by nature." 1382 This is not so. (Correct Arabic speech) is a linguistic habit of (proper) speech arrangement that has become firmly established and rooted (in speakers of Arabic), so that, superficially, it appears to be something natural and innate. However, as mentioned before, 1383 this habit results from the constant practice of Arabic speech and from repeated listening to it and from understanding the peculiar qualities of its word combinations. 
+<!-- 1382 -->
+They say that "the Arabs speak (correct Arabic) by nature." This is not so. 
+
+Correct Arabic speech is a linguistic habit of proper speech arrangement that has become firmly established and rooted in speakers of Arabic, so that, superficially, it appears to be something natural and innate. However, as mentioned before, this habit results from the constant practice of Arabic speech and from repeated listening to it and from understanding the peculiar qualities of its word combinations. 
+<!-- 1383 -->
 
 It is not obtained through knowledge of the scientific rules evolved by literary critics. 1384 Those rules merely afford a knowledge of the (Arabic) language. They do not give (a person) possession of the actual habit in its proper place. This was mentioned before.
-(Now,) if this is established, (we may say that it is) the tongue's habit of eloquence that guides an eloquent person toward the various aspects of (word) arrangement and toward use of the correct combinations (of words) corresponding to the word combinations and arrangement used by Arabs when they speak Arabic. 
+
+If this is established, we may say that it is the tongue's habit of eloquence that guides an eloquent person toward the various aspects of (word) arrangement and toward use of the correct combinations (of words) corresponding to the word combinations and arrangement used by Arabs when they speak Arabic. 
 
 When a person who possesses the (Arabic linguistic) habit attempts to deviate from the specific ways and the word combinations peculiar (to Arabic speech), he is not able to do so. His tongue will not go along with him, because it is not used to (improper speech), and its firmly rooted habit will not let it use it. Should any (form of) speech that deviates from the method of the Arabs and the eloquence they use in arranging their speech occur to him, he would avoid it, spit it out, and know that it does not belong to the Arabic speech that he has assiduously practiced. 
 
@@ -51,24 +56,18 @@ They have too small a share in the (linguistic) habit the significance of which 
 linguistic habit - their own language - and part of their lives had gone by (before
 they got to know Arabic). 
 
-Now, the most they can do is to occupy themselves with the individual words and word combinations in current use in the conversation of
-the (Muslim) urban population in their midst and which they are forced to use.
-The (ancient Arabic linguistic) habit is lost to the urban population, and they
-are strangers to it, as mentioned before. 1387 They have another linguistic habit,
-which is not the desired linguistic habit (of the Arabs). 
+The most they can do is to occupy themselves with the individual words and word combinations in current use in the conversation of the (Muslim) urban population in their midst and which they are forced to use.
+
+The (ancient Arabic linguistic) habit is lost to the urban population, and they are strangers to it, as mentioned before. 1387 They have another linguistic habit, which is not the desired linguistic habit (of the Arabs). 
 
 Those who know the (Arabic linguistic) habit (merely) from rules codified in books are in no way in the possession of (that) habit. They merely know the laws governing it, as one knows (now after our preceding discussion). The (linguistic) habit can be obtained only through constant practice, becoming accustomed to Arab speech, and repeatedly (using and listening to) it.
 
 One may hear it said that Sibawayh, al-Farisi, azZamakhshari, and other authorities on Arab speech were nonArabs and yet possessed the (Arab linguistic) habit. 1388 Then one should realize that these people one hears about were non-Arab only by descent. 
  
-They grew up and were reared among Arabs who possessed the (Arabic linguistic) habit, or among people who had learned it from them. Thus, they were able to master (Arabic) speech to a degree that cannot be surpassed. In a way,
-in their early childhoods they were in the position of Arab children who grow up
-among Arab Bedouins and thus achieve a knowledge of all the finesses of the
-language and become speakers of (pure) Arabic. <!-- 1389 --> 
+They grew up and were reared among Arabs who possessed the (Arabic linguistic) habit, or among people who had learned it from them. Thus, they were able to master (Arabic) speech to a degree that cannot be surpassed. In a way, in their early childhoods they were in the position of Arab children who grow up among Arab Bedouins and thus achieve a knowledge of all the finesses of the language and become speakers of (pure) Arabic. <!-- 1389 --> 
 
 Although these (scholars) were non-Arab by descent, they were not non-Arabs as far as language and speech are
-concerned, because they lived in a time when Islam was in its prime and the Arabiclanguage in its young manhood. The (linguistic) habit had not yet entirely disappeared, not even among the urban population. They assiduously devoted
-themselves to the constant study and practice of Arab speech. Eventually, they mastered it completely.
+concerned, because they lived in a time when Islam was in its prime and the Arabiclanguage in its young manhood. The (linguistic) habit had not yet entirely disappeared, not even among the urban population. They assiduously devoted themselves to the constant study and practice of Arab speech. Eventually, they mastered it completely.
 
 (However,) nowadays, when a non-Arab has contact with Arabic speakers in, the cities, the first thing he finds is that the desired Arabic linguistic habit is completely" gone, and he finds that the (linguistic) habit peculiar to them is another one and different from the Arabic linguistic habit. 
 

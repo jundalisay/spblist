@@ -23,8 +23,7 @@ Therefore there is more objective reality in the idea of substance than in the i
 
 This axiom is known simply from contemplating our ideas, of whose existence we are certa in because they are modes of thinking. For we know how much reality or perfection the idea of substance affirms of substance, and how much the idea of mode affirms of mode. 
 
-This being so, we also necessarily realize that the idea of substance contains more objective reality than the idea of some accident,
-etc. See Scholium Prop. 4.
+This being so, we also necessarily realize that the idea of substance contains more objective reality than the idea of some accident, etc. See Scholium Prop. 4.
 
 5. A thinking thing, if it knows of any perfections that it lacks, will immediately give these to itself, if they are within its power.26
 

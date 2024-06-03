@@ -133,35 +133,54 @@ The remainder is 5.
 
 Thus, one goes up 5 on the side of 8 from where one had stopped in the first cycle. 
 
-One puts a mark on (that place). One enters seventeen on the front (recto) of the table, and then five. One does not count
-empty fields. The cycle is that of tens. 
+One puts a mark on that place. One enters 17 on the front (recto) of the table, and then 5. 
 
-We find the letter th - five hundred, but it
-(counts the same as) n, because our cycle represents the tens. Thus, five hundred is
-(counted as) fifty, because its cycle is seventeen. 
+One does not count empty fields. The cycle is that of tens. 
 
-If it had been twentyseven, it would have been in the hundreds. Thus, one sets down an n.
-Then, one enters five, also from the beginning, and notes what (number of) the surface it confronts. 
+We find the letter th - five hundred, but it (counts the same as) n, because our cycle represents the tens. Thus, 500 is (counted as) 50, because its cycle is 17. 
 
-It is found to be one. One reverses the number one. It falls upon five. One adds the one of the surface to five, and gets six. One sets down a w and marks it with four [?] (as belonging) to the verse of the poem. 
+If it had been 27, it would have been in the hundreds. Thus, one sets down an n.
+
+Then, one enters 5, also from the beginning, and notes what number of the surface it confronts. 
+
+It is found to be 1. 
+
+One reverses the number 1. It falls upon 5. 
+
+One adds the one of the surface to 5, and gets 6. One sets down a w and marks it with four [?] (as belonging) to the verse of the poem. 
 
 One adds them to the eight which was the result of the multiplication of ascendant and cycle by the
-ruler. Thus, one gets twelve. The remainder of the second cycle, namely five, is added to 12. 
+ruler. 
 
-Thus, one gets seventeen. That is something that belongs to the
-second cycle. Thus, we enter seventeen among the letters of the chords. The number
-falls upon one. Thus, one sets down alif and puts a mark upon it (as belonging) to
-the verse of the poem. Of the letters of the chords, one drops three, the number ofthe result of the second cycle.
-Then, one makes the third cycle. One adds five to eight and gets thirteen. The
-remainder is one. 
+Thus, one gets 12. The remainder of the second cycle, namely five, is added to 12. 
 
-One moves the cycle at the side of eight by one. One enters 13 into the verse of the poem. One takes the (letter) upon which the number falls. 
+Thus, one gets 17. That is something that belongs to the second cycle. 
 
-It is q. A mark is put upon it. Thirteen is entered among the letters of the chords. One sets down what comes out. It is s. A mark is put upon it (as belonging) to the verse of the poem. 
+Thus, we enter 17 among the letters of the chords. The number falls upon 1. 
 
-Then, the one which is the remainder of the cycle of thirteen is entered next to the resulting s. One takes the chord next to the letters. 
+Thus, one sets down alif and puts a mark on it (as belonging) to the verse of the poem. 
 
-It is b. It is set down, and a mark (indicating that it belongs) to the verse of the poem is put upon it. This is called the "leaning cycle." Its scale is correct. This is as follows. 
+Of the letters of the chords, one drops 3, the number of the result of the second cycle.
+
+Then, one makes the third cycle. One adds 5 to 8 and gets 13. The remainder is 1. 
+
+One moves the cycle at the side of eight by one. One enters 13 into the verse of the poem. 
+
+One takes the (letter) upon which the number falls. 
+
+It is q. A mark is put upon it. 
+
+13 is entered among the letters of the chords. One sets down what comes out. It is s. 
+
+A mark is put on it as belonging to the verse of the poem. 
+
+Then, the one which is the remainder of the cycle of 13 is entered next to the resulting s. 
+
+One takes the chord next to the letters. 
+
+It is b. It is set down, and a mark (indicating that it belongs) to the verse of the poem is put upon it. 
+
+This is called the "leaning cycle." Its scale is correct. This is as follows. 
 
 One doubles thirteen and adds to it the one which remains of the cycle. Thus, one gets 27. 
 
@@ -169,47 +188,58 @@ This is the letter b, which is derived from the chords (as belonging) to the ver
 
 One notes what (part of) the surface confronts it. One doubles it and adds to it the one which is the remainder of thirteen. This is the letter j. The total, thus, is seven.
 
-This is the letter z. We set it down and put a mark upon it (indicating that it belongs) to the verse of the poem. The scale of it is that one doubles seven and adds to it the one which is the remainder of thirteen. Thus, one gets fifteen. It is the fifteenth of
-the verse of the poem. This is the end of the triple cycles.
+This is the letter z. We set it down and put a mark upon it (indicating that it belongs) to the verse of the poem. The scale of it is that one doubles 7 and adds to it the 1 which is the remainder of 13. Thus, one gets 15. It is the 15th of the verse of the poem. 
 
-Then, one makes the fourth cycle. It has the number nine, (obtained) by adding the remainder of the previous cycle. One then multiplies ascendant and cycle by the ruler. 
+This is the end of the triple cycles.
+
+Then, one makes the fourth cycle. It has the number 9, obtained by adding the remainder of the previous cycle. 
+
+One then multiplies ascendant and cycle by the ruler. 
 
 This cycle ends the operation in the first field of the quadruple (cycles).
 
-Then, one picks two letters from the chords, goes up nine on the side of 8, and enters nine from the cycle of the letter which was taken last from the verse of the poem. 
+Then, one picks two letters from the chords, goes up 9 on the side of 8, and enters 9 from the cycle of the letter which was taken last from the verse of the poem. 
 
 The ninth is the letter r. It is set down, and a mark is put upon it.
 
-Then, nine is entered on the front (recto) of the table, and one notes what (letter of) the surface faces it. It is j. One reverses the number one. That is alif. This is the second after [?] the letter r (belonging) to the verse of the poem.
+Then, 9 is entered on the front (recto) of the table, and one notes what (letter of) the surface faces it. 
+
+It is j. One reverses the number one. That is alif. This is the second after [?] the letter r (belonging) to the verse of the poem.
+
 It is set down, and a mark is put upon it. 
 
 One counts nine, starting next to the second. 
 
-It again is an alif. It is set down, and a mark is put upon it. Then, one picks a letter from the chords and doubles nine. This gives eighteen. One enters it among the letters of the chords and comes to a stop at the letter r. It is set down and marked
-with eight and four, (indicating that it belongs) to the verse of the poem. Then, one
-enters eighteen among the letters of the chords and comes to a stop at the letter s. It
-is put down and marked with two. 
+It again is an alif. It is set down, and a mark is put upon it. Then, one picks a letter from the chords and doubles nine. This gives 18.
+
+One enters it among the letters of the chords and comes to a stop at the letter r. 
+
+It is set down and marked with 8 and 4 indicating that it belongs to the verse of the poem. 
+
+Then, one enters 18 among the letters of the chords and comes to a stop at the letter s. It is put down and marked with two. 
 
 One adds 2 to 9, which is 11, and enters 11 on the front (recto) of the table. It is confronted by an alif from the surface. 
 
 It is set down and marked with 6.
 
-Then, one makes the fifth cycle. Its number is seventeen. The remainder is
-five. One goes up five on the side of eight. 
+Then, one makes the fifth cycle. Its number is 17. The remainder is 5. One goes up 5 on the side of 8. 
 
 One picks two letters from the chords.
 
-One doubles five and adds the result to seventeen, the number of its cycle. The total is twenty-seven. It is entered among the letters of the chords. It falls upon t. It is set down and marked with thirtytwo. One subtracts the two which is at the base of
-thirtytwo, 898 from seventeen. The remainder is fifteen. 
+One doubles 5 and adds the result to 17, the number of its cycle. The total is 27. 
 
-One enters it among the letters of the chords and comes to a stop at q. It is set down and marked with
-twenty-six. On the front part of the table one enters twenty-six. One comes to a stop
-at two in ghubar letters. 
+It is entered among the letters of the chords. It falls upon t. 
 
-That is the letter b. It is entered and marked with fifty-four.
+It is set down and marked with thirtytwo. One subtracts the two which is at the base of 32, from 17. The remainder is 15. 
+<!-- 898 -->
 
-Then, one picks two letters from the chords and makes the sixth cycle. Its number is thirteen. The remainder is one. Thus, it becomes clear that the cycle of order (rhyming [?]) belongs to twenty-five. The cycles are ninety [?]-five,
-seventeen, five, thirteen, and one. 
+One enters it among the letters of the chords and comes to a stop at q. It is set down and marked with 26. 
+
+On the front part of the table one enters twenty-six. One comes to a stop at two in ghubar letters. 
+
+That is the letter b. It is entered and marked with 34.
+
+Then, one picks two letters from the chords and makes the sixth cycle. Its number is thirteen. The remainder is one. Thus, it becomes clear that the cycle of order (rhyming [?]) belongs to twenty-five. The cycles are ninety [?]-five, seventeen, five, thirteen, and one. 
 
 One multiplies five by five which gives 25. 
 
@@ -226,30 +256,26 @@ It is alif. It is set down and marked with 12, (as belonging) to the verse of th
 At this point, one looks at the letters of the question. The (letters) that have come out (in the preceding operation) are paired with the verse of the poem, beginning at the end. One marks them with the letters of the question, so that it
 enters numerically into the verse of the poem. 
 
-The same is done with every letter that comes out hereafter, in correspondence with the letters of the question. All the
-letters coming out are paired with the verse of the poem, beginning at the end, and a
-mark is put on them.
+The same is done with every letter that comes out hereafter, in correspondence with the letters of the question. All the letters coming out are paired with the verse of the poem, beginning at the end, and a mark is put on them.
 
-Then, one adds to 18 the units with which one has marked the letter
-alif. They come to two. 
+Then, one adds to 18 the units with which one has marked the letter alif. They come to two. 
 
-Thus, one gets a total of twenty. One enters it among the letters of the chords and comes to a stop at the letter r. It is set down and marked with 96, (as belonging) to the verse of the poem. This is the end of the cycle
-with regard to chord letters.
+Thus, one gets a total of twenty. One enters it among the letters of the chords and comes to a stop at the letter r. It is set down and marked with 96, (as belonging) to the verse of the poem. This is the end of the cycle with regard to chord letters.
 
-Then, one picks two letters from the chords and makes the seventh cycle. It
-is the beginning of the second of the two "inventions." This cycle contains the
-number nine. One adds one to it. 
+Then, one picks two letters from the chords and makes the seventh cycle. It is the beginning of the second of the two "inventions." This cycle contains the number nine. One adds one to it. 
 
-Thus, one gets ten 899 for the second growth.
+Thus, one gets 10 for the second growth.
+<!-- 899 -->
 
-This one is added later on to twelve cycles, if it belongs to that proportion, or it is taken away from the principal (cycle). Thus, one gets a total of ten. One goes up on the side of ninety-eight, enters ten on the front (recto) of the table, and gets thus
-to stop at five hundred. It is, however, (counted) only as fifty, n. It is to be doubled.
-Thus, it is q. It is set down and marked with 52 (as belonging) to the verse of
-the poem. Two is dropped from fifty-two, and the nine which belongs to the cycle is
-dropped. The remainder is forty-one. 
+This one is added later on to 12 cycles, if it belongs to that proportion, or it is taken away from the principal (cycle). Thus, one gets a total of 10. 
 
-One enters it among the letters of the chords and thus comes to a stop at one, which is set down. One also enters (forty-one) in
-the verse of the poem and thus finds one. 
+One goes up on the side of 98, enters 10 on the front (recto) of the table, and gets thus to stop at 500. 
+
+It is, however, (counted) only as fifty, n. It is to be doubled.
+
+Thus, it is q. It is set down and marked with 52 (as belonging) to the verse of the poem. Two is dropped from fifty-two, and the nine which belongs to the cycle is dropped. The remainder is 41. 
+
+One enters it among the letters of the chords and thus comes to a stop at one, which is set down. One also enters (forty-one) in the verse of the poem and thus finds one. 
 
 This is the scale of the second growth.
 
@@ -261,12 +287,15 @@ Then, one picks two letters from the chords and makes the eighth cycle. Its numb
 
 It is set down, and a mark is put upon it. Five is entered in the table. 
 
-One takes the (number) of the surface confronting it. It is one. It is set down and marked with forty-eight, (as belonging) to [?] 899a the verse. One drops one from 48 for the second base and adds to it the five of the cycle. The total is fifty-
-two. That is entered on the front (recto) of the table. 
+One takes the (number) of the surface confronting it. It is one. It is set down and marked with forty-eight, (as belonging) to [?] 899a the verse. One drops one from 48 for the second base and adds to it the five of the cycle. The total is 52. 
+
+That is entered on the front (recto) of the table. 
 
 One thus comes to a stop at the ghubar letter two. It is in the order of hundreds, because it should be a larger
-number. Thus, it is (counted as) two hundred, which is the letter r. 900 It is set down
-and marked with twenty-four; (as belonging) to the verse of the poem. 
+number. 
+
+<!-- 900 -->
+Thus, it is counted as 200, which is the letter r.  It is set down and marked with 24 as belonging to the verse of the poem.
 
 Having reached 96, the whole thing starts from the beginning, which is 24.
 
@@ -276,9 +305,9 @@ The total is 28.
 
 One enters half of it in the verse of the poem and thus comes to a stop at eight. Thus, h is set down, and a mark is put upon it.
 
-One makes the ninth cycle. Its number is thirteen. The remainder is one. 
+One makes the ninth cycle. Its number is 13. The remainder is one. 
 
-One goes up one on the side of eight. Here the operation does not follow the same procedure as in the sixth cycle, because the number should be many times larger.
+One goes up one on the side of 8. Here the operation does not follow the same procedure as in the sixth cycle, because the number should be many times larger.
 
 Also, the (cycle) belongs to the second growth and is the beginning of the third third of the quadruple (arrangement) of the signs of the zodiac and the end of the third fourth of the triple (arrangement).
 
@@ -286,12 +315,13 @@ Thus, one multiplies the thirteen of the cycle by the four that is (the number o
 
 One enters it on the front (recto) of the table and thus comes to a stop at the ghubar letter two. However, it is in the hundreds, having gone beyond the units and tens. 
 
-Therefore, it is set down as two hundred, r, and marked with forty-eight, (as belonging) to the verse of the poem. One adds the one of the base to the thirteen of the cycle, enters fourteen in the verse of the poem, and thus comes to a stop at h. It
-is marked with twenty-eight. 
+Therefore, it is set down as 200, r, and marked with 48, as belonging to the verse of the poem. 
 
-Seven is subtracted from fourteen. There remains seven.
+One adds the one of the base to the thirteen of the cycle, enters fourteen in the verse of the poem, and thus comes to a stop at h. It is marked with 28. 
 
-Then, one picks two letters from the chords. One enters seven and thus comes to a stop at the letter l. It is set down, and a mark (indicating that it belongs) to the verse is put on it.
+7 is subtracted from 14 to get 7.
+
+Then, one picks two letters from the chords. One enters 7 and thus comes to a stop at the letter l. It is set down, and a mark (indicating that it belongs) to the verse is put on it.
 
 Then, one makes the tenth cycle. Its number is nine. It is the beginning of the fourth triple (arrangement). 
 
@@ -300,34 +330,38 @@ One goes up nine on the side of eight. There is an empty (field). One goes up an
 One multiplies nine by four, because we have gone up twice nine, so that
 (nine) was only multiplied by two. 
 
-One enters thirty-six in the table and thus comes to a stop at the zimam letter four. It should be in the tens, but we take is as a unit, because there are too few cycles. 
+One enters 36 in the table and thus comes to a stop at the zimam letter four. It should be in the tens, but we take is as a unit, because there are too few cycles. 
 
 Thus, the letter d is set down. If one adds the one of the base to thirtysix, its limit [?] belongs to the verse of the poem. A mark is put upon it. 
 
 If one had entered on the front (recto) of the table nine and nothing else, without multiplication, one would have come to a stop at eight. 
 
-Thus, one divides forty-eight (by twelve). 901 The remainder is four. This is what one wants. If one had entered eighteen, which is nine multiplied by two, on the front (recto) of the table, one would have come to a stop at the zimam letter one, which belongs to the tens. 
+<!-- 901 -->
+Thus, one divides 48 (by 12). The remainder is 4. 
 
-One subtracts two, which was used to double the nine. The remainder is eight, half of which is (four. Again, this is) what one looks for. If, by multiplying (nine) by three, one were to enter twenty-seven on the front (recto) of the table, one would
-come to a stop at the zimam letter ten. The operation is the same.
+This is what one wants. If one had entered 18, which is nine multiplied by 2, on the front (recto) of the table, one would have come to a stop at the zimam letter one, which belongs to the tens. 
+
+One subtracts two, which was used to double the nine. The remainder is eight, half of which is (four. Again, this is) what one looks for. 
+
+If, by multiplying (nine) by three, one were to enter twenty-seven on the front (recto) of the table, one would come to a stop at the zimam letter ten. The operation is the same.
+
 Then, nine is entered into the verse of the poem. 
 
-The letter which comes
-out is set down. It is alif. Then, one multiplies nine with the three which is the
-component of the previous nine, drops one, and enters twenty-six in the front (recto)
-of the table. The number that comes out - two hundred -is set down with the letter r.
+The letter which comes out is set down. It is alif. 
+
+Then, one multiplies nine with the three which is the component of the previous nine, drops one, and enters twenty-six in the front (recto) of the table. The number that comes out - two hundred -is set down with the letter r. 
+
 It is marked with ninetysix, (as belonging) to the verse of the poem.
-Then, one picks two letters from the chords and makes the eleventh cycle. It
-has (the number) seventeen. The remainder is five. One goes up five on the side of
-eight, corresponding to what had been undertaken in the first cycle. One enters four
-902 on the front (recto) of the table and comes to a stop at an empty (field). One
-takes (the number of) the surface which confronts it. It is one. Thus, one enters one
-into the verse of the poem. This is r-s 903 It is set down and marked with four. If we
-had come to a stop at a filled field of the table, we would have set down the one as
-three. One doubles seventeen, drops the one, and adds four. Thus, one gets thirty-
-seven. One enters it in the chords and comes to a stop at h 904 It is entered and
-marked with five. One doubles five, enters (ten) into the verse, and thus comes to a
-stop at l. 
+
+Then, one picks two letters from the chords and makes the eleventh cycle. It has (the number) seventeen. The remainder is five. 
+
+<!-- 902 -->
+One goes up five on the side of eight, corresponding to what had been undertaken in the first cycle. One enters four  on the front (recto) of the table and comes to a stop at an empty (field). One takes (the number of) the surface which confronts it. It is one. Thus, one enters one into the verse of the poem. This is r-s 903 It is set down and marked with four. 
+
+If we had come to a stop at a filled field of the table, we would have set down the one as three. One doubles seventeen, drops the one, and adds four. Thus, one gets 37. 
+\
+<!-- 904 -->
+One enters it in the chords and comes to a stop at h. It is entered and marked with five. One doubles five, enters (ten) into the verse, and thus comes to a stop at l. 
 
 It is set down and marked with 20.
 
@@ -414,7 +448,9 @@ The letters of the chords:
 s, t, d, 915 t, h, n, th, k, h, m, d, s, w, n, th, h, s, alif, b, l, m, n, s, 'ayn,
 f, d, q, r, s, y, k, 1, m, n, s, 'ayn, f, q, r, s, t, th, kh, dh, z, gh, sh, t, k, n,
 'ayn, h, s, z, w, h, l, s, k, l, m, n, s, alif, b, j, d, h, w, z, h, t, y.
-The letters of the question:
+
+
+<!-- The letters of the question:
 alif, l, z, 91 5a y, r, j, t; 'ayn, l, m; m, h, d, th, alif, m;
 q, d, y, m.
 561225
@@ -497,7 +533,8 @@ d
 35
 36
 37
-38
+38 -->
+
 Fifth Cycle= 17, remainder 5,
 Sixth Cycle= 13, remainder 1,
 Seventh Cycle= 9.
@@ -506,11 +543,14 @@ Ninth Cycle= 13, remainder 1,
 Tenth Cycle= 9.
 Eleventh Cycle= 17, remainder 5,
 Twelfth Cycle= 13, remainder 1,
+
 2652
 28
 3265
+
 First Result= 9 Second Result= 17, remainder 5, 6355896
 Third Result= 13, remainder 1. 58
+
 65
 m th l alif
 l 50
@@ -519,10 +559,10 @@ t, w, n, alif, q, s, b, x, r, alif, alif, r, s, alif, t, q, b, alif, r, q, alif,
 h, r, h, 918 l, d, alif, r, s, h, [alf 919 ], l, d, y, f, s, r, alif, h, m, t, alif, l, l.
 [m 917 ],
 
-Their period is according to twenty-five, then twentythree twice, then
-twenty-one twice, until one gets to the one at the end of the verse [?]. 920 All the
-letters are moved. t, r, w, h, n; r, w, h; alif, l, q, d, s; atif, b, r, z; s, r, h, alif;
-l, alif, d, r, y, s; f, alif, s, t, r, q, atif; b, h, alif; m, r, t,
+Their period is according to twenty-five, then twentythree twice, then twenty-one twice, until one gets to the one at the end of the verse [?]. 
+<!-- 920  -->
+
+All the letters are moved. t, r, w, h, n; r, w, h; alif, l, q, d, s; atif, b, r, z; s, r, h, alif; l, alif, d, r, y, s; f, alif, s, t, r, q, atif; b, h, alif; m, r, t,
 q, atif; alf, l, 'ayn, l, alif. 
 
 <!-- 921

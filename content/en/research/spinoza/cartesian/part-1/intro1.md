@@ -33,8 +33,7 @@ Descartes cautiously attempted:
 3. to uncover the cause of error,
 4. to understand everything clearly and distinctly.
 
-To achieve his first, second, and third aims, he doubted everything, not like a Skeptic whose sole aim is to doubt, but to free his mind
-from all prejudice.
+To achieve his first, second, and third aims, he doubted everything, not like a Skeptic whose sole aim is to doubt, but to free his mind from all prejudice.
 
 This was to discover the firm and unshakable foundations of the sciences.
 
@@ -138,21 +137,27 @@ Thus, in laying bare this truth, at the same time he also discovered the foundat
 
 There can be no other foundation for the sciences than this. 
 
-Everything else can quite easily be called into doubt, but this can by no means be doubted. However, with regard to this foundation, it should be particularly noted that the statement, "I doubt, I think, therefore I am," is not a syllogism with the major premise omitted. 
+Everything else can easily doubted. But this cannot be doubted.
 
-If it were a syllogism, the premises should be clearer and better known than the conclusion. 
+However, "I doubt, I think, therefore I am," is not a syllogism with the major premise omitted. 
+- If it were a syllogism, the premises should be clearer and better known than the conclusion. 
 
 Therefore 'I am', and so 'I am' would not be the prime basis of all knowledge.
 
-Furthermore, it would not be a certain conclusion, for its truth would depend on universal premises which the Author had already called into doubt. So 'I think, therefore I am' is a Single independent proposition, equivalent to the following- 'I am, while thinking'.
+Furthermore, it would not be a certain conclusion. This is because its truth would depend on universal premises which Descartes had already doubted. 
 
-To avoid confusion in what follows (for this is a matter that must be perceived clearly and distinctly), we must next know what we are. For when this has been clearly and distinctly understood, we shall not confuse our essence with others. 
+So 'I think, therefore I am' is a Single independent proposition, equivalent to the following: **'I am, while thinking'**.
 
-In order to deduce this from what has gone before, our Author proceeds as follows.
+To avoid confusion, we must next know what we are. When this has been clearly understood, we shall not confuse our essence with others.
 
-He recalls to mind all thoughts that he once had about himself, that his soul is something tenuous like the wind or fire or the ether, infused among the denser parts of his body; that his body is better known to him than his soul; and that he perceives the former more clearly and distinctly.
+ <!-- in what follows (for this is a matter that must be perceived clearly and distinctly),  -->
 
+<!-- In order to deduce this from what has gone before, our Author proceeds as follows. -->
 
+Descartes remembers all thoughts that he had about himself:
+- his soul is something tenuous like the wind, fire, or the ether, infused among the denser parts of his body
+- his body is better known to him than his soul
+- he perceives the former more clearly and distinctly.
 
 <!-- " [Med2, 17-18 (An, 24-25) J
 14 [Med2, 18 (An, 25); Discourse on Method 4 (AT6, 32-33).1
@@ -161,19 +166,51 @@ principle directly from the cogito.]
 1 6 [Med2, 18 (An, 25-26) 1 
 124 Principles orear/esian Philosophy -->
 
+He realizes that all of this is inconsistent with what he has so far understood.
 
-He realizes that all this is clearly inconsistent with what he has so far understood. For he was able to doubt his body, but not his own essence insofar as he was thinking. 
+He was able to doubt his body, but not his own essence insofar as he was thinking.
 
-Furthermore, he perceived these things neither clearly nor distinctly, and so, in accordance with the requirements of his method, he ought to reject them as false. Therefore, understanding that such things could not pertain to him insofar as he was as yet known to himself, he went on to ask what was that, pertaining peculiarly to his essence, which he had not been able to call into doubt and which had compelled him to conclude h is own existence. 
+<!-- these things -->
+Furthermore, he perceived the bodily things neither clearly nor distinctly. And so, in accordance with his method, he should reject them as false. 
 
-Of this kind there were- that he wanted to take precautions against being deceived, that he desired to understand many things, that he doubted everything that he could not understand, that up to this point he affirmed one thing only and everything else he denied and rejected as false, that he imagined many things even against his will, and, finally, that he was conscious of many things as proceeding from his senses. 
+<!-- Therefore, understanding that such things could not pertain to him insofar as he was as yet known to himself,  -->
 
-Because he could infer his existence with equal certainty from each of these points and could list none of them as belonging to the things that he had called into doubt, and finally, because all these things can be conceived under the same attribute, it follows that all these things are true and pertain to his nature.
+He went on to ask what was his essence that he could not doubt. 
 
-So whenever he said, "I think," all the following modes of thinking were understood -doubting, understanding, affirming, denying, willing, non-will ing, imagining, and sensing 17
+ <!-- that, pertaining peculiarly to his essence, which he had not been able to call into doubt  -->
 
-Here it is important to note the following points, which will prove to be very useful later on when the distinction between mind and body is discussed. 
+This had compelled him to conclude his own existence. 
+
+<!-- Of this kind there were: -->
+
+His essence included the following:
+
+- that he wanted to take precautions against being deceived,
+- that he wanted to understand many things, 
+- that he doubted everything that he could not understand, 
+- that up to this point he affirmed one thing only and everything else he denied and rejected as false, 
+- that he imagined many things even against his will, 
+- that he was conscious of many things as proceeding from his senses. 
+
+He could infer his existence with equal certainty from each of these points.
+
+<!-- and could list none of them as belonging to the things that he had called into doubt, and finally, because  -->
+
+All these things can be conceived under the same attribute. It follows that all these things are true and pertain to his nature.
+
+So whenever he said, "I think," all the following modes of thinking were understood:
+- doubting
+- understanding
+- affirming
+- denying
+- willing
+- non-willing
+- imagining
+- sensing 
+
+<!-- 17 -->
+
+Here it is important to note the following points, important to the distinction between mind and body: 
 
 1. These modes of thinking are clearly and distinctly understood independently of other matters that are still in doubt. 
 2. The clear and distinct conception we have of them would be rendered obscure and confused if we were to intermingle with them any of the matters of which we are still in doubt.
-

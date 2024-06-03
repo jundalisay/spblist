@@ -11,16 +11,26 @@ weight: 10
 
 
 
-## PROPOSITION 7: No body moves into the place of another body unless at the same time that other body moves into the place of another body.
+## Proposition 7: No body moves into the place of another body unless at the same time that other body moves into the place of another body.
 
-Proof: (See Diagram of Next Proposition) If you deny this, suppose, if it is possible, that a body A moves into the place of a body B, which I suppose to be equal
-to A and which does not give way from its own place. Therefore the space that
-contained only B, by hypothesis, now contains A and B, and so contains twice the
-amount of corporeal substance as it contained before, which is absurd (Prop. 4
-Part 2). Therefore no body moves into the place of another, ... etc. Q.E.D.
+Proof: (See Diagram of Next Proposition) If body A moves into the place of a body B, then the space of  body B will now contain A and B.
+
+<!-- not give up its place. -->
+
+<!-- which I suppose to be equal to A and which does not give way from its own place.  -->
+
+<!-- Therefore the space that contained only B, by hypothesis,  -->
+
+The space will now contain twice the amount of corporeal substance, which is absurd (Prop. 4
+Part 2). 
+
+Therefore no body moves into the place of another*, ... etc. Q.E.D.
+
+> *Superphysics Note: We explain this with our Law of Conservation of Idea 
 
 
-## PROPOSITION 8: When a body moves into the place of another body, at the same moment of time the place quitted by it is occupied by another body immediately contiguous to it.
+
+## Proposition 8: When a body moves into the place of another body, at the same moment of time the place quitted by it is occupied by another body immediately contiguous to it.
 
 <!-- Z [Splnoza probably refers to the Dutch translation of Descartes's letters Brieven, tr J H. Glazemaker,
 Amsterdam, 1661. The letter mentioned IS probably to Clerseiier, JunelJuly 1646, AT4, 445-447 ] 
@@ -57,7 +67,7 @@ Proof: At the time when body I moves into the place of body 2, body 2 must move 
 
 Again, at the same moment of time as body 1 moves into the place of body 2, the place quitted by body I must be occupied by �. another body (Prop. 8 Part 2), let us say body 8 or another body immediately contiguous to body I. Because this occurs only through the impulse of another body (Schol. to this Prop.). which is here supposed to be body I, all these moving bodies cannot be in the same straight line (Ax. 21) but (Def. 9) form a complete circle. Q.E.D.
 
-## PROPOSITION 9: If a circular tube ABC is full of water and is four times as wide at A as at B, then at the time that the water (or any other fluid body) at A begins to move toward B, the water at B will move at four times that speed.
+## Proposition 9: If a circular tube ABC is full of water and is four times as wide at A as at B, then at the time that the water (or any other fluid body) at A begins to move toward B, the water at B will move at four times that speed.
 
 Proof: When all the water at A moves toward B, the same amount of water must at the same time move into its place from C, which is immediately contiguous to A (Prop. 8
 Part 2). And from B the same amount of water will have to move into the place ofC (same Prop.). Therefore (Ax. 14) it will move at four
@@ -70,7 +80,7 @@ Lemma: If 2 semicircles A and B are described about the same center, the space b
 two semicircles C and D are described about different centers, the space between their circumferences will be everywhere unequal.
 The proof is evident merely from the definition of a circle.
 
-## PROPOSITION 10: The fluid body that moves through the tube ABC (of Prop. 9) receives an indefinite number of degrees of speed.
+## Proposition 10: The fluid body that moves through the tube ABC (of Prop. 9) receives an indefinite number of degrees of speed.
 
 Proof: The space between A and B is everywhere unequal (previous Lemma).
 
@@ -79,7 +89,7 @@ thought an indefinite number of spaces ever smaller and smaller between A and B 
 points, as indefinite. Therefore (Prop. 9 Part 2) the degrees of speed will be indefinite in number. Q.E.D.
 
 
-## PROPOSITION 11: The matter that flows through the tube ABC (of Prop. 9) is divided into an indefinite number of particles.
+## Proposition 11: The matter that flows through the tube ABC (of Prop. 9) is divided into an indefinite number of particles.
 
 Proof: The matter that flows through the tube ABC acquires at the same time an indefinite number of degrees of speed (Prop. 10 Part 2). Therefore (Ax. 16) it
 has an indefinite number of parts into which it is in reality divided. Q.E.D. 

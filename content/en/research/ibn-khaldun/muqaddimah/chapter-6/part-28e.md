@@ -49,7 +49,7 @@ The end of the first line is the beginning of the second, and the rest is moved 
 The letters in the "region" follow each other inproportion to the motion. Then, one finds out the chord of each letter through square
 division by the smallest aliquot part found in it, 927a and one puts (each) chord opposite its letter. Then, one finds out the elemental relations for the letters of the table and indicates their natural power, their spiritual power, their spiritual scales, their psychic dispositions, and their principal bases from the table which has been composed for the purpose and which looks as follows: 
 
-Bases
+<!-- Bases
 300 60
 100
 3
@@ -101,7 +101,7 @@ Scales t
 5 d
 4 h
 w
-z
+z -->
 
 Then, 929 one takes the chord of each letter after multiplying it by the bases of the four cardines of the (celestial) spheres. One should avoid what is adjacent to the cardines and also the sawaqit, 930 because their relationship is confused. 
 
@@ -136,10 +136,7 @@ Likewise, if the world of abstraction is divided by the first degree of diffusio
 
 Another method to find the answer is this. A competent (practitioner of letter magic) said:
 
-Let it be known to you - God strengthen us and you with a spirit coming from Him - that the science of letters is an important science. The scholar who
-knows it comes to know things that he would not be able to know with the help of any other science in the world. The practice of the science of (letter magic) requires certain conditions. 
+Let it be known to you - God strengthen us and you with a spirit coming from Him - that the science of letters is an important science. The scholar who knows it comes to know things that he would not be able to know with the help of any other science in the world. The practice of the science of (letter magic) requires certain conditions. 
 
-With its help, the scholar may discover the secrets of creation and the inner workings of nature. Thus, he learns the two results of philosophy,
-which are letter magic and its sister (alchemy). The veil of the unknown is lifted for
-him. He thus learns the contents of the secret recesses of the heart. 
+With its help, the scholar may discover the secrets of creation and the inner workings of nature. Thus, he learns the two results of philosophy, which are letter magic and its sister (alchemy). The veil of the unknown is lifted for him. He thus learns the contents of the secret recesses of the heart. 
 
