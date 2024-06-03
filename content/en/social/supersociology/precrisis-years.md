@@ -66,9 +66,14 @@ Putting this under the 2-forces model, we can say that:
 
 All your individual experiences combined makes up your metaphysical self-organism, commonly called the [soul](/bio/principles/intro/chapter-01). 
 
-**A soul can have many selves, but a self can have only one soul.**
+**A soul can have many selves, but a self can have only one soul.** *
 
-When all the individual experiences of all the people (self-organisms) in a country are combined, the result is a larger metaphysical organism called a **society**. 
+> *As programmers, we like to use the analogy of a single program spawning many instances, just as your browser has many tabs.
+
+When all the individual experiences of all the people (self-organisms) in a country are combined, the result is a larger metaphysical organism called a **society**. *
+
+> *An analogy is Firefox is a society with individual tabs, similar to but different from Chrome. 
+
 
 This has its own soul which we call the '**soul of society**'. 
 - Each personal-soul has a self-interest just as every society-soul has a common-interest.
@@ -135,7 +140,7 @@ The problem is that Adam Smith said that societies have a natural level of produ
 
 This nothingness (no revenue to match the investment) manifests as a crash**. And that's exactly what happened inthe Great Crash of 1929.
 
-> **Update Jan 2024: This matches the crash of tech startups which were really just ideas, not matching what reality needed 
+> **Update Jan 2024: This matches the crash of tech startups which were really just ideas, not matching what reality needed. This is the same principle behind the Dot Com bubble and bubbles in general. This is why Asian philosophies push for contentment and not materialism, and has allowed India and China to last for millennia, different from Western civilization that seems to end (i.e. Romans).
 
 
 {{< q a="Adam-Smith" c="The Wealth Of Nations Book 5" >}}

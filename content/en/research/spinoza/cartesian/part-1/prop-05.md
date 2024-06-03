@@ -1,9 +1,10 @@
 ---
 # heading: Part 1f
 # title: "Axioms Added To Descartes"
-title: Propositions 5-7
+heading: Propositions 5-7
+title: "The Existence of God"
 image: "/covers/cartesian.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "The existence of God is known solely from the consideration of his nature"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
@@ -11,9 +12,7 @@ weight: 12
 ---
 
 
-## Proposition 5
-
-The existence of Cod is known solely {rom the consideration of his nature.
+## Proposition 5: The existence of God is known solely from the consideration of his nature
 
 Proof: To say that something is contained in the nature or concept of a thing is the same as to say that it is true of that thing (Def. 9). 
 
@@ -36,9 +35,7 @@ If anyone, moved by goodwill and by the simple love of truth and his own true ad
 For when he realizes that God is completely different in kind from other things in respect of essence and existence, he will at once see clearly that the idea of God is far different from the ideas of other things. Therefore there is no need to detain the reader any longer on this subject.
 
 
-## Proposition 6
-
-The existence of God is proved a posteriori from the mere fact that the idea of him is in us.
+## Proposition 6: The existence of God is proved a posteriori from the mere fact that the idea of him is in us.
 
 Proof: The objective reality of any of our ideas requires a cause in which that same reality is contained not just objectively but formally or eminently (Ax. 9).
 

@@ -1,9 +1,8 @@
 ---
-# heading: Part 1f
-# title: "Axioms Added To Descartes"
-title: Propositions 5-7
+title: How to Prove the Existence of God
+heading: Proposition 7
 image: "/covers/cartesian.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "The existence of God is also proved from the fact that we ourselves exist while having the idea of him"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
@@ -15,19 +14,29 @@ weight: 13
 
 Proof: If I had the force to preserve myself, I would be of such a nature that I would involve necessary existence (Lemma 2). 
 
-Therefore (Corollary Lemma I) my nature would contain all perfections. 
+Therefore (Corollary Lemma 1), my nature would contain all perfections. 
 
-But I find in myself, insofar as I am a thinking thing, many imperfections-as that I doubt, desire, etc.-and of this I am certain (Scholium Prop. 4). Therefore I have no force to preserve myself. 
+But I find in myself, as a thinking thing, many imperfections. I doubt, desire, etc.
 
-Nor can I say that the reason I now lack those perfections is that I now will to deny them to myself, for this would be clearly inconsistent with Lemma I, and with what I clearly find in myself (Ax. 5).
+I am certain of these imperfections (Scholium Prop. 4). 
 
-Further, I cannot now exist, while I am existing, without being preserved either by myself- if indeed I have that force-or by someth ing else that does have that force (Axioms 10 and I I ). But I do exist (Scholium Prop. 4), and yet I do not have the force to preserve myself, as has just now been proved. 
+Therefore, I have no force to preserve myself. 
 
-Therefore I am preserved by something else. But not by something else that does not have the force to preserve itself (by the same reasoning whereby I have just demonstrated that I am not able to preserve myself). 
+I do not have those perfections because I deny them to myself. This would be inconsistent with Lemma 1, and with my imperfections (Ax. 5).
 
-Therefore it must be by something else that has the force to preserve itself; that is (Lemma 2), something whose nature involves necessary existence; that is (Corollary Lemma I ), something that contains all the perfections that I clearly understand to pertain to a supremely perfect being. Therefore a supremely perfect being exists; that is (Def. 8), God exists. Q.E.D.
+Further, I cannot now exist, while I am existing, without being preserved either by myself- if indeed I have that force-or by someth ing else that does have that force (Axioms 10 and I I ). 
 
-Scholium: To demonstrate this proposition Descartes assumes the following 2 axioms:
+But I exist (Scholium Prop. 4) even if I do not have the force to preserve myself. 
+
+Therefore, I am preserved by something else. 
+
+But not by something else that does not have the force to preserve itself (by the same reasoning whereby I have just demonstrated that I am not able to preserve myself). 
+
+Therefore it must be by something else that has the force to preserve itself; that is (Lemma 2), something whose nature involves necessary existence; that is (Corollary Lemma I ), something that contains all the perfections that I clearly understand to pertain to a supremely perfect being. 
+
+Therefore a supremely perfect being exists (Def. 8), God exists. Q.E.D.
+
+Scholium: To demonstrate this proposition Descartes assumes 2 axioms:
 
 1. That which can effect what is greater or more difficult can also effect what is less.
 

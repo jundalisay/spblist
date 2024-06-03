@@ -1,6 +1,6 @@
 ---
-# heading: Part 2
-title: "Definitions"
+heading: Axioms
+title: "Spinoza's Physics"
 image: "/covers/cartesian.jpg"
 description: "Definitions of Spinoza's Physics"
 writer:
@@ -12,8 +12,7 @@ weight: 4
 
 1. To nothing there belong no properties.
 
-2. Whatever can be taken away from a thing without impairing its integrity does not constitute the thing's essence. But that whose removal destroys a thing
-constitutes its essence.
+2. Whatever can be taken away from a thing without impairing its integrity does not constitute the thing's essence. But that whose removal destroys a thing constitutes its essence.
 
 3. In the case of hardness, our sense indicates to us nothing else, and we clearly and distinctly understand of it nothing else, than that the parts of hard bodies resist the movement of our hands.
 
@@ -29,12 +28,13 @@ constitutes its essence.
 
 9. All extension can be divided, at least in thought.
 
-No one who has leamed even the elements of mathematics doubts the truth of this axiom. For the space between a tangent and a circle can always be divided by an infinite number oflarger circles. The same point is also made obvious by the asymptotes of the hyperbola.
+No one who has leamed even the elements of mathematics doubts the truth of this axiom. 
+
+For the space between a tangent and a circle can always be divided by an infinite number oflarger circles. The same point is also made obvious by the asymptotes of the hyperbola.
 
 10. No one can conceive the boundaries of an extension or space without at the same time conceiving other spaces beyond those boundaries, immediately following on that space.
 
-11. If matter is manifold, and one piece is not in immediate contact with another, each piece is necessarily comprehended within boundaries beyond which
-there is no matter.
+11. If matter is manifold, and one piece is not in immediate contact with another, each piece is necessarily comprehended within boundaries beyond which there is no matter.
 
 12. The most minute bodies readily give way to the movement of our hands.
 
@@ -57,28 +57,28 @@ there is no matter.
 21. When body I moves toward body 2 and pushes it, if as a result of this impulse body 8 moves toward body I, then bodies I, 2, 3, etc., cannot b e i n a straight line, and
 all eight bodies form a complete circle. See Def. 9.
 
-Lemma: 
 
-I Where there is extension or space, there is necessarily substance.
+Lemma 1: Where there is extension or space, there is necessarily substance.
 
-Proof: 
+Proof: Extension or space (Ax. I) cannot be pure nothing. It is therefore an attribute that must be attributed to some thing, but not to God (Prop. 16 Part I).
 
-Extension or space (Ax. I) cannot be pure nothing. It is therefore an attribute that must be attributed to some thing, but not to God (Prop. 16 Part I);
-therefore it must be attributed to a thing that needs only the concurrence of God
-to exist (Prop. 12 Part I), that is (Def. 2 Part 2), to substance. Q.E.D.
+Therefore it must be attributed to a thing that needs only the concurrence of God to exist (Prop. 12 Part I), that is (Def. 2 Part 2), to substance. Q.E.D.
 
 Lemma 2: Rarefaction and condensation are clearly and distinctly conceived by us, although we do not grant that bodies occupy more space in rarefaction than in condensation.
 
-Proof: 
 
-Rarefaction and condensation can be clearly and distinctly conceived from the mere fact that parts of a body may move away from, or toward, one another. Therefore (Ax. 4) they will not occupy either more or less space. For if the parts of a body-say, a sponge-by moving toward one another expel the bodies with which its interstices are filled, this in itself will make that body more dense,
-and its parts will not thereby occupy less space than before (Ax. 4). 
+Proof: Rarefaction and condensation can be clearly and distinctly conceived from the mere fact that parts of a body may move away from, or toward, one another. 
 
-If again the parts move away from one another and the gaps are filled by other bodies, there will be rarefaction, but the parts will not occupy more space. And this, which we
-clearly perceive with the aid of our senses in the case of a sponge, we can conceive with the unaided intellect in the case of all bodies, although their interstices
-completely escape human sense-perception. Therefore rarefaction and condensation are clearly and distinctly conceived by us, etc. Q.E.D.
+Therefore (Ax. 4) they will not occupy either more or less space. 
+
+For if the parts of a body-say, a sponge-by moving toward one another expel the bodies with which its interstices are filled, this in itself will make that body more dense, and its parts will not thereby occupy less space than before (Ax. 4). 
+
+If again the parts move away from one another and the gaps are filled by other bodies, there will be rarefaction, but the parts will not occupy more space.
+
+This, which we clearly perceive with the aid of our senses in the case of a sponge, we can conceive with the unaided intellect in the case of all bodies, although their interstices completely escape human sense-perception. 
+
+Therefore rarefaction and condensation are clearly and distinctly conceived by us, etc. Q.E.D.
 
 <!-- Part 2, Proposition 2 151 -->
 
-I have thought it advisable to set out these Lemmas first, so that the intellect may rid itself of prejudices concerning space, rarefaction, etc., and be rendered
-apt to understand what is to follow.
+I wrote these Lemmas first, so that the intellect may rid itself of prejudices concerning space, rarefaction, etc., and better understand what follows.

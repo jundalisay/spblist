@@ -1,6 +1,7 @@
 ---
 # eading: Part 1g
-title: "Propositions 16-21"
+heading: Propositions 16-21 
+title: "The Temporal and Spatial Properties of God"
 image: "/covers/cartesian.jpg"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
@@ -11,38 +12,56 @@ weight: 17
 
 
 
-## Proposition 16: God is incorporeal.
+## Proposition 16: God is incorporeal
 
-Proof: Body is the immediate subject oflocal motion (Def. 7). Therefore if God were corporeal, he would be divided into parts; and this, since it clearly involves
-imperfection, it is absurd to affirm of God (Def. 8). 
+Proof 1: Body is the immediate subject of local motion (Def. 7).
 
-Another Proof If God were corporeal, he could be divided into parts (Def. 7). 
+If God were corporeal, he would be divided into parts. This involves imperfection, and is therefore absurd (Def. 8). 
 
-Either each single part could subsist of itself, or it could not. If the latter, it would be like the other things created by God, and thus, like every created thing,
-it would be continuously created by the same force by God (Prop. 10 and Ax. I I ), and would not pertain to God's nature any more than other created things, which
-is absurd (Prop. 5). But if each Single part exists through itself, each single part must also involve necessary existence (Lemma 2 Prop. 7), and consequently each
-single part would be a supremely perfect being (Cor. Lemma 2 Prop. 7). 
+Proof 2: If God were corporeal, he could be divided into parts (Def. 7). 
 
-But this, too, is absurd (Prop. II). Therefore God is incorporeal. Q.E.D.
+Either each single part could subsist of itself, or it could not.
+
+If the latter, it would be like the other things created by God, and thus, like every created thing, it would be continuously created by the same force by God (Prop. 10 and Ax. I I ).
+
+It would not pertain to God's nature any more than other created things, which is absurd (Prop. 5). 
+
+But if each single part exists through itself, each single part must also involve necessary existence (Lemma 2 Prop. 7).
+
+Consequently, each part would be a supremely perfect being (Cor. Lemma 2 Prop. 7). But this, too, is absurd (Prop. 2). 
+
+Therefore God is incorporeal. Q.E.D.
 
 
 ## Proposition 17: God is a completely simple being.
 
-Proof: If God were composed of parts, the parts (as all will readily grant) would have to be at least prior in nature to God, which is absurd (Cor. 4 Prop. 12). Therefore he is a completely simple being. Q.E.D.
-Corollary Hence it follows that God's intelligence, his will or decree, and his power are not distinguished from his essence, except by abstract reasoning.
+Proof: If God were composed of parts, the parts would have to be at least prior in nature to God, which is absurd (Cor. 4 Prop. 12). 
+
+Therefore, he is a completely simple being. Q.E.D.
+
+Corollary: It follows that God's intelligence, his will or decree, and his power are not distinguished from his essence, except by abstract reasoning.
 
 
 ## Proposition 18: God is immutable.
 
-Proof: If God were mutable, he could not change in part, but would have to
-change with respect to his whole essence (Prop. 1 7). But the essence of God exists necessarily (Props. 5, 6, and 7). Therefore God is immutable. Q.E.D.
+Proof: If God were mutable, he could not change in part, but would have to change with respect to his whole essence (Prop. 1 7). 
+
+But the essence of God exists necessarily (Props. 5, 6, and 7). Therefore God is immutable. Q.E.D.
 
 
 ## Proposition 19: God is eternal.
 
-Proof: God is a supremely perfect being (Def. 8), from which it follows that he exists necessarily (Prop. 5). If now we attribute to him limited existence, the limits of his existence must necessarily be understood, if not by us, at any rate by God himself (Prop. 9), because he has understanding in the highest degree. 
+Proof: God is a supremely perfect being (Def. 8), from which it follows that he exists necessarily (Prop. 5). 
 
-Therefore God will understand himself (i.e. [Def. 8], a supremely perfect being) as not existing beyond these limits, which is absurd (Prop. 5). Therefore God has not a limited but an infinite existence, which we call eternity. See Chapter I Part 2 of our Appendix. Therefore God is eternal. Q.E.D.
+If he has a limited existence, the limits of his existence must necessarily be understood by us or by God himself. 
+
+<!-- , if not by us, at any rate by God himself (Prop. 9), because he has understanding in the highest degree.  -->
+
+Therefore God will understand himself (i.e. [Def. 8], a supremely perfect being) as not existing beyond these limits, which is absurd (Prop. 5). 
+
+Therefore, God has an infinite existence, which we call eternity.
+
+See Chapter I Part 2 of our Appendix. Therefore God is eternal. Q.E.D.
 
 
 ## Proposition 20: God has preordained all things from eternity.

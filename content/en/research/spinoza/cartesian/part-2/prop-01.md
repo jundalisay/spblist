@@ -1,8 +1,8 @@
 ---
-# heading: Part 2b
-title: "Propositions 1-11"
+heading: "Propositions 1-11"
+title: There are no vacuums nor atoms
 image: "/covers/cartesian.jpg"
-description: "Hardness, weight, and the other sensible qualities may be separated from a body"
+description: "The nature of body or matter consists only in extension"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza

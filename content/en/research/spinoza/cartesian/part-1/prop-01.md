@@ -1,8 +1,8 @@
 ---
-# heading: Part 1d
-title: "Propositions 1-21"
+heading: Propositions 1-4 
+title: "Existence and 'I Am'"
 image: "/covers/cartesian.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "We only be absolutely certain of anything as long as we know that we exist"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
@@ -38,9 +38,7 @@ Therefore, (Ax. I) we shall not attain certainty of this except through the know
 Therefore the statement 'I am', insofar as T am a thing consisting of body, is not a first principle and is not known through itself. Q.E.D.
 
 
-## Proposition 4
-
-'I am' cannot be the first known principle except insofar as we think.
+## Proposition 4: 'I am' cannot be the first known principle except insofar as we think.
 
 Proof: The statement 'I am a corporeal thing, or a thing consisting of body' is not a first-known principle (Prop. 3). I am not certain of my existence insofar as I consist of anything other than mind and body. 
 
