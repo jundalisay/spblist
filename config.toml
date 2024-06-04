@@ -635,10 +635,10 @@ paginate = 12
         name = "/icons/question.png"
         url = "faq"
         weight = 8
-    [[languages.zh.menu.main]]
-        name = "/icons/about.png"
-        url = "about"
-        weight = 9
+    # [[languages.zh.menu.main]]
+    #     name = "/icons/about.png"
+    #     url = "about"
+    #     weight = 9
     [[languages.zh.menu.main]]
         name = "/icons/heart.png"
         url = "help"
@@ -669,12 +669,12 @@ paginate = 12
       icon = "/icons/sp.png"
       link= "/superphysics/principles"
     [languages.zh.params.tricon1.items.a]
-      url = "/superphysics/principles/chapter-01/"
+      url = "/zh/superphysics/principles/chapter-01/"
       img= "/photos/physics/ai.jpg"
       title = "我们在一个矩阵中！"
       sub = "看看我们如何在其中存在良好"
     [languages.zh.params.tricon1.items.b]
-      url = "/superphysics/principles/chapter-02"
+      url = "/zh/superphysics/principles/chapter-02"
       img = "/photos/idea.jpg"
       title = "一切都是一个思想"
       sub = "存在于头脑或矩阵之内"
@@ -811,12 +811,12 @@ paginate = 12
       icon = "/icons/sp.png"
       link= "/superphysics/principles"
     [languages.de.params.tricon1.items.a]
-      url = "/superphysics/principles/chapter-01/"
+      url = "/de/superphysics/principles/chapter-01/"
       img= "/photos/physics/ai.jpg"
       title = "Wir sind in einer Matrix!"
       sub = "Sehen Sie, wie wir darin gut existieren können"
     [languages.de.params.tricon1.items.b]
-      url = "/superphysics/principles/chapter-02"
+      url = "/de/superphysics/principles/chapter-02"
       img = "/photos/idea.jpg"
       title = "Alles ist eine Idee"
       sub = "Im Verstand oder der Matrix"
@@ -953,14 +953,14 @@ paginate = 12
       icon = "/icons/sp.png"
       link= "/superphysics/principles"
     [languages.fr.params.tricon1.items.a]
-      url = "/superphysics/principles/chapter-01/"
+      url = "/fr/superphysics/principles/chapter-01/"
       img= "/photos/physics/ai.jpg"
       title = "Nous sommes dans une Matrice!"
       sub = "Découvrez comment nous pouvons y vivre en harmonie"
     [languages.fr.params.tricon1.items.b]
-      url = "/superphysics/principles/chapter-02"
+      url = "/fr/superphysics/principles/chapter-02"
       img = "/photos/idea.jpg"
-      title = "Todo es una idea"
+      title = "Tout est une Idée"
       sub = "Tout est une Idée dans l'Esprit ou la Matrice"
     [languages.fr.params.tricon1.items.c]
       url = "/superphysics/principles/chapter-04b"
@@ -1007,7 +1007,7 @@ paginate = 12
       icon = "/icons/spmed.png"
       link= "/bio/principles"
     [languages.fr.params.tricon3.items.a]
-      url = "/bio/principles/part-04/chapter-03/"
+      url = "/bio/principles/part-05/chapter-03/"
       img= "/photos/med/cancer2.jpg"
       title = "Le Cancer et les Maladies ont été Guéris par la Médecine Non-Occidentale"
       sub = "Découvrez des alternatives à la Médecine Occidentale"
@@ -1034,7 +1034,7 @@ paginate = 12
       icon = "/icons/spsoc.png"
     [languages.fr.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
-      img = "/photos/vanity.jpg"
+      img = "/photos/social/monkey.jpg"
       title = "L'Égo est la Cause des Problèmes dans la Société"
       sub = "Découvrez comment la supersociologie vise à résoudre ce problème"
     [languages.fr.params.tricon4.items.b]

@@ -18,7 +18,12 @@ In our Superphysics paradigm, this plasma is confined by the intense gravitation
 
 Without this confinement, the star would dissipate immediately. And so, **the extreme sustained confinement and compression** are the keys to fusion.
 
-This vortex idea is from the Physics of Rene Descartes, and was rejected by Isaac Newton. And so, it never made its way into Modern Physics.
+This vortex idea is from the Physics of the aethrealist Rene Descartes, which was rejected by the materialist*  Isaac Newton. 
+
+> *Newton invested in the stock market and lost most of his wealth. Descartes did not. 
+
+
+And so, it never made its way into Modern Physics.
 
 {{< img src="/graphics/physics/vortex.jpg" alt="Vortex" cap="The description of Rene Descartes about star formation matches the findings from modern telescopes. Unlike Newtonian Physics which is matter-based, Cartesian Physics is aether-based, usually manifesting as rotating vortices, helixes, or chakras" >}}
 
@@ -92,6 +97,9 @@ In order to defy gravity, a thing's atoms must be arranged so that it will let m
 This has already been done by Buddhist monks who can levitate at will.   
 
 {{< youtube ufORgD0s2Mo >}}
+
+
+### Active and Passive Anti-Gravity
 
 In this case, they use sound, as a mantra, to manipulate the vortices (chakras) in their body in order to allow qosts to pass through. We call this the passive version. We made this inference after a monk taught us how levitation works -- we combined Buddhist principles with those of Descartes*. 
 
