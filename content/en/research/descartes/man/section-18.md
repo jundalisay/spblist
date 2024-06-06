@@ -2,7 +2,7 @@
 heading: Section 18
 title: "Sight"
 # date: 2022-01-29
-weight: 14
+weight: 16
 description: "The sense of sight depends on two nerves composed of a vast number of extremely mobile capillaries"
 image: "/covers/man.jpg"
 writer:

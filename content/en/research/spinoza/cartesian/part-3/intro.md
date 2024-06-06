@@ -6,7 +6,7 @@ description: "We must devise such principles that are the simplest and easiest t
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 4
+weight: 2
 ---
 
 

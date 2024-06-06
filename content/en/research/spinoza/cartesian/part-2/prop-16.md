@@ -1,8 +1,8 @@
 ---
-heading: "Propositions 12-33"
-title: "The Law of Conservation of Matter and Energy"
+heading: "Propositions 16-18"
+title: "Angular Momentum"
 image: "/covers/cartesian.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "Every body that moves in a circle (e.g., a stone in a sling) will continue in motion at a tangent to that circle"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
@@ -72,7 +72,7 @@ This is nothing other than to endeavor to move away from the center of the circl
 
 ## Proposition 18: If a body A moves toward a body B, which is at rest, and B loses nothing of its state of rest in spite of the impetus of body A, then neither will A lose anything of its motion, but will retain entirely the same quantity of motion that it had before.
 
-Proof If you deny this, suppose that body A loses some of its motion without transferring the lost motion to something else, say, to B. • When this happens, there will be in Nature a smaller quan­ liP' tity of motion than before, which is absurd (Prop. 13 Part 2). 
+Proof: Assume that body A loses some of its motion without transferring the lost motion to B. This will reduce the amount of motion in Nature than before, which is absurd (Prop. 13 Part 2). 
 
-The proof proceeds in the same way with respect to the state of rest of body B, therefore if the one body does not transfer anything to the other
-body, B will retain all its rest, and A, all its motion. Q.E.D.
+The proof proceeds in the same way with respect to the state of rest of body B. Therefore, if Body A does not transfer anything to Body B, then B will retain all its rest, and A, all its motion. Q.E.D.
+

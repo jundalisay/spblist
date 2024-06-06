@@ -61,11 +61,11 @@ Diogenes the Cynic refuted him by walking around the school where Zeno was teach
 
 He was stopped by one of Zeno's students whom he rebuked, saying: Why have you refuted your master's arguments? 
 
-People could be deceived by Zeno's arguments into thinking that the senses reveal to us motion that is totally opposed to the intellect. This results in the mind being
-deceived about those things that it perceives clearly and distinctly with the aid of the intellect. 
+People could be deceived by Zeno's arguments into thinking that the senses reveal to us motion that is totally opposed to the intellect. 
 
-To prevent this, I shall here set forth Zeno's principal
-arguments, showing that they rest only on false prejudices because he had no true conception of matter.
+This results in the mind being deceived about those things that it perceives clearly and distinctly with the aid of the intellect. 
+
+To prevent this, I explain Zeno's principal arguments, showing that they are based on false prejudices because he had no true conception of matter.
 
 He says that if local motion were granted, the motion of a body moving with a circular motion at the highest speed would be no different from a state of rest. 
 

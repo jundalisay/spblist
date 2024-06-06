@@ -26,9 +26,11 @@ Thus body B is all the time automatically being lefl by immediately contiguous b
 
 And so, whatever magnitude is assigned to B, no action is required to separate it from immediately contiguous bodies (Note 4 of Def. 8). 
 
-So any external force striking against it, however small it is imagined to be, is bound to be greater than the force that B possesses for remaining in the same place (for we have just demonstrated that B possesses no force for adhering to its immediately contiguous bodies), and, when added to the impulse of those particles that together with it are impelling B by external force in the same direction, it is also bound to be greater than the force of other particles impelling B in the opposite direction (for, disregarding this external force, the one force was supposed to be equal to the other). 
+So any external force striking against it, however small, is bound to be greater than the force that B possesses for remaining in the same place. This is because B possesses no force for adhering to its immediately contiguous bodies. 
 
-Therefore (Ax. 20) body B will be moved in any direction by this external force, however small it be imagined. Q.E.D. 
+When added to the impulse of those particles that together with it are impelling B by external force in the same direction, it is also bound to be greater than the force of other particles impelling B in the opposite direction (for, disregarding this external force, the one force was supposed to be equal to the other).
+
+Therefore (Ax. 20), body B will be moved in any direction by this external force, however small it be imagined. Q.E.D. 
 
 
 ## Proposition 34: Body B, under the same conditions as previously, cannot move more quickly than it is impelled by the external force, even though the particles by which it is surrounded are in much swifter motion.

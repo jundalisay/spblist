@@ -6,7 +6,7 @@ description: "The parts into which matter was first divided were not round but a
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 4
+weight: 6
 ---
 
 
@@ -24,8 +24,7 @@ Therefore (Ax. I and Prop. 2 Part 2) they were not round, but (Def. 4) angular. 
 
 Proof: In the beginning, all matter was divided into equal (Postulate) and angular (Prop. I Part 3) parts.
 
-Therefore, if their angles had not been worn away as soon as they began to move about their own centers, then of necessity (Ax. 2) the whole of matter would have had to occupy more space than when it was at rest. But this
-is absurd (Prop. 4 Part 2). 
+Therefore, if their angles had not been worn away as soon as they began to move about their own centers, then of necessity (Ax. 2) the whole of matter would have had to occupy more space than when it was at rest. But this is absurd (Prop. 4 Part 2). 
 
 Therefore their angles were worn away as soon as they
 began to move. Q.E.D.

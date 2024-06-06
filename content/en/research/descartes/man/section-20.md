@@ -2,7 +2,7 @@
 heading: Section 20
 title: "Distance Perception"
 # date: 2022-01-29
-weight: 16
+weight: 17
 description: "All those different colors, which novelty endears and often provide greater delight to the sight than the color green, are like excellent and unusual musical modulations or the delicate food of a wise cook"
 image: "/covers/man.jpg"
 writer:
@@ -53,8 +53,18 @@ And because with the eye so positioned, the rays of the object N incident into t
 
 Just as, if the stick H is bent towards K, the object K that it touches will appear to the soul towards R. 
 
-Figure XXIX. If indeed the eye L receives the rays of the object N through the glass 3, which refracts or bends them, that object will appear to the soul to be at point A. Figure XXX. Similarly, if the eye B receives the rays of the point D through the glass C, which I suppose are all refracted or bent in the same way, as if they were coming from point E, and as if those from point F were coming from point G; and so on with the others: the object DFH will appear to the soul with the same magnitude and distance as the object EGI is seen. 
+Figure XXIX. 
 
-To conclude, it must be noted: all the methods by which the soul endeavors to discern the distance of objects by sight are doubtful and uncertain. For as for the angles LMN and MLN, and those similar to them, they hardly change sensibly anymore when the object is farther away than 15 or 20 feet. See above Fig. XXIV. And as for the disposition of the crystalline humor, it also changes less sensibly as soon as the object is more than three or four feet away from the eye. 
+If the eye L receives the rays of the object N through the glass 3, which refracts or bends them, that object will appear to the soul to be at point A. Figure XXX. 
 
-Finally, the judgment regarding distance, which we form either by opinion based on the size of the objects we conceive, or from the fact that the rays emanating from their different points do not unite so accurately on the fundus of the eye, shows how easily we can be deceived by arguments based on perspective. For whenever figures are painted smaller in perspective than we imagine they should be, and with darker colors and more confused lines, they always appear more distant and larger than they really are.
+Similarly, if the eye B receives the rays of the point D through the glass C, which I suppose are all refracted or bent in the same way, as if they were coming from point E, and as if those from point F were coming from point G; and so on with the others: the object DFH will appear to the soul with the same magnitude and distance as the object EGI is seen. 
+
+To conclude, it must be noted: all the methods by which the soul endeavors to discern the distance of objects by sight are doubtful and uncertain. 
+
+For as for the angles LMN and MLN, and those similar to them, they hardly change sensibly anymore when the object is farther away than 15 or 20 feet. See above Fig. XXIV.
+
+As for the disposition of the crystalline humor, it also changes less sensibly as soon as the object is more than three or four feet away from the eye. 
+
+Finally, the judgment regarding distance, which we form either by opinion based on the size of the objects we conceive, or from the fact that the rays emanating from their different points do not unite so accurately on the fundus of the eye, shows how easily we can be deceived by arguments based on perspective. 
+
+For whenever figures are painted smaller in perspective than we imagine they should be, and with darker colors and more confused lines, they always appear more distant and larger than they really are.

@@ -1,6 +1,6 @@
 ---
-heading: Introduction
-title: "The Cartesian Way of Finding Seed Principles"
+heading: Axioms
+title: "Spinoza's Assumptions"
 image: "/covers/cartesian.jpg"
 description: "We must devise such principles that are the simplest and easiest to know"
 writer:

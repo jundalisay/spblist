@@ -1,8 +1,8 @@
 ---
 heading: "Propositions 7-11"
-title: "Local Motion Versus Zeno"
+title: "Rules of Motion"
 image: "/covers/cartesian.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "No body moves into the place of another body unless that other body moves into the place of another body at the same time"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza

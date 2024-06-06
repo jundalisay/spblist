@@ -63,45 +63,34 @@ The reason for this is that saliva, coming from the stomach and imbued with the 
 
 ## {{< s v="15" >}} The sense of smell is also created by numerous filaments emanating from the base of the brain to the nose. 
 
-These filaments do not differ in any way from the nerves of touch or taste, except that they do not extend beyond the skull, which contains the brain. However, these filaments can be moved by particles much finer than those affecting the nerves of the tongue, both because they are thinner and because they are more immediately affected by objects. 
+These filaments do not differ in any way from the nerves of touch or taste, except that they do not extend beyond the skull.
 
-When this machine breathes, the finer particles of air drawn into the nostrils penetrate the pores of the sieve-like bone, if not into the very concavities of the brain, at least into the space between the two membranes in which the brain is enveloped. Hence, they find a way to reach the palate, simultaneously. 
+<!-- , which contains the brain.  -->
 
-Similarly, in a reciprocal flow, when air is expelled from the chest by breathing out, it returns through the palate to that space, and then passes again through the nostrils. Indeed, at the opening of this space, they encounter the ends of the said filaments, either entirely bare or clothed only with a very thin membrane, which is therefore easily moved. 
+However, these filaments can be moved by particles much finer than those affecting the nerves of the tongue because:
+- they are thinner
+- they are more immediately affected by objects. 
 
-Moreover, the structure of these openings is such, and their narrowness so great, that the passage of all terrestrial particles, including those coarser ones mentioned earlier as odors, is barred from reaching these filaments, except perhaps for certain ones of the same nature as those from which the water of life is composed, which, having obtained their shape, penetrate deeply. 
+When this machine breathes, the finer air particles drawn into the nostrils penetrate the pores of the sieve-like bone. They either:
+- go into the very concavities of the brain
+- at least go into the space between the two membranes that envelope the brain. 
 
-Finally, those very minute terrestrial particles, which are always more abundant in the air than in other mixed bodies, those alone slightly thicker or thinner than others, or more or less mobile due to their shape, will provide the soul with the opportunity to perceive different odors.
+Hence, they find a way to reach the palate, simultaneously. 
 
-When these excesses are very moderate and well-balanced among themselves, they will produce pleasant odors. Those that act only in ordinary circumstances cannot be perceived by smell at all, and those that are excited with too much force or are moved too gently cannot help but be displeasing.
+Similarly, in a reciprocal flow, when air is expelled from the chest by breathing out, it returns through the palate to that space, and then passes again through the nostrils. 
 
+At the opening of this space, they encounter the ends of the said filaments, either:
+- entirely bare or
+- clothed only with a very thin membrane, which is easily moved. 
 
+These openings are so narrow that the passage of all terrestrial particles, including those coarser ones mentioned earlier as odors, are barred from reaching these filaments, except for those of the same nature as those that are made up of the water of life. These penetrate deeply after obtaining their shape. 
 
-## {{< s v="16" >}} However, the filaments that make up the organs of hearing are not necessarily as thin as those preceding them.
+Finally, those very minute terrestrial particles are always more abundant in the air than in other mixed bodies.
 
-It is sufficient if they are arranged in the inner concavity of the ears in such a way that they are easily and uniformly moved by those tremulous motions, by which the external air, passing through the thin membrane stretched over the openings of these concavities, is moved.
+Only those slightly thicker or thinner than others, or more or less mobile due to their shape, can make the soul perceive odors.
 
-They are affected by the air alone, which presses on this membrane. 
+<!-- with the opportunity to -->
 
-These tremulous impulses reach all the way to the brain through the nerves and allow the soul to conceive the idea of sounds. 
+When these excesses are very moderate and well-balanced among themselves, they will produce pleasant odors. 
 
-Of these, it should be particularly noted that only one will present to the hearing nothing but an indistinct murmur that will perish in a moment, in which only the variation in size and smallness can be perceived, depending on whether the ear has been more or less stimulated. 
-
-But when several impulses follow one another, as is evident to sight whenever strings or trembling bells produce a sound, the more or less equality of these impulses will determine a sound that will seem sweeter or harsher to the soul, or even higher or lower; depending on whether they follow each other more or less promptly: 
-
-So that, if by half or a third or a quarter or a fifth part, etc., one follows the other more promptly at one time than another, they will produce a sound which the soul will judge to be higher by an octave, or a fifth, or a fourth, or a major third, etc. 
-
-Several tones together will agree or disagree, depending on whether the similarity or proportion is greater or lesser, or whether the intervals between the impulses are more or less equal. 
-
-For example, if the divisions A, B, C, D, E, F, G, H represent small impulses composing various sounds, we shall easily judge that those represented by the lines G and H will not be as pleasing to our ears as others. 
-
-Just as the roughness of a stone is less pleasing to the touch than the smoothness of a polished mirror. 
-
-`B` represents a sound higher by an octave than A, C represents a fifth; D, a fourth; E, a major third; and F, an even higher sound. And it should be observed that A and B, or A B C, or A B D, or A B E, or even A B C E, harmonize better than A and F, or A G D, or A D E, etc.
-
-
-
-## {{< s v="17" >}} This is how the soul, which inhabits the machine I, can be pleased by Music, which is composed according to the same rules as our own. 
-
-It shows how it can be made far more perfect, if only we observe that sweeter things are not always more pleasing to the senses absolutely, but only those that affect the senses with a more moderate titillation. Just as salt and vinegar often give greater pleasure to the tongue than sweet water. And hence the reason why Music uses thirds, sixths, and sometimes even dissonances, no less than unisons, octaves, and fifths.
-
+Those that act only in ordinary circumstances cannot be perceived by smell at all. Those that are excited with too much force or are moved too gently are displeasing.
