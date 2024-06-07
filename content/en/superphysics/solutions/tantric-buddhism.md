@@ -1,5 +1,5 @@
 ---
-title: "Tantric Buddhism as the Solution to Global Warming"
+title: "Tantric Buddhism as a Moral Solution to Global Warming"
 date: 2024-05-24
 image: /photos/meta/relic.jpg
 description: "Asian Philosophies such as Hinduism, Buddhism, and Taoism promote spirituality while going against global warming"
@@ -47,7 +47,7 @@ I had tried to jump to those chakras from the heart but found the results very i
 
 But after getting the vibe from that relic, I had the idea to use the throat chakra as a jump-off point instead of the heart. I tried it this morning and it clearly had an effect. But it would take a lot more repetitions to see the pattern that forms from the effects. 
 
-This whole experience leads to 3 insights:
+This whole experience leads to 4 insights:
 
 ### 1. The importance of discipline against the logical mind
 
@@ -113,4 +113,4 @@ I think that Buddha opted for the soul-less approach after seeing that dogmatic 
 
 The nihilism of Buddhism is cured by injecting Tantra (a Hindu sect), leading to Vajrayana or Tantric Buddhism. Tantra is based on the soul and existence with 2 forces Shiva-Shakti. In this way, you get the Taoist bonus of Yin-Yang too. 
 
-This creates a complete system that much more practical and not so abtract.
+This creates a complete system that much more practical and not so abtract. Rather, as a moral system, it can be the jumping-off point for practical solutions and policies against global warming.

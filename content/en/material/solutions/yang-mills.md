@@ -11,6 +11,12 @@ weight: 2
 ---
 
 
+Yang Mills is a generalization of Maxwell's electromagnetism to include matrices in order to describe the strong and weak nuclear forces. 
+
+<!-- Algebgraic Topoplogy led to Fiber bundles  -->
+<!-- strong 3x3
+weak 2x2  -->
+
 In Cartesian Physics, every energy packet is a vortex which has 2 direction clockwise, counterclockwise. This duality leads to symmetry and asymmetry. These packets take 5 forms as the 5 Elements or Fundamental Forces. 
 
 Yang Mills uses a gauge group `G` for each Fundamental Force whereas Descartes simply splits them up into 5 Elements.
