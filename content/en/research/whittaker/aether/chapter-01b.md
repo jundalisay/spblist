@@ -12,15 +12,17 @@ description: "According to Descartes' theory, the sun is the centre of an immens
 
 According to Descartes' theory, the sun is the centre of an immense vortex formed of the first or subtlest kind of matter.[4] 
 
-The vehicle of light in space is a 2nd kind of matter, composed of closely packed globules of a size between that of the vortex-matter and that of ponderable matter. 
+The vehicle of light in space is a 2nd kind of matter, composed of closely packed globules of a size between that of the vortex-matter and that of ponderable matter.
 
-The globules of the 2nd element, and all the matter of the 1st clement, are constantly straining away from the centres around which they turn due to the centrifugal force of the vortices[5].
+The globules of the 2nd element, and all the matter of the 1st element, are constantly straining away from the centres around which they turn due to the centrifugal force of the vortices[5].
 
 This presses the globules with each other. They tend to move outwards, although they do not actually so move.[6] 
+The transmission of this pressure constitutes light.*
 
-The transmission of this pressure constitutes light.
+> *Superphysics Note: In Superphysics, light is from the friction of spacetime particles which we call qosts. This overhauls the material Big Bang into the aethereal Big Bootup, evidenced by ~~baryonic~~ acoustic oscillations. 
 
-The action of light therefore extends on all sides around the sun and fixed stars, and travels instantaneously to any distance.[7] 
+
+The action of light therefore extends on all sides around the sun and fixed stars, and travels instantaneously to any distance.[7]
 
 In the Dioptrique,[8] vision is the perception of objects which a blind man obtains by using a stick.
 
@@ -47,9 +49,9 @@ The law of refraction is that the sines of the angles of incidence and refractio
 
 Descartes gave it as his own. 
 
-But he seems to have been under considerable obligations to Willebrord Snell (b. 1591, d. 1626), Professor of Mathematics at Leyden, who had discovered it experimentally in 1621. 
+But he seems to have been under considerable obligations to Willebrord Snell (b. 1591, d. 1626), Professor of Mathematics at Leyden, who had discovered it experimentally in 1621.
 
-Snell did not publish his result, but communicated it in manuscript to several persons. Huygens affirms that this manuscript had been seen by Descartes.
+Snell did not publish his result, but communicated it in manuscript. Huygens affirms that this manuscript had been seen by Descartes.
 
 Descartes presents the law as a deduction from theory. 
 - This, however, he is able to do only by the aid of analogy.
@@ -57,7 +59,10 @@ Descartes presents the law as a deduction from theory.
 When rays meet ponderable bodies, "they are liable to be deflected or stopped in the same way as the notion of a ball or a stone impinging on a body".
 - "The inclination for light to move should follow in this the same laws as motion."[12] 
 
-Thus he replaces light, whose velocity of propagation he believes to be always infinite, by a projectile whose velocity varies from one medium to another. 
+Thus he replaces light, whose velocity of propagation he believes to be always infinite*, by a projectile whose velocity varies from one medium to another. 
+
+> *Superhysics Note: The speed of light to Descartes was infinite because he really meant the aether
+
 
 Next is the law of refraction[11]:
 
@@ -72,15 +77,24 @@ ray. So if i and r denote the angles of incidence and refraction, we have
 
 or the sines of the angles of incidence and refraction are in a constant ratio; this is the law of refraction.
 
-Descartes wanted to include all known phenomena in his system. He devoted some attention to a class of effects which were at that time little thought of, but which were destined to play a great part in the subsequent development of Physics.
+Descartes wanted to include all known phenomena in his system. He devoted some attention to a class of effects which were little thought of back then, but which were destined to play a great part in the subsequent development of Physics.
 
 The ancients knew the curious properties possessed by two minerals:
-- amber (ἣλεκτρον)
-  - When amber is rubbed, it attracts lightweight bodies.
-- magnetic iron ore (ἡ λίθος Μαγνῆτις). 
-  - This attracts iron.
+
+
+1. Aamber (ἣλεκτρον)
+
+When amber is rubbed, it attracts lightweight bodies.
+
+
+2. Magnetic iron ore (ἡ λίθος Μαγνῆτις). 
+
+This attracts iron.
 
 The use of the magnetic compass at sea was not derived from classical antiquity. But it was certainly known in the time of the Crusades. 
+
+
+## Petrus Peregrinus and the European Discovery of Magnetism
 
 Magnetism was one of the few sciences which progressed during the Middle Ages. In the 13th century, Petrus Peregrinus,[13] a native of Maricourt in Picardy discovered it. 
 

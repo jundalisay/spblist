@@ -10,9 +10,10 @@ weight: 8
 ---
 
 
-[Natural Right]
+<!-- [Natural Right] -->
 
-[IJ In our Tractatus theologico-politicus we dealt with natural rightl and civil right,2 and in our Ethics we explained what is sin, what is righteousness, what is
+
+{{< s v="1" >}} In our Tractatus theologico-politicus we dealt with natural rightl and civil right,2 and in our Ethics we explained what is sin, what is righteousness, what is
 justice, what is injustice,' and what is human freedom.' 
 
 But to save the readers of this treatise the trouble of consulting other works for things that are most closely concerned with this treatise, I have decided to explain them here once more, presenting logical proof.
@@ -26,72 +27,80 @@ I [See TIP 16/526-535.j
 4 [ThIS is the general tOpiC of E5 ]  -->
 
 
-Chapter 2 
+<!-- ## Chapter 2  -->
 
 <!-- 683 -->
 
 {{< s v="2" >}} Any natural thing can be adequately conceived, whether it actually exists or not. 
 
-Therefore, just as the coming into existence of natural things cannot be concluded from their definition, so neither can their perseverance in existing; for their essence in the form of idea is the same after they have begun to exist as it was before they existed. Therefore, just as their coming into existence cannot follow from their essence, so neither can their perseverance in existing. The same power5 that they need in order to begin to exist, they also need in order to continue to exist.
+Therefore, just as the coming into existence of natural things cannot be concluded from their definition, so neither can their perseverance in existing; for their essence in the form of idea is the same after they have begun to exist as it was before they existed. 
 
-Hence it follows that the power of natural things by which they exist, and consequently by which they act, can be no other than the eternal power of God. For if it were some other power, itself created, it would not be able to preserve its own self, and consequently it would not be able to preserve natural things; it would itself stand in need of that same power to persevere in existing as it needed to be created.
+Therefore, just as their coming into existence cannot follow from their essence, so neither can their perseverance in existing. The same power5 that they need in order to begin to exist, they also need in order to continue to exist.
+
+Hence it follows that the power of natural things by which they exist, and consequently by which they act, can be no other than the eternal power of God.
+
+For if it were some other power, itself created, it would not be able to preserve its own self, and consequently it would not be able to preserve natural things; it would itself stand in need of that same power to persevere in existing as it needed to be created.
 
 
 {{< s v="3" >}} So from the fact that the power of natural things by which they exist and act is the very power of God, we can readily understand what is the right of Nature. 
 
-Since God has right over all things, and God's right is nothing other than God's power insofar as that is considered as absolutely free, it follows that every natural thing has as much right from Nature as it has power to exist and to acl For the power of every natural thing by which it exists and acts is nothing other than
-the power of God, which is absolutely free.
+Since God has right over all things, and God's right is nothing other than God's power insofar as that is considered as absolutely free, it follows that every natural thing has as much right from Nature as it has power to exist and to acl For the power of every natural thing by which it exists and acts is nothing other than the power of God, which is absolutely free.
 
-[4] By the right of Nature, then, I understand the laws or rules of Nature in accordance with which all things come to be; that is, the very power of Nature. So the natural right of Nature as a whole, and consequently the natural right of every individual, is coextensive with its power. 6 
+{{< s v="4" >}} By the right of Nature, then, I understand the laws or rules of Nature in accordance with which all things come to be; that is, the very power of Nature. 
+
+So the natural right of Nature as a whole, and consequently the natural right of every individual, is coextensive with its power. 6 
 
 Consequently, whatever each man does from the laws of his own nature, he does by the sovereign right of Nature, and he has as much right over Nature as his power extends.
 
 
-{{< s v="5" >}} So if human nature were so constituted that men lived only as reason prescribes and attempted nothing other than that, then the right of Nature, insofar as that is considered as specific to man , would be determined solely by the power of reason.' 
+{{< s v="5" >}} So if human nature were so constituted that men lived only as reason prescribes and attempted nothing other than that, then the right of Nature, insofar as that is considered as specific to man , would be determined solely by the power of reason.'
 
 But men are led by blind desire more than by reason, and therefore their natural power or right must be defined not by reason but by any appetite by which they may be determined to act and by which they try to preserve themselves. 
 
-I do indeed admit that in the case of those desires that do not arise from reason, men are not so much active as passive. But since we are here discussing the universal power or right of Nature, we cannot acknowledge any difference between desires that are engendered in us by reason and those arising from other causes. For in both cases they are the effects of Nature, explicating the natural force whereby man strives to persist in his own being.8 
+I do indeed admit that in the case of those desires that do not arise from reason, men are not so much active as passive. 
+
+But since we are here discussing the universal power or right of Nature, we cannot acknowledge any difference between desires that are engendered in us by reason and those arising from other causes. 
+
+For in both cases they are the effects of Nature, explicating the natural force whereby man strives to persist in his own being.8 
 
 <!-- Whether a man be wise or
 , [potenfla.] -->
 
-{{< s v="6" >}} [This is probably a veiled critique of Hobbes, who distingUishes natural fight from natural law (De
+<!-- [This is probably a veiled critique of Hobbes, who distingUishes natural fight from natural law (De
 cive XIV, 3), and argues that the latter, lD contrast to the former, IS prescnphve (De elVe II, 1).J
 
-7 [Another veiled cntIque of Hobbes, for whom natural right IS defined In terms of 'right reason' (De
+[Another veiled cntIque of Hobbes, for whom natural right IS defined In terms of 'right reason' (De
 cj" 1, 7).]
 
-8 [in suo esse" The conatus, or dnve for self-preservation, IS the actual essence of the human mdivldual, accordmg to E3 P7, and the source of both acbon and passion (E5P4Schol) 1 
+[in suo esse" The conatus, or dnve for self-preservation, IS the actual essence of the human mdivldual, accordmg to E3 P7, and the source of both acbon and passion (E5P4Schol) 1  -->
 
 
-ignorant, he is a part of Nature, and everything whereby a man is determined to
-act should be referred to the power of Nature insofar as this power is expressed
-through the nature of this or that man. For whether a man is led by reason or solely
-by desire, he does nothing that is not in accordance with the laws and rules ofNature, that is (Section 4 of this Chapter), he acts by the right of Nature.
+ignorant, he is a part of Nature, and everything whereby a man is determined to act should be referred to the power of Nature insofar as this power is expressed through the nature of this or that man. For whether a man is led by reason or solely by desire, he does nothing that is not in accordance with the laws and rules ofNature, that is (Section 4 of this Chapter), he acts by the right of Nature.
 
-[6J Yet most people believe that the ignorant violate the order of Nature rather
-than conform to it; they think of men in Nature as a state within a state. They hold
-that the human mind is not produced by natural causes but is directly created by
-God and is so independen t of other things that it has an absolute power9 to determine itself and to use reason in a correct way. 
 
-But experience teaches us only too well that it is no more in our power to have a sound mind than to have a sound
-body. Again, since each thing, as far as in it lies, endeavours to preserve its own
-being, we cannot have the slightest doubt that, if it were equally in our power to
-live at reason's behest as to be led by blind desire, all would be led by reason and
-would order their lives wisely, which is by no means the case. For everyone is
-drawn by his own pleasure. lO Nor do theologians remove this difficulty by mainta ining that the cause of this weakness in human nature is the vice or sin whose origin was the fall of our first parent. For if the first man, too, had as much power
-to stand as to fall, and ifhe was in his right mind and with his nature unimpaired,
-how could it have come about that knowingly and deliberately he fell? Their answer is that he was deceived by the Devil. But who was it who deceived the Devil?ll Who, I ask, caused the one who was the most outstanding of all intelligent creatures to become so insane that he willed to be greater than God? Did not
-he, who had a sound mind, endeavour to preserve himself and his own being, as
-far as in him lay? Again, how could it have come about that the first man himself,
-being of sound mind and master of his own will, allowed himself to be led astray
-and beguiled? Ifhe had the power to use reason aright, he could not have been
-deceived, for, as far as in him lay he must have endeavoured to preserve his own
-being and his sound mind. 
+{{< s v="6" >}} Yet most people believe that the ignorant violate the order of Nature rather than conform to it; they think of men in Nature as a state within a state. 
 
-But, by hypothesis, this was in fact within his power; therefore he must have preserved his sound mind and could not have been deceived. His history, however, shows this to be false; and so it must be admitted that
-it was not in the power of the first man to use reason aright, and that, like us, he
+They hold that the human mind is not produced by natural causes but is directly created by God and is so independent of other things that it has an absolute power9 to determine itself and to use reason in a correct way.
+
+But experience teaches us only too well that it is no more in our power to have a sound mind than to have a sound body. 
+
+Again, since each thing, as far as in it lies, endeavours to preserve its own being, we cannot have the slightest doubt that, if it were equally in our power to live at reason's behest as to be led by blind desire, all would be led by reason and would order their lives wisely, which is by no means the case. 
+
+For everyone is drawn by his own pleasure. Nor do theologians remove this difficulty by mainta ining that the cause of this weakness in human nature is the vice or sin whose origin was the fall of our first parent.
+
+For if the first man, too, had as much power to stand as to fall, and ifhe was in his right mind and with his nature unimpaired, how could it have come about that knowingly and deliberately he fell? 
+
+Their answer is that he was deceived by the Devil. But who was it who deceived the Devil Who, I ask, caused the one who was the most outstanding of all intelligent creatures to become so insane that he willed to be greater than God? Did not
+he, who had a sound mind, endeavour to preserve himself and his own being, as far as in him lay?
+
+Again, how could it have come about that the first man himself,
+being of sound mind and master of his own will, allowed himself to be led astray and beguiled? 
+
+If he had the power to use reason aright, he could not have been deceived, for, as far as in him lay he must have endeavoured to preserve his own being and his sound mind. 
+
+But, by hypothesis, this was in fact within his power; therefore he must have preserved his sound mind and could not have been deceived. His history, however, shows this to be false. 
+
+And so it must be admitted that it was not in the power of the first man to use reason aright, and that, like us, he
 was subject to passions.
 
 {{< s v="7" >}} Man, like other individual things, endeavours to preserve his own being as far as in him lies. 

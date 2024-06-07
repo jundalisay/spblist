@@ -1,6 +1,6 @@
 ---
 title: "Yang-Mills Theory"
-description: ""
-# image: "/covers/polity.jpg"
-weight: 2
+description: "Yang-Mills Theory is the foundation of the Standard Model that Superphysics aims to replace with the 5 Elements Model of Descartes"
+image: "/covers/yang.png"
+weight: 600
 ---

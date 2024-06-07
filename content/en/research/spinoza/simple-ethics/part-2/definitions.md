@@ -22,10 +22,12 @@ I now explain the results from God's essence, which are able to lead us, as it w
 - Without the thing, the thing's essence also cannot exist nor be conceived.
 
 3. Idea is the mental conception formed by the mind as a thinking thing.
-Explanation=  I say conception instead of perception, because 'perception' seems to imply that the mind is passive in respect to the object; whereas conception seems to express an activity of the mind.
+
+I say conception instead of perception, because 'perception' seems to imply that the mind is passive in respect to the object; whereas conception seems to express an activity of the mind.
 
 4. An adequate idea is an idea which in itself, without relation to the object, has all the properties or intrinsic marks of a true idea.
-Explanation=  I say intrinsic, in order to exclude that mark which is extrinsic or the agreement between the idea and its object (ideatum).
+
+I say intrinsic, in order to exclude that mark which is extrinsic or the agreement between the idea and its object (ideatum).
 
 5. Duration is the indefinite continuance of existing.
 Explanation=  I say indefinite, because it cannot be determined through the existence itself of the existing thing, or by its efficient cause, which necessarily gives the existence of the thing, but does not take it away.

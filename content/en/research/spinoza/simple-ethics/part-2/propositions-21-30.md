@@ -10,13 +10,18 @@ writer:
 
 ## 21. This idea of the mind is united to the mind in the same way as the mind is united to the body. 
 
-<!-- Proof=  That the mind is united to the body we have shown from the fact, that the body is the object of the mind (2.12 and 2.13).
+Proof: The body is the object of the mind (2.12 and 2.13). This is why it is united to the body.  Q.E.D.
 
-And so for the same reason the idea of the mind must be united with its object, that is, with the mind in the same manner as the mind is united to the body. Q.E.D.
-Note=  This proposition is comprehended much more clearly from what we have said in the note to 2.7.
+<!-- And so for the same reason the idea of the mind must be united with its object, that is, with the mind in the same manner as the mind is united to the body.  -->
+
+Note: This proposition is comprehended much more clearly from what we have said in the note to 2.7.
+
 We there showed that the idea of body and body, that is, mind and body (2.13), are one and the same individual conceived now under the attribute of thought, now under the attribute of extension.
+
 Wherefore the idea of the mind and the mind itself are one and the same thing, which is conceived under one and the same attribute, namely, thought.
+
 The idea of the mind, I repeat, and the mind itself are in God by the same necessity and follow from him from the same power of thinking.
+
 Strictly speaking, the idea of the mind, that is, the idea of an idea, is nothing but the distinctive quality (forma) of the idea in so far as it is conceived as a mode of thought without reference to the object;
 if a man knows anything, he, by that very fact, knows that he knows it, and at the same time knows that he knows that he knows it, and so on to infinity.
 But I will treat of this hereafter. -->
