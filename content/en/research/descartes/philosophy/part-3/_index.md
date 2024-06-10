@@ -1,5 +1,5 @@
 ---
-title: "The Principles Of Material Things"
+title: "The Visible World"
 heading: "Part 3"
 linkTitle: Part 3
 # date: 2022-01-29

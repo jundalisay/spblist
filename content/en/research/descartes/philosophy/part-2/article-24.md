@@ -1,6 +1,6 @@
 ---
 title: "True Motion and the Infinite Material Universe"
-heading: Section 3
+heading: Articles 24-25
 weight: 20
 description: "True motion is THE TRANSPORTING OF ONE PART OF MATTER OR OF ONE BODY FROM THE VICINITY OF THOSE BODIES THAT ARE IN IMMEDIATE CONTACT WITH IT, OR WHICH WE REGARD AS AT REST, to the vicinity of other bodies"
 writer:
@@ -8,46 +8,12 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
+aliases:
+  /research/descartes/philosophy/part-2/section-03
 ---
 
 
-
-{{< s v="21" >}} The extension of the world is indefinite
-
-This world or the whole (universitas) of corporeal substance, is extended without limit.
-
-Wherever we fix a limit, we still not only imagine beyond it spaces indefinitely extended, but perceive these to be truly imaginable, in other words, to be in reality such as we imagine them. 
-
-In this way, they contain in them corporeal substance indefinitely extended. This is because  the idea of extension which we conceive in any space whatever is plainly identical with the idea of corporeal substance.
-
-
-{{< s v="22" >}} It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds.
-
-The earth and heavens are made of the same matter. Although there were an infinity of worlds*, they would all be composed of this matter.
-
-> *Superphysics note: The 'worlds' here would mean material galaxies
-
-It follows that a plurality of worlds is impossible. This is because we clearly conceive that the matter (whose nature consists only in its being an extended substance) already totally occupies all the imaginable spaces where these other worlds could alone be. 
-
-We cannot find in ourselves the idea of any other matter.
-
-
-{{< s v="23" >}} All the variety of matter, or the diversity of its forms, depends on motion.
-
-There is therefore just one kind of matter in the whole universe. This we know only by its being extended. 
-
-All the properties we distinctly perceive to belong to it are reducible to its capacity of being divided and moved according to its parts. 
-
-Accordingly, it is capable of all those affections which we perceive can arise from the motion of its parts. 
-
-This is because the partition of matter in thought makes no change in it. But all variation of it, or diversity of form, depends on motion. 
-
-The philosophers even seem universally to have observed this. They said that:
-- nature was the principle of motion and rest
-- 'nature' meant how all corporeal things become such as they are found in experience.
-
-
-{{< s v="24" >}} What is motion?
+### 24. What is motion?
 
 There is only local motion*. 
 
@@ -76,7 +42,7 @@ The person thus seated is more properly said to be at rest than in motion, seein
 
 
 
-{{< s v="25" >}} What is true motion?
+### 25. What is true motion?
 
 True motion is **THE TRANSPORTING OF ONE PART OF MATTER OR OF ONE BODY FROM THE VICINITY OF THOSE BODIES THAT ARE IN IMMEDIATE CONTACT WITH IT, OR WHICH WE REGARD AS AT REST, to the vicinity of other bodies**.
 

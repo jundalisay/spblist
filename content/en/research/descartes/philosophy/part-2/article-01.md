@@ -1,6 +1,6 @@
 ---
 title: "Does Matter Exist?"
-heading: Section 1
+heading: Articles 1-3
 weight: 12
 description: "There exists a certain object extended in length, breadth, and thickness. This extended substance is what we call body or matter"
 writer:
@@ -8,10 +8,12 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
+aliases:
+  /research/descartes/philosophy/part-2/section-01
 ---
 
 
-{{< s v="1">}} The grounds on which the existence of material things may be known with certainty.
+### 1. The grounds on which the existence of material things may be known with certainty.
 
 What is the certainty of the existence of material things?
 
@@ -42,7 +44,7 @@ It follows that there exists a certain object extended in length, width, and thi
 > *Superphysics Note: Descartes defines matter as occupying space, having length, width, thickness or height 
 
 
-{{< s v="2" >}} **How we know that the human body is closely connected with the mind.**
+### 2. How we know that the human body is closely connected with the mind
 
 A certain body is more closely united to our mind than any other. 
 - This is because we clearly observe that sensations affect us without our foreseeing them.
@@ -55,7 +57,7 @@ But this is not the place to treat in detail of this matter.
 
 
 
-{{< s v="3" >}} **The perceptions of the senses do not teach us what is in things in reality.**
+### 3. The perceptions of the senses do not teach us what is in things in reality.
 
 They teach us what is beneficial or hurtful to the composite whole of mind and body.
 
