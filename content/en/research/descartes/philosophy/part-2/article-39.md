@@ -1,7 +1,7 @@
 ---
 title: "The Second Law of Motion"
 heading: Articles 39-40
-weight: 22
+weight: 42
 description: ""
 writer:
   name: Rene Descartes

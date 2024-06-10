@@ -119,54 +119,28 @@ following considerations, but would not affect the results.
 {{< /box >}}
 
 
-From these results it follows that the motion of the electron in any stationary state of a hydrogen atom, which is exposed to a homogeneous magnetic field, will—if we look apart from small quantities proportional to the square of the intensity of the magnetic force and to the product of this intensity with the ratio between the mass of the electron and that of the nucleus—differ from the motion in some stationary state of the atom in the absence of the field, only by a superposed
-uniform rotation round an axis through the nucleus parallel to the magnetic force with a frequency given by (79).
+From these results it follows that the motion of the electron in any stationary state of a hydrogen atom, which is exposed to a homogeneous magnetic field, will—if we look apart from small quantities proportional to the square of the intensity of the magnetic force and to the product of this intensity with the ratio between the mass of the electron and that of the nucleus—differ from the motion in some stationary state of the atom in the absence of the field, only by a superposed uniform rotation round an axis through the nucleus parallel to the magnetic force with a frequency given by (79).
 
-Due to the degenerate character of the system formed by the atom 
+Due to the degenerate character of the system formed by the atom  in the absence of the magnetic field, it is not possible, however, from a consideration of the mechanical effect produced on the motion of the electron by a slow and uniform establishment of the magnetic field, to fix the stationary states of the perturbed atom completely, but in order to fix these states we must consider more closely the relation between the additional energy of the system due to the presence of the magnetic field and the character of the secular perturbations produced by this field on the orbit of the electron. 
 
+On the basis of Larmor’s theorem the discussion of this problem is very simple. In fact, since the frequency vH is independent of the shape and position of the orbit, we may proceed in a manner which is completely analogous to that applied in the fixation of the stationary states of the hydrogen atom in the presence of a homogeneous electric field. 
 
+Thus, looking apart from the effect of the relativity modifications, we may conclude at once that the total energy in the stationary states of the atom will be given by
 
-in the absence of the magnetic field, it is not possible, however, from a consideration of the mechanical effect produced
-on the motion of the electron by a slow and uniform establishment of the magnetic field, to fix the stationary states
-of the perturbed atom completely, but in order to fix these
-states we must consider more closely the relation between the
-additional energy of the system due to the presence of the
-magnetic field and the character of the secular perturbations
-produced by this field on the orbit of the electron. On the
-basis of Larmor’s theorem the discussion of this problem is
-very simple. In fact, since the frequency vH is independent
-of the shape and position of the orbit, we may proceed in
-a manner which is completely analogous to that applied in
-the fixation of the stationary states of the hydrogen atom
-in the presence of a homogeneous electric field. Thus, looking apart from the effect of the relativity modifications, we
-may conclude at once that the total energy in the stationary
-states of the atom will be given by
-
+```
 E = En + nvHh, (80)
+```
 
-where n is an entire number which can be positive as well as
-negative, while En will be equal to the energy in the corresponding stationary state of the undisturbed atom, which is
-given by −Wn in (41). As in the case of the Stark effect,
-it will moreover be seen that this formula includes the values of the energy in such states of the atom, in which the
-electron moves in a circular orbit perpendicular to the direction of the field, and which beforehand must be expected to be included among the stationary states of the perturbed system, since such orbits during a slow and uniform establishment of the external field will not undergo secular perturbations as regards shape and position (compare page 143).
+where n is an entire number which can be positive as well as negative, while En will be equal to the energy in the corresponding stationary state of the undisturbed atom, which is given by −Wn in (41). 
 
-In fact, since in these cases we have P = ±nh/2π, where n is the entire number characterising the stationary states
-of the undisturbed hydrogen atom, it follows from the above that the total energy in the special stationary states under
-consideration will just be represented by the formula (80), if we put n = ±n. From this formula it will be seen at the
-same time, that the presence of the external magnetic field imposes the restriction on the motion in the stationary states
-of the hydrogen atom, that, with neglect of small quantities proportional to H, the angular momentum of the electron
-round the axis of the field will be equal to an entire multiple of h/2π.
+As in the case of the Stark effect, it will moreover be seen that this formula includes the values of the energy in such states of the atom, in which the electron moves in a circular orbit perpendicular to the direction of the field, and which beforehand must be expected to be included among the stationary states of the perturbed system, since such orbits during a slow and uniform establishment of the external field will not undergo secular perturbations as regards shape and position (compare page 143).
+
+In fact, since in these cases we have P = ±nh/2π, where n is the entire number characterising the stationary states of the undisturbed hydrogen atom, it follows from the above that the total energy in the special stationary states under consideration will just be represented by the formula (80), if we put n = ±n. From this formula it will be seen at the same time, that the presence of the external magnetic field imposes the restriction on the motion in the  stationary states of the hydrogen atom, that, with neglect of small quantities proportional to H, the angular momentum of the electron round the axis of the field will be equal to an entire multiple of h/2π.
 
 As regards the expression for the total energy of the hydrogen atom in the presence of the magnetic field, formula (80) is in agreement with the formulæ obtained
-by Sommerfeld and Debye on the basis of the conditions (22), holding for conditionally periodic systems which
-allow of separation of variables. As shown by these authors,
-a system, which consists of an electron moving under the
-influence of the attraction from a fixed nucleus and of a homogeneous magnetic field, allows of separation of variables
-in polar coordinates, if the polar axis is chosen parallel to the
-magnetic field. Looking apart from the effect of the relativity modifications, and choosing for q1, q2, and q3 the length of the radius vector from the nucleus to the electron, the angle between this radius vector and the axis of the system,
-and the angle which the plane through the electron and this
-axis makes with a fixed plane through the axis respectively,
-they obtain the following expression for the total energy:1
+by Sommerfeld and Debye on the basis of the conditions (22), holding for conditionally periodic systems which allow of separation of variables. As shown by these authors, a system, which consists of an electron moving under the influence of the attraction from a fixed nucleus and of a homogeneous magnetic field, allows of separation of variables in polar coordinates, if the polar axis is chosen parallel to the magnetic field. Looking apart from the effect of the relativity modifications, and choosing for q1, q2, and q3 the length of the radius vector from the nucleus to the electron, the angle between this radius vector and the axis of the system, and the angle which the plane through the electron and this axis makes with a fixed plane through the axis respectively, they obtain the following expression for the total energy:
+
+<!-- 1
 )
 E = −
 2π
@@ -180,178 +154,83 @@ h
 ±
 ehn3
 4πmc
-H, (81)
-where n1, n2, and n3 are the integers which appear as factors to Planck’s constant on the right side of the conditions (22). As mentioned this formula gives the same result
-as (80); in fact, if we put n = n1 + n2 + n3 and if we look
-apart from the small correction due to the finite mass of
-the nucleus, the first term in (81) is seen to coincide with
-the expression for −Wn given by (41), while the last term
-in (81) coincides with the last term in (80), if we put n = n3.
-It will be observed, however, that, while in the theories of
-Sommerfeld and Debye the stationary states are characterised by three conditions, only two conditions were necessary on the above considerations in order to secure the right
-1
-) A. Sommerfeld, Phys. Zeitschr. XVII, p. 491 (1916) and P. Debye, Phys. Zeitschr. XVII, p. 507 (1916). While Debye proceeds
-directly by the application of the conditions (22) in a fixed set of
-positional polar coordinates, Sommerfeld determines the stationary
-states by applying these conditions to the motion of the system relative to a set of coordinates which rotates uniformly round the polar
-axis with the frequency vH; a procedure which in the special case under consideration is simply shown to give the same result as the direct
-application of (22) to fixed polar coordinates.
-165
-relation between the energy and frequencies of the system
-in the stationary states. Thus, besides the conditions which
-prescribe the length of the major axis of the rotating orbit
-and the value of the angular momentum of the system round
-the axis of the field, the theories of the mentioned authors
-involve the further condition, that the value of the total angular momentum of the electron round the nucleus must be
-equal to an entire multiple of h/2π; and that consequently
-the minor axis of the orbit has the same values as in a hydrogen atom perturbed by a small external central field (compare page 110). This is due to the circumstance, that the
-perturbed atom forms a degenerate system if we look apart
-from the effect of the relativity modifications, because the
-secular perturbations are simply periodic. From the point of
-view of separation of variables, this degenerate character of
-the system is in the present case, in contrast to the analogous case of the Stark effect, also directly revealed by the
-fact, that a separation can be obtained, not only in polar
-coordinates, but in any set of axial elliptical coordinates for
-which one focus is placed at the nucleus and the other at
-some point on the axis of the field. Just as in the case of the
-Stark effect, however, the system is no more degenerate as
-soon as the relativity modifications are taken into account,
-in which case a separation of variables will still be possible
-but only in polar coordinates. To this point we shall come
-back below.
+H, (81) -->
+
+...
+
+where n1, n2, and n3 are the integers which appear as factors to Planck’s constant on the right side of the conditions (22). As mentioned this formula gives the same result as (80); in fact, if we put n = n1 + n2 + n3 and if we look apart from the small correction due to the finite mass of the nucleus, the first term in (81) is seen to coincide with the expression for −Wn given by (41), while the last term in (81) coincides with the last term in (80), if we put n = n3.
+
+It will be observed, however, that, while in the theories of Sommerfeld and Debye the stationary states are characterised by three conditions, only two conditions were necessary on the above considerations in order to secure the right
+
+<!-- 1
+) A. Sommerfeld, Phys. Zeitschr. XVII, p. 491 (1916) and P. Debye, Phys. Zeitschr. XVII, p. 507 (1916). While Debye proceeds directly by the application of the conditions (22) in a fixed set of positional polar coordinates, Sommerfeld determines the stationary states by applying these conditions to the motion of the system relative to a set of coordinates which rotates uniformly round the polar axis with the frequency vH; a procedure which in the special case under consideration is simply shown to give the same result as the direct application of (22) to fixed polar coordinates. -->
+
+
+relation between the energy and frequencies of the system in the stationary states. Thus, besides the conditions which prescribe the length of the major axis of the rotating orbit and the value of the angular momentum of the system round the axis of the field, the theories of the mentioned authors involve the further condition, that the value of the total angular momentum of the electron round the nucleus must be equal to an entire multiple of h/2π; and that consequently the minor axis of the orbit has the same values as in a hydrogen atom perturbed by a small external central field (compare page 110). 
+
+This is due to the circumstance, that the perturbed atom forms a degenerate system if we look apart from the effect of the relativity modifications, because the secular perturbations are simply periodic. From the point of view of separation of variables, this degenerate character of the system is in the present case, in contrast to the analogous case of the Stark effect, also directly revealed by the fact, that a separation can be obtained, not only in polar coordinates, but in any set of axial elliptical coordinates for which one focus is placed at the nucleus and the other at some point on the axis of the field. 
+
+Just as in the case of the Stark effect, however, the system is no more degenerate as soon as the relativity modifications are taken into account, in which case a separation of variables will still be possible but only in polar coordinates. 
+
+To this point we shall come back below.
+
 The observations on the Zeeman effect of the hydrogen
-lines show that, if the fine structure is neglected, each line
-166
-is in the presence of a magnetic field split up in a normal
-Lorentz triplet; i. e. each line is resolved in three components of which the one is undisplaced and polarised parallel
-to the direction of the field, while the two other components
-possess frequencies, which differ from that of the original line
-by vH, and are circularly polarised in opposite directions in a
-plane perpendicular to the direction of the field. As pointed
-out by Sommerfeld and by Debye, the frequencies of a
-Lorentz triplet are included among the frequencies of the
-components deduced from (81) by application of relation (1).
-In addition to the observed components, however, we might
-from (81) and (1) expect the appearance of a number of components, displaced from the original positions of the lines by
-higher multipla of vH. For the non-appearance of these components the theories of Sommerfeld and Debye offered no
-explanation, no more than for the polarisation of the components observed; except that Sommerfeld in this connection
-draws attention to the fact, that the law governing the observed polarisations exhibits a certain analogy to the empirical rule of Epstein concerning the observed polarisations
-of the components of the Stark effect of the hydrogen lines
-(see page 149). On the other hand, just as in case of the latter effect, an explanation of the number of the components
-observed and their characteristic polarisations is directly obtained on the basis of the general formal relation between
-the quantum theory of line spectra and the ordinary theory
-of radiation. In the first place we have at once from Larmor’s theorem, denoting the frequency of revolution of the
-167
-electron in a stationary state of the undisturbed hydrogen
-atom by ω, that the motion of the electron, in a corresponding stationary state of the atom in the presence of the field,
-may be resolved in a number of linear harmonic vibrations
-parallel to the direction of the magnetic force with frequencies τω, where τ is a positive integer, and in a number of
-circular harmonic rotations perpendicular to this direction
-with frequencies τω +vH or τω −vH, according as the direction of rotation is the same as or the opposite of that of the
-superposed rotation. Next, with neglect of small quantities
-proportional to H2 we have for the difference in the total
-energy between two neighbouring states of the perturbed
-system under consideration
+lines show that, if the fine structure is neglected, each line is in the presence of a magnetic field split up in a normal Lorentz triplet; i. e. each line is resolved in three components of which the one is undisplaced and polarised parallel to the direction of the field, while the two other components possess frequencies, which differ from that of the original line by vH, and are circularly polarised in opposite directions in a plane perpendicular to the direction of the field. 
+
+As pointed out by Sommerfeld and by Debye, the frequencies of a Lorentz triplet are included among the frequencies of the components deduced from (81) by application of relation (1).
+
+In addition to the observed components, however, we might from (81) and (1) expect the appearance of a number of components, displaced from the original positions of the lines by higher multipla of vH. For the non-appearance of these components the theories of Sommerfeld and Debye offered no explanation, no more than for the polarisation of the components observed; except that Sommerfeld in this connection draws attention to the fact, that the law governing the observed polarisations exhibits a certain analogy to the empirical rule of Epstein concerning the observed polarisations of the components of the Stark effect of the hydrogen lines (see page 149). 
+
+On the other hand, just as in case of the latter effect, an explanation of the number of the components observed and their characteristic polarisations is directly obtained on the basis of the general formal relation between the quantum theory of line spectra and the ordinary theory of radiation. In the first place we have at once from Larmor’s theorem, denoting the frequency of revolution of  the electron in a stationary state of the undisturbed hydrogen atom by ω, that the motion of the electron, in a corresponding stationary state of the atom in the presence of the field, may be resolved in a number of linear harmonic vibrations parallel to the direction of the magnetic force with frequencies τω, where τ is a positive integer, and in a number of circular harmonic rotations perpendicular to this direction with frequencies τω +vH or τω −vH, according as the direction of rotation is the same as or the opposite of that of the superposed rotation. Next, with neglect of small quantities proportional to H2 we have for the difference in the total energy between two neighbouring states of the perturbed system under consideration
+
+```
 δE = δE0 + δE = ω δI + vH δI, (82)
-where En and ω are the values of the energy and frequency
-and I is the value of the quantity defined by (5), all corresponding to the state of the undisturbed system which would
-appear if the magnetic force vanished at a slow and uniform
-rate, while E is the additional energy due to the presence of
-the magnetic field and I the angular momentum of the system round the axis of the field multiplied by 2π and taken in
-the same direction as that of the superposed rotation. Since
-(82) has exactly the same form as relation (66), and since in
-the stationary states we have I = nh and I = nh, we are
-therefore from a consideration, quite analogous to that given
-in § 2 on page 114, led to the conclusion, that, in the presence
-of the magnetic field, only two types of transitions between
-168
-stationary states are possible. For both types of transitions
-the integer n may change by any number of units, but in
-transitions of the first type the integer n will remain constant and the emitted radiation will be polarised parallel to
-the direction of the field, while in transitions of the second
-type n will decrease or increase by one unit and the emitted
-radiation will be circularly polarised in a plane perpendicular
-to the field, the direction of the polarisation being the same
-as or the opposite of that of the superposed rotation respectively. Remembering that, with neglect of small quantities
-proportional to the magnetic force, the angular momentum
-of the system round the axis of the field remains unaltered
-in transitions of the first type and changes by h/2π in transitions of the second type, it will be seen that this conclusion
-is independently supported by a consideration of conservation of angular momentum during the transitions, like that
-given in Part I on page 64.
+```
+
+where En and ω are the values of the energy and frequency and I is the value of the quantity defined by (5), all corresponding to the state of the undisturbed system which would appear if the magnetic force vanished at a slow and uniform rate, while E is the additional energy due to the presence of the magnetic field and I the angular momentum of the system round the axis of the field multiplied by 2π and taken in
+the same direction as that of the superposed rotation. 
+
+Since (82) has exactly the same form as relation (66), and since in the stationary states we have I = nh and I = nh, we are therefore from a consideration, quite analogous to that given in § 2 on page 114, led to the conclusion, that, in the presence of the magnetic field, only two types of transitions between stationary states are possible. For both types of transitions the integer n may change by any number of units, but in transitions of the first type the integer n will remain constant and the emitted radiation will be polarised parallel to the direction of the field, while in transitions of the second type n will decrease or increase by one unit and the emitted radiation will be circularly polarised in a plane perpendicular to the field, the direction of the polarisation being the same
+as or the opposite of that of the superposed rotation respectively. 
+
+Remembering that, with neglect of small quantities proportional to the magnetic force, the angular momentum of the system round the axis of the field remains unaltered in transitions of the first type and changes by h/2π in transitions of the second type, it will be seen that this conclusion is independently supported by a consideration of conservation of angular momentum during the transitions, like that given in Part I on page 64.
+
 With reference to formula (80), it will be seen that the
-above results are in complete agreement with the experiments on the Zeeman effect of the hydrogen lines, as regards the frequencies and polarisations of the observed components. On the other hand, the observed intensities are
-directly accounted for, independent of any special theory
-about the origin of the lines. In fact, from a consideration
-of the necessary “stability” of spectral phenomena, it follows that the total radiation of the components, in which a
-spectral line, which originally is unpolarised, is split up in
-the presence of a small external field, cannot show charac-
-169
-teristic polarisation with respect to any direction. In case
-of the Zeeman effect of the hydrogen lines, it is therefore
-necessary beforehand to expect that the intensity of the radiation, summed over all directions, corresponding to each of
-the three components in which every line is split up must be
-the same. From the point of view of the quantum theory of
-line spectra, it will be seen that by means of considerations
-of this kind we may inversely obtain a certain amount of direct quantitative information as regards the probabilities of
-spontaneous transition between different sets of stationary
-states, holding also in the region where the integers characterising these states are not large and where consequently
-the estimate of the values of these probabilities, based on
-the formal relation between the quantum theory and the ordinary theory of radiation, gives results which are only of an
-approximative character. This point will be discussed more
-closely in Kramers’ paper on the relative intensities of the
-components of the fine structure and the Stark effect of the
-hydrogen lines.
+above results are in complete agreement with the experiments on the Zeeman effect of the hydrogen lines, as regards the frequencies and polarisations of the observed components. On the other hand, the observed intensities are directly accounted for, independent of any special theory about the origin of the lines. In fact, from a consideration of the necessary “stability” of spectral phenomena, it follows that the total radiation of the components, in which a spectral line, which originally is unpolarised, is split up in the presence of a small external field, cannot show characteristic polarisation with respect to any direction. 
 
-A procedure quite analogous to that applied above may be used to treat the problem of the effect of a homogeneous magnetic field on the hydrogen spectrum, also when the relativity modifications are taken into account, and when the atoms at the same time are exposed to a small external field
-of force of constant potential, which possesses axial symmetry round an axis through the nucleus parallel to the magnetic force; because also in this case we can obviously make direct use of Larmor’s theorem. 
+In case of the Zeeman effect of the hydrogen lines, it is therefore necessary beforehand to expect that the intensity of the radiation, summed over all directions, corresponding to each of the 3 components in which every line is split up must be the same.
 
-We shall not, however, proceed in this way, but shall come back to these questions when we have shown how, by a simple modification of the
-general considerations of perturbed periodic systems given in § 2, it is possible to represent the theory of the stationary
-states of the hydrogen atom in the presence of a small magnetic field on a form, which allows to discuss the effect on the
-hydrogen spectrum also if the atom is exposed to a magnetic field which is not homogeneous, or to discuss the effect of a
-homogeneous magnetic field if electric forces, which do not possess axial symmetry round an axis through the nucleus
-parallel to the magnetic field, are acting on the atom at the same time.
+From the point of view of the quantum theory of line spectra, it will be seen that by means of considerations of this kind we may inversely obtain a certain amount of direct quantitative information as regards the probabilities of spontaneous transition between different sets of stationary states, holding also in the region where the integers characterising these states are not large and where consequently the estimate of the values of these probabilities, based on the formal relation between the quantum theory and the ordinary theory of radiation, gives results which are only of an approximative character. 
 
-In order to examine the general problem of the secular perturbations of the orbit of the electron in the hydrogen
-atom which take place if the atom is exposed to small external forces which, entirely or partly, are of magnetic origin,
-we shall, as in the usual theory of planetary perturbations,
-take our starting point in the equations of motion in their
-canonical form.
+This point will be discussed more closely in Kramers’ paper on the relative intensities of the components of the fine structure and the Stark effect of the hydrogen lines.
+
+A procedure quite analogous to that applied above may be used to treat the problem of the effect of a homogeneous magnetic field on the hydrogen spectrum, also when the relativity modifications are taken into account, and when the atoms at the same time are exposed to a small external field of force of constant potential, which possesses axial symmetry round an axis through the nucleus parallel to the magnetic force; because also in this case we can obviously make direct use of Larmor’s theorem. 
+
+We shall not, however, proceed in this way, but shall come back to these questions when we have shown how, by a simple modification of the general considerations of perturbed periodic systems given in § 2, it is possible to represent the theory of the stationary states of the hydrogen atom in the presence of a small magnetic field on a form, which allows to discuss the effect on the hydrogen spectrum also if the atom is exposed to a magnetic field which is not homogeneous, or to discuss the effect of a homogeneous magnetic field if electric forces, which do not possess axial symmetry round an axis through the nucleus parallel to the magnetic field, are acting on the atom at the same time.
+
+In order to examine the general problem of the secular perturbations of the orbit of the electron in the hydrogen atom which take place if the atom is exposed to small external forces which, entirely or partly, are of magnetic origin, we shall, as in the usual theory of planetary perturbations, take our starting point in the equations of motion in their canonical form.
 
 Now the equations of motion of an electron of charge −e, which besides by an electric field of potential V
-is acted upon by a magnetic field of vector potential A (defined by div A = 0 and curl A = H, where H is the magnetic
-force considered as a vector), can be written in the Hamiltonian form given by (4), if, just as in the absence of the
-magnetic field, E is taken equal to the sum of the kinetic energy T of the electron and its potential energy −eV relative
-to the electric field, while the momenta which are conjugated
-to the positional coordinates q1, q2, q3 of the electron in space
-171
-are defined by the equations1
-)
-p
+is acted upon by a magnetic field of vector potential A (defined by div A = 0 and curl A = H, where H is the magnetic force considered as a vector), can be written in the Hamiltonian form given by (4), if, just as in the absence of the magnetic field, E is taken equal to the sum of the kinetic energy T of the electron and its potential energy −eV relative to the electric field, while the momenta which are conjugated to the positional coordinates q1, q2, q3 of the electron in space are defined by the equations1) 
+
+<!-- p
 0
 k = pk −
 e
 c
 ∂(vA)
 ∂q˙k
-, (k = 1, 2, 3) (83)
-where the p’s are the momenta defined in the usual way (compare page 15), and where (vA) represents the scalar product
-of the velocity of the electron v and the vector potential A,
-considered as a function of the q’s and of the generalised velocities ˙q1, ˙q2, ˙q3. If we now assume that the effect of the
-magnetic forces on the motion of the electron is so small
-compared with the effect of the electric forces, that in the
-calculations we may look apart from all terms proportional
-to H
-2
-, it is simply seen that the energy function E in (4), obtained by introducing the momenta defined by (83), will differ from the corresponding function, holding in the absence
-of the magnetic field, only by the addition of a term which is
-linear in the momenta and equal to e
-c
-(vA). In fact, denoting
-E expressed as a function of the q’s and p’s by ϕ(p, q), we get
-from (83) together with (4), with the approximation under
-consideration,
-E − ϕ(p
+, (k = 1, 2, 3) (83) -->
+
+...
+
+where the p’s are the momenta defined in the usual way (compare page 15), and where (vA) represents the scalar product of the velocity of the electron v and the vector potential A, considered as a function of the q’s and of the generalised velocities ˙q1, ˙q2, ˙q3. 
+
+If we now assume that the effect of the magnetic forces on the motion of the electron is so small compared with the effect of the electric forces, that in the calculations we may look apart from all terms  proportional to H, it is simply seen that the energy function E in (4), obtained by introducing the momenta defined by (83), will differ from the corresponding function, holding in the absence of the magnetic field, only by the addition of a term which is linear in the momenta and equal to e c (vA). 
+
+In fact, denoting E expressed as a function of the q’s and p’s by ϕ(p, q), we get from (83) together with (4), with the approximation under consideration,
+
+<!-- E − ϕ(p
 0
 , q) = −
 X
@@ -385,17 +264,15 @@ q˙k
 e
 c
 (vA).
-1
-) See f. inst. G. A. Schott: Electromagnetic Radiation, App. F
-(Cambridge, 1912).
-172
-From this it follows that, with neglect of small quantities
-proportional to the square of the magnetic forces, the perturbations of the orbit of the electron in a hydrogen atom,
-which besides to a small external electric field of potential
-is exposed to a small external magnetic field of vector potential A, are given by a set of equations of the same form
-as (44) in § 2, but where the α’s and β’s are replaced by a set
+1 -->
+
+
+See f. inst. G. A. Schott: Electromagnetic Radiation, App. F (Cambridge, 1912).
+
+From this it follows that, with neglect of small quantities proportional to the square of the magnetic forces, the perturbations of the orbit of the electron in a hydrogen atom, which besides to a small external electric field of potential is exposed to a small external magnetic field of vector potential A, are given by a set of equations of the same form as (44) in § 2, but where the α’s and β’s are replaced by a set
 of quantities α
-0
+
+<!-- 0
 1
 , α
 0
@@ -411,22 +288,17 @@ of quantities α
 2
 , β
 0
-3
-, which are related to the q’s
-and p
-0
-’s and the time in the same way as the orbital constants
-α1, α2, α3, β1, β2, β3 for the undisturbed atom are related to
-the q’s and p’s and the time through the equations (18), and
-where Ω is replaced by the expression −eΦ + e
-c
-(vA), considered as a function of the α
-0
-’s and β
-0
-’s and the time. Since
-now, at any moment, the quantities α
-0
+3 -->
+, 
+which are related to the q’s and p 0 ’s and the time in the same way as the orbital constants α1, α2, α3, β1, β2, β3 for the undisturbed atom are related to the q’s and p’s and the time through the equations (18), and
+where Ω is replaced by the expression −eΦ + e c
+(vA), considered as a function of the α 0 ’s and β
+0 ’s and the time. 
+
+Since now, at any moment, the quantities α
+
+
+<!-- 0
 1
 , α
 0
@@ -442,27 +314,14 @@ now, at any moment, the quantities α
 2
 , β
 0
-3
-differ from the corresponding orbital constants α1, α2, α3,
-β1, β2, β3 only by small terms proportional to the intensity
-of the magnetic field, we see therefore that, with neglect of
-small quantities of the same order as the variation in the
-orbital constants within a single period, the secular perturbations of the shape and position of the orbit of the electron
-will again be given by the equations (46), if in the present
-case ψ is taken equal to the sum of the mean value ψE of the
-potential energy −eΦ of the electron relative to the external
-electric forces and the mean value ψM of the quantity e
-c
-(vA),
-both taken over an osculating orbit corresponding to some
-moment during the revolution and expressed as functions of
-173
-α1, α2, α3, β1, β2, β3.
-1
-) The latter mean value, however, is
-easily seen to allow of a simple interpretation. In fact, we
-have
-ψM =
+3 -->
+
+
+differ from the corresponding orbital constants α1, α2, α3, β1, β2, β3 only by small terms proportional to the intensity of the magnetic field, we see therefore that, with neglect of small quantities of the same order as the variation in the orbital constants within a single period, the secular perturbations of the shape and position of the orbit of the electron will again be given by the equations (46), if in the present case ψ is taken equal to the sum of the mean value ψE of the potential energy −eΦ of the electron relative to the external electric forces and the mean value ψM of the quantity e c (vA) both taken over an osculating orbit corresponding to some moment during the revolution and expressed as functions of α1, α2, α3, β1, β2, β3.
+1) The latter mean value, however, is easily seen to allow of a simple interpretation. 
+
+In fact, we have
+<!-- ψM =
 e
 c
 1
@@ -472,36 +331,25 @@ Z σ
 (vA) dt = −
 eω
 c
-B, (84)
-where ω is the frequency of revolution of the electron in the
-osculating orbit, and where B represents the total flux of
-magnetic force through this orbit, taken in the same direction as that of the magnetic force which would arise from the
-motion of the electron according to ordinary electrodynamics.
-From the considerations in § 2 it follows now in the first
-place that, with neglect of small quantities proportional to
-the square of the external forces, ψ = ψE + ψM will remain
-constant during the perturbations within a time interval,
-sufficiently long for the perturbing forces to produce a considerable change in the shape and position of the orbit of the
-electron; i. e. in a time interval of the same order as σ/λ, if
-λ, just as in § 2, denotes a small quantity of the same order as the ratio between the external forces acting on the
-electron and the attraction from the nucleus. From a consideration analogous to that given in § 2, we may further
-1
-) If the relativity modifications are taken into account, the orbit
-of the electron in the undisturbed atom is not strictly periodic, but it
-will be seen that the secular variations of this orbit are still obtained
-from the equations (46), if only, to the expression for ψ as defined in
-the text, a term is added which is equal to the expression for ψ given
+B, (84) -->
+
+...
+
+where ω is the frequency of revolution of the electron in the osculating orbit, and where B represents the total flux of magnetic force through this orbit, taken in the same direction as that of the magnetic force which would arise from the motion of the electron according to ordinary electrodynamics.
+
+From the considerations in § 2 it follows now in the first place that, with neglect of small quantities proportional to the square of the external forces, ψ = ψE + ψM will remain constant during the perturbations within a time interval, sufficiently long for the perturbing forces to produce a considerable change in the shape and position of the orbit of the
+electron; i. e. in a time interval of the same order as σ/λ, if λ, just as in § 2, denotes a small quantity of the same order as the ratio between the external forces acting on the electron and the attraction from the nucleus. From a consideration analogous to that given in § 2, we may further conclude that, in the stationary states of the perturbed system, the quantity ψ = ψE + ψM may be taken equal to the additional energy of the system due to the presence of the external fields. 
+
+> 1) If the relativity modifications are taken into account, the orbit of the electron in the undisturbed atom is not strictly periodic, but it will be seen that the secular variations of this orbit are still obtained
+from the equations (46), if only, to the expression for ψ as defined in the text, a term is added which is equal to the expression for ψ given
 by formula (70) in § 3.
-174
-conclude that, in the stationary states of the perturbed system, the quantity ψ = ψE + ψM may be taken equal to the
-additional energy of the system due to the presence of the
-external fields. In fact, let us imagine that these fields are
-slowly established at a uniform rate within a time interval
-from t = 0 to t = ϑ, where ϑ is a quantity of the same order
-as σ/λ. For the total alteration in the inner energy of the
-system during this process we get then, with neglect of small
-quantities proportional to λ
-2
+
+
+In fact, let us imagine that these fields are
+slowly established at a uniform rate within a time interval from t = 0 to t = ϑ, where ϑ is a quantity of the same order as σ/λ. 
+
+For the total alteration in the inner energy of the system during this process we get then, with neglect of small quantities proportional to λ
+<!-- 2
 ,
 ∆ϑα1 = e
 Z ϑ
@@ -520,15 +368,13 @@ Z ϑ
 0
 ωB
 ϑ
-dt,
-where the first term represents the work done on the system
-by the slowly increasing external electric forces, while the
-second term represents the work performed by the induced
-electric forces which accompany the variation in the intensity
-of the magnetic field. By partial integration of the first term,
-we get from this equation, with the approximation under
-consideration,
-∆ϑα1 − eΦϑ = −
+dt, -->
+
+...
+
+where the first term represents the work done on the system by the slowly increasing external electric forces, while the second term represents the work performed by the induced electric forces which accompany the variation in the intensity of the magnetic field. By partial integration of the first term, we get from this equation, with the approximation under consideration,
+
+<!-- ∆ϑα1 − eΦϑ = −
 e
 ϑ
 Z ϑ
@@ -550,141 +396,80 @@ Z ϑ
 Z ϑ
 0
 ψ dt.
-(85)
-Now the expression on the left side of this equation is equal
-to the change in the total energy of the system due to the
-175
-establishment of the external field. Since the expression on
-the right side is seen to be a small quantity of the same order
-as λα1, it follows therefore from(85) in the first place that
-the secular variations of α2, α3, β2, β3 during the increase
-of the fields will, just as in the case considered in § 2 (see
-page 91), be given by a set of equations of the same form as
-(46), where ψ is replaced by t
+(85) -->
+
+...
+
+The expression on the left side of this equation is equal to the change in the total energy of the system due to the establishment of the external field. Since the expression on the right side is seen to be a small quantity of the same order as λα1, it follows therefore from(85) in the first place that the secular variations of α2, α3, β2, β3 during the increase of the fields will, just as in the case considered in § 2 (see
+page 91), be given by a set of equations of the same form as (46), where ψ is replaced by t
 ϑ
 ψ, and where again α1 may be
-considered as a constant. Also in the present case it follows
-therefore that ψ will remain constant during the establishment of the external fields, and we see consequently that
-the expression on the right side of (85) will be simply equal
-to ψ, a result which, with reference to the principle of the
-mechanical transformability of the stationary states, leads
-to the conclusion mentioned above, that the value of the
-additional energy in the stationary states of the perturbed
-system is given by the value of ψ in these states.
-From the above considerations it follows that the problem
-of the stationary states of the hydrogen atom in the presence
-of external electric and magnetic forces may be treated in a
-manner, which is exactly analogous to that applied in § 2 in
-case of a periodic system exposed to a small external field of
-constant potential. Thus, if the secular perturbations as determined by (46) are of conditionally periodic type, we shall
-expect that, with neglect of small quantities proportional
-to λ, the cycles of shapes and positions which the orbit of the
-electron passes through in the stationary states of the perturbed system will be characterised by the conditions (55),
-176
-and that the possible values of the additional energy of the
-atom in the stationary states will be fixed by these conditions with neglect of small quantities proportional to λ.
+considered as a constant. Also in the present case it follows therefore that ψ will remain constant during the establishment of the external fields, and we see consequently that the expression on the right side of (85) will be simply equal to ψ, a result which, with reference to the principle of the mechanical transformability of the stationary states, leads to the conclusion mentioned above, that the value of the
+additional energy in the stationary states of the perturbed system is given by the value of ψ in these states. 
+
+From the above considerations it follows that the problem of the stationary states of the hydrogen atom in the presence of external electric and magnetic forces may be treated in a manner, which is exactly analogous to that applied in § 2 in case of a periodic system exposed to a small external field of constant potential. 
+
+Thus, if the secular perturbations as determined by (46) are of conditionally periodic type, we shall expect that, with neglect of small quantities proportional
+to λ, the cycles of shapes and positions which the orbit of the electron passes through in the stationary states of the perturbed system will be characterised by the conditions (55), and that the possible values of the additional energy of the atom in the stationary states will be fixed by these conditions with neglect of small quantities proportional to λ.
 
 We shall therefore conclude that, also in the presence of external magnetic forces, the lines of the hydrogen spectrum will, if only the secular perturbations are of conditionally periodic type, be split up in a number of sharp components, the frequencies of which are determined by means of the conditions (67) together with relation (1). As regards the problem of the intensities and polarisation of these components, we may further proceed in a way quite analogous to that
-followed in § 2. In fact, if the secular perturbations are of conditionally periodic type, the displacement of the electron
-in any given direction may be represented as a sum of harmonic vibrations by an expression of the same type as (65).
-Moreover it can be proved that the difference in the total energy of two neighbouring states of the perturbed atom will
-again be given by the expression (66).
+followed in § 2.
 
-The general considerations in § 2 will therefore apply without alterations to the problem of the intensity and polarisation of the components
-into which the hydrogen lines are split up in the presence of small external forces, also if these forces are entirely or
-partly of magnetic origin. Similarly, it will be seen that the effect on the spectrum of a perturbed hydrogen atom, which
+In fact, if the secular perturbations are of conditionally periodic type, the displacement of the electron in any given direction may be represented as a sum of harmonic vibrations by an expression of the same type as (65).
 
-Compare Note on page 112. Also in the presence of small magnetic forces, it will be possible to describe the motion of the perturbed
-system by means of a suitably chosen set of angle variables, if only the
-secular perturbations are of conditionally periodic type.
+Moreover it can be proved that the difference in the total energy of two neighbouring states of the perturbed atom will again be given by the expression (66).
 
-will be due to the presence of a second external field small compared with the first, also in this case may be discussed
+The general considerations in § 2 will therefore apply without alterations to the problem of the intensity and polarisation of the components into which the hydrogen lines are split up in the presence of small external forces, also if these forces are entirely or partly of magnetic origin. Similarly, it will be seen that the effect on the spectrum of a perturbed hydrogen atom, which will be due to the presence of a second external field small compared with the first, also in this case may be discussed
 directly by means of the considerations at the end of § 2. 
 
-We meet with a direct application of the preceding considerations, if the hydrogen atom is exposed to the simultaneous influence of an external electric and an external magnetic field, which possess axial symmetry round a common axis through the nucleus. Introducing the same set of orbital
-constants as described in § 2 on page 104, we get in this case that ψM, as well as ψE, and consequently the function
-ψ = ψE + ψM which enters in the equations (46), will, besides on α1, depend on α2, β2 and α3 but not on β3. The
-general character of the secular perturbations of the orbit of
-the electron will therefore be the same as in the case, considered in § 2, where the atom is exposed only to an electric field
-of axial symmetry, and the conditions which fix the stationary states of the perturbed atom will again be expressed by
+> Bohr Note: Compare Note on page 112. Also in the presence of small magnetic forces, it will be possible to describe the motion of the perturbed system by means of a suitably chosen set of angle variables, if only the secular perturbations are of conditionally periodic type.
+
+
+
+We meet with a direct application of the preceding considerations, if the hydrogen atom is exposed to the simultaneous influence of an external electric and an external magnetic field, which possess axial symmetry round a common axis through the nucleus. Introducing the same set of orbital constants as described in § 2 on page 104, we get in this case that ψM, as well as ψE, and consequently the function ψ = ψE + ψM which enters in the equations (46), will, besides on α1, depend on α2, β2 and α3 but not on β3. 
+
+The general character of the secular perturbations of the orbit of the electron will therefore be the same as in the case, considered in § 2, where the atom is exposed only to an electric field of axial symmetry, and the conditions which fix the stationary states of the perturbed atom will again be expressed by
 the relations (61). 
 
-As regards the question of the probability of spontaneous transition between the stationary states, we
-get moreover, just as in § 2, from a consideration of the harmonic vibrations into which the motion of the electron can be
-resolved, that only two types of transitions will be possible;
-in transitions of the first type n2 remains unaltered, and the
-accompanying radiation is polarised parallel to the direction
-of the common axis of the perturbing fields; in transitions of
-the second type n2 decreases or increases by one unit, and
-the accompanying radiation will be circularly polarised in a
-plane perpendicular to this axis. In this connection it may
-178
-be remarked, however, that the number of components, into
-which a given hydrogen line is split up in the presence of
-a magnetic field, will in general be double as large as the
-number of components which appear in the presence of an
-external electric field of axial symmetry. In fact, in the latter
-case the motions of the electron in two stationary states of
-the perturbed atom, corresponding to the same value of n,
-will be symmetrical with respect to a plane through the axis,
-and these states will possess the same values for the additional energy, if n1 is the same while the values of n2 are numerically equal but have opposite signs. On the other hand,
-if the atom is exposed also to a magnetic field, this will not
-hold, because the value of the function ψM, in contrast to
-the value of ψE, will not possess the same sign for two orbits
-which have the same shape and position relative to the axis,
-but for which the direction of revolution of the electron is
-reversed. Considering two states of the perturbed atom for
-which the values of n1 are the same and the values of n2 are
-numerically equal but have opposite signs, we get therefore,
-if the atom is exposed only to a magnetic field of axial symmetry, that the values of the additional energy will be equal
-with exception of the sign; while, if the atom is exposed to a
-magnetic as well as to an electric field, the additional energy
-in two such states will in general differ also as regards its numerical value. In contrast to what in general will take place
-if the atom is exposed to an electric field of axial symmetry,
-it will thus be seen that, if the hydrogen atom is exposed only
-to a magnetic field possessing axial symmetry, the ensemble
-179
-of components into which a given hydrogen line is resolved
-will be completely symmetrical with respect to the position
-of the original line, as regards the frequencies as well as the
-intensities and polarisations. Moreover it follows from the
-above, that if we consider a hydrogen atom exposed to an
-electric field of axial symmetry and imagine that an external
-magnetic field, which possesses symmetry round the same
-axis, is gradually established, each component which appears
-in the presence of the first field only will split up into two
-components, in such a way that each component polarised
-parallel to the axis will split up into two components of the
-same polarisation, while each component polarised perpendicular to the axis, and which originally showed no polarisation when viewed in a direction parallel to the axis, will
-split up into two components showing circular polarisations
-in opposite directions. If the magnetic field is small, the new
-components will be placed symmetrically with respect to the
-position of the original components and their intensities will
-be approximately equal, but when the perturbing influence
-of the magnetic forces on the motion of the electron becomes
-of the same order of magnitude as that of the external electric
-forces, the components in question will in general be placed
-unsymmetrically with respect to their original position, and
-their intensities may differ considerably.
+As regards the question of the probability of spontaneous transition between the stationary states, we get moreover, just as in § 2, from a consideration of the harmonic vibrations into which the motion of the electron can be resolved, that only two types of transitions will be possible.
+
+In transitions of the first type n2 remains unaltered, and the accompanying radiation is polarised parallel to the direction of the common axis of the perturbing fields; in transitions of the second type n2 decreases or increases by one unit, and the accompanying radiation will be circularly polarised in a plane perpendicular to this axis. In this connection it may be remarked, however, that the number of components, into which a given hydrogen line is split up in the presence of a magnetic field, will in general be double as large as the number of components which appear in the presence of an external electric field of axial symmetry. 
+
+In fact, in the latter case the motions of the electron in two stationary states of the perturbed atom, corresponding to the same value of n, will be symmetrical with respect to a plane through the axis, and these states will possess the same values for the additional energy, if n1 is the same while the values of n2 are numerically equal but have opposite signs. On the other hand, if the atom is exposed also to a magnetic field, this will not hold, because the value of the function ψM, in contrast to the value of ψE, will not possess the same sign for two orbits which have the same shape and position relative to the axis, but for which the direction of revolution of the electron is reversed. 
+
+Considering two states of the perturbed atom for which the values of n1 are the same and the values of n2 are numerically equal but have opposite signs, we get therefore, if the atom is exposed only to a magnetic field of axial symmetry, that the values of the  additional energy will be equal with exception of the sign; while, if the atom is exposed to a magnetic as well as to an electric field, the additional energy in two such states will in general differ also as regards its numerical value. 
+
+
+If the hydrogen atom is exposed only to a magnetic field possessing axial symmetry, hydrogen line will be produced. Its components will be completely symmetrical with respect to the position of the original line based on:
+- the frequencies
+- the intensities
+- polarisations. 
+
+This is in contrast to the result if the atom is exposed to an *electric* field of axial symmetry. 
+
+If a hydrogen atom is exposed to an electric field of axial symmetry and imagine that an external magnetic field, which possesses symmetry around the same axis, is gradually established, each component which appears in the presence of the first field only will split up into 2 components. 
+
+Each component polarised
+parallel to the axis will split up into 2 components of the same polarisation. 
+
+Ech component polarised perpendicular to the axis, and which originally showed no polarisation when viewed in a direction parallel to the axis, will split up into 2 components showing circular polarisations in opposite directions. 
+
+If the magnetic field is small, the new components will be placed symmetrically with respect to the position of the original components and their intensities will be approximately equal, but when the perturbing influence of the magnetic forces on the motion of the electron becomes of the same order of magnitude as that of the external electric forces, the components in question will in general be placed unsymmetrically with respect to their original position, and their intensities may differ considerably.
+
 An especially simple example of a magnetic field which
-possesses axial symmetry is afforded by the case of a homogeneous magnetic field, discussed in the beginning of this
-section. In this case we have that the total magnetic flux of
-180
-force through the orbit of the electron is equal to the product of the intensity H of the magnetic field and the area of
-the projection of the orbit on a plane perpendicular to this
-field. Since this area is equal to α3/2mω, we get consequently
+possesses axial symmetry is afforded by the case of a homogeneous magnetic field, discussed in the beginning of this section. 
+
+In this case we have that the total magnetic flux of force through the orbit of the electron is equal to the product of the intensity H of the magnetic field and the area of the projection of the orbit on a plane perpendicular to this field. 
+
+Since this area is equal to α3/2mω, we get consequently
 from (84)
-ψM =
+<!-- ψM =
 eα3
 2cm
-H. (86)
-From the equations (46) it follows therefore that the effect of
-a homogeneous magnetic field, which acts upon a hydrogen
-atom which at the same time is exposed to an external electric field possessing axial symmetry round an axis through
-the nucleus parallel to the magnetic force, will consist in a
-superposition of a uniform rotation of the orbit round the
-axis with a frequency equal to
-vH =
+H. (86) -->
+
+From the equations (46) it follows therefore that the effect of a homogeneous magnetic field, which acts upon a hydrogen atom which at the same time is exposed to an external electric field possessing axial symmetry round an axis through the nucleus parallel to the magnetic force, will consist in a superposition of a uniform rotation of the orbit round the axis with a frequency equal to 
+<!-- vH =
 1
 2π
 ∂ψM
@@ -692,67 +477,34 @@ vH =
 =
 e
 4πmc
-H
-on the secular perturbations which would take place in the
-absence of the magnetic field. This result follows also directly from Larmor’s theorem, on which the simple considerations about the effect of a homogeneous magnetic field in
-the beginning of this section were based. Since a superposed
-rotation as that in question will not influence the shape of
-the orbit of the electron or its position relative to the axis,
-it follows from (61) that the value of ψE in the stationary
-states of the atom will not be affected by the presence of the
-magnetic field, and that consequently the effect of this field
-on the additional energy of the system will simply consist in
-181
-the addition of a term given by
-ψM =
+H -->
+on the secular perturbations which would take place in the absence of the magnetic field. 
+
+This result follows also directly from Larmor’s theorem, on which the simple considerations about the effect of a homogeneous magnetic field in the beginning of this section were based. 
+
+Since a superposed rotation as that in question will not influence the shape of the orbit of the electron or its position relative to the axis, it follows from (61) that the value of ψE in the stationary states of the atom will not be affected by the presence of the
+magnetic field, and that consequently the effect of this field on the additional energy of the system will simply consist in the addition of a term given by
+
+<!-- ψM =
 e
 2mc
 n2h
 2π
-H = n2vHh. (87)
-This result was also to be expected from a simple consideration of the mechanical effect produced on the motion by a
-slow and uniform establishment of the magnetic field (compare page 159). With reference to the above considerations
-as regards the probability of transition between stationary
-states, it will be seen to follow from (87), that the presence
-of the homogeneous magnetic field will leave the components
-polarised parallel to the axis unaltered, but will cause every
-component, which in the absence of the field was polarised
-perpendicular to the axis, to split up in a symmetrical doublet the members of which will show circular polarisation in
-opposite directions, when viewed in the direction of the axis,
-and will be displaced from the position of the original component by an amount corresponding to a frequency difference
-equal to vH.
-A simple application of the last result is afforded by the
-problem of the simultaneous effect on the hydrogen lines of
-a homogeneous electric and a homogeneous magnetic field
-which have the same direction. Thus, if the intensities of the
-fields are so large that we may look apart from the small
-modifications claimed by the theory of relativity, we shall
-from the above expect that the effect in question will differ
-from the ordinary Stark effect of the hydrogen lines, only
-therein that every component polarised perpendicular to the
-182
-field is split up in two symmetrical components corresponding to the outer members of a Lorentz triplet. This seems
-to agree with some observations of the effect of two such fields
-on the hydrogen line Hα, published by Garbasso.
-1
-) The
-problem in question might also have been treated by means
-of the method of separation of variables, because, as may be
-easily shown, the perturbed system—if the relativity modifications are neglected—allows of separation of variables in
-parabolic coordinates, just as in the presence of the electric
-field only. If, on the other hand, the relativity modifications
-are taken into account, the method of separation of variables
-cannot be applied, but, with reference to the considerations
-at the end of the last section, it will be seen that it is possible,
-also in this case, to predict at once the modification in the
-effect of an electric field on the fine structure of the hydrogen
-lines, which would result from the simultaneous presence of
-a parallel magnetic field. Passing to the limiting case where
-the intensity of the electric field is equal to zero, it will thus
-be seen at once from the preceding, that the effect of a homogeneous magnetic field on the fine structure of the hydrogen
-lines will consist in the splitting up of every component in
-a normal Lorentz triplet. As far as the frequencies of the
-components are concerned, this result has been predicted by
+H = n2vHh. (87) -->
+
+
+This result was also to be expected from a simple consideration of the mechanical effect produced on the motion by a slow and uniform establishment of the magnetic field (compare page 159). With reference to the above considerations as regards the probability of transition between stationary states, it will be seen to follow from (87), that the presence of the homogeneous magnetic field will leave the components
+polarised parallel to the axis unaltered, but will cause every component, which in the absence of the field was polarised perpendicular to the axis, to split up in a symmetrical doublet the members of which will show circular polarisation in opposite directions, when viewed in the direction of the axis, and will be displaced from the position of the original component by an amount corresponding to a frequency difference equal to vH.
+
+A simple application of the last result is afforded by the problem of the simultaneous effect on the hydrogen lines of a homogeneous electric and a homogeneous magnetic field which have the same direction. Thus, if the intensities of the fields are so large that we may look apart from the small modifications claimed by the theory of relativity, we shall from the above expect that the effect in question will differ from the ordinary Stark effect of the hydrogen lines, only therein that every component polarised perpendicular to the field is split up in two symmetrical components corresponding to the outer members of a Lorentz triplet. 
+
+This seems to agree with some observations of the effect of two such fields on the hydrogen line Hα, published by Garbasso.
+
+1) The problem in question might also have been treated by means of the method of separation of variables, because, as may be easily shown, the perturbed system—if the relativity modifications are neglected—allows of separation of variables in
+parabolic coordinates, just as in the presence of the electric field only. If, on the other hand, the relativity modifications are taken into account, the method of separation of variables cannot be applied, but, with reference to the considerations at the end of the last section, it will be seen that it is possible, also in this case, to predict at once the modification in the effect of an electric field on the fine structure of the hydrogen lines, which would result  from the simultaneous presence of a parallel magnetic field. Passing to the limiting case where the intensity of the electric field is equal to zero, it will thus
+be seen at once from the preceding, that the effect of a homogeneous magnetic field on the fine structure of the hydrogen lines will consist in the splitting up of every component in a normal Lorentz triplet. 
+
+As far as the frequencies of the components are concerned, this result has been predicted by
 Sommerfeld and Debye, who have treated the problem
 under consideration by means of separation of variables in
 polar coordinates (compare page 165). In connection with
@@ -968,94 +720,40 @@ vibrations, in which the motion in this direction could be resolved if the exter
 one of the small frequencies of type |t1v1 + v2|, which appear in the expression for the secular perturbations of the
 electron in this case. A part of these additional vibrations
 will again possess frequencies of the types |τωP + t1v1| and
-|τωP + t1v1 + v2|, and will cause that the motion, instead of
-191
-consisting of vibrations which are exactly linear and exactly
-circular as in the case where the external fields are parallel to
-each other, will be composed of elliptical harmonic vibrations
+|τωP + t1v1 + v2|, and will cause that the motion, instead of consisting of vibrations which are exactly linear and exactly circular as in the case where the external fields are parallel to each other, will be composed of elliptical harmonic vibrations
 which partly are nearly linear and parallel to the direction
 of the stronger field and partly nearly circular and perpendicular to this direction. On account of this we shall expect
-that, due to the presence of the perpendicular component of
-the weaker field, the different components mentioned above
-will not be sharply polarised. Further there will, in the motion of the perturbed atom, also appear a number of circular
-harmonic rotations perpendicular to the stronger field, the
-amplitudes of which are small quantities proportional to µ,
-and the frequencies of which are of the type |τωP +t1v1+2v2|.
-From this we shall expect the appearance in the spectrum of
-a number of new weak components, corresponding to a type
-of transition between stationary states which would not be
-possible if the two external fields were parallel to each other.
-When considering more closely the frequencies of these new
-components, it must be remembered, however, that, as mentioned above, the present method of treating the problem
-of the perturbations assures us of the conditionally periodic
-character of the motion of the electron within a time interval of the same order of magnitude as σ/λ, only if we look
-apart from small quantities of the same order as µ
-2
-; and we
-must therefore be prepared to find that the frequencies of the
-vibrations of small amplitudes will not be defined with the
-same degree of approximation as the frequencies of the vibrations of large amplitudes. Thus, while the frequencies of
-192
-the latter vibrations are defined with neglect of small quantities proportional to λµ2
-, the frequencies of the small vibrations under consideration are obviously defined only with
-neglect of small quantities proportional to λµ. In intimate
-connection with the general want of definition of the energy
-in the stationary states for perturbed systems of the type in
-question, we must accordingly be prepared to find that, in
-contrast to the strong components, for which we may expect
-that by far the larger part of the intensity is contained within
-a spectral interval of a width proportional to λµ2
-, the new
-components will be diffused over spectral intervals of a width
-proportional to λµ.
-1
-) Thus, in case the effect of the exter1
-) Compare Note on page 119. With reference to the general validity
-of relation (1), it will be seen that the assumption, that the weak components possess this degree of diffusion, implies the assumption, that
-the corresponding transitions (the probability of occurrence of which is
-very small compared with the probability of the transitions responsible
-for the strong components) will generally take place between two states
-of the perturbed atom, which do not both belong to the well defined
-ensemble of stationary states in which at any moment the great majority among a large number of atoms will be present. Thus, in case
-the effect of the external electric field is large compared with that of
-the magnetic field, we may expect that, in both states involved in the
-transitions in question, the positions of the plane in which the electrical
-centre moves will coincide with positions of this plane in states belonging to the ensemble just mentioned, while the angular momentum of
-the electron round the axis of the electric field will generally change
-by an amount which will not be equal to an entire multiple of h/2π.
-On the other hand, if the effect of the magnetic field is the larger, the
-angular momentum of the electron round the axis of this field will, in
-193
-nal electric field is large compared with that of the magnetic
-field, we might expect at first sight that, on each side of every of the Stark effect components polarised parallel to the
-electric force, there would appear a weak component which
-would be circularly polarised and be displaced from this component by an amount twice that of the displacement of the
-strong components into which the perpendicularly polarised
-Stark effect components are split up as a consequence of
-the small magnetic field. We must be prepared, however, to
-find that these weak components will be so diffuse, that they
-are not separated from the weak perpendicular component
-which has the same frequency as the strong parallel components on each side of which the weak components under
-consideration would lie, and which appears as a consequence
-of the above mentioned want of sharpness as regards the polarisation of the strong components. On the other hand, if
-the effect of the magnetic field is large compared with that
-of the electric field, any weak component of the type under
-consideration, which corresponds to transitions in which the
-angular momentum of the electron round the axis of the magnetic field changes by two times h/2π, will lie at a distance
-from the original hydrogen line, which is approximately twice
-as large as that of the outer components of the normal Zeethe transitions in question, change by two times h/2π, while we may
-expect that the plane in which the electrical centre moves will generally,
-in at least one of the states involved in these transitions, differ from
-the positions of this plane in the ensemble of stationary states referred
-to.
-194
-man effect, and will therefore be distinctly separated from
-the strong components into which each of the components
-of the normal Zeeman effect is split up in the presence of
-the small electric field. We must be prepared, however, to
-find that the weak components will not, as it might be expected at first sight, form two sets of distinctly separated
-lines, but that they will only appear as two diffuse lines of
-circular polarisation in opposite directions and of a spectral
-width proportional to λµ.
-1
+that, due to the presence of the perpendicular component of the weaker field, the different components mentioned above will not be sharply polarised. Further there will, in the motion of the perturbed atom, also appear a number of circular harmonic rotations perpendicular to the stronger field, the amplitudes of which are small quantities proportional to µ, and the frequencies of which are of the type |τωP +t1v1+2v2|.
+
+
+From this we shall expect the appearance in the spectrum of a number of new weak components, corresponding to a type of transition between stationary states which would not be possible if the two external fields were parallel to each other.
+
+When considering more closely the frequencies of these new components, it must be remembered, however, that, as mentioned above, the present method of treating the problem of the perturbations assures us of the conditionally periodic character of the motion of the electron within a time interval of the same order of magnitude as σ/λ, only if we look apart from small quantities of the same order as µ.
+
+We must therefore find that the frequencies of the vibrations of small amplitudes will not be defined with the same degree of approximation as the frequencies of the vibrations of large amplitudes. 
+
+Thus, while the frequencies of the latter vibrations are defined with neglect of small quantities proportional to λµ2 , the frequencies of the small vibrations under consideration are obviously defined only with neglect of small quantities proportional to λµ. 
+
+In intimate connection with the general want of definition of the energy in the stationary states for perturbed systems of the type in question, we must accordingly be prepared to find that, in contrast to the strong components, for which we may expect that by far the larger part of the intensity is contained within a spectral interval of a width proportional to λµ2, the new components will be diffused over spectral intervals of a width proportional to λµ.
+
+
+1) Thus, in case the effect of the external electric field is large compared with that of the magnetic field, we might expect at first sight that, on each side of every of the Stark effect components polarised parallel to the electric force, there would appear a weak component which would be circularly polarised and be displaced from this component by an amount twice that of the displacement of the strong components into which the perpendicularly polarised Stark effect components are split up as a consequence of the small magnetic field. 
+
+Compare Note on page 119. With reference to the general validity of relation (1), it will be seen that the assumption, that the weak components possess this degree of diffusion, implies the assumption, that the corresponding transitions (the probability of occurrence of which is very small compared with the probability of the transitions responsible for the strong components) will generally take place between two states of the perturbed atom, which do not both belong to the well defined ensemble of stationary states in which at any moment the great majority among a large number of atoms will be present. 
+
+Thus, in case the effect of the external electric field is large compared with that of the magnetic field, we may expect that, in both states involved in the transitions in question, the positions of the plane in which the electrical centre moves will coincide with positions of this plane in states belonging to the ensemble just mentioned, while the angular momentum of the electron round the axis of the electric field will generally change by an amount which will not be equal to an entire multiple of h/2π. 
+
+On the other hand, if the effect of the magnetic field is the larger, the angular momentum of the electron round the axis of this field will, in
+
+
+
+These weak components will be so diffuse, that they are not separated from the weak perpendicular component which has the same frequency as the strong parallel components on each side of which the weak components under consideration would lie, and which appears as a consequence of the above mentioned want of sharpness as regards the polarisation of the strong components. 
+
+On the other hand, if the effect of the magnetic field is large compared with that of the electric field, any weak component of the type under consideration, which corresponds to transitions in which the angular momentum of the electron round the axis of the magnetic field changes by two times h/2π, will lie at a distance
+from the original hydrogen line, which is approximately twice as large as that of the outer components of the normal  Zeeman effect, and will therefore be distinctly separated from the strong components into which each of the components of the normal Zeeman effect is split up in the presence of the small electric field. We must be prepared, however, to find that the weak components will not, as it might be expected at first sight, form two sets of distinctly separated lines, but that they will only appear as two diffuse lines of circular polarisation in opposite directions and of a spectral width proportional to λµ.
+
+
+
+the transitions in question, change by two times h/2π, while we may expect that the plane in which the electrical centre moves will generally, in at least one of the states involved in these transitions, differ from
+the positions of this plane in the ensemble of stationary states referred to.
 

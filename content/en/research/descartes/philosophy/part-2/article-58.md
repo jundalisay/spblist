@@ -1,3 +1,16 @@
+---
+title: "Solids and Fluids in Motion"
+heading: Articles 58-60
+weight: 52
+description: "If the particles of a fluid move more slowly than a hard body existing in it, it does not have the character of a fluid in this respect"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+image: "/covers/philos.png"
+icon: "/icons/descartes.png"
+---
+
+
 ### 58. If the particles of a fluid move more slowly than a hard body existing in it, it does not have the character of a fluid in this respect.
 
 

@@ -97,6 +97,10 @@ Those lines `earth-R`, `earth-4`, and ones like them are so extremely long compa
 
 The same star can often appear in different places because of the different edges that divert its rays toward the earth.
 
+{{< img src="/graphics/physics/lensingangles.png" alt="Lensing" cap="Superphysics Note: Here we put the modern representation of gravitational lensing which is  consistent with the graphic at the start of this Chapter. Unlike Modern Physics which sources the cause of lensing to dark matter which does not exist, Descartes sources it from the spatial territory of the star or galaxy itself. Unlike Newton's space which is based on the central mass, this Cartesian space is based on the *edge* of the territory. This is why a blob of a non-spiral galaxy can have lensing measured from its edges and not from its non-center" >}}
+
+
+
 For example, `sirius` appears simultaneously:
 - in the line `earth-4` because of the ray `sirius-2-4-earth` 
 - in the line `earth-f` because of the ray `sirius-6-f-earth`

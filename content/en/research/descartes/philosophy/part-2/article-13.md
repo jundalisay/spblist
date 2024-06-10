@@ -1,7 +1,7 @@
 ---
 title: "Cartesian Relativity"
 heading: Articles 13-15
-weight: 16
+weight: 20
 description: "How space is not in reality different from corporeal substance"
 writer:
   name: Rene Descartes

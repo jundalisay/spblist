@@ -8,22 +8,23 @@ contributors: ['Bohr']
 ---
 
 
-A detailed theory of the characteristic effect of an external homogeneous electric field consideration obtains a striking confirmation by the observation of the appearance of new series of lines in the ordinary series spectra of helium and other elements, when the atoms are exposed to an intense external electric field. 
+Epstein and Schwarzschild have given a detailed theory of the effect of an external homogeneous electric field on the hydrogen spectrum, discovered by Stark. 
 
-As it will be discussed more closely in Part III, 
+Their basis was the general theory of conditionally periodic systems which allow of separation of variables. 
 
-It is possible in this way to account in detail for the manifold results, regarding the appearance of such series in the helium spectrum, which
-have been published quite recently by J. Stark (Ann. d. Phys. LVI, p. 577 (1918)) and by G. Liebert (ibid. LVI, p. 589 and p. 610 (1918)).
+This problem may solved simply through the considerations about perturbed periodic systems, developed in Section 2.
 
-on the hydrogen spectrum, discovered by Stark, has been given by Epstein and Schwarzschild on the basis of the
-general theory of conditionally periodic systems which allow
-of separation of variables. Before we enter on the discussion
-of the results of the calculations of these authors, we shall
-first, however, show how the problem may be treated in a
-simple way by means of the considerations about perturbed
-periodic systems, developed in § 2.
 
-Consider an electron of mass `m` and charge `−e`. This rotates around a positive nucleus of infinite mass and of charge `Ne`. It is subject to a homogeneous electric field of intensity `F`. 
+<!-- consideration obtains a striking confirmation by the observation of the appearance of new series of lines in the ordinary series spectra of helium and other elements, when the atoms are exposed to an intense external electric field. 
+
+It is possible in this way to account in detail for the manifold results, regarding the appearance of such series in the helium spectrum, which have been published quite recently by J. Stark (Ann. d. Phys. LVI, p. 577 (1918)) and by G. Liebert (ibid. LVI, p. 589 and p. 610 (1918)).
+
+As it will be discussed more closely in Part III,  -->
+
+
+Consider an electron of mass `m` and charge `−e`. This rotates around a positive nucleus of infinite mass and of charge `Ne`. 
+
+It is subject to a homogeneous electric field of intensity `F`. 
 
 We shall neglect the small effect of the Relativity modifications.
 
@@ -32,38 +33,41 @@ Using rectangular coordinates, and taking the nucleus as origin and the z-axis p
 
 Calculating now the mean value of Ω over a period σ of the undisturbed motion, we see at once, from considerations of symmetry, that this mean value ψ will depend only on the component of the external electric force in the direction of the major axis of the orbit. We have therefore
 
-```
+
+...
+<!-- ```
 ψ = eF cos ϕ
 1
 σ
 Z σ
 0
 r cos ϑ dt,
-```
+``` -->
 
 where:
 - ϕ is the angle between the z-axis and the major axis, taken in the direction from the nucleus to the aphelium, and
 - r is the length of the radius-vector from the nucleus to the electron, and ϑ the angle between this radius-vector
 and the major axis. By means of the well known equations for a Keplerian motion
 
-```
+<!-- ```
 r cos ϑ = α(cos u + ε),
 dt
 σ
 = (1 + ε cos u)
 du
-2π
-```
+2π```
+ -->
 
+
+...
 
 where:
 - 2α is the major axis, ε the eccentricity and u the so
 called eccentric anomaly, this gives
 
-```
-ψ = eF cos ϕ
-1
-2π
+<!-- ψ = eF cos ϕ
+
+1 2π
 Z 2π
 0
 α(cos u + ε)(1 + ε cos u) du
@@ -71,17 +75,16 @@ Z 2π
 3
 2
 εαeF cos ϕ.
-(74)
-```
+(74)  -->
 
-Thus, `ψ` is equal to the potential energy relative to the external field, which the system would possess, if the electron was placed at a point, situated on the major axis of the ellipse and dividing the distance 2εa between the foci in the ratio 3 : 1. This point may be denoted as
-the “electrical centre” of the orbit. 
 
-From the approximate constancy of ψ during the motion, proved in § 2, it follows therefore in the first place that, with neglect of small quantities of the same order of magnitude as the ratio between the external force and the attraction from the nucleus, the electrical centre will during the perturbations of the orbit remain in a fixed plane perpendicular to the direction of the external force. From the considerations in § 2 it follows further, that the total energy in the stationary states of the system in the presence of the field, with neglect of small quantities
-proportional to F 
-, will be equal to En + ψ, where En is the
-energy of the hydrogen atom in its undisturbed stationary
-state. 
+...
+
+Thus, `ψ` is equal to the potential energy relative to the external field, which the system would possess, if the electron was placed at a point, situated on the major axis of the ellipse and dividing the distance 2εa between the foci in the ratio 3 : 1. This point may be denoted as the “electrical centre” of the orbit. 
+
+From the approximate constancy of ψ during the motion, proved in § 2, it follows therefore in the first place that, with neglect of small quantities of the same order of magnitude as the ratio between the external force and the attraction from the nucleus, the electrical centre will during the perturbations of the orbit remain in a fixed plane perpendicular to the direction of the external force. 
+
+From the considerations in § 2 it follows further, that the total energy in the stationary states of the system in the presence of the field, with neglect of small quantities proportional to F, will be equal to En + ψ, where En is the energy of the hydrogen atom in its undisturbed stationary state. 
 
 Since both ε and cos ϕ are numerically smaller than
 one, we obtain therefore at once from (74) a lower and an

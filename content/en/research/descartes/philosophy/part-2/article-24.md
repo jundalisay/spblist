@@ -1,7 +1,7 @@
 ---
 title: "True Motion and the Infinite Material Universe"
 heading: Articles 24-25
-weight: 20
+weight: 26
 description: "True motion is THE TRANSPORTING OF ONE PART OF MATTER OR OF ONE BODY FROM THE VICINITY OF THOSE BODIES THAT ARE IN IMMEDIATE CONTACT WITH IT, OR WHICH WE REGARD AS AT REST, to the vicinity of other bodies"
 writer:
   name: Rene Descartes

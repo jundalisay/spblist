@@ -1,7 +1,7 @@
 ---
 title: "Place Versus Space"
 heading: Articles 11-12
-weight: 16
+weight: 18
 description: "How space is not in reality different from corporeal substance"
 writer:
   name: Rene Descartes

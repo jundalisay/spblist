@@ -1,7 +1,7 @@
 ---
 title: "Law of Motion and Conservation of Energy"
 heading: Articles 36
-weight: 22
+weight: 40
 description: ""
 writer:
   name: Rene Descartes

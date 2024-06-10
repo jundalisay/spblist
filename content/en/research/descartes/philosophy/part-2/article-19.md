@@ -1,7 +1,7 @@
 ---
 title: "There are no Indivisible Atoms"
 heading: Articles 19
-weight: 17
+weight: 24
 description: "A vacuum or space in which there is absolutely no body is repugnant to reason"
 writer:
   name: Rene Descartes

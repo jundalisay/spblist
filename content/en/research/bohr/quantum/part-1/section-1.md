@@ -26,6 +26,7 @@ These states will be denoted as the “stationary states” of the system.*
 ```elixir
 E' - E'' = hv (1)
 ```
+
 where:
 - `h` is Planck’s constant
 - `E'` and `E''` are the values of the energy in the 2 states under consideration.

@@ -1,7 +1,7 @@
 ---
 title: "Numbers are Imaginary"
 heading: Articles 8-10
-weight: 12
+weight: 16
 description: "There exists a certain object extended in length, breadth, and thickness. This extended substance is what we call body or matter"
 writer:
   name: Rene Descartes

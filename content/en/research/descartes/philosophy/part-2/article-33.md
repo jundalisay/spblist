@@ -1,7 +1,7 @@
 ---
 title: "There is No Vacuum in Nature"
 heading: Articles 33-
-weight: 20
+weight: 36
 description: "All places are full of bodies"
 writer:
   name: Rene Descartes

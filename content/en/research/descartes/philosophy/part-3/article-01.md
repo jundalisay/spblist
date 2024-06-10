@@ -1,6 +1,6 @@
 ---
-title: "The Visible World"
-heading: Articles 1-
+title: "Understanding The Works of God"
+heading: Articles 1-8
 weight: 12
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
 writer:
@@ -10,12 +10,11 @@ image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 aliases:
   /research/descartes/philosophy/part-3/section-01
-
 ---
 
 
 
-### 1. The works of God cannot be thought of as too vast. 
+### 1. The works of God cannot be thought of as too vast.
 
 The principles of material things are derived not from the prejudices of the senses, but from the light of reason in such a way that we cannot doubt their truth.
 
@@ -65,7 +64,7 @@ It will lead us to believe that:
 ### 3. How were all things were created for the sake of man?
 
 
-Morally, it may be pious to believe that God made all things for us,. It can incite us to be more thankful and loving towards him.
+Morally, it may be pious to believe that God made all things for us. It can incite us to be more thankful and loving towards him.
 
 It is even in some sense true, because we can imagine using anything in existence. This will lead us to believe that all things were created for us.
 
@@ -96,17 +95,41 @@ These calculations are based on the apparent diameters of the Sun and Moon, whic
 <!-- Nobis quidem, primo intuitu, Terra caeteris omnibus mundi corporibus multô major effe videtur, & Sol & Luna caeteris ftellis fed vifûs defe&um indubitatis emendantes, inprimis advertimus Lunae à Terra diftantiam circiter triginta Terrae diametros ratiociniis aequare, Solis verô fexcentas aut feptingentas. Quas cum apparentibus Solis & Lunae diametris conferentes, facile ex ipfis colligimus, Lunam quidem diftantias ef[e multô minorem Terra, fed Solem elfe multô majorent. -->
 
 
-### 6. We also know, with the help of reason, that Mercury is more than 200 times farther from the Sun than Venus, and that Mars is more than 400 times farther from the Sun than Earth, and that Jupiter is more than 1,000 times farther from the Sun than Earth, and that Saturn is more than 5 or 6 times farther from the Sun than Jupiter.
+### 6. What is the distance of the planets from the Sun?
+
+Mercury is more than 200 Earth diameters away from the Sun.
+
+Venus is more than 400.
+
+Mars is 900 or 1,000.
+
+Jupiter is 3,000 or more.
+
+Saturn is 5-6,000.
 
 <!-- Agnofcimus etiam, vifu ratione adjuto, Mercurium plus ducentis Terrae diametris à Sole diftare Venerem plus quadringentis Martem noningentis aut mille Jovem tribus millibus & ampliùs; ac Saturnum quinque aut fex millibus. -->
 
 
-7 Fixas non pojfefupponi nimis remotas. 
+### 7. The fixed stars are not too near.
 
-Quantum autem ad Fixas, non permittunt quidem phaenomena, ut ipfas à Sole aut Terra non magis quàm Saturnum diftare arbitremur; fed nulla obftant, quominùs ad quantumlibet immenfam diftantiam recolligiturque ex motibus motas effe fupporimus: colligiturque ex motibus coeli infrà explicandis eas à nobis effe adeô diftantes, ut Saturnus ad ipfas comparatus videatur admodum propinquus.
+<!-- As for the fixed stars, the phenomena do not allow us to believe that they are no more distant from the Sun or Earth than Saturn is, but  -->
+
+Nothing prevents us from supposing that the fixed stars are at any immeasurable distance. 
+
+It is inferred from the motions of the heavens, explained below, that they are so distant from us that Saturn, compared to them, seems very near.
+
+<!-- 7 Fixas non pojfefupponi nimis remotas. 
+
+Quantum autem ad Fixas, non permittunt quidem phaenomena, ut ipfas à Sole aut Terra non magis quàm Saturnum diftare arbitremur; fed nulla obftant, quominùs ad quantumlibet immenfam diftantiam recolligiturque ex motibus motas effe fupporimus: colligiturque ex motibus coeli infrà explicandis eas à nobis effe adeô diftantes, ut Saturnus ad ipfas comparatus videatur admodum propinquus. -->
 
 
-8. The Earth is not visible from the sky, nor does it appear to be a planet, nor is it comparable to Jupiter or Saturn. From which it is manifest that the Moon and Earth, if they were to be compared to Jupiter or Saturn, would appear much smaller, than they do when compared to the Sun. And therefore, lest we should rashly judge the parts of the world to be incomparable, it is fitting that we should not compare the Moon, or Earth, or Sun, to the stars in magnitude."
+### 8. The Earth is not visible from the sky, nor does it appear to be a planet, nor is it comparable to Jupiter or Saturn. 
+
+The Moon and Earth are smaller compared to Jupiter or Saturn, as Jupiter or Saturn are smaller compared to the Sun.
+
+<!-- lest we should rashly judge the parts of the world to be incomparable, it is fitting that  -->
+
+And so, we should not compare the Moon, or Earth, or Sun, to the stars in terms of size.
 
 <!-- 8 Terram è cœlo confpeâam, non apparituram effe, nifi ut Planetam, Jove aut Saturno minorent.
 
@@ -114,12 +137,6 @@ Ex quibus manifeftum eft, Lunam & Terram, fi ex Jove vel Saturno confpicerentur,
 effe ne Lunam, vel Terram, vel Solem magnitudine Stellas fuperare arbitremur. -->
 
 
-16. The hypotheses of Ptolemy do not satisfy the appearances. The first of these is Ptolemy's own, which, since it is contrary to many phenomena (such as the increase and decrease of light, which is observed in Venus and the Moon), is now generally rejected by all philosophers, and therefore I will pass over it here."
-
-
-<!-- 16. Hypothefin Ptolemaei apparentiis non fatisfacere.
-Harum prima eft Ptolemaei, quae quoniam multis phaenomenis adverfatur (ut inprimis incremento & decremento luminis, quod in Venere ficut in Lunâ
-obfervatur), jam vulgo ab omnibus Philofophis rejicifolet, ideoque hîc à me praetermittetur. -->
 
 
 23. All the fixed stars are not visible in the same sphere, but each one has its own proper place and distance from the others. 

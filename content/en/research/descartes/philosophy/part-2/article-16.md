@@ -1,7 +1,7 @@
 ---
 title: "There is no Vacuum or Empty Space"
 heading: Articles 16-17
-weight: 17
+weight: 22
 description: "A vacuum or space in which there is absolutely no body is repugnant to reason"
 writer:
   name: Rene Descartes

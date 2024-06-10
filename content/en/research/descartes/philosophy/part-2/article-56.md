@@ -1,3 +1,14 @@
+---
+title: "The Contact Force of Solids and Fluids"
+heading: Articles 56-57
+weight: 50
+description: "The use of these rules is difficult because each body is touched by many at the same time"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+image: "/covers/philos.png"
+icon: "/icons/descartes.png"
+---
 
 
 

@@ -1,3 +1,16 @@
+---
+title: "The Nature of Solids and Fluids"
+heading: Articles 53-55
+weight: 48
+description: "The use of these rules is difficult because each body is touched by many at the same time"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+image: "/covers/philos.png"
+icon: "/icons/descartes.png"
+---
+
+
 ### 53. The use of these rules is difficult because each body is touched by many at the same time
 
 But because in the world there are no bodies so isolated from all others, and there are hardly any perfectly hard bodies around us, it is much more difficult to devise a calculation to determine how much the motion of each body is altered due to the encounters with others. 

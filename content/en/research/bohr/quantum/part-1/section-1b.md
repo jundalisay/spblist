@@ -2,7 +2,7 @@
 heading: "Section 1"
 title: "What is an Atomic System?"
 description: "An atomic system is a number of electrified particles which move in a force field that has a potential depending only on the position of the particles"
-weight: 4
+weight: 6
 # date: 2023-02-01
 image: "/covers/quantum.jpg"
 contributors: ['Bohr']

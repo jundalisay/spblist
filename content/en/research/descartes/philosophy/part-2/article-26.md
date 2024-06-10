@@ -1,7 +1,7 @@
 ---
 title: "Movement and Rest"
 heading: Articles 26
-weight: 22
+weight: 30
 description: ""
 writer:
   name: Rene Descartes

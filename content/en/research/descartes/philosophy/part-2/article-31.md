@@ -1,7 +1,7 @@
 ---
 title: "Vortex Movement"
 heading: Articles 31-32
-weight: 22
+weight: 32
 description: "How innumerable diverse motions may be in the same body"
 writer:
   name: Rene Descartes
