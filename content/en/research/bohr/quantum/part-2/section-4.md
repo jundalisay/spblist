@@ -86,15 +86,9 @@ From the approximate constancy of ψ during the motion, proved in § 2, it follo
 
 From the considerations in § 2 it follows further, that the total energy in the stationary states of the system in the presence of the field, with neglect of small quantities proportional to F, will be equal to En + ψ, where En is the energy of the hydrogen atom in its undisturbed stationary state. 
 
-Since both ε and cos ϕ are numerically smaller than
-one, we obtain therefore at once from (74) a lower and an
-upper limit for the possible variations of the energy in the
-stationary states, due to the field. Introducing from (41) the
-values of En and αn, and neglecting, here as well as in the following calculations in this section, the small correction due
-to the finite mass of the nucleus—not only in the expression
-for the additional energy but, for the sake of brevity, also in
-the main term—we get for these limits
-E = −
+Since both ε and cos ϕ are numerically smaller than one, we obtain therefore at once from (74) a lower and an upper limit for the possible variations of the energy in the stationary states, due to the field. Introducing from (41) the values of En and αn, and neglecting, here as well as in the following calculations in this section, the small correction due to the finite mass of the nucleus—not only in the expression for the additional energy but, for the sake of brevity, also in the main term—we get for these limits
+
+<!-- E = −
 2π
 2N2
 e
@@ -107,51 +101,23 @@ h
 2
 8π
 2Nem
-F, (75)
-which formula coincides with the expression previously deduced by the writer by applying the condition I = nh to the
-two (physically not realisable) limiting cases, corresponding
-to z = 1 and cos ϕ = ±1, in which the orbit remains periodic
-in the presence of the field.1
-)
-In order to obtain further information as to the values
-of the energy in the stationary states in the presence of the
-1
-) See N. Bohr, Phil. Mag. XXVII, p. 506 (1914) and XXX, p. 394
-(1915). Compare also E. Warburg, Verh. d. D. Phys. Ges. XV, p. 1259
-(1913), where it was pointed out, for the first time, that the effect of
-an electric field on the hydrogen lines to be expected on the quantum
-theory was of the same order of magnitude as the effect observed by
-Stark.
-140
-field, it is necessary to consider more closely the variation
-of the orbit during the perturbations. Since the external
-forces possess axial symmetry, the problem of the stationary
-states might be treated by means of the procedure indicated
-in § 2 on page 107. In the present special case, however,
-the stationary states of the atom may be very simply determined, due to the fact that the secular perturbations are
-simply periodic independent of the initial shape and position of the orbit, so that we are concerned with a degenerate
-case of a perturbed periodic system. This property of the
-perturbations follows already from some calculations given
-by Schwarzschild1
-) in a previous attempt to explain the
-Stark effect of the hydrogen lines, without the help of the
-quantum theory, by means of a direct consideration of the
-harmonic vibrations into which the motion may be resolved,
-according to the analytical theory of conditionally periodic
-systems. Starting from the above result, that the electrical
-centre moves in a plane perpendicular to the direction of the
-external field, the periodicity of the perturbations may also
-be proved in the following way, by means of a simple consideration of the variation of the angular momentum of the
-electron round the nucleus, due to the effect of the external
-electric force.
-Using again rectangular coordinates with the nucleus at the
-origin and the z-axis parallel to the direction of the electric force,
-and calling the coordinates of the electrical centre ξ, η, ζ, we have
-1
-) K. Schwarzschild, Verh. d. D. Phys. Ges. XVI, p. 20 (1914).
-141
+F, (75) -->
+
+which formula coincides with the expression previously deduced by the writer by applying the condition I = nh to the two (physically not realisable) limiting cases, corresponding to z = 1 and cos ϕ = ±1, in which the orbit remains periodic in the presence of the field.
+
+1) In order to obtain further information as to the values of the energy in the stationary states in the presence of the field, it is necessary to consider more closely the variation of the orbit during the perturbations. Since the external forces possess axial symmetry, the problem of the stationary states might be treated by means of the procedure indicated in § 2 on page 107. In the present special case, however, the stationary states of the atom may be very simply determined, due to the fact that the secular perturbations are simply periodic independent of the initial shape and position of the orbit, so that we are concerned with a degenerate case of a perturbed periodic system. This property of the perturbations follows already from some calculations given by Schwarzschild
+
+1) See N. Bohr, Phil. Mag. XXVII, p. 506 (1914) and XXX, p. 394 (1915). Compare also E. Warburg, Verh. d. D. Phys. Ges. XV, p. 1259 (1913), where it was pointed out, for the first time, that the effect of an electric field on the hydrogen lines to be expected on the quantum theory was of the same order of magnitude as the effect observed by Stark.
+
+1) in a previous attempt to explain the Stark effect of the hydrogen lines, without the help of the quantum theory, by means of a direct consideration of the harmonic vibrations into which the motion may be resolved, according to the analytical theory of conditionally periodic systems. Starting from the above result, that the electrical centre moves in a plane perpendicular to the direction of the external field, the periodicity of the perturbations may also be proved in the following way, by means of a simple consideration of the variation of the angular momentum of the electron round the nucleus, due to the effect of the external electric force.
+
+Using again rectangular coordinates with the nucleus at the origin and the z-axis parallel to the direction of the electric force, and calling the coordinates of the electrical centre ξ, η, ζ, we have
+
+1) K. Schwarzschild, Verh. d. D. Phys. Ges. XVI, p. 20 (1914).
+
 according to formula (74)
-ξ
+
+<!-- ξ
 2 + η
 2 + ζ
 2 =
@@ -160,11 +126,12 @@ according to formula (74)
 2
 εα2
 , ζ = const. (1∗
-)
-Denoting the components parallel to the x y and z-axis of the
-angular momentum of the electron round the nucleus, considered
-as a vector, by Px, Py and Pz, we have next
-P
+) -->
+
+
+Denoting the components parallel to the x y and z-axis of the angular momentum of the electron round the nucleus, considered as a vector, by Px, Py and Pz, we have next
+
+<!-- P
 2
 x + P
 2
@@ -175,26 +142,24 @@ z = (1 − ε
 )(2πmα2ω)
 2
 , Pz = const. (2∗
-)
-Since the angular momentum is perpendicular to the plane of the
-orbit, we have further
-ξPx + ηPy + ζPz = 0. (3∗
-)
-Now we have for the mean values of the rates of variation of
-Px and Py with the time
-DPx
+) -->
+
+Since the angular momentum is perpendicular to the plane of the orbit, we have further
+ξPx + ηPy + ζPz = 0. (3∗)
+
+Now we have for the mean values of the rates of variation of Px and Py with the time
+
+<!-- DPx
 Dt
 = eF η,
 DPy
 Dt
 = −eF ξ. (4∗
-)
-From this we get, differentiating (1∗
-) and (2∗
-) with respect to
-the time, and remembering that α and ω remain constant during
-the perturbations,
-ξ
+) -->
+
+From this we get, differentiating (1∗) and (2∗) with respect to the time, and remembering that α and ω remain constant during the perturbations,
+
+<!-- ξ
 Dξ
 Dt
 + η
@@ -211,35 +176,39 @@ Dt 
 = −eFK2
 (ηPx − ξPy),
 (5∗
-)
+) -->
+
 where
-K =
+
+<!-- K =
 3
 4πmαω
 . (6∗
-)
-142
+) -->
+
 On the other hand we have, differentiating (3∗
-) and introducing (4∗
-),
-Px
+) and introducing (4∗),
+
+<!-- Px
 DPx
 Dt
 + Py
 DPy
 Dt
-= 0,
-which together with (5∗
-) gives
-Dξ
+= 0, -->
+
+which together with (5∗) gives
+
+<!-- Dξ
 Dt
 = eFK2Py,
 Dη
 Dt
-= −eFK2Px,
-from which we get, by means of (4∗
-),
-D2
+= −eFK2Px, -->
+
+from which we get, by means of (4∗),
+
+<!-- D2
 ξ
 Dt2
 = −e
@@ -250,14 +219,11 @@ Dt2
 = −e
 2F
 2K2
-η,
-the solution of which is
-ξ = A cos 2π(vt + a), η = B cos 2π(vt + b), (7∗
-)
-where A, a, B and b are constants, and where, introducing (6∗
-),
-we have
-v =
+η, -->
+
+the solution of which is ξ = A cos 2π(vt + a), η = B cos 2π(vt + b), (7∗) where A, a, B and b are constants, and where, introducing (6∗), we have
+
+<!-- v =
 eFK
 2π
 =
@@ -265,27 +231,23 @@ eFK
 8π
 2mαω
 . (8∗
-)
+) -->
 
-During the perturbations the electrical centre will thus perform slow harmonic vibrations perpendicular to the direction of the electric force, with a frequency which is proportional to the intensity of the electric field, but, for a given
-value of F, quite independent of the initial shape of the orbit and its position relative to the direction of the field. For
-the value of this frequency in the multitude of states of the perturbed system, for which the mean value of the inner energy is equal to the energy En in a stationary state of the undisturbed system corresponding to a given value of n, we
-get from the above calculation, introducing for α and ω the
-values of αn and ωn given by (41),
-vF =
+During the perturbations the electrical centre will thus perform slow harmonic vibrations perpendicular to the direction of the electric force, with a frequency which is proportional to the intensity of the electric field, but, for a given value of F, quite independent of the initial shape of the orbit and its position relative to the direction of the field. 
+
+For the value of this frequency in the multitude of states of the perturbed system, for which the mean value of the inner energy is equal to the energy En in a stationary state of the undisturbed system corresponding to a given value of n, we get from the above calculation, introducing for α and ω the values of αn and ωn given by (41),
+
+<!-- vF =
 3hn
 8π
 2Nem
-F. (76)
+F. (76) -->
 
-Now from the periodic motion of the electrical centre we may conclude that, in the presence of the field, the system will be able to emit or absorb a radiation of frequency vF , and that accordingly the possible values of the additional energy of the system in the presence of the field will be given directly by Planck’s fundamental formula (9), holding for the possible values of the total energy of a linear harmonic vibrator, if in
-this formula ω is replaced by the above frequency vF . 
+Now from the periodic motion of the electrical centre we may conclude that, in the presence of the field, the system will be able to emit or absorb a radiation of frequency vF , and that accordingly the possible values of the additional energy of the system in the presence of the field will be given directly by Planck’s fundamental formula (9), holding for the possible values of the total energy of a linear harmonic vibrator, if in this formula ω is replaced by the above frequency vF. 
 
-Since  further a circular orbit, perpendicular to the direction of the electric force, will not undergo secular perturbations during
-a slow establishment of the field, and therefore must be included among the stationary states of the perturbed system,
-we get for the total energy of the atom in the presence of the field\
+Since  further a circular orbit, perpendicular to the direction of the electric force, will not undergo secular perturbations during a slow establishment of the field, and therefore must be included among the stationary states of the perturbed system, we get for the total energy of the atom in the presence of the field\
 
-E = En + nvF h = −
+<!-- E = En + nvF h = −
 2π
 2N2
 e
@@ -297,32 +259,24 @@ n2h
 2nn
 8π
 2Nem
-F, (77)
+F, (77) -->
 
 
 where:
-- `n` is an entire number which in the present case may be taken positive as well as negative. From a comparison between (75) and (77), we see that the presence of the external field imposes the restriction on the motion of the atom in the
-stationary states, that the plane in which the electrical centre of the orbit moves must have a distance from the nucleus
+- `n` is an entire number which in the present case may be taken positive as well as negative. 
+
+From a comparison between (75) and (77), we see that the presence of the external field imposes the restriction on the motion of the atom in the stationary states, that the plane in which the electrical centre of the orbit moves must have a distance from the nucleus
 
 equal to an entire multiple of the n
 th part of its maximum
-distance 3
-2
-αn.
+distance 3 2 αn.
 
-The result, contained in formula (77), is in agreement with the expression for the total energy in the stationary
-states, deduced by Epstein and Schwarzschild by means of the general theory of conditionally periodic systems based
-on the conditions (22). 
+The result, contained in formula (77), is in agreement with the expression for the total energy in the stationary states, deduced by Epstein and Schwarzschild by means of the general theory of conditionally periodic systems based on the conditions (22). 
 
-The treatment of these authors rests on the fact, that, as mentioned in Part I, the equations of
-motion for the electron in the present problem may be solved
-by means of separation of variables in parabolic coordinates
+The treatment of these authors rests on the fact, that, as mentioned in Part I, the equations of motion for the electron in the present problem may be solved by means of separation of variables in parabolic coordinates
 (compare page 36). 
 
-Taking for q1 and q2 the parameters of the two paraboloids of revolution, which pass through the
-instantaneous position of the electron and which have their
-foci at the nucleus and their axes parallel to the direction
-of the field, and for q3 the angular distance between the
+Taking for q1 and q2 the parameters of the two paraboloids of revolution, which pass through the instantaneous position of the electron and which have their foci at the nucleus and their axes parallel to the direction of the field, and for q3 the angular distance between the
 plane through the electron and the axis of the system and
 a fixed plane through this axis, the momenta p1, p2, p3 will
 during the motion depend on the corresponding q’s only, and
@@ -331,8 +285,8 @@ type (22). With neglect of small quantities proportional to
 higher powers of F, the final formula for the total energy,
 obtained by Epstein in this way, is given by:
 
-```
-E = −
+
+<!-- E = −
 2π
 2N2
 e
@@ -349,7 +303,7 @@ h
 2Nem
 F, 1
 )
-(78)
+(78) -->
 ```
 
 where:
