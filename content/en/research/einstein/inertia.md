@@ -1,5 +1,5 @@
 ---
-title: "Does the Inertia of a Body Depend Upon Its Energy-content?"
+title: "Does the Inertia of a Body Depend on Its Energy-content?"
 description: "My principle of relativity states that any changes to two systems of coordinates that are in uniform motion parallel to each other are governed by laws which do not depend on either of them"
 image: "/covers/einstein.jpg"
 weight: 80
@@ -31,7 +31,7 @@ Let a system of plane waves of light, referred to the system of co-ordinates (`x
 
 Let the direction of the ray (the wave-normal) make an angle `φ` with the axis of `x` of the system. 
 
-If we introduce a new system of coordinates (`ξ`, `η`, `ζ`) moving in uniform parallel translation with respect to the system (`x`, `y`, `z`), and having its origin of co-ordinates in motion along the axis of `x` with the velocity `v`, then this quantity of light—measured in the system (`ξ`, `η`, `ζ`) possesses the energy `l`
+If we introduce a new system of coordinates (`ξ`, `η`, `ζ`) moving in uniform parallel translation with respect to the system (`x`, `y`, `z`), and having its origin of co-ordinates in motion along the axis of `x` with the velocity `v`, then this quantity of light in the system (`ξ`, `η`, `ζ`) possesses the energy `l`
 
 ...
 
@@ -48,7 +48,10 @@ Meanwhile the body remains at rest with respect to the system (`x`, `y`, `z`).
 
 <!-- The principle of ∗The principle of the constancy of the velocity of light is in Maxwell’s equations. -->
 
-Energy must apply to this process, and in fact (by the principle of relativity) with respect to both systems of co-ordinates. If we call the energy of the body after the emission of light E1 or H1 respectively, measured relatively to the system (x, y, z) or (ξ, η, ζ) respectively, then by employing the relation given above we obtain
+Energy must apply to this process, and by the principle of relativity, with respect to both systems of co-ordinates. 
+
+If we call the energy of the body after the emission of light `E1` or `H1` respectively, measured relatively to the system `(x, y, z)`` or `(ξ, η, ζ)` respectively, then by employing the relation given above we obtain:
+
 <!-- 
 ```
 E0 = E1 + 
@@ -81,7 +84,7 @@ p
 
 ...
 
-By subtraction we obtain from these equations 
+By subtraction we obtain from these equations:
 
 ...
 
@@ -97,7 +100,7 @@ By subtraction we obtain from these equations
 
 The two differences of the form `H − E` occurring in this expression have simple physical significations. 
 
-`H` and `E` are energy values of the same body referred to two systems of co-ordinates which are in motion relatively to each other, the body being at rest in one of the two systems (system (`x, y, z`)). 
+`H` and `E` are energy values of the same body referred to two systems of co-ordinates which are in motion relative to each other. The body is at rest in one of the two systems (system (`x, y, z`)). 
 
 Thus, the difference `H − E` can differ from the kinetic energy K of the body, with respect to the other system (`ξ, η, ζ`), only by an additive constant `C`, which depends on the choice of the arbitrary additive constants of the energies `H` and `E`. 
 
@@ -108,10 +111,10 @@ H0 − E0 = K0 + C,
 H1 − E1 = K1 + C,
 ```
 
-since C does not change during the emission of light. So we have
+since C does not change during the emission of light. So we have:
 
-
-```
+...
+<!-- ```
 K0 − K1 = L (
 1
 p
@@ -119,15 +122,20 @@ p
 2/c2
 − 1
 )
-```
+``` -->
 
-The kinetic energy of the body with respect to (`ξ, η, ζ`) diminishes as a result of the emission of light. The amount of diminution is independent of the properties of the body. 
+
+The kinetic energy of the body with respect to (`ξ, η, ζ`) diminishes as a result of the emission of light. 
+
+The amount of reduction is independent of the properties of the body. 
 
 Moreover, the difference `K0 − K1`, like the kinetic energy of the electron (§ 10), depends on the velocity.
 
 Neglecting magnitudes of fourth and higher orders, we may place:
 
-```
+...
+
+<!-- ```
 K0 − K1 =
 1
 2
@@ -136,17 +144,22 @@ c
 2
 v
 2
-```
+``` -->
 
 From this equation, it directly follows that:
 
-If a body gives off the energy `L` in the form of radiation, its mass diminishes by `L/c2`.
+If a body gives off the energy `L` as radiation, its mass reduces by `L/c2`.
 
-The fact that the energy withdrawn from the body becomes energy of radiation evidently makes no difference, so that we are led to the more general conclusion that The mass of a body is a measure of its energy-content.
+The fact that the energy withdrawn from the body becomes energy of radiation makes no difference. This leads us to the more general conclusion that **the mass of a body is a measure of its energy-content.**
 
-If the energy changes by `L`, the mass changes in the same sense by `L/9 × 1020`, the energy being measured in ergs, and the mass in grammes.
+If the energy changes by `L`, the mass changes in the same sense by `L/9 × 1020`, the energy being measured in ergs, and the mass in grams*.
 
-It is not impossible that with bodies whose energy-content is variable to a high degree (e.g. with radium salts) the theory may be successfully put to the test.
+> *Superphysics Note: In Cartesian Pyhsics, the mass or inertia changes because the lost radiation reduces the electromagnetism in the body. This frees up the body's spacetime particles, reducing their pushing pressure, manifesting as less mass or inertia. If the body is material (3rd Element), then mass and grams can be used. But if the body is non-material (i.e. electrons, neutrinos) then it should be electromagnetic potential measured in MeV.
+
+
+
+
+It is possible that with bodies whose energy-content is variable to a high degree (e.g. with radium salts) this theory may be tested.
 
 If the theory corresponds to the facts, radiation conveys inertia between the emitting and absorbing bodies.
 

@@ -1,6 +1,6 @@
 ---
 title: "How the 2nd ELement Makes Things Round"
-heading: Articles 56-59
+heading: Articles 60-62
 weight: 200
 description: "This effort found in celestial matter"
 writer:
@@ -9,6 +9,7 @@ writer:
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---
+
 
 
 ### 60. This effort found in celestial matter.
