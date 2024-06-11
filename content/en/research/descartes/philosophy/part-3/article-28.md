@@ -1,7 +1,7 @@
 ---
 title: "The Heliocentric Theory"
 heading: Articles 28-30
-weight: 14
+weight: 22
 description: "The Earth and the planets do not have a motion of their own"
 writer:
   name: Rene Descartes

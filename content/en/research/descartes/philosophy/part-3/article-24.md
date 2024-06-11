@@ -1,7 +1,7 @@
 ---
 title: "The Nature of Outer Space"
 heading: Articles 24-27
-weight: 12
+weight: 20
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
 writer:
   name: Rene Descartes

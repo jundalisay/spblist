@@ -1,7 +1,7 @@
 ---
 title: "Vortex Movement"
 heading: Articles 31-35
-weight: 12
+weight: 24
 description: "How are individual planets carried along in outer space?"
 writer:
   name: Rene Descartes
@@ -40,3 +40,18 @@ For example, the orbit of Saturn now intersects the Ecliptic in the signs of Can
 Likewise, the orbits of the other planets intersect the Ecliptic in different places; but the inclination is smaller in Jupiter and Mars, about one degree greater in Venus, and greatest in Mercury, being nearly 7 degrees. Additionally, the Sun's spots (at least if Scheiner S.J.'s observations are accurate, after whose diligence nothing about these spots' phenomena seems lacking) revolve around the Sun in planes inclined by 7 degrees or more to the Ecliptic; so that their motion in this respect does not differ from the motion of the planets. 
 
 The Moon also revolves around the Earth in a plane that deviates by 5 degrees from the Ecliptic; and the Earth revolves around its own axis in the plane of the Equator, deviating by 23½ degrees from the Ecliptic; which plane of the Equator it carries with it. And these deviations of the planets from the Ecliptic are called motions in latitude."
+
+
+
+### 36. The motion in longitude
+
+Their revolutions around the Sun are called motions in longitude.
+
+They also deviate in that they do not remain equidistant from the Sun at all times. In this era, Saturn is farther from the Sun in Sagittarius than in Gemini, by about one-twentieth of its distance; Jupiter is farther in Libra than in Aries.
+
+Similarly, other planets have their aphelia and perihelia in different locations. However, after a few centuries, all these positions will be found to have changed, and each planet, including the Earth, will intersect the plane in which the Ecliptic is now located in different places and will deviate slightly more or less from it; and their maximum and minimum distances from the Sun will be found in different signs.
+
+
+### 37. All phenomena can be easily understood through this hypothesis
+
+Now, it is not necessary for me to show how from this hypothesis follow the phenomena of day and night, summer and winter, the Sun's approach to and retreat from the Tropics, the phases of the Moon, eclipses, stations and retrogradations seen in the Planets, the precession of the equinoxes, variation in the obliquity of the Ecliptic, and similar things: for these will be easily understood by those who have learned even the basic elements of Astronomy.

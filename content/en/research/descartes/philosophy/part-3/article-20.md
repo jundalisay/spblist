@@ -1,8 +1,8 @@
 ---
-title: "The Visible World"
-heading: Articles 20-2
-weight: 12
-description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+title: "The Sun and Fixed Stars"
+heading: Articles 20-23
+weight: 18
+description: "The fixed stars should be supposed to be as far as possible from Saturn"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 20. The fixed stars should be supposed to be as far as possible from Saturn. 
+### 20. The fixed stars should be supposed to be as far as possible from Saturn 
 
 We are not yet sure how far the fixed stars are from us.
 

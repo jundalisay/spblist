@@ -1,7 +1,7 @@
 ---
-title: "How the 2nd ELement Makes Things Round"
+title: "How the Air-Aether Makes Things Round"
 heading: Articles 60-62
-weight: 200
+weight: 34
 description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes
@@ -11,8 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-
-### 60. This effort found in celestial matter.
+### 60. This effort found in celestial matter
 
 The stone in a sling or the globule rotating in a channel around the center `E` is how the globules of the 2nd Element move. 
 

@@ -1,7 +1,7 @@
 ---
 title: "The Hypothesis of Copernicus and Tycho"
 heading: Articles 15-19`
-weight: 12
+weight: 16
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
 writer:
   name: Rene Descartes

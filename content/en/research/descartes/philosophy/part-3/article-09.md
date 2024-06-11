@@ -1,7 +1,7 @@
 ---
 title: "The Nature of the Sun and the Stars"
 heading: Articles 9-14
-weight: 12
+weight: 14
 description: "The Sun and the fixed stars shine with their own light"
 writer:
   name: Rene Descartes
