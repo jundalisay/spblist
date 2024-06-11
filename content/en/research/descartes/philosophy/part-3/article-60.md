@@ -55,3 +55,30 @@ For example, the globule F is pressed by all the others within the lines BF and 
 
 Just as we see the same force of gravity that directly leads a falling stone in free air to the center of the Earth also carrying it there obliquely when its direct motion is hindered by the slope of a plane, there is no doubt that the same force by which all the globules in the space `BFD` try to move away from the center S along the straight lines drawn from that center is sufficient to also move them away from it along lines declining from that center.
 
+
+### 63. The globules of celestial matter do not impede each other in this effort.
+
+This example of gravity will clearly explain the matter if we consider leaden globes contained in a vessel BFD, pressing against each other in such a way that if a hole is made at the bottom of the vessel at F, the globe 1 descends by its own weight; simultaneously, the other two 2, 2 will follow it, and these will be followed by another three 3, 3, 3, and so on. 
+
+Thus, at the same moment the lowest globe 1 begins to move, all the others contained in the triangular space BFD will descend together, leaving the rest immobile. 
+
+After the two globes 2, 2 have followed the descending globe 1 for a while, they impede each other from continuing further. 
+
+However, the same does not apply to the globules of the 2nd element. This is because they are in perpetual motion.
+
+Even if it happens that they are arranged in the same way as the lead globes depicted here, this can only last for a minimal moment of time, called an instant. This does not interrupt the continuity of their motion. 
+
+The force of light does not consist in any duration of motion, but solely in pressure or in the initial preparation for motion, even if the motion itself might not follow from it.
+
+
+### 64. All properties of light found in this effort: so much so that light can be seen as if emanating from stars, even if there is no force in the stars themselves
+
+The action called light spreads equally in all directions from the body of the Sun or any fixed star. It extends to any distance in the smallest moment of time, along straight lines drawn:
+- from the center of the luminous body
+- from any other points on its surface. 
+
+Hence, all other properties of light can be deduced. 
+
+And what might seem paradoxical to many, all these would be the same in celestial matter even if there were no force at all in the Sun or any other star around which it revolves: so much so that if the body of the Sun were nothing but empty space, we would still see its light, not indeed as strong, but otherwise no different than now, at least in the circle in which the celestial matter moves; for here we are not yet considering all the dimensions of the sphere.
+
+To explain what is in the Sun and stars that increases this force of light and spreads it through all dimensions of the sphere, some details about the motion of the heavens need to be presented first.

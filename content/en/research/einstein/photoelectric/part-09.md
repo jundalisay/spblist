@@ -6,6 +6,7 @@ date: 2022-08-23
 description: "Einstein explains the Photoelectric Effect"
 icon: "/icons/einbla.png"
 image: "/covers/photo.jpg"
+draft: true
 ---
 
 

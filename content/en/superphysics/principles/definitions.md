@@ -35,7 +35,8 @@ Emotion | A quantized measurable version of a feeling, such as for public survey
 Existence | the effect of Consciousness as its other half
 Idea | An original metaphysical object created by the Supreme that is accessed by abstract minds. Also, a product of Ideation (accessing pre-existing ideas)
 Identity | A discrete resultant perception separate from other perceptions or a mass of perceptions
-Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable. Also generally adharmic since Existence is Positive. 
+Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable. Also generally adharmic since Existence is Positive.
+Instant | The minimum moment of time (Descartes, Principles of Philosophy)
 Intuition | Instant knowledge derived from the aether, which is above spacetime
 Karma | Action and Reaction, or Cause and Effect. Technically, the 7th kind of philosophical relation according to David Hume.
 Knowledge | The assimilation of perceptions with, or into, the abstract mind via ideas. Also, jiṋána as the subjectivization of objects (Sarkar)

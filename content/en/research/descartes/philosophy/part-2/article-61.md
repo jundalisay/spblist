@@ -72,9 +72,18 @@ But if we equip our hand with a hammer, file, pliers, or another instrument so t
 
 
 
-### {{< s v="64" >}} No other principles in Physics, than in Geometry, or in Abstract Mathematics, are admitted by me, nor desired. Because in this way all the phenomena of nature are explained, and definite demonstrations of them can be given.
+### {{< s v="64" >}} The principles of Physics are based in Geometry and Abstract Mathematics. These explain all the phenomena of nature through definite demonstrations.
 
+<!-- , are admitted by me, nor desired. Because in this way all  are explained, and  of them can be given. -->
 
-I will add nothing here about shapes, nor how from their infinite variety countless variations of motion follow, because these will become clear enough by themselves whenever it becomes necessary to discuss them. And I assume that my readers either already know the first elements of geometry or at least have a mind sufficiently apt to understand mathematical demonstrations. For I openly declare that I recognize no other material of corporeal things than that which is entirely divisible, shapable, and movable, which geometers call quantity and take as the object of their demonstrations. And I consider nothing in it except these divisions, figures, and motions.
+I will add nothing here about shapes, nor how from their infinite variety countless variations of motion follow, because these will become clear enough by themselves whenever it becomes necessary to discuss them.
 
-I admit nothing about them as true that is not so clearly deduced from those common notions, the truth of which we cannot doubt, that it should be considered as a mathematical demonstration. And because all the phenomena of nature can be explained in this way, as will be shown later, I think that no other principles of physics are to be admitted, nor even desired.
+I assume that my readers already know the first elements of geometry or at least have a mind sufficiently apt to understand mathematical demonstrations. 
+
+I recognize no other material of corporeal things than that which is entirely divisible, shapeable, and moveable, which geometers call quantity and take as the object of their demonstrations. 
+
+I consider nothing in it except these divisions, figures, and motions.
+
+I admit nothing about them as true that is not so clearly deduced from those common notions, the truth of which we cannot doubt, that it should be considered as a mathematical demonstration. 
+
+All the phenomena of nature can be explained in this way. And so I think that no other principles of physics are to be admitted, nor even desired.

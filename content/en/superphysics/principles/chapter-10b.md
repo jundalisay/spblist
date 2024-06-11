@@ -41,7 +41,7 @@ An example is when a beggar asks us for money.
 - Some say we should give money so that he can buy things to ease his suffering. 
 - Some say we should not give money because it will breed dependence and he might spend it for drugs or gambling.
 
-If we were omniscient, then we would know the beggar's real situation and decine immediately if we should give money or not. 
+If we were omniscient, then we would know the beggar's real situation and decide immediately if we should give money or not. 
 
 Unfortunately, we are not omniscient. And so our moral decisions are not always correct. We might feel that we are helping the beggar by giving or not giving, but in reality, we might be making his situation worse. 
 

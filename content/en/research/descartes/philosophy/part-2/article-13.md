@@ -2,7 +2,7 @@
 title: "Cartesian Relativity"
 heading: Articles 13-15
 weight: 20
-description: "How space is not in reality different from corporeal substance"
+description: "Descartes asserts that all points are movable in the universe. From this, I conclude that nothing has a permanent place unless it is fixed by our thought"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -15,20 +15,23 @@ icon: "/icons/descartes.png"
 ### 13. What is external place?
 
 The words 'place' and 'space' signify nothing really different from body which is in place.
-- They merely designate its magnitude, shape, and situation among other bodies. 
+- They merely designate its magnitude, shape, and location among other bodies. 
 
-In order to determine this situation, it is necessary to regard certain other bodies which we consider as immovable. 
+In order to determine this location, it is necessary to regard other immovable bodies.
+ <!-- which we consider as immovable.  -->
 
-According as we look to different bodies, we may see that the same thing at the same time does and does not change place. 
+As we look to different bodies, we see that the same thing both changes and does not place at the same time. 
 
-For example, when a vessel is being carried out to sea, a person sitting at the stern may be said to remain always in one place. If we look to the parts of the vessel, since with respect to these he preserves the same situation.
+For example, imagine a ship being carried out to sea. A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these.
 
-On the other hand, if regard be had to the neighbouring shores, the same person will seem to be perpetually changing place, seeing he is constantly receding from one shore and approaching another. 
+On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another. 
 
-If the earth moves, and that it makes precisely as much way from west to east as the vessel from east to west, we will again say that the person at the stern does not change his place, because this place will be determined by certain immovable points which we imagine to be in the heavens. But if at length we are persuaded that there are no points really immovable in the universe, as will hereafter be shown to be probable, we will thence conclude that nothing has a permanent place unless in so far as it is fixed by our thought.
+If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. 
+
+I assert that all points are movable in the universe. From this, I conclude that nothing has a permanent place unless it is fixed by our thought.
 
 
-{{< s v="14">}} What is the difference between 'place' and 'space'?
+### 14. What is the difference between 'place' and 'space'?
 
 The terms 'place' and 'space' have different meanings. 
 - 'Place' expressly designates situation than magnitude or figure.
@@ -38,7 +41,11 @@ We often say that a thing succeeds to the place of another, although it be not e
 
 But we do not therefore admit that it occupies the same space as the other.
 
-When the situation is changed we say that the place also is changed, although there are the same magnitude and figure as before: so that when we say that a thing is in a particular place, we mean merely that it is situated in a determinate way in respect of certain other objects; and when we add that it occupies such a space or place, we understand besides that it is of such determinate magnitude and figure as exactly to fill this space.
+When the location is changed, we say that the place also is changed, although there are the same magnitude and shape as before.
+
+So when we say that a thing is in a particular place, we mean merely that it is situated in a determinate way with respect to  other objects.
+
+When we add that it occupies such a space or place, we understand besides that it is of such determinate magnitude and shape as exactly to fill this space.
 
 
 
