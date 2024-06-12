@@ -1,7 +1,7 @@
 ---
 title: "The Dynamics of Comets"
 heading: Articles 126
-weight: 200
+weight: 56
 description: "The Initial Motion of a Comet"
 writer:
   name: Rene Descartes

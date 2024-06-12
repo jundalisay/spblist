@@ -1,7 +1,7 @@
 ---
 title: "Vortex Destruction"
 heading: Articles 116-
-weight: 200
+weight: 54
 description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes

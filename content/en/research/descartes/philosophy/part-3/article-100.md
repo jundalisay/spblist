@@ -1,7 +1,7 @@
 ---
 title: "How Sunpots are Formed"
 heading: Articles 100-
-weight: 200
+weight: 50
 description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes
@@ -57,3 +57,4 @@ Entering through f, they immediately exit through d, and encountering the globul
 By continuously passing through the middle of the star and returning through the surrounding ether, they form a sort of vortex there. Those that cannot be captured by these channels are either dissolved by the impact of the particles of this ether or are forced to go into the sky through the nearby parts of the Ecliptic QH. It should be noted that the striated particles that reach the surface of star I at every moment are not so numerous as to fill all the channels carved to their size in the spots efg, because even in the sky they do not fill all the intervals between the globules of the second element, but a great amount of subtler matter must be mixed with them due to the various movements of these globules. 
 
 This subtler matter would enter those channels if the striated particles, reflected from the other hemisphere of the star, did not have greater force to occupy them. What has been said here about the striated particles entering through the hemisphere efg also applies to those entering through the hemisphere edg: they have carved different channels for themselves, through which most of them flow from d to f, into the star I and the spots surrounding it; then, reflected in all directions through the ether xx, they return to d, while as many dissolve or exit towards the ecliptic as new ones come from pole B.
+

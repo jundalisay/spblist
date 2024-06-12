@@ -1,7 +1,7 @@
 ---
 title: "The Appearance and Disappearance of Stars"
 heading: Articles 109-115
-weight: 200
+weight: 52
 description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes

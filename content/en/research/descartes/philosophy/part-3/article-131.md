@@ -1,7 +1,7 @@
 ---
 title: "The Comet's Tail"
 heading: Articles 65-68
-weight: 200
+weight: 58
 description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes
