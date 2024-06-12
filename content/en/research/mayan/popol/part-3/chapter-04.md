@@ -1,16 +1,13 @@
 ---
-heading: Chapter 2
+heading: Chapter 4
 title: "The Tribes of Men"
-weight: 7
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+weight: 9
+# date: 2024-05-12
+description: Our first mothers and fathers did not yet have wood nor stones to keep; but their hearts were tired of waiting for the sun.
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
 
 
-
-## Chapter 4
 
 Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam said, "Let us await the break of day." So said those great wise men, the enlightened men, the priests and sacrificers. This they said.
 

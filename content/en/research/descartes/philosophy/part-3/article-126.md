@@ -1,7 +1,7 @@
 ---
 title: "The Dynamics of Comets"
 heading: Articles 126
-weight: 56
+weight: 57
 description: "The Initial Motion of a Comet"
 writer:
   name: Rene Descartes
@@ -58,13 +58,19 @@ Soon after, it grew to a remarkable size and moved so swiftly through the northe
 
 ### 129. Explanation of These Phenomena
 
-All these phenomena can be easily understood here. We see that the same comet traverses different parts of the sky in vortex F and another part in vortex Y, and there is no part it cannot pass through in this manner. It must be assumed that it retains nearly the same speed, namely the speed it acquires by passing through the extremities of vortices where the celestial matter moves so quickly that it completes an entire rotation within a few months, as stated above. 
+The same comet traverses different parts of the sky in vortex F and another part in vortex Y. There is no part it cannot pass through in this way. 
+
+It retains nearly the same speed, namely the speed it acquires by passing through the extremities of vortices where the celestial matter moves so quickly that it completes an entire rotation within a few months, as stated above. 
 
 Since this comet only traverses half of this rotation in vortex Y, and much less in vortex F, and never much more in any other vortex, it can only remain in the same vortex for a few months. 
 
-If we consider that we can only see it while it is in the vortex near whose center we reside, and that it only appears there when the matter of the other vortex from which it came ceases to follow and surround it completely, we understand how, although the same comet remains of the same size and moves nearly always at the same speed, it must appear larger and faster at the beginning of its apparent course than at the end, and sometimes appear largest and fastest in the middle.
+We can only see it while it is in the vortex near whose center we reside. It only appears there when the matter of the other vortex from which it came ceases to follow and surround it completely. 
 
-For example, if we suppose the observer’s eye is near the center of F, the comet will appear much larger and faster at 3, where it first becomes visible, than at 4 where it disappears, because the line F3 is much shorter than F4, and the angle F43 is sharper than angle F34. If the observer is near Y, the comet will appear somewhat larger and faster at 5, where it first becomes visible, than at 8 where it disappears, but will appear largest and fastest when it is between 6 and 7, where it is closest to the observer. 
+This is why although the same comet remains of the same size and moves nearly always at the same speed, it appears larger and faster at the beginning of its apparent course than at the end, and sometimes appear largest and fastest in the middle.
+
+For example, if we suppose the observer’s eye is near the center of F, the comet will appear much larger and faster at 3, where it first becomes visible, than at 4 where it disappears, because the line F3 is much shorter than F4, and the angle F43 is sharper than angle F34. 
+
+If the observer is near Y, the comet will appear somewhat larger and faster at 5, where it first becomes visible, than at 8 where it disappears, but will appear largest and fastest when it is between 6 and 7, where it is closest to the observer. 
 
 Thus, when it is at 5, it may appear among the stars of Virgo, when between 6 and 7, near the northern pole, and cover thirty or forty degrees in one day, finally vanishing at 8, near the stars of the Northern Fish. This is similar to the remarkable comet observed by Regiomontanus in 1475.
 
@@ -73,8 +79,10 @@ Thus, when it is at 5, it may appear among the stars of Virgo, when between 6 an
 
 Why do comets only appear when they are in our sky, whereas fixed stars are visible even when they are very far away. The difference is that fixed stars emit their own light much more strongly than comets, which only reflect the light they borrow from the Sun. 
 
-By noting that the light of each star is an action by which all the matter of the vortex in which it resides tries to move away from it in straight lines drawn from all points of its surface, thus pressing all the matter of surrounding vortices along these straight or equivalent lines (since these lines, passing obliquely through other bodies, are refracted, as explained in Dioptrics), it can be easily believed that not only the light of nearby stars like F and f, but also more distant ones like Y, has the power to move the eyes of Earth's inhabitants, who are assumed to be not far from the center S.
+The light of each star is an action by which all the matter of the vortex in which it resides tries to move away from it in straight lines drawn from all points of its surface, thus pressing all the matter of surrounding vortices along these straight or equivalent lines (since these lines, passing obliquely through other bodies, are refracted, as explained in Dioptrics), it can be easily believed that not only the light of nearby stars like F and f, but also more distant ones like Y, has the power to move the eyes of Earth's inhabitants, who are assumed to be not far from the center S.
 
 Since the forces of these stars and the vortices surrounding them are in perpetual equilibrium, the force of the rays coming from F towards S is indeed diminished by the resisting matter of vortex AEIO, but not completely obliterated except at the center S. 
 
-Therefore, some of it can reach the Earth, which is somewhat distant from that center. Similarly, the rays coming from Y to Earth, passing through vortex AEV, lose none of their strength except due to distance. The matter of this vortex does not diminish their force more than it is increased by its tendency to move from F towards another part of the circumference AE. This applies similarly to other cases.
+Therefore, some of it can reach the Earth, which is somewhat distant from that center. Similarly, the rays coming from Y to Earth, passing through vortex AEV, lose none of their strength except due to distance.
+
+The matter of this vortex does not diminish their force more than it is increased by its tendency to move from F towards another part of the circumference AE. This applies similarly to other cases.

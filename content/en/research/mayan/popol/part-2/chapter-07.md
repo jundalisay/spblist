@@ -1,13 +1,11 @@
 ---
 heading: Chapter 7
 title: "The Toad"
-weight: 38
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+weight: 22
+# date: 2024-05-12
+description: The boys returned happily to the ball-court to play; they were playing alone a long time and cleared the court where their parents had played
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
-
 
 
 The boys returned happily to the ball-court to play; they were playing alone a long time and cleared the court where their parents had played.

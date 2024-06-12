@@ -1,11 +1,10 @@
 ---
 heading: Chapter 13
 title: "The Sacrifice"
-weight: 38
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+weight: 32
+# date: 2024-05-12
+description: "On the fifth day they appeared again and were seen in the water by the people"
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
 
 

@@ -1,13 +1,11 @@
 ---
 heading: Chapter 9
-title: "Xan the Mosquito"
-weight: 38
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+title: "Playing Ball"
+weight: 26
+# date: 2024-05-12
+description: The Lords of Xibalba thought that the boys' entrance there would be the beginning of their downfall.
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
-
 
 
 This was the first test of Xibalba. 
@@ -56,7 +54,7 @@ Soon all the lords summoned [the boys].
 
 "Very well," said Hunahpú.
 
-Then the Lords of Xibalba seized the ball; they threw it directly at the ring of Hunahpú. Immediately, while those of Xibalba grasped the handle of the knife of flint, the ball rebounded and bounced all around the floor of the ball-court.
+Then the Lords of Xibalba seized the ball and threw it directly at the ring of Hunahpú. Immediately, while those of Xibalba grasped the handle of the knife of flint, the ball rebounded and bounced all around the floor of the ball-court.
 
 "What is this?" exclaimed Hunahpú and Xbalanqué. "You wish to kill us? Perchance you did not send to call us? And your own messengers did not come? In truth, unfortunate are we! We shall leave at once," the boys said to them.
 
@@ -123,4 +121,3 @@ Thus were Hun-Camé and Vucub-Camé defeated by Hunahpú and Xbalanqué. And thi
 Immediately they went down to play ball, and also they played several tie-matches. Then they finished playing and agreed to play again the following day at dawn. So said the Lords of Xibalba.
 
 "It is well," said the boys upon finishing.
-

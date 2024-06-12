@@ -1,13 +1,11 @@
 ---
-heading: Chapter 2
+heading: Chapter 3
 title: "The Tribes of Men"
 weight: 7
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+# date: 2024-05-12
+description: Cahá-Paluna was the wife of Balam-Quitzé, Chomihá was the wife of Balam-Acab, Tzununihá was the wife of Mahucutah,  Caquixahá was the wife of Iqui-Balam
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
-
 
 
 Then their wives had being, and their women were made. 

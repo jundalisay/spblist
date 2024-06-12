@@ -2,12 +2,10 @@
 heading: Chapter 3
 title: "The Destruction of the First Men"
 weight: 8
-# date: 2022-06-05
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+# date: 2024-05-12
+description: Immediately, the wooden figures were annihilated, destroyed, broken up, and killed
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
-
 
 
 Immediately, the wooden figures were annihilated, destroyed, broken up, and killed.

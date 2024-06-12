@@ -1,37 +1,38 @@
 ---
 heading: Chapters 10-11
-title: "Xan the Mosquito"
-weight: 38
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+title: "The House of Cold, Jaguars, Fire, Bats"
+weight: 28
+# date: 2024-05-12
+description: "The house was full of hail; it was the mansion of cold. Soon, however, the cold was ended because with a fire of old logs the boys made the cold disappear"
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
 
 
 ## Chapter 10
 
-Afterwards, they entered the House of Cold. 
+Afterwards, they entered the House of Cold.  It is impossible to describe how cold it was. 
 
-It is impossible to describe how cold it was. 
-
-The house was full of hail; it was the mansion of cold. Soon, however, the cold was ended because with [a fire of] old logs the boys made the cold disappear.
+The mansion was full of hail. Soon, however, the cold was ended because with a fire of old logs the boys made.
 
 That is why they did not die. They were still alive when it dawned. 
 
-Surely what the Lords of Xibalba wanted was that they would die; but it was not thus, and when it dawned, they were still full of health, and they went out again, when the messengers came to get them.
+Surely the Lords of Xibalba wanted them to die. But when it dawned, they were still full of health, and they went out again, when the messengers came to get them.
 
 "How is this? They are not dead yet?" said the Lords of Xibalba. They were amazed to see the deeds of Hunahpú and Xbalanqué.
 
-Presently the [boys] entered the House of Jaguars. The house was full of jaguars. "Do not bite us! Here is what belongs to you,'' [the boys] said to the jaguars. And quickly they threw some bones to the animals, which pounced upon the bones.
+Then the boys entered the House of Jaguars which was full of jaguars. 
+
+"Do not bite us! Here is what belongs to you," the boys said to the jaguars. Quickly, they threw some bones to the animals, which pounced on the bones.
 
 "Now surely they are finished. Now already they have eaten their own entrails. At last they have given themselves up. Now their bones have been broken," so said the guards, all happy because of this.
 
-But they [the boys] did not die. As usual, well and healthy, they came out of the House of Jaguars.
+But the boys did not die. As usual, well and healthy, they came out of the House of Jaguars.
 
 "What kind of people are they? Where did they come from? " said all the Lords of Xibalba.
 
-Presently they [the boys] entered into the midst of fire in the House of Fire, inside which there was only fire; but they were not burned. Only the coals and the wood burned. And, as usual, they were well when it dawned. But what they [the Lords of Xibalba] wished was that [the boys] would die rapidly, where they had been. Nevertheless, it did not happen thus, which disheartened the Lords of Xibalba.
+Presently they [the boys] entered into the midst of fire in the House of Fire, inside which there was only fire; but they were not burned. Only the coals and the wood burned. 
+
+As usual, they were well when it dawned. But what they [the Lords of Xibalba] wished was that [the boys] would die rapidly, where they had been. Nevertheless, it did not happen thus, which disheartened the Lords of Xibalba.
 
 Then they put them into the House of Bats. There was nothing but bats inside this house, the house of Camazotz, a large animal, whose weapons for killing were like a dry point, and instantly those who came into their presence perished.
 

@@ -1,9 +1,9 @@
 ---
-heading: Chapters 1-2
+heading: Chapter 1
 title: "How Man was Created"
 weight: 2
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+# date: 2024-05-12
+description: "Here, then, is the beginning of when it was decided to make man, and when what must enter into the flesh of man was sought"
 image: "/covers/popol.jpg"
 # date: 2020-10-31
 ---

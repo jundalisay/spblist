@@ -2,8 +2,8 @@
 heading: Chapter 6
 title: "Hunahpú and Xbalanqué"
 weight: 20
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+# date: 2024-05-12
+description: Then they, Hunahpú and Xbalanqué, began to work in order to be well thought of by their grandmother and their mother.
 image: "/covers/popol.jpg"
 # date: 2020-10-31
 ---

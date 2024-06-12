@@ -2,14 +2,14 @@
 heading: Chapter 4
 title: "The Old Woman Xquic"
 weight: 18
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+# date: 2024-05-12
+description: "Hunbatz and Hunchouén were with their mothers when the woman called Xquic arrived."
 image: "/covers/popol.jpg"
 # date: 2020-10-31
 ---
 
 
-Well then, Hunbatz and Hunchouén were with their mothers when the woman called Xquic arrived.
+Hunbatz and Hunchouén were with their mothers when the woman called Xquic arrived.
 
 When the woman Xquic came before the mother of Hunbatz and Hunchouén, she carried her sons in her belly and it was not long before Hunahpú and Xbalanqué, as they were called, were to be born.
 

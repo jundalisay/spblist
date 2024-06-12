@@ -176,3 +176,14 @@ Sahasrara / Guru (Top) Cakra | Also Occult plexus
 Svadhisthana (Sex) Cakra | 
 Visuddha (Throat) Cakra | Also Physico-psychic plexus
 Navel Cakra | 
+
+
+
+### Sanskrit Counterparts
+
+Word | English Counterpart
+--- | ---
+Nirguńa Brahma | Objectless Existence
+Saguna Brahma | Existence
+Puruśottama | Macrocosmic Nucleus. Metaphysical center of Existence
+Avatára | derivation

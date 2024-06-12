@@ -1,13 +1,12 @@
 ---
 heading: Part 46
-title: "Divisoin of Arcs"
+title: "Division of Arcs"
 description: "The division of any arc of a circle into 3, 5, 7, and so on, equal parts, and in any ratio which is not obtainable by repeated doubling from the ones which have been shown above, cannot be carried out in a Geometrical manner which produces knowledge"
 image: /covers/harmony.jpg
 weight: 28
 contributors: ['Kepler']
 icon: /avatars/kepler.png
 ---
-
 
 
 
@@ -95,27 +94,15 @@ In general, if one subtracts two from the number that defines the section, the n
 
 From which it is clear that there is a huge difference between these algebraic terms and the degrees of knowledge which I discussed above.
 
-But would it not be possible to find a nobler art by which arcs may be divided
-into any number of parts? I reply that if all the chords of the arcs that are to
-be divided could all be considered in the same manner, and if we only have
-techniques applicable in common to all the required chords, as for dividing them
-in the required proportion with any number of means in continuous proportion:
-then no one will be able to devise anything nobler, and whoever takes any further
-pains about the matter is wasting his time; and in his confusion is setting up
-the opposite as a predicate."^^^ For from what is common [to all cases], nothing
-can be deduced that is applicable in any particular case.
-If, however, on the contrary we address ourselves to the specific differences
-among the lines subtended by the arcs which are to be divided: then the status
-of the question is changed, and in place of the problem of all kinds of division
-of an arc we substitute that of dividing the whole circle, using a Regular figure,
-which establishes a connection between the proposed chord and its own specific
-property: we have already dealt with these Regular figures above and we shall
-deal with them more fully below: because in this particular investigation we
-were seeking a means by which we may be able to draw some of those figures.
-So since such a means must by its nature be prior to the thing that is to be
-carried out by it; we should be assuming what we wish to prove if in order to
-procure our Means we were to seek the aid of the Regular figures.
+But would it not be possible to find a nobler art by which arcs may be divided into any number of parts? I reply that if all the chords of the arcs that are to be divided could all be considered in the same manner, and if we only have techniques applicable in common to all the required chords, as for dividing them in the required proportion with any number of means in continuous proportion: then no one will be able to devise anything nobler, and whoever takes any further pains about the matter is wasting his time; and in his confusion is setting up the opposite as a predicate.
 
-It might here be argued against me: that Pappus of Alexandria, in
-Proposition 31 of Book 4 of his Mathematical Collection, gives a
+For from what is common [to all cases], nothing can be deduced that is applicable in any particular case.
+
+If, however, on the contrary we address ourselves to the specific differences among the lines subtended by the arcs which are to be divided: then the status of the question is changed, and in place of the problem of all kinds of division of an arc we substitute that of dividing the whole circle, using a Regular figure, which establishes a connection between the proposed chord and its own specific property: 
+
+We have already dealt with these Regular figures above and we shall deal with them more fully below: because in this particular investigation we were seeking a means by which we may be able to draw some of those figures.
+
+So since such a means must by its nature be prior to the thing that is to be carried out by it; we should be assuming what we wish to prove if in order to procure our Means we were to seek the aid of the Regular figures.
+
+It might here be argued against me: that Pappus of Alexandria, in Proposition 31 of Book 4 of his Mathematical Collection, gives a
 way of trisecting an angle using a Hyperbola; and in Proposition 35 a way of dividing an angle in any ratio using a (fuadratrix and a Spiral: and Clavius, in Proposition 25 of Book VIII of his Practical Geometry achieves the same using the Conchoid of Nicomedes.^

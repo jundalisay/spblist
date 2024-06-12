@@ -2,10 +2,9 @@
 heading: Chapter 5
 title: "The Tribes of Men"
 weight: 7
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+# date: 2024-05-12
+description: They did not have fire. Only the people of Tohil had it.
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
 
 
@@ -84,5 +83,4 @@ This was the answer to Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam.
 
 Then they took Tohil's message. "Very well, we shall join you and we shall embrace him," they [the people] said when they heard and were told the message from Tohil. 
 
-And they did not delay in acting. "Good," they said, "but may it be soon!" And immediately they received the fire. Then they became warm.
-
+They did not delay in acting. "Good," they said, "but may it be soon!" And immediately they received the fire. Then they became warm.

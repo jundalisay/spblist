@@ -49,39 +49,76 @@ This concave side always faces the center of the vortex in which the comet is lo
 Finally, many other reasons could be given why comets are not visible to us unless they pass through our sky: the suitability of a body to reflect rays depends on very small details. For such specific effects, about which we do not have enough experiments, plausible causes should suffice, even if they are not necessarily true.
 
 
-### 133. On the Comet's Tail and Its Various Phenomena
+### 133. Yhe Comet's Tail and Its Various Phenomena
 
-In addition to the above, it is also observed that comets exhibit a long, radiant tail, which gives them their name. This tail is always seen on the side roughly opposite to the Sun. So, if the Earth is positioned in a straight line between the comet and the Sun, the tail appears to spread in all directions around the comet. For instance, the comet of 1475 displayed a tail when it was first seen; by the end of its appearance, as it was in the opposite region of the sky, it trailed its tail behind it.
+Comets exhibit a long, radiant tail, which gives them their name. 
 
-This tail can be longer or shorter depending on several factors: the size of the comet, as smaller comets have no tail and larger ones can appear very small when receding from our view. Additionally, the tail’s length depends on the location; all else being equal, the farther the Earth is from a straight line drawn from the comet to the Sun, the longer the tail appears. Sometimes, when the comet is hidden under the Sun's rays, only the tip of its tail, resembling a fiery beam, is visible. Lastly, the tail can sometimes be wider or narrower, straight or curved, and sometimes directly opposed to the Sun or not precisely so.
+This tail is always seen on the side roughly opposite to the Sun. So, if the Earth is positioned in a straight line between the comet and the Sun, the tail appears to spread in all directions around the comet. 
+
+For instance, the comet of 1475 displayed a tail when it was first seen; by the end of its appearance, as it was in the opposite region of the sky, it trailed its tail behind it.
+
+This tail can be longer or shorter depending on several factors: the size of the comet, as smaller comets have no tail and larger ones can appear very small when receding from our view. 
+
+Additionally, the tail’s length depends on the location; all else being equal, the farther the Earth is from a straight line drawn from the comet to the Sun, the longer the tail appears. 
+
+Sometimes, when the comet is hidden under the Sun's rays, only the tip of its tail, resembling a fiery beam, is visible. Lastly, the tail can sometimes be wider or narrower, straight or curved, and sometimes directly opposed to the Sun or not precisely so.
 
 
-### 134. On a Certain Refraction on Which This Tail Depends
+### 134. This Tail Depends a Certain Refraction
 
-To understand all these phenomena, we must consider a new type of refraction, not discussed in Dioptrics, because it is not observed in terrestrial bodies. This refraction arises because celestial globules are not all equal in size but gradually diminish from a certain limit, within which the sphere of Saturn is contained, to the Sun. This results in light rays, which are communicated through the larger globules, not only progressing in straight lines but also being refracted and scattered to the sides when they encounter smaller globules.
+The comet's tail is caused by a new type of refraction, not discussed in Dioptrics, because it is not observed in terrestrial bodies.
+
+This refraction arises because celestial globules are not all equal in size but gradually diminish from a certain limit, within which the sphere of Saturn is contained, to the Sun. 
+
+This results in light rays, which are communicated through the larger globules, not only progressing in straight lines but also being refracted and scattered to the sides when they encounter smaller globules.
 
 
 ### 135. Explanation of This Refraction
 
-Consider, for example, this figure, where many very small globules are surrounded by much larger ones, and let us assume that all are in continuous motion, as described for the globules of the second element. If one of them, A, is pushed towards B, its action is communicated immediately to all those found in a straight line from it in that direction. Notably, the action reaches from A to C intact, but a part of it can also pass from C to B, and the rest is dispersed towards D and E. The globule C cannot push globule 2 towards B without also pushing globules 1 and 3 towards D and E. The action from A to C, even though deflected towards D and E by the two globules 4 and 5, still tends directly to C. The continuous motion ensures that this action is never intercepted by two at once but only successively by one and then the other.
+Consider, for example, this figure, where many very small globules are surrounded by much larger ones, and let us assume that all are in continuous motion, as described for the globules of the second element. 
 
-When globule C pushes three globules 1, 2, 3 towards B, its action cannot be remitted to just one of them, and some always intercept this action obliquely. Therefore, although the principal ray proceeds directly towards B, innumerable weaker rays are dispersed to the sides towards D and E. Similarly, if globule F is pushed towards G, its action, when reaching H, is communicated to globules 789, sending the principal ray to G and dispersing others towards D and B.
+If one of them, A, is pushed towards B, its action is communicated immediately to all those found in a straight line from it in that direction. 
 
-Here, it is important to note the difference caused by the obliquity of the incidence of these actions on circle CH. The action from A to C, incident perpendicularly on the circle, disperses its rays equally towards D and E. The action from F to H, incident obliquely on the same circle, disperses its rays only towards its center; if the obliquity is 90 degrees, the rays are not sent to the other side except as much weaker ones, unless the obliquity is very small. Conversely, rays obliquely scattered towards the center of the circle are stronger the greater the obliquity.
+Notably, the action reaches from A to C intact, but a part of it can also pass from C to B, and the rest is dispersed towards D and E. The globule C cannot push globule 2 towards B without also pushing globules 1 and 3 towards D and E. The action from A to C, even though deflected towards D and E by the two globules 4 and 5, still tends directly to C. 
+
+The continuous motion ensures that this action is never intercepted by two at once but only successively by one and then the other.
+
+When globule C pushes three globules 1, 2, 3 towards B, its action cannot be remitted to just one of them, and some always intercept this action obliquely. 
+
+Therefore, although the principal ray proceeds directly towards B, innumerable weaker rays are dispersed to the sides towards D and E. Similarly, if globule F is pushed towards G, its action, when reaching H, is communicated to globules 789, sending the principal ray to G and dispersing others towards D and B.
+
+Here, it is important to note the difference caused by the obliquity of the incidence of these actions on circle CH. The action from A to C, incident perpendicularly on the circle, disperses its rays equally towards D and E. 
+
+The action from F to H, incident obliquely on the same circle, disperses its rays only towards its center; if the obliquity is 90 degrees, the rays are not sent to the other side except as much weaker ones, unless the obliquity is very small. Conversely, rays obliquely scattered towards the center of the circle are stronger the greater the obliquity.
 
 
 ### 136. Explanation of the Comet’s Tail Appearance
 
-Understanding this demonstration, it is easy to apply it to celestial globules. Although there is no place where larger globules immediately succeed much smaller ones, it is easy to believe that the difference between those above Saturn's orbit and those near Earth's orbit is similar to the described difference between larger and smaller globules. Therefore, the effect of this inequality on Earth's orbit should be the same as if the smallest globules immediately followed the larger ones, except that the lines along which these rays are dispersed are not straight but gradually curved.
+We apply this demonstration to celestial globules. 
 
-If S is the Sun, 2345 is the orbit in which the Earth moves in a year according to the sequence of 234, DEFG is the limit where celestial globules start to decrease in size towards the Sun. C is a comet in our sky. It must be assumed that the rays of the Sun striking this comet are reflected towards all parts of the spheroid DEFGH, with those perpendicular to F mainly proceeding straight to 3 but also scattered sideways. Rays obliquely striking G proceed straight to 4 but are also refracted towards 3, while those hitting H do not reach Earth's orbit directly but are reflected towards 4 and 5, and so forth.
+Although there is no place where larger globules immediately succeed much smaller ones, the difference between those above Saturn's orbit and those near Earth's orbit is similar to the described difference between larger and smaller globules.
+
+Therefore, the effect of this inequality on Earth's orbit should be the same as if the smallest globules immediately followed the larger ones, except that the lines along which these rays are dispersed are not straight but gradually curved.
+
+If `S` is the Sun, 2345 is the orbit in which the Earth moves in a year according to the sequence of 234, DEFG is the limit where celestial globules start to decrease in size towards the Sun. 
+
+`C` is a comet in our sky. It must be assumed that the rays of the Sun striking this comet are reflected towards all parts of the spheroid DEFGH, with those perpendicular to F mainly proceeding straight to 3 but also scattered sideways. 
+
+Rays obliquely striking G proceed straight to 4 but are also refracted towards 3, while those hitting H do not reach Earth's orbit directly but are reflected towards 4 and 5, and so forth.
 
 Thus, if Earth is in part 3 of its orbit, this comet will appear from there with its tail spread in all directions, resembling what is called a comet
 
-
 Namely, if S is the Sun, 2345 the orbit through which the Earth is carried in the space of a year, according to the order of the notes 234, DEFG that point from which the celestial globules begin to be gradually smaller and smaller up to the Sun (which point we said above does not have the shape of a perfect sphere, but of an irregular spheroid, much flatter towards the poles than towards the ecliptic), and let C be a Comet existing in our sky. 
 
-It is to be supposed that the rays of the Sun impinging on this Comet are reflected from there, towards all parts of the spheroid DEFGH, so that those which fall perpendicularly on F, indeed, AT VIII-1, 190 go straight to 3 for the most part, but still some of them are scattered here and there; and those which fall obliquely on G, not only go straight towards 4, but also are refracted towards 3; and finally, those which fall on H, do not reach the orbit of the Earth directly, but only reflect towards 4 and 5, and so on for the others. Hence it is clear that if the Earth is in the part 3 of its orbit, this Comet will be seen from it, with its tail dispersed in all directions; this type of Comet they call a Rose: for the direct rays from C to 3, its head; but weaker ones, which are reflected from E and G towards 3, will show its hair. But if the Earth is in 4, the same Comet will be seen from it through the straight rays CG4, and its coma, or rather tail, extended towards only one part, through rays from H and other places between G and H reflected towards 4. Likewise, if the Earth is in 2, the Comet will be seen from it by the straight rays CE2, and its coma by the oblique ones, which are between CE2 and CD2; And there will be no difference except that, with the eye existing in 2, the Comet will be seen in the morning, and its coma will precede it; but with the eye existing in 4, the Comet will be seen in the evening, and it will drag its tail behind it. 
+The rays of the Sun impinging on this Comet are reflected from there, towards all parts of the spheroid DEFGH, so that those which fall perpendicularly on F, AT VIII-1, 190 go straight to 3 for the most part, but still some of them are scattered here and there; and those which fall obliquely on G, not only go straight towards 4, but also are refracted towards 3;
+
+Finally, those which fall on H, do not reach the orbit of the Earth directly, but only reflect towards 4 and 5, and so on for the others. 
+
+Hence it is clear that if the Earth is in the part 3 of its orbit, this Comet will be seen from it, with its tail dispersed in all directions; this type of Comet they call a Rose: for the direct rays from C to 3, its head; but weaker ones, which are reflected from E and G towards 3, will show its hair. 
+
+But if the Earth is in 4, the same Comet will be seen from it through the straight rays CG4, and its coma, or rather tail, extended towards only one part, through rays from H and other places between G and H reflected towards 4. 
+
+Likewise, if the Earth is in 2, the Comet will be seen from it by the straight rays CE2, and its coma by the oblique ones, which are between CE2 and CD2; And there will be no difference except that, with the eye existing in 2, the Comet will be seen in the morning, and its coma will precede it; but with the eye existing in 4, the Comet will be seen in the evening, and it will drag its tail behind it. 
 
 
 ### 137. How beams also appear
@@ -91,7 +128,13 @@ If the eye is towards the point S, it will be prevented by the rays of the Sun f
 
 ### 138. Why the tails of Comets, not always directly opposite the Sun, nor always straight, appear
 
-This coma or tail must sometimes be straight, sometimes, Elzevier, p. 179, somewhat curved; sometimes in a straight line, which passes through the centers of the Comet and the Sun, sometimes deviating somewhat from it; and finally sometimes wider, sometimes narrower, or even brighter, since namely the lateral rays converge towards the eye. For all these things follow from the irregularity of the spheroid DEFGH: for towards the poles, where its shape is flatter, the tails of Comets must appear more straight and wide; in the bend between the poles and the ecliptic, more curved, and deviating from the opposite Sun; and according to the length of this bend, brighter, and narrower. And I think nothing has been observed so far about Comets, at least not anything to be considered neither as a fable nor as a miracle, whose cause is not here. 
+This coma or tail must sometimes be straight, sometimes, somewhat curved; sometimes in a straight line, which passes through the centers of the Comet and the Sun, sometimes deviating somewhat from it; and finally sometimes wider, sometimes narrower, or even brighter, since namely the lateral rays converge towards the eye.
+
+For all these things follow from the irregularity of the spheroid DEFGH: for towards the poles, where its shape is flatter, the tails of Comets must appear more straight and wide; in the bend between the poles and the ecliptic, more curved, and deviating from the opposite Sun; and according to the length of this bend, brighter, and narrower. 
+
+All the causes explained here have been observed so far about Comets in reality.
+
+<!-- , at least not anything to be considered neither as a fable nor as a miracle, whose cause is not here.  -->
 
 ### 139. Why such comae do not appear around Fixed Stars or Planets. 
 
@@ -101,6 +144,6 @@ But the answer is easy, first because they are not usually seen in Comets, since
 
 Secondly, as for the fixed stars, because since they do not borrow light from the Sun, but emit it from themselves, their coma, if there is any, must be scattered here and there, and must be very brief; and indeed it seems to be such around them: for they do not appear circumscribed by a uniform line, but surrounded by wandering rays from all sides; and perhaps not incorrectly we will also refer their twinkling (of which, however, there may be several other causes) to this. 
 
-But as for Jupiter and Saturn, I doubt not that, where the air is very clear, sometimes even short comae, extending towards the part away from the Sun, Elzevier, p. 180, may be seen around them; and I know I have read something like this somewhere, though I don't recall the author; and Aristotle says in his Meteorology, book 1, chapter 6, concerning the fixed stars, that they have also been seen as comets by the Egyptians sometimes, I think it should be understood about these planets; but what he reports about a comet, which was seen by him from one of the stars which are in the thigh of the Dog, either by a very oblique refraction in the air, or rather by a defect of his eyes, for he adds that it was less conspicuous when he was focusing his eyes on it than when he was looking away.
+But as for Jupiter and Saturn, I doubt not that, where the air is very clear, sometimes even short comae, extending towards the part away from the Sun may be seen around them; and I know I have read something like this somewhere, though I don't recall the author; and Aristotle says in his Meteorology, book 1, chapter 6, concerning the fixed stars, that they have also been seen as comets by the Egyptians sometimes, I think it should be understood about these planets; but what he reports about a comet, which was seen by him from one of the stars which are in the thigh of the Dog, either by a very oblique refraction in the air, or rather by a defect of his eyes, for he adds that it was less conspicuous when he was focusing his eyes on it than when he was looking away.
 
 

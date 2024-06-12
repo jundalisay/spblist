@@ -2,10 +2,9 @@
 heading: Chapter 1
 title: "The Creation by Tepeu and Gucumatz"
 weight: 4
-# date: 2022-06-05
+# date: 2024-05-12
 # description: "John Stuart Mill was part of the British East India Company who advocated free trade"
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
 
 

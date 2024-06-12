@@ -3,9 +3,8 @@ heading: Chapter 3
 title: "The Red Tree of Cochineal"
 weight: 8
 date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+description: "This is the story of a maiden, the daughter of a lord named Cuchumaquic."
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
 
 
@@ -33,7 +32,11 @@ In that instant the skull let a few drops of spittle fall directly into the maid
 
 "In my saliva and spittle I have given you my descendants," said the voice in the tree. 
 
-"Now my head has nothing on it any more, it is nothing but a skull without flesh. So are the heads of the great princes, the flesh is all which gives them a handsome appearance. And when they die, men are frightened by their bones. So, too, is the nature of the sons, which are like saliva and spittle, they may be sons of a lord, of a wise man, or of an orator. They do not lose their substance when they go, but they bequeath it; the image of the lord, of the wise man, or of the orator does not disappear, nor is it lost, but he leaves it to the daughters and to the sons which he begets. I have done the same with you. Go up, then, to the surface of the earth, that you may not die. Believe in my words that it will be so," said the head of Hun-Hunahpú and of Vucub-Hunahpú.
+"Now my head has nothing on it any more, it is nothing but a skull without flesh. So are the heads of the great princes, the flesh is all which gives them a handsome appearance.
+
+When they die, men are frightened by their bones. So, too, is the nature of the sons, which are like saliva and spittle, they may be sons of a lord, of a wise man, or of an orator. They do not lose their substance when they go, but they bequeath it; the image of the lord, of the wise man, or of the orator does not disappear, nor is it lost, but he leaves it to the daughters and to the sons which he begets. 
+
+I have done the same with you. Go up, then, to the surface of the earth, that you may not die. Believe in my words that it will be so," said the head of Hun-Hunahpú and of Vucub-Hunahpú.
 
 And all that they did together was by order of Huracán, Chipi-Caculhá, and Raxa-Caculhá.
 

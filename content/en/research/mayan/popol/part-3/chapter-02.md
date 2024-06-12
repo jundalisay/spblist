@@ -2,12 +2,10 @@
 heading: Chapter 2
 title: "The First Men"
 weight: 4
-date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+# date: 2024-05-12
+description: "The first men were: Balam-Quitzé, Balam-Acab, Mahucutah, Iqui-Balam"
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
-
 
 
 These are the names of the first men created:

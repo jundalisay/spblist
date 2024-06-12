@@ -1,13 +1,11 @@
 ---
 heading: Chapter 8
 title: "Xan the Mosquito"
-weight: 38
+weight: 24
 date: 2024-05-12
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+description: Then they went, each one carrying his blowgun, and went down in the direction of Xibalba.
 image: "/covers/popol.jpg"
-# date: 2020-10-31
 ---
-
 
 
 Then they went, each one carrying his blowgun, and went down in the direction of Xibalba. 
