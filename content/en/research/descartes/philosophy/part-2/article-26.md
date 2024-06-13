@@ -2,7 +2,7 @@
 title: "Movement and Rest"
 heading: Articles 26
 weight: 30
-description: ""
+description: "Effort is both needed for action and rest"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -86,6 +86,14 @@ Because from two contiguous bodies touching one another, insofar as they are tra
 
 and it cannot be understood in this way to be the whole earth, on account of a certain shifting of some of its parts, from the vicinity of smaller bodies to which they are contiguous; since we can often observe several such shiftings contrary to one another even in the earth itself. 
 
-As if body EFGH were the earth, and upon it at the same time body AB were transferred from E towards F, and CD from H towards G, although by this very fact the parts of the earth contiguous to body AB are transferred from B towards A, and there ought to be no less action or one of a different nature in these XXX than in that transference, so far as motion is concerned, yet we do not for that reason understand the earth to be moved from B towards A, or from the West towards the East, because by the same reasoning, insofar as its parts contiguous to body CD are transferred from C towards D, it would have to be understood to be moved also in another direction, namely from the East towards the West; which two things are contradictory. So therefore, in order not to depart too much from common usage of speaking, we shall not say here that the earth is moved, but only bodies AB and CD, and so on concerning the rest. But meanwhile we shall bear in mind that everything that is real and positive in the bodies which are moved, by reason of which they are said to be moved, is found also in their other contiguous bodies, which nevertheless we think of only as being at rest.”
+Assume body EFGH were the earth, and upon it at the same time body AB were transferred from E towards F, and CD from H towards G.
 
+This transfers the parts of the earth contiguous to body AB from B towards A.
 
+There should be no less action or one of a different nature in these XXX than in that transference, so far as motion is concerned.
+
+Yet we do not mean that the earth is moved from B towards A, or from the West towards the East. This is because by the same reasoning, insofar as its parts contiguous to body CD are transferred from C towards D, it would have to be understood to be moved also in another direction, namely from the East towards the West; which two things are contradictory. 
+
+So therefore, in order not to depart too much from common usage of speaking, we shall not say here that the earth is moved, but only bodies AB and CD, and so on concerning the rest. 
+
+But meanwhile, we shall bear in mind that everything that is real and positive in the bodies which are moved, by reason of which they are said to be moved, is found also in their other contiguous bodies, which nevertheless we think of only as being at rest.

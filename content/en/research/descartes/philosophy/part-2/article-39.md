@@ -2,7 +2,7 @@
 title: "The Second Law of Motion"
 heading: Articles 39-40
 weight: 42
-description: ""
+description: "The Second law of nature: Every motion be straight of itself, and that ideas which move in a circular manner should always tend to recede from the center of the circle which they describe"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -45,7 +45,13 @@ We experience this by the very sense of touch in a stone while we whirl it aroun
 
 ### 40. The third law: when one body meets another stronger, it loses nothing of its motion; in encountering a less strong man, he loses as much as he transfers into it.
 
-The third law of nature is this: When a body in motion encounters another, if it has less force to proceed in a straight line than the other has to resist it, then it is deflected in another direction and, while retaining its motion, loses only the determination of its motion; but if it has greater force, then it moves the other body with it and loses as much of its own motion as it imparts to it. 
+The third law of nature is this: When a body in motion encounters another, if it has less force to proceed in a straight line than the other has to resist it, then it is deflected in another direction and, while retaining its motion, loses only the determination of its motion. 
 
-Thus we experience that any hard bodies projected, when they strike another hard body, do not cease from motion but are reflected toward the opposite side; on the contrary, when they encounter a soft body, because they easily transmit all their motion to it, they are immediately reduced to rest. And all the particular causes of changes that happen to bodies are contained in this third law, at least those that are bodily; whether and what power minds, human or angelic, have in moving bodies, we do not now inquire, but reserve for discussion concerning man.
+But if it has greater force, then it moves the other body with it and loses as much of its own motion as it imparts to it. 
+
+Thus we experience that any hard bodies projected, when they strike another hard body, do not cease from motion but are reflected toward the opposite side; on the contrary, when they encounter a soft body, because they easily transmit all their motion to it, they are immediately reduced to rest. 
+
+All the particular causes of changes that happen to bodies are contained in this third law, at least those that are bodily.
+
+The power that minds, whether human or angelic, have in moving bodies is discussed in my Treatise on Man.
 

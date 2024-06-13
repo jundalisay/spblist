@@ -37,7 +37,9 @@ Specifically, they are more agitated towards channel I, through which, when they
 
 Then, the remaining spirits are received into K and L, where the channels, being very capacious, allow easy passage for them; or if entry is denied there, forcing them to return to the tubes aa, which are on the inner surface of the brain, causes immediate scotoma or vertigo, disturbing the functions of imagination. 
 
-Moreover, it is worth noting that while I say the spirits, in their exit from gland H, tend towards the concave spaces or the inner surface of the brain directly opposite to them, I do not mean that they tend directly towards those two points diametrically opposite to them. Certainly, since the substance of the brain is very soft and pliable, its cavities would be very narrow and almost entirely closed, as is seen in the brain of a corpse, if certain spirits did not enter them. 
+Moreover, the spirits, in their exit from gland H, tend towards the concave spaces or the inner surface of the brain directly opposite to them, I do not mean that they tend directly towards those two points diametrically opposite to them. 
+
+Certainly, since the substance of the brain is very soft and pliable, its cavities would be very narrow and almost entirely closed, as is seen in the brain of a corpse, if certain spirits did not enter them. 
 
 But the origin from which those spirits emanate usually abounds with such a copious supply of them that as soon as they enter the ventricles of the brain, they have the strength to remove any surrounding material hindering them, to inflate it, and to intensify all the nerve filaments that proceed from it, just as a slightly stronger wind can spread sails and stretch all the ropes to which they are attached. 
 

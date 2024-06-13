@@ -12,7 +12,7 @@ writer:
 
 
 
-### {{< s v="29" >}} Conceive the surface AA, which faces the concavities EE. 
+### 29. Conceive the surface AA, which faces the concavities EE. 
 
 It is like a fairly expanded, dense, and intricately woven plexus, resembling a mesh of crosshatched texture.
 
@@ -37,7 +37,7 @@ The shorter filaments of this plexus are received into space CC, where each term
 
 <!-- To explain everything noteworthy that occurs in this plexus, it will be worth discussing  -->
 
-## The distribution of spirits
+## The Distribution of Spirits
 
 They are not confined to any place. 
 

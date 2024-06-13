@@ -34,44 +34,49 @@ I assert that all points are movable in the universe. From this, I conclude that
 ### 14. What is the difference between 'place' and 'space'?
 
 The terms 'place' and 'space' have different meanings. 
-- 'Place' expressly designates situation than magnitude or figure.
-- 'Space' expressly designates magnitude or figure.
+- 'Place' expressly designates location instead of size or shape [i.e. point]
+<!-- situation than magnitude or figure. -->
+- 'Space' expressly designates size and shape [i.e. area]
+<!-- magnitude or figure. -->
 
-We often say that a thing succeeds to the place of another, although it be not exactly of the same magnitude or figure.
+We often say that a thing succeeds to the place of another, although it is not exactly of the same shape or size.
+ <!-- magnitude or figure. -->
 
 But we do not therefore admit that it occupies the same space as the other.
 
-When the location is changed, we say that the place also is changed, although there are the same magnitude and shape as before.
+When the location is changed, we say that the place also is changed, although there are the same shape and size as before. 
+
+<!-- magnitude and shape as before. -->
 
 So when we say that a thing is in a particular place, we mean merely that it is situated in a determinate way with respect to  other objects.
 
-When we add that it occupies such a space or place, we understand besides that it is of such determinate magnitude and shape as exactly to fill this space.
-
+When we add that it occupies such a space or place, we understand besides that it is of such determinate size and shape as exactly to fill this space.
 
 
 ### 15. How external place is rightly taken for the surfaces of the surrounding body
 
-Thus we never distinguish space from length, width, and height.
+Thus, we never distinguish space [i.e. area] from length, width, and height.
 
 We sometimes, however, consider place as in the thing placed and at other times as out of it. 
 
-Internal place differs in no way from space. 
-
+Internal place is the same as space. 
+<!-- differs in no way from -->
 But external place may be taken for the surfaces that immediately surrounds the thing placed. 
 
-'Surfaces' here does not mean any part of the surrounding body, but only the boundary between the surrounding and surrounded bodies, which is nothing more than a mode.
+'Surfaces' here does not mean any part of the surrounding body, but only **the boundary between the surrounding and surrounded bodies**, which is nothing more than a mode.
 
-At least, 'surfaces' in general make no part of one body or another body, but is always considered the same, provided it retains the same magnitude and figure. 
+At least, 'surfaces' in general make no part of one body or another body, but is always considered the same, provided it retains the same size and shape. 
+<!-- magnitude and figure.  -->
 
 If all of a body's surfaces were changed, it does not mean that its body had changed its place if it stayed in the same location.
 
   <!-- situation with respect to the other bodies that are regarded as immovable.  -->
 
-A boat is carried in one direction by the current of a stream. It is impelled by the wind in the opposite with an equal force, its location with respect to the banks is not changed.*
+Imagine a boat that is carried in one direction by the current of a stream. It is blown by the wind in the opposite direction with an equal force, causing its location with respect to the banks to not change.*
 
 > *Superphysics Note: One force is Yang or positive. Another force is Yin or Negative. Their interaction creates a 'surface' which seems static even if both forces are very dynamic.
 
 
-We will readily admit that it remains in the same place even if the whole 'surface' which surrounds it is incessantly changing.
+The boat remains in the same place even if the whole 'surface'* which surrounds it is incessantly changing.
 
-
+> *Superphysics Note: Here, the surface is the boundary beteen the boat and the stream and the boat and the wind, as one unit. This will make sense in explaining sun spots, solar flares, stellar and galactic halos, universe expansion via red-shift, etc  

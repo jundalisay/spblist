@@ -1,8 +1,8 @@
 ---
 title: "Law of Motion and Conservation of Energy"
-heading: Articles 41
+heading: Articles 41-44
 weight: 44
-description: ""
+description: "Probatio posterioris partis"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

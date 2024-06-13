@@ -88,7 +88,7 @@ However, when gland `H` is inclined towards some part solely by the force of the
 - the inequalities of the spirits, which consist of the particular ones mutually encountering each other, and
 - traces of memory
 
-Wehn the distinctive shape of an object is impressed on a part of the brain more distinctly than any other, the gland accurately inclines to it. 
+When the distinctive shape of an object is impressed on a part of the brain more distinctly than any other, the gland accurately inclines to it. 
 - The spirits tending towards it then receive the impression.
 - This is why past things sometimes return to thought merely by chance, even if memory is not much excited by any object that strikes the senses. 
 

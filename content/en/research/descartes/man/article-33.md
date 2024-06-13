@@ -68,13 +68,21 @@ As for the disposition of the filaments composing the substance of the brain: it
 
 ## The natural disposition of these filaments
 
-God has so arranged these filaments in forming them, that the channels and pores which He has left among them can convey the spirits, agitated by a peculiar force, into all the nerves to which they should tend, so that in this machine they may excite the same motions to which a similar action, arising from the instinct of our nature, could prompt us. 
+God has so arranged these filaments so that their channels and pores can convey the spirits, agitated by a peculiar force, into all the nerves to which they should tend.
 
-Just as, for example, when fire A burns hand B, it causes the spirits that enter through tube 7 to tend towards O: these spirits find two principal pores and ducts, o, r and o, s.
+In this way, the spirits can excite the same motions in this bodily machine such as those arising from our instinct.
 
-Of which one, o, r, conveys them into all the nerves that serve to move the external members, in such a way as is required to avoid the force of such action: namely, into those which retract the hand, or the arm, or the entire body; and into those which turn the head around, and direct the eyes towards the fire, to see more distinctly what needs to be done to avoid it.
+ <!-- of our nature, could prompt us.  -->
 
-But through another duct, `o, s`, the spirits pass into all those nerves which serve internal movements, similar to those which follow pain in us: namely, into those which contract the heart, agitate the liver, and similar others. 
+For example, when fire A burns hand B, it causes the spirits that enter tube 7 and go towards O. They find two principal pores and ducts, o, r and o, s.
+
+o, r, conveys them into all the nerves that move the external members that is needed to avoid the fire by:
+- retracting the hand, arm, or the entire body
+- moving the head around and direct the eyes towards the fire
+
+<!-- , to see more distinctly what needs to be done to avoid it. -->
+
+But through another duct, `o, s`, the spirits pass into all those nerves which serve internal movements, similar to those which follow pain in us. These contract the heart, agitate the liver, and similar others. 
 
 Likewise, into those nerves which can produce those external movements by which these internal movements are signified: as into those which induce tears, which furrow the brow and cheeks, and which prepare the voice for wailing. 
 
@@ -104,7 +112,7 @@ Examples are laughter or weeping.
 
 These are merely testimonies of certain passions.
 
-These only occur if some occasion arises; and because the nerves through which the ingress of spirits occurs to create them are closely related to those through which the spirits are received to excite passions, as is evident from anatomy. 
+These only occur if some occasion arises. This is because the nerves through which the ingress of spirits occurs to create them are closely related to the nerves through which the spirits are received to excite passions, as is evident from anatomy. 
 
 
 ## How do the different qualities of spirits have the power to change their courses?
@@ -119,14 +127,22 @@ If stronger particles of spirits are conveyed to certain nerves, but immediately
 
 Similarly, if the action of fire A lies midway between those which can lead the spirits to O and to P, that is, between those which produce pain and pleasure: 
 
-it is not difficult to understand that only their multiple inequalities, inherent in themselves, suffice to determine them towards one or the other, as the action is pleasing to us when we are in a cheerful mood, often displeasing when we are tormented by melancholy. 
+Only their multiple inequalities, inherent in themselves, suffice to determine them towards one or the other, as the action is pleasing to us when we are in a cheerful mood, often displeasing when we are tormented by melancholy. 
 
 Hence, the explanation must be sought in those things which have been said about temperaments or inclinations, both natural and acquired, insofar as they depend on the difference in spirits.
 
-As for the different positions of external limbs: it is only necessary to consider changing the pores through which the spirits are immediately conveyed into the nerves; so that, for example, if when fire A burns hand B, the head would incline to the left, as it is now inclined to the right, the spirits would flow clearly, just as they now pass from 7 to N, then to O, and from there to r and s. 
+### The different positions of external limbs
 
-But from r, when it should pass to X, where I suppose it should tend, to turn the head to the right hand, they would go to Z: where, according to what I assume, they should tend if the head were turned to the left. Because that position of the head, which is now the cause that the filaments of the substance of the brain, which are around X, are much looser and can be more easily separated from each other than those which are around Z: changing that position would produce the contrary effect: for those around Z would then be looser, while those around X would be very tense and tight. 
+Changing the pores through which the spirits are immediately conveyed into the nerves cause the limbs to momve. 
 
-So it can be understood how a single action without any change in itself can now move this foot of the machine, now another, as is necessary to progress: it is enough to consider; the spirits passing through only one pore, whose end is arranged differently, and leading them into other nerves, when the left foot has progressed farther than the right. 
+For example, if when fire A burns hand B, the head would incline to the left, as it is now inclined to the right, the spirits would flow clearly, just as they now pass from 7 to N, then to O, and from there to r and s. 
 
-All that has been said above about respiration and similar other movements, which do not ordinarily depend on any idea, can be referred to here.
+But from r, when it should pass to X, where I suppose it should tend, to turn the head to the right hand, they would go to Z: where, according to what I assume, they should tend if the head were turned to the left. 
+
+Because that position of the head, which is now the cause that the filaments of the substance of the brain, which are around X, are much looser and can be more easily separated from each other than those which are around Z: changing that position would produce the contrary effect: for those around Z would then be looser, while those around X would be very tense and tight. 
+
+This is how a single action without any change in itself can move one foot, and then the other foot as progress.
+
+It is done when the spirits pass through only one pore, whose end is arranged differently, leading them into other nerves when the left foot has progressed farther than the right. 
+
+This is how respiration and similar other movements (which do not depend on any idea) work.

@@ -14,7 +14,7 @@ aliases:
 
 
 
-### 10. Through examination of the sieve-like structure, it can be noted that none of the blood particles, except for those entering the brain, are either stronger or more vigorous than those transported to the vessels dedicated to reproduction. 
+### 10. Through examination of the sieve-like structure, it can be noted that none of the blood particles, except for those entering the brain, are either stronger or more vigorous than those transported to the vessels dedicated to reproduction
 
 For example, those particles with enough strength to reach `D` but are denied further passage to `C due to the narrowness of the location, return rather to `E` than to `F` or `G`, as the direct path leads there. 
 
@@ -24,19 +24,23 @@ The portion of blood that rises up to the brain through the arteries:
 - aids in the nutrition and preservation of brain tissue
 - primarily produces a very subtle breeze, or rather a highly agile and pure flame, which we call "animal spirits". 
 
-The arteries are divided into countless small branches, forming marvelous networks that line the floors of the brain's ventricles like carpets. These converge around a gland roughly located in the center of the brain, near the entrance of its ventricles or cavities, and exist with nearly infinite pores. 
+The arteries are divided into countless small branches. These form marvelous networks that line the floors of the brain's ventricles like carpets. 
 
-The narrowness of those pores deny the passage of thicker blood parts, allowing only the finer parts to flow into the gland.
+These converge around a gland roughly located in the center of the brain, near the entrance of its ventricles or cavities, and exist with nearly infinite pores.
+
+The narrowness of those pores deny the passage of thicker blood parts. They allow only the finer parts to flow into the gland.
 
 These arteries do not end there. They rather join each other more closely and ascend directly to the large vessel that irrigates the entire surface of the brain like a tide. 
 
 The thicker blood particles lose some of their motion while struggling through the labyrinthine paths of these fine networks. 
 
-The finer particles, mixed in, possess the power to propel themselves, thereby transferring some of their motion into these networks. 
+The finer particles, mixed in, possess the power to propel themselves, transferring some of their motion into these networks. 
 
 These, in turn, cannot lose their momentum. Instead, their force increases due to the motion transferred to them by the thicker particles, as there are no other bodies present to transfer their motion so easily.
 
-As the thicker parts of the blood travel straight to the outer surface of the brain to nourish its substance, they cause the more agitated finer particles to be deflected and enter the gland. This gland is like a highly abundant spring from which they can promptly leap into the brain's cavities in all directions. 
+As the thicker parts of the blood travel straight to the outer surface of the brain to nourish its substance, they cause the more agitated finer particles to be deflected and enter the gland. 
+
+This gland is like a highly abundant spring from which they can promptly leap into the brain's cavities in all directions. 
 
 Thus, without any preparation or alteration, other than being separated from the thicker parts and still being agitated with the intense speed impressed upon them by the heat of the heart, they lose the form of blood and come to be known as animal spirits.
 
