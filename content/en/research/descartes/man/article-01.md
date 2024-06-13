@@ -1,7 +1,7 @@
 ---
-heading: Sections 1-4
+heading: Articles 1-4
 title: The Machine of the Human Body
-weight: 2
+weight: 10
 description: "The body is a machine of earth which God forms on purpose to make it as similar to us as possible. He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies."
 writer:
   name: Rene Descartes
@@ -11,8 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-## {{< s v="1" >}} These men will be composed, like us, of a soul and a body. 
-
+### 1. These men will be composed, like us, of a soul and a body. 
 
 <!-- ; and I must first describe to you the body separately, then the soul also separately, and finally I must show you how these two natures must be joined and united to compose men who resemble us. -->
 
@@ -112,6 +111,3 @@ Respiration serves only to thicken these vapors to maintain this fire.
 Babies who are still in their mothers' wombs cannot draw any fresh air by breathing. They have 2 conduits which make up for this defect:
 1. One through which the blood of the vena cava passes into the vein called the artery
 2. The other through which the vapors or rarefied blood of the artery called the vein are exhaled and go into the great artery
-
-
-

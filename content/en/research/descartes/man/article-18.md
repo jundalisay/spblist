@@ -1,8 +1,8 @@
 ---
-heading: Section 18
+heading: Article 18
 title: "Sight"
 # date: 2022-01-29
-weight: 16
+weight: 30
 description: "The sense of sight depends on two nerves composed of a vast number of extremely mobile capillaries"
 image: "/covers/man.jpg"
 writer:
@@ -11,7 +11,7 @@ writer:
 ---
 
 
-## {{< s v="18" >}}  The sense of sight depends on two nerves composed of a vast number of extremely mobile capillaries
+### 18. The sense of sight depends on two nerves composed of a vast number of extremely mobile capillaries
 
 <!-- remains to be explained a little more precisely, as it pertains more to my goal. 
 
@@ -37,7 +37,7 @@ Moreover, they protect the nerve against injuries from air and other bodies, whi
 
 
 
-## {{< s v="19" >}} Convexity and refraction is how the light coming from objects can enter through the pupil. 
+### 19. Convexity and refraction is how the light coming from objects can enter through the pupil. 
 
 <!-- looking at that part of the eye -->
 
@@ -91,3 +91,4 @@ Therefore, it happens that the soul can perceive only one single point distinctl
 For if, for example, all the rays of point R are accurately gathered at point S, the rays of point X will be less accurately collected at point Y than the rays of point T at point V. And the same judgment holds for the others, namely, in proportion to their distance from point R. 
 
 However, the muscles O O, turning the eyes in all directions very readily, compensate for this deficiency; namely, by applying them successively to all points of the object in the smallest possible time, so that the soul sees one thing after another, yet all very distinctly.
+

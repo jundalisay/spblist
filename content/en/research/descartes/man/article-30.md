@@ -1,8 +1,8 @@
 ---
-heading: Section 30
+heading: Articles 30-31a
 title: "Ideas and Memory"
 # date: 2022-01-29
-weight: 24
+weight: 46
 description: "That obliquity serves the formation of the ideas of objects which strike the senses"
 image: "/covers/man.jpg"
 writer:
@@ -11,8 +11,7 @@ writer:
 ---
 
 
-
-### {{< s v="30" >}} The spirits flow out from gland H from the marked figure M after they have dilated the part of the brain marked A and all pores are opened. 
+### 30. The spirits flow out from gland H from the marked figure M after they have dilated the part of the brain marked A and all pores are opened. 
 
 They then withdraw from there to B, then to C, and finally towards D, from where they spread into all the nerves. 
 
@@ -38,7 +37,7 @@ In exactly the same way, rays incident on point 3 open the tube 4.
 
 
 
-### {{< s v="31" >}} The spirits which try to enter each of the tubes 2, 4, 6, and similar ones, not to come out indifferently from all points that are on the surface of gland H, but only from certain ones individually.
+### 31. The spirits which try to enter each of the tubes 2, 4, 6, and similar ones, not to come out indifferently from all points that are on the surface of gland H, but only from certain ones individually.
 
 For example, those which come out from point A, strive to enter tubes 4 and 6, and so on for the others. 
 
@@ -93,12 +92,24 @@ In this matter consists memory.
 
 For example, when the action of object `ABC` more widely opens tubes 2, 4, 6, 8, it is the cause that spirits enter them in greater abundance than they could without this aid. 
 
-It is also the cause that as they pass further to N, they have the power to form certain channels for themselves there, which, even when the action of object ABC ceases, remain open: or at least if they are closed, they leave behind them a disposition in the filaments from which that part of the brain N is composed, through which they can be easily reopened far more readily than if they had never been opened. Figure XXXVI. Just as if multiple needles had passed through the fabric, as you see in that marked A, the small holes made in it would remain open, as around B, even after the needles were removed.
+It is also the cause that as they pass further to N, they have the power to form certain channels for themselves there, which, even when the action of object ABC ceases, remain open: or at least if they are closed, they leave behind them a disposition in the filaments from which that part of the brain N is composed, through which they can be easily reopened far more readily than if they had never been opened. 
+
+Figure 36 
+
+Just as if multiple needles had passed through the fabric, as you see in that marked A, the small holes made in it would remain open, as around B, even after the needles were removed.
 
 
-Or if they were closed again, certain signs would nevertheless remain in that texture, such as around O: which could be easily reopened anew. Figure XXXVIII. Moreover, it must be noted that if only certain ones of them were opened again, such as A and B for that reason alone, even others, for instance C and D, would also be opened at the same time: especially if they had been opened together more often, and others had not been accustomed to opening without them.
+Or if they were closed again, certain signs would nevertheless remain in that texture, such as around O: which could be easily reopened anew. 
+
+Figure 37. 
+
+Moreover, it must be noted that if only certain ones of them were opened again, such as A and B for that reason alone, even others, for instance C and D, would also be opened at the same time: especially if they had been opened together more often, and others had not been accustomed to opening without them.
 
 
-Hence it is clear how the recollection of one thing can be aroused by the memory of another that was impressed on memory at the same time. Just as, with the nose and eyes perceiving sight, I immediately imagine the forehead, mouth, and all the other parts of the face: because I am accustomed to seeing none of those parts without looking at all of them together. Similarly, looking at fire, I remember its heat: since often, by seeing fire, I also perceive its heat simultaneously. 
+This is how the recollection of one thing can be aroused by the memory of another that was impressed on memory at the same time. 
 
-Figure XXXVIII. 
+Just as, with the nose and eyes perceiving sight, I immediately imagine the forehead, mouth, and all the other parts of the face: because I am accustomed to seeing none of those parts without looking at all of them together. 
+
+Similarly, looking at fire, I remember its heat: since often, by seeing fire, I also perceive its heat simultaneously. 
+
+Figure 38. 

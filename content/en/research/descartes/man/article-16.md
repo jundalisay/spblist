@@ -1,8 +1,8 @@
 ---
-heading: Section 16
+heading: Articles 16-17
 title: "Hearing and Harmony"
 # date: 2022-01-29
-weight: 15
+weight: 28
 description: "The filaments that make up the ears are not necessarily as thin as those preceding them"
 image: "/covers/man.jpg"
 writer:
@@ -12,8 +12,7 @@ writer:
 
 
 
-
-## {{< s v="16" >}} However, the filaments that make up the ears are not necessarily as thin as those preceding them
+### 16. However, the filaments that make up the ears are not necessarily as thin as those preceding them
 
 <!-- organs of hearing . -->
 
@@ -59,7 +58,7 @@ This is similar to the roughness of a stone being less pleasing to the touch tha
 A and B, or A B C, or A B D, or A B E, or even A B C E, harmonize better than A and F, or A G D, or A D E, etc.
 
 
-## {{< s v="17" >}} This is how the soul, which inhabits the machine I, can be pleased by Music
+### 17. This is how the soul, which inhabits the machine I, can be pleased by Music
 
 <!-- , which is composed according to the same rules as our own.  -->
 
@@ -68,3 +67,4 @@ It shows how it can be made far more perfect, if only we observe that sweeter th
 Just as salt and vinegar often give greater pleasure to the tongue than sweet water. 
 
 This is why Music uses thirds, sixths, and sometimes even dissonances, no less than unisons, octaves, and fifths.
+

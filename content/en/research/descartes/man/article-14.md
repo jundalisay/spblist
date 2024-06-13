@@ -1,8 +1,8 @@
 ---
-heading: Section 14
+heading: Articles 14-15
 title: "Taste and Smell"
 # date: 2022-01-29
-weight: 14
+weight: 20
 description: "The filaments that make up the nerve center of the tongue be more easily moved than those that assist touch."
 image: "/covers/man.jpg"
 writer:
@@ -12,7 +12,7 @@ writer:
 
 
 
-## {{< s v="14" >}} The filaments that make up the nerve center of the tongue be more easily moved than those that assist touch. 
+### 14. The filaments that make up the nerve center of the tongue be more easily moved than those that assist touch. 
 
 <!-- and serve the organs of taste can -->
 
@@ -61,7 +61,7 @@ The reason for this is that saliva, coming from the stomach and imbued with the 
 
 
 
-## {{< s v="15" >}} The sense of smell is also created by numerous filaments emanating from the base of the brain to the nose. 
+### 15. The sense of smell is also created by numerous filaments emanating from the base of the brain to the nose. 
 
 These filaments do not differ in any way from the nerves of touch or taste, except that they do not extend beyond the skull.
 

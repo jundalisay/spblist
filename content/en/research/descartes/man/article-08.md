@@ -1,7 +1,7 @@
 ---
-heading: Sections 8-9
+heading: Articles 8-9
 title: How the Blood Goes Through the Body
-weight: 6
+weight: 14
 description: "The pulse, or beat of the arteries, depends on the 11 little skins. These are like little doors which close and open the entrances of the 4 vessels which look into the 2 cavities of the heart"
 writer:
   name: Rene Descartes
@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-## {{< s v="8" >}} When arteries swell, the blood particles within them are dispersed in all directions to the roots of certain filaments.
+### 8. When arteries swell, the blood particles within them are dispersed in all directions to the roots of certain filaments.
 
 These filaments form bones, flesh, skin, nerves, brain, and other solid parts according to the various ways they are connected and interwoven. 
 
@@ -39,7 +39,7 @@ In all these locations, it is solely the arrangement, shape, or size of the pore
 
 
 
-## {{< s v="9" >}} The more vivid and actively moving blood particles ascend to the brain's cavities or ventricles. 
+### 9. The more vivid and actively moving blood particles ascend to the brain's cavities or ventricles. 
 
 This is because the arteries that carry them are situated in a straighter line than other arteries branching from the heart. 
 

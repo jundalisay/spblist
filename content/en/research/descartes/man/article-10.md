@@ -1,18 +1,20 @@
 ---
-heading: Section 10
+heading: Article 10
 title: How the Blood is Converted into Animal Spirits
-weight: 8
+weight: 16
 description: "The portion of blood that rises up to the brain through the arteries primarily produces the animal spirits"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/man.jpg"
 icon: "/icons/descartes.png"
+aliases:
+  /research/descartes/man/section-10
 ---
 
 
 
-## {{< s v="10" >}} Through examination of the sieve-like structure, it can be noted that none of the blood particles, except for those entering the brain, are either stronger or more vigorous than those transported to the vessels dedicated to reproduction. 
+### 10. Through examination of the sieve-like structure, it can be noted that none of the blood particles, except for those entering the brain, are either stronger or more vigorous than those transported to the vessels dedicated to reproduction. 
 
 For example, those particles with enough strength to reach `D` but are denied further passage to `C due to the narrowness of the location, return rather to `E` than to `F` or `G`, as the direct path leads there. 
 

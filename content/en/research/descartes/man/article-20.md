@@ -1,8 +1,8 @@
 ---
-heading: Section 20
+heading: Article 20
 title: "Distance Perception"
 # date: 2022-01-29
-weight: 17
+weight: 32
 description: "All those different colors, which novelty endears and often provide greater delight to the sight than the color green, are like excellent and unusual musical modulations or the delicate food of a wise cook"
 image: "/covers/man.jpg"
 writer:
@@ -12,9 +12,9 @@ writer:
 
 
 
-## {{< s v="20" >}} 
+### 20. I do not individually explain what gives the soul the opportunity to conceive all the differences in color
 
-Here I do not individually explain what gives the soul the opportunity to conceive all the differences in color, as I have already discussed them abundantly before. 
+<!-- , as I have already discussed them abundantly before.  -->
 
 Nor do I describe at length here what objects pleasantly affect sight and what offend it. For it is not difficult to perceive, from what is known about other senses, that overly intense light can harm vision, while moderate light can refresh it, especially the color green, which consists of the proportion of one to two and is related to the octave in musical consonances, and daily bread compared to other types of food, which generally bring more pleasure. 
 
@@ -68,3 +68,4 @@ As for the disposition of the crystalline humor, it also changes less sensibly a
 Finally, the judgment regarding distance, which we form either by opinion based on the size of the objects we conceive, or from the fact that the rays emanating from their different points do not unite so accurately on the fundus of the eye, shows how easily we can be deceived by arguments based on perspective. 
 
 For whenever figures are painted smaller in perspective than we imagine they should be, and with darker colors and more confused lines, they always appear more distant and larger than they really are.
+

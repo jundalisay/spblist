@@ -1,8 +1,8 @@
 ---
-heading: Sections 21-25
+heading: Articles 21-25
 title: "Hunger and Thirst"
 # date: 2022-01-29
-weight: 18
+weight: 35
 description: "Rene Descartes explains how hunger and thirst are generated"
 image: "/covers/man.jpg"
 writer:
@@ -14,11 +14,11 @@ writer:
 
 ## Hunger
 
-### {{< s v="21" >}}  The body also has internal senses. 
+### 21. The body also has internal senses. 
 
 <!-- Having thus explained the five external senses as they are found in this machine, it is not permissible to pass over the internal senses with silence, with which it is also equipped. -->
 
-### {{< s v="22" >}} When the strong water in the stomach does not find sufficient food there to consume and exert its powers, the nerve filaments there become more vigorously agitated than usual.
+### 22. When the strong water in the stomach does not find sufficient food there to consume and exert its powers, the nerve filaments there become more vigorously agitated than usual.
 
 
 <!-- Therefore, when the liquid, which I mentioned above as performing the function of  -->

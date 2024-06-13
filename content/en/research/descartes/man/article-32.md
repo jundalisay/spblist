@@ -1,8 +1,8 @@
 ---
-heading: Sections 13
+heading: Article 32
 title: "The Spirits and Motion"
 # date: 2022-01-29
-weight: 12
+weight: 50
 description: "How do the spirits enter into the nerves and create motion?"
 image: "/covers/man.jpg"
 writer:
@@ -11,8 +11,7 @@ writer:
 ---
 
 
-
-## {{< s v="32" >}} How do the spirits enter into the nerves and create motion?
+### 32. How do the spirits enter into the nerves and create motion?
 
  <!-- consider the motions dependent on them.  -->
 

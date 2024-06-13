@@ -1,7 +1,7 @@
 ---
-heading: Sections 5-7
+heading: Articles 5-7
 title: How the Blood Goes Through the Body
-weight: 4
+weight: 12
 description: "The pulse, or beat of the arteries, depends on the 11 little skins. These are like little doors which close and open the entrances of the 4 vessels which look into the 2 cavities of the heart"
 writer:
   name: Rene Descartes
@@ -25,9 +25,11 @@ contentus ab earum extremitatibus ad cor sensim refluit juxta dispositionem valv
 
  <!-- Animals which have no lungs at all have only one cavity in the heart. -->
 
-## {{< s v="5" >}} Some animals entirely lack lungs and have only one ventricle in their heart. If they have multiple ventricles, these are all consecutive to each other.
+### 5. Some animals entirely lack lungs and have only one ventricle in their heart. 
 
-## {{< s v="6" >}} The pulse, or beat of the arteries, depends on the 11 little membranes. 
+If they have multiple ventricles, these are all consecutive to each other.
+
+### 6. The pulse, or beat of the arteries, depends on the 11 little membranes. 
 
 These function as valves, opening and closing the entrances of the 4 vessels connected to the 2 ventricles of the heart. 
 
@@ -56,7 +58,7 @@ And so the heart and arteries swell up, the valves at the 2 entrances of the art
 
 
 
-## {{< s v="7" >}} The continual agitation by the blood and the actions of the other bodies which surround them expel things from the blood.
+### 7. The continual agitation by the blood and the actions of the other bodies which surround them expel things from the blood.
 
 <!-- detach from them and cause them to come out. -->
 
@@ -144,7 +146,4 @@ Breathing and other ordinary, natural actions depend on the flow of the spirits.
 - This breathing is like the movements of a clock or a mill made continuous by flowing water. 
 
 <!-- , which the ordinary course of water can make continuous.  -->
-
-
-
 

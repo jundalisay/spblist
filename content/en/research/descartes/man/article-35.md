@@ -1,8 +1,8 @@
 ---
-heading: Section 35-36
+heading: Articles 34-35
 title: "Sleep and the Functions of the Body"
 # date: 2022-01-29
-weight: 45
+weight: 55
 description: "During sleep, the actions of external objects are largely impeded from passing into the brain to be felt there. Likewise, the passages to the external limbs, by which these actions are to be conveyed, are blocked by the spirits contained in the brain"
 image: "/covers/man.jpg"
 writer:

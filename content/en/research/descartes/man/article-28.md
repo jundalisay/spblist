@@ -1,7 +1,7 @@
 ---
-heading: Sections 28-29
+heading: Article 28
 title: The Surface of the Brain
-weight: 21
+weight: 42
 description: "The pores of the brain are like the intervals between the threads of linen"
 writer:
   name: Rene Descartes
@@ -12,12 +12,12 @@ icon: "/icons/descartes.png"
 
 
 
-### {{< s v="28" >}} The pores of the brain are like the intervals between the threads of linen
+### 28. The pores of the brain are like the intervals between the threads of linen
 
 The whole brain is a texture arranged in a peculiar manner.
 
 
-### {{< s v="29" >}} The surface AA faces the cavities EE
+### 29. The surface AA faces the cavities EE
 
 It is like a fairly expanded, dense, and intricately woven plexus, resembling a mesh of crosshatched texture.
 

@@ -1,7 +1,7 @@
 ---
-heading: Sections 11-13
+heading: Articles 11-13
 title: How Does the Body Breathe and Swallow Food?
-weight: 10
+weight: 18
 description: "The portion of blood that rises up to the brain through the arteries primarily produces the animal spirits"
 writer:
   name: Rene Descartes
@@ -23,7 +23,7 @@ From this, it can naturally be inferred, with proper analogy, how this machine s
  -->
 
 
-## {{< s v="11" >}} The muscle for breathing D raises its chest, or lowers its diaphragm. 
+### 11.. The muscle for breathing D raises its chest, or lowers its diaphragm. 
 
 The muscle E is its opposite. 
 
@@ -83,7 +83,7 @@ Finally, according to the other various ways in which they are moved, they will 
 Although they are very loose and easy to move, they are not so loose that they can carry to the brain all the smallest actions that are in nature, but that the least that they bring to it are those of the coarsest parts of the earthly bodies; and even that there may be some of these bodies whose parts, though large enough, will not let themselves slip against these little nets so gently that they will press or cut them off completely, without their action passing to the brain; just as there are certain drugs which have the power to dull or even corrupt those of our limbs against which they are applied, without making us have any feeling. -->
 
 
-## {{< s v="13" >}} How do external objects affect the sense-organs and incite them to move?
+### 13.. How do external objects affect the sense-organs and incite them to move?
 
 <!-- all its members in a thousand ways, one must consider that  -->
 

@@ -1,8 +1,8 @@
 ---
-heading: Section 29
+heading: Article 29
 title: "The Brain"
 # date: 2022-01-29
-weight: 22
+weight: 44
 description: "The brain is like a fairly expanded, dense, and intricately woven plexus, resembling a mesh of crosshatched texture"
 image: "/covers/man.jpg"
 writer:

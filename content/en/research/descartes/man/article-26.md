@@ -1,9 +1,9 @@
 ---
-heading: Section 26-29
+heading: Articles 26-27
 title: "Animal Spirits and Digestion"
 # linkTitle: Man
 # date: 2022-01-29
-weight: 20
+weight: 38
 description: "The spirits can exist at different times, in greater or lesser abundance"
 image: "/covers/man.jpg"
 writer:
@@ -12,8 +12,7 @@ writer:
 ---
 
 
-### {{< s v="26" >}} First, as far as the animal spirits are concerned, they can exist at different times, in greater or lesser abundance.
-
+### 26. First, as far as the animal spirits are concerned, they can exist at different times, in greater or lesser abundance.
 
 Their parts may be more or less dense, more or less agitated, or more or less unequal among themselves. 
 
@@ -40,7 +39,7 @@ However, since those temperaments, or at least the passions to which they inclin
 
 
 
-### {{< s v="27" >}} The juice of foods passes through the stomach into the veins, mingling with the blood.
+### 27. The juice of foods passes through the stomach into the veins, mingling with the blood.
 
 This juice always imparts certain of its qualities to the blood.
 
@@ -61,6 +60,3 @@ But if, on the contrary, the spleen, whose function is to purify the blood from 
 Finally, all those things that can bring about some change in the blood can also change the spirits; but especially the little nerve that terminates in the heart, since it can expand and contract, can impart a thousand differentiations to the spirits, both to the two entrances through which the blood of the veins and the air from the lungs descend, and also to those through which the blood exhales into the arteries. 
 
 No differently than the heat of certain lamps used in chemistry can be varied in various ways, depending on whether the opening through which the oil or other fuel of the flame should be received is more or less open, or whether the one through which the smoke escapes is more or less open.
-
-
-
