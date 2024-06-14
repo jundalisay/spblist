@@ -1,7 +1,8 @@
 ---
 title: "The Galileian System Of Co–ordinates"
 heading: "Section 4"
-date: 2022-04-24
+# date: 2022-04-24
+weight: 9
 description: "The Classical movements of Galilei-Newton are valid only for a Galileian system of coordinates (material layer)"
 image: "/covers/rel.jpg"
 icon: "/icons/einbla.png"

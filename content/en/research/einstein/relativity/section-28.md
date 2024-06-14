@@ -1,6 +1,6 @@
 ---
 title: "Exact Formulation Of General Relativity"
-heading: "Section 27"
+heading: "Section 28"
 # date: 2022-03-08
 weight: 50
 description: "Einstein explains General Relativity"

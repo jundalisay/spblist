@@ -1,5 +1,5 @@
 ---
-title: "The Possibility of a 'finite' Yet 'unbounded' Universe"
+title: "The Possibility of a 'Finite' Yet 'Unbounded' Universe"
 heading: "Section 31"
 # date: 2022-03-02
 weight: 56
@@ -16,11 +16,12 @@ writer:
 
 What is the structure of the universe?
 
-Non-Euclidean geometry says that outer space is not infinite <!--  without coming into conflict with the laws of thought or with experience --> (Riemann, Helmholtz). These questions were already answered fully by Helmholtz and Poincaré:
+Non-Euclidean geometry says that outer space is not infinite <!--  without coming into conflict with the laws of thought or with experience --> (Riemann, Helmholtz). These questions were already answered fully by Helmholtz and Poincaré.
 
 In a 2D space, flat beings with flat implements and flat rigid measuring-rods are free to move in a plane. For them, nothing exists outside of this plane. <!-- =  that which they observe to happen to themselves and to their
-flat “things” is the all-inclusive reality of their plane. In particular, --> The constructions of plane
-Euclidean geometry can be done through the rods, e.g. the lattice construction, considered in Section 24.
+flat “things” is the all-inclusive reality of their plane. In particular, --> 
+
+The constructions of plane Euclidean geometry can be done through the rods, e.g. the lattice construction, considered in Section 24.
 
 Like ours, their universe extends to infinity. In their universe, there is room for an infinite number of identical squares made up of rods, i.e. its volume (surface) is infinite. 
 - Their universe is a “plane” because they can perform the constructions of plane Euclidean geometry with their rods
@@ -72,9 +73,15 @@ The ratio of the circumference `c` of a circle to its radius `r` depends on `r`.
 
 In other words, the “world-sphere” is a “surface of constant curvature.”
 
-To this 2D sphere-universe there is a 3D analogy, namely, the 3D spherical space which was discovered by Riemann. 
+To this 2D sphere-universe there is a 3D analogy, namely, the 3D spherical space which was discovered by Riemann*. 
+
+> *Superphysics Note: In Cartesian Relativity and the Law of Relativity by Poincare, which we can call Enlightened Relativity, the emphasis is on the **states** of the bodies in question in relation to other bodies in the system. These focus on the **points** on the system and not on the **paths** that join the points. This is totally different from Einstein's sophistical Relativity which is based on rigid measuring rods that are based on the speed of light. In Enlightened Relativity, there is no such thing as spherical or Riemann geometry. Instead, everything is Euclidean. Even the path from New York to Tokyo is not a sphere, but a 2D arc. 
+
 
 Its points are likewise all equivalent. It possesses a finite volume, which is determined by its “radius” ( 2 π 2 R 3 ). 
+
+
+## Spherical Space
 
 Is it possible to imagine a spherical space? To imagine a space means nothing else than that we imagine an epitome of our “space” experience, i.e. of experience that we can have in the movement of “rigid” bodies. In this sense we can imagine a spherical space.
 
@@ -93,6 +100,10 @@ Under such conditions they have traversed the whole spherical space.
 
 The 3D spherical space is analogous to the 2D spherical surface. It is finite (i.e. of finite volume), and has no bounds.
 
+
+## Elliptical Space
+
+
 “Elliptical space” is another kind of curved space. It has the two “counter-points” are identical (indistinguishable from each other).
 
 An elliptical universe can thus be considered to some extent as a curved universe possessing central symmetry.
@@ -101,4 +112,4 @@ Closed spaces without limits are conceivable. From amongst these, the spherical 
 
 Is our <!-- As a result of this discussion, a most interesting question arises for astronomers and physicists, and that is whether the --> universe infinite or finite (like the  spherical universe). Our experience is insufficient to answer this. 
 
-GR answers this with a moderate degree of certainty. This solves the problem in Section 30.
+General Relativity answers this with a moderate degree of certainty. This solves the problem in Section 30.
