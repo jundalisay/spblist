@@ -13,18 +13,24 @@ icon: "/icons/descartes.png"
 
 ### 55. What is light?
 
-It is the law of Nature that all bodies that are moved in a circle tend to recede from the centers of their motion as much as they can. 
+<!-- It is the law of Nature that  -->
 
-I will explain the force by which the globules of the air-aether and also the matter of the first element gathered around the centers SF try to recede from those centers. 
+All bodies that are moved in a circle tend to recede from the centers of their motion as much as they can. 
 
-It will be shown below that light consists solely in this force, and much else depends on the understanding of it.
+I will explain the force by which the globules of the air-aether and also the matter of the first element gathered around the centers `SF` try to recede from those centers.
+
+<!-- It will be shown below that  -->
+
+Light consists solely in this force. Much else depends on the understanding of it.
 
 
 ### 56. Understanding the effort towards motion in inanimate objects
 
-The globules of the 2nd element strive to move away from the centers around which they rotate. 
+The air-aether globules strive to move away from the centers that they rotate around. 
 
-This does not mean that they move by themselves. Instead, they are moved in a certain way if if not hindered by any other cause.
+**This does not mean that they move by themselves.** 
+
+Instead, they are moved in a certain way if if not hindered by any other cause.
 
 <!-- it should not be thought that I am attributing any thought to them, from which this effort arises; 
 

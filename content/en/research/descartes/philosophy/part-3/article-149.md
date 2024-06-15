@@ -13,20 +13,62 @@ icon: "/icons/descartes.png"
 
 ### 149. Why the Moon revolves around the Earth. 
 
-The Moon revolves around the Sun and the Earth because, as the Planets of Jupiter converge towards Jupiter, it has also converged towards the Earth before it was carried around the Sun; or rather because, since it has no less force of motion than Earth, it should revolve in the same sphere around the Sun.
 
-Being smaller in size but having equal force of motion, it should move faster. 
+The Moon revolves around the Sun and the Earth at the same time.
 
-When the Earth exists around the Sun S, in the circle NTZ, with which it is carried from N, through T towards Z, if the Moon, being moved faster, arrives at the same place, in any part of the circle NZ, at the beginning, it will soon approach A, where it is prevented from proceeding in a straight line towards D by the proximity of the Earth, it will deflect its course towards B. 
+<!-- , we will judge that this happens either because, just as Jupiter's planets move towards Jupiter, so  -->
 
-I say towards B, rather than towards D, because thus it deflects less from a straight line. But as it continues from A towards B, all the celestial matter contained in the space ABCD, which carries it, will be twisted into a vortex around the center T.
+This is because the Moon moves towards the Earth before the Earth orbits the Sun.
 
-Thus, it will also cause the Earth to gyrate around its axis, while all these things at the same time are carried around the center S through the circle NTZ.
+<!-- ; or rather because, since the Moon has no less a force of agitation than the Earth, it should revolve in the same sphere around the Sun, and, since it is smaller in size but has an equal force of agitation, it should move more quickly.  -->
+
+The Earth goes around the Sun `S` in the circle `NeZ. It is carried from `N`, through e towards `Z`.
+
+{{< img src="/graphics/physics/orbits.png" alt="Orbits" >}}
+
+
+> *Superphysics Note: We replace this article with content from The World since it is better explained there
+
+The air-aethers at A move faster than the planet e. They push e towards Z.
+
+`e` in return pushes the air-aethers towards B instead of towards D. This is because the air-aethers are inclined to continue their motion in a straight line. And so they must go outside of the orbit ACZN which they create, rather than towards the sun.
+
+Passing from A to B, they force planet e to turn with them around its center. This then lets them go from B to C, then to D and to A.
+
+
+<!-- if the Moon, moved more quickly, arrives at the same point in the circle NZ, whatever part of the circle NZ it may be in initially, it will soon reach point A, where it will be hindered by the vicinity of the Earth from continuing straight along AT and will deflect its course towards B. I say towards B rather than towards D because it will deflect less from the straight line this way. However, while it proceeds from A to B, all the celestial matter contained in the space ABCD, which carries it, will twist in a vortex around center T; thus, it will also cause the Earth to rotate around its axis while all these things together are carried through the circle NTZ around center S.
+
+
+The Moon revolves around the Sun and the Earth because, as the Planets of Jupiter converge towards Jupiter, it has also converged towards the Earth before it was carried around the Sun; or rather because, since it has no less force of motion than Earth, it should revolve in the same sphere around the Sun. -->
+
+
+
+
+
+
+
+<!-- The Moon is moved faster because it is smaller but having equal force of motion.
+
+, arrives at the same place, in any part of the circle NZ, at the beginning, it will soon approach A, where it is prevented from proceeding in a straight line towards D by the proximity of the Earth, it will deflect its course towards B. 
+
+I say towards B, rather than towards D, because thus it deflects less from a straight line.  -->
+
+<!-- celestial matter -->
+<!-- But as it continues from A towards B, 
+
+
+All the air-aether in the space `ABCD` carries the Moon. This creates a vortex around the center `e` which:
+- twists the moon into an orbit around the Earth
+- causes the Earth to gyrate around its axis -->
+
+ <!-- it, will be twisted into a . -->
+
+<!-- Thus, it will also cause , while all these things at the same time are carried around the center `S` through the circle `NeZ`. -->
 
 
 ### 150. Why the Earth rotates around its axis. 
 
-There are various reasons why the Earth rotates around its own axis. It was previously a luminous star, located at the center of some vortex, were it undoubtedly rotated.
+There are various reasons why the Earth rotates around its own axis. It was previously a star, located at the center of some vortex, were it undoubtedly rotated.
 
 It still has similar motions, impelled by the fire-aether gathered in its center.
 
@@ -53,6 +95,22 @@ The cause of this lesser solidity may be that another side of it, which never co
 
 ### 153. Why the Moon moves faster and deviates less from its mean motion in conjunctions than in quadratures: and why its sky is not round. 
 
-Nor will we be surprised that the Moon seems to move somewhat faster and deviate less from its course in all directions when it is full or new, than when it appears only half, or when it is towards parts of the sky B or D, than when it is towards A or C: because since the celestial globules contained in the space ABCD are different in size and motion, as much from those which are below D towards K as from those which are above B towards L, but those which are towards N and Z are similar, they spread more freely towards A and C than towards B and D. 
+The Moon seems to move somewhat faster and deviate less from its course in all directions when it is full or new, than when it appears only half, or when it is towards parts of the sky B or D, than when it is towards A or C.
 
-Hence it follows that the orbit ABCD is not a perfect circle, but rather approaches the shape of an ellipse; and the celestial matter is carried more slowly between C and A than between B and D; and therefore the Moon, which is carried by this celestial matter, should approach closer to the Earth if it is moving towards it, and be more distant if it is moving away, when it happens to be towards A or C, than when it is towards B or D.
+
+{{< img src="/graphics/physics/orbits.png" alt="Orbits" >}}
+
+<!-- celestial globules -->
+This is because the air-aether in the space `ABCD` are different in size and motion from those which are:
+- below D towards K
+- above B towards L
+
+But those which are towards N and Z are similar. They spread more freely towards A and C than towards B and D. 
+
+This is why the orbit `ABCD` is not a perfect circle, but rather an ellipse.
+
+<!-- celestial matter -->
+The air-aether is carried more slowly between C and A than between B and D. 
+
+ <!-- celestial matter -->
+The Moon is carried by this air-aether. This is why it approaches closer to the Earth if it is moving towards it, and be more distant if it is moving away, when it happens to be towards A or C, than when it is towards B or D.

@@ -1,8 +1,8 @@
 ---
-title: "How Sunpots are Formed"
+title: "The Properties of Sunpots"
 heading: Articles 100-108
 weight: 50
-description: "This effort found in celestial matter"
+description: "The Production and Dissolution of Spots Depend on Highly Uncertain Causes"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -73,54 +73,72 @@ Other stars that now shine in the sky were not visible before.
 
 ### 105. There Are Many Channels in the Spots Through Which Striated Particles Freely Pass
 
-Let us consider a star I entirely covered by the spot defg. It cannot be so dense as to lack numerous pores or channels through which all the fire-aether, including those striated particles previously described, can pass. 
+Let Star `I` be entirely covered by the spot `defg`. 
 
-Since the spot was very soft and rarefied at the beginning of its formation, such pores were easily formed in it. 
+It is not so dense. This allows it to have many pores or channels through which all the fire-aether, including those striated particles, can pass. 
 
-As it became denser, these striated particles and others of the first element, continually passing through them, prevented them from being completely closed. 
+The spot was very soft and rarefied at the beginning of its formation. This is why such pores were easily formed in it. 
 
-They were only narrowed to the point that no particles thicker than the striated ones of the fire-aether could pass through.
+As it became denser, these striated particles and others of the fire-aether, continually passing through them, prevented them from being completely closed.
 
-Additionally, the channels that admit striated particles coming from one pole are not suitable for those particles if they try to return, nor for those coming from the other pole, which are twisted in the opposite direction.
+They were only narrowed to the point that no particles thicker than the striated ones could pass through.
+
+The channels that admit striated particles coming from one pole are not suitable for those particles if they try to return, nor for those coming from the other pole, which are twisted in the opposite direction.
 
 
 ### 106. The Arrangement of These Channels and Why Striated Particles Cannot Regress Through Them
 
-The striated particles of the fire-aether come from the entire region of the sky towards pole A, not from a single point.
+The striated particles of the fire-aether come from the area of `Pole A`, not from a single point.
 
-They head not towards a single point I but towards the whole middle region of the sky HIQ, form channels in the spot defg along straight lines parallel to the axis fd, or slightly converging towards d on both sides. 
+They do not head towards a single point `I`. Instead, they go towards the whole middle region of the sky `HIQ`. They form channels in the spot `defg` along straight lines parallel to the axis `fd`, or slightly converging towards `d` on both sides. 
 
-The entrances to these channels are scattered over the entire surface of the hemisphere efg, and the exits are on the opposite hemisphere edg. 
+The entrances to these channels are scattered over the entire surface of the hemisphere `efg`.
 
-Thus, the striated particles coming from A can easily enter through efg and exit through edg, but they can never return through edg or exit through efg. 
+The exits are on the opposite hemisphere `edg`. 
 
-Since the entire spot consists only of the smallest fragments of the first element, which adhere to each other forming some sort of small branches, the striated particles coming from f had to bend the ends of these branches towards d in the channels. 
+Thus, the striated particles coming from `A` can easily enter through `efg` and exit through `edg`. But they can never return through `edg` or exit through `efg`.
 
-Therefore, if they were to regress through the same channels from d to f, the slightly raised ends of these branches would obstruct their passage. 
+The entire spot consists only of the smallest fragments of the fire-aether. These adhere to each other, forming small branches.
 
-Similarly, the striated particles coming from B carved out other channels for themselves, with entrances scattered over the entire surface edg and exits on the opposite side efg.
+The striated particles coming from `f` thus had to bend the ends of these branches towards `d` in the channels. 
+
+Therefore, if they were to regress through the same channels from `d` to `f`, the slightly raised ends of these branches would obstruct their passage. 
+
+Similarly, the striated particles coming from `B` carved out other channels for themselves, with entrances scattered over the entire surface `edg` and exits on the opposite side `efg`.
 
 
 ### 107. Why Particles Coming from One Pole Do Not Pass Through the Same Channels as Those Coming from the Other
 
-These channels are also carved in the manner of spirals, resembling the shape of the striated particles they admit. 
+These channels are also carved in the shape of spirals, resembling the shape of the striated particles they admit. 
 
 Therefore, the channels that are open to one set are not open to those coming from the opposite pole and twisted in the opposite direction.
 
 
 ### 108. How the Fire-Aether Flows Through These Channels
 
-Thus, the fire-aether can reach star I through these channels from both poles. 
+Thus, the fire-aether can reach `Star I` through these channels from both poles. 
 
-Since its striated particles are thicker than the others and therefore have greater force to move in straight lines, they usually do not remain in it. 
+Its striated particles are thicker than the others. Therefore, they have more force to move in straight lines. And so, they usually do not remain in it. 
 
-Entering through f, they immediately exit through d, and encountering the globules of the second element or the matter of the first element coming from B, they cannot proceed further in straight lines but are reflected in all directions through the surrounding ether xx, returning towards the hemisphere efg. As many as can enter the channels of the spot or spots covering the star pass through them again from f to d. 
+Entering through `f`, they immediately exit through `d`. There they encounter:
+- the air-aether globules or
+- the fire-aether coming from B
 
-By continuously passing through the middle of the star and returning through the surrounding ether, they form a sort of vortex there. 
+They then cannot proceed further in straight lines. Instead, they are reflected in all directions through the surrounding ether `xx`, returning towards the hemisphere `efg`. 
 
-Those that cannot be captured by these channels are either dissolved by the impact of the particles of this ether or are forced to go into the sky through the nearby parts of the Ecliptic QH. 
+As many as can enter the channels of the spot or spots covering the star pass through them again from `f` to `d`. 
 
-The striated particles that reach the surface of star I at every moment are not so numerous as to fill all the channels carved to their size in the spots efg, because even in the sky they do not fill all the intervals between the globules of the second element, but a great amount of subtler matter must be mixed with them due to the various movements of these globules. 
+By continuously passing through the middle of the star and returning through the surrounding ether, they form a sort of vortex there.
 
-This subtler matter would enter those channels if the striated particles, reflected from the other hemisphere of the star, did not have greater force to occupy them. What has been said here about the striated particles entering through the hemisphere efg also applies to those entering through the hemisphere edg: they have carved different channels for themselves, through which most of them flow from d to f, into the star I and the spots surrounding it; then, reflected in all directions through the ether xx, they return to d, while as many dissolve or exit towards the ecliptic as new ones come from pole B.
+Those that cannot be captured by these channels are either dissolved by the impact of the ether particles or are forced to go into the sky through the nearby parts of the Ecliptic `QH`. 
+
+The striated particles that reach the surface of `Star I` at every moment are not so numerous. They cannot fill all the channels carved to their size in the spots `efg`. This is because even in the sky they do not fill all the intervals between the air-aether globules. 
+
+But a great amount of subtler matter becomes mixed with them due to the various movements of these globules. 
+
+This subtler matter would enter those channels if the striated particles, reflected from the other hemisphere of the star, did not have greater force to occupy them. 
+
+What has been said here about the striated particles entering through the hemisphere efg also applies to those entering through the hemisphere edg.
+
+They have carved different channels for themselves, through which most of them flow from d to f, into the `Star I` and the spots surrounding it; then, reflected in all directions through the ether xx, they return to d, while as many dissolve or exit towards the ecliptic as new ones come from pole B.
 

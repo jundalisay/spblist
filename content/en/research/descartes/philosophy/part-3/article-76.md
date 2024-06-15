@@ -12,30 +12,36 @@ icon: "/icons/descartes.png"
 
 
 
-### 76. The motion of the fire-aether while moving among the globules of the air-aether
+### 76. The motion of the fire-aether while moving among the air-aether globules 
 
-The particles of the 1st Element, while moving among the globules of the second element, indeed has straight motion from poles AB to the Sun, and from the Sun to the ecliptic YM, and circular motion around the poles common to the whole sky AMBY; 
+The fire-aether particles move among the air-aether globules. They have:
+- straight motion:
+  - from poles `AB` to the Sun, and
+  - from the Sun to the ecliptic `YM`
+- circular motion around the poles common to the whole sky `AMBY` 
 
 But also, it spends the greatest and most significant part of its motion in constantly changing the shapes of its small particles, so that it can accurately fill all the small angles through which it passes: 
 
-Hence, its force, being greatly divided, is weaker; and each of its small particles follows the motions of the neighboring globules of the second element, always ready to exit those narrow spaces where it is forced into such oblique motions, and to proceed straight towards any parts. 
+Hence, its force, being greatly divided, is weaker. 
 
-But the matter accumulated in the body of the Sun has very great force there, due to the agreement of all its parts in the same very rapid motions, and it spends all its forces in propelling the surrounding globules of the second element here and there.
+Each of its small particles follows the motions of the neighboring air-aether globules, always ready to exit those narrow spaces where it is forced into such oblique motions, and to proceed straight towards any parts. 
+
+But the matter accumulated in the body of the Sun has very great force there due to the agreement of all its parts in the same very rapid motions. They spend all their forces in propelling the surrounding air-aether globules here and there.
 
 
 ### 77. How the Sun's light spreads not only towards the ecliptic but also towards the poles.
 
-The particles of the 1st Element contributes to that action called light. 
+The fire-aether particles contribute to that action called light. 
 
 That action spreads not only towards the ecliptic but also towards the poles in all directions. 
 
-For first, if we assume there is some space in H filled only with the matter of the first element and yet large enough to accommodate one or more of the globules of the second element, it is not doubtful that at the same moment in time, all the globules contained in the cone dHf, whose base is the concave hemisphere def, would approach towards it.
+For first, if we assume there is some space in H filled only with the matter of the first element and yet large enough to accommodate one or more of the air-aether globules, it is not doubtful that at the same moment in time, all the globules contained in the cone dHf, whose base is the concave hemisphere def, would approach towards it.
 
 
 
 ### 78. How It Spreads Along the Ecliptic
 
-This has already been demonstrated above concerning the small spheres contained within a triangle whose base is a semicircle of the solar ecliptic, although no action of the first element has yet been observed; 
+This has already been demonstrated above concerning the small spheres contained within a triangle whose base is a semicircle of the solar ecliptic, although no action of the first element has yet been observed.
 
 But now this same phenomenon, along with the remaining spheres contained within the entire cone, will become clearer through the operation of this first element. 
 
@@ -55,7 +61,9 @@ Therefore, it should not be surprising that often the motion of a very tiny body
 
 ### 80. How the Light of the Sun Tends Towards the Poles
 
-If we then assume that space N is filled only with the matter of the first element, we can easily understand that all the small spheres of the second element, contained within the cone gNe, must be driven by the matter of the first element existing in the Sun, moving with great force from d towards f, and at the same time towards the entire hemisphere efg, although they may have no inherent tendency for that motion; nor do they resist it; just as the matter of the first element in N is itself very ready to move towards S, and there fill the space which, due to the motion of the small spheres of the concave hemisphere efg towards N, will increase the body of the Sun.
+If space N is filled only with the fire-aether, then all the small air-aether spheres contained within the cone `gNe`, must be driven by the fire-aether in the Sun, moving with great force from d towards f, and at the same time towards the entire hemisphere efg, although they may have no inherent tendency for that motion.
+
+Nor do they resist it; just as the matter of the first element in N is itself very ready to move towards S, and there fill the space which, due to the motion of the small spheres of the concave hemisphere efg towards N, will increase the body of the Sun.
 
 There is no difficulty in the fact that at one and the same time, the small spheres of the second element should move from S towards N, and the matter of the first element from N towards S, as if in opposite motions: 
 
@@ -64,7 +72,7 @@ Since this matter of the first element passes only through those very narrow int
 
 ### 81. Whether Its Force Is Equal at the Poles and the Ecliptic
 
-One may only question whether the small spheres contained in the cone efg are driven with as much force towards N by the matter of the Sun alone, as the small spheres fgd are towards H by the same matter of the Sun and their own motion; which does not seem to be the case if H and N are equidistant from S. 
+Are the small spheres in the cone `efg` driven with as much force towards `N` by the matter of the Sun alone, as the small spheres fgd are towards H by the same matter of the Sun and their own motion; which does not seem to be the case if H and N are equidistant from S. 
 
 But as noted above, the distance is less towards the poles, between the Sun and the circumference of the sky that surrounds it, than towards the ecliptic: thus at most this force can be equal when the proportion between the lines HS and NS is the same as between MS and AS. 
 

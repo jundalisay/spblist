@@ -26,18 +26,47 @@ Since the Sun and the fixed stars emit light from themselves; the heavens transm
 
 ### 53. Three heavens can also be distinguished in it.
 
-Not badly will we also take all the matter contained in the space AEI, which rotates around the center S, as the first heaven; and all that which, around the centers F, f, composes innumerable other vortices, as the second; and finally, whatever is found beyond those two heavens, as the third.
+<!-- matter , as the first heaven -->
+All the air-aether in space `AEI` rotates around the center `S` as Territory 1.
 
-We consider this third heaven, in relation to the second, to be immense, and the second in relation to the first to be very large. But the consideration of the third heaven is not for this place because it can in no way be observed by us in this life, and we are dealing only with the visible world. 
+All the air-aether around the centers `F`, `f`, make up innumerable other vortices, as Territory 2.
 
-We count all the vortices whose centers are F, f, together as only one heaven because we consider them under the same aspect. But the vortex S, although it does not appear different from the others here, we take as a peculiar heaven, and the first of all, because we will soon find the Earth, our habitation, in it, and therefore we will have much more to observe in it than in the others. And we are accustomed to impose names on things not for their own sake, but only to explain our thoughts about them.
+Everything found beyond those 2 Territories are Territory 3, which is immense compared to Territory 2, just as Territory 2 is very large compared to Territory 1. 
+
+<!-- , and the second in relation to the first to be very large.  -->
+
+But I will not discuss Territory 3 because it cannot be observed by us in this life.
+
+<!-- , and we are dealing only with the visible world.  heaven -->
 
 
-### 54. How the Sun and fixed stars were formed.
+I consider all the vortices whose centers are F, f together as only one territory because I consider them under the same aspect. 
 
-Initially, the matter of the fire-aether gradually increased because the particles of the second element, through constant motion, more and more wore each other down. 
+The vortex S is not really a different from the others here. But I regard it as different because our Earth is in it. This allows us:
+- to observe it better than the others
+- to call things based on how we see them
 
-When there was more of it in the universe than was necessary to fill the small spaces found between the spherical particles of the second element, after these spaces were filled, whatever remained flowed to the centers S, F, f. There it formed certain very fluid spherical bodies, namely the Sun at the center S and the fixed stars at the other centers. 
+<!-- and therefore we will have much more to observe in it than in the others. And we are accustomed to impose names on things not for their own sake, but only to explain our thoughts about them. -->
 
-For after the particles of the second element were more worn down, they occupied less space than before and thus did not extend to the centers, but receding equally from them in all directions, they left spherical spaces there to be filled by the matter of the first element flowing in from all the surrounding areas.
+
+### 54. How the Sun and fixed stars were formed
+
+Initially, the matter of the fire-aether gradually increased because the air-aether particles wore each other down through constant motion. 
+
+{{< img src="/graphics/physics/creation.jpg" alt="Formation of stars" >}}
+
+After the air-aether particles were more worn down, they occupied less space than before. 
+- Thus, they did not extend to the centers. 
+- Instead, they receded equally from them in all directions.
+
+They left spherical spaces there to be filled by the fire-aether flowing in from all the surrounding areas.
+
+There, it formed certain very fluid spherical bodies:
+- the Sun at the center S
+- the fixed stars at the other centers. 
+
+
+<!-- When there was more of it in the universe than was necessary to fill the small spaces found between the spherical air-aether particles, after these spaces were filled, 
+
+- Whatever remained flowed to the centers S, F, f.  -->
 

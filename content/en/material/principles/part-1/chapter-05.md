@@ -2,15 +2,14 @@
 heading: "Chapter 5"
 title: "The Aether Drag"
 date: 2023-02-05
-image: /graphics/physics/michelson.png
+image: /graphics/physics/michelson.jpg
 # image: /photos/meta/buddhism.jpg
-description: "The aether drag is a fallacy created by post-Descartes physicists, probably by Fresnel"
+description: "The aether drag is a fallacy created by post-Descartes physicists, namely Huygens"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 22
 icon: /icons/spmat.png
-draft: true
 ---
 
 
@@ -83,7 +82,7 @@ Metaphysicians (such as historian-philosophers like David Hume and Ibn Khaldun) 
 In the paradigm of Cartesian physics, **Michelson-Morley were really testing the idea-of-the-speed-of-light-in-2-directions through their interferometer**. 
 
 
-{{< img src="/graphics/physics/michelson.png" alt="The aether drag" cap="The Michelson-Morley actually proved the metaphysical aether drag of the original Cartesian aether" >}}
+{{< img src="/graphics/physics/michelson.jpg" alt="The aether drag" cap="The Michelson-Morley actually proved the metaphysical aether drag of the original Cartesian aether" >}}
   
 
 

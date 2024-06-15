@@ -1,6 +1,6 @@
 ---
-title: "Three Striations in the Fire-Aether"
-heading: Articles 92
+title: "How Sunspots are Created"
+heading: Articles 94
 weight: 48
 description: "This effort found in celestial matter"
 writer:
@@ -11,50 +11,23 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 92. The Presence of Only Three Striations in Particles
-
-These particles of the fire-aether can only have 3 striations while the globules of the air-aether cannot always touch each other in such a way that only triangular spaces remain around them.
-
-Any larger spaces found among these globules always have their angles exactly equal to those of the triangle FGI and, as for the rest, are in perpetual change.
-
-So that the striped particles of the first element passing through them must also take on the shape we have described. For example, four globules ABCH touching each other at points KLGE leave in their middle a quadrilateral space, each angle of which is entirely equal to each of the angles of the triangle FGI; 
-
-As these 4 globules move, that space continually changes shape, becoming sometimes square, sometimes oblong, and even occasionally dividing into two other triangular spaces. 
-
-Thus, the less agitated matter of the first element existing in it must flow to one or two of its angles, leaving the rest of the space to the more mobile matter that more easily changes its shapes to accommodate all the movements of those globules. 
-
-If one of its fragments, existing in one of these angles, extends itself toward the part opposite that angle, beyond a space equal to the triangle FGI, it must be expelled from there and thus diminished when a third globule touches the two that form the angle it occupies.
-
-For instance, if the less agitated matter occupying angle G extends itself toward D beyond the line FI, it will be driven out by the globule C and thus diminished as this globule C approaches B to close the triangle GFI. And because the largest particles of the first element, less agitated than the rest, passing through long tracts of the sky, cannot but often find themselves between three approaching globules, they do not seem able to take on any definite shape that remains in them for a while, other than the one we have described.
-
-
-### 93. The Various Sizes of Particles in the First Element Among striped and Minute Particles
-
-These elongated and striped particles differ greatly from the rest of the 1st Element's matter.
-
-Yet, we do not distinguish them from it as long as they are only among the globules of the 2nd element because:
-- we do not notice any particular effect of them there, and
-- we believe many others, not much smaller and not more swiftly agitated, are contained in it
-
-Between the very smallest and these striped ones, there are innumerable other grades, as can be easily recognized from the inequality of the paths they pass through.
-
-
-
-
-
 ### 94. How Spots Are Generated on the Surface of the Sun or Stars
 
-But when this matter of the 1st Element reaches the body of the Sun or star, all its most agitated minute parts, being obstructed by no barriers of the second element's globules, strive to move similarly: 
+When this fire-aether reaches the body of the Sun or star, all its most agitated minute parts  being obstructed by no barriers of the second element's globules, strive to move similarly: 
 
-hence the striped ones, as well as many others slightly smaller, which due to their too angular shapes or too great mass avoid such agitation, are separated from the smallest ones and, easily sticking together due to the inequality of their shapes, sometimes form very large masses. 
+Hence, the striated ones, as well as many others slightly smaller, which due to their too angular shapes or too great mass avoid such agitation. These are separated from the smallest ones. They easily stick together due to the inequality of their shapes, sometimes form very large masses.
 
-These masses are contiguous to the inner surface of the sky, adhere to the star from which they emerged. There, they resist the action or the force of light.
+These masses are contiguous to the inner surface of the sky, adhere to the star from which they emerged. 
+
+There, they resist the action or the force of light.
 
 They resemble those spots that are often seen on the surface of the Sun. 
 
 This is similar heated water and liquids emitting dense foam made of particles of a different nature and less suited for motion. These float on their surface with very irregular and changeable shapes. 
 
-Thus, the matter of the Sun boils from both poles toward the ecliptic. These must expel its striped particles and all others that easily stick to each other and hardly obey its common motion, just like foam.
+Thus, the matter of the Sun boils from both poles toward the ecliptic. 
+
+These must expel its striated particles and all others that easily stick to each other and hardly obey its common motion, just like foam.
 
 
 ### 95. Understanding the Principal Properties of These Spots

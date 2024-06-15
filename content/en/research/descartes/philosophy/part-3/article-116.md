@@ -21,26 +21,30 @@ If its position is such that it greatly resists the motion of neighboring vortic
 
 Meanwhile, the spots besieging the star in its center will become denser and more numerous, gathering both above and within it.
 
-For example, vortex N is positioned such that it clearly impedes the motion of vortex S more than any other neighboring vortex. 
+For example, the position of `Vortex N` impedes the motion of `Vortex S` more than any other neighboring vortex. 
 
-Therefore, it will easily be removed by vortex S as soon as its star becomes covered with several spots. 
+Therefore, it will easily be removed by `Vortex S` as soon as its N-star becomes covered with several spots. 
 
-Thus, the circumference of vortex S, which currently ends at the line OPQ, will then end at the line ORQ, and all the matter contained within the lines OPQ and ORQ will be added to it and will follow its motion, while the remaining matter between the lines ORQ and OMQ will migrate to other neighboring vortices. 
+The circumference of `Vortex S` currently ends at the `line OPQ`. It will then end at the `Line ORQ`. 
 
-Nothing else can maintain vortex N in its current position except for the great force of the first element's matter in its center, which propels the surrounding globules of the second element such that they follow its impulse rather than the movements of neighboring vortices. This force is weakened and broken by the intervention of spots.
+All the air-aether within the lines `OPQ` and `ORQ` will be added to it and will follow its motion. The remaining air-aether between the `Line ORQ` and `Line OMQ` will migrate to other neighboring vortices. 
+
+Nothing else can maintain vortex N in its current position except for the great force of the fire-aether of its N-star. It  propels the surrounding air-aether globules so that they follow its impulse rather than the movements of neighboring vortices.
+
+This force is weakened and broken by the intervention of spots.
 
 
 ### 117. How Many Spots Can Form Around a Star Before Its Vortex is Destroyed
 
-Vortex C, located among four vortices SFGH and two others M and N above these four, is arranged such that, even if dense spots gather around its star, it can never be completely destroyed as long as these six vortices remain equally strong. 
+Vortex C is located among four vortices `SFGH` and two others `M` and `N` above these four. It is arranged such that, even if dense spots gather around its star, it can never be completely destroyed as long as these 6 vortices remain equally strong. 
 
-I suppose that vortices S, F, and the third vortex M, located above point D, rotate around their centers from D towards C; similarly, the other three GH and the sixth vortex N, situated above them, rotate from E towards C. 
+Vortices S, F, and the third vortex M, located above point D, rotate around their centers from D towards C. Similarly, the other three `G` `H` and the sixth vortex `N`, situated above them, rotate from E towards C. 
 
-Vortex C, positioned among these six, touches only them, and its center is equidistant from the centers of these six, with its axis of rotation along the line DE. 
+Vortex C, positioned among these six, touches only them. Its center is equidistant from the centers of these six, with its axis of rotation along the line `DE`. 
 
-This arrangement allows the motions of these seven vortices to be perfectly coordinated with each other. 
+This arrangement allows the motions of these 7 vortices to be perfectly coordinated with each other. 
 
-Therefore, even if the star of vortex C is buried under many spots, such that it has very little or no force left to carry the surrounding celestial globules in orbit, there is no reason for the other six to expel it from its place as long as they remain equally strong among themselves.
+Therefore, even if the star of `Vortex C` is buried under many spots, such that it has very little or no force left to carry the surrounding air-aether globules in orbit, the other six can expel it from its place as long as they remain equally strong among themselves.
 
 
 ### 118. How Many Spots Are Generated Around a Star
@@ -66,7 +70,9 @@ It rotates with the matter from which it is taken, being pushed towards the cent
 
 Since the parts of the same vortex do not move at the same speed and are not of the same size.
 
-But their motion gradually slows down from the circumference to a certain point, and then gradually speeds up towards the center, with the parts themselves becoming smaller as previously stated, if the descending body is so solid that it gains agitation equal to the parts it is among before reaching the point where the vortex parts move the slowest, it will not descend further but will transfer from this vortex to others, becoming a comet. 
+But their motion gradually slows down from the circumference to a certain point. It then gradually speeds up towards the center, with the parts themselves becoming smaller as previously stated. 
+
+If the descending body is so solid that it gains agitation equal to the parts it is among before reaching the point where the vortex parts move the slowest, it will not descend further but will transfer from this vortex to others, becoming a comet. 
 
 If it is less solid and thus descends below this point, it will always remain at a certain distance from the star occupying the vortex's center, rotating around it and becoming a planet.
 
@@ -74,15 +80,20 @@ If it is less solid and thus descends below this point, it will always remain at
 
 ### 120. The Movement of a Star When It First Ceases to Be Fixed
 
-Let's consider, for example, the material of vortex AEIO first carrying off Star N and examine in which direction it will move. 
+For example, the air-aether of Vortex `AEIO` first carries off `Star N`.
 
-Since all this material rotates around the center S and therefore tends to move away from it, as previously explained, there is no doubt that the material currently at O, moving through R to Q, will push this star in a straight line towards S. 
+All this material rotates around the center `S` and therefore tends to move away from it.
 
-From the nature of gravity explained below, it will be understood that this movement of Star N or any other body towards the center of the vortex in which it is located can be called its descent. Initially, it is pushed this way, assuming there is no other movement in it. 
+The air-aether currently at `O`, moving through R to Q, will push this star in a straight line towards S. 
 
-But soon after, it is also carried around in a circular motion from N to A; and since this circular motion gives it the force to move away from the center S, its descent towards S depends only on its solidity. 
+The movement of `Star N` or any other body towards the center of the vortex in which it is located can be called its descent.
 
-If it has very little solidity, it will descend significantly towards S; if it has great solidity, it will move away from S.
+Initially, it is pushed this way, assuming there is no other movement in it. 
 
+But soon after, it is also carried around in a circular motion from N to A. 
 
+Since this circular motion gives it the force to move away from the center `S`, its descent towards S depends only on its solidity. 
 
+If it has very little solidity, it will descend significantly towards S.
+
+If it has great solidity, it will move away from S.

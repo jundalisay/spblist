@@ -11,50 +11,93 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 69. The particles of the Fire-Aether flows from the poles of each vortex towards the center, and from the center towards other parts.
+### 69. The particles of the Fire-Aether flows from the poles of each vortex towards the center, and from the center towards other parts
 
-They continuously flow towards the center of each vortex from the surrounding vortices, through the parts near its poles; and conversely, it flows out from the center to other surrounding vortices through parts far from its poles. 
+They continuously flow towards the center of each vortex from the surrounding vortices, through the parts near its poles.
 
-For example, let us assume (see the figure on the following page), AT VIII-1, 120 AYBM is the vortex of the first heaven, at the center of which is the Sun, with its poles being A (the southern) and B (the northern), around which the whole rotates. 
+Conversely, it flows out from the center to other surrounding vortices through parts far from its poles. 
 
-The four surrounding vortices KOLC rotate around the axes TT, YY, ZZ, and AT VIII-1, 121 MM, such that it touches two of them, O and C, at their poles, and the other two, K and L, at parts far removed from their poles. It is evident from the aforementioned points that all its matter strives to recede from the axis AB and thus tends more forcefully towards parts Y and M than towards A and B. 
+<!-- first heaven -->
+For example, `AYBM` is the vortex of the Territory 1 with the Sun at the center. 
 
-Since it encounters the poles of vortices O and C at Y and M, where there is not much resistance.
+Its southern pole is A.
 
-It encounters the parts of vortices K and L at A and B, which are farthest from their poles and thus have a greater force moving from L and K towards S than the polar parts of vortex S have to move towards L and K, it is beyond doubt that the matter in K and L must progress towards S, and that in S must move towards O and C.
+Its northern pole is B.
+
+The whole territory rotates around that axis. 
+
+The four surrounding vortices KOLC rotate around the axes TT, YY, ZZ, and MM, such that it touches:
+- O and C at their poles
+- K and L, far from their poles
+
+All the air-aether in Territory 1 strives to recede from the axis `AB`. Thus, they tend more forcefully towards edges `Y` and `M` than towards `A` and `B`. 
+
+This is because the pole of Vortex O at Y and the pole of Vortex C at M have the least resistance to the air-aether of Territory 1. 
+
+This is also why the air-aether in Vortex K and L moves towards `S` because:
+- the pole at A offers the least resistance to K
+- the pole at B offers the least resistance to L
+<!-- , where there is not much resistance. -->
+
+<!-- It encounters the parts of vortices K and L at A and B, which are farthest from their poles and thus have a greater force moving from L and K towards S than the polar parts of vortex S have to move towards L and K,  -->
+
+This is also why the air-aether in Vortex `S` moves towards Vortex O and C.
 
 
 ### 70. The same is not true for the Air-Aether
 
 This would also apply to the air-aether if no specific causes hindered its movement in that direction. 
 
-However, since the agitation of the fire-aether is much swifter than that of the second.
+However, the agitation of the fire-aether is much swifter than that of the air-aether.
 
-Since it always has free passage through those small angles that the air-aether globules cannot occupy even if we assumed that all the matter, both of the fire-aether and air-aether, contained in vortex L, began to progress towards S at the same time from the midpoint between the centers S and L, we would understand that the fire-aether would have reached the center S faster than that of the air-aether. 
+The fire-aether always can pass freely through those small angles that the air-aether globules cannot occupy even if we assumed that all the matter, both of the fire-aether and air-aether, contained in vortex L, began to progress towards S at the same time from the midpoint between the centers S and L, 
 
-The fire-aether, thus entering the space S, pushes the air-aether globules with such force, not only towards the ecliptic eg or MY, but especially towards the poles fd or AB.
+we would understand that the fire-aether would have reached the center S faster than that of the air-aether. 
 
-Thus, it prevents those coming from vortex L from approaching S more closely than up to a certain limit, which is marked here by the letter B. The same must be judged for vortex K and all others. AT VIII-1, 123
+The fire-aether thus enters the space S. It pushes the air-aether globules with such force:
+- towards the ecliptic eg or MY
+- especially towards the poles fd or AB.
+
+Thus, it prevents those coming from vortex L from approaching S more closely than up to a certain limit, which is marked here by the letter B. The same must be judged for vortex K and all others.
 
 
 ### 71. The reason for this difference
 
-The air-aether revolving around the center L not only have the force to recede from that center but also to maintain their speed.
+The air-aether revolving around the center L has the force to recede from L but also to maintain their speed.
 
-These two forces somewhat conflict with each other: because while they rotate in vortex L, they are confined within certain limits by other vortices, which are to be understood above and below the plane of this figure. 
+These two forces somewhat conflict with each other. While they rotate in Vortex `L`, they are confined by other vortices around it.
+
+ <!-- , which are to be understood above and below the plane of this figure.  -->
 
 They cannot move towards B without slowing down between L and B compared to their speed between L and other nearby vortices, understood to be outside the plane of this figure.
 
-The greater the distance LB, the slower they will move: for when they move circularly, they cannot spend more time passing between L and those other vortices than between L and B. 
+The greater the distance LB, the slower they will move.
 
-Therefore, the force they have to recede from the center L does indeed cause them to move somewhat towards B, where they meet the polar parts of vortex S, which yield to them easily; but conversely, the force they have to retain the speed of their motion prevents them from wandering so far as to reach S. 
+This is because when they move circularly, they cannot spend more time passing between L and those other vortices than between L and B. 
 
-This is not the case with the fire-aether.
+Therefore, the force they have to recede from the center L causes them to move somewhat towards B.
 
-Although it agrees with the air-aether in that, by revolving with them, it strives to recede from the centers of the vortices in which it is contained, it greatly differs in that it does not need to slow down at all as it recedes from those centers, since it almost always finds equal paths to continue its motions, namely in the narrow spaces not filled by the air-aether globules.
+<!-- , where they meet the polar parts of vortex S, which yield to them easily; 
 
-Therefore, this fire-aether continuously flows towards S through the parts near the poles A and B, not only from vortices K and L but also from many others that are not shown in this figure.
+but conversely, the force they have to retain the speed of their motion prevents them from wandering so far as to reach S.  -->
 
-This is because not all are to be understood in the same plane, nor can I determine their true position, size, or number. 
+They do not wander into the Territory of S because they maintain their own speed. 
 
-The fire-aether also flows out of S towards vortices O and C, and also towards many others whose position, size, and number I do not define; nor do I define whether the same matter, after leaving O and C, immediately returns to K and L, or rather diverges to many other vortices further from the first heaven before completing its cycle.
+But this is not the case with the fire-aether.
+
+The fire-aether revolves with the air-aether and therefore strives to recede from the centers of the vortices in which it is contained.
+
+**But it does not need to slow down at all as it recedes from those centers.**
+
+This is because it almost always finds equal paths to continue its motions. These paths are the narrow spaces not filled by the air-aether globules.
+
+Therefore, this fire-aether continuously flows towards S through the poles `A` and `B` from Vortex K, L, and many others.
+ <!-- that are not shown in this figure. -->
+
+This is because not all are in the same plane, nor can I determine their true position, size, or number. 
+
+The fire-aether also flows out of `S` towards Vortex `O`, `C`, and many others.
+
+ whose position, size, and number I do not define; nor do 
+
+ I do not know whether the fire-aether that leaves Vortex `O` and `C`, immediately goes to Vortex `K` and `L` or rather diverges to many other vortices farther from Territory 1 before completing its cycle.

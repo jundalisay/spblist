@@ -13,11 +13,17 @@ icon: "/icons/descartes.png"
 
 ### 121. What We Mean by the Solidity and Agitation of Bodies
 
-Here, solidity refers to the quantity of the third element's matter, from which the spots enveloping the star are composed, compared to its mass and surface area. 
+Here, solidity refers to the quantity of earth-aether compared to its mass and surface area.
+
+The spots enveloping the star are composed of this earth-aether.
 
 The force by which the material of vortex AEIO moves it circularly around the center S should be estimated by the size of the surface area it encounters because the larger this surface area, the more material acts on it. 
 
-The force by which this material pushes it towards the same center S should be estimated by the size of the space it occupies. Although all the material in vortex AEIO tends to move away from S, not all of it acts on Star N, but only the part that is indeed moving away from S as this star approaches; this part is equal to the space occupied by the star. 
+The force by which this material pushes it towards the same center S should be estimated by the size of the space it occupies.
+
+Although all the material in vortex AEIO tends to move away from S, not all of it acts on Star N, but only the part that is moving away from S as this star approaches. 
+
+This part is equal to the space occupied by the star. 
 
 The force that Star N gains from its own motion to continue in the same motion, which I call its agitation, should not be estimated by its surface area or its entire mass, but only by the part of its mass composed of the third element's matter, which consists of particles of matter adhering to each other, forming the spots enveloping it. 
 

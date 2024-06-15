@@ -81,9 +81,16 @@ Thus, when it is at 5, it may appear among the stars of Virgo, when between 6 an
 
 ### 130. How the Light of Fixed Stars Reaches Earth
 
-Why do comets only appear when they are in our sky, whereas fixed stars are visible even when they are very far away. The difference is that fixed stars emit their own light much more strongly than comets, which only reflect the light they borrow from the Sun. 
+Why do comets only appear when they are in our sky, whereas fixed stars are visible even when they are very far away?
 
-The light of each star is an action by which all the matter of the vortex in which it resides tries to move away from it in straight lines drawn from all points of its surface, thus pressing all the matter of surrounding vortices along these straight or equivalent lines (since these lines, passing obliquely through other bodies, are refracted, as explained in Dioptrics), it can be easily believed that not only the light of nearby stars like F and f, but also more distant ones like Y, has the power to move the eyes of Earth's inhabitants, who are assumed to be not far from the center S.
+Fixed stars emit their own light whereas comets only reflect the light that they borrow from the Sun. 
+
+The light of each star is an action by which all the matter of the vortex in which it resides tries to move away from it in straight lines drawn from all points of its surface.  Thus it presses all the air-aether of surrounding vortices along these straight or equivalent lines 
+
+
+These lines pass obliquely through other bodies and are refracted.
+
+Both the light of nearby stars like F and f, and more distant ones like Y, has the power to move the eyes of Earth's inhabitants, who are assumed to be not far from the center S.
 
 Since the forces of these stars and the vortices surrounding them are in perpetual equilibrium, the force of the rays coming from F towards S is indeed diminished by the resisting matter of vortex AEIO, but not completely obliterated except at the center S. 
 
