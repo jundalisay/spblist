@@ -13,11 +13,11 @@ icon: "/icons/descartes.png"
 
 ### 116. How a Vortex Can Be Destroyed Before Many Spots Accumulate Around Its Star
 
-There is no danger of any vortex being destroyed by neighboring vortices as long as the star at its center is not enveloped by spots. 
+There is no danger of any vortex being destroyed by neighboring vortices as long as the star at its center is not enveloped by spots.
 
 However, when it becomes covered and buried by them, its fate depends solely on its position relative to other vortices as to whether it will be absorbed sooner or later. 
 
-If its position is such that it greatly resists the motion of neighboring vortices, it will be destroyed by them sooner, before many layers of spots can form around its star. But if it poses less of an obstacle to them, it will diminish slowly; 
+If its position is such that it greatly resists the motion of neighboring vortices, it will be destroyed by them sooner, before many layers of spots can form around its star. But if it poses less of an obstacle to them, it will diminish slowly.
 
 Meanwhile, the spots besieging the star in its center will become denser and more numerous, gathering both above and within it.
 
@@ -27,20 +27,24 @@ Therefore, it will easily be removed by `Vortex S` as soon as its N-star becomes
 
 The circumference of `Vortex S` currently ends at the `line OPQ`. It will then end at the `Line ORQ`. 
 
-All the air-aether within the lines `OPQ` and `ORQ` will be added to it and will follow its motion. The remaining air-aether between the `Line ORQ` and `Line OMQ` will migrate to other neighboring vortices. 
+All the air-aether within the lines `OPQ` and `ORQ` will be added to it and will follow its motion. The remaining air-aether between the `Line ORQ` and `Line OMQ` will migrate to other neighboring vortices.
 
-Nothing else can maintain vortex N in its current position except for the great force of the fire-aether of its N-star. It  propels the surrounding air-aether globules so that they follow its impulse rather than the movements of neighboring vortices.
+Nothing else can maintain `Vortex N` in its current position except for the great force of the fire-aether of its N-star. It  propels the surrounding air-aether globules so that they follow its impulse rather than the movements of neighboring vortices.
 
 This force is weakened and broken by the intervention of spots.
 
 
 ### 117. How Many Spots Can Form Around a Star Before Its Vortex is Destroyed
 
-Vortex C is located among four vortices `SFGH` and two others `M` and `N` above these four. It is arranged such that, even if dense spots gather around its star, it can never be completely destroyed as long as these 6 vortices remain equally strong. 
+`Vortex C` is located among four vortices `S, F, G, H` and two others `M` and `N` above these four. 
 
-Vortices S, F, and the third vortex M, located above point D, rotate around their centers from D towards C. Similarly, the other three `G` `H` and the sixth vortex `N`, situated above them, rotate from E towards C. 
+It is arranged such that, even if dense spots gather around its star, it can never be completely destroyed as long as these 6 vortices remain equally strong. 
 
-Vortex C, positioned among these six, touches only them. Its center is equidistant from the centers of these six, with its axis of rotation along the line `DE`. 
+`Vortex S, F`, and the third `Vortex M`, located above `Point D`, rotate around their centers from `D` towards `C`. 
+
+Similarly, the other three `G` `H` and the sixth vortex `N`, situated above them, rotate from E towards C. 
+
+`Vortex C`, positioned among these six, touches only them. Its center is equidistant from the centers of these six, with its axis of rotation along the line `DE`. 
 
 This arrangement allows the motions of these 7 vortices to be perfectly coordinated with each other. 
 
@@ -49,17 +53,25 @@ Therefore, even if the star of `Vortex C` is buried under many spots, such that 
 
 ### 118. How Many Spots Are Generated Around a Star
 
-To understand how so many spots could form around it, let us suppose that vortex C was originally no smaller than any of the six surrounding it, extending its circumference to points 1234, with a very large star in its center composed of the first element's matter, which moved directly towards C from three vortices S, F, and M via D, and from three others G, H, and N via E. 
+To understand how so many spots could form around it, let us suppose that `Vortex C` was originally no smaller than any of the six surrounding it. Its circumference extends to points `1234`, with a very large star in its center  <!-- composed of the first element's matter,  --> which moved directly towards C from three vortices `S, F`, and `M` via `D`, and from three others `G, H`, and `N` via `E`. 
 
-This star did not retreat from these vortices except back towards K and L, and therefore had enough force to carry all the celestial matter 1234 in orbit with it.
+This star did not retreat from these vortices except back towards `K` and `L`. Therefore, they had enough force to carry all the air-aether `1234` in orbit with it.
+
+<!-- celestial matter -->
 
 However, due to the inequality and incommensurability of quantities and motions found in other parts of the universe, nothing remains in perfect equilibrium forever. 
 
-If vortex C began to have less force than the surrounding ones, part of its matter would migrate to them, with such force that the migrating part would be greater than the inequality required, causing some matter to migrate back into it from the others, and so on in cycles. 
+If `Vortex C` began to have less force than the surrounding ones, part of its matter would migrate to them, with such force that the migrating part would be greater than the inequality required, causing some matter to migrate back into it from the others, and so on in cycles. 
 
-Meanwhile, many layers of spots would form around its star, gradually weakening its forces, so that less matter would return to it each time than had left, until it became very small or was completely absorbed, except for its star, which, surrounded by many spots, cannot migrate into the matter of other vortices nor be expelled from its place by these other vortices as long as they are equal in strength among themselves. 
+Meanwhile, many layers of spots would form around its star. These would gradually weakening its forces, so that less fire-aether would return to it each time than had left, until it became very small or was completely absorbed, except for its star.
 
-Meanwhile, the spots around it must become denser until, when one neighboring vortex becomes larger and more powerful than the others (for example, if vortex H extends its surface to line 567), this vortex H can easily capture the entire star C, which, no longer fluid and luminous but solid and opaque like a comet or planet, will be carried along with it.
+By then, its star would be surrounded by many spots. It cannot migrate into the air-aether of other vortices, nor be expelled from its place by these other vortices as long as they are equal in strength among themselves. 
+
+Meanwhile, the spots around it must become denser.
+
+One neighboring vortex then becomes larger and more powerful than the others.
+
+For example, `Vortex H` could extend its surface to line `567`. It can easily capture the entire `Star C`, which, no longer fluid and luminous but solid and opaque like a comet or planet, will be carried along with it.
 
 
 ### 119. How a Fixed Star Turns into a Comet or Planet

@@ -85,7 +85,7 @@ Because we absorb all data, information, and human knowledge, even from Asia, Af
 
 Hinduism, Buddhism, and Taoism allow other dimensions by default. Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality.
 
-This is different from Roman philosophy which has very shallow metaphysics compared to that of Asia, as to not have detailed explanations of other dimensions and how to detect or access them. The Roman mentality evolved to be Western thinking and science which only deal with the obvious and shallow perceptions.
+This is different from Roman philosophy which was ignorant on metaphysics. The Romans did not know about other dimensions or how to detect or access them. The Roman mentality evolved to be Western thinking and science which only deal with the obvious and shallow perceptions.
 {{< /l >}}
 
 <!-- Notice how Roman gods just mirror human characteristics.  and subsequently as the limited Western Science  -->
@@ -95,9 +95,9 @@ How do you weed out junk ideas like faeries, ghosts, and evil spirits?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-By seeing if we can detect them through 6-senses and then analyze them through Socratic Dialectics. If you want to detect bacteria, you have to get a microscope. To get the microscope, you have to shell out money which you earn from the effort in your job, or by doing the effort to make a microscope yourself. 
+By seeing if we can detect them through 6-senses and then analyze them through Socratic Dialectics. If you want to detect bacteria, you get a microscope. To get the microscope, you have to shell out money which you earn from the effort in your job, or by doing the effort to make a microscope yourself. 
 
-Likewise, gaining the skill to detect the invisible metaphysical domain requires continuous training and effort, since your mind is the detector itself, as explained by Rene Descartes' concept of "[animal spirits](/research/descartes/man/section-30/)". We then compare the person's description of faeries, ghosts, etc to a data set of known properties to see whether they match and therefore are predictable, or whether it is just the mind playing tricks. We have noted down those properties from various cultures and texts, especially those from India which has a lot of data on Elementals.
+Likewise, gaining the skill to detect the invisible metaphysical domain requires continuous training and effort, since your mind is the detector itself, as explained by Rene Descartes' concept of "[animal spirits](/research/descartes/man/section-30/)". We then compare the person's description of faeries, ghosts, etc. to a data set of known properties from various cultures, such as India which has a lot of data on Elementals, to see whether they match and therefore are predictable, or whether it is just the mind playing tricks.
 {{< /l >}}
 
 
@@ -277,7 +277,7 @@ So what if there's global warming? In the long-run, we're all dead! At least I'v
 
 
 {{< l a="Superphysics" >}}
-Ok boomer, so Superphysics isn't for you. We reject selfishness, vice, and the lack of virtue. You should stay in some dogmatic imperialist religion that sees itself superior, or in Modern Physics and Economics that is limited to the 5 senses. 
+Ok boomer, so Superphysics isn't for you. We reject selfishness, vice, and the lack of virtue. You should stay in some dogmatic imperialist Roman religion that sees itself superior, or in Modern Physics and Economics that is limited to the 5 senses. 
 
 People who ascribe to Superphysics are open-minded and lovers of philosophy, nature, and the Supreme Entity, as explained by Socrates. These allow the 6th sense of intuition and fellow-feeling, on top of the usual math and 5-sense cognitive abilities in IQ tests.
 
@@ -315,15 +315,11 @@ What does the Superphysics symbol mean?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-The blue triangle represents the metaphysical domain. The green triangle represents the physical domain. These go in opposite directions.
-
-The yellow center is perception which balances both domains. :sunny:
+The blue triangle represents the metaphysical domain. The green triangle represents the physical domain. These go in opposite directions. The yellow center is perception which balances both domains. :sunny:
 
 Some people get filthy rich but lose their morals, :frowning: while others are super spiritual but are dirt poor :confused:. For example, Baby-Boomers mindlessly push for GDP or ROI growth even if Nature is hitting them back with global warming caused by that very GDP and ROI. They even have the audacity to make money from crises as 'impact investments' instead of giving money to governments to solve them (such as grants and prize money even for students or startups to make nuclear fusion work).
 
-Spiritual people, on the other hand, give donations and service, often unsustainably while creating a culture of dependence and poverty. 
-
-Superphysics advocates a balance or a middle path.<!--  just like Buddhism advocates a middle path -->
+Spiritual people, on the other hand, give donations and service, often unsustainably while creating a culture of dependence and poverty. Superphysics advocates a balance or a middle path.<!--  just like Buddhism advocates a middle path -->
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -368,9 +364,7 @@ How can we help? :heart:
 
 
 {{< l a="Superphysics" >}}
-You can check out our [help](/help) page. 
-
-But the easiest ways are to click the ads to give our side some revenue, and to share the link to our website. Alternatively, you can send an email to pantrypoints@gmail.com
+You can check out our [help](/help) page. But the easiest ways are to allow ads to be shown for this website and to share links to it. Alternatively, you can send an email to pantrypoints@gmail.com
 {{< /l >}}
 
 <!-- By gettings Its principles. For example, Einstein based his Relativity on Parmenides explanation of how the One is Many and All is relative. We expand this by creating the theory of Universal Relativity for Material Superphysics, as well as the Four Laws of Value for Economic Superphysics (as spnomics)    -->
