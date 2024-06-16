@@ -10,21 +10,6 @@ icon: /icons/newton.png
 
 
 
-
-CHAP. XIV. Of the Mahuzzims, honoured by the King who doth according to his will.
-
-PART II.
-Observations upon the Apocalypse of St. John.
-
-CHAP. I. Introduction, concerning the time when the Apocalypse was written.
-
-CHAP. II. Of the relation which the Apocalypse of John hath to the Book of the Law of Moses, and to the worship of God in the Temple.
-
-CHAP. III. Of the relation which the Prophecy of John hath to those of Daniel; and of the Subject of the Prophecy.
-
-
-
-
 When Manasses [1] set up a carved image in the house of the Lord, and built altars in the two courts of the house, to all the host of Heaven, and us'd inchantments and witchcraft, and familiar spirits, and for his great wickedness was invaded by the army of Asserhadon King of Assyria, and carried captive to Babylon; the book of the Law was lost till the eighteenth year of his grandson Josiah. Then [2] Hilkiah the High Priest, upon repairing the Temple, found it there: and the King lamented that their fathers had not done after the words of the book, and commanded that it should be read to the people, and caused the people to renew the holy covenant with God. This is the book of the Law now extant.
 
 When [3] Shishak came out of Egypt and spoil'd the temple, and brought Judah into subjection to the monarchy of Egypt, (which was in the fifth year of Rehoboam) the Jews continued under great troubles for about twenty years; being without the true God, and without a teaching Priest, and without Law: and in those times there was no peace to him that went out, nor to him that came in, but great vexations were upon all the inhabitants of the countries, and nation was destroyed of nation, and city of city, for God did vex them with all adversity. But [4] when Shishak was dead, and Egypt fell into troubles, Judah had quiet ten years; and in that time Asa built fenced cities in Judah, and got up an army of 580000 men, with which, in the 15th year of his reign, he met and overcame Zerah the Ethiopian, who had conquered Egypt and Lybia, and Troglodytica, and came out with an army of 1000000 Lybians and Ethiopians, to recover the countries conquered by Sesac. And after this victory [5] Asa dethroned his mother for idolatry, and he renewed the Altar, and brought new vessels of gold and silver into the Temple; and he and the people entered into a new covenant to seek the Lord God of their fathers, upon pain of death to those who worshiped other Gods; and his son Jehosaphat took away the high places, and in the third year of his reign sent some of his Princes, and of the Priests and Levites, to teach in the cities of Judah: and they had the book of the Law with them, and went about throughout all the cities of Judah, and taught the people. This is that book of the Law which was afterwards lost in the reign of Manasses, and found again in the reign of Josiah, and therefore it was written before the third year of Jehosaphat.
