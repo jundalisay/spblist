@@ -31,3 +31,4 @@ Aristotle says in his Meteorology, book 1, chapter 6 on the fixed stars, that th
 <!-- , I think it should be understood about these planets;  -->
 
 But what he reports about a comet, which was seen by him from one of the stars which are in the thigh of the Dog, either by a very oblique refraction in the air, or rather by a defect of his eyes, for he adds that it was less conspicuous when he was focusing his eyes on it than when he was looking away.
+
