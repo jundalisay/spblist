@@ -11,18 +11,24 @@ icon: /icons/newton.png
 
 The hypothesis of vortices is problematic. 
 
-It says that each planet by a radius drawn to the sun may describe areas proportional to the times of description, the periodic times of the several parts of the vortices should observe the duplicate proportion of their distances from the sun.
+It says that:
+- each planet by a radius drawn to the sun may describe areas proportional to the times of description
+- the periodic times of the several parts of the vortices should observe the square of their distances from the sun
+- the periodic times of the planets may obtain the 3/2th power of their distances from the sun
+- the periodic times of the parts of the vortex should be as the 3/2th power of their distances
 
-But that the periodic times of the planets may obtain the sesquiplicate proportion of their distances from the sun the periodic times of the parts of the vortex should be in the sesquiplicate proportion of their distances.
+<!-- - the periodic times of the planets may obtain the sesquiplicate proportion of their distances from the sun the periodic times of the parts of the vortex should be in the sesquiplicate proportion of their distances. -->
+- the smaller vortices may maintain their lesser revolutions around Saturn, Jupiter, and other planets, and swim quietly and undisturbed in the greater vortex of the sun
+- the periodic times of the parts of the sun's vortex should be equal 
+- the rotation of the sun and planets around their axes should correspond with the motions of their vortices, but recede far from all these proportions.
 
-The smaller vortices may maintain their lesser revolutions around Saturn, Jupiter, and other planets, and swim quietly and undisturbed in the greater vortex of the sun. 
-
-The periodic times of the parts of the sun's vortex should be equal but the rotation of the sun and planets about their axes which should correspond with the motions of their vortices, recede far from all these proportions.
-
-I have explained that the motions of the comets are very regular. These:
+I have explained that the motions of the comets are very regular*. These:
 - are governed by the same laws with the motions of the planets
 - cannot be accounted for by the hypothesis of vortices as axes because coments have very elliptical orbits
 - have a freedom that is incompatible with the notion of a vortex
+
+> *Superphysics Note: Newton obviously didn't understand Descartes' explanation for comets
+
 
 Bodies thrown in our air experience air resistance. Withdraw the air and the resistance ceases. 
 

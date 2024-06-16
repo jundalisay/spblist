@@ -26,7 +26,9 @@ A body that 'tends' towards some direction does not mean that there is a thought
 
 'Tend' here means that the body is doing an effort to counteract such a <!-- resis  presupposes some --> resistance. 
 
-**The body thus tends towards different directions at the same time**
+**The body thus tends towards different directions at the same time** *
+
+> *Superphysics Note: In Superphysics, where the body actually goes is determined by a combination of the Probability Layer and the Aethereal Layer, where the latter is the layer of causes and the former is the layer of permission (for those causes to actually exist and be generated). 
 
 <!-- [according to different points of view.] -->
 
@@ -37,11 +39,14 @@ There are often diverse causes that act together on the same body.
 
 ## Centrifugal and Centripetal Forces
 
-Similarly, parts of the Earth:
+Similarly, parts of the earth-aether:
 
 1. **moves towards the center** when they pushed to the center by the external [invisible spacetime particles] air-aether
 
-For example, the stone curving in a sling along the circle `AB` would tend circularly from `A` to `B`, if the cord remained and **its length** regulated and determined the stone's motion.
+For example, the stone curving in a sling along the circle `AB` would tend circularly from `A` to `B`, if the cord* remained and **its length** regulated and determined the stone's motion.
+
+> *Superphysics Note: In Superphysics, this aethereal cord is an essential component of our Elastic Theory of Gravity
+
 
 ![Centripetal Force](/graphics/physics/world-13ccc.jpg)
 
@@ -60,9 +65,13 @@ The same stone will tend towards `C` from point `A` if the cord uniting it to th
 
 3. **moves away from the center** when considered less massive than the other more massive parts [have more difference from the center-identity]
 
-The stone would tend towards `E` if the circular agitation was ignored and it broke free from the sling's force. 
+The stone would tend towards `E` if the circular agitation was ignored and it broke free* from the sling's force. 
+
+> *Superphysics Note: In Superphysics, this is due to the Law of Conservation of Idea
+
 
 <!-- its energy were totally not affected or impeded by the sling.  -->
+
 
 ![1](/graphics/physics/world-13aaa.jpg)
 
@@ -83,18 +92,17 @@ In Superphysics, this is the Law of Conservation of Idea applied to the Material
 
 <!-- , and- move away from its center if one considers them . -->
 
-<!-- ![AB curve](/graphics/physics/world13a.png) -->
 
 
 {{< box >}}
 ### Superphysics Note:
 
 It follows that centripetal force is from:
-- the unity of 2 identities 
+- the **unity** of 2 identities 
 - the external force to unite them
 
 Centrifugal force is from:
-- the difference between 2 identities
+- the **difference** between 2 identities
 - the internal force to separate them
 
 In Hinduism and Taoism, centrifugal forces are from the Negative Force or Shakti or Yin, while centripetal is from the Positive Force or Shiva or Yang. 

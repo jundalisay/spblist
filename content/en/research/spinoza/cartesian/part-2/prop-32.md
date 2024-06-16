@@ -43,7 +43,7 @@ Therefore, because no other circumstances or causes are supposed, B will not rec
 Therefore (Part 1, Ax. 8) it cannot move more quickly than it is impelled by the external force. Q.E.D.
 
 
-## Proposition 35: Whcm body B is thus moved by an external impulse, it receives the greatest part of its motion from the bodies by which it is constantly surrounded, and not from the external force.
+## Proposition 35: When body B is thus moved by an external impulse, it receives the greatest part of its motion from the bodies by which it is constantly surrounded, and not from the external force.
 
 Proof: Even though body B is imagined to be very large, it must be moved by even the smallest impulse (Prop. 33 Part 2). 
 

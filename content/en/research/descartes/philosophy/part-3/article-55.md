@@ -1,6 +1,6 @@
 ---
 title: "Light and the Movement of Spacetime Particles"
-heading: Articles 56-59
+heading: Articles 55-59
 weight: 32
 description: "Understanding the effort towards motion in inanimate objects"
 writer:
@@ -8,6 +8,8 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
+aliases:
+  /research/descartes/philosophy/part-3/article-56
 ---
 
 

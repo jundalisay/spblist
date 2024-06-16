@@ -1,11 +1,19 @@
-
+---
+heading: "Propositions 25-"
+title: "The Second Law of Motion"
+image: "/covers/cartesian.jpg"
+description: "All things are predetermined by God, from his infinite power and not from his free will"
+writer:
+  name: Spinoza
+  url: https://en.wikipedia.org/wiki/Baruch_Spinoza
+weight: 14
+---
 
 
 
 ## Proposition 25, RULE 2 (See Diagram Prop. 20)
 
-If A and B are unequal in mass, B being greater than A, other conditions being as previously stated, then A alone will be reflected, and each will continue to move at
-the same speed. 
+If A and B are unequal in mass, B being greater than A, other conditions being as previously stated, then A alone will be reflected, and each will continue to move at the same speed. 
 
 Proof: Because A is supposed to be smaller than B, it will also have less force than B (Prop. 21 Part 2). 
 
@@ -63,8 +71,7 @@ And so both will proceed to move with equal speed in the same direction without 
 Corollary: Hence it follows that, the greater the speed of a body, the more it is determined to move in the same straight line, and conversely, the more slowly it
 moves, the less its determination.
 
-Scholium: Lest my readers should here confuse the force of determination with the force of motion, I think it advisable to add a few words wherein the force of
-determination is explained as distinct from the force of motion. 
+Scholium: Lest my readers should here confuse the force of determination with the force of motion, I think it advisable to add a few words wherein the force of determination is explained as distinct from the force of motion. 
 
 If bodies A and C are conceived as equal and moving in a straight line toward each other at equal speed, these two bodies (Prop. 24 Part 2) will be reflected in opposite directions, each preserving its own motion undiminished. 
 
@@ -80,9 +87,9 @@ But A, retaining its original motion and determination, will proceed to move tow
 
 And to that extent it is opposed to the determination of body A, which is the stronger. But in order for C's force of determination in moving from B to A, insofar as it participates in the direction CA, to be equal to C's force of determination in moving directly toward A (or, by hypothesis, equal to A's force of determination), B will have to have degrees of motion in excess of A in proportion as the line BA is greater than the line CA.
 
-And then, when it meets body A at an oblique angle, A will be reflected in the opposite direction toward N and B toward B', both retaining their original motion. But if the excess of B over A is more than the excess of the line
-BA over the line CA, then B will repel A toward N, and will impart to it as much of its motion as will make the ratio of the motions of B to A the same as the ratio
-of the line BA to the line CA, and, losing as much motion as it has transferred to A, it will proceed to move in its original direction. 
+And then, when it meets body A at an oblique angle, A will be reflected in the opposite direction toward N and B toward B', both retaining their original motion. 
+
+But if the excess of B over A is more than the excess of the line BA over the line CA, then B will repel A toward N, and will impart to it as much of its motion as will make the ratio of the motions of B to A the same as the ratio of the line BA to the line CA, and, losing as much motion as it has transferred to A, it will proceed to move in its original direction. 
 
 For example, if the line AC is to the line AB as I to 2, and the motion of body A is to that of body B as I to 5, then B will transfer to A one degree of its motion and will repel it in the opposite direction, and B with four remaining degrees of motion will continue to move in its original direction. 
 
