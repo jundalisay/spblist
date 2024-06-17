@@ -108,6 +108,8 @@ You conferred together and agreed to entertain me to-day, as I had entertained y
 We, as Timaeus says, are enthusiastic. 
 <!-- ; and there is no excuse for not complying with your request.  -->
 
-As soon as we arrived yesterday at the guest-chamber of Critias, with whom we are staying, or rather on our way thither, we talked the matter over. He told us an ancient tradition, which I wish, Critias, that you would repeat to Socrates, so that he may help us to judge whether it will satisfy his requirements or not.
+We stayed with Critias. As soon as we arrived yesterday at his guest-chamber, we talked the matter over. 
+
+He told us an ancient tradition. Critias, please repeat it to Socrates, so that he may help us to judge whether it will satisfy his requirements or not.
 {{< /r >}}
 

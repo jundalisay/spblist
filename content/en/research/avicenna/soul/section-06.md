@@ -12,13 +12,19 @@ image: "/covers/soul.jpg"
 
 ## Sight
 
-As to the seeing power, philosophers have differed on the question of How they perceive. 
+<!-- As to the seeing power,  -->
+
+Philosophers have differed on how we see. 
+
+ <!-- the question of How they perceive.  -->
 
 In the Timaeus, Plato asserts that they perceive wholly and solely through a ray that shoots out beyond the eye. This makes them sense the sensible objects<!--  that are seen -->. 
 
 Others assert that the perceiving power itself encounters the sensible objects that are seen, and so perceives them. 
 
-Aristotle says that visual perception is caused by the intervening transparent body becoming effectively transparent by the light shining on it. This leads to an impression of the outspread (flattened) individual of such seen objects into the crystalline[14] lens of the eye. This is similar to a pictorial impression as is effected in mirrors. 
+Aristotle says that visual perception is caused by the intervening transparent body becoming effectively transparent by the light shining on it. 
+
+This leads to an impression of the outspread (flattened) individual of such seen objects into the crystalline[14] lens of the eye. This is similar to a pictorial impression as is effected in mirrors. 
 
 <!-- indeed the two effects are so similar that were mirrors possessed of a seeing power they would perceive the form imprinted in them. This is Aristotle’s way;  -->
 
@@ -32,19 +38,51 @@ Aristotle is correct and Plato’s view is false*. If a ray goes out from the se
 
 
 
-Moreover such a ray will not fail of 1 of 2 modes. Either it will: 
-- subsist throughout the eye only, in which case Plato’s opinion that it goes forth from the eye is wrong; or 
-- subsist throughout a body other than the material of which the eye is composed; for it must inevitably have a vehicle to carry it, seeing that a ray is an accidental quality or mode, and furthermore seeing that that body which is other than the eye will not fail, in its turn, of being, either, firstly, sent out from the eye, in which case it will follow as a matter of course that the eye will not see all that is beneath the clear blue of the sky, since one body will not penetrate throughout the whole of another body, unless forsooth it moves the latter away and occupies its place;
+Such a ray will not fail of 1 of 2 modes. Either it will: 
 
-Even should the disputer plead a vacuum, not only does Plato deny the existence of a vacuum utterly, but also if we accomodatingly yield this point and admit the existence of a vacuum, yet for all this the body that goes forth from the eye will penetrate throughout the body of water, for example, into such of its pores as are empty only, and not into the whole of the water’s bulk; so that even according to this opinion it will necessarily so be that the eye will see only some places of all that is under water;—or else, secondly, that body which is other than the eye will not fail of being an intervening body intermediate between the seer and the seen, in which case the light[I] which comes forth from the eye will subsist through it; nevertheless this opinion too is unsound, for the reason that every thing whatsoever is, in proximity to its source, so much the stronger, and in this respect light has not its equal; whence it follows as regards the object seen that, however closely and nearly it approaches to the eye, our perception will then be stronger; 
+1. Subsist throughout the eye only
 
-Thus if we do away with the intermediary body, the eye will still perceive the object felt by its sense of sight, and thus the intermediary which is the vehicle and carrier of light is no longer needed, save accidentally (by chance); and then too there is no need, in order to see, for an exit of light: this too is a falsehood. Wherefore Plato’s opinion is worthless.
+In this case, Plato’s opinion that it goes forth from the eye is wrong
 
-As for such as hold that the perceiver of the thing seen is the imaginative power itself through the imprinting of the form (image) of the sensible object upon it, these render the absent on the same footing as the present, since in the imaginative power there may exist the image of a[Pg 54] sensible object, notwithstanding the absence afterwards of the object that had been so felt: at which time however the living being so preserving that image will not be qualified with sight but with imagination and memory. 
+2. Subsist throughout a body other than the material of which the eye is composed
 
-These theorists make a greater blunder. They see that they render a thing of Nature’s make and composition wholly idle, useless, and unneeded in the operation of visual perception; inasmuch as in their opinion the imaginative power itself meets immediately sensible objects, and thus spares Nature the task of adapting an instrument (organ), to wit the complex eye.
+It must have a vehicle to carry it, seeing that a ray is an accidental quality or mode, and furthermore seeing that that body which is other than the eye will not fail, in its turn, of being, either, 
+- sent out from the eye
+  - In this case, it will follow as a matter of course that the eye will not see all that is beneath the clear blue of the sky, since one body will not penetrate throughout the whole of another body, unless forsooth it moves the latter away and occupies its place;
 
-Wherefore the sound theory is that the configurations of things stand out in the transparent ambient—if it be effectively transparent on the shining of a luminant upon it—and hence they do not appear but in a polished body capable of receiving them, such as mirrors and the like; and so too there is in the eye a crystalline lens (or humor) into which the forms (pictures) of things are imprinted, just as their impression into mirrors; and in it, i.e., the lens or the eye, has been fitted up the seeing power; so that, if such forms are imprinted in it, it perceives them. Moreover, the objects of perception belonging in truth and deed to sight are the Colors.
+Even should the disputer plead a vacuum, not only does 
+
+Plato denies the existence of a vacuum utterly.
+
+If a vacuum existed, then the body that goes forth from the eye will penetrate throughout the body of water and into the empty pores, and not into the whole of the water’s bulk;
+
+ so that even according to this opinion it will necessarily so be that the eye will see only some places of all that is under water;—or else, 
+
+secondly, that body which is other than the eye will not fail of being an intervening body intermediate between the seer and the seen, in which case the light[I] which comes forth from the eye will subsist through it; 
+
+This opinion too is unsound because every thing is stronger the closer it is to its source, so much the stronger, and in this respect light has not its equal; whence it follows as regards the object seen that, however closely and nearly it approaches to the eye, our perception will then be stronger.
+
+Thus if we do away with the intermediary body, the eye will still perceive the object felt by its sense of sight..
+
+Thus, the intermediary which is the vehicle and carrier of light is no longer needed, save accidentally (by chance).
+
+Then too there is no need, in order to see, for an exit of light: this too is a falsehood. Wherefore Plato’s opinion is worthless.
+
+As for such as hold that the perceiver of the thing seen is the imaginative power itself through the imprinting of the form (image) of the sensible object upon it, these render the absent on the same footing as the present, since in the imaginative power there may exist the image of a sensible object, notwithstanding the absence afterwards of the object that had been so felt: at which time however the living being so preserving that image will not be qualified with sight but with imagination and memory. 
+
+These theorists make a greater blunder. 
+
+They see that they render a thing of Nature’s make and composition wholly idle, useless, and unneeded in the operation of visual perception.
+
+They think that the imaginative power itself meets immediately sensible objects, and thus spares Nature the task of adapting an instrument (organ), to wit the complex eye.
+
+The correct theory is that the configurations of things stand out in the transparent ambient.
+
+—if it be effectively transparent on the shining of a luminant upon it—and hence they do not appear but in a polished body capable of receiving them, such as mirrors and the like; and so too there is in the eye a crystalline lens (or humor) into which the forms (pictures) of things are imprinted, just as their impression into mirrors; 
+
+The lens or the eye has been fitted with the seeing power that can perceive the forms imprinted on it.
+
+The objects of perception belonging to sight are the Colors.
 
 
 ## Hearing

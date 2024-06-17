@@ -47,7 +47,7 @@ the analogy of Nature, which uses to be simple, and always consonant to
 ;
 itself. -->
 
-We can only know bodies than by our senses.. 
+We can only know bodies by our senses. 
 
 <!-- 
 it in all bodies; but because we perceive extension in

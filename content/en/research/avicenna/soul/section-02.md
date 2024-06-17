@@ -52,12 +52,16 @@ This is participated by the animal and plant.
 
 What is the <!-- To treat now of the definition of the Soul at large, I mean the --> universal, absolute, generic soul?
 
-This will become apparent, according to the tenets I hold, that among truths that are plainly manifest one is that every one of all natural bodies is compounded of “hyle” I mean matter, and of form.
+<!-- This will become apparent, according to the tenets I hold, that among truths that are plainly manifest one is that every one of  -->
 
-As for hyle, one of its properties is that through it a natural body is affected (or acted upon) in its very self; 
+All natural bodies are compounded of:
+- “hyle” I mean matter, and
+- form.
+
+As for hyle, one of its properties is that through it a natural body is affected (or acted upon) in its very self.
 
 For example, the sword cuts because of its form of sharpness, not because of its iron. 
-- It gets jagged because of its iron, not because of its form. 
+- It gets jagged because of its iron, not because of its form.
 
 Another of those properties is that bodies do not differ through the hyle. 
 
@@ -65,15 +69,15 @@ Earth does not differ from water through its matter, but through its form.[9]
 
 Still another property is that the hyle or matter does not afford (supply, furnish) natural bodies their characteristics peculiarly belonging to them, save potentially; since in man, e.g., his humanity—his being man—is not actually derived from the four elements, save potentially.
 
-As for the form, its peculiarity is 
+As for the form, its peculiarity is:
 
-1.o that through it bodies put forth their actions (or perform their manifold deeds and workings) since a sword does not cut through its iron, but through, its sharpness; and 
+1. That through it bodies put forth their actions (or perform their manifold deeds and workings) since a sword does not cut through its iron, but through, its sharpness; and 
 
-2.o that bodies differ one from the other only through their genus or kind, I mean the form, since earth does not differ from water save through its form, whereas in its matter it does not; and 
+2. That bodies differ one from the other only through their genus or kind, I mean the form, since earth does not differ from water save through its form, whereas in its matter it does not; and 
 
-3.o that natural bodies get (derive, acquire) their being what they in fact are from the form, since as to man, his being a man (his humanity) is in fact through his form, and not through his matter, which is of the 4 elements.
+3. That natural bodies get (derive, acquire) their being what they in fact are from the form, since as to man, his being a man (his humanity) is in fact through his form, and not through his matter, which is of the 4 elements.
 
-Let us proceed a little further. 
+<!-- Let us proceed a little further.  -->
 
 A live body:
 - is a natural compound body that discriminates the non-living through its soul, and not through its body
@@ -96,7 +100,7 @@ Perfections (enteléchias) have 2 divisions:
 
 <!-- The one of the two divisions is first, and the other is second. The first is the principle (or source and origin), and the second is the doing and the effect (or trace). -->
 
-In this sense the soul is a first perfection (or prime actuality); for it is a principle (source), not an outcome of a principle (source).
+In this sense, the soul is a first perfection (or prime actuality); for it is a principle (source), not an outcome of a principle (source).
 
 <!-- And of perfections, there are such as belong to  -->
 

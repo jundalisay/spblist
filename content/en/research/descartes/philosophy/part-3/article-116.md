@@ -23,7 +23,9 @@ Meanwhile, the spots besieging the star in its center will become denser and mor
 
 For example, the position of `Vortex N` impedes the motion of `Vortex S` more than any other neighboring vortex. 
 
-Therefore, it will easily be removed by `Vortex S` as soon as its N-star becomes covered with several spots. 
+{{< img src="/graphics/physics/vortices.jpg" alt="Vortices" >}}
+
+Therefore, it will easily be removed by `Vortex S` as soon as its `N-star` becomes covered with several spots. 
 
 The circumference of `Vortex S` currently ends at the `line OPQ`. It will then end at the `Line ORQ`. 
 
@@ -89,23 +91,3 @@ If the descending body is so solid that it gains agitation equal to the parts it
 If it is less solid and thus descends below this point, it will always remain at a certain distance from the star occupying the vortex's center, rotating around it and becoming a planet.
 
 
-
-### 120. The Movement of a Star When It First Ceases to Be Fixed
-
-For example, the air-aether of Vortex `AEIO` first carries off `Star N`.
-
-All this material rotates around the center `S` and therefore tends to move away from it.
-
-The air-aether currently at `O`, moving through R to Q, will push this star in a straight line towards S. 
-
-The movement of `Star N` or any other body towards the center of the vortex in which it is located can be called its descent.
-
-Initially, it is pushed this way, assuming there is no other movement in it. 
-
-But soon after, it is also carried around in a circular motion from N to A. 
-
-Since this circular motion gives it the force to move away from the center `S`, its descent towards S depends only on its solidity. 
-
-If it has very little solidity, it will descend significantly towards S.
-
-If it has great solidity, it will move away from S.

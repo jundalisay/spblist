@@ -25,14 +25,24 @@ He said that ancient Athens did great and marvellous actions which have passed i
 <!-- SOCRATES= Very good. And what is this ancient famous action of the Athenians, which Critias declared, on the authority of Solon, to be not a mere legend, but an actual fact?
  -->
 
-{{< r a="Critias" >}}
-Critias told this story to me when he was nearly 90 years old and I was about 10. It was during that day of the Apaturia which is called the Registration of Youth wherein our parents gave prizes for recitations, and the poems of several poets were recited by us boys. 
+{{< r a="Hemocrates" >}}
+Critias told this story to me when he was nearly 90 years old and I was about 10. 
+
+It was day of the Apaturia which is called the Registration of Youth wherein:
+- boys recited the poems of several poets
+- the parents gave prizes for recitations
 
 Many of us sang the poems of Solon, which at that time had not gone out of fashion. 
 
 One of our tribe, either because he thought so or to please Critias, said that in his judgment Solon was not only the wisest of men, but also the noblest of poets. 
 
-Critias brightened up at hearing this and said, smiling: Yes, Amynander, if Solon had only, like other poets, made poetry the business of his life, and had completed the tale which he brought with him from Egypt, and had not been compelled, by reason of the factions and troubles which he found stirring in his own country when he came home, to attend to other matters, in my opinion he would have been as famous as Homer or Hesiod, or any poet.
+Critias brightened up at hearing this and said, smiling: 
+
+Yes, Amynander. Solon found factions and troubles stirring in his own country when he came home. This forced him to attend to other matters instead of:
+- making poetry the business of his life
+- completing the tale which he brought from Egypt
+
+If he did this, he would have been as famous as Homer or Hesiod, or any poet.
 
 It was about the greatest action which the Athenians ever did, and which should have been the most famous. But, through the lapse of time and the destruction of the actors, it has not come down to us.
 {{< /r >}}
@@ -49,13 +59,17 @@ The citizens have a deity for their foundress. called 'Neith'. They assert that 
 
 They are great lovers of the Athenians, and say that they are in some way related to them. 
 
-Solon went to Sais and was received there with great honour. He asked the priests who were most skilful in such matters, about antiquity. He discovered that neither he nor any other Hellene knew anything about history. 
+Solon went to Sais and was received there with great honour. He asked the priests who were most skillful in such matters, about antiquity. He discovered that neither he nor any other Hellene knew anything about history.
 
-He wanted to them to speak of antiquity. So he began to tell about the most ancient things in our part of the world—about Phoroneus, who is called ‘the first man,’ and about Niobe. 
+He wanted to them to speak of antiquity. So he began to tell about the most ancient things in our part of the world—about:
+- Phoroneus, who is called ‘the first man,’ and Niobe. 
+- after the Deluge, of the survival of Deucalion and Pyrrha. 
 
-After the Deluge, of the survival of Deucalion and Pyrrha. He traced the genealogy of their descendants. He tried compute how many years ago those events happened.
+He traced the genealogy of their descendants. He tried compute how many years ago those events happened.
 
-Then one of the very old priests said: 'O Solon, you Hellenes are never anything but children. There is not an old man among you. In mind, you are all young. There is no old opinion handed down among you by ancient tradition, nor any science which is hoary with age. This is because there have been, and will be again, many destructions of mankind arising out of many causes. The greatest have been brought about by the agencies of fire and water. Other lesser ones were by innumerable other causes. 
+Then one of the very old priests said: 
+
+'O Solon, you Hellenes are never anything but children. There is not an old man among you. In mind, you are all young. There is no old opinion handed down among you by ancient tradition, nor any science which is hoary with age. This is because there have been, and will be again, many destructions of mankind arising out of many causes. The greatest have been brought about by the agencies of fire and water. Other lesser ones were by innumerable other causes. 
 
 There is a story, which even you have preserved. It says that once upon a time, Paethon, the son of Helios, yoked the steeds in his father’s chariot. But he was unable to drive them in the path of his father. And so he burnt up all that was on the earth, and was himself destroyed by a thunderbolt. 
 
