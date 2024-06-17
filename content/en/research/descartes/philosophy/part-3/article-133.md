@@ -1,7 +1,7 @@
 ---
 title: "The Comet's Tail and Its Various Phenomena"
 heading: Articles 133-139
-weight: 59
+weight: 60
 description: "Comets exhibit a long, radiant tail, which gives them their name"
 writer:
   name: Rene Descartes

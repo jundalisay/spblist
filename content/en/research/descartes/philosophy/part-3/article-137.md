@@ -1,12 +1,39 @@
+---
+title: "Why The Tails Of Comets Are Not Straight"
+heading: Articles 137-139
+weight: 62
+description: "Why the tails of Comets, not always directly opposite the Sun, nor always straight, appear"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+image: "/covers/philos.png"
+icon: "/icons/descartes.png"
+---
+
+
 
 ### 137. How beams also appear
 
-If the eye is towards the point S, it will be prevented by the rays of the Sun from seeing the Comet itself, but will see only a part of its coma, like a fiery beam, which will appear either in the evening or in the morning, according to whether the eye is closer to point 4 or point 2; and perhaps one in the morning and the other in the evening may appear, if the eye exists in the middle point 5 itself. 
+If the eye is towards `Point S`, it will be prevented by the rays of the Sun from seeing the Comet itself. 
+
+It will see only a part of its coma, like a fiery beam.
+
+This will appear either in the evening or in the morning, according to whether the eye is closer to `Point 4` or `Point 2`.
+
+If the eye is in the middle `Point 5`, the comet might appear one in the morning and the other in the evening. 
+
 
 
 ### 138. Why the tails of Comets, not always directly opposite the Sun, nor always straight, appear
 
-This coma or tail must sometimes be straight, sometimes, somewhat curved; sometimes in a straight line, which passes through the centers of the Comet and the Sun, sometimes deviating somewhat from it; and finally sometimes wider, sometimes narrower, or even brighter, since namely the lateral rays converge towards the eye.
+This coma or tail is sometimes:
+- straight
+- curved
+- in a straight line, which passes through the centers of the Comet and the Sun
+- deviating somewhat from it
+- wider, narrower, or even brighter
+
+These depend on the lateral rays converging towards the eye.
 
 For all these things follow from the irregularity of the spheroid DEFGH: for towards the poles, where its shape is flatter, the tails of Comets must appear more straight and wide; in the bend between the poles and the ecliptic, more curved, and deviating from the opposite Sun; and according to the length of this bend, brighter, and narrower. 
 

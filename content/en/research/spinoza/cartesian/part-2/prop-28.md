@@ -1,7 +1,20 @@
-## Proposition 28, RULE 4 (See Diagram Prop. 20)6
+---
+heading: "Propositions 25-31"
+title: "The Second Law of Motion"
+image: "/covers/cartesian.jpg"
+description: "All things are predetermined by God, from his infinite power and not from his free will"
+writer:
+  name: Spinoza
+  url: https://en.wikipedia.org/wiki/Baruch_Spinoza
+weight: 14
+---
 
-If a body A is completely at rest and is a little larger than B, with whatever speed B
-moves toward A it will never move A, but will be repelled by A in the opposite direction, retaining its original motion.
+
+
+## Proposition 28, RULE 4 
+<!-- (See Diagram Prop. 20)6 -->
+
+If a body A is completely at rest and is a little larger than B, with whatever speed B moves toward A it will never move A, but will be repelled by A in the opposite direction, retaining its original motion.
 
 Note 7 that the contrariety of these bodies is removed in three ways. 
 
@@ -13,14 +26,13 @@ and the other retains its original rest.
 
 3. When one is reflected in the opposite direction and transfers some of its motion to the other, which was at rest. 
 
-
+<!-- 
 6 [Corrected from Prop. 27.]
-7 [This note and the note immediately followmg P29 were set In smaller type in the first edition, indicating that they were additions that Spinoza made In proof (see EpI 5).] 
+7 [This note and the note immediately followmg P29 were set In smaller type in the first edition, indicating that they were additions that Spinoza made In proof (see EpI 5).]  -->
 
 There can be no fourth possibility (from Prop. 13 Part 2). So we must now demonstrate (by Prop. 23 Part 2) that according to our hypothesis the least change occurs in these bodies.
 
-Proof: If B were to move A until they both proceeded to move atthe same speed, it would have to transfer to A as much of its motion as A acquires (Prop. 20 Part
-2) and would have to lose more than half of its motion (Prop. 21 Part 2), and consequently (Cor. Prop. 27 Part 2) more than half of its determination as well.
+Proof: If B were to move A until they both proceeded to move atthe same speed, it would have to transfer to A as much of its motion as A acquires (Prop. 20 Part 2) and would have to lose more than half of its motion (Prop. 21 Part 2), and consequently (Cor. Prop. 27 Part 2) more than half of its determination as well.
 
 And so (Cor. Prop. 26 Part 2) it would undergo more change than if it were merely to lose its determination.
 
@@ -35,10 +47,11 @@ change will occur. Q.E.D.
 
 In the proof of this proposition and also in the case of other proofs, we have not quoted Prop. 19 Part 2, in which it is demonstrated that the whole determination can be changed while yet the motion remains unaltered.
 
-Yet attention should be paid to this proposition, so that the force of the proof may be rightly perceived. For in Prop. 23 Part 2 we did not say that the variation will
-always be the least absolutely, but the least that there can be. But that there can be such a change as we have supposed in this proof, one consisting solely in determination, is evident from Props. 18 and 19 with Cor. Part 2.
+Yet attention should be paid to this proposition, so that the force of the proof may be rightly perceived. For in Prop. 23 Part 2 we did not say that the variation will always be the least absolutely, but the least that there can be. But that there can be such a change as we have supposed in this proof, one consisting solely in determination, is evident from Props. 18 and 19 with Cor. Part 2.
 
-## Proposition 29, RULE 5 (See Diagram Prop. 30)
+
+## Proposition 29, RULE 5 
+<!-- (See Diagram Prop. 30) -->
 
 If a body A at rest is smaller than B, them however slowly B moves toward A, it will move it along with it, transferring to it such a part of its motion that both bodies thereafter move at the same speed. (Read Art. 50 Part 2 of the Principia.)
 
@@ -53,7 +66,8 @@ Now if B were not to take A along with it but were to be reflected in the opposi
 
 Even greater would be the variation if it lost all its determination and at the same time a part of its motion, as is supposed in the third case. Therefore the variation, in accordance with our hypothesis, is the least. Q.E.D.
 
-8 [I accept Hubbehng's emendahon of 17 to 27.- S.S.] 
+<!-- 8 [I accept Hubbehng's emendahon of 17 to 27.- S.S.]  -->
+
 
 ## Proposition 30, RULE 6
 
@@ -63,8 +77,7 @@ Here again, as in the preceding Prop., only three cases could be conceived.
 
 And so it must be demonstrated that we are here positing the least variation that there can be.
 
-Proof: If body B takes body A along with it until both are proceeding to move at the same speed, then there will be the same amount of motion in the one as in
-the other (Prop. 22 Part 2), and (Cor. Prop. 27 Part 2) B will have to lose half its determination and also (Prop. 20 Part 2) half its motion.
+Proof: If body B takes body A along with it until both are proceeding to move at the same speed, then there will be the same amount of motion in the one as in the other (Prop. 22 Part 2), and (Cor. Prop. 27 Part 2) B will have to lose half its determination and also (Prop. 20 Part 2) half its motion.
 
 But if it is repelled by A in the opposite direction, then it II " will lose all its determination and will retain all its motion (Prop. 18 Part 2). This variation is equal to the former (Cor. I Prop. 26 Part 2). But neither of these possibilities can occur.
 
@@ -95,10 +108,11 @@ Thus (Cor. Prop. 14 Part 2) it will retain all its motion, but not in the same d
 
 Therefore (according to Chap. 2 Dioptrics) it will be reflected  in the opposite direction, not in any other direction, retaining its original motion (Prop. 18 Part 2). Q.E.D.
 
-Note that here and in the preceding propositions we have taken as proved that any body meeting from the opposite direction another body by which it is absolutely impeded from advancing further in the same direction, must be reflected in the opposite direction, not in any other direction. For the understanding of this,
-read Chap. 2 Dioptrics.
+Note that here and in the preceding propositions we have taken as proved that any body meeting from the opposite direction another body by which it is absolutely impeded from advancing further in the same direction, must be reflected in the opposite direction, not in any other direction. For the understanding of this, read Chap. 2 Dioptrics.
 
-Scholium Up to this point, to explain the changes of bodies resulting from their impact on each other, we have considered the two bodies as though isolated from
-all other bodies, that is, without taking into account bodies that surround them on all sides. But now we shall consider their state and their changes wh ile taking
-into account bodies that surround them on all sides.
+### Scholium 
+
+Up to this point, to explain the changes of bodies resulting from their impact on each other, we have considered the two bodies as though isolated from all other bodies, that is, without taking into account bodies that surround them on all sides. 
+
+But now we shall consider their state and their changes wh ile taking into account bodies that surround them on all sides.
 

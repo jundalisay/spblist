@@ -1,6 +1,6 @@
 ---
 title: "The Formation of the Earth"
-heading: Articles 1-
+heading: Articles 1-14
 weight: 2
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
 writer:
@@ -28,9 +28,10 @@ It had a vast vortex around it, in whose center it stood.
 
 The striated particles and other very minute particles of the fire-aether adhered to each other and thus were converted into the earth-aether.
 
-The opaque spots were first generated on the surface of the Earth, similar to those we continually see being generated and dissolved around the Sun. 
+ <!-- we continually see being generated and dissolved  -->
+Sun spots were first generated on the surface of the Earth, similar to those around the Sun. 
 
-Then, the particles of the earth-aether remaining from the continuous dissolution of these spots, scattered throughout the neighboring sky, gradually formed a great mass of air or aether there.
+Then, the earth-aether particles remained from the continuous dissolution of these spots, scattered throughout the neighboring sky, gradually formed a great mass of air or aether there.
 
 After this ether became very large, it wove denser spots, generated around the Earth, covering and darkening it completely. 
 

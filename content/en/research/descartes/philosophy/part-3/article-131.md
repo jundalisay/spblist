@@ -1,7 +1,7 @@
 ---
 title: "Comet Visibility"
 heading: Articles 131-133
-weight: 58
+weight: 59
 description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes

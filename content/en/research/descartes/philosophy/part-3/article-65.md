@@ -19,13 +19,18 @@ No matter how the individual vortices were moved from the beginning, they will b
 
 This is because the motion of each body can easily be deflected by encountering another body. 
 
-{{< img src="/graphics/physics/world-13eee.jpg" >}}
+{{< img src="/graphics/physics/vrotices.jpg" alt="Vortices" >}}
+<!-- world-13eee.jpg -->
 
 - Vortex 1, with center `S`, moves from `A` through `E` towards `I`.
 - Vortex 2, with center `F`, must move from `A` through `E` towards `V`, if no other surrounding vortices interfere. Thus, their motions will best agree with each other. 
-- Vortex 3, whose center is not in the plane SAFE but above it, forming a triangle with the centers S and F, and which is connected with the other two vortices AEI and AEV in the line AE, should move from A through E upwards. 
+- Vortex 3, forms a triangle with the centers S and F. It is connected with the other two vortices `AEI` and `AEV` in the line AE, should move from A through E upwards.
 
-- Vortex 4, with center `f`, cannot move from E towards I to agree with the motion of Vortex 1 because it would oppose the motions of Vortex 2 and 3.
+<!-- whose center is not in the plane SAFE but above it, , and which is  -->
+
+
+
+- Vortex 4, with center `f`, cannot move from `E` towards `I` to agree with the motion of Vortex 1 because it would oppose the motions of Vortex `2` and `3`.
 
 It cannot move from `E` towards `V` like Vortex 2 because it would conflict with Vortex 1 and 3.
 

@@ -146,7 +146,6 @@ We perceive of hardness as the parts of hard bodies resisting the motion of our 
 
  <!-- we clearly infer that those bodies are hard, all of whose particles are at rest in close proximity to one another.  -->
 
-Read Arts. 54, 55, 56 Part 2 of
-the Principia.
+Read Arts. 54, 55, 56 Part 2 of the Principia.
 
 End of Part 2

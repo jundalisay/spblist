@@ -18,9 +18,18 @@ writer:
 
 These natures areas the alphabet or simple letters, whereof the variety of things consisteth; or as the colours mingled in the painter's shell, where with he is able to make infinite variety of faces or shapes.
 
-An enumeration of them according to popular note. That, at the first, one would conceive that in the schools by natural philosophy were meant the knowledge of the efficients ot things concrete; and by metaphysics the knowledge of the forms of natures simple; which is a good and fit division of knowledge: but upon examination there is no such matter by them intended. 
+An enumeration of them according to popular note. 
 
-That the little inquiry into the production of simple natures, showeth well that works were not sought; because by the former knowledge some small and superficial deflexions from the ordinary generations and productions may be found out, but the discovery of all profound and radical alteration must arise out of the latter knowledge.
+<!-- That, at the first, -->
+
+One would conceive that:
+- in the schools by natural philosophy were meant the knowledge of the efficients ot things concrete; and
+- by metaphysics the knowledge of the forms of natures simple
+
+This is a good and fit division of knowledge. But upon examination, this was not intended by them. 
+
+<!-- there is no such matter by them -->
+That the little inquiry into the production of simple natures, shows that works were not sought; because by the former knowledge some small and superficial deflexions from the ordinary generations and productions may be found out, but the discovery of all profound and radical alteration must arise out of the latter knowledge.
 
 
 ## CHAPTER 14

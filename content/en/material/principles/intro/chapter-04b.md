@@ -53,7 +53,7 @@ These 4 zones match the:
 
 This is also seen in galaxy rotation curves which have different dynamics from that predicted by Newton's inverse square law. 
 
-{{< img src="/graphics/physics/rotation.jpg" alt="Galaxy Rotation Curves" cap="The division of a territory into 4 parts is seen in both the orbits in our solar system and in the rotation curves of a spiral galaxy. This removes the need for dark matter to explain gravitational lensing and galaxy rotation." >}}
+{{< img src="/graphics/physics/rotation.jpg" alt="Galaxy Rotation Curves" cap="The division of a territory into 4 parts is seen in both the orbits in our solar system and in the rotation curves of a spiral galaxy. This removes the need for dark matter to explain gravitational lensing and galaxy rotation. The outer arms of a galaxy move fast compared to the outer area of a solar system (which moves slowly) because of the difference of the Spatial and Radiant Layers" >}}
 
 
 ## Works on BAOs too

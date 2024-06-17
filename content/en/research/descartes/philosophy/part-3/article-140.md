@@ -13,70 +13,106 @@ icon: "/icons/descartes.png"
 
 ### 140. The principle of the motion of a Planet
 
-Let us assume that the star N is capable of less agitation, or has less solidity, NB. See fig. pag. 171. than the globules of the second element, which are towards the circumference of our sky, but still has somewhat more than some of those which are towards the Sun: Whence we understand, that as soon as it is taken away from the vortex of the Sun, it should immediately descend towards its center, until it reaches those celestial globules with which it is equal in solidity, or in aptitude to continue in its motion in straight lines:
-
-When it finally arrives there, it will no longer approach the Sun more, nor will it recede from it, except insofar as it may be somewhat propelled here and there by some other causes, but balanced among those celestial globules, it will revolve continually around the Sun and will be a Planet. 
-
-If it were to approach the Sun more closely, it would move among slightly smaller celestial globules there, and therefore those which it overcomes with force to move away from the center around which it revolves; and being moved faster.
-
-Therefore the force would increase with its agitation, and thus it should regress from there again. But if it were to recede more from the Sun, it would encounter celestial globules somewhat less swiftly moving, and therefore diminishing its agitation; and slightly smaller, and therefore having the force to repel it towards the Sun.
 
 
-### 141. Causes on which its errors depend. 
+Now, having discussed everything related to comets, let us return to the planets. Let us consider the star N to be capable of less agitation, or to have less solidity, than the globules of the second element, which are towards the circumference of our heavens, but still somewhat more than some of those which are towards the Sun: From this, we understand that as soon as it is snatched away by the vortex of the Sun, it must immediately descend towards its center until it reaches those celestial globules to which it is equal in solidity, or in aptitude for persevering in its motion along straight lines: And when it finally arrives there, it will no longer approach the Sun, nor move away from it, except as it is somewhat propelled here and there by some other causes, but being balanced among these celestial globules, it will continuously orbit around the Sun and be a planet. For if it were to move closer to the Sun, it would be among the globules AT VIII-1, 193 of the heavens that are slightly smaller, and therefore it would have more force to recede from the center around which it orbits; and more swiftly moved, and therefore by which this force along with agitation would be increased, and thus it would have to return from there again. But if it were to move further away from the Sun, it would encounter celestial globules that are somewhat less swiftly moved, and therefore which would decrease its agitation; and slightly smaller, and therefore which would have the force of repelling it towards the Sun.
 
 
-1. Other causes which somewhat propel the Planet around the Sun here and there are: First, because the space in which it rotates together with all the matter of the sky is not perfectly spherical; for where this space is wider, the matter of the sky must flow more slowly than where it is narrower.
+
+
+**CXLIV. Fourth.**
+
+Fourthly, that there may have been some motions in that planet before, which persist in it for a very long time, even though other causes oppose them. For as we see a top, from the mere fact that it is once spun by a child, acquire enough force to persist in its motion for several minutes of an hour, meanwhile completing several thousand rotations, although it is small in size, and both the surrounding air and also the ground on which it rests oppose its motion: so it can easily be believed that from the mere fact that a planet was once moved when it was first formed, it could have continued its circuits from the origin of the world to the present time without any notable decrease in speed: 
+
+because the time span of five or six thousand years, during which the world has stood, is much shorter compared to the size of a planet, than the time of one minute of an hour compared to the size of a small top.
+
+**CXLV. Fifth.**
+
+Finally, fifthly, that the force of thus persevering in its motion is much stronger and more constant in the planet than in the celestial matter surrounding it; and also stronger in a large planet than in a smaller one. For this force in the celestial matter depends on the fact that its globules conspire together in the same motion: and since they are mutually separated, small changes can cause more or fewer of them to conspire together. Hence it follows that a planet never moves as quickly as the celestial globules surrounding it; for although it matches their motion with which it is carried along with them, they have many other motions as they are mutually separated. Hence it also follows that when the motion of these celestial globules is accelerated, slowed down, or bent, the motion of the planet moving among them is not accelerated, slowed down, or bent as much, nor as quickly.
+
+
+Let us assume that the `Star N` is capable of less agitation, or has less solidity than the air-aether globules, which are towards the circumference of our sky, 
+
+but still has somewhat more than some of those which are towards the Sun: 
+
+As soon as it is taken away from the vortex of the Sun, it should immediately descend towards its center, until it reaches those air-aether globules with which it is equal in solidity, or in aptitude to continue in its motion in straight lines.
+
+<!--celestial globules , NB. See fig. pag. 171.  celestial -->
+
+When it arrives there, it will no longer approach the Sun, nor will it recede from it, except insofar as it may be somewhat propelled here and there by some other causes.
+
+Instead, it will be balanced among those air-aether globules and revolve continually around the Sun and will be a Planet. 
+
+<!-- celestial -->
+If it were to approach the Sun more closely, it would move among slightly smaller air-aether globules there.
+
+Therefore those which it overcomes with force to move away from the center around which it revolves; and being moved faster.
+
+Therefore the force would increase with its agitation causing it to regress from there again.
+
+<!-- celestial -->
+But if it were to recede more from the Sun, it would encounter slower air-aether globules. This would reduce its agitation.
+
+Being slightly smaller, they have the force to repel it towards the Sun.
+
+
+### 141. Causes on which its errors depend
+
+Other causes which somewhat propel the Planet around the Sun here and there are: 
+
+<!-- matter of the sky -->
+1. The space where it rotates with all the air-aether is not perfectly spherical.
+
+<!-- matter of the sky -->
+Where this space is wider, the air-aether must flow more slowly than where it is narrower.
 
 
 ### 142. 2nd Cause
 
-2. because the matter of the first element, flowing from some neighboring vortices towards the center of the first heaven, and flowing back from there to some others, can move both the globules of the second element and also the Planet balanced among them in various ways.
+<!-- heaven -->
+2. The fire-aether flows from some neighboring vortices towards the center of the current Vortex.
+ <!-- first Territory. -->
+
+From there, it flows back to the other vortices. It can move both the air-aether globules and also the Planet balanced among them in various ways.
+
+
 
 ### 143. Third. 
 
-3. because the passages which are in the body of this Planet may be more suitable for streaked particles, or other particles of the first element, which come from certain parts of the sky, than for receiving others: hence it happens that the openings of these passages, which we have said form around the poles of the spots of the stars, are turned towards those parts of the sky rather than towards others.
+3. The passages within the body of this Planet might be more suitable for receiving the striated particles and the other fire-aether particles coming from certain parts of outer space, than for receiving others.
+
+ <!-- of the first element, which come from  sky -->
+
+The openings of these passages form around the poles of the spots of the stars. These are turned towards those parts of outer space rather than towards others.
 
 
 ### 144. Fourth
 
-4. because already before there might have been some motions in this Planet, which persist in it for a very long time, although other causes oppose them. 
+4. The planet might already have some motions which persist in it for a very long time even if other causes oppose them. 
 
-For just as we see a whirlwind, merely by being once set in motion from childhood, acquire sufficient force to continue in its motion for a few minutes, and meanwhile complete several thousand revolutions, although its mass is small, and both the surrounding air and the earth on which it stands oppose its motion: so it can easily be believed that just because a certain Planet was moved when it was first made, it could continue its circuits from the first origin of the world up to this time, without any notable decrease in speed: for the time that the world has stood, five or six thousand years, compared with the size of a Planet, is much shorter than the time of one minute's hour, when compared with the mass of a small whirlwind.
+A whirlwind might acquire sufficient force to continue its motion for a few minutes. Even if its mass is small, it might complete several thousand revolutions while it is opposed by:
+- the surrounding air and
+- the earth on which it stands
 
+Similarly, a Planet's intial motion when it was first made from the beginning of its galaxy can continue up to this time without any notable decrease in speed.
 
-### 145. Fifth. 
-
-Finally, because the force of persevering in its motion is much stronger and more constant in a Planet than in the celestial matter surrounding it; and even stronger in a large Planet than in a smaller one. 
-
-For this force in celestial matter depends on the fact that its globules all conspire to the same motion: and since they are mutually separated, it can happen in small moments that now more, now fewer of them so conspire together. 
-
-Hence it follows that a Planet never moves as swiftly as the celestial globules surrounding it; for although it equals their motion with which it is carried along with them, they meanwhile have others more, insofar as they are mutually separated. 
-
-Hence it also follows that when the motion of these celestial globules is accelerated, or slowed down, or deflected, the motion of the Planet revolving among them is not so much, nor so quickly accelerated, or slowed down, or deflected.
+<!-- This is because the galaxy might be 5-6,000 years old. Compared with the size of a Planet, this period is much shorter than the time of one minute's hour, when compared with the mass of a small whirlwind. -->
 
 
-### 146. The first production of all the Planets
+### 145. Fifth
 
-If all these things are considered, nothing will occur concerning the phenomena of the Planets that does not entirely agree with the laws of nature explained by us, the reason for which cannot easily be given from what has already been said. 
+The force of persevering in its motion is much stronger and more constant in a Planet than in the air-aether surrounding it.
+<!-- celestial matter -->
+This force is even stronger in a large Planet than in a small one. 
 
-For nothing prevents us from thinking that that vast space in which now a single vortex of the first heaven is contained was divided at the beginning into fourteen or more, and these were arranged in such a way that the stars which were in their centers gradually were covered with many spots, and then these vortices were destroyed by one another, as described by us already; one more quickly, another more slowly, according to their different positions. 
+This force in the air-aether is from all its globules conspiring to the same motion.
 
-So that when those three, in whose centers were the Sun, Jupiter, and Saturn, were larger than the others; the stars which revolved around Jupiter in the centers of the four smaller ones fell towards Jupiter, and those which revolved around two other ones near Saturn, towards Saturn (at least if it is true that two Planets now revolve around it).
+Since they are mutually separated, their conspiring can become less or more sometimes. 
 
-Mercury, Venus, Earth, Moon, and Mars (which stars each also had its own vortex before) towards the Sun; And finally even Jupiter and Saturn, together with the smaller stars added to them, converged towards the same Sun, much larger than themselves, after their vortices were consumed: But the stars of the remaining vortices, if there were ever more than fourteen in this space, turned into Comets.
+ <!-- it can happen in small moments that now more, now fewer of them so conspire together.  -->
 
+This is why a Planet never moves as fast as the air-aether globules surrounding it. It equals their motion that carries it with them. Yet, they have more motion since they are mutually separated. 
+ <!-- others more, insofar as they -->
 
-### 147. Why some Planets are more distant from the Sun than others: and that it does not depend solely on their size. 
-
-Thus, now seeing the primary Planets, Mercury, Venus, Earth, Mars, Jupiter, and Saturn, being carried to different distances around the Sun, we will judge that this happens because those which are closer to the Sun have less solidity than the more distant ones; 
-
-Nor will we wonder that Mars, although smaller than Earth, may be more distant from the Sun, because it can still be denser; since solidity does not depend solely on size.
-
-
-### 148. Why those closer to the Sun move faster than others, and yet its spots are the slowest. 
-
-Seeing the inferior Planets from among these, being carried faster in their orbit than the higher ones, we will think that this happens because the matter of the first element, which composes the Sun, by spinning very rapidly, drags with it more the nearer parts of the sky than the more distant ones. 
-
-Nor will we wonder in the meantime that the spots which appear on its surface are carried much more slowly than any Planet: (for they spend 26 days in their very short circuit, while Mercury in its more than sixty times larger, barely three months, and Saturn in its perhaps 2,000 times larger, only thirty years, which unless it moved faster than them, it should spend more than a hundred). 
-
-For we will think that this happens because the particles of the third element, arising from the continuous dissolution of the spots, are gathered around the Sun, and there compose a certain large mass of air or ether, perhaps extending up to the sphere of Mercury, or even further; whose ether particles, being very irregular and branched, adhere to each other in such a way that they are not separately moved, as the globules of celestial matter, but are all swept away together by the Sun, and with them both the solar spots and also the part of the sky near Mercury; hence they complete not much more circuits than Mercury in the same time, and therefore do not move so fast.
+It follows that when the motion of these air-aether globules is accelerated, slowed, or deflected, the motion of the Planet revolving among them is not so much accelerated, slowed, or deflected.
+<!-- , nor so quickly -->

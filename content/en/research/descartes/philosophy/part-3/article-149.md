@@ -1,8 +1,8 @@
 ---
 title: "The Motion of the Moon"
-heading: Articles 149-
+heading: Articles 149-153
 weight: 62
-description: "This effort found in celestial matter"
+description: "The Moon revolves around the Sun and the Earth at the same time."
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
