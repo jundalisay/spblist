@@ -134,17 +134,43 @@ The other animals that have become accustomed to all climates – domestic anima
 
 The transition from the uniformly hot climate of the original home of man to colder regions, where the year was divided into summer and winter, created new requirements – shelter and clothing as protection against cold and damp, and hence new spheres of labour, new forms of activity, which further and further separated man from the animal.
 
-By the combined functioning of hand, speech organs and brain, not only in each individual but also in society, men became capable of executing more and more complicated operations, and were able to set themselves, and achieve, higher and higher aims. The work of each generation itself became different, more perfect and more diversified. Agriculture was added to hunting and cattle raising; then came spinning, weaving, metalworking, pottery and navigation. Along with trade and industry, art and science finally appeared. Tribes developed into nations and states. 
+By the individual and collective functioning of hand, speech organs and brain, men became capable of:
+- executing more and more complicated operations
+- achieving higher and higher aims
 
-Law and politics arose, and with them that fantastic reflection of human things in the human mind – religion. In the face of all these images, which appeared in the first place to be products of the mind and seemed to dominate human societies, the more modest productions of the working hand retreated into the background, the more so since the mind that planned the labour was able, at a very early stage in the development of society (for example, already in the primitive family), to have the labour that had been planned carried out by other hands than its own. 
+The work of each generation itself became different, more perfect and more diversified. 
+
+Agriculture was added to hunting and cattle raising. Then came spinning, weaving, metalworking, pottery and navigation. 
+
+Along with trade and industry, art and science finally appeared. Tribes developed into nations and states. 
+
+Law and politics arose, and with them that fantastic reflection of human things in the human mind – religion. 
+
+All these appeared to be products of the mind. These seemed to dominate human societies.
+
+Amidst all these, the more modest productions of the working hand retreated into the background.
+
+This was because the mind could use the labour of others. 
+
+<!-- that planned the labour was able
+
+, at a very early stage in the development of society (for example, already in the primitive family), 
+
+to have the labour that had been planned carried out by other hands than its own.  -->
 
 All merit for the swift advance of civilisation was ascribed to the mind, to the development and activity of the brain. 
 
-Men became accustomed to explain their actions as arising out of thought instead of their needs (which in any case are reflected and perceived in the mind). In time, there emerged that idealistic world outlook which, especially since the fall of the world of antiquity, has dominated men’s minds.
+Men became accustomed to explain their actions as arising out of thought instead of their needs (which in any case are reflected and perceived in the mind). 
 
-It still rules them to such a degree that even the most materialistic natural scientists of the Darwinian school are still unable to form any clear idea of the origin of man, because under this ideological influence they do not recognise the part that has been played therein by labour.
+In time, there emerged that idealistic world outlook which, especially since the fall of the world of antiquity, has dominated men’s minds.
 
-Animals, as has already been pointed out, change the environment by their activities in the same way, even if not to the same extent, as man does, and these changes, as we have seen, in turn react upon and change those who made them. In nature nothing takes place in isolation. 
+It still rules them. 
+- This is why even the most materialistic natural scientists of the Darwinian school are still unable to form any clear idea of the origin of man.
+- Under this ideological influence, they do not recognise the part that has been played therein by labour.
+
+Animals change the environment by their activities in the same way, even if not to the same extent, as man does, and these changes, as we have seen, in turn react upon and change those who made them. 
+
+In nature nothing takes place in isolation. 
 
 Everything affects and is affected by every other thing, and it is mostly because this manifold motion and interaction is forgotten that our natural scientists are prevented from gaining a clear insight into the simplest things.
 - Goats have prevented the regeneration of forests in Greece 

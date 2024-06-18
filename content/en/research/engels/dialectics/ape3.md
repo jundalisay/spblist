@@ -45,11 +45,17 @@ When the Italians of the Alps used up the pine forests on the southern slopes, s
 
 Thus at every step, we are reminded that we by no means rule over nature like a conqueror over a foreign people, like someone standing outside nature – but that we, with flesh, blood and brain, belong to nature, and exist in its midst, and that all our mastery of it consists in the fact that we have the advantage over all other creatures of being able to learn its laws and apply them correctly.
 
-With every day that passes we are acquiring a better understanding of these laws and getting to perceive both the more immediate and the more remote consequences of our interference with the traditional course of nature. In particular, after the mighty advances made by the natural sciences in the present century, we are more than ever in a position to realise, and hence to control, also the more remote natural consequences of at least our day-to-day production activities. 
+With every day that passes we are acquiring a better understanding of these laws and getting to perceive both the more immediate and the more remote consequences of our interference with the traditional course of nature. 
 
-But the more this progresses the more will men not only feel but also know their oneness with nature, and the more impossible will become the senseless and unnatural idea of a contrast between mind and matter, man and nature, soul and body, such as arose after the decline of classical antiquity in Europe and obtained its highest elaboration in Christianity.
+In particular, after the mighty advances made by the natural sciences in the present century, we are more than ever in a position to realise, and hence to control, also the more remote natural consequences of at least our day-to-day production activities.
 
-It required the labour of thousands of years for us to learn a little of how to calculate the more remote natural effects of our actions in the field of production, but it has been still more difficult in regard to the more remote social effects of these actions. We mentioned the potato and the resulting spread of scrofula. 
+But the more this progresses:
+- the more will men feel and know their oneness with nature
+- the more impossible will be the senseless and unnatural idea of a contrast between mind and matter, man and nature, soul and body, such as arose after the decline of classical antiquity in Europe and obtained its highest elaboration in Christianity.
+
+It required the labour of thousands of years for us to learn a little of how to calculate the more remote natural effects of our actions in the field of production. 
+
+But it has been still more difficult in regard to the more remote social effects of these actions. We mentioned the potato and the resulting spread of scrofula. 
 
 But what is scrofula compared to the effects which the reduction of the workers to a potato diet had on the living conditions of the popular masses in whole countries, or compared to the famine the potato blight brought to Ireland in 1847, which consigned to the grave a million Irishmen, nourished solely or almost exclusively on potatoes, and forced the emigration overseas of two million more? 
 

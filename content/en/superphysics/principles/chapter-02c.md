@@ -17,8 +17,6 @@ Axioms | Propositions
 --- | ---
 There are 2 Domains in Reality | Complex Ideas are made of Simple Ideas
 
-
-
 In Book 1, Part 1 of A Treatise of Human Nature, David Hume explained the connection of ideas. 
 
 According to him, simple ideas are connected to other simple ideas by resemblance, contiguity, and cause and effect in order to create complex ideas

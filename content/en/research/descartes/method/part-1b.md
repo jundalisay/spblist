@@ -12,12 +12,15 @@ icon: /icons/descartes.png
 
 
 
-As to the other sciences, inasmuch as these borrow their principles from philosophy, I judged that no solid superstructures could be reared on foundations so infirm; and neither the honour nor the gain held out by them was sufficient to determine me to their cultivation: 
+The sciences borrow their principles from philosophy.
+
+I judged that no solid superstructures could be built on foundations so infirm.
+
+The honour and gain given by them were insufficient to convince me to cultivate them. 
 
 Thank God I was not a writer of <!-- for I was not, thank Heaven, in a condition which compelled me to make merchandise of --> science for my livelihood.<!--  the bettering of my fortune.  -->
 
 <!-- ; and though I might not profess to scorn glory as a cynic, I yet made very slight account of that honour which I hoped to acquire only through fictitious titles. -->
-
 
 The false sciences are <!--  I thought I knew the worth sufficiently to escape being deceived by the professions of an --> alchemy, <!-- , the predictions of an --> astrology, <!-- the impostures of a --> and magic. <!-- , or by the artifices and boasting of any of those who profess to know things of which they are ignorant. -->
 
@@ -42,6 +45,8 @@ I had a most earnest desire to know how to distinguish the true from the false s
 
 While busied only in considering the manners of other men, I found here, too, scarce any ground for settled conviction, and remarked hardly less contradiction among them than in the opinions of the philosophers. 
 
-So that the greatest advantage I derived from the study consisted in this, that, observing many things which, however extravagant and ridiculous to our apprehension, are yet by common consent received and approved by other great nations, I learned to entertain too decided a belief in regard to nothing of the truth of which I had been persuaded merely by example and custom; and thus I gradually extricated myself from many errors powerful enough to darken our natural intelligence, and incapacitate us in great measure from listening to reason. 
+So that the greatest advantage I derived from the study consisted in this, that, observing many things which, however extravagant and ridiculous to our apprehension, are yet by common consent received and approved by other great nations, I learned to entertain too decided a belief in regard to nothing of the truth of which I had been persuaded merely by example and custom.
+
+Thus, I gradually extricated myself from many errors powerful enough to darken our natural intelligence, and incapacitate us in great measure from listening to reason. 
 
 But after I had been occupied several years in thus studying the book of the world, and in essaying to gather some experience, I at length resolved to make myself an object of study, and to employ all the powers of my mind in choosing the paths I ought to follow, an undertaking which was accompanied with greater success than it would have been had I never quitted my country or my books.

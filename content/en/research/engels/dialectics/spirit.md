@@ -33,6 +33,9 @@ Similarly, Isaac Newton in his old age expounded the revelation of St. John.
 
 This is why English empiricists recently <!-- in the person of some of its representatives – and not the worst of them – should seem to --> have fallen as hopeless victims to the <!-- spirit-rapping and --> spirit-seeing imported from America.
 
+
+## Alfred Russell Wallace
+
 The first natural scientist of this kind <!--  belonging here --> is Alfred Russell Wallace. He, simultaneously with Darwin, advanced the theory of natural selection.
 
 In On Miracles and Modern Spiritualism of 1875, he says that his first experiences in this branch of natural knowledge was in 1844 when he attended the lectures of Mr. Spencer Hall on mesmerism. <!--  and as a result carried out similar experiments on his pupils. “I was extremely interested in the subject and pursued it with ardour.”  -->

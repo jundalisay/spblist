@@ -63,9 +63,12 @@ I shall describe the paths I have followed<!-- , and to delineate my life as in 
 
 I do not aim <!-- My present design, then, is not --> to teach the method which each one should follow for the right conduct of his reason. My aim is solely to describe the way how I conduct my own reason. 
 
-They who set themselves to give precepts must of course regard themselves as possessed of greater skill than those to whom they prescribe. 
+They who give precepts must regard themselves as having greater skill than those they teach. 
+- If they err in the slightest particular, they subject themselves to censure. 
 
-If they err in the slightest particular, they subject themselves to censure. But as this tract is put forth merely as a history, or, if you will, as a tale, in which, amid some examples worthy of imitation, there will be found, perhaps, as many more which it were advisable not to follow, I hope it will prove useful to some without being hurtful to any, and that my openness will find some favor with all.
+<!-- But as this tract is put forth merely as a history, or, if you will, as a tale, in which, amid some examples worthy of imitation, there will be found, perhaps, as many more which it were advisable not to follow, I hope it will prove useful to some without being hurtful to any, and that -->
+
+I hope that my openness will be somewhat favorable to all.
 
 From my childhood, I have been familiar with letters. <!-- ; and as I was given to believe that by their help a clear and certain knowledge of all that is useful in life might be acquired, I was ardently desirous of instruction.  -->But as soon as I had finished the entire study, I found myself involved in so many doubts and errors. These convinced me that I was still ignorant. <!--  had advanced no farther in all my attempts at learning, than the discovery at every turn of my own ignorance. --> 
 
@@ -96,19 +99,45 @@ It is useful to know the manners of different nations so that:
 - avoid thinking that everything contrary to our customs is ridiculous and irrational. 
   - People whose experience has been limited to their own country think like this. 
 
-On the other hand, when we travel for too long, we become strangers to our native country. The over curious in the customs of the past are generally ignorant of those of the present. 
+On the other hand, when we travel for too long, we become strangers to our native country. Those over-curious of the customs of the past are generally ignorant of those of the present. 
 
-Besides, fictitious narratives lead us to imagine the possibility of many events that are impossible; and even the most faithful histories, if they do not wholly misrepresent matters, or exaggerate their importance to render the account of them more worthy of perusal, omit, at least, almost always the meanest and least striking of the attendant circumstances; 
+Besides, fictitious narratives lead us to imagine the possibility of many impossible events.
 
-hence it happens that the remainder does not represent the truth, and that such as regulate their conduct by examples drawn from this source, are apt to fall into the extravagances of the knight-errants of romance, and to entertain projects that exceed their powers.
+Even the most faithful histories either totally misrepresent matters or exaggerate their importance in order to render them  worthy to read. 
 
-I esteemed eloquence highly, and was in raptures with poesy; but I thought that both were gifts of nature rather than fruits of study. Those in whom the faculty of reason is predominant, and who most skillfully dispose their thoughts with a view to render them clear and intelligible, are always the best able to persuade others of the truth of what they lay down, though they should speak only in the language of Lower Brittany, and be wholly ignorant of the rules of rhetoric; 
+At least, they almost always omit the meanest and least striking of the attendant circumstances to the effect that the remainder does not represent the truth.
+
+Those who copy those examples tend to fall into the extravagances of the knight-errants of romance, and to entertain projects that exceed their powers.
+
+ <!-- , and that such as regulate their conduct by examples drawn from this source, are apt to  -->
+
+I esteemed eloquence highly, and was in raptures with poesy. 
+
+But I think that both were gifts of nature rather than fruits of study. 
+
+<!-- those in whom  is predominant, and who most skillfully dispose their thoughts with a view to render them , are always  -->
+
+The people most able to persuade others are those who:
+- have the faculty of reason
+- can render their thoughts clear and intelligible
+
+<!-- of the truth of what they lay down,  -->
+
+This is even if they only speak in the language of Lower Brittany, and be totally ignorant of the rules of rhetoric.
 
 Those whose minds are stored with the most agreeable fancies, and who can give expression to them with the greatest embellishment and harmony, are still the best poets, though unacquainted with the art of poetry.
 
-I was especially delighted with the mathematics, on account of the certitude and evidence of their reasonings; but I had not as yet a precise knowledge of their true use; and thinking that they but contributed to the advancement of the mechanical arts, I was astonished that foundations, so strong and solid, should have had no loftier superstructure reared on them. 
+I was especially delighted with the mathematics because of the certitude and evidence of their reasonings.
 
-On the other hand, I compared the disquisitions of the ancient moralists to very towering and magnificent palaces with no better foundation than sand and mud= they laud the virtues very highly, and exhibit them as estimable far above anything on earth; but they give us no adequate criterion of virtue, and frequently that which they designate with so fine a name is but apathy, or pride, or despair, or parricide.
+But I had not as yet a precise knowledge of their true use.
+
+I think that they merely contributed to the advancement of the mechanical arts.
+
+I was astonished that foundations, so strong and solid, did not have any lofty superstructure built on them. 
+
+On the other hand, I compared the disquisitions of the ancient moralists to very towering and magnificent palaces with no better foundation than sand and mud.
+
+They laud the virtues very highly, and exhibit them as estimable far above anything on earth. But they give us no adequate criterion of virtue. Frequently that which they designate with so fine a name is but apathy, or pride, or despair, or parricide.
 
 I revered our theology, and aspired as much as any one to reach heaven. 
 

@@ -88,7 +88,7 @@ This conviction was enough to prevent their entertaining any desire of other obj
 I review the different occupations of men in this life in order to choose the best.
 
 
-without wishing to offer any remarks on the employments of others, I may state that it was my conviction that I could not do better than continue in that in which I was engaged, viz., in devoting my whole life to the culture of my reason, and in making the greatest progress I was able in the knowledge of truth, on the principles of the method which I had prescribed to myself. 
+Without wishing to offer any remarks on the employments of others, I may state that it was my conviction that I could not do better than continue in that in which I was engaged, viz., in devoting my whole life to the culture of my reason, and in making the greatest progress I was able in the knowledge of truth, on the principles of the method which I had prescribed to myself. 
 
 
 I have been so happy with this method. It led me to believe that more perfect or more innocent could not be enjoyed in this life. 

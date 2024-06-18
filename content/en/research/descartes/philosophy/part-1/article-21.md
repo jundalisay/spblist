@@ -95,7 +95,7 @@ We merely hold all that in which we can find no limits are indefinite, such as:
 <!-- [Footnote: "to essay to comprehend the infinite."—FRENCH.] -->
 
 
-We will thus never enter disputes about the infinite. This is because we are finite. It would be absurd for us to try to determine the infinite. 
+We will thus never enter disputes about the infinite. This is because we are finite. It would be absurd for us to try to determine the infinite.
  <!-- anything regarding it, and thus as it were to limit it by endeavouring to comprehend it.  -->
 
 We will accordingly not care to reply to those who demand whether:
