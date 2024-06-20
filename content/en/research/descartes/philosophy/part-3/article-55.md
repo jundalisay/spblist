@@ -17,9 +17,11 @@ aliases:
 
 <!-- It is the law of Nature that  -->
 
-All bodies that are moved in a circle tend to recede from the centers of their motion as much as they can. 
+All bodies that are moved in a circle tend to move away from the center as much as they can. 
 
-I will explain the force by which the globules of the air-aether and also the matter of the first element gathered around the centers `SF` try to recede from those centers.
+I will explain the force by which 
+
+Both the air-aether globules and the fire-aether gathered around `Center S` and `Center F` try to move away from those centers.
 
 <!-- It will be shown below that  -->
 
@@ -45,26 +47,27 @@ Frequently, many different causes act simultaneously on the same body. Some impe
 
 Therefore, the body tends, or tries to go, in different directions at the same time. 
 
+For example, `Stone A` in the `Sling DA`, rotated around `Center D`, tends from `A` towards `B` if all causes determining its motion are considered together. 
 
-{{< img src="/graphics/physics/world-13eee.jpg" >}}
-
-
-For example, a stone `A` in the sling `DA`, rotated around the center `D`, tends from `A` towards `B` if all causes determining its motion are considered together. 
+{{< img src="/graphics/physics/world-13eee.jpg" alt="Sling" >}}
 
 <!-- , because it indeed moves in that direction.  -->
 
-But if we consider only the force of motion within it, we say that when it is at point A, it tends towards C, according to the law of motion stated above: namely, by considering the line `AC` to be straight and tangent to the circle at point `A`. 
+But if we consider only the force of motion within it, we say that when it is at `A`, it tends towards `C`, according to the law of motion stated above by considering the line `AC` to be straight and tangent to the circle at point `A`. 
 
-If the stone were to leave the sling when it reaches point A coming from `L`, it would proceed from A towards C, not towards B.
+If the stone were to leave the sling when it reaches `A` coming from `L`, it would proceed from `A` towards `C`, not towards `B`.
 
 **The sling prevents this, but it does not prevent the effort** [which is from the hand or vortex].  
 
-Finally, if we cancel the circular motion and only consider the force that is resisted by the sling, then the stone, while at point `A`, tends only towards E by moving away from the center D along the straight line `DAE`.
+Finally, if we cancel the circular motion and only consider the force that is resisted by the sling, then the stone, while at `A`, tends only towards `E` by moving away from the `Center D` along the straight line `DAE`.
 
 
 ### 58. How bodies moving in a circle try to move away from the center of their motion.
 
-Assume that an ant was on Point A in line DAE which is a rod that the ant can walk from A to E. This rod then rotated into DBY and DFY, making the circle ABF.
+Assume that an ant was on `A` in line `DAE` which is a rod that the ant can walk from `A` to `E`. This rod then rotated into `DBY` and `DFY`, making the circle `ABF`.
+
+{{< img src="/graphics/physics/fig_15.jpg" alt="Ant" >}}
+
 
 Compare the ant's motion with the motion that carries the stone at point `A`  towards `C` if not impeded by the sling. 
 
@@ -74,20 +77,22 @@ These two motions would be so coordinated that the ant would reach `X` when the 
 
 Thus, the ant would always be on the straight line `ACG`. 
 
-Also, compare the force by which the same stone, acted upon in the sling along the curve ABF, tries to move away from the center D along the straight lines AE, BY, FG, with the effort remaining in the ant if it were held at point A by a glue on the rod DAE while the rod carried it around the center D along the curve ABF, and it tried with all its might to go towards Y, thus moving away from the center E along the straight lines EAY, EBY, and similar.
+Also, compare the force by which the same stone, acted upon in the sling along the `Curve ABF`, tries to move away from `Center D` along the straight lines `AE, BY, FG`, with the effort remaining in the ant if it were held at `A` by a glue on the rod `DAE` while the rod carried it around the center `D` along the curve `ABF`, and it tried with all its might to go towards `Y`. 
+
+Thus it moves away from the `Center E` along the straight lines `EAY`, `EBY`, and similar.
 
 
 ### 59. The magnitude of this effort
 
-The ant's motion will be very slow initially, and therefore its effort, if only considered at the beginning of the motion, might not seem significant.
+The ant's motion will be very slow initially. Therefore its effort, if considered only at the start of the motion, might not seem significant.
 
 However, it is not entirely absent.
 
 As it takes effect, it increases so that the resulting motion can become quite fast. 
 
-To use another example, if `EY` is a channel containing a globule A. When the channel starts to rotate around the center E, the globule A will immediately progress very slowly towards Y. 
+Let `EY` be a channel containing a `globule A`. When the channel starts to rotate around `Center E`, the `globule A` will immediately progress very slowly towards `Y`. 
 
-But in the next moment, it will move a little faster, retaining its previous force and acquiring a new one from its new effort to move away from the center E. 
+But in the next moment, it will move a little faster, retaining its previous force and acquiring a new one from its new effort to move away from the `Center E`. 
 
 As long as the circular motion continues, this effort persists and is renewed each moment. 
 
@@ -96,3 +101,4 @@ Experience confirms this: if the channel EY is rotated very quickly around the c
 We also observe this in a sling. 
 
 The faster the stone rotates within it, the more the cord tightens. This tension, arising solely from the force by which the stone tries to move away from the center of its motion, shows us the magnitude of this force. 
+

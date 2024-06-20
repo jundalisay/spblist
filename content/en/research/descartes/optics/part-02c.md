@@ -64,21 +64,23 @@ The 3 comparisons I have just used are so appropriate that all the particulariti
 <!-- And I do not want to consider anything else here, except that  -->
 
 
-The curved surfaces of transparent bodies deflect the rays that pass through each of their points, in the same way that flat surfaces, which one can imagine touching these bodies at the same points, would do. 
+The curved surfaces of transparent bodies deflect the rays that pass through each of their points, in the same way that flat surfaces, which one can imagine touching these bodies at the same points*, would do. 
+
+> *The tangent planes at the point of impact. 
 
 For example, the refraction of the rays `AB`, `AC`, `AD`, which come from the flame A and fall on the curved surface of the crystal ball `BCD`, must be considered in the same way as if `AB` fell on the flat surface `EBF`, and `AC` on `GCH`, and `AD` on `IDK`, and so on for the others.
 
-Why the refraction of rays entering water is equal to that of rays exiting water.
+<!-- Why the refraction of rays entering water is equal to that of rays exiting water.
 
 ** And why this is not general in all transparent bodies.
 *** That rays can sometimes be curved without exiting the same transparent body.
 **** How refraction occurs at each point on curved surfaces.
-
+ -->
 
 
 Figure # 15
 
 
-From which you can see that these rays can be assembled or dispersed in various ways, depending on how they fall on surfaces that are curved in different ways. And it is time for me to begin describing the structure of the eye, so that I can explain how the rays that enter it are arranged inside to produce the sensation of sight.
+These rays can converge or diverge in various ways, depending on the curved surfaces that they fall on. 
 
-
+<!-- And it is time for me to begin describing the structure of the eye to you, so that I can explain how the rays that enter it are arranged to cause the sensation of sight. -->

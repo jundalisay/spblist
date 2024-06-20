@@ -19,33 +19,30 @@ No matter how the individual vortices were moved from the beginning, they will b
 
 This is because the motion of each body can easily be deflected by encountering another body. 
 
-{{< img src="/graphics/physics/vrotices.jpg" alt="Vortices" >}}
+{{< img src="/graphics/physics/vortices.jpg" alt="Vortices" >}}
 <!-- world-13eee.jpg -->
 
-- Vortex 1, with center `S`, moves from `A` through `E` towards `I`.
-- Vortex 2, with center `F`, must move from `A` through `E` towards `V`, if no other surrounding vortices interfere. Thus, their motions will best agree with each other. 
-- Vortex 3, forms a triangle with the centers S and F. It is connected with the other two vortices `AEI` and `AEV` in the line AE, should move from A through E upwards.
+- `Vortex S`, with center `S`, moves from `A` through `E` towards `I`.
+- `Vortex F`, with center `F`, must move from `A` through `E` towards `V`, if no other surrounding vortices interfere. Thus, their motions will best agree with each other. 
+- Vortex 3, forms a triangle with the centers `S` and `F`. It is connected with the other two vortices `AEI` and `AEV` in the line `AE`, should move from `A` through `E` upwards.
 
 <!-- whose center is not in the plane SAFE but above it, , and which is  -->
 
+- `Vortex f`, with center `f` cannot move:
+  - from `E` towards `I` to agree with the motion of `Vortex S` because it would oppose the motions of Vortex `F` and `3`.
+  - from `E` towards `V` like `Vortex F` because it would conflict with `Vortex S` and `3`.
+  - upwards from `E` like `Vortex 3`, because it would conflict with `Vortex S` and `F`. 
 
-
-- Vortex 4, with center `f`, cannot move from `E` towards `I` to agree with the motion of Vortex 1 because it would oppose the motions of Vortex `2` and `3`.
-
-It cannot move from `E` towards `V` like Vortex 2 because it would conflict with Vortex 1 and 3.
-
-It cannot move upwards from `E` like Vortex 3, because it would conflict with Vortex 1 and 2. 
-
-Therefore, it must have one of its poles towards E and the other in the opposite direction towards B. It rotates around the axis EB, from I to V.
+Therefore, it must have one of its poles towards `E` and the other in the opposite direction towards `B`. It rotates around the axis `EB`, from `I` to `V`.
 
 
 ### 66. The motions of these vortices are somehow deflected to harmonize with each other.
 
-Some conflict will still exist in these motions if the ecliptics of the first 3 vortices, that is, the circles most distant from their poles, directly meet each other at the point `E`, where the pole of Vortex 4 is located. 
+These motions will have some conflict if the disks of the first 3 vortices (the orbits most distant from their poles) directly meet each other at the point `E`, where the pole of `Vortex f` is located. 
 
-For instance, if `IVX` is the part around the pole `E`, rotating in the order of the marks `IVX`, then:
-- Vortex 1 will scrape against it along the straight line `EI` and other parallel lines
-- Vortex 2 will scrape against it along the line `EV`
+For instance, `IVX` are the parts of the other vortices next to pole `E`. It rotates from `I` to `V` to `X`. Then:
+- `Vortex S` will scrape against it along the straight line `EI` and other parallel lines
+- `Vortex F` will scrape against it along the line `EV`
 - Vortex 3 will scrape against it along the line `EX`, thus somewhat opposing its circular motion. 
 
 
@@ -53,7 +50,7 @@ For instance, if `IVX` is the part around the pole `E`, rotating in the order of
 
 {{< img src="/graphics/physics/fig22b-66.jpg" alt="Figure 22b" >}}
 
-But nature easily corrects this according to the laws of motion by slightly deflecting the ecliptics of the first three vortices in the direction of the rotation of Vortex 4 IVX rotates. 
+But nature easily corrects this according to the laws of motion by slightly deflecting the ecliptics of the first 3 vortices in the direction of the rotation of Vortex 4 IVX rotates. 
 
 This results in them scraping against it not along the straight lines `EI`, `EV`, `EX`, but along the oblique lines `1I`, `2V`, `3X`, thereby fully harmonizing with its motion.
 

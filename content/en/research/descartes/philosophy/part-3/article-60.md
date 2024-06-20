@@ -25,7 +25,7 @@ They are held in place by other surrounding globules, just as the stone is held 
 
 The upper globules are pressed by the lower ones.
 
-All of them together are pressed by the 1st Element at the center of each vortex. 
+All of them together are pressed by fire-aether at the center of each vortex. 
 
 <!-- To distinguish everything accurately, we will speak here only of these globules and will not pay more attention to the matter of the first element than if all the spaces occupied by it were empty, that is, as if they were filled with matter that neither aids nor hinders the motion of other bodies. From what has been said earlier, it is clear that no other true idea of  -->
 
@@ -34,13 +34,13 @@ Truly empty space cannot exist.
 
 ### 61. It makes the bodies of the Sun and fixed stars round.
 
-All the globules that revolve around `S` in the vortex `AEI` try to move away from `S`.
+All the globules that revolve around `S` in `Vortex AEI` try to move away from `S`.
 
 Those in the straight line `SA` all press each other towards `A`.
 
-Those in the straight line `SE` press each other towards E, and so on for the others. 
+Those in the straight line `SE` press each other towards `E`, and so on for the others. 
 
-Thus, if there are not enough of them to occupy the entire space between S and the circumference AEI, everything they do not occupy will be left towards S. 
+Thus, if there are not enough of them to occupy the entire space between `S` and the circumference `AEI`, everything they do not occupy will be left towards `S`. 
 
 Since those who press on each other (for example, those in the straight line SE) do not all turn like a rod, but some complete their circuit faster than others, as will be explained further below, the space they leave towards `S` cannot help but be round. 
 

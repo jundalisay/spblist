@@ -1,6 +1,6 @@
 ---
 title: "Basic Principles of Cartesian Cosmology"
-heading: Articles 20-23
+heading: Articles 20-27
 weight: 18
 description: "The fixed stars should be supposed to be as far as possible from Saturn"
 writer:

@@ -13,15 +13,28 @@ icon: "/icons/descartes.png"
 
 ### 52. There are three elements of this visible world.
 
-We have 2 very different types of matter, which can be called the two primary elements of this visible world.
+We have 2 very different types of matter, which can be called the **two primary elements of this visible world**.
 
-The first is the one that has so much agitation that it is divided into particles of indefinite smallness by encountering other bodies, and its shapes adapt to fill all the angles left by those bodies. 
+1. The first has so much agitation that it is divided into particles of indefinite smallness by encountering other bodies.
 
-The second is the one divided into spherical particles, very small indeed compared to the bodies we can see with our eyes, but still of certain and definite quantity, and divisible into much smaller particles. 
+Its shapes adapt to fill all the angles left by those bodies. 
 
-The third consists of parts either thicker or having shapes less suited to motion. And from these three, we will show that all the bodies of this visible world are composed: namely the Sun and fixed stars from the first element, the heavens from the second, and the Earth with the planets and comets from the third. 
+2. The second is divided into spherical particles.
 
-Since the Sun and the fixed stars emit light from themselves; the heavens transmit it; and the Earth, planets, and comets reflect it, we will not badly refer this threefold difference in appearance to the three elements.
+They are very small compared to visible bodies. But they are still of certain and definite quantity, and divisible into much smaller particles.
+
+3. The third consists of parts either thicker or having shapes less suited to motion.
+
+All the bodies of this visible world are composed from these three:
+
+- 1st Element or Fire-Aether: The Sun and fixed stars
+- 2nd Element or Air-Aether: The heavens
+- 3rd ELement or Earth-Aether: The Earth with the planets and comets
+
+
+The Sun and the fixed stars emit light from themselves. The heavens transmit it. The Earth, planets, and comets reflect it.
+
+This threefold difference in appearance is from the 3 elements.
 
 
 ### 53. Three heavens can also be distinguished in it.
@@ -39,10 +52,12 @@ But I will not discuss Territory 3 because it cannot be observed by us in this l
 
 <!-- , and we are dealing only with the visible world.  heaven -->
 
+{{< img src="/graphics/physics/vortices.jpg" alt="Vortices" >}}
 
-I consider all the vortices whose centers are F, f together as only one territory because I consider them under the same aspect. 
 
-The vortex S is not really a different from the others here. But I regard it as different because our Earth is in it. This allows us:
+I consider all the vortices whose centers are `F`, `f` together as only one territory because I consider them under the same aspect. 
+
+`Vortex S` is not really a different from the others here. But I regard it as different because our Earth is in it. This allows us:
 - to observe it better than the others
 - to call things based on how we see them
 
@@ -51,7 +66,10 @@ The vortex S is not really a different from the others here. But I regard it as 
 
 ### 54. How the Sun and fixed stars were formed
 
-Initially, the matter of the fire-aether gradually increased because the air-aether particles wore each other down through constant motion. 
+Initially, the matter of the fire-aether gradually increased* because the air-aether particles wore each other down through constant motion. 
+
+> *Superphysics Note: This is the start of the cosmic microwave background radiation as heat. Note that there is still no light at this point even if the fire-aether exists.  
+
 
 {{< img src="/graphics/physics/creation.jpg" alt="Formation of stars" >}}
 
