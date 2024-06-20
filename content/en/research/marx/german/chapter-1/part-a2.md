@@ -42,8 +42,8 @@ As individuals express their life, so they are. What they are, therefore, coinci
 
 This production only makes its appearance with the increase of population. In its turn this presupposes the intercourse [Verkehr] of individuals with one another. The form of this intercourse is again determined by production.
 
-[3. Production and Intercourse.
-Division of Labour and Forms of Property – Tribal, Ancient, Feudal]
+3. Production and Intercourse. Division of Labour and Forms of Property – Tribal, Ancient, Feudal
+
 The relations of different nations among themselves depend upon the extent to which each has developed its productive forces, the division of labour and internal intercourse. This statement is generally recognised. But not only the relation of one nation to others, but also the whole internal structure of the nation itself depends on the stage of development reached by its production and its internal and external intercourse. How far the productive forces of a nation are developed is shown most manifestly by the degree to which the division of labour has been carried. Each new productive force, insofar as it is not merely a quantitative extension of productive forces already known (for instance the bringing into cultivation of fresh land), causes a further development of the division of labour.
 
 The division of labour inside a nation leads at first to the separation of industrial and commercial from agricultural labour, and hence to the separation of town and country and to the conflict of their interests. Its further development leads to the separation of commercial from industrial labour. At the same time through the division of labour inside these various branches there develop various divisions among the individuals co-operating in definite kinds of labour. The relative position of these individual groups is determined by the methods employed in agriculture, industry and commerce (patriarchalism, slavery, estates, classes). These same conditions are to be seen (given a more developed intercourse) in the relations of different nations to one another.
@@ -64,7 +64,7 @@ Thus the chief form of property during the feudal epoch consisted on the one han
 
 The grouping of larger territories into feudal kingdoms was a necessity for the landed nobility as for the towns. The organisation of the ruling class, the nobility, had, therefore, everywhere a monarch at its head.
 
-[4. The Essence of the Materialist Conception of History. Social Being and Social Consciousness]
+4. The Essence of the Materialist Conception of History. Social Being and Social Consciousness
 
 Definite individuals who are productively active in a definite way enter into these definite social and political relations.
 
@@ -82,9 +82,17 @@ The same applies to mental production as expressed in the language of politics, 
 
 Consciousness can never be anything else than conscious existence, and the existence of men is their actual life-process. If in all ideology men and their circumstances appear upside-down as in a camera obscura, this phenomenon arises just as much from their historical life-process as the inversion of objects on the retina does from their physical life-process.
 
-In direct contrast to German philosophy which descends from heaven to earth, here we ascend from earth to heaven. That is to say, we do not set out from what men say, imagine, conceive, nor from men as narrated, thought of, imagined, conceived, in order to arrive at men in the flesh. We set out from real, active men, and on the basis of their real life-process we demonstrate the development of the ideological reflexes and echoes of this life-process. The phantoms formed in the human brain are also, necessarily, sublimates of their material life-process, which is empirically verifiable and bound to material premises. Morality, religion, metaphysics, all the rest of ideology and their corresponding forms of consciousness, thus no longer retain the semblance of independence. They have no history, no development; but men, developing their material production and their material intercourse, alter, along with this their real existence, their thinking and the products of their thinking. Life is not determined by consciousness, but consciousness by life. In the first method of approach the starting-point is consciousness taken as the living individual; in the second method, which conforms to real life, it is the real living individuals themselves, and consciousness is considered solely as their consciousness.
+In direct contrast to German philosophy which descends from heaven to earth, here we ascend from earth to heaven. That is to say, we do not set out from what men say, imagine, conceive, nor from men as narrated, thought of, imagined, conceived, in order to arrive at men in the flesh. We set out from real, active men, and on the basis of their real life-process we demonstrate the development of the ideological reflexes and echoes of this life-process. 
 
-This method of approach is not devoid of premises. It starts out from the real premises and does not abandon them for a moment. Its premises are men, not in any fantastic isolation and rigidity, but in their actual, empirically perceptible process of development under definite conditions. As soon as this active life-process is described, history ceases to be a collection of dead facts as it is with the empiricists (themselves still abstract), or an imagined activity of imagined subjects, as with the idealists.
+The phantoms formed in the human brain are also, necessarily, sublimates of their material life-process, which is empirically verifiable and bound to material premises. 
+
+Morality, religion, metaphysics, all the rest of ideology and their corresponding forms of consciousness, thus no longer retain the semblance of independence. They have no history, no development; but men, developing their material production and their material intercourse, alter, along with this their real existence, their thinking and the products of their thinking. 
+
+Life is not determined by consciousness, but consciousness by life. In the first method of approach the starting-point is consciousness taken as the living individual; in the second method, which conforms to real life, it is the real living individuals themselves, and consciousness is considered solely as their consciousness.
+
+This method of approach is not devoid of premises. It starts out from the real premises and does not abandon them for a moment. 
+
+Its premises are men, not in any fantastic isolation and rigidity, but in their actual, empirically perceptible process of development under definite conditions. As soon as this active life-process is described, history ceases to be a collection of dead facts as it is with the empiricists (themselves still abstract), or an imagined activity of imagined subjects, as with the idealists.
 
 Where speculation ends – in real life – there real, positive science begins: the representation of the practical activity, of the practical process of development of men. Empty talk about consciousness ceases, and real knowledge has to take its place. When reality is depicted, philosophy as an independent branch of knowledge loses its medium of existence. At the best its place can only be taken by a summing-up of the most general results, abstractions which arise from the observation of the historical development of men. Viewed apart from real history, these abstractions have in themselves no value whatsoever. They can only serve to facilitate the arrangement of historical material, to indicate the sequence of its separate strata. But they by no means afford a recipe or schema, as does philosophy, for neatly trimming the epochs of history. On the contrary, our difficulties begin only when we set about the observation and the arrangement – the real depiction – of our historical material, whether of a past epoch or of the present. The removal of these difficulties is governed by premises which it is quite impossible to state here, but which only the study of the actual life-process and the activity of the individuals of each epoch will make evident. We shall select here some of these abstractions, which we use in contradistinction to the ideologists, and shall illustrate them by historical examples.
 
@@ -97,7 +105,28 @@ The second point is that the satisfaction of the first need (the action of satis
 
 The third circumstance which, from the very outset, enters into historical development, is that men, who daily remake their own life, begin to make other men, to propagate their kind: the relation between man and woman, parents and children, the family.
 
-The family, which to begin with is the only social relationship, becomes later, when increased needs create new social relations and the increased population new needs, a subordinate one (except in Germany), and must then be treated and analysed according to the existing empirical data, not according to “the concept of the family,” as is the custom in Germany. [1] 
+The family is the only social relationship. It later becomes a subordinate one when the increased population and increased needs create new social relations.
+
+ <!-- and the increased population new needs,  (except in Germany), and must then  -->
+
+Therefore ,the family must be treated and analysed according to the existing empirical data, not according to “the concept of the family” as is the custom in Germany. [1] 
+
+{{< box >}}
+### Note 1. The building of houses. 
+
+With savages, each family has its own cave or hut like the separate family tent of the nomads. 
+
+This separate domestic economy is made only the more necessary by the further development of private property. With the agricultural peoples a communal domestic economy is just as impossible as a communal cultivation of the soil. 
+
+A great advance was the building of towns. In all previous periods, however, the abolition of individual economy, which is inseparable from the abolition of private property, was impossible for the simple reason that the material conditions governing it were not present. 
+
+The setting-up of a communal domestic economy presupposes the development of machinery, of the use of natural forces and of many other productive forces – e.g. of water-supplies, of gas-lighting, steam-heating, etc., the removal [of the antagonism] of town and country. 
+
+Without these conditions a communal economy would not in itself form a new productive force; lacking any material basis and resting on a purely theoretical foundation, it would be a mere freak and would end in nothing more than a monastic economy – What was possible can be seen in the towns brought about by condensation and the erection of communal buildings for various definite purposes (prisons, barracks, etc.). 
+
+That the abolition of individual economy is inseparable from the abolition of the family is self-evident.
+{{< /box >}}
+
 
 These three aspects of social activity are not of course to be taken as three different stages, but just as three aspects or, to make it clear to the Germans, three “moments,” which have existed simultaneously since the dawn of history and the first men, and which still assert themselves in history today.
 
@@ -148,7 +177,7 @@ In history up to the present it is certainly an empirical fact that separate ind
 
 From the above it is clear that the real intellectual wealth of the individual depends entirely on the wealth of his real connections. Only then will the separate individuals be liberated from the various national and local barriers, be brought into practical connection with the material and intellectual production of the whole world and be put in a position to acquire the capacity to enjoy this all-sided production of the whole earth (the creations of man). All-round dependence, this natural form of the world-historical co-operation of individuals, will be transformed by this communist revolution into the control and conscious mastery of these powers, which, born of the action of men on one another, have till now overawed and governed men as powers completely alien to them. Now this view can be expressed again in speculative-idealistic, i.e. fantastic, terms as “self-generation of the species” (“society as the subject”), and thereby the consecutive series of interrelated individuals connected with each other can be conceived as a single individual, which accomplishes the mystery of generating itself. It is clear here that individuals certainly make one another, physically and mentally, but do not make themselves.
 
-[5. Development of the Productive Forces as a Material Premise of Communism]
+5. Development of the Productive Forces as a Material Premise of Communism
 
 This “alienation” can only be abolished given 2 practical premises. 
 
@@ -160,14 +189,20 @@ Empirically, communism is only possible as the act of the dominant peoples “al
 
 Moreover, the mass of propertyless workers – the utterly precarious position of labour – power on a mass scale cut off from capital or from even a limited satisfaction and, therefore, no longer merely temporarily deprived of work itself as a secure source of life – presupposes the world market through competition. The proletariat can thus only exist world-historically, just as communism, its activity, can only have a “world-historical” existence. World-historical existence of individuals means existence of individuals which is directly linked up with world history.
 
-Communism is for us not a state of affairs which is to be established, an ideal to which reality [will] have to adjust itself. We call communism the real movement which abolishes the present state of things. The conditions of this movement result from the premises now in existence.
+Communism is not a state of affairs which is to be established. It is an ideal to which reality will have to adjust itself. 
 
-In the main we have so far considered only one aspect of human activity, the reshaping of nature by men. The other aspect, the reshaping of men by men ... [Intercourse and productive power]
+Communism is the real movement which abolishes the present state of things. 
+
+The conditions of this movement result from the premises now in existence.
+
+
+
+<!-- In the main we have so far considered only one aspect of human activity, the reshaping of nature by men. The other aspect, the reshaping of men by men ... [Intercourse and productive power] -->
 
 
 <!-- Footnotes
 Contradiction between Individuals and their conditions of life
-1. The building of houses. With savages each family has as a matter of course its own cave or hut like the separate family tent of the nomads. This separate domestic economy is made only the more necessary by the further development of private property. With the agricultural peoples a communal domestic economy is just as impossible as a communal cultivation of the soil. A great advance was the building of towns. In all previous periods, however, the abolition of individual economy, which is inseparable from the abolition of private property, was impossible for the simple reason that the material conditions governing it were not present. The setting-up of a communal domestic economy presupposes the development of machinery, of the use of natural forces and of many other productive forces – e.g. of water-supplies, of gas-lighting, steam-heating, etc., the removal [of the antagonism] of town and country. Without these conditions a communal economy would not in itself form a new productive force; lacking any material basis and resting on a purely theoretical foundation, it would be a mere freak and would end in nothing more than a monastic economy – What was possible can be seen in the towns brought about by condensation and the erection of communal buildings for various definite purposes (prisons, barracks, etc.). That the abolition of individual economy is inseparable from the abolition of the family is self-evident.
+
 
 2. [This paragraph appears as a marginal note in the manuscript – Ed.] And out of this very contradiction between the interest of the individual and that of the community the latter takes an independent form as the State, divorced from the real interests of individual and community, and at the same time as an illusory communal life, always based, however, on the real ties existing in every family and tribal conglomeration – such as flesh and blood, language, division of labour on a larger scale, and other interests – and especially, as we shall enlarge upon later, on the classes, already determined by the division of labour, which in every such mass of men separate out, and of which one dominates all the others. It follows from this that all struggles within the State, the struggle between democracy, aristocracy, and monarchy, the struggle for the franchise, etc., etc., are merely the illusory forms in which the real struggles of the different classes are fought out among one another (of this the German theoreticians have not the faintest inkling, although they have received a sufficient introduction to the subject in the Deutsch-Französische Jahrbücher and Die heilige Familie). Further, it follows that every class which is struggling for mastery, even when its domination, as is the case with the proletariat, postulates the abolition of the old form of society in its entirety and of domination itself, must first conquer for itself political power in order to represent its interest in turn as the general interest, which in the first moment it is forced to do. Just because individuals seek only their particular interest, which for them does not coincide with their communal interest (in fact the general is the illusory form of communal life), the latter will be imposed on them as an interest “alien” to them, and “independent” of them as in its turn a particular, peculiar “general” interest; or they themselves must remain within this discord, as in democracy. On the other hand, too, the practical struggle of these particular interests, which constantly really run counter to the communal and illusory communal interests, makes practical intervention and control necessary through the illusory “general” interest in the form of the State.
  -->

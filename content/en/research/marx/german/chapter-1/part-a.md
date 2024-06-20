@@ -103,13 +103,44 @@ The world was sanctified to an ever-increasing extent till at last our venerable
 
 The Old Hegelians had comprehended everything as soon as it was reduced to an Hegelian logical category.
 
-The Young Hegelians criticised everything by attributing to it religious conceptions or by pronouncing it a theological matter.
+The Young Hegelians criticised everything:
+- by attributing to it religious conceptions or 
+- by pronouncing it a theological matter.
 
-The Young Hegelians are in agreement with the Old Hegelians in their belief in the rule of religion, of concepts, of a universal principle in the existing world. Only, the one party attacks this dominion as usurpation, while the other extols it as legitimate.
+The Young Hegelians agree with the Old Hegelians in their belief in the rule of:
+- religion
+- concepts
+- a universal principle in the existing world. 
 
-Since the Young Hegelians consider conceptions, thoughts, ideas, in fact all the products of consciousness, to which they attribute an independent existence, as the real chains of men (just as the Old Hegelians declared them the true bonds of human society) it is evident that the Young Hegelians have to fight only against these illusions of consciousness.
+But one party attacks this dominion as usurpation, while the other extols it as legitimate.
 
-Since, according to their fantasy, the relationships of men, all their doings, their chains and their limitations are products of their consciousness, the Young Hegelians logically put to men the moral postulate of exchanging their present consciousness for human, critical or egoistic consciousness, and thus of removing their limitations. This demand to change consciousness amounts to a demand to interpret reality in another way, i.e. to recognise it by means of another interpretation. The Young-Hegelian ideologists, in spite of their allegedly “world-shattering" statements, are the staunchest conservatives. The most recent of them have found the correct expression for their activity when they declare they are only fighting against “phrases.” They forget, however, that to these phrases they themselves are only opposing other phrases, and that they are in no way combating the real existing world when they are merely combating the phrases of this world. The only results which this philosophic criticism could achieve were a few (and at that thoroughly one-sided) elucidations of Christianity from the point of view of religious history; all the rest of their assertions are only further embellishments of their claim to have furnished, in these unimportant elucidations, discoveries of universal importance.
+The Young Hegelians consider conceptions, thoughts, ideas, and all the products of consciousness as having an independent existence.
+- Both they and the Old Hegelians declared the products of consciousness as the true bonds of human society
+- And so, the Young Hegelians only have to fight against these illusions of consciousness.
+
+<!-- , as the real chains of men (just as 
+
+) it is evident that the   -->
+
+According to their fantasy, the following are products of consciousness:
+- the relationships of men
+- all their doings
+- their bonds
+- their limitations 
+
+
+
+The Young Hegelians logically put to men the moral postulate of exchanging their present consciousness for human, critical or egoistic consciousness, and thus of removing their limitations. 
+
+This demand to change consciousness amounts to a demand to interpret reality in another way, i.e. to recognise it by means of another interpretation. 
+
+The Young-Hegelian ideologists have made “world-shattering" statements. In reality, they are the staunchest conservatives. 
+
+The most recent of them have found the correct expression for their activity when they declare they are only fighting against “phrases.” 
+
+They forget, however, that to these phrases they themselves are only opposing other phrases, and that they are in no way combating the real existing world when they are merely combating the phrases of this world.
+
+The only results which this philosophic criticism could achieve were a few (and at that thoroughly one-sided) elucidations of Christianity from the point of view of religious history; all the rest of their assertions are only further embellishments of their claim to have furnished, in these unimportant elucidations, discoveries of universal importance.
 
 It has not occurred to any one of these philosophers to inquire into the connection of German philosophy with German reality, the relation of their criticism to their own material surroundings.
 

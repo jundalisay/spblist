@@ -36,7 +36,7 @@ If anyone now ask, by what sign shall he be able to distinguish different substa
 {{< /box >}}
 
 
-11. God, or substance, consisting of infinite attributes, of which each expresses eternal and infinite essentiality, necessarily exists. 
+11. God, or substance, consisting of infinite attributes, of which each expresses eternal and infinite essentiality, necessarily exists.
     
 Proof 1: If this is denied, think that God does not exist and therefore his essence does not involve existence. But Prop. 7 says this is absurd.
 Therefore, God necessarily exists.

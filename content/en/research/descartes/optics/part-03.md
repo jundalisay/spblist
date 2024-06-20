@@ -1,6 +1,6 @@
 ---
 title: "The Eye"
-heading: "Part 3"
+heading: "Discourse 3"
 weight: 8
 writer:
   name: Rene Descartes
