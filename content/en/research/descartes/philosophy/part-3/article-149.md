@@ -24,7 +24,7 @@ This is because the Moon moves towards the Earth before the Earth orbits the Sun
 
 The Earth goes around the Sun `S` in the circle `NeZ. It is carried from `N`, through e towards `Z`.
 
-{{< img src="/graphics/physics/orbits.png" alt="Orbits" >}}
+{{< img src="/graphics/physics/orbits.jpg" alt="Orbits" >}}
 
 
 > *Superphysics Note: We replace this article with content from The World since it is better explained there
@@ -98,7 +98,7 @@ The cause of this lesser solidity may be that another side of it, which never co
 The Moon seems to move somewhat faster and deviate less from its course in all directions when it is full or new, than when it appears only half, or when it is towards parts of the sky B or D, than when it is towards A or C.
 
 
-{{< img src="/graphics/physics/orbits.png" alt="Orbits" >}}
+{{< img src="/graphics/physics/orbits.jpg" alt="Orbits" >}}
 
 <!-- celestial globules -->
 This is because the air-aether in the space `ABCD` are different in size and motion from those which are:

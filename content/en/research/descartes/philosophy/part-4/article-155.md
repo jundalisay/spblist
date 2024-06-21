@@ -41,7 +41,9 @@ If a magnet is divided by a plane, by cutting a line drawn through the poles at 
 
 ### 157. Why is it the same in some parts of a magnet as in the whole?
 
-It is no less evident that the current is the same in any part of the magnet as in the whole: for this current is not different in the poles than in the other parts, but is only seen to be greater, because through them come out the striped particles which have passed through the longest paths of the magnet, and which are intermediate between all coming from the same side: at least in a spherical magnet, to the example of which in the rest the poles are considered to be there, where the greatest force appears. 
+<!-- It is no less evident that  -->
+
+The current is the same in any part of the magnet as in the whole: for this current is not different in the poles than in the other parts, but is only seen to be greater, because through them come out the striped particles which have passed through the longest paths of the magnet, and which are intermediate between all coming from the same side: at least in a spherical magnet, to the example of which in the rest the poles are considered to be there, where the greatest force appears. 
 
 Nor is this force different in one pole than in another, except in so far as the striped particles, having entered through one, exit through another: and there is no so small a part of a magnet in which, if they have an entrance, they do not also have an exit.
 

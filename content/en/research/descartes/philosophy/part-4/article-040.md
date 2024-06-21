@@ -1,5 +1,6 @@
 ---
-title: "How were these bodies on Earth generated?"
+title: The Mountains, Seas, and the Air
+# title: "How were these bodies on Earth generated?"
 heading: Section 2b
 weight: 14
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
@@ -60,11 +61,15 @@ By the same reasoning, as we see cracks opening in the earth during the summer w
 
 ### 42. How it is broken into various parts.
 
-With many such cracks in body E, continuously expanding, its parts eventually adhered so little to each other that it could no longer be sustained in the arch-like form between F and B.
+With many such cracks in body `E`, continuously expanding, its parts eventually adhered so little to each other that it could no longer be sustained in the arch-like form between `F` and `B`.
 
-Consequently, it broke entirely, falling onto the surface of body C due to its gravity. Since this surface was not wide enough to accommodate all its fragments adjacent to each other and maintaining their previous positions, some of them had to incline towards one side and lean on each other. 
+Consequently, it broke entirely, falling onto the surface of body `C` due to its gravity. 
 
-Specifically, if, in that part of body E represented by this figure, significant cracks were arranged in positions 1, 2, 3, 4, 5, 6, 7, so that the two fragments 2 3 and 6 7 started to fall slightly before the others; the ends of the other four fragments, 2, 3, 5, and 6, before the opposite 1, 4, and u.
+This surface was not wide enough to accommodate all its fragments adjacent to each other. Maintaining their previous positions, this is why some of them had to incline towards one side and lean on each other. 
+
+- Specifically, if, in that part of body `E` significant cracks were arranged in positions `1, 2, 3, 4, 5, 6, 7`, so that the two fragments `2 3` and `6 7` started to fall slightly before the others.
+
+The ends of the other four fragments, `2, 3, 5`, and `6`, before the opposite `1, 4`, and `u`.
 
 Likewise, the end 5 of fragment 4 5 fell somewhat earlier than the end u of fragment u: it is certain that they must already be arranged in this way above the surface of body C, just as depicted here. In other words, fragments 2 3 and 6 7 are closely connected to body C, while the other four are reclined to the side, leaning on each other, and so on.
 
@@ -73,6 +78,7 @@ Likewise, the end 5 of fragment 4 5 fell somewhat earlier than the end u of frag
 
 `Body D` is fluid and less dense than the fragments of `Body E`. And so it occupies all the lower cavities left by these fragments and their cracks and passages, and also rises above them as much as it can.
 
+{{< img src="/graphics/physics/inner.jpg" alt="Crust" >}}
 
 ### 44. The origin of mountains, plains, seas, etc., on the Earth's surface.
 
@@ -82,18 +88,18 @@ Likewise, the end 5 of fragment 4 5 fell somewhat earlier than the end u of frag
 - Body `E` is the outer Earth composed of rocks, clay, sand, and mud.
 
 
-Above the fragments 2 3 and 6 7, raised by water, are seas.
+Above the fragments `2 3` and `6 7`, raised by water, are seas.
 
-Above the other fragments inclined more gently and not covered by water, such as 8 9 and u, are flat plains.
+Above the other fragments inclined more gently and not covered by water, such as `8 9` and `u`, are flat plains.
 
-And above the more erect ones, like 1 2 and 9 4 u, are mountains.
+And above the more erect ones, like `1 2` and `9 4 u`, are mountains.
 
 They split into many smaller fragments when they fall due to their own gravity and their ends strongly collide with each other.
 
 These fragments formed:
-- rocks on some seashores, such as 1
-- the multiple ridges of mountains, some very high like 4, others gentler like 9 and u
-- sea cliffs, such as 3 and 6.
+- rocks on some seashores, such as `1`
+- the multiple ridges of mountains, some very high like `4`, others gentler like `9` and `u`
+- sea cliffs, such as `3` and `6`
 
 
 ### 45. The nature of the air can be derived from all this.

@@ -42,9 +42,9 @@ However, it is difficult to conceive of anything similar happening with glass, a
 Therefore, another cause must be attributed to this attraction in glass.
 
 
-## {{< s v="185" >}} What causes this attraction in glass?
+### 185. What causes this attraction in glass?
 
-Indeed, from the manner in which it was said to be generated, it is easily inferred that, in 
+<!-- Indeed, from the manner in which it was said to be generated, it is easily inferred that, in  -->
 
 Friction causes the gaps in glass to become larger, allowing the air-aether to pass through these from all directions.
 
@@ -83,7 +83,7 @@ But since they do not find it easy to move in this way, they immediately return 
 
 
 
-## {{< s v="186" >}} The same cause can be seen in other bodies as well. 
+### 186. The same cause can be seen in other bodies as well. 
 
 For example, there are certain interstices between the particles of some bodies that are too narrow to allow the air-aether to enter, so they only receive the fire-aether.
 
@@ -98,7 +98,7 @@ Therefore, although I do not deny that there may be another cause of attraction 
 Attraction is observed in many bodies, and I do not think it is present in them, or at least not in the majority of them, in the same way as it is in the ether.
 
 
-## {{< s v="187" >}} The causes of the wonderful effects of the remaining bodies are not solely due to the aether, but rather to various other factors, which are inherent in the material itself. 
+### 187. The causes of the wonderful effects of the remaining bodies are not solely due to the aether, but rather to various other factors, which are inherent in the material itself. 
 
 The particles of terrestrial bodies that are formed from the fire-aether possess:
 - the properties of attraction, like those in amber and magnets
@@ -119,7 +119,7 @@ The same bodily and material principles lead to the phenomena in nature.
 <!-- Therefore, it is not necessary to add anything else to these causes  -->
 
 
-## {{< s v="188" >}} I had originally planned to write two more parts: one on living beings, or animals and plants, and another on man, but have decided against it.
+### 188. I had originally planned to write two more parts: one on living beings, or animals and plants, and another on man, but have decided against it.
 
 <!-- 188. I have decided not to add any more to this fourth part of the Principles of Philosophy, as I  -->
 

@@ -8,8 +8,8 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-06b
+# aliases:
+#   /research/descartes/philosophy/part-4/section-06b
 ---
 
 
@@ -45,7 +45,7 @@ The power of magnetism is the same in all things, whether in a magnet or in the 
 
 
 
-## {{< s v="4.153" >}} Why do two magnets attract each other? What is the nature of their interaction?
+### 153. Why do two magnets attract each other? What is the nature of their interaction?
 
 It is not true that two magnets simply turn towards each other until the northern pole of one magnet faces the southern pole of the other, and vice versa. 
 

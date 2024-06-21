@@ -8,8 +8,8 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-02c
+# aliases:
+#   /research/descartes/philosophy/part-4/section-02c
 ---
 
 
@@ -37,26 +37,53 @@ I have also explained in the Meteorology the causes of winds, by which the sea i
 
 But there remains another regular motion of the sea, by which it rises and falls twice a day in every location, always flowing from east to west. 
 
-To explain the cause of this motion, let us imagine a small vortex in the sky with the Earth as its center, which, along with the Moon, revolves around the Sun in a larger vortex. Let ABCD be that small vortex; EFGH the Earth; 1 2 3 4 the sea surface, assumed to cover the Earth everywhere for the sake of clarity; and 5 6 7 8 the surface of the air surrounding the sea.
+To explain the cause of this motion, let us imagine a small vortex in the sky with the Earth as its center.
 
-If there were no Moon in this vortex, the point T, which is the center of the Earth, would be at point M, the center of the vortex. But with the Moon present (assuming it is towards B), this center T should be between M and D. 
+Along with the Moon, it revolves around the Sun in a larger vortex. 
 
-This is because, as the matter of this celestial vortex moves somewhat faster than the Moon or the Earth it carries with it, unless point T is somewhat farther from B than from D, the presence of the Moon would hinder it from flowing as freely between B and T as between T and D.
+Let:
+- `ABCD` be that small vortex 
+- `EFGH` the Earth
+- `1 2 3 4` the sea surface, assumed to cover the Earth everywhere for the sake of clarity
+- `5 6 7 8` the surface of the air surrounding the sea
 
-Since the location of the Earth in this vortex is not determined except by the equality of the forces of the surrounding celestial matter, it is evident that it must therefore approach towards D.
+{{< img src="/graphics/physics/world-11.jpg" alt="Moon and tides" >}}
 
-Similarly, since in this way, due to the Moon being towards B, not only the space through which celestial matter flows between B and T but also that between T and D is reduced, it follows that this celestial matter flows faster there and, therefore, presses more on the surface of air at 6 and 8 and the surface of water at 2 and 4 than if the Moon were outside this diameter BD.
+If there were no Moon in this vortex, the point `T`, which is the center of the Earth, would be at point `M`, the center of the vortex. 
 
-Since air and water are fluid bodies that easily yield to pressure, the surface above the Earth's parts F and H should be less elevated than if the Moon were outside this diameter BD. Conversely, it should be higher towards G and E, so that the water surface 1, 3, and the air 5, 7 protrude there.
+But with the Moon present (assuming it is towards `B`), this center `T` should be between `M` and `D`. 
+
+This is because, as 
+
+The air-aether of this vortex moves faster than the Moon or the Earth that it carries with it.
+
+This is why the presence of the Moon would hinder it from flowing as freely between `B` and `T` as between `T` and `D`, unless point `T` is somewhat farther from `B` than from `D`.
+
+The Earth's location in this vortex is only determined by the equality of the forces of the surrounding the air-aether. And so, it must approach towards `D`.
+
+Since the Moon now is towards B then the air-aether flowing at the following spaces are reduced:
+- between `B` and `T`
+- between `T` and `D` 
+
+<!-- celestial matter -->
+It follows that this air-aether flows faster there.
+
+Therefore, it presses more on the surface of air at `6` and `8` and the surface of water at `2` and `4` than if the Moon were outside this diameter `BD`.
+
+Air and water are fluid bodies that easily yield to pressure. This is why the surface above the Earth at `F` and `H` should be less elevated than if the Moon were outside this diameter `BD`. 
+
+Conversely, it should be higher towards `G` and `E`, so that the water surface `1`, `3`, and the air `5`, `7` protrude there.
 
 
 ### 50. Why Does Water Rise at the 6 1/5 hour and Descend at the 6 1/5 hour?
 
-The part of the Earth that is now in F, opposite point B where the sea is least high, will be in G, opposite point C where it is highest, after six hours, and after six more hours, it will be in H, opposite point D. 
+The part of the Earth that is now in `F`, opposite point `B` where the sea is least high, will be in `G`, opposite point `C` where it is highest, after six hours, and after six more hours, it will be in `H`, opposite point `D`. 
 
-Consequently, since the Moon also progresses somewhat from B towards C, covering the circle ABCD in a month, the part of the Earth that is now in F, opposite the Moon's body, after six hours and 2 minutes, will be beyond point G in that diameter of the vortex ABCD which intersects the same diameter in which the Moon will then be, and the water will be highest there.
+Consequently, since the Moon also progresses somewhat from `B` towards `C`, covering the circle `ABCD` in a month, the part of the Earth that is now in F, opposite the Moon's body, after six hours and 2 minutes, will be beyond point `G` in that diameter of the vortex `ABCD` which intersects the same diameter in which the Moon will then be, and the water will be highest there.
 
-After six more hours with 12 minutes, it will be beyond point H, where the water will be least high, etc. It is thus clearly understood that the sea water should ebb and flow every twelve hours and 2 minutes in the same location.
+After six more hours with 12 minutes, it will be beyond point `H`, where the water will be least high, etc. 
+
+This is why the sea water should ebb and flow every 12 hours and 2 minutes in the same location.
 
 
 ### 51. Why tides are greater when the Moon is full or new.

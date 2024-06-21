@@ -15,7 +15,7 @@ icon: "/icons/descartes.png"
 
 ### 64. The External Earth and the Origin of Springs
 
-Let us consider the external Earth E, some fragments of which are concealed under the sea, others spread across fields, and others rise into mountains. 
+Let us consider the external Earth `E`, some fragments of which are concealed under the sea, others spread across fields, and others rise into mountains. 
 
 First and foremost, let us observe how easily we can understand the origin of springs and rivers in it.
 

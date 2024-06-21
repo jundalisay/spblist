@@ -58,15 +58,27 @@ Similarly, as we mentioned before, only a few particles manage to reach us from 
 
 ### 181. Why does the interposition of any other body hinder it?
 
-But besides iron or magnet, no other body can be placed in the position of the plate CD that would hinder the magnet AB from exerting its force on the accumulation EF. In this outer Earth, we do not have any substance, no matter how solid and hard, that does not contain numerous channels. These channels are not formed to the size of the striated particles, but much larger, capable of accommodating even the globules of the second element. Through these channels, the striated particles can pass as freely as through the air, as the air itself contains these globules of the second element.
+But besides iron or magnet, no other body can be placed in the position of the plate CD that would hinder the magnet AB from exerting its force on the accumulation EF. 
+
+In this outer Earth, we do not have any substance, no matter how solid and hard, that does not contain numerous channels. 
+
+These channels are not formed to the size of the striated particles, but much larger, capable of accommodating even the air-aether globules.
+
+Through these channels, the striated particles can pass as freely as through the air, as the air itself contains these globules of the second element.
 
 
 
 ### 182. Why does an improper positioning of the magnet gradually weaken its powers?
 
-If iron or a magnet is held in a position different from its natural alignment towards the Earth or other nearby magnets for a long time, it gradually loses its strength. This occurs because the striated particles, which come from the Earth or other nearby magnets, encounter the magnet's channels obliquely or in a reversed manner, gradually altering and corrupting their arrangement.
+If iron or a magnet is held in a position different from its natural alignment towards the Earth or other nearby magnets for a long time, it gradually loses its strength. 
 
-When a magnet or a piece of iron is allowed to align itself freely, its magnetic domains and magnetic moments naturally arrange in a harmonious manner, maximizing its magnetic strength. However, if it is forcibly held or positioned in a different orientation, the incoming striated particles from the Earth or nearby magnets intersect the channels of the magnet at irregular angles. This interaction gradually distorts and disrupts the alignment of the magnetic domains and moments within the magnet, leading to a loss of its magnetic power over time.
+This occurs because the striated particles, which come from the Earth or other nearby magnets, encounter the magnet's channels obliquely or in a reversed manner, gradually altering and corrupting their arrangement.
+
+When a magnet or a piece of iron is allowed to align itself freely, its magnetic domains and magnetic moments naturally arrange in a harmonious manner, maximizing its magnetic strength. 
+
+However, if it is forcibly held or positioned in a different orientation, the incoming striated particles from the Earth or nearby magnets intersect the channels of the magnet at irregular angles. 
+
+This interaction gradually distorts and disrupts the alignment of the magnetic domains and moments within the magnet, leading to a loss of its magnetic power over time.
 
 In essence, the prolonged obstruction of a magnet's natural alignment by holding it in a different position causes the incoming striated particles to interfere with its channels in a non-optimal way, gradually altering and corrupting the magnet's magnetic properties, resulting in a decrease in its overall strength.
 

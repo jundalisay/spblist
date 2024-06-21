@@ -35,14 +35,28 @@ There is doubt, there is uncertainty in us concerning them. Which of these rever
 
 4. "It is proper for you, Kalamas, to doubt, to be uncertain.
 
-Uncertainty has arisen in you about what is doubtful. Come, Kalamas. Do not go upon what has been acquired by repeated hearing; nor upon tradition; nor upon rumor; nor upon what is in a scripture; nor upon surmise; nor upon an axiom; nor upon specious reasoning; nor upon a bias towards a notion that has been pondered over; nor upon another's seeming ability; nor upon the consideration, 'The monk is our teacher.' 
+Uncertainty has arisen in you about what is doubtful. 
+
+Come, Kalamas. Do not go upon what has been acquired by repeated hearing; nor upon tradition; nor upon rumor; nor upon what is in a scripture; nor upon surmise; nor upon an axiom; nor upon specious reasoning; nor upon a bias towards a notion that has been pondered over; nor upon another's seeming ability; nor upon the consideration, 'The monk is our teacher.' 
 
 Kalamas, when you yourselves know: 'These things are bad; these things are blamable; these things are censured by the wise; undertaken and observed, these things lead to harm and ill,' abandon them.
-Greed, hate, and delusion
 
-5. "What do you think, Kalamas? Does greed appear in a man for his benefit or harm?" — "For his harm, venerable sir." — "Kalamas, being given to greed, and being overwhelmed and vanquished mentally by greed, this man takes life, steals, commits adultery, and tells lies; he prompts another too, to do likewise. Will that be long for his harm and ill?" — "Yes, venerable sir."
+<!-- Greed, hate, and delusion -->
 
-6. "What do you think, Kalamas? Does hate appear in a man for his benefit or harm?" — "For his harm, venerable sir." — "Kalamas, being given to hate, and being overwhelmed and vanquished mentally by hate, this man takes life, steals, commits adultery, and tells lies; he prompts another too, to do likewise. Will that be long for his harm and ill?" — "Yes, venerable sir."
+5. "Kalamas, does greed appear in a man for his benefit or harm?"
+
+"For his harm, venerable sir." 
+
+"Being given to greed, and being overwhelmed and vanquished mentally by greed, this man takes life, steals, commits adultery, and tells lies; he prompts another too, to do likewise. Will that be long for his harm and ill?"
+
+"Yes, venerable sir."
+
+6. "Kalamas, Does hate appear in a man for his benefit or harm?"
+
+"For his harm, venerable sir."
+
+"Kalamas, being given to hate, and being overwhelmed and vanquished mentally by hate, this man takes life, steals, commits adultery, and tells lies; he prompts another too, to do likewise. Will that be long for his harm and ill?" — "Yes, venerable sir."
+
 
 7. "What do you think, Kalamas? Does delusion appear in a man for his benefit or harm?" — "For his harm, venerable sir." — "Kalamas, being given to delusion, and being overwhelmed and vanquished mentally by delusion, this man takes life, steals, commits adultery, and tells lies; he prompts another too, to do likewise. Will that be long for his harm and ill?" — "Yes, venerable sir."
 
