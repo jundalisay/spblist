@@ -19,7 +19,7 @@ icon: "/icons/descartes.png"
 
 How does it move in the space `defg`? 
 
-The part of it that comes from `A` travels straight to `d`, where it encounters the air-aether globules and propels them towards B.
+The part of it that comes from `A` travels straight to `d`, where it encounters the air-aether globules and propels them towards `B`.
 
 Similarly, another part that comes from `B` travels straight to `f`, where it encounters the air-aether globules, which it propels towards `A`. 
 

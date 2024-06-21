@@ -50,48 +50,50 @@ This would also apply to the air-aether if no specific causes hindered its movem
 
 However, the agitation of the fire-aether is much swifter than that of the air-aether.
 
-The fire-aether always can pass freely through those small angles that the air-aether globules cannot occupy even if we assumed that all the matter, both of the fire-aether and air-aether, contained in vortex L, began to progress towards S at the same time from the midpoint between the centers S and L, 
+The fire-aether always can pass freely through those small angles that the air-aether globules cannot occupy even if we assumed that all the matter, both of the fire-aether and air-aether, in `Vortex L` began to move towards `S` at the same time from the midpoint between the `Center S` and `L`. 
 
-we would understand that the fire-aether would have reached the center S faster than that of the air-aether. 
+<!-- we would understand that -->
 
-The fire-aether thus enters the space S. It pushes the air-aether globules with such force:
+The fire-aether would have reached `Center S` faster than the air-aether. 
+
+The fire-aether thus enters the `Space S`. It pushes the air-aether globules with such force:
 - towards the ecliptic eg or MY
 - especially towards the poles fd or AB.
 
-Thus, it prevents those coming from vortex L from approaching S more closely than up to a certain limit, which is marked here by the letter B. The same must be judged for vortex K and all others.
+Thus, it prevents those coming from `Vortex L` from approaching `S` more closely than up to a certain limit, which is marked by letter `B`. The same must be judged for `Vortex K` and all others.
 
 
 ### 71. The reason for this difference
 
-The air-aether revolving around the center L has the force to recede from L but also to maintain their speed.
+The air-aether revolving around the `Center L` has the force to move away from `L` but also to maintain their speed.
 
-These two forces somewhat conflict with each other. While they rotate in Vortex `L`, they are confined by other vortices around it.
+These two forces somewhat conflict with each other. While they rotate in `Vortex L`, they are confined by other vortices around it.
 
  <!-- , which are to be understood above and below the plane of this figure.  -->
 
-They cannot move towards B without slowing down between L and B compared to their speed between L and other nearby vortices, understood to be outside the plane of this figure.
+They cannot move towards `B` without slowing down between `L` and `B` compared to their speed between `L` and other nearby vortices, understood to be outside the plane of this figure.
 
-The greater the distance LB, the slower they will move.
+The greater the distance `LB`, the slower they will move.
 
-This is because when they move circularly, they cannot spend more time passing between L and those other vortices than between L and B. 
+This is because when they move circularly, they cannot spend more time passing between `L` and those other vortices than between `L` and `B`. 
 
-Therefore, the force they have to recede from the center L causes them to move somewhat towards B.
+Therefore, the force they have to move away from the `Center L` causes them to move somewhat towards `B`.
 
 <!-- , where they meet the polar parts of vortex S, which yield to them easily; 
 
 but conversely, the force they have to retain the speed of their motion prevents them from wandering so far as to reach S.  -->
 
-They do not wander into the Territory of S because they maintain their own speed. 
+They do not wander into the Territory of `S` because they maintain their own speed. 
 
-But this is not the case with the fire-aether.
+**But this is not the case with the fire-aether.**
 
-The fire-aether revolves with the air-aether and therefore strives to recede from the centers of the vortices in which it is contained.
+The fire-aether revolves with the air-aether and therefore strives to move away from the centers of the vortices in which it is contained.
 
-**But it does not need to slow down at all as it recedes from those centers.**
+**But it does not need to slow down at all as it moves away from those centers.**
 
 This is because it almost always finds equal paths to continue its motions. These paths are the narrow spaces not filled by the air-aether globules.
 
-Therefore, this fire-aether continuously flows towards S through the poles `A` and `B` from Vortex K, L, and many others.
+Therefore, this fire-aether continuously flows towards `S` through the poles `A` and `B` from Vortex `K`, `L`, and many others.
  <!-- that are not shown in this figure. -->
 
 This is because not all are in the same plane, nor can I determine their true position, size, or number. 

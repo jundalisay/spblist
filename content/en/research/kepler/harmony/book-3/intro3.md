@@ -18,7 +18,11 @@ He wrote: **Unity embraces the Tenfold on the basis of ratio, and again the tenf
 
 Next, he makes up the faculty of the soul which is responsible for desire from the 12 avengers, or ethical vices, in accordance with the 12 the signs of the zodiac. He makes the body, and this power of the soul which is closest to the body, subject to it. Whereas the same man makes up the rational faculty of the soul from the tenfold ethical virtues. 
 
-Thus while the Pythagoreans celebrate the Tetractys as the source of souls, and Camerarius says that there is more than one Tetractys, not only that which from the fourfold as base rises to a total of 1 0 , but also above all the other which from the eightfold as base up to its vertex adds up to a total of 36, the said Tatius also hints at the same thing from the teaching of his father Hermes when he says it was the time when he himself was still in the Eighth Level, the Eightfold.'- 
+<!-- Thus while  -->
+
+The Pythagoreans celebrate the Tetractys as the source of souls.
+
+Camerarius says that there is more than one Tetractys, not only that which from the fourfold as base rises to a total of 10, but also above all the other which from the eightfold as base up to its vertex adds up to a total of 36, the said Tatius also hints at the same thing from the teaching of his father Hermes when he says it was the time when he himself was still in the Eighth Level, the Eightfold.
 
 The father sent the son back to Pimander singing of the eightfold. There in fact occur the eightfold ethical casts of soul, seven corresponding with the 7 planets, as is apparent, starting from the Moon; but the eighth, more divine and more at rest, to the idea, I think, of the sphere of the fixed stars. 
 

@@ -15,11 +15,21 @@ icon: /avatars/kepler.png
 The cube has been allotted 1:2 and 1:3.
 - But the proportion of the spheres of the tetrahedron, which is located between Jupiter and Mars, designated as the triple, is the square of the proportion of the spheres of the cube, designated as semitriple, then it was appropriate that proportions for the motions should also be fitted to the tetrahedron which are the square of the cubic proportions. 
 
-Now the proportions which are the squares of 1'2 and 1-3 are in fact 1:4 and 1'9. But 1:9 is not harmonic, and 1:4 has already been taken up for the octahedron. Therefore, the neighboring harmonies to these proportions had to be taken, by Axiom I. 
+The proportions which are the squares of 1'2 and 1-3 are in fact 1:4 and 1'9. 
 
-Now first of all the ones which are neighbors to it are 1:8 as the smaller and 1:10 as the greater. Between these the choice is made by affinity with the tetrahedron, which has nothing in common with the pentagon, since L'lO is of the pentagonic group. However, the tetrahedron’s greater affinity is with F'8, on many accounts, which are to be found in Chapter II. 
+But 1:9 is not harmonic, and 1:4 has already been taken up for the octahedron. 
 
-Further, on 1:8, another feature is that just as 1:3 is the greater proportion of the cube, and 1:4 the greater of the octahedron, because they are powers of the proportions between the spheres of the figures, so also L'8 should have been the greater proportion of the tetrahedron. 
+Therefore, the neighboring harmonies to these proportions had to be taken, by Axiom 1. 
+
+The ones which are neighbors to it are:
+- 1:8 as the smaller
+- 1:10 as the greater. 
+
+Between these, the choice is made by affinity with the tetrahedron, which has nothing in common with the pentagon, since L'lO is of the pentagonic group. 
+
+However, the tetrahedron’s greater affinity is with F'8, on many accounts in Chapter 2. 
+
+Further, on 1:8, another feature is that just as 1:3 is the greater proportion of the cube, and 1:4 the greater of the octahedron, because they are powers of the proportions between the spheres of the figures, so also L'8 should have been the greater proportion of the tetrahedron.
 
 For as its body is twice that of the octahedron inscribed in it, as stated in Chapter I, so also the term 8 of this tetrahedric proportion is twice the term 4 of the octahedric proportion. 
 
@@ -27,7 +37,8 @@ Further, since 1:2, the lesser proportion of the cube, is one diapason, and 1-4 
 
 It had to have more diapasons than two because since the lesser tetrahedric harmony must necessarily be the greatest of all the smaller harmonies in the other figures (inasmuch as the proportion of the tetrahedric spheres is the greatest of all those of the figures), the greater tetrahedric harmony also should have exceeded the greater harmonies of the others in its number of diapasons. 
 
-Last, the threefold nature of the intervals in diapasons has kinship with the triangular type of the tetrahedron, and has a certain perfection in accordance with the universal perfection of the Trinity, since the eightfold also, its term, is the first of the cubic numbers, which are perfect in quantity, that is to say of three dimensions. 
+Last, the threefold nature of the intervals in diapasons has kinship with the triangular type of the tetrahedron. It has a certain perfection in accordance with the universal perfection of the Trinity, since the eightfold also, its term, is the first of the cubic numbers, which are perfect in quantity, that is to say of three dimensions. 
+
 
 II. To 1:4, or 6:24, the neighboring harmonies are 5:24, in fact the greater, and the lesser 6:20 or 3'-10.
 

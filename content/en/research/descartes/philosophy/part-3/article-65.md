@@ -24,7 +24,7 @@ This is because the motion of each body can easily be deflected by encountering 
 
 - `Vortex S`, with center `S`, moves from `A` through `E` towards `I`.
 - `Vortex F`, with center `F`, must move from `A` through `E` towards `V`, if no other surrounding vortices interfere. Thus, their motions will best agree with each other. 
-- Vortex 3, forms a triangle with the centers `S` and `F`. It is connected with the other two vortices `AEI` and `AEV` in the line `AE`, should move from `A` through `E` upwards.
+- `Vortex g`, forms a triangle with the centers `S` and `F`. It is connected with the other two vortices `AEI` and `AEV` in the line `AE`, should move from `A` through `E` upwards.
 
 <!-- whose center is not in the plane SAFE but above it, , and which is  -->
 
@@ -43,8 +43,8 @@ These motions will have some conflict if the disks of the first 3 vortices (the 
 For instance, `IVX` are the parts of the other vortices next to pole `E`. It rotates from `I` to `V` to `X`. Then:
 - `Vortex S` will scrape against it along the straight line `EI` and other parallel lines
 - `Vortex F` will scrape against it along the line `EV`
-- Vortex 3 will scrape against it along the line `EX`, thus somewhat opposing its circular motion. 
-
+- `Vortex g` will scrape against it along the line `EX`, thus somewhat opposing its circular motion. 
+<!-- Vortex 3 -->
 
 {{< img src="/graphics/physics/fig22-66.jpg" alt="Figure 22" >}}
 
