@@ -13,7 +13,7 @@ icon: "/icons/descartes.png"
 
 
 
-### 72. How the fire-aether that composes the Sun moves.
+### 72. How the [electromagnetic] fire-aether that composes the Sun moves.
 
 <!-- It is worth considering a bit more carefully  -->
 
@@ -23,18 +23,17 @@ The part of it that comes from `A` travels straight to `d`, where it encounters 
 
 Similarly, another part that comes from `B` travels straight to `f`, where it encounters the air-aether globules, which it propels towards `A`. 
 
-Immediately, both the part that is at `d` and the part that is at `f` reflect in all directions towards the ecliptic `eg`, pushing all the surrounding air-aether globules equally.
+Immediately, both the part that is at `d` and the part that is at `f` reflect in all directions towards the disk `eg`, pushing all the surrounding air-aether globules equally.
 
-Finally, it escapes through the passages between these globules around the ecliptic `eg`, towards `M` and `Y`. 
+Finally, it escapes through the passages between these globules around the disk `eg`, towards `M` and `Y`. 
 
-Moreover, while the fire-aether moves straight from `A` and `B` towards `d` and `f` by its own motion.
+Moreover, the fire-aether moves straight from `A` and `B` towards `d` and `f` its own motion. But it also moves circularly by the motion of the whole vortex around the axis `AB` so that each of its particles describes spiral lines, twisted as a helix. 
 
-It also moves circularly by the motion of the whole vortex around the axis `AB` so that each of its particles describes spiral lines, twisted as a helix. 
+These spirals, when they reach `d` and `f`, reflect from there in both directions towards the disk `eg`. 
 
-These spirals, when they reach `d` and `f`, reflect from there in both directions towards the ecliptic `eg`. 
+Since the space `defg` is larger than the passages through which the fire-aether enters or exits, some fire-aether always remains there. They form a very fluid body that perpetually rotates around the axis `fd`.*
 
-Since the space `defg` is larger than the passages through which the fire-aether enters or exits, some fire-aether always remains there. They form a very fluid body that perpetually rotates around the axis `fd`.
-
+> *Superphysics Note: This is the magnetic field of the star
 
 
 ### 73. Various inequalities in the position of the Sun's body.

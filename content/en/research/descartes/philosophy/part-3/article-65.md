@@ -46,11 +46,12 @@ For instance, `IVX` are the parts of the other vortices next to pole `E`. It rot
 - `Vortex g` will scrape against it along the line `EX`, thus somewhat opposing its circular motion. 
 <!-- Vortex 3 -->
 
-{{< img src="/graphics/physics/fig22-66.jpg" alt="Figure 22" >}}
 
-{{< img src="/graphics/physics/fig22b-66.jpg" alt="Figure 22b" >}}
+{{< img src="/graphics/physics/adjust.jpg" alt="Adjstment of Vortices" cap="Superphysics Note: The vortices adjust to reduce friction with each other" >}}
 
-But nature easily corrects this according to the laws of motion by slightly deflecting the ecliptics of the first 3 vortices in the direction of the rotation of Vortex 4 IVX rotates. 
+<!-- according to the laws of motion  ecliptics IVX -->
+But nature easily corrects this by slightly deflecting the disks of the first 3 vortices in the direction of the rotation of Vortex `f`. 
+
 
 This results in them scraping against it not along the straight lines `EI`, `EV`, `EX`, but along the oblique lines `1I`, `2V`, `3X`, thereby fully harmonizing with its motion.
 

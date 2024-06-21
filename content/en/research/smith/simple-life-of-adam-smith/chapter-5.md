@@ -487,20 +487,27 @@ Stewart thought it would be improper to publish the complete manuscript.
 Because it would revive personal differences which should remain in oblivion.
 Consequently, our knowledge of its contents is confined to the few sentences which Stewart quoted as a valuable evidence of the progress of Smith’s political ideas at that early period.
 From this small fragment of his discourse, he presents the doctrine of natural liberty in a more extreme form than it came to wear after 20 years more of thought in the Wealth of Nations.
-Stewart says that many of the most important opinions in the Wealth of Nations are detailed in this document, but he cites only the following= —
+
+Stewart says that many of the most important opinions in the Wealth of Nations are detailed in this document, but he cites only the following:
+
 “Man is generally considered by statesmen and projectors as the materials of political mechanics.
 Projectors disturb nature in her operations on human affairs.
-She should be left alone and be given her fair play in the pursuit of her ends that she may establish her own designs..
-Not more than the following are needed to carry a state to the highest degree of affluence from the lowest barbarism= 
-peace,
-easy taxes, and
-a tolerable administration of justice.
+She should be left alone and be given her fair play in the pursuit of her ends that she may establish her own designs.
+
+Not more than the following are needed to carry a state to the highest degree of affluence from the lowest barbarism:
+- peace,
+- easy taxes, and
+- a tolerable administration of justice.
+
 All the rest are brought about by the natural course of things.
-All governments are unnatural if they= 
-force things into another channel, or
-try to arrest [Pg 63]the progress of society.
+
+All governments are unnatural if they:
+- force things into another channel, or
+- try to arrest [Pg 63]the progress of society.
+
 To support themselves, they are obliged to be oppressive and tyrannical..
-Many of the opinions in this paper is treated of at length in some lectures which= 
+
+Many of the opinions in this paper is treated of at length in some lectures which: 
 I still have by me, and
 were written in the hand of a clerk who left my service six years ago.
 They have all of been the constant subjects of my lectures since I first taught Mr. Craigie’s class the first winter I spent in Glasgow down to this day without any considerable variations.

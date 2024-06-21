@@ -1,7 +1,5 @@
-
-
 ---
-title: "The Carrying Trade of wheat"
+title: "The Carrying Trade of Wheat"
 heading: "Chapter 5i"
 description: "The merchant carrier imports foreign wheat and re-exports it"
 image: /covers/wn.jpg
@@ -17,8 +15,8 @@ icons: /avatars/smith.png
 {{< s v="80" >}} The merchant carrier imports foreign wheat and re-exports it.
 
 He contributes to the plentiful supply of the home market.
-    His direct purpose is not to sell wheat at home.
-    He will be willing to do so, even for much less money than in a foreign market, because he saves freight and insurance cost.
+- His direct purpose is not to sell wheat at home.
+- He will be willing to do so, even for much less money than in a foreign market, because he saves freight and insurance cost.
 
 The country becomes the storehouse for other countries through the carrying trade.
     Its people can very seldom be in want themselves.
@@ -40,9 +38,10 @@ The carrying trade was in effect banned on all occasions.
 {{< s v="82" >}} That system of laws connected with the bounty deserves no praise.
 
 Great Britain's improvement and prosperity was often ascribed to those laws.
-    In reality, it may easily be attributed to other causes.
+- In reality, it may easily be attributed to other causes.
+
 That security which British laws give to every man, that he shall enjoy the fruits of his own labour is alone sufficient to make any country flourish, despite the absurd regulations of commerce.
-    This security was perfected by the revolution about the same time the bounty was established.
+- This security was perfected by the revolution about the same time the bounty was established.
 
 The natural effort of every individual to better his own condition, when suffered to exert itself with freedom and security, is so powerful a principle that it is alone capable of:
 - carrying society to wealth and prosperity
@@ -55,11 +54,13 @@ In Great Britain, industry is perfectly secure, though it is far from being perf
 
 But it is freer than in any other part of Europe.
 
+
 {{< s v="83" >}} Great Britain's greatest prosperity was posterior to the laws connected with the bounty.
 
 However, we must not impute it to those laws.
+
 Prosperity was also posterior to the national debt.
-    But the national debt certainly was not the cause of the prosperity.
+- But the national debt certainly was not the cause of the prosperity.
 
 
 

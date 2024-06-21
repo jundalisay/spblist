@@ -8,11 +8,12 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-02b
+# aliases:
+#   /research/descartes/philosophy/part-4/section-02b
 ---
 
-### 40. How this third body was reduced in size, and left some space between itself and the fourth?
+
+### 40. How this third body was reduced in size, and left some space between itself and the fourth
 
 During the daytime and summer, the Sun rarefies half of `Body D` with its light and heat. 
 
@@ -30,14 +31,16 @@ Some, unable to ascend further due to blockages in these passages, hindered othe
 
 Meeting the particles of these bodies, they often changed their shapes, adhering to them or at least ceasing to be suitable for returning towards D.
 
-Consequently, after many days and years, a large part of body D was consumed, and no particles were found in it except those of the two species described earlier. Body E became dense and thick because almost all the particles that left D either made it denser by impacting its pores or, by colliding with the particles of body B, were changed and annexed to E, returning towards it and increasing its thickness. 
+Consequently, after many days and years, a large part of body D was consumed, and no particles were found in it except those of the two species described earlier. 
+
+Body E became dense and thick because almost all the particles that left D either made it denser by impacting its pores or, by colliding with the particles of body B, were changed and annexed to E, returning towards it and increasing its thickness. 
 
 Finally, a considerable space F was left between D and E, which could only be filled by the material from which body B was formed. The extremely fine particles of body B easily passed through the passages of body E, left vacant by others a little denser coming out of D.
 
 
 ### 41. How many cracks were formed in the fourth body.
 
-So, body E, although heavier and denser than F and possibly even D, remained suspended over D and F for a while due to its hardness.
+Body `E` is heavier and denser than `F` and possibly even `D`. But it remained suspended over `D` and `F` for a while due to its hardness.
 
 When it first formed, it had many passages excavated to the size of body D.
 
@@ -45,9 +48,14 @@ Its surface then bore the weight. And so it inevitably provided passage to the p
 
 Always following each other, these particles filled these passages. Later, with the decrease in the mass of body D, not all its particles occupied the passages of body E, and smaller particles from B took their place. 
 
-As these did not sufficiently fill the passages of body E, and a vacuum is not allowed in nature, celestial matter, which alone can fill all the tiny spaces around the particles of terrestrial bodies, rushed in. 
+ <!-- celestial matter, -->
+These did not sufficiently fill the passages of body `E`. Since a vacuum is not allowed in nature, the air-aether which alone can fill all the tiny spaces around the particles of terrestrial bodies, rushed in. 
 
-It changed their shapes and drove some of them apart so that, in doing so, others nearby became narrower. Consequently, with some parts of body E separated from each other, cracks formed, which over time grew larger. By the same reasoning, as we see cracks opening in the earth during the summer when it dries in the Sun and yawns wider the longer the dryness persists.
+It changed their shapes and drove some of them apart so that, in doing so, others nearby became narrower. 
+
+Consequently, with some parts of body E separated from each other, cracks formed, which over time grew larger. 
+
+By the same reasoning, as we see cracks opening in the earth during the summer when it dries in the Sun and yawns wider the longer the dryness persists.
 
 
 ### 42. How it is broken into various parts.
@@ -66,20 +74,33 @@ Likewise, the end 5 of fragment 4 5 fell somewhat earlier than the end u of frag
 `Body D` is fluid and less dense than the fragments of `Body E`. And so it occupies all the lower cavities left by these fragments and their cracks and passages, and also rises above them as much as it can.
 
 
-### 44. Hence, the origin of mountains, plains, seas, etc., on the Earth's surface.
+### 44. The origin of mountains, plains, seas, etc., on the Earth's surface.
 
-If we now consider that here, by body B and F, air is meant; by C, a very thick inner crust of the Earth from which metals originate; by D, water; and finally, by body E, the outer Earth composed of rocks, clay, sand, and mud: 
+- Body `B` and `F` are air.
+- Body `C` is the very thick inner crust of the Earth from which metals originate
+- Body `D` is water
+- Body `E` is the outer Earth composed of rocks, clay, sand, and mud.
 
-We can easily understand that above the fragments 2 3 and 6 7, raised by water, there are seas; above the other fragments inclined more gently and not covered by water, such as 8 9 and u, there are flat plains; and above the more erect ones, like 1 2 and 9 4 u, there are mountains.
 
-When these fragments fell due to their own gravity, their ends strongly colliding with each other, they split into many smaller fragments.
+Above the fragments 2 3 and 6 7, raised by water, are seas.
 
-These fragments formed rocks on some seashores, such as 1, and the multiple ridges of mountains, some very high like 4, others gentler like 9 and u, and even sea cliffs, such as 3 and 6.
+Above the other fragments inclined more gently and not covered by water, such as 8 9 and u, are flat plains.
+
+And above the more erect ones, like 1 2 and 9 4 u, are mountains.
+
+They split into many smaller fragments when they fall due to their own gravity and their ends strongly collide with each other.
+
+These fragments formed:
+- rocks on some seashores, such as 1
+- the multiple ridges of mountains, some very high like 4, others gentler like 9 and u
+- sea cliffs, such as 3 and 6.
 
 
 ### 45. The nature of the air can be derived from all this.
 
-It means that physical air is just a collection of earth-aether particles. They are so fine and separated from each other that they comply with any motion of the air-aether globules. 
+It means that physical air is just a collection of earth-aether particles. 
+
+They are so fine and separated from each other that they comply with any motion of the air-aether globules. 
 
 Therefore, it is a very rare, fluid, and transparent substance that can be composed of the minutiae of any shape.
 
@@ -88,13 +109,26 @@ Therefore, it is a very rare, fluid, and transparent substance that can be compo
 
 Air easily densifies with cold and rarefies with heat.
 
-As almost all its particles are flexible, like soft feathers or thin threads, the faster they move, the more they expand, requiring a larger spherical space for their motion. It is known from what has been said that in this context, heat refers to nothing other than the acceleration of motion in these particles, and cold to its decrease.
+As almost all its particles are flexible, like soft feathers or thin threads.
+
+The faster they move, the more they expand, requiring a larger spherical space for their motion.
+
+<!-- It is known from what has been said that  refers to nothing other than-->
+
+In this context:
+- heat is merely the acceleration of motion in these particles
+- cold is its decrease.
 
 
 ### 47. The violent compression of air in certain machines.
 
 Air, violently compressed in a vessel, possesses the force to rebound and immediately extend itself over a larger space. 
 
-Hence, machines are created that, using only the force of air, lift water upwards like fountains, and others that project projectiles with great force, similar to bows. The reason for this is that, when air is compressed in this way, each of its spherical particles does not have the space required for its motion alone; instead, neighboring particles enter this space.
+Hence, machines are created that, using only the force of air, lift water upwards like fountains, and others that project projectiles with great force, similar to bows.
 
-Meanwhile, the same heat or the same motion of these particles is preserved by the motion of celestial globules constantly flowing around them, causing them to strike each other with their extremities and displace each other. In this way, they collectively exert force to occupy a larger space.
+The reason for this is that, when air is compressed in this way, each of its spherical particles does not have the space required for its motion alone. Instead, neighboring particles enter this space.
+
+Meanwhile, the same heat or the same motion of these particles is preserved by the motion of the air-aether globules constantly flowing around them, causing them to strike each other with their extremities and displace each other. 
+
+In this way, they collectively exert force to occupy a larger space.
+
