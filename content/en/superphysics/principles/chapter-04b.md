@@ -196,14 +196,15 @@ This quali-math will make the most sense when you think of a spaceship using qua
 For example, `1 + 1 = 2` might be true for this universe, but it might not be true for a different universe where `1 + 1 = 1` or where the conception of two ideas automatically merges them into one idea. In such a universe, it is the mind that splits itself into different perception-units in order to create the idea of numbers. This is the opposite in our universe, where the perceiving entity is one, and the it is the observed entities that are multiples and discrete. 
 
 
-## The Double Colon 
+## The Double Colon as Mirror
 
 To account for this mind-splitting behavior, <!--  make ratios and relationality permanent, --> we propose a new notation using flexible colons instead of the rigid equals sign. The former represents the flexible nature of the universe as opposed to its strict rigidity as the latter.
 
 {{< img src="/graphics/physics/math.jpg" alt="Mathematics" >}}
 
-- The double colon is like a rigid equals sign
-- The single colon is like a flexible ratio
+- The single colon is like a flexible ratio. You can think of this as an unclear mirror
+- The double colon is like a rigid equals sign. This is a clearer mirror
+- The triple colon is a strict equality that involves the kinds of data. This is a perfect mirror. 
 
 
 {{< box >}}

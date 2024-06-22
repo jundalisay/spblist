@@ -42,9 +42,9 @@ According to Eastern social cycle theory, history repeats itself because humans 
 This interaction between the 2 forces creates a recurring pattern while their existence is in force, just as the 2 forces of the Sun and outer space create a tug-of-war for the Earth manifesting as its orbital pattern. 
 
 We will use the name Positive and Negative Forces. In this way:
-- the gravitation that keeps the Earth solid and whole is the Positive Force
+- the gravitation that keeps a star whole is the Positive Force
  <!-- to the sun is a Negative Force -->
-- the force that explodes planets is the Negative Force
+- the force that explodes the star as a supernova is the Negative Force
 
  <!-- from the  vastness of space is a 'Shiva-force' -->
 
@@ -72,7 +72,7 @@ All your individual experiences combined makes up your metaphysical self-organis
 
 When all the individual experiences of all the people (self-organisms) in a country are combined, the result is a larger metaphysical organism called a **society**. *
 
-> *An analogy is Firefox is a society with individual tabs, similar to but different from Chrome. 
+> *An analogy is Firefox as a society with individual tabs, similar to but different from Chrome. 
 
 
 This has its own soul which we call the '**soul of society**'. 
@@ -129,7 +129,18 @@ In the simplest terms:
 - a depression is a declining economy
 - a stagflation is a declining or non-growing economy with rising prices
 
-The Great Depression began as the "Roaring Twenties" which collapsed into a long recession. This had to be relieved by a World War as a reboot of the Western society-organism.
+The Great Depression began as the "Roaring Twenties" which collapsed into a long recession. This had to be relieved by a World War as a reboot of the Western society-organism*.
+
+{{< box >}}
+### Update June 2024*
+
+By actually living in the time of the 2008 Financial Crisis and the 2022 Ukraine and Gaza Wars, we get first hand experience of the patterns and **feelings** of both crisis. This makes us realize that both are the effects of the Negative Force being unchecked, causing it to gather steam until it explodes. The butterfly effect is the tiny spark that bursts or unleashes the built up Negativity, creating a perfect storm or reboot.   
+
+It is the Negative Force that causes the reboot since it is static, crude, and mindless. It started building up right after the end of WWII as the Cold War and international financial system where the latter burst in 2008 and the former is about to burst into WWIII. 
+
+The solution is the Positive Force which manifests as moneyless systems, constitutional virtues, Republican Federalism (as opposed to both wild democracy and authoritarianism), a world language easier than English, Cartesian Physics, Spinoza's pantheism, etc. 
+{{< /box >}}
+
 
 The ultimate cause of that depression was that the rich people from the 1920s wanted to be even richer. So they invented stock speculation (borrowing on margin) and imposed tariffs on imported goods. Likewise, Germany and Japan were already rich but wanted to be even richer. 
 
@@ -140,8 +151,11 @@ The problem is that Adam Smith said that societies have a natural level of produ
 
 This nothingness (no revenue to match the investment) manifests as a crash**. And that's exactly what happened inthe Great Crash of 1929.
 
-> **Update Jan 2024: This matches the crash of tech startups which were really just ideas, not matching what reality needed. This is the same principle behind the Dot Com bubble and bubbles in general. This is why Asian philosophies push for contentment and not materialism, and has allowed India and China to last for millennia, different from Western civilization that seems to end (i.e. Romans).
+{{< box >}}
+### Update Jan 2024
 
+This matches the crash of tech startups which were really just ideas, not matching what reality needed. This is the same principle behind the Dot Com bubble and bubbles in general. This is why Asian philosophies push for contentment and not materialism, and has allowed India and China to last for millennia, different from Western civilization that seems to end (i.e. Romans).
+{{< /box >}}
 
 {{< q a="Adam-Smith" c="The Wealth Of Nations Book 5" >}}
 In businesses which can only be transacted with money, that money can always be found. If they do not find it, their failure is caused by their unnecessary and excessive enterprise, not of their poverty. It is not because they are poor that their payments are irregular and uncertain, but because they are too eager to become excessively rich.
@@ -221,7 +235,7 @@ But such brain-drugs these do not exist.
 
 In the ancient past, Jewish prophets used metaphysics to make predictions about future events using their intuition, which allowed them to tap into their metaphysical society-organism. They would have an intuitional (aethereal) dream about a future event that might or might not happen. 
 
-The problem with the ancient method is that the dream of the future event exists solely in the metaphysical ~~dimension~~ domain. It might not cross over onto physical reality, leading to some predictions that do not come true.
+The problem with the ancient method is that the dream of the future event exists solely in the metaphysical domain. It might not cross over onto physical reality, leading to some predictions that do not come true.
 
 Our [prediction system](/social/cycles/predictions) provides a more scientific and realistic way of making predictions by plotting both the **metaphysical behavior** of each society-organism and the **actual physical events** that really happen. 
 
@@ -238,7 +252,7 @@ This process can be automated with machine learning to create a digital prophet,
 {{< youtube aBb6eqh5fsU >}}
 
 
-Western economists and policy makers have no idea of metaphysics (karma, dharma, varna, dialectics), so they do not know the root causes of economic crises, wars, and other negative events. This is why they are unable to provide real solutions. Rather, their solutions solve a problem but create new ones. 
+Western economists and policy makers have no idea of metaphysics (karma, dharma, varna, akasha), so they do not know the root causes of economic crises, wars, and other negative events. This is why they are unable to provide real solutions. Rather, their solutions solve a problem but create new ones. 
 - The problem of terrorism still exists.
 - Economic crises and inequality are still here.
 - North Korea is still nuclear.
@@ -247,10 +261,12 @@ Western economists and policy makers have no idea of metaphysics (karma, dharma,
 By tapping into Western metaphysics of David Hume, Adam Smith, Spinoza and Eastern metaphysics in Hinduism, Buddhism, Sikhism, Taoism, etc., the root causes of any event can be known and the best solutions can be put forward.
 
 
-## The Points-based Solution (Update 2019)
+{{< box >}}
+### Update 2019: The Points-based Solution
 
-For the coming crisis, Adam Smith clearly points to the invention of money and commercial paper instruments as the cause, as it allows value to be controlled by a few people which then starves the rest.
+For the coming crisis, Adam Smith clearly pointed to the invention of money and commercial paper instruments as the cause, as it allows value to be controlled by a few people which then starves the rest.
 
 The solution therefore is a system that allows both money and [points-based transactions](/social/economics/alternatives-to-money). In time, the system will gravitate towards points because of its lower cost. This is because the points-based system will piggyback on the existing telecoms system, allowing it to save on the overhead needed by banks.
 
 The points-based system is then based on [The Four Laws of Value](/social/economics/principles/intro/chapter-04).  With all human problems solved, the only problems that remain will be the problems of physics, and that's where our [Superphysics](/material/principles/) comes in.
+{{< /box >}}

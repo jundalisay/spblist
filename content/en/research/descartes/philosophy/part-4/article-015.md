@@ -98,17 +98,31 @@ The celestial globules that transmit rays of light are like these lead balls.
 
 ### 18. The Second Effect of Air-Aether Motion: Separate One Body From Another And Purge Liquids
 
-When the particles of terrestrial bodies, especially liquids, are confusedly joined together, the air-aether globules tend to separate some from others and distinguish them into various bodies. 
+When the particles of terrestrial bodies, especially liquids, are confusedly joined together, the air-aether globules tend to:
+- separate some from others
+- distinguish them into various bodies
+- mix others more accurately*
+  - They arranging them in such a way that each droplet of the liquid formed from them is entirely similar to all other droplets of the same liquid.
 
-They also tend to mix others more accurately, arranging them in such a way that each droplet of the liquid formed from them is entirely similar to all other droplets of the same liquid.
+> *Superhysics Note: This is currently attributed to centrifugal and centripetal forces. But here, Descartes unifies them as properties of the 2nd Element in relation to identity, freedom, and confinement
+
 
 When air-aether globules move through the passages of liquid terrestrial bodies, they constantly displace the earth-aether particles that come in their way.
 
 The earth-aether particles become arranged among the others so that they no longer oppose the motions of each other. If they cannot be arranged in this way, they will be separated from the rest.
 
-Thus, we observe that from dregs, certain liquids, not only upward and downward (which could be attributed to gravity and levity) but also towards the sides of the vessel, are expelled, and the wine subsequently clarified, although it still consists of various particles, appears transparent and no denser at the bottom than at the top. 
+Thus, we observe that from dregs, certain liquids are expelled:
+- upward
+  - This is attributed to levity
+- downward
+  - This is attributed to gravity
+- the sides of the vessel
 
-The same should be assumed for other pure liquids.
+The wine subsequently becomes clarified, although it still consists of various particles. It appears transparent and no denser at the bottom than at the top. 
+
+The same should be assumed for other pure liquids.*
+
+
 
 
 
