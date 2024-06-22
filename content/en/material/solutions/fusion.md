@@ -48,15 +48,16 @@ And so they make their reactors bigger and bigger. These merely create large rea
 For example, the world's largest tokamak reactor in Japan has been under development since the 1970's, yet has never produced sustained fusion. 
 
 
-The main problem with magnetism is that it is on the same layer as the heat that it is trying to confine. It is like the central bank trying to solve inflation by raising interest rates, only to cause a recession.  
+The main problem with magnetism is that it is on the same Element or Layer as the heat that it is trying to confine. It is like the central bank trying to solve inflation by raising interest rates, only to cause a recession.  
 
 
 ## Fusion Solution: Anti-Gravity Via Spacetime Vortices
 
-The proper solution is to think one level higher than the problem. 
+The proper solution is to think one level, or one Element, higher than the problem. 
 
-The proper confining mechanism, as mentioned earlier, is through gravity via spacetime vortices. This is because spacetime is naturally superior to the Radiant or Electromagnetic Layer (heat, light, electricity). (The true economic solution to price inflation is to use barter, which is on a different level from money).
+The proper confining mechanism, as mentioned earlier, is through gravity via spacetime vortices. This is because spacetime is naturally superior to the Radiant or Electromagnetic Layer or Element* (heat, light, electricity). (The true economic solution to price inflation is to use barter, which is on a different level from money).
 
+> *Descartes calls Electromagnetism as the 1st Element
 
 
 {{< img src="/graphics/physics/layers.jpg" cap="Superphysics uses the five layers of aether, air, fire, water, and earth of the Greeks and Asians as aether, spatial, radiant, transformative, and material, or 水, 木, 火, 土, 金, respectively" alt="5 Layers of Superphysics" >}}
@@ -114,6 +115,7 @@ An alternative way is to use the qosts directly to propel a mass. In the video b
 {{< img src="/graphics/physics/bob.jpg" alt="Bob Lazar UFO" >}}
 
 This is used by Bob Lazar's UFO design which utilizes 'gravity amplifiers' to emit gravity 'waves' through the ship's bottom. This makes the ship move top-forward towards its destination similar to how the levitator moves in a 'top-up' direction instead of a sideways direction. This is in contrast to the passive version where monks can travel sideways by blocking/unblocking the qosts that pass through instead of funneling them.    
+
 
 {{< box >}}
 ### Note for Future Generations
@@ -261,7 +263,7 @@ So the steps towards sustainable fusion are:
 
 We have done baby steps wtih Step 1 by making a 1 kilogram mass lighter by 2 grams, and a 300 gram mass lighter by 1 gram. But more specialized equipment, which we do not have, is needed to reduce the weight more.
 
-So for now, we switch to more practical and useful Cartesian experiments, such as a [top-down fire setup](https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac/?trackingId=gS8C5O58Ru6A40bi5D2mPA%3D%3D)
+So for now, we switch to more practical and useful Cartesian experiments, such as a [top-down fire setup](https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac/?trackingId=gS8C5O58Ru6A40bi5D2mPA%3D%3D) which might be useful for people who are affected by high gas prices from the War in Ukraine and Gaza. 
 
 
 
