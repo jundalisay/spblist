@@ -51,7 +51,12 @@ No, they are not.
 
 Whatever we observe in this physical world is made of the five fundamental factors (solid, liquid, luminous, aerial and ethereal), created in such a way that it automatically functions. Its inherent capacity for action is derived from this physical world under the inspiration of the Supreme Consciousness.
 
-There may be some entities that do not require food and drink. Any entity composed of solid and liquid factors will certainly require food and drink, because food is mainly composed of the solid factor, and drink is mainly composed of the liquid factor. But if any entity is composed only of the other three factors – luminous, aerial, and ethereal – without any solid or liquid, then that entity is called a “luminous body”.
+There may be some entities that do not require food and drink. 
+
+Any entity composed of solid and liquid factors will certainly require food and drink, because food is mainly composed of the solid factor, and drink is mainly composed of the liquid factor. 
+
+But if any entity is composed only of the other three factors – luminous, aerial, and ethereal – without any solid or liquid, then that entity is called a “luminous body”.
+
 By means of nerve cells, the mind operates the physical body: by creating vibrations such as smell, form, touch, taste, etc., the nerve cells either receive tanmátras (inferential essences) or projects them externally. But luminous bodies have no nerves, because nerve cells and nerve fibres are all physical; thus they cannot function properly. Only, as in auto-suggestion, they may create a vibration within, and experience some type of feeling.
 
 These luminous bodies are not ghosts or apparitions; they have nothing to do with them. Neither are they related to auto-suggestion or  outer-suggestion. Under some circumstances, if someone happens to see this kind of luminous body, one may think one is seeing a ghost. But actually there is no ghost at all – it is only a luminous body. It is not possible to see luminous bodies in broad daylight; it may be possible during the darkness of night, but then not everywhere.

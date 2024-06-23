@@ -13,9 +13,12 @@ icon: "/icons/mach.jpg"
 
 <!-- ## Chapter 22=  -->
 
-The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince. 
+The choice of staff is very important to a prince. They are good or not according to his discrimination. 
 
-The first opinion which one forms of a prince, and of his capability, is by observing the people he has around him. When they are capable and faithful, he may always be considered wise because he has known how to recognize the capable and to keep them faithful. But when they are otherwise, one cannot form a good opinion of him, for the prime error which he made was in choosing them. 
+We can get an idea of a prince's capability by observing the people he has around him. 
+
+When they are capable and faithful, he may always be considered wise because he has known how to recognize the capable and to keep them faithful. 
+- But when they are otherwise, we cannot form a good opinion of him, for the prime error which he made was in choosing them. 
 
 Antonio da Venafro was the minister of Pandolfo Petrucci, prince of Siena. Pandolfo was very clever to have Venafro on his staff. 
 
@@ -30,19 +33,31 @@ There are three classes of minds:
 
 
 Pandolfo was both a first and second class mind. Whenever one has sufficient judgment to know good and bad, <!--  when it is said and done, although he himself may not have the initiative, --> he can recognize the good and the bad in his staff. 
+- The good he can praise.
+- The bad he can correct. 
 
-The one he can praise and the other correct. Thus the person cannot hope to deceive him, and is kept honest.
+Thus, the person cannot hope to deceive him, and is kept honest.
 
-But to enable a prince to form an opinion of his staff, there is one test which never fails. When you see someone thinking more of his own interests than of yours, and seeking inwardly his own profit in everything, such a man will never make a good servant.
+There is one test which never fails to enable a prince to form an opinion of his staff.
 
-Nor will you ever be able to trust him, because he who has the state of another in his hands ought never to think of himself. 
+**A man will never make a good servant if you see him:
+- thinking more of his own interests than of yours, and
+- seeking inwardly his own profit in everything**
 
-He should always think of his prince and never pay any attention to matters in which the prince is not concerned.
+You will never be able to trust him. This is because he who has the state of another in his hands should never think of himself. He should:
+- always think of his prince
+- never pay any attention to matters in which the prince is not concerned.
 
-On the other hand, to keep his servant honest the prince ought to reward him, honouring him, enriching him, doing him kindnesses, sharing the honours and concerns with him. At the same time let him see that
-he cannot stand alone, so that many honours may not make him desire more, many riches make him wish for more, and that many problems may make him afraid to take chances. 
+On the other hand, to keep his servant honest, the prince should:
+- reward him
+- honour him
+- enrich him
+- do him kindnesses
+- share the honours and concerns with him. 
 
-When, therefore, servants, and princes towards servants, are thus disposed, they can trust each other. But when it is otherwise, the end will always be bad for either one or the other.
+At the same time let him see that he cannot stand alone, so that many honours may not make him desire more, many riches make him wish for more, and that many problems may make him afraid to take chances. 
+
+When, therefore, servants, and princes towards servants, are thus disposed, they can trust each other.  But when it is otherwise, the end will always be bad for either one or the other.
 
 
 ## Chapter 23: How Flatterers Should Be Avoided

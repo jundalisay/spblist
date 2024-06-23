@@ -25,7 +25,7 @@ In the end, he will have to unnecessarily exploit his people, tax them, and do e
 
 Thus, with his generosity, having offended many and rewarded few, he is affected by the very first trouble. Recognizing this himself, and wishing to draw back from it, he runs at once into the criticism of being mean.
 
-Therefore, a prince, not being able to exercise this virtue of generosity in such a way that it is recognized, except to his cost, if he is wise, ought not to fear the reputation of being mean. In time he will come to be highly regarded, seeing that with his economy his revenues are enough, that he can defend himself against all attacks, and is able to carry out projects without placing a heavy load on his people. 
+Therefore, a prince, not being able to exercise this virtue of generosity in such a way that it is recognized, except to his cost, if he is wise, should not fear the reputation of being mean. In time he will come to be highly regarded, seeing that with his economy his revenues are enough, that he can defend himself against all attacks, and is able to carry out projects without placing a heavy load on his people. 
 
 Thus he exercises generosity towards all from whom he does not take, who are many, and meanness towards those to whom he does not give, who are few.
 

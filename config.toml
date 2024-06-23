@@ -104,14 +104,14 @@ paginate = 12
     [languages.en.params.tricon2]
       heading = "The Soul of the Physical Universe"
       title = "Material Superphysics"
-      sub = "Based on Descartes and the five layers of the ancient Greek, Hindus, and Chinese"
+      sub = "Based on Descartes and the Five Elements of the Ancient Greeks, Hindus, and Chinese"
       youtube = "3l9J6tH4iD0"
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.en.params.tricon2.items.a]
       url = "/material/principles/intro/chapter-01"
       img= "/graphics/physics/aetherdrag.jpg"
-      title = "The Five Layers of Superphysics"
+      title = "The Five Layers or Elements of Superphysics"
       sub = "The Material, Convertible, Radiant, Spatial, and Aethereal"
     [languages.en.params.tricon2.items.b]
       url = "/material/fallacies/general-relativity/"

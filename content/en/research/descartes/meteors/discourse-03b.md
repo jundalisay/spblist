@@ -23,3 +23,6 @@ Following this, it must be considered that when the heat of the air is great eno
 
 Thus, the first salt parts, scattered here and there on this surface, create several small pits or curves; then the subsequent parts, finding themselves on the slopes of these pits, roll and slide towards the bottom, where they join with the first ones. It must be particularly noted here that wherever they come from, they must lie precisely side by side with these first ones, as you see around E, at least the second ones, and often also the third ones, because by this means they descend somewhat lower than they could if they remained in any other position, like those seen around F, G, or H. The movement of the heat, which always slightly agitates this surface, helps arrange them in this way.
 
+
+
+

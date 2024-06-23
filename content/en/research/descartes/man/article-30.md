@@ -80,15 +80,21 @@ The seat of memory is in the internal parts of the brain, marked B. How are idea
 
 After the spirits that emanate from `gland H` have received the impression of an idea there, they pass through points 2, 4, 6, and similar ones, into the pores found between the filaments from which that part of the brain BB is composed. 
 
-These spirits have the power to expand the spaces to some extent, and even to fold and arrange the filaments through which they pass, according to the various ways in which they move, and the various openings of the tubes through which they pass: so that they also imprint shapes similar to the shapes of objects there. 
+These spirits have the power to"
+- expand the spaces to some extent
+- fold and arrange the filaments through which they pass, according to:
+  - the various ways in which they move, and
+  - the various openings of the tubes through which they pass: so that they also imprint shapes similar to the shapes of objects there.
 
-However, they are not impressed there with such ease or perfection at first as they are on gland H. 
+However, they are not impressed there with such ease or perfection at first as they are on gland `H`. 
 
-But gradually, better and more accurately: to the extent that the action of the spirits is either stronger, longer-lasting, or more frequently repeated. 
+But gradually, better and more accurately: to the extent that the action of the spirits is either stronger, longer-lasting, or more frequently repeated.
 
-This is why these shapes are not so easily erased, but remain there. Through them, the ideas that were once impressed on that gland can be formed there again long after, even in the absence of the objects of Figure XXXV, of which they are the likenesses.
+This is why these shapes are not so easily erased, but remain there. 
 
-In this matter consists memory. 
+Through them, the ideas that were once impressed on that gland can be formed there again long after, even in the absence of the objects of Figure XXXV, of which they are the likenesses.
+
+In this matter consists memory.
 
 For example, when the action of object `ABC` more widely opens tubes 2, 4, 6, 8, it is the cause that spirits enter them in greater abundance than they could without this aid. 
 
