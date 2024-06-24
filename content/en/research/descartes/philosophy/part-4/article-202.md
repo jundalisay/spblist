@@ -90,9 +90,9 @@ In the same way, I have written about the character and causes of the insensible
 <!-- I  so from considering the sensible effects and parts of ,  -->
 
 
-{{< s v="204" >}} Touching the things which our senses do not perceive, it is sufficient to explain how they can be, [and that this is all that Aristotle has essayed].
+### 204. Touching the things which our senses do not perceive, it is sufficient to explain how they can be, [and that this is all that Aristotle has essayed].
 
-But here some one will perhaps reply, that although 
+<!-- But here some one will perhaps reply, that although  -->
 
 I have supposed causes which could produce all natural objects. But we should not conclude that they were produced by these causes.
 
@@ -105,11 +105,18 @@ Likewise, the Supreme Maker of things has an infinity of diverse means at his di
   <!-- by each of which he could have made all the things of this world to appear as we see them, without it being possible for  -->
 
 
-I most freely concede this. 
+<!-- I most freely concede this. -->
 
-I believe that I have done all that was required, if the causes I have assigned are such that their effects accurately correspond to all the phenomena of nature, without determining whether it is by these or by others that they are actually produced.
+I have explained all the causes that produce effects that accurately correspond to all the phenomena of nature. But I did not determine which of those causes actually produce specific phenomena. 
 
-And it will be sufficient for the use of life to know the causes thus imagined, for medicine, mechanics, and in general all the arts to which the knowledge of physics is of service, have for their end only those effects that are sensible, and that are accordingly to be reckoned among the phenomena of nature. 
+<!-- I believe that I have done all that was required, if the causes I have assigned are such that their effects accurately correspond to all the phenomena of nature, without determining whether it is by these or by others that they are actually produced. -->
+
+And it will be sufficient for the use of life to know such causes for:
+- medicine
+- mechanics
+- all the arts which physics applies to and which have sensible effects and phenomena of nature
+
+ <!-- to which the knowledge of physics is of service, have for their end only those effects that are sensible, and that are accordingly to be reckoned among the phenomena of nature.  -->
 
 [Footnote: "have for their end only to apply certain sensible bodies to each other in such a way that, in the course of natural causes, certain sensible effects may be produced; and we will be able to accomplish this quite as well by considering the series of certain causes thus imagined, although false, as if they were the true, since this series is supposed similar as far as regards sensible effects."-French.]
 
@@ -121,7 +128,7 @@ In Book 1 Chapter 7 of Meteorologies, Aristotle adduces sufficient reasons and d
  <!-- them, if he only shows that they may be such as he explains them. [Footnote: words in Greek] -->
 
 
-{{< s v="205" >}} There is a moral certainty that all the things are such as has been here shown they may be.
+### 205. There is a moral certainty that all the things are such as has been here shown they may be.
 
 There are 2 kinds of certitude:
 
@@ -155,7 +162,7 @@ The phenomena regarding the magnet, fire, and the fabric of the whole world, are
 <!-- though they deemed that I had taken them up at random and without grounds, will yet perhaps acknowledge that it could hardly happen that so many things should cohere if these principles were false. -->
 
 
-{{< s v="206" >}} We possess even more than a moral certainty of it.
+### 206. We possess even more than a moral certainty of it.
 
 There are some, even among natural, things which we judge to be absolutely certain. [Absolute certainty arises when we judge that it is impossible a thing can be otherwise than as we think it].
 

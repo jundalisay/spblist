@@ -12,25 +12,55 @@ icon: /icons/descartes.png
 
 
 
-The rainbow is such a remarkable marvel of nature, and its cause has been so curiously sought after by great minds at all times, and yet so little known, that I could not choose a more suitable subject to show how, by the method I use, one can come to knowledge that those whose writings we have had have not had.
+<!-- The rainbow is such a remarkable marvel of nature, and its cause has been so curiously sought after by great minds at all times, and yet so little known, that I could not choose a more suitable subject to show how, by the method I use, one can come to knowledge that those whose writings we have had have not had. -->
 
-First, having considered that this arc can not only appear in the sky, but also in the air near us whenever and wherever there are many drops of water illuminated by the sun, as experience shows in some fountains: it was easy for me to judge that it proceeds only from the way that the rays of light act against these drops and turn them towards our eyes.
+Rainbow can appear in:
+- the sky
+- in the air near us whenever and wherever there are many drops of water illuminated by the sun
+  - An example is in near fountains
 
-Then, knowing that these drops are round, as has been proven above, and seeing that to be larger or smaller they do not make this arc appear in any other way: I decided to make a very large one, in order to be able to examine it better. 
+It is caused by the way that the rays of light act against these drops and turn them towards our eyes.
+
+These drops are round. They create rainbows whether these droplets are large or small.
+
+They do not make this arc appear in any other way: I decided to make a very large one, in order to be able to examine it better. 
 
 Having filled a large glass sphere, which was completely round and very transparent, with water for this purpose, I found that the sun coming, for example, from the part of the sky marked AFZ, and my eye being at point E, when I placed this sphere in the place BCD, its part D appeared to me to be all red, and incomparably more brilliant than the rest.
 
-And whether I brought it closer or moved it back, and whether I placed it to the right or to the left, or even turned it in a circle around my head, provided that the line DE always made an angle of about 42 degrees with the line EM, which must be imagined to extend from the center of the eye to that of the sun, this part D always appeared equally red: But that as soon as I made this angle DEM even a little larger, this redness disappeared; and if I made it a little smaller, it did not disappear all at once, but first divided as if into two parts, less brilliant, in which we could see yellow, blue, and other colors.
+And whether I brought it closer or moved it back, and whether I placed it to the right or to the left, or even turned it in a circle around my head, provided that the line `DE` always made an angle of about 42 degrees with the line `EM`, which must be imagined to extend from the center of the eye to that of the sun, this part D always appeared equally red: But that as soon as I made this angle `DEM` even a little larger, this redness disappeared.
+
+If I made it a little smaller, it did not disappear all at once, but first divided as if into two parts, less brilliant, in which we could see yellow, blue, and other colors.
 
 Then looking also towards the place of this sphere which is marked K, I perceived that making the angle KEM about 52 degrees, this part K also appeared red, but not as bright as D: And that making it a little larger, other weaker colors appeared there; but that making it a little smaller or much larger, none appeared anymore. 
 
-From which I clearly knew that all the air which is towards M being filled with such spheres, or in their place with drops of water, there must appear a very red and very bright point in each of those of these drops whose lines drawn towards the eye E make an angle of about 42 degrees with EM, like I suppose those that are marked R; And that these points being looked at all together, without otherwise noting the place where they are except by the angle under which they are seen, must appear as a continuous circle of red color: And that there must be all the same points in those that are marked S and T, whose lines drawn towards E are angles a little sharper with EM, which compose circles of weaker colors. And that this is what the first and main rainbow consists of.
+From which I clearly knew that all the air which is towards M being filled with such spheres, or in their place with drops of water, there must appear a very red and very bright point in each of those of these drops whose lines drawn towards the eye E make an angle of about 42 degrees with EM, like I suppose those that are marked R.
+
+These points being looked at all together, without otherwise noting the place where they are except by the angle under which they are seen, must appear as a continuous circle of red color: And that there must be all the same points in those that are marked S and T, whose lines drawn towards E are angles a little sharper with EM, which compose circles of weaker colors. 
+
+This is what the first and main rainbow consists of.
 
 Then again that the angle MEX being 52 degrees, a red circle must appear in the drops marked X, And other circles of weaker colors in the drops marked Y. And that this is what the second and less main rainbow consists of. And finally that in all the other drops marked V no colors should appear.
 
 Examining after that more particularly in the sphere BCD what made the part D appear red, I found that it was the rays of the sun which coming from A towards B curved into entering the water at point B, and went towards C, from where they reflected towards D, and there bending again on leaving the water, tended towards E: for as soon as I placed an opaque or dark body somewhere on the lines AB, BC, CD, or DE, this red color disappeared. And even though I covered the whole sphere except for the two points B and D, and placed dark bodies everywhere else, provided that nothing prevented the action of the rays ABCDE, it still appeared.
 
 Then also looking for what was the cause of the red that appeared towards K, I found that it was the rays that came from F towards G, where they curved towards H, and in H reflected towards I, and in I reflected again towards K, then finally curved at point K, and tended towards E. So that the first rainbow is caused by rays that reach the eye after two refractions and one reflection, and the second by other rays that only reach it after two refractions and two reflections; which prevents it from appearing as much as the first.
+
+
+I have also been told that a third rainbow has sometimes been seen above the two ordinary ones; but which was much weaker, and about as far from the second as the second was from the first. Which I do not judge could have happened, unless there were hailstones, very round, and very transparent, mixed with the rain, in which the refraction being notably greater than in water, the outer rainbow should have been much larger there, and thus appear above the other. And for the inner one which by the same reason should have been smaller than the inner one of the rain, it may be that it will not have been noticed, because of the great luster of this one: or that their ends having joined, they will not have been counted both for one.
+
+But for one whose colors will have been arranged differently than usual.
+
+And this reminds me of an invention to make signs appear in the sky, which could cause great admiration to those who would not know the reasons.
+
+Rainbow can be created by means of a fountain.
+
+As if the water that comes out of the small holes ABC, jumping high enough, spreads in the air in all directions towards R, and the sun is towards Z, so that ZEM being a straight line the angle MER can be about 42 degrees, the eye E will not fail to see the iris towards R, quite similar to the one that appears in the sky. To which it must now be added that there are oils, spirits of wine, and other liquids, in which refraction is significantly greater or smaller than in ordinary water, and which are no less clear and transparent. 
+
+So that one could arrange several fountains in order; in which there are various of these liquids, one would see by their means a whole large part of the sky full of the colors of the iris: namely by making the liquids, whose refraction would be the greatest, be the closest to the spectators; and that they do not rise so high that they prevent the view of those that would be behind.
+
+Then because by closing part of the holes ABC one can make disappear such part of the iris RR as one wants, without removing the others, it is easy to understand that in the same way, opening and closing the holes of these various fountains at the right time, we can make what appears colored have the figure of a cross, or a column, or some other such thing, which gives rise to admiration. 
+
+But I admit that it would take skill and expense, in order to proportion these fountains, and to make the liquids jump so high that these figures could be seen from afar by a whole people, without the artifice being discovered.
 
 
 
@@ -99,3 +129,5 @@ I have also been told that a third rainbow has sometimes been seen above the two
 But for one whose colors will have been arranged differently than usual.
 
 And this reminds me of an invention to make signs appear in the sky, which could cause great admiration to those who would not know the reasons. I suppose you already know how to show the rainbow by means of a fountain. As if the water that comes out of the small holes ABC, jumping high enough, spreads in the air in all directions towards R, and the sun is towards Z, so that ZEM being a straight line the angle MER can be about 42 degrees, the eye E will not fail to see the iris towards R, quite similar to the one that appears in the sky. To which it must now be added that there are oils, spirits of wine, and other liquids, in which refraction is significantly greater or smaller than in ordinary water, and which are no less clear and transparent. So that one could arrange several fountains in order; in which there are various of these liquids, one would see by their means a whole large part of the sky full of the colors of the iris: namely by making the liquids, whose refraction would be the greatest, be the closest to the spectators; and that they do not rise so high that they prevent the view of those that would be behind. Then because by closing part of the holes ABC one can make disappear such part of the iris RR as one wants, without removing the others, it is easy to understand that in the same way, opening and closing the holes of these various fountains at the right time, we can make what appears colored have the figure of a cross, or a column, or some other such thing, which gives rise to admiration. But I admit that it would take skill and expense, in order to proportion these fountains, and to make the liquids jump so high that these figures could be seen from afar by a whole people, without the artifice being discovered.
+
+

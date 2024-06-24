@@ -32,7 +32,6 @@ But in the Metaphysical Doman, time is dominant because subjects, as experiences
 
 This is why we say time gets more malleable the higher the layer, while space becomes less important. 
 
-
  
 
 ## Physical Time and Metaphysical Time
@@ -45,7 +44,7 @@ Physical Time in Superphysics also includes Newtonian Time and the Radioactive D
 
 These 'times' follow the hierarchy of the 5 Layers. This means that:
 - Metaphysical time is superior and the most important of all the times as it dictates our common actions
-- Radiant or Electromagnetic time and Radioactive Time is important for precision measurements. 
+- Radiant (Electromagnetic) time and Radioactive Time are important for precision measurements. 
 - Material time is the most common time, as the one seen in clocks.  
 
 
@@ -66,16 +65,22 @@ Convertible | Radioactivity (Weak force) | Feynman Diagrams | Re |
 Material | Atomic bond (Strong force) | Material | Do | Totally Absolute or Independent of Viewpoint -->
 
 
-## Fixing Einstein's Spacetime
+## Fixing Einstein's (Minkowski) Spacetime
 
-Current Physics has is stuck because Einstein used light as a measuring rod for all of spacetime. The problem is that light is part of the Radiant Layer which is naturally inferior to the Spactial layer which spacetime is a part of. 
+Currently, Physics has is stuck because Einstein used light as a measuring rod for all of spacetime. The problem is that light is part of the Radiant Layer which is naturally inferior to the Spatial layer which spacetime is a part of. 
 
-So Einstein used the inferior to judge the superior. The effect of this is that the real nature of the spacetime is not revealed. This prevents and development of spacetime technologies such as:
+**So Einstein used the inferior to judge the superior.** 
+
+The effect of this is that the real nature of the spacetime is not revealed. This prevents and development of spacetime technologies such as:
 - anti-gravity
 - teleportation
 - time travel 
 - speeding up or freezing of photons via the aether
 
+Instead of Minkowski spacetime, we use the Cartsian View. This splits up reality into individual slices separated by Planck time for timespan and Planck length for distance.
+
+{{< img src="/graphics/physics/In the above example, a  man walking from southwest to northeast is represented by a dot. The Cartesian View splits this movement into different slices of reality where each slice is an instance of perception. ">}}
+ 
 
 
 

@@ -63,25 +63,35 @@ It might be that to describe the universe, we have to employ different theories 
 Whether M-theory exists as a single formulation or only as a network, we do know some of its properties. First, M-theory has eleven spacetime dimensions, not ten. String theorists had long suspected that the prediction of ten dimensions might have to be adjusted, and recent work
 showed that one dimension had indeed been overlooked.
 
-Also, M-theory can contain not just vibrating strings but also point particles, two-dimensional membranes, three-dimensional blobs, and other objects that are more difficult to picture and occupy even more dimensions of space, up to nine. These objects are called p-branes (where p runs from zero to nine).
+Also, M-theory can contain:
+- vibrating strings
+- point particles
+- two-dimensional membranes
+- three-dimensional blobs
+- other objects that are more difficult to picture and occupy even more dimensions of space, up to nine. 
+  - These objects are called p-branes (where p runs from zero to nine).
 
-What about the enormous number of ways to curl up the tiny dimensions? In M-theory those extra space dimensions cannot be curled up in just any way. The mathematics of the theory restricts the manner in which the dimensions of the internal space can be curled. 
+What about the enormous number of ways to curl up the tiny dimensions? 
+
+In M-theory, those extra space dimensions cannot be curled up in just any way. The mathematics of the theory restricts the manner in which the dimensions of the internal space can be curled.
 
 The exact shape of the internal space determines both the values of physical constants, such as the charge of the electron, and the nature of the interactions between elementary particles. 
 
-In other words, it determines the apparent laws of nature. We say “apparent” because we mean the laws that we observe in our universe—the laws of the four forces, and the parameters such as mass and charge that characterize the elementary particles.
+In other words, it determines the apparent laws of nature. 
+
+We say “apparent” because we mean the laws that we observe in our universe—the laws of the four forces, and the parameters such as mass and charge that characterize the elementary particles.
 
 But the more fundamental laws are those of M-theory.
 
-The laws of M-theory therefore allow for different universes with different apparent laws, depending on how the internal space is curled. Mtheory has solutions that allow for many different internal spaces, perhaps as many as 10500, which means it allows for 10500 different
-universes, each with its own laws. To get an idea how many that is, think about this: If some being could analyze the laws predicted for each
-of those universes in just one millisecond and had started working on it at the big bang, at present that being would have studied just 1020 of
-them. 
+The laws of M-theory therefore allow for different universes with different apparent laws, depending on how the internal space is curled. 
+
+M-theory has solutions that allow for many different internal spaces, perhaps as many as 10,500, which means it allows for 10500 different universes, each with its own laws. 
+
+To get an idea how many that is, think about this: If some being could analyze the laws predicted for each of those universes in just one millisecond and had started working on it at the big bang, at present that being would have studied just 1020 of them.
 
 And that’s without coffee breaks.
 
-Centuries ago Newton showed that mathematical equations could provide a startlingly accurate description of the way objects interact, both
-on earth and in the heavens.
+Centuries ago Newton showed that mathematical equations could provide a startlingly accurate description of the way objects interact, both on earth and in the heavens.
 
 Scientists were led to believe that the future of the entire universe could be laid out if only we knew the proper theory and had enough computing power. 
 

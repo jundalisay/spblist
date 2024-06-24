@@ -62,9 +62,9 @@ But over the centuries much of Ionian science would be forgotten—only to be re
 
 According to legend, the first mathematical formulation of a law of nature dates back to an Ionian named Pythagoras (ca. 580 BC–ca. 490 BC), famous for the Pythagorean theorem: the square of the hypotenuse (longest side) of a right triangle equals the sum of the squares of the other 2 sides. 
 
-Pythagoras discovered the numerical relationship between the length of the strings used in musical instruments and the harmonic combinations of the sounds. 
+Pythagoras discovered the numerical relationship between the length of the strings used in musical instruments and the harmonic combinations of the sounds.
 
-In today’s language we would describe that relationship by saying that the frequency—the number of vibrations per second—of a string vibrating under fixed tension is inversely proportional to the length of the string. 
+In today’s language, we would describe that relationship by saying that the frequency—the number of vibrations per second—of a string vibrating under fixed tension is inversely proportional to the length of the string. 
 
 This explains why bass guitars must have longer strings than ordinary guitars. 
 
@@ -72,19 +72,19 @@ Pythagoras probably did not really discover this nor the Pythagorean theorem. Bu
 
 Apart from the Pythagorean law of strings, the only physical laws known correctly to the ancients were three laws detailed by Archimedes (ca. 287 BC–ca. 212 BC), by far the most eminent physicist of antiquity. 
 
-- The law of the lever explains that small forces can lift large weights because the lever amplifies a force according to the ratio of the distances from the lever’s fulcrum.
-- The law of buoyancy states that any object immersed in a fluid will experience an upward force equal to the weight of the displaced fluid. 
-- The law of reflection asserts that the angle between a beam of light and a mirror is equal to the angle between the mirror and the reflected beam. 
+1. The law of the lever explains that small forces can lift large weights because the lever amplifies a force according to the ratio of the distances from the lever’s fulcrum.
+2. The law of buoyancy states that any object immersed in a fluid will experience an upward force equal to the weight of the displaced fluid.
+3. The law of reflection asserts that the angle between a beam of light and a mirror is equal to the angle between the mirror and the reflected beam.
 
 But Archimedes did not call them laws. Nor did he explain them with reference to observation and measurement. 
 
 Instead, he treated them as if they were purely mathematical theorems, in an axiomatic system much like the one Euclid created for geometry.
 
-As the Ionian influence spread, there appeared others who saw that the universe possesses an internal order, one that could be understood through observation and reason. 
+As the Ionian influence spread, there appeared others who saw that the universe possesses an internal order, one that could be understood through observation and reason.
 
 Anaximander (ca. 610 BC–ca. 546 BC) was a friend and possibly a student of Thales. He argued that since human infants are helpless at birth, if the first human had somehow appeared on earth as an infant, it would not have survived.
 
-In what may have been humanity’s first inkling of evolution, people, Anaximander reasoned, must therefore have evolved from other animals whose young are hardier. 
+In what may have been humanity’s first inkling of evolution, people, Anaximander reasoned, must therefore have evolved from other animals whose young are hardier.
 
 In Sicily, Empedocles (ca. 490 BC–ca. 430 BC) observed the use of an instrument called a clepsydra.
 
@@ -96,10 +96,8 @@ Around the same time, Democritus (ca 460 BC–ca. 370 BC), from an Ionian colony
 
 He argued that you should not be able to continue the process indefinitely. 
 
-Instead, he postulated that everything, including all living beings, is made of fundamental particles that cannot be cut or broken into
-parts. He named these ultimate particles atoms, from the Greek adjective meaning “uncuttable.”
+Instead, he postulated that everything, including all living beings, is made of fundamental particles that cannot be cut or broken into parts. He named these ultimate particles atoms, from the Greek adjective meaning “uncuttable.”
 
 Democritus believed that every material phenomenon is a product of the collision of atoms. In his view, dubbed atomism, all atoms move around in space, and, unless disturbed, move forward indefinitely. 
 
 Today, that idea is called the law of inertia.
-

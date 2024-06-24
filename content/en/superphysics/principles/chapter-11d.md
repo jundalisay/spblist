@@ -13,6 +13,8 @@ icon: /icons/sp.png
 ---
 
 
+> This will be in the appendix instead
+
 While going through Newton's Principia, Spninoza's Ethics, and Euclid's Elements, we found an arrangement of chapters that turned out to be commmon among mathematicians. 
 
 These used the following words, which we defined as:

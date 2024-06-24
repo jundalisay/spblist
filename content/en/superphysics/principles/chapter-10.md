@@ -4,7 +4,7 @@ title: "What is Superphysics?"
 # date: 2021-07-19
 date: 2023-12-08
 weight: 36
-image: /photos/idea.png
+image: /photos/idea.jpg
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
 writer:
   name: Juan

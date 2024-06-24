@@ -1,19 +1,44 @@
+---
+heading: Discourse 9
+title: The Color of Clouds and the circles sometimes seen around the stars
+weight: 4
+description: Descartes gives 4 Precepts on Math and Logic
+image: "/covers/method.png"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+icon: /icons/descartes.png
+---
 
 
 
-On the Color of Clouds
+After what I have said about the nature of colors, I do not think I have much to add about those that are seen in the clouds. 
 
-And of the circles or crowns that are sometimes seen around the stars.
+For first of all, as far as their whiteness and darkness or blackness is concerned, it proceeds only from the fact that they are more or less exposed to the light of the stars, or to the shadow, both of themselves and of their neighbors. 
 
-Ninth Discourse
+There are only 2 things to note here.
 
-After what I have said about the nature of colors, I do not think I have much to add about those that are seen in the clouds. For first of all, as far as their whiteness and darkness or blackness is concerned, it proceeds only from the fact that they are more or less exposed to the light of the stars, or to the shadow, both of themselves and of their neighbors. And there are only two things to note here. One is that the surfaces of transparent bodies reflect a part of the rays that come towards them, as I have said above. This is why light can penetrate better through three pikes of water than it does through a little foam, which is nevertheless nothing but water, but in which there are several surfaces, the first of which reflects a part of this light, and the second another part, and so on, so that soon there is almost none or no more that passes through. And this is why neither crushed glass, nor snow, nor clouds when they are a little thick, can be transparent. The other thing to note here is that, although the action of luminous bodies is only to push in a straight line the subtle matter that touches our eyes, nevertheless the ordinary movement of the small parts of this matter, at least of those that are in the air around us, is to roll. in the same way that a ball rolls on the ground, even though it has only been pushed in a straight line. And it is properly the bodies that make them roll in this way that are called white. As are, without doubt, all those that only lack transparency because of the multitude of their surfaces, such as foam, crushed glass, snow, and clouds.
+1. The surfaces of transparent bodies reflect a part of the rays that come towards them. 
+
+This is why light can penetrate better through three pikes of water than it does through a little foam which is also water with several surfaces.
+- The first surface reflects a part of this light
+- The second surface reflects another part, and so on
+
+In this way, there is almost none or no more that passes through. 
+
+This is why neither crushed glass, nor snow, nor clouds when they are a little thick, can be transparent. 
+
+2. Although the action of luminous bodies is only to push in a straight line the subtle matter that touches our eyes, nevertheless the ordinary movement of the small parts of this matter, at least of those that are in the air around us, is to roll. 
+
+In the same way that a ball rolls on the ground, even though it has only been pushed in a straight line. And it is properly the bodies that make them roll in this way that are called white. As are, without doubt, all those that only lack transparency because of the multitude of their surfaces, such as foam, crushed glass, snow, and clouds.
 
 As a result of this, we can understand why the sky, being very pure and free of all clouds, appears blue, provided that we know that it does not emit any light of its own, and that it would appear extremely black if there were no exhalations or vapors at all above us, but that there are always more or less of them that reflect some rays towards our eyes, that is to say, that push back towards us the small parts of the subtle matter that the sun or the other stars have pushed against them: and when these vapors are in sufficient number, the subtle matter being pushed back towards us by the first ones, meets others afterwards which make its small parts roll and whirl, before they reach us. This is what then makes the sky appear white; Whereas if it does not meet enough to make its parts whirl in this way, it should only appear blue, according to what has just been said about the nature of the blue color.
 
 And it is the same cause that also makes the water of the sea, in places where it is very pure and very deep, seem to be blue. for only a few rays are reflected from its surface, and none of those that penetrate it return.
 
-In addition, we can understand here why often, when the sun sets or rises, the whole side of the sky towards which it is appears red: this happens when there are not so many clouds, or rather fogs, between it and us that its light cannot pass through them; but it does not pass through them so easily right against the earth as a little higher up; nor so easily a little higher up as much higher up: for it is evident that this light, suffering refraction in these fogs, determines the parts of the subtle matter that transmit it to whirl in the same direction as a ball would that came from the same side rolling on the ground. so that the whirling of the lowest ones is always increased by the action of those that are higher up, because it is supposed to be stronger than theirs, and you know that this is enough to make the red color appear, which is reflected afterwards in the clouds, can spread on all sides in the sky. And it is to be noted that this color appearing in the morning presages winds or rain, because it shows that there being few clouds towards the East, the sun will be able to raise a lot of vapors before noon, and that the fogs that make it appear begin to rise; Whereas in the evening it testifies to good weather, because there being only few or no clouds towards the west, the Eastern winds must reign, and the fogs descend during the night.
+In addition, we can understand here why often, when the sun sets or rises, the whole side of the sky towards which it is appears red: this happens when there are not so many clouds, or rather fogs, between it and us that its light cannot pass through them; but it does not pass through them so easily right against the earth as a little higher up; nor so easily a little higher up as much higher up: for it is evident that this light, suffering refraction in these fogs, determines the parts of the subtle matter that transmit it to whirl in the same direction as a ball would that came from the same side rolling on the ground. 
+
+So that the whirling of the lowest ones is always increased by the action of those that are higher up, because it is supposed to be stronger than theirs, and you know that this is enough to make the red color appear, which is reflected afterwards in the clouds, can spread on all sides in the sky. And it is to be noted that this color appearing in the morning presages winds or rain, because it shows that there being few clouds towards the East, the sun will be able to raise a lot of vapors before noon, and that the fogs that make it appear begin to rise; Whereas in the evening it testifies to good weather, because there being only few or no clouds towards the west, the Eastern winds must reign, and the fogs descend during the night.
 
 
 I will not dwell on the other colors seen in the clouds. For I believe that the causes are all well enough understood in what I have said. But there sometimes appear certain circles around the stars, which I should not omit to explain.
@@ -26,12 +51,23 @@ For one cannot imagine in the clouds any other cause capable of such an effect. 
 
 And although most of those that fall appear to the eye to be extremely flat and smooth, it is nevertheless certain that they are all somewhat thicker in the middle than at the ends, as can also be seen by the eye in some, and depending on whether they are more or less so, they make these circles appear larger or smaller: for there are undoubtedly several sizes; and if those that have been most often observed have had their diameter of about 45 degrees, as some have written, I would like to believe that the ice particles that cause them of this size have the convexity that is most ordinary to them, and which is perhaps also the greatest that they are accustomed to acquire without completely melting.
 
-For example, let ABC be the sun, D the eye, EFG several small transparent ice particles, arranged side by side; as they are in forming; and whose convexity is such that the ray coming for example from point A on the extremity of that which is marked G, and from point C on the extremity of that which is marked F, returns towards D; and that several others come towards D from those that pass through the other ice particles that are towards E, but not any of those that pass through those that are beyond the circle GG: It is clear that in addition to the rays AD, CD, and similar, which pass in a straight line, make the sun appear its usual size, the others which undergo refraction towards EE, should make the whole area included in the circle FF quite bright, and make its circumference between the circles FF, and GG, be like a crown painted with the colors of the rainbow: And even that the red there must be inside towards F, and the blue outside towards G, just as it is customary to observe.
+Let:
+- `ABC` be the sun
+- `D` the eye
+- `EFG` several small transparent ice particles, arranged side by side
+
+
+As they are in forming; and whose convexity is such that the ray coming for example from point A on the extremity of that which is marked G, and from point C on the extremity of that which is marked F, returns towards D; and that several others come towards D from those that pass through the other ice particles that are towards E, but not any of those that pass through those that are beyond the circle GG: 
+
+In addition to the rays AD, CD, and similar, which pass in a straight line, make the sun appear its usual size, the others which undergo refraction towards EE, should make the whole area included in the circle FF quite bright, and make its circumference between the circles FF, and GG, be like a crown painted with the colors of the rainbow: 
+
+Even that the red there must be inside towards F, and the blue outside towards G, just as it is customary to observe.
 
 And if there are two or more rows of ice particles on top of each other, provided that this does not prevent the sun's rays from passing through them, those of these rays that pass through two of their edges, bending almost twice as much as the others, will still produce another colored circle, much larger in circumference, but less apparent than the first; so that one will then see two crowns one inside the other, and of which the inner one will be the best painted. As has also been sometimes observed.
 
-In addition, you can see why these crowns do not usually form around stars that are very low towards the horizon; for the rays then meet the ice particles too obliquely to pass through them; And why their colors are not as vivid as theirs. For they are caused by much smaller refractions; And why they appear more often than him around the moon, and even sometimes appear around stars, namely when the interposed ice particles being only very slightly convex make them very small; for as they do not depend on as many reflections and refractions as the rainbow, the light that causes them does not need to be so strong. But often they appear only white, not so much for lack of light, as because the material in which they form is not entirely transparent.
+These crowns do not usually form around stars that are very low towards the horizon; for the rays then meet the ice particles too obliquely to pass through them; And why their colors are not as vivid as theirs. For they are caused by much smaller refractions; 
 
+And why they appear more often than him around the moon, and even sometimes appear around stars, namely when the interposed ice particles being only very slightly convex make them very small; for as they do not depend on as many reflections and refractions as the rainbow, the light that causes them does not need to be so strong. But often they appear only white, not so much for lack of light, as because the material in which they form is not entirely transparent.
 
 
 

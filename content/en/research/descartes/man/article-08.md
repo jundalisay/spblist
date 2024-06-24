@@ -39,7 +39,7 @@ In all these locations, it is solely the arrangement, shape, or size of the pore
 
 
 
-### 9. The more vivid and actively moving blood particles ascend to the brain's cavities or ventricles. 
+### 9. The more vivid and actively moving blood particles ascend to the brain's cavities
 
 This is because the arteries that carry them are situated in a straighter line than other arteries branching from the heart. 
 

@@ -11,16 +11,61 @@ icon: /icons/descartes.png
 ---
 
 
-For the rest, it is not only when the clouds dissolve into vapors that they cause winds, but they can also sometimes descend so suddenly that they drive away with great violence all the air that is under them, and compose a very strong but short-lived wind, the imitation of which can be seen by spreading a veil a little high in the air, then letting it descend flat towards the ground. Heavy rains are almost always preceded by such a wind, which acts manifestly from top to bottom, and whose coldness shows clearly enough that it comes from the clouds, where the air is commonly colder than around us. And it is this wind that is the reason why when swallows fly very low, they warn us of rain. For it brings down certain gnats on which they live, which are accustomed to take flight and frolic in the high air when the weather is fine. It is also he who sometimes, even when the cloud being very small, or descending only very little, is so weak that one hardly feels it in the open air, roaring down chimneys, makes the ashes and straws that are found in the corner of the fire dance, and excites there like little whirlwinds quite admirable for those who ignore the cause, and which are usually followed by some rain.
+For the rest, it is not only when the clouds dissolve into vapors that they cause winds, 
 
-But if the descending cloud is very heavy and very extensive, (as it can be more easily over large seas than in other places, because the vapors being very evenly dispersed there, as soon as the slightest cloud forms in some place, it immediately extends in all the other neighboring ones) it infallibly causes a storm; which is all the stronger, the larger and heavier the cloud is; and lasts all the longer, the higher the cloud descends. And it is thus that I imagine that these squalls are made, which sailors fear so much in their great voyages, especially a little beyond the Cape of Good Hope, where the vapors that rise from the Ethiopian Sea, which is very wide and very heated by the sun, can easily cause a downwind, which stopping the natural course of those which come from the Indian Sea, assembles them into a cloud, which, proceeding from the inequality that exists between these two large seas and this land, must immediately become much larger than those which form in these regions, where they depend on several lesser inequalities, which are between our plains, and our lakes, and our mountains. And because almost no other clouds are ever seen in these places, as soon as the sailors there perceive some which begins to form, although it sometimes appears so small that the Flemings have compared it to an ox's eye, from which they have given it the name, and that the rest of the air seems very calm and very serene, they hasten to lower their sails, and prepare to receive a storm, which does not fail to follow immediately.
+The clouds can also sometimes descend so suddenly that they drive away violently all the air that is under them. This creatse a very strong but short-lived wind.
+
+This is similar to a veil spread high in the air, then letting it descend flat towards the ground. 
+
+Heavy rains are almost always preceded by such a wind, which acts from top to bottom. 
+
+The wind's coldness comes from those rain clouds, where the air is colder than that around us.
+
+**This wind causes swallows to fly very low, warning us of rain.** 
+- It also brings down gnats which the swallows eat. Those gnats are used to fly in the high air when the weather is fine. 
+
+It is also he who sometimes, even when the cloud being very small, or descending only very little, is so weak that one hardly feels it in the open air, roaring down chimneys, makes the ashes and straws that are found in the corner of the fire dance, and excites there like little whirlwinds quite admirable for those who ignore the cause, and which are usually followed by some rain.
+
+The descending cloud is very heavy and very extensive especially over large seas because the vapors are very evenly dispersed there.
+
+This is why, as soon as the slightest cloud forms in some place, it immediately extends in all the other neighboring ones.
+
+This infallibly causes a storm which is stronger, the larger and heavier the cloud is.
+
+It lasts all the longer, the farther the cloud descends. 
+
+These squalls are made of those clouds which sailors fear so much in their great voyages, especially a little beyond the Cape of Good Hope. 
+
+There, the vapors that rise from the Ethiopian Sea, which is very wide and very heated by the sun. 
+
+They can easily cause a downwind stopping the natural course of the wind coming from the Indian Sea. It assembles them into a cloud.
+
+The inequality between these two large seas and this land causes that cloud to become much larger than those which form in other regions where there are lesser inequalities between our plains, lakes, and mountains.
+
+Almost no other clouds are ever seen in these places. As soon as the sailors there perceive some which begins to form, although it sometimes appears so small that the Flemings have compared it to an ox's eye, from which they have given it the name, and that the rest of the air seems very calm and very serene, they hasten to lower their sails, and prepare to receive a storm, which always follows immediately.
 
 
-And even I judge that it must be all the greater, the smaller this cloud has appeared at first. For not being able to become thick enough to obscure the air and be visible, without also becoming large enough, it can only appear so small because of its extreme distance; and you know that the higher a heavy body descends, the more impetuous is its fall. Thus this cloud being very high, and suddenly becoming very large and very heavy, descends entirely, driving away with great violence all the air that is under it, and causing by this means the wind of a storm.
+And even I judge that it must be all the greater, the smaller this cloud has appeared at first. For not being able to become thick enough to obscure the air and be visible, without also becoming large enough, it can only appear so small because of its extreme distance; and you know that the higher a heavy body descends, the more impetuous is its fall. 
 
-It is even to be noted that the vapors, mixed among this air, are dilated by its agitation, and that there also come out for the time being several others from the sea, because of the agitation of its waves, which greatly increases the strength of the wind, and delaying the descent of the cloud, makes the storm last all the longer. Then also that there are usually exhalations mixed among these vapors, which cannot be driven as far as them by the cloud, because their parts are less solid, and have more irregular figures, are separated from them by the agitation of the air, in the same way that, as it has been said above, by beating the cream, the butter is separated from the buttermilk; and that by this means they assemble here and there in various heaps, which floating always as high as possible against the cloud, finally come to be attached to the ropes and masts of the ships, when it finishes descending. And there being ignited by this violent agitation, they compose these fires named Saint Elmo's, which console the sailors, and make them hope for good weather.
+Thus, this cloud being very high, and suddenly becoming very large and very heavy, descends entirely, driving away with great violence all the air that is under it, and causing by this means the wind of a storm.
 
-It is true that often these storms are in their greatest force towards the end, and that there may be several clouds one above the other, under each of which there are such fires; which may have been the reason why the ancients, seeing only one, which they called Helen's star, esteemed it of bad omen, as if they had still then waited for the height of the storm. Instead of which when they saw two, which they called Castor and Pollux, they took them for a good omen. For it was ordinarily the most they saw, except perhaps when the storm was extraordinarily great they saw three, and esteemed them also on this account of bad omen. However I have heard our sailors say that they sometimes see them to the number of four or five, perhaps because their ships are larger, and have more masts than those of the ancients, or that they travel in places where exhalations are more frequent. For finally I can say nothing but by conjecture of what is done in the great seas that I have never seen, and of which I have only very imperfect relations.
+The vapors, mixed among this air, are dilated by its agitation, and that there also come out for the time being several others from the sea, because of the agitation of its waves, which greatly increases the strength of the wind, and delaying the descent of the cloud, makes the storm last all the longer.
+
+Then also that there are usually exhalations mixed among these vapors, which cannot be driven as far as them by the cloud, because their parts are less solid, and have more irregular figures, are separated from them by the agitation of the air, in the same way that, as it has been said above, by beating the cream, the butter is separated from the buttermilk.
+
+In this way, they assemble here and there in various heaps, which floating always as high as possible against the cloud, finally come to be attached to the ropes and masts of the ships, when it finishes descending.
+
+There being ignited by this violent agitation, they compose these fires named Saint Elmo's, which console the sailors, and make them hope for good weather.
+
+Often, these storms are in their greatest force towards the end, and that there may be several clouds one above the other, under each of which there are such fires; which may have been the reason why the ancients, seeing only one, which they called Helen's star, esteemed it of bad omen, as if they had still then waited for the height of the storm.
+
+Instead of which when they saw two, which they called Castor and Pollux, they took them for a good omen. 
+
+For it was ordinarily the most they saw, except perhaps when the storm was extraordinarily great they saw three, and esteemed them also on this account of bad omen. 
+
+However I have heard our sailors say that they sometimes see them to the number of four or five, perhaps because their ships are larger, and have more masts than those of the ancients, or that they travel in places where exhalations are more frequent. 
+
+For finally I can say nothing but by conjecture of what is done in the great seas that I have never seen, and of which I have only very imperfect relations.
 
 
 
@@ -30,16 +75,30 @@ As if the two clouds A and B being composed only of very rare and very extended 
 
 In the same way that I remember having seen once before in the Alps, around the month of May, that the snows being heated and weighed down by the sun, the slightest movement of air was enough to make suddenly fall large heaps, which they called avalanches, it seems to me, and which resounding in the valleys imitated quite well the sound of thunder.
 
-In consequence of which one can understand why it thunders more rarely in these regions in winter than in summer. For so much heat does not easily reach the highest clouds then, to dissolve them. And why, when during the great heats, after a North wind which lasts very little, one feels again a damp and stifling heat, it is a sign that it will soon follow thunder. For this testifies that this north wind, having passed against the earth, has driven the heat towards the place of the air where the highest clouds form, and that being then driven away itself, towards that where the lowest form, by the dilation of the lower air which the hot vapors it contains cause, not only the highest by condensing should descend, but also the lowest remaining very rare, and even being as if raised and repelled by this dilation of the lower air, should resist them in such a way that often they can prevent any part of it from falling to the ground. And note that the noise, which is made thus above us, should be heard better, because of the resonance of the air, and be greater by reason of the falling snow, than is that of avalanches.
+In consequence of which one can understand why it thunders more rarely in these regions in winter than in summer. 
+
+For so much heat does not easily reach the highest clouds then, to dissolve them. 
+
+And why, when during the great heats, after a North wind which lasts very little, one feels again a damp and stifling heat, it is a sign that it will soon follow thunder. 
+
+For this testifies that this north wind, having passed against the earth, has driven the heat towards the place of the air where the highest clouds form, and that being then driven away itself, towards that where the lowest form, by the dilation of the lower air which the hot vapors it contains cause, not only the highest by condensing should descend, but also the lowest remaining very rare, and even being as if raised and repelled by this dilation of the lower air, should resist them in such a way that often they can prevent any part of it from falling to the ground. And note that the noise, which is made thus above us, should be heard better, because of the resonance of the air, and be greater by reason of the falling snow, than is that of avalanches.
 
 Then note also that from this alone, that the parts of the upper clouds fall all together, or one after the other, or faster, or more slowly; and that the lower ones are more or less large, and thick, and resist more or less strongly, all the different sounds of thunder can easily be caused.
 
-For the differences of lightning, whirlwinds, and lightning, they depend only on the nature of the exhalations that are found in the space that is between two clouds, and on the way that the upper falls on the other. For if there have been great heats and droughts, so that this space contains a quantity of very subtle exhalations, and very disposed to ignite, the upper cloud cannot be almost so small, nor descend so slowly, that driving away the air which is between it and the lower, it does not make an éclair come out, that is to say, a light flame which dissipates itself at the same time. So that one can then see such lightning without hearing any noise of thunder; And even also sometimes without the clouds being thick enough to be visible.
+For the differences of lightning, whirlwinds, and lightning, they depend only on the nature of the exhalations that are found in the space that is between two clouds, and on the way that the upper falls on the other. 
+
+For if there have been great heats and droughts, so that this space contains a quantity of very subtle exhalations, and very disposed to ignite, the upper cloud cannot be almost so small, nor descend so slowly, that driving away the air which is between it and the lower, it does not make an éclair come out, that is to say, a light flame which dissipates itself at the same time. So that one can then see such lightning without hearing any noise of thunder; And even also sometimes without the clouds being thick enough to be visible.
 
 As on the contrary if there are no exhalations in the air that are proper to ignite, one can hear the noise of thunder without any lightning appearing for that. And when the highest cloud falls only by pieces that follow each other, it causes only lightning and thunder; but when it falls whole and fast enough, it can cause whirlwinds and lightning with it.
 
 
-Its extremities, such as C and D, must lower a little faster than the middle, since the air that is below, having less distance to travel to get out, yields to them more easily, and thus coming to touch the lower cloud, rather than the middle, it encloses a lot of air between them, as we see here towards E; then this air being pressed and driven with great force by this middle of the upper cloud which continues to descend, it must necessarily break the lower one to escape, as we see towards F; or open one of its extremities, as we see towards G. And when it has thus broken this cloud, it descends with great force towards the earth, then rises again in a whirlwind, because it finds resistance on all sides, which prevents it from continuing its movement in a straight line, as fast as its agitation requires. And thus it composes a whirlwind; which may not be accompanied by lightning or lightning, if there are no exhalations in this air that are proper to ignite; But when there are some, they all gather in a heap, and being driven very impetuously with this air towards the earth, they compose lightning. And this lightning can burn clothes and shave hair without harming the body, if these exhalations, which usually have the smell of sulfur, are only greasy and oily, so that they compose a light flame which only attaches to bodies that are easy to burn.
+Its extremities, such as C and D, must lower a little faster than the middle, since the air that is below, having less distance to travel to get out, yields to them more easily, and thus coming to touch the lower cloud, rather than the middle, it encloses a lot of air between them, as we see here towards E; then this air being pressed and driven with great force by this middle of the upper cloud which continues to descend, it must necessarily break the lower one to escape, as we see towards F; or open one of its extremities, as we see towards G.
+
+When it has thus broken this cloud, it descends with great force towards the earth, then rises again in a whirlwind, because it finds resistance on all sides, which prevents it from continuing its movement in a straight line, as fast as its agitation requires.
+
+Thus it composes a whirlwind; which may not be accompanied by lightning or lightning, if there are no exhalations in this air that are proper to ignite; 
+
+But when there are some, they all gather in a heap, and being driven very impetuously with this air towards the earth, they compose lightning. And this lightning can burn clothes and shave hair without harming the body, if these exhalations, which usually have the smell of sulfur, are only greasy and oily, so that they compose a light flame which only attaches to bodies that are easy to burn.
 
 On the contrary, it can break bones without damaging the flesh, or melt the sword without spoiling the scabbard, if these exhalations being very subtle and penetrating, only participate in the nature of volatile salts or strong waters, by which means making no effort against bodies that yield to them, they break and dissolve all those which make them a lot of resistance. As we see strong water dissolve the hardest metals, and do not act against wax.
 
@@ -49,19 +108,46 @@ If the cloud opens by the side, as towards G, the lightning being launched sidew
 
 
 
-There is also a reason why each clap of thunder is usually followed by a shower of rain, and why when this rain comes very abundantly, it does not thunder much more. For if the force, with which the upper cloud shakes the lower one by falling on it, is great enough to make it all descend, it is evident that the thunder must cease; and if it is less, it does not fail to often make several snowflakes fall out of it, which melting in the air make rain.
+There is also a reason why each clap of thunder is usually followed by a shower of rain, and why when this rain comes very abundantly, it does not thunder much more. 
 
-Finally, it is not without reason that it is held that loud noise, such as bells, or cannons, can diminish the effect of lightning. For it helps to dissipate and make the lower cloud fall, by shaking the snow of which it is composed. As those who are accustomed to traveling in valleys where avalanches are to be feared know enough. For they even refrain from speaking and coughing when passing there, for fear that the sound of their voice will stir the snow.
+For if the force, with which the upper cloud shakes the lower one by falling on it, is great enough to make it all descend, it is evident that the thunder must cease. 
 
-But as we have already remarked, that it sometimes lightens without thundering, so in places in the air where there are many exhalations and few vapors, clouds can be formed so thin and light that falling from high enough one on the other they do not hear any thunder, nor excite any storm in the air, notwithstanding that they wrap and join together several exhalations; from which they compose not only these lesser flames which one would say to be stars falling from the sky, or others which traverse it, but also rather large fireballs, which reaching us are like diminutives of lightning.
+If it is less, it does not fail to often make several snowflakes fall out of it, which melting in the air make rain.
 
-Even since there are exhalations of several different natures, I do not think it is impossible that the clouds, by pressing them, sometimes compose a material, which according to the color and consistency it will have, seems like milk, or blood, or meat; or else which by burning becomes such that it is taken for iron, or stones; or finally which by corrupting generates some small animals in a short time. As we often read among the prodigies that it has rained iron, or blood, or grasshoppers, or similar things.
 
-In addition, without there being any cloud in the air, the exhalations can be heaped up and ignited by the sole breath of the winds, especially when there are two or more contrary ones that meet. And finally without winds and without clouds, by the fact alone that a subtle and penetrating exhalation, which holds the nature of salts, insinuates itself into the pores of another, which is greasy and sulfurous, light flames can be formed both at the top and at the bottom of the air, as we see at the top these stars which traverse it; and at the bottom both these burning or will-o'-the-wisps which play there, and these others which stop on certain bodies, such as the hair of children, or the mane of horses, or the tips of pikes which have been rubbed with oil to clean them, or similar things. For it is certain that not only a violent agitation, but often also the mere mixture of two different bodies is sufficient to ignite them.
+People believe that loud noise, such as bells, or cannons, can reduce the effect of lightning because it helps to dissipate and make the lower cloud fall, by shaking the snow of which it is composed.
 
-As we see by pouring water on lime, or enclosing hay before it is dry, or in an infinite number of other examples that occur every day in Chemistry. But all these fires have very little force compared to lightning. 
+As those who are accustomed to traveling in valleys where avalanches are to be feared know enough. 
 
-The reason for which is that they are composed only of the softest and stickiest parts of the oils; notwithstanding that the liveliest and most penetrating salts also ordinarily concur to produce them. 
+They even refrain from speaking and coughing when passing there, for fear that the sound of their voice will stir the snow.
+
+But it sometimes lightens without thundering, so in places in the air where there are many exhalations and few vapors, clouds can be formed so thin and light that falling from high enough one on the other they do not hear any thunder, nor excite any storm in the air, notwithstanding that they wrap and join together several exhalations; from which they compose not only these lesser flames which one would say to be stars falling from the sky, or others which traverse it, but also rather large fireballs, which reaching us are like diminutives of lightning.
+
+Even since there are exhalations of several different natures, I do not think it is impossible that the clouds, by pressing them, sometimes compose a material, which according to the color and consistency it will have, seems like milk, or blood, or meat; or else which by burning becomes such that it is taken for iron, or stones; or finally which by corrupting generates some small animals in a short time. 
+
+As we often read among the prodigies that it has rained iron, or blood, or grasshoppers, or similar things.
+
+Without any clouds, the exhalations can be heaped up and ignited by the sole breath of the winds, especially when there are two or more contrary ones that meet.
+
+Without winds and clouds, a subtle and penetrating exhalation made up of salts can insinuate itself into the pores of another which is greasy and sulfurous. This can produce light flames both at the top and bottom of the air, as we see at the top these stars which traverse it.
+
+At the bottom both these burning or will-o'-the-wisps which play there, and these others which stop on certain bodies, such as the hair of children, or the mane of horses, or the tips of pikes which have been rubbed with oil to clean them, or similar things.
+
+
+They can be ignited by:
+- a violent agitation
+- often the mere mixture of two different bodies
+
+We see this when we:
+- pour water on lime
+- enclose hay before it is dry
+- and so on. 
+
+ <!-- or in an infinite number of other examples that occur every day in Chemistry.  -->
+
+But all these fires have very little force compared to lightning. 
+
+This is because they are composed only of the softest and stickiest parts of the oils; notwithstanding that the liveliest and most penetrating salts also ordinarily concur to produce them. 
 
 For these do not stop for that among the others, but promptly spread out in the open air after they have ignited them. Instead of which lightning is mainly composed of these liveliest and most penetrating ones, which being very violently pressed and driven by the clouds, carry the others with them to the ground. And those who know how much force and speed the fire of saltpeter and sulfur mixed together has, instead of the greasy part of sulfur being separated from its spirits would have very little; will not find anything doubtful in this.
 
@@ -74,21 +160,16 @@ And because I have endeavored to curiously explain their production and their na
 
 Even because I have never seen such sights, and I know how the reports of them are usually falsified and augmented by superstition and ignorance, I will be content to touch in a few words all the causes that seem to me capable of producing them.
 
-The first is that there are several clouds in the air, small enough to be taken for so many soldiers, and which falling one on the other, envelop enough exhalations to cause a quantity of small flashes, and throw small fires and maybe also make small noises, by which means these soldiers seem to fight.
+1. There are several clouds in the air, small enough to be taken for so many soldiers.
 
-The second is that there are also such clouds in the air, but that instead of falling one on the other, they receive their light from the fires and flashes of some great storm, which takes place elsewhere so far away, that it cannot be perceived there.
+These fall one on the other, envelop enough exhalations to cause a quantity of small flashes, and throw small fires and maybe also make small noises, by which means these soldiers seem to fight.
 
-And the third, that these clouds, or some other more northern ones from which they receive their light, are so high that the sun's rays reach them. For if we take heed to the Refractions and Reflections that two or three such clouds can cause, we will find that they do not need to be very high to make such lights appear towards the North, after the hour of twilight has passed; and sometimes also the sun itself, at the time it should be set.
+2. There are clouds that, instead of falling one on the other, receive their light from the fires and flashes of some great storm which takes place elsewhere so far away that it cannot be perceived there.
 
-But this does not seem to belong so much to this discourse as to the following ones, where I have the intention of speaking of all the things that can be seen in the air without being there; after having here finished the explanation of all those that are seen there, in the same way that they are there.**
+3. These clouds, or some other more northern ones from which they receive their light, are so high that the sun's rays reach them. 
 
-I have added some notes to the translation to clarify some of the concepts and terminology. For example, I have explained that "flocons" means "snowflakes" and that "gresle" means "hail". I have also clarified that the "cold wind" is the wind that causes the hail to form.
+For if we take heed to the Refractions and Reflections that two or three such clouds can cause, we will find that they do not need to be very high to make such lights appear towards the North, after the hour of twilight has passed; and sometimes also the sun itself, at the time it should be set.
+
+But this does not seem to belong so much to this discourse as to the following ones, where I have the intention of speaking of all the things that can be seen in the air without being there; after having here finished the explanation of all those that are seen there, in the same way that they are there.
 
 
-
-
-I have also been told that a third rainbow has sometimes been seen above the two ordinary ones; but which was much weaker, and about as far from the second as the second was from the first. Which I do not judge could have happened, unless there were hailstones, very round, and very transparent, mixed with the rain, in which the refraction being notably greater than in water, the outer rainbow should have been much larger there, and thus appear above the other. And for the inner one which by the same reason should have been smaller than the inner one of the rain, it may be that it will not have been noticed, because of the great luster of this one: or that their ends having joined, they will not have been counted both for one.
-
-But for one whose colors will have been arranged differently than usual.
-
-And this reminds me of an invention to make signs appear in the sky, which could cause great admiration to those who would not know the reasons. I suppose you already know how to show the rainbow by means of a fountain. As if the water that comes out of the small holes ABC, jumping high enough, spreads in the air in all directions towards R, and the sun is towards Z, so that ZEM being a straight line the angle MER can be about 42 degrees, the eye E will not fail to see the iris towards R, quite similar to the one that appears in the sky. To which it must now be added that there are oils, spirits of wine, and other liquids, in which refraction is significantly greater or smaller than in ordinary water, and which are no less clear and transparent. So that one could arrange several fountains in order; in which there are various of these liquids, one would see by their means a whole large part of the sky full of the colors of the iris: namely by making the liquids, whose refraction would be the greatest, be the closest to the spectators; and that they do not rise so high that they prevent the view of those that would be behind. Then because by closing part of the holes ABC one can make disappear such part of the iris RR as one wants, without removing the others, it is easy to understand that in the same way, opening and closing the holes of these various fountains at the right time, we can make what appears colored have the figure of a cross, or a column, or some other such thing, which gives rise to admiration. But I admit that it would take skill and expense, in order to proportion these fountains, and to make the liquids jump so high that these figures could be seen from afar by a whole people, without the artifice being discovered.
