@@ -1,3 +1,15 @@
+---
+heading: Articles 33-
+title: The Seat of Passions is Not in the Heart
+weight: 4
+description: People think that the soul receives its passions in the heart
+image: "/covers/meteors.png"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+icon: /icons/descartes.png
+---
+
 
 ### 33. The Seat of Passions is Not in the Heart
 

@@ -1,8 +1,8 @@
 ---
 heading: Articles 10-
-title: The Nature Of Terrestrial Bodies
+title: How Animal Spirits are Produced in the Brain
 weight: 6
-description: Descartes gives 4 Precepts on Math and Logic
+description: The liveliest and most subtle parts of the blood that the heat has rarefied in the heart enter continually in large quantity into the cavities of the brain
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
@@ -76,32 +76,3 @@ Our wills are of 2 kinds:
 1. Some are actions of the soul that end in the soul itself, such as when we want to love God or generally apply our thought to some object that is not material. 
 2. Others are actions that end in our body, such as when, from the mere fact that we have the will to walk, it follows that our legs move and we walk.
 
-
-### 19. Perception
-
-Our perceptions are also of 2 kinds:
-
-1. Some have the soul for their caus
-2. Others the body. 
-
-Those that have the soul for their cause are the perceptions of our wills, and of all imaginations or other thoughts that depend on them. For it is certain that we cannot will anything without perceiving at the same time that we want it. 
-
-Although with regard to our soul, it is an action to will something, we can say that it is also in it a passion to perceive that it wills. 
-
-However, because this perception and this will are indeed the same thing, the denomination is always made by what is the most noble; and thus it is not customary to call it a passion, but only an action.
-
-
-### 20. The Imaginations and Other Thoughts Formed by the Soul
-
-When our soul applies itself to imagine something that is not, such as to represent an enchanted palace or a chimera; and also when it applies itself to consider something that is only intelligible and not imaginable, for example, to consider its own nature, the perceptions it has of these things depend mainly on the will that makes it perceive them. Therefore, they are usually considered actions rather than passions.
-
-
-### 21. The Imaginations That Have Only the Body for Their Cause
-
-Among the perceptions caused by the body, most depend on the nerves. But there are also some that do not depend on them, and which are called imaginations, like those I have just spoken of, which nevertheless differ in that our will does not apply itself to form them; which means that they cannot be counted among the actions of the soul. 
-
-They only arise from the fact that the spirits, being variously agitated and encountering the traces of various impressions that have preceded in the brain, take their course fortuitously through certain pores rather than others. 
-
-Such are the illusions of our dreams, and also the daydreams we often have when awake, when our thought wanders listlessly, without applying itself to anything in particular.
-
-Although some of these imaginations are passions of the soul, taking this word in its most proper and particular meaning; and although they can all be thus named if we take it in a more general meaning: nevertheless, because they do not have such a notable and determined cause as the perceptions the soul receives through the nerves, and because they seem to be only the shadow and painting of them, before we can distinguish them well, we must consider the difference that exists between these others.
