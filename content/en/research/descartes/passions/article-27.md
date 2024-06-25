@@ -1,0 +1,61 @@
+---
+heading: Articles 27-
+title: The Definition of the Passions of the Soul
+weight: 4
+description: Descartes gives 4 Precepts on Math and Logic
+image: "/covers/meteors.png"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+icon: /icons/descartes.png
+---
+
+
+
+### 27. The Definition of the Passions of the Soul
+
+After having thus considered how the passions of the soul differ from all its other thoughts, it seems to me that they can generally be defined as perceptions, feelings, or emotions of the soul that are particularly referred to it, and that are caused, sustained, and fortified by some movement of the spirits.
+
+
+### 28. Explanation of the First Part of This Definition
+
+They can be called perceptions when one uses this word generally to signify all thoughts that are not actions of the soul or wills; but not when one uses it only to signify evident knowledge. For experience shows that those who are most agitated by their passions are not those who know them best, and that they are among the perceptions that the close alliance between the soul and the body renders confused and obscure. 
+
+They can also be called feelings because they are received in the soul in the same way as the objects of the external senses, and are not otherwise known by it. But they can be even better called emotions of the soul, not only because this name can be attributed to all the changes that happen in it, that is, to all the various thoughts that come to it, but particularly because of all the kinds of thoughts it can have, there are none others that agitate and shake it as strongly as these passions.
+
+
+### 29. Explanation of the Other Part of the Definition
+
+I add that they particularly refer to the soul to distinguish them from other feelings that are referred to external objects, such as smells, sounds, colors; and others to our body, such as hunger, thirst, pain. I also add that they are caused, sustained, and fortified by some movement of the spirits, to distinguish them from our wills, which can be called emotions of the soul that refer to it, but which are caused by the soul itself; and also to explain their latest and most proximate cause, which again distinguishes them from other feelings.
+
+
+### 30. The Soul is United to All Parts of the Body Conjointly.
+
+But to understand these things more perfectly, it is necessary to know that the soul is truly joined to the whole body and cannot be properly said to be in any one of its parts to the exclusion of the others. 
+
+This is because the body is one and, in some way, indivisible due to the arrangement of its organs, which are so interrelated that when any one of them is removed, it renders the whole body defective. 
+
+Additionally, the soul is of a nature that has no relation to extension, dimensions, or other properties of the matter from which the body is composed, but only to the entire assemblage of its organs. As it appears, one cannot conceive of half or a third of a soul, nor what extent it occupies; and the soul does not become smaller when some part of the body is removed, but separates entirely when the assemblage of its organs is dissolved.
+
+
+### 31. There is a Small Gland in the Brain in Which the Soul Exercises Its Functions More Particularly than in Other Parts.
+
+Although the soul is joined to the whole body, there is one part in which it exercises its functions more particularly than in all the others. 
+
+It is commonly believed that this part is the brain, or perhaps the heart; the brain, because it is where the sensory organs are related, and the heart, because it is where passions are felt. 
+
+However, upon careful examination, it seems evident that the part of the body in which the soul immediately exercises its functions is not the heart, nor the entire brain, but only the innermost part, which is a very small gland located in the middle of its substance. 
+
+This gland is so suspended above the channel through which the spirits in its anterior cavities communicate with those in the posterior cavities, that the smallest movements in it can greatly change the course of these spirits, and conversely, the smallest changes in the course of the spirits can greatly change the movements of this gland.
+
+
+### 32. How We Know that This Gland is the Principal Seat of the Soul
+
+<!-- The reason that persuades me that the soul cannot have any other place in the whole body where it immediately exercises its functions than this gland is that I consider -->
+
+This is because the other parts of our brain are all double, just as we have two eyes, two hands, two ears, and finally all the organs of our external senses are double. 
+
+And since we have only a single and simple thought of the same thing at the same time, there must necessarily be a place where the two images that come through the two eyes, or the other impressions that come from a single object through the double organs of the other senses, can unite into one before they reach the soul, so that they do not represent two objects instead of one.
+
+These images or other impressions unite in this gland through the mediation of the spirits that fill the cavities of the brain; but there is no other place in the body where they can be united in this way except as they are in this gland.
+
