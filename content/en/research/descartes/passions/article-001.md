@@ -1,3 +1,17 @@
+---
+heading: Discourse 1
+title: The Nature Of Terrestrial Bodies
+weight: 4
+description: Descartes gives 4 Precepts on Math and Logic
+image: "/covers/meteors.png"
+writer:
+  name: Rene Descartes
+  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+icon: /icons/descartes.png
+draft: true
+---
+
+
 ## THE PASSIONS OF THE SOUL
 
 ### PART ONE: ON PASSIONS IN GENERAL, AND INCIDENTAL TO THE NATURE OF MAN

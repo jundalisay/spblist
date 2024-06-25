@@ -1,5 +1,5 @@
 ---
-heading: Part 2
+heading: Part 1
 title: "A Dialogue Between Mercury, The Alchymist And Nature"
 description: "The Origin of Physiognomy"
 image: "/covers/alchemy.jpg"
