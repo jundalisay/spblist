@@ -1,9 +1,9 @@
 ---
-heading: Articles 27-
+heading: Articles 27-32
 title: The Definition of the Passions of the Soul
-weight: 4
-description: Descartes gives 4 Precepts on Math and Logic
-image: "/covers/meteors.png"
+weight: 10
+description: Explanation of This Definition
+image: "/covers/passions.jpg"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

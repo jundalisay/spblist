@@ -14,7 +14,10 @@ icon: "/icons/descartes.png"
 
 ### 33. All places are full of bodies
 
-The same parts of matter are always being carried along in every motion, and so no body can be moved in a circle. 
+The same parts of matter are always being carried along in every motion, and so bodies are only moved in a circle. 
+
+<!-- it follows that no body can be moved except through a circle, so of course, that some other Elzevier, p. 51 the body is expelled from the place it enters, and this again another, and another, until finally, that it enters the place left at first, at the same moment of time in which it was left. -->
+
 
 For example, body A is moved towards B, only at the same time that part B is moved towards C, C towards D, and D towards A.
 
@@ -33,6 +36,9 @@ In this way, the whole mass of material contained in space `EFGH` can move in a 
 This is only as long as the space at G is supposed to be 4 times wider than at E, and twice as wide as at F and H, so that it also moves 4 times faster at E than at G, and twice as fast as at F or H. 
 
 And so in all the remaining places the speed of movement compensates for the narrowness of the space. In this way, in any given fixed time, the same amount of material will pass through one part of this circle as through another.
+
+
+
 
 
 ### 34. From this follows the division of matter into really indefinite particles, although they are incomprehensible to us.

@@ -1,21 +1,19 @@
 ---
-heading: Articles 1-
-title: The Nature Of Terrestrial Bodies
+heading: Articles 1-9
+title: What are the Passions of the Soul?
 weight: 4
-description: Descartes gives 4 Precepts on Math and Logic
-image: "/covers/meteors.png"
+description: What is Passion in relation to one subject is always Action in another respect.
+image: "/covers/passions.jpg"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: /icons/descartes.png
-draft: true
 ---
 
 
+<!-- ### Part One: On Passions In General, And Incidental To The Nature Of Man -->
 
-### Part One: On Passions In General, And Incidental To The Nature Of Man
-
-### 1. What is Passion in relation to one subject is always Action in another respect.**
+### 1. What is Passion in relation to one subject is always Action in another respect.
 
 Nothing better demonstrates the deficiencies of the sciences we have inherited from the ancients than what they have written about the Passions.
 

@@ -52,8 +52,7 @@ In this way, they contain in them corporeal substance indefinitely extended. Thi
 
 <!-- ### 22. It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds. -->
 
-### 22. It also follows that the aethereal susbtance of space and matter is the same, and that there cannot be a multiverse.
-<!-- a plurality of worlds. -->
+### 22. It also follows that the aethereal susbtance of space and matter is the same, and that there cannot be a a plurality of worlds.
 
 The earth and heavens are made of the same substance.
 <!-- matter  -->

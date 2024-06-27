@@ -3,7 +3,7 @@ heading: Articles 10-
 title: How Animal Spirits are Produced in the Brain
 weight: 6
 description: The liveliest and most subtle parts of the blood that the heat has rarefied in the heart enter continually in large quantity into the cavities of the brain
-image: "/covers/meteors.png"
+image: "/covers/passions.jpg"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
