@@ -17,6 +17,8 @@ Axioms | Propositions
 There are 2 Domains in Reality | 
 
 
+{{< youtube TpN23dGFcSA>}}
+
 We know the existence of thing through our perceptions of it. Each perception has two aspects:
 - physical
 - metaphysical

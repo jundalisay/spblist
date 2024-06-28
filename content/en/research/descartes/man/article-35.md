@@ -15,7 +15,7 @@ writer:
 
 ## Sleep
 
-### {{< s v="34" >}} What is Sleep?
+### 34. What is Sleep?
 
 <!-- Up to this point, as I believe, we have sufficiently explained all the functions of wakefulness; therefore, only a few things remain to be said about sleep. In Figure L.  -->
 
@@ -29,10 +29,9 @@ During sleep, the actions of external objects are largely impeded from passing i
 
 
 
-### {{< s v="35" >}} 
+### 35. We also observe this in all plants.
 
-
-We also observe this in all plants. This property belongs to bodies which can grow and be nourished by the addition of particles of other bodies. 
+This property belongs to bodies which can grow and be nourished by the addition of particles of other bodies. 
 
 As for the rest, however, those which I have supposed and which do not fall within the senses, they are all so simple and common; 
 
@@ -42,7 +41,7 @@ Nature always uses the easiest and simplest means of all. This is why we think i
 
 
 
-### {{< s v="36" >}} The functions of this bodily machine are as follows.
+### 36. The functions of this bodily machine are as follows.
 
 - digestion of food
 - beating of the heart and arteries
