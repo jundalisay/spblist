@@ -10,6 +10,7 @@ writer:
 icon: /icons/descartes.png
 ---
 
+
 ### ARTICLE 106. What is Desire? 
 
 Finally, the Passion of Desire is characterized by the will to obtain some good or to avoid some evil, which promptly sends the spirits from the brain to all parts of the body that can perform the necessary actions for this purpose; particularly towards the heart and the parts that supply it with the most blood, so that by receiving more than usual, it sends a greater quantity of spirits to the brain, both to sustain and strengthen the idea of this will, and to pass from there into all the sensory organs and all the muscles that can be employed to obtain what is desired.
