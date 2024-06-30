@@ -5,24 +5,20 @@ weight: 10
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""
+draft: true
 ---
 
 
 THE palm itself, its shape and consistency, aside from the markings upon it, tells much about the person whose hand you are studying.
-Development of the hand, which is the instrument of the brain, is dependent on all the biological and chemical factors which also de-
-termine the personality. Studies of the ductless glands have given us some understanding of the complicated chemistry governing human
-energy, sex, and nervous reactions, from the simplest reflex to involved inhibitions and neuroses.
+
+Development of the hand, which is the instrument of the brain, is dependent on all the biological and chemical factors which also determine the personality. Studies of the ductless glands have given us some understanding of the complicated chemistry governing human energy, sex, and nervous reactions, from the simplest reflex to involved inhibitions and neuroses.
 
 This same machinery of nerve communication and glandular secretions, which decides the weight, height and nervous and muscular responses of the individual, also determines the development of the
 
-From studying a large number of hands, I have been able to
-hand.
-
-associate particular types of
-palmar structure with
-specific characteristics.
+From studying a large number of hands, I have been able to associate particular types of palmar structure with specific characteristics.
 
 For example, the consistency of the hand tells much about the
+
 A firm, full, elastic palm, warm and alive to the touch,
 indicates a person who is active, well-directed, alive. Flabbiness shows
 individual.
@@ -158,12 +154,15 @@ the hand as a whole.
 The right hand is the one to study in a right-handed person. That
 hand gives us a picture of the human being as he is. The left hand
 tells us what he might have been
-whether for better or worse. What
+whether for better or worse. 
+
+What
 the left hand pictures is a person's inheritance, the weaknesses, the
 strength, the talents and the lacks with which he was born. From
 the left hand we are able to judge a person's potentialities. From the
-right what he has created out of his potentialities. In a left-handed
-person, the significance of the two hands is of course reversed.
+right what he has created out of his potentialities. 
+
+In a left-handed person, the significance of the two hands is of course reversed.
 This sort of knowledge is a weapon, and with knowledge of our
 weaknesses we may be able to overcome them. Here is one very great
 value in the message of the left hand. By pointing out the pitfalls

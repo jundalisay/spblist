@@ -27,21 +27,30 @@ This means that whatever appears impossible and contradictory after comparing th
 Anything that can be infinitely divided contains an infinite number of parts.
 - Otherwise the division would be stopped short by the indivisible parts, which we should immediately arrive at.
 
-It follows that if any finite space is infinitely divisible, then a finite space has an infinite number of parts.
+It follows that if any finite space is infinitely divisible, then a finite space* has an infinite number of parts.
 - Conversely, if a finite space cannot have an infinite number of parts, then no finite space can be infinitely divisible.
+
 But this latter supposition is absurd.
+
+> Superphysics Note: This is an attack on Descartes who went against the indivisibility of atoms. The error in Hume is that he is imposing a finite or limited space. In Cartesian Physics, spacetime is limited or has an edge, but that edge is constantly growing because the 2nd Element (spacetime particles) are constantly being divided.  
+
+
 I clear this up by thinking of the smallest idea that I can about space.
 
-This smallest idea is a real quality of space.
 
-I repeat this idea to create a compound idea of space that becomes bigger.
+This smallest idea is a real quality of space. I repeat this idea to create a compound idea of space that becomes bigger.
+
 If I did this infinitely, then the space would akso be infinite.
 
 Therefore:
-- an infinite number of parts is the same as the infinite space, and
+- an infinite number of parts is the same as the infinite space*, and
 - no finite space can have an infinite number of parts.
 
+
+> Superphysics Note: This is what Descartes' reasoning is based on. And so it agrees with Hume. 
+
 Consequently, no finite space is infinitely divisible [Footnote 3].
+
 
 ## How to Clear Up Spacetime
 
@@ -73,7 +82,7 @@ Nicolas de Malézieu is a noted author who proposed that existence in itself:
 - belongs only to unity, and
 - is never applicable to number, but the units which make up that number.
 
-This argument is very strong and beautiful. 
+This argument is very strong and beautiful.
 
 20 men exist only because 1, 2, 3, etc. exist.
 

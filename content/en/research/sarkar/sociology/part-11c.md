@@ -30,36 +30,58 @@ In Hindu Tantra, gods and goddesses still remained.
 
 Even today the common people worship the goddesses of Buddhist Tantra like Tárá, Manasá (the goddess of snakes) Shiitalá, Bárahii etc. out of devotion.
 
-Shúnyaváda was very influential during the time Shrii Shaḿkarácárya preached. Shrii Shaḿkarácárya accepted Uttára Miimáḿsá as later Miimáḿsá philosophy propounded by Shrii Vádaráyana Vyása.
+Shúnyaváda was very influential when Shrii Shaḿkarácárya preached. 
 
-Shrii Shaḿkarácárya discussed the following subjects with Buddhist philosophers. The Shúńyavádiis said that the universe came out of nothing and will go into nothing, that everything is a dream. This was questioned by Shaḿkara who said that even if the universe is nothing or a dreamland, there should be someone who witnessed the dream. 
+Shrii Shaḿkarácárya accepted Uttára Miimáḿsá as later Miimáḿsá philosophy propounded by Shrii Vádaráyana Vyása.
+- He discussed the following subjects with Buddhist philosophers. 
 
-The Shúnyavádiis replied that there was no dreamer. 
+The Shúńyavádiis said that the universe came out of nothing and will go into nothing, that everything is a dream. 
 
-The universe is an illusion just as a rope mistaken for a snake is an illusion. Shaḿkara said, that could not be possible. The Shúnyavádiis replied that this could only be understood by Sádhaná while Shaḿkara said that it was not possible to have a dream without a dreamer. If the universe is an illusion like mistaking a rope for a snake, there had to be something like a rope which could be mistaken for the universe. 
+Shaḿkara questioned this, saying that even if the universe is nothing or a dreamland, there should be someone who is dreaming. 
+- The Shúnyavádiis replied that there was no dreamer. They said that the universe is an illusion just as a rope mistaken for a snake is an illusion.
+- Shaḿkara said that that could not be possible. 
+- The Shúnyavádiis replied that this could only be understood by Sádhaná.
+ <!-- while Shaḿkara said that it was not possible to have a dream without a dreamer.  -->
 
-Without a rope it would be impossible to mistake it for a snake. Besides this there must be a person to make the mistake. Similarly, there must be someone to experience the illusion of the universe. This means that there must be some other entity to experience it. 
+If the universe is an illusion like mistaking a rope for a snake, there had to be something like a rope which could be mistaken for the universe. 
 
-Mádhyamika said that nothing does not mean actually nothing (Shúnya). What you call Brahma we call nothing. So the illusion of the universe is Brahma. That is,
+Without a rope it would be impossible to mistake it for a snake. 
+Besides this there must be a person to make the mistake. Similarly, there must be someone to experience the illusion of the 
+universe. 
+
+This means that there must be some other entity to experience it. 
+
+Mádhyamika said that nothing does not mean actually nothing (Shúnya). What you call Brahma we call nothing. So the illusion of the universe is Brahma. That is, [What Brahma is to the Brahmavádiis, Shúnya or nothing is to the Shúnyavádins.]
 
 <!-- Yathá shúnyavádináḿ shúnyaḿ
 Brahma Brahmavidáḿstathá. -->
 
-[What Brahma is to the Brahmavádiis, Shúnya or nothing is to the Shúnyavádins.]
 
 Shaḿkara replied that this means that the one who sees and the object which is seen are both illusion. Where there is no one to see, who will mistake the rope for snake? The Shunyavadiis could not give any explanation for this. 
 
-The Kshanikavadiis – those who believed in the doctrine of transience – explanation of Shaḿkara’s questions was that the illusion is always Kśanika or transient. Shaḿkara’s point was that he believed that Brahma was anádi and ananta but that Kśańa comes in a moment and disappears the very next moment. Thus where does the Kśanika entity come from? Something must exist between the span of creation and the span destruction. 
+The Kshanikavadiis – those who believed in the doctrine of transience – explanation of Shaḿkara’s questions was that the illusion is always Kśanika or transient. 
+
+Shaḿkara’s point was that he believed that Brahma was anádi and ananta but that Kśańa comes in a moment and disappears the very next moment. Thus where does the Kśanika entity come from? Something must exist between the span of creation and the span destruction. 
 
 The Kśanikavádiis replied that it is destroyed with the creation, but Shaḿkara replied that this shows that there is no existence. The Kśańikavádiis felt defeated but they still replied that existence was negligible. This was not a satisfactory explanation. 
 
 The scholars of the Pratyakśa Váhyavastuváda and Anumeya Váhyavastuváda argued for their philosophies but no one could withstand that questioning of Shamkaracarya, hence all the four sections of Buddhism were defeated by Shrii Shaḿkara. 
 
+
 On defeat, they made friends with Shrii Shaḿkara and accepted Kúlakuńd́alinii Tattva or the practice of raising the serpentine power in human beings, and as a result Baoddha Yogácára came into existence.
 
-There are several defects in Shaḿkara’s philosophy. According to Shaḿkara the universe is based on a fixed object by the illusion of Máyá, which is called Brahma.
+There are several defects in Shaḿkara’s philosophy. 
 
-There is an illusion of a snake for a rope. Now the question arises, who has the illusion of a snake? One who already knows about snakes. If there is an illusion of the universe for Brahma it means that the real universe is somewhere else. Thus the theory Brahma satyam jagatmithya is defective. This is a wrong interpretation given by Shaḿkara. The Buddhists did not question it and hence it was accepted at the time.
+
+### The Defects of Shaḿkara's Philosophy
+
+According to Shaḿkara, the universe is based on a fixed object by the illusion of Máyá, which is called Brahma.
+
+There is an illusion of a snake for a rope. But who has the illusion of a snake? One who already knows about snakes. 
+
+If there is an illusion of the universe for Brahma it means that the real universe is somewhere else. Thus the theory Brahma satyam jagatmithya is defective. 
+
+This is a wrong interpretation given by Shaḿkara. The Buddhists did not question it and hence it was accepted at the time.
 
 Shaḿkara does not believe in jiiva and jagat. Thus the question arises, for what reason does the illusion exist?
 
@@ -70,8 +92,12 @@ Vyarthah kimarthaḿ kriyate shokah. -->
 
 [The eight mountains, the seven seas, the creation, Brahmá, the sun, and the god of death, neither you, nor I, nor this world the are all non-existent. Why should you lament for something non-existent?]
 
-The universe has not been created and hence there is no Saguńa Brahma or Qualified Supreme Entity. Shaḿkara believed only in Nirguńa Brahma or the non-qualified Supreme entity. Shaḿkara said that the universe is like a dream and the dreamer is also Brahma, as he did not believe in jiiva. When Brahma is Nirguńa how could Shaḿkara see, as seeing is a quality? But this was also forgotten by Shamkara.
+The universe has not been created. Hence there is no Saguńa Brahma or Qualified Supreme Entity. 
 
+Shaḿkara believed only in Nirguńa Brahma or the non-qualified Supreme entity. 
+- He said that the universe is like a dream and the dreamer is also Brahma, as he did not believe in jiiva. 
+
+When Brahma is Nirguńa how could Shaḿkara see, as seeing is a quality? But this was also forgotten by Shamkara.
 
 Again, according to Shaḿkara’s philosophy what is seen and experienced is all due to the influence of Máyá. This means Máyá is also an entity which Advaetavada or monism cannot accept.
 
@@ -117,12 +143,19 @@ This is therefore called Seshvaraváda or theism.
 
 ## Árya Samája
 
-It believes that jiiva, jagat and Brahma are all anádi. 
+1. It believes that jiiva, jagat and Brahma are all anádi. 
 
-This only shows that jiiva and jagat do not need any further entity like Brahma and all the three alike are anádi. This is unacceptable as this leaves no necessity for sádhaná or spiritual practice which is the Dharma or essential duty of every jiiva or human being. This also does not explain the reason for action and progress in the universe.
+This only shows that jiiva and jagat do not need any further entity like Brahma and all the three alike are anádi. 
 
-(2) It believes in yajiṋas or sacrifices not as karma or action but as a for of worship. Yajiṋa means karma but in Árya Samája it means offering to agni or fire in a particular form. There is no rational meaning in performing such Yajiṋas.
-(3) They also believe in pralaya or dissolution which is also irrational, since jiiva and jagat are anádi and as such there is no place for pralaya.
+This is unacceptable as this leaves no necessity for sádhaná or spiritual practice which is the Dharma or essential duty of every jiiva or human being. This also does not explain the reason for action and progress in the universe.
+
+2. It believes in yajiṋas or sacrifices not as karma or action but as a for of worship. 
+
+Yajiṋa means karma but in Árya Samája it means offering to agni or fire in a particular form. There is no rational meaning in performing such Yajiṋas.
+
+3. They also believe in pralaya or dissolution.
+
+This is also irrational, since jiiva and jagat are anádi and as such there is no place for pralaya.
 
 
 ## Marxism
@@ -131,7 +164,7 @@ It believes in the theoretical equality between human beings.
 
 This is not possible in practice because no two individuals are alike.
 
-This faith finds its field in the exploitation of poverty and hence it can only thrive in poverty-stricken areas.
+**This faith finds its field in the exploitation of poverty and hence it can only thrive in poverty-stricken areas.**
 - It has no tolerance for other religions or organizations.
 - It exists on violence only.
 <!-- (4) Its goal is purely imaginary equality. -->

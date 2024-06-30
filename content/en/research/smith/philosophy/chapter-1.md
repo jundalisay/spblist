@@ -135,28 +135,42 @@ Man pursues this study for its own sake, as an original pleasure or good in itse
 ### Pythagoras
 
 Greece, and the Greek colonies in Sicily, Italy, and Turkey, were the first countries in the western world to be civilized.
-The first Western philosophers there.
+The first Western philosophers accordingly appeared there.
 
-Law and order were established in Asia and Egypt, long before Greece.
-But it cannot be precisely determined whether, in the learning of the Chaldeans and Egyptians= 
-there ever was science, or
-whether their despotism prevented the growth of Philosophy.
-That despotism is more destructive of security and leisure than anarchy itself.
-It prevailed over all the East.
-The Greek colonies settled amid either barbarous or unwarlike nations and soon acquired a very great authority over them.
-They arrived at a considerable degree of empire and opulence before their parent country had surmounted extreme poverty.
+Law and order were established in the great despotic monarchies of Asia and Egypt, long before Greece.
 
-That poverty is necessarily attended with the confusion and misrule from a lack of regular subordination.
+
+Yet we do not have proofs to know precisely whether:
+- there ever was science in the learning of the Chaldeans and Egyptians, or
+- despotism in the East prevented the growth of Philosophy* just as anarchy did in the West.
+
+> *Superphysics Note: Science in the 'despotic' East was integrated into their traditions and religions, instead of being separate. We can say that despotism or monarchy is great at unifying even the sciences if the despot or monarch is truly intelligent. 
+
+
+<!-- That despotism is more destructive of security and leisure than anarchy itself.
+It prevailed over all the East. -->
+
+The Greeks had no concept of the distinction of ranks*. This leads to the lack of regular subordination. This then leads to confusion and misrule. 
+
+> *Superphysics Note: This distinction is based on the four classes
+
+
+The Greek colonies settled amid either barbarous or unwarlike nations, and soon the former acquired a very great authority over the latter.
+- They attained a considerable degree of empire and opulence before their parent country had surmounted the extreme poverty that came from the confusion and misrule.
+
+<!-- That poverty is necessarily attended with the confusion and misrule from a lack of regular subordination. -->
+
 The Greek islands were secure from the invasion of armies or navies.
-They gained all sorts of civility and improvement before the continent did.
-The first philosophers and poets, therefore were all natives of Greek colonies or islands.
+- This helped them gain all sorts of civility and improvement before the continent did.
+- The first philosophers and poets, therefore were all natives of Greek colonies or islands.
+
 Homer, Archilochus, Stesichorus, Simonides, Sappho, Anacreon were born there.
 
 Thales and Pythagoras were the founders of the two earliest sects of philosophy.
 - Thales came from an Asiatic colony.
 - Pythagoras came from an island.
 
-Neither of them established his school in the mother country. It is impossible to determine= 
+**Neither of them established their school in the mother country.** It is impossible to determine:
 - what was their system, or
 - whether their doctrine was so methodized as to be called a system.
 
@@ -167,14 +181,23 @@ Pythagoras’ school, however, seems to have advanced further in the study of na
 The successors of Thales were Anaximander, Anaximenes, Anaxagoras, and Archelaus.
 - The accounts given of them represent the doctrines of those sages as full of the most inextricable confusion.
 
-The most renowned philosophers of the Italian school were Empedocles, Archytas, Timaeus, and Ocellus the Lucanian.
+
+Pythagoras | Thales
+--- | ---
+{{< c v="red" >}}Empedocles{{< /c >}} (Aristotle) | Anaximander
+{{< c v="green" >}}Archytas{{< /c >}} (Plato) | Anaximenes
+{{< c >}}Timaeus{{< /c >}} | Anaxagoras
+{{< c >}}Ocellus the Lucanian{{< /c >}} | Archelaus
+
+<!-- the Italian  -->
+The most renowned philosophers of Pythagoras' school were Empedocles, Archytas, Timaeus, and Ocellus the Lucanian.
 - Their doctrine has something near to an organized system.
 - The opinions of Timaeus and Ocellus pretty much coincide.
 - Archytas and Empedocles seem to have been very different.
-- The opinions of Archytas coincide with those of Plato.
+- **The opinions of Archytas coincide with those of Plato.**
 
 Archyta invented the Categories.
-- Archyta may be regarded as the founder of ancient Dialectics.
+- He may be regarded as the founder of ancient Dialectics.
 
 The opinions of Empedocles coincide with those of Aristotle.
 - Empedocles authored the doctrine of the Four Elements.

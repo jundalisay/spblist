@@ -25,10 +25,10 @@ The previous chapter explained Critical Thinking and Critical Feeling.
 
 These two are used to solve problems. 
 - Critical thinking is usually for intellectual and physical problems
-- Critical feeling is usually for social and psychological problems
+- Critical feeling is usually for social and psychological ones
 
 
-Superphysics combines both and packages them around dharma or true nature in order to create a problem-solving tool which we call Socratic Dialectics. 
+Superphysics combines both and packages them around *dharma* or true nature in order to create a problem-solving tool which we call **Socratic Dialectics**.
 
 
 ## Dialectics is to Nature as Socratic Dialectics is to True Nature
@@ -43,10 +43,26 @@ Ordinary Dialectics is an expanded way of analysis that based on the ego.
 
 The Dialectics of Socrates, on the other hand, is a system of analysis based on the invisible metaphysical True Nature or Dharma or Tao* of anything that exists in reality.
 
-> *Dharma is the passive version. The Tao is the active 'flowing' version. Both have reference to metaphysical causes or the Supreme Entity. Lowercase dharma and tao are the ordinary version in nature. Similarly, 'True Nature' is anchored in something Divine and invisible, while 'nature' is what is ordinarily inherent.
+{{< box >}}
+### Note: Dharma versus Tao versus tao
+
+- "Dharma" is the passive version. An analogy is source code before it is deployed.
+- "The Tao" is the active 'flowing' version. An analogy is the logic in the app after it is deployed or is online.
+
+Both have reference to metaphysical causes or the Supreme Entity. 
+
+- "dharma" and "tao" are the ordinary version in nature. 
+
+Similarly, 'True Nature' is anchored in something Divine and invisible, while 'nature' is what is ordinarily inherent.
+{{< /box >}}
 
 
-You could say that Dialectics is from the perspective of the limited self, while Socratic Dialectics is from the perspective of the Universe or Existence (which the self is a part of). 
+You could say that:
+- Dialectics is from the perspective of the limited self
+- Socratic Dialectics is from the perspective of the Universe or Existence or the Totality of Selves* (which the self is a part of). 
+
+> *The Hindus call this totality as Brahma.
+
 
 Problems begin when something does not keep in line with its nature. For example:
 - loading a pickup truck with 2 tons when it was only designed for 1 ton will cause problems

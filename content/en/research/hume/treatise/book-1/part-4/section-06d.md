@@ -19,17 +19,19 @@ Two phenomena are remarkable:
 Yet sometimes we confound them.
 
 In our thinking and reasoning, we employ the one for the other.
+
 A man who hears a sound that is frequently heard on and off, says that it is still the same sound even if those sounds only resemble each other.
+- Those sounds are not numerically the same.
+- Only the source that produced those sounds is numerically the same.
 
-Those sounds are not numerically the same.
-Only the source that produced those sounds is numerically the same.
 A brick church falls to ruin.
-
-The parish rebuilds the same church of stone, according to modern architecture.
-The form and materials are not the same.
+- The parish rebuilds the same church of stone, according to modern architecture.
+- The form and materials are not the same.
 
 The only common to the two objects is their relation to the people of the parish.
+
 Yet this alone is enough to make us call them the same.
+
 In these cases, the initial object is destroyed before the latter object comes into existence.
 
 Our minds do not get more than one impression of the object at a time.
@@ -131,10 +133,13 @@ Our impressions give rise to their correspondent ideas.
 These ideas in turn produce other impressions.
 
 One thought chases another and draws after it a third, by which it is expelled in its turn.
+
 I can only compare the soul to a republic with several members united by the reciprocal ties of government and subordination.
 
 This gives rise to other persons who propagate the same republic through constant change.
+
 The same republic may change its members, laws, and constitutions.
+
 Similarly, a person may vary his character, disposition, impressions and ideas, without losing his identity.
 Whatever changes he endures, his parts are still connected by causation.
 Our identity is directed by our feelings to corroborate with causation in our imagination:

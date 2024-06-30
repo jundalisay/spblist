@@ -2,7 +2,7 @@
 title: "Book 1"
 heading: Part 1
 description: "Research on David Hume"
-image: /covers/essays.jpg
+image: /covers/treatise.png
 weight: 4
 writer:
   name: David Hume

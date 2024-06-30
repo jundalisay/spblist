@@ -66,94 +66,48 @@ Raise your eyes. Look! God is not confined to four walls.
 He has gone where the farmers are tilling and toiling all year round”.
 –Rabindranath Tagore
 
-In the Vipra era, humanity was affronted by the creation of divisions between high and low. People of high-birth would lose their caste if they merely stepped on the shadow of the so-called low-castes. Even worse, if a Vedic Brahman touched a person from a low family he was declared an outcaste. In no other age has humanity suffered such hatred and insult. Rabindranath says, “By standing aloof from your fellow man daily, you have hated the God enthroned in his heart.”
+In the Vipra era, humanity was affronted by the creation of divisions between high and low. 
+
+People of high-birth would lose their caste if they merely stepped on the shadow of the so-called low-castes. 
+
+Even worse, if a Vedic Brahman touched a person from a low family he was declared an outcaste. 
+
+In no other age has humanity suffered such hatred and insult. 
+
+Rabindranath says, “By standing aloof from your fellow man daily, you have hated the God enthroned in his heart.”
+
 Instead of hating anyone, the Sadvipras will encourage everyone to build good careers. This will be Sadvipra’s principle duty. None should feel that they have been doomed for good.
-The Present Age and Human Values
+
+### The Present Age and Human Values
+
 At present life is valued on the basis of money.
+
 Yasyástivittam sah sarah kuliinah sah panditah
 Sah shutaban gunagnah sa eva vaktása ca darshaniiyah
 Sarve gunah kancanámá trayanti.
 
-That is, these days, a person who possesses wealth is respected and revered whereas a person without money is a person honoured by none. The poor, whoever they may be, have to woo the rich just for the sake of earning their livelihood. Human values have become meaningless, for human beings have become the means for the rich to earn money. The rich, having purchased the human mind with their money, are busy playing a game of chess with the other members of society. Bereft of everything, people toil round the clock to earn a mere pittance. Today the motto of people is, “I have to send some food particles into the apathetic stomach after somehow taking a dip in the muddy water amidst hyacinths.”
-Those who are at the helm of society, constantly suspicious of others, forever count their losses and profits. They have no desire to think about the plight of humanity. Rather, to gratify themselves they are ready to chew the human bone, and suck human blood. For the self-centred there is no place for feelings of mercy, sympathy or camaraderie.
+That is, these days, a person who possesses wealth is respected and revered whereas a person without money is a person honoured by none.
 
-The railway stations and market places are full of half-clad beggars and lepers desperately stretching out their begging bowls, earning their livelihood in the only way they know. They are fortunate if anyone contemptuously flings them a copper coin. The old blind beggars sitting all day long on the steps of a bridge automatically lift their bowls whenever anyone walks past. But their hungry pleas fall on deaf ears. On the other side of the social coin, sumptuous dishes are being prepared to entertain the rich dignitaries. These contrasts ridicule the present human society.
+The poor, whoever they may be, have to woo the rich just for the sake of earning their livelihood. 
 
-Today, those who occupy high posts are also respected. Dignity is attached to post or rank. A station master will take great pains to prepare the railway minister’s visit, but will never trouble himself with the inconveniences faced by the ordinary passengers. Luxurious houses are built for high-ranking officers while the poor live in shanty towns, barely protected from the elements. I don’t say that large houses should never be built, but that everyone should be provided the minimum requirements. “I admit that both rice and tasty dishes are necessary for people, but I shall not demand a sumptuous dish from the goddess of food until I see that India has been overflooded with an abundance of rice.”
-These days educated people are so proud of their erudition that they detest illiterate people and avoid the company of commoners. Thus they shun village life and live in towns. When the question of returning to the village crops up, they say, “What on earth would we do in a village? There’s not a single person to talk to. Only idiots live there.”
+Human values have become meaningless, for human beings have become the means for the rich to earn money. The rich, having purchased the human mind with their money, are busy playing a game of chess with the other members of society. 
 
-This explains why almost all attention is focused on the urban areas to the detriment of the villages. While soliciting votes, political leaders pay a short visit to the villages with a mouthful of attractive promises. They promptly inform the ignorant populace about their great achievements in constructing huge dams; though perhaps village cultivation is becoming impossible due to want of irrigation. They give detailed descriptions about their plans to build bridges and bungalows and install television sets, though perhaps in that village people die for want of medicine, or beg for food in poverty-stricken desperation. And yet the common villagers constitute the backbone of society. Even in the towns not everyone gets equal opportunities. The pavements have become the home for so many people. Rabindranath says, “ There are always a number of uncelebrated people in the human civilization. They are the majority, and they are the medium, but they have no time to become human beings. They are raised on the leftovers of the national wealth. They are poorly dressed and receive little education, yet they serve the rest of society. They give maximum labour but are rewarded with ignominy – they die of starvation or are tortured to death by those they serve. They are deprived of all life’s amenities. They are the candlestick of civilization: they stand erect with the candle resting on their head. Everyone gets light from it, while they suffer the discomfort of the wax trickling down their sides. In this way, the dishonest of humanity or the neglect of human values has become a social malady.”
+Bereft of everything, people toil round the clock to earn a mere pittance. Today the motto of people is, “I have to send some food particles into the apathetic stomach after somehow taking a dip in the muddy water amidst hyacinths.”
 
-Another glaring example of the neglect of human values is the present judicial system. When arrested, people have to stand in the dock for the accused and face a trial based on evidence and the lawyer’s eloquence, no matter if they are guilty or not. A criminal who can afford to hire a reputable lawyer may emerge from the legal processes unscathed, whereas an innocent person of meagre financial means who is unable to appoint a good counsel, may end up in prison. If a thief is set free it is a crime, no doubt; but if an innocent person is punished it is a severe dishonour to humanity.
+Those who are at the helm of society, constantly suspicious of others, forever count their losses and profits. They have no desire to think about the plight of humanity. 
 
-One of the primary causes of crime today is the lack of virtuous people. Those who are honest try to follow moral principles in their private lives, but at times have to abandon moralism under the pressure of poverty. Eventually they may find themselves in the dock of the accused, charged with committing theft. The law is not concerned with the poverty which forced them to steal, nor, indeed, does the law make provisions for the maintenance of their families if they are given a prison sentence. As a consequence, their children will have to become pick-pockets and petty thieves and their unfortunate wives have to embrace an ignoble and sinful life in the underworld, for survive they must. On being released from jail, the men will meet social discrimination and alienation and, with little other choice, will be forced to select crime as their profession. In this way hundreds of families are being ruined each day. Nobody feels their agony or offers them sympathy; for today the common people are not anybody’s concern.
+Rather, to gratify themselves they are ready to chew the human bone, and suck human blood. For the self-centred, there is no place for feelings of mercy, sympathy or camaraderie.
 
-The black marketeers who escape punishment by virtue of money are now occupying the commanding positions in society – the more one is devious and hypocritical, the more powerful one becomes.
+The railway stations and market places are full of half-clad beggars and lepers desperately stretching out their begging bowls, earning their livelihood in the only way they know.
 
-[This last section was also printed separately as “The Neohumanism of Sadvipras” in Neohumanism in a Nutshell Part 1. This is the Neohumanism in a Nutshell Part 1, 2nd edition, version.]
+They are fortunate if anyone contemptuously flings them a copper coin. The old blind beggars sitting all day long on the steps of a bridge automatically lift their bowls whenever anyone walks past. But their hungry pleas fall on deaf ears. On the other side of the social coin, sumptuous dishes are being prepared to entertain the rich dignitaries. These contrasts ridicule the present human society.
 
-To sadvipras [spiritual revolutionaries] the value of human life surpasses all other values. So states and scriptures, societies and religions, acquire significance only insofar as they develop humanity to the maximum through learning, culture, physical health and economic plenty. It is for the sake of developing humanity that civilization has so many institutions of different kinds, that states take their various forms, that theories proliferate, and that the scriptures abound in ordinances and regulations. What in the world does the state stand for, what is the use of all these regulations, and what are the marvels of civilization for, if people are prevented from manifesting themselves, if they do not get the opportunity to build good physiques, to invigorate their intelligence with knowledge, or to broaden their hearts with love and compassion? If, instead of tending to lead human beings to the goal of life, the state stands in the way, it cannot command loyalty, because humanity is superior to the state. According to Rabindranath Tagore, “Justice and law at the cost of humanity is like a stone instead of bread. Maybe that stone is rare and valuable, but it cannot remove hunger.”
+Today, those who occupy high posts are also respected. Dignity is attached to post or rank. 
 
-It is customary to give preference to social value over human value. Sadvipras want to strike at the root of this custom. For them, human value takes precedence over social value. Human beings form the society, and hence human value must lay the foundation for the social value. In other words, those who show respect to human value will be entitled to social value. It was mentioned earlier that human value means nothing but to treat the joys and sorrows, hopes and aspirations of human beings sympathetically, and see them merged in Cosmic Consciousness and established in divine majesty. And if one is to elevate oneself to that sublime height, he or she will have to be supplied with an environment suitable to his or her physical, mental and spiritual existence. It is the birthright of everyone to make headway in their trifarious existence. It is the duty of society to accord recognition to this human right. Society has failed to do its duty, and that is why life is full of sorrow and suffering.
+A station master will take great pains to prepare the railway minister’s visit, but will never trouble himself with the inconveniences faced by the ordinary passengers. 
 
-No one can say for certain that no great person might have emerged from among those wayward urchins whom we are wont to slight and hate. 
+Luxurious houses are built for high-ranking officers while the poor live in shanty towns, barely protected from the elements. I don’t say that large houses should never be built, but that everyone should be provided the minimum requirements.
 
-Women who have turned to prostitution for the sake of their physical existence might have grown into noble personalities if their agony had been appreciated sympathetically, and if they had been rehabilitated by society. 
+“I admit that both rice and tasty dishes are necessary for people, but I shall not demand a sumptuous dish from the goddess of food until I see that India has been overflooded with an abundance of rice.”
 
-But since society has nothing to do with human value, so many great personalities are withering away in their embryonic stage. 
 
-The sadvipras will undertake to revive this neglected section of humanity. 
-- To them no sinner is contemptible, no one is a rogue. 
-
-People turn into satans or sinners when, for want of proper guidance, they are goaded by depraving propensities. The human mind goaded by depraving propensities is satan. If their propensities are sublimated, they will no longer be satans; they will be transformed into gods. Every course of action of society ought to be judged with an eye to the dictum “Human beings are divine children.”
-
-Thus the purpose of the penal code which will be framed by the sadvipras will be to rectify, and not to punish, a person. 
-
-They will knock down the prisons and build reform schools, rectification camps. Those who [are] inborn criminals, in other words, those who perpetrate crimes because of some organic defects, ought to be offered treatment so that they may humanize themselves. And regarding those who commit crimes out of poverty, their poverty must be removed.
-
-The significance of society lies in moving together. If in the course of the journey anybody lags behind, if in the darkness of night a gust of wind blows out anyone’s lamp, we should not just go ahead and leave them in the lurch. We should extend a hand to help them up, and rekindle their lamps with the flames of our lamps.
-
-Vartiká laiyá háte calechila ek sáthe
-Pathe nibe geche álo pare áche tái
-Tomrá ki dayá kare tulibená háth dhare
-Ardhadańd́a tár tare thámibená bhái.
-[While marching together with lamps in our hands, someone’s lamp has gone out, and he is lying beside the road. Brothers and sisters, will you not stop for a moment to lift him up?]
-
-Stop we must, otherwise the spirit of society is in jeopardy.
-
-A rśi [sage] has said: Samamantreńa jáyate iti samájah [“Society is the collective movement of a group of individuals who have decided to move together towards a common goal”]. That is, whether people are pápii or tápii [sinners or victims], thieves, criminals, or characterless individuals, they are so only superficially; internally they are filled with the potential for purity. 
-
-The principal object of the sadvipras is to explore and bring this potentiality into play. 
-- They will accord human value to everyone without exception. 
-
-Those who have done hateful crimes must be punished, but sadvipras will never hate them, or put an end to them by depriving them of food, because sadvipras are humanists. 
-
-The pandits puffed up with vainglory could turn their attention to their books instead of attending on the ailing non-Hindu Haridas, but Chaitanya Mahaprabhu found it impossible to remain indifferent to him. He took Haridas in his arms and nursed him carefully, and thus showed respect to human value.
-
-However, when the question of social responsibility arises, it must be considered with great care. 
-
-Irresponsible people cannot be entrusted with social responsibility, because those who shoulder social responsibility will have to lead humanity on the path of development, and correct the ways of sinners. 
-
-If they themselves are of evil mentality, it will not be possible for them to discharge their social responsibility. 
-
-It has been said: “The collective body of those who are engaged in the concerted effort to bridge the gap between the first expression of morality and establishment in universal humanism is called society.”(1) So social responsibility should be entrusted to those who are capable of discharging it creditably. 
-
-If moralism is the starting-point of the journey of society, then those who are at its helm must be moralists. 
-
-Society aims to establish universalism, and therefore those people must be universalists.
-
-If the gap between moralism and universal humanism is to be bridged, spiritual sádhaná is a must, so those people must practise rigorous sádhaná. Their philosophy of life must be, “Morality is the base, sádhaná is the means, and life divine is the goal.”
-
-This great responsibility must never be entrusted to those who are themselves criminals. Unless and until such people correct themselves, they will not be given any social value, though in no way will they be denied human value.
-
-At present social value is given importance, but those who are selected to discharge social responsibility do not possess the aforesaid qualities. They have occupied their posts on the strength of their money or on the basis of patronage, but this has not resulted in any collective welfare. That is why there is an instruction in our social scripture:
-
-Do not be misled by anyone’s tall talk. Judge merit by seeing the performance. Remember, whatever position one is in offers sufficient opportunity to work. One whose character is not in accordance with Yama-Niyama should not get opportunity [[to become]] a representative.… to [[vest]] an incompetent person with power means to push society towards destruction knowingly and deliberately. (“Society” in Caryacarya Part 2, 1999)
-
-The sadvipras will install qualified persons in power, and the social order which will be evolved by virtue of their leadership will give due importance to one and all. In this new society based on Neohumanism, everyone will find their life worth living. All will regain their lost positions of honour.
-
-March 1970
-
-## Footnotes
-
-(1) Shrii Prabhat Ranjan Sarkar, “Moralism” in Human Society Part 1 (slightly rephrased here by the author). –Eds.

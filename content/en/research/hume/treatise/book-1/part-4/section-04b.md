@@ -37,7 +37,6 @@ This system of mine has many objections. The most decisive one is that if colour
 - reduce ourselves to the opinions of the most extravagant skepticism concerning them. --> 
 <!--  would have a real, continued, and independent existence. -->
 
-<br> 
 
 ## The Idea of Motion Requires a Body
 
@@ -64,7 +63,6 @@ Therefore, it must finally resolve itself into an idea that is perfectly simple 
 
 Space cannot be real if identity is not.
 
-<br>
 
 ### Identity
 
@@ -152,7 +150,6 @@ But this method of thinking is more popular than philosophical, as proven by the
 
 <!-- The Materialist Philosophy is Not Philosophical -->
 
-<br>
 
 ### Reflection 1:  Bodies are perceived through their identity. Yet the perception of identity is a different thing from the identity.
 
@@ -165,7 +162,6 @@ A man who has a paralyzed left hand and a normal right hand on the table can per
 An object that presses on us meets resistance. That resistance, by the motion it gives to the nerves and animal spirits, conveys a sensation to the mind.
 - But it does not follow, that that sensation is the same as that motion and resistance.
 
-<br>
 
 ### Reflection 2:  The impressions of perception are simple impressions, except when considered with regard to space.
 

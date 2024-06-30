@@ -59,7 +59,7 @@ The modern philosophy of Descartes pretends to:
 
 Where is this pretension based on?
 
-The fundamental principle of Descartes' philosophy is its opinion that colours, sounds, tastes, smells, and temperature are nothing but impressions in the mind.
+**The fundamental principle of Descartes' philosophy is its opinion that colours, sounds, tastes, smells, and temperature are nothing but impressions in the mind.**
 - These impressions are derived from our senses which re-create them in a different way from their true nature in the external objects where they come from.  <!-- without any resemblance to the qualities of the objects. -->
 - Our impressions of the colours, sounds, tastes, smells, and temperature of objects vary even if the external object stays the same. 
   - This is the only thing that Descartes gets totally correct

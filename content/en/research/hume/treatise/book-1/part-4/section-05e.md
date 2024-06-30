@@ -1,6 +1,6 @@
 ---
 heading: "Section 5e"
-title: "Spinoza's Philosophy -- The Soul's Immateriality"
+title: "Spinoza's system is really Theological"
 weight: 33
 image: /covers/treatise.png
 description: "It has been said against Spinoza scholastically, that a mode is not any distinct or separate existence"
@@ -42,7 +42,7 @@ It has been said, that we do not have any idea of:
 - substance that is not applicable to matter, and
 - a distinct substance which is not applicable to every distinct portion of matter.
 
-**Therefore, Matter is not a modification but a substance.**
+**Therefore, Matter is not a modification, but a substance.**
 
 Each part of matter is not a distinct modification, but a distinct substance.
 We have no perfect idea of substance.
@@ -63,14 +63,18 @@ It must at the very same instant be modified into forms which are contrary and i
 
 The round and square shapes are incompatible in the same substance at the same time.
 
-**How then is it possible, that the same substance can at once be modified into that square table, and into this round one?**
+**How then can the same substance be modified into that square table and into this round one at the same time?**
 
 I ask the same question on the impressions of these tables.
+
 I find that the answer is no more satisfactory in one case than in the other.
+
 Whatever side we turn to, the same difficulties follow us.
 
 We cannot advance one step towards the establishing the soul's simplicity and immateriality without preparing the way for a dangerous and irrecoverable atheism.
+
 It would be the same as calling a 'thought' as an 'action' instead of 'a modification of the soul'.
+
 'Action' would then mean the same thing as an 'abstract mode'.
 
 An abstract mode is something that is:
@@ -90,7 +94,9 @@ The 2 following reflections will show this.
 
 Our perceptions are all really different, separable, and distinguishable from each other and from everything we can imagine.
 It is impossible to conceive how our perceptions can be the action of any substance.
+
 Motion is commonly used to show how perception works, in the same way that action is used to show how its substance works.
+
 But this confounds us more than it instructs us.
 
 Motion induces no real nor essential change on the body.
@@ -172,8 +178,4 @@ Thus, to consider the matter a priori:
 - Anything can produce anything.
 - We can never discover why any object may or may not be the cause of any other, no matter the resemblance between them.
 
-
-
-
 This destroys the precedent reasoning on the cause of thought or perception.
-

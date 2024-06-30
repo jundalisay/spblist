@@ -192,16 +192,21 @@ It inevitably follows, that since the idea of duration cannot be derived from an
 Ideas always represent the objects or impressions, from which they are derived.
 
 Ideas can never represent or be applied to any other impressions without a fiction.
+
 We shall consider in Section 5 by what fiction we:
-apply the idea of time, even to what is unchangeable, and
-suppose that duration is a measure of rest and motion.
+- apply the idea of time, even to what is unchangeable, and
+- suppose that duration is a measure of rest and motion.
+
 There is another very decisive argument, which establishes the present doctrine on our ideas of space and time.
 
 It is founded only on that simple principle, that our ideas of them are compounded of parts which are indivisible.
+
 This argument is worth examining.
+
 Let us take one of those simple indivisible ideas which forms the compound idea of space.
 
 Let us separate it from all other ideas and judge its nature and qualities.
+
 The indivisible idea behind the compound idea of space is not the simple idea of space, for the idea of space consists of parts.
 
 According to the supposition, the simple idea of space is perfectly simple and indivisible.

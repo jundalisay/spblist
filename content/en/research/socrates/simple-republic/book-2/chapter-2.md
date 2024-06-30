@@ -38,7 +38,8 @@ True, but how does the illustration apply to our enquiry?
 {{< /r >}}
 
 
-{{< l a="Socrates" >}}Justice is sometimes spoken of as the virtue of an individual, and sometimes as the virtue of a State. A State is larger than an individual. In the larger, the quantity of justice is likely to be larger and more easily discernible. We should enquire into the nature of justice and injustice:
+{{< l a="Socrates" >}}
+Justice is sometimes spoken of as the virtue of an individual, and sometimes as the virtue of a State. A State is larger than an individual. In the larger, the quantity of justice is likely to be larger and more easily discernible. We should enquire into the nature of justice and injustice:
 - as they appear in the State, and
 - in the individual.
 

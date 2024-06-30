@@ -42,7 +42,7 @@ One consists of an intrinsic portion of the mind itself, and the other of the 10
 <!-- The propensive propulsion comes from  -->
 
 The antahkarańa therefore<!--  The origin or --> is:
-- the source of the propulsion is antahkarańa. 
+- the source of the propulsion
 - is made of the conscious and subconscious portions of the mind.
   - Thinking, memory, etc., all belong to antahkarańa. 
   - Antahkarańa is doing these things

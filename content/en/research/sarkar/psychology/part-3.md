@@ -8,9 +8,7 @@ icon: "/icons/sarkar.png"
 ---
 
 
-Amongst the different faculties of this globe in the physico-psycho-spiritual realms, mental faculties are of maximum importance. These
-
-Mental faculties can be categorized into 4 main groups:
+Amongst the different faculties of this globe in the physico-psycho-spiritual realms, mental faculties are of maximum importance. These Mental faculties can be categorized into 4 main groups:
 
 1. Thinking
 
@@ -22,15 +20,30 @@ Regarding this faculty of thinking, if it is done in a methodical way, the resul
 
 But if it is not done in a methodical way, the general result is negative: only in very rare cases do we get a positive result. 
 
-So our students, our boys and girls, our ladies and gentlemen should be taught how to think in a methodical style, otherwise there will be wastage of mental potentialities. We do not want such wastage to take place in this age of science.
+So our students should be taught how to think in a methodical style, otherwise there will be wastage of mental potentialities. We do not want such wastage to take place in this age of science.
 
 Regarding thinking with concentration, that is, meditation – it is another, still subtler, science. 
 
-Meditation should be performed knowing fully well the location of different glands and sub-glands and also the different cells in the human brain. And people should not only know the location of these glands and sub-glands, they should also be acquainted with their respective systems of hormone secretion, otherwise their meditation will not produce any fruit. So for this system of meditation, knowledge of biology is essential. Human beings have yet to invent the way of methodical thinking and methodical meditation based on the location of different concerned cells, glands and sub-glands, and their secretion of the requisite quantity of hormones.
+Meditation should be performed knowing fully well the location of different glands and sub-glands and also the different cells in the human brain. 
+
+People should:
+- know the location of these glands and sub-glands
+- be acquainted with their respective systems of hormone secretion, otherwise their meditation will not produce any fruit. 
+
+So for this system of meditation, knowledge of biology is essential. 
+
+Human beings have yet to invent the way of methodical thinking and methodical meditation based on:
+- the location of different concerned cells, glands and sub-glands
+- their secretion of the requisite quantity of hormones.
+
 
 2. Remembering
 
-The mind discovers or invents different systems of remembering or memorizing. While remembering, the mind should know how to associate the object to be remembered with psychic pabula of a similar nature. And human beings should know how to select these associated psychic pabula which have similarity [or] proximity to the object that they want to remember. In the case of memorizing there should be both a physical and a psychic approach, and to some extent a spiritual approach.
+The mind discovers or invents different systems of remembering or memorizing. 
+
+While remembering, the mind should know how to associate the object to be remembered with psychic pabula of a similar nature. 
+
+Human beings should know how to select these associated psychic pabula which have similarity [or] proximity to the object that they want to remember. In the case of memorizing there should be both a physical and a psychic approach, and to some extent a spiritual approach.
 
 For the purpose of memorizing, we should avoid the use of different sub-glands producing inimical hormones. The system of memorizing should be associated with the qualities and roots of the different plexi of the human body.
 
@@ -57,7 +70,7 @@ These should be started immediately for:
 
 These training centres should be:
 - classified into different types
-- run separately for different psychological structures for differently developed, developing and underdeveloped living beings. 
+- run separately for different psychological structures for differently developed, developing and underdeveloped living beings.
 
 For instance, there should be:
 - one type of training academy for developed animals like monkeys, dogs, chimpanzees and orang-utans

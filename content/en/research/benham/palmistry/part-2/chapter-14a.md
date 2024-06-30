@@ -8,27 +8,38 @@ contributors: ['Benham']
 ---
 
 
-## Ring of Solomon
+## Ring of Solomon: Occult
 
 The Ring of Solomon is a small line rising between the fingers of Jupiter and Saturn.
 - It runs downward and encircling the Mount of Jupiter, and ending near the beginning of the Life line (544). 
 
-It is an indication of a love for occult studies, and of an ability to obtain proficiency in them if other necessary Chirognomic indications be present. 
+It is an indication of:
+- a love for occult studies, and
+- an ability to obtain proficiency in them if other necessary Chirognomic indications be present. 
 
 It is most often seen in a much-lined hand, and generally a Croix Mistique is also found in the quadrangle. 
 
-I have seen many subjects with this marking who have developed great aptitude for occult studies, and none in whose hands I have noted it have ever been lacking in a fondness for Psychology. The great raying and lining present in most of the hands in which I have seen it would of itself indicate great impressionability and numerous emotions, and such subjects are always interested in new things. 
+I have seen many subjects with this marking who have developed great aptitude for occult studies, and none in whose hands I have noted it have ever been lacking in a fondness for Psychology. 
 
-The Ring of Solomon by itself, however, must not be taken as a sign manual of proficiency in the realm of occult thought. It is only an indication which should draw your attention in this direction. Before committing yourself to any extent on the occult powers of the subject, see if a good brain and other necessary adjuncts be present. 
+It usually has great raying and lining which shows great impressionability and numerous emotions. Such subjects are always interested in new things. 
 
-See if energy, ability to study, and perseverance are indicated. Dreamy idlers who rely upon inspiration or revelations from on high, and not upon good reasoning, compose only the cranks in the field of occult studies. Even a good Ring of Solomon will not rescue such from the multitude of those who have done nothing but talk. 
+The Ring of Solomon by itself, however, is not a sign of proficiency in the realm of occult thought. 
+- It is only an indication which should draw your attention in this direction. 
 
-People who have accomplished much in the psychic world have square or spatulate tips with knotty joints, and their success has been largely due to hard study and the application of good reasoning. <!-- The Ring Of Solomon 695 No. 544.  -->
+Before committing yourself to any extent on the occult powers of the subject, see if a good brain and other necessary adjuncts are present.
+
+See if energy, ability to study, and perseverance are indicated. 
+
+The cranks in the field of occult studies are the dreamy idlers who rely on inspiration or divine revelations, not on good reasoning.
+
+Even a good Ring of Solomon will not rescue such a crank from the multitude of those who have done nothing but talk. 
+
+People who have accomplished much in the psychic world have square or spatulate tips with knotty joints. Their success has been largely due to hard study and the application of good reasoning. <!-- The Ring Of Solomon 695 No. 544.  -->
 
 The presence of a Ring of Solomon will help all of these students. The kind of subject on which it is seen must, however, be the guide in reading this line.
 
 
-## Ring of Saturn
+## Ring of Saturn: Suicide
 
 The Ring of Saturn is a line which rises between the fingers of Jupiter and Saturn. 
 - It encircles the finger of Saturn
@@ -62,13 +73,19 @@ Often defects and obstructions in the line of Saturn, with the Ring of Saturn pr
 
 The Apollo line will frequently be similarly affected. 
 
-When searching the hand for the cause of some disaster or impediment which we see marked, the presence of a Ring of Saturn will often furnish us an explanation. As vacillation is indicated by a broken or islanded Head line, the Ring of Saturn with such a Head line will intensify the changeable character of the subject. Such a combination with a defective Saturn line will furnish an explanation of the impediments in that line. A similar combination will affect in the same manner a defective line of Apollo. 
+When searching the hand for the cause of some disaster or impediment which we see marked, the presence of a Ring of Saturn will often furnish us an explanation. 
+
+As vacillation is indicated by a broken or islanded Head line, the Ring of Saturn with such a Head line will intensify the changeable character of the subject. 
+
+Such a combination with a defective Saturn line will furnish an explanation of the impediments in that line. A similar combination will affect in the same manner a defective line of Apollo. 
 
 The Lunarian is the most changeable of the types. He will be made much more so by a Ring of Saturn. 
 
 It is hardly possible for such a subject to obtain enduring success. If the Ring of Saturn does not completely circle the Mount but is broken, it is not as unfavorable a marking as if it completed its course. 
 
-In this case some outlet will be left for the Current, and the Mount of Saturn will not be made so defective. Even with this imperfect ring, however, there is a degree of its defect present, the subject having at least a tendency in that direction, and in a final estimate this fact must not be lost sight of. 
+In this case, some outlet will be left for the Current. The Mount of Saturn will not be made so defective. 
+
+Even with this imperfect ring, however, there is a degree of its defect present, the subject having at least a tendency in that direction, and in a final estimate this fact must not be lost sight of. 
 
 When the Ring of Saturn is composed of two lines which cross each other on the Mount of Saturn (547), it must be read in the same manner as a large cross on that Mount. This marking I have seen on several suicides. <!-- The Ring Of Saturn 696 No. 545.  -->
 

@@ -4,59 +4,20 @@ title: "The Line of Health or Hepatica"
 weight: 28
 contributors: ['Ranald']
 image: "/covers/hands.png"
-description: ""
-draft: true
+description: "THE line of health or Hepatica runs down the hand in a diagonal direction, normally from the mount of Mercury toward the line of life, and is classed among the major lines"
 ---
 
 
-THE
-of
-Hepatica (see plate 27, number 7), which
-from the mount
-line of health or
-down
-runs
-THE LINE OF HEALTH OR HEPATICA
-hand
-the
-in a diagonal direction, normally
-Mercury toward the
-line of life, is classed
-among
-the major lines.
-however, often absent altogether or only very faintly or frag-
-mentarily present. Its total absence is the best indication of all, for
-It
-is,
-this
-shows an extremely robust, resistant and energetic constitution.
-down the
-palm from Mercury through the mount of Luna is
-a good second-best. Though this position does not indicate the com-
-Next
-to complete absence, a straight line, extending
-outer side of the
-plete escape from ills which absence shows, it
-resistance to whatever ailments are contracted.
-still
-manifests great
-The
-point at which the line of health actually encounters the line
-when the former takes its normal position in diagonal line, is
-one at which the health and life are seriously menaced. If the line of
-of
-life,
-life is
-weak
-at this point,
-lines of heart
-the end of
-and head,
-and
-if
-there
-this point
-is
-corroborating evidence in the
-can almost certainly be taken as
-life.
+
+THE line of health or Hepatica (see plate 27, number 7) runs down the hand in a diagonal direction, normally from the mount of Mercury toward the line of life, and is classed among the major lines. 
+
+It is, however, often absent altogether or only very faintly or fragmentarily present. 
+
+Its total absence is the best indication of all, for this shows an extremely robust, resistant and energetic constitution. Absence shows a complete escape from ills.
+
+Next to complete absence, a straight line, extending down the outer side of the palm from Mercury through the mount of Luna is a good second-best. It manifests great resistance to whatever ailments are contracted.
+
+Health and life are seriously menaced when the line of health actually encounters the line of life, and the former takes its normal position in a diagonal line.
+
+If the line of life is weak at this point, and if there is corroborating evidence in the lines of heart and head, this point can almost certainly be taken as the end of life.
+

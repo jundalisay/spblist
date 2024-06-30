@@ -96,14 +96,14 @@ Those great phenomena are the first objects of human curiosity.
 {{< s v="153" >}} In every age and country, men must have attended to one another's characters, designs, and actions.
 
 Many reputable rules and maxims for the conduct of human life must have been laid down and approved of by common consent.
-As soon as writing came into fashion, wise men would naturally endeavour= 
+As soon as writing came into fashion, wise men would naturally endeavour:
 - to multiply those maxims, and
-- to express their own sense of what was proper or improper conduct sometimes in= 
+- to express their own sense of what was proper or improper conduct sometimes in: 
   - the more artificial form of apologues, like Aesop's fables,
-  - the more simple form of apophthegms or wise sayings like= 
-	- The Proverbs of Solomon
-	- The verses of Theognis and Phocyllides
-	- The works of Hesiod
+  - the more simple form of apophthegms or wise sayings like:
+  	- The Proverbs of Solomon
+  	- The verses of Theognis and Phocyllides
+  	- The works of Hesiod
 
 They might continue in this way for a long time merely to multiply those maxims of prudence and morality, without even attempting to:
 - arrange them in any distinct or methodical order, and

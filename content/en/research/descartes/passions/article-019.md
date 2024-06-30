@@ -16,14 +16,24 @@ icon: /icons/descartes.png
 
 Our perceptions are also of 2 kinds:
 
-1. Some have the soul for their caus
-2. Others the body. 
+1. Those that are caused by the soul
 
-Those that have the soul for their cause are the perceptions of our wills, and of all imaginations or other thoughts that depend on them. For it is certain that we cannot will anything without perceiving at the same time that we want it. 
+These are the perceptions of our wills, and of all imaginations or other thoughts that depend on them. This is because we cannot will anything without perceiving at the same time that we will it.
 
-Although with regard to our soul, it is an action to will something, we can say that it is also in it a passion to perceive that it wills. 
+This will comes from our passions. 
 
-However, because this perception and this will are indeed the same thing, the denomination is always made by what is the most noble; and thus it is not customary to call it a passion, but only an action.
+2. Those that are caused by the body
+
+
+<!-- Although with regard to our soul, it is an action to will something, we can say that it is also in it a passion to perceive that it wills. 
+
+However, this perception and this will are the same thing. 
+
+, the denomination is always made by what is the most noble; and thus it is not customary to call it a passion, but only an action.
+
+And although in respect of our soul it is an Action to will something, it can also be said in it to be a Passion to perceive that it wills. 
+
+However, because this perception and this volition are really the same thing, the name is always taken from the more noble one; and so it is not usually called a Passion, but only an Action. -->
 
 
 ### 20. The Imaginations and Other Thoughts Formed by the Soul
@@ -35,7 +45,9 @@ Therefore, they are usually considered actions rather than passions.
 
 ### 21. The Imaginations That Have Only the Body for Their Cause
 
-Among the perceptions caused by the body, most depend on the nerves. But there are also some that do not depend on them, and which are called imaginations, like those I have just spoken of, which nevertheless differ in that our will does not apply itself to form them; which means that they cannot be counted among the actions of the soul. 
+Among the perceptions caused by the body, most depend on the nerves. 
+
+But there are also some that do not depend on them. These are called imaginations, like those I have just spoken of, which nevertheless differ in that our will does not apply itself to form them; which means that they cannot be counted among the actions of the soul. 
 
 They only arise from the fact that the spirits, being variously agitated and encountering the traces of various impressions that have preceded in the brain, take their course fortuitously through certain pores rather than others. 
 
@@ -46,7 +58,7 @@ Although some of these imaginations are passions of the soul, taking this word i
 
 ### 22. The Difference Between Various Perceptions
 
-All the perceptions that I have not yet explained come to the soul through the nerves, and there is this difference between them: some we attribute to external objects that strike our senses, others to our body or to some of its parts, and finally others to our soul.
+There are perceptions that I have not yet explained come to the soul through the nerves, and there is this difference between them: some we attribute to external objects that strike our senses, others to our body or to some of its parts, and finally others to our soul.
 
 
 ### 23. Perceptions We Attribute to External Objects

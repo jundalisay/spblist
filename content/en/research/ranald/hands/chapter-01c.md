@@ -42,7 +42,8 @@ Love of beauty and disgust with ugliness are often guiding principles in the liv
 
 They live through their feelings. Their emotions swing from ecstasy, when they are loved, to despair when they feel themselves lonely and useless.
 
-COMBINED TYPES
+
+## COMBINED TYPES
 
 There are few persons nowadays whose hands are of one type alone. Most of us are much more complex than that. 
 

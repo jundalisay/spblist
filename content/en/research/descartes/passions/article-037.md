@@ -20,8 +20,8 @@ The same occurs in all other passions, namely that they are primarily caused by 
 
 Furthermore, in the same way that the course these spirits take towards the nerves of the heart is sufficient to give the gland the movement that causes fear in the soul; likewise, merely because some spirits simultaneously go towards the nerves that serve to move the legs to flee, they cause another movement in the same gland, by which the soul feels and perceives this flight, which in this way can be excited in the body solely by the disposition of the organs and without the soul contributing to it.
 
-### ARTICLE XXXIX
-#### How the Same Cause Can Excite Various Passions in Different Men.
+
+### 39. How the Same Cause Can Excite Various Passions in Different Men.
 
 The same impression that the presence of a frightening object makes on the gland and that causes fear in some men can excite courage and boldness in others. The reason is that not all brains are disposed in the same way; and the same movement of the gland that excites fear in some causes the spirits in others to enter the pores of the brain, guiding them partly to the nerves that serve to move the hands for defense, and partly to those that agitate and push the blood towards the heart in the way required to produce spirits suitable to continue this defense and sustain the will.
 

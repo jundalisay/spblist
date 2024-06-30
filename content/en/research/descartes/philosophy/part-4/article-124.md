@@ -93,20 +93,30 @@ Glass is transparent because, during its formation, it is liquid. The material o
 For example, if we imagine glass to consist of perfectly spherical and equal particles but so thick that globules of the second element can pass through the triangular space that must remain between three mutually touching spheres, that glass will be completely transparent, even though it is much denser than the glass we currently have.
 
 
-### 131. How Glass Becomes Colored?
+### 131. How Does Glass Become Colored?
 
-However, when metals or other bodies are mixed with the materials from which glass is made, whose particles resist fire more and are not as easily smoothed as others that compose it, it becomes less transparent and acquires various colors depending on how these harder particles more or less block its channels in different ways.
+The materials from which glass is made have particles which resist fire more and are not as easily smoothed as others that compose it.
+
+When metals or other bodies are mixed with such materials, they become less transparent.
+
+They acquire various colors depending on how these harder particles block its channels in different ways.
+
 
 
 ### 132. Why it is rigid like an arch? Why Do rigid bodies, when bent, spontaneously return to their original shape?
 
-Gass is rigid, so that indeed it can be bent somewhat by an external force without breaking, but afterwards, it springs back with force like an arch and returns to its original shape.
+Glass is rigid, so that indeed it can be bent somewhat by an external force without breaking, but afterwards, it springs back with force like an arch and returns to its original shape.
 
-This is evident when it is drawn into very thin threads. And this property of springing back generally applies to all hard bodies whose particles are connected by immediate contact, not by the interweaving of branches. For since they have numerous channels through which some matter is constantly moving, as there is no vacuum, and their shapes are suitable for providing free passage to this matter, having been formed by its action, such bodies cannot be bent without varying somewhat the shape of these channels.
+This is evident when it is drawn into very thin threads.
 
-This causes the particles of matter, accustomed to passing through them, to impinge on their walls, creating an opposing force to restore the original shape. 
 
-If, for example, in a loose arch, the channels through which the globules of the air-aether usually pass are circular, it is to be supposed that in a tense or bent arch, they are elliptical, and the globules striving to pass through them impinge on their walls along the smaller diameters of these ellipses. 
+This property of springing back generally applies to all hard bodies whose particles are connected by immediate contact, not by the interweaving of branches. 
+
+For since they have numerous channels through which some matter is constantly moving, as there is no vacuum, and their shapes are suitable for providing free passage to this matter, having been formed by its action, such bodies cannot be bent without varying somewhat the shape of these channels.
+
+This causes the particles of matter, accustomed to passing through them, to impinge on their walls, creating an opposing force to restore the original shape.
+
+If, for example, in a loose arch, the channels through which the air-aether globules usually pass are circular, it is to be supposed that in a tense or bent arch, they are elliptical, and the globules striving to pass through them impinge on their walls along the smaller diameters of these ellipses. 
 
 Thus, they have the force to restore the shape of the arch. Although the force in each globule of the second element is small, because many are constantly attempting to traverse many pores in the same arch, the combined forces of all of them can be significant.
 

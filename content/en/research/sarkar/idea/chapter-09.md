@@ -70,7 +70,8 @@ Indirect parallelism is when the physical object expressed in the mental word<!-
   - some internal saḿskára already formed or
   - some description made by some other source.
 
-Mental-physical parallelism always tends to make the <!-- psychic --> mental waves cruder. 
+<!-- psychic -->
+**Mental-physical parallelism always tends to make the mental waves cruder.** 
 - If the mental wave gets cruder, human beings will be transformed into cruder beings*. 
 - They take the path of reverse subtilification. <!-- negative pratisaiṋcara --> <!-- and spiritual elevation will remain a dream. --> 
 

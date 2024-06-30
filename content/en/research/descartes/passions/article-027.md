@@ -14,19 +14,27 @@ icon: /icons/descartes.png
 
 ### 27. The Definition of the Passions of the Soul
 
-After having thus considered how the passions of the soul differ from all its other thoughts, it seems to me that they can generally be defined as perceptions, feelings, or emotions of the soul that are particularly referred to it, and that are caused, sustained, and fortified by some movement of the spirits.
+<!-- After having thus considered how the passions of the soul differ from all its other thoughts, it seems to me that they can generally be defined as -->
+
+The Passions of the Soul are perceptions, feelings, or emotions of the soul that refer to the soul, and are caused, sustained, and fortified by some movement of the spirits.
 
 
 ### 28. Explanation of the First Part of This Definition
 
-They can be called perceptions when one uses this word generally to signify all thoughts that are not actions of the soul or wills; but not when one uses it only to signify evident knowledge. For experience shows that those who are most agitated by their passions are not those who know them best, and that they are among the perceptions that the close alliance between the soul and the body renders confused and obscure. 
+They can be called perceptions when one uses this word generally to signify all thoughts that are not actions of the soul or wills; but not when one uses it only to signify evident knowledge. 
 
-They can also be called feelings because they are received in the soul in the same way as the objects of the external senses, and are not otherwise known by it. But they can be even better called emotions of the soul, not only because this name can be attributed to all the changes that happen in it, that is, to all the various thoughts that come to it, but particularly because of all the kinds of thoughts it can have, there are none others that agitate and shake it as strongly as these passions.
+Those who are most agitated by their passions are not those who know them best, and that they are among the perceptions that the close alliance between the soul and the body renders confused and obscure. 
+
+They can also be called feelings because they are received in the soul in the same way as the objects of the external senses, and are not otherwise known by it. 
+
+But they can be even better called emotions of the soul, not only because this name can be attributed to all the changes that happen in it, that is, to all the various thoughts that come to it, but particularly because of all the kinds of thoughts it can have, there are none others that agitate and shake it as strongly as these passions.
 
 
 ### 29. Explanation of the Other Part of the Definition
 
-I add that they particularly refer to the soul to distinguish them from other feelings that are referred to external objects, such as smells, sounds, colors; and others to our body, such as hunger, thirst, pain. I also add that they are caused, sustained, and fortified by some movement of the spirits, to distinguish them from our wills, which can be called emotions of the soul that refer to it, but which are caused by the soul itself; and also to explain their latest and most proximate cause, which again distinguishes them from other feelings.
+I add that they particularly refer to the soul to distinguish them from other feelings that are referred to external objects, such as smells, sounds, colors; and others to our body, such as hunger, thirst, pain. 
+
+I also add that they are caused, sustained, and fortified by some movement of the spirits, to distinguish them from our wills, which can be called emotions of the soul that refer to it, but which are caused by the soul itself; and also to explain their latest and most proximate cause, which again distinguishes them from other feelings.
 
 
 ### 30. The Soul is United to All Parts of the Body Conjointly.
@@ -35,7 +43,9 @@ But to understand these things more perfectly, it is necessary to know that the 
 
 This is because the body is one and, in some way, indivisible due to the arrangement of its organs, which are so interrelated that when any one of them is removed, it renders the whole body defective. 
 
-Additionally, the soul is of a nature that has no relation to extension, dimensions, or other properties of the matter from which the body is composed, but only to the entire assemblage of its organs. As it appears, one cannot conceive of half or a third of a soul, nor what extent it occupies; and the soul does not become smaller when some part of the body is removed, but separates entirely when the assemblage of its organs is dissolved.
+Additionally, the soul is of a nature that has no relation to extension, dimensions, or other properties of the matter from which the body is composed, but only to the entire assemblage of its organs. 
+
+As it appears, one cannot conceive of half or a third of a soul, nor what extent it occupies; and the soul does not become smaller when some part of the body is removed, but separates entirely when the assemblage of its organs is dissolved.
 
 
 ### 31. There is a Small Gland in the Brain in Which the Soul Exercises Its Functions More Particularly than in Other Parts.

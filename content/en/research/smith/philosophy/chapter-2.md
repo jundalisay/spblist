@@ -18,12 +18,22 @@ Philosophy first became known to the world via Socrates’ school from Plato and
 
 They did not derive anything from the Ionian Philosophy.
 - Plato and Aristotle derived the fundamental principles of almost all their doctrines from the Pythagorean school.
-- Plato also borrowed something from the sects of Cratylus and Heraclitus, and Xenophanes, Parmenides, Melissus, and Zeno.
+- Plato also borrowed something from the sects of:
+  - Cratylus and Heraclitus
+  - Xenophanes
+  - Parmenides
+  - Melissus
+  - Zeno.
 
 The extreme obscurity of Cratylus and Heraclitus prevented them from acquiring any extensive reputation. It would be vain and useless to rescue the system of those antesocratic sages, from that oblivion that they are in.
 <!-- However, we shall mark whatever have been borrowed from them as we go along. -->
 
-Plato discredited and exposed the Philosophy of Leucippus, Democritus, and Protagoras which consequently became dormant. They were almost forgotten until it was revived by Epicurus.
+Plato discredited and exposed the Philosophy of:
+- Leucippus
+- Democritus
+- Protagoras
+
+These consequently became dormant. They were almost forgotten until it was revived by Epicurus.
 
 <!-- Their philosophy accordingly= 
 - submitted to his eloquence,
@@ -40,11 +50,11 @@ When fresh, green, and fragrant flowers were thrown together in a heap, they ent
 <!-- - They dissolved into a confused mass of ordure. -->
 <!-- It did not  appearance in its sensible qualities or effects. -->
 
-But no matter how different the species, the following was the same= 
+But no matter how different the species, the following was the same:
 - the subject–matter of the flowers
 - the subject–matter of the dung
 
-Therefore, in every body, whether simple or mixed, there were two principles of the whole nature of that body.
+Therefore, in every body, whether simple or mixed, there were 2 principles of the whole nature of that body.
 - The Stuff, or Subject–matter, out of which that body was made.
 - This was the same in all bodies.
 
