@@ -1,10 +1,10 @@
 ---
 heading: Chapter 8
 title: "The Line of the Head"
-weight: 18
+weight: 28
 contributors: ['Ranald']
 image: "/covers/hands.png"
-description: ""
+description: "THE line of the head (see plate 27, number 2), shows mental balance, control, interests, depth, and concentration"
 ---
 
 

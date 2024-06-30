@@ -5,7 +5,7 @@ title: "The Types And Characteristics Of Hands"
 weight: 4
 contributors: ['Ranald']
 image: "/covers/hands.png"
-description: ""
+description: "One of the few things which modern, scientific hand analysis has retained from ancient palmistry is the classification of human hands by their shapes"
 ---
 
 

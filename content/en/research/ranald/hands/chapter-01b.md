@@ -1,11 +1,11 @@
 ---
 heading: Chapter 1b
-title: "THE SQUARE HAND"
+title: "The Square Hand"
 # date: 1767
-weight: 4
+weight: 6
 contributors: ['Ranald']
 image: "/covers/hands.png"
-description: ""
+description: "The square, or realistic opposite of the conic"
 ---
 
 

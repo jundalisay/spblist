@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Thumb"
 # date: 1767
-weight: 8
+weight: 12
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: "Professor G. Elliot Smith determined that the Peking Man was human and not an ape by looking at its thumb"

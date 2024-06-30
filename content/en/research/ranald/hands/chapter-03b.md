@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Thumb"
 # date: 1767
-weight: 8
+weight: 14
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10
 title: "The Lines of Destiny"
-weight: 22
+weight: 32
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: "When the destiny line is deep, clear and without interfering cross markings, you may expect a career pursued with determination and leading to success"

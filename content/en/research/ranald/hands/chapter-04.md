@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4
 title: "The Palm"
-weight: 10
+weight: 16
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""

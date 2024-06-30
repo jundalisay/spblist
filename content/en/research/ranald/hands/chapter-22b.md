@@ -1,7 +1,7 @@
 ---
 heading: Chapter 22b
 title: "ADULT VOCATIONAL GUIDANCE"
-weight: 50
+weight: 70
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""

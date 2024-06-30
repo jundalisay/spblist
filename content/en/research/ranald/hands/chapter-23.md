@@ -1,7 +1,7 @@
 ---
 heading: Chapter 23
 title: "Notable Hands"
-weight: 52
+weight: 72
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 19
 title: "Skin, Lines And Ridges In Their Application To Medicine"
-weight: 42
+weight: 52
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""

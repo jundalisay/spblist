@@ -1,8 +1,8 @@
 ---
 heading: Chapter 2
-title: "The FINGERS"
+title: "The Fingers"
 # date: 1767
-weight: 6
+weight: 10
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11
 title: "The Line of Apollo"
-weight: 24
+weight: 34
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""

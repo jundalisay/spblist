@@ -1,7 +1,7 @@
 ---
 heading: Chapter 15
 title: "Special Markings In The Palm"
-weight: 32
+weight: 44
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""

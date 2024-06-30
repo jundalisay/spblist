@@ -14,12 +14,16 @@ weight: 6
 
 1. No positive quality possessed by a false idea is removed by the presence of what is true, in virtue of its being true. 
 
-<!-- Proof=  Falsehood consists solely in the privation of knowledge which inadequate ideas involve (2.35), nor have they any positive quality on account of which they are called false (2.33.)
+Proof: Falsehood consists solely in the privation of knowledge which inadequate ideas involve (2.35), nor have they any positive quality on account of which they are called false (2.33.)
+
 Contrariwise, in so far as they are referred to God, they are true (2.32.).
+
 Wherefore, if the positive quality possessed by a false idea were removed by the presence of what is true, in virtue of its being true, a true idea would then be removed by itself, which (4.3.) is absurd.
+
 Therefore, no positive quality possessed by a false idea, etc. Q.E.D.
-Note=  This proposition is more clearly understood from 2.16 Coroll. 
- -->
+
+Note: This proposition is more clearly understood from 2.16 Coroll. 
+
 
 
 2. Imagination is an idea which indicates the human body's present disposition, than the nature of the external body not distinctly, but confusedly. Whence it comes to pass, that the mind is said to err.

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 14
 title: "The Line Of Intuition"
-weight: 30
+weight: 40
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: "Its position is along the outer edge of the palm, running vertically from the Lunar mount to the mount of Mercury."

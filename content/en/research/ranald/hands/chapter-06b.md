@@ -1,10 +1,10 @@
 ---
 heading: Chapter 6b
 title: "The Quality of the Palm"
-weight: 14
+weight: 24
 contributors: ['Ranald']
 image: "/covers/hands.png"
-description: ""
+description: "The continuity of line is of great significance"
 ---
 
 

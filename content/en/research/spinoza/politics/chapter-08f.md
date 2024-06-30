@@ -1,3 +1,14 @@
+---
+heading: Chapter 8f
+title: "The Justice System"
+image: "/covers/politics.jpg"
+description: "All things are predetermined by God, from his infinite power and not from his free will"
+writer:
+  name: Spinoza
+  url: https://en.wikipedia.org/wiki/Baruch_Spinoza
+weight: 33
+---
+
 
 
 [38] With regard to the number of judges, however, a consideration of this kind of constitution does not demand any special figure; but, as in the case of monarchy, it is of prime importance to see that the judges are too numerous to be corrupted by a private person. 
@@ -49,15 +60,27 @@ Chapter 8 739 -->
 
 
 
-[42] Those who are sent as govemors to cities or provinces should be of senatorial rank, because it is the duty of senators to exercise supervision over the fortification of cities, the treasury, the armed forces, etc. But those sent to govem regions at some distance would not be able to attend the senate. For this reason, only those appointed to cities on native soil should be chosen from the senate itself, while those to be sent to more distant places should be appointed from men of an age consistent with senatorial rank. 
+[42] Those who are sent as governors to cities or provinces should be of senatorial rank.
 
-Yet these measures, in my opinion, will not be enough to safeguard the peace of the entire state, that is, if neighbouring
-cities are altogether denied the right to vote, unless these are all so weak that they
-can be openly slighted-which is hardly likely. 
+This is because it is the duty of senators to exercise supervision over the fortification of cities, the treasury, the armed forces, etc. 
 
-So it is necessary that the neighbouring cities be gran ted ci tizenship and that from each city 20, 30, or 40 (the number would have to vary with the size of the city) chosen citizens be added to the roll of patricians. Of these, three, four, or five must be appointed every year to serve on the senate and one to serve as a syndic for life. And those who are senators are to be sent, together with the syndic, as govemors of the city from which they were appointed.
+But those sent to govern distant regions would not be able to attend the senate. This is why only those appointed to cities on native soil should be chosen from the senate itself. 
+
+Those to be sent to more distant places should be appointed from men of senatorial-age. 
+
+These measures will not be enough to safeguard the peace of the entire state, that is, if neighbouring cities are altogether denied the right to vote, unless these are all so weak that they can be openly slighted-which is hardly likely. 
+
+So the neighbouring cities be granted citizenship. From each city, 20-40 chosen citizens should be added to the roll of patricians. 
+
+This number would vary with the city's size. 
+
+Of these, 3-5 must be appointed every year to serve on the senate and one to serve as a syndic for life. 
+
+Those who are senators are to be sent, together with the syndic, as govemors of the city from which they were appointed.
+
 
 [43] The judges to be appointed in each city should also be drawn from the patricians of the same city. But since these matters do not have reference to the fundamental laws of this state in particular, I do not think it necessary to discuss them at greater length.
+
 
 [44] The secretaries and similar officials in any councils, since they do not have the right to vote, should be appointed from the commons. 
 
@@ -65,7 +88,9 @@ But since, through their long experience of handling affairs, these men are thor
 
 For this situation is bound to arouse much jealousy among many of the nobles. And we surely cannot doubt that a senate whose policy derives from the advice not of senators but of officials will be attended mostly by those who are lacking in energy, and the condition of such a state will be little better than that of a monarchy ruled by a few king's counsellors; for which see Chapter 6, Sections 5, 6, and 7. 
 
-However, a state will be exposed to this evil to a greater or lesser degree according as it has been well- or ill-founded. For if the freedom of a state is not based on a sufficiently secure foundation, it is never defended without danger; and to avoid incurring this risk, patricians choose as ministers ambitious men from the commons who, when the situation later takes a different tum, are slaughtered like sacrificial animals to appease the wrath of those who are enemies to freedom % But where freedom has a sufficiently secure foundation, patricians are eager to claim for themselves the glory of safeguarding it, and they are anxious to ensure that good policy in the conduct of affairs derives only from their advice. In laying the foundations of the state it is these two rules that we have particularly followed, namely, that the commons should be debarred both from giving advice and from voting (see Sections 3 and 4 of this Chapter); and so sovereignty should be vested in the whole body of patricians,57 authority in the syndics and the senate, and the right to summon the senate, to bring forward, discuss, and deal with matters pertaining to the public welfare should lie with consuls appointed from the senate. And if it is also ordained that the secretary to the senate or to the other councils be appointed for four or five years at the most, with the addition of an assistant secretary appointed for the same period to lighten his load, or alternatively that there should be not one but several secretaries to the senate employed in different departments, it will never come about that the influence58 of officials could be of any importance.
+However, a state will be exposed to this evil to a greater or lesser degree according as it has been well- or ill-founded.
+
+For if the freedom of a state is not based on a sufficiently secure foundation, it is never defended without danger; and to avoid incurring this risk, patricians choose as ministers ambitious men from the commons who, when the situation later takes a different tum, are slaughtered like sacrificial animals to appease the wrath of those who are enemies to freedom % But where freedom has a sufficiently secure foundation, patricians are eager to claim for themselves the glory of safeguarding it, and they are anxious to ensure that good policy in the conduct of affairs derives only from their advice. In laying the foundations of the state it is these two rules that we have particularly followed, namely, that the commons should be debarred both from giving advice and from voting (see Sections 3 and 4 of this Chapter); and so sovereignty should be vested in the whole body of patricians,57 authority in the syndics and the senate, and the right to summon the senate, to bring forward, discuss, and deal with matters pertaining to the public welfare should lie with consuls appointed from the senate. And if it is also ordained that the secretary to the senate or to the other councils be appointed for four or five years at the most, with the addition of an assistant secretary appointed for the same period to lighten his load, or alternatively that there should be not one but several secretaries to the senate employed in different departments, it will never come about that the influence58 of officials could be of any importance.
 
 <!-- 5 [In 1672. Spmoza IS thinkmg prinCipally here of Oldenbarneveldt and de Witt.]
 56 [Oldenbarneveldt was executed by the stadtholder Maunce 10 1619. De WItt was lTIJrdered by

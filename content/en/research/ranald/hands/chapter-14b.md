@@ -1,7 +1,7 @@
 ---
 heading: Chapter 14b
 title: "The Line Of Vitality"
-weight: 311
+weight: 42
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: "Its position is along the outer edge of the palm, running vertically from the Lunar mount to the mount of Mercury."

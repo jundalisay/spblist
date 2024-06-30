@@ -1,10 +1,10 @@
 ---
 heading: Chapter 9
 title: "The Lines of Heart"
-weight: 20
+weight: 30
 contributors: ['Ranald']
 image: "/covers/hands.png"
-description: ""
+description: "This line must be read in conjunction with the indications of hand as a whole and particularly in relation to the line of head"
 draft: true
 ---
 
@@ -16,8 +16,8 @@ number
 shows emotional steadfastness and
 palm
 intensity.
-This line must be read in conjunction with the indications of
-hand as a whole and particularly in relation to the line of head.
+
+This line must be read in conjunction with the indications of hand as a whole and particularly in relation to the line of head.
 The quality of the heartline is of course significant. As with all
 the
 the

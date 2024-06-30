@@ -1,7 +1,7 @@
 ---
 heading: Chapter 5
 title: "The Mounts amd their Attributes"
-weight: 12
+weight: 20
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""

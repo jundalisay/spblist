@@ -10,8 +10,8 @@ weight: 8
 ---
 
 
-That God is the creator of all things we have already established; here we shall
-now try to explain what is to be understood by creation. Then we shall provide solutions as best we can to those questions that are commonly raised regarding creation. Let us then begin with the first subject.
+That God is the creator of all things we have already established; here we shall now try to explain what is to be understood by creation. Then we shall provide solutions as best we can to those questions that are commonly raised regarding creation. Let us then begin with the first subject. 
+
 [What creation is. ] We say that creation is an operation in which no causes concur beyond the efficient cause; or that a created thing is that which presupposes nothing except God for its existence.
 
 [The common definition of creation is reiected. ] Here we should note that:

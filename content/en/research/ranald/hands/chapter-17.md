@@ -1,7 +1,7 @@
 ---
 heading: Chapter 17
 title: "The Nails"
-weight: 38
+weight: 48
 contributors: ['Ranald']
 image: "/covers/hands.png"
 description: ""
