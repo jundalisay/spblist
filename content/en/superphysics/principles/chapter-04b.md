@@ -25,26 +25,26 @@ Chapter 4 explained that reality is made up of long perception-chains of cause a
 A long series of chains gains the dynamics of a wave. This wave we can split into 3 states:
 
 1. Karma-Action State 1
-2. Samskara-Pending State 2
-3. Karma-Reaction State 3 
+2. Samskara-Pending Pseudo-State
+3. Karma-Reaction State 2
 
 We can extend this wave to have more states.
 
-{{< img src="/graphics/physics/wave.jpg" alt="Wave" cap="A wave is made up of many different states which reveal a hidden focus or dharma which we call a 'gravitational signature' to make it sound scientific" >}}
+{{< img src="/graphics/physics/waves.jpg" alt="Wave" cap="A wave is made up of many different states which reveal a hidden focus or dharma which we call a 'gravitational signature' to make it sound scientific" >}}
 
-We can know why State 7 is the way it is if we look at all its states from 1 to 6. We can then use this knowledge to predict its future states. We can write this as:
+We can know why State 4 is the way it is if we look at all its states from 1 to 4. We can then use this knowledge to predict its future states. We can write this as:
 
 ```elixir
-State 1 : State 3 : State 5 :: State 7
+State 1 : State 2 : State 3 :: State 4
 ```
 
 
-We do not notate States `2`, `4`, and `6` since they are pending reactions to States `1`, `3`, and `5`, respectively and have no objective manifestation in reality.  
+We do not notate the pseudostates that are in between state 1 and 2, 2 and 3, and 3 and 4 since they are pending reactions  and have no objective manifestation in reality YET.  
 
 ---
 
 
-The colon means 'relative to' or 'compared to', and is a fundamental part of our proposed 'Qualimath'. In this way, Poincare's Law of Relativity is built into even the most elementary equations, such as those taught for kids.  
+The colon means 'relative to' or 'compared to', and is a fundamental part of our proposed 'Qualimath'. In this way, Poincare's Law of Relativity is built into even the most elementary equations, such as those taught for kids. Rather, Relativity is baked into Descartes' First Law of Motion which is about state-change instead of inertia. And so we can safely throw away everything that Einstein made.
 
 This is different from normal math which uses 'deltas'.
 - Those deltas compare the object with itself at different states.
@@ -52,11 +52,11 @@ This is different from normal math which uses 'deltas'.
 
 For example, a basic math equation is `1 + 1 = 2`. This can be visualized by:
 
-{{< img src="/graphics/physics/line.jpg" alt="Line" cap="Addition of distance leads to a new location" >}} 
+{{< img src="/graphics/physics/line.jpg" alt="Line" cap="Addition of distance leads to a new location, or the addition of self-instances leads to more instances" >}} 
 
 Notice how this is overly simplistic and does not expand on cause and effect. We turn this into qualimath by adding the necessary parts:
 
-{{< img src="/graphics/physics/linequali.jpg" alt="Line" cap="We qualimath a line" >}}
+{{< img src="/graphics/physics/linequali.jpg" alt="Line" cap="We qualimath a line. The addition of distance leads to a new location from local-motion (this is a Spinoza perspective), or the addition of self-instances leads to a new self (this is a David Hume perspective)" >}}
 
 Here, we expose that the focus of the equation or line is itself. The qualimath equation is `State 1 :: State 2` which we deconstruct as:
 
@@ -81,17 +81,17 @@ The concept of a *focus* is super important as it is the basis of:
 Let's say we want to convert `17 * 19 = 323` to Qualimath. This will create 3 states in our sandbox:
 
 - State 1 for `17`
-- State 2 for `19`
-- State 3 for the `answer`
+- Pseudo-state or action for `19`
+- State 2 for the `answer`
 
-We notate this as `(State 1 * State 2) :: State 3`, deconstructed as `(17 * 19) :: answer` 
+We notate this as `(State 1 * action) :: State 2`, deconstructed as `(17 * 19) :: answer` 
 
-We use Egyptian Math, as Al-Khwarizmis algorithms, to deconstruct `17` (State 1) into its doubles as a ratio of the doubles of `19` (State 2).
+We use Egyptian Math, as Al-Khwarizmis algorithms, to deconstruct `17` (State 1) into its doubles as a ratio of the doubles of `19` (action).
 
 {{< youtube wciL_yCmZe8 >}}
 
 
-State 1: 17 | State 2: 19 
+State 1: 17 | Action: 19 
 --- | ---
 **1** | **19**
 2 | 38
@@ -100,7 +100,9 @@ State 1: 17 | State 2: 19
 **16** | **304**
 
 
-We use State 1 as the focus and add the corresponding values in State 2 to get State 3 as `323`*. 
+We use State 1 as the focus and add the corresponding values in the `action`* to get State 2 as `323`**. 
+
+> *Action is a pseudo state of State 1 that allowed the change. Without that pseudo-state, then State 1 would stay close minded and not be open to change and therefore remain as State 1 instead of changing to State 2.  
 
 
 > *`323` = `304` [as 5th row of State 2 or `16`] + `19` [as 1st row of State 1 or `1` to get `17`]
@@ -149,9 +151,11 @@ We thus assign qualities to our deconstructed equations.
 
 For example, in `Wave 1 + Wave 2 = Wave 3`, we assign qualities instead of numbers and processes so we can arrive at the general outcome faster. 
 
-The `+` and `=` represent the natural operations of the human mind. The minds of less advanced species, such as penguins, might be capable of `+` and `-`, but are not capable of `*` or `/`. 
+The `+` and `=` represent the natural actions of the human mind. The minds of less advanced species, such as penguins, might be capable of `+` and `-`, but are not capable of `*` or `/`. 
 
-Likewise, human minds seem to be limited to `=` and do not dwell so much on `:` which reqresents the hidden connection between things. 
+Likewise, human minds seem to be limited to `=` and do not dwell so much on `:` which reqresents the hidden connection between things.*
+
+> *Bio Superphysics explains this to be caused by humans eating crude food such as meat which then crudifies the thinking process.
 
 <!-- Since it deals with qualities instead of quantities, we can call it **Decon Notation** and its underlying system as **Quali-math**.  -->
 
@@ -189,7 +193,7 @@ dep + dep = rat dep
 
 <!-- In a future post, we will expand this into chemical compounds computation, and in linear algebra to produce general qualitative outcomes instead of exact quantitative answers.  -->
 
-A sample implementation is our use of [male and female charges](/material/principles/part-3/chapter-02/) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics, since it is more intuitive to combine different kinds of males with different kinds of females. 
+A sample implementation is our use of [male and female charges](/material/principles/part-3/chapter-04/) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics, since it is more intuitive to combine different kinds of males with different kinds of females. 
 
 This quali-math will make the most sense when you think of a spaceship using quantum teleportation that not only will use 2D space as in a car on Earth or a 3D space like an aircraft, but a space with 4 or 5 dimensions as time-multiverses and alternative universes, where normal math breaks down.
 
@@ -202,9 +206,11 @@ To account for this mind-splitting behavior, <!--  make ratios and relationality
 
 {{< img src="/graphics/physics/math.jpg" alt="Mathematics" >}}
 
-- The single colon is like a flexible ratio. You can think of this as an unclear mirror
-- The double colon is like a rigid equals sign. This is a clearer mirror
-- The triple colon is a strict equality that involves the kinds of data. This is a perfect mirror. 
+- The single colon is like a flexible ratio. You can think of this as a hazy mirror that lets the other side look a bit different 
+- The double colon is like a rigid equals sign. This is a clearer mirror but still not a perfect reflection.
+- The triple colon is a strict equality that involves the kinds of data*. This is a perfect mirror. 
+
+> *In programming this is similar to =, ==, and ===
 
 
 {{< box >}}
@@ -216,11 +222,11 @@ All philosophers say that everything is connected, even the sophistical pseudo-p
 
 The ratio sign signifies this connection. 
 
-In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect. 
+In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect. This is because in Cartesian Physics, which is one basis of Superphysics, there is no void in Nature (i.e. God is everywhere in Spinoza-speak). 
 
 The lower dimensions like ours has more rigid ratios that lead to discrete and 'hardened' identities, while higher dimensions have more flexible ratios that lead to more malleable ones.
 
-Since the lower dimensions are more stubborn, they require more effort and energy to change than the upper dimensions.
+Since the lower dimensions are more stubborn, they require more effort and energy to change than the upper dimensions. So it makes sense for enlightened entities to spend their energy going into the higher dimensions instead of wasting energy in the lower dimensions trying to convince crude-minded materialists that God exists or that the universe is conscious. 
 
 
 #### Update March 10, 2022
@@ -237,7 +243,7 @@ In this universe, such a softening can be encouraged by emphasizing the abstract
 
 In `1 + 1 = 2`, the mind sweeps from the left to the right. But in `(1 + 1) :: 2`, the mind splits itself into the left and the right. It becomes an impartial spectator* of both sides or states.
 
-> *This idea was developed by Adam Smith who criticized the sophistical math of the mercantile system. Such sophistry now manifests as the strict demand for GDP growth by Economics which is currently causing mass exctinction and conflicts. Economics enshrines growth because it has imposed money-only as the means of transaction. The problem is that money is an inert and static thing that gets its value from being exchanged. This constant exchange gives movement, growth, and consequently value. 
+> *This idea was developed by Adam Smith who criticized the sophistical math of the mercantile system. Such sophistry now manifests as the strict demand for GDP growth by Economics which is currently causing mass exctinction and conflicts. Economics enshrines growth because it has imposed money-only as the means of transaction. The problem is that money is an inert and static thing that gets its value from being exchanged. This mindless, self-destructive, constant exchange gives movement, growth, and consequently value. 
 
 
 In this way, the formula of economist John Maynard Keynes for money supply `M` as being affected by liquidity preference `L` and interest rate `r` 
@@ -312,19 +318,20 @@ Quali-math is inspired by **Al-Khwarizmi** who invented algebra from his work on
 
 The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*.
 
-{{< img cap="Automated intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}
+{{< img cap="Automated Natural Intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}
 
 > *The original purpose of Algebra (Al-Jebra or 'the repair or healing') was to divide an estate and compute the inheritance due to each heir. <!-- The Europeans seemed to have used it for warmaking --> This matches the problem-solving nature of Superphysics. This is opposite of Einstein's math as sophistical tensors coming from his wild imagination which creates more problems. It is also different from Newton's Calculus which originated from plotting curvilinear motion. Superphysics allows teleportation which totally negates curvilinear motion.   
 
 
 
-An algorithm is an implementation or processing of a model. This processing is automated by computers as machine learning, which is the automation of natural intelligence, which is wrongly called artificial intelligence. We call it properly as [Automated Intelligence](/superphysics/solutions/isaiah) (AI) and is one of the goals of Superphysics.
+An algorithm is an implementation or processing of a model. This processing is automated by computers as machine learning, which is the automation of natural intelligence, which is wrongly called artificial intelligence. We call it properly as [Automated Natural Intelligence](/superphysics/solutions/isaiah) (ANI) and is one of the goals of Superphysics.
 
 
 Qualimath will allow an AI-driven* ship that teleports into another universe, which has different physics, to transpose its logic and definitions more easily to match that universe. This is because it uses quality instead of quantity.
 
-> *The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores. In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics.  
+> *The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores (Update 2024: This is now done by GPUs which have multiple cores). In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics.  
 
+> 
 
 A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that defintion is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
 

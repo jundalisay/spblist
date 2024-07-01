@@ -1,5 +1,5 @@
 ---
-title: "Automated Intelligence (ISAIAH) for Supereconomics"
+title: "Automated Natural Intelligence (ANI) for Supereconomics"
 date: 2020-12-14
 image: "/photos/tech/ai.jpg"
 description : "We implement autoamated intelligence for Supereconomics"
@@ -42,22 +42,29 @@ As you can see, our system liberates the economy from being bound only to money,
 ## Based on Ratios, Not Equalities
 
 Instead of equilibrium or the equals sign, this system is based on **ratios** or the ratio sign. This is in line with our proposed [Qualimath](/superphysics/solutions/qualimath)
-
+http://localhost:1313/material/principles/part-3/chapter-04/
 This is useful for poor people and even for corporations during financial crises where money is tight or unavailable. In addition, it will lower the cost of buying and selling since it will use the already-existing telecoms system, instead of the financial system with its expensive bankers and financiers*.
 
 
 > *In Supereconomics, such people will still be employed to do inspection, "KYC", and credit checks. 
 
 
-An advanced economy can be very complex because of the huge number of goods and commodities for sale. It would be impossible to keep track of all the ratios manually. This is why the system needs machine learning, more popularly called artificial intelligence or AI. 
+An advanced economy can be very complex because of the huge number of goods and commodities for sale. It would be impossible to keep track of all the ratios manually. This is why the system needs machine learning, more popularly called artificial intelligence or AI, which we call ANI as Automated Natural Intelligence. 
 
-The most useful result that Supereconomics aims to get is the real price of everything, which is the value of everything relative to grains. In this way, all prices become natural which then removes the chance for crises from emerging. Thus, we come up with ISAIAH as the name of our AI:
+The most useful result that Supereconomics aims to get is **the real price of everything**, which is the value of everything relative to grains. In this way, all prices become natural which then removes the chance for crises from emerging. 
 
-In order to arrive at the real price, the AI has to filter out the bias and the noise in the data. We can say that the AI has to be an impartial spectator of the flow of data that is routed to it.
 
-![Automated Intelligence](https://sorasystem.sirv.com/AI.jpg)
+In order to arrive at the real price, the ANI has to filter out the bias and the noise in the data. We can say that the ANI has to be an impartial spectator of the flow of data that is routed to it.
 
-The idea is inspired by the prophet Isaiah who made many predictions about events in the Middle East. Likewise, AI is designed to make predictions about anything that it is evidenced by real data. 
+![Automated Natural Intelligence](https://sorasystem.sirv.com/AI.jpg)
+
+Thus, we come up with ISAIAH as the name of our ANI:
+
+- IS means impartial spectator
+- AI means automated intelligence
+- AH means aggregation hub
+
+The idea is inspired by the prophet Isaiah who made many predictions about events in the Middle East. Likewise, ANI is designed to make predictions about anything that it is evidenced by real data. 
 
 ![Isaiah](/photos/meta.jpg)
 
