@@ -339,7 +339,7 @@ A qualitative definition in one’s mind retains itself even if its mind moves i
 I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can survey both at equal distances, and judge their real proportions.
 {{< /q >}}
 
-{{< img src="/graphics/movement.png" alt="Superphysics Movement" cap="Qualimath uses Poincare's Law of Relativity which uses state-change instead of Einstein's Relativity which uses tensors" >}}
+{{< img src="/graphics/movement.png" alt="Superphysics Movement" cap="Qualimath uses Poincare's Law of Relativity which uses aethereal state-change instead of Einstein's Relativity which uses tensors" >}}
 
 
 

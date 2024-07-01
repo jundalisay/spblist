@@ -21,8 +21,6 @@ There are 2 Domains in Reality | The Metaphysical is Superior to the Physical
 . | The Objects in the Metaphysical Domain are called Ideas
 
 
-{{< youtube U4JFPWoiSAI >}}
-
 
 In the previous chapter, we divided Existence into 2 domains:
 

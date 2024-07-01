@@ -20,13 +20,15 @@ Axioms | Propositions
 --- | ---
 There are 2 Domains in Reality | The Cartesian View has both Planes 
 
+{{< youtube U4JFPWoiSAI >}}
 
-Previously, we dividided reality into 2 domans:
+
+Previously, we divided reality into 2 domains:
 
 1. The Metaphysical
 2. The Physical
 
-The current sciences ignore the metapyhsical domain and instead focus solely on the physical one. 
+The current sciences ignore the metaphysical domain and instead focus solely on the physical one. 
 
 To explain metaphysical phenomena, humans have invented philosophy, religion, and mysticism. These have been disregarded by science as imaginary. Science brands their explanations as pseudo-science, as if science and the physical domain were superior to the metaphysical.
 
