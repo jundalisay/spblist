@@ -35,8 +35,7 @@ Therefore (Ax. 20), body B will be moved in any direction by this external force
 
 ## Proposition 34: Body B, under the same conditions as previously, cannot move more quickly than it is impelled by the external force, even though the particles by which it is surrounded are in much swifter motion.
 
-Proof: Although the particles that, together with the external force, are impelling B in the same direction are in much swifter motion than the external force can
-move B, yet because (by hypothesis) they have no more force than the bodies that are repelling B in the opposite direction, they will use up all the power of their determination merely in resisting these, without imparting any speed to B (Prop. 32 Part 2). 
+Proof: Although the particles that, together with the external force, are impelling B in the same direction are in much swifter motion than the external force can move B, yet because (by hypothesis) they have no more force than the bodies that are repelling B in the opposite direction, they will use up all the power of their determination merely in resisting these, without imparting any speed to B (Prop. 32 Part 2). 
 
 Therefore, because no other circumstances or causes are supposed, B will not receive any amount of speed from any cause other than the external force.
 
@@ -70,7 +69,8 @@ But it can receive motion; indeed, when the extra force is added, it must necess
 
 Proof: Any space through which a body can move is bound to be full of bodies (Prop. 3 Part 2). 
 
-Therefore, the space through which our hand can thus move is filled with bodies which will move in the way I have described.
+
+#### Point 1: The space through which our hand can thus move is filled with bodies which will move in the way I have described.
 
 For if you deny this, let them be supposed to be at rest, or to move in a different way. 
 
@@ -78,31 +78,32 @@ If they are at rest, they will necessarily resist the motion of the hand until i
 
 But in the hypothesis they are supposed not to resist; therefore these bodies are in motion. 
 
-This was the first point to be proved.
 
-Furthermore, they must be moving in all directions. 
+
+#### Point 2: They must be moving in all directions. 
 
 If you deny this, suppose that there is some direction in which they are not moving, say from A toward B.
 
 Therefore if the hand is moving from A toward B, it will necessarily meet moving bodies (by the first part of this proof), bodies, by your hypothesis, with a determination different from that of the hand. 
-\
+
 Therefore, they will resist it (Prop. 14 Part 2) until they move along with the hand in the same direction (Prop. 24 and Schol. Prop. 27 Part 2). 
 
 But, by hypothesis, they do not resist the hand. Therefore they will be moving in all directions. 
 
-That was the second point.
 
-These bodies will be moving in all directions equaling one another in force of speed. 
+#### Point 3: These bodies will be moving in all directions equaling one another in force of speed. 
 
 If they were not moving with equal force of speed, suppose that those that are moving from A toward B are L not moving with as much force of speed as those that are moving from A toward C. 
 
-Therefore if the hand (for it is supposed to be able to move with equal motion in all directions without reA sistance) were to move from A toward B with the same speed with which bodies are moving from A toward C, the bodies moving from A toward B will resist the hand (Prop. 14 Part 2) until they move with a force of speed equal to that of the hand (Prop. 31 Part 2). 
+Assume the hand can move with equal motion in all directions without resistance. 
+
+Therefore, if the hand were to move from `A` towards `B` with the same speed with which bodies are moving from `A` towards `C`, the bodies moving from `A` towards `B` will resist the hand (Prop. 14 Part 2) until they move with a force of speed equal to that of the hand (Prop. 31 Part 2).
 
 But this is contrary to the hypothesis. Therefore they will move with equal force of speed in all directions. 
 
-That was the third point
 
-Finally, if the bodies are not moving with the same force of speed as the hand, then the hand will either move more slowly, with less force of speed, or more quickly, with greater force of speed, than the bodies. 
+
+#### Point 4: If the bodies are not moving with the same force of speed as the hand, then the hand will either move more slowly, with less force of speed, or more quickly, with greater force of speed, than the bodies. 
 
 If the former, the hand will resist the bodies that are following it in the same direction (Prop. 31 Part 2). 
 
@@ -119,9 +120,9 @@ If you then ask whether the hand, while moving (e.g. , from A toward B), does no
 It explains that their force is balanced by the force of the bodies moving together with the hand at the same time from A toward B (for, by the third part of this Prop., these two forces are equal).
 
 
-## Proposition 37: If a body A can be moved in any direction whatsoever by any force, however small, it must necessarily be surrounded by bodies that are moving at the same speed as one another.
+### Proposition 37: If a body A can be moved in any direction whatsoever by any force, however small, it must necessarily be surrounded by bodies that are moving at the same speed as one another.
 
-Proof Body A must be surrounded on all sides by bodies (Prop. 6 Part 2), bodies that are moving equally in all directions. 
+Proof: Body A must be surrounded on all sides by bodies (Prop. 6 Part 2), bodies that are moving equally in all directions. 
 
 For if they were at rest, body A could not be moved, as is supposed, in any direction whatsoever by any force, however small, but only by such force as could at least be able to move along with itself the bodies immediately contiguous to A (Ax. 20 Part 2). 
 

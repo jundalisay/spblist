@@ -12,59 +12,99 @@ aliases:
   /research/descartes/philosophy/part-2/section-04
 ---
 
+<!-- **XXIV. What motion is according to common understanding.**
+
+Motion (specifically local motion, as no other kind falls within my contemplation, nor do I believe any other should be imagined in nature) is, as commonly understood, nothing other than the action by which a body migrates from one place to another. And therefore, as I have previously noted, the same thing can be said to change place and not change place at the same time, thus it can also be said to be moving and not moving. For example, one who sits in a ship, while it departs from the port, indeed thinks he is moving if he looks at the shores and considers them as immobile; but not if he looks at the ship itself, among whose parts he always maintains the same position. And moreover, since we commonly think there is action in all motion, but cessation of action in rest, it is more properly said to be at rest than to be moving because it does not feel any action within itself.
+
+**XXV. What motion is properly taken.**
+
+But if we consider not so much from common usage, but from the truth of the matter, what should be understood by motion, so that a certain nature may be attributed to it, we can say it is the translation of one part of matter, or one body, from the vicinity of those bodies which immediately touch it and are considered as at rest, to the vicinity of others. Here by one body, or one part of matter, I mean everything that is transferred together; although this itself may consist of many parts, which have other motions within themselves. And I say it is a translation, not a force or action that transfers, to show that it is always in the moving object, not in the mover, because these two are not usually distinguished accurately enough; and it is merely its mode, not a subsisting thing, just as shape is the mode of a shaped thing, and rest is the mode of a resting thing.
+
+**XXVI. No more action is required for motion than for rest.** -->
+
+
+
 
 
 ### 26. Effort is both needed for action and rest
 
-<!-- No more assistance is required for motion than for rest. -->
+People wrongly think that more action is required for motion than for rest. 
 
-A great prejudice misleads us in this beginning -- we believe ourselves to use more action in moving a thing than in keeping it at rest. 
+This is because from a young age, our body is accustomed to be moved by our will.
+- We notice our will.
 
-<!-- This is because we consider that to require more action which relates to motion than that which relates to quietude.  -->
+Our body is at rest simply because it adheres to the earth through gravity.
+- We do not notice gravity. 
 
-We have persuaded ourselves of this from the beginning of our life because we can easily move our bodies by our will, of which we are intimately aware. Our bodies come to rest solely from the fact that they adhere to the earth through gravity, the force of which we do not sense. 
+Gravity and many other unnoticed causes resist the motions we want to initiate in our limbs. This causes us to tire.
 
-This gravity and many other causes are not noticed by us. But these resist the motions of our limbs. This causes us fatigue. We think that more action or force is needed to produce motion than to stop it. We mistake the action for that effort which we use to move our limbs.
+And so, we think that more force is needed to initiate motion than to stop it.
 
- <!-- and by their agency other bodies.  -->
+<!-- , considering action as that effort we use to move our limbs and, with their help, other bodies.  -->
 
-But we shall easily shed this prejudice if we consider that we use effort not only to move external bodies but also often to stop their motions, when they are not stopped by gravity or another cause. 
+However, we can easily get rid of this prejudice if we think that we need effort to both:
+- move external bodies
+- stop their motion when they are not stopped by gravity or another cause. 
 
-For example, we do not use more action to impel a boat in still water than to hold it back when it is moving, or certainly not much more. 
+For example, we use the same force to:
+- push a ship at rest in still water
+- stop it when it is moving
 
-In the latter case, however, it is necessary to remove the force of the water, which was carrying the boat along, and so to some extent to impart motion in the opposite direction.
+<!-- In both, we counteract the weight of the water displaced by ship and its viscosity. -->
+
+<!-- , by which it could gradually be stopped. -->
 
 
-### 27. Movement and rest are different ways of moving the body
 
-But since here we are not dealing with that action which is understood to be in the mover, or in that which produces motion, 
+### 27. Motion and rest are merely two different modes of a moving body
 
-Here we are dealing with external causes of motion and not internal ones. 
+ <!-- only with the translation and the absence of translation, that is, rest, it is clear that  -->
 
-The external cause of motion causes motion. The lack of a cause leads to rest, as a lack of motion.
+The mover produces motion just as the stopper stops the motion. We are not talking about either's action. 
+
+Rest is the lack of translation of external action onto the body. 
+
+Motion is the translation of external action onto the body. 
+
+We are talking about the internal translation which cannot exist outside the moving body.
+
+The body has a different state:
+- when it is being transferred 
+- when it is not being transferred or when it is at rest
+
+
+<!--  **external causes of motion** and not internal ones. 
+
+The external cause of motion causes motion. The lack of a cause leads to rest, as a lack of motion. -->
 
 <!-- but only with translation and the absence of translation or rest, this translation cannot be motion outside the body, and that this body behaves differently when it is transferred, and differently when it is not transferred or when it is at rest, so that  -->
 
-In this way, motion and rest are nothing else in it but 2 different modes.
+In this way, motion and rest are but 2 different modes of the body.
 
 
 ### 28. Motion properly taken is not to be referred to, except to the bodies contiguous to it which are moved. 
 
 <!-- The transference of force takes place from the vicinity of contiguous bodies, to the vicinity of others, but not from one place to another. This is because the reception of the place is varied, and depends on our thought: but when we understand it by motion -->
 
-Motion occurs from the vicinity of contiguous bodies to the vicinity of others, not from one place to another. This is because the concept of place varies and depends on our thought. 
+Motion occurs from the vicinity of contiguous bodies to the vicinity of others, not from one place to another. **This is because the concept of place varies and depends on our thought.** 
 
-But when we understand motion as the transfer that occurs from the vicinity of contiguous bodies, since at any given moment only one body can be contiguous to the same moving body, we cannot attribute multiple motions to that moving body simultaneously, but only one.
+A body can have only one motion at a time, instead of multiple, if we define motion as the transfer of a body that occurs **from the vicinity of contiguous bodies**, instead of as a change in location. This is because at any given moment, **only one body can be contiguous to the same moving body**.
+
+
+<!-- we cannot attribute multiple motions to that moving body simultaneously, but only one. -->
 
 <!-- I have also added that translation is made from the vicinity of contiguous bodies to the vicinity of others, and not from one place to another, because, as I have explained above, the acceptance of place is varied and depends on our thought: but since by motion we understand that translation which is made from the vicinity of contiguous bodies, since only one body can be contiguous to the same mobile at the same moment of time, we cannot attribute several motions to this mobile at the same time, but only one. -->
 
 
-## {{< s v="29" >}} Nor are they to be referred to except to those bodies contiguous: which are looked upon as if they were at rest
+### 29. Nor are they to be referred to except to those bodies contiguous: which are looked upon as if they were at rest
 
 
 This transfer occurs not between just any contiguous bodies, but only those that are perceived as being at rest. 
 
-The transfer itself is reciprocal. If body AB is transferred from the vicinity of body CD, then body CD is also transferred from the vicinity of body AB. 
+The transfer itself is reciprocal. If body `AB` is transferred from the vicinity of body `CD`, then body `CD` is also transferred from the vicinity of body `AB`. 
+
+{{< img src="/graphics/physics/fig_01-30.jpg" alt="Movement" >}}
+
 
 The same force and action are required on one side as on the other. 
 
@@ -76,7 +116,7 @@ Since we are accustomed to standing on the ground and considering it as at rest,
 
 
 
-## 30. Of 2 adjacent bodies moved by each other, why is one moved more than the other?
+### 30. Of 2 adjacent bodies moved by each other, why is one moved more than the other?
 
 <!-- The chief reason for this is that -->
 
@@ -92,8 +132,10 @@ This transfers the parts of the earth contiguous to body AB from B towards A.
 
 There should be no less action or one of a different nature in these XXX than in that transference, so far as motion is concerned.
 
-Yet we do not mean that the earth is moved from B towards A, or from the West towards the East. This is because by the same reasoning, insofar as its parts contiguous to body CD are transferred from C towards D, it would have to be understood to be moved also in another direction, namely from the East towards the West; which two things are contradictory. 
+Yet we do not mean that the earth is moved from `B` towards `A`, or from the West towards the East. 
 
-So therefore, in order not to depart too much from common usage of speaking, we shall not say here that the earth is moved, but only bodies AB and CD, and so on concerning the rest. 
+This is because by the same reasoning, insofar as its parts contiguous to body `CD` are transferred from C towards D, it would have to be understood to be moved also in another direction, namely from the East towards the West; which two things are contradictory. 
+
+So therefore, in order not to depart too much from common usage of speaking, we shall not say here that the earth is moved, but only bodies `AB` and `CD`, and so on concerning the rest. 
 
 But meanwhile, we shall bear in mind that everything that is real and positive in the bodies which are moved, by reason of which they are said to be moved, is found also in their other contiguous bodies, which nevertheless we think of only as being at rest.

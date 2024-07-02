@@ -1,7 +1,7 @@
 ---
 heading: Discourse 8
 title: The Rainbow
-weight: 4
+weight: 38
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/method.png"
 writer:

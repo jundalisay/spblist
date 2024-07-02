@@ -15,18 +15,19 @@ icon: "/icons/descartes.png"
 ### 13. What is external place?
 
 The words 'place' and 'space' signify nothing really different from body which is in place.
-- They merely designate its magnitude, shape, and location among other bodies. 
+- They merely designate its size, shape, and location among other bodies. 
 
 In order to determine this location, it is necessary to regard other immovable bodies.
  <!-- which we consider as immovable.  -->
 
-As we look to different bodies, we see that the same thing both changes and does not place at the same time. 
+As we look to different bodies, we see that the original body at the same time:
+- changes its place, from one perspective
+- does not change its place, from another perspective. 
 
-For example, imagine a ship being carried out to sea. A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these.
-
-On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another. 
-
-If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. 
+For example, imagine a ship being carried out to sea. 
+- A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these.
+- On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another.
+- If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. 
 
 I assert that all points are movable in the universe. From this, I conclude that nothing has a permanent place unless it is fixed by our thought.
 

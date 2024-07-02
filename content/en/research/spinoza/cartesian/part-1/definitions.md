@@ -18,32 +18,41 @@ Thus all operations of the will, intellect, imagination, and senses are thoughts
 
 But I have added 'immediately' so as to exclude those things that are their consequences. For example, voluntary motion has thought for its starting point, but in itself it is still not thought.
 
-2. By the word Idea, I understand the specific form (forma) of a thought, through the immediate perception of which I am conscious of that same thought.
+2. "Idea" is the specific form of a thought, through the immediate perception of which I am conscious of that same thought.
 
-So whenever I express something in words while understanding what I am saying, this very fact makes it certain that there is in me the idea of that which is meant by those words. 
+So whenever I say something that I understand, there is in me the idea of what is meant by those words. 
 
-So I do not apply the term 'ideas' simply to images depicted in the fantasy; indeed I do not here term these 'ideas' at all, insofar as they are depicted in the corporeal fantasy (i.e., in some part of the bra in) but only insofar as they communicate their form to the mind itself when this is directed toward that part of the brain.
+'Ideas' are not images depicted in the fantasy. 
 
-3. By the objective reality of an idea, I understand the being of that wh ich is presented through the idea, insofar as it is in the idea.21
+<!-- ; indeed I do not here term these 'ideas' at all, insofar as they are depicted in the corporeal fantasy (i.e., in some part of the brain) but only insofar as they -->
+
+Ideas are those that communicate their form to the mind itself.
+
+ <!-- when this is directed toward that part of the brain. -->
+
+3. The "objective reality of an idea" is the being of that which is presented through the idea
+
+<!-- , insofar as it is in the idea.21 -->
 
 In the same way one can speak of 'objective perfection' or 'objective art', etc.
 
-For whatever we perceive as being in the objects of ideas is objectively in the ideas themselves.
+Whatever we perceive as being in the objects of ideas is objectively in the ideas themselves.
 
-4. When things are, in themselves, such as we perceive them to be, they are said to be formally in the objects of ideas, and eminently when they are not just such in themselves as we perceive them to be but are more than sufficient to account fully for our perception.
+4. The "objects of ideas" are what we perceive them to be in themselves. 
 
-Note that when I say that the cause contains eminently the perfections of its effect, I mean that the cause contains the perfections of the effect with a higher degree of excellence than does the effect itself See also Axiom 8.
+<!-- , and eminently when they are not just such in themselves as we perceive them to be but are more than sufficient to account fully for our perception. -->
 
-5. Everything in which there is something that we perceive as immediately inhering in a subject, or through which there exists something that we perceive (i.e., some property, quality or attribute whose real idea is in us), is called substance.
+The cause contains eminently the perfections of its effect. This means that the cause contains the perfections of the effect with a higher degree of excellence than does the effect itself. See also Axiom 8.
+
+5. "Substance" is everything in which there is something that we perceive as immediately inhering in a subject, or through which there exists something that we perceive (i.e., some property, quality or attribute whose real idea is in us).
 
 
 <!-- 2 1 [ef. Medl, 27-28 (AT7, 40--41) J 
 128 Principles of Cartesian Philosophy -->
 
-For of substance itself, taken precisely, we have no other idea than that it is a thing in which there exists formally or eminently that something which we perceive
-(i.e., that something which is objectively in one of our ideas).
+Substance is a thing in which there exists formally that something which we perceive (i.e., that something which is objectively in one of our ideas).
 
-6. Substance in which thought immediately inheres is called Mind (Mens).
+6. Mind is substance in which thought immediately inheres.
 
 I here speak of 'Mind' rather than 'Soul' (anima) because the word 'soul' is equivocal, and is often used to mean a corporeal thing.
 

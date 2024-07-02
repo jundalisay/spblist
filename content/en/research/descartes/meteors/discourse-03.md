@@ -1,7 +1,7 @@
 ---
 heading: Discourse 3
 title: Salt
-weight: 4
+weight: 12
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/method.png"
 writer:

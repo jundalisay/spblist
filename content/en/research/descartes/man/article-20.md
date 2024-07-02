@@ -16,18 +16,34 @@ writer:
 
 <!-- , as I have already discussed them abundantly before.  -->
 
-Nor do I describe at length here what objects pleasantly affect sight and what offend it. For it is not difficult to perceive, from what is known about other senses, that overly intense light can harm vision, while moderate light can refresh it, especially the color green, which consists of the proportion of one to two and is related to the octave in musical consonances, and daily bread compared to other types of food, which generally bring more pleasure. 
+I do not describe at length what objects pleasantly affect sight and what offend it. 
 
-All those different colors, which novelty endears and often provide greater delight to the sight than the color green, are like excellent and unusual musical modulations or the delicate food of a wise cook. 
+For it is not difficult to perceive, from what is known about other senses, that 
 
-They initially stimulate the senses like a pleasant itch. But they quickly cause weariness and nausea much faster than simple and ordinary objects. 
+We know that:
+- overly intense light can harm vision
+- moderate light can refresh it, especially the color green
 
-The only thing left to explain is what it is that shows the soul the ability to perceive the position, shape, distance, size, and other similar qualities, which are not perceived by only one sense, such as those discussed so far, but are common to touch, taste, and even other senses. 
+Green consists of the proportion of 1:2 and is related to the octave in musical consonances.
 
-Therefore, note first that when, for example, hand A touches object C, the parts of the brain B, from which the filaments of those nerves originate, are arranged differently than if it were touching something else, whether in shape, size, or location. And therefore, the soul can perceive the position, shape, size, and similar qualities of the object in a peculiar way through the manner in which it is affected.
+Green is like daily bread, as opposed to other types of food which give more pleasure. 
 
+The novelty of the non-green colors are endearing and often provide greater delight to the sight than green.
+- They are like excellent and unusual musical modulations or the delicate food of a wise cook. 
 
-Similarly, if the eye D looks at the object E, the soul will be able to perceive the position of that object because the nerves of that eye will be arranged differently than if it were looking elsewhere.
+They initially stimulate the senses like a pleasant itch.
+- But they quickly cause weariness and nausea much faster than simple and ordinary objects. 
+
+How does the soul perceive the position, shape, distance, size, and other similar qualities?
+
+These are perceived by many of our senses.
+<!-- , such as those discussed so far, but are common to touch, taste, and even other senses.  -->
+
+For example, when hand `A` touches object `C`, the parts of the brain `B`, from which the filaments of those nerves originate, are arranged differently than if it were touching something else, whether in shape, size, or location.
+
+Therefore, the soul can perceive the position, shape, size, and similar qualities of the object in a peculiar way through the manner in which it is affected.
+
+Similarly, if the eye `D` looks at the object `E`, the soul will be able to perceive the position of that object because the nerves of that eye will be arranged differently than if it were looking elsewhere.
 - It will recognize its shape because the rays from `point 1` converging at `point 2`, to the optic nerve, and the rays from point 3 at point 4, and so on for the others, will paint a figure exactly similar to its own shape. 
 
 It will also be able to perceive the distance of point 1 because the arrangement of the crystalline humor will be different for the other figure, so that all rays coming from this point will precisely converge at point 2 on the fundus of the eye, which, as previously stated, I assume to be the medium between distant and near. 
@@ -43,13 +59,21 @@ Finally, the soul can perceive the size of objects affecting sight, and other si
 
 If these two hands F and G grasp different ends of the stick H and I, with which they touch the object K, although the soul may not know the length of these sticks in any other way, yet knowing the distance between the two points F and G, and the magnitude of the angles FGH and GFI, it can be more certain, as if by some natural geometry, where the object K is. 
 
-Similarly, if both eyes L and M directly look at the object N, the length of the line LM, and at the same time the angles LMN and MLN, in Figure XXIV, will show the soul where the point N is. However, in all these cases, the soul can often be deceived. First, if the position of the fingers or the eyes is distorted against nature by an external cause, the brain particles, from which the nerves originate, will not respond as accurately as they would if they depended only on naturally acting muscles; thus, the soul, which feels only through the intervention of those brain particles, may then be deceived as shown in Figure XXV.
+Similarly, if both eyes L and M directly look at the object N, the length of the line LM, and at the same time the angles LMN and MLN, in Figure XXIV, will show the soul where the point N is. 
 
-For example, if the hand F, when placed by itself to turn towards O, is distorted by some external force towards K, the parts of the brain from which these nerves originate will not be arranged in the same way as if the hand were turned towards K by spontaneous muscle movement, nor even in the same way as if it were truly directed towards O. But rather in a manner between those two, namely in the same way as if it were turned towards P. 
+However, in all these cases, the soul can often be deceived. First, if the position of the fingers or the eyes is distorted against nature by an external cause, the brain particles, from which the nerves originate, will not respond as accurately as they would if they depended only on naturally acting muscles; thus, the soul, which feels only through the intervention of those brain particles, may then be deceived as shown in Figure XXV.
 
-Hence the soul will take the opportunity, as depicted in Figure XXVI, to judge that the object K is at point P and is different from what the hand G touched. Similarly, if the eye M is twisted away from the object N by force and placed as if it were looking towards Q, the soul will judge it to be directed towards R. 
+For example, if the hand `F`, when placed by itself to turn towards O, is distorted by some external force towards K, the parts of the brain from which these nerves originate will not be arranged in the same way as if the hand were turned towards K by spontaneous muscle movement, nor even in the same way as if it were truly directed towards O. But rather in a manner between those two, namely in the same way as if it were turned towards P. 
 
-And because with the eye so positioned, the rays of the object N incident into the eye just as they would if coming from point S, if the eye were truly turned towards R, it will judge the object N to be at point S, and therefore different from what is seen by the eye M. Likewise, the two fingers T and R, touching the sphere X, will give the soul the opportunity, as shown in Figure XXVII, to think that two different bodies are being touched because the crossed fingers are held against their natural position. Furthermore, if rays or any other lines, due to the action of any distant objects, are curved when they reach the senses, the soul, which commonly assumes them to be straight, will take the opportunity to deceive itself.
+Hence, the soul will take the opportunity, as depicted in Figure XXVI, to judge that the object K is at point P and is different from what the hand G touched. 
+
+Similarly, if the eye M is twisted away from the object N by force and placed as if it were looking towards Q, the soul will judge it to be directed towards R. 
+
+And because with the eye so positioned, the rays of the object N incident into the eye just as they would if coming from point S, if the eye were truly turned towards R, it will judge the object N to be at point S, and therefore different from what is seen by the eye M. 
+
+Likewise, the two fingers T and R, touching the sphere X, will give the soul the opportunity, as shown in Figure XXVII, to think that two different bodies are being touched because the crossed fingers are held against their natural position. 
+
+Furthermore, if rays or any other lines, due to the action of any distant objects, are curved when they reach the senses, the soul, which commonly assumes them to be straight, will take the opportunity to deceive itself.
 
 Just as, if the stick H is bent towards K, the object K that it touches will appear to the soul towards R. 
 
@@ -68,4 +92,3 @@ As for the disposition of the crystalline humor, it also changes less sensibly a
 Finally, the judgment regarding distance, which we form either by opinion based on the size of the objects we conceive, or from the fact that the rays emanating from their different points do not unite so accurately on the fundus of the eye, shows how easily we can be deceived by arguments based on perspective. 
 
 For whenever figures are painted smaller in perspective than we imagine they should be, and with darker colors and more confused lines, they always appear more distant and larger than they really are.
-

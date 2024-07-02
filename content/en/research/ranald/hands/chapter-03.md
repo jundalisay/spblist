@@ -65,7 +65,7 @@ But if the other aspects of the hand are good, the close setting may indicate on
 A medium setting of the thumb with free movement at the side of the hand indicates a person who is well balanced, neither extravagant nor mean, neither obstinate nor weak-willed; frank, honest and loyal.
 
 
-### THE THUMB'S PHALANXES
+### The Thumb'S Phalanxes
 
 The thumb has 3 phalanxes. 
 
@@ -74,10 +74,12 @@ The thumb has 3 phalanxes.
 3. The third TH-C governs feeling and appetites
 
 
-specific significance
+<!-- specific significance
 governing will, the second (see plate
 the base phalanx (see plate 14, TH-C)
-TH-A)
+TH-A) -->
+
+
 When the will phalanx is excessively developed, stiff and very much larger than the reason phalanx, the person will be  obstinate with a violent temper and the need to impose his own will and desires on others. 
 
 A more delicate tip on a highly-developed will-phalanx modifies its brutality with sensitiveness.
@@ -89,7 +91,7 @@ When the will-phalanx is too short in proportion to the rest of the thumb, we ca
 A forceful tip on a short will-phalanx diminishes the weakness.
 
 
-### THE PHALANX OF REASON
+### The Phalanx Of Reason
 
 The second thumb phalanx governs perception, judgment and reasoning powers. If long, it gives the ability to plan to make decisions, to use sound judgment. When a long second phalanx is combined with a short will-phalanx, you find a person
 who can make intricate plans but falls short in their execution. 

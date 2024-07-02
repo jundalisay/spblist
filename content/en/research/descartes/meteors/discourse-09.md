@@ -1,7 +1,7 @@
 ---
 heading: Discourse 9
 title: The Color of Clouds and the circles sometimes seen around the stars
-weight: 4
+weight: 40
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/method.png"
 writer:

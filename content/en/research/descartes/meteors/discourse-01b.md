@@ -1,7 +1,7 @@
 ---
 heading: Discourse 1
 title: The Nature Of Terrestrial Bodies
-weight: 4
+weight: 6
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/meteors.png"
 writer:
@@ -11,15 +11,30 @@ icon: /icons/descartes.png
 ---
 
 
-Among the long and smooth parts that I have said water is composed of, most of them bend or cease to bend depending on whether the subtle matter surrounding them has a little more or less force than usual.
+Water is composed of long and smooth earth-aether particles. Most of them:
+- bend when the fire-aether around them has more force than usual
+- stay rigid when the fire-aether around them has less force than usual.
 
-However, there are also larger parts that cannot be bent in this way and thus form salts, and smaller parts that can always be bent and thus form spirits or life waters, which never freeze. When the parts of common water completely cease to bend, their most natural shape is not always to be straight like reeds, but often to be curved in various ways: this is why they cannot then arrange themselves in as little space as when the subtle matter, being strong enough to bend them, makes their shapes fit one another. 
+However, there are also larger particles that cannot be bent by the fire-aether and thus form salts.
 
-When the subtle matter is stronger than necessary for this purpose, it again causes them to extend into more space. 
+The smaller particles that can always be bent form spirits or life waters, which never freeze. 
 
-This can be observed experimentally by filling a flask or other similar vessel with hot water, one with a neck that is sufficiently long and narrow, and exposing it to the air when it freezes: the water will visibly drop little by little until it reaches a certain degree of coldness, then swell and rise little by little until it is completely frozen. 
+When the parts of common water completely cease to bend, their most natural shape is curved in various ways. Their shape is not like straight reeds.
 
-Thus, the same cold that condensed or contracted it at first will later rarefy it. It can also be observed experimentally that water that has been kept on the fire for a long time freezes more quickly than other water, because those parts of it that can least stop bending evaporate while it is being heated.
+This is why they, as ice, occupy more space. It is because the fire-aether is no longer available to bend them and make their shapes fit one another.
+
+ <!-- cannot then arrange themselves in as little space as when the subtle matter, being strong enough to  -->
+
+<!-- When the fire-aether is stronger than necessary for this purpose, it again causes them to extend into more space.  -->
+
+This can be observed by filling a flask that has a long and narrow neck with hot water then exposing it to the air when it freezes. The water will visibly drop little by little until it reaches a certain degree of coldness. Then it will swell and rise little by little until it is completely frozen. 
+
+Thus, the same cold that condensed or contracted it at first will later rarefy it. 
+
+Water that has been kept on the fire for a long time freezes more quickly than other water. This is because its most non-rigid particles have already evaporated, leaving only the rigid ones.
+
+<!-- that can stop bending the least  -->
+ <!-- while it is being heated. -->
 
 <!-- But to make these suppositions easier for you to accept, know that I do not conceive of  -->
 

@@ -28,7 +28,7 @@ It is absolutely contradictory that nothing should possess extension. And so we 
 
 The common 'vacuum' does not mean a place or space in which there is absolutely nothing.
 
-**It means a place in which there is none of those things we presume ought to be there.** 
+**It means a place in which there is none of those things which we presume should be there.** 
 
 A pitcher is made to hold water.
 - It is said to be empty when it is merely filled with air.
@@ -47,21 +47,35 @@ We are wrong to say that a pitcher that only has air is empty, because it makes 
 In the same way, we are wrong if we say that a common vacuum has nothing, or is empty.
 
 
-### {{< s v="18" >}} How the prejudice of an absolute vacuum is to be corrected.
+### 18. How the prejudice of an absolute vacuum is to be corrected.
 
 We have almost all fallen into this error from the earliest age.
 
-We observe that there is no necessary connection between a vessel and the body it contains. This makes us think that God at least could take from a vessel the body which occupied it, without it being necessary that any other should be put in the place of the one removed. 
+We observe that there is no necessary connection between a vessel and its contents. 
+
+This makes us think that God can remove its contents without replacing what was removed. 
 
 <!-- But that we may be able now to correct this false opinion, it is necessary to remark that  -->
 
-There is in truth no connection between the vessel and the particular body which it contains.
+In truth, there is no connection between the vessel and its contents. 
 
-But there is an absolutely necessary connection between the concave figure of the vessel and the extension considered generally which must be comprised in this cavity.
+<!-- the particular body which it contains. -->
 
-So that it is not more contradictory to conceive a mountain without a valley than such a cavity without the extension it contains, or this extension apart from an extended substance, for, as we have often said, of nothing there can be no extension. 
+But there is an absolutely necessary connection between:
+- the vessel's concave shape, and
+- the general extension [metaphysical space] in that cavity.
 
-Accordingly, if God removed from a vessel all the body contained in it, without permitting another body to occupy its place, then the sides of the vessel would thus come into proximity with each other. 
+A mountain has a valley just as a cavity has extension [metaphysical space].
+- The extension [metaphysical space] has extended substance [metaphysical aether]
 
-For two bodies must touch each other when there is nothing between them. It is contradictory for two bodies to be apart, in other words, that there should be a distance between them, and this distance yet be nothing. **For all distance is a mode of extension, and cannot therefore exist without an extended substance.**
+<!-- , for, as we have often said, of nothing there can be no extension.  -->
 
+If God removed all the space from inside a vessel, then its sides would collapse inward. 
+
+ <!-- all the body contained in it, without permitting another body to occupy its place, then the sides of the vessel would thus come into proximity with each other.  -->
+
+This is because 2 bodies must touch each other when there is nothing between them.
+
+<!-- It is contradictory for two bodies to be apart, in other words, that there should be a distance between them, and this distance yet be nothing.  -->
+
+**For all distance is a mode of extension [metaphysical space], and cannot therefore exist without an extended substance [metaphysical aether].**

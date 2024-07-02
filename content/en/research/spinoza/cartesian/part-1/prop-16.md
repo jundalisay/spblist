@@ -73,30 +73,43 @@ Therefore when we say that God has understood things from eternity, we are also 
 Corollary: It follows that God is in the highest degree constant in his works.
 
 
-## Proposition 21: Substance extended in length, width, and height exists in reality. We are united to one part of it.
+<!-- ## Proposition 21: Substance extended in length, width, and height exists in reality. We are united to one part of it. -->
 
-Proof: That which is extended, as it is clearly and distinctly perceived by us, does not pertain to God's nature (Prop. 1 6). but it can be created by God (Cor. Prop. 7 and Prop. 8). 
+## Proposition 21: The aether exists with length, width, and height. We are united to one part of it.
+
+Proof: Whatever is extended can be clearly and distinctly perceived by us. This extension is created by God (Cor. Prop. 7 and Prop. 8) and is not part of God's nature (Prop. 1 6).  
 
 <!-- Furthermore, we clearly and distinctly perceive (as everyone can discover in himself, insofar as he thinks) that  -->
 
-Extended substance is a sufficient cause for producing in us pleasure, pain, and similar ideas or sensations, which are continually produced in us even against our will. 
+<!-- Substance -->
+#### Point 1: The aether, extended in length, width, and height, exists.
 
-But if we wish to suppose some other cause for our sensations apart from extended substance-say, God or an angel-we immediately destroy the clear and distinct concept that we have.
+The metaphysical aether produces in us pleasure, pain, and similar ideas or sensations, which are continually produced in us even against our will.
+
+<!-- Extended substance is a sufficient cause for producing in us   -->
+
+But if there were some other cause, such as God or an angel, for our sensations aside from the metaphysical aether, then we immediately destroy the clear and distinct concept that we have.
+
+ <!-- apart from extended substance-say, - -->
 
 <!-- , or by no means uninclined, -->
-Therefore, as long as we correctly attend to our perceptions so as to allow nothing but what we clearly and distinctly perceive, we shall be inclined to accept that extended substance is the only cause of our sensations. 
+Therefore, as long as we correctly attend to our perceptions so as to allow nothing but what we clearly and distinctly perceive, we accept that the metaphysical aether is the only cause of our sensations. 
+<!-- extended substance -->
 
-Therefore, we are inclined to affirm that the extended thing exists, created by God. And in this we surely cannot be deceived (Prop. 14 with Schol.). 
+<!-- extended -->
+Therefore, we are inclined to affirm that the metaphysical thing exists, created by God. And in this we surely cannot be deceived (Prop. 14 with Schol.).
 
-Therefore, it is truly affirmed that substance extended in length, width, and height exists. This was the first point 4S
 
-Furthermore, among our sensations, which must be produced in us  by extended substance, we observe a considerable difference, as when I say that I sense or see a tree or when I say that I am thirsty, or in pain, etc.
+#### Point 2: Extended substance produces sensations in us. 
 
-But I clearly see that I cannot perceive the cause of this difference unless I first understand that I am closely united to one part of matter, and not so to other parts.
+These sensations have a considerable difference.
+
+For example, seeing a tree is a different sensation from being thirsty, or being in pain, etc.
+
+I can only clearly see this difference if I first understand that I am closely united to one part of matter, and not so to other parts.
 
 Because I clearly and distinctly understand this, and I cannot perceive it in any other way, it is true (Prop. 14 with Schol.) that I am united to one part of matter.
 
-This was the second point. 
 
 <!-- We have therefore proved what was to be proved. -->
 
@@ -105,6 +118,9 @@ This was the second point.
 46 [See Med6, 52-53 (AT7, 80-8 1).J 
 Part 2, Defini!io"" 147 -->
 
-Note: Unless the reader here considers himself only as a thinking thing, lacking body, and unless he puts aside as prejudices all the reasons that he previously entertained for believing that body exists, his attempts to understand this proof will be in vain.
+Note: The reader will not understand this proof unless he here considers himself only as an abstract mind.
+
+ <!-- a thinking thing, lacking body, and unless he puts aside as prejudices all the reasons that he previously entertained for believing that body exists,  -->
+
 
 End of Part 1

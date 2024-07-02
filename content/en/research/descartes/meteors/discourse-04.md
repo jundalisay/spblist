@@ -1,7 +1,7 @@
 ---
 heading: Discourse 4
 title: Winds
-weight: 4
+weight: 18
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/method.png"
 writer:

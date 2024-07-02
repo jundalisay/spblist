@@ -12,7 +12,7 @@ weight: 6
 
 ## Proposition 1: Although hardness, weight, and the other sensible qualities may be separated from a body, the nature of the body will nevertheless remain unimpaired 
 
-Proof: In the case of hardness, such as of this stone, our sense-perception merely indicates to us that the parts of hard bodies resist the movement of our hands (Ax. 3).
+Proof: In the case of hardness, such as of this stone, our sense-perception merely indicates to us that hard bodies resist the movement of our hands (Ax. 3).
 
  <!-- nothing else. We clearly and distinctly understand nothing else, than  -->
 
@@ -23,13 +23,13 @@ If the rock is reduced to the finest powder, its parts will readily give way (Ax
 In the case of weight and the other sensible qualities, the proof proceeds in the same way.
 
 
-## Proposition 2: The nature of body or matter consists only in extension
+## Proposition 2: The nature of body or matter consists only in extension [metaphysical space]
 
 Proof: The nature of body is not lost as a result of the loss of sensible qualities (Part 2, Prop. 1). 
 
 Therefore, these do not constitute its essence (Ax. 2). 
 
-Therefore, nothing is left but extension and its affections (Ax. 7).
+Therefore, nothing is left but extension [metaphysical space] and its affections (Ax. 7).
 
 So if extension is taken away, nothing will remain pertaining to the nature of body. It will be completely annulled. 
 
@@ -37,19 +37,25 @@ Therefore, (Ax. 2) the nature of body is only in extension. Q.E.D.
 
 Corollary: Space and body do not differ in reality.
 
-Proof: Body and extension do not differ in reality (previous Prop.), and also space and extension do not differ in reality (Def. 6). 
+Proof: The following are the same in reality:
+- body and extension [metaphysical space] (previous Prop.)
+- space and extension (Def. 6). 
 
 Therefore (Ax. 1 5) space and body do not differ in reality. Q.E.D.
 
-Scholium: We say that God is everywhere. But it is not thereby admitted that God is extended (i.e. [previous Prop.], that God is corporeal). 
+Scholium: We say that God is everywhere. But it does not mean that God is  extended [metaphysical space] (i.e. [previous Prop.], that God is corporeal). 
 
-His ubiquity refers only to God's power and his concurrence whereby he preserves all things. In this way, God's ubiquity does not refer to body or extension any more than to angels and human souls.
+His ubiquity [metaphysical everywhere] refers only to:
+- his power
+- his concurrence to preserve all things. 
 
-When we say that his power is everywhere, we do not exclude his essence. Where his power is, there too is his essence (Cor. Prop. 17 Part I). We intend to exclude only bodily nature. 
+In this way, God's ubiquity does not refer to body or extension any more than to angels and human souls.
 
-God is everywhere not by a corporeal power but by his divine power or essence, which serves alike to preserve extension and thinking things (Part 1, Prop. 17).
+When we say that his power is everywhere, we do not exclude his essence. Where his power is, there too is his essence (Cor. Prop. 17 Part I). We intend to exclude only bodily nature.
 
-The latter he certainly could not have preserved if his power, that is, his essence, were corporeal.
+God is everywhere not by a corporeal power but by his divine power or essence, which serves alike to preserve extension [metaphysical space] and thinking things [abstract minds] (Part 1, Prop. 17).
+
+The latter he certainly could not have preserved if his essence were corporeal.
 
 <!-- I On this, see a fuller explanation m AppendiX, Part 2, Chapters 3 and 9. 
 1 52 Principles of Cartesian Philosophy -->
@@ -58,9 +64,9 @@ The latter he certainly could not have preserved if his power, that is, his esse
 
 <!-- There should be a vacuum is a contradiction. -->
 
-Proof: A vacuum is extension without corporeal substance (Def. 3). It is (Prop. 2 Part 2) body without body, which is absurd.
+Proof: A vacuum is extension [metaphysical space] without corporeal substance [metaphysical aether] (Def. 3). It is (Prop. 2 Part 2) body without body, which is absurd.
 
-For a fuller explanation, and to correct prejudice concerning the vacuum, read Articles 17 and 18 Part 2 of the Principia. It says that:
+For a fuller explanation, read Articles 17 and 18 Part 2 of the Principia. It says that:
 - nothingness has no properties
 - bodies with nothing in between necessarily touch one another
 
@@ -77,10 +83,13 @@ It follows that when we say that body cannot occupy more space at one time than 
 
 Corollary: Bodies that occupy equal space, say, gold and air, have the same amount of matter or corporeal substance. 
 
-Proof: Corporeal substance consists not in hardness (e.g., of gold) nor in softness (e.g. , of air) nor in any of the sensible qualities (Prop. I Part 2), but only in
-extension (Prop. 2 Part 2). 
+Proof: Corporeal substance [metaphysical aether] consists only in extension [metaphysical space] (Prop. 2 Part 2), not in:
+- hardness (e.g., of gold)
+- softness (e.g. , of air)
+- any of the sensible qualities (Prop. I Part 2)
 
-By hypothesis, there is the same amount of space or (Def. 6) extension in the one as in the other. Therefore, there will also be the same amount of corporeal substance. Q.E.D.
+By hypothesis, there is the same amount of space or (Def. 6) extension [metaphysical space] in the one as in the other. Therefore, there will also be the same amount of corporeal substance. Q.E.D.
+
 
 ## Proposition 5: There are no atoms
 

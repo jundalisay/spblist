@@ -15,35 +15,35 @@ Here the only requirement is that everyone should attend to his perceptions as a
 
 ## Definitions
 
-1. Extension is that which consists of 3 dimensions. 
+1. Extension [Metaphysical space] is that which consists of 3 dimensions. 
 
-But by extension we do not understand the act of extending, or anything distinct from quantity.
+But by extension does not mean the act of extending, or anything distinct from quantity.
 
-2. Substance is that which, in order to exist, needs only the concurrence of God.
+<!-- Substance -->
+2. The aether is that which only needs God's concurrence to exist.
 
 3. An atom is a part of matter indivisible by its own nature.
 
 4. The indefinite is that whose bounds, if it has any, cannot be discovered by human intellect.
 
-5. A vacuum is extension without corporeal substance.
+5. A vacuum is extension [metaphysical space] without corporeal substance [metaphysical aether].
 
-6. Space is to be distinguished from extension only in thought.*
+6. Space is to be distinguished from extension [metaphysical space] only in thought.* In reality, they are the same. Read Art. 10 Part 2 of the Principia.
 
 > *Superphysics Note: Extension is metaphysical, space is physical. Nowadays, space is both physical and metaphysical, and extension is not used. 
 
-There is no difference in reality. Read Art. 10 Part 2 of the Principia.
 
 7. Divisible is that which in our thinking can be divided, at least potentially.
 
-8. Local motion is the transfer of one part of body, from the vicinity of those bodies that are immediately contiguous and at rest, to the vicinity of other bodies.
+8. Local motion is the transfer of a body, from the vicinity of bodies that are at rest and immediately contiguous to it, to the vicinity of other bodies.
 
 This is the definition used by Descartes to explain local motion. To understand this correctly, we should consider:
 
 8.1. "A part of matter" is all that is transferred together, even if it may consist of many parts. 
 
-8.2. Descartes refers only to matter which is constantly in the moving thing in motion, that is, its being transferred. 
+8.2. **Descartes refers only to matter which is constantly in the moving thing in motion, that is, its being transferred.** 
 
-People often confuse this with the force or action that effects the transfer. 
+People often confuse this with the force or action that effects the transfer.
 
 This force or action is commonly thought to be required only for motion and not for rest, an opinion that is plainly wrong. 
 
@@ -64,25 +64,35 @@ But it cannot be said to be transferred, and not to be transferred, from the vic
 
 This is because only certain definite bodies can, at the same moment of time, be contiguous to the same movable body.
 
+
 8.4. That he does not say, without qualification, that the transfer takes place from the vicinity of contiguous bodies, but only from the vicinity of contiguous bodies that are regarded as at rest. 
 
 For in order that a body A may be moved away from a body B, which is at rest, the same force and action are required on the one side as on the other. 
 
 This is evident in the example of a boat that is sticking to the mud or sand at the bottom of the water. 
 
-To push it forward, an equal force must be applied to the bottom as to the boat. Therefore the force by which bodies are to be moved is expended equally on the moved body and on the body at rest. 
+To push it forward, an equal force must be applied to the bottom as to the boat. Therefore, the force by which bodies are to be moved is expended equally:
+- on the moved body and
+- on the body at rest. 
 
-The transfer is reciprocal. If the boat is separated from the sand, the sand is also separated from the boat. 
+The transfer is reciprocal. 
+
+**If the boat is separated from the sand, the sand is also separated from the boat.** 
 
 Therefore, when bodies separate from one another, if we were to attribute to them without qualification equal motions in opposite directions, refusing to regard one of them as at rest simply on the grounds that there is the same action in the one case as in the other, then we should also be compelled to attribute to bodies that are universally regarded as at rest (e.g., the sand from which the boat is separated) the same amount of motion as to the moving bodies. 
 
-The same action is required on the one side as on the other, and the transfer is reciprocal. But this would be too remote from the normal usages oflanguage. However, although those bodies from which other bodies are separated are regarded as at rest and are also spoken of in this way, we shall remember that everything in the moving body on account of which it is said to move is also in the body at rest.
+The same action is required on the one side as on the other, and the transfer is reciprocal. But this would be too remote from the normal usages oflanguage. 
 
-8.5. Finally, that it is also clear from the definition that each body possesses only one motion peculiar to itself because it is understood to move away only from one set of bodies contiguous to it and at rest. However, if the moving body forms part of other bodies having other motions, we clearly understand that it can also participate in innumerable other motions. 
+However, although those bodies from which other bodies are separated are regarded as at rest and are also spoken of in this way, we shall remember that everything in the moving body on account of which it is said to move is also in the body at rest.
 
-But because it is not easy to understand so many motions at the same time, or even to recognize them all, it will be sufficient to consider in each body that unique motion, which is peculiar to it. See
-Art. 31 Part 2 Principia.
 
-9. By a circle of moving bodies we understand only a formation where the last body, in motion because of the impulse of another body, immediately touches the first of the moving bodies, even though the figure formed by all the bodies together through the impulse of a single motion may be very contorted.
+8.5. Each body possesses only one motion peculiar to itself because it moves away only from one set of bodies contiguous to it and at rest. 
+
+However, if the moving body forms part of other bodies having other motions, then it can also participate in innumerable other motions.
+
+But because it is not easy to understand so many motions at the same time, or even to recognize them all, it will be sufficient to consider in each body that unique motion, which is peculiar to it. See Art. 31 Part 2 Principia.
+
+
+9. A circle of moving bodies is a formation where the last body, in motion because of the impulse of another body, immediately touches the first of the moving bodies, even though the shape formed by all the bodies together through the impulse of a single motion may be very contorted.
 
 

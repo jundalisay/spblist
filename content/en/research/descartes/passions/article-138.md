@@ -1,7 +1,7 @@
 ---
 heading: Articles 138-
 title: What are the Passions of the Soul?
-weight: 4
+weight: 40
 description: What is Passion in relation to one subject is always Action in another respect.
 image: "/covers/passions.jpg"
 writer:
@@ -111,7 +111,9 @@ This represents to ourselves that it is impossible for anything to happen otherw
 
 For we can only desire what we believe in some way to be possible; and we cannot estimate as possible those things that do not depend on us, except as we think they depend on Fortune, that is to say, as we judge that they can happen, and that similar things have happened before. 
 
-This opinion is based only on not knowing all the causes that contribute to each effect. For when something that we have believed depends on Fortune does not happen, this shows that one of the necessary causes to produce it has failed, and consequently that it was absolutely impossible; and that something else, that we thought absolutely impossible, could easily happen, only by the concurrence of all its causes.
+This opinion is based only on not knowing all the causes that contribute to each effect. 
+
+For when something that we have believed depends on Fortune does not happen, this shows that one of the necessary causes to produce it has failed, and consequently that it was absolutely impossible; and that something else, that we thought absolutely impossible, could easily happen, only by the concurrence of all its causes.
 
 
 ### 146. Concerning those things that depend on us and on others
@@ -147,5 +149,9 @@ But with this we take pleasure in feeling them excited within us, and this pleas
 
 ### 148. The exercise of virtue is a sovereign remedy against the Passions.**
 
-Now, since these inner emotions touch us more closely and consequently have much more power over us than the Passions with which they differ, which meet with them, it is certain that, provided our soul always has enough to content it within itself, all the troubles that come from elsewhere have no power to harm it, but rather they serve to increase its joy, in that seeing it cannot be offended by them shows it its perfection. And so that our soul may thus have enough to content it, it needs only to follow virtue exactly. For whoever has lived in such a way that his conscience cannot reproach him for ever having failed to do all the things he judged to be the best (which is what I call here following virtue), receives from it a satisfaction so powerful in making him happy that the most violent efforts of the Passions have never enough power to disturb the tranquility of his soul.
+Since these inner emotions touch us more closely and consequently have much more power over us than the Passions with which they differ, which meet with them, it is certain that, provided our soul always has enough to content it within itself, all the troubles that come from elsewhere have no power to harm it, but rather they serve to increase its joy, in that seeing it cannot be offended by them shows it its perfection. 
+
+And so that our soul may thus have enough to content it, it needs only to follow virtue exactly. 
+
+For whoever has lived in such a way that his conscience cannot reproach him for ever having failed to do all the things he judged to be the best (which is what I call here following virtue), receives from it a satisfaction so powerful in making him happy that the most violent efforts of the Passions have never enough power to disturb the tranquility of his soul.
 

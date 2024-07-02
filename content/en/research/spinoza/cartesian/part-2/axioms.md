@@ -20,17 +20,17 @@ weight: 4
 
 5. A part of matter, whether it gives way or resists, does not thereby lose the nature of body.
 
-6. Motion, rest, figure, and the like cannot be conceived without extension.
+6. Motion, rest, shape, and the like cannot be conceived without extension [metaphysical space].
 
-7. Apart from its sensible qualities, nothing remains in body but extension and its affections enumerated in Part I of Principia.
+7. Apart from its sensible qualities, nothing remains in body but extension [metaphysical space] and its affections enumerated in Part 1 of Principia.
 
 8. Any one space or extension cannot be greater at one time than at another.
 
-9. All extension can be divided, at least in thought.
+9. All extension [metaphysical space] can be divided, at least in thought.
 
 No one who has leamed even the elements of mathematics doubts the truth of this axiom. 
 
-For the space between a tangent and a circle can always be divided by an infinite number oflarger circles. The same point is also made obvious by the asymptotes of the hyperbola.
+The space between a tangent and a circle can always be divided by an infinite number of larger circles. The same point is also made obvious by the asymptotes of the hyperbola.
 
 10. No one can conceive the boundaries of an extension or space without at the same time conceiving other spaces beyond those boundaries, immediately following on that space.
 
@@ -58,11 +58,14 @@ For the space between a tangent and a circle can always be divided by an infinit
 all eight bodies form a complete circle. See Def. 9.
 
 
-Lemma 1: Where there is extension or space, there is necessarily substance.
+<!-- substance -->
+Lemma 1: Where there is extension or space, there is necessarily the aether.
 
-Proof: Extension or space (Ax. I) cannot be pure nothing. It is therefore an attribute that must be attributed to some thing, but not to God (Prop. 16 Part I).
+Proof: Extension or space (Ax. I) cannot be pure nothing. It is therefore something, but not God (Prop. 16 Part I).
 
-Therefore it must be attributed to a thing that needs only the concurrence of God to exist (Prop. 12 Part I), that is (Def. 2 Part 2), to substance. Q.E.D.
+<!-- substance -->
+Therefore it is a thing that needs only God's concurrence to exist (Prop. 12 Part I), that is (Def. 2 Part 2), the aether. Q.E.D.
+
 
 Lemma 2: Rarefaction and condensation are clearly and distinctly conceived by us, although we do not grant that bodies occupy more space in rarefaction than in condensation.
 

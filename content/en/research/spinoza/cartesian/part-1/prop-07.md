@@ -12,9 +12,10 @@ weight: 13
 
 ## Proposition 7: The existence of God is also proved from the fact that we ourselves exist while having the idea of him.
 
-Proof: If I had the force to preserve myself, I would be of such a nature that I would involve necessary existence (Lemma 2). 
+<!-- I would be of such a nature that I would involve necessary existence -->
+Proof: If I had the force to preserve myself, then I would exist (Lemma 2). 
 
-Therefore (Corollary Lemma 1), my nature would contain all perfections. 
+Therefore (Corollary Lemma 1), my nature would contain all perfections.
 
 But I find in myself, as a thinking thing, many imperfections. I doubt, desire, etc.
 
@@ -22,19 +23,21 @@ I am certain of these imperfections (Scholium Prop. 4).
 
 Therefore, I have no force to preserve myself. 
 
-I do not have those perfections because I deny them to myself. This would be inconsistent with Lemma 1, and with my imperfections (Ax. 5).
+**I do not have those perfections because I deny them to myself.**
 
-Further, I cannot now exist, while I am existing, without being preserved either by myself- if indeed I have that force-or by someth ing else that does have that force (Axioms 10 and I I ). 
+This would be inconsistent with Lemma 1, and with my imperfections (Ax. 5).
+
+I cannot now exist, while I am existing, without being preserved either by myself- if indeed I have that force-or by something else that does have that force (Axioms 10 and I I ). 
 
 But I exist (Scholium Prop. 4) even if I do not have the force to preserve myself. 
 
-Therefore, I am preserved by something else. 
+**Therefore, I am preserved by something else that has the force to preserve itself that has all the perfections.** 
 
-But not by something else that does not have the force to preserve itself (by the same reasoning whereby I have just demonstrated that I am not able to preserve myself). 
+<!-- But not by something else that does not have the force to preserve itself (by the same reasoning whereby I have just demonstrated that I am not able to preserve myself).  -->
 
-Therefore it must be by something else that has the force to preserve itself; that is (Lemma 2), something whose nature involves necessary existence; that is (Corollary Lemma I ), something that contains all the perfections that I clearly understand to pertain to a supremely perfect being. 
+<!-- ; that is (Lemma 2), something whose nature involves necessary existence; that is (Corollary Lemma I ), something that contains  that I clearly understand to pertain to a supremely perfect being.  -->
 
-Therefore a supremely perfect being exists (Def. 8), God exists. Q.E.D.
+Therefore, a supremely perfect being exists (Def. 8), God exists. Q.E.D.
 
 Scholium: To demonstrate this proposition Descartes assumes 2 axioms:
 
@@ -46,12 +49,13 @@ I do not know what he means by these axioms.
 
 What does he call easy, and what difficult? 
 
-Nothing is said to be easy or difficult in an absolute sense, but only with respect to its cause. So one and the same thing can be said at the same time to be easy and difficult in respect of different causes.*
+Nothing is easy or difficult in an absolute sense, but only with respect to its cause. 
+
+So one thing can be easy and difficult at the same time in respect of different causes.*
 
 > *For example, the spider easily weaves a web that men would find very difficult to weave. On the other hand, men find it quite easy to do many thmgs that are perhaps impossible for angels. 
 
 <!-- 1 36 Principles of Cartesian Philosophy -->
-
 
 Now if, of things that can be effected by the same cause, he calls those difficult that need great effort and those easy that need less (e.g., the force that can raise 50 pounds can raise 25 pounds twice as easily) then surely the axiom is not absolutely true, nor can he prove from it what he aims to prove. 
 
@@ -70,18 +74,27 @@ That is, to speak more clearly and in more philosophic terms, I do not know whet
 <!-- But let us leave this and examine further what our noble Author here intends;
 that is,  -->
 
-What does Descartes understand by 'easy' and what by 'difficult'. 
+What does Descartes understand by 'easy' and what by 'difficult'?
 
-I do not think, nor can I in any way be convinced, that by 'difficult' he understands that which is imp06sible (and therefore cannot be conceived in any way as coming into being), and by 'easy', that which does not imply any contradiction (and therefore can readily be conceived as coming into being) -although in the "Third Meditation" he
-seems at first glance to mean this when he says: "Nor ought I to think that perhaps those things that I lack are more difficult to acquire than those that are already in me. For on the contrary it is obvious that it was far more difficult for me, a thinking thing or substance, to emerge from nothing than ... ", etc. 37 
+I do not think he means:
+- 'difficult' as that which is impossible
+<!-- (and therefore cannot be conceived in any way as coming into being), and by  -->
+- 'easy' as that which does not imply any contradiction 
+<!-- (and therefore can readily be conceived as coming into being) -although  -->
+
+In the "Third Meditation" he seems at first glance to mean this when he says: "Nor should I think that those things that I lack are more difficult to acquire than those that are already in me. For on the contrary it is obvious that it was far more difficult for me, a thinking thing or substance, to emerge from nothing than ... ", etc. 37 
 
 This would not be consistent with the Author's words nor would it smack of his genius. 
 
-For, passing over the first point, there is no relationship between the possible and the impossible, or between the intelligible and the nonintelligible, just as there is no relationship between something and nothing, and power has no more to do with impossible thing than creation and generation, with nonentities; so there can be no comparison between them. 
+For, passing over the first point, there is no relationship between the possible and the impossible, or between the intelligible and the nonintelligible, just as there is no relationship between something and nothing.
+
+Power has no more to do with impossible thing than creation and generation, with nonentities; so there can be no comparison between them. 
 
 Besides, I can compare things and understand their relationship only when I have a clear and distinct conception of them all.
 
-So I deny that it follows that he who can do the impossible can also do the possible. What sort of conclusion, I ask, would this be? 
+So I deny that it follows that he who can do the impossible can also do the possible. 
+
+What sort of conclusion would this be? 
 
 That if someone can make a square circle, he will also be able to make a circle wherein all the lines drawn from the center to the circumference are equal. 
 
@@ -128,7 +141,8 @@ This wtll be a pamcular feature of our discussion to the Appendix, concerning th
 However, not to leave the matter unproved, and to avoid all confusion, I have thought it advisable first of all to demonstrate the following Lemmas, and
 thereafter to construct on them the proof of Proposition 7.
 
-Lemma: I The more perfect a thing is by its own nature, the greater the existence it involves, and the more necessary is the existence. 
+
+Lemma 1: The more perfect a thing is by its own nature, the greater the existence it involves, and the more necessary is the existence. 
 
 Conversely, the more a thing by its own nature involves necessary existence, the more perfect it is.
 
@@ -146,16 +160,16 @@ Note 1. Although many things are said to exist necessarily solely on the grounds
 
 Note 2. We are not here speaking of beauty and other 'perfections', which, out of superstition and ignorance, men have thought fit to call perfections; by perfection I understand only reality or being. For example, I perceive that more reality is contained in substance than in modes or accidents. 
 
-So I understand clearly that substance contains more necessary and more perfect existence than is contained in accidents, as is well established from Axioms 4 and 6.
+Substance contains more necessary and more perfect existence than is contained in accidents, as is well established from Axioms 4 and 6.
 
 Corollary: Hence it follows that whatever involves necessary existence is a supremely perfect being, or God. 
+
 
 Lemma 2: The nature of one who has the power to preserve himself involves necessary existence.
 
 Proof: He who has the force to preserve himself has also the force to create himself (Ax. 1 0); that is (as everyone will readily admit), he needs no external cause to exist, but his own nature alone will be a sufficient cause of his existence, either possibly (Ax. 10) or necessarily. 
 
-But not possibly; for then (through what I have demonstrated with regard to Axiom 10) from the fact that he now existed it would
-not follow that he would thereafter exist (which is contrary to the hypothesis).
+But not possibly; for then (through what I have demonstrated with regard to Axiom 10) from the fact that he now existed it would not follow that he would thereafter exist (which is contrary to the hypothesis).
 
 Therefore necessarily; that is, his nature involves necessary existence. Q.E.D. 
 
@@ -163,9 +177,7 @@ Therefore necessarily; that is, his nature involves necessary existence. Q.E.D.
 
 Corollary: God can bring about every thing that we clearly perceive, just as we perceive it.
 
-Proof: All this follows clearly from the preceding proposition. For there God's existence was proved from the fact that there must exist someone in whom are all
-the perfections of which there is an idea in us. 
+Proof: All this follows clearly from the preceding proposition. For there God's existence was proved from the fact that there must exist someone in whom are all the perfections of which there is an idea in us. 
 
-Now there is in us the idea of a power so great that by him alone in whom it resides there can be made the sky,
-the earth, and all the other things that are understood by me as possible. Therefore, along with God's existence, all these things, too, are proved of him.
+Now there is in us the idea of a power so great that by him alone in whom it resides there can be made the sky, the earth, and all the other things that are understood by me as possible. Therefore, along with God's existence, all these things, too, are proved of him.
 

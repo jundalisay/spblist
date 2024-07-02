@@ -1,6 +1,6 @@
 ---
-title: RULES FOR THE DIRECTION OF THE MIND
-weight: 2
+title: Rules For The Direction Of The Mind
+weight: 26
 description: Rene Descartes 1635
 image: "/covers/method.png"
 writer:

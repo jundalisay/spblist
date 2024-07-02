@@ -1,7 +1,7 @@
 ---
-heading: Discourse 3b
-title: Salt
-weight: 4
+heading: Discourse 5
+title: Clouds
+weight: 24
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/method.png"
 writer:
@@ -9,55 +9,87 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: /icons/descartes.png
 ---
-**On Clouds**
-Discourse Five
-
-After considering how vapors, by expanding, cause winds, we must now see how, by condensing and contracting, they form clouds and fogs. As soon as they become significantly less transparent than pure air, if they extend to the surface of the earth, they are called fogs; but if they remain suspended higher up, they are called clouds. It is noteworthy that what makes them become less transparent than pure air is that when their movement slows down and their particles are close enough to touch each other, they join and gather into various small clusters, which are drops of water or particles of ice. For as long as they remain completely separate and floating in the air, they can hardly obstruct the passage of light; but when they are assembled, even though the drops of water or the particles of ice they form are transparent, the surface of each drop reflects part of the rays that strike them, as stated in the Dioptrics about all transparent bodies. These surfaces easily become numerous enough to reflect almost all the rays.
-
-Water droplets form when the subtle matter surrounding the small particles of vapor no longer has enough force to make them expand and repel each other, but still has enough to make them fold and subsequently join and accumulate into a sphere. The surface of this sphere becomes immediately smooth and polished because the parts of the air that touch it move differently from its own parts, and the subtle matter in its pores moves differently from that in the pores of the air, as previously explained when discussing the surface of seawater. For the same reason, the droplets also become perfectly round: as you often see, river water swirls and forms circles where something prevents it from moving straight as its agitation requires. Similarly, the subtle matter flows through the pores of other bodies, in the same way as a river flows through the spaces between the plants growing in its bed, moving more freely from one part of the air to another, and from one part of the water to another, than from air to water, or vice versa, as noted elsewhere. It must swirl inside the drop and also outside in the surrounding air, but in a different manner inside than outside, thus arranging all the parts of its surface in a circle. The water, being a liquid body, must obey these movements. Without doubt, this is enough to explain why water droplets must be perfectly round, in the sense that their sections are parallel to the earth's surface; there is no reason for any part of their circumference to move closer to or further from their centers more than others, since they are equally pressed by the surrounding air on all sides, assuming the air is calm and still, as we must suppose here.
 
 
-However, considering them from another perspective, one might wonder, when they are so small that their weight is not sufficient to force them to divide the air and descend, if this does not make them somewhat flatter and less thick in their height than in their width, like T or V. It should be noted that they have air around their sides as well as underneath them; and if their weight is not sufficient to make the air below them give way and let them descend, it is equally insufficient to make the air on their sides move aside and let them become wider. Conversely, one might wonder if, when their weight makes them descend, the air they divide does not make them somewhat longer and narrower, like X or Y. Again, it should be noted that, being surrounded all around, the air they displace as they descend must rise above them to fill the space they leave, and it can only do so by flowing along their surface, where it finds a shorter and easier path when they are round than if they had any other shape. Everyone knows that of all shapes, the round shape is the most efficient, meaning it has the least surface area relative to the volume it contains. Therefore, in whatever way one might consider it, these droplets must always remain round, unless the force of some wind or some other specific cause prevents them.
+After considering how vapors, by expanding, cause winds, we must now see how, by condensing and contracting, they form clouds and fogs.
+
+As soon as they become significantly less transparent than pure air, if they extend to the surface of the earth, they are called fogs; but if they remain suspended higher up, they are called clouds. 
+
+What makes them become less transparent than pure air is that when their movement slows down and their particles are close enough to touch each other, they join and gather into various small clusters, which are drops of water or particles of ice. 
+
+For as long as they remain completely separate and floating in the air, they can hardly obstruct the passage of light; but when they are assembled, even though the drops of water or the particles of ice they form are transparent, the surface of each drop reflects part of the rays that strike them, as stated in the Dioptrics about all transparent bodies. These surfaces easily become numerous enough to reflect almost all the rays.
+
+Water droplets form when the subtle matter surrounding the small particles of vapor no longer has enough force to make them expand and repel each other, but still has enough to make them fold and subsequently join and accumulate into a sphere. 
+
+The surface of this sphere becomes immediately smooth and polished because the parts of the air that touch it move differently from its own parts, and the subtle matter in its pores moves differently from that in the pores of the air, as previously explained when discussing the surface of seawater. 
+
+For the same reason, the droplets also become perfectly round: as you often see, river water swirls and forms circles where something prevents it from moving straight as its agitation requires. 
+
+Similarly, the subtle matter flows through the pores of other bodies, in the same way as a river flows through the spaces between the plants growing in its bed, moving more freely from one part of the air to another, and from one part of the water to another, than from air to water, or vice versa, as noted elsewhere. 
+
+It must swirl inside the drop and also outside in the surrounding air, but in a different manner inside than outside, thus arranging all the parts of its surface in a circle. 
+
+The water, being a liquid body, must obey these movements. Without doubt, this is enough to explain why water droplets must be perfectly round, in the sense that their sections are parallel to the earth's surface; there is no reason for any part of their circumference to move closer to or further from their centers more than others, since they are equally pressed by the surrounding air on all sides, assuming the air is calm and still, as we must suppose here.
+
+
+However, considering them from another perspective, one might wonder, when they are so small that their weight is not sufficient to force them to divide the air and descend, if this does not make them somewhat flatter and less thick in their height than in their width, like T or V.
+
+They have air around their sides as well as underneath them; and if their weight is not sufficient to make the air below them give way and let them descend, it is equally insufficient to make the air on their sides move aside and let them become wider. 
+
+Conversely, one might wonder if, when their weight makes them descend, the air they divide does not make them somewhat longer and narrower, like X or Y. 
+
+Again, it should be noted that, being surrounded all around, the air they displace as they descend must rise above them to fill the space they leave, and it can only do so by flowing along their surface, where it finds a shorter and easier path when they are round than if they had any other shape. Everyone knows that of all shapes, the round shape is the most efficient, meaning it has the least surface area relative to the volume it contains. 
+
+Therefore, in whatever way one might consider it, these droplets must always remain round, unless the force of some wind or some other specific cause prevents them.
 
 As for their size, it depends on how close the parts of the vapor are to each other when they begin to form the droplets, as well as on how agitated they are afterward, and on the amount of other vapors that can join them. Initially, each droplet is composed of only two or three small parts of the vapor that meet; but soon after, if this vapor is somewhat thick, two or three of the droplets that have formed from it will meet and join into one, and again two or three of these will join into one, and so on, until they can no longer meet. While they are suspended in the air, other vapors can also join them and increase their size until, finally, their weight causes them to fall as rain or dew.
 
 
-**On Ice Particles**
+### Ice Particles
 
-Ice particles form when the cold is so intense that the parts of the vapor cannot be folded by the subtle matter among them. If this cold sets in only after the droplets are already formed, it freezes them all round unless accompanied by a strong wind, which may flatten them slightly on the side it hits. Conversely, if the cold sets in before they begin to form, the parts of the vapor only join lengthwise, creating fine ice filaments. However, if the cold arrives between these two stages, which is most common, it freezes the vapor parts as they fold and pile up, without giving them enough time to join perfectly to form droplets. Thus, it creates small knots or clusters of ice, which appear white because they are composed of many filaments that remain separated and have distinct surfaces, even though they are folded over one another. These knots appear fuzzy or hairy all around because there are always several parts of the vapor that, unable to fold and pile up as quickly as the others, attach straight against them, forming the tiny hairs that cover them. Depending on whether the cold arrives gradually or suddenly, and whether the vapor is dense or sparse, these knots form larger or smaller, and the hairs or filaments that surround them are thicker and shorter, or finer and longer.
+Ice particles form when the cold is so intense that the vapor particles cannot be folded by the fire-aether among them.
 
+If this cold sets in only after the droplets are already formed, it freezes them all round unless accompanied by a strong wind, which may flatten them slightly on the side it hits.
 
-**On Vapors Converting to Water or Ice**
+Conversely, if the cold sets in before they begin to form, the parts of the vapor only join lengthwise, creating fine ice filaments. 
 
-And you can see from this that there are always two things required to convert vapors into water or ice, namely, that their parts are close enough to touch each other and that there is enough cold around them to make them join and stay together when they touch. For it would not be enough for the cold to be very great if the vapors were spread so far apart in the air that they did not touch at all, nor would it be enough for them to be very close and compressed if their heat, that is, their agitation, were strong enough to prevent them from joining.
+However, if the cold arrives between these two stages, which is most common, it freezes the vapor parts as they fold and pile up, without giving them enough time to join perfectly to form droplets.
 
-Thus, clouds do not always form high in the air, even though the cold is always sufficient for this effect. It also requires a westerly wind, opposing the usual course of the vapors, to gather and condense them where it ends; or that two or more other winds, coming from different directions, press and accumulate them between them; or that one of these winds drives them against a cloud already formed; or finally, that they gather themselves against the underside of a cloud as they rise from the earth. 
+Thus, it creates small knots or clusters of ice, which appear white because they are composed of many filaments that remain separated and have distinct surfaces, even though they are folded over one another. 
 
-Fog does not always form around us either; not in winter, even though the air is cold enough; nor in summer, even though vapors are abundant; but only when the cold air and the abundance of vapors coincide. This often happens in the evening or at night after a rather warm day, especially in spring more than other seasons, and even more than in autumn, because the temperature difference between day and night is greater. Fog forms more often in marshy or coastal areas than in places far from water or on water far from land, because water cools faster than land, chilling the air, which condenses the vapors produced abundantly by warm, moist land.
+These knots appear fuzzy or hairy all around because there are always several parts of the vapor that, unable to fold and pile up as quickly as the others, attach straight against them, forming the tiny hairs that cover them.
 
-The largest fogs, like clouds, form where the course of two or more winds ends. These winds drive many vapors to these locations, where they thicken into fog if the air near the ground is very cold or into clouds if it is only cold enough to condense them higher up. Note that the water droplets or ice particles that make up fog must be very small; if they were even slightly larger, their weight would quickly cause them to fall to the ground, so we would not call it fog but rain or snow. Also, there can never be any wind where fog forms, as it would quickly disperse it, especially when composed of water droplets, as even the slightest air movement causes these droplets to join and grow larger, eventually falling as rain or dew.
-
-Regarding clouds, they can form at various distances from the ground, depending on how high the vapors rise before they condense enough to form clouds. This is why we often see several layers of clouds, sometimes even moving with different winds. This phenomenon is more common in mountainous regions because the heat that raises the vapors acts more unevenly there than elsewhere. 
-
-Moreover, the highest clouds are almost never composed of water droplets but only ice particles because the air at those altitudes is colder, or at least as cold as that at the summits of high mountains, which is cold enough to prevent snow from melting even in the height of summer. The higher the vapors rise, the colder it gets, which freezes them, and the less they are pressed by winds. Hence, the uppermost parts of clouds usually consist of very fine ice filaments dispersed far apart in the air. Below this, small ice knots or clusters form, covered in tiny hairs, and progressively, slightly larger ones form below them. Finally, at the lowest levels, water droplets sometimes form.
-
-When the air containing these particles is completely calm or uniformly carried by a wind, both the droplets and ice particles can remain dispersed and unordered, making the shape of the clouds indistinguishable from fog. However, when winds that do not evenly occupy the surrounding air push these clouds, they cannot move uniformly, causing the clouds to be pressed and forced into the shape that least obstructs their movement. This makes the cloud surfaces flat and smooth. A particular point of interest is that all the small snow knots or clusters on these surfaces arrange themselves so that each has six others around it, touching or at least equally distant from it. For example, suppose a wind comes from the western part D over the land AB, opposing the usual air course, or if you prefer, another wind comes from the eastern part C.
+Depending on whether the cold arrives gradually or suddenly, and whether the vapor is dense or sparse, these knots form larger or smaller, and the hairs or filaments that surround them are thicker and shorter, or finer and longer.
 
 
-And that these two winds stopped at the beginning, one the other, in about the space FGP, where they condensed some vapors, of which they made a confused mass, while their forces balancing and finding themselves equal in this place, they left the air calm and tranquil. For it often happens that two winds are opposed in this way, because there are always several different ones around the earth at the same time, and that each of them usually extends its course, without turning aside, until the place where it meets a contrary one that resists it; but their forces cannot remain balanced there for a long time, and their matter flowing there more and more if they do not both cease together, which is rare, the strongest finally takes its course by the bottom, or the top of the cloud, or even by the middle, or all around, according to what it finds itself more disposed to; by which means if it does not completely quench the other, it at least constrains it to turn aside. As here I suppose that the western wind, having taken its course between G and P, has forced the Eastern one to pass underneath towards F, where it has caused the fog that was there to fall into dew, then has retained above itself the cloud G, which, finding itself pressed between these two winds, has become very flat and extended
+### Vapors Converting to Water or Ice
 
+There are always 2 things required to convert vapors into water or ice:
 
+1. Their particles are close enough to touch each other
+2. There is enough cold around them to make them join and stay together when they touch. 
 
-And the small ice pellets that were on its surface, both above and below, as well as on the underside of the cloud P, must have arranged themselves in such a way that each one has six others surrounding it. For one cannot imagine any reason that would have prevented them from doing so, and naturally all round and equal bodies that are moved in the same plane, by a force that is sufficiently similar, arrange themselves in this way, as you can see by experience, by throwing a row or two of round, unstrung pearls confusedly onto a plate, and shaking them, or only blowing a little against them so that they approach each other. But note that I am only talking here about the surfaces of the bottom or top, and not about the sides, because the unequal amount of matter that the winds can push against or remove from each side at any given moment makes the shape of their circuit ordinarily very irregular and unequal. I also do not add that the small ice knots that compose the inside of the cloud G should be arranged in the same way as those of the surfaces, because this is not at all so obvious. But I want you to consider again those that can go and stop under it, after it is fully formed. For if, while it remains suspended in space G, some vapors come out of the places on the earth that are towards A, which cool in the air little by little and are converted into small ice knots, which the wind drives towards L, there is no doubt that these knots must arrange themselves in such a way that each of them is surrounded by six others, which press it equally, and are in the same plane; and thus compose first of all like a sheet that extends under the surface of this cloud, then another sheet that extends under this one, and so on of others, as much as there will be matter. And moreover it must be noted that the wind, which passes between the earth and this cloud, acting with more force against the lowest of these sheets than against the one immediately above, and with more force against this one than against the one still above, and so on, can drag them along, and make them move separately from each other, and thus polish their surfaces by knocking down on both sides the small hairs that are around the pellets of which they are composed. And even it can make a part of these sheets slip out from under this cloud G, and transport them beyond, as towards N, where they compose a new one. And although I have only spoken here of the ice particles that are piled up in the form of small knots or pellets, the same can also be easily understood of the water droplets, provided that the wind is not strong enough to make them push each other, or that there are some exhalations around them, or, as often happens, some vapors not yet disposed to take the form of water, which separate them. For otherwise, as soon as they touch each other, several of them come together in one and thus become so large and so heavy that they are forced to fall as rain.
+For it would not be enough for the cold to be very great if the vapors were spread so far apart in the air that they did not touch at all, nor would it be enough for them to be very close and compressed if their heat, that is, their agitation, were strong enough to prevent them from joining.
 
+Thus, clouds do not always form high in the air, even though the cold is always sufficient for this effect. 
 
-Moreover, what I said earlier—that the shape of each cloud's perimeter is usually very irregular and uneven—should only be understood for those clouds that occupy less space in height and width than the surrounding winds. For sometimes, there is such an abundance of vapors at the point where two or more winds meet that they force these winds to swirl around them instead of passing above or below. This creates an extraordinarily large cloud, which, being equally pressed on all sides by these winds, becomes completely round and very smooth in its circumference. 
+It also requires:
+- a westerly wind, opposing the usual course of the vapors, to gather and condense them where it ends; or
+- 2 or more other winds, coming from different directions, to press and accumulate them between them; or
+- one of these winds drives them against a cloud already formed; or
+- they gather against the underside of a cloud as they rise from the earth. 
 
-Additionally, when these winds are somewhat warm, or when the cloud is exposed to the heat of the sun, it can develop a kind of crust or shell of many ice particles joined together. This crust can become quite thick and heavy without causing the cloud to fall, because the entire rest of the cloud supports it.
+Fog forms only when the cold air and the abundance of vapors coincide.
 
+ <!-- does not always form around us either; not in winter, even though the air is cold enough; nor in summer, even though vapors are abundant; but .  -->
 
+This often happens in the evening or at night after a warm day, especially in spring more than other seasons, and even more than in autumn. **This is because the temperature difference between day and night is greater.** 
 
+Fog forms more often in marshy or coastal areas than in places far from water or on water far from land. This is because water cools faster than land, chilling the air, which condenses the vapors produced abundantly by warm, moist land.
 
+The largest fogs, like clouds, form where the course of two or more winds ends. 
 
+These winds drive many vapors to these locations, where they thicken into fog if the air near the ground is very cold or into clouds if it is only cold enough to condense them higher up. Note that the water droplets or ice particles that make up fog must be very small; if they were even slightly larger, their weight would quickly cause them to fall to the ground, so we would not call it fog but rain or snow.
 
+There can never be any wind where fog forms, as it would quickly disperse it, especially when composed of water droplets. Even the slightest air movement causes these droplets to join and grow larger, eventually falling as rain or dew.
 

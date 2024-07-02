@@ -12,24 +12,36 @@ icon: "/icons/descartes.png"
 
 
 
-### {{< s v="19" >}} This confirms what was said of Rarefaction.
+### 19. This confirms what was said of Rarefaction.
 
 The nature of corporeal substance consists only in its being an extended thing.
 
-Its extension is not different from that which we attribute to space, however empty.
+Its extension is the same as space, however empty.
 
-It is impossibile for any one of its parts in any way to occupy more space at one time than at another, and thus of being otherwise rarefied than in the way explained above.
+It is impossibile for any of its parts to occupy more space at one time than at another.
 
-There cannot be more matter or body in a vessel when it is filled with lead or gold, or any other body however heavy and hard, than when it but contains air and is supposed to be empty. For the quantity of the parts of which a body is composed does not depend on their weight or hardness, but only on the extension, which is always equal in the same vase.
+<!-- , and thus of being otherwise rarefied than in the way explained above. -->
+
+A vessel filled with gold has the same amount of matter when it is empty and filled with air. 
+
+<!-- There cannot be more matter in a vessel when it is filled with lead or gold, or any other body however heavy and hard, than when it but contains air and is supposed to be empty. -->
+
+This is because the quantity of particles that a body is composed of does not depend on their weight or hardness. 
+
+**It only depends on the body's extension, which is always equal in the same vase.**
 
 
-### {{< s v="20" >}} From this, the non-existence of indivisible atoms may be demonstrated
+### 20. From this, the non-existence of indivisible atoms may be demonstrated
 
-This means that there cannot exist any atoms or parts of matter that are of their own nature indivisible. 
+This means that there cannot exist any atoms or matter particles that are of their own nature indivisible. 
 
-For however small we suppose these parts to be, yet because they are necessarily extended, we are always able in thought to divide any one of them into two or more smaller parts, and may accordingly admit their divisibility. 
+This is because those particles are necessarily extended. This allows us to divide them into smaller parts in our thought.
 
-For there is nothing we can divide in thought which we do not thereby recognize to be divisible; and, therefore, were we to judge it indivisible our judgment would not be in harmony with the knowledge we have of the thing.
+<!-- , and may accordingly admit their divisibility.  -->
+
+Anything that we can divide **in thought** is thereby divisible.
+
+Therefore, if we judged it to be indivisible, then our judgment would not be in harmony with our **knowledge** of the thing.
 
 We suppose that God had reduced any particle of matter to extreme smallness that it did not admit of being further divided.
 - But it should not be called 'indivisible'
@@ -41,7 +53,7 @@ We suppose that God had reduced any particle of matter to extreme smallness that
 
 
 
-{{< s v="21" >}} The extension of the world is indefinite
+### 21. The extension of the world is indefinite
 
 This world or the whole (universitas) of corporeal substance, is extended without limit.
 
