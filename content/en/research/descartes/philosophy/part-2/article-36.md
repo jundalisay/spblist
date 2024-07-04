@@ -13,7 +13,26 @@ aliases:
 ---
 
 
-### 36. God is the primary cause of motion, and always preserves the same quantity of motion in the universe.
+### 36. There are 2 causes of motion:
+
+1. A universal and primary cause that is the general cause of all motions in the world
+
+2. A particular cause, by which individual parts of matter acquire motions they did not have before. 
+
+The universal and primary cause is God Himself. He created matter together with motion and rest in the beginning. Through His ordinary concurrence alone, maintains as much motion and rest in it as He initially placed. 
+
+Motion is merely in the body moved, than in its modification. 
+
+But it nevertheless has a determinate quantity which remains the same in the entire universe, evem if it changes in its individual parts.
+
+For instance, if we think that one part of matter moves twice as fast as another, and this latter part is twice as large as the former, there is as much motion in the smaller part as in the larger, and as the motion of one part becomes slower, the motion of another part equal to it becomes faster. 
+
+We also understand that there is perfection in God, not only because He is immutable in Himself, but also because He operates in the most constant and immutable manner: so that, except for those changes which evident experience or divine revelation makes certain, and which we perceive or believe to occur without any change in the Creator, we should not suppose any other changes in His works, lest any inconstancy be attributed to Him.
+
+Hence, it follows that it is most consistent with reason to think that, from the fact alone that God moved the parts of matter in different ways when He first created them, and now preserves all this matter in precisely the same manner and by the same reasoning as He first created it, He also always maintains the same amount of motion in it.
+
+
+<!-- ### 36. God is the primary cause of motion, and always preserves the same quantity of motion in the universe.
 
 Nature’s primary motive force or cause for introducing motion into matter is its inherent propensity for avoiding mutual contact*.  
 
@@ -24,17 +43,62 @@ It is the same reason why all bodies strive to recede from each other as much as
 
 If there were even the slightest contact between bodies, motion would instantly cease, and everything would remain at complete rest.
 
-Imagine 2 iron balls, A and B, suspended freely in a vacuum and equidistant from each other. 
+Imagine 2 iron balls, `A` and `B`, suspended freely in a vacuum and equidistant from each other. 
 
 There is nothing to impede them and so these spheres will recede infinitely far from each other in a straight line if impelled by an initial, equally strong force. 
 
 This mutual recession will continue as long as there is no external obstacle to hinder it.
 
-Suppose a third iron ball, C, is placed between A and B, also equidistant from each other. 
+Suppose a third iron ball, `C`, is placed between `A` and `B`, also equidistant from each other. 
 
-Ball C will be driven away from each of the larger spheres A and B with equal force due to its inherent propensity to avoid contact. 
+Ball `C` will be driven away from each of the larger spheres `A` and `B` with equal force due to its inherent propensity to avoid contact.
 
-The result will be a motion along a straight line, as depicted in the following diagram.
+The result will be a motion along a straight line, as depicted in the following diagram. -->
+
+
+
+### 37. The First Law of Nature: Each Thing Always Perseveres in the Same State As Much As It Can. Thus, What Is Once Moved Always Continues to Be Moved.
+
+Certain laws of nature can be known from this same immutability of God.
+
+Such laws are the secondary and particular causes of the motions in individual bodies. 
+
+1. Each thing, insofar as it is simple and undivided, remains as much as it can always in the same state. It is never changed except by external causes. 
+
+Thus, if some part of matter is square, we easily persuade ourselves that it will remain perpetually square unless something else comes along to change its shape. 
+
+If it is at rest, it will not move unless driven by some cause to do so.
+
+If it is moving, then it will keep on moving of its own accord. It will not stop while it is not impeded by any other cause.
+
+Therefore, what is in motion continues to move as much as it can.
+
+Here on earth, all motions near it are soon stopped, often by causes that are hidden from our senses.
+
+This makes us believe that those motions which were thus stopped by unknown causes were stopped by their own accord. 
+
+We are inclined to think this of all motions -- that they stop by their nature or tend toward rest. 
+
+But this is very contrary to the laws of nature. This is because rest is contrary to motion. Nothing can naturally tend toward its contrary.
+ <!-- or toward its own destruction. -->
+
+
+### 38. The Motion of Projectiles
+
+Everyday experience with projectiles entirely confirms this First Law. 
+
+Projectiles continue in motion for some time after they have left the throwing hand because they continue to move until they are slowed by opposing bodies.
+
+They are usually gradually slowed by the air or any other fluid bodies where they move in. 
+
+Therefore, their motion cannot last long. 
+
+We can directly experience the air resisting the motions of other bodies by striking it with a fan.
+
+The same is confirmed by the flight of birds.
+
+Air is the only liquid that most evidently resists the motions of projectiles.
+
 
 
 ### 37. The first law of nature is that each thing, as far as it is in itself, always continues in the same state, so that which itself is moved, will always continue to be moved.

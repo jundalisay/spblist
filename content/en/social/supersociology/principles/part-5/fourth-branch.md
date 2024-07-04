@@ -9,6 +9,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spss.png
+aliases:
+  /social/supersociology/principles/part-5/fourth-branch
 ---
 
 

@@ -47,7 +47,7 @@ Philosophers have fabricated any number of other motions.
 
  <!-- because we admit nothing but what we clearly and distinctly conceive, and because -->
 
-However, we do not clearly understand extension to be capable of any motion except local motion. 
+However, extension [metaphysical space] is only capable of local motion. 
 
  <!-- nor does any other motion even come within the scope of our imagination,  -->
 
@@ -63,11 +63,11 @@ He was stopped by one of Zeno's students whom he rebuked, saying: Why have you r
 
 People could be deceived by Zeno's arguments into thinking that the senses reveal to us motion that is totally opposed to the intellect. 
 
-This results in the mind being deceived about those things that it perceives clearly and distinctly with the aid of the intellect. 
+This results in the mind being deceived about those things that it perceives clearly and distinctly with the aid of the intellect.
 
 To prevent this, I explain Zeno's principal arguments, showing that they are based on false prejudices because he had no true conception of matter.
 
-He says that if local motion were granted, the motion of a body moving with a circular motion at the highest speed would be no different from a state of rest. 
+He says that if local motion were granted, the motion of a body moving with a circular motion at the highest speed would be no different from a state of rest.
 
 But the latter is absurd. Therefore so is the former. 
 
@@ -75,7 +75,10 @@ He proves the consequence as follows:
 - A body whose every point remains constantly in the same place is at rest. 
 - But all the points of a body moving with a circular motion at the highest speed remain constantly in the same place.
 
-He gives the example of a wheel ABC.
+He gives the example of a wheel `ABC`.
+
+{{< img src="/graphics/physics/wheelspinoza.jpg" alt="Zeno's wheel" >}}
+
 
 If the wheel were to move about its center at a certain speed, point A would complete a circle through B and C more quickly than if it were to move at a slower speed. 
 

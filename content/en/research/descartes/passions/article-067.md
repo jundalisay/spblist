@@ -46,34 +46,98 @@ This is because it does not have good or evil as its object, but only knowledge 
 
 ### 72. The force of Admiration is made up of what?
 
-Which does not prevent it from having much strength, because of the surprise, that is to say, the sudden and unexpected arrival of the impression that changes the movement of the spirits; which surprise is proper and peculiar to this passion: so that when it occurs in others, as it commonly does in almost all, and increases them, it is because admiration is joined with them. And its strength depends on two things, namely novelty, and that the movement it causes has its full strength from the beginning. For it is certain that such a movement has more effect than those which, being weak at first, and growing only gradually, can easily be diverted. It is also certain that the objects of the senses which are new touch the brain in certain parts to which it is not accustomed to be touched, and that these parts, being softer or less firm than those which frequent agitation has hardened, increase the effect of the movements they excite there. This will not be found incredible, if one considers that it is a similar reason which causes that the soles of our feet, being accustomed to a rather rough touch by the weight of the body they bear, we hardly feel this touch when we walk; whereas another much smaller and softer touch, with which they are tickled, is almost unbearable to us, only because it is not usual.
+Admiration can have great strength due to surprise through the sudden and unexpected arrival of the impression that changes the movement of the spirits.
 
-ARTICLE LXXIII.
-What is Astonishment.
+Surprise is proper and peculiar to Admiration. 
 
-And this surprise has so much power to cause that the spirits, which are in the cavities of the brain, take their course towards the place where is the impression of the object that is admired, that it sometimes pushes them all there, and makes them so occupied in preserving this impression, that none of them pass from there into the muscles, nor even turn in any way from the first traces they have followed in the brain; which causes the whole body to remain immobile like a statue, and that one can only perceive of the object the first aspect that presented itself, nor consequently acquire a more particular knowledge of it. This is commonly called being astonished; and Astonishment is an excess of admiration, which can never be other than bad.
+This is because surprise increases the movement of the spirits. 
 
-ARTICLE LXXIV.
-For what all passions are useful, and
-how they harm.
+<!-- passion: so that when it is met in others, as it is accustomed to meet in almost all, and to increase them, it is because admiration is joined with them.  -->
 
-Now it is easy to know from what has been said above, that the usefulness of all passions consists only in strengthening and making last in the soul thoughts which it is good that it preserves, and which could easily without that be erased. As also all the harm they can cause consists in their strengthening and preserving these thoughts more than is necessary, or in their strengthening and preserving others to which it is not good to remain fixed.
+The strength of Admiration depends on 2 things:
 
-ARTICLE LXXV.
-For what Admiration is particularly useful.
+1. Novelty
 
-And one can say particularly of Admiration, that it is useful in that it makes us learn and retain in our memory things that we had previously ignored. For we only admire what appears rare and extraordinary to us; and nothing can appear to us such because we have ignored it, or even also because it is different from the things we have known: for it is this difference that makes it called extraordinary. Now although a thing unknown to us presents itself anew to our understanding or our senses, we do not retain it in our memory for that reason, unless the idea we have of it is strengthened in our brain by some passion, or also by the application of our understanding, which our will determines to a particular attention and reflection. And the other passions can serve to make us notice things that appear good or bad: but we have only admiration for those that appear only rare. Also we see that those who have no natural inclination to this passion are usually very ignorant.
+2. The initial movement
 
-ARTICLE LXXVI.
-In what it can harm: And how one can
-make up for its lack and
-correct its excess.
+This is because the movement that it causes has all its strength from its beginning.
 
-But it happens much more often that one admires too much, and is astonished by perceiving things that deserve little or no consideration, than that one admires too little. And this can entirely remove or pervert the use of reason. Therefore, although it is good to be born with some inclination to this passion, because it disposes us to the acquisition of knowledge, we must nevertheless try afterwards to rid ourselves of it as much as possible. For it is easy to make up for its lack by a particular reflection and attention, to which our will can always compel our understanding, when we judge that the thing that presents itself is worth it. But there is no other remedy to prevent admiring excessively than to acquire knowledge of many things, and to exercise oneself in considering all those that may seem the rarest and strangest.
+Such a movement has more effect than those which are weak at first then grow gradually and can easily be turned away.
 
-ARTICLE LXXVII.
-That neither the most stupid, nor
-the most skilled, are those who are the most
-inclined to Admiration.
+New sensory perceptions touch the brain in certain parts which are not used to being touched.
 
-Although it remains true that only those who are dull and stupid are not naturally inclined to Admiration, this does not mean that those who have the most wit are always the most inclined to it; but it is principally those who, although they have a fairly good common sense, do not however have a great opinion of their sufficiency.
+These parts are softer, or less firm, than those which have been hardened by a frequent agitation.
+
+This increases the effect of the movements which they excite there.
+
+<!-- What will not be found incredible, if we consider that it is the same reason that makes  -->
+
+This is the same reason why we do not often notice the large and rough touch from the soles of our feet carrying our body. 
+
+<!-- are used to a fairly rough touch caused by the weight our body. 
+
+This is why we feel only very little of this touch when we walk. -->
+
+Whereas a much smaller and softer touch, such as tickling, is almost unbearable to us because it is not ordinary to us.
+
+
+<!-- Which does not prevent it from having much strength, because of the surprise, that is to say, the sudden and unexpected arrival of the impression that changes the movement of the spirits; which surprise is proper and peculiar to this passion: so that when it occurs in others, as it commonly does in almost all, and increases them, it is because admiration is joined with them. And its strength depends on two things, namely novelty, and that the movement it causes has its full strength from the beginning. For it is certain that such a movement has more effect than those which, being weak at first, and growing only gradually, can easily be diverted. It is also certain that the objects of the senses which are new touch the brain in certain parts to which it is not accustomed to be touched, and that these parts, being softer or less firm than those which frequent agitation has hardened, increase the effect of the movements they excite there. This will not be found incredible, if one considers that it is a similar reason which causes that the soles of our feet, being accustomed to a rather rough touch by the weight of the body they bear, we hardly feel this touch when we walk; whereas another much smaller and softer touch, with which they are tickled, is almost unbearable to us, only because it is not usual. -->
+
+
+### 73. What is Astonishment?
+
+This surprise has so much power to cause the spirits, which are in the cavities of the brain, to go towards where the impression of the admired object is located. 
+
+Sometimes, this surprise pushes all the spirits there, and makes them so occupied in preserving this impression, that none of them pass from there into the muscles, nor even turn from the first traces they have followed in the brain.
+
+This causes:
+- the whole body to remain immobile like a statue
+- one to only perceive of the admired object when it was first perceived and not consequently acquire a more particular knowledge of it
+
+This is called astonishment. 
+
+It is an excess of admiration, which can never be other than bad.
+
+
+### 74. For what all passions are useful, and how they harm.
+
+The usefulness of all the passions is only that they strengthen and preserve the good thoughts in the soul. Without such passions, those thoughts would have been easily erased. 
+
+Their only harm is that they strengthen and preserve the thoughts more than is necessary. They preserve and strengthen those that should not be retained. 
+
+
+### 75. Admiration is useful or what?
+
+Admiration is useful in making us learn and retain in our memory things that we had previously ignored. 
+
+We only admire what appears rare and extraordinary to us.
+
+Nothing can appear to us such because we have ignored it, or even also because it is different from the things we have known: for it is this difference that makes it called extraordinary. 
+
+Although a thing unknown to us presents itself anew to our understanding or our senses, we do not retain it in our memory for that reason, unless the idea we have of it is strengthened in our brain by some passion, or also by the application of our understanding, which our will determines to a particular attention and reflection.
+
+The other passions can serve to make us notice things that appear good or bad: but we have only admiration for those that appear only rare. Also we see that those who have no natural inclination to this passion are usually very ignorant.
+
+
+### 76. In what it can harm: And how one can make up for its lack and correct its excess.
+
+But we often admire too much. We are astonished by perceiving things that deserve little or no consideration.
+
+<!-- , than that one admires too little. And  -->
+
+This can entirely remove or pervert the use of reason.
+
+Therefore, although it is good to be born with some inclination to this passion, because it disposes us to the acquisition of knowledge, we must nevertheless try afterwards to rid ourselves of it as much as possible. 
+
+For it is easy to make up for its lack by a particular reflection and attention, to which our will can always compel our understanding, when we judge that the thing that presents itself is worth it. 
+
+But there is no other remedy to prevent admiring excessively than to acquire knowledge of many things, and to exercise oneself in considering all those that may seem the rarest and strangest.
+
+
+### 77. That neither the most stupid, nor the most skilled, are those who are the most inclined to Admiration.
+
+Only those who are dull and stupid are not naturally inclined to Admiration.
+
+But this does not mean that those who have the most wit are always the most inclined to it.
+
+The most inclined to Admiration are those have a fairly good common sense but do not have a great opinion of their sufficiency.

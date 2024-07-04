@@ -23,8 +23,6 @@ Supereconomics and its sister science called Material Superphysics will work tog
 
 The first is done through a points-based system that can accept money or barter.
 
-
-
 Jeff Bezos recently announced his vision of moving polluting industries to the moon in order to save the Earth, using his reusable rockets. His logic is that the gravity in the moon is 1/6 of that of the Earth and so moon-based industries will require less energy. 
 
 It's surprising that no one has pointed out to him that his rockets emit pollution and CO2. It would take so many polluting rocket launches to move heavy industries to the moon. In such a case, the quest to save the Earth would fry the planet faster had no such plan been implemented. 
@@ -41,8 +39,7 @@ Instead of rockets, Superphysics, via [Material Superphysics](/material), advoca
 
 {{< q a="Socrates" >}}
 Three-dimensional solid geometry should have naturally followed two-dimensional geometry. But three-dimensional solid geometry is in such a ludicrous state. It made me pass over it, and go on to astronomy as the motion of solids.
-
-<cite>The Simple Republic by Plato</cite>
+<cite>The Republic by Plato Simplified</cite>
 {{< /q >}}
 
 

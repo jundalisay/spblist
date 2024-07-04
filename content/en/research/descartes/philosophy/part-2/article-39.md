@@ -14,23 +14,29 @@ aliases:
 ---
 
 
-### 39. The Second law of nature: Every motion be straight of itself, and that ideas which move in a circular manner should always tend to recede from the center of the circle which they describe.
+### 39. The Second law of nature: Every motion in itself is straight. Things which move in a circular manner  always tend to move away from the center of the circle which they describe.
 
-The Second Law of nature is this: that each separate part of matter tends not at all to move along any oblique lines, but only along straight ones.
 
-Although many parts are often compelled to deviate on account of the collision with others, and, as was said a little while ago, in every motion, as it were, a circle is somehow described by all the matter moved together.
+The second law of nature is: each particle of matter, considered separately, moves only along straight lines.
 
-The reason of this rule is the same as that of the preceding one, namely, the immutability and simplicity of the operation by which God conserves motion in matter. 
+Many are often forced to deflect due to encounters with others.
 
-He does not conserve it unless just such as it is at the very moment when He conserves it, without regard to what it may have been a little while before. 
+All the matter moving together forms a circular pattern. 
 
-Although no motion takes place in an instant, yet it is manifest that everything which is moved, in each instant that can be designated while it is being moved, is determined to continue its motion toward some part along a straight line, but never along any curved line. 
+This has the same cause as the First Law -- the immutability and simplicity of how God preserves motion in matter.
+
+He preserves it precisely every time, without any consideration of what it might have been earlier.
+
+No motion happens in an instant. Yet everything which is moved, in each instant while it is being moved, continues its motion in a straight line, never along a curved line. 
+
+<!-- For example, the stone A, rotated in the sling EA through the circle ABF, at the instant when it is at point A, is indeed determined to move towards some part, namely according to the straight line towards C, so that the straight line AC is the tangent of the circle. However, it cannot be imagined to be determined towards any curved motion: for although it previously came from L to A through a curved line, nothing of that curvature can be understood to remain in it while it is at point A. And this is also confirmed by experience, because if it then exits the sling, it does not continue to move towards B, but towards C. From this it follows that any body which moves in a circular manner perpetually tends to move away from the center of the circle it describes. As we experience with our very senses in the case of a stone, while we whirl it around in a sling. And because this consideration will often be used in what follows, it will be diligently noted and more fully explained below." -->
+
+
+For example, let `A` be a stone rotating in the sling `DA` through the circle `ABF`.
 
 {{< img src="/graphics/physics/world-13eee.jpg" alt="Sling" >}}
 
- For example, let A be a stone rotating in the sling DA through the circle ABF.
-
- When it is at the point A, it moves along line towards C, so that the straight line AC is a tangent to the circle. 
+ When it is at the point `A`, it moves along line towards `C`, so that the straight line `AC` is a tangent to the circle. 
 
 <!-- before from L to A -->
 But it cannot be supposed to be determined to any curved motion. Although it came along a curved line, this curvature does not remain in it while it is at the point A. 

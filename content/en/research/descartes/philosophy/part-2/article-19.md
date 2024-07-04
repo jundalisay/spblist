@@ -14,9 +14,9 @@ icon: "/icons/descartes.png"
 
 ### 19. This confirms what was said of Rarefaction.
 
-The nature of corporeal substance consists only in its being an extended thing.
+The nature of corporeal substance consists only in its being an extended [metaphysical] thing.
 
-Its extension is the same as space, however empty.
+Its extension [metaphysical space] is the same as space, however empty.
 
 It is impossibile for any of its parts to occupy more space at one time than at another.
 
@@ -26,7 +26,7 @@ A vessel filled with gold has the same amount of matter when it is empty and fil
 
 <!-- There cannot be more matter in a vessel when it is filled with lead or gold, or any other body however heavy and hard, than when it but contains air and is supposed to be empty. -->
 
-This is because the quantity of particles that a body is composed of does not depend on their weight or hardness. 
+This is because the quantity of particles that a body is composed of does not depend on their weight or hardness.
 
 **It only depends on the body's extension, which is always equal in the same vase.**
 

@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "The Timeline of Economic Thought 1204-2020"
+title: "The Timeline of Western Economic Thought 1204-2020"
 image: /photos/objects/galleon.jpg
 description : "The widespread use of standardized money, from the rise of peace and order, led to mercantilism and, later, capitalism"
 weight: 16

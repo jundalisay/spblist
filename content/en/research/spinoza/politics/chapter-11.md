@@ -40,13 +40,20 @@ In democracies, it is not the best men who are appointed to govern, but those wh
 
 Yet if we reflect on what happens in practice, or on human nature in general, the result will be the same. 
 
-In both cases, for patricians will always think those are the best men who are wealthy, or near akin to themselves, or close friends. 
+In both cases, patricians will always think the best men are:
+- the wealthy, or 
+- near akin to themselves,
+- close friends. 
 
-If patricians were of such a nature that in choosing their colleagues they could free themselves from all bias and be guided only by zeal for the pubic good, there would be no state to compare with aristocracy. 
+Patricians would choose their colleagues so that they could:
+- free themselves from all bias
+- be guided only by zeal for the public good
 
-But experience has abundantly taught us that the very opposite is the case, especially with oligarchies where the will of the patricians, in the absence of rivals, is quite unrestrained by law. 
+Then such a democracy would be comparable to an aristocracy. 
 
-In that situation, the patricians take care to debar the best men from the council and to seek as colleagues men who are subservient to them, with the result that conditions in such states are far worse because election to the patriciate depends on the absolute free choice, unrestricted by any law, of a few men.
+But the very opposite is the case, especially with oligarchies where the will of the patricians is quite unrestrained by law because of the absence of rivals. 
+
+In that situation, the patricians debar the best men from the council and seek as colleagues men who are subservient to them. Such states become far worse because the elections to the patriciate depend on the absolute free choice of a few men unrestricted by any law.
 
 <!--  But I return to
 my theme. -->

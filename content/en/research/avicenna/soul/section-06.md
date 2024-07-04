@@ -18,27 +18,32 @@ Philosophers have differed on how we see.
 
  <!-- the question of How they perceive.  -->
 
-In the Timaeus, Plato asserts that they perceive wholly and solely through a ray that shoots out beyond the eye. This makes them sense the sensible objects<!--  that are seen -->. 
+In the Timaeus, Plato asserts that they perceive wholly and solely through an [aethereal] ray that shoots out beyond the eye. This makes them sense the sensible objects*<!--  that are seen -->. 
 
-Others assert that the perceiving power itself encounters the sensible objects that are seen, and so perceives them. 
+
+<!-- > *Superphysics Note: This is the aether as a substance of perception -->
+
+
+Others assert that the perceiving power itself encounters the sensible objects that are seen, and so perceives them.
 
 Aristotle says that visual perception is caused by the intervening transparent body becoming effectively transparent by the light shining on it. 
 
-This leads to an impression of the outspread (flattened) individual of such seen objects into the crystalline[14] lens of the eye. This is similar to a pictorial impression as is effected in mirrors. 
+This leads to a flattened impression of such seen objects into the crystalline lens of the eye. This is similar to a pictorial impression as is effected in mirrors. 
 
 <!-- indeed the two effects are so similar that were mirrors possessed of a seeing power they would perceive the form imprinted in them. This is Aristotle’s way;  -->
 
 <!-- it is the sound reliable[Pg 52] opinion.  -->
 
-Aristotle is correct and Plato’s view is false*. If a ray goes out from the seat of sight and encounters sensible objects, then sight would not need light. It would:
-- be able to perceive in the dark
-- light up the air on its exit into the dark
+Aristotle is correct and Plato’s view is false*. 
 
-> *Superphysics note: Plato's 'ray' is merely the aethereal willpower of the soul to want to perceive such objects. An example is curiosity.  
+If a[n aethereal] ray goes out from the eyes and encounters sensible objects, then sight would not need light. It would be able to perceive in the dark.
+<!-- - light up the air on its exit into the dark -->
+
+> *Superphysics note: Plato's 'ray' is merely the aethereal willpower of the soul to want to perceive such objects. A less-physical example is curiosity.  
 
 
 
-Such a ray will not fail of 1 of 2 modes. Either it will: 
+Such a[n aethereal] ray will not fail of 1 of 2 modes. Either it will: 
 
 1. Subsist throughout the eye only
 
@@ -46,41 +51,49 @@ In this case, Plato’s opinion that it goes forth from the eye is wrong
 
 2. Subsist throughout a body other than the material of which the eye is composed
 
-It must have a vehicle to carry it, seeing that a ray is an accidental quality or mode, and furthermore seeing that that body which is other than the eye will not fail, in its turn, of being, either, 
-- sent out from the eye
-  - In this case, it will follow as a matter of course that the eye will not see all that is beneath the clear blue of the sky, since one body will not penetrate throughout the whole of another body, unless forsooth it moves the latter away and occupies its place;
+It must have a vehicle to carry it. A[n aethereal] ray is an accidental quality or mode. A body seen by the eye is:
 
-Even should the disputer plead a vacuum, not only does 
+1. Sent out from the eye
 
-Plato denies the existence of a vacuum utterly.
+In this case, it will follow that the eye will not see all that is beneath the clear blue of the sky, since one body will not penetrate throughout the whole of another body, unless forsooth it moves the latter away and occupies its place.
 
-If a vacuum existed, then the body that goes forth from the eye will penetrate throughout the body of water and into the empty pores, and not into the whole of the water’s bulk;
+The disputer pleads a vacuum. But Plato denies the existence of a vacuum utterly.
 
- so that even according to this opinion it will necessarily so be that the eye will see only some places of all that is under water;—or else, 
+If a vacuum existed, then the body that goes forth from the eye will penetrate throughout the body of water and into the empty pores, and not into the whole of the water’s bulk.
 
-secondly, that body which is other than the eye will not fail of being an intervening body intermediate between the seer and the seen, in which case the light[I] which comes forth from the eye will subsist through it; 
+According to this opinion, the eye will see only some places of all that is under water.
 
-This opinion too is unsound because every thing is stronger the closer it is to its source, so much the stronger, and in this respect light has not its equal; whence it follows as regards the object seen that, however closely and nearly it approaches to the eye, our perception will then be stronger.
 
-Thus if we do away with the intermediary body, the eye will still perceive the object felt by its sense of sight..
+2. Body which is other than the eye will not fail of being an intervening body intermediate between the seer and the seen, in which case the light[I] which comes forth from the eye will subsist through it.
+
+This opinion too is unsound because every thing is stronger the closer it is to its source -- light has not its equal. The closer the object is to the eye, the stronger our perception of it is.
+
+Thus, if we do away with the intermediary body, the eye will still perceive the object felt by its sense of sight.
 
 Thus, the intermediary which is the vehicle and carrier of light is no longer needed, save accidentally (by chance).
 
-Then too there is no need, in order to see, for an exit of light: this too is a falsehood. Wherefore Plato’s opinion is worthless.
+Then in order to see, there too is no need for an exit of light. But this too is a falsehood. Thus, Plato’s opinion is worthless.
 
-As for such as hold that the perceiver of the thing seen is the imaginative power itself through the imprinting of the form (image) of the sensible object upon it, these render the absent on the same footing as the present, since in the imaginative power there may exist the image of a sensible object, notwithstanding the absence afterwards of the object that had been so felt: at which time however the living being so preserving that image will not be qualified with sight but with imagination and memory. 
+
+Others believe that the perceiver of the thing seen is the imaginative power itself through the imprinting of the object's form (image) on it. 
+
+These render the absent on the same footing as the present because an non-existing object can be imagined.
+
+ <!-- power there may exist the image of a sensible object, notwithstanding the absence afterwards of the object that had been so felt: at which time however the living being so preserving that image will not be qualified with sight but with imagination and memory.  -->
 
 These theorists make a greater blunder. 
 
 They see that they render a thing of Nature’s make and composition wholly idle, useless, and unneeded in the operation of visual perception.
 
-They think that the imaginative power itself meets immediately sensible objects, and thus spares Nature the task of adapting an instrument (organ), to wit the complex eye.
+They think that the imaginative power itself meets immediately sensible objects, and thus spares Nature the task of adapting the complex eye as an instrument (organ).
 
-The correct theory is that the configurations of things stand out in the transparent ambient.
+**The correct theory is that the configurations of things stand out in the transparent ambient.**
 
-—if it be effectively transparent on the shining of a luminant upon it—and hence they do not appear but in a polished body capable of receiving them, such as mirrors and the like; and so too there is in the eye a crystalline lens (or humor) into which the forms (pictures) of things are imprinted, just as their impression into mirrors; 
+—if it be effectively transparent on the shining of a luminant upon it—and hence they do not appear but in a polished body capable of receiving them, such as mirrors and the like; 
 
-The lens or the eye has been fitted with the seeing power that can perceive the forms imprinted on it.
+And so the eye has a crystalline lens (or humor) into which the forms (pictures) of things are imprinted, just as their impression into mirrors.
+
+This lens has the seeing power that can perceive the forms imprinted on it.
 
 The objects of perception belonging to sight are the Colors.
 
@@ -161,9 +174,13 @@ Each one of the 5 senses perceives, through the means of its own rightful percep
 4. motion
 5. rest (quiet)
 
-That sight, touch, and taste perceive them, is evident. As to hearing, it perceives, in accordance (pursuance) with the variety of the number of sounds, the number of the sound-emitting objects; and, through the strength of the sounds, it perceives the size of the two objects that are hitting against each other; and, in accordance with a kind of change and fixedness of the sounds, it perceives motion and rest; and, in accordance with their volume around the sound-emitter, be the latter solid or hollow, it perceives some sorts of shapes. 
+That sight, touch, and taste perceive them, is evident. 
 
-As to smelling, it knows, in accordance with the change of directions whence the odors are emitted and reach it, and through the variety of these odors[Pg 60] in their qualities, it knows I say the number of the things smelt; through the measure of abundance of the smells, the size of such things; through the measure of proximity and distance, changeableness and fixedness, it recognizes their motion and their rest; and, in accordance with the sides on which their odor reaches it from one and the same body, it knows their shape. Still, these discriminations are very weak in this power among mankind, owing to the weakness of the power itself in the human race. [For all this, men have not the keen scent that many other animals have, and therefore such discriminations are in men very weak.]
+As to hearing, it perceives, in accordance (pursuance) with the variety of the number of sounds, the number of the sound-emitting objects; and, through the strength of the sounds, it perceives the size of the two objects that are hitting against each other; and, in accordance with a kind of change and fixedness of the sounds, it perceives motion and rest; and, in accordance with their volume around the sound-emitter, be the latter solid or hollow, it perceives some sorts of shapes. 
+
+As to smelling, it knows, in accordance with the change of directions whence the odors are emitted and reach it, and through the variety of these odors in their qualities, it knows I say the number of the things smelt; through the measure of abundance of the smells, the size of such things; through the measure of proximity and distance, changeableness and fixedness, it recognizes their motion and their rest; 
+
+In accordance with the sides on which their odor reaches it from one and the same body, it knows their shape. Still, these discriminations are very weak in this power among mankind, owing to the weakness of the power itself in the human race. [For all this, men have not the keen scent that many other animals have, and therefore such discriminations are in men very weak.]
 
 
 

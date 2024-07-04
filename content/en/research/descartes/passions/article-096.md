@@ -1,5 +1,5 @@
 ---
-heading: Articles 96-
+heading: Articles 94-105
 title: What are the Passions of the Soul?
 weight: 28
 description: What is Passion in relation to one subject is always Action in another respect.
@@ -9,6 +9,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: /icons/descartes.png
 ---
+
 
 ### 94. What are the movements of the blood and spirits that cause the five preceding passions
 
@@ -44,9 +45,22 @@ Desire agitates the heart more violently than any of the other Passions and prov
 
 ### 102. The movement of blood and spirits in Love
 
-These observations, and many others that would be too long to write down, have led me to conclude that, when the intellect represents an object of Love, the impression that this thought makes in the brain directs the animal spirits through the nerves of the sixth pair to the muscles around the intestines and stomach, in the way required to make the juice of the food, which turns into new blood, pass quickly to the heart without stopping in the liver, and being pushed there with more force than that in other parts of the body, it enters in greater abundance and excites a stronger heat because it is coarser than that which has already been rarefied several times by passing and repassing through the heart.
+These observations, and many others would be too long to write down.
 
-This makes it also send spirits to the brain, whose parts are larger and more agitated than usual; and these spirits strengthen the impression that the first thought of the lovable object made there, obliging the soul to dwell on this thought. 
+These have led me to conclude that when the intellect represents an object of Love, this thought in the brain creates the impression that directs the animal spirits through the nerves of the sixth pair to the muscles around the intestines and stomach.
+
+This makes juice from the food, which then turns into new blood. 
+
+This blood is pushed to the heart with more force than that in other parts of the body, without stopping in the liver.
+
+It enters the heart in greater abundance and excites a stronger heat. This is because it is coarser* than that which has already been rarefied several times by passing and repassing through the heart.
+
+> *Superphysics Note: Because it didn't go through the liver?
+
+
+This makes it also send spirits to the brain, whose parts are larger and more agitated than usual. 
+
+These spirits strengthen the impression that the first thought of the lovable object made there, obliging the soul to dwell on this thought.
 
 This is what constitutes the passion of Love.
 

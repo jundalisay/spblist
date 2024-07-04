@@ -19,12 +19,18 @@ But since there is no good whose privation is not a bad thing, nor any evil cons
 
 It is always the same movement that leads to the pursuit of good, and together to the avoidance of the evil that is contrary to it.
 
-I only note this difference, that the Desire one has when one tends towards some good, is accompanied by Love, and then by Hope and Joy; whereas the same Desire, when one tends to move away from the evil contrary to this good, is accompanied by Hatred, Fear, and Sadness; which causes it to be judged contrary to itself. But if one wants to consider it when it equally relates at the same time to some good to seek it, and to the opposite evil to avoid it, one can very evidently see that it is only one passion that does both.
+I only note this difference, that the Desire one has when one tends towards some good, is accompanied by Love, and then by Hope and Joy; whereas the same Desire, when one tends to move away from the evil contrary to this good, is accompanied by Hatred, Fear, and Sadness; which causes it to be judged contrary to itself.
+
+But if one wants to consider it when it equally relates at the same time to some good to seek it, and to the opposite evil to avoid it, one can very evidently see that it is only one passion that does both.
 
 
 ### 88. What are its various species?
 
-There would be more reason to distinguish Desire into as many different species as there are different objects that one pursues. For example, Curiosity, which is nothing other than a Desire for knowledge, differs greatly from the Desire for glory, and this one from the Desire for vengeance, and so on with others. But it suffices here to know that there are as many as there are species of Love or Hatred; and that the most considerable and strongest are those which arise from Pleasure and Horror.
+There would be more reason to distinguish Desire into as many different species as there are different objects that one pursues. 
+
+For example, Curiosity, which is nothing other than a Desire for knowledge, differs greatly from the Desire for glory, and this one from the Desire for vengeance, and so on with others. 
+
+But it suffices here to know that there are as many as there are species of Love or Hatred; and that the most considerable and strongest are those which arise from Pleasure and Horror.
 
 
 ### 89. What is the Desire that arises from Horror?
@@ -93,6 +99,8 @@ One sees from their definitions, that Joy comes from the opinion that one has of
 
 But it often happens that one feels sad or joyful, without being able to thus distinctly notice the good or the evil which are the causes of it; namely when this good or this evil make their impressions in the brain without the intervention of the soul, sometimes because they belong only to the body, and sometimes also because they belong to the soul, because it does not consider them as good and evil, but under some other form, whose impression is joined with that of good and evil in the brain.
 
+
+
 ### 94. How these passions are excited by goods and evils that concern only the body: and in what consists tickling and pain.
 
 Thus when one is in good health and the weather is clearer than usual, one feels in oneself a cheerfulness that does not come from any function of the understanding, but only from the impressions that the movement of the spirits makes in the brain.
@@ -112,10 +120,20 @@ It is almost the same reason which makes one naturally take pleasure in feeling 
 Pain usually produces Sadness because pain always comes from some action so violent that it harms the nerves; so that being instituted by nature to signify to the soul the damage that the body receives from this action, and its weakness in that it could not resist it, it represents to it both as evils that are always unpleasant, except when they cause some goods that it estimates more than they.
 
 
-### 95. How they can also be excited by goods and evils that the soul does not notice, even though they belong to it. Such as the pleasure taken in risking oneself or in remembering past evils.
+### 95. How they can also be excited by goods and evils that the soul does not notice, even though they belong to it. 
 
-Thus the pleasure that young people often take in undertaking difficult things, and in exposing themselves to dangers, in spite of the inconvenience and sometimes death that they can bring with them, does not come from the knowledge that they have of the goods that one can hope for them, or the evils that one has to fear: for all this is very doubtful and most often contradicted by the experience of similar things. 
+Examples are the pleasure taken in risking oneself or in remembering past evils.
 
-But it comes only from the movement of the spirits, which have the faculty of giving to the soul the impression of such goods and such evils, as one must believe that it has received several times in the same circumstances.
+Young people often get pleasure in:
+- undertaking difficult things
+- exposing themselves to dangers
+
+This is in spite of the inconvenience and the risk of death.
+
+<!-- It does not come from the knowledge that they have of the goods that one can hope for them, or the evils that one has to fear: for all this is very doubtful and most often contradicted by the experience of similar things.  -->
+
+It comes only from the movement of the animal spirits. These can give to the soul the impression of such goods and such evils.
+
+<!-- , as one must believe that it has received several times in the same circumstances. -->
 
 Similarly, when the same young people have done so often as many before or in the same age, the memories of all the past evils that they have suffered will make them more sad and more sensitive than they have already made.
