@@ -52,17 +52,27 @@ This part would require, in a good State of large-scale cultivation carried on b
 
 This culture may, with 5 or 6 billions of advances, be extended in France to more than 60 million acres.
 
-We are not speaking here of small-scale cultivation carried on with oxen, in which more than a million plows would be needed, and about 2,000,000 men to exploit 40 million acres of land, which would yield only two-fifths as much as large-scale cultivation does. 
+We are not speaking here of small-scale cultivation carried on with oxen. Such cultivation needs:
+- more than a million plows
+- about 2,000,000 men to exploit 40 million acres of land
 
-This small-scale cultivation to which the Cultivators are reduced, from lack of riches to make the original advances, is carried on at the expense of the landed property itself, employed to a great extent for the expenses, and by excessive annual expenditures for the subsistence of the multitude of men occupied in this form of cultivation, which absorb almost all the product. 
+This would yield only 2/5 as much as large-scale cultivation does. 
 
-This ungrateful cultivation, which reveals the poverty and the ruin of the Nations where it prevails, has nothing to do with the order of the Table, which is arranged on the basis of half of the employment of a plow, where the annual advances can, in conjunction with the fund of original advances, produce 100%.
+This small-scale cultivation to which the Cultivators are reduced, from lack of riches to make the original advances, is carried on at the great expense of the landed property itself.
+- This expense is for the subsistence of the men employed in this form of cultivation, which absorb almost all the product.
+
+This ungrateful cultivation::
+- reveals the poverty and ruin of the Nations where it prevails.
+- has nothing to do with the order of the Table.
+  - The Table assigns half of the employment of a plow, where the annual advances can, in conjunction with the fund of original advances, produce 100%.
 
 The total original advances required to establish a plow in large-scale cultivation, for the first fund for the purchase of cattle, tools, seed, food, up-keep, wages, etc, in the course of 2 years' work before the first harvest, are estimated at 1,000 livres.
 
 Thus, the total for 333,334 plows is 3,333,340/200 livres. (See the articles Farms, Farmers, Grains, in the Encyclopedie.)
 
-The interest on these advances should amount to at least 10%. This is because the products of agriculture are exposed to ruinous accidents, which in 10 years destroy the value of at least 1 year's crop. 
+**The interest on these advances should amount to at least 10%.** 
+
+This is because the products of agriculture are exposed to ruinous accidents, which in 10 years destroy the value of at least 1 year's crop. 
 
 These advances demand, moreover, much up-keep and renewals. Hence, the total of interest on the original advances for establishing the Husbandmen is 333,322,000 livres.
 
@@ -70,21 +80,32 @@ The meadows, vineyards, ponds, forests, etc. require slight original advances on
 
 The value of these advances may be reduced, including the original expenses for plantings and other work done at the expense of the Proprietors, to 1 billion livres.
 
-But vineyards and gardens require large annual advances, which, taken in connection with those of the other parts, may on the average be included in the total of annual advances set forth above.
+But vineyards and gardens require large annual advances which can be included in the total of annual advances set forth above.
+
+ <!-- which, taken in connection with those of the other parts, may on the average -->
 
 The total annual reproduction in net product, in annual advances with the interest thereon, and' in interest on the original advances, reckoned in conformity with the order of the table, is 2,543,322,000 livres.
 
 The territory of France could produce as much and even much more.
 
-Of this sum of 2,543,322,000 livres, 525 millions constitute half of the reproduction of the annual advances employed in feeding the cattle: leaving (if all taxes go back into circulation, and if they do not encroach upon the advances of the Husbandmen) 2,018,322,000 livres.
+Of this sum of 2,543,322,000 livres:
+- 525 millions constitute half of the reproduction of the annual advances employed in feeding the cattle
+- 2,018,322,000 livres is left if all taxes go back into circulation and if they do not encroach on the advances of the Husbandmen
 
-This makes, FOR THE EXPENDITURE OF MEN, on the average 504,580,500 livres for each million heads of families, or for each head of a family 562 livres, which accidents reduce to about 530 livres. On this footing a State is rich, and men live comfortably there.
+This makes, FOR THE EXPENDITURE OF MEN, on the average:
+- 504,580,500 livres for each million heads of families, or
+- 562 livres for each head of a family
+- 530 livres if reduced by accidents. 
+
+On this footing, a State is rich, and men live comfortably there.
 
 We are speaking of an opulent Nation which possesses a territory and advances which yield annually, and without wasting away, 1 billion 50 millions of net product. 
 
-But all these riches kept up successively by this annual product may be destroyed or lose their value, in the decadence of an agricultural Nation, by the mere wasting away of the productive advances, which may make great headway in a short time as a result of eight principal causes:
+But all these riches kept up successively by this annual product may be destroyed or lose their value, in the decadence of an agricultural Nation through the mere wasting away of the productive advances. This can happen in a short time from 8 principal causes:
 
-1. A bad system of taxation, encroaching upon the advances of the Cultivators. Noli me tangere is the motto of these advances.
+1. A bad system of taxation, encroaching upon the advances of the Cultivators. 
+
+Noli me tangere is the motto of these advances.
 
 2. Increase of taxes through expenses of collection.
 

@@ -11,21 +11,38 @@ icon: /icons/descartes.png
 ---
 
 
-If you consider that the subtle matter in the pores of terrestrial bodies, being more agitated at one time than another—whether by the presence of the sun or some other cause—also agitates more strongly the small parts of these bodies, you will easily understand that it causes those that are small enough and shaped or situated in such a way that they can easily separate from their neighbors, to scatter here and there and rise into the air. 
+The subtle matter in the pores of terrestrial bodies are more agitated at one time than another. This can be caused by the presence of the sun or some other cause.
 
-This does not happen because they have any particular inclination to ascend, or because the sun has any force that attracts them, but simply because they do not find any other place where it is as easy for them to continue their movement. 
+This also agitates the small particles of these bodies more strongly.
 
-This is similar to how dust in a field rises when it is merely pushed and agitated by the feet of a passerby. 
+The small ones or those shaped or situated in a way that makes them easily separable from their neighbors.
 
-Even though the grains of this dust are much larger and heavier than the small parts we are discussing, they still take their course towards the sky. 
+This causes them to scatter here and there and rise into the air. 
 
-One can see that they rise much higher when a large plain is covered with moving people than when it is trodden by just one person. 
+<!-- This does not happen because they have any particular , or because the sun has any force that attracts them, but   -->
 
-This should prevent us from being surprised that the action of the sun raises the small parts of matter that compose vapors and exhalations quite high, since it always extends at the same time over one half of the earth and stays there all day. 
+This is simply because they cannot find any other place to go. 
 
-Note that these small parts that are thus raised into the air by the sun should mostly have the shape I attributed to those of water because there are no others that can be so easily separated from the bodies they are in. 
+It is not because they have an inherent inclination to ascend.
 
-These alone I will specifically call vapors, to distinguish them from others that have more irregular shapes and to which I will restrict the name exhalations, as I know no more appropriate term. However, among the exhalations, I will include those that, having nearly the same shape as the parts of water but being more subtle, compose spirits or life waters because they can easily catch fire. 
+This is similar to how dust in a field rises when it is pushed and agitated by the feet people passing by, making them go up into the air.
+
+<!-- Even though the grains of this dust are much larger and heavier than the small parts we are discussing, they still take their course towards the sky.  -->
+
+More dust rises when more people walk on them. 
+
+<!-- One can see that they rise much higher when a large plain is covered with moving people than when it is trodden by just one person.  -->
+
+The action of the sun raises vapors quite high, since it always extends at the same time over half of the earth and stays there all day.
+
+<!-- the small parts of matter that compose vapors and exhalations  -->
+
+
+These small particles that are thus raised into the air by the sun should mostly have the shape I attributed to those of water because there are no others that can be so easily separated from the bodies they are in. 
+
+These alone I will specifically call vapors, to distinguish them from others that have more irregular shapes and to which I will restrict the name exhalations, as I know no more appropriate term. 
+
+However, among the exhalations, I will include those that, having nearly the same shape as the parts of water but being more subtle, compose spirits or life waters because they can easily catch fire. 
 
 I will exclude those that, being divided into several branches and being so subtle, are only suitable for composing the body of air. 
 

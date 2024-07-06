@@ -30,6 +30,14 @@ The Farmer annually gives the 600 livres employed in agriculture to the Cultivat
 - He gives the Proprietor a revenue of 600 livres.
 - He gets a net product.
 
+<!-- farmer = worker
+cultivator = business
+proprietor = govt  -->
+
+
+
+
+
 The annual advances of 300 livres in sterile expenses are employed for:
 - the capital
 - the expenses of commerce
@@ -79,11 +87,15 @@ The 300 livres of the Proprietor's revenue which were devoted to sterile expendi
 
 This circulation and this reciprocal distribution continues by subdivisions in the same order, down to the last penny of the sums which pass reciprocally from one class of expenditures to the other class of expenditures.
 
-Circulation brings 600 livres to the sterile class, from which it is necessary to deduct 300 livres for the annual advances, leaving 300 livres for wages. These wages are equal to the 300 livres which this class receives from the productive class, and the advances are equal to the 300 livres of revenue which go to this same sterile class.
+Circulation brings 600 livres to the sterile class, from which it is necessary to deduct 300 livres for the annual advances, leaving 300 livres for wages. 
+
+These wages are equal to the 300 livres which this class receives from the productive class, and the advances are equal to the 300 livres of revenue which go to this same sterile class.
 
 The productions of the other class amount to 1200 livres, after deducting taxes, tithes, and interest on the advances of the Husbandman, which will be considered separately, in order to avoid undue complications in analyzing the expenditures.
 
-In the expenditure of the 1200 livres of production, the Proprietor of the revenue buys 300 livres of them. Another 300 livres goes to the sterile class, of which a half, or 150 livres, is consumed for subsistence by this class; the other half, or 150 livres, being taken for foreign commerce, which comes under this same class. 
+In the expenditure of the 1200 livres of production, the Proprietor of the revenue buys 300 livres of them. 
+
+Another 300 livres goes to the sterile class, of which a half, or 150 livres, is consumed for subsistence by this class; the other half, or 150 livres, being taken for foreign commerce, which comes under this same class. 
 
 Finally, 300 livres are consumed in the productive class, by the men who produce them, and 300 livres for feeding and care of the cattle. 
 

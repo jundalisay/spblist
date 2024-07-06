@@ -70,14 +70,18 @@ This domain exists only because of our physical senses, most commonly by our sig
   - An example is the air which lets light and our hands pass through.  
 
 
-{{< q a="Francis-Bacon" c="Nova Organum" >}}
-Humans should learn the difference between the idols of the human mind and the ideas of the divine mind. The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches. 
+<!-- a="Francis-Bacon" c="Nova Organum" Humans should learn the difference between the idols of the human mind and the ideas of the divine mind. The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches. 
 
-Truth and utility, therefore, are here perfectly identical. The effects are more valueable as pledges of truth rather than as practical benefits
-{{< /q >}}
+Truth and utility, therefore, are here perfectly identical. The effects are more valueable as pledges of truth rather than as practical benefits -->
+
 
 
 ### The Metaphysical Domain with Metaphysical Objects, as Ideas
+
+{{< q a="Francis-Bacon" c="The Interpretation of Nature, Chap 13" >}}
+The schools by natural philosophy were meant for the knowledge of the efficients or things concrete; and by
+metaphysics the knowledge of the forms of natures simple.
+{{< /q >}}
 
 This domain exists only because we have abstract minds which have an innate ability to 'house' or have ideas and thoughts.
 
@@ -106,16 +110,13 @@ The solution might finally reflect after we:
 
 At that moment, our minds feel a relief since its effort can end. 
 
-
-
 {{< q a="Aristotle" c="The Metaphysics by Aristotle Simplifed, Book 1, Chapter 1" >}}
-Aĺl men by nature desire to know. An indication of this is the delight we take in our senses which are useful and loved for themselves. The most important is the sense of sight. We prefer seeing over the other senses.  
+Aĺl men by nature desire to know. An indication of this is the delight we take in our senses which are useful and loved for themselves.
 {{< /q >}}
-
+ <!-- The most important is the sense of sight. We prefer seeing over the other senses. -->
 
 
 ### The Metaphysical Domain Versus the Physical Domain
-
 
 The metaphysical domain exists inside our abstract minds and is infinitely larger and richer than physical domain of our senses. 
 
@@ -147,4 +148,4 @@ Inaction leads to nothing. But haste, on the contrary, also makes waste.
 
 Human minds have limited abilities and so our focus must be relevant in order to maximize and concentrate what little we have. For example, as a species, it would be better to focus on solutions to global warming than to think of how to make more money, create a new cryptocurrency, or predict the stock market. The latter ideas are really based on selfish-interest instead of the common-interest.
 
-The next chapter will explain the nature of ideas, which are the main objects in the metaphysical domain. 
+<!-- The next chapter will explain the nature of ideas, which are the main objects in the metaphysical domain.  -->

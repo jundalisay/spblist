@@ -26,9 +26,9 @@ I mean ‘will’ as nothing but the internal impression we feel and are conscio
 - perception of our mind.
 
 Like pride and humility, love and hatred, it is impossible to define ‘will’.
-        ◦ We shall cut off all those complex definitions and distinctions made by philosophers.
-        ◦ We shall instead examine that long disputed question on liberty and necessity.
-            ▪ This occurs so naturally in treating of the will.
+- We shall cut off all those complex definitions and distinctions made by philosophers.
+- We shall instead examine that long disputed question on liberty and necessity.
+  - This occurs so naturally in treating of the will.
 
 The operations of external bodies are necessary.
         ◦ There are no traces of indifference or liberty in:

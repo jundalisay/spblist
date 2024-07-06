@@ -1,5 +1,5 @@
 ---
-heading: Articles 19-26
+heading: Articles 17-26
 title: What is Perception?
 weight: 8
 description: Descartes gives 4 Precepts on Math and Logic
@@ -9,6 +9,29 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: /icons/descartes.png
 ---
+
+
+### 17. The Functions of the Soul
+
+The soul has 2 functions:
+
+1. Actions
+
+These are all our wills. Our will comes directly from our soul and seem to depend only on it.
+
+2. Passions
+
+<!-- After considering all the functions that belong only to the body, it is easy to understand that nothing remains in us that we should attribute to our soul, except our thoughts, which are mainly of two kinds: namely, some are actions of the soul, others are its passions.  -->
+
+These are all the kinds of perceptions or knowledge that are found in us. Often, it is not our soul that makes them as they are, and it always receives them from the things that are represented by them.
+
+
+### 18. The Will
+
+Our wills are of 2 kinds:
+
+1. Some are actions of the soul that end in the soul itself, such as when we want to love God or generally apply our thought to some object that is not material. 
+2. Others are actions that end in our body, such as when, from the mere fact that we have the will to walk, it follows that our legs move and we walk.
 
 
 
@@ -88,8 +111,14 @@ Now, although all our perceptions, both those attributed to objects outside of u
 
 ### 26. Imaginations That Depend Only on the Fortuitous Movement of Spirits Can Be as True Passions as Perceptions That Depend on Nerves
 
-All the same things that the soul perceives through the nerves can also be represented to it by the fortuitous course of the spirits, with the only difference being that the impressions that come into the brain through the nerves are usually more vivid and more distinct than those that the spirits excite there. This made me say in Article 21 that the latter are like the shadow or the painting of the former.
+All the same things that the soul perceives through the nerves can also be represented to it by the fortuitous course of the spirits.
+
+The only difference is that the impressions that enter the brain through the nerves are usually more vivid and more distinct than those that the spirits excite there.
+
+This made me say in Article 21 that the latter are like the shadow or the painting of the former.
 
 Sometimes, this painting is so similar to the thing it represents that one can be deceived about the perceptions that relate to objects outside of us or those that relate to some parts of our body, but one cannot be deceived in the same way about the passions, because they are so close and so internal to our soul that it is impossible for it to feel them without them truly being as it feels them. 
 
-Thus, often when one is asleep, and even sometimes when awake, one imagines certain things so strongly that one thinks one sees them before oneself or feels them in one's body, although they are not there at all: but although one is asleep and dreaming, one cannot feel sad or moved by some other passion without it being very true that the soul has this passion within itself.
+Thus, often when one is asleep, and even sometimes when awake, one imagines certain things so strongly that one thinks one sees them before oneself or feels them in one's body, although they are not there at all.
+
+But although one is asleep and dreaming, one cannot feel sad or moved by some other passion without it being very true that the soul has this passion within itself.

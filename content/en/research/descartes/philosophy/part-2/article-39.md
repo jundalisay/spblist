@@ -39,9 +39,9 @@ For example, let `A` be a stone rotating in the sling `DA` through the circle `A
  When it is at the point `A`, it moves along line towards `C`, so that the straight line `AC` is a tangent to the circle. 
 
 <!-- before from L to A -->
-But it cannot be supposed to be determined to any curved motion. Although it came along a curved line, this curvature does not remain in it while it is at the point A. 
+But it cannot be supposed to be determined to any curved motion. Although it came along a curved line, this curvature does not remain in it while it is at the point `A`. 
 
-This is also confirmed by experience, because if it then leaves the sling, it will not continue to move toward B, but towards C. 
+This is also confirmed by experience, because if it then leaves the sling, it will not continue to move toward `B`, but towards `C`. 
 
 From which it follows that every body which is moved circularly tends perpetually to recede from the center of the circle which it describes. 
 
