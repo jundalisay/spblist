@@ -1749,29 +1749,19 @@ Baba, but without success. Because he had failed to establish a school,
 he was ineligible. He was also an arrogant fellow, with an argumentative 
 nature. 
 
-BABA: Fix your mind at manipura chakra (the navel center). Now 
-raise it step by step. To the anahata chakra (heart center). To the 
-vishuddha chakra (throat center). To the ajina chakra (third eye)... 
-Now, are crude or subtle thoughts coming? 
+BABA: Fix your mind at manipura chakra (the navel center). Now raise it step by step. To the anahata chakra (heart center). To the vishuddha chakra (throat center). To the ajina chakra (third eye)...  Now, are crude or subtle thoughts coming? 
 
-RAM CHANDRA (standing with eyes closed): Only subtle thoughts, 
-Baba. 
+RAM CHANDRA (standing with eyes closed): Only subtle thoughts, Baba. 
 
-BABA: Now, take your mind downward. Vishuddha... anahata... 
-manipura ... svadhistana (genital area)... muladhara (bottom of the 
-spine). How is your thought now? 
+BABA: Now, take your mind downward. Vishuddha... anahata... manipura ... svadhistana (genital area)... muladhara (bottom of the spine). How is your thought now? 
 
 RAM CHANDRA: Baba... material thoughts are coming non-stop. 
 
-BABA: Again take your mind upward ... Wait. What's there at the 
-kidney? 
+BABA: Again take your mind upward ... Wait. What's there at the kidney? 
 
 RAM CHANDRA: I've throat trouble, Baba. 
 
-BABA: No. The cause, the initial cause lies in the kidneys. Due to 
-malfunctioning in the kidneys, toxic air rises up causing complication in 
-the lungs. What's that at the anahata chakra) Did you ever have any 
-violent experience in the area of your chest? 
+BABA: No. The cause, the initial cause lies in the kidneys. Due to malfunctioning in the kidneys, toxic air rises up causing complication in the lungs. What's that at the anahata chakra) Did you ever have any  violent experience in the area of your chest? 
 
 RAM CHANDRA: I received a blow there when I was a student. 
 

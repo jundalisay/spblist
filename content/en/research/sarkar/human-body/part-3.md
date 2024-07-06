@@ -46,7 +46,7 @@ The same condition may occur after a nightmare. If a man dreams that he is being
 ## The Chakras
 
 
-### Múládhára cakra
+### Múládhára Chakra
 
 The central point of this chakra is the mid-point nerve centre of the last vertebra of the spinal column. 
 
@@ -58,7 +58,7 @@ The whole body is balanced on this cakra [plexus]. It has 4 propensities:
 4. Mokśa [spiritual longing]
 
 
-### Svádhiśt́hána cakra
+### Svádhiśt́hána Chakra
 
 This is situated on the spinal cord directly behind the root of the genital organ. It has 6 propensities:
 

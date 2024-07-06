@@ -94,15 +94,40 @@ Below the mańipura cakra there are also many glands and sub-glands. The hormon
 
 They go out of the body, not getting absorbed to any appreciable extent. Through particular yoga-based actions, they can be retained in the body to a great extent. 
 
-In Tantra Shástra, in Avidyá Tantra, this is called stambhana kriyá [a process to stop bodily functions]. Stool, urine, sweat and semen get excreted from the body because the concerned reflexes originate from under the navel. The influence exerted by the nerve cells of the brain controls lower nerve cells down as far as the anáhata cakra. The navel cakra, or mańipura cakra, the svádhiśt́hána cakra and the múládhára cakra are directly linked with the mundane faculties.
+In Tantra Shástra, in Avidyá Tantra, this is called stambhana kriyá [a process to stop bodily functions]. 
+
+Stool, urine, sweat and semen get excreted from the body because the concerned reflexes originate from under the navel.
+
+The influence exerted by the nerve cells of the brain controls lower nerve cells down as far as the anáhata cakra. 
+
+The following are directly linked with the mundane faculties:
+- navel cakra (mańipura)
+- svádhiśt́hána cakra
+- múládhára cakra 
+
 
 This is why, in the sphere of spiritual practices, the mańipura cakra and the one below it are generally not recognized as cakras for repeating the Iśt́a mantra [a personal mantra repeated in meditation]. 
 
-The recognized cakras for japa [repetition of mantra] are the anáhata cakra, vishuddha cakra and ájiṋá cakra and a few other cakras and upacakras of the upper region. The Guru cakra is the highest cakra. The Guru cakra is used as the place of dhyána.
+The recognized cakras for japa [repetition of mantra] are the:
+- anáhata cakra
+- vishuddha cakra
+- ájiṋá cakra
+- a few other cakras and upacakras of the upper region. 
 
-The hormones secreted by various glands and sub-glands are directly connected with the human body and mind. The nerve cells of the brain each regulate a particular kind of sentiment and thought. The glands and sub-glands of the lower regions maintain an organic link with the above-mentioned nerve cells of the brain. Particular courses of thought depend on the secretions of these hormones. 
 
-Then again, while moving along mundane mental paths, the human mind is influenced by many kinds of susceptibilities which are based on mundane activities. Under these circumstances there is a need, on the one hand, for purity of thought, and on the other, for satsauṋga [associating with good people]. The same person who is elevated in the company of good people, gets degenerated in an evil environment. This is a tested truth. 
+The Guru cakra is the highest cakra. The Guru cakra is used as the place of dhyána.
+
+The hormones secreted by various glands and sub-glands are directly connected with the human body and mind.
+
+The nerve cells of the brain each regulate a particular kind of sentiment and thought. 
+
+The glands and sub-glands of the lower regions maintain an organic link with the above-mentioned nerve cells of the brain. Particular courses of thought depend on the secretions of these hormones. 
+
+Then again, while moving along mundane mental paths, the human mind is influenced by many kinds of susceptibilities which are based on mundane activities. 
+
+Under these circumstances there is a need, on the one hand, for purity of thought, and on the other, for satsauṋga [associating with good people]. 
+
+The same person who is elevated in the company of good people, gets degenerated in an evil environment. This is a tested truth. 
 
 So in human life there is as much need of satsauṋga as there is the need to shun evil company. Therefore, it is necessary to look for satsauṋga and avoid asatsauṋga [associating with bad people].
 

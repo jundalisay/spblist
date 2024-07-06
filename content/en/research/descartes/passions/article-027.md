@@ -48,15 +48,17 @@ Additionally, the soul is of a nature that has no relation to extension, dimensi
 As it appears, one cannot conceive of half or a third of a soul, nor what extent it occupies; and the soul does not become smaller when some part of the body is removed, but separates entirely when the assemblage of its organs is dissolved.
 
 
-### 31. There is a Small Gland in the Brain in Which the Soul Exercises Its Functions More Particularly than in Other Parts.
+### 31. The Soul Exercises Its Functions in the Pineal Gland More Particularly than in Other Parts.
 
-Although the soul is joined to the whole body, there is one part in which it exercises its functions more particularly than in all the others. 
+<!-- Although the soul is joined to the whole body, there is one part in which it exercises its functions more particularly than in all the others.  -->
 
-It is commonly believed that this part is the brain, or perhaps the heart; the brain, because it is where the sensory organs are related, and the heart, because it is where passions are felt. 
+<!-- It is commonly believed that this part is the brain, or perhaps the heart; the brain, because it is where the sensory organs are related, and the heart, because it is where passions are felt. 
 
-However, upon careful examination, it seems evident that the part of the body in which the soul immediately exercises its functions is not the heart, nor the entire brain, but only the innermost part, which is a very small gland located in the middle of its substance. 
+However, upon careful examination, it seems evident that the part of the body in which the soul immediately exercises its functions is not the heart, nor the entire brain, but only the innermost part, which is a very small gland located in .  -->
 
-This gland is so suspended above the channel through which the spirits in its anterior cavities communicate with those in the posterior cavities, that the smallest movements in it can greatly change the course of these spirits, and conversely, the smallest changes in the course of the spirits can greatly change the movements of this gland.
+This gland, in the middle of the brain's substance, is suspended above the channel through which the spirits in its anterior cavities communicate with those in the posterior cavities. The smallest movements in it can greatly change the course of these spirits. 
+
+Conversely, the smallest changes in the course of the spirits can greatly change this gland's movements.
 
 
 ### 32. How We Know that This Gland is the Principal Seat of the Soul
@@ -65,7 +67,13 @@ This gland is so suspended above the channel through which the spirits in its an
 
 This is because the other parts of our brain are all double, just as we have two eyes, two hands, two ears, and finally all the organs of our external senses are double. 
 
-And since we have only a single and simple thought of the same thing at the same time, there must necessarily be a place where the two images that come through the two eyes, or the other impressions that come from a single object through the double organs of the other senses, can unite into one before they reach the soul, so that they do not represent two objects instead of one.
+But we have only a single thought of the same thing at the same time.
 
-These images or other impressions unite in this gland through the mediation of the spirits that fill the cavities of the brain; but there is no other place in the body where they can be united in this way except as they are in this gland.
+Then, there must be a place where the two images from the two eyes, or the other impressions from our senses, unite into one before they reach the soul, so that they represent one obect instead of two.
+
+<!-- that come from a single object through the double organs of the other senses, can  -->
+
+These images or other impressions unite in this gland through the mediation of the spirits that fill the cavities of the brain.
+
+There is no other place in the body where they can be united in this way except in this gland.
 

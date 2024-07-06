@@ -113,14 +113,20 @@ But because the machine of our body is so composed that the movement of this han
 
 ### 14. How the Diversity Among the Spirits Can Also Vary Their Course
 
-The other cause that serves to differently direct the animal spirits into the muscles is the unequal agitation of these spirits and the diversity of their parts. 
+<!-- The other cause that serves to differently direct  -->
 
-For when some of their parts are larger and more agitated than others, they pass further in a straight line through the cavities and pores of the brain, and in this way are directed to different muscles than they would be if they had less force.
+The animal spirits enter into the muscles in different ways due to:
+- the unequal agitation of these spirits
+- the diversity of their parts. 
+
+When some of their parts are larger and more agitated than others, they pass further in a straight line through the cavities and pores of the brain, and in this way are directed to different muscles than they would be if they had less force.
 
 
 ### 15. What Causes Their Diversity
 
-This inequality can come from the various materials they are composed of, as seen in those who have drunk a lot of wine: the vapors of this wine quickly entering the blood rise from the heart to the brain, where they convert into spirits, which being stronger and more abundant than usual, are capable of moving the body in several strange ways. 
+This inequality can come from the various materials they are composed of, as seen in those who have drunk a lot of wine.
+
+The vapors of this wine quickly entering the blood rise from the heart to the brain, where they convert into spirits, which being stronger and more abundant than usual, are capable of moving the body in several strange ways.
 
 This inequality of the spirits can also come from the various conditions of the heart, the liver, the stomach, the spleen, and all other parts that contribute to their production.
 
@@ -137,8 +143,14 @@ Finally, this differently than the juice of the food, when it has just left the 
 
 ### 16. How All Members Can Be Moved by the Objects of the Senses and by the Spirits Without the Help of the Soul
 
-All the changes that occur in the movement of the spirits can cause them to open some pores of the brain more than others; and conversely, when any of these pores is somewhat more or less open than usual, by the action of the nerves that serve the senses, it changes something in the movement of the spirits and causes them to be directed into the muscles that serve to move the body, in the way it is ordinarily moved on the occasion of such an action.
+All the changes that occur in the movement of the spirits can cause them to open some pores of the brain more than others.
 
-So that all the movements we make without our will contributing to it (as it often happens that we breathe, walk, eat, and finally do all the actions we share with animals) depend only on the conformation of our members and the course that the spirits, excited by the heat of the heart, naturally follow in the brain, nerves, and muscles. Just as the movement of a clock is produced solely by the force of its spring and the shape of its wheels.
+Conversely, when any of these pores is more or less open than usual, by the action of the nerves that serve the senses, it changes something in the movement of the spirits and causes them to be directed into the muscles that serve to move the body, in the way it is ordinarily moved on the occasion of such an action.
 
+The following actions we do without our will contributing to it:
+- breathe, walk, eat
+- all the actions we share with animals
 
+These actions depend only on the conformation of our members and the course that the spirits, excited by the heat of the heart, naturally follow in the brain, nerves, and muscles. 
+
+Just as the movement of a clock is produced solely by the force of its spring and the shape of its wheels.

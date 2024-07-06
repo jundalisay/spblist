@@ -100,11 +100,21 @@ The food we eat goes down into the stomach and intestines, from where their juic
 
 <!-- Those who have heard even a little about Medicine also know how the heart is composed and how  -->
 
-All the blood from the veins can easily flow from the vena cava into its right side. From there, it passes into the lungs through the pulmonary artery. It then returns from the lungs into the left side of the heart through the the pulmonary vein. Finally it pass from there into the aorta, whose branches spread throughout the body.
+All the blood from the veins can easily flow from the vena cava into its right side.
 
-Even those who have not been completely blinded by the authority of the Ancients and who have opened their eyes to examine Harvey's opinion on the circulation of the blood do not doubt that all the veins and arteries of the body are like streams through which the blood flows continuously very quickly, taking its course from the right cavity of the heart through the pulmonary artery, whose branches are scattered throughout the lungs and joined to those of the pulmonary vein, through which it passes from the lungs into the left side of the heart, then from there it goes into the aorta, whose branches spread throughout the rest of the body are joined to the branches of the vena cava, which again carry the same blood into the right cavity of the heart.
+From there, it passes into the lungs through the pulmonary artery. It then returns from the lungs into the left side of the heart through the the pulmonary vein. 
 
-These two cavities are like locks, through each of which all the blood passes with each turn it makes in the body. 
+Finally, it pass from there into the aorta, whose branches spread throughout the body.
+
+Even those who have not been completely blinded by the authority of the Ancients and who have opened their eyes to examine Harvey's opinion on the circulation of the blood do not doubt that all 
+
+The veins and arteries of the body are like streams through which the blood flows continuously very quickly. 
+
+It starts from the right cavity of the heart through the pulmonary artery, whose branches are scattered throughout the lungs and joined to those of the pulmonary vein, through which it passes from the lungs into the left side of the heart.
+
+From there, it goes into the aorta, whose branches spread throughout the rest of the body are joined to the branches of the vena cava, which again carry the same blood into the right cavity of the heart.
+
+These two cavities are like locks, through each of which all the blood passes with each turn it makes in the body.
 
 All the movements of the limbs depend on the muscles.
 

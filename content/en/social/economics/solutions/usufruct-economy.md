@@ -25,9 +25,9 @@ Strabo says that the northern parts of Spain are ill inhabited because of the gr
 There are 3 main causes of droughts: The wanton destruction of plants or indiscriminate deforestation.. Deforestation prevents the plants from nourishing the earth.. Deforestation is caused by human beings. It is within their power to solve this problem through their own efforts.
 {{< /q >}}
 
-Unlike expensive carbon-capture technologies that require energy, plants capture carbon for free. The main problem is that they occupy a lot of space that could have been used for human use such as for agriculture and residential purpopses.
+Unlike expensive carbon-capture technologies that require energy, plants capture carbon for free. The main problem is that they occupy a lot of space that could have been used by humans for agriculture and residential purposes.
 
-This limits the carrying capacity of the planet. If populations increase, then more forests will be converted to farmland and houses. This then makes climate change worse. The only solution by then would be to move the population underground in the absence of other habitable planets nearby.
+This limits the carrying capacity of the planet. If populations increase, then more forests will be converted into farmland and houses. This then makes climate change worse. The only solution by then would be to move the population underground in the absence of other habitable planets nearby.
 
 We have 3 solutions to this:
 
@@ -42,11 +42,11 @@ Here, we will discuss the Usufruct Economy.
 
 Many academics, institutions, and government agencies have embraced the circular economy which aims to share, lease, reuse, repair, refurbish and recycle existing materials and products as long as possible. 
 
-We upgrade this into a usufruct economy from the Latin "[usus et fructus](https://www.etymonline.com/word/usufruct)" which means use and enjoyment of fruits. Usufruct is a legal right given to a person or party to temporarily use and derive benefit from someone else's property.  
-
-We apply this to the whole economy, for anything above $100, through lease contracts instead of purchase.  
+We upgrade this into a usufruct economy from the Latin "[usus et fructus](https://www.etymonline.com/word/usufruct)" which means use and enjoyment of fruits. Usufruct is a **legal right** given to a person or party to temporarily use and derive benefit from someone else's property.  
 
 {{< img src="/graphics/econ/circular.jpg" alt="Circular Economy" >}}
+
+We apply this to the whole economy, for anything above $100, through lease contracts instead of purchase.  
 
 
 #### For Electronics, Vehicles, and Utility Goods*
@@ -54,20 +54,20 @@ We apply this to the whole economy, for anything above $100, through lease contr
 > *We define utility goods as products that create an essential utility such as heating, cooling, telecoms, transportation
 
 
-For example, a person can lease a "recycled" Android phone for $100 from a shop. After 3 years, he might want to upgrade his phone. So he returns the phone and gets a better one worth $150 by paying $50 into the contract. 
+For example, a person can lease an Android smartphone for $100 from a shop. After 3 years, he might want to upgrade his phone. So he returns the phone and gets a better one worth $150 by paying $50 into the contract. 
+
+{{< img src="/photos/phone.jpg" alt="Phone" >}}
 
 The shop will then return the phone to the manufacturer for recycling. The contract will prevent the lessee from switching brands. 
 
 
 #### For Real Estate
 
-All real property will be leased, whether agricultural, commercial, residential, or industrial. 
-
-This will give the state a more active role in settling disputes in inheritance and ancestral domain, since even ancestral lands will be usufruct to the tribes. 
-
-
+All real property will be leased, whether agricultural, commercial, residential, or industrial. This will give the state a more active role in settling disputes in inheritance and ancestral domain, since even ancestral lands will be usufruct to the tribes. 
 
 In theory, this will allow the government to take over land more easily and conver them back to forests through reforestation or afforestation. 
+
+{{< img src="/photos/city.jpg" alt="Speculative Real Estate" >}}
 
 It will also reduce the tendency of real estate developers to create speculative projects since they will have a limited lease to the land.
 
@@ -86,7 +86,15 @@ Everything is rent
 
 Sale to Lease  -->
 
-## Transitioning from Goods to Usufruct 
+## Moral Effects of Transitioning from Sale to Lease 
 
-The transition circular economy. Instead of rthe mind focusing on material objects, it focuses on what service each person can render and the relative skill that each person has in giving their service. 
+The transition from the circular economy into the usufruct economy will create a change in mindset from permanent personal ownership, into temporary rent or borrowing. This is more in line with Nature where no one lives forever in the physical domain. 
+
+Rather, humans exist in order to achieve or experience something in this life, and then move on to experience other things in the next life. This implies that one's existence is made up of individual life-segments that form a pattern of experiences across lifetimes. 
+
+This impermanence and dynamism is the metaphysical basis of the marginal utility wherein we are never happy doing or experiencing the same thing again and again. Very few people have the same job or role from the time they graduate from university to the time that they retire. We frequently change jobs, and those who have careers often change companies or move to other cities or countries.
+
+The Usufruct Economy is more in line with such a dynamic nature of things.  
+
+<!-- . Instead of rthe mind focusing on material objects, it focuses on what service each person can render and the relative skill that each person has in giving their service.  -->
 
