@@ -23,7 +23,9 @@ This is because there is always blood in the heart that can maintain warmth when
 
 ### 124. Laughter
 
-Laughter consists in the blood, coming from the right cavity of the heart through the pulmonary vein, suddenly inflating the lungs repeatedly. This causes the air they contain to forcefully exit through the windpipe, where it forms an inarticulate and loud sound. 
+Laughter consists in the blood, coming from the right cavity of the heart through the pulmonary vein, suddenly inflating the lungs repeatedly. 
+
+This causes the air they contain to forcefully exit through the windpipe, where it forms an inarticulate and loud sound.
 
 As the lungs swell and this air exits, it pushes all the muscles of the diaphragm, chest, and throat, thereby causing movement in the facial muscles connected to them. 
 
@@ -64,7 +66,7 @@ But when it is natural, it seems to arise from the joy one has in seeing that on
 
 Therefore, joy, hatred, and admiration contribute to it. 
 
-However, I believe it can also be produced without any joy, solely by the movement of aversion, which sends blood from the spleen to the heart, where it is rarefied and pushed into the lung, which it easily inflates when it finds it nearly empty. 
+However, it can also be produced without any joy, solely by the movement of aversion. This sends blood from the spleen to the heart, where it is rarefied and pushed into the lung, which it easily inflates when it finds it nearly empty.
 
 Generally, anything that can suddenly inflate the lung in this manner causes the outward action of laughter, except when sadness changes it to sighs and cries accompanying tears.
 
@@ -73,7 +75,9 @@ Generally, anything that can suddenly inflate the lung in this manner causes the
 
 Just as laughter is never caused by extreme joy, tears do not come from extreme sadness, but only from that which is moderate and accompanied or followed by some feeling of love or even joy. 
 
-To understand their origin, it must be noted that although vapors continually emanate from all parts of our body, none of them exit as much as from the eyes, due to the size of the optic nerves and the multitude of small arteries through which they enter. 
+Vapors continually emanate from all parts of our body. But none of them exit as much as from the eyes, due to:
+- the size of the optic nerves and
+- the multitude of small arteries through which they enter. 
 
 Just as sweat consists only of vapors that, exiting from other parts, convert into water on their surface, tears form from vapors that exit from the eyes.
 
@@ -95,12 +99,14 @@ My work "The Meteors" explained how air vapors transform into rain.
 
 This happens when they are less agitated or more abundant than usual. 
 
-When those leaving the body are much less agitated than usual, although not necessarily more abundant, they still convert into water.
+When those leaving the body are much less agitated than usual. 
 
-This causes cold sweats that sometimes arise from weakness when one is ill. Similarly, when they are much more abundant, provided they are not more agitated, they also convert into water, which causes sweat during exercise. 
+They still convert into water even if they are not necessarily more abundant.
+
+This causes cold sweats that sometimes arise from weakness when one is ill. 
+
+Similarly, when they are much more abundant, provided they are not more agitated, they also convert into water, which causes sweat during exercise. 
 
 However, the eyes do not sweat during exercise because during physical exertion, most of the spirits move towards the muscles used for movement, and less through the optic nerve towards the eyes. 
 
 It is the same substance that composes blood while in veins or arteries, spirits when in the brain, nerves, or muscles, vapors when they exit in the form of air, and finally sweat or tears when they thicken into water on the surface of the body or eyes.
-
-

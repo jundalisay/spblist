@@ -2,7 +2,7 @@
 heading: "Section 5"
 title: "The effect of a magnetic field on the hydrogen spectrum."
 description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
-weight: 8
+weight: 18
 image: "/covers/quantum.jpg"
 contributors: ['Bohr']
 ---
@@ -58,7 +58,7 @@ where:
 - `−e` and `m` are the charge and the mass of an electron.1
 
 
-If the magnetic field is not constant, but if its intensity increases slowly and uniformly from zero, it is further simply shown that the electric induction forces, which will accompany the change in the intensity of the magnetic force, will just effect that a rotation as that described will be impressed on the original motion of the system.2
+If the magnetic field is not constant, but if its intensity increases slowly and uniformly from zero, it is further shown that the electric induction forces, which will accompany the change in the intensity of the magnetic force, will just effect that a rotation as that described will be impressed on the original motion of the system.2
 
 Moreover, as regards the effect of the magnetic field on the total energy of the system,3) the superposed rotation under consideration:
 - will not affect the mutual potential energy of the particles. 
@@ -73,15 +73,23 @@ where:
 Larmor's theorem is in J. Larmor, Aether & Matter, Cambridge 1900, p. 341. 
 - It was created to explain the Zeeman effect based on the ordinary theory of electrodynamics.
 
-It is directly proved by observing that, with the degree of approximation in question, the accellerations of the electrons due to the presence of the magnetic field are equal to the changes in the accellerations of the particles due to the superposed rotation of the system.
+<!-- It is directly proved by observing that, with the degree of approximation in question,  -->
 
-Compare P. Langevin, Ann. de Chim. et de Phys. V, p. 70 (1905), who has deduced this result in connection with his well known theory of the magnetic properties of atomic systems based on the classical theory of electrons.
+The accellerations of the electrons due to the presence of the magnetic field are equal to the changes in the accellerations of the particles due to the superposed rotation of the system.
+
+Compare P. Langevin, Ann. de Chim. et de Phys. V, p. 70 (1905), who has deduced this result with his well known theory of the magnetic properties of atomic systems based on the classical theory of electrons.
 
 Phil. Mag. XXVII, p. 506 (1914) had assumed that the total energy in the stationary states of the hydrogen atom in the presence of a magnetic field would not be different from the energy in the corresponding states without field, as far as small quantities proportional to the intensity of the magnetic force are concerned.
 
 The effect on the kinetic energy of the electron due to the superposed rotation being assumed to be compensated by some kind of “potential” energy of the whole atom relative to the magnetic field.
 
-This assumption seemed not only suggested by the absence of paramagnetism in many elements, the atoms and molecules of which, according to the theory to be discussed in Part 4, must be expected to possess a resultant angular momentum, but it was especially thought to be supported by the fact, that the spectrum, emitted by hydrogen in the presence of a magnetic field, apparently did not form a combination spectrum of the type which should be expected, it the frequency of the radiation, emitted during a transition between two stationary states of the atom in the presence of the field, could be calculated directly from the values of the energy in these states by means of relation (1). 
+This assumption was suggested by the absence of paramagnetism in many elements.
+
+The theory to be discussed in Part 4 expects them to possess a resultant angular momentum.
+
+But it was especially supported by the spectrum (emitted by hydrogen in a magnetic field) not forming the expected spectrum. 
+
+Radiation is emitted during a transition between two stationary states of the atom in the presence of the field. The radiation's frequency could be calculated directly from the values of the energy in these states by means of relation (1).
 
 Debye (Phys. Zeitschr. XVII, p. 511 (1916)) remarked that this view, however, would not be reconcilable with Einstein’s theory of temperature radiation (see Part I, page 8). 
 
@@ -91,9 +99,9 @@ Moreover, the Zeeman effect of the hydrogen lines is not a deviation from the co
 - Instead it gives an instructive example of a systematic disappearance of certain possible combination lines.
 - This can be simply explained by the general formal relation between the quantum theory and the ordinary theory of radiation. 
 
-Further, with reference to this relation—and remembering that 
+<!-- Further, with reference to this relation—and remembering that  -->
 
-On ordinary electrodynamics, the magnetic field will not directly influence the exchange of energy during radiation. This is because the forces due to this field is always perpendicular to the direction of the speed. 
+On ordinary electrodynamics, the magnetic field will not directly influence the exchange of energy during radiation. This is because the forces due to this field is always perpendicular to the direction of the speed.
 
 And so it will not perform work on the moving electron.
 
@@ -106,8 +114,7 @@ We do not care about the absolute values of the additional energy of the system 
 
 The “normal” state of an atom is the stationary state which has the smallest value for the total energy.
 
-We escaoe the problem of the absence of paramagnetism by assuming that only the energy in the normal atomic state  is not altered in
-the presence of a magnetic field, as far as small quantities proportional to the intensity of the magnetic force are concerned. 
+We escaoe the problem of the absence of paramagnetism by assuming that only the energy in the normal atomic state  is not altered in the presence of a magnetic field, as far as small quantities proportional to the intensity of the magnetic force are concerned. 
 
 The absence of paramagnetism would thus be a special property of the normal state. It is connected with the impossibility of spontaneous transitions from this state to other stationary states of the system. 
 

@@ -13,7 +13,9 @@ icon: /icons/descartes.png
 
 ### 138. Their defects and the means of correcting them
 
-But even though this use of passions is the most natural they can have, and all animals without reason lead their lives only through bodily movements, similar to those which customarily follow in us, and to which they incite our soul to consent. 
+<!-- But even though this use of passions is the most natural they can have, and  -->
+
+All animals without reason lead their lives only through bodily movements, similar to those which customarily follow in us, and to which they incite our soul to consent. 
 
 It is not, however, always good, because there are many things harmful to the body which cause no Sadness at the outset, or even give Joy; and others that are beneficial to it, although at first inconvenient. 
 

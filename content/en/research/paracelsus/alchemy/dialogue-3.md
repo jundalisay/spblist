@@ -1,9 +1,9 @@
 ---
 heading: Part 3
-title: "A DIALOGVE BETWEEN MERCURY, the ALCHYMIST and NATURE 3"
-description: "The Origin of Physiognomy"
+title: "The Nature of Mercury"
+description: "The Philosophers said that Nature is to be mixed with Natures. They command nothing to bee done without Nature"
 image: "/covers/alchemy.jpg"
-weight: 202
+weight: 204
 writer:
   name: Paracelsus
   url: https://en.wikipedia.org/wiki/Paracelsus/
@@ -11,7 +11,7 @@ date: 2024-02-24
 ---
 
 
-{{< r a="Mercury" >}}
+<!-- {{< r a="Mercury" >}}
 O my Philosopher, now I wil leave you, for I am not yours. 
 {{< /r >}}
 
@@ -25,10 +25,11 @@ Truly my Philosopher you are a devil to me, not I to you: for you dost deale mos
 
 {{< l a="Alchemist" >}}
 O what do I hear? This certainly is a devill indeed, for I do all things according to the writings of Philosophers, and know very well how to work. 
-{{< /l >}}
+{{< /l >}} -->
+
 
 {{< r a="Mercury" >}}
-You know very well, for you dost more then you knowest, or readst of. The Philosophers said, that Nature is to be mixed with Natures. They command nothing to bee done without Nature; but you dost mix me with almost all the sordidst things that bee, as dung.
+The Philosophers said that Nature is to be mixed with Natures. They command nothing to bee done without Nature. But you dost mix me with almost all the sordidst things that bee, as dung.
 {{< /r >}}
 
 {{< l a="Alchemist" >}}
@@ -209,20 +210,12 @@ How therefore must one deale with you that you maist be so?
 
 {{< r a="Mercury" >}}
 I am fire within, fire is my meat, but the life of the fire is aire, without air the fire is extinguished; the fire prevails over the aire, wherefore I am not at rest, neither can the crude air constringe, or bind me: adde air to aire, that both may be one, and hold weight, join it to warme fire, and give it time. 
+
+The superfluous then shall be taken away, the residue you shalt burn with fire, put it into water, boyl it, after it is boyled you shalt give it to the sick by way of physick. 
 {{< /r >}}
 
 
 {{< l a="Alchemist" >}}
-What shall bee after that?
+I see that you wilt only delude me with Riddles. Wife, bring hither the hogs dung, I will handle that Mercury some new wayes, until he tell me how the Philosophers Stone is to bee made of him. 
 {{< /l >}}
-
-{{< r a="Mercury" >}}
-The superfluous shall be taken away, the residue you shalt burn with fire, put it into water, boyl it, after it is boyled you shalt give it to the sick by way of physick. 
-{{< /r >}}
-
-
-{{< l a="Alchemist" >}}
-You saist nothing to my questions. I see that you wilt only delude me with Riddles. Wife, bring hither the hogs dung, I will handle that Mercury some new wayes, until he tell me how the Philosophers Stone is to bee made of him. 
-{{< /l >}}
-
 

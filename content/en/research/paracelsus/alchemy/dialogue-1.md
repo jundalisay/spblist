@@ -1,7 +1,7 @@
 ---
 heading: Part 1
-title: "A Dialogue Between Mercury, The Alchymist And Nature"
-description: "The Origin of Physiognomy"
+title: "A Dialogue Between The Alchemist And an Old Man"
+description: "Once upon a time, Alchymists gathered together to hold a counsel on how they should make & prepare the Philosophers stone"
 image: "/covers/alchemy.jpg"
 weight: 200
 writer:
@@ -116,4 +116,3 @@ But the Alchymist asked of him, saying:
 {{< l a="Alchemist" >}}
 Sir, expect, &c. 
 {{< /l >}}
-

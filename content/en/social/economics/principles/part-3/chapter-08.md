@@ -2,7 +2,7 @@
 heading: Chapter 8
 title: "The Modern Economic Table"
 date: 2021-06-26
-image: "/graphics/econ/table.jpg"
+image: "/graphics/econ/physiocrats.jpg"
 description: "The Modern Economic Table is our main tool to determine the real price of things"
 writer:
   name: Juan
@@ -118,7 +118,7 @@ This regulation is done through the Economic Table which lists the chain of tran
 
 We then implement this transaction system as a ledger of points-transactions.
 
-![Table](/graphics/econ/table.jpg)
+![Table](/graphics/econ/physiocrats.jpg)
 
 
 In this way, the ledger can show the **real price** of products, commodities, and services relative to grain. This will then relativistically reveal which companies and industries are generating the most wealth for the least expense. 
@@ -140,4 +140,4 @@ This would make taxation much more convenient since it is imposed automatically.
 
 This then would allow an Investment Fund to adjust its rate of return in order to pump up underinvestments and reduce overinvestment.
 
-As you can see, Superphysics has a lot of tools to grow an economy while preventing monopoly, inequality, and poverty that is simply unthinkable in Economics. The next post will explain the last tool, which is the DCTI.
+As you can see, Supereconomics has a lot of tools to grow an economy while preventing monopoly, inequality, and poverty that is simply unthinkable in Economics. The next post will explain the last tool, which is the DCTI.

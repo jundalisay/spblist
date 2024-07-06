@@ -2,7 +2,7 @@
 heading: "Section 6"
 title: "The continuous hydrogen spectrum"
 description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
-weight: 8
+weight: 28
 image: "/covers/quantum.jpg"
 contributors: ['Bohr']
 ---

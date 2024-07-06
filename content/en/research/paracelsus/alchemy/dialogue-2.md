@@ -1,9 +1,9 @@
 ---
 heading: Part 2
-title: "A Dialogue Between Mercury, The Alchymist And Nature 2"
-description: "The Origin of Physiognomy"
+title: "A Dialogue Between Mercury and the Alchemist"
+description: "The poor Alchymist was raised from sleep by noise, yet not without great comfort"
 image: "/covers/alchemy.jpg"
-weight: 200
+weight: 203
 writer:
   name: Paracelsus
   url: https://en.wikipedia.org/wiki/Paracelsus/
@@ -150,7 +150,9 @@ I am Mercury, but there is another, and so he vanished away.
 
 The Alchymist cries out and speaks, but nobody answers him.
 
-Bethinking himself saith: Surely I am an excellent man, Mercury hath been pleased to talke with me, surely he  loves me: and then he began to sublime Mercury, distil, calcine, make Turbith of him, precipitate, and dissolve him divers wayes, and with divers waters, but as he  laboured in vain before, so now also he hath spent his time, and costs to no purpose. Wherefore at last he  begins to curse Mercury, and revile Nature because shee made him.
+Bethinking himself saith: Surely I am an excellent man, Mercury hath been pleased to talke with me, surely he  loves me: and then he began to sublime Mercury, distil, calcine, make Turbith of him, precipitate, and dissolve him divers wayes, and with divers waters, but as he  laboured in vain before, so now also he hath spent his time, and costs to no purpose. 
+
+Wherefore at last he  begins to curse Mercury, and revile Nature because shee made him.
 
 Nature heard these things and called Mercury to her, and said to him: 
 

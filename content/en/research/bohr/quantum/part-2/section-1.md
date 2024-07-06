@@ -1,4 +1,5 @@
 ---
+heading: Section 1
 title: "The simple theory of the series spectrum of hydrogen"
 # description: "The theory in the form given allowed of a detailed discussion only in the case of periodic systems, and obviously was not able to account in detail for the characteristic difference between the hydrogen spectrum and the spectra of other elements"
 image: "/covers/quantum.jpg"
@@ -9,7 +10,7 @@ draft: true
 
 
 The frequencies of the lines of the series spectrum of hydrogen may, if we look apart from the fine
-structure of the single lines revealed by instruments of high dispersive power, be represented by the formula
+structure of the single lines revealed by instruments of high dispersive power, be represented by the formula:
 
 ...
 
@@ -28,32 +29,23 @@ where K is a constant, and n
 0 and n
 00 a set of two entire
 numbers, different for the different lines of the spectrum.
-According to the general principles of the quantum theory
-of line spectra discussed in the first section of Part I, we shall
-therefore expect that this spectrum is emitted by a system
-which possesses a series of stationary states in which the
-numerical value of the energy in the n
-th state, omitting an
-arbitrary constant, with a high degree of approximation is
-given by
+
+According to the general principles of the quantum theory of line spectra discussed in Section 1 of Part 1, this spectrum is emitted by a system which possesses a series of stationary states in which the numerical value of the energy in the n th state, omitting an arbitrary constant, with a high degree of approximation is given by
+
 En =
 Kh
 n2
 , (36)
+
 where h is Planck’s constant which enters in the fundamental relation (1).
-Now according to Rutherford’s theory of atomic structure, a neutral hydrogen atom must be expected to consist
-71
-of an electron and a positive nucleus of a mass very large
-compared with that of the electron, which move under the
-influence of a mutual attraction inversely proportional to
-the square of the distance apart. Assuming that the motion in the stationary states may be determined by ordinary
-mechanics, and neglecting for the moment the small modifications claimed by the theory of relativity, we find that each
-of the particles will describe an elliptical orbit with their
-common centre of gravity at one of the foci, and from the
-well known laws for a Keplerian motion we have that the
-frequency of revolution ω and the major axis 2α of the relative orbit of the particles, quite independent of the degree
-of eccentricity of this orbit, are given by
-ω =
+
+Now according to Rutherford’s theory of atomic structure, a neutral hydrogen atom must be expected to consist of an electron and a positive nucleus of a mass very large compared with that of the electron, which move under the influence of a mutual attraction inversely proportional to the square of the distance apart. 
+
+Assuming that the motion in the stationary states may be determined by ordinary mechanics, and neglecting  the small modifications claimed by the theory of relativity, each of the particles will describe an elliptical orbit with their common centre of gravity at one of the foci.
+
+From the well known laws for a Keplerian motion we have that the frequency of revolution ω and the major axis 2α of the relative orbit of the particles, quite independent of the degree of eccentricity of this orbit, are given by 
+
+<!-- ω =
 r
 2W3
 (M + m)
@@ -64,35 +56,35 @@ r
 Ne2
 W
 , (37)
-where W is the work necessary to remove the electron to
-infinite distance from the nucleus, while Ne and M are the
-charge and the mass of the nucleus, and −e and m the charge
-and the mass of the electron.
-As explained in Part I, there will in general be no simple
-connection between the motion of a system in the stationary
-states and the spectrum emitted during transitions between
-these states; such a connection, however, must be expected to
-exist in the limit where the motions in successive stationary
-states differ comparatively little from each other. In the
-present case this connection claims in the first place that
-the frequency of revolution tends to zero for increasing n.
-72
-According to (36) and (37) we may therefore put the value
-of W in the n
-th stationary state equal to
-Wn =
+ -->
+
+where W is the work necessary to remove the electron to infinite distance from the nucleus, while Ne and M are the charge and the mass of the nucleus, and −e and m the charge and the mass of the electron.
+
+As explained in Part 1, there will in general be no simple connection between the motion of a system in the stationary states and the spectrum emitted during transitions between these states.
+
+Such a connection, however, must be expected to exist in the limit where the motions in successive stationary states differ comparatively little from each other. 
+
+In the present case, this connection claims in the first place that the frequency of revolution tends to zero for increasing n.
+
+According to (36) and (37) we may therefore put the value of W in the n
+th stationary state equal to 
+
+<!-- Wn =
 Kh
 n2
-. (38)
+. (38) -->
+
 Moreover, since (35) can be written in the form
-ν = (n
+
+<!-- ν = (n
 0 − n
 00)K
 n
 0 + n
 00
 n02n002
-,
+, -->
+
 it is seen to be a necessary condition that the frequency of
 revolution for large values of n is asymptotically given by
 ωn ∼
@@ -111,7 +103,8 @@ the spectrum which on ordinary electrodynamics would be
 emitted from the system in these states. But from (37) and
 (38) it will be seen that (39) claims the fulfilment of the
 relation
-K =
+
+<!-- K =
 2π
 2N2
 e
@@ -127,27 +120,23 @@ e
 h
 3
 (1 + m/M)
-. (40)
-As shown in previous papers, this relation is actually
-found to be fulfilled within the limit of experimental errors
-73
-if we put N = 1 and for e, m, and h introduce the values
-deduced from measurements on other phenomena; a result
-which may be considered as affording a strong support for the
-validity of the general principles discussed in Part I, as well
-as for the reality of the atomic model under consideration.
-Further it was found that, if in formula (35) for the hydrogen
-spectrum the constant K is replaced by a constant which is
-four times larger, this formula represents to a high degree
+. (40) -->
+
+As shown in previous papers, this relation is actually found to be fulfilled within the limit of experimental errors if we put N = 1 and for e, m, and h introduce the values
+deduced from measurements on other phenomena; a result which may be considered as affording a strong support for the validity of the general principles discussed in Part I, as well as for the reality of the atomic model under consideration.
+
+Further it was found that, if in formula (35) for the hydrogen spectrum the constant K is replaced by a constant which is 4 times larger, this formula represents to a high degree
 of approximation the frequencies of the lines of a spectrum
 emitted by helium, when this gas is subject to a condensed
-discharge. This was to be expected on Rutherford’s theory, according to which a neutral helium atom contains two
-electrons and a nucleus of a charge twice that of the nucleus
-of the hydrogen atom. A helium atom from which one electron is removed will thus form a dynamical system perfectly
-similar to a neutral hydrogen atom, and may therefore be expected to emit a spectrum represented by (35) if in (40) we
-put N = 2. Moreover a closer comparison of the helium spectrum under consideration with the hydrogen spectrum has
-shown that the value of the constant K in the former spectrum was not exactly four times as large as that in the latter,
-but that the ratio between these constants within the limit
+discharge. 
+
+This was to be expected on Rutherford’s theory, according to which a neutral helium atom contains two electrons and a nucleus of a charge twice that of the nucleus of the hydrogen atom. 
+
+A helium atom from which one electron is removed will thus form a dynamical system perfectly similar to a neutral hydrogen atom, and may therefore be expected to emit a spectrum represented by (35) if in (40) we
+put N = 2. 
+
+A closer comparison of the helium spectrum under consideration with the hydrogen spectrum has
+shown that the value of the constant K in the former spectrum was not exactly four times as large as that in the latter, but that the ratio between these constants within the limit
 of experimental errors agreed with the value to be expected
 from (40), when regard is taken to the different masses of the
 nuclei of the atoms of hydrogen and helium corresponding to
@@ -159,7 +148,8 @@ the different atomic weights of these elements.1
 Introducing the expression for K given by (40) in the
 formulæ (37) and (38), we find for the values of W, ω and 2α
 in the stationary states
-Wn =
+
+<!-- Wn =
 1
 n2
 2π
@@ -187,19 +177,21 @@ h
 2π
 2Ne2Mm
 .
-(41)
-Now for a mechanical system as that under consideration,
-for which every motion is periodic independent of the initial
-conditions, we have that the value of the total energy will
+(41) -->
+
+Now for a mechanical system as that under consideration, for which every motion is periodic independent of the initial conditions, we have that the value of the total energy will
 be completely determined by the value of the quantity I,
-defined by equation (5) in Part I. As mentioned this follows
-directly from relation (8), which shows at the same time that
+defined by equation (5) in Part I.
+
+This follows directly from relation (8), which shows at the same time that
 for a system for which every motion is periodic the frequency
 will be completely determined by I or by the energy only.
+
 For the value of I in the stationary states of the hydrogen
 atom we get by means of (8) from (37) and (41), since in this
 case I will obviously become zero when W becomes infinite,
-I =
+
+<!-- I =
 Z ∞
 Wn
 dW
@@ -220,9 +212,10 @@ s
 2N2e
 4Mm
 Wn(M + m)
-= nh.
+= nh. -->
+
 papers cited in the introduction.
-75
+
 This result will be seen to be consistent with condition (24)
 which, as mentioned in Part I, presents itself as a direct
 generalisation to periodic systems of several degrees of freedom of condition (10) which determines the stationary states

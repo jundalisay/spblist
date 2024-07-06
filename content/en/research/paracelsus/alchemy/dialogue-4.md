@@ -1,9 +1,9 @@
 ---
 heading: Part 4
-title: "A DIALOGVE BETWEEN MERCURY, the ALCHYMIST and NATURE 4"
-description: "The Origin of Physiognomy"
+title: "A Dialogue Between Nature and the Alchemist"
+description: "Mercury hearing this begins to lament over the Alchymist, and goes unto his mother Nature"
 image: "/covers/alchemy.jpg"
-weight: 202
+weight: 206
 writer:
   name: Paracelsus
   url: https://en.wikipedia.org/wiki/Paracelsus/

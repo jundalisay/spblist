@@ -1,9 +1,10 @@
 ---
-title: "The fine structure of the hydrogen lines"
+heading: Section 3
+title: "The Fine Structure of the Hydrogen lines"
 # description: "The theory in the form given allowed of a detailed discussion only in the case of periodic systems, and obviously was not able to account in detail for the characteristic difference between the hydrogen spectrum and the spectra of other elements"
 image: "/covers/quantum.jpg"
 contributors: ['Bohr']
-weight: 2
+weight: 6
 ---
 
 
@@ -15,14 +16,17 @@ All the general considerations in the preceding sections, as regards relations b
 
 This follows from the fact that the Hamiltonian equations (4), which are taken as a basis for all the previous calculations, may be used to describe the motion also in this case.
 
-If, when the relativity modifications are taken into account, the motion of the system is simply periodic independent of the initial conditions, we shall consequently expect that the stationary states are characterised by the condition I = nh only, and that the energy and frequency are the same for all states corresponding to a given value of n in this equation.
+If, when the relativity modifications are taken into account, the motion of the system is simply periodic independent of the initial conditions, we shall consequently expect that:
+- the stationary states are characterised by the condition `I = nh` only
+- the energy and frequency are the same for all states corresponding to a given value of n in this equation.
 
-The stationary states will also in the relativity case be fixed by (22), if the system is conditionally periodic and allows of separation of variables; while the stationary states of a perturbed periodic system, also in the relativity case, will be characterised by the conditions (67), if the secular perturbations are of conditionally periodic type.
+The stationary states will also in the relativity case be fixed by (22), if the system is conditionally periodic and allows of separation of variables.
 
-When the relativity modifications are taken into account, the motion of the particles in the hydrogen atom will not, as assumed in § 1, be exactly periodic, but the orbit of the electron will be of the same type as that, which would appear on ordinary Newtonian mechanics, if the law of attraction between the particles differed slightly from that of the inverse square. 
+The stationary states of a perturbed periodic system, also in the relativity case, will be characterised by the conditions (67), if the secular perturbations are of conditionally periodic type.
 
-If, for the moment, we consider the mass of the nucleus as infinite, the system will allow of a separation of variables in polar coordinates, and the stationary
-states may consequently be fixed by the conditions (16). 
+When the relativity modifications are taken into account, the motion of the particles in the hydrogen atom will not, as assumed in § 1, be exactly periodic. The orbit of the electron will be of the same type as that, which would appear on ordinary Newtonian mechanics, if the law of attraction between the particles differed slightly from that of the inverse square. 
+
+If the mass of the nucleus as infinite, the system will allow of a separation of variables in polar coordinates, and the stationary states may consequently be fixed by the conditions (16). 
 
 In this way Sommerfeld obtained an expression for the total energy in the stationary states, which, with neglect of small quantities of higher order than the square of the ratio of the velocity of the electron and the velocity of light c, is given by
 

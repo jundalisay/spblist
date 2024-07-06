@@ -1,5 +1,5 @@
 ---
-heading: Articles 106-
+heading: Articles 106-122
 title: What is Desire?
 weight: 30
 description: What is Passion in relation to one subject is always Action in another respect.
@@ -39,11 +39,21 @@ Therefore, this same movement of the spirits has always accompanied the passion 
 
 ### 108. In Hatred
 
-Sometimes, on the contrary, some foreign juice would come to the heart, which was not suitable to maintain the heat, or even could extinguish it: this caused the spirits rising from the heart to the brain to excite in the soul the passion of Hatred. 
+Sometimes, on the contrary, some foreign juice enters the heart. This juice is not suitable to maintain the heat, and even could extinguish it.
 
-At the same time, these spirits would also go from the brain to the nerves, which could push blood from the spleen and small veins of the liver to the heart, to prevent this harmful juice from entering; and further towards those that could push this same juice back to the intestines and stomach, or sometimes force the stomach to vomit it. Hence these same movements usually accompany the passion of Hatred. 
+This causes the spirits rising from the heart to the brain to excite Hatred in the soul. 
 
-It can be seen that there are in the liver many veins or conduits, large enough for the juice of the food to pass from the portal vein to the vena cava, and from there to the heart, without stopping at the liver; but there are also an infinite number of smaller ones where it can stop, and which always contain reserve blood, as does the spleen; this blood, being coarser than that in other parts of the body, can better serve as nourishment for the fire in the heart when the stomach and intestines fail to provide it.
+At the same time, these spirits also go from the brain to the nerves.
+
+To prevent this harmful juice from entering the heart, these spirits push the blood from the spleen and small veins of the liver. These push this same juice back to the intestines and stomach, or sometimes force the stomach to vomit it.
+
+Hence these same movements usually accompany Hatred. 
+
+The liver has many veins or conduits, large enough for the juice of the food to pass from the portal vein to the vena cava, and from there to the heart, without stopping at the liver.
+
+But there are also an infinite number of smaller ones where it can stop. These veins always contain reserve blood, as does the spleen.
+
+This blood is coarser than that in other parts of the body. They can better serve as nourishment for the fire in the heart when the stomach and intestines fail to provide it.
 
 
 ### 109. In Joy
@@ -66,6 +76,7 @@ On the contrary, it sometimes happened that the body lacked nourishment. This mu
 This also caused the openings of the heart to narrow because they received little blood; and a significant part of this blood came from the spleen, as it is the last reservoir that serves to supply the heart when it does not receive enough from elsewhere. 
 
 That is why the movements of the spirits and nerves that serve to narrow the openings of the heart and to lead blood from the spleen always accompany Sadness.
+
 
 ### 111. Desire
 
