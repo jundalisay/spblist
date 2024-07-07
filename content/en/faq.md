@@ -17,10 +17,10 @@ Superphysics is the merging of Science and Metaphysics without going into the de
 
 {{< q a="Francis-Bacon" c="The Proficience And Advancement Of Learning Simplified, Book 2 Part 7" >}}
 Natural science or theory is divided into physic and metaphysic.
-
-Physic should contemplate that which is inherent in matter, and therefore transitory. Metaphysic should contemplate that which is abstracted and fixed.
-
-Physic should handle that which supposeth in nature only a being and moving. Metaphysic should handle that which supposeth further in nature a reason, understanding, and platform.
+- Physic should contemplate that which is inherent in matter, and therefore transitory.
+- Metaphysic should contemplate that which is abstracted and fixed.
+- Physic should handle that which supposeth in nature only a being and moving.
+- Metaphysic should handle that which supposeth further in nature a reason, understanding, and platform.
 {{< /q >}}
 
 
@@ -39,11 +39,11 @@ No. We call it a 'smart-phone'.
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-Correct. We add the word 'smart.' Similarly, we add 'super' to 'physics' to set it apart. This is supported by Francis Bacon who called 'natural magic' as part of metaphysics.
+Correct. We add the word 'smart.' Similarly, we add 'super' to 'physics' to signify an upgrade. This is supported by Francis Bacon who called 'natural magic' as part of metaphysics.
 {{< /l >}}
 
 {{< q a="Francis-Bacon" c="Book 2 Part 1, The Proficience And Advancement Of Learning Simplified" >}}
-Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the like, where there is an assurance and clear evidence of the fact, SHOULD NOT be excluded altogether. This is because it is not yet known in what cases and how far effects attributed to superstition do participate of natural causes. Therefore, howsoever the practice of such things is to be condemned, yet from the speculation and consideration of them, light may be taken for the further understanding of Nature.   
+Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the like, where there is an assurance and clear evidence of the fact, **SHOULD NOT** be excluded altogether. This is because it is not yet known in what cases and how far effects attributed to superstition do participate of natural causes. Therefore, howsoever the practice of such things is to be condemned, yet from the speculation and consideration of them, light may be taken for the further understanding of Nature.   
 {{< /q >}}
 
 
@@ -97,7 +97,7 @@ How do you weed out junk ideas like faeries, ghosts, and evil spirits?
 {{< l a="Superphysics" >}}
 By seeing if we can detect them through 6-senses and then analyze them through Socratic Dialectics. If you want to detect bacteria, you get a microscope. To get the microscope, you have to shell out money which you earn from the effort in your job, or by doing the effort to make a microscope yourself. 
 
-Likewise, gaining the skill to detect the invisible metaphysical domain requires continuous training and effort, since your mind is the detector itself, as explained by Rene Descartes' concept of "[animal spirits](/research/descartes/man/section-30/)". We then compare the person's description of faeries, ghosts, etc. to a data set of known properties from various cultures, such as India which has a lot of data on Elementals, to see whether they match and therefore are predictable, or whether it is just the mind playing tricks.
+Likewise, gaining the skill to detect the invisible metaphysical domain requires continuous training and effort, since your mind is the detector itself, as explained by Rene Descartes' concept of "[animal spirits](/research/descartes/passions/article-010/)". We then compare the person's description of faeries, ghosts, etc. to a data set of known properties from various cultures, such as India which has a lot of data on Elementals, to see whether they match and therefore are predictable, or whether it is just the mind playing tricks.
 {{< /l >}}
 
 
