@@ -19,6 +19,8 @@ icon: "/icons/spmed.png"
 
 Superphysics follows the five-layer model of the universe as described by the ancient Greeks, Hindus, and Chinese. 
 
+{{< youtube uXj1cYbAZLg >}}
+
 
 Superphysics | Physics | Greeks (Timaeus) | Hindus | Chinese | Vietnamese
 --- | --- | --- | --- | --- | ---

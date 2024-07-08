@@ -106,38 +106,3 @@ The usefulness of all the passions is only that they strengthen and preserve the
 Their only harm is that they strengthen and preserve the thoughts more than is necessary. They preserve and strengthen those that should not be retained. 
 
 
-### 75. Admiration is useful or what?
-
-Admiration is useful in making us learn and retain in our memory things that we had previously ignored. 
-
-We only admire what appears rare and extraordinary to us.
-
-Nothing can appear to us such because we have ignored it, or even also because it is different from the things we have known: for it is this difference that makes it called extraordinary. 
-
-Although a thing unknown to us presents itself anew to our understanding or our senses, we do not retain it in our memory for that reason, unless the idea we have of it is strengthened in our brain by some passion, or also by the application of our understanding, which our will determines to a particular attention and reflection.
-
-The other passions can serve to make us notice things that appear good or bad: but we have only admiration for those that appear only rare. Also we see that those who have no natural inclination to this passion are usually very ignorant.
-
-
-### 76. In what it can harm: And how one can make up for its lack and correct its excess.
-
-But we often admire too much. We are astonished by perceiving things that deserve little or no consideration.
-
-<!-- , than that one admires too little. And  -->
-
-This can entirely remove or pervert the use of reason.
-
-Therefore, although it is good to be born with some inclination to this passion, because it disposes us to the acquisition of knowledge, we must nevertheless try afterwards to rid ourselves of it as much as possible. 
-
-For it is easy to make up for its lack by a particular reflection and attention, to which our will can always compel our understanding, when we judge that the thing that presents itself is worth it. 
-
-But there is no other remedy to prevent admiring excessively than to acquire knowledge of many things, and to exercise oneself in considering all those that may seem the rarest and strangest.
-
-
-### 77. That neither the most stupid, nor the most skilled, are those who are the most inclined to Admiration.
-
-Only those who are dull and stupid are not naturally inclined to Admiration.
-
-But this does not mean that those who have the most wit are always the most inclined to it.
-
-The most inclined to Admiration are those have a fairly good common sense but do not have a great opinion of their sufficiency.

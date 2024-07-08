@@ -14,13 +14,24 @@ icon: /icons/descartes.png
 
 ### 51. What are the first causes of the passions?
 
-The last and most immediate cause of the passions of the soul is nothing other than the agitation by which the spirits move the pineal gland. 
+<!-- The last and most immediate cause of  is nothing other than  -->
+
+The agitation by which the spirits move the pineal gland is the cause of the passions. 
 
 But this alone is not sufficient to distinguish them from each other. 
 
 It is necessary to investigate their sources and examine their first causes. 
 
-Sometimes, they may be caused by the action of the soul, which determines to conceive certain objects; and also by the temperament of the body alone, or by the impressions that happen fortuitously in the brain, as occurs when one feels sad or joyful without being able to attribute any reason for it; 
+Sometimes, the passions may be caused by:
+- the action of the soul, which determines to conceive certain objects
+- the temperament of the body alone
+- the impressions that happen fortuitously in the brain
+  - This is when we feel sad or joyful without finding any reason for it.*
+
+
+> *Superphysics Note: In Superphysics, this is caused by the influence of the stars and galaxies. This is because stars and galaxies are spactime vortices, which is of the same layer or element as the animals spirits. Since there is no Void, then those vortices cause disturbances in the spatial layer which then carries over to the animal spirits. This makes us tend towards different emotions depending on the disposition of that layer since these are instinctive and do not require the oversight of the soul.  
+
+
 
 Yet these same passions can also be excited by objects that affect the senses. These objects are their more ordinary and principal causes. 
 
@@ -38,7 +49,7 @@ Therefore, to enumerate them, it is sufficient to systematically examine in how 
 
 ## The order and enumeration of the Passions
 
-### 53. Admiration.
+### 53. Admiration
 
 When the initial encounter with an object surprises us and we judge it to be new, or very different from what we previously knew, or from what we supposed it should be, we admire it and are astonished by it. 
 

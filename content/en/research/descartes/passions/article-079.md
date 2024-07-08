@@ -1,8 +1,8 @@
 ---
-heading: Articles 78-
-title: The number and order of the Passions, and the six primary ones
-weight: 24
-description: Descartes gives 4 Precepts on Math and Logic
+heading: Articles 79-
+title: What are the Passions of the Soul?
+weight: 4
+description: What is Passion in relation to one subject is always Action in another respect.
 image: "/covers/passions.jpg"
 writer:
   name: Rene Descartes
@@ -11,27 +11,16 @@ icon: /icons/descartes.png
 ---
 
 
+### 79. The definitions of Love and Hatred
 
-### 78. Its excess can become a habit, when one fails to correct it.
+Both love and hatred are emotions of the soul caused by the movement of spirits.
+- Love impels the soul to unite its will with objects that appear suitable to it. 
+- Hatred incites the soul to desire separation from objects that present themselves as harmful.
 
-This passion seems to diminish with use, because the more rare things one encounters that are admired, the more one becomes accustomed to ceasing to admire them and thinking that all subsequent ones that may present themselves are ordinary. 
-
-However, when it is excessive, and it causes one to focus only on the initial image of the objects that have appeared, without acquiring any further knowledge of them, it leaves behind a habit that predisposes the soul to similarly fixate on all other objects that present themselves, provided they appear even slightly new.
-
-This is what perpetuates the malady of those who are blindly curious, meaning those who seek rarities only to admire them, not to understand them: for they gradually become so prone to admiration that matters of no importance are no less capable of arresting their attention than those whose pursuit would be more beneficial.
-
-
-### 79. The definitions of Love and Hatred.
-
-Love is an emotion of the soul, caused by the movement of spirits, which impels it to unite its will with objects that appear suitable to it. 
-
-Hatred is an emotion caused by the spirits, which incites the soul to desire separation from objects that present themselves as harmful.
-
-These emotions are caused by the spirits, in order to distinguish Love and Hatred, which are passions and depend on the body, from the judgments that also prompt the soul to unite its will with things it considers good, and to separate from those it deems bad, and from the emotions that these judgments alone stir in the soul.
+<!-- These emotions are caused by the spirits, in order to distinguish Love and Hatred, which are passions and depend on the body, from the judgments that also prompt the soul to unite its will with things it considers good, and to separate from those it deems bad, and from the emotions that these judgments alone stir in the soul. -->
 
 
 ### 80. What it means to unite or separate with will.
-
 
 Desire is a separate passion and pertains to the future.
 
@@ -92,31 +81,70 @@ Thus, one can have affection for a flower, a bird, or a horse, but unless one's 
 
 They are so much the object of this passion that there is no person so imperfect that one cannot have a very perfect friendship for them, provided one believes oneself loved by them, and has a truly noble and generous soul: as will be explained later, in Articles 154 and 156. 
 
-As for Devotion, its principal object is the sovereign divinity, whom one cannot fail to be devoted to when one knows Him as one should. But one can also have Devotion for one's Prince, for one's country, for one's city, and even for an individual person, when one esteems them much more than oneself.
+The principal object of Devotion is the sovereign divinity. We cannot fail to be devoted to Him when we know Him. 
 
-The difference between these three kinds of Love primarily appears in their effects: for in all of them, considering oneself as united with and part of the beloved thing, one is always ready to forsake the lesser part of the whole one composes with it, to preserve the other. 
+But one can also have Devotion for:
+- one's Prince
+- one's country
+- one's city
+- even for a person, when one esteems them much more than oneself.
 
-This is why, in simple affection, one always prefers oneself to what one loves; and conversely, in Devotion, one so greatly prefers the beloved thing to oneself that one does not fear to die to preserve it. 
+The difference between these 3 kinds of Love is in their effects:
 
-Examples of this have often been seen in those who have exposed themselves to certain death in defense of their Prince or their city, and sometimes even for particular individuals to whom they have been devoted.
+In all of them, we consider ourselves as united with, and part of, the beloved thing.
+
+- In simple affection, we always prefer ourselves to what we love.
+- In devotion, we greatly prefer the beloved thing that we do not fear to die to preserve it. 
+
+<!-- , one is always ready to forsake the lesser part of the whole one composes with it, to preserve the other.  -->
+
+<!-- Examples of this have often been seen in those who have exposed themselves to certain death in defense of their Prince or their city, and sometimes even for particular individuals to whom they have been devoted. -->
 
 
 ### 84. There are not as many species of Hatred as there are of Love.
 
-Although Hatred is directly opposed to Love, it is not distinguished into as many species, because we do not notice as much difference between the evils from which we desire to be separated, as we do between the goods with which we desire to unite.
+Hatred is directly opposed to Love. But it is has less kinds because we do not notice as much difference between the evils that we want to avoid, as we do between the goods that we want to unite with.
+
+<!-- from which we desire to be separated,  -->
 
 
 ### 85. Pleasure and Horror
 
-And I find only one significant distinction that is the same in both. It consists in that the objects of both Love and Hatred can be represented to the soul by the external senses or by the internal senses and its own reason. 
+<!-- And I find only one significant distinction that is the same in both. It consists in that  -->
+
+The objects of both Love and Hatred can be represented to the soul by the external senses or by the internal senses and its own reason. 
 
 We commonly call good or evil what our internal senses or our reason judge to be suitable or contrary to our nature; but we call beautiful or ugly what is represented to us by our external senses, primarily by that of sight, which alone is more considered than all the others. 
 
-Hence arise two kinds of Love, namely, that which we have for good things and that which we have for beautiful things, to which one can give the name of Pleasure, so as not to confuse it with the other, nor also with Desire, to which one often attributes the name of Love. 
+Hence arise two kinds of Love:
 
-Similarly, two kinds of Hatred arise, one of which pertains to bad things, the other to those that are ugly; and this latter can be called Horror, or Aversion, to distinguish it. 
+1. Pleasure
 
-But what is most remarkable here is that these passions of Pleasure and Horror commonly tend to be more violent than the other species of Love or Hatred, because what comes to the soul through the senses affects it more strongly than what is represented to it by its reason; and yet they usually have less truth. 
+This is our love for good things
+
+2. Desire
+
+Our love for beautiful things
+
+ <!-- to which one can give the name of , so as not to confuse it with the other, nor also with , to which one often attributes the name of Love.  -->
+
+Similarly, 2 kinds of Hatred arise:
+
+1. Horror
+
+This is our hatred for bad things.
+
+2. Aversion
+
+This is our hatred for ugly things.
+
+ <!-- this latter can be called Horror, or Aversion, to distinguish it.  -->
+
+<!-- But what is most remarkable here is that these passions of  -->
+
+Pleasure and Horror commonly tend to be more violent than the other species of Love or Hatred. 
+
+This is because what comes to the soul through the senses affects it more strongly than what is represented to it by its reason; and yet they usually have less truth. 
 
 Thus, of all the passions, these are the ones that deceive the most, and against which one must be most carefully on guard.
 
