@@ -47,18 +47,17 @@ with good; and from Our provisions to them, they give.
 your deeds; peace be upon you; we do not desire the ignorant.”
 
 56. You cannot guide whom you love, but Allah guides whom He wills, and He knows best those who are guided.
+
 57. And they say, “If we follow the guidance with you, we will be snatched from our land.”
+
 Did We not establish for them a Safe Sanctuary, to which are brought all kinds of fruits,
 as provision from Ourselves? But most of them do not know.
 
 58. And how many a city did We destroy for turning unappreciative of its livelihood? Here are their homes, uninhabited after them, except for a few. And We became the Inheritors.
 
-59. Your Lord never destroys cities without first sending a messenger in their midst, re-
-citing to them Our revelations. And We never destroy the cities, unless their people
-are wrongdoers.
+59. Your Lord never destroys cities without first sending a messenger in their midst, reciting to them Our revelations. And We never destroy the cities, unless their people are wrongdoers.
 
-Whatever thing you are given is but the material of this world, and its glitter. But
-what is with Allah is better, and longer lasting. Do you not comprehend?
+Whatever thing you are given is but the material of this world, and its glitter. But what is with Allah is better, and longer lasting. Do you not comprehend?
 
 61. Can someone to whom We have made a fine promise—which he will attain—be equal to someone to whom We have given enjoyments in this world, but who will be, on Resurrection Day, among the arraigned?
 
@@ -98,23 +97,27 @@ say, “Where are My associates whom you used to claim?”
 
 75. And We will draw out from every community a witness, and say, “Produce your evidence.” Then they will realize that the truth is Allah’s, and those they used to invent have forsaken them.
 
-76. Quaroon belonged to the clan of Moses, but he oppressed them. We had given him treasures, the keys of which would weigh down a group of strong men. His people said to him, “Do not exult; Allah does not love the exultant.
+76. Quaroon belonged to the clan of Moses, but he oppressed them. 
 
-77. But seek, with what Allah has given you, the Home of the Hereafter, and do not neglect your share of this world. And be charitable, as Allah has been charitable to you. Do not seek corruption in the land. Allah does not like the seekers of corruption.”
+We had given him treasures, the keys of which would weigh down a group of strong men. His people said to him, “Do not exult; Allah does not love the exultant.
 
-78. He said, “I was given all this on account of knowledge I possess.” Did he not know that Allah destroyed many generations before him, who were stronger than he, and possessed greater riches? But the guilty will not be asked about their sins.
+77. But seek, with what Allah has given you, the Home of the Hereafter, and do not neglect your share of this world. Be charitable, as Allah has been charitable to you. 
 
-79. He went out before his people in his splendor. Those who desired the worldly life said, “If only we possessed the likes of what Quaroon was given. He is indeed very fortunate.”
+Do not seek corruption in the land. Allah does not like the seekers of corruption.”
+
+78. He said, “I was given all this on account of knowledge I possess.” 
+
+Did he not know that Allah destroyed many generations before him, who were stronger than he, and possessed greater riches? But the guilty will not be asked about their sins.
+
+79. He went out before his people in his splendor. Those who desired the worldly life said, “If only we possessed the likes of what Quaroon was given. He is very fortunate.”
  
-80. But those who were given knowledge said, “Woe to you! The reward of Allah is better for
-those who believe and do righteous deeds.”
+80. But those who were given knowledge said, “Woe to you! The reward of Allah is better for those who believe and do righteous deeds.”
 
 Yet none attains it except the steadfast.
 
-81. So We caused the earth to cave in on him and his mansion. He had no company to save
-him from Allah, and he could not defend himself.
+81. So We caused the earth to cave in on him and his mansion. He had no company to save him from Allah, and he could not defend himself.
 
-82. Those who had wished they were in his position the day before were saying, “Indeed, it is Allah who spreads the bounty to whomever He wills of His servants, and restricts it. Had Allah not been gracious to us, He would have caved in on us. No wonder the ungrateful never prosper.”
+82. Those who had wished they were in his position the day before were saying, “It is Allah who spreads the bounty to whomever He wills of His servants, and restricts it. Had Allah not been gracious to us, He would have caved in on us. No wonder the ungrateful never prosper.”
 
 83. That Home of the Hereafter—We assign it for those who seek no superiority on earth,
 nor corruption. And the outcome is for the cautious.

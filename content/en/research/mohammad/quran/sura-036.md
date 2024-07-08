@@ -7,29 +7,22 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-{{< s v="1-3" >}}  You{{< s v="4" >}}  On
-are one of the messengers.
-a straight path.
+<!-- {{< s v="1-3" >}}  You {{< s v="4" >}} are one of the messengers. a straight path. -->
 
-6. To warn a people whose ancestors were not
-warned, and so they are unaware.
+6. To warn a people whose ancestors were not warned, and so they are unaware.
 
-7. The Word was realized against most of
-them, for they do not believe.
+7. The Word was realized against most of them, for they do not believe.
 
-8. We placed shackles around their necks, up
-to their chins, so they are stiff-necked.{{< s v="9" >}}  And We placed a barrier in front of them,
-and a barrier behind them, and We have en-
-shrouded them, so they cannot see.{{< s v="10" >}}  It is the same for them, whether you warn
-them, or do not warn them—they will not be-
-lieve.{{< s v="11" >}}  You warn only him who follows the Mes-
-sage, and fears the Most Gracious inwardly.
+8. We placed shackles around their necks, up to their chins, so they are stiff-necked.{{< s v="9" >}}  And We placed a barrier in front of them, and a barrier behind them, and We have enshrouded them, so they cannot see.
+
+{{< s v="10" >}}  It is the same for them, whether you warn
+them, or do not warn them—they will not believe.{{< s v="11" >}}  You warn only him who follows the Message, and fears the Most Gracious inwardly.
+
 So give him good news of forgiveness, and a
 generous reward.
-12. It is We who revive the dead; and We write
-down what they have forwarded, and their
-traces. We have tallied all things in a Clear
-Record.
+
+12. It is We who revive the dead; and We write down what they have forwarded, and their traces. We have tallied all things in a Clear Record.
+
 13. And cite for them the parable of the landlords of the town—when the messengers
 came to it.
 
@@ -70,15 +63,16 @@ me one of the honored.”
 heaven to his people; nor would We ever send
 any down.
 25.
-29. It
-was just one Cry, and they were stilled.
+
+29. It was just one Cry, and they were stilled.
 Alas for the servants. No messenger ever
 came to them, but they ridiculed him.
-31. Have they not considered how many gen-
-erations We destroyed before them; and that
+
+31. Have they not considered how many generations We destroyed before them; and that
 unto them they will not return?
-32. All of them, every single one of them, will
-be arraigned before Us.
+
+32. All of them, every single one of them, will be arraigned before Us.
+
 33. And there is a sign for them in the dead
 land: We give it life, and produce from it
 grains from which they eat.
@@ -88,18 +82,17 @@ and vines, and cause springs to gush out of it.
 their hands did not make it. Will they not be
 appreciative?
 30.
-16636. YA-SEEN (Ya-Seen)
+
 36. Glory be to Him who created all the pairs;
 of what the earth produces, and of their own
 selves, and of what they do not know.
-37. Another sign for them is the night: We
-strip the day out of it—and they are in dark-
-ness.
-38. And the sun runs towards its destination.
-Such is the design of the Almighty, the All-
+
+37. Another sign for them is the night: We strip the day out of it—and they are in darkness.
+
+38. And the sun runs towards its destination. Such is the design of the Almighty, the All-
 Knowing.
-39. And the moon: We have disposed it in
-phases, until it returns like the old twig.
+
+39. And the moon: We have disposed it in phases, until it returns like the old twig.
 40. The sun is not to overtake the moon, nor is
 the night to outpace the day. Each floats in an
 orbit.

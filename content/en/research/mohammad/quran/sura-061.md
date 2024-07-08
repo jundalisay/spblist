@@ -119,11 +119,8 @@ power belongs to Allah, and His Messenger,
 and the believers; but the hypocrites do not know.
 
 {{< s v="9" >}}  Muslims,  Let neither your possessions nor your children distract you from the
-remembrance of Allah. Whoever does that--these are the losers.{{< s v="10" >}}  And give from what We have provided for
-you, before death approaches one of you, and
-he says, “My Lord, if only You would delay
-me for a short while, so that I may be charita-
-ble, and be one of the righteous.”{{< s v="11" >}}  But Allah will not delay a soul when its time
-has come. Allah is Informed of what you do.
+remembrance of Allah. 
 
+Whoever does that--these are the losers.{{< s v="10" >}}  And give from what We have provided for you, before death approaches one of you, and he says, “My Lord, if only You would delay me for a short while, so that I may be charitable, and be one of the righteous.”{{< s v="11" >}}  But Allah will not delay a soul when its time has come.
 
+ <!-- Allah is Informed of what you do. -->

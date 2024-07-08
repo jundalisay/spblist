@@ -13,8 +13,10 @@ Book; a Quran that makes things clear. -->{{< s v="2" >}}  Perhaps those who dis
 6. And they said, “O you who received the message, you are insane.”
 
 7. Why do you not bring us the angels, if you are truthful?”
-8. We do not send the angels down except with reason, and they will not be held back.{{< s v="9" >}}  Surely We revealed the Message, and We
-will surely preserve it.
+
+8. We do not send the angels down except with reason, and they will not be held back.
+
+{{< s v="9" >}} Surely We revealed the Message, and We will surely preserve it.
 
 {{< s v="10" >}}  We sent others before you, to the former communities.
 

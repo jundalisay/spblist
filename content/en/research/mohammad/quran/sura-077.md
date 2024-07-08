@@ -21,11 +21,10 @@ On that day:
 
 It will be deferred until the Day of Decision.
 
-And what will teach you what the Day of
-Decision is?
+And what will teach you what the Day of Decision is?
 
 
-{{< s v="16" >}}Did we not destroy the ancients?
+{{< s v="16" >}} Did we not destroy the ancients?
 - We will follow them with the later ones like We deal with the criminals.
 
 We created you from a liquid disdained and placed it in a the womb

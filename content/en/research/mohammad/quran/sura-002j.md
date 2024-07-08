@@ -12,8 +12,9 @@ description: "Divorced women shall wait by themselves for 3 periods. It is unlaw
 - It is unlawful for Muslim to conceal what Allah has created in their wombs. <!-- , if they believe in Allah and the Last Day. --> 
 - Their husbands have the better right to take them back, if they desire reconciliation. 
 
-Wmen have rights similar to their obligations, according to what is fair.
+Women have rights similar to their obligations, according to what is fair.
 - But men have a degree over them. 
+
 
 {{< s v="229">}} Divorce is allowed twice. 
 
@@ -61,9 +62,7 @@ themselves for four months and ten days.
 When they have reached their term, there is no blame on you regarding what they might
 honorably do with themselves. Allah is fully acquainted with what you do.
 
-{{< s v="235">}} You commit no error by announcing your engagement to women, or by keeping it to
-yourselves. Allah knows that you will be thinking about them. But do not meet them
-secretly, unless you have something proper to say. 
+{{< s v="235">}} You commit no error by announcing your engagement to women, or by keeping it to yourselves. Allah knows that you will be thinking about them. But do not meet them secretly, unless you have something proper to say. 
 
 Do not confirm the marriage tie until the writing is fulfilled. 
 

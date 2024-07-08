@@ -209,11 +209,10 @@ Verses, and the warnings, for a joke.
 
 57. Who does greater wrong than he, who, when reminded of his Lord’s revelations,
 turns away from them, and forgets what his
-hands have put forward? We have placed
-coverings over their hearts, lest they under-
-stand it, and heaviness in their ears. And if
-you call them to guidance, they will not be
-guided, ever.
+hands have put forward? We have placed coverings over their hearts, lest they under-
+stand it, and heaviness in their ears. 
+
+And if you call them to guidance, they will not be guided, ever.
 
 58. Your Lord is the Forgiver, Possessor of Mercy. Were He to call them to account for
 what they have earned, He would have hastened the punishment for them. But they

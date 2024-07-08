@@ -117,37 +117,30 @@ ther astray from the way.
 
 36. We said, “Go to the people who rejected Our signs,” and We destroyed them completely.
 
-37. And the people of Noah: when they rejected the messengers, We drowned them,
-and made them a lesson for mankind. We
-have prepared for the wrongdoers a painful
-retribution.
-38. And Aad, and Thamood, and the inhabit-
-ants of Arras, and many generations in be-
-tween.
-39. To each We presented the parables; and
-each We devastated utterly.
-40. And they came upon the city that was
-drenched by the terrible rain. Did they not
-see it? But they do not expect resurrection.
-41. And when they see you, they take you for
-nothing but mockery: “Is this the one Allah
+37. When the people of Noah rejected the messengers, We drowned them, and made them a lesson for mankind. We have prepared for the wrongdoers a painful retribution.
+
+38. Aad, and Thamood, and the inhabitants of Arras, and many generations in between.
+
+39. To each We presented the parables; and each We devastated utterly.
+
+40. They came upon the city that was drenched by the terrible rain. Did they not see it? But they do not expect resurrection.
+
+41. And when they see you, they take you for nothing but mockery: “Is this the one Allah
 sent as a messenger?”
-42. “He nearly led us away from our gods, had
-we not patiently adhered to them.” But they
-will know, when they witness the torment,
-who is further away from the way.
-43. Have you seen him who chose his desire as
-his god? Would you be an agent for him?
-44. Or do you assume that most of them hear
-or understand? They are just like cattle, but
-even more errant in their way.
-45. Do you not see how your Lord extends the
-shadow? Had He willed, He could have made
+
+42. “He nearly led us away from our gods, had we not patiently adhered to them.” But they
+will know, when they witness the torment, who is further away from the way.
+
+43. Have you seen him who chose his desire as his god? Would you be an agent for him?
+
+44. Or do you assume that most of them hear or understand? They are just like cattle, but even more errant in their way.
+
+45. Do you not see how your Lord extends the shadow? Had He willed, He could have made
 it still. And We made the sun a pointer to it.
-46. Then We withdraw it towards Us gradu-
-ally.
-47. And it is He who made the night a covering
-for you, and sleep for rest; and He made the
+
+46. Then We withdraw it towards Us gradually.
+
+47. And it is He who made the night a covering for you, and sleep for rest; and He made the
 day a revival.
 48. And it is He who sends the winds, bringing
 advance news of His mercy; and We send

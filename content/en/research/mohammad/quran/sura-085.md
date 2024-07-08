@@ -17,7 +17,9 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 7. And were witnessing what they did to the believers.
 
-8. They begrudged them only because they believed in Allah the Almighty, the Praiseworthy.{{< s v="9" >}}  To Whom belongs the sovereignty of the heavens and the earth. Allah is witness over everything.
+8. They begrudged them only because they believed in Allah the Almighty, the Praiseworthy.{{< s v="9" >}}  To Whom belongs the sovereignty of the heavens and the earth. 
+
+<!-- Allah is witness over everything. -->
 
 {{< s v="10" >}}  Those who tempt the believers, men and women, then do not repent; for them is the
 punishment of Hell; for them is the punishment of Burning.{{< s v="11" >}}  Those who believe and do righteous deeds will have Gardens beneath which rivers flow.

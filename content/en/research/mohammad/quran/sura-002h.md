@@ -80,19 +80,17 @@ goodness in the Hereafter, and protect us from the torment of the Fire.”
 
 202. These will have a share of what they have earned. Allah is swift in reckoning.
 
-203. Remember Allah during the designated days. But whoever hurries on in 2 days commits no wrong, and whoever stays
-on commits no wrong—provided he maintains righteousness. And obey Allah, and
-know that to Him you will be gathered.
+203. Remember Allah during the designated days. But whoever hurries on in 2 days commits no wrong, and whoever stays on commits no wrong—provided he maintains righteousness. 
 
-204. Among the people is he whose speech about the worldly life impresses you, and he
-calls Allah to witness what is in his heart, while he is the most hostile of adversaries.
+<!-- And obey Allah, and
+know that to Him you will be gathered. -->
+
+204. Among the people is he whose speech about the worldly life impresses you, and he calls Allah to witness what is in his heart, while he is the most hostile of adversaries.
 
 205. When he gains power, he strives to spread corruption on earth, destroying properties and lives. Allah does not like corruption.
 
-206. And when he is told, “Beware of Allah,” his pride leads him to more sin. Hell is
-enough for him—a dreadful abode. 
+206. And when he is told, “Beware of Allah,” his pride leads him to more sin. Hell is enough for him—a dreadful abode. 
 
-207. And among the people is he who sells himself seeking Allah’s approval. Allah is
-kind towards the servants.
+207. And among the people is he who sells himself seeking Allah’s approval. Allah is kind towards the servants.
 
 

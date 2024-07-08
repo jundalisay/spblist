@@ -100,10 +100,7 @@ touch us, and fatigue will not afflict us.”
 
 36. As for those who disbelieve, for them is the Fire of Hell, wherein they will never be finished off and die, nor will its punishment be lightened for them. Thus We will repay every ingrate. 
 
-37. And they will scream therein, “Our Lord, let us out, and we will act righteously, differ-
-ently from the way we used to act.” Did We not give you a life long enough, in which an-
-yone who wanted to understand would have understood? And the warner did come to
-you. So taste. The evildoers will have no helper.
+37. And they will scream therein, “Our Lord, let us out, and we will act righteously, differently from the way we used to act.” Did We not give you a life long enough, in which anyone who wanted to understand would have understood? And the warner did come to you. So taste. The evildoers will have no helper.
 
 38. Allah is the Knower of the future of the heavens and the earth. He knows what the hearts contain.
 

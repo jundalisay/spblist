@@ -96,7 +96,7 @@ Thus we can hope and fear, even though the outcome of what we expect does not de
 From the former arises Indecision, which disposes us to deliberate and seek counsel. Courage or Boldness opposes the latter, of which Emulation is a kind. And Cowardice is contrary to courage, just as Fear or Terror is to Boldness.
 
 
-### 60. Remorse.
+### 60. Remorse
 
 And if one has determined upon some action before Indecision is removed, this gives rise to Remorse of conscience: which does not concern the future like the preceding passions, but rather the present or the past.
 

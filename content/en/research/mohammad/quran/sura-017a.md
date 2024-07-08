@@ -27,8 +27,7 @@ Take none for protector other than Me.
 7. If you work righteousness, you work righteousness for yourselves; and if you commit
 evil, you do so against yourselves. 
 
-Then, when the second promise comes true, they will make your faces filled with sorrow, and enter the Temple as they entered it the first
-time, and utterly destroy all that falls into their power.
+Then, when the second promise comes true, they will make your faces filled with sorrow, and enter the Temple as they entered it the first time, and utterly destroy all that falls into their power.
 
 <!-- 8. Perhaps your Lord will have mercy on you.
 

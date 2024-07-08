@@ -13,13 +13,28 @@ icon: "/flags/af.png"
 <!-- <img src="https://sorasystem.sirv.com/flags/af.svg" width="200px"> -->
 
 
+
+Axioms | Propositions
+--- | ---
+Human ego is the cause of problems in society | Law is needed to restrain human ego
+. | Islamic law and the feudal system are useful for morally-backward societies (where the Negative Force dominates)
+
+
 Afghanistan fell to the Taliban in the middle of August, three months after the US announced a complete withdrawal of its troops. 
 
 The fall surprised a lot of people, especially since the US spent 20 years building the country from scratch. It was the job of the Afghan army to defend their country and they were doing a decent job before 2021, despite the corruption of their leaders<!--  and despite Obama reducing troop numbers -->. 
 
 ![Taliban](/countries/af/taliban.jpg)
 
-This all changed when Trump announced a withdrawal of the US military by May 1, 2021, a policy which was continued by Biden. This cancelled the air support that was vital to the operations of the Afghan army. Without it, their operations started to fail and the Taliban started winning. This is because both sides had similar heavy weapons and so airpower was the only edge that the Afghan army really had over the Taliban. 
+This all changed when Trump announced a withdrawal of the US military by May 1, 2021, a policy which was continued by Biden. This cancelled the air support that was vital to the operations of the Afghan army. Without it, their operations started to fail and the Taliban started winning. 
+
+This is because both sides had similar heavy weapons. And so airpower was the only edge that the Afghan army really had over the  Taliban which had a long, continuous fighting experience from the 1980s.*
+
+
+> *Here, even the Taliban prove how **sheer persistence** (even the stupid kind) can lead to success despite the initial remote chances. This is because "success" had both a physical-material and a metaphysical-aethereal manifestation. Metaphysical success is just the feeling or idea of success. The Physical success is how that success takes the form of actual atoms. It is very common to fail at first try because the idea of success (in the aethereal layer) is 4 layers away from the actual physical success (in the material layer). Standing in between those 2 layers is the spatial (spacetime) layer. **Therefore, keeping up the idea of success and working towards it no matter how long or how difficult it takes is an essential ingredient to actual success**. We actually have been using this since 2012 as we aim to establish our 6-sense science of Superphysics as an alternative to the current 5-sense sciences which are obviously deficient and limited. 
+
+
+
 <!-- They lost this when the Americans cut off that support. -->
 <!--  government merely fled and the army gave up in order to prevent further violence.  -->
 
@@ -34,11 +49,13 @@ In the Democratic State, you do not need to govern if you don't want to. No law 
 
 The Taliban, on the other hand, was not democratic and therefore was not as fake as the Afghan government. 
 
-Though Biden bears some of the blame for such a rapid withdrawal, the entire US policy is more to blame. The Americans complained that the Afghan government was corrupt and that the generals didn't really fund the army with the money given. But they fail to see that the corruption was caused by the Americans themselves in giving lots of money to Afghan leaders who are merely popular but not moral. Morality itself takes time to build, just as you cannot teach morals to a child overnight and expect him to have it for life. 
+Though Biden bears some of the blame for such a rapid withdrawal, the entire US policy is more to blame. The Americans complained that the Afghan government was corrupt and that the generals didn't really fund the army with the money given. 
 
-The American ignorance on how to build morals is easily seen in the belated attempts at nation-building <!-- and troop surge --> by the American military. More importantly, it is seen in their policy of starting up a democratically-elected government at a time when the soul and moral glue of Afghan society had been obliterated by the Soviet war*. 
+But they fail to see that **the corruption was caused by the Americans themselves** by giving lots of money to Afghan leaders who are merely popular but not moral. Morality itself takes time to build, just as you cannot teach morals to a child overnight and expect him to be a good boy from tomorrow until end of life.  
 
-> *Our [Supersociology](/social/supersociology) defines a society as a [collection of minds](/social/supersociology/principles/part-1/chapter-01) that are unified or glued together by the morals of common interest. Afghan society therefore is a union of the different tribal society-minds which are made up of individual personal minds. This union is dissociated by internal discord from heightened ego as selfish-interest, or by external pressures, such as war. The Soviet war dissociated the soul of Afghan society, splitting it back to its components: the Pashtun society-soul, Tajik society-soul, Hazara society-soul, Uzbek society-soul, etc. with weak morals. An example of a multi-tribe society that has successfully been glued is Jordan. 
+The American ignorance on how to build morals is easily seen in the belated attempts at nation-building <!-- and troop surge --> by the American military. More importantly, it is seen in their policy of starting up a democratically-elected government at a time when the soul and moral glue of Afghan society had been obliterated by the Soviet war. 
+
+<!-- > *Our [Supersociology](/social/supersociology) defines a society as a [collection of minds](/social/supersociology/principles/part-1/chapter-01) that are unified or glued together by the morals of common interest. Afghan society therefore is a union of the different tribal society-minds which are made up of individual personal minds. This union is dissociated by internal discord from heightened ego as selfish-interest, or by external pressures, such as war. The Soviet war dissociated the soul of Afghan society, splitting it back to its components: the Pashtun society-soul, Tajik society-soul, Hazara society-soul, Uzbek society-soul, etc. with weak morals. An example of a multi-tribe society that has successfully been glued is Jordan.  -->
 
 
 We will apply dialectical analysis according to Supersociology in order to list the mistakes of the US policy in Afghanistan. From there, we can come up with solutions that are better than the ones implemented from Bush to Biden. 
@@ -50,16 +67,21 @@ We will apply dialectical analysis according to Supersociology in order to list 
 
 During the Prophet Mohammad's time, many civilizations, specifically the Middle Eastern, Roman, and Persian societies, were pummeled by war. This caused them to become dissociated, unstable, and more corrupt and barbarous. The solution of the Prophet was to reunify them under Islam through the concept of Allah which represents the highest morals and ideals:
 
-{{< q a="Mohammad" c="The Romans 30:42-43, Quran">}}
+<!-- {{< q a="Mohammad" c="The Romans 30:42-43, Quran">}}
 Travel..and see what happened of those before you. Most of them were idolaters. So set to the right religion before the Day of Judgment comes.  
 {{< /q >}}
 
 {{< q a="Mohammad" c="The Romans 46, 48, Quran" >}}
 Allah sends the winds as glad tidings..that you may seek of His Bounty... Allah is He who sends the winds to raise the clouds, spread along the sky, break them into raindrops.
 {{< /q >}}
+ -->
+
+{{< q a="Mohammad" c="Quran 17:16-20">}}
+When We decide to destroy a town, We command its affluent ones. They transgress in it, so the word becomes justified against it, and We destroy it completely. How many generations have We destroyed after Noah? Whoever desires the fleeting life, We expedite for him what We decide to give him, to whomever We desire. Then We consign him to Hell. But whoever desires the Hereafter.. their effort will be appreciated. To all—these and those—We extend from the gifts of your Lord. The gifts of your Lord are not restricted.
+{{< /q >}}
 
 
-Islam includes a moral system that is supposed to bring **peace, prosperity, and justice** -- things that destroyed societies desperately need. Afghanistan was such a society. This is why the Taliban, with its medieval version of Islam, naturally dominated after the grip of the Soviets weakened in the 1990's.
+Islam includes a moral system that is supposed to bring the gifts of **peace, prosperity, and justice** -- things that destroyed societies desperately need. Afghanistan was such a society. This is why the Taliban, with its medieval version of Islam, naturally dominated after the grip of the Soviets weakened in the 1990's.
 
 The first mistake of the US was in imposing a Western system instead of an Islamic system of governance and swift justice. If people say "When in Rome, do as the Romans do," then it would be also correct to say "When creating systems for Afghanistan, use what Afghans are used to."
 
@@ -83,9 +105,11 @@ Year | Event
 2001 | The US war in Afghanistan begins
 
 
-Five years, or even twenty years, is way too short. The ideal length for a society to form its own consciousness is around 80 years. For example, the period from the American Revolution to the Civil war is around 80 years. Only after this period was the American identity unified. Likewise, it took 78 years from the British War of the Roses to establish British identity as an Anglican society under Henry the 8th.
+Five years, or even twenty years, is way too short. The ideal length for a society to form its own consciousness is around 80 years. For example:
+- the period from the American Revolution to the Civil war is around 80 years. Only after this period was the American identity unified. 
+- it took 78 years from the British War of the Roses to establish British identity as an Anglican society under Henry the 8th.
 
-How did we come up with 80 years? According to [Socrates' social cycles](/social/supersociology/principles/part-1/chapter-05), the soul of all societies goes through four phases:
+How did we come up with 80 years? According to Socrates' [social cycles](/social/supersociology/principles/part-1/chapter-05), the soul of all societies goes through four phases:
 
 1. Aristocratic
 2. Oligarchic
@@ -98,6 +122,8 @@ We then convert the phases to their root characteristics
 2. Trader
 3. Worker
 4. Warrior
+
+{{< img src="/graphics/social/cycles.png" alt="Social Cycles" >}}
 
 We then plotted [each phase of modern societies](/social/cycles/) to be under 20 years. Thus, we multiply 20 by four phases to come up with 80 years as a general rule. Europe and small countries seem to have 60 years. 
 
@@ -132,14 +158,26 @@ The goodness of Mother Nature led to the French, Italian, and Americans developi
 Did the Anglo-Saxons keep the Roman institutions after they Romans went back to Rome? No, it quickly fell apart. The origin of British institutions came much later, from William the Conqueror. -->
 
 
-The biggest mistake of the US is to assume that democracy will work for the Afghans like it did for the Americans and the Europeans. They instituted a complicated system of separation of powers, mercenary lawyers, and commercial transactions. **These are policies for a civilized society** and are very different from simple system of hierarchal leadership, tribal transactions, and Islamic jurisprudence that the Taliban implemented. 
+The biggest mistake of the US is to assume that democracy will work for the Afghans like it did for the Americans and the Europeans. They instituted a complicated system of:
+- separation of powers
+- mercenary lawyers
+- commercial transactions
 
-Because of the mismatch, an Afghan rent-seeking class naturally emerged to manage the complicated system. This manifested as the corrupt officials who simply fled to civilized countries, such as the US and Qatar, when the times got tough. 
+**These are policies for a civilized society** and are very different from simple barbaric system that the Taliban implemented:
+- hierarchal leadership
+- ready-made Islamic jurisprudence (no need to think, just read and apply i.e. only literacy skill is needed)
+- tribal transactions
+
+ 
+
+Because of the mismatch, an Afghan rent-seeking class naturally emerged to manage and bridge the civilized with barbaric. This is similar to talking to a foreigner who speaks in an uncommon language that needs a translator who then gets the power to misinterpret or corrupt his words. 
+
+In Afghanistan, such a rent-seeking class  manifested as the corrupt officials who simply fled to civilized countries, such as the US and Qatar, when the times got tough. 
 
 
 ### Mistake 4: Emphasis on the Military instead of Nation-building
 
-From 2001 until the troop surge of Obama, the strategy of the US hinged on military objectives instead of social or political ones. They would go house to house to hunt down suspected terrorists and even launch airstrikes against them. The problem is that those military actions caused collateral damage which infuriated the Afghans against the Americans more than against the Taliban. 
+From 2001 until the troop surge of Obama, the US strategy hinged on military objectives instead of social or political ones. They would go house to house to hunt down suspected terrorists and even launch airstrikes against them. The problem is that those military actions caused collateral damage which infuriated the Afghans against the Americans more than against the Taliban. 
 
 ![War](https://sorasystem.sirv.com/photos/war.jpg)
 
