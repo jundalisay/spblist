@@ -1,5 +1,5 @@
 ---
-title: "Mental Purity Required"
+title: "Tantric Yaksinii Sadhana"
 heading: "Chapter 5"
 description: "Formerly, some people used to perform yakśińii sádhaná according to the prescribed Tantric rituals"
 image: "/covers/mv.png"

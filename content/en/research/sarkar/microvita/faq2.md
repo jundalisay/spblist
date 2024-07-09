@@ -1,7 +1,7 @@
 ---
-title: "FAQ on Microvita – Section B"
-heading: "FAQ Section B"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+title: "How Do Microvita Affect Males and Females/"
+heading: "FAQ on Microvita Part 2 Section B"
+description: "Is there any difference of sex in protoplasms, as there is in the case of developed plants and animals?"
 image: "/covers/mv.png"
 writer:
   name: PR Sarkar
@@ -11,24 +11,21 @@ date: 1987-09-25
 ---
 
 
-{{< r a="Q" >}}
-Q: Is there any difference of sex in protoplasms, as there is in the case of developed plants and animals?
+{{< r a="Question" >}}
+Is there any difference of sex in protoplasms, as there is in the case of developed plants and animals?
 {{< /r >}}
 
 
-
-{{< l a="A" >}}
-A: In the case of unicellular and multicellular protozoa, the entity is divided by self-dividing processes – by an inner fissiparous tendency. So the question of sex difference does not arise as in the case of animals or plants. 
+{{< l a="Sarkar" >}}
+In the case of unicellular and multicellular protozoa, the entity is divided by self-dividing processes – by an inner fissiparous tendency. So the question of sex difference does not arise as in the case of animals or plants. 
 
 But there are sex differences in the case of metazoic cells. The human body is the most complex multicellular metazoic structure.
 
-The male structure has more microvita than the female structure. 
-
-The sex difference is due to the number of microvita. 
+**The male structure has more microvita than the female structure. The sex difference is due to the number of microvita.**  
 {{< /l >}}
 
 
-{{< l a="A" >}}
+{{< l a="Sarkar" >}}
 Suppose in the male protoplasm the number of microvita is 10 billion, then in the female protozoa there are 5 billion. Not only the number, but also the varieties of microvita in the male and female structures differ. 
 
 The male body can tolerate the application of positive or negative microvita after the formation of semen starts. 
@@ -41,69 +38,83 @@ A female body or a male child in whom semen formation has not yet started, canno
 {{< /l >}}
 
 
-{{< l a="A" >}}
-Yet females or children will also enjoy divine bliss if they satisfy Parama Puruśa. 
-
-Only by His grace, by the grace of the supreme, can one attain divine bliss by satisfying Him. In anything and everything human might, human power and human brain are extremely limited. Everyone depends on Him.
+{{< l a="Sarkar" >}}
+Yet females or children will also enjoy divine bliss if they satisfy Parama Puruśa. Only by His grace, by the grace of the supreme, can one attain divine bliss by satisfying Him. In anything and everything human might, human power and human brain are extremely limited. Everyone depends on Him.
 
 In the past there was no mass imposition of positive microvita. For the first time the collective application of the positive microvita is being done to elevate the spiritual standard of the general mass.
 {{< /l >}}
 
-{{< r a="Q" >}}
-Q: What causes an unpleasant odour in the body?
+{{< r a="Question" >}}
+What causes an unpleasant odour in the body?
 {{< /r >}}
 
-{{< l a="A" >}}
-A: Due to the accumulation of dead protoplasmic cells, a bad smell arises in the body. The reason for this is not taking a proper bath and washing away the dead cells. 
+{{< l a="Sarkar" >}}
+Due to the accumulation of dead protoplasmic cells, a bad smell arises in the body. The reason for this is not taking a proper bath and washing away the dead cells. 
 
 In certain animals and plants, due to the secretion of smelly hormones, an unpleasant odour is emitted from the body. Everyone should take a bath at regular intervals to clean the body and eat vegetarian food.
 {{< /l >}}
 
 
-{{< r a="Q" >}}
-Q: Can you say whether micropsychic movement in individual life or in collective life, in animate or inanimate objects, is of unilateral order or of multilateral order too?
+{{< r a="Question" >}}
+Is micropsychic movement in individual or collective life, animate or inanimate objects, of unilateral or multilateral order?
 {{< /r >}}
 
 
+{{< l a="Sarkar" >}}
+Everything in this world, whether animate or inanimate, moves. Everywhere movement is from imperfection towards perfection, but in circum-rotarian style.
 
-{{< l a="A" >}}
-A: Everything in this world, whether animate or inanimate, moves. Everywhere movement is from imperfection towards perfection, but in circum-rotarian style. 
+Not only microcosms but ectoplasms [lower mind] or microvita also move from imperfection towards perfection in circumferential style. 
 
-Not only microcosms but ectoplasms or microvita also move from imperfection towards perfection in circumferential style. 
+Microvita collectively, with the coverage of endoplasm [higher mind], moves in the same style. 
 
-Those microvita, or say the collective form of microvita, with the coverage of endoplasm, move in the same style. Each and every microvitum moves according to propensive propulsion wrought by the Macrocosm. Impact and tactuality both come from the Macrocosm. 
+Each and every microvitum moves according to propensive propulsion wrought by the Macrocosm. Impact and tactuality both come from the Macrocosm.
 
-As the microcosm is the unit “I” feeling, it cannot move in so many directions, but it appears to move in many directions. 
+The microcosm is the unit “I” feeling. It cannot move in so many directions, even if it appears to move in many directions.
 
-Because movement is always from imperfection to perfection in circumferential style in the unit body, although the movement is in so many directions in the case of the unit “I” or microcosm, the movement is always unilateral, not unilineal.
+Movement is always from imperfection to perfection in circumferential style in the unit body.
+
+In the case of the unit “I” or microcosm, the movement is always unilateral in so many directions, not unilineal.
 {{< /l >}}
 
 
-{{< r a="Q" >}}
-Q: What is the relationship between the collective body of ectoplasm and microcosm, and the relationship between endoplasm and microcosm? 
-
-Is there an inter-ectoplasmic gap that links up the unit mind with something external?
+{{< r a="Question" >}}
+What is the relationship between the collective body of ectoplasm [lower mind] and microcosm, and the relationship between endoplasm [higher mind] and microcosm? Is there an inter-ectoplasmic gap that links up the unit mind with something external?
 {{< /r >}}
 
 
-{{< l a="A" >}}
-A: So many microcosms, so many microvita, are there. They have not got clear “I” feeling. Their existence is more of physical nature than of psychic nature. 
+{{< l a="Sarkar" >}}
+There are so many microcosms and microvita. **Microvita do not have the clear “I” feeling**. Their existence is more of physical nature than of psychic nature.* 
 
-The collective body of microvita is another name of carbon atom. Carbon atom is another name of so many microvita with so many specialities, with so many characteristics. 
+> *Superphysics Note: This is parallel to Elements of the Physical Domain. Therefore, microvita are the Elements of the Metaphysical Domain, as the Lower Mind of the Supreme, just as souls are the Higher Mind of the Supreme. 
 
-The collective body of microvita is the collective “I” feeling maintaining a relationship with the physical body. There is no such relationship in the case of a dead physical structure. 
 
-The relationship is inert. In animate and inanimate objects there is the intra-atomic gap; there is the intra-microvitum gap, inter-carbonic gap and so on, but these gaps are not vacua. They are filled with macropsychic conation.
+The collective body of microvita is another name of carbon atom. The carbon atom is another name of so many microvita with so many specialities, with so many characteristics. 
+
 {{< /l >}}
 
 
+{{< l a="Sarkar" >}}
+<!-- collective body of microvita -->
+The living carbon atom, as microvita, is the collective [unclear] “I” feeling maintaining a relationship with the physical body. There is no such relationship in the case of a dead physical structure. 
 
-{{< l a="A" >}}
-The collective body of microvita is carbon atom, and when carbon atoms are in cohesion with other carbonic atoms, “I” feeling is created. As coverage of these collective bodies there is endoplasm.
+When such carbon atoms are in cohesion with other carbonic atoms, a [clearer] “I” feeling is created. As coverage of these collective bodies, there is endoplasm [higher mind].
 
-In animate objects there are intra-protoplasmic and inter- protoplasmic gaps. These gaps are also not vacua; they are also filled with macropsychic conation.
+The relationship is inert. In animate and inanimate objects there is:
+- intra-atomic gap
+- the intra-microvitum gap
+- inter-carbonic gap
+- and so on
 
-So far as a microcosm is concerned, it is composed of ectoplasm but the movement of ectoplasm is decided by the movement of microvita. They move in circum-rotarian style wrought by Macrocosm.
+**But these gaps are not a vacuum. They are filled with macropsychic conation.** *
+
+> *Superphysics Note: This is the same as Descartes asserting that there is no Void in Nature.
+
+
+In animate objects there are intra-protoplasmic and inter- protoplasmic gaps. These gaps are also not a vacuun. They are also filled with macropsychic conation.
+
+The microcosm is composed of ectoplasm [lower mind]. **But the movement of ectoplasm [lower mind] is decided by the movement of microvita**.* They move in circum-rotarian style wrought by Macrocosm.
+
+> *Superhysics Note: This is similar to how chi or animal spirits creates passions for the soul.
 {{< /l >}}
 
 

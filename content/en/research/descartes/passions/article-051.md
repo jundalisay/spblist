@@ -62,20 +62,26 @@ I will list all the principal passions in the order in which they can be found.
 These are the main ways our senses can be moved by their objects.
 
 
-## The order and enumeration of the Passions
+## The Order and Enumeration of the Passions
 
 ### 53. Admiration
 
-When the initial encounter with an object surprises us and we judge it to be new, or very different from what we previously knew, or from what we supposed it should be, we admire it and are astonished by it. 
+This is when we first encounter an object which is very positively different from what we previously knew, or from what we supposed it should be.
 
-This can happen before we know in any way whether this object is suitable for us or not, it seems to me that Admiration is the first of all the passions.
+<!-- that surprises us and we judge it to be new, or  -->
+
+We admire it and are astonished by it. 
+
+This can happen before we know how this object can be suitable for us or not. I think that Admiration is the first of all the passions.
 
 It has no opposite, because if the object presented to us does not contain anything that surprises us, we are not moved by it at all, and we consider it without passion.
 
 
 ### 54. Esteem and Disdain, Generosity or Pride, and Humility or Meanness
 
-To Admiration is added Esteem or Disdain, depending on whether it is the greatness or smallness of an object that we admire. And in this way, we can esteem or disdain ourselves: hence arise the passions and subsequently the habits of Magnanimity or Pride, and of Humility or Meanness.
+To Admiration is added Esteem or Disdain, depending on whether it is the greatness or smallness of an object that we admire.
+
+In this way, we can esteem or disdain ourselves: hence arise the passions and subsequently the habits of Magnanimity or Pride, and of Humility or Meanness.
 
 
 ### 55. Veneration and Scorn
@@ -85,7 +91,9 @@ But when we esteem or disdain other objects that we consider as free causes capa
 
 ### 56. Love and Hatred
 
-All the preceding passions can be aroused in us without us perceiving in any way whether the object causing them is good or bad. But when a thing is represented to us as good for us, that is to say, as suitable for us, this causes us to have Love for it; and when it is represented to us as bad or harmful, this arouses Hatred in us.
+All the preceding passions can be aroused in us without us perceiving in any way whether the object causing them is good or bad. 
+
+But when a thing is represented to us as good for us, that is to say, as suitable for us, this causes us to have Love for it; and when it is represented to us as bad or harmful, this arouses Hatred in us.
 
 
 ### 57. Desire
@@ -106,14 +114,16 @@ Conversely, extreme Fear becomes Despair.
 
 ### 59. Indecision, Courage, Boldness, Emulation, Cowardice, and Terror.
 
-Thus we can hope and fear, even though the outcome of what we expect does not depend at all on us. But when it is represented to us as depending on us, there may be difficulty in choosing the means or in executing them. 
+Thus we can hope and fear, even though the outcome of what we expect does not depend at all on us. 
+
+But when it is represented to us as depending on us, there may be difficulty in choosing the means or in executing them. 
 
 From the former arises Indecision, which disposes us to deliberate and seek counsel. Courage or Boldness opposes the latter, of which Emulation is a kind. And Cowardice is contrary to courage, just as Fear or Terror is to Boldness.
 
 
 ### 60. Remorse
 
-And if one has determined upon some action before Indecision is removed, this gives rise to Remorse of conscience: which does not concern the future like the preceding passions, but rather the present or the past.
+If one has determined upon some action before Indecision is removed, this gives rise to Remorse of conscience: which does not concern the future like the preceding passions, but rather the present or the past.
 
 
 ### 61. Joy and Sadness

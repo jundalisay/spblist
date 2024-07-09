@@ -1,5 +1,6 @@
 ---
-title: "The Theory of Microvita and Its Possible Effects on Society – Section A"
+title: "The Theory of Microvita and Its Possible Effects on Society"
+# Section A
 heading: "Chapter 7"
 description: "Microvitum is the inner secret of life, and of vital progress in three fields"
 image: "/covers/mv.png"
@@ -43,15 +44,23 @@ For example, the recognized formula for green vitriol (ferrous sulphate) is FeSO
 
 But after a chemist is acquainted with the theory of microvita, he will no longer use this formula. 
 
-He or she will prefer to use the new formula – say FeSO4 7H20 (Group A MV 20 million). 
+He will prefer to use the new formula – say FeSO4 7H20 (Group A MV 20 million). 
 
-Take another case, say copper sulphate (blue vitriol) which is CUS04 5H20. 
+Copper sulphate (blue vitriol) is CUS04 5H20. 
 
-But after the theory of microvita is well established, a chemist will use the new formula – CUS04 5H20 (Group B MV 20 million).
+After the theory of microvita is well established, a chemist will use the new formula – CUS04 5H20 (Group B MV 20 million)*.
+
+> *Superphysics Note: Microvita here has quality (as qualitative differences between varities, as Group B) and quantity (as millions)
+
 
 This means the chemical formulae regarding the inner structure of objects is undergoing a tremendous change. 
 
-The size of formulae will be bigger than what they are today. But the denomination of the object and its internal qualities will not be changed. 
+**The size of formulae will be bigger than what they are today.** *
+
+> *Superphysics Note: Our qualimath has the scope for such increased formulas because it allows the notation of qualities 
+
+
+But the denomination of the object and its internal qualities will not be changed. 
 
 There will only be a change in the chemical formulae. 
 
@@ -59,7 +68,7 @@ A scientist in the microvita age will refuse to accept the carbon atom as the ru
 
 All microvita are not of the same type. There are qualitative differences amongst different varieties of microvita.
 
-In modern biology, protoplasmic cells are made of carbon atoms. But in the microvita age, the biologist will say that the protoplasmic cells are not made of carbon atoms. Rather, they are the collective solidified form of innumerable microvita. 
+In modern biology, protoplasmic cells are made of carbon atoms. But in the microvita age, the biologist will say that the protoplasmic cells are not made of carbon atoms. Rather, they are the collective solidified form of innumerable microvita.
 
 By controlling the microvita of the protoplasmic cells, big changes can be effected within the human body. 
 
@@ -69,7 +78,7 @@ Their mental qualities and capabilities can be enlarged by supplying microvita i
 
 The theory of microvita has immense potentialities in introducing numerous changes in human society. 
 
-Changing microvita will cause ectoplasmic changes. This in turn will bring about endoplasmic change. 
+Changing microvita will cause ectoplasmic changes [lower mind]. This in turn will bring about endoplasmic change [higher mind]. 
 
 Thus, the mind will be able to control the organism, the physical body, in a better way.
 
@@ -79,12 +88,11 @@ These changes will take place in the internal sphere as much as in the external 
 
 The personalities of human beings will not be the same as they are now. 
 
-Due to changes in the nerve cells, a change in the ectoplasmic cells also occurs. As a result, the effulgence of the body changes.
+Due to changes in the nerve cells, a change in the ectoplasmic cells [cells with lower mind] also occurs. As a result, the effulgence of the body changes.
 
 In the age of microvita, the appearance of the physical body will change. 
 
 Human beings will become more psychic than physical. In the next phase, they will become more spiritual than psychic.
-
 
 
 15 September 1987, Calcutta

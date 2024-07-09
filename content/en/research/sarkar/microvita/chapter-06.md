@@ -16,15 +16,15 @@ According to their nature, microvita(1) are of 3 types:
 2. Ordinary
 3. Positive
 
-Negative microvita function on their own through nature, while positive microvita function through specially created waves.
+Negative microvita function on their own through nature, while positive microvita function through specially-created waves.
 
-Negative microvita primarily function in the múládhára and svádhiśt́hána cakras and gradually rise upwards. 
+Negative microvita primarily function in the múládhára [base chakra] and svádhiśt́hána cakras [sex chakra] and gradually rise upwards.
 
 If negative microvita are applied to the upper cakras, they will function very rapidly. But this may cause death to human beings.
 
-That is why negative microvita by nature function in the lower cakras of the human body. 
+This is why negative microvita function in the lower cakras of the human body. 
 
-Their influence is mostly felt in the pain and disease of the kidneys, loins, waste, etc. 
+**Their influence is mostly felt in the pain and disease of the kidneys, loins, waste, etc.** 
 
 **Negative microvita function very perceptibly in the reproductive and excretory organs.** 
 
@@ -34,26 +34,31 @@ Ordinary microvita may affect the kidneys, liver, abdomen, chest, etc.
 
 **Positive microvita are never spread through nature.** 
 
-A mighty personality, a Sadguru, if He so wishes, may emanate positive microvita through His own waves, and thus create similar vibrations in the male human body though positive microvita. 
+A mighty personality, a Sadguru, may emanate positive microvita through His own waves. This creates similar vibrations in the male human body though positive microvita. 
 
-Here, the male body are those above 24 years of age.
+- The male body are those above 24 years of age.
+- The undeveloped male body is that which is less than 24 years old.
 
-The undeveloped male body is that which is less than 24 years old.
+Shukra is a vital fluid which has three stages:
 
-Although shukra [a vital fluid which has three stages – lymph, spermatozoa and seminal fluid] is produced, the semen is not yet fully nourished or developed. 
+1. Lymph
+2. Spermatozoa
+3. Seminal fluid
 
-In the male body, shukra starts being produced at the age of 12-13. 
+<!-- In undeveloped male bodies, shukra is produced. But the semen is not yet fully nourished or developed.  -->
 
-It may be subsequently turned into semen. But that semen is not fully nourished semen before the male is 24 years old.
+In the male body, shukra starts being produced at the age of 12-13.
+- Shukra [as lymph] may be subsequently turned into semen. 
+- But that semen is not fully nourished semen before the male is 24 years old.
 
-Consequently, I usually treat 30 year old males as the standard age for being a medium for receiving positive microvita.
+Consequently, I usually treat **30 year old males** as the standard age for being a medium for receiving positive microvita.
 
-Young brahmacáriis [trainee monks below twenty-four years old] always try to preserve their semen, hence their nerves are healthy. 
+Young brahmacáriis [trainee monks below 24 years old] always try to preserve their semen, hence their nerves are healthy.
 
 In the case of females, whether they are young or old, they discharge ova and other materials during their monthly menstrual cycle, and hence their nerves are weak.
 
-As boys younger than 12-13 do not develop semen. They are very sentimental, like women. 
-- There is little difference between boys and girls up to to the age of 12-13. 
+Boys younger than 12-13 do not develop semen, and so they are very sentimental, like women. 
+- There is little difference between boys and girls up to the age of 12-13. 
 
 After the age of 12-13, ova are created in the female body. But that is usually ejected from the body at a particular period in every month, hence the nerves in the female body are comparatively weak.*
 
@@ -112,5 +117,3 @@ In the case of women and children, they will bring instant death. This is also t
 ## Footnotes
 
 (1) Entities which come within the realms both of physicality and of psychic expression. They are smaller and subtler than physical atoms and sub-atomic particles, and in the psychic realm they may be subtler than ectoplasm (citta, or mind-stuff). –Trans.
-
-

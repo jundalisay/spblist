@@ -34,7 +34,9 @@ We did not comprehend the subject’s confusion about his identity.
 
 Then we understood: the dead body was the medium, and the entity speaking through it was the bodiless soul of Shri Lahiri Mahasaya.
 
-“Very well”, said Baba. “Now that you are here, do some work for us”.
+{{< l a="Baba" >}}
+Very well. Now that you are here, do some work for us
+{{< /l >}}
 
 “I am ready”.
 
@@ -46,29 +48,43 @@ Sometimes Baba replied at length, but other times He cut it short, saying, “I 
 
 Now, it seemed, ‘later’ had finally come.
 
-“Go to the planet Mars”, commanded Baba.
+{{< l a="Baba" >}}
+Go to the planet Mars
+{{< /l >}}
 
-A few seconds elapsed, and the bodiless soul replied,”Yes. I am there”.
+A few seconds elapsed, and the bodiless soul replied, ”Yes. I am there”.
 
-“Is there any life there?”
+{{< l a="Baba" >}}
+“Is there any life there? What do you see there?”
+{{< /l >}}
 
-“I do not recognise any life here”
 
-“What do you see there?”
+“I do not recognise any life here. It appears to be marshy land all around. Algae or weedlike growth seem to be present”.
 
-“It appears to be marshy land all around. Algae or weedlike growth seem to be present”.
-
-“All right”, said Baba. “Now go to the earth’s moon”.
+{{< l a="Baba" >}}
+All right. Now go to the earth’s moon.
+{{< /l >}}
 
 Shortly the bodiless soul responded, “I am there”.
 
+{{< l a="Baba" >}}
 “What do you see there?”
+{{< /l >}}
 
-“Vast, dead deserts and mountains”.“Is there any life form?”
+
+
+“Vast, dead deserts and mountains”.
+
+{{< l a="Baba" >}}
+Is there any life form?
+{{< /l >}}
 
 “No. There is no oxygen here”.
 
-“Now go inside the land”, directed Baba. “Do you recognise any familiar substances?”
+{{< l a="Baba" >}}
+Now go inside the land. Do you recognise any familiar substances?
+{{< /l >}}
+
 
 “Yes. There is gold in the soil”.
 
@@ -76,11 +92,12 @@ These exchanges filled us with wonder. At no time since entering the room did Ba
 
 Soon Baba instructed the bodiless soul to go to the planet Venus.
 
-“Is there any life form on Venus?” asked Baba.
+{{< l a="Baba" >}}
+Is there any life form on Venus?
+{{< /l >}}
 
-“Yes, but it is very different from ours. They are highly developed spiritually.
 
-Their complexion is somewhat reddish. Even the most ordinary life form here is more advanced than the spiritually advanced people of the earth”.
+“Yes, but it is very different from ours. They are highly developed spiritually. Their complexion is somewhat reddish. Even the most ordinary life form here is more advanced than the spiritually advanced people of the earth”.
 
 Baba then recalled him back to earth and directed him to a Himalayan cave, where a yogii conversed with Baba through the bodiless soul. Baba also sent him on missions to Washington D.C. and Moscow. 
 
@@ -88,7 +105,10 @@ For political reasons, it is better that I not disclose details of those journey
 
 With that, Baba brought the demonstration to a conclusion.
 
-“Remember”, cautioned Baba, His eyes stern, “No-one is to tell this sadhaka what has happened here”.
+{{< l a="Baba" >}}
+Remember, no-one is to tell this sadhaka what has happened here.
+{{< /l >}}
+
 
 Solemnly, our gaze fixed on Him, we acknowledged His instructions with our silence.
 
@@ -96,9 +116,11 @@ The eyes of the dead body closed as Baba gave the bodiless soul of Shyam Charan 
 
 The mouth of the subject was open. The sight of the corpse before us caused us some anxiety. The atmosphere was tense but quiet.
 
-Baba broke the silence with a commanding voice: “Wherever may be the soul and prana vayu of this person in the great Void, let it come down to this earth immediately!”
+Baba broke the silence with a commanding voice: 
 
-After a moment, Baba said, “From the earth let it come to India. In India, let it come to Bihar state. From Bihar let it come to Jamalpur town of Monghyr District and then enter the Quarter Number 339EF of the Railway Colony of Rampur”.
+{{< l a="Baba" >}}
+Wherever may be the soul and prana vayu of this person in the great Void, let it come down to this earth immediately! From the earth let it come to India. In India, let it come to Bihar state. From Bihar let it come to Jamalpur town of Monghyr District and then enter the Quarter Number 339EF of the Railway Colony of Rampur
+{{< /l >}}
 
 As Baba directed the sadhaka’s soul to the very room in which we sat, the suspense was phenomenal. 
 

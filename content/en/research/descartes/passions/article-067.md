@@ -28,6 +28,7 @@ All the others are composed of some of these six, or are their species.
 
 <!-- Therefore, to avoid confusing the readers with their multitude, I will treat separately here the six primitive passions, and afterwards I will show in what way all the others derive their origin from them. -->
 
+
 ### 70. Definition and Cause of Admiration
 
 Admiration is a sudden surprise of the soul, which causes it to consider with attention objects that appear rare and extraordinary to it.
@@ -37,11 +38,13 @@ Thus admiration is caused firstly by the impression in the brain, which represen
 Then subsequently by the movement of the spirits, which are disposed by this impression to tend with great force towards the part of the brain where it is located, to strengthen and maintain it there; just as they are disposed by it to pass from there into the muscles that serve to keep the organs of the senses in the same position they are, so that it may be further sustained by them, if it is formed by them.
 
 
-### 71. There is no change in the heart or in the blood in Admiration.
+### 71. There is no change in the heart or in the blood in Admiration
 
 Admiration has the peculiarity that it is not noticed to be accompanied by any change that happens in the heart and in the blood, as the other passions.
 
-This is because it does not have good or evil as its object, but only knowledge of the thing that is admired. And so, it has no connection with the heart and blood, from which all the good of the body depends. It only connects with the brain, where the organs of the senses that serve this knowledge are.
+This is because it does not have good or evil as its object, but only knowledge of the thing that is admired. 
+
+And so, it has no connection with the heart and blood, from which all the good of the body depends. It only connects with the brain, where the organs of the senses that serve this knowledge are.
 
 
 ### 72. The force of Admiration is made up of what?

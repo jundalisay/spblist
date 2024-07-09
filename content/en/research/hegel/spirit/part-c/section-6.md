@@ -4,7 +4,7 @@ title: "Spirit"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png
 author: Hegel
-weight: 12
+weight: 13
 ---
 
 

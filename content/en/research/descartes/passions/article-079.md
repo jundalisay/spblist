@@ -53,12 +53,13 @@ And if one judges it a good to possess it, or to be associated with it in some o
 There are many species of Love as there are diverse objects one can love. 
 
 For example:
-- the love of an ambitious person for glory
-- the love of a miser for money
-- the love of a drunkard for wine
-- the love of a brute for a woman he wishes to violate
-- the love of a person of honor for his friend or for his mistress
-- the love of a good father for his children
+1. The love of an ambitious person for glory
+2. The love of a miser for money
+3. The love of a drunkard for wine
+4. The love of a brute for a woman he wishes to violate
+5. The love of a person of honor for his friend or for his mistress
+6. The love of a good father for his children
+
 
 These are different from each other yet they are similar insofar as they participate in Love. 
 
@@ -66,12 +67,18 @@ But the first four have Love only for the possession of the objects to which the
 
 They do not love the objects themselves, for which they have only desire mixed with other particular passions. 
 
-Whereas the Love that a good father has for his children is so pure that he desires nothing from them, and he does not want to possess them in any other way than he already does, nor to be more closely united with them than he already is: but considering them as other selves, he seeks their good as his own, often preferring their interests to his own, and does not hesitate to sacrifice himself to save them. 
+Whereas the Love that a good father has for his children is so pure. He desires nothing from them. 
 
-The affection people of honor have for their friends is of the same nature, although it is rarely so perfect; and the affection they have for their mistress shares much in this, but it also shares a little in the other.
+He does not want to possess them in any other way than he already does, nor to be more closely united with them than he already is.
+
+But considering them as other selves, he seeks their good as his own, often preferring their interests to his own, and does not hesitate to sacrifice himself to save them. 
+
+The affection that people of honor have for their friends is of the same nature, although it is rarely so perfect. 
+
+The affection that they have for their mistress shares much in this, but it also shares a little in the other.
 
 
-### 88. The difference between simple Affection, Friendship, and Devotion.
+### 88. The Difference between Simple Affection, Friendship, and Devotion.
 
 One can better distinguish Love by the esteem one holds for what one loves in comparison to oneself. 
 
@@ -149,9 +156,9 @@ This is because what comes to the soul through the senses affects it more strong
 Thus, of all the passions, these are the ones that deceive the most, and against which one must be most carefully on guard.
 
 
-### 86. The Definition of Desire.
+### 86. The Definition of Desire
 
-The passion of Desire is an agitation of the Soul caused by the spirits. It disposes the Soul to wish for things in the future that it represents to itself as suitable.
+Desire is an agitation of the Soul caused by the spirits. It disposes the Soul to wish for things in the future that it represents to itself as suitable.
 
 Thus, one desires not only the presence of absent good, but also the preservation of what is present; and furthermore, the absence of evil, both of that which one already has and of that which one believes one could receive in the future time.
 
