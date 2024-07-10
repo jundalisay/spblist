@@ -70,10 +70,21 @@ PARÁ SHÁNTI. Absolute peace, supreme beatitude.
 
 PARAMÁ PRAKRTI. Supreme Operative Principle.
 
-PARAMÁTMÁ, PARAMÁTMAN. Supreme Consciousness in the role of witness of His own macropsychic conation. Paramátman comprises: (1) Puruśottama, the Macrocosmic Nucleus; (2) Puruśottama’s association with all creation in His extroversial movement (prota yoga); and (3) Puruśottama’s association with each unit creation individually (ota yoga) and (4) with all collectively (prota yoga) in His introversial movement.
+PARAMÁTMÁ, PARAMÁTMAN. Supreme Consciousness in the role of witness of His own macropsychic conation. 
+
+Paramátman is made up of:
+1. Puruśottama, the Macrocosmic Nucleus
+2. Puruśottama’s association with all creation in His extroversial movement (prota yoga)
+3. Puruśottama’s association with each unit creation individually (ota yoga)
+4. Puruśottama’s association with all collectively (prota yoga) in His introversial movement.
+
+
 PARÁVIDYÁ. Spiritual knowledge, knowledge of the Great.
+
 PRAKRTI. Cosmic Operative Principle.
+
 PRÁŃÁH. Vital energy.
+
 PRÁŃÁYÁMA. Process of controlling vital energy by controlling the breath; a lesson of Ananda Marga meditation.
 PRATISAIṊCARA. In the Cosmic Cycle, the step-by-step introversion and subtilization of consciousness from the state of solid matter to Nucleus Consciousness. (Prati means “counter” and saiṋcara means “movement”.)
 PURUŚABHÁVA. Cognitive bearing, stance or aspect of Consciousness.

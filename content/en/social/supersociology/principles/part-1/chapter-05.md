@@ -40,13 +40,12 @@ The four classes and cycles mirror the four varnas of Hinduism:
 
 We then match them roughly to the modern classification:
 
-Class Name | Adjective | Political Class | Hindu | Socrates
---- | --- | --- | --- | ---
-Workers | Working | Socratic* Liberals | Shudras | Democrats
-Warriors | Warrior | Socratic Neoconservatives | Ksattriyas | Tyrants
-Thinkers | Thinking | Socratic Conservatives | Brahmins | Aristocrat-Philosophers
-Traders | Trading | Socratic Neoliberals | Vaesyas | Oligarchs
-
+Class Name | Political Class | Hindu | Socrates
+--- | --- | --- | ---
+Workers | Socratic* Liberals | Shudras | Democrats
+Warriors | Socratic Neoconservatives | Ksattriyas | Tyrants
+Thinkers | Socratic Conservatives | Brahmins | Aristocrat-Philosophers
+Traders | Socratic Neoliberals | Vaesyas | Oligarchs
 
 > *We add 'Socratic' to separate them a bit from the modern classification, while having some resemblance 
 
@@ -88,11 +87,14 @@ Society must therefore have its infancy, youth, manhood, and old age, similar to
 {{< /q >}}
 
 
-## Universal Relativity 
+## Theory of Universal Relationality
 
-We plug in this model into our [equation-for-everything](/superphysics/principles/chapter-04c) to come up with something for machine learning to work on:
+We plug in this model into our [equation-for-everything](/superphysics/principles/chapter-04c)* to come up with something for machine learning to work on:
 
 ![Universal Relativity](/graphics/social/cycle.png)
+
+
+> Our equation for everything is based on Poincare's Law of Relativity which is consistend with the Relativty of Rene Descartes which is most of the basis of Material Superphysics. Poincare's Relativity was replaced by Einstein's sophistical Relativity which locked humans into their current sad reality without nuclear fusion or anti-gravity. 
 
 
 <!-- 
@@ -101,6 +103,8 @@ In The Republic, Socrates describes the four cycles of society
 
 Political changes, from conservative & authoritarian, to liberal & democratic, and vice-versa, are manifestations of the changing stages in the lifespan of a society-organism, which itself is a metaphysical wave, just a soul is a wave manifesting physically as a 'lifetime' of a human, plant, or animal -- all made up of particles.  The predictions on social changes falls under our proposed field of Supersociology which finds the patterns of these waves, in the same way that prophets and oracles have done, but using data science instead of intuition. This is what ISAIAH will do. 
  -->
+
+Social Cycles explain why and how history repeats itself since reality is a wave, and waves are **always related** to previous and future waves. We give a short story below as an example.
 
 
 {{< box >}}
@@ -141,7 +145,16 @@ Economic Superphysics, the subset of Social Superphysics, explains that the cycl
 3. The Trading or Vaeshya class comes from the [the Third law of Value](/social/economics/principles/part-3/chapter-01)
 4. The Warrior or Ksattriya class comes from [the Fourth law of Value](/social/economics/principles/part-4/chapter-01)
 
-The thinking class is the closest to the metaphysical dimension while the worker class is the closest to physical dimenion. 
+
+So there are 4 cycles or classes the cycles are based on desire-energy and energy in this universe obeys 4 laws of thermodynamics. 
+
+**Why does thermodynamics have 4 laws?** 
+
+This is because there are 2 forces:
+1. Positive Yang/Shiva (aethereal) 
+2. Negative Yin/Shakti (material). 
+
+The thinking class is the closest to the aethereal while the worker class is the closest to material. 
 
 
 ## So what's the purpose of Social Cycles?
@@ -150,7 +163,7 @@ Prediction!
 
 If you know things happen in a regular cycle, then you can predict what will happen. In fact, this is how we predicted [the crisis years starting in 2019](/social/supersociology/precrisis-years).
 
-We also have a [running list of predictions](/social/cycles/predictions/) to prove that cycles work and that we are inside a Matrix.
+We also have a [running list of predictions](/social/cycles/predictions/) **to prove that cycles work and that we are inside a Matrix**.
 
 We use these correct predictions to prove the solidity of the principles discovered by <!-- Francis Bacon, --> Socrates, David Hume, Hinduism, Buddhism, and Taoism. This is similar to how the solidity of Newtonian Physics was proven by the correct prediction of the arrival of Haley's comet.
 

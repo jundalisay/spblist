@@ -21,23 +21,43 @@ Overhauled on  to harmonize Socrates with Hume and Smith
 
 -->
 
-Modern Sociology defines a society as "a group of people who live in a defined geographic area, who interact with one another, and who
-share a common culture."
+Modern Sociology defines a society as "a group of people who live in a defined geographic area, who interact with one another, and who share a common culture."
 
 Our definition looks at society from a metaphysics-first perspective. We define a society as a kind of metaphysical organism or mind that is made up of individual minds that agree to be part of that society either implicitly or explicitly.
 
 - Implicit agreement is by convenience. 
 - Explicit agreement is by choice. 
 
+
+## Oversoul-Soul, Paramatman-Atman 
+
+So it uses the Superphysics concept of **oversoul-soul** which is then derived from the mechanics of **compound ideas** being made up of **simple ideas** (i.e. each soul is an idea of the Supreme Entity). 
+
+{{< img src="/graphics/meta/compound.jpg" alt="Compound ideas" >}}
+
+
+This is fully explained by Parmenides and by Eastern Philosophy.
+
+
+{{< q a="Parmenides" c="Parmenides by Plato, Chapter 2" >}}
+The One itself, then, having been broken up into parts by being, is many and infinite. This means that not only the One which has being is many, but the One itself, distributed by being, must also be many
+{{< /q >}}
+
+
+{{< q a="Sarkar" c="Idea and Ideology, Chapter 1" >}}
+Since the mind exists, the mental plate exists, and the reflection of Paramatman must remain. The Átman, therefore, remains associated with the jiivátman. The ultimate knowership, doership and base of existence lie in the átman.
+{{< /q >}}
+
+
 Science views the abstract mind as coming from the physical brain.
 
-In contrast, Superphysics views brain activity as coming from the abstract mind. This is why use the word 'soul' or 'aethereal mind' instead to refer to a society. 
+In contrast, Superphysics views brain activity as coming from the abstract mind. This is why we instead use the word 'soul' or 'aethereal mind' to refer to a society.
 
 In this way, a society can refer to:
 - the soul of society, or
-  - This the source of its culture in the abstract
+  - This the source of its culture in the abstract (e.g. why the Chinese chose chopsticks i.e. why the aethereal Chinese collective mind absorbed and assimilated the idea of using chopsticks as opposed to the rival idea of using hands or spoon and fork to eat)
 - the physical society
-  - This the source of its culture in the physical sense
+  - This the source of its culture in the physical sense (e.g. physical Chinese using physical chopsticks)
 
 
 English | Superphysics | Sanskrit
@@ -90,12 +110,18 @@ This flexibility lets souls send and receive invisible information via intuition
 
 This flexible quality also lets souls merge and agree, as proven by the phrase "the meeting of minds" or "being on the same page". This would be like an orchestra adding more instruments that jive with its style. 
 
+In our earlier example, it would explain that the wavelength of the idea of using chopsticks matched the wavelength of soul of Chinese society and is why it was assimilated into their society's identity. This was different from the European wavelength with matched the idea of spoon and fork better. By knowing the difference between the wavelength of the idea of chopsticks and spoon and fork then we can find a middle-ground vibration that can be acceptable to both Chinese and Europeans so that the wavelength of their societies can be harmonized and be on the same page instead of being contrary and opposing.   
+
+
 Matter and physical objects, on the contrary, cannot occupy the same physical 'page' nor meet at a 'place' without losing their individual identity.
 
-We then call this **merging of the minds or souls** as a society. For example:
+We then call this **merging of the minds or souls** as the formation of society, establishing friendships, creating companies, nation-building, etc. For example:
 - A family begins when a man's soul agrees to unite with a woman's soul which then adds another soul as their child. A divorce is a dissociation of the soul the family back into its component souls
 - A company begins when the souls of the incorporators agree to be bound into a business organization
 - A sports team begins when the souls of playes agree to play together
+
+
+## Common Interest as the Personal-Interest or Conscience of Society
 
 Human society began as families agreeing to work together for mutual benefit, which we call [the common interest](/social/supersociology/principles/part-1/chapter-03). 
 
@@ -134,12 +160,17 @@ This confinement builds ego, which is the feeling for the self. When left unchec
 Rancorous and virulent factions which are inseparable from small democracies. Those factions have so frequently divided their people and disturbed the peace of their democratic governments. 
 {{< /q >}}
 
-{{< q a="Socrates" c="The Simple Republic by Plato, Book 10" >}}
-Are you not aware that the soul of man is immortal and imperishable? ..But reason will not allow us to believe this. It will not let us believe that the soul, in its truest nature, is full of variety, difference, and dissimilarity. 
-{{< /q >}}
-
 {{< q a="Socrates" c="The Simple Republic by Plato, Book 9" >}}
 When the whole soul follows the philosophical principle and there is no division, the several parts are just. 
+{{< /q >}}
+
+
+The ego is built up by the current ideologies of liberalism, materialism, and even science which treats the soul (and therefore the merging of souls) as pseudo-science. And so no one studies it and everyone remains ignorant of how to actually work together to solve so many current problems. 
+
+For example, science knows that countries must work together to stop global warming, but is actually impotent to make them do so. And so the planet heads for a slow extinction thanks to science and the current liberal and materialist beliefs.  
+
+{{< q a="Socrates" c="The Simple Republic by Plato, Book 10" >}}
+Are you not aware that the soul of man is immortal and imperishable? ..But reason will not allow us to believe this. It will not let us believe that the soul, in its truest nature, is full of variety, difference, and dissimilarity. 
 {{< /q >}}
 
 {{< q a="Socrates" c="The Republic by Plato Simplified, Book 4">}}
@@ -156,23 +187,23 @@ It would be easier to prevent the growth of ego by pointing out that no one is p
 - A beautiful woman will have most of her attention on her physical looks, making her deficient in intellect
 - An intelligent man will have most of his attention on abstract ideas, making him deficient in bodily strength or looks
 
-In the above, the common interest is overall personal well-being:
+In the above, the common interest is overall personal well-being.
 
 - A popular politician will spend most of his time interacting with the masses, instead of spending time for policy research
 - A bright researcher will have many good policy-ideas, but will not have the popularity or connections to have them implemented
 
-In the above, the common interest is implementing the right policies
+In the above, the common interest is implementing the right policies.
 
 - A skilled app developer can create a superior app, but might not have the skill to market it 
 - An active marketer can make any app go viral, but might not know how to make an app in the first place
 
-In the above, the common interest spreading useful apps 
+In the above, the common interest spreading useful apps.
 
 {{< q a="Socrates" c="The Republic by Plato Simplified, Book 5, Chapter 2">}}
 Then in our city, the language of harmony and concord will be more often heard than in any other. They will have their pleasures and pains in common. They will have a common interest in the same thing which they will alike call 'my own'. Having this common interest, they will have a common feeling of pleasure and pain. The is because the guardians will have a community of women and children. We called this unity of feeling as the greatest good.
 {{< /q >}}
 
-Thus, the key to common interest is to group everyone according to ideas that would interest them. This would let them gravitate to it and hopefully lower their egos in order to explore that idea further. 
+Thus, the key to common interest is to **group everyone according to ideas that would interest them**. This would let them gravitate to it and hopefully lower their egos in order to explore that idea further. 
 
 For example, we sometimes go to Meetups about the food, technology, artists, and sports that we like. Nowadays, the internet, social networks, and messaging apps like Whatsapp, Zalo, and Viber help us to access such interests virtually. 
 
@@ -233,6 +264,11 @@ Unfortunately, some social apps group people not to build the common interest, b
 
 Those users can then post whatever is in their personal interest which then creates a personal bubble or echo chamber that might go against other bubbles. If left unchecked, it can lead to online conflict, followed by real physical conflict or harm.
 
+> Update 2024: This is even more evident in the discussion site called Reddit, where the ability to express ideas is based on karma points which are from upvotes. This merely strengthens the current ideologies that are creating the current dysfunctional world.   
+
+
+
+
 <!-- traps its users in an echo chamber that can help it serve ads that strike our personal or group interest. 
 
 In addition, Facebook has no active regulator to keep its users united or prevent conflict. This creates disharmony which increases into radicalism since the interactions are often left unchecked* in the name of freedom. -->
@@ -259,9 +295,15 @@ In future posts, we will explain how this moral authority can be implemented by 
  -->
 
  
-We implement his guardians as [ISAIAH](/superphysics/solutions/isaiah) which is the machine learning that will regulate our proposed social pantrynomic network which implements our concept of social networkism desribed here. Thus, social networkism is made up of the following ideas:
+We implement his guardians as [ISAIAH](/superphysics/solutions/isaiah) which is the machine learning that will regulate our proposed points-based economic network which implements our concept of social networkism desribed here. Thus, social networkism is made up of the following ideas:
 
 - The soul of society being made up of individual souls that merge and dissociate flexibly
 - A common interest that unifies such souls together into a society 
 - A moral leader or regulator to protect and grow that common interest
 
+It is similar to the dynamics of a Republic or Aristocracy as described by Socrates and Spinoza. It is not a wild democracy as is in force in the United States and in most countries that allow free elections. 
+
+
+{{< q a="Spinoza" c="Political Treatise, Chapter 11" >}}
+In democracies, it is not the best men who are appointed to govern, but those who happen to be wealthy or to be eldest sons.
+{{< /q >}}

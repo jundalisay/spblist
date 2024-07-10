@@ -60,14 +60,18 @@ That is a tremendous job. Will Zeno take some hypothesis and go through the step
 {{< r a="Zeno" >}}
 Zeno smiling: Let us make our petition to Parmenides himself, who is quite right in saying that you are hardly aware of the extent of the task which you are imposing on him. 
 
-If there were more of us I should not ask him, for these are not subjects which any one, especially at his age, can well speak of before a large audience; most people are not aware that this roundabout progress through all things is the only way in which the mind can attain truth and wisdom. And therefore, Parmenides, I join in the request of Socrates, that I may hear the process again which I have not heard for a long time.
+If there were more of us I should not ask him, for these are not subjects which any one, especially at his age, can well speak of before a large audience.
+
+Most people are not aware that this roundabout progress through all things is the only way in which the mind can attain truth and wisdom.
+
+Therefore, Parmenides, I join in the request of Socrates, that I may hear the process again which I have not heard for a long time.
 {{< /r >}}
 
 When Zeno had thus spoken, Pythodorus, according to Antiphon's report of him, said, that he himself and Aristoteles and the whole company entreated Parmenides to give an example of the process. 
 
-{{< r a="Aristoteles" >}}
+<!-- {{< r a="Aristoteles" >}}
 I am the youngest. Ask, and I will answer.
-{{< /r >}}
+{{< /r >}} -->
 
 <!-- I cannot refuse, yet I feel rather like Ibycus, who, when in his old age, against his will, he fell in love, compared himself to an old racehorse, who was about to run in a chariot race, shaking with fear at the course he knew so well—this was his simile of himself. And I also experience a trembling when I remember through what an ocean of words I have to wade at my time of life. But I must indulge you, as Zeno says that  -->
 
