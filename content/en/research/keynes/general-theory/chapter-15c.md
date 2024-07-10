@@ -33,10 +33,13 @@ But at a level above the rate which corresponds to full employment, the long-ter
 The short-term rate of interest is easily controlled by the monetary authority, both because it is not difficult to produce a conviction that its policy will not greatly change in the very near future, and also because the possible loss is small compared with the running yield (unless it is approaching vanishing point).
 
 The long-term rate may be more recalcitrant when once it has fallen to a level which, on the basis of past experience and present expectations of future monetary policy, is considered “unsafe” by representative opinion.
+
 For example, in a country linked to an international gold standard, a rate of interest lower than prevails elsewhere will be viewed with a justifiable lack of confidence; yet a domestic rate of interest dragged up to a parity with the highest rate (highest after allowing for risk) prevailing in any country belonging to the international system may be much higher than is consistent with domestic full employment.
+
 Thus a monetary policy which strikes public opinion as being experimental in character or easily liable to change may fail in its objective of greatly reducing the long-term rate of interest, because M2 may tend to increase almost without limit in response to a reduction of r below a certain figure.
 
 The same policy, on the other hand, may prove easily successful if it appeals to public opinion as being reasonable and practicable and in the public interest, rooted in strong conviction, and promoted by an authority unlikely to be superseded.
+
 It might be more accurate to say that the rate of interest is a highly conventional, rather than a highly psychological.
 
 Its actual value is largely governed by the prevailing view as to what its value is expected to be. Any level of interest which is accepted with sufficient conviction as likely to be durable will be durable.
@@ -44,6 +47,7 @@ This is subject to fluctuations.
 
 In particular, when M1 is increasing faster than M, the rate of interest will rise, and vice versa.
 But it may fluctuate for decades about a level which is chronically too high for full employment.
+
 Particularly, if it is the prevailing opinion that the rate of interest is self-adjusting, so that the level established by convention is thought to be rooted in objective grounds much stronger than convention.
 
 The failure of Employment to attain an optimum level being in no way associated with the prevalence of an inappropriate range of rates of interest.
@@ -51,16 +55,20 @@ The failure of Employment to attain an optimum level being in no way associated 
 The difficulties in the way of maintaining effective demand at a level high enough to provide full employment, which ensue from the association of a conventional and fairly stable long-term rate of interest with a fickle and highly unstable marginal efficiency of capital, should be, by now, obvious to the reader.
 
 It is because the convention is not rooted in secure knowledge, that it will not be always unduly resistant to a modest measure of persistence and consistency of purpose by the monetary authority.
+
 Public opinion can be fairly rapidly accustomed to a modest fall in the rate of interest and the conventional expectation of the future may be modified accordingly.
 
 Thus preparing the way for a further movement — up to a point.
 The fall in the long-term rate of interest in Great Britain after her departure from the gold standard provides an interesting example of this.
+
 The major movements were effected by a series of discontinuous jumps.
 
 This is because the public's liquidity function is used to each successive reduction. It became ready to respond to some new incentive in the news or in the policy of the authorities.
 
 
-Thus, in any given state of expectation there is in the minds of the public a certain potentiality towards holding cash beyond what is required by the transactions-motive or the precautionary-motive. This will manifest as actual cash-holdings in a degree which depends on the terms on which the monetary authority is willing to create cash. 
+Thus, in any given state of expectation there is in the minds of the public a certain potentiality towards holding cash beyond what is required by the transactions-motive or the precautionary-motive. 
+
+This will manifest as actual cash-holdings in a degree which depends on the terms on which the monetary authority is willing to create cash. 
 
 It is this potentiality which is summed up in the liquidity function `L2`.
 
@@ -72,7 +80,9 @@ Our reason for supposing that there is such a special connection arises from the
 
 If the monetary authority were prepared to deal both ways on specified terms in debts of all maturities, and even more so if it were prepared to deal in debts of varying degrees of risk, the relationship between the complex of rates of interest and the quantity of money would be direct.
 
-The complex of rates of interest would simply be an expression of the terms on which the banking system is prepared to acquire or part with debts; and the quantity of money would be the amount which can find a home in the possession of individuals who — after taking account of all relevant circumstances — prefer the control of liquid cash to parting with it in exchange for a debt on the terms indicated by the market rate of interest. 
+The complex of rates of interest would simply be an expression of the terms on which the banking system is prepared to acquire or part with debts.
+
+The quantity of money would be the amount which can find a home in the possession of individuals who — after taking account of all relevant circumstances — prefer the control of liquid cash to parting with it in exchange for a debt on the terms indicated by the market rate of interest. 
 
 Perhaps a complex offer by the central bank to buy and sell at stated prices gilt-edged bonds of all maturities, in place of the single bank rate for short-term bills, is the most important practical improvement which can be made in the technique of monetary management.
 

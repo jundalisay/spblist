@@ -137,6 +137,7 @@ L1(Y) = Y/V = M1
 V is not constant.
 
 Its value will depend on the character of banking and industrial organisation, on social habits, on the distribution of income between different classes and on the effective cost of holding idle cash.
+
 Nevertheless, if we have a short period of time in view and can safely assume no material change in any of these factors, we can treat V as nearly enough constant.
 
 
@@ -145,6 +146,7 @@ Nevertheless, if we have a short period of time in view and can safely assume no
 Chapter 13 said that uncertainty in the future rate of interest is the sole explanation of the type of liquidity-preference L2 which leads to the holding of cash `M2`.
 
 It follows that a given `M2` will not have a definite quantitative relation to a given rate of interest of r.
+
 What matters is not the absolute level of r, but the degree of its divergence from what is considered a fairly safe level of r, having regard to those calculations of probability which are being relied on.
 
 
