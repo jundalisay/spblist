@@ -1,7 +1,7 @@
 ---
 title: "Functional Languages"
 date: 2023-07-15
-image: /photos/phone.jpg
+image: /photos/tech/phone.jpg
 description: "An economic system that 'streams' value in order to make blockages obsolete."
 # heading: A Tool to Classify Human Ideologies
 writer:

@@ -4,7 +4,7 @@ heading: Chapter 4
 # heading: "Doing what is dharmic and avoiding the adharmic"
 date: 2019-12-17
 weight: 16
-image: "/photos/phone.jpg"
+image: "/photos/tech/phone.jpg"
 description: "Morality is the state of doing what is correct and avoiding the wrong in order to have sustainable happiness for as long as possible and for as many entities as possible"
 writer:
   name: Juan
@@ -20,7 +20,7 @@ In [a previous post](/social/economics/invisible-hand), we explained that everyt
 
 We can say that the dharma of a smartphone in this sense is different from that of a basketball.  
 
-{{< img ava="/photos/phone.jpg" alt="Phone and a smartphone" cap="A smartphone has a nature very different from a basketball" >}}
+{{< img ava="/photos/tech/phone.jpg" alt="Phone and a smartphone" cap="A smartphone has a nature very different from a basketball" >}}
 
 This dharma then leads to the different "do's and dont's" or "moral rules" for handling: 
 - A smartphone must be held carefully and not dropped, but a basketball can be thrown long distances 

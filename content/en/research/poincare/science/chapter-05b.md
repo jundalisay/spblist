@@ -59,19 +59,19 @@ If not, could we say that the experiment has proved the falsity of non-Euclidean
 <!-- It is easy
 to see that this is an idle fear.  -->
 
-In fact, to apply the law of relativity in all its rigour, it must be applied to the entire universe.
+**In fact, to apply the law of relativity in all its rigour, it must be applied to the entire universe.**
 
 If we were to consider only a part of the universe, and if the absolute position of this part were to vary, the distances of the other bodies of the universe would equally vary.
 
-Their influence on the part of the universe considered might therefore increase or diminish. This might modify the laws of the phenomena which take place in it. 
+Their influence on the part of the universe considered might therefore increase or decrease. This might modify the laws of the phenomena which take place in it. 
 
 <!-- But if our system is the entire experiment and geometry.
 
-universe, experiment is powerless to give us any opinion on its position and its absolute orientation in space. 
+universe, -->
 
-All that our instruments, however perfect they may be, can
-let us know will be the state of the different parts of the
-universe, and their mutual distances.  -->
+But experiment is powerless to give us any opinion on its position and its absolute orientation in space. 
+
+All that our instruments can do is to let us know will be the state of the different parts of the universe, and their mutual distances.
 
 Hence, our law of relativity may be enunciated as follows:
 
@@ -79,21 +79,42 @@ Hence, our law of relativity may be enunciated as follows:
 
 Such an enunciation is independent of all interpretation by experiments. 
 
-If the law is true in the Euclidean interpretation, it will be also true in the non-Euclidean interpretation. 
+**If the law is true in the Euclidean interpretation, it will be also true in the non-Euclidean interpretation.**
 
 I have spoken above of the data which define the position of the different bodies of the system. 
 
-I might also have spoken of those which define their velocities. I should then have to distinguish:
+I might also have spoken of those which define their velocities. 
+
+I should then have to distinguish:
 - the velocity with which the mutual distances of the different bodies are changing, and
-- the velocities of translation and rotation of the system; that is to say, the velocities with which its absolute position and orientation are changing. 
+- the velocities of translation and rotation of the system -- the velocities with which its absolute position and orientation are changing. 
 
 The law of relativity would have to be enunciated as follows:
 
 {{< q a="Poincare ">}}
-The state of bodies and their mutual distances at any given moment, as well as the velocities with which those distances are changing at that moment, will depend only on the state of those bodies, on their mutual distances at the initial moment, and on the velocities with which those distances were changing at the initial moment. 
+The state of bodies and their mutual distances at any given moment, as well as the velocities with which those distances are changing at that moment, will depend only on the state of those bodies, on their mutual distances at the initial moment, and on the velocities with which those distances were changing at the initial moment. But they will not depend on the absolute initial position of the system nor on its absolute orientation, nor on the velocities with which that absolute position and orientation were changing at the initial moment.
+{{< /q >}}
+
+
+{{< box >}}
+
+### Superphysics Note:
+
+In other words, the following at the current time:
+- the state of bodies [this is the current timespace]
+- the mutual distances of bodies [this is the current spacetime]
+- the rate of change of those distances [this is the gaps of the slices of spacetime in the aethespace]
+will depend on the intial time:
+- the state of those bodies  at the initial time [this is the initial timespace]
+- the mutual distances of those bodies at the initial time [this is the initial spacetime]
+- the rate of change of those distances at the initial time [this is the gaps of the slices of spacetime in the aethespace from the viewpoint of the intial slice]
+
+Poincare uses the malleable time from the aethereal perspective. This is consistent with the large scale view of Descartes' Relativity and with our concept of timespace, spacetime, and aetherspace. 
+
+{{< /box >}}
+
 
 But they will not depend on the absolute initial position of the system nor on its absolute orientation, nor on the velocities with which that absolute position and orientation were changing at the initial moment.
-{{< /q >}}
 
 
 Unfortunately, the law thus enunciated does not agree with experiments.

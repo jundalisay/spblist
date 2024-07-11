@@ -77,7 +77,7 @@ We apply this to the whole economy, for anything above $100, through lease contr
 
 For example, a person can lease an Android smartphone for $100 from a shop. After 3 years, he might want to upgrade his phone. So he returns the phone and gets a better one worth $150 by paying $50 into the contract.
 
-{{< img src="/photos/phone.jpg" alt="Phone" >}}
+{{< img src="/photos/tech/phone.jpg" alt="Phone" >}}
 
 The shop will then return the phone to the manufacturer for recycling. **The contract will prevent the lessee from switching brands.**
 
