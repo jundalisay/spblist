@@ -1,11 +1,12 @@
 ---
 title: "About Superphysics"
 description: "Superphysics is a unification of Science and Philosophy, Physics with Metaphysics, Matter with the Aether."
-image: /covers/2023.png
+image: /covers/about.jpg
 toc: false
-weight: 100
+weight: 1
 type: "featured"
 ---
+
 
 ## It Began with the Financial Crisis 
 
@@ -98,8 +99,6 @@ Core Team |
 [Lam](https://www.linkedin.com/in/baolamnguyen/) | Joined Juan in 2017 to build Pantrypoints. Like Juan, she has a "Line of Intuition" and "Solomon Ring". She is still trying to get samadhi.
  <!-- Pantrypoints then , likes to read and write about the works from the Enlightenment -->
 <!-- She writes about economics, business, and history -->
-
-
 
 Rest of the Team | 
 --- | ---
