@@ -3,21 +3,22 @@ heading: "Tablet 4b"
 title: "Marduk Defeats Tiamat"
 weight: 11
 image: "/covers/enuma.jpg"
-description: "O Marduk, thou art chiefest among the great gods, your fate is unequaled, thy word is Anu!"
+description: "As Marduk gazed, Kingu was troubled in his gait. His will was destroyed and his motions ceased"
 ---
 
 
-As Marduk gazed, Kingu was troubled in his gait,
-His will was destroyed and his motions ceased.
-And the gods, his helpers, who marched by his side,
-Beheld their leader's..., and their sight was troubled.
+As Marduk gazed, Kingu was troubled in his gait. His will was destroyed and his motions ceased.
+
+The gods, his helpers, who marched by his side, beheld their leader's..., and their sight was troubled.
 
 But Tiamat... , she turned not her neck,
 With lips that failed not she uttered rebellious words:
 "... thy coming as lord of the gods,
 From their places have they gathered, in thy place are they! "
+
 Then the lord raised the thunderbolt, his mighty weapon,
 And against Tiamat, who was raging, thus he sent the word:
+
 Thou art become great, thou hast exalted thyself on high,
 And thy heart hath prompted thee to call to battle.
 
@@ -78,7 +79,8 @@ He conquered, and with the god Dug-ga he counted him.
 
 He took from him the Tablets of Destiny that were not rightly his,
 He sealed them with a seal and in his own breast he laid them.
-Now after the hero Marduk had conquered and cast down his enemies,
+
+After the hero Marduk had conquered and cast down his enemies,
 And had made the arrogant foe even like
 And had fully established Ansar's triumph over the enemy
 And had attained the purpose of Nudimmud,
@@ -93,8 +95,9 @@ And he made the North wind bear it away into secret places.
 
 His fathers beheld, and they rejoiced and were glad;
 Presents and gifts they brought unto him.
-Then the lord rested, gazing upon her dead body,
-While he divided the flesh of the ... , and devised a cunning plan.
+
+Then the lord rested, gazing upon her dead body, while he divided the flesh of the ... , and devised a cunning plan.
+
 He split her up like a flat fish into two halves;
 One half of her he stablished as a covering for heaven.
 

@@ -1,6 +1,6 @@
 ---
 heading: "Tablet 3"
-title: "Ansar and Gaga"
+title: "Ansar Urges Gaga to Fight Tiamat"
 weight: 8
 image: "/covers/enuma.jpg"
 description: "To avenge Apsu, Tiamat planned evil"
@@ -23,18 +23,20 @@ That for Marduk, their avenger they may decree the fate.
 Go, Gaga, stand before them, and all that I tell thee, repeat unto them, and say:
 
 'Ansar, your son, hath sent me,
+
 The purpose of his heart he hath made known unto me.
-The purpose of his heart he hath made known unto me.
-He saith that Tiamat our mother hath conceived a hatred for us,
-With all her force she rageth, full of wrath.
+He saith that Tiamat our mother hath conceived a hatred for us [and repeated her plot]
+
+
+<!-- With all her force she rageth, full of wrath.
 
 All the gods have turned to her,
 With those, whom ye created, they go at her side.
 They are banded together, and at the side of Tiamat they advance;
 They are furious, they devise mischief without resting night and day.
-They prepare for battle, fuming and raging;
+They prepare for battle, fuming and raging; -->
 
-They have joined their forces and are making war.
+<!-- They have joined their forces and are making war.
 
 Ummu-Hubur, who formed all things,
 Hath made in addition weapons invincible; she hath spawned monster-serpents,
@@ -70,7 +72,9 @@ Thy command shall not be without avail, and the word of thy mouth shall be estab
 Now Kingu, thus exalted, having received the power of Anu,
 Decreed the fate for the gods, her sons, saving:
 Let the opening of your mouth quench the Fire-god;
-Whoso is exalted in the battle, let him display his might!"
+Whoso is exalted in the battle, let him display his might!" -->
+
+
 I sent Anu, but he could not withstand her;
 Nudimmud was afraid and turned back.
 

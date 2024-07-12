@@ -1,30 +1,35 @@
 ---
 heading: "Tablet 2"
-title: "The Revenge of Tiamat"
+title: "Ansar Urges Ea to Fight Tiamat"
 weight: 6
 image: "/covers/enuma.jpg"
 description: "To avenge Apsu, Tiamat planned evil"
 ---
 
 
-THE SECOND TABLET
-
 Tiamat made weighty her handiwork,
+
 Evil she wrought against the gods her children.
 
-To avenge Apsu, Tiamat planned evil,
+To avenge Apsu, Tiamat planned evil.
+
 But how she had collected her forces, the god unto Ea divulged.
+
 Ea harkened to this thing
 
 He was grievously afflicted and he sat in sorrow.
 
 The days went by, and his anger was appeased,
+
 And to the place of Ansar his father he took his way.
 
-He went and, standing before Ansar, the father who begat him,
+He went and, standing before Ansar, the father who begat him.
 
-All that Tiamat had plotted he repeated unto him,
-Saying, "Tiamat our mother hath conceived a hatred for us,
+Ea repated Tiamat's plot to him. 
+
+<!-- All that Tiamat had plotted he repeated unto him,
+
+Saying, "Tiamat our mother has conceived a hatred for us,
 With all her force she rageth, full of wrath.
 
 All the gods have turned to her,
@@ -71,13 +76,14 @@ She hath given him the Tablets of Destiny, on his breast she laid them, saying:
 Now Kingu, thus exalted, having received the power of Anu,
 Decreed the fate for the gods, her sons, saying:
 'Let the opening of your mouth quench the Fire-god;
-Whoso is exalted in the battle, let him display his might!'"
+Whoso is exalted in the battle, let him display his might!'" -->
 
-When Ansar heard how Tiamat was mightily in revolt,
-he bit his lips, his mind was not at peace,
+When Ansar heard how Tiamat was mightily in revolt, he bit his lips. His mind was not at peace
+
 ..., he made a bitter lamentation:
 ... battle,
 ... thou...
+
 Mummu and Apsu thou hast smitten
 
 But Tiamat hath exalted Kingu, and where is one who can oppose her?
@@ -88,12 +94,17 @@ But Tiamat hath exalted Kingu, and where is one who can oppose her?
 [A gap of about a dozen lines occurs here.]
 
 Ansar unto his son addressed the word:
+
 "... my mighty hero,
+
 Whose strength is great and whose onslaught can not be withstood,
 Go and stand before Tiamat,
+
 That her spirit may be appeased, that her heart may be merciful.
+
 But if she will not harken unto thy word,
 Our word shalt thou speak unto her, that she may be pacified."
+
 He heard the word of his father Ansar
 
 He directed his path to her, toward her he took the way.
@@ -110,6 +121,7 @@ an avenger...
 ... in the place of his decision
 ... he spake unto him:
 ... thy father
+
 " Thou art my son, who maketh merciful his heart.
 ... to the battle shalt thou draw nigh,
 he that shall behold thee shall have peace."
@@ -140,10 +152,9 @@ For thy blood shall not be poured out; thou shalt return again."
 The lord rejoiced at the word of his father,
 His heart exulted, and unto his father he spake:
 
-"O Lord of the gods, Destiny of the great gods,
-If I, your avenger,
-Conquer Tiamat and give you life,
-Appoint an assembly, make my fate preeminent and proclaim it.
+"O Lord of the gods, Destiny of the great gods, If I, your avenger,
+Conquer Tiamat and give you life, Appoint an assembly, make my fate preeminent and proclaim it. 
+
 In Upsukkinaku seat yourself joyfully together,
 With my word in place of you will I decree fate.
 May whatsoever I do remain unaltered,

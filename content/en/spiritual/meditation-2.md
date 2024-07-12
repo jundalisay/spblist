@@ -17,6 +17,8 @@ The solution to this selfishness is to trace out how it forms in the first place
 
 It is easy to notice how children are less selfish and have more simple emotions than adults. This is also seen in isolated tribesmen whose minds are less bombarded with the sensory perceptions of a large, fast-paced city. 
 
+{{< img src="/photos/sad.jpg" alt="Sad urbanite" >}}
+
 We also notice how modern people are often so agitated and addicted to sensory perceptions from their mobile phones and social media that they have no time even to take care of their bodies or relationships with other humans. 
 
 Since physical sensory perceptions are a huge contributing factor to the formation of ego, then it would make sense why the Asian sciences of Hinduism, Buddhism, and Taoism push for the control of the senses. For this they impose moral precepts or rules, similar to how Christianity has the 10 Commandments and Islam has Shariah Law.
@@ -37,8 +39,7 @@ So the first step to sense-control is to have a mentality to want to have sense-
 
 We start with the 5 Yamas which Patanjali lists as follows.
 
-
-![Kindness](/graphics/meta/yamas.jpg)
+{{< img src="/graphics/meta/yamas.jpg" alt="Yamas" >}}
 
 
 #### 1. Ahimsa (Non-Violence)

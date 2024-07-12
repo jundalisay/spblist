@@ -1,6 +1,6 @@
 ---
 heading: "Tablet 1b"
-title: "Ea speaks"
+title: "Tiamat Raises Kingu"
 weight: 4
 image: "/covers/enuma.jpg"
 description: "Then Ea, who knew all that is, went up and he beheld their muttering"
@@ -31,49 +31,71 @@ Tiamat harkened unto the word of the bright god, and said:
 ... the gods in the midst of...
 ... for the gods did she create.
 
-They banded themselves together and at the side of Tiamat they advanced;
+They banded themselves together and at the side of Tiamat they advanced.
 
-They were furious; they devised mischief without resting night and day.
+They were furious. They devised mischief without resting night and day.
 
 They prepared for battle, fuming and raging;
 
 They joined their forces and made war,
-Ummu-Hubur [Tiamat] who formed all things,
-Made in addition weapons invincible; she spawned monster-serpents,
-Sharp of tooth, and merciless of fang;
+
+Ummu-Hubur [Tiamat] formed all things including invincible weapons.
+
+She spawned monster-serpents, Sharp of tooth, and merciless of fang;
+
 With poison, instead of blood, she filled their bodies.
-Fierce monster-vipers she clothed with terror,
-With splendor she decked them, she made them of lofty stature.
+
+Fierce monster-vipers she clothed with terror, With splendor she decked them, she made them of lofty stature. 
+
 Whoever beheld them, terror overcame him,
 
 Their bodies reared up and none could withstand their attack.
 
-She set up vipers and dragons, and the monster Lahamu,
-And hurricanes, and raging hounds, and scorpion-men,
-And mighty tempests, and fish-men, and rams;
+She set up:
+- vipers and dragons
+- the monster Lahamu
+- hurricanes
+- raging hounds
+- scorpion-men
+- mighty tempests
+- fish-men
+- rams
 
 They bore cruel weapons, without fear of the fight.
-Her commands were mighty, none could resist them;
 
-After this fashion, huge of stature, she made eleven [kinds of] monsters.
+Her commands were mighty, none could resist them.
+
+After this fashion, huge of stature, she made 11 [kinds of] monsters.
+
 Among the gods who were her sons, inasmuch as he had given her support,
 
 She exalted Kingu; in their midst she raised him to power.
 
-To march before the forces, to lead the host,
-To give the battle-signal, to advance to the attack,
-To direct the battle, to control the fight,
-Unto him she entrusted; in costly raiment she made him sit, saying:
-I have uttered thy spell, in the assembly of the gods I have raised thee to power.
+
+She entrusted him to:
+- march before the forces
+- lead the host
+- give the battle-signal
+- advance to the attack
+- direct the battle
+- control the fight
+
+
+In costly raiment she made him sit, saying:
+
+I have uttered thy spell. I have raised you to power in the assembly of the gods.
 
 The dominion over all the gods have I entrusted unto him.
 Be thou exalted, thou my chosen spouse,
 May they magnify thy name over all of them the Anunnaki."
 
 She gave him the Tablets of Destiny, on his breast she laid them, saying:
-Thy command shall not be without avail, and the word of thy mouth shall be established."
-Now Kingu, thus exalted, having received the power of Anu,
-Decreed the fate among the gods his sons, saying:
+
+Your command shall not be without avail. The word of your mouth shall be established."
+
+Kingu was thus exalted and received the power of Anu.
+
+He decreed the fate among the gods his sons, saying:
+
 "Let the opening of your mouth quench the Fire-god;
 Whoso is exalted in the battle, let him display his might!"
-

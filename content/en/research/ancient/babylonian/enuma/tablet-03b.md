@@ -12,7 +12,11 @@ Gaga went, he took his way and humbly before Lahmu and Lahamu, the gods, his fat
 He made obeisance, and he kissed the ground at their feet.
 
 He humbled himself; then he stood up and spake unto them saying:
-"Ansar, your son, hath sent me, The purpose of his heart he hath made known unto me.
+
+"Ansar, your son, hath sent me, [He repeats Tiamat's plot]
+
+
+<!-- The purpose of his heart he hath made known unto me.
 He saith that Tiamat our mother hath conceived a hatred for us,
 With all her force she rageth, full of wrath.
 
@@ -59,16 +63,20 @@ Thy command shall not be without avail, and the word of thy mouth shall be estab
 Now Kingu, thus exalted, having received the power of Anu, decreed the fate for the gods, her sons, saying:
 
 'Let the opening of your mouth quench the Fire-god;
-Whoso is exalted in the battle, let him display his might!'
+Whoso is exalted in the battle, let him display his might!' -->
+
+
 I sent Anu, but he could not withstand her;
 Nudimmud was afraid and turned back.
 
 But Marduk hath set out, the director of the gods, your son;
 To set out against Tiamat his heart hath prompted him.
+
 He opened his mouth and spake unto me, saying:
 'If I, your avenger,
 Conquer Tiamat and give you life,
 Appoint an assembly, make my fate preeminent and proclaim it.
+
 In Upsukkinaku seat yourselves joyfully together;
 With my word in place of you will I decree fate.
 May, whatsoever I do remain unaltered,
@@ -79,6 +87,7 @@ That he may go and fight your strong enemy!
 
 Lahmu and Lahamu heard and cried aloud
 All of the Igigi [The elder gods] wailed bitterly, saying:
+
 What has been altered so that they should
 We do not understand the deed of Tiamat!
 

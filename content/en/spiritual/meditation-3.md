@@ -21,7 +21,9 @@ The 2nd half of the moral precepts advocated by Patanjali are called the Niyamas
 
 The Yoga Sutras give 5 Niyamas:
 
-![Niyamas](/graphics/meta/niyamas.jpg)
+
+{{< img src="/graphics/meta/niyamas.jpg" alt="Niyamas" >}}
+
 
 #### 1. Shaoca (Purity)
 
