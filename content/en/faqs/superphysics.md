@@ -1,7 +1,7 @@
 ---
-title: "Socratic FAQ"
+title: "Superphysics Socratic FAQ"
 description: "FAQs about Superphysics, Socrates-style"
-image: /covers/spblack.jpg
+image: /covers/faq.png
 aliases:
   /faq
 ---
@@ -83,7 +83,7 @@ How sure are you that Superphysics can solve what Science cannot?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-Because we absorb all data, information, and human knowledge, even from Asia, Africa, Hinduism, Buddhism, Taoism, even human information about aliens (to test whether our principles also hold true in other planets and are therefore universal). 
+Because we absorb all data, information, and human knowledge, even from [Asia](/research/ancient/babylonian/enuma/tablet-01/), [Maya](/research/ancient/mayan/popol/part-1/chapter-01/), [Hinduism](/research/indian/gospel/intro/part-01/), [Buddhism](/research/buddha/), Taoism, even human information about [aliens](/research/other/alien/essassani/basics/) (to test whether our principles also hold true in other planets and are therefore universal). 
 
 Hinduism, Buddhism, and Taoism allow other dimensions by default. Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality.
 

@@ -40,21 +40,25 @@ paginate = 12
         url = "social/economics"
         weight = 6
     [[languages.en.menu.main]]
+        name = "/icons/spi.png"
+        url = "spiritual"
+        weight = 7
+    [[languages.en.menu.main]]
         name = "/icons/cycles.png"
         url = "social/cycles"
-        weight = 7
+        weight = 9
     [[languages.en.menu.main]]
         name = "/icons/question.png"
         url = "faqs"
-        weight = 8
+        weight = 11
     [[languages.en.menu.main]]
         name = "/icons/about.png"
         url = "news"
-        weight = 9
+        weight = 13
     [[languages.en.menu.main]]
         name = "/icons/heart.png"
         url = "help"
-        weight = 10
+        weight = 15
     [languages.en.params]
       heading = "A New Science Based on Waves and Socratic Dialectics for Solving Problems"
       intro = "Superphysics: Science Merged with Metaphysics"

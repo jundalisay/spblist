@@ -3,7 +3,7 @@ title: "Hymns 1-"
 weight: 4
 # date        = "2024-02-14"
 description: "I Laud Agni, the chosen Priest, God, minister of sacrifice. The hotar, lavishest of wealth"
-image: /covers/indian.jpg
+image: /covers/vegas.jpg
 ---
 
 
@@ -12,20 +12,25 @@ image: /covers/indian.jpg
 ## Hymn 1
 
 I Laud Agni, the chosen Priest, God, minister of sacrifice. The hotar, lavishest of wealth.
-2. Worthy is Agni to be praised by living as by ancient seers.
-   He shall bring. hitherward the Gods.
-3. Through Agni man obtaineth wealth, yea, plenty waxing day by day, 
-   Most rich in heroes, glorious.
-4. Agni, the perfect sacrifice which thou encompassest about
-   Verily goeth to the Gods.
+
+2. Worthy is Agni to be praised by living as by ancient seers. He shall bring. hitherward the Gods.
+
+3. Through Agni man obtaineth wealth, yea, plenty waxing day by day, most rich in heroes, glorious.
+
+4. Agni, the perfect sacrifice which thou encompassest about    Verily goeth to the Gods.
+
 5. May Agni, sapient-minded Priest, truthful, most gloriously great,
    The God, come hither with the Gods.
+
 6. Whatever blessing, Agni, thou wilt grant unto thy worshipper,
    That, Angiras, is indeed thy truth.
+
 7. To thee, dispeller of the night, O Agni, day by day with prayer
    Bringing thee reverence, we come
+
 8. Ruler of sacrifices, guard of Law eternal, radiant One,
    Increasing in thine own abode.
+
 9. Be to us easy of approach, even as a father to his son:
    Agni, be with us for our weal.
 
@@ -71,14 +76,12 @@ BEAUTIFUL Vayu, come, for thee these Soma drops have been prepared:
      Your worshipper's drink-offering.
 8 Ye Visvedevas, swift at work, come hither quickly to the draught,
      As milch-kine hasten to their stalls.
-9 The Visvedevas, changing shape like serpents, fearless, void of guile,
-     Bearers, accept the sacred draught
-10 Wealthy in spoil, enriched with hymns, may bright Sarasvati desire,
-    With eager love, our sacrifice.
-11 Inciter of all pleasant songs, inspirer o all gracious thought,
-     Sarasvati accept our rite
-12 Sarasvati, the mighty flood,--she with be light illuminates,
-     She brightens every pious thought.
+     
+9 The Visvedevas, changing shape like serpents, fearless, void of guile, Bearers, accept the sacred draught
 
+10 Wealthy in spoil, enriched with hymns, may bright Sarasvati desire, With eager love, our sacrifice.
 
+11 Inciter of all pleasant songs, inspirer o all gracious thought,      Sarasvati accept our rite
+
+12 Sarasvati, the mighty flood,--she with be light illuminates, She brightens every pious thought.
 
