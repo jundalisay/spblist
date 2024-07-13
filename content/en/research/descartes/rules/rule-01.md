@@ -1,8 +1,8 @@
 ---
 heading: Rule 1
-title: Cartesian Method
-weight: 20
-description: Rene Descartes 1635
+title: The Aim of Studies 
+weight: 4
+description: The aim of studies should be the guidance of the mind to form solid and true judgments on all things that come before it.
 image: "/covers/method.png"
 writer:
   name: Rene Descartes
@@ -11,9 +11,9 @@ icon: /icons/descartes.png
 ---
 
 
-RULES FOR THE DIRECTION OF THE MIND
+<!-- RULES FOR THE DIRECTION OF THE MIND -->
 
-RULE I.
+<!-- RULE I. -->
 
 The aim of studies should be the guidance of the mind to form solid and true judgments on all things that come before it.
 
@@ -56,10 +56,14 @@ This is even if all other things should be estimated not so much for their own s
 
 Therefore, we propose this first rule of all because nothing more leads us away from the straight path of seeking truth than if we do not direct our studies to this general end, but to some particular ones. 
 
-I am not speaking of perverse things and condemnable ones, such as vain glory or shameful profit: for to these it is clear that it is far more convenient to open deceitful arguments and amusements adapted to the minds of the common people than solid knowledge. But I also mean honorable and praiseworthy things, because we are often deceived more subtly by these: as if we seek useful sciences for the conveniences of life, or for that pleasure which is found in the contemplation of truth, and which is almost the only complete and undisturbed happiness in this life. 
+I am not speaking of perverse things and condemnable ones, such as vain glory or shameful profit: for to these it is clear that it is far more convenient to open deceitful arguments and amusements adapted to the minds of the common people than solid knowledge. 
 
-For we can indeed expect legitimate fruits of sciences from these; but if we think about them while studying, they often cause us to omit many things necessary for the knowledge of other things, either because they seem somewhat useless at first sight, or because they seem somewhat uninteresting. 
+But I also mean honorable and praiseworthy things, because we are often deceived more subtly by these: as if we seek useful sciences for the conveniences of life, or for that pleasure which is found in the contemplation of truth, and which is almost the only complete and undisturbed happiness in this life. 
+
+We can expect legitimate fruits of sciences from these. But if we think about them while studying, they often cause us to omit many things necessary for the knowledge of other things, either because they seem somewhat useless at first sight, or because they seem somewhat uninteresting. 
 
 They are so connected with each other that it is far easier to learn them all together than to separate one from the others. Therefore, if anyone seriously wishes to investigate the truth of things, he should not choose any particular science: for they are all connected with each other and dependent on each other; 
 
-But he should only think about increasing the natural light of reason, not to solve this or that difficulty of the school, but to show the understanding to the will in each case of life what should be chosen; and he will soon marvel that he has made much greater progress than those who study particulars, and not only has obtained all the same things that others desire, but even higher ones than they can expect.
+But he should only think about increasing the natural light of reason, not to solve this or that difficulty of the school, but to show the understanding to the will in each case of life what should be chosen.
+
+He will soon marvel that he has made much greater progress than those who study particulars, and not only has obtained all the same things that others desire, but even higher ones than they can expect.

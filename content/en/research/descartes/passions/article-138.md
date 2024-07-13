@@ -1,6 +1,6 @@
 ---
-heading: Articles 138-
-title: What are the Passions of the Soul?
+heading: Articles 138-148
+title: Their defects and the means of correcting them
 weight: 40
 description: What is Passion in relation to one subject is always Action in another respect.
 image: "/covers/passions.jpg"
@@ -118,19 +118,35 @@ This opinion is based only on not knowing all the causes that contribute to each
 For when something that we have believed depends on Fortune does not happen, this shows that one of the necessary causes to produce it has failed, and consequently that it was absolutely impossible; and that something else, that we thought absolutely impossible, could easily happen, only by the concurrence of all its causes.
 
 
+
 ### 146. Concerning those things that depend on us and on others
 
 Therefore, we must entirely reject the common opinion that there exists outside of us a Fortune which causes things to happen or not happen according to its pleasure.
 
-Everything is guided by divine Providence, whose eternal decree is so infallible and immutable that, except for things which this same decree has willed to depend on our free will, we must consider that nothing happens to us which is not necessary and as if fated, so that we should not err in desiring that it happen differently. 
+Everything is guided by divine Providence, whose eternal decree is so infallible and immutable.
 
-But since the majority of our Desires extend to things which do not all depend on us or entirely on others, we must carefully distinguish in them what depends only on us, so as to extend our desire only to that alone. And for the rest, even though we should consider the outcome entirely fated and immutable, so that our Desire does not concern itself with it, we should nonetheless consider the reasons which make its success more or less hopeful, so that they may serve to guide our actions. 
+that, except for things which this same decree has willed to depend on our free will, we must consider that 
 
-For example, if we have business in a place where we can go by two different paths, one of which is customarily much safer than the other, even though perhaps the decree of Providence is such that if we take the path considered safer, we will still inevitably be robbed, and on the contrary, we may pass by the other without any danger, we should not therefore be indifferent in choosing one or the other, nor rely on the unchangeable fate of this decree. 
+Nothing happens to us which is fated or not necessary.
 
-But reason dictates that we should choose the path that is customarily safer; and our Desire should find fulfillment in this when we have followed it, whatever harm may have befallen us, because this harm being inevitable to us, we have had no reason to wish to be exempt from it, but only to do the best that our understanding could know, as I suppose we have done. 
+so that we should not err in desiring that it happen differently.
+
+But the majority of our Desires extend to things which do not all depend on us or entirely on others. 
+
+**This is why we must carefully distinguish in them what depends only on us, so as to extend our desire only to that alone.** 
+
+For the rest, even though we should consider the outcome entirely fated and immutable, so that our Desire does not concern itself with it, we should nonetheless consider the reasons which make its success more or less hopeful, so that they may serve to guide our actions.
+
+Assume we have business in a place where we can go by 2 different paths, one of which is customarily much safer than the other.
+
+Even though perhaps the decree of Providence is such that if we take the path considered safer, we will still inevitably be robbed, and on the contrary, we may pass by the other without any danger, we should not therefore be indifferent in choosing one or the other, nor rely on the unchangeable fate of this decree. 
+
+But reason dictates that we should choose the path that is customarily safer.
+
+We feel our Desire fulfilled when we have followed it, whatever harm may have befallen us, because this harm being inevitable to us, we have had no reason to wish to be exempt from it, but only to do the best that our understanding could know, as I suppose we have done. 
 
 When one exercises oneself to distinguish in this way between Fate and Fortune, one easily accustoms oneself to regulate one's Desires in such a manner that, inasmuch as their fulfillment depends only on us, they can always give us complete satisfaction.
+
 
 ### 147. The inner Emotions of the soul
 
@@ -142,7 +158,9 @@ These emotions of the soul are often joined with passions similar to them. Yet t
 
 For example, when a husband mourns his deceased wife, whom (as sometimes happens) he would be troubled to see resurrected.
 
-It may be that his heart is gripped by Sadness, which the solemnity of the funeral and the absence of a person with whom he was accustomed to converse arouse in him; and it may be that some remnants of love or pity, which present themselves to his imagination, draw true tears from his eyes, notwithstanding that he feels at the same time a secret Joy in the innermost part of his soul, the emotion of which has such power that the Sadness and tears accompanying it cannot diminish its strength.
+It may be that his heart is gripped by Sadness, which the solemnity of the funeral and the absence of a person with whom he was accustomed to converse arouse in him. 
+
+It may be that some remnants of love or pity, which present themselves to his imagination, draw true tears from his eyes, notwithstanding that he feels at the same time a secret Joy in the innermost part of his soul, the emotion of which has such power that the Sadness and tears accompanying it cannot diminish its strength.
 
 When we read strange adventures in a book or see them represented on a stage, this sometimes excites in us Sadness, sometimes Joy, or Love, or Hatred, and generally all the Passions according to the diversity of the objects that present themselves to our imagination.
 
@@ -151,9 +169,15 @@ But with this we take pleasure in feeling them excited within us, and this pleas
 
 ### 148. The exercise of virtue is a sovereign remedy against the Passions.**
 
-Since these inner emotions touch us more closely and consequently have much more power over us than the Passions with which they differ, which meet with them, it is certain that, provided our soul always has enough to content it within itself, all the troubles that come from elsewhere have no power to harm it, but rather they serve to increase its joy, in that seeing it cannot be offended by them shows it its perfection. 
+These inner emotions touch us more closely. They consequently have much more power over us than the Passions with which they differ, which meet with them.
 
-And so that our soul may thus have enough to content it, it needs only to follow virtue exactly. 
+Provided our soul always has enough to content it within itself, all the troubles that come from elsewhere have no power to harm it, but rather they serve to increase its joy, in that seeing it cannot be offended by them shows it its perfection. 
 
-For whoever has lived in such a way that his conscience cannot reproach him for ever having failed to do all the things he judged to be the best (which is what I call here following virtue), receives from it a satisfaction so powerful in making him happy that the most violent efforts of the Passions have never enough power to disturb the tranquility of his soul.
+<!-- And so that our soul ,  -->
+
+And so our soul needs only to follow virtue exactly so that it may thus have enough to content it. 
+
+Anyone who has lived in such a way that his conscience cannot reproach him. 
+
+ <!-- for ever having failed to do all the things he judged to be the best (which is what I call here following virtue), receives from it a satisfaction so powerful in making him happy that the most violent efforts of the Passions have never enough power to disturb the tranquility of his soul. -->
 

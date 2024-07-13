@@ -1,8 +1,8 @@
 ---
 heading: Rule 9
-title: Cartesian Method
-weight: 20
-description: Rene Descartes 1635
+title: Look into understandable matters
+weight: 12
+description: The mind's keenness should be turned entirely to the smallest and most easily understandable matters, and to dwell on them longer until we become accustomed to discern truth distinctly and clearly
 image: "/covers/method.png"
 writer:
   name: Rene Descartes
@@ -11,7 +11,7 @@ icon: /icons/descartes.png
 ---
 
 
-It is necessary to turn the keenness of the mind entirely to the smallest and most easily understandable matters, and to dwell on them longer until we become accustomed to discern truth distinctly and clearly.
+The mind's keenness should be turned entirely to the smallest and most easily understandable matters, and to dwell on them longer until we become accustomed to discern truth distinctly and clearly.
 
 After explaining the two operations of our intellect, intuition and deduction, which we said should alone be used for acquiring knowledge, we proceed in this and the following proposition to explain with what diligence we can become more suitable for exercising them, and at the same time cultivate two principal faculties of the mind, namely perspicacity, by distinctly intuiting individual things, and sagacity, by artfully deducing one thing from another.
 
