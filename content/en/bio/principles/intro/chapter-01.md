@@ -22,6 +22,9 @@ There are 2 Domains in Reality | This leads to a physical (material) body and a 
 There are 5 Layers in Reality | In the physical body, the layers are called elements. In the metaphysical body, they are called strata. 
 
 
+
+
+
 Bio Superphysics splits up the living organisms into:
 - physical body
 - metaphysical body

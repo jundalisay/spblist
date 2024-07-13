@@ -16,6 +16,8 @@ icon: "/icons/spmed.png"
 ---
 
 
+
+
 In Material Superphysics, galaxies take the form of spatial vortices in the aetherspace for the purpose of deploying aethereal ideas onto the physical domain. 
 
 This system is replicated in the metaphysical domain in living organisms through their mental (metaphysical)body. These spatial vortices are called chakras. 
