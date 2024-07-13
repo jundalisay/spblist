@@ -5,6 +5,7 @@ heading: "The evolution of Superphysics"
 weight: 1
 description: "We list the events in the evolution of Superphysics."
 image: "/photos/objects/clock.jpg"
+draft: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
