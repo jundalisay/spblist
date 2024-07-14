@@ -18,15 +18,21 @@ He prepared a long manuscript on this which he published in 1690 at Leyden,[43] 
 
 <!-- This he proposed to translate into Latin, and to publish in that language together with a treatise on the Optics of Telescopes; but the work of translation making little progress, after a delay of twelve years, he decided to print the work on wave-theory in its original form.  -->
 
-Hooke's hypothesis was that light is essentially a form of motion. Huygens proved it by the effects observed with burning-glasses. The combustion induced at the focus of the glass dissociated the molecules of bodies. This was a certain sign of motion. In conformity to the Cartesian philosophy, we seek the cause of all natural phenomena in purely mechanical actions.
+Hooke's hypothesis was that light is essentially a form of motion. 
+
+Huygens proved this by the effects observed with burning-glasses. The combustion induced at the focus of the glass dissociated the molecules of bodies. This was a certain sign of motion. 
+
+In conformity to the Cartesian philosophy, we seek the cause of all natural phenomena in purely mechanical actions.
 
 Is that motion caused by the medium, as supposed in Hooke's theory? 
 
 Or is that motion like that of a flight of arrows, as in the corpuscular theory?
 
-Huygens decided that Hooke's theory is the only tenable one, since beams of light proceeding in directions inclined to each other do not interfere with each other in any way.
+Huygens decided that Hooke's theory is the only tenable one. This is because beams of light proceeding in directions inclined to each other do not interfere with each other in any way.
 
-Torricelli previously showed that light is transmitted as readily through a vacuum as through air. From this, Huygens inferred that the medium or aether in which the propagation takes place must penetrate all matter, and be present even in all vacuums.
+Torricelli previously showed that light is transmitted as readily through a vacuum as through air. 
+
+From this, Huygens inferred that the medium or aether in which the propagation takes place must penetrate all matter, and be present even in all vacuums.
 
 
 The process of wave-propagation he discussed and is now named after him.[45] 
@@ -40,12 +46,18 @@ The wave-front which represents the whole disturbance at the instant t is simply
 
 The introduction of this principle enabled Huygens to succeed where Hooke and other contemporary wave-theorists[48] had failed, in achieving the explanation of refraction and reflexion. 
 
-His method was to combine his own principle with Hooke's device of following separately the fortunes of the right-hand and left-hand sides of a wave-front when it reaches the interface between two media. The actual explanation for the case of reflexion is as follows:—
+His method was to combine his own principle with Hooke's device of following separately the fortunes of the right-hand and left-hand sides of a wave-front when it reaches the interface between two media. The actual explanation for the case of reflexion is as follows:
 
-Let AB represent the interface at which reflexion takes place, AHC the incident wave-front at an instant t0, GMB the position which the wave-front would occupy at a later instant t if the propagation were not interrupted by reflexion. Then by
+Let:
+- `AB` represent the interface at which reflexion takes place 
+- `AHC` the incident wave-front at an instant `t0`
+- `GMB` the position which the wave-front would occupy at a later instant `t` if the propagation were not interrupted by reflexion.
 
-A history of the theories of aether
-Huygens' principle the secondary wave from A is at the instant t a sphere RNS of radius equal to AG: the disturbance from H, after meeting the interface at K, will generate a secondary wave TV of radius equal to KM, and similarly the secondary wave corresponding to any other element of the original wavefront can be found. 
+Then by Huygens' principle the secondary wave from `A` is at the instant `t` a sphere `RNS` of radius equal to AG.
+
+The disturbance from `H`, after meeting the interface at `K`, will generate a secondary wave `TV` of radius equal to `KM`.
+
+Similarly, the secondary wave corresponding to any other element of the original wavefront can be found. 
 
 The envelope of these secondary waves, which constitutes the final wave-front, will be a plane BN, which will be inclined to AB at the same angle as AC. This gives the law of reflexion.
 
@@ -53,21 +65,31 @@ The law of refraction is established by similar reasoning, on the supposition th
 
 Since a ray which passes from air to glass is bent inwards towards the normal, it may be inferred that light travels more slowly in glass than in air.
 
-Huygens offered a physical explanation of the variation in velocity of light from one medium to another, by supposing that transparent bodies consist of hard particles which interact with the aethereal matter, modifying its elasticity. The opacity of metals he explained by an extension of the same idea, supposing that some of the particles of metals are hard (these account for reflexion) and the rest soft: the latter destroy the luminous motion by damping it.
+Huygens explained that:
+- the variation of the speed of light from one medium to another was caused by transparent bodies being made up of hard particles which interact with the aethereal matter, modifying its elasticity. 
+- the opacity of metals was caused by some metals being hard (to account for reflection) and others being soft.
+  - The latter destroy the luminous motion by damping it.
 
-The second half of the Théorie de la lumière is concerned with a phenomenon which had been discovered a few years previously by a Danish philosopher, Erasmus Bartholin (b. 1625, d. 1698). A sailor had brought from Iceland to Copenhagen a number of beautiful crystals which he had collected in the Bay of Röerford. 
+The second half of the Théorie de la lumière is concerned with a phenomenon which had been discovered a few years previously by a Danish philosopher, Erasmus Bartholin (b. 1625, d. 1698). 
 
-Bartholin, into whose hands they passed, noticed[49] that any small object viewed through one of these crystals appeared double, and found the immediate cause of this in the fact that a ray of light entering the crystal gave rise in general to two refracted rays. 
+A sailor had brought from Iceland to Copenhagen a number of beautiful crystals which he had collected in the Bay of Röerford. 
 
-One of these rays was subject to the ordinary law of refraction, while the other, which was called the extraordinary ray, obeyed a different law, which Bartholin did not succeed in determining.
+Bartholin got it and noticed[49] that any small object viewed through one of these crystals appeared double. He found the immediate cause of this in the fact that a ray of light entering the crystal gave rise in general to 2 refracted rays. 
+- One of these rays was subject to the ordinary law of refraction.
+- The other, called the extraordinary ray, obeyed a different law, which Bartholin did not succeed in determining.
 
 The matter had arrived at this stage when it was taken up by Huygens. 
 
 Since in his conception each ray of light corresponds to the propagation of a wave-front, the two rays in Iceland spar must correspond to two different wave-fronts propagated simultaneously. 
 
-In this idea he found no difficulty; as he says: “It is certain that a space occupied more than one kind of matter may permit the propagation of several kinds of waves, different in velocity; for this actually happens in air mixed with aethereal matter, where sound-waves and light-waves are propagated together."
+He found this idea easy:
 
-Accordingly he supposed that a light-disturbance generated at any spot within a crystal of Iceland spar spreads out in the form of a wave-surface, composed of a sphere and a spheroid having the origin of disturbance as centre. 
+{{< q a="Huygens" >}}
+a space that is occupied more than one kind of matter may permit the propagation of several kinds of waves, different in speed. This actually happens in air mixed with aethereal matter, where sound-waves and light-waves are propagated together.
+{{< /q >}}
+
+
+Accordingly, he supposed that a light-disturbance generated at any spot within a crystal of Iceland spar spreads out in the form of a wave-surface, composed of a sphere and a spheroid having the origin of disturbance as centre. 
 
 The spherical wave-front corresponds to the ordinary ray, and the spheroid to the extraordinary ray: and the direction in which the extraordinary ray is refracted may be determined by a geometrical construction, in which the spheroid takes the place which in the ordinary construction is taken by the sphere.
 

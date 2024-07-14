@@ -67,18 +67,30 @@ This is what constitutes the passion of Love.
 
 ### 103: In Hatred
 
-On the contrary, in Hatred, the first thought of the object that gives aversion so directs the spirits in the brain to the muscles of the stomach and intestines that they prevent the juice of the food from mixing with the blood by narrowing all the openings through which it usually flows.
+On the contrary, in Hatred, the first thought of the object that gives aversion directs the animal spirits in the brain to go to:
+- the muscles of the stomach and intestines to prevent the juice of the food from mixing with the blood. This is done by narrowing all the openings through which it usually flows.
+- the small nerves of the spleen and the lower part of the liver, where the bile receptacle is.
+  - This is so that the blood usually rejected to these places come out and flow with the blood in the branches of the vena cava to the heart.
 
-It also directs them so much to the small nerves of the spleen and the lower part of the liver, where the bile receptacle is, that the parts of the blood usually rejected to these places come out and flow with the blood in the branches of the vena cava to the heart. 
+This causes many inequalities in the heart's heat. This is because:
+- the blood that comes from the spleen hardly warms and rarefies
+- the blood that comes from the lower part of the liver, where there is always bile, ignites and dilates very quickly. 
 
-This causes many inequalities in its heat; because the blood that comes from the spleen hardly warms and rarefies, while that which comes from the lower part of the liver, where there is always bile, ignites and dilates very quickly. 
+This makes the spirits going to the brain gain:
+- very unequal parts, and
+- very extraordinary movements.
 
-As a result, the spirits going to the brain also have very unequal parts and very extraordinary movements; hence they strengthen the ideas of Hatred already imprinted there and dispose the soul to thoughts full of bitterness and resentment.
+Hence, they:
+- strengthen the ideas of Hatred already imprinted there
+- dispose the soul to thoughts full of bitterness and resentment.
+
 
 
 ### 104. In Joy
 
-In Joy, it is not so much the nerves of the spleen, liver, stomach, or intestines that act, but those in the rest of the body; and particularly the one around the openings of the heart, which by opening and widening these openings allows the blood that the other nerves drive from the veins to the heart to enter and exit in greater quantity than usual. 
+In Joy, the nerves of the rest of the body act, and less of those of the spleen, liver, stomach, or intestines.
+
+Particularly, the nerves around the openings of the heart. These opening and widening of these openings allows the blood that the other nerves drive from the veins to the heart to enter and exit more than usual. 
 
 The blood that then enters the heart has already passed and repassed several times, coming from the arteries to the veins, it dilates very easily and produces spirits whose parts being very equal and subtle, are suitable for forming and strengthening the brain's impressions that give the soul cheerful and calm thoughts.
 

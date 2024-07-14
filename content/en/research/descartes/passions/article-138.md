@@ -1,8 +1,8 @@
 ---
-heading: Articles 138-148
-title: Their defects and the means of correcting them
+heading: Articles 138-144
+title: The Defects of Bodily Movement and How to Correct Them
 weight: 40
-description: What is Passion in relation to one subject is always Action in another respect.
+description: All animals without reason lead their lives only through bodily movements. This is similar to those in us which our souls consent to
 image: "/covers/passions.jpg"
 writer:
   name: Rene Descartes
@@ -11,28 +11,56 @@ icon: /icons/descartes.png
 ---
 
 
-### 138. Their defects and the means of correcting them
+### 138. Their defects of the bodily movements and how to correct them
 
 <!-- But even though this use of passions is the most natural they can have, and  -->
 
-All animals without reason lead their lives only through bodily movements, similar to those which customarily follow in us, and to which they incite our soul to consent. 
+All animals without reason lead their lives only through bodily movements. This is similar to those in us which our souls consent to.
+ <!-- customarily follow in us, and to which they incite our soul to consent.  -->
 
-It is not, however, always good, because there are many things harmful to the body which cause no Sadness at the outset, or even give Joy; and others that are beneficial to it, although at first inconvenient. 
+However, not all bodily movements are good. 
+- Some are harmful even if they cause no Sadness or Joy at the outset.
+- Some are beneficial, even if it is inconvenient at first. 
 
-Moreover, they almost always make both the goods and the evils they represent appear much greater and more important than they are, so that they incite us to seek the former and avoid the latter with more ardour and care than is appropriate. 
+<!-- it is not,  always good, because there are many things harmful to the body which cause no Sadness , or even give Joy; and others that are beneficial to it, although at first .  -->
 
-Just as we also see that animals are often deceived by baits, and that in order to avoid small evils they rush into greater ones. Therefore, we must use experience and reason to distinguish between good and evil, and to know their true worth, so as not to mistake one for the other, and not to be led to anything to excess.
+These bodily movements can be good or bad. 
+- They almost always make that goodness or evil  appear much greater and more important than they are.
+- This causes us to seek the good and avoid the evil with more ardour and care than is appropriate. 
+
+Animals are often deceived by traps. 
+- In order to avoid small traps, they rush into greater ones. 
+
+Therefore, we must use experience and reason to distinguish between good and evil, and to know their true worth.
+
+In this way, we will not mistake one for the other, and not to be led to anything to excess.
 
 
 ### 139. The use of the same Passions, insofar as they belong to the soul; and first on Love
 
-This would suffice if we had only the body within us, or if it were our better part; but since it is only the lesser part, we should principally consider the Passions insofar as they belong to the soul, for which Love and Hate arise from knowledge and precede Joy and Sadness: except when these latter take the place of knowledge, of which they are species.
+<!-- This would suffice if we had only the body within us, or if it were our better part; but since it is  -->
 
-When this knowledge is true, that is to say, when the things it leads us to love are truly good, and those it leads us to hate are truly bad, Love is incomparably better than Hate; it cannot be too great, and it never fails to produce Joy. 
 
-This Love is extremely good, because by attaching us to true goods, it perfects us accordingly. I also say that it cannot be too great; for the most extreme it can do is to attach us so perfectly to these goods that the self-love we particularly have for ourselves makes no distinction; which I believe can never be bad.
+Bodily movements make up only the lesser part of our selves. 
 
-It is necessarily followed by Joy, because it represents to us what we love as a good that belongs to us.
+This is why we should principally consider the Passions of the soul. 
+
+<!-- insofar as they belong to the soul, for which  -->
+
+Of these, Love and Hate arise from knowledge and precede Joy and Sadness: except when these latter take the place of knowledge, of which they are species.
+
+This knowledge is true when:
+- the things that it leads us to love are truly good
+- the things that it leads us to hate are truly bad.
+
+Love is incomparably better than Hate.
+- Love is extremely good, because by attaching us to true goods, it perfects us accordingly. 
+
+Love cannot be too great.
+- The most extreme it can do is to attach us so perfectly to these goods that the self-love we particularly have for ourselves makes no distinction; which I believe can never be bad.
+
+Love never fails to produce Joy. 
+- Love is necessarily followed by Joy because it represents to us what we love as a good that belongs to us.
 
 
 ### 140. Hatred
@@ -96,88 +124,4 @@ Besides, what we desire in this way cannot fail to succeed, since it depends onl
 
 The sovereign remedy for this is to free the mind as much as possible from all sorts of other Desires that are less useful, and then to try to know very clearly, and to consider with attention, the goodness of what is to be desired.
 
-
-### 145. Those which depend only on other causes; And what Fortune is
-
-For things that depend in no way on us, as good as they may be, we should never desire them passionately, not only because they may not happen, and thus afflict us in proportion to how much we have wished for them; but mainly because by occupying our thoughts, they divert us from directing our affection to other things, the acquisition of which depends on us.
-
-There are 2 general remedies against these vain Desires:
-
-1. Generosity
-
-I will explain this later.
-
-2. Our regular reflection on the divine Providence
-
-This represents to ourselves that it is impossible for anything to happen otherwise than it has been determined from all eternity by this Providence; so that it is like a fate or an unchangeable necessity, which must be opposed to Fortune, to destroy it, as a chimera that only comes from the error of our understanding.
-
-For we can only desire what we believe in some way to be possible; and we cannot estimate as possible those things that do not depend on us, except as we think they depend on Fortune, that is to say, as we judge that they can happen, and that similar things have happened before. 
-
-This opinion is based only on not knowing all the causes that contribute to each effect. 
-
-For when something that we have believed depends on Fortune does not happen, this shows that one of the necessary causes to produce it has failed, and consequently that it was absolutely impossible; and that something else, that we thought absolutely impossible, could easily happen, only by the concurrence of all its causes.
-
-
-
-### 146. Concerning those things that depend on us and on others
-
-Therefore, we must entirely reject the common opinion that there exists outside of us a Fortune which causes things to happen or not happen according to its pleasure.
-
-Everything is guided by divine Providence, whose eternal decree is so infallible and immutable.
-
-that, except for things which this same decree has willed to depend on our free will, we must consider that 
-
-Nothing happens to us which is fated or not necessary.
-
-so that we should not err in desiring that it happen differently.
-
-But the majority of our Desires extend to things which do not all depend on us or entirely on others. 
-
-**This is why we must carefully distinguish in them what depends only on us, so as to extend our desire only to that alone.** 
-
-For the rest, even though we should consider the outcome entirely fated and immutable, so that our Desire does not concern itself with it, we should nonetheless consider the reasons which make its success more or less hopeful, so that they may serve to guide our actions.
-
-Assume we have business in a place where we can go by 2 different paths, one of which is customarily much safer than the other.
-
-Even though perhaps the decree of Providence is such that if we take the path considered safer, we will still inevitably be robbed, and on the contrary, we may pass by the other without any danger, we should not therefore be indifferent in choosing one or the other, nor rely on the unchangeable fate of this decree. 
-
-But reason dictates that we should choose the path that is customarily safer.
-
-We feel our Desire fulfilled when we have followed it, whatever harm may have befallen us, because this harm being inevitable to us, we have had no reason to wish to be exempt from it, but only to do the best that our understanding could know, as I suppose we have done. 
-
-When one exercises oneself to distinguish in this way between Fate and Fortune, one easily accustoms oneself to regulate one's Desires in such a manner that, inasmuch as their fulfillment depends only on us, they can always give us complete satisfaction.
-
-
-### 147. The inner Emotions of the soul
-
-I will add here only one more consideration, which seems to me to serve greatly in preventing us from receiving any discomfort from Passions; 
-
-Our good and our evil principally depend on the inner emotions which are aroused in the soul only by the soul itself; in which they differ from those passions which always depend on some movement of the spirits. 
-
-These emotions of the soul are often joined with passions similar to them. Yet they can often also occur with others, and even arise from those that are contrary to them. 
-
-For example, when a husband mourns his deceased wife, whom (as sometimes happens) he would be troubled to see resurrected.
-
-It may be that his heart is gripped by Sadness, which the solemnity of the funeral and the absence of a person with whom he was accustomed to converse arouse in him. 
-
-It may be that some remnants of love or pity, which present themselves to his imagination, draw true tears from his eyes, notwithstanding that he feels at the same time a secret Joy in the innermost part of his soul, the emotion of which has such power that the Sadness and tears accompanying it cannot diminish its strength.
-
-When we read strange adventures in a book or see them represented on a stage, this sometimes excites in us Sadness, sometimes Joy, or Love, or Hatred, and generally all the Passions according to the diversity of the objects that present themselves to our imagination.
-
-But with this we take pleasure in feeling them excited within us, and this pleasure is an intellectual Joy, which can arise as well from Sadness as from all the other Passions.
-
-
-### 148. The exercise of virtue is a sovereign remedy against the Passions.**
-
-These inner emotions touch us more closely. They consequently have much more power over us than the Passions with which they differ, which meet with them.
-
-Provided our soul always has enough to content it within itself, all the troubles that come from elsewhere have no power to harm it, but rather they serve to increase its joy, in that seeing it cannot be offended by them shows it its perfection. 
-
-<!-- And so that our soul ,  -->
-
-And so our soul needs only to follow virtue exactly so that it may thus have enough to content it. 
-
-Anyone who has lived in such a way that his conscience cannot reproach him. 
-
- <!-- for ever having failed to do all the things he judged to be the best (which is what I call here following virtue), receives from it a satisfaction so powerful in making him happy that the most violent efforts of the Passions have never enough power to disturb the tranquility of his soul. -->
 

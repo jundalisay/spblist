@@ -45,14 +45,28 @@ The validity of his explanation of refraction was questioned by his fellow-count
 - Controversy ensued.
 - This was kept up by the Cartesians long after the death of Descartes. 
 
-Fermat eventually introduced a new fundamental law, the celebrated Principle of Least Time[21]: "Nature always acts by the shortest course".
-- From this, he deduced the paths of rays of light and derive the law of reflection since the path of light between a point on the incident ray and a point on the reflected ray is the shortest possible consistent with the condition of meeting the reflecting surfaces.[22] 
+Fermat eventually introduced a new fundamental law, the celebrated Principle of Least Time[21]: 
 
-In order to obtain the law of refraction, Fermat assumed that “the resistance of the media is different". He applied his "method of maxima and minima" to find the path which would be described in the least time from a point of one medium to a point of the other. 
+{{< q a="Fermat" >}}
+"Nature always acts by the shortest course".
+{{< /q >}}
+
+
+From this, he deduced the paths of rays of light and derive the law of reflection since the path of light between a point on the incident ray and a point on the reflected ray is the shortest possible consistent with the condition of meeting the reflecting surfaces.[22] 
+
+In order to obtain the law of refraction, Fermat assumed that “the resistance of the media is different". 
+
+He applied his "method of maxima and minima" to find the path which would be described in the least time from a point of one medium to a point of the other. 
 
 In 1661, he arrived at the solution.[23] 
 
-He writes: “The result of my work has been the most extraordinary, the most unforeseefter having performed all the equations, multiplications, antitheses, and other operations of my method. I have found that my principle gives exactly the same proportion for the refractions which Descartes has established." 
+He writes: 
+
+
+{{< q a="Fermat" >}}
+The result of my work has been the most extraordinary, the most unforeseefter having performed all the equations, multiplications, antitheses, and other operations of my method. I have found that my principle gives exactly the same proportion for the refractions which Descartes has established.
+{{< /q >}}
+
 
 His surprise was all the greater, as he had supposed light to move ignore slowly in dense than in rare media, whereas Descartes had (as will be evident from the demonstration given above) been obliged to make the contrary supposition.
 
@@ -101,7 +115,9 @@ Hooke asks: How does light travel through space? What is the trajection of this 
 3. The constitution and motion of the parts must be such that the appulse of the luminous body may be communicated or propagated through it to the greatest imaginable distance in the least imaginable time, though I see no reason to affirm that it must be in an instant.
 4. The motion is propagated every way through an Homogeneous medium by direct or straight lines extended every way like Rays from the centre of a Sphere.
 5. In an Homogeneous medium, this motion is propagated every way with equal velocity. 
+{{< /q >}}
 
+{{< q a="Hooke" >}}
 Every pulse or vibration of the luminous body will generate a Sphere, which will continually increase and grow bigger. This is like the waves or rings on the surface of the water swelling into bigger circles around the point where a stone was sunk. 
 
 All the parts of these Spheres undulated through an Homogeneous medium cut the Rays at right angles."

@@ -1,5 +1,5 @@
 ---
-heading: Articles 123-129
+heading: Articles 130-137
 title: What is Laughter?
 weight: 36
 description: What is Passion in relation to one subject is always Action in another respect.
@@ -37,7 +37,7 @@ The blood sent to the heart in the passion of love increases them the most.
 Those who are sad do not continually shed tears, only intermittently when they reflect anew on the objects they cherish.
 
 
-### 132. Moans Accompanying Tears.
+### 132. Moans Accompanying Tears
 
 Sometimes, the lungs suddenly swell due to an abundance of blood entering and displacing the air they contain.
 

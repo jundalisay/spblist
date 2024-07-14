@@ -65,24 +65,35 @@ Gilbert's theory of electrical emanations commended itself generally to 17th-cen
 - the English royalist exile, Sir Kenelm Digby (b. 1603, d. 1665)
 - the celebrated Robert Boyle (b. 1627, d. 1691). 
 
-There were some differences of opinion as to the manner in which the effluvia acted on the small bodies and set them in motion towards the excited electric.
+There were some differences of opinion as to how the effluvia:
+- acted on the small bodies
+- set them in motion towards the excited electric.
 
-Gilbert himself had supposed the emanations to have an inherent tendency to reunion with the parent body. 
+Gilbert had supposed that the emanations had an inherent tendency to reunite with the parent body. 
 
-Digby likened their return to the condensation of a vapour by cooling; and other writers pictured the effluvia as forming vortices round the attracted bodies in the Cartesian fashion.
+Digby likened their return to the condensation of a vapour by cooling. Other writers pictured the effluvia as forming vortices round the attracted bodies in the Cartesian fashion.
 
 There is a well-known allusion to Gilbert's hypothesis in Newton's Opticks.[3]
 
-"Let him also tell me, how an electrick body can by friction emit an exhalation so rare and subtle,[4] and yet so potent, as by its emission to cause no sensible diminution of the weight of the electrick body, and to be expanded through a sphere, whose diameter is above 2 feet. 
 
-Yet to be able to agitate and carry up leaf copper, or leaf gold, at a distance of above a foot from the electrick body?”
+{{< q a="Newton" >}}
+Let him also tell me, how an electrick body can by friction emit an exhalation so rare and subtle,[4] and yet so potent, as by its emission to cause no sensible diminution of the weight of the electrick body, and to be expanded through a sphere, whose diameter is above 2 feet. 
 
-It is surprising that the Newtonian doctrine of gravitation should not have proved a severe blow to the emanation theory of electricity. 
+Yet to be able to agitate and carry up leaf copper, or leaf gold, over 1 foot away from the electrick body?
+{{< /q >}}
 
-But Gilbert's doctrine was now so firmly established as to be unshaken by the overthrow of the analogy by which it had been originally justified. 
+
+It is surprising that the Newtonian doctrine of gravity was not a severe blow to the emanation theory of electricity. 
+
+This is because Gilbert's doctrine was now so firmly established. It was unshaken by the overthrow of the analogy by which it had been originally justified.
 
 It was, however, modified in one particular about the beginning of the 18th century. 
 
-In order to account for the fact that electrics are not perceptibly wasted away by excitement, tho earlier writers had supposed all the emanations to return ultimately to the body which had emitted them.
+Electrics are not perceptibly wasted away by excitement.
 
-But the corpuscular theory of light accustomed philosophers to the idea of emissions so subtle as to cause no perceptible loss; and after the time of Newton the doctrine of the return of the electric effluvia gradually lost credit.
+This was even if earlier writers had supposed all the emanations to return ultimately to the body which had emitted them.
+
+The corpuscular theory of light accustomed philosophers to the idea of emissions so subtle as to cause no perceptible loss.
+
+After Newton's time, the doctrine of the return of the electric effluvia gradually lost credit.
+

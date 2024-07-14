@@ -3,7 +3,7 @@ heading: "Chapter 5b"
 title: The Iceland Crystal
 description: We have shown how the movement which constitutes light spreads by spherical waves in any homogeneous matter. And it is evident that when the matter is not homogeneous
 image: /covers/light.jpg
-weight: 13
+weight: 24
 contributors: ['Huygens']
 icon: /avatars/huygens.png
 ---

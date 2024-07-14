@@ -12,7 +12,7 @@ description: "Hooke's next effort was to produce a mechanical theory of refracti
 
 Hooke's next effort was to produce a mechanical theory of refraction, to replace that given by Descartes. 
 
-Hooke says:
+<!-- Hooke says: -->
 
 {{< q a="Hooke" >}}
 All transparent mediums are not Homogeneous to one another. 
@@ -44,6 +44,7 @@ This is not in all respects successful.
 
 But it advances the treatment of the same problem by Descartes, which rested on a mere analogy.
 
+
 Hooke tries to determine what happens to the wave-front when it meets the interface between two media.
 
 He introduces the correct principle that the side of the wave-front which first meets the interface will go forward in the second medium with the velocity proper to that medium. 
@@ -71,40 +72,44 @@ Red is an impression on the Retina of an oblique and confus'd pulse of light, wh
 
 Hooke's theory of colour was completely overthrown, within a few years of its publication, by one of the earliest discoveries of Isaac Newton (b. 1642, d. 1727). 
 
+
 Newton was elected a Fellow of Trinity College, Cambridge in 1667. He had in the beginning of 1666 obtained a triangular prism, "to try the celebrated Phaenomena of Colours."
 
 
 {{< q a="Newton" >}}
-"Having darkened my chamber, and made a small hole in my window-shuts, to let in a convenient quantity of the Sun's light, I placed my Prisme at his entrance, that it might be thereby refracted to the opposite wall.
+I darkened my room and made a small hole in my window-shuts to let in a convenient quantity of the Sun's light. I then placed my prism at his entrance so that the light could be refracted to the opposite wall.
 
-It produced vivid and intense colours. I was surprised to see them in an oblong form.  The received laws of Refraction saya they should have been circular." 
+It produced vivid and intense colours. I was surprised to see them in an oblong form.  The received laws of Refraction say they should have been circular.
 {{< /q >}}
 
 
-The length of the coloured spectrum was  about 5 times as great as its breadth.
+The length of the coloured spectrum was about 5 times as great as its breadth.
 
-After more experiments, he discovered that ordinary white light is really a mixture of rays of every colour, and that the elongation of the spectrum is due to the differences in the refractive power of the glass for these different rays.
+After more experiments, he discovered that:
+- ordinary white light is really a mixture of rays of every colour
+- the elongation of the spectrum is due to the differences in the refractive power of the glass for these different rays. 
 
-[33] I was forced from Cambridge by the intervening Plague"; this was in 1666, and his memoir on the subject was not presented to the Royal Society until five years later.
+In 1666 [33] he wrote his memoir on the subject that he was forced from Cambridge by the intervening Plague.
 
-In it he propounds a theory of colour directly opposed to that of Hooke.
+ <!-- was not presented to the Royal Society until five years later. -->
+- In it, he propounds a theory of colour directly opposed to that of Hooke.
 
 
 {{< q a="Newton" >}}
 "Colours are not Qualifications of light derived from Refractions, or Reflections of natural Bodies (as 'tis generally believed), but Original and connate properties, which in divers Rays are divers. 
 
-Some Rays are disposed to exhibit a red colour and no other: some a yellow and no other, some a green and no other, and so of the rest. 
+Some Rays are disposed to exhibit a red colour and no other: some a yellow and no other, some a green and no other, and so of the rest.
 
 Nor are there only Rays proper and particular to the more eminent colours, but even to all their intermediate gradations.
 {{< /q >}}
 
 
-{{< q a="Hooke" >}}
-"To the same degree of Refrangibility ever belongs the same colour, and to the same colour ever belongs the same degree of Refrangibility:"
+{{< q a="Newton" >}}
+To the same degree of Refrangibility ever belongs the same colour. To the same colour ever belongs the same degree of Refrangibility.
 
-“The species of colour, and degree of Refrangibility proper to any particular sort of Rays, is not mutable by Refraction, nor by Reflection from natural bodies, nor by any other cause, that I could yet observe. 
+The species of colour, and degree of Refrangibility proper to any particular sort of Rays, is not mutable by Refraction, nor by Reflection from natural bodies, nor by any other cause, that I could yet observe. 
 
-When any one sort of Rays hath been well parted from those of other kinds, it hath afterwards obstinately retained its colour, notwithstanding my utmost endeavours to change it."
+When any one sort of Rays hath been well parted from those of other kinds, it hath afterwards obstinately retained its colour, notwithstanding my utmost endeavours to change it.
 {{< /q >}}
 
 
@@ -114,20 +119,25 @@ Hooke was foremost among the opponents, and led the attack with some degree of a
 
 At this time, Newton was at the outset of his career.
 
-Hooke was an older man, with an established reputation, such harshness appears particularly ungenerous.
+Hooke was an older man, with an established reputation. Such harshness appears particularly ungenerous.
 
 Hooke charged him with holding the doctrine that light is a material substance. 
 
-Newton renounced the attempt to construct the universe from its foundations after the fashion of Descartes.
+**Newton renounced the attempt to construct the universe after the fashion of Descartes.**
+<!-- from its foundations -->
 
-He merely aspired to formulate the laws which directly govern the actual phenomena.
+**He merely aspired to formulate the laws which directly govern the actual phenomena.**
 
 His theory of gravitation, for example, is strictly an expression of the results of observation.
 
-It involves no hypothesis as to the cause of the attraction which subsists between ponderable bodies.
+It involves no hypothesis as to the cause of the attraction which subsists between ponderable bodies*.
+
+> *Superphysics Note: This is why Newtonian Physics is forever ignorant on root causes -- because it never aimed at finding root causes. It just wanted to gather data and explain all things as they are. It really is just notating qualitative phenomena into dry, quantitative systems. 
+
 
 His own desire in regard to optics was to present a theory free from speculation as to the hidden mechanism of light.
 
 In reply to Hooke's criticism, he protested[34] that his views on colour were in no way bound up with any particular conception of the ultimate nature of optical processes.
 
 Newton was, however, unable to carry out his plan of connecting together the phenomena of light into a coherent and reasoned whole without having recourse to hypotheses. 
+

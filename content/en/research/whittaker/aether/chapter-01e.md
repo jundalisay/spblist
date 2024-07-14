@@ -60,32 +60,58 @@ The condensation or rarefaction of the aether due to a material body extends to 
 
 This further explains diffraction, which Newton took to be "only a new kind of refraction, caused, perhaps, by the external aether's beginning to grow rarer a little before it came at the opake body, than it was in free spaces."
 
-The regular vibrations of Newton's aether were not supposed to constitute light. But its irregular turbulence represented fairly closely his conception of heat. 
+The regular vibrations of Newton's aether were not supposed to constitute light.
+- But its irregular turbulence represented fairly closely his conception of heat. 
 
-He supposed that when light is absorbed by a material body, vibrations are set up in the aether, and are recognizable as the heat which is always generated in such cases. 
+Newton supposed that when light is absorbed by a material body, vibrations are set up in the aether, and are recognizable as the heat which is always generated in such cases.
 
-He conceived that the conduction of heat from hot bodies to contiguous cold ones were caused by vibrations of the aether propagated between them. The violent agitation of aethereal motions excites incandescent substances to emit light.
+He conceived that the conduction of heat from hot bodies to contiguous cold ones were caused by vibrations of the aether propagated between them.
 
-Newton assumed that light is not actually made up of the vibrations of an aether, even though such vibrations may exist in close connection with it. This easily leads to the idea that **rays of light are streams of corpuscles emitted by luminous bodies.** 
+The violent agitation of aethereal motions excites incandescent substances to emit light.
 
-This was not the hypothesis of Descartes himself, but it was so thoroughly akin to his general scheme. 
+Newton assumed that light is not actually made up of the vibrations of an aether. But such vibrations may exist in close connection with light. 
 
-The scientific men of Newton's generation were mostly deeply imbued with the Cartesian philosophy. They instinctively selected it from the wide choice of hypotheses which Newton had offered them. Later writers associated it with Newton.
+This easily leads to the idea that **rays of light are streams of corpuscles emitted by luminous bodies.** 
 
-A curious argument in its favour was drawn from a phenomenon which had then been known for nearly half a century: 
+This was not the hypothesis of Descartes himself. But it was so thoroughly akin to his general scheme. 
 
-Vincenzo Cascariolo was a shoemaker of Bologna. In around 1630, he had discovered that a substance, which afterwards was called Bologna stone or Bologna phosphorus, could shine in the dark after being exposed for some time to sunlight. 
+**The scientific men of Newton's generation were mostly deeply imbued with the Cartesian philosophy.** 
 
-This storage of light was most easily explained by the corpuscular theory. However, it was found that phosphorescent substances do not necessarily emit the same kind of light that was used to stimulate them.
+They instinctively selected it from the wide choice of hypotheses which Newton had offered them. 
+- Later writers associated it with Newton.
+
+<!-- A curious argument in its favour was drawn from  -->
+
+A phenomenon known for nearly 50 years made Newton's philosophy favored over Descartes. 
+
+Vincenzo Cascariolo was a shoemaker of Bologna. 
+
+In around 1630, he had discovered a substance later called Bologna stone or Bologna phosphorus. It could shine in the dark after being exposed for some time to sunlight.
+
+This storage of light was most easily explained by the corpuscular theory. 
+
+However, it was found that phosphorescent substances do not necessarily emit the same kind of light that was used to stimulate them.
 
 <!-- In accordance with his earliest discovery,  -->
-Newton considered colour to be an inherent characteristic of light. He inferred that it is associated with some definite quality of the corpuscles or aether-vibrations. 
+Newton considered colour to be an inherent characteristic of light. 
+
+He inferred that it is associated with some definite quality of the corpuscles or aether-vibrations. 
 
 The corpuscles corresponding to different colours would excite vibrations of different types in the aether, like sonorous bodies of different pitch.
 
-“if by any means those [aether-vibrations] of unequal bignesses be separated from one another, the largest beget a Sensation of a Red colour, the least or shortest of a deep Violet, and the intermediate ones, of intermediate colours; much after the manner that bodies, according to their several sizes, shapes, and motions, excite vibrations in the Air of various bignesses, which, according to those bignesses, make several Tones in Sound."[37]
+{{< q a="Newton" >}}
+if by any means those [aether-vibrations] of unequal bignesses are separated from one another:
+- the longest creates a Sensation of a Red colour
+- the shortest creates a deep Violet
+- the intermediate ones, of intermediate colours
 
-This sentence is the first enunciation of the great principle that homogeneous light is essentially periodic in its nature, and that differences of period correspond to differences of colour.
+This is the same way that bodies excite vibrations in the Air of various bignesses corresponding to several Tones in Sound, depending on the sizes, shapes, and motions of those bodies[37]
+{{< /q >}}
+
+
+That was the first enunciation of the great principle that:
+- **homogeneous light is essentially periodic**
+- **differences of period correspond to differences of colour.**
 
 The analogy with Sound is obvious. 
 
@@ -94,7 +120,12 @@ Newton developed the theory of periodic vibrations in an elastic medium[38] in c
 
 Newton gave attention to the colours of thin plates. He determined the empirical laws of the phenomena with great accuracy. 
 
-He supposed that "every ray of light, in its passage through any refracting surface, is put into a certain transient constitution or state, which, in the progress of the ray, returns at equal intervals, and disposes the ray, at every return, to be easily transmitted through the next refracting surface, and, between the returns, to be easily reflected by it."[39] 
+He supposed that:
+
+{{< q a="Newton" >}}
+every ray of light, in its passage through any refracting surface, is put into a certain transient constitution or state, which, in the progress of the ray, returns at equal intervals, and disposes the ray, at every return, to be easily transmitted through the next refracting surface, and, between the returns, to be easily reflected by it."[39] 
+{{< /q >}}
+
 
 The interval between two consecutive dispositions to easy transmission, or "length of fit," he supposed to depend on the colour, being greatest for red light and least for violet. 
 
@@ -106,16 +137,25 @@ Newton's "length of fit" corresponds in some measure to the quantity which in th
 
 But the suppositions of easy transmission and reflection were soon found inadequate to explain all Newton's experimental results, at least without making other and more complicated additional assumptions.
 
+
+### The Speed of Light
+
 At the time of the publication of Hooke's Micrographia, and Newton's theory of colours, it was not known whether light is propagated instantly or not.
 
-Galileo tried to settle the question experimentally many years previously[40]. He stationed 2 men with lanterns at a considerable distance from each other.
+Galileo tried to answer this experimentally many years previously[40]. 
+
+He stationed 2 men with lanterns at a considerable distance from each other.
 - One of them was directed to observe when the other uncovered his light, and exhibit his own the moment he perceived it. 
 
 But the timespan required by the light for its journey was too small to be perceived in this way. 
 
-The discovery was ultimately made in 1675 by an astronomer, Olof Roemer[41] (b. 1644, d. 1710). He observed that the eclipses of the first satellites of Jupiter were apparently affected by an unknown disturbing cause.
+The discovery was ultimately made in 1675 by an astronomer, Olof Roemer[41] (b. 1644, d. 1710). 
 
-The time of the occurrence of the phenomenon was retarded when the earth and Jupiter, in the course of their orbital motions, happened to be most remote from each other, and accelerated in the contrary case.
+He observed that the eclipses of the first moons of Jupiter were apparently affected by an unknown disturbing cause.
 
-Roemer explained this by supposing that light requires a finite time to travel from that moon to the earth. By observing eclipses, he calculated the timespan required for its passage from the sun to the earth (the light-equation, as it is called) was 11 minutes.[42]
+The time of the occurrence of the phenomenon was retarded when the earth and Jupiter, in the course of their orbital motions, were farthest from each other. It was accelerated when they were nearest.
+
+Roemer explained this by supposing that light requires a finite time to travel from that moon to the earth. 
+
+By observing eclipses, he calculated the timespan required for its passage from the sun to the earth (the light-equation, as it is called) was 11 minutes.[42]
 

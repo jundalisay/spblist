@@ -19,21 +19,25 @@ The globules of the 2nd element, and all the matter of the 1st element, are cons
 This presses the globules with each other. They tend to move outwards, although they do not actually so move.[6] 
 The transmission of this pressure constitutes light.*
 
-> *Superphysics Note: In Superphysics, light is from the friction of spacetime particles which we call qosts. This overhauls the material Big Bang into the aethereal Big Bootup, evidenced by ~~baryonic~~ acoustic oscillations. 
+> *Superphysics Note: In Superphysics, light is from the friction of spacetime particles which we call qosts. This overhauls the material Big Bang into the aethereal Big Bootup, evidenced by ~~baryonic~~ aethereal acoustic oscillations. 
 
 
 The action of light therefore extends on all sides around the sun and fixed stars, and travels instantaneously to any distance.[7]
 
 In the Dioptrique,[8] vision is the perception of objects which a blind man obtains by using a stick.
 
+{{< img src="/graphics/physics/lightprops.jpg" alt="Properties of Light" >}}
+
+
+
 The transmission of pressure along the stick from the object to the hand is like the transmission of pressure from a luminous object to the eye by the 2nd kind of matter.
 
 The diversities of colour and light are from the different ways in which the matter moves.[9] 
 
 In the Météores,[10] the various colours are connected with different rotatory velocities of the globules.
-- The particles which rotate most rapidly give off red
-- The slower ones give off yellow
-- The slowest ones give off green and blue
+- The particles which rotate most rapidly give off {{< c v="red">}}red{{< /c >}} 
+- The slower ones give off {{< c v="gold">}}yellow{{< /c >}} 
+- The slowest ones give off {{< c v="green">}}green{{< /c >}} and {{< c v="blue">}}blue{{< /c >}}
 
 This is the order of colours from the rainbow. 
 
@@ -70,12 +74,13 @@ Let a ball thrown from `A` meet at `B` a cloth `CBE`, so weak that the ball is a
 
 Then if `BI` be a length measured on the refracted ray equal to `AB`, the projectile will take k times as long to describe BI as it took to describe AB. 
 
-But the component of velocity parallel to the cloth must be unaffected by the impact. Therefore the projection `BE` of the refracted ray must be `k` times as long as the projection `BC` of the incident.
+But the component of velocity parallel to the cloth must be unaffected by the impact. Therefore the projection `BE` of the refracted ray must be `k` times as long as the projection `BC` of the incident ray. So if `i` and `r` denote the angles of incidence and refraction, we have:
 
-ray. So if i and r denote the angles of incidence and refraction, we have
 ...
 
-or the sines of the angles of incidence and refraction are in a constant ratio; this is the law of refraction.
+or the sines of the angles of incidence and refraction are in a constant ratio. 
+
+This is the law of refraction.
 
 Descartes wanted to include all known phenomena in his system. He devoted some attention to a class of effects which were little thought of back then, but which were destined to play a great part in the subsequent development of Physics.
 
@@ -96,7 +101,10 @@ The use of the magnetic compass at sea was not derived from classical antiquity.
 
 ## Petrus Peregrinus and the European Discovery of Magnetism
 
-Magnetism was one of the few sciences which progressed during the Middle Ages. In the 13th century, Petrus Peregrinus,[13] a native of Maricourt in Picardy discovered it. 
+Magnetism was one of the few sciences which progressed during the Middle Ages. In the 13th century, Petrus Peregrinus,[13] a native of Maricourt in Picardy discovered it.*
+
+> *Superphysics Note: The Chinese discovered it much earlier in 400 BC.
+
 
 He took a natural magnet or lodestone, rounded into a globular form. He laid it on a needle, and marked the line along which the needle set itself. 
 - Then laying the needle on other parts of the stone, he obtained more lines in the same way. 

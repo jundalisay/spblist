@@ -1,106 +1,113 @@
 ---
 heading: "Part 2"
-title: "Ninnisig, Ninkura, Ninimma"
-weight: 4
+title: "Enki and Ninmaḫ"
+weight: 12
 image: "/covers/enki.jpg"
-description: "All alone the wise one, toward Nintur, the country's mother, Enki, the wise one, toward Nintur, the country's mother"
+description: "He clasped her to the bosom, lying in her crotch, fondled her thighs, fondled her with the hand."
 ---
 
 
 
 
-63-68. All alone the wise one, toward Nintur, the country's mother, Enki, the wise one, toward Nintur, the country's mother, was digging his phallus into the dykes, plunging his phallus into the reedbeds. 
+1-11. The Anuna gods were born in those days and nights when heaven and earth were created.
 
-The august one pulled his phallus aside and cried out: "No man take me in the marsh."
+In those years, the fates were determined.
 
+The senior gods oversaw the work:
+- when the goddesses were taken in marriage
+- when the goddesses were distributed in heaven and earth
+- when the goddesses …… became pregnant and gave birth
+- when the gods were obliged (?) …… their food …… dining halls
 
-69-74. Enki cried out: "By the life's breath of heaven I adjure you. 
+The minor gods bore the toil.
 
-Lie down for me in the marsh, lie down for me in the marsh, that would be joyous." 
+The gods were digging the canals and piling up the silt in Ḫarali.
 
-Enki distributed his semen destined for Damgalnuna. He poured semen into Ninhursaja's womb and she conceived the semen in the womb, the semen of Enki.
-
-75-87. But her one month was one day*.
-- Her two months were two days
-- Her three months were three days
-- Her four months were four days, but her five months were five days, but her six months were six days, but her seven months were seven days, but her eight months were eight days, but her nine months were nine days. 
-
-
-> *Superphysics Note: This is probably the increased speed of development of the embryo for testing
+The minor gods, crushing the clay, began complaining about this life.
 
 
-In the month of womanhood, like fine (?) oil, like fine (?) oil, like oil of abundance, Nintur, mother of the country, like fine (?) oil, gave birth to Ninnisig.
+12-23. At that time, the one of great wisdom, the creator of all the senior gods, Enki lay on his bed, not waking up from his sleep, in the deep engur, in the subterranean water, the place the inside of which no other god knows. 
 
-88-96. In turn Ninnisig went out to the riverbank. 
+The gods said, weeping: "He is the cause of the lamenting!" 
 
-Enki was able to see up there from in the marsh, he was able to see up there, he was. He said to his minister Isimud: "Is this nice youngster not to be kissed? Is this nice Ninnisig not to be kissed?" 
+Namma, the primeval mother who gave birth to the senior gods, took the tears of the gods to the one who lay sleeping, to the one who did not wake up from his bed, to her son: 
 
-His minister Isimud answered him: "My master will sail, let me navigate."
+"Are you really lying there asleep, and …… not awake? 
 
-
-97-107. First he put his feet in the boat, next he put them on dry land. 
-
-He clasped her to the bosom, kissed her, Enki poured semen into the womb and she conceived the semen in the womb, the semen of Enki. 
-
-But her one month was one day, but her two months were two days, but her nine months were nine days. 
-
-In the month of womanhood, like fine (?) oil, like fine (?) oil, like oil of abundance, Ninnisig, like fine (?) oil, like fine (?) oil, like oil of abundance, gave birth to Ninkura.
-
-108-116. In turn Ninkura went out to the riverbank. 
-
-Enki was able to see up there from in the marsh, he was able to see up there, he was. He said to his minister Isimud: "Is this nice youngster not to be kissed? Is this nice Ninkura not to kissed?" 
-
-His minister Isimud answered him: "Kiss this nice youngster Ninkura. My master will sail, let me navigate."
-
-117-126. First he put his feet in the boat, next he put them on dry land. 
-
-He clasped her to the bosom, kissed her, Enki poured semen into the womb and she conceived the semen in the womb, the semen of Enki. 
-
-But her one month was one day, but her nine months were nine days. In the month of womanhood, like fine (?) oil, like fine (?) oil, like oil of abundance, Ninkura, like fine (?) oil, like fine (?) oil, like oil of abundance, gave birth to Uttu, the exalted (?) woman.
-
-{(Insertion point for additional lines in a ms. of unknown origin:)
-
-126A-126K. Ninkura in turn gave birth to Ninimma. 
-
-She brought the child up and made her flourish. Ninimma in turn went out to the riverbank. 
-
-Enki was towing his boat along and was able to see up there, ....... He laid eyes on Ninimma on the riverbank and said to his minister Isimud: "Have I ever kissed one like this nice youngster? Have I ever made love to one like nice Ninimma?" 
-
-His minister Isimud answered him: "My master will sail, let me navigate."
+The gods, your creatures, are smashing their ……. My son, wake up from your bed! Please apply the skill deriving from your wisdom and create a substitute (?) for the gods so that they can be freed from their toil!"
 
 
-126L-126Q. First he put his feet in the boat, next he put them on dry land. He clasped her to the bosom, lying in her crotch, made love to the youngster and kissed her. 
+24-37. At the word of his mother Namma, Enki rose up from his bed. 
 
-Enki poured semen into Ninimma's womb and she conceived the semen in the womb, the semen of Enki.
+In Ḫal-an-kug, his room for pondering, he slapped his thigh in annoyance. 
+
+The wise and intelligent one, the prudent, …… of skills, the fashioner of the design of everything brought to life birth-goddesses (?). Enki reached out his arm over them and turned his attention to them.
+
+After Enki, the fashioner of designs by himself, had pondered the matter, he said to his mother Namma: "My mother, the creature you planned will really come into existence. 
+
+Impose on him the work of carrying baskets. You should knead clay from the top of the abzu; the birth-goddesses (?) will nip off the clay and you shall bring the form into existence. 
+
+Let Ninmaḫ act as your assistant; and let Ninimma, Šu-zi-ana, Ninmada, Ninbarag, Ninmug, …… and Ninguna stand by as you give birth. My mother, after you have decreed his fate, let Ninmaḫ impose on him the work of carrying baskets."
 
 
-126R-126CC. To the woman its one month was but its one day, its two months were but its two days, its three months were but its three days, its four months were but its four days, its five months were but its five days, its six months were but its six days, its seven months were but its seven days, its eight months were but its eight days, and at its nine days, in the month of womanhood, like fine (?) oil, like fine (?) oil, like oil of abundance, Ninimma, like fine (?) oil, like oil of abundance, gave birth to Uttu, the exalted (?) woman.
+5 lines fragmentary …… 
+
+she placed it on grass and purified the birth.
 
 
-127-146. Nintur said to Uttu: "Let me advise you. From in the marsh one man is able to see up here, is able to see up here, he is; from in the marsh Enki is able to see up here, is able to see up here, he is. He will set eyes on you."
+44-51. Enki …… brought joy to their heart. 
 
-10 lines fragmentary ...... Uttu, the exalted (?) woman ......
-3 lines fragmentary
+He set a feast for his mother Namma and for Ninmaḫ. All the princely birth-goddesses (?) …… ate delicate reed (?) and bread. 
 
-147-151. (Uttu said:) "Bring cucumbers in ......, bring apples with their stems sticking out (?), bring grapes in their clusters, and in the house you will indeed have hold of my halter, O Enki, you will indeed have hold of my halter."
+An, Enlil, and Lord Nudimmud roasted holy kids. All the senior gods praised him: "O lord of wide understanding, who is as wise as you? Enki, the great lord, who can equal your actions? 
 
-152-158. When he was filling with water a second time, he filled the dykes with water, he filled the canals with water, he filled the fallows with water. 
+Like a corporeal father, you are the one who has the me of deciding destinies, in fact you are the me."
 
-The gardener in his joy rose (?) from the dust and embraced him: "Who are you who ...... the garden?"
 
-159-166. Enki (said to) ...... the gardener:
+52-55. Enki and Ninmaḫ drank beer.
 
-4 lines missing
+Their hearts became elated, and then Ninmaḫ said to Enki: "Man's body can be either good or bad and whether I make a fate good or bad depends on my will."
 
-He brought him cucumbers in ......, brought him apples with their stems sticking out (?), brought him grapes in their clusters, filled his lap.
 
-167-177. Enki made his face attractive and took a staff in his hand. Enki came to a halt at Uttu's, knocked at her house (demanding): "Open up, open up." 
+56-61. Enki answered Ninmaḫ: "I will counterbalance whatever fate -- good or bad -- you happen to decide." 
 
-(She asked): "Who are you?"
+Ninmaḫ took clay from the top of the abzu in her hand and she fashioned from it first a man who could not bend his outstretched weak hands. 
 
-(He answered:) "I am a gardener. Let me give you cucumbers, apples, and grapes for your consent." 
+Enki looked at the man who cannot bend his outstretched weak hands, and decreed his fate: he appointed him as a servant of the king.
 
-Joyfully Uttu opened the house. Enki gave Uttu, the exalted (?) woman, cucumbers in ......, gave her apples with their stems sticking out (?), gave her grapes in their clusters. 
 
-{(1 line not in the ms. from Nibru:) He poured beer for her in the large ban measure.}
+62-65. Second, she fashioned one who turned back (?) the light, a man with constantly opened eyes (?). 
+
+Enki looked at the who turned back (?) the light, the man with constantly opened eyes (?), and decreed his fate allotting to it the musical arts, making him as the chief …… in the king's presence.
+
+
+66-68. {Third, she fashioned one with both feet broken, one with paralysed feet. 
+
+Enki looked at the one with both feet broken, the one with paralysed feet and …… him for the work of …… and the silversmith and …….} 
+
+{(1 ms. has instead:) 
+
+She fashioned one, a third one, born as an idiot. 
+
+Enki looked at this one, the one born as an idiot, and decreed his fate: he appointed him as a servant of the king.
+
+
+69-71. Fourth, she fashioned one who could not hold back his urine. 
+
+Enki looked at the one who could not hold back his urine and bathed him in enchanted water and drove out the namtar demon from his body.
+
+
+72-74. Fifth, she fashioned a woman who could not give birth. 
+
+Enki looked at the woman who could not give birth, {and decreed her fate: he made (?) her belong to the queen's household.} {(1 ms. has instead:) …… as a weaver, fashioned her to belong to the queen's household.}
+
+
+75-78. Sixth, she fashioned one with neither penis nor vagina on its body. 
+
+Enki looked at the one with neither penis nor vagina on its body and gave it the name 'Nibru eunuch (?)', and decreed as its fate to stand before the king.
+
+
+79-82. Ninmaḫ threw the pinched-off clay from her hand on the ground and a great silence fell}{(1 ms. has instead:) Enki threw all (?) the clay to the ground and was greatly ……. 
+
+The great lord Enki said to Ninmaḫ: "I have decreed the fates of your creatures and given them their daily bread. Come, now I will fashion somebody for you, and you must decree the fate of the newborn one!"
 

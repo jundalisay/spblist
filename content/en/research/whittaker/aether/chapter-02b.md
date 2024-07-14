@@ -34,7 +34,9 @@ The compounds were chemical individuals, distinct from mere mixtures of elements
 
 But the substances at that time accepted as elements were very different from those which are now known by the name. 
 
-Air and the calees[5] of the metals figured in the list, while almost all the chemical elements now recognized were omitted from it; some of them, such as oxygen and hydrogen, because they were as yet undiscovered, and others, such as the metals, because they were believed to be compounds.
+Air and the calees[5] of the metals figured in the list, while almost all the chemical elements now recognized were omitted from it.
+
+Some of them, such as oxygen and hydrogen, because they were as yet undiscovered, and others, such as the metals, because they were believed to be compounds.
 
 Among the chemical elements, it became customary after the time of Newton to include light-corpuscles.[6] 
 
@@ -92,14 +94,21 @@ After this discovery, it was no longer possible to identify the matter of heat w
 
 The former was consequently accepted as a distinct element, under the name of calorie.[15] 
 
-In the latter part of the 18th and early part of the 19th centuries[16] caloric was generally conceived as occupying the interstices between the particles of ponderable matter. It is an idea which fitted in well with the observation that bodies commonly expand when they are absorbing heat, but which was less competent to explain the fact[17] that water expands when freezing. 
+In the latter part of the 18th and early-19th centuries[16] caloric was conceived as occupying the interstices between the particles of ponderable matter. 
 
-The latter difficulty was overcome by supposing the union between a body and the calorie absorbed in the process of melting to be of a chemical nature; so that the consequent changes in volume would be beyond the possibility of prediction.
+This idea fitted well with the observation that bodies commonly expand when they are absorbing heat. But it was less competent to explain the fact[17] that water expands when freezing.*
 
-The imponderability of heat did not appear to the philosophers of the 18th century to be a sufficient reason for excluding it from the list of chemical elements. 
+> *Superphysics Note: This was explained by Descartes through water-particles having different shapes. 
 
-In any case, there was considerable doubt as to whether caloric was ponderable or not. 
 
-Some experimenters believed that bodies were heavier when cold than when hot; others that they were heavier when lot than when cold. 
+This was solved by assigning a chemical nature to the freezing and melting of water. In this way, the changes in volume would be out of scope for predictions.
 
-The century was far advanced before Lavoisier and Rumford finally proved that the temperature of a body is without sensible influence on its weight.
+<!-- The latter difficulty was overcome by supposing the union between a body and the calorie absorbed in the process of melting to be of a ; so that the consequent changes in volume would be beyond the possibility of prediction. -->
+
+The imponderability of heat did not appear to the philosophers of the 18th century to be a sufficient reason for excluding it from the list of chemical elements.
+
+In any case, they doubted as to whether caloric was ponderable or not. 
+- Some experimenters believed that bodies were heavier when cold than when hot.
+- Others believed that they were heavier when hot than when cold. 
+
+The century was far advanced before Lavoisier and Rumford finally proved that a body's temperature has no sensible influence on its weight.
