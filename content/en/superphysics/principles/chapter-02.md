@@ -35,6 +35,30 @@ In the previous chapter, we divided Existence into 2 domains:
 
 This has practical uses. 
 
+
+<!-- Chapter 3 explained that the downward flow of ideas from
+imagination into reality is facilitated by the Negative Force. This is
+matched by the upward climb of understanding from the Positive.
+In other words, a thing can travel from idea downwards to matter,
+just as matter can travel upwards to idea.
+
+For instance, we sometimes perceive something totally new. When
+Covid first struck in December 2019 in Wuhan, doctors had no
+metaphysical idea of it, even if they could see the physical disease.
+In this case, the physical disease started to exist through the senses
+of the Wuhan doctors. But the complete idea of it did not exist in
+human minds until scientists established it as a new idea called
+Novel Coronavirus Disease, later renamed as Covid-19.
+A materialist will say that this example is proof that ideas are
+created by material perceptions. We reply that the physicality of
+Covid came from the Supreme’s idea for Covid, and that our idea
+for Covid is a closing of that great loop from Consciouness to
+Existence and back to consciousness. The continuation of this loop
+includes the evolution of its idea from ‘Novel Coronavirus Disease’
+to ‘Covid-19’ as an example of metaphysical ‘aether drag’ which
+will be discussed in Book 2
+ -->
+
 For instance, we sometimes perceive something totally new. When Covid first struck in December 2019 in Wuhan, doctors had **no metaphysical idea of it**, even if they could see the physical disease. 
 
 In this case, the physical disease started to exist through the senses of the Wuhan doctors. But the complete idea of it did not exist in human minds until scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19. 
@@ -65,7 +89,7 @@ It follows that Covid-19 existed after Nature had the idea for it, and that its 
 
 
 {{< me date="December 14, 2021" >}}
-*This is why our proposed solution to end Covid is to end the war against the Amazon rainforest, just as the Spanish flu ended after the peace of World War I. Vaccines are just a workaround that is supposed to buy time to implement that real solution. Unfortunately, science thinks that vaccines are the solution. The error in this is proven by the rise in the recent Covid hospitalizations in Europe despite their high vaccination rates. 
+*This is why our proposed solution to end Covid is to end the war against the Amazon rainforest, just as the Spanish flu ended after the peace of World War I. Vaccines are just a workaround that is supposed to buy time to implement that real solution. Unfortunately, science thinks that vaccines are the solution. The error in this is proven by the rise in the recent Covid hospitalizations in Europe despite their high vaccination rates. Superphysics is pro-vaccination just like we are ok with paracetamol for headaches. But both are just workarounds to buy time to find the root cause of the virus and the headache. 
 {{< /me >}}
 
 

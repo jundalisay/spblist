@@ -64,7 +64,7 @@ Putting this under the 2-forces model, we can say that:
 <figcaption>David Hume is the big daddy of our Superphysics which [Taonomics](/taonomics) comes from</figcaption> -->
 
 
-All your individual experiences combined makes up your metaphysical self-organism, commonly called the [soul](/bio/principles/intro/chapter-01). 
+All your individual experiences combined makes up your metaphysical self-organism, commonly called the [soul](/bio/principles/intro/chapter-04). 
 
 **A soul can have many selves, but a self can have only one soul.** *
 

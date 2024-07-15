@@ -23,18 +23,20 @@ The Universe exists. Therefore, the Universe has consciousness.
 
 In Material Superphysics, this consciousness of the universe manifests itself through the reaction of objects. For example, rocks expand when heated, water flows down, light travels from a source to a target, etc. 
 
-Such actions are the effects of objects being conscious of their surroundings, as to react to them. A non-conscious object would be something that does not react at all. It would not be seen since it does not react to light, nor can be felt as it would not react to touch. 
+Such actions are the effects of objects being conscious of their surroundings, as to react to them. A non-conscious object would be something that does not react at all.
+- It would not be seen since it does not react to light.
+- It would not be felt since it would not react to touch. 
 
 In other words, a truly non-conscious thing would not exist at all. Rather, its existence could never be verified. 
 
-The actions of objects are therefore their ways of expression. 
+**The actions of objects are therefore their ways of expression.** 
 - Rocks expand as their expression to heat
 - Water flows as its expression of gravity 
 - Light travels from A to B as its expression of space
 
-The expression of non-living things is very much limited compared to that of living things. 
+The expression of such non-living things is very much limited compared to that of living things. 
 
-Since the expression of consciousness comes from the Positive Force, then it follows that the limitation of this expression comes from the Negative.  
+Since the expression of consciousness comes from the Positive Force, then it follows that **the limitation of this expression comes from the Negative**.  
 
 <!-- Each consciousness has its way to 
 
@@ -44,7 +46,10 @@ everything in the universe has mind and consciousness from the Positive Force. H
 
 A non-living thing therefore is non-living because the Negative Force constricts its mind to limited modes of expression such as expansion and simple movement.
 
-A living thing, on the other hand, has a mind that can accept external feelings and ideas and likewise express them because the constriction by the Negative Force is weaker. 
+A living thing, on the other hand, has a mind that can accept external feelings and ideas and likewise **independently** express them because the constriction by the Negative Force is weaker. 
+
+This independence manifests as willpower. 
+
 
 <!-- A non-living thing cannot, due to the confinement by the Negative Force. -->
 

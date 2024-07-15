@@ -3,7 +3,7 @@ heading: Discourse 4
 title: Winds
 weight: 20
 description: Descartes gives 4 Precepts on Math and Logic
-image: "/covers/method.png"
+image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

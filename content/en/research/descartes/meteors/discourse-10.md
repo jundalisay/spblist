@@ -3,7 +3,7 @@ heading: Discourse 10
 title: The Appearance of Multiple Suns
 weight: 42
 description: Descartes gives 4 Precepts on Math and Logic
-image: "/covers/method.png"
+image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

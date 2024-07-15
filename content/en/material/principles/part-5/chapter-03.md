@@ -113,7 +113,7 @@ The main difference is that this new version splits the identity of the object i
 
 
 
-> *This is based on David Hume's [idea of the self](/bio/principles/intro/chapter-01) 
+> *This is based on David Hume's [idea of the self](/bio/principles/intro/chapter-04) 
 
 Newton's laws, however, see the object as the same object. This limits it to linear, forced movements.
 <!-- It focuses on the journey and not the destination.   -->

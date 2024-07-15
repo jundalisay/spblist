@@ -42,7 +42,7 @@ Thus, Adam Smith's liberalism requires self-regulation which in turn requires th
 
 ## How our Personal Moral Sense as our Conscience Regulates the Ego through Fellow-feeling with our Future Self
 
-According to David Hume, [each perception of our selves](/bio/principles/intro/chapter-01/) is a discrete identity which is separate from our other selves. It means that the you of now is a different entity from the you 1 second from now and the you 2 minutes ago.
+According to David Hume, [each perception of our selves](/bio/principles/intro/chapter-04/) is a discrete identity which is separate from our other selves. It means that the you of now is a different entity from the you 1 second from now and the you 2 minutes ago.
 
 The conscience corrects our current self X by projecting the mind onto our future selves Y and Z which will bear the consequences of the actions of our self X. This then makes us correct our actions to avoid future pain. 
 
@@ -81,3 +81,4 @@ But the people who interpret Smith and Hume nowadays just take â€˜self-interestâ
 ## Fellow-Feeling Should Come First
 
 Before any action or policy is initiated, each person must have a fellow-feeling with his selves and with others. Without it, actions will likely be arbitrary and possibly hurtful to the self and others. Only when fellow-feeling and the moral sense is developed can self-regulatory policies be implemented.
+

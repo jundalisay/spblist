@@ -18,10 +18,12 @@ These 3 Gunās also exist in the Pure Ātman.
 But Ātman Itself is unattached. If you throw a blue pill into the fire, you will see a blue flame. If you throw a red pill, you will see a red flame. But fire itself has no colour of its own.
 
 If you put a blue pill in water, the water will turn blue. Again, if you put alum in that water, it will regain its natural colour.
+
 "A butcher was carrying a load of meat when he touched Sankara. Sankara exclaimed:
-'What! You have touched me!' The butcher replied: 'Venerable sir, neither have you
-touched me nor have I touched you. You are pure Ātman, unattached.' Jadabharata said
-the same thing to King Rahugana.
+
+'What! You have touched me!' The butcher replied: 'Venerable sir, neither have you touched me nor have I touched you. You are pure Ātman, unattached.' 
+
+Jadabharata said the same thing to King Rahugana.
 
 "The Pure Ātman is unattached, and one cannot see It. If salt is mixed with water, one cannot see the salt with the eyes.
 "That which is the Pure Ātman is the Great Cause, the Cause of the cause. The gross, the subtle, the causal, and the Great Cause. The five elements are gross. Mind, buddhi, and ego are subtle.
@@ -35,30 +37,45 @@ This Pure Ātman alone is our real nature. What is jnāna? It is to know one's o
 
 DEVOTEE: "Yes, sir."
 
-MASTER (smiling): "I can recognize a worshipper of the Formless by looking at his face and eyes. Please dive a little deeper. One doesn't get the gem by floating on the surface. 
+
+{{< l a="Ramakrishna" >}}
+(smiling): "I can recognize a worshipper of the Formless by looking at his face and eyes. Please dive a little deeper. One doesn't get the gem by floating on the surface. 
 
 As for myself, I accept all-the formless God and God with form."
+{{< /l >}}
+
 
 The Mārwāri devotees from Burrabazar entered the room and saluted the Master. He began to praise them.
 
-MASTER (to the devotees):"Ah! They are real devotees of God. They visit temples, sing hymns to God, and eat prasad. And the gentleman whom they have made their priest
-this year is learned in the Bhagavata." 
+
+{{< l a="Ramakrishna" >}}
+to the devotees):"Ah! They are real devotees of God. They visit temples, sing hymns to God, and eat prasad. And the gentleman whom they have made their priest this year is learned in the Bhagavata." 
+{{< /l >}}
+
 
 MĀRWĀRI DEVOTEE: "Who is this 'I' that says, 'O Lord, I am Thy servant?' "
 
-MASTER: "This is the lingasarira, or embodied soul. It consists of manas, buddhi, chitta, and Ahamkāra."
+{{< l a="Ramakrishna" >}}
+This is the lingasarira, or embodied soul. It consists of manas, buddhi, chitta, and Ahamkāra.
+{{< /l >}}
 
 DEVOTEE: "Who is the embodied soul?"
 
-MASTER: "It is the Ātman bound by the eight fetters. And what is the chitta? It is the 'I- consciousness' that says, 'Aha!'"
+
+{{< l a="Ramakrishna" >}}
+It is the Ātman bound by the eight fetters. And what is the chitta? It is the 'I- consciousness' that says, 'Aha!'
+{{< /l >}}
+
 
 
 ## What happens after death?
 
 DEVOTEE: "Revered sir, what happens after death?"
 
-MASTER: "According to the Gitā, one becomes afterwards what one thinks of at the time of death. King Bharata thought of his deer and became a deer in his next life. Therefore one must practise sādhanā in order to realize God. If a man thinks of God day and night,
-he will have the same thought in the hour of death."
+{{< l a="Ramakrishna" >}}
+According to the Gitā, one becomes afterwards what one thinks of at the time of death. King Bharata thought of his deer and became a deer in his next life. Therefore one must practise sādhanā in order to realize God. If a man thinks of God day and night, he will have the same thought in the hour of death.
+{{< /l >}}
+
 
 DEVOTEE: "Why don't we feel dispassion toward worldly objects?"
 
@@ -66,12 +83,14 @@ MASTER: "Because of māyā. Through māyā one feels the Real to be the unreal a
 
 DEVOTEE: "We read the scriptures. Why is it that we can't assimilate them?"
 
-MASTER: "What will one accomplish by mere reading? One needs spiritual practice- austerity. Call on God. What is the use of merely repeating the word 'siddhi'? One must eat a little of it.
+{{< l a="Ramakrishna" >}}
+What will one accomplish by mere reading? One needs spiritual practice- austerity. Call on God. What is the use of merely repeating the word 'siddhi'? One must eat a little of it.
 
-The hand bleeds when it touches a thorny plant. Suppose you bring such a plant and repeat, sitting near it: 'There! The plant is burning.' Will that burn the plant? This world is like the thorny plant. Light the fire of Knowledge and with it set the plant ablaze. Only
-then will it be burnt up.
+The hand bleeds when it touches a thorny plant. Suppose you bring such a plant and repeat, sitting near it: 'There! The plant is burning.' Will that burn the plant? This world is like the thorny plant. Light the fire of Knowledge and with it set the plant ablaze. Only then will it be burnt up.
 
 "One must labour a little while at the stage of sādhanā . Then the path becomes easy. Steer the boat around the curves of the river and then let it go with the favourable wind. 
+{{< /l >}}
+
 
 As long as you live inside the house of māyā, as long as there exists the cloud of you do not see the effect of the Sun of Knowledge. Come outside the house of
 give up 'woman and gold', and then the Sun of Knowledge will destroy ignorance. 
@@ -88,6 +107,7 @@ cloud.
 "The darkness of the mind is destroyed only when a man stands little apart from.
 
 'woman and gold' and, thus standing apart, practises a little austerity and spiritual discipline. Then only does the cloud of his ego and ignorance vanish. Then only does he attain the Knowledge of God. This 'woman and gold' is the only cloud that hides the Sun of Knowledge.
+
 
 ## Master's renunciation
 

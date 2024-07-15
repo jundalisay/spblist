@@ -5,7 +5,7 @@ linkTitle: "Five Strata"
 description: "The 5 Strata are the 5 Layers Applied to the Pure Metaphysical Domain"
 # date: "2020-10-15"
 date: 2024-07-08
-weight: 4
+weight: 3
 image: "/graphics/bio/strata.jpg"
 writer:
   name: Juan
@@ -16,7 +16,7 @@ icon: "/icons/spmed.png"
 ---
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 There are 2 Domains in Reality | This leads to a physical (material) body and a metaphysical (aethereal) body
 There are 5 Layers in Reality | In the physical body, the layers are called elements. In the metaphysical body, they are called strata. 

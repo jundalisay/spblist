@@ -1,7 +1,7 @@
 ---
 heading: Articles 145-148
 title: Fate, Fortune, and the Inner Emotions
-weight: 40
+weight: 44
 description: We must reject the common notion that there exists outside of us a Fortune which causes things to happen according to its pleasure
 image: "/covers/passions.jpg"
 writer:

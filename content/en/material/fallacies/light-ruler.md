@@ -31,7 +31,7 @@ The movements of everyday objects are quite slow. Usually, distance is just:
 
 <!-- > *Newton uses the word 'place' in Principia Mathematica, while he uses an entity called "Lord God" as the source of this time. This is consistent with Superphysics where we call the Mind of God as the Aether -->
 
-However, the movement of electromagnetic particles such as light and electricity can be very fast and is faster than what the human brain can process. This is the same cognitive weakness that makes an ego see itself as [one self instead of 3 billion selves](/bio/principles/intro/chapter-01).
+However, the movement of electromagnetic particles such as light and electricity can be very fast and is faster than what the human brain can process. This is the same cognitive weakness that makes an ego see itself as [one self instead of 3 billion selves](/bio/principles/intro/chapter-04).
 
 Without supercomputers* to visualize tensor calculus, Einstein's ego had to use thought experiments (his imagination) in order to visualize what would happen to fast-moving objects. 
 

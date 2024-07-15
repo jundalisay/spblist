@@ -1,8 +1,8 @@
 ---
 heading: Chapter 3
-title: "Metaphysical and Physical Life"
-description: "Metaphysical and Physical Life"
-date: 2024-07-04
+title: "Higher Mind and Lower Mind"
+description: "Higher Mind and Lower Mind are both metaphysical"
+date: 2024-07-07
 weight: 7
 image: "/photos/balancerock.jpg"
 writer:
@@ -14,11 +14,9 @@ icon: "/icons/spmed.png"
 draft: true
 ---
 
-Metaphysical life:
 
-- oversouls
-- individual souls abstract minds 
-- elementals
+The 8 densities are:
 
-
-Physical Life
+Domain | Density | Nature | Description
+--- | --- | --- | ---
+Physical | 1 | Identity | Pure Staticity, perceives as objects

@@ -3,7 +3,7 @@ heading: Discourse 7b
 title: Storms, Lightning, and All the Other Fires that Ignite in the Air
 weight: 36
 description: Descartes gives 4 Precepts on Math and Logic
-image: "/covers/method.png"
+image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

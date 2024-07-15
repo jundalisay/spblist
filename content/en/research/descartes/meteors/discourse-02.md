@@ -3,17 +3,17 @@ heading: Discourse 2
 title: Vapors and Exhalations
 weight: 8
 description: Descartes gives 4 Precepts on Math and Logic
-image: "/covers/method.png"
+image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: /icons/descartes.png
 ---
 
+<!-- subtle matter -->
+The air-aether in the pores of terrestrial bodies are more agitated at one time than another. This can be caused by the presence of the sun or some other cause.
 
-The subtle matter in the pores of terrestrial bodies are more agitated at one time than another. This can be caused by the presence of the sun or some other cause.
-
-This also agitates the small particles of these bodies more strongly.
+This also agitates the small earth-aether particles of these bodies more strongly.
 
 The small ones or those shaped or situated in a way that makes them easily separable from their neighbors.
 
@@ -21,7 +21,7 @@ This causes them to scatter here and there and rise into the air.
 
 <!-- This does not happen because they have any particular , or because the sun has any force that attracts them, but   -->
 
-This is simply because they cannot find any other place to go. 
+**This is simply because they cannot find any other place to go.** 
 
 It is not because they have an inherent inclination to ascend.
 
@@ -38,19 +38,31 @@ The action of the sun raises vapors quite high, since it always extends at the s
 <!-- the small parts of matter that compose vapors and exhalations  -->
 
 
-These small particles that are thus raised into the air by the sun should mostly have the shape I attributed to those of water because there are no others that can be so easily separated from the bodies they are in. 
+These small particles that are thus raised into the air by the sun should mostly have the shape of water because they are the most easily separable from the bodies that they are in. 
 
-These alone I will specifically call vapors, to distinguish them from others that have more irregular shapes and to which I will restrict the name exhalations, as I know no more appropriate term. 
+These alone I will call "vapors". These are different from the more irregular shaped ones I call "exhalations", as I know no more proper term. 
 
-However, among the exhalations, I will include those that, having nearly the same shape as the parts of water but being more subtle, compose spirits or life waters because they can easily catch fire. 
+Included in the exhalations are those with nearly the same shape as the water particles but are more subtle. These make up spirits or life waters that can easily catch fire. 
 
-I will exclude those that, being divided into several branches and being so subtle, are only suitable for composing the body of air. 
+I will exclude the earth-aether particles that compose the body of air that are:
+- divided into several branches
+- so subtle
 
-As for those that are a bit coarser and also divided into branches, it is true that they can hardly leave the hard bodies in which they are found by themselves, but if fire spreads in these bodies, it drives them all out in smoke. Also, when water slips into their pores, it can often release them and carry them up with it. This happens in the same way that the wind, passing through a hedge, carries away the leaves or straw entwined among its branches. 
 
-Or more accurately, like how water itself carries to the top of an alembic the small parts of those oils that alchemists are accustomed to extracting from dry plants when they soak them in plenty of water, distill everything together, and thus make the little oil they contain rise with the large amount of water. In fact, most of these parts are the same ones that usually compose the bodies of these oils. 
+There are earth-aether particles that are a bit coarser and also divided into branches.
+- They cannot leave the hard bodies which they are a part of by themselves.
+- But they can be driven by fire, for example, which drives them all out in smoke. 
 
-Also note that vapors always occupy much more space than water, although they are made of the same small parts. The reason for this is that when these parts compose the body of water, they only move strongly enough to bend and intertwine, sliding against each other, as you can see represented at A. However, when they take the form of vapor, their agitation is so great that they quickly turn around in all directions and stretch out to their full length, so that each has the force to push away all its similar parts that tend to enter the small sphere it describes. This is represented at B. It is similar to how, if you spin the pivot LM fast enough, through which the cord NP passes, you will see that this cord stands in the air, straight and stretched, occupying all the space within the circle NOPQ, in such a way that no other body can be placed there without being immediately struck with force and driven out. However, if you move it more slowly, it will coil around the pivot itself and thus will no longer occupy as much space.
+When water slips into their pores, the water can often release these earth-aether particles and carry them up with it. 
+- This happens in the same way that the wind, passing through a hedge, carries away the leaves or straw entwined among its branches. 
+
+<!-- Or more accurately, like how water itself carries to the top of an alembic the small parts of those oils that alchemists are accustomed to extracting from dry plants when they soak them in plenty of water, distill everything together, and thus make the little oil they contain rise with the large amount of water. In fact, most of these parts are the same ones that usually compose the bodies of these oils.  -->
+
+Vapors always occupy much more space than water, although they are made of the same small particles.
+
+This is because when these particles make up water, they only move strongly enough to bend and intertwine. They slide against each other, as represented at `A`. 
+
+However, when they take the form of vapor, their agitation is so great that they quickly turn around in all directions and stretch out to their full length, so that each has the force to push away all its similar parts that tend to enter the small sphere it describes. This is represented at B. It is similar to how, if you spin the pivot LM fast enough, through which the cord NP passes, you will see that this cord stands in the air, straight and stretched, occupying all the space within the circle NOPQ, in such a way that no other body can be placed there without being immediately struck with force and driven out. However, if you move it more slowly, it will coil around the pivot itself and thus will no longer occupy as much space.
 
 
 These vapors can be more or less compressed or expanded, more or less hot or cold, more or less transparent or obscure, and more or less humid or dry at different times.

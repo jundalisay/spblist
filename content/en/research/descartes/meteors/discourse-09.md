@@ -1,9 +1,9 @@
 ---
 heading: Discourse 9
-title: The Color of Clouds and the circles sometimes seen around the stars
+title: The Color of Clouds and the Circles Around the Stars
 weight: 40
-description: Descartes gives 4 Precepts on Math and Logic
-image: "/covers/method.png"
+description: After what I have said about the nature of colors, I do not think I have much to add about those that are seen in the clouds
+image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -28,20 +28,59 @@ In this way, there is almost none or no more that passes through.
 
 This is why neither crushed glass, nor snow, nor clouds when they are a little thick, can be transparent. 
 
-2. Although the action of luminous bodies is only to push in a straight line the subtle matter that touches our eyes, nevertheless the ordinary movement of the small parts of this matter, at least of those that are in the air around us, is to roll. 
+2. The action of luminous bodies is only to push the fire-aether in a straight line to our eyes.
 
-In the same way that a ball rolls on the ground, even though it has only been pushed in a straight line. And it is properly the bodies that make them roll in this way that are called white. As are, without doubt, all those that only lack transparency because of the multitude of their surfaces, such as foam, crushed glass, snow, and clouds.
+The ordinary movement of the small particles of this fire-aether in the air around us is to roll. 
 
-As a result of this, we can understand why the sky, being very pure and free of all clouds, appears blue, provided that we know that it does not emit any light of its own, and that it would appear extremely black if there were no exhalations or vapors at all above us, but that there are always more or less of them that reflect some rays towards our eyes, that is to say, that push back towards us the small parts of the subtle matter that the sun or the other stars have pushed against them: and when these vapors are in sufficient number, the subtle matter being pushed back towards us by the first ones, meets others afterwards which make its small parts roll and whirl, before they reach us. This is what then makes the sky appear white; Whereas if it does not meet enough to make its parts whirl in this way, it should only appear blue, according to what has just been said about the nature of the blue color.
+This is like a ball rolling on the ground, even though it has only been pushed in a straight line.
 
-And it is the same cause that also makes the water of the sea, in places where it is very pure and very deep, seem to be blue. for only a few rays are reflected from its surface, and none of those that penetrate it return.
+The "white" bodies are those that can make them roll in this way. Examples of these are all those that lack transparency because of the multitude of their surfaces:
+- foam
+- crushed glass
+- snow
+- clouds.
 
-In addition, we can understand here why often, when the sun sets or rises, the whole side of the sky towards which it is appears red: this happens when there are not so many clouds, or rather fogs, between it and us that its light cannot pass through them; but it does not pass through them so easily right against the earth as a little higher up; nor so easily a little higher up as much higher up: for it is evident that this light, suffering refraction in these fogs, determines the parts of the subtle matter that transmit it to whirl in the same direction as a ball would that came from the same side rolling on the ground. 
+This is why the sky appears blue when very pure and free of all clouds.
 
-So that the whirling of the lowest ones is always increased by the action of those that are higher up, because it is supposed to be stronger than theirs, and you know that this is enough to make the red color appear, which is reflected afterwards in the clouds, can spread on all sides in the sky. And it is to be noted that this color appearing in the morning presages winds or rain, because it shows that there being few clouds towards the East, the sun will be able to raise a lot of vapors before noon, and that the fogs that make it appear begin to rise; Whereas in the evening it testifies to good weather, because there being only few or no clouds towards the west, the Eastern winds must reign, and the fogs descend during the night.
+The sky does not emit any light of its own. 
+
+It would appear extremely black if there were no exhalations or vapors at all above us.
+
+They are always there to reflect some rays towards our eyes.
+
+They push back towards us the small parts of the subtle matter that the sun or the other stars have pushed against them.
+
+When these vapors are in sufficient number, the subtle matter being pushed back towards us by the first ones, meets others afterwards which make its small parts roll and whirl, before they reach us. 
+
+This then makes the sky appear white.
+
+Whereas if it does not meet enough to make its parts whirl in this way, it should only appear blue, according to what has just been said about the nature of the blue color.
 
 
-I will not dwell on the other colors seen in the clouds. For I believe that the causes are all well enough understood in what I have said. But there sometimes appear certain circles around the stars, which I should not omit to explain.
+This same cause also makes the water of the sea seem to be blue where it is very pure and deep.
+
+This is because:
+- only a few rays are reflected from its surface
+- none of those that penetrate it return.
+
+The sky towards the sun appears red when the sun sets or rises 
+
+: this happens when there are not so many clouds, or rather fogs, between it and us that its light cannot pass through them; but it does not pass through them so easily right against the earth as a little higher up; nor so easily a little higher up as much higher up: 
+
+This light suffers refraction in these fogs. It causes the fire-aether that transmit it to whirl in the same direction as a ball would that came from the same side rolling on the ground. 
+
+In this way, the whirling of the lowest ones is always increased by the action of those that are higher up, because it is supposed to be stronger than theirs, and you know that this is enough to make the red color appear, which is reflected afterwards in the clouds, can spread on all sides in the sky. 
+
+This color appearing in the morning presages winds or rain. This is because it shows that there are few clouds towards the East. It means that the sun will be able to raise a lot of vapors before noon. This will cause fogs to rise.
+
+In the evening. this color testifies to good weather because there are only few or no clouds towards the west. This means that:
+- the Eastern winds must reign
+- the fogs descend during the night.
+
+
+I will not dwell on the other colors seen in the clouds. 
+
+For I believe that the causes are all well enough understood in what I have said. But there sometimes appear certain circles around the stars, which I should not omit to explain.
 
 They are similar to the rainbow in that they are round, or almost round, and always surround the sun or some other star: which shows that they are caused by some reflection or refraction whose angles are approximately equal. As well as in that they are colored: which shows that there is refraction, and shadow that limits the light that produces them.
 

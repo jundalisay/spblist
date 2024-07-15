@@ -1,7 +1,7 @@
 ---
 heading: Articles 79-
-title: What are the Passions of the Soul?
-weight: 4
+title: Love and Hatred
+weight: 25
 description: What is Passion in relation to one subject is always Action in another respect.
 image: "/covers/passions.jpg"
 writer:

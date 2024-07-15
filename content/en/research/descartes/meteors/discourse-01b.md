@@ -1,6 +1,6 @@
 ---
-heading: Discourse 1
-title: The Nature Of Terrestrial Bodies
+heading: Discourse 1b
+title: The Nature Of Water
 weight: 6
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/meteors.png"
