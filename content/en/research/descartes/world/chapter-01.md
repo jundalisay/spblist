@@ -14,7 +14,7 @@ icon: "/icons/descartes.png"
 
 
 
-Cartesian Axioms | Propositions
+Cartesian Principles | Assertions
 --- | ---
 Our senses depend on media |  Light is a medium of the object, it does not represent the actual object
 

@@ -1,212 +1,361 @@
 ---
 heading: "Chapter 7"
-title: "Life and The Nature of Mind"
-# date: 2020-01-01
-date: 2020-12-10
-weight: 24
-image: /graphics/meta/mind.png
-description: "Everything in existence is an idea of the Creator of that existence"
+title: "Qualimath: The Math for Superphysics"
+# Math for Qualities and Ratios" more than Quantities and Equalities"
+date: 2020-12-27
+weight: 36
+image: "/graphics/physics/math.jpg"
+description: "Qualimath is Math for operating on Qualities instead of Quantities"
+icon: /icons/sp.png
+math: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
 ---
 
 
-{{< q c="The Kybalion" >}}
-"Then," you ask, "do you mean to tell us that THE ALL is LIFE and MIND?" 
+Principles | Assertions
+--- | ---
+Each Idea is Unique | Cause and Effect are in Relation to each other
+. | Qualimath Denotes this Relational Cause and Effect
 
-Yes! and No! is our answer.
+
+Chapter 4 explained that reality is made up of long perception-chains of cause and effects, called by the Hindus as ''karma-samskara-karma'. 
+
+A long series of chains gains the dynamics of a wave. This wave we can split into 3 states:
+
+1. Karma-Action State 1
+2. Samskara-Pending Pseudo-State
+3. Karma-Reaction State 2
+
+We can extend this wave to have more states.
+
+{{< img src="/graphics/physics/waves.jpg" alt="Wave" cap="A wave is made up of many different states which reveal a hidden focus or dharma which we call a 'gravitational signature' to make it sound scientific" >}}
+
+We can know why State 4 is the way it is if we look at all its states from 1 to 4. We can then use this knowledge to predict its future states. We can write this as:
+
+```elixir
+State 1 : State 2 : State 3 :: State 4
+```
+
+
+We do not notate the pseudostates that are in between state 1 and 2, 2 and 3, and 3 and 4 since they are pending reactions  and have no objective manifestation in reality YET.  
+
+---
+
+
+The colon means 'relative to' or 'compared to', and is a fundamental part of our proposed 'Qualimath'. In this way, Poincare's Law of Relativity is built into even the most elementary equations, such as those taught for kids. Rather, Relativity is baked into Descartes' First Law of Motion which is about state-change instead of inertia. And so we can safely throw away everything that Einstein made.
+
+This is different from normal math which uses 'deltas'.
+- Those deltas compare the object with itself at different states.
+- This is because math focuses on the object itself, and not on the totality of the reality where that object is in.
+
+For example, a basic math equation is `1 + 1 = 2`. This can be visualized by:
+
+{{< img src="/graphics/physics/line.jpg" alt="Line" cap="Addition of distance leads to a new location, or the addition of self-instances leads to more instances" >}} 
+
+Notice how this is overly simplistic and does not expand on cause and effect. We turn this into qualimath by adding the necessary parts:
+
+{{< img src="/graphics/physics/linequali.jpg" alt="Line" cap="We qualimath a line. The addition of distance leads to a new location from local-motion (this is a Spinoza perspective), or the addition of self-instances leads to a new self (this is a David Hume perspective)" >}}
+
+Here, we expose that the focus of the equation or line is itself. The qualimath equation is `State 1 :: State 2` which we deconstruct as:
+
+```elixir
+(1 + 1) :: 2
+```
+
+This leads to the same output as the `1 + 1 = 2` of normal math, while imposing the following mental changes:
+
+- `1 + 1` is a rigid ratio of `2`, not an equality. This makes it flexible and anti-dogma. This is useful when it comes to constants
+- Both sides have the same importance
+- A straight-line equation would imply that the focus is on the line itself. 
+
+The concept of a *focus* is super important as it is the basis of:
+- [gravitational signatures](/material/principles/intro/chapter-02)
+- the hierarchy of the universe
+- Descartes' [First and Third Rules of Movement](/material/principles/intro/chapter-03) 
+
+
+## A More Complex Example
+
+Let's say we want to convert `17 * 19 = 323` to Qualimath. This will create 3 states in our sandbox:
+
+- State 1 for `17`
+- Pseudo-state or action for `19`
+- State 2 for the `answer`
+
+We notate this as `(State 1 * action) :: State 2`, deconstructed as `(17 * 19) :: answer` 
+
+We use Egyptian Math, as Al-Khwarizmis algorithms, to deconstruct `17` (State 1) into its doubles as a ratio of the doubles of `19` (action).
+
+{{< youtube wciL_yCmZe8 >}}
+
+
+State 1: 17 | Action: 19 
+--- | ---
+**1** | **19**
+2 | 38
+4 | 76
+8 | 152
+**16** | **304**
+
+
+We use State 1 as the focus and add the corresponding values in the `action`* to get State 2 as `323`**. 
+
+> *Action is a pseudo state of State 1 that allowed the change. Without that pseudo-state, then State 1 would stay close minded and not be open to change and therefore remain as State 1 instead of changing to State 2.  
+
+
+> *`323` = `304` [as 5th row of State 2 or `16`] + `19` [as 1st row of State 1 or `1` to get `17`]
+<!-- We can add to this equation such as multiplying `323` by `2` to get `646`. -->
+
+Here, the smaller number is put before the larger. In case of multiple multipliers, the first 2 are combined then rearranged, then multiplied with the latter multipliers. 
+<!-- This smaller-to-higher arrangement is similar to  -->
+
+
+This use of states, foci, and arrangements greatly simplifies math instead of making it boring and burdensome.  
+
+
+{{< q a="Descartes" c="Method of Reasoning and seeking Truth in the Sciences Simplified, Part 2" >}}
+Modern algebra has so many certain rules and formulas that it is full of confusion and obscurity that embarrasses instead of cultivating the mind.
 {{< /q >}}
 
 
-Chapter 2 explained that ideas and feelings are subdivisions of the experience of the experiencer:
 
-- experiencer
-- experience
-  - feelings 
-  - ideas
+### Decon Notation: Solving the Measurement Problem
 
-<!-- > *We use 'experiencer' instead of consciousness in order to stay away from New Age ideas. This is because the New Age is from the Western mentality which seems to emphasize mentalism, as a counterweight to materialism. It does not emphasize dharma. -->
+Material Superphysics will explain that the root cause in the limitations in Physics (and consequently, in the technologies that humans can develop) is the limited ability of humans to perceive beyond the Radiant Layer (electromagnetism and light). 
 
+<!-- The real cause of the absurdity is the scientific decree to make things measurable.  -->
 
+Objective measurements are based on light giving our natural light-detectors (eyes) objective information. 
 
-Experiences are then powered by 2 Forces:
-- The Negative Force leads to experiences
-- The Positive leads to the understanding of those experiences
+Beyond the Radiant Layer are the Spacetime and Aether layers where the measurements are naturally subjective. For example:
+- The distance from House A to House B can be denoted in meters, yards, feet, etc.
+- An idea can be important to some, but not important to others.  
 
-But what about the experiencer or the mind that experiences those ideas and feelings? 
+We say that such measurements are subjective and are more qualitative instead of quantitative. We can say that: 
+- Materiality and Electromagnetism focus on quantitative particles
+- Space, time, and feelings focus on qualitative waves
 
-<!-- So far, the matrix of existence has two aspects:
-- metaphysical
-- physical
+<!--  wich c as the ghighest kind of ruler. The wohole big giat problem is that the aetehr is above spacetime whtih itselfis above lectromagentism. So The aether is not measurebale by sight or electronic eqiupement fof the electomagneic layer and is onlyindirectly measurable by the spacetime layer. 
 
-The contents of this matrix are only:
-- experiencer
-- experience (as ideas and feelings) -->
+This neesd a whole new math which we call qualimath which measures chanigng aetereal qualities instead of discrete material quantities.  -->
 
-For the experiencer to actually experience the infinite combination of ideas and feelings, it needs a container for them. This metaphysical container or arena is called a mind which is designed to hold and process its own ideas and feelings, which are collectively called 'perceptions'.
+<!-- We can further simplify math by  -->
 
-Thus, an experiencer has 2 parts:
-- mind as the container for experiences
-- consciousness as the perceiver of that container
+We thus assign qualities to our deconstructed equations. 
 
-{{< img src="https://sorasystem.sirv.com/photos/audience.jpg" alt="A show" cap="The mind is the stage where perceptions and thoughts get processed and exoperienced by consciousness" >}}
+<!-- This is also because waves are more qualitative than quantitative in nature.    -->
 
+<!-- To get around this shortage, we will use *the qualitative aspects of waves* that combines its qualities such as amplitude, oscillation, vector, wavelength, etc.  -->
 
-## Metaphysical Mind, Physical Mind
+For example, in `Wave 1 + Wave 2 = Wave 3`, we assign qualities instead of numbers and processes so we can arrive at the general outcome faster. 
 
-Our system splits reality into a metaphysical domain and a physical domain. This leads to every mind having 2 parts in terms of structure:
+The `+` and `=` represent the natural actions of the human mind. The minds of less advanced species, such as penguins, might be capable of `+` and `-`, but are not capable of `*` or `/`. 
 
-1. A metaphysical mind
+Likewise, human minds seem to be limited to `=` and do not dwell so much on `:` which reqresents the hidden connection between things.*
 
-This is the mind that occupies the metaphysical domain, and is called the soul. Philosophers call this the higher mind, spiritual mind, or subjective mind.
+> *Bio Superphysics explains this to be caused by humans eating crude food such as meat which then crudifies the thinking process.
 
-2. A physical mind 
+<!-- Since it deals with qualities instead of quantities, we can call it **Decon Notation** and its underlying system as **Quali-math**.  -->
 
-This is the mind that occupies the physical domain. This is what scientists believe in. Philosophers call this the lower mind, crude mind, or objective mind.
+This solves measurement problems by allowing anyone to create a *subjective* measure. For example, assuming a predefined intuitive range of qualitative* values which *focus* on looks:
 
 
-{{< q a="Benham" >}}
-Recent experiments by scientists have demonstrated that the human being is possessed of a double consciousness or mind. One part operates in our material existence.. The other part operates on the plane of our spiritual existence
+``` elixir
+abominable, hideous, very ugly, ugly, unattractive, soso, pretty, beautiful, very beautiful, gorgeous, drop-dead gorgeous
+```
+
+
+> *Qualities are subjective
+
+
+
+Then we can create equations:
+
+``` elixir
+pretty + pretty = beautiful
+beautiful + 2(ugly) = ugly
+hideous + beautiful = ugly
+```
+
+This can then be “translated” into any language*:
+
+``` elixir
+maganda + maganda = sobrang ganda
+kaakit-akit + kadiri = napaka-pangit
+dep + dep = rat dep
+```
+
+
+> *This is important because Superphysics uses many non-English words like aether, monad, jiva, atman, bhuta, guna, chi, wu-xing, etc. In fact, we propose an overhaul of English, as Lish, to make it more intuitive. For example, add 's' to pluralize nouns so that oxs, datas, childs would be correct. But that is a totally different topic.
+
+
+<!-- In a future post, we will expand this into chemical compounds computation, and in linear algebra to produce general qualitative outcomes instead of exact quantitative answers.  -->
+
+A sample implementation is our use of [male and female charges](/material/principles/part-3/chapter-04/) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics, since it is more intuitive to combine different kinds of males with different kinds of females. 
+
+This quali-math will make the most sense when you think of a spaceship using quantum teleportation that not only will use 2D space as in a car on Earth or a 3D space like an aircraft, but a space with 4 or 5 dimensions as time-multiverses and alternative universes, where normal math breaks down.
+
+For example, `1 + 1 = 2` might be true for this universe, but it might not be true for a different universe where `1 + 1 = 1` or where the conception of two ideas automatically merges them into one idea. In such a universe, it is the mind that splits itself into different perception-units in order to create the idea of numbers. This is the opposite in our universe, where the perceiving entity is one, and the it is the observed entities that are multiples and discrete. 
+
+
+## The Double Colon as Mirror
+
+To account for this mind-splitting behavior, <!--  make ratios and relationality permanent, --> we propose a new notation using flexible colons instead of the rigid equals sign. The former represents the flexible nature of the universe as opposed to its strict rigidity as the latter.
+
+{{< img src="/graphics/physics/math.jpg" alt="Mathematics" >}}
+
+- The single colon is like a flexible ratio. You can think of this as a hazy mirror that lets the other side look a bit different 
+- The double colon is like a rigid equals sign. This is a clearer mirror but still not a perfect reflection.
+- The triple colon is a strict equality that involves the kinds of data*. This is a perfect mirror. 
+
+> *In programming this is similar to =, ==, and ===
+
+
+{{< box >}}
+### The Theory of Universal Relationality
+
+This ratio represents our theory of "universal relationality*" which is represented in reality by [gravitational relationality](/material/principles/part-2/chapter-04), among others.
+
+All philosophers say that everything is connected, even the sophistical pseudo-philosopher John Stuart Mill. 
+
+The ratio sign signifies this connection. 
+
+In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect. This is because in Cartesian Physics, which is one basis of Superphysics, there is no void in Nature (i.e. God is everywhere in Spinoza-speak). 
+
+The lower dimensions like ours has more rigid ratios that lead to discrete and 'hardened' identities, while higher dimensions have more flexible ratios that lead to more malleable ones.
+
+Since the lower dimensions are more stubborn, they require more effort and energy to change than the upper dimensions. So it makes sense for enlightened entities to spend their energy going into the higher dimensions instead of wasting energy in the lower dimensions trying to convince crude-minded materialists that God exists or that the universe is conscious. 
+
+
+#### Update March 10, 2022
+
+An example of the "hardness" of this dimension is the hardness of will of Russia in invading Ukraine and in Ukraine stubbornly not giving up, not caring about the chain-reaction that it causes to other nations and the planet. 
+
+In a better universe (with qualimath as the norm), Russia, Ukraine, and NATO will "soften" their minds and egos (less strong force, more gravitational force) as to harmonize with each other, being more sensible how their actions affect the planet.
+
+In this universe, such a softening can be encouraged by emphasizing the abstract, flexible aether, over rigid and hard solid matter.
+{{< /box >}}
+
+
+## The State Limiter
+
+In `1 + 1 = 2`, the mind sweeps from the left to the right. But in `(1 + 1) :: 2`, the mind splits itself into the left and the right. It becomes an impartial spectator* of both sides or states.
+
+> *This idea was developed by Adam Smith who criticized the sophistical math of the mercantile system. Such sophistry now manifests as the strict demand for GDP growth by Economics which is currently causing mass exctinction and conflicts. Economics enshrines growth because it has imposed money-only as the means of transaction. The problem is that money is an inert and static thing that gets its value from being exchanged. This mindless, self-destructive, constant exchange gives movement, growth, and consequently value. 
+
+
+In this way, the formula of economist John Maynard Keynes for money supply `M` as being affected by liquidity preference `L` and interest rate `r` 
+
+```elixir
+M = Lr
+```
+
+becomes:
+
+
+```elixir
+M :: (L : r)
+```
+
+when deconstructed:
+
+```elixir
+money_supply :: (liquidity_preference : interest-rate)
+```
+
+This translates to "the money supply is totally dependent on the love of cash and the profits in lending (or cost of borrowing) cash"
+
+
+
+Likewise, Newton's gravity changes from 
+
+```elixir
+F = (Gm1m2)/r^2
+```
+
+into
+
+
+```elixir
+F :: (G (m1/r^2 : m2/r^2))
+```
+
+
+Notice how this isolates Newton's `G` away from the two masses being compared. 
+
+We then deconstruct it in Cartesian Physics further:
+
+<!-- `gravity between objects :: Gravitational_limiter (Mass1 / distance_between_them ^ 2 : Mass2 / distance_between_them ^ 2)` -->
+<!-- material-layer-gravitational-signature -->
+
+```elixir
+gravity_between :: (material_layer_limiter (matter_amount_in_identity1 / distance_between^2 : matter_amount_in_identity2 / distance_between^2)
+```
+
+This translates as "the pushing force of spacetime between 2 material identities depends on the quantity and quality of matter in them and their distance from each other."
+
+In future posts, we can apply the same technique to Maxwell's equations to show how the spacetime, radiant, and material layers work together to create Electromagnetism.  
+
+
+
+
+In price equations, this will allow us to more easily remove the influence of interest rates (of the financial system) and taxes (of the government) in order to reveal the natural price ratios from their own perspective. 
+
+The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Notice how this system does not require PEMDAS because of the allowance for mind-splitting behavior.
+
+
+## Math with a Practical and Moral Purpose Inspired by Al-Khwarizmi and Descartes
+
+
+The above decontstructed equation "`gravity_between`" gives us 2 benefits:
+
+1. Practical: It helps us *code* the equation more easily into procedures and algorithms
+2. Moral: It makes us think of `Mass1` and `Mass2` independently, and separate from its limiter
+
+Quali-math is inspired by **Al-Khwarizmi** who invented algebra from his work on "Calculation by Completion and Balancing". 
+
+The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*.
+
+{{< img cap="Automated Natural Intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}
+
+> *The original purpose of Algebra (Al-Jebra or 'the repair or healing') was to divide an estate and compute the inheritance due to each heir. <!-- The Europeans seemed to have used it for warmaking --> This matches the problem-solving nature of Superphysics. This is opposite of Einstein's math as sophistical tensors coming from his wild imagination which creates more problems. It is also different from Newton's Calculus which originated from plotting curvilinear motion. Superphysics allows teleportation which totally negates curvilinear motion.   
+
+
+
+An algorithm is an implementation or processing of a model. This processing is automated by computers as machine learning, which is the automation of natural intelligence, which is wrongly called artificial intelligence. We call it properly as [Automated Natural Intelligence](/superphysics/solutions/isaiah) (ANI) and is one of the goals of Superphysics.
+
+
+Qualimath will allow an AI-driven* ship that teleports into another universe, which has different physics, to transpose its logic and definitions more easily to match that universe. This is because it uses quality instead of quantity.
+
+> *The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores (Update 2024: This is now done by GPUs which have multiple cores). In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics.  
+
+> 
+
+A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that defintion is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
+
+{{< q a="Smith" c="Theory of Moral Sentiments" >}}
+I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can survey both at equal distances, and judge their real proportions.
 {{< /q >}}
 
-
-
-## Life and the Living Universe
-
-In terms of activity, physical minds are then classified into two:
-
-- A physical mind that can do its own actions or expressions is called a 'living thing' by humans
-- A physical mind that cannot express nor act is called a 'non-living thing'
-
-{{< img src="/graphics/meta/mind.png" alt="Living and non-living mind" cap="A living thing has a mind that can accept external feelings and ideas and likewise express them. A non-living thing cannot, due to the confinement by the Negative Force" >}}
-
-
-'Life' therefore is the state of a mind being independently expressive within a physical body. 
-
-A metal rod reacts to heat by turning red, as its means of expression. But we do not regard it as alive **because its expressiveness is not independent of the Nature around it**. This manifests as its identity not having its own willpower. Its destiny is totally dependent on its surrounding environment. 
-
-This means that even though the metal rod is not alive, the physical universe, which it is a part of, is the one that is alive. The physical events inside the universe depend on chance. **This chance is really the will of the physical universe being perceived by living entities such as bacteria, plants and animals.** 
-
-This living universe is the subject of study of Material Superphysics just as the Supreme Entity is the subject of Superphysics, and the Absolute Entity is the subject of Metaphysics.  
-
-If the physical universe were one living body, then the metal rod mentioned above is just one of its tiny body parts that seem non-living from our limited point of view. 
-
-Thus, the living nature of the physical universe is seen in:
-- the reaction of chemicals 
-- the expansion and contraction of matter
-- the fact that material things do not go through each other
-- etc.
-
-A dead universe will have no heat, no change, no evolution.
-
-<!-- A 'soul', then, is such a mind that exists independent of a body.  -->
-
-<!-- Mind, Non-Living Mind -->
-
-We therefore can regard the living things that we see as living things within the living physical universe.  
-
-Viruses are in the in-between state between living and non-living. They are minds that are independently expressive with their RNA or DNA as their gravitational signature. But they require other physical bodies for that expression. 
-
-<!-- A 'virus' is in-between a non-living idea and a living or expressive mind, that manifests as DNA or RNA. It has to use living things to spread itself as its means of expression or action. -->
-
-
-## The Supreme Entity and the Absolute Entity 
-
-Our metaphysical souls inhabit our physical bodies just as the metaphysical Supreme Being inhabits this living physical universe. It is this integration of the Supreme and the physical that we call 'Mother Nature' or 'God'.  
-
-![Outer space](https://sorasystem.sirv.com/photos/space.jpg)
-
-The physical universe is therefore the most obvious means of Its expression just as we are less obvious and more complicated ones.  
-The question 'Does God exist?' can be answered by 'Can you perceive Existence?'. 
+{{< img src="/graphics/movement.png" alt="Superphysics Movement" cap="Qualimath uses Poincare's Law of Relativity which uses aethereal state-change instead of Einstein's Relativity which uses tensors" >}}
 
 
 
+Because of this, Qualimath also creates moral effects. It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side as what Westerners tend to do. 
 
-<!-- From the viewpoint of the Creator:
-- the DNA of viruses and bacteria are simple ideas
-- the souls of humans and cats are complex ideas.
-
-But from the viewpoint of viruses and bacteria, they themselves are minds, just as cats and dogs are see themselves as minds (cause) and not as ideas (effect). 
-
-Likewise, we see ourselves as the cause of our own actions instead of being the effect of the Creator (working through us).
+While the practical aspect is based on [Al-Khwarizmi](/research/musa/algebra/chapter-01), this moral aspect is based on Rene Descartes who invented exponents and the Cartesian plane, among others, from his realizations on how the mind works*, as well as David Hume from whom Adam Smith got his ideas.
 
 
-## Dharma, Tao, or The True Nature
+<!-- This is in line with the Hindus inventing zero to represent the existence of nothingness. Rather, zero implies that space is empty *but is actually meant by Nature to be filled* (since Nature abhors a vacuum). The Romans and the ancient Chinese did not have such an advanced metaphysical concept. Aristotle had, but did not seem to deploy it into reality.
 
-The independence of the minds of bacteria, cats, dogs, and humans from each other then implies that they have their own innate and unique expressions and experiences different from those of others. Otherwise, they would just be one entity and not separate entities. 
+Qualimath also bridges modern math, which 'prefers' single integers or the small picture or 'micro', with ancient Egyptian math, which 'prefers' the large view or 'macro'. Thus, it harmonizes the different ways of looking at existence, making it more flexible and dynamic:
 
-{{< q a="Aristotle" c="The Metaphysics by Aristotle Simplifed, Book 7, Part 13" >}}
-Of which individual then will this be the substance?  Either of all or of none. But it cannot be the substance of all. If it is to be the substance of one, this one will be the others also.
-{{< /q >}}
-
-
-This innate uniqeness to experience and express Existence is an identity's dharma or tao. Socrates calls this <!-- innate need and design --> 
-
-<!-- as a thing's 'True Nature'* and has been explained in our Law of Conservation of Idea. 
-
-> *The English word 'Nature' is ambiguous and so we use 'Dharma' instead to specify the True Nature passively, and Tao to specify It actively  
-
-
-{{< q a="Socrates" >}}
-Absolute greatness, health, strength, and the true nature of everything. These cannot be perceived by our bodily organs. The closest we can get to knowing their several natures is through our intellectual vision. This will give us the most exact conception of the  essence of each thing.
-<cite>Phaedo by Plato Simplified, Chapter 2</cite>
-{{< /q >}}
-
-Lao Tzu calls acting within one's True Nature as being with the Tao. 
-
-
-
-## A Dynamic Existence
-
-Since each mind is unique, and since everything is a mind, then all minds must move to keep its uniqueness and separation from others. --> <!-- with each mind being an idea from the viewpoint of the Creator, then we establish this principle of uniqueness as **The Law of Conservation of Idea**.
-- The need to be unique causes the separation between minds and objects.
-- This creation of separation then creates change and movement.    --> 
-
-<!-- 
-**Under this paradigm, movement is originally caused by internal differences and not by external forces.** 
-
-Even the external forces from heat really come from the internal nature of hotness that easily affects or moves objects that are internally predisposed to be affected by heat. 
-
-Movement arises from the differences in internal natures. This explains why:
-- some objects are easily moveable, while others are difficult to move
-- some people are easy to convince, others are very difficult to convince
-- some animals are easy to train, others are not easy to train
-- some societies advance rapidly, others stay backward
-
-Is there anything in Existence that is not moveable or changeable?
-
-
-Having explained the nature of the mind, we next explain the nature of consciouness which is 'inside' the mind. 
+- Modern math from the micro going macro
+- Ancient Egyptian math from the macro going micro
+- Hindu (Vedic) math grouping and scaling identities via zero 
  -->
 
-<!-- In the next post, we will explain the difference between The One, as The Absolute, and The Creator, as The Supreme Entity. -->
+ > *We extend the Cartesian plane into two: [a physical one and a metaphysical one](/material/solutions/cartesian-view)
 
-
-<!--  Morality is Always Relative -->
-
-<!-- Good and evil then is how this need is protected or destroyed. Thus, morality, or the perception of good and bad, depends on two things:
-
-- the nature of object
-- the nature of the experiencers of the object 
-
-This is why morality is always relative and changing. One society might feel that it is moral to be liberal, while another will feel that liberality is immoral and that conservatism is moral.  -->
-
-
-<!-- In Tantra Yoga, the Supreme Entity merely exists alone, without space nor time. Since a thing exists only if it is perceived, then as an absolute entity, the Supreme Entity technically did not exist and did not have value because It was alone.
-
-To solve this problem, It made perceivers of Itself from Itself (since there was nothing else). In other words, It split Itself into infinite entities, both conscious and unconscious.
-
-The original substance of these entities is called Shiva and the force that splits it up is called Shakti. The original form is called Nirguna Brahma and the resultant form is called Saguna Brahma or the entire observable universe and multiverses.
-
-Since existence was created for the Creator and not the ‘createes’ then by default all existing entities feel an urge to know the Creator. The deepest and most lasting happiness is achieved when it is related to the Creator. This is generally called spirituality. The process for achieving this happiness is called yoga, which aims to unify the createe (soul) with the Creator (pure consciousness). The exact state of union is called samadhi. -->
-
-<!-- Since everything in existence is from the ideas of the Creator of existence, then dharma and morals can be properly attributed to It. -->
-
-
-<!-- Ideas are static metaphysical objects carved out of the infinity of possible objects. Instead of mass, ideas use probability and all ideas have an equal probability. Even consciousness is an idea. It is its starting point in the physical dimension that makes the difference. For example, if Covid started in Antartica then it would be an insignificant idea. If a galaxy started in an energy-less part of the universe, then it would be insignificant as well. So the idea that supports Covid is its RNA, just as the idea supporting a galaxy is its supermassive black hole and there is no need for dark matter and that's why they will never find it no matter how many MIT or Berkley geniuses they throw at it. -->
-
-
-<!-- Our solution to differences in moral standards is to get as many feelings as possible and then get the lowest-common-denominator-feeling that can serve as the base of a universal moral system. 
- -->

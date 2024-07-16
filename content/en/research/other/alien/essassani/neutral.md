@@ -1,7 +1,7 @@
 ---
 title: "Neutrality, Positivity, and Negativity"
 weight: 10
-image: "/photos/physics/quasar.jpg"
+image: "/photos/social/audience.jpg"
 description: "Neutrality, Positivity, and Negativity are the mindsets that are possible."
 author: Consolidated from Bashar
 ---
@@ -26,6 +26,8 @@ The Infinite Creator has given YOU free will, so you can now use it to:
 
 
 ## Events are Neutral Props
+
+{{< i s="/photos/social/audience.jpg" a="Stage" >}}
 
 A theater that shows many plays hsa some props that are reused for several different plays. 
 - That prop has a special meaning for each play. 
@@ -59,9 +61,13 @@ Negative Interpretation --> Negative Undesirable Experience
 - If you assign a negative meaning to an event, this will produce/attract a negative undesirable experience for you.  
 
 Imagine a storyline with a fork in the story.
+
 - The story could go either of two ways - one with a wonderful outcome and the other one totally unpleasant.
 - You are at this "fork" in the story-line
 - The interpretation that you assign to this neutral situation totally determines which fork in this story line you will take (which version of reality you are choosing to experience).
+
+
+{{< i s="/graphics/flipbook.gif" a="Flipbook" >}}
 
 
 Let's say that an event occurs that you normally would react negatively to.

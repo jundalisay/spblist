@@ -13,7 +13,7 @@ icon: /icons/pantry.png
 
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 The 2 Forces in Physical Reality | This manifests as different kinds of energy, a bit different from Physics entropy
 

@@ -13,7 +13,7 @@ icon: /icons/spmat.png
 
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 The Law of Conservation of Idea | This manifests as Gravitational Signatures
 . | Gravitational Signatures lead to Gravitational Territories whenever the Spacetime Layer is considered

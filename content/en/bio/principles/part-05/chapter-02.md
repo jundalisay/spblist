@@ -80,6 +80,6 @@ Likewise, a religious policy such as praying 5 times a day (Aethereal Level) cou
 
 The importance of the Convertible Layer means that work from home or flexible work arrangement should be made possible by employers. 
 
-This integrates well with our [5-Layer-goal-setting model](/superphysics/principles/chapter-08e/) for the realization of the goals or needs of the soul. 
+This integrates well with our [5-Layer-goal-setting model](/superphysics/principles/chapter-02/) for the realization of the goals or needs of the soul. 
 
 ![Goal-Setting](/graphics/meta/ngu.jpg)

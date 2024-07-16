@@ -36,13 +36,13 @@ In Material Superphysics, galaxies take the form of spatial vortices in the aeth
 
 This system is replicated in the metaphysical domain in living organisms through their mental (metaphysical) body. These spatial vortices are called **chakras**. 
 
-Like galaxies, they are flat discs that rotate in a counterclockwise manner. 
+Like galaxies, these are flat discs that rotate in a counterclockwise manner. 
 
 Recall that galactic vortices have 2 main components:
 
 1. **Invisible spacetime particles**
 
-These create cohesion (dark matter) within the galaxy and gravity within its stars and planets
+These create cohesion (dark matter) within the galaxy, and gravity within its stars and planets
 
 2. **Stellar vortices (stars)**
 
@@ -132,3 +132,12 @@ Chakra | Sense
 7th Chakra | Multiverse, Brahma (Mukti)
 8th Chakra (Theoretical) | (Moksha)
 
+
+
+<!-- Layer | Sense Organ | Sense
+--- | --- | ---
+Aether | Ears | Hearing 
+Spatial | Ears | Sense of Balance
+Radiant | Eyes, Heart | Sight, Temperature
+Convertible | Tongue, Nose | Taste, Smell 
+Material | Skin, Heart | Tactility  -->

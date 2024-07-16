@@ -12,7 +12,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
-Axioms | Propositions
+
+Principles | Assertions
 --- | ---
 There are 2 Domains in Reality | 
 

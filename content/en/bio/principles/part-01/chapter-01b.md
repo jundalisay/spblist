@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8f"
+heading: "Chapter 1b"
 title: "Elementals and Superstition"
 date: 2023-12-08
 weight: 40

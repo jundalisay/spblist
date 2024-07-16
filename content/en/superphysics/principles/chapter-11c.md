@@ -1,5 +1,5 @@
 ---
-heading: Chapter 11b
+heading: Chapter 11c
 title: "The Meaning of Red Herring, Ad Hominem, etc"
 date: 2020-09-29
 image: /photos/wtf.jpg
@@ -7,7 +7,7 @@ description: "We explain the meaning of common fallacies by removing the jargon"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 44
+weight: 65
 icon: /icons/sp.png
 aliases:
   /superphysics/fallacies/red-herring

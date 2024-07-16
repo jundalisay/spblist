@@ -1,7 +1,7 @@
 ---
 title: "Life and the Seven Neutral Needs"
 weight: 6
-image: "/photos/physics/quasar.jpg"
+image: "/photos/med/run.jpg"
 description: "Your life becomes whatever you focus your attention on."
 author: Consolidated from Bashar
 ---
@@ -31,9 +31,7 @@ These are needs that will kill you shortly if you don't have them
 
 1. Air
 
-
 2. Water
-
 
 3. Sleep (Regenerate, Re-energize)
 
@@ -81,20 +79,6 @@ This incarnation or version of you will never occur again. So:
 - be fully who you are! 
 
 That is the fulfillment of your purpose.
-
-
-## Unified Society
-
-Unity in a society does not come from conformity.
-- It can only come from granting equality and validity to the infinite diversity of all the individuals.
-
-The universe is infinitely diverse.  
-- Every being has their own way of exploring the idea of infinite creation
-- All these ways are equally valid. 
-
-When a society encourages the unique expression of each individual, that is when the society is strongest and most unified.
-
-When you grant equality and validity to everyone, you are granting equality and validity to all aspects of Creation. In return, as a reflection, Creation supports you in everything you do as well. 
 
 
 
@@ -205,8 +189,13 @@ Conclusions from analogy |	Start with clear beliefs for what you clearly prefer 
 
 External Reality = Holographic Illusion
 
+
+{{< i s="/social/monkey.jpg" a="Mirror" >}}
+
 Our perceived "external reality" is actually an illusion (a holographic illusion) that is reflelcting (like a mirror) back to us our Beliefs, Thoughts, & Feelings.
+
 And, like a mirror, when you change your internal Beliefs, Thoughts, & Feelings, the external reflection changes accordingly.
+
 (A mirror does not have a mind of its own. It can only reflect back whatever is in front of it - whatever are your Beliefs, Thoughts, & Feeling.)
 
 HOW is all this occurring?    It is your Higher Mind that is functioning as a holographic mirror, to create a holographic bubble around you, that is your "perceived external reality".

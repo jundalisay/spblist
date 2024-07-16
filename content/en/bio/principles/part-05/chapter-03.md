@@ -20,7 +20,7 @@ A quinquelemental science should be applied to cure certain ailments associated 
 {{< /q >}}
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 There are 5 Layers in Reality | These manifest as the 5 Medical Paradigms in to repair the engineering of the body
 The body is a biological machine | 

@@ -1,160 +1,165 @@
 ---
 heading: "Chapter 7c"
-title: "The Two Operations of Thinking and Feeling"
-date: 2020-12-06
-image: /photos/econ/writer.jpg
-# date: 2020-12-10
-weight: 28
-description: "Everything in existence is an idea of the Creator of that existence"
+title: "The Equation for Everything: The Eagle and Gravitational Signatures"
+date: 2020-12-26
+weight: 40
+# date: 2021-06-23
+image: "/graphics/econ/eagle.jpg"
+description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
+icon: /icons/pantry.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
 ---
 
 
-The previous chapters explained that:
-- Existence is in the mind for the purpose of being experienced by the perceiver or consciousness
-- A mind can only be active or inactive, just as consciousness can only be be `on` or `off`
-- Desire, as a type of feeling and effect of the Two Forces, is the engine for the creation of anything in existence 
-- All Existence is then made up of ideas and feelings molded by the Two Forces
-  - Ideas are sensed by the mind's intellect 
-  - Feelings are sensed by the mind's heart 
+
+Principles | Assertions
+--- | ---
+Each Idea is Unique | The Uniqueness is Denoted by a Gravitational Signature
 
 
-We also said that the mind is like an arena or theater where ideas and feelings are perceived. With this analogy, we can group the different abilities or operations of the mind into 4: 
-
-1. Thinking: This is similar to the manipulating the actors and props
-
-2. Remembering: This is similar to props being stored and retrieved backstage 
-
-3. Learning: This is similar to the improvement of the theater in the way it manipulates (thinks) and stores and retrieves its props (remembers) 
-
-4. Expanding or Contracting: This is similar to the expansion of a theater in order to have better shows
+The Law of Conservation of Idea explained that:
+- all ideas are unique
+- all movement comes from the idea repelling or attracting others due to its inherent dharma or true nature
 
 
+## The Gravitational Signature
 
-## Thinking
+We notate this inherent dharma as `G` which stands for a **gravitational signature**. This signature causes a thing to "gravitate" towards to, or away from, another thing. 
 
-The main job of the intellectual mind is to think about its ideas.
-- The act of thinking is the perception and connection of ideas  
+{{< q a="Paracelsus" >}}
+What is the Signature of things? Things are signed by whom? Who is the Signator? How many things are signed?
 
-The main job of the emotional mind is to discern its feelings.
-- The act of feeling is the perception and immersion of feelings
-
-We then group this thinking operation into 2 categories:
-
-<!-- From here, we can say that all of the activities or operations of the mind's intellect can be broadly categorized into two: -->
-
-1. Adding or Combinative
-2. Subtracting or Separative
-
-We also group this feeling operation into 2 categories:
-<!-- The activities or operations mind's heart can also be broadly categorized into two: -->
-
-1. Attraction
-2. Repulsion
-
-Attraction has a combinative net effect just as repulsion has a separative one. 
-
-Therefore the active mind, which thinks and feels, has 2 kinds of operations:
-- Combination
-  - This comes from the Positive Force
-- Separation
-  - This comes from the Negative Force
-
-<!-- Note that memory is a quality of the mind, and not an operation. Remembering is part of the operations of consciousness, just as perception is.  -->
-
-![Yin and Yang](/photos/meta/yinyang.jpg)
+The signs of Physiognomy are from the stars.
+{{< /q >}}
 
 
-## The Operations of Thinking 
-<!-- the Intellect -->
+This means that everything in existence has a `G`, whether it be a rock, a car, a virus, an opinion, a soul, a belief, a civilization, etc.  This `G` dictates its movement, as kinetic energy, and its pre-movement, as potential energy. 
+- We call the kinetic energy as `F` or force 
+<!-- or `O` effort -->
+- We call the potential energy as `E` or inherent energy
 
-"Adding" or "combination" is the integration of one identity to another to create a new third identity. This is an effect of the Positive Force (Yang or Shiva)
+Superphysics divides reality into 5 layers, as <sub>*`l`*</sub>, where all gravitational signatures exist in. This means that all `G` takes place in a layer or <sub>*`l`*</sub>.
 
-For example, we:
-- add `1 + 1` to make `2` 
-- put more rice grains in a bag to make it reach 1 kilogram for purchase
-- step in an empty bus so it can get passengers and start its journey
+<!-- A [previous post](/material/fallacies/general-relativity) explained how the error in Einstien's E = mc^2 led to the universal equation of Superphysics. 
 
+By fixing Einstein's error, the speed of light no longer becomes a constant. Without this constant, the principles of motion no longer gets a sequential or linear speed limit. They can now extend onto the metaphysical dimension where motion manifests as the movement of minds and feelings which are never constant nor strictly linear by nature. 
 
-"Subtracting" or "separation" is the removal of one part of an identity in order to create a new identity. This is an effect of the Negative Force (Yin or Shakti or Prakrti)
-
-For example, we:
-- subtract `3 - 1` to make `2`
-- remove things from our luggage so that it will meet the limit of 15 kilograms 
-- step out of an overloaded bus so that it can run safely
+At this minute, you might feel happy. But in the next minute, you might remember something that would suddenly make you sad, or teleport your mind nonlinearly into a state of sadness.  -->
 
 
-Related operations of thinking spring from these 2 broad operations:
+<!-- This potential linear or nonlinear movement is responsible for the shifting of public opinion, market prices, policy changes, health and disease, the rise and fall of civilizations, etc. and can be simplified as --> 
 
-Combination Category:
-- Multiplication
-- Exponents
-- Memory or Remembering
-- etc
+We notate this as E = G<sub>*`l`*</sub>. In Qualimath, this is E :: G<sub>*`l`*</sub>
 
-Separation Category:
-- Division and Fractions
-- Square roots
-- Ignorance or Forgetting
-- etc
-<!-- - Factorials and Multiples -->
+
+{{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
+
+
+- `E` is inherent energy and represents potentiality
+- `G` is the gravitational signature or dharma of the thing. This represents the Positivity or Shiva or Yang
+- <sub>*`l`*</sub> is the physical layer where the thing exists in. This represents the confinement by Negativity, or Shakti or Yin, on Shiva or Yang
+
+We can call this equation as "eagle" as it is written with the letters `E G` <sub>*`l`*</sub>. 
+
+It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it.
+
+
+{{< img src="/graphics/econ/eagle.jpg" alt="The Eagle" >}}
 
 
 
-## The Operations of Feeling
-<!-- the Heart -->
+{{< box >}}
 
-Attraction is the tendency to move towards an object. 
+### The Eagle Standard
 
-Its related oprations are:
-- Love
-- Friendship
-- Cooperation
-- Society
-- Buying
-- Arriving
-- Marriage or Being a couple
-- etc
+<!-- img src="/photos/objects/aquila.jpg" alt="Aquila on a staff" -->
 
 
-Repulsion is the tendency to move away an object. 
+The idea for the eagle came from the eagle standard of the Roman legions.
 
-- Hate
-- Animosity
-- War
-- Isolation
-- Selling
-- Leaving
-- Divorce or Breaking up
-- etc
+Historians wrote how the legions would rally around their eagle symbol and protect it with all their might. Our eagle equation is centered on G which represents Socrates' true nature or dharma, which is a central belief in Buddhism, Hinduism, and Taoism.
+
+Buddhists are urged to keep the wheel of dharma turning at all costs, just as Socrates' guardians are supposed to keep up their mastery of true philosophy. This is because if dharma or true philosophy stops, then society would likely degrade into selfish animal behavior and the love for matter (materialism) filled with vices, gambling, destruction, wars*, crises, etc. instead of love for the Aether (the material of mind of God)
+
+> *Update Jan 2024: The increase in wars in Ukraine, Israel, Middle East, and the threats from China and North Korea are proof that dharma has lost its momentum. 
 
 
-### Usefulness of Combinative and Separative
+This is why Superphysics is totally against Albert Einstein who not only reduced the aether to nothing, but also pushed for nuclear weapons which could lead to nuclear war. We place his intellectual 'evil'* on the same rank as the political evil of the other German, named Adolf Hilter. 
 
-All the operations of thinking and feeling<!-- mind, through the intellect and feelings, --> thus fall into those 2 categories. This categorization is very useful for understanding the root cause of mental problems. 
+> *Our definition of evil is based on the strength of the ego
 
-For example, Modern psychology detaches the intellect from the heart when dealing with memory problems such as dementia or Alzheimer's. This makes its cause unknown. 
+- If the dharma of societies stop, then they go to war and destroy each other.
+- If the dharma of your car stops, then it breaks down, leaving you in the middle of nowhere. 
+- If the dharma of your body stops, then you get sick unable to do anything useful.
 
-However, with our combined model, we point out that intellectual memory loss is separative action of the mind, as forgetting. The solution is to counteract this intellectual separative action with a combinative feeling action (since feelings are superior to intellect).
+Rallying around the dharma and making an effort to keep it up would be similar to how the legions worked hard to secure their eagle from their barbarian enemies.
+- In machines, this would be preventive maintenance. 
+- In healthcare, it would be maintaining a healthy lifestyle, as 'prevention is better than cure'.
 
-This manifests as people having better social bonds. This is why positive social interaction is essential to avoid Alzheimer's and other mental diseases.     
-
-This categorization system also works for Physics as artificial intelligence or AI. 
-
-For example, Physicists are unable to create real AI because they neglect the feeling aspect. We solve this by adding social interaction data as part of the training data for our proposed Artificial Sentience system called ISAIAH.
-
-<!-- The separation of memory from remembering is useful in:
-- Bio Superphysics for memory problems, dementia, and
-- Material Superphysics for the creation of artificial sentience. -->
-
-<!-- For example, the interplay of desire, mind-memory, and consciousness explains why  -->
+Dharma then leads to related concepts like sustainability, harmony, long happy lives, and making the idea of wars and crisis obsolete.
+{{< /box >}}
 
 
-## Remembering, Learning, and Expanding
+<!-- <br><br>If G is neglected in the metaphysical dimension, then selfish-interest will slowly creep in, manifesting as blind belief, oligrachy, liberalism (or libertarianism), and then tyranny.<br> If G is neglected in the physical dimension, then inferior theories and technologies will dominate. An example is rocketry which dangerous, expensive, and is unable to allow travel to other galaxies.  -->
 
-The other abilities of the mind can be explained in Bio Superphysics. 
 
-The next chapter will explain the layers of the mind, as the layers of the universe. 
+The job of knowing or discovering this `G` and predicting its movement-results is done by specific sciences:
+
+Science | Eagle Manifestation
+--- | ---
+Material Layer Physics | `w = mg`
+Convertible Layer Physics | Feynman Diagrams
+Radiant Layer Physics | `E = mc{{< s v="2" >}}`
+Spatial Layer Physics | `E = G{{< sub v="AB">}}`
+
+
+{{< img src="/graphics/physics/layers.jpg" alt="The five layers" >}}
+
+
+The eagle also extends into metaphysical movement, such as the movement of minds. This makes it applicable even to the Medical and Social Sciences.
+
+<!-- `E :: G{{< sub v="l" >}}` -->
+
+Science | Eagle Manifestation
+--- | ---
+Sociology and Politics (Social Layer) | The l becomes the 4 Cycles
+Economics (Economic Layer) | The l becomes the 4 Laws of Value
+Medicine (Medical Layer) | The l becomes the 5 paradigms of Western medicine, Naturopathy, Ayurveda, Chinese Medicine, Homeopathy
+Agriculture (Plant Layer) | The l becomes the plant layer
+
+- In the social layer, it manifests as the potential shifts in public opinion according to social cycles by Socrates (aristocrat, oligarch, democrat, tyrant). This leads to changes in policies, ruling parties, cultural norms, morals, and religious beliefs. This is to be discovered by [Social Superphysics](/social)
+
+- In the economic layer, it manifests as the potential movement of prices according to [the labor theory of value](/social/economics/principles/part-2/chapter-01b/) instead of marginal pricing. 
+
+> This is how we predicted the current crisis and why we predict it to be a long one. Its goal is to know the real price of everything, in order to prevent inflation, bubbles, recessions, and economic crises. This is to be discovered by [Supereconomics](/social/economics) which is a subset of Social Superphysics
+
+
+- In the medical layer, it manifests as the potential movement or risk of a person from health to disease and is discovered by applying data science to the five medical sciences of Western medicine, ayurveda, chinese medicine, homeopathy, and naturopathy.
+
+> This is discovered by [Medical Superphysics](/bio/principles/part-04/chapter-03/). 
+
+<!-- As none of our team has a medical background, and since medicine is highly regulated and fiercly protected by doctors and medical interests*, this would likely be developed last. -->
+
+- In the agricultural layer, it manifest as the potential movement of a crop towards a good harvest. This is discovered by Agricultural Superphysics. 
+
+<!-- > *The worst thing that can happen by denouncing Einstein and Samuelson by advancing alternative theories is to bashed as either as an idiot or as an arrogant know-it-all by dogmatic physicists and economists. But to advance alternative theories for medicine is to be fined, sued for endangering public health, and even to go to jail! -->
+
+
+## The `G` of Human Nature
+
+According to Socrates, the discovery of the `G` or true nature of everything is extremely laborious. This is why we start in the economic layer so that a success here can give us the resources to help us extend our searches to all the other layers and fiels of metaphysics and physics. 
+
+David Hume, who was an economist aside from being a metaphysician, agrees to this targetting of the human first, instead of his external environment:
+<!-- , who is our other reference, will agree to this as he is also an :  -->
+
+{{< q a="David-Hume" c="Treatise of Human Nature, Advertisement" >}}
+Here, the only expedient for success in our philosophical researches is to.. march up directly to the capital or center of these sciences, to human nature itself. Once we master human nature, we may hope for an easy victory everywhere else. From here, we may extend our conquests over all those sciences.. We may hope to establish… a science which will not be inferior in certainty, and will be much superior in utility. The science of man is the only solid foundation for the other sciences. 
+{{< /q >}}
+
+This true nature is called by Francis Bacon as the "true form":
+
+{{< q a="Francis-Bacon" c="Nova Organum" >}}
+Our genuine and perfect rule of practice is that **it should be certain, free and preparatory, or having relation to practice**. This is the same thing as the discovery of a true form. For the form of any nature is such, that when it is assigned, the particular nature infallibly follows. Form, therefore is always present when that nature is present, universally attests such presence, and, is inherent in the whole of it.
+{{< /q >}}

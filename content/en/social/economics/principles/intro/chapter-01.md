@@ -1,7 +1,7 @@
 ---
 title: "The Collective Wave of Human Desire"
 heading: Chapter 1
-linkTitle: Chapter 1
+# linkTitle: Chapter 1
 date: 2015-09-09
 image: "/photos/social/pageant.jpg"
 description: "The Collective Wave of Human Desire explains how cycles maninfest in Economics"
@@ -13,7 +13,7 @@ toc: false
 ---
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 The society-organism has a wave of desire that manifests as economic activity | This desire manifests as price movements, GDP, migration, etc. 
 . | The bad ideas of Neoclassical Economics is blocking that natural desire, causing so many problems

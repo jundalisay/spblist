@@ -13,7 +13,7 @@ icon: /icons/pantry.png
 
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 There are 5 Layers in Reality | Each Layer has a sound
 

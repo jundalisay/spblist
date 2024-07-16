@@ -6,7 +6,9 @@ description: "The Essassani gave 5 Laws of Existence"
 ---
 
 
-The Essassani gave 5 Laws of Existence which we put into the Superphysics 5 Layer Model:
+The Essassani gave 5 Laws of Existence:
+
+ <!-- which we put into the Superphysics 5 Layer Model: -->
 
 ## 1. You Exist 
 
@@ -36,3 +38,4 @@ This mirrors the Hindu concept of Karma. We put it in the Convertible Layer whic
 
 <!-- (Material Layer)
 Matter is rigid and solid and resistant to change. --> 
+

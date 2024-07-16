@@ -1,4 +1,5 @@
 ---
+heading: Chapter 11b
 title: "The Corruption of Dialectics"
 date: 2015-08-17
 image: "/photos/psych/fail.jpg"
@@ -6,7 +7,7 @@ description: "The German Corruption of Dialectics came from their tendency to ov
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 42
+weight: 64
 icon: /icons/sp.png
 ---
 

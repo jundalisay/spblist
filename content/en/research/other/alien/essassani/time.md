@@ -1,7 +1,7 @@
 ---
 title: "What is Time?"
 weight: 14
-image: "/photos/physics/quasar.jpg"
+image: "/photos/objects/clock.jpg"
 description: "Time is an illusion created by consciousness"
 author: Consolidated from Bashar
 ---
@@ -10,6 +10,10 @@ author: Consolidated from Bashar
 There is only ONE MOMENT in all creation - the eternal NOW.
 
 "Time" is an illusion created by consciousness.
+
+
+{{< i s="/photos/objects/clock.jpg" a="Clock" >}}
+
 
 In a film projector, the individual frames of the film are shown in a rapid steady sequence - one frame at a time.
 - This rapid steady sequence of STILL frames creates the ILLUSION of flowing time. 

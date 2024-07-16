@@ -13,7 +13,7 @@ icon: /icons/spmat.png
 ---
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 The Law of Conservation of Idea in Physical Reality  | This leads to the Theory of Dynamism as the Rules of Movement
 

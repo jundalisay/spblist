@@ -14,7 +14,7 @@ toc: false
 
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 The Law of Conservation of Idea in Physical Reality  | This manifests as Gravitational Signatures
 
@@ -91,7 +91,7 @@ In this way, the Socratic `G` still ends up as `D` if the thinking person chases
 
 <!-- > *You can think of nature having 5 types of gravities. Newtonian gravity is type 5, Einsteinian gravity is type 3 and is called magnetism.  -->
 
-<!-- In this way, the resulting equation E = Gl called [the Eagle](/superphysics/principles/chapter-04c) serves as a template that holds all the equations of potential motion:
+<!-- In this way, the resulting equation E = Gl called [the Eagle]( serves as a template that holds all the equations of potential motion:
 
 > *Superphysics uses [qualimath](/superphysics/principles/chapter-04) which converts `=` into `::` -->
 

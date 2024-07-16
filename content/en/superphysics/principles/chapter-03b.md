@@ -1,10 +1,12 @@
 ---
 heading: "Chapter 3b"
-title: "Pre-Existence"
-date: 2023-12-27
+title: "Existence-Consciousness"
+# Desire and the Two Forces
+#, Propelled by Feelings
+date: 2020-01-02
 weight: 10
-image: "/photos/physics/neutronstar.jpg" 
-description: "Pre-existence is a theoretical concept and not real"
+image: /photos/meta/buddhism.jpg
+description: "Everything in existence is created by the two forces"
 icon: /icons/sp.png
 writer:
   name: Juan
@@ -12,93 +14,48 @@ writer:
 ---
 
 
+Existence-Consciousness
 
-Axioms | Propositions
---- | ---
-Each Idea is Unique | Ideas are Housed by Minds 
-. | Ideas are Static. Movement comes from Minds 
-Existence is Housed by Pre-Existence | 
+The previous chapter explained the nature of the Absolute Entity, as Pre-Existence, as a theoretical concept to come before Existence.
 
+We say that the Absolute left the nothingness of Pre-Existence by becoming or transforming into Existence Itself 
 
+It is this transformation that generated the aether and all the possible ideas from Itself. 
 
-The previous section explained that the dynamism in existence is sourced from:
-- the desire of the Creator to create things
-- the rule that all created things must be unique  
+Spinoza calls this aether as “substance”:
 
-
-
-## All Ideas are Static, All Movement Comes from Minds
-
-<!-- Aethereal Relativity is concerned with the movement of ideas* as qoas (quantum of aether), such as how the idea of a horse-carriage moved and evolved into an automobile and then into an electric car, and then into a flying electric car in the future.   -->
-
-A Creator is above, or superior to, its creations. 
-
-Since Existence is only made up of ideas and feelings, then it follows that the Creator is above its ideas and feelings, even the idea of space and time. 
-
-This means that all possible ideas have already been created (time is finished) and that the dynamism has already worn-off, since there is no more addition-action. 
-
-To the Creator, all ideas have settled into perfection and are therefore static. 
-
-However, this is opposite of our assertion that the Universe is dynamic, as we can plainly see. Even our ideas change, so how can ideas be static? 
-
-This is because the staticity of ideas are from the viewpoint of the Absolute, before or after it takes the role of a Creator. This Absolute is in its own domain which we call 'Pre-Existence'.
+{{< q a="Spinoza" >}}
+God, or substance, consisting of infinite attributes, of which each expresses eternal and infinite essentiality,
+necessarily exists.
+{{< /q >}}
 
 
-{{< img src="/graphics/meta/gunas.png" alt="Gunas" cap="Pre-Existence sits above Existence which is under the 3 Influences (to be explained in Chapter 5)" >}}
+{{< q a="Parmenides" >}}
+Since the One exists, then the Whole has the One and Existence as Its parts. Each of these parts have both the
+One and Existence as its parts and is at the least made up of two parts. The same principle goes on forever.
+
+Every part always has these two parts because existence always involves one, and one involves being, so that one is always disappearing, and becoming two. This makes the One infinite in multiplicity. The One has Existence and therefore exists, leading it to become many.”
+{{< /q >}}
 
 
-As this domain is above Existence, it does not exist. Rather it is entirely probabilistic or theoretical. 
+The creation of Existence necessarily creates the Consciousness to perceive those ideas so that Existence and Consciousness are really 2 sides of the same coin.
 
-In Applied Superphysics, especially in Material Superphysics, this is leads to the 'Probability Layer'.  
+This Existence-Consciousness, as a unit, does not have a start or end because the Spatial Layer, and therefore space and time, has not been created yet. 
 
-This Pre-Existence is a concept created to explain how Existence is generated arbitrarily or probabilistically by desire. This is why **the control of desire** is:
-- one of the central tenets of Hinduism and Buddhism, and
-- an important part of Islam which is imposed through fasting, charity, and modesty.  
-
-Since ideas are static, it follows that it is the mind and its consciousness that moves from idea to idea in order to create compound ideas and experiences. This creates action and reaction, which are explained in the next chapter.
-
+And so we say that Existence-Consciousness always was, is, and will be* and therefore, there was never any actual transformation event.
 
 {{< box >}}
-### Why Do We Need to Create the Concept of Pre-Existence?
-
-We create the Concept of Pre-Existence because we view Existence as the other half of Consciousness. If we desire to be conscious of what existed before Existence, then we necessarily create the idea of Pre-Existence as a result of that desire. 
-
-In this way, we create that other half that the consciousness needs to appease its curiosity, and therefore make it whole or stable. 
-
-If the mind asks 'what came before pre-existence'? Then we create another concept called 'Pre-pre-Existence' to stabilize that desire of consciousness to know. 
-
-Note that it is really the desire to know  that is causing the creation of Pre-Existence, Pre-pre-Existence and so on. So it would be better to deal with the asker's desire -- why does he want to know what existed before Existence? It could be a sign that:
-- he has too much time on his hands
-- he has no control of his thoughts, or 
-- his Luna mount is too strong, etc. 
+There are some theoretical physicists who imagine that the universe will get destroyed through a thermal death or through false vacuum decay into a true vacuum. We assert that such things are impossible based on our principles of the 5 Layers and 2 Forces.
 {{< /box >}}
-<!-- The Greeks of 500 BC got their ideas from the Hindus which had those ideas since 2000 BC. 
-
-Timaeus got his four elements from the five elements of the Hindus, just as Socrates got his reincarnation and whorls from the reincarnation and chakras of the Hindus, just as Parmenides got his The One from Brahma idea. 
-
-Even Stoicism from Zeno of 300 BC came from Buddhism of 500 BC. 
-
-The difference is that those original ideas were in Sanskrit and not English. Rather the English version came from the Greek version which came from the Sanskrit version. But your mind is biased and so it stops at the Greek version and does not stretch to the original Indian version because that would mean that Indians were once intellectuallly superior to the warlike Europeans. 
-
-https://buddhism.stackexchange.com/questions/2801/is-there-evidence-of-a-buddhist-influence-on-greek-stoicism
- -->
 
 
 
-<!--  are static and non-moving, and it is the created minds that move from one idea to another. However, our perspective as humans is from the created minds. And so, for the purposes of explanation, we will take the opposite view and see our minds as stationary and ideas as moving. -->
+In our Big Bootup analogy in Chapter 2, this means that reality was always “turned on”, since:
+- Existence is the “on” state
+- Pre-Existence is the “off” state
 
+Whenever we say “existence”, we automatically infer a consciousness behind the scenes to perceive that existence. 
 
+Yet we usually take such consciousness for granted because our consciousness is so common to us. Similarly, space and time were seen as separate because our location is more obvious and common to us than time (i.e we usually wear watches to remind us of the time instead of carrying maps or GPS devices to remind us where we are). 
 
-<!-- Movement, Cause and Effect
-The law of conservation of mass and energy is:
-
-Matter and Energy cannot be created nor destroyed 
-
-
-We extend this to the aethereal layer of ideas and feelings:
-
-Ideas and Feelings cannot be created nor destroyed 
-</div> -->
-
-
-<!-- even tribal humans have to evolve because gorillas will also evolve into the level of tribal humans and Law of Conservation of ideas. They will clash.   -->
+This was until experiments showed that space and time were one entity.

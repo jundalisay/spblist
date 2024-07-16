@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 5b"
-title: "The 3 Influences or Gunas"
-date: 2023-12-27
-weight: 18
-image: "/graphics/physics/wave.jpg"
-description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
+title: "Our Theory of Dynamism: State and State-Change"
+date: 2024-05-20
+weight: 25
+image: "/photos/tech/phone.jpg"
+description: "Our principles are therefore derived from the perceived changes in state."
 icon: /icons/sp.png
 writer:
   name: Juan
@@ -12,63 +12,23 @@ writer:
 ---
 
 
+Unlike Physics which makes its equations and principles from the motion of bodies, Superphysics bases its principles on the changes in the perceived identities. 
 
-The 2 Forces interact with each other creating waves with 3 parts:
+Motion, or change in location, is just one of such changes. Another change is from small to large, like a seed turning into a plant, or a change from poverty to prosperity, as in a society.
 
-1. Crest
-2. Origin, Rest, or Pause
-3. Trough
+Our principles are therefore derived from the perceived changes in state. From here it follows that:
+- the universe is inherently dynamic
+- there is an inherent potential dynamism in each object
+- an object’s dynamism can be tapped by letting it interact with the proper objects other than itself
+- the dynamism of objects depend on their relations with each other 
 
-{{< img src="/graphics/physics/wave.jpg" alt="Wave" cap="A wave has crests and troughs" >}}
+This is the foundation of our Theory of Dynamism. 
 
+This theory aims to know the causes and effects of all change and movement, whether physical or metaphysical. 
 
-When applied on the circular journey from pre-existence to existence and back to pre-existence, the 3 parts created by the 2 Forces manifest as 3 Influences:
+This is to harness such movement and dynamism in order to reach our goals, such as to solve problems that are unsolved by Physics and Science.
 
-1. Crudifying
+In the metaphysical domain, these movements take the form of reflection (as the ‘bouncing back’ mentioned in Chapter 1), deflection, dissipation, merging, etc. 
 
-This part crudifies the Supreme's metaphysical ideas in order to have physical existence.
+These are the dynamics of waves. Thus, we say that the metaphysical domain has a wave-like nature.
 
-2. Convertible 
-
-This part part churns the created building blocks in order to create a diverse existence.
-
-3. Subtlifying
-
-This part makes the transformed substances more subtle in order to leave physical reality and enter metaphysical reality.  
-
-
-{{< img src="/graphics/meta/gunas.png" alt="Gunas" cap="The 2 Forces create 3 influences based on their mutual interaction: Crudifying, Transforming, and Subtlifying. These are also the parts of a wave as the crest, middle part, and trough. These are known as the 3 gunas as Tamasic, Rajasic, and Sattvic. Each layer has these influences, creating 3 sublayers within a layer." >}}
-
-
-These 3 influences is why each layer has 3 sublayers as:
-
-1. Higher
-
-Here, the Subtlifying Influence is stronger
-
-2. Middle
-
-Here, the Transforming Influence is stronger
-
-3. Lower
-
-Here, the Crudifying Influence is stronger
-
-
-
-{{< img src="/graphics/physics/msq.jpg" alt="The 3 Gunas create the 3 sublayers per Layer" cap="The 3 Gunas create the 3 sublayers per Layer, as well as the internal layer boundary" >}}
-
-In Hinduism, these 3 influences are known as the 3 Gunas. 
-
-
-{{< q a="Ramakrishna" >}}
-Under the spell of God's maya, man forgets his true nature.
-
-He forgets that he is heir to the infinite glories of his Father. This divine maya is made up of 3 gunas: 
-1. Sattva
-2. Rajas
-3. Tamas
-{{< /q >}}
-
-
-These manifest most obviously in the Material Layer as the three colors of quarks. 

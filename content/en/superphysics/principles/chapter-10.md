@@ -1,11 +1,12 @@
 ---
 heading: "Chapter 10"
-title: "What is Superphysics?"
-# date: 2021-07-19
-date: 2023-12-08
-weight: 36
-image: /photos/idea.jpg
-description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
+title: "Omnitheism: The Absolute And The Supreme"
+# date: 2015-09-09
+date: 2020-11-30
+# 2020-01-04
+weight: 52
+image: /photos/objects/hand.jpg
+description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,79 +14,75 @@ icon: /icons/sp.png
 ---
 
 
-Chapter 7 explained that the physical universe or domain is the body of the Supreme Being, while the metaphysical universe is Its collective mind.
+Chapter 7 explained the nature of mind and of life, and how the physical universe is the living physical body of the Supreme Entity. 
 
-- Material Superphysics is the study of that body
-- Bio Superphysics is the study of how that body interacts with its mind
-- Social Superphysics is the study of how that mind works a collective
+Here, we explain the nature of the Absolute Entity which is the pre-existing or probabilistic version of the Supreme. 
 
+<!-- We call such a Mind as the Supreme Entity, and The One where it comes from, as the Absolute Entity.  -->
 
-We then match this organization of study with the current ones: 
-
-<!-- This likewise led to the concept of Material Superphysics as the sub-aspect of Superphysics to study that body. From this, we can organize Superphysics relative to Science: -->
-
-
-Parts of Existence | Modern Version | Our Version 
+    
+Paradigm | Pre-Existence (Probability) | Existence (Matrix or Mind)
 --- | --- | ---
-Absolute Entity (Pre-Existence) | Philosophy | Metaphysics
-Supreme Entity (as a Concept) | Religion | Superphysics 
-Supreme Entity (Mind) | Psychology | Social and Bio Superphysics
-Supreme Entity (Body) | Science (with Physics as the core) | Bio and Material Superphysics
+Superphysics | Absolute Entity | Supreme Entity
+Ancient Greek | The One | The Whole or The Other
+Hindus | Nirguna Brahma | Saguna Brahma
+Buddhists | Sunya | Brahma 
+Taoism | Tao | tao 
 
 
-This physical universe is the subject of study of Material Superphysics just as the Supreme Entity is the subject of Superphysics.
+Notice how our classification is existence-based, being divided into:
 
-<!-- , and the Absolute Entity is the subject of Metaphysics.   -->
+1. The Probability of Existence
+2. Actual Existence 
 
 
-{{< q a="Descartes" c="Principles of Philosophy, Preface" >}}
-All Philosophy is like a tree.
-- Metaphysics is the root
-- Physics the trunk
-- All the other sciences are the branches that grow out of this trunk.
+This is very different from the Judeo-Christian God, Yahweh, Allah, and even the Polythesist Tara, Quan Yin, Kali, Ganesh, etc who are classified according to the feelings of the people who invented them:
 
-We gather fruit from the extremities of the branches of trees, not from the roots or the trunks.
+- The Jewish Yahweh is very cruel. This mirrors the cruel environment experienced by the Jews during their journey through the desert
+- The Christian God is very forgiving and generous. This mirrors the feelings of Jews under the wealthy Romans 
+- The Islamic Allah is very commanding. This mirrors the feelings of Arabs rallying the tribes against the Byzantines and Persians.
+
+<!-- This is because it is the feelings that propels the mind from idea to idea.  -->
+
+To get a true view of the Supreme, we follow the 'critical feeling' techniques of Buddhism and Hinduism of catching and isolating our feelings so that we can see Existence in Its true form, without the bias of feeling.
+
+This allows us to classify these descriptions of the Supreme according to whether they are more Positive or Negative.
+
+Entity | Positive Force | Negative Force | Absolute (Neither Positive nor Negative)
+--- | --- | --- | ---
+Christian God | :heavy_check_mark: | | 
+Islamic Allah |  | :heavy_check_mark: |
+Jewish Yahweh |  | :heavy_check_mark: |
+Buddhist Sunya |  | | :heavy_check_mark:
+Chinese Quan Yin | :heavy_check_mark: | |
+Japanese Amaterasu | :heavy_check_mark: | | 
+Ancient Greek 'The One' | | | :heavy_check_mark:
+Hindu Brahma | :heavy_check_mark: | | 
+Hindu Nirguna Brahma |  | | :heavy_check_mark: 
+Hindu Shiva, Narayana, Ganesha | :heavy_check_mark: | | 
+Hindu Shakti, Kali, Durga | | :heavy_check_mark: |
+
+
+
+## The Absolute Entity
+
+We create the concept of the Absolute Entity in order to explain the nature of Probability of Existence. 
+
+We can regard it as the Supreme Entity in passive or pre-existing form. 
+<!-- It is the only entity that does not move is the entity that created the ideas, minds, and feelings in the Universe. -->
+- The Ancient Greeks call it The One
+- Hindus call it Nirguna Brahma
+- Buddhists call it Sunya or Void
+
+{{< q a="Aristotle" c="The Metaphysics by Aristotle Simplifed, Book 1, Part 8" >}}
+The believers of The One [The Pythagoreans] say that The One is the cause of substance. 
 {{< /q >}}
 
 
-The subdivision of Superphysics into 3 matches the division made by Descartes:
+The Supreme Entity which is biased towards creation. This bias comes in the form of the Positive Force slightly dominating the Negative Force in the long run. 
 
-<!--  is the 'trunk' from which emerges 3 main sciences: 
+The Positive keeps our universe in Existence whereas the Negative keeps that Existence dynamic. 
 
-1. Material Superphysics
-2. Bio Superphysics
-3. Social Superphysics -->
+ <!-- which then leads to the constant existence and dynamism of our universe.      -->
 
-
-{{< q a="Descartes" c="Principles of Philosophy, Preface" >}}
-There are 3 principal sciences:
-1. Medicine
-2. Mechanics
-3. Ethics
-{{< /q >}}
-
-<!-- The science of Morals is the highest and most perfect. Presupposing an entire knowledge of the other sciences, it is the last degree of wisdom. -->
-
-
-## What is Superphysics?
-
-Superphysics is the system of knowledge and study that abides by the main principles from the previous chapters:
-
-Chapter | Principle
---- | ---
-1 | The 2 Domains
-2 | Ideas as Particles, Feelings as Waves
-3 | Dynamism and The Law of Conservation of Idea 
-4 | Cause and Effect, Qualimath, The Eagle
-5 | 2 Forces, Territories, Influences
-6 | Dharma
-7 | Life and Mind
-8 | 5 Layers
-9 | The Supreme
-
-
-In a nutshell, Superphysics is **a paradigm that merges the known and proven perceptions of the physical and metaphysical domains (Chapters 1-2, 8) in order to find patterns (Chapters 3-5) and principles (Chapters 6-9) for the sake of solving problems**.
-
-<!--  paradigm that sees the universe or reality as being made up of 2 Forces and 5 Layers. 
-
-Superphysics is the paradigm that sees the universe as being made up of waves. -->
+The Absolute is beyond the Positive or Negative and consequently does not care or is not affected by them. It is the Supreme that 'cares' for Existence or Itself.

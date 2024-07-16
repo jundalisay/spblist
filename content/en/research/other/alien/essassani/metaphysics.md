@@ -1,13 +1,10 @@
 ---
 title: "The Metaphysics of the Reality you Desire"
 weight: 8
-image: "/photos/physics/quasar.jpg"
+image: "/photos/physics/light.jpg"
 description: "The Metaphysics followed by the Essassani"
 author: Consolidated from Bashar
 ---
-
-
-{{< img src="/icons/tao.png" alt="Yin Yang" >}}
 
 
 ## "Receiving" the Reality you Desire
@@ -32,6 +29,9 @@ How do we select which one of these we wish to "pull" to the foreground to exper
 - We select and receive by our 100% trust in "what we know is so".
 
 {{< box >}}
+{{< img src="/photos/physics/light.jpg" alt="Light Bulb" >}}
+
+
 Let's say you have many light bulbs - each of a different color. 
 
 By themselves, each light bulb can not light up - until it is screwed into a socket. 

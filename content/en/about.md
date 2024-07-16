@@ -25,7 +25,7 @@ After concluding that Greenspan and Samuelson were the bad guys, Smith logically
 - Hume agreed with Descartes, and cited Plato
 - Descartes' aether is from Plato
 - Plato wrote about Socrates
-- Socrates spoke about [reincarnation and chakras](/research/socrates/simple-republic/book-10/chapter-4)
+- Socrates spoke about [reincarnation and chakras](/research/socrates/simple-republic/book-10/chapter-4b)
 
 Socrates thus became the essential link between Western and Eastern philosophy, which we merged into Superphysics as a dialectical system to solve all problems, just as you use:
 - the scientific method to solve science problems, and
@@ -34,7 +34,7 @@ Socrates thus became the essential link between Western and Eastern philosophy, 
 
 ## Unifying Human Knowledge
 
-[Superphysics](/superphysics/principles/chapter-10) is thus Science unified with Philosophy, or Physics unified with Metaphysics. 
+[Superphysics](/superphysics/principles/chapter-12) is thus Science unified with Philosophy, or Physics unified with Metaphysics. 
 
 Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists already explained how the Supreme Entity works as the `Cause` of everything. 
 
@@ -103,6 +103,7 @@ Rest of the Team |
 Jose | An alternative medicine practitioner since the 2000s, focusing on homeopathy and naturopathy, though he has tried doing Chinese medicine. He has gotten samadhi a few times in India. 
 Jing | Vice-President of an agriculture association. He is keen on using Bio Superphysics for agriculture  
 Adrian | Mobile and Python developer. He has helped debug the Pantrypoints mobile apps.  
+Ehmil | Geologist. He will help with Cartesian Physics for geological applications such as earthquake detection.
 
 <!-- Jing likes to write about agriculture, data science, and the earth sciences -->
 <!-- Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   

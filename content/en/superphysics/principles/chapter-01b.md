@@ -16,7 +16,7 @@ aliases:
 ---
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 There are 2 Domains in Reality | The Cartesian View has both Planes 
 

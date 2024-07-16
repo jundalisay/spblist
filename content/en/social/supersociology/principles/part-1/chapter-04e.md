@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 9b"
+heading: "Chapter 4e"
 title: "What is the Impartial Spectator?"
 # date: 2017-09-21
 date: 2020-11-28

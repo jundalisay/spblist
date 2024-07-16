@@ -9,10 +9,11 @@ writer:
 icon: /icons/pantry.png
 ---
 
+{{< i s="/avatars/smithstatue.jpg" a="Smith" >}}
 
 ## 3 Requirements for a Wealthy Country
 
-According to Adam Smith, there are three basic factors needed to be a major economic power:
+According to Adam Smith, there are 3 basic factors needed to be a major economic power:
 
 - The people must have a good moral system
 - The people must not be stupid
@@ -44,6 +45,6 @@ Once a country has both morals and intelligence to produce value, it needs acces
 - Many African countries are landlocked and have few rivers and are therefore poor
 - The Arabs were not significant until the Prophet Mohammad gave them a moral system to rule their arbtirary egos. Afghanistan is also landlocked and so it has less chance to develop their morals and commerce 
 
-![Taliban fighters](/countries/af/taliban.jpg)
+![Taliban fighters](/photos/countries/af/taliban.jpg)
 
 

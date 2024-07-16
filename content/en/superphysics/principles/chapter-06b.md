@@ -1,29 +1,74 @@
 ---
 heading: "Chapter 6b"
-title: "Ease and Unease, Peace and Agitation"
-date: 2024-02-15
-weight: 21
-image: /graphics/psych/feelings.jpg
-description: "Desire is a fundamental kind of feeling which we sense through our hearts"
+title: "The 3 Influences or Gunas"
+date: 2023-12-27
+weight: 30
+image: "/graphics/physics/wave.jpg"
+description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
+icon: /icons/sp.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
-draft: true
 ---
 
 
-Western moral philosophy focuses on the feelings of pain and pleasure as the basis for morality. 
 
-The problme is that such feelings can either be physical or metaphysical (mental). 
-- Physical pain can manifest as a wound or a toothache
-- Metaphysical pain can manifest as the pain of  seeing your ex-partner happy with someone else, or the pain of not seeing our loved ones for a long time
+The 2 Forces interact with each other creating waves with 3 parts:
 
-Moreover, pleasure is usually associated with physicality such as eating delicious food, listening to our favorite music, having a relaxing massage, doing sexual acts, etc. 
+1. Crest
+2. Origin, Rest, or Pause
+3. Trough
 
-We do not usually associate the word pleasure with giving relief goods to victims of disasters, or in solving the problem of our friends or customers. 
+{{< img src="/graphics/physics/wave.jpg" alt="Wave" cap="A wave has crests and troughs" >}}
 
-In such cases, we get a warm, lightweight feeling in our hearts instead of strong pleasureable semsations in our brains. 
 
-This is why our basis for morality is not pain or pleasure, but ease and unease, or pain and agitation. 
+When applied on the circular journey from pre-existence to existence and back to pre-existence, the 3 parts created by the 2 Forces manifest as 3 Influences:
 
+1. Crudifying
+
+This part crudifies the Supreme's metaphysical ideas in order to have physical existence.
+
+2. Convertible 
+
+This part part churns the created building blocks in order to create a diverse existence.
+
+3. Subtlifying
+
+This part makes the transformed substances more subtle in order to leave physical reality and enter metaphysical reality.  
+
+
+{{< img src="/graphics/meta/gunas.png" alt="Gunas" cap="The 2 Forces create 3 influences based on their mutual interaction: Crudifying, Transforming, and Subtlifying. These are also the parts of a wave as the crest, middle part, and trough. These are known as the 3 gunas as Tamasic, Rajasic, and Sattvic. Each layer has these influences, creating 3 sublayers within a layer." >}}
+
+
+These 3 influences is why each layer has 3 sublayers as:
+
+1. Higher
+
+Here, the Subtlifying Influence is stronger
+
+2. Middle
+
+Here, the Transforming Influence is stronger
+
+3. Lower
+
+Here, the Crudifying Influence is stronger
+
+
+
+{{< img src="/graphics/physics/msq.jpg" alt="The 3 Gunas create the 3 sublayers per Layer" cap="The 3 Gunas create the 3 sublayers per Layer, as well as the internal layer boundary" >}}
+
+In Hinduism, these 3 influences are known as the 3 Gunas. 
+
+
+{{< q a="Ramakrishna" >}}
+Under the spell of God's maya, man forgets his true nature.
+
+He forgets that he is heir to the infinite glories of his Father. This divine maya is made up of 3 gunas: 
+1. Sattva
+2. Rajas
+3. Tamas
+{{< /q >}}
+
+
+These manifest most obviously in the Material Layer as the three colors of quarks. 

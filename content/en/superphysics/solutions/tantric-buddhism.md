@@ -81,7 +81,7 @@ The relics are supposed to have been around for thousands of years. If touching 
 
 It follows that the energy is aethereal and not electromagnetic, and so the Law of Conservation of Energy does not apply. 
 
-Instead, Superphysics has the concept of the [Law of Conservation of Idea](/superphysics/principles/chapter-03) which says each idea is unique and preserves its potency, unchanged through time or contact. 
+Instead, Superphysics has the concept of the [Law of Conservation of Idea](/superphysics/principles/chapter-05) which says each idea is unique and preserves its potency, unchanged through time or contact. 
 
 This is how ideas and philosophies can inspire people and give them energy over and over, since ideas are made up of the aether. 
 

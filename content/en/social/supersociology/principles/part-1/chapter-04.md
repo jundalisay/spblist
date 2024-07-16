@@ -20,7 +20,7 @@ In [a previous post](/social/economics/invisible-hand), we explained that everyt
 
 We can say that the dharma of a smartphone in this sense is different from that of a basketball.  
 
-{{< img ava="/photos/tech/phone.jpg" alt="Phone and a smartphone" cap="A smartphone has a nature very different from a basketball" >}}
+{{< i s="/photos/tech/phone.jpg" alt="Phone and a smartphone" c="A smartphone has a nature very different from a basketball" >}}
 
 This dharma then leads to the different "do's and dont's" or "moral rules" for handling: 
 - A smartphone must be held carefully and not dropped, but a basketball can be thrown long distances 
@@ -37,7 +37,7 @@ Similarly among humans, the moral rules of a certain time period can be very dif
 
 The difference in the Jewish and Islamic moral policy from that of Jesus, is due to the fact that the former was created during a disorderly time when the people were under constant threat from Assyrians, Babylonians, and Arab tribes. Jesus, on the other hand, lived in a stable period under Roman rule. 
 
-{{< img ava="/photos/medieval/rome.jpg" alt="Basketball" cap="The Romans provided a lot of stability" >}}
+{{< i s="/photos/medieval/rome.jpg" a="Basketball" c="The Romans provided a lot of stability" >}}
 
 
 In this case, the difference in political condition led to differences in moral policy. This is then due to the fact that politics, laws, and morals are all based on feelings which change through time. These changing feelings change what humans are supposed to do and not do. 
@@ -48,7 +48,7 @@ In this case, the difference in political condition led to differences in moral 
 Feelings change because they are a metaphysical wave* that comes in contact with physical space-time. A wave has crests and troughs and are never a straight line. These ups and downs leads to the morals of one era being overturned by another era, to be itself overturned later. Because of this, even academics are unable to accurately define morality.
 
 
-{{< img ava="/graphics/viz.png" alt="Visualization of music" cap="Feelings always change just like waves" >}}
+{{< i s="/graphics/viz.png" a="Visualization of music" c="Feelings always change just like waves" >}}
 
 > *Our definition of morality is based on our Metaphysics of Things which splits existence into a metaphysical layer made up of waves, and a physical layer made up of particles, such as quark-particles and soul-particles existing in space and time.
 

@@ -13,8 +13,7 @@ icon: "/flags/af.png"
 <!-- <img src="https://sorasystem.sirv.com/flags/af.svg" width="200px"> -->
 
 
-
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 Human ego is the cause of problems in society | Law is needed to restrain human ego
 . | Islamic law and the feudal system are useful for morally-backward societies (where the Negative Force dominates)

@@ -1,6 +1,6 @@
 ---
 title: "What is Morality?"
-heading: "Chapter 6b"
+heading: "Chapter 4f"
 date: 2020-01-02
 weight: 22
 image: /photos/psych/jealous.jpg

@@ -13,7 +13,8 @@ icon: /icons/pantry.png
 <!-- According to The Wealth of Nations by Adam Smith -->
 In The Wealth of Nations, Adam Smith gave tips on wealth-generation:
 
-![How to be rich](/images/infohowtoberich.jpg)
+<!-- ![How to be rich](/images/infohowtoberich.jpg) -->
+
 
 ## 1. Build capital, not expense
 

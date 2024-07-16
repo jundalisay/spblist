@@ -15,7 +15,7 @@ icon: "/icons/descartes.png"
 
 
 
-Cartesian Axioms | Propositions
+Cartesian Principles | Assertions
 --- | ---
 Aethereal Universe |  God is constantly dividing the aether as vortices to create evolution and the expansion of the universe
 . | Each vortex-center has a different size and travels in straight lines

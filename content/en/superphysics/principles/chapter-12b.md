@@ -1,9 +1,10 @@
 ---
+heading: "Chapter 12b"
 title: "The Superphysics Future"
 date: 2022-01-22
 image: "/photos/psych/binoculars.jpg"
 description: "Superphysics opens up a new course for the future that is impossible with the current science"
-weight: 50
+weight: 72
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -1,7 +1,7 @@
 ---
 title: "Social Experiment Steps"
 weight: 100
-image: "/photos/physics/quasar.jpg"
+image: "/photos/objects/pen.jpg"
 description: "The Steps for Social Experiment"
 author: Consolidated from Bashar
 ---

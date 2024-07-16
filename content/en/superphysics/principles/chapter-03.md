@@ -1,10 +1,12 @@
 ---
 heading: "Chapter 3"
-title: "The Law of Conservation of Idea and the Theory of Dynamism"
-date: 2020-12-29
+title: "Pre-Existence and the Formless Absolute Entity"
+# Desire and the Two Forces
+#, Propelled by Feelings
+date: 2020-01-02
 weight: 9
-image: "/photos/objects/apples.jpg"
-description: "Why you only have 1 idea at a time"
+image: /photos/physics/quasar.jpg
+description: "Everything in existence is created by the two forces"
 icon: /icons/sp.png
 writer:
   name: Juan
@@ -13,70 +15,51 @@ writer:
 
 
 
-Axioms | Propositions
---- | ---
-Each Idea is Unique | Movement Comes from the Objects Preserving their Uniqueness
+The Sequence of Creation in Chapter 2 explained that our universe is a result of the Creator having an aethereal idea of a universe that eventually materialized by going down the 5 Layers. 
+
+But how does the Creator create ideas from nothing?
+
+And how did It push those ideas down to turn them into physical reality?
+
+
+## Pre-Existence and the Absolute Entity as Void
+
+Before Existence began, the Creator had nothing, not even the medium of the aether, to create ideas with. 
+
+We call this state Pre-Existence and refer to the Creator in this state as the Absolute Entity to imply Its Nothingness.
+
+Since it is beyond Existence then both **Pre-Existence and the Absolute Entity do not exist and are merely theoretical**. 
+
+Since these do not exist we can say that only the Probability Layer is working at that state.
+
+
+{{< q a="Parmenides" >}}
+If there is one thing, then it cannot be many and cannot have parts. If it cannot have parts, then it cannot be a whole.. and will have neither beginning, middle, nor end, for these would be parts of it. Thus, the One has no beginning nor end. It is unlimited and therefore formless.
+{{< /q >}}
+
+
+We create such a theoretical state in order to prevent minds from thinking of what came before the universe was created. Doing so will open up paradoxes and infinities that will waste mental energy.
+
+Therefore, our concept of Pre-Existence serves as an instant “sink” that will positively absorb and nullify that thinking effort (as opposed to a wall which blocks the thinking tendency and is therefore negative).
+
+{{< i s="/photos/physics/quasar.jpg" a="Sink" c="Our idea of the Void is a sink to nullify action and ideas" >}}
+
+
+{{< q a="Descartes" >}}
+We will thus never enter disputes about the infinite. This is because we are finite. It would be absurd for us to try to
+determine the infinite.
+{{< /q >}}
 
 
 
-The previous chapter explained how everything in Existence begins as either an idea or feeling in the metaphysical domain which then crosses over onto the physical domain as physical reality. 
+{{< box >}}
+### What came before pre-existence?
 
-Everything in the physical domain has a metaphysical counterpart as its origin. We can say that the physical is the effect of the metaphysical. This is also why the metaphysical is superior to the physical. 
+The concept of pre-existence absorbs all ideas. So if the mind asks 'what came before pre-existence'? Then there is no need to reate another concept called 'Pre-pre-Existence' just to stabilize that desire of consciousness to know. 
 
-All of Physics is dominated by:
-- the Law of Conservation of Mass
-- the Law of Conservation of Energy.
+This is because it is really the **desire** to know that is causing such a curiosity. So it would be better to deal with the asker's desire -- why does he want to know what existed before Existence? It could be a sign that:
+- he has too much time on his hands
+- he has no control of his thoughts, or 
+- his Luna mount is too strong, etc. 
+{{< /box >}}
 
-These state that:
-- mass and energy cannot be created nor destroyed, and
-- all processes are transformations of mass and energy.  
-
-<!-- Antoine Lavoisier 1789.  -->
-
-Likewise, all of Superphysics is dominated by what we call **The Law of Conservation of Idea**. This states that all ideas:
-- already pre-exist
-- cannot be created nor destroyed, and
-- are unique.
-
-This uniqueness means that **each idea has its own properties** as imbued by its Creator.
-- These inherent properties are called its *dharma* or true nature. <!-- Unlike nature which si -->
-- The inherent property of a unique idea or object is called **svadharma**
-
-This law explains the principles in various sciences, such as:
-- The mind having only one thought at a time in Psychology 
-- The Pauli Exclusion Principle in Physics
-- A territory having only one state in Politics
-
-
-## Uniqueness Leads to All Movement in Existence
-
-This property of uniqueness creates all of the dynamism in both physical and metaphysical domains. This dynamism is what we call change, movement, and evolution.
-
-For example, suppose you have a tray that can only hold 10 apples. 
-
-{{< img src="/photos/objects/apples.jpg" alt="Apples" >}}
-
-
-Adding more apples will either:
-- make those additional apples fall off if the tray is strong, or
-- make the apples in the tray burst out if the tray is weak. 
-
-Either way, the mere addition of apples causes movement, as a reaction to those new additions.
-
-The tray represents the mind of the universe which holds its ideas. The addition of new ideas creates reactions from the already-existing ideas. 
-
-This leads to movement for those new and old ideas inside the universe-container. This movement affects all ideas just as the addition of the apple affects all apples already in the tray -- the more ideas, the more the dynamism and energy.
-
- <!-- dynamism that is far more energetic than the original addition-action.   -->
-
-From here it follows that:
-- the universe is inherently dynamic
-- there is an inherent potential dynamism in each object 
-- an object's dynamism can be tapped by letting it interact with the proper objects other than itself
-- the dynamism of objects depend on their relations with each other
-
-This is the foundation of our **Theory of Dynamism**. 
-
-This theory aims to know the causes and effects of all movements, whether physical or metaphysical. This is to harness such movement and dynamism in order to reach our goals, such as to solve problems that are unsolved by Physics and Science.  
-
-In the metaphysical domain, these movements take the form of reflection (as the 'bouncing back' mentioned in Chapter 1),  deflection, dissipation, merging, etc. **These are the dynamics of waves.** Thus, we say that **the metaphysical domain has a wave-like nature**.   

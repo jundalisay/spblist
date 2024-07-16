@@ -1,7 +1,7 @@
 ---
 title: "Follow your excitement"
 weight: 4
-image: "/photos/physics/quasar.jpg"
+image: "/photos/psych/freedom.jpg"
 description: "The Essassani mantra is to 'Follow your excitement' and 'So what?'"
 author: Consolidated from Bashar
 ---

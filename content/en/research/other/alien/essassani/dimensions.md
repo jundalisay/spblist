@@ -1,9 +1,11 @@
 ---
 title: "Dimensions and Densitites"
 weight: 50
-image: "/photos/idea.jpg"
+image: "/photos/physics/ai.jpg"
 description: "The Essassani has various Dimensions and Densitites"
 ---
+
+The Essassani has various Dimensions and Densitites that are usually opposite of what humans think dimensions and densities to be.
 
 Name | Manifestation
 --- | ---

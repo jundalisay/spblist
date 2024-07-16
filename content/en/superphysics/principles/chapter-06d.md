@@ -3,7 +3,7 @@ heading: Chapter 6c
 title: "Choice and Reasonable Versus Unreasonable"
 linkTitle: Choice
 date: 2020-05-26
-weight: 23
+weight: 32
 image: "https://sorasystem.sirv.com/graphics/datascience.png"
 description: "The Enlightenment was a period where reason dominated. Afterwards, people became more egotistic and materialistic"
 draft: true

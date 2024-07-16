@@ -14,7 +14,7 @@ icon: "/icons/descartes.png"
 
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 Conversion from Aether to Matter | Some of the Spacetime Particles become Matter
 

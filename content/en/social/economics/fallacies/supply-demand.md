@@ -12,8 +12,6 @@ icon: /icons/pantry.png
 toc: false
 ---
 
-<!-- social/economics/fallacies/inelastic-supply-curve -->
-
 
 {{< me date="April 2021" >}}
 [The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics. We replace our old pre-2019 name "Socioeconomics" with "Supereconomics".

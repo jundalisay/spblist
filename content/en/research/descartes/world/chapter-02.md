@@ -12,7 +12,7 @@ icon: "/icons/descartes.png"
 
 
 
-Cartesian Axioms | Propositions
+Cartesian Principles | Assertions
 --- | ---
 Light is a media that is different from physical objects |  Light has a form, quality, action or movement
 

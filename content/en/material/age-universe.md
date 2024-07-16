@@ -189,7 +189,7 @@ The emergence of the Cosmic Microwave Background (CMB) is the birth of the Radia
 
 - From a species in the aethereal layer, the universe is a few 'seconds' old and even instantaneous. This is because the aethereal layer is closest to the non-layer which we call 'probabilty'. Moreover, it is also above spacetime, making time irrelevant. This then makes questions of age or timespan irrelevant.  
 
-The layer that the mind occupies then depends on the strength of [the Negative Force](/superphysics/principles/chapter-05/) on it. 
+The layer that the mind occupies then depends on the strength of [the Negative Force](/superphysics/principles/chapter-03e/) on it.
 
 As material creatures, the human species has a lot of Negativity within it, as well as other material animals and plants. This negativity manifests as the conflicts, recessions, inequality, stress from working for money, and other kinds of suffering that seems inseparable from human nature. Even plants and animals have to struggle to survive, proving the confinement of the Negative on them. 
 
@@ -210,7 +210,7 @@ Therefore, Netwon ascribes gravity to matter which is then dominated by an aethe
 
 Therefore, both Newton and Descartes ascribe the cause of reality to vibrations of the aether.
 
-Superphysics interprets such vibrations as waves and is why Superphysics is technically [a wave-based science](/social/economics/principles/intro/chapter-01/), notated by [qualimath](/superphysics/principles/chapter-04b) in order to realize shiny new spacetime and aethereal technologies. 
+Superphysics interprets such vibrations as waves and is why Superphysics is technically [a wave-based science](/social/economics/principles/intro/chapter-01/), notated by [qualimath](/superphysics/principles/chapter-07) in order to realize shiny new spacetime and aethereal technologies. 
 
 Newton explained that the vibrational Spirit operates on both gravity and impulses in the brain. This is why Superphysics has Material Superphysics for gravitational vibrations, and Bio Superphysics for 'brain vibrations' (soul vibrations). 
 

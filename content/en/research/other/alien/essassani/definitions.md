@@ -1,10 +1,11 @@
 ---
 title: "Definitions by the Essassani"
 weight: 100
-image: "/photos/physics/quasar.jpg"
-description: "Definitions by the Essassani"
+image: "/photos/handshake.jpg"
+description: "Definitions are important to the Essassani because these make up the components of your beliefs and therefore your reality"
 ---
 
+Definitions are very important to the Essassani because these make up the components of your beliefs and belief-systems, and therefore your reality. 
 
 
 Word | Definition 

@@ -66,7 +66,7 @@ Thus, we come up with ISAIAH as the name of our ANI:
 
 The idea is inspired by the prophet Isaiah who made many predictions about events in the Middle East. Likewise, ANI is designed to make predictions about anything that it is evidenced by real data. 
 
-![Isaiah](/photos/meta.jpg)
+![Isaiah](/photos/meta/isaiah.jpg)
 
 
 ## Other Implementations

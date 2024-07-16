@@ -12,7 +12,7 @@ icon: /icons/spmat.png
 ---
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 The 2 Forces in Physical Reality | This manifests as Vortices in the 5 Layers
 

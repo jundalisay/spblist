@@ -13,7 +13,7 @@ icon: /icons/spmat.png
 
 
 
-Axioms | Propositions
+Principles | Assertions
 --- | ---
 There are 5 Layers in Reality | The MSQ Classification makes it easier to classify things within the 5 Layers 
 
