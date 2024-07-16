@@ -21,6 +21,11 @@ There are 2 Domains in Reality | The Metaphysical is Superior to the Physical
 . | The Objects in the Metaphysical Domain are called Ideas
 
 
+{{< box >}}
+The Chapter on Qualimath has been moved [here](/superphysics/principles/chapter-07)
+{{< /box >}}
+
+
 Chapter 3 explained that the downward flow of ideas from imagination into reality is facilitated by the Negative Force. 
 
 This is matched by the upward climb of understanding from the Positive.

@@ -1,51 +1,64 @@
 ---
 heading: "Chapter 2b"
-title: "The Sequence of Creation"
-# date: 2015-09-09
-date: 2024-05-03
-# 2020-01-04
-weight: 7
-image: /photos/physics/whitehole.jpg
-description: "We use the 5 Layers to theorize the sequence of creation"
+title: "The 8 Densities"
+date: 2024-06-22
+image: "/photos/physics/neutrino.jpg"
+description: "The 8 Densities are based on the aether "
+weight: 72
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
+icontext: Superphysics icon
 ---
 
 
-The 5 Layers are the journey of an idea of the Supreme from metaphysical into physical reality. In Material Superphysics, this leads to an alternative theory to the Big Bang, which we call the Big Bootup.
+The 8 densities are based on the ratio of the 5 Layers to each other as they impose on Existence-Consciousness through the Negative Force. 
 
-{{< img src='/photos/physics/whitehole.jpg' alt="A whitehole" >}}
+More simply, it is the difference between pure staticity or limitation and pure dynamism or freedom.
 
-1. The Supreme Entity has an idea in the Aethereal Layer.
-2. It is then deployed through a galaxy in a universe in the Spatial  Layer.
-3. It then spreads as particles through the Radiant (electromagnetic) Layer.
-4. It is then transformed by the Convertible Layer into atoms of the Material Layer.
-
-This is also true for any phenomena:
-
-1. You have an aethereal idea to bake a cake.
-2. You walk to the space in the kitchen where the ingredients are.
-3. You see the ingredients, such as flour, through light.
-4. You put them together to convert the flour into a material cake.
-
-
-This is why “mentality creates reality”, to be explained in Chapter 3. 
-
-This truth is perpetually challenged by materialists who believe that the Material Layer is superior and so put forth the opposite maxim “seeing is believing” or “matter creates mind”. 
+Domain | Density | Name | Manifestation
+--- | --- | --- | ---
+Physical | 1 | Identity | Pure Staticity, perceives as objects
+Physical | 2 | Self | Perceives from a single point
+Physical | 3 | Collective | Perceives as a group
+Quasi-Physical | 4 | Lower Mind | In between physical and metaphysical perceptions
+Metaphysical | 5 | Higher Mind | Start of pure metaphysical domain
+Metaphysical | 6 | Soul | Universes in the Multiverse
+Metaphysical |  7 | Brahma or Oversoul  | Ultimate Cause
+Void |  8 | Non-Existential | Void
 
 
-{{< q a="Marx" c="The German Ideology, Part 1" >}}
-The production of ideas, consciousness, is at first directly interwoven with the material activity of men, the language 
-of real life. Conceiving, thinking appear at this stage as the direct efflux of their material behaviour.
+
+Currently, humans are on the early stages of the 4 th density. We have knowledge of abstract philosophy which proves a belief in the metaphysical domain. 
+
+Yet there is no consensus of what the “physics” of the metaphysical domain is. 
+
+This is what Superphysics aims to provide in order to help advance the human species to the upper densities and dimensions.
+
+Of these 8 dimensions and densities, 7 matches the 7 chakras in yoga since the 8th dimension is only theoretical. 
+
+Physically, the dimensions will be useful in Material Superphysics.
+
+Metaphysically, the densities will be useful in Bio-Superphysics which deals with life and the chakras.
+
+For example, after death a person’s soul might be subtle enough to move on to the metaphysical domain into the 5th and 6th densities as a spiritual or luminous entity. 
+
+Usually, a soul’s advancement is not so rapid and so it might go back into the physical domain as 4 th
+density.
+
+More importantly, these dimensions and densities give the soul a direction in life – to aim for the subtler and higher realms instead of wasting time trapped in the lower densities. This goal is called the state of samadhi:
+
+{{< q a="Buddha" c="Pratyutpanna Samādhi Sutta" >}}
+’Where does this Buddha come from and where am I going? As I think of this Buddha, He comes from nowhere and I am going nowhere. As I think of the desire realm, the form realm, and the formless realm*, these three realms are formed by my mind. I can see what I think of. The mind forms a Buddha for itself to see; the mind is the Buddha mind. As my mind forms a Buddha, my mind is the Buddha; my mind is the Tathāgata; my mind is my body.’ 
+
+Although the mind sees a Buddha, the mind neither knows itself nor sees itself. The mind with perceptions is saṁsāra; the mind without perceptions is nirvāṇa. Dharmas as perceived are not
+something pleasurable. They are empty thoughts,
+nothing real. This is what Bodhisattvas see as they abide
+in this samādhi.
 {{< /q >}}
 
 
-Since this materialist doctrine goes against how Nature works, it is no wonder that Communist and Capitalist systems* collapse by themselves from the inside instead of from any external force:
-- The fall of the Soviet Union was begun by Gorbachev
-- The 2008 Financial Crisis was begun by Wall Street banks 
-
-* Communism is based on dialetical materialism, specifically the dominance of matter. Capitalism is based on economic materialism, specifically the love for money
-
-
+<!-- *The desire and formless realms are in the metaphysical domain while the
+form realm is in the physical domain. Desire makes up the 2 Forces which
+will be explained in Chapter 3. -->
