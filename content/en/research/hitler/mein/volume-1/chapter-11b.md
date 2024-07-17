@@ -1,7 +1,7 @@
 ---
 title: The Aryan Race
 heading: Chapter 11b
-weight: 26
+weight: 70
 description: "The iron law of Nature compels the various species to keep within the definite limits of their own life-forms when propagating and multiplying their kind"
 image: /covers/mein.jpg
 ---

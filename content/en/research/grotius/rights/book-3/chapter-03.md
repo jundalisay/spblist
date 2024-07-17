@@ -20,7 +20,9 @@ But to what kind of war such an appellation most duly belongs will be best under
 
 With that opinion Ulpian entirely accords, making an additional observation, that "if any one be taken by robbers, as he is not a lawful prisoner of war, he cannot claim of his own state the right of postliminium. But if he be taken prisoner by a public enemy of the state, being considered as a prisoner of war, he is entitled by the right of postliminium to be restored to his former condition."
 
-These opinions are supported by that of Paulus, who maintains, that persons captured by pirates still continue free, that is, are not to be considered as prisoners, for whom an exchange may be demanded. So that by the opinion of the Roman Lawyers it is evident, that no war315 is considered to be lawful, regular, and formal, except that which is begun and carried on by the sovereign power of each country. Cicero, in his fourth Philippic, describes "a public and authorised enemy to be the person, who possesses the civil and military powers of the state, who can command the treasury, and the services of the people in support of his measures, and who, as occasions offer, has power to conclude treaties of peace and amity."
+These opinions are supported by that of Paulus, who maintains, that persons captured by pirates still continue free, that is, are not to be considered as prisoners, for whom an exchange may be demanded. So that by the opinion of the Roman Lawyers it is evident, that no war315 is considered to be lawful, regular, and formal, except that which is begun and carried on by the sovereign power of each country. 
+
+Cicero, in his fourth Philippic, describes "a public and authorised enemy to be the person, who possesses the civil and military powers of the state, who can command the treasury, and the services of the people in support of his measures, and who, as occasions offer, has power to conclude treaties of peace and amity."
 
 
 ## Part 2

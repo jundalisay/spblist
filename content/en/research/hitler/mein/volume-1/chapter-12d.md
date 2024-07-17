@@ -1,7 +1,7 @@
 ---
 title: Obligations 12- of the Movement
 heading: Chapter 12d
-weight: 34
+weight: 80
 description: "The inner structure of the movement has the following principles"
 image: /covers/mein.jpg
 ---

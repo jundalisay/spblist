@@ -1,7 +1,7 @@
 ---
 title: The First Stage In The Development Of Nazi Party
 heading: Chapter 12
-weight: 28
+weight: 74
 description: ""
 image: /covers/mein.jpg
 ---

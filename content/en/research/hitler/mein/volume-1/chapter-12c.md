@@ -1,7 +1,7 @@
 ---
 title: Obligations 7- of the Movement
 heading: Chapter 12b
-weight: 32
+weight: 78
 description: "This one-sided but clear and definite attitude must be manifested in the movement's propaganda which should be made effective"
 image: /covers/mein.jpg
 ---

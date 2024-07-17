@@ -103,24 +103,27 @@ I was about to send a written reply when my curiosity got the better of me, and 
 
 Wednesday came. The tavern in which the meeting was to take place was the 'Alte Rosenbad' in the Herrnstrasse, into which apparently only an occasional guest wandered. 
 
-This was not very surprising in the year 1919, when the bills of fare even at the larger restaurants were only very modest and scanty in their pretensions and thus not very attractive to clients. But I had never before heard of this restaurant.
+<!-- This was not very surprising in the year 1919, when the bills of fare even at the larger restaurants were only very modest and scanty in their pretensions and thus not very attractive to clients. But I had never before heard of this restaurant.
 
-I went through the badly-lighted guest-room, where not a single guest was to be seen, and searched for the door which led to the side room; and there I was face-to-face with the 'Congress'. 
+I went through the badly-lighted guest-room, where not a single guest was to be seen, and searched for the door which led to the side room; and there I was face-to-face with the 'Congress'.  -->
 
 Under the dim light shed by a grimy gas-lamp I could see four young people sitting around a table, one of them the author of the pamphlet. He greeted me cordially and welcomed me as a new member of the German Labour Party.
 
-I was taken somewhat aback on being informed that actually the National President of the Party had not yet come; so I decided that I would keep back my own exposition for the time being. Finally the President appeared. He was the man who had been chairman of the meeting held in the Sternecker Brewery, when Feder spoke.
+<!-- I was taken aback on being informed that the Party's National President had not yet come; so I decided that I would keep back my own exposition for the time being. Finally the President appeared. He was the man who had been chairman of the meeting held in the Sternecker Brewery, when Feder spoke.
 
 My curiosity was stimulated anew and I sat waiting for what was going to happen.
 
-Now I got at least as far as learning the names of the gentlemen who had been parties to the whole affair. The REICH National President of the Association was a certain Herr Harrer and the President for the Munich district was Anton Drexler. 
+Now I got at least as far as learning the names of the gentlemen who had been parties to the whole affair.  -->
 
-The minutes of the previous meeting were read out and a vote of confidence in the secretary was passed. Then came the treasurer's report. The Society possessed a total fund of seven marks and fifty pfennigs (a sum corresponding to 7s. 6d. in English money at par), whereupon the treasurer was assured that he had the confidence of the
-members. 
+I learned that the REICH National President of the Association was a certain Herr Harrer and the President for the Munich district was Anton Drexler. 
+
+The minutes of the previous meeting were read out and a vote of confidence in the secretary was passed. Then came the treasurer's report. The Society possessed a total fund of 7 marks and 50 pfennigs (a sum corresponding to 7s. 6d. in English money at par), whereupon the treasurer was assured that he had the confidence of the members. 
 
 This was now inserted in the minutes. Then letters of reply which had been written by the Chairman were read; first, to a letter received from Kiel, then to one from Düsseldorf and finally to one from Berlin. All three replies received the approval of all present. 
 
-Then the incoming letters were read--one from Berlin, one from Düsseldorf and one from Kiel. The reception of these letters seemed to cause great satisfaction. This increasing bulk of correspondence was taken as the best and most obvious sign of the growing importance of the German Labour Party. And then? 
+Then the incoming letters were read--one from Berlin, one from Düsseldorf and one from Kiel. The reception of these letters seemed to cause great satisfaction. 
+
+This increasing bulk of correspondence was taken as the best and most obvious sign of the growing importance of the German Labour Party. And then? 
 
 Well, there followed a long discussion of the replies which would be given to these newly-received letters. 
 
@@ -132,40 +135,47 @@ The question of new members was next discussed--that is to say, the question of 
 
 I now began to ask questions. But I found that, apart from a few general principles, there was nothing--no programme, no pamphlet, nothing at all in print, no card of membership, not even a party stamp, nothing but obvious good faith and good intentions.
 
-I no longer felt inclined to laugh; for what else was all this but a typical sign of the most complete perplexity and deepest despair in regard to all political parties, their programmes and views and activities? 
+<!-- I no longer felt inclined to laugh; for what else was all this but a typical sign of the most complete perplexity and deepest despair in regard to all political parties, their programmes and views and activities?  -->
 
-The feeling which had induced those few young people to join in what seemed such a ridiculous enterprise was nothing but the call of the inner voice which told them--though more intuitively than consciously--that the whole party system as it had hitherto existed was not the kind of force that could restore the German nation or repair the damages that had been done to the German people by those who hitherto controlled the internal affairs of the nation. 
+Those few young people had been induced to join in such a ridiculous enterprise was merely the call of the inner voice which told them intuitively that the current party system could not restore the German nation.
 
-I quickly read through the list of principles that formed the platform of the party. These principles were stated on typewritten sheets. Here again I found evidence of the spirit of longing and searching, but no sign whatever of a knowledge of the conflict that had to be fought. 
+ <!-- or repair the damages that had been done to the German people by those who hitherto controlled the internal affairs of the nation.  -->
+
+I quickly read through the list of principles that formed the platform of the party. 
+
+<!-- These principles were stated on typewritten sheets.  -->
+
+Here again I found evidence of the spirit of longing and searching, but no sign whatever of a knowledge of the conflict that had to be fought.
 
 I myself had experienced the feelings which inspired those people. It was the longing for a movement which should be more than a party, in the hitherto accepted meaning of that word.
 
-When I returned to my room in the barracks that evening I had formed a definite opinion on this association and I was facing the most difficult problem of my life. 
+When I returned to my room in the barracks that evening I asked myself: Should I join this party or refuse?
 
-Should I join this party or refuse?
+ <!-- had formed a definite opinion on this association and I was facing the most difficult problem of my life.  -->
 
-From the side of the intellect alone, every consideration urged me to refuse; but my feelings troubled me. The more I tried to prove to myself how senseless this club was, on the whole, the more did my feelings incline me to favour it. During the following days I was restless.
+Intellect urged me to refuse. But my feelings troubled me. The more I proved to myself how senseless this club was, the more did my feelings incline me to favour it. During the following days I was restless.
 
-I began to consider all the pros and cons. I had long ago decided to take an active part in politics. 
+<!-- I began to consider all the pros and cons. I had long ago decided to take an active part in politics. 
 
 The fact that I could do so only through a new movement was quite clear to me; but I had hitherto lacked the impulse to take concrete action. I am not one of those people who will begin something to-day and just give it up the next day for the sake of something new. 
 
-That was the main reason which made it so difficult for me to decide in joining something newly founded; for this must become the real fulfilment of everything I dreamt, or else it had better not be started at all. I knew that such a decision should bind me for ever and that there could be no turning back. 
+That was the main reason which made it so difficult for me to decide in joining something newly founded; for this must become the real fulfilment of everything I dreamt, or else it had better not be started at all. I knew that such a decision should bind me for ever and that there could be no turning back.  -->
 
-For me there  could be no idle dallying but only a cause to be championed ardently. I had already an instinctive feeling against people who took up everything, but never carried anything through to the end. I loathed these Jacks-of-all-Trades, and considered the activities of such people to be worse than if they were to remain entirely quiescent.
+<!-- For me there  could be no idle dallying but only a cause to be championed ardently. I had already an instinctive feeling against people who took up everything, but never carried anything through to the end. I loathed these Jacks-of-all-Trades, and considered the activities of such people to be worse than if they were to remain entirely quiescent.
 
-Fate herself now seemed to supply the finger-post that pointed out the way. I should never have entered one of the big parties already in existence and shall explain my reasons for this later on. 
+Fate herself now seemed to supply the finger-post that pointed out the way. I should never have entered one of the big parties already in existence and shall explain my reasons for this later on.  -->
 
-This ludicrous little formation, with its handful of members, seemed to have the unique advantage of not yet being fossilized into an 'organization' and still offered a chance for real personal activity on the part of the individual. 
+This ludicrous little formation, with its handful of members, had the unique advantage of not yet being fossilized into an 'organization'. It offered a chance for real personal activity. 
 
-Here it might still be possible to do some effective work; and, as the movement was still small, one could all the easier give it the required shape. Here it was still possible to determine the character of the movement, the aims to be achieved and the road to be taken, which would have been impossible in the case of the big parties already existing.
+<!-- Here it might still be possible to do some effective work; and,  -->
 
-The longer I reflected on the problem, the more my opinion developed that just such a small movement would best serve as an instrument to prepare the way for the national resurgence, but that this could never be done by the political parliamentary parties which were too firmly attached to obsolete ideas or had an interest in supporting the
-new regime. 
+As the movement was still small, one could all the easier give it the required shape. Here it was still possible to determine the character of the movement, the aims to be achieved and the road to be taken, which would have been impossible in the case of the big parties already existing.
+
+The longer I reflected on the problem, the more my opinion developed that just such a small movement would best serve as an instrument to prepare the way for the national resurgence, but that this could never be done by the political parliamentary parties which were too firmly attached to obsolete ideas or had an interest in supporting the new regime. 
 
 What had to be proclaimed here was a new WELTANSCHAUUNG and not a new election cry.
 
-It was, however, infinitely difficult to decide on putting the intention into practice.
+<!-- It was, however, infinitely difficult to decide on putting the intention into practice.
 
 What were the qualifications which I could bring to the accomplishment of such a task?
 
@@ -176,7 +186,7 @@ The so-called 'intellectuals' still look down with infinite superciliousness on 
 
 'Educated' people look upon any imbecile who is plastered with a number of academic certificates as superior to the ablest young fellow who lacks these precious documents. I could therefore easily imagine how this 'educated' world would receive me and I was wrong only in so far as I then believed men to be for the most part better than they proved to be in the cold light of reality. 
 
-Because of their being as they are, the few exceptions stand out all the more conspicuously. I learned more and more to distinguish between those who will always be at school and those who will one day come to know something in reality. 
+Because of their being as they are, the few exceptions stand out all the more conspicuously. I learned more and more to distinguish between those who will always be at school and those who will one day come to know something in reality.  -->
 
 After two days of careful brooding and reflection I became convinced that I must take the contemplated step.
 

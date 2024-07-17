@@ -1,7 +1,7 @@
 ---
 title: The First Days of the Movement
 heading: Chapter 12d
-weight: 38
+weight: 82
 description: ""
 image: /covers/mein.jpg
 ---
