@@ -1,7 +1,7 @@
 ---
 title: Why The Second Reich Collapsed
 heading: Chapter 10
-weight: 38
+weight: 24
 description: ""
 image: /covers/mein.jpg
 ---

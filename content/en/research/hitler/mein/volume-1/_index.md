@@ -2,8 +2,8 @@
 heading: Volume 1
 title: "A Retrospect "
 # date: 2024-07-15
-weight: 2
-description: ""
+weight: 3
+description: "Hitler remembers his struggles establishing the Nazi Party"
 image: /covers/mein.jpg
 ---
 

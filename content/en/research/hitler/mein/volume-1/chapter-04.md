@@ -1,7 +1,7 @@
 ---
 title: Munich
 heading: Chapter 4
-weight: 38
+weight: 12
 description: ""
 image: /covers/mein.jpg
 ---

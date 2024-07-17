@@ -1,7 +1,7 @@
 ---
 title: The Revolution
 heading: Chapter 7
-weight: 38
+weight: 18
 description: ""
 image: /covers/mein.jpg
 ---

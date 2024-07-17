@@ -1,7 +1,7 @@
 ---
 title: War Propaganda
 heading: Chapter 6
-weight: 38
+weight: 16
 description: ""
 image: /covers/mein.jpg
 ---

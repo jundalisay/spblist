@@ -8,11 +8,9 @@ image: /covers/mein.jpg
 
 
 
-Volume 1 of this book explained the term VÖLKISCH. It has not a sufficiently precise meaning to furnish the kernel
-around which a closely consolidated militant community could be formed.
+Volume 1 of this book explained the term VÖLKISCH as the core of the closely consolidated militant community.
 
-All kinds of people, with all kinds of divergent opinions, are parading about at the present moment
-under the device VÖLKISCH on their banners. 
+All kinds of people, with all kinds of divergent opinions, are parading about at the present moment under the device VÖLKISCH on their banners. 
 
 Before I come to deal with the purposes and aims of the National Socialist Labour Party I want to establish a clear
 understanding of what is meant by the concept VÖLKISCH and herewith explain its

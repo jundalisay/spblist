@@ -1,7 +1,7 @@
 ---
 title: The World War
 heading: Chapter 5
-weight: 38
+weight: 14
 description: ""
 image: /covers/mein.jpg
 ---

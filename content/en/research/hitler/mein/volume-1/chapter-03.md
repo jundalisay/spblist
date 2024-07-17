@@ -1,7 +1,7 @@
 ---
 title: Political Reflections Arising Out Of My Sojourn In Vienna
 heading: Chapter 3
-weight: 38
+weight: 8
 description: ""
 image: /covers/mein.jpg
 ---
@@ -10,30 +10,45 @@ image: /covers/mein.jpg
 
 GENERALLY, a man should not publicly take part in politics before 30 years old, except for those who are naturally gifted with extraordinary political abilities.
 
-This is because until he reaches that age, a man's mental development will mostly consist in acquiring and sifting
-such knowledge as is necessary for the groundwork of a general platform from which he can examine the different political problems that arise from day to day and be able to adopt a definite attitude towards each. A man must first acquire a fund of general ideas and fit them together so as to form an organic structure of personal thought or outlook
-on life--a WELTANSCHAUUNG. 
+This is because until he reaches that age, his mental development will mostly consist in acquiring and sifting the knowledge necessary for a platform from to examine the different political problems.
 
-Then he will have that mental equipment without which he cannot form his own judgments on particular questions of the day, and he will have acquired those qualities that are necessary for consistency and steadfastness in the
-formation of political opinions. 
+ <!-- that arise from day to day and be able to adopt a definite attitude towards each.  -->
 
-Such a man is now qualified, at least subjectively, to take his part in the political conduct of public affairs.
+A man must first acquire a fund of general ideas and fit them together so as to form an organic structure of personal thought or outlook on life--a WELTANSCHAUUNG. 
 
-If these pre-requisite conditions are not fulfilled, and if a man should enter political life
-without this equipment, he will run a twofold risk. In the first place, he may find during
+Then he will have that mental equipment to form his own judgments on questions of the day.
+
+<!-- He will have acquired those qualities that are necessary for consistency and steadfastness in the
+formation of political opinions.  -->
+
+Such a man is now qualified, at least subjectively, to join the political conduct of public affairs.
+
+If a man enters political life without this equipment, he will run 2 risks:
+
+1. His stand might be wrong.
+
+<!--  In the first place, he may find during
 the course of events that the stand which he originally took in regard to some essential
-question was wrong. He will now have to abandon his former position or else stick to it
-against his better knowledge and riper wisdom and after his reason and convictions
-have already proved it untenable. 
+question was wrong.  -->
 
-If he adopt the former line of action he will find himself in a difficult personal situation; because in giving up a position hitherto maintained he will appear inconsistent and will have no right to expect his followers to
-remain as loyal to his leadership as they were before. And, as regards the followers
-themselves, they may easily look upon their leader's change of policy as showing a lack
+He will now have to either:
+- abandon his former position
+- stick to it even if it is untenable
+
+<!-- against his better knowledge and riper wisdom and after his reason and convictions have already proved it .  -->
+
+If he abandons it, he will appear inconsistent and will lose the loyalty of his followers who will see him as lacking good judgment.
+
+ <!-- to remain as loyal to his leadership as they were before.  -->
+
+<!-- And, as regards the followers themselves, they may easily look upon their leader's change of policy as showing a lack
 of judgment inherent in his character. 
 
-Moreover, the change must cause in them a certain feeling of discomfiture VIS-À-VIS those whom the leader formerly opposed. 
+Moreover, the change must cause in them a certain feeling of discomfiture VIS-À-VIS those whom the leader formerly opposed.  -->
 
-If he adopts the second alternative--which so very frequently happens to-day--then public pronouncements of the leader have no longer his personal persuasion to support them. And the more that is the case the defence of his cause will be all the more hollow and superficial. 
+If he sticks to his error, the public will no longer support him. This very frequently happens today.
+
+<!-- --then public pronouncements of the leader have no longer his personal persuasion to support them. And the more that is the case the defence of his cause will be all the more hollow and superficial. 
 
 He now descends to the adoption of vulgar means in his defence. While he himself no longer dreams seriously of standing by his political protestations to the last--for no man will die in defence of something in which he does not believe--he
 makes increasing demands on his followers. 
@@ -42,22 +57,20 @@ The greater be the measure of his own insincerity, the more unfortunate and inco
 adherents. Finally, he throws aside the last vestiges of true leadership and begins to
 play politics. This means that he becomes one of those whose only consistency is their
 inconsistency, associated with overbearing insolence and oftentimes an artful
-mendacity developed to a shamelessly high degree.
+mendacity developed to a shamelessly high degree. -->
 
 Should such a person, to the misfortune of all decent people, succeed in becoming a parliamentary deputy it will be clear from the outset that for him the essence of political activity consists in a heroic struggle to keep permanent hold on this milk-bottle as a source of livelihood for himself and his family. 
 
 The more his wife and children are dependent on him, the more stubbornly will he fight to maintain for himself the
 representation of his parliamentary constituency. 
 
-For that reason any other person who gives evidence of political capacity is his personal enemy. In every new movement he
-will apprehend the possible beginning of his own downfall. And everyone who is a
-better man than himself will appear to him in the light of a menace.
-I shall subsequently deal more fully with the problem to which this kind of
-parliamentary vermin give rise.
+For that reason any other person who gives evidence of political capacity is his personal enemy. 
 
-When a man has reached 30 years old, he has still more to learn.
+In every new movement he will apprehend the possible beginning of his own downfall. And everyone who is a better man than himself will appear to him in the light of a menace. 
 
-But what he learns will principally be an amplification of his basic ideas.
+I shall subsequently deal more fully with the problem to which this kind of parliamentary vermin give rise.
+
+When a man has reached 30 years old, he has still more to learn. But what he learns will principally be an amplification of his basic ideas.
 
 It will be fitted in with them organically so as to fill up the framework of the fundamental WELTANSCHAUUNG which he already possesses. What he learns anew will not imply the abandonment of principles already held, but rather a deeper
 knowledge of those principles. 

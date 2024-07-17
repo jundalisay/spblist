@@ -270,9 +270,12 @@ Of course. And you are nuts to propose a one-state solution that unites Jews and
 
 The universe was created for us humans. After death, there is nothing. There is no evidence of God, the afterlife, reincarnation, or karma. So I say maximize pleasure while alive!
 
-So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. 'Me' 'myself' and 'I' are all that matters. 
+So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. 'Me' 'myself' and 'I' are all that matters. It's the Iron law of Nature, as explained by Hitler:
 {{< /r >}}
 
+{{< q a="Hitler" c="Mein Kampf, Race And People" >}}
+The stronger must dominate and not mate with the weaker, which would signify the sacrifice of its own higher nature. Only the born weakling can look upon this principle as cruel. He will feel so merely because he is of a feebler nature and narrower mind.
+{{< /q >}}
  <!-- Heaven can be on earth, bought by :musical_notes: money money money in a rich man's world :musical_notes:.  -->
 
 <!--  and don't care about the consequences, even on others! Go ahead and exhaust your brain theorizing wormholes and dark matter that will never exist, or quantitative easing that either bloats the debt and shuts down governments or causes stagflation. -->

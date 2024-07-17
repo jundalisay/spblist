@@ -1,7 +1,7 @@
 ---
 title: The Beginning Of My Political Activities
 heading: Chapter 8
-weight: 38
+weight: 20
 description: ""
 image: /covers/mein.jpg
 ---

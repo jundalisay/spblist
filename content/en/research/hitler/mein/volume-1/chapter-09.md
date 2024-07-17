@@ -1,7 +1,7 @@
 ---
 title: The German Labour Party
 heading: Chapter 9
-weight: 38
+weight: 22
 description: ""
 image: /covers/mein.jpg
 ---
