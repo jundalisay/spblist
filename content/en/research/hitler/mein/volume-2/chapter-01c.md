@@ -1,8 +1,9 @@
 ---
-title: Völkisch
+title: What is Völkisch?
 heading: Chapter 1b
 weight: 38
-description: ""
+description: "All kinds of people, with all kinds of divergent opinions, are parading about at the present moment under the device VÖLKISCH on their banners"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

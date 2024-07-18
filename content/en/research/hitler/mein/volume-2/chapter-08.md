@@ -2,13 +2,14 @@
 title: The Strong Is Strongest When Alone
 heading: Chapter 8
 weight: 38
-description: ""
+description: "Small groups which were weak as long as they stood alone have now suddenly become strong"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-IN THE preceding chapter I mentioned the existence of a co-operative union between
-the German patriotic associations. Here I shall deal briefly with this question.
+IN THE preceding chapter I mentioned the existence of a co-operative union between the German patriotic associations. Here I shall deal briefly with this question. 
+
 In speaking of a co-operative union we generally mean a group of associations which,
 for the purpose of facilitating their work, establish mutual relations for collaborating
 with one another along certain lines, appointing a common directorate with varying

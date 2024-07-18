@@ -3,6 +3,7 @@ title: Obligations 7- of the Movement
 heading: Chapter 12b
 weight: 78
 description: "This one-sided but clear and definite attitude must be manifested in the movement's propaganda which should be made effective"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
@@ -10,18 +11,26 @@ image: /covers/mein.jpg
 
 7. This one-sided but clear and definite attitude must be manifested in the movement's propaganda which should be made effective
 
-If propaganda is to be of service to the movement it must be addressed to one side alone; for if it should vary the direction of its appeal it will not be understood in the one camp or may be rejected by the other, as merely insisting on obvious and uninteresting truisms; for the intellectual training of the two camps that come into question here has
-been very different.
+If propaganda is to be of service to the movement, it must be addressed to one side alone.
 
-Even the manner in which something is presented and the tone in which particular details are emphasized cannot have the same effect in those two strata that belong espectively to the opposite extremes of the social structure. If the propaganda should refrain from using primitive forms of expression it will not appeal to the sentiments of
+If it varies the direction of its appeal, it will not be understood in the one camp or may be rejected by the other.
+
+It would be thought of as merely insisting on obvious and uninteresting truisms. This is because the intellectual training of the two camps that come into question here has been very different.
+
+Even the manner in which something is presented and the tone in which particular details are emphasized cannot have the same effect in those two strata that belong espectively to the opposite extremes of the social structure.
+
+If the propaganda should refrain from using primitive forms of expression it will not appeal to the sentiments of
 the masses.
 
-If, on the other hand, it conforms to the crude sentiments of the masses in its words and gestures the intellectual circles will be averse to it because of its roughness and vulgarity. Among a hundred men who call themselves orators there are scarcely ten who are capable of speaking with effect before an audience of street-sweepers, 
-locksmiths and navvies, etc., to-day and expound the same subject with equal effect tomorrow before an audience of university professors and students. 
+If, on the other hand, it conforms to the crude sentiments of the masses in its words and gestures the intellectual circles will be averse to it because of its roughness and vulgarity.
+
+Among a hundred men who call themselves orators there are scarcely ten who are capable of speaking with effect before an audience of street-sweepers, locksmiths and navvies, etc., to-day and expound the same subject with equal effect tomorrow before an audience of university professors and students. 
 
 Among a thousand public speakers there may be only one who can speak before a composite audience of locksmiths and professors in the same hall in such a way that his statements can be fully comprehended by each group while at the same time he effectively influences both and awakens enthusiasm, on the one side as well as on the other, to hearty applause. 
 
-But it must be remembered that in most cases even the most beautiful idea embodied in a sublime theory can be brought home to the public only through the medium of smaller minds. The thing that matters here is not the vision of the man of genius who created the great idea but rather the success which his apostles achieve in shaping the expression of this idea so as to bring it home to the minds of the masses. 
+But it must be remembered that in most cases even the most beautiful idea embodied in a sublime theory can be brought home to the public only through the medium of smaller minds. 
+
+The thing that matters here is not the vision of the man of genius who created the great idea but rather the success which his apostles achieve in shaping the expression of this idea so as to bring it home to the minds of the masses. 
 
 Social-Democracy and the whole Marxist movement were particularly qualified to attract the great masses of the nation, because of the uniformity of the public to which they addressed their appeal. The more limited and narrow their ideas and arguments, the easier it was for the masses to grasp and assimilate them; for those ideas and arguments were well adapted to a low level of intelligence. 
 

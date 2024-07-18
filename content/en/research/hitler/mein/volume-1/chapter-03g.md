@@ -2,13 +2,13 @@
 title: Democracy is Against the Law of Nature
 heading: Chapter 3c
 weight: 18
-description: ""
+description: "The authority of the State can never be an end in itself. If that were so, any kind of tyranny would be inviolable and sacred"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-The authority of the State can never be an end in itself; for, if that were so, any kind of
-tyranny would be inviolable and sacred.
+The authority of the State can never be an end in itself. If that were so, any kind of tyranny would be inviolable and sacred.
 
 If a government uses the instruments of power in its hands for the purpose of leading a
 people to ruin, then rebellion is not only the right but also the duty of every individual

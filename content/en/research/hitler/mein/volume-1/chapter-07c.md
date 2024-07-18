@@ -3,6 +3,7 @@ title: The Revolution
 heading: Chapter 7
 weight: 54
 description: "In August and September, the symptoms of moral disintegration increased more rapidly"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

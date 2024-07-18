@@ -2,7 +2,8 @@
 title: The Mask Of Federalism
 heading: Chapter 10
 weight: 38
-description: ""
+description: "Tthe collapse wrecked Germany as a whole but even more particularly the federal states"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
@@ -22,7 +23,9 @@ shameless manner.
 Appealing to the basest of human instincts, this propaganda endeavoured to arouse the wrath of the South Germans against the North Germans and after a short time it bore fruit. Persons who were then in high positions under the
 Government and in the Army, especially those attached to headquarters in the Bavarian
 Army, merited the just reproof of having blindly neglected their duty and failed to take
-the necessary steps to counter such propaganda. But nothing was done. On the
+the necessary steps to counter such propaganda. But nothing was done. 
+
+On the
 contrary, in some quarters it did not appear to be quite unwelcome and probably they
 were short-sighted enough to think that such propaganda might help along the
 development of unification in Germany but even that it might automatically bring

@@ -2,7 +2,8 @@
 title: Munich and The System of German Alliances
 heading: Chapter 4
 weight: 26
-description: "Apart from my professional work, I was most interested in the study of current political events, particularly those on foreign relations"
+description: "I came to Munich in the spring of 1912"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

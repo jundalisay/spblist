@@ -2,7 +2,8 @@
 title: Before the World War
 heading: Chapter 5
 weight: 38
-description: ""
+description: "In my youth, my energy was dampened by the world erecting temples of fame only in honour of businessmen and State officials"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

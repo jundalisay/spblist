@@ -2,7 +2,8 @@
 title: The Art of Leadership
 heading: Chapter 3j
 weight: 22
-description: "The art of leadership consists in consolidating the attention of the people against a single adversary"
+description: "The leader of genius must make different opponents appear as if they belonged to the one category"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

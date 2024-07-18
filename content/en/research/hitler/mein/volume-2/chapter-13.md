@@ -2,7 +2,8 @@
 title: The German Post-War Policy Of Alliances
 heading: Chapter 13
 weight: 38
-description: ""
+description: "The REICH conducted its foreign affairs erratically due to a lack of sound guiding principles for the formation of practical and useful alliances"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

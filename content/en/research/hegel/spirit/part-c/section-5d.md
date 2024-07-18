@@ -1,7 +1,7 @@
 ---
 heading: "Section 5d"
 title: "Observation of Nature"
-description: The subject of philosophy is the actual knowledge of what truly is.
+description: Unreflective Consciousness speaks of observation and experience as being the fountain of truth.
 image: /covers/phenom.png
 author: Hegel
 weight: 8
@@ -11,42 +11,62 @@ weight: 8
 ## From Universal to Particular
 <!-- The Observation of Nature -->
 
-{{< s v='244' >}} Unreflective consciousness speaks of observation and experience as being the fountain of truth.
+{{< s v='244' >}} Unreflective Consciousness speaks of observation and experience as being the fountain of truth.
 
 This gives the impression that observation were a matter of tasting, smelling, feeling, hearing, and seeing. 
 
-In its zeal for tasting, smelling, etc., unreflective consciousness has really and rationally determined for itself already the object being observed. 
+In its zeal for tasting, smelling, etc, unreflective consciousness has already determined for itself, really and rationally, the object being observed. 
 
-This determination of the object is at least as important for it as that apprehension.
+This determination of the object is important for Unreflective Consciousness as that apprehension.
 
-The whole concern of unreflective consciousness is not simply perceiving.
-
+**The whole concern of Unreflective Consciousness is not simply in perceiving**.
+- Instead, what is perceived should have the significance of a universal, and not of a sensuous particular “this”.*
 <!-- , and will not allow, e.g,. the perception that this penknife lies beside this snuff-box to pass for an “observation”.  -->
 
-What is perceived should, at least, have the significance of a universal, and not of a sensuous particular “this”.
+{{< n n="In Superphysics, Unreflective Consciousness is simply called passive-thinking" >}}
 
 
 {{< s v='245' >}} This universal is regarded only in the first instance, what remains identical with itself.
 
 Its movement is merely the uniform recurrence of the same operation. 
 
-The consciousness, which thus far finds in the object merely universality or the abstract “mine”, must take upon itself the movement peculiar to the object.
+The consciousness thus far finds in the object merely universality or the abstract “mine”. It matches the object's movement.
 
-Since it does not understand that object yet, it must be the recollection of it. This recollection which expresses in a universal way what is merely present in a particular form. 
+Since it does not understand that object yet, it must be the recollection of it. This recollection expresses in a universal way whatever is merely present in a particular form. 
 
-This superficial way of educing from particularity, and the equally superficial form of universality into which the sense element is merely taken up, without the sense element having in itself become a universal — this description of things is not as yet a process effected in the object itself. 
+This description of things is made up of:
+- a superficial way of educing from particularity
+- a superficial form of universality which absorbs the sense element, without the sense element becoming a universal
 
-The process really takes place solely in the function of describing. 
+This description of things is not yet a process effected in the object itself. 
+- This process happens solely in the function of describing. 
 
-The object as it is described has consequently lost interest, when one object is being described another must be taken in hand and ever sought, so as not to put a stop to the process of description. 
+<!-- The object as it is described has consequently lost interest,  -->
 
-If it is no longer easy to find new and whole things, then there is nothing for it but to turn back on those already found. This is for consciousness to divide them still further into component parts and look out for any new aspects of thinghood that still remain in them. 
+When one object is being described, another object must be taken in hand and ever sought. This is to not stop the process of description*. 
+
+{{< n n="*This is because the mind always moves" >}}
+
+
+If it is no longer easy to find new and whole things, then there is nothing for it but to turn back on those already found. 
+
+This is for consciousness to divide them still further into component parts and look out for any new aspects of thinghood that still remain in them. 
 
 There can never be an end to the material at the disposal of this restlessly active instinct. 
 
-To find a new genus of distinctive significance, or even to discover a new planet, which although an individual entity yet possesses the nature of a universal, can only fall to the lot of those who are lucky enough. 
+To find a new genus of distinctive significance, or even to discover a new planet, can only fall to the lucky.
 
-An elephant, oak, gold, are made distinctive by a boundary line.
+<!-- which although an individual entity yet possesses the nature of a universal,  
+
+ lot of those who are lucky enough.  -->
+
+
+### The Boundary line
+
+An elephant, oak, gold, are made distinctive by a boundary line.*
+
+{{< n n="*In Cartesian Physics, this abstract line is called superficies which we call edges" >}}
+
 
 This line of demarcation separates genus and species. It passes through many stages into the endless particularization of the chaos of:
 - plants and animals
@@ -70,7 +90,7 @@ It can no longer know whether what seems to have being per se is not a chance ac
 What bears the impress of a confused or immature feeble structure, barely evolving from the stage of elementary indeterminateness, cannot claim even to be described.
 
 
-{{< s v='2446' >}} This seeking and describing is concerned merely with things. 
+{{< s v='246' >}} This seeking and describing is concerned merely with things. 
 
 Yet we see that it does not continue in the form of sense-perception.
 
@@ -114,18 +134,57 @@ What, however, is incapable of this and becomes in chemical fashion something ot
 
 {{< s v='247' >}} In those systems where the elements involve general self-sameness, this character connotes at once the self-sameness of knowledge and of things themselves as well.
 
-But this expansion of these self-identical characteristics, each of which describes undisturbed the entire circuit of its course and gets full scope to do as it likes, necessarily leads as readily to its very opposite, leads to the confusion of these characteristics. For the qualifying mark, the general characteristic is the unity of opposite factors, viz. of what is determinate, and of what is per se universal. It must, therefore, break asunder into this opposition. 
-
-If, now, on one side the characteristic overmasters the universality in which its essence lies, on the other side, again, this universality equally keeps that characteristic under control, forces the latter on to its boundary line, and there mingles together its distinctions and its essential constituents. 
-
-Observation which kept them apart in orderly fashion, and thought it had hold there of something stable and fixed, finds the principles overlapping and dominating one another, sees confusions formed and transitions made from one to another; here it finds united what it took at first to be absolutely separated, and there separated what it considered connected. Hence, when observation thus holds by the unbroken self-sameness of being, it has here, just in the most general determinations given-e.g. in the case of the essential marks of an animal or a plant-to see itself tormented with instances, which rob it of every determination, silence the universality it reached, and reduce it again to unreflective observation and description.
 
 
-{{< s v='248' >}} Observation, which confines itself in this way to what is simple, or restricts the sensuously dispersed elements by the universal, thus finds its principle confused by its object, because what is determined must by its very nature get lost in its opposite. 
+These self-identical characteristics each describes undisturbed the entire circuit of its course and gets full scope to do as it likes.
 
-Reason, therefore, must pass from that inert characteristic which had the semblance of stability, and go on to observe it as it really is in truth, viz. as relating itself to its opposite.
+This expansion of self-identical characteristics necessarily leads as readily to its very opposite -- the confusion of these characteristics. 
 
-What are called essential marks are passive characteristics, which, when expressed and apprehended as simple, do not bring out what constitutes their real nature — which is to be vanishing moments of its process of withdrawing and betaking itself into itself.
+The qualifying mark is the general characteristic as the unity of opposite factors:
+- what is determinate
+- what is per se universal. 
 
-Since the instinct of reason now arrives at the point of looking for the characteristic in the light of its true nature — that of essentially passing over into its opposite and not existing apart by itself and for its own sake — it seeks after the Law and the notion of law. It seeks for them, moreover, as existing reality; but this feature of concrete reality will in point of fact disappear before reason, and the aspects of the law will become for it mere moments or abstractions, so that the law comes to light in the nature of the notion, which has destroyed within itself the indifferent subsistence of sensuous reality.
+It must, therefore, break asunder into this opposition. 
+
+- On one side, the characteristic overmasters the universality in which its essence lies.
+- On the other side, this universality equally keeps that characteristic under control.
+
+This forces the universality onto its boundary line. There, it mingles together its distinctions and its essential constituents.
+
+Observation keeps them apart.
+
+ <!-- in orderly fashion, and thought it had hold there of something stable and fixed,  -->
+
+Observation finds the principles overlapping and dominating one another. It sees confusions formed and transitions made from one to another.
+
+Observation finds united what it took at first to be absolutely separated, and there separated what it considered connected. 
+
+Hence, observation holds the unbroken self-sameness of being. 
+
+But it also gets tormented with instances in that being such as:
+- the essential marks of an animal
+- the marks of a plant
+
+This robs it of every determination, silence the universality it reached, and reduce it again to unreflective observation and description.
+
+
+{{< s v='248' >}} Observation, which confines itself to what is simple, thus finds its principle confused by its object.
+
+<!-- or restricts the sensuously dispersed elements by the universal,  -->
+
+This is because what is determined must by its very nature get lost in its opposite. 
+
+Reason, therefore, must pass from that inert stable characteristic and go on to observe it as it really is in truth, viz. as relating itself to its opposite.
+
+"Essential marks" are passive characteristics. When expressed and apprehended as simple, these marks do not bring out what constitutes their real nature. These marks are really vanishing moments of its process of withdrawing and betaking itself into itself.
+
+The instinct of reason now arrives at looking for the characteristic in the light of its true nature. This characteristic  is that of essentially:
+- passing over into its opposite
+- not existing apart by itself and for its own sake.
+
+Reason thus seeks after the Law and the notion of law, as existing reality.
+
+But this feature of concrete reality will disappear before reason.
+
+The aspects of the law will become for it mere moments or abstractions. In this way, the law comes to light in the nature of the notion, which has destroyed within itself the indifferent subsistence of sensuous reality.
 

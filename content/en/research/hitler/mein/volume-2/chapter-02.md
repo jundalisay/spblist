@@ -2,15 +2,18 @@
 title: The State
 heading: Chapter 2
 weight: 38
-description: ""
+description: "IN 1920-1921 the effete bourgeois class accused our movement again and again of taking up a negative attitude towards the modern State"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-ALREADY IN 1920-1921 certain circles belonging to the effete bourgeois class accused our movement again and again of taking up a negative attitude towards the modern State. For that reason the motley gang of camp followers attached to the various political parties, representing a heterogeneous conglomeration of political views,
-assumed the right of utilizing all available means to suppress the protagonists of this
-young movement which was preaching a new political gospel. Our opponents
-deliberately ignored the fact that the bourgeois class itself stood for no uniform opinion
+IN 1920-1921 the effete bourgeois class accused our movement again and again of taking up a negative attitude towards the modern State. 
+
+For that reason the motley gang of camp followers attached to the various political parties, representing a heterogeneous conglomeration of political views, assumed the right of utilizing all available means to suppress the protagonists of this
+young movement which was preaching a new political gospel. 
+
+Our opponents deliberately ignored the fact that the bourgeois class itself stood for no uniform opinion
 as to what the State really meant and that the bourgeoisie did not and could not give
 any coherent definition of this institution.
 

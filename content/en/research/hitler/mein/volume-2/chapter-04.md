@@ -2,28 +2,21 @@
 title: Personality And The Ideal Of The People's State
 heading: Chapter 4
 weight: 38
-description: ""
+description: "The principle, that one people is not the same as another, applies also to the individual members of a national community"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-IF THE principal duty of the National Socialist People's State be to educate and promote
-the existence of those who are the material out of which the State is formed, it will not
-be sufficient to promote those racial elements as such, educate them and finally train
-them for practical life, but the State must also adapt its own organization to meet the
+IF THE principal duty of the National Socialist People's State be to educate and promote the existence of those who are the material out of which the State is formed, it will not be sufficient to promote those racial elements as such, educate them and finally train them for practical life, but the State must also adapt its own organization to meet the
 demands of this task.
 
-It would be absurd to appraise a man's worth by the race to which he belongs and at the
-same time to make war against the Marxist principle, that all men are equal, without
-being determined to pursue our own principle to its ultimate consequences. If we admit
-the significance of blood, that is to say, if we recognize the race as the fundamental
-element on which all life is based, we shall have to apply to the individual the logical
-consequences of this principle. In general I must estimate the worth of nations
-differently, on the basis of the different races from which they spring, and I must also
-differentiate in estimating the worth of the individual within his own race. The
-principle, that one people is not the same as another, applies also to the individual
-members of a national community. No one brain, for instance, is equal to another;
-because the constituent elements belonging to the same blood vary in a thousand subtle
+It would be absurd to appraise a man's worth by the race to which he belongs and at the same time to make war against the Marxist principle, that all men are equal, without being determined to pursue our own principle to its ultimate consequences. 
+
+If we admit the significance of blood, that is to say, if we recognize the race as the fundamental element on which all life is based, we shall have to apply to the individual the logical consequences of this principle. In general I must estimate the worth of nations differently, on the basis of the different races from which they spring, and I must also
+differentiate in estimating the worth of the individual within his own race. 
+
+The principle, that one people is not the same as another, applies also to the individual members of a national community. No one brain, for instance, is equal to another; because the constituent elements belonging to the same blood vary in a thousand subtle
 details, though they are fundamentally of the same quality.
 The first consequence of this fact is comparatively simple. It demands that those
 elements within the folk-community which show the best racial qualities ought to be

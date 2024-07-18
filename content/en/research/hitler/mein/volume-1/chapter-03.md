@@ -2,7 +2,8 @@
 title: Political Reflections Arising Out Of My Sojourn In Vienna
 heading: Chapter 3
 weight: 8
-description: ""
+description: "GENERALLY, a man should not publicly take part in politics before 30 years old"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

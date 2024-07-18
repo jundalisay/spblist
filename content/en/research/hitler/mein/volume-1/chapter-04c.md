@@ -3,6 +3,7 @@ title: Population Problem
 heading: Chapter 4b
 weight: 30
 description: "Apart from my professional work, I was most interested in the study of current political events, particularly those on foreign relations"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

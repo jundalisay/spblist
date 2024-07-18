@@ -2,14 +2,17 @@
 title: War Propaganda
 heading: Chapter 6
 weight: 44
-description: ""
+description: "IN WATCHING the course of political events I was always struck by the active part which propaganda played in them"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-IN WATCHING the course of political events I was always struck by the active part which propaganda played in them. I saw that it was an instrument, which the Marxist Socialists knew how to handle in a masterly way and how to put it to practical uses.
+I was always struck by the propaganda played in political events. It was an instrument which the Marxist Socialists knew how to handle in a masterly way and how to put it to practical uses.
 
-Thus I soon came to realize that the right use of propaganda was an art in itself and that this art was practically unknown to our bourgeois parties. The Christian-Socialist Party alone, especially in Lueger's time, showed a certain efficiency in the employment of this instrument and owed much of their success to it.
+I realized that the right use of propaganda was an art in itself. This art was practically unknown to our bourgeois parties. 
+
+The Christian-Socialist Party alone, especially in Lueger's time, showed a certain efficiency in the use of propaganda and owed much of their success to it.
 
 It was during the War, however, that we had the best chance of estimating the tremendous results which could be obtained by a propagandist system properly carried out. Here again, unfortunately, everything was left to the other side, the work done on our side being worse than insignificant. It was the total failure of the whole German system of information--a failure which was perfectly obvious to every soldier--that urged me to consider the problem of propaganda in a comprehensive way.
 

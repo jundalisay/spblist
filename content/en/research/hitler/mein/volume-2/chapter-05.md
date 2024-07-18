@@ -2,27 +2,19 @@
 title: Weltanschauung And Organization
 heading: Chapter 5
 weight: 38
-description: ""
+description: "THE PEOPLE'S State will not become a reality in virtue of the simple fact that we know the indispensable conditions of its existence"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-THE PEOPLE'S State, which I have tried to sketch in general outline, will not become a
-reality in virtue of the simple fact that we know the indispensable conditions of its
-existence. It does not suffice to know what aspect such a State would present. The
-problem of its foundation is far more important. The parties which exist at present and
-which draw their profits from the State as it now is cannot be expected to bring about a
-radical change in the regime or to change their attitude on their own initiative. This is
-rendered all the more impossible because the forces which now have the direction of
-affairs in their hands are Jews here and Jews there and Jews everywhere. The trend of
-development which we are now experiencing would, if allowed to go on unhampered,
-lead to the realization of the Pan-Jewish prophecy that the Jews will one day devour the
-other nations and become lords of the earth.
+THE PEOPLE'S State will not become a reality in virtue of the simple fact that we know the indispensable conditions of its existence. It does not suffice to know what aspect such a State would present. 
 
-In contrast to the millions of 'bourgeois' and 'proletarian' Germans, who are stumbling
-to their ruin, mostly through timidity, indolence and stupidity, the Jew pursues his way
-persistently and keeps his eye always fixed on his future goal. Any party that is led by
-him can fight for no other interests than his, and his interests certainly have nothing in
+The problem of its foundation is far more important. The parties which exist at present and which draw their profits from the State as it now is cannot be expected to bring about a radical change in the regime or to change their attitude on their own initiative. 
+
+This is rendered all the more impossible because the forces which now have the direction of affairs in their hands are Jews here and Jews there and Jews everywhere. The trend of development which we are now experiencing would, if allowed to go on unhampered, lead to the realization of the Pan-Jewish prophecy that the Jews will one day devour the other nations and become lords of the earth.
+
+In contrast to the millions of 'bourgeois' and 'proletarian' Germans, who are stumbling to their ruin, mostly through timidity, indolence and stupidity, the Jew pursues his way persistently and keeps his eye always fixed on his future goal. Any party that is led by him can fight for no other interests than his, and his interests certainly have nothing in
 common with those of the Aryan nations.
 
 If we would transform our ideal picture of the People's State into a reality we shall have

@@ -1,5 +1,5 @@
 ---
-heading: "Section 5d"
+heading: "Section 5e"
 title: "Matter is not a thing that exists"
 description: To the consciousness observing, the truth of the law is given in experience
 image: /covers/phenom.png
@@ -8,7 +8,7 @@ weight: 9
 ---
 
 
-{{< s v='2449' >}} To the consciousness observing, the truth of the law is given in “experience”, in the way that sense existence is object for consciousness. The truth is not given in and itself. 
+{{< s v=249 >}} To the consciousness observing, the truth of the law is given in “experience” i.e. sense existence is object for consciousness. The truth is not given in and itself. 
 
 If, however, the law does not have its truth for in the notion, it is something contingent, not a necessity, in fact, not a law. 
 

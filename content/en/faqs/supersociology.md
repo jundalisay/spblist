@@ -1,15 +1,14 @@
 ---
-title: "Social Superphysics FAQ"
-date: 2024-07-08
+title: "Supersociology FAQ"
+date: 2024-07-17
 image: /covers/faq.png
-description: "FAQ on Social Superphysics"
+description: "FAQ on Supersociology"
 icon: /icons/spmat.png
 ---
 
 
-
 {{< r a="Asker" >}}
-What is Social Superphysics?
+What is Supersociology?
 {{< /r >}}
 
 
@@ -19,6 +18,7 @@ It's the implementation of Superphysics for societies. It's based on:
 - Ibn Khaldun's group feelings
 - Adam Smith's Theory of Moral Feelings (Sentiments) which is derived from David Hume
 - Descartes' passions of the soul
+- Musashi's 5 Rings
 - The propensities of the soul according to yoga chakras
 {{< /l >}}
 

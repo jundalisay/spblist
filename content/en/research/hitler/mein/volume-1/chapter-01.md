@@ -2,7 +2,8 @@
 title: In The Home Of My Parents
 heading: Chapter 1
 weight: 4
-description: ""
+description: "I was fortunate to be born in the little town Braunau-on-the-Inn"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

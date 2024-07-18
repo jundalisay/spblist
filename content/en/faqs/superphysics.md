@@ -49,6 +49,8 @@ Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the
 {{< /q >}}
 
 
+## 6-sense Upgrade
+
 {{< l a="Superphysics" >}}
 **Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting that adds the 6th sense of intuition or higher mind which Socrates called the 'higher principle'. 
 
@@ -68,14 +70,14 @@ How is Socratic Dialectics different from Dialectics?
 <!-- hijacked dialectics and made his own version based an his own matter-based metaphysics (as 'substance'). The Germans, like Kant, Engels, Marx, and Einstein followed Aristotle.  -->
 
 
-{{< l a="Superphysics" >}}
+<!--  l a="Superphysics" >}}
 Socratic Dialectics uses timeless metaphysical truths as the quality control for logic. Its rival is Aristotlean and Marxist dialectics which uses either the ego or matter (materialism). These have led to:
 - Economic Materialism which has caused financial crises and poverty
 - Dialectical Materialism which has led to Marxism and Communism 
 - Scientism which has limited Physics to the 3 Elements (Strong Force, Weak Force, Electromagnetism) and has kept the 2 higher Elements (Spacetime and Aether) out of reach, undiscovered. As a result, humans are unable to spread themselves to Mars or even to the Moon.
 
 The enlightened philosophers like Bacon, Hume, and Ibn-Khaldun denounced Aristotle. So we are fully in the Pythagoras-Plato-Descartes-Spinoza-Hume-Hinduism-Buddhism-Taoism camp. Socratic Dialectics also throws away Ontology and Epistemology, replacing them with logic and feelings.  
-{{< /l >}}
+ /l >}} -->
 
 
 {{< r a="Asker" >}}
@@ -99,7 +101,7 @@ How do you weed out junk ideas like faeries, ghosts, and evil spirits?
 {{< l a="Superphysics" >}}
 By seeing if we can detect them through 6-senses and then analyze them through Socratic Dialectics. If you want to detect bacteria, you get a microscope. To get the microscope, you have to shell out money which you earn from the effort in your job, or by doing the effort to make a microscope yourself. 
 
-Likewise, gaining the skill to detect the invisible metaphysical domain requires continuous training and effort, since your mind is the detector itself, as explained by Rene Descartes' concept of "[animal spirits](/research/descartes/passions/article-010/)". We then compare the person's description of faeries, ghosts, etc. to a data set of known properties from various cultures, such as India which has a lot of data on Elementals, to see whether they match and therefore are predictable, or whether it is just the mind playing tricks.
+Likewise, gaining the skill to detect the invisible metaphysical domain requires continuous training and effort, since your mind is the detector itself, as explained by Rene Descartes' concept of "[animal spirits](/research/descartes/passions/article-010/)". We then compare the person's description of faeries, ghosts, etc. to a data set of known properties from various cultures, such as India, China, and other cultures which have a lot of data on Elementals, to see whether they match and therefore are predictable, or whether it is just the mind playing tricks.
 {{< /l >}}
 
 
@@ -112,15 +114,15 @@ Thus, in this way chimeras and hippogriffs are created in the imagination of peo
 
 Perhaps they are real in another universe which has different Physics from ours, but only their aether-components cross over into the aethereal (abstract) minds of some people as aethereal ideas. Their brains then interpret those ideas as faeries and pixie dust. -->
 
-{{< r a="Asker" >}}
+<!-- r a="Asker" >}}
 Those [Elementals](/bio/principles/part-01/chapter-01/) are the 'gods' worshipped by the polytheist Hindus, right?  
-{{< /r >}}
+/r >}}
 
-{{< l a="Superphysics" >}}
+l a="Superphysics" >}}
 No. Those Elementals are "Nature Spirits" which humans tap for some utility just as we tap plants for food and our pet dogs to guard the house or keep us company. We sometimes adore our pets, but never worship them. 
 
 In Asian countries, these are the spirits that you make offerings to, in order to get something back. In Christian countries, these manifest as the saints that you pray to, in order to get some real-world blessing or benefit. It is this real-world benefit that makes them fall within the scope of Superphysics. Without any real effects, we wouldn't waste time on it. But since there are real effects facilitated by exchange, then we can systematically "domesticate" them to create an "Elemental industry", similar to how early humans domesticated plants and animals to create agriculture and animal husbandry.  
-{{< /l >}}
+/l >}} -->
 
 <!--  If all five continents have oral tradition of faeries and pixie dust that survive up to modern times as to be testable, then there's some reality to it. But we find that there are none, so we cross it out as untrue.
 
@@ -142,6 +144,9 @@ So what have you found?
 {{< /r >}}
 
  <!-- etc. and that  It. Parmenides calls It The One, and the Chinese call It The Tao. This is similar to the idea that Descartes and Hegel had, despite them using non-Asian techniques. -->
+
+
+## The Matrix
 
 {{< l a="Superphysics" >}}
 We found that we are actually **inside** the Supreme Being that they call God, Allah, Jehovah, Yahweh, Brahma, or whatever, and that everything inside it is generated **in real-time** through the wave function collapse in Quantum Mechanics. 
@@ -331,12 +336,21 @@ Spiritual people, on the other hand, give donations and service, often unsustain
 What's the gameplan of Superphysics?
 {{< /r >}}
 
-{{< l a="Superphysics" >}}
-We need to prove that our principles are solid by demonstrating it in the real world. 
+
+<!-- We need to prove that our principles are solid by demonstrating it in the real world. 
 
 We've already proven Social Superphysics through our correct predictions both in [politics](/social/cycles/predictions) and [economics](/social/supersociology/precrisis-years). We are already testing our points-based economic system to solve the current stagflation, something that Economics has no solution for. So no worries with those. 
 
-But we still need to prove that Bio Superphysics and Material Superphysics also work by using the aether to  increase crop yield (as 'Maximized Farming'), cure diseases, realize fusion, levitation, and teleportation (actions at a distance) by tapping Descartes' spacetime particles which he calls air-aether but we call Qosts (Quantum of Space-Time).
+But we still need to prove that Bio Superphysics and Material Superphysics also work by using the aether to  increase crop yield (as 'Maximized Farming'), cure diseases, realize fusion, levitation, and teleportation (actions at a distance) by tapping Descartes' spacetime particles which he calls air-aether but we call Qosts (Quantum of Space-Time). -->
+
+
+
+{{< l a="Superphysics" >}}
+New philosophies and systems arise in response to problems. To make things simpler, we position Superphysics to solve recurring problems:
+- [Material Superphysics](/faqs/material) tackles global warming
+- [Social Superphysics](/faqs/social) tackles war (via [Supersociology](/faqs/supersociology)) and shrinkflation (via [Supereconomics](/faqs/supereconomics))
+- [Bio Superphysics](/faqs/bio) tackles health problems
+- Spiritual Superphysics tackles the problem of people not having a direction in life
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -354,7 +368,7 @@ Imagine talking to cavemen about the possibility of creating agriculture, radio,
 {{< /l >}}
 
 {{< l a="Material-Superphysics" >}}
-Yeah. Those materialists even refuse to declare that General Relativity is wrong even if the James Webb Space Telescope and DESI are screaming it to their faces. They always say General Relativity has passed tests, without realizing that all those tests are electromagnetic in nature, and not of spacetime (except for the Weak Equivalence Principle which is matter-based and Galilean anyway). Jeez. Talk about low standards. No wonder humans are still stuck on Earth. 
+Yeah. Those materialists even refuse to declare that General Relativity is wrong even if the James Webb Space Telescope and DESI are screaming it to their faces. They always say General Relativity has passed tests, **without realizing that all those tests are electromagnetic in nature**, and not of spacetime (except for the Weak Equivalence Principle which is matter-based and Galilean anyway). Jeez. Talk about low standards. No wonder humans are still stuck on Earth. 
 {{< /l >}}
 
 <!-- But classifying everything is costly. Machine learning helps a lot, so the AI boom is a Godsend (Rather, by pursuing our dharma for Superphysics, reality bent or shifted towards one that has the tools to do what we do). 

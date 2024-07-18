@@ -3,6 +3,7 @@ title: The Beginning Of My Political Activities
 heading: Chapter 8
 weight: 56
 description: "The whole administration was quite repulsive to me. With my faithful war-comrade, Ernst-Schmidt"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

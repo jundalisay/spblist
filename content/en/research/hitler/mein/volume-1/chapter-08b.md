@@ -3,6 +3,7 @@ title: The Beginning Of My Political Activities
 heading: Chapter 8
 weight: 58
 description: "The work of politicians is without significance for the following generation"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

@@ -2,7 +2,8 @@
 title: Population Problem
 heading: Chapter 4b
 weight: 28
-description: "Apart from my professional work, I was most interested in the study of current political events, particularly those on foreign relations"
+description: "The annual increase of population in Germany amounts to almost 900,000 souls"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

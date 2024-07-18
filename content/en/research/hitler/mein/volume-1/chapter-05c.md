@@ -2,12 +2,15 @@
 title: Marxism in 1914
 heading: Chapter 5c
 weight: 42
-description: "Marxism"
+description: "Marxism's final objective is the destruction of all non-Jewish national States"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-Marxism's final objective is the destruction of all non-Jewish national States. It witnessed in July 1914 how the German working classes, which it had been inveigling, were aroused by the national spirit and rapidly ranged themselves on the side of the Fatherland. 
+Marxism's final objective is the destruction of all non-Jewish national States. 
+
+It witnessed in July 1914 how the German working classes, which it had been inveigling, were aroused by the national spirit and rapidly ranged themselves on the side of the Fatherland. 
 
 Within a few days, the deceptive smoke-screen of that infamous national betrayal had vanished into thin air and the Jewish bosses suddenly found themselves alone and deserted. It was as if not a vestige had been left of that folly and madness with which the masses of the German people had been inoculated for sixty years. That was indeed an evil day for the
 betrayers of German Labour. 

@@ -2,13 +2,13 @@
 title: The Revolution
 heading: Chapter 7
 weight: 50
-description: ""
+description: "Towards the end of 1917 it seemed as if we had got over the worst phases of moral depression at the front"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-Towards the end of 1917 it seemed as if we had got over the worst phases of moral
-depression at the front. 
+Towards the end of 1917 it seemed as if we had got over the worst phases of moral depression at the front. 
 
 After the Russian collapse, the whole army recovered its courage and hope. 
 

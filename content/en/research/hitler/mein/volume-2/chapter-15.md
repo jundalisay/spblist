@@ -1,15 +1,15 @@
 ---
 title: The Right To Self-Defence
 heading: Chapter 15
-weight: 38
-description: ""
+weight: 400
+description: "AFTER WE had laid down our arms, in November 1918, a policy was adopted which led gradually to our complete subjugation"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
 
 AFTER WE had laid down our arms, in November 1918, a policy was adopted which led gradually to our complete subjugation.
-
 
 Analogous examples from history show that those nations which lay down their arms without being absolutely forced to do so subsequently prefer to submit to the greatest humiliations and exactions rather than try to change their fate by resorting to arms again.
 

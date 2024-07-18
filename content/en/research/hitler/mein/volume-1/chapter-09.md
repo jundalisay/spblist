@@ -3,6 +3,7 @@ title: The German Labour Party
 heading: Chapter 9
 weight: 60
 description: "ONE DAY I received an order from my superiors to investigate the nature of an association which was apparently political"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

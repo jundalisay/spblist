@@ -2,7 +2,8 @@
 title: "Introduction"
 # date: 2022-07-14
 weight: 2
-description: "Mein Kampf by Adolf Hitler"
+description: "ON APRIL 1, 1924, I began to serve my sentence of detention in the Fortress of Landsberg am Lech"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

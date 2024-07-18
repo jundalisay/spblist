@@ -11,7 +11,7 @@ weight: 10
 
 ### Purpose [Dharma]
 
-{{< s v='256' >}} If such a relation of organic existence to the elemental conditions of nature does not express its true being, the notion of Purpose, on the other hand, does contain it. 
+{{< s v=256 >}} If such a relation of organic existence to nature's elemental conditions does not express its true being, the notion of Purpose, on the other hand, does contain it. 
 
 The observing attitude does not take the to be the genuine essence of organic existence.
 

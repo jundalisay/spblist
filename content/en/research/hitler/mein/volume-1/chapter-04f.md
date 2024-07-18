@@ -3,6 +3,7 @@ title: The State as an Economic Institution
 heading: Chapter 4f
 weight: 36
 description: "Apart from my professional work, I was most interested in the study of current political events, particularly those on foreign relations"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

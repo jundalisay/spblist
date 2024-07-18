@@ -2,7 +2,8 @@
 title: Democracy is Against the Law of Nature
 heading: Chapter 3c
 weight: 14
-description: ""
+description: "The parliamentary principle of vesting legislative power in the decision of the majority rejects the authority of the individual"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

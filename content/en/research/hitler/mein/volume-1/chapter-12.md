@@ -2,7 +2,9 @@
 title: The First Stage In The Development Of Nazi Party
 heading: Chapter 12
 weight: 74
-description: ""
+description: "All great reforms in the beginning only has one protagonist to come forward on behalf of several millions of
+people"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

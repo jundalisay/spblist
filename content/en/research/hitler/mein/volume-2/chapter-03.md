@@ -2,7 +2,8 @@
 title: Citizens And Subjects Of The State
 heading: Chapter 3
 weight: 38
-description: ""
+description: "THE INSTITUTION that is now erroneously called the State generally classifies people only into two groups: citizens and aliens"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 

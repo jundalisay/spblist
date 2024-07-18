@@ -2,26 +2,21 @@
 title: The First Period Of Our Struggle
 heading: Chapter 6
 weight: 38
-description: ""
+description: "Our first great meeting, in the banquet hall of the Hofbräuhaus on February 24th, 1920"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-THE ECHOES of our first great meeting, in the banquet hall of the Hofbräuhaus on
-February 24th, 1920, had not yet died away when we began preparations for our next
-meeting. 
+THE ECHOES of our first great meeting, in the banquet hall of the Hofbräuhaus on February 24th, 1920, had not yet died away when we began preparations for our next meeting. 
 
-Up to that time we had to consider carefully the venture of holding a small
-meeting every month or at most every fortnight in a city like Munich; but now it was
-decided that we should hold a mass meeting every week. I need not say that we
-anxiously asked ourselves on each occasion again and again: Will the people come and
-will they listen? Personally I was firmly convinced that if once they came they would
-remain and listen.
+Up to that time we had to consider carefully the venture of holding a small meeting every month or at most every fortnight in a city like Munich; but now it was decided that we should hold a mass meeting every week. 
 
-During that period the hall of the Hofbrau Haus in Munich acquired for us, National
-Socialists, a sort of mystic significance. Every week there was a meeting, almost always
-in that hall, and each time the hall was better filled than on the former occasion, and our
-public more attentive.
+I need not say that we anxiously asked ourselves on each occasion again and again: Will the people come and will they listen? 
+
+Personally I was firmly convinced that if once they came they would remain and listen.
+
+During that period the hall of the Hofbrau Haus in Munich acquired for us, National Socialists, a sort of mystic significance. Every week there was a meeting, almost always in that hall, and each time the hall was better filled than on the former occasion, and our public more attentive.
 
 Starting with the theme, 'Responsibility for the War,' which nobody at that time cared
 about, and passing on to the discussion of the peace treaties, we dealt with almost

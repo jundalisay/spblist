@@ -2,15 +2,13 @@
 title: The Conflict With The Red Forces
 heading: Chapter 7
 weight: 38
-description: ""
+description: "The suspicion was whispered in German Nationalist circles that we also were merely another variety of Marxism"
+author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-IN 1919-20 AND also in 1921 I attended some of the bourgeois meetings. Invariably I
-had the same feeling towards these as towards the compulsory dose of castor oil in my
-boyhood days. It just had to be taken because it was good for one: but it certainly tasted
-unpleasant. If it were possible to tie ropes round the German people and forcibly drag
+IN 1919-20 AND also in 1921 I attended some of the bourgeois meetings. Invariably I had the same feeling towards these as towards the compulsory dose of castor oil in my boyhood days. It just had to be taken because it was good for one: but it certainly tasted unpleasant. If it were possible to tie ropes round the German people and forcibly drag
 them to these bourgeois meetings, keeping them there behind barred doors and
 allowing nobody to escape until the meeting closed, then this procedure might prove
 successful in the course of a few hundred years. For my own part, I must frankly admit
