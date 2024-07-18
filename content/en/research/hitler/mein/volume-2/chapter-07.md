@@ -381,8 +381,7 @@ anything like a bourgeois party flag in evidence. Here a section of the national
 bourgeoisie selected the 1848 colours (black, red and gold) as their party flag and
 therewith created a symbol which, though of no importance from a weltanschauliche
 viewpoint, had, nevertheless, a revolutionary character from a national point of view.
-The most bitter opponents of this flag at that time, and this should not be forgotten today, were the Social Democrats and the Christian Socialists or clericals. They, in
-particular, were the ones who degraded and besmirched these colours in the same way
+The most bitter opponents of this flag at that time, and this should not be forgotten today, were the Social Democrats and the Christian Socialists or clericals. They, in particular, were the ones who degraded and besmirched these colours in the same way
 as in 1918 they dragged black, white and red into the gutter. Of course, the black, red
 and gold of the German parties in the old Austria were the colours of the year 1848: that
 is to say, of a period likely to be regarded as somewhat visionary, but it was a period
@@ -393,34 +392,37 @@ the Marxists of the Centre Party; so much so that to-day they revere them as the
 cherished possession and use them as their own banners for the protection of the flag
 they once foully besmirched.
 
-It is a fact, therefore, that, up till 1920, in opposition to the Marxists there was no flag
-that would have stood for a consolidated resistance to them. For even if the better
-political elements of the German bourgeoisie were loath to accept the suddenly
-discovered black, red and gold colours as their symbol after the year 1918, they
+Up till 1920, in opposition to the Marxists, we had no flag that resisted them. 
+
+The better political elements of the German bourgeoisie hated to accept the suddenly discovered black, red and gold colours as their symbol after 1918.
+
+<!-- , they
 nevertheless were incapable of counteracting this with a future programme of their own
-that would correspond to the new trend of affairs. At the most, they had a
-reconstruction of the old REICH in mind.
+that would correspond to the new trend of affairs.  -->
+
+At the most, they had a reconstruction of the old REICH in mind.
 
 And it is to this way of thinking that the black, white and red colours of the old REICH
 are indebted for their resurrection as the flag of our so-called national bourgeois parties. 
-It was obvious that the symbol of a régime which had been overthrown by the Marxists
-under inglorious circumstances was not now worthy to serve as a banner under which
-the same Marxism was to be crushed in its turn. However much any decent German
-may love and revere those old colours, glorious when placed side by side in their
+
+The symbol of a régime overthrown by the Marxists under inglorious circumstances was not now worthy to serve as a banner under which the same Marxism was to be crushed in its turn. 
+
+However much any decent German may love and revere those old colours, glorious when placed side by side in their
 youthful freshness, when he had fought under them and seen the sacrifice of so many
 lives, that flag had little value for the struggle of the future.
-In our Movement I have always adopted the standpoint that it was a really lucky thing
-for the German nation that it had lost its old flag (Note 18). This standpoint of mine was
-in strong contrast to that of the bourgeois politicians. It may be immaterial to us what
-the Republic does under its flag. But let us be deeply grateful to fate for having so
-graciously spared the most glorious war flag for all time from becoming an ignominious
-rag. The REICH of to-day, which sells itself and its people, must never be allowed to
-adopt the honourable and heroic black, white and red colours.
+
+In our Movement I have always adopted the standpoint that it was a really lucky thing for the German nation that it had lost its old flag (Note 18). This standpoint of mine was in strong contrast to that of the bourgeois politicians. It may be immaterial to us what the Republic does under its flag. 
+
+But let us be deeply grateful to fate for having so graciously spared the most glorious war flag for all time from becoming an ignominious rag. 
+
+The REICH of today sells itself and its people. It must never be allowed to adopt the honourable and heroic black, white and red colours.
+
 As long as the November outrage endures, that outrage may continue to bear its own
 external sign and not steal that of an honourable past. Our bourgeois politicians should
 awaken their consciences to the fact that whoever desires this State to have the black,
 white and red colours is pilfering from the past. The old flag was suitable only for the
 old REICH and, thank Heaven, the Republic chose the colours best suited to itself.
+
 This was also the reason why we National Socialists recognized that hoisting the old
 colours would be no symbol of our special aims; for we had no wish to resurrect from
 the dead the old REICH which had been ruined through its own blunders, but to build
@@ -437,6 +439,7 @@ that it should prove effective as a large poster. All those who busy themselves 
 tastes of the public will recognize and appreciate the great importance of these
 apparently petty matters. In hundreds of thousands of cases a really striking emblem
 may be the first cause of awakening interest in a movement.
+
 For this reason we declined all suggestions from various quarters for identifying our
 movement by means of a white flag with the old State or rather with those decrepit
 parties whose sole political objective is the restoration of past conditions. And, apart
@@ -454,6 +457,7 @@ political attitude of particularist narrow-mindedness did not enjoy a good reput
 And, generally speaking, with these colours it would have been difficult to attract
 attention to our movement. The same applies to black and white.
 Black, red and gold did not enter the question at all.
+
 And this also applies to black, white and red for reasons already stated. At least, not in
 the form hitherto in use. But the effectiveness of these three colours is far superior to all
 the others and they are certainly the most strikingly harmonious combination to be
@@ -461,10 +465,11 @@ found.
 
 I myself was always for keeping the old colours, not only because I, as a soldier,
 regarded them as my most sacred possession, but because in their aesthetic effect, they
-conformed more than anything else to my personal taste. Accordingly I had to discard
-all the innumerable suggestions and designs which had been proposed for the new
-movement, among which were many that had incorporated the swastika into the old
-colours. I, as leader, was unwilling to make public my own design, as it was possible
+conformed more than anything else to my personal taste. 
+
+Accordingly, I had to discard all the innumerable suggestions and designs which had been proposed for the new movement, among which were many that had incorporated the swastika into the old colours. 
+
+I, as leader, was unwilling to make public my own design, as it was possible
 that someone else could come forward with a design just as good, if not better, than my
 own. As a matter of fact, a dental surgeon from Starnberg submitted a good design very
 similar to mine, with only one mistake, in that his swastika with curved corners was set
@@ -474,6 +479,7 @@ After innumerable trials I decided upon a final form--a flag of red material wit
 disc bearing in its centre a black swastika. After many trials I obtained the correct
 proportions between the dimensions of the flag and of the white central disc, as well as
 that of the swastika. And this is how it has remained ever since.
+
 At the same time we immediately ordered the corresponding armlets for our squad of
 men who kept order at meetings, armlets of red material, a central white disc with the
 black swastika upon it. Herr Füss, a Munich goldsmith, supplied the first practical and

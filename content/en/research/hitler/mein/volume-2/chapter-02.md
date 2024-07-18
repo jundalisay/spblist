@@ -1,7 +1,7 @@
 ---
 title: The State
 heading: Chapter 2
-weight: 38
+weight: 12
 description: "IN 1920-1921 the effete bourgeois class accused our movement again and again of taking up a negative attitude towards the modern State"
 author: Adolf Hitler
 image: /covers/mein.jpg
@@ -17,23 +17,20 @@ Our opponents deliberately ignored the fact that the bourgeois class itself stoo
 as to what the State really meant and that the bourgeoisie did not and could not give
 any coherent definition of this institution.
 
-Those whose duty it is to explain what is
-meant when we speak of the State, hold chairs in State universities, often in the
+Those whose duty it is to explain what is meant when we speak of the State, hold chairs in State universities, often in the
 department of constitutional law, and consider it their highest duty to find explanations
 and justifications for the more or less fortunate existence of that particular form of State
-which provides them with their daily bread. The more absurd such a form of State is the
-more obscure and artificial and incomprehensible are the definitions which are
-advanced to explain the purpose of its existence. What, for instance, could a royal and
-imperial university professor write about the meaning and purpose of a State in a
-country whose statal form represented the greatest monstrosity of the twentieth
-century? That would be a difficult undertaking indeed, in view of the fact that the
-contemporary professor of constitutional law is obliged not so much to serve the cause
-of truth but rather to serve a certain definite purpose. And this purpose is to defend at
-all costs the existence of that monstrous human mechanism which we now call the
-State. Nobody can be surprised if concrete facts are evaded as far as possible when the
-problem of the State is under discussion and if professors adopt the tactics of concealing
-themselves in morass of abstract values and duties and purposes which are described as
-'ethical' and 'moral'.
+which provides them with their daily bread. 
+
+The more absurd such a form of State is the more obscure and artificial and incomprehensible are the definitions which are
+advanced to explain the purpose of its existence. 
+
+What, for instance, could a royal and imperial university professor write about the meaning and purpose of a State in a
+country whose statal form represented the greatest monstrosity of the twentieth century? 
+
+That would be a difficult undertaking indeed, in view of the fact that the contemporary professor of constitutional law is obliged not so much to serve the cause of truth but rather to serve a certain definite purpose. And this purpose is to defend at all costs the existence of that monstrous human mechanism which we now call the State. 
+
+Nobody can be surprised if concrete facts are evaded as far as possible when the problem of the State is under discussion and if professors adopt the tactics of concealing themselves in morass of abstract values and duties and purposes which are described as 'ethical' and 'moral'.
 
 Generally speaking, these various theorists may be classed in 3 groups:
 
@@ -49,188 +46,103 @@ reason to consider it sacred and inviolable. To accept this aberration of the hu
 one would have to have a sort of canine adoration for what is called the authority of the
 State. 
 
-In the minds of these people the means is substituted for the end, by a sort of
-sleight-of-hand movement. The State no longer exists for the purpose of serving men
-but men exist for the purpose of adoring the authority of the State, which is vested in its
-functionaries, even down to the smallest official. So as to prevent this placid and ecstatic
-adoration from changing into something that might become in any way disturbing, the
-authority of the State is limited simply to the task of preserving order and tranquillity.
-Therewith it is no longer either a means or an end. The State must see that public peace
-and order are preserved and, in their turn, order and peace must make the existence of
-the State possible. All life must move between these two poles. In Bavaria this view is
-upheld by the artful politicians of the Bavarian Centre, which is called the 'Bavarian
-Populist Party'. In Austria the Black-and-Yellow legitimists adopt a similar attitude. In
-the REICH, unfortunately, the so-called conservative elements follow the same line of
-thought.
+In the minds of these people the means is substituted for the end, by a sort of sleight-of-hand movement. The State no longer exists for the purpose of serving men but men exist for the purpose of adoring the authority of the State, which is vested in its functionaries, even down to the smallest official. 
+
+So as to prevent this placid and ecstatic adoration from changing into something that might become in any way disturbing, the authority of the State is limited simply to the task of preserving order and tranquillity.
+
+Therewith it is no longer either a means or an end. The State must see that public peace and order are preserved and, in their turn, order and peace must make the existence of the State possible. All life must move between these two poles. In Bavaria this view is upheld by the artful politicians of the Bavarian Centre, which is called the 'Bavarian Populist Party'. 
+
+In Austria the Black-and-Yellow legitimists adopt a similar attitude. In the REICH, unfortunately, the so-called conservative elements follow the same line of thought.
+
 
 2. Those who would make the existence of the State dependent on some conditions at least. 
 
-The second group is somewhat smaller in numbers. They insist that
-not only should there be a uniform system of government but also, if possible, that only
-one language should be used, though solely for technical reasons of administration. In
-this view the authority of the State is no longer the sole and exclusive end for which the
-State exists. It must also promote the good of its subjects. Ideas of 'freedom', mostly
-based on a misunderstanding of the meaning of that word, enter into the concept of the
-State as it exists in the minds of this group. The form of government is no longer
-considered inviolable simply because it exists. It must submit to the test of practical
-efficiency. Its venerable age no longer protects it from being criticized in the light of
-modern exigencies. Moreover, in this view the first duty laid upon the State is to
-guarantee the economic well-being of the individual citizens. Hence it is judged from
-the practical standpoint and according to general principles based on the idea of
-economic returns. The chief representatives of this theory of the State are to be found
-among the average German bourgeoisie, especially our liberal democrats.
+The second group is somewhat smaller in numbers. They insist that not only should there be a uniform system of government but also, if possible, that only one language should be used, though solely for technical reasons of administration. 
+
+In this view the authority of the State is no longer the sole and exclusive end for which the State exists. It must also promote the good of its subjects. 
+
+Ideas of 'freedom', mostly based on a misunderstanding of the meaning of that word, enter into the concept of the State as it exists in the minds of this group. The form of government is no longer considered inviolable simply because it exists. It must submit to the test of practical efficiency. 
+
+Its venerable age no longer protects it from being criticized in the light of modern exigencies. Moreover, in this view the first duty laid upon the State is to guarantee the economic well-being of the individual citizens. Hence it is judged from the practical standpoint and according to general principles based on the idea of economic returns.
+
+The chief representatives of this theory of the State are to be found among the average German bourgeoisie, especially our liberal democrats.
+
 
 3. In the State they discover a means for the realization of tendencies that arise from a policy of power, on the part of a people who are ethnically homogeneous and speak the same language. 
 
 The third group is numerically the smallest. 
 
 But those who hold this view are not clear about what they mean by 'tendencies arising from a policy of power'.
-A common language is postulated not only because they hope that thereby the State
-would be furnished with a solid basis for the extension of its power outside its own
-frontiers, but also because they think--though falling into a fundamental error by doing
-so--that such a common language would enable them to carry out a process of
-nationalization in a definite direction. 
 
-During the last century it was lamentable for those who had to witness it, to notice how
-in these circles I have just mentioned the word 'Germanization' was frivolously played
-with, though the practice was often well intended. I well remember how in the days of
-my youth this very term used to give rise to notions which were false to an incredible
-degree. Even in Pan-German circles one heard the opinion expressed that the Austrian
-Germans might very well succeed in Germanizing the Austrian Slavs, if only the
-Government would be ready to co-operate. 
+A common language is postulated not only because they hope that thereby the State would be furnished with a solid basis for the extension of its power outside its own frontiers, but also because they think--though falling into a fundamental error by doing so--that such a common language would enable them to carry out a process of nationalization in a definite direction. 
 
-Those people did not understand that a policy of Germanization can be carried out only as regards human beings. What they
-mostly meant by Germanization was a process of forcing other people to speak the
-German language. But it is almost inconceivable how such a mistake could be made as
-to think that a Nigger or a Chinaman will become a German because he has learned the
-German language and is willing to speak German for the future, and even to cast his
-vote for a German political party. Our bourgeois nationalists could never clearly see
-that such a process of Germanization is in reality de-Germanization; for even if all the
-outstanding and visible differences between the various peoples could be bridged over
-and finally wiped out by the use of a common language, that would produce a process
-of bastardization which in this case would not signify Germanization but the
-annihilation of the German element. In the course of history it has happened only too
-often that a conquering race succeeded by external force in compelling the people
-whom they subjected to speak the tongue of the conqueror and that after a thousand
-years their language was spoken by another people and that thus the conqueror finally
-turned out to be the conquered.
+During the last century it was lamentable for those who had to witness it, to notice how in these circles I have just mentioned the word 'Germanization' was frivolously played with, though the practice was often well intended. I well remember how in the days of my youth this very term used to give rise to notions which were false to an incredible degree. 
 
-What makes a people or, to be more correct, a race, is not language but blood. Therefore
-it would be justifiable to speak of Germanization only if that process could change the
-blood of the people who would be subjected to it, which is obviously impossible. A
-change would be possible only by a mixture of blood, but in this case the quality of the
-superior race would be debased. The final result of such a mixture would be that
-precisely those qualities would be destroyed which had enabled the conquering race to
-achieve victory over an inferior people. It is especially the cultural creativeness which
-disappears when a superior race intermixes with an inferior one, even though the
-resultant mongrel race should excel a thousandfold in speaking the language of the race
-that once had been superior. For a certain time there will be a conflict between the
-different mentalities, and it may be that a nation which is in a state of progressive
-degeneration will at the last moment rally its cultural creative power and once again
-produce striking examples of that power. But these results are due only to the activity of
-elements that have remained over from the superior race or hybrids of the first crossing
-in whom the superior blood has remained dominant and seeks to assert itself. But this
-will never happen with the final descendants of such hybrids. These are always in a
-state of cultural retrogression.
+Even in Pan-German circles one heard the opinion expressed that the Austrian Germans might very well succeed in Germanizing the Austrian Slavs, if only the Government would be ready to co-operate. 
 
-We must consider it as fortunate that a Germanization of Austria according to the plan
-of Joseph II did not succeed. Probably the result would have been that the Austrian 
-State would have been able to survive, but at the same time participation in the use of a
-common language would have debased the racial quality of the German element. In the
-course of centuries a certain herd instinct might have been developed but the herd itself
-would have deteriorated in quality. A national State might have arisen, but a people
-who had been culturally creative would have disappeared.
-For the German nation it was better that this process of intermixture did not take place,
-although it was not renounced for any high-minded reasons but simply through the
-short-sighted pettiness of the Habsburgs. If it had taken place the German people could
-not now be looked upon as a cultural factor.
+Those people did not understand that a policy of Germanization can be carried out only as regards human beings. What they mostly meant by Germanization was a process of forcing other people to speak the German language. But it is almost inconceivable how such a mistake could be made as to think that a Nigger or a Chinaman will become a German because he has learned the German language and is willing to speak German for the future, and even to cast his vote for a German political party. 
 
-Not only in Austria, however, but also in the REICH, these so-called national circles
-were, and still are, under the influence of similar erroneous ideas. Unfortunately, a
-policy towards Poland, whereby the East was to be Germanized, was demanded by
-many and was based on the same false reasoning. Here again it was believed that the
-Polish people could be Germanized by being compelled to use the German language.
-The result would have been fatal. A people of foreign race would have had to use the
-German language to express modes of thought that were foreign to the German, thus
-compromising by its own inferiority the dignity and nobility of our nation.
-It is revolting to think how much damage is indirectly done to German prestige to-day
-through the fact that the German patois of the Jews when they enter the United States
-enables them to be classed as Germans, because many Americans are quite ignorant of
-German conditions. Among us, nobody would think of taking these unhygienic
-immigrants from the East for members of the German race and nation merely because
-they mostly speak German.
+Our bourgeois nationalists could never clearly see that such a process of Germanization is in reality de-Germanization; for even if all the outstanding and visible differences between the various peoples could be bridged over and finally wiped out by the use of a common language, that would produce a process of bastardization which in this case would not signify Germanization but the annihilation of the German element. 
 
-What has been beneficially Germanized in the course of history was the land which our
-ancestors conquered with the sword and colonized with German tillers of the soil. To
-the extent that they introduced foreign blood into our national body in this
-colonization, they have helped to disintegrate our racial character, a process which has
-resulted in our German hyper-individualism, though this latter characteristic is even
-now frequently praised.
+In the course of history it has happened only too often that a conquering race succeeded by external force in compelling the people whom they subjected to speak the tongue of the conqueror and that after a thousand years their language was spoken by another people and that thus the conqueror finally turned out to be the conquered.
 
-In this third group also there are people who, to a certain degree, consider the State as
-an end in itself. Hence they consider its preservation as one of the highest aims of
-human existence. Our analysis may be summed up as follows:
-All these opinions have this common feature and failing: that they are not grounded in
-a recognition of the profound truth that the capacity for creating cultural values is
-essentially based on the racial element and that, in accordance with this fact, the
-paramount purpose of the State is to preserve and improve the race; for this is an
-indispensable condition of all progress in human civilization. 
+What makes a people or, to be more correct, a race, is not language but blood. Therefore it would be justifiable to speak of Germanization only if that process could change the blood of the people who would be subjected to it, which is obviously impossible. 
 
-Thus the Jew, Karl Marx, was able to draw the final conclusions from these false
-concepts and ideas on the nature and purpose of the State. By eliminating from the
-concept of the State all thought of the obligation which the State bears towards the race,
-without finding any other formula that might be universally accepted, the bourgeois
-teaching prepared the way for that doctrine which rejects the State as such.
-That is why the bourgeois struggle against Marxist internationalism is absolutely
-doomed to fail in this field. The bourgeois classes have already sacrificed the basic
-principles which alone could furnish a solid footing for their ideas. Their crafty
-opponent has perceived the defects in their structure and advances to the assault on it
-with those weapons which they themselves have placed in his hands though not
-meaning to do so.
+A change would be possible only by a mixture of blood, but in this case the quality of the superior race would be debased. The final result of such a mixture would be that precisely those qualities would be destroyed which had enabled the conquering race to achieve victory over an inferior people.
 
-Therefore any new movement which is based on the racial concept of the world will
-first of all have to put forward a clear and logical doctrine of the nature and purpose of
-the State.
+It is especially the cultural creativeness which disappears when a superior race intermixes with an inferior one, even though the resultant mongrel race should excel a thousandfold in speaking the language of the race that once had been superior. 
 
-The fundamental principle is that the State is not an end in itself but the means to an
-end. It is the preliminary condition under which alone a higher form of human
-civilization can be developed, but it is not the source of such a development. This is to
-be sought exclusively in the actual existence of a race which is endowed with the gift of
-cultural creativeness. There may be hundreds of excellent States on this earth, and yet if
-the Aryan, who is the creator and custodian of civilization, should disappear, all culture
-that is on an adequate level with the spiritual needs of the superior nations to-day
-would also disappear. We may go still further and say that the fact that States have been
-created by human beings does not in the least exclude the possiblity that the human
-race may become extinct, because the superior intellectual faculties and powers of
-adaptation would be lost when the racial bearer of these faculties and powers
-disappeared.
+For a certain time there will be a conflict between the different mentalities, and it may be that a nation which is in a state of progressive degeneration will at the last moment rally its cultural creative power and once again produce striking examples of that power. 
 
-If, for instance, the surface of the globe should be shaken to-day by some seismic
-convulsion and if a new Himalaya would emerge from the waves of the sea, this one
-catastrophe alone might annihilate human civilization. No State could exist any longer.
-All order would be shattered. And all vestiges of cultural products which had been
-evolved through thousands of years would disappear. Nothing would be left but one
-tremendous field of death and destruction submerged in floods of water and mud. If,
-however, just a few people would survive this terrible havoc, and if these people
-belonged to a definite race that had the innate powers to build up a civilization, when
-the commotion had passed, the earth would again bear witness to the creative power of
-the human spirit, even though a span of a thousand years might intervene. Only with
-the extermination of the last race that possesses the gift of cultural creativeness, and
-indeed only if all the individuals of that race had disappeared, would the earth 
-definitely be turned into a desert. 
+But these results are due only to the activity of elements that have remained over from the superior race or hybrids of the first crossing in whom the superior blood has remained dominant and seeks to assert itself. But this will never happen with the final descendants of such hybrids. These are always in a state of cultural retrogression.
 
-On the other hand, modern history furnishes
-examples to show that statal institutions which owe their beginnings to members of a
-race which lacks creative genius are not made of stuff that will endure. Just as many
-varieties of prehistoric animals had to give way to others and leave no trace behind
-them, so man will also have to give way, if he loses that definite faculty which enables
-him to find the weapons that are necessary for him to maintain his own existence.
-It is not the State as such that brings about a certain definite advance in cultural
-progress. The State can only protect the race that is the cause of such progress. The State
-as such may well exist without undergoing any change for hundreds of years, though
-the cultural faculties and the general life of the people, which is shaped by these
-faculties, may have suffered profound changes by reason of the fact that the State did
-not prevent a process of racial mixture from taking place. The present State, for
+We must consider it as fortunate that a Germanization of Austria according to the plan of Joseph II did not succeed. Probably the result would have been that the Austrian State would have been able to survive, but at the same time participation in the use of a common language would have debased the racial quality of the German element. In the course of centuries a certain herd instinct might have been developed but the herd itself would have deteriorated in quality. 
+
+A national State might have arisen, but a people who had been culturally creative would have disappeared.
+
+For the German nation it was better that this process of intermixture did not take place, although it was not renounced for any high-minded reasons but simply through the short-sighted pettiness of the Habsburgs. If it had taken place the German people could not now be looked upon as a cultural factor.
+
+Not only in Austria, however, but also in the REICH, these so-called national circles were, and still are, under the influence of similar erroneous ideas. Unfortunately, a policy towards Poland, whereby the East was to be Germanized, was demanded by many and was based on the same false reasoning. 
+
+Here again it was believed that the Polish people could be Germanized by being compelled to use the German language. The result would have been fatal. 
+
+A people of foreign race would have had to use the German language to express modes of thought that were foreign to the German, thus compromising by its own inferiority the dignity and nobility of our nation.
+
+It is revolting to think how much damage is indirectly done to German prestige to-day through the fact that the German patois of the Jews when they enter the United States enables them to be classed as Germans, because many Americans are quite ignorant of German conditions. Among us, nobody would think of taking these unhygienic immigrants from the East for members of the German race and nation merely because they mostly speak German.
+
+What has been beneficially Germanized in the course of history was the land which our ancestors conquered with the sword and colonized with German tillers of the soil. To the extent that they introduced foreign blood into our national body in this colonization, they have helped to disintegrate our racial character, a process which has resulted in our German hyper-individualism, though this latter characteristic is even now frequently praised.
+
+In this third group also there are people who, to a certain degree, consider the State as an end in itself. Hence they consider its preservation as one of the highest aims of human existence. Our analysis may be summed up as follows:
+
+All these opinions have this common feature and failing: that they are not grounded in a recognition of the profound truth that the capacity for creating cultural values is essentially based on the racial element and that, in accordance with this fact, the paramount purpose of the State is to preserve and improve the race; for this is an indispensable condition of all progress in human civilization. 
+
+Thus the Jew, Karl Marx, was able to draw the final conclusions from these false concepts and ideas on the nature and purpose of the State. 
+
+By eliminating from the concept of the State all thought of the obligation which the State bears towards the race, without finding any other formula that might be universally accepted, the bourgeois teaching prepared the way for that doctrine which rejects the State as such. 
+
+That is why the bourgeois struggle against Marxist internationalism is absolutely doomed to fail in this field. The bourgeois classes have already sacrificed the basic principles which alone could furnish a solid footing for their ideas. 
+
+Their crafty opponent has perceived the defects in their structure and advances to the assault on it with those weapons which they themselves have placed in his hands though not meaning to do so.
+
+Therefore any new movement which is based on the racial concept of the world will first of all have to put forward a clear and logical doctrine of the nature and purpose of the State.
+
+The fundamental principle is that the State is not an end in itself but the means to an end. It is the preliminary condition under which alone a higher form of human civilization can be developed, but it is not the source of such a development. 
+
+This is to be sought exclusively in the actual existence of a race which is endowed with the gift of cultural creativeness. There may be hundreds of excellent States on this earth, and yet if the Aryan, who is the creator and custodian of civilization, should disappear, all culture that is on an adequate level with the spiritual needs of the superior nations to-day would also disappear.
+
+We may go still further and say that the fact that States have been created by human beings does not in the least exclude the possiblity that the human race may become extinct, because the superior intellectual faculties and powers of adaptation would be lost when the racial bearer of these faculties and powers disappeared.
+
+If, for instance, the surface of the globe should be shaken to-day by some seismic convulsion and if a new Himalaya would emerge from the waves of the sea, this one catastrophe alone might annihilate human civilization. No State could exist any longer. 
+
+All order would be shattered. And all vestiges of cultural products which had been evolved through thousands of years would disappear. Nothing would be left but one tremendous field of death and destruction submerged in floods of water and mud. 
+
+If, however, just a few people would survive this terrible havoc, and if these people belonged to a definite race that had the innate powers to build up a civilization, when the commotion had passed, the earth would again bear witness to the creative power of the human spirit, even though a span of a thousand years might intervene. Only with the extermination of the last race that possesses the gift of cultural creativeness, and indeed only if all the individuals of that race had disappeared, would the earth  definitely be turned into a desert. 
+
+On the other hand, modern history furnishes examples to show that statal institutions which owe their beginnings to members of a race which lacks creative genius are not made of stuff that will endure. 
+
+Just as many varieties of prehistoric animals had to give way to others and leave no trace behind them, so man will also have to give way, if he loses that definite faculty which enables him to find the weapons that are necessary for him to maintain his own existence. 
+
+It is not the State as such that brings about a certain definite advance in cultural progress. The State can only protect the race that is the cause of such progress. The State as such may well exist without undergoing any change for hundreds of years, though the cultural faculties and the general life of the people, which is shaped by these faculties, may have suffered profound changes by reason of the fact that the State did not prevent a process of racial mixture from taking place. The present State, for
 instance, may continue to exist in a mere mechanical form, but the poison of
 miscegenation permeating the national body brings about a cultural decadence which
 manifests itself already in various symptoms that are of a detrimental character.

@@ -8,9 +8,8 @@ writer:
   url: https://en.wikipedia.org/wiki/David_Hume
 ---
 
-{{< b >}}
-Superphysics Note: These are mirrored by Book 1 Chapter 5 and Book 3 of The Wealth of Nations by Adam Smith
-{{< /b >}} 
+{{< n n="These are mirrored by Book 1 Chapter 5 and Book 3 of The Wealth of Nations by Adam Smith" >}}
+
 
 Everything in the world is purchased by labour. The only cause of our labour are our passions. When a nation abounds in manufactures and mechanic arts, the proprietors of land and the farmers study agriculture as a science. They redouble their industry and attention. 
 

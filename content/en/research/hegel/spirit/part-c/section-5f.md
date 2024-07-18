@@ -11,19 +11,36 @@ weight: 10
 
 ### Purpose [Dharma]
 
-{{< s v=256 >}} If such a relation of organic existence to nature's elemental conditions does not express its true being, the notion of Purpose, on the other hand, does contain it. 
+{{< s v=256 >}} The relation of the organic to elemental nature does not express the essence of that relation.
 
-The observing attitude does not take the to be the genuine essence of organic existence.
+However, the concept of purpose does contain it. 
+
+The observing attitude does not take the notion of purpose to be the genuine essence of organic existence.
 
 This notion seems to it to fall outside the real nature of the organism, and is then merely that external teleological relation above mentioned. 
 
-Yet looking at how the organic being was previously characterized, the organic is in point of fact just realized concrete purpose. 
+Yet looking at how the organic being was previously characterized, the organic is really just realized concrete purpose. 
 
-For since itself maintains itself in relation to another, it is just that kind of natural existence in which nature reflects itself into the notion, and the moments of necessity separated out [by Understanding]-a cause and an effect, an active and a passive-are here brought together and combined into a single unity. 
+This is because it maintains itself in relation to another just as:
+- nature reflects itself into the notion
+- nature separates two moments such as cause and effect
 
-In this way we have here not only something appearing as a result of necessity, but, because it has returned to itself, the last or the result is just as much the first which starts the process, and is to itself the purpose which it realizes. 
+In those examples, active and passive are brought together and combined into a single unity.
+<!-- , it is just that kind of natural existence in which  -->
 
-What is organic does not produce something, it merely conserves itself, or what is produced is as much there already as produced.
+<!-- , and the moments of necessity separated out [by Understanding]-a cause and an effect, an active and a passive-are here .  -->
+
+In this way, necessity creates a result that returns to itself. 
+
+This returing-to-itself makes the result just as important as the first which starts the process. 
+
+And so, this first is the purpose which it realizes.*
+
+{{< n n="*We call this the Great Loop of Existence-Consciousness">}}
+
+The organic does not produce something. Instead, it merely conserves itself. In other words, what is produced matches what is already produced*.
+
+{{< n n="*We call this the Law of Conservation of Idea">}}
 
 
 {{< s v='257' >}} 
@@ -33,9 +50,11 @@ Reason has apprehended the concept of purpose in consciousness, which was given 
 
 Purpose is not merely an external relation of the actual, but its inner being.
 
-This actual, which is itself a purpose, is related purposively to an other, i.e. its relation is a contingent one with respect to what both are immediately; prima facie they are both self-subsistent and indifferent to one another. 
+This actual, which is itself a purpose, is related purposively to an other -- its relation is a contingent one with respect to what both are immediately.
 
-The real nature of their relation, however, is something different from what they thus appear to be. Its effect has another meaning than sense-perception directly finds. 
+Prima facie they are both self-subsistent and indifferent to one another. 
+
+The real nature of their relation, however, is something different from what they appear to be. Its effect has another meaning than sense-perception directly finds.
 
 The necessity inherent in the process is concealed. It comes out at the end, but in such a way that this very end shows it to have been also the first.
 

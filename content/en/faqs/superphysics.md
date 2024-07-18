@@ -63,11 +63,14 @@ He leaves this higher principle in pure abstraction when the lower and higher pr
 {{< /q >}}
 
 
-{{< r a="Asker" >}}
-How is Socratic Dialectics different from Dialectics?
-{{< /r >}}
 
-<!-- hijacked dialectics and made his own version based an his own matter-based metaphysics (as 'substance'). The Germans, like Kant, Engels, Marx, and Einstein followed Aristotle.  -->
+<!-- 
+r a="Asker" >}}
+How is Socratic Dialectics different from Dialectics?
+/r >}}
+
+
+  hijacked dialectics and made his own version based an his own matter-based metaphysics (as 'substance'). The Germans, like Kant, Engels, Marx, and Einstein followed Aristotle.  -->
 
 
 <!--  l a="Superphysics" >}}
@@ -194,68 +197,19 @@ Can you give an example? How would Superphysics solve a headache?
 {{< /r >}}
 
 
-## Bio Superphysics
-
-{{< l a="Bio-Superphysics" >}}
-By knowing the root cause of the headache. It could be diet, stress, congenital problem, bacteria, etc. 
-<!-- The person might be doing something that is too stressful for his brain.  -->
-
-Medical science deals with the headache by masking its pain (usually via Paracetamol) and not really dealing with the cause of the pain. This is to process patients faster since the body has its own natural healing mechanism. However, this also means that the headache can come back. 
-
-<!-- Moreover, the doctor can only work with the data that the patient gives.  -->
-
-Bio Superphysics gets all the data about the patient to find the pattern on which *layer* the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc. For chronic headache, you could try accupuncture.
+{{< l a="Superphysics" >}}
+We answer [here](/faqs/bio). 
 {{< /l >}}
 
-<!-- 
-, on the other hand, gets not only all the data from the person to find out what the cause, but also the patterns from all the data. This is more difficult and time-consuming, but is able to give more lasting solutions.
-Bio Superphysics gives the person to question himself and extract data from his habits and memory so he can find the root cause because
-
-This technique is the original Socratic Dialectics and is actually done by Chinese medicine and Homeopathy. the Socratic-dialectical method is an upgrade of the scientific method which has a limited dataset. --> 
-
-<!-- combines the patient's knowledge of himself with the knowledge of the doctor regarding headaches. This combined knowledge can then point to the proper headache solutions whether it be from -->
-
-{{< r a="Asker" >}}
-So you want everyone to switch to alternative medicine?
-{{< /r >}}
-
-{{< l a="Bio-Superphysics" >}}
-No. Each [medical paradigm](/bio/principles/part-04/chapter-03) is a tool dealing with the five layers. You choose the medical paradigm for the right layer of the disease just as you use a hammer for nails and a screwdriver for screws.  It would be very ineffective to use a hammer to drive screws. 
-
-But people often use alternative medicine for the wrong purpose and so it unfairly gets a bad reputation. 
-
-Western medicine works best in the material layer, but is awful at the mental layer. This is why the West has a lot of mental problems that lead to riots and mass shootings. 
-
-Yoga is great at the mental layer, but terrible at the material layer. This is why India is so materially poor.
-{{< /l >}}
-
-
-## Social Superphysics
 
 {{< r a="Muslim" >}}
 How would Superphysics solve the Israel-Hamas conflict?
 {{< /r >}}
 
-{{< l a="Social-Superphysics" >}}
-By writing a new law-book that unifies the Torah and the Quran. The root cause of the conflict is that:
-- The Jews program their minds according to the Torah
-- The Muslims program their minds according to the Quran, which denounces the Torah 
-
-The great big problem is that **mentality creates reality**. If you absolutely believe in an Apocalypse then Nature will gladly create one for you. The current [Apocalypse](https://news.un.org/en/story/2023/12/1144492) in Gaza is a real trouble which eats up the attention and resources of the world. This is similar to how the fight between malware and anti-virus on your computer eats up resources that slows down other programs. The world has to push for such a new law-book, as the core of a one-state solution, for its own sake. 
+{{< l a="Superphysics" >}}
+We answer [here](/faqs/supersociology). 
 {{< /l >}}
 
-
-{{< r a="Muslim" >}}
-How could that new law-book be created?
-{{< /r >}}
-
-
-{{< l a="Social-Superphysics" >}}
-Ideally, Palestinians, Jews, and Arabs should get together and write it.
-{{< /l >}}
-
-
-<!-- Until then, a shortcut could be to use machine learning like ChatGPT or Bard to combine the Torah and the Quran for the sake of world peace (since both are text-data). It would be a proof of concept of the great uses of AI -- using it to unite people instead of being [a danger to humanity](https://www.nytimes.com/2023/03/29/technology/ai-artificial-intelligence-musk-risks.html) -->
 
 ## Bigots
 
@@ -312,8 +266,17 @@ What's samadhi? Ask [Patanjali](/research/indian/yoga/part-1)!
 All we can say is "No Samadhi, No Honey" :thumbsdown: (i.e. Without samadhi, you won't get a solid understanding of how the universe is structured and generated in real-time). But here's a bonus: Patanjali actually gives hints how to upgrade yourself to 6-senses. 
 {{< /l >}}
 
+{{< r a="Boomer" >}}
+No seriously, what's samadhi?
+{{< /r >}}
+
+{{< l a="Superphysics" >}}
+We answer [here](/faqs/spiritual). 
+{{< /l >}}
+
+
 {{< r a="Asker" >}}
-That's like when Neo in *The Matrix* movie realizing that he was in a giant computer when his 6th sense saw the code running behind his reality. (I like that movie :innocent:)
+Samadhi is like when Neo in *The Matrix* movie realized that he was in a giant computer when his 6th sense saw the code running behind his reality. (I like that movie :innocent:)
 {{< /r >}}
 
 <!-- {{< l a="Superphysics" >}}
@@ -350,7 +313,7 @@ New philosophies and systems arise in response to problems. To make things simpl
 - [Material Superphysics](/faqs/material) tackles global warming
 - [Social Superphysics](/faqs/social) tackles war (via [Supersociology](/faqs/supersociology)) and shrinkflation (via [Supereconomics](/faqs/supereconomics))
 - [Bio Superphysics](/faqs/bio) tackles health problems
-- Spiritual Superphysics tackles the problem of people not having a direction in life
+- [Spiritual Superphysics](/faqs/spiritual) tackles the problem of people not having a direction in life
 {{< /l >}}
 
 {{< r a="Asker" >}}
