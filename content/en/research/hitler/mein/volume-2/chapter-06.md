@@ -1,7 +1,7 @@
 ---
 title: The First Period Of Our Struggle
 heading: Chapter 6
-weight: 38
+weight: 42
 description: "Our first great meeting, in the banquet hall of the Hofbräuhaus on February 24th, 1920"
 author: Adolf Hitler
 image: /covers/mein.jpg

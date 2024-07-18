@@ -1,7 +1,7 @@
 ---
 title: Weltanschauung And Party
 heading: Chapter 1
-weight: 38
+weight: 4
 description: "ON FEBRUARY 24, 1920, our new movement had its first great meeting in the Banquet Hall of the Hofbräuhaus in Munich"
 author: Adolf Hitler
 image: /covers/mein.jpg
@@ -175,5 +175,3 @@ The first preventive measure was to lay down a programme which of itself would t
 Those fatal defects which finally led to Germany's downfall afford the clearest proof of how right we were in considering it absolutely necessary to set up programmatic aims which were sharply and distinctly defined.
 
 Because we recognized the defects above mentioned, we realized that a new conception of the State had to be formed, which in itself became a part of our new conception of life in general.
-
-
