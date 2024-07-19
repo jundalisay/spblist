@@ -1,152 +1,179 @@
 ---
-title: Obligations 7- of the Movement
-heading: Chapter 12b
-weight: 78
-description: "This one-sided but clear and definite attitude must be manifested in the movement's propaganda which should be made effective"
+title: Obligations 1-5 of the Movement
+heading: Chapter 12c
+weight: 76
+description: "As early as 1919, we knew that our new movement should first aim for the nationalization of the masses"
 author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
+As early as 1919, we knew that our new movement should first aim for the nationalization of the masses. 
 
-7. This one-sided but clear and definite attitude must be manifested in the movement's propaganda which should be made effective
+This created obligations for us: 
 
-If propaganda is to be of service to the movement, it must be addressed to one side alone.
+<!-- From the tactical standpoint, this decision laid a certain number of obligations on our shoulders.  -->
 
-If it varies the direction of its appeal, it will not be understood in the one camp or may be rejected by the other.
+1. No social sacrifice could be considered too great to win over the masses for the national revival.
 
-It would be thought of as merely insisting on obvious and uninteresting truisms. This is because the intellectual training of the two camps that come into question here has been very different.
+Our employers are mean and shortsighted to see that economic improvement and consequently a rise in profits requires internal solidarity to be restored among the masses.
 
-Even the manner in which something is presented and the tone in which particular details are emphasized cannot have the same effect in those two strata that belong espectively to the opposite extremes of the social structure.
+The current concessions granted to the employees are negligible compared with the benefit to be reaped by the whole nation if such concessions bring back the masses to the bosom of their own nation.
 
-If the propaganda should refrain from using primitive forms of expression it will not appeal to the sentiments of
-the masses.
+The German industrialists were greedy for higher dividends.
+- Even during the War, the German trade unions had used strike to force those industrialists to grant the workers' demands.
 
-If, on the other hand, it conforms to the crude sentiments of the masses in its words and gestures the intellectual circles will be averse to it because of its roughness and vulgarity.
+The War would never have been lost if the German trades unions had uncompromisingly defended the working-class interests during the War
 
-Among a hundred men who call themselves orators there are scarcely ten who are capable of speaking with effect before an audience of street-sweepers, locksmiths and navvies, etc., to-day and expound the same subject with equal effect tomorrow before an audience of university professors and students. 
+<!-- if at the same time they had
+stood up as good Germans for the defence of the nation as stoutly as for their own
+claims, and if they had given to their country what was their country's due--then  -->
 
-Among a thousand public speakers there may be only one who can speak before a composite audience of locksmiths and professors in the same hall in such a way that his statements can be fully comprehended by each group while at the same time he effectively influences both and awakens enthusiasm, on the one side as well as on the other, to hearty applause. 
+<!-- . How ludicrously insignificant would all, and even the
+greatest, economic concession have been in face of the tremendous importance of such a
+victory. -->
 
-But it must be remembered that in most cases even the most beautiful idea embodied in a sublime theory can be brought home to the public only through the medium of smaller minds. 
+To restore the German worker to the German people, economic sacrifices must be made as long as they do not endanger the independence and stability of the national economic system.
 
-The thing that matters here is not the vision of the man of genius who created the great idea but rather the success which his apostles achieve in shaping the expression of this idea so as to bring it home to the minds of the masses. 
+2. The nationalist education of the masses can be done only indirectly by improving their social conditions
 
-Social-Democracy and the whole Marxist movement were particularly qualified to attract the great masses of the nation, because of the uniformity of the public to which they addressed their appeal. The more limited and narrow their ideas and arguments, the easier it was for the masses to grasp and assimilate them; for those ideas and arguments were well adapted to a low level of intelligence. 
-
-These considerations led the new movement to adopt a clear and simple line of policy, which was as follows:
-
-In its message as well as in its forms of expression the propaganda must be kept on a level with the intelligence of the masses, and its value must be measured only by the actual success it achieves.
-
-At a public meeting where the great masses are gathered together the best speaker is not he whose way of approaching a subject is most akin to the spirit of those intellectuals who may happen to be present, but the speaker who knows how to win the hearts of the masses.
-
-An educated man who is present and who finds fault with an address because he considers it to be on an intellectual plane that is too low, though he himself has witnessed its effect on the lower intellectual groups whose adherence has to be won, only shows himself completely incapable of rightly judging the situation and therewith proves that he can be of no use in the new movement. 
-
-Only intellectuals can be of use to a movement who understand its mission and its aims so well that they have learned to
-judge our methods of propaganda exclusively by the success obtained and never by the impression which those methods made on the intellectuals themselves. 
-
-For our propaganda is not meant to serve as an entertainment for those people who already have a nationalist outlook, but its purpose is to win the adhesion of those who have hitherto been hostile to national ideas and who are nevertheless of our own blood and race. 
-
-In general, those considerations of which I have given a brief summary in the chapter on 'War Propaganda' became the guiding rules and principles which determined the kind of propaganda we were to adopt in our campaign and the manner in which we were to put it into practice. The success that has been obtained proves that our decision
-was right.
-
-8. The ends which any political reform movement sets out to attain can never be reached by trying to educate the public or influence those in power but only by getting political power into its hands. 
-
-Every idea that is meant to move the world has not only the right but also the obligation of securing control of those means which will enable the idea to be carried into effect. 
-
-In this world success is the only rule of judgment whereby we can decide whether such an undertaking was right or wrong. And by the word 'success' in this connection I do not mean such a success as the mere conquest of power in 1918 but the successful issue whereby the common interests of the nation have been served. 
-
-A COUP D'ETAT cannot be considered successful if, as many empty-headed government lawyers in Germany now believe, the revolutionaries succeeded in getting control of the State into their hands but only if, in comparison with the state of affairs under the old regime, the lot of the nation has been improved when the aims and intentions on which the revolution was based have been put into practice. 
-
-This certainly does not apply to the German Revolution, as that movement was called, which brought a gang of bandits into power in the autumn of 1918. 
-
-But if the conquest of political power be a requisite preliminary for the practical realization of the ideals that inspire a reform movement, then any movement which aims at reform must, from the very first day of its activity, be considered by its leaders as a movement of the masses and not as a literary tea club or an association of
-philistines who meet to play ninepins.
-
-9. The nature and internal organization of the new movement make it antiparliamentarian. 
-
-It rejects in general and in its own structure all those principles according to which decisions are to be taken on the vote of the majority and according to which the leader is only the executor of the will and opinion of others. The movement lays down the principle that, in the smallest as well as in the greatest problems, one person must have absolute authority and bear all responsibility. 
-
-In our movement the practical consequences of this principle are the following:
-
-The president of a large group is appointed by the head of the group immediately above his in authority. He is then the responsible leader of his group. All the committees are subject to his authority and not he to theirs. There is no such thing as committees that vote but only committees that work. This work is allotted by the
-responsible leader, who is the president of the group. The same principle applies to the
-higher organizations--the Bezirk (district), the KREIS (urban circuit) and the GAU (the 
-region). 
-
-In each case the president is appointed from above and is invested with full authority and executive power. Only the leader of the whole party is elected at the general meeting of the members. But he is the sole leader of the movement. All the committees are responsible to him, but he is not responsible to the committees. 
-
-His decision is final, but he bears the whole responsibility of it. The members of the movement are entitled to call him to account by means of a new election, or to remove him from office if he has violated the principles of the movement or has not served its interests adequately. 
-
-He is then replaced by a more capable man. who is invested with the same authority and obliged to bear the same responsibility. 
-
-One of the highest duties of the movement is to make this principle imperative not only within its own ranks but also for the whole State.
-
-The man who becomes leader is invested with the highest and unlimited authority, but
-he also has to bear the last and gravest responsibility.
-
-The man who has not the courage to shoulder responsibility for his actions is not fitted to be a leader. Only a man of heroic mould can have the vocation for such a task. 
+Only by such a process can the economic conditions be created which enable everybody to share in the cultural life of the nation.
 
 
-Human progress and human cultures are not founded by the multitude. They are exclusively the work of personal genius and personal efficiency. 
+3. The nationalization of the broad masses can never be achieved by half-measures
 
-Because of this principle, our movement must necessarily be anti-parliamentarian, and if it takes part in the parliamentary institution it is only for the purpose of destroying this institution from within; in other words, we wish to do away with an institution which we must look upon as one of the gravest symptoms of human decline.
+It can be achieved only through a ruthless and devoted insistence on the one aim to be achieved.
 
-10. The movement refuses to take up any stand in regard to those problems which are either outside of its sphere of political work or seem to have no fundamental importance for us.
+This means that a people cannot be made 'national' according to the signification attached to that word by our bourgeois class to-day--that is to say, nationalism with many reservations--but national in the vehement and extreme sense. 
 
-It does not aim at bringing about a religious reformation, but rather a political reorganization of our people. It looks upon the two religious denominations as equally valuable mainstays for the existence of our people, and therefore it makes war on all those parties which would degrade this foundation, on which the religious and moral stability of our people is based, to an instrument in the service of party interests.
+Poison can be overcome only by a counter-poison, and only the supine bourgeois mind could think that the
+Kingdom of Heaven can be attained by a compromise.
 
-Finally, the movement does not aim at establishing any one form of State or trying to destroy another, but rather to make those fundamental principles prevail without which no republic and no monarchy can exist for any length of time. The movement does not consider its mission to be the establishment of a monarchy or the preservation of the Republic but rather to create a German State. 
+The broad masses of a nation are not made up of professors and diplomats. Since these masses have only a poor acquaintance with abstract ideas, their reactions lie more in the domain of the feelings, where the roots of their positive as well as their negative attitudes are implanted.
 
-The problem concerning the outer form of this State, that is to say, its final shape, is not of fundamental importance. It is a problem which must be solved in the light of what seems practical and opportune at the moment.
+They are susceptible only to a manifestation of strength which comes definitely either from the positive or negative side, but they are never susceptible to any half-hearted attitude that wavers between one pole and the other. The emotional grounds of their attitude furnish the reason for their extraordinary stability. 
 
-Once a nation has understood and appreciated the great problems that affect its inner
-existence, the question of outer formalities will never lead to any internal conflict.
+It is always more difficult to fight successfully against Faith than against knowledge. Love is less subject to change than respect. Hatred is more lasting than mere aversion.
 
-11. The problem of the inner organization of the movement is not one of principle but of expediency.
+The driving force which has brought about the most tremendous revolutions on this earth has never been a body of scientific teaching which has gained power over the masses, but always a devotion which has inspired them, and often a kind of hysteria which has urged them to action.
 
-The best kind of organization is not that which places a large intermediary apparatus between the leadership of the movement and the individual followers but rather that which works successfully with the smallest possible intermediary apparatus. 
+Whoever wishes to win over the masses must know the key that will open the door to
+their hearts. It is not objectivity, which is a feckless attitude, but a determined will,
+backed up by force, when necessary.
 
-For it is the task of such an organization to transmit a certain idea which originated in the brain of one individual to a multitude of people and to supervise the manner in which this idea is being put into practice.
+4. The soul of the masses can be won only if those who lead the movement are also determined to destroy the enemy that opposes them.
 
-Therefore, from any and every viewpoint, the organization is only a necessary evil. At
-best it is only a means of reaching certain ends. The worst happens when it becomes an
-end in itself.
+When they see an uncompromising onslaught against an adversary the people have at all times taken this as a proof that right is on the side of the active aggressor.
 
-Since the world produces more mechanical than intelligent beings, it will always be
-easier to develop the form of an organization than its substance; that is to say, the ideas
-which it is meant to serve.
+But if the aggressor should go only half-way and fail to push home his success by driving his opponent entirely from the scene of action, the people will look upon this as a sign that the aggressor is uncertain of the justice of his own cause and his half-way policy may even be an acknowledgment that his cause is unjust.
 
-The march of any idea which strives towards practical fulfilment, and in particular those ideas which are of a reformatory character, may be roughly sketched as follows: 
+The masses are but a part of Nature herself. 
 
-A creative idea takes shape in the mind of somebody who thereupon feels himself called upon to transmit this idea to the world. He propounds his faith before others and thereby gradually wins a certain number of followers. This direct and personal way of promulgating one's ideas among one's contemporaries is the most natural and the most
-ideal. 
+Their feeling is such that they cannot understand mutual hand-shakings between men who are declared enemies. Their wish is to see the stronger side win and the weaker wiped out or subjected unconditionally to the will of the stronger.
 
-But as the movement develops and secures a large number of followers it gradually becomes impossible for the original founder of the doctrine on which the movement is based to carry on his propaganda personally among his innumerable
-followers and at the same time guide the course of the movement.
+The nationalization of the masses can be successfully achieved only if, in the positive struggle to win the soul of the people, those who spread the international poison among them are exterminated.
 
-According as the community of followers increases, direct communication between the head and the individual followers becomes impossible. 
+(5) All the great problems of our time are problems of the moment and are only the results of certain definite causes. And among all those there is only one that has a  profoundly causal significance. This is the problem of preserving the pure racial stock among the people. 
 
-This intercourse must then take place through an intermediary apparatus introduced into the framework of the movement. Thus ideal conditions of inter-communication cease, and organization has to be introduced as a necessary evil. Small subsidiary groups come into existence, as in the  political movement, for example, where the local groups represent the germ-cells out of which the organization develops later on.
+Human vigour or decline depends on the blood. Nations that are not aware of the importance of their racial stock, or which neglect to preserve it, are like men who would try to educate the pug-dog to do the work of the greyhound, not
+understanding that neither the speed of the greyhound nor the imitative faculties of the poodle are inborn qualities which cannot be drilled into the one or the other by any form of training. 
 
-But such sub-divisions must not be introduced into the movement until the authority of the spiritual founder and of the school he has created are accepted without reservation. 
+A people that fails to preserve the purity of its racial blood thereby destroys the unity of the soul of the nation in all its manifestations. A disintegrated national character is the inevitable consequence of a process of disintegration in the blood.
 
-Otherwise the movement would run the risk of becoming split up by divergent doctrines. In this connection too much emphasis cannot be laid on the importance of having one geographic centre as the chief seat of the movement. Only the existence of such a seat or centre, around which a magic charm such as that of Mecca or Rome is woven, can supply a movement with that permanent driving force which has its sources in the internal unity of the movement and the recognition of one head as representing this unity.
+The change which takes place in the spiritual and creative faculties of a people is only an effect of the change that has modified its racial substance.
 
-When the first germinal cells of the organization are being formed care must always be taken to insist on the importance of the place where the idea originated. 
+If we are to free the German people from all those failings and ways of acting which do
+not spring from their original character, we must first get rid of those foreign germs in
+the national body which are the cause of its failings and false ways.
 
-The creative, moral and practical greatness of the place whence the movement went forth and from which it is governed must be exalted to a supreme symbol, and this must be honoured all the more according as the original cells of the movement become so numerous that they have to be regrouped into larger units in the structure of the organization.
-When the number of individual followers became so large that direct personal contact
-with the head of the movement was out of the question, then we had to form those first
-local groups. 
+The German nation will never revive unless the racial problem is taken into account and
+dealt with. The racial problem furnishes the key not only to the understanding of
+human history but also to the understanding of every kind of human culture.
 
-As those groups multiplied to an extraordinary number it was necessary to establish higher cadres into which the local groups were distributed. Examples of such cadres in the political organization are those of the region (GAU) and the district (BEZIRK).
+6. By incorporating in the national community the masses of our people who are now
+in the international camp we do not thereby mean to renounce the principle that the
+interests of the various trades and professions must be safeguarded. Divergent interests
+in the various branches of labour and in the trades and professions are not the same as a
+division between the various classes, but rather a feature inherent in the economic
+situation. Vocational grouping does not clash in the least with the idea of a national
+community, for this means national unity in regard to all those problems that affect the
+life of the nation as such.
 
-Though it may be easy enough to maintain the original central authority over the lowest groups, it is much more difficult to do so in relation to the higher units of organization which have now developed. And yet we must succeed in doing this, for this is an indispensable condition if the unity of the movement is to be guaranteed and the idea of
-it carried into effect.
+To incorporate in the national community, or simply the State, a stratum of the people
+which has now formed a social class the standing of the higher classes must not be
+lowered but that of the lower classes must be raised. The class which carries through
+this process is never the higher class but rather the lower one which is fighting for
+equality of rights. The bourgeoisie of to-day was not incorporated in the State through
+measures enacted by the feudal nobility but only through its own energy and a
+leadership that had sprung from its own ranks.
 
-Finally, when those larger intermediary organizations have to be combined in new and still higher units it becomes increasingly difficult to maintain over them the absolute upremacy of the original seat of the movement and the school attached to it.
+The German worker cannot be raised from his present standing and incorporated in the
+German folk-community by means of goody-goody meetings where people talk about
+the brotherhood of the people, but rather by a systematic improvement in the social and
+cultural life of the worker until the yawning abyss between him and the other classes
+can be filled in. A movement which has this for its aim must try to recruit its followers
+mainly from the ranks of the working class. It must include members of the intellectual 
+classes only in so far as such members have rightly understood and accepted without
+reserve the ideal towards which the movement is striving. This process of
+transformation and reunion cannot be completed within ten or twenty years. It will take
+several generations, as the history of such movements has shown.
 
-Consequently the mechanical forms of an organization must only be introduced if and in so far as the spiritual authority and the ideals of the central seat of the organization are shown to be firmly established. In the political sphere it may often happen that this supremacy can be maintained only when the movement has taken over supreme
-political control of the nation. 
+The most difficult obstacle to the reunion of our contemporary worker in the national
+folk-community does not consist so much in the fact that he fights for the interests of his
+fellow-workers, but rather in the international ideas with which he is imbued and
+which are of their nature at variance with the ideas of nationhood and fatherland. This
+hostile attitude to nation and fatherland has been inculcated by the leaders of the
+working class. If they were inspired by the principle of devotion to the nation in all that
+concerns its political and social welfare, the trades unions would make those millions of
+workers most valuable members of the national community, without thereby affecting
+their own constant struggle for their economic demands.
+
+A movement which sincerely endeavours to bring the German worker back into his
+folk-community, and rescue him from the folly of internationalism, must wage a
+vigorous campaign against certain notions that are prevalent among the industrialists.
+One of these notions is that according to the concept of the folk-community, the
+employee is obliged to surrender all his economic rights to the employer and, further,
+that the workers would come into conflict with the folk-community if they should
+attempt to defend their own just and vital interests. Those who try to propagate such a
+notion are deliberate liars. The idea of a folk-community does not impose any
+obligations on the one side that are not imposed on the other.
+A worker certainly does something which is contrary to the spirit of folk-community if
+he acts entirely on his own initiative and puts forward exaggerated demands without
+taking the common good into consideration or the maintenance of the national
+economic structure. But an industrialist also acts against the spirit of the folkcommunity if he adopts inhuman methods of exploitation and misuses the working
+forces of the nation to make millions unjustly for himself from the sweat of the workers.
+He has no right to call himself 'national' and no right to talk of a folk-community, for he
+is only an unscrupulous egoist who sows the seeds of social discontent and provokes a
+spirit of conflict which sooner or later must be injurious to the interests of the country.
+The reservoir from which the young movement has to draw its members will first of all
+be the working masses. Those masses must be delivered from the clutches of the
+international mania. Their social distress must be eliminated. They must be raised
+above their present cultural level, which is deplorable, and transformed into a resolute
+and valuable factor in the folk-community, inspired by national ideas and national
+sentiment. 
+
+If among those intellectual circles that are nationalist in their outlook men can be found
+who genuinely love the people and look forward eagerly to the future of Germany, and
+at the same time have a sound grasp of the importance of a struggle whose aim is to
+win over the soul of the masses, such men are cordially welcomed in the ranks of our
+movement, because they can serve as a valuable intellectual force in the work that has
+to be done. But this movement can never aim at recruiting its membership from the
+unthinking herd of bourgeois voters. If it did so the movement would be burdened with
+a mass of people whose whole mentality would only help to paralyse the effort of our
+campaign to win the mass of the people. In theory it may be very fine to say that the
+broad masses ought to be influenced by a combined leadership of the upper and lower
+social strata within the framework of the one movement; but, notwithstanding all this,
+the fact remains that though it may be possible to exercise a psychological influence on
+the bourgeois classes and to arouse some enthusiasm or even awaken some
+understanding among them by our public demonstrations, their traditional
+characteristics cannot be changed. In other words, we could not eliminate from the
+bourgeois classes the inefficiency and supineness which are part of a tradition that has
+developed through centuries. The difference between the cultural levels of the two
+groups and between their respective attitudes towards social-economic questions is still
+so great that it would turn out a hindrance to the movement the moment the first
+enthusiasm aroused by our demonstrations calmed down.
+
+Finally, it is not part of our programme to transform the nationalist camp itself, but
+rather to win over those who are anti-national in their outlook. It is from this viewpoint
+that the strategy of the whole movement must finally be decided.
 

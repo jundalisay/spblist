@@ -1,11 +1,33 @@
 ---
-title: Why The Second Reich Collapsed
+title: Weak Monarchial Institution
 heading: Chapter 10c
 weight: 66
-description: "The worth and significance of the monarchical principle cannot rest in the monarch alone"
+description: "The saying 'With the hat in the hand one can go through the whole country' applies to Germany."
 author: Adolf Hitler
 image: /covers/mein.jpg
 ---
+
+
+The saying 'With the hat in the hand one can go through the whole country' applies to Germany.  
+
+This kind of social etiquette is observed in the presence of His Majesty.
+
+ <!-- was disastrous when it prescribed the exclusive forms that had to .  -->
+
+<!-- These forms insisted that there should be no contradiction whatsoever, but that  -->
+
+It insists that everything should be praised which His Majesty condescended to like.
+
+But Germans need manly dignity, and not subservience. 
+
+Servility in the presence of monarchs may be good for the professional lackey and place-hunter.
+
+<!-- , in fact for all those decadent beings who are more pleased to be found moving in the high circles of royalty than among honest citizens. -->
+
+<!-- These exceedingly 'humble' creatures however, though they grovel before their lord and bread-giver, invariably put on airs of boundless superciliousness towards other mortals, which was particularly impudent when they posed as the only people who had the right to be called 'monarchists'. This was a gross piece of impertinence such as only despicable specimens among the newly-ennobled or yet-to-be-ennobled could be capable of. -->
+
+Such people have prepared the way for the downfall of monarchy and the monarchical principle. 
+- This is different from people who are prepared to stand up for a cause.
 
 
 ### Monarchs are Not Divine
@@ -90,39 +112,9 @@ They will not read any newspaper without using their own intelligence to collabo
 Journalists appreciate this type of reader only with a certain amount of reservation. 
 
 
-Hence the trash that newspapers are capable of serving up is of little danger--much less of importance--to the members of the third group of readers. 
+Hence the trash that newspapers can serve up is of little danger or importance to the members of the third group of readers. 
 
-In the majority of cases these readers have learnt to regard every journalist as fundamentally a rogue who sometimes speaks the truth. 
+<!-- In the majority of cases these readers have learnt to regard every journalist as fundamentally a rogue who sometimes speaks the truth. 
 
-Most unfortunately, the value of these readers lies in their intelligence and not in their numerical strength, an unhappy state of affairs in a period where wisdom counts for nothing and majorities for everything. 
-
-Nowadays when the voting papers of the masses are the deciding factor; the decision lies in the hands of the numerically strongest group; that is to say the first group, the crowd of simpletons and the credulous.
-
-It is an all-important interest of the State and a national duty to prevent these people from falling into the hands of false, ignorant or even evil-minded teachers. Therefore it is the duty of the State to supervise their education and prevent every form of offence in this respect. Particular attention should be paid to the Press; for its influence on these
-people is by far the strongest and most penetrating of all; since its effect is not transitory 
-but continual. Its immense significance lies in the uniform and persistent repetition of
-its teaching. Here, if anywhere, the State should never forget that all means should
-converge towards the same end. It must not be led astray by the will-o'-the-wisp of socalled 'freedom of the Press', or be talked into neglecting its duty, and withholding from
-the nation that which is good and which does good. With ruthless determination the
-State must keep control of this instrument of popular education and place it at the
-service of the State and the Nation.
-
-But what sort of pabulum was it that the German Press served up for the consumption
-of its readers in pre-War days? Was it not the worst virulent poison imaginable? Was
-not pacifism in its worst form inoculated into our people at a time when others were
-preparing slowly but surely to pounce upon Germany? Did not this self-same Press of
-ours in peace time already instil into the public mind a doubt as to the sovereign rights
-of the State itself, thereby already handicapping the State in choosing its means of
-defence? Was it not the German Press that under stood how to make all the nonsensical
-talk about 'Western democracy' palatable to our people, until an exuberant public was
-eventually prepared to entrust its future to the League of Nations? Was not this Press
-instrumental in bringing in a state of moral degradation among our people? Were not
-morals and public decency made to look ridiculous and classed as out-of-date and
-banal, until finally our people also became modernized? By means of persistent attacks,
-did not the Press keep on undermining the authority of the State, until one blow
-sufficed to bring this institution tottering to the ground? Did not the Press oppose with
-all its might every movement to give the State that which belongs to the State, and by
-means of constant criticism, injure the reputation of the army, sabotage general
-conscription and demand refusal of military credits, etc.--until the success of this
-campaign was assured?
+Most unfortunately, the value of these readers lies in their intelligence and not in their numerical strength, an unhappy state of affairs in a period where wisdom counts for nothing and majorities for everything. --> 
 

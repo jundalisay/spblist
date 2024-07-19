@@ -15,24 +15,29 @@ paginate = 12
     weight = 1
     languageName = "English"
     [[languages.en.menu.main]]
-        name = "/icons/book.png"
+        name = "Research"
+        # name = "/icons/book.png"
         url = "research"
         weight = 1
     [[languages.en.menu.main]]
         identifier = "sp"
-        name = "/icons/sp.png"
+        name = "Superphysics"
+        # name = "/icons/sp.png"
         url = "superphysics"
         weight = 2
     [[languages.en.menu.main]]
-        name = "/icons/spmat.png"
-        url = "material/"
+        name = "Material"
+        # name = "/icons/spmat.png"
+        url = "material"
         weight = 3
     [[languages.en.menu.main]]
-        name = "/icons/spmed.png"
+        # name = "/icons/spmed.png"
+        name = "Bio"
         url = "bio/"
         weight = 4
     [[languages.en.menu.main]]
-        name = "/icons/spsoc.png"
+        name = "Supersociology"
+        # name = "/icons/spsoc.png"
         url = "social/supersociology/"
         weight = 5
     [[languages.en.menu.main]]

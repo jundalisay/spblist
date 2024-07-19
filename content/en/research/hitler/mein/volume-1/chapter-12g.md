@@ -1,139 +1,120 @@
 ---
-title: VÖLKISCH is Excluded
+title: Marxists Versus Nazis
 heading: Chapter 12g
-weight: 86
+weight: 84
 description: "The Marxist leaders deceived and misled the public. They naturally hated movements that aimed to win over the masses"
 author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
+The whole undertaking was of its very nature dangerous. 
 
-It is absolutely necessary for the movement to be dominated by a strong central force as authoritative leadership.
+Back then, it would have been absolutely impossible openly to invite people to a national meeting that made a direct appeal to the masses. 
 
-This is only way to counteract the fatal elements. 
+Those who attended such meetings were usually dispersed and driven away with broken heads.
 
-<!-- That is why these folk-lore Ahasueruses are vigorously hostile to any movement whose  -->
+<!-- It certainly did not call for any great qualities to be able to do things in that way.  -->
 
-Our members are to be firmly united under one leader and one discipline. 
+The largest so-called bourgeois mass meetings were used to dissolving. The people would run away like rabbits as soon as a dozen communists appeared on the scene.
 
-<!-- Those people of whom I have spoken hate such a movement because it is capable of putting a stop to their mischief. -->
+<!-- The Reds used to pay little attention to those bourgeois organizations where only babblers talked.
 
-This is why we laid down a clearly defined programme for the new movement and excluded the word VÖLKISCH from it. 
+They recognized the inner triviality of such associations much better than the members themselves and therefore felt that they need not be afraid of them. --> 
 
-VÖLKISCH cannot be the basis of a movement because it is too indefinite and general in its application. 
+On the contrary, however, they were all the more determined to use every possible means of annihilating once and for all any movement that appeared to them to be a danger to their own interests. The most effective means which they always employed in such cases were terror and brute force.
 
-A designation of VÖLKISCH is not a definite party affiliation.
+The Marxist leaders deceived and misled the public. They naturally hated most of all a movement that aimed to win over the masses which hitherto had been exclusively at the service of international Marxism in the Jewish and Stock Exchange parties.
 
-This indefinite-ness gives rise to various interpretations. Thus, people can appeal to it all the more easily as a sort of personal recommendation. 
+The title alone, 'German Labour party', irritated them.
 
-Whenever such a vague concept, which is subject to so many interpretations, is admitted into a political movement it tends to break up the disciplined solidarity of the fighting forces. 
+<!-- It could easily be foreseen that at the first opportune moment we should have to face the opposition of the Marxist despots, who were still intoxicated with their triumph in 1918. -->
 
-No such solidarity can be maintained if each individual member be allowed to define for himself what he believes and what he is willing to do.
+People in our own movement back then were anxious at the prospect of a conflict with Marxists. 
+- They wanted to refrain as much as possible from coming out into the open, because they feared that they might be attacked and beaten.
 
-One feels it a disgrace when one notices the kind of people who float about nowadays with the VÖLKISCH symbol stuck in their buttonholes, and at the same time to notice how many people have various ideas of their own as to the significance of that symbol. 
+<!-- In their minds they saw our first public meetings broken up and feared that the movement might thus be ruined forever.  -->
 
-A well-known professor in Bavaria fights only with the weapons of the mind. He boasts of having marched against Berlin. He believes that the word VÖLKISCH is synonymous with 'monarchical'. 
+I found it difficult to defend my own position:
+- The conflict should not be evaded.
+- It should be faced openly.
+- We should be armed with weapons to protect against brute force. 
 
-But he has neglected to explain how our past German monarchs can be identified with the word VÖLKISCH today.
+**Terror cannot be overcome by the weapons of the mind but only by counter-terror.** 
 
-<!-- I am afraid he will find himself at a loss if he is asked to give a precise answer. For it would be very difficult indeed to imagine anything less VÖLKISCH than most of those German monarchical States were.  -->
+The success of our first public meeting strengthened my own position.
 
-If VÖLKISCH meant monarchy, then monarchies would not have disappeared.
+The members felt encouraged to arrange for a second meeting, even on a larger scale.
 
-If monarchies were VÖLKISCH, then their downfall proves that the VÖLKISCH outlook on the world (WELTANSCHAUUNG) is false.
+Some time in October 1919 the second larger meeting took place in the EBERLBRÄU KELLER. The theme of our speeches was 'Brest-Litowsk and Versailles'. There were four speakers. 
 
-Everybody interprets this concept in his own way.
+I talked for almost an hour, and the success was even more striking than at our first meeting. The number of people who attended had grown to more than 130. An attempt to disturb the proceedings was immediately frustrated by my comrades.
 
-But such multifarious opinions cannot be adopted as the basis of a militant political movement. 
+The would-be disturbers were thrown down the stairs, bearing imprints of violence on their heads.
 
-These Messianic Precursors of the 20th Century lack worldly wisdom and understanding the nation's soul.
+A fortnight later another meeting took place in the same hall. The number in attendance had now increased to more than 170, which meant that the room was fairly well filled. I spoke again, and once more the success obtained was greater than at the previous meeting.
 
-And so they have been ridiculed by the left-wing parties.
+Then I proposed that a larger hall should be found. After looking around for some time we discovered one at the other end of the town, in the 'Deutschen REICH' in the Dachauer Strasse. 
 
-I see no value on the friendship of such academics. In fact, I see such friendship as dangerous to our young movement. 
+The first meeting at this new rendezvous had a smaller attendance than the previous meeting. There were just less than 140 present. The members of the committee began to be discouraged, and those who had always been sceptical were now convinced that this falling-off in the attendance was due to the fact that we were holding the meetings at too short intervals. 
 
- <!-- people who do not succeed in getting disliked by their enemies. Therefore, we considered the friendship of such people as not only worthless but even dangerous . That was the principal reason -->
+There were lively discussions, in which I upheld my own opinion that a city with 700,000 inhabitants ought to be able not only to stand one meeting every fortnight but ten meetings every week. I held that we should not be discouraged by one comparative setback, that the tactics we had chosen were correct, and that sooner or later success would be ours if we only continued with determined perseverance to push forward on our road.
 
-This is mainly why we first called ourselves THE NATIONAL SOCIALIST GERMAN LABOUR PARTY -- so can scare away the VÖLKISCH dreamers. 
+This whole winter of 1919-20 was one continual struggle to strengthen confidence in our ability to carry the movement through to success and to intensify this confidence until it became a burning faith that could move mountains.
 
-"Party" keeps away all those:
-- dreamers who live in the past and all the lovers of bombastic nomenclature
-- who went around beating the big drum for the VÖLKISCH idea. 
+Our next meeting in the small hall proved the truth of my contention. Our audience had increased to more than 200. The publicity effect and the financial success were splendid. 
 
-The full name of the Party kept away all those heroes whose weapon is the sword of the spirit and all those whining poltroons who take refuge behind their so-called 'intelligence' as if it were a kind of shield.
+I immediately urged that a further meeting should be held. It took place in less than a fortnight, and there were more than 270 people present. Two weeks later we invited our followers and their friends, for the seventh time, to attend our meeting. The same hall was scarcely large enough for the number that came. They amounted to more than 400. 
 
-It was only to be expected that this latter class would launch a massed attack against us after our movement had started; but, of course, it was only a pen-and-ink attack, for the goose-quill is the only weapon which these VÖLKISCH lancers wield. We had declared one of our principles thus: "We shall meet violence with violence in our own defence".
+During this phase the young movement developed its inner form. Sometimes we had more or less hefty discussions within our small circle. From various sides--it was then just the same as it is to-day--objections were made against the idea of calling the young movement a party. I have always considered such criticism as a demonstration of
+practical incapability and narrow-mindedness on the part of the critic. 
 
-Naturally that principle disturbed the equanimity of the knights of the pen. They reproached us bitterly not only for what they called our crude worship of the cudgel but also because, according to them, we had no intellectual forces on our side. 
+Those objections have always been raised by men who could not differentiate between external appearances and inner strength, but tried to judge the movement by the high-sounding character of the name attached to it. To this end they ransacked the vocabulary of our ancestors, with unfortunate results.
 
-These charlatans did not think for a moment that a Demosthenes could be reduced to silence at a mass-meeting by fifty idiots who had come there to shout him down and use their fists against his supporters. The innate cowardice of the pen-and-ink charlatan prevents him from exposing himself to such a danger, for he always works in safe retirement and never dares to make a noise or come forward in public.
+At that time it was very difficult to make the people understand that every movement is a party as long as it has not brought its ideals to final triumph and thus achieved its purpose. 
 
-Even to-day I must warn the members of our young movement in the strongest possible terms to guard against the danger of falling into the snare of those who call themselves 'silent workers'. 
+It is a party even if it give itself a thousand difterent names.
 
-These 'silent workers' are not only a whitelivered lot but are also, and always will be, ignorant do-nothings. A man who is aware of certain happenings and knows that a certain danger threatens, and at the same time sees a certain remedy which can be employed against it, is in duty bound not to work in silence but to come into the open and publicly fight for the destruction of the evil and the acceptance of his own remedy.
+Any person who tries to carry into practice an original idea whose realization would be for the benefit of his fellow men will first have to look for disciples who are ready to fight for the ends he has in view. 
 
-If he does not do so, then he is neglecting his duty and shows that he is  weak in character and that he fails to act either because of his timidity, or indolence or incompetence. Most of these 'silent workers' generally pretend to know God knows what. 
+If these ends did not go beyond the destruction of the party system and therewith put a stop to the process of disintegration, then all those who come forward as protagonists and apostles of such an ideal are a party in themselves as long as their final goal is reached. 
 
-Not one of them is capable of any real achievement, but they keep on trying to fool the world with their antics. Though quite indolent, they try to create the impression that their 'silent work' keeps them very busy. To put it briefly, they are sheer swindlers, political jobbers who feel chagrined by the honest work which others are doing. 
+It is only hair-splitting and playing with words when these antiquated theorists, whose practical success is in reverse ratio to their wisdom, presume to think they can change the character of a movement which is at the same time a party, by merely changing its name.
 
-When you find one of these VÖLKISCH moths buzzing over the value of his 'silent work' you may be sure that you are dealing with a fellow who does no productive work at all but steals from others the fruits of their honest labour.
+On the contrary, it is entirely out of harmony with the spirit of the nation to keep harping on that far-off and forgotten nomenclature which belongs to the ancient Germanic times and does not awaken any distinct association in our age. This habit of borrowing words from the dead past tends to mislead the people into thinking that the external trappings of its vocabulary are the important feature of a movement. It is really a mischievous habit; but it is quite prevalent nowadays.
 
-In addition to all this one ought to note the arrogance and conceited impudence with which these obscurantist idlers try to tear to pieces the work of other people, criticizing it with an air of superiority, and thus playing into the hands of the mortal enemy of our people.
+At that time, and subsequently, I had to warn followers repeatedly against these wandering scholars who were peddling Germanic folk-lore and who never accomplished anything positive or practical, except to cultivate their own superabundant self-conceit. 
 
-Even the simplest follower who has the courage to stand on the table in some beer-hall where his enemies are gathered, and manfully and openly defend his position against them, achieves a thousand times more than these slinking hypocrites. He at least will convert one or two people to believe in the movement. 
+The new movement must guard itself against an influx of people whose only recommendation is their own statement that they have been fighting for these very same ideals during the last 30-40 years.
 
-One can examine his work and test its effectiveness by its actual results. But those knavish swindlers--who praise their own 'silent work' and shelter themselves under the cloak of anonymity, are just worthless drones, in the truest sense of the term, and are utterly useless for the purpose of our national reconstruction.
+Now if somebody has fought for forty years to carry into effect what he calls an idea, and if these alleged efforts not only show no positive results but have not even been able to hinder the success of the opposing party, then the story of those forty years of futile effort furnishes sufficient proof for the incompetence of such a protagonist. 
 
-In the beginning of 1920 I put forward the idea of holding our first mass meeting. On this proposal there were differences of opinion amongst us. Some leading members of our party thought that the time was not ripe for such a meeting and that the result might be detrimental. 
+People  of that kind are specially dangerous because they do not want to participate in the movement as ordinary members. They talk rather of the leading positions which would be the only fitting posts for them, in view of their past work and also so that they might be enabled to carry on that work further. 
 
-The Press of the Left had begun to take notice of us and we were lucky enough in being able gradually to arouse their wrath. We had begun to appear at other meetings and to ask questions or contradict the speakers, with the natural result that we were shouted down forthwith. 
+But woe to a young movement if the conduct of it should fall into the hands of such people. A business man who has been in charge of a great firm for forty years and who has completely ruined it through his mismanagement is not the kind of person one would recommend for the founding of a new firm.
 
-But still we thereby gained some of our ends. People began to know of our existence and the better they understood us, the stronger became their aversion and their enmity. Therefore we might expect that a large contingent of our friends from the Red Camp would attend our first mass meeting. I fully realized that our meeting would probably be broken up. But we had to face the fight; if not now, then some months later. 
+It is just the same with a new national movement. Nobody of common sense would appoint to a leading post in such a movement some Teutonic Methuselah who had been ineffectively preaching some idea for a period of forty years, until himself and his idea had entered the stage of senile decay.
 
-Since the first day of our foundation we were resolved to secure the future of the movement by fighting our way forward in a spirit of blind faith and ruthless determination. I was well acquainted with the mentality of all those who belonged to the Red Camp, and I knew quite well that if we opposed them tooth and nail not only would we make an impression on them but that we even might win new followers for ourselves. Therefore I felt that we must decide on a policy of
-active opposition. 
+Furthermore, only a very small percentage of such people join a new movement with the intention of serving its end unselfishly and helping in the spread of its principles. In most cases they come because they think that, under the aegis of the new movement, it will be possible for them to promulgate their old ideas to the misfortune of their new listeners. 
 
-Harrer was then chairman of our party. We did not agree on the opportune time for our first mass meeting. Accordingly, he resigned, as an upright and honest man, and was replaced by Anton Drexler. 
+Anyhow, nobody ever seems able to describe what exactly these ideas are.
 
-We decided our first great popular meeting would be on February 24, 1920.
+It is typical of such persons that they rant about ancient Teutonic heroes of the dim and distant ages, stone axes, battle spears and shields, whereas in reality they themselves are the woefullest poltroons imaginable. For those very same people who brandish Teutonic tin swords that have been fashioned carefully according to ancient models and wear padded bear-skins, with the horns of oxen mounted over their bearded faces, proclaim that all contemporary conflicts must be decided by the weapons of the mind alone. 
 
-<!-- I made all the preparatory arrangements personally. They did not take very long. The whole apparatus of our organization was set in motion for the purpose of being able to secure a rapid decision as to our policy. Within 24 hours we had to decide on the attitude we should take in regard to the questions of the day which would be put forward at the mass meeting. 
+Thus they skedaddle when the first communist cudgel appears. Posterity will have little occasion to write a new epic on these heroic gladiators. 
 
-The notices which advertised the meeting had to bring these points before the public. In this direction we were forced to depend on the  -->
 
-We used posters and leaflets designed according to my principles on propaganda to appeal to the crowd.
+I have seen too much of that kind of people not to feel a profound contempt for their miserable play-acting. To the masses of the nation they are just an object of ridicule; but the Jew finds it to his own interest to treat these folk-lore comedians with respect and to prefer them to real men who are fighting to establish a German State. And yet these
+comedians are extremely proud of themselves. 
 
-<!-- , the contents of which and the manner in which they were displayed were decided upon in accordance with the  which I have already laid down in dealing with propaganda in general. They were produced in a form which would . -->
+Notwithstanding their complete fecklessness, which is an established fact, they pretend to know everything better than other people; so much so that they make themselves a veritable nuisance to all sincere and honest patriots, to whom not only the heroism of the past is worthy of honour but who also feel bound to leave examples of their own work for the inspiration of the coming generation.
 
-**They concentrated on a few points which were repeated again and again.** 
+Among those people there were some whose conduct can be explained by their innate stupidity and incompetence; but there are others who have a definite ulterior purpose in view. 
 
-The text was concise and definite, an absolutely dogmatic form of expression being used. 
+Often it is difficult to distinguish between the two classes. The impression which I often get, especially of those so-called religious reformers whose creed is grounded on ancient Germanic customs, is that they are the missionaries and protégés of those forces which do not wish to see a national revival taking place in Germany. 
 
-<!-- We distributed these posters and leaflets with a dogged energy
-and then we patiently waited for the effect they would produce. -->
+All their activities tend to turn the attention of the people away from the necessity of fighting together in a common cause against the common enemy, namely the Jew.
 
-We chose red as our principal colour, as it has an exciting effect on the eye. This could arouse the attention of our opponents and irritate them. 
-
-<!-- Thus they would have to take notice of us--whether they liked it or not--and would not forget us. -->
-
-One result of our tactics was to show up clearly the close political fraternization that existed also here in Bavaria between the Marxists and the Centre Party. 
-
-The Bavarian People's Party (affiliated with the Centre Party) held power in Bavaria. They did their best to counteract the effect which our placards were having on the 'Red' masses. 
-
-They made a definite step to fetter our activities. 
-
-If the police could find no other grounds for prohibiting our placards, then they might claim that we were disturbing the traffic in the streets. 
-
-<!-- Thus the so-called German National People's Party calmed the anxieties of their 'Red' allies by completely prohibiting those placards which proclaimed a message that was bringing back to the bosom of their own people hundreds of thousands of workers who had been misled by international agitators and incensed against their own nation.  -->
-
-<!-- These placards bear witness to the bitterness of the struggle in which the young movement was then engaged. Future generations will find in these placards a documentary proof of our determination and the justice of our own cause. And these placards will also prove how the so-called national officials took arbitrary action to strangle a movement that did not please them, because it was nationalizing the broad masses of the people and winning them back to
-their own racial stock. -->
-
-These placards will:
-- refute the theory that there was then a national government in Bavaria.
-- confirm that if Bavaria remained nationally-minded from 1919-1923 because of the national spirit and not because of the national government.
-
- <!-- gradually gained a deeper hold on the people and the Government was forced to follow public feeling.  -->
+Moreover, that kind of preaching induces the people to use up their energies, not in fighting for the common cause, but in absurd and ruinous religious controversies within their own ranks. 
 
 

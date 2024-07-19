@@ -1,120 +1,151 @@
 ---
-title: Marxists Versus Nazis
-heading: Chapter 12f
-weight: 84
-description: "The Marxist leaders deceived and misled the public. They naturally hated movements that aimed to win over the masses"
+title: The First Days of the Movement
+heading: Chapter 12d
+weight: 82
+description: "During the initial phase of our movement, our greatest handicap was that none of us were known"
 author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-The whole undertaking was of its very nature dangerous. 
+During the initial phase of our movement, our greatest handicap was that none of us were known.
 
-Back then, it would have been absolutely impossible openly to invite people to a national meeting that made a direct appeal to the masses. 
+ <!-- and our names meant nothing, a fact which then seemed to some of us to make the chances of final success problematical.  -->
 
-Those who attended such meetings were usually dispersed and driven away with broken heads.
+Our most difficult task then was to make our members believe that there was a tremendous future for the movement and to maintain this belief as a living faith.
 
-<!-- It certainly did not call for any great qualities to be able to do things in that way.  -->
+Back then, only 6-8 persons came to hear one of our speakers.
 
-The largest so-called bourgeois mass meetings were used to dissolving. The people would run away like rabbits as soon as a dozen communists appeared on the scene.
+Only 6-7 poor devils, entirely unknown, came together to found a movement which would succeed in doing what the great mass-parties had failed to do -- to reconstruct the German REICH even in greater power and glory than before. 
 
-<!-- The Reds used to pay little attention to those bourgeois organizations where only babblers talked.
+We would have been very pleased if we were attacked or even ridiculed.
 
-They recognized the inner triviality of such associations much better than the members themselves and therefore felt that they need not be afraid of them. --> 
+**But the most depressing fact was that nobody paid any attention to us.** 
 
-On the contrary, however, they were all the more determined to use every possible means of annihilating once and for all any movement that appeared to them to be a danger to their own interests. The most effective means which they always employed in such cases were terror and brute force.
+This utter lack of interest in us caused me great mental pain at that time. 
 
-The Marxist leaders deceived and misled the public. They naturally hated most of all a movement that aimed to win over the masses which hitherto had been exclusively at the service of international Marxism in the Jewish and Stock Exchange parties.
+When I entered the circle of those men, there was not yet any question of a party or a movement.
 
-The title alone, 'German Labour party', irritated them.
+<!--  I have already described the impression which was made on me when I first came into contact with that small organization. Subsequently I had time, and also the 
+occasion, to study the form of this so-called party which at first had made such a woeful
+impression. 
 
-<!-- It could easily be foreseen that at the first opportune moment we should have to face the opposition of the Marxist despots, who were still intoxicated with their triumph in 1918. -->
+The picture was indeed quite depressing and discouraging. There was nothing, absolutely nothing at all. There was only the name of a party.  -->
 
-People in our own movement back then were anxious at the prospect of a conflict with Marxists. 
-- They wanted to refrain as much as possible from coming out into the open, because they feared that they might be attacked and beaten.
+The committee consisted of all the party members. 
 
-<!-- In their minds they saw our first public meetings broken up and feared that the movement might thus be ruined forever.  -->
+Somehow or other it seemed just the kind of thing we were about to fight against--a miniature parliament. 
 
-I found it difficult to defend my own position:
-- The conflict should not be evaded.
-- It should be faced openly.
-- We should be armed with weapons to protect against brute force. 
+The voting system was employed. 
 
-**Terror cannot be overcome by the weapons of the mind but only by counter-terror.** 
+When the great parliament cried until they were hoarse--at least they shouted over problems of importance--here this small circle engaged in interminable discussions as to the form in which they might answer the letters which they were delighted to have received.
 
-The success of our first public meeting strengthened my own position.
+The public knew nothing of all this.
 
-The members felt encouraged to arrange for a second meeting, even on a larger scale.
+In Munich, nobody knew of our party except our few members and their small circle of acquaintances.
 
-Some time in October 1919 the second larger meeting took place in the EBERLBRÄU KELLER. The theme of our speeches was 'Brest-Litowsk and Versailles'. There were four speakers. 
+Every Wednesday what was called a committee meeting was held in one of the cafés, and a debate was arranged for one evening each week. 
 
-I talked for almost an hour, and the success was even more striking than at our first meeting. The number of people who attended had grown to more than 130. An attempt to disturb the proceedings was immediately frustrated by my comrades.
+In the beginning all the members of the movement were also members of the committee, therefore the same
+persons always turned up at both meetings. 
 
-The would-be disturbers were thrown down the stairs, bearing imprints of violence on their heads.
+The first step that had to be taken was to extend the narrow limits of this small circle and get new members, but the principal necessity was to utilize all the means at our command for the purpose of making the movement known.
 
-A fortnight later another meeting took place in the same hall. The number in attendance had now increased to more than 170, which meant that the room was fairly well filled. I spoke again, and once more the success obtained was greater than at the previous meeting.
+We chose the following methods: We decided to hold a monthly meeting to which the public would be invited. 
 
-Then I proposed that a larger hall should be found. After looking around for some time we discovered one at the other end of the town, in the 'Deutschen REICH' in the Dachauer Strasse. 
+Some of the invitations were typewritten, and some were written by hand. 
 
-The first meeting at this new rendezvous had a smaller attendance than the previous meeting. There were just less than 140 present. The members of the committee began to be discouraged, and those who had always been sceptical were now convinced that this falling-off in the attendance was due to the fact that we were holding the meetings at too short intervals. 
+For the first few meetings we distributed them in the streets and delivered them personally at certain houses. 
 
-There were lively discussions, in which I upheld my own opinion that a city with 700,000 inhabitants ought to be able not only to stand one meeting every fortnight but ten meetings every week. I held that we should not be discouraged by one comparative setback, that the tactics we had chosen were correct, and that sooner or later success would be ours if we only continued with determined perseverance to push forward on our road.
+Each one canvassed among his own acquaintances and tried to persuade some of them to attend our meetings. The result was lamentable.
 
-This whole winter of 1919-20 was one continual struggle to strengthen confidence in our ability to carry the movement through to success and to intensify this confidence until it became a burning faith that could move mountains.
+I personally delivered 80 of these invitations. We waited in the evening for the crowds to come. 
 
-Our next meeting in the small hall proved the truth of my contention. Our audience had increased to more than 200. The publicity effect and the financial success were splendid. 
+After waiting in vain for a whole hour, the chairman finally had to open the meeting. 
 
-I immediately urged that a further meeting should be held. It took place in less than a fortnight, and there were more than 270 people present. Two weeks later we invited our followers and their friends, for the seventh time, to attend our meeting. The same hall was scarcely large enough for the number that came. They amounted to more than 400. 
+Again there were only 7 people present, the old familiar seven.
 
-During this phase the young movement developed its inner form. Sometimes we had more or less hefty discussions within our small circle. From various sides--it was then just the same as it is to-day--objections were made against the idea of calling the young movement a party. I have always considered such criticism as a demonstration of
-practical incapability and narrow-mindedness on the part of the critic. 
+We then changed our methods. We had the invitations written with a typewriter in a Munich stationer's shop and then multigraphed them.
 
-Those objections have always been raised by men who could not differentiate between external appearances and inner strength, but tried to judge the movement by the high-sounding character of the name attached to it. To this end they ransacked the vocabulary of our ancestors, with unfortunate results.
+The result was that a few more people attended our next meeting. 
 
-At that time it was very difficult to make the people understand that every movement is a party as long as it has not brought its ideals to final triumph and thus achieved its purpose. 
+The number increased gradually from 11 to 13 to 17, to 23 and finally to 34. 
 
-It is a party even if it give itself a thousand difterent names.
+We collected some money within our own circle, each poor devil giving a small contribution, and in that way we raised sufficient funds to be able to advertise one of our meetings in the MUNICH OBSERVER, which was still an independent paper. 
 
-Any person who tries to carry into practice an original idea whose realization would be for the benefit of his fellow men will first have to look for disciples who are ready to fight for the ends he has in view. 
+This time we had an astonishing success. 
 
-If these ends did not go beyond the destruction of the party system and therewith put a stop to the process of disintegration, then all those who come forward as protagonists and apostles of such an ideal are a party in themselves as long as their final goal is reached. 
+We had chosen the Munich HOFBRÄU HAUS KELLER as our meeting-place. It was a small hall and would accommodate scarcely more than 130 people. 
 
-It is only hair-splitting and playing with words when these antiquated theorists, whose practical success is in reverse ratio to their wisdom, presume to think they can change the character of a movement which is at the same time a party, by merely changing its name.
+To me, however, the hall seemed enormous. We were all trembling lest this tremendous edifice would remain partly empty on the night of the meeting.
 
-On the contrary, it is entirely out of harmony with the spirit of the nation to keep harping on that far-off and forgotten nomenclature which belongs to the ancient Germanic times and does not awaken any distinct association in our age. This habit of borrowing words from the dead past tends to mislead the people into thinking that the external trappings of its vocabulary are the important feature of a movement. It is really a mischievous habit; but it is quite prevalent nowadays.
+At 7:00, 111 persons were present, and the meeting was opened. 
 
-At that time, and subsequently, I had to warn followers repeatedly against these wandering scholars who were peddling Germanic folk-lore and who never accomplished anything positive or practical, except to cultivate their own superabundant self-conceit. 
+A Munich professor delivered the principal address, and I spoke after him. That was my first appearance as public orator. 
 
-The new movement must guard itself against an influx of people whose only recommendation is their own statement that they have been fighting for these very same ideals during the last 30-40 years.
+The whole thing seemed a very daring adventure to Herr Harrer, who was then chairman of the party.
+- He was a very decent fellow.
+- But he had an A PRIORI belief that I did not have a talent for public speaking. 
 
-Now if somebody has fought for forty years to carry into effect what he calls an idea, and if these alleged efforts not only show no positive results but have not even been able to hinder the success of the opposing party, then the story of those forty years of futile effort furnishes sufficient proof for the incompetence of such a protagonist. 
+<!-- Even later he could not be persuaded to change his opinion. But he was mistaken.  -->
 
-People  of that kind are specially dangerous because they do not want to participate in the movement as ordinary members. They talk rather of the leading positions which would be the only fitting posts for them, in view of their past work and also so that they might be enabled to carry on that work further. 
+<!-- Twenty minutes had been allotted to me for my speech on this occasion, which might be looked on as our first public meeting. -->
 
-But woe to a young movement if the conduct of it should fall into the hands of such people. A business man who has been in charge of a great firm for forty years and who has completely ruined it through his mismanagement is not the kind of person one would recommend for the founding of a new firm.
+I talked for 30 minutes about what I always had felt deep in my heart. My talk proved that I could make a good speech.
 
-It is just the same with a new national movement. Nobody of common sense would appoint to a leading post in such a movement some Teutonic Methuselah who had been ineffectively preaching some idea for a period of forty years, until himself and his idea had entered the stage of senile decay.
+ <!-- , without being able to put it to the test, was here proved to be true: .  -->
 
-Furthermore, only a very small percentage of such people join a new movement with the intention of serving its end unselfishly and helping in the spread of its principles. In most cases they come because they think that, under the aegis of the new movement, it will be possible for them to promulgate their old ideas to the misfortune of their new listeners. 
+<!-- At the end of the 30 minutes, it was clear that  -->
 
-Anyhow, nobody ever seems able to describe what exactly these ideas are.
+- All the people in the little hall had been profoundly impressed.
 
-It is typical of such persons that they rant about ancient Teutonic heroes of the dim and distant ages, stone axes, battle spears and shields, whereas in reality they themselves are the woefullest poltroons imaginable. For those very same people who brandish Teutonic tin swords that have been fashioned carefully according to ancient models and wear padded bear-skins, with the horns of oxen mounted over their bearded faces, proclaim that all contemporary conflicts must be decided by the weapons of the mind alone. 
+The enthusiasm aroused among them brought us donations of up to 300 marks. That was a great relief for us. 
 
-Thus they skedaddle when the first communist cudgel appears. Posterity will have little occasion to write a new epic on these heroic gladiators. 
+Our finances were at that time so meagre that we could not afford to have our party prospectus printed, or even leaflets. 
+
+Now we had the nucleus of a fund from which we could pay the most urgent and necessary expenses.
 
 
-I have seen too much of that kind of people not to feel a profound contempt for their miserable play-acting. To the masses of the nation they are just an object of ridicule; but the Jew finds it to his own interest to treat these folk-lore comedians with respect and to prefer them to real men who are fighting to establish a German State. And yet these
-comedians are extremely proud of themselves. 
 
-Notwithstanding their complete fecklessness, which is an established fact, they pretend to know everything better than other people; so much so that they make themselves a veritable nuisance to all sincere and honest patriots, to whom not only the heroism of the past is worthy of honour but who also feel bound to leave examples of their own work for the inspiration of the coming generation.
+But the success of this meeting was also important because I could now persuade many good comrades that I met in the military to join our party.
 
-Among those people there were some whose conduct can be explained by their innate stupidity and incompetence; but there are others who have a definite ulterior purpose in view. 
+ <!-- from another point of view. I had already begun to introduce some young and fresh members into the committee. -->
 
-Often it is difficult to distinguish between the two classes. The impression which I often get, especially of those so-called religious reformers whose creed is grounded on ancient Germanic customs, is that they are the missionaries and protégés of those forces which do not wish to see a national revival taking place in Germany. 
+<!-- During the long period of my military service, I had come to know  whom I was now able to .  -->
 
-All their activities tend to turn the attention of the people away from the necessity of fighting together in a common cause against the common enemy, namely the Jew.
+They were all energetic and disciplined young men. Through their years of military service, they had been imbued with the principle that:
+- nothing is impossible
+- where there's a will there's a way.
 
-Moreover, that kind of preaching induces the people to use up their energies, not in fighting for the common cause, but in absurd and ruinous religious controversies within their own ranks. 
+The need for this fresh blood supply became evident after a few weeks of collaboration with the new members. 
 
+Herr Harrer, who was then chairman of the party, was a journalist by profession. He had general knowledge. 
+
+But as leader of the party, he could not speak to the crowd.
+
+He did his work conscientiously. But it lacked the necessary driving force because he had no oratorical gifts whatsoever. 
+
+Herr Drexler, at that time chairman of the Munich local group, was a simple working man and not a great speaker. 
+- He was not a soldier.
+- He had never done military service, even during the War. 
+
+<!-- So that this man who was feeble and diffident by nature had missed the only school which knows how to transform diffident and weakly natures into real men.  -->
+
+Therefore neither of those two men were of the stuff to:
+- stir up an ardent and indomitable faith in the movement's ultimate triumph.
+- brush aside, with obstinate force and brutal ruthlessness, all obstacles. 
+
+Such a task could be carried out only by men who had been trained, body and soul, in those military virtues which make a man:
+- agile as a greyhound
+- tough as leather
+- hard as Krupp steel.
+
+Back then, I was still a soldier. 
+
+Physically and mentally I had the polish of six years of service. So I was a stranger to this circle.
+
+In common with my army comrades, I had forgotten such phrases as:
+- "That will not go"
+- "That is not possible"
+- "We should not take such a risk; it is too dangerous".
 
