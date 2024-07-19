@@ -25,13 +25,12 @@ Government and in the Army, especially those attached to headquarters in the Bav
 Army, merited the just reproof of having blindly neglected their duty and failed to take
 the necessary steps to counter such propaganda. But nothing was done. 
 
-On the
-contrary, in some quarters it did not appear to be quite unwelcome and probably they
+On the contrary, in some quarters it did not appear to be quite unwelcome and probably they
 were short-sighted enough to think that such propaganda might help along the
 development of unification in Germany but even that it might automatically bring
-about consolidation of the federative forces. Scarcely ever in history was such a wicked
-neglect more wickedly avenged. The weakening of Prussia, which they believed would
-result from this propaganda, affected the whole of Germany. It resulted in hastening the
+about consolidation of the federative forces. 
+
+Scarcely ever in history was such a wicked neglect more wickedly avenged. The weakening of Prussia, which they believed would result from this propaganda, affected the whole of Germany. It resulted in hastening the
 collapse which not only wrecked Germany as a whole but even more particularly the
 federal states.
 
@@ -39,16 +38,15 @@ In that town where the artificially created hatred against Prussia raged most vi
 the revolt against the reigning House was the beginning of the Revolution.
 It would be a mistake to think that the enemy propaganda was exclusively responsible
 for creating an anti-Prussian feeling and that there were no reasons which might excuse
-the people for having listened to this propaganda. The incredible fashion in which the
-national economic interests were organized during the War, the absolutely crazy system
-of centralization which made the whole REICH its ward and exploited the REICH, 
+the people for having listened to this propaganda. 
+
+The incredible fashion in which the national economic interests were organized during the War, the absolutely crazy system of centralization which made the whole REICH its ward and exploited the REICH, 
 furnished the principal grounds for the growth of that anti-Prussian feeling. The
 average citizen looked upon the companies for the placing of war contracts, all of which
 had their headquarters in Berlin, as identical with Berlin and Berlin itself as identical
-with Prussia. The average citizen did not know that the organization of these robber
-companies, which were called War Companies, was not in the hands of Berlin or
-Prussia and not even in German hands at all. People recognized only the gross
-irregularities and the continual encroachments of that hated institution in the
+with Prussia. 
+
+The average citizen did not know that the organization of these robber companies, which were called War Companies, was not in the hands of Berlin or Prussia and not even in German hands at all. People recognized only the gross irregularities and the continual encroachments of that hated institution in the
 Metropolis of the REICH and directed their anger towards Berlin and Prussia, all the
 more because in certain quarters (the Bavarian Government) nothing was done to
 correct this attitude, but it was even welcomed with silent rubbing of hands.
@@ -461,65 +459,39 @@ ultimate consequences, could not but lead to a profound alteration in the intern
 structure of the REICH. Bismarck's REICH was free and unhampered by any
 obligations towards the outside world.
 
-Bismarck's REICH never had to shoulder such heavy and entirely unproductive
-obligations as those to which Germany was subjected under the Dawes Plan. Also in
-domestic affairs Bismarck's REICH was able to limit its powers to a few matters that
-were absolutely necessary for its existence. Therefore it could dispense with the
-necessity of a financial control over these states and could live from their contributions.
+Bismarck's REICH never had to shoulder such heavy and entirely unproductive obligations as those to which Germany was subjected under the Dawes Plan. Also in domestic affairs Bismarck's REICH was able to limit its powers to a few matters that were absolutely necessary for its existence. 
+
+Therefore it could dispense with the necessity of a financial control over these states and could live from their contributions.
 On the other side the relatively small financial tribute which the federal states had to
 pay to the REICH induced them to welcome its existence. But it is untrue and unjust to
 state now, as certain propagandists do, that the federal states are displeased with the
 REICH merely because of their financial subjection to it. No, that is not how the matter
-really stands. The lack of sympathy for the political idea embodied in the REICH is not
-due to the loss of sovereign rights on the part of the individual states. It is much more
-the result of the deplorable fashion in which the present régime cares for the interests of
-the German people. Despite all the celebrations in honour of the national flag and the
-Constitution, every section of the German people feels that the present REICH is not in
-accordance with its heart's desire. And the Law for the Protection of the Republic may
-prevent outrages against republican institutions, but it will not gain the love of one
-single German. In its constant anxiety to protect itself against its own citizens by means
-of laws and sentences of imprisonment, the Republic has aroused sharp and
+really stands. 
+
+The lack of sympathy for the political idea embodied in the REICH is not due to the loss of sovereign rights on the part of the individual states. It is much more the result of the deplorable fashion in which the present régime cares for the interests of the German people. Despite all the celebrations in honour of the national flag and the Constitution, every section of the German people feels that the present REICH is not in
+accordance with its heart's desire. 
+
+The Law for the Protection of the Republic may prevent outrages against republican institutions, but it will not gain the love of one single German. In its constant anxiety to protect itself against its own citizens by means of laws and sentences of imprisonment, the Republic has aroused sharp and
 humiliating criticism of all republican institutions as such.
 
-For another reason also it is untrue to say, as certain parties affirm to-day, that the
-REICH has ceased to be popular on account of its overbearing conduct in regard to
-certain sovereign rights which the individual states had heretofore enjoyed. Supposing
-the REICH had not extended its authority over the individual states, there is no reason
-to believe that it would find more favour among those states if the general obligations
-remained so heavy as they now are. On the contrary, if the individual states had to pay
-their respective shares of the highly increased tribute which the REICH has to meet today in order to fulfil the provisions of the Versailles Dictate, the hostility towards the REICH would be infinitely greater. For then not only would it prove difficult to collect the respective contributions due to the REICH from the federal states, but coercive
-methods would have to be employed in making the collections. The Republic stands on
-the footing of the peace treaties and has neither the courage nor the intention to break
-them. That being so, it must observe the obligations which the peace treaties have
-imposed on it. The responsibility for this situation is to be attributed solely to those
-parties who preach unceasingly to the patient electoral masses on the necessity of
-maintaining the autonomy of the federal states, while at the same time they champion
-and demand of the REICH a policy which must necessarily lead to the suppression of
+For another reason also it is untrue to say, as certain parties affirm to-day, that the REICH has ceased to be popular on account of its overbearing conduct in regard to certain sovereign rights which the individual states had heretofore enjoyed. Supposing the REICH had not extended its authority over the individual states, there is no reason to believe that it would find more favour among those states if the general obligations
+remained so heavy as they now are. 
+
+On the contrary, if the individual states had to pay their respective shares of the highly increased tribute which the REICH has to meet today in order to fulfil the provisions of the Versailles Dictate, the hostility towards the REICH would be infinitely greater. For then not only would it prove difficult to collect the respective contributions due to the REICH from the federal states, but coercive methods would have to be employed in making the collections. The Republic stands on the footing of the peace treaties and has neither the courage nor the intention to break
+them. 
+
+That being so, it must observe the obligations which the peace treaties have imposed on it. The responsibility for this situation is to be attributed solely to those parties who preach unceasingly to the patient electoral masses on the necessity of maintaining the autonomy of the federal states, while at the same time they champion and demand of the REICH a policy which must necessarily lead to the suppression of
 even the very last of those so-called 'sovereign' rights. 
 
-I say NECESSARILY because the present REICH has no other possible means of bearing
-the burden of charges which an insane domestic and foreign policy has laid on it. Here
-still another wedge is placed on the former, to drive it in still deeper. Every new debt
-which the REICH contracts, through the criminal way in which the interests of
-Germany are represented VIS-À-VIS foreign countries, necessitates a new and stronger
-blow which drives the under wedges still deeper, That blow demands another step in
-the progressive abolition of the sovereign rights of the individual states, so as not to
-allow the germs of opposition to rise up into activity or even to exist.
-The chief characteristic difference between the policy of the present REICH and that of
-former times lies in this: The old REICH gave freedom to its people at home and
-showed itself strong towards the outside world, whereas the Republic shows itself
-weak towards the stranger and oppresses its own citizens at home. In both cases one
-attitude determines the other. A vigorous national State does not need to make many
-laws for the interior, because of the affection and attachment of its citizens. The
-international servile State can live only by coercing its citizens to render it the services it
-demands. And it is a piece of impudent falsehood for the present regime to speak of
-'Free citizens'. Only the old Germany could speak in that manner. The present Republic
-is a colony of slaves at the service of the stranger. At best it has subjects, but not citizens.
-Hence it does not possess a national flag but only a trade mark, introduced and
-protected by official decree and legislative measures. This symbol, which is the Gessler's
-cap of German Democracy, will always remain alien to the spirit of our people. On its
-side, the Republic having no sense of tradition or respect for past greatness, dragged the
-symbol of the past in the mud, but it will be surprised one day to discover how
+I say NECESSARILY because the present REICH has no other possible means of bearing the burden of charges which an insane domestic and foreign policy has laid on it. Here still another wedge is placed on the former, to drive it in still deeper. Every new debt which the REICH contracts, through the criminal way in which the interests of Germany are represented VIS-À-VIS foreign countries, necessitates a new and stronger blow which drives the under wedges still deeper, That blow demands another step in the progressive abolition of the sovereign rights of the individual states, so as not to allow the germs of opposition to rise up into activity or even to exist.
+
+The chief characteristic difference between the policy of the present REICH and that of former times lies in this: The old REICH gave freedom to its people at home and showed itself strong towards the outside world, whereas the Republic shows itself weak towards the stranger and oppresses its own citizens at home. In both cases one attitude determines the other. 
+
+A vigorous national State does not need to make many laws for the interior, because of the affection and attachment of its citizens. The international servile State can live only by coercing its citizens to render it the services it demands. 
+
+It is a piece of impudent falsehood for the present regime to speak of 'Free citizens'. Only the old Germany could speak in that manner. The present Republic is a colony of slaves at the service of the stranger. At best it has subjects, but not citizens. 
+
+Hence it does not possess a national flag but only a trade mark, introduced and protected by official decree and legislative measures. This symbol, which is the Gessler's cap of German Democracy, will always remain alien to the spirit of our people. On its side, the Republic having no sense of tradition or respect for past greatness, dragged the symbol of the past in the mud, but it will be surprised one day to discover how
 superficial is the devotion of its citizens to its own symbol. The Republic has given to
 itself the character of an intermezzo in German history. And so this State is bound
 constantly to restrict more and more the sovereign rights of the individual states, not
@@ -528,102 +500,61 @@ policy of financial blackmail, to squeeze the last ounce of substance out of its
 is forced also to take their last rights away from them, lest the general discontent may
 one day flame up into open rebellion.
 
-We, National Socialists, would reverse this formula and would adopt the following
-axiom: A strong national REICH which recognizes and protects to the largest possible
-measure the rights of its citizens both within and outside its frontiers can allow freedom
-to reign at home without trembling for the safety of the State. On the other hand, a
-strong national Government can intervene to a considerable degree in the liberties of
-the individual subject as well as in the liberties of the constituent states without thereby
-weakening the ideal of the REICH; and it can do this while recognizing its responsibility
-for the ideal of the REICH, because in these particular acts and measures the individual
-citizen recognizes a means of promoting the prestige of the nation as a whole. 
-Of course, every State in the world has to face the question of unification in its internal
-organization. And Germany is no exception in this matter. Nowadays it is absurd to
-speak of 'statal sovereignty' for the constituent states of the REICH, because that has
-already become impossible on account of the ridiculously small size of so many of these
-states. In the sphere of commerce as well as that of administration the importance of the
-individual states has been steadily decreasing. Modern means of communication and
-mechanical progress have been increasingly restricting distance and space. What was
-once a State is to-day only a province and the territory covered by a modern State had
-once the importance of a continent. The purely technical difficulty of administering a
-State like Germany is not greater than that of governing a province like Brandenburg a
-hundred years ago. And to-day it is easier to cover the distance from Munich to Berlin
-than it was to cover the distance from Munich to Starnberg a hundred years ago. In
-view of the modern means of transport, the whole territory of the REICH to-day is
-smaller than that of certain German federal states at the time of the Napoleonic wars. To
-close one's eyes to the consequences of these facts means to live in the past. There
-always were, there are and always will be, men who do this. They may retard but they
-cannot stop the revolutions of history.
+We, National Socialists, would reverse this formula and would adopt the following axiom: A strong national REICH which recognizes and protects to the largest possible measure the rights of its citizens both within and outside its frontiers can allow freedom to reign at home without trembling for the safety of the State. 
+
+On the other hand, a strong national Government can intervene to a considerable degree in the liberties of the individual subject as well as in the liberties of the constituent states without thereby weakening the ideal of the REICH; and it can do this while recognizing its responsibility for the ideal of the REICH, because in these particular acts and measures the individual citizen recognizes a means of promoting the prestige of the nation as a whole. 
+
+Of course, every State in the world has to face the question of unification in its internal organization. And Germany is no exception in this matter. Nowadays it is absurd to speak of 'statal sovereignty' for the constituent states of the REICH, because that has already become impossible on account of the ridiculously small size of so many of these states. 
+
+In the sphere of commerce as well as that of administration the importance of the individual states has been steadily decreasing. Modern means of communication and mechanical progress have been increasingly restricting distance and space. 
+
+What was once a State is to-day only a province and the territory covered by a modern State had once the importance of a continent. The purely technical difficulty of administering a State like Germany is not greater than that of governing a province like Brandenburg a hundred years ago. And to-day it is easier to cover the distance from Munich to Berlin than it was to cover the distance from Munich to Starnberg a hundred years ago. 
+
+In view of the modern means of transport, the whole territory of the REICH to-day is smaller than that of certain German federal states at the time of the Napoleonic wars. To close one's eyes to the consequences of these facts means to live in the past. There always were, there are and always will be, men who do this. They may retard but they cannot stop the revolutions of history.
 
 We, National Socialists, must not allow the consequences of that truth to pass by us
 unnoticed. In these matters also we must not permit ourselves to be misled by the
 phrases of our so-called national bourgeois parties. I say 'phrases', because these same
 parodies do not seriously believe that it is possible for them to carry out their proposals,
 and because they themselves are the chief culprits and also the accomplices responsible
-for the present state of affairs. Especially in Bavaria, the demands for a halt in the
-process of centralization can be no more than a party move behind which there is no
-serious idea. If these parties ever had to pass from the realm of phrase-making into that
-of practical deeds they would present a sorry spectacle. Every so-called 'Robbery of
-Sovereign Rights' from Bavaria by the REICH has met with no practical resistance,
-except for some fatuous barking by way of protest. Indeed, when anyone seriously
-opposed the madness that was shown in carrying out this system of centralization he
-was told by those same parties that he understood nothing of the nature and needs of
-the State to-day. They slandered him and pronounced him anathema and persecuted
-him until he was either shut up in prison or illegally deprived of the right of public
-speech. In the light of these facts our followers should become all the more convinced of
-the profound hypocrisy which characterizes these so-called federalist circles. To a
-certain extent they use the federalist doctrine just as they use the name of religion,
-merely as a means of promoting their own base party interests.
+for the present state of affairs. 
 
-A certain unification, especially in the field of transport, appears logical. But we,
-National Socialists, feel it our duty to oppose with all our might such a development in
-the modern State, especially when the measures proposed are solely for the purpose of
-screening a disastrous foreign policy and making it possible. And just because the
-present REICH has threatened to take over the railways, the posts, the finances, etc., not 
-from the high standpoint of a national policy, but in order to have in its hands the
-means and pledges for an unlimited policy of fulfilment--for that reason we, National
-Socialists, must take every step that seems suitable to obstruct and, if possible,
-definitely to prevent such a policy. We must fight against the present system of
-amalgamating institutions that are vitally important for the existence of our people,
-because this system is being adopted solely to facilitate the payment of milliards and
-the transference of pledges to the stranger, under the post-War provisions which our
-politicians have accepted.
+Especially in Bavaria, the demands for a halt in the process of centralization can be no more than a party move behind which there is no serious idea. If these parties ever had to pass from the realm of phrase-making into that of practical deeds they would present a sorry spectacle. Every so-called 'Robbery of
+
+Sovereign Rights' from Bavaria by the REICH has met with no practical resistance, except for some fatuous barking by way of protest. 
+
+When anyone seriously opposed the madness that was shown in carrying out this system of centralization he was told by those same parties that he understood nothing of the nature and needs of the State to-day. They slandered him and pronounced him anathema and persecuted him until he was either shut up in prison or illegally deprived of the right of public speech. 
+
+In the light of these facts our followers should become all the more convinced of the profound hypocrisy which characterizes these so-called federalist circles. To a certain extent they use the federalist doctrine just as they use the name of religion, merely as a means of promoting their own base party interests.
+
+A certain unification, especially in the field of transport, appears logical. But we, National Socialists, feel it our duty to oppose with all our might such a development in the modern State, especially when the measures proposed are solely for the purpose of screening a disastrous foreign policy and making it possible. 
+
+Just because the present REICH has threatened to take over the railways, the posts, the finances, etc., not  from the high standpoint of a national policy, but in order to have in its hands the means and pledges for an unlimited policy of fulfilment--for that reason we, National Socialists, must take every step that seems suitable to obstruct and, if possible, definitely to prevent such a policy. We must fight against the present system of amalgamating institutions that are vitally important for the existence of our people, because this system is being adopted solely to facilitate the payment of milliards and the transference of pledges to the stranger, under the post-War provisions which our politicians have accepted.
 
 For these reasons also the National Socialist Movement has to take up a stand against
 such tendencies.
 
-Moreover, we must oppose such centralization because in domestic affairs it helps to
-reinforce a system of government which in all its manifestations has brought the
-greatest misfortunes on the German nation. The present Jewish-Democratic REICH,
-which has become a veritable curse for the German people, is seeking to negative the
-force of the criticism offered by all the federal states which have not yet become imbued
+Moreover, we must oppose such centralization because in domestic affairs it helps to reinforce a system of government which in all its manifestations has brought the greatest misfortunes on the German nation. The present Jewish-Democratic REICH, which has become a veritable curse for the German people, is seeking to negative the force of the criticism offered by all the federal states which have not yet become imbued
 with the spirit of the age, and is trying to carry out this policy by crushing them to the
-point of annihilation. In face of this we National Socialists must try to ground the
-opposition of the individual states on such a basis that it will be able to operate with a
-good promise of success. We must do this by transforming the struggle against
-centralization into something that will be an expression of the higher interests of the
-German nation as such. Therefore, while the Bavarian Populist Party, acting from its
-own narrow and particularist standpoint, fights to maintain the 'special rights' of the
-Bavarian State, we ought to stand on quite a different ground in fighting for the same
-rights. Our grounds ought to be those of the higher national interests in opposition to
+point of annihilation. 
+
+In face of this we National Socialists must try to ground the opposition of the individual states on such a basis that it will be able to operate with a good promise of success. We must do this by transforming the struggle against centralization into something that will be an expression of the higher interests of the
+German nation as such. 
+
+Therefore, while the Bavarian Populist Party, acting from its own narrow and particularist standpoint, fights to maintain the 'special rights' of the Bavarian State, we ought to stand on quite a different ground in fighting for the same rights. Our grounds ought to be those of the higher national interests in opposition to
 the November Democracy.
 
 A still further reason for opposing a centralizing process of that kind arises from the
 certain conviction that in great part this so-called nationalization does not make for
 unification at all and still less for simplification. In many cases it is adopted simply as a
 means of removing from the sovereign control of the individual states certain
-institutions which they wish to place in the hands of the revolutionary parties. In
-German History favouritism has never been of so base a character as in the democratic
-republic. A great portion of this centralization to-day is the work of parties which once
-promised that they would open the way for the promotion of talent, meaning thereby
-that they would fill those posts and offices entirely with their own partisans. Since the
-foundation of the Republic the Jews especially have been obtaining positions in the
-economic institutions taken over by the REICH and also positions in the national
-administration, so that the one and the other have become preserves of Jewry.
-For tactical reasons, this last consideration obliges us to watch with the greatest
-attention every further attempt at centralization and fight it at each step. But in doing 
-this our standpoint must always be that of a lofty national policy and never a
-pettifogging particularism.
+institutions which they wish to place in the hands of the revolutionary parties. 
+
+In German History favouritism has never been of so base a character as in the democratic republic. A great portion of this centralization to-day is the work of parties which once promised that they would open the way for the promotion of talent, meaning thereby that they would fill those posts and offices entirely with their own partisans. 
+
+Since the foundation of the Republic the Jews especially have been obtaining positions in the economic institutions taken over by the REICH and also positions in the national administration, so that the one and the other have become preserves of Jewry. 
+
+For tactical reasons, this last consideration obliges us to watch with the greatest attention every further attempt at centralization and fight it at each step. But in doing this our standpoint must always be that of a lofty national policy and never a pettifogging particularism.
 
 This last observation is necessary, lest an opinion might arise among our own followers
 that we do not accredit to the REICH the right of incorporating in itself a sovereignty
@@ -633,31 +564,23 @@ substance, or content, is the essential thing. And that is the nation, the peopl
 therefore that every other interest must be subordinated to the supreme interests of the
 nation. In particular we cannot accredit to any other state a sovereign power and
 sovereign rights within the confines of the nation and the REICH, which represents the
-nation. The absurdity which some federal states commit by maintaining
-'representations' abroad and corresponding foreign 'representations' among
-themselves--that must cease and will cease. Until this happens we cannot be surprised if
-certain foreign countries are dubious about the political unity of the REICH and act
+nation. 
+
+The absurdity which some federal states commit by maintaining 'representations' abroad and corresponding foreign 'representations' among themselves--that must cease and will cease. Until this happens we cannot be surprised if certain foreign countries are dubious about the political unity of the REICH and act
 accordingly. The absurdity of these 'representations' is all the greater because they do
-harm and do not bring the slightest advantage. If the interests of a German abroad
-cannot be protected by the ambassador of the REICH, much less can they be protected
-by the minister from some small federal state which appears ridiculous in the
-framework of the present world order. The real truth is that these small federal states
-are envisaged as points of attack for attempts at secession, which prospect is always
-pleasing to a certain foreign State. We, National Socialists, must not allow some noble
-caste which has become effete with age to occupy an ambassadorial post abroad, with
+harm and do not bring the slightest advantage. 
+
+If the interests of a German abroad cannot be protected by the ambassador of the REICH, much less can they be protected by the minister from some small federal state which appears ridiculous in the framework of the present world order. The real truth is that these small federal states are envisaged as points of attack for attempts at secession, which prospect is always pleasing to a certain foreign State. We, National Socialists, must not allow some noble caste which has become effete with age to occupy an ambassadorial post abroad, with
 the idea that by engrafting one of its withered branches in new soil the green leaves
 may sprout again. Already in the time of the old REICH our diplomatic representatives
 abroad were such a sorry lot that a further trial of that experience would be out of the
 question.
 
-It is certain that in the future the importance of the individual states will be transferred
-to the sphere of our cultural policy. The monarch who did most to make Bavaria an
-important centre was not an obstinate particularist with anti-German tendencies, but
-Ludwig I who was as much devoted to the ideal of German greatness as he was to that
-of art. His first consideration was to use the powers of the state to develop the cultural
-position of Bavaria and not its political power. And in doing this he produced better
-and more durable results than if he had followed any other line of conduct. Up to this
-time Munich was a provincial residence town of only small importance, but he
+In the future the importance of the individual states will be transferred to the sphere of our cultural policy. The monarch who did most to make Bavaria an important centre was not an obstinate particularist with anti-German tendencies, but Ludwig I who was as much devoted to the ideal of German greatness as he was to that of art. 
+
+His first consideration was to use the powers of the state to develop the cultural position of Bavaria and not its political power. And in doing this he produced better and more durable results than if he had followed any other line of conduct. 
+
+Up to this time, Munich was a provincial residence town of only small importance, but he
 transformed it into the metropolis of German art and by doing so he made it an
 intellectual centre which even to-day holds Franconia to Bavaria, though the
 Franconians are of quite a different temperament. If Munich had remained as it had
@@ -699,6 +622,7 @@ must be greeted with joy. In view of the size of the present army of the REICH, 
 be absurd to maintain the federal divisions among the troops. Moreover, in the
 unification of the German army which has actually been effected we see a fact which we
 must not renounce but restore in the future national army.
+
 Finally a new and triumphant idea should burst every chain which tends to paralyse its
 efforts to push forward. National Socialism must claim the right to impose its principles
 on the whole German nation, without regard to what were hitherto the confines of
@@ -706,14 +630,16 @@ federal states. And we must educate the German nation in our ideas and principle
 the Churches do not feel themselves bound or limited by political confines, so the
 National Socialist Idea cannot feel itself limited to the territories of the individual
 federal states that belong to our Fatherland. 
-The National Socialist doctrine is not handmaid to the political interests of the single
-federal states. One day it must become teacher to the whole German nation. It must
-determine the life of the whole people and shape that life anew. For this reason we must
-imperatively demand the right to overstep boundaries that have been traced by a
-political development which we repudiate.
+
+The National Socialist doctrine is not handmaid to the political interests of the single federal states. 
+
+<!-- One day it must become teacher to the whole German nation.  -->
+
+It must determine the life of the whole people and shape that life anew. For this reason we must imperatively demand the right to overstep boundaries that have been traced by a political development which we repudiate.
+
 The more completely our ideas triumph, the more liberty can we concede in particular
 affairs to our citizens at home. 
-Notes
-[Note 22. Before 1918 Germany was a federal Empire, composed of twenty-five federal
-states.] 
 
+### Notes
+
+[Note 22. Before 1918 Germany was a federal Empire, composed of 25 federal states.] 

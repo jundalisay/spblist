@@ -22,7 +22,7 @@
     {{ range .Site.Menus.main }}
       <li class="grid place-items-center">
         <a href="{{ .URL | relLangURL }}">
-          <span style="font-size: 8px;">{{ .Name }}</span>
+          <span style="font-size: 10px; text-transform: uppercase;">{{ .Name }}</span>
         </a>
       </li>
     {{ end }}

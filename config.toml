@@ -36,32 +36,38 @@ paginate = 12
         url = "bio/"
         weight = 4
     [[languages.en.menu.main]]
-        name = "Supersociology"
+        name = "Sociology"
         # name = "/icons/spsoc.png"
         url = "social/supersociology/"
         weight = 5
     [[languages.en.menu.main]]
-        name = "/icons/specon.png"
+        name = "Economics"
+        # name = "/icons/specon.png"
         url = "social/economics/"
         weight = 6
     [[languages.en.menu.main]]
-        name = "/icons/spi.png"
+        name = "Spiritual"
+        # name = "/icons/spi.png"
         url = "spiritual/"
         weight = 7
     [[languages.en.menu.main]]
-        name = "/icons/cycles.png"
+        name = "Cycles"
+        # name = "/icons/cycles.png"
         url = "social/cycles/"
         weight = 9
     [[languages.en.menu.main]]
-        name = "/icons/question.png"
+        name = "FAQs"
+        # name = "/icons/question.png"
         url = "faqs/"
         weight = 11
     [[languages.en.menu.main]]
-        name = "/icons/about.png"
+        name = "News"
+        # name = "/icons/about.png"
         url = "news/"
         weight = 13
     [[languages.en.menu.main]]
-        name = "/icons/heart.png"
+        name = "Help!"
+        # name = "/icons/heart.png"
         url = "help/"
         weight = 15
     [languages.en.params]
@@ -499,11 +505,13 @@ paginate = 12
     weight = 2
     languageName = "عربي"
     [[languages.ar.menu.main]]
-      name = "/icons/question.png"
+      name = "FAQs"
+      # name = "/icons/question.png"
       url = "faqs"
       weight = 8
     [[languages.ar.menu.main]]
-      name = "/icons/about.png"
+      name = "About"
+      # name = "/icons/about.png"
       url = "news"
       weight = 9
     [[languages.ar.menu.main]]
