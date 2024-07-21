@@ -14,15 +14,61 @@ General Notion of Logic
 
 § 33
 
-In no science is the need to begin with the subject matter itself, without preliminary reflections, felt more strongly than in the science of logic. In every other science the subject matter and the scientific method are distinguished from each other; also the content does not make an absolute beginning but is dependent on other concepts and is connected on all sides with other material. These other sciences are, therefore, permitted to speak of their ground and its context and also of their method, only as premises taken for granted which, as forms of definitions and such-like presupposed as familiar and accepted, are to be applied straight-way, and also to employ the usual kind of reasoning for the establishment of their general concepts and fundamental determinations.
+The science of logic begins with the subject matter itself, without preliminary reflections. 
+
+In other sciences:
+- the subject matter and the scientific method are distinguished from each other.
+- the content does not make an absolute beginning but is dependent on other concepts and is connected on all sides with other material. 
+
+These other sciences can speak of:
+- their ground
+- its context
+- their method
+
+But these are only premises taken for granted. These form definitions that:
+- are familiar and accepted
+- can be applied straight-way
+- are employed with the usual kind of reasoning to establish their general concepts and fundamental determinations.
+
 
 § 34
 
-Logic on the contrary, cannot presuppose any of these forms of reflection and laws of thinking, for these constitute part of its own content and have first to be established within the science. But not only the account of scientific method, but even the Notion itself of the science as such belongs to its content, and in fact constitutes its final result; what logic is cannot be stated beforehand, rather does this knowledge of what it is first emerge as the final outcome and consummation of the whole exposition. Similarly, it is essentially within the science that the subject matter of logic, namely, thinking or more specifically comprehensive thinking is considered; the Notion of logic has its genesis in the course of exposition and cannot therefore be premised. Consequently, what is premised in this Introduction is not intended, as it were, to establish the Notion of Logic or to justify its method scientifically in advance, but rather by the aid of some reasoned and historical explanations and reflections to make more accessible to ordinary thinking the point of view from which this science is to be considered.
+Logic on the contrary, cannot presuppose any of these:
+- forms of reflection 
+- laws of thinking.
+
+This is because these:
+- constitute part of its own content
+- have first to be established within the science. 
+
+But not only the account of scientific method, but even the Notion itself of the science as such belongs to its content, and in fact constitutes its final result; 
+
+What logic is cannot be stated beforehand.
+
+The knowledge of logic does not even arise at the final outcome and consummation of the whole exposition. 
+
+The subject matter of the science of logic considers comprehensive thinking.
+
+Because logic has its genesis in the course of exposition, it cannot be premised. 
+
+Consequently, the premise of this Introduction is to use some historical explanations and reflections about  ordinary thinking.
+
+<!--  the point of view from which this science is to be considered.
+
+ is not intended, as it were, to establish the Notion of Logic or to justify its method scientifically in advance, but rather by the aid of some reasoned and  -->
 
 § 35
 
-When logic is taken as the science of thinking in general, it is understood that this thinking constitutes the mere form of a cognition that logic abstracts from all content and that the so-called second constituent belonging to cognition, namely its matter, must come from somewhere else; and that since this matter is absolutely independent of logic, this latter can provide only the formal conditions of genuine cognition and cannot in its own self contain any real truth, not even be the pathway to real truth because just that which is essential in truth, its content, lies outside logic.®
+We consider logic as the science of thinking in general.
+
+This thinking constitutes the mere form of a cognition that logic abstracts from all content. This creates matter which comes from somwhere else. 
+
+ <!-- and that the so-called second constituent belonging to cognition, namely its matter, must come from somewhere else; and that since  -->
+
+This matter is absolutely independent of logic.
+
+This indpendence of matter can provide only the formal conditions of genuine cognition and cannot in its own self contain any real truth, not even be the pathway to real truth because just that which is essential in truth, its content, lies outside logic.®
+
 
 § 36
 

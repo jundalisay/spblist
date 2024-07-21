@@ -41,19 +41,28 @@ I remembered that a crystal prism makes similar ones appear.
 
 It was like `MNP` here, whose two surfaces `MN` and `NP` are all flat. They are inclined one over the other at an angle of 30-40 degrees. 
 
-If the rays of the sun `ABC` pass through `MN` at right angles, or nearly right angles, and thus do not suffer any noticeable refraction, they must suffer a fairly large one when leaving by `NP`. 
+{{< i s="/graphics/physics/prism.jpg" a="candle light" >}}
 
-Covering one of these two surfaces with an opaque body, in which there was a fairly narrow opening like `DE`, I observed that the rays, passing through this opening and from there going to a white cloth or paper FGH, paint all the colors of the rainbow on it.
 
-They always paint the red towards `F`, and the blue or violet towards `H`. 
+The rays of the sun `ABC` pass through `MN` at right angles, or nearly right angles. Thus, they do not suffer any noticeable refraction.
 
-From this I learned
+But they must be largely refracted when leaving by `NP`. 
 
-1. The curvature of the surfaces of water drops is not necessary to produce these colors.
+I covered one of these two surfaces with an opaque body with a narrow opening like `DE`. I then put a white paper `FGH`
 
-This is because those of this crystal are all flat. 
+The rays that passed through this opening to the paper paint all the colors of the rainbow on it.
 
-2. The size of the angle under which they appear are not necessary. 
+They always paint:
+- the red towards `F`
+- the blue or violet towards `H`. 
+
+From this I learned:
+
+1. **The curvature of the surfaces of water drops is not necessary to produce these colors.**
+
+This is because the surfaces of this crystal are all flat. 
+
+2. **The size of the angle under which they appear are not necessary.** 
 
 The angle can be changed here without them changing. It can be done so that the rays that go towards `F` bend sometimes more and sometimes less than those that go towards `H`. 
 
@@ -63,27 +72,30 @@ Yet:
 
 There is no reflection either. 
 
-3. The plurality of refractions is not necessary
+3. **The plurality of refractions is not necessary**
 
 There is only one here. 
 
 But I judged that at least one was needed, and even one whose effect was not destroyed by a contrary one.
 
-If the surfaces `MN` and `NP` were parallel, the rays straightening as much in one as they could bend in the other, would not produce these colors.
+If the surfaces `MN` and `NP` were parallel, the rays would not produce these colors because they would straighten in one as they could bend in the other.
 
 <!-- Light was necessary.
 
 ; for without it nothing is seen. And besides that I observed that shadow, or limitation to this light was necessary.  -->
 
-The limitation of this light was necessary. 
+**The limitation of this light was necessary.**
 
-If the opaque body that is on `NP` is removed, the colors `FGH` cease to appear.
+If the opaque body that is on `NP` is removed, the colors on the paper cease to appear.
 
-If the opening `DE` is made large enough, the red, orange, and yellow, which are towards `F`, do not extend any further for that, nor do the green, blue, and violet, which are towards `H`, but all the rest of the space which is between two towards `G` remains white.
+If the opening `DE` is made large enough:
+- the red, orange, and yellow, which are towards `F`, do not extend any further 
+- the green, blue, and violet, which are towards `H`also do not extend any further
+- all the rest of the space which is between two towards `G` remains white.
 
 Why are these colors different towards `H` than towards `F`, although refraction and shadow and light concur in the same way?
 
-I found that it is because of the action or movement of the fire-aether as particles of small balls that roll in the pores of earthly bodies.
+This is because of the action or movement of the fire-aether as particles of small balls that **roll in the pores of earthly bodies**.
 <!--  And conceiving the nature of light as I have described it in Optics, namely, as 
 a certain very subtle matter -->
 
@@ -94,9 +106,23 @@ These balls can roll in various ways, according to the various causes that deter
 
 **But when they have no neighbors that move faster or slower than them, their rotation is only approximately equal to their movement in a straight line.**
 
-Instead of when they have some on one side that move less quickly, and on the other that move more or equally quickly, as happens at the confines of shadow and light; 
+They form the blue `EH` ray when they have some neighbors on one side that move faster.
+- This makes then roll more slowly.
 
-if they meet those that move less quickly, on the side towards which they roll, as do those that make up the `EH` ray, this is because they do not turn as quickly, that they move in a straight line; and it is quite the opposite when they meet them on the other side as do those of the DF ray.
+They form the red `DF` ray when they have some neighbors on one side that move slower.
+- This makes then roll faster.
+
+ <!-- and on the other that move more or equally quickly, as happens at the confines of shadow and light;  -->
+
+if they meet those that move less quickly, on the side towards which they roll, as do those that make up the `EH` ray, this is because they do not turn as quickly, that they move in a straight line; and it is quite the opposite when they meet them on the other side as do those of the red DF ray.
 
 
 
+
+"And in particular that all refractions occurring towards the same side determine them to turn in the same direction; But that when they do not have neighbors moving notably faster or slower than themselves, their rotation is approximately equal to their straight-line motion; 
+
+Whereas when they have on one side neighbors moving slower, and on the other side neighbors moving faster or equally fast, as happens at the boundaries of shadow and light; 
+
+if they encounter those moving slower on the side towards which they roll, like those composing the ray EH, this causes them to rotate slower.. not to rotate as swiftly as they move straight; 
+
+and it is quite the opposite when they encounter them on the other side, like those of the ray DF."

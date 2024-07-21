@@ -44,7 +44,7 @@ This is what most NGOs favor.
 The first and most doable step is Reforestation and Afforestation. This matches the solution from the most enlightened philosophers to simply plant a lot of trees to combat climate change:
 
 {{< q a="Hume" >}}
-Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is become warmer than before. This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled.
+Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is becoming warmer than before. This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled.
 {{< /q >}}
 
 {{< q a="Sarkar" >}}
@@ -79,7 +79,9 @@ For example, a person can lease an Android smartphone for $100 from a shop. Afte
 
 {{< img src="/photos/tech/phone.jpg" alt="Phone" >}}
 
-The shop will then return the phone to the manufacturer for recycling. **The contract will prevent the lessee from switching brands.**
+The shop will then return the phone to the manufacturer for recycling. **The contract will prevent the lessee from switching brands.** 
+
+Currently, contracts exist under the telecom service providers, not the phone manufacturer. In a usufruct economy, telecom services will have one service provider made up of a semi state-owned corporation. 
 
 
 #### For Real Estate

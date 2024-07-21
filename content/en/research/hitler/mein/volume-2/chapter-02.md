@@ -13,7 +13,8 @@ IN 1920-1921 the effete bourgeois class accused our movement again and again of 
 <!-- For that reason the motley gang of camp followers attached to the various political parties, representing a heterogeneous conglomeration of political views, assumed the right of utilizing all available means to suppress the protagonists of this
 young movement which was preaching a new political gospel.  -->
 
-<!-- Our opponents deliberately ignored the fact that  -->
+<!-- Our opponents deliberately ignored the fact tha
+  t  -->
 
 But the bourgeois class itself had no uniform opinion as to what the State really meant.
 
@@ -77,9 +78,7 @@ Its venerable age no longer protects it from being criticized in the light of mo
 The chief representatives of this theory of the State are to be found among the average German bourgeoisie, especially our liberal democrats.
 
 
-3. The State is to  realization of tendencies that arise from a policy of power, on the part of a people who are 
-
-ethnically homogeneous and with the same language. 
+3. The State is to realize the tendencies that arise from a policy of power, on the part of a people who are ethnically homogeneous and with the same language. 
 
 The third group is numerically the smallest. 
 
