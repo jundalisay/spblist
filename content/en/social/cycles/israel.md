@@ -15,12 +15,28 @@ weight: 93
 ---
 
 
-Current Cycle | Years per Cycle | Social Age
---- | --- | ---
-Negative Thinker  | 12 | ?
+Current Cycle | Years per Day | Current Week | Current Month | Current Year
+--- | --- | --- | --- | --- 
+Negative Thinker  | 12 | 3 | 2 | 5
 
 
-![Israeli Flag](/flags/il.png)
+{{< i s="/flags/il.png" a="Israeli Flag" >}}
+
+
+Israel is the easiest country to plot because its history has been recorded by both the Romans and Arabs.
+
+It is currently in the of the 3rd day of the 2nd week of the 2nd month of the 5th year that began with Moses and the exodus from Egypt.
+
+
+{{< b >}}
+- A social day is around 12-20 earth-years (revolution around the sun).
+- A week is 4 days.
+- A month is 4 weeks.
+- A year is 4 months.
+{{< /b >}}
+
+
+### The Gaza War
 
 Hamas attacked Israel in Operation Al-Aqsa Flood on October 7, 2023. It came as a shock that they could penetrate so easily into Israel and kill so many innocent people. 
 
@@ -91,9 +107,29 @@ Laws are just encapsulations of the feelings of the leaders at the time when the
 
 Printing allowed people to express their feelings and make policy suggestions. This led to the representative form of lawmaking. 
 
-So the key solution to the conflict is to make a new book that has both the feelings of the Torah and the Quran. We will call it as the "Unified Book". It will have the important principles in both Judaism and Islam such as God, civil law, Judgement Day, etc.  
 
-It will not be a religious book, but rather a moral or philosophical one. Below is the proposed schedule for such changes which goes with the cycles of Israel. 
+### Has the Promise of Self-Preservation Baked In
+
+The key solution to the conflict is to make a new book that has both the feelings of the Torah and the Quran. We will call it as the "Unified Book". 
+
+It will have the important principles in both Judaism and Islam such as God, civil law, Judgement Day, etc.  More importantly, it will guarantee the mutual-preservation of the Jewish and Palestinian races. This is because it is easy to notice that self-preservation is the common theme with:
+- Judaism
+- Islam
+- Nazism 
+
+These three see their own race or belief system as so superior to others, killing those other races that threatened them:
+- Moses ordered the Levites to kill fellow Jews 
+- The Prophet Mohammad ordered the killing of the Banu Qurayza
+- Nazism killed many Jews during the Holocaust
+
+
+This superiority comes from a natural negative coping mechanism in a negative environment:
+- The Jews were refugees and were later destroyed many times by other kingdoms
+- Islam had to fight tooth and nail during its conquest
+- Nazism began from the German defeat in World War II
+
+
+The Unified Book will not be a religious, but rather a moral or philosophical one. Below is the proposed schedule for such changes which goes with the cycles of Israel. 
 
 
 Phase: Year | Policy 

@@ -80,6 +80,31 @@ These ‘types’ are generally known as varnas in Hinduism and the social class
 Historical events are used as ‘markers’ for plotting the flow of this mentality, which can be used as training data for Artificial Intelligence to better crunch all events together to form more accurate mentalities and therefore predictions.
 
 
+## Social Years, Months, Weeks, Days
+
+A social day is around 12-20 earth-years (revolution around the sun).
+
+A week is 4 days.
+
+A month is 4 weeks.
+
+A year is 4 months.
+
+This gives us the following ranges:
+
+Timespan | Min | Max
+--- | --- |---
+Day | 12 | 20
+Week | 48 | 80
+Month | 192 | 320
+Year | 768 | 1280
+
+For example:
+- Israel is currently in the 5th year from the start of their society which began around 1300's BC as their exodus from Egypt.
+- Russia is on the 5th week from the start of the Russian Empire of Catherine the Great.
+- The Philippines is on the 2nd month as Westernized Maharlika
+
+
 ## Some Countries are Easy to Predict, Some are Difficult
 
 It's easy to make accurate predictions for the USA because there is a lot of consistent, historical data from its inception in 1776 up to today. However, it's difficult to make predictions for:
