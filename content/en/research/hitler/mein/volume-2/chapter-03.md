@@ -80,10 +80,4 @@ The German girl is a subject of the State but will become a citizen when she mar
 
 ### Notes
 
-[Note 16. The last and most famous of the medieval alchemists. He was born at
-Basleabout the year 1490 and died at Salzburg in 1541. He taught that all metals could
-be transmuted through the action of one primary element common to them all. This
-element he called ALCAHEST. If it could be found it would proveto be at once the
-philosopher's stone, the universal medicine and their resistible solvent. There are many
-aspects of his teaching which are now looked upon as by no means so fantastic as they
-were considered in his own time.] 
+[Note 16. The last and most famous of the medieval alchemists. He was born at Basleabout the year 1490 and died at Salzburg in 1541. He taught that all metals could be transmuted through the action of one primary element common to them all. This element he called ALCAHEST. If it could be found it would proveto be at once the philosopher's stone, the universal medicine and their resistible solvent. There are many aspects of his teaching which are now looked upon as by no means so fantastic as they were considered in his own time.] 

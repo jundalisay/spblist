@@ -12,75 +12,88 @@ icon: /avatars/hitler.jpg
 
 One undertakes such a struggle when there is a possibility of success. 
 
-The moment a besieged fortress is taken by assault there is no practical alternative left to the defenders except to surrender, if instead of probable death they are assured that their lives will be spared. Let the garrison of a citadel which has been completely encircled by the enemy once lose all hope of being delivered by their friends, then the strength of the defence collapses totally. 
+The moment a besieged fortress is taken by assault there is no practical alternative left to the defenders except to surrender, if instead of probable death they are assured that their lives will be spared. 
 
-That is why passive resistance in the Ruhr, when one considers the final consequences which it might and must necessarily have if it were to turn out really successful, had no practical meaning unless an active front had been organized to support it. 
+Let the garrison of a citadel which has been completely encircled by the enemy once lose all hope of being delivered by their friends, then the strength of the defence collapses totally. 
 
-Then one might have demanded immense efforts from our people. If each of these Westphalians in the Ruhr could have been assured that the home country had mobilized an army of eighty or a hundred divisions to support them, the French would have found themselves treading on thorns. Surely a greater number of courageous men could be found to sacrifice themselves for a successful enterprise than for an enterprise that was
-manifestly futile.
+That is why passive resistance in the Ruhr had no practical meaning unless an active front had been organized to support it. 
 
-This was the classic occasion that induced us National Socialists to take up a resolute
-stand against the so-called national word of command. And that is what we did. During
-those months I was attacked by people whose patriotism was a mixture of stupidity and
-humbug and who took part in the general hue and cry because of the pleasant sensation
-they felt at being suddenly enabled to show themselves as nationalists, without running
-any danger thereby. In my estimation, this despicable 'united front' was one of the most
-ridiculous things that could be imagined. And events proved that I was right.
+<!-- when one considers the final consequences which it might and must necessarily have if it were to turn out really successful, -->
 
-As soon as the Trades Unions had nearly filled their treasuries with Cuno's
-contributions, and the moment had come when it would be necessary to transform the
-passive resistance from a mere inert defence into active aggression, the Red hyenas
-suddenly broke out of the national sheepfold and returned to be what they always had
-been. Without sounding any drums or trumpets, Herr Cuno returned to his ships.
+
+Then one might have demanded immense efforts from our people. 
+
+If each of these Westphalians in the Ruhr could have been assured that the home country had mobilized an army of eighty or a hundred divisions to support them, the French would have found themselves treading on thorns. Surely a greater number of courageous men could be found to sacrifice themselves for a successful enterprise than for an enterprise that was manifestly futile.
+
+This was the classic occasion that induced us National Socialists to take up a resolute stand against the so-called national word of command. And that is what we did. 
+
+During those months I was attacked by people whose patriotism was a mixture of stupidity and humbug and who took part in the general hue and cry because of the pleasant sensation they felt at being suddenly enabled to show themselves as nationalists, without running any danger thereby. In my estimation, this despicable 'united front' was one of the most ridiculous things that could be imagined. 
+
+Events proved that I was right. 
+
+As soon as the Trades Unions had nearly filled their treasuries with Cuno's contributions, and the moment had come when it would be necessary to transform the passive resistance from a mere inert defence into active aggression, the Red hyenas suddenly broke out of the national sheepfold and returned to be what they always had been. Without sounding any drums or trumpets, Herr Cuno returned to his ships.
 
 Germany was richer by one experience and poorer by the loss of one great hope.
 
-Up to midsummer of that year several officers, who certainly were not the least brave
-and honourable of their kind, had not really believed that the course of things could
-take a turn that was so humiliating. They had all hoped that--if not openly, then at least
-secretly--the necessary measures would be taken to make this insolent French invasion
-a turning-point in German history. In our ranks also there were many who counted at
-least on the intervention of the REICHSWEHR. That conviction was so ardent that it
-decisively influenced the conduct and especially the training of innumerable young
-men.
+Up to midsummer of that year, several brave officers had not really believed that things could become so humiliating. 
 
-But when the disgraceful collapse set in and the most humiliating kind of capitulation was made, indignation against such a betrayal of our unhappy country broke out into a blaze. Millions of German money had been spent in vain and thousands of young Germans had been sacrificed, who were foolish enough to trust in the promises made by the rulers of the REICH. Millions of people now became clearly convinced that
-Germany could be saved only if the whole prevailing system were destroyed root and
-branch. 
+They had all hoped that--if not openly, then at least secretly--the necessary measures would be taken to make this insolent French invasion a turning-point in German history. 
 
-There never had been a more propitious moment for such a solution. On the one side an act of high treason had been committed against the country, openly and shamelessly. 
+In our ranks also there were many who counted at least on the intervention of the REICHSWEHR. 
 
-On the other side a nation found itself delivered over to die slowly of hunger. Since the State itself had trodden down all the precepts of faith and loyalty, made a mockery of the rights of its citizens, rendered the sacrifices of millions of its most loyal sons fruitless and robbed other millions of their last penny, such a State could no longer expect anything but hatred from its subjects. 
+<!-- That conviction was so ardent that it decisively influenced the conduct and especially the training of innumerable young
+men. -->
+
+But when the disgraceful collapse set in and the most humiliating kind of capitulation was made, indignation against such a betrayal of our unhappy country broke out into a blaze. 
+
+Millions of German money had been spent in vain and thousands of young Germans had been sacrificed.
+
+<!-- , who were foolish enough to trust in the promises made by the rulers of the REICH.  -->
+
+Millions now became convinced that Germany could be saved only if the whole prevailing system were destroyed root and branch. 
+
+<!-- There never had been a more propitious moment for such a solution.  -->
+
+- On one side, high treason had been committed against the country, openly and shamelessly. 
+- On the other side a nation found itself delivered over to die slowly of hunger. 
+
+<!-- Since the State itself had trodden down all the precepts of faith and loyalty, made a mockery of the rights of its citizens, rendered the sacrifices of millions of its most loyal sons fruitless and robbed other millions of their last penny, such a State could no longer expect anything but hatred from its subjects. 
 
 This hatred against those who had ruined the people and the country was bound to find an outlet in one form or another. 
 
 In this connection I shall quote here the concluding sentence of a speech which I delivered at
-the great court trial that took place in the spring of 1924.
+the great court trial that took place in the spring of 1924. -->
 
-"The judges of this State may tranquilly condemn us for our conduct at that time, but History, the goddess of a higher truth and a better legal code, will smile as she tears up this verdict and will acquit us all of the crime for which this verdict demands punishment."
+{{< q a="Hitler" c="Speech in 1924" >}}
+The judges of this State may tranquilly condemn us for our conduct at that time, but History will smile as she tears up this verdict and will acquit us."
+{{< /q >}}
+<!-- , the goddess of a higher truth and a better legal code, all of the crime for which this verdict demands punishment -->
 
+<!-- But History will then also summon before its own tribunal those who, invested with power to-day, have trampled on law and justice, condemning our people to misery and ruin, and who, in the hour of their country's misfortune, took more account of their own ego than of the life of the community. -->
 
-But History will then also summon before its own tribunal those who, invested with power to-day, have trampled on law and justice, condemning our people to misery and ruin, and who, in the hour of their country's misfortune, took more account of their own ego than of the life of the community.
+<!-- Here I shall not relate the course of events which led to November 8th, 1923, and closed
+with that date. 
 
-Here I shall not relate the course of events which led to November 8th, 1923, and closed
-with that date. I shall not do so because I cannot see that this would serve any beneficial
+I shall not do so because I cannot see that this would serve any beneficial
 purpose in the future and also because no good could come of opening old sores that
 have been just only closed. 
 
-Moreover, it would be out of place to talk about the guilt of men who perhaps in the depths of their hearts have as much love for their people as I myself, and who merely did not follow the same road as I took or failed to recognize it as the right one to take.
+Moreover, it would be out of place to talk about the guilt of men who perhaps in the depths of their hearts have as much love for their people as I myself, and who merely did not follow the same road as I took or failed to recognize it as the right one to take. -->
 
 In the face of the great misfortune which has befallen our fatherland and affects all us, I must abstain from offending and perhaps disuniting those men who must at some future date form one great united front which will be made up of true and loyal Germans and which will have to withstand the common front presented by the enemy of our people. 
 
-A time will come when those who then treated us as enemies will venerate the men who trod the bitter way of death for the sake of their people.
+<!-- A time will come when those who then treated us as enemies will venerate the men who trod the bitter way of death for the sake of their people. -->
 
-I have dedicated the first volume of this book to our eighteen fallen heroes. Here at the
-end of this second volume let me again bring those men to the memory of the adherents
-and champions of our ideals, as heroes who, in the full consciousness of what they were
-doing, sacrificed their lives for us all. 
+I have dedicated:
+- volume 1 of this book to our 18 fallen heroes. 
+- volume 2 to the Dietrich Eckart and the adherents and champions of our ideals
 
-We must never fail to recall those names in order to encourage the weak and wavering among us when duty calls, that duty which they fulfilled with absolute faith, even to its extreme consequences. Together with those, and as one of the best of all, I should like to mention the name of a man who devoted his life
+<!-- Here at the end of this second volume let me again bring those men to the memory of , as heroes who, in the full consciousness of what they were
+doing, sacrificed their lives for us all.  -->
+
+<!-- We must never fail to recall those names in order to encourage the weak and wavering among us when duty calls, that duty which they fulfilled with absolute faith, even to its extreme consequences. Together with those, and as one of the best of all, I should like to mention the name of a man who devoted his life
 to reawakening his and our people, through his writing and his ideas and finally
-through positive action. I mean: Dietrich Eckart. 
+through positive action. I mean: .  -->
 
 
 ### EPILOGUE 

@@ -17,46 +17,25 @@ frontiers.
 
 No. The fact that the German people carried on the War proved that the Marxist folly had not yet been able to penetrate deeply. But as the War was prolonged German soldiers and workers gradually fell back into the hands of the Marxist leaders, and the number of those who thus relapsed became lost to their country.
 
-At the beginning of the War, or even during the War, if twelve or fifteen thousand of these
-Jews who were corrupting the nation had been forced to submit to poison-gas, just as
-hundreds of thousands of our best German workers from every social stratum and from
-every trade and calling had to face it in the field, then the millions of sacrifices made at 
-the front would not have been in vain. On the contrary: If twelve thousand of these
-malefactors had been eliminated in proper time probably the lives of a million decent
-men, who would be of value to Germany in the future, might have been saved. But it
+At the beginning of the War, or even during the War, if twelve or fifteen thousand of these Jews who were corrupting the nation had been forced to submit to poison-gas, just as hundreds of thousands of our best German workers from every social stratum and from every trade and calling had to face it in the field, then the millions of sacrifices made at  the front would not have been in vain. 
+
+On the contrary: If twelve thousand of these malefactors had been eliminated in proper time probably the lives of a million decent men, who would be of value to Germany in the future, might have been saved. But it
 was in accordance with bourgeois 'statesmanship' to hand over, without the twitch of
-an eyelid, millions of human beings to be slaughtered on the battlefields, while they
-looked upon ten or twelve thousand public traitors, profiteers, usurers and swindlers,
-as the dearest and most sacred national treasure and proclaimed their persons to be
-inviolable. Indeed it would be hard to say what is the most outstanding feature of these
-bourgeois circles: mental debility, moral weakness and cowardice, or a mere down-atheel mentality. It is a class that is certainly doomed to go under but, unhappily, it drags
-down the whole nation with it into the abyss.
+an eyelid, millions of human beings to be slaughtered on the battlefields, while they looked upon ten or twelve thousand public traitors, profiteers, usurers and swindlers, as the dearest and most sacred national treasure and proclaimed their persons to be inviolable.
 
-The situation in 1923 was quite similar to that of 1918. No matter what form of
-resistance was decided upon, the first prerequisite for taking action was the elimination
-of the Marxist poison from the body of the nation. And I was convinced that the first
-task then of a really National Government was to seek and find those forces that were
-determined to wage a war of destruction against Marxism and to give these forces a free
-hand. It was their duty not to bow down before the fetish of 'order and tranquillity' at a
-moment when the enemy from outside was dealing the Fatherland a death-blow and
-when high treason was lurking behind every street corner at home. No. A really
-National Government ought then to have welcomed disorder and unrest if this turmoil
-would afford an opportunity of finally settling with the Marxists, who are the mortal
-enemies of our people. If this precaution were neglected, then it was sheer folly to think
-of resisting, no matter what form that resistance might take.
+It would be hard to say what is the most outstanding feature of these bourgeois circles: mental debility, moral weakness and cowardice, or a mere down-atheel mentality. It is a class that is certainly doomed to go under but, unhappily, it drags down the whole nation with it into the abyss.
 
-Of course, such a settlement of accounts with the Marxists as would be of real historical
-importance could not be effected along lines laid down by some secret council or
-according to some plan concocted by the shrivelled mind of some cabinet minister. It
-would have to be in accordance with the eternal laws of life on this Earth which are and
-will remain those of a ceaseless struggle for existence. It must always be remembered
-that in many instances a hardy and healthy nation has emerged from the ordeal of the
-most bloody civil wars, while from peace conditions which had been artificially
-maintained there often resulted a state of national putrescence that reeked to the skies.
-The fate of a nation cannot be changed in kid gloves. And so in the year 1923 brutal
-action should have been taken to stamp out the vipers that battened on the body of the
-nation. If this were done, then the first prerequisite for an active opposition would have
-been fulfilled.
+The situation in 1923 was quite similar to that of 1918. No matter what form of resistance was decided upon, the first prerequisite for taking action was the elimination of the Marxist poison from the body of the nation. 
+
+I was convinced that the first task then of a really National Government was to seek and find those forces that were determined to wage a war of destruction against Marxism and to give these forces a free hand. It was their duty not to bow down before the fetish of 'order and tranquillity' at a moment when the enemy from outside was dealing the Fatherland a death-blow and when high treason was lurking behind every street corner at home. No. 
+
+A really National Government ought then to have welcomed disorder and unrest if this turmoil would afford an opportunity of finally settling with the Marxists, who are the mortal enemies of our people. If this precaution were neglected, then it was sheer folly to think of resisting, no matter what form that resistance might take.
+
+Of course, such a settlement of accounts with the Marxists as would be of real historical importance could not be effected along lines laid down by some secret council or according to some plan concocted by the shrivelled mind of some cabinet minister. 
+
+It would have to be in accordance with the eternal laws of life on this Earth which are and will remain those of a ceaseless struggle for existence. It must always be remembered that in many instances a hardy and healthy nation has emerged from the ordeal of the most bloody civil wars, while from peace conditions which had been artificially maintained there often resulted a state of national putrescence that reeked to the skies. 
+
+The fate of a nation cannot be changed in kid gloves. And so in the year 1923 brutal action should have been taken to stamp out the vipers that battened on the body of the nation. If this were done, then the first prerequisite for an active opposition would have been fulfilled.
 
 At that time I often talked myself hoarse in trying to make it clear, at least to the socalled national circles, what was then at stake and that by repeating the errors
 committed in 1914 and the following years we must necessarily come to the same kind

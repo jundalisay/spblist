@@ -1,7 +1,7 @@
 ---
 title: Propaganda And Organization
 heading: Chapter 11
-weight: 38
+weight: 160
 description: "Propaganda should go well ahead of organization and gather together the human material for the latter to work up"
 author: Adolf Hitler
 image: /covers/mein.jpg

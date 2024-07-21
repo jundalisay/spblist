@@ -1,7 +1,7 @@
 ---
 title: The Strong Is Strongest When Alone
 heading: Chapter 8
-weight: 38
+weight: 90
 description: "Small groups which were weak as long as they stood alone have now suddenly become strong"
 author: Adolf Hitler
 image: /covers/mein.jpg

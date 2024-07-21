@@ -27,8 +27,7 @@ I must estimate the worth of nations and individuals differently, based on their
 
 <!-- The principle, that one people is not the same as another, applies also to the individual members of a national community.  -->
 
-No one brain, for instance, is equal to another. This is because the constituent elements belonging to the same blood vary in a thousand subtle
-details, though they are fundamentally of the same quality.
+No one brain is equal to another. This is because the constituent elements belonging to the same blood vary in a thousand subtle details, though they are fundamentally of the same quality.
 
 The first consequence is that the people in the folk-community who show the best racial qualities should be encouraged more than the others and especially they should be encouraged to increase and multiply.
 
@@ -42,38 +41,39 @@ A WELTANSCHAUUNG which repudiates the democratic principle of the rule of the ma
 
 It must take care that the positions of leadership and highest influence are given to the best men. Hence it is not based on the idea of the majority, but on that of personality.
 
-Anyone who believes that the People's National Socialist State should distinguish itself from the other States only mechanically, as it were, through the better construction of its economic life--thanks to a better equilibrium between poverty and riches, or to the
-extension to broader masses of the power to determine the economic process, or to a fairer wage, or to the elimination of vast differences in the scale of salaries--anyone who thinks this understands only the superficial features of our movement and has not the
-least idea of what we mean when we speak of our WELTANSCHAUUNG.
+Some people believe that the People's National Socialist State should distinguish itself from the other States only mechanically.
 
-All these features just mentioned could not in the least guarantee us a lasting existence and
+For example, through a better economic life through:
+- a better equilibrium between poverty and riches, or
+- the extension to broader masses of the power to determine the economic process
+- a fairer wage
+- the elimination of vast differences in the scale of salaries
+
+But anyone who thinks this:
+- understands only the superficial features of our movement
+- has not the least idea of what WELTANSCHAUUNG means.
+
+<!-- All these features just mentioned could not in the least guarantee us a lasting existence and
 certainly would be no warranty of greatness.
 
-A nation that could content itself with external reforms would not have the slightest chance of success in the general struggle
-for life among the nations of the world. 
+A nation that could content itself with external reforms would not have the slightest chance of success in the general struggle for life among the nations of the world. 
 
-A movement that would confine its mission to such adjustments, which are certainly right and equitable, would effect no far-reaching
-or profound reform in the existing order. 
+A movement that would confine its mission to such adjustments, which are certainly right and equitable, would effect no far-reaching or profound reform in the existing order.  -->
 
-The whole effect of such measures would be limited to externals. They would not furnish the nation with that moral armament
-which alone will enable it effectively to overcome the weaknesses from which we are
-suffering to-day.
+The whole effect of such measures would be limited to externals. 
 
-In order to elucidate this point of view it may be worth while to glance once again at the real origins and causes of the cultural evolution of mankind. The first step which visibly brought mankind away from the animal world was that
-which led to the first invention. 
+They would not furnish the nation with that moral armament which alone will enable it effectively to overcome the weaknesses from which we are suffering today.
 
-The invention itself owes its origin to the ruses and stratagems which man employed to assist him in the struggle with other creatures for
-his existence and often to provide him with the only means he could adopt to achieve
-success in the struggle. 
 
-Those first very crude inventions cannot be attributed to the individual; for the subsequent observer, that is to say the modern observer, recognizes them only as collective phenomena. Certain tricks and skilful tactics which can be observed in use among the animals strike the eye of the observer as established facts which may be seen everywhere; and man is no longer in a position to discover or
-explain their primary cause and so he contents himself with calling such phenomena
-'instinctive.'
+### Cultural Evolution
 
-In our case this term has no meaning. Because everyone who believes in the higher
-evolution of living organisms must admit that every manifestation of the vital urge and
-struggle to live must have had a definite beginning in time and that one subject alone
-must have manifested it for the first time.
+In order to elucidate this point of view it may be worth while to glance once again at the real origins and causes of the cultural evolution of mankind. The first step which visibly brought mankind away from the animal world was that which led to the first invention. 
+
+The invention itself owes its origin to the ruses and stratagems which man employed to assist him in the struggle with other creatures for his existence and often to provide him with the only means he could adopt to achieve success in the struggle. 
+
+Those first very crude inventions cannot be attributed to the individual; for the subsequent observer, that is to say the modern observer, recognizes them only as collective phenomena. Certain tricks and skilful tactics which can be observed in use among the animals strike the eye of the observer as established facts which may be seen everywhere; and man is no longer in a position to discover or explain their primary cause and so he contents himself with calling such phenomena 'instinctive.'
+
+In our case this term has no meaning. Because everyone who believes in the higher evolution of living organisms must admit that every manifestation of the vital urge and struggle to live must have had a definite beginning in time and that one subject alone must have manifested it for the first time.
 
 It was then repeated again and again; and the practice of it spread over a widening area, until finally it passed into the subconscience
 of every member of the species, where it manifested itself as 'instinct.'
@@ -82,12 +82,9 @@ This is more easily understood and more easy to believe in the case of man. His 
 
 There can be no doubt that personality was then the sole factor in all decisions and achievements, which were afterwards taken over by the whole of humanity as a matter of course.
 
-An exact exemplification of this may be found in those fundamental military principles which have now become the basis of all strategy in war. Originally they sprang from the brain of a single individual and in the course of many years, maybe
-even thousands of years, they were accepted all round as a matter of course and this
-gained universal validity.
+An exact exemplification of this may be found in those fundamental military principles which have now become the basis of all strategy in war. Originally they sprang from the brain of a single individual and in the course of many years, maybe even thousands of years, they were accepted all round as a matter of course and this gained universal validity.
 
-Man completed his first discovery by making a second. Among other things he learned how to master other living beings and make them serve him in his struggle for existence. And thus began the real inventive activity of mankind, as it is now visible
-before our eyes. 
+Man completed his first discovery by making a second. Among other things he learned how to master other living beings and make them serve him in his struggle for existence. And thus began the real inventive activity of mankind, as it is now visible before our eyes. 
 
 Those material inventions, beginning with the use of stones as weapons, which led to the domestication of animals, the production of fire by artificial means, down to the marvellous inventions of our own days, show clearly that an individual was the originator in each case. The nearer we come to our own time and the more important and revolutionary the inventions become, the more clearly do we
 recognize the truth of that statement. 
