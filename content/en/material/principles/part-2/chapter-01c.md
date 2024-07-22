@@ -14,13 +14,9 @@ icon: /icons/spmat.png
 
 ## The Unity of Space and Time is the Unity of Subject and Object
 
-In the previous chapter, we defined:
-- "space" as the gap between the perceiver and existence.
-- "distance" as the gap between two perceived identities, as objects, places, events, etc. 
-
-Here, we define:
-- "time" as the gap between one experience and the experience of existence in general
-- "timespan" as the gap between specific experiences or events
+We define:
+- "timespan" as the gap between specific perceived identities, as experiences, events, or incidents
+- "time" as the gap within perceptions in general
 
 Unlike the other layers, the spatial layer is about the gap between:
 - experiences, as the subject
@@ -32,13 +28,26 @@ But in the Metaphysical Doman, time is dominant because subjects, as experiences
 
 This is why we say time gets more malleable the higher the layer, while space becomes less important. 
 
- 
+
+## Why Time Always Moves Forward
+
+{{< q a="Parmenides" c="Chapter 7" >}}
+Does the One as a Whole experience time?  Does it become older and younger than Itself and Others?
+- To exist is to be in the present time
+- To have been is to be at a past time
+- To be about to be is to be at a future time
+Then the One, since it has being also has time. Time is always moving forward. 
+{{< /q >}}
+
 
 ## Physical Time and Metaphysical Time
 
-Previously, we created the concept of Physical Space and Metaphysical Space. Here we likewise create the concept of Physical Time and Metaphysical Time. In Physics, this is similar to the concept of Proper and Coordinate Time from Einstein's Relativity.
+Previously, we created the concept of Physical Space and Metaphysical Space, as the Cartesian View. 
 
-Physical Time is objective, but Metaphysical Time is subjective. 
+Here we likewise create the concept of Physical Time and Metaphysical Time. In Physics, this is similar to the concept of Proper and Coordinate Time from Einstein's Relativity.
+
+- Physical Time is objective
+- Metaphysical Time is subjective. 
 
 Physical Time in Superphysics also includes Newtonian Time and the Radioactive Decay-time of certain elements.
 
@@ -65,7 +74,7 @@ Convertible | Radioactivity (Weak force) | Feynman Diagrams | Re |
 Material | Atomic bond (Strong force) | Material | Do | Totally Absolute or Independent of Viewpoint -->
 
 
-## Fixing Einstein's (Minkowski) Spacetime
+## Fixing Einstein's (Minkowski) Spacetime with the Aetherspace
 
 Currently, Physics has is stuck because Einstein used light as a measuring rod for all of spacetime. The problem is that light is part of the Radiant Layer which is naturally inferior to the Spatial layer which spacetime is a part of. 
 

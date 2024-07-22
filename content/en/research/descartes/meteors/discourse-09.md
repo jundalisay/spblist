@@ -2,7 +2,7 @@
 heading: Discourse 9
 title: Why is the Sky and Sea Blue?
 # The Color of Clouds
-weight: 40
+weight: 46
 description: This same cause also makes the water of the sea seem to be blue where it is very pure and deep
 image: "/covers/meteors.png"
 writer:

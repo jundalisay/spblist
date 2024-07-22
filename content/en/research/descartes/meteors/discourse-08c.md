@@ -1,7 +1,7 @@
 ---
 heading: Discourse 8c
 title: The Movement of Light as Rolling Balls
-weight: 38
+weight: 42
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/meteors.png"
 writer:

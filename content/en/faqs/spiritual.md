@@ -49,11 +49,11 @@ So what is the Supreme Entity then?
 {{< l a="Spiritual-Superphysics" >}}
 It's similar to the Hindu concept of Brahman which is the totality of existence, as one unit or entity. This unit is then Conscious of Its self. This consciousness is inseparable from that self or body. So we say that Its consciousness is Supreme relative to Its body or effects.
 
-This concept is more in line with Physics than Religion. All you need is to the ability to think of:
-- all the realities and universes in the multiverse
-- all the possible realities and universes. 
+This concept is more in line with Physics than Religion. All you need is the ability to think of:
+- all the **realities and universes** in the multiverse
+- all the **possible** realities and universes. 
 
-Then you assign a single consciousness to glue all of those together to arrive at our concept of a Supreme Entitiy. The big problem is that Physics locks itself out of mental and metaphysical perceptions and so it forever cannot explain the cause and true nature of physical phenomena. This severely limits its problem-solving powers.      
+Then you assign **a single consciousness to glue all of those together** to arrive at our concept of a Supreme Entitiy. The big problem is that Physics locks itself out of mental and metaphysical perceptions and so it forever cannot explain the cause and true nature of physical phenomena. This severely limits its problem-solving powers.      
 {{< /l >}}
 
 
@@ -81,7 +81,7 @@ Each person will cook it depending on his own circumstances. For example, a pers
 
 Similarly, some people are born into Asian families which are tolerant of the idea of spirits. For them, we recommend those esoteric paths. Others are born into Western families that want money and wealth. For them, we recommend the New Agey Law of Attraction type paths.
 
-So instead of 'Do this, Do that', ours is 'If this then that'
+So instead of 'Do this, Do that', ours is 'If this then that' -- we try to know the person's mentality and situation first, instead of making blanket impositions
 {{< /l >}}
 
 {{< r a="Asker" >}}
@@ -90,7 +90,7 @@ Oh that's great! A lot of people get conned by those Law of Attraction scams. I 
 
 
 {{< l a="Spiritual-Superphysics" >}}
-We focus on using such "Laws" to discover more of the Supreme. Perhaps if you get closer to the Supreme, you might get a  prince charming if that is really destined for you by your dharma. But most often, such ideas are impositions by the Negative Ego and not from the Supreme.   
+We focus on using such "Laws" to discover more of the Supreme. Perhaps if you get closer to the Supreme, you might get a  prince charming if that is really destined for you by your *dharma*. But most often, such ideas are impositions by the Negative Ego and not from the Supreme.   
 {{< /l >}}
 
 

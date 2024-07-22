@@ -1,6 +1,6 @@
 ---
-heading: "The Sophistry of Albert Einstein"
-title: "The Sophistry of Light as Measuring Rod"
+heading: "The Problem with Using Light as a Measuring Rod"
+title: "The Einstein Trap"
 description: "Did you know that using light as a Measuring Rod is circular reasoning?"
 date: "2021-06-14"
 weight: 30
@@ -10,20 +10,50 @@ weight:
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /material/fallacies/light-ruler
 ---
 
 
-In a previous post, we exposed that Einstein's Relativity is flawed because of an ego problem. This made Einstein want to dictate to Nature instead of following Nature. 
+In a previous post, we exposed that Einstein's Relativity is flawed because of an ego problem. This made Einstein want to dictate to Nature, from the limited human perspective of the 5 senses, instead of following Nature. 
 
-This dictation was done by Einstein in using the speed of light as the measuring rod of spacetime. 
+This dictation was done by Einstein in using the speed of light as the measuring rod of spacetime. This is because light is obvious to all humans.  
 
-The big problem is that light is part of the Radiant (ELectromagentic) Layer which is inferior or subordinate to the Spacetime Layer. 
+But the big problem is that light is part of the Radiant (ELectromagentic) Layer which is inferior or subordinate to the Spacetime Layer. In a business, it would be using the qualities of factory workers to judge the quality of a corporation. In reality, corporations should be measured by the quality of their executive team.  
 
 {{< img src="/graphics/physics/layers.jpg" alt="The 5 Layers" cap="Electromagnetism is inferior to Spacetime, yet Einstein uses it to measure Spacetime" >}}
 
 
+### The Einstein Trap
 
-All movement happens within a distance and all observations of such movement happens within timespan. Thus, all formulations of the rules on movement must take into account *distance* and *timespan*, which humans carelessly bunch up as "space" and "time". 
+Einstein permanently damages Physics by making it go through circular reasoning which we call the **Einstein trap**:
+
+{{< q a="Einstein-sophist" c="Relativity, Section 8" >}}
+Two lightning flashes occurred simultaneously at A and B seen by an observer at the middle. [We thus define time as simultaniety, and define simultaniety as light appearing at the same time.]  <i>It would thus appear that we are reasoning in a logical circle</i>.
+{{< /q >}}
+
+This circular reasoning is why physicists are unable to unify Relativity with Quantum Mechanics. 
+- **Quantum mechanics** is about the arbitrariness and unpredictability of the aether or the highest parts of Nature. This is like the whims of the executives of a company.
+- **Einstein's Relativity** is about the predictability of the lowest parts of Nature, as mass and electromagnetic potential. This is like the orderliness and predictability of factory workers who come to work and go home on time every day. 
+
+
+### The Cartesian Alternative
+
+To free Physics from the trap, we use the definitions derived from Rene Descartes. 
+
+- space as the gap within perception
+- distance is the gap between perceived identities
+- timespan is the gap between perceptions
+- time is the gap between perceptions in general 
+
+<!-- All movement happens within a distance and all observations of such movement happens within timespan. Thus, all formulations of the rules on movement must take into account *distance* and *timespan*, which humans carelessly bunch up as "space" and "time".  -->
+
+{{< youtube Va3VvSrR8YA >}}
+
+Unlike speed and mass, this system uses **perception** and **identities within that perception**. 
+- the spacetime within perception were called "extension" and time
+- the spacetime related to identities were called "space" and moment
+
 
 The movements of everyday objects are quite slow. Usually, distance is just:
 - `Spot Z` occupied by the object at timespan now `Time Z`

@@ -1,33 +1,48 @@
 ---
-title: "Relativity of Motion"
+title: The Real One versus The Illusory One
+# title: "Relativity of Motion"
 heading: "Chapter 5"
 weight: 10
 image: "/covers/parm.png"
-description: "The One is at rest as the Whole, and in motion as the dualistic Others"
+description: "The One is necessarily both at rest and in motion"
 icon: "/icons/socrates.png"
 ---
 
 
 
-The One then is necessarily both at rest and in motion.
+## Rest and Motion
 
-The One is at rest since it is in Itself as a Whole.<!-- , for being in one, and not passing out of this, it is in the same, which is Itself. -->
-
-On the contrary, the One which is ever in the Others is never in the same and is therefore never at rest.
+The One is necessarily both at rest and in motion.
+- The One is at rest because it is a Whole in Itself.<!-- , for being in one, and not passing out of this, it is in the same, which is Itself. -->
+- But It is also always in the Others which are never in the same and is therefore never at rest.
 
 <!-- And must be the same with itself, and other than itself; and also the same with the others, and other than the others; this follows from its previous affections. -->
 
-<h3>Everything in relation to every other thing, is either the same or other; or if neither the same nor other, then in the relation of a part to a whole, or of a whole to a part.</h3>
+**Everything in relation to every other thing is either the same or other.**
 
-The One as a Whole is not a part of Itself. Thus, It cannot be <!-- Since it is not a part in relation to itself it cannot be --> related to Itself in the same way as a whole is related to its part.
+**If Everything is neither the same nor the other, then everything is in the relation of:**
+**- a part to a whole, or**
+**- a whole to a part.**
 
-But is the One inside the Whole other than One which is Whole, and therefore not other than Itself?
+The One as a Whole is not a part of Itself.* 
+- Thus, It cannot be <!-- Since it is not a part in relation to itself it cannot be --> related to Itself in the same way as a whole is related to its part.
 
-If so, then the One inside is neither other, nor a whole, nor a part in relation to itself. This means that the One inside must be the same with Itself.
+{{< n n="This is Nirguna Brahma in Vedic philosophy. In Superphysics, this is the Absolute Entity" >}}
+
+
+But is the One *inside* the Whole different from the One which *is* Whole?
+
+<!-- , and therefore not other than Itself? -->
+
+If It is different, then the One inside is neither other, nor a whole, nor a part in relation to Itself. 
+
+This means that the One inside must be the same with Itself.
 
 But if a thing which is in another place from Its original place while both selves exist, then it means that It is other than that Self. <!-- elf' if this 'itself' remains in the same place with itself, must be other than 'itself,' for it will be in another place. -->
 
-Then the One is at once in Itself and in another Self. In this way, the One will appear other than Itself.
+Then the One is at once in Itself and in another Self. In this way, the One will appear other than Itself*.
+
+{{< n n="This is Saguna Brahma in Vedic philosophy. In Superphysics, this is the Supreme Entity" >}}
 
 This makes Its other Self different from Itself and become the Other. 
 
@@ -41,17 +56,15 @@ True.
  -->
 
 
-<h2>The Illusory One versus the Real One</h2>
+### The Illusory One versus the Real One
 
 But 'absolute equality' and 'absolute difference' are opposites. The equality will never be in the difference*.
 
 
-> *Superphysics Note: This manifests in Physics as the law of conservation of energy and mass. Superphysics adds another law which is the law of identity. This law is the basis for the repulsion of qosts or gravitational centers which manifest as the expansion of spacetime. 
-
-
-If the difference is never in the equality, then there is nothing in which the difference is during any span of time; for during that span of time, however small, the difference would be in the equality.
+If the difference is never in the equality, then there is nothing in which the difference is during any span of time. This is because during that span of time, however small, the difference would be in the equality.
 
 Since the difference is never in equality, it can never be in anything that exists.
+
 
 Then the difference will never be either in the illusory One, or in the real One.
 
@@ -61,7 +74,9 @@ Nor by reason of themselves will they be other than one another, if not partakin
 
 But if they are not other, either by reason of themselves or of the other, they will altogether escape being other than one another.
 
-The Illusory One cannot be the real One, but is part of the real One.
+**The Illusory One is a part of the real One.**
+
+{{< n n="This is consistent with Saguna Brahma being Illusory" >}}
 
 The Illusory One cannot be number. If it were countable, then it would not have been the Illusory One at all.
 
@@ -114,7 +129,3 @@ But in that it was the same it will be unlike by virtue of the opposite affectio
 The same then will make it unlike, otherwise it will not be the opposite of the other.
 
 Then the One will be both like and unlike the Others. It will be like in so far as it is other, and unlike in so far as it is the same.
-
-
-
-

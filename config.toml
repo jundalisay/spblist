@@ -549,12 +549,12 @@ paginate = 12
       title = "نحن في مصفوفة!"
       sub = "انظر كيف يمكننا أن نعيش بشكل جيد فيها"
     [languages.ar.params.tricon1.items.b]
-      url = "/superphysics/principles/chapter-02"
+      url = "/superphysics/principles/chapter-04"
       img = "/photos/idea.jpg"
       title = "كل شيء هو فكرة"
       sub = "داخل العقل أو المصفوفة"
     [languages.ar.params.tricon1.items.c]
-      url = "/superphysics/principles/chapter-04b"
+      url = "/superphysics/principles/chapter-07"
       img = "/graphics/physics/math.jpg"
       title = "رياضيات جديدة لعلم جديد"
       sub = "ذلك الذي يحتوي على النسبية المدمجة فيه"
@@ -625,7 +625,7 @@ paginate = 12
       icon = "/icons/spsoc.png"
     [languages.ar.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
-      img = "/photos/vanity.jpg"
+      img = "/photos/social/monkey.jpg"
       title = "الأنا هي سبب المشاكل في المجتمع"
       sub = "انظر كيف تهدف السوبرسوسيولوجيا لإصلاحها"
     [languages.ar.params.tricon4.items.b]

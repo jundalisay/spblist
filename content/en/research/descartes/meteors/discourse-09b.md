@@ -1,7 +1,7 @@
 ---
 heading: Discourse 9b
 title: The Circles Around the Stars
-weight: 41
+weight: 48
 description: Sometimes there are certain circles around the stars
 image: "/covers/meteors.png"
 writer:

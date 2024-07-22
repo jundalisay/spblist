@@ -13,26 +13,36 @@ icon: /icons/spmat.png
 
 
 We define:
-- "space" as the gap between the perceiver and existence.
-- "distance" as the gap between two perceived identities, as objects, places, events, etc. 
+- space as the gap within perception
+- distance as the gap between perceived identities, as objects, places, events, etc. 
 
-Superphysics divides reality into the Physical and Metaphysical Domains. 
+Superphysics divides reality into the Physical and Metaphysical Domains, as the Cartesian View. This is different from Physics which only allows the Physical Domain. 
 
-Accordingly, the space in the Physical Domain is called Physical Space. The one in the Metaphysical Domain is Metaphysical Space. 
+Accordingly:
+- the space in the Physical Domain is called Physical Space. This is detected by the physical eyes and touch. This is in the Middle and Lower Spatial Layer.
+- the space in the Metaphysical Domain is Metaphysical Space. This is detected by thought and intuition (a 6th sense feeling). This is in the Upper Spatial Layer.
 
-- Physical space is detected by the physical eyes and touch. This is in the Middle and Lower Spatial Layer. 
-- Metaphysical space is detected by thought and intuition (a 6th sense feeling). This is in the Upper Spatial Layer. 
+The division between physical and metaphysical space and time is therefore between the Upper and Middle Spatial Layer. We call this the **Spatial Internal Boundary** or SIB.   
 
-The division between physical and metaphysical space and time is therefore between the Upper and Middle Spatial Layer. We call this the Inter-Spatial Boundary.   
+{{< img src="/graphics/physics/msq.jpg" alt="The 5 Layers" cap="The SIB is the green horizontal line" >}}
 
 
-For example, a kid might be obsessed with playing a certain video game the whole day, and only thinks about playing it. He sacrifices his studies, food, and sleep to play. In that case, we say that:
+For example, a kid might be obsessed with playing a certain video game the whole day, and only thinks about playing it. He sacrifices his studies, food, and sleep to play. 
+
+In that case, we say that:
 - the idea of the video game occupies most of the space in his abstract mind. 
 - there is zero metaphysical distance between his consciousness and the video game.
 - there is a greater distance between him and his studies and food
 
-A man's girfriend might be on the other side of the world, creating a maximum amount of physical 'Earth-space', as distance, between him and her. But she always occupies his mind, so they video call or chat all the time. In that case:
+A man's girfriend might be on the other side of the world, creating a maximum amount of physical 'Earth-space', as distance, between him and her. But she always occupies his mind, so they video call or chat all the time. 
+
+In that case:
 - she, as an idea, occupies the maximum metaphysical space in his mind
 - there is zero metaphysical distance between him and her. 
 
-Material Superhysics focuses on the Physical aspects of the universe and so we will focus on Physical space. Bio Superphysics will focus on metaphysical or mental space for use in solving mental problems.
+Material Superhysics focuses on the Physical aspects of the universe and so we will focus on Physical space.
+
+Metaphysical space will be useful to Material Superhysics in the distant future after humans learn how to cross between universes which have different physical laws from each other.
+
+So for now, metaphysical space will be mostly important to Bio Superphysics for use in solving mental problems.
+ 

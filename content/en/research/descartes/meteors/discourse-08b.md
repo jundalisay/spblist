@@ -1,7 +1,7 @@
 ---
 heading: Discourse 8b
 title: The Effect of the Prism
-weight: 38
+weight: 40
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/meteors.png"
 writer:

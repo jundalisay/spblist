@@ -8,7 +8,7 @@ icon: "/icons/socrates.png"
 ---
 
 
-There is another argument. In so far as it is affected in the same way it is not affected otherwise, and not being affected otherwise is not unlike, and not being unlike, is like.
+Some say that It is affected in the same way that It is not affected otherwise, and not being affected otherwise is not unlike, and not being unlike, is like.
 
 But in so far as it is affected by other it is otherwise, and being otherwise affected is unlike.
 

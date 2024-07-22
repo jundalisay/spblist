@@ -16,7 +16,7 @@ aliases:
 ---
 
 
-Axiom | Proposition
+Principle | Assertion
 --- | ---
 Spacetime is superior to Electromagnetism | Einstein's General Relativity is wrong, not incomplete
 
@@ -33,15 +33,23 @@ The spangled heavens should be used as a pattern and with a view to that higher 
 {{< /q >}}
 
 
-Socrates is clearly against having any fixed or constant value to define the universe and any movements within it. According to this, any established constant would eventually be rejected the more humans learn about the universe. This is what happened to the constant Gravity `G` advocated by Newton which was overturned by Einstein's Theory of Relativity. 
+Socrates is clearly against having any fixed or constant value to define the universe and any movements within it. According to this, any established constant would eventually be rejected the more humans learn about the universe. This is what happened to the constant Gravity `G` advocated by Newton which was overturned by Einstein's Theory of Relativity, making it subservient to light.
 
 However, Einstein also established his own constant as the speed of light as `c`. This must also be overturned if we are to unify Physics with Metaphysics and even Quantum Physics. 
 
-The need to overturn the speed of light as a constant is emphasized by Socrates when he said that sight (made possible by photons) is not the proper way to measure movement in outer space: 
+The need to overturn the speed of light as a constant* is emphasized by Socrates when he said that sight (made possible by photons) is not the proper way to measure movement in outer space: 
 
 {{< q a="Socrates">}}
 The starry heaven is wrought on a visible ground. The most perfect of visible things is far inferior to the true motions of absolute speeds which are relative to each other. <i>They carry with them that which is contained in them</i>. These are to be apprehended by reason and intelligence, but not by sight.
 {{< /q >}}
+
+
+{{< b >}}
+### TLDR
+
+We use the aether as the supreme principle. Aether is the substance of ideas, feelings, and of the abstract mind that has those ideas and feelings. Therefore, the idea of `G`, `c`, `h` (Planck's constant) are constants only because the aether sets it as so. If we upgrade our abstract minds, then we get new ideas and perceptions and `G`, `c`, `h` will change accordingly through us testing it in different parts of the galaxy, universe, and multiverse. 
+
+{{< /b >}}
 
 
 
@@ -77,11 +85,8 @@ The mystery of the aether irked him just as the idea of a superior, immaterial G
 
 
 {{< q a="Einstein" c="Ether and General Relativity" >}}
-But why must I distinguish the non-moving `K` body above all moving `K'`` bodies by assuming that the ether is at rest relatively to the non-moving `K` body?  I think that such an asymmetry.. is intolerable.
+But why must I distinguish the non-moving `K` body above all moving `K'` bodies by assuming that the ether is at rest relatively to the non-moving `K` body?  I think that such an asymmetry.. is intolerable.
 {{< /q >}}
-
-
-{{< img src="/photos/medieval/hitler.jpg" alt="Hitler" cap="Einstein found the Aether intolerable, just as Hitler found the Jews intolerable. Both lived at the same bigoted period in Germany" >}}
 
 
 To get rid of the aether, he used light as the semi-material thing to "bridge" the behavior of objects and electricity. This is because he realized that light has 2 properties:
@@ -95,6 +100,9 @@ He called this unification as "special relativity" leading to mass-energy equiva
 {{< q a="Einstein" c="Relativity" >}}
 <p>mc{{< s v="2" >}} does not contain the velocity. It is not needed if we are only asking how the energy of a point-mass depends on the velocity... Before the advent of relativity, physics recognised two conservation laws of fundamental importance, namely, the law of the conservation of energy and the law of the conservation of mass.. Through the theory of relativity, they have been united into one law.</p>
 {{< /q >}}
+
+
+{{< img src="/photos/medieval/hitler.jpg" alt="Hitler" cap="Einstein found the Aether intolerable, just as Hitler found the Jews intolerable. Both lived at the same bigoted period in Germany. Einstein wanted Nature to follow one Law just as Hitler wanted the world to follow one Aryan race." >}}
 
 
 {{< img src="https://sorasystem.sirv.com/graphics/emc.png" alt="E=mc2" cap="Thanks to the egotistic Einstein, the aether is out of reach, and with it the solution to fusion, anti-gravity, and nuclear war. The fact that Einstein pushed for nukes is consistent with such a type of ego" >}}
@@ -112,7 +120,7 @@ Instead of using a natural immaterial aether (substance 1) that confined materia
 He destroyed the natural division of labor of Nature in favor of a single monopoly under the power of the physicist.
 
 
-{{< img src="/graphics/physics/msq.jpg" alt="MSQ" cap="Superphysics respects the division of labor of the 5 Layers or Elements which we call Aether, Spacetime, Radiance, Transformer, and Matter" >}}
+{{< img src="/graphics/physics/msq.jpg" alt="MSQ" cap="Superphysics respects the division of labor of the 5 Layers or Elements which we call Aether, Spacetime, Radiance, Conversion, and Matter" >}}
 
 He then extended this theory, as General Relativity, to the movement of objects in outer space which was really governed by the aethereal force of Gravitation. 
 
@@ -201,7 +209,7 @@ a mathematical description of this kind has no physical meaning unless we are qu
 
 Einstein did it because his ego couldn't define time metaphysically. Instead, he covered it up a physical (mathematical) definition, inevitably leading to circular reasoning:
 
-{{< q a="einblah" c="Relativity, Section 8" >}}
+{{< q a="Einstein-sophist" c="Relativity, Section 8" >}}
 Two lightning flashes occurred simultaneously at A and B seen by an observer at the middle. [We thus define time as simultaniety, and define simultaniety as light appearing at the same time.]  <i>It would thus appear that we are reasoning in a logical circle</i>.
 {{< /q >}}
 
