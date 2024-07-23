@@ -15,8 +15,6 @@ aliases:
 
 #### 20. The Second Action: Gravity
 
-
-
 <!-- The force of gravity does not differ much from this third action of celestial globules; for just as those globules, through their simple motion, by which they move indiscriminately in all directions, press all the particles of each drop equally towards its center, thus making the drop round; so by the same motion, being obstructed by the mass of the whole earth from moving in straight lines, they propel all its parts towards the center: and in this consists the gravity of terrestrial bodies.
 
 XXI. All parts of the Earth, if considered alone, are not heavy but light. To understand this perfectly, it should first be noted that if all the spaces around the Earth, which are not occupied by the matter of the Earth itself, were empty, that is, if they contained nothing but a body that in no way hindered or aided the motion of other bodies (for thus only can the term "vacuum" be understood), and in the meantime, this Earth rotated around its axis in the space of twenty-four hours by its own motion, it would happen that all its parts, which were not very firmly bound to each other, would leap towards the sky in various directions: in the same way as can be seen when a spinning top rotates, if sand is thrown upon it, it immediately recedes from it and disperses in all directions; and thus the Earth would not be called heavy, but rather light. -->
@@ -98,10 +96,12 @@ Thus the gravity of each terrestrial body is not properly produced by all the ce
 
 For example, `B` is a rock in the middle of the air. It naturally has more particles of the earth-aether  than an equal volume of air has earth-aether. 
 
+{{< img src="/graphics/physics/earth.jpg" alt="Earth" >}}
+
 Because it has more earth-aether, it means that it has less air-aether -- it has fewer or narrower pores that can contain the air-aether. 
 
 
-If rock B descends towards I, it will displace an amount of air-aether that will rise into its place.  
+If rock `B` descends towards I, it will displace an amount of air-aether that will rise into its place.  
 
 This air-aether above it has the force to further depress that body. 
 
@@ -162,7 +162,7 @@ Thus, the gravity of each terrestrial body is not caused by the surrounding air-
 
 For example, let `B` be a terrestrial body existing in the middle of the air, consisting of earth-aether equal in mass to the air surrounding it. Therefore, it has fewer or narrower pores that has the air-aether. -->
 
-{{< img src="/graphics/physics/earth.jpg" alt="Earth" >}}
+
 
 <!-- If this body `B` descends towards `I`, an equal mass of physical air will ascend to its place.
 

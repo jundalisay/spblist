@@ -135,7 +135,7 @@ paginate = 12
       sub = "Relativity only works for Electromagnetic particles, not for all moving things. We fix it with the 5 Elements or Layers"
     [languages.en.params.tricon2.items.c]
       url= "/material/principles/intro/chapter-03/"
-      img = "/graphics/physics/model.jpg"
+      img = "/graphics/physics/msq.jpg"
       title = "The Medium-Substance-Quantum Naming Convention"
       sub = "Are you confused with hadrons, baryons, fermions, leptons, etc? We propose a simpler naming convention"
       # url= "/material/principles/part-2/chapter-04/"
@@ -598,7 +598,7 @@ paginate = 12
       icon = "/icons/spmed.png"
       link= "/bio/principles"
     [languages.ar.params.tricon3.items.a]
-      url = "/bio/principles/part-04/chapter-03/"
+      url = "/bio/principles/part-05/chapter-03/"
       img= "/photos/med/cancer2.jpg"
       title = "تم علاج السرطان والأمراض بواسطة الطب غير الغربي"
       sub = "انظر إلى البدائل القائمة على الموجات للطب الغربي القائم على الجسيمات"
@@ -696,7 +696,7 @@ paginate = 12
       title = "一切都是一个思想"
       sub = "存在于头脑或矩阵之内"
     [languages.zh.params.tricon1.items.c]
-      url = "/superphysics/principles/chapter-04b"
+      url = "/superphysics/principles/chapter-07"
       img = "/graphics/physics/math.jpg"
       title = "一种新数学用于一种新科学"
       sub = "其中包含相对性"
@@ -740,7 +740,7 @@ paginate = 12
       icon = "/icons/spmed.png"
       link= "/bio/principles"
     [languages.zh.params.tricon3.items.a]
-      url = "/bio/principles/part-04/chapter-03/"
+      url = "/bio/principles/part-05/chapter-03/"
       img= "/photos/med/cancer2.jpg"
       title = "癌症和疾病已被非西方医学治愈。"
       sub = "看看基于波动的替代方案取代基于粒子的西方医学。 "
@@ -767,7 +767,7 @@ paginate = 12
       icon = "/icons/spsoc.png"
     [languages.zh.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
-      img = "/photos/vanity.jpg"
+      img = "/photos/social/monkey.jpg"
       title = "一个没有贫困"
       sub = "不平等和危机的世界——超经济学涉及资源配置和社会经济问题"
     [languages.zh.params.tricon4.items.b]
@@ -792,20 +792,22 @@ paginate = 12
     languageName = "Deutsch"
     [[languages.de.menu.main]]
         name = "/icons/question.png"
-        url = "faqs"
+        url = "/faqs"
         weight = 8
     [[languages.de.menu.main]]
-        name = "/icons/about.png"
-        url = "news"
+        name = "News"
+        # name = "/icons/about.png"
+        url = "/news"
         weight = 9
     [[languages.de.menu.main]]
-        name = "/icons/heart.png"
-        url = "help"
+        name = "Help!"
+        # name = "/icons/heart.png"
+        url = "/help"
         weight = 10
     [languages.de.params]
       heading = "Eine neue Wissenschaft basierend auf Metaphysik und sokratischer Dialektik"
       sub = "Alle Kenntnisse können in drei Gruppen eingeteilt werden"
-      intro = "Superphysik - ein wellenbasiertes wissenschaftliches Paradigma"      
+      intro = "Superphysik - ein wellenbasiertes wissenschaftliches Paradigma"
       banner = "/photos/physics/galaxy.jpg"
       youtube = "yM1oF5Di70U"
     [languages.de.params.cards.a]
@@ -838,7 +840,7 @@ paginate = 12
       title = "Alles ist eine Idee"
       sub = "Im Verstand oder der Matrix"
     [languages.de.params.tricon1.items.c]
-      url = "/superphysics/principles/chapter-04b"
+      url = "/superphysics/principles/chapter-07"
       img = "/graphics/physics/math.jpg"
       title = "Eine neue Mathematik für eine neue Wissenschaft"
       sub = "In der die Relativität eingebettet ist."
@@ -882,7 +884,7 @@ paginate = 12
       icon = "/icons/spmed.png"
       link= "/bio/principles"
     [languages.de.params.tricon3.items.a]
-      url = "/bio/principles/part-04/chapter-03/"
+      url = "/bio/principles/part-05/chapter-03/"
       img= "/photos/med/cancer2.jpg"
       title = "Krebs und Krankheiten wurden durch nicht-westliche Medizin geheilt"
       sub = "Sehen Sie die wellenbasierten Alternativen zur teilchenbasierten westlichen Medizin"
@@ -909,7 +911,7 @@ paginate = 12
       icon = "/icons/spsoc.png"
     [languages.de.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
-      img = "/photos/vanity.jpg"
+      img = "/photos/social/monkey.jpg"
       title = "Das Ego ist die Ursache von Problemen in der Gesellschaft"
       sub = "Sehen Sie, wie die Supersoziologie versucht, es zu beheben"
     [languages.de.params.tricon4.items.b]
@@ -933,15 +935,17 @@ paginate = 12
     weight = 4
     languageName = "Français"
     [[languages.fr.menu.main]]
-        name = "/icons/question.png"
+        name = "/faqs"
+        # name = "/icons/question.png"
         url = "faqs"
         weight = 8
     [[languages.fr.menu.main]]
-        name = "/icons/about.png"
-        url = "news"
+        # name = "/icons/about.png"
+        name = "/newss"
+        url = "/news"
         weight = 9
     [[languages.fr.menu.main]]
-        name = "/icons/heart.png"
+        name = "Help!"
         url = "help"
         weight = 10
     [languages.fr.params]
@@ -980,7 +984,7 @@ paginate = 12
       title = "Tout est une Idée"
       sub = "Tout est une Idée dans l'Esprit ou la Matrice"
     [languages.fr.params.tricon1.items.c]
-      url = "/superphysics/principles/chapter-04b"
+      url = "/superphysics/principles/chapter-07"
       img = "/graphics/physics/math.jpg"
       title = "Une Nouvelle Mathématique pour une Nouvelle Science"
       sub = "Intégrant la relativité"
@@ -1075,15 +1079,15 @@ paginate = 12
     weight = 7
     languageName = "हिन्दी भाषा"
     [[languages.hi.menu.main]]
-        name = "/icons/question.png"
-        url = "faqs"
+        name = "FAQs"
+        url = "/faqs"
         weight = 8
     [[languages.hi.menu.main]]
-        name = "/icons/about.png"
-        url = "news"
+        name = "News"
+        url = "/news"
         weight = 9
     [[languages.hi.menu.main]]
-        name = "/icons/heart.png"
+        name = "आप हमारी मदद कर सकते"
         url = "help"
         weight = 10
     [languages.hi.params]
@@ -1122,7 +1126,7 @@ paginate = 12
       title = "सब कुछ एक विचार है"
       sub = "मानसिकता या मैट्रिक्स के अंदर"
     [languages.hi.params.tricon1.items.c]
-      url = "/superphysics/principles/chapter-04b"
+      url = "/superphysics/principles/chapter-07"
       img = "/graphics/physics/math.jpg"
       title = "नए विज्ञान के लिए नगणित"
       sub = "सापेक्षता से भरपूर"
@@ -1193,7 +1197,7 @@ paginate = 12
       icon = "/icons/spsoc.png"
     [languages.hi.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
-      img = "/photos/vanity.jpg"
+      img = "/photos/social/monkey.jpg"
       title = "आत्मा समाज में समस्याओं का कारण है। "
       sub = "पढ़ें कैसे सुपरसोसायोलॉजी इसे ठीक कर सकती है"
     [languages.hi.params.tricon4.items.b]
@@ -1217,15 +1221,15 @@ paginate = 12
     weight = 8
     languageName = "Bahasa Indonesia"
     [[languages.id.menu.main]]
-        name = "/icons/question.png"
-        url = "faqs"
+        name = "FAQs"
+        url = "faq"
         weight = 8
     [[languages.id.menu.main]]
-        name = "/icons/about.png"
-        url = "news"
+        name = "News"
+        url = "/news"
         weight = 9
     [[languages.id.menu.main]]
-        name = "/icons/heart.png"
+        name = "Help!"
         url = "help"
         weight = 10
     [languages.id.params]
@@ -1264,7 +1268,7 @@ paginate = 12
       title = "Semua adalah"
       sub = "Ide dalam Pikiran atau Matriks"
     [languages.id.params.tricon1.items.c]
-      url = "/superphysics/principles/chapter-04b"
+      url = "/superphysics/principles/chapter-07"
       img = "/graphics/physics/math.jpg"
       title = "Matematika Baru untuk Ilmu Baru "
       sub = "yang memiliki relatifitas tercakup"
