@@ -1,11 +1,12 @@
 ---
-heading: "Chapter 5"
+heading: "Chapter 8"
 title: "The Expansion of Spacetime"
 date: 2023-03-10
-weight: 28
+weight: 30
 image: /graphics/physics/expansion.jpg
 description: "Everything is expanding, even your own atoms."
 icon: /icons/spmat.png
+# was 04c
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

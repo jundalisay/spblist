@@ -1,13 +1,13 @@
 ---
 heading: "Chapter 2"
-title: "The Upper, Middle, and Lower Spacetimes"
+title: "The Upper, Middle, and Lower Spatial Layers"
 date: 2020-01-31
 image: /graphics/physics/disk.jpg
 description: "The Upper Spacetime is the realm of the multiverse."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 4
 icon: /icons/spmat.png
 ---
 

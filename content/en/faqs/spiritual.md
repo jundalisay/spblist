@@ -131,3 +131,4 @@ Not all. But we promote yoga *asanas* in general, even from commercial yoga, jus
 {{< /r >}}
 
 
+Planck length is the smallest unit of space in the physical domain and is represented by a quantum of spacetime or qost. 

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 11"
 title: "The Creation of the Universe as a Big Bootup"
 date: 2020-01-31
 linkTitle: "Qost"
@@ -9,6 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 26
+# was 04
 icon: /icons/spmat.png
 aliases:
   /material/principles/qost

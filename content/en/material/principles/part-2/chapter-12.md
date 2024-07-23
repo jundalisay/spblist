@@ -4,7 +4,7 @@ title: "Comets and Climate Change"
 date: 2024-06-15
 image: "/graphics/physics/comets.jpg"
 description: "Here we explain how comets can lead to climate change"
-weight: 380
+weight: 38
 icon: /icons/spmat.png
 # linked to public
 ---

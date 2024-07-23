@@ -1,78 +1,66 @@
 ---
-heading: "Chapter 5c"
-title: "Quasars as Galactic Reverse Vortices"
-date: 2023-11-14
-weight: 18
-image: /graphics/physics/quasar.jpg
-description: "The ratio of galaxies and quasars should be roughly similar. It means that some bright galaxies should be reclassified as quasars"
-icon: /icons/spmat.png
+heading: "Chapter 3d"
+title: "The Aetherspace and the 7 Dimensions"
+date: 2024-07-22
+weight: 10
+image: /graphics/physics/spacetime.jpg
+description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: /icons/spmat.png
 ---
 
 
-## How Cartesian Physics explains both Quasars and Antimatter using the Single Principle of Reverse Vortices.
+The aetherspace is part of the metaphysical domain where spacetimes are glued together by the abstract mind. 
 
-The previous chapter explained that supermassive black holes are large vortices made up of agitated spacetime particles. 
+This allows the concept of 7 dimensions each of which has its own property:
 
-The friction of those invisible spacetime particles creates visible photon sparks that travel through spacetime.
+Dimension | Property
+--- | ---
+1 | Point-Perception
+2 | 2D-Perceptions
+3 | Physical Perceptions
+4 | Past, Present, Future
+5 | Alternate or Parallel Realities
+6 | Universes in the Multiverse
+7 | Totality of Existence
 
-Those photons then fizzle out, merging back with faraway spacetime particles, spreading energy everywhere. 
-
-This everywhere energy then energizes that spacetime until certain areas have more energy than others. 
-
-This imbalance creates new vortices similar to how high-low air pressure creates hurricanes from nowhere.
-
-Those new vortices form new galaxies.
-
-Those galaxies also produce solid matter as planets through their stars. 
-
-Spacetime can convert itself to photons then convert back to spacetime, conserving energy. 
-
-But the creation of matter means that more energy is crudified as time passes. This means that the universe should lose energy as it ages, just like adding flour to a glass of water will make it solid eventually, since flour is solid. 
-
-So why is the universe still energetic?
+Technically, the 7th Dimension is purely aethereal and no longer part of the Spatial Layer. 
 
 
-## Quasars are Reverse Vortices
-
-Cartesian Physics explains that this is because of reverse vortices. 
-
-{{< img src="/graphics/physics/quasar.jpg" alt="Quasars as reverse vortices" cap="In Cartesian Physics, quasars as reverse vortices" >}}
+{{< i s="/graphics/physics/aetherspaceall.jpg" alt="Multiverse in the Aetherspace" cap="The aetherspace accounts for alternate realities, other universes, and the totality of existence" >}}
 
 
-These turn in the opposite direction than the rest, let's say clockwise when others turn counterclockwise. 
+## Properties of the Aetherspace
 
-When a large powerful clockwise vortex touches a small counter vortex, the latter does not go with the former, as in a galaxy.
+The main property of the aetherspace is the space-time ratio. 
 
-Instead it stays in stasis around the large vortex similar to 2 gears staying at the same spot. 
+In the lower dimension both time and space are at their minimum. 
 
-Other particles join in, creating large stasis similar to a traffic jam. 
+At the highest dimension, both time and space are at their maximum. 
 
-In time, more particles get snagged in this traffic jam, leading to a pileup that compresses the particles sequentially like a meatgrinder. 
+In between, they are both malleable:
+- In the lower dimensions, time is rigid or limited, but space is malleable or freer
+- In the upper dimensions, space is rigid or limited, but time is malleable or freer
 
-This leads to friction that creates much more light than a galaxy.
-
-In time, matter as planets, asteroids, comets etc get snagged, crushed and spit out back as light and energy to be sent far away.
-
-This de-crudifies energy and re-energizes the universe.
-
-It follows that that the ratio of galaxies and quasars should be roughly similar. It means that some bright galaxies should be reclassified as quasars. 
-
-These may be elliptical like normal galaxies but are distinguished by the lack of arms or distinctive features because of the difference of the motion of the parts and the center. 
+This has practical uses:
+- In Material Superphysics, this leads to teleportation.
+- In Bio Superphysics, this leads to anti-aging.
+- In Social Superphysics, this leads to the faster evolution of societies.
 
 
-## Antimatter as Reverse Vortices in the Radiant, Convertible, and Material Layers
+<!-- Currently, Physics has is stuck because Einstein used light as a measuring rod for all of spacetime. The problem is that light is part of the Radiant Layer which is naturally inferior to the Spatial layer which spacetime is a part of. 
 
-These reverse vortices in the material Element (earth-aether) manifest as anti-matter, such as anti-proton and anti-hydrogen. 
+**So Einstein used the inferior to judge the superior.** 
 
-These convert visible (counterclockwise) matter vortices back into invisible spacetime particles upon contact. 
+The effect of this is that the real nature of the spacetime is not revealed. This prevents and development of spacetime technologies such as:
+- anti-gravity
+- teleportation
+- time travel 
+- speeding up or freezing of photons via the aether
 
-The opposite rotations lead to friction, creating photons until both particles fizzle out and convert to spacetime, as consistency of Cartesian principles in macro and micro.
+Instead of Minkowski spacetime, we use the Cartsian View. This splits up reality into individual slices separated by Planck time for timespan and Planck length for distance.
 
-These principles mean that antimatter can be created more cheaply by changing the vortex rotation (called left or right hand spin by Modern Physics) directly with far less energy.
-
-Unlike evil Einstein who used Physics to promote nuclear bombs, Cartesians have a higher moral and intellectual standard and will not use vortex science to make antimatter weapons to vaporize enemies back into spacetime particles. 
-
-In fact, Cartesian Physics can delete ALL of Einstein's principles and replace them with Lorentz Relativity in Poincare spacetime, using aethereal vortices to explain both macro and micro.
+< img src="/graphics/physics/In the above example, a  man walking from southwest to northeast is represented by a dot. The Cartesian View splits this movement into different slices of reality where each slice is an instance of perception. ">}} -->
+ 

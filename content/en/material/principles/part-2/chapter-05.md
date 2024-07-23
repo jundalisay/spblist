@@ -1,46 +1,98 @@
 ---
 heading: "Chapter 5"
-title: "Descartes' Quantum Tunneling and Nuclear Fusion"
-date: 2023-10-31
-image: "/graphics/physics/tunnel.jpg"
-description: "Descartes wrote about cosmology based on the aether-first paradigm, opposite of Newton's matter-first paradigm"
+title: "The Quantum of Spacetime"
+date: 2020-01-31
+image: /photos/physics/galaxy.jpg
+description: "The Quantum of Spacetime is the fundamental particle in the Spatial Layer"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 34
+weight: 16
 icon: /icons/spmat.png
+# was 3
 ---
 
 
+Chapter 4 explained that the main substance of the Spatial layer is the rortating vortex commonly known as black holes or quasars.
 
-{{< q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
-[According to Descartes]..the Sun was the fiery center of a circular stream of ether, which flowed continually round her.
-{{< /q >}}
+The quanta or smallest essence for the Spatial Layer are:
+
+Sublayer | Quanta | Examples
+--- | --- | ---
+Upper | Galactic Quantum of Spacetime Qost (also Quantum of Timespace Qots) | Galactic Vortices
+Middle | Non-galactic Qost | Stellar and Planetary Vortices
+Lower | Material Qosts | Subatomic Vortices
+
+{{< b >}}
+### Why are Galaxies both Qost and Qots?
+
+We refer to galaxies as qosts when their nature is confined to a single universe or reality.
+
+We refer to them as qots when their nature is compared to those of other universes or realities. 
+
+Since the current sciences have no knowledge of the properties of other universes or realities, then we will refer to them as qosts. But after humans learn how to teleport to other galaxies then they will be referred to as qots.    
+{{< /b >}}
 
 
 
-In the 1630's, Descartes wrote about cosmology based on the aether-first paradigm which is opposite of Newton's matter-first paradigm. 
+The quantum of spacetime or qost is the basic unit or quantum in the spatial layer. It manifests as empty space and is called the 2nd Element in Cartesian Physics.
 
-What we call spacetime, he called the Air Aether. 
+Like qoas (ideas), qosts are above the Radiant Layer. This makes them likewise invisible and not tangible. For example, you see that there is a space between you and your desk, but you cannot see the properties of that space.
 
-What we call electromagnetism, he called the Fire Aether.
+In ancient natural philosophy, the aether was called the metaphysical 'air' that filled all of physical existence, preventing any Void in Nature. 
 
-What we call matter or strong force, he called the Earth Aether.
 
-In Chapters 8-9 of The World, he explained quantum tunelling as the mechanism of how stars, as pure Fire Aether, form and emit light.
+### Properties of Qosts
 
-According to him, the aethereal particles of spacetime (Air Aether) form circular paths which are then filled by electromagnetism (Fire Aether). These create energetic vortices that gather energy and emit light.
+<!-- Since it is one layer above the radiant layer which facilitates sight and touch, then it is not visible nor tangible.  -->
 
-He uses an analogy of 2 rivers that meet at a point then diverge. Heavy particles merge and fuse in the central vortex created by a natural configuration of spacetime (Air Aether). The lighter particles go out of the vortex, eventually manifesting as light. 
+Its substance or representative perception is a black hole which we name depending on its layer.
 
-To keep the energy going, some energetic Fire Aether tunnel to other paths, bypassing the Air Aether (Coulomb Barrier).  
+Layer | Substance Name | Physics Name
+--- | --- | ---
+Spatial | Galactic Qost | Supermassive Black Hole
+Radiant | Stellar Qost |  Black Hole
+Convertible | Planetary Qost | Planetary Core
+Material | Material Qost | Center of Gravity
 
-From this, we clearly see that the true mechanism or driver of fusion is the arrangement of spacetime (Air Aether) at a specific point, and not the matter or strong force (Earth Aether) that is its effect, nor the electromagnetism (Fire Aether) that facilitates that accumulation of energy. 
 
-In other words, a star's particles owes its energy, size, color, longevity, etc to the spacetime vortex or matrix that allows it to gather and gain energy from other particles in first place.
+In terms of the 3 influences or gunas, qosts can be classified into:
 
-This is why the key to both natural and artificial fusion is the proper manipulation of spacetime as to create a vortex or matrix for electromagnetism. 
+ <!-- 3 There are 3 types of qosts just as there are 3 types of leptons in the Radiant Layer and 3 color charges in the Material Layer: -->
 
-Modern Physics does not know how to do this and so nuclear fusion is still not realized. Physicists shallowly think that fusion will work if simply more electromagnetic energy is added. This is a product of materialist thinking and has failed to realize fusion on Earth. 
+Sublayer | Qost Type 
+--- | ---
+Upper | Metaphysical qosts
+Middle | Galaxies and Quasars
+Lower | Stars, Planets, Moons, Material Things
 
-The Cartesian spacetime vortices not only explain how stars shine, but also explain the creation of the universe, as an aethereal Big Bang that matches the findings of the Jame Webb Space Telescope.
+
+
+In terms of its 3 media due to the 3 influences of gunas:
+
+Sublayer | Medium
+--- | ---
+Upper | Metaphysical Timespace (force of timespace to split up perceptions)
+Middle | Timespace (aging or force of time)
+Lower | Spacetime (gravity of force of space)
+
+
+## Detection and Size
+
+The properties of qosts are detected through:
+- the upper aethereal layer as the changing of ideas through time and space  
+- the lower layers as the reaction of light and material particles 
+
+For example, we know that there is a black hole in the center of our galaxy because of how the visible radiant stars go around it. Likewise, you see the space between you and the desk because of the existence of you and the material desk.
+
+From these, we can plainly see that the qosts around our table is very different from those in the supermassive black hole of a galaxy. 
+
+In planets, a planetary qost is detected by the behavior of mass around it. 
+
+The qost of a heavenly body in Physics is the Schwarzschild Radius of that body. For example, a galaxy's qost is the event horizon of its supermassive black hole. 
+
+The qost of a planet such as the Earth is the Schwarzschild Radius of the Earth which is 1 centimeter, while that of the sun is 3 kilometers.
+
+The qost of a non-heavenly material body, such as a ballpen, rock, or empty space, is the Planck length. 
+
+

@@ -7,7 +7,7 @@ description: "The practical use of qosts is to enable levitation and teleportati
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 38
+weight: 48
 icon: /icons/spmat.png
 ---
 

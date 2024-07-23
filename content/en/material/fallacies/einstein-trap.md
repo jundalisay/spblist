@@ -36,23 +36,11 @@ This circular reasoning is why physicists are unable to unify Relativity with Qu
 - **Quantum mechanics** is about the arbitrariness and unpredictability of the aether or the highest parts of Nature. This is like the whims of the executives of a company.
 - **Einstein's Relativity** is about the predictability of the lowest parts of Nature, as mass and electromagnetic potential. This is like the orderliness and predictability of factory workers who come to work and go home on time every day. 
 
+This trap locks in 
 
-### The Cartesian Alternative
 
-To free Physics from the trap, we use the definitions derived from Rene Descartes. 
 
-- space as the gap within perception
-- distance is the gap between perceived identities
-- timespan is the gap between perceptions
-- time is the gap between perceptions in general 
 
-<!-- All movement happens within a distance and all observations of such movement happens within timespan. Thus, all formulations of the rules on movement must take into account *distance* and *timespan*, which humans carelessly bunch up as "space" and "time".  -->
-
-{{< youtube Va3VvSrR8YA >}}
-
-Unlike speed and mass, this system uses **perception** and **identities within that perception**. 
-- the spacetime within perception were called "extension" and time
-- the spacetime related to identities were called "space" and moment
 
 
 The movements of everyday objects are quite slow. Usually, distance is just:
