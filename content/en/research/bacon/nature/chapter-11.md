@@ -73,13 +73,28 @@ Thus, absolute equality produces transparence, inequality in simple order or pro
 
 Out of this assertion are satisfied a multitude of effects and observations, as that whiteness and blackness are most incompatible with transparence; that whiteness keepeth light, and blackness stoppeth light, but neither passeth it; that whiteness or blackness are never produced in rainbows, diamonds, crystals, and the like; that white giveth no dye, and black hardly taketh dye; that whiteness seemeth to have an affinity with dryness, and blackness with moisture; that adufition causeth blackness, and calcination whiteness; that flowers are generally of fresh colours, and rarely black, &c., all which I do now mention confusedly by way of derivation, and not by way of induction. 
 
-This sixth direction, which I have thus explained, is of good and competent liberty, for whiteness fixed and inherent; but not for whiteness fantastical, or appearing, as shall be afterwards touched. But first do you need a reduction back to certainty or verity; for it is not all position or contexture of unequal bodies that will produce colours; for aquafortis, oil of vitriol, &c. more manifestly, and many other substances more obscurely, do consist of very unequal parts, which yet are transparent and clear. 
+This sixth direction is of good and competent liberty, for whiteness fixed and inherent; but not for whiteness fantastical, or appearing, as shall be afterwards touched. 
 
-Therefore the reduction must be, that the bodies or parts of bodies so intermingled as before, be of a certain grossness or magnitude; for the unequalities which move the sight must have a further dimension and quantity than those which operate many other effects. Some few grains of saffron will give a tincture to a tun of water, but so many grains of civet will give a perfume to a whole chamber of air. And therefore when Democritus, from whom Epicurus did borrow it, held that the position of the solid portions was the cause of colours; yet in the very truth of this assertion he should have added, that the portions are required to be of some magnitude. 
+But first do you need a reduction back to certainty or verity; for it is not all position or contexture of unequal bodies that will produce colours; for aquafortis, oil of vitriol, &c. more manifestly, and many other substances more obscurely, do consist of very unequal parts, which yet are transparent and clear. 
 
-This is one cause why colours have little inwardness and necessitude with the nature and proprieties of things, those things resembling in colour, which otherwise differ most, as salt and sugar: and contrariwise differing in colour, which otherwise resemble most, as the white and blue violets, and the several veins of one agate or marble, by reason that other virtues consist in more subtile proportions than colours do; and yet are there virtues and natures which require a grosser magnitude than colours, as well as scents and divers other require a more subtile; for as the portion of a body will give forth scent, which is too small to be seen; so the portion of a body will show colours, which is too small to be endued with weight: 
+Therefore the reduction must be, that the bodies or parts of bodies so intermingled as before, be of a certain grossness or magnitude; for the unequalities which move the sight must have a further dimension and quantity than those which operate many other effects. 
 
-Therefore one of the prophets with great elegancy describing how all creatures carry no proportion towards God the creator, saith, "That all the nations in respect of him are like the dust upon the balance;" which is a thing appeareth, but weigheth not. But to return, there resteth a further freeing of this sixth direction: for the clearness of a river or stream showeth white at a distance, and crystalline glasses deliver the face or any other object falsified in whiteness, and long beholding the snow to a weak eye giveth an impression of azure, rather than of whiteness. 
+Some few grains of saffron will give a tincture to a tun of water, but so many grains of civet will give a perfume to a whole chamber of air. 
+
+
+Epicurus borrowed the idea from Democritus that the position of the solid portions was the cause of colours.
+
+Yet he should have added that the portions are required to be of some magnitude. 
+
+This is one cause why colours have little inwardness and necessitude with the nature and proprieties of things, those things resembling in colour, which otherwise differ most, as salt and sugar: 
+
+Contrariwise, differing in colour, which otherwise resemble most, as the white and blue violets, and the several veins of one agate or marble, by reason that other virtues consist in more subtile proportions than colours do; 
+
+Yet are there virtues and natures which require a grosser magnitude than colours, as well as scents and divers other require a more subtile; for as the portion of a body will give forth scent, which is too small to be seen; so the portion of a body will show colours, which is too small to be endued with weight: 
+
+Therefore one of the prophets with great elegancy describing how all creatures carry no proportion towards God the creator, saith, "That all the nations in respect of him are like the dust upon the balance;" which is a thing appeareth, but weigheth not. 
+
+But to return, there resteth a further freeing of this sixth direction: for the clearness of a river or stream showeth white at a distance, and crystalline glasses deliver the face or any other object falsified in whiteness, and long beholding the snow to a weak eye giveth an impression of azure, rather than of whiteness. 
 
 So as for whiteness in apparition only, and representation, by the qualifying of the light, altering the intermedium, or affecting the eye itself, it reacheth not.
 

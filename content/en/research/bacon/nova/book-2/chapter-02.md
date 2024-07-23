@@ -44,14 +44,19 @@ This method of operating:
 2. This rule depends on the discovery of the latent process does not proceed by simple natures,[114] but by concrete bodies, as they are found in nature and in its usual course.
 
 The following species of inquiry is not confined to the mere generation of bodies. It is applicable to other changes and labors of nature:
-- From what beginnings, in what manner, and by what process gold or any metal or stone is generated from the original menstruum, or its elements, up to the perfect mineral
+- Where and how is gold, metal, or stone generated from the original menstruum, or its elements, up to the perfect mineral?
 - how are plants generated from seeds? 
 - how are animals generated from coition to birth?
 
 
-For instance, where an inquiry is made into the whole series and continued operation of the nutritive process, from the first reception of the food to its complete assimilation to the recipient;[77] or into the voluntary motion of animals, from the first impression of the imagination, and the continuous effects of the spirits, up to the bending and motion of the joints; or into the free motion of the tongue and lips, and other accessories which give utterance to articulate sounds. 
+Examples are inquries made into the whole series and continued operation of:
+- the nutritive process, from the first reception of the food to its complete assimilation[77] 
+- the voluntary motion of animals, from the first impression of the imagination, and the continuous effects of the spirits, up to the bending and motion of the joints
+- the free motion of the tongue and lips, and other accessories which give utterance to articulate sounds. 
 
-All these investigations relate to concrete or associated natures artificially brought together. These take into consideration certain special habits of nature, and not those fundamental and general laws which constitute forms. 
+All these investigations relate to concrete or associated natures artificially brought together. 
+
+These take into consideration certain special habits of nature, and not those fundamental and general laws which constitute forms. 
 
 This method appears more prompt and easy, and of greater promise than the primary one.
 
@@ -62,7 +67,9 @@ It extends and advances its operation from that which is usually observed in nat
 
 But the higher and radical operations upon nature depend entirely on the primary axioms. 
 
-Besides, even where man has not the means of acting, but only of acquiring knowledge, as in astronomy (for man cannot act upon, change, or transform the heavenly bodies), the investigation of facts or truth, as well as the knowledge of causes and coincidences, must be referred to those primary and universal axioms that regard simple natures; such as the nature of spontaneous rotation, attraction, or the magnetic force, and many others which are more common than the heavenly bodies themselves. For let no one hope to determine the question whether the earth or heaven revolve in the diurnal motion, unless he have first comprehended the nature of spontaneous rotation.
+Besides, even where man has not the means of acting, but only of acquiring knowledge, as in astronomy (for man cannot act upon, change, or transform the heavenly bodies), the investigation of facts or truth, as well as the knowledge of causes and coincidences, must be referred to those primary and universal axioms that regard simple natures; such as the nature of spontaneous rotation, attraction, or the magnetic force, and many others which are more common than the heavenly bodies themselves. 
+
+For let no one hope to determine the question whether the earth or heaven revolve in the diurnal motion, unless he have first comprehended the nature of spontaneous rotation.
 
 
 

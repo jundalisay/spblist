@@ -1,13 +1,17 @@
 ---
-heading: "Chapter 12"
-title: "Gravity from Qosts"
-date: 2024-0-7-22
-image: "/graphics/physics/francis.jpg"
-description: "Here we explain how gravity works"
-weight: 44
+heading: "Chapter 8b"
+title: "Gravity"
+date: 2023-03-10
+weight: 30
+image: /graphics/physics/expansion.jpg
+description: "Everything is expanding, even your own atoms."
 icon: /icons/spmat.png
-# linked to public
+# was 04c
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
+
 
 
 In Cartesian Physics, gravity is caused by spacetime vortices, not by matter. 

@@ -14,7 +14,7 @@ aliases:
 ---
 
 
-### 15. How were these bodies generated? First, The General Motion Of Air-Aether Globules
+#### 15. How were these bodies generated? First, The General Motion Of Air-Aether Globules
 
 <!-- Celestial -->
 The production of material bodies on Earth depends on 4 principal actions:
@@ -45,7 +45,7 @@ And so they mix with the particles of the earth-aether to compose all the bodies
 
 
 
-### 16. The First Effect of Air-Aether Motion: Make Bodies Transparent
+#### 16. The First Effect of Air-Aether Motion: Make Bodies Transparent
 
 <!-- terrestrial -->
 The air-aether in the earth-aether makes all liquid earth-aether bodies so fine that these globules are carried in all directions around them. This makes them transparent. 
@@ -104,7 +104,9 @@ When the particles of terrestrial bodies, especially liquids, are confusedly joi
 - mix others more accurately*
   - They arranging them in such a way that each droplet of the liquid formed from them is entirely similar to all other droplets of the same liquid.
 
-> *Superhysics Note: This is currently attributed to centrifugal and centripetal forces. But here, Descartes unifies them as properties of the 2nd Element in relation to identity, freedom, and confinement
+
+{{< n n="This is currently attributed to centrifugal and centripetal forces. But here, Descartes unifies them as properties of the 2nd Element in relation to identity, freedom, and confinement" >}}
+
 
 
 When air-aether globules move through the passages of liquid terrestrial bodies, they constantly displace the earth-aether particles that come in their way.
@@ -126,9 +128,19 @@ The same should be assumed for other pure liquids.*
 
 
 
-### 19. The Third Effect of Air-Aether Motion: Make Drops Of Liquids Round 
+### 19. The Third Effect of Air-Aether Motion: Make Suspended Drops Of Liquids Round 
 
-*Meteoris* explained that the third effect of air-aether globules is to make drops of liquids round. 
+<!-- these celestial globules have vastly different paths in a drop of water than in the surrounding air, and always move as much as possible along straight lines, or lines approaching straightness, it is evident that those in the air are less impeded in their motions by the presence of a water drop, maintaining their motion along lines deflecting as little as possible from straight lines, if the drop is perfectly spherical, rather than taking any other shape. 
+
+
+For if there is any part on the surface of that drop that protrudes beyond a spherical shape, the celestial globules moving through the air will strike it with greater force than other parts, and thus push it towards the center of the drop; 
+
+and if there is any part of the surface closer to the center than the others, the celestial globules contained within the drop will expel it from the center with greater force; 
+
+and so all forces will concur to form a spherical drop.  -->
+
+
+*Meteors* explained that the third effect of air-aether globules is to make drops of liquids, suspended in the air or another liquid different from them, round. 
 
 <!-- hanging in the air or any other liquid, round, as I have explained . -->
 
@@ -145,10 +157,14 @@ To resume their usual straight-line path, they press on the droplet to make it p
 
 This will cause the air-aether to push the protruding part towards the center of the droplet. 
 
-Likewise, if any part of the droplet is sunk closer to the center than the rest of the surface, the internal air-aether in the droplet itself, will push that sunken area more forcefully from the center.
+Likewise, if any part of the droplet is sunk closer to the center than the rest of the surface, the internal air-aether in the droplet itself [which is also rotating?] will push that sunken area more forcefully from the center.
 
 And so all air-aether contribute to making a spherical droplet.
 
+A straight line is most uniformly inflected in each of its points when it degenerates into a circular curve.
+
+<!-- And since the angle of contact, by which alone a circular line differs from a straight one, is smaller than any rectilinear angle, and is equal everywhere only in a circular line, it is certain that 
+
 And since the angle of contact, the only one that deviates from a straight line, is always smaller than any rectilinear angle, and in no curved line except a circular one is equal everywhere: 
 
-it is certain that a straight line can never be more equally, and less deviate in each of its points than when it degenerates into a circular line.
+it is certain that a straight line can never be more equally, and less deviate in each of its points than when it degenerates into a circular line. -->

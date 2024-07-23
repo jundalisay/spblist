@@ -11,6 +11,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
+
 Cicero, the orator, was willing to magnify his own profession. He said that eloquence was not a shop of good words and elegancies. It was a treasury of all knowledges, the type handles and moves the minds and affections of men by speech.
 
 He complains of the school of Socrates. Before Socrates, the professors of wisdom in Greece pretended to teach a universal  knowledge both of matter and words.

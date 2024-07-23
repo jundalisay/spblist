@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3c"
+heading: "Chapter 5d"
 title: "The Galactic Qosts as Spatial Vortices"
 date: 2020-01-31
 image: "/photos/physics/messier87.jpg"
@@ -14,17 +14,15 @@ icon: /icons/spmat.png
 
 
 
-<!-- Galaxies and neutron stars rotate counterclockwise.
-Quasars and pulsars rotate clockwise.
- -->
-
 A galaxy is the best representative body of the lower spatial layer in nature, as a galactic qost, just as lightning is the best representative of the lower radiant layer. 
 
 Galaxies themselves do not emit matter and energy (unless they are very young or very old as quasars). They instead hold the stars (stellar qosts) and planets. 
 
 The structure of a galaxy depends on the rotation and energy of its vortex. 
 
-According to Descartes, a galaxy forms when qosts (which he calls the Air Element) collide with other qosts. The weaker and smaller ones revolve around the larger and stronger ones. These larger ones are naturally sepearated by their mutual repulsion from the need to retain their uniqueness.  
+According to Descartes, a galaxy forms when qosts (which he calls the Air Element) collide with other qosts. 
+- The weaker and smaller ones revolve around the larger and stronger ones. 
+- These larger ones are naturally sepearated by their mutual repulsion from the need to retain their uniqueness.  
 
 {{< q a="Descartes" c="The World Simplified" >}}
 At the beginning, God placed every sort of inequality among these particles. They had all sorts of sizes, shapes, and dispositions to move or not to move, in all ways and in all directions. But that does not prevent them afterwards from having been rendered almost all fairly equal, especially those that remained an equal distance from the centers around which they were turning.

@@ -74,7 +74,7 @@ God, on the other hand, is actually infinite. Nothing can be added to his perfec
 
 <!-- If one concentrates carefully, all this is quite evident by the natural light. But when I relax my concentration, and my mental vision is blurred by the images of things I perceive by the senses, I lose sight of the reasons why my idea of more perfect being has to come from a being that really is more perfect. So I want to push on with my enquiry, now asking a new question:  -->
 
-If the God didn’t exist, could I exist? 
+If God didn’t exist, could I exist? 
 
 The answer to this will give a new proof of God's existence. <!--  of a perfect being – a proof that it will be easier for me to keep in mind even when I relax my concentration. -->
 
@@ -94,9 +94,16 @@ If I had derived my existence from myself, then I would not doubt<!--  or want o
 
 Perhaps I have always existed and I would not need a cause. <!-- In that case, wouldn’t it follow that there need be no cause for my existence? No, it does not follow. -->
 
-A life-span can be divided into countless parts, each completely independent of the others. My existence at one time doesn’t follow that I exist at later times, unless some cause keeps me in existence. That cause creates me afresh at each moment.
+A life-span can be divided into countless parts, each completely independent of the others. 
 
-The nature of time is different in the time for <!--  will understand that what it takes to --> bringing something into existence, and the time needed to keep a thing existing. <!--  is also needed to keep it in existence at each moment of its duration.  -->
+My existence at one time does not follow that I exist at later times, unless some cause keeps me in existence. That cause creates me afresh at each moment.
+
+The nature of time is different in:
+- the time for <!--  will understand that what it takes to --> bringing something into existence*, and
+- the time needed to keep a thing existing. <!--  is also needed to keep it in existence at each moment of its duration.  -->
+
+{{< n n="This is the difference between timespace and spacetime" >}}
+
 
 Thus, there is no real distinction between preservation and creation – only a conceptual one. This is exposed by the natural light.
 
@@ -147,8 +154,7 @@ How did I receive this idea from God?
 
 I did not get it from the senses*. It has never come to me unexpectedly, as do most of the ideas that occur when I seem to see and touch and hear things. 
 
-
-> *Superphysics note: It comes from the intuitional sense called the feelings
+{{< n n="It comes from the intuitional sense called the feelings" >}}
 
 
 I did not invent the idea of God either. I cannot take anything away from it or to add anything to it. 

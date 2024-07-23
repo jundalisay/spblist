@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6"
+heading: "Chapter 13"
 title: "Technologies from Qosts"
 date: 2020-01-31
 image: "/photos/physics/phoenix.jpg"

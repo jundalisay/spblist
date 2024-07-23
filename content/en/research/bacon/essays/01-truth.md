@@ -177,11 +177,21 @@ One of the fathers, in great severity, called poesy vinum daemonum, because it f
 
 But howsoever these things are thus in men's depraved judgments, and affections, yet truth, which only doth judge itself, teacheth that the inquiry of truth, which is the love-making, or wooing of it, the knowledge of truth, which is the presence of it, and the belief of truth, which is the enjoying of it, is the sovereign good of human nature.
 
-The first creature of God, in the works of the days, was the light of the sense; the last, was the light of reason; and his sabbath work ever since, is the illumination of his Spirit. First he breathed light, upon the face of the matter or chaos; then he breathed light, into the face of man; and still he breatheth and inspireth light, into the face of his chosen. 
+The first creature of God, in the works of the days, was the light of the sense.
+
+The last, was the light of reason.
+
+His sabbath work ever since, is the illumination of his Spirit. 
+
+First he breathed light, upon the face of the matter or chaos. Then he breathed light, into the face of man. Then he breathed and inspired light, into the face of his chosen. 
 
 The poet, that beautified the sect, that was otherwise inferior to the rest, saith yet excellently well:
 
-It is a pleasure, to stand upon the shore, and to see ships tossed upon the sea; a pleasure, to stand in the window of a castle, and to see a battle, and the adventures thereof below: but no pleasure is comparable to the standing upon the vantage ground of truth (a hill not to be commanded, and where the air is always clear and serene), and to see the errors, and wanderings, and mists, and tempests, in the vale below; so always that this prospect be with pity, and not with swelling, or pride. Certainly, it is heaven upon earth, to have a man's mind move in charity, rest in providence, and turn upon the poles of truth.
+It is a pleasure, to stand upon the shore, and to see ships tossed upon the sea; a pleasure, to stand in the window of a castle, and to see a battle, and the adventures thereof below: 
+
+but no pleasure is comparable to the standing upon the vantage ground of truth (a hill not to be commanded, and where the air is always clear and serene), and to see the errors, and wanderings, and mists, and tempests, in the vale below; so always that this prospect be with pity, and not with swelling, or pride. 
+
+Certainly, it is heaven upon earth, to have a man's mind move in charity, rest in providence, and turn upon the poles of truth.
 
 To pass from theological, and philosophical truth, to the truth of civil business; it will be acknowledged, even by those that practise it not, that clear, and round dealing, is the honor of man's nature; and that mixture of falsehoods, is like alloy in coin of gold and silver, which may make the metal work the better, but it embaseth it. 
 

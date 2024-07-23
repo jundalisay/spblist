@@ -29,7 +29,9 @@ For example, physicists fail at fusion because they confine plasma with magnetis
 
 
 
-The spatial layer is below the aethereal, as the 'container' of a universe in an existence made up of a multiverse. 
+The spatial layer is below the aethereal, as the 'container' of reality. 
+
+<!-- a universe in an existence made up of a multiverse.  -->
 
 
 Spatial Layer | Name | Physics Counterpart
@@ -37,11 +39,15 @@ Spatial Layer | Name | Physics Counterpart
 Traditional Name | Air | Spacetime
 Substance | Sost | Black Holes 
 Medium | Most | Span (Distance, Timespan, Speed) 
-Quanta | Qost | Graviton
+Quanta | Qost / Qots | Graviton
 
 
-It is purely kinetic energy and has no static forms. Rather, the static forms of spacetime manifest as the lower layers. 
+It is purely kinetic energy and has no static forms*. Rather, the relatively static forms of spacetime manifest as the lower layers.
 - Parts that have low kinetic energy manifest as empty space or a vacuum. 
+
+{{< m m="*The static forms in the nucleon of an atom are made up of the Material Layer and not of Spacetime." >}}
+
+
 
 The spatial layer leads to spacetime and sets the speed of light, since it is superior to the the 3 lower Layers of:
 - Electromagnetism

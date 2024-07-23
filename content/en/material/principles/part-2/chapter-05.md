@@ -13,7 +13,28 @@ icon: /icons/spmat.png
 ---
 
 
-Chapter 4 explained that the main substance of the Spatial layer is the rortating vortex commonly known as black holes or quasars.
+Chapter 4 explained that the main substance of the Spatial layer is the rotating vortex commonly known as black holes or quasars.
+
+
+The quanta of the spatial layer are called:
+
+1. Quantum of Spacetime or Qosts
+
+Qosts manifest invisibly as spacetime particles, the smallest of which are of the Planck length.
+
+2. Quantum of Timespace or Qots'
+
+Qosts manifest invisibly as timespan perceptions, the smallest of which are Planck time.
+
+
+<!-- Since the spatial black holes are the representative   in Superphysics, its main properties are: -->
+
+Both qosts and qots' have the following properties:
+
+1. Vortex energy quantity
+2. Vortex energy quality
+3. Vortex rotation direction
+
 
 The quanta or smallest essence for the Spatial Layer are:
 
@@ -22,6 +43,7 @@ Sublayer | Quanta | Examples
 Upper | Galactic Quantum of Spacetime Qost (also Quantum of Timespace Qots) | Galactic Vortices
 Middle | Non-galactic Qost | Stellar and Planetary Vortices
 Lower | Material Qosts | Subatomic Vortices
+
 
 {{< b >}}
 ### Why are Galaxies both Qost and Qots?
@@ -53,7 +75,8 @@ Layer | Substance Name | Physics Name
 Spatial | Galactic Qost | Supermassive Black Hole
 Radiant | Stellar Qost |  Black Hole
 Convertible | Planetary Qost | Planetary Core
-Material | Material Qost | Center of Gravity
+Material | Material Qost | Electron Cloud 
+<!-- Center of Gravity -->
 
 
 In terms of the 3 influences or gunas, qosts can be classified into:
@@ -77,15 +100,24 @@ Middle | Timespace (aging or force of time)
 Lower | Spacetime (gravity of force of space)
 
 
-## Detection and Size
+## Detection of Qosts
 
-The properties of qosts are detected through:
+The properties of qosts are detected through the reaction of the lower layers to it. This can be done through passive observation.
+
+<!-- :
 - the upper aethereal layer as the changing of ideas through time and space  
-- the lower layers as the reaction of light and material particles 
+- the lower layers as the reaction of light and material particles --> 
 
-For example, we know that there is a black hole in the center of our galaxy because of how the visible radiant stars go around it. Likewise, you see the space between you and the desk because of the existence of you and the material desk.
+For example, we know that there is a black hole in the center of our galaxy because of how the visible radiant stars go around it. 
+- Here, the Radiant Layer exposes a stellar qost of the Spatial Layer
 
-From these, we can plainly see that the qosts around our table is very different from those in the supermassive black hole of a galaxy. 
+Likewise, you see the space between you and the desk because of the existence of your material body and the material desk.
+- Here, the Material Layer exposes the qosts around you. 
+
+ <!-- of the Spatial Layer -->
+
+
+<!-- From these, we can plainly see that the qosts around our table is very different from those in the supermassive black hole of a galaxy. 
 
 In planets, a planetary qost is detected by the behavior of mass around it. 
 
@@ -93,6 +125,10 @@ The qost of a heavenly body in Physics is the Schwarzschild Radius of that body.
 
 The qost of a planet such as the Earth is the Schwarzschild Radius of the Earth which is 1 centimeter, while that of the sun is 3 kilometers.
 
-The qost of a non-heavenly material body, such as a ballpen, rock, or empty space, is the Planck length. 
+The qost of a non-heavenly material body, such as a ballpen, rock, or empty space, is the Planck length.  -->
 
+## Detection of Qots'
 
+The properties of qots' are detected through the reaction of the body itself (the one with the qots). This can also be done by passive observation. 
+
+However, the best method is to do active observation through probing. 

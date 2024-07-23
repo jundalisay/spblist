@@ -13,7 +13,7 @@ icon: "/icons/descartes.png"
 
 ### 24. How much gravity does a Body Have?
 
-There is also some air-aether in the channels of `Body B`. 
+There is also some air-aether in the channels of rock `B`. 
 
 This air-aether opposes the air-aether in the physical air, which then renders the air-aether in the channels idle.
 
@@ -24,7 +24,7 @@ This air-aether opposes the air-aether in the physical air, which then renders t
 <!-- an equal quantity of similar -->
 
 
-Likewise, there are some earth-aether particles in the air mass that oppose the earth-aether particles of `Body B`. But these do nothing to the earth-aether particles of that body. 
+Likewise, there are some earth-aether particles in the air mass that oppose the earth-aether particles of rock `B`. But these do nothing to the earth-aether particles of that body. 
 
 Subtracting these from both sides, the remaining air-aether in this air mass acts on the remaining earth-aether particles of `Body B`. 
 

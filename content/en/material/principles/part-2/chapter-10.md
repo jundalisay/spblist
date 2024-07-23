@@ -1,129 +1,257 @@
 ---
-heading: "Chapter 4"
-title: "Spatial Relationality"
-# date: 2020-01-31
-date: 2021-12-30
-weight: 32
-image: /graphics/gravrelm.png
-description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
-icon: /icons/spmat.png
-# was 04d
+heading: "Chapter 11"
+title: "The Creation of the Universe as a Big Bootup"
+date: 2020-01-31
+linkTitle: "Qost"
+image: "/photos/physics/quasar.jpg"
+description: "Instead of a Big Bang, the universe began as a Big Bootup"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+weight: 36
+# was 04
+icon: /icons/spmat.png
+aliases:
+  /material/principles/qost
+  /material/principles/part-2/chapter-02b  
 ---
 
 
-Spatial Relationality is deals with the movement between of quanta of spacetime (qosts) as heavenly bodies and material things. 
+Instead of a Big Bang, the universe began as a "Big Bootup" or "Wakeup" when ideas flowed from the metaphysical plane onto the physical plane. 
 
-Our theory of Unviersal Relationality 
+These ideas flow down onto the five layers or elements of the Greeks, Hindus, and Chinese in five phases:
 
- <!-- The Newtonian and Einsteinian movement -->
-
-<!-- We explained the flaws in General Relativity:
-- it is limited to visible movement
-- it cannot extend to explain the cause of spacetime
-
-These flaws lead to theories on  dark matter or wormholes and singularities that have never been found. They were caused by Einstein's reliance on arbitrary tensors to lead to his concept of the fabric of spacetime. This is a necessary consequence of him thinking in terms of electromagnetic fields from his earlier work with the photoelectric effect.
-
-Metaphysically, his mind imagined the universe from the perspective of light which has two known properties:
-
-- it has a speed limit of 300km/s -- this leads to c
-- it can travel arbitrarily -- this leads to the arbitrary metric tensor -->
+Phase | Layer | Physics Name | Sequence  
+--- | --- | --- | ---
+0 | Metaphysical | Pseudo-science | The pre-existing ideas as potentialities are deployed onto reality
+1 | Aethereal | Higgs | The aether compiles the <!-- potential ideas as actual --> compound ideas as potential universes in the multiverse
+2 | Spatial | Gravitation | The compiled ideas are sent through qosts as galaxies and then as stars. These create space and time, as well as gravity
+3 | Radiant | Electromagnetism | The friction between qosts convert some of them into qols (photons) and qoes (electrons) in the stellar qosts
+4 | Convertible | Weak force | The collisions convert some of the qosts into W and Z bosons (qout and qolt respectively) which are essential for fusion
+5 | Material | Strong force | Finally, the strong force convert some of the qosts into quarks which form into hydrogen (M1)
 
 
+Part 1 of Creation is explained in [another chapter](/material/principles/part-1/chapter-04b).
+
+Here, we explain Phase 2 of the journey of the compiled or 'packaged' ideas from aethereal probability into physical reality in space and through time.  
 
 
+## Phase 2: The Universe Takes Shape Thanks to Spacetime
 
-This paradigm then leads to new technologies as:
-- teleportation (instant state-change) and
-- levitation (gradual state-change). 
+<!-- all movement is sourced internally from an identity's gravitational signature. [Afterwards](/material/universal-relativity), the aether pushes that identity relative to other identities depending on what layer it is in: -->
 
-It renders quantum fields and some of Einstein's tensors useless, just as Copernicus and Kepler rendered the spheres of Ptolemy useless.
+Phase 1 of the existence of a Universe is when its Matrix boots up, or the Mind of Brahma starts to think about that Universe. We use the Matrix analogy for nonspiritual or close minded people. We use the Brahma analogy for spiritual or open minded ones.
 
-More importantly, it discards the sophistical ideas of wormholes, singularities, and dark matter (in its current definition) to be replaced with vortices of the 5 Elements or Layers.
+This activates the aethereal layer to get the many ideas of the Supreme for that Universe. The ideas come from pre-existence and are transferred onto aethereal existence by the desire from the Positive Force of the Supreme. 
 
-<!-- Sophistry. Quantum physics is at a dead end because it imposes a sophistry called the fabric of spacetime that controls gravity and limits the speed of light. In 
+The aethereal ideas we call as 'quanta of aether' (qoas) as ideas which are meant for physical existence. These qoas then get funneled into nodes which we call quanta of spacetime (qosts) which exist in the layer under the aethereal layer.
 
-is from Socrates saying is thrice removed from the truth. If you look at it mathematically, it doesnt' make sense. 
+The universe thus shifts from aetherel probability into spatial reality (i.e experiences space and time). 
 
-Newton was actually the first one to popularize this with the concept of Newton's apple falling. It assumes that the cause of the fall was an external force called gravity from the Earth. But in Superphysics, the fall of the apple is caused by the G of the apple's qost or center of gravity relative to the qost of the earth. 
+<!-- 0. Metaphysical dimension: The pre-existing idea is deployed
+1. Aethereal Layer: The aether (Higgs field to Physics) translates the idea onto physical reality through galaxies 
+2. Spatial Layer: The galaxies create spacetime which allows the existence of quanta of spacetime (qoa) as stars 
+3. Radiant Layer: The stars emit light and electromagnetism 
+4. Convertible Layer: between particles convert neutrons into other types of particles
+5. Material Layer: The particles stabilize as elements -->
 
-A bucket of water has a moving center of gravity just as a flock of birds have a changing bird-leader that controls the movement of the flock.
+  
+### The Universe as a Matrix (or an App or TV screen)
 
-A leaf is blown externally by the wind. But in reality, the wind blows from its own nature which reacts in a certain way to heat. The leaf then has its own nature that agrees to being blown by the wind, as opposed to a tree trunk that comes form the same seed but has different natures relative to the wind.  -->
+<!-- These 1's and 0's then flood into existence. Unlike the original aethereal layer that had no zeros (and therefore no space), this current layer has space. So we call this the "spatial" layer.  
 
+Unlike the Big Bang which created space from a material cause, our spatial layer was created by the flood of 1's and 0's entering existence. Thus, we can call it a Big Bootup, similar to a bootup of a computer that enables 1's and 0's to be created in its memory or computer-mind.  -->
 
-## How does General Relativity lead to Absurd Wormholes?
+We can think of the physical universe (with spacetime) as a giant computer memory that generates virtual objects.
 
-In his book Relativity, Einstein proposes a strange way to find the space between an observer on Trafalgar square and a cloud above it. He takes a pole, connects it to both the cloud and Trafalgar square PERPENDICULARLY. This then, he claims, would remove the need to have a rigid Trafalgar square as basis. 
+The stream of ideas from the aethereal layer enter this virtual reality through specific placeholder blocks or nodes in this universe-RAM or universal-memory.  <!-- combination of 1's and 0's that stream down into physical space do it through  in the mind or memory of the universe. --> This is to maintain the identity of each idea and not let it get mixed up with other ideas.  
 
+For example, a smartphone has two kinds of memory:
+- Phone memory where the apps are run
+- SD Card memory where the apps are stored and are usually larger than the phone memory
 
-{{< img src="/graphics/physics/traf.png" alt="Einstein's Trafalgar Square" cap="Einstein uses a perpedicular line to complete a Pythagorean triangle, leading to curves in spacetime" >}}
+The spatial layer is the phone memory which runs the operating system which has the apps. 
 
-
-Few people seemed to notice that this method is totally arbitrary. It creates a kind of space (and time) that can bend or be perpendicular to anything the imagination thinks of. 
-
-To confine this arbitrariness, Einstein uses c or light (which everyone perceives in the same way) to make empirical observations (that are common to all humans) possible. This c is then balanced by a cosmological constant as the medium or arena for the c.
-
-This arbitrariness, established as a science, then necessarily leads to fanciful imaginings like singularities, wormholes, and dark matter to plug the holes and differences between the imagination and the actual nature of the universe. This is similar to Aristotle and Ptolemy creating concentric spheres around the Earth.  
-
-No one seemed to ask how would Einstein's system work in total darkness. How would a blind man erect a pole to a cloud that he couldn't see?
-
-
-### A Different Way: Experiential
-
-The proper and natural way to judge the space of a cloud on Trafalgar square is to know the nature of both the cloud and Trafalgar square. In this way, the proper location is determined by the relative differences of those two natures. 
-A blind observer can know the cloud by the thunder it creates and how it compares to other sounds from Trafalgar square which he learns by experience.
-
-Assuming Trafalgar square has four squares A1, A2, B1, and B2. The person has existed in all squares and has heard thunder above each one, as well as above all the other squares. This leads to 16 total experiences. 
-
-{{< img src="/graphics/physics/clouds.png" alt="The Superphysics way of observing" cap="The Superphysics way of observing" >}}
+The aethereal layer is the SD card which can have far more apps ready to be installed (have potential existence). 
 
 
-In this way, the person in A1 who hears a thunder in B2 will know its location by extracting the relation of the cloud and the area from his memory. This relation is aethereal relativity, which becomes gravitational relativity when applied to the spatial layer. 
+{{< img src="/graphics/apps.jpg" alt="Apps in a Matrix" cap="We are inside a Matrix just as our apps are inside a phone" >}}
 
-This method does away with the use of light as the measuring rod, and so it can throw away c and lambda while still being within the nature of the universe. In Western philosophy, the obsession with light comes from Aristotle who put sight as the supreme sense. This is opposite of the sightless observations proposed by Pythagoras and Socrates (as well as Hinduism, Buddhism, and Taoism) which we are advancing.
+Each app must be separate from other apps, otherwise there'll be an error*.  
 
-<!-- It would be like removing the training wheels of a kid's bicycle so that the bicycle can run faster. 
 
-Yes, c and lambda helped physicists understand the universe beyond the solar system, but it also necessarily limits the full understanding of the universe to only 5% of its visible parts -- how can anyone be proud of that? Is knowing only 5% of the universe the most crowning achievement of the human species? -->
+> *We assert that the Supreme does not make mistakes or bugs in Its design for a universe.
 
-**Instead of c, it uses the relation of the person in two states (A1 and B2) with the state of the cloud in B2.** 
 
-Notice how this system is similar to quantum mechanics which assigns a probability to each location through a 'path integral' formulation. 
+**We call these nodes or blocks as the quanta of spacetime of qosts.** 
+
+These qosts are invisible since they are above the Radiant (Electromagnetic) Layer. For human purposes, we can designate that each qost has a size of 1 Planck length and changes every 1 Planck time. 
+
+These fill empty space and perform the following critical tasks:
+- constraining and isolating each universe from each other
+- constraining the speed of light
+- facilitating the expansion of the universe which allows evolution of things in the universe
+- facilitating the universe-scale attraction and repulsion, as opposed to the limited attraction and repulsion facilitated by electromagnetism
+- facilitating the creation of matter and energy via galaxies and quasars
 
 
 
-## Gravitational Relativity 
+## Types of Qosts
+ <!-- that Become Galaxies as Vortices -->
 
-<!-- As an alternative to general relativity, we present a draft of "gravitational relativity" derived from Kepler, as a subset of a unifying "universal relativity" from his concept of harmonic ratios.  -->
+The qosts that contain the most complex ideas, such as those for a galaxy, turn into vortices that eventually manifest those galaxies.  
 
-We replace the Einstein tensor with a Kepler tensor and replace equality with a ratio sign. Former constants, such as the Newtonian `G`, `c`, and `lambda` are put under `s` which represents the spatial layer. 
-
-The stress-energy tensor is then a new `G` which usually represents mass. 
-
-
-{{< img src="/graphics/physics/urel.png" alt="" cap="" >}}
+{{< q a="Descartes" c="The World Simplified" >}}
+Before God divided it, the pure aether was singular. When it began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect.. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion. Nearer the centers, the particles were naturally less agitated and smaller. Farther from the centers, the particles were more agitated and larger.. The strongest particles were the largest ones. These created the largest circles.
+{{< /q >}}
 
 
+<!-- Each qost is a starting point for galaxies and stars. It becomes a holder for planets or other heavenly body that are produced from those galaxies and stars.  -->
+<!-- do not emit their own energy.  -->
 
 
-We then apply his for Mercury's precession:
+There are 3 types of qosts just as there are 3 types of leptons in the Radiant Layer and 3 color charges in the Material Layer:
+ <!--matter particles (matter, antimatter): -->
 
-- Leverrier's solution is G<sub>1(gravitational)</sub> + G<sub>1a(gravitational)</sub> : G<sub>2(gravitational)</sub>
-  - This uses gravitational relativity using a hypothetical planet Vulcan  
-- Einstein's solution is G<sub>1(spatial)</sub> : G<sub>2(spatial)</sub> 
-  - This uses spatial relativity using the speed of light 
-
-
-![Vulcan and Einstein's gravity](/graphics/gravrelm.png)
+1. Major bodies
+2. Minor bodies
+3. Spacetime particles
 
 
-This shows that Leverrier's solution is valid if Vulcan existed, just as Einstein's solution is valid if Mercury's core is large. It shows that Mercury's large core gives it its elliptical orbit just as comets have an elliptical orbit. We then infer that Mercury's precession and ellipse come from its core, giving it the dynamics of a comet or asteroid more than a planet.  
+<!-- However, unlike a computer's memory that is limited and predefined, the qosts of the universe is infinite. It is arbitrarily set by the aethereal layer above it (or operating behind it). This is similar to Firefox browser having the computer's operating system (OS) working behind the scenes at all times. If the OS shuts down, then the Firefox browser shuts down too. Thus, if the idea "stops" in the aethereal layer, then its physical version will likewise disappear according to the rules of physicality.   -->
 
-<!-- This is useful for finding habitable planets in the future. --> 
+<!-- These qosts start out as 1-dimensional points that repel each other to create 2-dimensions, then 3-dimensions, and finally 4 physically-observable dimensions. --> 
 
-<!-- and Einstein's solution is valid if the quality of the core of Mercury is ascertained. The precession of Mercury using spatial relativity is due to its core being 75% of its mass. This gives it the dynamics of a comet more than a planet.  -->
+The major bodies are:
+- galaxies
+- quasars
 
-<!-- In the next post, we extend gravitational relativity into material relativity to add relativity to Newton's laws while being in line with Nature and observation. However, it needs an explanation of the Cartesian View first.  -->
+These galaxies and quasars exert the force of attraction and repulsion.
+- Dark Matter is the Physics name for the attractive force within a galaxy or quasar
+- Dark Energy is the repulsive force between them
+
+The minor types of qosts manifest as everything else, such as:
+- stars
+- planets
+- asteroids
+- moons
+- material things
+
+The attractive force with these manifests as gravity. The repulsive force manifests as the vacuum of space. 
+
+The last type are mere spacetime particles. These manifest as empty space and have just enough energy to make it through to the Physical Domain. 
+
+
+<!-- Such nodes or points exert a natural force called gravity to facilitate the coversion of aethereal ideas and feelings into physical matter and energies.  -->
+
+<!-- In our app analogy, this is the "run-time" of the app, as opposed to the "compile-time" of the aethereal layer.   -->
+
+Physics believes that gravity comes from material mass. However, this is impossible in our model since matter is the final 5th layer and doesn't exist yet at this point.
+
+Physicists make this mistake because mass is so tied and dependent on gravity that they are always perceived together. 
+
+<!-- it cannot be separated by physical means, thought it can be manipulated by mind or metaphysical means.  -->
+
+<!-- and so dark matter has mass, but black holes and supermassive black holes have singularity wherein the laws of physics do not hold. To get rid of this absurdity, Superphysics views mass as coming from gravity in accordance with our five-layer model wherein material mass is the lowest and most subordinate layer. We can say that mass is the effect of, and is dependent on, gravity and its subordination to the aether, now known as the Higgs field.  -->
+
+**Thus, we define gravity as an inherent relational force between gravitational signatures.** This inherent quality is defined in the aethereal layer.
+
+<!-- inherent force in each qost which depends on the inherent quality of the ideas that are meant for it.**  -->
+
+
+
+Stars come from galaxies and are subservient to them, just as planets and asteroids come from stars and are subservient. This means the gravitation of the two are different:
+- stars or stellar qosts follow the inverse square law
+- galaxy qosts follow the vortex differences 
+
+Instead of dark matter, we call the attractive force that binds galaxies as galactic gravitational territories. 
+
+Instead of dark energy, we call the repulsive force that causes the expansion of space as the constant division of the qosts which allow the potential existence of new qost-identities.
+
+<!-- through the emergence of   binds galaxies as galactic gravitational territories.  -->
+<!-- (Descartes' vortices as Cartesian votices) from the aether (Higgs Field) -->
+
+<!-- In our computing analogy:
+- The aethereal layer is the Windows Operating System
+- The spatial layer is the Firefox browser within Windows 
+  - The other universes are the other browsers also running alongside Firefox, such as Internet Explorer, Chrome, and Opera.  -->
+
+
+## The Creation Process from Idea to Physical Reality
+
+Galactic qosts emerge arbitrarily onto the aether (or out of the aether) as one-dimensional points which repel each other to preserve their identity*.
+
+> *We call this the Law of Conservation of Idea
+
+<!-- , for the same existential reason that mass and energy are conserved. --> 
+
+This creates the concept of spacetime between each of the points.
+
+Pythagoras called these 1D points as monads:
+
+{{< q a="Iamblichus" c="The Life of Pythagoras" >}}
+The monad was the indivisible point and the first cause. The duad was the first line or interval. The triad had more intervals and lines. The tetrad was solid.
+{{< /q >}}
+
+
+{{< youtube e7rRQEq9C60 >}}
+
+
+The spacetime layer thus converts the 1-dimensional galactic qosts into 2-dimensional, and then into 3-dimensional nodes the more qosts emerge. This continues until finally the nodes lead to 4 physically-observable dimensions* through the concept of time. This leads to the 4-dimensional 'Minkowski' spacetime of physics.
+
+> *There can be up to 6 spacetime dimensions. Above that, spacetime no longer exists and experience becomes fully immersive and totally arbitrary. 
+
+
+<!-- Physics calls the repulsion between galaxies as 'dark energy', while the spatial relation between galactic and stellar qosts as 'dark matter'. 
+- Instead of dark energy, we call it 'gap energy', as the energy that creates the spatial gap between galaxies. 
+- Instead of dark matter, we call it 'area of influence*', as the area where the galaxy's idea can be deployed.  -->
+
+<!-- > *This name will be consistent when explaining Cartesian vortices, and anti-gravity as the levitating monk. The term 'dark matter' is relatively useless -->
+
+
+The collisions and friction between the qosts within a galaxy crudify them down into the Radiant layer where they convert into quanta of light (qol) and quanta of electricity (qoe).
+
+{{< q a="Descartes" c="The World Simplified" >}}
+The aether particles that broke off from air-aether during collisions gained more speed because they had to travel farther at the same amount of time. They became the fire-aether.
+{{< /q >}}
+
+These qols (pronounced *khol*) and qoes (pronounced *khoe*) become the stars, as stellar qosts, that then emerge within the gravitational territory of the galactic qost. This new star-identity gains its own gravitational territory.
+
+
+## The Creation of Life and Matter
+
+The qosts compress the qols and qoes around a stellar vortex until a star is formed. In time, this star explodes due to the excess pressure from those qosts. 
+
+The explosion spits out:
+- material particles as quanta of matter or qoms (pronounced koms) in the physical domain
+- immaterial particles as aethereal unit-minds or souls 
+  - These souls inhabit the material particles in order to lead to living organisms
+
+
+<!-- life  quanta of matter or qoms (pronounced koms) in the physical domain -->
+
+ <!-- with the star's gravitational territory. These qoms gather into energetic qosts that form planets and moons.   -->
+
+
+<!-- It is the one that attracts energy in order to create both matter and life. In the process, this disrupts the homogenity of energy (equilibrium of thermodynamics).
+
+This is similar to how our boredom is disrupted by us having new ideas. Using our earlier "Big Wakeup" analogy, we can say that the Mind of the Supreme was bored or sleeping, and so It created the universe by thinking or waking up. 
+
+The stirred energy then clump at the qosts which are then acted on by the other layers in successive phases:
+
+- Phase 3: The electromagnetic layer turns the clumped energy into electrons or "quantum of electricity" (qoe) and photons "quantum of light" (qol) 
+- Phase 4: The weak force of the Convertible layer turn the electrons into neutrons "quantum of radioactivity" (qor)
+- Phase 5: The strong force turn neutrons into protons as quarks (quantum of matter or qom) via gluons -->
+
+
+<!-- These lead to the first shining stars. The protons in them then make up the basic elements which are then spread throughout space through the explosion of the qost, as a supernova. The exploded matter and unconverted energy are then re-clumped in the same qost to repeat the process until all the energy is converted into matter.  -->
+
+
+<!-- ## Spreading Ideas to the Universe
+
+The qost spreads its ideas onto the universe through its light and radiation, and materially through its supernova. The exploded matter from a supernova  acquires a piece of the original qost as to be able to attract energies on its own and become a manifested idea as a planet and everything on that planet.
+ -->
+
+<!--  , which then allows itself to gather other matter in order to become stars and planets. --> 
+
+

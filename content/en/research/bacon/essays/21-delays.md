@@ -2,7 +2,7 @@
 heading: "Essay 21"
 title: "Delays"
 weight: 32
-description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
+description: "I would rather believe in all the fables than to think that this universal frame is without a mind"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
 writer:
@@ -11,11 +11,15 @@ writer:
 ---
 
 
-FORTUNE is like the market; where many times if you can stay a little, the price will fall. 
+FORTUNE is like the market. If you can stay a little, the price will fall. 
 
-Again, it is sometimes like Sibylla's offer; which at first, offereth the commodity at full, then consumeth part and part, and still holdeth up the price. For occasion (as it is in the common verse) turneth a bald noddle, after she hath presented her locks in front, and no hold taken; or at least turneth the handle of the bottle, first to be received, and after the belly, which is hard to clasp. 
+It is sometimes like Sibylla's offer. It first offers the commodity at full, then consumes part and part, and still holds up the price. 
 
-There is surely no greater wisdom, than well to time the beginnings, and onsets, of things. Dangers are no more light, if they once seem light; and more dangers have deceived men, than forced them. 
+For occasion turns a bald noddle, after she hath presented her locks in front, and no hold taken; or at least turneth the handle of the bottle, first to be received, and after the belly, which is hard to clasp. 
+
+There is surely no greater wisdom, than well to time the beginnings, and onsets, of things. 
+
+Dangers are no more light, if they once seem light; and more dangers have deceived men, than forced them. 
 
 It were better to meet some dangers half way, though they come nothing near, than to keep too long a watch upon their approaches; for if a man watch too long, it is odds he will fall asleep. 
 

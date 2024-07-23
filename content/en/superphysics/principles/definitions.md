@@ -19,6 +19,7 @@ Word | Meaning
 --- | ---
 Absolute Entity | A theoretical (non-existing) Entity that precedes Existence. Also, Pre-Existence 
 Abstract Reasoning | The use logic to explain nonphysical or philosophical causes and effects.
+Active Observation | Observing the object while probing it or doing actions on it.
 Adharmic | not being in line with one's dharma or the nature of things. This replaces the concept of 'bad' or 'evil' which are based on the limited ego. 
 Attribute | a part of Substance.
 Belief | a set of ideas that the ego attaches itself to
@@ -47,6 +48,7 @@ Moral | the qualities of actions that will lead to positive feelings in the larg
 Negative feelings | feelings resulting from the Negative Force that naturally make us feel heavy, such as sadness, greed, hatred, and stress. These are the result of being adharmic or outside of one's true nature, since Existence is Positive
 Negative Force | the force from the desire of Existence that leads to separation, repulsion, and isolation, leading to Existence. Also, Shakti or Yin.
 Omnitheism | a paradigm that views all Supreme Entities as different versions of one Supreme Entity 
+Passive Observation | Observing the object without doing anything to it.
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
 Self | The perception of identity by the same perceiver
