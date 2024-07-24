@@ -4,7 +4,7 @@ heading: Articles 124
 weight: 34
 description: "The ultimate effect of fire is the conversion of lime and ashes into glass"
 writer:
-  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"

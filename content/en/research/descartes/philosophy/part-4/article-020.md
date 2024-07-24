@@ -1,7 +1,7 @@
 ---
 title: "The Second Action of Air-Aether: Gravity"
-heading: Articles 20-
-weight: 6
+heading: Articles 20-23
+weight: 7
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
 writer:
   name: Rene Descartes
@@ -43,11 +43,18 @@ A vacuum contains nothing that can impede or assist the motions of other bodies.
 <!-- To fully understand its nature, it must first be noted that  -->
 
 <!-- earth-aether -->
-Assuming that:
-- all the spaces around the Earth not occupied by the air-aether were a vacuum
-- the Earth rotates around its axis for 24 hours with its own motion so that all its parts not very firmly connected to each other would leap towards the sky from time to time, just as sand thrown in a whirlwind will immediately disperse in all directions.
 
-Then the Earth should be considered light, not heavy.
+
+If we imagine that:
+- all the spaces around the Earth became void
+<!-- not occupied by the air-aether were a vacuum -->
+- the Earth rotates around its axis with its own motion
+
+Then:
+- all the Earth's parts which not very firmly connected to each other would leap towards the sky from time to time
+  - This is the same as how sand thrown in a whirlwind immediately disperses in all directions.
+- the Earth would be considered light, not heavy.
+
 
 
 #### 22. Where Does the Lightness of the Air-Aether Come From?
@@ -56,13 +63,15 @@ Then the Earth should be considered light, not heavy.
 
 In reality:
 - there is no vacuum
-- the Earth rotates by the surrounding air-aether by permeating it entirely and passing through all its pores
+- the Earth is rotated by the surrounding air-aether that permeates it entirely
 
- <!-- celestial matter, , it has the character of a resting body.  -->
+ <!-- and passing through all its pores -->
 
-<!-- On the other hand,  -->
+ <!-- celestial matter, , it has the character of a resting body.  gravity oranti-gravity -->
 
-**The air-aether has no force of gravity or anti-gravity as long as it totally agrees in the motion that carries the Earth.**
+**The air-aether has no force of heaviness or lightness as long as it totally agrees in the motion that carries the Earth.**
+
+{{< i s="/photos/physics/zerog.jpg" a="Zero G" c="The pushing force of gravity is negated by an airpline falling faster than that push" >}}
 
 <!-- , has no force of gravity or levity;  celestial matter -->
 <!-- gravity or levity;  -->
@@ -72,7 +81,7 @@ But in reality, they are hindered from their straight-line paths by their impact
  <!-- as long as its parts have more agitation than they spend in this, therefore always hindered by the  in following , they always recede from it as much as they can and thus consist in their lightness. -->
 
 
-#### 23. How All Parts Of The Earth Are Pushed Downwards By the Air-Aether to Become Heavy
+#### 23. How all parts of the earth are pushed downwards by the air-aether to become heavy
 <!-- This Celestial Matter, -->
 
 <!-- How all parts of the Earth are driven downward by that celestial matter, and thus become heavy. It must then be noted that  -->
@@ -83,25 +92,34 @@ All the spaces around the Earth are occupied either by:
 - the earth-aether as physical air
 
 
-"It should be noted, furthermore, that the force possessed by each part of celestial matter, which causes it to recede from the Earth, can only exert its effect when, during its ascent, it depresses and propels some terrestrial parts below itself into the space it vacates. 
-
-For, since all spaces around the Earth are occupied either by particles of terrestrial bodies or by celestial matter.
+"The force possessed by each part of celestial matter, which causes it to recede from the Earth, can only exert its effect when, during its ascent, it depresses and propels some terrestrial parts below itself into the space it vacates. 
 
 
-since all globules of this celestial matter have an equal tendency to remove themselves from it, no individual has the power to displace others of its kind; 
+The air-aether globules have equal power. None of them can displacec the other. 
 
-but since such a tendency is not as great in the particles of terrestrial bodies, whenever they have some of them above themselves, they must exert this force entirely on those. 
+<!-- of this celestial matter have an equal tendency to remove themselves from it, no individual has the power to displace others of its kind;  -->
+
+But terrestrial bodies have a lesser content of air-aether. This creates an inequality among the air-aether.
+
+This inequality allows the  
+
+
+but since such a tendency is not as great in the particles of , whenever they have some of them above themselves, they must exert this force entirely on those. 
 
 Thus the gravity of each terrestrial body is not properly produced by all the celestial matter surrounding it, but precisely only by that part of it which, if the body descends, immediately ascends in its place, and therefore is exactly equal in magnitude to it. 
 
-For example, `B` is a rock in the middle of the air. It naturally has more particles of the earth-aether  than an equal volume of air has earth-aether. 
+
+
+For example, `B` is a rock in the middle of the air. It naturally has more earth-aether content than air-aether.
+
+  <!-- than an equal volume of air has earth-aether.  -->
 
 {{< img src="/graphics/physics/earth.jpg" alt="Earth" >}}
 
-Because it has more earth-aether, it means that it has less air-aether -- it has fewer or narrower pores that can contain the air-aether. 
+<!-- Because it has more earth-aether, it means that it has less air-aether -- it has fewer or narrower pores that can contain the air-aether.  -->
 
 
-If rock `B` descends towards I, it will displace an amount of air-aether that will rise into its place.  
+If rock `B` descends towards `I`, it will displace an amount of air-aether that will rise into its place.  
 
 This air-aether above it has the force to further depress that body. 
 
@@ -133,47 +151,4 @@ Therefore, it has fewer or narrower pores that has air-aether. If `Body B` desce
 
 <!-- mass of air -->
 <!-- More air-aether is in that space than in the body. And so that air-aether will exert a force in that body to depress that body. -->
-
-<!-- ---
-
-
-The particles of air-aether move in many different motions at the same time. But all their actions converge so as to stand in perfect equilibrium, opposing each other.
-
-The mass of Earth hinders their motions by obstruction. This makes them  to move away from the Earth and its center equally in all directions.  -->
-
- <!-- its vicinity and to be removed from it as if from its center unless some external cause establishes diversity in this matter.  -->
-
-<!-- Several such causes can be thought of; however, whether their effects are such that they are detected by the senses is not yet known to me. -->
-
-
-<!-- Each part of air-aether matter cannot exert its force to move away from the Earth unless, as they ascend, some terrestrial parts are depressed and propelled downward to take their place. 
-
-**All the spaces around the Earth are occupied either by particles of the earth-aether or the air-aether.**
-
-All globules of this air-aether have an equal tendency to move away from it, individually, they do not have the force to push others of their kind from their places.
-
-However, when such a tendency is not as strong in the particles of earth-aether, whenever some of them are above others, they must exert this force on those below. 
-
-Thus, the gravity of each terrestrial body is not caused by the surrounding air-aether. It is caused by the air-aether which moves up to replace the position of the descending body. -->
-
-<!-- , immediately ascends to its place. -->
-
-<!-- Consequently, it is equal to it in magnitude. 
-
-For example, let `B` be a terrestrial body existing in the middle of the air, consisting of earth-aether equal in mass to the air surrounding it. Therefore, it has fewer or narrower pores that has the air-aether. -->
-
-
-
-<!-- If this body `B` descends towards `I`, an equal mass of physical air will ascend to its place.
-
-And since there is some air-aether opposing an equal quantity of similar air-aether contained in the physical air, that opposing air-aether renders the air-aether in the physical air idle. -->
-<!-- celestial matter -->
-
- <!-- an equal number of  -->
-<!-- Likewise, there are some terrestrial parts in the physical air that oppose the other terrestrial parts of body `B`. These terrestrial parts in the physical air do nothing to the terrestrial parts in body `B`. -->
-<!-- , and they do nothing to them.  -->
-
-<!-- celestial matter -->
-<!-- However, subtracting these from both sides, the remaining air-aether in this physical air acts on the remaining terrestrial parts of body `B`. This is what gravity is. -->
-
 

@@ -4,7 +4,7 @@ heading: Articles 72-79
 weight: 22
 description: "How Do Metals Reach the Exterior from the Interior?"
 writer:
-  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"

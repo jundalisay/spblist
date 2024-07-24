@@ -11,44 +11,66 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 45. The rules for determining how much the motion of each body is changed because of the collision of other bodies
+#### 45. The rules for determining how much the motion of each body is changed because of the collision of other bodies
 
-From these, in order to determine how individual bodies increase or decrease their motions, or turn them into other parts due to the encounters of other bodies, it is necessary only to subtract by calculation the amount of force in each, either to move or to resist motion, and to establish for certain that which is stronger always achieves its effect.
+Collisions with other bodies cause bodies to:
+- increase or decrease their motions, or
+- turn elsewhere
+
+In order to calculate such changes, we only need to:
+- subtract the amount of force in each, either to move or to resist motion, and
+- establish for certain that which is stronger always achieves its effect.
 
 This could easily be deduced by calculation if:
-- only two bodies encountered each other mutually
-- they were perfectly hard, and separated from all others in such a way that their motions were not impeded by any other surrounding bodies, nor assisted.
+- only 2 bodies encountered each other mutually
+- they were perfectly hard, and separated from all others.
+  - In this way, their motions were not impeded by any other surrounding bodies, nor assisted.
 
-They then wouldfollow the following rules.
+They then would follow the following rules.
 
 
-### 46. <sup>1.</sup> Assume Body B and C, were perfectly equal and moving at equal speeds, B from right to left, and C from left to right.
+#### 46. RULE 1: Assume Body B and C, were perfectly equal and moving at equal speeds
+
+B is moving from right to left, and C from left to right.
 
 When they encountered each other, they would be reflected and then continue to move, B to the right, and C to the left, without any loss of their speed.
 
-### 47. <sup>2.</sup> If B were just slightly larger than C, then only C would be reflected.
+
+#### 47. RULE 2: If B were just slightly larger than C, then only C would be reflected.
 
 Both would move to the left with the same speed.
 
 
-### 48. <sup>3.</sup> If they were equal in mass, but B moved slightly faster than C, not only would both continue to move to the left, but also a portion of the excess speed of B would be transferred to C. That is, if there were initially six units of speed in B and only four in C, after the mutual encounter, each would move to the left with five units of speed.
+#### 48. RULE 3: If they were equal in mass, but B moved slightly faster than C, they would both continue moving to the left. Some of B's excess speed would be transferred to C. 
+
+If:
+- B had 6 units of speed
+- C had 4 units
+
+After the collision, each would move to the left with 5 units of speed.
 
 
 
-### 49 <sup>4.</sup> If body C were completely at rest and slightly larger than B, no matter how fast B moved towards C, it would never move C.
+#### 49. RULE 4: If body C were completely at rest and slightly larger than B, no matter how fast B moved towards C, it would never move C.
 
-Instead, it would be repelled by C in the opposite direction. This is because a stationary body resists high velocity more than low velocity, in proportion to the excess of one over the other, and therefore the force in C to resist would always be greater than in B to propel.
+Instead, it would be repelled by C in the opposite direction. 
 
-
-### 50. <sup>5.</sup> If the stationary body C were smaller than B, then no matter how slowly B moved towards C, it would move C with it, transferring a portion of its own motion to it, so that both would subsequently move at the same speed. 
-
-Specifically, if B were twice as large as C, it would transfer to C one-third of its motion, because that one-third would move the body C as quickly as the remaining two-thirds would move the body B, which is twice as large. So, after B had encountered C, it would move one-third slower than before, meaning it would take the same amount of time to move through a space of two feet as it did before to move through a space of three feet. Similarly, if B were three times larger than C, it would transfer to C one-fourth of its motion, and so on for the rest.
+This is because a stationary body resists high velocity more than low velocity, in proportion to the excess of one over the other, and therefore the force in C to resist would always be greater than in B to propel.
 
 
-### 51. <sup>6.</sup> If the stationary body C were precisely equal to the moving body B in terms of mass, when B approached C with four units of speed, it would transfer one unit of speed to C and be reflected with the remaining three units in the opposite direction.
+#### 50. RULE 5: If the stationary body C were smaller than B, then no matter how slowly B moved towards C, it would move C with it, transferring a portion of its own motion to it, so that both would subsequently move at the same speed. 
+
+Specifically, if B were twice as large as C, it would transfer to C one-third of its motion, because that one-third would move the body C as quickly as the remaining two-thirds would move the body B, which is twice as large. 
+
+So, after B had encountered C, it would move one-third slower than before, meaning it would take the same amount of time to move through a space of two feet as it did before to move through a space of three feet. 
+
+Similarly, if B were three times larger than C, it would transfer to C one-fourth of its motion, and so on for the rest.
 
 
-### 52. <sup>7.</sup> Lastly, if B and C were moving towards the same direction, with C moving slower and B eventually catching up to it, and if C were larger than B but the excess of speed in B were greater than the excess of size in C, then B would transfer just enough of its motion to C so that both would subsequently move at the same speed and in the same direction. 
+#### 51. RULE 6: If the mass of stationary body C were precisely equal to that of the moving body B, when B approached C with 4 units of speed, it would transfer 1 unit of speed to C and be reflected with the remaining 3 units in the opposite direction.
+
+
+### 52. RULE 7: If B and C were moving towards the same direction, with C moving slower and B eventually catching up to it, and if C were larger than B but the excess of speed in B were greater than the excess of size in C, then B would transfer just enough of its motion to C so that both would subsequently move at the same speed and in the same direction. 
 
 However, if the excess of speed in B were less than the excess of size in C, B would be reflected in the opposite direction and retain all of its motion. 
 

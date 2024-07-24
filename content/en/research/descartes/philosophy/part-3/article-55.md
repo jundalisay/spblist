@@ -13,13 +13,13 @@ aliases:
 ---
 
 
-### 55. What is light?
+#### 55. What is light?
 
 <!-- It is the law of Nature that  -->
 
 All bodies that are moved in a circle tend to move away from the center as much as they can. 
 
-I will explain the force by which 
+<!-- I will explain the force by which  -->
 
 Both the air-aether globules and the fire-aether gathered around `Center S` and `Center F` try to move away from those centers.
 
@@ -28,7 +28,7 @@ Both the air-aether globules and the fire-aether gathered around `Center S` and 
 Light consists solely in this force. Much else depends on the understanding of it.
 
 
-### 56. Understanding the effort towards motion in inanimate objects
+#### 56. Understanding the effort towards motion in inanimate objects
 
 The air-aether globules strive to move away from the centers that they rotate around. 
 
@@ -41,7 +41,7 @@ Instead, they are moved in a certain way if if not hindered by any other cause.
 rather, they are simply situated and moved in such a way that they will indeed move in that direction  -->
 
 
-### 57. How different efforts towards motion can coexist in the same body
+#### 57. How different efforts towards motion can coexist in the same body
 
 Frequently, many different causes act simultaneously on the same body. Some impede the effects of others, depending on which we consider.
 
@@ -62,7 +62,7 @@ If the stone were to leave the sling when it reaches `A` coming from `L`, it wou
 Finally, if we cancel the circular motion and only consider the force that is resisted by the sling, then the stone, while at `A`, tends only towards `E` by moving away from the `Center D` along the straight line `DAE`.
 
 
-### 58. How bodies moving in a circle try to move away from the center of their motion.
+#### 58. How bodies moving in a circle try to move away from the center of their motion.
 
 Assume that an ant was on `A` in line `DAE` which is a rod that the ant can walk from `A` to `E`. This rod then rotated into `DBY` and `DFY`, making the circle `ABF`.
 
@@ -90,15 +90,23 @@ However, it is not entirely absent.
 
 As it takes effect, it increases so that the resulting motion can become quite fast. 
 
-Let `EY` be a channel containing a `globule A`. When the channel starts to rotate around `Center E`, the `globule A` will immediately progress very slowly towards `Y`. 
+Let `EY` be a tube containing a ball `A`. 
 
-But in the next moment, it will move a little faster, retaining its previous force and acquiring a new one from its new effort to move away from the `Center E`. 
+{{< img src="/graphics/physics/fig_18.jpg" alt="Tube" >}}
+
+When the tube starts to rotate around Center `E`, the ball will immediately progress very slowly towards `Y`. 
+
+But in the next moment, it will move a little faster, retaining its previous force and acquiring a new one from its new effort to move away from the Center `E`. 
 
 As long as the circular motion continues, this effort persists and is renewed each moment. 
 
-Experience confirms this: if the channel EY is rotated very quickly around the center E, the globule will soon move from A to Y. 
+If the channel EY is rotated very quickly around the Center `E`, the ball will soon move from `A` to `Y`. 
 
 We also observe this in a sling. 
 
-The faster the stone rotates within it, the more the cord tightens. This tension, arising solely from the force by which the stone tries to move away from the center of its motion, shows us the magnitude of this force. 
+The faster the stone rotates within it, the more the cord tightens. 
+
+This tension arises solely from the stone's force in trying to move away from the center of its motion.
+
+<!-- , shows us the magnitude of this force.  -->
 

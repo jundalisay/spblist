@@ -11,16 +11,24 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 42. All things we see here on Earth also pertain to phenomena, but it is not necessary to initially consider everything.
+#### 42. All things we see here on Earth also pertain to phenomena, but it is not necessary to initially consider everything
 
-Besides these more general phenomena, many particulars could also be enumerated here, not only concerning the Sun, planets, comets, and fixed stars, but especially also concerning the Earth (namely, all those things we see on its surface) among the phenomena here.
+<!-- Besides these more general phenomena, many particulars could also be enumerated here, not only concerning the Sun, planets, comets, and fixed stars, but especially also concerning the Earth (namely, all those things we see on its surface) among the phenomena here. -->
 
-To recognize the true nature of this visible world, it is not enough to find some causes by which those things we observe from afar in the heavens can be explained, but from the same causes, all those things we observe up close on Earth must also be deduced.
+The true nature of this visible world should show explain both:
+- those things we observe from afar in the heavens
+- those things we observe up close on Earth
 
-Yet, it is not necessary to consider all those things to determine the causes of more general matters; but we will then recognize that we have correctly determined those causes when we find that from the same causes, not only those things we considered but also all other things we had not previously thought of can be explained.
+Yet, we do not need to know the exact causes of everything.
+
+We will only find the common causes that will be correct when see that they apply both to:
+- known phenomena 
+- unknown phenomena
+
+ <!-- it is not necessary to consider all those things to determine the causes of more general matters; but we will then recognize that we have correctly determined those causes when we find that from the same causes, not only those things we considered but also all other things we had not previously thought of can be explained. -->
 
 
-### 43. It is hardly possible that the ultimate causes of all phenomena are not true.
+#### 43. It is hardly possible that the ultimate causes of all phenomena are not true.
 <!-- are clearly deduced -->
 
 We can arrive at the ultimate causes if:
@@ -33,7 +41,7 @@ If we suspected that these ultimate causes that we discover were false then it m
 <!-- , we would seem to do an injustice to God if , as if He  -->
 
 
-### 44. Those which I will present here to be considered only as hypotheses.
+#### 44. Those which I will present here to be considered only as hypotheses.
 
 However, I might seem too arrogant if I affirm that I have discovered their true nature.
 
@@ -48,7 +56,7 @@ It might be considered false. But I will have done a great service if all that i
 In this way, we will derive as much usefulness for life from it as from the knowledge of the truth itself.
 
 
-### 45. I will even assume here some things known to be false.
+#### 45. I will even assume here some things known to be false.
 
 To better explain natural things, I will here trace their causes deeper than I believe they ever actually existed. 
 
@@ -72,7 +80,7 @@ This is even if we know well they never did so arise, we will still better expla
 <!-- And since I think I have found such principles, I will briefly explain them here. -->
 
 
-### 46. What I assume here to explain all phenomena
+#### 46. What I assume here to explain all phenomena
 
 All the bodies in the world are composed of one and the same matter, divisible into any parts, and already in fact divided into many, which move in various ways and have some sort of circular motions, and always maintain the same quantity of motion in the universe. 
 
@@ -97,15 +105,42 @@ Thus, all those contained in the space AEINB would turn around point S.
 Those contained in the space AEV around F, and so on for the others: thus forming as many different vortices as there are stars in the world.
 
 
-### 47. The falsity of these assumptions does not prevent the truth and certainty of the conclusions derived from them.
+#### 47. The falsity of these assumptions does not prevent the truth and certainty of the conclusions derived from them.
 
-These few assumptions seem sufficient to me, so that from them, as causes, all the effects that appear in this world can arise according to the laws of nature previously explained. I do not think that simpler, more easily understood, or even more probable principles of things can be devised. 
+These few assumptions can serve as causes to explain all the effects that appear in this world according to the laws of nature previously explained. 
 
-For even if it were possible to deduce the same order that now exists in things from Chaos through the laws of Nature, which I have attempted to explain before, confusion seems less fitting with the supreme perfection of God, the creator of things, than proportion or order, and it can also be perceived less distinctly by us. No proportion or order is simpler and easier to understand than that which consists of perfect equality. 
+My principles are the simplest, easily-understandable, and most probable that can be devised. 
 
-Therefore, I suppose that all the particles of matter were initially equal in both size and motion and leave no inequality in the universe except that which is in the positions of the fixed stars and which appears so clearly to anyone who looks at the sky at night that it can scarcely be denied. 
+<!-- I do not think that simpler, more easily understood, or even more probable principles of things can be devised.  -->
 
-It hardly matters what is supposed in this way, because it is later to be changed according to the laws of nature. And hardly anything can be assumed from which the same effect could not be deduced through the same laws of nature, albeit perhaps with more difficulty. 
+Through the laws of Nature, it might be possible to deduce the current order of the universe from Chaos.* 
 
-For since matter, with the help of those laws, successively assumes all forms of which it is capable, if we consider those forms in order, we will finally be able to arrive at that which is of this world. So that no error from a false supposition is to be feared here.
+{{< n n="This is an attack against the atheists (and modern God-less scientists" >}}
+
+<!-- same order that now exists in things 
+
+For even if it were possible to 
+
+which I have attempted to explain before,  -->
+
+But confusion seems inconsistent with the supreme perfection of God than proportion or order.
+- Confusion can also be perceived less distinctly by us. 
+
+The proportion or order that consists of perfect equality is the simplest and easiest to understand. 
+
+Therefore, I suppose that:
+- all the particles of matter were initially equal in both size and motion 
+- the only inequality in the universe are the positions of the fixed stars
+
+ <!-- and which appears so clearly to anyone who looks at the sky at night that it can scarcely be denied.  -->
+
+<!-- It hardly matters what is supposed in this way, because it is later to be changed according to the laws of nature. And hardly anything can be assumed from which the same effect could not be deduced through the same laws of nature, albeit perhaps with more difficulty.  -->
+
+With the help of the laws of Nature, matter successively assumes all forms it is capable of.
+
+<!-- , we will finally be able to arrive at that which is of  -->
+
+We can arrive at the form of this world if we consider those forms of matter in order. 
+
+<!-- So that no error from a false supposition is to be feared here. -->
 

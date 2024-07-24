@@ -4,7 +4,7 @@ heading: Article 80
 weight: 24
 description: "How can flame be ignited in these cavities? What is the nature of fire?"
 writer:
-  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"

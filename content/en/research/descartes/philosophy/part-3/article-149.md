@@ -1,7 +1,7 @@
 ---
 title: "The Motion of the Moon"
 heading: Articles 149-153
-weight: 62
+weight: 68
 description: "The Moon revolves around the Sun and the Earth at the same time."
 writer:
   name: Rene Descartes
@@ -27,7 +27,8 @@ The Earth goes around the Sun `S` in the circle `NeZ. It is carried from `N`, th
 {{< img src="/graphics/physics/orbits.jpg" alt="Orbits" >}}
 
 
-> *Superphysics Note: We replace this article with content from The World since it is better explained there
+{{< n n="We replace this article with content from The World since it is better explained there">}}
+
 
 The air-aethers at A move faster than the planet e. They push e towards Z.
 
@@ -40,10 +41,6 @@ Passing from A to B, they force planet e to turn with them around its center. Th
 
 
 The Moon revolves around the Sun and the Earth because, as the Planets of Jupiter converge towards Jupiter, it has also converged towards the Earth before it was carried around the Sun; or rather because, since it has no less force of motion than Earth, it should revolve in the same sphere around the Sun. -->
-
-
-
-
 
 
 
@@ -68,27 +65,33 @@ All the air-aether in the space `ABCD` carries the Moon. This creates a vortex a
 
 ### 150. Why the Earth rotates around its axis. 
 
-There are various reasons why the Earth rotates around its own axis. It was previously a star, located at the center of some vortex, were it undoubtedly rotated.
+There are various reasons why the Earth rotates around its own axis. It was previously a star, located at the center of some vortex, where it rotated.
 
 It still has similar motions, impelled by the fire-aether gathered in its center.
 
 
 ### 151. Why the Moon moves faster than the Earth
 
-The Earth revolves about its axis nearly 30 times, while the Moon only once traverses the circumference of the circle ABCD. 
+The Earth revolves about its axis nearly 30 times, while the Moon only once traverses the circumference of the circle `ABCD` which is around 60 times larger than the Earth's orbit.
 
-For since this circumference ABCD is about sixty times larger than the orbit of the Earth, thus the Moon moves twice as fast as the Earth.
+This is why the Moon moves twice as fast as the Earth.
 
-Since both are acted upon by the same celestial matter, which, it is credible, moves not less quickly near the Earth than near the Moon, there does not seem to be another cause for the greater speed of the Moon than that it is smaller than the Earth.
+Both are acted on by the same air-aether which moves not less quickly near the Earth than near the Moon.
+
+And so there is no other cause for the faster speed of the Moon than that it is smaller than the Earth.
 
 
 ### 152. Why the same side of the Moon always faces the Earth. 
 
 The same part of the Moon always faces the Earth, or at least does not deflect much from it.
 
-This happens because another part of it is somewhat denser.
+**This happens because another part of it is somewhat denser.**
 
-Therefore, in circling around it, must cover a larger orbit; as in the example noted a little earlier about Comets. And certainly, those countless inequalities like mountains and valleys, which are observed on its facing side with the help of telescopes, seem to argue for its lesser solidity.
+Therefore, in circling around it, must cover a larger orbit; as in the example noted a little earlier about Comets. 
+
+The side facing Earth has countless inequalities like mountains and valleys as seen from telescopes.
+
+These are evidences for its lesser solidity.
 
 The cause of this lesser solidity may be that another side of it, which never comes into our view, only receives the direct light from the Sun; whereas the facing side also receives that which is reflected from the Earth.
 

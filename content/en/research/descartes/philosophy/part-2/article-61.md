@@ -12,7 +12,7 @@ icon: "/icons/descartes.png"
 
 
 
-### 61. When a fluid body is carried all at once towards some part, it necessarily carries with it the hard body which it contains.
+#### 61. When a fluid body is carried all at once towards some part, it necessarily carries with it the hard body which it contains.
 
 A hard body surrounded by fluid on all sides, and resting in it means that there is an equilibrium.
 
@@ -26,7 +26,7 @@ This does not contradict the fourth rule which says that a resting body can be i
 
 
 
-### 62. When a solid body is thus transferred from a fluid, it is not therefore moved.
+#### 62. When a solid body is thus transferred from a fluid, it is not therefore moved
 
 If we pay attention to the true and absolute nature of motion, which consists in the translation of the moved body from the vicinity of other contiguous bodies, and in both bodies that touch each other
 
@@ -37,7 +37,7 @@ A hard body is not so properly moved when it is carried by the containing fluid 
 In the latter case, it does not recede as much from the neighboring particles of that fluid.
 
 
-### 63. Why are some bodies so hard that they are not easily divided by our hands?
+#### 63. Why are some bodies so hard that they are not easily divided by our hands?
 
 This seems to strongly contradict the rules of motion just discussed.
 
@@ -72,7 +72,9 @@ But if we equip our hand with a hammer, file, pliers, or another instrument so t
 
 
 
-### {{< s v="64" >}} The principles of Physics are based in Geometry and Abstract Mathematics. These explain all the phenomena of nature through definite demonstrations.
+#### 64. The principles of Physics are based in Geometry and Abstract Mathematics. 
+
+These explain all the phenomena of nature through definite demonstrations.
 
 <!-- , are admitted by me, nor desired. Because in this way all  are explained, and  of them can be given. -->
 

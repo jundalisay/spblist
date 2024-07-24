@@ -515,7 +515,7 @@ paginate = 12
       url = "news"
       weight = 9
     [[languages.ar.menu.main]]
-      name = "/icons/heart.png"
+      name = "Help!"
       url = "help"
       weight = 10
     [languages.ar.params]
@@ -649,7 +649,8 @@ paginate = 12
     weight = 3
     languageName = "中文"
     [[languages.zh.menu.main]]
-        name = "/icons/question.png"
+        # name = "/icons/question.png"
+        name = "FAQs"
         url = "faqs"
         weight = 8
     # [[languages.zh.menu.main]]
@@ -657,7 +658,8 @@ paginate = 12
     #     url = "news"
     #     weight = 9
     [[languages.zh.menu.main]]
-        name = "/icons/heart.png"
+        # name = "/icons/heart.png"
+        name = "Help!"
         url = "help"
         weight = 10
     [languages.zh.params]
@@ -791,8 +793,8 @@ paginate = 12
     weight = 5
     languageName = "Deutsch"
     [[languages.de.menu.main]]
-        name = "/icons/question.png"
-        url = "/faqs"
+        name = "FAQs"
+        url = "/faq"
         weight = 8
     [[languages.de.menu.main]]
         name = "News"
@@ -935,13 +937,13 @@ paginate = 12
     weight = 4
     languageName = "Français"
     [[languages.fr.menu.main]]
-        name = "/faqs"
+        name = "FAQs"
         # name = "/icons/question.png"
         url = "faqs"
         weight = 8
     [[languages.fr.menu.main]]
         # name = "/icons/about.png"
-        name = "/newss"
+        name = "News"
         url = "/news"
         weight = 9
     [[languages.fr.menu.main]]
@@ -1080,7 +1082,7 @@ paginate = 12
     languageName = "हिन्दी भाषा"
     [[languages.hi.menu.main]]
         name = "FAQs"
-        url = "/faqs"
+        url = "/faq"
         weight = 8
     [[languages.hi.menu.main]]
         name = "News"
@@ -1363,15 +1365,18 @@ paginate = 12
     weight = 9
     languageName = "日本語"
     [[languages.jp.menu.main]]
-        name = "/icons/question.png"
-        url = "faqs"
+        # name = "/icons/question.png"
+        name = "FAQs"
+        url = "/faq"
         weight = 8
     [[languages.jp.menu.main]]
-        name = "/icons/about.png"
-        url = "news"
+        name = "News"
+        # name = "/icons/about.png"
+        url = "/news"
         weight = 9
     [[languages.jp.menu.main]]
-        name = "/icons/heart.png"
+        # name = "/icons/heart.png"
+        name = "Help!"
         url = "help"
         weight = 10
     [languages.jp.params]
@@ -1410,7 +1415,7 @@ paginate = 12
       title = "すべてはアイデアです"
       sub = "心の中またはマトリックスの中で"
     [languages.jp.params.tricon1.items.c]
-      url = "/superphysics/principles/chapter-04b"
+      url = "/superphysics/principles/chapter-07"
       img = "/graphics/physics/math.jpg"
       title = "新しい数学による新しい科学"
       sub = "相対性が焼きこまれています"
@@ -1454,7 +1459,7 @@ paginate = 12
       icon = "/icons/spmed.png"
       link= "/bio/principles"
     [languages.jp.params.tricon3.items.a]
-      url = "/bio/principles/part-04/chapter-03/"
+      url = "/bio/principles/part-05/chapter-03/"
       img= "/photos/med/cancer2.jpg"
       title = "がんや病気は西洋医学では治癒されています。"
       sub = "粒子ベースの西洋医学に代わる波ベースの代替策を読んでください"
@@ -1481,7 +1486,7 @@ paginate = 12
       icon = "/icons/spsoc.png"
     [languages.jp.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
-      img = "/photos/vanity.jpg"
+      img = "/photos/social/monkey.jpg"
       title = "エゴは社会問題の原因です。"
       sub = "スーパーソシオロジーがそれを修正する方法を読んでください"
     [languages.jp.params.tricon4.items.b]
@@ -1505,8 +1510,8 @@ paginate = 12
     weight = 99
     languageName = "Tieng Viet"
     [[languages.vi.menu.main]]
-        name = "/icons/question.png"
-        url = "faqs"
+        name = "FAQ"
+        url = "/faq"
         weight = 8
     [languages.vi.params]
       intro = "Siêu Vật Lý: Khoa học kết hợp với Siêu hình học"
@@ -1541,15 +1546,16 @@ paginate = 12
     weight = 10
     languageName = "русский"
     [[languages.ru.menu.main]]
-        name = "/icons/question.png"
-        url = "faqs"
+        # name = "/icons/question.png"
+        name = "FAQs"
+        url = "/faq"
         weight = 8
     [[languages.ru.menu.main]]
-        name = "/icons/about.png"
-        url = "news"
+        name = "News"
+        url = "/news"
         weight = 9
     [[languages.ru.menu.main]]
-        name = "/icons/heart.png"
+        name = "Help!"
         url = "help"
         weight = 10
     [languages.ru.params]
@@ -1632,7 +1638,7 @@ paginate = 12
       icon = "/icons/spmed.png"
       link= "/bio/principles"
     [languages.ru.params.tricon3.items.a]
-      url = "/bio/principles/part-04/chapter-03/"
+      url = "/bio/principles/part-05/chapter-03/"
       img= "/photos/med/cancer2.jpg"
       title = "Рак и болезни были излечены не-западной медициной"
       sub = "Читайте волновые альтернативы частицной западной медицине"
@@ -1659,7 +1665,7 @@ paginate = 12
       icon = "/icons/spsoc.png"
     [languages.ru.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
-      img = "/photos/vanity.jpg"
+      img = "/photos/social/monkey.jpg"
       title = "Эго - причина проблем в обществе"
       sub = "Читайте, как суперсоциология может это исправить"
     [languages.ru.params.tricon4.items.b]

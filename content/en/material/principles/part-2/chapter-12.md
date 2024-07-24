@@ -9,8 +9,12 @@ icon: /icons/spmat.png
 # linked to public
 ---
 
+{{< youtube _NaZSSNFQnM >}}
 
-In Cartesian Physics, gravity is caused by spacetime vortices, not by matter. 
+
+In Superphysics, gravity is caused by the pushing force of invisible spacetime particles called qosts that fill all of reality. 
+
+This is different from Modern Physics which believes that it comes from matter, leading to the idea of dark matter in places where there is no visible matter. 
 
 This removes the need for any dark matter to cause gravitational lensing. This is why dark matter has never been found and will never be found. 
 

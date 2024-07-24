@@ -4,7 +4,7 @@ heading: Section 2e
 weight: 20
 description: "Although they continually flow into the sea, its water never diminishes, nor does the sea increase or become sweet"
 writer:
-  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"

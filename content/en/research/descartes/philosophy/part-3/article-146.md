@@ -1,7 +1,7 @@
 ---
 title: "How Are Planets Formed?"
-heading: Articles 146-
-weight: 61
+heading: Articles 146-148
+weight: 66
 description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes

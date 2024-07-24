@@ -4,7 +4,7 @@ heading: Section 2c
 weight: 16
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
 writer:
-  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"

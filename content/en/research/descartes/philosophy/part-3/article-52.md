@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 52. There are three elements of this visible world.
+#### 52. There are 3 elements of this visible world.
 
 We have 2 very different types of matter, which can be called the **two primary elements of this visible world**.
 
@@ -28,11 +28,12 @@ They are very small compared to visible bodies. But they are still of certain an
 All the bodies of this visible world are composed from these three:
 
 - 1st Element or Fire-Aether: The Sun and fixed stars
+  - The Sun and the fixed stars emit light from themselves.
 - 2nd Element or Air-Aether: The heavens
+  - The heavens transmit that light.
 - 3rd ELement or Earth-Aether: The Earth with the planets and comets
+  - The Earth, planets, and comets reflect that light.
 
-
-The Sun and the fixed stars emit light from themselves. The heavens transmit it. The Earth, planets, and comets reflect it.
 
 This threefold difference in appearance is from the 3 elements.
 

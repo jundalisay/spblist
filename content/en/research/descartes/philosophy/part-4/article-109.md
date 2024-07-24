@@ -4,7 +4,7 @@ heading: Articles 109-
 weight: 30
 description: "Sulfur is as flammable as possible because it consists of particles of sharp juices so thinly and densely wrapped in the twigs of oily material"
 writer:
-  name: Rene Descartes (translated by Google Translate, fixed by Juan)
+  name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"

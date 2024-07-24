@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 131. Do Fixed Stars Appear in Their True Places? What is the Firmament?
+#### 131. Do Fixed Stars Appear in Their True Places? What is the Firmament?
 
 The rays coming from `Y` to the Earth incidentally hit the lines `AE` and `VX`, which represent the surfaces where these vortices terminate, and are thus refracted.
 
@@ -27,7 +27,7 @@ Moreover, the same star may appear in two or more such locations.
 These locations have not been observed to change since astronomers first noted them. This is why these surfaces are what is meant by the term "Firmament".
 
 
-### 132. Why Comets Are Not Visible to Us When Outside Our Sky? Incidentally, Why is Charcoal Black and Its Ashes White?
+#### 132. Why Comets Are Not Visible to Us When Outside Our Sky? Incidentally, Why is Charcoal Black and Its Ashes White?
 
 The light from comets are much weaker than that from fixed stars.
 
@@ -97,6 +97,7 @@ Finally, many other reasons could be given why comets are not visible to us unle
 
 We do not have enough experiments for such specific effects. In such cases, plausible causes should suffice even if they are not necessarily true*.
 
-> *Superphysics Note: This is the ideological advantage of Cartesian Physics over Newwtonian Physics. All its principles are based on mutually-consistent analogies that are not necessarily true. We use the same analogy-system when we compare the Universe to a virtual reality in a computer. Of course, there is no CPU behind reality. But this analogy connects the patterns that  humans understand, with the actual causal patterns from the Supreme Entity. From our human-based analogies, we can make predictions that hold true. If they don't then we refine the analogy. Descartes has done this to create an unified analogy system that stretches from Physics to Medicine and Psychology. Spinoza then extended this further to the realm of Politics and Spirituality.
+
+{{< n n="This is the ideological advantage of Cartesian Physics over Newwtonian Physics. All its principles are based on mutually-consistent analogies that are not necessarily true. We use the same analogy-system when we compare the Universe to a virtual reality in a computer. Of course, there is no CPU behind reality. But this analogy connects the patterns that  humans understand, with the actual causal patterns from the Supreme Entity. From our human-based analogies, we can make predictions that hold true. If they don't then we refine the analogy. Descartes has done this to create an unified analogy system that stretches from Physics to Medicine and Psychology. Spinoza then extended this further to the realm of Politics and Spirituality." >}}
 
 
