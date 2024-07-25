@@ -25,11 +25,11 @@ contentus ab earum extremitatibus ad cor sensim refluit juxta dispositionem valv
 
  <!-- Animals which have no lungs at all have only one cavity in the heart. -->
 
-### 5. Some animals entirely lack lungs and have only one ventricle in their heart. 
+#### 5. Some animals entirely lack lungs and have only one ventricle in their heart. 
 
 If they have multiple ventricles, these are all consecutive to each other.
 
-### 6. The pulse, or beat of the arteries, depends on the 11 little membranes. 
+#### 6. The pulse, or beat of the arteries, depends on the 11 little membranes. 
 
 These function as valves, opening and closing the entrances of the 4 vessels connected to the 2 ventricles of the heart. 
 
@@ -54,15 +54,24 @@ This makes the heart and all the arteries of the body swell at the same time.
 
 But immediately afterwards, this rarefied blood condenses again, or enters the other parts. 
 
-And so the heart and arteries swell up, the valves at the 2 entrances of the arteries close again, and those at the entrances of the 2 veins open again. This gives passage to two other drops of blood, which again swell up the heart and arteries, just as the previous ones did.
+And so the heart and arteries swell up:
+- the valves at the 2 entrances of the arteries close again
+- those at the entrances of the 2 veins open again. 
+
+This gives passage to two other drops of blood, which again swell up the heart and arteries, just as the previous ones did.
 
 
+#### 7. The blood restores whatever is expelled by the continuous movement of surrounding bodies. 
 
-### 7. The blood restores whatever is expelled by the continuous movement of surrounding bodies. 
+The 2 kinds of blood are:
+- The blood in the veins is freshly transferred from the liver.
+- The blood in the arteries and already perfected in the heart.
 
-Once the cause of the arterial pulse is understood, it is easy to comprehend how the blood, not only the one contained in the veins of this machine, which is freshly transferred from the liver, but also the one that is in the arteries and already perfected in the heart, adheres to other parts of it and serves to restore whatever continuous movement of these parts and various actions of other surrounding bodies expel. 
+The cause of the arterial pulse explains how both of these 2 kinds of blood adheres to other parts of the blood and restores whatever was expelled from the continuous actions and movement of these parts.
 
-For the blood contained in the veins flows back slowly from their extremities to the heart, according to the arrangement of certain valves which anatomists have observed embedded in various locations within the veins, so it is sufficiently clear that the same happens to us. 
+ <!-- and various  of other surrounding bodies expel.  -->
+
+The blood contained in the veins flows back slowly from their extremities to the heart, according to the arrangement of certain valves which anatomists have observed embedded in various locations within the veins, so it is sufficiently clear that the same happens to us. 
 
 Conversely, the blood occupying the arteries is propelled with a certain force and multiple pulses from the heart to the extremities of the arteries, so that it easily joins and unites with all its members and thus is retained in them, thereby nourishing and even increasing them, if the machine of the human body is arranged for this purpose.
 

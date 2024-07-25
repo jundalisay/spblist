@@ -8,8 +8,8 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-13
+# aliases:
+#   /research/descartes/philosophy/part-4/section-13
 ---
 
 
@@ -21,24 +21,37 @@ But Democritus also supposed certain corpuscles that were of various shapes, siz
 
 Nevertheless, his mode of philosophizing is commonly rejected by all. 
 
-I reply that the philosophy of Democritus was never rejected by anyone, because he allowed the existence of bodies smaller than those we perceive, and attributed to them diverse sizes, figures, and motions, for no one can doubt that there are in reality such, as we have already shown; 
+Democritus' philosophy was never rejected because it:
+- allowed the existence of bodies smaller than those we perceive
+- attributed to them diverse sizes, shapes, and motions
 
-The philosophy of Democritus was rejected because:
+His ideas are believable. 
 
-1. He supposed that these corpuscles were indivisible.
+<!-- No one can doubt that there are in reality such. -->
+
+But his philosophy was rejected because:
+
+1. He supposed that **these corpuscles were indivisible**.
    - I also reject this
 
-2. He imagined there was a vacuum about them
+2. He imagined **there was a vacuum around them**
    - I show that this is impossible
 
-3. He attributed gravity to these bodies, of which I deny the existence in any body, in so far as a body is considered by itself, because it is a quality that depends on the relations of situation and motion which several bodies bear to each other
+3. He attributed gravity to these bodies.
+- I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other
+
+<!-- , in so far as a body is considered by itself, because it is  -->
 
 4. He did not explain how all things arose from the concourse of corpuscles alone
 
-<!-- I leave it to others to determine whether the philosophy I profess possesses a valid coherency, [and whether on its principles we can make the requisite number of deductions; and, inasmuch as the consideration of figure, magnitude, and motion has been admitted by Aristotle and by all the others, as well as by Democritus, and since I reject all that the latter has supposed, with this single exception, while I reject generally all that has been supposed by the others, it is plain that this mode of philosophizing has no more affinity with that of Democritus than of any other particular sect]. -->
+<!-- I leave it to others to determine whether the philosophy I profess possesses a valid coherency, [and whether on its principles we can make the requisite number of deductions; and, inasmuch as the consideration of figure, magnitude, and motion has been admitted by Aristotle and by all the others, as well as by Democritus, and since I reject all that the latter has supposed, with this single exception, while  -->
+
+I generally reject all that has been supposed by other philosophers. But my mode of philosophizing is most different from that of Democritus.
+
+ <!-- than of any other particular sect]. -->
 
 
-## {{< s v="203" >}} How we may know the shapes, [magnitudes], and motions of the insensible particles?
+#### 203. How we may know the shapes, [magnitudes], and motions of the insensible particles?
 
 I assign determinate shapes, magnitudes, and motions to the insensible particles of bodies, as if I had seen them.
 
@@ -71,9 +84,11 @@ I found like effects in the bodies that we perceive by our senses. From this, I 
 
 In this way, the example of several bodies made by art was of great service to me.
 
-I see no difference between these and natural bodies beyond this, that the effects of machines depend for the most part on the agency of certain instruments, which, as they must bear some proportion to the hands of those who make them, are always so large that their figures and motions can be seen; 
+I see no difference between these and natural bodies beyond this, that the effects of machines depend for the most part on the agency of certain instruments, which, as they must bear some proportion to the hands of those who make them, are always so large that their figures and motions can be seen.
 
-in place of which, the effects of natural bodies almost always depend upon certain organs so minute as to escape our senses. 
+In the absence of hands, the effects of natural bodies almost always depend on certain organs so small that they cannot be seen. 
+
+ <!-- minute as to escape our senses.  -->
 
 All the rules of mechanics belong also to physics.
 
@@ -90,7 +105,7 @@ In the same way, I have written about the character and causes of the insensible
 <!-- I  so from considering the sensible effects and parts of ,  -->
 
 
-### 204. Touching the things which our senses do not perceive, it is sufficient to explain how they can be, [and that this is all that Aristotle has essayed].
+#### 204. Touching the things which our senses do not perceive, it is sufficient to explain how they can be, [and that this is all that Aristotle has essayed].
 
 <!-- But here some one will perhaps reply, that although  -->
 
@@ -128,7 +143,7 @@ In Book 1 Chapter 7 of Meteorologies, Aristotle adduces sufficient reasons and d
  <!-- them, if he only shows that they may be such as he explains them. [Footnote: words in Greek] -->
 
 
-### 205. There is a moral certainty that all the things are such as has been here shown they may be.
+#### 205. There is a moral certainty that all the things are such as has been here shown they may be.
 
 There are 2 kinds of certitude:
 
@@ -147,12 +162,14 @@ This is certainty from God's point of view.
 
 <!-- , though it might be that all from whom they got their information were deceived]. -->
 
-Let's say a person wrote a letter using a reversed alphabet where `z` is `a` and `a` is `z`. In this case, the letter would be unreadable to a person who did not use the reverse alphabet. It would be morally uncertain. 
+Let's say a person wrote a letter using a reversed alphabet where `z` is `a` and `a` is `z`. 
+
+In this case, the letter would be unreadable to a person who did not use the reverse alphabet. It would be morally uncertain. 
 
 But it would be readable to someone who used a reverse alphabet. It would have absolute certainty after conversion.
 
 
-<!-- If anyone, wishing to decipher a letter written in Latin characters that are not placed in regular order, bethinks himself of reading a B wherever an A is found, and a C wherever there is a B, and thus of substituting in place of each letter the one which follows it in the order of the alphabet, and if by this means he finds that there are certain Latin words composed of these, he will not doubt that the true meaning of the writing is contained in these words, although he may discover this only by conjecture, and although it is possible that the writer of it did not arrange the letters on this principle of alphabetical order, but on some other, and thus concealed another meaning in it: 
+<!-- If anyone, wishing to decipher a letter written in Latin characters that are not placed in regular order, bethinks himself of reading a B wherever an A is found, and a C wherever there is a B, and thus of substituting in place of each letter the one which follows it in the order of the alphabet, and if by this means he finds that there are certain Latin words composed of these, he will realize that the true meaning of the writing is contained in these words, although he may discover this only by conjecture, and although it is possible that the writer of it did not arrange the letters on this principle of alphabetical order, but on some other, and thus concealed another meaning in it: 
 
 for this is so improbable [especially when the cipher contains a number of words] as to seem incredible.  -->
 

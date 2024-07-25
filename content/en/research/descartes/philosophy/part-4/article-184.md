@@ -1,20 +1,20 @@
 ---
 title: "The force of attraction in amber, wax, resin, and similar substances"
-heading: Article 184
+heading: Article 184-188
 weight: 54
-description: "Enumeration of properties of magnetic properties"
+description: "Amber, jet, wax, resin, glass, and similar substances also have the ability to attract small objects"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-10
+# aliases:
+#   /research/descartes/philosophy/part-4/section-10
 ---
 
 
 
-### 184. The force of attraction in amber, wax, resin, and similar substances
+#### 184. The force of attraction in amber, wax, resin, and similar substances
 
 <!-- However, in this context of the magnet attracting iron, it is necessary to mention some aspects related to  -->
 

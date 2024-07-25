@@ -31,7 +31,11 @@ If, however, they do move, then the bark that was closest to the fire is opposed
 Nor can it expel itself through the bark of the fire at that time: because it is not yet fully rarefied, and because it has already directed its paths towards another part."
 
 
-Some foods, however, are flatulent, which, when they are easily dissolved by natural heat, do not have their pores opened so easily by the same heat, through which they can escape from the intestines. The arm is tied to the vein section, so that more blood remains in the arm. This is done because blood is propelled with force to the extremities of the body during diastole, and since it does so with force, it impedes the blood from reaching the arm. On the other hand, during systole, the blood refluxes from the extremities of the body without force, because the bond can impede it from refluxing.
+Some foods, however, are flatulent, which, when they are easily dissolved by natural heat, do not have their pores opened so easily by the same heat, through which they can escape from the intestines. 
+
+The arm is tied to the vein section, so that more blood remains in the arm. This is done because blood is propelled with force to the extremities of the body during diastole, and since it does so with force, it impedes the blood from reaching the arm. 
+
+On the other hand, during systole, the blood refluxes from the extremities of the body without force, because the bond can impede it from refluxing.
 
 If a paralysis occurs due to a cholic disease, only the motion is lost, not the sensation, because the membranes of the nerves are affected, not the medulla. The medulla is sometimes damaged, and the motion of the femur is lost, while the motion of the arm is preserved. It is not surprising, since the nerve that goes to the femur is distinct from the nerve of the arm and is located in a thinner place.
 
@@ -42,7 +46,9 @@ The fetus is nourished in the womb by blood that flows from all the members of t
 During sleep, more spirits emerge through the nose and palate than during wakefulness, whence the body is sustained at that time. There is a pandiculation after sleep to replenish the muscles with spirits that were evacuated during sleep.
 
 Crocus is beneficial for asthma: give 1/2 grain of moss and a little wine.
+
 Fabæ purge and liberate the body from phlegm and cough.
+
 Phthisicus is healed by using two ovules of eggs slightly cooked and sprinkled with sulfur powder and wine, in a larger quantity than the size of the fabæ, with a sweet wine draft, at the same hour before other foods.
 
 Antidote against pestilence and poisons of King Mithridates. Take two dry nuts, two figs, and as many rue leaves, add a grain of salt, and drink it every morning fasting.

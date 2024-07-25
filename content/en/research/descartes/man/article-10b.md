@@ -22,9 +22,9 @@ The animal spirits in the brain try to enter a nerve and immediately have the po
 
 <!-- Finally, I will explain in detail all the activities carried out in the brain's cavities and pores, where the animal spirits tend to go, and what our functions are, which this machine can imitate with their help. -->
 
-If I were to start with the brain and follow the course of the spirits, as I previously traced the flow of blood, other matters would be less clear. 
+<!-- If I were to start with the brain and follow the course of the spirits, as I previously traced the flow of blood, other matters would be less clear.  -->
 
-For example, Nerve `A` has an outer membrane or sheath that is quite similar to a sufficiently wide tube. It contains within it several other tubes, such as `b, c, k, l`, etc., which consist of an inner and thinner sheath. 
+For example, Nerve `A` has an outer membrane or sheath that is like a wide tube with several other tubes inside it, such as `b, c, k, l`, etc., which consist of an inner and thinner sheath. 
 
 {{< img src="/graphics/bio/fig06-10.jpg" alt="Brain stem" >}}
 
@@ -36,21 +36,26 @@ Both sheaths are continuous with the two, `K L`, which envelop the brain `M N O`
 
 Each of these tubes contains a kind of marrow, which consists of numerous very thin filaments arising from the substance of the brain `N`, whose ends terminate in different places.
 
-One part ends on its inner surface facing the ventricles of the brain, while the other part ends in the membranes and flesh where the tube that contains these filaments ends. 
+- One part ends on its inner surface facing the ventricles of the brain
+- The other part ends in the membranes and flesh where the tube that contains these filaments ends. 
 
-This marrow does not cause movement of the limbs, and so it does not fill the tubes in such a way as to leave no room for the animal spirits. This gives them enough space to flow easily from the brain into the muscles to which these tubes, which should be considered as nerves, extend.
+This marrow does not cause movement of the limbs, and so it does not fill the tubes in such a way as to leave no room for the animal spirits. 
+
+This gives them enough space to flow easily from the brain into the muscles to which these tubes or nerves extend to.
 
 The small nerve `B` `F` enters muscle `D`, which I assume is one of those that move the eye. 
 
 Once it reaches there, it divides into many small branches enveloped in a loose membrane, which can expand or contract depending on the amount of animal spirits entering or leaving the muscle. 
 
-These fibers are arranged in such a way that the muscle swells and contracts when the spirits enter, pulling the attached eye towards it, and conversely, when the spirits exit, the muscle deflates, relaxes, and extends.
+The muscle swells and contracts when the spirits enter these fibers, pulling the attached eye towards it.
+
+When the spirits exit, the muscle deflates, relaxes, and extends.
 
 Besides the tube `B F`, there is another tube, `E F`, through which the animal spirits are conveyed into muscle `D` and another tube, `D G`, through which they can exit.
 
 Similarly, muscle `E`, whose function is to move the eye in the opposite direction, receives animal spirits from the brain through tube `C G` and from muscle `D` through `G`. They are returned to muscle `D` through `E F`.
 
-There is no clear passage for the spirits in the muscles `D` and `E` to exit, except for where they flow back and forth between each other. 
+There is no clear passage for the spirits in the muscles `D` and `E` to exit, except for where they flow back and forth between each other.
 
 But the particles of these spirits become more and more refined due to their agitation. This allows them to continuously seep through the membranes and parenchyma of the muscles. 
 

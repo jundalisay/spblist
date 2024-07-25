@@ -18,7 +18,7 @@ Let `S` be the Sun. All the air-aether surrounding it moves in the same directio
 
 <!-- namely from the west through the south towards the east, or   -->
 
-{{< i="/graphics/physics/abc.jpg" a="Solar System" >}}
+{{< i="/graphics/physics/solarsystem.jpg" a="Solar System" >}}
 
 
 This assumes the north pole rises above the plane of this figure, so that the air-aether around Saturn takes almost 30 years to carry it through its entire circle ♄. 

@@ -21,35 +21,9 @@ Netherlands
 1632-1633 | | Turns to the Treatise on Man, setting out a mechanistic physiology and a theory of the body as an automaton. Between July and November, he prepares his treatises for publication, only to hear in November of the Inquisition’s condemnation of
 Galileo, at which point, in obvious despair, he abandons plans to publish
 1634-1636 | | He prepares final drafts of the Dioptrics and the Meteors, and starts to work on a preface to them, which will become the Discourse on Method: the Geometry, which will accompany these texts, is put together from earlier drafts while the other treatises are being printed
-
-– The Discourse and the three Essays are published in June 
-– Works on the Meditations, returning to Leiden in April  to
-supervise a preliminary printing of the Meditations
-– The Meditations are published in , together with six sets of
-objections and replies. After giving up the idea of writing a
-dialogue (The Search for Truth), he begins work on a comprehensive exposition of his philosophy in textbook form, the
-Principles of Philosophy, at the end of . The second edition
-of the Meditations, with a seventh set of objections and replies
-and a letter to Dinet, in which Descartes defends himself
-xxxi
-Chronology
-against attacks on the orthodoxy of the Meditations, appears in
-. In response to Descartes’ long attack on him in the Letter
-to Voetius, published in May , Voetius succeeds in having
-the Council of Utrecht summon Descartes, and he is threatened
-with expulsion and the public burning of his books. He seeks
-refuge in the Hague
-– Starts an affectionate and fruitful correspondence with Princess
-Elizabeth of Bohemia, focusing on his account of the passions.
-The Principles, four parts of its originally projected six complete, is published by Elzevier in the middle of . A good
-deal of his time is taken up with dissection of animals and studying the medicinal properties of plants. By  he has a draft of
-the Passions of the Soul
-– Is condemned by Revius and other theologians at the University
-of Leiden in early . French translations of the Meditations
-and the Principles are published in , and his attack on his
-erstwhile disciple Regius, the Notes on a Certain Programme,
-appears at the beginning of . In – he works on the
-unfinished Description of the Human Body
-– Leaves for the court of Queen Christiana of Sweden on 
-August . The Passions of the Soul appears in November
-. He dies of pneumonia in Stockholm, on  February 
+1637-1639 | | The Discourse and the three Essays are published in June 1637
+1639-1640 | | Works on the Meditations, returning to Leiden in April 1640 to supervise a preliminary printing of the Meditations
+1641-1643 | | The Meditations are published in , together with six sets of objections and replies. After giving up the idea of writing a dialogue (The Search for Truth), he begins work on a comprehensive exposition of his philosophy in textbook form, the Principles of Philosophy, at the end of . The second edition of the Meditations, with a seventh set of objections and replies and a letter to Dinet, in which Descartes defends himself against attacks on the orthodoxy of the Meditations, appears in 1642. In response to Descartes’ long attack on him in the Letter to Voetius, published in May 1643, Voetius succeeds in having the Council of Utrecht summon Descartes, and he is threatened with expulsion and the public burning of his books. He seeks refuge in the Hague 
+1643-1646 | Starts an affectionate and fruitful correspondence with Princess Elizabeth of Bohemia, focusing on his account of the passions. The Principles, four parts of its originally projected six complete, is published by Elzevier in the middle of 1644. A good deal of his time is taken up with dissection of animals and studying the medicinal properties of plants. By 1646, he has a draft of the Passions of the Soul
+1647-1648 | He is condemned by Revius and other theologians at the University of Leiden in early 1647. French translations of the Meditations and the Principles are published in 1647. His attack on his erstwhile disciple Regius, the Notes on a Certain Programme, appears at the beginning of 1648. In 1647-1648 he works on the unfinished Description of the Human Body
+1649-1650 | Leaves for the court of Queen Christiana of Sweden on August 31, 1649. The Passions of the Soul appears in November 1649. He dies of pneumonia in Stockholm, on February 11, 1650.

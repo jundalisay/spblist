@@ -8,14 +8,16 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-12
+# aliases:
+#   /research/descartes/philosophy/part-4/section-12
 ---
 
 
-### 196. The soul perceives only in so far as it is in the brain
+#### 196. The soul perceives only in so far as it is in the brain
 
-The soul does not perceive in so far as it is in each member of the body. It can only perceive when it is in the brain where the nerves, by their movements, convey to it the actions of the external objects that touch the parts of the body in which they are inserted.
+The soul does not perceive in so far as it is in each member of the body.
+
+It can only perceive when it is in the brain where the nerves, by their movements, convey to it the actions of the external objects that touch the parts of the body in which they are inserted.
 
 There are 3 proofs for this:
 

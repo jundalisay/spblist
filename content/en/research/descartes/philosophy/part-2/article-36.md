@@ -1,8 +1,8 @@
 ---
 title: "Law of Motion and Conservation of Energy"
-heading: Articles 36
+heading: Articles 36-38
 weight: 40
-description: ""
+description: "The universal and primary cause is God Himself"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -19,7 +19,9 @@ aliases:
 
 2. A particular cause, by which individual parts of matter acquire motions they did not have before. 
 
-The universal and primary cause is God Himself. He created matter together with motion and rest in the beginning. Through His ordinary concurrence alone, maintains as much motion and rest in it as He initially placed. 
+The universal and primary cause is God Himself. 
+
+He created matter together with motion and rest in the beginning. Through His ordinary concurrence alone, maintains as much motion and rest in it as He initially placed. 
 
 Motion is merely in the body moved, than in its modification. 
 

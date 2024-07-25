@@ -11,21 +11,24 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 31. How innumerable diverse motions* may be in the same body
+#### 31. How innumerable diverse motions* may be in the same body
 
-> *Superphysics Note: This is now called Brownian Motion
+{{< n n="This is now called Brownian Motion" >}}
 
+<!-- But every body also has a certain proper motion of its fibers, since it is understood to  -->
 
-But every body also has a certain proper motion of its fibers, since it is understood to recede only from bodies which are contiguous and at rest.
+A body only moves away from bodies which are contiguous and at rest.
 
-Yet it can also participate in others from infinitely many, if indeed it becomes a part of other bodies having other motions. 
+If it becomes a part of other bodies having other motions, then it can also participate in those other motions that can be infinitely many.
 
-If someone walking on a ship carries a clock, its  wheels will be moved by 4 motions:
+<!-- , if indeed it  -->
 
-1. The single, proper motion of the clock's mechanism, as a unit of the clock
+If someone walking on a ship carries a clock, its wheels will be moved by 4 motions:
+
+1. The single, proper motion of the clock's mechanism, as a unit of the clock.
 <!-- their fibers. -->
 
-2. The motion of the man whom it is joined to, and makes up one unit with him
+2. The motion of the man whom it is joined to, and makes up one unit with him.
 
 <!-- But they will also participate in another [motion], insofar as they are joined to the walking man, composing one part of matter with him,  -->
 
@@ -33,21 +36,21 @@ If someone walking on a ship carries a clock, its  wheels will be moved by 4 mot
 
 4. By the motion of sea to which the ship is joined to.
 
-5. By the motion of the Earth to which the sea is joined to
+5. By the motion of the Earth to which the sea is joined to.
 
  <!-- they are joined to the earth itself, if indeed the whole earth moves.  -->
 
-All these motions will truly be in the wheels pf that clock. 
+All these motions will truly be in the wheels of that clock. 
 
 But it is not easy to understand or recognize so many motions at once.
 
-This is why we cpmsider each motion of each body only. 
+This is why we consider each motion of each body only. 
 
 <!-- , nor can all of them be recognized, it will suffice to consider that single one which is proper to each body. -->
 
 
 
-### 32. How also the proper cost of movement, which is unique in the body too, is taken for the sake of many.
+#### 32. How the proper cost of movement, which is also unique in the body, is taken for the sake of many.
 
 Every single motion of a body is also made up of multiple motions.
 
@@ -60,7 +63,7 @@ An example is the wheels of carts having 2 different motions:
 
  <!-- along which they are carried -->
 
-But these motions are not truly distinct. 
+**But these motions are not truly distinct.** 
 
 Each point of the moving body describes only one line. 
 
@@ -69,14 +72,14 @@ Nor does it matter that this line is often very curved, and so seems to be gener
 This is because we can imagine, in the same way, that any line whatsoever, even a straight line, which is the simplest of all, can arise from infinitely many different motions. 
 
 
-For example, line AB is carried towards CD.
+For example, line `AB` is carried towards `CD`.
 
 {{< img src="/graphics/physics/ad.jpg" alt="Line AD" >}}
 
-At the same time, point A is carried towards B. Then point A will draw the straight line AD which will depend on 2 straight motions:
+At the same time, point `A` is carried towards `B`. Then point `A` will draw the straight line `AD` which will depend on 2 straight motions:
 
-1. From A to B
-2. From A to D
+1. From `A` to `B`
+2. From `A` to `D`
 
 <!-- than the curved line which is described by any point of a wheel depends on a circular and a straight motion. -->
 

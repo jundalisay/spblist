@@ -13,9 +13,9 @@ icon: "/icons/descartes.png"
 
 ### 86. The Various Motions of the Air-Aether Particles Make Them Perfectly Spherical
 
-The fire-aether coming from vortices like KL and similar ones is primarily carried towards the Sun. 
+The fire-aether coming from vortices like `KL` and similar ones is primarily carried towards the Sun. 
 
-But many parts of it are also dispersed throughout the entire vortex AYBM. From there it transitions to other vortices like CO and similar ones. 
+But many parts of it are also dispersed throughout the entire vortex `AYBM`. From there it transitions to other vortices like CO and similar ones. 
 
 By flowing around the particles of the air-aether, it causes them to move not only around their own centers but also possibly in other ways. 
 

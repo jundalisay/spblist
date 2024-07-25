@@ -1,6 +1,6 @@
 ---
 title: "The Magnet"
-heading: Article 133-
+heading: Article 133-138
 weight: 36
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
 writer:

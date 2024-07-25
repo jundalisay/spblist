@@ -4,8 +4,7 @@ heading: Preface by Florentius Schuyl
 weight: 2
 description: "The leaders of more solid doctrine have long complained that simple and clear Truth has been obscured and overshadowed by obscure, intricate, and thorny subtleties, through a sort of misplaced diligence. "
 writer:
-  name: Rene Descartes
-  url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+  name: Florentius Schuyl
 image: "/covers/man.jpg"
 icon: "/icons/descartes.png"
 ---

@@ -135,9 +135,11 @@ When Sattva is affected, these two also are affected. So far the physical cleanl
 
 They should be free from excitement. 
 
-That is why it has been mentioned in the rules of bath that one should pour water in front, on Muladhara and Svadhisthana, and next from behind. Water should be poured from both sides. 
+That is why our Carya'carya rules of bath says that one should pour water in front, on Muladhara and Svadhisthana, and next from behind. Water should be poured from both sides. 
 
-First make those two cool and then have bath. Our Carya'carya clearly states rules in this regard. If these two are all right, then other things also are all right. 
+First make those two cool and then have bath. 
+
+If these two are all right, then other things also are all right. 
 
 Even the common village folk know that before bath, one should give water first in the navel. 
 
@@ -145,16 +147,17 @@ They are unconsciously conscious about this fact. Bath, then is highly important
 
 This is highly necessary and useful for the Yogiis.
 
-The controlling station of Sva'dhis't'ha'na Cakra is located in the Piit'ha, not at the central point in the Karnika.
+**The controlling station of Svadhisthana Cakra is located in the Piitha, not at the central point in the Karnika.**
 
 This is a singular case.
 
-In all other cases, the central point of the Karn'ika' is invariably the controlling point of the Cakra. 
+In all other cases, the central point of the Karnika is invariably the controlling point of the Cakra. 
 
 The central point of the Piit'ha lies outside the Piit'ha because it is same as the central point of the Cakra. 
 
-If the crescent moon is given the shape of a full moon, then it becomes easier to locate the central point. 
+If the crescent moon is given the shape of a full moon, then it becomes easier to locate the central point.
 
 In our Snana Vidhi, it has been clearly mentioned that we must wet the navel and Svadhisthana first and then we should give water again from behind. 
 
 So the external physical Shaoca is to keep the body clean and strictly observe Snana Vidhi.
+

@@ -15,13 +15,13 @@ icon: "/icons/descartes.png"
 
 <!-- 1631 -->
 
-Besides the animal spirit, man consists of:
+Besides the animal spirits, man consists of:
 - spiritual air-aether, homogeneous with our animal spirit, and
 - watery humor, homogeneous with the solid parts that can be compared to the earth-aether
   
  <!-- earth. -->
 
-The mixture of the animal spirit and humor forms the vital spirit, which is comparable to fire. 
+The mixture of the animal spirits and humor forms the vital spirit, which is comparable to fire. 
 
 From the imperfect mixture of humor and earthly parts, blood is produced. 
 
@@ -31,10 +31,7 @@ The perfect, but in which the most subtle humor evaporates, is black bile, acidi
 
 Satisfactorily perfect, but in which humor abounds, is urine.
 
-[602] Satisfactorily perfect, but in which the extremes of tenuity and solidity are lacking,
-is slow pituita and mucus. Perfectly formed,
-flesh, nerves, and bones, as in it, more or less,
-according to the solid parts.
+[602] Satisfactorily perfect, but in which the extremes of tenuity and solidity are lacking, is slow pituita and mucus. Perfectly formed, flesh, nerves, and bones, as in it, more or less, according to the solid parts.
 
 <!-- Ungues & pili sunt ejusdem materiæ cum ossibus, nec tamen ita durescunt, quia
 nimis cito fluidæ partes exhalant. Dentes autem ejusdem profecto materiæ atque cornua,

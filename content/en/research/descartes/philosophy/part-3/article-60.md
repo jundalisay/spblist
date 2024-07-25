@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 60. This effort found in the air-aether
+#### 60. This effort found in the air-aether
  <!-- celestial matter -->
 
 **The stone in a sling or the ball rotating in a tube around the center `E` is how the air-aether globules move.**
@@ -24,14 +24,20 @@ They are held in place by other surrounding globules, just as the stone is held 
 
 <!-- Additionally, this force in them is greatly increased by the fact that  -->
 
-The upper globules are pressed by the lower ones.
+<!-- upper  lower -->
+The outer globules are pressed by the inner ones.
 
-All of them together are pressed by fire-aether at the center of each vortex. 
+All of them together are pressed by fire-aether from the center of each vortex. 
 
-<!-- To distinguish everything accurately, we will speak here only of these globules and will not pay more attention to the matter of the first element than if all the spaces occupied by it were empty, that is, as if they were filled with matter that neither aids nor hinders the motion of other bodies. From what has been said earlier, it is clear that no other true idea of  -->
+To distinguish everything accurately, we will speak here only of these air-aether globules.
+
+We will only speak of the fire-aether when there are spaces that are devoid of the air-aether*. 
+
+{{< n n="Examples are black holes which are more of pure aether" >}}
+
+ <!-- than if all the spaces occupied by it were empty, that is, as if they were filled with matter that neither aids nor hinders the motion of other bodies. -->
 
 Truly empty space cannot exist.
-
 
 
 <!-- those in the straight line SA press mutually towards A, and those in the straight line SE press towards E, and so on for the others. Therefore, if there are not enough to occupy the entire space between S and the circumference AEI, all that space which they do not occupy will be left towards S. And because those that press against each other (for example, those in the straight line SE) do not all revolve like a stick simultaneously, but some complete their circuit faster, others slower, as will be explained more fully below, the space they leave towards S cannot help but be round. 

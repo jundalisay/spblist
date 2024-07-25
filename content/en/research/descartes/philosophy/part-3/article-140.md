@@ -71,11 +71,17 @@ Hence, it also follows that when the motion of these celestial globules is accel
 
 #### 140. The principle of the motion of a Planet
 
-Let us assume that the `Star N` is capable of less agitation, or has less solidity than the air-aether globules, which are towards the circumference of our sky, but still has somewhat more than some of those which are towards the Sun: 
+Let us assume that the `Star N` has:
+- less agitation, or has less solidity than the air-aether globules near the edge of our solar system.
+- more agitation than the air-aether globules near the sun. 
+
+<!-- , which are towards the circumference of our sky, but still has somewhat more than some of those which are towards the Sun:  -->
 
 {{< img src="/graphics/physics/vortices.jpg" alt="Vortices" >}}
 
-As soon as it is taken away from the vortex of the Sun, it should immediately descend towards its center, until it reaches those air-aether globules with which it is equal in solidity, or in aptitude to continue in its motion in straight lines.
+As soon as it enters the sun's vortex, it falls immediately towards the sun until it reache the air-aether globules that are equal to it in solidity. 
+
+ <!-- is taken away from the vortex of the Sun, it should immediately descend towards its center, until it reaches those air-aether globules with which it is equal in solidity, or in aptitude to continue in its motion in straight lines. -->
 
 <!--celestial globules , NB. See fig. pag. 171.  celestial -->
 

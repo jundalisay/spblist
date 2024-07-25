@@ -21,13 +21,21 @@ I should add nothing farther to this the Fourth Part of the Principles of Philos
 
 ### 189. What perception (SENSUS) is, and how we perceive.
 
-The human soul is united to the whole body. But it has, nevertheless, its principal seat in the brain, where alone it understands, imagines, and perceives.
+The human soul is united to the whole body. 
 
-This done by the medium of the nerves, which are extended like threads from the brain to all the other members. These are so connected that we can hardly touch any one of them without moving the extremities of some of the nerves spread over it.
+Its principal seat is in the brain, where alone it understands, imagines, and perceives.
 
-This motion passes to the other extremities of those nerves which are collected in the brain round the seat of the soul, [Footnote: *** FOOTNOTE NOT VISIBLE IN PAGE IMAGE (#98, Text p 195)] as I have already explained with sufficient minuteness in Chapter 4 of the Dioptrics. 
+This done by the medium of the nerves, which are extended like threads from the brain to all the other members.
 
-But the movements which are thus excited in the brain by the nerves variously affect the soul or mind, which is intimately conjoined with the brain, according to the diversity of the motions themselves. And the diverse affections of the mind or thoughts that immediately arise from these motions, are called perceptions of the senses (SENSUUM PERCEPTIONES), or, as we commonly speak, sensations (SENSUS).
+These are so connected that we can hardly touch any one of them without moving the extremities of some of the nerves spread over it.
+
+This motion passes to the other extremities of those nerves which are collected in the brain around the seat of the soul, as explained in Chapter 4 of the Dioptrics. 
+
+<!-- [Footnote: *** FOOTNOTE NOT VISIBLE IN PAGE IMAGE (#98, Text p 195)] -->
+
+But the movements which are thus excited in the brain by the nerves variously affect the soul or mind, which is intimately conjoined with the brain, according to the diversity of the motions themselves. 
+
+The diverse affections of the mind or thoughts that immediately arise from these motions, are called perceptions of the senses (SENSUUM PERCEPTIONES), or, as we commonly speak, sensations (SENSUS).
 
 
 ### 190. The distinction of the senses; and, first, of the internal, that is, of the affections of the mind (passions), and the natural appetites.
@@ -42,7 +50,9 @@ We have not, however, as many different senses as there are nerves. We can disti
 - 2 are internal senses
 - 5 are the external senses
 
-The nerves which extend to the stomach, the oesophagus, the fauces, and the other internal parts that are subservient to our natural wants, constitute one of our internal senses. This is called the natural appetite (APPETITUS NATURALIS). 
+The nerves which extend to the stomach, the oesophagus, the fauces, and the other internal parts that are subservient to our natural wants, constitute one of our internal senses. 
+
+This is called the natural appetite (APPETITUS NATURALIS). 
 
 The other internal sense, which embraces all the emotions (COMMOTIONES) of the mind or passions, and affections, as joy, sadness, love, hate, and the like, depends on the nerves which extend to the heart and the parts about the heart. These are exceedingly small. 
 
@@ -66,14 +76,19 @@ All the other causes which move these nerves in the same way may also give to th
 
 In other words, as far as they are confused thoughts which the mind has not from itself alone, but from its being closely joined to the body, from which it receives impressions; for there is the widest difference between these passions and the distinct thoughts which we have of what ought to be loved, or chosen, or shunned, etc., [although these are often enough found together]. 
 
-The natural appetites, as hunger, thirst, and the others, are likewise sensations excited in the mind by means of the nerves of the stomach, fauces, and other parts, and are entirely different from the will which we have to eat, drink, [and to do all that which we think proper for the conservation of our body]; but, because this will or appetition almost always accompanies them, they are therefore named appetites.
+The natural appetites, as hunger, thirst, and the others, are likewise sensations excited in the mind by means of the nerves of the stomach, fauces, and other parts.
+
+These are totally different from the will which we have to eat, drink, [and to do all that which we think proper for the conservation of our body].
+
+But they are named appetites because this will or appetition almost always accompanies them.
 
 
-{{< s v="191" >}} **The external senses; and first of touch.**
 
-We commonly reckon the external senses five in number, because there are as many different kinds of objects which move the nerves and their organs, and an equal number of kinds of confused thoughts excited in the soul by these emotions. 
+#### 191. The external senses: Touch
 
-`1.` The nerves terminating in the skin can be touched through this medium by any terrene objects, and moved by these wholes, in one way by:
+We commonly count 5 external senses because there are as many different kinds of objects which move the nerves and their organs, and an equal number of kinds of confused thoughts excited in the soul by these emotions.
+
+1. The nerves terminating in the skin can be touched through this medium by any terrene objects, and moved by these wholes, in one way by:
 - their hardness
 - their gravity
 - their heat
@@ -86,27 +101,28 @@ Besides this, when these nerves are moved a little more powerfully than usual, b
 But if this action be strong enough to hurt our body in any way, this gives to our mind the sensation of pain. And we thus see why corporeal pleasure and pain, although sensations of quite an opposite character, arise nevertheless from causes nearly alike.
 
 
-### 192. **Taste**
+#### 192. Taste
 
 2. The other nerves scattered over the tongue are diversely moved by the particles of the same bodies, separated from each other and floating in the saliva in the mouth, and thus cause sensations of diverse tastes according to the diversity of figure in these particles. 
 
 <!-- [Footnote: In the French this section begins, "Taste, after touch the grossest of the senses," etc.] -->
 
+#### 193. Smell
 
-{{< s v="193" >}} **Smell**
+3. 2 nerves also or appendages of the brain, for they do not go beyond the limits of the skull, are moved by the particles of terrestrial bodies, separated and flying in the air, not by all particles indifferently, but by those only that are sufficiently subtle and penetrating to enter the pores of the bone we call the spongy, when drawn into the nostrils, and thus to reach the nerves. 
 
-3. 2 nerves also or appendages of the brain, for they do not go beyond the limits of the skull, are moved by the particles of terrestrial bodies, separated and flying in the air, not indeed by all particles indifferently, but by those only that are sufficiently subtle and penetrating to enter the pores of the bone we call the spongy, when drawn into the nostrils, and thus to reach the nerves. From the different motions of these particles arise the sensations of the different smells.
+From the different motions of these particles arise the sensations of the different smells.
 
 
-{{< s v="194" >}} Hearing
+#### 194. Hearing
 
 4. There are 2 nerves within the ears, so attached to 3 small bones that are mutually sustaining. 
 
 The first of these rests on the small membrane that covers the cavity we call the tympanum of the ear, that all the diverse vibrations which the surrounding air communicates to this membrane are transmitted to the mind by these nerves, and these vibrations give rise, according to their diversity, to the sensations of the different sounds.
 
 
-{{< s v="195" >}} **Sight**
+#### 195. Sight
 
 5. The extremities of the optic nerves, composing the coat in the eyes called the retina, are not moved by the air nor by any terrestrial object, but only by the globules of the second element, whence we have the sense of light and colours: as I have already at sufficient length explained in the Dioptrics and treatise of Meteors. 
 
-[Footnote: In the French this section begins, "Finally, sight is the most subtle of all the senses," etc.]
+<!-- [Footnote: In the French this section begins, "Finally, sight is the most subtle of all the senses," etc.] -->

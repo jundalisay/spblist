@@ -1,6 +1,6 @@
 ---
-title: "The observations that can be made about iron filings scattered around a magnet"
-heading: Section 5g
+title: "Iron filings scattered around a magnet"
+heading: Article 179-183
 weight: 52
 description: "Enumeration of properties of magnetic properties"
 writer:
@@ -8,13 +8,13 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-09
+# aliases:
+#   /research/descartes/philosophy/part-4/section-09
 ---
 
 
 
-### 179. The observations that can be made about iron filings scattered around a magnet.
+#### 179. The observations that can be made about iron filings scattered around a magnet.
 
 If we examine more closely how iron filings arrange themselves around a magnet, we will observe many things that confirm what has been said so far. 
 
