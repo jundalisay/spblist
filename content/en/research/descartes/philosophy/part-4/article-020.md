@@ -71,7 +71,7 @@ In reality:
 
 **The air-aether has no force of heaviness or lightness as long as it totally agrees in the motion that carries the Earth.**
 
-{{< i s="/photos/physics/zerog.jpg" a="Zero G" c="The pushing force of gravity is negated by an airpline falling faster than that push" >}}
+{{< i s="/photos/physics/zerog.jpg" a="Zero G" c="The pushing force of gravity is negated by an airpline falling faster than that push. In Descartes-speak this is when it 'totally agrees in the motion that carries the Earth'" >}}
 
 <!-- , has no force of gravity or levity;  celestial matter -->
 <!-- gravity or levity;  -->
@@ -92,29 +92,32 @@ All the spaces around the Earth are occupied either by:
 - the earth-aether as physical air
 
 
-"The force possessed by each part of celestial matter, which causes it to recede from the Earth, can only exert its effect when, during its ascent, it depresses and propels some terrestrial parts below itself into the space it vacates. 
+The air-aether has a force that causes it to move away from the Earth.
+
+This can only exert its effect when, during its ascent, it depresses and propels some terrestrial parts below itself into the space that it just left. 
 
 
-The air-aether globules have equal power. None of them can displacec the other. 
+**The air-aether globules all have equal power. None of them can displace the other.** 
 
 <!-- of this celestial matter have an equal tendency to remove themselves from it, no individual has the power to displace others of its kind;  -->
 
 But terrestrial bodies have a lesser content of air-aether. This creates an inequality among the air-aether.
 
-This inequality allows the  
+<!-- This inequality allows the  
 
 
-but since such a tendency is not as great in the particles of , whenever they have some of them above themselves, they must exert this force entirely on those. 
+but since such a tendency is not as great in the particles of , whenever they have some of them above themselves, they must exert this force entirely on those.  -->
 
-Thus the gravity of each terrestrial body is not properly produced by all the celestial matter surrounding it, but precisely only by that part of it which, if the body descends, immediately ascends in its place, and therefore is exactly equal in magnitude to it. 
+Thus the gravity of each terrestrial body is not produced by the air-aether surrounding it.
 
+Instead, it is produced only by those that immediately ascend in its place when the body descends. Therefore, they are exactly equal in magnitude to it. 
 
 
 For example, `B` is a rock in the middle of the air. It naturally has more earth-aether content than air-aether.
 
   <!-- than an equal volume of air has earth-aether.  -->
 
-{{< img src="/graphics/physics/earth.jpg" alt="Earth" >}}
+{{< img src="/graphics/physics/earth.png" alt="Earth" >}}
 
 <!-- Because it has more earth-aether, it means that it has less air-aether -- it has fewer or narrower pores that can contain the air-aether.  -->
 

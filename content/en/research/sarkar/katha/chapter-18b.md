@@ -60,58 +60,44 @@ lying on the ground, I asked Shri Kishanji to grasp Baba's feet quickly, and eve
 quickly got up and caught Baba's feet again. There was no room for me to do this and
 so I knelt behind with my arms around Baba’s waist laying my head on His shoulder so
 that my cheek lay on His chest.
+
 Still weeping, I was pleading with Baba not to be so hard-hearted.
+
 But Baba was only saying, "Leave me! Leave me! Give me up."
-Then once more Baba said, "Nagina, you take all the wealth and the powers of
-the world, but give me up."I said, "Baba this will be very losing bargain for us. I consider everything in this
-world as a useless trifle compared to Your life which is all in all for us. We shall be
-eternally grateful if for our sake You kindly keep Your body. Thus alone the world will
-be saved and in this lies the good of the world."
-Baba said again, "Do you want that atom bombs and hydrogen bombs strike the
-earth and I remain a silent spectator?”
-I said deferentially, "Baba, it all depends upon You. If You desire, these bombs
-will strike the earth, but if you do not so will, it cannot happen. All this is as you wish.
-What has this to dowith You giving up the body?”
-Instead of answering my question, Baba said, as if to reassure us, “After taking
-my decision to leave the body, I created powerful spiritual vibrations with the help of my
-varabhaya and janusparsha mudras. With the help of those vibrations, you people
-should progress and guide the world to the Supreme Beatitude”.
-I did not understand these mystical things then, so I disregarded them and
-focussed my attention on keeping Baba’s body alive. But Baba, being anrayami or all-
-knowing, explained without my asking.
-“Nagina, I have already released the vibrations of the varabhaya and
-janusparsha mudras. With the help of the psychic and spiritual energy accumulated
-from your sadhana, you will be able to contact these vibrations. Just as you receive
-guidance from me physically, you will also receive guidance from these vibrations”.
-I said, “It is good that You have released those vibrations for us. But it would be
-even better for us if You stay with us along with those vibrations. That way we will get
-double benefits. SO please give up Your idea about leaving the body”.
-I reasoned that we could get direct love and guidance from Baba as we knew
-Him. To trust to a dark, unknown future, hoping that one day we would acquire the
-spiritual energy with which to get in touch with those subtle vibrations, woule be
-absolute folly. Besides, that long and difficult path would be impossible for a common
-sadhaka like me. I recalled the Samskrta proverb, ‘hastastham pindamutsrjya
-bhramante jeevitashaya’, (only the foolish go begging whilst ignoring the food in their
-hand). So I could never imagine reconciling myself to Baba’s offer.
-By this time I was becoming numb and exhausted from the continual weeping
-and pleading. I was now so weak that I was unable to speak and continue this round of
-circular arguments. I beseeched my brother disciples somehow to persuade Baba not
-to give up his body.
-But Baba remained adamant and deaf to our pleas, single-mindedly repeating,
-“The time has come. I must go.”
-Salutations to Baba who is the Giver of Everything Like
-KALPATARU
-Then Baba said "Nagina! You had a strong desire that I become the Kalpataru.
-Lo! I have become the Kalpataru now! Ask whatever you desire".I thought this was another attempt by Baba to lull us into forgetfulness and I,
-therefore said, as before, that I wanted nothing from the Kalpataru and I have nothing
-to ask from the Kalpataru.
-On hearing me, Baba very affectionately explained to me, “No, no Nagina! This
-is not the way to speak before the Kalpataru”.
-I had already made up my mind that I wanted nothing else except that Baba
-may retain His body and in the same strain I repeated again that I had no request from
-the Kalpataru.
-Baba repeated very tendely,“No Nagina! This would almost amount to insulting
-the Kalpataru”.
+
+Then once more Baba said, "Nagina, you take all the wealth and the powers of the world, but give me up."
+
+I said, "Baba this will be very losing bargain for us. I consider everything in this world as a useless trifle compared to Your life which is all in all for us. We shall be eternally grateful if for our sake You kindly keep Your body. Thus alone the world will be saved and in this lies the good of the world."
+
+Baba said again, "Do you want that atom bombs and hydrogen bombs strike the earth and I remain a silent spectator?”
+
+I said deferentially, "Baba, it all depends upon You. If You desire, these bombs will strike the earth, but if you do not so will, it cannot happen. All this is as you wish. What has this to do with You giving up the body?”
+
+Instead of answering my question, Baba said, as if to reassure us, “After taking my decision to leave the body, I created powerful spiritual vibrations with the help of my varabhaya and janusparsha mudras. With the help of those vibrations, you people should progress and guide the world to the Supreme Beatitude”.
+
+I did not understand these mystical things then, so I disregarded them and focussed my attention on keeping Baba’s body alive. But Baba, being anrayami or all-knowing, explained without my asking.
+
+“Nagina, I have already released the vibrations of the varabhaya and janusparsha mudras. With the help of the psychic and spiritual energy accumulated from your sadhana, you will be able to contact these vibrations. Just as you receive guidance from me physically, you will also receive guidance from these vibrations”. 
+
+I said, “It is good that You have released those vibrations for us. But it would be even better for us if You stay with us along with those vibrations. That way we will get double benefits. SO please give up Your idea about leaving the body”.
+
+I reasoned that we could get direct love and guidance from Baba as we knew Him. To trust to a dark, unknown future, hoping that one day we would acquire the spiritual energy with which to get in touch with those subtle vibrations, woule be absolute folly. Besides, that long and difficult path would be impossible for a common sadhaka like me. I recalled the Samskrta proverb, ‘hastastham pindamutsrjya bhramante jeevitashaya’, (only the foolish go begging whilst ignoring the food in their hand). So I could never imagine reconciling myself to Baba’s offer.
+
+By this time I was becoming numb and exhausted from the continual weeping and pleading. 
+
+I was now so weak that I was unable to speak and continue this round of circular arguments. I beseeched my brother disciples somehow to persuade Baba not to give up his body.
+
+But Baba remained adamant and deaf to our pleas, single-mindedly repeating, “The time has come. I must go.”
+Salutations to Baba who is the Giver of Everything Like KALPATARU Then Baba said "Nagina! You had a strong desire that I become the Kalpataru.
+
+Lo! I have become the Kalpataru now! Ask whatever you desire".I thought this was another attempt by Baba to lull us into forgetfulness and I, therefore said, as before, that I wanted nothing from the Kalpataru and I have nothing to ask from the Kalpataru.
+
+On hearing me, Baba very affectionately explained to me, “No, no Nagina! This is not the way to speak before the Kalpataru”. 
+
+I had already made up my mind that I wanted nothing else except that Baba may retain His body and in the same strain I repeated again that I had no request from the Kalpataru.
+
+Baba repeated very tendely,“No Nagina! This would almost amount to insulting the Kalpataru”.
+
 Now it dawned upon me that I should express my true heart's desire before the
 Kalpataru, so I said, “If it is an insult not to ask anything from the Kalpataru, then my
 request to the Kalpataru is that for fifty years from today every year we should

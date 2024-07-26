@@ -21,9 +21,11 @@ writer:
 
 <!-- For first, we can only guess at the eyes in Figure 50: and there see how  -->
 
-The filaments D D converge into nerves and are compressed at the eyes (Figure 50).
+The filaments `D D` converge into nerves and are compressed at the eyes (Figure 50).
 
-During sleep, the actions of external objects are largely impeded from passing into the brain to be felt there. Likewise, the passages to the external limbs, by which these actions are to be conveyed, are blocked by the spirits contained in the brain.
+During sleep, the actions of external objects are largely impeded from passing into the brain to be felt there. 
+
+Likewise, the passages to the external limbs, by which these actions are to be conveyed, are blocked by the animal spirits* contained in the brain.
 
 <!-- : so that it can be understood how in this machine representing the body of a sleeping person,  -->
 

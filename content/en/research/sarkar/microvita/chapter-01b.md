@@ -17,7 +17,8 @@ weight: 4
 
 These microvita move throughout the entire universe, from one celestial body to another*. 
 
-> *Superphysics Note: This is because they are of the Spatial Layer and celestial bodies are spacetime vortices. 
+
+{{< n n="This is because they are of the Spatial Layer and celestial bodies are spacetime vortices." >}}
 
 
 They move everywhere, crossing the boundaries of nebulae, piercing through galaxies, stars, satellites, planets and meteors. They move unbarred, without caring for the atmospheric conditions or barometric readings. 
@@ -39,7 +40,8 @@ The so-called virus of a diseased person may move through his or her sound.
 
 They may move through tactuality*. 
 
-> *Superphysics Note: I felt this myself when I touched a Buddha Relic. But it was more of the chi of the relic instead of its microvita. 
+
+{{< n n="I felt this myself when I touched a Buddha Relic. But it was more of the chi of the relic instead of its microvita." >}}
 
 
 3. Visual
@@ -63,7 +65,9 @@ That is, a great man with a great conceptually-developed mind may spread his ide
 
 What is the root cause of this universe? Which is the starting point of life or vitality? 
 
-**These microvita are the carriers of life in different stars, planets and satellites – not carbon atoms or carbon molecules.** 
+**These microvita are the carriers of life in different stars, planets and satellites – not carbon atoms or carbon molecules.** *
+
+{{< n n="The microvita that make up the carbon atoms carry life, not the carbon atoms.">}}
 
 These living creatures with their mysterious movement create minds and bodies, living bodies in different celestial bodies.
 
@@ -83,7 +87,6 @@ Similarly, in the higher intellectual realm research work on these microvita is 
 
 **These microvita are a creation in the internal phase, rather in the returning phase of cosmic expression.** *
 
-> *Superphysics Note: Microvita comes from matter which can only happen through supernovae or nebulae
 
 
 Phase | Description

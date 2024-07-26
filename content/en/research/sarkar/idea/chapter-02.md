@@ -120,13 +120,15 @@ Our philosophy penetrates deeper into the ultimate cause of all the manifested e
 
 Within the unit living structure, <!-- práńáh --> the vital energy transmits its own wavelength just as the unit mind transmits its own.
 
-The parallelism of these waves leads to the cooperative functioning which the living being uses as it goes through subtilification. <!-- proceeds towards the destined path of pratisaiṋcara. -->
+**The parallelism of these waves leads to the cooperative functioning which the living being uses as it goes through subtilification.** 
+
+<!-- proceeds towards the destined path of pratisaiṋcara. -->
 
 In the initial stage of mind-creation, living structures have an underdeveloped ego. 
 - This prevents them from functioning independently. 
 - They work according to the ego or will of the Macrocosmic Identity. <!--  Cosmic “I”. -->
 
-Macrocosm's applied will gives momentum <!-- (saḿvega) --> to the crude mind. 
+The Macrocosm's applied will gives momentum <!-- (saḿvega) --> to the crude mind. 
 - It supplies requisite force to move along subtilification<!-- pratisaiṋcara -->. 
 
 On the path of subtilification<!--  pratisaiṋcara -->, the attraction to the Nucleus (Vidyámáyá) increases. 

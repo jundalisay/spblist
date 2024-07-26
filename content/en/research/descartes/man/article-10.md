@@ -24,11 +24,12 @@ Consequently, I could perhaps demonstrate how another machine identical to this 
 
 The portion of blood that rises up to the brain through the arteries:
 - aids in the nutrition and preservation of brain tissue
-- primarily produces a very subtle breeze, or rather a highly agile and pure flame, which we call "animal spirits". 
+- primarily produces a very subtle breeze, or rather a highly agile and pure flame, which we call "animal spirits".
 
 The arteries are divided into countless small branches. These form marvelous networks that line the floors of the brain's ventricles like carpets. 
 
-These converge around a gland roughly located in the center of the brain, near the entrance of its ventricles or cavities, and exist with nearly infinite pores.
+These converge around the pineal gland roughly in the center of the brain, near the entrance of its ventricles or cavities.
+- This gland has nearly infinite pores.
 
 The narrowness of those pores deny the passage of thicker blood parts. They allow only the finer parts to flow into the gland.
 
@@ -38,9 +39,11 @@ The thicker blood particles lose some of their motion while struggling through t
 
 The finer particles, mixed in, possess the power to propel themselves, transferring some of their motion into these networks. 
 
-These, in turn, cannot lose their momentum. Instead, their force increases due to the motion transferred to them by the thicker particles, as there are no other bodies present to transfer their motion so easily.
+These, in turn, cannot lose their momentum. 
 
-As the thicker parts of the blood travel straight to the outer surface of the brain to nourish its substance, they cause the more agitated finer particles to be deflected and enter the gland. 
+Instead, their force increases due to the motion transferred to them by the thicker particles, as there are no other bodies present to transfer their motion so easily.
+
+As the thicker parts of the blood travel straight to the outer surface of the brain to nourish its substance, they cause the more agitated finer particles to be deflected and enter the pineal gland. 
 
 This gland is like a highly abundant spring from which they can promptly leap into the brain's cavities in all directions. 
 

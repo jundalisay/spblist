@@ -13,14 +13,18 @@ author: Maslow
 
 ## The 'Physiological' Needs
 
-The needs that are usually taken as the starting point for motivation theory are the so-called physiological drives. 
+The physiological drives are usually the starting point for motivation theory. 
 
-Two recent lines of research make it necessary to revise our customary notions about these needs:
+Two recent findings have been made in this regard:
+ <!-- lines of research make it necessary to revise our customary notions about these needs: -->
 
 1. The development of the concept of homeostasis
-2. The finding that appetites (preferential choices among foods) are a fairly efficient indication of actual needs or lacks in the body
+2. The finding that appetites (preferential choices among foods) efficiently indicate the actual needs in the body
 
-Homeostasis refers to the body's automatic efforts to maintain a constant, normal state of the blood stream. 
+Homeostasis is the body's automatic efforts to maintain a constant, normal state of the blood stream.*
+
+{{< n n="In Cartesian Physics, this is programmed into the pineal gland" >}}
+
 
 Cannon (2) has described this process for:
 - (1) the water content of the blood
@@ -37,25 +41,54 @@ Obviously, this list can be extended to include other minerals, the hormones, vi
 
 Young in a recent article (21) has summarized the work on appetite in its relation to body needs. If the body lacks some chemical, the individual will tend to develop a specific appetite or partial hunger for that food element.
 
-Thus it seems impossible as well as useless to make any list of fundamental physiological needs for they can come to almost any number one might wish, depending on the degree of specificity of description. We can not identify all physiological needs as homeostatic. 
+Thus it is impossible and useless to make a list of fundamental physiological needs. This is because they can be in any number. 
 
-It has not yet been demonstrated whether sexual desire, sleepiness, sheer activity and maternal behavior in animals, are homeostatic. 
+ <!-- for they can come to almost any number one might wish, depending on the degree of specificity of description.  -->
+
+We can not identify all physiological needs as homeostatic. 
+
+It has not yet been demonstrated whether sexual desire, sleepiness, sheer activity and maternal behavior in animals, are homeostatic.*
+
+{{< n n="This has already been sorted out by the 10 vayus in the body in Hinduism" >}}
+
 
 This list would not include the various sensory pleasures (tastes, smells, tickling, stroking) which are probably physiological and which may become the goals of motivated behavior.
 
-A previous paper pointed out that these physiological drives or needs are to be considered unusual rather than typical because they are isolable, and because they are localizable somatically. That is to say, they are relatively independent of each other, of other motivations and of the organism as a whole, and secondly, in many cases, it is possible to demonstrate a localized, underlying somatic base for the drive. This is true less generally than has been thought (exceptions are fatigue, sleepiness, maternal responses) but it is still true in the classic instances of hunger, sex, and thirst.
 
-Any of the physiological needs and the consummatory behavior involved with them serve as channels for all sorts of other needs as well. That is to say, the person who thinks he is hungry may actually be seeking more for comfort, or dependence, than for vitamins or proteins. 
+A previous paper pointed out that these physiological needs are unusual rather than typical. This is because:
+- they are isolable
+- they are localizable somatically. 
 
-Conversely, it is possible to satisfy the hunger need in part by other activities such as drinking water or smoking cigarettes. In other words, relatively isolable as these physiological needs are, they are not completely so.
+They are relatively independent of each other, of other motivations and of the organism as a whole,
+
+In many cases, it is possible to demonstrate a localized, underlying somatic base for the drive. 
+
+This is true less generally than has been thought (exceptions are fatigue, sleepiness, maternal responses) but it is still true in the classic instances of hunger, sex, and thirst.
+
+Any of the physiological needs and the consummatory behavior involved with them serve as channels for all sorts of other needs as well. 
+
+The person who thinks he is hungry may actually be seeking more for comfort, or dependence, than for vitamins or proteins.*
+
+{{< n n="Again, this has already been sorted out by Cartesian Physics and by Taoism and Chinese Medicine" >}}
+
+
+Conversely, it is possible to satisfy the hunger need in part by other activities such as drinking water or smoking cigarettes. 
+
+In other words, relatively isolable as these physiological needs are, they are not completely so.
 
 **These physiological needs are the most pre-potent of all needs.** 
 
-What this means specifically is, that in the human being who is missing everything in life in an extreme fashion, it is most likely that the major motivation would be the physiological needs rather than any others. A person who is lacking food, safety, love, and esteem would most probably hunger for food more strongly than for anything else.
+In the human being who is missing everything in life in an extreme fashion, it is most likely that the major motivation would be the physiological needs rather than any others. 
 
-If all the needs are unsatisfied, and the organism is then dominated by the physiological needs, all other needs may become simply non-existent or be pushed into the background. It is then fair to characterize the whole organism by saying simply that it is hungry, for consciousness is almost completely preempted by hunger. 
+A person who is lacking food, safety, love, and esteem would most probably hunger for food more strongly than for anything else.
 
-All capacities are put into the service of hunger-satisfaction, and the organization of these capacities is almost entirely determined by the one purpose of satisfying hunger. The receptors and effectors, the intelligence, memory, habits, all may now be defined simply as hunger-gratifying tools. 
+If all the needs are unsatisfied, and the organism is then dominated by the physiological needs, all other needs may become simply non-existent or be pushed into the background. 
+
+It is then fair to characterize the whole organism by saying simply that it is hungry, for consciousness is almost completely preempted by hunger. 
+
+All capacities are put into the service of hunger-satisfaction, and the organization of these capacities is almost entirely determined by the one purpose of satisfying hunger. 
+
+The receptors and effectors, the intelligence, memory, habits, all may now be defined simply as hunger-gratifying tools. 
 
 Capacities that are not useful for this purpose lie dormant, or are pushed into the background. The urge to write poetry, the desire to acquire an automobile, the interest in American history, the desire for a new pair of shoes are, in the extreme case, forgotten or become of secondary importance. 
 
@@ -95,8 +128,10 @@ At once other (and 'higher') needs emerge and these, rather than physiological h
 
 One main implication of this phrasing is that gratification becomes as important a concept as deprivation in motivation theory, for it releases the organism from the domination of a relatively more physiological need, permitting thereby the emergence of other more social goals. 
 
-The physiological needs, along with their partial goals, when chronically gratified cease to exist as active determinants or organizers of behavior. They now exist only in a potential fashion in the sense that they may emerge again to dominate the organism if they are thwarted. But a want that is satisfied is no longer a want. The organism is dominated and its behavior organized only by unsatisfied needs. If hunger is satisfied, it becomes unimportant in the current dynamics of the individual.
+The physiological needs, along with their partial goals, when chronically gratified cease to exist as active determinants or organizers of behavior. 
+
+They now exist only in a potential fashion in the sense that they may emerge again to dominate the organism if they are thwarted. 
+
+But a want that is satisfied is no longer a want. The organism is dominated and its behavior organized only by unsatisfied needs. If hunger is satisfied, it becomes unimportant in the current dynamics of the individual.
 
 This statement is somewhat qualified by a hypothesis to be discussed more fully later, namely that it is precisely those individuals in whom a certain need has always been satisfied who are best equipped to tolerate deprivation of that need in the future, and that furthermore, those who have been de-[p. 376]prived in the past will react differently to current satisfactions than the one who has never been deprived.
-
-

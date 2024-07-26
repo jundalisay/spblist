@@ -1,5 +1,5 @@
 ---
-title: "The Formation of the Earth"
+title: "The 3 Regions of the Earth"
 heading: Articles 6-9
 weight: 3
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
@@ -29,10 +29,6 @@ They completely resist the globules of the air-aether.
 Yet the earth-aether was formed from the fire-aether which naturally yields to the air-aether. 
 
 This is why the earth-aether can be changed somewhat by its encounter with the fire-aether and air-aether.
-
-
-
-
 
 
 

@@ -10,9 +10,7 @@ writer:
 weight: 5
 ---
 
-
-> Superphysics Note: This is from the Bengali version of Shabda Cayaniká which really is just a collection of words and their explanations. This chapter shows how microvita are similar to unicellular creatures (krimi) but are not actually germs. We have totally overhauled this chapter to emphasize microvita instead of confusing them with germs. 
-
+{{< n n="This is from the Bengali version of Shabda Cayaniká which really is just a collection of words and their explanations. This chapter shows how microvita are similar to unicellular creatures (krimi) but are not actually germs. We have totally overhauled this chapter to emphasize microvita instead of confusing them with germs." >}}
 
 
 <!-- ## Krimi
@@ -27,18 +25,19 @@ As unicellular creatures, they divide their nuclei and multiply into two or more
 
 These are the creatures of the primordial stage of creation in this expressed world. But all the creatures of this group are not of the same type – some are born from eggs, subsequently taking the form of larvae which undergo external metamorphosis, and acquire their final form as flying creatures. As they have an orderly growth divided into subsequent stages, they are called “krimi” in Saḿskrta. -->
 
-**Microvita do not belong to the category of unicellular creatures. **
 
-
+**Microvita do not belong to the category of unicellular creatures.**
 
 - Like all other organic and psychic beings, microvita exist, multiply and die. 
 - Unlike them, microvita are not directly related to carbon atoms or carbon molecules. Microvita are not subjected to barometric conditions or temperature. 
 
-
-Unicellular creatures grow and decay within the scope of the five fundamental factors
+Unicellular creatures grow and decay within the scope of the 5 fundamental factors
 - But cruder microvita function within the realm of the five inferences*.
 
-> *Superphysics Note: These mean the mental or metaphysical body instead of the physicality of the 5 Factors (which become 5 Inferences in the mental realm).
+
+{{< n n="*These mean the mental or metaphysical body instead of the physicality of the 5 Factors (which become 5 Inferences in the mental realm). For this, we use the word 5 Strata" >}}
+
+
 
 
 
@@ -46,7 +45,7 @@ Unicellular creatures grow and decay within the scope of the five fundamental fa
 
 Unicellular creatures can live in stones or any other solid matter as they travel to other planets. But they normally remain in water and other subtle fundamental factors*. 
 
-> *Superphysics Note: This can only be the convertible or gas-material layers
+{{< n n="This can only be the convertible or gas-material layers" >}}
 
 
 This is why humans must ensure that their water and air remain pure. 
@@ -63,7 +62,10 @@ Intellectually and spiritually advanced people, through their thoughts, can dest
 
 But if sinful people continue to create newer and newer microvita in their psychic sphere*, there will always remain the possibility of the creation of subtler forms of negative microvita. 
 
-> *Superphysics Note: Therefore, microvita are born and die in the mind as toughts. 
+
+{{< n n="*Therefore, microvita are born and die in the mind as toughts." >}}
+
+ 
 
 
 These microvita can cause immense harm in the collective sphere of different planets and the entire cosmos.(2) 

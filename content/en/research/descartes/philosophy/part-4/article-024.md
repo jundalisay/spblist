@@ -17,7 +17,7 @@ There is also some air-aether in the channels of rock `B`.
 
 This air-aether opposes the air-aether in the physical air, which then renders the air-aether in the channels idle.
 
-{{< img src="/graphics/physics/earth.jpg" alt="Earth" >}}
+{{< img src="/graphics/physics/earth.png" alt="Earth" >}}
 
 <!-- To ensure a proper calculation, it must be considered that  -->
 
@@ -42,9 +42,9 @@ In contrast, a less massive object has so much spacetime that it is easy to move
 
 
 
-#### 25. The quantity of gravity does not correspond to the quantity of matter in each body
+#### 25. The quantity of gravity does not correspond to the quantity of matter in each body*
 
-
+{{< n n="This specifically refutes Newton who based gravity on the amount of matter in each body" >}}
 <!-- Its quantity does not correspond to the quantity of matter in each body. And so that nothing is omitted, it must also be noted that by celestial matter we do not mean here only the globules of the second element, but also the matter of the first element mixed with them, and that those terrestrial particles which follow its course and move more quickly than the others are also to be referred to it; such as are all those that compose the air. Furthermore, it must be noted that the matter of the first element, other things being equal, has a greater force to drive terrestrial bodies downward than the globules of the second element, because it has more agitation; and 
 
 
@@ -56,7 +56,9 @@ a mass of gold weighs twenty times more than an equal volume of water, it does n
 The air-aether that causes gravity is made up of:
 - the air-aether
 - the air-aether that is mixed with the fire-aether
-- the earth-aether in the physical air 
+- the air-aether in the earth-aether in the physical air*
+
+{{< n n="Only this part is removed when a body falls in a vacuum" >}}
 
  <!-- terrestrial particles which follow its course and move more quickly than the others -->
 
@@ -64,7 +66,7 @@ The air-aether that causes gravity is made up of:
 
 **The fire-aether, all else being equal, has a greater force to push downward on terrestrial bodies than the air-aether globules  because it has more agitation.** *
 
-{{< n n="This is explains why gravity is weaker than magnetism. This is important in creating artificial gravity" >}} 
+{{< n n="This is explains why gravity is weaker than magnetism. This is important in creating artificial gravity" >}}
 
 
 The air-aether globules, in turn, have more force than the physical air that they carry with them, for a similar reason. 

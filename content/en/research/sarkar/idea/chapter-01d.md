@@ -26,14 +26,26 @@ Physical structures are composed of 5 fundamental layers<!--  factors -->:
 A unit structure has a body made up of a composite of these 5 layers<!--  factors --> with controlling nuclei.
 - These layers <!-- factors --> should remain in requisite proportion. 
 
-Vital energy or práńáh is the structure's collective creative unifying energy. 
+Vital energy or pranah is the structure's collective creative unifying energy. 
 - It <!-- resultant interial --><!--  or  --> depends on the mutual cohesion of these layers<!-- factors -->.
-- The controlling nucleus of all these fundamental physical nuclei is the controlling point of this collective vital energy.
+- The controlling nucleus of all these fundamental physical nuclei* is the controlling point of this collective vital energy.
 
-<!-- This collection of práńa is called pranah. -->
+<!-- This collection of práńa (energy) is called pranah. -->
 
+{{< b >}}
+#### Superphysics Note:
 
-> *Superphysics Note: <!-- Práńa is just energy. --> Práńáh is the living energy that maintains the structure. It comes from the unifying force. This is the opposite of physical energy which comes from the divisive force (i.e. a fire will dissociate a unified piece of wood into diverse ashes, while a tree will unify diverse minerals in the soil into a single wooden entity).  
+In the process of crudification (Supreme Negativity), the crudified Supreme can:
+- subdivide if the negative-negative wins
+- become a unit if the positive-negative wins
+  - That positive-negative will then create a controlling nucleus from where it can unite the structure. 
+
+In the human body, the pineal gland, which represents the top chakra, is the controller of the vital or living energy. 
+
+Nonliving energy is continued to be used by the negative-negative (i.e. a fire will dissociate a unified piece of wood into diverse ashes, while a tree will unify diverse minerals in the soil into a single wooden entity).
+{{< /b >}}
+
+<!-- junnotesPrana is just energy. Pranah is the living energy that maintains the structure. It comes from the unifying force. This is the opposite of physical energy which comes from the divisive force -->
 
 
 
@@ -44,13 +56,15 @@ Vital energy or práńáh is the structure's collective creative unifying ene
 Hence, life is the expression of the creative unifying force of itself as vital energy under a congenial environment.
 
 
-## Vital Energy or Práńáh
+## Vital or Living Energy or Pranah
 
 <!-- resultant interial -->
 
-The manifestation of vital energy <!-- práńáh --> depends on 2 conditions:
+The manifestation of living energy <!-- práńáh --> depends on 2 conditions:
+
 1. The <!-- resultant of práńa must be an interial force --> <!-- creation of práńa must be a --> energy must be from the unifying force
-2. There must be a congenial environment
+
+2. There must be a congenial environment [i.e. the 5 factors must be present]
 
 A lack of a congenial condition in the present-day world has caused giant animals of the past to either:
 - become smaller or

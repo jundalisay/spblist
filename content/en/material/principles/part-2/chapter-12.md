@@ -12,6 +12,24 @@ icon: /icons/spmat.png
 {{< youtube _NaZSSNFQnM >}}
 
 
+
+The force of qosts to go on a straight line in isolation and in curves in totality. 
+
+It can be 
+
+<!-- separation 
+liquidity
+transprency 
+-->
+
+falling objects - matter to matter
+lensing - spacetime to light
+surface tension - spacetime to matter
+
+
+
+
+
 In Superphysics, gravity is caused by the pushing force of invisible spacetime particles called qosts that fill all of reality. 
 
 This is different from Modern Physics which believes that it comes from matter, leading to the idea of dark matter in places where there is no visible matter. 

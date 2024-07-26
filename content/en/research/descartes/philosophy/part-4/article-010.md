@@ -1,5 +1,5 @@
 ---
-title: "The Formation of the Earth"
+title: "The Matter of the Earth"
 heading: Articles 10-14
 weight: 4
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"

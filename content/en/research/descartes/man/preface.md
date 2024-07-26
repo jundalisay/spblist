@@ -2,7 +2,7 @@
 title: To The Reader
 heading: Preface by Florentius Schuyl
 weight: 2
-description: "The leaders of more solid doctrine have long complained that simple and clear Truth has been obscured and overshadowed by obscure, intricate, and thorny subtleties, through a sort of misplaced diligence. "
+description: "The leaders of more solid doctrines have long complained that simple and clear Truth has been obscured by obscure subtleties."
 writer:
   name: Florentius Schuyl
 image: "/covers/man.jpg"

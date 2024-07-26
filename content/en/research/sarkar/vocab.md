@@ -1,7 +1,7 @@
 ---
 title: "Microvita in a Nutshell"
 image: "/covers/mv.png"
-weight: 2
+weight: 900
 draft: true
 ---
 

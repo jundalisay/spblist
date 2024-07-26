@@ -1,5 +1,5 @@
 ---
-title: "Art and Literature"
+title: "Literature and Art"
 image: "/covers/discourses.jpg"
-weight: 1
+weight: 28
 ---

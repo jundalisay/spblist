@@ -36,13 +36,19 @@ Similarly, in the psychic sphere there are:
 - endoplasm [higher mind]
   - This is the extra-psychic coverage of ectoplasm
 
-There may be entities subtler than these two.
+There may be entities subtler than these two*.
+
+
+{{< n n="This is accounted for in our 7 densities model" >}}
+
 
 There are entities which come within the realm of both physicality and psychic expressions which are smaller or subtler than atoms, electrons or protons. 
 
-In the psychic realm, these may be subtler than ectoplasm. 
+In the psychic realm, these may be subtler than ectoplasm [lower mind]. 
 
-I use the term “microvitum” for such objects or for such entities.
+I use the term “microvitum” for such objects or for such entities*.
+
+{{< n n="Therefore, microvita are lower-mind entities that are not immediately physical. Instead, their crudest are viruses and carbon atoms. Carbon atoms allow parallelism with living energy." >}}
 
 
 These microvita, are not of protoplasmic order. 
@@ -51,7 +57,9 @@ Science treats carbon molecules or carbon atoms as the initial points of life in
 
 These microvita have got little to do with carbon atoms or molecules. 
 
-**So far as physicality is concerned, the position of these microvita is just between ectoplasm [lower mind] and electron, but they are neither ectoplasm nor electron.**
+**So far as physicality is concerned, the position of these microvita is just between ectoplasm [lower mind] and electron, but they are neither ectoplasm nor electron.** *
+
+{{< n n="That is why we classify Elementals as between the upper Spatial and upper Rdiant strata." >}}
 
 <!-- It is a human wont that whatever we know regarding any subject or any object, when we know that it exists but its characteristics or other particulars are not known to us, we say it is “mysterious”.
 
@@ -67,7 +75,7 @@ These microvita are not of the same density or the same subtlety.
 
 Some of them may come within the range of a highly developed microscope*. 
 
-> *Superphyics Note: This is because they are just above the Radiant Layer (Electromagnetism)
+{{< n n="This is because they are just above the Radiant Layer (Electromagnetism). This is probably why Sarkar refers to them as emanations. This is why we assert that Microvita come from stars when there is a congenial environment for the living energy on light" >}}
 
 
 Some of them may not come within the range of a microscope. But they may come within the scope of our perception by:
@@ -82,6 +90,9 @@ Still subtler forms of microvita can only be detected by a special type of perce
 - This kind of perception is actually the reflection of conception within the edges of perception.
 <!-- a limited range of perception. -->
  <!-- in a limited sphere. -->
+
+
+### 3 Categories
 
 These microvita may be broadly divided into 3 categories:
 

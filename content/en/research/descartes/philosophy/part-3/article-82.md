@@ -13,7 +13,10 @@ icon: "/icons/descartes.png"
 
 ### 82. The Smaller Size and Faster Movement of Air-Aether Near the Sun, Compared to Those Further Away, Up to a Certain Distance Beyond Which All Are Equal in Size and Move Faster the Further They Are from the Sun
 
-Those air-aether closest to the center of each vortex are smaller and move faster than those slightly farther away. This goes on up to a certain limit. Beyond this limit, the outer ones move faster than the inner ones. 
+Those air-aether closest to the center of each vortex are smaller and move faster than those slightly farther away. This goes on up to a certain limit. 
+
+
+Beyond this limit, the outer ones move faster than the inner ones. 
 
 In terms of size, they are all equal. 
 

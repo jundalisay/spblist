@@ -7,23 +7,24 @@ weight: 999
 # date: 2020-10-31
 ---
 
-
-DHÁRAŃÁ. Restriction of the flow of mind, conception; e.g., Tattva Dhárańá means restricting the flow of mind to, or conception of, the fundamental factors.
-DHARMA. Characteristic property; spirituality; the path of righteousness in social affairs.
-DHYÁNA. Meditation in which the psyche is directed towards Consciousness.
-DIDI. Literally, “elder sister”; may refer to an ÁCÁRYÁ of ANANDA MARGA.
-GURU MANTRA. “Important” mantra, learned as a lesson of Ananda Marga SÁDHANÁ.
-INDRIYA. One of the five sensory organs (eyes, ears, nose, tongue and skin) or five motor organs (hands, feet, vocal cord, genital organ and excretory organ). The eye indriya (for example) comprises the eye itself, the optical nerve, the fluid in the nerve, and the location in the brain at which the visual stimulus is transmitted to the ectoplasm, or mind-stuff.
-JIIVA. An individual being.
-JIIVÁTMÁ. See ÁTMÁ.
-JIṊÁNA. Knowledge; understanding.
-JIṊÁNII. A SÁDHAKA who follows the path of knowledge or discrimination.
-KARMA. Action.
-KARMII. A SÁDHAKA who follows the path of action or work.
-KIIRTANA. Collective singing of the name of the Lord, sometimes combined with a dance that expresses the spirit of surrender.
-MARGI. A member of Ananda Marga.
-MÁYÁ. Creative Principle, PRAKRTI in Her phase of creation. One aspect of Máyá is the power to cause the illusion that the finite created objects are the ultimate truth.
-MOKŚA. Spiritual emancipation, non-qualified liberation.
+Word | Meaning
+--- | ---
+DHÁRAŃÁ | Restriction of the flow of mind, conception; e.g., Tattva Dhárańá means restricting the flow of mind to, or conception of, the fundamental factors.
+DHARMA | Characteristic property; spirituality; the path of righteousness in social affairs.
+DHYÁNA | Meditation in which the psyche is directed towards Consciousness.
+DIDI | Literally, “elder sister”; may refer to an ÁCÁRYÁ of ANANDA MARGA.
+GURU MANTRA | “Important” mantra, learned as a lesson of Ananda Marga SÁDHANÁ.
+INDRIYA | One of the five sensory organs (eyes, ears, nose, tongue and skin) or five motor organs (hands, feet, vocal cord, genital organ and excretory organ). The eye indriya (for example) comprises the eye itself, the optical nerve, the fluid in the nerve, and the location in the brain at which the visual stimulus is transmitted to the ectoplasm, or mind-stuff.
+JIIVA |An individual being.
+JIIVÁTMÁ | See ÁTMÁ.
+JIṊÁNA | Knowledge; understanding.
+JIṊÁNII |  A SÁDHAKA who follows the path of knowledge or discrimination.
+KARMA | Action
+KARMII | A SÁDHAKA who follows the path of action or work.
+KIIRTANA | Collective singing of the name of the Lord, sometimes combined with a dance that expresses the spirit of surrender.
+MARGI | A member of Ananda Marga.
+MÁYÁ | Creative Principle, PRAKRTI in Her phase of creation. One aspect of Máyá is the power to cause the illusion that the finite created objects are the ultimate truth.
+MOKŚA | Spiritual emancipation, non-qualified liberation.
 MUKTI. Spiritual liberation.
 OṊM. The sound of the first vibration of creation; the biija mantra (acoustic root) of the expressed universe. Oṋḿkára literally means “the sound oṋm”.
 OTA YOGA. The association of PURUŚOTTAMA with each unit creation individually in PRATISAIṊCARA.

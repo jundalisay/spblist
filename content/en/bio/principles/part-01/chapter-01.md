@@ -12,33 +12,57 @@ icon: /icons/spmed.png
 ---
 
 
-> Note: This topic is quite huge and we do not want to disrespect Indian or Chinese or native tradition by getting facts wrong. However, we also want to clear up some misconceptions. So it will take time for us to complete this part.
+{{< n n="This topic is quite huge and we do not want to disrespect Indian or Chinese or native tradition by getting facts wrong. However, we also want to clear up some misconceptions. So it will take time for us to complete this part." >}}
 
 
-## The Two Paths of Life
+## The Two Domains and Paths of Life
 
 Superphysics allows 2 Domains in Reality: Physical and Metaphysical
 
-This is applied in Bio Superphysics which divides the path of life into two: The Physical and the Metaphysical Tracks. 
+This is applied in Bio Superphysics which divides the path of life into two: The Physical and the Metaphysical Tracks.
+- The Physical Track is for the Physical Body. This runs through the 5 Layers.
+- The Metaphysical Track is for the Metaphysical or mental Body. This runs through the 5 Strata.
+  - This can only be detected by minds and not by instruments
 
-{{< img src="/graphics/bio/elemental.jpg" alt="Elemental Tracks" cap="The Circle of Life begins with the Idea of the Supreme. It then gets crudified as matter in stars which are 'deployed' throughout the universe via supernovae. It then evolves through the Layers or Elements until it becomes aethereal and returns to the Supreme">}}
+Physical Layers | Examples 
+--- | ---
+Aether | Mind
+Spatial | Spacetime
+Radiant | Light
+Convertible | Neutrons 
+Material | Protons
+
+Metaphysical Strata | Examples 
+--- | ---
+Aether | Identity, Self or Ego, Mind
+Spatial | Chi, Chakras
+Radiant | Elementals
+Convertible | Feelings
+Material | Thoughts 
+
+{{< img src="/graphics/bio/tracks.jpg" alt="Elemental Tracks" cap="The Circle of Life begins with the Idea of the Supreme. It then gets crudified as matter through physical energy. Physical life begins when organic matter meets with living energy or prana in a biologically-sustainable environment (composed of the 5 Layers). Elemental life takes a shortcut and is created where light or the aether meets living energy. Our system interprets organic matter as physically-crudified elementals. These are ready to express life upon encounter with living energy">}}
+
+ <!-- in stars which are 'deployed' throughout the universe via supernovae. It then evolves through the Layers or Elements until it becomes aethereal and returns to the Supreme -->
+
 
 The Physical Track is made up of physical life that we all know of. This is divided into kingdoms and species such as those of bacteria, plants, animals, and humans.  
 
-The Metaphysical Track is made up of metaphysical life that we commonly call as spirits, deities, or elementals. Like physical life, this has many divisions which we organize according to the 5 Layers or Elements (This is why they are called Elementals in the first place). 
+The Metaphysical Track is made up of a range of metaphysical life-forms that we commonly call as spirits, deities, or elementals. Like physical life, this has many divisions which we organize according to the 5 Strata. 
 
-We only discuss the Elementals that have physical effects and not for any impractical speculation. We then use these effects to solve problems in the Physical Domain. 
+We only discuss the Elementals that have **physical effects** and not for any impractical speculation. We then use these effects to solve problems in the Physical Domain. 
 
 
-## What are Elementals and What are They Used for?
+## What are Elementals and what are they used for?
 
 [Paracelsus](/research/paracelsus/nymphys/tractatus-1) calls Elementals as spirit-beings that have human-like properties. 
 
-{{< img src="/photos/medieval/angkor.jpg" alt="Angkor statue" cap="Hinduism and Buddhism have A LOT of Elementals" >}}
+{{< img src="/photos/medieval/angkor.jpg" alt="Angkor statue" cap="Hinduism, Buddhism, and Taoism have A LOT of Elementals" >}}
 
-We think that such properties arise from them having chakras, similar to how humans and animals have chakras.  
+We think that such properties arise from them having chakras, similar to how humans and animals have chakras. These are vortices that channel the ideas of the Supreme onto either physical or metaphysical reality. 
 
-We define Elementals as metaphysical beings that can cross over to physical reality as to produce physical effects. This makes them different from pure metaphysical beings that cannot create such effects, usually because they are so subtle and so far away from physicality. Such entities, we call as spirits. 
+**We define Elementals as metaphysical beings that can cross over to physical reality as to produce physical effects**. 
+
+This makes them different from pure metaphysical beings that cannot create such effects, usually because they are so subtle and so far away from physicality. Such entities, we call as spirits. 
 
 <!-- An example of a common spirit is the Holy Spirit in Christianity which serve merely to inspire and  -->
 
@@ -48,7 +72,10 @@ It is these Negative Elementals that implant evil desires and ideas into physica
 
 Therefore, the knowlege of Elementals is essential in creating a better world both ecologically and morally.  
 
-The science of Elementals falls under Bio Superphysics which focuses on life as an active expression of the ideas of the Supreme. 
+The science of Elementals falls under Bio Superphysics which focuses on life as an active expression of the ideas of the Supreme. This means we have to reclassify life as:
+- physical  
+- metaphysical 
+
 
 Generally, their study will add diversity to human life just as:
 - the study of art leads to artists and galleries
@@ -60,41 +87,6 @@ All of these contribute to human and economic activity. In fact, the practice of
 
 
 
-## The 5 Elements
-
-We go with Paracelsus and classify the Elementals according to the Elements which we call Layers in Superphysics. Like him, we are gutsy enough to analyze the Elemental realm in a systemic manner and compare it with the systems of other cultures. But unlike him, we use all 5 Elements instead of 4.
-
-
-<!-- Bio-Superphysics applies the 5 Elements to the metaphysical domain in order to classify the Elementals.  -->
-
-Aside from Paracelsus, our other references for this are PR Sarkar, Hindu, Buddhist, and Taoist tradition as these are very common in India. 
-
-Indians do not call them “fairies” or “nymphs”. They have their own ancient names for the many varieties of these spirits and/or elementals - Devas, Maruts, Adityas, Rudras, Vasus, Asuras, Daityas, Danavas, Kalakeyas, Nivatakavachas, Panis, Ganas, Abhasvaras, Pramathas, Raumyas, Nagas, Uragas, Pannagas, Mahoragas, Apsaras, Gandharvas, Kinnaras, Vidyadharas, Charanas, Sadhyas, Kindevas, Yakshas, Guhyakas, Gramanis, Dakinis, Dakas, Rakshasas, Brahmarakshasas, Krodhavasas, Nairratas, Suparnas, Bhutas, Pretas, Pishachas, Vetalas, Darbas, Yatudhanis, Makaras, etc.
-
-{{< img src="/photos/meta/fairy.jpg" alt="" cap="Faeries are 'devatas' in Hinduism." >}}
-
-
-We categorize the beings in our Elemental Zoo into Five just as the biological life is organized into kingdoms, genus, species, etc: 
-
-Layer | Indian Class Name | Paracelsus Name
---- | --- | ---
-Aethereal | Siddha, Vidyadhara, Videhaliina | ?
-Spatial | Ghandarva | Sylphs
-Radiant | Yaksa | Vulcani
-Convertible | Kinnara | Nymphs
-Material | Prakrtilina | Gnomes
-
-
-<!-- 1 prakrtiliina 
-2  Kinnara
-3 yaksa capitalist
-4 ghandharva
-5 videhaliina
-6 vidyádhara good qualities
-7 siddha -->
-
-
-Like anything above the Physical Radiant Layer, these can be triggered by sound of the Aethereal layer. 
 
 
 ## Ways to Detect the 5 Elementals

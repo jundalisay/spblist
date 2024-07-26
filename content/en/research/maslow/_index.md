@@ -1,23 +1,11 @@
 ---
-# heading: "Extremely Unenlightened"
+heading: "Unenlightened"
 title: "Maslow, Abraham"
 # linkTitle: "Marx"
 weight: 63
 # date: 2022-06-09
 author: Maslow
-# description: "The worst philosopher and writer of them all -- responsible for a materialist philosophy that led to so much death and suffering around the world"
+description: "Abraham Maslow was an academic who invented the hierarchy of human needs"
 image: "/covers/motivation.jpg"
 # date: 2020-10-31
 ---
-
-<!-- 
-+++
-title=  "Karl Marx*"
-description=  "" 
-# He took Hegel's corrupted dialectics (that had zero reference to a Supreme Entity) and ran away with it as dialectical materialism. This is why we had to rename our dialectics as 'Socratic' and our labor theory as the 'effort theory' just to totally separate it from Marx and the resulting mainstream definition. The fatal errors in the ideas of Marx, Hegel, Kant, Nietzsche, Hitler, and Einstein form a pattern that leads us to flag the ideas from German minds as potentially harmful to the true philosophy."
-image=  "/covers/marx.jpg"
-heading= "Extremely Unenlightened"
-# The worst philosopher and writer of them all
-date= 2022-06-08
-+++
- -->

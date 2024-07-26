@@ -1,6 +1,6 @@
 ---
 title: "A Short History of Ireland"
-weight: 6
+weight: 21
 image: "/covers/discourses.jpg"
 description: "The British Parliament – the Upper House or the House of Lords and the Lower House or the House of Commons – has its seat in London"
 icon: "/icons/sarkar.png"

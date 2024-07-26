@@ -80,7 +80,7 @@ The solid factor is:
 <!-- "Bala" is  -->
 
 
-## Energy is the External Pressure from Static Principle of Activity
+## Energy (Prana) is the External Pressure (Bala) from Static Principle of Activity
 
 The external pressure of static <!-- Prakrti --> Activity on those 5 layers manifests as "Energy" (práńa). This energy is made up of 2 opposing forces:
 
@@ -88,14 +88,14 @@ The external pressure of static <!-- Prakrti --> Activity on those 5 layers mani
 
 This tries to split up the object into thousands*
 
-> *Superphysics note: This leads to entropy in Physics. This manifests as a quasar
+{{< n n="*This leads to entropy in Physics. This manifests as a quasar in the physical domain" >}}
 
 
 2. A unifying force (centripetal)
 
 This is the centre-seeking or interial force that tries to maintain the object's structural solidarity*
 
-> *Superphysics note: This manifests as a galaxy
+{{< n n="*This manifests as a galaxy in the physical domain" >}}
 
 
 ```elixir
@@ -109,10 +109,21 @@ Every solid factor has energy which is the eternal game between the Cosmic cause
 
 <!-- In práńa there exists an internal clash in which  -->
 
-Either of the 2 active forces may win. 
+Either of the 2 active forces may win.*
 - if the <!-- interial --> unifying <!-- centripetal --> forces win, then a nucleus is formed within the solid factor. This leads to a solid structure. The maintenance of its physical solidarity then depends on the external pressure from static Activity<!-- bala or --> <!-- external-static-pressure -->.
 <!-- that is, if the resultant force created happens to be interial in character, -->
 - if the <!-- exterial --> divisive <!-- centrifugal --> forces win, no nucleus is formed
+
+
+{{< b >}}
+#### Superphysics Note:
+
+The Supreme Negativity crudifies the Absolute Entity into the Supreme Entity. In the process, this splits the Supreme Negativity into a:
+- Negative-negative: This divides
+- Positive-negative: This unifies  
+
+{{< /b >}}
+
 
 <!-- the resultant exterial cannot form any nucleus within that physical structure. The resultant interial force is, therefore, the only factor that can create a nucleus within a solid body and thereby maintain its structural solidarity.  -->
 
