@@ -24,6 +24,7 @@ The Soul or Mind is the Positive Force Surrounded by the Negative | If a percept
 The Soul is split into different Selves by the Spacetime Layer |  
 
 
+
 In Book 1 of *A Treatise of Human Nature*, David Hume laid out his principle of the self.
 
 According to him, 'identity' is a perception of something that is separate and different from another perception. 
@@ -185,8 +186,9 @@ But who would dare update the Ten Commandments or overhaul the Quran?
 In Hinduism, the jivatman is a tiny-soul that loses its identity when it is absorbed into the larger universal-soul, similar to a water in a glass losing its identity or self when it is poured into the sea. 
 
 Conversely, the water in the sea (paramatman) can be turned into billions of new entities or identities (jivas) by taking a billion cups and scooping the water into each, in order to create 1 billion seas-in-a-cup (jivatmans). 
-  
-![Cup of water](/photos/objects/water.jpg)
+
+
+{{< i s="/photos/objects/water.jpg" a="Cup of water" >}}
 
   
 Instead of water and seas, Hume gives the example of a citizens and republics, wherein each citizen is a 'drop' or member of the bigger sea of humans.:
@@ -196,11 +198,13 @@ Instead of water and seas, Hume gives the example of a citizens and republics, w
 I can only compare the soul to a republic with several members united by the reciprocal ties of government and subordination. This gives rise to other persons who propagate the same republic in the incessant changes of its parts. The same republic may change its members, laws, and constitutions.  
 {{< /q >}}
 
+
 In Bio Superphysics, Hume's idea of the self leads to complex personality types, as well as personality disorders, depending on how united or disunited the selves are.  
 
 In Social Superphysics, it naturally leads to the idea of the society-organism which has its own dynamics, just as water in a cup has different dynamics than water in the ocean. For example, water in a cup does not have waves nor any variation in saltiness or mineral content, whereas ocean-water has waves and a varying amount of minerals.
 
 This has the following implementations in the different sciences:
+
 
 Science | Effect
 --- | ---
@@ -212,9 +216,10 @@ Supereconomics | Sanctions on erring countries will also be different because th
 . | Laws should not guarantee the lifetime ownership of assets and property because the entity that deserved it in the beginning might not be deserving later on*. 
 
 
-> *Hume’s best friend Adam Smith writes about this in *The Wealth of Nations* and *Lectures in Jurisprudence* where he denounces the ban on the division and sale of lands and the laws that create monopoly too-big-to-fail corporations
+{{< n n="Hume’s best friend Adam Smith writes about this in *The Wealth of Nations* and *Lectures in Jurisprudence* where he denounces the ban on the division and sale of lands and the laws that create monopoly too-big-to-fail corporations" >}}
 
- <!-- We could view the Earth as a Multiverse with the following universes: the United Nations as Universe 1, G20 as Universe 2, League of Nations as Universe 3 -->
+
+<!-- We could view the Earth as a Multiverse with the following universes: the United Nations as Universe 1, G20 as Universe 2, League of Nations as Universe 3 -->
   <!-- - Comintern as Universe 4. Each country-republic (representing the 3 billion self-citizens) would then have a different representative in each assembly or Universe  -->
 
   
@@ -249,6 +254,10 @@ This is the idea behind [ISAIAH](https://pantrypoints.com/match) or the Impartia
 <!-- - It changes the direction of a spaceship traversing empty space  -->
 - ..and so on
 
-> *Update October 2022: This is part of our proposed Behavioral Prediction System (BPS) which will be one of the 'skills' of ISAIAH
+
+{{< b >}}
+Update October 2022: This is part of our proposed Behavioral Prediction System (BPS) which will be one of the 'skills' of ISAIAH
+{{< /b >}}
+
 
 This is also the principle behind our proposed [Constitutional Virtues](/social/supersociology/solutions/constitutional-virtues) and annual [Confirmation Elections](/social/supersociology/solutions/confirmation-elections)

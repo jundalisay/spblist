@@ -1,3 +1,6 @@
+{{ with .Params.date }}
+
+
 Superphysics: Science combined with Metaphysics. 
 
 Superphysics is a New Science Based on Waves and the Dialectics of Socrates for Solving Problems

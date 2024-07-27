@@ -11,15 +11,19 @@ writer:
 ---
 
 
-### 18. The sense of sight depends on two nerves composed of a vast number of extremely mobile capillaries
+#### 18. The sense of sight depends on two nerves composed of a vast number of extremely mobile capillaries
 
 <!-- remains to be explained a little more precisely, as it pertains more to my goal. 
 
 This sense also depends in this machine  -->
 
-These convey those various actions of the second Element to the brain, providing the soul, united to this machine, with the opportunity to conceive various ideas of colors and light, as mentioned above. 
+These convey those various actions of the air-aether to the brain. This provides the soul with the opportunity to conceive various ideas of colors and light. 
 
-However, since the structure of the eye is very useful and necessary for this matter, it should be briefly outlined, deliberately omitting those superfluous details observed by anatomical curiosity. A, B, C in Fig. XV is a membrane that is quite thick and hard, forming a kind of round vessel and constituting the receptacle of the other parts of the eye. 
+The structure of the eye is very useful and necessary for the air-aether.
+
+<!-- , it should be briefly outlined, deliberately omitting those superfluous details observed by anatomical curiosity.  -->
+
+`A, B, C` in Fig. XV is a membrane that is quite thick and hard, forming a kind of round vessel and constituting the receptacle of the other parts of the eye. 
 
 D, E, F is a thinner membrane spread within the former like the covering of a room. G, H, I is the nerve commonly called the optic nerve, whose capillaries H, I, HI spread throughout the entire space from A, B, H to I, covering the entire back of the eye. K, L, M are three very translucent fluids, stretching these tunics from all sides, in the shape depicted here. In the first membrane, the part BCB is translucent and more convex, and refraction of incident rays occurs towards the perpendicular. 
 

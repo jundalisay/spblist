@@ -40,6 +40,7 @@ When samána loses its vitality, all the 3 váyus – práńa, apána and s
 - The combined váyus pass out of the physical structure
 - They take with them <!-- , and with their passing away from the physical structure --> all the external váyus, except dhanaiṋjaya.
 
+
 External Vayu | Jurisdiction | Function 
 --- | --- | --- 
 Nága (serpent) | | allows jumping, extending the body, throwing an object
