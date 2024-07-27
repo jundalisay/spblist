@@ -23,7 +23,12 @@ When equals are taken from equals, the remainders are equal. This is common to a
 but philosophy does not inquire about particular subjects in so far as each of them has some attribute or other, but speculates about being, in so far as each particular thing is.
 
 Physics is in the same position as mathematics. 
-- Physics studies the attributes and the principles of the things that are, qua moving and not qua being (whereas the primary science, we have said, deals with these, only in so far as the underlying subjects are existent, and not in virtue of any other character); and so both physics and mathematics must be classed as parts of Wisdom.
+
+It studies the attributes and the principles of the things that are, qua moving and not qua being.
+
+Whereas the primary science deals with these, only in so far as the underlying subjects are existent, and not in virtue of any other character.
+
+So both physics and mathematics must be classed as parts of Wisdom.
 
 
 ## Part 5
@@ -31,7 +36,9 @@ Physics is in the same position as mathematics.
 
 There is a principle in things, about which we cannot be deceived, but must always, on the contrary recognize the truth,-viz. that the same thing cannot at one and the same time be and not be, or admit any other similar pair of opposites. 
 
-About such matters there is no proof in the full sense, though there is proof ad hominem. For it is not possible to infer this truth itself from a more certain principle, yet this is necessary if there is to be completed proof of it in the full sense. 
+About such matters there is no proof in the full sense, though there is proof ad hominem. 
+
+For it is not possible to infer this truth itself from a more certain principle, yet this is necessary if there is to be completed proof of it in the full sense. 
 
 But he who wants to prove to the asserter of opposites that he is wrong must get from him an admission which shall be identical with the principle that the same thing cannot be and not be at one and the same time, but shall not seem to be identical; for thus alone can his thesis be demonstrated to the man who asserts that opposite statements can be truly made about the same subject. 
 

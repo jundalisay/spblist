@@ -11,26 +11,33 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 94. How Spots Are Generated on the Surface of the Sun or Stars
+#### 94. How spots are generated on the surface of the sun or stars
 
-When this fire-aether reaches the body of the Sun or star, all its most agitated minute parts  being obstructed by no barriers of the second element's globules, strive to move similarly: 
+When this fire-aether reaches the body of the Sun or star, all its most agitated minute parts are not obstructed by the air-aether's globules. And so, they strive to move similarly: 
 
-Hence, the striated ones, as well as many others slightly smaller, which due to their too angular shapes or too great mass avoid such agitation. These are separated from the smallest ones. They easily stick together due to the inequality of their shapes, sometimes form very large masses.
+Hence, the striated ones, as well as many others slightly smaller, which due to their too angular shapes or too great mass avoid such agitation. 
 
-These masses are contiguous to the inner surface of the sky, adhere to the star from which they emerged. 
+These are separated from the smallest ones. 
 
-There, they resist the action or the force of light.
+They easily stick together due to the inequality of their shapes, sometimes form very large masses.
 
-They resemble those spots that are often seen on the surface of the Sun. 
+These masses are contiguous to the inner surface of the sky, adhere to the star from which they emerged.
 
-This is similar heated water and liquids emitting dense foam made of particles of a different nature and less suited for motion. These float on their surface with very irregular and changeable shapes. 
+There, they resist the force of light.
 
-Thus, the matter of the Sun boils from both poles toward the ecliptic. 
+They resemble those sun spots.
+
+ <!-- that are often seen on the surface of the Sun.  -->
+
+This is similar heated water and liquids emitting dense foam made of particles of a different nature and less suited for motion. These float on their surface with very irregular and changeable shapes.
+
+Thus, the matter of the Sun boils from both poles toward the equator.
+<!-- ecliptic.  -->
 
 These must expel its striated particles and all others that easily stick to each other and hardly obey its common motion, just like foam.
 
 
-### 95. Understanding the Principal Properties of These Spots
+### 95. Understanding the principal properties of these spots
 
 This is why Sunspots:
 - usually do not appear around its poles but rather in parts near the ecliptic
@@ -40,11 +47,17 @@ This is why Sunspots:
 
 ### 96. How These Spots Dissolve and New Ones Are Generated
 
-However, just as most liquids reabsorb and consume the same foam they initially emit while boiling longer, so it must be thought that with the same ease with which the matter of spots emerges from the body of the Sun and accumulates on its surface, it is also somewhat diminished later, partly reintegrated into its substance, and partly dispersed through the nearby sky. 
+Most liquids reabsorb the same foam which they initially emit while boiling longer.
 
-For these spots are not formed from the whole body of the Sun, but only from the matter recently entered into it.
+<!-- Similarly, with the same ease with which the matter of  -->
 
-The rest of the matter, which has remained in it longer and is, so to speak, cooked and refined, always rotating with the greatest force, partly scrapes off those already formed while new ones are generated in other parts from new matter entering the Sun: 
+Similarly, sunspots emerge easily from the sun's body and accumulate on its surface. Then they are just as easily diminished later:
+- partly reintegrated into its substance
+- partly dispersed through the nearby sky. 
+
+This is because these spots are not formed from the whole body of the Sun, but only from the matter recently entered into it.
+
+The rest of the matter, which has remained in it longer and is, cooked and refined, always rotates with the greatest force. It partly scrapes off those already formed while new ones are generated in other parts from new matter entering the Sun.
 
 Hence, they do not all appear in the same places. And indeed, the entire surface of the Sun, except for the circumpolar regions, is usually covered with the matter from which they are composed; But the spots are said to exist only where that matter is so dense and compact that it notably weakens the light coming from the Sun.
 

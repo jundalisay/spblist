@@ -8,12 +8,12 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-07
+# aliases:
+#   /research/descartes/philosophy/part-4/section-07
 ---
 
 
-### 155. Why do the parts of the segments of the magnet, which were united before the section, also repel each other?
+#### 155. Why do the segments of the magnet, which were united before the section, also repel each other?
 
 A magnet will spontaneously turn and assume the position opposite to that which it had before if:
 - it is cut in a plane parallel to a line drawn through its poles, and
@@ -33,32 +33,49 @@ But after the division:
 - those that exited through `N` must enter through `S`. -->
 
 
-### 166. Why are 2 points, which were formerly contiguous in one magnet, in its fragments poles of different virtues?
+#### 156. Why are 2 points, which were formerly contiguous in one magnet, in its fragments poles of different virtues?
+
+
+{{< img src="/graphics/physics/fig_81.jpg" alt="Magnet Cut in 2" >}}
 
 If a magnet is divided by a plane, by cutting a line drawn through the poles at right angles, the poles of the segments, which before the section touched each other, as `b` and `a`, are of opposite virtue; they must enter through another.
 
 
 
-### 157. Why is it the same in some parts of a magnet as in the whole?
+#### 157. Why is it the same in some parts of a magnet as in the whole?
+
+{{< img src="/graphics/physics/fig_82-4.jpg" alt="Magnet Cut in 2" >}}
 
 <!-- It is no less evident that  -->
 
-The current is the same in any part of the magnet as in the whole: for this current is not different in the poles than in the other parts, but is only seen to be greater, because through them come out the striped particles which have passed through the longest paths of the magnet, and which are intermediate between all coming from the same side: at least in a spherical magnet, to the example of which in the rest the poles are considered to be there, where the greatest force appears. 
+The current is the same in any part of the magnet as in the whole.
+
+This current is not different in the poles than in the other parts, but is only seen to be greater.
+
+This is because through them come out the striated particles which have passed through the longest paths of the magnet, and which are intermediate between all coming from the same side: at least in a spherical magnet, to the example of which in the rest the poles are considered to be there, where the greatest force appears.
 
 Nor is this force different in one pole than in another, except in so far as the striped particles, having entered through one, exit through another: and there is no so small a part of a magnet in which, if they have an entrance, they do not also have an exit.
 
 
-### 158. Why does he share his magnetism with the iron that is attached to him?
+#### 158. Why does the magnet share its magnetism with the iron that is attached to it?
 
 Iron, when moved by a magnet, acquires magnetic properties from it. 
 
-This is because iron already has passages suitable for receiving the striped particles. However, it is not initially magnetic because some of its small branches protrude from one side to the other.
+This is because iron already has channels suitable for receiving the striated particles.
 
- <!-- , and it lacks nothing to acquire this fruit, except that the ends of some small branches, of which its ramifications are composed,  in these passages;  -->
+However, it is not initially magnetic because some of its small branches protrude from one side to the other.
 
-All of these branches must be bent towards one and the same direction, in those passages through which the striped particles coming from the South can pass, and in the opposite direction in others. 
+<!-- , and it lacks nothing to acquire this fruit, except that the ends of some small branches, of which its ramifications are composed,  in these passages;  -->
 
-When the magnet is moved, the striped particles, rush like a torrent in great force and volume into the iron channels. These bend these ends of the twigs in this way. And so they themselves give all that is needed for the iron to become magnetic.
+All of these branches must be bent towards one and the same direction:
+- one channel will allow the striated particles coming from the South to pass
+- another will allow those from the North in the opposite direction. 
+
+When the magnet is moved, the striated particles rush like a torrent in great force and volume into the iron channels.
+
+These bend these ends of the twigs in this way. 
+
+**And so they themselves give all that is needed for the iron to become magnetic.**
 
 
 ### 159. Why is iron attracted to a magnet? Why does it acquire magnetic power from the magnet?
@@ -98,7 +115,7 @@ And so, the iron becomes magnetic. It gains the power to attract other iron part
 <!-- , and it is able to perform all the things that are required of it." -->
 
 
-### 160. Why does not an oblong iron receive it, except according to its own length?
+#### 160. Why does not an oblong iron receive it, except according to its own length?
 
 Why do these striped particles, entering part `S` from the pole `A` of the iron magnet, not go straight towards `E`. Instead, they are reflected from here towards `R` and `T`.
 
@@ -114,7 +131,7 @@ It is also an easy answer, if it is asked why a magnet loses nothing of its ui w
 For no change takes place in the magnet, because the striped particles, coming out of it, enter the iron rather than any other body: except perhaps that, passing more freely through the iron than through other bodies, they also come out more abundantly from the magnet when the iron is attached to it; by which he is absent so much that his power is diminished, rather than increased. -->
 
 
-### 162.  Wherefore these things should be dealt with very quickly with iron, but be strengthened in it by the long course of time.
+#### 162. Wherefore these things should be dealt with very quickly with iron, but be strengthened in it by the long course of time.
 
 In a very short time this water approaches the iron, because the striped particles flow very rapidly through it. 
 

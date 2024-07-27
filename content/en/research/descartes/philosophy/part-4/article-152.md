@@ -1,6 +1,6 @@
 ---
 title: "Why do 2 Magnets Attract Each Other?"
-heading: Articles 152
+heading: Articles 152-
 weight: 44
 description: "Enumeration of properties of magnetic properties"
 writer:
@@ -27,7 +27,7 @@ And so, as far as the magnetic force is concerned, everything must be thought of
 
 
 
-### 152. When the iron particles are moved through the same channels as the magnet, they flow in the same way as the earth. Why?
+#### 152. When the iron particles are moved through the same channels as the magnet, they flow in the same way as the earth. Why?
 
 <!-- Why does one magnet convert and incline another, just as it does with the earth?  -->
 
@@ -45,7 +45,7 @@ The power of magnetism is the same in all things, whether in a magnet or in the 
 
 
 
-### 153. Why do two magnets attract each other? What is the nature of their interaction?
+#### 153. Why do two magnets attract each other? What is the nature of their interaction?
 
 It is not true that two magnets simply turn towards each other until the northern pole of one magnet faces the southern pole of the other, and vice versa. 
 
@@ -134,7 +134,7 @@ It becomes easier for the striped particles traveling straight from `1` to `2` a
 This is achieved by exerting force on that air-aether from `S` to `n` and from `V` to `X`, which are the 2 shorter paths when these 2 magnets approach each other. -->
 
 
-### 154. Why do magnets sometimes repel each other when they are brought close together?
+#### 154. Why do magnets sometimes repel each other when they are brought close together?
 
 <!-- However, the poles of the two magnets do not approach each other in that way; rather, if they are brought too close, they actually repel each other.  -->
 

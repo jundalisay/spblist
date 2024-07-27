@@ -1,12 +1,12 @@
 ---
 heading: Chapter 2
-title: "What is Life?"
-linkTitle: "Life"
+title: "Living Energy and Organic Matter"
+linkTitle: "Living Energy"
 description: "Life is the Shiva part of the 2 Forces"
 # date: "2020-10-15"
 date: 2020-01-25
-weight: 4
-image: "/graphics/meta/mind.png"
+weight: 6
+image: "/photos/med/cancer.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,79 +14,50 @@ icon: "/icons/spmed.png"
 ---
 
 
-In Superphysics, Consciousness is merely the other half of Existence. If a thing exists, then there is a consciousness to perceive it. If there is no existence, then it means there is no consciousness. 
+Physical energy is essential to the creation of the physical universe just as living energy is essential for the living universe. 
 
-The Universe exists. Therefore, the Universe has consciousness. 
+In Superphysics, existence begins when the Negative Force crudifies and splits up the Absolute Entity into the Supreme Entity.
 
+This Supreme Entity then gets a hierarchy and Layers within Itself, as a higher part and a lower part.
 
-## Life = More Expressiveness
+The higher part becomes metaphysical reality coming from idea, while the lower part becomes physical reality coming from thought. 
 
-In Material Superphysics, this consciousness of the universe manifests itself through the reaction of objects. For example, rocks expand when heated, water flows down, light travels from a source to a target, etc. 
+The latter starts as aether which successively crudifies into matter as rocks, water, soil, etc.
 
-Such actions are the effects of objects being conscious of their surroundings, as to react to them. A non-conscious object would be something that does not react at all.
-- It would not be seen since it does not react to light.
-- It would not be felt since it would not react to touch. 
+But where does life come from? 
 
-In other words, a truly non-conscious thing would not exist at all. Rather, its existence could never be verified. 
-
-**The actions of objects are therefore their ways of expression.** 
-- Rocks expand as their expression to heat
-- Water flows as its expression of gravity 
-- Light travels from A to B as its expression of space
-
-The expression of such non-living things is very much limited compared to that of living things. 
-
-Since the expression of consciousness comes from the Positive Force, then it follows that **the limitation of this expression comes from the Negative**.  
-
-<!-- Each consciousness has its way to 
-
-everything in the universe has mind and consciousness from the Positive Force. However, their expression is limited by the Negative Force which makes them appear as lifeless. We call this a non-living thing.    -->
-
-{{< img src="/graphics/meta/mind.png" cap="" >}}
-
-A non-living thing therefore is non-living because the Negative Force constricts its mind to limited modes of expression such as expansion and simple movement.
-
-A living thing, on the other hand, has a mind that can accept external feelings and ideas and likewise **independently** express them because the constriction by the Negative Force is weaker. 
-
-This independence manifests as willpower. 
+In Taoist and Tantric philosophy, life comes from Yang or Shiva, which we equate to the Positive Force in Superphysics. 
 
 
-<!-- A non-living thing cannot, due to the confinement by the Negative Force. -->
-
-‘Life’ therefore is an expressive mind that inhabits a less-expressive physical body.
-
-<!-- A ‘virus’ is in-between a non-living idea and a living or expressive mind, that manifests as DNA or RNA. It has to use living things to spread itself as its means of expression or action.
-
-From the viewpoint of the Creator:
-
-the DNA of viruses and bacteria are simple ideas
-the souls of humans and cats are complex ideas.
-But from the viewpoint of viruses and bacteria, they themselves are minds, just as cats and dogs are see themselves as minds (cause) and not as ideas (effect).
-
-Likewise, we see ourselves as the cause of our own actions instead of being the effect of the Creator (working through us). -->
+{{< img src="/graphics/bio/tracks.jpg" alt="Elemental Tracks" cap="Creation begins with the dominance of the crude and blind Negative, followed by the emergence of the intelligent and compassionate Positive">}}
 
 
-## How is Life Created?
+
+Living Energy dominates in the metaphysical domain where the Positive is at home, just as physical energy dominates in the physical where the Negative prefers to reside. 
+
+This is why life is relatively rare in our solar system and throughout the physical universe.
+
+The prerequisites for life in the physical domain are:
+
+1. Dominance of the Positive Force
+2. Presence of organic matter
+3. Presence of the 5 Layers in suitable ratios
+
+Requirement 1 from our perspective is the will or desire to live. Even among humans today, this desire is weak in some, but strong in others. 
+
+Requirement 2 is also not a problem because carbon is quite common in the universe. 
+
+Requirement 3 is the main limiting factor. Life requires a specific range of the 5 Layers. In our solar system, this naturally is somewhat available within the habitable or Goldilocks zone.
+
+For example, there are microorganisms in Mars and possibly in Venus. However, intelligent life is very rare. 
 
 
-The Principles of Superphysics explained that the Two Forces act together to create both physical and metaphysical existence. 
+Material Superphysics explains the nature of Requirement 3 as the 5 Layers.
+- This includes how to fight pollution and combat climate change.
 
-The Negative or Repressing Force crudifies the Positive or Inciting Force starting from the aethereal layer until it condenses into matter as a star. 
+Superphysics explains the nature of the Positive Force. 
+- This includes the basis for our hierarchy of needs. 
 
-Further oppression from the Negative Force leads to the explosion of the stellar matter as a supernova. This spreads both material particles and aetherael life throughout the solar system.
+It is the task of Bio Superphysics to explain how matter becomes organic and how to combine all 3 requirements to create a happy life. 
 
-{{< youtube gVUppOKY2W8 >}}
-
-
-Life therefore comes from stars just as matter does. 
-
-Under this paradigm, there should be an abundance of life just as there is an abundance of matter in the universe. The main difference is that the manifestation of aethereal life in the physical domain requires cooperation of the rest of the 4 layers: 
-
-4. Spatial
-3. Radiant
-2. Convertible
-1. Material
-
-Without these, aethereal life cannot take a physical material form. The rarity of physical life in the universe is therefore from the difficulty of getting all 5 layers aligned to support life. 
-
-
+Organic matter will be explained in the Chapter on Elementals. 

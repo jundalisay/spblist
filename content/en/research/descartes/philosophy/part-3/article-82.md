@@ -82,3 +82,17 @@ Even if we suppose that these particles were made as accurately equal as possibl
 We do not compare this space to the size of the entire vortex AYBM except as a very small part; so too must the size of the Sun be understood as very small compared to it; although this proportion could not be shown in the figure here because it would have to be too vast.
 
 There are various other inequalities in the motions of parts of the sky, especially those between `S` and `H` or `Q`.
+
+
+
+#### 86. The Various Motions of the Air-Aether Particles Make Them Perfectly Spherical
+
+The fire-aether coming from vortices like `KL` and similar ones is primarily carried towards the Sun. 
+
+But many parts of it are also dispersed throughout the entire vortex `AYBM`. From there it transitions to other vortices like CO and similar ones. 
+
+By flowing around the particles of the air-aether, it causes them to move not only around their own centers but also possibly in other ways. 
+
+These particles are thus agitated in many different ways simultaneously. Whatever their shape was initially, they must now be perfectly spherical, not like a cylinder or any spheroid that is round in only one part.
+
+

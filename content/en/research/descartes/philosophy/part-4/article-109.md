@@ -1,6 +1,6 @@
 ---
 title: "Gunpowder made of sulfur, saltpeter, and charcoal"
-heading: Articles 109-
+heading: Articles 109-119
 weight: 30
 description: "Sulfur is as flammable as possible because it consists of particles of sharp juices so thinly and densely wrapped in the twigs of oily material"
 writer:
@@ -8,8 +8,8 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-04
+# aliases:
+#   /research/descartes/philosophy/part-4/section-04
 ---
 
 

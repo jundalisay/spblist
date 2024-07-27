@@ -1,15 +1,15 @@
 ---
 title: "Burning, tasteless, and acidic waters"
-heading: Article 120
+heading: Article 120-123
 weight: 32
-description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
+description: "The particles that are evaporated are distinguished into various types."
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-04b
+# aliases:
+#   /research/descartes/philosophy/part-4/section-04b
 ---
 
 
@@ -60,5 +60,3 @@ The manner of applying fire also affects its result. Some bodies, if heated all 
 All hard bodies that are reduced to the finest powder solely by the action of fire, namely by the breaking or expulsion of some of their finer particles that previously joined the rest, are commonly said by chemists to be converted into lime. 
 
 There is no other difference between ashes and lime than that ashes are the remnants of those bodies, a considerable part of which has been consumed by fire, whereas lime consists of those bodies that almost entirely remain after complete combustion.
-
-

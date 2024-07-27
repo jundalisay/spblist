@@ -1,6 +1,6 @@
 ---
 title: "The Nature of Fire"
-heading: Article 80
+heading: Article 80-86
 weight: 24
 description: "How can flame be ignited in these cavities? What is the nature of fire?"
 writer:
@@ -8,13 +8,12 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-03
+# aliases:
+#   /research/descartes/philosophy/part-4/section-03
 ---
 
 
-> Superphysics Note: Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance. 
-
+{{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance." >}}
 
 
 ### 80. The Nature of Fire and its Distinction from Air
@@ -96,7 +95,7 @@ Its channels have become narrower, leaving only the matter of the first element.
 `C` shows the same flint already struck, with some particles separated and having only the matter of the first element around them, resulting in sparks of fire.
 
 
-### 85. How is Fire Produced from Dry Woods?
+#### 85. How is Fire Produced from Dry Woods?
 
 Wood will not emit sparks if struck because it is less hard.
 
@@ -109,7 +108,7 @@ Thus, **the air-aether globules do not leave their intervals simultaneously**.
 However, if the wood is rubbed vigorously for a long time, the friction causes unequal agitation and vibration of its particles. This can shake loose the air-aether globules, separating them from each other. This action then transforms them into fire.
 
 
-### 86. How is Fire Produced from the Collection of Sunbeams?
+#### 86. How is Fire Produced from the Collection of Sunbeams?
 
 Fire can also be ignited by directing many sunbeams through a concave mirror or convex glass onto a particular spot.
 

@@ -1,6 +1,6 @@
 ---
 title: "The nature of the magnet"
-heading: Article 139
+heading: Article 139-144
 weight: 38
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
 writer:
@@ -8,49 +8,88 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-04d
+# aliases:
+#   /research/descartes/philosophy/part-4/section-04d
 ---
 
 
-### 139. The nature of the magnet
+#### 139. The nature of the magnet
 
-Those fragments that, by ascending in this way through the veins of the outer Earth, have been turned sometimes in one direction and sometimes in another, whether collected alone or impacted by the channels of other bodies, form a lump of iron.
+By ascending in this way through the veins of the outer Earth, the iron fragments turn sometimes in one direction and sometimes in another.
 
-However, those that have retained the same orientation or, at least, if they have been forced to change it several times to reach the mines, have remained immobile there, impacted by another stone or some other body for many years, constitute a magnet.
+These then form a lump of iron.
 
-Thus, hardly any lump of iron exists that does not in some way approach the nature of a magnet, and no magnet exists in which there is no iron at all, even though sometimes this iron may adhere so tightly to other substances that it is easier to be corroded by fire than to be extracted from them.
-
-
-
-### 140. How steel is made by melting any kind of iron
-
-When lumps of iron is melted into steel, its fragments are agitated by the force of heat and separated from heterogeneous substances. They twist themselves here and there until they align with each other according to the edges on which it was mentioned before that half-channels suitable for receiving the striped particles are engraved. 
-
-The halves of these channels match so well that they form complete channels. 
-
-When this happens, the striped particles, found not only in fire but also in other bodies, flowing more freely through these channels than through other areas, hinder the easy change of position of the surfaces from which they emerge, with the assistance of the small extremities between the spirals of the channels, mentioned earlier. 
-
-These extremities initially resist them. But after being repeatedly struck by them, they bend more and more over time or even break. 
-
-When these channels, with the position of the fragments in which they are embedded changed, turn their other openings towards the incoming striped particles, these extremities encounter them again and gradually bend them in the opposite direction. 
-
-The more frequently and longer this process is repeated, the easier it becomes for the extremities of these branches to undergo flexion in both directions.
+<!-- whether collected alone or impacted by the channels of other bodies,  -->
 
 
-### 141. Why is Steel very hard, rigid, and fragile?
+A magnet is formed when those that have retained the same orientation or have remained immobile there, impacted by another stone or some other body for many years, rise up to the mines. 
 
-In this way, the entire liquid, divided into drops or small lumps, if it cools rapidly, solidifies into very hard, rigid, and fragile steel, almost like glass.
+<!-- , at least, if they have been forced to change it several times to reach the mines,  -->
+
+This is why:
+- iron has the nature of a magnet
+- all magnets have iron
+
+<!-- , hardly any lump of iron exists that does not in some way approach 
+
+, and no magnet exists in which there is no iron at all, even though sometimes this iron may adhere so tightly to other substances that it is easier to be corroded by fire than to be extracted from them. -->
+
+
+
+#### 140. How steel is made by melting any kind of iron
+
+
+
+The surfaces of the iron are engraved with half-channels fit for receiving the striated particles.
+
+When lumps of iron are melted into steel, they are agitated by the force of heat and separated from heterogeneous substances. 
+
+They twist themselves here and there until they align with each other according to those half-channels. 
+
+This goes on until the halves of these channels match so well that they form complete channels. 
+
+When this happens, the striated particles found in fire and also in other bodies flow more freely through these channels.
+
+The striated particles hinder the small surfaces from changing their positions as easily as before.
+
+They are prevented from being easily disjoined by:
+- the contiguity of these surfaces
+- the force of gravity which presses down all the fragments
+
+<!-- They emerge from surfaces which become hardened.  -->
+<!-- , from the apt situation and conjunction of which they arise, from  -->
+
+Because of the heat, the fragments themselves continue to move.
+
+Many conspire together into the same motion.
+
+The whole liquor compounded of them is distinguished into various drops or clots.
+- All those fragments which move together make one drop.
+- Each drop immediately polishes and smoothes its surface by its motion.
+
+The encounter of other drops smoothens whatever is rough and angular to join them together as closely as possible.
+
+ <!-- in the fragments of which it is composed, is thrust from its surface to the interior parts, and thus all the parts of each little drop are  -->
+
+
+#### 141. Why is Steel very hard, rigid, and fragile?
+
+In this way, the entire liquid divided into drops or small lumps cools rapidly and  solidifies into very hard, rigid, and fragile steel, almost like glass.
 
 It is:
 - hard because its fragments closely connect to each other
-- rigid because it returns to its original shape when bent, as the small surfaces of its fragments do not separate during this flexion, but only the shapes of the channels change, as mentioned earlier about glass.
-- fragile because the drops or lumps making it up do not adhere to each other unless bound by the contact of their surfaces, and this contact can only occur in very few and very small places.
+- rigid because it returns to its original shape when bent. This is because:
+  - the small surfaces of its fragments do not separate during this flexion
+  - only the shapes of the channels change, as mentioned earlier about glass.
+- fragile because the drops or lumps making it up do not adhere to each other unless bound by the contact of their surfaces
+  - This contact can only occur in very few and very small places.
 
 
-### 142. The difference between steel and other iron.
+#### 142. The difference between steel and other iron.
 
-However, not all lumps are equally suitable for turning into steel. Even those from which the best and hardest steel is usually made may only give low-quality iron if melted with unsuitable fire.
+Not all lumps are equally suitable for turning into steel.
+
+Even the best and hardest steel is usually made may only give low-quality iron if melted with unsuitable fire.
 
 If the fragments of the lumps are so angular and brittle that they adhere to each other before their surfaces can be properly applied to each other and distinguished into drops, or if the fire is not strong enough to liquefy the liquid into drops and to contract the fragments that compose them simultaneously.
 
@@ -63,30 +102,48 @@ Steel, if heated again, does not easily melt because:
 - its lumps are too thick and solid to be moved intact by heat 
 - the fragments of each lump are too tightly packed to be easily extruded from their places. 
 
-However, it softens because all its particles are shaken by heat. Later, if it cools slowly, it does not regain its previous hardness, rigidity, or fragility but becomes flexible like softer iron. 
+However, it softens because all its particles are shaken by heat. 
+
+Later, if it cools slowly, it does not regain its previous hardness, rigidity, or fragility but becomes flexible like softer iron. 
 
 For, in cooling in this way, the angular and brittle fragments, which were pushed outwards from the surfaces of the lumps by the heat's force towards their inner parts, emerge and intertwine with each other like very small hooks, connecting one lump to another.
 
-This means that these fragments are not as tightly compacted in their lumps, and the lumps are not as closely adhered to each other through direct contact but rather tied together by small hooks or links. 
+This means that:
+- these fragments are not as tightly compacted in their lumps
+- the lumps are not as closely fused to each other through direct contact but rather tied together by small hooks or links.
 
-Therefore, steel turns out not to be very hard, rigid, or fragile, but rather soft and flexible. In this respect, it does not differ from common iron, except that when steel is heated again and then quickly cooled, its previous hardness and rigidity are restored, unlike iron, at least to that extent. 
+Therefore, steel turns out to be not very hard, rigid, or fragile, but rather soft and flexible. 
 
-The reason is that the fragments in steel are not far from the position most suitable for maximum hardness, and they can easily resume that position through the force of heat and retain it in the fastest cooling.
+It does not differ from common iron, except that when steel is heated again and then quickly cooled, its previous hardness and rigidity are restored, unlike iron, at least to that extent. 
 
-However, in iron, they have never had such a position and never regain it. Indeed, to rapidly cool hot steel, it is usually immersed in water or other cold liquids, while it is slowly cooled in oil or other greases. 
+This is because the fragments in steel are not far from the position most suitable for maximum hardness, and they can easily resume that position through the force of heat and retain it in the fastest cooling.
 
-Because, the harder and more rigid, the more fragile it becomes. For example, swords, saws, files, or other tools made from it should not always be quenched in the coldest liquids, but in temperate ones, depending on each of these tools, whether fragility is to be avoided more or less than hardness is desired. Therefore, when it is immersed in certain liquids, it is rightly said to be tempered.
+However, in iron, they have never had such a position and never regain it. 
+
+To rapidly cool hot steel, it is usually immersed in water or other cold liquids, while it is slowly cooled in oil or other greases. 
+
+In this way, the harder and more rigid, the more fragile it becomes. 
+
+For example, swords, saws, files, or other tools made from it should not always be quenched in the coldest liquids, but in temperate ones, depending on each of these tools, whether fragility is to be avoided more or less than hardness is desired. 
+
+Therefore, when it is immersed in certain liquids, it is rightly said to be tempered.
 
 
 ### 144. The difference between the channels of a magnet, steel, and iron.
 
-As for the channels suitable for receiving striped particles, it is clear from what has been said that there should be many in both steel and iron. 
+There are many channels in both steel and iron suitable for receiving striated particles. 
 
-Also, the channels in steel should be more intact and perfect, with the extremities of the branches protruding in their spirals when once bent in one direction, not as easily bending in the opposite direction as they do in a magnet.
+The channels in steel are more intact and perfect.
+- The extremities of the branches protruding in their spirals when once bent in one direction are not as easily bending in the opposite direction as they do in a magnet.
 
-Furthermore, all these channels, not in steel or other iron as in a magnet, should be turned towards the South and the North, making their openings suitable for receiving striped particles from the South in one direction and suitable for receiving others from the North in the opposite direction. 
+All these channels, not in steel or other iron as in a magnet, should be turned towards the South and the North. This makes their openings suitable for receiving striated particles from the South in one direction and suitable for receiving others from the North in the opposite direction.
 
-However, the arrangement of these channels should be variable and uncertain because it is disturbed by the agitation of fire. And in the very short interval during which this agitation is stopped by cold, only as many of these channels can be turned towards the South and the North as the striped particles coming from the Earth's poles are seeking a path through them at that time.
+However, the arrangement of these channels should be variable and uncertain because it is disturbed by the agitation of fire. 
 
-Because these striped particles do not correspond in number to all the channels in iron, all iron does receive some magnetic force from the position it had with respect to the Earth's parts when it last cooled, or even from where it remained immobile for a long time, if it has remained immobile for a long time in the same position. However, due to the number of channels it contains, it can still have more.
+In the very short interval during which this agitation is stopped by cold, only as many of these channels can be turned towards the South and the North as the striped particles coming from the Earth's poles are seeking a path through them at that time.
 
+These striated particles do not correspond in number to all the channels in iron. 
+
+Therefore, all iron does receive some magnetic force from the position it had with respect to the Earth's parts when it last cooled, or even from where it remained immobile for a long time, if it has remained immobile for a long time in the same position. 
+
+However, due to the number of channels it contains, it can still have more.

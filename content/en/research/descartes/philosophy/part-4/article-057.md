@@ -1,8 +1,8 @@
 ---
 title: "The nature of the Earth's interior"
-heading: Section 2d
+heading: Articles 57-63
 weight: 18
-description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
+description: "The Earth's interior is so dense that the air-aether globules do not carry them away but make them heavy by pressing downward"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -13,7 +13,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 57. The nature of the Earth's interior
+#### 57. The nature of the Earth's interior
 
 The interior of the `Earth C` consists of particles of any shape. 
 
@@ -32,7 +32,7 @@ These parts sustained and broke the impact of the air-aether globules flowing th
 Nonetheless, many relatively wide intervals exist. This allows particles of fresh water, salt, and other angular or branched particles from body E to pass through them.
 
 
-### 58. The nature of quicksilver
+#### 58. The nature of quicksilver
 
 Beneath this surface, the parts of `body C` adhere less tightly to each other, and perhaps at a certain distance from it.
 
@@ -43,7 +43,7 @@ This agitation is caused both by the finer globules among them, finding some spa
 Consequently, they form a very dense and least transparent liquid, such as quicksilver.
 
 
-### 59. The inequality of the heat permeating the Earth's interior
+#### 59. The inequality of the heat permeating the Earth's interior
 
 We see the spots generated daily around the Sun having very irregular and diverse shapes.
 
@@ -62,7 +62,7 @@ Also, the height of mountains causes some parts of the Earth, facing the Sun, to
 They also heat differently toward the Equator and the poles, and this heat varies periodically due to the alternation of day and night and especially summer and winter.
 
 
-### 60. The action of this heat
+#### 60. The action of this heat
 
 As a result, all the particles of this Earth's interior `C` always move somewhat.
 <!-- , either more or less.  -->
@@ -80,7 +80,7 @@ Instead, they are shaken somewhat, opening the channels left around them more or
 Instead, they are shaken somewhat and open the channels around them more or less. Since some particles are harder than others, having fallen from the upper bodies D and E into these channels, they easily crush and break them with their motion. Consequently, they reduce them to two kinds of figures that need to be considered here.
 
 
-### 61. Sharp and acidic juices, from which ink, vitriol, alum, etc., are made.
+#### 61. Sharp and acidic juices, from which ink, vitriol, alum, etc., are made.
 
 Particles with a slightly more solid material, such as salt, intercepted and crushed in these channels, become flat, rigid, and flexible from round and rigid shapes. 
 
@@ -91,7 +91,7 @@ Meanwhile, these particles, driven by the force of heat, crawl through these cha
 When these juices later solidify with metallic matter, it becomes ink; with stone, it becomes vitriol; and so on for many other substances.
 
 
-### 62. On the oily matter of bitumen, sulfur, etc.
+#### 62. On the oily matter of bitumen, sulfur, etc.
 
 However, softer particles, such as many that have fallen from the external earth E, as well as those of fresh water thoroughly filtered there, become so thin that they are torn apart by the motion of the fire-aether. 
 
@@ -100,7 +100,7 @@ They are divided into numerous extremely fine and flexible branches.
 These branches, adhering to other terrestrial particles, compose sulfur, bitumen, and all other fatty or oily substances found in mines.
 
 
-### 63. The principles of alchemists and how metals ascend into mines
+#### 63. The principles of alchemists and how metals ascend into mines
 
 These 3 are the commonly accepted principles of alchemists: 
 

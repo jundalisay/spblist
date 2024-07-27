@@ -8,13 +8,13 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-08
+# aliases:
+#   /research/descartes/philosophy/part-4/section-08
 ---
 
 
 
-### 170. Why can the declination be smaller in a magnet standing above one of its poles than when its poles are equally distant from the Earth?
+#### 170. Why can the declination be smaller in a magnet standing above one of its poles than when its poles are equally distant from the Earth?
 
 Some say that:
 - this declination does not exist in a spherical magnet above its South pole in these Northern regions, or above its North pole in the Southern regions, when it is standing perpendicularly

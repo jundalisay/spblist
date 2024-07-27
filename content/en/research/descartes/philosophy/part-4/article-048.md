@@ -1,6 +1,6 @@
 ---
 title: "The Nature of Water"
-heading: Section 2c
+heading: Articles 48-
 weight: 16
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
 writer:
@@ -13,7 +13,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 48. The nature of water: and why it easily turns into air or ice.
+#### 48. The nature of water: and why it easily turns into air or ice.
 
 Only 2 kinds of particles are found in water:
 
@@ -31,7 +31,9 @@ How, from such a generation, the proportion between the thickness of its particl
 
 When these globules act a little less than usual, they turn water into ice and air into water; but when they act a little more strongly, they turn the thinner water particles, namely those that are flexible, into air.
 
-### 49. The ebb and flow of the sea
+
+
+#### 49. The ebb and flow of the sea
 
 I have also explained in the Meteorology the causes of winds, by which the sea is agitated in various irregular ways.
 
@@ -75,7 +77,7 @@ Air and water are fluid bodies that easily yield to pressure. This is why the su
 Conversely, it should be higher towards `G` and `E`, so that the water surface `1`, `3`, and the air `5`, `7` protrude there.
 
 
-### 50. Why Does Water Rise at the 6 1/5 hour and Descend at the 6 1/5 hour?
+#### 50. Why Does Water Rise at the 6 1/5 hour and Descend at the 6 1/5 hour?
 
 The part of the Earth that is now in `F`, opposite point `B` where the sea is least high, will be in `G`, opposite point `C` where it is highest, after six hours, and after six more hours, it will be in `H`, opposite point `D`. 
 
@@ -86,7 +88,7 @@ After six more hours with 12 minutes, it will be beyond point `H`, where the wat
 This is why the sea water should ebb and flow every 12 hours and 2 minutes in the same location.
 
 
-### 51. Why tides are greater when the Moon is full or new.
+#### 51. Why tides are greater when the Moon is full or new.
 
 This vortex `ABCD` is not precisely circular. 
 
@@ -96,28 +98,28 @@ Consequently, the tides should be greater when the Moon is new or full than in t
 
 
 
-### 52. Why are the Tides Greatest at the Equinoxes?
+#### 52. Why are the Tides Greatest at the Equinoxes?
 
 The Moon is always near the plane of the Ecliptic, while the Earth, with its diurnal motion, rotates in the plane of the equator. 
 
 These 2 planes intersect at the equinoxes but deviate significantly from each other at the solstices. Consequently, the greatest tides should occur around the beginning of spring and autumn.
 
 
-### 53. Why air and water always flow from East to West.
+#### 53. Why air and water always flow from East to West.
 
 As the Earth moves from E through F towards G, or from the west to the east, the bulge of water 4 1 2 and the bulge of air 8 5 6, which now press on the Earth's part E, gradually migrate to other, more westerly parts of it. Thus, after six hours, they press on the Earth's part H, and after twelve hours, on the Earth's part G.
 
 The same applies to the bulges of water and air 2 3 4 and 6 7 8. Therefore, water and air continuously flow from the eastern parts of the Earth to its western parts.
 
 
-### 54. Why, at the same latitude, regions with a sea to the east are milder than others.
+#### 54. Why, at the same latitude, regions with a sea to the east are milder than others.
 
 Although this flow, though not very swift, is clearly detected from the fact that long voyages are much slower and more difficult towards the east than towards the west. 
 
 Also, in certain narrow seas, water always flows westward. Moreover, in regions with a sea to the east, such as Brazil, they do not feel as much heat from the Sun as those with long land stretches to the east and a sea to the west, such as Guinea, because the air coming from the sea is cooler than that from the land.
 
 
-### 55. Why there is no ebb or flow in lakes and ponds: or why it occurs at various times on various shores.
+#### 55. Why there is no ebb or flow in lakes and ponds: or why it occurs at various times on various shores.
 
 In reality, the entire Earth is not covered by the sea. 
 
@@ -128,7 +130,7 @@ Lakes and ponds have waters separated from the ocean. They do not experience suc
 Due to the inequality of the sinuosities and windings that surround the ocean, its water increments and decrements reach different shores at different times. Hence, numerous variations arise from them.
 
 
-### 56. How the specific causes of these variations should be investigated on individual shores.
+#### 56. How the specific causes of these variations should be investigated on individual shores.
 
 The particular causes of all these variations can be deduced from the foregoing if we consider that the waters of the ocean, when the Moon is new or full, are highest in places far from the shores towards the Ecliptic and the Equator at both the sixth morning and evening hours. 
 

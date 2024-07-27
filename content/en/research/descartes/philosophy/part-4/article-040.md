@@ -1,7 +1,7 @@
 ---
 title: The Mountains, Seas, and the Air
 # title: "How were these bodies on Earth generated?"
-heading: Section 2b
+heading: Articles 40-
 weight: 14
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
 writer:
@@ -14,7 +14,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 40. How this third body was reduced in size, and left some space between itself and the fourth
+#### 40. How this third body was reduced in size, and left some space between itself and the fourth
 
 During the daytime and summer, the Sun rarefies half of `Body D` with its light and heat. 
 
@@ -39,7 +39,7 @@ Body E became dense and thick because almost all the particles that left D eithe
 Finally, a considerable space F was left between D and E, which could only be filled by the material from which body B was formed. The extremely fine particles of body B easily passed through the passages of body E, left vacant by others a little denser coming out of D.
 
 
-### 41. How many cracks were formed in the fourth body.
+#### 41. How many cracks were formed in the fourth body.
 
 Body `E` is heavier and denser than `F` and possibly even `D`. But it remained suspended over `D` and `F` for a while due to its hardness.
 
@@ -59,7 +59,7 @@ Consequently, with some parts of body E separated from each other, cracks formed
 By the same reasoning, as we see cracks opening in the earth during the summer when it dries in the Sun and yawns wider the longer the dryness persists.
 
 
-### 42. How it is broken into various parts.
+#### 42. How it is broken into various parts.
 
 With many such cracks in body `E`, continuously expanding, its parts eventually adhered so little to each other that it could no longer be sustained in the arch-like form between `F` and `B`.
 
@@ -74,13 +74,15 @@ The ends of the other four fragments, `2, 3, 5`, and `6`, before the opposite `1
 Likewise, the end 5 of fragment 4 5 fell somewhat earlier than the end u of fragment u: it is certain that they must already be arranged in this way above the surface of body C, just as depicted here. In other words, fragments 2 3 and 6 7 are closely connected to body C, while the other four are reclined to the side, leaning on each other, and so on.
 
 
-### 43. How the third body partly ascended above the fourth and partly remained below.
+#### 43. How the third body partly ascended above the fourth and partly remained below.
 
 `Body D` is fluid and less dense than the fragments of `Body E`. And so it occupies all the lower cavities left by these fragments and their cracks and passages, and also rises above them as much as it can.
 
 {{< img src="/graphics/physics/inner.jpg" alt="Crust" >}}
 
-### 44. The origin of mountains, plains, seas, etc., on the Earth's surface.
+
+
+#### 44. The origin of mountains, plains, seas, etc., on the Earth's surface.
 
 - Body `B` and `F` are air.
 - Body `C` is the very thick inner crust of the Earth from which metals originate
@@ -102,7 +104,7 @@ These fragments formed:
 - sea cliffs, such as `3` and `6`
 
 
-### 45. The nature of the air can be derived from all this.
+#### 45. The nature of the air can be derived from all this.
 
 It means that physical air is just a collection of earth-aether particles. 
 
@@ -111,7 +113,7 @@ They are so fine and separated from each other that they comply with any motion 
 Therefore, it is a very rare, fluid, and transparent substance that can be composed of the minutiae of any shape.
 
 
-### 46. Why Does Physical Air Easily Rarefy and Densify?
+#### 46. Why Does Physical Air Easily Rarefy and Densify?
 
 Air easily densifies with cold and rarefies with heat.
 
@@ -126,7 +128,7 @@ In this context:
 - cold is its decrease.
 
 
-### 47. The violent compression of air in certain machines.
+#### 47. The violent compression of air in certain machines.
 
 Air, violently compressed in a vessel, possesses the force to rebound and immediately extend itself over a larger space. 
 

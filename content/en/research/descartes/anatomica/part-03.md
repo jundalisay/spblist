@@ -215,13 +215,6 @@ pedum & volis manuum, dum egrediantur morselli,18 contineantur tandiu in aqua ca
 
 
 
-
-
-
-
-
-
-
 Convulsio fit, cum intra nervos flatus continetur, [604] non vero purus spiritus
 animalis. Ibi vero flatus generatur, vel si pungatur nervus, vel si forte eo penetret lentus
 vapor. Convellit autem nervos ille flatus, quod
@@ -259,9 +252,4 @@ prætera illo in loco tenuior.
 Mucus defluens per nares & palatum in ipsis [606] generatur, non in cerebro: quippe
 quandiu materia ex qua gignitur est in cerebro, nihil aliud est quam spiritus, non mucus.
 Ut fuligo caminis adhærens, non est caligo, dum ex igne egreditur, sed fumus
-
-
-
-
-
  -->

@@ -15,12 +15,12 @@ writer:
 icon: "/icons/spmed.png"
 ---
 
-
+{{< b >}}
 Principles | Assertions
 --- | ---
 There are 2 Domains in Reality | This leads to a physical (material) body and a metaphysical (aethereal) body
 There are 5 Layers in Reality | In the physical body, the layers are called elements. In the metaphysical body, they are called strata. 
-
+{{< /b >}}
 
 
 
@@ -40,7 +40,8 @@ These 2 bodies have similarities and differences.
 
 Everything in the physical domain is made up of some or all of the 5 Layers. To differentiate it from non-living beings, we will call those layers as **elements**.* 
 
-> *If we had used elements for Material Superphysics, people might confuse them with the elements in the periodic table, which is a key concept in Chemistry. The use of elements in Biology, Botany, Zoology is less common that in Chemistry. Usually, the words 'chemicals' or 'minerals' are used instead of 'elements'. And so we chose to use traditional name of Elements here.
+{{< n n="If we had used elements for Material Superphysics, people might confuse them with the elements in the periodic table, which is a key concept in Chemistry. The use of elements in Biology, Botany, Zoology is less common that in Chemistry. Usually, the words 'chemicals' or 'minerals' are used instead of 'elements'. And so we chose to use traditional name of Elements here." >}}
+
 
 
 Living bodies are made up of 5 Elements just like everything else in the universe.
@@ -61,8 +62,8 @@ Here are a few examples of the manifestations in each Element:
 
 Superphysics | Manifestation
 --- | --- 
-Aethereal | Soul or Abstract Mind, Oversoul
-Spatial | Chi/Pranah/Animal Spirits, Chakras
+Aethereal | Ideas, Abstract Mind
+Spatial | Chi/Pranah/Animal Spirits
 Radiant | Heartbeat, Electrical impulses
 Convertible | Blood, Bodily Fluids
 Material | Cells
@@ -74,9 +75,21 @@ Material | Cells
 
 {{< youtube adPQAffGXG8 >}}
 
-Superphysics divides reality into the Physical and Metaphysical Domain. This is known to the West as Cartesian duality or mind-body.
+Superphysics divides reality into the Physical and Metaphysical Domain. This is known to the West as Cartesian duality or mind-body. From the perspective of the Supreme Entity, the Body of the Supreme is made up of physical layers, while His Mind is made up of metaphysical strata:
 
-We further subdivide the Metaphysical Domain into 5 Strata which is in line with the 5 Layers discussed in Material Superphysics
+Aspect | Example
+--- | ---
+Mind | Life and Living Energy
+Body | Matter and Non-living Energy
+
+In other words:
+- the physical universe is the collective body of the Supreme
+- the living minds in that universe is the collective mind of the Supreme 
+
+While Material Superphysics deals with matter and non-living energy, Bio Superphysics deals with life and living energy which we call chi, prana, or animal spirits. 
+
+
+We call the Supreme's Mind aspect as the Metaphysical Domain which we subdivide into 5 Strata which is in line with the 5 Layers discussed in Material Superphysics
 
 Strata | Manifestations
 --- | ---
@@ -85,6 +98,3 @@ Spatial | Chi/Prana/Animal Spirits, Chakras
 Radiant | Elementals
 Convertible | Feelings 
 Material | Thoughts
-
-
-
