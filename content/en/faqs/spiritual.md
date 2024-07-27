@@ -53,7 +53,7 @@ This concept is more in line with Physics than Religion. All you need is the abi
 - all the **realities and universes** in the multiverse
 - all the **possible** realities and universes. 
 
-Then you assign **a single consciousness to glue all of those together** to arrive at our concept of a Supreme Entitiy. The big problem is that Physics locks itself out of mental and metaphysical perceptions and so it forever cannot explain the cause and true nature of physical phenomena. This severely limits its problem-solving powers.      
+Then you assign **a single metaphysical consciousness to glue all of those together** to arrive at our concept of a Supreme Entitiy. The big problem is that Physics locks itself out of mental and metaphysical perceptions and so it forever cannot explain the cause and true nature of physical phenomena. This severely limits its problem-solving powers.      
 {{< /l >}}
 
 
@@ -130,5 +130,3 @@ So all those yogas like hatha, ashtanga, kriya, kundalini, Iyengar, etc are spir
 Not all. But we promote yoga *asanas* in general, even from commercial yoga, just as science promotes healthy eating. 
 {{< /r >}}
 
-
-Planck length is the smallest unit of space in the physical domain and is represented by a quantum of spacetime or qost. 

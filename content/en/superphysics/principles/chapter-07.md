@@ -102,11 +102,14 @@ State 1: 17 | Action: 19
 
 We use State 1 as the focus and add the corresponding values in the `action`* to get State 2 as `323`**. 
 
-> *Action is a pseudo state of State 1 that allowed the change. Without that pseudo-state, then State 1 would stay close minded and not be open to change and therefore remain as State 1 instead of changing to State 2.  
 
+{{< b >}}
+*Action is a pseudo state of State 1 that allowed the change. Without that pseudo-state, then State 1 would stay close minded and not be open to change and therefore remain as State 1 instead of changing to State 2.  
 
-> *`323` = `304` [as 5th row of State 2 or `16`] + `19` [as 1st row of State 1 or `1` to get `17`]
+*`323` = `304` [as 5th row of State 2 or `16`] + `19` [as 1st row of State 1 or `1` to get `17`]
 <!-- We can add to this equation such as multiplying `323` by `2` to get `646`. -->
+{{< /b >}}
+
 
 Here, the smaller number is put before the larger. In case of multiple multipliers, the first 2 are combined then rearranged, then multiplied with the latter multipliers. 
 <!-- This smaller-to-higher arrangement is similar to  -->
@@ -155,7 +158,8 @@ The `+` and `=` represent the natural actions of the human mind. The minds of le
 
 Likewise, human minds seem to be limited to `=` and do not dwell so much on `:` which reqresents the hidden connection between things.*
 
-> *Bio Superphysics explains this to be caused by humans eating crude food such as meat which then crudifies the thinking process.
+{{< n n="*Bio Superphysics explains this to be caused by humans eating crude food such as meat which then crudifies the thinking process." >}}
+
 
 <!-- Since it deals with qualities instead of quantities, we can call it **Decon Notation** and its underlying system as **Quali-math**.  -->
 
@@ -187,8 +191,7 @@ kaakit-akit + kadiri = napaka-pangit
 dep + dep = rat dep
 ```
 
-
-> *This is important because Superphysics uses many non-English words like aether, monad, jiva, atman, bhuta, guna, chi, wu-xing, etc. In fact, we propose an overhaul of English, as Lish, to make it more intuitive. For example, add 's' to pluralize nouns so that oxs, datas, childs would be correct. But that is a totally different topic.
+{{< n n="*This is important because Superphysics uses many non-English words like aether, monad, jiva, atman, bhuta, guna, chi, wu-xing, etc. In fact, we propose an overhaul of English, as Lish, to make it more intuitive. For example, add 's' to pluralize nouns so that oxs, datas, childs would be correct. But that is a totally different topic.*This is important because Superphysics uses many non-English words like aether, monad, jiva, atman, bhuta, guna, chi, wu-xing, etc. In fact, we propose an overhaul of English, as Lish, to make it more intuitive. For example, add 's' to pluralize nouns so that oxs, datas, childs would be correct. But that is a totally different topic." >}}
 
 
 <!-- In a future post, we will expand this into chemical compounds computation, and in linear algebra to produce general qualitative outcomes instead of exact quantitative answers.  -->
@@ -210,7 +213,9 @@ To account for this mind-splitting behavior, <!--  make ratios and relationality
 - The double colon is like a rigid equals sign. This is a clearer mirror but still not a perfect reflection.
 - The triple colon is a strict equality that involves the kinds of data*. This is a perfect mirror. 
 
-> *In programming this is similar to =, ==, and ===
+
+{{< n n="*In programming this is similar to =, ==, and ===. Notice how we are coercing math to follow computer programming" >}}
+
 
 
 {{< box >}}
@@ -320,18 +325,19 @@ The practical purpose leads to algorithms, the invention of which has likewise b
 
 {{< img cap="Automated Natural Intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}
 
-> *The original purpose of Algebra (Al-Jebra or 'the repair or healing') was to divide an estate and compute the inheritance due to each heir. <!-- The Europeans seemed to have used it for warmaking --> This matches the problem-solving nature of Superphysics. This is opposite of Einstein's math as sophistical tensors coming from his wild imagination which creates more problems. It is also different from Newton's Calculus which originated from plotting curvilinear motion. Superphysics allows teleportation which totally negates curvilinear motion.   
 
-
+{{< n n="*The original purpose of Algebra (Al-Jebra or 'the repair or healing') was to divide an estate and compute the inheritance due to each heir. <!-- The Europeans seemed to have used it for warmaking --> This matches the problem-solving nature of Superphysics. This is opposite of Einstein's math as sophistical tensors coming from his wild imagination which creates more problems. It is also different from Newton's Calculus which originated from plotting curvilinear motion. Superphysics allows teleportation which totally negates curvilinear motion." >}}
+   
 
 An algorithm is an implementation or processing of a model. This processing is automated by computers as machine learning, which is the automation of natural intelligence, which is wrongly called artificial intelligence. We call it properly as [Automated Natural Intelligence](/superphysics/solutions/isaiah) (ANI) and is one of the goals of Superphysics.
 
 
 Qualimath will allow an AI-driven* ship that teleports into another universe, which has different physics, to transpose its logic and definitions more easily to match that universe. This is because it uses quality instead of quantity.
 
-> *The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores (Update 2024: This is now done by GPUs which have multiple cores). In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics.  
+{{< n n="*The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores (Update 2024: This is now done by GPUs which have multiple cores). In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics." >}}
 
-> 
+  
+ 
 
 A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that defintion is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
 
@@ -357,5 +363,7 @@ Qualimath also bridges modern math, which 'prefers' single integers or the small
 - Hindu (Vedic) math grouping and scaling identities via zero 
  -->
 
- > *We extend the Cartesian plane into two: [a physical one and a metaphysical one](/material/solutions/cartesian-view)
+ {{< n n="*We extend the Cartesian plane into two: [a physical one and a metaphysical one](/material/solutions/cartesian-view)" >}}
+
+
 

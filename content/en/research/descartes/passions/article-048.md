@@ -12,7 +12,7 @@ icon: /icons/descartes.png
 
 
 
-### 48. Knowing the Strength or Weakness of Souls and the Ill of the Weakest
+#### 48. Knowing the Strength or Weakness of Souls and the Ill of the Weakest
 
 It is through the success of these conflicts that each person can know the strength or weakness of their soul. 
 
@@ -36,7 +36,7 @@ These 2 passions agitate the will differently. He obeys one now, and then later 
 
 
 
-### 49: The Strength of the Soul Is Not Enough without the Knowledge of Truth
+#### 49. The Strength of the Soul Is Not Enough without the Knowledge of Truth
 
 There are very few men who are so weak and irresolute that they only want what their present passion dictates. 
 

@@ -30,9 +30,9 @@ More living things exist in HE than can be built in finite time with finite reso
 
 To tame this explosive growth in Assembly Theory (AT), historical contingency is intrinsic with the space built compositionally. It means that items are combined recursively*. This accounts for hierarchical modularity. This substantially constrains the number of possible living things. 
 
-> *Superhysics Note: This recursion is possible because of memory. This memory is possible because of desire or consciousness to evolve into a certain way. Assembly Theory is therefore a philosophical theory that does not address why living things desire to evolve into a what they are. It merely says that a living thing evolves into what it is because it has a high desire to do so . This desire the authors quantify and jargonify as an 'Assembly Index'. Jargon-ization is something done by academics who have nothng better to do. 
 
-
+{{< n n="This recursion is possible because of memory. This memory is possible because of desire or consciousness to evolve into a certain way. Assembly Theory is therefore a philosophical theory that does not address why living things desire to evolve into a what they are. It merely says that a living thing evolves into what it is because it has a high desire to do so . This desire the authors quantify and jargonify as an 'Assembly Index'. Jargon-ization is something done by academics who have nothng better to do." >}}
+ 
 
 It is the combination of this compositionality with combinatorics that allows us to describe selection.
 
@@ -59,7 +59,8 @@ To see how, we first build an HE from the same building blocks in OE, which incl
 The constructed history is the evolutionary universe (EU)*.
  <!-- assembly universe (AU). -->
 
-> *Superphysics Note: The authors have to create a fantasy universe that acts behind the real universe, just as Superphysics has the aethereal metaphysical universe behind our physical one. This is because metaphysics holds the probability layer. 
+{{< n n="The authors have to create a fantasy universe that acts behind the real universe, just as Superphysics has the aethereal metaphysical universe behind our physical one. This is because metaphysics holds the probability layer." >}}
+
 
 
 In the EU, all living things are possible with no rules. This yields a combinatorial explosion and with double exponential growth in the number of living things. This is characteristic of evolutionary big bangs. 
@@ -135,15 +136,14 @@ A signature of selection in HEs is a slower-than-exponential growth of the numbe
 
 To show this, we use a simple phenomenological model* of linear nonliving polymers to demonstrate how assembly differentiates cases when selection happens. 
 
-> *Superphysics Note: Here, the authors are talking about the evolution or change in non livng things. For this thought experiment, they use their own minds as the desire for evolution. 
+{{< n n="Here, the authors are talking about the evolution or change in non livng things. For this thought experiment, they use their own minds as the desire for evolution." >}}
 
 
 Starting with a single monomer in the assembly pool, the undirected exploration process combines 2 randomly selected polymers and adds them back to the evolutionary pool.
 
 In the case of directed exploration with selection, the polymer that has been created most recently is selected* to join a randomly selected polymer from the assembly pool. 
 
-> *Superphysics Note: 'Selection' here is the selection by the experimenter and is therefore artificial selection, not natural selection since the polymer has no free will choice. 
-
+{{< n n="'Selection' here is the selection by the experimenter and is therefore artificial selection, not natural selection since the polymer has no free will choice." >}}
 
 
 For both directed and undirected exploration, this process was iterated up to 104 steps and repeated 25 times. For each observed polymer in the evolutionary pool, the shortest pathway was generated. 
@@ -180,4 +180,3 @@ For example, proteins built both from `D` and `L` amino acids and their pathways
 This early symmetry breaking along historically contingent paths is a fundamental property of all evolutionary processes.
 
 It introduces an 'evolution time’ that ticks at each living thing being made. Evolution physics includes an explicit arrow of time intrinsic to the structure of living things.
-

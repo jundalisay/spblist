@@ -9,7 +9,7 @@ image: "/covers/assembly.png"
 
 
 {{< box >}}
-## Superphysics Note
+**Superphysics Note**
 
 We simplify the Assembly Theory by replacing its scientific-sounding jargon with plain English to expose that it is merely a philosophical Theory of Change.
 
@@ -56,7 +56,9 @@ AT:
 
 In AT, living things are not considered as point particles (as in most physics). Instead, they are histories of their own formation as an intrinsic property, mapped as an assembly space* [which we will rename as historical evolution or HE]. 
 
-> *Superphysics Note: In Superphysics, this is the oversoul made up of individual histories of souls, split by the time factor.  
+
+{{< n n="In Superphysics, this is the oversoul made up of individual histories of souls, split by the time factor." >}}
+  
 
  <!-- assembly space (AS) -->
 The HE is the pathway that starts from elementary building blocks towards a living object, using only recursion. 
@@ -95,7 +97,7 @@ We believe that fundamental quantum particles are not fundamental because they a
 
 <!-- the smallest unit of matter is defined by the  and is not fundamental*.  -->
 
-> *Superphysics Note: Therefore, AT objects are arbitrary. This contradicts its definition that objects can be countable.
+{{< n n="Therefore, AT objects are arbitrary. This contradicts its definition that objects can be countable." >}}
 
 
 **Living things are anything that can be broken and built.** This lets us account for the emergent living things produced by natural selection. This is fundamental to the theory. 

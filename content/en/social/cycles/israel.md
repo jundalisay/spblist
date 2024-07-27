@@ -67,6 +67,11 @@ The Jews embraced this European system through finance and industry (machines) s
 
 Their power rose along with the rise of industry and finance.  Hitler then tried to isolate them to prevent their rise, eventually losing during World War II. 
 
+{{< q a="Hitler" c="Mein Kampf, The Problem Of The Trade Unions" >}}
+The Marxists created the economic weapon which the international Jew uses for the purpose of destroying the economic foundations of free and independent national States, for ruining their national industry and trade and thereby enslaving free nations to serve Jewish world-finance, which transcends all State boundaries.
+{{< /q >}}
+
+
 This allowed the Jewish power to grow again and set foot in Israel. 
 
 While the Jews focused on finance and industry, the Arabs focused on oil. The problem is that oil is a mere commodity and does not multiply labor nor productivity. It gives energy, but what good is that energy without machines?
@@ -80,7 +85,7 @@ The power of finance can be reduced by moneyless systems.
 
 ## The Solution: One State
 
-The productivity of the Isrealis allowed them to defeat the low-productivity Arabs and create the state of Israel, occupying the lands of the state of Palestine. 
+The productivity of the Israelis allowed them to defeat the low-productivity Arabs and create the state of Israel, occupying the lands of the state of Palestine. 
 
 The solution of the world was a shallow Two-State solution wherein Israel and Palestine would have their own territories, government, miltary, educational system, etc. 
 
@@ -123,9 +128,9 @@ These three see their own race or belief system as so superior to others, killin
 - Nazism killed many Jews during the Holocaust
 
 
-This superiority comes from a natural negative coping mechanism in a negative environment:
+This superiority comes from a natural **negative coping mechanism** in a **negative environment**:
 - The Jews were refugees and were later destroyed many times by other kingdoms
-- Islam had to fight tooth and nail during its conquest
+- Islam had to fight tooth and nail during its conquest, fighting giants as the Eastern Romans and the Persians
 - Nazism began from the German defeat in World War II
 
 

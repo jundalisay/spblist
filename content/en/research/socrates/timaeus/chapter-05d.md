@@ -30,27 +30,36 @@ The larger particles of moisture which surround the body, enter in and drive out
 
 This from being unequal and disturbed, is forced by them into a state of rest, which is due to equability and compression. 
 
-But things which are contracted contrary to nature are by nature at war, and force themselves apart. To this war and convulsion, we give the name of "shivering" and "trembling". The affection and the cause of the affection are both called "cold". 
+But things which are contracted contrary to nature are by nature at war, and force themselves apart. 
+- To this war and convulsion, we give the name of "shivering" and "trembling". 
+- The affection and the cause of the affection are both called "cold". 
 
 That is called hard to which our flesh yields, and soft which yields to our flesh; and things are also termed hard and soft relatively to one another. 
 
 That which yields has a small base; but that which rests on quadrangular bases is firmly posed and belongs to the class which offers the greatest resistance; so too does that which is the most compact and therefore most repellent. 
 
-The nature of the light and the heavy will be best understood when examined in connexion with our notions of above and below. It is wrong to suppose that the universe is parted into 2 regions, separate from and opposite to each other, the one a lower to which all things tend which have any bulk, and an upper to which things only ascend against their will. 
+The nature of the light and the heavy will be best understood when examined in connexion with our notions of above and below. 
 
-The universe has a sphere shape. All the extremities are equidistant from the centre, and are equally extremities. The centre, which is equidistant from them, is equally to be regarded as the opposite of them all.
+
+It is wrong to suppose that the universe is parted into 2 regions, separate from and opposite to each other, the one a lower to which all things tend which have any bulk, and an upper to which things only ascend against their will. 
+
+The universe has a sphere shape. All the extremities are equidistant from the centre, and are equally extremities. 
+
+The centre, which is equidistant from them, is equally to be regarded as the opposite of them all.
 
 <!-- Such being the nature of the world, when a person says that any of these points is above or below, may he not be justly charged with using an improper expression? --> 
 
-The centre of the universe is just the centre and nothing else. The circumference is not the centre, and has in no one part of itself a different relation to the centre from what it has in any of the opposite parts. 
+**The centre of the universe is just the centre and nothing else.** 
+
+The circumference is not the centre, and has in no one part of itself a different relation to the centre from what it has in any of the opposite parts.
 
 It is in every direction similar. How can one give to it names which imply opposition? 
 
 For if there were any solid body in equipoise at the centre of the universe, there would be nothing to draw it to this extreme rather than to that, for they are all perfectly similar. 
 
-If a person were to go round the world in a circle, he would often, when standing at the antipodes of his former position, speak of the same point as above and below; for, as I was saying just now, to speak of the whole which is in the form of a globe as having one part above and another below is not like a sensible man. 
+If a person were to go around the world in a circle, he would often, when standing at the antipodes of his former position, speak of the same point as above and below; for, as I was saying just now, to speak of the whole which is in the form of a globe as having one part above and another below is not like a sensible man. 
 
-The reason why these names are used, and the circumstances under which they are ordinarily applied by us to the division of the heavens, may be elucidated by the following supposition:—
+The reason why these names are used, and the circumstances under which they are ordinarily applied by us to the division of the heavens, may be elucidated by the following supposition:
 
 If a person stood where the fire of the universe gathered [star?] <!-- stand in that part of the universe which is the appointed place of fire, and where there is the great mass of fire to which fiery bodies gather—if he were to ascend thither, and, having the power to do this, were to --> and weighed the abstract particles of fire<!--  and put them in scales and weigh them, and then, --> by raising the balance and  drawing the fire by force towards the uncongenial element of the air, then he could compel the smaller mass more readily than the larger. <!-- ; for when two things are simultaneously raised by one and the same power, the smaller body must necessarily yield to the superior power with less reluctance than the larger;  -->
 

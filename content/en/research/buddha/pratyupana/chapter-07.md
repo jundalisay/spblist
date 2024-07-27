@@ -31,7 +31,11 @@ That Buddha knew his intention and pronounced this samādhi sūtra to him. Havin
 
 Resolved to seek the Buddha Way, together with 1,000 people, Brahmada became a śramaṇa under that bhikṣu. To hear this samādhi sūtra, he and the 1,000 people served their teacher tirelessly for 8,000 years. Because of hearing this samādhi sūtra, though only once, and thinking the four thoughts that kindled his sympathetic joy, he acquired excellent knowledge. For this reason, he subsequently saw 68,000 Buddhas. 
 
-From each of these Buddhas, he heard this samādhi sūtra again. Through self-realization, he has become a Buddha called Tilavida, the Samyak-Saṁbuddha, Unsurpassed One, Tamer of Men, Teacher to Gods and Humans, Buddha the World-Honored One. Those 1,000 bhikṣus have also attained samyak-saṁbodhi, and all of them are called Tilajuṣa. They have taught innumerable people to seek Buddha bodhi.”
+From each of these Buddhas, he heard this samādhi sūtra again. 
+
+Through self-realization, he has become a Buddha called Tilavida, the Samyak-Saṁbuddha, Unsurpassed One, Tamer of Men, Teacher to Gods and Humans, Buddha the World-Honored One. 
+
+Those 1,000 bhikṣus have also attained samyak-saṁbodhi, and all of them are called Tilajuṣa. They have taught innumerable people to seek Buddha bodhi.”
 
 The Buddha asked Bhadrapāla, “After hearing this samādhi sūtra, who would not have sympathetic joy? Who would rather not learn, uphold, and recite it, and explain it to others?”
 

@@ -81,7 +81,11 @@ The flame-like discharge visible is produced by the intense electrical oscillati
 
 By this means a strong affinity is created between the two normally indifferent constituents of the atmosphere, and they combine readily, even if no further provision is made for intensifying the chemical action of the discharge. 
 
-In the manufacture of nitrogen compounds by this method, of course, every possible means bearing upon the intensity of this action and the efficiency of the process will be taken advantage of, and, besides, special arrangements will be provided for the fixation of the compounds formed, as they are generally unstable, the nitrogen becoming again inert after a little lapse of time. Steam is a simple and effective means for fixing permanently the compounds.
+In the manufacture of nitrogen compounds by this method:
+- every possible means bearing on the intensity of this action and the efficiency of the process will be taken advantage of.
+- special arrangements will be provided for the fixation of the compounds formed, as they are generally unstable, the nitrogen becoming again inert after a little lapse of time. 
+
+Steam is a simple and effective means for fixing permanently the compounds.
 
 The result illustrated makes it practicable to oxidize the atmospheric nitrogen in unlimited quantities, merely by the use of cheap mechanical power and simple electrical apparatus. 
 

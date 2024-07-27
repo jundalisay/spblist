@@ -12,14 +12,14 @@ icon: /icons/descartes.png
 
 
 
-### 27. The Definition of the Passions of the Soul
+#### 27. The Definition of the Passions of the Soul
 
 <!-- After having thus considered how the passions of the soul differ from all its other thoughts, it seems to me that they can generally be defined as -->
 
 The Passions of the Soul are perceptions, feelings, or emotions of the soul that refer to the soul, and are caused, sustained, and fortified by some movement of the spirits.
 
 
-### 28. Explanation of the First Part of This Definition
+#### 28. Explanation of the First Part of This Definition
 
 They can be called perceptions when one uses this word generally to signify all thoughts that are not actions of the soul or wills; but not when one uses it only to signify evident knowledge. 
 
@@ -30,14 +30,14 @@ They can also be called feelings because they are received in the soul in the sa
 But they can be even better called emotions of the soul, not only because this name can be attributed to all the changes that happen in it, that is, to all the various thoughts that come to it, but particularly because of all the kinds of thoughts it can have, there are none others that agitate and shake it as strongly as these passions.
 
 
-### 29. Explanation of the Other Part of the Definition
+#### 29. Explanation of the Other Part of the Definition
 
 I add that they particularly refer to the soul to distinguish them from other feelings that are referred to external objects, such as smells, sounds, colors; and others to our body, such as hunger, thirst, pain. 
 
 I also add that they are caused, sustained, and fortified by some movement of the spirits, to distinguish them from our wills, which can be called emotions of the soul that refer to it, but which are caused by the soul itself; and also to explain their latest and most proximate cause, which again distinguishes them from other feelings.
 
 
-### 30. The Soul is United to All Parts of the Body Conjointly.
+#### 30. The Soul is United to All Parts of the Body Conjointly.
 
 But to understand these things more perfectly, it is necessary to know that the soul is truly joined to the whole body and cannot be properly said to be in any one of its parts to the exclusion of the others. 
 
@@ -48,7 +48,7 @@ Additionally, the soul is of a nature that has no relation to extension, dimensi
 As it appears, one cannot conceive of half or a third of a soul, nor what extent it occupies; and the soul does not become smaller when some part of the body is removed, but separates entirely when the assemblage of its organs is dissolved.
 
 
-### 31. The Soul Exercises Its Functions in the Pineal Gland More Particularly than in Other Parts.
+#### 31. The Soul Exercises Its Functions in the Pineal Gland More Particularly than in Other Parts.
 
 <!-- Although the soul is joined to the whole body, there is one part in which it exercises its functions more particularly than in all the others.  -->
 
@@ -61,7 +61,7 @@ This gland, in the middle of the brain's substance, is suspended above the chann
 Conversely, the smallest changes in the course of the spirits can greatly change this gland's movements.
 
 
-### 32. How We Know that This Gland is the Principal Seat of the Soul
+#### 32. How We Know that This Gland is the Principal Seat of the Soul
 
 <!-- The reason that persuades me that the soul cannot have any other place in the whole body where it immediately exercises its functions than this gland is that I consider -->
 

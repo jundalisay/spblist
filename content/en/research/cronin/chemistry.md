@@ -73,7 +73,7 @@ However, it can be applied to polymers, cell morphology, graphs, images, compute
 The challenge in such cases will be to construct an HE that has a clear physical meaning in terms of what operations can be caused to occur to make the evolved non-living thing*.
 
 {{< box >}}
-## Superphysics Note
+**Superphysics Note**
 
 Here, the authors go bonkers and get over-ambitious. 
 
@@ -149,7 +149,7 @@ Once the pathway for a new living thing has been discovered, the production of a
 
 Thus, the hardest innovation is making a living thing for the first time. This is equivalent to its discovery*, followed by making the first copy [offspring] of that living thing.
 
-> *Superphysics Note: Duh. Thanks Captain Obvious. (Facepalm)
+{{< n n="Duh. Thanks Captain Obvious. (Facepalm)" >}}
 
 ![Duh](/photos/psych/fail.jpg)
 
@@ -171,8 +171,9 @@ If, instead, certain combinations are preferentially used, it means that a mecha
 - the specific evolutionary operations and
 - the specific target living things to be generated.
 
-> *Superphysics Note: This mechanism is either consciousness or desire, depending on viewpoint. Assembly Theory is a philosophical theory.   
 
+{{< n n="This mechanism is either consciousness or desire, depending on viewpoint. Assembly Theory is a philosophical theory." >}}
+   
 
 Growth dynamics allows parameterizing selection in an empirically observable way by parameterizing reuses of specific sets of operations.
 

@@ -139,9 +139,6 @@ fel & inde ad intestina fere omnes delabun-
 Translate to English: Septem sunt præcipua genera particularum, ex quibus corpus humanum conflatur: nempe sunt acres, amaræ, dulces, acidæ, salsæ, serosæ, aquæ4 & pingues. Inter acres numero spiritus omnes qui per insensilem transpirationem egrediuntur, humoresque illos subtiles ex quibus pustulæ & similia quæ ex flava bili oriri dicuntur. Amaræ autem ad fel & inde ad intestina fere omnes delabuntur. Dulces carnem componunt. Acidæ vehiculum sunt aliarum, itemque salsæ: hæ punctim, [599] illæ cæsim poros aperientes.
 Salsæ5 etiam acribus permixtæ, ut cera, exasperant. Serosæ, pinguibus accurate permistæ, humores6 frigidasque fluxiones & pituitam lentam componunt. Pingues autem, ab acribus compactæ, humorem melancholicum componunt; & serosas, illarum meatus pertranseuntes, in acidas mutant.
 
-
-
-
 mesmo tempo devem ser juntadas conve-
 nientemente, de toda a matéria que for mis-
 turada com estas, formar-se-ão novamente

@@ -16,8 +16,8 @@ This introduces a characteristic timescale [equation], defined as the discovery 
 
 In addition, once a pathway to build an living thing is discovered, the living thing can be reproduced if the mechanism* in its environment is selected to build it again.
 
-> *Superphysics Note: This mechanism is the metaphysical desire of the living thing. 
-
+{{< n n="This mechanism is the metaphysical desire of the living thing." >}}
+ 
 
 Thus, we have considered discovery dynamics within the historical evolution (HE) and did not account for the abundance or copy number of the observed living things when discovered.
 
@@ -79,7 +79,9 @@ We unify key features of life with physics nonliving things by showing:
 - how the generation of new things happen through natural selection through time.
 - how measuring change identifies how much selection occurred*
 
-> *Superphysics Note: Duh. Change is the natural effect of choice or selection. 
+
+{{< n n="Duh. Change is the natural effect of choice or selection." >}}
+ 
 
 
 We take phenomena and impose selection in our examples. This demonstrates the foundational principles of how change quantifies choice.
@@ -110,8 +112,9 @@ Considering molecules as living things and assuming that molecules observed usin
 
 We have introduced the foundations of AT and how it can be implemented to quantify the degree of natural selection found in an ensemble of evolved living things, agnostic to the detailed formation mechanisms* of the living things or knowing a priori which living things are products of units of selection. 
 
-> *Superhysics Note: A useful theory of evolution should explain those mechanisms. This does not. 
 
+{{< n n="A useful theory of evolution should explain those mechanisms. This does not." >}}
+ 
 
 To do so, we introduced a quantity, assembly, built from 2 quantities:
 

@@ -136,17 +136,14 @@ with absolutely equal rights and equal obligations corresponding thereto. And, s
 side with these, it recognizes subjects of the State who have no political rights
 whatsoever.
 
-According to the National Socialist concept, it is not the task of the trades union to band
-together certain men within the national community and thus gradually transform
-these men into a class, so as to use them in a conflict against other groups similarly
-organized within the national community. We certainly cannot assign this task to the
-trades union as such. This was the task assigned to it the moment it became a fighting
-weapon in the hands of the Marxists. The trades union is not naturally an instrument of
-class warfare; but the Marxists transformed it into an instrument for use in their own
-class struggle. They created the economic weapon which the international Jew uses for
-the purpose of destroying the economic foundations of free and independent national
-States, for ruining their national industry and trade and thereby enslaving free nations
-to serve Jewish world-finance, which transcends all State boundaries. 
+According to the National Socialist concept, it is not the task of the trades union to band together certain men within the national community and thus gradually transform these men into a class, so as to use them in a conflict against other groups similarly organized within the national community. 
+
+We certainly cannot assign this task to the trades union as such. This was the task assigned to it the moment it became a fighting weapon in the hands of the Marxists. 
+
+The trades union is not naturally an instrument of class warfare. 
+
+But the Marxists transformed it into an instrument for use in their own class struggle. They created the economic weapon which the international Jew uses for the purpose of destroying the economic foundations of free and independent national States, for ruining their national industry and trade and thereby enslaving free nations to serve Jewish world-finance, which transcends all State boundaries.
+ 
 In contradistinction to this, the National Socialist Trades Union must organize definite
 groups and those who participate in the economic life of the nation and thus enhance
 the security of the national economic system itself, reinforcing it by the elimination of

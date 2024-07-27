@@ -1,5 +1,7 @@
 {{ with .Params.date }}
 
+Planck length is the smallest unit of space in the physical domain and is represented by a quantum of spacetime or qost. 
+
 
 Superphysics: Science combined with Metaphysics. 
 

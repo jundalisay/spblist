@@ -1,0 +1,6 @@
+{{ $u := .Get "u" | default "" }}
+
+<div class="box bg-gray-100 dark:bg-gray-800 p-4 shadow border rounded-lg text-sm">
+  <b><i>{{ i18n "updates" }}</i></b>
+  <p>{{ $u | markdownify }}</p>
+</div>

@@ -11,7 +11,7 @@ icon: /icons/descartes.png
 ---
 
 
-### 33. The Seat of Passions is Not in the Heart
+#### 33. The Seat of Passions is Not in the Heart
 
 People think that the soul receives its passions in the heart.
 
@@ -26,7 +26,7 @@ This is similar to how:
 Therefore, it is no more necessary for our soul to exercise its functions immediately in the heart to feel its passions than it is for it to be in the sky to see the stars.
 
 
-### 34. How the Soul and the Body Act on Each Other
+#### 34. How the Soul and the Body Act on Each Other
 
 The soul has its principal seat in the pineal gland from where it radiates to the rest of the body through the mediation of the spirits, nerves, and even the blood, which, participating in the impressions of the spirits, can carry them through the arteries to all the members. 
 
@@ -45,7 +45,7 @@ But it can also be variously moved by the soul, which is of such a nature that i
 Similarly, reciprocally, the body’s machine is so composed that from the sole fact that this gland is variously moved by the soul, or by any other cause whatsoever, it pushes the spirits surrounding it toward the pores of the brain, which guide them through the nerves into the muscles, thereby making them move the limbs.
 
 
-### 35. Example of How the Impressions of Objects Unite in the Pineal Gland
+#### 35. Example of How the Impressions of Objects Unite in the Pineal Gland
 
 If we see an animal coming towards us, the light reflected from its body paints two images, one in each of our eyes.
 
@@ -56,7 +56,7 @@ From there, through the mediation of the spirits that fill these cavities, these
 Thus, the two images in the brain become one on the gland, which acts immediately on the soul to make it see the shape of the animal.
 
 
-### 36. Example of How Passions are Excited in the Soul
+#### 36. Example of How Passions are Excited in the Soul
 
 If this shape is very frightening and has a lot in common with things that have previously been harmful to the body, it excites fear in the soul. 
 

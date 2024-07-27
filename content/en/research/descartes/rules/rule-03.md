@@ -3,7 +3,7 @@ heading: Rule 3
 title: We should seek what we can clearly intuit or deduce with certainty
 weight: 8
 description: We should seek what we can clearly intuit or deduce with certainty
-image: "/covers/method.png"
+image: "/covers/rules.jpg"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -21,7 +21,9 @@ Knowledge is acquired in no other way. Ancient books must be read, for it is a g
 
 However, it is very dangerous in the meantime lest perhaps the stain of errors, contracted by their too attentive reading, adhere to us no matter how unwilling and careful we may be. 
 
-Authors are inclined to this kind of thing, that, whenever they have fallen into the danger of hasty belief regarding some disputed opinion, they always try to draw us back to the same place with the most subtle arguments; on the other hand, however, whenever they have discovered something certain and evident with success, they never present it except wrapped up in various circumlocutions, fearing indeed that the dignity of what was discovered by the simplicity of reason might be diminished, or because they envy us the clear truth.
+Authors are inclined to this kind of thing, that, whenever they have fallen into the danger of hasty belief regarding some disputed opinion, they always try to draw us back to the same place with the most subtle arguments.
+
+On the other hand, however, whenever they have discovered something certain and evident with success, they never present it except wrapped up in various circumlocutions, fearing indeed that the dignity of what was discovered by the simplicity of reason might be diminished, or because they envy us the clear truth.
 
 But now, however candid and open-minded all may be, and not one ever thrust any doubt on us as true, but exhibit all things in good faith, nevertheless, since hardly anything has ever been said by one on which the contrary has not been asserted by someone else, we would always be uncertain as to whom to believe. 
 

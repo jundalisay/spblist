@@ -11,7 +11,7 @@ icon: /icons/descartes.png
 ---
 
 
-### 45. The Power of the Soul over its Passions
+#### 45. The Power of the Soul over its Passions
 
 Our passions cannot be directly excited or removed by the action of our will. 
 
@@ -20,7 +20,7 @@ However, they can be influenced indirectly by representing things that are usual
 Therefore, to arouse courage in oneself and remove fear, it is not enough to merely will it; one must consider reasons, objects, or examples that persuade one that the danger is not great, that there is always more safety in defense than in flight, that one will gain glory and joy from victory, whereas only regret and shame will come from fleeing, and similar things.
 
 
-### 46. Why the Soul is Prevented from Fully Controlling its Passions
+#### 46. Why the Soul is Prevented from Fully Controlling its Passions
 
 The soul cannot quickly change or stop its passions. This is why I defined passions as being caused, maintained, and strengthened by certain movements of the spirits. 
 
@@ -43,7 +43,7 @@ For example:
 - if fear incites the legs to flee, the will can stop them
 
 
-### 47. The Conflicts between the Lower and Higher Parts of the Soul
+#### 47. The Conflicts between the Lower and Higher Parts of the Soul
 
 The lower part of the soul is of the natural appetites and is called sensitive. 
 

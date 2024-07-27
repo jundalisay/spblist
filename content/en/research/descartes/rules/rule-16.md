@@ -3,7 +3,7 @@ heading: Rule 16
 title: These things are better designated by very brief notes
 weight: 22
 description: These things are better designated by very brief notes than by complete figures
-image: "/covers/method.png"
+image: "/covers/rules.jpg"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

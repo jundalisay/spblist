@@ -12,13 +12,13 @@ writer:
 
 
 
-### 20. I do not individually explain what gives the soul the opportunity to conceive all the differences in color
+#### 20. I do not individually explain what gives the soul the opportunity to conceive all the differences in color
 
 <!-- , as I have already discussed them abundantly before.  -->
 
-I do not describe at length what objects pleasantly affect sight and what offend it. 
+<!-- I do not describe at length what objects pleasantly affect sight and what offend it. 
 
-For it is not difficult to perceive, from what is known about other senses, that 
+For it is not difficult to perceive, from what is known about other senses, that  -->
 
 We know that:
 - overly intense light can harm vision
