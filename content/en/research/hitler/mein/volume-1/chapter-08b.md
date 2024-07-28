@@ -1,6 +1,6 @@
 ---
-title: The Beginning Of My Political Activities
-heading: Chapter 8
+title: The Course of Lectures
+heading: Chapter 8b
 weight: 58
 description: "The work of politicians is without significance for the following generation"
 author: Adolf Hitler
@@ -12,16 +12,22 @@ The work of politicians is without significance for the following generation.
 
 This is because their temporary success was based on the expediency of avoiding all really great decisive problems and ideas which would be valid also for future generations. 
 
-To pursue ideals which will still be of value and significance for the future is generally not a very profitable undertaking and he who follows such a course is only very rarely understood by the mass of the people, who find beer and milk a more persuasive index of political values than far-sighted plans for the future, the realization of which can only
-take place later on and the advantages of which can be reaped only by posterity.
+To pursue ideals which will still be of value and significance for the future is generally not a very profitable undertaking.
 
-Because of a certain vanity, which is always one of the blood-relations of unintelligence, the general run of politicians will always eschew those schemes for the future which are really difficult to put into practice; and they will practise this avoidance so that they may not lose the immediate favour of the mob.
+He who follows such a course is only very rarely understood by the masses.
+
+<!--  people, who find beer and milk a more persuasive index of political values than far-sighted plans for the future, the realization of which can only
+take place later on and the advantages of which can be reaped only by posterity. -->
+
+Vanity is always one of the blood-relations of unintelligence. It makes the general run of politicians to always eschew those schemes for the future which are really difficult to put into practice.
+
+They will practise this avoidance so that they may not lose the immediate favour of the mob.
 
 The importance and the success of such politicians belong exclusively to the present and will be of no consequence for the future. But that does not worry small-minded people; they are quite content with momentary results.
 
-The position of the constructive political philosopher is quite different. The importance of his work must always be judged from the standpoint of the future; and he is frequently described by the word WELTFREMD, or dreamer. While the ability of the politician consists in mastering the art of the possible, the founder of a political system
-belongs to those who are said to please the gods only because they wish for and 
-demand the impossible. 
+The position of the constructive political philosopher is quite different. The importance of his work must always be judged from the standpoint of the future; and he is frequently described by the word WELTFREMD, or dreamer. 
+
+While the ability of the politician consists in mastering the art of the possible, the founder of a political system belongs to those who are said to please the gods only because they wish for and demand the impossible. 
 
 They will always have to renounce contemporary fame; but if their ideas be immortal, posterity will grant them its acknowledgment. 
 
@@ -29,7 +35,9 @@ Within long spans of human progress it may occasionally happen that the practica
 
 Such a man does not labour for the purpose of satisfying demands that are obvious to every philistine, but he reaches out towards ends which can be understood only by the few. His life is torn asunder by hatred and love. The protest of his contemporaries, who do not understand the man, is in conflict with the recognition of posterity, for whom he also works.
 
-For the greater the work which a man does for the future, the less will he be appreciated by his contemporaries. His struggle will accordingly be all the more severe, and his success all the rarer. When, in the course of centuries, such a man appears who is blessed with success then, towards the end of his days, he may have a faint prevision of his future fame. But such great men are only the Marathon runners of history. 
+For the greater the work which a man does for the future, the less will he be appreciated by his contemporaries. His struggle will accordingly be all the more severe, and his success all the rarer. 
+
+When, in the course of centuries, such a man appears who is blessed with success then, towards the end of his days, he may have a faint prevision of his future fame. But such great men are only the Marathon runners of history. 
 
 The laurels of contemporary fame are only for the brow of the dying hero.
 

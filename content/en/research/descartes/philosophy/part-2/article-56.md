@@ -6,13 +6,13 @@ description: "The use of these rules is difficult because each body is touched b
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
 
-### 56. The particles of fluids are moved with equal force towards all parts; And a hard body existing in a fluid, can be determined to move by the smallest force.
+#### 56. The particles of fluids are moved with equal force towards all parts; And a hard body existing in a fluid, can be determined to move by the smallest force.
 
 As for fluids, although we do not perceive their particles moving because they are too small, it is easily inferred from their effects, especially in air and water, due to the fact that many other bodies disturb them. For no bodily action, such as this corruption, can occur without local motion, and the causes of their motion will be discussed below. 
 
@@ -39,7 +39,7 @@ We must assume that B is surrounded on all sides by the fluid DF. And if perhaps
 So far, however, we have considered B as immobile; now if we assume that it is pushed towards C by some force coming from elsewhere, this force (however small) will suffice, not indeed to move it by itself, but to combine with the particles of the fluid DF, and to determine them to push towards C, and to communicate to it a part of their motion.
 
 
-### 57. Demonstration of the same thing.
+#### 57. Demonstration of the same thing.
 
 To make this clearer, let's first imagine that the hard body B is not yet in the fluid FD, but the particles of this fluid are arranged in a ring-like fashion, moving circularly according to the order of the noted AEIOU and likewise for OUY. 
 
@@ -55,7 +55,7 @@ And so, due to the encounter with body B, their motion will not be halted in any
 
 Finally, let some new force push B towards C; this force, however small, combined with that with which the fluid particles coming from I towards O also push it towards C, will overcome that with which those coming from Y towards A push it in the opposite direction. 
 
-Therefore, it will suffice to change their determination and make them move according to the order of AEIOUYA, as required to not hinder the motion of body B.
+Therefore, it will suffice to change their determination and make them move according to the order of `AEIOUYA`, as required to not hinder the motion of body B.
 
 
 Because when two bodies are determined to move towards completely opposite and mutually opposing parts, the one with greater force must change the determination of the other. 
@@ -63,6 +63,4 @@ Because when two bodies are determined to move towards completely opposite and m
 What I say here about the AEIOUY particles also applies to all the other particles of the fluid FD that collide with B: 
 
 Each of them, among those pushing it towards C, is opposed by an equal number of others pushing it in the opposite direction, and that the very small force added to them is sufficient to change their determination, and although they may not perhaps describe such circles as represented here by AEIO and OUY, undoubtedly they all move circularly and in some ways equivalent to this.
-
-
 

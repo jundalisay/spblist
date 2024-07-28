@@ -1,9 +1,10 @@
 ---
 heading: Part 1
-title: "Popol Vuh"
+title: "The Creation of the World"
 weight: 4
 # date: 2022-06-05
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+description: "This narrates the creation of the world by Tepeu, Gucumatz, the Forefathers"
 image: "/covers/popol.jpg"
 # date: 2020-10-31
 ---
+

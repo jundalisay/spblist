@@ -1,6 +1,6 @@
 ---
 heading: Chapter 4
-title: "The Tribes of Men"
+title: "Tohil, Avilix, and Hacavitz"
 weight: 9
 # date: 2024-05-12
 description: Our first mothers and fathers did not yet have wood nor stones to keep; but their hearts were tired of waiting for the sun.
@@ -9,29 +9,34 @@ image: "/covers/popol.jpg"
 
 
 
-Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam said, "Let us await the break of day." So said those great wise men, the enlightened men, the priests and sacrificers. This they said.
+Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam said, "Let us await the break of day." 
 
-Our first mothers and fathers did not yet have wood nor stones to keep; but their hearts were tired of waiting for the sun. Already all the tribes and the Yaqui people, the priests and sacrificers, were very many.
+<!-- So said those great wise men, the enlightened men, the priests and sacrificers. This they said. -->
 
-"Let us go, let us go to search and see if our [tribal] symbols are in safety; if we can find what we must burn before them. For being as we are, there is no one who watches for us," said Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam.
+Our first mothers and fathers did not yet have wood nor stones to keep. 
 
-And having heard of a city, they went there.
+But their hearts were tired of waiting for the sun. Already all the tribes and the Yaqui people, the priests and sacrificers, were very many.
+
+Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam said:
+
+"Let us go, let us go to search and see if our [tribal] symbols are in safety; if we can find what we must burn before them. For being as we are, there is no one who watches for us".
+
+Having heard of a city, they went there.
 
 The name of the place where Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam and those of Tamub and llocab went was Tulán-Zuiva, Vucub-Pec, Vucub-Ziván. 
 
 This was the name of the city where they went to receive their gods.
 
-All arrived at Tulán. It was impossible to count the men who arrived; there were very many and they walked in an orderly way.
+All arrived at Tulán. It was impossible to count the men who arrived. There were very many and they walked in an orderly way.
 
-Then was the appearance of their gods; first those of Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam, who were filled with joy: "At last we have found that for which we searched!" they said.
+Then was the appearance of their gods; first those of Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam, who were filled with joy: 
 
-And the first that appeared was Tohil, as this god was called, and Balam-Quitzé put him on his back, in his chest. 
+"At last we have found that for which we searched!"
 
-Instantly, the god called Avilix appeared, and Balam-Acab carried him. 
-
-The god called Hacavitz was carried by Mahucutah.
-
-Iqui-Balam carried the one called Nicahtacah.
+- The first that appeared was Tohil. Balam-Quitzé put him on his back, in his chest. 
+- Instantly, the god called Avilix appeared, and Balam-Acab carried him. 
+- The god called Hacavitz was carried by Mahucutah.
+- Iqui-Balam carried the one called Nicahtacah.
 
 Together with the people of the Quiché, they also received those of Tamub. 
 
@@ -49,14 +54,14 @@ Great was the virtue of Tohil, Avilix, and Hacavitz.
 
 Then all the people arrived, those from Rabinal, the Cakchiquel, those from Tziquinahá, and the people who now are called the Yaqui. 
 
-There it was that the speech of the tribes changed; their tongues became different. 
+There it was that the speech of the tribes changed. Their tongues became different. 
 
 They could no longer understand each other clearly after arriving at Tulán. 
 
 There also they separated, there were some who had to go to the East, but many came here.
 
-And their clothing was only the skins of animals; they had no good clothes to put on, the skins of animals were their only dress. They were poor, they possessed nothing, but they had the nature of extraordinary men.
+Their clothing was only the skins of animals. They had no good clothes to put on, the skins of animals were their only dress. 
+
+They were poor, they possessed nothing, but they had the nature of extraordinary men.
 
 When they arrived at Tulán-Zuiva, Vucub-Pec, Vucub-Ziván, the old traditions say that they had traveled far in order to arrive there.
-
-

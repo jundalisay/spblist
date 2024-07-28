@@ -6,12 +6,12 @@ description: "The Sun and the fixed stars shine with their own light"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
-### 9. The Sun and the fixed stars shine with their own light.
+#### 9. The Sun and the fixed stars shine with their own light.
 
 <!-- However, stars differ from each other not only in that some are larger than others but also in that 
 
@@ -27,7 +27,7 @@ If we were as close to any fixed star as we are to the Sun, it is credible that 
 
 
 
-### 10. The Moon and other planets borrow their light from the Sun.
+#### 10. The Moon and other planets borrow their light from the Sun.
 
 On the contrary, the Moon shines only on the part that faces the Sun. It means that it lacks its own light and only reflects towards our eyes the rays it receives from the Sun. 
 
@@ -38,7 +38,7 @@ Their light is duller or more subdued than that of the fixed stars.
 They are not so far from the Sun that they cannot be illuminated by it.
 
 
-### 11. The Earth does not differ from the planets in terms of light. 
+#### 11. The Earth does not differ from the planets in terms of light. 
 
 The Earth is the same as those planets. 
 
@@ -50,7 +50,7 @@ The Earth is the same as those planets.
 So in terms of light, the Earth does not differ from the Moon, Venus, Mercury, and the other planets.
 
 
-### 12. The New Moon is illuminated by the Earth
+#### 12. The New Moon is illuminated by the Earth
 
 When the Moon is between the Sun and the Earth, its face that is not illuminated by the Sun. 
 
@@ -59,14 +59,14 @@ It shows a certain faint light, which we can easily infer reaches it from the Ea
 It gradually diminishes as the part of the Earth illuminated by the Sun turns away from it.
 
 
-### 13. The Sun can be counted among the fixed stars and the Earth among the planets
+#### 13. The Sun can be counted among the fixed stars and the Earth among the planets
 
 If we were to look at the Earth from Jupiter, it would appear smaller but perhaps not less bright than Jupiter does from here; from the nearer planets, it would appear larger.
 
 But from the fixed stars, due to their excessive distance, it would escape all sight. From this, it follows that it can be counted among the planets, and the Sun among the fixed stars.
 
 
-### 14. The fixed stars always maintain the same distance from each other, but the planets do not. 
+#### 14. The fixed stars always maintain the same distance from each other, but the planets do not. 
 
 <!-- Fixes stars 
 Stars also differ in that those we call fixed always maintain the same distance from each other and the same order;  -->

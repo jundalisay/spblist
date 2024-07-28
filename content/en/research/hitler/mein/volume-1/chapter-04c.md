@@ -1,8 +1,8 @@
 ---
-title: Population Problem
-heading: Chapter 4b
+title: Alliance with England to Solve the Population Problem
+heading: Chapter 4c
 weight: 30
-description: "Apart from my professional work, I was most interested in the study of current political events, particularly those on foreign relations"
+description: "The principle of acquiring new territory, on which the surplus population could be settled, has many advantages"
 author: Adolf Hitler
 image: /covers/mein.jpg
 ---
@@ -93,7 +93,9 @@ Only by alliance with England was it possible to safeguard the rear of the new G
 
 <!-- Not one of our pacifists refuses to eat the bread made from the grain grown in the East; and yet the first plough here was that called the 'Sword'. -->
 
-No sacrifice should have been considered too great if it was a necessary means of gaining England's friendship. Colonial and naval ambitions should have been abandoned and attempts should not have been made to compete against British industries.
+No sacrifice should have been considered too great if it was a necessary means of gaining England's friendship. 
+
+Colonial and naval ambitions should have been abandoned and attempts should not have been made to compete against British industries.
 
 Only a clear and definite policy could lead to such an achievement. 
 

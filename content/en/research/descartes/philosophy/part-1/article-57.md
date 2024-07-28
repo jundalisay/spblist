@@ -1,17 +1,17 @@
 ---
 title: "What is Substance?"
-heading: Articles 57-
+heading: Articles 57-61
 weight: 26
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
-### 57. Some attributes exist in things inherently. Other attributes exist only in our thought. 
+#### 57. Some attributes exist in things inherently. Other attributes exist only in our thought. 
 
 An example is timespan and time.
 
@@ -38,14 +38,14 @@ Hence, "time" is just a mode of thinking.
 - It is not superadded to duration, taken in its generality.
 
 
-### {{< s v="58" >}} **Number and all universals are only modes of thought.**
+#### 58. **Number and all universals are only modes of thought.**
 
 In the same way, an abstract or general number is just a mode of thinking.
 - The same is true of all those general ideas we call universals.
 <!-- , when it is not considered as in created things, but merely in the abstract or in general, ;  -->
 
 
-### {{< s v="59" >}} How are universals formed? What are the 5 common universals?
+#### 59. How are universals formed? What are the 5 common universals?
 
 1. Genus
 2. Species
@@ -81,7 +81,7 @@ This property belongs only to this species of triangles, we may call it the "uni
 Finally, if we suppose that of these triangles some are moved and others not, this will be their universal accident; and, accordingly, we commonly reckon five universals, viz., genus, species, difference, property, accident.
 
 
-{{< s v="60" >}}  Distinctions and first of the real.
+#### 60. Distinctions and first of the real.
 
 But number in things themselves arises from the distinction there is between them. 
 
@@ -111,7 +111,7 @@ God united bodies to souls so closely and intimately as a composite whole.
 - The things which God can separate or conserve separately are really distinct.
 
 
-{{< s v="61" >}} The 2 kinds of modal distinction:
+#### 61. The 2 kinds of modal distinction:
 
 1. That between the mode properly so-called and the substance of which it is a mode
 

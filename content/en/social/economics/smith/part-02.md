@@ -1,22 +1,23 @@
 ---
 heading: Part 2
-title: "Smith’s Labor Theory of Value vs. The Equilibrium of the Monetary Dogma"
+title: "Smith’s Labor Theory of Value versus The Equilibrium of the Monetary Dogma"
 date: 2013-11-18
-image: /photos/econ/crash.jpg
+image: /covers/smith.jpg
 description : "The Circular Flow of Economics emphasizes Businesses. That of Superphysics emphasizes balance and the natural price"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
+weight: 4
 toc: false
 ---
 
 
 {{< box >}}
 This is the early version of my Fallacy of Market Equilibrium Post that was sent to a journal but was not accepted. This led me to post to the internet instead.
-
 <cite>Juan</cite>
 {{< /box >}}
+
 
 ## The Monetary Dogma
 
@@ -140,3 +141,4 @@ Thus, the problem of arbitrariness begins. Unlike Smith who sees trade as mutual
 {{< q a="Menger" c="PE, Chap. 8" >}}
 Each of the two bargainers will attempt to acquire as large a portion as possible of the economic gain that can be derived from the exploitation of the exchange opportunity, and even if he were to try to obtain but a fair share of the gain, he will be inclined to demand higher prices the less he knows of the economic condition of the other bargainer and the less he knows the extreme limit to which the other is prepared to go.
 {{< /q >}}
+

@@ -6,12 +6,12 @@ description: "The Initial Motion of a Comet"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
-### 128. The Phenomena of Comets
+#### 128. The Phenomena of Comets
 
 Comets traverse different regions of the sky without any known pattern. Within a few months or days, they disappear from our sight.
 
@@ -24,7 +24,7 @@ I only remember reading about [one comet that traversed nearly half the sky](htt
 Soon after, it grew to a remarkable size and moved so swiftly through the northern pole that it traced a partial great circle, 30-40 degrees, in one day. Finally, it gradually disappeared near the stars of the Northern Fish or in the sign of Aries.
 
 
-### 129. Explanation of These Phenomena
+#### 129. Explanation of These Phenomena
 
 The same comet traverses different parts of the sky in `Vortex F` and another part in `Vortex Y`. 
 
@@ -57,7 +57,7 @@ Thus, when it is at `5`, it may appear among the stars of Virgo, when between `6
 This is similar to the remarkable comet observed by Regiomontanus in 1475.
 
 
-### 130. How the Light of Fixed Stars Reaches Earth
+#### 130. How the Light of Fixed Stars Reaches Earth
 
 Why do comets only appear when they are in our sky, whereas fixed stars are visible even when they are very far away?
 

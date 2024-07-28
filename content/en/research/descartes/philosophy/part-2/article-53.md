@@ -6,19 +6,19 @@ description: "The use of these rules is difficult because each body is touched b
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
-### 53. The use of these rules is difficult because each body is touched by many at the same time
+#### 53. The use of these rules is difficult because each body is touched by many at the same time
 
 But because in the world there are no bodies so isolated from all others, and there are hardly any perfectly hard bodies around us, it is much more difficult to devise a calculation to determine how much the motion of each body is altered due to the encounters with others. 
 
 For we must consider all the factors that surround it, which have very different effects depending on whether they are hard or fluid. Therefore, the diversity in this regard must be investigated.
 
 
-### 54. Which bodies are hard, and which are fluids.
+#### 54. Which bodies are hard, and which are fluids.
 
 Through sensory experience, we recognize nothing other than this: that the parts of fluids easily move away from their positions, and therefore do not resist when our hands move towards them; 
 
@@ -31,7 +31,7 @@ We easily notice that bodies already in motion do not hinder other places from b
 Hence, it can be inferred that bodies divided into many small particles, agitated by mutually different motions, are fluids, while those whose individual particles all remain at rest relative to each other are solids.
 
 
-### 55. The particles of solid bodies are joined together by no other glue than their own stillness
+#### 55. The particles of solid bodies are joined together by no other glue than their own stillness
 
 We cannot conceive of any glue that would bind the particles of solid bodies more firmly than their own stillness. 
 

@@ -1,7 +1,7 @@
 ---
 title: Marxists Versus Nazis
 heading: Chapter 12g
-weight: 84
+weight: 124
 description: "The Marxist leaders deceived and misled the public. They naturally hated movements that aimed to win over the masses"
 author: Adolf Hitler
 image: /covers/mein.jpg

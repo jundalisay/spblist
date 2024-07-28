@@ -6,7 +6,7 @@ description: "This Earth we inhabit was once formed solely from the fire-aether,
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
@@ -30,15 +30,15 @@ Subtracting these from both sides, the remaining air-aether in this physical air
 
 **In this alone, its gravity consists.** *
 
-{{< box >}}
-#### *Superphysics Note
+{{< b >}}
+**Superphysics Note**
 
 In Newtonian Physics, gravity is dependent on object's mass which is then measured by acceleration on Earth.
 
 But in Cartesian Physics, the gravity (and movement in general) is dependent on the ratio of spacetime particles to each other. A massive object has far less spacetime. This means spacetime is pushing around it from all sides, causing it to be harder to move. 
 
 In contrast, a less massive object has so much spacetime that it is easy to move in space. This is why the next article emphasizes that gravity is not based on the amount of matter in a body. It is just common to have less spacetime in a matter-dense body. 
-{{< /box >}}
+{{< /b >}}
 
 
 
@@ -75,14 +75,13 @@ Hence, gravity alone cannot easily estimate how much earth-aether is in each bod
 
 
 {{< box >}}
-#### *Superphysics Note
+**Superphysics Note**
 
 Rank of Force Strength | Element 
 --- | ---
 1 | Electromagnetism
 2 | Spacetime
 3 | Matter
-
 {{< /box >}}
 
 
@@ -100,8 +99,7 @@ Additionally, in the water itself, as in all other liquid bodies, there is buoya
 
 
 
-### 26. Why bodies do not gravitate in their natural places
-
+#### 26. Why bodies do not gravitate in their natural places
 
 In every motion there is a cycle of bodies moving together. 
 
@@ -149,7 +147,7 @@ But the same part `B` of the vessel is not pressed by more drops than these `1, 
 
 
 
-### 27. Gravity causes bodies to descend toward the center of the Earth
+#### 27. Gravity causes bodies to descend toward the center of the Earth
 
 The air-aether particles are simultaneously agitated by many different motions. Yet all their actions conspire together and are balanced, opposing one another.
 

@@ -6,14 +6,14 @@ description: "How the matter that composes the Sun moves."
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
 
 
-### 72. How the [electromagnetic] fire-aether that composes the Sun moves.
+#### 72. How the [electromagnetic] fire-aether that composes the Sun moves.
 
 <!-- It is worth considering a bit more carefully  -->
 
@@ -33,10 +33,10 @@ These spirals, when they reach `d` and `f`, reflect from there in both direction
 
 Since the space `defg` is larger than the passages through which the fire-aether enters or exits, some fire-aether always remains there. They form a very fluid body that perpetually rotates around the axis `fd`.*
 
-> *Superphysics Note: This is the magnetic field of the star
+{{< n n="This is the magnetic field of the star" >}}
 
 
-### 73. Various inequalities in the position of the Sun's body.
+#### 73. Various inequalities in the position of the Sun's body.
 
 This body must be spherical. 
 
@@ -61,7 +61,7 @@ Therefore, even if we consider only the 4 vortices L, C, K, O, as long as we sup
 Even greater inequality in its position can be understood from the fact that several other vortices surround it.
 
 
-### 74. Various irregularities in the motion of its matter.
+#### 74. Various irregularities in the motion of its matter.
 
 The fire-aether coming from the vortices `K` and `L` does not move towards `S` in as straight lines as towards some other parts.
 
@@ -80,7 +80,7 @@ The matter will rotate slightly faster between `e` and `d`, or between `f` and `
 Perhaps it will not rotate with completely equal speed between e and d, and between f and g.
 
 
-### 75. These irregularities do not prevent it from being round.
+#### 75. These irregularities do not prevent it from being round.
 
 This, however, cannot prevent the body from being nearly round. This is because its other motion from the poles towards the ecliptic, compensates for these irregularities.
 
@@ -91,4 +91,3 @@ Likewise, the fire-aether enters the Sun's body through its poles.
 It must repel all the surrounding air-aether globules equally on all sides. 
 
 It repels not less those into which it is only obliquely reflected, than those into which it directly strikes.
-

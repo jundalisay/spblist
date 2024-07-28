@@ -5,5 +5,5 @@ linkTitle: "Fallacies"
 weight: 2
 image: "/covers/fallacies.png"
 type: "featured"
-date: 2020-10-31
+# date: 2020-10-31
 ---

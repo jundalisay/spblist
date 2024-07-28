@@ -6,7 +6,7 @@ description: "A vacuum or space in which there is absolutely no body is repugnan
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 aliases:
   /research/descartes/philosophy/part-2/section-02b
@@ -15,7 +15,7 @@ aliases:
 
 
 
-### 16. A vacuum or space in which there is absolutely no body is repugnant to reason.
+#### 16. A vacuum or space in which there is absolutely no body is repugnant to reason.
 
 The philosophical vacuum is a space where there is no substance. It does not exist since  the extension of space or internal place is not different from that of body. 
 
@@ -24,7 +24,7 @@ Since a body has extension in length, width, and height, it follows that it is a
 It is absolutely contradictory that nothing should possess extension. And so we should form a similar inference regarding the space which is supposed void, viz., that ***since there is extension in it there is necessarily also substance.***
 
 
-### 17. A vacuum in the ordinary use of the term does not exclude all body
+#### 17. A vacuum in the ordinary use of the term does not exclude all body
 
 The common 'vacuum' does not mean a place or space in which there is absolutely nothing.
 
@@ -47,7 +47,7 @@ We are wrong to say that a pitcher that only has air is empty, because it makes 
 In the same way, we are wrong if we say that a common vacuum has nothing, or is empty.
 
 
-### 18. How the prejudice of an absolute vacuum is to be corrected.
+#### 18. How the prejudice of an absolute vacuum is to be corrected.
 
 We have almost all fallen into this error from the earliest age.
 

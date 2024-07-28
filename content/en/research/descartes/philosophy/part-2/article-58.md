@@ -6,12 +6,12 @@ description: "If the particles of a fluid move more slowly than a hard body exis
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
-### 58. If the particles of a fluid move more slowly than a hard body existing in it, it does not have the character of a fluid in this respect.
+#### 58. If the particles of a fluid move more slowly than a hard body existing in it, it does not have the character of a fluid in this respect.
 
 
 Thus, with the change in determination of the fluid particles that were hindering body B from moving towards C, this body B will entirely begin to move.
@@ -25,12 +25,12 @@ Hence, we often see air, water, and other fluids greatly resisting bodies that m
 
 
 
-### 59. A hard body, pushed by another hard body, does not borrow all its motion from it, but also partly from the surrounding fluid
+#### 59. A hard body, pushed by another hard body, does not borrow all its motion from it, but also partly from the surrounding fluid
 
 Cùm autem corpus B sic movetur versus C, non putandum est, illud accipere suum motum à sola vi externâ ipsum impellente, sed maximâ ex parte à fluidi particulis ; ita scilicet, ut eae quae componunt circulos aeio et ayuo, tantum amittant de suo motu, quantum acquirent eae particulae corporis duri B, quae sunt inter o et a ; quippe quae jam facient partem motuum circularium aeioa et ayuoa : quamvis prout ulteriùs procedent versus C, novis semper fluidi particulis jungantur.
 
 
-### 60. However, it cannot acquire a greater speed from this fluid than it has from the solid against which it is impacted.
+#### 60. However, it cannot acquire a greater speed from this fluid than it has from the solid against which it is impacted.
 
 What remains to be explained here is why I did not say a little earlier that the absolute determination of the particles in fluid is changed, but rather that it is changed only to the extent required to not impede the motion of body B.
 

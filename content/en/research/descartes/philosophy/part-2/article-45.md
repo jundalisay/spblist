@@ -6,7 +6,7 @@ description: "How can it be determined how much the motion of each body is chang
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
@@ -70,7 +70,7 @@ Similarly, if B were three times larger than C, it would transfer to C one-fourt
 #### 51. RULE 6: If the mass of stationary body C were precisely equal to that of the moving body B, when B approached C with 4 units of speed, it would transfer 1 unit of speed to C and be reflected with the remaining 3 units in the opposite direction.
 
 
-### 52. RULE 7: If B and C were moving towards the same direction, with C moving slower and B eventually catching up to it, and if C were larger than B but the excess of speed in B were greater than the excess of size in C, then B would transfer just enough of its motion to C so that both would subsequently move at the same speed and in the same direction. 
+#### 52. RULE 7: If B and C were moving towards the same direction, with C moving slower and B eventually catching up to it, and if C were larger than B but the excess of speed in B were greater than the excess of size in C, then B would transfer just enough of its motion to C so that both would subsequently move at the same speed and in the same direction. 
 
 However, if the excess of speed in B were less than the excess of size in C, B would be reflected in the opposite direction and retain all of its motion. 
 

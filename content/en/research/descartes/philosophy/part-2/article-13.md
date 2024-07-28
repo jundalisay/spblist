@@ -6,13 +6,13 @@ description: "Descartes asserts that all points are movable in the universe. Fro
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
 
-### 13. What is external place?
+#### 13. What is external place?
 
 The words 'place' and 'space' signify nothing really different from body which is in place.
 - They merely designate its size, shape, and location among other bodies. 
@@ -32,7 +32,7 @@ For example, imagine a ship being carried out to sea.
 I assert that all points are movable in the universe. From this, I conclude that nothing has a permanent place unless it is fixed by our thought.
 
 
-### 14. What is the difference between 'place' and 'space'?
+#### 14. What is the difference between 'place' and 'space'?
 
 The terms 'place' and 'space' have different meanings. 
 - 'Place' expressly designates location instead of size or shape [i.e. point]
@@ -54,7 +54,7 @@ So when we say that a thing is in a particular place, we mean merely that it is 
 When we add that it occupies such a space or place, we understand besides that it is of such determinate size and shape as exactly to fill this space.
 
 
-### 15. How external place is rightly taken for the surfaces of the surrounding body
+#### 15. How external place is rightly taken for the surfaces of the surrounding body
 
 Thus, we never distinguish space [i.e. area] from length, width, and height.
 
@@ -75,9 +75,11 @@ If all of a body's surfaces were changed, it does not mean that its body had cha
 
 Imagine a boat that is carried in one direction by the current of a stream. It is blown by the wind in the opposite direction with an equal force, causing its location with respect to the banks to not change.*
 
-> *Superphysics Note: One force is Yang or positive. Another force is Yin or Negative. Their interaction creates a 'surface' which seems static even if both forces are very dynamic.
-
+{{< n n="One force is Yang or positive. Another force is Yin or Negative. Their interaction creates a 'surface' which seems static even if both forces are very dynamic." >}}
 
 The boat remains in the same place even if the whole 'surface'* which surrounds it is incessantly changing.
 
-> *Superphysics Note: Here, the surface is the boundary beteen the boat and the stream and the boat and the wind, as one unit. This will make sense in explaining sun spots, solar flares, stellar and galactic halos, universe expansion via red-shift, etc  
+
+{{< n n="Here, the surface is the boundary beteen the boat and the stream and the boat and the wind, as one unit. This will make sense in explaining sun spots, solar flares, stellar and galactic halos, universe expansion via red-shift, etc" >}}
+
+  

@@ -1,12 +1,12 @@
 ---
 title: "Why do 2 Magnets Attract Each Other?"
-heading: Articles 152-
+heading: Articles 152-154
 weight: 44
 description: "Enumeration of properties of magnetic properties"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-06b

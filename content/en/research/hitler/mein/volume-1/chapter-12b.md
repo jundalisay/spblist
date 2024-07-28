@@ -1,7 +1,7 @@
 ---
 title: The Restoration of Germany
 heading: Chapter 12b
-weight: 88
+weight: 112
 description: "All great reforms in the beginning only has one protagonist to come forward on behalf of several millions of people"
 author: Adolf Hitler
 image: /covers/mein.jpg

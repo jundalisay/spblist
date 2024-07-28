@@ -6,12 +6,12 @@ description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
-### 109. The Presence of Intersecting Channels in the Spots
+#### 109. The Presence of Intersecting Channels in the Spots
 
 The remaining air-aether contained in space `I`, while rotating around the axis `fd`, always attempts to move away from it. 
 
@@ -23,7 +23,7 @@ Consequently, the quantity of the first element's matter contained in star I mus
 
 
 
-### 110. Why Light from a Star Can Hardly Pass Through a Spot
+#### 110. Why Light from a Star Can Hardly Pass Through a Spot
 
 Therefore, the force that constitutes light can be either entirely absent in it or very weak.
 
@@ -36,7 +36,7 @@ Similarly, the force exerted by its striated particles moving straight from one 
 
 
 
-### 111. Description of a Star Appearing Suddenly
+#### 111. Description of a Star Appearing Suddenly
 
 <!-- celestial matter -->
 The air-aether in the entire vortex surrounding `Star I` can retain its forces for some time, even though these forces may not be enough to produce the sensation of light in our eyes. 
@@ -75,7 +75,7 @@ Thus, in a very short time, almost instantaneously, it will spread over the enti
 
 <!-- celestial -->
 
-### 112. Description of a Star Gradually Disappearing
+#### 112. Description of a Star Gradually Disappearing
 
 If this spot becomes so thin and rarefied that it dissolves due to the fire-aether spreading over its outer surface, `Star I` will not easily disappear again afterward. 
 
@@ -96,7 +96,7 @@ These inner globules are pressed and interwoven with the branched particles of t
 Thus, they will easily congregate into spots there.
 
 
-### 113. Many Channels Excavated by Striated Particles in All Spots
+#### 113. Many Channels Excavated by Striated Particles in All Spots
 
 Striated particles continuously excavate channels for themselves in the crusts of all these spots and pass through all of them as if through a single spot. 
 
@@ -111,7 +111,7 @@ This cannot be said for the surrounding ether.
 Its thicker particles retain some traces of these channels because they are generated from the dissolution of spots. But they do not always maintain the same position due to following the motion of air-aether globules. Therefore, they do not easily admit the striated particles moving straight through them.
 
 
-### 114. The Same Star Can Appear and Disappear in Turns
+#### 114. The Same Star Can Appear and Disappear in Turns
 
 The same fixed star can appear and disappear in turns, being enveloped in a new vortex of spots each time it appears. 
 
@@ -125,7 +125,7 @@ Thus, when all celestial vortices are in a certain equilibrium, the matter of on
 
 
 
-### 115. The Possibility of the Entire Vortex Containing a Star Being Destroyed
+#### 115. The Possibility of the Entire Vortex Containing a Star Being Destroyed
 
 It is also possible for the entire vortex containing such a fixed star to be absorbed by surrounding vortices. Its star can be taken into one of these vortices and transformed into a planet or comet. 
 

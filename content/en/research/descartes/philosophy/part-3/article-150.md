@@ -6,7 +6,7 @@ description: "Why the poles of the Equator and the Ecliptic are far apart"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
@@ -22,7 +22,7 @@ icon: "/icons/descartes.png"
 This is because Jupiter, like the Sun and Earth, revolves around its own axis, whereas Saturn, like the Moon and Comets, always turns the same part of itself towards the center of the vortex in which it is contained.
 
 
-### 155. Why the poles of the Equator and the Ecliptic are far apart. 
+#### 155. Why the poles of the Equator and the Ecliptic are far apart. 
 
 The axis around which the Earth revolves in the space of a day is not perpendicular to the plane of the Ecliptic, in which it rotates around the Sun over the course of a year. 
 
@@ -46,14 +46,14 @@ While many cortices of spots were gradually generated above this star, the stria
 And so those which formed suitable channels for themselves through the globe of the Earth, along its axis, when they now still flow through it perpetually, cause its poles to be directed towards the same parts of the heavens from which they come.
 
 
-### 156. Why they gradually approach each other. 
+#### 156. Why they gradually approach each other. 
 
 The two revolutions of the Earth, namely the annual and the diurnal, would be more conveniently performed if they were around parallel axes, the causes preventing this are gradually changing on both sides.
 
 Hence, the declination of the Ecliptic from the Equator diminishes over time.
 
 
-### 157. The final and most general cause of all the inequalities found in the motions of celestial bodies.
+#### 157. The final and most general cause of all the inequalities found in the motions of celestial bodies.
 
 The Planets always seek circular motions but never describe perfect circles. 
 

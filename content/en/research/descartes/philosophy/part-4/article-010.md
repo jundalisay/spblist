@@ -6,7 +6,7 @@ description: "This Earth we inhabit was once formed solely from the fire-aether,
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
@@ -90,3 +90,4 @@ It then rolled towards the Sun (with the vortex in which it previously was being
 At that point, no significant change could occur in its inner and middle region.
 
 But the outer region, first two, then three, later four, and many other different bodies had to be distinguished in it.
+

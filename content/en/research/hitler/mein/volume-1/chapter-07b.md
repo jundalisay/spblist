@@ -1,6 +1,6 @@
 ---
-title: The Revolution
-heading: Chapter 7
+title: "The War in 1917"
+heading: Chapter 7b
 weight: 50
 description: "Towards the end of 1917 it seemed as if we had got over the worst phases of moral depression at the front"
 author: Adolf Hitler
@@ -118,19 +118,17 @@ At first it was apparently possible to overcome the repercussion of these events
 
 Victory would now be assured if the Western front could hold out against the German offensive even for only a few months. 
 
-The Allied parliaments recognized the possibilities of a better future and voted huge sums of money for the continuation of
-the propaganda which was employed for the purpose of breaking up the internal cohesion of Germany.
+The Allied parliaments recognized the possibilities of a better future and voted huge sums of money for the continuation of the propaganda which was employed for the purpose of breaking up the internal cohesion of Germany.
 
-It was my luck that I was able to take part in the first two offensives and in the final offensive. 
+I was lucky to take part in:
+- the first two offensives, and
+- the final offensive. 
 
-These have left on me the most stupendous impressions of my life--
-stupendous, because now for the last time the struggle lost its defensive character and
-assumed the character of an offensive, just as it was in 1914. 
+These have left on me the most stupendous impressions of my life--stupendous, because now for the last time the struggle lost its defensive character and assumed the character of an offensive, just as it was in 1914. 
 
-A sigh of relief went up from the German trenches and dug-outs when finally, after three years of endurance in
-that inferno, the day for the settling of accounts had come. Once again the lusty
-cheering of victorious battalions was heard, as they hung the last crowns of the
-immortal laurel on the standards which they consecrated to Victory.
+A sigh of relief went up from the German trenches and dug-outs when finally, after three years of endurance in that inferno, the day for the settling of accounts had come. 
+
+Once again the lusty cheering of victorious battalions was heard, as they hung the last crowns of the immortal laurel on the standards which they consecrated to Victory.
 
 Once again the strains of patriotic songs soared upwards to the heavens above the endless columns of
 marching troops, and for the last time the Lord smiled on his ungrateful children.
@@ -152,14 +150,14 @@ A small but by no means an unimportant difference. And the majority of those who
 
 The old soldiers who had fought at the front had little liking for those new war aims of Messrs. Ebert, Scheidemann, Barth, Liebknecht and others. We could not understand why, all of a sudden, the shirkers should abrogate all executive powers to themselves, without having any regard to the army.
 
-From the very beginning I had my own definite personal views. I intensely loathed the whole gang of miserable party politicians who had betrayed the people. I had long ago realized that the interests of the nation played only a very small part with this disreputable crew and that what counted with them was the possibility of filling their
-own empty pockets. 
+From the very beginning I had my own definite personal views. I intensely loathed the whole gang of miserable party politicians who had betrayed the people. 
 
-My opinion was that those people thoroughly deserved to be hanged, because they were ready to sacrifice the peace and if necessary allow Germany to be defeated just to serve their own ends. To consider their wishes would mean to
-sacrifice the interests of the working classes for the benefit of a gang of thieves. To meet
-their wishes meant that one should agree to sacrifice Germany.
+<!-- I had long ago realized that the interests of the nation played only a very small part with this disreputable crew and that what counted with them was the possibility of filling their own empty pockets.  -->
 
-Such, too, was the opinion still held by the majority of the army. But the reinforcements which came from home were fast becoming worse and worse; so much so that their arrival was a source of weakness rather than of strength to our fighting forces. 
+I thought that politicians thoroughly deserved to be hanged because they were ready to sacrifice the peace and allow Germany to be defeated just to serve their own ends. 
+
+<!-- To consider their wishes would mean to sacrifice the interests of the working classes for the benefit of a gang of thieves. To meet their wishes meant that one should agree to sacrifice Germany. -->
+
+Many in the army also thought this way. The reinforcements which came from home were becoming worse and worse. They became a source of weakness rather strength to our fighting forces. 
 
 The young recruits in particular were for the most part useless. Sometimes it was hard to believe that they were sons of the same nation that sent its youth into the battles that were fought round Ypres.
-

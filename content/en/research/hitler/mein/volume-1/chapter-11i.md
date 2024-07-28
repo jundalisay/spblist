@@ -1,159 +1,175 @@
 ---
-title: The Superiority of the Aryan Race
+title: The Two Parts of Marxist Power
 heading: Chapter 11i
-weight: 84
-description: "The Aryan race has been, and still is, the standard-bearer of human progress."
+weight: 104
+description: "The Marxist Doctrine provoked the opposition of decent people. They refused to admit these demands which seemed fundamentally unjust"
 author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-### The State of Israel as a refuge for swindlers
+The Marxist Doctrine provoked the opposition of decent people. They refused to admit these demands which seemed fundamentally unjust and impossible to realize.
 
-(k) The Jewish domination in the State seems now so fully assured.
+<!--  which, because of
+the form and pseudo-philosophical trimmings in which they are presented,  -->
 
- <!-- not only can he now afford to call himself a Jew once again, but he even acknowledges freely and openly what his ideas are on racial and political questions. A section of the Jews avows itself quite openly as an alien people, but even here there is another falsehood.  -->
+Under the cloak of purely social concepts there are hidden aims which are of a Satanic character. 
 
-Zionists try to make the rest of the world believe that their new national consciousness is the establishment of a Jewish State in Palestine.
+<!-- These aims are even expounded in the open with the clarity of unlimited impudence.  -->
 
-<!-- , the Jews thereby adopt another means to dupe the simple-minded Gentile.  -->
+This Marxist doctrine is an individual mixture of human reason and human absurdity.
 
-**They have not the slightest intention of building up a Jewish State in Palestine so as to live in it.** 
+<!--  but the
+combination is arranged in such a way that only the absurd part of it could ever be put
+into practice, but never the reasonable part of it. By  -->
 
-What they really are aiming at is to establish a central organization for their international swindling and cheating. 
+It categorically repudiates the personal worth of the individual and also the nation and its racial constituent.
 
-As a sovereign State, this cannot be controlled by any of the other States. 
+It destroys the fundamental basis of all civilization.
 
-Therefore, it can serve as a refuge for swindlers who have been found out and at the same time a high-school for the training of other swindlers.
+<!-- ; for civilization essentially
+depends on these very factors. Such is the true essence of the Marxist
+WELTANSCHAUUNG, so far as the word WELTANSCHAUUNG can be applied at all
+to this phantom arising from a criminal brain.  -->
 
-As a sign of their growing presumption and sense of security:
-- one section of them openly and impudently proclaim their Jewish nationality 
-- another section hypocritically pretend that they are German, French or English. 
+The destruction of the concept of personality and race removes the chief obstacle which barred the way to domination of the inferior Jews.
 
-<!-- Their blatant behaviour in their relations with other people shows how clearly they envisage their day of triumph in the near future. -->
+ <!-- social body by its inferior elements, which are the . -->
 
-The black-haired Jewish youth lies in wait for hours on end, satanically glaring at and spying on the unsuspicious girl whom he plans to seduce, adulterating her blood and removing her from the bosom of her own people. 
+The very absurdity of the economic and political theories of Marxism gives the doctrine
+its peculiar significance. Because of its pseudo-logic, intelligent people refuse to support
+it, while all those who are less accustomed to use their intellectual faculties, or who
+have only a rudimentary notion of economic principles, join the Marxist cause with
+flying banners. 
 
-The Jew uses every possible means to undermine the racial foundations of a subjugated people. 
+The intelligence behind the movement--for even this movement needs
+intelligence if it is to subsist--is supplied by the Jews themselves, naturally of course as a
+gratuitous service which is at the same time a sacrifice on their part.
 
-In his systematic efforts to ruin girls and women, he strives to break down the last barriers of discrimination between him and other peoples.
+Thus arose a movement which was composed exclusively of manual workers under the
+leadership of Jews. To all external appearances, this movement strives to ameliorate the 
+conditions under which the workers live; but in reality its aim is to enslave and thereby
+annihilate the non-Jewish races.
 
-The Jews were responsible for bringing negroes into the Rhineland.
-- Their ultimate idea was to bastardize the white race which they hate and lower its cultural and political level so that they can dominate. 
+The propaganda which the freemasons had carried on among the so-called intelligentsia, whereby their pacifist teaching paralysed the instinct for national selfpreservation, was now extended to the broad masses of the workers and bourgeoisie by means of the Press, which was almost everywhere in Jewish hands. 
 
-For as long as a people remain racially pure and are conscious of the treasure of their blood, they can never be overcome by the Jew. Never in this world can the Jew become master of any people except a bastardized people.
+To those two instruments of disintegration a third and still more ruthless one was added, namely, the
+organization of brute physical force among the masses. As massed columns of attacks,
+the Marxist troops stormed those parts of the social order which had been left standing
+after the two former undermining operations had done their work.
 
-That is why the Jew systematically endeavours to lower the racial quality of a people by permanently adulterating the blood of the individuals who make up that people. 
+<!-- The combined activity of all these forces has been marvellously managed. And it will
+not be surprising if it turns out that those institutions which have always appeared as
+the organs of the more or less traditional authority of the State should now fall before
+the Marxist attack. Among our higher and highest State officials, with very few
+exceptions, the Jew has found the cost complacent backers in his work of destruction.
+An attitude of sneaking servility towards 'superiors' and supercilious arrogance
+towards 'inferiors' are the characteristics of this class of people, as well as a grade of
+stupidity which is really frightening and at the same time a towering self-conceit, which
+has been so consistently developed to make it amusing. -->
 
-In the field of politics he now begins to replace the idea of democracy by introducing the dictatorship of the proletariat. 
+But these qualities are of the greatest utility to the Jew in his dealings with our authorities. Therefore they are qualities which he appreciates most in the officials. If I were to sketch roughly the actual struggle which is now beginning I should describe it somewhat thus:
 
-In the masses organized under the Marxist banners he has found a weapon which makes it possible for him to discard democracy, so as to subjugate and rule in a dictatorial fashion by the aid of brute force. He is systematically working in two ways to bring about this revolution. These ways are the economic and the political respectively.
 
-Aided by international influences, he forms a ring of enemies around those nations which have proved themselves too sturdy for him in withstanding attacks from within. 
+The Jew is not satisfied with the economic conquest of the world. He also demands that it must come under his political control. 
 
-He would like to force them into war and then, if it should be necessary to his plans, he will unfurl the banners of revolt even while the troops are actually fighting at the front.
+So he subdivides the organized Marxist power into 2 parts:
 
-Economically he brings about the destruction of the State by a systematic method of sabotaging social enterprises until these become so costly that they are taken out of the hands of the State and then submitted to the control of Jewish finance. 
+1. The political movement 
+2. The trades union movement
 
-Politically he works to withdraw from the State its means of susbsistence, inasmuch as he undermines the foundations of national resistance and defence, destroys the confidence which the people have in their Government, reviles the past and its history and drags everything national down into the gutter.
+<!-- , which correspond to the ultimate objectives that are to be fought for in this struggle which is carried on under the direction of the Jew.  -->
 
-Culturally his activity consists in bowdlerizing art, literature and the theatre, holding the expressions of national sentiment up to scorn, overturning all concepts of the sublime and beautiful, the worthy and the good, finally dragging the people to the level of his own low mentality.
+<!-- To outward appearance, these seem to be two independent movements, but in reality they constitute an indivisible unity. The two divisions are: . -->
 
-Of religion he makes a mockery. Morality and decency are described as antiquated prejudices and thus a systematic attack is made to undermine those last foundations on  which the national being must rest if the nation is to struggle for its existence in this world.
+The trades union movement gathers in the recruits. It offers assistance and protection to the workers in their hard struggle for existence caused by the greed and narrow-mindedness of industrialists.
 
+<!-- Unless the workers be ready to surrender all claims to an existence which the dignity of human nature itself demands, and unless they are ready to submit their fate to the will of employers who in many
+cases have no sense of human responsibilities and are utterly callous to human wants, 
+then the worker must necessarily take matters into his own hands, seeing that the
+organized social community--that is to say, the State--pays no attention to his needs. -->
 
+The so-called national-minded bourgeoisie, blinded by its own material interests, opposes this life-or-death struggle of the workers. They place the most difficult obstacles in their way. 
 
-(l) Now begins the great and final revolution. 
+<!-- Not only does this bourgeoisie hinder all efforts to enact legislation which would -->
 
-As soon as the Jew is in possession of political power he drops the last few veils which have hitherto helped to conceal his features. 
+They refuse to:
+- shorten the inhumanly long hours of work
+- prohibit child-labour
+- grant security and protection to women
+- improve the hygienic conditions of the workshops and the dwellings of the working-class
 
-Out of the democratic Jew, the Jew of the People, arises the 'Jew of the Blood', the tyrant of the peoples. 
+The shrewd Jew then takes the cause of the oppressed into his own hands. 
 
-In the course of a few years he endeavours to exterminate all those who represent the national intelligence. By thus, depriving the peoples of their natural intellectual leaders he fits them for their fate as slaves under a lasting despotism.
+He gradually becomes the leader of the trades union movements.
 
-Russia furnishes the most terrible example of such a slavery.
+<!-- , which is an easy task for him, because he does not genuinely intend to find remedies for the social wrong:  -->
 
-In that country the Jew killed or starved 30 millions of the people, in a bout of savage fanaticism and partly by the employment of inhuman torture. And he did this so that a gang of Jewish literati and financial bandits should dominate over a great people.
+His only one objective is to gather and consolidate a body of followers who will act under his commands as a weapon in the economic war to destroy national economic independence. 
 
-But the final consequence is not merely that the people lose all their freedom under the domination of the Jews, but that in the end these parasites themselves disappear. 
+<!-- For, while a sound social policy has to move between the two poles of securing a decent level of public health and welfare on the one hand and, on
+the other, that of safeguarding , the
+Jew does not take these poles into account at all.  -->
 
-The death of the victim is followed sooner or later by that of the vampire. 
 
-The most profound and decisive cause of the downfall of the German people is:
-- the lack of insight into the racial problem and
-- especially the failure to recognize the Jewish danger.
+The Jew aims to destroy both:
+- public welfare
+- the independence of the economic life of the nation
 
-It would have been easy enough to endure the defeats suffered on the battlefields in August 1918. 
+<!-- He would ruin, rather than safeguard, the independence of the national economic system. Therefore, as the leader of the trades union movement, he has no scruples about putting forward demands which not only go beyond the declared purpose of the movement but could not be carried into effect without ruining the
+national economic structure. 
 
-They were nothing when compared with the military victories which our nation had achieved. 
+He has no interest in seeing a healthy and sturdy population develop.
 
-Our downfall was not the result of those defeats. We were overthrown by that force which had prepared those defeats by systematically operating for several decades to destroy those political instincts and that moral stamina which alone secure for its people the right to exist. 
+ he would be more content to see the people degenerate
+into an unthinking herd which could be reduced to total subjection. Because these are his final objectives, he can afford to put forward the most absurd claims. He knows very well that these claims can never be realized and that therefore nothing in the actual state of affairs could be altered by them, but that the most they can do is to arouse the spirit of unrest among the masses. That is exactly the purpose which he wishes such propaganda to serve and not a real and honest improvement of the social conditions.  -->
 
-By neglecting the problem of preserving the racial foundations of our national life, the old Empire abrogated the sole right which entitles a people to live on this planet. 
+<!-- The Jews will therefore remain the unquestioned leaders of the trades union movement so long as a campaign is not undertaken, which must be carried out on gigantic lines, for the enlightenment of the masses; so that they will be enabled better to understand the causes of their misery. Or the same end might be achieved if the government authorities would get rid of the Jew and his work. For as long as the masses remain so ill-informed as they actually are to-day, and as long as the State remains as indifferent to their lot as it now is, the masses will follow whatever leader makes them the most extravagant promises in regard to economic matters. The Jew is a past master at this art and his activities are not hampered by moral considerations of any kind.
 
-Nations that make mongrels of their people, or allow their people to be turned into mongrels, sin against the Will of Eternal Providence. 
+Naturally it takes him only a short time to defeat all his competitors in this field and drive them from the scene of action. In accordance with the general brutality and  rapacity of his nature,  -->
 
-Thus, their overthrow at the hands of a stronger opponent cannot be looked upon as a wrong but, on the contrary, as a restoration of justice. 
+He then turns the trades union movement into an organization for the exercise of physical violence. 
 
-If a people refuses to guard and uphold the qualities with which it has been endowed by Nature and which have their roots in the racial blood, then such a people has no right to complain over the loss of its earthly existence.
+<!-- The resistance of those whose common sense has hitherto saved them from surrendering to the Jewish dictatorship is now broken down by terrorization. The success of that kind of activity is enormous. -->
 
-Everything on this earth can be made into something better. Every defeat may be made the foundation of a future victory. Every lost war may be the cause of a later resurgence.  Every visitation of distress can give a new impetus to human energy. 
+<!-- Parallel with this, the political organization advances. It operates hand-in-hand with the trades union movement, inasmuch as the latter prepares the masses for the political organization and even forces them into it. This is also the source that provides the money which the political organization needs to keep its enormous apparatus in action. -->
 
-And out of every oppression those forces can develop which bring about a new re-birth of the national
-soul--provided always that the racial blood is kept pure.
+The trades union organization then becomes the organ of control for the political activity of its members and whips in the masses for all great political demonstrations. 
 
-But the loss of racial purity will wreck inner happiness for ever. It degrades men for all time to come. And the physical and moral consequences can never be wiped out. If this unique problem be studied and compared with the other problems of life we shall easily recognize how small is their importance in comparison with this. They are all limited to time; but the problem of the maintenance or loss of the purity of the racial blood will last as long as man himself lasts.
+In the end, it ceases to struggle for economic interests. Its chief weapon is the general strike -- the refusal to continue work.
 
-All the symptoms of decline which manifested themselves already in pre-war times can
-be traced back to the racial problem.
+<!-- --which takes the form of a general strike--at the disposal of the political movement. -->
 
+It uses a Press, whose contents are adapted for the most ignorant readers, as its instrument which prepares the lowest stratum of the nation for a campaign of ruthless destruction.
 
+<!-- It is not considered part of the purpose of this Press to inspire its readers with ideals which might help them to lift their minds above the sordid conditions of their daily lives; but, on the contrary, it panders to their lowest instincts. Among the lazy-minded and self-seeking sections of the masses this kind of speculation turns out lucrative.
 
-Always and everywhere the following are ultimately caused by a lack of consideration for the interests of the race of one's own nation or the  failure to recognize the danger of the foreign races within the national body:
-- questions of general law, or
-- monstrous excrescences in economic life
-- cultural decline
-- political degeneration
-- defects in the school-system 
-- the evil influence of the Press over the adult population
+It is this Press above all which carries on a fanatical campaign of calumny, strives to tear down everything that might be considered as a mainstay of national independence and to sabotage all cultural values as well as to destroy the autonomy of the national economic system.
 
-<!-- That is why all attempts at reform, all institutions for social relief, all political striving, all economic progress and all apparent increase in the general stock of knowledge, were doomed to be unproductive of any significant results. The nation, as well as the organization which enables it to exist--namely, the State--were not developing in inner strength and stability, but, on the contrary, were visibly losing their vitality. 
+It aims its attack especially against all men of character who refuse to fall into line with the Jewish efforts to obtain control over the State or who appear dangerous to the Jews merely because of their superior intelligence. 
 
-The false brilliance of the Second Empire could not disguise the inner weakness. And every attempt to invigorate it anew failed because the main and most important problem was left out of consideration.
+For in order to incur the enmity of the Jew it is not necessary to show any open hostility towards him. It is quite sufficient if one be considered capable of opposing the Jew some time in the future or using his abilities and character to enhance the power and position of a nation which the Jew finds hostile to himself.
 
-It would be a mistake to think that the followers of the various political parties which tried to doctor the condition of the German people, or even all their leaders, were bad in themselves or meant wrong. Their activity even at best was doomed to fail, merely because of the fact that they saw nothing but the symptoms of our general malady and they tried to doctor the symptoms while they overlooked the real cause of the disease.  
+The Jewish instinct never fails where these problems have to be dealt with. It readily discerns the true mentality of those whom the Jew meets in everyday life. 
 
-If one makes a methodical study of the lines along which the old Empire developed one cannot help seeing, after a careful political analysis, that a process of inner degeneration had already set in even at the time when the united Empire was formed and the German nation began to make rapid external progress. 
+Those who are not of a kindred spirit with him may be sure of being listed among his enemies.  -->
 
-The general situation was declining, in spite of the apparent political success and in spite of the increasing economic wealth. At the elections to the Reichstag the growing number of Marxist votes indicated that the internal breakdown and the political collapse were then rapidly
-approaching.  -->
+The Jew is not the object of aggression but the aggressor himself. He considers as his enemies not only those who attack him but also those who may be capable of resisting him. 
 
-All the victories of the so-called bourgeois parties were fruitless because:
-- they could not prevent the numerical increase of the Marxist votes
-<!-- - , even when the bourgeois parties triumphed at the polls, but mainly because  -->
-- they themselves were already infected with the germs of decay. 
+The means which he employs to break people of this kind, who may show themselves decent and upright, are not the open means generally used in honourable conflict, but falsehood and calumny.
 
+He will stop at nothing. His utterly low-down conduct is so appalling that one really cannot be surprised if in the imagination of our people the Jew is pictured as the incarnation of Satan and the symbol of evil.
 
-Though unaware of it, the bourgeois world was infected from within with the deadly virus of Marxist ideas.
+<!-- The ignorance of the broad masses as regards the inner character of the Jew, and the lack of instinct and insight that our upper classes display, are some of the reasons which explain how it is that so many people fall an easy prey to the systematic campaign of falsehood which the Jew carries on. -->
 
-<!-- The fact that they sometimes openly resisted was to be explained by the competitive strife among ambitious political leaders, rather than by attributing it to any opposition in principle between adversaries who were determined to fight one another to the bitter end.  -->
+The upper classes, with their innate cowardliness, turn away from anyone whom the Jew attacks with lies and calumny.
 
-During all those years only one protagonist was fighting with steadfast perseverance -- the Jew. 
+The common people, on the other hand, believe everything.
 
-The Star of David steadily ascended as the will to national self-preservation declined.
+ <!-- whether because of their ignorance or their simple-mindedness. -->
 
-Therefore it was not a solid national phalanx that, of itself and out of its own feeling of solidarity, rushed to the battlefields in August 1914. 
+Government authorities wrap themselves up in a robe of silence, but more frequently they persecute the victims of Jewish attacks in order to stop the campaign in the Jewish Press. 
 
-<!-- But it was rather the manifestation of the last flicker from the instinct of national self-preservation against the progress of the paralysis with which the pacifist and Marxist doctrine threatened our people. 
+To the fatuous mind of the government official such a line of conduct appears to belong to the policy of upholding the authority of the State and preserving public order.
 
-Even in those days when the destinies of the nation were in the balance the internal enemy was not recognized; therefore all efforts to resist the external enemy were bound to be in vain. Providence did not grant the reward to the victorious sword, but followed the eternal law of retributive justice. 
-
-A profound recognition of all this was the source of those principles and tendencies which inspire our new movement. We were convinced that only by recognizing such truths could we stop the national decline in Germany and lay a granite foundation on which the State could again be built up, a State which would not be a piece of mechanism alien to our people, constituted for economic purposes and interests, but an organism created from the soul of the people themselves. -->
-
-A GERMAN STATE IN A GERMAN NATION 
-
-
-### Notes
-
-[Note 15. When Mephistopheles first appears to Faust, in the latter's study, Faust inquires: "What is thy name?" To which Mephistopheles replies: "A part ofthe Power which always wills the Bad and always works the Good." And when Faust asks him what is meant by this riddle and why he should call himself'a part,' the gist of Mephistopheles' reply is that he is the Spirit of Negation and exists through opposition to the positive Truth and Order and Beauty which proceed from the never-ending creative energy of the Deity. In the Prologue to Faust the Lord declares that man's active nature would grow sluggishin working the good and that therefore he has to be aroused by the Spirit of Opposition. This Spirit wills the Bad, but of itself it can do nothing positive, and by its opposition always works the opposite of what it wills.] 
-
+Gradually the Marxist weapon in the hands of the Jew becomes a constant bogy to decent people. Sometimes the fear of it sticks in the brain or weighs upon them as a kind of nightmare. People begin to quail before this fearful foe and therewith become his victims.

@@ -1,8 +1,8 @@
 ---
-title: The Alliance with Austria
+title: German Foreign Policy
 heading: Chapter 4d
 weight: 32
-description: "Apart from my professional work, I was most interested in the study of current political events, particularly those on foreign relations"
+description: "If in 1904, our German foreign policy made us take the part which Japan played then there would have been no world war"
 author: Adolf Hitler
 image: /covers/mein.jpg
 ---

@@ -1,12 +1,14 @@
 ---
+heading: Part 5
 title: "Selfish-Interests Separating and Feeding Off Society"
 date: 2013-11-18
-image: /photos/econ/crash.jpg
+image: /covers/smith.jpg
 description : "The Circular Flow of Economics emphasizes Businesses. That of Superphysics emphasizes balance and the natural price"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
+weight: 10
 toc: false
 ---
 

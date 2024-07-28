@@ -6,10 +6,10 @@ description: "This Earth we inhabit was once formed solely from the fire-aether,
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-4/section-01
+# aliases:
+#   /research/descartes/philosophy/part-4/section-01
 ---
 
 
@@ -17,10 +17,12 @@ aliases:
 
 Although I am unwilling to believe that the bodies of this visible world were ever generated in the manner described above, as I have sufficiently forewarned, I must still retain the same hypothesis to explain those things that appear above the Earth. Ultimately, if, as I hope to clearly demonstrate, the causes of all natural things can be given in this way, and not in any other, it may rightfully be concluded that their nature is none other than if they were generated in such a manner. -->
 
-> striation: One of a number of parallel grooves and ridges in a rock or rocky deposit, formed by repeated twinning or cleaving of crystals.
+
+{{< n n="striation: One of a number of parallel grooves and ridges in a rock or rocky deposit, formed by repeated twinning or cleaving of crystals." >}}
 
 
-### 2. How the Earth was Created 
+
+#### 2. How the Earth was Created 
 
 <!-- According to this Hypothesis. -->
 
@@ -53,7 +55,7 @@ It joined a larger vortex, the center of which is the Sun.
 
 
 
-### 3. The 3 Regions of the Earth: Region 1
+#### 3. The 3 Regions of the Earth: Region 1
 
 The Earth has 3 regions inside it, as a planet not yet fallen towards the Sun, but about to fall.
 
@@ -68,7 +70,7 @@ The fire-aether that continually goes from the Sun into the spots cannot be so e
 <!-- , unless it seemed to follow from this that the body of the Earth could not remain as close to the Sun as it is now, due to its excessive solidity. -->
 
 
-### 4. Region 2
+#### 4. Region 2
 
 The middle region `M` is entirely occupied by a very opaque and dense body. This is made up of extremely small particles that belonged to the fire-aether but fused together. 
 
@@ -83,7 +85,7 @@ Nevertheless, they hinder the passage of light. This is because their passages a
 These passages were initially formed in fluid or soft matter. They would also be straight and smooth to not hinder the action of light.
 
 
-### 5. Region 3
+#### 5. Region 3
 
 <!-- But these two inner regions of the Earth little concern us because no one has ever approached them alive. -->
 
@@ -94,5 +96,3 @@ All the bodies found around us are in this region.
 <!-- can arise in the future.  -->
 
 But for now, we suppose nothing else in it than a large heap of particles of the earth-aether, having much air-aether around them, whose inner nature can be recognized from the way they were generated.
-
-

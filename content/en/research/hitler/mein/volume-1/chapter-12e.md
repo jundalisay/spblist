@@ -1,7 +1,7 @@
 ---
 title: Obligations 12- of the Movement
 heading: Chapter 12e
-weight: 80
+weight: 120
 description: "The inner structure of the movement has the following principles"
 author: Adolf Hitler
 image: /covers/mein.jpg

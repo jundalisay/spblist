@@ -6,7 +6,7 @@ description: "This Earth we inhabit was once formed solely from the fire-aether,
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-04d
@@ -96,7 +96,7 @@ If the fragments of the lumps are so angular and brittle that they adhere to eac
 Or vice versa, if it is so strong that it disturbs the suitable position of these fragments, the result is considered not steel but softer and more flexible iron.
 
 
-### 143. How is steel tempered?
+#### 143. How is steel tempered?
 
 Steel, if heated again, does not easily melt because:
 - its lumps are too thick and solid to be moved intact by heat 
@@ -129,7 +129,7 @@ For example, swords, saws, files, or other tools made from it should not always 
 Therefore, when it is immersed in certain liquids, it is rightly said to be tempered.
 
 
-### 144. The difference between the channels of a magnet, steel, and iron.
+#### 144. The difference between the channels of a magnet, steel, and iron.
 
 There are many channels in both steel and iron suitable for receiving striated particles. 
 

@@ -6,7 +6,7 @@ description: "How can flame be ignited in these cavities? What is the nature of 
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-03
@@ -16,7 +16,7 @@ icon: "/icons/descartes.png"
 {{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance." >}}
 
 
-### 80. The Nature of Fire and its Distinction from Air
+#### 80. The Nature of Fire and its Distinction from Air
 
 How can flame be ignited in these cavities? What is the nature of fire?
 
@@ -37,7 +37,7 @@ The denser particles, unless continuously agitated by heat, naturally fall downw
 However, fire cannot exist without somewhat denser terrestrial particles, from which it is nourished and renewed.
 
 
-### 81. How Fire is First Ignited
+#### 81. How Fire is First Ignited
 
 The globules of the air-aether:
 - occupy all the spaces around the Earth large enough to contain them.
@@ -54,7 +54,7 @@ To generate fire, the air-aether globules must be expelled from the intervals be
 Once separated and floating freely in the fire-aether, these terrestrial particles are swiftly carried away in its motion and propelled in various directions.
 
 
-### 82. How is Fire Sustained?
+#### 82. How is Fire Sustained?
 
 To sustain this fire, the terrestrial particles must be dense, solid, and apt for motion. 
 
@@ -65,7 +65,7 @@ This way, when driven by the fire-aether, which propels them, they have the forc
 This action prevents these globules from occupying the intervals left by the fire-aether initially, thereby breaking its force and extinguishing the fire.
 
 
-### 83. Why Does Fire Need Nourishment?
+#### 83. Why Does Fire Need Nourishment?
 
 When these terrestrial particles strike the globules, they cannot be prevented by them from moving further and leaving that place, where the fire-aether primarily exerts its force, resulting in the loss of the form of fire and turning into smoke. 
 
@@ -74,7 +74,7 @@ Therefore, no fire would last there unless, at the same time, some of these terr
 These particles, succeeding the former and carried away by the fire-aether, continuously generate new fire.
 
 
-### 84. How Is Fire Sparked from Flint?
+#### 84. How Is Fire Sparked from Flint?
 
 Flints are hard, rigid, and friable.
 

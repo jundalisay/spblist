@@ -6,7 +6,7 @@ description: "Enumeration of properties of magnetic properties"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-08
@@ -27,7 +27,7 @@ I think that the declination in such a magnet is not entirely the same, and perh
 This is because the striated particles in this upper region of the Earth not only return from one pole to the other along lines equally distant from its center. But also, everywhere except under the equator, some particles ascend from its interior parts. The rotation of a magnet standing above its poles primarily depends on these outermost particles, while the declination primarily depends on the inner particles.
 
 
-### 171. Why does a magnet attract iron?
+#### 171. Why does a magnet attract iron?
 
 A magnet and iron approach each other. 
 
@@ -45,7 +45,7 @@ But a magnet is burdened by its heavy stony material.
 
 
 
-### 172. Why does an armed magnet (a magnet equipped with iron) support much more weight than a bare magnet?
+#### 172. Why does an armed magnet (a magnet equipped with iron) support much more weight than a bare magnet?
 
 But many wonder why a magnet equipped with iron, or an iron plate attached to a magnet, can support more weight than the magnet alone. 
 
@@ -58,7 +58,7 @@ As a result, the surfaces in direct contact with each other are difficult to sep
 Hence, there must always be a slight gap between the magnet and the iron to allow the striated particles to pass from one set of grooves to the other.
 
 
-### 173. Why do its (the magnet's) poles, no matter how opposite they are, attract each other when supporting iron?
+#### 173. Why do its (the magnet's) poles, no matter how opposite they are, attract each other when supporting iron?
 
 Even though the poles of a magnet appear to have opposite properties, they still attract each other when supporting iron. 
 
@@ -75,7 +75,7 @@ Then, flowing up to the South pole a, they encounter the other iron plate FE, th
 Conversely, when they exit from B, they pass through the armature EF, the suspended iron HG, and another armature DC, and return to A.
 
 
-### 174. Why is the rotation of an iron wheel, suspended by the force of a magnet to which it is attached, not hindered?
+#### 174. Why is the rotation of an iron wheel, suspended by the force of a magnet to which it is attached, not hindered?
 
 However, the motion of the striated particles through the magnet and iron does not appear to align with the circular motion of the twisted iron wheels. 
 
@@ -88,7 +88,7 @@ However, because the wheels themselves always rotate, some in one direction and 
 The motion of the wheel is less hindered by contact with the magnet, as it rotates while suspended, than it is by contact with the Earth when pressed by its own weight.
 
 
-### 175. How and why does the force of one magnet increase or decrease further?
+#### 175. How and why does the force of one magnet increase or decrease further?
 
 The force of one magnet can increase or decrease in various ways when influenced by the presence of another magnet or iron. However, there is a general rule that applies: whenever the magnets are positioned in a way that one magnet sends striated particles towards the other, they attract each other. 
 
@@ -99,7 +99,7 @@ Thus, not only do the South pole of one magnet and the North pole of another att
 For example, magnet C is attracted to magnet F to hold the iron DE attached to it, and vice versa, magnet F is attracted to magnet C to support the end E of its iron in the air. It can be so heavy that it could not be supported by magnet F alone if the other end D leaned against a different object than magnet C.
 
 
-### 176. Why can't a magnet, no matter how strong it is, attract iron that is not in direct contact with a weaker magnet?
+#### 176. Why can't a magnet, no matter how strong it is, attract iron that is not in direct contact with a weaker magnet?
 
 However, in the meantime, a certain force of magnet F is hindered by magnet C, specifically the force it has to attract iron DE towards itself. 
 
@@ -108,7 +108,7 @@ It should be noted that as long as this iron is in contact with magnet C, it can
 This is because the striated particles passing through these two magnets and this iron, as explained earlier, have nearly equal force throughout the space between C and F, and therefore they cannot pull the iron DE towards F, not only due to the magnetic force but also because the iron is bound to magnet C through their contact.
 
 
-### 177. Why can a weaker magnet or iron in contact with a stronger magnet attract itself?
+#### 177. Why can a weaker magnet or iron in contact with a stronger magnet attract itself?
 
 This is why a weaker magnet or a small piece of iron often attracts another piece of iron from a stronger magnet. 
 
@@ -119,7 +119,7 @@ It can sometimes cling to one and sometimes to the other.
 I believe there is no specific reason why it adheres to one magnet more than the other, except perhaps that it touches the one with a larger surface area.
 
 
-### 178. Why, in these Northern regions, is the South pole of a magnet stronger than the North pole?
+#### 178. Why, in these Northern regions, is the South pole of a magnet stronger than the North pole?
 
 From the fact that magnet F assists magnet C in supporting iron DE, it is evident why the pole of the magnet that we call the South pole can support more iron than the other pole in these Northern regions. 
 

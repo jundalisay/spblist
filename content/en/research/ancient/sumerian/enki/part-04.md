@@ -8,21 +8,44 @@ description: "He filled the E-kur, the house of Enlil, with goods of all sorts."
 
 
 
-1-8. In those remote days, when the fates were determined; in a year when An brought about abundance, and people broke through the earth like green plants -- then the lord of the abzu, King Enki the lord who determines the fates, built up his temple entirely from silver and lapis lazuli. 
+1-8. In those remote days, the fates were determined.
 
-Its silver and lapis lazuli were the shining daylight. Into the shrine of the abzu he brought joy.
+The lord of the abzu, King Enki the lord who determines the fates, built up his temple entirely from silver and lapis lazuli in the year when:
+- An brought about abundance, and
+- people broke through the earth like green plants
+
+The silver and lapis lazuli of the templer were the shining daylight.
+
+Into the shrine of the abzu he brought joy.
 
 
-9-17. An artfully made bright crenellation rising out from the abzu was erected for Lord Nudimmud. He built the temple from precious metal, decorated it with lapis lazuli, and covered it abundantly with gold. 
+9-17. An artfully-made bright crenellation rising out from the abzu was erected for Lord Nudimmud. 
 
-In Eridug, he built the house on the bank. Its brickwork makes utterances and gives advice. Its eaves roar like a bull; the temple of Enki bellows. During the night the temple praises its lord and offers its best for him.
+He built the temple from precious metal, decorated it with lapis lazuli, and covered it abundantly with gold. 
+
+In Eridug, he built the house on the bank. 
+
+Its brickwork makes utterances and gives advice*. 
+
+{{< n n="This is similar to the walls of UFOs being connected to a sentient supercomputer that can give advice like ChatGPT" >}}
+
+
+Its eaves roar like a bull. The temple of Enki bellows. 
+
+During the night, the temple praises its lord and offers its best for him.
 
 
 18-25. Before Lord Enki, Isimud the minister praises the temple.
 
-He goes to the temple and speaks to it. He goes to the brick building and addresses it: "Temple, built from precious metal and lapis lazuli; whose foundation pegs are driven into the abzu; which has been cared for by the prince in the abzu! 
+He goes to the temple and speaks to it. 
+
+He goes to the brick building and addresses it: 
+
+{{< r a="Isimud" >}}
+"Temple, built from precious metal and lapis lazuli; whose foundation pegs are driven into the abzu; which has been cared for by the prince in the abzu! 
 
 Like the Tigris and the Euphrates, it is mighty and awe-inspiring (?). Joy has been brought into Enki's abzu."
+{{< /r >}}
 
 
 26-32. "Your lock has no rival. 
@@ -66,10 +89,14 @@ The …… resounded by themselves with a sweet sound. The holy alĝar instrumen
 
 68-70. "What Enki says is irrefutable; …… is well established (?)."
 
-This is what Isimud spoke to the brick building; he praised the E-engura {with sweet songs} {(1 ms. has instead:) duly.}
+This is what Isimud spoke to the brick building..
+
+He praised the E-engura {with sweet songs} {(1 ms. has instead:) duly.}
 
 
-71-82. As it has been built, as it has been built; as Enki has raised Eridug up, it is an artfully built mountain which floats on the water. 
+71-82. As it has been built, as it has been built.
+
+As Enki has raised Eridug up, it is an artfully built mountain which floats on the water. 
 
 His shrine (?) spreads (?) out into the reedbeds; birds brood {(1 ms. adds:) at night} in its green orchards laden with fruit. The suḫur carp play among the honey-herbs, and the eštub carp dart among the small gizi reeds.
 
@@ -78,7 +105,9 @@ When Enki rises, the fish rise before him like waves. He has the abzu stand as a
 
 83-92. Like the sea, he is awe-inspiring; like a mighty river, he instils fear.
 
-The Euphrates rises before him as it does before the fierce south wind. His punting pole is {Nirah} {(some mss. have instead:) Imdudu}; his oars are the small reeds. When Enki embarks, the year will be full of abundance. 
+The Euphrates rises before him as it does before the fierce south wind. His punting pole is {Nirah} {(some mss. have instead:) Imdudu}; his oars are the small reeds. 
+
+When Enki embarks, the year will be full of abundance. 
 
 The ship departs of its own accord, with tow rope held (?) by itself. As he leaves the temple of Eridug, the river gurgles (?) to its lord: its sound is a calf's mooing, the mooing of a good cow.
 
@@ -119,5 +148,3 @@ My son, King Enki has built up the temple!
 He has made Eridug {rise up (?)} {(1 ms. has instead:) come out} from the ground like a mountain! 
 
 He has built it in a pleasant place, in Eridug, the pure place, where no one is to enter -- a temple built with silver and decorated with lapis lazuli, a house which tunes the seven tigi drums properly, and provides incantations; where holy songs make all of the house a lovely place -- the shrine of the abzu, the good destiny of Enki, befitting the elaborate divine powers; the temple of Eridug, built with silver: for all this, Father Enki be praised!"
-
-

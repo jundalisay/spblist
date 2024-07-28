@@ -8,13 +8,17 @@ image: /covers/mein.jpg
 ---
 
 
-I can vividly recall to mind the astonished looks of my comrades when they found themselves personally face to face for the first time with the Tommies in Flanders. 
+I can vividly recall the astonished looks of my comrades when they first fought face to face with the Tommies in Flanders. 
 
-After a few days of fighting, our soldiers realized that those Scotsmen were not like the ones we had seen described and caricatured in the comic papers and mentioned in the communiqués.
+After a few days of fighting, our soldiers realized that those Scotsmen were not like the ones we had seen:
+- caricatured in the comic papers
+- mentioned in the communiqués.
 
 It was then that I formed my first ideas of the efficiency of various forms of propaganda.
 
-Such a falsification, however, served the purpose of those who had fabricated it. This caricature of the Englishman was  false. But it could be used to prove the possibility of conquering the world peacefully by commercial means. Where the Englishman succeeded we should also succeed. 
+Such a falsification, however, served the purpose of those who had fabricated it. This caricature of the Englishman was false. 
+
+But it could be used to prove the possibility of conquering the world peacefully by commercial means. Where the Englishman succeeded we should also succeed. 
 
 Our far greater honesty and our freedom from that specifically English 'perfidy' would be assets on our side. Thereby it was hoped that the sympathy of the smaller nations and the confidence of the greater nations could be gained more easily.
 
@@ -22,11 +26,15 @@ We did not realize that our honesty was an object of profound aversion for other
 
 Once we understand the part played by that absurd notion of conquering the world by peaceful commercial means we can clearly understand how that other absurdity, the Triple Alliance, came to exist. With what State then could an alliance have been made? 
 
-In alliance with Austria we could not acquire new territory by military means, even in Europe. And this very fact was the real reason for the inner weakness of the Triple Alliance. A Bismarck could permit himself such a makeshift for the necessities of the moment, but certainly not any of his bungling successors, and least of all when the foundations no longer existed on which Bismarck had formed the Triple Alliance. 
+In alliance with Austria we could not acquire new territory by military means, even in Europe. And this very fact was the real reason for the inner weakness of the Triple Alliance. 
+
+A Bismarck could permit himself such a makeshift for the necessities of the moment, but certainly not any of his bungling successors, and least of all when the foundations no longer existed on which Bismarck had formed the Triple Alliance. 
 
 In Bismarck's time Austria could still be looked upon as a German State; but the gradual introduction of universal suffrage turned the country into a parliamentary Babel, in which the German voice was scarcely audible.
 
-From the viewpoint of racial policy, this alliance with Austria was simply disastrous. A new Slavic Great Power was allowed to grow up close to the frontiers of the German Empire. Later on this Power was bound to adopt towards Germany an attitude different from that of Russia, for example.
+From the viewpoint of racial policy, this alliance with Austria was simply disastrous. 
+
+A new Slavic Great Power was allowed to grow up close to the frontiers of the German Empire. Later on this Power was bound to adopt towards Germany an attitude different from that of Russia, for example.
 
 The Alliance was thus bound to become more empty and more feeble, because the only supporters of it were losing their influence and were being systematically pushed out of the more important public offices.
 
@@ -77,9 +85,7 @@ The alliance with the Habsburg Monarchy, which I loathed while still in Austria,
 
 In the small circles which I frequented at that time I did not conceal my conviction that this sinister agreement with a State doomed to collapse would also bring catastrophe to Germany if she did not free herself from it in time. I never for a moment wavered in that firm conviction, even when the tempest of the World War seemed to have made shipwreck of the reasoning faculty itself and had put blind enthusiasm in its place, even among those circles where the coolest and hardest objective thinking ought to have held sway. 
 
-In the trenches I voiced and upheld my own opinion whenever these problems came under discussion. I held that to abandon the Habsburg Monarchy would involve no sacrifice if Germany could thereby reduce the number of her own enemies; for the
-millions of Germans who had donned the steel helmet had done so not to fight for the
-maintenance of a corrupt dynasty but rather for the salvation of the German people.
+In the trenches I voiced and upheld my own opinion whenever these problems came under discussion. I held that to abandon the Habsburg Monarchy would involve no sacrifice if Germany could thereby reduce the number of her own enemies; for the millions of Germans who had donned the steel helmet had done so not to fight for the maintenance of a corrupt dynasty but rather for the salvation of the German people.
 
 Before the War there were occasions on which it seemed that at least one section of the German public had some slight misgivings about the political wisdom of the alliance with Austria. 
 

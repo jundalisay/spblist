@@ -1,7 +1,7 @@
 ---
 title: The Superiority of the Aryan Race
 heading: Chapter 11g
-weight: 80
+weight: 100
 description: "The Aryan race has been, and still is, the standard-bearer of human progress."
 author: Adolf Hitler
 image: /covers/mein.jpg
@@ -11,18 +11,14 @@ image: /covers/mein.jpg
 
 (h) At this stage a transformation began to take place in the world of Jewry. 
 
-Up to now they had been Jews--that is to say, they did not hitherto set any great value on pretending to be something else; and anyhow the distinctive characteristics which separated them from other races could not be easily overcome. Even as late as the time
-of Frederick the Great nobody looked upon the Jews as other than a 'foreign' people,
-and Goethe rose up in revolt against the failure legally to prohibit marriage between
-Christians and Jews. Goethe was certainly no reactionary and no time-server. What he
-said came from the voice of the blood and the voice of reason.
+Up to now they had been Jews--that is to say, they did not hitherto set any great value on pretending to be something else; and anyhow the distinctive characteristics which separated them from other races could not be easily overcome. 
 
-Notwithstanding the disgraceful happenings taking place in Court circles, the people recognized instinctively
-that the Jew was the foreign body in their own flesh and their attitude towards him was
+Even as late as the time of Frederick the Great nobody looked upon the Jews as other than a 'foreign' people, and Goethe rose up in revolt against the failure legally to prohibit marriage between Christians and Jews. Goethe was certainly no reactionary and no time-server. What he said came from the voice of the blood and the voice of reason.
+
+Notwithstanding the disgraceful happenings taking place in Court circles, the people recognized instinctively that the Jew was the foreign body in their own flesh and their attitude towards him was
 directed by recognition of that fact.
 
-But a change was now destined to take place. In the course of more than a thousand years the Jew had learned to master the language of his hosts so thoroughly that he considered he might now lay stress on his Jewish character and emphasize the
-'Germanism' a bit more. 
+But a change was now destined to take place. In the course of more than a thousand years the Jew had learned to master the language of his hosts so thoroughly that he considered he might now lay stress on his Jewish character and emphasize the 'Germanism' a bit more. 
 
 Though it must have appeared ridiculous and absurd at first sight, he was impudent enough to call himself a 'Teuton', which in this case meant a German. In that way began one of the most infamous impositions that can be imagined.
 
@@ -30,25 +26,19 @@ The Jew did not possess the slightest traces of the German character. He had onl
 
 Therefore his command of the language was the sole ground on which he could pretend to be a German. It is not however by the tie of language, but exclusively by the tie of blood that the members of a race are bound together.
 
-The Jew himself knows this  better than any other, seeing that he attaches so little importance to the preservation of
-his own language while at the same time he strives his utmost to maintain his blood
-free from intermixture with that of other races.
+The Jew himself knows this  better than any other, seeing that he attaches so little importance to the preservation of his own language while at the same time he strives his utmost to maintain his blood free from intermixture with that of other races.
 
-A man may acquire and use a new language without much trouble; but it is only his old ideas that he expresses through
-the new language. His inner nature is not modified thereby. The best proof of this is
-furnished by the Jew himself. He may speak a thousand tongues and yet his Jewish
-nature will remain always one and the same. His distinguishing characteristics were the
-same when he spoke the Latin language at Ostia two thousand years ago as a merchant
-in grain, as they are to-day when he tries to sell adulterated flour with the aid of his
-German gibberish. He is always the same Jew. 
+A man may acquire and use a new language without much trouble; but it is only his old ideas that he expresses through the new language. 
+
+His inner nature is not modified thereby. The best proof of this is furnished by the Jew himself. He may speak a thousand tongues and yet his Jewish nature will remain always one and the same. His distinguishing characteristics were the same when he spoke the Latin language at Ostia 2,000 years ago as a merchant in grain, as they are to-day when he tries to sell adulterated flour with the aid of his German gibberish. He is always the same Jew. 
 
 That so obvious a fact is not recognized by the average head-clerk in a German government department, or by an officer in the police administration, is also a self-evident and natural fact; since it would be difficult to find another class of people who are so lacking in instinct and intelligence as the civil servants employed by our modern German State authorities.
 
-The reason why, at the stage I am dealing with, the Jew so suddenly decided to transform himself into a German is not difficult to discover. He felt the power of the princes slowly crumbling and therefore looked about to find a new social plank on
-which he might stand. 
+The reason why, at the stage I am dealing with, the Jew so suddenly decided to transform himself into a German is not difficult to discover. He felt the power of the princes slowly crumbling and therefore looked about to find a new social plank on which he might stand. 
 
-Furthermore, his financial domination over all the spheres of economic life had become so powerful that he felt he could no longer sustain that
-enormous structure or add to it unless he were admitted to the full enjoyment of the 'rights of citizenship.' He aimed at both, preservation and expansion; for the higher he could climb the more alluring became the prospect of reaching the old goal, which was promised to him in ancient times, namely world-rulership, and which he now looked forward to with feverish eyes, as he thought he saw it visibly approaching. 
+Furthermore, his financial domination over all the spheres of economic life had become so powerful that he felt he could no longer sustain that enormous structure or add to it unless he were admitted to the full enjoyment of the 'rights of citizenship.' 
+
+He aimed at both, preservation and expansion; for the higher he could climb the more alluring became the prospect of reaching the old goal, which was promised to him in ancient times, namely world-rulership, and which he now looked forward to with feverish eyes, as he thought he saw it visibly approaching. 
 
 Therefore all his efforts were now directed to becoming a fully-fledged citizen, endowed with all civil
 and political rights.
@@ -68,41 +58,36 @@ humanity' to the poor victims whom they have skinned raw.
 
 Therefore the Jew began by making public amends for the crimes which he had committed against the people in the past. He started his metamorphosis by first appearing as the 'benefactor' of humanity. Since his new philanthropic policy had a very concrete aim in view, he could not very well apply to himself the biblical counsel, not to allow the left hand to know what the right hand is giving. He felt obliged to let as many people as possible know how deeply the sufferings of the masses grieved him and to what excesses of personal sacrifice he was ready to go in order to help them.
 
-With this manifestation of innate modesty, so typical of the Jew, he trumpeted his virtues before the world until finally the world actually began to believe him. Those who refused to share this belief were considered to be doing him an injustice. Thus after
-a little while he began to twist things around, so as to make it appear that it was he who
-had always been wronged, and vice versa.
+With this manifestation of innate modesty, so typical of the Jew, he trumpeted his virtues before the world until finally the world actually began to believe him. Those who refused to share this belief were considered to be doing him an injustice. 
+
+Thus after a little while he began to twist things around, so as to make it appear that it was he who had always been wronged, and vice versa.
 
 There were really some particularly foolish people who could not help pitying this poor unfortunate creature of a Jew.
-Attention may be called to the fact that, in spite of his proclaimed readiness to make
-personal sacrifices, the Jew never becomes poor thereby.
 
-He has a happy knack of always making both ends meet. Occasionally his benevolence might be compared to the
-manure which is not spread over the field merely for the purpose of getting rid of it, but
-rather with a view to future produce.
+Attention may be called to the fact that, in spite of his proclaimed readiness to make personal sacrifices, the Jew never becomes poor thereby.
+
+He has a happy knack of always making both ends meet. Occasionally his benevolence might be compared to the manure which is not spread over the field merely for the purpose of getting rid of it, but rather with a view to future produce.
 
 After a short time, the world was given to know that the Jew had become a general benefactor and philanthropist. What a transformation!
 
 What is looked upon as more or less natural when done by other people here became an object of astonishment, and even sometimes of admiration, because it was considered so unusual in a Jew. That is why he has received more credit for his acts of benevolence
 than ordinary mortals.
 
-The Jew became liberal all of a sudden and began to talk enthusiastically of how human progress must be encouraged. Gradually he assumed
-the air of being the herald of a new age. 
+The Jew became liberal all of a sudden and began to talk enthusiastically of how human progress must be encouraged. Gradually he assumed the air of being the herald of a new age. 
 
-Yet at the same time he continued to undermine the ground-work of that part of the economic system in which the people have the most practical interest. He bought up stock in the various national undertakings and thus pushed his influence into the circuit
-of national production, making this latter an object of buying and selling on the stock exchange, or rather what might be called the pawn in a financial game of chess, and thus ruining the basis on which personal proprietorship alone is possible. Only with the
-entrance of the Jew did that feeling of estrangement, between employers and employees
-begin which led at a later date to the political class-struggle.
+Yet at the same time he continued to undermine the ground-work of that part of the economic system in which the people have the most practical interest. 
 
-Finally the Jew gained an increasing influence in all economic undertakings by means
-of his predominance in the stock-exchange. If not the ownership, at least he secured
-control of the working power of the nation. 
+He bought up stock in the various national undertakings and thus pushed his influence into the circuit of national production, making this latter an object of buying and selling on the stock exchange, or rather what might be called the pawn in a financial game of chess, and thus ruining the basis on which personal proprietorship alone is possible. 
+
+Only with the entrance of the Jew did that feeling of estrangement, between employers and employees begin which led at a later date to the political class-struggle.
+
+Finally, the Jew gained an increasing influence in all economic undertakings by means of his predominance in the stock-exchange. If not the ownership, at least he secured control of the working power of the nation. 
 
 In order to strengthen his political position, he directed his efforts towards removing the barrier of racial and civic discrimination which had hitherto hindered his advance at every turn. 
 
 With characteristic tenacity he championed the cause of religious tolerance for this purpose; and in the freemason organization, which had fallen completely into his hands, he found a magnificent weapon which helped him to achieve his ends.
-Government circles, as well as the higher sections of the political and commercial
-bourgeoisie, fell a prey to his plans through his manipulation of the masonic net,
-though they themselves did not even suspect what was happening.
+
+Government circles, as well as the higher sections of the political and commercial bourgeoisie, fell a prey to his plans through his manipulation of the masonic net, though they themselves did not even suspect what was happening.
 
 Only the people as such, or rather the masses which were just becoming conscious of their own power and were beginning to use it in the fight for their rights and liberties, had hitherto escaped the grip of the Jew. At least his influence had not yet penetrated to
 the deeper and wider sections of the people.

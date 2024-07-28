@@ -1,7 +1,7 @@
 ---
 title: The First Stage In The Development Of Nazi Party
 heading: Chapter 12
-weight: 86
+weight: 110
 description: "All great reforms in the beginning only has one protagonist to come forward on behalf of several millions of people"
 author: Adolf Hitler
 image: /covers/mein.jpg
@@ -23,8 +23,7 @@ hundreds of thousands who have fundamentally the same longing, though in the
 individual cases they cannot find adequate words to describe the vision that hovers
 before their eyes. It is a characteristic feature of  -->
 
-All great reforms in the beginning only has one protagonist to come forward on behalf of several millions of
-people.
+All great reforms in the beginning only has one protagonist to come forward on behalf of several millions of people.
 
 <!-- The final goal of a great reformation has often been the object of profound
 longing on the parts of hundreds of thousands for many centuries before, until finally
@@ -130,6 +129,3 @@ Britain will therefore be the most valuable ally in the world as long as it:
  <!-- that it once enters upon, no matter how long such a struggle may last, or however great the sacrifice that may be necessary or whatever the means that have to be employed;  -->
 
 All this even though the actual military equipment at hand may be utterly inadequate when compared with that of other nations.
-
-
-

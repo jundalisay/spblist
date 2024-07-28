@@ -6,7 +6,7 @@ description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
@@ -37,7 +37,7 @@ Thus, the matter of the Sun boils from both poles toward the equator.
 These must expel its striated particles and all others that easily stick to each other and hardly obey its common motion, just like foam.
 
 
-### 95. Understanding the principal properties of these spots
+#### 95. Understanding the principal properties of these spots
 
 This is why Sunspots:
 - usually do not appear around its poles but rather in parts near the ecliptic
@@ -45,7 +45,7 @@ This is why Sunspots:
 - move in orbit around the Sun’s poles, if not as quickly as its substance, at least along with the part of the sky closest to it.
 
 
-### 96. How These Spots Dissolve and New Ones Are Generated
+#### 96. How These Spots Dissolve and New Ones Are Generated
 
 Most liquids reabsorb the same foam which they initially emit while boiling longer.
 
@@ -62,14 +62,14 @@ The rest of the matter, which has remained in it longer and is, cooked and refin
 Hence, they do not all appear in the same places. And indeed, the entire surface of the Sun, except for the circumpolar regions, is usually covered with the matter from which they are composed; But the spots are said to exist only where that matter is so dense and compact that it notably weakens the light coming from the Sun.
 
 
-### 97. Why Rainbow Colors Appear at the Extremity of Some Spots
+#### 97. Why Rainbow Colors Appear at the Extremity of Some Spots
 
 When these spots are thicker and denser they are worn down first at their circumference rather than in the middle, by the purer matter of the Sun flowing around them.
 
 Thus, the ends of their circumference, tapering to a point, become permeable to its light: hence, they must be painted there with the colors of the rainbow, as I explained earlier about the glass prism in Meteors, chapter 8. And such colors are sometimes observed in them.
 
 
-### 98. How Spots Turn into Faculae or Vice Versa
+#### 98. How Spots Turn into Faculae or Vice Versa
 
 It often happens that the Sun's matter, flowing around these spots, rises above their extremities; then, being intercepted between them and the surface of the nearby sky, it is compelled to move more swiftly than usual: in the same way that the rapidity of rivers is always greater in shallow and narrow places than in wide and deep ones. 
 
@@ -78,7 +78,7 @@ Hence, the Sun's light there must be somewhat stronger. Thus, spots are often co
 And vice versa, faculae are seen to turn into spots, when these are submerged in the more subtle matter of the Sun on one side, while a large amount of new matter attaches to them on the other side.
 
 
-### 99. Into What Particles the Spots Dissolve
+#### 99. Into What Particles the Spots Dissolve
 
 When these spots dissolve, they do not turn into minutiae exactly similar to those from which they were formed. Instead, they partly transform into thinner and simultaneously more solid particles, or those with less angular shapes, which are more suited for motion and therefore easily move through the channels between the globules of the surrounding sky towards other vortices. 
 

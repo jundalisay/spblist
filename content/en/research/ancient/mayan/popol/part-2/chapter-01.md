@@ -12,16 +12,20 @@ Now we shall also tell the name of the father of Hunahpú and Xbalanqué.
 
 We shall not tell his origin and we shall not tell the history of the birth of Hunahpú and Xbalanqué. We shall tell only half of it, only a part of the history of his father.
 
-Here is the story. Here are the names of Hun-Hunahpú [and Vucub-Hunahpú], as they are called. Their parents were Xpiyacoc and Xmucané. During the night Hun-Hunahpú and Vucub-Hunahpú were born of Xpiyacoc and Xmucané.
+Here is the story. 
 
-Well now, Hun-Hunahpú had begotten 2 sons:
+Here are the names of Hun-Hunahpú [and Vucub-Hunahpú], as they are called. Their parents were Xpiyacoc and Xmucané. 
+
+During the night Hun-Hunahpú and Vucub-Hunahpú were born of Xpiyacoc and Xmucané.
+
+Hun-Hunahpú had begotten 2 sons:
 
 1. Hunbatz
 2. Hunchouén
 
 The mother of the two sons was called Xbaquiyalo, the wife of Hun-Hunahpú.
 
-The other son, Vucub-Hunahpú, he had no wife; he was single.
+The other son, Vucub-Hunahpú, he had no wife. He was single.
 
 By nature these two sons were very wise. 
 
@@ -43,19 +47,22 @@ All of them held a council. Those called Hun-Camé and Vucub-Camé were the supr
 
 They were, then, Xiquiripat and Cuchumaquic lords of these names. They were the two who caused the shedding of blood of the men.
 
-Others were called Ahalpuh and Ahalganá, also lords. And their work was to make men swell and make pus gush forth from their legs and stain their faces yellow, what is called Chuganal. Such was the work of Ahalpuh and Ahalganá.
+Others were called Ahalpuh and Ahalganá, also lords.
 
-Others were Lord Chamiabac and Lord Chamiaholom, constables of Xibalba, whose staffs were of bone. Their work was to make men waste away until they were nothing but skin and bone and they died, and they carried them with their stomach and bones stretched out. This was the work of Chamiabac and Chamiaholom, as they were called.
+Their work was to make men swell and make pus gush forth from their legs and stain their faces yellow, what is called Chuganal. Such was the work of Ahalpuh and Ahalganá.
+
+Others were Lord Chamiabac and Lord Chamiaholom, constables of Xibalba, whose staffs were of bone. 
+
+Their work was to make men waste away until they were nothing but skin and bone and they died, and they carried them with their stomach and bones stretched out. This was the work of Chamiabac and Chamiaholom, as they were called.
 
 Others were called Lord Ahalmez and Lord Ahaltocob; their work was to bring disaster on men, as they were going home, or in front of it, and they would be found wounded, stretched out, face up, on the ground, dead. This was the work of Ahalmez and Ahaltocob, as they were called.
 
-Immediately after them were other lords named Xic and Patán whose work it was to cause men to die on the road, which is called sudden death, making blood to rush to their mouths until they died vomiting blood. The work of each one of these lords was to seize upon them, squeeze their throats and chests, so that the men died on the road, making the blood rush to their throats when they were walking. This was the work of Xic and Patán.
+Immediately after them were other lords named Xic and Patán whose work it was to cause men to die on the road, which is called sudden death, making blood to rush to their mouths until they died vomiting blood. 
+
+The work of each one of these lords was to seize upon them, squeeze their throats and chests, so that the men died on the road, making the blood rush to their throats when they were walking. This was the work of Xic and Patán.
 
 And having gathered in council, they discussed how to torment and wound Hun-Hunahpú and Vucub-Hunahpú. What the Lords of Xibalba coveted were the playing implements of Hun-Hunahpú and Vucub-Hunahpú--their leather pads and rings and gloves and crown and masks which were the playing gear of Hun-Hunahpú and Vucub-Hunahpú.
 
 Now we shall tell of their journey to Xibalba and how they left behind them the sons of Hun-Hunahpú, Hunbatz, and [Hun] Chouén, whose mother had died.
 
 Then we shall tell how Hunbatz and Hunchouén were overcome by Hunahpú and Xbalanqué.
-
-
-

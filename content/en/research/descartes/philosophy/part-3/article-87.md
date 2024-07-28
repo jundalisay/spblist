@@ -6,7 +6,7 @@ description: "Those slowest of the small parts easily transfer to others what li
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 aliases:
   /research/descartes/philosophy/part-3/article-88

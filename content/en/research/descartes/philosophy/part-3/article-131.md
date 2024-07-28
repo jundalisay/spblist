@@ -6,7 +6,7 @@ description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
@@ -33,8 +33,8 @@ The light from comets are much weaker than that from fixed stars.
 
 They do not have enough strength to move our eyes unless they are seen at a sufficiently large angle.*
 
-> *Superphysics Note: Here, the reason why we cannot see distant things is that the power of their light is to weak to push our eyes. This is further explained by "animal spirits" in Descartes' Treatise on Man. This can help us detect those distant objects better metapyhsically. 
-
+{{< n n="Here, the reason why we cannot see distant things is that the power of their light is to weak to push our eyes. This is further explained by 'animal spirits' in Descartes' Treatise on Man. This can help us detect those distant objects better metapyhsically." >}}
+ 
 
 
 The farther a body is, the smaller the angle under which it is seen. This is why they are not visible when they are too far from our sky.
@@ -76,7 +76,8 @@ This is the same reason why extinguished charcoal appears black. Its entire surf
 
 When these softer particles are separated by the force of fire, the black charcoal turns into ashes composed only of hard* and solid particles, and therefore white. 
 
-> *Superphysics Note: Here, soft means less matter density and hard means more density. So charcoal is soft and black, and a diamond is hard and white
+{{< n n="Here, soft means less matter density and hard means more density. So charcoal is soft and black, and a diamond is hard and white" >}}
+
 
 <!-- No bodies are more suitable  than  -->
 

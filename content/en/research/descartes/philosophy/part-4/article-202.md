@@ -6,7 +6,7 @@ description: "The philosophy of Democritus is not less different from ours than 
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-13

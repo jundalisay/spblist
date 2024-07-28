@@ -1,6 +1,6 @@
 ---
 heading: "Tablet 2"
-title: "Ansar Urges Ea to Fight Tiamat"
+title: "Ansar Urges Ea [Enki] to Fight Tiamat"
 weight: 6
 image: "/covers/enuma.jpg"
 description: "To avenge Apsu, Tiamat planned evil"
@@ -13,9 +13,9 @@ Evil she wrought against the gods her children.
 
 To avenge Apsu, Tiamat planned evil.
 
-But how she had collected her forces, the god unto Ea divulged.
+But how she had collected her forces, the god unto Ea [Enki] divulged.
 
-Ea harkened to this thing
+Ea [Enki] harkened to this thing
 
 He was grievously afflicted and he sat in sorrow.
 
@@ -25,7 +25,7 @@ And to the place of Ansar his father he took his way.
 
 He went and, standing before Ansar, the father who begat him.
 
-Ea repated Tiamat's plot to him. 
+Ea [Enki] repated Tiamat's plot to him. 
 
 <!-- All that Tiamat had plotted he repeated unto him,
 

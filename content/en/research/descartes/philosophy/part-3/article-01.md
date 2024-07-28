@@ -6,15 +6,15 @@ description: "The duration alone of our life is sufficient to demonstrate the ex
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-3/section-01
+# aliases:
+#   /research/descartes/philosophy/part-3/section-01
 ---
 
 
 
-### 1. The works of God cannot be thought of as too vast.
+#### 1. The works of God cannot be thought of as too vast.
 
 The principles of material things are derived not from the prejudices of the senses, but from the light of reason in such a way that we cannot doubt their truth.
 
@@ -43,7 +43,7 @@ But first we must consider 2 things:
 
 
 
-### 2. We should not think too highly of ourselves 
+#### 2. We should not think too highly of ourselves 
 
 2. We tend to put limits to the world, without being assured of their existence either:
 - by natural reasons or
@@ -61,7 +61,7 @@ It will lead us to believe that:
 <!-- ; but likewise still more if we persuaded ourselves that , or if we merely supposed that we could comprehend by the power of  -->
 
 
-### 3. How were all things were created for the sake of man?
+#### 3. How were all things were created for the sake of man?
 
 
 Morally, it may be pious to believe that God made all things for us. It can incite us to be more thankful and loving towards him.
@@ -74,7 +74,7 @@ But this supposition would be plainly ridiculous and inept in physical reasoning
  <!-- , for we do not doubt but that many things exist, or formerly existed and have now ceased to be, which were never seen or known by man, and were never of use to him. -->
 
 
-### 4. Phenomena and experiments, and their use in philosophy. 
+#### 4. Phenomena and experiments, and their use in philosophy. 
 
 <!-- The principles we have already discovered are so vast and fruitful that far more follows from them than we see contained in this visible world; indeed, far more than our minds can ever survey in thought. But now we will set before ourselves  -->
 
@@ -84,7 +84,7 @@ The following is a brief history of the principal phenomena of nature. I will in
 
 
 
-### 5. To us, at first glance, the Earth appears much larger than all other bodies in the universe
+#### 5. To us, at first glance, the Earth appears much larger than all other bodies in the universe
 
 The Sun and Moon seem to be much smaller than the Earth, but not so small as to be imperceptible. 
 
@@ -95,7 +95,7 @@ These calculations are based on the apparent diameters of the Sun and Moon, whic
 <!-- Nobis quidem, primo intuitu, Terra caeteris omnibus mundi corporibus multô major effe videtur, & Sol & Luna caeteris ftellis fed vifûs defe&um indubitatis emendantes, inprimis advertimus Lunae à Terra diftantiam circiter triginta Terrae diametros ratiociniis aequare, Solis verô fexcentas aut feptingentas. Quas cum apparentibus Solis & Lunae diametris conferentes, facile ex ipfis colligimus, Lunam quidem diftantias ef[e multô minorem Terra, fed Solem elfe multô majorent. -->
 
 
-### 6. What is the distance of the planets from the Sun?
+#### 6. What is the distance of the planets from the Sun?
 
 Mercury is more than 200 Earth diameters away from the Sun.
 
@@ -110,7 +110,7 @@ Saturn is 5-6,000.
 <!-- Agnofcimus etiam, vifu ratione adjuto, Mercurium plus ducentis Terrae diametris à Sole diftare Venerem plus quadringentis Martem noningentis aut mille Jovem tribus millibus & ampliùs; ac Saturnum quinque aut fex millibus. -->
 
 
-### 7. The fixed stars are not too near.
+#### 7. The fixed stars are not too near.
 
 <!-- As for the fixed stars, the phenomena do not allow us to believe that they are no more distant from the Sun or Earth than Saturn is, but  -->
 
@@ -123,7 +123,7 @@ It is inferred from the motions of the heavens, explained below, that they are s
 Quantum autem ad Fixas, non permittunt quidem phaenomena, ut ipfas à Sole aut Terra non magis quàm Saturnum diftare arbitremur; fed nulla obftant, quominùs ad quantumlibet immenfam diftantiam recolligiturque ex motibus motas effe fupporimus: colligiturque ex motibus coeli infrà explicandis eas à nobis effe adeô diftantes, ut Saturnus ad ipfas comparatus videatur admodum propinquus. -->
 
 
-### 8. The Earth is not visible from the sky, nor does it appear to be a planet, nor is it comparable to Jupiter or Saturn. 
+#### 8. The Earth is not visible from the sky, nor does it appear to be a planet, nor is it comparable to Jupiter or Saturn. 
 
 The Moon and Earth are smaller compared to Jupiter or Saturn, as Jupiter or Saturn are smaller compared to the Sun.
 
@@ -135,79 +135,4 @@ And so, we should not compare the Moon, or Earth, or Sun, to the stars in terms 
 
 Ex quibus manifeftum eft, Lunam & Terram, fi ex Jove vel Saturno confpicerentur, multô minores effe apparituras,quàm appareant Jupiter & Saturnus e Terra confpedi nec forte etiam Solem majorem vifum iri, fi refpiceretur ex Fixis, quàm Fixée nobis è Terra videntur : atque idcirco, ut fine prasjudicio partes mundi afpedabilis inter fe comparemus, cavendum
 effe ne Lunam, vel Terram, vel Solem magnitudine Stellas fuperare arbitremur. -->
-
-
-
-
-23. All the fixed stars are not visible in the same sphere, but each one has its own proper place and distance from the others. 
-
-If the Sun were in the same sphere as the fixed stars, all of them would be visible in a single circumference, as many suppose, because they cannot be in the same circumference as the Sun. 
-
-But, just as the Sun has a vast space around it, in which no fixed star is contained, so too each individual fixed star is very remote from all the others, and much more so than the others, both from us and from the Sun.
-
-Therefore, in this figure, if S represents the Sun, F represents the fixed stars, and the others are innumerable, both above and below, and beyond this figure's plane, they can be understood to be scattered throughout all the dimensions of space.
-
-
-<!-- 23. Fixas omnes in eâdem fphœrâ non verfari, sed unamquamqur vaftum fpatium circa se habere, aliis Fixis destitutum.
-
-Hîcque notandum est, si Sol in fitu non différât à Fixis, ipfas omnes in unius alicujus fphaerœ circumferentiâ non verfari, quemadmodum multi fupponunt, quia ille in eâdem istâ shaerae circumferentiâ esse non potest. Sed, ut Sol vastum quoddam circa fe spatium habet, in quo nulla Stella fixa continetur : ita singulae Fixae ab omnibus aliis valde remotse effe debent, & unae multô magis quàm aliœ, à nobis & à Sole diftare.
-Sic in hac figura, si S sit Sol, F ferunt Stellae fixae; atque aliae innumerse, fuprà & infrà, & ultra hujus figurae planum, per omnes fpatii dimenfiones fparfae intelligentur -->
-
-
-
-### 24. The heavens are fluid. 
-
-3. The Sun, fixed stars, and the entire material of the sky is fluid, as all astronomers now admit. This is because they observe that the phenomena of the planets cannot be explained in any other way. 
-
-This is a fact that has been acknowledged by all astronomers, and it is a matter of great wonder how the heavens, which appear to be so solid and unchanging, are in reality fluid and in constant motion.
-
-
-<!-- The heavens -->
-### 25. Outer space contain all bodies within themselves and carry them along. 
-
-However, many people mistakenly think that outer space is a vast, empty space.
-
-<!--  in this regard. 
-
-They attribute fluidity to the sky, imagining it to be  
-
-Thus, they do not realize that it has no power to move other bodies or to resist their motion.  -->
-
-**In fact, there is no such thing as a vacuum in nature.** 
-
-All bodies are fluid and do not resist the motion of other bodies. Instead, they themselves have motion.
-<!-- have this in common, that they  -->
-
-
-This motion is easily transmitted to all parts. 
-
-This is why its force, once it is determined in one part, necessarily carries along all other bodies that are contained within it.
-
-This is regardless of any external cause that might retain them, as has been shown above.
-
-<!-- 25. Caelos omnia corpora in se contenta secum deferre. Sed in hoc multi mihi videntur errare, quôd fluiditatem cœlo tribuentes, illud tanquam fpatium plané vacuum imaginentur, ita ut motibus quidem aliorum corporum non reûftat, fed praeterea nullam habeat vim ad ipfa fecum deferenda neque enim in rerum naturâ ullum taie vacuum efle poteft, ac fluidis omnibus hoc eft commune, ut ideô tantùm non refiftant aliorum corporum motibus, quôd in feipfis etiam habeant motum. Et quia hic motus facile in omnes partes determinatur, ejus vi, cùm in unam aliquam partem est determinatus, necessariô fecum deferunt alia omnia corpora in fe contenta, quae à nullâ caufâ externâ retinentur, quantumvis ipsa  fint folida & quiefcentia & dura ut ex antè dictis est manifeftum. -->
-
-<!-- 24. Caelos efle fluidos. Tertio, putandum eft, non tantùm Solis & Fixarum, fed totius etiam cœli materiam fluidam efle, five liquod jam vulgô omnes Aftronomi concedunt, quia vident phaenomena Planetarum vix aliter quidam: pofle explicari. -->
-
-<!-- the sky -->
-### 26. The Earth is carried in space, but nothing can be carried from it. 
-
-4. The Earth has no columns or supports.
-
-<!-- sky -->
-It is surrounded by a fluid space on all sides. We can say that it is carried. 
-
-It has no propensity to move when we do not perceive it.
-
-<!-- sky -->
-But let us not think that this is an obstacle, for the space  carries it and its motion is not hindered.
-
-A ship, driven by no winds nor oars, lies motionless in the middle of the sea. 
-- A huge mass of water, hidden by the darkness, slowly consumes it. 
-
-<!-- sky -->
-Likewise, the Earth is carried by the space and unaided by any external force, silently and imperceptibly moves along its course.
-
-<!-- 26 Terram in cœlo fuo quiefcere, fed nihilominus ab eo deferri. Quarto, cùm videamus Terram nullis columnis fuffultam, nullifque funibus appenfam, fed circumquaque fluidiffimo tantùm cœlo cindam efle, putemus quidem illam quiefcere, ac nullam habere propenfionem ad motum, quandoquidem nullam advertimus. Sed ne putemus hoc obftare, quominùs ab ifto cœlo deferatur, & ejus motibus immota obfequatur ut navis, nullis ventis nec remis impulfa, nullifque anchoris alligata, in medio mari quiefcit, etfi forte aquae ingens moles, occulto curfu delabens, ipfam fecum ferat. -->
-
 

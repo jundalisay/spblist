@@ -7,8 +7,6 @@ description: "To avenge Apsu, Tiamat planned evil"
 ---
 
 
-THE THIRD TABLET
-
 Ansar spoke to Gaga, his minister:
 
 "O Gaga, thou minister that rejoicest my spirit,
@@ -78,12 +76,11 @@ Whoso is exalted in the battle, let him display his might!" -->
 I sent Anu, but he could not withstand her;
 Nudimmud was afraid and turned back.
 
-But Marduk hath set out, the director of the gods, your son;
+But Marduk hath set out, the director of the gods, your [Enki's] son.
+
 To set out against Tiamat his heart hath prompted him.
 
-He opened his mouth and spake unto me, saying: "If I, your avenger,
-Conquer Tiamat and give you life,
-Appoint an assembly, make my fate preeminent and proclaim it.
+He opened his mouth and spake unto me, saying: "If I, your avenger, conquer Tiamat and give you life, appoint an assembly, make my fate preeminent and proclaim it.
 
 In Upsukkinaku seat yourself joyfully together;
 With my word in place of you will I decree fate.
@@ -92,4 +89,3 @@ May whatsoever I do remain unaltered,
 May the word of my lips never be changed nor made of no avail."'
 Hasten, therefore, and swiftly decree for him the fate which you bestow,
 That he may go and fight your strong enemy.
-

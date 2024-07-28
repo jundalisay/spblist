@@ -6,27 +6,53 @@ description: "There exists a certain object extended in length, breadth, and thi
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
-### 8. Quantity and number differ only in thought (RATIONE) from that which has quantity and is numbered
+#### 8. Quantity and number differ only in our minds
 
-**Quantity differs from extended substance, and number from what is numbered, not in reality but merely in our thought.**
+ <!-- (RATIONE)  -->
 
-For example, we may consider the whole nature of a corporeal substance which occupies a space of 10 feet, even if we do not measure the 10 feet.
+<!-- from that which has quantity and is numbered -->
 
-This is because the thing conceived is of the same nature in any part of that space as in the whole. 
+<!-- **Quantity differs from extended substance, and number from what is numbered, not in reality but merely in our thought.** -->
 
-On the other hand, we can conceive the number 10, as also a continuous quantity of 10 feet, without thinking of this determinate substance. This is because the concept of the number 10 is manifestly the same whether we consider a number of 10 feet or 10 of anything else.
+The following are different only in our minds, but not in physical reality:
+- Actual quantity-thought versus metaphysical quantity-idea
+- Actual numbered-thought versus metaphysical number-idea
 
-We can conceive a continuous quantity of 10 feet without thinking of this or that determinate substance, although we cannot conceive it without some extended substance of which it is the quantity. 
+For example, we see a log that we estimate to measure 10 feet.*
+- The 10-feet-estimate is our thought of its occupied space which is different from our ideal [substance] of 10 feet of space.
+- Yet in reality, we do not make a distinction between both
+  - This is because the thing conceived is of the same nature in any part of that space as in the whole.
+ <!-- may consider the whole nature of a corporeal substance which occupies a space of 10 feet, even if we do not measure the 10 feet. -->
+
+{{< n n="This is spacetime">}}
+
+
+On the other hand, without thinking of this determinate substance, we can conceive both*:
+- the number 10
+- 10 feet (as a continuous quantity)
+
+ <!-- of 10 feet, .  -->
+
+{{< n n="This is timespace">}}
+
+This is because the concept of the number 10 is the same in 10 feet, 10 things, etc. 
+
+ <!-- whether we consider a number of 10 feet or 10 of anything else. -->
+
+We can conceive a continuous quantity of 10 feet without thinking of this or that determinate substance, 
+
+Although we cannot conceive 10 feet without some extended substance of which it is the quantity. 
 
 It is in reality, however, impossible that any, even the least part, of such quantity or extension, can be taken away, without the retrenchment at the same time of as much of the substance, nor, on the other hand, can we lessen the substance, without at the same time taking as much from the quantity or extension.
 
 
-<!-- ### 9. Corporeal substance, when distinguished from its quantity, is confusedly conceived as something incorporeal. -->
+<!-- ### 9. Corporeal substance, wh
+  en distinguished from its quantity, is confusedly conceived as something incorporeal. -->
 
 <!-- Although perhaps some express themselves otherwise on this matter, I am nevertheless convinced that they do not think differently from what I have now said: for -->
 
@@ -37,7 +63,7 @@ It is in reality, however, impossible that any, even the least part, of such qua
 
 
 
-### 9. Physical matter, when distinguished from metaphysical quantity, is confusedly conceived as something metaphysical.
+#### 9. Physical matter, when distinguished from metaphysical quantity, is confusedly conceived as something metaphysical.
 
 
 When people distinguish physical matter from metaphysical space or number, they either:
@@ -48,7 +74,7 @@ Then they leave to metaphysical space the true idea of this physical matter.
 - This metaphysical space they call an accident. But this means that their words are not in harmony with their thoughts.  
 
 
-### 10. What is space or internal place?
+#### 10. What is space or internal place?
 
 
 <!-- corporeal substance -->
@@ -69,7 +95,7 @@ Their only difference is that **we see the space occupied by the body as differe
 
 ## Physical Space Versus Metaphysical Space
 
-### 11. Space, in reality, is not different from corporeal substance
+#### 11. Space, in reality, is not different from corporeal substance
 
 It is the same extension which constitutes the nature of body as of space.
 
@@ -94,7 +120,7 @@ After this examination, we find that nothing remains in the idea of body, except
 
 
 
-### 12. Space differs from body in our mode of conceiving it.
+#### 12. Space differs from body in our mode of conceiving it.
 
 There is, however, some difference between them in the mode of conception.
 

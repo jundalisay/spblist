@@ -6,10 +6,10 @@ description: "Understanding the effort towards motion in inanimate objects"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-3/article-56
+# aliases:
+#   /research/descartes/philosophy/part-3/article-56
 ---
 
 
@@ -73,8 +73,7 @@ Let us compare the motion of:
 - an ant at the same point `A` also moving towards C if the line `EY` were a stick.
 
 {{< box >}}
-#### Superphyics Note:
-
+**Superphyics Note:**
 The fire-aether moves instantly and explosively like the rock on the sling. This leads to **one** explosive motion:
 - This explosive motion is the release of the rock from the sling on straight lines from the edge of the vortex which is the surface of a star. 
 
@@ -122,7 +121,7 @@ Also, compare the force by which the same stone, acted upon in the sling along t
 Thus it moves away from the `Center E` along the straight lines `EAY`, `EBY`, and similar. -->
 
 
-### 59. The magnitude of this effort
+#### 59. The magnitude of this effort
 
 The ant's motion will be very slow initially. Therefore its effort, if considered only at the start of the motion, might not seem significant.
 

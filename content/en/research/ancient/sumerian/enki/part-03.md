@@ -96,7 +96,11 @@ Niĝir-sig, the captain of my barge, holds the golden sceptre for me. I am Enki!
 
 123-130. "I will admire its green cedars. Let the lands of Meluḫa, Magan and Dilmun look upon me, upon Enki. 
 
-Let the Dilmun boats be loaded (?) with timber. Let the Magan boats be loaded sky-high. Let the magilum boats of Meluḫa transport gold and silver and bring them to Nibru for Enlil, king of all the lands."
+Let the Dilmun boats be loaded (?) with timber. 
+
+Let the Magan boats be loaded sky-high. 
+
+Let the magilum boats of Meluḫa transport gold and silver and bring them to Nibru for Enlil, king of all the lands."
 
 
 131-133. He presented animals to those who have no city, to those who have no houses, to the Martu nomads.

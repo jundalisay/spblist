@@ -6,12 +6,12 @@ description: "The 1st element flows from the poles of each vortex towards the ce
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
-### 82. The Smaller Size and Faster Movement of Air-Aether Near the Sun, Compared to Those Further Away, Up to a Certain Distance Beyond Which All Are Equal in Size and Move Faster the Further They Are from the Sun
+#### 82. The Smaller Size and Faster Movement of Air-Aether Near the Sun, Compared to Those Further Away, Up to a Certain Distance Beyond Which All Are Equal in Size and Move Faster the Further They Are from the Sun
 
 Those air-aether closest to the center of each vortex are smaller and move faster than those slightly farther away. This goes on up to a certain limit. 
 
@@ -28,7 +28,7 @@ They gradually increase in size up to the surface of the spheroid `HNQR`, beyond
 Those on this surface HNQR move the slowest of all, so that perhaps the particles at HQ take thirty years or even more to complete one circuit around the poles AB, while those above towards M and Y, and below towards e and g, move faster, completing their circuits within a few weeks.
 
 
-### 83. Why the Most Distant Particles Move Faster Than Those Slightly Closer
+#### 83. Why the Most Distant Particles Move Faster Than Those Slightly Closer
 
 First, the upper ones towards `M` and `Y` must move faster than the lower ones towards H and Q. 
 
@@ -49,7 +49,7 @@ We have no experience of it except in comets, which I will show below migrate fr
 Nor can we determine the slowness of the circle HQ except from the motion of Saturn, which I will demonstrate is within or below it.
 
 
-### 84. Why Those Nearest the Sun Also Move Faster Than Those Slightly Further Away
+#### 84. Why Those Nearest the Sun Also Move Faster Than Those Slightly Further Away
 
 The circumvolution of solar matter sweeps all the adjacent part of the sky along with it.
 
@@ -68,7 +68,7 @@ This motion is stronger in the ecliptic than towards the poles. Therefore, `H` a
 Hence, the reason will be given below why the tails of comets sometimes appear straight and sometimes curved.
 
 
-### 85. Why Those Near the Sun Are Smaller Than Those Farther Away
+#### 85. Why Those Near the Sun Are Smaller Than Those Farther Away
 
 <!-- celestial matter -->
 Within the limit HQ, the lower particles of air-aether move faster than the upper ones, they must also be smaller.

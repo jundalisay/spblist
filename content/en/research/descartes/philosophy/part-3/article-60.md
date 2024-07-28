@@ -6,7 +6,7 @@ description: "This effort found in celestial matter"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
@@ -46,7 +46,7 @@ For even if we imagined that initially there were more globules in the straight 
 
 
 
-### 61. Demonstration on how the Sun and the Fixed Stars are round
+#### 61. Demonstration on how the Sun and the Fixed Stars are round
 
 All the air-aether globules that revolve around `S` in `Vortex AEI` try to move away from `S`.
 
@@ -74,7 +74,7 @@ This makes the space BCD, which they leave around it, round.
 
 
  <!-- celestial matter all points of-->
-### 62. The same effect causes the air-aether to try to move away from the circumference of any star
+#### 62. The same effect causes the air-aether to try to move away from the circumference of any star
 
 
 All the globules in the straight line `SE` press one another towards `E` 
@@ -101,7 +101,7 @@ If the place F were empty, all the globules in the space BFD would simultaneousl
 Just as we see the same force of gravity that directly leads a falling stone in free air to the center of the Earth also carrying it there obliquely when its direct motion is hindered by the slope of a plane, there is no doubt that the same force by which all the globules in the space `BFD` try to move away from the center S along the straight lines drawn from that center is sufficient to also move them away from it along lines declining from that center.
  -->
  <!-- of celestial matter -->
-### 63. The air-aether globules do not impede each other in this effort.
+#### 63. The air-aether globules do not impede each other in this effort.
 
 <!-- This example of gravity will clearly explain the matter if we consider   -->
 

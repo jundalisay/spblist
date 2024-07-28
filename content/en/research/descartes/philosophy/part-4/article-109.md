@@ -6,7 +6,7 @@ description: "Sulfur is as flammable as possible because it consists of particle
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-04
@@ -14,7 +14,7 @@ icon: "/icons/descartes.png"
 
 
 
-### 109. Gunpowder made of sulfur, saltpeter, and charcoal; first on sulfur.
+#### 109. Gunpowder made of sulfur, saltpeter, and charcoal; first on sulfur.
 
 Gunpowder kindles fire most quickly. It made of:
 - sulfur
@@ -26,21 +26,21 @@ Sulfur is as flammable as possible because it consists of particles of sharp jui
 Hence, sulfur is even considered very hot for medicinal use.
 
 
-### 110. Saltpeter
+#### 110. Saltpeter
 
 Saltpeter consists of oblong and rigid particles. 
 
 They are thicker at one end than at the other, different from common salt. This can be deduced from the fact that when dissolved in water, it does not congeal into a square shape on its surface, as common salt does, but adheres to the bottom and sides of the vessel.
 
 
-### 111. The Combination of sulfur and saltpeter
+#### 111. The Combination of sulfur and saltpeter
 
 As for the size of the particles, it is to be thought that there is such a proportion between them that the sharp juices in sulfur, moved by the fire-aether, can easily shake off the globules of the air-aether from the intervals between the twigs of oily material. 
 
 At the same time, they agitate the particles of saltpeter, which are thicker than they are.
 
 
-### 112. The motion of nitre particles
+#### 112. The motion of nitre particles
 
 These particles of nitre are thicker in one part. They tend downward due to their gravity.
 
@@ -51,7 +51,7 @@ It forms a circular motion, initially small, as in `C`, but immediately becomes 
 Meanwhile, particles of sulfur, moving very swiftly in all directions, reach other nitre particles in a very short time.
 
 
-### 113. Why the flame of this powder expands greatly and particularly moves upward.
+#### 113. Why the flame of this powder expands greatly and particularly moves upward.
 
 Each of these nitre particles requires a significant amount of space to describe the circles of its motion. 
 
@@ -60,7 +60,7 @@ The flame of this powder expands greatly. Furthermore, since these circles are d
 Being very dry and fine, it can be ignited safely by hand.
 
 
-### 114. Charcoal
+#### 114. Charcoal
 
 Charcoal is mixed with sulfur and nitre, and from this mixture, moistened with some liquid, small grains or pills are formed, which are then dried.
 
@@ -71,7 +71,7 @@ There are only two kinds of particles in it: one is thicker, forming ashes on it
 This is evident from the fact that, while others go into smoke preceding their combustion, these last ones remain.
 
 
-### 115. The grains of this powder and where its main force lies
+#### 115. The grains of this powder and where its main force lies
 
 Thus, sulfur and nitre easily enter the wide channels of charcoal and wrap around and constrict its branched particles, especially when moistened with some liquid and compacted into grains or small pills, then dried. 
 
@@ -90,7 +90,7 @@ The flame erupting from them spreads through all the intervening spaces between 
 Thus, the resistance of charcoal greatly enhances the speed with which the particles of nitre burst into flame. The distinction between grains is necessary to have sufficiently large channels around them, allowing the flame of the first ignited powder to freely reach many parts of the remaining powder.
 
 
-### 116. Lamps that burn for a long time
+#### 116. Lamps that burn for a long time
 
 <!-- After examining the fire that is least enduring, let us consider whether there can be another fire that, conversely, persists for a long time without any fuel. It is reported that  -->
 
@@ -116,14 +116,14 @@ These are the ones adhering to the walls of chimneys, forming soot, and the thic
 However, it remains to briefly show how the same force of fire causes certain bodies not used as fuel to melt and boil, others to dry and harden, others to evaporate, others to turn into lime, and others into glass.
 
 
-### 118. Which bodies, when added to it, melt and boil?
+#### 118. Which bodies, when added to it, melt and boil?
 
 All hard bodies, composed of particles not much more difficult to separate from each other than from their neighbors, and which can be disjoined by the force of fire, melt when subjected to that force.
 
 For being liquid means consisting of particles separated from each other and in some motion. As such particles, being very fast-moving, turn into air or fire, demanding more space for their motion and thereby expelling others, these liquid bodies effervesce and boil.
 
 
-### 119. Which dry and harden
+#### 119. Which dry and harden
 
 However, bodies containing many thin, flexible, slippery particles, intertwined with other thicker or branched ones but not very firmly attached, when subjected to fire, release them, and thus, they dry out. 
 

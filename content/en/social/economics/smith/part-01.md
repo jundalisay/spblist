@@ -1,4 +1,5 @@
 ---
+heading: Part 1
 title: "The Invisible Hand of Human Dharma"
 date: 2013-11-18
 image: /photos/objects/hand.jpg
@@ -6,7 +7,8 @@ description : "The concept that best matches the invisible hand is simply the as
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+# icon: /icons/pantry.png
+weight: 2
 toc: false
 ---
 

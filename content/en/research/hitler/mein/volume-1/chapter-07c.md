@@ -1,6 +1,6 @@
 ---
-title: The Revolution
-heading: Chapter 7
+title: The End of the War
+heading: Chapter 7c
 weight: 54
 description: "In August and September, the symptoms of moral disintegration increased more rapidly"
 author: Adolf Hitler
@@ -66,8 +66,7 @@ In November the general tension increased. Then one day disaster broke in upon u
 
 Sailors came in motor-lorries and called on us to rise in revolt. A few Jew-boys were the leaders in that combat for the 'Liberty, Beauty, and Dignity' of our National Being. Not one of them had seen active service at the front.
 
-Through the medium of a hospital for venereal diseases these three Orientals had been sent back home. Now their red rags were being hoisted here. During the last few days I had begun to feel somewhat better. The burning pain in the
-eye-sockets had become less severe. 
+Through the medium of a hospital for venereal diseases these three Orientals had been sent back home. Now their red rags were being hoisted here. During the last few days I had begun to feel somewhat better. The burning pain in the eye-sockets had become less severe. 
 
 Gradually I was able to distinguish the general outlines of my immediate surroundings. And it was permissible to hope that at least I would recover my sight sufficiently to be able to take up some profession later on. That I would ever be able to draw or design once again was naturally out of the question. Thus I was on the way to recovery when the frightful hour came.
 

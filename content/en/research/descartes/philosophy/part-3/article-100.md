@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 100. How Aether Around the Sun and Stars Is Generated from These Particles
+#### 100. How Aether Around the Sun and Stars Is Generated from These Particles
 
 These particles adhere somewhat to each other. They form a large mass, very rarefied like the air (or rather ether) surrounding the Earth, which extends around the Sun, perhaps up to the sphere of Mercury or even beyond. 
 
@@ -20,7 +20,7 @@ However, this ether cannot grow indefinitely, even if new particles constantly a
 We refer all the spots of the Sun and other stars, as well as the entire aether surrounding them, to the earth-aether, since its parts are less suited for motion than the globules of the air-aether.
 
 
-### 101. The Production and Dissolution of Spots Depend on Highly Uncertain Causes
+#### 101. The Production and Dissolution of Spots Depend on Highly Uncertain Causes
 
 The production and dissolution of spots depend on such minute and uncertain causes.. It is not surprising if sometimes none at all appear on the Sun, or if at other times there are so many that they obscure its entire light. 
 
@@ -29,7 +29,7 @@ The rudiment of one spot is formed from a few fragments of the fire-aether stick
 Many others easily join later. These would not be able to adhere to each other unless they lost part of their agitation by hitting the previous ones.
 
 
-### 102. How the Same Spot Can Cover an Entire Star
+#### 102. How the Same Spot Can Cover an Entire Star
 
 When these spots are first generated, they are very soft and rarefied bodies.
 
@@ -45,14 +45,14 @@ Therefore, they are not easily dissolved by the Sun’s matter licking their inn
 Thus, it can happen that one and the same spot extends over the entire surface of a star and remains there for a long time before it can be dissolved.
 
 
-### 103. Why the Sun Sometimes Appears Darker and Why the Apparent Sizes of Some Stars Change
+#### 103. Why the Sun Sometimes Appears Darker and Why the Apparent Sizes of Some Stars Change
 
 Some historians report that the Sun sometimes appeared paler than usual for several consecutive days, sometimes even for an entire year, providing a sad light like the Moon without rays. 
 
 Many stars now appear smaller or larger than they were described by astronomers in the past, which seems to be due to their light being obscured by more or fewer spots.
 
 
-### 104. Why Some Fixed Stars Disappear or Suddenly Appear
+#### 104. Why Some Fixed Stars Disappear or Suddenly Appear
 
 A star can be covered by so many and so dense spots that it entirely escapes our vision.
 
@@ -71,7 +71,7 @@ Other stars that now shine in the sky were not visible before.
  <!-- The reasons for these phenomena need to be explained more fully here. -->
 
 
-### 105. There Are Many Channels in the Spots Through Which Striated Particles Freely Pass
+#### 105. There Are Many Channels in the Spots Through Which Striated Particles Freely Pass
 
 Let Star `I` be entirely covered by the spot `defg`. 
 
@@ -86,7 +86,7 @@ They were only narrowed to the point that no particles thicker than the striated
 The channels that admit striated particles coming from one pole are not suitable for those particles if they try to return, nor for those coming from the other pole, which are twisted in the opposite direction.
 
 
-### 106. The Arrangement of These Channels and Why Striated Particles Cannot Regress Through Them
+#### 106. The Arrangement of These Channels and Why Striated Particles Cannot Regress Through Them
 
 The striated particles of the fire-aether come from the area of `Pole A`, not from a single point.
 
@@ -107,14 +107,14 @@ Therefore, if they were to regress through the same channels from `d` to `f`, th
 Similarly, the striated particles coming from `B` carved out other channels for themselves, with entrances scattered over the entire surface `edg` and exits on the opposite side `efg`.
 
 
-### 107. Why Particles Coming from One Pole Do Not Pass Through the Same Channels as Those Coming from the Other
+#### 107. Why Particles Coming from One Pole Do Not Pass Through the Same Channels as Those Coming from the Other
 
 These channels are also carved in the shape of spirals, resembling the shape of the striated particles they admit. 
 
 Therefore, the channels that are open to one set are not open to those coming from the opposite pole and twisted in the opposite direction.
 
 
-### 108. How the Fire-Aether Flows Through These Channels
+#### 108. How the Fire-Aether Flows Through These Channels
 
 Thus, the fire-aether can reach `Star I` through these channels from both poles. 
 

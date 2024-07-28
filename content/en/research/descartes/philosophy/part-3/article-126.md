@@ -6,12 +6,12 @@ description: "The Initial Motion of a Comet"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
-### 126. The Initial Motion of a Comet
+#### 126. The Initial Motion of a Comet
 
 Let us assume that:
 - `Star N` has more solidity than the air-aether globules which are distant from the center of `Vortex S`. [Therefore, it will not totally sink towards `S`]
@@ -48,7 +48,8 @@ It cannot help but have greater force to continue its motion along the straight 
 
 But as soon as it reaches point `C`, it encounters the air-aether moving more swiftly*. This increases its speed and diverts it from the [pink] straight line which is a tangent to that disk. 
 
-> *Superphysics Note: This is the Outer Area which is faster than the Middle Area
+{{< n n="This is the Outer Area which is faster than the Middle Area" >}}
+
 
 This makes it go to `Curve C2`. `Star N` will come closer to the tangent line:
 - the more solid it is
@@ -57,7 +58,7 @@ This makes it go to `Curve C2`. `Star N` will come closer to the tangent line:
 
 
 
-### 127. The Continuation of a Comet's Motion Through Various Vortices
+#### 127. The Continuation of a Comet's Motion Through Various Vortices
 
 As it progresses through this vortex `AEIO`, it gains such a force of agitation that it can easily migrate into other vortices and from these into others.
 

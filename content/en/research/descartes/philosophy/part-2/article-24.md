@@ -6,19 +6,18 @@ description: "True motion is THE TRANSPORTING OF ONE PART OF MATTER OR OF ONE BO
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-2/section-03
+# aliases:
+#   /research/descartes/philosophy/part-2/section-03
 ---
 
 
-### 24. What is motion?
+#### 24. What is motion?
 
 There is only local motion*. 
 
-> *Superphysics Note: Descartes' classical locality is totally different from modern locality which is really Einstein locality. Classical Locality is a philosphical concept applied to Physics. It asserts that there is is no void -- things affect each other through an immaterial medium called the aether. Einstein Locality is a sophistical concept arising from Einstein's invention of a material spacetime that limits everything to the speed of light. We assert that the Bell Theorem totally debunks Einstein's Relativity which imposes Einstein's Locality (spacetime fabric) and Realism (hidden variables). The successful tests of General Relativity, much applauded by Physicists, are merely tests of equipment.
-
+{{< n n="Descartes' classical locality is totally different from modern locality which is really Einstein locality. Classical Locality is a philosphical concept applied to Physics. It asserts that there is is no void -- things affect each other through an immaterial medium called the aether. Einstein Locality is a sophistical concept arising from Einstein's invention of a material spacetime that limits everything to the speed of light. We assert that the Bell Theorem totally debunks Einstein's Relativity which imposes Einstein's Locality (spacetime fabric) and Realism (hidden variables). The successful tests of General Relativity, much applauded by Physicists, are merely tests of equipment." >}}
 
 
 Local motion is the action by which a body migrates from one place to another. 
@@ -35,7 +34,7 @@ We commonly think:
 
 The person thus seated is more properly said to be at rest than in motion, seeing he is not conscious of being in action.*
 
-> *Superphysics Note: This destroys the assertion of General Relativity that everything is in motion.  -->
+{{< n n="This destroys the assertion of General Relativity that everything is in motion." >}}"
 
 
 <!-- But motion (viz., local, for I can conceive no other kind of motion, and therefore I do not think we ought to suppose there is any other in nature), in the ordinary sense of the term, is nothing more than  -->
@@ -58,7 +57,7 @@ We are accustomed to suppose that:
  But if, instead of occupying ourselves with that which has no foundation, unless in ordinary usage, we desire to know what ought to be understood by motion according to the truth of the thing, we may say, in order to give it a determinate nature, that it is  -->
 
 
-### 25. What is true motion?
+#### 25. What is true motion?
 
 True motion is **THE TRANSLATION OF A WHOLE BODY (with its parts) FROM THE VICINITY OF THOSE BODIES AT REST THAT ARE IN IMMEDIATE CONTACT WITH IT, to the vicinity of other bodies**.
 

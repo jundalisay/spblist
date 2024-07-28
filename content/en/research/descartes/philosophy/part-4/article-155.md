@@ -1,12 +1,12 @@
 ---
 title: "Why do the parts of the magnet, which were united before, also repel each other?"
-heading: Article 155
+heading: Article 155-162
 weight: 46
 description: "Why are 2 points, which were formerly contiguous in one magnet, in its fragments poles of different virtues?"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-07

@@ -1,12 +1,15 @@
 ---
-title: "Principle 6: Small capitalized companies are better than giant corporations"
+# Principle 6
+heading: Part 8
+title: "Small capitalized companies are better than giant corporations"
 date: 2013-11-18
-image: /photos/econ/crash.jpg
+image: /covers/smith.jpg
 description : "The Circular Flow of Economics emphasizes Businesses. That of Superphysics emphasizes balance and the natural price"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
+weight: 16
 toc: false
 ---
 

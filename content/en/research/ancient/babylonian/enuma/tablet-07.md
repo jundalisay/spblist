@@ -105,8 +105,9 @@ No god can ever attain!
 [Here follows the better-preserved ending.]
 
 ... the star, which shineth in the heavens.
-May he hold the Beginning and the Future, may they pay homage unto him,
-Saying, "He who forced his way through the midst of Tiamat without resting,
+May he hold the Beginning and the Future, may they pay homage unto him, Saying, 
+
+"He who forced his way through the midst of Tiamat without resting,
 
 Let his name be Nibiru, 'the Seizer of the Midst'!
 For the stars of heaven he upheld the paths,
@@ -116,14 +117,16 @@ He conquered Tiamat, he troubled and ended her life,"
 In the future of mankind, when the days grow old,
 May this be heard without ceasing; may it hold sway forever!
 Since he created the realm of heaven and fashioned the firm earth,
-The Lord of the World," the father Bel hath called his name.
+The Lord of the World," the father Bel had called his name.
 
 This title, which all the Spirits of Heaven proclaimed,
-Did Ea hear, and his spirit was rejoiced, and he said:
+Did Ea [Enki?] hear, and his spirit was rejoiced, and he said:
+
 "He whose name his fathers have made glorious,
-Shall be even as I, his name shall be Ea!
+Shall be even as I, his name shall be Ea [Enki]!
 The binding of all my decrees shall he control,
 All my commands shall he make known! "
+
 By the name of "Fifty " did the great gods
 Proclaim his fifty names, they, made his path preeminent.
 

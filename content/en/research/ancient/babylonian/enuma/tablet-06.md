@@ -9,7 +9,7 @@ description: "Marduk the way-station engineer"
 
 When Marduk heard the word of the gods, his heart prompted him and he devised a cunning plan.
 
-He told his plan to Ea:
+He told his plan to Ea [Enki]:
 
 "My blood will I take and bone will I fashion I will make man, that man may I will create man who shall inhabit the earth
 

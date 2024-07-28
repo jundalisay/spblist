@@ -13,13 +13,13 @@ The stars, their images, as the stars of the Zodiac, he fixed.
 
 He ordained the year and into sections he divided it;
 
-For the twelve months he fixed three stars.
+For the 12 months he fixed 3 stars.
 
 After he had ... the days of the year ... images,
-He founded the station of Nibir [the planet Jupiter] to determine their bounds;
+He founded the station of Nibiru [the planet Jupiter] to determine their bounds.
 
 That none might err or go astray,
-He set the station of Bel and Ea along with him.
+He set the station of Bel and Ea [Enki] along with him.
 
 He opened great gates on both sides,
 He made strong the bolt on the left and on the right.
@@ -30,10 +30,10 @@ He appointed him, a being of the night, to determine the days;
 Every month without ceasing with the crown he covered him, saying:
 
 "At the beginning of the month, when thou shinest upon the land,
-Thou commandest the horns to determine six days,
+Thou commandest the horns to determine 6 days,
 And on the seventh day to divide the crown.
 
-On the fourteenth day thou shalt stand opposite, the half....
+On the 14th day thou shalt stand opposite, the half....
 When the Sun-god on the foundation of heaven...thee,
 
 The ... thou shalt cause to ..., and thou shalt make his...
@@ -43,18 +43,21 @@ And on the ... day thou shalt stand opposite, and the Sun-god shall...
 ... thou shalt cause to draw nigh, and thou shalt judge the right.
 ... to destroy..."
 
-[Nearly fifty lines are here lost.]
+[Nearly 50 lines are here lost.]
 
 The gods, his fathers, beheld the net which he had made,
 They beheld the bow and how its work was accomplished.
 They praised the work which he had done...
+
 Then Anu raised the ... in the assembly of the gods. He kissed the bow, saving, " It is...!"
 
 Thus he named the names of the bow, saving,
 "'Long-wood' shall be one name, and the second name shall be ...,
+
 And its third name shall be the Bow-star, in heaven shall it...!"
 Then he fixed a station for it...
 Now after the fate of...
 He set a throne...
 ...in heaven...
 [The remainder of this tablet is missing.]
+

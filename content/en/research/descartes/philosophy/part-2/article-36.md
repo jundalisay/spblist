@@ -6,14 +6,14 @@ description: "The universal and primary cause is God Himself"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-2/section-04b
+# aliases:
+#   /research/descartes/philosophy/part-2/section-04b
 ---
 
 
-### 36. There are 2 causes of motion:
+#### 36. There are 2 causes of motion:
 
 1. A universal and primary cause that is the general cause of all motions in the world
 
@@ -59,7 +59,7 @@ The result will be a motion along a straight line, as depicted in the following 
 
 
 
-### 37. The First Law of Nature: Each Thing Always Perseveres in the Same State As Much As It Can. Thus, What Is Once Moved Always Continues to Be Moved.
+#### 37. The First Law of Nature: Each Thing Always Perseveres in the Same State As Much As It Can. Thus, What Is Once Moved Always Continues to Be Moved.
 
 Certain laws of nature can be known from this same immutability of God.
 
@@ -85,7 +85,7 @@ But this is very contrary to the laws of nature. This is because rest is contrar
  <!-- or toward its own destruction. -->
 
 
-### 38. The Motion of Projectiles
+#### 38. The Motion of Projectiles
 
 Everyday experience with projectiles entirely confirms this First Law. 
 
@@ -103,7 +103,7 @@ Air is the only liquid that most evidently resists the motions of projectiles.
 
 
 
-### 37. The first law of nature is that each thing, as far as it is in itself, always continues in the same state, so that which itself is moved, will always continue to be moved.
+#### 37. The first law of nature is that each thing, as far as it is in itself, always continues in the same state, so that which itself is moved, will always continue to be moved.
 
 
 From this same immobility of God, certain rules or laws of nature can be known, which are secondary and particular causes of various motions that we observe in individual bodies. 
@@ -130,7 +130,7 @@ Therefore, from an early age we have often judged those motions, which are thus 
  - nothing can be naturally drawn towards its own contrary or destruction.
 
 
-### 38. The motion of projectiles
+#### 38. The motion of projectiles
 
 <!-- And finally, I added that this translation is made from the vicinity, XXIX. not of any contiguous bodies, but of those only which are regarded as being at rest. 
 
@@ -147,4 +147,3 @@ They are usually slowed down by the air, or by any other fluid bodies in which t
 This is because the air resists the motions of other bodies. We can experience this by the very sense of touch, if we strike the fan itself; and the same confirms the flight of birds. 
 
 And there is no other liquid which resists the motions of the projections, which is not as yet manifest as air.
-

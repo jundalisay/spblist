@@ -6,13 +6,13 @@ description: "A vacuum or space in which there is absolutely no body is repugnan
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
 
 
-### 19. This confirms what was said of Rarefaction.
+#### 19. This confirms what was said of Rarefaction.
 
 The nature of corporeal substance consists only in its being an extended [metaphysical] thing.
 
@@ -31,7 +31,7 @@ This is because the quantity of particles that a body is composed of does not de
 **It only depends on the body's extension, which is always equal in the same vase.**
 
 
-### 20. From this, the non-existence of indivisible atoms may be demonstrated
+#### 20. From this, the non-existence of indivisible atoms may be demonstrated
 
 This means that there cannot exist any atoms or matter particles that are of their own nature indivisible. 
 
@@ -53,7 +53,7 @@ We suppose that God had reduced any particle of matter to extreme smallness that
 
 
 
-### 21. The extension of the world is indefinite
+#### 21. The extension of the world is indefinite
 
 This world or the whole (universitas) of corporeal substance, is extended without limit.
 
@@ -64,7 +64,7 @@ In this way, they contain in them corporeal substance indefinitely extended. Thi
 
 <!-- ### 22. It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds. -->
 
-### 22. It also follows that the aethereal susbtance of space and matter is the same, and that there cannot be a a plurality of worlds.
+#### 22. It also follows that the aethereal susbtance of space and matter is the same, and that there cannot be a a plurality of worlds.
 
 The earth and heavens are made of the same substance.
 <!-- matter  -->
@@ -72,7 +72,7 @@ The earth and heavens are made of the same substance.
 Although there were an infinity of worlds*, they would all be composed of this substance.
 <!-- matter -->
 
-> *Superphysics note: The 'worlds' here would mean material galaxies
+{{< n n="The 'worlds' here would mean material galaxies" >}}
 
 
 It follows that a plurality of worlds, or many universes, is impossible. 
@@ -87,7 +87,7 @@ This is because matter already totally occupies all the imaginable spaces where 
 We cannot find in ourselves the idea of any other matter.
 
 
-### 23. All the variety of matter, or the diversity of its forms, depends on motion.
+#### 23. All the variety of matter, or the diversity of its forms, depends on motion.
 
  <!-- matter -->
 There is therefore just one kind of substance in the whole universe. This we know only by its metaphysical space. 

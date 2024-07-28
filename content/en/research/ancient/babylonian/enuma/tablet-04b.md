@@ -110,4 +110,4 @@ And the lord measured the structure of the Deep,
 And he founded E-sara, a mansion like unto it.
 
 The mansion E-sara which he created as heaven,
-He caused Anu, Bel, and Ea in their districts to inhabit.
+He caused Anu, Bel, and Ea [Enki] in their districts to inhabit.

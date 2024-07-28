@@ -54,7 +54,9 @@ Neither the sun nor the light had yet been made when they multiplied.
 
 All lived together, they existed in great number and walked there in the East.
 
-Nevertheless, they did not sustain nor maintain [their God]; they only raised their faces to the sky, and they did not know why they had come so far as they did.
+Nevertheless, they did not sustain nor maintain [their God]. 
+
+They only raised their faces to the sky, and they did not know why they had come so far as they did.
 
 There they were then, in great number, the black men and the white men, men of many classes, men of many tongues, that it was wonderful to hear them.
 
@@ -66,8 +68,10 @@ The speech of all was the same. They did not invoke wood nor stone, and they rem
 
 In this manner they spoke, while they thought about the coming of the dawn.
 
-They raised their prayers, those worshipers of the word [of God], loving, obedient, and fearful, raising their faces to the sky when they asked for daughters and sons:
+They raised their prayers, those worshipers of the word [of God], loving, obedient, and fearful, raising their faces to the sky when they asked for daughters and sons.
 
 "Oh thou, Tzacol, Bitol! Look at us, hear us! Do not leave us, do not forsake us, oh, God, who art in heaven and on earth, Heart of Heaven, Heart of Earth! Give us our descendants, our succession, as long as the sun shall move and there shall be light. Let it dawn; let the day come! Give us many good roads, flat roads! May the people have peace, much peace, and may they be happy; and give us good life and useful existence! Oh, thou Huracán, Chipi-Caculhá, Raxa-Caculhá, Chipi-Nanauac, Raxa-Nanauac, Voc, Hunahpú, Tepeu, Gucumatz, Alom, Qaholom, Xpiyacoc, Xmucané, grandmother of the sun, grandmother of the light, let there be dawn, and let the light come!"
 
-Thus they spoke while they saw and invoked the coming of the sun, the arrival of day; and at the same time that they saw the rising of the sun, they contemplated the Morning Star, the Great Star, which comes ahead of the sun, that lights up the arch of the sky and the surface of the earth, and illuminates the steps of the men who had been created and made.
+Thus they spoke while they saw and invoked the coming of the sun, the arrival of day.
+
+At the same time that they saw the rising of the sun, they contemplated the Morning Star, the Great Star, which comes ahead of the sun, that lights up the arch of the sky and the surface of the earth, and illuminates the steps of the men who had been created and made.

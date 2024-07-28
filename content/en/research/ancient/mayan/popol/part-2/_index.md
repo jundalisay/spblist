@@ -1,9 +1,10 @@
 ---
 heading: Part 2
-title: "Popol Vuh"
-weight: 4
+title: "The People of Xibalba"
+weight: 6
 # date: 2022-06-05
-# description: "John Stuart Mill was part of the British East India Company who advocated free trade"
+description: "Part 2 talks about The People of Xibalba"
 image: "/covers/popol.jpg"
 # date: 2020-10-31
 ---
+

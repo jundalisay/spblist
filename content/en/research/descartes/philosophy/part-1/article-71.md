@@ -6,7 +6,7 @@ description: "The Prejudices of Childhood and our Memory of these Prejudices"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.png"
+image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 # aliases:
 #   /research/descartes/philosophy/part-1/section-04b
@@ -15,7 +15,7 @@ icon: "/icons/descartes.png"
 
 ## The Prejudices of Childhood
 
-### 71. The chief cause of our errors is to be found in the prejudices of our childhood.
+#### 71. The chief cause of our errors is to be found in the prejudices of our childhood.
 
 Here we may notice the first and chief cause of our errors.
 
@@ -78,7 +78,7 @@ In our youth, we have accepted these without sufficient examination.
 We then admitted them as being of the highest truth and clearness, as if they had been known by our senses, or implanted in us by nature.
 
 
-### 72. 2. We cannot forget these prejudices
+#### 72. 2. We cannot forget these prejudices
 
 In our mature years, the mind is no longer wholly subject to the body. But it is not in the habit of referring all things to it. It also seeks to discover the truth of things considered in themselves.
 
@@ -87,7 +87,8 @@ We realize the falsehood of many of the judgments we had before. Yet we find it 
 For example, we imagined the stars to be very small. We find it difficult to believe that they are so large even if this is assured by plain astronomical reasons.
 
 
-{{< s v="73" >}} 3. We become tired by attending to those objects which are not present to the senses.
+
+#### 73. 3. We become tired by attending to those objects which are not present to the senses.
 
 We are thus used to judge of these not from present perception but from pre-conceived opinion.
 
@@ -108,7 +109,7 @@ They persuade themselves that:
 Since in truth we perceive no object such as it is by sense alone [but only by our reason exercised upon sensible objects], as will hereafter be clearly shown, it thus happens that the majority during life perceive nothing unless in a confused way.
 
 
-{{< s v="74" >}} 4. We attach our thoughts to words which do not express ideas accurately.
+#### 74. 4. We attach our thoughts to words which do not express ideas accurately.
 
 We attach all our conceptions to words by which to express them. We then commit to memory our thoughts in connection with these terms.
 
@@ -119,7 +120,7 @@ On this account, the majority attend to words rather than to things; and thus ve
 This, however, is not the place to treat of this matter in detail, seeing the nature of the human body has not yet been expounded, nor the existence even of body established; enough, nevertheless, appears to have been said to enable one to distinguish such of our conceptions as are clear and distinct from those that are obscure and confused.
 
 
-{{< s v="75" >}} Summary of what must be observed in order to philosophize correctly.
+#### 75. Summary of what must be observed in order to philosophize correctly.
 
 To philosophize properly, we must:
 
@@ -146,7 +147,7 @@ Comparing what we have now learned, by examining those things in their order, wi
 In these few precepts seem to me to be comprised the most general and important principles of human knowledge.
 
 
-{{< s v="76" >}} We should prefer the Divine authority to our perception.
+#### 76. We should prefer the Divine authority to our perception.
 
 But apart from things revealed, we should assent to nothing that we do not clearly apprehend.
 
@@ -155,3 +156,4 @@ Above all, we must impress on our memory the infallible rule, that:
 - we should submit our belief to the Divine authority rather than to our own judgment, even although perhaps the light of reason should, with the greatest clearness and evidence, appear to suggest to us something contrary to what is revealed. 
 
 But in things regarding which there is no revelation, it is by no means consistent with the character of a philosopher to accept as true what he has not ascertained to be such, and to trust more to the senses, in other words, to the inconsiderate judgments of childhood than to the dictates of mature reason.
+

@@ -1,5 +1,5 @@
 ---
-title: The Revolution
+title: The Summer of 1915
 heading: Chapter 7
 weight: 48
 description: "IN 1915, the enemy started their propaganda among our soldiers"

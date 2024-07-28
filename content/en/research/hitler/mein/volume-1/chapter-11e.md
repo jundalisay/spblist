@@ -1,7 +1,7 @@
 ---
 title: The Jews
 heading: Chapter 11e
-weight: 76
+weight: 96
 description: "The Jews never had a civilization of their own"
 author: Adolf Hitler
 image: /covers/mein.jpg
