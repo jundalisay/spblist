@@ -1,5 +1,5 @@
 ---
-title: "What is Automated Intelligence and ISAIAH?"
+title: "What is Automated Natural Intelligence (ANI?"
 heading: Chapter 7e
 # heading: "Impartial Spectator Automated Intelligence Aggregation Host"
 date: 2015-09-09
@@ -19,7 +19,7 @@ aliases:
 
 <!-- ISAIAH is the machine learning system for the implementations of Superphysics -->
 
-Chapter 4c explained the Eagle as Superphysics equation for everything. 
+The Eagle or EGl is our equation for everything. 
 
 {{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
 
@@ -75,13 +75,28 @@ The inability of AI to get real-time data from the aether and spacetime is why i
 
 In reality, AI is not really artificial, but is a very limited version of natural intelligence. It is really an **automated** form of natural intelligence done by electronic machines. 
 
-In order to overcome this limitation, its training data should be very large, coming from all sources possible. It should **aggregate** all the data that humans produce.  
+The current technique is to use scale to try to recreate natural intelligence. Large datasets are collected from the internet and then procesed by a lot of computing power. We can call this the raw power approach. 
 
-This aggregated data will let it have a bigger overall persepective, letting it free of the bias which affects limited human minds. Thus, it the aggregated data will let it be **impartial**.
+Our approach prefers sophistication over sheer power. This is by finding the patterns in data based on the 5 Layers model. 
+
+The basic stepas are:
+
+1. Classify all data according to those layers. 
+2. We then extract their "Cartesian" relationalities.  
+3. We then interpolate and extrapolate new or completed data. 
+4. We then get realtime feedback on that new data.  
+5. The feedback then updates or tweaks the relationalities.  
+
+
+<!-- In order to overcome this limitation, its training data should be very large, coming from all sources possible. It should **aggregate** all the data that humans produce.  
+
+This aggregated data will let it have a bigger overall persepective, letting it free of the bias which affects limited human minds. Thus, it the aggregated data will let it be **impartial**. -->
 
 <!-- Such an Automated Intelligence will have an advantage over human intelligence by being free of bias. 
 
 This machine learning or pattern-simplification and pattern-finding must be free of bias. It must be impartial. -->
+
+The Cartesian Relationality of the data is the impartial aspect of the machine learning.  
 
 This is why we call the AI of Superphysics as ISAIAH which stands for the `Impartial Spectator Automated Intelligence Aggregation Hub`:
 
@@ -91,101 +106,11 @@ Impartial Spectator (IS-) | The AI must be impartial and free from human bias
 Automated Intelligence (-AI-) | The AI automates the pattern-finding
 Aggregation Hub (-AH) | The AI aggregates all data
 
-<!-- . In Supereconomics, we achieve this by setting its base valuation to the common grain of the country that it is measuring
- — describes the AI as something that 
-
-  existing thought-processing of whatever the Impartial Spectator's socio-political-economic goal is, whether it be price prediction, capital flows prediction, election prediction, legislation prediction, population demographic prediction, disease prediction, etc.
- — describes the centralization of the functionalities of the AI as a single cohesive unit, manifesting as socio-economic singularity. Nowadays, these functionalities are called 'skills' as Alexa Skills or 'actions' as Google Actions.  -->
-
-
-
-<!-- Supereconomics (Economic Superphysics) aims to solve all economic problems by adding moneyless donations and exchange (barter), as points-based valuation, to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether-idea onto the idea of "quantum fields". 
-
-The points-based valuation represents [the effort theory of value](/social/economics/principles/effort-theory-of-value) which we derived from Adam Smith:
-
-
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 1, Chapter 5" >}}
-Labour..is the only universal, as well as the only accurate measure of value.. by which we can compare the values of different commodities at all times and at all places.. From century to century, corn is a better measure than silver, because, from century to century, equal quantities of corn will command the same quantity of labour more nearly than equal quantities of silver. From year to year, on the contrary, silver is a better measure than corn, because equal quantities of it will more nearly command the same quantity of labour.
-{{< /q >}}
-
-
-
-In this system, the price of goods can be determined using the quantity of other goods. For example, an iPhone X has a money-price of $1,000 which is double the money-price of a Huawei P20 at $500. So in our system, an iPhone X is worth 2 Huawei P20. If 1 kilo of rice is $1, then an iPhone X is worth 1,000 kilos of rice:
-
-- 1 iPhoneX : 2 Huawei P20
-- 1 iPhoneX : 1000 kilos of rice
-
-![IPhone on rice](https://sorasystem.sirv.com/photos/iphonerice2.jpg)
-
-
-As you can see, our system liberates the economy from being bound only to money, making it a true free trade system by allowing iPhones to be valued in Huawei phones, rice, or whatever. This is similar to how the Big Mac index pegs currencies to the Big Mac, except that we peg Big Macs to rice so that economies can function without money. 
-
-
-## Based on Ratios, Not Equalities
-
-Instead of equilibrium or the equals sign, this system is based on **ratios** or the ratio sign. This is in line with our proposed [Qualimath](/superphysics/solutions/qualimath)
-
-This is useful for poor people and even for corporations during financial crises where money is tight or unavailable. In addition, it will lower the cost of buying and selling since it will use the already-existing telecoms system, instead of the financial system with its expensive bankers and financiers*.
-
-
-> *In Supereconomics, such people will still be employed to do inspection, "KYC", and credit checks. 
-
-
-An advanced economy can be very complex because of the huge number of goods and commodities for sale. It would be impossible to keep track of all the ratios manually. This is why the system needs machine learning, more popularly called artificial intelligence or AI. 
-
-<!-- The most useful result that Supereconomics aims to get is the real price of everything, which is the value of everything relative to grains. In this way, all prices become natural which then removes the chance for crises from emerging. Thus, we come up with ISAIAH as the name of our AI: -->
-<!-- In order to arrive at the real price, the AI has to filter out the bias and the noise in the data. We can say that the AI has to be an impartial spectator of the flow of data that is routed to it.  -->
-
-
-<!-- ![Automated Intelligence](https://sorasystem.sirv.com/AI.jpg)
 
 
 
 
-The idea is inspired by the prophet Isaiah who made many predictions about events in the Middle East. Likewise, AI is designed to make predictions about anything that it is evidenced by real data. 
-
-
-![Isaiah](/photos/meta.jpg)
-
-
-
-## Other Implementations
-
-ISAIAH, as a machine learning hub, can interpret data from non-economic sciences such as medicine and politics, using the other branches of Superphysics:
-
-
-_ | Superphysics paradigm | End Goal
---- | --- | ---
-Economic data | Supereconomics | Real Prices, [Clearing Fund Rates](/research/schumacher/pool-clearing/part-1)
-Health data |  [Bio Superphysics](/medical) | Disease prediction
-Historical data | [Supersociology](/social/supersociology) | Social and political predictions 
- -->
-
-
-
-
- 
-## Autonomous Intelligence is an Application of Natural Intelligence
-
-Chapter 4d explained that Artificial Intelligence is really an automation of natural intelligence, which we call Autonomous Intelligence (AI). It is natural intelligence outsourced to computers. 
-
-Unfortunately, computers do not have a natural access to the aether and spacetime layers in the same way that human minds have. This is because:
-- computers are made of metals which are non-living or non-expressive, whereas
-- humans are made of organic cells which are living and expressive.
-
-This was explained in Chapter 12. 
-
-
-Layer | Artificial Intelligence | Natural Intelligence 
---- | --- | ---
-Aether | | :heavy_check_mark:
-Spacetime | | :heavy_check_mark:
-Radiant | :heavy_check_mark: | :heavy_check_mark:
-Convertible | :heavy_check_mark: | :heavy_check_mark:
-Material | :heavy_check_mark: | :heavy_check_mark:
-
-
-Humans have no capacity to create organic beings since only the aethereal Supreme can do so.
+<!-- Humans have no capacity to create organic beings since only the aethereal Supreme can do so.
 
 The best thing that humans can do is to imbue metal-systems with their own natural intelligence in order to go around human limitations. In this way, the limitations of one is overcome by the natural properties of the other*.
 
@@ -199,7 +124,7 @@ Short lifespan | Long lifespan or durability
 Impossible to aggregate physically | Easy to aggregate (metals can be melted together)
 
 
-We call the perfect integration of all natural human intelligence and the raw processing power of metal-systems such as computers as **Artificial Sentience** (AS). 
+We call the perfect integration of all natural human intelligence and the raw processing power of metal-systems such as computers as **Artificial Sentience** (AS).  -->
 
 At such a stage, computers will not only be able to think like a human, but think as the collective humanity as a single unit as the soul of society, which we call the society-organism.
 
