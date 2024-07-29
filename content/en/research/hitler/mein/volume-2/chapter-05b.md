@@ -1,16 +1,16 @@
 ---
-title: Weltanschauung And Organization
-heading: Chapter 5
+title: Targetting the Lower Class
+heading: Chapter 5b
 weight: 40
-description: "THE PEOPLE'S State will not become a reality in virtue of the simple fact that we know the indispensable conditions of its existence"
+description: "The programme of the ordinary political party is just to cook up favourable results for the next general elections"
 author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
 
-The programme of the ordinary political party is just the recipe for cooking up favourable results for the next general elections.
+The programme of the ordinary political party is just to cook up favourable results for the next general elections.
 
-But the programme of a WELTANSCHAUUNG represents a declaration of war against an existing order of things, against present conditions, in short, against the established WELTANSCHAUUNG.
+But the programme of a WELTANSCHAUUNG is a declaration of war on the existing order of things, against present conditions, in short, against the established WELTANSCHAUUNG.
 
 Every individual fighter for such a new doctrine does not need to have a full grasp of the ultimate ideas and plans of the leaders of the movement. 
 
@@ -27,27 +27,59 @@ The individual soldier is not initiated in the knowledge of high strategical pla
 
 So, too, the individual follower must be acquainted with its far-reaching purpose, how it is inspired by a powerful will and has a great future before it.
 
-If each soldier in an army were a general, and had the training and capacity for generalship, that army would not be an efficient fighting instrument. Similarly a political movement would not be very efficient in fighting for a WELTANSCHAUUNG if it were made up exclusively of intellectuals. No, we need the simple soldier also.
+If each soldier in an army were a general then that army would not be an efficient fighting instrument.
 
-Without him no discipline can be established.
+Similarly, a political movement would not be very efficient in fighting for a WELTANSCHAUUNG if it were made up exclusively of intellectuals.
+- No, we need the simple soldier also.
+- Without him, no discipline can be established.
 
-By its very nature, an organization can exist only if leaders of high intellectual ability are served by a large mass of men who are emotionally devoted to the cause. To maintain discipline in a company of two hundred men who are equally intelligent and
-capable would turn out more difficult in the long run than in a company of one hundred and ninety less gifted men and ten who have had a higher education. The Social-Democrats have profited very much by recognizing this truth. 
+By its very nature, an organization can exist only if leaders of high intellectual ability are served by a large mass of men who are emotionally devoted to the cause. 
 
-They took the broad masses of our people who had just completed military service and learned to submit to discipline, and they subjected this mass of men to the discipline of the SocialDemocratic organization, which was no less rigid than the discipline through which the young men had passed in their military training. The Social-Democratic organization consisted of an army divided into officers and men. The German worker who had passed through his military service became the private soldier in that army, and the Jewish intellectual was the officer. The German trade union functionaries may be compared to the non-commissioned officers. The fact, which was always looked upon with indifference by our middle-classes, that only the so-called uneducated classes joined Marxism was the very ground on which this party achieved its success. 
+It would be easier to maintain discipline in the long run:
+- in a company of 190 less-gifted men and 10 of higher education
+- than a company of 200 men who are equally intelligent and capable
 
-The bourgeois parties mostly consisted of intellectuals. And so they were only a feckless band of undisciplined individuals, out of much less intelligent human material the Marxist leaders formed an army of party combatants who obey their Jewish masters just as blindly as they formerly obeyed their German officers. The German middleclasses, who never; bothered their heads about psychological problems because they felt themselves superior to such matters, did not think it necessary to reflect on the profound significance of this fact and the secret danger involved in it. 
+The Social-Democrats have profited very much by recognizing this truth. 
 
-They believed that a political movement which draws its followers exclusively from intellectual circles must, for that very reason, be of greater importance and have better grounds for its chances of success, and even a greater probability of taking over the government of the country than a party made up of the ignorant masses. 
+They took the broad masses of our people who had just completed military service and learned to submit to discipline.
 
-They completely failed to realize the fact that the strength of a political party never consists in the intelligence and independent spirit of the rank-and-file of its members but rather in the spirit of willing obedience with which they follow their intellectual leaders. 
+They subjected this mass of men to the discipline of the SocialDemocratic organization, which was as rigid as the discipline of military training. 
 
-What is of decisive importance is the leadership itself. When two bodies of troops are arrayed in mutual combat victory will not fall to that side in which every soldier has an expert knowledge of the rules of strategy, but rather to that side which has the best leaders and at the same time the best disciplined, most blindly obedient and best drilled troops.
+The Social-Democratic organization consisted of an army divided into officers and men. 
+- The private soldier is the German worker.
+<!-- who had passed through his military service became  in that army, and  -->
+- The Jewish intellectual was the officer. 
+- The German trade union functionaries may be compared to the non-commissioned officers.
+
+<!-- The fact, which was always looked upon with indifference by our middle-classes, that only the so-called 
+
+The uneducated classes that joined Marxism was the very ground on which their party achieved its success.  -->
+
+The bourgeois parties mostly consisted of intellectuals -- a feckless band of undisciplined individuals.
+
+From such people, the Marxist leaders formed an army of party combatants which had much less intelligence. 
+
+These combatants obey their Jewish masters just as blindly as they formerly obeyed their German officers. 
+
+The German middleclasses never bothered about psychological problems because they felt themselves superior to such matters.
+
+<!-- , did not think it necessary to reflect on the profound significance of this fact and the secret danger involved in it.  -->
+
+They believed that a political movement which draws its followers exclusively from intellectual circles must be more important and have better chances of success than a party made up of the ignorant masses.
+
+<!-- , and even a greater probability of taking over the government of the country than a   -->
+
+They failed to realize that a political party's strength never consists in the intelligence and independent spirit of its rank-and-file, but rather in the spirit of willing obedience to their intellectual leaders.
+
+<!--  with which they follow their  
+
+What is of decisive importance is the leadership itself.  -->
+
+When two bodies of troops are arrayed in mutual combat victory will not fall to that side in which every soldier has an expert knowledge of the rules of strategy, but rather to that side which has the best leaders and at the same time the best disciplined, most blindly obedient and best drilled troops.
 
 That is a fundamental piece of knowledge which we must always bear in mind when we examine the possibility of transforming a WELTANSCHAUUNG into a practical reality.
 
-If we agree that in order to carry a WELTANSCHAUUNG into practical effect it must be incorporated in a fighting movement, then the logical consequence is that the programme of such a movement must take account of the human material at its
-disposal. 
+If we agree that in order to carry a WELTANSCHAUUNG into practical effect it must be incorporated in a fighting movement, then the logical consequence is that the programme of such a movement must take account of the human material at its disposal. 
 
 Just as the ultimate aims and fundamental principles must be absolutely definite and unmistakable, so the propagandist programme must be well drawn up and must be inspired by a keen sense of its psychological appeals to the minds of those without whose help the noblest ideas will be doomed to remain in the eternal, realm of ideas.
 
@@ -72,21 +104,13 @@ But in the last analysis the generality of people think superficially and theref
 that in what is merely an external formulation of the programme people will see an
 essential aim of the movement.
 
-In that way the will and the combative force at the service of the ideas are weakened and the energies that ought to be directed towards the
-outer world are dissipated in programmatic discussions within the ranks of the
-movement.
+In that way the will and the combative force at the service of the ideas are weakened and the energies that ought to be directed towards the outer world are dissipated in programmatic discussions within the ranks of the movement.
 
-For a doctrine that is actually right in its main features it is less dangerous to retain a formulation which may no longer be quite adequate instead of trying to improve it and thereby allowing a fundamental principle of the movement, which had hitherto been
-considered as solid as granite, to become the subject of a general discussion which may
-have unfortunate consequences. 
+For a doctrine that is actually right in its main features it is less dangerous to retain a formulation which may no longer be quite adequate instead of trying to improve it and thereby allowing a fundamental principle of the movement, which had hitherto been considered as solid as granite, to become the subject of a general discussion which may have unfortunate consequences. 
 
-This is particularly to be avoided as long as a movement is still fighting for victory. For would it be possible to inspire people with
-blind faith in the truth of a doctrine if doubt and uncertainty are encouraged by
-continual alterations in its external formulation?
+This is particularly to be avoided as long as a movement is still fighting for victory. For would it be possible to inspire people with blind faith in the truth of a doctrine if doubt and uncertainty are encouraged by continual alterations in its external formulation?
 
-The essentials of a teaching must never be looked for in its external formulas, but always in its inner meaning. And this meaning is unchangeable. And in its interest one can only wish that a movement should exclude everything that tends towards 
-disintegration and uncertainty in order to preserve the unified force that is necessary for
-its triumph.
+The essentials of a teaching must never be looked for in its external formulas, but always in its inner meaning. And this meaning is unchangeable. And in its interest one can only wish that a movement should exclude everything that tends towards disintegration and uncertainty in order to preserve the unified force that is necessary for its triumph.
 
 Here again the Catholic Church has a lesson to teach us. Though sometimes, and often quite unnecessarily, its dogmatic system is in conflict with the exact sciences and with scientific discoveries, it is not disposed to sacrifice a syllable of its teachings. It has rightly recognized that its powers of resistance would be weakened by introducing greater or less doctrinal adaptations to meet the temporary conclusions of science, which in reality are always vacillating. 
 

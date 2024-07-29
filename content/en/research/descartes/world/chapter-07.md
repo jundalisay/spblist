@@ -66,7 +66,9 @@ These words are so obscure that <!--  I am constrained to leave them here in the
 
 (The words "motion is the act of a being in potency, insofar as it is in potency," are no clearer* in [English].) 
 
-> *Superphysics note: In the philosophical motion, the potency is the possibility to be in other states. This actually matches the 1st Rule of Descartes. An  example is the motion or movement from sadness to happiness. The motion can only take place if there was a potency of happiness. The act of being in that potency results in motion. Similarly, an immovable thing has no potency for movement and so has no motion.  
+
+{{< n n="In the philosophical motion, the potency is the possibility to be in other states. This actually matches the 1st Rule of Descartes. An example is the motion or movement from sadness to happiness. The motion can only take place if there was a potency of happiness. The act of being in that potency results in motion. Similarly, an immovable thing has no potency for movement and so has no motion." >}}
+
 
 
 On the contrary, the motion which I speak of can be known by geometers based on <!-- themselves, who among all men studied most to conceive very distinctly the things they were considering, judged it simpler and more intelligible than --> their surfaces and lines.
@@ -94,7 +96,8 @@ The motion explained by philosophers has a strange nature.
 - But the goal of the motion of philosophers is to achieve rest*, contrary to all the laws of nature
   - It means that motion strives on its own to destroy itself. 
 
-> *Superphysics note: This is because everything aims to be in the perfect, most stable state
+{{< n n="This is because everything aims to be in the perfect, most stable state" >}}
+
 
 By contrast, my 'motion' follows the same laws of nature, including all the qualities found in the aether. This includes qualities observed by the philosophers:
 - *modos et entia rationis cum fundamento in re* (modes and beings of thought with foundation in the thing)

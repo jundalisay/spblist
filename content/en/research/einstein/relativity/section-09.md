@@ -42,8 +42,8 @@ Thus:
 
 Before my theory of relativity, physicists assumed that time had an absolute significance*, i.e. that it is independent of the motion of the body of reference.
 
-
-> *Superphysics Note: Time has an absolute significance to the Material layer, semi-significance to the Electromagnetic layer, and no significance (or very tiny significance) to the aetheral layer (e.g. time flies fast when you're having fun). Einstein is therefore employing sophistry by applying the principle of the Electromagnetic layer to all layers. 
+{{< n n="*Time has an absolute significance to the Material layer, semi-significance to the Electromagnetic layer, and no significance (or very tiny significance) to the aetheral layer (e.g. time flies fast when you're having fun). Einstein is therefore employing sophistry by applying the principle of the Electromagnetic layer to all layers." >}}
+ 
 
 
 But this assumption is incompatible with the most natural definition of simultaneity. If we discard this assumption, then the conflict between the law of the propagation of light in a vacuum and the principle of relativity (in Section 7) disappears.

@@ -18,7 +18,9 @@ The first part of this law is demonstrated from the fact that there is a differe
 
 This is because every simple uncompounded thing, such as motion, always perseveres as long as it is not destroyed by any external cause. 
 
-In the collision of a hard body, a cause appears to prevent the motion of the other body it encounters from remaining determined toward the same part. But there is no cause which takes away or diminishes the motion itself. THis is because motion is not contrary to motion; hence it follows that it ought not to be diminished for that reason.
+In the collision of a hard body, a cause appears to prevent the motion of the other body it encounters from remaining determined toward the same part. 
+
+But there is no cause which takes away or diminishes the motion itself. THis is because motion is not contrary to motion. Hence it follows that it ought not to be diminished for that reason.
 
 
 #### 42. Probatio posterioris partis.

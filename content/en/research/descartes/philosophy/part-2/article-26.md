@@ -23,9 +23,6 @@ But if we consider not so much from common usage, but from the truth of the matt
 **XXVI. No more action is required for motion than for rest.** -->
 
 
-
-
-
 #### 26. Effort is both needed for action and rest
 
 People wrongly think that more action is required for motion than for rest. 

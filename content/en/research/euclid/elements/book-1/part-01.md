@@ -20,13 +20,13 @@ image: /covers/elements.jpg
 
 4. A straight line is a line which lies evenly with the points on itself.
 
-5. A surface is that which has length and breadth only.
+5. A surface is that which has length and width only.
 
 6. The edges of a surface are lines.
 
 7. A plane surface is a surface which lies evenly with the straight lines on itself.
 
-8. A plane angle is the inclination to one another of two lines in a plane which meet one another and do not lie in a straight line.
+8. A plane angle is the inclination to one another of 2 lines in a plane which meet one another and do not lie in a straight line.
 
 9. When the lines containing the angle are straight, the angle is called rectilinear.
 
@@ -38,23 +38,37 @@ image: /covers/elements.jpg
 
 13. A boundary is that which is an extremity of anything.
 
-14. A figure is that which is contained by any boundary or boundaries.
+14. A shape is that which is contained by any boundary or boundaries.
 
-15. A circle is a plane figure contained by one line such that all the straight lines falling upon it from one point among those lying within the figure equal one another.
+15. A circle is a plane figure contained by one line such that all the straight lines falling on it from one point among those lying within the figure equal one another.
 
-16. And the point is called the center of the circle.
+16. The point is called the center of the circle.
 
-17. A diameter of the circle is any straight line drawn through the center and terminated in both directions by the circumference of the circle, and such a straight line also bisects the circle.
+17. A diameter of the circle is any straight line drawn through the center and terminated in both directions by the circumference of the circle. Such a straight line also bisects the circle.
 
-18. A semicircle is the figure contained by the diameter and the circumference cut off by it. And the center of the semicircle is the same as that of the circle.
+18. A semicircle is the shape contained by the diameter and the circumference cut off by it. The semicircle's center is the same as that of the circle.
 
-19. Rectilinear figures are those which are contained by straight lines, trilateral figures being those contained by three, quadrilateral those contained by four, and multilateral those contained by more than four straight lines.
+19. Rectilinear shapes are those which are contained by straight lines
+- Trilateral shapes being those contained by 3
+- Quadrilateral shapes are those contained by 4
+- Multilateral shapes are those contained by more than 4 straight lines
 
-20. Of trilateral figures, an equilateral triangle is that which has its three sides equal, an isosceles triangle that which has two of its sides alone equal, and a scalene triangle that which has its three sides unequal.
+20. Of trilateral shapes:
+- an equilateral triangle has its 3 sides equal
+- an isosceles triangle has 2 of its sides alone equal
+- a scalene triangle has its 3 sides unequal
 
-21. Further, of trilateral figures, a right-angled triangle is that which has a right angle, an obtuse-angled triangle that which has an obtuse angle, and an acute-angled triangle that which has its three angles acute.
+21. Of trilateral shapes:
+- a right-angled triangle has a right angle
+- an obtuse-angled triangle has an obtuse angle
+- an acute-angled triangle has its 3 angles acute.
 
-22. Of quadrilateral figures, a square is that which is both equilateral and right-angled; an oblong that which is right-angled but not equilateral; a rhombus that which is equilateral but not right-angled; and a rhomboid that which has its opposite sides and angles equal to one another but is neither equilateral nor right-angled. And let quadrilaterals other than these be called trapezia.
+22. Of quadrilateral shapes:
+- a square is both equilateral and right-angled
+- an oblong is right-angled but not equilateral
+- a rhombus is equilateral but not right-angled
+- a rhomboid has its opposite sides and angles equal to one another but is neither equilateral nor right-angled.
+- a trapezia is quadrilateral other than these.
 
 23. Parallel straight lines are straight lines which, being in the same plane and being produced indefinitely in both directions, do not meet one another in either direction.
 

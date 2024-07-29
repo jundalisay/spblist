@@ -12,6 +12,7 @@ image: /covers/elements.jpg
 ## PROPOSITION 39
 
 If 2 straight lines incommensurable in square which make the sum of the squares on them rational, but the rectangle contained by them medial, be added together, the whole straight line is irrational : and let it be called major.
+
 For let two straight lines AB, BC incommensurable in square, and fulfilling the given conditions [X. 33 ], be added together; I say that AC is irrational.
 
 For, since the rectangle AB, BC is medial, twice the rectangle AB, BC is also medial. [X. 6 and 23, Por.]
@@ -35,8 +36,10 @@ Therefore AC is irrational. [X. Def. 4 ]
 And let it be called the side of a rational plus a medial area. Q. E. D.
 
 
-PROPOSITION 41.
-If two straight lines incommensurable in square which make the sum of the squares on them medial, and the rectangle contained by them medial and also incommensurable with the sum of the squares on them, be added together, the whole straight line is irrational; and let it be called the side of the sum of two medial areas.
+#### PROPOSITION 41
+
+If 2 straight lines incommensurable in square which make the sum of the squares on them medial, and the rectangle contained by them medial and also incommensurable with the sum of the squares on them, be added together, the whole straight line is irrational; and let it be called the side of the sum of two medial areas. 
+
 For let two straight lines AB, BC incommensurable in square and satisfying the given conditions [X. 35 ] be added together; I say that AC is irrational.
 
 Let a rational straight line DE be set out, and let there be applied to DE the rectangle DF equal to the squares on AB, BC, and the rectangle GH equal to twice the rectangle AB, BC; therefore the whole DH is equal to the square on AC. [II. 4 ]

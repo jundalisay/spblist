@@ -25,7 +25,7 @@ They are incommensurable when their area has no common measure.*
 
 <!-- in square of the squares on them. -->
 
-> *Superphysics note: This means that measurers have to be on 'the same page'
+{{< n n="This means that measurers have to be on 'the same page'" >}}
 
 
 3. There is an infinite number of straight-lines which are either commensurable or incommensurable.
@@ -41,8 +41,7 @@ They are incommensurable when their area has no common measure.*
 
 'Irrational' lines are those which are incommensurable with the assigned straight line.*
 
-> *Superhysics note: Rational waves or ideas are those that have a single wave or idea as their reference. Irrational ones are those that are not bound by that single wave or idea. Irrationals are free and wild.   
-
+{{< n n="Rational waves or ideas are those that have a single wave or idea as their reference. Irrational ones are those that are not bound by that single wave or idea. Irrationals are free and wild." >}}
 
 
 
@@ -52,6 +51,7 @@ Those areas which are commensurable with it are rational.
 
 But those areas which are incommensurable with it are irrational
 - The straight lines which produce those areas are irrational
+
 <!--   - In case the areas are [binding] squares, then the bindings themselves are irrational
   - But in case the bindings are any other rectilineal shapes, irrational are the straight lines on which are described squares equal to them -->
 
@@ -71,6 +71,9 @@ If this happens continually, then some magnitude will eventually be left. It wil
 Let:
 - `AB` and `C` are unequal magnitudes
 - `AB` is the longer or greater
+
+{{< i s="/graphics/meta/akhb.png" a="lines" >}}
+
 
 We subtract more than half from `AB`. From the remainder, we also subtract more than half. If this happens continually, there will be some magnitude left. But it will be less than the magnitude `C`.
 

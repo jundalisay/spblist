@@ -3,7 +3,7 @@ title: "Why String Theory is a waste of time"
 date: 2023-05-23
 weight: 2
 image: /photos/sad.jpg
-description: "The Arrow of Time Problem has already been resolved way back by Parmenides, again by Avicenna, and again by Descartes, Hume, and Hegel."
+description: "To unify both, physicists invented string theory wherein particles become threads which integrate with the fabric of spacetime."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -25,7 +25,7 @@ Like Newton, Einstein's General Relativity also believes that movement comes fro
 
 General Relativity, which explains large-scale movements, is thus in opposition to Quantum Mechanics, which explains small-scale movements. 
 
-To unify both, physicists invented string theory wherein particles become threads which integrate with the fabric of spacetime. 
+To unify both, physicists invented string theory wherein particles become threads which integrate with the fabric of spacetime.
 
 In this way, it uses predefined levels, as "dimensions", like Quantum Mechanics in the small-scale, and the arbitrary warping of spacetime in the large scale.
 
@@ -37,27 +37,33 @@ As a result, General Relativity messes up Quantum Mechanics and renders it forev
 
 String theory is really a Frankenstein theory that creates arbitrary dimensions. This arbitrariness makes it unscientific and untestable.
 
-Descartes' Physics solves this by deleting Einstein's Relativity. 
+Descartes' Physics solves this by deleting Einstein's Relativity and replacing it with Poincare's Law of Relativity which is based on state change. 
+
+{{< youtube klka8xfvMDY >}}
 
 It instead proposes that all movement comes internally from the state of the core of a particle, object, planet, or galaxy. 
 
-These states have predefined levels or ranges. The relative interaction of the states creates movement, whether as energy emission or gravitation. It also contracts space and dilates time depending on the relative wave-states. 
+These states have predefined levels or ranges. The relative interaction of the states creates movement, whether as energy emission or gravitation. It also contracts space and dilates time depending on the relative wave-states.
+
+These pre-defined ranges lead to Francis Bacon Tables. In this way, you don't compute things from scratch. Instead, you get the relevant data, then consult the table. From there, you can make your computations to get more precision. 
 
 The manipulation of wave-states will therefore create anti-gravity and the teleportation of masses, both of which are impossible if you regard movement as coming from the outside.
 
+Instead of arbitrary dimensions, there are 7 dimensions matching the different way the aetherspace can house distinct universes within the multiverse.
 
 
-
-Instead of Relativity, length contraction and time dilation are caused by the state of the light or electricity as it moves through space. 
-
-It has no effect on inorganic matter whatsoever and only affects eletromagnetic things like satellites, atomic clocks, stars, etc. 
-
-Electrodynamics and mechanics are not in absolute rest.
-
-Motion is always in the movable thing, not in that which moves.
+<!-- Instead of Relativity, length contraction and time dilation are caused by the state of the light or anything electromagnetic as it moves through space.  -->
 
 
-However, Quantum Mechanics this was in disagreement with General Relativity which  
+<!-- It has no effect on inorganic matter whatsoever and only affects eletromagnetic things like satellites, atomic clocks, stars, etc.  -->
+
+
+<!-- Electrodynamics and mechanics are not in absolute rest. -->
+
+<!-- Motion is always in the movable thing, not in that which moves. -->
+
+
+<!-- However, Quantum Mechanics this was in disagreement with General Relativity which  
 
 
 
@@ -69,4 +75,4 @@ Physicists tried to predict the position of electrons using Newton's laws as F= 
 
 Eisntein tried to solve it by using his Special Relativity. This didn't work either. 
 
-Bohr solved this by throwing away both Newton and Einstein and instead saying 
+Bohr solved this by throwing away both Newton and Einstein and instead saying  -->

@@ -5,8 +5,7 @@ linkTitle: Part 2
 weight: 6
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
-image: /covers/elements.jpg
-draft: true
+image: /covers/elements.jp
 ---
 
 
@@ -16,12 +15,19 @@ If the remainder of 2 unequal magnitudes (which are) [laid out] never measures t
 
 For, AB and CD being two unequal magnitudes, and AB (being) the lesser, let the remainder never measure the (magnitude) before it, (when) the lesser (magnitude is) continually subtracted in turn from the greater. I say that the magnitudes AB and CD are incommensurable. 
 
-A G
-E
-C
-F
-B
-For if they are commensurable then some magnitude will measure them (both). If possible, let it (so) measure (them), and let it be E. And let AB leave CF less than itself (in) measuring FD, and let CF leave AG less than itself (in) measuring BG, and let this happen continually, until some magnitude which is less than E is left. Let (this) have occurred, and let AG, (which is) less than E, have been left. Therefore, since E measures AB, but AB measures DF, E will thus also measure FD. And it also measures the whole (of) CD. Thus, it will also mea- sure the remainder CF. But, CF measures BG. Thus, E also measures BG. And it also measures the whole (of) AB. Thus, it will also measure the remainder AG, the greater (measuring) the lesser. The very thing is impos- sible. Thus, some magnitude cannot measure (both) the magnitudes AB and CD. Thus, the magnitudes AB and CD are incommensurable [Def. 10.1).
+{{< i s="/graphics/meta/agb.png" a="lines" >}}
+
+
+For if they are commensurable then some magnitude will measure them (both). If possible, let it (so) measure (them), and let it be E.
+
+Let AB leave CF less than itself (in) measuring FD, and let CF leave AG less than itself (in) measuring BG, and let this happen continually, until some magnitude which is less than E is left. 
+
+Let (this) have occurred, and let AG, (which is) less than E, have been left. Therefore, since E measures AB, but AB measures DF, E will thus also measure FD. And it also measures the whole (of) CD. 
+
+Thus, it will also mea- sure the remainder CF. But, CF measures BG. Thus, E also measures BG. And it also measures the whole (of) AB. Thus, it will also measure the remainder AG, the greater (measuring) the lesser. 
+
+The very thing is impos- sible. Thus, some magnitude cannot measure (both) the magnitudes AB and CD. Thus, the magnitudes AB and CD are incommensurable [Def. 10.1).
+
 Thus, if... of two unequal magnitudes, and so on....
 
 

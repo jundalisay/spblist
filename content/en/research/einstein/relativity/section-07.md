@@ -23,9 +23,9 @@ The Dutch astronomer De Sitter observed double stars and showed that:
 
 <!-- In short, let us assume that the simple law of the constancy of the velocity of light c (in vacuum) is justifiably believed by the child at school.  -->
 
-This simple law has plunged me into the greatest intellectual difficulties.
+**This simple law has plunged me into the greatest intellectual difficulties.**
 
-All processes happen in a rigid space or coordinate system. The embankment is our space:
+All processes happen in a rigid space or coordinate system. The embankment is our space.
 - Remove the air 
 - Send a ray of light along the embankment
 - The tip of the ray will be transmitted with the velocity `c` relative to the embankment. 
@@ -58,9 +58,11 @@ This means we must abandon either:
 
 Those who have read my reasoning from Sections 1 to here would side with my principle of relativity because it is <!-- appeals so convincingly to the intellect because it is  -->so natural and simple. This means that the speed of light in a vacuum must be replaced by a more complicated law that conforms to my principle of relativity.
 
-The theoretical physics, however, shows that we cannot do that because of H. A. Lorentz. He made epoch-making theoretical investigations on the electrodynamical and optical phenomena connected with moving bodies. It shows a theory of electromagnetic phenomena which necessarily leads to the  constancy of the speed of light in a vacuum. 
+The theoretical physics, however, shows that we cannot do that because H. A. Lorentz had shown a theory of electromagnetic phenomena which necessarily leads to the constancy of the speed of light in a vacuum.
 
-Prominent theoretical physicists therefore reject my principle of relativity, despite no empirical data has disproven it. 
+<!-- . He made epoch-making theoretical investigations on the electrodynamical and optical phenomena connected with moving bodies. It  -->
+
+Prominent theoretical physicists therefore reject my principle of relativity, even if no empirical data has disproven it. 
 
 <!-- As a result of an analysis of the physical conceptions of time and space, it became evident that in reality there is not the least incompatibility between  -->
 
@@ -69,5 +71,6 @@ Prominent theoretical physicists therefore reject my principle of relativity, de
 The principle of relativity and the speed of light must be perfectly compatible. <span style="color=  red">I arrive at this by analyzing the physical conceptions of space and time.</span> I call this Special Relativity to distinguish it from General Relativity*.
 
 
-> *Superphysics Note: In order to explain why light in a moving vehicle travels at a constant speed instead of being added to the vehicle's speed, Einstein assigns the cause to the constancy of the speed of light. This constancy then caused by the nature of spacetime
+{{< n n="In order to explain why light in a moving vehicle travels at a constant speed instead of being added to the vehicle's speed, Einstein assigns the cause to the constancy of the speed of light. This constancy then is caused by the nature of spacetime" >}}
+
 
