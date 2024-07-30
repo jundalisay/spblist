@@ -1,7 +1,7 @@
 ---
 title: "Radiant (Electromagnetic) Potential Energy"
 heading: Chapter 2b
-date: 2024-01-03
+# date: 2024-01-03
 image: /graphics/physics/general.jpg
 description: "The Inter-Radiant Boundary is known as the Higgs Field in Modern Physics"
 writer:

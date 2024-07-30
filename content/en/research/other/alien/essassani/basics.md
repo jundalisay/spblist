@@ -8,18 +8,18 @@ author: Consolidated from Bashar
 
 
 
-The Essassani are a 5th dimensional civilization in an parallel reality in the Orion's belt. They are based on unconditional love, ecstasy, fun, following your excitement, being totally non-judgmental, and giving validity and equality to the uniqueness of each individual in their society*.
+The Essassani are a 5th dimensional civilization in a parallel reality in the Orion's belt. They are based on unconditional love, ecstasy, fun, following your excitement, being totally non-judgmental, and giving validity and equality to the uniqueness of each individual in their society*.
 
 <!-- Even the Pleiadians look up to the Essassani civilization as being exceptionally spiritually-advanced*. -->
 
-{{< box >}}
-#### *Superphysics Note
-
+{{< d t="Superphysics Note" >}}
 Superhysics is based on David Hume's maxim that mentality creates reality. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. 
 
 However, no one seems to be keen enough to notice that their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans.
 
-Unlike the Essassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us.
+Unlike the Essassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us. 
+
+Even if you say that the Essassani are just mirroring our higher minds, the human species is still so low-minded as to vote for Trump and let Russia and Israel invade and kill Ukrainians and Gazans. 
 
 We can think of the Essassani as high end quad-core gaming laptops capable of playing exciting games like multiplayer Call of Duty and DOTA2, while humans are low end Pentium I capable of only single-player Wolfenstein 3D.
 
@@ -32,7 +32,14 @@ It would be like upgrading a Pentium I to play a Wolfenstein 3D updgraded to be 
 Their solution to this are the mantras: 'so what?' and 'let it go' and 'relax your definitions'. 
 
 Humans can upgrade themselves to Essassani by evolving genetically with each generation while following such general principles.
-{{< /box >}}
+{{< /d >}}
+
+
+
+
+<!-- <details id="TableOfContents" class="px-4 mt-4 mb-2 bg-gray-100 dark:bg-gray-700 rounded toc" open>
+    asdfasdfasd
+</details> -->
 
 
 ## Basic Beliefs
@@ -114,7 +121,8 @@ The 5 Basic Laws of Creation which are true Everywhere/Everywhen in the universe
 5. The only constant in the universe is change -  except for the first 4 postulates, which never change.
 
 
-> *Superphysics Note: In Hinduism, this is karma.
+{{< n n="In Hinduism, this is karma." >}}
+
 
 
 <!-- Initially I was confused at how the 7 densities of the Essassani didn't match up to the 7 chakras of Hinduism. Metaphysical principles are supposed to be consistent in all dimensions and all perspectives. But the Essassani metaphysics is strange as it assigns the thoughts and feelings as 3rd density, when in Hindu metaphysics, these apply to all densities and originates from the 7th density. 
@@ -128,7 +136,9 @@ I realized it's because the Essassani are already unified and based on 4th densi
 
 This is whatever is most exciting to you at the moment, in the highest* sense.  Do this every moment that you can.
 
-> *Superphysics note: Highest here means dharmic. Unfortunately, the channel Darryl does not know Sanskrit and so the best English word is 'highest'. However, 'highest' does not automatically imply spirituality. This is the drawback of using that word. 
+
+{{< n n="Highest here means dharmic. Unfortunately, the channel Darryl does not know Sanskrit and so the best English word is 'highest'. However, 'highest' does not automatically imply spirituality. This is the drawback of using that word." >}}
+
 
 
 

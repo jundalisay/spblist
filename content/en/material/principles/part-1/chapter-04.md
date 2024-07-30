@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4e"
 title: "Positive and Negative Polarity"
-date: 2023-12-10
+# date: 2023-12-10
 image: /graphics/physics/michelson.jpg
 # image: /photos/meta/buddhism.jpg
 description: "The aether drag is a fallacy created by post-Descartes physicists, probably by Fresnel"

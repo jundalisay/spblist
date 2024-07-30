@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 12"
 title: "Gravity from Qosts"
-date: 2024-0-7-22
+# date: 2024-0-7-22
 image: "/graphics/physics/francis.jpg"
 description: "Here we explain how gravity works"
 weight: 44

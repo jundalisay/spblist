@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1b"
 title: "The Probability Layer"
-date: 2020-01-01
+# date: 2020-01-01
 image: "/photos/objects/rubik.jpg"
 description: "The Probability Layer is only theoretical"
 writer:

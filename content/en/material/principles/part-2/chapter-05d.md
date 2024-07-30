@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5d"
 title: "The Galactic Qosts as Spatial Vortices"
-date: 2020-01-31
+# date: 2020-01-31
 image: "/photos/physics/messier87.jpg"
 description: "A galaxy is the best representative body of the lower spatial layer in nature, as a galactic qost"
 writer:

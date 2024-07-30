@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3c"
 title: "The Properties of Time"
-date: 2023-03-10
+# date: 2023-03-10
 weight: 8
 image: /photos/objects/clock.jpg
 # was 1c

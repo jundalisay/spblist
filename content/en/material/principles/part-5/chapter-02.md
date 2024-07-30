@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2"
 title: "The Upper, Middle, and Lower Material"
-date: 2023-12-10
+# date: 2023-12-10
 image: /photos/objects/water.jpg
 description: "The Sublayers are Solid, Liquid, Gas"
 writer:

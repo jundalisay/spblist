@@ -42,7 +42,11 @@ Again, it should be noted that, being surrounded all around, the air they displa
 
 Therefore, in whatever way one might consider it, these droplets must always remain round, unless the force of some wind or some other specific cause prevents them.
 
-As for their size, it depends on how close the parts of the vapor are to each other when they begin to form the droplets, as well as on how agitated they are afterward, and on the amount of other vapors that can join them. Initially, each droplet is composed of only two or three small parts of the vapor that meet; but soon after, if this vapor is somewhat thick, two or three of the droplets that have formed from it will meet and join into one, and again two or three of these will join into one, and so on, until they can no longer meet. While they are suspended in the air, other vapors can also join them and increase their size until, finally, their weight causes them to fall as rain or dew.
+As for their size, it depends on how close the parts of the vapor are to each other when they begin to form the droplets, as well as on how agitated they are afterward, and on the amount of other vapors that can join them. Initially, each droplet is composed of only two or three small parts of the vapor that meet.
+
+But soon after, if this vapor is somewhat thick, two or three of the droplets that have formed from it will meet and join into one, and again two or three of these will join into one, and so on, until they can no longer meet. 
+
+While they are suspended in the air, other vapors can also join them and increase their size until, finally, their weight causes them to fall as rain or dew.
 
 
 ### Ice Particles
@@ -92,4 +96,3 @@ The largest fogs, like clouds, form where the course of two or more winds ends.
 These winds drive many vapors to these locations, where they thicken into fog if the air near the ground is very cold or into clouds if it is only cold enough to condense them higher up. Note that the water droplets or ice particles that make up fog must be very small; if they were even slightly larger, their weight would quickly cause them to fall to the ground, so we would not call it fog but rain or snow.
 
 There can never be any wind where fog forms, as it would quickly disperse it, especially when composed of water droplets. Even the slightest air movement causes these droplets to join and grow larger, eventually falling as rain or dew.
-

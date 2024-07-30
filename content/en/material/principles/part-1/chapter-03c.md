@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3b"
 title: "How Kepler's Harmonic Ratios Create Movement"
-date: 2023-11-10
+# date: 2023-11-10
 image: "/graphics/physics/doremi.jpg"
 description: "Kepler's Harmonic Ratios came from the musical notes of Pythagoras. It is also present in Hindu and Taoist science"
 icon: /icons/spmat.png

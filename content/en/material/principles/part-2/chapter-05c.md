@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5c"
 title: "Mini FAQ on Qosts"
-date: 2020-01-31
+# date: 2020-01-31
 image: /covers/faq.png
 description: "What is the difference between a qost and a gravitational signature"
 writer:

@@ -3,7 +3,7 @@ heading: Chapter 1
 linkTitle: Chapter 1
 title: "The Convertible Layer of Superphysics"
 # heading: Transforming Matter as Modern Alchemy
-date: 2020-01-28
+# date: 2020-01-28
 linkTitle: "Convertible Layer"
 image: /photos/physics/elec.jpg
 description: "The Convertible Layer deals with fusion and the conversion of particles into different material types"

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3c"
 title: "Gravitational Territories"
-date: 2023-11-26
+# date: 2023-11-26
 image: "/graphics/physics/territories.jpg"
 description: "Gravitational Territories are the area of a gravitational signature"
 writer:

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3e"
 title: "Timespace as Holder of Gravitational Signatures"
-date: 2024-07-22
+# date: 2024-07-22
 weight: 12
 image: /graphics/physics/spacetime.jpg
 description: "Timespace is the sublayer where time predominates and space is minimal."

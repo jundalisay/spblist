@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5"
 title: "Combustion Through Qors and Qosts"
-date: 2024-02-13
+# date: 2024-02-13
 image: /photos/ukraine.jpg
 description: "Fire is part of the Radiant Element and is ignited from matter whenever qosts are ejected from matter instantly in large amounts"
 writer:

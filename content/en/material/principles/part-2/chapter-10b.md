@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1b"
 title: "Physical Space and Metaphysical Space"
-date: 2023-11-27
+# date: 2023-11-27
 weight: 40
 image: /graphics/physics/aether.jpg
 description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"

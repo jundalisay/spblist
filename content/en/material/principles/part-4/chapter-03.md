@@ -3,7 +3,7 @@ heading: Chapter 3
 # heading: Feynman Diagrams
 linkTitle: Chapter 3
 title: "Convertible Bands -- Radioactivity and Particle Conversion"
-date: 2022-01-03
+# date: 2022-01-03
 linkTitle: "Convertible Bands"
 image: /graphics/physics/feynman.jpg
 description: "Convertible Bands explains the Principles for Movement in the Convertible Layer"

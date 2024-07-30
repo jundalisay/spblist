@@ -1,7 +1,7 @@
 ---
 title: "The Radiant Layer of Superphysics"
 heading: Chapter 1
-date: 2020-01-29
+# date: 2020-01-29
 image: /photos/physics/star.jpg
 description: "The radiant layer of Superphysics is equivalent to the electromagentic field in Physics"
 writer:

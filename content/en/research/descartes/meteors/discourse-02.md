@@ -58,7 +58,7 @@ When water slips into their pores, the water can often release these earth-aethe
 
 <!-- Or more accurately, like how water itself carries to the top of an alembic the small parts of those oils that alchemists are accustomed to extracting from dry plants when they soak them in plenty of water, distill everything together, and thus make the little oil they contain rise with the large amount of water. In fact, most of these parts are the same ones that usually compose the bodies of these oils.  -->
 
-Vapors always occupy much more space than water, although they are made of the same small particles.
+Vapors always occupy much more space than water even if they are made of the same small particles.
 
 This is because when these particles make up water, they only move strongly enough to bend and intertwine. They slide against each other, as represented at `A`. 
 

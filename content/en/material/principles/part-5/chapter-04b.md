@@ -2,7 +2,7 @@
 heading: "Chapter 4b"
 title: "Acids and Bases as Male and Female Effects"
 linkTitle: "Acids and Bases"
-date: 2024-03-17
+# date: 2024-03-17
 image: /graphics/physics/acids.jpg
 description: "Acids are Female, Bases are Male"
 writer:

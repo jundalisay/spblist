@@ -49,11 +49,14 @@
             {{ .Params.heading }}
           </small>
           <div class="font-bold text-2xl mb-2 leading-none">{{ .Params.title }} &rarr;</div>
-          {{ with .Params.date }}
-            <div class="leading-none text-gray-500">
-               {{ .Format "January 2, 2006" }}
-            </div>              
-          {{ end }}          
+          <!-- with .Params.date -->
+              {{ if .Params.showdate }}
+                <div class="leading-none text-gray-500">
+                   {{ .Params.date.Format "January 2, 2006"  }}
+                </div>
+              {{- else }}
+              {{- end }}
+
         </div>
       </a>
 

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 6"
 title: "Technologies from Material Superphysics"
-date: 2022-01-03
+# date: 2022-01-03
 image: /photos/physics/phoenix.jpg
 description: "Material Superphysics leads to new technologies by using all of the 5 Layers"
 writer:

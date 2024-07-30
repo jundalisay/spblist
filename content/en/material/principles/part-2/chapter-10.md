@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 11"
 title: "The Creation of the Universe as a Big Bootup"
-date: 2020-01-31
+# date: 2020-01-31
 linkTitle: "Qost"
 image: "/photos/physics/quasar.jpg"
 description: "Instead of a Big Bang, the universe began as a Big Bootup"

@@ -1,7 +1,7 @@
 ---
 title: "The Spatial Layer of Material Superphysics"
 heading: Chapter 1
-date: 2020-01-31
+# date: 2020-01-31
 linkTitle: "Spatial Layer"
 image: "/photos/physics/quasar.jpg"
 description: "The spatial layer is the spacetime in Physics"

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2"
 title: "The Upper and Lower Aethereal Sublayer as the Cartesian View"
-date: 2020-11-26
+# # date: 2020-11-26
 image: /photos/physics/galaxy.jpg
 description: "The Upper and Lower Aethers"
 writer:

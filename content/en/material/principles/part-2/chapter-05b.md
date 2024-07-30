@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5b"
 title: "Types of Qosts"
-date: 2020-01-31
+# date: 2020-01-31
 image: "/photos/physics/star.jpg"
 description: "Qosts manifest invisibly as spacetime particles, the smallest of which are of the Planck length"
 writer:

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3d"
 title: "The Aetherspace and the 7 Dimensions"
-date: 2024-07-22
+# date: 2024-07-22
 weight: 10
 image: /graphics/physics/spacetime.jpg
 description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
@@ -14,11 +14,11 @@ icon: /icons/spmat.png
 
 In Material Superphysics, the aetherspace is part of the spatial layer that is above spacetime, but below timespace.
 
-Sublayer | Media | Phenomena 
+Sublayer | Media | Domain  | Phenomena 
 --- | --- | ---
-Upper | Timespace | Teleportation (via Electromagnetism)
-Middle | Aetherspace | Gluons (via Matter)
-Lower | Spacetime | Gravity (via Matter), Dark Matter (via Light, Matter), Magnetism (via Electromagnetism) 
+Upper | Timespace | Quasi-Physical | Teleportation (via Electromagnetism)
+Middle | Aetherspace | Quasi-Physical and Physical | Gluons (via Matter)
+Lower | Spacetime | Physical | Gravity (via Matter), Dark Matter (via Light, Matter), Magnetism (via Electromagnetism) 
 
 In Bio Superphysics, it is where spacetimes are glued together by the abstract mind. 
 
@@ -76,9 +76,11 @@ This has practical uses:
 
 ### In the Material to Radiant Layers
 
-From the Material to Radiant Layers, the aetherspace facilitates quantum mechanics. 
+From the Material to Radiant Layers, the aetherspace facilitates quantum mechanics. Its most important use is for teleportation, which will be explained in another chapter. 
 
-If atoms are our basis, then intra-atomic space is aetherspace, while inter-atomic space is spacetime. 
+If atoms are our basis, then:
+- intra-atomic space is aetherspace
+- inter-atomic space is spacetime
 
 {{< youtube Ov5jFvtb3bg >}}
 

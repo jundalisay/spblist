@@ -2,7 +2,7 @@
 heading: Chapter 3
 linkTitle: Chapter 3
 title: "Material Bands -- Contact Forces"
-date: 2020-01-31
+# date: 2020-01-31
 image: /photos/physics/baseball.jpg
 description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
 weight: 6

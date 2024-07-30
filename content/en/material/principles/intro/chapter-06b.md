@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 6"
 title: "The Kepler Tensor and Removing the Metric Tensor"
-date: 2022-01-03
+# date: 2022-01-03
 image: /graphics/super/kepler.png
 description: "The Kepler Tensor plot movements in space or no-space according to universal relativity."
 linkTitle: "Kepler Tensor"

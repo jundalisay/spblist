@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4b"
 title: "The Creation of the Aethereal Universe"
-date: 2020-01-31
+# date: 2020-01-31
 image: "/graphics/flipbook.gif"
 description: "According to Physics, the universe was created through a Big Bang of a material Singularity. This is false."
 writer:

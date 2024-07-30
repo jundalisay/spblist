@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2"
 title: "The Upper, Middle, and Lower Spatial Sublayers"
-date: 2020-01-31
+# date: 2020-01-31
 image: /graphics/physics/disk.jpg
 description: "The Spatial Layer is divided into upper, middle, and lower sublayers according to the 3 Influences Model"
 writer:

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4"
 title: "Aethereal Bands -- Action at a Distance"
-date: 2020-01-31
+# date: 2020-01-31
 image: /graphics/qoaprices.png
 description: "Aethereal Bands explain the Principles for Movement in the Aethereal Layer which is above the Spatial Layer"
 icon: /icons/spmat.png

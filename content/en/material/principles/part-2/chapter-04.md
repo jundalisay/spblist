@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4"
 title: "The Substance of Spacetime: Black Holes"
-date: 2023-11-10
+# date: 2023-11-10
 weight: 14
 image: /graphics/physics/vortex.jpg
 description: "Black holes are stellar vortices. Supermassive black holes are galactic vortices"

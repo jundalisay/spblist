@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5"
 title: "Elastic Relational Bands and Consonance"
-date: 2022-01-03
+# date: 2022-01-03
 image: /graphics/physics/urel.png
 description: "We replace Einstein's Relativity with Universal Elastic Relational Bands as a template for all the movements, whether physical or metaphysical"
 writer:

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2"
 title: "The Upper, Middle, and Lower Convertible"
-date: 2023-12-10
+# date: 2023-12-10
 image: /photos/physics/galaxy.jpg
 description: "The Upper Radiant is the realm of the multiverse."
 writer:

@@ -16,8 +16,9 @@ This means we take information from sources from ancient times, various cultures
 
 An example of channeled information is the Quran which was channeled* through the Prophet Mohammad.    
 
-> *Such information can only come from 3 sources: ex-physical being in spirit form, Elemental, or alien. Because of Its errors in astrophysics, we speculate that Allah is an Elemental of a much higher level than Jinns.  
+{{< n n="*Such information can only come from 3 sources: ex-physical being in spirit form, Elemental, or alien. Because of Its errors in astrophysics, we speculate that Allah is an Elemental of a much higher level than Jinns." >}}
 
+  
 
 Material Superphysics validates its principles and technology proposals by comparing them with advanced alien races. 
 

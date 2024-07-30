@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3b"
 title: "The Law of Relativity"
-date: 2020-01-31
+# date: 2020-01-31
 image: "/photos/idea.jpg"
 description: "A Quantum of Aether or Qoa is the seed or starting point for a universe in the multiverse in the Matrix of Existence"
 writer:

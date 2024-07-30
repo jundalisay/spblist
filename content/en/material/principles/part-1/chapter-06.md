@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 6"
 title: "Technologies from Qoas"
-date: 2020-01-31
+# date: 2020-01-31
 image: "/photos/tech/ai.jpg"
 description: "The practical use of qoas is to enable artificial sentience"
 writer:

@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 10"
 title: "Spatial Relationality"
-# date: 2020-01-31
-date: 2021-12-30
+# # date: 2020-01-31
+# date: 2021-12-30
 weight: 32
 image: /graphics/gravrelm.png
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"

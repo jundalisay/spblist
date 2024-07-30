@@ -2,8 +2,8 @@
 heading: "Chapter 9b"
 title: "Theory of Elastic Gravitational Bands"
 linkTitle: "Elastic Theory"
-# date: 2020-01-31
-date: 2023-02-10
+# # date: 2020-01-31
+# date: 2023-02-10
 weight: 34
 image: /graphics/physics/bands.jpg
 description: "The Elastic Theory is from Descartes and kepler, with important maxim-contributions from Socrates, Taoism, Buddhism, and Hinduism."

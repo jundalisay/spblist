@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1"
 title: "The Aethereal Layer"
-date: 2020-01-31
+# # date: 2020-01-31
 image: /photos/meta/yinyang.jpg
 description: "The aethereal layer is the higgs field in Physics and is the highest physical layer"
 writer:
@@ -12,6 +12,36 @@ icon: /icons/spmat.png
 toc: false
 ---
 
+
+
+The aethereal layer is the first and highest layer in our 5 layers model. 
+
+
+Attribute | Quality
+--- | ---
+Name | **Aether**
+Traditional Name | Aether, Akasha, 水
+Domain | Quasi-Physical
+Force | Desire and Feelings
+Medium | Mind (moa)
+Particles | Ideas (qoa) and Thoughts
+Movement | Purely Kinetic
+Quality | Most Subtle, Highest Control
+
+
+### The Supreme's Perspective Versus Creation's Perspective
+
+From the perspective of the Supreme Entity, the media are the substances. But from the perspective of the self or creation, the substances are the media. 
+
+Sublayer | Medium to the Supreme | Substance to the Supreme | Medium to the Human | Substance to the Human 
+--- | --- | --- | --- | ---
+Upper | unit mind | unconscious | unconscious  | mind
+Middle | feeling | subconscious | subconscious | feeling 
+Lower | idea | conscious | conscious | idea
+
+<!-- Name | Traditional Name | Force | Particles | Quantum
+--- | --- | --- | --- | --- 
+Athereal | Aether | Desire | Ideas, Feelings | Quantum of aether (Qoa), as idea-entity or feeling-entity -->
 
 
 Modern Physics is based on Newton who set [the following rules](/research/newton/principia/book-3/1-introduction):  
@@ -104,18 +134,6 @@ This layer dominates and rules the other four layers, just like spacetime domina
 In terms of creation, this layer is the first layer that precedes physical manifestation. Since it is above spacetime, it is beyond Einstein's rule that nothing can travel faster than light. Thus, time travel and teleportation to other multiverses is facilitated by this layer.
 
 
-Name | Traditional Name | Force | Particles | Quantum
---- | --- | --- | --- | --- 
-Athereal | Aether | Desire | Ideas, Feelings | Quantum of aether (Qoa), as idea-entity or feeling-entity
 
 
 > We write aether with an "a" to differentiate it from the disproven* *ether* of science. This is similar to writing dialectics as "Socratic Dialectics" to set it apart from the corrupted dialetics of Marx. Einstein claims that the Michelson and Morley experiment disproved the ether. In reality, it merely proved that the aether does not reside in the spacetime layer, but in its own layer as the aethereal layer.
-
-
-
-
-
-
-
-
-

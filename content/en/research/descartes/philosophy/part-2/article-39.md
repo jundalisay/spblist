@@ -49,7 +49,7 @@ We experience this by the very sense of touch in a stone while we whirl it aroun
 
 
 
-#### 40. The third law: when one body meets another stronger, it loses nothing of its motion; in encountering a less strong man, he loses as much as he transfers into it.
+<!-- #### 40. The third law: when one body meets another stronger, it loses nothing of its motion; in encountering a less strong man, he loses as much as he transfers into it.
 
 The third law of nature is this: When a body in motion encounters another, if it has less force to proceed in a straight line than the other has to resist it, then it is deflected in another direction and, while retaining its motion, loses only the determination of its motion. 
 
@@ -60,4 +60,21 @@ Thus we experience that any hard bodies projected, when they strike another hard
 All the particular causes of changes that happen to bodies are contained in this third law, at least those that are bodily.
 
 The power that minds, whether human or angelic, have in moving bodies is discussed in my Treatise on Man.
+ -->
+
+
+#### 40. The Third Law: A body does not lose its motion when it encounters a more powerful body. But it transfers some of its motion when it encounters a less powerful body
+
+When a moving body encounters another body, if it has less force to proceed in a straight line than the other has to resist it, then it is deflected to another part. Thus, it retains its motion, it only loses the direction of its motion. 
+
+ <!-- determination of its motion;  -->
+
+But if it has more force, then it moves the other body with it, and loses as much of its own motion as it gives to the other. 
+
+Thus, when hard bodies are projected, on striking another hard body, do not on that account cease from motion, but are reflected to the opposite part.
+
+On the contrary, when they encounter a soft body, because they easily transfer all their motion to it, they are immediately reduced to rest. 
+
+All the particular causes of the changes which happen to bodies, are contained in this Third Law; at least those which are corporeal; for whether and what force human minds or Angelic have for moving bodies, we do not now inquire, but reserve it for the treatise on Man.
+
 

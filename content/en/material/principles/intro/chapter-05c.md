@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: "The Three Rules of Movement"
 linkTitle: "3 Rules"
-date: 2022-01-03
+# date: 2022-01-03
 image: /covers/rule3.jpg
 description: "Rene Descartes gave 3 Rules of Movement in 'The World'"
 weight: 14

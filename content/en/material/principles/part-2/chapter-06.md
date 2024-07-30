@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 6"
 title: "The Gravitational Signature of a Qost"
-date: 2024-07-22
+# date: 2024-07-22
 weight: 24
 image: /graphics/physics/quasar.jpg
 description: ""

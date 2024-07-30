@@ -1,7 +1,7 @@
 ---
 title: "Gravitational Lensing"
 heading: Chapter 5
-date: 2023-05-27
+# date: 2023-05-27
 image: /graphics/physics/lensing.jpg
 description: "In Cartesian Physics, there are 2 kinds of refraction of starlight (gravitational lensing)"
 writer:

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4"
 title: "Male (Positive) and Female (Negative) Charges"
-date: 2020-01-29
+# date: 2020-01-29
 image: /graphics/physics/sparks.jpg
 description: "Male (Positive) and Female (Negative) Charges make up the duality of the Radiant Layer"
 # . Here, we explain how reality reflects our feelings through the Physics concept of particle-spin

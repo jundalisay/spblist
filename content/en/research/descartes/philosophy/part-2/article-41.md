@@ -11,6 +11,10 @@ icon: "/icons/descartes.png"
 ---
 
 
+<!-- XLI. Proof of the First Part of this Rule.
+
+The first part of this Law is demonstrated from the fact that there is a difference between motion considered in itself, and the determination of that motion to a certain part; so that this determination can be changed, the motion itself remaining. For since, as was said before, every simple thing, such as motion is, always persists, as long as it is not destroyed by any external cause; and in the encounter with a hard body, there appears indeed a cause which prevents the motion of the other body it encounters from remaining determined towards the same part; but there is no cause which takes away or diminishes the motion itself, because motion is not contrary to motion; hence it follows that it ought not to be diminished on that account. -->
+
 
 #### 41. Proof of the first part of this rule.
 
@@ -23,13 +27,18 @@ In the collision of a hard body, a cause appears to prevent the motion of the ot
 But there is no cause which takes away or diminishes the motion itself. THis is because motion is not contrary to motion. Hence it follows that it ought not to be diminished for that reason.
 
 
-#### 42. Probatio posterioris partis.
+#### 42. Proof of the Second Part
 
 The other part is also demonstrated by the immutability of God's operation, conserving the world now with the same action with which He once created it. 
 
 All things are filled with bodies. Yet the motion of each body tends in a straight line, it is clear that God, in creating the world from the beginning, not only moved its various parts in different ways but also simultaneously arranged it so that some parts would impel others and transfer their motions to them: so that now, by conserving it with the same action and with the same laws with which He created it, He preserves not a motion always fixed in the same parts of matter, but passing from one to another as they mutually encounter each other. 
 
 Thus, this continuous alteration of creatures itself is an argument for the immutability of God.
+
+
+<!-- The latter part is also demonstrated from the immutability of the operation of God, who continually preserves the world by the same action by which He once created it. For since all things are full of bodies, and nevertheless the motion of each body tends in a straight line, it is clear that God, in creating the world from the beginning, not only moved its different parts in different ways, but also caused some to impel others, and to transfer their motions to them: so that now, in preserving it by the same action, and with the same laws by which He created it, He maintains the motion not always fixed in the same parts of matter, but passing from some to others, as they encounter each other. And so this very continuous change of creatures is an argument of the immutability of God. -->
+
+
 
 
 #### 43. In which consists the power of every body to act or to resist.

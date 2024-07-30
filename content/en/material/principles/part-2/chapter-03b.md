@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3b"
 title: "The Properties of Space"
-date: 2023-11-27
+# date: 2023-11-27
 weight: 6
 image: /graphics/physics/slices.jpg
 # was 1b

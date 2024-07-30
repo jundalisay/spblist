@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4b"
 title: "How Energy and the 2 Forces Manifest in the 5 Layers"
-date: 2023-08-01
+# date: 2023-08-01
 image: "/photos/physics/star.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 writer:

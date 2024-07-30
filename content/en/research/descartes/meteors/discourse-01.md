@@ -10,14 +10,13 @@ writer:
 icon: /icons/descartes.png
 ---
 
-
-We naturally have more admiration for things above us than for those at the same height or below. 
+<!-- We naturally have more admiration for things above us than for those at the same height or below. 
 
 The clouds scarcely exceed the summits of some mountains, and we often see some lower than the tops of our church spires, nevertheless, because we must look up to the sky to see them, we imagine them to be so elevated that even poets and painters compose the throne of God from them and depict Him using His own hands to open and close the doors of the winds, to pour dew on the flowers, and to hurl lightning at the rocks. 
 
-This leads me to hope that if I explain their nature here in such a way that one no longer has occasion to admire anything seen in them or that descends from them, it will be easily believed that it is possible in the same way to find the causes of everything most admirable on Earth.
+This leads me to hope that if I explain their nature here in such a way that one no longer has occasion to admire anything seen in them or that descends from them, it will be easily believed that it is possible in the same way to find the causes of everything most admirable on Earth. -->
 
-I will speak in this first discourse of the nature of terrestrial bodies in general, so that I can better explain in the following one the nature of exhalations and vapors.
+This first discourse will deal with the nature of terrestrial bodies in general, so that I can better explain in the following one the nature of exhalations and vapors.
 
 The vapors rising from the seawater sometimes form salt above its surface.
 

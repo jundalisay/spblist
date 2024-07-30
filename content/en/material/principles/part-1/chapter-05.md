@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5"
 title: "The Aether Drag"
-date: 2023-02-05
+# date: 2023-02-05
 image: /graphics/physics/michelson.jpg
 # image: /photos/meta/buddhism.jpg
 description: "The aether drag is a fallacy created by post-Descartes physicists, namely Huygens"

@@ -2,7 +2,7 @@
 heading: "Chapter 2"
 title: "The Upper, Middle, and Lower Sublayers"
 # Theoretical Organization of the 5 Layers
-date: 2023-11-02
+# date: 2023-11-02
 image: /graphics/super/layers.jpg
 description: "The Sublayers are due to the 3 influences"
 writer:

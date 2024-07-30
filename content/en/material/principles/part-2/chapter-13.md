@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 13"
 title: "Technologies from Qosts"
-date: 2020-01-31
+# date: 2020-01-31
 image: "/photos/physics/phoenix.jpg"
 description: "The practical use of qosts is to enable levitation and teleportation technologies"
 writer:

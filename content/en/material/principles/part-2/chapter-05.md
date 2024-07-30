@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5"
 title: "The Quantum of Spacetime"
-date: 2020-01-31
+# date: 2020-01-31
 image: /photos/physics/galaxy.jpg
 description: "The Quantum of Spacetime is the fundamental particle in the Spatial Layer"
 writer:

@@ -21,17 +21,18 @@ icon: "/icons/descartes.png"
 
 The things and the modes of things should be examined each of them by itself. 
 
-"Substance" is a thing which exists in such a way that it needs nothing beyond itself in order to exist.
+**"Substance" is a thing which exists in such a way that it needs nothing beyond itself in order to exist.**
 
 In truth, there is only one substance which is absolutely independent -- God.
 - All other things can exist only by help of the concourse of God.
 
 Accordingly, "substance" applies to God and created things differently. 
-- The word "substance" does not have any meaning which is common to God and them.
+- The word "substance" does not have any meaning which is common to God and them.*
 <!-- does not apply to God and the creatures UNIVOCALLY.  -->
 <!-- , to adopt a term familiar in the schools; that is,  -->
-
 <!-- no signification of this word can be distinctly understood which  -->
+
+{{< n n="We use the word 'idea' and 'mind' instead of substance" >}}
 
 
 #### 52. Applicability of Substance

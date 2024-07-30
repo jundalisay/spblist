@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4"
 title: "Vortex Manifestation in the 5 Layers"
-date: 2024-01-02
+# date: 2024-01-02
 image: "/photos/meta/yinyang.jpg"
 description: "The 2 Forces of Positive and Negative create a duality in the physical domain"
 writer:

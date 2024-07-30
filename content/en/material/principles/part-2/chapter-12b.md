@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 12"
 title: "Comets and Climate Change"
-date: 2024-06-15
+# date: 2024-06-15
 image: "/graphics/physics/comets.jpg"
 description: "Here we explain how comets can lead to climate change"
 weight: 46

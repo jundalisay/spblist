@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5b"
 title: "The Zeeman Effect and Descartes' Aether"
-date: 2023-10-30
+# date: 2023-10-30
 image: /graphics/physics/zeeman.jpg
 description: "Bohr applies the aether to the Zeeman effect wherein light is affected by magnetism as to cause perturbations in the light"
 writer:

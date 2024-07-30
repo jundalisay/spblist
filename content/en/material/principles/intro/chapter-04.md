@@ -1,7 +1,7 @@
 ---
 title: "Gravitational Signatures"
 heading: "Chapter 3b"
-date: 2022-01-03
+# date: 2022-01-03
 image: /graphics/keplertgr.png
 description: "In Superphysics, electrons have a positive or masculine charge, while protons have a negative or feminine charge"
 writer:

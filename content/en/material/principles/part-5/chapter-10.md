@@ -2,7 +2,7 @@
 heading: Chapter 19
 linkTitle: Chapter 1
 title: "The Material Planets in Space"
-date: 2024-07-26
+# date: 2024-07-26
 image: /photos/physics/mars.jpg
 description: "The material planets compared"
 linkTitle: "Material Layer"
