@@ -1,12 +1,14 @@
 ---
 heading: Part 6c
-title: "Supersymmetry"
-description: "The known forces of nature can be divided into 4 classes"
+title: "Supersymmetry, String Theory, M-Theory"
+description: "Supersymmetry is a more subtle kind of symmetry that cannot be associated with a transformation of ordinary space"
+author: Hawking
 weight: 34
 image: /covers/design.jpg
 ---
 
 
+### Supersymmetry
 
 In physics, a system has a symmetry if its properties are unaffected by a certain transformation such as:
 - rotating it in space or
@@ -16,52 +18,94 @@ For example, if you flip a plain donut, it looks exactly the same.
 
 Supersymmetry is a more subtle kind of symmetry that cannot be associated with a transformation of ordinary space. 
 
-One of the important implications of supersymmetry is that force particles and matter particles, and hence force and matter, are really just two facets of the same thing.
+It implies that force particles and matter particles, and hence force and matter, are really just two facets of the same thing:
+- each matter particle, such as a quark, should have a partner force particle.
+- each force particle, such as the photon, should have a partner matter particle.
 
-Practically, it means that:
-- each matter particle, such as a quark, should have a partner particle as its force particle.
-- each force particle, such as the photon, should have a partner particle as its matter particle.
+This can solve the problem of infinities: 
+- The infinities from closed loops of force particles are positive
+- The infinities from closed loops of matter particles are negative
 
-This has the potential to solve the problem of infinities because it turns out that the infinities from closed loops of force particles are positive while the infinities from closed loops of matter particles are negative, so the infinities in the theory arising from the force particles and their partner matter particles tend to cancel out. 
+In this way, the infinities in the theory arising from the force particles and their partner matter particles tend to cancel out.
 
-Unfortunately, the calculations required to find out whether there would be any infinities left uncanceled in supergravity were so long and difficult and had such potential for error that no one was prepared to undertake them. 
+Unfortunately, the calculations required to find out whether there would be any infinities left uncanceled in supergravity:
+- were so long and difficult
+- had such potential for error
 
-Most physicists believed, nonetheless, that supergravity was probably the right answer to the problem of unifying gravity with the other forces.
+This is why no one did them. 
 
-You might think that the validity of supersymmetry would be an easy thing to check—just examine the properties of the existing particles and
-see if they pair up. No such partner particles have been observed. But various calculations that physicists have performed indicate that the
-partner particles corresponding to the particles we observe ought to be a thousand times as massive as a proton, if not even heavier. That is
-too heavy for such particles to have been seen in any experiments to date, but there is hope that such particles will eventually be created in
-the Large Hadron Collider in Geneva.
+Nonetheless, most physicists believed that supergravity was probably the right answer to the problem of unifying gravity with the other forces.
 
-The idea of supersymmetry was the key to the creation of supergravity, but the concept had actually originated years earlier with theorists
-studying a fledgling theory called string theory. According to string theory, particles are not points, but patterns of vibration that have length but no height or width—like infinitely thin pieces of string. String theories also lead to infinities, but it is believed that in the right version they will all cancel out. 
+You might think that validating supersymmetry would be easy--just examine the properties of the existing particles and see if they pair up. 
 
-They have another unusual feature: They are consistent only if space-time has ten dimensions, instead of the usual 4. 
+**But no such partner particles have been observed.**
 
-Ten dimensions might sound exciting, but they would cause real problems if you forgot where you parked your car. If they are present,
-why don’t we notice these extra dimensions? According to string theory, they are curved up into a space of very small size. To picture this,
-imagine a two-dimensional plane. We call the plane two-dimensional because you need two numbers (for instance, horizontal and vertical coordinates) to locate any point on it. 
+But physicists have performed various calculations. These show that the partner particles of those existing particles should be 1,000 times as massive as a proton, if not even heavier. 
 
-Another two-dimensional space is the surface of a straw. To locate a point on that space, you need to know where along the straw’s length the point is, and also where along its circular dimension. But if the straw is very thin, you would get a very good approximate position employing only the coordinate that runs along the straw’s length, so you might ignore the circular dimension.
+That is too heavy for such particles to have been seen in any experiments to date. But there is hope that such particles will eventually be created in the Large Hadron Collider in Geneva.
 
-If the straw were a million-million-millionmillion-millionth of an inch in diameter, you wouldn’t notice the circular dimension at all. That is the picture string theorists have of the extra dimensions—they are highly curved, or curled, on a scale so small that we don’t see them. In string theory the extra dimensions are curled up into what is called the internal space, as opposed to the three-dimensional space that we experience in everyday life. 
+The idea of supersymmetry was the key to the creation of supergravity.
+
+
+### String Theory
+
+But the concept had actually originated years earlier with theorists studying a fledgling theory called string theory. 
+
+According to string theory, particles are not points, but patterns of vibration that have length but no height or width, like infinitely thin pieces of string. 
+
+String theories also lead to infinities, but it is believed that in the right version they will all cancel out. 
+
+They have another unusual feature: **They are consistent only if space-time has 10 dimensions, instead of the usual 4.**
+
+
+<!-- Ten dimensions might sound exciting, but they would cause real problems if you forgot where you parked your car.  -->
+
+We do not notice these extra dimensions because they are curved up into a very small space. 
+
+Imagine a 2D plane, as a straw.
+
+ <!-- We call the plane two-dimensional because you need two numbers (for instance, horizontal and vertical coordinates) to locate any point on it.  -->
+
+Another 2D space is the surface of a straw. To locate a point on that space, you need to know:
+- where along the straw’s length the point is
+- where along its circular dimension. 
+
+But if the straw is very thin, you would get a very good approximate position employing only the coordinate that runs along the straw’s length, so you might ignore the circular dimension.
+
+If the straw were a million-million-million-million-millionth of an inch in diameter, you wouldn’t notice the circular dimension at all. 
+
+That is the picture string theorists have of the extra dimensions—they are highly curled, on a scale so small that we don’t see them. 
+
+In string theory, the extra dimensions are curled up into the "internal space", as opposed to our usual 3D space.
 
 These internal states are not just hidden dimensions swept under the rug—they have important physical significance.
 
-In addition to the question of dimensions, string theory suffered from another awkward issue: There appeared to be at least five different
-theories and millions of ways the extra dimensions could be curled up, which was quite an embarrassment of possibilities for those advocating that string theory was the unique theory of everything. Then, around 1994, people started to discover dualities—that different string theories, and different ways of curling up the extra dimensions, are simply different ways of describing the same phenomena in four dimensions.
+In addition to the question of dimensions, string theory suffered from another awkward issue: There appeared to be at least 5 different theories and millions of ways the extra dimensions could be curled up.
 
-Moreover, they found that supergravity is also related to the other theories in this way. String theorists are now convinced that the 5 different string theories and supergravity are just different approximations to a more fundamental theory, each valid in different situations.
+It was an embarrassment of possibilities for a theory of everything. 
 
-That more fundamental theory is called M-theory, as we mentioned earlier. No one seems to know what the “M” stands for, but it may be “master,” “miracle,” or “mystery.” It seems to be all three.
+Then, around 1994, people started to discover dualities—that different string theories, and different ways of curling up the extra dimensions, are simply different ways of describing the same phenomena in 4 dimensions.
+
+Moreover, they found that supergravity is also related to the other theories in this way. 
+
+String theorists are now convinced that the 5 different string theories and supergravity are just different approximations to a more fundamental theory, each valid in different situations.
+
+
+### M-Theory
+
+That more fundamental theory is called M-theory.
+
+<!-- No one seems to know what the “M” stands for, but it may be “master,” “miracle,” or “mystery.” It seems to be all three. -->
 
 People are still trying to decipher the nature of M-theory, but that may not be possible. It could be that the physicist’s traditional expectation of a single theory of nature is untenable, and there exists no single formulation.
 
-It might be that to describe the universe, we have to employ different theories in different situations. Each theory may have its own version of reality, but according to modeldependent realism, that is acceptable so long as the theories agree in their predictions whenever they overlap, that is, whenever they can both be applied.
+It might be that to describe the universe, we have to employ different theories in different situations. 
 
-Whether M-theory exists as a single formulation or only as a network, we do know some of its properties. First, M-theory has eleven spacetime dimensions, not ten. String theorists had long suspected that the prediction of ten dimensions might have to be adjusted, and recent work
-showed that one dimension had indeed been overlooked.
+Each theory may have its own version of reality, but according to modeldependent realism, that is acceptable so long as the theories agree in their predictions whenever they overlap, that is, whenever they can both be applied.
+
+Whether M-theory exists as a single formulation or only as a network, we do know some of its properties. 
+
+First, M-theory has eleven spacetime dimensions, not ten. String theorists had long suspected that the prediction of ten dimensions might have to be adjusted, and recent work showed that one dimension had indeed been overlooked.
 
 Also, M-theory can contain:
 - vibrating strings

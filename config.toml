@@ -429,7 +429,7 @@ paginate = 12
       url = "/superphysics/principles/chapter-07e/"
       img = "/graphics/super/ai.png"
       title = "Superphysics: Autonomous Natural Intelligence"
-      sub = "We propose a model-based machine learning based on Superphysics (year 2080s)"
+    sub = "We propose a model-based machine learning based on Superphysics (year 2080s)"
 
     [languages.en.params.tricon7]
       heading = "Unite the World with Common Morals and Systems"

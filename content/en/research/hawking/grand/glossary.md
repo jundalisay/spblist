@@ -1,25 +1,23 @@
 ---
 title: "Glossary"
-description: ""
+description: "Glossary from Hawking"
 weight: 200
 image: /covers/design.jpg
 ---
 
 
-
-Alternative histories • a formulation of quantum theory in which the probability of any observation is
-constructed from all the possible histories that could have led to that observation.
-Anthropic principle • the idea that we can draw conclusions about the apparent laws of physics based on
-the fact that we exist.
-Antimatter • each particle of matter has a corresponding anti-particle. If they meet, they annihilate each
+Word | Meaning
+--- | ---
+Alternative histories | a formulation of quantum theory in which the probability of any observation is constructed from all the possible histories that could have led to that observation.
+Anthropic principle | the idea that we can draw conclusions about the apparent laws of physics based on
+the fact that we exist
+Antimatter | each particle of matter has a corresponding anti-particle. If they meet, they annihilate each
 other, leaving pure energy.
-Apparent laws • the laws of nature that we observe in our universe—the laws of the four forces, and the
+Apparent laws | the laws of nature that we observe in our universe—the laws of the four forces, and the
 parameters such as mass and charge that characterize the elementary particles—in contrast to the more
 fundamental laws of M-theory that allow for different universes with different laws.
-Asymptotic freedom • a property of the strong force that causes it to become weaker at short distances.
-
-Hence, although quarks are bound in nuclei by the strong force, they can move within nuclei almost as if they felt no force at all.
-Atom • the basic unit of ordinary matter, consisting of a nucleus with protons and neutrons, surrounded byorbiting electrons.
+Asymptotic freedom | a property of the strong force that causes it to become weaker at short distances. Hence, although quarks are bound in nuclei by the strong force, they can move within nuclei almost as if they felt no force at all.
+Atom | the basic unit of ordinary matter, consisting of a nucleus with protons and neutrons, surrounded byorbiting electrons.
 
 Baryon • a type of elementary particle, such as the proton or neutron, that is made of three quarks.
 Big bang • the dense, hot beginning of the universe. The big bang theory postulates that about 13.7 billion

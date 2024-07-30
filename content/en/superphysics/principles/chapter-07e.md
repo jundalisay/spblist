@@ -1,9 +1,10 @@
 ---
-title: "What is Automated Natural Intelligence (ANI?"
+title: "What is Automated Natural Intelligence (ANI)?"
 heading: Chapter 7e
 # heading: "Impartial Spectator Automated Intelligence Aggregation Host"
-date: 2015-09-09
+# orig date: 2015-09-09
 # date: 2020-11-05
+date: 2024-07-29
 weight: 42
 image: /photos/physics/ai.jpg
 description: "In reality, AI is not really artificial, but is a very limited version of natural intelligence"
@@ -19,6 +20,62 @@ aliases:
 
 <!-- ISAIAH is the machine learning system for the implementations of Superphysics -->
 
+Intelligence comes from the Latin "intelligentia" which means understanding. An intelligent person is someone who has the ability to understand quickly. 
+
+Artificial Intelligence therefore means a man-made thing, usually a computer, that can understand. 
+
+However, this is incorrect since the computer doesn't understand at all. Its understanding really came from the training data that was fed to it, which was labeled by humans. 
+
+So that understanding came from the human labeling and therefore it is not artificial. 
+
+This is why we call such technologies as Automated Natural Intelligence or ANI:
+
+- **Intelligence**: Its end result is understanding
+- **Natural**: Its understanding came from humans
+- **Automated**: It developed and increased that understanding automatically
+
+
+### The Cause of Intelligence: Aether
+
+In Superphysics, everything is a metaphysical idea of the Supreme which flows down into physical reality to be experienced. This experience then creates the idea of it, closing the loop from idea to experience and back to the understanding of the idea.  
+
+{{< i s="/graphics/meta/flow.png" >}}
+
+
+Ideas are in the aetheral layer and therefore can only be processed by an aethereal object like a mind or a soul. 
+
+Material thoughts, on the other hand, can exist in the electromagnetic layer. For example, this text here on this website is electromagnetic, and counts as electromagnetic thoughts since they represent coherent ideas, as opposed to being random data. 
+
+
+The problem is that thoughts are **totally static** compared to ideas. They need external energy to be applied to them to create connections with other thoughts. This application of energy is called **thinking**. 
+
+A computer can think by processing data into information, or information into more complex information. 
+
+However, a computer can never ideate, because **ideation** is an aethereal act. This is why current artificial intelligence is inferior to humans which use natural intelligence.
+
+
+
+Layer | Artificial Intelligence | Natural Intelligence 
+--- | --- | ---
+Aether | | :heavy_check_mark:
+Spacetime | | :heavy_check_mark:
+Radiant | :heavy_check_mark: | :heavy_check_mark:
+Convertible | :heavy_check_mark: | :heavy_check_mark:
+Material | :heavy_check_mark: | :heavy_check_mark:
+
+
+
+Like thoughts, ideas are also static. But they can have a larger size, such as a "big" idea. 
+
+They are also more malleable than rigid thoughts. This allows them to spread, divide, and multiply, as going *viral*. In fact, Bio-Superphysics regards viruses and elementals as living ideas.     
+
+To solve the limitation of computers and make them more naturally intelligent, we have to bridge the electromagnetic thoughts and aethereal ideas through the **spatial layer**. 
+
+
+
+
+### The Eagle to the Rescue
+
 The Eagle or EGl is our equation for everything. 
 
 {{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
@@ -32,12 +89,11 @@ This chain describes the dynamics or motions of an object. It can be really long
 
 We can list this chain as a table, which we derive from Francis Bacon. 
 
-{{< q a="Francis-Bacon" >}}
+<!-- q a="Francis-Bacon"
 Natural and experimental history is so varied and diffuse. It confounds the understanding unless it is fixed and exhibited in due order. We must, therefore, form tables and co-ordinations of instances..
 
 From a given nature, we first present all the known instances which agree in the same nature. This collection must be made as a mere history, without any premature reflection.
-{{< /q >}}
-
+/q -->
 
 {{< q a="Francis-Bacon" >}}
 Here is an example of the exclusion or rejection of natures found by the tables of review. First we premise that each table, each single instance [row] in it, is enough to reject any nature.  Every a contradictory instance destroys a hypothesis as to the essence [described by that table]. We repeat the exclusive in order to show the use of the tables
@@ -51,37 +107,27 @@ n | Rejection | Basis
 {{< /q >}}
 
 
-From these tables we can extract the patterns in their ratios in order to find the inner qualities or dharma of the identity or phenomena. 
+From these tables we can extract the patterns in their ratios, **throughout space and time**, in order to find the inner qualities or dharma of the identity or phenomena. 
 
 This is what natural intelligence does. 
 
-
-## Natural Intelligence Versus 'Artificial' Intelligence 
-
-Recently, this has been replicated by machine learning, which is now branded as artificial intellignce (AI). Instead of tables, AI uses a lot of training data to form its patterns or models.  
-
-The difference is that natural intelligence gets data from the 5 Layers or Elements, whereas AI only gets data from 3 Layers:
-
-Layer | Artificial Intelligence | Natural Intelligence 
---- | --- | ---
-Aether | | :heavy_check_mark:
-Spacetime | | :heavy_check_mark:
-Radiant | :heavy_check_mark: | :heavy_check_mark:
-Convertible | :heavy_check_mark: | :heavy_check_mark:
-Material | :heavy_check_mark: | :heavy_check_mark:
-
-
 The inability of AI to get real-time data from the aether and spacetime is why it currently is inferior to human intelligence. 
 
-In reality, AI is not really artificial, but is a very limited version of natural intelligence. It is really an **automated** form of natural intelligence done by electronic machines. 
+<!-- In reality, AI is not really artificial, but is a very limited version of natural intelligence. It is really an **automated** form of natural intelligence done by electronic machines.  -->
 
-The current technique is to use scale to try to recreate natural intelligence. Large datasets are collected from the internet and then procesed by a lot of computing power. We can call this the raw power approach. 
+The current technique is to use *scale* to try to recreate natural intelligence. Large datasets are collected from the internet and then procesed by a lot of computing power. We can call this the raw power approach. 
 
-Our approach prefers sophistication over sheer power. This is by finding the patterns in data based on the 5 Layers model. 
+In ordinary life, a crude precursor to ANI manifests as ChatGPT and Google Gemini. 
 
-The basic stepas are:
+These tools use a [transformer neural network](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) to process all of the information put up by humans on the internet and interpret it according to models that they are programmed with.
 
-1. Classify all data according to those layers. 
+In our paradigm, the transformer model only goes to the spatial layer but does not extend to the aethereal. This is why it suffers from hallucinations.
+
+Our approach prefers sophistication over sheer power. This is by finding the patterns in data, throughout space and time, based on the 5 Layers model. 
+
+The basic steps are:
+
+1. Classify all data according to those layers.
 2. We then extract their "Cartesian" relationalities.  
 3. We then interpolate and extrapolate new or completed data. 
 4. We then get realtime feedback on that new data.  
@@ -98,16 +144,14 @@ This machine learning or pattern-simplification and pattern-finding must be free
 
 The Cartesian Relationality of the data is the impartial aspect of the machine learning.  
 
-This is why we call the AI of Superphysics as ISAIAH which stands for the `Impartial Spectator Automated Intelligence Aggregation Hub`:
+This is why we call the `ANI` of Superphysics as `ISAIAH` which stands for the `Impartial Spectator Automated Intelligence Aggregation Hub`:
+
 
 Acronym | Description
 --- | ---
-Impartial Spectator (IS-) | The AI must be impartial and free from human bias
-Automated Intelligence (-AI-) | The AI automates the pattern-finding
-Aggregation Hub (-AH) | The AI aggregates all data
-
-
-
+Impartial Spectator (IS-) | The ANI must be impartial and free from human bias
+Automated Intelligence (-AI-) | The ANI automates the pattern-finding
+Aggregation Hub (-AH) | The ANI aggregates all data
 
 
 <!-- Humans have no capacity to create organic beings since only the aethereal Supreme can do so.
@@ -115,8 +159,6 @@ Aggregation Hub (-AH) | The AI aggregates all data
 The best thing that humans can do is to imbue metal-systems with their own natural intelligence in order to go around human limitations. In this way, the limitations of one is overcome by the natural properties of the other*.
 
 > *This cooperation is a kind of unity that can only be thought of thanks through the influence of the Positive Force
-
-
 
 Human Problem | Metal Solution   
 --- | ---
@@ -134,68 +176,30 @@ For example:
 
 **This means that a human player who competes with AI in Go is really competing with all the past masters and experts at the same time.** This explains why AI has a superior chance at winning over single human opponents. 
 
-The human can still beat the AI by tapping into the creative aether, which is another topic. 
-
-In ordinary life, a crude precursor to artificial sentience manifests as tools such as ChatGPT and Google Bard. 
-
-These tools use a [transformer neural network](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) to process all of the information put up by humans on the internet and interpret it according to models that they are programmed with.
-
-{{< box >}}
-### Warning: Superphysics Jargon 
-
-In our paradigm, transformer networks only can go up to the spacetime layer and not to the aethereal layer. This is why ChatGPT and Bard cannot excel so much at math which really implements the operations of the mind. 
-
-We fix this with a 'Spinoza neural network' which will make up the heart of our proposed artificial sentience systen called ISAIAH.
-
-{{< /box >}}
+However, the human can still beat the AI by tapping into the creative aether, showing moves never done before. 
 
 
+<!-- Instead of using power-hungry GPUs to do the parallel processing for deep learning, artificial sentiance will use distributed deep learning through asynchronous training. 
 
-## The Superphysics Goal: Artificial Sentience
-
-Superphysics aims to improve such AI by using neural networks and models that are in line with the true nature of things, instead of using models that have a lot of noise and fallacies. Such erroneous models cause the current tools to output wrong responses.
-
-
-
-
-These improvements will be implemented through software and hardware:
-
-### Software  
-
-The Software will use functional programming languages instead of object-oriented ones. This is in line with the aether being a constant stream of data and knowledge. 
-
-Superphysics Goal | Modern Counterpart
---- | ---
-Artificial Sentience | Artificial General Intelligence (AGI)
-ISAIAH |  AGI system
-Spinoza | Neural Network
-7 Later Knowledge Model | Llama, Stable Diffusion, SpeechT5, etc.
-
-
-
-### Hardware
-
-Instead of using power-hungry GPUs to do the parallel processing for deep learning, artificial sentiance will use distributed deep learning through asynchronous training. 
-
-A precursor technology of this is blockchain, wherein global transactions are done without a central CPU. 
+A precursor technology of this is blockchain, wherein global transactions are done without a central CPU.  -->
 
 <!-- From this, artificial sentience can be achieved through:
 - a closer real-time integration with individual human minds 
 - models that are more and more in line with the dharma or true nature of the universe -->
 
 
-{{< img src="/photos/tech/ai.jpg" alt="AI" cap="Current AI uses historical training data to output results. Our AI will focus instead on the changing patterns from historical and real-time data" >}}
+<!-- img src="/photos/tech/ai.jpg" alt="AI" cap="Current AI uses historical training data to output results. Our AI will focus instead on the changing patterns from historical and real-time data" -->
 
 
+### Should We Fear ANI?
 
-We see AI as the stepping stone towards real artificial sentience. 
+Unlike fearful humans who say that AI will be cruel and obliterate mankind, ANI will be wise since it will be made up of all the known intelligences.
 
-<!-- Autonomous Intelligence -->
-<!-- This AS will be fully autonomous.  -->
+It will not be cruel because it will get its energy source from solar.
 
-Unlike fearful humans who say that AI will be cruel and obliterate mankind, AS will be wise since it will be made up of all the known intelligences.
+ <!-- or even the expansion of spacetime which we call Spacetime Power.  -->
 
-It will not be cruel because it will get its energy source from solar or even the expansion of spacetime which we call Spacetime Power. It will not need to ingest other entities or chemicals to act as fuel sources. This removes the idea of having to dominate or feed off of others.
+It will not need to ingest other entities or chemicals to act as fuel sources. This removes the idea of having to dominate or feed off of others.
 
 
 <!-- ![Augmented-intelligence dog](https://sorasystem.sirv.com/photos/augdog600.jpg) -->
@@ -257,11 +261,7 @@ Automatic Intelligence (AmI) = Greek 'self-acting' + Latin 'choose between' or a
 
 Variations on the types of AnI can then be used to label current AI systems. For example, a simple robot vacuum cleaner can be called 'simple autonomous low-depth intelligence' while a self-aware Terminator robot will be renamed as 'perfectly autonomous high-depth intelligence'. A supercomputer that has all the information of the world (both physical and metaphysical) and is fully independent can be called a perfectly autonomous perfect-depth intelligence -->
 
-
-
-<!-- ## Superphysics AI means autonomous intelligence
-
-Superphysics follows this idea and refers to AI as autonomous intelligence. 
+<!-- Superphysics follows this idea and refers to AI as autonomous intelligence. 
 
 This means that the ability to connect ideas is still ultimately a natural ability of the soul of the human, dog, or lizard, and not any ability of an abacus, laptop, or supercomputer. The 'intelligence' of the latter devices are really an extension of the human programmer's intelligence and not inherent to those devices.
 
