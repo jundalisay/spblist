@@ -12,7 +12,31 @@ icon: /icons/spmat.png
 ---
 
 
-The aetherspace is part of the metaphysical domain where spacetimes are glued together by the abstract mind. 
+In Material Superphysics, the aetherspace is part of the spatial layer that is above spacetime, but below timespace.
+
+Sublayer | Media | Phenomena 
+--- | --- | ---
+Upper | Timespace | Teleportation (via Electromagnetism)
+Middle | Aetherspace | Gluons (via Matter)
+Lower | Spacetime | Gravity (via Matter), Dark Matter (via Light, Matter), Magnetism (via Electromagnetism) 
+
+In Bio Superphysics, it is where spacetimes are glued together by the abstract mind. 
+
+{{< youtube 6D9LNAgWbRE >}}
+
+In Cartesian Physics and the pre-Science era, this was known as extension. 
+
+{{< q a="Descartes" c="" >}}
+The essence of matter consists in extension
+{{< /q >}}
+
+{{< q a="Spinoza" c="" >}}
+Extension is an attribute of God, or God is an extended thing
+{{< /q >}}
+
+
+{{< s i="/graphics/meta/space.jpg" a="Extension" c="We call extension as metaphysical space" >}}
+
 
 This allows the concept of 7 dimensions each of which has its own property:
 
@@ -31,23 +55,32 @@ Technically, the 7th Dimension is purely aethereal and no longer part of the Spa
 
 {{< i s="/graphics/physics/aetherspaceall.jpg" alt="Multiverse in the Aetherspace" cap="The aetherspace accounts for alternate realities, other universes, and the totality of existence" >}}
 
+<!-- The aetherspace is the space that holds  -->
 
 ## Properties of the Aetherspace
 
 The main property of the aetherspace is the space-time ratio. 
 
-In the lower dimension both time and space are at their minimum. 
-
-At the highest dimension, both time and space are at their maximum. 
+- In the lower dimension both time and space are at their minimum. 
+- At the highest dimension, both time and space are at their maximum. 
 
 In between, they are both malleable:
 - In the lower dimensions, time is rigid or limited, but space is malleable or freer
 - In the upper dimensions, space is rigid or limited, but time is malleable or freer
 
 This has practical uses:
-- In Material Superphysics, this leads to teleportation.
+- In Material Superphysics, this leads to teleportation (via timespace).
 - In Bio Superphysics, this leads to anti-aging.
 - In Social Superphysics, this leads to the faster evolution of societies.
+
+
+### In the Material to Radiant Layers
+
+From the Material to Radiant Layers, the aetherspace facilitates quantum mechanics. 
+
+If atoms are our basis, then intra-atomic space is aetherspace, while inter-atomic space is spacetime. 
+
+{{< youtube Ov5jFvtb3bg >}}
 
 
 <!-- Currently, Physics has is stuck because Einstein used light as a measuring rod for all of spacetime. The problem is that light is part of the Radiant Layer which is naturally inferior to the Spatial layer which spacetime is a part of. 
