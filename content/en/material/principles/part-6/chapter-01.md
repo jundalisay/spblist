@@ -27,9 +27,10 @@ This aethereal Substance then connects to the Asian sciences:
 - Taoism's animal spirits are called chi and are fundamental to chi gong and Traditional Chinese medicine
 - Hinduism's animal spirits are called prana and are fundamental in Ayurveda and yoga, as well as levitating monks and clairvoyance (i.e. bringing the mind to a future spacetime) 
 
+Below are the proposed technologies to be developed, arrnaged by Element or Layer:
 
 
-## Material 
+## Earth Element / Material Layer 
 
 ### Anti-Matter Power
 
@@ -53,7 +54,7 @@ Our idea is to use spacetime particles for fabrication since they, by nature, tr
 {{< img src="/graphics/physics/droplet.jpg" alt="Crystal Computers" >}}
 
 
-## Convertible
+## Water Element / ConvertibleLayer
 
 ### Nuclear Fusion
 
@@ -69,7 +70,7 @@ There have been experiments on using sound to extinguish fires. Our idea is that
 
 
 
-## Radiant (Electromagnetic)
+## Fire Element / Radiant Layer (Electromagnetic)
 
 ### Crystal Computers
 
@@ -77,10 +78,11 @@ While modern science seems to be going for quantum computers, our idea is to go 
 
 Crystals allow light which travel faster than electrons. This can solve the problem with Moore's Law. 
 
-{{< img src="/graphics/physics/crystal.jpg" alt="Crystal Computers" >}}
+{{< img src="/graphics/physics/eye.jpg" alt="Crystal Computers" >}}
 
 
-## Spatial
+
+## Air Element / Spatial Layer
 
 ### Spacetime Power
 
@@ -110,32 +112,34 @@ In order to shallowly levitate, prelevitation can be increased.
 
 However, in order to seriously levitate at great speeds, the object must be enclosed in an aetherspace so that it will be isolated from the external spacetime. In other words, the object gains the quantum properties of a  proton when inside its own aetherspace.
 
-Evidence of this being possible is from the Bob Lazar UFO of the Grays which had a heart-shaped aetherspace.
-
-However, they used active levitation through the 3 gravity-wave emitters at the bottom of the ship. 
+Evidence of this being possible is from the Bob Lazar UFO of the Grays which had a heart-shaped aetherspace. However, they used active levitation through the 3 gravity-wave emitters at the bottom of the ship. 
 
 A more advanced version is passive levitation inside an aetherspace. This is reportedly done by the Essassani civilization which is more advanced than the Grays. 
 
 
 ### Teleportation
 
-Teleportation is already done by quantum mechanics on particles. Our idea is to use the aetherspace to make objects assume proton qualities, allowing them to be teleported across vast distances. 
+Teleportation is already done by quantum mechanics on particles. Our idea is to use the aetherspace to make objects assume proton qualities, allowing them to be teleported across vast distances. This is already done by the Essassani. 
 
 
 ### Galactic Lighthouses
 
 Teleportation to other stars will require a pre-set navigation system. For this, our idea is a network of crystal computers called "Stellar Eyes" that act as beacons for teleporting spaceships.  
 
+{{< img src="/graphics/physics/l2.jpg" alt="Stellar Eyes" >}}
 
 
-## Aethereal
+
+## Aethereal Element / Layer
 
 ### Autonomous Natural Intelligence (ANI)
 
-Unlike current artificial intelligence which uses large amounds of data and processing power, ANI willl use two things:
+Unlike current artificial intelligence which uses large amounds of data and processing power, ANI will use two things:
 
 1. Timespace of the producers of the data
 2. Cartesian Relativity 
 
 In theory, this will produce machine learning models that will allow near-sentience. 
 
+
+Future chapters will explain the methodology, project plan, or proposed sprints for each one.  
