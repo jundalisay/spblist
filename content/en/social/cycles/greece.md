@@ -9,16 +9,14 @@ description: "We suggest fixing Greece through Fiscal and Trade Systems Reform"
 icon: "/flags/gr.png"
 ---
 
-> Updated March 2024 to add credit derivatives, and EU weakness, as the main cause of the fault
+
+{{< u d="March 2024" u="Added credit derivatives, and EU weakness, as the main cause of the fault" >}}
 
 
 We can use our [DCTI tool](/social/economics/principles/part-4/chapter-07/) to analyze the Greek crisis to prove that the current solutions of austerity and high taxes are not the best ones. Such solutions are are a relic of the mercantile way of thinking of an economy as a business, instead of, naturally, as a society, family, or group of friends. The proper solution will involve the whole EU and will help the union stay together*.
 
 
-
-{{< me date="11/2016" >}}
-The Brexit vote proves that the current mercantile solution was wrong
-{{< /me >}}
+{{< u d="Nov 2016" u="The Brexit vote proves that the current mercantile solution was wrong" >}}
 
 
 As the 2008 Credit Crunch was said to have triggered the crisis, we set year 2009 as the central-point (when the effects would have been felt) and 2013 (the year with the latest data) as the last point of our Value-Trade analysis. To make a better trend analysis, we will set 2001 as our starting point.

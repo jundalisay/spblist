@@ -13,10 +13,12 @@ toc: false
 ---
 
 
+{{< b >}}
 Principles | Assertions
 --- | ---
 The society-organism has a wave of desire that manifests as economic activity | This desire manifests as price movements, GDP, migration, etc. 
 . | The bad ideas of Neoclassical Economics is blocking that natural desire, causing so many problems
+{{< /b >}}
 
 
 
@@ -165,12 +167,10 @@ We can say that:
 - troughs are time of low desire*.
 
 
-> *This is fully explained in [the Metaphysics of Prices](/social/economics/principles/intro/chapter-03/)
+{{< n n="*This is fully explained in [the Metaphysics of Prices](/social/economics/principles/intro/chapter-03/)" >}}
 
 
-Sometimes you want a thing, sometimes you don't. But normally, the number of your desires increase through time. This is unless you are going towards the end of your life, when the energy to achieve desires naturally wane. 
-
-In a society, this collective desire-waning manifests as chronic deflation, as seen in Japan which has a declining population.
+Sometimes you want a thing, sometimes you don't. But normally, the number of your desires increase through time. This is unless you are going towards the end of your life, when the energy to achieve desires naturally wane. In a society, this collective desire-waning manifests as chronic deflation, as seen in Japan which has a declining population.
 
 Since the 2008 financial crisis, the global economy however has not risen as fast as before even if the global population has kept on increasing. 
 
@@ -180,7 +180,8 @@ For example, global GDP growth from 2009 to 2019* has only been 2.75%.
 - High population growth Pakistan was at 4.1% GDP growth
 - Low population growth Japan was at 0.25%
 
-> *We exclude data from 2020 because the pandemic was a natural event that disrupted economies. Growth from 2020 would still be growth from a natural disaster and not really a man-made one, as different countries had different lockdown policies. 
+
+{{< n n="*We exclude data from 2020 because the pandemic was a natural event that disrupted economies. Growth from 2020 would still be growth from a natural disaster and not really a man-made one, as different countries had different lockdown policies." >}}
 
 
 The minimum GDP growth after the Financial Crisis should have been 2.9%, and ideally a little under 3.4% which is the average from 1998 to 2008. This is to account for the higher oil prices from 2009. 
@@ -197,7 +198,7 @@ We can expect an unnatural suppression of desire in authoritarian countries like
 
 ## The Ideas from Neoclassical Economics are Blocking The Natural Wave
 
-The Marginal Revolution overturned Classical Economics (which we are advancing) and introduced ideas that led to the following corrupted concepts of Neoclassical Economics:
+The Marginal Revolution overturned Classical Economics (which we are reviving) and introduced ideas that led to the following corrupted concepts of Neoclassical Economics:
 
 - [Profit Maximization](/social/economics/fallacies/profit-maximization-is-absurd) and [Equity Trading](/social/economics/principles/part-3/chapter-11b/) in Microeconomics
 - [Liquidity Preference](/research/keynes/general-theory/chapter-02) in Macroeconomics
@@ -222,15 +223,25 @@ Before the invention of open-market operations, interest rates were decided by t
 
 For example, Adam Smith cites the [Ayr Bank](https://www.superphysics.org/research/smith/wealth-of-nations/book-2/chapter-2i/) which lent at a low 5% interest when the prevailing rate was 6-8%. This caused businessmen to flock to it, causing the [1772 credit crunch](https://www.superhysics.org/social/economics/1772-credit-crunch/)*. 
 
-> *This is why the 1772 Credit Crunch has the same metaphysics as the 2008 Financial Crisis. This formed a pattern which then helped us predict a 2019 global stagflation.
+
+{{< n n="*This is why the 1772 Credit Crunch has the same metaphysics as the 2008 Financial Crisis. This formed a pattern which then helped us predict a 2019 global stagflation." >}}
 
 
 
 Classical Economics before the 1870's did not have profit maximization as a doctrine. This is why Panics and Great Depressions did not happen. 
 
-Instead, companies shut down naturally whenever they could no longer sustain their operations. For example, the too-big-to-fail mercantile companies like the East India Company naturally closed down without dragging ordinary British to unemployment or poverty. 
+Instead, companies shut down naturally whenever:
+- they could no longer sustain their operations 
+- they were bubbles themselves
+
+For example:
+- the too-big-to-fail mercantile companies like the East India Company naturally closed down without dragging ordinary British to unemployment or poverty
+- the South Sea Bubble led to the crisis for private investors only
+
 
 This is different nowadays when whole countries get dragged down by some isolated action such as the peddling of collateralized debt obligations by a few bankers.   
+
+Back in the 18th century, for example, a national war such as the Seven Years' War affected the national economy. 
 
 
 <!-- to spread themselves via a wave of collective human selfishness that has always existed, as proven by past crises such as the 1772 credit crunch, Mississippi Scheme, South Sea Bubble, etc. -->
@@ -244,7 +255,6 @@ Unfortunately for the world, Smith and Hume (and even Marx in a way) said that p
 </div>
 
 -->
-
 
 ## So How Do We Get Rid of the Bad Ideas from Neoclassical Economics?
 
@@ -270,6 +280,19 @@ Metaphysically, these ideas convert an economy from being a static system for cr
 Since laws have sanctified profits, equity, and nominal value, and has entrenched them fully in human minds, only a very urgent and serious need, such as that arising from a new economic crisis, will be able to start the process of dislodging those ideas. 
 
 Hopefully, that future crisis, which we predict to be a long global stagflation hitting by 2019, would be so severe as to be able to even dislodge Economics, as a compound idea-particle, too.
+
+
+### Update July 2024: Change Strategy as Global Warming Solution
+
+This article was written in 2015 to set the stage for a moneyless economic system that will solve the predicted 2020 Global Stagflation. 
+
+Yet when our system was getting users during the pandemic, investors and governments were still thinking of money-based system i.e. how to make money.
+
+So we realized that betting on economic crisis to make humans think beyond money was not effective. 
+
+This is because a highly negative ego will naturally look at money for safety for self-preservation. So this **unnaturally strong self-preservation**, caused by excessive Negative Force, is the culprit. In fact, humans go to religion not to abandon their ego and accept the Supreme Ego, but to ask the Supreme to support their own tiny egos (i.e. pray for blessings).    
+
+So from 2024, we changed into positioning Supereconomics as a global warming solution that resonates with the instinct of self-preservation. We hope that this resonance will be strong enough for humans to abandon not only Neoclassical Economics in favor of the economics of Smith and Socrates, but also the Physics of Newton and Einstein in favor of Descartes and Spinoza.     
 
 
 <!-- {{< mess >}}

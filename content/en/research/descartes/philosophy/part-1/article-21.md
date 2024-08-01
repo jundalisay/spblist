@@ -40,7 +40,7 @@ We have born with us the idea that God:
 <!-- that in which we can clearly discover any  that is not limited by any imperfection. -->
 
 
-#### 23. God is not corporeal. 
+#### 23. God is not corporeal
 
 He does not perceive by means of senses, or will the evil of sin.
 
@@ -48,30 +48,35 @@ There are many things in the world that are imperfect or limited, though possess
 
 Accordingly, it is impossible that any such error can be in God.
 
-Divisibility is included in local extension. This indicates imperfection. Therefore, God is not body.
 
-[Footnote: In the French, "since extension constitutes the nature of body."]
+<!-- extension -->
+Divisibility is included in local metaphysical space. This divisibility indicates imperfection. Therefore, God is not body.
+
+{{< f f="French: 'since extension constitutes the nature of body.'" >}}
+
+In men, it is somewhat a perfection to be able to perceive through the senses.
+
+But in every sense, there is passivity which indicates dependency. This is why God cannot be perceived by the senses.
+
+{{< f f="French: 'because our perceptions arise from impressions made upon us from another source, i.e., than ourselves'" >}}
 
 
-Although in men it is to some degree a perfection to be capable of perceiving by means of the senses, nevertheless since in every sense there is passivity 
+He only understands and wills. But not in the way that we do by distinct acts. 
 
-[Footnote: In the French, "because our perceptions arise from impressions made upon us from another source," i.e., than ourselves.] 
+Instead, he always does so by an act that is one, identical, and the simplest possible.
 
-which indicates dependency, then God cannot be perceived by the senses.
+He understands, wills, and operates all things that exist in reality.
 
-He only understands and wills. But not in the way that we do by distinct acts. Instead, he always does so by an act that is one, identical, and the simplest possible.
-
-He understands, wills, and operates all things that exist  in reality.
-
-He does not will the evil of sin, seeing this is but the negation of being.
-
+He does not will the evil of sin. This is because sin is just the negation of being.
 
 
 #### 24. Our understanding is finite. The power of God infinite.
 
 <!-- In passing from the knowledge of God to the knowledge of the creatures, it is necessary to remember that  -->
 
-God alone is the true cause of all that is or that can be. The best way of philosophizing, from our knowledge of God, is to pass to the explanation of the things which he has created and then essay to deduce it from our natural notions of God. 
+God alone is the true cause of all that is or that can be. 
+
+**The best way of philosophizing, from our knowledge of God, is to pass to the explanation of the things which he has created and then essay to deduce it from our natural notions of God.**
 
 In this way, we will thus obtain the most perfect science -- the knowledge of effects through their causes.
 

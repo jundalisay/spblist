@@ -56,26 +56,56 @@ For by regarding them as in the substances of which they are the modes, we disti
 
 #### 65. How we may likewise know their modes
 
-We will best apprehend the diverse modes of thought, as intellection, imagination, recollection, volition, etc., and also the diverse modes of extension, or those that belong to extension, as all shapes, the situation of parts and their motions, provided we consider them simply as modes of the things in which they are; and motion as far as it is concerned, provided we think merely of locomotion, without seeking to know the force that produces it, and which nevertheless I will essay to explain in its own place.
+The diverse modes of thought are intellection, imagination, recollection, volition, etc.
+
+The diverse modes of extension, or those that belong to extension, are all shapes, the location of parts and their motions
+
+We can best understand these modes if we consider them simply as modes of the things as they are. 
+
+<!-- and motion as far as it is concerned, provided we think merely of locomotion, without seeking to know the force that produces it, and which nevertheless I will essay to explain in its own place. -->
 
 
 
 #### 66. How our sensations, affections, and appetites may be clearly known, although we are frequently wrong in our judgments regarding them.
 
-There remain our sensations, affections, and appetites, of which we may also have a clear knowledge, if we take care to comprehend in the judgments we form of them only that which is precisely contained in our perception of them, and of which we are immediately conscious. 
 
-There is, however, great difficulty in observing this, at least in respect of sensations; because we have all, without exception, from our youth judged that all the things we perceived by our senses had an existence beyond our thought, and that they were entirely similar to the sensations, that is, perceptions, we ad of them. 
+ <!-- our sensations, affections, and appetites if we take care to comprehend in the judgments we form of them only that which is precisely contained in our perception of them, and of which we are immediately conscious.  -->
 
-Thus when, for example, we saw a certain colour, we thought we saw something occupying a place out of us, and which was entirely similar to that idea of colour we were then conscious of.
 
-From the habit of judging in this way, we seemed to see this so clearly and distinctly that we esteemed it (i.e., the externality of the colour) certain and indubitable.
+We have perceptions of sensations, affections, and appetites, in our minds. 
+
+We may have a clear knowledge of these if we focus on their content at the current moment. 
+
+There is, however, great difficulty in observing this, at least in respect of sensations.
+
+This is because we have all, from our youth, judged that:
+- all the things we perceived by our senses had an existence beyond our thought
+- those things were entirely similar to our sensations of them
+
+<!-- , that is, perceptions, we had of them.  -->
+
+For example, when we saw a colour, we thought we saw something outside of us. That something was then totally similar to our idea of that colour that we saw.
+
+ <!-- we were then conscious of. -->
+
+<!-- From the habit of judging in this way,  -->
+
+We then seemed to see this so clearly and distinctly that we esteemed it (i.e., the externality of the colour) certain and indubitable.
 
 
 #### 67. We are frequently deceived in our judgments regarding pain itself.
 
-The same prejudice has place in all our other sensations, even in those of titillation and pain. For though we are not in the habit of believing that there exist out of us objects that resemble titillation and pain, we do not nevertheless consider these sensations as in the mind alone, or in our perception, but as in the hand, or foot, or some other part of our body.
+The same prejudice has place in all our other sensations, even in those of titillation and pain. 
 
-There is no reason, however, to constrain us to believe that the pain, for example, which we feel, as it were, in the foot is something out of the mind existing in the foot, or that the light which we see, as it were, in the sun exists in the sun as it is in us. Both these beliefs are prejudices of our early years, as will clearly appear in the sequel.
+We do not believe that that there are outside of us that resemble titillation and pain.
+
+Yet we consider these sensations as being in the hand, or foot, or some other part of our body, and not being  in the mind or the perception alone.
+
+<!-- , or in our perception, but as . -->
+
+There is no reason, however, to constrain us to believe that the pain, for example, which we feel, as it were, in the foot is something out of the mind existing in the foot, or that the light which we see, as it were, in the sun exists in the sun as it is in us.
+
+Both these beliefs are prejudices of our early years, as will clearly appear in the sequel.
 
 
 #### 68. How in these things what we clearly conceive is to be distinguished from possibly wrong things.

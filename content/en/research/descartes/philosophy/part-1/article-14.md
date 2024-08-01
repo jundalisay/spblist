@@ -13,7 +13,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-### 14. We may validly infer the existence of God from necessary existence being comprised in the concept we have of him.
+#### 14. We may validly infer the existence of God from necessary existence being comprised in the concept we have of him.
 
 When the mind reviews the different ideas that are in it, it discovers that the chief idea among them by far is the idea is an omniscient, all-powerful, and absolutely perfect Being.
 - This idea has an existence that is absolutely necessary and eternal.
@@ -24,7 +24,7 @@ The idea of a triangle is made up of the equality of its 3 angles to 2 right ang
 Likewise, the mind perceives eternal and necessary existence to be comprised in its idea of an all-perfect Being, it concludes that this all-perfect Being exists.
 
 
-### 15. Our ideas of other things merely have the idea of **contingent existence**, not necessary existence.
+#### 15. Our ideas of other things merely have the idea of **contingent existence**, not necessary existence.
 
 The mind has no idea of any other thing in which it can discover that necessary existence. 
 
@@ -33,7 +33,7 @@ From this circumstance alone, it will discern that:
 - it does not represent a chimera, but a true and immutable nature, which must exist since it can only be conceived as necessarily existing.
 
 
-### 16. Prejudices hinder many from clearly knowing the necessity of the existence of God.
+#### 16. Prejudices hinder many from clearly knowing the necessity of the existence of God.
 
 Our mind would have no difficulty in assenting to this truth, if it were wholly free from prejudices.
 
@@ -44,13 +44,14 @@ But we have been accustomed to:
 This is why when we do not steadily fix our thoughts on the contemplation of the all-perfect Being, that a doubt arises as to whether the idea we have of him is not one of those which we frame at pleasure, or at least of that class to whose essence existence does not pertain.
 
 
-### 17. The greater objective (representative) perfection there is in our idea of a thing, the greater also must be the perfection of its cause.
+#### 17. The greater objective (representative) perfection there is in our idea of a thing, the greater also must be the perfection of its cause.
 
 When we further reflect on the various ideas that are in us, it is easy to perceive that there is not much difference among them, when we consider them simply as certain modes of thinking. 
 
 But they are widely different, considered in reference to the objects they represent. Their causes must be so much the more perfect according to the degree of objective perfection contained in them. 
 
-[Footnote: "as what they represent of their object has more perfection."—FRENCH.] 
+{{< f f="French: 'as what they represent of their object has more perfection.'" >}}
+
 
 There is no difference between this and a person who has the idea of a machine. 
 
@@ -64,7 +65,7 @@ All the ingenuity contained in the idea objectively only must exist in its first
 This ingenuity is not only an object or representation, but a formal or eminent truth.
 
 
-### 18. The existence of God may be again inferred from the above.
+#### 18. The existence of God may be again inferred from the above.
 
 Likewise, we discover in our minds the idea of God or of an all-perfect Being. This gives us a right to inquire into the source whence we derive it. 
 
@@ -91,17 +92,19 @@ We must conclude that they exist in some nature different from ours, that is, in
 It most manifestly follows [from their infinity] that they are still there.
 
 
-### 19. Although we may not comprehend the nature of God, there is yet nothing which we know so clearly as his perfections.
+#### 19. Although we may not comprehend the nature of God, there is yet nothing which we know so clearly as his perfections.
 
 This will appear sufficiently certain and manifest to those who have been accustomed to contemplate the idea of God, and to turn their thoughts to his infinite perfections.
 
 Although we may not comprehend them, because it is of the nature of the infinite not to be comprehended by what is finite, we nevertheless conceive them more clearly and distinctly than material objects, for this reason, that, being simple, and unobscured by limits*, they occupy our mind more fully.
 
-> *After LIMITS, "what of them we do conceive is much less confused. There is, besides, no speculation more calculated to aid in perfecting our understanding, and which is more important than this, inasmuch as the consideration of an object that has no limits to its perfections fills us with satisfaction and assurance."
+{{< f f="*After LIMITS, 'what of them we do conceive is much less confused. There is, besides, no speculation more calculated to aid in perfecting our understanding, and which is more important than this, inasmuch as the consideration of an object that has no limits to its perfections fills us with satisfaction and assurance.">}}
 
 
 
-### 20. We are not the cause of ourselves, but that this is God, and consequently that there is a God.
+
+
+#### 20. We are not the cause of ourselves, but that this is God, and consequently that there is a God.
 
 But everyone has not observed this.
 

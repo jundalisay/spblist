@@ -31,7 +31,7 @@ While the airlines spread Covid and increased the number of infections, it was t
 
 Some doctors think of it as a pulmonary disease, while others, as an autoimmune disorder because of its cytokine storms. Still others think of it as a blood disease because of the stroke that it causes. To them, the best preventive is to wear masks and personal protective equipment.
 
-{{< u u="Update May 2021: To say that vaccines are the solution is useless to those who have died waiting for the vaccine. For example, India is the biggest producer of vaccines, yet have suffered the most from the spike in April 2021. Vaccines, together with booster shots, are a workaround, not a solution." >}}
+{{< u d="May 2021" u="To say that vaccines are the solution is useless to those who have died waiting for the vaccine. For example, India is the biggest producer of vaccines, yet have suffered the most from the spike in April 2021. Vaccines, together with booster shots, are a workaround, not a solution." >}}
 
 
 The reason why Western Medicine cannot solve viruses quickly and easily is because it relies on physical observation to prove the nature of phenomena. This is fine when it comes to obvious diseases like clogged arteries or bacterial infection which the eyes can see easily. But it is useless for viruses and mental health issues, since the eyes cannot see nanometer-sized particles nor know the contents of another person’s mind. 
@@ -40,7 +40,7 @@ Western Medicine has no scope to believe in anything that is beyond the five sen
 
 
 
-{{< u u="March 2024: We have recently added a section on unseen Elementals in Bio Superphysics which have been used in India to produce real physical effects. We focus on the detection techniques for such Elementals using the chakras so that they can be reproduced by others. You can think of it as inventing a metaphysical microsope to explore the Elemental zoo." >}}
+{{< u d="March 2024" u="We have recently added a section on unseen Elementals in Bio Superphysics which have been used in India to produce real physical effects. We focus on the detection techniques for such Elementals using the chakras so that they can be reproduced by others. You can think of it as inventing a metaphysical microsope to explore the Elemental zoo." >}}
 
 
 
@@ -64,7 +64,7 @@ These cures* have an effect because the virus relies on grabbing onto certain ce
 
 
 {{< box >}}
-### May 2021 Update
+**Update May 2021**
 
 Examples of workarounds are:
 
@@ -95,7 +95,7 @@ MERS | Qatar's increased LNG production | Climate agreements
 The pattern of past epidemics show that the more brutal, and more concentrated the suffering, death, and destruction imposed by an event, the more probability there is for a serious diseases to emerge*. The brutality of the destruction of the plants and animals in the Amazon rainforest is unrivaled in all of human history, and really began in 2019. And so Nature responds with a disease that is equally brutal on humans.
 
 
-{{< u u="March 2024: The destruction of natural environments also evict the Positive Elementals, causing them to be replaced by Negative ones. These then cause negative real effects on people, animals, etc. This can be easily seen in crime-infested poor neighborhoods, or disease-filled polluted districts." >}}
+{{< u d="March 2024" u="The destruction of natural environments also evict the Positive Elementals, causing them to be replaced by Negative ones. These then cause negative real effects on people, animals, etc. This can be easily seen in crime-infested poor neighborhoods, or disease-filled polluted districts." >}}
 
 
 {{< img src="/photos/physics/fires.jpg" alt="Amazon fires" cap="Donald Trump created a trade war with China, reducing US soybean exports. This caused China to source its soybeans from Brazil instead, causing Brazil to wipe out its forests to plant soybeans" >}}

@@ -1,6 +1,6 @@
 ---
 title: "What is Thought?"
-heading: Articles 9-
+heading: Articles 9-13
 weight: 14
 description: "Thought is all that takes place in us that we are immediately conscious of"
 writer:
@@ -36,8 +36,8 @@ But if this seeing or walking is the sensation itself, then it is the consciousn
 - This knowledge is manifestly certain because it is then referred to the mind.
 - The mind alone perceives or is conscious that it sees or walks. 
 
+{{< f f="In French: 'which alone has the power of perceiving, or of being conscious in any other way whatever.'" >}}
 
-[Footnote: In the French, "which alone has the power of perceiving, or of being conscious in any other way whatever."]
 
 
 #### 10. The notions which are simplest and self-evident, are obscured by logical definitions.

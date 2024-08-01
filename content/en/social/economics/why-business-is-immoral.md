@@ -11,7 +11,7 @@ icon: /icons/pantry.png
 toc: false
 ---
 
-> Summary: Business is based on money which really is just quantitative information. It is unable to carry qualitative information such as morality. Contracts, on the other hand, can carry such information and are a better foundation of the economy.
+<!-- > Summary: Business is based on money which really is just quantitative information. It is unable to carry qualitative information such as morality. Contracts, on the other hand, can carry such information and are a better foundation of the economy. -->
 
 
 In some societies, especially Eastern ones, business and commerce are usually looked down upon. In ancient China and Japan, merchants were not respected and were even oppressed.
@@ -72,8 +72,8 @@ To distinguish the interested commerce* from the disinterested one, the interest
 Interest is the first obligation to the performance of promises. Afterwards, a sentiment of morals concurs with interest, and becomes a new obligation on mankind..This sentiment of morality in the performance of promises, arises from the same principles as the sentiment in the abstinence from the property of others..
 {{< /q >}}
 
+{{< n n="*We refer to modern commerce as 'disinterested' and social resource allocation as 'interested'" >}}
 
-> *We refer to modern commerce as 'disinterested' and social resource allocation as 'interested'
 
 
 Any agreement between two persons eventually requires both parties to keep their agreement, which is a moral or proper behavior. By breaking the agreement, a person risks losing a customer or supplier and the revenue that goes with it. 

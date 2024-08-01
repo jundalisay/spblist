@@ -11,7 +11,10 @@ icon: /icons/pantry.png
 ---
 
 
-[The Economist](https://www.economist.com/finance-and-economics/2015/03/26/towers-of-babel) showed an interesting graphic of the correlation of skyscrapers and economic crises in a phenomenon known as the Skyscraper Curse. A question was posed: "Does this frenzy of building augur badly for the world economy?", to which we answer "Yes, because of Economics".
+[The Economist](https://www.economist.com/finance-and-economics/2015/03/26/towers-of-babel) showed an interesting graphic of the correlation of skyscrapers and economic crises in a phenomenon known as the **Skyscraper Curse**. 
+
+A question was posed: "*Does this frenzy of building augur badly for the world economy?*", to which we answer "Yes, because of Economics".
+
 
 ![Skyscraper curse](/skyscraper.jpg)
 
@@ -20,22 +23,28 @@ To explain why skyscraper booms are generally bad, we explain their nature using
 
 ## What is the basic nature of skyscrapers?
 
-Skyscrapers are concrete floors stacked on top of each other to create vertical space for humans to stay in while doing limited residential, office, or commercial tasks. Human activity is limited in them because they cannot support too much weight or movement, unlike factories or stadiums. Their height is the effect of high quality of space, as expensive land prices, and the high quantity of demanders for that space, as population density. Calcutta has among the most demanders of space (at 24k per square km) but has low quality space, while Hongkong has both many demanders (at 57k per square km) and high quality spaces, from its economic strength. Thus, Calcutta has few tall buildings, while Hongkong has many.
+Skyscrapers are concrete floors stacked on top of each other to create vertical space for humans to stay in while doing limited residential, office, or commercial tasks. Human activity is limited in them because they cannot support too much weight or movement, unlike factories or stadiums. 
 
-![Calcutta skyline](https://socioecons.files.wordpress.com/2015/04/calcutta.jpg)
+Their height is the effect of high quality of space, as expensive land prices, and the high quantity of demanders for that space, as population density. 
 
-{{< cap >}}Calcutta (above) and Hongkong (below) are both dense, but Hongkong has more value from its natural advantages{{< /cap >}}
+- Calcutta has among the most demanders of space (at 24k per square km) but has low quality space
+- Hongkong has both many demanders (at 57k per square km) and high quality spaces, from its economic strength
+
+Thus, Calcutta has few tall buildings, while Hongkong has many.
+
+{{< i s="https://socioecons.files.wordpress.com/2015/04/calcutta.jpg" a="Calcutta skyline" c="Calcutta (above) and Hongkong (below) are both dense, but Hongkong has more value from its natural advantages" >}}
+
 
 ![Hongkong skyline](https://socioecons.files.wordpress.com/2015/04/hk.jpg)
-
 
 
 ## Skyscrapers are the manifestation of the engrossment of nominal capital, created by profit maximization
 
 Skyscraper construction needs a lot of nominal capital* as money, which is used to mobilize work to convert ore and rock into real capital, such as steel and concrete. Raising this nominal capital is done by financiers by pooling money from various sources. A mercantile port, turned financial hub, like Hongkong has money flowing through it regularly and has no problem pooling money to build tall structures sustainably.
 
-> *Nominal capital is based on Smith's nominal value (based on currency), which is different from Real Value (based on corn). This concept does not exist in Economics which only measures value nominally.
-For non-mercantile cities however, this money is easier pooled through big funds like sovereign wealth funds like that of Saudi Arabia or Singapore's GIC (which invests in tall buildings overseas).
+{{< n n="*Nominal capital is based on Smith's nominal value (based on currency), which is different from Real Value (based on corn). This concept does not exist in Economics which only measures value nominally. For non-mercantile cities however, this money is easier pooled through big funds like sovereign wealth funds like that of Saudi Arabia or Singapore's GIC (which invests in tall buildings overseas)." >}}
+
+
 
 
 ### The Danger of Having too Much Capital
@@ -82,18 +91,21 @@ Skyscraper booms are therefore an indicator of the engrossment of nominal capita
 
 Usually, the crash of nominal capital happens first, followed by a crash in real capital. In other words, a recession hits first or the bubble bursts before the skyscraper/s or huge projects are finished, simply because it is quicker to move money around than to convert rock and ore into a tall building. In fact, this graphic by the Economist fits very well with our prediction of a global stagflation hitting before 2020*.
 
-> *Update May 2020: The stagflation did hit as Covid
 
+{{< u d="May 2020" u="The stagflation did hit as Covid" >}}
 
 By extending the relationship between crisis and skyscrapers, we add into our predictions that this new crisis will hit before the Kingdom Tower will be built in November 2019. As the root cause of all of these is high profits, the inevitability of this crisis can be attributed to the profit maximization doctrine, which although seemingly permanently ingrained in current business and economic sciences, was not present in the political economy of Smith and Hume.
 
 The next post will explain how we predicted a 2019 crisis.
 
-{{< mess >}}
-Oct 2017: As expected, the opening of the Kingdom Tower (Jeddah Tower) [has been delayed](http://www.dailymail.co.uk/sciencetech/article-4497256/Worlds-tallest-building-delayed-2019-Saudi-prince.html)
+{{< b >}}
 
-Nov 2019-- The Jeddah Tower is still delayed
+Updates | 
+--- | ---
+Oct 2017 | As expected, the opening of the Kingdom Tower (Jeddah Tower) [has been delayed](http://www.dailymail.co.uk/sciencetech/article-4497256/Worlds-tallest-building-delayed-2019-Saudi-prince.html)
+Nov 2019 | The Jeddah Tower is still delayed
+
 {{< youtube pdXP7iGnnLE >}}
 
-{{< /mess >}}
+{{< /b >}}
 

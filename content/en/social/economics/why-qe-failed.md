@@ -14,7 +14,8 @@ toc: false
 
 Japan launched Quantitative Easing (QE)  as part of Abenomics which was announced in 2012, just as the US launched theirs after the 2008 Financial Crisis. Both actions failed to drive economic growth* for both countries and merely resulted in additional public debt.
 
-> *The growth in the US really came from Trump's fiscal reforms and trade war
+{{< n n="*The growth in the US really came from Trump's fiscal reforms and trade war" >}}
+
 
 
 To explain why QE was used and why it failed, we need to go back to 1913.
@@ -24,11 +25,15 @@ In that year, the Federal Reserve (Fed) was established in the US to provide sta
 From providing stability, **the Fed went for promoting growth**--this is the first subtle mistake. **The job of growing the economy is done by commercial banking** (the "retailer" of money). **It is not done by central banking** (the "wholesaler" of money).*
 
 
-> *This will be the same reason why Modern Monetary Theory will fail – because the government only controls the wholesale of money and not its retail
+
+{{< n n="*This will be the same reason why Modern Monetary Theory will fail – because the government only controls the wholesale of money and not its retail" >}}
+
 
 
 {{< q a="Adam-Smith" >}}
-<p>The circulation of every country is divided into two branches: the circulation of the dealers with one another, and the circulation between the dealers and the consumers.</p> 
+The circulation of every country is divided into 2 branches:
+1. The circulation of the dealers with one another
+2. The circulation between the dealers and the consumers
 <cite>Wealth of Nations Book 2 Chapter 2</cite>
 {{< /q >}}
 
@@ -63,7 +68,8 @@ The main difference was that the doctrine of profit maximization did not exist b
 
 It was only formalized in the 1870's* through the marginal revolution or Marginalism and subsequently taught by Alfred Marshall, a British economist. His work was then carried by Keynes, another British economist, who cites Marshall's work heavily. We can say that Keynes was a Marginalist too, aside from being anti-classical.
 
-> *This is proven by Henry George's <i>Progress and Poverty</i> which talks about [the recession of 1879](https://www.henrygeorge.org/pchp22.htm) which was caused by land speculation. <br>This caused him to absurdly advocate a single land tax to prevent such a recession. This is similar to Piketty advocating a wealth tax. <br>Both of them fail to see that taxes are decided by accountants and accountants can get creative in order to bypass such fiscal policies. <br>Superphysics advocates structural reform and overhaul that goes beyond the scope of accounting.
+{{< n n="*This is proven by Henry George's <i>Progress and Poverty</i> which talks about [the recession of 1879](https://www.henrygeorge.org/pchp22.htm) which was caused by land speculation. This caused him to absurdly advocate a single land tax to prevent such a recession. This is similar to Piketty advocating a wealth tax. Both of them fail to see that taxes are decided by accountants and accountants can get creative in order to bypass such fiscal policies. Superphysics advocates structural reform and overhaul that goes beyond the scope of accounting." >}}
+
 
 
 The main difference between Keynes and Marshall was, while Marshall valued real productivity as the cause of wealth, Keynes valued money as 'liquidity preference':
@@ -94,7 +100,7 @@ With a lot of idle money in the economy, speculators see this as an opportunity 
 In the classical system, however, there is no profit maximization. People spend money liberally and accumulation does not become so widespread. Is there a demand for a railroad? Then let's build one*. Are more steamships needed? Let's borrow money to engineer one.
 
 
-> *This actually led to overinvestment which led to too much employment by drawing job-seekers to a place, as seen in the assembly lines of Henry Ford. <!-- If the investment fails, then  hordes of unemployed humans suddenly appear. --> The proper solution is coordination, which we propose as an additional feature to EF Schumacher's Pool Clearing system explained later
+{{< n n="*This actually led to overinvestment which led to too much employment by drawing job-seekers to a place, as seen in the assembly lines of Henry Ford. <!-- If the investment fails, then  hordes of unemployed humans suddenly appear. --> The proper solution is coordination, which we propose as an additional feature to EF Schumacher's Pool Clearing system explained later" >}}
 
 
 

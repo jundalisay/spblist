@@ -97,13 +97,11 @@ The directors of such companies are the managers of other people's money. They c
 
 
 
-{{< me date="2019" >}}
-Accordingly, The Vision Fund's companies, such as Uber, WeWork, and ARM for example, have been losing money steadily. 
+{{< u d="2019" u="The Vision Fund's companies, such as Uber, WeWork, and ARM for example, have been losing money steadily." >}}
+ 
+<!-- In a short time, the Vision Fund is experiencing what the great mercantile companies experienced. History repeats itself and unless those tech monopolies don't change course, we can safely predict that they will also go to ruin like the mercantile companies of the past.
 
-In a short time, the Vision Fund is experiencing what the great mercantile companies experienced. History repeats itself and unless those tech monopolies don't change course, we can safely predict that they will also go to ruin like the mercantile companies of the past.
-
-The behavior of human ego is consistent throughout history even if it is masked by the most advanced technology, since ego is the cause and technology is just an effect.
-{{< /me >}}
+The behavior of human ego is consistent throughout history even if it is masked by the most advanced technology, since ego is the cause and technology is just an effect. -->
 
 
 ## Supereconomics Favors Small Businesses Working Together as a Large Entity

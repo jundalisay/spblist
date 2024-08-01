@@ -33,8 +33,9 @@ This changed when the Spanish conquered Europe as the Hapsburgs to impose that p
 
 Thus, monarchial strength in Europe led to peace which led to money which led to the commercial system*. 
 
-> *The strength of China and India came from the imperial system and not the monarchial one. This allowed them to hinder commercial interests, similar to how Xi Jinping is able to clamp down on tech companies. This is the opposite of the US where its leaders are subservient to commercial interests, as seen in the phenomenon of globalization and the 2008 Financial Crisis. 
 
+{{< n n="*The strength of China and India came from the imperial system and not the monarchial one. This allowed them to hinder commercial interests, similar to how Xi Jinping is able to clamp down on tech companies. This is the opposite of the US where its leaders are subservient to commercial interests, as seen in the phenomenon of globalization and the 2008 Financial Crisis." >}}
+ 
 
 Because of colonization, all countries adopted precious metals. This allowed the commercial money-only system to monopolize all buying and selling transactions.
 
@@ -70,7 +71,8 @@ This is why Supereconomics (Economic Superphysics) will use points and bank gold
 - Points are pegged to grains and are used for local transactions. For example, in China, the points will be pegged to rice. In the US, it will be pegged to wheat. 
 - Central bank gold will be used to transfer investments from one country to another. This makes the International Monetary Fund unnecessary. This gold is a fixed ratio to the actual fiat that is circulating and is different from market gold. This then leads to a gold-backed currency that makes the arbitrary printing of money illegal.
 
-> *During the transition or revalution, all fiat currency can be converted into gold-backed currency. The points system will give an idea of what its proper ratio to gold should be. This is why the points system should be implemented first. For example, if Japan implements a points system in 2020, then it can safely and confidently switch to a gold-backed currency by 2035. 
+{{< n n="*During the transition or revalution, all fiat currency can be converted into gold-backed currency. The points system will give an idea of what its proper ratio to gold should be. This is why the points system should be implemented first. For example, if Japan implements a points system in 2020, then it can safely and confidently switch to a gold-backed currency by 2035." >}}
+ 
 
 <!-- > *Using grains as a standard in the trade of grains is like having only Westerners be judges of an international beauty contest. The result will be biased towards western standards and not universal standards. -->
 

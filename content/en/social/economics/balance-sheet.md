@@ -211,7 +211,8 @@ Investors, such as the Arab sheik, can then park their money in a fund that they
 There is still **a gaming element** since not all funds will succeed equally. Yet not all funds will fail unless the country is totally mismanaged. This will allow people to enjoy such a childish pleasure*.
 
 
-> *Not all investors are rich. Some just use their savings in the hopes of striking it rich quickly.
+{{< n n="*Not all investors are rich. Some just use their savings in the hopes of striking it rich quickly." >}}
+
 
 
 This will allow capital to spread over many industries in many countries and not just into a few blue-chip companies, as is common in the current system.

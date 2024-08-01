@@ -118,7 +118,8 @@ Space, shape, local motion*, etc are attributed to body.
 - Through this method, we clearly perceive that none of these pertains to our nature.
 - Only our thought about the body alone pertains to our nature. 
 
-> *Instead of "local motion," the French has "existence in any place"
+{{< f f="*Instead of 'local motion', the French has 'existence in any place'" >}}
+
 
 
 

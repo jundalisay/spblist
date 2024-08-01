@@ -62,7 +62,11 @@ Nature seems to have so happily adjusted our sentiments of approbation and disap
 
 Since the enjoyment of music is the end goal of music piracy, the pirate's pleasure combines with his self-love and lack of fellow-feeling with the musician. This becomes powerful enough to disregard the pirate's guilt at the musician's revenue loss*. 
 
-> *This principle is the same that breeds corruption and criminal activity. Politicians and criminals know that what they are doing is wrong. However, the pleasure that their nerves get from the ill-gotten money overrules any negative feeling that their conscience might produce. This is similar to the dynamics of addiction. The best solution is to prevent the addiction from growing in the first place.
+
+{{< n n="*This principle is the same that breeds corruption and criminal activity. Politicians and criminals know that what they are doing is wrong. However, the pleasure that their nerves get from the ill-gotten money overrules any negative feeling that their conscience might produce. This is similar to the dynamics of addiction. The best solution is to prevent the addiction from growing in the first place." >}}
+
+
+
 
 On the other hand, we often see that it is the real fans (those who have a strong fellow-feeling with the artist), who go out their way to buy the musician's vendible commodity. The support that they give is rightly recognized by Taylor Swift as 'fan power'.
 
@@ -72,7 +76,9 @@ On the other hand, we often see that it is the real fans (those who have a stron
 ![Conductor watched by audience](https://socioecons.files.wordpress.com/2014/07/simon-rattle.jpg)
 
 
-The decline of the vendibility of music leaves 'live' music as the primary source of livelihood for most musicians, just as it has been for thousands of years before the invention of the phonograph. Musicians, just like any workers of society, have historically increased their revenue by addressing the needs of the society and through innovation. Classical music for example, which requires the skill of many musicians, grew in demand as the rich people of Europe grew in number during the mercantile and colonial periods. Likewise, the popularity of disco, hiphop, and contemporary R&B in the United States can be attributed to the increase in the African-American population.
+The decline of the vendibility of music leaves 'live' music as the primary source of livelihood for most musicians, just as it has been for thousands of years before the invention of the phonograph. Musicians, just like any workers of society, have historically increased their revenue by addressing the needs of the society and through innovation. 
+
+Classical music for example, which requires the skill of many musicians, grew in demand as the rich people of Europe grew in number during the mercantile and colonial periods. Likewise, the popularity of disco, hiphop, and contemporary R&B in the United States can be attributed to the increase in the African-American population.
 
 ![Population chart 1790-to-2010](https://socioecons.files.wordpress.com/2014/07/population-2-chart-1790-to-2010.jpg)
 

@@ -93,7 +93,8 @@ Politically, Japan needs a modern Tokugawa Iyeyasu to make structural reform a p
 
 After a modern Tokugawa quells his daimyos*, the question then becomes: what policies should be implemented? 
 
-> *I myself have met such a daimyo, as a Japanese institutional investor who was a dean of business college, during my failed MBA application to a prestigious Japanese university. 
+{{< n n="*I myself have met such a daimyo, as a Japanese institutional investor who was a dean of business college, during my failed MBA application to a prestigious Japanese university." >}}
+
 
 
 From the failure of Abenomics, it is obvious that the policy should not be Keynesian. From the prioritization of the arrows, you can see the dominance of money in making up the first 2 goals. The dominance of money is also present in Keynes' General Theory. 
@@ -108,13 +109,15 @@ In fact, the 3 arrows of Abenomics looks as though someone copy-pasted Keynes on
 
 **The problem is that Keynes' work was tailored for a depression, but Japan's problem is a deflation.** 
 
-It's like taking cough syrup to treat back pain. A depression is caused by the lack of circulation of money and that's why Keynes wrote a lot about how to make money circulate again. We then pointed out that [the lack of circulation in the 1930's was caused by profit maximization](/social/economics/why-qe-failed/) from the Marginal Revolution of the 1870's. 
+It's like taking cough syrup to treat back pain. A depression is caused by the lack of circulation of money and that's why Keynes wrote a lot about how to make money circulate again. We then pointed out that [the lack of circulation in the 1930s was caused by profit maximization](/social/economics/why-qe-failed/) from the Marginal Revolution of the 1870's. 
 
 A deflation is caused by a population that is ageing or declining. No matter how much money you throw at an old man, his productivity and consumption will never improve to be like that of a young man. 
 
 The best solution* is to [get more young men into the economy](https://www.japantimes.co.jp/news/2014/05/18/national/success-abenomics-hinges-immigration-policy/).
 
-> *Some Japanese have pointed out that Japanese cities like Tokyo are already overpopulated and cannot handle any more humans. I reply that the rural areas are relatively sparsely populated just like in most countries. Urban overcrowding is the natural result of commercialization wherein humans compete for the money from profit-earners, concentrated in one place. Supereconomics advocates balanced [urban-rural development](/social/economics/principles/part-4/chapter-06/) through the effort theory of value.
+
+{{< n n="*Some Japanese have pointed out that Japanese cities like Tokyo are already overpopulated and cannot handle any more humans. I reply that the rural areas are relatively sparsely populated just like in most countries. Urban overcrowding is the natural result of commercialization wherein humans compete for the money from profit-earners, concentrated in one place. Supereconomics advocates balanced [urban-rural development](/social/economics/principles/part-4/chapter-06/) through the effort theory of value." >}}
+
 
 <!-- That is why  fail to point out that the historical solution was free movement, such as the Japanese to emigrating to Brazil in the 19th century.   -->
 

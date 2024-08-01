@@ -1,5 +1,6 @@
 ---
-title: "God is the Only Independent Substance"
+title: Substance is God in Manifest Form
+# title: "God is the Only Independent Substance"
 heading: Articles 51-
 weight: 24
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
@@ -27,7 +28,7 @@ In truth, there is only one substance which is absolutely independent -- God.
 - All other things can exist only by help of the concourse of God.
 
 Accordingly, "substance" applies to God and created things differently. 
-- The word "substance" does not have any meaning which is common to God and them.*
+- The word "substance" does not have any meaning which is common to God and to created things.*
 <!-- does not apply to God and the creatures UNIVOCALLY.  -->
 <!-- , to adopt a term familiar in the schools; that is,  -->
 <!-- no signification of this word can be distinctly understood which  -->

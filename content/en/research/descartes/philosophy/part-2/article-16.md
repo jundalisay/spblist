@@ -13,9 +13,9 @@ aliases:
 ---
 
 
+#### 16. A space that has absolutely nothing (void) is repugnant to reason
 
-
-#### 16. A vacuum or space in which there is absolutely no body is repugnant to reason.
+<!-- #### 16. A vacuum or space in which there is absolutely no body is repugnant to reason. -->
 
 The philosophical vacuum is a space where there is no substance. It does not exist since  the extension of space or internal place is not different from that of body. 
 

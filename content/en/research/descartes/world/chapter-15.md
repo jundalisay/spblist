@@ -14,37 +14,45 @@ icon: "/icons/descartes.png"
 # title: "The Face of the Heaven of that New World Must Appear to Its Inhabitants Completely Like That of Our World"
  -->
 
-How do the inhabitants of the aethereal Earth see their stellar gravitational territory as a whole like we physical Earthlings see our sky? 
+How do the inhabitants of the aethereal Earth see their stellar gravitational territory as a whole like we physical Earthlings see our sky?
 
-First, they see the `sun` as completely full of light and like our sun. It sends rays from all points of its surface toward their eyes. Because it is much closer to them than the stars, it must appear much larger to them. 
+
+
+
+
+
+They see the `sun` as completely full of light and like our sun. It sends rays from all points of its surface toward their eyes. Because it is much closer to them than the stars, it must appear much larger to them. 
+
+{{< img src="/graphics/physics/orbits.jpg" alt="Orbits" >}}
 
 The planetary gravitational territory `ABCD` turns around the Earth. 
-- Its air-aether offers some resistance* to those rays from the sun. 
+- Its air-aether offers some resistance to those rays from the sun. 
 
-> *Superphysics note: This resistance is now the magnetic field of the Earth.
-
-
-{{< img src="/graphics/physics/aetherspace.jpg" alt="Aether space" cap="Descartes explains gravitational lensing based on  the gravitational territories of each star instead of through Newtonian mass" >}}
-
-
-
-All the parts of the great heaven that are between `sun` and `D` strengthen the rays. 
-- This is why those that are between `D` and `earth`, being comparatively small in number, can take away only very little of their force from them.
+All the parts of the stellar gravitational territory that are between `sun` and `D` strengthen the rays. 
+- The planetary gravitational territory between `D` and `e` is comparatively smaller.
+- This is why it can remove only very little of the force of those rays.
 
 Even all the action of the air-aether of the stellar gravitational territory `FGGF` is not enough to impede the rays of the many fixed stars from reaching the Earth.
  <!-- from the sides not lit by the sun. -->
 
+
+{{< img src="/graphics/physics/fig_2-w.jpg" alt="Solar Systems" >}}
+
+
 The stellar gravitational territories are those with a sun or star at its center.
 - Those territories can be rather unequal in size. 
 - But they must always be exactly of the same force.
-  - In this way, all the air-aether in the line `sun-B` must tend as strongly towards the `alphacentauri` as that which is in the line `alphacentauri-B` tends toward `sun`. 
-  - This means that force of line `sun-B` is the same as the force of line `alphacentauri-B`
-- But the force of line `earth-B` is less than the force of `alphacentauri-B`.
-  - This means the force of line `earth-B` cannot prevent line `alphacentauri-B` from extending to `earth`
+  - In this way, all the fire-aether in the line `SB` must tend as strongly towards `e` as line `eB` tends towards `S`. 
+  - This means that force of line `SB` is the same as the force of line `eB`
+- But the force of line `earth-B` is less than the force of `eB`.
+  - This means the force of line `earth-B` cannot prevent line `eB` from extending to `earth`
 
-Likewise, `sirius` can extend its rays to `earth`
-- Line `sirius-2` helps it move to `earth` more than line `earth-4` resists it.
-- Line `2-3` helps it more than line `4-3` resists it.
+Likewise, Star `A` can extend its rays to `earth`
+- The air-aether between `A` and `2` helps those rays more than the air-aether between `4` and `earth` resists them. 
+- The air-aether between `3` and `4` helps them no less than that between `3` and `2` resists them.
+
+<!-- - Line `sirius-2` helps it move to `earth` more than line `earth-4` resists it.
+- Line `2-3` helps it more than line `4-3` resists it. -->
 
 This is why the stars look disproportional and mixed up.
 
@@ -71,8 +79,8 @@ Likewise:
 The stars never appear in their actual places. 
 
 For example:
-- `alphacentauri` appears as if it were in the straight line `earth-R`
-- `sirius` appears as if it were in the straight line `earth-4`.
+- Star `e` appears as if it were in the straight line `earth-B`
+- Star `A` appears as if it were in the straight line `earth-4`.
 
 **This is because the territories are unequal in size.** 
 - **The edges that separate them are arranged in a way that the rays that pass through them, from the stars toward the earth, always meet them obliquely, never at right angles.**
@@ -88,7 +96,9 @@ Those lines `earth-R`, `earth-4`, and ones like them are so extremely long compa
 - This makes the Earthlings always see the stars as fixed in the firmament. 
 - **This is why astronomers say that they cannot observe parallax in the stars**.*
 
-> *Translator's Note: Descartes removes the strongest empirical argument against the Copernican system. If, that is, the earth makes an annual circuit about the sun at a distance sufficient to account for observed planetary phenomena, observations of the fixed stars made from opposite sides of the orbit should differ by some amount. No one had been able to ascertain any difference, nor would anyone do so until the 19th century. Descartes joined Galileo and other defenders by arguing away the point with reference to the immense distance of the fixed stars.
+
+{{< f f="Translator's Note: Descartes removes the strongest empirical argument against the Copernican system. If, that is, the earth makes an annual circuit about the sun at a distance sufficient to account for observed planetary phenomena, observations of the fixed stars made from opposite sides of the orbit should differ by some amount. No one had been able to ascertain any difference, nor would anyone do so until the 19th century. Descartes joined Galileo and other defenders by arguing away the point with reference to the immense distance of the fixed stars." >}}
+
 
 <!-- Regarding the number of those stars, consider also that  -->
 
@@ -101,9 +111,9 @@ The same star can often appear in different places because of the different edge
 
 
 
-For example, `sirius` appears simultaneously:
-- in the line `earth-4` because of the ray `sirius-2-4-earth` 
-- in the line `earth-f` because of the ray `sirius-6-f-earth`
+For example, Star `A` appears simultaneously:
+- in the line `earth-4` because of the ray `A-2-4-earth` 
+- in the line `earth-f` because of the ray `A-6-f-earth`
 
 This is similar to how objects are multiplied when one looks through glasses or other transparent bodies cut along several faces.
 
@@ -116,7 +126,9 @@ Stars appear much smaller than they are because of their extreme distance. This 
   - the stars which astronomers call "nebulous," or
   - the great belt of our heaven that the poets pretend to be whitened by the milk of Juno*.
 
-> *Translator's Note: Among the startling telescopic discoveries announced by Galileo in his Copernican works of the 1610s was the composition of the Milky Way; magnification revealed it to consist of a huge number of separate stars.
+
+{{< f f="*Translator's Note: Among the startling telescopic discoveries announced by Galileo in his Copernican works of the 1610s was the composition of the Milky Way; magnification revealed it to consist of a huge number of separate stars." >}}
+
 
 Despite this, the less distant stars are about equal to our sun<!-- , in order to judge that they can appear as large as the largest of our world -->.
 
@@ -147,7 +159,9 @@ After a long time, This makes several stars seem to:
 
 Some even begin suddenly to appear or disappear, just as one has seen happen in the real world*.
 
-> *Translator's Note: The novae or "new stars" observed in 1572 and 1604 had much to do with the spread of Copernicanism and of opposition to it.
+
+{{< f f="*Translator's Note: The novae or 'new stars' observed in 1572 and 1604 had much to do with the spread of Copernicanism and of opposition to it." >}}
+
 
 
 
