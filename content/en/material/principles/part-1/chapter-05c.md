@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 5b"
-title: "The Middle Quantum of Aether"
+title: "The Lower Quantum of Aether"
 # date: 2023-12-10
 weight: 20
 image: /graphics/gravrelm.png
@@ -13,7 +13,6 @@ writer:
 
 
 
-The Middle Quantum of Aether are quantized waves that take the form of:
-- qosts 
-- photons or mor (medium of radiance)
+The Lower Quantum of Aether are the free aether that occurs in particles. An analogy is thought. 
+
 

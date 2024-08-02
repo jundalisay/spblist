@@ -10,7 +10,7 @@ writer:
 icon: "/icons/descartes.png"
 ---
 
-> *Superphysics Note: We rename 'heavens' with their modern version as 'gravitational territories'
+{{< n n="We rename 'heavens' with their modern version as 'gravitational territories'" >}}
 
 
 The aether that could not become the fire-aether or air-aether necessarily are the larger and more massive ones. These move out to the edges of the stellar gravitational territories onto other stellar gravitational territories without staying long in each territory.
@@ -50,7 +50,7 @@ In this way, they move much more slowly when they thus tend to leave some territ
 
 For example, the comet that takes its course along the line `WXYZ`, has already entered far within the limits of the stellar gravitational territory `FFFFGG`.
 
-{{< img src="/graphics/physics/helio.jpg" alt="stellar gravitational territories" >}}
+{{< img src="/graphics/physics/fig_2-w.jpg" alt="stellar gravitational territories" >}}
 
 Nevertheless, when it is at point `W`, it still remains enveloped by the air-aether from the territory `FI` where it came from. It cannot be entirely freed of that air-aether before it is around point `X`. 
 
@@ -67,7 +67,7 @@ Its motion slows down little by little as it approaches point `Y`. This is both 
 
 {{< youtube suo7_u18C_s >}}
 
-> *Superphysics Note: This is the Cartesian version of Einstein's gravity wells.
+{{< n n="This is the Cartesian version of Einstein's gravity wells." >}}
 
 This comet should be visible to those who live at the center of territory `FFFFGG` only during the time it takes to pass from `X` to `Y`.
 

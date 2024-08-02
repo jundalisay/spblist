@@ -22,7 +22,8 @@ To this we add earlier surprises from cosmic microwave background (CMB) data:
 3. Gravitational waves did not exist in the CMB
 4. The temperature differences in the CMB did not have much variety
 
-![Galaxy](/photos/physics/galaxy.jpg)
+{{< i s="/photos/physics/galaxy.jpg" a="Galaxy" >}}
+
 
 The cause of these surprises was the false materialist belief called **The Big Bang Theory** which says that the universe began as a mass of singularity that exploded to create spacetime and the current galaxies. 
 
@@ -172,12 +173,12 @@ Instead of a Big Bang, the entire universe already pre-exists as a bunch of prob
 
 It means that **the universe has no single starting point other than the mind that is perceiving that universe**. 
 
-- If the James Web Telescope teleported to another galaxy, it would see the same even distribution of galaxies.
+- If the James Web Telescope teleported to another galaxy, it would see the same even distribution of galaxies. It would then recompute the age of the universe based on the perspective of that galaxy and find that the age is different. This would prove Descartes correct that the age and size of the universe is indefinite. 
 - If it positioned itself at the edge of the known universe and tried to teleport beyond the edge, it would merely go to another nearly-exact universe and not go into a Void
 
  <!-- to a galaxy on the outer edge of its knowledge, it would likewise see an even distribution of mostly new galaxies to add to its knowledge.   -->
 
-Therefore, **the age of a universe depends on the layer where the perceiving mind is.** 
+Therefore, **the age of a universe depends on the star, galaxy, or layer where the perceiving mind is.** 
 
 - Humans are on the Material Layer, as material creatures, going onto the Convertible and Radiant (Electromagnetic) Layers. From this layer, the universe is 13.8 billion years old. 
 

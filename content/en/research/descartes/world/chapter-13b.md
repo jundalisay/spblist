@@ -18,7 +18,8 @@ The stellar air-aether [invisible spacetime particles] is continually pushed by 
 1. By their fellow air-aether between them and the star at the center of their gravitational territory 
 2. By the fire-aether [visible electromagnetic particles] of that star*.
 
-> *Superhysics note: This is solar wind since it has a pushing force or energy
+
+{{< n n="This is solar wind since it has a pushing force or energy" >}}
 
 
 They are not pushed at all by the others [beside them].
@@ -119,8 +120,8 @@ If the air-aethers between the lines `BF` and `CF` advanced first towards `E`, t
   - This would create a curved line `DVE`* just to fill `E` instead of a straight line `DG`, or `DE`.
 - This is contrary to my rules of motion.
 
-
-> *Superphysics Note: This is why there are no swirls within an accretion disk of a black hole. 
+{{< n n="This is why there are no swirls within an accretion disk of a black hole." >}}
+ 
 
 
  <!-- another space below them at `V`, into which those which are at `D` had to come.  -->

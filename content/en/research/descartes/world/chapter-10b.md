@@ -54,7 +54,9 @@ The air-aethers at `A` move faster than the planet `e`. They push `e` towards `Z
 Passing from `A` to `B`, they force planet `e` to turn with them around its center.*
 - This then lets them go from `B` to `C`, then to `D` and to `A`. 
 
-> *Superphysics Note: The force of the air-aether both revolves and rotates planets. 
+
+{{< n n="The force of the air-aether both revolves and rotates planets." >}}
+ 
 
 Thus, they form a particular heliosphere around the planet. They continue to move from the West towards the East both:
 - around the sun and

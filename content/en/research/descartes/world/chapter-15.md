@@ -2,7 +2,7 @@
 heading: "Chapter 15"
 title: "The Aether and Gravitational Lensing" 
 weight: 32
-image: /graphics/physics/aetherspace.jpg
+image: /graphics/physics/fig_2-w.jpg
 description: "Solar systems can be rather unequal in size. But they must always be exactly of the same force."
 writer:
   name: Rene Descartes

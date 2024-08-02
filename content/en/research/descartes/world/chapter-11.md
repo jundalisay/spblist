@@ -14,35 +14,39 @@ icon: "/icons/descartes.png"
 
 What is the weight of this physical Earth? 
 
-The weight of the Earth is caused by the force that unites all its parts and makes them all tend toward its center, according to their:
+The weight of the Earth is caused by the force that unites all its particles and makes them all tend toward its center, according to their:
 - size and
 - solidity.
 
 This force is made up of the air-aether of the planetary gravitational territory surrounding it. 
-- This external air-aether rotates faster than the air-aether inside the Earth.  
+- This air-aether farther from the center rotates faster than the air-aether inside the Earth.  
+- This faster speed causes them to move away from its center with more force. 
+- This then pushes the earth-aether back toward its center.
 
-The air-aether of this planetary gravitational territory  surrounding the earth-aether turns much faster than its parts around its center. This causes them to move away from its center with more force. 
-
-As a consequence of this outward movement, the faster external air-aether pushes the earth-aether back toward its center [to fill the air-aether that goes away from the center].
+ <!-- [to fill the air-aether that goes away from the center]. -->
 
 
 In previous chapters, I said that:
-- the most massive and solid bodies, such as comets, tend to move outward towards the edges of the stellar gravitational territory. 
+- the most massive and solid bodies, such as comets, tend to move outward towards the edges of the stellar gravitational territory.
 - the less massive and less solid ones are pushed back toward the centers of that territory. 
+
+This makes it appear contradictory to what I am saying about the particles of the Earth. 
 
 But this assumes that **they were already moving with the same agitation as the air-aether of that stellar gravitational territory**. 
 
 It does not follow that:
 - the less solid parts of the earth-aether could be pushed back towards its center.
-- the more solid ones should move away from the center. 
+- the more solid ones should move away from the center.*
 
-In reality, the earth-aether would be pushed towards the center where the air-aether were turning if:
-- the earth-aether were not moving
+{{< n n="The whole confusion arises from the mistake of Descartes on comet speed" >}}
+
+
+In reality, the earth-aether would be pushed towards the center towards the direction where the  air-aether were turning if:
+- the earth-aether had not yet moved, or
 - the earth-aether moved slower than what is required* to follow the air-aether 
 
-> *Superphysics Note: This is the escape velocity. 
-
-
+{{< n n="This is the escape velocity." >}}
+ 
 
 **The air-aether will push the earth-aether with more force and speed the larger and more solid the earth-aether is.** 
 

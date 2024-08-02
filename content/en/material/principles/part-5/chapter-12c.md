@@ -1,0 +1,30 @@
+---
+heading: Chapter 12
+linkTitle: Chapter 12
+title: "Element 115"
+# date: 2020-01-27
+image: /photos/objects/engine.jpg
+description: "Element 115"
+weight: 200
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+icon: /icons/spmat.png
+toc: false
+---
+
+
+Characteristics | . 
+--- | ---
+Proton | 115
+Neutron | 115 
+PA | 345 
+NA | 345 
+PAC | 1,380
+NAC | 690
+Total A | 690
+Total AC | 2,070
+
+
+
+
