@@ -19,7 +19,7 @@ Although I am unwilling to believe that the bodies of this visible world were ev
 
 
 
-{{< n n="Here we replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
+{{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
 #### 2. How the Earth was Created 

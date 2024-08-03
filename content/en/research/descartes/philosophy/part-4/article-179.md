@@ -2,7 +2,7 @@
 title: "Iron filings scattered around a magnet"
 heading: Article 179-183
 weight: 52
-description: "Enumeration of properties of magnetic properties"
+description: "The powder of filings around a magnet does not accumulate randomly. Rather, it forms small mounds, like tiny tubes."
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -13,44 +13,47 @@ icon: "/icons/descartes.png"
 ---
 
 
-## The Magnetic Orbits
+{{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
+
+
+<!-- ## The Magnetic Orbits -->
 
 #### 179. The observations that can be made about iron filings scattered around a magnet.
 
 <!-- If we examine more closely how iron filings arrange themselves around a magnet, we will observe many things that confirm what has been said so far.  -->
 
-The powder of filings around a magnet does not accumulate randomly. Rather, it forms small mounds, with some of them appearing like tiny tubes.*
+The powder of filings around a magnet does not accumulate randomly. Rather, it forms small mounds, with some of them appearing like tiny tubes.
 
-{{< n n="These are 'magnetic field lines' in Physics">}}
-
-These tubes allow the striated particles to flow more freely than through the air and.
+These tubes allow the virtual photons to flow more freely than through the air.
 
 **As a result, they indicate the paths these particles take.**
 
 To make these paths clearly visible to the naked eye, some of the filings should be sprinkled on a surface that has a hole in which a spherical magnet is inserted in such a way that its poles touch the surface on both sides.
 
-This is similar to how astronomers insert a straight sphere into the circle of the horizon on celestial globes to represent the Earth. 
+This is similar to how astronomers insert a straight sphere into the circle of the horizon on celestial globes to represent the Earth.
 
-The scattered filings will then arrange themselves into tubes that exhibit the curved paths of the striated particles around the magnet, or even around the globe representing the Earth, as described by us before.
+The scattered filings will then arrange themselves into tubes that exhibit the curved paths of the virtual photons around the magnet, or even around the globe representing the Earth, as described by us before.
 
 
 Then insert another magnet next to the previous one, with the South pole of one magnet facing the North pole of the other.
 - These 2 magnets will act as if they were a single one.
 - The scattered filings will also change around them as one magnet.
-  - This demonstrates how the striated particles move through the 2 magnets as one magnet
+  - This demonstrates how the virtual photons move through the 2 magnets as one magnet
 
 
 The tubes that extend from one pole to the other will be straight.
 
-Those that connect opposing poles will bend around the magnets, such as the lines `BRVXTa` shown here. 
+Those that connect opposing poles will bend around the magnets, such as the lines `NRVXTs` shown here. 
+
+{{< img src="/graphics/physics/magnetattract.jpg" >}}
 
 When a piece of iron filings is suspended from one magnet, let's say the South pole, and the South pole of another magnet placed below it is turned towards it and gradually approached, the tubes made from the filings initially retract and bend upwards.
 
-This happens because the striated particles flowing through them are repelled by the ones coming from the lower magnet. 
+This happens because the virtual photons flowing through them are repelled by the ones coming from the lower magnet. 
 
 Then, if this lower magnet is much stronger than the upper one, these tubes will dissolve. The filings will fall towards the lower magnet. 
 
-This occurs because the ascending striated particles from the lower magnet exert force on each individual particle of the filings. Those particles cannot enter unless they adhere to the same surfaces to which the upper magnet adheres, causing them to separate from the upper magnet. 
+This occurs because the ascending virtual photons from the lower magnet exert force on each individual particle of the filings. Those particles cannot enter unless they adhere to the same surfaces to which the upper magnet adheres, causing them to separate from the upper magnet. 
 
 Conversely, if the South pole of the upper magnet, to which the filings adhere, is turned towards the North pole of the lower magnet, the filings align their tubes directly towards the lower magnet and extend them as much as possible.
 
@@ -63,11 +66,12 @@ This happens because the parts that touch the stronger magnet with a larger surf
 Since these surfaces of the filings are small and uneven, it always happens that some particles of the filings connect more strongly to one magnet or iron than to another.
 
 
+
 #### 180. Why does an iron plate attached to a magnet hinder its force of attraction or reversal of iron?
 
 The iron plate, when brought near the pole of a magnet, not only increases its force of sustaining iron, as mentioned before, but also impedes its ability to attract or reverse the polarity of iron. 
 
-Specifically, the plate DCD prevents the magnet AB, to which it is attached, from attracting or reversing the polarity of iron filings represented by EF. This is because we observe that the striated particles that would normally move from B towards EF are reflected by this plate from point C towards the edges DD. 
+Specifically, the plate `DCD` prevents the magnet `AB`, to which it is attached, from attracting or reversing the polarity of iron filings represented by EF. This is because we observe that the striated particles that would normally move from B towards EF are reflected by this plate from point C towards the edges DD. 
 
 This occurs because they can flow more freely through the plate than through the air, making it difficult for them to reach the accumulation EF. 
 

@@ -1,8 +1,8 @@
 ---
 title: "Why is steel more suitable for receiving it than lighter iron?"
-heading: Article 163
+heading: Articles 163-169
 weight: 48
-description: "Enumeration of properties of magnetic properties"
+description: "It preserves those virtual photons more constantly, because the extremities of the little branches projecting in these passages are less flexible"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -14,32 +14,69 @@ icon: "/icons/descartes.png"
 
 
 
-#### 163. Why is steel more suitable for receiving it than lighter iron?
-
-Steel receives this force greater than the lighter iron, because it has more and more perfect passages for receiving the striped particles.
-
-And he should plant it more constantly, because the ends of the branches which protrude in those passages are less flexible.
+{{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 164. Why is it communicated to him by a more perfect magnet than by a less perfect one?
+#### 163. Why steel is more apt to receive the magnet's force than common iron
 
-The greater is communicated to it by a greater and more perfect magnet: also because the striated particles, rushing with greater force into its passages, bend the extremities of the branches prominent in them more; and also, because many rushing towards it at the same time, many such passages open to themselves. 
+This is because it has more and more perfect passages, fit for receiving the virtual photons. 
 
-For it is to be noted that there are more such passages in steel, which of course consists of only iron rams, than in a magnet, in which there is a great deal of stony material, to which the iron rams are embedded. 
+It preserves those virtual photons more constantly, because the extremities of the little branches projecting in these passages are less flexible.
 
-Therefore, when only a few striated particles enter a weak iron magnet, they do not open all its passages, but only a few, and those which were closed by the extremities of the twigs which were as flexible as possible.
+
+
+
+#### 164. Why a greater magnet communicates more magnetism to it than a less perfect one. 
+
+This is because the virtual photons rush with greater impetus into its pores. These bend the ends of the projecting fibrils more.
+
+Since more of them rush there together, they open more of such pores for themselves.
+
+There are more such pores in steel which consists of iron filings alone, than in the magnet in which there is much stony matter, in which the iron filings are fixed.
+
+Therefore, when only a few virtual photons from the weak magnet enter the iron, they do not open all its pores, but only a few, and those which were closed by the most flexible ends of the fibrils.
+
+
+
+<!-- CLXV. Why the earth itself also imparts magnetic virtue to iron. Whence it happens that even vile iron, in which the ends of these fibrils are very flexible, can acquire some magnetic virtue in a very short time from the earth itself, the greatest magnet, but very weak.  -->
+
+
+## The Compass
 
 
 #### 165. Why does the earth itself give a magnetic force to iron?
 
-All iron, in which, the ends of these twigs are very flexible, can receive from the Earth itself, a very great magnet, but a very weak one,  in a very short time.
+The Earth itself is a very large but weak magnet.
 
-If it is oblong, not yet imbued with any such oil, and one of its extremity is inclined towards the Earth, it will directly acquire from this ground, in that extremity inclined towards the Earth, as the South Pole in these Boreal regions; and in a moment it will lose it, and acquire the very opposite, if the same extremity be raised, and the opposite be depressed.
+All iron, in which, the ends of these twigs are very flexible, can receive from the Earth a magnetic force in a very short time.
 
 
-#### 166. Why is the magnetic field weaker in the Earth than in small magnets?
+The iron's tip that is inclined towards the Earth will get the virtue of the South pole if the iron is:
+- in these Northern regions
+- oblong, not yet imbued with any such virtue
+- inclined by one of its ends towards the Earth.
 
-I do not think that it is weaker. Rather it is much stronger in the middle region of the Earth than the whole which is covered with striated particles. 
+If the same end is raised up, and the opposite one is depressed,, then the iron will immediately lose that, and acquire the entirely opposite virtue.
+
+
+
+#### 166. Why is the magnetic field [virtue] weaker in the Earth than in small magnets?
+
+
+I do not think it is weaker, but rather much stronger, in that middle region of the Earth, which has been said above to be pervaded by all the virtual photons. 
+
+But these virtual photons, having gone forth from it, for the most part return through the inner crust of the upper region of the Earth, from which the metals arise, and in which there are also many pores suitable for receiving them.
+
+Therefore very few of them reach us. 
+
+Those pores, both in that inner crust, and also in the magnets, and iron filings, which are contained in the veins of this outer one, are turned in a quite different way than the pores of the middle region; so that the virtual photons, which flow from the South to the North through this middle region, return from the North to the South, through all indeed the upper parts, but especially through its inner crust, and also through the magnets and iron of the outer; to which as the greatest part of them betakes itself, few are left which seek their way through this our air, and other surrounding bodies, destitute of suitable pores.
+
+A magnet taken out of the earth, and freely placed in a boat on the water, should still turn the same face towards the North, which it always had before, when it was attached to the earth; as Gilbert, the chief investigator of magnetic virtue, and the first discoverer of that which is in the Earth, affirms he has experienced. 
+
+Nor do I heed that others think they have seen the contrary; for perhaps they were deceived by the fact that the very part of the earth, from which they had caused the magnet to be cut out, was a magnet, and the poles of the cut-out magnet turned towards it; as was said a little before, that one fragment of a magnet turns towards another.
+
+
+<!-- I do not think that it is weaker. Rather it is much stronger in the middle region of the Earth than the whole which is covered with striated particles. 
 
 These striated particles come from the center. They mostly return through that inner crust of the upper region of the Earth. 
 
@@ -61,19 +98,20 @@ Gilbertus is the principal investigator of the magnetic virtue.
 
 He is the first to discover it on Earth.
 
-He claims to have experienced it. 
+He claims to have experienced it.  -->
 
 <!-- Nor do I care that others think they have seen the contrary; for  -->
 
-Perhaps he imposed on them that since that very part of the earth, from which they had taken care to cut the magnet, was a magnet, the poles of the cut magnet should turn towards it: as was said a little before, a fragment of one magnet is turned to another.
+<!-- Perhaps he imposed on them that since that very part of the earth, from which they had taken care to cut the magnet, was a magnet, the poles of the cut magnet should turn towards it: as was said a little before, a fragment of one magnet is turned to another. -->
 
 
 #### 167. Why do needles, touched by a magnet, always have the poles of their virtue at their extremities?
 
-This magnetic power is not shared with an oblong iron, except according to its length.
+This magnetic virtue is not communicated to an oblong iron, except according to its length.
 
-This is why the needle itself, when it is impregnated, must always:
-- turn its extremities towards the same parts of the earth, towards which the spherical magnet turns its poles; and always having such needles of their magnetic virtue precisely at these extremities.
+This is why a needle imbued with it must always turn its extremities towards the same parts of the earth, towards which a spherical magnet turns its poles. 
+
+Such a needle must always have the poles of its magnetic virtue precisely at those extremities.
 
 
 #### 168. Why the poles of the magnetic force are not always accurately directed towards the poles of the Earth, but are sometimes deflected from them.
@@ -94,3 +132,20 @@ Nor is it to be thought that there is a disparate reason in it, that the inequal
 There are those who say that this decline does not always remain the same in the same parts of the earth, but changes with time.
 
 This should not be seen as surprising: not only because iron is daily transferred from one part of the earth to another by men, but also because its lumps, which are in this outer earth, can be corrupted in some places with time, and others can be generated in others, either by the interior of the earth was subdued.
+
+
+
+#### 170. Why can the declination be smaller in a magnet standing above one of its poles than when its poles are equally distant from the Earth?
+
+Some say that:
+- this declination does not exist in a spherical magnet above its South pole in these Northern regions, or above its North pole in the Southern regions, when it is standing perpendicularly
+- when it is placed on a boat in such a way that a certain part of its equator always accurately faces the North and opposite faces the South. 
+
+I have not yet tested this through any experiment. 
+
+I think that the declination in such a magnet is not entirely the same, and perhaps not even as significant, as in a magnet whose poles are equally distant from the Earth. 
+
+This is because the virtual photons in this upper region of the Earth not only return from one pole to the other along lines equally distant from its center. 
+
+But also, everywhere except under the equator, some particles ascend from its interior parts. The rotation of a magnet standing above its poles primarily depends on these outermost particles, while the declination primarily depends on the inner particles.
+

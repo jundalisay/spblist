@@ -1,8 +1,8 @@
 ---
-title: "Why can the declination be smaller in a magnet standing above one of its poles than when its poles are equally distant from the Earth?"
-heading: Article 170
+title: "Why does a magnet attract iron?"
+heading: Article 171
 weight: 50
-description: "Enumeration of properties of magnetic properties"
+description: "Iron moves more freely than a magnet because it consists only of those particles through which the virtual photons can pass"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -13,18 +13,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-
-#### 170. Why can the declination be smaller in a magnet standing above one of its poles than when its poles are equally distant from the Earth?
-
-Some say that:
-- this declination does not exist in a spherical magnet above its South pole in these Northern regions, or above its North pole in the Southern regions, when it is standing perpendicularly
-- when it is placed on a boat in such a way that a certain part of its equator always accurately faces the North and opposite faces the South. 
-
-I have not yet tested this through any experiment. 
-
-I think that the declination in such a magnet is not entirely the same, and perhaps not even as significant, as in a magnet whose poles are equally distant from the Earth. 
-
-This is because the striated particles in this upper region of the Earth not only return from one pole to the other along lines equally distant from its center. But also, everywhere except under the equator, some particles ascend from its interior parts. The rotation of a magnet standing above its poles primarily depends on these outermost particles, while the declination primarily depends on the inner particles.
+{{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
 #### 171. Why does a magnet attract iron?
@@ -35,11 +24,11 @@ There is no pulling force involved.
 
 But as soon as the iron is within the sphere of magnetic influence, it borrows its force from the magnet.
 
-The striped particles exiting from both objects expel the intervening air-aether. 
+The virtual photons exiting from both objects expel the intervening air-aether. 
 
 This causes them to approach each other, just like two magnets would. 
 
-Iron moves more freely than a magnet because it consists only of those particles through which the striped particles can pass. 
+Iron moves more freely than a magnet because it consists only of those particles through which the virtual photons can pass. 
 
 But a magnet is burdened by its heavy stony material.
 
@@ -47,7 +36,7 @@ But a magnet is burdened by its heavy stony material.
 
 #### 172. Why does an armed magnet (a magnet equipped with iron) support much more weight than a bare magnet?
 
-But many wonder why a magnet equipped with iron, or an iron plate attached to a magnet, can support more weight than the magnet alone. 
+But many wonder why a magnet equipped with iron, or an iron plate attached to a magnet, can support more weight than the magnet alone.
 
 This is because even if it can support more weight with the added iron, it does not necessarily attract it more if it is even slightly removed from it. Nor does it support more weight if a thin object is interposed between them. 
 
@@ -64,13 +53,19 @@ Even though the poles of a magnet appear to have opposite properties, they still
 
 In such a case, if both poles are equipped with iron plates, they can support nearly twice as much iron together as a single pole alone. 
 
-For example, if AB is a magnet with iron plates CD and EF attached to its poles, protruding on both sides so that the iron GH, when applied to them with a sufficiently wide surface, touches them, the iron GH can be approximately twice as heavy as when it is supported by only one of these plates. 
+{{< img src="/graphics/physics/fig_83-4.jpg" a="Magnet and iron" >}}
 
-However, the reason for this is evident from the motion of the striated particles, which has already been explained. Although these particles exhibit opposition in the sense that those entering through one pole cannot enter through the other, this does not prevent them from cooperating in supporting the iron. 
+For example, magnet `AB` has iron plates `CD` and `EF` attached to its poles. These protrude on both sides so that the iron `GH` touches them.
 
-When they come from the South pole A of the magnet and are reflected by the iron plate CD, they enter a portion b of the iron, creating its North pole B. 
+The iron `GH` can be approximately twice as heavy when it is supported by only one of these plates. 
 
-Then, flowing up to the South pole a, they encounter the other iron plate FE, through which they ascend to the North pole B of the magnet. 
+This is because of the motion of the virtual photons. 
+- They oppose in the sense that those entering through one pole cannot enter through the other.
+- But this does not prevent them from cooperating in supporting the iron. 
+
+When they come from the South pole `A` of the magnet and are reflected by the iron plate `CD`, they enter a portion `b` of the iron, creating its North pole `B`. 
+
+Then, flowing up to the South pole `a`, they encounter the other iron plate `FE`, through which they ascend to the North pole B of the magnet. 
 
 Conversely, when they exit from B, they pass through the armature EF, the suspended iron HG, and another armature DC, and return to A.
 
@@ -88,15 +83,27 @@ However, because the wheels themselves always rotate, some in one direction and 
 The motion of the wheel is less hindered by contact with the magnet, as it rotates while suspended, than it is by contact with the Earth when pressed by its own weight.
 
 
-#### 175. How and why does the force of one magnet increase or decrease further?
+#### 175. How and why does the force of one magnet increase or decrease?
 
-The force of one magnet can increase or decrease in various ways when influenced by the presence of another magnet or iron. However, there is a general rule that applies: whenever the magnets are positioned in a way that one magnet sends striated particles towards the other, they attract each other. 
+The force of one magnet can increase or decrease in various ways when influenced by the presence of another magnet or iron.
 
-Conversely, if one magnet pulls these particles away from the other, they hinder each other. The more rapidly and abundantly these particles flow through each magnet, the greater the magnet's strength. When the particles are in a highly agitated state, more of them can be transferred from one magnet or iron to another compared to when the air or any other substance is present in the absence of a magnet.
+The general rule is: **whenever the magnets are positioned in a way that one magnet sends virtual photons towards the other, they attract each other**. 
+
+Conversely, if one magnet pulls these particles away from the other, they hinder each other. 
+
+The more rapidly and abundantly these particles flow through each magnet, the greater the magnet's strength. 
+
+When the particles are in a highly agitated state, more of them can be transferred from one magnet or iron to another compared to when the air or any other substance is present in the absence of a magnet.
 
 Thus, not only do the South pole of one magnet and the North pole of another attract each other when supporting iron with their respective poles, but even when they are separated and the iron is placed between them. 
 
-For example, magnet C is attracted to magnet F to hold the iron DE attached to it, and vice versa, magnet F is attracted to magnet C to support the end E of its iron in the air. It can be so heavy that it could not be supported by magnet F alone if the other end D leaned against a different object than magnet C.
+
+{{< img src="/graphics/physics/fig_85-4.jpg" >}}
+
+
+For example, magnet `C` is attracted to magnet `F` to hold the iron `DE` attached to it. Vice versa, magnet `F` is attracted to magnet `C` to support the end `E` of its iron in the air. 
+
+It can be so heavy that it could not be supported by magnet `F` alone if the other end `D` leaned against a different object than magnet `C`.
 
 
 #### 176. Why can't a magnet, no matter how strong it is, attract iron that is not in direct contact with a weaker magnet?
@@ -121,6 +128,12 @@ I believe there is no specific reason why it adheres to one magnet more than the
 
 #### 178. Why, in these Northern regions, is the South pole of a magnet stronger than the North pole?
 
-From the fact that magnet F assists magnet C in supporting iron DE, it is evident why the pole of the magnet that we call the South pole can support more iron than the other pole in these Northern regions. 
+{{< img src="/graphics/physics/fig_85-4.jpg" >}}
 
-It is supported by the Earth, the largest magnet, in the same way that magnet C is assisted by magnet F. On the contrary, the other pole is hindered by the Earth due to its unfavorable position.
+Magnet `F` assists magnet `C` in supporting iron `DE`.
+
+This is why the South pole can support more iron than the other pole in these Northern regions. 
+
+It is supported by the Earth, the largest magnet, in the same way that magnet `C` is assisted by magnet `F`. 
+
+On the contrary, the other pole is hindered by the Earth due to its unfavorable position.
