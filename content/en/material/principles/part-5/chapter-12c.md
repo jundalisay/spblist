@@ -26,5 +26,3 @@ Total A | 690
 Total AC | 2,070
 
 
-
-

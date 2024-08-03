@@ -91,11 +91,11 @@ These interstices are larger than the fire-aether particles that are in the surr
 
 These particles are mutually attached to each other and form various shapes, depending on the diversity of the interstices. But for the most part, they are thin, wide, and oblong, so that they can move around each other easily.
 
-The interstices, having changed their shape, are now very narrow. The air-aether cannot enter unless they are oblong in shape, like the rim of a wheel. 
+The interstices, having changed their shape, are now very narrow. **The air-aether cannot enter unless they are oblong in shape, like the rim of a wheel.** 
 
 Therefore, although I do not deny that there may be another cause of attraction in some bodies, this cause is not so general. 
 
-Attraction is observed in many bodies, and I do not think it is present in them, or at least not in the majority of them, in the same way as it is in the ether.
+Attraction is observed in many bodies. I do not think it is present in them, or at least not in the majority of them, in the same way as it is in the ether.
 
 
 ### 187. The causes of the wonderful effects of the remaining bodies are not solely due to the aether, but rather to various other factors, which are inherent in the material itself. 
@@ -132,4 +132,3 @@ I will briefly touch on some of the objects of the senses here.
 For up to this point, I have described this world, including all of its observable aspects, as a machine, considering only shapes and motions. 
 
 However, our senses reveal many other things to us, such as colors, odors, sounds, and the like, which I would have to discuss in detail if I were to provide a complete explanation of natural phenomena
-

@@ -44,11 +44,12 @@ It is divided into four:
 
 _ | [Material Superphysics](/material) | [Bio Superphysics](/bio) | [Social Superphysics](/social) | Spiritual
 --- | --- | --- | --- | ---
-Goal | Discover levitation, teleportation, and gravity-based energy, such as fusion, by using gravitational signatures | Solve all diseases, even viruses and mental health issues, create Artificial Sentience for predicting health issues  | Solve social problems, even economics and politics such as financial crisis and war, create Artificial Sentience for preventing crises. Create a global constitution, national constitution template, and organic law as a unified political system | Give people a choice on spiritual techniques based on their personality type
-Example Technologies | Vehicle levitation, Fusion via levitation of plasma | Five medical paradigms known to all, Sound waves for Agriculture, and Agriculture on seawater (Bio Superphysics for plants) | Free Trade system, Confirmation Elections, Constitutional Virtues | List of techniques and modular components and their effects  
-Method | Redefines E = mc^2  into E = G<sub>l</sub>  as template for all movement in the physical and metaphysical universe | This opens up the principles of chi or vayu of Traditional Chinese Medicine (TCM), pitta kapha and rakta of Ayurveda, acidic-alkaline of Naturopathy, and like-cures-like of Homeopathy | Plot the social cycles of each society, apply the Four Laws of Value. Find common patterns in national constitutions | Systematize existing spiritual techniques according to Superphysics principles of 5 layers, 2 forces
-Source | Patterned after *A Treatise of Human Nature Book 1* | Patterned after Book 2 | Patterned after Book 3 | Asian philosophy and traditions
+Goal | Discover levitation, teleportation, and antimatter/fusion energy by using Cartesian Physics | Solve all diseases, even viruses and mental health issues through prevention, create Automated Natural Intelligence (ANI) for predicting health issues | Solve social problems, even economics (recession, unemployment) and politics (war), create ANI for preventing crises, a global constitution, national constitution template, and organic law as a unified political system | Give people a choice on spiritual techniques based on their personality type
+Example Technologies | Vehicle levitation, Fusion via levitation of plasma, Antimatter via aetherspace | Five medical paradigms known to all, Sound waves for Agriculture, and Agriculture on seawater | Moneyless Economy, Pool Clearing (Trade system), Confirmation Elections, Constitutional Virtues | List of techniques and modular components and their effects  
+Method | Redefines E = mc^2  into E = G<sub>l</sub>  as template for all movement | Systematize Traditional Chinese Medicine, Ayurveda, Naturopathy, Homeopathy | Plot the social cycles of each society, apply the Four Laws of Value. Find common patterns in national constitutions | Systematize existing spiritual techniques according to Superphysics principles of 5 layers, 2 forces
 Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare. Thus turns the physicist into a superphysicist  | This is divided into Human, Animal, and Plant. Thus turns the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist and a sociologist and lawmaker into a supersociologist and superlawmaker. | 
+
+<!-- Source | Patterned after *A Treatise of Human Nature Book 1* | Patterned after Book 2 | Patterned after Book 3 | Asian philosophy and traditions -->
 
 
 {{< img src="/graphics/physics/layers.jpg" alt="The 5 Elements" cap="Fundamental to Superphysics is the Classical 5 Elements which we rename as aethereal, spatial, radiant, convertible, and material. It is based on the mysterious, invisible-but-everywhere Aether (the spooky Actor from a distance). It avoids being stuck with oh-so-obvious-but-limited Matter" >}}
@@ -65,9 +66,7 @@ It pointed to a series of crises from 2019 to 2030, which we call The Great Stag
  <!-- as "The Overhaul" because current systems will break down during those times. -->
 
 
-{{< me d="April 2021" >}}
-The crisis years came via Covid. It turned out that the medical system was the first one to break down. This led us to create [Pantry Health](https://pantrypoints.com/trisactions/health) as an implementation of Bio Superphysics as a solution. Our model predicts that the financial system will be the next one to crash at year X, which led us to create the [Points Banking](https://pantrypoints.com/trisactions/banking). Economic and international law systems will be stressed much later.
-{{< /me >}}
+{{< u d="April 2021" u="The crisis years came via Covid. It turned out that the medical system was the first one to break down. This led us to create [Pantry Health](https://pantrypoints.com/trisactions/health) as an implementation of Bio Superphysics as a solution. Our model predicts that the financial system will be the next one to crash at year X, which led us to create the [Points Banking](https://pantrypoints.com/trisactions/banking). Economic and international law systems will be stressed much later." >}}
 
 
 {{< me d="July 2022" >}}
@@ -93,7 +92,7 @@ Feel free to contact us via email at pantrypoints@gmail.com .
 
 Core Team | 
 --- | ---
-Juan | Founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "Line of Intuition" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. He is also a full-stack developer.
+Juan | Founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "[Line of Intuition](/research/benham/palmistry/part-2/chapter-14b-intuition)" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. He is also a full-stack developer.
 Lam | Joined Juan in 2017 to build Pantrypoints. Like Juan, she has a "Line of Intuition" and "Solomon Ring". She is still trying to get samadhi.
  <!-- Pantrypoints then , likes to read and write about the works from the Enlightenment -->
 <!-- She writes about economics, business, and history -->
@@ -101,9 +100,10 @@ Lam | Joined Juan in 2017 to build Pantrypoints. Like Juan, she has a "Line of I
 Rest of the Team | 
 --- | ---
 Jose | An alternative medicine practitioner since the 2000s, focusing on homeopathy and naturopathy, though he has tried doing Chinese medicine. He has gotten samadhi a few times in India. 
-Jing | Vice-President of an agriculture association. He is keen on using Bio Superphysics for agriculture  
+Jing | Vice-President of an agriculture association. He is a Catholic and does not care about samadhi. However, he is very keen on using Bio Superphysics for agriculture  
+Ehmil | Geologist. He is an Evangelical and also doesn't care about samadhi. But he is interested in Cartesian Physics for geological applications such as earthquake detection.
 Adrian | Mobile and Python developer. He has helped debug the Pantrypoints mobile apps.  
-Ehmil | Geologist. He will help with Cartesian Physics for geological applications such as earthquake detection.
+
 
 <!-- Jing likes to write about agriculture, data science, and the earth sciences -->
 <!-- Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   

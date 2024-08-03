@@ -11,15 +11,20 @@ icon: "/icons/descartes.png"
 ---
 
 
+{{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
+
+
 #### 109. The Presence of Intersecting Channels in the Spots
 
-The remaining air-aether contained in space `I`, while rotating around the axis `fd`, always attempts to move away from it. 
+The remaining air-aether contained in space `I`, while rotating around the axis `fd`, always tries to move away from it. 
 
 Therefore, it initially formed and always preserves certain small channels in the spot `defg`, which intersect the primary ones and allow some of this matter to flow out. 
 
-This is because some amount of the matter enters along with the striated particles through the primary channels. Since all parts of the spot adhere to each other, the circumference defg cannot become larger or smaller at different times. 
+This is because some amount of the matter enters along with the virtual photons through the primary channels. 
 
-Consequently, the quantity of the first element's matter contained in star I must remain constant.
+Since all parts of the spot adhere to each other, the circumference `defg` cannot become larger or smaller at different times. 
+
+Consequently, the quantity of the fire-aether's matter contained in star `I` must remain constant.
 
 
 
@@ -29,7 +34,7 @@ Therefore, the force that constitutes light can be either entirely absent in it 
 
 As its fire-aether rotates around the axis `fd`, any force that it exerts to move away from that axis is broken within the spot and does not reach the air-aether globules. 
 
-Similarly, the force exerted by its striated particles moving straight from one pole to the other cannot accomplish anything because:
+Similarly, the force exerted by its virtual photons moving straight from one pole to the other cannot accomplish anything because:
 - mainly, those particles coming from one pole do not push these globules more in one direction than those coming from the opposite pole push them in the other direction
 - these particles are very small compared to the air-aether globules that they strike
 - these particles move slower than the rest of the fire-aether
@@ -71,7 +76,8 @@ However, if the fire-aether exiting through the spot's pores and striking these 
 
 The more globules it separates, the more force it will acquire.
 
-Thus, in a very short time, almost instantaneously, it will spread over the entire surface. There it rotates in the same way as the matter within the spot. It will push the surrounding air-aether globules with no less force than `Star I` would if no spot enveloped and hindered its action. Hence, it will suddenly shine with great light.
+Thus, in a very short time, almost instantaneously, it will spread over the entire surface. There it rotates in the same way as the matter within the spot. 
+
+It will push the surrounding air-aether globules with no less force than `Star I` would if no spot enveloped and hindered its action. Hence, it will suddenly shine with great light.
 
 <!-- celestial -->
-

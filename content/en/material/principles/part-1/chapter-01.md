@@ -84,7 +84,8 @@ Newton explains all movements in the *physical plane* only, but says nothing abo
 The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.
 {{< /q >}}
 
-> *This was a major criticism by David Hume on Newton. Hume preferred Descartes and so we look into his ideas.
+{{< n n="*This was a major criticism by David Hume on Newton. Hume preferred Descartes and so we look into his ideas." >}}
+
 
 
 Einstein also suffered from the same disease:

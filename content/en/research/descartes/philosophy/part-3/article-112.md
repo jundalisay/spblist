@@ -11,15 +11,19 @@ icon: "/icons/descartes.png"
 ---
 
 
+{{< n n="Here we replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
+
+
 #### 112. Description of a Star Gradually Disappearing
 
-If this spot becomes so thin and rarefied that it dissolves due to the fire-aether spreading over its outer surface, `Star I` will not easily disappear again afterward. 
+<!-- rarefied -->
+If this spot becomes so thin and decompressed that it dissolves due to the fire-aether spreading over its outer surface, `Star I` will not easily disappear again afterward. 
 
 For this to occur, a new spot would need to envelop it completely again. 
 
 But if it is too thick to dissolve in this manner, its outer surface will become denser due to the impact of the matter surrounding it.
 
-Meanwhile, if the causes that previously diminished the force with which the matter of vortex O tends towards I change and this force increases, the matter of vortex I will be pushed back from P towards Y. 
+Meanwhile, if the causes that previously diminished the force with which the matter of vortex `O` tends towards `I` change and this force increases, the matter of vortex `I` will be pushed back from `P` towards `Y`. 
 
 Consequently, the fire-aether spread over the spot `defg` will decrease. New spots will simultaneously form on its surface, gradually dimming its light.
 
@@ -32,19 +36,25 @@ These inner globules are pressed and interwoven with the branched particles of t
 Thus, they will easily congregate into spots there.
 
 
-#### 113. Many Channels Excavated by Striated Particles in All Spots
+#### 113. Many Channels Excavated by Virtual Photons in All Spots
 
-Striated particles continuously excavate channels for themselves in the crusts of all these spots and pass through all of them as if through a single spot. 
+Virtual Photons continuously:
+- excavate channels for themselves in the crusts of all these spots
+- pass through all of them as if through a single spot. 
 
 These spots are formed from the fire-aether particles. 
 
  <!-- very matter of the first element, and  -->
 
-This is why they are initially very soft, providing an easy path for the striated particles. 
+This is why they are initially very soft, providing an easy path for the virtual photons. 
 
 This cannot be said for the surrounding ether.
 
-Its thicker particles retain some traces of these channels because they are generated from the dissolution of spots. But they do not always maintain the same position due to following the motion of air-aether globules. Therefore, they do not easily admit the striated particles moving straight through them.
+Its thicker particles retain some traces of these channels because they are generated from the dissolution of spots. 
+
+But they do not always maintain the same position due to following the motion of air-aether globules. 
+
+Therefore, they do not easily admit the virtual photons moving straight through them.
 
 
 #### 114. The Same Star Can Appear and Disappear in Turns
@@ -69,7 +79,7 @@ Only 2 causes prevent vortices from being destroyed by others:
 
 1. One cause, which consists in the matter of one vortex being impeded by the presence of neighboring vortices from spreading towards another, does not apply universally.
 
-For example, if the air-aether of `Vortex S` is pressed on both sides by `Vortex L` and `N` to prevent it from proceeding further towards D, it cannot similarly be prevented by vortex D from spreading towards L and N, nor by any others except those closest to it in proportion to their size. Therefore, it does not apply to the very closest vortices. 
+For example, if the air-aether of `Vortex S` is pressed on both sides by `Vortex L` and `N` to prevent it from proceeding further towards `D`, it cannot similarly be prevented by vortex D from spreading towards L and N, nor by any others except those closest to it in proportion to their size. Therefore, it does not apply to the very closest vortices. 
 
 2. The other cause, which is that the matter of the first element forming the star in the center of each vortex repels the globules of the second element surrounding it towards other neighboring vortices, applies to all those vortices whose stars are not enveloped by spots. 
 

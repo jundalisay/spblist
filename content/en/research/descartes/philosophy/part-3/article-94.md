@@ -59,31 +59,47 @@ This is because these spots are not formed from the whole body of the Sun, but o
 
 The rest of the matter, which has remained in it longer and is, cooked and refined, always rotates with the greatest force. It partly scrapes off those already formed while new ones are generated in other parts from new matter entering the Sun.
 
-Hence, they do not all appear in the same places. And indeed, the entire surface of the Sun, except for the circumpolar regions, is usually covered with the matter from which they are composed; But the spots are said to exist only where that matter is so dense and compact that it notably weakens the light coming from the Sun.
+Hence, they do not all appear in the same places.
+
+The entire surface of the Sun, except for the circumpolar regions, is usually covered with the matter from which they are composed.
+
+But the spots exist only where that matter is so dense and compact that it weakens the light coming from the Sun.
 
 
 #### 97. Why Rainbow Colors Appear at the Extremity of Some Spots
 
 When these spots are thicker and denser they are worn down first at their circumference rather than in the middle, by the purer matter of the Sun flowing around them.
 
-Thus, the ends of their circumference, tapering to a point, become permeable to its light: hence, they must be painted there with the colors of the rainbow, as I explained earlier about the glass prism in Meteors, chapter 8. And such colors are sometimes observed in them.
+Thus, the ends of their circumference, tapering to a point, become permeable to its light: hence, they must be painted there with the colors of the rainbow, as I explained earlier about the glass prism in Meteors, chapter 8. 
+
+Such colors are sometimes observed in them.
 
 
 #### 98. How Spots Turn into Faculae or Vice Versa
 
-It often happens that the Sun's matter, flowing around these spots, rises above their extremities; then, being intercepted between them and the surface of the nearby sky, it is compelled to move more swiftly than usual: in the same way that the rapidity of rivers is always greater in shallow and narrow places than in wide and deep ones. 
+The Sun's matter flows around these spots, rising above their extremities.
 
-Hence, the Sun's light there must be somewhat stronger. Thus, spots are often converted into faculae, that is, parts of the solar surface, which were previously darker than others, later become brighter; 
+Then, being intercepted between them and the surface of the nearby sky, it is compelled to move more swiftly than usual.
+
+This is similar to how rapids in rivers are always greater in shallow and narrow places than in wide and deep ones.
+
+Hence, the Sun's light there must be stronger. 
+
+Thus, spots are often converted into faculae -- parts of the solar surface, which were previously darker than others, later become brighter.
 
 And vice versa, faculae are seen to turn into spots, when these are submerged in the more subtle matter of the Sun on one side, while a large amount of new matter attaches to them on the other side.
 
 
 #### 99. Into What Particles the Spots Dissolve
 
-When these spots dissolve, they do not turn into minutiae exactly similar to those from which they were formed. Instead, they partly transform into thinner and simultaneously more solid particles, or those with less angular shapes, which are more suited for motion and therefore easily move through the channels between the globules of the surrounding sky towards other vortices. 
+When these spots dissolve, they do not turn into minutiae exactly similar to those from which they were formed. 
+
+Instead, they partly transform into thinner and simultaneously more solid particles, or those with less angular shapes, which are more suited for motion and therefore easily move through the channels between the globules of the surrounding sky towards other vortices. 
 
 Partly, they transform into extremely thin particles that are either worn off from other angles or are converted into the pure substance of the Sun, or even go towards the sky. 
 
-Lastly, some transform into thicker particles composed of several striped or other particles joined together, which are expelled towards the sky. 
+Lastly, some transform into thicker particles composed of several striped or other particles joined together, which are expelled towards the sky.
 
-Since these are too large to pass through the narrow channels left by the globules of the second element, they even penetrate the spaces among these globules and, due to their very irregular and branched shapes, cannot move as easily as those globules.
+These are too large to pass through the narrow channels left by the air-aether globules.
+
+They even penetrate the spaces among these globules and, due to their very irregular and branched shapes, cannot move as easily as those globules.

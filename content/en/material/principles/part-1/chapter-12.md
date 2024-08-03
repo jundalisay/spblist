@@ -14,7 +14,6 @@ toc: false
 ---
 
 
-
 In "The Quantum Theory of Line-Spectra", Niels Bohr explains the mechanics of quantum theory that can work without Einstein's Special Relativity.
 
 The problem began when Einstein explained quantum mechanics based on his quack principles of Relativity which is ultimately based on Boltzmann's energy (entropy). 
@@ -25,12 +24,34 @@ He applies this to the Zeeman effect wherein light is affected by magnetism as t
 
 Relativity says that the perturbations are caused by the relativity of the speed of electrons and the speed of light. 
 
-Bohr, however, says that Relativity is wrong because it does not account for all the effects. Instead, Bohr points to the aether and how it can cause changes to the angular momentum of light via magnetism as to explain the perturbations. 
+Bohr, however, says that Relativity is wrong because it does not account for all the effects. Instead, Bohr points to the aether and how it can cause changes to the angular momentum of electron via magnetism as to explain the perturbations. 
+
+ <!-- light -->
 
 
 ![Bohr versus Einstein](/graphics/physics/zeeman.jpg)
 
-Instead of the Relativity of speeds and reference frames, Bohr's mechanism is state-change and angular momentum by the aether. 
+
+### How Cartesian Physics Explains the Zeeman Effect Through the Aetherspace
+
+We agree with Both and instead use the aetherspace to explain the Zeeman effect which is triggered by a magnetic field.
+
+{{<  youtube AWVgF4zlvdM >}}
+
+
+In Cartesian Physics, a magnetic field is facilitated by invisible corkscrews which we call electron-fluid or sor (substance of radiance) but Physics calls "virtual photons". 
+
+This sor has 3 aether particles. Passing a magnetic field into a cloud of atoms causes these particles to enter the aetherspace of the atom and strike the electron (which we call qor1).
+
+The sor changes the state of the electron relative to the nucleus which makes it move up the shell with the sor. It then emits converts the sor into a real photon which represents the energy in the nucleus.
+
+This makes the electron move down but not before gaining a new sor. It then emits this sor again as a photon in the other energy level.  
+
+This creates 2 spectral lines while the electron jumps up and down as a response to the magnetic field. 
+
+
+
+<!-- Instead of the Relativity of speeds and reference frames, Bohr's mechanism is state-change and angular momentum by the aether. 
 
 This is exactly the mechanism of Descartes' Physics, wherein state-change and angular momentum or spin makes up his 1st and 3rd rule of movement respectively. 
 
@@ -66,5 +87,5 @@ These can then be floated back to earth to create better iPhones, Teslas, comput
 
 It can float plasma and reduce energy requirements in order to realize fusion just like in stars which "float" in outerspace. 
 
-After things are floated via the aether, then humans can safely delete Einstein and Relativity from Physics as a long-running 100+ year scam that began in 1905 and has made science and technology impotent for so long.
+After things are floated via the aether, then humans can safely delete Einstein and Relativity from Physics as a long-running 100+ year scam that began in 1905 and has made science and technology impotent for so long. -->
 

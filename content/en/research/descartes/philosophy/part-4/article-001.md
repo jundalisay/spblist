@@ -18,8 +18,8 @@ icon: "/icons/descartes.png"
 Although I am unwilling to believe that the bodies of this visible world were ever generated in the manner described above, as I have sufficiently forewarned, I must still retain the same hypothesis to explain those things that appear above the Earth. Ultimately, if, as I hope to clearly demonstrate, the causes of all natural things can be given in this way, and not in any other, it may rightfully be concluded that their nature is none other than if they were generated in such a manner. -->
 
 
-{{< n n="striation: One of a number of parallel grooves and ridges in a rock or rocky deposit, formed by repeated twinning or cleaving of crystals." >}}
 
+{{< n n="Here we replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
 #### 2. How the Earth was Created 
@@ -32,7 +32,7 @@ It was the center of a vast vortex around it.
 
 <!-- , in whose center it stood. -->
 
-The fire-aether had striated particles and other very minute particles. These adhered to each other [via fusion] and thus were converted into the earth-aether.
+The fire-aether had virual photons and other very minute particles. These adhered to each other [via fusion] and thus were converted into the earth-aether.
 
  <!-- we continually see being generated and dissolved  -->
 Sun spots were then generated on the Earth's surface, similar to those around the Sun. 
@@ -45,7 +45,7 @@ After this ether became very large, it wove denser spots around the Earth. This 
 
 Many spots were pressing against each other but could no longer be dissolved.
 
-At the same time, the force of the containing the Earth's vortex was diminishing.
+At the same time, the force of the Earth's vortex was diminishing.
 
 And so the vortex finally collapsed, along with:
 - the spots
@@ -75,7 +75,7 @@ The fire-aether that continually goes from the Sun into the spots cannot be so e
 The middle region `M` is entirely occupied by a very opaque and dense body. This is made up of extremely small particles that belonged to the fire-aether but fused together. 
 
 The only passages left in it were so small that they can allow the passage of:
-- the striated particles 
+- the virtual photons 
 - the remaining fire-aether.
 
 This is confirmed by experience in the spots of the Sun which are of the same nature as this body `M` except that they are much thinner and rarer. 

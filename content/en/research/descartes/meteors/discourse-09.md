@@ -55,9 +55,9 @@ The sky does not emit any light of its own.
 
 They are always there to reflect some rays towards our eyes.
 
-They push back towards us the small parts of the subtle matter that the sun or the other stars have pushed against them.
+They push back towards us the small parts of the fire-aether that the sun or the other stars have pushed against them.
 
-When these vapors are in sufficient number, the subtle matter being pushed back towards us by the first ones, meets others afterwards which make its small parts roll and whirl, before they reach us. 
+When these vapors are in sufficient number, the fire-aether being pushed back towards us by the first ones, meets others afterwards which make its small parts roll and whirl, before they reach us.
 
 This then makes the sky appear white.
 

@@ -40,7 +40,7 @@ This is why:
 
 
 
-The surfaces of the iron are engraved with half-channels fit for receiving the striated particles.
+The surfaces of the iron are engraved with half-channels fit for receiving virtual photons.
 
 When lumps of iron are melted into steel, they are agitated by the force of heat and separated from heterogeneous substances. 
 
@@ -48,9 +48,9 @@ They twist themselves here and there until they align with each other according 
 
 This goes on until the halves of these channels match so well that they form complete channels. 
 
-When this happens, the striated particles found in fire and also in other bodies flow more freely through these channels.
+When this happens, the virtual photons found in fire and also in other bodies flow more freely through these channels.
 
-The striated particles hinder the small surfaces from changing their positions as easily as before.
+The virtual photons hinder the small surfaces from changing their positions as easily as before.
 
 They are prevented from being easily disjoined by:
 - the contiguity of these surfaces
@@ -131,19 +131,22 @@ Therefore, when it is immersed in certain liquids, it is rightly said to be temp
 
 #### 144. The difference between the channels of a magnet, steel, and iron.
 
-There are many channels in both steel and iron suitable for receiving striated particles. 
+There are many channels in both steel and iron suitable for receiving virtual photons. 
 
 The channels in steel are more intact and perfect.
 - The extremities of the branches protruding in their spirals when once bent in one direction are not as easily bending in the opposite direction as they do in a magnet.
 
-All these channels, not in steel or other iron as in a magnet, should be turned towards the South and the North. This makes their openings suitable for receiving striated particles from the South in one direction and suitable for receiving others from the North in the opposite direction.
+All these channels, not in steel or other iron as in a magnet, should be turned towards the South and the North. 
+
+This makes their openings suitable for receiving virtual photons from the South in one direction and suitable for receiving others from the North in the opposite direction.
 
 However, the arrangement of these channels should be variable and uncertain because it is disturbed by the agitation of fire. 
 
-In the very short interval during which this agitation is stopped by cold, only as many of these channels can be turned towards the South and the North as the striped particles coming from the Earth's poles are seeking a path through them at that time.
+In the very short interval during which this agitation is stopped by cold, only as many of these channels can be turned towards the South and the North as the virtual photons coming from the Earth's poles are seeking a path through them at that time.
 
-These striated particles do not correspond in number to all the channels in iron. 
+These virtual photons do not correspond in number to all the channels in iron. 
 
 Therefore, all iron does receive some magnetic force from the position it had with respect to the Earth's parts when it last cooled, or even from where it remained immobile for a long time, if it has remained immobile for a long time in the same position. 
 
 However, due to the number of channels it contains, it can still have more.
+

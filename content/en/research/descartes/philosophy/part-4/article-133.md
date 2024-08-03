@@ -12,6 +12,8 @@ icon: "/icons/descartes.png"
 #   /research/descartes/philosophy/part-4/section-04b
 ---
 
+{{< n n="Here we replace striated particles with virtual photons in order to make it easier to understand" >}}
+
 
 ### 133. The Magnet
 
@@ -25,25 +27,45 @@ Relevant articles on the magnet are from Part 3:
 - Article 87[-93]
 - Article 105-109 about star `I` applying it here to the Earth.
 
-Let us assume that there are many channels in its central region, parallel to its axis, through which the striated particles, coming from one pole, can freely go to the other.
+Let us assume that there are many channels in its central region, parallel to its axis, through which the virtual photons, coming from one pole, can freely go to the other.
 
-These channels must be so excavated to their size that those receiving the striped particles from the Southern pole cannot receive any others coming from the Northern pole, and vice versa, those receiving Northern ones do not admit Southern ones. 
+These channels must be so excavated to their size. 
+- Those receiving the virtual photons from the South pole cannot receive those coming from the North pole.
+- Those receiving the Northern ones do not admit Southern ones. 
 
-This is because, just like coils, they are twisted in one direction or the other. 
+**This is because, just like coils, they are twisted in one direction or the other.** 
 
-Moreover, the same particles can only enter through one part of these channels, but cannot return through the opposite part due to the very thin extremities of the branches bent in spirals within these channels toward that part along which they usually progress. 
+<!-- Moreover, the same particles can only enter through one part of these channels.
 
-Hence, after these striated particles have traversed through the entire Earth along straight or equivalently straight lines parallel to its axis, passing from one hemisphere to the other, they return through the surrounding ether to the same hemisphere through which they initially entered the Earth. 
+But they cannot return through the opposite part. This is because of the very thin extremities of the branches bent in spirals within these channels toward that they exit from.  -->
 
-Thus, they again permeate it, composing a kind of vortex there.
+ <!-- part along which they usually progress.  -->
+
+<!-- Hence, after these virtual photons have traversed through the entire Earth along straight or equivalently straight lines parallel to its axis, passing from one hemisphere to the other, they return through the surrounding ether to the same hemisphere through which they initially entered the Earth.
+
+Thus, they again permeate it, composing a kind of vortex there. -->
+
+These virtual photons:
+- can only enter through one end of these passages
+- cannot return through the other end
+
+This is due to the extremely thin ends of the small branches which:
+- are bent in spirals within these passages
+- face the direction in which they usually move
+- rise up towards the opposite direction so as to impede their return. 
+
+As a result, after these virtual photons have crossed the entire middle of the Earth along straight or nearly straight lines, parallel to its axis from one hemisphere to the other.
+
+They return through the surrounding ether to the same hemisphere from where they first entered the Earth.
+
+They pass through it again, creating a kind of vortex there.
 
 
 
-### 134. There are no suitable channels for receiving striated particles in air or water.
+### 134. There are no suitable channels for receiving virtual photons in air or water.
+ <!-- striated particles  -->
 
-The striated particles return from one pole to another from that ether.
-
-4 different bodies could be generated:
+The virtual photons return from one pole to another through that ether. This created 4 different bodies:
 
 1. The inner crust of the Earth or the metallic part
 2. Water
@@ -52,9 +74,11 @@ The striated particles return from one pole to another from that ether.
 
 These are mentioned in Part 3, article 113.
 
-No traces of channels suitable for receiving the striped particles have been left, except in the thicker particles of that ether.
+No traces of channels suitable for receiving the virtual photons have been left, except in the thicker particles of that ether.
 
-All these thicker particles of ether initially converged towards the inner crust of the Earth. None of them could be present in water or air. 
+All these thicker particles of ether initially flowed into the Earth's inner crust. 
+
+None of them could be present in water or air. 
 
 This is because:
 - there are no sufficiently thick particles there
@@ -65,26 +89,44 @@ Therefore, if there were channels there once, corrupted by this continuous movem
 
 ### 135. There are also no channels in any bodies of the outer earth except in iron.
 
-The Earth's inner crust consists of partly branched particles attached to each other and partly others that move through the branched intervals here and there.
+The Earth's inner crust consists of:
+- partly branched particles attached to each other and
+- partly others that move through the branched intervals here and there.
 
 Such channels cannot exist in these more mobile bodies due to the reason mentioned.
+- They can only exist in the branched ones. 
 
-They can only exist in the branched ones. As for the outer earth, no channels were indeed present in it initially, as it was formed between water and air.
+The outer earth had no channels present in it initially, as it was formed between water and air.
 
-However, since various metals have ascended from the inner Earth to this outer one, although all those formed from the more mobile and solid particles should not have such channels, certainly that which consists of branched and thick but not so solid particles cannot be without them. And it is very reasonable to believe that iron is such.
+However, since various metals have ascended from the inner Earth to this outer one.
+
+Those metals formed from the more mobile and solid particles should not have such channels.
+
+But certainly those metals made up of branched and thick but not so solid particles must have them. It is very reasonable to believe that iron is such.
 
 
-### 136. Why such channels exist in iron.
+### 136. Why such channels exist in iron
 
-For no other metal is so difficult to be bent by the hammer, resists fire less, or can be rendered less fusible without the addition of another substance. 
+Iron is the only metal that 3 characteristics:
 
-These 3 characteristics indicate that its fragments are more branched or angular than those of other metals, and hence, they are more firmly connected to each other.
+1. It is so difficult to be bent by the hammer
+2. It resists fire
+3. It is less fusible
 
-Nor does it matter that some of its masses easily melt upon the first exposure to fire; at that time, their fragments are not yet attached to each other, and therefore, they are easily agitated by the heat. 
+These need the addition of another substance to be altered. 
 
-Iron is harder and less fusible than other metals. But it is also one of the least dense. It easily corrodes with rust or is eroded by strong acids. 
+These prove that its fragments are more branched or angular than those of other metals.
+- This makes the particles of iron more firmly connected to each other.
 
-All these indicate that its particles are not denser than those of other metals, such as the thicker ones, but that many channels are contained in them.
+Some of its masses easily melt upon the first exposure to fire. At that time, their fragments are not yet attached to each other. This is why they are easily agitated by the heat. 
+
+Iron is harder and less fusible than other metals. But it is also one of the least dense. 
+
+It easily corrodes with rust or is eroded by strong acids. 
+
+This proves that its particles:
+- are not denser than those of other metals, such as the thicker ones
+- have many channels.
 
 
 ### 137. How they exist even in each of its fragments.
@@ -93,7 +135,7 @@ All these indicate that its particles are not denser than those of other metals,
 
 Nor do I want to deny that many such holes may be found in them. It will suffice here to assume -->
 
-Iron has coil-like holes through which the striated particles pass.
+Iron has coil-like holes through which the virtual photons pass.
 
 The halves of such holes are engraved on the surfaces of iron.
 - When these surfaces are properly joined, they form complete holes. 
@@ -107,7 +149,7 @@ These fragments were then pushed up through the veins of the outer earth.
 <!-- propelled by the spirit or acrid juice permeating them, gradually ascending into its cavities through exhalations and vapors. -->
 
 
-### 138. How these channels are made fit admit striated particles coming from either side.
+### 138. How these channels are made fit admit the virtual photons coming from either side.
 
 <!-- they meet with them there, with the very small extremities of the ramules, which, as has been said above, project among the windings of the passages, and rise up to meet the returning striated particles; 
 
@@ -120,19 +162,20 @@ While the iron is going up the Earth, the alignment of these channels cannot alw
 
 This is because they are angular. They encounter various irregularities in the veins of the Earth.
 
-The striated particles that come with force from the inner Earth seek their paths throughout the outer Earth*.
+The virtual photons that come with force from the inner Earth seek their paths throughout the outer Earth*.
 
 {{< n n="This is because like the air-aether, they move away from the Earth's center in straight lines" >}}
 
 
-To continue their motion along straight lines, the striated particles attempt to enter through the same openings through which they used to exit.
+To continue their motion along straight lines, the virtual photons attempt to enter through the same openings through which they used to exit.
 
 However, they encounter these openings with very small extremities of the branches that protrude between the spirals of the channels.
 
-These extremities initially hinder the progress of the returning striated particles.
+These extremities initially hinder the progress of the returning virtual photons.
 
 But under repeated impact, they gradually bend in the opposite direction or even break.
 
-Subsequently, the position of these channels change and turn their other openings towards the striated particles. These extremities encounter them again, gradually bending them in the opposite direction.
+Subsequently, the position of these channels change and turn their other openings towards the virtual photons. These extremities encounter them again, gradually bending them in the opposite direction.
 
 The more frequently and longer this process is repeated, the easier the extremities of these branches undergo flexion in both directions.
+

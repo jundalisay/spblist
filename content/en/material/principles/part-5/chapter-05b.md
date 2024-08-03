@@ -24,14 +24,37 @@ The quantum states are consistent with Descartes' First Law of Motion which is b
 
 This whole concept of rest mass is one of the illusions of Nature which Rene Descartes debunked over and over with his explanation of the true nature of motion, rest, and space, which occupies nearly half of Part 2 of Principia Philosophia.
 
-Einstein corrects the Newtonian illusion of rest by saying everything is moving, but then imposes his own illusion by saying light is the measuring rod of the everything-motion. And so you get a mess of geodesics and field equations, consequently the Einstein-imposed difficulty of teleporting masses across spacetime (which we call the Einstein Trap).
+Unlike the solar system, electrons do not follow a sequential orbit around the nucleus. This is because the space inside an atom is the aetherspace.   
 
-This is debunked by levitating monks and UFOs which are fully accounted for by the concepts of timespace and aetherspace. Instead of space being empty, it actually filled with aether and invisible spacetime particles that will never ever be detected by any electronic or mechanical instrument.
 
-The quantum levels are consistent with Descartes' "superficies" which we call gravitational territories (since they are a property of spacetime which he calls the 2nd Element).
+### The Aetherspace Versus Spacetime
 
-In this way, atomic energy levels become similar to galaxy rotation curves now attributed to dark matter, without needing the atom to have electron orbits or rotation curves.
+Inside the atom, local motion gives way to true motion due to the lack of spacetime particles which are replaced instead by aetherspace particles. 
 
-The fine structure then becomes "hyperfine" when the concept of spin is added. Descartes explained spin as the 1st Element (electrons) being vortices manifesting as corkscrews. These can become longer and larger depending on energy. This creates magnetism when they are all aligned, and tunneling in stars (explained in The World Chapter 9).
+These replace orbits with quantum levels that rely on state. These are consistent with Descartes' "superficies" which were called gravitational territories in spacetime. In the aetherspace, Physics are called shells. 
 
-Lastly, the emission of hydrogen lines as radiowaves or light is a consequence of the wave-particle nature of the 1st Element which Descartes compared to solid grapes and liquid grape juice. The more energy is applied to a bunch of grapes, as feet crushing it, the more it will become liquid juice moving away. The less energy, the more it becomes solid grapes staying together.
+We can make an analogy with planetary orbits:
+
+Attribute | Star-Spacetime | Atom-Aetherspace 
+--- | --- | ---
+Slave | Planet | Electron
+Slave Action | Rotation Speed from Spacetime | Spin Direction (vortex rotation) from Aetherspace
+Path | Orbiting Speed from Spacetime | Orbital Speed (Angular Momentum) from Aetherspace
+
+
+- The "fine" structure is the relationality* of the electron's vortex rotation and its orbital speed in the aetherspace. 
+- The "hyperfine" structure is the relationality of the electron's vortex rotation, its orbital speed, and the vortex rotation of the nucleus in the aetherspace. 
+
+
+{{< n n="We avoid Relativity to avoid our concepts being associated with Einstein's ideas" >}}
+
+Descartes explained spin as the 1st Element (electrons) being vortices manifesting as corkscrews. These can become longer and larger depending on energy. This creates magnetism when they are all aligned, and tunneling in stars (explained in The World Chapter 9).
+
+Lastly, the emission of hydrogen lines as radiowaves or light is a consequence of the wave-particle nature of the 1st Element which Descartes compared to solid grapes and liquid grape juice. 
+
+- The more energy is applied to a bunch of grapes, as feet crushing it, the more it will become liquid juice moving away.
+- The less energy, the more it becomes solid grapes staying together.
+
+These then dictate how the electron will jump its shells. 
+
+

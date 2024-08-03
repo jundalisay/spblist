@@ -17,6 +17,8 @@ aliases:
 
 <!-- #### 16. A vacuum or space in which there is absolutely no body is repugnant to reason. -->
 
+The philosophical void is a space where there is no substance . It does not exist since  the extension of space or internal place is not different from that of body. 
+
 The philosophical vacuum is a space where there is no substance. It does not exist since  the extension of space or internal place is not different from that of body. 
 
 Since a body has extension in length, width, and height, it follows that it is a substance. 

@@ -65,7 +65,7 @@ Even greater inequality in its position can be understood from the fact that sev
 
 The fire-aether coming from the vortices `K` and `L` does not move towards `S` in as straight lines as towards some other parts.
 
-For example, the part coming from K towards e, and the part from L towards g, it will cause the poles fd, around which all the matter of the Sun rotates, not to be in straight lines drawn from K and L to S, but the southern pole f to approach more towards e and the northern pole d towards g.
+For example, the part coming from `K` towards `e`, and the part from L towards g, it will cause the poles fd, around which all the matter of the Sun rotates, not to be in straight lines drawn from K and L to S, but the southern pole f to approach more towards e and the northern pole d towards g.
 
 Likewise, if the straight line SM, through which the fire-aether most easily exits from S towards C, passes through a point of the circumference fed closer to point d than point f; and the line SY, through which this matter mainly tends from S towards O, passes through a point of the circumference fgd closer to point f than point d; 
 
