@@ -8,11 +8,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 20
-aliases:
-  /research/smith/astronomy/descartes
 ---
-
-
 
 
 The particles of the 1st Element can fill up the interstices of the 2nd ELement. Among this 1st Element, there are many which get an angular form from the pressure of the 2nd Element globules around them.
@@ -21,7 +17,7 @@ These create a 3rd Element of particles, less fit for motion than those of the o
 - Its particles were formed in the interstices of the 2nd Element*.
 - They thus are necessarily smaller than those of the 2nd Element and are urged down towards the center, along with those of the 1st.
 
-> *Superhysics Note: This is now seen as quarks of the 3rd Element appearing from nowhere to complete the quark-antiquark pair as color confinement (quarks never appear in isolation)
+{{< n n="This is now seen as quarks of the 3rd Element appearing from nowhere to complete the quark-antiquark pair as color confinement (quarks never appear in isolation)" >}}
 
 
 In the center, a number of them can take hold of one another. In such a case, they form such spots on the surface of the accumulated particles of the 1st element.
@@ -46,7 +42,8 @@ The moon's face was crusted over by a congeries of angular particles.
 - The Earth vortex was also a Sun*. 
 - The moon was chanced to be placed in the Earth's neighbourhood. 
 
-> *Superphysics Note: Both the Moon and Earth were molten liquid which hardened
+{{< n n="Both the Moon and Earth were molten liquid which hardened" >}}
+
 
 
 The Moon, therefore, became a Planet, and revolved around the Earth. 
@@ -96,7 +93,7 @@ No two Planets, no two animals of the same kind, have exactly the same shape, no
 
 It was in vain for astronomers to find that perfect constancy and regularity in the motions of the heavenly bodies, which is to be found in no other parts of nature*.
 
-> *Superphysics Note: This is why our qualimath does not rely on static equations but rather on real-time data science where current data is collected and used to build equations or ratios on the fly. 
+{{< n n="This is why our qualimath does not rely on static equations but rather on real-time data science where current data is collected and used to build equations or ratios on the fly." >}}
 
 
 These motions, like all others, must either slow down or speed up according to the cause which produces them.
@@ -154,8 +151,8 @@ He was content with observing that perfect uniformity could not be expected in t
 
 He did not solve all the minute irregularities* which Kepler found in the movements of the Planets. 
 
-> *Superphysics Note: It was impractical to solve all the irregularities because data science was not yet invented in Descartes' time. Now that there is data science, we can bring confidently bring back Descartes dynamic system. 
-
+{{< n n="It was impractical to solve all the irregularities because data science was not yet invented in Descartes' time. Now that there is data science, we can bring confidently bring back Descartes dynamic system." >}}
+ 
 
 Instead, he showed that irregularities might happen from the nature of the causes which produced them. 
 - Many successive revolutions lead to other kinds of irregularities.

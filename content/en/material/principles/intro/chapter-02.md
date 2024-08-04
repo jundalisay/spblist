@@ -82,12 +82,6 @@ Middle Material | Down Quark | Liquid | Persistence | Green Charge
 Lower Material | Strange Quark | Solid | Persistence | Red Charge
  -->
 
-<!-- . | Mid | Color Charge Quark qom | Stability or Instability
-. | Lower | Color Charge Quark qom | Identity or Change -->
-
- 
-<!-- ## How Energy and the 2 Forces Manifest in the Sublayers -->
-
 <!-- Layer | Energy | Manifestation
 --- | --- | ---
 Upper Aethereal | Strength of idea or feeling | 
@@ -101,19 +95,6 @@ Convertible | Energy in a W Z boson | Stability
 Material | Energy in an atomic nucleus | Identity -->
 
 
-<!-- The ancient Hindus asserted that reality was made up of 5 Elements or Layers: Akasha, Vayu, Tejas, Jala, Bhumi.
-
-Modern Physics calls these 5 Layers nowadays as: Aether, Spacetime, Electromagnetism, Weak Force, Strong Force respectively. 
-
-We rename this as the Aethereal, Spatial, Radiant, Tranformative, and Material Layers in order to emphasize their qualities and make them intuitive and easy to understand.  -->
-
-
-<!-- Energy manifests differently in each layer:
-- In the Aethereal layer, it manifests as sound
-- In the Spatial layer, it manifests as heat
-- In the Radiant layer, it manifests as light
-- In the Convertible layer, it manifests as stability 
-- In the Material layer, it manifests as identity -->
 
 
 ## The Hierarchy of the Layers
@@ -180,21 +161,21 @@ For example, the 2 Forces manifests in 10 ways, depending on the Layer that they
 
 The principles of Material Superphysics is organized under the following headings which become Chapters.
 
-Chapter | Topic | Probability | Aethereal | Spatial | Radiant | Convertible | Material 
---- | --- | ---  |  ---  | --- | --- | --- | --- 
-1 | Layer Intro |  | | | | |
-2 | Sublayers | | | | | |
-3a | Medium | | moa | most | mor | moc | mom
-3b | Substance | | soa | sost | sor | soc | som
-3c | Quantum | | qoa | qost | qor | qoc | qom
-4a | Signature | | | | | | 
-4b | Territory | | | | | | 
-5a | 2 Forces or Vortex | | unite divide | clockwise anti | male female | react nonreact | matter anti
-5b | Relationality | | Attraction-Repulsion | 'General Relationality' | 'Special Relationality' | Feynman Diagrams | Contact Forces
-6a | Property Upper | Low Probability | unconscious | dark energy | carrier | qoc1 detection | gas 
-6b | Property Mid | Medium Probability | subconscious | dark matter | wave (zeeman) | qoc2 detection  | liquid 
-6c | Property Lower | High Probability | conscious | gravity | particle | qoc3 detection  | solid
-7 | Technologies | | Artificial Sentience, Sonic Fire Suppression | Levitation, Teleportation, Fusion, Fission Retardant, Non-Abrasive Precision Fabrication | Crystal Computers, Room Temperature Superconductors | Neutrino Disease Detectors | Stronger Materials  
+Topic | Probability | Aethereal | Spatial | Radiant | Convertible | Material 
+--- | --- | ---  |  ---  | --- |  --- | --- 
+1 Layer Intro |  | | | |
+2 Sublayers | | | | | |
+3 Medium | moa | most | mor | moc | mom
+4 Substance | | soa | sost | sor | soc | som
+5 Quantum | | qoa | qost | qor | qoc | qom
+6 Signature | | | | | | 
+7 Territory | | | | | | 
+8 2 Forces or Vortex | | unite divide | clockwise anti | male female | react nonreact | matter anti
+9 Relationality | | Attraction-Repulsion | 'General Relationality' | 'Special Relationality' | Feynman Diagrams | Contact Forces
+10 Upper | Low Probability | unconscious | dark energy | carrier | qoc1 detection | gas 
+11 Mid | Medium Probability | subconscious | dark matter | wave (zeeman) | qoc2 detection  | liquid 
+12 Lower | High Probability | conscious | gravity | particle | qoc3 detection  | solid
+13 Technologies | | Artificial Sentience, Sonic Fire Suppression | Levitation, Teleportation, Fusion, Fission Retardant, Non-Abrasive Precision Fabrication | Crystal Computers, Room Temperature Superconductors | Neutrino Disease Detectors | Stronger Materials  
 
 
 <!-- 4a | Duality or Symmetry (Vortex Direction) | | | | | | 

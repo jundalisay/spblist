@@ -184,7 +184,7 @@ This mind is the first principle. This principle necessarily leads to following 
 - he is the source of all truth
 - he cannot deceive us*
 
-> *Superphysics Note: Here, Descartes' God matches the Positive Force in Superphysics. It is not the Supreme Being or Brahma.
+{{< n n="Here, Descartes' God matches the Positive Force in Superphysics. It is not the Supreme Being or Brahma." >}}
 
 
 <!-- have created our understanding of such a nature as to be deceived in the judgments it forms of the things of which it possesses a very clear and distinct perception.  -->
@@ -241,7 +241,7 @@ He should mark with a pen the places where the difficulties occur. He should con
 
 If he reads the entire work for a 3rd time, he will discover the solution to those difficulties by himself*.
 
-> *Superphysics Note: In this way, Descartes' work is like organized training data and the reader is like a machine learning algorithm that makes multiple passes on that data.
+{{< n="In this way, Descartes' work is like organized training data and the reader is like a machine learning algorithm that makes multiple passes on that data." >}}
 
 
 <!-- ; then, if he does not grudge to take up the book a third time, I am confident he will find in a fresh perusal the solution of most of the difficulties he will have marked before; and that,  -->

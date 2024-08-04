@@ -4,6 +4,7 @@ description: "Superphysics is a unification of Science and Philosophy, Physics w
 image: /covers/2023.png
 toc: false
 weight: 100
+date: 2019-11-30
 ---
 
 ## It Began with the Financial Crisis 
@@ -16,12 +17,13 @@ Superphysics arose from Juan's personal research on the 2008 Financial Crisis wh
 
 So Adam Smith is such an evil guy for causing so much trouble, right?
 
-By reading Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to [the building of firewalls in order to prevent the spread of fire](/research/smith/wealth-of-nations/book-2/chapter-2m/).
+By reading Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to [the building of firewalls in order to prevent the spread of fire](/research/smith/astronomy/part-09/).
 
-Greenspan was really citing Samuelson and neoliberal writers who preferred selfish-interest over social interest.
+
+Greenspan was really citing Samuelson and neoliberal writers who preferred selfish-interest over social interest (i.e. getting filthy rich at the expense of others or society).
 
 After concluding that Greenspan and Samuelson were the bad guys, Smith logically became the good guy to us. 
-- Smith cited David Hume heavily in his works
+- Smith cited David Hume heavily in his works and explained Descartes' cosmology in [History of Astronomy](/research/smith/astronomy/)
 - Hume agreed with Descartes, and cited Plato
 - Descartes' aether is from Plato
 - Plato wrote about Socrates
@@ -36,15 +38,25 @@ Socrates thus became the essential link between Western and Eastern philosophy, 
 
 [Superphysics](/superphysics/principles/chapter-12) is thus Science unified with Philosophy, or Physics unified with Metaphysics. 
 
-Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists already explained how the Supreme Entity works as the `Cause` of everything. 
+Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists already explained how the Supreme Entity works as the **cause** of everything. 
 
-Its external implementation is Western science since the West already knows how physical things work as the `effects`. This mastery of cause and effect, East and West, makes it a tool for solving anything.  
+Its external implementation is Western science since the West already knows how physical things work as the **effects**. This mastery of cause and effect, East and West, makes it a tool for solving anything.  
 
 It is divided into four:
 
 _ | [Material Superphysics](/material) | [Bio Superphysics](/bio) | [Social Superphysics](/social) | Spiritual
 --- | --- | --- | --- | ---
-Goal | Discover levitation, teleportation, and antimatter/fusion energy by using Cartesian Physics | Solve all diseases, even viruses and mental health issues through prevention, create Automated Natural Intelligence (ANI) for predicting health issues | Solve social problems, even economics (recession, unemployment) and politics (war), create ANI for preventing crises, a global constitution, national constitution template, and organic law as a unified political system | Give people a choice on spiritual techniques based on their personality type
+Goal | Put Newtonian Physics under Cartesian Physics | Put Alternative Medicine on a level with Western Medicine | Replace Neoclassical Economics with Socrates-Smith Economics, and Sociology with Socrates-Ibn Khaldun | Classify major belief systems under Omnitheism 
+
+
+
+Solve all diseases, even viruses and mental health issues through prevention | 
+Target Output | Levitation, teleportation, and antimatter/fusion technologies | Automated Natural Intelligence (ANI) for predicting health issues | 
+
+
+Solve problems in Economics (recession, unemployment), politics (war), crime 
+
+ create ANI for preventing crises, a global constitution, national constitution template, and organic law as a unified political system | Give people a choice on spiritual techniques based on their personality type
 Example Technologies | Vehicle levitation, Fusion via levitation of plasma, Antimatter via aetherspace | Five medical paradigms known to all, Sound waves for Agriculture, and Agriculture on seawater | Moneyless Economy, Pool Clearing (Trade system), Confirmation Elections, Constitutional Virtues | List of techniques and modular components and their effects  
 Method | Redefines E = mc^2  into E = G<sub>l</sub>  as template for all movement | Systematize Traditional Chinese Medicine, Ayurveda, Naturopathy, Homeopathy | Plot the social cycles of each society, apply the Four Laws of Value. Find common patterns in national constitutions | Systematize existing spiritual techniques according to Superphysics principles of 5 layers, 2 forces
 Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare. Thus turns the physicist into a superphysicist  | This is divided into Human, Animal, and Plant. Thus turns the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist and a sociologist and lawmaker into a supersociologist and superlawmaker. | 
@@ -90,20 +102,25 @@ Feel free to contact us via email at pantrypoints@gmail.com .
  <!-- superphysicsorg@gmail.com.  -->
 
 
-Core Team | 
+. | Core Team
 --- | ---
 Juan | Founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "[Line of Intuition](/research/benham/palmistry/part-2/chapter-14b-intuition)" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. He is also a full-stack developer.
 Lam | Joined Juan in 2017 to build Pantrypoints. Like Juan, she has a "Line of Intuition" and "Solomon Ring". She is still trying to get samadhi.
  <!-- Pantrypoints then , likes to read and write about the works from the Enlightenment -->
 <!-- She writes about economics, business, and history -->
 
-Rest of the Team | 
+. | Rest of the Team
 --- | ---
 Jose | An alternative medicine practitioner since the 2000s, focusing on homeopathy and naturopathy, though he has tried doing Chinese medicine. He has gotten samadhi a few times in India. 
 Jing | Vice-President of an agriculture association. He is a Catholic and does not care about samadhi. However, he is very keen on using Bio Superphysics for agriculture  
 Ehmil | Geologist. He is an Evangelical and also doesn't care about samadhi. But he is interested in Cartesian Physics for geological applications such as earthquake detection.
 Adrian | Mobile and Python developer. He has helped debug the Pantrypoints mobile apps.  
 
+<!-- . | Past Team
+--- | ---
+2015 | Buu, Trang
+2016 | Loan, Ha Linh, Phuong, Mike, Huong, Linh, Hue
+2017 | EZGamio -->
 
 <!-- Jing likes to write about agriculture, data science, and the earth sciences -->
 <!-- Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   

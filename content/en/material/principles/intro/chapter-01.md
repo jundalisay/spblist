@@ -184,10 +184,10 @@ These layers are immediately implementable in healthcare. For example:
 - Ayurveda has the 3 doshas (3 of the 5 layers)
 - Traditional Chinese medicine has wu xing (all 5 layers). 
 
-Western medicine only works on the material layer which is the crudest of the five. This explains why Western medicine has no solution to mental problems such as ADHD, bipolar disorder, addiction, mass shootings, and terrorism*. These reside in the  the aethereal and spatial layers, not in the material layer.
+Western medicine only works on the material layer which is the crudest of the five. This explains why Western medicine has no solution to mental problems such as ADHD, bipolar disorder, addiction, mass shootings, and terrorism*. These reside in the the aethereal and spatial layers, not in the material layer.
 
-> *This is why physically bombing the terrorists does not really solve terrorism. It merely causes it to retreat to terrorize another day.  
-
+{{< n n="*This is why physically bombing the terrorists does not really solve terrorism. It merely causes it to retreat to terrorize another day." >}}
+  
 
 Western medicine is very good at material health problems that can be cured by physical surgery or masked by chemical medicines. 
 

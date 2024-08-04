@@ -12,9 +12,11 @@ icon: /icons/pantry.png
 ---
 
 
+{{< b >}}
 Principles | Assertions
 --- | ---
 There are 5 Layers in Reality | Layer 0 is the Probability Layer
+{{< /b >}}
 
 
 

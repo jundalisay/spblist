@@ -48,8 +48,8 @@ This attractive power of the Sun*:
 - is diffused in rays from a center and 
 - is diminished in the same proportion as the squares of the distances increased
 
-> *Superphysics note: This is Kepler's inverse square law 
-
+{{< n n="This is Kepler's inverse square law" >}}
+ 
 
 The motions of the planets would be swiftest when nearest the Sun, and slowest when farthest in the same proportion.
 <!--   off from him, in the same proportion in which, by observation, they are discovered to be;  -->
@@ -58,7 +58,8 @@ This gradual reduction of their respective gravities, their periodic times would
 
 He then proved that gravity was the connecting principle which joined the movements of the Planets by showing that the gravity on Earth is stronger* near the surface of the Earth. 
 
-> *Superphysics note: Descartes also proves this
+{{< n n="Descartes also proves this" >}}
+
 
 
 Gravity can make a body fall by around 15 Parisian feet in the first 1 second of its descent. 
@@ -77,7 +78,7 @@ Thus, the Moon is constantly falling towards the Earth.
 The system of Sir Isaac Newton explained the many other irregularities which Astronomers had observed in the Heavens. 
 - It explained that the centers of the planets' revolutions were not precisely in the Sun's center because the planets were also attracting* each other. <!-- , but in the common center of gravity of the Sun and the Planets.  -->
 
-> *Superphysics note: Kepler proved this earlier as Kepler's Third Law
+{{< n n="Kepler proved this earlier as Kepler's Third Law" >}}
 
 
 This explained the irregularities with Jupiter and Saturn, whenever they are nearly in conjunction with one another.
@@ -137,7 +138,7 @@ The Moon revolves in an ellipse, which has the centre of the Earth in one of its
 - The longer axis of its orbit is called the Line of its Apsides
   - This line is not to be always directed towards the same points of outer space. Instead, it revolves forwards, from west to east, so as to pass through all the points of the Ecliptic, and to complete its period in about 9 years.
 
-> *Superphysics Note: Lateral precession?
+<!-- > *Superphysics Note: Lateral precession? -->
 
 
 This was another irregularity that very much perplexed Astronomers. This was also solved by the theory of gravity.

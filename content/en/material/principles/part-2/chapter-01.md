@@ -13,6 +13,11 @@ icon: /icons/spmat.png
 ---
 
 
+{{< q a="Smith" c="History of Astronomy, Part 9" >}}
+Descartes is among the first of the moderns who took away the boundaries of the Universe.
+{{< /q >}}
+
+
 
 {{< youtube 6D9LNAgWbRE >}}
 
@@ -147,7 +152,6 @@ In Superphysics, a rock moves from location `A` to location `B` by moving throug
 It moves not because of its mass, dimensions, or force, but because of its gravitational signature which is visualized by **timespace**. 
 
 
-
 <!-- The rock's length, width, and height and time to roll, all come from our aethereal mind's decision to perceive the rock' spacetime aspects. In other words, the spacetime of the rock existed because our aethereal mind wanted to experience it. -->
 
 <!-- Unlike the Einstein's spacetime which is rigid and measured by the speed of light, the Superphysics spacetime is malleable. In fact, there are 4 kinds of our spacetime: 
@@ -158,4 +162,3 @@ Metaphysical | Aethereal | Mental Time | Experience | Coordinate Time (Einstein)
 Physical | Radiant | Electromagnetic Time | Atomic Clock | Proper Time (Einstein)
 Physical | Convertible | Radioactive Time | Radioactive Decay Clock |
 Physical | Material | Material Time | Sand Clock | Absolute Time (Newton) -->
-

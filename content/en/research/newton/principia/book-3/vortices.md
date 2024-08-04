@@ -27,7 +27,9 @@ I have explained that the motions of the comets are very regular*. These:
 - cannot be accounted for by the hypothesis of vortices as axes because coments have very elliptical orbits
 - have a freedom that is incompatible with the notion of a vortex
 
-> *Superphysics Note: Newton obviously didn't understand Descartes' explanation for comets
+
+{{< n n="Newton obviously didn't understand Descartes' explanation for comets. Yes, Descartes made a mistake in the speed of comets beyond Pluto, but that doesn't mean his entire system is wrong." >}}
+
 
 
 Bodies thrown in our air experience air resistance. Withdraw the air and the resistance ceases. 

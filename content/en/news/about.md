@@ -38,19 +38,52 @@ Socrates thus became the essential link between Western and Eastern philosophy, 
 
 [Superphysics](/superphysics/principles/chapter-10) is thus Science unified with Philosophy, or Physics unified with Metaphysics. 
 
-Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists already explained how the Supreme Entity works as the `Cause` of everything. 
+Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists already explained how the Supreme Entity works as the **cause** of everything. 
 
-Its external implementation is Western science since the West already knows how physical things work as the `effects`. This mastery of cause and effect, East and West, makes it a tool for solving anything.  
+Its external implementation is Western science since the West already knows how physical things work as the **effects**. This mastery of cause and effect, East and West, makes it a tool for solving anything.
 
-It is divided into four:
+It is divided into five:
 
-_ | [Material Superphysics](/material) | [Bio Superphysics](/bio) | [Social Superphysics](/social) | Spiritual
---- | --- | --- | --- | ---
-Goal | Discover levitation, teleportation, and gravity-based energy, such as fusion, by using gravitational signatures | Solve all diseases, even viruses and mental health issues, create Artificial Sentience for predicting health issues  | Solve social problems, even economics and politics such as financial crisis and war, create Artificial Sentience for preventing crises. Create a global constitution, national constitution template, and organic law as a unified political system | Give people a choice on spiritual techniques based on their personality type
-Example Technologies | Vehicle levitation, Fusion via levitation of plasma | Five medical paradigms known to all, Sound waves for Agriculture, and Agriculture on seawater (Bio Superphysics for plants) | Free Trade system, Confirmation Elections, Constitutional Virtues | List of techniques and modular components and their effects  
-Method | Redefines E = mc^2  into E = G<sub>l</sub>  as template for all movement in the physical and metaphysical universe | This opens up the principles of chi or vayu of Traditional Chinese Medicine (TCM), pitta kapha and rakta of Ayurveda, acidic-alkaline of Naturopathy, and like-cures-like of Homeopathy | Plot the social cycles of each society, apply the Four Laws of Value. Find common patterns in national constitutions | Systematize existing spiritual techniques according to Superphysics principles of 5 layers, 2 forces
+{{< dc t="Material Superphysics (click to expand)" >}}
+. | Primarily based on Cartesian-Spinoza Physics
+--- | --- 
+Basic Goal | Put Newtonian Physics under Cartesian Physics and conclusively solve remaining mysteries in Physics 
+Target Output |  Levitation, teleportation, antimatter/fusion, precision fabrication technologies
+{{< /dc >}}
+
+
+{{< dc t="Bio Superphysics (click to expand)" >}}
+_ | Aims to solve diseases and improve health for humans, animals, and plants
+--- | --- 
+Basic Goal | Put Alternative Medicine on a level with Western Medicine
+Target Output | Automated Natural Intelligence (ANI) for predicting health issues, Using sound for agriculture, Testing agriculture in seawater
+{{< /dc >}}
+
+{{< dc t="Supersociology (click to expand)" >}}
+_ | Aims to solve chronic problems in economy, politics, and society
+--- | --- 
+Basic Goal | Replace current Sociology with Socrates-Ibn Khaldun
+Target Output | Confirmation Elections, Constitutional Virtues, World Constitution, National Constitution Template for a unified political system, Automated Natural Intelligence (ANI) for predicting social cycles 
+{{< /dc >}}
+
+{{< dc t="Supereconomics (click to expand)" >}}
+_ | Aims to solve chronic problems in economy, politics, and society
+--- | --- 
+Basic Goal | Replace Neoclassical Economics with Socrates-Smith Economics
+Target Output | Moneyless Economy, Pool Clearing (free trade system), Replace GDP with NDP, Automated Natural Intelligence (ANI) for coordinating an economy in real-time
+{{< /dc >}}
+
+{{< dc t="Spiritual Superphysics (click to expand)" >}}
+_ | Systematize philosophy, religion, and spirituality
+--- | --- 
+Goal | Help everyone find their spiritual path or their true goal in life (dharma) 
+Target Output | Classify major belief systems under Omnitheism and suggest them to people based on their personality type
+{{< /dc >}}
+
+
+<!-- Method | Redefines E = mc^2  into E = G<sub>l</sub>  as template for all movement in the physical and metaphysical universe | This opens up the principles of chi or vayu of Traditional Chinese Medicine (TCM), pitta kapha and rakta of Ayurveda, acidic-alkaline of Naturopathy, and like-cures-like of Homeopathy | Plot the social cycles of each society, apply the Four Laws of Value. Find common patterns in national constitutions | Systematize existing spiritual techniques according to Superphysics principles of 5 layers, 2 forces
 Source | Patterned after *A Treatise of Human Nature Book 1* | Patterned after Book 2 | Patterned after Book 3 | Asian philosophy and traditions
-Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare. Thus turns the physicist into a superphysicist  | This is divided into Human, Animal, and Plant. Thus turns the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist and a sociologist and lawmaker into a supersociologist and superlawmaker. | 
+Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare. Thus turns the physicist into a superphysicist  | This is divided into Human, Animal, and Plant. Thus turns the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist and a sociologist and lawmaker into a supersociologist and superlawmaker. |  -->
 
 
 {{< img src="/graphics/physics/layers.jpg" alt="The 5 Elements" cap="Fundamental to Superphysics is the Classical 5 Elements which we rename as aethereal, spatial, radiant, convertible, and material. It is based on the mysterious, invisible-but-everywhere Aether (the spooky Actor from a distance). It avoids being stuck with oh-so-obvious-but-limited Matter" >}}
@@ -95,16 +128,19 @@ Feel free to contact us via email at pantrypoints@gmail.com .
 
 Core Team | 
 --- | ---
-[Juan](https://www.linkedin.com/in/jundalisay/) | Founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "Line of Intuition" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. 
+[Juan](https://www.linkedin.com/in/jundalisay/) | Founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "[Line of Intuition](/research/benham/palmistry/part-2/chapter-14b-intuition)" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. 
 [Lam](https://www.linkedin.com/in/baolamnguyen/) | Joined Juan in 2017 to build Pantrypoints. Like Juan, she has a "Line of Intuition" and "Solomon Ring". She is still trying to get samadhi.
  <!-- Pantrypoints then , likes to read and write about the works from the Enlightenment -->
 <!-- She writes about economics, business, and history -->
 
+
 Rest of the Team | 
 --- | ---
 Jose | An alternative medicine practitioner since the 2000s, focusing on homeopathy and naturopathy, though he has tried doing Chinese medicine. He has gotten samadhi a few times in India. 
-Jing | Vice-President of an agriculture association. He is keen on using Bio Superphysics for agriculture  
+Jing | Vice-President of an agriculture association. He is a Catholic and does not care about samadhi. However, he is very keen on using Bio Superphysics for agriculture  
+Ehmil | Geologist. He is an Evangelical and also doesn't care about samadhi. But he is interested in Cartesian Physics for geological applications such as earthquake detection.
 Adrian | Mobile and Python developer. He has helped debug the Pantrypoints mobile apps.  
+
 
 <!-- Jing likes to write about agriculture, data science, and the earth sciences -->
 <!-- Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   

@@ -8,8 +8,6 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 # date: 2022-09-20
-aliases:
-  /research/smith/astronomy/newton2
 ---
 
 

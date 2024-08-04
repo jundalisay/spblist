@@ -1,13 +1,13 @@
 ---
 title: "Descartes' System of Astronomy"
 heading: Part 9
-description: "Descartes was the first who tried to ascertain precisely this invisible chain that Kepler said to link the planets to the sun."
+description: "Descartes was the first to ascertain precisely this invisible chain that Kepler said to link the planets to the sun."
 image: /covers/astronomy.jpg
 # date: 2022-09-24
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-weight: 20
+weight: 19
 aliases:
   /research/smith/astronomy/descartes
 ---
@@ -28,16 +28,16 @@ The real inertness of matter was in a power:
 
 All of space was full of aether. This aether and space were the same. Consequently, there was no void. 
 
-{{< img src="/graphics/physics/aetherspace.jpg" cap="Our updated version of Descartes' space map" >}}
+{{< img src="/graphics/physics/fig_2-w.jpg" cap="Our updated version of Descartes' space map" >}}
 
 
 This immense aether was divided into an infinite number of very small cubes which whirled around on their own centers to create two different elements:
 
-> 1. The angular parts
+1. The angular parts
 
 These were rubbed off and grinded yet smaller by their mutual friction. This was the most subtile and moveable part of the aether
 
-> 2. The little globules 
+2. The little globules 
 
 These were formed by the rubbing off of the first. The gaps between these globules was filled up by the angular parts.
 
@@ -52,7 +52,7 @@ A certain amount of motion was originally impressed by the Creator and the laws 
 
 Whatever motion was lost by one part of the aether was communicated to some other*. Whatever was acquired by one part of the aether, was derived from some other. 
 
-> *Superphysics note: This is now the law of conservation of energy
+{{< n n="This is now the law of conservation of energy" >}}
 
 
 Thus, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the whole was always the same.
