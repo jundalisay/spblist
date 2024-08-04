@@ -21,8 +21,12 @@ icon: "/icons/descartes.png"
  
 When these virtual photons flow through individual magnets in exactly the same way as through the Earth, two spherical magnets must turn towards one another in no other way than towards the entire Earth. 
 
+This is because these virtual photons are always gathered in much greater quantity around each magnet than in the remote air. This is because they have passages in the magnet through which they flow much more easily than through the surrounding air.
 
-This is because these virtual photons are always gathered in much greater quantity around each magnet than in the remote air: because, in fact, they have passages in the magnet, through which they flow much more easily than through the surrounding air, by which they are therefore retained near the magnet; so also, because of the passages they have in the interior of the Earth, their quantity is greater in the whole air and other bodies surrounding the Earth, than in the sky. 
+This retains them near the magnet.
+
+Their quantity is greater in the whole air and other bodies surrounding the Earth than in nearby outer space because of the passages they have in the Earth's interior. 
+ <!-- the sky.  -->
 
 As far as the magnetic force is concerned, exactly the same things must be thought of one magnet in relation to another magnet, as of the Earth, which itself can be called the greatest magnet.
 
@@ -61,7 +65,6 @@ The poles of two magnets, such as South and South or North and North, repel each
 
 The virtual photons coming from the pole of one magnet that faces the other cannot enter the other magnet, and require some space between the two magnets to pass through, in order to return to the pole of the magnet from which they emerged. 
 
-
 {{< img src="/graphics/physics/magnetrepel.jpg" >}}
 
 Those coming out of Magnet `1` through the pole `S` cannot enter into Magnet `2` through its pole `s`. They need some space between `S` and `s`, through which to pass towards `V` and `X`. This force moves them from `N` to `S`, repelling Magnet `2`.
@@ -85,4 +88,3 @@ This is because no matter how the boat turns, there always needs to be some spac
 Thus, if the magnet O is placed on a small boat floating on water, so that its axis always remains perpendicular, and the magnet P, whose southern pole is opposite the southern pole of the other, is moved by hand towards Y, it will result that the magnet O will recede towards Z before it is touched by the magnet P. 
 
 Whichever way the boat turns, there is always a certain space required between these two magnets, so that the virtual photons coming out from their poles `AT` can pass towards `V` and `X`. -->
-

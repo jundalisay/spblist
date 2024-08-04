@@ -1,7 +1,7 @@
 ---
 title: "The Philosophy of Democritus"
-heading: Articles 202
-weight: 48
+heading: Articles 202-206
+weight: 60
 description: "The philosophy of Democritus is not less different from ours than from the common"
 writer:
   name: Rene Descartes

@@ -107,21 +107,6 @@ Then they gather into small masses.
 
 <!-- These minute parts, I call "Striated Particles" [Electrons] -->
 
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
 The middle of 3 air-aether globules touching each other create narrow triangular spaces. These striated particles must take on a triangular shape in their width and height when they pass through these. 
 
 Their length is not easy to determine because it only depends on the abundance of matter in them. 

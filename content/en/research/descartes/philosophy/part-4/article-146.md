@@ -1,8 +1,8 @@
 ---
-title: "How the striated particles flow through the paths of the Earth"
+title: "How the virtual photons flow through the Earth"
 heading: Article 146-149
 weight: 42
-description: "Enumeration of properties of magnetic properties"
+description: "The virtual photons coming from the southern part of the sky `E` are twisted in a completely different way than those coming from the north `F`"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -11,6 +11,7 @@ icon: "/icons/descartes.png"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-06
 ---
+
 
 
 {{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
@@ -86,22 +87,9 @@ These poles do not align with the parts of the Earth where the virtual photons c
 
 The virtual photons that enter obliquely into the passages of the magnet exert a force on the magnet to maintain their straight-line motion until they bring the magnet back to its natural position. 
 
-
-
 Thus, whenever it is not held by any external force, it causes the South Pole of the magnet to turn towards the North Pole of the Earth, and the North Pole of the magnet to turn towards the South Pole of the Earth. 
 
 This is because those particles that tend from the North Pole of the Earth through the air towards the South came first from the southern part of the sky through the middle of the Earth, and those that return from the North to the North Pole of the Earth come from the northern part.
-
-
-
-
-<!-- Why did these poles turn to the poles of the Earth?
-
-When these magnetic poles do not respect those parts of the Earth from which those striated particles come, to which they can provide free passage, then these striated particles, rushing obliquely into the paths of the magnet, push it to where it is, to continue in its motion according to straight lines, until they have brought it back to its natural position.
-
-Whenever it is restrained by any external force, they cause its South Pole to be turned towards the Boreal Pole of the Earth, and the Boreal towards the South Pole.
-
-Since those which tend from the Boreal Pole of the Earth through the air to the South from the southern part of the sky through the middle of the Earth, and coming from the Borealis which return to Borea. -->
 
 
 

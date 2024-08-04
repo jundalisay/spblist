@@ -20,11 +20,13 @@ icon: "/icons/descartes.png"
 
 How can flame be ignited in these cavities? What is the nature of fire?
 
-**Terrestrial particles, regardless of their size or shape, individually follow the motion of the fire-aether**. 
+<!-- Terrestrial particles -->
+
+**The earth-aether, regardless of their size or shape, individually follow the motion of the fire-aether**. 
 
 Thus, they take on the form of fire, just as they take on the form of air when floating among the air-aether globules, imitating their movement.
 
-Therefore, the primary and principal difference between air and fire is that the particles of the fire-aether are much more rapidly agitated than those of air-aether.
+Therefore, the primary and principal difference between air and fire is that **the fire-aether particles are much more rapidly agitated than those of air-aether**.
 
 The motion of the fire-aether is much faster than that of the air-aether.
 
@@ -34,44 +36,58 @@ The denser particles of the earth-aether, such as those constituting the vapors 
 
 The denser particles, unless continuously agitated by heat, naturally fall downward by their own weight and spontaneously shed the form of air. 
 
-However, fire cannot exist without somewhat denser terrestrial particles, from which it is nourished and renewed.
+However, fire cannot exist without somewhat denser earth-aether particles, from which it is nourished and renewed.
+<!-- terrestrial -->
 
 
 #### 81. How Fire is First Ignited
 
-The globules of the air-aether:
+The air-aether globules:
 - occupy all the spaces around the Earth large enough to contain them.
 - mutually rest on each other in such a way that they cannot move independently unless in a circular motion around their own axis
 
 This is even though the fire-aether fills all the small spaces left by these globules and moves very rapidly within them. 
 
-The air-aether cannot generate enough force in those places to carry away the terrestrial particles, which are all supported by each other and the globules of the air-aether.
+The air-aether cannot generate enough force in those places to carry away the earth-aether particles, which are all supported by:
+- each other and
+- the air-aether globules.
 
-Therefore, the globules of the air-aether cannot generate fire.
+This is why the air-aether globules cannot generate fire.
 
-To generate fire, the air-aether globules must be expelled from the intervals between some terrestrial particles. 
+To generate fire, **the air-aether globules must be expelled from the intervals between some earth-aether particles.** 
 
-Once separated and floating freely in the fire-aether, these terrestrial particles are swiftly carried away in its motion and propelled in various directions.
+Once separated and floating freely in the fire-aether, these earth-aether particles are swiftly carried away in its motion and propelled in various directions.
 
 
 #### 82. How is Fire Sustained?
 
-To sustain this fire, the terrestrial particles must be dense, solid, and apt for motion. 
+To sustain this fire, the earth-aether particles must be dense, solid, and apt for motion. 
 
 <!-- celestial  -->
 
-This way, when driven by the fire-aether, which propels them, they have the force to repel the air-aether globules from the place where the fire is, and to which they are ready to return. 
+This way, when propelled by the fire-aether, they have the force to keep on repelling the air-aether globules from where the fire is.
 
-This action prevents these globules from occupying the intervals left by the fire-aether initially, thereby breaking its force and extinguishing the fire.
+<!-- , and
+- where they will  to which they are ready to return.  -->
+
+If they stopped repelling the air-aether globules from returning to the space occupied by the fire, then those globules will break the force of the fire-aether and extinguish the fire.
+
+<!-- This action prevents these globules from occupying the gaps left by the fire-aether initially, thereby  -->
+
 
 
 #### 83. Why Does Fire Need Nourishment?
 
-When these terrestrial particles strike the globules, they cannot be prevented by them from moving further and leaving that place, where the fire-aether primarily exerts its force, resulting in the loss of the form of fire and turning into smoke. 
+When these earth-aether particles strike the air-aether globules, they leave their space and turn into smoke.
 
-Therefore, no fire would last there unless, at the same time, some of these terrestrial particles, by striking a somewhat denser body, separated some solid particles from it. 
+This is because by leaving their space, they lose the force of the fire-aether. 
 
-These particles, succeeding the former and carried away by the fire-aether, continuously generate new fire.
+<!-- cannot be prevented by them from moving further and leaving that place, where the fire-aether primarily exerts its force, resulting in the loss of the form of fire and . -->
+
+To sustain a fire, some of these earth-aether particles must strike a denser body to separate away some more earth-aether particles from it. 
+- These new particles would then succeed the former [which will turn to smoke].
+- They will be carried away by the fire-aether, continuously generating new fire.
+
 
 
 #### 84. How Is Fire Sparked from Flint?

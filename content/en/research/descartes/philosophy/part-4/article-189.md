@@ -2,7 +2,7 @@
 title: "The Types of Human Senses"
 heading: Article 189
 weight: 56
-description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+description: "The principal seat of the soul is in the brain, where alone it understands, imagines, and perceives"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -50,11 +50,12 @@ We have not, however, as many different senses as there are nerves. We can disti
 - 2 are internal senses
 - 5 are the external senses
 
-The nerves which extend to the stomach, the oesophagus, the fauces, and the other internal parts that are subservient to our natural wants, constitute one of our internal senses. 
 
-This is called the natural appetite (APPETITUS NATURALIS). 
+One of our internal senses is the natural appetite. These are made up of the nerves which extend to the stomach, the oesophagus, the fauces, and the other internal parts that are subservient to our natural wants.
 
-The other internal sense, which embraces all the emotions (COMMOTIONES) of the mind or passions, and affections, as joy, sadness, love, hate, and the like, depends on the nerves which extend to the heart and the parts about the heart. These are exceedingly small. 
+The other internal sense embraces all the passions and affections, or emotions of the mind. Examples are joy, sadness, love, hate, and the like.
+
+This depends on the nerves which extend to the heart and the parts about the heart. These are exceedingly small. 
 
 For example, when the blood happens to be pure and well tempered, it dilates in the heart more readily and strongly than usual.
 - This enlarges and moves the small nerves scattered around the orifices.
@@ -66,9 +67,11 @@ Thus, the imagination of the enjoyment of a good does not contain in itself the 
 
 Thus, dilating the orifices of the heart, it also causes these small nerves to move in the way appointed by nature to afford the sensation of joy. 
 
-Thus, when we receive news, the mind first of all judges of it, and if the news be good, it rejoices with that intellectual joy (GAUDIUM INTELLECTUALE) which is independent of any emotion (COMMOTIO) of the body, and which the Stoics did not deny to their wise man [although they supposed him exempt from all passion]. 
+Thus, when we receive news, the mind first of all judges of it. If the news be good, it rejoices with that intellectual joy which is independent of any emotion of the body.
 
-But as soon as this joy passes from the understanding to the imagination, the spirits flow from the brain to the muscles that are about the heart, and there excite the motion of the small nerves, by means of which another motion is caused in the brain, which affects the mind with the sensation of animal joy (LAETITIA ANIMALIS). 
+The Stoics allowed their wise man to have such intellectual joy [although they supposed him exempt from all passion].
+
+But as soon as this joy passes from the understanding to the imagination, the spirits flow from the brain to the muscles that are around the heart. There they excite the motion of the small nerves. This causes another motion  in the brain which affects the mind with the sensation of animal joy. 
 
 On the same principle, when the blood is so thick that it flows but sparingly into the ventricles of the heart, and is not there sufficiently dilated, it excites in the same nerves a motion quite different from the preceding, which, communicated to the brain, gives to the mind the sensation of sadness, although the mind itself is perhaps ignorant of the cause of its sadness. 
 
