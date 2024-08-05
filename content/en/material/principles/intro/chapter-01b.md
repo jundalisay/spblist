@@ -12,11 +12,11 @@ icon: /icons/pantry.png
 ---
 
 
-{{< b >}}
+{{< dc t="Principles (click to expand)">}}
 Principles | Assertions
 --- | ---
 There are 5 Layers in Reality | Layer 0 is the Probability Layer
-{{< /b >}}
+{{< /dc >}}
 
 
 
@@ -29,7 +29,9 @@ Every time the physicist reasons by induction, he consciously requires the calcu
 
 The Probability Layer is above and covers the aethereal layer. This means it is above existence  and is only theoretical.  We can also call this pre-existence that binds existence.
 
-This layer is static and is driven by the desire of either the Creator or the createe. 
+This layer is static and is driven by the desire of either the Creator or the createe / creation.
+
+Currently, this is covered by Quantum Mechanics, specifically the Heisenberg Uncertainty Principle and Schrodinger Equation.   
 
 <!-- > *This leads to the [Socratic Theory of Forms](/research/socrates/phaedo/chapter-8), which leads to Essences -->
 
@@ -41,6 +43,5 @@ Intelligent beings might have laws of their own making. But they also have some 
 When describing movement, Rene Descartes uses the word 'tend to'. This is because movement is inherently probabilistic. This is why Cartesian Physics has Quantum Mechanics built in.  
 
 This is different from Newton or Einstein who formulated their laws of movement emhasizing total predictability. 
-
 
  

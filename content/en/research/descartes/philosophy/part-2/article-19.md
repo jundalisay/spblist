@@ -12,7 +12,8 @@ icon: "/icons/descartes.png"
 
 
 
-#### 19. This confirms what was said of Rarefaction.
+#### 19. This confirms what was said of Decompression.
+ <!-- Rarefaction -->
 
 The nature of corporeal substance consists only in its being an extended [metaphysical] thing.
 
@@ -27,15 +28,22 @@ A vessel filled with gold has the same amount of matter when it is empty and fil
 <!-- There cannot be more matter in a vessel when it is filled with lead or gold, or any other body however heavy and hard, than when it but contains air and is supposed to be empty. -->
 
 This is because the quantity of particles that a body is composed of does not depend on their weight or hardness.
-
-**It only depends on the body's extension, which is always equal in the same vase.**
+- **It only depends on the body's metaphysical space, which is always equal in the same vase.**
+<!-- extension -->
 
 
 #### 20. From this, the non-existence of indivisible atoms may be demonstrated
 
-This means that there cannot exist any atoms or matter particles that are of their own nature indivisible. 
+This means that there are no such thing as indivisible atoms or indivisible matter particles. 
 
-This is because those particles are necessarily extended. This allows us to divide them into smaller parts in our thought.
+ <!-- cannot exist any atoms or matter particles that are of their own nature .  -->
+
+ <!-- necessarily extended -->
+**This is because those particles are have metaphysical space.** 
+
+**This allows us to divide them into smaller parts in our thought.** *
+
+{{< n n="The object exists only in our thought" >}}
 
 <!-- , and may accordingly admit their divisibility.  -->
 
@@ -53,18 +61,25 @@ We suppose that God had reduced any particle of matter to extreme smallness that
 
 
 
-#### 21. The extension of the world is indefinite
+#### 21. The metaphysical space of the world is indefinite
+<!-- extension -->
 
-This world or the whole (universitas) of corporeal substance, is extended without limit.
+This world or the universe of corporeal substance, is extended without limit.
+<!-- whole (universitas) -->
 
 Wherever we fix a limit, we still not only imagine beyond it spaces indefinitely extended, but perceive these to be truly imaginable, in other words, to be in reality such as we imagine them. 
 
-In this way, they contain in them corporeal substance indefinitely extended. This is because  the idea of extension which we conceive in any space whatever is plainly identical with the idea of corporeal substance.
+In this way, they contain in them corporeal substance indefinitely extended. 
 
+This is because the idea of metaphysical space which we conceive in any physical space is plainly identical with the idea of corporeal idea [substance].
+
+<!-- This is because the idea of extension which we conceive in any space whatever is plainly identical with the idea of corporeal substance. -->
 
 <!-- ### 22. It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds. -->
 
-#### 22. It also follows that the aethereal susbtance of space and matter is the same, and that there cannot be a a plurality of worlds.
+#### 22. It also follows that the aethereal susbtance of space and matter is the same, and that there cannot be a  plurality of worlds*
+
+{{< n n="The 'worlds' here would mean causes. It means a single phenomenon has a single root cause and not many" >}}
 
 The earth and heavens are made of the same substance.
 <!-- matter  -->
@@ -72,17 +87,12 @@ The earth and heavens are made of the same substance.
 Although there were an infinity of worlds*, they would all be composed of this substance.
 <!-- matter -->
 
-{{< n n="The 'worlds' here would mean material galaxies" >}}
 
-
-It follows that a plurality of worlds, or many universes, is impossible. 
-
+It follows that a plurality of worlds, or many [causal] universes, is impossible. 
 
 This is because matter already totally occupies all the imaginable spaces where these other worlds could be.
 
- matter (whose nature consists only in its being an extended substance) 
-
-
+ <!-- matter (whose nature consists only in its being an extended substance)  -->
 
 We cannot find in ourselves the idea of any other matter.
 

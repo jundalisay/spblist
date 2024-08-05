@@ -13,11 +13,11 @@ toc: false
 ---
 
 
-
+{{< dc t="Principles" >}}
 Principles | Assertions
 --- | ---
 The Law of Conservation of Idea in Physical Reality  | This manifests as Gravitational Signatures
-
+{{< /dc >}}
 
 
 The Law of Conservation of Idea of Superphysics states that everything in reality is an idea of the Supreme. 

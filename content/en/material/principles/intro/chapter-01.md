@@ -12,10 +12,12 @@ icon: /icons/pantry.png
 ---
 
 
-
+{{< dc t="Principles (click to expand)">}}
 Principles | Assertions
 --- | ---
 There are 5 Layers in Reality | Each Layer has a sound
+{{< /dc >}}
+
 
 {{< youtube QzftMDjhV6M >}}
 

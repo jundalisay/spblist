@@ -12,12 +12,12 @@ icon: /icons/spmat.png
 ---
 
 
-
+{{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
 The Law of Conservation of Idea | This manifests as Gravitational Signatures
 . | Gravitational Signatures lead to Gravitational Territories whenever the Spacetime Layer is considered
-
+{{< /dc >}}
 
 The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of the identity. In Physics, this is known as 'gravitational fields'.
 

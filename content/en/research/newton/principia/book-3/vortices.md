@@ -40,7 +40,9 @@ The same thing happens in outer space* where:
 - there is no air to resist their motions
 - all bodies, planets, and comets will constantly pursue their revolutions in orbits according to the laws above
 
-> *Superphysics Note: Here, Newton confuses the invisible air-aether with physical air. Tine and solid gold fall at the same speed in a vacuum because there is a single vortex of the Earth that draws in the air-aether to the center in a straight line.
+
+{{< n n="Here, Newton confuses the invisible air-aether with physical air. Tine and solid gold fall at the same speed in a vacuum because there is a single vortex of the Earth that draws in the air-aether to the center in a straight line." >}}
+
 
 
 <!-- though these bodies may, indeed, persevere in their orbits by the mere laws

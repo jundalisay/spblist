@@ -12,11 +12,11 @@ icon: /icons/spmat.png
 ---
 
 
-
+{{< dc t="Principles" >}}
 Principles | Assertions
 --- | ---
 There are 5 Layers in Reality | The MSQ Classification makes it easier to classify things within the 5 Layers 
-
+{{< /dc >}}
 
 
 Modern Physics was created from the lowest Material layer (Strong Force), working its way upwards to the Convertible (Weak Force) and then to the Radiant (Electromagnetic).
@@ -26,41 +26,28 @@ In contrast, Superphysics is created from the top Aethereal layer working downwa
 Instead of the messy classification of Fermions, Bosons, Hadrons, Baryons, Mesons, Leptons, etc., we use base the name on the Layer that the particle or force operates from. 
 
 Everything in the universe is either a Medium or a Substance.
-- Medium is where force works through.
-- Substance is the discrete identity that reacts to the force.
-- Quantum is the smallest perceivable unit of Substance. It contains the gravitational signature. 
+- **Medium** is where force works through.
+- **Substance** is the discrete identity that reacts to the force.
+- **Quantum** is the smallest perceivable unit of Substance. It contains the gravitational signature. 
 
 
 All forces such as gravity, electromagnetism, contact forces are manifestations of the 2 Forces, which are aethereal in nature. 
-
-<!-- We use:
-- the word medium to denote the medium
-
-- the word quantum to denote substance -->
-
-<!-- , metaphysically as a desire and the actual idea that is desired. 
-- Instead of desire, we use **force**
-- Instead of substance, we use **quanta** -->
-
 
 {{< q a="Descartes" c="Meditations Simplified, Part 6">}}
 Sensory ideas must be produced by some substance other than me. This substance actually has all the reality that is represented in the ideas that it produces. This substance is either a body, or it is God.
 {{< /q >}}
 
-<br>
 
 {{< q a="Descartes" c="Meditations Simplified, Part 3">}}
 I think of myself as a thing that thinks and is not extended. I also think of the stone as a thing that is extended and does not think. The two conceptions differ enormously. But they seem to have the classification ‘substance’ in common. 
 {{< /q >}}
-
-
 
 These media, substance, and quanta are then applied to the 5 Layers.
 
 {{< img src="/graphics/physics/msq.jpg" alt="Superphysics 5 Layer Model" cap="The Superphysics MSQ Model (left) uses a simpler naming convention for particles" >}}
 
 
-## Media
+<!-- ## Media
 
 Layer | Superphysics Medium | Common Name | Physics 'Boson' Name
 --- | --- | --- | ---
@@ -91,7 +78,7 @@ Spatial | qost (Quantum of Spacetime) | Graviton
 Radiant | qor (Quantum of Radiance) | Electron
 Convertible | qot (Quantum of Conversion) | Neutrino 
 Material | qom (Quantum of Matter) | Quark
-
+ -->
 
 <!-- The differences between the Physics model and the Superphysics one are:
 - Neutrons and Protons are an essential substance or quanta even if it is not a fundamental particle in Physics
@@ -105,8 +92,10 @@ Physics Name | Superphysics Name
 --- | ---
 Fermions | Non Media
 Bosons | Media 
-Baryon-Hadron | Matter (3 quarks)
-Meson-Hadron | Matter (quark-antiquark)
+Baryon-Hadron | Convertible-Material
+Meson-Hadron | Material (quark-antiquark)
 Leptons | Radiant-Convertible
+
+<!-- Matter (3 quarks) -->
 
 Each Layer will be discussed in its own Part. 

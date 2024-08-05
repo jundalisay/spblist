@@ -99,19 +99,13 @@ Smith's [Digression on Silver](/research/smith/wealth-of-nations/book-1/chapter-
 It pointed to a series of crises from 2019 to 2030, which we call The Great Stagflation, where prices will go haywire. Our goal is to implement Smith's alternative economic system during those crisis years to take advantage of the flaws of systems based on matter and money.
  <!-- as "The Overhaul" because current systems will break down during those times. -->
 
-
-{{< me d="April 2021" >}}
-The crisis years came via Covid. It turned out that the medical system was the first one to break down. This led us to create [Pantry Health](https://pantrypoints.com/trisactions/health) as an implementation of Bio Superphysics as a solution. Our model predicts that the financial system will be the next one to crash at year X, which led us to create the [Points Banking](https://pantrypoints.com/trisactions/banking). Economic and international law systems will be stressed much later.
-{{< /me >}}
-
-
-{{< me d="July 2022" >}}
-The invasion by Russia on Ukraine proves the failure of international law, while the failure of Sri Lanka, and soon Pakistan, proves the failure of economic systems.
-{{< /me >}}
-
-{{< me d="October 2023" >}}
-The Israel-Hamas war also proves the failure of international law much more obviously i.e. the powerful really can act arbitrarily.  
-{{< /me >}}
+{{< dc t="Updates (click to expand)" >}}
+_ | _
+--- | --- 
+April 2021 | The crisis years came via Covid. It turned out that the medical system was the first one to break down. This led us to create [Pantry Health](https://pantrypoints.com/trisactions/health) as an implementation of Bio Superphysics as a solution. Our model predicts that the financial system will be the next one to crash at year X, which led us to create the [Points Banking](https://pantrypoints.com/trisactions/banking). Economic and international law systems will be stressed much later.
+July 2022 | The invasion by Russia on Ukraine proves the failure of international law, while the failure of Sri Lanka, and soon Pakistan, proves the failure of economic systems.
+October 2023 | The Israel-Hamas war also proves the failure of international law much more obviously i.e. the powerful really can act arbitrarily.
+{{< /dc >}}
 
 
 <!-- This will be the pattern unless people drop Neoclassical Economics (selfish-interest, marginal utility, profit maximization, equity investments, and liquidity preference) and national interest, and switch to Classical Economics (common interest, life purpose, dharma, social lending, and goal preference). -->
@@ -121,11 +115,9 @@ We are looking for:
 - publishers interested in our books, and 
 - companies and angels that would like to support a points-based economic system that will preserve their own businesses and capital during such a prolonged crisis. 
 
-Feel free to contact us via email at pantrypoints@gmail.com .
-
  <!-- superphysicsorg@gmail.com.  -->
 
-
+{{< dc t="Team (click to expand)" >}}
 Core Team | 
 --- | ---
 [Juan](https://www.linkedin.com/in/jundalisay/) | Founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "[Line of Intuition](/research/benham/palmistry/part-2/chapter-14b-intuition)" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. 
@@ -133,15 +125,31 @@ Core Team |
  <!-- Pantrypoints then , likes to read and write about the works from the Enlightenment -->
 <!-- She writes about economics, business, and history -->
 
-
 Rest of the Team | 
 --- | ---
 Jose | An alternative medicine practitioner since the 2000s, focusing on homeopathy and naturopathy, though he has tried doing Chinese medicine. He has gotten samadhi a few times in India. 
 Jing | Vice-President of an agriculture association. He is a Catholic and does not care about samadhi. However, he is very keen on using Bio Superphysics for agriculture  
 Ehmil | Geologist. He is an Evangelical and also doesn't care about samadhi. But he is interested in Cartesian Physics for geological applications such as earthquake detection.
 Adrian | Mobile and Python developer. He has helped debug the Pantrypoints mobile apps.  
+{{< /dc >}}
+
+
+Feel free to contact us via email at pantrypoints@gmail.com
 
 
 <!-- Jing likes to write about agriculture, data science, and the earth sciences -->
 <!-- Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   
 Brad | Brad contributes science articles occasionally -->
+
+
+<!-- . | Past Team
+--- | ---
+2015 | Buu, Trang
+2016 | Loan, Ha Linh, Phuong, Mike, Huong, Linh, Hue
+2017 | EZGamio -->
+
+<!-- Jing likes to write about agriculture, data science, and the earth sciences -->
+<!-- Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   
+Brad | Brad contributes science articles occasionally -->
+
+
