@@ -28,7 +28,7 @@ When the pure aether began to be divided, its division began in one part and spr
 {{< /q >}}
 
 
-> *Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas. Moreover, identities have territories or personal space, i.e. We say 'this is mine'.
+{{< n n="*Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas. Moreover, identities have territories or personal space, i.e. We say 'this is mine'." >}}
 
 
 Each territory has parts or zones, each with different properties:
@@ -43,7 +43,11 @@ Edge    | has highest energy levels
 {{< img alt="Gravitational Territories" src="/graphics/physics/territories.jpg" cap="" >}}
 
 These 4 zones match the:
-- 4 Energy Levels or Electron Shells of Electrons
+- 4 groups of Electron Shells of Electrons
+  - 1s-2s
+  - 2p-4s
+  - 3d-6s
+  - 4f-7p 
 - 4 orbits of solar systems 
   - Goldilocks zone
   - Large Planet zone

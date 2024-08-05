@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 3b"
-title: "The Law of Relativity"
+heading: "Chapter 9b"
+title: "The History of Relativity"
 # date: 2020-01-31
-image: "/photos/idea.jpg"
-description: "A Quantum of Aether or Qoa is the seed or starting point for a universe in the multiverse in the Matrix of Existence"
+image: "/covers/einstein.jpg"
+description: "Relativity has its roots with the Luminiferous Aether idea of Augustin Fresnel who presented his wave theory in 1816"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,10 +12,17 @@ icon: /icons/spmat.png
 ---
 
 
-The History of the Aether Idea
-In 1816, Augustin Fresnel presented his wave theory which eventually became the luminiferous aether hypothesis.
+### The History of the Aether Idea
 
-He got the aether idea from Huygens who got it from Descartes who got it from Timaeus/Socrates who then got it from the Egyptians.
+Relativity has its roots with the Luminiferous Aether idea of Augustin Fresnel who presented his wave theory in 1816.
+
+<!-- ,  which eventually became the luminiferous aether hypothesis. -->
+
+He got the aether idea from Huygens who got it from Descartes which was actually a totally different idea. 
+
+Huygen's aether is more similar to the 2nd Element of Descartes, and not the spatial aether (which is the aetherspace in Superphysics). 
+
+ <!-- who got it from Timaeus/Socrates who then got it from the Egyptians. -->
 
 Fresnel believed that within space, there was an invisible elastic aether that propelled light and gave it wave properties. This was also eventually adopted by Maxwell.
 
@@ -33,25 +40,32 @@ Poincare's Law of Relativity is based on a body's current state compared to its 
 
 This is consistent with Descartes' Rule 1 of state-change (since the Cartesian aether is arbitrary), and with Quantum Mechanics that came later with Bohr.
 
-Einstein Messes Up Physics
+
+### Einstein Messes Up Physics
+
 For some reason, Einstein comes out of nowhere in 1905 to hack Poincare's Law of Relativity.
 
-Minimize image
-Edit image
-Delete image
+He enshrines the constancy of the speed of light and uses it as a measure of both space and time, disregarding Newton. This is wildly different from Poincare who allowed different times such as Mental time.
 
 
-He enshrines the constancy of the speed of light and uses it as a measure of both space and time, disregarding Newton. This is wildly different from Poincare who allowed different times: Newtonian time, Electromagnetic time, and Mental time.
+<!-- - Newtonian time
+- Electromagnetic time
+-  -->
 
 This flexibility of time is why Poincare wrote:
 
-"We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion." (The Measure of Time)
+{{< q a="Poincare" c="The Measure of Time" >}}
+We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion.
+{{< /q >}}
 
-But Einstein duped everyone and locked space and time to light anyway. This led to E=mc2 where m is really electromagnetic potential in active particles and not Newtonian mass in static inertial ones.
+
+But Einstein duped everyone and locked space and time to light anyway. This led to `E=mc^2` where `m` is really electromagnetic potential in active particles and not Newtonian mass in static inertial ones.
 
 This is why it works for uranium, but not for iron. This led to nuclear fission at the expense of nuclear fusion which requires anti-gravity which is impossible under Einstein, but possible under Poincare.
 
-Poincare's Law of Relativity Matches Quantum Mechanics and James Webb Space Telescope
+
+## Poincare's Law of Relativity Matches Quantum Mechanics and James Webb Space Telescope
+
 In Cartesian Physics, the speed of light varies in every star system dictated by that star's vortex.
 
 Light is 300,000 km/s because that is how the sun wants it.

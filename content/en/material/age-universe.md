@@ -1,7 +1,7 @@
 ---
 title: "The Age of the Universe"
 date: 2023-01-08
-image: /photos/physics/galaxy.jpg
+image: /graphics/physics/age.jpg
 description: "The age of the Universe depends on which layer you are in, as the effect of the confinement of the Negative Force"
 writer:
   name: Juan
@@ -75,7 +75,6 @@ The red shift is a property of spacetime, and not of light. It happens only at t
 
 There are no gravitational waves in the CMB because such waves are a product of black holes which are allied with light, and not microwaves. The latter is allied with time, and so the CMB is a better basis of the age of the universe than redshift. 
 
-{{< img src="/graphics/physics/msq.jpg" alt="MSQ" cap="" >}}
 
 <!-- The instantaneousness of information and teleportation is the principle behind our proposal for a Solar Eye -- a crystal supercomputer that orbits the Earth and constantly looks at the sun (star detector) relative to a target star to teleport to. The Solar Eye acts as a lighthouse helping spacecraft teleport correctly to their target destination in spacetime. 
 
@@ -151,27 +150,32 @@ In cosmology, the materialist mindset leads to the flawed Big Bang Theory.  -->
 
 
 
-## The Proper Theory: Aethereal Vortices
+## The Proper Theory: Spacetime Waves in the Aetherspace
 
-We bring back the superiority of Spacetime over Electromagnetism and Matter through the Aether which is the highest in the 5-layer universe. 
+We bring back the superiority of Spacetime over Electromagnetism and Matter through the Aether as the aetherspace. 
 
-{{< img src="/graphics/physics/layers.jpg" cap="Superphysics has the aether as the highest layer or element, based on the neatly-ordered and intuitive Hindu Pancabhutas and Taoist Wu-xing framework. Materialist Physics has matter as the highest layer or element, as an effect of fully embracing the illusion created  by Nature" >}}
+Instead of a material big bang, the universe began as an [aethereal idea of the Supreme Mind](/material/principles/part-1/chapter-02/) which Hindu science calls *Saguna Brahma*.
 
-> 
+So the Supreme had an idea for a physical univere and so deployed it in the aetherspace. This resulted in a universe with spacetime. 
 
+{{< img src="/graphics/physics/age.jpg" alt="Age of the Universe" cap="" >}}
 
-Instead of a material big bang, the universe began as [aethereal ideas of the Supreme Mind](/material/principles/part-1/chapter-02/) which Hindu science calls *Saguna Brahma*.
+In the illustration above, each slice is a spacetime within the aetherspace. 
 
-These ideas flow down (as explained by Taoist science) as Thoughts onto the Spacetime layer, manifesting as vortices, as explained by Descartes. We can expose Newton's misunderstanding of the vortices theory in another post. 
+If you go back to the physical beginning of this universe, then you will merely experience a different version of this universe. 
+
+This is because our universe is made known to use through waves of light in space.  If we try to chase the start of the universe, by chasing the red shift, we will find ourselves with new waves of light that will point to a new Big Bang. Rather our Big Bang would seem to "move back". This is seen nowadays as astronomers adding more age to our universe.
+
+<!-- , manifesting as vortices, as explained by Descartes. We can expose Newton's misunderstanding of the vortices theory in another post. 
 - Clockwise vortices convert matter and objects into energy and ideas. In cosmology, this manifests as quasars.
 - Counter-Clockwise vortices convert energy and ideas into matter and objects. This manifests as galaxies.
 
 
 Instead of a Big Bang, the entire universe already pre-exists as a bunch of probabilities through the Probability Layer that become instantly real depending on the mind that perceives it.
 - This bunch of probabilities make up the multiverse when they are in effect (have a perceiver ready). 
-- They remain as unreal existences whenever a perceiver is unavailable.   
+- They remain as unreal existences whenever a perceiver is unavailable.    -->
 
-It means that **the universe has no single starting point other than the mind that is perceiving that universe**. 
+This means that **the universe has no single starting point other than the mind that is perceiving that universe**. 
 
 - If the James Web Telescope teleported to another galaxy, it would see the same even distribution of galaxies. It would then recompute the age of the universe based on the perspective of that galaxy and find that the age is different. This would prove Descartes correct that the age and size of the universe is indefinite. 
 - If it positioned itself at the edge of the known universe and tried to teleport beyond the edge, it would merely go to another nearly-exact universe and not go into a Void

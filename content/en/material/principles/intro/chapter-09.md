@@ -1,15 +1,29 @@
 ---
-heading: "Chapter 5"
-title: "Elastic Relational Bands and Consonance"
+heading: "Chapter 9"
+title: "Cartesian Relativity"
 # date: 2022-01-03
 image: /graphics/physics/urel.png
-description: "We replace Einstein's Relativity with Universal Elastic Relational Bands as a template for all the movements, whether physical or metaphysical"
+description: "We replace Einstein's Relativity with Poincare's Law of Relativity as an implementation of Cartesian Relativity"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 38
 icon: /icons/spmat.png
 ---
+
+
+
+{{< youtube klka8xfvMDY >}}
+
+
+We use Poincare's Law of Relativity as an implementation of Cartesian Relativity:
+
+<!-- q a="Poincare" c="Law of Relativity" -->
+
+> The **state of bodies**, **their mutual distances**, and **the velocities with which those distances are changing** at that moment, will depend only on the state of those bodies, on their mutual distances and on the velocities with which those distances were changing at the initial moment.
+
+
+This is based on 2 spacetimes that are glued together by a relation created by the observing mind.  
 
 
 The differences between gravitational signatures create movement between identities as either:

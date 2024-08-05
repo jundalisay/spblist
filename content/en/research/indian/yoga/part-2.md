@@ -48,7 +48,8 @@ weight: 6
 
  <!-- is eternal, the impure for the pure, evil for good and non-self as self. -->
 
-> *Superphysics note: Examples are intoxicants and attachments that seem to make us happy but are actually causing suffering
+
+{{< n n="Examples are intoxicants and attachments that seem to make us happy but are actually causing suffering" >}}
 
 
 <!-- Lacking this wisdom, one mistakes that which is impermanent, impure, distressing, or empty of self
@@ -193,7 +194,8 @@ own owner power acquisition of own forms in yoga -->
 5. Isvara Pranidhana (Surrender to Supreme)
 
 
-> *Superphysics Note: These 5 are for the 5 Layers: Shaoca is for Matter, Santosa is for Convertible, Tapah is for Radiance, Svadhyaya is for Spacetime, Isvara Pranidhana is for Aether, 
+{{< n n="These 5 are for the 5 Layers: Shaoca is for Matter, Santosa is for Convertible, Tapah is for Radiance, Svadhyaya is for Spacetime, Isvara Pranidhana is for Aether" >}}
+ 
 
 <!-- 2.28 On the destruction of impurity by the sustained practice of the limbs of Union, the light of knowledge reveals the faculty of discrimination. -->
 
@@ -294,5 +296,3 @@ own owner power acquisition of own forms in yoga -->
 2.54 When the mind maintains awareness, yet does not mingle with the senses, nor the senses with sense impressions, then self-awareness blossoms.
 
 2.55 In this way comes mastery over the senses. -->
-
-

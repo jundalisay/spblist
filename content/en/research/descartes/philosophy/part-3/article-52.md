@@ -69,7 +69,7 @@ I consider all the vortices whose centers are `F`, `f` together as only one terr
 
 Initially, the matter of the fire-aether gradually increased* because the air-aether particles wore each other down through constant motion. 
 
-> *Superphysics Note: This is the start of the cosmic microwave background radiation as heat. Note that there is still no light at this point even if the fire-aether exists.  
+{{< n n="This is the start of the cosmic microwave background radiation as heat. Note that there is still no light at this point even if the fire-aether exists." >}}
 
 
 {{< img src="/graphics/physics/creation.jpg" alt="Formation of stars" >}}
@@ -81,7 +81,7 @@ After the air-aether particles were more worn down, they occupied less space tha
 They left spherical spaces there to be filled by the fire-aether flowing in from all the surrounding areas.
 
 There, it formed certain very fluid spherical bodies:
-- the Sun at the center S
+- the Sun at the center `S`
 - the fixed stars at the other centers. 
 
 
