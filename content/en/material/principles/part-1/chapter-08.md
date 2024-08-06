@@ -6,6 +6,7 @@ weight: 20
 image: /graphics/gravrelm.png
 description: "The Quantum of Aether is divided into 3 groups"
 icon: /icons/spmat.png
+draft: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

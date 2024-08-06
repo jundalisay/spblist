@@ -50,6 +50,9 @@ This makes the electron move down but not before gaining a new sor. It then emit
 This creates 2 spectral lines while the electron jumps up and down as a response to the magnetic field. 
 
 
+So Cartesian Relativity in the aetherspace between the electron and the nucleon is the cause of the Zeeman effect, not Special Relativity in spacetime.
+
+
 
 <!-- Instead of the Relativity of speeds and reference frames, Bohr's mechanism is state-change and angular momentum by the aether. 
 

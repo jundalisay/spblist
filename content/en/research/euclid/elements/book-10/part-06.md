@@ -12,7 +12,7 @@ image: /covers/elements.jpg
 
 ## Proposition 18
 
-If there are two unequal straight-lines, and a (rect- angle) equal to the fourth part of the (square) on the lesser, falling short by a square figure, is applied to the greater, and divides it into (parts which are) incom- mensurable [in length], then the square on the greater will be larger than the (square on the) lesser by the (square) on (some straight-line) incommensurable (in length) with the greater.
+If there are two unequal straight-lines, and a (rectangle) equal to the fourth part of the (square) on the lesser, falling short by a square figure, is applied to the greater, and divides it into (parts which are) incom- mensurable [in length], then the square on the greater will be larger than the (square on the) lesser by the (square) on (some straight-line) incommensurable (in length) with the greater.
 
 If the square on the greater is larger than the (square on the) lesser by the (square) on (some straight-line) incommensurable (in) length) with the greater, and a (rectangle) equal to the fourth (part) of the (square) on the lesser, falling short by a square figure, is applied to the greater, then it divides it into (parts which are) incommensurable [in length].
 
@@ -24,6 +24,7 @@ D
 C
 For, similarly, by the same construction as before, we can show that the square on BC is greater than the (square on) A by the (square) on FD. [Therefore] it must be shown that BC is incommensurable in length with DF. For since BD is incommensurable in length with DC, BC is thus also incommensurable in length with CD [Prop. 10.16]. But, DC is commensurable (in length) with the sum of BF and DC [Prop. 10.6]. And, thus, BC is incommensurable (in length) with the sum of BF and DC [Prop. 10.13]. Hence, BC is also incommen- surable in length with the remainder FD [Prop. 10.16]. And the square on BC is greater than the (square on) A by the (square) on FD. Thus, the square on BC is greater than the (square on) A by the (square) on (some straight-line) incommensurable (in length) with (BC).
 So, again, let the square on BC be greater than the (square on) A by the (square) on (some straight-line) in- commensurable (in length) with (BC). And let a (rect- angle) equal to the fourth [part] of the (square) on A, falling short by a square figure, have been applied to BC. And let it be the (rectangle contained) by BD and DC. It must be shown that BD is incommensurable in length with DC.
+
 For, similarly, by the same construction, we can show that the square on BC is greater than the (square) on A by the (square) on FD. But, the square on BC is greater than the (square) on A by the (square) on (some straight-line) incommensurable (in length) with (BC). Thus, BC is incommensurable in length with FD. Hence, BC is also incommensurable (in length) with the re- maining sum of BF and DC [Prop. 10.16]. But, the sum of BF and DC is commensurable in length with DC [Prop. 10.6]. Thus, BC is also incommensurable in length with DC (Prop. 10.13]. Hence, via separa- tion, BD is also incommensurable in length with DC [Prop. 10.16].
 Thus, if there are two... straight-lines, and so on....
 - DC, and ẞ = A) then a and a-ase incommensurable when
@@ -59,7 +60,9 @@ For let the square AD have been described on AB. AD is thus rational [Def. 10.4]
 ### Lemma
 
 If there are two straight-lines then as the first is to the second, so the (square) on the first (is) to the (rectangle contained) by the two straight-lines.
+
 Let FE and EG be two straight-lines. I say that as FE is to EG, so the (square) on FE (is) to the (rectangle contained) by FE and EG.
+
 For let the square DF have been described on FE. And let GD have been completed. Therefore, since as FE is to EG, so FD (is) to DG [Prop. 6.1], and FD is the (square) on FE, and DG the (rectangle contained) by DE and EG-that is to say, the (rectangle contained) by FE and EG-thus as FE is to EG, so the (square) on FE (is) to the (rectangle contained) by FE and EG. And also, similarly, as the (rectangle contained) by GE and EF is to the (square on) EF-that is to say, as GD (is) to FD-so GE (is) to EF. (Which is) the very thing it was required to show.
 
 

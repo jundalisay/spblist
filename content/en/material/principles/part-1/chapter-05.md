@@ -2,8 +2,9 @@
 heading: "Chapter 5"
 title: "The Quantum of Aether"
 # date: 2023-12-10
+date: 2014-08-01
 weight: 20
-image: /graphics/gravrelm.png
+image: /photos/idea.jpg
 description: "The Quantum of Aether is divided into 3 groups"
 icon: /icons/spmat.png
 writer:

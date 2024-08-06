@@ -60,6 +60,31 @@ Our shapes system gives a clue that the culprit is in the neutrinos. This is bec
 
 ### How it Works
 
+
+The Euclidean Postulates can be suummed up in a few words:
+
+1. Point to Point
+
+We interpret this as the aether particle.
+
+2. Infinite Line
+
+We interpret this as the finite aetherspace that can extend indefintely.
+
+3. Circle
+
+We interpret this as the "round" action of photons which are shaped as circle in a line.
+
+4. Right Angles
+
+We interpret this as the left and right handed spin of the Weak Interaction
+
+5. Meeting at a Point
+
+We interpret this as the triangle created by gluon flux tubes. 
+
+
+
 Each quantum particle is made up aether particles which can either be:
 - round
 - flat
