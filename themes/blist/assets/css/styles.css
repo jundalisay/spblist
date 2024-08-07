@@ -75,6 +75,8 @@
 
 .Bacon, .Francis-Bacon {background-image: url(/icons/bacon.png) !important;}
 
+.Banker {background-image: url(/icons/banker.png);}
+
 .Bashar {background-image: url(/avatars/bashar.jpg);}
 
 .Buddha, .buddha {background-image: url(/avatars/buddha.jpg) !important;}
@@ -152,7 +154,7 @@
 
 .Muslim {background-image: url(/icons/arab4.png) !important;}
 
-.Bhadrapala, .Musa {background-image: url(/avatars/musa.png);}
+.Bhadrapala, .Musa, .Abu-Bakr {background-image: url(/avatars/musa.png);}
 
 
 .Pythagoras {background-image: url(/icons/py.png);}
@@ -273,7 +275,7 @@
   background-image: url(/icons/moses.png);
 }
 
-.Mary, .Wife, .Woman, .Oracle, .Saradamani, .Brahmani {background-image: url(/icons/veil.png);}
+.Aishah, .Mary, .Wife, .Woman, .Oracle, .Saradamani, .Brahmani {background-image: url(/icons/veil.png);}
 
 .Tesla {background-image: url(/avatars/tesla.png);}
 

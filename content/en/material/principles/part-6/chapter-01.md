@@ -54,11 +54,11 @@ Our idea is to use spacetime particles for fabrication since they, by nature, tr
 {{< img src="/graphics/physics/droplet.jpg" alt="Crystal Computers" >}}
 
 
-## Water Element / ConvertibleLayer
+## Water Element / Convertible Layer
 
 ### Nuclear Fusion
 
-Currently, prototype fusion reactors use magentic confinement which uses more electricity than the reactor generates. Our idea is to use anti-gravity to levitate and confine the plasma.   
+Currently, prototype fusion reactors use magnetic confinement which uses more electricity than the reactor generates. Our idea is to use anti-gravity to levitate and confine the plasma.   
 
 {{< img src="/graphics/physics/reactor.jpg" alt="Descartes' Fusion Reactor" >}}
 
@@ -112,7 +112,7 @@ In order to shallowly levitate, prelevitation can be increased.
 
 However, in order to seriously levitate at great speeds, the object must be enclosed in an aetherspace so that it will be isolated from the external spacetime. In other words, the object gains the quantum properties of a  proton when inside its own aetherspace.
 
-Evidence of this being possible is from the Bob Lazar UFO of the Grays which had a heart-shaped aetherspace. However, they used active levitation through the 3 gravity-wave emitters at the bottom of the ship. 
+Evidence of this being possible is from the Bob Lazar UFO of the Grays which had a heart-shaped aetherspace which he calls Gravity-A Wave which is phase-shifted to normal spacetime or Gravity-B Wave. This phase-shifting is done through active levitation through the 3 gravity-wave emitters at the bottom of the ship.
 
 A more advanced version is passive levitation inside an aetherspace. This is reportedly done by the Essassani civilization which is more advanced than the Grays. 
 

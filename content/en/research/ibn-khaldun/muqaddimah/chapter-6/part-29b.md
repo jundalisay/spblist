@@ -1,151 +1,130 @@
 ---
-title: "How does the stone that makes alchemy work?"
+title: "The Alchemy of Ibn Bishrun"
 description: "Some philosophers have thought such a stone is found in animals, plants, minerals, or in everything"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 29b"
-weight: 92
+weight: 91
 ---
 
 
+I shall pass on here an epistle on alchemy written by Abu Bakr b. Bishrun <!-- 969 --> to Ibn as-Samh. Both were pupils of Maslamah. <!-- If considered as carefully as it deserves to be, the --> 
+ <!-- 970 -->
+<!-- My discussion of Ibn Bishrn will show my attitude toward alchemy.  -->
 
-Some philosophers have thought such a stone is found in animals, plants, minerals, or in everything. 
+<!-- After some introductory (remarks) in the epistle, which have nothing to do with the subject,  -->
 
-<!-- We do not have to examine these claims and enter into a dispute concerning them with the people who make them, because that would be a very long discussion. I have already stated 984 that  -->
+Ibn Bishrun wrote: 
 
-The (alchemical) operation might potentially, be performed with anything, because the elements exist in every thing.
+{{< b >}}
+The premises of this noble craft were mentioned by the ancients -- the generation of minerals, the creation of rocks and precious stones, and the different natures of regions and localities. The students of this science must first know 3 things:
+1. whether it exists
+2. what brings it into being
+3. how it comes into being.
 
-We want to know what produces the (alchemical) operation (both) potentially and actually. Therefore, we turn to the statement of al-Harrani 985 that 986all dyeing consists of two kinds. 
+<!-- If the student of alchemy knows these three things well, he achieves his object and knows as much as can be known about this science. -->
 
-One may use a substance such as saffron, which is used to dye a white garment. The (saffron) eventually changes in it,
-vanishing and being decomposed. The second kind of dyeing is transformation of the substance of one thing into the substance and color of something else. Thus trees, for instance, transform the soil into themselves, and animals the plants, so that
-eventually the soil becomes plants, and the plants animals. 
+I have sent you elixir as proof for the forces of alchemy. Alchemy is the search for the stone that makes the alchemical operation possible.
 
-This can come about only with the help of the living spirit and the active nature (kiyan) which has the ability to generate substances and change essences.
+Potentially, the operation may be performed with anything. This is because the potentiality comes from the 4 Elements.
 
-It follows that the alchemical operation must be either in animals or in plants. Proof of this is that both animals and plants need food by their very nature, in order to subsist and to materialize.
+<!--  It originated from their composition at the beginning and will revert to them at the
+end.  -->
 
-Plants do not have the same fineness and power that animals have.
+However, there are things that might be used for the operation only potentially, not actually.
 
-Therefore, the sages rarely turned to them. Animals are the last and final stage of the three permutations. Minerals turn into plants, and plants into animals, but animals cannot turn into anything finer than themselves. They may, however, revert back to (greater) coarseness. 
+There are some things that can be decomposed and others that cannot. 
 
-Furthermore, animals are the only things in the world to which the living spirit attaches itself. Now, the spirit is the finest thing there is in the world. It attaches itself to animals only because it is similar to them. The spirit existing in
-plants is insignificant. It is coarse and thick. 
+Those that can be decomposed can be processed and treated. They are the things that can be transformed from potentiality into actuality. 
 
-In addition, it is submerged and hidden in plants, because it is coarse itself and because the substance of plants is coarse.
-(Plants,) thus, cannot move, because they themselves are coarse and because their
-spirit is coarse. The mobile spirit is much finer than the hidden one.
-The former accepts food. 
+On the other hand, the things that cannot be decomposed cannot be processed and treated. This is because they have nothing but potentiality in them. 
 
-It can be moved, and it can breathe. The latter can only accept food. As compared with the living spirit, it occupies no better position
-than that of earth as compared to water. This is how plants compare with animals.
-Therefore, it is much more advanced and much simpler to use animals for the
-(alchemical) operation. The intelligent person who knows this must try the (method)
-that is easy. He must not do what he fears might be difficult.
+They cannot be decomposed, in order to give some of the elements they contain an advantage over the others and to have the power of the bigger (elements) predominate over the lesser ones.
 
-The sages have divided living beings into 'mothers'- the elements - and 'young ones' - the generated beings. 
+"You - may God give you success - must therefore know the most suitable of the decomposable stones that can be used for the operation. 
 
-The sages thus divided the elements and the generated beings into living ones and dead ones. They assumed that anything that moves is active and living and that anything that is stationary is passive and dead. They made this division for all things, for the melt able substances and the mineral drugs. 
+You must know its genus, power, action, and which kind of dissolution or solidification, purification, calcification, absorption, or transformation it may be able to effect. 
 
-Anything that is melt able in fire and volatile and combustible, they called 'living.' Anything of the opposite qualities, they called 'dead.' The animals and plants that can be decomposed into the four elements, they called living. Those that cannot, they called dead.
+People who do not know these basic principles of alchemy will never be successful or achieve any good results. 
 
-Then, they searched all the living groups. Among the things that can be decomposed into four components obvious to the eye, they did not find anything suitable for alchemy. The only (suitable) thing they found was 'the stone' which is in animals. 
+You must know whether:
+- the stone can be aided by something else or is sufficient by itself
+- it is one thing by itself at the beginning or is associated with something else and becomes one thing by itself during the treatment, and is therefore called 'stone.' 
 
-They studied its genus. Eventually, they came to know it. They took it and treated it. As a result, they obtained the desired qualities from it. 
+You must also know:
+- how it works
+- how much its components must weigh 
+- what times are suitable for it
+- how the spirit is inserted and the soul made to enter into it
+- whether fire can separate the soul from the stone after it has been inserted in it
+  - if not, why (not), and what makes it necessary that it be that way. 
 
-Similar qualities may be obtained in minerals and plants, after (various mineral or vegetable) drugs are combined, mixed, and then separated again. There are plants, such as saltwort, 987 that can be decomposed into certain of the (four) components. 
+All philosophers have praised the soul and thought that it is the soul that governs, sustains, and defends the body and is active in it.
 
-Minerals contain substances, spirits, and breaths which, when they are mixed and treated, produce something that may exercise an influence. We have tried all that out.
+When the soul leaves the body, the body dies and gets cold. It cannot move or defend itself, because there is no life in it and no light.
 
-Animals are much more advanced. Their treatment is much simpler. Thus, one must know what is the stone that exists in animals, and how it can be found."We have made it clear that animals are the highest of generated things. In
-the same sense, whatever is composed from them (animals) is finer than (plants), 988 just as plants are finer than earth. Plants are finer than earth, because they are created from its 989 pure essence and fine substance. 
+<!-- 971 -->
+The body and the soul only because alchemy is similar to the body of man, which is built up by regular meals  and which persists and is perfected by the living, luminous soul.
 
-Therefore, they are necessarily fine and subtle. The animal stone is in the same position (among animals) as plants are in the soil. In general, there is nothing in living beings that can be decomposed into four elements except (that stone). This statement must be understood. 
+<!-- , which enables the body to do the great and mutually contradictory things that only the living power of the soul can do.  -->
 
-It can hardly remain concealed from anyone except an obviously stupid person who has no
-intelligence.
+Man suffers from the disharmony of his component elements. 
 
-I have thus informed you about the quiddity and genus of the stone. Now I am going to explain to you the different kinds of treatment. Thus, we shall give you your fair share (of information), as we have taken it upon ourselves to do, if God - praised be He - wills.
+If his elements were in complete harmony and thus not affected by accidents and inner contradictions,
+the soul would not be able to leave his body. Man would then live eternally. 
 
-"With God's blessing, here is the treatment= Take the noble stone. Deposit it in the cucurbit and alembic. Separate its four elements, which are water, air, earth, and fire. They are substance, spirit, soul, 990 and dyeing. When you have separated the water from the earth and the air from the fire, keep each one apart in its own vessel. 
+<!-- Praised be He who governs all things, He is exalted. -->
 
-Take the dregs - the sediment - at the bottom of the vessel. Wash it with hot fire, until the fire has removed its blackness, and its coarseness and toughness have disappeared. Blanch it carefully and evaporate the superfluities of the humidities concealed 991 in it. 
+The Elements producing the alchemical operation constitute a quality that pushes forward at the beginning. It is a process of emanation requiring an end.
 
-It will thus become white water, which contains no darkness, dirt, or disharmony. Then, turn to those primary elements that are distilled from it. Cleanse them, too, of blackness and disharmony. Wash them repeatedly and sublimate them, until they become fine, subtle, and pure. When you have done this, God has given you success.
+When they have reached this limit, they cannot be transformed back into the state that formed the starting point of their composition. <!-- 972 --> 
 
-"Then, start with the composition around which the operation centers. This is as follows. Composition comes about only through pairing (marriage) and putrefaction. Pairing (marriage) is the mixture of the fine with the coarse.
+The natures of the substance had been separate, but now they adhere to each other and have become one thing, similar to the soul in power and activity, and similar to the body in having composition and pulse. <!-- 973 --> 
 
-Putrefaction is purgation 992 and pulverization undertaken so that the various parts may mix, as water does, with each other and form one thing containing no confusion 993 or deficiency in itself. In this condition, the coarse (components) have the
-strength to hold the fine ones back; the spirit has the strength to oppose the fire and can tolerate it; and the soul has the strength to immerse itself and slip into the substances.
+There is a strange thing about the actions of the elements.
 
-This situation exists only after composition. When the soluble substance is paired with the spirit, it mingles with it in all its parts, and the parts interpenetrate, because they are similar to each, other. Thus, (the resulting mixture) becomes one
-thing. The fact that (the spirit) is mixed (with the body) makes it necessary for the spirit to be affected by well-being, corruption, duration [?], 994 and persistence, like the body. Likewise, when the soul mixes with (substance and spirit) and penetrates them through the services of the (alchemical) treatment, all the parts of the (soul) 995 mingle with all the parts of the two other (things), that is, spirit and substance. Thus, the (soul) and the two become one thing that contains no disagreement and is in the position of the universal particular whose elements are intact and whose parts are in harmony with each other.
+It is the weak Element that is powerful, since it has power over the decomposition, composition, and completion of things. This is how I use the words 'powerful' and 'weak.'
 
-When this compound meets the soluble substance, and fire is constantly applied to it, and the humidity in it is brought to the surface, it melts in the soluble substance. Humidity implies combustion and an attachment of the fire to itself. But
-when the fire wants to attach itself to it, its admixture of water prevents it from
-union with the soul, for fire does not unite with oil, until it is pure. Likewise, waterimplies aversion to fire. Thus, when fire is constantly applied to it and wants to evaporate it, the dry substance which is mixed with (the water) keeps it back inside and prevents it from evaporation. 
+Change and nonbeing in the first composition occur only as the result of disharmony among the component elements. 
 
-Thus, the substance is the cause of holding the water; the water is the cause of the duration of the oil; the oil is the cause of the persistence of the dyeing; and the dyeing is the cause of the appearance of color and
-the indication of oiliness in dark things that have no light and no life. 
+They do not occur in the second composition, because there then is harmony among the component elements.
 
-This is the right substance. The (alchemical) operation comes about in this way.
+An early philosopher-alchemist has said: 'Decomposition and division mean life and duration, as far as the alchemical operation is concerned, while composition means death and nonbeing.' 
 
-"The 'egg 996 about which you have inquired (is the thing) the sages call 'egg.' It is what they have in mind (when they speak about the 'egg'), and not the egg of the chicken. It should be known that the sages did not choose an inappropriate name by calling it 'egg.' 
+<!-- 974 -->
+This statement has 'a subtle meaning. The philosopher meant by 'life and duration' its transformation from nonexistence into existence.
 
-They called it 'egg,' because it can be compared to an egg. I asked Maslamah about it one day when I was alone with him. I said to him, 'O excellent sage, tell me, why did the sages call the animal compound "egg"? Was that something arbitrary on their part, or was there some reason that caused them to do so?' 
+As long as it remains in (the state of) its first composition, it is, no doubt, nonbeing. But when the second composition takes place, nonbeing no longer exists. 
 
-He replied, 'Indeed, there is deep meaning in it.' I said, 'O sage, what advantage (did they see) and what indication of a connection with alchemy did they find in comparing it with an egg and calling it "egg"? ' He said, 'Because the egg is similar
-to and related to the compound. Think it over, and the meaning of it will appear to you.' 
+The second composition comes about only after decomposition and division. 
 
-I remained with him, thinking it over, but I could not get at the meaning of it.
+<!-- 975 -->
+Thus, decomposition and division are peculiar to the (alchemical) operation. If it is applied to the soluble body (substance), it spreads in it, because it has no form, since it has come to take in the body the place of the soul which has no form. 
 
-When he saw that I was deep in thought and my soul immersed in it, he grasped my arm, nudged me slightly, and said to me, 'O Abu Bakr, it is because of the relationship that exists between the two with regard to the quantity of colors at the
-time of the mixture and composition of the elements.' When he said that, the darkness (that had enveloped my mind) left me. A light lit up my heart and gave my intellect the power to understand it. I stood up and went home, thanking God - He is exalted - for it. I constructed a geometrical figure to illustrate it. It proves the correctness of Maslamah's statement. I am writing it down for you in this book (epistle). 
+This is because it has no weight as far as (the substance) is concerned. 
 
-"For instance= when the compound is complete and perfect, the element of air in it is, to the element of air in the egg, in the same proportion as the element of fire in the former is to the element of fire in the latter. The same applies to the two other elements, earth and water. Now, I say= two things that in this manner are proportionate to each other are similar to each other. For example, assume that the plane of the egg is HZWH. 997 If we want that, we take the smallest element 998 of the compound, that of dryness, and add to it the same (amount) of the element of humidity. We treat the two, until the element of dryness absorbs the element of humidity and takes over its power. This discussion contains a certain secret hint which, however, will not remain concealed from you. Then we add to the two the same (amount as theirs) of the spirit, that is, water. 
+Mixing a fine thing with another fine thing is easier than mixing a coarse thing with another coarse thing. I have in mind here the similarity in form among spirits (on the one hand) and bodies (substances, on the
+other), for it is the form of things that causes their union. 
 
-Thus, the whole consists of six equal (parts). Then we treat the whole and add to it the same (amount) of the element of air, which is the soul. That is three parts. Thus, the whole consists of nine parts equal in power to dryness. Under each of two sides of this compound whose nature (element) encloses the plane of the compound, we then put two elements. 
+<!-- I mention this to you, so that you may know that the (alchemical) operation is more agreeable and simpler if it is undertaken with fine spiritual elements than if it is undertaken with coarse corporeal (substances). -->
 
-The first two sides that enclose the plane of the compound are assumed to be those of the elements of water and air. They are the two sides AJD. 999 The plane is ABJD. Correspondingly, the two sides that enclose the plane of the 'egg'( and) which
-represent water and air are two sides of the (plane) HZWH. 
+It is logical that stones are stronger in their resistance to fire than spirits. 
 
-The plane ABJD is similar to the plane HZWH <...> the element of air which is called 'soul.' 1000 
+Likewise, gold, iron, and copper offer more resistance to fire than sulphur, mercury, and other spirits.
 
-The same applies to (the side) BJ of the plane of the compound. The sages never called anything by the name of something (else), except when the first thing could be compared to the other.
+Therefore, The substances were spirits at the beginning.
 
-"Words for an explanation of which you have asked (me) are 'holy land'1001 it means the combination of the higher and the lower elements; 'copper,' which is the (substance) the blackness of which has been removed and which was cut in pieces until it became an atom, and was then colored red with copperas, until it came to be copper. 1002 
+When the heat of the natural process (kiyan) affects them, they are transformed by it into coarse, coherent substances. 
 
-'Maghnisiya' 1003 is the stone of the (alchemists) in which the spirits are frozen and which is brought forth by the higher nature in which the spirits are emprisoned, in order to fight the fire (and protect) them against it. 'Furfurah' (purple) is a perishable red color that is produced by nature (kiyan). 
+Fire is not able to consume them, because they are exceedingly coarse and coherent. When an exceedingly great amount of fire is applied to them, it turns them again into spirits, as they had been when they were first created. 
 
-'Lead' is a stone that has three powers of different individualities which, however, are similar to each other in form and genus. One of them is spiritual, luminous, and clear. It is the active power. The second is psychic. It moves and has sensual perception. 
+If fire then again affects the fine spirits, they flee and are not able to endure it. Thus, you must know what brought the substances to their particular condition and (what) brought the spirits to theirs. That is the most important knowledge you can have.
 
-However, it is coarser than the first power. Its center is below that of the first (power). The third power is an earthy power. It is solid and astringent. It turns back toward the center of the earth because of its gravity. It is the power that holds the spiritual and psychic powers together and encloses them.
-"All the remaining (words) are innovations created in order to confuse the
-ignorant. He who knows the (basic) premises can dispense with everything else.
+The spirits flee and are burned, because of their combustibility and fineness. They became combustible because of their great share of humidity. When fire notices humidity, it attaches itself to it, because humidity is airy 975a and thus similar to fire. 
 
-"That is all you have asked me about. I have explained it to you in this
-epistle. We hope with God's help that you will achieve your wish. Farewell."
-Here ends the discussion by Ibn Bishrun, one of the great pupils of
-Maslamah al-Majriti, the Spanish authority on alchemy, letter magic, and sorcery,
-for the third [ninth] century and later (times).
-One can see how all the expressions used by (alchemists) tend to be secret
-hints and puzzles,1004 scarcely to be explained or understood. This is proof of the
-fact that alchemy is not a natural craft.
+The fire does not stop eating it, until (the humidity) is consumed. The same applies to substances when, (noticing) the approach of fire, they flee,976 because they have little coherence and are coarse. 
 
-The truth with regard to alchemy, which is to be believed and which is supported by actual fact, is that alchemy is one of the ways in which the spiritual souls exercise an influence and are active in the world of nature. (It may) belong
-among the (miraculous) acts of divine grace, if the souls are good. 
+But they are not combustible, because they are composed of earth and water which offers resistance to fire, in that the fine (components of water) unite with its coarse (components) through a long (process of) cooking which softens and mixes things. For, anything that is annihilated through fire 977 is annihilated only because its fine (components) separate (under the influence of fire) from its coarse (components), and its parts merge with each other without dissolution and adaptation, 
 
-Or it may be a kind of sorcery, if the souls are bad and wicked. 1005 It is obvious that (alchemy
-may materialize) as a (miraculous) act of divine grace. It may be sorcery, because the sorcerer, as has been established in the proper place, may change the identity of matter by means of his magic power.1006 (People) think that a (sorcerer) must use
-some substance (in order) for his magical activity to take place. 
-
-Thus, certain animals may be created from the substance of earth, of hair, or of plants, or, in general, from substances other than their own. That, for instance, happened to the sorcerers of Pharaoh with their ropes and sticks. 1007 It also is reported, for instance, of the Negro and Indian sorcerers in the far south and of the Turks in the far north, that by sorcery they force the air to produce rain, and other things. 1008 
-
-Now, since alchemy is the creation of gold in a substance other than that of gold, it is a kind of sorcery. The famous sages who discussed the subject, men such as Jabir, Maslamah, and their non-Muslim predecessors, followed this line.
-
-Therefore, they used puzzling expressions. They wanted to protect alchemy from the disapproval that religious laws express for the various kinds of sorcery. It was not because they were reluctant to communicate it (to others), as was thought by people who did not investigate the matter thoroughly.
-
-One may compare the fact that Maslamah called his book on alchemy Rutbat al-hakim, while he called his book on sorcery and talismans Ghayat al-hakim. He wanted to intimate that the subject of the Ghayah is a general one, whereas the subject of the Rutbah is a restricted one, for ghayah "final goal" is a higher (stage inresearch) than rutbah "degree, rank." The problems of the Rutbah are in a way part of the problems of the Ghayah, or deal with the same subjects. (Maslamah's) discussion of the two disciplines clarifies what we have said. 
-
-<!-- Later on, we shall explain that those who assume that the achievements of alchemy are the result of a natural craft are wrong.1009
- -->
+Thus, the resulting combination and interpenetration is (mere) aggregation, not (real) mixture.
+{{< /b >}}

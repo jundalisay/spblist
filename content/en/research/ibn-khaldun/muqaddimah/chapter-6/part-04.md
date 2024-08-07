@@ -3,7 +3,7 @@ title: "The sciences of human beings and the sciences of angels"
 description: "Through sound intuition, we observe in ourselves the existence of three worlds"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 4"
+heading: "Parts 4-5"
 weight: 14
 writer:
   name: Ibn Khaldun
@@ -27,8 +27,9 @@ This knowledge is necessitated by the fact that we have in us scientific percept
 
 3. The world of spirits and angels
 
-This is above the second and is above us. **It is sensed through our hearts**, such as through our volition and an inclination
-toward active motions. It makes us know that there exists an agent there who directs us toward those things from a world above ours. 
+This is above the second and is above us. **It is sensed through our hearts**, such as through our volition and an inclination toward active motions.
+
+It makes us know that there exists an agent there who directs us toward those things from a world above ours. 
 
 It contains essences that can be perceived because of the existence of influences they exercise upon us, despite the gap between us and them. 
 
@@ -72,11 +73,20 @@ The removal of the veil to which we have referred is achieved only through train
 
 ## 5. The sciences (knowledge) of the prophets.
 
-The prophets are in a divine condition that is different from (ordinary) human ambitions and conditions. In prophets, the trend toward the divine is more powerful than their humanity, as far as the powers of perception, the powers of desire-that is, concupiscence and wrath - and the other conditions of the body are concerned. (Prophets) keep away from things human, except in as much as they are necessary for life. 
+The prophets are in a divine condition that is different from ordinary human ambitions and conditions. 
 
-They turn toward divine matters, such as worship and the remembrance (dhikr) of God, as their knowledge of Him requires. They give information about Him and (transmit) the revelation for the guidance of the nation (of believers) which they received in (their divine) condition. 
+In prophets, the trend toward the divine is more powerful than their humanity, as far as the powers of perception, the powers of desire-that is, concupiscence and wrath - and the other conditions of the body are concerned. 
 
-They do that according to one particular method and in a manner known to be peculiar to them. It undergoes no change in them and is like a natural disposition which God has given them. Revelation has already been discussed by us at the beginning of the book, in the chapter dealing with people who possess supernatural perception 27 We explained there that the whole of existence in (all) its simple and composite worlds is arranged in a natural order of ascent and descent, so that everything constitutes an uninterrupted continuum. 
+Prophets keep away from things human, except in as much as they are necessary for life. 
+
+They turn toward divine matters, such as worship and the remembrance (dhikr) of God, as their knowledge of Him requires. 
+
+They give information about Him and transmit the revelation for the guidance of the nation of believers which they received in their divine condition. 
+
+<!-- 2727 -->
+They do that according to one particular method and in a manner known to be peculiar to them. It undergoes no change in them and is like a natural disposition which God has given them. Revelation has already been discussed by us at the beginning of the book, in the chapter dealing with people who possess supernatural perception.
+
+We explained there that the whole of existence in (all) its simple and composite worlds is arranged in a natural order of ascent and descent, so that everything constitutes an uninterrupted continuum. 
 
 The essences at the end of each particular stage of the worlds are by nature prepared to be transformed into the essence adjacent to them, either above or below them. This is the case with the simple material elements; it is the case with palms and vines, (which constitute) the last stage of plants, in their relation to snails and shellfish, (which constitute) the (lowest) stage of animals. 
 
@@ -84,12 +94,23 @@ It is also the case with monkeys, creatures combining in themselves cleverness a
 
 Above the human world, there is a spiritual world. It is known to us by its influence upon us, in that it gives us the powers of perception and volition. The essences of that spiritual world are pure perception and absolute intellection. It is the world of the angels.
 
-It follows from all this that the human soul must be prepared to exchange humanity for angelicality, in order actually to become part of the angelic species at any time, in a single. instant. It will afterwards resume its humanity. But in the world of angelicality, it has meanwhile accepted (ideas) that it is charged to transmit to its fellow human beings. That is the meaning of revelation and being addressed by the angels.
+It follows from all this that the human soul must be prepared to exchange humanity for angelicality, in order actually to become part of the angelic species at any time, in a single. instant.
+
+It will afterwards resume its humanity. But in the world of angelicality, it has meanwhile accepted (ideas) that it is charged to transmit to its fellow human beings. That is the meaning of revelation and being addressed by the angels.
 
 All prophets possess this predisposition. It is like a natural disposition for them. In exchanging (their humanity for angelicality), they experience strain and sensations of choking, as is known in this connection.
 
-Their (supernatural) knowledge is one of direct observation and vision. No mistake or slip attaches itself to it, and it is not affected by errors or unfounded assumptions. The agreement in it is an essential one, because the veil of the supernatural is gone, and clear and direct observation has been attained. When (the prophets) quit that state and reassume their humanity, this clarity does not quit the knowledge they have, for it has become attached to it in the former condition.
+Their supernatural knowledge is one of direct observation and vision. No mistake or slip attaches itself to it, and it is not affected by errors or unfounded assumptions. 
 
-And because they possess the virtue that brings them to that condition, their (experience) constantly repeats itself, until their guidance of the nation (of believers), which was the purpose for which they were sent, is accomplished. Thus, it is said in the Qur'an= "I am merely a human being like you, to whom it has been revealed that your God is one God. Thus, be straightforward with Him and ask Him for forgiveness."
+The agreement in it is an essential one, because the veil of the supernatural is gone, and clear and direct observation has been attained.
 
-This should be understood. One should compare what we said earlier at the beginning of the book, about the different kinds of people possessing supernatural perception. It will constitute clear comment and explanation. There, we have explained the matter at sufficient length.
+When the prophets quit that state and reassume their humanity, this clarity does not quit the knowledge they have, for it has become attached to it in the former condition.
+
+They possess the virtue that brings them to that condition, their experience constantly repeats itself, until their guidance of the nation of believers, which was the purpose for which they were sent, is accomplished. 
+
+{{< q a="Mohammad" >}}
+I am merely a human being like you, to whom it has been revealed that your God is one God. Thus, be straightforward with Him and ask Him for forgiveness.
+{{< /q >}}
+
+
+<!-- This should be understood. One should compare what we said earlier at the beginning of the book, about the different kinds of people possessing supernatural perception. It will constitute clear comment and explanation. There, we have explained the matter at sufficient length. -->

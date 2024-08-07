@@ -25,34 +25,39 @@ Its motion differs entirely from its determination to move towards one side rath
 
 Therefore, their quantities must be examined separately. 
 
-Out of the two components that can be imagined for this determination, only the one that made the ball tends upwards and downwards can be altered by the encounter with the fabric. 
+Two force make up the movement of the ball:
+- The horizontal
+- The vertical 
 
-As for the component that made it tend towards the right hand, it must remain unchanged because the fabric does not oppose it in that direction. 
+Of these two, only the vertical force can be altered by the encounter with the fabric.
+
+<!-- Out of the two comp`onents that can be imagined for this determination, only the one that made the ball tends upwards and downwards   -->
+
+The vertical force remains unchanged because the fabric does not oppose it in that direction.
+
+<!-- As for the component that made it tend towards the right hand, it must  -->
 
 
+{{< img src="/graphics/physics/tennis.jpg" alt="Tennis Figure 5" >}}
 
+Circle `AFD` has its center at `B`. It has 3 straight lines `AC`, `HB`, `FE` perpendicular to `CBE`.
+- The distance between `AC` and `HB` is the same as that between `HB` and `FE`. 
 
-Having drawn the circle AFD with center B and drawn three straight lines AC, HB, FE perpendicular to CBE, in such a way that the distance between FE and HB is twice as much as between HB and AC, we will see that the ball must tend towards point I. 
+, in such a way that the distance between FE and HB is twice as much as between HB and AC, we will see that the ball must tend towards point I. 
 
 Since it loses half of its velocity while crossing the fabric CBE, it must take twice as much time to pass below from B to some point on the circumference of the circle AFD as it took to come from A to B above.
 
 
-
 Since it doesn't lose any of the determination it had to advance towards the right side, in twice the amount of time it took to pass from line AC to HB, it must cover twice the distance towards the same side and consequently reach some point on the straight line FE at the same moment it also reaches some point on the circumference of the circle AFD. 
 
-This would be impossible if it didn't go towards I, given that it is the only point below the fabric CBE where the circle AFD and the straight line FF intersect.
+This would be impossible if it did not go towards `I`, given that it is the only point below the fabric CBE where the circle AFD and the straight line FF intersect.
 
 <!-- And since it loses nothing of its determination to advance towards the right side, in twice as much time as it took to pass from the line AC to HB, it must cover twice as much distance towards the same side, and consequently reach some point on the line FE at the same instant that it reaches some point on the circumference of the circle AFD. This would be impossible if it did not go towards I, since it is the only point below the net CBE where the circle AFD and the line FF intersect. -->
-
-
-
 
 <!-- Let us now come to Refraction. And first let us suppose that a ball, driven from A towards B, meets at point B, no longer the surface of the earth, but a web CBE, which is so weak and thin that this ball has the strength to break it and pass right through, losing only a part of its velocity, namely, for example, half. Now this being supposed, in order to know what path it must follow, let us consider again that its movement differs entirely from its determination to move towards one side rather than the other, from which it follows that their quantity must be examined separately. -->
 
 <!-- Why the angle of reflection is equal to that of incidence.
 By how much the movement of a ball is deflected when it passes through a canvas. -->
-
-
 
 
 <!-- Let us also consider that, of the two parts that can be imagined to compose this determination, only the one that made the ball tend from top to bottom can be changed in some way by the encounter with the net; and that, for the one that made it tend towards the right hand, it must always remain the same as it was, because the net does not oppose it in that sense. Then, having described the center B of the circle AFD, and drawn perpendicular lines AC, HB, FE from B, so that there are twice as many distance between FE and HB as between HB and AC, we will see that the ball must tend towards the point I. For, since it loses half of its speed when crossing the net CBE, it must take twice as much time to pass below, from B to some point on the circumference of the circle AFD, as it took above to come from A to B.

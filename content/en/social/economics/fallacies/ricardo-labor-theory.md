@@ -190,16 +190,28 @@ From the above, we can see how the LTV of Smith and Ricardo are totally differen
 
 Ricardo’s labour theory is actually just wages based on a money price. It is an objective, numeric value.
 
-Smith’s is based on the toil and trouble saved. It is a subjective, immeasurable value. Smith uses food to measure it because food is used to live, and life or well-being cannot be quantified. This impossibility to quantify the unquantifiable leads to the ‘circular reasoning’ complaint by later economists.
+Smith’s is based on the toil and trouble saved. It is a subjective, immeasurable value. 
 
-Ricardo suffers from the shallow mistake of equating money to wealth, which was the commercial belief that The Wealth of Nations was trying to destroy. This belief continues to this day as the foundation of Modern Economics. In fact, ‘Economics’ is synonymous with ‘business’ and ‘commerce’ (i.e. the commercial system). Economics as a science that measures everything objectively. Since it is descended from the commercial system, it uses money as its measure.
+Smith uses food to objectify it because food is used to live, and life or well-being cannot be quantified.
 
-For example, both real and nominal GDP are measured in money (nominal value to Smith). It has no understanding (or even intention of understanding) Smith’s real valuation which is ultimately the toil and trouble saved from people and is measured in money or grains. Otherwise, there would have been no such things as ‘depressions’ or ‘crises’
+This impossibility to quantify the unquantifiable leads to the ‘circular reasoning’ complaint by later economists.
 
-In a nutshell, Ricardo says that wages are the foundation of economic value. This is overturned by later economists. By the marginal revolution, you will find that economists say instead that the selling price is the foundation, and the selling price and the demand price form an equilibrium. 
+Ricardo suffers from the shallow mistake of equating money to wealth, which was the commercial belief that The Wealth of Nations was trying to destroy.
+
+This belief continues to this day as the foundation of Modern Economics. In fact, ‘Economics’ is synonymous with ‘business’ and ‘commerce’ (i.e. the commercial system). Economics as a science that measures everything objectively. Since it is descended from the commercial system, it uses money as its measure.
+
+For example, both real and nominal GDP are measured in money (nominal value to Smith). 
+
+It has no understanding (or even intention of understanding) Smith’s real valuation which is ultimately the toil and trouble saved from people and is measured in money or grains. Otherwise, there would have been no such things as ‘depressions’ or ‘crises’
+
+In a nutshell, Ricardo says that wages are the foundation of economic value. This is overturned by later economists. 
+
+By the marginal revolution, you will find that economists say instead that the selling price is the foundation, and the selling price and the demand price form an equilibrium. 
 
 Smith called this the ‘balance of trade’ which is a sophistry because it causes sellers to fight demanders, eventually causing mercantile disputes such as the War of Jenkin’s ear, and is now causing Trump’s America to raise disputes with its ‘commercial’ rival China and build walls and tariffs like the past.
 
-Ricardo’s valuation favors workers, while current Economics favors the business owner (the person who sets the selling price). So we can say that Ricardo is still not capitalistic if we define capitalism as a system that favors the owners of capital a not the workers who use that capital to produce value.
+Ricardo’s valuation favors workers, while current Economics favors the business owner (the person who sets the selling price).
+
+So we can say that Ricardo is still not capitalistic if we define capitalism as a system that favors the owners of capital a not the workers who use that capital to produce value.
 
 The start of the Capitalist idea begins with Mill, which Marx tries to destroy with ‘Das Kapital’. But that’s another fallacy about profit maximization.

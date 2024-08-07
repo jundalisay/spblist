@@ -30,6 +30,20 @@ What's samadhi?
 It's the direct experience of the Supreme Entity. It gives oneself the proof that He exists even though Existence itself is already the obvious proof.  
 {{< /l >}}
 
+
+{{< r a="Asker" >}}
+Is samadhi different from moksha or mukti?
+{{< /r >}}
+
+{{< l a="Spiritual-Superphysics" >}}
+Samadhi is an experience. Moksha and mukti are states. 
+
+So samadhi is like a graduation ceremony. Moksha is like getting a masters degree, while mukti is getting a bachelor's degree. 
+
+You can get samadhi many times just as you can recreate your graduation ceremony. But the first one is usually the most striking. Mukti is the state of realizing the Supreme, while Moksha is the state of realizing the Absolute. 
+{{< /l >}}
+
+
 {{< r a="Muslim" >}}
 Is the Supreme Entity God?
 {{< /r >}}
@@ -114,6 +128,7 @@ What paths does Spiritual Superphysics promote?
 {{< l a="Spiritual-Superphysics" >}}
 To be promoted under Spiritual Superphysics, a belief-system should:
 - have scriptures or documents that has all the principles, beliefs, and techniques (i.e. those principles are timeless and not changing or arbitrary)
+  - part of those principles should include morals and diet, since every civilized human needs these.  
 - those principles should lead to samadhi as evidenced by consistent explanations of it
 - have some concepts about true nature (dharma), the Positive and Negative Forces, and/or the 5 Elements
 
@@ -127,6 +142,20 @@ So all those yogas like hatha, ashtanga, kriya, kundalini, Iyengar, etc are spir
 
 
 {{< l a="Spiritual-Superphysics" >}}
-Not all. But we promote yoga *asanas* in general, even from commercial yoga, just as science promotes healthy eating. 
+Not all. But we promote yoga *asanas* in general, even from commercial yoga, just as science promotes healthy eating. You can know which is good if you notice your health and emotions improving. 
+{{< /r >}}
+
+
+{{< r a="Banker" >}}
+I don't have time to look for Asian spiritual groups. Can you tell me in the fewest words the simplest way towards spirituality without being religious?
+{{< /r >}}
+
+
+{{< l a="Spiritual-Superphysics" >}}
+The most basic way is to catch your own mind while it thinks and feels. We usually have our minds on autopilot, driven by the Negative Force. So the first step is to take it out of autopilot and put it on manual control to observe it as it thinks and feels.
+
+You will find that the thoughts and feelings that it creates can be overriden. This is why humans can "think things over" and do not have to go with the first idea or option. 
+
+You can even prick yourself with a needle. Instead of being affected by the pain (which is what your body does to preserve itself), your lower mind can choose to ignore the bodily impulses. Once your lower mind has control of the bodily impulses, you can upgrade and let your higher mind control the lower mind. This is why spiritual systems often have rules on diet, fasting, morals, practices, etc.  
 {{< /r >}}
 

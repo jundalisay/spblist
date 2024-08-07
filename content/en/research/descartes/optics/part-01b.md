@@ -11,17 +11,45 @@ icon: "/icons/descartes.png"
 ---
 
 
+#### Actual Movement Versus the Inclination to Move
+
+<!-- Ainsi toutes -->
+It is necessary to distinguish between:
+- actual movement and
+- the inclination to move. 
+
+
+{{< img src="/graphics/physics/vat.jpg" alt="Light as grape juice. Electrons as crushed grapes" >}} 
+
+
+The inclination to move is expressed as the grape juice at `C` **tending** towards `B` and `A` without actually moving towards them.
+
+The actual movement is expressed as the grape juice at `C` **actually moving** towards `B` and `A` but are hindered by the grape clusters that are between them.
+
+<!-- et ainsi -->
+In the same way, we are concerned with the actual movement of luminous bodies more than their theoretical movement. This is why you must think of the rays of this light as mere lines along which this movement-action tends.
+
+It follows that there are an infinity of such rays that come from all points of the luminous bodies, towards all points which they shine on. 
+
+
+There is an infinity of straight lines, along with their actions, coming from surface `CDE` going towards `A` and `B` without hindering each other. 
+
+Thus, all the parts of the fire-aether that are touched by the side of the Sun facing us tend in a straight line towards our eyes when we open them. 
+
+
+
 ## 3. Light as a Ball (Particle)
 
 <!-- au reste -->
-Light rays must be imagined as always being straight when they pass through a single transparent body that is uniform throughout.
+Light rays are always straight when they pass through a single transparent body that is uniform throughout.
 
-However, when they encounter other bodies, they are deflected or weakened by them. This is similar to how a ball thrown into the air is affected by the objects it encounters. Those encountered bodies can be either soft, hard, or liquid.
+
+#### Reflection as Bouncing Off
+
+However, when they encounter other bodies, they are deflected or weakened by them. This is similar to how a ball thrown into the air is affected by the objects that it encounters. Those encountered bodies can be either soft, hard, or liquid.
 
 - If they are soft, they completely stop and absorb its motion. 
 - If they are hard, they reflect it in various ways without stopping it.
-
-
 
 <!-- For their surface is either entirely:
 - flat and uniform or
@@ -62,9 +90,10 @@ The balls `A, B, C` encounter the surfaces of the bodies `D, E, F` and are refle
 
 If these balls encounter an uneven surface, like `L` or `M`, they reflect towards diverse sides, each one according to the surface that it touches.
 
-
-
 When the inequality of its motion is only in them being bent in various ways, then they do not change that motion. 
+
+
+#### Refraction as Bending
 
 But the surfaces can also cause them to gain a circular motion in varous proportions. 
 
@@ -79,7 +108,7 @@ A curling ball that hits water changes its course after entering it.
 
 {{< img src="/graphics/physics/tennis.jpg" alt="Tennis" >}}
 
-For example, a ball that enters `B` from `A` will be divrted to `I`. 
+For example, a ball that enters `B` from `A` will be diverted to `I`. 
 
 <!-- if being in the air at point A, it is pushed towards B, it goes in a straight line from A to B, unless its weight or some other particular cause prevents it; but, being at point B where I suppose it encounters the surface of the water CBE, it diverts and takes its course towards I, going again in a straight line from B to I, as is easy to verify by experiment*. -->
 
@@ -93,15 +122,13 @@ For example, a ball that enters `B` from `A` will be divrted to `I`.
 <!-- without hindering one another, and even without being hindered by the  of  that are : whether  -->
 
 
-Black bodies are dampen the rays of light and take away all their force.
+Black bodies dampen the rays of light and take away all their force.
 
 Reflective bodies reflect light by having their whole surfaces polished.
 
 <!-- , can serve as mirrors both flat and curved, and the others confusedly towards several sides; *** and that again, among these,  -->
-
-Some reflect these rays without changing their action, leading to white light. 
-
-Some reflect these rays by adding a curled motion, leading to red, yellow, blue or some color of light. 
+- Some reflect these rays without changing their action, leading to white light. 
+- Some reflect these rays by adding a curled motion, leading to red, yellow, blue or some color of light. 
 
 Each of these colors has a nature. But that is beyond the scope of this work. 
 

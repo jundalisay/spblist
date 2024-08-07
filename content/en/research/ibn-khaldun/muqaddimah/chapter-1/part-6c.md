@@ -1,101 +1,83 @@
 ---
-title: "Prophecy"
-description: "This world with all the created things in it has a certain order and solid construction."
+title: "Three Kinds of Human Souls for Spiritual Perception"
+description: "As far as this (process) is concerned, human souls are of three kinds"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 6c"
-weight: 34
+weight: 32
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
-Thorough scholars believe the first (degree), the state of noise, is that of prophets who are not sent as messengers. 
+As far as this process of spiritual perception, human souls are of three kinds. 
 
-The second degree, the state when an angel appears in the form of a man who addresses the prophet, is that of prophets who are sent as messengers. 
+1. Those too weak by nature to arrive at spiritual perception.
 
-Therefore, it is more perfect than the first (degree). This is the meaning of the tradition in which the Prophet explained revelation, in reply to a question by alHarith b. Hisham. 281 Asked how the revelation came to him, Muhammad replied, "At times, it comes to me like the ringing of a bell. 
+It is satisfied to move downwards towards:
+- the perceptions of the senses and imagination 
+- the formation of ideas with the help of memory and thinking, according to limited rules and a special order. 
 
-This affects me most. When it leaves me, I have retained what was said. At other times, the angel appears to me in the form of a man. He talks to me, and I retain the things he says." The first (case) affected him more, being the first attempt to advance from potential to actual contact (with the supernatural).
+<!-- 275 -->
+In this manner, people acquire perceptive and apperceptive knowledge, which is the product of thinking in the body. 
 
-Thus, it was somewhat difficult. When the Prophet returned, in this case, to the level of human perceptions, all he retained was auditory (impressions). 
+All this is the result of the power of imagination and limited in extent, since from the way it starts it can reach the primary (intelligibilia) but cannot go beyond them. 
 
-All others were difficult. When the revelation was repeated and the messages became numerous, contact (with the supernatural) became easy. When the Prophet returned to the level of human perceptions, now all his senses-and especially the clearest sense, that of vision-conveyed (the revelation).
+<!-- 276 -->
+If they are corrupt, everything beyond them is also corrupt.  
 
-The use of the perfect tense "I have retained" in the first case, and of the present tense "I retain" in the second, is a meaningful stylistic distinction. In both cases, the words that were spoken (during the revelation) came in a disguise. 
+This, as a rule, is the extent of human corporeal perception. It is the goal of the perceptions of scholars. 
 
-In the first case, they appeared in the form of "noise," which, according to accepted usage, is something different from speech. 
-
-Muhammad indicated that understanding and comprehension followed immediately upon it after it had stopped. 
-
-He properly used the perfect tense, which is suitable (to signify) what has ended or stopped, in order to indicate comprehension at the moment he perceived that (the noise) had ended and stopped. 282 In the second case, the angel appeared in the form of a man who addressed the Prophet and spoke to him. 
-
-Comprehension (in this case) ran parallel with speech. Therefore, Muhammad properly used the present tense, which of necessity expresses renewed (repeated) activity.
-
-The state of revelation presents difficulties and pains throughout. This has been indicated in the Qur'an= 283 "We shall lay upon you a heavy message." 
-
-A'ishah said= "There was some anxiety in connection with the revelation, with which he had to struggle." She said: "The revelation would come to him on very cold days. Nevertheless, when it left him,there was sweat on his forehead." 
-
-This is the reason for his well-known remoteness (from sensual perception) and the choking (feeling) when in that condition, of which the Prophet used to speak. The reason, as we have established, is that revelation means leaving one's humanity, in order to attain angelic perceptions and to hear the speech of the soul. 284 This causes pain, since it means that an essence leaves its own essence and exchanges its own stage for the ultimate stage (of the angels). 
-
-This is the meaning of the choking feeling which Muhammad referred to in connection with the beginning of revelation in his statement= "And he (Gabriel) choked me until it became too much for me; then he released me. Then he said, 'Read,' and I replied, 'I cannot read.' 285 
-
-He did this a second and a third time, as the tradition tells.
-
-Gradual habituation to (the process of revelation) brings some relief, as compared to how it was before. It is for this reason that the earliest passages, surahs, and verses of the Qur'an, revealed to Muhammad in Mecca, are briefer than those revealed to him in Medina. 
-
-One may compare the tradition about how the ninth surah (Surat al-Bara'ah) was revealed, during the expedition to Tabuk. The whole of this (long surah), or most of it, was revealed to Muhammad while he was riding his camel. 286 
-
-Before this, when he was in Mecca, part of one of the shortest surahs in the latter part of the Qur'an 287 was revealed on one occasion, and the rest on another occasion. Also, one of the last revelations received in Medina was the "Verse of the Religion," 288 which is very long. 
-
-Before this, in Mecca, the verses revealed were short, like those of the surahs ar-Rahman, adh-Dhariyat, al-Muddaththir, ad-Duha, and al-`Alaq,289 and similar surahs. This may serve as criterion for distinguishing the Meccan surahs and verses from the Medinese.
+<!-- It is in it that scholars are firmly grounded. -->
 
 
-God leads to that which is correct. This is the quintessence of prophecy. Soothsaying (kahanah) is also one of the particular qualities of the human soul.
+2. Those that can move towards spiritual intellection through thinking
 
-The human soul is prepared to exchange its humanity for the spirituality that lies above humanity.
+These moves towards perception that does not need the bodily organs because of the soul's innate preparedness.
 
-Human beings have an intimation of that exchange in prophets who are by nature fitted to achieve it. It has been established that they neither need acquired qualities for that (exchange), nor are they dependent on any help from perceptions, notions (tasawwur), bodily activities, be they speech or motion, or anything else.
+The perceptions of this kind of soul:
+- extend beyond the primary (intelligibilia) to which primary human perception is restricted, and 
+- cover the ground of inward observations, which are all intuitive.
 
-It is (with them) a natural change from humanity to angelicality in the flash of a moment.
+They are unlimited as to their beginning and their end. 
 
-If this is so and if such preparedness exists in human nature, logical classification requires that there must be another kind of human beings, as inferior to the first kind as anything that has something perfect as its opposite, must be inferior to that (perfect) opposite. 
-
-Independence from all help in (achieving contact with the supernatural) is the opposite of dependence on help in connection with it. They are two very different things.
-
-Now, the classification of the world of existence requires that there must be a kind of human beings fitted by nature for the process of thinking voluntarily under the impulse of their rational power, whenever that power has a desire for it. 
-
-But the rational power is not by nature capable of (the process of supernatural perception).
-
-Thus, when its weakness prevents (the rational power) from (contact with the supernatural), it is natural for (the rational power) to get involved with particulars, either of sensual perception or of the imagination, such as transparent bodies, animal
-bones, speech in rhymed prose, or whatever bird or animal may present itself. 
-
-A person whose rational power is thus engaged) attempts to retain such sensual orimaginary perceptions, since he depends on their help in attaining the supernatural perception he desires. They give him a sort of assistance.The power which in (such persons) constitutes the starting point of supernatural perception is soothsaying. The souls of such persons are inferior by nature and unable to attain perfection. 
-
-Therefore, they have a better perception of particulars than of universals. They get involved with the former and neglect the latter. 
-
-Therefore, the power of imagination is 290 most strongly developed in those persons, because it is the organ of the particulars. (The particulars) completely pervade (the power of the imagination),291 both in the sleeping and the waking state. 
-
-They are ever ready and present in it. The power of imagination brings (the particulars) to the attention of (those persons) and serves as a mirror in which they are seen constantly.
-
-The soothsayer is not able to achieve perfection in his perception of the intelligibilia, because the revelation he receives is inspired by devils. The highest state this type of person can reach is to achieve disregard for the senses, with the help of rhymed prose and the use of words of an identical structure at the end of successive cola, 292 and (thereby) to attain an imperfect contact of the sort described (with supernatural things). 
-
-From that motion and the foreign support that accompanies it, his heart receives some inspiration to express itself in words. The
-soothsayer, thus, often speaks the truth and agrees with reality. 
-
-Often, however, what he says are falsehoods, because he supplements his deficiency with something foreign to, different from, and incompatible with, his perceptive essence. Thus, truth and falsehood are umbled together in him, and he is not trustworthy. He often takes refuge in guesses and hypotheses, because, in his self-deception, he desires to have (supernatural) perception and is willing to cheat those who ask him (for information).
-
-Men who use such rhymed prose are distinguished by the name of soothsayers (kahin, pl. kuhhan). They rank highest among their kind. Muhammad said, regarding something of the sort, "This belongs to the rhymed prose of the soothsayers." 293 
-
-The use of the genitive construction ("rhymed prose of") indicates that Muhammad considered rhymed prose a distinctive (mark of the soothsayer). He also questioned Ibn Sayyad, 294 in order to find out about him, and he asked him how that thing came to him. Ibn Sayyid replied= "It comes to me in the form of both truth and falsehood." 
-
-Whereupon Muhammad said, "You are confused with regard to the matter." He meant that prophecy is characterized by truthfulness and can in no way be affected by falsehood. 
-
-For prophecy is a direct and independent contact of the essence of the prophet with the most high group (the angels). Because of his weakness, the soothsayer depends on the help of foreign notions (tasawwur). 
-
-These foreign notions enter into his perception and mingle with the perception toward which he aspires. 
-
-He thus becomes confused by them. So it is that falsehood makes its way to his (door). It is, therefore, impossible (for his activity) to be prophecy. 
+They are the perceptions of saints, of men of mystical learning and divine knowledge. The blessed obtain them after death, in Purgatory (barzakh). 
+<!-- 278 -->
 
 
+3. Those that by nature is suited to exchange both corporeal and spiritual humanity for angelicality of the highest stage
+
+This soul may actually:
+- become an angel in the flash of a moment
+- glimpse the highest group within their own stage
+- listen to essential speech and divine address during that moment.
+
+Individuals possessing this kind of soul are prophets. 
+<!-- 279 -->
+
+God implanted and formed in them the natural ability to slough off humanity in that moment which is the state of revelation. God freed them from the lets and hindrances of the body, by which they were afflicted as human beings. 
+
+He did this by means of 'ismah (immunity from sin and error, infallibility) and straightforwardness. 
+
+He implanted these in them to give them that particular outlook.
+
+He centered in them a desire for divine worship which converges from all sides towards that goal. 
+
+They thus move towards the angelic stage, sloughing off humanity at will, by virtue of their natural constitution, and not with the help of any acquired faculty or craft.
+
+The prophets move in that direction, slough off their humanity, and, once among the highest group of angels, learn all that may there be learned.
+
+They then bring what they have learned back down to the level of the powers of human perception, as this is the way in which it can be transmitted to human beings. 
+
+At times, this may happen in the form of a noise the prophet hears. 
+
+It is like indistinct words from which he derives the idea conveyed to him. As soon as the noise has stopped, he retains and understands the idea. 
+
+At other times, the angel who conveys the message to the prophet appears to him in the form of a man who talks to him, and the prophet comprehends what he says.
+
+Learning the message from the angel, reverting to the level of human perception, and understanding the message conveyed to him - all this appears to take place in one moment, or rather, in a flash. 
+
+It does not take place in time, but everything happens simultaneously. Therefore, it appears to happen very quickly. This is why it is called wahy ("revelation"), because the root why has the meaning "to hasten." 
+
+<!-- 280 -->

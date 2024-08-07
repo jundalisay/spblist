@@ -3,7 +3,7 @@ title: "Human Intellect"
 description: "God distinguished man from all the other animals by an ability to think"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 1"
+heading: "Parts 1-3"
 weight: 12
 writer:
   name: Ibn Khaldun
@@ -11,7 +11,7 @@ writer:
 ---
 
 
-1. Man's ability to think
+## 1. Man's ability to think
 
 God distinguished man from all the other animals by an ability to think. 
 
@@ -78,7 +78,7 @@ The existent universe comprises pure essences, such as the elements, the things 
 
 1. minerals
 2. plants
-3. animals. 
+3. animals
 
 All these things are connected with the divine power.
 
@@ -111,12 +111,21 @@ His action starts with the first thing in the causal chain, which thinking reach
 
 On the other hand, the actions of living beings other than man are not well arranged. They lack the thinking that acquaints the agent with the order of things governing his actions. Animals 11 perceive only with the senses. Their perceptions are disconnected and lack a connecting link, since only thinking can constitute such (a connecting link).
 
-Now, the things that come into being 12 that are of consequence in the worldof existent things, are those that are orderly. Those that are not orderly are secondary to them. The actions of animals, therefore, are subordinate to (orderly human actions). 
+<!-- 12 -->
+The things that come into being that are of consequence in the world of existent things, are those that are orderly. 
 
-Consequently, their services are forcibly utilized by man. Thus, human actions control the (whole) world of things that come into being and all it contains. Everything is subservient to man and works for him. This is what is meant by the
-"appointing of a representative" mentioned in the Qur'an= "I am appointing a representative on earth." 13
+Those that are not orderly are secondary to them. The actions of animals, therefore, are subordinate to (orderly human actions).
 
-The ability to think is the quality of man by which human beings are distinguished from other living beings. The degree to which a human being is able to establish an orderly causal chain determines his degree of humanity. Some people are able to establish a causal nexus for two or three levels. Some are not able to go beyond that. 
+Consequently, their services are forcibly utilized by man. Thus, human actions control the whole world of things that come into being and all it contains.
+
+Everything is subservient to man and works for him. This is what is meant by the "appointing of a representative" mentioned in the Qur'an:
+
+"I am appointing a representative on earth." 
+<!-- 13 -->
+
+The ability to think is the quality of man by which human beings are distinguished from other living beings. 
+
+The degree to which a human being is able to establish an orderly causal chain determines his degree of humanity. Some people are able to establish a causal nexus for two or three levels. Some are not able to go beyond that. 
 
 Others may reach five or six. Their humanity, consequently, is, higher.
 
@@ -131,16 +140,21 @@ However, it is an example the student may use to gain an intellectual understand
 
 ## 3. The experimental intellect and how it comes into One knows from philosophical works the statement that "man is political by nature." 
 
-The philosophers cite that statement in connection with establishing the existence of prophecy and other things. The adjective "political" refers to the "town" (polis), which they use as another word for human social organization.
+The philosophers cite that statement in connection with establishing the existence of prophecy and other things. 
+
+The adjective "political" refers to the "town" (polis), which they use as another word for human social organization.
 
 The statement means that a single human being cannot live by himself, and his existence can materialize only in association with his fellow men. (Alone) he would be unable to have a complete existence and lead a complete life. By his very nature, he needs the co-operation of others to satisfy all his needs. 
 
-Such co-operation requires, firstly, consultation, and, then, association and the things that follow after it. Dealings with other people, when there is oneness of purpose may lead to mutual affection, and when the purposes differ, they may lead to strife and altercation. Thus, mutual dislike and mutual affection, friendship and hostility, originate. This leads to war and peace among nations and tribes. 
+Such co-operation requires, firstly, consultation, and, then, association and the things that follow after it. Dealings with other people, when there is oneness of purpose may lead to mutual affection, and when the purposes differ, they may lead to strife and altercation.
+
+Thus, mutual dislike and mutual affection, friendship and hostility, originate. This leads to war and peace among nations and tribes. 
 
 Among human beings, this does not happen haphazardly, as is the case among stray animals. God caused human beings to act in an orderly and well-arranged manner, as the result of their ability to think, as has been mentioned before. 
 
-Therefore, God had (their actions) take place among them in an orderly manner, and He enabled them to arrange for (their activities) under political aspects and according to philosophical norms. Those (political aspects and philosophical
-norms) lead human beings from the things that are detrimental (to them), to those that are in their interest, and from evil to the good, First, however, they must recognize the things that are evil, and the detrimental effect of doing them, from sound experience and current customs. Thus, they are distinguished from stray animals. 
+Therefore, God had their actions take place among them in an orderly manner, and He enabled them to arrange for (their activities) under political aspects and according to philosophical norms. 
+
+Those political aspects and philosophical norms lead human beings from the things that are detrimental to them, to those that are in their interest, and from evil to the good, First, however, they must recognize the things that are evil, and the detrimental effect of doing them, from sound experience and current customs. Thus, they are distinguished from stray animals. 
 
 The result of their ability to think shows itself in the fact that their actions are orderly and not likely to be detrimental. 
 
@@ -156,8 +170,7 @@ People can, thus, dispense with lengthy and careful (personal) study of events a
 
 But people who have no knowledge or tradition in this respect, or people who are not willing to learn and to follow (others), need long and careful study in orderto be educated in these things. They are unfamiliar to them, and the knowledge they obtain of them is uneven. Their manners and dealings with others will be badly planned and show defects. Their chances of making a living among their fellow men will be spoiled.
 
-This is the meaning of the famous saying= "He who is not educated by his parents will be educated by time." 19 That is, he who does not acquire the manners needed in dealing with human beings from his parents -which includes teachers and
-elders - and does not learn these things from them, has to fall back upon learning them with the help of nature from the events that happen in the course of time. 
+This is the meaning of the famous saying= "He who is not educated by his parents will be educated by time." 19 That is, he who does not acquire the manners needed in dealing with human beings from his parents -which includes teachers and elders - and does not learn these things from them, has to fall back upon learning them with the help of nature from the events that happen in the course of time. 
 
 Thus, time will teach and educate him, because he needs that education, since, by his very nature, he needs the co-operation of others. 
 

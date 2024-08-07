@@ -106,7 +106,8 @@ The juice around `C D E`, tend to go in a straight line through the hole `A` and
 
 Their juice-movements do not hinder the other juices nor by the clusters of crushed grapes*.  
 
-> *Superphysics Note: The crushed grapes are electrons and other electromagnetic particles like muons.
+
+{{< n n="The crushed grapes are electrons and other electromagnetic particles like muons." >}}
 
 
 Those clusters support each other and do not go to holes `A` and `B`. Instead, they are moved in other ways by those feet that crush them.
@@ -121,28 +122,7 @@ The fire-aether bodies move in other ways, similar to our physical air. They are
 
 Sometimes, they have no movement, such as in glass or crystal*.
 
-
-> *Superphysics Note: This is the foundation of our proposed crystal computing where light is the carrier of data that is stopped in glass
-
+{{< n n="This is the foundation of our proposed crystal computing where light is the carrier of data that is stopped in glass" >}}
 
 
-## Actual Movement Versus the Inclination to Move
 
-<!-- Ainsi toutes -->
-It is necessary to distinguish between:
-- actual movement and
-- the inclination to move. 
-
-The inclination to move is expressed as the grape juice at `C` **tending** towards `B` and `A` without actually moving towards them.
-
-The actual movement is expressed as the grape juice at `C` **actually moving** towards `B` and `A` but are hindered by the grape clusters that are between them.
-
-<!-- et ainsi -->
-In the same way, we are concerned with the actual movement of luminous bodies more than their theoretical movement. This is why you must think of the rays of this light as mere lines along which this movement-action tends.
-
-It follows that there are an infinity of such rays that come from all points of the luminous bodies, towards all points which they shine on. 
-
-
-There is an infinity of straight lines, along with their actions, coming from surface `CDE` going towards `A` and `B` without hindering each other. 
-
-Thus, all the parts of the fire-aether that are touched by the side of the Sun facing us tend in a straight line towards our eyes when we open them. 

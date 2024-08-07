@@ -11,7 +11,7 @@ writer:
 ---
 
 
-The <!-- 476 --> Sufis do not consider removal (of the veil) sound, unless it originates in straightforwardness. <!-- 477  -->
+The <!-- 476 --> Sufis do not consider removal of the veil sound, unless it originates in straightforwardness. <!-- 477  -->
 
 People who do not eat and who retire from the world, such as sorcerers, Christians, and other ascetics, may obtain removal of the veil without the existence of straightforwardness. However, we mean only that removal (of the veil) which originates in straightforwardness. It may be compared with the reflections of a mirror. If it is convex or concave, the object reflected by it appears in a distorted form different from the actual form of the object, but if themirror is flat, the object appears in its correct form. As far as the "states" impressed upon the soul are concerned, straightforwardness means to the soul what flatness means in a mirror. 
 

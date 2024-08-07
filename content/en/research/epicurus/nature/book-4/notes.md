@@ -10,11 +10,9 @@ image: "/covers/things.jpg"
 ---
 
 
+1 In our own country Dr. Masson (Lucretius: Epicurean and Poet) has recently written a very suggestive, though not always accurate, sketch of Lucretius’s relations to his predecessors and to modern scientific ideas, and has most successfully represented the spirit of the poem.
 
-1
-In our own country Dr. Masson (Lucretius: Epicurean and Poet) has recently written a very suggestive, though not always accurate, sketch of Lucretius’s relations to his predecessors and to modern scientific ideas, and has most successfully represented the spirit of the poem.
-
-1
+<!-- 1
 St. Augustine, de Civ. Dei, iv. 27.
 
 2
@@ -60,7 +58,7 @@ i. 62 ff.
 v. 8.
 
 8
-i. 931.
+i. 931. -->
 
 1
 There is, as a matter of fact, considerable doubt whether Democritus attributed weight to the atoms, but I am inclined to believe that he did.
@@ -68,7 +66,7 @@ There is, as a matter of fact, considerable doubt whether Democritus attributed 
 1
 Galen, de med. emp. 1259, 8; Diels B. 125. Democritus’s exact position is very difficult to make out, but it seems that he accepted the evidence of the senses for the primary properties, size, shape, and weight, but regarded it with suspicion for all other qualities: in other words he held that touch alone among the senses could be trusted.
 
-2
+<!-- 2
 Diogenes Laertius, x. 50, &c.
 
 3
@@ -222,7 +220,7 @@ ii. 375.
 Some lines are lost here, in which he passed from addressing Venus to Memmius.
 
 1
-Read ruitque et quidquid.
+Read ruitque et quidquid. -->
 
 1
 Two lines are probably lost here, the sense of which has been admirably restored by Munro:

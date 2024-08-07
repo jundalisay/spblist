@@ -8,9 +8,11 @@ image: "/covers/epi.jpg"
 ---
 
 
-VI. Diocles, in Book 3 of his Excursion, says[428] that they all lived in the most simple and economical manner; 
+VI. Diocles, in Book 3 of his Excursion, says[428] that they all lived in the most simple and economical manner.
 
-“They were content,” says he, “with a small cup of light wine, and all the rest of their drink was water.” He also tells us that Epicurus would not allow his followers to throw their property into a common stock, as Pythagoras did, who said that the possessions of friends were held in common. 
+“They were content,” says he, “with a small cup of light wine, and all the rest of their drink was water.” 
+
+He also tells us that Epicurus would not allow his followers to throw their property into a common stock, as Pythagoras did, who said that the possessions of friends were held in common. 
 
 For he said that such a doctrine as that was suited rather for those who distrusted one another; and that those who distrusted one another were not friends. But he himself in his letters, says that he is content with water and plain bread, and adds, “Send me some Cytherean cheese, that if I wish to have a feast, I may have the means.” This was the real character of the man who laid down the doctrine that pleasure was the chief good; whom Athenæus thus mentions in an epigram:—
 

@@ -1,5 +1,5 @@
 ---
-title: "The Sufi Removal of the Veil"
+title: "The Errors of Ibn Dihaq"
 description: "Sufis call that the station of 'combination' (jam')"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
@@ -14,34 +14,52 @@ writer:
 
 This is a short exposition of (Sufi) opinion, as gathered from the discussion of Ibn Dihaq. It is most erroneous. 
 
-A country which we have quitted on our travels or to which we are traveling, exists, despite the fact that we do not see it any more. 
+A country that we have left or will visit exists, even if we do not see it any more. 
 
-We also have definite knowledge of the existence of heaven that overlooks everything, and of the stars, and of all the other things that are remote from us. 
+We also have definite knowledge of the existence of:
+- heaven that overlooks everything
+- the stars
+- all the other things that are remote from us. 
 
-Man knows these things for certain. No one would deny to himself the existence of certain knowledge. Competent recent Sufis say that during the removal of the veil, the Sufi novice often has a feeling of the oneness of existence. 
+<!-- Man knows these things for certain.  -->
+
+No one would deny to himself the existence of certain knowledge. 
+
+
+### The Jam' of Oneness of Everything
+
+Competent recent Sufis say that during the removal of the veil, the Sufi novice often has a feeling of **the oneness of existence**.
 
 Sufis call that the station of "combination" (jam').
 
-But then, he progresses to distinguish between existent things. The Sufis consider it as the station of "differentiation" (farq). That is the station of the competent gnostic. 
+But then, he progresses to distinguish between existent things. The Sufis consider it as the station of "differentiation" (farq). 
+- That is the station of the competent gnostic.
 
-The Sufis believe that the novice cannot avoid the ravine of "combination". This ravine causes difficulties for him because there is danger that he might be arrested at it and his enterprise thus come to nought.
+The Sufis believe that the novice cannot avoid the ravine of "combination". 
+- This ravine causes difficulties because there is danger that he might be trapped in it and his enterprise thus come to nought.
 
-The different kinds of mystics have thus been explained. 
+<!-- The different kinds of mystics have thus been explained.  -->
 
-The recent Sufis, who speak of the removal of the veil and supersensory perception, have delved deeply into these subjects. 
+<!-- The recent Sufis, who speak of the removal of the veil and supersensory perception, have delved deeply into these subjects.  -->
 
-Many of them turned to the theory of incarnation and oneness. They have filled many pages with their exposition of it. Examples were the works of al-Harawi, in the Kitab al-Maqamat, and by others.
+Many of the recent Sufis turned to the theory of incarnation and oneness. They have filled many pages with their exposition of it. Examples were the works of:
+- al-Harawi, in the Kitab al-Maqamat, and by others.
+- Ibn al-'Arabi and Ibn Sab'in and their pupils
+- Ibn al-'Afif ('Afif-ad-din), Ibn al-Farid,and Najm-ad-din al-Isra'ili, in the poems they composed. 
 
-They were followed by Ibn al-'Arabi and Ibn Sab'in and their pupils, and then by Ibn al-'Afif ('Afif-ad-din), Ibn al-Farid,and Najm-ad-din al-Isra'ili, in the poems they composed. 
+The early Sufis had had contact with the Neo-Ismailiyah Shi'ah extremists who also believed in incarnation and the divinity of the imams. This was a theory not known to the early Isma'iliyah. 
 
-The early Sufis had had contact with the Neo-Ismailiyah Shi'ah extremists who also believed in incarnation and the divinity of the imams, a theory not known to the early (Isma'iliyah). Each group came to be imbued with the dogmas of the other. 
+Each group came to be imbued with the dogmas of the other. 
 
-Their theories and beliefs merged and were assimilated. In Sufi discussion, there appeared the theory of the "pole" (qutb), meaning the chief gnostic. The Sufis assumed that no one can reach his station in gnosis, until God takes him unto Himself and then gives his station to another gnostic who will be his heir. 
+Their theories and beliefs merged and were assimilated. In Sufi discussion, there appeared the theory of the "pole" (qutb), meaning the chief gnostic.
+
+The Sufis assumed that no one can reach his station in gnosis, until God takes him unto Himself and then gives his station to another gnostic who will be his heir. 
 
 Avicenna referred to this in the sections on Sufism in the Kitab al-Isharat. He said: 
 
+<!-- 511  -->
 {{< q a="Avicenna" >}}
-The majestic Truth is too exalted to be available equally to all who seek it, 511 or to be seen save by one person at a time.
+The majestic Truth is too exalted to be available equally to all who seek it, or to be seen save by one person at a time.
 {{< /q >}}
 
 
@@ -51,23 +69,28 @@ The theory of successive "poles" is not confirmed by logical arguments or eviden
 
 Mysticism has plagiarized this idea from the extremist Shi'ah and come to believe in it.
 
-The Sufis, furthermore, speak about the order of existence of the "saints" who come after the "pole," exactly as the Shi'ah speak about their "chiefs."
+The Sufis speak about the order of existence of the "saints" who come after the "pole," exactly as the Shi'ah speak about their "chiefs."
 
 They go so far in the identification of their own concepts with those of the Shi'ah that when they construed a chain of transmitters for the wearing of the Sufi cloak (khirqah) as a basic requirement of the mystic way and practice, they made it go back to 'Ali.
 
 This points in the same direction and can only be explained as Shi'ah influence. 
 
-Among the men around Muhammad, 'Ali was not distinguished by any particular practice or way of dressing or by any special condition. 
+Among the men around Muhammad, 'Ali was not distinguished by any particular practice or way of dressing or by any special condition.
 
-Abu Bakr and 'Umar were the most ascetic and pious people after the Messenger of God. Yet, none of these men was distinguished by the possession of any particular religious practice exclusively peculiar to him. 
+Abu Bakr and 'Umar were the most ascetic and pious people after Mohammad.
 
-In fact, all the men around Muhammad were models of religion, austerity, asceticism, and pious exertion. This is attested by their way of life and history. 
+Yet, none of them were distinguished by the possession of any particular religious practice exclusively peculiar to him. 
+- All the men around Muhammad were models of religion, austerity, asceticism, and pious exertion.
 
-With the help of these stories, the Shi'ah try to suggest that 'All is distinguished from the other men around Muhammad by being in possession of particular virtues, in conformity with well-known Shi'ah beliefs. 
+<!-- This is attested by their way of life and history. -->
 
-The Sufis in the 'Iraq derived their comparison between the manifest and the inner world from the Isma'iliyah Shi'ah and their well-known theory concerning the imamate and connected matters, at the time when the Isma'iliyah Shi'ah made its appearance. 
+With the help of these stories, the Shi'ah try to suggest that 'All is distinguished from the other men around Muhammad by having particular virtues, in conformity with well-known Shi'ah beliefs. 
 
-The Isma'iliyah Shi'ah considered the leadership of mankind and its guidance toward the religious law a duty of the imam. Therefore, they assumed that there could be no more than one imam if the possibility of a split were to be avoided, as is established in the religious law. 
+The Sufis in the 'Iraq derived their comparison between the manifest and the inner world from the Isma'iliyah Shi'ah and their well-known theory concerning the imamate and connected matters, at the time when the Isma'iliyah Shi'ah made its appearance.
+
+The Isma'iliyah Shi'ah considered the leadership of mankind and its guidance toward the religious law a duty of the imam.
+
+Therefore, they assumed that there could be no more than one imam if the possibility of a split were to be avoided, as is established in the religious law. 
 
 Correspondingly, the Sufis then regarded as a duty of the "pole," who is the chief gnostic, the instruction (of mankind) in the gnosis of God.
 
@@ -77,9 +100,7 @@ They called him "pole," because the gnosis revolves around him, and they equated
 
 An instance of what I have just been saying is the lengthy discussion of the Fatimid in Sufi works. 519 The early Sufis made neither negative nor affirmative statements on the Fatimid. 
 
-The lengthy discussion of (recent) Sufis was derived from the discussion (of the subject) and the dogmas (concerning it) expressed by the
-extremist Shi'ah in their works."God guides to the truth."
-
+<!-- The lengthy discussion of (recent) Sufis was derived from the discussion (of the subject) and the dogmas (concerning it) expressed by the extremist Shi'ah in their works."God guides to the truth." -->
 
 I quote here a remark made by our shaykh, the gnostic and chief saint in Spain, Abu Mahdi 'Isa b. az-Zayyat. He repeated it very often. 
 
@@ -131,22 +152,17 @@ Declaration of divine oneness is negation of the very essence of createdness, bu
 
 Thus, the divine oneness is actually denied. The claim (to have declared the divine oneness) is false. 
 
-It is the same as if someone were to say to someone else who is with him in a house, "There is nobody in the house except
-you." Whereupon the other person would reply at once, "This could be correct onlyif you were non-existent." And a competent (scholar) remarked in connection with the statement, "God created time," that these words contain a basic contradiction,
-because the creation of time precedes time, yet is an action that must take place in
-time. 
+It is the same as if someone were to say to someone else who is with him in a house, "There is nobody in the house except you." Whereupon the other person would reply at once, "This could be correct onlyif you were non-existent." 
 
-These things are caused by the difficulty of expressing the realities and the
-inability of language to convey the truth with regard to them and give them their
-due. 
+And a competent (scholar) remarked in connection with the statement, "God created time," that these words contain a basic contradiction, because the creation of time precedes time, yet is an action that must take place in time. 
+
+These things are caused by the difficulty of expressing the realities and the inability of language to convey the truth with regard to them and give them their due. 
 
 If it is certain that he who declares (the divine) oneness is identical with Him whose oneness is declared, 531 and that anything else is altogether non-existent, then the (declaration of) divine oneness is truly a sound one. This is what is meant by the (Sufi) statement, "Only God knows God."
 
-There is no objection to a person's declaring the oneness of the Truth, while retaining the outlines and traces (of worldliness). This belongs to the chapter (dealing with the fact) that the good actions of pious people may be the bad actions
-of persons who are close to the Divine. 
+There is no objection to a person's declaring the oneness of the Truth, while retaining the outlines and traces (of worldliness). This belongs to the chapter (dealing with the fact) that the good actions of pious people may be the bad actions of persons who are close to the Divine. 
 
-It results from the lack of freedom, servitude, and doubleness 533 (of the human condition). For those who have
-ascended to the station of "combination," it constitutes a defect. 
+It results from the lack of freedom, servitude, and doubleness 533 (of the human condition). For those who have ascended to the station of "combination," it constitutes a defect. 
 
 They are conscious of their rank and know that (their imperfection) is a deception resulting from (human) servitude, that vision can eliminate it, and that the very essence of "combination" can cleanse them from the uncleanliness of their createdness. 
 
@@ -162,7 +178,8 @@ If the concepts are known, there can be no quarrels about the words. All this te
 
 This much of a hint is sufficient. Going deeply into matters like this (lowers) the veil. That is the gist of the wellknown (Sufi) statements.
 
-Here ends the quotation from shaykh Abu Mahdi b. azZayyat. I quoted it from the book on love by the wazir Ibn al-Khatib, 5 38 entitled at-Ta'r f bi-l-hubb ash-sharif ("Information on the Noble Love [of God]"). 
+<!-- 538 -->
+Here ends the quotation from shaykh Abu Mahdi b. azZayyat. I quoted it from the book on love by the wazir Ibn al-Khatib, entitled at-Ta'r f bi-l-hubb ash-sharif ("Information on the Noble Love [of God]"). 
 
 I heard it from our shaykh Abu Mahdi himself several times. However, I think that the written form (in Ibn al-Khatib's work) preserves it better (than my memory), because it has been a long time (since I heard Abu Mahdi tell it).
 <!-- God gives success. -->

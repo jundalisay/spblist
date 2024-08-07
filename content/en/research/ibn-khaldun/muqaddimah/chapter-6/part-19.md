@@ -16,20 +16,17 @@ This is the knowledge of the properties of numbers combined in arithmetic or geo
 
 
 Arithmetic progression is where:
-  - each number is always higher by one than the preceding number
-  - the sum of the first and last numbers of the progression is equal to the sum of any two numbers in the progression that are equally far removed from the first and the last number, respectively, of the progression.
-  - Or, the sum of the first and last numbers of a progression is twice the middle number of the progression, if the total number of numbers (in the progression) is an odd number. It can be a progression of even and odd numbers, or of even numbers, or of odd numbers.
-  - Or, if the numbers of a geometrical progression are such that the first is half of the second and the second onehalf of the third, and so on,
-  - or if the first is 1/3 of the second and the second one-third of the third, and so on, the result of multiplying the first number by the last number of the progression is equal to the result of multiplying any two numbers of the progression that are equally far removed from the first and the last number, respectively, of the progression.
-  - Or, (the result of multiplying the first number by the last number of a geometrical progression,) if the number of numbers (in the progression) is odd, is equal to the square of the middle number of the progression. For instance, the progression may consist of the powers of two= two, four, eight, sixteen. 
-  - Or, there are the properties of numbers that originate in the formation of
-numerical muthallathah (triangle), murabba'ah (square), mukhammasah (pentagon),
-and musaddasah (hexagon) progressions, 607 where the numbers are arranged
-progressively in their rows by 608 adding them up from one to the last number.
+- each number is always higher by one than the preceding number
+- the sum of the first and last numbers of the progression is equal to the sum of any two numbers in the progression that are equally far removed from the first and the last number, respectively, of the progression.
+- Or, the sum of the first and last numbers of a progression is twice the middle number of the progression, if the total number of numbers (in the progression) is an odd number. It can be a progression of even and odd numbers, or of even numbers, or of odd numbers.
+- Or, if the numbers of a geometrical progression are such that the first is half of the second and the second onehalf of the third, and so on,
+- or if the first is 1/3 of the second and the second one-third of the third, and so on, the result of multiplying the first number by the last number of the progression is equal to the result of multiplying any two numbers of the progression that are equally far removed from the first and the last number, respectively, of the progression.
+- Or, (the result of multiplying the first number by the last number of a geometrical progression,) if the number of numbers (in the progression) is odd, is equal to the square of the middle number of the progression. For instance, the progression may consist of the powers of two= two, four, eight, sixteen. 
+- Or, there are the properties of numbers that originate in the formation of numerical muthallathah (triangle), murabba'ah (square), mukhammasah (pentagon), and musaddasah (hexagon) progressions, 607 where the numbers are arranged progressively in their rows by 608 adding them up from one to the last number.
 
 Thus, a muthallath(ah) is formed.
 
-Other muthallathahs (are placed) successively in rows under the "sides." Then, each muthallathah is increased by the "side" in front of it. Thus, a murabba'ah is formed.
+Other muthallathahs are placed successively in rows under the "sides." Then, each muthallathah is increased by the "side" in front of it. Thus, a murabba'ah is formed.
 
 Then, each murabba'(ah) is increased (by the "side") in front of it. Thus, a mukhammasah is formed, and so on. 
 
@@ -92,7 +89,7 @@ As a rule, it produces an enlightened intellect that is trained along correct li
 
 Whoever applies himself to the study of calculation early in his life will as a rule be truthful, because calculation has a sound basis and requires self-discipline. 
 
-(Soundness and self-discipline) will, thus, become character qualities of such a person. He will get accustomed to truthfulness and adhere to it methodically. 
+Soundness and self-discipline will, thus, become character qualities of such a person. He will get accustomed to truthfulness and adhere to it methodically. 
 
 In the contemporary Maghrib, one of the best simple works on the subject is the small work by al-Hassar.
 

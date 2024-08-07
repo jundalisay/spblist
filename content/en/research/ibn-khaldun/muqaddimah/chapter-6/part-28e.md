@@ -21,18 +21,21 @@ In other methods, there is no rhymed answer. 923
 We are going to report this much about other methods of finding answers. A competent (practitioner of letter magic) said:
 On learning hidden secrets from letter connections 924 
 
-Let it be known to you - God guide us and you 925 - that the following letters are the basis for answers to any problem. They produce the answers through total division. 926 There are forty-three letters, as one can see:
+Let it be known to you - God guide us and you 925 - that the following letters are the basis for answers to any problem. They produce the answers through total division. 
+
+<!-- 926  -->
+
+There are 43 letters, as one can see:
 
 alif, w, l, alif, 'ayn, z, s, atif, l, m, kh, y, d, l, z, q, t, alif,
 f, dh, s, r, n, gh, sh, r, alif, k, k, y, b, m, d, b, j, t, l, h,
 h, d, th, l, th, alif.
 
-Some excellent man has worked these letters into the form of a verse in which every double consonant stands for two letters. He called the (verse) the
-"pole." It runs:
+Some excellent man has worked these letters into the form of a verse in which every double consonant stands for two letters. He called the (verse) the "pole." It runs:
 
-A weighty question you have got. Keep, then, to yourself
-Remarkable doubts which have been raised and which can be straightened
-out with diligence. 927
+A weighty question you have got. Keep, then, to yourself. Remarkable doubts which have been raised and which can be straightened out with diligence.
+
+ <!-- 927 -->
 
 If one wants to produce the (answer from the) question, one must eliminate the letters of the question that are repeated and set down those that remain. 
 
@@ -46,8 +49,7 @@ Then, one adds to them five n's, in order to have the musical scales balanced an
 
 The end of the first line is the beginning of the second, and the rest is moved as it is, and so forth, until the table is filled and the first line reoccurs. 
 
-The letters in the "region" follow each other inproportion to the motion. Then, one finds out the chord of each letter through square
-division by the smallest aliquot part found in it, 927a and one puts (each) chord opposite its letter. Then, one finds out the elemental relations for the letters of the table and indicates their natural power, their spiritual power, their spiritual scales, their psychic dispositions, and their principal bases from the table which has been composed for the purpose and which looks as follows: 
+The letters in the "region" follow each other inproportion to the motion. Then, one finds out the chord of each letter through square division by the smallest aliquot part found in it, 927a and one puts (each) chord opposite its letter. Then, one finds out the elemental relations for the letters of the table and indicates their natural power, their spiritual power, their spiritual scales, their psychic dispositions, and their principal bases from the table which has been composed for the purpose and which looks as follows: 
 
 <!-- Bases
 300 60

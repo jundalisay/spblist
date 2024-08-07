@@ -64,12 +64,15 @@ Such qualities are humility (in dealing) with (such men) and respect for their f
 
 They do so after they have convinced themselves that the qualities of the (new leader) aresatisfactory to them. His family then grows, whereas the family of the original (leader) decays and the edifice of his "house" collapses.
 
-This is the case with rulers who have royal authority. It also is the case with all the "houses" of tribes, of amirs, and of everybody else who shares in a group feeling, and then also with the "houses" among the urban population. When one
-"house" goes down, another one rises in (another group of) the same descent. "If He
-wants them to disappear, He causes them to do so, and brings forth a new creation.
-This is not difficult for God." 86
+This is the case with rulers who have royal authority. It also is the case with all the "houses" of tribes, of amirs, and of everybody else who shares in a group feeling, and then also with the "houses" among the urban population. 
 
-The rule of four generations with respect to prestige usually holds true. It may happen that a "house" is wiped out, disappears, and collapses in fewer than four (generations), or it may continue unto the fifth and sixth (generations), though in a state of decline and decay. The four generations can be explained as the builder, the one who has personal contact with the builder, the one who relies on tradition, and the destroyer. There could not be fewer.
+When one "house" goes down, another one rises in (another group of) the same descent. "If He wants them to disappear, He causes them to do so, and brings forth a new creation.
+
+<!-- This is not difficult for God." 86 -->
+
+The rule of four generations with respect to prestige usually holds true. It may happen that a "house" is wiped out, disappears, and collapses in fewer than four (generations), or it may continue unto the fifth and sixth (generations), though in a state of decline and decay. 
+
+The four generations can be explained as the builder, the one who has personal contact with the builder, the one who relies on tradition, and the destroyer. There could not be fewer.
 
 The fact that prestige lasts four generations is considered (in statements discussed) under the subject of praise and glorification. Muhammad said= "The noble son of the noble (father) of the noble (grandfather) of the noble (great-grandfather)= Joseph, the son of Jacob, the son of Isaac, the son of Abraham." 87
 
@@ -77,16 +80,19 @@ This indicates that (Joseph) had reached the limit in glory.
 
 The Torah writes:
 
-"God, your Lord, is powerful and jealous, visiting the sins of the fathers upon the children unto the third and the fourth generations." 
+{{< q a="Torah" >}}
+God, your Lord, is powerful and jealous, visiting the sins of the fathers upon the children unto the third and the fourth generations." 
+{{< /q >}}
 
 This shows that four generations in one lineage are the limit in extent of ancestral prestige. 
 
 The Kitab al-Aghani reports, in the story of 'Uwayf al-Qawafi, that Khosraw asked an-Nu'man whether there was among the Arabs a tribe that was nobler than other tribes.
 
-When the answer was yes, he asked= "How does such greater nobility show itself?" 
+When the answer was yes, he asked: "How does such greater nobility show itself?" 
 
-An-Nu'man replied: "(In cases of men) with three successive ancestors who were leaders, and where the fourth generation,
-then, was perfect. The 'house' thus belongs to his tribe." 
+An-Nu'man replied: 
+
+"(In cases of men) with three successive ancestors who were leaders, and where the fourth generation, then, was perfect. The 'house' thus belongs to his tribe." 
 
 He looked for such people and found that the only ones that fulfilled the condition were the family of Hudhayfah b. Badr al-Fazari, the house of Qays; the family of Hajib b. Zurarah, the house of Tamim; the family of Dhu1-Jaddayn, the house of Shayban; and the family of al-Ash'ath b. Qays, of the Kindah. 
 

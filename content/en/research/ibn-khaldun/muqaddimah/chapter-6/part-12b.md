@@ -181,14 +181,23 @@ When the 'Abbasid al-Mustansir, the father of al-Musta' im and son of az-Zahir, 
 
 He remained there until Hulagu took possession of Baghdad in 656 [1258]. He escaped the fury of the catastrophe and went free. He remained living there until he died in the days of Hulagu's son, Ahmad Abagha.
 
-A compendium of the Egyptian school that had taken over elements of the Western school, was made, as we have mentioned, 248 in the Mukhtasar of Abu 'Amr b. al-Hajib, which mentions the different problems of every juridical subject and enumerates the various statements on each individual problem. 
+<!-- 248  -->
+
+A compendium of the Egyptian school that had taken over elements of the Western school, was made in the Mukhtasar of Abu 'Amr b. al-Hajib. 
+- It mentions the different problems of every juridical subject and enumerates the various statements on each individual problem. 
 
 Thus, it came to be a kind of synopsis of the school.
 
-When his work reached the Maghrib at the end of the 13th century, the majority of Maghribi students, and especially the inhabitants of Bougie, concentrated upon it. The chief teacher of the people of Bougie, Abu 'Ali Nasir-ad-din az-Zawawi, 249 had been the one who brought the work of Ibn al-Hajib to the Maghrib. 
+When his work reached the Maghrib at the end of the 13th century, the majority of Maghribi students, and especially the inhabitants of Bougie, concentrated upon it. 
 
-He had studied with (Ibn al-Hajib's) followers in Egypt, had copied his Mukhtasar, and brought it (to the West). It spread among his pupils in the region of Bougie and was introduced by them into all the other cities of the Maghrib.
+The chief teacher of the people of Bougie, Abu 'Ali Nasir-ad-din az-Zawawi, 249 had been the one who brought the work of Ibn al-Hajib to the Maghrib. 
 
-Contemporary Maghribi students of jurisprudence use and study it, because of the interest the shaykh Nasir-ad-din is said to have aroused in it. A number of Maghribi shaykhs, such as Ibn 'Abd-asSalim, Ibn Rashid, 250 and Ibn Harun,251 commented on it.
+He had studied with Ibn al-Hajib's followers in Egypt, had copied his Mukhtasar, and brought it (to the West). It spread among his pupils in the region of Bougie and was introduced by them into all the other cities of the Maghrib.
+
+Contemporary Maghribi students of jurisprudence use and study it, because of the interest the shaykh Nasir-ad-din is said to have aroused in it. 
+<!-- 250 251 -->
+
+A number of Maghribi shaykhs, such as Ibn 'Abd-asSalim, Ibn Rashid, and Ibn Harun, commented on it.
 
 All of them are shaykhs of Tunis. Their principal champion in this respect is Ibn 'Abd-as-Salam. In addition, they use the Kitab at-TahdhIb as textbook in their teaching.
+

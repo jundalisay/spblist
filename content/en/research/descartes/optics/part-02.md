@@ -6,7 +6,7 @@ writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
-description: "there is no question here of looking at it so closely, and there is none of these things which take place in the action of light"
+description: "How can we determine this refraction quantitatively?"
 icon: "/icons/descartes.png"
 ---
 
@@ -24,69 +24,75 @@ Suppose a ball is struck from `A` towards `B`. At `B` it meets the surface of th
 
 Where will it go?
 
-The force that causes the speed of the ball is different from the force that causes the direction of the ball. That direction is determined by the position of the racket.
 
+### The Directional Force
 
+**The force that causes the speed of the ball is different from the force that causes the direction of the ball.** That direction is determined by the position of the racket.
 
 This directional force shows that this ball can be diverted by the encounter with the earth `CBE`.
 
-Thus, `CBE` can change the direction that it had towards `B` without changing the force that gave its speed, since these are two different things.
+Thus, `CBE` can change the direction that it had towards `B` without changing the force that gave its speed, since these are 2 different things.
 
-This is why it does not have to stop at `B` before bouncing off to `F` as many of our Philosophers do. If it was stopped at `B` then there is nothing at `B` which can cause it to start again. 
-
-
+This is why it does not have to stop at `B` before bouncing off to `F` as many of our Philosophers think. If it was stopped at `B` then there is nothing at `B` which can cause it to start again. 
 
 
 
-The determination to move towards a certain side can, as well as movement and generally any other kind of quantity, be divided between all the parts of which it can be imagined to be composed.
+The determination to move towards a certain side, as well as movement and generally any other kind of quantity, can be divided between all the parts that compose it.
 
-A ball that moves from `A` to `B` is composed of two others:
+{{< i s="/graphics/physics/ad.jpg" a="Line" >}}
 
-1. A force which makes it fall from the line `AF` to the line `CE`
-2. A force which makes it go from the left `AC` to the right `FE`
+A ball that moves from `A` to `D` is composed of 2 others:
 
-These together lead it to `B` along the straight line `AB`.
+1. A force which makes it fall from the line `AB` to the line `CD`
+2. A force which makes it go from the left `AC` to the right `BD`
 
-The encounter with the earth can only prevent one of these two determinations, and not the other in any way. 
+<!-- 1. A force which makes it fall from the line `AF` to the line `CE`
+2. A force which makes it go from the left `AC` to the right `FE` 
 
-It prevents the one that made the ball fall from `AF` to `CE` because it occupies all the space that is below `CE`.
+These together lead it to `B` along the straight line `AB`.-->
 
+These together lead it to `D` along the straight line `AD`.
 
-But why would it prevent the other, which made it advance towards the right hand, since it is in no way opposed to it in that sense? 
+The encounter with the earth can only prevent **one** of these two determinations, and not the other. 
+- It prevents the one that made the ball fall from `AB` to `CD` because it occupies all the space that is below `CD`.
 
-
-
-
-
-Let us draw a circle with center `B`, which passes through point `A`.
-
-In as much time as it will have taken to move from A to B, it must infallibly return from B to some point on the circumference of this circle, since all the points that are as distant from this B as A is, are found in this circumference, and we suppose the movement of this ball to be always equally fast. 
+<!-- It prevents the one that made the ball fall from `AF` to `CE` because it occupies all the space that is below `CE`. -->
+<!-- But why would it prevent the other, which made it advance towards the right hand, since it is in no way opposed to it in that sense?  -->
 
 
-To know precisely to which of all the points on this circumference it must return, let us draw 3 straight lines `AC`, `HB`, and `FE` perpendicular to `CE`, in such a way that there is neither more nor less distance between `AC` and `HB` than between `HB` and `FE`. 
+Let us draw a circle with center `B`, which passes through line `A` which is the path of the ball.
 
 
-Let's say that in the same amount of time it took for the ball to advance towards the right side, from point A on line AC to point B on line HB, it must also advance from line HB to some point on line FE. 
+The ball would have travelled from in the same time from `B` to some point on the circle's circumference, as it travelled from `A` to `B`.
+
+This is because we suppose that:
+- all the points in the circle are as distant from `B` as `A` is.
+- the ball's speed is always equally fast.*
+
+{{< n n="Descartes knew of the constancy of the speed of light" >}}
+
+
+{{< i s="/graphics/physics/tennis6.jpg" a="Tennis ball" >}}
+
+
+To know where on this circle the ball must end up, let us draw 3 straight lines `AC`, `HB`, `FE` perpendicular to `CE`.
+- The distance between `AC` and `HB` is the same as that between `HB` and `FE`. 
 
 
 
-Because all the points on line FE are equally distant from HB in that sense, just like those on line AC, and it is equally determined to advance towards that side as it was before.
+Assume that it will take the ball travelling rightwards the same time to go from point `A` to point `B` and from `B` to any point in the circle that touches line `FE`. In this case, it is `F` or `D`.
 
+<!-- However, it is impossible for it to arrive at any point on the line `FE` at the same time as reaching any point on the circumference of the circle `AFD`, except at point `D` or `F`. This is because these are the only two points where they intersect each other.  -->
 
-However, it is impossible for it to arrive at any point on the line `FE` at the same time as reaching any point on the circumference of the circle `AFD`, except at point `D` or `F`. This is because these are the only two points where they intersect each other. 
-
-Thus, if the Earth prevents it from passing towards `D`, it must inevitably go towards `F`.
+Thus, if the Earth prevents it from passing towards `D`, then it must go towards `F`.
 
 This is how reflection occurs at an angle always equal to what is called *the angle of incidence*.
 
-Fig 7
 
+For example, if a ray coming from point `A` falls on point `B` on the flat mirror `CBE`, it reflects towards `F` in such a way that the angle of reflection `FBE` is neither greater nor smaller than the angle of incidence `ABC`.
 
-For example, if a ray coming from point A falls on point B on the surface of the flat mirror CBE, it reflects towards F in such a way that the angle of reflection FBE is neither greater nor smaller than the angle of incidence `ABC`.
+<!-- A ball, propelled from `A` towards `B`, encounters at point `B`, not the surface of the earth, but a delicate and thin web CBE.  -->
 
-
-
-
-A ball, propelled from A towards B, encounters at point B, not the surface of the earth, but a delicate and thin web CBE. This web is so weak that the ball has the force to break it and pass right through, only losing half of its velocity.
+<!-- If instead of a mirror, `CBE` were a thin web, then the ball has the force to break it and pass through, only losing half of its velocity. -->
 
 
