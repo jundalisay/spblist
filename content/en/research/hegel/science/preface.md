@@ -6,29 +6,83 @@ image: /covers/science.png
 ---
 
 
-Highlighted text is Lenin's underlining. The ® access his annotations.
+<!-- Highlighted text is Lenin's underlining. The ® access his annotations.
 
-Preface to the First Edition
+Preface to the First Edition -->
 
 § 1
 
-The complete transformation which philosophical thought in Germany has undergone in the last twenty-five years and the higher standpoint reached by spirit in its awareness of itself, have had but little influence as yet on the structure of logic.
+In the last 25 years, philosophical thought in Germany has complete transformed. Spirit has reached a higher standpoint in its awareness of itself.
+
+But it has had little influence on the structure of logic.
 
 § 2
 
-That which, prior to this period, was called metaphysics has been, so to speak, extirpated root and branch and has vanished from the ranks of the sciences. The ontology, rational psychology, cosmology, yes even natural theology, of former times – where is now to be heard any mention of them, or who would venture to mention them? Inquiries, for instance, into the immateriality of the soul, into efficient and final causes, where should these still arouse any interest? Even the former proofs of the existence of God are cited only for their historical interest or for purposes of edification and uplifting the emotions. The fact is that there no longer exists any interest either in the form or the content of metaphysics or in both together. If it is remarkable when a nation has become indifferent to its constitutional theory, to its national sentiments, its ethical customs and virtues, it is certainly no less remarkable when a nation loses its metaphysics, when the spirit which contemplates its own pure essence is no longer a present reality in the life of the nation.
+Before this, the study of metaphysics had been totally extirpated from being a science. 
+
+  <!-- from the ranks of the sciences.  -->
+
+This included:
+- ontology
+- rational psychology
+- cosmology
+- natural theology
+
+Examples are inquiries into:
+- the immateriality of the soul
+- efficient and final causes
+
+Even the former proofs of the existence of God are cited only for their historical interest or for uplifting the emotions.
+
+There is no longer any interest in metaphysics.
+
+It is remarkable that Germany has become indifferent to its:
+- constitutional theory
+- national sentiments
+- ethical customs and virtues
+
+But it is equally remarkable that it has lost its metaphysics, the spirit which contemplates its own pure essence.
+
+ <!-- is no longer a present reality in the life of the nation. -->
 
 § 3
 
-The exoteric teaching of the Kantian philosophy — that the understanding ought not to go beyond experience, else the cognitive faculty will become a theoretical reason which by itself generates nothing but fantasies of the brain — this was a justification from a philosophical quarter for the renunciation of speculative thought. In support of this popular teaching came the cry of modern educationists that the needs of the time demanded attention to immediate requirements, that just as experience was the primary factor for knowledge, so for skill in public and private life, practice and practical training generally were essential and alone necessary, theoretical insight being harmful even. Philosophy [Wissenschaft] and ordinary common sense thus co-operating to bring about the downfall of metaphysics, there was seen the strange spectacle of a cultured nation without metaphysics – like a temple richly ornamented in other respects but without a holy of holies. Theology, which in former times was the guardian of the speculative mysteries and of metaphysics (although this was subordinate to it) had given up this science in exchange for feelings, for what was popularly matter-of-fact, and for historical erudition. In keeping with this change, there vanished from the world those solitary souls who were sacrificed by their people and exiled from the world to the end that the eternal should be contemplated and served by lives devoted solely thereto — not for any practical gain but for the sake of blessedness; a disappearance which, in another context, can be regarded as essentially the same phenomenon as that previously mentioned. So that having got rid of the dark utterances of metaphysics, of the colourless communion of the spirit with itself, outer existence seemed to be transformed into the bright world of flowers – and there are no black flowers, as we know.
+Kantian philosophy led to the renunciation of speculative thought.
+
+Its popular exoteric teaching is that the understanding should not go beyond experience, otherwise the cognitive faculty will merely generate fantasies. 
+
+<!-- become a theoretical reason which by itself generates nothing but fantasies of the brain — this was a justification from a philosophical quarter for the   -->
+
+This was supported by the cry of modern academics that:
+- the current needs demanded attention to immediate requirements
+- experience was the primary factor for knowledge
+- skill in public and private life, practice and practical training were alone necessary
+- theoretical insight might even be harmful. 
+
+Philosophy and ordinary common sense thus cooperated to bring about the downfall of metaphysics
+
+
+A cultured nation without metaphysics is a strange spectacle like a temple richly ornamented but without a holy of holies. 
+
+Theology, which in former times was the guardian of the speculative mysteries and of metaphysics (although this was subordinate to it) had given up this science in exchange for feelings, for what was popularly matter-of-fact, and for historical erudition. 
+
+In keeping with this change, there vanished from the world those solitary souls who were sacrificed by their people and exiled from the world to the end that the eternal should be contemplated and served by lives devoted solely thereto — not for any practical gain but for the sake of blessedness; a disappearance which, in another context, can be regarded as essentially the same phenomenon as that previously mentioned. 
+
+So that having got rid of the dark utterances of metaphysics, of the colourless communion of the spirit with itself, outer existence seemed to be transformed into the bright world of flowers – and there are no black flowers, as we know.
+
 
 § 4
 
-Logic did not fare quite so badly as metaphysics. ®. That one learns from logic how to think (the usefulness of logic and hence its purpose, were held to consist in this — just as if one could only learn how to digest and move about by studying anatomy and physiology) this prejudice has long since vanished, and the spirit of practicality certainly did not intend for logic a better fate than was suffered by the sister science.
+Logic did not fare quite so badly as metaphysics. ®. 
+
+That one learns from logic how to think (the usefulness of logic and hence its purpose, were held to consist in this — just as if one could only learn how to digest and move about by studying anatomy and physiology) this prejudice has long since vanished, and the spirit of practicality certainly did not intend for logic a better fate than was suffered by the sister science.
+
 
 § 5
 
-Nevertheless, probably for the sake of a certain formal utility, it was still left a place among the sciences, and indeed was even retained as a subject of public instruction. However, this better lot concerns only the outer fate of logic, for its structure and contents have remained the same throughout a long inherited tradition, although in the course of being passed on the contents have become ever more diluted and attenuated; logic shows no traces so far of the new spirit which has arisen in the sciences no less than in the world of actuality. However, once the substantial form of the spirit has inwardly reconstituted itself, all attempts to preserve the forms of an earlier culture are utterly in vain; like withered leaves they are pushed off by the new buds already growing at their roots.
+Nevertheless, probably for the sake of a certain formal utility, it was still left a place among the sciences, and indeed was even retained as a subject of public instruction. 
+
+However, this better lot concerns only the outer fate of logic, for its structure and contents have remained the same throughout a long inherited tradition, although in the course of being passed on the contents have become ever more diluted and attenuated; logic shows no traces so far of the new spirit which has arisen in the sciences no less than in the world of actuality. However, once the substantial form of the spirit has inwardly reconstituted itself, all attempts to preserve the forms of an earlier culture are utterly in vain; like withered leaves they are pushed off by the new buds already growing at their roots.
 
 § 6
 
@@ -122,19 +176,34 @@ In the silent regions of thought which has come to itself and communes only with
 
 § 19
 
-'In so many respects', says Aristotle in the same context, 'the nature of man is in bondage; but this science, which is not studied for its utility, is the only absolutely free science and seems therefore to be a more than human possession.' Philosophical thinking in general is still concerned with concrete objects — God, nature, spirit; but logic is concerned only and solely with these thoughts as thoughts, in their complete abstraction. For this reason it is customary, to include logic in the curriculum of youth, for youth is not yet involved in the practical affairs of life, living at leisure so far as they are concerned; and it is only for its own subjective ends that it has to busy itself with acquiring the means to enable it to become actively engaged with the objects of those practical interests — and still theoretically even with these. Contrary to Aristotle's view just mentioned, the science of logic is included in these means; the study of logic is a preliminary labour to be carried out in school and it is not until later that the serious business of life and the pursuit of substantial ends begins.
+'In so many respects', says Aristotle in the same context, 'the nature of man is in bondage; but this science, which is not studied for its utility, is the only absolutely free science and seems therefore to be a more than human possession.' Philosophical thinking in general is still concerned with concrete objects — God, nature, spirit; but logic is concerned only and solely with these thoughts as thoughts, in their complete abstraction. 
+
+For this reason it is customary, to include logic in the curriculum of youth, for youth is not yet involved in the practical affairs of life, living at leisure so far as they are concerned; and it is only for its own subjective ends that it has to busy itself with acquiring the means to enable it to become actively engaged with the objects of those practical interests — and still theoretically even with these. 
+
+Contrary to Aristotle's view, the science of logic is included in these means. 
+
+The study of logic is a preliminary labour to be carried out in school and it is not until later that the serious business of life and the pursuit of substantial ends begins.
+
 
 § 20
 
-In life, the categories are used; from the honour of being contemplated for their own sakes they are degraded to the position where they serve in the creation and exchange of ideas involved in intellectual exercise on a living content. First they serve as abbreviations through their universality (for what a host of particulars of outer existence and actions is embraced by a conception — battle, war, nation, ocean or animal, for example — and in the conception of God or of love there is epitomised in the simplicity of such ideating an infinite host of ideas, actions, states, etc.!).
+In life, the categories are used; from the honour of being contemplated for their own sakes they are degraded to the position where they serve in the creation and exchange of ideas involved in intellectual exercise on a living content. 
 
-Secondly, the categories serve for the more exact determination and discovery of objective relations; but in this process the import and purpose, the correctness and truth of the thought involved, are made to depend entirely on the subject matter itself and the thought determinations are not themselves credited with any active part in determining the content. Such a use of categories, which above was called natural logic, is unconscious; and when in philosophical reflection the categories are assigned the role of serving as means, then thinking as such is treated as something subordinate to the other activities of mind. We do not indeed say of our feelings, impulses or interests that they serve us, rather do they count as independent forces and powers, so that to have this particular feeling, to desire this, is what we are.® But probably we are more conscious of obeying our feelings, impulses, passions, interests, not to mention habits, than of having them in our possession, still less, in view of our intimate union with them, of their being at our disposal. Such determinations of feeling and mind soon show themselves as particular in contrast to the universality which we are conscious ourselves of being and in which we have our freedom; and we are disposed to regard ourselves as caught up in these particular states and dominated by them.
+First they serve as abbreviations through their universality (for what a host of particulars of outer existence and actions is embraced by a conception — battle, war, nation, ocean or animal, for example — and in the conception of God or of love there is epitomised in the simplicity of such ideating an infinite host of ideas, actions, states, etc.!).
+
+Secondly, the categories serve for the more exact determination and discovery of objective relations; but in this process the import and purpose, the correctness and truth of the thought involved, are made to depend entirely on the subject matter itself and the thought determinations are not themselves credited with any active part in determining the content. 
+
+Such a use of categories, which above was called natural logic, is unconscious; and when in philosophical reflection the categories are assigned the role of serving as means, then thinking as such is treated as something subordinate to the other activities of mind. We do not indeed say of our feelings, impulses or interests that they serve us, rather do they count as independent forces and powers, so that to have this particular feeling, to desire this, is what we are.® 
+
+But probably we are more conscious of obeying our feelings, impulses, passions, interests, not to mention habits, than of having them in our possession, still less, in view of our intimate union with them, of their being at our disposal. Such determinations of feeling and mind soon show themselves as particular in contrast to the universality which we are conscious ourselves of being and in which we have our freedom; and we are disposed to regard ourselves as caught up in these particular states and dominated by them.
+
 
 § 21
 
 Consequently it is much more difficult to believe that the forms of thought which permeate all our ideas — whether these are purely theoretical or contain a matter belonging to feeling, impulse, will — are means for us, rather than that we serve them, that in fact they have us in their possession; what is there more in us as against them, how shall we, how shall I, set myself up as more universal than they, which are universal as such?
 
 When we give ourselves up to a sensation, a purpose, an interest, and in it feel ourselves confined and unfree, the place into which we can withdraw ourselves back into freedom is this region of self-certainty, of pure abstraction, of thought. Or again, to speak of things, we call the nature or the essence of things their notion, and this is only for thought; but still less shall we say of the notions of things that we dominate them, or that the determinations of thought of which they are the complex are at our service; on the contrary, it is our thinking that must accommodate itself to them and our caprice or freedom ought not to want to mould them to suit itself.
+
 
 § 22
 

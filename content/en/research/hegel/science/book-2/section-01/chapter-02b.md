@@ -95,9 +95,26 @@ Now as regards other confirmation of the absolute truth of the law of identity, 
 
 On the one hand, this appeal to experience, that the proposition is universally admitted by everyone, is a mere manner of speaking. For it is not pretended that the experiment with the abstract proposition A = A has been made on every consciousness. The appeal, then, to actually carried-out experiment is not to be taken seriously; it is only the assurance that if the experiment were made, the proposition would be universally admitted. But if what were meant were not the abstract proposition as such, but its concrete application from which the former were supposed first to be developed, then the assertion of its universality and immediacy would consist in the fact that every consciousness would treat it as fundamental, even in every utterance it made, or that it lies implicitly in every utterance. But the concrete and the application are, in fact, precisely the connection of the simple identical with a manifold that is different from it. Expressed as a proposition, the concrete would at first be a synthetic proposition. From the concrete itself or its synthetic proposition, abstraction could indeed extract by analysis the proposition of identity; but then, in fact, it would not have left experience as it is, but altered it; for the fact is that experience contains identity in unity with difference and is the immediate refutation of the assertion that abstract identity as such is something true, for the exact opposite, namely, identity only in union with difference, occurs in every experience.
 
+
 § 879
 
-On the other hand, the experiment with the pure law of identity is made only too often, and it is shown clearly enough in this experiment what is thought of the truth it contains. If, for example, to the question "What is a plant?" the answer is given "A plant is a plant", the truth of such a statement is at once admitted by the entire company on whom it is tested, and at the same time it is equally unanimously declared that the statement says nothing. If anyone opens his mouth and promises to state what God is, namely God is — God, expectation is cheated, for what was expected was a different determination; and if this statement is absolute truth, such absolute verbiage is very lightly esteemed; nothing will be held to be more boring and tedious than conversation which merely reiterates the same thing, or than such talk which yet is supposed to be truth.
+On the other hand, the experiment with the pure law of identity is made only too often, and it is shown clearly enough in this experiment what is thought of the truth it contains. 
+
+Ask: "What is a plant?"
+
+If the answer is "A plant is a plant" then the truth of such a statement is at once admitted by the entire company on whom it is tested.
+
+At the same time, it is equally unanimously declared that the statement says nothing. 
+
+Ask: "What is God?"
+
+If the answer is "God is God", then expectation is cheated. 
+
+ <!-- for what was expected was a different determination; and if this statement is absolute truth, such absolute verbiage is  -->
+
+Such as answer is very lightly esteemed. An answer that merely reiterates the same thing is most boring and tedious.
+
+
 
 § 880
 

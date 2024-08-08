@@ -1,16 +1,15 @@
 ---
-title: "Science of Logic"
+title: "General Notion of Logic"
 weight: 2
-description: "Science of Logic"
+description: "The science of logic begins with the subject matter itself, without preliminary reflections"
 image: /covers/science.png
 ---
 
 
-Highlighted text is Lenin's underlining. The ® access his annotations.
+<!-- Highlighted text is Lenin's underlining. The ® access his annotations.
 
-Introduction
+Introduction -->
 
-General Notion of Logic
 
 § 33
 
@@ -144,17 +143,45 @@ Thus pure science presupposes liberation from the opposition of consciousness. I
 
 § 53
 
-This objective thinking, then, is the content of pure science. Consequently, far from it being formal, far from it standing in need of a matter to constitute an actual and true cognition, it is its content alone which has absolute truth, or, if one still wanted to employ the word matter, it is the veritable matter — but a matter which is not external to the form, since this matter is rather pure thought and hence the absolute form itself. Accordingly, logic is to be understood as the system of pure reason, as the realm of pure thought. This realm is truth as it is without veil and in its own absolute nature. It can therefore be said that this content is the exposition of God as he is in his eternal essence before the creation of nature and a finite mind.
+This objective thinking, then, is the content of pure science.
+
+Consequently, far from it being formal, far from it standing in need of a matter to constitute an actual and true cognition, it is its content alone which has absolute truth, or, if one still wanted to employ the word matter, it is the veritable matter — but a matter which is not external to the form, since this matter is rather pure thought and hence the absolute form itself. 
+
+Accordingly, logic is the system of pure reason, the realm of pure thought.
+
+<!-- This realm is truth as it is without veil and in its own absolute nature. It can therefore be said that  -->
+
+This content is the exposition of God as he is in his eternal essence before the creation of nature and a finite mind.*
+
+{{< n n="Logic can go both ways: towards God or towards matter. The decider is the combination of feelings and samskaras." >}}
+
 
 § 54
 
-Anaxagoras is praised as the man who first declared that Nous, thought, is the principle of the world, that the essence of the world is to be defined as thought. In so doing he laid the foundation for an intellectual view of the universe, the pure form of which must be logic.
+Anaxagoras first declared that:
+- Nous, thought, is the principle of the world
+- the essence of the world is thought. 
+
+In so doing he laid the foundation for an intellectual view of the universe, the pure form of which must be logic.
 
 What we are dealing with in logic is not a thinking about something which exists independently as a base for our thinking and apart from it, nor forms which are supposed to provide mere signs or distinguishing marks of truth; on the contrary, the necessary forms and self-determinations of thought are the content and the ultimate truth itself.
 
+
+
 § 55
 
-To get some idea of this one must discard the prejudice that truth must be something tangible. Such tangibility is, for example, imported even into the Platonic Ideas which are in God's thinking, as if they are, as it were, existing things but in another world or region; while the world of actuality exists outside that region and has a substantial existence distinct from those Ideas and only through this distinction is a substantial reality. The Platonic Idea is the universal, or more definitely the Notion of an object; only in its Notion does something possess actuality and to the extent that it is distinct from its Notion it ceases to be actual and is a non-entity; the side of tangibility and sensuous self-externality belongs to this null aspect. But on the other side, one can appeal to the conceptions of ordinary logic itself; for it is assumed, for example, that the determinations contained in definitions do not belong only to the knower, but are determinations of the object, constituting its innermost essence and its very own nature. Or, if from given determinations others are inferred, it is assumed that what is inferred is not something external and alien to the object, but rather that it belongs to the object itself, that to the thought there is a correspondent being.
+To get some idea of this one must discard the prejudice that truth must be something tangible. 
+
+Such tangibility is, for example, imported even into the Platonic Ideas which are in God's thinking, as if they are, as it were, existing things but in another world or region; while the world of actuality exists outside that region and has a substantial existence distinct from those Ideas and only through this distinction is a substantial reality. 
+
+The Platonic Idea is the universal, or more definitely the Notion of an object. 
+
+Only in its Notion does something possess actuality and to the extent that it is distinct from its Notion it ceases to be actual and is a non-entity; the side of tangibility and sensuous self-externality belongs to this null aspect.
+
+But on the other side, one can appeal to the conceptions of ordinary logic itself; for it is assumed, for example, that the determinations contained in definitions do not belong only to the knower, but are determinations of the object, constituting its innermost essence and its very own nature. 
+
+Or, if from given determinations others are inferred, it is assumed that what is inferred is not something external and alien to the object, but rather that it belongs to the object itself, that to the thought there is a correspondent being.
+
 
 § 56
 

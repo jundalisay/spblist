@@ -11,12 +11,12 @@ icon: "/icons/descartes.png"
 ---
 
 
-{{< b >}}
+{{< dc >}}
 Cartesian Principles | Assertions
 --- | ---
 Conversion from Aether to Matter | Aether becomes Spacetime then becomes Electromagnetism
 . | The Sizes of Spacetime Particles Depend on their Location
-{{< /b >}}
+{{< /dc >}}
 
 
 ## Spacetime Becomes Electromagnetism

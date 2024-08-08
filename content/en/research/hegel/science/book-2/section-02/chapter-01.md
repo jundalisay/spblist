@@ -151,13 +151,23 @@ This makes itself apparent in all natural, scientific and spiritual development 
 
 Thus — to take at once the nearest example — the essential relation here considered is only implicitly [an sich] the relation, only its Notion, or is at first only internal, before it has moved through the mediation of the relation of force and has realised itself. But for this reason it is only the outer, immediate relation, the relation of whole and parts, in which the sides have a mutually indifferent subsistence.
 
-Their identity is not as yet within themselves; it is only internal and the sides therefore fall apart, have an immediate, external subsistence. Thus the sphere of being as such is as yet still the completely inner and is therefore the sphere of simply affirmative [seienden] immediacy or externality. Essence is at first only the inner, and it, too, is for this reason taken as a wholly external, unsystematised, common element; one speaks of public instruction, the press [Schulwesen, Zeitungswesen], and understands thereby something common formed by an external aggregation of existing objects lacking any essential connection or organisation; or to take concrete objects, the seed of the plant, or the child, is at first only inner plant, internal man. But this is why the plant or the man as germ is an immediate, and outer, which has not as yet given itself the negative reference to itself, is something passive, a prey to otherness. Thus God, too, in his immediate Notion is not spirit; spirit is not the immediate, that which is opposed to mediation, but on the contrary is the essence that eternally posits its immediacy and eternally returns out of it into itself.
+Their identity is not as yet within themselves; it is only internal and the sides therefore fall apart, have an immediate, external subsistence. 
 
-Immediately, therefore God is only nature. Or, nature is only the Inner God, not God actual as spirit, and therefore not truly God. Or, in our thinking, our first thinking, God is only pure being, or even essence, the abstract absolute, but not God as absolute spirit, which alone is the true nature of God.
+Thus the sphere of being as such is as yet still the completely inner and is therefore the sphere of simply affirmative [seienden] immediacy or externality. Essence is at first only the inner, and it, too, is for this reason taken as a wholly external, unsystematised, common element; one speaks of public instruction, the press [Schulwesen, Zeitungswesen], and understands thereby something common formed by an external aggregation of existing objects lacking any essential connection or organisation; or to take concrete objects, the seed of the plant, or the child, is at first only inner plant, internal man. But this is why the plant or the man as germ is an immediate, and outer, which has not as yet given itself the negative reference to itself, is something passive, a prey to otherness. 
 
-Transition to Actuality
+Thus God, too, in his immediate Notion is not spirit.
 
-Section Three: Actuality
+Spirit is not the immediate, that which is opposed to mediation, but on the contrary is the essence that eternally posits its immediacy and eternally returns out of it into itself.
+
+Immediately, therefore God is only nature. 
+
+Or, nature is only the Inner God, not God actual as spirit, and therefore not truly God. 
+
+Or, in our thinking, our first thinking, God is only pure being, or even essence, the abstract absolute, but not God as absolute spirit, which alone is the true nature of God.
+
+<!-- Transition to Actuality -->
+
+### Section Three: Actuality
 
 § 1158
 
