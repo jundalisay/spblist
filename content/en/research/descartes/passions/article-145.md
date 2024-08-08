@@ -112,7 +112,7 @@ When we exercise to distinguish in this way between Fate and Fortune, we can eas
 
 ### 147. The Inner Emotions of the Soul
 
-I will add here only one more consideration, which seems to me to serve greatly in preventing us from receiving any discomfort from Passions; 
+<!-- I will add here only one more consideration, which seems to me to serve greatly in preventing us from receiving any discomfort from Passions;  -->
 
 Our good and our evil principally depends on the inner emotions which are aroused in the soul only by the soul itself.
 

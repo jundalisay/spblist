@@ -2,7 +2,7 @@
 heading: Chapter 8f
 title: "The Justice System"
 image: "/covers/politics.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "With regard to the number of judges, however, a consideration of this kind of constitution does not demand any special figure"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza

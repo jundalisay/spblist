@@ -2,7 +2,7 @@
 heading: Chapter 8d
 title: "The Supreme Council and Syndics"
 image: "/covers/politics.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "To ensure that all patricians stand on equal terms in making decisions and in electing ministers of state"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
@@ -10,7 +10,7 @@ weight: 32
 ---
 
 
-[27] To ensure that all patricians stand on equal terms'6 in making decisions and in electing ministers of state and that all business is speedily dispatched, the system observed by the Venetians deserves our full approval. 
+[27] To ensure that all patricians stand on equal terms in making decisions and in electing ministers of state and that all business is speedily dispatched, the system observed by the Venetians deserves our full approval. 
 
 To nominate ministers of state, they appoint some members of the council by 10�37 and when these have nominated in due order the candidates for office, every patrician votes for or against the candidate by secret ballot, with the result that it is not known thereafter who voted one way or the other. 
 
@@ -90,7 +90,9 @@ It may be objected that by this arrangement, i.e., the assigning of such conside
 
 But royal courts require greater expenditure, which does nothing, however, to safeguard peace, and peace cannot be purchased at too high a price; apart from which there are the following considerations. 
 
-First, everything that in a monarchy is conferred on one man or a few men is here conferred on a great number. Next, kings and their ministers do not bear the burdens of the state in company with their subjects, whereas here the reverse is true; for the patricians, who are always chosen from the wealthier classes, make the greatest contribution to
+First, everything that in a monarchy is conferred on one man or a few men is here conferred on a great number. 
+
+Next, kings and their ministers do not bear the burdens of the state in company with their subjects, whereas here the reverse is true; for the patricians, who are always chosen from the wealthier classes, make the greatest contribution to
 the commonwealth. 
 
 Finally, the burdens of monarchy arise not so much from royal expenditure as from its secret policy. For however great may be the state burdens imposed on its citizens for the sake of safeguarding peace and freedom, yet
@@ -98,13 +100,14 @@ they are borne and endured for the benefits of peace.
 
 What nation ever had to pay such heavy taxes as the Dutch? 
 
-Yet45 this nation, so far from being exhausted, has become so prosperous as to be the envy of all. So ifthe burdens of monarchy were imposed for the sake of peace, citizens would not find them oppressive. But as I said, it is because of the secret policy of this kind of government that subjects sink beneath their burden ; that is to say, it is because the worth of kings counts for more in war than in peace, and because those who wish to reign alone must do their best to keep their subjects in a state of poverty.46 
+Yet they, so far from being exhausted, has become so prosperous as to be the envy of all.
+
+So if the burdens of monarchy were imposed for the sake of peace, citizens would not find them oppressive. But as I said, it is because of the secret policy of this kind of government that subjects sink beneath their burden. 
+
+It is because the worth of kings counts for more in war than in peace, and because those who wish to reign alone must do their best to keep their subjects in a state of poverty.46 
 
 I here omit other points noted some time ago by that wise Dutchman V. H.47 because they are irrelevant to my purpose, which is merely to describe the optimum of each kind of state.
 
 <!-- 44 [Members oftbe Netberlands CounCil of State were forbidden to engage 10 the prOVISion of military stores, lest they should make profit from war J
 4
 S [I read Atqui for Atque -S S 1  -->
-
-
-

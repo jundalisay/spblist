@@ -125,12 +125,12 @@ Therefore, from an early age we have often judged those motions, which are thus 
 
  <!-- And now we are inclined to believe that about everything, which we seem to have experienced in many cases; namely,  Which indeed -->
 
- But this is most contrary to the laws of nature. This is because:
+<!--  But this is most contrary to the laws of nature. This is because:
  - rest is contrary to motion
  - nothing can be naturally drawn towards its own contrary or destruction.
 
 
-#### 38. The motion of projectiles
+#### 38. The motion of projectiles -->
 
 <!-- And finally, I added that this translation is made from the vicinity, XXIX. not of any contiguous bodies, but of those only which are regarded as being at rest. 
 
@@ -138,7 +138,7 @@ And translation itself is a reciprocal motion, nor can it be understood that a b
 
 <!-- And indeed daily experience in what is projected confirms our rule completely.  -->
 
-This is proven by the fact that projectiles continue in motion after they have been separated by the throwing hand. 
+<!-- This is proven by the fact that projectiles continue in motion after they have been separated by the throwing hand. 
 
 This is because, once set in motion, they continue to move, until they are slowed down by the objects they encounter. 
 
@@ -147,3 +147,4 @@ They are usually slowed down by the air, or by any other fluid bodies in which t
 This is because the air resists the motions of other bodies. We can experience this by the very sense of touch, if we strike the fan itself; and the same confirms the flight of birds. 
 
 And there is no other liquid which resists the motions of the projections, which is not as yet manifest as air.
+ -->

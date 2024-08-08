@@ -34,17 +34,16 @@ knows the latter also as contingent and is quite ignorant as to whether they exi
 
 Finally, others have said that God knows contingent things from their relation to other things, perhaps because of his long experience. Besides these errors I could here mention others of this kind, did I not consider it to be superfluous, because from what has already been said their falsity makes itself apparent. 
 
-[The object or God's knowledge is God himself ] Let us therefore return to our theme, that outside God there is no object of his knowledge, but he is himselfthe object ofhis knowledge, or rather, he is his own knowledge. Those who think that
-the world is also the object of God's knowledge are much less discerning than
-those who would maintain that a building constructed by some distinguished architect is the object of the architect's knowledge. For the builder is forced to seek
+[The object or God's knowledge is God himself ] Let us therefore return to our theme, that outside God there is no object of his knowledge, but he is himselfthe object ofhis knowledge, or rather, he is his own knowledge. Those who think that the world is also the object of God's knowledge are much less discerning than
+those who would maintain that a building constructed by some distinguished architect is the object of the architect's knowledge. 
+
+For the builder is forced to seek
 suitable material outside himself as well, whereas God has not sought any material outside himself. Things have been constructed by his intellect or will, both with regard to their essence and their existence.
 
-[How God knows sin, entities or reason, etc.] The question now arises as to whether God knows evil or sin, entities of reason, and things of that kind. We reand his power, it follows quite clearly that the essences of things and the necessity of thetr eXistIng
-from a given cause IS nothing other than God's deterIIDnate will or decree. Therefore God's will is
-most apparent to us when we conceive things clearly and dtsttnctly. So It IS ndiculous that phtlosophers, when they are ignorant of the causes of things, take refuge in the Will of God. We constantly see thiS happening when they say that the thmgs whose causes are unknown to them have come about only from God's good pleasure and absolute decree. The common people, too, have found
-no stronger proof of God's providence and guidance than that WhiCh they draw from their ignorance
-of causes. This clearly shows that they have no knowledge whatever of the nature of God's will, at·
-tributing to him a human will that is truly quite dIStinct from our mtellect. This I conSider to have
+Does God know evil or sin, entities of reason, and things of that kind?
+
+We regard to his power, it follows quite clearly that the essences of things and the necessity of thetr eXistIng from a given cause IS nothing other than God's deterIIDnate will or decree. Therefore God's will is
+most apparent to us when we conceive things clearly and dtsttnctly. So It IS ndiculous that phtlosophers, when they are ignorant of the causes of things, take refuge in the Will of God. We constantly see thiS happening when they say that the thmgs whose causes are unknown to them have come about only from God's good pleasure and absolute decree. The common people, too, have found no stronger proof of God's providence and guidance than that WhiCh they draw from their ignorance of causes. This clearly shows that they have no knowledge whatever of the nature of God's will, attributing to him a human will that is truly quite dIStinct from our mtellect. This I conSider to have
 been the basic cause ofsuperstttion, and perhaps of rrruch roguery - P.B.] 
 Appendix Containing Metaphysical Thoughts, Part 2, Chapter 7 199
 ply that God must necessarily know those things of which he is the cause, especially so because they cannot exist even for a moment except with the divine concurrence. Therefore, because evil and sin have no being in things but only in the
@@ -57,7 +56,9 @@ what he understands.
 And if only proper attention is given to these few points we have made, no problem can arise concerning God's intellect that cannot quite
 easily be solved.
 
-[How God knows particular things, and how universals. ] But meanwhile we must not pass over the error made by certain people who maintain that God knows nothing but eternal things such as angels and the heavens, which they suppose to
+[How God knows particular things, and how universals. ]
+
+But meanwhile we must not pass over the error made by certain people who maintain that God knows nothing but eternal things such as angels and the heavens, which they suppose to
 be by their own nature not subject to generation and corruption, but that of th is
 world he knows nothing but species, these being likewise not subject to generation and corruption. Such people do indeed seem set on going astray, contriving
 utter absurdities. For what can be more absurd than to cut off God's knowledge

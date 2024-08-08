@@ -7,24 +7,43 @@ image: "/covers/fragments.png"
 ---
 
 
+Of animals, some are the recipients of felicity. But others are incapable of receiving it. 
 
-Of animals, some are the recipients of felicity, but others are incapable of receiving it. 
+The animals that have reason are receptive of it. This is because felicity cannot subsist without virtue. 
+- Virtue is first ingenerated in that which possesses reason.
 
-Those animals are receptive of it that have reason. For felicity cannot subsist without virtue; and virtue is first ingenerated in that which possesses reason.
+But those animals destitute of reason are incapable of receiving felicity. 
 
-But those animals are incapable of receiving felicity, that are destitute of reason. For neither can that which is deprived of sight, receive the work or the virtue of sight; nor can that which is destitute of reason, be the recipient of the work, or the virtue of that which possesses reason. 
+A blind animal cannot receive the effect or virtue of sight. 
+
+Likewise, an animal destitute of reason cannot receive the effect or the virtue of that which possesses reason. 
 
 With respect to felicity, however, and virtue, the former is as a work, but the latter as a certain art, to that which possesses reason.
 
-But of animals which possess reason, some are self-perfect, and these are such as are perfect through themselves, and are indigent of nothing external, either to their existence, or to their existing well and beautifully. And such, indeed, is God. 
+Some animals which possess reason are self-perfect. 
 
-Those animals, however, are not self-perfect, which are not perfect through themselves, but are in want of external causes to their perfection. And man is an animal of this kind. 
+These are such as are perfect through themselves, and are indigent of nothing external, either to their existence, or to their existing well and beautifully. 
 
-Of animals, therefore, which are not self-perfect, some indeed are perfect, but others are not perfect. And those indeed are perfect which derive their subsistence both from their own [proper] causes, and from external causes. And they derive it indeed from their own causes, because they obtain from thence both an excellent nature and deliberate choice; but from external causes, because they receive from thence equitable legislation and good rulers. 
+Such is God. 
 
-But the animals which are not perfect, are either such as participate of neither of these, or of some one of these, or whose souls are entirely depraved. And such will the man be who is of a description different from the above.
+The non self-perfect animals are those who are not perfect through themselves. They need external causes to their perfection. And man is an animal of this kind. 
 
-Moreover, of perfect men there are two differences. For some of them are naturally perfect; but others are perfect according to life. And those indeed alone that are good, are naturally perfect. But these are such as possess virtue. For the virtue of the nature of every thing is a summit and perfection. Thus the virtue of the eye is the summit 197 and perfection of the nature of the eye. 
+Of animals, therefore, which are not self-perfect, some indeed are perfect, but others are not perfect.
+
+Those indeed are perfect which derive their subsistence both from their own [proper] causes, and from external causes. And they derive it indeed from their own causes, because they obtain from thence both an excellent nature and deliberate choice; but from external causes, because they receive from thence equitable legislation and good rulers. 
+
+But the animals which are not perfect, are either such as participate of neither of these, or of some one of these, or whose souls are entirely depraved. 
+
+Such will the man be who is of a description different from the above.
+
+There are 2 differences between of perfect men:
+
+1. Some of them are naturally perfect
+2. Others are perfect according to life
+
+Those alone that are good, are naturally perfect. 
+
+But these are such as possess virtue. For the virtue of the nature of every thing is a summit and perfection. Thus the virtue of the eye is the summit and perfection of the nature of the eye. 
 
 But the virtue of man is the summit and perfection of the nature of man. Those also are perfect according to life, who are not only good, but happy. For felicity, indeed, is the perfection of human life. 
 
@@ -58,7 +77,9 @@ But it is necessary that the disposition should be either worthy or depraved; an
 
 A worthy disposition participates of virtue, but a bad one of vice. 
 
-With respect to actions, also, those that are prosperous are attended with felicity; (for they derive their completion through looking to reason) but those that are unfortunate, are attended with misery; for they are frustrated of the end. Hence, it is not only necessary to learn virtue, but also to possess and use it, either for security, or increase, [of property when it is too little] or, which is the greatest thing of all, for the emendation of families and cities. 
+With respect to actions, also, those that are prosperous are attended with felicity; (for they derive their completion through looking to reason) but those that are unfortunate, are attended with misery; for they are frustrated of the end. 
+
+Hence, it is not only necessary to learn virtue, but also to possess and use it, either for security, or increase, [of property when it is too little] or, which is the greatest thing of all, for the emendation of families and cities. 
 
 For it is not only necessary to have the possession of things beautiful, but also the use of them. All these things, however, will take place, when a man lives in a city that uses equitable laws. 
 
@@ -70,7 +91,9 @@ For this comprehends in itself virtue, and the tendency to virtue; because excel
 
 So that it is necessary that he who is to be happy, and whose life is to be prosperous, should live and die in a country governed by equitable laws, relinquishing all illegality. At the same time what has been said is attended with necessity. 
 
-For man is a part of society, and hence from the same reasoning, will become entire and perfect, if he not only associates with others, but associates in a becoming manner. For some things are naturally adapted to subsist in many things, and not in one thing; others in one thing, and not in many; but others both in many, and in one thing, and on this account in one thing, because in many. For harmony, indeed, and symphony and number, are naturally adapted to be ingenerated in many things.
+For man is a part of society, and hence from the same reasoning, will become entire and perfect, if he not only associates with others, but associates in a becoming manner. 
+
+For some things are naturally adapted to subsist in many things, and not in one thing; others in one thing, and not in many; but others both in many, and in one thing, and on this account in one thing, because in many. For harmony, indeed, and symphony and number, are naturally adapted to be ingenerated in many things.
 
 For nothing which makes a whole from these parts, is sufficient to itself.[57] But acuteness of seeing and hearing, and swiftness of feet, subsist in one thing alone. 
 

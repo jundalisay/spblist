@@ -11,11 +11,11 @@ weight: 8
 
 
 
-[What is Eternity, Duration, and Time.] 
+### What is Eternity, Duration, and Time?
 
-From our previous division of being into being whose essence involves existence and being whose essence involves only
-possible existence, there arises the distinction between eternity and duration. Of
-eternity we shall speak later at greater length. Here we say only that it is the attribute under which we conceive the infinite existence of God. 
+From our previous division of being into being whose essence involves existence and being whose essence involves only possible existence, there arises the distinction between eternity and duration. 
+
+Of eternity we shall speak later at greater length. Here we say only that it is the attribute under which we conceive the infinite existence of God. 
 
 Duration is the attribute under which we conceive the existence of created things, insofar as they
 persevere in their actuality. From this it clearly follows that duration is distinguished only by reason from the total existence ofa thing. 
@@ -23,18 +23,11 @@ persevere in their actuality. From this it clearly follows that duration is dist
 For as much as you take away from the duration of a thing, so much you necessarily take away from its existence. Now in order that duration may be determined, we compare it with the decree IS understood only when we conceive the thmg clearly and distinctly. For the essence of
 the thmg, considered In rtself. 
 
-is nothmg other than God's decree, or his deternnnate wIll. But we
-are ruso saying that the necessity of eXistence is no different from the necessity of essence (Chapter
-9 of Part 2); that is, when we say that God has decreed that the triangle should exist, we are saying
-nothing other than that God has so arranged the order of nature and of causes that the triangle
-should necessarily eXISt at a particular time. So if we were to understand the order of causes as established by God, we should fmd that the triangle nrust exist at a particular time with the same ne�
-Cesslty as we now fmd, when we attend to the triangle's nature, that its three angles are equal to two
-nght angles - P.B I 
-186 Principles of Cartesian Philosophy
-duration of other things that have a fixed and determinate motion, and this comparison is called time. Therefore time is not an affection of things, but a mere
-mode of thinking, or, as we have previously called it, a being of reason; for it is a
-mode of thinking serving to explicate duration. Here with regard to duration we
-should note something that will be useful to us later when we speak about eternity, to wit, that it is conceived as longer and shorter and as if composed of parts,
+is nothmg other than God's decree, or his deternnnate wIll. But we are also saying that the necessity of existence is no different from the necessity of essence (Chapter 9 of Part 2); that is, when we say that God has decreed that the triangle should exist, we are saying nothing other than that God has so arranged the order of nature and of causes that the triangle should necessarily eXISt at a particular time. So if we were to understand the order of causes as established by God, we should fmd that the triangle nrust exist at a particular time with the same necessity as we now fmd, when we attend to the triangle's nature, that its three angles are equal to two nght angles -
+
+duration of other things that have a fixed and determinate motion, and this comparison is called time. 
+
+Therefore time is not an affection of things, but a mere mode of thinking, or, as we have previously called it, a being of reason; for it is a mode of thinking serving to explicate duration. Here with regard to duration we should note something that will be useful to us later when we speak about eternity, to wit, that it is conceived as longer and shorter and as if composed of parts,
 and, secondly, that it is an attribute of existence only, not of essence.
 
 
@@ -56,12 +49,9 @@ terms commonly called transcendental.
 
 These terms are considered by almost all metaphysicians as the most general affections of being; for they say that every being is one, true and good even though this may not be in anyone's thought. But we shall see what is to be understood regarding these terms when we examine each of them separately.
 
-[What Unity is. ] Let us begin, then, with the first, to wi� the one. They say that
-this term signifies something real outside the intellect. But they cannot explain
-what this adds to being, and this is a clear indication that they are confusing beings
-of reason with real being and are thereby rendering confused that which they
-clearly understand. But we on our part say that unity is in no way distinct from the
-thing itself or additional to being and is merely a mode ofthinking whereby we separate a thing from other things that are similar to it or agree with it in some respect.
+### What is Unity is?
+
+The term "one" signifies something real outside the intellect. But they cannot explain what this adds to being, and this is a clear indication that they are confusing beings of reason with real being and are thereby rendering confused that which they clearly understand. But we on our part say that unity is in no way distinct from the thing itself or additional to being and is merely a mode ofthinking whereby we separate a thing from other things that are similar to it or agree with it in some respect.
 
 [What plurality is, and in what respect God can be called one, and in what respect unique. ] The opposite of unity is plurality, which likewise obviously adds nothing to things, nor is it anything but a mode of thinking, just as we clearly and
 distinctly understand. 
@@ -71,6 +61,7 @@ wished to look into the matter more rigorously, we might perhaps show that God
 is only improperly called one and unique. But this question is of little importance- indeed, it is of no importance- to those who are concerned with thing.
 rather than words. Therefore we leave this and pass on to the second term, at the
 same time explaining what the false is.
+
 [What is the true and what the false, both in the common acceptance and according to philosophers.] In order that these two, the true and the false, may be
 correctly perceived, we shall begin with the meaning of words, from which it will
 be evident that these are only the extrinsic marks of thing., and it is only figuratively that they are attributed to things. But because it is the common people who
@@ -112,13 +103,14 @@ good, which are not good for all. Thus salvation is good for men, but neither go
 nor bad for animals or plants, for which it has no relevance. God indeed is said to
 be supremely good because he benefits all, by his concurrence preserving the being of each individual, than which nothing is more desirable. But no absolute evil
 exists, as is self-evident.
-[Why some have maintained that there is a metaphysical good. ] But those who
-keep seeking some metaphysical good not qualified by any relation are laboring under a misapprehension, in that they are confusing a distinction of reason with a real
-or modal distinction. 
 
-For they are making a distinction between the thing itself and
-the conatus [striving] to preserve its own being, which every thing possesses, although they do not know what they mean by conatus. For although the thing and its conatus are distinguished by reason, or rather, by words (and this is the main
+[Why some have maintained that there is a metaphysical good. ] 
+
+But those who keep seeking some metaphysical good not qualified by any relation are laboring under a misapprehension, in that they are confusing a distinction of reason with a real or modal distinction. 
+
+For they are making a distinction between the thing itself and the conatus [striving] to preserve its own being, which every thing possesses, although they do not know what they mean by conatus. For although the thing and its conatus are distinguished by reason, or rather, by words (and this is the main
 cause of their error), the two are in no way distinct from one another in reality.
+
 [The distinction between things and the conatus by which they endeavor to persevere in their state.] That this may be clearly understood, we shall take an example of a very simple kind. Motion has force to persevere in its own state. Th is force
 is surely nothing else than motion itself, the fact that the nature of motion is such
 as it is. For if! say that in this body A there is nothing else than a certain quantity

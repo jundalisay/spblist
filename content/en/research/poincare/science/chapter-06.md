@@ -11,7 +11,6 @@ icon: /avatars/poincare.png
 
 ## PART 3: FORCE
 
-
 The English teach mechanics as an experimental science. Here on the Continent, it is taught always as a deductive and à priori science. 
 
 The English are right. 
@@ -169,7 +168,4 @@ inertia). We know that by introducing 3n variable auxiliaries, a system of 3n eq
 
 If, then, we suppose that the 3n auxiliary variables represent the co-ordinates of n invisible molecules, the result is again conformable to the law of inertia. 
 
-To sum up, this law, verified experimentally in some particular cases, may be extended fearlessly to the most general cases; for we know that in these general cases it can nei-
-ther be confirmed nor contradicted by experiment.
-
-
+To sum up, this law, verified experimentally in some particular cases, may be extended fearlessly to the most general cases; for we know that in these general cases it can neither be confirmed nor contradicted by experiment.

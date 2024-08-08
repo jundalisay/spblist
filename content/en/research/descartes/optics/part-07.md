@@ -16,17 +16,56 @@ How do we perfect our vision?
 
 This can be done through 3 principal parts:
 
-1. The objects
-2. The internal organs which receive the actions of these objects
-3. The external ones which dispose these actions to be received as they should.
+### 1. The objects
 
-And, touching the objects, it suffices to know that some are close or accessible, and others distant and inaccessible, and with that some more, others less illuminated; so that we may be aware that, as regards the accessible, we can bring them nearer or further away, and increase or diminish the light which illuminates them, according to what is most convenient to us; but that, as far as the others are concerned, we cannot change a thing. 
+Some objects are close or accessible. Others are distant and inaccessible.
 
-Then, touching the interior organs, which are the nerves and the brain, it is also certain that we could not add anything by art to their fabric, because we could not make a new body for ourselves; and if physicians can help in any way, that does not belong to our subject. So that it only remains for us to consider the external organs, between which I include all the transparent parts of the eye as well as all the other bodies that can be placed between it and the object; and I find that all the things which it is necessary to provide with these external organs can be reduced to four points, the first of which is, that all the rays which go to each of the ends of the optic nerve do not come, as far as it is possible, that of the same part of the object, and that they receive no change in the space which is between two; for, without this, the images which they form could neither be very similar to their original nor very distinct. The second, that these images are very large, not in extent of place, because they can only occupy the little space which is at the bottom of the eye, but in the extent of their lineaments or their features , because it is certain that they will be all the more easy to discern as they are taller. The third, that the rays which form them are strong enough to move the little filaments of the optic nerve, and by this means be felt, but that they are not so much that they injure the sight. And the fourth, that there are as many objects as possible whose images are formed in the eye at the same time, so that we can see as many of them as possible all at once. seen.
+Some are illuminated, others less. 
 
-Now nature has employed several means to provide for the first of these things; for first, by filling the eye with very transparent liquors which are not tinged with any color, it has caused the actions which come from without to pass to the bottom without changing; and by the refractions caused by the surfaces of these liquors it caused that between the rays, according to which these actions are conducted, those which come from the same point gather together in the same point against the nerve, and then that those which come from the other points also gather there in as many other various points as exactly as possible: for we must suppose that nature has done in this all that is possible, especially since experience does not makes us see nothing in it, on the contrary.
+We can approach or move away from accessible objects and increase or decrease the light that illuminates them.
 
-In order to lessen the defect which cannot in this case be entirely avoided, she has made it possible to shrink the pupil almost as much as the strength of the light permits; then, by the black color with which she dyed all the parts of the eye opposite the nerve, which are not transparent, she prevented any other ray from going towards these same points; and, finally, by changing the shape of the body of the eye, it has caused that, although the objects may be more or less distant from it once the other, the rays which come from each of their points do not never fail to always assemble, as exactly as possible, at as many other points at the back of the eye. However, it has not so completely provided for this last part that there is not yet something to add to it: for, besides the fact that, commonly to all, it has not given us the means of curving so much the surfaces of our eyes that we can distinctly see objects that are very close to them, as if at a finger or half a finger distance, it has failed even more in some to whom it has made eyes of such a shape that they can only serve them to look at distant things, which happens mainly to old people; and also in a few others to whom, on the contrary, she has made them such that they only serve them to look at close things, which is more usual for young people; so that it seems that the eyes form at first a little longer and narrower than they ought to be, and that afterwards, as one grows older, they become flatter and wider. 
+But we cannot do this for remote objects. 
+
+
+### 2. The internal organs which receive the actions of these objects
+
+We cannot add anything by art to the structure of the nerves and the brain because we cannot make a new body.
+
+
+### 3. The external ones which dispose these actions to be received as they should.
+
+The external organs for sight include:
+- all the transparent parts of the eye 
+- all the other bodies that can be placed between it and the object.
+
+All the things of note with these external organs can be reduced to 4 points.
+
+1. All the rays which go to each of the ends of the optic nerve do not come from only 1 part of the object.
+
+They do not undergo any change in the space between the two.
+
+Without this, the images they form could not be either very similar to their original or very distinct.
+
+2. These images are very large in the extent of their lines or their features
+
+They will be all the easier to discern the larger they are. 
+
+3. The rays that form them are strong enough to move the small fibers of the optic nerve
+
+This makes them felt, but not so strong as to injure the sight.
+
+4. There are as many objects as possible whose images are formed in the eye at the same time
+
+As many as possible can be seen at a single glance.
+
+
+Nature has filled the eye with very transparent liquors which are not tinged with any color, it has caused the actions which come from without to pass to the bottom without changing; 
+
+By the refractions caused by the surfaces of these liquors it caused that between the rays, according to which these actions are conducted, those which come from the same point gather together in the same point against the nerve, and then that those which come from the other points also gather there in as many other various points as exactly as possible: for we must suppose that nature has done in this all that is possible, especially since experience does not makes us see nothing in it, on the contrary.
+
+In order to lessen the defect which cannot in this case be entirely avoided, she has made it possible to shrink the pupil almost as much as the strength of the light permits; then, by the black color with which she dyed all the parts of the eye opposite the nerve, which are not transparent, she prevented any other ray from going towards these same points;
+
+By changing the shape of the body of the eye, it has caused that, although the objects may be more or less distant from it once the other, the rays which come from each of their points do not never fail to always assemble, as exactly as possible, at as many other points at the back of the eye. However, it has not so completely provided for this last part that there is not yet something to add to it: for, besides the fact that, commonly to all, it has not given us the means of curving so much the surfaces of our eyes that we can distinctly see objects that are very close to them, as if at a finger or half a finger distance, it has failed even more in some to whom it has made eyes of such a shape that they can only serve them to look at distant things, which happens mainly to old people; and also in a few others to whom, on the contrary, she has made them such that they only serve them to look at close things, which is more usual for young people; so that it seems that the eyes form at first a little longer and narrower than they ought to be, and that afterwards, as one grows older, they become flatter and wider. 
 
 In order that we may remedy these defects by art, it will first be necessary for us to seek the shapes which the surfaces of a piece of glass or of some other transparent body must have in order to bend the rays which fall on it in such a way that all those which come from a certain point of the object arrange themselves, by crossing them, just as if they had come from another point which was nearer or more distant, namely, which was nearer to serve those who are short-sighted, and which was further away both for old people and generally for all those who want to see objects closer than the shape of their eyes allows. For, for example, the eye B or C[28], being disposed to cause all the rays which come from the point H or I to assemble in the middle of its background;
 
@@ -87,5 +126,3 @@ For the rest, so that I do not omit anything here, I still have to warn you that
 
 
 ---
-
-

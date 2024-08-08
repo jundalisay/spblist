@@ -41,14 +41,37 @@ The vertical force remains unchanged because the fabric does not oppose it in th
 {{< img src="/graphics/physics/tennis.jpg" alt="Tennis Figure 5" >}}
 
 Circle `AFD` has its center at `B`. It has 3 straight lines `AC`, `HB`, `FE` perpendicular to `CBE`.
-- The distance between `AC` and `HB` is the same as that between `HB` and `FE`. 
+- The distance between `AC` and `HB` is half as that between `HB` and `FE`. 
 
-, in such a way that the distance between FE and HB is twice as much as between HB and AC, we will see that the ball must tend towards point I. 
+We will see that the ball must tend towards point `I`. 
 
-Since it loses half of its velocity while crossing the fabric CBE, it must take twice as much time to pass below from B to some point on the circumference of the circle AFD as it took to come from A to B above.
+This is because it loses half its speed in crossing the canvas `CBE`. And so it must take twice as long to pass below, from `B` to some point on the circumference of the circle `AFD`, as it took it to come from `A` to `B` above.
+
+It does not change its rightward motion.
+
+And so in twice the time it took to pass from the line AC to HB, it must make twice as much progress towards that same side. 
+
+Consequently, it would arrive at some point on the straight line `FE`, at the same instant that it also arrives at some point on the circumference of the circle `AFD`. 
+
+It must go to `I` since that is the only point below the canvas `CBE` where the circle `AFD` and the straight line `FE` intersect.
+
+Let us now imagine that the ball, coming from `A` towards `D`, meets at point `B` water. Its surface `CBE` takes away exactly half of its speed, just as that canvas did.
+
+This ball must pass from `B` in a straight line, towards `I`. 
+
+This is because the water's surface must turn it towards there in the same way as the canvas, since it takes away just as much of its force, and is opposed to it in the same direction.
+
+The rest of the water that fills the space from `B` to `I` resists it more than the air. 
+
+<!-- But the water can also move from one side or the other.  -->
+
+ <!-- we previously assumed, that does not mean it should deviate it more or less: for it can open up to let it pass just as easily towards one side as towards the other, at least if we always assume, as we do, that neither the weight or lightness of this ball, nor its size, nor its shape, nor any other such foreign cause changes its course. -->
 
 
-Since it doesn't lose any of the determination it had to advance towards the right side, in twice the amount of time it took to pass from line AC to HB, it must cover twice the distance towards the same side and consequently reach some point on the straight line FE at the same moment it also reaches some point on the circumference of the circle AFD. 
+Since it loses half of its velocity while crossing the fabric `CBE`, it must take twice as much time to pass below from B to some point on the circumference of the circle `AFD` as it took to come from `A` to `B` above.
+
+
+Since it doesn't lose any of the determination it had to advance towards the right side, in twice the amount of time it took to pass from line `AC` to `HB`, it must cover twice the distance towards the same side and consequently reach some point on the straight line `FE` at the same moment it also reaches some point on the circumference of the circle AFD. 
 
 This would be impossible if it did not go towards `I`, given that it is the only point below the fabric CBE where the circle AFD and the straight line FF intersect.
 
@@ -65,9 +88,9 @@ By how much the movement of a ball is deflected when it passes through a canvas.
 Figure # 8
  -->
 
-Let us now consider the case where the ball, which comes from A towards D, encounters at point 13, not a net, but water, whose surface CBE takes away exactly half of its speed, just like the net did. And assuming the rest is the same as before, I say that this ball must pass from B in a straight line, not towards D, but towards I. For firstly, it is certain that the surface of the water must deflect it towards there in the same way as the net, since it takes away just as much of its force and is opposed to it in the same direction. And secondly, for the rest of the water that fills the space from B to I, even though it may resist the ball more or less than the air we previously supposed, it does not follow that it must deflect it more or less: for it can open up to let it pass just as easily in one direction as in another, at least if we continue to assume, as we do, that neither the weight or lightness of the ball, nor its size, nor its shape, nor any other such external cause changes its course.
+<!-- Let us now consider the case where the ball, which comes from A towards D, encounters at point 13, not a net, but water, whose surface CBE takes away exactly half of its speed, just like the net did. And assuming the rest is the same as before, I say that this ball must pass from B in a straight line, not towards D, but towards I. For firstly, it is certain that the surface of the water must deflect it towards there in the same way as the net, since it takes away just as much of its force and is opposed to it in the same direction. And secondly, for the rest of the water that fills the space from B to I, even though it may resist the ball more or less than the air we previously supposed, it does not follow that it must deflect it more or less: for it can open up to let it pass just as easily in one direction as in another, at least if we continue to assume, as we do, that neither the weight or lightness of the ball, nor its size, nor its shape, nor any other such external cause changes its course.
 
-Fig 9
+Fig 9 -->
 
 
 And we can note here that the ball is deflected all the more by the surface of the water or the net, the more obliquely it encounters it, so that if it encounters it at a right angle, as when it is pushed from H to B, it must pass straight through in a line towards G, without deviating at all. But if it is pushed along a line like AB, which is so inclined with respect to the surface of the water or the net CBE, that the line FE, being drawn as before, does not cut across the circle AD, this ball should not penetrate it at all, but bounce back from its surface B into the air L, just as if it had encountered earth. This has been observed on occasion with regret, when, for entertainment, artillery pieces were fired towards the bottom of a river, and those on the opposite bank were injured.
@@ -75,9 +98,9 @@ And we can note here that the ball is deflected all the more by the surface of t
 
 Fig 10
 
-But let us make another supposition here and assume that the ball, having been first pushed from A to B, is pushed again, while at point B, by the racket CBE, which increases the force of its movement, for example, by a third, so that it can cover, afterward, as much distance in two moments as it did in three before. This will have the same effect as if it encountered at point B a body of such nature that it passed through its surface CBE, a third more easily than through the air. And it follows manifestly from what has already been demonstrated, that if one describes the circle AD as before, and the lines AC, RB, FE, in such a way that there is a third less distance between FE and RB than between RB and AC, the point I, where the straight line FE and the circular AD intersect, will designate the location towards which this ball, being at point B, must deflect.
+But let us make another supposition here and assume that the ball, having been first pushed from A to B, is pushed again, while at point B, by the racket CBE, which increases the force of its movement, for example, by a third, so that it can cover, afterward, as much distance in two moments as it did in three before. 
 
-
+This will have the same effect as if it encountered at point B a body of such nature that it passed through its surface CBE, a third more easily than through the air. And it follows manifestly from what has already been demonstrated, that if one describes the circle AD as before, and the lines AC, RB, FE, in such a way that there is a third less distance between FE and RB than between RB and AC, the point I, where the straight line FE and the circular AD intersect, will designate the location towards which this ball, being at point B, must deflect.
 
 <!-- Pourquoi quelquefois les balles des canons tirés vers l'eau n'y peuvent entrer et se
 réfléchissent vers l'air.
@@ -90,11 +113,20 @@ Fig 11
 
 
 
-Finally, since the action of light follows the same laws as the motion of this ball, it must be said that when its rays pass obliquely from one transparent body to another, which receives them more or less easily than the first, they are deflected in such a way that they are always less inclined towards the surface of these bodies on the side where they are received most easily, than on the side where the other is located. 
+The action of light follows the same laws as the motion of this ball.
 
-And this, just in proportion to how much more easily they are received by the one than by the other. However, it is important to note that this inclination should be measured by the quantity of straight lines, such as CB or AH, and EB or IG, and similar ones, compared to each other; not by the angle of the lines, such as ABH or GBI, nor by the angle of the semblables to DBI, which are called the angles of refraction. For the reason or proportion that exists between these angles varies with all the different inclinations of the rays; whereas the proportion that exists between the lines AH and IG, or similar ones, remains the same in all the refractions caused by the same bodies. For example, if a ray passes from A to B in the air, and, encountering the surface of the glass CBR at point B, is deflected towards I within the glass; and another ray passes from K to B, which is deflected towards L; and another from P to R, which is deflected towards S; then the proportion between the lines KM and LN, or PQ and ST, should be the same as between AH and IG, but not the same as the proportion between the angles KBM and LBN, or PRQ and SRT, and the angle ABH and IBG.
+When its rays pass obliquely from one transparent body to another, which receives them more or less easily than the first, they are deflected in such a way that they are always less inclined towards the surface of these bodies on the side where they are received most easily, than on the side where the other is located. 
+
+This, just in proportion to how much more easily they are received by the one than by the other. 
+
+This inclination should be measured by the quantity of straight lines, such as CB or AH, and EB or IG, and similar ones, compared to each other. It should not be measured by the angle of the lines, such as `ABH` or `GBI`, nor by the angle of the semblables to `DBI`, which are called the angles of refraction.
+
+For the reason or proportion that exists between these angles varies with all the different inclinations of the rays; whereas the proportion that exists between the lines AH and IG, or similar ones, remains the same in all the refractions caused by the same bodies.
+
+For example, if a ray passes from A to B in the air, and, encountering the surface of the glass CBR at point B, is deflected towards I within the glass; and another ray passes from K to B, which is deflected towards L; and another from P to R, which is deflected towards S; then the proportion between the lines KM and LN, or PQ and ST, should be the same as between AH and IG, but not the same as the proportion between the angles KBM and LBN, or PRQ and SRT, and the angle ABH and IBG.
 
 * How the size of refractions should be measured.
+
 * Since AH = CB and EB = IG, the ratio CB/BE is equivalent to the ratio of the sines (AH/AB and IG/BI, or AB and IB being equal to the unit ray, AH and IG) of the angle of incidence ABH and the angle of refraction GBI. The law of refraction expresses the constancy of the ratio of the two sines, as a function of the index of refraction (n) of the two media considered, that is: AH = n . IG.
 
 

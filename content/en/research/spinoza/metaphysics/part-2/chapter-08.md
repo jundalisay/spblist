@@ -10,18 +10,17 @@ weight: 8
 ---
 
 
-[We do not know how God's essence, his intellect by which he understands himself. and his will by which he loves himself. are distinguished. ] God's will, by which he wills to love himself, follows necessarily from his infinite intellect, by which he
-understands himself, but how these three are distinguished from one anotherhis essence, his intellect by which he understands himself, and his will by which he wills to love himself- this we fail to comprehend. 
+[We do not know how God's essence, his intellect by which he understands himself. and his will by which he loves himself. are distinguished. ] 
+
+God's will, by which he wills to love himself, follows necessarily from his infinite intellect, by which he understands himself, but how these three are distinguished from one anotherhis essence, his intellect by which he understands himself, and his will by which he wills to love himself- this we fail to comprehend. 
 
 We are acquainted with the word 'personality', which theologians commonly use to explain this matter. But
-although we know the word, we do not know its meaning, nor can we form any
-clear and distinct conception of it, although we firmly believe that in the most
-blessed vision of God, which is promised to the faithful, God will reveal this to
+although we know the word, we do not know its meaning, nor can we form any clear and distinct conception of it, although we firmly believe that in the most blessed vision of God, which is promised to the faithful, God will reveal this to
 his own.
 
-[God's will and power, as externally manifested, are not distinguished from his intellect. ] Will and power, as externally manifested, are not distinguished from God's intellect, as is now well established from what has preceded. For we have
-shown that God has decreed not only that things should exist, but also that they
-should exist with a certain nature; that is to say, both their essence and existence
+[God's will and power, as externally manifested, are not distinguished from his intellect. ] 
+
+Will and power, as externally manifested, are not distinguished from God's intellect, as is now well established from what has preceded. For we have shown that God has decreed not only that things should exist, but also that they should exist with a certain nature; that is to say, both their essence and existence
 must have depended on God's will and power. From this we clearly and distinctly
 perceive that God's intellect and his power and will, whereby he has created, understood, and preserves or loves created things, are in no way distinct from one another save only in respect of our thought.
 

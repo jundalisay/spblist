@@ -2,7 +2,7 @@
 heading: Chapter 8d
 title: "The Supreme Council and Syndics"
 image: "/covers/politics.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "The right to summon the supreme council and submit matters for its decision lies with the syndics"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza

@@ -8,17 +8,24 @@ description: "Acids are Female, Bases are Male"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 18
 icon: /icons/spmat.png
 toc: false
 ---
 
 
 
-Part 3 explained that particles can be male or female. When combined as liquid molecules, these become bases or acids respectively. 
+Part 3 explained that particles can have a male or female charge which replace the negative and positive charges of Physics. 
+
+When combined as liquid molecules, these become bases or acids respectively. 
 
 
 ## Bases
+
+<!-- Carbon Dioxide e6e8(2) six-eight-duo
+H2) 1duoeight
+Sodium Chloride e11e17 eleven-seventeen -->
+
 
 A base emits male charge (electron in Physics) or absorbs a female charge. 
 

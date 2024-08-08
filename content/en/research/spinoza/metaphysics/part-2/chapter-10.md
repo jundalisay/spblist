@@ -12,11 +12,19 @@ weight: 8
 
 That God is the creator of all things we have already established; here we shall now try to explain what is to be understood by creation. Then we shall provide solutions as best we can to those questions that are commonly raised regarding creation. Let us then begin with the first subject. 
 
-[What creation is. ] We say that creation is an operation in which no causes concur beyond the efficient cause; or that a created thing is that which presupposes nothing except God for its existence.
+[What creation is. ] 
 
-[The common definition of creation is reiected. ] Here we should note that:
+Creation is an operation in which no causes concur beyond the efficient cause.
 
-I. We omit the words 'from nothing', which are commonly used by philosophers as if 'nothing' were the matter from which things were produced. This usage of theirs arises from the fact that, being accustomed in the case of generated things to suppose something prior to them from which they are made, in the case of creation they were unable to omit the preposition 'from'. 
+A created thing is that which presupposes nothing except God for its existence.
+
+[The common definition of creation is reiected. ] 
+
+We should note the following:
+
+1. We omit the words 'from nothing', which are commonly used by philosophers as if 'nothing' were the matter from which things were produced. 
+
+This usage of theirs arises from the fact that, being accustomed in the case of generated things to suppose something prior to them from which they are made, in the case of creation they were unable to omit the preposition 'from'. 
 
 The same confusion has befallen them in the case of matter. 
 
@@ -87,7 +95,10 @@ delight to the blessed contemplation of this being.
 
 Some people try to show the possibility of such an infinite duration stretching from the past.
 
-[From the fact that God is erernal, it does not follow that his effects can also be from eternity. ] First, then, they assert that the thing produced can be contemporaneous with ils cause; but because God has been from eternity then his effecls could also have been produced from eternity. 
+
+### God is eternal. But his effects are not from eternity.
+
+First, then, they assert that the thing produced can be contemporaneous with ils cause; but because God has been from eternity then his effecls could also have been produced from eternity. 
 
 And then they further confirm this by the example of the son of God, who was produced by the father from eternity. But from what has already been said, one can clearly see that they are confusing duration
 with eternity, and they are attributing to God merely a duration from eternity, as is also clear from the example they cite. 

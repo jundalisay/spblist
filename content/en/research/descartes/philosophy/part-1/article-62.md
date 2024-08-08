@@ -28,13 +28,15 @@ In general, all the modes of thinking which we consider as in objects differ onl
 
 {{< f f="and generally all the attributes that lead us to entertain different thoughts of the same thing, such as, for example, the extension of body and its property of divisibility, do not differ from the body which is to us the object of them, or from each other, unless as we sometimes confusedly think the one without thinking the other.'—FRENCH." >}}
 
-It occurs, indeed, to me that I have elsewhere classed this kind of distinction with the modal (viz., towards the end of the Reply to the First Objections to the Meditations on the First Philosophy); but there it was only necessary to treat of these distinctions generally, and it was sufficient for my purpose at that time simply to distinguish both of them from the real.
+It occurs, indeed, to me that I have elsewhere classed this kind of distinction with the modal (viz., towards the end of the Reply to the First Objections to the Meditations on the First Philosophy).
+
+But there it was only necessary to treat of these distinctions generally, and it was sufficient for my purpose at that time simply to distinguish both of them from the real.
 
 
 
-#### 63. How thought and extension may be distinctly known, as constituting, the one the nature of mind, the other that of body.
+#### 63. How thought and extension [metaphysical space] may be distinctly known, as constituting, the one the nature of mind, the other that of body.
 
-Thought and extension may be regarded as constituting the natures of intelligent and corporeal substance. 
+Thought and extension [metaphysical space] may be regarded as constituting the natures of intelligent and corporeal substance.
 
 They must not be otherwise conceived than as the thinking and extended substances themselves, that is, as mind and body, which in this way are conceived with the greatest clearness and distinctness.
 
@@ -47,7 +49,11 @@ A concept is not more distinct because it comprehends fewer properties, but beca
 
 #### 64. How these may likewise be distinctly conceived as modes of substance.
 
-Thought and extension may be also considered as modes of substance; in as far, namely, as the same mind may have many different thoughts, and the same body, with its size unchanged, may be extended in several diverse ways, at one time more in length and less in breadth or depth, and at another time more in breadth and less in length.
+Thought and extension [metaphysical space] may be also considered as modes of substance.
+
+This is in as far as the same mind may have many different thoughts, and the same body, with its size unchanged, may be extended in several diverse ways.
+
+In one time, its body might be  more in length and less in width or depth. At another time,it might be more in breadth and less in length.
 
 They are modally distinguished from substance, and can be conceived not less clearly and distinctly, provided they be not regarded as substances or things separated from others, but simply as modes of things. 
 

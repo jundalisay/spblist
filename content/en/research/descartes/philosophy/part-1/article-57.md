@@ -1,8 +1,8 @@
 ---
-title: "What is Substance?"
+title: "Timespan and Time"
 heading: Articles 57-61
 weight: 26
-description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+description: "Timespan is taken from that generality, and call it as the measure of motion"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -70,7 +70,9 @@ For example, we see 2 stones. We form the idea of `2` which we call the binary.
 When we think of a shape of 3 sides, we form an idea called a triangle.
 - We afterwards use it as the universal to represent to our mind all other shapes of 3 sides. 
 
-But when we remark more particularly that of shapes of 3 sides, some have a right angle and others not, we form the universal idea of a right-angled triangle. This is called "species" relative to the universal. 
+But when we remark more particularly that of shapes of 3 sides, some have a right angle and others not, we form the universal idea of a right-angled triangle. 
+
+This is called "species" relative to the universal. 
 
 The right angle is the universal difference by which right-angled triangles are distinguished from all others.
 
@@ -78,10 +80,12 @@ The square of the side which sustains the right angle is equal to the squares of
 
 This property belongs only to this species of triangles, we may call it the "universal property of the species". 
 
-Finally, if we suppose that of these triangles some are moved and others not, this will be their universal accident; and, accordingly, we commonly reckon five universals, viz., genus, species, difference, property, accident.
+If we suppose that of these triangles, some are moved and others not, then this will be their universal accident. 
+
+Accordingly, we commonly reckon 5 universals, viz., genus, species, difference, property, accident.
 
 
-#### 60. Distinctions and first of the real.
+#### 60. Distinctions: The Real
 
 But number in things themselves arises from the distinction there is between them. 
 
@@ -95,13 +99,13 @@ The "real" subsists between two or more substances. It assures us that 2 substan
 
 Our knowledge of God makes it certain that he can effect all our distinct ideas.
 
-For example, we have the idea of an extended and corporeal substance. We may not be sure if that substance really exists. 
+For example, we have the idea of an extended and corporeal substance. We may not be sure if that substance really exists.
 
 **Nevertheless, we may be assured that it may exist merely because we have the idea of it.**
 
-If it really exists, that every part which we can determine by thought must be really distinct from the other parts of the same substance.
+If it really exists, then every part which we can determine by thought must be really distinct from the other parts of the same substance.
 
-In the same way, since everyone is conscious that he thinks, and that he in thought can exclude from himself every other substance, whether thinking or extended, it is certain that each of us thus considered is really distinct from every other thinking and corporeal substance. 
+In the same way, since everyone is conscious that he thinks, and that he in thought can exclude from himself every other substance, whether thinking or extended, it is certain that each of us thus considered is really distinct from every other thinking and corporeal substance.
 
 God united bodies to souls so closely and intimately as a composite whole. 
 <!-- that it was impossible to form a more  union, and thus made ,  -->
@@ -111,20 +115,25 @@ God united bodies to souls so closely and intimately as a composite whole.
 - The things which God can separate or conserve separately are really distinct.
 
 
-#### 61. The 2 kinds of modal distinction:
+#### 61. Distinctions: The Modal 
 
-1. That between the mode properly so-called and the substance of which it is a mode
+The 2 kinds of modal distinction:
 
-An example is that we can clearly apprehend substance apart from the mode which we say differs from it. 
+1. The distinction between the mode and the substance of which it is a mode
 
-On the other hand, we cannot conceive this mode without conceiving the substance itself. There is, for example, a modal distinction between figure or motion and corporeal substance in which both exist; there is a similar distinction between affirmation or recollection and the mind. 
+An example is that we can clearly apprehend substance apart from the mode which differs from it. 
 
-2. That between two modes of the same substance. 
+On the other hand, we cannot conceive this mode without conceiving the substance itself. 
+
+For example, there is a modal distinction between shape or motion and corporeal substance in which both exist. There is a similar distinction between affirmation or recollection and the mind. 
+
+
+2. The distinction between two modes of the same substance. 
 
 An example is our ability to recognise the one of two modes apart from the other, as shape is different from motion, and motion is different from shape. 
 
 We cannot think of either the one or the other without thinking of the common substance in which they adhere.
 
-If, for example, a stone is moved, and is withal square, we can, indeed, conceive its square figure without its motion, and reciprocally its motion without its square figure; but we can conceive neither this motion nor this figure apart from the substance of the stone.
+If, for example, a stone is moved, and is withal square, we can conceive its square figure without its motion, and reciprocally its motion without its square figure; but we can conceive neither this motion nor this figure apart from the substance of the stone.
 
 As for the distinction according to which the mode of one substance is different from another substance, or from the mode of another substance, as the motion of one body is different from another body or from the mind, or as motion is different from doubt, it seems to me that it should be called real rather than modal, because these modes cannot be clearly conceived apart from the really distinct substances of which they are the modes.

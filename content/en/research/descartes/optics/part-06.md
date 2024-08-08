@@ -29,12 +29,9 @@ All the qualities which we see can be reduced to 6 principal ones:
 
 
 
-
 ## Light 
 
 Light and color alone belong properly to the sense of sight.
-
-
 
 The **force** of the movements coming from the small threads of the optic nerves makes the soul have the sense of light. 
 
@@ -56,18 +53,44 @@ But we must particularly consider here how the quantity of light that is seen co
 
 For it is not always equal to the light that is in the objects, but it varies according to their distance and the size of the pupil, and also according to the space that the rays, which come from each point of the object, can occupy at the back of the eye. 
 
-For example, it is manifest that the point X would send more rays into the eye B than it does, if the pupil FF were opened up to G; and that it sends just as many rays into the eye B, which is near to it and has a narrow pupil, as it does into the eye A, which is much farther away but has a much larger pupil. 
 
-And again, it is not that more rays from the various points of the object VXY, considered all together, enter the back of the eye A than enter the back of the eye B, but rather that these rays do not extend in the back of the eye A as far as they do in the back of the eye B, so they must act with greater force against each of the extremities of the nerve fibers that they touch. This is very easy to calculate. 
+For example, point `X` would send more rays into the eye `B` if the pupil `FF` were opened up to `G`.
 
-For example, if the space HI is quadruple the size of TR, and it contains the extremities of four thousand of the small nerve fibers of the optic nerve, TR will contain only the extremities of a thousand, and therefore each of these nerve fibers will be moved, in the back of the eye A, by the thousandth part of the forces that all the rays that enter have, taken together, and, in the back of the eye B, by the quarter of the thousandth part only. 
+{{< i s="/graphics/bio/fig_15-d.jpg" a="Eyes" >}}
 
-** We must also consider that one cannot distinguish the parts of bodies that one looks at, except insofar as they differ in some way in color; and that the distinct vision of these colors does not depend only on the fact that all the rays that come from each point of the object are gathered together in roughly the same way in the back of the eye, and that none come from elsewhere to these same points, as has been abundantly explained already; but also on the multitude of the small nerve fibers of the optic nerve that are in the space that occupies the image at the back of the eye. For if, for example, the object VXY is composed of ten thousand parts, which are arranged to send rays in ten thousand different ways to the back of the eye RST, and therefore to make ten thousand colors visible, they will not be able to distinguish more than a thousand of them, at most, if we suppose that there are only a thousand of these nerve fibers in the space RST; since ten parts of the object, acting together against each of these fibers, can only move it in a single way, composed of all the ways in which they act, so that the space that each of these fibers occupies should be considered as a single point.
+It sends just as many rays into the eye `B`, which is near to it and has a narrow pupil, as it does into the eye `A`, which is much farther away but has a much larger pupil. 
 
-** The sensation of light is stronger or weaker depending on whether the object is closer or farther away. And depending on whether the pupil is larger or smaller. And depending on whether the image that is painted in the back of the eye is larger or smaller.
-How the multitude of the small nerve fibers of the optic nerve serves to make the vision distinct.
 
-Fig 20.
+Object `VXY` does not produce more rays from its various points that enter the back of the eye `A` than enter the back of the eye `B`.
+
+Rather, these rays do not extend in the back of the eye `A` as far as they do in the back of the eye `B`.
+
+This is why they must act with greater force against each of the extremities of the nerve fibers that they touch.
+
+For example, the space `HI` is quadruple the size of `TR`. It has 4,000 small nerve fibers of the optic nerve. `TR` will contain only the extremities of 1,000. 
+
+Therefore, each of these nerve fibers will be moved:
+- in the back of the eye `A`, by the thousandth part of the forces that all the rays that enter have, taken together
+- in the back of the eye B, by the quarter of the thousandth part only. 
+
+
+We must also consider that one cannot distinguish the parts of bodies that one looks at, except insofar as they differ in some way in color; and that the distinct vision of these colors does not depend only on the fact that all the rays that come from each point of the object are gathered together in roughly the same way in the back of the eye, and that none come from elsewhere to these same points, as has been abundantly explained already; but also on the multitude of the small nerve fibers of the optic nerve that are in the space that occupies the image at the back of the eye.
+
+If the object `VXY` has 10,000 parts which send rays in 10,000 different ways to the back of the eye `RST`  and therefore makes 10,000 colors visible. 
+
+They will not be able to distinguish more than 1,000 of them if there are only 1,000 of these nerve fibers in the space `RST`. This is because 10 parts of the object act together against each of these fibers. 
+
+They can only move it in a single way. And so the space that each of these fibers occupies should be considered as a single point.
+
+The sensation of light is stronger or weaker depending on:
+- the object's distance
+- the pupil's size
+- the image painted in the back of the eye is larger or smaller
+
+
+### How the multitude of the small nerve fibers of the optic nerve serves to make the vision distinct.
+
+<!-- Fig 20. -->
 
 And this is why a prairie, which will be painted with an infinity of diverse colors, will appear from afar as all white or all blue; and, in general, why all bodies appear less distinctly from afar than from up close; and finally, why the more space an image of the same object occupies at the back of the eye, the more distinctly it can be seen. This will be observed below.
 
@@ -79,24 +102,40 @@ For the situation, that is, the side on which each part of the object is placed 
 Fig 21
 
 
-As when the blind person, whom we have spoken about above, turns his hand A towards E, or C towards E, the nerves inserted in this hand cause a certain change in his brain that allows his soul to know not only the location A or C, but also all the others that are in the straight line AE or CE, so that he can carry his attention as far as the objects B and D, and determine the locations where they are, without knowing or thinking about those where his two hands are. And thus, when our eye or our head turns towards some side, our soul is alerted by the change that the nerves inserted into the muscles, which serve for these movements, cause in our brain.
+When the blind person turns his hand `A` towards `E`, or `C` towards `E`, the nerves inserted in this hand cause a certain change in his brain. This allows his soul to know:
+- the location `A` or `C`
+- all the others that are in the straight line `AE` or `CE`
 
-** How one knows towards which side an object is located that one is looking at or pointing to without touching it.
+This lets him carry his attention as far as the objects `B` and `D` and determine their locations without knowing or thinking about those where his two hands are.
 
-
-Fig 22
-
-Translate to English: Comme ici, en l'œil RST, il faut penser que la situation du petit filet optique, qui est au point R, ou S, ou T, est suivie d'une autre certaine situation de la partie du cerveau 7, Ou 8, ou 9, qui fait que l'âme peut connaître tous les
-lieux qui sont en la ligne RV, ou SX, ou TY. * De façon que vous ne devez pas trouver étrange que les objets puissent être vus en leur vraie situation, nonobstant que la peinture, qu'ils impriment dans l'œil, en ait une toute contraire: ainsi que notre aveugle peut sentir en même temps l'objet B, qui est à droite, par l'entremise de sa main gauche; et D, qui est à gauche, ** par l'entremise de sa main droite. Et comme cet aveugle ne juge point qu'un corps soit double, encore qu'il le touche de ses deux mains, ainsi, lorsque nos yeux sont tous deux disposés en la façon qui est requise pour porter notre attention vers un même lieu, ils ne nous y doivent faire voir qu'un seul objet, nonob-
-stant qu'il s'en forme en chacun d'eux une peinture.
-
-* Pourquoi le renversement de l'image qui se fait dans l'œil n'empêche pas que les objets ne
-paraissent droits.
-Pourquoi ce qu'on voit des deux yeux ou qu'on touche des deux mains ne paraît pas
-double pour cela.
+Thus, when our eye or our head turns towards some side, our soul is alerted by the change that the nerves inserted into the muscles, which serve for these movements, cause in our brain.
 
 
+### How one knows towards which side an object is located that one is looking at or pointing to without touching it.
 
+Here, as in the eye RST, we must think that the situation of the small filament of the optic nerve, which is at the point R, or S, or T, is followed by another certain situation of the part of the brain 7, or 8, or 9, which makes the soul able to know all the places that are in the line RV, or SX, or TY. 
+
+{{< i s="/graphics/bio/fig_14-d.jpg" a="Eyes" >}}
+
+This is why objects can be seen in their true situation, notwithstanding that the picture they imprint in the eye has a completely opposite one.
+
+The blind man can feel:
+- the object `B` to the right, through the intervention of his left hand
+- the object `D` to the left, through the intervention of his right hand. 
+
+This blind man does not judge that a body is double, even though he touches it with both hands, so when our eyes are both disposed in the way required to direct our attention to the same place, they should not make us see but a single object there, notwithstanding that a picture is formed in each of them.
+
+The vision of distance depends no more than that of the situation on any images sent from the objects. But first on the shape of the eye; for, as we have said, this shape must be a little different to make us see what is close to our eyes, than to make us see what is further away.
+
+As we change it to proportion it to the distance of the objects, we also change a certain part of our brain, in a way that is instituted by nature to make our soul perceive this distance. And this happens to us ordinarily without our reflecting on it; just as when we grasp some body with our hand, we conform it to the size and shape of that body, and feel it through it, without needing to think about its movements. 
+
+We know secondly the distance by the relationship between the two eyes. For as our blind man holding the two sticks AE, CE, whose length I suppose he ignores, and knowing only the interval between Maire, p. 59 his two hands A and C, and the size of the angles ACE, CAE, can from there, as by a natural geometry, know where the point E is.
+
+So, when our two eyes RST and rst are turned towards X, the size of the line Ss, and that of the two angles XSs and XsS make us know where the point X is. AT VI, 138 We can also do the same with the help of a single eye by making it change place, as if, holding it turned towards X, we put it first at point S and immediately after at point s, this will be enough to make the size of the line Ss and of the two angles XSs and XsS come together in our imagination, and make us perceive the distance of the point X. 
+
+This by an action of thought, which, being only a simple imagination, does not fail to involve a reasoning similar to that which the Surveyors make, when by means of two different stations they measure inaccessible places. We have another way of perceiving distance, namely, by the distinctness or confusion of the figure, and at the same time by the strength or weakness of the light. 
+
+As while we stare fixedly at X, the rays coming from the objects 10 and 12 do not come together so exactly towards R and towards T, at the bottom of our eye, as if these objects were at the points V and Y; from which we see that they are further away, or closer to us, than X is. Then from the fact that the light coming from the object 10 towards our eye is stronger than if that object were towards V, we judge it to be closer: and from the fact that the light coming from the object 12 is weaker than if it were towards Y, we judge it to be further away. Finally, when we already imagine elsewhere the size of an object, or its situation, or the distinctness of its figure and colours, or only the strength of the light coming from it, this can serve us, not properly AT VI, 139 to see, but to imagine its distance. As looking from afar at some body that we are accustomed AT VI, 140 to see close up, we judge its distance much better than we would if its size were less known to us. And looking at a mountain exposed to the sun, beyond a forest covered in shadow, it is only the situation of that forest that makes us judge it the closest. And looking at two ships on the sea, one of which is smaller than the other, but closer in proportion, so that they appear equal, we will be able by the difference in their figures, and their colours, and the light they send towards us, to judge which one is the farthest.
 
 
 
@@ -170,14 +209,17 @@ In the same way that, touching the small ball G[24] with the two fingers A and D
 
 ---
 
-And the eyes A, B, C, D, E, F[26] seeing the objects T, V, X, Y, Z, U, through the
-
-Diopter figure 22.jpg
 
 
-glasses N, O, P, and in the mirrors Q, R, S, judge them to be at the points G, H, I, K, L, M; and V, Z be smaller, and X, U larger than they are: or also X, U smaller and with that reversed, namely, when they are a little far from the eyes C, F, d as much as these glasses and these mirrors divert the rays which come from these objects in such a way that these eyes can see them distinctly only by arranging themselves as they should be to look towards the points G, H, I, K, L , M, as will easily be known to those who will take the trouble to examine it; and they will see, by the same means, how much the ancients were mistaken in their catoptrics, when they wanted to determine the place of images in hollow and convex mirrors. 
+The eyes `A, B, C, D, E, F` see the objects `T, V, X, Y, Z, U`, through the glasses `N, O, P`, and in the mirrors `Q, R, S`. 
 
-All the means available to know the distance are very uncertain; for, as for the shape of the eye, it hardly varies any more sensibly when the object is more than four or five feet away from it; and even it varies so little when it is closer, that no very precise knowledge can be drawn from it. And for the angles comprised between the lines drawn from the two eyes to each other and from there to the object, or from two stations of the same object, they also hardly vary any more when we look even slightly far ; then from which our common sense even does not seem to be able to receive in itself the idea of a greater distance than about a hundred or two hundred feet, as it can be verified from what the moon and the sun , which are among the most distant bodies that we can see, and whose diameters at their distance are about one to a hundred, usually appear to us only one or two feet in diameter at the most. , notwithstanding that we know enough, by reason, that they are extremely large and extremely distant; for that does not happen to us for lack of being able to conceive them greater than we do, seeing that we conceive many towers and mountains much greater, but because, being unable to conceive them more distant than 100-200 feet, he it follows from this that their diameter must appear to us only one or two feet: in what way the situation also helps to deceive us, because ordinarily these stars seem smaller when they are very high towards the south than when, rising or lying down, there are various objects between them and our eyes which make us better notice their distance; and astronomers prove enough, by measuring them with their instruments, that what they appear to be larger one time than the other is not because they see themselves from a greater angle, but because they consider themselves more distant, whence it follows that the axiom of old optics, which says that the apparent size of objects is proportioned to that of the angle of vision, is not always true. We are also mistaken in that white or luminous bodies, and generally all those which have much force to move the sense of sight, always appear somewhat nearer and larger than they would if they had less. : now the reason which makes them appear nearer is that the movement with which the eye narrows to avoid the force of their light is so joined with that which disposes the whole eye to see near objects distinctly, and by which one judges of their distance, which one can hardly do without also doing a little of the other, in the same way that one cannot entirely close the first two fingers of the hand without the third also curve somewhat as if to close with them.
+{{< i s="/graphics/bio/fig_18-d.jpg" a="Eyes" >}}
+
+These judge them to be at the points `G, H, I, K, L, M`, and V, Z be smaller, and X, U larger than they are: or also X, U smaller and with that reversed, namely, when they are a little far from the eyes C, F, d as much as these glasses and these mirrors divert the rays which come from these objects in such a way that these eyes can see them distinctly only by arranging themselves as they should be to look towards the points G, H, I, K, L , M, as will easily be known to those who will take the trouble to examine it; and they will see, by the same means, how much the ancients were mistaken in their catoptrics, when they wanted to determine the place of images in hollow and convex mirrors. 
+
+All the means available to know the distance are very uncertain; for, as for the shape of the eye, it hardly varies any more sensibly when the object is more than four or five feet away from it; and even it varies so little when it is closer, that no very precise knowledge can be drawn from it.
+
+For the angles comprised between the lines drawn from the two eyes to each other and from there to the object, or from two stations of the same object, they also hardly vary any more when we look even slightly far ; then from which our common sense even does not seem to be able to receive in itself the idea of a greater distance than about a hundred or two hundred feet, as it can be verified from what the moon and the sun , which are among the most distant bodies that we can see, and whose diameters at their distance are about one to a hundred, usually appear to us only one or two feet in diameter at the most. , notwithstanding that we know enough, by reason, that they are extremely large and extremely distant; for that does not happen to us for lack of being able to conceive them greater than we do, seeing that we conceive many towers and mountains much greater, but because, being unable to conceive them more distant than 100-200 feet, he it follows from this that their diameter must appear to us only one or two feet: in what way the situation also helps to deceive us, because ordinarily these stars seem smaller when they are very high towards the south than when, rising or lying down, there are various objects between them and our eyes which make us better notice their distance; and astronomers prove enough, by measuring them with their instruments, that what they appear to be larger one time than the other is not because they see themselves from a greater angle, but because they consider themselves more distant, whence it follows that the axiom of old optics, which says that the apparent size of objects is proportioned to that of the angle of vision, is not always true. We are also mistaken in that white or luminous bodies, and generally all those which have much force to move the sense of sight, always appear somewhat nearer and larger than they would if they had less. : now the reason which makes them appear nearer is that the movement with which the eye narrows to avoid the force of their light is so joined with that which disposes the whole eye to see near objects distinctly, and by which one judges of their distance, which one can hardly do without also doing a little of the other, in the same way that one cannot entirely close the first two fingers of the hand without the third also curve somewhat as if to close with them.
 
 
 These white or luminous bodies appear larger because:
@@ -193,8 +235,11 @@ Each can be moved in one way each time. When the least of its parts is touched b
 As if the ends of these small nets are 1, 2, 3[27], and that the rays which come, for example, to trace the image of a star on the bottom of the eye extend there on that which is marked 1 and somewhat beyond all around on the extremities of the six others marked 2, on which I suppose that no other rays come, except very weak ones, from the parts of the sky near to this star, its image will extend in all the space occupied by these six marked 2, and even perhaps in all that occupied by the twelve marked 3, if the force of the movement is so great that it is also communicated to them .
 
 
----
 
 
-And so you see that the stars, though they appear rather small, nevertheless appear much larger than they should be on account of their extreme distance; and that although they are not entirely round, they would not allow them to appear so. As also a square tower, seen from a distance, appears round; and all the bodies which trace only very small images in the eye cannot trace there the shapes of their angles. Finally, as regards judging distance by size, or shape, or color, or light, perspective pictures show us how easily it is to be mistaken; for often, because the things painted therein are smaller than we imagine they ought to be, and their lineaments more confused, and their colors browner or fainter, they appear to us more distant than they do. are not.
+This is why the large stars appear rather small because of their extreme distance.
+
+<!-- , nevertheless appear much larger than they should be on account of their ; and that although they are not entirely round, they would not allow them to appear so.  -->
+
+A square tower, seen from a distance, appears round. All the bodies which trace only very small images in the eye cannot trace there the shapes of their angles. Finally, as regards judging distance by size, or shape, or color, or light, perspective pictures show us how easily it is to be mistaken; for often, because the things painted therein are smaller than we imagine they ought to be, and their lineaments more confused, and their colors browner or fainter, they appear to us more distant than they do. are not.
 

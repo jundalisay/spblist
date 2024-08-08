@@ -48,12 +48,11 @@ absolute power when we consider his omnipotence without regard to his decrees.
 We speak of his ordered power when we have regard to his decrees.
 
 
-Then there is a further division into the Ordinary and Extraordinary power of
-God. His ordinary power is that by which he preserves the world in a fixed order.
+Then there is a further division into the Ordinary and Extraordinary power of God. His ordinary power is that by which he preserves the world in a fixed order.
+
 We mean his extraordinary power when he acts beyond Nature's orders-for example, all miracles, such as the ass speaking, the appearance of angels, and the like.
 
-Yet concerning this latter power we may not unreasonably entertain serious doubts, because for God to govern the world with one and the same fixed and immutable order seems a greater miracle than if, because of the folly of mankind,
-he were to abrogate laws that he himself has sanctioned in Nature in the best way
+Yet concerning this latter power we may not unreasonably entertain serious doubts, because for God to govern the world with one and the same fixed and immutable order seems a greater miracle than if, because of the folly of mankind, he were to abrogate laws that he himself has sanctioned in Nature in the best way
 and from pure freedom-as nobody can deny unless he is quite blinded. But we
 shall leave this for the theologians to decide.
 

@@ -29,7 +29,10 @@ They say that:
 
 Take the eye of a freshly dead man.
 
-Cut away the three membranes that surround it, so that a large part of the humor M, which is inside, remains exposed, without any of it spilling out.
+Cut away the 3 membranes that surround it, so that a large part of the humor `M`, which is inside, remains exposed, without any of it spilling out.
+
+{{< i s="/graphics/bio/man.jpg" a="Man" >}}
+
 
 Then, having covered it with some white substance, such as a piece of paper or an eggshell, RST, which is so thin that light can pass through it, you place this eye in a specially made window, Z, so that the front, BCD, faces toward some location where there are various objects, such as V, X, Y, illuminated by the sun; and the back, where the white substance RST is, faces inward toward the chamber, P, where you are, and in which no light should enter, except that which can pass through this eye, of which you know that all the parts, from C to S, are transparent. For, once this is done, if you look at the white substance RST, you will see, perhaps with some admiration and pleasure, a painting that represents quite naively and in perspective all the objects that are outside toward VXY, at least if you make sure that this eye retains its natural shape, proportionate to the distance of these objects: for, if you press it too much or too little, this painting will become less distinct. And it is worth noting * that one must press it a bit harder and stretch its shape a bit longer when the objects are very close, than when they are farther away. But I must explain here at greater length how this painting forms; for I can, by the same means, make you understand several things that pertain to vision.
 

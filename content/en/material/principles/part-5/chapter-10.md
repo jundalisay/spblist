@@ -6,7 +6,7 @@ title: "The Material Planets in Space"
 image: /photos/physics/mars.jpg
 description: "The material planets compared"
 linkTitle: "Material Layer"
-weight: 2
+weight: 28
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

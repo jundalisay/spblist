@@ -31,8 +31,12 @@ As to the life of God, I do not know why in Aristotle it should be called activi
 If life is also to be attributed to corporeal things, nothing will be devoid of life; but if only to those things wherein soul is united to body, then it must be attributed only to men, and perhaps also to animals, but not to minds or to God. However, because the word 'life' is commonly used in a wider sense, there is no doubt that it should also be attributed
 to corporeal things not united to minds and to minds separated from body.
 
-[What life is, and what it is in God.] Therefore by life we for our part understand the force through which things persevere in their own being. And because that force is different from the things themselves, we quite properly say that things
-themselves have life. 
+[What life is, and what it is in God.]
 
-But the force whereby God perseveres in his own being is nothing but his essence, so that those speak best who call God 1 ife.' There are some theologians who hold the opinion that it is for this reason - that God is life
-and is not distinct from life-that the Jews when they swore an oath used to say "by the living Jehovah," and not "by the life of Jehovah;' as Joseph, when swearing by Pharaoh's life, said "by the life of Pharaoh."B
+Life is the force through which things persevere in their own being.
+
+This force is different from the things themselves. This is why we say that things themselves have life. 
+
+But the force whereby God perseveres in his own being is nothing but his essence, so that those speak best who call God 1ife.' 
+
+There are some theologians who hold the opinion that it is for this reason - that God is life and is not distinct from life-that the Jews when they swore an oath used to say "by the living Jehovah," and not "by the life of Jehovah;' as Joseph, when swearing by Pharaoh's life, said "by the life of Pharaoh."

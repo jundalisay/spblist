@@ -9,13 +9,13 @@ icon: /avatars/poincare.png
 ---
 
 
-
 The acceleration of a body is equal to the force which acts on it divided by its mass.
 
 Can this law be verified by experiment?
 
-If so, we have to measure the three magnitudes mentioned in the
-enunciation: acceleration, force, and mass. I admit that acceleration may be measured, because I pass over the difficulty arising from the measurement of time. 
+If so, we have to measure the three magnitudes mentioned in the enunciation: acceleration, force, and mass.
+
+Acceleration may be measured, because I pass over the difficulty arising from the measurement of time. 
 
 But how are we to measure force and mass? 
 
@@ -23,89 +23,141 @@ We do not even know what they are.
 
 What is mass? 
 
-Newton replies: “The product of the volume and the density.” “It were better to say,” answer Thomson and Tait, “that density is the
-quotient of the mass by the volume.”
+Newton replies: 
+
+{{< q a="Newton" >}}
+Mass is the product of the volume and the density.
+{{< /q >}}
+
+Thomson and Tait answer:
+
+{{< q  >}}
+It is better to say that density is the quotient of the mass by the volume.
+{{< /q >}}
+
 
 What is force? 
 
-Lagrange says that it is that which moves or tends to move a body.
-
-Kirchoff says that it is the product of the mass and the acceleration. 
+- Lagrange says that it is that which moves or tends to move a body.
+- Kirchoff says that it is the product of the mass and the acceleration. 
 
 Then why not say that mass is the quotient of the force by the acceleration? 
 
 These difficulties are insurmountable.
 
-When we say force is the cause of motion, we are talking metaphysics. This definition is absolutely fruitless as it would lead to absolutely nothing. 
+**When we say force is the cause of motion, we are talking metaphysics.** 
 
-For a definition to be of any use it must tell us how to measure force; and that is quite suf-
-ficient, for it is by no means necessary to tell what force is in itself, nor whether it is the cause or the effect of motion. 
+This definition is absolutely fruitless as it would lead to absolutely nothing. 
+
+For a definition to be of any use it must tell us how to measure force. That is quite sufficient, for it is by no means necessary to tell what force is in itself, nor whether it is the cause or the effect of motion. 
 
 We must therefore first define what is meant by the equality of two forces. 
 
 When are 2 forces equal? 
 
-We are told that it is when they give the same acceleration to the same mass, or when acting in opposite directions they are in equilibrium. This definition is a sham. A force applied to a body cannot be uncoupled and applied to another body as an engine is uncoupled from one train and coupled to another. 
+We are told that it is when they give the same acceleration to the same mass, or when acting in opposite directions they are in equilibrium.
 
-It is therefore impossible to say what acceleration such a force, applied to such a body,
-would give to another body if it were applied to it. It is impossible to tell how two forces which are not acting in exactly opposite directions would behave if they were acting in opposite directions. 
+**This definition is a sham.** 
 
-It is this definition which we try to materialise, as it were, when we measure a force with a dynamometer or with a balance. Two forces, F and F 0 , which I suppose, for simplicity, to be acting vertically upwards, are respectively applied to two bodies, C and C 0 . 
+A force applied to a body cannot be uncoupled and applied to another body as an engine is uncoupled from one train and coupled to another. 
 
-I attach a body weighing P first to C and then to C 0 ; if there is equilibrium in both cases I conclude that the two forces F and F 0 are equal, for they are both equal to the weight of the body P. 
+It is therefore impossible to say what acceleration such a force, applied to such a body, would give to another body if it were applied to it. 
 
-But am I certain that the body P has kept its weight when I transferred it from the first body to the second? Far from it. I am certain of the contrary. 
+It is impossible to tell how two forces which are not acting in exactly opposite directions would behave if they were acting in opposite directions. 
 
-I know that the magnitude of the weight varies from one point to another, and that
-it is greater, for instance, at the pole than at the equator. No doubt the difference is very small, and we neglect it in practice; but a definition must have mathematical 
-rigour; 
+It is this definition which we try to materialise when we measure a force with a dynamometer or with a balance. 
 
-This rigour does not exist. What I say of weight would apply equally to the force of the spring of a dynamometer, which would vary according to temperature and many other circumstances. Nor is this all. We cannot say that the weight of the body P is applied to the body C and keeps in equilibrium the force F. 
+Two forces, `F` and `F0` are acting vertically upwards. They are respectively applied to two bodies, `C` and `C0`. 
 
-What is applied to the body C is the action of the body P on the body C. 
+I attach a body weighing `P` first to `C` and then to `C0`.
 
-On the other hand, the body P is acted on by its weight, and by the reaction R of the body C on P
-the forces F and A are equal, because they are in equilibrium; the forces A and R are equal by virtue of the principle of action and reaction; and finally, the force R and the weight P are equal because they are in equilibrium. 
+If there is equilibrium in both cases, I conclude that the two forces `F` and `F0` are equal, for they are both equal to the weight of the body `P`. 
 
-From these three equalities we deduce the equality of the weight P and the force F.the classical mechanics.
+**But am I certain that the body `P` has kept its weight when I transferred it from the first body to the second?**
 
-Thus we are compelled to bring into our definition of the equality of two forces the principle of the equality of action and reaction; hence this principle can no longer be
-regarded as an experimental law but only as a definition.
+Far from it. I am certain of the contrary. 
 
-To recognise the equality of two forces we are then in possession of two rules: the equality of two forces in equilibrium and the equality of action and reaction. But,
-as we have seen, these are not sufficient, and we are compelled to have recourse to a third rule, and to admit that certain forces—the weight of a body, for instance—are
-constant in magnitude and direction. But this third rule
-is an experimental law. 
+Weight varies from one point to another. It is greater at the pole than at the equator.
 
-It is only approximately true: it is a bad definition. We are therefore reduced to Kir-
-choff’s definition: force is the product of the mass and the acceleration. This law of Newton in its turn ceases to be regarded as an experimental law, it is now only a definition. 
+The difference is very small, and we neglect it in practice. But a definition must have mathematical 
+rigour.
 
-But as a definition it is insufficient, for we do not know what mass is. It enables us, no doubt, to calculate the ratio of two forces applied at different times to the same body, but it tells us nothing about the ratio of two forces applied to two different bodies. 
+**This rigour does not exist.** 
 
-To fill up the gap we must have recourse to Newton’s third law, the equality of action and reaction, still regarded not as an experimental law but as a definition. Two bodies,  A and B, act on each other; the acceleration of A, multiplied by the mass of A, is equal to the action of B on A; in the same way the acceleration of B, multiplied by the mass of B is equal to the reaction of A on B.
+What I say of weight would apply equally to the force of the spring of a dynamometer, which would vary according to temperature and many other circumstances. 
 
-As, by definition, the action and the reaction are equal, the masses of A and B arc respectively in the inverse ratio of their masses. Thus is the ratio of the two masses defined, and
-it is for experiment to verify that the ratio is constant.
+We cannot even say that the weight of the body `P` is applied to the body `C` and keeps in equilibrium the force `F`. 
 
-This would do very well if the two bodies were alone and could be abstracted from the action of the rest of the world; but this is by no means the case. The acceleration of A is not solely due to the action of B, but to that of a multitude of other bodies, C, D, . . . . 
+What is applied to the body `C` is the **ACTION** of the body `P` on the body `C`. 
 
-To apply the preceding rule we must decompose the acceleration of A into many components, and find out which of these components is due to the action of B. 
+On the other hand, the body `P` is acted on by its weight. By the reaction `R` of the body `C` on `P`
+the forces `F` and `A` are equal. This is because they are in equilibrium.
 
-The decomposition would still be possible if we suppose that the action of C on A is simply added to that of B on A, and that the presence of the body C does not in any way modify the action of B on A, or that the presence of B does not modify the action of C on A; that is, if we admit that any two bodies attract each other, that their mutual action is along their join, and is only dependent on their distance apart; if, in a word, we admit the hypothesis of centralthe classical mechanics.
+The forces `A` and `R` are equal by virtue of the principle of action and reaction. 
 
-forces.
+Finally, the force `R` and the weight `P` are equal because they are in equilibrium. 
+
+From these 3 equalities, we deduce the equality of the weight `P` and the force `F`
+
+Thus, we are compelled to bring into our definition of the equality of two forces the principle of the equality of action and reaction.
+
+Hence, this principle can no longer be regarded as an experimental law but only as a definition.
+
+To recognise the equality of two forces we then have 2 rules:
+
+1. The equality of two forces in equilibrium
+2. The equality of action and reaction
+
+But these are not sufficient. We are compelled into a third rule: We admit that certain forces—the weight of a body, for instance—are constant in magnitude and direction. 
+
+But this third rule is an experimental law. 
+
+It is only approximately true. It is a bad definition.
+
+We are therefore reduced to Kirchoff’s definition: force is the product of the mass and the acceleration.
+
+This law of Newton in its turn ceases to be regarded as an experimental law, it is now only a definition. 
+
+But as a definition it is insufficient, for **we do not know what mass is**. 
+
+It enables us to calculate the ratio of two forces applied at different times to the same body. 
+
+But it tells us nothing about the ratio of 2 forces applied to 2 different bodies. 
+
+To fill up the gap we must have recourse to Newton’s third law, the equality of action and reaction. That is  still regarded not as an experimental law but as a definition.
+
+Two bodies, `A` and `B`, act on each other. The acceleration of `A`, multiplied by the mass of `A`, is equal to the action of `B` on `A`; in the same way the acceleration of `B`, multiplied by the mass of `B` is equal to the reaction of `A` on `B`.
+
+As, by definition, the action and the reaction are equal, the masses of `A` and `B` arc respectively in the inverse ratio of their masses.
+
+Thus, the ratio of the 2 masses is defined. It is for experiment to verify that the ratio is constant.
+
+This would do very well if the 2 bodies were alone and could be abstracted from the action of the rest of the world.
+
+But this is by no means the case. 
+
+The acceleration of A is not solely due to the action of B, but to that of a multitude of other bodies, C, D, . . . . 
+
+To apply the preceding rule, we must decompose the acceleration of `A` into many components, and find out which of these components is due to the action of `B`. 
+
+The decomposition would still be possible if we suppose that:
+- the action of `C` on `A` is simply added to that of `B` on `A`
+- the presence of the body `C` does not modify the action of `B` on `A`, or that the presence of `B` does not modify the action of `C` on `A`
+
+If we admit that any 2 bodies attract each other, their mutual action is along their join, and is only dependent on their distance apart, if, in a word, we admit the hypothesis central 
+
+ <!--force centralthe classical mechanics. -->
 
 We know that to determine the masses of the heavenly bodies we adopt quite a different principle. 
 
-The law of gravitation teaches us that the attraction of two bodies is proportional to their masses; if r is their distance apart, m and m 0 their masses, k a constant, then their attraction
-will be kmm 0 /r 2. 
+The law of gravitation teaches us that the attraction of two bodies is proportional to their masses; if r is their distance apart, m and m 0 their masses, k a constant, then their attraction will be kmm 0 /r 2. 
 
 What we are measuring is therefore not mass, the ratio of the force to the acceleration, but
 the attracting mass; not the inertia of the body, but its attracting power. 
 
-It is an indirect process, the use of which is not indispensable theoretically. We might have
-said that the attraction is inversely proportional to the square of the distance, without being proportional to the product of the masses, that it is equal to f /r 2 but without
-having f = kmm 0.
+It is an indirect process, the use of which is not indispensable theoretically. 
+
+We might have said that the attraction is inversely proportional to the square of the distance, without being proportional to the product of the masses, that it is equal to f /r 2 but without having f = kmm 0.
 
 If it were so, we should nevertheless, by observing the relative motion of the celestial bodies, be able to calculate the masses of these bodies.
 
@@ -183,10 +235,7 @@ If we observe such a system, we can study not only the relative motion of its di
 
 We then find that the motion of its centre of gravity is nearly uniform and rectilinear in conformity with Newton’s Third Law. 
 
-This is an experimental fact, which cannot be invalidated by athe classical mechanics.
-
-more accurate experiment. What, in fact, would a more
-accurate experiment teach us? 
+This is an experimental fact, which cannot be invalidated by a more accurate experiment. What, in fact, would a more accurate experiment teach us? 
 
 It would teach us that the law is only approximately true, and we know that already. 
 
