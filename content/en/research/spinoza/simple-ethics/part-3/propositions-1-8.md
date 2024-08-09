@@ -35,63 +35,99 @@ Proof:  In every human mind, there are some adequate ideas, and some ideas that 
 
 The ideas which are adequate in the mind are adequate also in God, as he constitutes the essence of the mind (2.40. Coroll.).
 
-<!-- Those ideas which are inadequate in the mind are likewise (by the same Coroll.) adequate in God, because he contains the minds of all.
+Those ideas which are inadequate in the mind are likewise (by the same Coroll.) adequate in God, because he contains the minds of all.
+
 Some effect must necessarily follow from any given idea (1.36).
+
 God is the adequate cause of this effect (3. Def. 1), not because he is infinite, but because he is conceived as affected by the given idea (2.9).
+
 But of that effect whereof God is the cause, inasmuch as he is affected by an idea which is adequate in a given mind, of that effect,
-The mind in question is the adequate cause (2.11. Coroll.) of the effect of whcih .
+
+<!-- The mind in question is the adequate cause (2.11. Coroll.) of the effect of which -->
+
 Therefore our mind, in so far as it has adequate ideas (3. Def. 2), is in certain cases necessarily active.
+
 This was our first point.
+
 Whatever follows from the idea which is adequate in God, by virtue of his containing all minds, not by virtue of him having the mind of one man only, (2.11. Coroll.) the mind of man is only a partial cause, not an adequate one.
+
 Our second point is thus: 
+
 (3. Def. 2) the mind, as it has inadequate ideas, in certain cases is necessarily passive.
-Therefore our mind, is active in certain cases, and passive in certain cases. Q.E.D. -->
+Therefore our mind, is active in certain cases, and passive in certain cases. Q.E.D.
+
 Corollary:  It follows that the mind is more or less liable to be acted upon, as it has inadequate ideas.
 On the contrary, it is more or less active in proportion as it has adequate ideas.
 
+
 2. The body cannot determine the mind to think.
+
 The mind cannot determine body to motion or rest or any state different from these, if such there be.
 
-Proof:  God is the cause of all modes of thinking, by virtue of his being a thinking thing, and not by virtue of his being displayed under any other attribute (2.6).
-That, therefore, which determines the mind to thought is a mode of thought, and not a mode of extension.
+Proof: God is the cause of all modes of thinking, by virtue of his being a thinking thing, and not by virtue of his being displayed under any other attribute (2.6).
+
+Point 1: Therefore, that which determines the mind to thought is a mode of thought, and not a mode of extension [metaphysical space].
+
 That is (2 Def. 1), it is not body.
 
-<!-- This was our first point.
-The motion and rest of a body must arise from another body, which has also been determined to a state of motion or rest by a third body.
+
+Point 2: The motion and rest of a body must arise from another body, which has also been determined to a state of motion or rest by a third body.
+
 Absolutely everything which takes place in a body must spring from God, as he is regarded as affected by some mode of extension, and not by some mode of thought (2.6.)
+
 That is, it cannot spring from the mind, which is a mode of thought.
-This was our second point.
+
 Therefore, the body cannot determine the mind, etc. Q.E.D.
-Note:  This is made clearer by what was said in the note to 2.7:  that mind and body are one and the same thing.
+
+
+Note: This is made clearer by what was said in the note to 2.7:  that mind and body are one and the same thing.
+
 They are conceived: 
-First under the attribute of thought
-Secondly, under the attribute of extension
+- First under the attribute of thought
+- Secondly, under the attribute of extension
+
 Thus, it follows that the order or concatenation of things is identical, whether nature be conceived under the one attribute or the other.
+
 Consequently, the order of states of activity and passivity in our body is simultaneous in nature with the order of states of activity and passivity in the mind.
+
 The same conclusion is evident from the way we proved 2.12.
+
 I do not think that men can be induced to consider the question calmly and fairly.
+
 People are so convinced: 
-that the body moves merely at the mind's bidding, or
-that it performs a variety of actions depending solely on the mind's will or the exercise of thought.
+- that the body moves merely at the mind's bidding, or
+- that it performs a variety of actions depending solely on the mind's will or the exercise of thought.
+
 However, no one has laid down the limits to the powers of the body.
+
 No one has as yet been taught by experience what the body can accomplish solely by the laws of nature, as she is regarded as extension.
+
 No one has gained such an accurate knowledge of the bodily mechanism, that he can explain all its functions.
+
 Many actions are observed in the lower animals, which far transcend human sagacity.
+
 Sleepwalkers do many things in their sleep, which they would not venture to do when awake.
+
 These show that the body can by the sole laws of its nature do many things which the mind wonders at.
+
 No one knows: 
-how the mind moves the body
-how many various degrees of motion it can impart to the body
-how quickly the mind can move the body.
+- how the mind moves the body
+- how many various degrees of motion it can impart to the body
+- how quickly the mind can move the body.
+
 Thus, when men say that this or that physical action has its origin in the mind, which latter has dominion over the body, they: 
-are using words without meaning, or
-are confessing in specious phraseology that they are ignorant of the cause of the said action, and do not wonder at it.
+- are using words without meaning, or
+- are confessing in specious phraseology that they are ignorant of the cause of the said action, and do not wonder at it.
+
 But they will say that: 
-we have, at any rate, experience of the fact that unless the human mind is in a fit state to think, the body remains inert.
-we have experience, that the mind alone can determine whether we speak or are silent, and a variety of similar states which, accordingly, we say depend on the mind's decree.
+- we have, at any rate, experience of the fact that unless the human mind is in a fit state to think, the body remains inert.
+- we have experience, that the mind alone can determine whether we speak or are silent, and a variety of similar states which, accordingly, we say depend on the mind's decree.
+
 But I ask them whether experience does not also teach, that if the body be inactive the mind is simultaneously unfitted for thinking?
+
 For when the body is at rest in sleep, the mind simultaneously is in a state of torpor also, and has no power of thinking, such as it possesses when the body is awake.
 I think everyone's experience will confirm that the mind is not always fit for thinking on a given subject.
+
 The mind more or less fitted for contemplating the said object, as the body is more or less fitted for being stimulated by the image of this or that object.
 But it is impossible that solely from the laws of nature considered as extended substance, we should be able to deduce the causes of buildings, pictures, and things of that kind, which are produced only by human art.
 nor would the human body, unless it were determined and led by the mind, be capable of building a single temple.
