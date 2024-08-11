@@ -4,14 +4,21 @@ description: "An example of historical error is the baseless conclusion readers 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 4"
-weight: 10
+weight: 20
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
 
-Another illustration of this kind of error is the baseless conclusion critical readers of historical works draw when they hear about the position of judges and about the leadership in war and the command of armies that judges (formerly) exercised. 
+Another illustration of this kind of error is the baseless conclusion 
+
+The critical readers of historical works make a conclusion from:
+- the position of judges
+- the leadership in war
+- the command of armies that judges (formerly) exercised. 
+
+
 
 Their misguided thinking leads them to aspire to similar positions.
 
@@ -129,10 +136,7 @@ In my book, therefore, I have chosen to write such non-Arabic letters (sounds) i
 
 I derived this idea from the way the Qur'an scholars write sounds that are not sharply defined, such as occur, for instance, in as-sirat according to Khalaf's reading. 182 The s is to be pronounced somehow between s and z. In this case, they spell the word with s and - write a z into it. 183 thus - indicate a pronunciation somewhere in the middle between the two sounds. 184
 
-I have indicated every sound that is to be pronounced somehow in the middle between two of our letters (sounds). The Berber
-k, for instance, which is pronounced midway between our clear k and j (g) or q, as,
-for instance, in the name Buluggin, is spelled by me with a k with the addition of
-one dot-from the j-below, or one dot or two-from the q-on top of it. 185 Thisindicates that the sound is to be pronounced midway between k and j (g) or q. 
+I have indicated every sound that is to be pronounced somehow in the middle between two of our letters (sounds). The Berber `k`, for instance, which is pronounced midway between our clear k and j (g) or q, as, for instance, in the name Buluggin, is spelled by me with a k with the addition of one dot-from the j-below, or one dot or two-from the q-on top of it. 185 Thisindicates that the sound is to be pronounced midway between k and j (g) or q. 
 
 This sound occurs most frequently in the Berber language. In the other cases, I have spelled each letter (sound) that is to be pronounced midway between two letters (sounds) of our language, with a similar combination of two letters. The reader will thus know that it is an intermediate sound and pronounce it accordingly. In this way, we have indicated it satisfactorily. 
 
