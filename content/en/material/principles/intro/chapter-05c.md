@@ -1,7 +1,7 @@
 ---
-heading: "Chapter 4"
-title: "The Three Rules of Movement"
-linkTitle: "3 Rules"
+heading: "Chapter 5c"
+title: "The Three Laws of True Motion"
+linkTitle: "3 Laws"
 # date: 2022-01-03
 image: /covers/rule3.jpg
 description: "Rene Descartes gave 3 Rules of Movement in 'The World'"
@@ -13,10 +13,11 @@ icon: /icons/spmat.png
 ---
 
 
+{{< dc t="Principles" >}}
 Principles | Assertions
 --- | ---
 The Law of Conservation of Idea in Physical Reality  | This leads to the Theory of Dynamism as the Rules of Movement
-
+{{< /dc >}}
 
 
 The Law of Conservation of Idea of Superphysics leads to the idea of unique gravitational signatures in each identity which must be maintained. The interaction of these signatures leads to the movement of each identity as it is attracted or combined or is repulsed or evicted by other identities. 
@@ -24,16 +25,20 @@ The Law of Conservation of Idea of Superphysics leads to the idea of unique grav
 The principles of the resulting movements can be summarized into three rules, as explained by Rene Descartes. Instead of Newton's Laws, we use Descartes' Rules as they are consistent not only with Classical and Quantum Mechanics, but also with the Biology, Medicine, Sociology, Economics, and other sciences.    
 
 
-## Rule 1 
+## Law 1: State Continuity
+
+**Each identity remains as much as it can always in the same state. It is never changed except by external causes.**
 
 This absorbs Newton's First and Second Laws.
 
 ![rule 1](/covers/rule1.jpg)
 
 
-## Rule 2
+## Law 2: Straight and Circular Motion 
 
-This matches Newton's Third Law.
+Every motion in itself is straight. Things which move together eventually move in a circular manner, always tending to move away from the center of the circle which they describe.
+
+<!-- This matches Newton's Third Law. -->
 
 ![rule 2](/covers/rule2.jpg)
 

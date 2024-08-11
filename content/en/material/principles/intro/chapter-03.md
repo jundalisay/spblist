@@ -86,15 +86,22 @@ Material | qom (Quantum of Matter) | Quark
 - The Superphysics model extends all the way to the Aethereal -->
 
 
-## Equivalents
+## Equivalents in Modern Physics
 
-Physics Name | Superphysics Name
+The MSQ model is much better-organized because it is made from the perspective of Nature in totality, instead of from the limited perceptions of humans.
+
+Physics Concept | Superphysics Counterpart
 --- | ---
 Fermions | Non Media
 Bosons | Media 
 Baryon-Hadron | Convertible-Material
-Meson-Hadron | Material (quark-antiquark)
+Meson-Hadron | Material (free aether as quark-antiquark pair)
 Leptons | Radiant-Convertible
+
+
+{{< img src="/graphics/physics/standard.jpg" alt="The Standard Model" cap="The Standard Model overlaid to the MSQ model. Notice the huge gap in knowledge needed to be bridged" >}}
+
+
 
 <!-- Matter (3 quarks) -->
 

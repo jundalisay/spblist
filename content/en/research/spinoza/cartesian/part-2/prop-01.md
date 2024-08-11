@@ -10,7 +10,7 @@ weight: 6
 ---
 
 
-## Proposition 1: Although hardness, weight, and the other sensible qualities may be separated from a body, the nature of the body will nevertheless remain unimpaired 
+### Proposition 1: Hardness, weight, and the other sensible qualities may be separated from a body. But the nature of the body will still remain unimpaired 
 
 Proof: In the case of hardness, such as of this stone, our sense-perception merely indicates to us that hard bodies resist the movement of our hands (Ax. 3).
 
@@ -23,7 +23,7 @@ If the rock is reduced to the finest powder, its parts will readily give way (Ax
 In the case of weight and the other sensible qualities, the proof proceeds in the same way.
 
 
-## Proposition 2: The nature of body or matter consists only in extension [metaphysical space]
+### Proposition 2: The nature of body or matter consists only in extension [metaphysical space]
 
 Proof: The nature of body is not lost as a result of the loss of sensible qualities (Part 2, Prop. 1). 
 
@@ -60,7 +60,8 @@ The latter he certainly could not have preserved if his essence were corporeal.
 <!-- I On this, see a fuller explanation m AppendiX, Part 2, Chapters 3 and 9. 
 1 52 Principles of Cartesian Philosophy -->
 
-## Proposition 3: There is no vacuum
+
+### Proposition 3: There is no vacuum
 
 <!-- There should be a vacuum is a contradiction. -->
 
@@ -71,7 +72,7 @@ For a fuller explanation, read Articles 17 and 18 Part 2 of the Principia. It sa
 - bodies with nothing in between necessarily touch one another
 
 
-## Proposition 4: One part of a body does not occupy more space at one time than at another. Conversely, the same space does not contain more body at one time than at another
+### Proposition 4: One part of a body does not occupy more space at one time than at another. Conversely, the same space does not contain more body at one time than at another
 
 Proof: Space and body do not differ in reality (Cor. Prop. 2 Part 2). 
 
@@ -91,7 +92,7 @@ Proof: Corporeal substance [metaphysical aether] consists only in extension [met
 By hypothesis, there is the same amount of space or (Def. 6) extension [metaphysical space] in the one as in the other. Therefore, there will also be the same amount of corporeal substance. Q.E.D.
 
 
-## Proposition 5: There are no atoms
+### Proposition 5: There are no atoms
 
 Proof: Atoms are parts of matter that are, by their own nature, indivisible (Def. 3). 
 

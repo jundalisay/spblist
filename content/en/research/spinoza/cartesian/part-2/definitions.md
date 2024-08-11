@@ -1,6 +1,7 @@
 ---
-heading: Definitions
-title: "What is Local Motion?"
+# heading: 
+title: "Definitions by Spinoza"
+# What is Local Motion?"
 image: "/covers/cartesian.jpg"
 description: "Here the only requirement is that everyone should attend to his perceptions as accurately as possible"
 writer:

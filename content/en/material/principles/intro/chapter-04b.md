@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3c"
+heading: "Chapter 4b"
 title: "Gravitational Territories"
 # date: 2023-11-26
 image: "/graphics/physics/territories.jpg"

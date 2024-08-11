@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6"
+heading: "Chapter 13"
 title: "Technologies from the Radiant Layer"
 # date: 2023-12-10
 image: "/graphics/physics/magnet1.jpg"

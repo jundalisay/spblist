@@ -7,7 +7,7 @@ description: "Relativity has its roots with the Luminiferous Aether idea of Augu
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 40
 icon: /icons/spmat.png
 ---
 

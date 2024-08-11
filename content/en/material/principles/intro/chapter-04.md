@@ -1,13 +1,13 @@
 ---
 title: "Gravitational Signatures"
-heading: "Chapter 3b"
+heading: "Chapter 4"
 # date: 2022-01-03
 image: /graphics/keplertgr.png
 description: "In Superphysics, electrons have a positive or masculine charge, while protons have a negative or feminine charge"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
+weight: 9
 icon: /icons/spmat.png
 toc: false
 ---
@@ -67,7 +67,7 @@ Layer | Antiparticle
 --- | ---
 Radiant | positron :: -a(r)
 Convertible | antineutrino :: -a(c)
-Material | Antihydrogen :: -a(H)
+Material | antihydrogen :: -a(H)
 
 
 <!-- The resulting energy can be used to reveal the G just as the G can be used to reveal the potential energy of the identity. 

@@ -10,11 +10,24 @@ icon: /icons/newton.png
 
 
 
-In scripture we are told of some trusting in God and others trusting in idols, and that God is our refuge, our strength, our defense. 
+The scripture tells that God is our refuge, our strength, our defense.
 
-In this sense God is the rock of his people, and false Gods are called the rock of those that trust in them, Deut. xxxii. 4, 15, 18, 30, 31, 37. In the same sense the Gods of the King who shall do according to his will are called Mahuzzims, munitions, fortresses, protectors, guardians, or defenders. In his estate, saith [1] Daniel, shall he honour Mahuzzims; even with a God whom his fathers knew not, shall he honour them with gold and silver, and with precious stones, and things of value. Thus shall he do in the most strong holds or temples;—and he shall cause them to rule over many, and divide the land among them for a possession. Now this came to pass by degrees in the following manner.
+There are:
+- some people trusted in God
+- others trusted in idols
 
-Gregory Nyssen [2] tells us, that after the persecution of the Emperor Decius, Gregory Bishop of Neocæsarea in Pontus, instituted among all people, as an addition or corollary of devotion towards God, that festival days and assemblies should be celebrated to them who had contended for the faith, that is, to the Martyrs. And he adds this reason for the institution: When he observed, saith Nyssen, that the simple and unskilful multitude, by reason of corporeal delights, remained in the error of idols; that the principal thing might be corrected among them, namely, that instead of their vain worship they might turn their eyes upon God; he permitted that at the memories of the holy Martyrs they might make merry and delight themselves, and be dissolved into joy. 
+<!-- In this sense God is the rock of his people, and false Gods are called the rock of those that trust in them, Deut. xxxii. 4, 15, 18, 30, 31, 37. In the same sense  -->
+
+
+Daniel says that:
+- The Gods of the King who shall do according to his will are called Mahuzzims, munitions, fortresses, protectors, guardians, or defenders. 
+- In his estate[1], shall he honour Mahuzzims; even with a God whom his fathers knew not, shall he honour them with gold and silver, and with precious stones, and things of value. Thus shall he do in the most strong holds or temples;—and he shall cause them to rule over many, and divide the land among them for a possession. 
+
+This happened in the following manner.
+
+Gregory Nyssen [2] tells us, that after the persecution of the Emperor Decius, Gregory Bishop of Neocæsarea in Pontus, instituted among all people, as an addition or corollary of devotion towards God, that festival days and assemblies should be celebrated to them who had contended for the faith, that is, to the Martyrs. 
+
+And he adds this reason for the institution: When he observed, saith Nyssen, that the simple and unskilful multitude, by reason of corporeal delights, remained in the error of idols; that the principal thing might be corrected among them, namely, that instead of their vain worship they might turn their eyes upon God; he permitted that at the memories of the holy Martyrs they might make merry and delight themselves, and be dissolved into joy. 
 
 The heathens were delighted with the festivals of their Gods, and unwilling to part with those delights; and therefore Gregory, to facilitate their conversion, instituted annual festivals to the Saints and Martyrs. Hence it came to pass, that for exploding the festivals of the heathens, the principal festivals of the Christians succeeded in their room: as the keeping of Christmas with ivy and feasting, and playing and sports, in the room of the Bacchanalia and Saturnalia; the celebrating of May-day with flowers, in the room of the Floralia; and the keeping of festivals to the Virgin Mary, John the Baptist, and divers of the Apostles, in the room of the solemnities at the entrance of the Sun into the signs of the Zodiac in the old Julian Calendar. 
 
@@ -146,11 +159,14 @@ Nor let us only on the day of this festival, but also on other days apply to the
 
 Constantinople was free from these superstitions till Gregory Nazianzen came thither A.D. 379; but in a few years it was also inflamed with it. Ruffinus [7] tells us, that when the Emperor Theodosius was setting out against the tyrant Eugenius, which was in the year 394, he went about with the Priests and people to all the places of prayer; lay prostrate in haircloth before the shrines of the Martyrs and Apostles, and pray'd for assistance by the intercession of the Saints. Sozomen [8] adds, that when the Emperor was marched seven miles from Constantinople against Eugenius, he went into a Church which he had built to John the Baptist, and invoked the Baptist for his assistance. Chrysostom [9] says: He that is clothed in purple, approaches to embrace these sepulchres; and laying aside his dignity, stands supplicating the Saints to intercede for him with God: and he who goes crowned with a diadem, offers his prayers to the tent-maker and the fisher-man as his Protestors. And in [10] another place: The cities run together to the sepulchres of the Martyrs, and the people are inflamed with the love of them.
 
-This practice of sending reliques from place to place for working miracles, and thereby inflaming the devotion of the nations towards the dead Saints and their reliques, and setting up the religion of invoking their souls, lasted only till the middle of the reign of the Emperor Theodosius the great; for he then prohibited it by the following Edict. Humatum corpus, nemo ad alterum locum transferat; nemo Martyrem distrahat, nemo mercetur: Habeant verò in potestate, si quolibet in loco sanctorum est aliquis conditus, pro ejus veneratione, quod Martyrium vocandum sit, addant quod voluerint fabricarum. Dat. iv. Kal. Mart. Constantinopoli, Honorio nob. puero & Euodio Coss. A.C. 386. After this they filled the fields and high-ways with altars erected to Martyrs, which they pretended to discover by dreams and revelations: and this occasioned the making the fourteenth Canon of the fifth Council of Carthage, A.C. 398. Item placuit, ut altaria, quæ passim per agros aut vias, tanquam memoriæ Martyrum constituuntur, in quibus nullum corpus aut reliquiæ Martyrum conditæ probantur, ab Episcopis, qui illis locis præsunt, si fieri potest, evertantur. Si autem hoc propter tumultus populares non sinitur, plebes tamen admoneantur, ne illa loca frequentent, ut qui rectè sapiunt, nullâ ibi superstitione devincti teneantur. Et omnino nulla memoria Martyrum probabiliter acceptetur, nisi aut ibi corpus aut aliquæ certæ reliquiæ sint, aut ubi origo alicujus habitationis, vel possessionis, vel passionis fidelissima origine traditur. Nam quæ per somnia, & per inanes quasi revelationes quorumlibet hominum ubique constituuntur altaria, omnimodè reprobentur. These altars were for invoking the Saints or Martyrs buried or pretended to be buried under them. First they filled the Churches in all places with the reliques or pretended reliques of the Martyrs, for invoking them in the Churches; and then they filled the fields and high-ways with altars, for invoking them every where: and this new religion was set up by the Monks in all the Greek Empire before the expedition of the Emperor Theodosius against Eugenius, and I think before his above-mentioned Edict, A.C. 386.
+This practice of sending reliques from place to place for working miracles, and thereby inflaming the devotion of the nations towards the dead Saints and their reliques, and setting up the religion of invoking their souls, lasted only till the middle of the reign of the Emperor Theodosius the great; for he then prohibited it by the following Edict. Humatum corpus, nemo ad alterum locum transferat; nemo Martyrem distrahat, nemo mercetur: Habeant verò in potestate, si quolibet in loco sanctorum est aliquis conditus, pro ejus veneratione, quod Martyrium vocandum sit, addant quod voluerint fabricarum. Dat. iv. Kal. Mart. Constantinopoli, Honorio nob. puero & Euodio Coss. A.C. 386. 
+
+After this they filled the fields and high-ways with altars erected to Martyrs, which they pretended to discover by dreams and revelations: and this occasioned the making the fourteenth Canon of the fifth Council of Carthage, A.C. 398. Item placuit, ut altaria, quæ passim per agros aut vias, tanquam memoriæ Martyrum constituuntur, in quibus nullum corpus aut reliquiæ Martyrum conditæ probantur, ab Episcopis, qui illis locis præsunt, si fieri potest, evertantur. Si autem hoc propter tumultus populares non sinitur, plebes tamen admoneantur, ne illa loca frequentent, ut qui rectè sapiunt, nullâ ibi superstitione devincti teneantur. Et omnino nulla memoria Martyrum probabiliter acceptetur, nisi aut ibi corpus aut aliquæ certæ reliquiæ sint, aut ubi origo alicujus habitationis, vel possessionis, vel passionis fidelissima origine traditur. Nam quæ per somnia, & per inanes quasi revelationes quorumlibet hominum ubique constituuntur altaria, omnimodè reprobentur. These altars were for invoking the Saints or Martyrs buried or pretended to be buried under them. First they filled the Churches in all places with the reliques or pretended reliques of the Martyrs, for invoking them in the Churches; and then they filled the fields and high-ways with altars, for invoking them every where: and this new religion was set up by the Monks in all the Greek Empire before the expedition of the Emperor Theodosius against Eugenius, and I think before his above-mentioned Edict, A.C. 386.
 
 The same religion of worshiping Mahuzzims quickly spred into the Western Empire also: but Daniel in this Prophecy describes chiefly the things done among the nations comprehended in the body of his third Beast.
 
-Notes to Chap. XIV.
+
+### Notes to Chap. XIV.
 [1] Chap. xi. 38, 39
 
 [2] Orat. de vita Greg. Thaumaturg. T. 3. p. 574.
@@ -170,5 +186,3 @@ Notes to Chap. XIV.
 [9] Hom. 66. ad. populum, circa finem. & Hom. 8, 27. in Matth. Hom. 42, 43. in Gen. Hom. 1. in 1 Thess.
 
 [10] Exposit. in Psal. 114. sub finem.
-
-

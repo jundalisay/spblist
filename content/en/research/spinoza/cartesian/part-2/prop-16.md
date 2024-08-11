@@ -11,7 +11,7 @@ weight: 18
 
 
 
-## Proposition 16: Every body that moves in a circle (e.g., a stone in a sling) is continuously determined to continue in motion at a tangent to that circle.
+### Proposition 16: Every body that moves in a circle (e.g., a stone in a sling) is continuously determined to continue in motion at a tangent to that circle.
 
 Proof: A body that moves in a circle is continuously prevented by an external force from continuing to move in a straight line (Cor. previous Prop.).
 
@@ -24,13 +24,16 @@ If you deny this, suppose that a stone at `B` is determined (e.g., by a sling) t
 When the sling is supposed to be coming from L toward B, let this line be `BF`. 
 
 <!-- Part 2, Proposition 16 161 -->
-If on the other hand the sling is supposed to be coming from C toward B, let this line be BG. If BH is the line drawn from the center through the circumference, which it cuts at B, I understand the angle GBH to be equal to the angle FBH. 
+If on the other hand the sling is supposed to be coming from `C` toward `B`, let this line be `BG`.
+
+If `BH` is the line drawn from the center through the circumference, which it cuts at B, I understand the angle GBH to be equal to the angle `FBH`. 
 
 But if the stone at B is determined to move toward F by the sling moving in a circle from L toward B, then it necessarily follows (Ax. 1 8) that when the sling 0 moves with a contrary determination from C toward B, the stone will be determined to proceed to move in line with BF with a contrary determination and will therefore tend not toward G but toward K. 
 
 This is contrary to our hypothesis. 
 
 No line except a tangent can be drawn through point B making equal adjacent angles, DBH, ABH, with the line BH,4 there can be no line but a tangent that can preserve the same hypothesis, whether the sling moves from L to B or from C to B. And so the stone can tend to move along no line but the tangent. Q.E.D. 
+
 
 Proof 2: Instead of a circle, conceive a hexagon ABH inscribed in a circle, and a body C at rest on one side, AB. 
 
@@ -59,18 +62,21 @@ We conceive a sling moving in a circle, this will continuously determine the sto
 Both of these proofS can be adapted to any curvilinear figure.
 
 
-## Proposition 17: Every body that moves in a circle endeavors to move away {rom the center of the circle that it describes.
+### Proposition 17: Every body that moves in a circle endeavors to move away from the center of the circle that it describes.
 
-Proof: As long as a body moves in a circle, it is being compelled by some external cause; and if this ceases, it at once proceeds to ~ move at a tangent to the circle (previous Prop.). 
+Proof: As long as a body moves in a circle, it is being compelled by some external cause.
+
+If this ceases, it at once proceeds to move at a tangent to the circle (previous Prop.). 
 
 All the points of this tangent, except that which touches the circle, fall outside the circle (Prop. 16 Book 3 Elements) and are therefore further distant from the center. 
 
-Therefore when a stone moving in a circle in a sling EA is at a point A, it endeavors to continue in a line, all of whose points are farther distant from the center E than any points on the circumference LAB. 
+Therefore when a stone moving in a circle in a sling `EA` is at point `A`, it endeavors to continue in a line, all of whose points are farther distant from the center E than any points on the circumference LAB. 
 
 This is nothing other than to endeavor to move away from the center of the circle that it describes. Q.E.D.
 
 
-## Proposition 18: If a body A moves toward a body B, which is at rest, and B loses nothing of its state of rest in spite of the impetus of body A, then neither will A lose anything of its motion, but will retain entirely the same quantity of motion that it had before.
+### Proposition 18: If a body A moves toward a body B, which is at rest, and B loses nothing of its state of rest in spite of the impetus of body A, then neither will A lose anything of its motion, but will retain entirely the same quantity of motion that it had before.
+
 
 Proof: Assume that body A loses some of its motion without transferring the lost motion to B. This will reduce the amount of motion in Nature than before, which is absurd (Prop. 13 Part 2). 
 

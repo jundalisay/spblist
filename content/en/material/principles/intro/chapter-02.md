@@ -102,11 +102,11 @@ From the Medium-Sibstance-Quantum (MSQ) Table in the next chapter, we can deduce
 
 Layer | Quality
 --- | --- 
-Material | Identifiability
-Convertible | Stability
-Radiant | Visibility
-Spatial | Size
 Aethereal | Audibility or Harmony 
+Spatial | Size
+Radiant | Visibility
+Convertible | Stability
+Material | Identifiability
 
 
 The layers work in a hierarchy.

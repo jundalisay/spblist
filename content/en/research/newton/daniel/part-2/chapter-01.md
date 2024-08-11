@@ -1,9 +1,9 @@
 ---
 heading: Chapter 1
-title: "The time when the Apocalypse was written"
+title: "When was the Apocalypse written?"
 weight: 4
 image: /covers/daniel.png
-description: "Newton enumerates 3 Laws and 6 Corollaries"
+description: "The Apocalypse was written before the destruction of Jerusalem"
 author: Isaac Newton
 icon: /icons/newton.png
 ---
@@ -62,7 +62,9 @@ These, as natural brute beasts, the ten-horned beast and two-horned beast, or fa
 
 These are, not fountains of living water, but wells without water; not such clouds of Saints as the two witnesses ascend in, but clouds that are carried with a tempest, &c. Thus does the author of this Epistle spend all the second Chapter in describing the qualities of the Apocalyptic Beasts and false Prophet: and then in the third he goes on to describe their destruction more fully, and the future kingdom. He saith, that because the coming of Christ should be long deferred, they should scoff, saying, where is the promise of his coming? Then he describes the sudden coming of the day of the Lord upon them, as a thief in the night, which is the Apocalyptic phrase; and the millennium, or thousand years, which are with God but as a day; the passing away of the old heavens and earth, by a conflagration in the lake of fire, and our looking for new heavens and a new earth, wherein dwelleth righteousness.
 
-Seeing therefore Peter and John were Apostles of the circumcision, it seems to me that they staid with their Churches in Judea and Syria till the Romans made war upon their nation, that is, till the twelfth year of Nero; that they then followed the main body of their flying Churches into Asia, and that Peter went thence by Corinth to Rome; that the Roman Empire looked upon those Churches as enemies, because Jews by birth; and therefore to prevent insurrections, secured their leaders, and banished John into Patmos. It seems also probable to me that the Apocalypse was there composed, and that soon after the Epistle to the Hebrews and those of Peter were written to these Churches, with reference to this Prophecy as what they were particularly concerned in. For it appears by these Epistles, that they were written in times of general affliction and tribulation under the heathens, and by consequence when the Empire made war upon the Jews; for till then the heathens were at peace with the Christian Jews, as well as with the rest. The Epistle to the Hebrews, since it mentions Timothy as related to those Hebrews, must be written to them after their flight into Asia, where Timothy was Bishop; and by consequence after the war began, the Hebrews in Judea being strangers to Timothy. Peter seems also to call Rome Babylon, as well with respect to the war made upon Judea, and the approaching captivity, like that under old Babylon, as with respect to that name in the Apocalypse: and in writing to the strangers scattered thro'out Pontus, Galatia, Cappadocia, Asia and Bithynia, he seems to intimate that they were the strangers newly scattered by the Roman wars; for those were the only strangers there belonging to his care.
+Seeing therefore Peter and John were Apostles of the circumcision, it seems to me that they staid with their Churches in Judea and Syria till the Romans made war upon their nation, that is, till the twelfth year of Nero; that they then followed the main body of their flying Churches into Asia, and that Peter went thence by Corinth to Rome; that the Roman Empire looked upon those Churches as enemies, because Jews by birth; and therefore to prevent insurrections, secured their leaders, and banished John into Patmos. It seems also probable to me that the Apocalypse was there composed, and that soon after the Epistle to the Hebrews and those of Peter were written to these Churches, with reference to this Prophecy as what they were particularly concerned in.
+
+For it appears by these Epistles, that they were written in times of general affliction and tribulation under the heathens, and by consequence when the Empire made war upon the Jews; for till then the heathens were at peace with the Christian Jews, as well as with the rest. The Epistle to the Hebrews, since it mentions Timothy as related to those Hebrews, must be written to them after their flight into Asia, where Timothy was Bishop; and by consequence after the war began, the Hebrews in Judea being strangers to Timothy. Peter seems also to call Rome Babylon, as well with respect to the war made upon Judea, and the approaching captivity, like that under old Babylon, as with respect to that name in the Apocalypse: and in writing to the strangers scattered thro'out Pontus, Galatia, Cappadocia, Asia and Bithynia, he seems to intimate that they were the strangers newly scattered by the Roman wars; for those were the only strangers there belonging to his care.
 
 This account of things agrees best with history when duly rectified. For [29] Justin and [30] Irenæus say, that Simon Magus came to Rome in the reign of Claudius, and exercised juggling tricks there. 
 
@@ -76,9 +78,13 @@ His second Epistle was writ to the same dispersed strangers with the first, 2 Pe
 
 Having determined the time of writing the Apocalyse, I need not say much about the truth of it, since it was in such request with the first ages, that many endeavoured to imitate it, by feigning Apocalypses under the Apostles names; and the Apostles themselves, as I have just now shewed, studied it, and used its phrases; by which means the style of the Epistle to the Hebrews became more mystical than that of Paul's other Epistles, and the style of John's Gospel more figurative and majestical than that of the other Gospels. 
 
-I do not apprehend that Christ was called the word of God in any book of the New Testament written before the Apocalypse; and therefore am of opinion, the language was taken from this Prophecy, as were also many other phrases in this Gospel, such as those of Christ's being the light which enlightens the world, the lamb of God which taketh away the sins of the world, the bridegroom, he that testifieth, he that came down from heaven, the Son of God, &c. Justin Martyr, who within thirty years after John's death became a Christian, writes expresly that a certain man among the Christians whose name was John, one of the twelve Apostles of Christ, in the Revelation which was shewed him, prophesied that those who believed in Christ should live a thousand years at Jerusalem. And a few lines before he saith: 
+I do not apprehend that Christ was called the word of God in any book of the New Testament written before the Apocalypse.
 
-But I, and as many as are Christians, in all things right in their opinions, believe both that there shall be a resurrection of the flesh, and a thousand years life at Jerusalem built, adorned and enlarged. Which is as much as to say, that all true Christians in that early age received this Prophecy: for in all ages, as many as believed the thousand years, received the Apocalypse as the foundation of their opinion: 
+Therefore, I think that the language was taken from this Prophecy, as were also many other phrases in this Gospel, such as those of Christ's being the light which enlightens the world, the lamb of God which taketh away the sins of the world, the bridegroom, he that testifieth, he that came down from heaven, the Son of God, &c. Justin Martyr, who within thirty years after John's death became a Christian, writes expresly that a certain man among the Christians whose name was John, one of the twelve Apostles of Christ, in the Revelation which was shewed him, prophesied that those who believed in Christ should live a thousand years at Jerusalem. And a few lines before he saith: 
+
+I believe both that there shall be a resurrection of the flesh, and a thousand years life at Jerusalem built, adorned and enlarged. 
+
+<!-- Which is as much as to say, that all true Christians in that early age received this Prophecy: for in all ages, as many as believed the thousand years, received the Apocalypse as the foundation of their opinion:  -->
 
 I do not know one instance to the contrary. Papias Bishop of Hierapolis, a man of the Apostolic age, and one of John's own disciples, did not only teach the doctrine of the thousand years, but also [37] asserted the Apocalypse as written by divine inspiration. 
 
@@ -139,7 +145,8 @@ Amongst the Interpreters of the last age there is scarce one of note who hath no
 
 The success of others put me upon considering it; and if I have done any thing which may be useful to following writers, I have my design.
 
-Notes to Chap. I.
+
+### Notes to Chap. I.
 
 [1] Dem. Evang. l. 3.
 

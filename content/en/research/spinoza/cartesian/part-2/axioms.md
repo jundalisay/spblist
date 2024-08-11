@@ -1,8 +1,8 @@
 ---
-heading: Axioms
-title: "Spinoza's Physics"
+# heading: Axioms
+title: "Axioms and Lemmas"
 image: "/covers/cartesian.jpg"
-description: "Definitions of Spinoza's Physics"
+description: "To nothing there belong no properties"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
@@ -58,6 +58,8 @@ The space between a tangent and a circle can always be divided by an infinite nu
 all eight bodies form a complete circle. See Def. 9.
 
 
+### Lemmas
+
 <!-- substance -->
 Lemma 1: Where there is extension or space, there is necessarily the aether.
 
@@ -66,11 +68,11 @@ Proof: Extension or space (Ax. I) cannot be pure nothing. It is therefore someth
 <!-- substance -->
 Therefore it is a thing that needs only God's concurrence to exist (Prop. 12 Part I), that is (Def. 2 Part 2), the aether. Q.E.D.
 
+<!-- Rarefaction and condensation -->
+Lemma 2: Compression and decompression are clearly and distinctly conceived by us, although we do not grant that bodies occupy more space in decompression than in compression.
 
-Lemma 2: Rarefaction and condensation are clearly and distinctly conceived by us, although we do not grant that bodies occupy more space in rarefaction than in condensation.
 
-
-Proof: Rarefaction and condensation can be clearly and distinctly conceived from the mere fact that parts of a body may move away from, or toward, one another. 
+Proof:  can be clearly and distinctly conceived from the mere fact that parts of a body may move away from, or toward, one another. 
 
 Therefore (Ax. 4) they will not occupy either more or less space. 
 
@@ -80,7 +82,7 @@ If again the parts move away from one another and the gaps are filled by other b
 
 This, which we clearly perceive with the aid of our senses in the case of a sponge, we can conceive with the unaided intellect in the case of all bodies, although their interstices completely escape human sense-perception. 
 
-Therefore rarefaction and condensation are clearly and distinctly conceived by us, etc. Q.E.D.
+Therefore, rarefaction and condensation are clearly and distinctly conceived by us, etc. Q.E.D.
 
 <!-- Part 2, Proposition 2 151 -->
 

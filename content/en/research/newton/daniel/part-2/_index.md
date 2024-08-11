@@ -1,7 +1,8 @@
 ---
 heading: "Part 1"
-title: OBSERVATIONS on the APOCALYPSE of St. JOHN
-description: "OBSERVATIONS on the APOCALYPSE of St. JOHN"
+linkTitle: John
+title: Observations On The Apocalypse Of St. John
+description: "Observations On The Apocalypse Of St. John by Isaac Newton"
 image: "/covers/daniel.png"
 weight: 1
 ---

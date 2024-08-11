@@ -1,7 +1,8 @@
 ---
 heading: Chapter 5
-title: "The Compilers of the Old Testament"
-weight: 4
+title: History of Europe
+# title: "The Kingdoms represented by the feet of the Image composed of iron and clay"
+weight: 14
 image: /covers/daniel.png
 description: "Newton enumerates 3 Laws and 6 Corollaries"
 author: Isaac Newton
@@ -9,27 +10,70 @@ icon: /icons/newton.png
 ---
 
 
-CHAP. V. The Kingdoms represented by the feet of the Image composed of iron and clay.
 
-Dacia was a large country bounded on the south by the Danube, on the east by the Euxine sea, on the north by the river Neister and the mountain Crapac, and on the west by the river Tibesis, or Teys, which runs southward into the Danube a little above Belgrade. 
+Dacia was a large country. It was bounded"
+- on the south by the Danube
+- on the east by the Euxine sea
+- on the north by the river Neister and the mountain Crapac
+- om the west by the river Tibesis, or Teys
+  - This runs southward into the Danube a little above Belgrade. 
 
-It comprehended the countries now called Transylvania, Moldavia, and Wallachia, and the eastern part of the upper Hungary. Its antient inhabitants were called Getæ by the Greeks, Daci by the Latins, and Goths by themselves. 
+It included the countries now called:
+- Transylvania
+- Moldavia
+- Wallachia
+- the eastern part of the upper Hungary. 
 
-Alexander the Great attacked them, and Trajan conquered them, and reduced their country into a Province of the Roman Empire: and thereby the propagation of the Gospel among them was much promoted. They were composed of several Gothic nations, called Ostrogoths, Visigoths, Vandals, Gepides, Lombards, Burgundians, Alans, &c. who all agreed in their manners, and spake the same language, as Procopius represents. 
+Its ancient inhabitants were called:
+- Getæ by the Greeks
+- Daci by the Latins
+- Goths by themselves. 
 
-While they lived under the Romans, the Goths or Ostrogoths were seated in the eastern parts of Dacia, the Vandals in the western part upon the river Teys, where the rivers Maresh and Keresh run into it. The Visigoths were between them. The Gepides, according to Jornandes, were upon the Vistula. The Burgundians, a Vandalic nation, were between the Vistula and the southern fountain of the Boristhenes, at some distance from the mountain Crapac northwards, where Ptolemy places them, by the names of Phrugundiones and Burgiones.[1] 
+Alexander the Great attacked them.
+
+Trajan conquered them, and reduced their country into a Province of the Roman Empire.
+
+This propagated the Gospel among them. They were composed of several Gothic nations, called Ostrogoths, Visigoths, Vandals, Gepides, Lombards, Burgundians, Alans, &c. who all agreed in their manners, and spake the same language, as Procopius represents. 
+
+While they lived under the Romans, the Goths or Ostrogoths were seated in the eastern parts of Dacia, the Vandals in the western part upon the river Teys, where the rivers Maresh and Keresh run into it.
+
+The Visigoths were between them. 
+
+The Gepides, according to Jornandes, were upon the Vistula. 
+
+The Burgundians, a Vandalic nation, were between the Vistula and the southern fountain of the Boristhenes, at some distance from the mountain Crapac northwards, where Ptolemy places them, by the names of Phrugundiones and Burgiones.[1] 
 
 The Alans, another Gothic nation, were between the northern fountain of the Boristhenes and the mouth of the river Tanais, where Ptolemy placeth the mountain Alanus, and western side of the Palus Mæotis.
 
-These nations continued under the dominion of the Romans till the second year of the Emperor Philip, and then for want of their military pay began to revolt; the Ostrogoths setting up a kingdom, which, under their Kings Ostrogotha, Cniva, Araric, Geperic, and Hermanaric, increased till the year of Christ 376; and then by an incursion of the Huns from beyond the Tanais, and the death of Hermanaric, brake into several smaller kingdoms. Hunnimund, the son of Hermanaric, became King over the Ostrogoths; Fridigern over the Visigoths; Winithar, or Vinithar, over a part of the Goths called Gruthungi by Ammian, Gothunni by Claudian, and Sarmatæ and Scythians by others: Athanaric reign'd over another part of the Goths in Dacia, called Thervingi; Box over the Antes in Sarmatia; and the Gepides had also their King. The Vandals fled over the Danube from Geberic in the latter end of the reign of Constantine the great, and had seats granted them in Pannonia by that Emperor, where they lived quietly forty years, viz. till the year 377, when several Gothic nations flying from the Hunns came over the Danube, and had seats granted them in Mæsia and Thrace by the Greek Emperor Valens. But the next year they revolted, called in some Goths, Alans and Hunns, from beyond the Danube, and routed the Roman army, slew the Emperor Valens, and spread themselves into Greece and Pannonia as far as the Alps. In the years 379 and 380 they were checkt by the arms of the Emperors Gratian and Theodosius, and made a submissive peace; the Visigoths and Thervingi returned to their seats in Mæsia and Thrace, the Hunns retired over the Danube, and the Alans and Gruthingi obtained seats in Pannonia.
+These nations continued under the dominion of the Romans till the second year of the Emperor Philip, and then for want of their military pay began to revolt.
+
+The Ostrogoths setting up a kingdom, which, under their Kings Ostrogotha, Cniva, Araric, Geperic, and Hermanaric, increased till the year of Christ 376.
+
+Then by an incursion of the Huns from beyond the Tanais, and the death of Hermanaric, brake into several smaller kingdoms. Hunnimund, the son of Hermanaric, became King over the Ostrogoths; Fridigern over the Visigoths; Winithar, or Vinithar, over a part of the Goths called Gruthungi by Ammian, Gothunni by Claudian, and Sarmatæ and Scythians by others: Athanaric reign'd over another part of the Goths in Dacia, called Thervingi; Box over the Antes in Sarmatia; and the Gepides had also their King. The Vandals fled over the Danube from Geberic in the latter end of the reign of Constantine the great, and had seats granted them in Pannonia by that Emperor, where they lived quietly forty years, viz. till the year 377, when several Gothic nations flying from the Hunns came over the Danube, and had seats granted them in Mæsia and Thrace by the Greek Emperor Valens. But the next year they revolted, called in some Goths, Alans and Hunns, from beyond the Danube, and routed the Roman army, slew the Emperor Valens, and spread themselves into Greece and Pannonia as far as the Alps. In the years 379 and 380 they were checkt by the arms of the Emperors Gratian and Theodosius, and made a submissive peace; the Visigoths and Thervingi returned to their seats in Mæsia and Thrace, the Hunns retired over the Danube, and the Alans and Gruthingi obtained seats in Pannonia.
 
 About the year 373, or 374, the Burgundians rose from their seats upon the Vistula, with an army of eighty thousand men to invade Gallia; and being opposed, seated themselves upon the northern side of the Rhine over against Mentz. In the year 358, a body of the Salian Franks, with their King, coming from the river Sala, were received into the Empire by the Emperor Julian, and seated in Gallia between Brabant and the Rhine: and their King Mellobaudes was made Comes domesticorum, by the Emperor Gratian. Richomer, another noble Salian Frank, was made Comes domesticorum, and Magister utriusque Militiæ, by Theodosius; and A.C. 384, was Consul with Clearchus. He was a great favourite of Theodosius, and accompanied him in his wars against Eugenius, but died in the expedition, and left a son called Theudomir, who afterwards became King of the Salian Franks in Brabant. In the time of this war some Franks from beyond the Rhine invaded Gallia under the conduct of Genobald, Marcomir and Suno, but were repulsed by Stilico; and Marcomir being slain, was succeeded in Germany by his son Pharamond.
 
 While these nations remained quiet within the Empire, subject to the Romans, many others continued so beyond the Danube till the death of the Emperor Theodosius, and then rose up in arms. For Paulus Diaconus in his Historia Miscell. lib. xiv. speaking of the times next after the death of this Emperor, tells us: Eodem tempore erant Gothi & aliæ gentes maximæ trans Danubium habitantes: ex quibus rationabiliores quatuor sunt, Gothi scilicet, Huisogothi, Gepides & Vandali; & nomen tantum & nihil aliud mutantes. Isti sub Arcadia & Honorio Danubium transeuntes, locati sunt in terra Romanorum: & Gepides quidem, ex quibus postea divisi sunt Longobardi & Avares, villas, quæ sunt circa Singidonum & Sirmium, habitavere: and Procopius in the beginning of his Historia Vandalica writes to the same purpose. Hitherto the Western Empire continued entire, but now brake into many kingdoms.
 
-Theodosius died A.C. 395; and then the Visigoths, under the conduct of Alaric the successor of Fridigern, rose from their seats in Thrace and wasted Macedon, Thessaly, Achaia, Peloponnesus, and Epirus, with fire and sword for five years together; when turning westward, they invaded Dalmatia, Illyricum and Pannonia; and from thence went into Italy A.C. 402; and the next year were so beaten at Pollentia and Verona, by Stilico the commander of the forces of the Western Empire, that Claudian calls the remainder of the forces of Alaric, tanta ex gente reliquias breves, and Prudentius, Gentem deletam. Thereupon Alaric made peace with the Emperor, being so far humbled, that Orosius saith, he did, pro pace optima & quibuscunque sedibus suppliciter & simpliciter orare. This peace was ratified by mutual hostages; Ætius was sent hostage to Alaric; and Alaric continued a free Prince in the seats now granted to him.
+Theodosius died A.C. 395.
 
-When Alaric took up arms, the nations beyond the Danube began to be in motion; and the next winter, between A.C. 395 and 396, a great body of Hunns, Alans, Ostrogoths, Gepides, and other northern nations, came over the frozen Danube, being invited by Rufinus: when their brethren, who had obtained seats within the Empire, took up arms also. Jerome calls this great multitude, Hunns, Alans, Vandals, Goths, Sarmatians, Quades, and Marcomans; and saith, that they invaded all places between Constantinople and the Julian Alps, wasting Scythia, Thrace, Macedon, Dardania, Dacia, Thessaly, Achaia, Epirus, Dalmatia, and all Pannonia. The Suevians also invaded Rhætia: for when Alaric ravaged Pannonia, the Romans were defending Rhætia; which gave Alaric an opportunity of invading Italy, as Claudian thus mentions.
+Then the Visigoths, under the conduct of Alaric the successor of Fridigern, rose from their seats in Thrace and wasted Macedon, Thessaly, Achaia, Peloponnesus, and Epirus, with fire and sword for 5 years.
+
+They then invaded westward into Dalmatia, Illyricum and Pannonia.
+
+From thence, they went into Italy A.C. 402.
+
+The next year were so beaten at Pollentia and Verona, by Stilico the commander of the forces of the Western Empire, that Claudian calls the remainder of the forces of Alaric, tanta ex gente reliquias breves, and Prudentius, Gentem deletam. 
+
+Thereupon Alaric made peace with the Emperor, being so far humbled, that Orosius saith, he did, pro pace optima & quibuscunque sedibus suppliciter & simpliciter orare. 
+
+This peace was ratified by mutual hostages; Ætius was sent hostage to Alaric; and Alaric continued a free Prince in the seats now granted to him.
+
+When Alaric took up arms, the nations beyond the Danube began to be in motion; and the next winter, between A.C. 395 and 396, a great body of Hunns, Alans, Ostrogoths, Gepides, and other northern nations, came over the frozen Danube, being invited by Rufinus: when their brethren, who had obtained seats within the Empire, took up arms also.
+
+Jerome calls this great multitude, Hunns, Alans, Vandals, Goths, Sarmatians, Quades, and Marcomans; and saith, that they invaded all places between Constantinople and the Julian Alps, wasting Scythia, Thrace, Macedon, Dardania, Dacia, Thessaly, Achaia, Epirus, Dalmatia, and all Pannonia. 
+
+The Suevians also invaded Rhætia: for when Alaric ravaged Pannonia, the Romans were defending Rhætia; which gave Alaric an opportunity of invading Italy, as Claudian thus mentions.
 
 Non nisi perfidiâ nacti penetrabile tempus,
 
@@ -45,41 +89,17 @@ Exuerant, Latiique auditâ clade feroces
 
 Vendelicos saltus & Norica rura tenebant.
 
-This was in the years 402 and 403. And among these nations I reckon the Suevians, Quades, and Marcomans; for they were all in arms at this time. The Quades and Marcomans were Suevian nations; and they and the Suevians came originally from Bohemia, and the river Suevus or Sprake in Lusatia; and were now united under one common King called Ermeric, who soon after led them into Gallia. The Vandals and Alans might also about this time extend themselves into Noricum. Uldin also with a great body of Hunns passed the Danube about the time of Chrysostom's banishment, that is, A.C. 404, and wasted Thrace and Mæsia. Radagaisus, King of the Gruthunni and succesor of Winithar, inviting over more barbarians from beyond the Danube, invaded Italy with an army of above two hundred thousand Goths; and within a year or two, A.C. 405 or 406., was overcome by Stilico, and perished with his army. In this war Stilico was assisted with a great body of Hunns and Ostrogoths, under the conduct of Uldin and Sarus, who were hired by the Emperor Honorius. In all this confusion it was necessary for the Lombards in Pannonia to arm themselves in their own defence, and assert their liberty, the Romans being no longer able to protect them.
+This was in the years 402 and 403. 
 
-And now Stilico purposing to make himself Emperor, procured a military prefecture for Alaric, and sent him into the East in the service of Honorius the Western Emperor, committing some Roman troops to his conduct to strengthen his army of Goths, and promising to follow soon after with his own army. His pretence was to recover some regions of Illyricum, which the Eastern Emperor was accused to detain injuriously from the Western; but his secret design was to make himself Emperor, by the assistance of the Vandals and their allies: for he himself was a Vandal. For facilitating this design, he invited a great body of the barbarous nations to invade the Western Empire, while he and Alaric invaded the Eastern. And these nations under their several Kings, the Vandals under Godegisilus, the Alans in two bodies, the one under Goar, the other under Resplendial, and the Suevians, Quades, and Marcomans, under Ermeric, marched thro' Rhætia to the side of the Rhine, leaving their seats in Pannonia to the Hunns and Ostrogoths, and joined the Burgundians under Gundicar, and ruffled the Franks in their further march. On the last of December A.C. 406, they passed the Rhine at Ments, and spread themselves into Germania prima and the adjacent regions; and amongst other actions the Vandals took Triers. Then they advanced into Belgium, and began to waste that country. Whereupon the Salian Franks in Brabant took up arms, and under the conduct of Theudomir, the son of Ricimer, or Richomer, abovementioned, made so stout a resistance, that they slew almost twenty thousand of the Vandals, with their King Godegesilus, in battel; the rest escaping only by a party of Resplendial's Alans which came timely to their assistance.
+Among these nations I reckon the Suevians, Quades, and Marcomans; for they were all in arms at this time. 
 
-Then the British soldiers, alarm'd by the rumour of these things, revolted, and set up Tyrants there; first Marcus, whom they slew presently; then Gratian, whom they slew within four months; and lastly Constantine, under whom they invaded Gallia A.C. 408, being favoured by Goar and Gundicar. And Constantine having possessed a good part of Gallia, created his son Constans Cæsar, and sent him into Spain to order his affairs there, A.C. 409.
+The Quades and Marcomans were Suevian nations; and they and the Suevians came originally from Bohemia, and the river Suevus or Sprake in Lusatia; and were now united under one common King called Ermeric, who soon after led them into Gallia.
 
-In the mean time Resplendial, seeing the aforesaid disaster of the Vandals, and that Goar was gone over to the Romans, led his army from the Rhine; and, together with the Suevians and residue of the Vandals, went towards Spain; the Franks in the mean time prosecuting their victory so far as to retake Triers, which after they had plundered they left to the Romans. The Barbarians were at first stopt by the Pyrenean mountains, which made them spread themselves into Aquitain: but the next year they had the passage betrayed by some soldiers of Constans; and entring Spain 4 Kal. Octob. A.C. 409, they conquered every one what he could; and at length, A.C. 411, divided their conquests by lot; the Vandals obtained Bœtica, and part of Gallæcia; the Suevians the rest of Gallæcia; and the Alans Lusitania and the Carthaginian Province: the Emperor for the sake of peace confirming them in those seats by grant A.C. 413.
+The Vandals and Alans might also about this time extend themselves into Noricum. Uldin also with a great body of Hunns passed the Danube about the time of Chrysostom's banishment, that is, A.C. 404, and wasted Thrace and Mæsia.
 
-The Roman Franks abovementioned, having made Theudomir their King, began strait after their conquest of the Vandals to invade their neighbours also. The first they set upon were the Gauls of Brabant[2]: but meeting with notable resistance, they desired their alliance: and so those Gauls fell off from the Romans, and made an intimate league with the Franks to be as one people, marrying with one another, and conforming to one another's manners, till they became one without distinction. Thus by the access of these Gauls, and of the foreign Franks also, who afterwards came over the Rhine, the Salian kingdom soon grew very great and powerful.
+Radagaisus, King of the Gruthunni and succesor of Winithar, inviting over more barbarians from beyond the Danube, invaded Italy with an army of above two hundred thousand Goths; and within a year or two, A.C. 405 or 406., was overcome by Stilico, and perished with his army. 
 
-Stilico's expedition against the Greek Emperor was stopt by the order of Honorius; and then Alaric came out of Epirus into Noricum, and requested a sum of money for his service. The Senate were inclined to deny him, but by Stilico's mediation granted it. But after some time Stilico being accused of a traiterous conspiracy with Alaric, and slain 10 Kal. Sept. A.C. 408; Alaric was thereby disappointed of his money, and reputed an enemy to the Empire; he then broke strait into Italy with the army he brought out of Epirus, and sent to his brother Adolphus to follow him with what forces he had in Pannonia, which were not great, but yet not to be despised. Thereupon Honorius fearing to be shut up in Rome, retired to Ravenna in October A.C. 408. And from that time Ravenna continued to be the seat of the Western Emperors. In those days the Hunns also invaded Pannonia; and seizing the deserted seats of the Vandals, Alans, and Goths, founded a new kingdom there. Alaric advancing to Rome besieged it, and 9 Kal. Sept. A.C. 410 took it: and afterwards attempting to pass into Africa, was shipwrackt. After which Honorius made peace with him, and got up an army to send against the Tyrant Constantine.
+In this war, Stilico was assisted with a great body of Hunns and Ostrogoths, under the conduct of Uldin and Sarus, who were hired by the Emperor Honorius.
 
-At the same time Gerontius, one of Constantine's captains, revolted from him, and set up Maximus Emperor in Spain. Whereupon Constantine sent Edobec, another of his captains, to draw to his assistance, the Barbarians under Goar and Gundicar in Gallia, and supplies of Franks and Alemans from beyond the Rhine; and committed the custody of Vienne in Gallia Narbonensis to his son Constans. Gerontius advancing, first slew Constans at Vienne, and then began to besiege Constantine at Arles. But Honorius at the same time sending Constantius with an army on the same errand, Gerontius fled, and Constantius continued the siege, strengthned by the access of the greatest part of the soldiers of Gerontius. After four months siege, Edobec having procured succours, the Barbarian Kings at Ments, Goar and Gundicar, constitute Jovinus Emperor, and together with him set forward to relieve Arles. At their approach Constantius retired. They pursued, and he beat them by surprize; but not prosecuting his victory, the Barbarians soon recovered themselves; yet not so as to hinder the fall of the tyrants Constantine, Jovinus and Maximus. Britain could not be recovered to the Empire, but remained ever after a distinct kingdom.
-
-The next year, A.C. 412, the Visigoths being beaten in Italy, had Aquitain granted them to retire into: and they invaded it with much violence, causing the Alans and Burgundians to retreat, who were then depopulating of it. At the same time the Burgundians were brought to peace; and the Emperor granted them for inheritance a region upon the Rhine which they had invaded: and the same, I presume, he did with the Alans. But the Franks not long after retaking and burning Triers, Castinus, A.C. 415, was sent against them with an army, who routed them and slew Theudomir their King This was the second taking of Triers by the Franks. It was therefore taken four times, once by the Vandals and thrice by the Franks. Theudomir was succeeded by Pharamond, the Prince or King of the Salian Franks in Germany. From thence he brought new forces, reigned over the whole, and had seats granted to his people within the Empire near the Rhine.
-
-And now the Barbarians were all quieted, and settled in several kingdoms within the Empire, not only by conquest, but also by the grants of the Emperor Honorius. For Rutilius in his Itinerary, written in Autumn, Anno Urbis 1169, that is, according to Varro's computation then in use, A.C. 416, thus laments the wasted fields:
-
-Illa quidem longis nimium deformia bellis;
-
-And then adds,
-
-Jam tempus laceris post longa incendia fundis
-
-Vel pastorales ædificare casas.
-
-And a little after,
-
-Æternum tibi Rhenus aret.
-
-And Orosius in the end of his history, which was finished A.C. 417, represents now a general pacification of the barbarous nations by the words comprimere, coangustare, addicere gentes immanissimas; terming them imperio addictas, because they had obtained seats in the Empire by league and compact; and coangustatas, because they did no longer invade all regions at pleasure, but by the same compact remained quiet in the seats then granted them. And these are the kingdoms, of which the feet of the Image were henceforward composed, and which are represented by iron and clay intermixed, which did not stick one to another, and were of different strength.
-
-Notes to Chap. V.
-[1] Procop. l. 1. de Bello Vandalico.
-
-[2] Galli Arborici: whence the region was named Arboricbant, and by contraction Brabant.
-
+In all this confusion it was necessary for the Lombards in Pannonia to arm themselves in their own defence, and assert their liberty, the Romans being no longer able to protect them.
 

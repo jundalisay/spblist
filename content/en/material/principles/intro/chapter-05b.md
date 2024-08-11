@@ -9,6 +9,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 13
 icon: /icons/pantry.png
+draft: true
 ---
 
 

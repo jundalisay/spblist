@@ -21,7 +21,7 @@ There are 5 Layers in Reality | Each Layer has a sound
 
 {{< youtube QzftMDjhV6M >}}
 
-The universe is a reality that is made up of 5 Layers that are completely integrated with each other. 
+The universe is a reality that is made up of 5 Layers that are completely integrated.
 
 An analogy is a Photoshop image which is made up layers that are on top of each other. 
 
@@ -76,19 +76,24 @@ But I have not been able to discover the cause of gravity from phenomena. I have
 {{< /q >}}
 
 
-Without the ability to 'feel for the universe', Newton had no choice but to make predictions for the universe based on the prophecies of Daniel in the Bible.  
+Without the ability to 'feel for the universe', Newton had no choice but to make predictions for the universe based on the [prophecies of Daniel](/research/newton/daniel/part-1) in the Bible.  
 
   <!-- go But it is most obvious in his attempts to find hidden codes or prophecies in the Bible.  -->
 
-The knowledge of metaphysics can be revealed by knowing the nature of the aether just as that of physics can be known by revealing the nature of matter. 
+The knowledge of metaphysics can be revealed by knowing the nature of the **aether** just as that of physics can be known by revealing the nature of **matter**. 
 - The aether acts as waves
   - This is good for music and therefore art and philosophy
 - Matter acts as particles
   - This is good for quantifying and therefore math and engineering
 
-The operations of the mind for math and for philosophy are very different. A good philosopher often is bad at math, just as an excellent mathematician is awful at philosophy. In fact, it is common to hear about mathematicians theorizing about paradoxes involving infinitity. This is merely a waste of time and mental energy. 
+The operations of the mind for math and for philosophy are very different. 
+- A good philosopher often is bad at math
+- An excellent mathematician is often awful at philosophy
 
-Superphysicists (SPs) are generally philosophers first, who use data science and computers to augment any deficiency in mathematics or memorization. Rather than memorize formulas, SPs should understand how the formulas work, so they can recreate or derive formulas on-the-fly. Such a pardigm is embodied in our 'Qualimath'. 
+In fact, it is common to hear about mathematicians theorizing about paradoxes involving infinitity. This is merely a waste of time and mental energy. 
+
+Superphysicists (SPs or 'espees') are generally philosophers first, who use data science and computers to augment any deficiency in mathematics or memorization. Rather than memorize formulas, SPs should understand how the formulas work, so they can recreate or derive formulas on-the-fly. Such a pardigm is embodied in our 'Qualimath'.
+
 
 
 ## The Evolution of Physics from the Focus on Matter
@@ -121,13 +126,14 @@ The limitations of Modern Physics are therefore caused by the ignorance of metap
 
 Material Superphysics breaks through the limitations of Modern Physics by adding into it the proper metaphysics from the ancient Greeks, Indians, and Chinese who all follow a 5-Element model: 
 
-Greeks (Timaeus) | Hindus | Chinese | Shape
---- | --- | --- | --- | ---
-Aether (dodecahedron)  | Akasha | 水 still water | ![Dodecahedron](/graphics/physics/dode.gif)
-Wind (octahedron) | Vayu | 木 moving wood | ![Octahedron](/graphics/physics/octa.gif)
-Fire (tetrahedron) | Tejas | 火 radiant fire | ![Tetrahedron](/graphics/physics/tetra.gif)
-Water (icosahedron) | Jala | 土 transforming earth | ![Icosahedron](/graphics/physics/icos.gif)
-Earth (cube) | Pritvi | 金 solid metal | ![cube](/graphics/physics/cube.gif)
+Greeks (Timaeus) | Hindus | Chinese | Greek Shape | Superphysics Shape
+--- | --- | --- | --- | --- 
+Aether (dodecahedron) | Akasha | 水 still water | Dodecahedron ![Dodecahedron](/graphics/physics/dode.gif) | Pentagon
+Wind (octahedron) | Vayu | 木 moving wood | Octahedron ![Octahedron](/graphics/physics/octa.gif) | Square
+Fire (tetrahedron) | Tejas | 火 radiant fire | Tetrahedron ![Tetrahedron](/graphics/physics/tetra.gif) | Line
+Water (icosahedron) | Jala | 土 transforming earth | Icosahedron ![Icosahedron](/graphics/physics/icos.gif) | Dash
+Earth (cube) | Pritvi | 金 solid metal | Cube ![Cube](/graphics/physics/cube.gif) | Sphere
+
 
 
 ## Superphysics Uses Layers Instead of Fields
@@ -144,7 +150,7 @@ Probability | Metaphysical | Pseudo-science | Yang Yin | Soul | Octave
 Aethereal | Aether, Akasha, 水 (still water) | Pseudo-science | Creative force | Thought (effective qoa or idea) | Ti (You) 
 Spatial | Air, Vayu, 木 (moving wood) | Gravity | Gravity-Levity | Schwarzchild Radius (qost or graviton) |  La (Milky way)
 Radiant | Fire, Tejas, 火 (expanding fire) | Electromagnetism | Male-Female force | Photon (qol) | Sol (Sun)
-Convertible | Water, Jala, 土 (changing earth) | Weak | Conversion force | W Z Bosons (qor) | Fa (Planets)
+Convertible | Water, Jala, 土 (changing earth) | Weak | Conversion force | W Z Bosons (qor) | Fa (Planets) [Re matter, Mi moons]
 Material | Earth, Pritvi, 金 (solid metal) | Strong | Nuclear force | Gluons (effective qom) | Do (Earth)
 
 <!-- Rank | Name | Greek-Hindu | Chinese | Physics Force | Superphysics Force | Force Carrier | Resulting particles in Superphysics | Pythagorean Note
@@ -194,57 +200,3 @@ Western medicine only works on the material layer which is the crudest of the fi
 Western medicine is very good at material health problems that can be cured by physical surgery or masked by chemical medicines. 
 
 
-
-### The Octave vs the Pentatonic Scale
-
-Each of these layers has a sound which represents the wave of that layer. 
-
-{{< img src="/graphics/physics/doremi.jpg" alt="Universal sounds" >}}
-
-This gives us frequencies:
-
-Layer | Note | Frequency
---- | --- | ---
-Aethereal | Ti | ?
-Spatial | La | ? 
-Radiant | Sol | ?
-Convertible | Fa | ?
-Material | Do | 130.81
-
-
-The question-marks above will test whether the following notes to impact the corresponding layer. We only could do tests on material objects and so we can set 130 Hz as the base for the rest. 
-
-The totality of the universe, combining the physical and metaphysical, have 8 tones as the octave of the Greeks and the Bagua of the Chinese.
-
-The major tones form general shapes when they are visualized in the same way that audio is visualized by modern mp3 players. This is why Plato organized them into 5 shapes:
-
-1.  Tetrahedron
-2.  Cube
-3.  Octahedron
-4.  Icosahedron
-5.  Dodecahedron
-
-{{< youtube pMK7dTU0jn0 >}}
-
-These tones manifest as waves such as pulse. 
-
-By checking a patient's pulse, the traditional Chinese doctor checks the wave of that person through his own feelings. Likewise, the homeopath checks this wave through the electrical current that he runs through his patient. 
-
-<!-- The Greeks on the other hand, used eight sounds to represent the five layers. Three, do-re-mi (C-D-E), are for the lower three layers, while fa-so-la-ti-do (F-G-A-B) are for the spatial and aethereal layers. C and G were common in Western Classical Music.   -->
-
-This sound or wave system is the only way to judge and measure the aethereal layer, as well as give the complete picture of the spatial layer. This is because light and sight are useless in the invisible aethereal layer and not 100% useful in the spatial layer.
-
-For example, Galileo demonstrated that two objects with different weights *visually* fall to the ground at the same time, at the same speed. However, those two objects *make different sounds*. The difference of their resulting sounds then will indicate the differences in the nature of their gravitational signature. 
-
-Layer | Transition
---- | ---
-Aethereal | Idea into Aethereal Wave
-Spacetime | Aethereal Wave into Physical Wave
-Radiant (Electromagnetic) | Physical Wave into Emitted Particles
-Convertible | Emitted Particles into Matter
-Material | Matter into Identity
-
-<!-- The next post will apply the five layers to fix Einstein's Theory of General Relativity so that space travel can free itself of the shackles of light and allow both teleportation and fusion -->
-
-<!-- leave ex  explain universal relativity which applies relativistic movement on the five layers. It explains how everything in the universe is interconnected.  
- -->

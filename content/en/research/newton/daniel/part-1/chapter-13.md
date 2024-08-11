@@ -1,9 +1,9 @@
 ---
 heading: Chapter 13
 title: "The King who did according to his will"
-weight: 4
+weight: 40
 image: /covers/daniel.png
-description: "Newton enumerates 3 Laws and 6 Corollaries"
+description: "He magnified himself above every God, and honoured Mahuzzims, and regarded not the desire of women"
 author: Isaac Newton
 icon: /icons/newton.png
 ---
@@ -11,8 +11,6 @@ icon: /icons/newton.png
 
 
 ## The King who did according to his will, and magnified himself above every God, and honoured Mahuzzims, and regarded not the desire of women
-
-
 
 In the first ages of the Christian religion the Christians of every city were governed by a Council of Presbyters, and the President of the Council was the Bishop of the city. 
 

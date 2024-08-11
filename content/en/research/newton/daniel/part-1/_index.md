@@ -1,7 +1,8 @@
 ---
 heading: "Part 1"
-title: OBSERVATIONS ON THE Prophecies of DANIEL
-description: "OBSERVATIONS ON THE Prophecies of DANIEL"
+linkTitle: Daniel
+title: Observations On The Prophecies Of Daniel
+description: "Observations On The Prophecies Of Daniel by Isaac Newton"
 image: "/covers/daniel.png"
 weight: 1
 ---
