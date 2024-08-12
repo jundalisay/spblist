@@ -2,7 +2,7 @@
 heading: Part 1c
 title: "Definitions"
 image: "/covers/cartesian.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "Thought includes all that is in us and of which we are immediately conscious"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
@@ -71,22 +71,7 @@ Whether what is called Mind and what is called Body is one and the same substanc
 
 We have here omitted the Postulates of Descartes because in what follows we do not draw any conclusions from them. But we earnestly ask readers to read them through and to think them over carefully.*
 
-> *The seven postulates (AT7, 162-164) or demandes In the French version (AT9, 125-127) are not postulates in the Euclidean sense but are requests from Descartes to his readers to ponder carefully what can be doubted, the precedmg defmitions, and especially the dIStinction between clear, diShnct perception and obscure, confused perception.]
-
-
-
-## Axioms*
-
-> *The first 3 axioms are not taken from Descartes. Meyer, in his preface, has mentioned that Spinoza would expound Descartes's opimons and demonstrations "just as they are found m his wntmgs, or such as should vahdly be deduced from the foundations laid by him" (Part 1, Proposition 4 129). These axioms do not affirm anything about things external to us, but only such thing as we find within ourselves insofar as we are thinking things. 
-
-
-1. We arrive at the knowledge and certainty of some unknown thing only through the knowledge and certainty of another th ing that is prior to it in certainty and knowledge. 
-
-2. There are reasons that make us doubt the existence of our bodies.
-
-This has in fact been shown in the Prolegomenon, and so is here posited as an axiom.
-
-3. If we have anything besides mind and body, this is less known to us than mind and body.
+<!-- > *The seven postulates (AT7, 162-164) or demandes In the French version (AT9, 125-127) are not postulates in the Euclidean sense but are requests from Descartes to his readers to ponder carefully what can be doubted, the precedmg defmitions, and especially the dIStinction between clear, diShnct perception and obscure, confused perception.] -->
 
 
 

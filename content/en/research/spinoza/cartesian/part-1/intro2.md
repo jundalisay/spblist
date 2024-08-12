@@ -2,7 +2,7 @@
 heading: Introduction 2
 title: "Liberation from All Doubts"
 image: "/covers/cartesian.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "To remove all doubt, Descartes asks into the nature of the most perfect Being, and whether such exists"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
@@ -74,14 +74,15 @@ To remove this difficulty, Descartes replies that:
 - but it does not follow that we can doubt those things that we understand clearly and distinctly through themselves or through a process of reasoning
 <!-- - as long as we are paying attention to it, we can doubt only those things previously demonstrated to be true, which we may remember when we are no longer attending to the reasoning from which we deduced them, and which we have thus forgotten. -->
 
-Therefore, the existence of God can be known not through itself but only through something else. Yet, we can nevertheless attain a knowledge of God's existence **if we carefully attend to all the premises from which we conclude it**. See Principia Part I Article 1 3, and "Reply to Second Objections," No. 3, and at the end of the "Fifth Meditation."
+Therefore, the existence of God can be known not through itself but only through something else. 
+
+Yet, we can nevertheless attain a knowledge of God's existence **if we carefully attend to all the premises from which we conclude it**. See Principia Part 1, Article 1 3, and "Reply to Second Objections," No. 3, and at the end of the "Fifth Meditation."
 
 However, some do not find this reply satisfactory, so I shall give another*.
 
-> *Superphysics Note: In Asian philosophy, the clearest and most undeniable proof of God's existence is called the samadhi experience, which is a direct perception of the Supreme. This is beyond reason and can only be achieved after required rigor and training of heart, body, and mind.  
+{{< n n="In Asian philosophy, the clearest and most undeniable proof of God's existence is called the samadhi experience, which is a direct perception of the Supreme. This is beyond reason and can only be achieved after required rigor and training of heart, body, and mind.In Asian philosophy, the clearest and most undeniable proof of God's existence is called the samadhi experience, which is a direct perception of the Supreme. This is beyond reason and can only be achieved after required rigor and training of heart, body, and mind." >}}
 
-
-
+  
 When we were speaking of the sureness of our existence, the proof of our existence came from us perceiving things through our mind's eye. 
 
  <!-- we saw that we concluded it from the fact that, in whatever direction we turned the mind's eye, we did not find any reason to doubt that did not by that very fact convince us of our existence.  -->
@@ -141,12 +142,17 @@ And just as we can form such an idea of a triangle in spite of not knowing wheth
 
 So having made these points, I reply as follows to the difficulty that has been raised. It is not as long as we do not know of God's existence (for I have not spoken of that) but as long as we do not have a clear and distinct idea of God, that we cannot be certain of anything. 
 
-Therefore, if anyone wishes to argue against me, his argument will have to be as follows: "We cannot be certain of anything until we have a clear and distinct idea of God. But we cannot have a clear and distinct idea of God as long as we do not know whether the author of our nature is deceiving us. Therefore, we cannot be certain of anything as long as we do not know whether the author of our nature is deceiving us, etc." 
+A person might object: 
 
-To this I reply by conceding the major premise and denying the minor. For we do have a clear and distinct idea of a triangle, although we do not know whether the author of our nature is
-deceiving us; and granted that we have such an idea of God, as I have just shown at some length, we cannot doubt his existence or any mathematical truth. 
+"We cannot be certain of anything until we have a clear and distinct idea of God. But we cannot have a clear and distinct idea of God as long as we do not know whether the author of our nature is deceiving us. Therefore, we cannot be certain of anything as long as we do not know whether the author of our nature is deceiving us, etc." 
 
-With this as preface, I now enter upon the work itself. 
+I reply by conceding the major premise and denying the minor. 
+
+We do have a clear and distinct idea of a triangle, although we do not know whether the author of our nature is deceiving us. 
+
+Granted that we have such an idea of God, as I have just shown at some length, we cannot doubt his existence or any mathematical truth. 
+
+<!-- With this as preface, I now enter upon the work itself.  -->
 
 
 <!-- Part 1, Delini!io"" 127 -->

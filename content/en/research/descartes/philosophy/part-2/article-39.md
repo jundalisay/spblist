@@ -1,5 +1,5 @@
 ---
-title: "The Second Law of Motion"
+title: "The Second and Third Laws of Motion"
 heading: Articles 39-40
 weight: 42
 description: "The Second law of nature: Every motion be straight of itself, and that ideas which move in a circular manner should always tend to recede from the center of the circle which they describe"
@@ -65,16 +65,19 @@ The power that minds, whether human or angelic, have in moving bodies is discuss
 
 #### 40. The Third Law: A body does not lose its motion when it encounters a more powerful body. But it transfers some of its motion when it encounters a less powerful body
 
-When a moving body encounters another body, if it has less force to proceed in a straight line than the other has to resist it, then it is deflected to another part. Thus, it retains its motion, it only loses the direction of its motion. 
+Body `weak` has less force than body `strong`. If `weak`, moving in a straight line, hits `strong`, then `weak` will be deflected, retaining its motion but losing its direction.*
+
+{{< n n="This explains friction when the deflected object is not allowed to fully deflect because of the irregulatrity of the surfaces" >}}
 
  <!-- determination of its motion;  -->
 
-But if it has more force, then it moves the other body with it, and loses as much of its own motion as it gives to the other. 
+But if `strong` were moving and hits `weak`, then `strong` will move `weak` with it. `strong` will lose as much of its own motion as it gives to `weak`. 
 
-Thus, when hard bodies are projected, on striking another hard body, do not on that account cease from motion, but are reflected to the opposite part.
+Thus, when hard bodies are projected and strike another hard body, they do not stop moving. Instead, they are reflected to the opposite direction.
 
-On the contrary, when they encounter a soft body, because they easily transfer all their motion to it, they are immediately reduced to rest. 
+On the contrary, when they encounter a soft body, they can easily transfer all their motion to it. This stops them. 
 
-All the particular causes of the changes which happen to bodies, are contained in this Third Law; at least those which are corporeal; for whether and what force human minds or Angelic have for moving bodies, we do not now inquire, but reserve it for the treatise on Man.
+All the changes which happen to corporeal bodies are contained in this Third Law.
 
+I do not look here into what force human or angelic minds have for moving bodies. That will be discussed in the  treatise on Man.
 

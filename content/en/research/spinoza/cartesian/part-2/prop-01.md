@@ -1,5 +1,5 @@
 ---
-heading: "Propositions 1-11"
+heading: "Propositions 1-5"
 title: There are no vacuums nor atoms
 image: "/covers/cartesian.jpg"
 description: "The nature of body or matter consists only in extension"

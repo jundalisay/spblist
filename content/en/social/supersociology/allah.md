@@ -84,9 +84,7 @@ Americans | Land and Mercantile Fervor (Trader)
 Chindia | Population (Worker)
 
 
-{{< box >}}
-## Note
-
+{{< dc t="Note (click to expand)" >}}
 This post aims to give the concept that the main mechanism that powers Judeo-Christian religions is positive thinking. This includes cultural affinities. 
 
 The Quran gives many promises in exchange for obedience that is in line with Arab culture. An example is the difference between men and women. 
@@ -102,4 +100,4 @@ For example, the mercantile Seljuks naturally defeated the religious Crusaders j
 If both sides have the same social cycle, then the deciding factor is their **mastery of the 5 Elements**. This usually manifests as their technological superiority.
 
 The Taliban are technological inferior to the US yet were able to win because of their cultural affinity with the Afghan people. 
-{{< /box >}}
+{{< /dc >}}

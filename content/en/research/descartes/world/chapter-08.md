@@ -14,13 +14,13 @@ icon: "/icons/descartes.png"
 <!-- # title= "The Formation of the Sun and the Stars of the New World" -->
 
 
-
-Cartesian Principles | Assertions
+{{< dc >}}
+Principles | Assertions
 --- | ---
 Aethereal Universe |  God is constantly dividing the aether as vortices to create evolution and the expansion of the universe
 . | Each vortex-center has a different size and travels in straight lines
 . | These vortices were random at first, but gradually settled into place
-
+{{< /dc >}}
 
 
 

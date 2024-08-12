@@ -6,7 +6,7 @@ description: "We shall not examine the validity of Zeno's argument. Instead, we 
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 8
+weight: 9
 ---
 
 
@@ -18,11 +18,13 @@ We shall not examine the validity of Zeno's argument. Instead, we shall disclose
 
 2. He supposes time to be made up of moments, just as others have conceived quantity to be made up of indivisible points.
 
-Both of these suppositions are false. 
+**Both of these suppositions are false.**
 
 <!-- For we can never conceive a motion so fast that we cannot at the same time conceive a faster.  -->
 
-It is contrary to our intellect to conceive a motion so fast, however short be its course, that there can be no faster motion.
+We are unable to think of a motion so fast that there is no motion faster.
+
+<!-- It is contrary to our intellect to conceive a motion so fast, however short be its course, that there can be no faster motion. -->
 
 <!-- Part 2, Proposition 6 155 -->
 The same holds true in the case of slowness. To conceive a motion so slow that there cannot be a slower, involves a contradiction. 
@@ -30,23 +32,27 @@ The same holds true in the case of slowness. To conceive a motion so slow that t
 This also applies to time, which is the measure of motion.
 
 
-It is contrary to our intellect to conceive a time other than which there can be none shorter.
+It is contrary to our intellect to conceive a timespan so short that there can be none shorter.
 
-Let us suppose, with him, that a wheel ABC moves about its center at such a speed that point A is at every moment in the position A from which it moves.
+Let us suppose, with him, that a wheel `ABC` moves around its center at such a speed that point `A` is at every moment in position `A`.
+
+{{< img src="/graphics/physics/prop-6b.png" alt="Zeno's wheel" >}}
 
 I clearly conceive a speed indefinitely greater than this, and consequently moments that are infinitely less.
 
-The wheel ABC moves around its center, with the help of a belt H it causes another wheel, DEF, half its size, to move about its center. 
+The wheel `ABC` moves around its center, with the help of a belt H it causes another wheel, DEF, half its size, to move about its center. 
 
-The wheel `DEF` is supposed to be half the size of the wheel `ABC`. The wheel `DEF` moves at twice the speed of the wheel ABC. Consequently, point D is at every halfmoment again in the same place from which it began to move.
+The wheel `DEF` is supposed to be half the size of the wheel `ABC`. The wheel `DEF` moves at twice the speed of the wheel ABC. 
 
-Then if we assign the motion of the wheel DEF to the wheel ABC, DEF will move 4 times faster than the original speed, and if we again assign this last speed of the wheel DEF to the wheel ABC, then DEF will move 8 times as fast, and so ad infinitum. 
+Consequently, point `D` is at every halfmoment again in the same place from which it began to move.
+
+Then if we assign the motion of the wheel `DEF` to the wheel `ABC`, `DEF` will move 4 times faster than the original speed, and if we again assign this last speed of the wheel `DEF` to the wheel `ABC`, then `DEF` will move 8 times as fast, and so ad infinitum. 
 
 But this is quite clear merely from the concept of matter.
 
 The essence of matter consists in extension, or ever-divisible space. 
 
-There is no motion without space. 
+**There is no motion without space.** 
 
 One part of matter cannot occupy two spaces at the same time.
 

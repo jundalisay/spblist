@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3b"
+heading: "Chapter 9"
 title: "How Kepler's Harmonic Ratios Create Movement"
 # date: 2023-11-10
 image: "/graphics/physics/doremi.jpg"

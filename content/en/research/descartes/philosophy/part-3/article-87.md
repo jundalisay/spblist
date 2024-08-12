@@ -1,5 +1,5 @@
 ---
-title: "The Striated Particles [Electrons] of the Fire-Aether"
+title: "The Striated Particles [Virtual Photons] of the Fire-Aether"
 heading: Articles 88-93
 weight: 47
 description: "Those slowest of the small parts easily transfer to others what little speed they have and then fuse to each other"
@@ -8,11 +8,12 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
-aliases:
-  /research/descartes/philosophy/part-3/article-88
+# aliases:
+#   /research/descartes/philosophy/part-3/article-88
 ---
 
 
+{{< n n="We replaced 'striated particles' with virtual photons">}}
 
 
 #### 87. The Various Degrees of Speed in the Minute Parts of the Fire-aether
@@ -103,61 +104,49 @@ Then they gather into small masses.
 
 
 
-#### 90. What is the shape of these small particles, which I will call striated particles
+#### 90. What is the shape of these small particles, which I will call striated particles or virtual photons
 
-<!-- These minute parts, I call "Striated Particles" [Electrons] -->
+<!-- What is the figure of these small particles, which will henceforth be called striated particles. Clearly, since they often pass through those narrow triangular spaces that are found in the middle of the three globules of the second element, which touch each other, they must take on a triangular figure in their width and depth. As for their length, it is not easy to determine, because it does not seem to depend on any other cause than the quantity of matter from which these small masses are formed; but it is enough to conceive of them as small columns, hollowed out with three striae twisted like spirals, so that they can pass by turning through those narrow passages, having the figure of a curvilinear triangle FGI, which are always found between the three globules of the second element, touching each other.  -->
 
-The middle of 3 air-aether globules touching each other create narrow triangular spaces. These striated particles must take on a triangular shape in their width and height when they pass through these. 
+<!-- For since they are oblong, and pass with very rapid motion between those globules of the second element, while the latter rotate with another motion around the poles of the heavens, it is clearly understood that their striae must be twisted like spirals; and indeed more or less twisted, as they pass through parts more remote or nearer to the axis of the vortex; because the globules of the second element rotate more quickly in those than in these, as has been said before. -->
 
-Their length is not easy to determine because it only depends on the abundance of matter in them. 
+The middle of 3 air-aether globules touching each other create narrow triangular spaces. These virtual photons must take on a triangular shape in their width and height when they pass through these. 
 
-from which these small masses are formed; but it is enough to conceive of them as
+Their length is not easy to determine because it only depends on the abundance of fire-aether in them. 
 
-They are small columns, hollowed out with 3 spirals like screw-threads. This lets them pass through those narrow passages while twisting, having the figure of a curvilinear triangle FGI.
+They are small columns, hollowed out with 3 spirals like screw-threads. This lets them pass through those narrow passages while twisting, having the figure of a curvilinear triangle `FGI`.
 
-, which is always found between the three second element globules touching each other. For the fact that they are oblong, and pass with very rapid motion between those second element globules, while the latter rotate with another motion around the poles of the heavens, clearly shows that their striations must be twisted like screw-threads; and indeed more or less twisted, as they pass through parts more remote or nearer to the axis of the vortex; because the second element globules rotate more quickly in those parts than in these, as was said before.
+This triangular hole is always found between the 3 air-aether globules touching each other.
 
-
-These often pass through those narrow triangular spaces found in the middle of 3 mutually touching globules of the air-aether. And so, they must acquire a triangular shape in width and height.
-
-However, their length is not easy to determine.
-
-This is because it does not depend on any other cause than the amount of matter from which these small masses are formed.
-
-They are like small columns, excavated with 3 striations twisted like spirals.
-
-This lets them pass by rotating through those narrow passages which are shaped like a curved triangle always found between 3 mutually touching air-aether globules.
-
-<!-- , having the shape of the curvilinear triangle FGI,   -->
-
-They are elongated and move very swiftly among these air-aether globules which rotate around the poles of the sky with another motion.
+The virtual photons are elongated and pass very rapidly between those air-aether globules which rotate around the poles of the gravitational territory. 
 
 {{< i s="/graphics/physics/striated.jpg" a="Striated particle" >}}
 
+This is why those virtual photons must have screw-threads to pass through those rotating globules very quickly.
 
-This means that their striations must be twisted like spirals.
+They would be more twisted the closer they are to the axis of the vortex and less twisted the farther away. 
 
-These twists depend on whether they pass through parts closer or further from the axis of the vortex.
+This is because the air-aether globules rotate faster near the axis.
 
-This is because the air-aether globules rotate faster when closer to the axis and rotate slower when farther. 
+<!-- These twists depend on whether they pass through parts closer or further from the axis of the vortex.
 
-
-
-#### 91. These particles coming from opposite poles are twisted in contrary directions
-
-XCI. These particles coming from opposite poles must be twisted in opposite directions. And also from the fact that they come towards the middle of the heavens from contrary parts; some, that is, from the South, others from the North, while meanwhile the entire vortex moves around its axis in the same directions, it is manifest that those which come from the South Pole must not be twisted in the same directions as those which come from the North Pole, but plainly in contrary directions. This I think very worthy of observation; because the forces of the magnet to be explained below, chiefly depend on this.
+This is because the air-aether globules rotate faster when closer to the axis and rotate slower when farther.  -->
 
 
 
-They come towards the middle of the sky from opposite parts"
-- some from the South Pole
-- others from the North Pole
+#### 91. These virtual photons coming from opposite poles are twisted in contrary directions
 
-This is while the whole vortex moves around its axis in one and the same direction.
 
-Those coming from the South Pole must be twisted in opposite directions to those coming from the North Pole. 
+They come towards the middle of the gravitational territory from opposite parts.
+- some come from the South Pole
+- others come from the North Pole
 
-The forces of the magnet mainly depend on this.
+This happens while the entire vortex rotates around its axis. 
+
+Those which come from the South Pole are twisted in the opposite way as those which come from the North Pole.
+
+Magentic forces chiefly depend on this.
+
 
 
 #### 92. They only have 3 striations
@@ -166,25 +155,21 @@ The forces of the magnet mainly depend on this.
 
 so that the striated particles of the first element, passing through them, must also take on the figure we have described.  -->
 
-
-
-whence it happens that the less agitated matter of the first element which exists in it, must flow to one or two of its angles, and leave the remainder of the space to the more mobile matter, and more easily changing its figures, so as to accommodate them to all the motions of those globules. 
+<!-- whence it happens that the less agitated matter of the first element which exists in it, must flow to one or two of its angles, and leave the remainder of the space to the more mobile matter, and more easily changing its figures, so as to accommodate them to all the motions of those globules. 
 
 And if perhaps one of its particles, existing in one of those angles, extends itself there towards the part opposite to that angle, beyond a space equal to the triangle FGI, it must be expelled from there, and consequently diminished, when it happens that a third globule touches the two which make the angle in which it is situated. 
 
 Namely, if the less agitated matter, occupying the angle G, extends itself towards D beyond the line FI, it will be thrust out from there by the globule C, and to that extent diminished, when this globule C approaches B, so as to close the triangle GFI. And because the particles of the first element, which are the largest in it and less agitated than the rest, cannot but often be so situated among three globules approaching each other, while passing through the long tracts of the heavens, they do not seem to be able to take on any determined figure, and abide in them for some time, except that which we have described.
+ -->
 
 
-
-
-
-These fire-aether particles can only have 3 striations.
+These virtual photons can only have 3 striations.
 
 The air-aether globules cannot always touch each other in such a way that only triangular spaces remain around them.
 
 Any larger spaces found among these globules always have their angles exactly equal to those of the triangle `FGI`. The rest are in perpetual change. 
 
-The striated fire-aether particles passing through them must also take on this shape.
+The virtual photons passing through them must also take on this shape.
 
 For example, the globules `A, B, C, H` touch each other at points `K, L, G, E`. 
 

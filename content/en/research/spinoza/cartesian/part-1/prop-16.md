@@ -12,6 +12,9 @@ weight: 17
 
 
 
+{{< n n="We replace 'Substance' with Aether" >}}
+
+
 ## Proposition 16: God is incorporeal
 
 Proof 1: Body is the immediate subject of local motion (Def. 7).
@@ -75,6 +78,8 @@ Corollary: It follows that God is in the highest degree constant in his works.
 
 <!-- ## Proposition 21: Substance extended in length, width, and height exists in reality. We are united to one part of it. -->
 
+
+
 ## Proposition 21: The aether exists with length, width, and height. We are united to one part of it.
 
 Proof: Whatever is extended can be clearly and distinctly perceived by us. This extension is created by God (Cor. Prop. 7 and Prop. 8) and is not part of God's nature (Prop. 1 6).  
@@ -100,7 +105,8 @@ Therefore, as long as we correctly attend to our perceptions so as to allow noth
 Therefore, we are inclined to affirm that the metaphysical thing exists, created by God. And in this we surely cannot be deceived (Prop. 14 with Schol.).
 
 
-#### Point 2: Extended substance produces sensations in us. 
+<!-- Extended substance -->
+#### Point 2: The metaphysical aether  produces sensations in us. 
 
 These sensations have a considerable difference.
 

@@ -8,6 +8,17 @@ image: /covers/design.jpg
 ---
 
 
+The plague of infinities is similar to the problem that occurs in the theories of the strong, weak, and electromagnetic forces, except in those cases renormalization removes the infinities. 
+
+The closed loops in the Feynman diagrams for gravity produce infinities that cannot be absorbed by renormalization because in general relativity there are not enough renormalizable parameters (such as the values of mass and charge) to remove all the quantum infinities from the theory.
+
+This leaves a theory of gravity that predicts that certain quantities, such as the curvature of space-time, are infinite. This is no way to run a habitable universe.
+
+That means the only possibility of obtaining a sensible theory would be for all the infinities to somehow cancel, without resorting to renormalization.
+
+In 1976, a possible solution was found as supergravity. The “super” refers to a kind of symmetry the theory possesses, called supersymmetry.
+
+
 ### Supersymmetry
 
 In physics, a system has a symmetry if its properties are unaffected by a certain transformation such as:

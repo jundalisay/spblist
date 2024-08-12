@@ -6,7 +6,7 @@ description: "If A and B are unequal in mass, B being greater than A, other cond
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 14
+weight: 24
 ---
 
 

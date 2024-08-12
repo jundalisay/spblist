@@ -20,7 +20,9 @@ A person who does not know that he exists will not know that he is a being affir
 
 We can affirm or deny many things even if we ignore the fact that we exist. But in this case, everything can be doubted*.
 
-> *Superphysics Note: An example is a dream
+
+{{< n n="*An example is a dream" >}}
+
 
 <!-- unless this is presupposed as indubitable, everything could be called into doubt. -->
 
@@ -81,4 +83,3 @@ With these, I have decided to list here those things that at present seem necess
 These are set forth by Descartes as axioms at the end of his "Reply to the Second Set of Objections," and I do not aim at greater accuracy than he. 
 
 However, not to depart from the order we have been pursuing, I shall try to make them somewhat clearer, and to show how one depends on another and all on this one first principle, 'I am, while thinking', or how their certainty and reasonableness is of the same degree as that of the first principle.
-

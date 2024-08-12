@@ -1,5 +1,6 @@
 ---
-title: "Law of Motion and Conservation of Energy"
+title: The First Law of Motion
+# title: "Law of Motion and Conservation of Energy"
 heading: Articles 36-38
 weight: 40
 description: "The universal and primary cause is God Himself"
@@ -27,11 +28,27 @@ Motion is merely in the body moved, than in its modification.
 
 But it nevertheless has a determinate quantity which remains the same in the entire universe, evem if it changes in its individual parts.
 
-For instance, if we think that one part of matter moves twice as fast as another, and this latter part is twice as large as the former, there is as much motion in the smaller part as in the larger, and as the motion of one part becomes slower, the motion of another part equal to it becomes faster. 
+For instance, body `A` moves twice as fast as body `B`.
+- Body `B` is twice as large as body `A` which makes it slower. 
+- It means that both bodies have equal motion, but different size. 
 
-We also understand that there is perfection in God, not only because He is immutable in Himself, but also because He operates in the most constant and immutable manner: so that, except for those changes which evident experience or divine revelation makes certain, and which we perceive or believe to occur without any change in the Creator, we should not suppose any other changes in His works, lest any inconstancy be attributed to Him.
+As the motion of one body becomes slower, the motion of the other body equal to it becomes faster [relative to it]. 
 
-Hence, it follows that it is most consistent with reason to think that, from the fact alone that God moved the parts of matter in different ways when He first created them, and now preserves all this matter in precisely the same manner and by the same reasoning as He first created it, He also always maintains the same amount of motion in it.
+God:
+- is immutable in Himself
+- operates in the most constant and immutable manner
+
+<!-- so that, except for those changes which evident experience or divine revelation makes certain, and which we perceive or believe to occur without any change in the Creator,  -->
+
+And so we should not suppose any other changes in His works, lest any inconstancy be attributed to Him.
+
+<!-- Hence, it follows that it is most consistent with reason to think that, from the fact alone that  -->
+
+God moved the matter particles in different ways when He first created them.
+
+He now preserves all this matter in precisely the same way and by the same reasoning as He first created it.
+
+He also always maintains the same amount of motion in it.
 
 
 <!-- ### 36. God is the primary cause of motion, and always preserves the same quantity of motion in the universe.
@@ -59,7 +76,7 @@ The result will be a motion along a straight line, as depicted in the following 
 
 
 
-#### 37. The First Law of Nature: Each Thing Always Perseveres in the Same State As Much As It Can. Thus, What Is Once Moved Always Continues to Be Moved.
+#### 37. The First Law of Nature: Each thing always perseveres in the same state as much as it can. thus, what is once moved always continues to be moved.
 
 Certain laws of nature can be known from this same immutability of God.
 

@@ -13,27 +13,39 @@ icon: "/icons/descartes.png"
 
 #### 53. The use of these rules is difficult because each body is touched by many at the same time
 
-But because in the world there are no bodies so isolated from all others, and there are hardly any perfectly hard bodies around us, it is much more difficult to devise a calculation to determine how much the motion of each body is altered due to the encounters with others. 
+In the world, there are:
+- no bodies that are so isolated from all others
+- hardly any perfectly hard bodies around us
 
-For we must consider all the factors that surround it, which have very different effects depending on whether they are hard or fluid. Therefore, the diversity in this regard must be investigated.
+And so it is much more difficult to devise a calculation to determine how much the motion of each body is altered due to the encounters with others. 
+
+This is because we must consider all the factors that surround it. These have very different effects depending on whether they are hard or fluid. 
+
+Therefore, the diversity in this regard must be investigated.
 
 
 #### 54. Which bodies are hard, and which are fluids.
 
-Through sensory experience, we recognize nothing other than this: that the parts of fluids easily move away from their positions, and therefore do not resist when our hands move towards them; 
+The particles of fluids easily move away from their positions. Therefore, they do not resist when our hands move towards them.
 
-On the contrary, the parts of solids adhere to each other in such a way that they cannot be separated without a force sufficient to overcome their cohesion. 
+On the contrary, the particles of solids adhere to each other so strongly. They cannot be separated without a force sufficient to overcome their cohesion.
 
-Further investigation reveals why some bodies easily yield their places to others while others do not; 
+<!-- Further investigation reveals why some bodies easily yield their places to others while others do not;  -->
 
-We easily notice that bodies already in motion do not hinder other places from being occupied by those they spontaneously leave, but those at rest cannot be displaced from their positions without some force. 
+Bodies that are already in motion allow other bodies to fill the places that they have just left. 
 
-Hence, it can be inferred that bodies divided into many small particles, agitated by mutually different motions, are fluids, while those whose individual particles all remain at rest relative to each other are solids.
+<!-- do not hinder other places from being occupied by those they spontaneously leave,  -->
+
+But bodies at rest can only be displaced from their positions through some force.
+
+Hence:
+- fluids are bodies that are divided into many small particles, agitated by mutually different motions.
+- solids are bodies whose individual particles all remain at rest relative to each other
 
 
 #### 55. The particles of solid bodies are joined together by no other glue than their own stillness
 
-We cannot conceive of any glue that would bind the particles of solid bodies more firmly than their own stillness. 
+We cannot conceive of any glue that would bind the particles of solid bodies more firmly than their own stillness.
 
 What could this glue be? 
 
@@ -57,5 +69,3 @@ It is not substance, because since these particles are substances, there is no r
 Nor is there any mode other than rest. No other mode could be more opposed to the motion by which these particles are separated than their own rest. 
 
 And besides substances and their modes, we recognize no other kind of thing. -->
-
-

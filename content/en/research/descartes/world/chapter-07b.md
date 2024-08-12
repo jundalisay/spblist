@@ -12,9 +12,12 @@ icon: "/icons/descartes.png"
 ---
 
 
-![Rule 3](/covers/rule3.jpg)
 
-A moving body always travels along a curved line in totality, even if its individual parts seem to travel in a straight line. 
+### Rule 3: Straight or Circular
+
+Rule 3: A moving body always travels along a curved line in totality, even if its individual parts seem to travel in a straight line. 
+
+{{< i s="/graphics/physics/rule3.jpg" a="Rule 3" >}}
 
 Thus, a body's total or long-term motion is different from its individual or short-term motion.
 
@@ -31,7 +34,9 @@ It always goes in a straight line. It goes around only under constraint.
 
 This rule, like Rule 1 and 2, is based on God conserving everything by His continuous action. This means that He is **conserving it anew at every instant** and not as a mere continuation of the past conservation*.
 
-> *Superphysics Note: From this we derive our 3 Laws of Conservation, of Matter (earth-aether), Energy (fire-aether and air-aether), and Idea (pure aether)
+
+{{< n n="*From this we derive our 3 Laws of Conservation, of Matter (earth-aether), Energy (fire-aether and air-aether), and Idea (pure aether)" >}}
+
 
 
 ### Straight-Line "Free" Motion
@@ -41,7 +46,9 @@ Of all motions, only the straight motion is entirely simple. Its whole nature is
 - that that direction happens* in each instant while it is moving
 <!--  during its the time that it is moving.  -->
 
-> *Superphysics Note: Like Einstein, Descartes splits movements into small observable instants (moments of time) as differentials. 
+
+{{< n n="*Like Einstein, Descartes splits movements into small observable instants (moments of time) as differentials." >}}
+
 
 
 <!-- Like Einstein, he unifies the conservation of energy and mass as a single idea. But unlike Einstein who sources this conservation on a spacetime fabric, Descartes asribes it to God through His aether. This aether is the material of the mind which is inherent in all objects, though it is most evident in living things. Therefore, the cause of movement is the differences in the inherent nature of each mind. The 'mind' of an ice block moves as water when influenced by heat. An object that has no mind will not react to anything and will never move. Such an object does not exist.  -->
@@ -94,7 +101,9 @@ But these are the three that will be supported by the mathematicians and evidenc
 
 God disposed all things in number, weight, and measure*.
 
-> *Translator's note: Sapientia, 8, 21. The statement was a commonplace of medieval thought and was encountered by every schoolboy in the opening line of Johannes de Sacrobosco's Algorismus vulgaris, the standard arithmetic textbook from the mid-13th-mid-16th century.
+
+{{< f f="Sapientia, 8, 21. The statement was a commonplace of medieval thought and was encountered by every schoolboy in the opening line of Johannes de Sacrobosco's Algorismus vulgaris, the standard arithmetic textbook from the mid-13th-mid-16th century." >}}
+
 
 
 

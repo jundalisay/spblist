@@ -1,7 +1,5 @@
 ---
-# heading: 
 title: "Definitions by Spinoza"
-# What is Local Motion?"
 image: "/covers/cartesian.jpg"
 description: "Here the only requirement is that everyone should attend to his perceptions as accurately as possible"
 writer:
@@ -11,10 +9,12 @@ weight: 2
 ---
 
 
+<!-- # What is Local Motion?" -->
+
 Here the only requirement is that everyone should attend to his perceptions as accurately as possible, so that he may distinguish what is clear from what is obscure.
 
 
-## Definitions
+### Definitions
 
 1. Extension [Metaphysical space] is that which consists of 3 dimensions. 
 
@@ -31,7 +31,8 @@ But by extension does not mean the act of extending, or anything distinct from q
 
 6. Space is to be distinguished from extension [metaphysical space] only in thought.* In reality, they are the same. Read Art. 10 Part 2 of the Principia.
 
-> *Superphysics Note: Extension is metaphysical, space is physical. Nowadays, space is both physical and metaphysical, and extension is not used. 
+{{< n n="Extension is metaphysical, space is physical. Nowadays, space is both physical and metaphysical, and extension is not used." >}}
+ 
 
 
 7. Divisible is that which in our thinking can be divided, at least potentially.
@@ -94,6 +95,12 @@ However, if the moving body forms part of other bodies having other motions, the
 But because it is not easy to understand so many motions at the same time, or even to recognize them all, it will be sufficient to consider in each body that unique motion, which is peculiar to it. See Art. 31 Part 2 Principia.
 
 
-9. A circle of moving bodies is a formation where the last body, in motion because of the impulse of another body, immediately touches the first of the moving bodies, even though the shape formed by all the bodies together through the impulse of a single motion may be very contorted.
+9. A circle of moving bodies is a formation where the last body, immediately touches the first body.
+
+<!-- in motion because of the impulse of another body,  of the moving bodies, -->
+
+{{< i s="/graphics/physics/strip.jpg" a="Strip" >}}
+
+This is even though the shape formed by all the bodies together through the impulse of a single motion may be very contorted.
 
 

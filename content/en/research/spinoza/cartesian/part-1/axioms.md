@@ -1,19 +1,31 @@
 ---
-heading: Introduction 3
-title: "Axioms Added To Descartes"
+# heading: Propositions 1-4 
+title: "Axioms"
 image: "/covers/cartesian.jpg"
-description: "Spinoza adds All things are predetermined by God, from his infinite power and not from his free will"
+description: "We only be absolutely certain of anything as long as we know that we exist"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 6
+weight: 7
 ---
 
 
+#### 1. We arrive at the knowledge and certainty of some unknown thing only through the knowledge and certainty of another thing that is prior to it in certainty and knowledge.
 
-<!-- ## Axioms Taken from Descartes -->
+<!-- > *The first 3 axioms are not taken from Descartes. Meyer, in his preface, has mentioned that Spinoza would expound Descartes's opimons and demonstrations "just as they are found m his wntmgs, or such as should vahdly be deduced from the foundations laid by him" (Part 1, Proposition 4 129). These axioms do not affirm anything about things external to us, but only such thing as we find within ourselves insofar as we are thinking things.  -->
 
-4. There are different degrees of reality or being.
+
+#### 2. There are reasons that make us doubt the existence of our bodies.
+
+This has in fact been shown in the Prolegomenon, and so is here posited as an axiom.
+
+
+#### 3. If we have anything besides mind and body, this is less known to us than mind and body.
+
+
+### Axioms Taken from Descartes
+
+#### 4. There are different degrees of reality or being.
 
 Substance has more reality than accident or mode, and infinite substance, more than finite substance. 
 
@@ -25,20 +37,24 @@ This axiom is known simply from contemplating our ideas, of whose existence we a
 
 This being so, we also necessarily realize that the idea of substance contains more objective reality than the idea of some accident, etc. See Scholium Prop. 4.
 
-5. A thinking thing, if it knows of any perfections that it lacks, will immediately give these to itself, if they are within its power.26
+
+#### 5. A thinking thing, if it knows of any perfections that it lacks, will immediately give these to itself, if they are within its power.26
 
 This everyone observes in himself insofar as he is a thinking thing. Therefore (Scholium Prop. 4) we are most certain of it. And for the same reason, we are just
 as certa in of the following:
 
-6. In the idea or concept of every thing, there is contained either possible or necessary existence. (See Axiom 10, Descartes.)
+
+#### 6. In the idea or concept of every thing, there is contained either possible or necessary existence. (See Axiom 10, Descartes.)
 
 Necessary existence is contained in the concept of God, or a supremely perfect being; for otherwise he would be conceived as imperfect, which is contrary to what is supposed to be conceived. Contingent or possible existence is contained in the concept of a limited thing.
 
-7. No thing, nor any perfection of a thing actually existing, can have nothing, or a nonexisting thing, as the cause of its existence.
+
+#### 7. No thing, nor any perfection of a thing actually existing, can have nothing, or a nonexisting thing, as the cause of its existence.
 
 I have demonstrated in the Scholium Prop. 4 that this axiom is as clear to us as is 'I am, when thinking'.
 
-8. Whatever there is of reality or perfection in any thing exists formally or eminently in its first and adequate cause.27
+
+#### 8. Whatever there is of reality or perfection in any thing exists formally or eminently in its first and adequate cause.27
 
 By 'eminently' I understand: when the cause contains all the reality of the effect more perfectly than the effect itself. By 'formally': when the cause contains
 all the reality of the effect equally perfectly.
@@ -47,7 +63,8 @@ This axiom depends on the preceding one. For if it were supposed that there is n
 
 Therefore it is not the case that anything whatsoever can be the cause of a certain effect; it must be precisely a thing in which there is eminently or at least formally all the perfection that is in the effect.
 
-9. The objective reality of our ideas requires a cause in which that same reality is contained not only objectively but also formally or eminently.28
+
+#### 9. The objective reality of our ideas requires a cause in which that same reality is contained not only objectively but also formally or eminently.28
 
 <!-- " [Cf. Med3, 27-28 (AT7, 40-42).J
 26 [Cf. Med3, 32-33 (ATI, 48).J
@@ -86,7 +103,8 @@ The same point can also be clearly illustrated by the example of a portrait, let
 
 There will be nothing to prevent us from thinking that it was copied from another likeness, and that one again from another, and so ad infinitum. For we shall be qu ite satisfied that there need be no other cause for its production. But if we attend to the image insofar as it is the image of something, we shall immediately be compelled to seek a first cause such as formally or eminently contains what that image contains representatively. I do not see what more need be said to confirm and elucidate this axiom.
 
-10. To preserve a thing, no lesser cause is required than to produce it in the first place.
+
+#### 10. To preserve a thing, no lesser cause is required than to produce it in the first place.
 
 From the fact that at this moment we are thinking, it does not necessarily follow that we shall hereafter be thinking. For the concept that we have of our thought does not involve, or does not contain, the necessary existence of the thought. 
 
@@ -98,10 +116,11 @@ For although our thought began to exist, its nature and essence does not on that
 
 What we here say about thought must be said about every thing whose essence does not involve necessary existence.
 
-11. Of every thing that exists, it can be asked what is the cause or reason why it exists. 
+
+#### 11. Of every thing that exists, it can be asked what is the cause or reason why it exists. 
 
 See Descartes, Axiom I.
 
 Because to exist is something positive, we cannot say that it has nothing for its cause (Ax. 7). Therefore we must assign some positive cause or reason why it exists. And this must be either external (Le., outside the thing itself) or else internal (Le., included in the nature and definition of the existing thing itself).
 
-The four propositions that follow are taken from Descartes.
+Propositions 5-8 that follow are taken from Descartes.

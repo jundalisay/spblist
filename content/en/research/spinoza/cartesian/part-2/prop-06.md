@@ -77,7 +77,7 @@ He proves the consequence as follows:
 
 He gives the example of a wheel `ABC`.
 
-{{< img src="/graphics/physics/wheelspinoza.jpg" alt="Zeno's wheel" >}}
+{{< img src="/graphics/physics/prop-6a.jpg" alt="Zeno's wheel" >}}
 
 
 If the wheel were to move about its center at a certain speed, point A would complete a circle through B and C more quickly than if it were to move at a slower speed. 

@@ -38,7 +38,7 @@ Among these Laws of Nature are 3 rules of motion.
 
 ## Rule 1: State Continuity
 
-![Rule 1](/covers/rule1.jpg)
+{{< i s="/graphics/physics/rule1.jpg" a="No Void" >}}
 
 Rule 1: A particle always continues in the same state unless a collision with others causes it to change that state.
 
@@ -111,7 +111,8 @@ These two I cannot find in the real world.
 
 ## Rule 2: Motion Transfer
 
-![Rule 2](/covers/rule2.jpg)
+
+{{< i s="/graphics/physics/rule4.jpg" a="Collisions" >}}
 
 Rule 2: When `Body A` pushes `Body B`, `A` gives to `B` the motion that it has lost at the same time. `B` can only take as much motion from `A` that `B` absorbs from `A`.
 

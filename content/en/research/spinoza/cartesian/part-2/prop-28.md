@@ -2,11 +2,11 @@
 heading: "Propositions 25-31"
 title: "The Second Law of Motion"
 image: "/covers/cartesian.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "If a body A is completely at rest and is a little larger than B, with whatever speed B moves toward A it will never move A"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 14
+weight: 28
 ---
 
 

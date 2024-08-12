@@ -6,37 +6,44 @@ description: "Motion, regarded in itself, is different from its determination to
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-weight: 14
+weight: 20
 ---
 
 
-### Proposition 19: Motion, regarded in itself, is different from its determination toward a certain direction. There is no need for a moving body to be for any time at rest in order that it may travel or be repelled in an opposite direction.
+#### Proposition 19: Motion, regarded in itself, is different from its determination toward a certain direction. 
 
-Proof: Suppose that a body A moves in a straight line toward a body B and is prevented by body B from continuing further. 
+There is no need for a moving body to switch to rest so that it can change direction. 
 
-Therefore (preceding Prop.) A will retain its motion undiminished, and it will not be at rest for even the smallest space of time. However, because it continues to move, it does not move in the same direction as before, for it is supposed to be prevented by B. 
+ <!-- in order that it may travel or be repelled in an opposite direction. -->
 
-Therefore, with its motion remaining undiminished and its previous determination lost, it will move in the opposite direction, and not any other (see what is said in Chapter 2 Dioptrics). 
+Proof: Suppose that a body `A` moves in a straight line toward a body `B`. It is prevented by body `B` from continuing further. 
 
-Therefore (Ax. 2) determination does not pertain to the essence of motion but is differen t from it, and a moving body that is repelled is not at rest for any time. Q.E.D.
+Therefore (preceding Prop.) `A` will retain its motion undiminished. It will not switch too rest for even a moment. 
+
+However, it continues to move, but is prevented by `B` from going in its current direction. 
+
+Therefore, it will move in the opposite direction (see Chapter 2 of Dioptrics).
+
+<!-- with its motion remaining undiminished and its previous determination lost, it will move in the opposite direction, and not any other   -->
+
+Therefore (Ax. 2), direction is different from the essence of motion [momentum]. A moving body that is repelled does not switch to rest in any moment. Q.E.D.
 
 <!-- Part 2, Proposition 22 163 -->
 
 Corollary: Hence it follows that motion is not contrary to motion.
 
 
-### Proposition 20: If a body A collides with a body B and takes it along with it, A will lose as much of its motion as B acquires from A because of its collision with A.
+#### Proposition 20: If a body `A` collides with a body `B` and takes it along with it, `A` will lose as much of its motion as `B` acquires from `A` because of its collision with `A`.
 
 
-Proof: If you deny this, suppose that B acquires more or less motion from A than A loses. 
+Proof: If you deny this, suppose that `B` acquires more or less motion from `A` than `A` loses. 
 
-All this difference must be added to or subtracted
-from the quantity of motion in the whole of Nature, which is absurd (Prop. 13 Part 2). 
+All this difference must be added to or subtracted from the quantity of motion in the whole of Nature, which is absurd (Prop. 13 Part 2).
 
-Therefore, because body B can acquire neither more nor less motion, it will acquire just as much motion as A loses. Q.E.D.
+Therefore, body `B` can acquire neither more nor less motion. And so, it will acquire just as much motion as `A` loses. Q.E.D.
 
 
-### Proposition 21 (See Preceding Diagram)
+#### Proposition 21 (See Preceding Diagram)
 
 If a body A is twice as large as B and moves with equal speed, A will also have twice as much motion as B, or twice as much force for retaining a speed equal to B s.
 
@@ -52,7 +59,7 @@ Note that this follows simply from the definition of motion. For the greater the
 Therefore there is more separation, that is (Def. 8), more motion. See Note 4 regarding the definition of motion.
 
 
-### Proposition 22 (See Diagram Prop. 20)
+#### Proposition 22 (See Diagram Prop. 20)
 
 If a body A is equal to a body B, and A is moving at twice the speed of B, the force or motion in A will be twice that in B. 
 
@@ -103,17 +110,16 @@ we have here done with regard to motion.
 But it will suffice to read through Art. 43 Part 2 of the Principia and to add only one more proposition, which is necessary for the understanding of what is to follow. -->
 
 
-### Proposition 23: When the modes of a body are compelled to undergo variation, that variation will always be the least that can be.
+#### Proposition 23: When the modes of a body are compelled to undergo variation, that variation will always be the least that can be.
 
 Proof: This proposition follows quite clearly from Prop. 14 Part 2. 
 
 
-### Proposition 24, RULE 1 (See Diagram Prop. 20)
+#### Proposition 24, RULE 1 (See Diagram Prop. 20)
 
 If two bodies, A and B, are completely equal and move in a straight line toward each other with equal velocity, on colliding with each other they will both be reflected in the opposite direction with no loss of speed.
 
-In this hypothesis it is evident that, in order that the contrariety of these two bodies should be removed, either both must be reflected in the opposite direction
-or the one must take the other along with it For they are contrary to each other only in respect of their determination, not in respect of motion.
+In this hypothesis it is evident that, in order that the contrariety of these two bodies should be removed, either both must be reflected in the opposite direction or the one must take the other along with it For they are contrary to each other only in respect of their determination, not in respect of motion.
 
 Proof: When A and B collide, they must undergo some variation (Ax. 19). 
 

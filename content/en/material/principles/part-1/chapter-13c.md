@@ -1,16 +1,15 @@
 ---
 heading: "Chapter 13c"
-title: "Antimatter Production"
+title: "Cheaper Way to Produce Antimatter"
 # date: 2024-08-01
-image: /graphics/physics/zeeman.jpg
-description: "Bohr applies the aether to the Zeeman effect wherein light is affected by magnetism as to cause perturbations in the light"
+image: /photos/physics/neutronstar.jpg
+description: "Two new technologies can replace fossil fuels as a reliable energy source"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 400
+weight: 500
 icon: /icons/spmat.png
 toc: false
-draft: true
 ---
 
 

@@ -48,15 +48,20 @@ The space between a tangent and a circle can always be divided by an infinite nu
 
 17. The shortest line between two points is a straight line.
 
-18. If a body A moving from C toward B is repelled by an opposite impulse, it will move along the same line toward C. (i).,. _ ..:: B,.,
+18. If body `A` moving from `C` towards `B` is repelled by an opposite impulse, it will move along the same line toward `C`.
+
+{{< i s="/graphics/physics/prop-37.png" a="ABC" >}}
+
+
 
 19. When bodies having opposite motions collide with each other, they are both- or at least one ofthem-compelled to undergo some change.
 
 20. A change in any thing proceeds from a stronger force.
 
-21. When body I moves toward body 2 and pushes it, if as a result of this impulse body 8 moves toward body I, then bodies I, 2, 3, etc., cannot b e i n a straight line, and
-all eight bodies form a complete circle. See Def. 9.
+21. When body `1` moves toward body `2` and pushes it, if as a result of this impulse body `8` moves toward body `1`, then bodies `1`, `2`, `3`, etc., cannot be in a straight line. All 8 bodies form a complete circle. See Def. 9.
 
+
+{{< i s="/graphics/physics/strip.jpg" a="Strip" >}}
 
 ### Lemmas
 

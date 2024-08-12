@@ -50,17 +50,19 @@ The strong force is the energy source for the sun and nuclear power. But, as wit
 
 ## Quantum Electrodynamics, Bosons, Fermions
 
-The first force for which a quantum version was created was electromagnetism. The quantum theory of the electromagnetic field, called quantum electrodynamics, or QED, was developed in the 1940s by Richard Feynman and others. 
+The first force for which a quantum version was created was electromagnetism. 
+
+The quantum theory of the electromagnetic field, called quantum electrodynamics, or QED, was developed in the 1940s by Richard Feynman and others.
 
 It has become a model for all quantum field theories. 
 
 According to classical theories, forces are transmitted by fields. 
 
-But in quantum field theories, the force fields are pictured as being made of various elementary particles called bosons, which are force-carrying particles that fly back and forth between matter particles, transmitting the forces. 
+But in quantum field theories, the force fields are made of various elementary particles called bosons.
+- These are force-carrying particles that fly back and forth between matter particles, transmitting the forces.
 
 The matter particles are called fermions. 
-
-Electrons and quarks are examples of fermions. 
+- Electrons and quarks are examples of fermions. 
 
 The photon is the particle of light.
 - It is an example of a boson. 
@@ -70,36 +72,49 @@ A matter particle, such as an electron, emits a boson or force particle.
 
 The matter particle recoils from it, like a cannon recoiling after firing a cannonball. 
 
-The force particle then collides with another matter particle and is absorbed, changing the motion of that particle. 
+The force particle then collides with another matter particle and is absorbed, changing the motion of that particle.
 
-According to QED, all the interactions between charged particles—particles that feel the electromagnetic force—are described in terms of the exchange of photons.
+Charged particles are those that feel the electromagnetic force.
 
-The predictions of QED have been tested and found to match experimental results with great precision. 
+According to QED, all the interactions between charged particles are described as the exchange of photons.
 
-But performing the mathematical calculations required by QED can be difficult because when you add to the above framework of particle exchange the quantum requirement that one include all the histories by which an interaction can occur—for example, all the ways the force particles can be exchanged—the mathematics becomes complicated. 
+The predictions of QED have been tested and found to match experimental results precisely. 
 
-Fortunately, along with inventing the notion of alternative histories—the way of thinking about quantum theories described in the last chapter—Feynman also developed a neat graphical method of accounting for the different histories, a method that is today applied not just to QED but to all quantum field theories.
+<!-- This is because when you add to the above framework of particle exchange  -->
 
-Feynman’s graphical method provides a way of visualizing each term in the sum over histories.
+There is a quantum requirement to include all the histories by which an interaction can occur, such as all the ways the force particles can be exchanged.
 
-Those pictures, called Feynman diagrams, are one of the most important tools of modern physics.
+This makes the mathematics of QED complicated. 
+
+To solve this the following were invented:
+- the notion of alternative histories
+  - It is a way of thinking about quantum theories described in the last chapter
+- a neat graphical method, called Feynman diagrams, to account for the different histories and visualize each term in the sum over histories.
+  - This method is today applied not just to QED but to all quantum field theories.
+
 
 In QED, the sum over all possible histories can be represented as a sum over Feynman diagrams like those below, which represent some of the ways it is possible for two electrons to scatter off each other through the electromagnetic force. 
 
-In these diagrams the solid lines represent the electrons and the wavy lines represent photons. Time is understood as progressing from bottom to top, and places where lines join correspond to photons being emitted or absorbed by an electron.
+In these diagrams the solid lines represent the electrons and the wavy lines represent photons. 
 
-Diagram (A) represents the two electrons approaching each other, exchanging a photon, and then continuing on their way. That is the simplest way in which two electrons can interact electromagnetically, but we must consider all possible histories. Hence we must also include diagrams like (B). 
+Time is understood as progressing from bottom to top, and places where lines join correspond to photons being emitted or absorbed by an electron.
+
+Diagram (A) represents the two electrons approaching each other, exchanging a photon, and then continuing on their way. 
+
+That is the simplest way in which two electrons can interact electromagnetically, but we must consider all possible histories. Hence we must also include diagrams like (B). 
 
 That diagram also pictures two lines coming in—the approaching electrons—and two lines going out—the scattered ones—but in this diagram the electrons exchange 2 photons before flying off. 
 
-The diagrams pictured are only a few of the possibilities; in fact, there are an infinite number of diagrams, which must be mathematically accounted for. 
+The diagrams pictured are only a few of the possibilities. In fact, there are an infinite number of diagrams, which must be mathematically accounted for. 
 
-Feynman diagrams aren’t just a neat way of picturing and categorizing how interactions can occur.
+<!-- Feynman diagrams aren’t just a neat way of picturing and categorizing how interactions can occur. -->
 
-Feynman diagrams come with rules that allow you to read off, from the lines and vertices in each diagram, a mathematical expression. The probability, say, that the incoming electrons, with some given initial momentum, will end up flying off with some particular final momentum is then obtained by summing the contributions from each Feynman diagram. 
+Feynman diagrams come with rules that allow you to read off, from the lines and vertices in each diagram, a mathematical expression.
 
-That can take some work, because, as we’ve said, there are an infinite number of them. Moreover, although the incoming and outgoing electrons are assigned a definite energy and momentum, the particles in the closed loops in the interior of the diagram can have any energy and momentum. 
+The probability that the incoming electrons, with some given initial momentum, will end up flying off with some particular final momentum is then obtained by summing the contributions from each Feynman diagram. 
 
-That is important because in forming the Feynman sum one must sum not only over all diagrams but also over all those values
-of energy and momentum.
+That can take some work because there are an infinite number of them. 
 
+Although the incoming and outgoing electrons are assigned a definite energy and momentum, the particles in the closed loops in the interior of the diagram can have any energy and momentum. 
+
+That is important because in forming the Feynman sum one must sum not only over all diagrams but also over all those values of energy and momentum.

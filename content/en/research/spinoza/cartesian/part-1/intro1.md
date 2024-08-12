@@ -2,7 +2,7 @@
 heading: Introduction 1
 title: "Doubt Concerning All Things"
 image: "/covers/cartesian.jpg"
-description: "All things are predetermined by God, from his infinite power and not from his free will"
+description: "Why did Descartes doubt everything?"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
