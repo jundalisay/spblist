@@ -33,11 +33,11 @@ Material | Particle versus Antiparticle -->
 Layer | Positive Vortex | Negative Vortex
 ---- | --- | ---
 Probability | Existing | Non-Existing
-Aethereal | Unifying |  Divisive
+Aethereal | Dynamic | Static
 Spatial | Counterclockwise | Clockwise
 Radiant | Male | Female
 Convertible | Left | Right 
-Material | Color Charge | Anti-Color Charge
+Material | Matter| Antimatter
 
 
 {{< i s="/photos/meta/yinyang.jpg" a="Positive and Negative" >}}
@@ -48,9 +48,9 @@ In the Probability Layer, this manifests as exsiting or non-existing.
 > e.g. "Unicorns do not exist. Horses do."
 
 
-In the Aethereal Layer, this manifests as unifying or 'good', and divisive or 'bad'.
+In the Aethereal Layer, this manifests as creative of destructive.
 
-> e.g. "I have a bad feeling about that guy"
+> e.g. "Evolution speeds up the more aether that you have."
 
 
 In the Spatial Layer, this manifests as clockwise supermassive blackholes called quasars (which we call reverse qosts1), and counterclockwise ones (which we call qosts1). 

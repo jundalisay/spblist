@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 3"
-title: "The Free Aether as the Medium of Aether (Moa)"
+title: "The Media of Aether (Moas)"
 # # date: 2020-01-31
 image: "/photos/idea.jpg"
-description: "The Medium of Aether or Moa is the crudest part of the aether"
+description: "The Media of Aether or Moas facilitate the effects of the aethereal layer"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,19 +13,40 @@ icon: /icons/spmat.png
 
 
 
-The Medium of Aether or Moa is the crudest medium for the aethereal layer and manifests as the free aether. 
+The Media of Aether or Moas facilitate the effects of the aethereal layer. These have 3 kinds, based on the sublayers:
 
-The free aether is responsible for antimatter. 
+Medium | Description
+--- | ---
+Lower Mind (moa1) | Connects to the 5 Strata
+Feeling (moa2) | Facilitates the Positive and Negative Forces
+Free Aether (moa3) | Facilitates Decay and Antimatter
+
+
+### Lower Mind
+
+This connects the 5 Layers to the 5 Strata of Bio Superphysics
 
 
 
-## The Aether is the Medium of Sound
+### Feelings
+
+This facilitates the operations of the Positive and Negative Forces in the physical domain. 
+
+
+### Idea or Free Aether
+
+This is the crudest medium for the aethereal layer and manifests as the free aether. 
+
+The free aether is responsible for counter-evolution as decay and antimatter. 
+
+
+<!-- ## The Aether is the Medium of Sound
 
 The Aether is the medium of sound just as space is the medium of light. 
 
 This is why ideas are best expressed by speaking them instead of writing or acting them out.
 
-THe lower layers are manipulated by sound, as will be explained in our chapter on Harmonic Ratios. 
+THe lower layers are manipulated by sound, as will be explained in our chapter on Harmonic Ratios.  -->
 
 
 <!-- The heart of Descartes' model of the universe is the invisible aether that permeates all of space. 

@@ -1,3 +1,13 @@
+---
+title: "Definitions"
+# heading: Enlightened
+# date: 2022-07-14
+description: "On the magnet, magnetick bodies also, and on the great magnet the earth: a new physiology, demonstrated by many arguments & experiments"
+weight: 134
+image: /covers/magnet.jpg
+---
+
+
 TO THE MOST EMINENT AND LEARNED MAN
 Dr. William Gilbert,
 a distinguished Doctor of Medicine amongst the

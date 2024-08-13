@@ -17,6 +17,11 @@ A possible answer is that a mini-planet gave it a glancing blow from south to no
 
 Proof is that half of Venus is missing a land mass and has volcanoes clustered in that part. 
 
+{{< i s="/photos/physics/venus.jpg" a="Vvenus" >}}
+
+
+## Explains The Moon and The Pacific Ocean Too
+
 The same thing can be applied to earth to explain the 23-degree axis tilt and Pacific ring of fire. 
 
 A mini-planet probably hit the Earth to carve out the Pacific Ocean 4.5 billion years ago and create the current tectonic plates like broken eggshells. 
@@ -26,6 +31,9 @@ The Pacific ring of fire is therefore a huge crater that created volcanoes like 
 Unlike Venus which was hit when it was already solid, the Earth was hit when it was still hot and soft. Thus the debris from Venus fell back, while the debris from the Earth formed the moon. Moreover, the mini-planet that hit Earth likely deposited microscopic life as well.
 
 So the main difference between Venus and the Earth was the timing of the impact.
+
+
+## Explains The Asteroid Belt and Planetary Tilt
 
 If Venus and Earth were hit, then it means other planets should be hit too. A complete hit probably obliterated the planet after Mars as to create the asteroid field. Mars could have had a near-miss from such a mini-planet that disrupted its magnetic field, causing it to lose its atmosphere.  
 

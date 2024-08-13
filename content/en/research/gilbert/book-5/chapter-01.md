@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "Declination"
 date: 2024-02-20
-description: "The stone itself manifests many qualities which were not well investigated. "
+description: "The stone itself manifests many qualities which were not well investigated."
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)

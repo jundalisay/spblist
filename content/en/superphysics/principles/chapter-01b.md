@@ -16,9 +16,13 @@ aliases:
 ---
 
 
+{{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
 There are 2 Domains in Reality | The Cartesian View has both Planes 
+{{< /dc >}}
+
+
 
 {{< youtube U4JFPWoiSAI >}}
 
@@ -46,6 +50,9 @@ Currently, science has only the 'Cartesian plane' which is used to plot movement
 Here, the y axis represents a quality in different magnitudes of variations. 
 
 {{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" cap="The Cartesian Plane (left) plots the changes of an identity through time or relative to time (temporal changes) based on certain quality. The Aethereal Cartesian Plane (right), on the other hand, plots the changes of qualities relative to each other. The latter shows the how different each self is the previous and future self. " >}}
+
+
+{{< img src="/graphics/physics/determined.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
 
 
 We add the **Aethereal Cartesian Plane** which is has the identity as its origin and has multiple axes representing the qualities of that identity that change over time.

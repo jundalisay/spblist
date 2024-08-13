@@ -14,10 +14,13 @@ writer:
 ---
 
 
+{{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
 Each Idea is Unique | Cause and Effect are in Relation to each other
 . | Qualimath Denotes this Relational Cause and Effect
+{{< /dc >}}
+
 
 
 Chapter 4 explained that reality is made up of long perception-chains of cause and effects, called by the Hindus as ''karma-samskara-karma'. 

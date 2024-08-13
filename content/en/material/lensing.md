@@ -1,8 +1,8 @@
 ---
 title: "Descartes' Gravitational Lensing"
 # date: 2022-04-13
-image: /graphics/physics/aether.jpg
-description: "The aether drag has always been in the measurements done by physicists on light"
+image: /graphics/physics/fig_2-w.jpg.jpg
+description: "The phenomenon of gravitational lensing is the change in the apparent position of a star by the meddling of another star or a galaxy"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -18,6 +18,9 @@ The phenomenon of gravitational lensing is the change in the apparent position o
 This is currently credited to Einstein through his General Relativity Theory in 1919.
 
 Unknown to many, Descartes had already described gravitational lensing as "refractios de rayons" way back in 1633. 
+
+
+{{< i s="/graphics/physics/fig_2-w.jpg" a="Lensing" >}}
 
 Unlike General Relativity which bases the cause to spacetime being warped by stellar or gravitational mass, Descartes' refraction is caused by the gravitational territory of the star or galaxy, and the position of its observer. 
 

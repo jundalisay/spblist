@@ -29,9 +29,9 @@ For example, the Material layer will have 3 sublayers with each with its own for
 
 Layer | Sublayer | Medium | Quantum
 --- | --- | --- | ---
-Aethereal | Upper | blue color charge | qom1 (Up-Down Quarks)
-. | Middle | green color charge |  qom2 (Strange-Down Quark)
-. | Lower | red color charge | qom3 (Top-Bottom Quark)
+Aethereal | Upper | 1st generation quarks | qom1 (Up-Down Quarks)
+. | Middle | 2nd generation quarks |  qom2 (Strange-Down Quark)
+. | Lower | 3rd generation quarks | qom3 (Top-Bottom Quark)
 
 
 {{< img src="/graphics/physics/msq.jpg" alt="Layers and sublayers in the MSQ table" cap="Each Layer is subdivided into 3 sublayers" >}}
@@ -98,7 +98,7 @@ Material | Energy in an atomic nucleus | Identity -->
 
 ## The Hierarchy of the Layers
 
-From the Medium-Sibstance-Quantum (MSQ) Table in the next chapter, we can deduce that everything in existence has varying degrees of the following qualities:
+From the Medium-Substance-Quantum (MSQ) Table in the next chapter, we can deduce that everything in existence has varying degrees of the following qualities:
 
 Layer | Quality
 --- | --- 

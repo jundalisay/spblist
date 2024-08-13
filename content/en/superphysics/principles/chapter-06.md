@@ -14,10 +14,11 @@ writer:
 
 
 
-
+{{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
 Each Idea is Unique | Ideas and Movement Lead to a Loop of Cause and Effect 
+{{< /dc >}}
 
 
 Chapter 3 explained that all motion in the universe is sourced from the the Law of Conservation of Idea. This law mandates the persistence and uniqueness of each identity. 

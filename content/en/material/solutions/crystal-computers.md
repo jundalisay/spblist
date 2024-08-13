@@ -111,7 +111,7 @@ This ratio will be compared to:
 - man-made phenomena such as conflict, inflation, protests, etc.
 - map the teleportation coordinates within the solar system
 
-{{< img src="/graphics/physics/eye.jpg" alt="Solar Eyes" cap="Solar eyes serve a triple function: telecoms, phenomena prediction, and teleportation map for the solar system" >}}
+{{< img src="/graphics/physics/solareye.jpg" alt="Solar Eyes" cap="Solar eyes serve a triple function: telecoms, phenomena prediction, and teleportation map for the solar system" >}}
 
 
 ### Solar Eye as a Telecom Hub

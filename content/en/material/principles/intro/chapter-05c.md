@@ -3,8 +3,8 @@ heading: "Chapter 5c"
 title: "The 4 Rules of True Motion"
 linkTitle: "4 Rules"
 # date: 2022-01-03
-image: /covers/rule3.jpg
-description: "Rene Descartes gave 3 Rules of Movement in 'The World'"
+image: /graphics/rule1.jpg
+description: "Rene Descartes gave 3 Rules of Movement in 'The World' which we combine with Spinoza"
 weight: 14
 writer:
   name: Juan
@@ -31,7 +31,11 @@ The Rules of Motion in Superphysics come from Cartesian-Spinozan Physics. These 
 
 
 This is based on the maxim that there is no Void in Nature. This means that every space in existence, whether physical or metaphysics, is filled up. 
-- In the physical domain, it is filled with virtual particles such as virtual photons () 
+- In the physical domain, it is filled with virtual particles such as virtual photons
+
+This rule is the basis for:
+- Virtual particles filling "empty" space
+- Gravity pushing object down objects 
 
 {{< dc t="Note" >}}
 This is in Part 2, Proposition 7 of Spinoza's Principles of Cartesian Philosophy
@@ -44,8 +48,13 @@ This is in Part 2, Proposition 7 of Spinoza's Principles of Cartesian Philosophy
 
 {{< i s="/graphics/physics/rule2.jpg" a="No Void" >}}
 
-
 This absorbs Newton's First Law of Classical Mechanics while making it consistent with Quantum Mechanics.
+
+This rule is the basis for:
+- Photons going continuously forward
+- Quantum superposition being predicatble by Cartesian Relativity 
+- Line spectra being emitted by electrons
+
 
 {{< dc t="Note" >}}
 This is in Part 2, Article 37 of Descartes' Principia Philosophia and Part 2, Proposition 14 of Spinoza's Principles of Cartesian Philosophy
@@ -59,6 +68,10 @@ This is in Part 2, Article 37 of Descartes' Principia Philosophia and Part 2, Pr
 {{< i s="/graphics/physics/rule3.jpg" a="Straight or Circular" >}}
 
 This is angular momentum and centrifugal force which is really straight-line motion confined.
+
+This rule is the basis for:
+- Gravity following the inverse square law
+- Planetary orbits and galaxy rotation curves
 
 {{< dc t="Note" >}}
 This is in Part 2, Article 39 of Descartes' Principia Philosophia and Part 2, Propositions 15-17 of Spinoza's Principles of Cartesian Philosophy
@@ -77,6 +90,10 @@ When a weaker identity hits a stronger, it will be deflected. When a stronger hi
 This is in Part 2, Article 40 of Descartes' Principia Philosophia and Part 2, Proposition 20 of Spinoza's Principles of Cartesian Philosophy
 {{< /dc >}}
 
+
+This rule is the basis for:
+- Nuclear fission and fusion
+- Chemical reactions
 
 <!-- Every motion in itself is straight. Things which move together eventually move in a circular manner, always tending to move away from the center of the circle which they describe. -->
 

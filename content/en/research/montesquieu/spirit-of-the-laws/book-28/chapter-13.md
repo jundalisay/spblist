@@ -3,7 +3,7 @@ title: "Differences between the Salian Franks, the Ripuarian Franks, and other b
 heading: "Chapter 13-16"
 description: "The Salic law did not allow negative proofs. The laws of almost all nations allow the accused to deny the accuser. But the Salic law did not"
 image: "/covers/spirit.jpg"
-weight: 52
+weight: 14
 contributors: ['Montesquieu']
 icon: /icons/mont.png
 # date: 2020-03-31
@@ -23,15 +23,13 @@ The number of witnesses increased in proportion to the importance of the affair.
 The laws of the Alemans, Bavarians, Thuringians, Frisians, Saxons, Lombards, and Burgundians, were formed on the same plan as those of the Ripuarians.
 - The laws of almost all nations allow the accused to deny the accuser.
 
-But the Salic law did not allow negative proofs. 
+**But the Salic law did not allow negative proofs.** 
 - There was only one case where they were allowed.
 - But even then, they were not admitted alone, and without the concurrence of positive proofs.
 
 The plaintiff caused witnesses to be heard, in order to ground his action.
-
-The defendant produced witnesses of his side.
-
-The judge was to come at the truth, by comparing those testimonies.
+- The defendant produced witnesses of his side.
+- The judge was to come at the truth, by comparing those testimonies.
 
 This practice was vastly different from that of the Ripuarian, and other barbarous laws. In those laws, it was customary for the party accused to clear himself:
 - by swearing he was not guilty, and
@@ -53,9 +51,9 @@ The legislators had to take steps to abuse this system.
 
 THE Salic law did not allow trial by combat even if trial by combat was allowed in the laws of the Ripuarians and of almost all the barbarous nations.
 
-I think that trial by combat is a natural consequence of the law which established negative proofs.  
+**I think that trial by combat is a natural consequence of the law which established negative proofs.**  
 
-When a defendant is accused and he eludes it by an oath that he did not do it, there is no other remedy for a military man to get justice. 
+When a defendant is accused and he eludes it by an oath that he did not do it, there is no other remedy for a military man to get justice.
 
 <!-- , who saw himself upon the point of being confounded, than to demand satisfaction for the injury done to him; and even for the attempt of perjury?  -->
 

@@ -12,10 +12,11 @@ icon: /icons/sp.png
 ---
 
 
-Axiom | Proposition
+{{< dc t="Principles (click to expand)" >}}
+Principle | Assertion
 --- | ---
 The Positive Force is Superior to the Negative | Socratic Dialectics uses the Positive Force to sort through the belligerence of the Positive and Negative within the 5 Layers
-
+{{< /dc >}}
 
 
 The previous chapter explained Critical Thinking and Critical Feeling. 
@@ -44,8 +45,7 @@ Ordinary Dialectics is an expanded way of analysis that based on the ego.
 The Dialectics of Socrates, on the other hand, is a system of analysis based on the invisible metaphysical True Nature or Dharma or Tao* of anything that exists in reality.
 
 {{< box >}}
-### Note: Dharma versus Tao versus tao
-
+#### Dharma versus Tao versus tao
 - "Dharma" is the passive version. An analogy is source code before it is deployed.
 - "The Tao" is the active 'flowing' version. An analogy is the logic in the app after it is deployed or is online.
 
@@ -61,7 +61,8 @@ You could say that:
 - Dialectics is from the perspective of the limited self
 - Socratic Dialectics is from the perspective of the Universe or Existence or the Totality of Selves* (which the self is a part of). 
 
-> *The Hindus call this totality as Brahma.
+{{< f f="*The Hindus call this totality as Brahma." >}}
+
 
 
 Problems begin when something does not keep in line with its nature. For example:
@@ -116,7 +117,8 @@ Archyta invented the Categories. He may be regarded as the founder of ancient Di
 {{< /q >}}
 
 
-> *Superphysics marries the invisible metaphysics of Archyta with the visible physics of Empedocles.
+
+{{< f f="*Superphysics marries the invisible metaphysics of Archyta with the visible physics of Empedocles." >}}
 
 
 Science uses math to plot the patterns of its  physical perceptions. From those patterns, it tries to work back to the cause.
@@ -127,7 +129,8 @@ The problem here is that **all causes are metaphysical in nature, since all caus
 - Supertyphoons are caused by the feelings of heat by the planet <!-- ideas of thermodynamics leading to the compound idea of --> as global warming
 - Covid is caused by the idea of coronaviruses which are felt as symptoms of coughing, fever, loss of taste, etc. Before science, epidemics were thought to be caused by evil spirits of unknown cause. Both science and non-science are ignorant* of the root cause of such viruses and evil spirits. 
 
-> *Superphysics places the root cause of such viruses or spirits as [coming from stars](/bio/solutions/covid-star), just like all matter comes from supernovae (star explosion). This is in line with the ancient 5 Elements model and is what Kepler's data-driven astrology was trying to prove. Unfortunately, science only took his astronomical observations, as Kepler's Laws. You could think of stars and supernovae as the 'deploy' phase of the aethereal ideas of the Supreme onto reality. 
+
+{{< f f="*Superphysics places the root cause of such viruses or spirits as [coming from stars](/bio/solutions/covid-star), just like all matter comes from supernovae (star explosion). This is in line with the ancient 5 Elements model and is what Kepler's data-driven astrology was trying to prove. Unfortunately, science only took his astronomical observations, as Kepler's Laws. You could think of stars and supernovae as the 'deploy' phase of the aethereal ideas of the Supreme onto reality." >}}
 
 
 
@@ -154,7 +157,7 @@ Surely the skilled mathematician is not a dialectician.
 Dialectics is an upgrade of current science. It not only finds patterns in physical perceptions and facts, but also in metaphysical perceptions as the feelings, opinions, and interpretation of the facts by other minds*.
 
 
-> *Recall that we [divided reality into the physical and metaphysical domains](/superphysics/principles/chapter-01). Physical things exist in the former, while metaphysical things, such as ideas and feelings, exist in the latter. Metaphysics is the cause, physics is the effect. The soul is the cause, brain activity is the effect. The chakras are the cause, the hormones are the effect.
+{{< f f="*Recall that we [divided reality into the physical and metaphysical domains](/superphysics/principles/chapter-01). Physical things exist in the former, while metaphysical things, such as ideas and feelings, exist in the latter. Metaphysics is the cause, physics is the effect. The soul is the cause, brain activity is the effect. The chakras are the cause, the hormones are the effect." >}}
 
 
 Science only deals with the interpetation of a dataset. But Dialectics deals with **all possible interpetations** of a dataset. 
@@ -183,7 +186,8 @@ A person will find himself at the top of the intellectual world when he tries to
 
 Nowadays, this manifests as peer reviews where new theories and interpretations are filtered out by senior academics* who are supposed to have a better grasp of principles.  
 
-> *In contrast to scientific peer reviews where the academic is a master of material principles, dialectical peer reviews are done by senior metaphysicians (dialecticians) who have a solid grasp of both Eastern and Western metaphysics. Unlike the academic who is verified by a man-made PhD, the seniority of a Socratic dialectician is verified by his track record of predicting things correctly (ideas matching reality).
+{{< f f="*In contrast to scientific peer reviews where the academic is a master of material principles, dialectical peer reviews are done by senior metaphysicians (dialecticians) who have a solid grasp of both Eastern and Western metaphysics. Unlike the academic who is verified by a man-made PhD, the seniority of a Socratic dialectician is verified by his track record of predicting things correctly (ideas matching reality)." >}}
+
 
  <!-- For example, he can predict that a policy on mask-wearing will be accepted by City A but rejected by City B.  -->
 
@@ -206,8 +210,7 @@ The distillation of the total knowledge then leads to a single pattern knowledge
 
 Unlike metaphysical principles which are purely theoretical, the principles must survive in physical reality, either as actual evidence, demonstrations, or successful predictions.
 
-{{< me date="December 2021" >}}
-
+{{< dc t="Update: December 2021" >}}
 Below are examples of real-world evidence.
 
 Science | Evidence
@@ -216,5 +219,4 @@ Bio Superphysics | The success of traditional Chinese medicine against Covid, re
 Economic Superphysics | The correct prediction of the crisis years starting in 2019 onwards, relative to a prediction of a recovery in 2021 from pent-up demand and vaccine success
 Social Superphysics | The low cases of mass shootings, conflict, and revolutions in Asia, relative to the Americas and Africa
 Material Superphysics | The prediction that fusion will not work because artificial gravity has not been discovered yet
-{{< /me >}}
-
+{{< /dc >}}

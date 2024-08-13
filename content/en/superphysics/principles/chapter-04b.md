@@ -14,10 +14,11 @@ writer:
 ---
 
 
-
+{{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
 There are 2 Domains in Reality | Ideas are Static, Feelings are Dynamic
+{{< /dc >}}
 
 
 {{< q a="PR-Sarkar" c="The Evolution of Languages" >}}
@@ -42,14 +43,15 @@ The reader of that novel will then experience **the wave of the author's feeling
 
 In reality, each of those events and characters are made up of many slices of quantized-events and quantized-characters*.
 
-> *Here we use the word 'quantize' instead of 'quantum' to emphasize the action of the mind that isolates the smallest perception that it can make.
+{{< f f="Here we use the word 'quantize' instead of 'quantum' to emphasize the action of the mind that isolates the smallest perception that it can make." >}}
+
 
 
 For example, a cat character in a novel 100 pages is actually made up of 100-cat entities which are stitched together artificially by the mind into one consistent cat-entity or cat-idea. 
 
 Likewise, our reality is made up of independent "pages" or planes of reality that flow, or are connected by our minds with other contiguous planes, to create one consistent reality. This is the same mechanism that our minds use to connect the metaphysical domain with physical domain in order to create the current reality*.
 
-> *Science and quantum mechanics can never reach into this because they do not allow a metaphysical domain.
+{{< f f="*Science and quantum mechanics can never reach into this because they do not allow a metaphysical domain." >}}
 
 
 
@@ -69,8 +71,8 @@ This image is what we call time.
 {{< /q >}}
 
 
-> *Our version is a metaphysical Big Bootup. Going to the beginning of space and time will merely extend or push the beginning of space and time. This is like chasing the wind or running in circles. 
-
+{{< f f="*Our version is a metaphysical Big Bootup. Going to the beginning of space and time will merely extend or push the beginning of space and time. This is like chasing the wind or running in circles." >}}
+ 
 
 
 ### Ideas are Particles, Feelings are Waves
@@ -105,7 +107,9 @@ All the data served by the internet pre-exists. This means that all possibilitie
 
 If you have a problem, then it follows that its solution pre-exists and you just have to find it. If the solution does not pre-exist, then it means your problem is not really a problem*.
 
-> *The evolution from problem to solution as still part of the aether drag. Without this drag, all problems would be solved instantly. Cavemen take a longer time to solve problems than modern humans and so we say they have more drag or staticity. This drag is caused by the Negative Force. 
+
+{{< f f="*The evolution from problem to solution as still part of the aether drag. Without this drag, all problems would be solved instantly. Cavemen take a longer time to solve problems than modern humans and so we say they have more drag or staticity. This drag is caused by the Negative Force." >}}
+ 
 
 
 For example, no one has ever imagined that humans should have three or four legs, and that having only two legs was a problem. Thus, there has never been a search for its solution. 

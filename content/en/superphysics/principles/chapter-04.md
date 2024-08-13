@@ -15,10 +15,13 @@ writer:
 ---
 
 
+{{< dc t="Principles (click to expand)">}}
 Principles | Assertions
 --- | ---
 There are 2 Domains in Reality | The Metaphysical is Superior to the Physical
 . | The Objects in the Metaphysical Domain are called Ideas
+{{< /dc  >}}
+
 
 
 {{< box >}}
@@ -69,9 +72,9 @@ The mug only existed after the maker of mugs had the idea of a mug, as to be abl
 It follows that Covid-19 existed after Nature had the idea for it, and that its solution already exists in Nature*.
 
 
-{{< me date="December 14, 2021" >}}
+{{< dc t="Update Dec 14, 2021 (click to expand)" >}}
 *This is why our proposed solution to end Covid is to end the war against the Amazon rainforest, just as the Spanish flu ended after the peace of World War I. Vaccines are just a workaround that is supposed to buy time to implement that real solution. Unfortunately, science thinks that vaccines are the solution. The error in this is proven by the rise in the recent Covid hospitalizations in Europe despite their high vaccination rates. Superphysics is pro-vaccination just like we are ok with paracetamol for headaches. But both are just workarounds to buy time to find the root cause of the virus and the headache. 
-{{< /me >}}
+{{< /dc >}}
 
 
 <!-- {{< me date="August 1, 2022" >}}

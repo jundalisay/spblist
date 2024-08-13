@@ -46,11 +46,13 @@ Therefore a box on the ear became an injury that must be expiated with blood, be
 The several people of Germany were no less sensible than we of the point of honour; nay, they were more so.
 
 Thus the most distant relations took a very considerable share to themselves in every affront, and on this all their codes are founded.
+
 The law of the Lombards ordains, that, whosoever goes attended with servants to beat a man by surprise, in order to load him with shame, and to render him ridiculous, should pay half the composition which he would owe if he had killed him; and if through the same motive he tied or bound him, he would pay three quarters of the same composition.
 
 Let us then conclude that our forefathers were extremely sensible of affronts;
 
 but that affronts of a particular kind, such as being struck with a certain instrument on a certain part of the body, and in a certain manner, were as yet unknown to them.
+
 All this was included in the affront of being beaten, and in this case the proportion of the excess constituted the greatness of the outrage.
 
 

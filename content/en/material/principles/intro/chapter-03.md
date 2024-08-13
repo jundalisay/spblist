@@ -99,7 +99,7 @@ Meson-Hadron | Material (free aether as quark-antiquark pair)
 Leptons | Radiant-Convertible
 
 
-{{< img src="/graphics/physics/standard.jpg" alt="The Standard Model" cap="The Standard Model overlaid to the MSQ model. Notice the huge gap in knowledge needed to be bridged" >}}
+{{< img src="/graphics/physics/standard.jpg" alt="The Standard Model" cap="The Standard Model overlaid on the MSQ model. Notice the huge gap in knowledge needed to be bridged" >}}
 
 
 

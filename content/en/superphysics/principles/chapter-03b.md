@@ -14,7 +14,6 @@ writer:
 ---
 
 
-Existence-Consciousness
 
 The previous chapter explained the nature of the Absolute Entity, as Pre-Existence, as a theoretical concept to come before Existence.
 

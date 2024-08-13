@@ -1,4 +1,5 @@
 ---
+heading: "Book 13"
 title: "The Relation of Taxation To Liberty"
 linkTitle: "Book 13"
 weight: 26

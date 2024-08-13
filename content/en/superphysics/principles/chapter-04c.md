@@ -13,10 +13,11 @@ writer:
 ---
 
 
+{{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
 Everything is an Idea | Complex Ideas are made of Simple Ideas
-
+{{< /dc >}}
 
 
 ## Compound Ideas are Made up of Simple Ideas

@@ -40,3 +40,8 @@ Matter + | Matter +
 
 We use the atomic number of elements as their name. This will be explained in Part 5, Chapter 4.
 
+Name | Chemistry | Superphysics
+--- | --- | ---
+Hydrogen | H | e1 or "e 1"
+Water | H2O | (2)1-8 or "1-duo-8"
+

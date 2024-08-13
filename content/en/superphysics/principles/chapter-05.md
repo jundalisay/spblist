@@ -12,10 +12,11 @@ writer:
 ---
 
 
-
+{{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
 Each Idea is Unique | Movement Comes from the Objects Preserving their Uniqueness
+{{< /dc >}}
 
 
 

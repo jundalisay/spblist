@@ -14,9 +14,12 @@ writer:
 
 
 
+{{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
 Each Idea is Unique | The Uniqueness is Denoted by a Gravitational Signature
+{{< /dc >}}
+
 
 
 The Law of Conservation of Idea explained that:

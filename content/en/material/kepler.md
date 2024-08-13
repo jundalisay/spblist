@@ -11,9 +11,17 @@ icon: /icons/spmat.png
 
 
 
-Last December 27, I came up with a draft theory of gravitational relativity derived entirely from Kepler's laws. 
+Last December 27, I came up with a draft theory of gravitational relativity* derived entirely from Kepler's laws. 
 
-His three laws of planetary motion were based on his Mysterium Cosmographicum which used "celestial harmonies". He called gravity as "kinships" and gravitational systems (solar system, galaxies, clusters) as "marriages" of "spheres" which have similarities to Schwarzchild radii.
+{{< n n="Update August 2024: This eventually became the Elastic Theory of Gravity" >}}
+
+
+{{< i s="/covers/kepler.jpg" a="Kepler" >}}
+
+
+His three laws of planetary motion were based on his Mysterium Cosmographicum which used "celestial harmonies". 
+
+He called gravity as "kinships" and gravitational systems (solar system, galaxies, clusters) as "marriages" of "spheres" which have similarities to Schwarzchild radii.
 
 Nobody could understand his celestial harmonies and so no one realized that they actually had the principles of both special and general relativity.
 

@@ -22,7 +22,7 @@ The regulations of Prince St. Lewis made such great changes to that judiciary or
 Défontaines was St. Lewis' contemporary. Beaumanoir wrote after him. The rest lived since his time.<!--  We must therefore look for the ancient practice in the amendments that have been made of it. -->
 
 
-## Chapter 24=  "The rules of the judicial Combat"
+## Chapter 24:  "The rules of the judicial Combat"
 
 If there are several accusers, they were obliged to agree who would be the one to be the prosecutor. If they could not agree, the person before whom the action was brought, appointed one of them to prosecute the quarrel.
 

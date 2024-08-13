@@ -1,7 +1,7 @@
 ---
 title: "Euclid's Elements are about the 5 Elements"
 date: 2022-04-13
-image: /graphics/physics/aether.jpg
+image: /graphics/physics/euclid.jpg
 description: "Euclid's Elements are about the 5 Elements, not about drawing shapes"
 writer:
   name: Juan
@@ -30,7 +30,7 @@ Ba is that which makes each of us unique and different. Your ba is destined to s
 
 Sheut is your shadow, and by extension the other you, as well as being used to describe a statue, a model or a painting of a human. -->
 
-{{< i s="/graphics/physics/euclid.png" a="Euclid's Postulates" >}}
+{{< i s="/graphics/physics/euclid.jpg" a="Euclid's Postulates" >}}
 
 1. Postulate 1 is about how the aether links two discrete identities. We call this an aethereal band. The details of this is given by Books 8 and 9
 <!-- Books 1, 7-10.  -->

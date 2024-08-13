@@ -3,7 +3,7 @@ title: "Why the Salic and Roman Laws and the Capitularies were Disused"
 heading: "Chapter 19"
 description: "AFTER the Franks left their own country, they compiled the Salic laws with the help of their own sages"
 image: "/covers/spirit.jpg"
-weight: 58
+weight: 20
 contributors: ['Montesquieu']
 icon: /icons/mont.png
 # date: 2020-03-31
@@ -23,9 +23,13 @@ If there happened to be any disputes between two parties, they had only to order
 
 All civil and criminal actions are reduced to facts. It is upon these facts they fought; and not only the substance of the affair, but likewise the incidents and imparlances were decided by combat, as Beaumanoir observes,* who produces several instances.
 
-Towards the commencement of the third race, the jurisprudence of those times related entirely to personal quarrels, and was governed by the point [284] of honour. If the judge was not obeyed, he insisted upon satisfaction from the person that contemned his his authority. At Bourges, if† the provost had summoned a person and he refused to come:  his way of proceeding was, to tell him, “I sent for thee, and thou didst not think it worth thy while to come; I demand therefore satisfaction for this thy contempt.” 
+Towards the commencement of the third race, the jurisprudence of those times related entirely to personal quarrels, and was governed by the point [284] of honour. If the judge was not obeyed, he insisted upon satisfaction from the person that contemned his his authority. 
+
+At Bourges, if† the provost had summoned a person and he refused to come:  his way of proceeding was, to tell him, “I sent for thee, and thou didst not think it worth thy while to come; I demand therefore satisfaction for this thy contempt.” 
 
 Upon which they fought. Lewis the Fat reformed this custom.
 
-The custom of legal duels prevailed at∥ Orleans, even in all demands of debt. Lewis the Young declared, that this custom should take place only when the demand exceeded five sous. This ordinance was a local law; for in St. Lewis’s time* it was sufficient that the value was more than twelve deniers. Beaumanoir§ heard a gentleman of the law affirm, that formerly there had been a bad custom in France, of hiring a champion for a certain time, to fight their battles in all causes. This shews that the usage of judiciary combats must have had, at that time, a prodigious extent.
+The custom of legal duels prevailed at∥ Orleans, even in all demands of debt. Lewis the Young declared, that this custom should take place only when the demand exceeded five sous. This ordinance was a local law; for in St. Lewis’s time* it was sufficient that the value was more than twelve deniers.
+
+Beaumanoir§ heard a gentleman of the law affirm, that formerly there had been a bad custom in France, of hiring a champion for a certain time, to fight their battles in all causes. This shews that the usage of judiciary combats must have had, at that time, a prodigious extent.
 

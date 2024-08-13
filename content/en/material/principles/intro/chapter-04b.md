@@ -28,7 +28,7 @@ When the pure aether began to be divided, its division began in one part and spr
 {{< /q >}}
 
 
-{{< n n="*Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas. Moreover, identities have territories or personal space, i.e. We say 'this is mine'." >}}
+{{< f f="*Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas. Moreover, identities have territories or personal space, i.e. We say 'this is mine'." >}}
 
 
 Each territory has parts or zones, each with different properties:

@@ -13,9 +13,12 @@ writer:
 ---
 
 
+{{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
 There are 2 Domains in Reality | 
+{{< /dc >}}
+
 
 
 {{< youtube TpN23dGFcSA>}}

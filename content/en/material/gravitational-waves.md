@@ -7,21 +7,21 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
-# draft: true
+draft: true
 ---
 
 
-In the 19th century, nearly all physicists embraced the aether of Rene Descartes as the medium that gave light its wave properties.
+In the 19th century, nearly all physicists embraced Huygen's luminiferous aether as the medium that gave light its wave properties.
 
 All that was needed was to get proof of the aether by measuring the changes in the speed of light in different times in a year. Such changes would then be evidence of an 'aether wind' or 'aether drag' that 'blew' or 'dragged' light.
 
-This was done through an 'interferometer' as the Michelson-Morley experiment.
+This was to be done through an 'interferometer' as the Michelson-Morley experiment.
 
-That experiment showed that the speed of light is the same everywhere, and so there was no aether wind.
+That experiment showed that the speed of light is the same everywhere from whatever direction, and so there was no aether wind.
 
 Lorentz fixed this by saying that light had a constant speed because space was contracting at the same time with the aether wind. This led to the concept of 'length contraction'.
 
-Einstein hacked this by saying that space and time was a single thing. Aside from length contraction, there is also time dilation which is measured by using light as the timer. 
+Einstein hacked this by saying that space and time was a single thing. Aside from length contraction, there is also time dilation which is measured by using light as the timer.
 
 Unlike Einstein, Lorentz (and Poincare) did not unify space with time because they wisely knew that time was ultimately an arbitrary mental measure and not a physical one. 
 
@@ -29,11 +29,15 @@ But sophist Einstein created spacetime anyway, as his Theory of Relativity which
 
 This nullified the importance of the aether and made spacetime the supreme medium, with light as its measuring tool.
 
-The problem with this is that it trapped all of Physics (an Einstein-trap), with absurd statements like "nothing travels faster than light", "the arrow of time moves forward only", "gravity is not a force", "wormholes lead to other dimensions", etc.
+The problem with this is that it trapped all of Physics (an Einstein-trap), with absurd statements like:
+- "nothing travels faster than light"
+- "the arrow of time moves forward only"
+- "gravity is not a force"
+- "wormholes lead to other dimensions", etc.
 
 This then led to the Cosmology Crisis and the inability to explain or harness dark energy and dark matter, or even do simple anti-gravitation. 
 
-Descartes (Cartesian) Physics explains that time has 2 aspects: mental and physical. This is consistent with his Mind-Body problem.
+Descartes' Physics explains that time has 2 aspects: mental and physical. This is consistent with his Mind-Body problem.
 
 Spacetime having a physical property and a mental property is similar to light having a particle property and a wave property.
 

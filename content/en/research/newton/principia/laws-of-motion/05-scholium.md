@@ -18,7 +18,9 @@ The uniform gravity of a body acts equally in equal particles of time on that bo
 The space traveled per time are proportional to the velocity and time together in a duplicate ratio of the times*. 
 
 
-> *Superphysics note: This leads to a unity as meters-per-second-squared
+
+{{< n n="This leads to a unity as meters-per-second-squared" >}}
+
 
 
 When a body is thrown upwards, its uniform gravity impresses forces and removes its upward velocities proportional to the times. At the time at the highest point, all the upward velocities [in unity] are removed. 

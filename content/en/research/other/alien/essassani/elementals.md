@@ -43,6 +43,6 @@ How can we communicate with animals?
 {{< l a="Bashar" >}}
 Have a deep love for the animals that you will communicate with. Treat them as family with true bonds. 
 
-The add imagery in your mind, think in pictures of what you want to communicate to them. 
+Then add imagery in your mind, think in pictures of what you want to communicate to them. 
 {{< /l >}}
 

@@ -22,10 +22,20 @@ In addition, Descartes describes the phenomena observed by current Physics:
 
 In Meditations, Descartes correctly says that reality is not real. In Traité du monde, he explains that the aether travels instantly. We combine these to make a roadmap for teleportation tech and make masses travel faster than light (which is impossible to Newton or Einstein).
 
+{{< q a="Descartes" c="Method, Part 5" >}}
+I explained how in an instant of time, light traverses the immense spaces of the heavens.
+{{< /q >}}
+
 
 ## Relativity
 
-Relativity is baked into Descartes Third Rule of Motion. Newton does not have relativity in his laws because he assumed a static material universe.    
+Relativity is baked into Descartes' Rules 1 and 2 of Motion. Newton does not have relativity in his laws because he assumed a static material universe.    
+
+
+{{< q a="Descartes" c="Principia, Part 2, Article 13 " >}}
+As we look to different bodies, we see that the original body at the same time changes its place, from one perspective, does not change its place, from another perspective.
+{{< /q >}}
+
 
 
 ## Gravity
@@ -39,6 +49,13 @@ Instead of focusing on mass, the focus is on the elasticity of the band which ha
 We can say that The Elastic Theory is the liberation of Physics from the dark ages of Einstein.
 
 
+{{< q a="Descartes" c="Principia, Part 4, Article 20" >}}
+The motion of the air-aether that makes droplets round also makes planets round. This phenomenon is the gravity of terrestrial bodies.
+{{< /q >}}
+
+
+
+
 ## Electromagnetism
 
 Descartes' was one of the first to draw a magentic field. His focus was light and not electricity because light is the subtler part of electromagnetism (in the upper layer). Electricity is the cruder part (in the lower layer). 
@@ -48,9 +65,19 @@ This is why we advcoate light-based computing over electron-based computing.
 ![Descartes' Magentic Field](https://commons.wikimedia.org/wiki/File:Descartes_magnetic_field.jpg)
 
 
+{{< q a="Descartes" c="Principia, Part 4, Article 170" >}}
+Hence, there must always be a slight gap between the magnet and the iron to allow the striated particles to pass from one set of grooves to the other.
+{{< /q >}}
+
+
 
 ## Black Holes
 
 Descartes called them air-aether which spin as vortices. He explained how the vortices create light, and how lensing works through them.
 
 The swirl of a Cartesian vortex (black hole) was recently proven by Sagitarrius A and Messier 87. To Cartesian physics, a Newtonian singularity that violates physics is absurd and not needed because vortices already work fine.   
+
+
+{{< q a="Descartes" c="The World, Chapter 8" >}}
+We have assumed that the spaces `E` and `S` and all the small angles between the air-aether are empty.
+{{< /q >}}

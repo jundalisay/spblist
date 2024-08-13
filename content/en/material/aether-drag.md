@@ -16,6 +16,9 @@ In the 19th century, nearly all physicists embraced the [luminiferous aether](ht
 
 The belief that an aether wind was propelling light forward. This meant that perpendicular light beams would have different speeds -- one should be slower than the other. 
 
+
+{{< i s="/graphics/physics/huygenschap1d.png" a="Huygens aether" c="The Huygens aether is actually the 2nd Element of Descartes or spacetime" >}}
+
 <!-- All that was needed was to get proof of the aether by measuring the changes in the speed of light in different times in a year. Such changes would then be evidence of an 'aether wind' that 'blew' light. 
 
 This was done through an 'interferometer' as the Michelson-Morley experiment.
@@ -39,19 +42,26 @@ More importantly, it showed that the speed of light was constant everywhere and 
 This led to the idea of space-contraction and space-relativity. 
 
 
-## The Cartesian Aether is not the Huygens Aether
+### The Cartesian Aether is not the Huygens Aether
 
 Because of the negative result, the aether was discarded and has since been frowned upon. It was replaced by Einstein with a spacetime fabric that could bend the path of light as gravity-warp instead of a gravity-force.  
 
-Unknown to physicists, the Cartesian Aether is not the Huygens Aether. The former is behind spacetime, while the latter is within spacetime. 
+Unknown to physicists, **the Cartesian Aether is not the Huygens Aether**. The former is behind spacetime, while the latter is spacetime itself, as the Descartes' 2nd Element. 
 
-The experiment by Michelson and Morley proved that the Cartesian Aether exists, not the Hugyens Aether. 
+The experiment by Michelson and Morley proved 2 things:
+
+1. The 2nd ELement exists as spacetime
+2. The pure aether exists as the discrepancy between Fizeau's light speed and that of Michelson-Morley 
+
+
+
+## The Real Aether Drag is Not Physical
 
 The Cartesian Aether is the material of ideas, feelings, information, and of the abstract mind that has those ideas, feelings, and information. 
 
-An aether drag would therefore be something that **slows down** the arrival of the correct or 'dharmic' ideas, feelings, and facts,
+An aether drag would therefore be something that **slows down** the arrival of the correct thoughts, feelings, and facts,
 
-In the case of the Michelson and Morley experiment, they were testing the facts of light. 
+In the case of the Michelson and Morley experiment, they were testing the facts of light.
 
 They revealed its speed to be 299,901 kilometers per second in 1887. This was different from Fizeau's speed which was 313,274 kilometers per second in 1849, and even more different from that of Romer 220,000 kilometers per second in 1675. 
 
@@ -74,14 +84,14 @@ But **the aether is the medium of space and time, and of reality itself**. And s
 
 This is similar to measuring land by the speed of 2 cars running over it. 
 
-![Aether drag](/graphics/physics/aether.jpg)
+{{< i s="/graphics/physics/aether.jpg" a="Aether drag" >}}
 
 Measuring the speed of 2 cars at a short distance gives you very little data on the features of the land.  But if you let the cars run far, then you can get an idea of the features of the land, such as how one car is dragged by the terrain but not another. 
 
 
-## Aether Drag and Aether Dash
+## The Aether Dash
 
-The Michelson Morley experiment therefore disproved the Huygens aether drag, but helped prove the Cartesian aether drag. 
+The Michelson Morley experiment therefore disproved the Huygens aether drag or the fact that space (sost3 in Superphysics) is directional. Instead, space is "invariant". 
 
 We can say that while aether drag slows down the aether, aether dash speeds it up.
 
