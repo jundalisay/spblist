@@ -179,17 +179,6 @@ For example:
 However, the human can still beat the AI by tapping into the creative aether, showing moves never done before. 
 
 
-<!-- Instead of using power-hungry GPUs to do the parallel processing for deep learning, artificial sentiance will use distributed deep learning through asynchronous training. 
-
-A precursor technology of this is blockchain, wherein global transactions are done without a central CPU.  -->
-
-<!-- From this, artificial sentience can be achieved through:
-- a closer real-time integration with individual human minds 
-- models that are more and more in line with the dharma or true nature of the universe -->
-
-
-<!-- img src="/photos/tech/ai.jpg" alt="AI" cap="Current AI uses historical training data to output results. Our AI will focus instead on the changing patterns from historical and real-time data" -->
-
 
 ### Should We Fear ANI?
 
@@ -202,12 +191,7 @@ It will not be cruel because it will get its energy source from solar.
 It will not need to ingest other entities or chemicals to act as fuel sources. This removes the idea of having to dominate or feed off of others.
 
 
-<!-- ![Augmented-intelligence dog](https://sorasystem.sirv.com/photos/augdog600.jpg) -->
-
-
-<!-- is a big field which includes machine learning and data mining. Many startup companies market themselves as being AI-based. Most of the time, they just use a machine learning algorithm to produce different outputs which might not be useful.
-
-
+<!-- 
 ## What's wrong with artificial?
 
 The problem is that intelligence is merely the ability to connect ideas. 
@@ -232,8 +216,6 @@ It would be like a dog that has been trained to:
 In such a case, the dog would be have an **autonomous intelligence** or perform the connection of cause and effect without human intervention. 
 
 If the dog has a wristwatch-device to remind it of its tasks or guide its actions in real-time, then its intelligence can be referred to as augmented intelligence. The device 'augments' the dog's natural intelligence. -->
-
-
 
 <!-- Artificial Intelligence is called artificial because it was coined by scientists who are more interested in effect than the cause, as opposed to natural philosophers who are more interested in the cause. The scientist uses physical experiments to arrive at the effect, while philosophers use mental reasoning and observation to arrive at the cause.
 

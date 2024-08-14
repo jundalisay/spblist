@@ -80,7 +80,8 @@ For example, the floodings from global warming is made up of a long chain of cau
 5. The increased evaporation causes more water in the air
 6. The increased water in the air falls down as severe floods -- This is the final reaction
 
-> *This is an example of a Table by Francis Bacon
+{{< f f="This is an example of a Table by Francis Bacon" >}}
+
 
 This chain has 6 points, connected by 5 'jumps' or chain-links of logic.
 - We call the burning of fossil fuels as karma or action, that leads to severe floods, as *karma* or reaction.
@@ -156,9 +157,6 @@ And so the best policy to end mass shootings is to restrain people from saying w
 The next post will explain how we notate the chain of cause and effect, as Qualimath. 
 
 
-
-
-
 <!-- ## Moral Consequentialism
 
 Our proposed moral system, derived from Adam Smith, David Hume, and Socrates, is based on a clear definition of morality as happiness for the most entities possible for the longest time possible.
@@ -171,7 +169,3 @@ The holocaust was caused by Nazi ego, not feeling for the Jews
 The Mongol conquest and the resulting Black Death was caused by the ego of the Mongols
 World War I was caused by German ego
 The conquest by Japan in World War II was caused by the ego of the Japanese imperial government -->
-
-<!-- ### Implementation of Moral Consequentialism
-
-Coming soo. -->

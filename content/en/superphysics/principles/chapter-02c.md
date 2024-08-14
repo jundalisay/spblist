@@ -16,7 +16,7 @@ icon: /icons/sp.png
 
 The 5 Layers are the journey of an idea of the Supreme from metaphysical into physical reality. In Material Superphysics, this leads to an alternative theory to the Big Bang, which we call the Big Bootup.
 
-{{< img src='/photos/physics/whitehole.jpg' alt="A whitehole" >}}
+{{< img src="/photos/physics/whitehole.jpg" alt="A whitehole" >}}
 
 1. The Supreme Entity has an idea in the Aethereal Layer.
 2. It is then deployed through a galaxy in a universe in the Spatial  Layer.

@@ -20,9 +20,9 @@ This states that all ideas are connected and therefore everything in the univers
 
 The ratio sign signifies this connection.
 
-{{< b >}}
-* We use Relationality instead of Relativity in order to rank better in search engines, since Relativity is already connected to Einsten instead of Descartes.
-{{< /b >}}
+{{< n n="*We use Relationality instead of Relativity in order to rank better in search engines, since Relativity is already connected to Einsten instead of Descartes." >}}
+
+
 
 {{< q a="Descartes" c="Principia Philosophia Part 3, Article 13" >}}
 Imagine a ship being carried out to sea. A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these. On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another. If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. 

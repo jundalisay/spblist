@@ -14,12 +14,9 @@ writer:
 ---
 
 
-
 The previous chapter explained the nature of the Absolute Entity, as Pre-Existence, as a theoretical concept to come before Existence.
 
-We say that the Absolute left the nothingness of Pre-Existence by becoming or transforming into Existence Itself 
-
-It is this transformation that generated the aether and all the possible ideas from Itself. 
+We say that the Absolute left the nothingness of Pre-Existence by becoming or transforming into Existence Itself  It is this transformation that generated the aether and all the possible ideas from Itself. 
 
 Spinoza calls this aether as “substance”:
 
@@ -39,14 +36,19 @@ Every part always has these two parts because existence always involves one, and
 
 The creation of Existence necessarily creates the Consciousness to perceive those ideas so that Existence and Consciousness are really 2 sides of the same coin.
 
+By using the particle physics of Descartes and Spinoza, we can make an analogy of:
+- consciousness being a hole
+- existence being the things that go through the hole  
+
+{{< youtube lISLgasNjHk >}}
+
+
+
 This Existence-Consciousness, as a unit, does not have a start or end because the Spatial Layer, and therefore space and time, has not been created yet. 
 
 And so we say that Existence-Consciousness always was, is, and will be* and therefore, there was never any actual transformation event.
 
-{{< box >}}
-There are some theoretical physicists who imagine that the universe will get destroyed through a thermal death or through false vacuum decay into a true vacuum. We assert that such things are impossible based on our principles of the 5 Layers and 2 Forces.
-{{< /box >}}
-
+{{< f f="There are some theoretical physicists who imagine that the universe will get destroyed through a thermal death or through false vacuum decay into a true vacuum. We assert that such things are impossible based on our principles of the 5 Layers and 2 Forces." >}}
 
 
 In our Big Bootup analogy in Chapter 2, this means that reality was always “turned on”, since:

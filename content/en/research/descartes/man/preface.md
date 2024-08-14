@@ -6,7 +6,6 @@ description: "The leaders of more solid doctrines have long complained that simp
 writer:
   name: Florentius Schuyl
 image: "/covers/man.jpg"
-icon: "/icons/descartes.png"
 ---
 
 

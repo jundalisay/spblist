@@ -74,8 +74,7 @@ It predicts the movement of anything by knowing its `G` or [dharma or true natur
 
 
 {{< box >}}
-
-### The Eagle Standard
+#### The Eagle Standard
 
 <!-- img src="/photos/objects/aquila.jpg" alt="Aquila on a staff" -->
 
@@ -86,12 +85,14 @@ Historians wrote how the legions would rally around their eagle symbol and prote
 
 Buddhists are urged to keep the wheel of dharma turning at all costs, just as Socrates' guardians are supposed to keep up their mastery of true philosophy. This is because if dharma or true philosophy stops, then society would likely degrade into selfish animal behavior and the love for matter (materialism) filled with vices, gambling, destruction, wars*, crises, etc. instead of love for the Aether (the material of mind of God)
 
-> *Update Jan 2024: The increase in wars in Ukraine, Israel, Middle East, and the threats from China and North Korea are proof that dharma has lost its momentum. 
+Update Jan 2024: The increase in wars in Ukraine, Israel, Middle East, and the threats from China and North Korea are proof that dharma has lost its momentum. 
 
 
 This is why Superphysics is totally against Albert Einstein who not only reduced the aether to nothing, but also pushed for nuclear weapons which could lead to nuclear war. We place his intellectual 'evil'* on the same rank as the political evil of the other German, named Adolf Hilter. 
 
-> *Our definition of evil is based on the strength of the ego
+
+{{< f f="*Our definition of evil is based on the strength of the ego" >}}
+
 
 - If the dharma of societies stop, then they go to war and destroy each other.
 - If the dharma of your car stops, then it breaks down, leaving you in the middle of nowhere. 
@@ -136,12 +137,15 @@ Agriculture (Plant Layer) | The l becomes the plant layer
 
 - In the economic layer, it manifests as the potential movement of prices according to [the labor theory of value](/social/economics/principles/part-2/chapter-01b/) instead of marginal pricing. 
 
-> This is how we predicted the current crisis and why we predict it to be a long one. Its goal is to know the real price of everything, in order to prevent inflation, bubbles, recessions, and economic crises. This is to be discovered by [Supereconomics](/social/economics) which is a subset of Social Superphysics
+
+{{< f f="This is how we predicted the current crisis and why we predict it to be a long one. Its goal is to know the real price of everything, in order to prevent inflation, bubbles, recessions, and economic crises. This is to be discovered by [Supereconomics](/social/economics) which is a subset of Social Superphysics" >}}
 
 
 - In the medical layer, it manifests as the potential movement or risk of a person from health to disease and is discovered by applying data science to the five medical sciences of Western medicine, ayurveda, chinese medicine, homeopathy, and naturopathy.
 
-> This is discovered by [Medical Superphysics](/bio/principles/part-04/chapter-03/). 
+
+{{< f f="This is discovered by [Medical Superphysics](/bio/principles/part-04/chapter-03/)" >}}
+ 
 
 <!-- As none of our team has a medical background, and since medicine is highly regulated and fiercly protected by doctors and medical interests*, this would likely be developed last. -->
 

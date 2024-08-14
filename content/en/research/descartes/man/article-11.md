@@ -23,20 +23,36 @@ From this, it can naturally be inferred, with proper analogy, how this machine s
  -->
 
 
-### 11.. The muscle for breathing D raises its chest, or lowers its diaphragm. 
+#### 11. The muscle for breathing D raises its chest, or lowers its diaphragm. 
 
 The muscle E is its opposite. 
 
-The animal spirits which are in the concavity of its brain marked m, flows through the pore or small channel marked n, which naturally remains always open, go first into the pipe BF, where, lowering the small skin F, they cause those of the muscle E to come to swell the muscle d.
+{{< i s="/graphics/bio/fig_10-10.jpg" a="Muscle" >}}
 
-There are certain skins around this muscle `d` which press it more and more as it swells, and which are so disposed that before all the spirits of the muscle & have passed towards it, they stop their course, and make them as it were flow through the tube BF, so that those of the' canal n are turned away from it; by means of which, going to the tube cg, which they open at the same time, they cause the muscle E to swell, and the muscle d to swell down.
 
-This they continue to do as long as the impetuosity lasts, from which the spirits contained in muscle d, pressed by the skins which surround it, tend to emerge; then, when this impetuosity has no more force, they resume their course through tube B F, and thus do not cease to make these two muscles swell and deflate alternately. 
+The pore or small channel marked `n` naturally remains always open.
+
+The animal spirits which are in the concavity of its brain marked `m`, flows through that pore towards pipe `BF` which  lowers the small skin `F`. 
+
+There they cause those of the muscle `E` to come to swell the muscle `d`.
+
+There are certain skins around this muscle `d` which press it more and more as it swells.
+
+<!-- , and which are so disposed that  -->
+
+Before all the spirits of the muscle `d` have passed towards it, they stop their course and make them flow through the tube `BF`, so that those of the canal `n` are turned away from it.
+
+This makes them go to the tube `cg`, which they open at the same time. This causes:
+- the muscle `E` to swell
+- the muscle `d` to swell down.
+
+This they continue to do as long as the impetuosity lasts, from which the spirits contained in muscle `d`, pressed by the skins which surround it, tend to emerge. 
+
+Then, when this impetuosity has no more force, they resume their course through tube B F, and thus do not cease to make these two muscles swell and deflate alternately. 
 
 What you must also judge of the other muscles which serve the same purpose. 
 
 They are all so arranged, that, when it is the sembla bles to `d` which swell, the space which contains the lungs widens, which is the cause of the air entering from in, just as in a bellows which is opened; and that, when it is their opposites, this space narrows, which is the cause of the air coming out.
-
 
 
 

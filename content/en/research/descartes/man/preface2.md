@@ -6,7 +6,6 @@ description: "The leaders of more solid doctrine have long complained that simpl
 writer:
   name: Florentius Schuyl
 image: "/covers/man.jpg"
-icon: "/icons/descartes.png"
 ---
 
 

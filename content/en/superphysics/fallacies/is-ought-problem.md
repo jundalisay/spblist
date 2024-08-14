@@ -12,7 +12,7 @@ icon: /icons/sp.png
 ---
 
 
-While reviewing my simplification of David Hume’s Treatise of Human Nature Book 3, I came upon a strange wiki article called Hume’s Is-Ought Problem
+While reviewing my simplification of David Hume’s Treatise of Human Nature Book 3, I came upon a strange wiki article called Hume’s Is-Ought Problem:
 
 > Hume calls for caution against such inferences in the absence of any explanation of how the ought-statements follow from the is-statements. But how exactly can an “ought” be derived from an “is”? The question, prompted by Hume’s small paragraph, has become one of the central questions of ethical theory, and Hume is usually assigned the position that such a derivation is impossible. This complete severing of “is” from “ought” has been given the graphic designation of Hume’s Guillotine.
 

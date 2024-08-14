@@ -77,9 +77,7 @@ Human hearts lead us to errors because the Western educational system, spread gl
 
 <!-- The odd quirk in the human species is that our brain and heart are far apart. This creates a distance or lag that makes ideas  appear totally different from feelings. This then makes human action lack feelings for others, as seen in terrorism, nuclear weapons, deforestation, etc.  -->
 
-To push for heart development, and the increase in common-interest and fellow-feeling, Superphysics proposes to close the distance between the brain and the heart by visualizing* feelings. 
-
-> *Since sight is the main sensor of the brain.
+To push for heart development, and the increase in common-interest and fellow-feeling, Superphysics proposes to close the distance between the brain and the heart by visualizing* feelings. This is because sight is the main sensor of the brain.
 
 
 {{< img src="/graphics/super/cartesian.png" cap="Physics visualizes physical movement, Superphysics visualizes metaphysical (aethereal) movement" alt="Visualization of the feelings" >}}
@@ -99,7 +97,9 @@ Currently, the educational systems in most countries mostly focus on intellect a
 
 The glaring proof is the existence of mass shootings by young people in the West. It shows that their educational or cultural systems nurtured hate and division instead of fellow-feeling and unity. This problem does not exist so much in Asian* education or culture.   
 
-> *Instead of personal divisions, Asia has religious divisions that create religious conflict such as that between Hindus and Muslims in India, Buddhists and Muslims in Myanmar, and Falun Gong versus the Chinese Communist Party. In Africa, the divisions are even more basic as being based on tribal lines, such as those seen in Rwanda, Sudan, and Ethiopia.  
+
+{{< n n="*Instead of personal divisions, Asia has religious divisions that create religious conflict such as that between Hindus and Muslims in India, Buddhists and Muslims in Myanmar, and Falun Gong versus the Chinese Communist Party. In Africa, the divisions are even more basic as being based on tribal lines, such as those seen in Rwanda, Sudan, and Ethiopia." >}}
+
 
 
 Globally, this lack of fellow-feeling hurts even the intellectual sciences. For example, scientists have long had the data to prove that global warming causes disasters. Yet the feelings of the human species are extremely disunited, unable to drive collective action. 

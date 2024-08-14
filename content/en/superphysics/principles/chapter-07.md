@@ -173,9 +173,7 @@ This solves measurement problems by allowing anyone to create a *subjective* mea
 abominable, hideous, very ugly, ugly, unattractive, soso, pretty, beautiful, very beautiful, gorgeous, drop-dead gorgeous
 ```
 
-
-> *Qualities are subjective
-
+{{< f f="*Qualities are subjective" >}}
 
 
 Then we can create equations:
@@ -251,7 +249,7 @@ In this universe, such a softening can be encouraged by emphasizing the abstract
 
 In `1 + 1 = 2`, the mind sweeps from the left to the right. But in `(1 + 1) :: 2`, the mind splits itself into the left and the right. It becomes an impartial spectator* of both sides or states.
 
-> *This idea was developed by Adam Smith who criticized the sophistical math of the mercantile system. Such sophistry now manifests as the strict demand for GDP growth by Economics which is currently causing mass exctinction and conflicts. Economics enshrines growth because it has imposed money-only as the means of transaction. The problem is that money is an inert and static thing that gets its value from being exchanged. This mindless, self-destructive, constant exchange gives movement, growth, and consequently value. 
+{{< f f="*This idea was developed by Adam Smith who criticized the sophistical math of the mercantile system. Such sophistry now manifests as the strict demand for GDP growth by Economics which is currently causing mass exctinction and conflicts. Economics enshrines growth because it has imposed money-only as the means of transaction. The problem is that money is an inert and static thing that gets its value from being exchanged. This mindless, self-destructive, constant exchange gives movement, growth, and consequently value." >}}
 
 
 In this way, the formula of economist John Maynard Keynes for money supply `M` as being affected by liquidity preference `L` and interest rate `r` 

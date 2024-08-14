@@ -79,7 +79,9 @@ When a person reviews your research paper, it is true that that person is showin
 
 It is used to make sure that your observations are also observed by other people and are not arbitrary*. 
 
-> *This explains why Marx and Hitler just pushed for their own arbitrary opinions and sophistically forced them onto people through half-truths and lies
+
+{{< n n="*This explains why Marx and Hitler just pushed for their own arbitrary opinions and sophistically forced them onto people through half-truths and lies" >}}
+
 
 
 

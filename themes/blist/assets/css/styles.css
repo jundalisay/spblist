@@ -104,6 +104,11 @@
 
 .Fresnel {background-image: url(/avatars/fresnel.png);}
 
+.g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter {
+  background-image: url(/icons/g01.png);
+}
+
+
 .Hegel {background-image: url(/avatars/hegel.png);}
 
 .Helmholtz {background-image: url(/avatars/helmholtz.jpg);}
@@ -156,10 +161,14 @@
 
 .Bhadrapala, .Musa, .Abu-Bakr {background-image: url(/avatars/musa.png);}
 
-
 .Pythagoras {background-image: url(/icons/py.png);}
 
+.M {background-image: url(/icons/m.jpg);}
+
 .mont, .Montesquieu {background-image: url(/icons/mont.png);}
+
+.Narendra {background-image: url(/icons/vivekananda.jpg);}
+
 
 .Nature {background-image: url(/icons/cycles.png);}
 
@@ -201,6 +210,8 @@
 
 .Supereconomics {background-image: url(/icons/specon.png) !important;}
 
+.Surendra {background-image: url(/icons/surendra.jpg);}
+
 .Material-Superphysics {background-image: url(/icons/spmat.png) !important;}
 
 .Spiritual-Superphysics {background-image: url(/icons/spi.png) !important;}
@@ -219,36 +230,13 @@
   margin-top: 100px;
 }*/
 
-
 .Thomas-Aquinas, .Aquinas {background-image: url(/icons/aquinas.png) !important;}
 
+.Timaeus {background-image: url(/icons/g05.png) }
 
 .pantry, .tao {background-image: url(/icons/pantry.png) !important;}
 
 .Umar {background-image: url(/icons/arab1.png) !important;}
-
-
-.g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter {
-  background-image: url(/icons/g01.png);
-}
-
-
-.Narendra {
-  background-image: url(/icons/vivekananda.jpg);
-}
-
-
-.Surendra {
-  background-image: url(/icons/surendra.jpg);
-}
-
-
-.M {
-  background-image: url(/icons/m.jpg);
-}
-
-
-
 
 .Alchemist {background-image: url(/icons/euclid.jpg);}
 

@@ -153,8 +153,9 @@ This useless Einsteinian physics is totally opposite of ancient physics (from th
 Newton's physics created so many technologies that we still use today. But Einstein physics only claims global positioning satellites (GPS) as its product. Einstein's supporters ignore the fact that engineers would have perceived the time-differences in their satellites and made the adjustments themselves without needing the idea of a spacetime fabric*.
 
 
-> *Instead of a fabric, we assign the cause of time dilation to the aether, as explained by the ancients. 
 
+{{< n n="*Instead of a fabric, we assign the cause of time dilation to the aether, as explained by the ancients." >}}
+ 
 
 
 We pity the physicists wasting their time trying to unify Quantum Physics and General Relativity as String Theories which are practically useless. 

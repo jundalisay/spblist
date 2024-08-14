@@ -14,7 +14,8 @@ icon: /icons/sp.png
 ---
 
 
-> This will be in the appendix instead
+{{< n n="This will be in the appendix instead" >}}
+
 
 While going through Newton's Principia, Spninoza's Ethics, and Euclid's Elements, we found an arrangement of chapters that turned out to be commmon among mathematicians. 
 

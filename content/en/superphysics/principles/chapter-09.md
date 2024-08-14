@@ -14,9 +14,7 @@ icon: /icons/sp.png
 
 
 {{< q c="The Kybalion" >}}
-"Then," you ask, "do you mean to tell us that THE ALL is LIFE and MIND?" 
-
-Yes! and No! is our answer.
+"Then," you ask, "do you mean to tell us that THE ALL is LIFE and MIND?" Yes! and No! is our answer.
 {{< /q >}}
 
 
@@ -156,8 +154,6 @@ Absolute greatness, health, strength, and the true nature of everything. These c
 
 Lao Tzu calls acting within one's True Nature as being with the Tao. 
 
-
-
 ## A Dynamic Existence
 
 Since each mind is unique, and since everything is a mind, then all minds must move to keep its uniqueness and separation from others. --> <!-- with each mind being an idea from the viewpoint of the Creator, then we establish this principle of uniqueness as **The Law of Conservation of Idea**.
@@ -201,9 +197,6 @@ To solve this problem, It made perceivers of Itself from Itself (since there was
 The original substance of these entities is called Shiva and the force that splits it up is called Shakti. The original form is called Nirguna Brahma and the resultant form is called Saguna Brahma or the entire observable universe and multiverses.
 
 Since existence was created for the Creator and not the ‘createes’ then by default all existing entities feel an urge to know the Creator. The deepest and most lasting happiness is achieved when it is related to the Creator. This is generally called spirituality. The process for achieving this happiness is called yoga, which aims to unify the createe (soul) with the Creator (pure consciousness). The exact state of union is called samadhi. -->
-
-<!-- Since everything in existence is from the ideas of the Creator of existence, then dharma and morals can be properly attributed to It. -->
-
 
 <!-- Ideas are static metaphysical objects carved out of the infinity of possible objects. Instead of mass, ideas use probability and all ideas have an equal probability. Even consciousness is an idea. It is its starting point in the physical dimension that makes the difference. For example, if Covid started in Antartica then it would be an insignificant idea. If a galaxy started in an energy-less part of the universe, then it would be insignificant as well. So the idea that supports Covid is its RNA, just as the idea supporting a galaxy is its supermassive black hole and there is no need for dark matter and that's why they will never find it no matter how many MIT or Berkley geniuses they throw at it. -->
 

@@ -65,11 +65,9 @@ Let the investigation of the efficient cause of matter, constitute physics.
 
 ### The Physical Domain
 
-This domain exists only because of our physical senses, most commonly by our sight and touch which are really 'electromagnetic' types* of perception. 
+This domain exists only because of our physical senses, most commonly by our sight and touch which are really 'electromagnetic' types of perception. This will make sense when we talk about the 5 Layers of Reality.
 
-> *This will make sense when we talk about the 5 Layers of Reality
-
-- Our senses let us perceive the mug physically by receiving the sensations of light and touch that **bounce back to them**. 
+Our senses let us perceive the mug physically by receiving the sensations of light and touch that **bounce back to them**. 
 - Invisible and intangible objects are those that **do not let sensations of light or touch bounce back**. 
   - An example is the air which lets light and our hands pass through.  
 
