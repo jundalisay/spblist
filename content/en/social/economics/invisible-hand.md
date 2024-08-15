@@ -14,9 +14,9 @@ toc: false
 ---
 
 
-The invisible hand concept by Adam Smith is one of the most important ideas of Supereconomics, making up [the Second Law of Value](/social/economics/principles/part-2/chapter-01). 
+The invisible hand concept by Adam Smith is one of the most important ideas of Supereconomics, making up [the Third Law of Value](/social/economics/principles/part-2/chapter-01). 
 
-This Second Law leads to [the effort theory of value](/social/economics/principles/part-2/chapter-01b) which then replaces marginal utility. Without marginal utility, the arbitrary marginal pricing and profit maximization of Neoclassical Economics cease to be logical as they necessarily violate the [Fourth Law of Value](/social/economics/principles/part-4/chapter-01/) which is the concept of **Natural Price**. 
+This Third Law leads to [the effort theory of value](/social/economics/principles/part-2/chapter-01b) which then replaces marginal utility. Without marginal utility, the arbitrary marginal pricing and profit maximization of Neoclassical Economics cease to be logical as they necessarily violate the [Second Law of Value](/social/economics/principles/part-4/chapter-01/) which is the concept of **Natural Price**.
 
 
 Unfortunately, such a fundamental concept has been thoroughly corrupted by Paul Samuelson in order to advance his selfish "neoclassical synthesis". Since then, it has been unjustly blamed for bad things about the economy and has even been denounced:
@@ -35,7 +35,7 @@ John D. Rockefeller’s dog may receive the milk that a poor child needs to avoi
 {{< /q >}}
 
 
-Of course, that is absolutely false, since Smith pointed to sympathy and benevolence (the direct opposite of selfishness), as the substance that keeps the machine called society running smoothly. 
+Of course, that is **ABSOLUTELY FALSE**, since Smith pointed to [sympathy and benevolence](/research/smith/theory-moral-sentiments/part-6/section-2/chapter-3/) (the direct opposite of selfishness), as the substance that keeps the machine called society running smoothly. 
 
 Samuelson merely cherry-picked Smith’s views on self-interest, which to Smith was a 'praise-worthy' positive quality, and then corrupted it into selfishness which is a negative quality:
 

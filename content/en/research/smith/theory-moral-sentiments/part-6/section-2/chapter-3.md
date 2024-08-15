@@ -12,44 +12,68 @@ icon: /avatars/smith.png
 
 
 
-{{< s v="44" >}} Our effective good offices can very seldom be extended beyond our own country. But our goodwill has no boundary. It may embrace the immensity of the universe. We cannot conceive of any innocent and sensible being= 
+{{< s v="44" >}} Our effective good offices can very seldom be extended beyond our own country. 
+
+But our goodwill has no boundary. It may embrace the immensity of the universe. 
+
+We cannot conceive of any being:
 - whose happiness we should not desire, or
-- whose misery we should not be averse to, when distinctly brought home to the imagination.
+- whose misery we should not be averse to
 
-The idea of a mischievous, though sensible, being, naturally provokes our hatred. But the ill-will we bear to it in this case is really the effect of our universal benevolence. It is the effect of the sympathy we feel with the misery and resentment of those other innocent and sensible beings, whose happiness is disturbed by its malice.
+<!-- , when distinctly brought home to the imagination. -->
+
+We naturally hate a mischievous being.
+- But the ill-will we bear to it is really the effect of our universal benevolence. 
+- **It is the effect of the sympathy that we feel for the misery and resentment of those beings harmed** by that mischievous being.
+
+ <!-- other innocent and sensible beings, whose happiness is disturbed by its malice. -->
+
+
+{{< s v="45" >}} All of the universe's inhabitants are under the immediate care of that great, benevolent, and all-wise Being. 
+- He directs all the movements of nature.
+- He is determined to always maintain in it the greatest possible quantity of happiness, by his own unalterable perfections.
+
+<!-- No matter how generous this universal benevolence is, it cannot be the source of solid happiness to anyone who is not thoroughly convinced that  -->
+
+On the contrary, the very suspicion of a fatherless world would be the saddest idea. It will lead to the idea that all of space is filled with nothing but endless misery and wretchedness.
+
+<!-- most melancholy of all reflections.  the unknown regions of infinite and incomprehensible -->
+
+<!-- - All the splendour of the highest prosperity can never enlighten the gloom from so dreadful an idea.
+- All the sorrow of the most afflicting adversity can never dry up the joy of the wise and virtuous man, which springs from the habitual and thorough conviction of an all-wise Being. -->
  
 
-{{< s v="45" >}} No matter how generous this universal benevolence is, it cannot be the source of solid happiness to anyone who is not thoroughly convinced that all the universe's inhabitants are under the immediate care of that great, benevolent, and all-wise Being. He directs all the movements of nature.
+{{< s v="46" >}} The wise and virtuous man is always willing:
+- to sacrifice his own private interest for the interest of his class or society.
+- that the interest of his class or society be sacrificed to the greater interest of its state or sovereignty.
+ <!-- of his own particular order or .  -->
+- to sacrifice all those inferior interests to the greater interest of the universe.
 
-He is determined to always maintain in it the greatest possible quantity of happiness, by his own unalterable perfections.
-On the contrary, the very suspicion of a fatherless world, must be the most melancholy of all reflections.
+This greater interest of the universe is the interest of all sensible and intelligent beings, which God is the immediate administrator and director of. 
 
-It is the thought that all the unknown regions of infinite and incomprehensible space may be filled with nothing but endless misery and wretchedness.
-- All the splendour of the highest prosperity can never enlighten the gloom from so dreadful an idea.
-- All the sorrow of the most afflicting adversity can never dry up the joy of the wise and virtuous man, which springs from the habitual and thorough conviction of an all-wise Being.
- 
+The wise and virtuous man believes:
+- that God only admits partial evils necessary for the universal good into his government.
+- that all the misfortunes of himself, his friends, society, or country, as necessary for the universe's prosperity
+- that he should submit to these because he would himself sincerely wished for them, if he had known all the connections of things.
 
-{{< s v="46" >}} The wise and virtuous man is always willing to sacrifice his own private interest for the public interest of his own particular order or society. He is always also willing that the interest of this order or society be sacrificed to the greater interest of its state or sovereignty. 
-
-He should be equally willing to sacrifice all those inferior interests to the greater interest of the universe. It is the interest of that great society of all sensible and intelligent beings, of which God himself is the immediate administrator and director. He might be deeply impressed with the habitual and thorough conviction that this Being only admits partial evils necessary for the universal good into his government. 
-
-If he does, he must consider all the misfortunes of himself, his friends, society, or country, as necessary for the universe's prosperity,
-- what he should submit to with resignation,
-- what he himself should sincerely and devoutly to have wished for, if he had known all the connections and dependencies of things.
- 
 
 {{< s v="47" >}} This magnanimous resignation to the universe's great Director is not beyond the reach of human nature.
 
-Good soldiers, who love and trust their general, frequently march with more gaiety and alacrity to the forlorn station.
-They never expect to return from that station, than they would expect to return from one which had no difficulty nor danger.
-In marching to the non-difficult station, they could only feel that dullness of ordinary duty.
-In marching to the forlorn station, they feel that they are making the noblest exertion possible for man.
+Good soldiers love and trust their general. They frequently march proudly and happily to the forlorn station withuot expecting to return.
+
+<!-- with more gaiety and alacrity -->
+
+<!-- They never expect to return from that station, than they would expect to return from one which had no difficulty nor danger. -->
+- In marching to the easy station, they could only feel that dullness of ordinary duty.
+- In marching to the forlorn station, they feel that they are making the noblest exertion.
 
 They know that their general would not have ordered them on this station if it were unnecessary for:
 - the army's safety, and
 - the war's success.
 
-They cheerfully sacrifice their own little systems to the prosperity of a greater system. They take an affectionate leave of their comrades, to whom they wish all happiness and success. They march out with submissive obedience and often with shouts of the most joyful exultation, to that fatal, but splendid and honourable station appointed to them.
+They cheerfully sacrifice their own little systems to the prosperity of a greater system. 
+
+They take an affectionate leave of their comrades, to whom they wish all happiness and success. They march out with submissive obedience and often with shouts of the most joyful exultation, to that fatal, but splendid and honourable station appointed to them.
 
 No conductor of an army can deserve more unlimited trust, ardent and zealous affection, than the great Conductor of the universe.
 

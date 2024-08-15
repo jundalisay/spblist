@@ -119,7 +119,7 @@
 
 .hume, .Hume, .David-Hume {background-image: url(/avatars/hume.png);}
 
-.ibn, .Ibn-Khaldun {background-image: url(/icons/ibn.jpg);}
+.ibn, .Ibn-Khaldun, .Aeschylus {background-image: url(/icons/ibn.jpg);}
 
 .Jesus {background-image: url(/avatars/jesus.png);}
 
@@ -182,7 +182,7 @@
 
 .rama, .Ramakrishna {background-image: url(/avatars/rama.jpg);}
 
-.Ramus {background-image: url(/icons/ramus.png) !important;}
+.Ramus, .Hesiod {background-image: url(/icons/ramus.png) !important;}
 
 .ric, .Ricardo {background-image: url(/avatars/ricardo.jpg);}
 
@@ -238,14 +238,14 @@
 
 .Umar {background-image: url(/icons/arab1.png) !important;}
 
-.Alchemist {background-image: url(/icons/euclid.jpg);}
+.Alchemist, .Euclid, .Homer {background-image: url(/icons/euclid.jpg);}
 
 .ade, .Adeimantus, .Tsz-Hi, .Disciples, .Meno, .Phaedo, .Zeno, .zeno {background-image: url(/icons/g02.png);}
 
 .Parmenides, .Ischomachus, .pole, .Polemarchus, .Boy, .Critias, .Devotee, .Judge, .Man, .Apollodorus {
   background-image: url(/icons/g04.png);}
 
-.Mahut {background-image: url(/icons/g06.png) !important;}
+.Mahut, .Pindar {background-image: url(/icons/g06.png) !important;}
 
 .Wang-Sun-Ki, .Judas, .Tsz-Lu, .Gauri {background-image: url(/icons/g07.png) !important;}
 

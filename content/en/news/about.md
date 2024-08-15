@@ -23,11 +23,11 @@ So Adam Smith is such an evil guy for causing so much trouble, right?
 By reading Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to [the building of firewalls in order to prevent the spread of fire](/research/smith/wealth-of-nations/book-2/chapter-2m/). Greenspan was really citing Samuelson and neoliberal writers who preferred selfish-interest over social interest.
 
 After concluding that Greenspan and Samuelson were the bad guys, Smith logically became the good guy to us. 
-- Smith cited David Hume heavily in his works
+- Smith explained the concept of dharma as the [invisible hand](/social/economics/invisible-hand/), and cited David Hume heavily in his works
 - Hume agreed with Descartes, and cited Plato
 - Descartes' aether is from Plato
 - Plato wrote about Socrates
-- Socrates spoke about [reincarnation and chakras](/research/socrates/simple-republic/book-10/chapter-4)
+- Socrates spoke about [reincarnation and chakras](/research/socrates/simple-republic/book-10/chapter-4) and dharma versus adharma (δίκαιος and άδικος) as the [invisible hand](/research/socrates/simple-republic/book-2/chapter-2/) 
 
 Socrates thus became the essential link between Western and Eastern philosophy, which we merged into Superphysics as a dialectical system to solve all problems, just as you use:
 - the scientific method to solve science problems, and
