@@ -1,11 +1,10 @@
 ---
-heading: "Chapter 3b"
-title: "The Properties of Space"
-# date: 2023-11-27
-weight: 6
-image: /graphics/physics/slices.jpg
-# was 1b
-description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
+heading: "Chapter 3e"
+title: "Timespace as Holder of Gravitational Signatures"
+# date: 2024-07-22
+weight: 12
+image: /graphics/physics/spacetime.jpg
+description: "Timespace is the sublayer where time predominates and space is minimal."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,54 +12,74 @@ icon: /icons/spmat.png
 ---
 
 
-We define:
-- space as the gap within perception
-- distance as the gap between perceived identities, as objects, places, events, etc. 
+Timespace is the sublayer where time predominates and space is minimal. 
+
+This is visualized by our aethereal Cartesian Plane which is made up of polar coordinates. 
+
+{{< img src="/graphics/physics/aetherealplane.jpg" alt="The Aethereal Cartesian Plane" cap="The Aethereal Cartesian Plane visualizes timespace just as the Material Cartesian Plane visualizes spacetime" >}}
 
 
-### Physical Space and Metaphysical Space
-
-Superphysics divides reality into the Physical and Metaphysical Domains, as the Cartesian View. This is different from Physics which only allows the Physical Domain. 
-
-Accordingly:
-- the space in the Physical Domain is called Physical Space. This is detected by the physical eyes and touch. This is in the Middle and Lower Spatial Layer.
-- the space in the Metaphysical Domain is Metaphysical Space. This is detected by thought and intuition (a 6th sense feeling). This is in the Upper Spatial Layer.
-
-The division between physical and metaphysical space and time is therefore between the Upper and Middle Spatial Layer. We call this the **Spatial Internal Boundary** or SIB.   
-
-{{< img src="/graphics/physics/msq.jpg" alt="The 5 Layers" cap="The SIB is the green horizontal line" >}}
+Timespace is closer to the Aethereal Layer because:
+- it has more time than space
+- it has more access to discrete perceptions since time is the gap between perceptions in general (as opposed to space which is confined to a single perception)
 
 
-For example, a kid might be obsessed with playing a certain video game the whole day, and only thinks about playing it. He sacrifices his studies, food, and sleep to play. 
+While spacetime looks outward from the expanse of a single perception, timespace looks inward from the variety of perceptions. 
 
-In that case, we say that:
-- the idea of the video game occupies most of the space in his abstract mind. 
-- there is zero metaphysical distance between his consciousness and the video game.
-- there is a greater distance between him and his studies and food
+This is why timespace is necessary to reveal and analyze the gravitational signature of an identity, which is totally inward or inherent.
 
-A man's girfriend might be on the other side of the world, creating a maximum amount of physical 'Earth-space', as distance, between him and her. But she always occupies his mind, so they video call or chat all the time. 
 
-In that case:
-- she, as an idea, occupies the maximum metaphysical space in his mind
-- there is zero metaphysical distance between him and her. 
+## Attractive and Repulsive Forces
 
-Material Superhysics focuses on the Physical aspects of the universe and so we will focus on Physical space.
+The affinity between the gravitational signatures between identities leads to the attractive force between them. 
 
-Metaphysical space will be useful to Material Superhysics in the distant future after humans learn how to cross between universes which have different physical laws from each other.
+The contrariness between them leads to the repulsive force. 
 
-So for now, metaphysical space will be mostly important to Bio Superphysics for use in solving mental problems.
- 
+This means that attraction, repulsion, and movement depends on the qualities of gravitational signatures which we house in the quantum of timespace (qots). 
 
-### Space is 2-Dimensional
 
-Modern Physics uses differential geometry of Gauss and Riemann to create 3-dimensional worlds or objects. This tries to create the world in advance of whatever perceptions are made within that world. 
+<!-- The differences between them lead to the repulsive force which artificially leads to levitation, and naturally is called the expansion of spacetime by Physics. This is based on the Law of Conservation of Idea. -->
 
-The problem is that perceptions are arbitrary based on one's gravitational signature. And so whatever 3D world is created will either:
-- not match reality
-- be so complicated to plot in 3D
 
-{{< img src="/graphics/physics/slices.jpg" alt="The Slices of an Object" cap="Each space is made up of 2D slices glued together by continuos perception" >}}
+<!-- Superhysics arrives at the qost of an object by flipping the Schwarzschild Radius to make the mass dependent on a [gravitational variable G](/material/fallacies/general-relativity) (not a constant) and by using a limiting tensor <code>s</code> instead of a constant speed of light <code>c</code>`. 
 
-This is why space in Superphysics is plotted sequentially, similar to a printer which prints an image line by line.
+From here we can make important logical assertions: -->
 
-All these slices or pages then only follow Euclidean geometry. These are glued together by the abstract mind to create 3D worlds through aethereal links between perceptions.  
+<!-- This means that gravity does not come from mass, but from the qost that is in that mass*. 
+
+> *We use Newtonian mass, and not electromagnetic mass, when we say mass -->
+
+
+
+<!-- The energetic qost that serves as the center of a planet, star, or galaxy rotates as a vortex. This rotation snags other lesser qosts and makes them go or away from that center. While going towards that center, it pushes matter with it. The more matter, the more the pushing force, as weight. This is what Newton saw and why he said gravity comes from matter (as mass). 
+
+Each matter-particle already has radiance and spacetime inside it. This is why massive objects create a larger vortex than a less massive one. This is what Einstein saw and why he said that gravity comes from the warping of spacetime.
+
+A mass with an active vortex, such as a planet with a liquid core, has more gravity than a mass that has an idle vortex, such as an asteroid or a moon. A star has a much more active vortex than any planet and so its gravity is naturally so much more. 
+
+In this system, the precession of Mercury has nothing to do with the speed of light that Einstein assumed. Instead, it has all to do with the idle core of Mercury compared to the active core of the Sun.  -->
+
+
+
+
+
+<!-- #### 1. The mass and size* of a qost is dependent on its gravitational signature
+
+Since a qost represents a complex idea, then a small Schwarzschild Radius represents a small idea while large one represents a large one. 
+
+> *As a 1-dimensional thing, a qost really does not have a size. It would be better to refer to it as an area of strongest influence. 
+
+
+
+#### 2. The universe did not start from a material singularity -->
+
+<!-- Rather, it began as an infinite number of discrete ideas streaming through onto physical reality via qosts. This is similar to your TV screen having no single starting point. -->
+
+<!-- In this analogy, the LED bulb would represent a star or galaxy qost that emits its idea or feeling as the physical color and material from the star or galaxy. -->
+
+
+<!-- #### 3. The expansion of spacetime really represents the development of those original potential ideas into actual ones
+
+The universe can expand infinitely just as ideas can be developed, and mixed and matched into other ideas infinitely. The physical expansion does not mean that the universe started from a singularity or will collapse back into one. That kind of thinking arises from materialist thinking, by thinking that the material universe came from a material cause.  
+-->
+

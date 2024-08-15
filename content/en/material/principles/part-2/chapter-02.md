@@ -31,3 +31,7 @@ The Upper Spacetime is not purely physical as it is the realm of:
 The Middle Spacetime is within the Upper Spacetime. This is mostly physical where information is deployed onto the current universe. This sets the speed of light of the current universe. 
 
 The Lower Spacetime is where the realm that we can see. This leads to matter having length, width, and height that does not change so easily. It is also the one that "glues" subatomic particles of the Material Layer together. 
+
+The aethereal layer also has perceptions but are no longer bound by space and time. 
+
+We will first discuss the properties of space and time from the spacetime sublayer, as this is nearest to human perceptions. 

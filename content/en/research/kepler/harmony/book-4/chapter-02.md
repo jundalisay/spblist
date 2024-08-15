@@ -38,8 +38,10 @@ For to recognize is to compare some external sensible thing with ideas which are
 
 That is splendidly expressed by Proclus by the term “awakening,” as if from sleep. 
 
-For just as sensible things which we meet externally make us recollect what we had known beforehand, similarly sensible mathematical things, if they are recognized, therefore, elicit intellectual things which are previously present within, so that things now in actuality shine forth in the soul which were hidden in it before, as if under a veil of potentiality. How, then, did they break in? I reply that the ideas or formal causes of the harmonies, in accordance with our earlier
-307
+For just as sensible things which we meet externally make us recollect what we had known beforehand, similarly sensible mathematical things, if they are recognized, therefore, elicit intellectual things which are previously present within, so that things now in actuality shine forth in the soul which were hidden in it before, as if under a veil of potentiality. 
+
+How, then, did they break in? I reply that the ideas or formal causes of the harmonies, in accordance with our earlier discussion of them, are completely innate in those who possess this power of recognition; but they are not after all taken within them by contemplation, but rather depend on a natural instinct, and are innate in them, as the number (something intellectual) of the leaves in the flower and of the segments in a fruit are innate in the forms of plants. 
+
 How many faculties of the soul are concerned with the harmonies?
 
 Harmonic ratios are innate in souls.
@@ -47,18 +49,13 @@ Harmonic ratios are innate in souls.
 The soul is in a sense a circle.
 
 The basis of influences on horoscopes.
-Book 4
-discussion of them, are completely innate in those who possess this power of recognition; but they are not after all taken within them by contemplation, but rather depend on a natural instinct, and are innate in them, as the number (something intellectual) of the leaves in the flower and of the segments in a fruit are innate in the forms of
-plants. 
 
-The result of this finding in plants, resembling the harmonic ratios (for number and proportion are akin, as was made clear above), is that I cannot confidently deny even to the vegetative faculty of the soul, and to the plants themselves, the power of recognizing the harmonic proportions of the sidereal rays; though I assert nothing with­
-out appropriate tests. 
+The result of this finding in plants, resembling the harmonic ratios (for number and proportion are akin, as was made clear above), is that I cannot confidently deny even to the vegetative faculty of the soul, and to the plants themselves, the power of recognizing the harmonic proportions of the sidereal rays; though I assert nothing without appropriate tests. 
 
 It therefore turns out that boys, that primitives, peasants, and barbarians, and the very wild beasts, perceive harmonies
 in notes, though they know nothing about the theory of harmony. 
 
-But if you were to ask whence they get this instinct, I shall either take refuge in God, Who shapes and imposes on bodies these forms, all images of Himself, though more or less close, and makes them display the harmonic ratios in themselves, just as He has embraced them in His mind from eternity, and has expressed them in His creation, as has been stated above; or else, which comes to the same thing, I shall adduce the affinity, touched on in Chapter I, of these souls, even the
-inferior ones, with the circle, in accordance with which, as with a rule or law, they have been arranged and shaped, while along with the circle, and its constructibility, they have also taken on the idea of the harmonic proportions which depend on it. 
+But if you were to ask whence they get this instinct, I shall either take refuge in God, Who shapes and imposes on bodies these forms, all images of Himself, though more or less close, and makes them display the harmonic ratios in themselves, just as He has embraced them in His mind from eternity, and has expressed them in His creation, as has been stated above; or else, which comes to the same thing, I shall adduce the affinity, touched on in Chapter I, of these souls, even the inferior ones, with the circle, in accordance with which, as with a rule or law, they have been arranged and shaped, while along with the circle, and its constructibility, they have also taken on the idea of the harmonic proportions which depend on it. 
 
 For this philosophy is strongly confirmed by horoscopes, as we see that the character of the concurrence of celestial rays at the same point, as if from a common circle, is imprinted on the mind of the new born.^^ More on this will follow in Chapter 7.
 
@@ -91,8 +88,7 @@ The faculty of hearing (to use the example of consonant sounds to stand for all)
 
 ## The Active Faculties
 
-For I now come to the active faculties, which are concerned with
-the harmonic proportions. 
+For I now come to the active faculties, which are concerned with the harmonic proportions. 
 
 This also is twofold: for either it operates on its own account, or in things which are outside itself, in either
 case adapting its operations to the proportions, or bringing the proportions into them. The former case is indeed like something passive; 
@@ -115,8 +111,7 @@ For similarly they were also in the faculty of hearing soundingly, in the vital 
 
 However, the fact that we are not only delighted by harmony in music, but also fit the movements of fingers, mouth, feet, and body to it, we now attribute to the animal faculty, coupled with the will.
 
-But when we also fit the voice to intelligible harmonies, when we study a melodic piece of music which we have not heard before, in this case we are using all the highest and lowest faculties —the highest because we employ both will and intention; but the lowest because we are able to, and because even without understanding of the proportions, we express the ideas of the intervals alone, which have been implanted by Nature, in music, excluding everything unmelodic, and
-roaming over the melodic intervals alone. 
+But when we also fit the voice to intelligible harmonies, when we study a melodic piece of music which we have not heard before, in this case we are using all the highest and lowest faculties —the highest because we employ both will and intention; but the lowest because we are able to, and because even without understanding of the proportions, we express the ideas of the intervals alone, which have been implanted by Nature, in music, excluding everything unmelodic, and roaming over the melodic intervals alone. 
 
 Therefore, the harmonic faculties explained up to this point have been breathed out by that essential harmony, God Himself, in the act of creation, inasmuch as he is “existence in activity”; and he has breathed this particle of His own image into all souls absolutely, more or less closely.
 

@@ -3,7 +3,7 @@ heading: "Chapter 5c"
 title: "The 4 Rules of True Motion"
 linkTitle: "4 Rules"
 # date: 2022-01-03
-image: /graphics/rule1.jpg
+image: /graphics/physics/rule1.jpg
 description: "Rene Descartes gave 3 Rules of Movement in 'The World' which we combine with Spinoza"
 weight: 14
 writer:

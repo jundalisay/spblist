@@ -17,6 +17,18 @@ icon: /icons/spmat.png
 Descartes is among the first of the moderns who took away the boundaries of the Universe.
 {{< /q >}}
 
+The spatial layer is below the aethereal, as the 'container' of reality.
+
+Attribute | Quality
+--- | ---
+Name | **Spacetime**
+Traditional Name | Air, Vayu
+Domain | Physical
+Force | Dynamism, Gravity
+Medium | Gravity Particles (most3)
+Quanta | Spatial Vortices (qosts)
+Movement | Purely Kinetic
+Quality | Subtle, Controls physical reality as the speed of light
 
 
 {{< youtube 6D9LNAgWbRE >}}
@@ -33,24 +45,27 @@ The reason for the physicists' confusion is that energy and mass are so tied tog
 For example, physicists fail at fusion because they confine plasma with magnetism. This is despite the fact that the stars themselves show that their fusion is caused by gravity and not magnetism. So the solution is artificial gravity. The ancient Egyptians and Hindus already knew how artificial gravity works. But for some reason the East doesn't develop it and nor does the West don't tap into such knowledge.  -->
 
 
+### Definition of The Spatial Layer
 
-The spatial layer is below the aethereal, as the 'container' of reality. 
+The Spatial Layer is where perceptions, such as physical reality, take place. 
 
-<!-- a universe in an existence made up of a multiverse.  -->
+Unlike the aethereal layer which is only quasi-physical, spacetime is both quasi-physical (via timespace) and physical (via spacetime). 
+
+Each particle in the Spatial Layer is made up of 4 aether particles. 
 
 
-Spatial Layer | Name | Physics Counterpart
+<!-- Spatial Layer | Name | Physics Counterpart
 --- | --- | ---
 Traditional Name | Air | Spacetime
 Substance | Sost | Black Holes 
 Medium | Most | Span (Distance, Timespan, Speed) 
-Quanta | Qost / Qots | Graviton
+Quanta | Qost / Qots | Graviton -->
 
 
 It is purely kinetic energy and has no static forms*. Rather, the relatively static forms of spacetime manifest as the lower layers.
 - Parts that have low kinetic energy manifest as empty space or a vacuum. 
 
-{{< m m="*The static forms in the nucleon of an atom are made up of the Material Layer and not of Spacetime." >}}
+{{< f f="*The static forms in the nucleon of an atom are made up of the Material Layer and not of Spacetime." >}}
 
 
 
@@ -59,7 +74,7 @@ The spatial layer leads to spacetime and sets the speed of light, since it is su
 - Weak Force
 - Strong Force
 
-{{< img src="/graphics/physics/layers.jpg" alt="The 5 Layers" cap="The Spacetime Layer holds the Physical Universe which is made up of Electromagnetism, Weak Force, and Strong Force" >}}
+{{< img src="/graphics/physics/layers.jpg" alt="The 5 Layers" cap="The spatial layer holds the Physical Universe which is made up of Electromagnetism, Weak Force, and Strong Force" >}}
 
 
 This layer gives the properties of size, space, timespan, and age of the universe and everything in it. 
@@ -70,7 +85,7 @@ The spacetime layer is the gateway that allows the ideas from the aethereal laye
 
 In Bio Superphysics, the Spatial Layer becomes the **Spatial Stratum** and the spacetime vortices manifest as **chakras** which allow organic ideas to cross over as organic phenomena.  
 
-{{< img src="/graphics/physics/multiverse.png" alt="Multiverse with Universes" cap="Pre-existing aethereal ideas flow down into physical reality in a probabilsitic way. A single idea, when deployed, therefore has many versions in other universes of varying densities" >}}
+{{< img src="/graphics/physics/multiverse.png" alt="Multiverse with Universes" cap="Pre-existing aethereal ideas flow down into physical reality in a probabilistic way. A single idea, when deployed, therefore has many versions in other universes of varying densities" >}}
 
 Within one universe, the creation of these vortices leads to the mutual repulsion between them, leading to the perception of space and time.
 

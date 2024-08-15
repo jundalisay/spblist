@@ -36,9 +36,7 @@ Here, the name "angle" is given to everything in a body that protrudes beyond th
 
 #### 49. There is a finer matter around these spherical particles
 
-**There can be no void in space.** 
-
-Yet those round matter particles, when joined together, leave some very small gaps around them.
+**There can be no void in space.**  Yet those round matter particles, when joined together, leave some very small gaps around them.
 
 
 <!-- However, since spaces devoid of any body cannot exist anywhere, and since  -->
@@ -66,15 +64,15 @@ They encounter other bodies by their surface and are divided by their volume.
 
 They are agitated much more swiftly than the other particles of matter from which they acquire their agitation. 
 
-Because while these other particles move through straight and open paths, they expel the finer particles through oblique and narrow paths.
+This is because while these other particles move through straight and open paths, they expel the finer particles through oblique and narrow paths.
 
 In the same way, we see air exit very quickly from a bellows, even if it is slowly closed, because of the narrowness of the passage through which it passes. 
 
-Some portion of matter must move very quickly and be divided into practically infinite parts. 
+Some portion of matter must move very quickly and be divided into practically infinite particles. 
 
-This is so that various circular and unequal motions can occur without rarefaction or voids. 
+This is so that various circular and unequal motions can occur without decompression or voids. 
 
-No other matter is found to be suitable for this purpose.
+<!-- No other matter is found to be suitable for this purpose. -->
 
 <!-- rarefaction = decompression -->
 

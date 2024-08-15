@@ -23,9 +23,7 @@ In the first degree the proportions of which the characteristic or major term is
 
 This similarity of the face can also be extended to the minor term of the proportion. Thus wherever the three fold is found next to a term in the proportion of continuous doubling,^^ that proportion is considered to have affinity with the three figures first named, such as 1:3 and 2:3 and 4:3 and 8:3, and so on. 
 
-Where on the other hand there is the fivefold, that proportion is to be completely appropriated to the dodecahedric marriage, such as 2:5 and 4:5 and 8:5, and similarly 3:5 and 3:10 and 6:5 and 12:5 and 24:5. The relationship will be
-less plausible if the sum of the terms should express this similarity,
-as in the case of 2:3 the terms added together make 5, as if therefore,
+Where on the other hand there is the fivefold, that proportion is to be completely appropriated to the dodecahedric marriage, such as 2:5 and 4:5 and 8:5, and similarly 3:5 and 3:10 and 6:5 and 12:5 and 24:5. The relationship will be less plausible if the sum of the terms should express this similarity, as in the case of 2:3 the terms added together make 5, as if therefore,
 2:3 would have affinity with the dodecahedron.
 
 Relationship on account of the external appearance of the solid angle is similar. It is trilinear in the primaries, quadrilinear in the octahedron, quinquelinear in the icosahedron. 

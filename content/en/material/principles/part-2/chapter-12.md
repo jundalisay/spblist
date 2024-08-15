@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 12"
-title: "Gravity from Qosts"
+title: "Gravity from Most3s"
 # date: 2024-0-7-22
 image: "/graphics/physics/francis.jpg"
 description: "Here we explain how gravity works"
@@ -9,8 +9,11 @@ icon: /icons/spmat.png
 # linked to public
 ---
 
-{{< youtube _NaZSSNFQnM >}}
 
+
+There are  
+
+{{< youtube _NaZSSNFQnM >}}
 
 
 The force of qosts to go on a straight line in isolation and in curves in totality. 

@@ -62,18 +62,18 @@ The main difference between our unification and the one done by Einstein is that
 
 <!-- The pushing leads to the creation and expansion of physical space, first as 2-dimensional (Pythagorean duad) and then into 3-dimensions (triad). The sequence of expansion then leads to physical time as the fourth dimension (tetrad), leading to 4-dimensional "Minkowski" spacetime to an observer. -->
 
-This "pushing" is similar to the theory of Descartes which was destroyed by Newton:
+<!-- This "pushing" is similar to the theory of Descartes which was destroyed by Newton:
 
-{{< q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
+q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
 According to Descartes, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the universe was always the same. But there was no void. 
 
 No part of matter could be moved without thrusting some other out of its place. The matter which any body pushed before it, rolled immediately backwards, to supply the place of that matter which flowed in behind it. 
 
 This is similar to the swimming of a fish. The water, which it pushes before it, immediately rolls backwards, to supply the place of what flows in. It thus forms a vortex around the body of the fish. In the same way, the motion originally impressed by the Creator on matter produced in it an infinity of vortices, or circular streams. 
-{{< /q >}}
+/q >}}
 
 
-The range of motions arising from the perpetual pushing is determined by the identity's gravitational signature in relation to other signatures. The relation can be within the same Layer or extend to lower Layers. For example, magnetism is affected by heat, but not by light, just as light is affected by gravity, but gravity or weight is not changed by light. 
+The range of motions arising from the perpetual pushing is determined by the identity's gravitational signature in relation to other signatures. The relation can be within the same Layer or extend to lower Layers. For example, magnetism is affected by heat, but not by light, just as light is affected by gravity, but gravity or weight is not changed by light.  -->
 
 <!-- 
 Layer | Ratio
@@ -95,7 +95,7 @@ Space-time depends totally on perception. Rather than say that it is infinite, i
 <!-- However, this detection is partly sophistical because it imposes the properties of electromagentism onto the properties of spacetime. A person interpreting LIGO data will interpret gravitational waves to travel at the speed of light simply because light was used to measure it.</p>
  -->
 
-{{< youtube e7rRQEq9C60 >}}
+<!-- youtube e7rRQEq9C60  -->
 
 
 <!-- Creation goes on to make the 5th, 6th, and 7th dimensions*. However, only the 4 dimensions are visible to our ordinary senses, since the 5th to 7th are metaphysical in essence. 

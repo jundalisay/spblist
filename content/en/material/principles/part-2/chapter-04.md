@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: "The Substance of Spacetime: Black Holes"
 # date: 2023-11-10
-weight: 14
+weight: 18
 image: /graphics/physics/vortex.jpg
 description: "Black holes are stellar vortices. Supermassive black holes are galactic vortices"
 icon: /icons/spmat.pn
@@ -26,6 +26,17 @@ Upper | Time (mostly in timespace)
 Middle | Vortices (both in timespace and spacetime)
 Lower | Space (mostly in spacetime)
 
+
+<!-- Its substance or representative perception is a black hole which we name depending on its layer.
+
+Layer | Substance Name | Physics Name
+--- | --- | ---
+Spatial | Galactic Qost | Supermassive Black Hole
+Radiant | Stellar Qost |  Black Hole
+Convertible | Planetary Qost | Planetary Core
+Material | Material Qost | Electron Cloud 
+
+ -->
 
 Physics calls these vortices in the spatial layer of the physical domain as **black holes**. 
 

@@ -40,9 +40,9 @@ Middle | feeling | subconscious | subconscious | feeling
 Lower | idea | conscious | conscious | idea -->
 
 
-### Definition of the Aether
+### Definition of the Aethereal Layer
 
-The aether of the 5 Layers Model of Material Superphysics is the substance of the physical and quasi-physical universe. 
+The aethereal layer of the 5 Layers Model of Material Superphysics is the substance of the physical and quasi-physical universe. 
 
 It is a bit different from the aether of the 5 Strata Model of Bio Superphysics which is the substance of ideas, feelings, and abstract minds or souls. 
 

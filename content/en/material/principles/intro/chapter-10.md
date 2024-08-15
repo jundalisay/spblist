@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 11"
+heading: "Chapter 10"
 title: "The Creation of the Universe as a Big Bootup"
 # date: 2020-01-31
 linkTitle: "Qost"
@@ -13,8 +13,9 @@ weight: 36
 icon: /icons/spmat.png
 aliases:
   /material/principles/qost
-  /material/principles/part-2/chapter-02b  
+  # /material/principles/part-2/chapter-02b  
 ---
+
 
 
 Instead of a Big Bang, the universe began as a "Big Bootup" or "Wakeup" when ideas flowed from the metaphysical plane onto the physical plane. 
@@ -24,36 +25,33 @@ These ideas flow down onto the five layers or elements of the Greeks, Hindus, an
 Phase | Layer | Physics Name | Sequence  
 --- | --- | --- | ---
 0 | Metaphysical | Pseudo-science | The pre-existing ideas as potentialities are deployed onto reality
-1 | Aethereal | Higgs | The aether compiles the <!-- potential ideas as actual --> compound ideas as potential universes in the multiverse
+1 | Aethereal | Pseudo-science | The aether compiles the compound ideas as potential universes in the multiverse
 2 | Spatial | Gravitation | The compiled ideas are sent through qosts as galaxies and then as stars. These create space and time, as well as gravity
-3 | Radiant | Electromagnetism | The friction between qosts convert some of them into qols (photons) and qoes (electrons) in the stellar qosts
-4 | Convertible | Weak force | The collisions convert some of the qosts into W and Z bosons (qout and qolt respectively) which are essential for fusion
-5 | Material | Strong force | Finally, the strong force convert some of the qosts into quarks which form into hydrogen (M1)
+3 | Radiant | Electromagnetism | The friction between qosts and most3 convert some of them into mor1s (photons) and qor1s (electrons) in the stellar qosts
+4 | Convertible | Weak force | Through quantum tunneling in the most3 in the qost2, the qors fuse into socs (neutrons) 
+5 | Material | Strong force | Finally, the socs compress further into soms (protons)
+
+<!-- Part 1 of Creation is explained in [another chapter](/material/principles/part-1/chapter-04b).
+
+Here, we explain Phase 2 of the journey of the compiled or 'packaged' ideas from aethereal probability into physical reality in space and through time. -->
 
 
-Part 1 of Creation is explained in [another chapter](/material/principles/part-1/chapter-04b).
+## Phase 1: The Ideas are Deployed
 
-Here, we explain Phase 2 of the journey of the compiled or 'packaged' ideas from aethereal probability into physical reality in space and through time.  
-
-
-## Phase 2: The Universe Takes Shape Thanks to Spacetime
+Universe Takes Shape Thanks to Spacetime
 
 <!-- all movement is sourced internally from an identity's gravitational signature. [Afterwards](/material/universal-relativity), the aether pushes that identity relative to other identities depending on what layer it is in: -->
 
-Phase 1 of the existence of a Universe is when its Matrix boots up, or the Mind of Brahma starts to think about that Universe. We use the Matrix analogy for nonspiritual or close minded people. We use the Brahma analogy for spiritual or open minded ones.
+Phase 1 of the existence of a Universe is when its Matrix boots up, or the Mind of Brahma starts to think about that Universe. 
+- We use the Matrix analogy for nonspiritual or close minded people.
+- We use the Brahma analogy for spiritual or open minded ones.
 
 This activates the aethereal layer to get the many ideas of the Supreme for that Universe. The ideas come from pre-existence and are transferred onto aethereal existence by the desire from the Positive Force of the Supreme. 
 
-The aethereal ideas we call as 'quanta of aether' (qoas) as ideas which are meant for physical existence. These qoas then get funneled into nodes which we call quanta of spacetime (qosts) which exist in the layer under the aethereal layer.
+The aethereal ideas we call as 'media of aether' (moa3s) as metaphysics objects which are meant for physical existence. These moa3s then get funneled into nodes which we call quanta of spacetime (qosts) which exist in the spatial layer beneath the aethereal layer.
 
 The universe thus shifts from aetherel probability into spatial reality (i.e experiences space and time). 
 
-<!-- 0. Metaphysical dimension: The pre-existing idea is deployed
-1. Aethereal Layer: The aether (Higgs field to Physics) translates the idea onto physical reality through galaxies 
-2. Spatial Layer: The galaxies create spacetime which allows the existence of quanta of spacetime (qoa) as stars 
-3. Radiant Layer: The stars emit light and electromagnetism 
-4. Convertible Layer: between particles convert neutrons into other types of particles
-5. Material Layer: The particles stabilize as elements -->
 
   
 ### The Universe as a Matrix (or an App or TV screen)
@@ -65,6 +63,12 @@ Unlike the Big Bang which created space from a material cause, our spatial layer
 We can think of the physical universe (with spacetime) as a giant computer memory that generates virtual objects.
 
 The stream of ideas from the aethereal layer enter this virtual reality through specific placeholder blocks or nodes in this universe-RAM or universal-memory.  <!-- combination of 1's and 0's that stream down into physical space do it through  in the mind or memory of the universe. --> This is to maintain the identity of each idea and not let it get mixed up with other ideas.  
+
+
+{{< q a="Descartes" c="The World Simplified" >}}
+Before God divided it, the pure aether was singular. When it began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect.. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion. Nearer the centers, the particles were naturally less agitated and smaller. Farther from the centers, the particles were more agitated and larger.. The strongest particles were the largest ones. These created the largest circles.
+{{< /q >}}
+
 
 For example, a smartphone has two kinds of memory:
 - Phone memory where the apps are run
@@ -80,12 +84,13 @@ The aethereal layer is the SD card which can have far more apps ready to be inst
 Each app must be separate from other apps, otherwise there'll be an error*.  
 
 
-> *We assert that the Supreme does not make mistakes or bugs in Its design for a universe.
+{{< f f="*We assert that the Supreme does not make mistakes or bugs in Its design for a universe." >}}
+
 
 
 **We call these nodes or blocks as the quanta of spacetime of qosts.** 
 
-These qosts are invisible since they are above the Radiant (Electromagnetic) Layer. For human purposes, we can designate that each qost has a size of 1 Planck length and changes every 1 Planck time. 
+<!-- These qosts are invisible since they are above the Radiant (Electromagnetic) Layer. For human purposes, we can designate that each qost has a size of 1 Planck length and changes every 1 Planck time.  -->
 
 These fill empty space and perform the following critical tasks:
 - constraining and isolating each universe from each other
@@ -96,33 +101,14 @@ These fill empty space and perform the following critical tasks:
 
 
 
-## Types of Qosts
- <!-- that Become Galaxies as Vortices -->
-
-The qosts that contain the most complex ideas, such as those for a galaxy, turn into vortices that eventually manifest those galaxies.  
-
-{{< q a="Descartes" c="The World Simplified" >}}
-Before God divided it, the pure aether was singular. When it began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect.. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion. Nearer the centers, the particles were naturally less agitated and smaller. Farther from the centers, the particles were more agitated and larger.. The strongest particles were the largest ones. These created the largest circles.
-{{< /q >}}
-
-
 <!-- Each qost is a starting point for galaxies and stars. It becomes a holder for planets or other heavenly body that are produced from those galaxies and stars.  -->
 <!-- do not emit their own energy.  -->
-
-
-There are 3 types of qosts just as there are 3 types of leptons in the Radiant Layer and 3 color charges in the Material Layer:
- <!--matter particles (matter, antimatter): -->
-
-1. Major bodies
-2. Minor bodies
-3. Spacetime particles
-
 
 <!-- However, unlike a computer's memory that is limited and predefined, the qosts of the universe is infinite. It is arbitrarily set by the aethereal layer above it (or operating behind it). This is similar to Firefox browser having the computer's operating system (OS) working behind the scenes at all times. If the OS shuts down, then the Firefox browser shuts down too. Thus, if the idea "stops" in the aethereal layer, then its physical version will likewise disappear according to the rules of physicality.   -->
 
 <!-- These qosts start out as 1-dimensional points that repel each other to create 2-dimensions, then 3-dimensions, and finally 4 physically-observable dimensions. --> 
 
-The major bodies are:
+<!-- The major bodies are:
 - galaxies
 - quasars
 
@@ -139,34 +125,34 @@ The minor types of qosts manifest as everything else, such as:
 
 The attractive force with these manifests as gravity. The repulsive force manifests as the vacuum of space. 
 
-The last type are mere spacetime particles. These manifest as empty space and have just enough energy to make it through to the Physical Domain. 
+The last type are mere spacetime particles. These manifest as empty space and have just enough energy to make it through to the Physical Domain.  -->
 
 
 <!-- Such nodes or points exert a natural force called gravity to facilitate the coversion of aethereal ideas and feelings into physical matter and energies.  -->
 
 <!-- In our app analogy, this is the "run-time" of the app, as opposed to the "compile-time" of the aethereal layer.   -->
 
-Physics believes that gravity comes from material mass. However, this is impossible in our model since matter is the final 5th layer and doesn't exist yet at this point.
+<!-- Physics believes that gravity comes from material mass. However, this is impossible in our model since matter is the final 5th layer and doesn't exist yet at this point.
 
-Physicists make this mistake because mass is so tied and dependent on gravity that they are always perceived together. 
+Physicists make this mistake because mass is so tied and dependent on gravity that they are always perceived together.  -->
 
 <!-- it cannot be separated by physical means, thought it can be manipulated by mind or metaphysical means.  -->
 
 <!-- and so dark matter has mass, but black holes and supermassive black holes have singularity wherein the laws of physics do not hold. To get rid of this absurdity, Superphysics views mass as coming from gravity in accordance with our five-layer model wherein material mass is the lowest and most subordinate layer. We can say that mass is the effect of, and is dependent on, gravity and its subordination to the aether, now known as the Higgs field.  -->
 
-**Thus, we define gravity as an inherent relational force between gravitational signatures.** This inherent quality is defined in the aethereal layer.
+<!-- **Thus, we define gravity as an inherent relational force between gravitational signatures.** This inherent quality is defined in the aethereal layer. -->
 
 <!-- inherent force in each qost which depends on the inherent quality of the ideas that are meant for it.**  -->
 
 
 
-Stars come from galaxies and are subservient to them, just as planets and asteroids come from stars and are subservient. This means the gravitation of the two are different:
+<!-- Stars come from galaxies and are subservient to them, just as planets and asteroids come from stars and are subservient. This means the gravitation of the two are different:
 - stars or stellar qosts follow the inverse square law
 - galaxy qosts follow the vortex differences 
 
 Instead of dark matter, we call the attractive force that binds galaxies as galactic gravitational territories. 
 
-Instead of dark energy, we call the repulsive force that causes the expansion of space as the constant division of the qosts which allow the potential existence of new qost-identities.
+Instead of dark energy, we call the repulsive force that causes the expansion of space as the constant division of the qosts which allow the potential existence of new qost-identities. -->
 
 <!-- through the emergence of   binds galaxies as galactic gravitational territories.  -->
 <!-- (Descartes' vortices as Cartesian votices) from the aether (Higgs Field) -->
@@ -177,30 +163,25 @@ Instead of dark energy, we call the repulsive force that causes the expansion of
   - The other universes are the other browsers also running alongside Firefox, such as Internet Explorer, Chrome, and Opera.  -->
 
 
-## The Creation Process from Idea to Physical Reality
+## Phase 2: The Ideas Become Galaxies and Stars
 
-Galactic qosts emerge arbitrarily onto the aether (or out of the aether) as one-dimensional points which repel each other to preserve their identity*.
 
-> *We call this the Law of Conservation of Idea
+Galactic qosts emerge in the spatial layer to materialize the ideas from the aether. These become galaxies which are filled with qosts and mosts. This causes a traffic jam in the galaxy. 
 
-<!-- , for the same existential reason that mass and energy are conserved. --> 
+<!-- Pythagoras called these 1D points as monads:
 
-This creates the concept of spacetime between each of the points.
-
-Pythagoras called these 1D points as monads:
-
-{{< q a="Iamblichus" c="The Life of Pythagoras" >}}
+q a="Iamblichus" c="The Life of Pythagoras" >}}
 The monad was the indivisible point and the first cause. The duad was the first line or interval. The triad had more intervals and lines. The tetrad was solid.
-{{< /q >}}
+/q >}} -->
 
 
 {{< youtube e7rRQEq9C60 >}}
 
 
-The spacetime layer thus converts the 1-dimensional galactic qosts into 2-dimensional, and then into 3-dimensional nodes the more qosts emerge. This continues until finally the nodes lead to 4 physically-observable dimensions* through the concept of time. This leads to the 4-dimensional 'Minkowski' spacetime of physics.
+<!-- The spacetime layer thus converts the 1-dimensional galactic qosts into 2-dimensional, and then into 3-dimensional nodes the more qosts emerge. This continues until finally the nodes lead to 4 physically-observable dimensions* through the concept of time. This leads to the 4-dimensional 'Minkowski' spacetime of physics.
 
 > *There can be up to 6 spacetime dimensions. Above that, spacetime no longer exists and experience becomes fully immersive and totally arbitrary. 
-
+ -->
 
 <!-- Physics calls the repulsion between galaxies as 'dark energy', while the spatial relation between galactic and stellar qosts as 'dark matter'. 
 - Instead of dark energy, we call it 'gap energy', as the energy that creates the spatial gap between galaxies. 
@@ -209,16 +190,20 @@ The spacetime layer thus converts the 1-dimensional galactic qosts into 2-dimens
 <!-- > *This name will be consistent when explaining Cartesian vortices, and anti-gravity as the levitating monk. The term 'dark matter' is relatively useless -->
 
 
-The collisions and friction between the qosts within a galaxy crudify them down into the Radiant layer where they convert into quanta of light (qol) and quanta of electricity (qoe).
+The collisions and friction in that traffic jam compresses the qosts to the point that create photons and electrons through the Radiant Layer.  
+
 
 {{< q a="Descartes" c="The World Simplified" >}}
 The aether particles that broke off from air-aether during collisions gained more speed because they had to travel farther at the same amount of time. They became the fire-aether.
 {{< /q >}}
 
-These qols (pronounced *khol*) and qoes (pronounced *khoe*) become the stars, as stellar qosts, that then emerge within the gravitational territory of the galactic qost. This new star-identity gains its own gravitational territory.
+These photons and electrons get even more compressed in subvortices as to create protons and neutrons inside them, leading to the creation of stars.
+
+This new star-identity then gains its own gravitational territory within the territory of its galaxy.
 
 
-## The Creation of Life and Matter
+
+## Phase 3: The Creation of Life and Matter
 
 The qosts compress the qols and qoes around a stellar vortex until a star is formed. In time, this star explodes due to the excess pressure from those qosts. 
 

@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 3d"
-title: "The Aetherspace and the 7 Dimensions"
+title: "Quantum Superposition, Decoherence, and Wave Function Collapse"
 # date: 2024-07-22
-weight: 10
-image: /graphics/physics/spacetime.jpg
-description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
+weight: 16
+image: /photos/physics/neutrino.jpg
+description: "Timespace and Aetherspace are essential for explaining 'quantum' phenomena"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,90 +12,56 @@ icon: /icons/spmat.png
 ---
 
 
-In Material Superphysics, the aetherspace is part of the spatial layer that is above spacetime, but below timespace.
+{{< youtube X_P0GEu4HQY >}}
 
-Sublayer | Media | Domain  | Phenomena 
---- | --- | ---
-Upper | Timespace | Quasi-Physical | Teleportation (via Electromagnetism)
-Middle | Aetherspace | Quasi-Physical and Physical | Gluons (via Matter)
-Lower | Spacetime | Physical | Gravity (via Matter), Dark Matter (via Light, Matter), Magnetism (via Electromagnetism) 
+Superposition is the ability of a quantum thing to exist in multiple states simultaneously.
 
-In Bio Superphysics, it is where spacetimes are glued together by the abstract mind. 
+Decoherence is when that thing loses its superposition.
 
-{{< youtube 6D9LNAgWbRE >}}
+This causes it to manifest as one state as a collapse of its wave function. 
 
-In Cartesian Physics and the pre-Science era, this was known as extension. 
+Modern Physics is totally confounded by this. 
 
-{{< q a="Descartes" c="" >}}
-The essence of matter consists in extension
-{{< /q >}}
+Cartesian-Spinoza Physics, on the other hand, can explain them as the effects of the spatial dimension, which Descartes calls the 2nd Element. 
 
-{{< q a="Spinoza" c="" >}}
-Extension is an attribute of God, or God is an extended thing
-{{< /q >}}
+We introduce 3 versions or 'modes' of space and time: 
+
+1. Spacetime
+2. Aetherspace
+3. Timespace
 
 
-{{< s i="/graphics/meta/space.jpg" a="Extension" c="We call extension as metaphysical space" >}}
+### Spacetime 
+
+Spacetime is already somewhat known to Physics as a 4-dimensional continuum. However, we clarify that it is actually made up of **2-dimensional slices** separated by Planck length.
 
 
-This allows the concept of 7 dimensions each of which has its own property:
-
-Dimension | Property
---- | ---
-1 | Point-Perception
-2 | 2D-Perceptions
-3 | Physical Perceptions
-4 | Past, Present, Future
-5 | Alternate or Parallel Realities
-6 | Universes in the Multiverse
-7 | Totality of Existence
-
-Technically, the 7th Dimension is purely aethereal and no longer part of the Spatial Layer. 
+{{< i s="/graphics/physics/aetherspaceall.jpg" a="Aetherspace" c="Spacetime slices exist in the aetherspace. This leads to alternate realities and other universes" >}}
 
 
-{{< i s="/graphics/physics/aetherspaceall.jpg" alt="Multiverse in the Aetherspace" cap="The aetherspace accounts for alternate realities, other universes, and the totality of existence" >}}
+### Aetherspace
 
-<!-- The aetherspace is the space that holds  -->
+These spacetime slices exist as a wave in a probabilistic space called the aetherspace. This makes them coherent and is why our reality progresses sequentially smoothly instead of being choppy or laggy.  
 
-## Properties of the Aetherspace
-
-The main property of the aetherspace is the space-time ratio. 
-
-- In the lower dimension both time and space are at their minimum. 
-- At the highest dimension, both time and space are at their maximum. 
-
-In between, they are both malleable:
-- In the lower dimensions, time is rigid or limited, but space is malleable or freer
-- In the upper dimensions, space is rigid or limited, but time is malleable or freer
-
-This has practical uses:
-- In Material Superphysics, this leads to teleportation (via timespace).
-- In Bio Superphysics, this leads to anti-aging.
-- In Social Superphysics, this leads to the faster evolution of societies.
+It is the aetherspace that limits both spacetime and light to a certain speed.
 
 
-### In the Material to Radiant Layers
 
-From the Material to Radiant Layers, the aetherspace facilitates quantum mechanics. Its most important use is for teleportation, which will be explained in another chapter. 
+### Timespace
 
-If atoms are our basis, then:
-- intra-atomic space is aetherspace
-- inter-atomic space is spacetime
+Timespace is the 2-dimensional line that is emitted from every identity in spacetime. This creates the "arrow" of time.
 
-{{< youtube Ov5jFvtb3bg >}}
+We can say that timespace is the 'glue' that stitches spacetime together to create a 4D continuum.
+
+{{< i s="/graphics/physics/spacetimes.jpg" a="3 models of Space and Time" c="The probabilistic aetherspace is where the entire spacetime is seen as a wave. Timespace stitches the spacetimes together." >}}
+
+Interactions between quantum things cause these slices to be decoherent. This makes their wave function collapse according to the timespaces that interact in that aetherspace, putting them in a single state to be processed by Classical Mechanics, among others. 
 
 
-<!-- Currently, Physics has is stuck because Einstein used light as a measuring rod for all of spacetime. The problem is that light is part of the Radiant Layer which is naturally inferior to the Spatial layer which spacetime is a part of. 
+### Cartesian Relativity and Teleportation of Masses
 
-**So Einstein used the inferior to judge the superior.** 
+Since Cartesian Relativity is based on state-change and is not limited by the speed of light, it can predict how this wave function can collapse. 
 
-The effect of this is that the real nature of the spacetime is not revealed. This prevents and development of spacetime technologies such as:
-- anti-gravity
-- teleportation
-- time travel 
-- speeding up or freezing of photons via the aether
+This is essential in the teleportation of masses across vast distances of spacetime, and is already done by UFOs.
 
-Instead of Minkowski spacetime, we use the Cartsian View. This splits up reality into individual slices separated by Planck time for timespan and Planck length for distance.
-
-< img src="/graphics/physics/In the above example, a  man walking from southwest to northeast is represented by a dot. The Cartesian View splits this movement into different slices of reality where each slice is an instance of perception. ">}} -->
- 
+So Cartesian-Spinoza Physics gives us a chance to catch up with advanced species. This proves that humans are not a hopelessly laggard or inherently dumb species. 

@@ -7,7 +7,7 @@ description: "The Quantum of Spacetime is the fundamental particle in the Spatia
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
+weight: 20
 icon: /icons/spmat.png
 # was 3
 ---
@@ -40,6 +40,16 @@ Both qosts and qots' have the following properties:
 3. Vortex rotation direction
 
 
+Qosts are speed changers while Qots are shape changers:
+
+{{< q a="Descartes" c="Principia, Part 2, Article 35" >}}
+There might be 2 kinds of particles:
+1. Shape-changers bend themselves in various ways and change their shapes.
+2. Speed-changers change their speed to occupy space accurately. These 2 jointly fit together and occupy all the space.
+{{< /q >}}
+
+
+
 The quanta or smallest essence for the Spatial Layer are:
 
 Sublayer | Quanta | Examples
@@ -47,6 +57,14 @@ Sublayer | Quanta | Examples
 Upper | Galactic Quantum of Spacetime Qost (also Quantum of Timespace Qots) | Galactic Vortices
 Middle | Non-galactic Qost | Stellar and Planetary Vortices
 Lower | Material Qosts | Subatomic Vortices
+
+
+Since there is nothing static in the spatial layer, then a most3 (gravity) can convert to qosts and vice versa. This leads to:
+- Galactic gravity from a rotating qost1
+- Stellar or Planetary gravity from a rotating qost2
+- Centrifugal and centripetal forces from a rotating material object qost3
+
+
 
 
 {{< b >}}
@@ -68,42 +86,26 @@ In ancient natural philosophy, this was called the metaphysical 'Air' Element th
 
 ### Properties of Qosts
 
-Both qosts and mosts are made up of 4 aether particles that are flat, except for aetherspace particles which are not flat. 
+Both qosts and mosts are made up of 4 aether particles that are flat, except for aetherspace particles which are linear and not flat. 
 
 {{< i s="/graphics/meta/aethershapes.jpg" a="Aether Shapes" c="The Spatial Layer particles have 4 aether particles" >}}
 
-<!-- Since it is one layer above the radiant layer which facilitates sight and touch, then it is not visible nor tangible.  -->
+Like the aethereal layer, it is above the radiant layer which facilitates sight and touch, and so it is not visible nor tangible.
 
-Its substance or representative perception is a black hole which we name depending on its layer.
+Unlike the Material Layer, it is easily divisible, giving it fluid and wave-properties. 
 
-Layer | Substance Name | Physics Name
---- | --- | ---
-Spatial | Galactic Qost | Supermassive Black Hole
-Radiant | Stellar Qost |  Black Hole
-Convertible | Planetary Qost | Planetary Core
-Material | Material Qost | Electron Cloud 
-<!-- Center of Gravity -->
+{{< q a="Descartes" c="Principia Part 2 Article 25" >}}
+People attribute fluidity to the heavens.. All fluids do not resist the motions of other bodies only when the fluids are themselves are also in motion. 
+{{< /q >}}
 
 
 In terms of the 3 influences or gunas, qosts can be classified into:
 
- <!-- 3 There are 3 types of qosts just as there are 3 types of leptons in the Radiant Layer and 3 color charges in the Material Layer: -->
-
 Sublayer | Qost Type 
 --- | ---
-Upper | Metaphysical qosts
-Middle | Galaxies and Quasars
-Lower | Stars, Planets, Moons, Material Things
-
-
-
-In terms of its 3 media due to the 3 influences of gunas:
-
-Sublayer | Medium
---- | ---
-Upper | Metaphysical Timespace (force of timespace to split up perceptions)
-Middle | Timespace (aging or force of time)
-Lower | Spacetime (gravity of force of space)
+Upper | The center of galaxies or quasars
+Middle | The center of stars or planets
+Lower | The center of rotating material objects
 
 
 ## Detection of Qosts
@@ -120,7 +122,7 @@ For example, we know that there is a black hole in the center of our galaxy beca
 Likewise, you see the space between you and the desk because of the existence of your material body and the material desk.
 - Here, the Material Layer exposes the qosts around you. 
 
- <!-- of the Spatial Layer -->
+Another example is the rotation of material objects around their axis, like a top or gyroscope. This makes it seem to defy gravity by standing upright.  
 
 
 <!-- From these, we can plainly see that the qosts around our table is very different from those in the supermassive black hole of a galaxy. 
@@ -130,8 +132,7 @@ In planets, a planetary qost is detected by the behavior of mass around it.
 The qost of a heavenly body in Physics is the Schwarzschild Radius of that body. For example, a galaxy's qost is the event horizon of its supermassive black hole. 
 
 The qost of a planet such as the Earth is the Schwarzschild Radius of the Earth which is 1 centimeter, while that of the sun is 3 kilometers.
-
-The qost of a non-heavenly material body, such as a ballpen, rock, or empty space, is the Planck length.  -->
+-->
 
 ## Detection of Qots'
 

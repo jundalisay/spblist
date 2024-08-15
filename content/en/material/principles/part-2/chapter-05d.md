@@ -1,74 +1,80 @@
 ---
 heading: "Chapter 5d"
-title: "The Galactic Qosts as Spatial Vortices"
-# date: 2020-01-31
-image: "/photos/physics/messier87.jpg"
-description: "A galaxy is the best representative body of the lower spatial layer in nature, as a galactic qost"
+title: "Quasars as Galactic Reverse Vortices"
+# date: 2023-11-14
+weight: 26
+image: /graphics/physics/quasar.jpg
+description: "The ratio of galaxies and quasars should be roughly similar. It means that some bright galaxies should be reclassified as quasars"
+icon: /icons/spmat.png
+# was 03d
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 20
-icon: /icons/spmat.png
-# was 3c
 ---
 
 
+<!-- ## How Cartesian Physics explains both Quasars and Antimatter using the Single Principle of Reverse Vortices. -->
 
-A galaxy is the best representative body of the lower spatial layer in nature, as a galactic qost, just as lightning is the best representative of the lower radiant layer. 
+The previous chapter explained that supermassive black holes are large vortices made up of agitated spacetime particles which we call qost1s. 
 
-Galaxies themselves do not emit matter and energy (unless they are very young or very old as quasars). They instead hold the stars (stellar qosts) and planets. 
+The friction of those invisible spacetime particles creates visible photon sparks (mor1) that travel through spacetime.
 
-The structure of a galaxy depends on the rotation and energy of its vortex. 
+Those photons then fizzle out, merging back with faraway spacetime particles (most3), spreading energy everywhere. 
 
-According to Descartes, a galaxy forms when qosts (which he calls the Air Element) collide with other qosts. 
-- The weaker and smaller ones revolve around the larger and stronger ones. 
-- These larger ones are naturally sepearated by their mutual repulsion from the need to retain their uniqueness.  
+This everywhere-energy then energizes that spacetime until certain areas have more energy than others. 
 
-{{< q a="Descartes" c="The World Simplified" >}}
-At the beginning, God placed every sort of inequality among these particles. They had all sorts of sizes, shapes, and dispositions to move or not to move, in all ways and in all directions. But that does not prevent them afterwards from having been rendered almost all fairly equal, especially those that remained an equal distance from the centers around which they were turning.
+This imbalance creates new vortices (as traffic jams for most3), similar to how high-low air pressure creates hurricanes from nowhere.
 
-Thus, in a short time, all the parts were arranged in order. Each became more or less distant from the center around which it had taken its course, according as it was more or less large and agitated compared to the others.
-{{< /q >}}
+Those new vortices form new galaxies as long as there is enough latent energy in that spacetime area.
 
+Those galaxies also produce solid matter as planets through their stars. 
 
-These create Cartesian vortices that manifests as the swirling shapes of galaxies, just as cold and warm air create typhoons and tornadoes. The more warm air is present, the stronger the typhoon becomes. 
+Thus, spacetime can convert itself to photons then convert back to spacetime, conserving energy. 
 
-Likewise, the more Positive aether is behind the compiled ideas for a galaxy, the larger its area of influence, when it turns into a spiral galaxy.
+But the creation of matter means that more energy is crudified as time passes. This means that the universe should lose energy as it ages, just like adding flour to a glass of water will make it solid eventually, since flour is solid. 
 
-Type | Age | Size
---- | --- | ---
-Irregular | Young | Small
-Spiral | Medium | Medium
-Lenticular | Medium | Medium
-Elliptical | Old | Large
+So why is the universe still energetic?
 
 
-A galaxy is therefore created in the following steps:
+## Quasars are Reverse Vortices
 
-1. The Supreme has an idea for a universe
-2. The Aether gets the ideas for that universe, packages them as organized ideas (qoa) for distribtion to spacetime (spatial layer)
-3. Galactic qosts emerge in the spatial layer as irregular galaxies. These repel each other to create spacetime
-4. The positive aether acts on the galactic qosts to create vortices
- <!-- increase its area of influence and size to create spiral galaxies -->
-5. Stellar qosts emerge within this area to convert energy into matter and life which are then spread via supernovae
-6. The galactic qost runs out of ideas (and feelings), leaving its stars behind as globular clusters. 
-<!-- It turns into either empty space or a quasar -->
-7. The stars die and become pure spacetime 
+Cartesian Physics explains that this is because of reverse vortices. 
+
+{{< img src="/graphics/physics/quasar.jpg" alt="Quasars as reverse vortices" cap="In Cartesian Physics, quasars as reverse vortices" >}}
 
 
+These turn in the opposite direction than the rest, let's say clockwise when others turn counterclockwise. 
 
-<!-- 1. Spiral galaxies
+When a large powerful clockwise vortex touches a small counter vortex, the latter does not go with the former, as in a galaxy.
 
-These are the most common type, making up around 75% of all galaxies. These are flat, rotating disks containing stars, gas and dust, and a central concentration of stars known as the bulge.  -->
+Instead it stays in stasis around the large vortex similar to 2 gears staying at the same spot. 
 
-<!-- These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters. -->
+Other particles join in, creating large stasis similar to a traffic jam. 
 
-<!-- This has a subclass called barred spiral galaxy of which the Milky Way is a part of. -->
+In time, more particles get snagged in this traffic jam, leading to a pileup that compresses the particles sequentially like a meatgrinder. 
 
-<!-- Barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about half of all spiral galaxies. Bars generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well.  -->
+This leads to friction that creates much more light than a galaxy.
 
-<!-- 2. Lenticular galaxy an intermediate between an elliptical and a spiral galaxy. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation.
+In time, matter as planets, asteroids, comets etc get snagged, crushed and spit out back as light and energy to be sent far away.
 
-3. Elliptical galaxies are the largest kind and have an ellipsoidal shape. Most are composed of older, low-mass stars, with a sparse interstellar medium and minimal star formation activity. They tend to be surrounded by large numbers of globular clusters.
+This de-crudifies energy and re-energizes the universe.
 
-4. Irregular galaxy is a galaxy that does not have a distinct shape -->
+It follows that that the ratio of galaxies and quasars should be roughly similar. It means that some bright galaxies should be reclassified as quasars. 
+
+These may be elliptical like normal galaxies but are distinguished by the lack of arms or distinctive features because of the difference of the motion of the parts and the center. 
+
+
+## Antimatter as Reverse Vortices in the Radiant, Convertible, and Material Layers
+
+These reverse vortices in the material Element (earth-aether) manifest as anti-matter, such as anti-proton and anti-hydrogen. 
+
+These convert visible (counterclockwise) matter vortices back into invisible spacetime particles upon contact. 
+
+The opposite rotations lead to friction, creating photons until both particles fizzle out and convert to spacetime, as consistency of Cartesian principles in macro and micro.
+
+These principles mean that antimatter can be created more cheaply by changing the vortex rotation called charge directly using far less energy.
+
+<!-- Unlike evil Einstein who used Physics to promote nuclear bombs, Cartesians have a higher moral and intellectual standard and will not use vortex science to make antimatter weapons to vaporize enemies back into spacetime particles. 
+
+In fact, Cartesian Physics can delete ALL of Einstein's principles and replace them with Lorentz Relativity in Poincare spacetime, using aethereal vortices to explain both macro and micro.
+ -->

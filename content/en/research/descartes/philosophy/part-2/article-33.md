@@ -75,11 +75,17 @@ For example, there might be 2 kinds of particles:
 
 These bend themselves in various ways and change their shapes.
 
+{{< n n="These are force particles in Material Superphysics" >}}
+
+
 2. Speed-changers
 
 These do not change their shapes but change their speed to occupy space accurately. 
 
 These 2 jointly fit together and occupy all the space. 
+
+{{< n n="These are quantum particles in Material Superphysics" >}}
+
 
  <!-- in such a manner that, when joined with those not so changing their shapes but adjusting their speed of motion , they completely fill all the angles that those others do not occupy.  -->
 

@@ -25,11 +25,10 @@ We should be free to estimate them as much farther.
 
 If we wanted to compare their distance with the distances above the Earth that are known to us, the current distance beyond Saturn would seem plausible. 
 
- <!-- the one that is already granted to them by everyone would be no less incredible than any greater distance;  -->
 
 But if we consider the omnipotence of God the Creator, distances can be very vast. And so the distance between stars would can also be much greater than that beyond Saturn. 
 
-  <!-- imagined so great that it is therefore less credible than any lesser one. -->
+
 
 
 I will show below that a great space must be placed between the stars and the sphere of Saturn in order to explain the phenomena of the planets and the comets.
@@ -84,6 +83,9 @@ In the drawing:
 - `S` is the Sun
 - `F` and `f` are the fixed stars
 - There are countless other stars above and below and beyond the plane of this drawing, scattered through all dimensions of space
+
+
+{{< i s="/graphics/physics/vortices.jpg" a="Vortices" >}}
 
 
 #### 24. Outer Space is Fluid

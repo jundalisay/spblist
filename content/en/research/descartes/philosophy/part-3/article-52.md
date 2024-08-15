@@ -76,7 +76,7 @@ Initially, the matter of the fire-aether gradually increased* because the air-ae
 
 After the air-aether particles were more worn down, they occupied less space than before. 
 - Thus, they did not extend to the centers. 
-- Instead, they receded equally from them in all directions.
+- Instead, they moved away equally from them in all directions.
 
 They left spherical spaces there to be filled by the fire-aether flowing in from all the surrounding areas.
 

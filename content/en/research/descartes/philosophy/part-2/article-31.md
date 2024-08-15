@@ -13,7 +13,7 @@ icon: "/icons/descartes.png"
 
 #### 31. How innumerable diverse motions* may be in the same body
 
-{{< n n="This is now called Brownian Motion" >}}
+<!-- n n="This is now called Brownian Motion" -->
 
 <!-- But every body also has a certain proper motion of its fibers, since it is understood to  -->
 

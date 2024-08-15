@@ -80,8 +80,9 @@ Also, the cause of this fact would not be revealed by the numbers, as numbers, f
 
 Yet not even this is satisfactory to the theorist, for he knows that the numbers 1, 2, 3 are symbols of the basic principles of which natural things consist. Eor an interval is not a natural thing, but a geometrical one. Hence unless these numbers number something else, which is more akin to the intervals, the philosopher will not be able to put any confidence in this cause but will suspect it of not being a cause.
 
-This is why, in order to work this out fully for the last 20 years I have set myself the task of illuminating this part of
-Mathematics and Physics. I do this by discovering causes which on the one hand would satisfy the judgement of the ears, in establishing the number of the consonances, and the other melodic intervals, without trespassing beyond what the ears bear, but which on the other hand would set up a clear and overt criterion between the numbers which form musical intervals and those which have nothing to do with the matter, and lastly which, with respect both to the archetype and to the Mind which uses the archetype to shape things to fit it, would have a kinship with the intervals, and so would rest on the clearest probability. 
+This is why, in order to work this out fully for the last 20 years I have set myself the task of illuminating this part of Mathematics and Physics.
+
+I do this by discovering causes which on the one hand would satisfy the judgement of the ears, in establishing the number of the consonances, and the other melodic intervals, without trespassing beyond what the ears bear, but which on the other hand would set up a clear and overt criterion between the numbers which form musical intervals and those which have nothing to do with the matter, and lastly which, with respect both to the archetype and to the Mind which uses the archetype to shape things to fit it, would have a kinship with the intervals, and so would rest on the clearest probability. 
 
 Since the terms of the consonant intervals are continuous quantities, the causes which set them apart from the discords must also be sought among the family of continuous quantities, not among abstract numbers, that is in discrete quantity; 
 

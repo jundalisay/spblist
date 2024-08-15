@@ -14,14 +14,14 @@ icon: "/icons/descartes.png"
 #### 31. How individual planets are carried along. 
 
 <!-- celestial matter -->
-Let `S` be the Sun. All the air-aether surrounding it moves in the same direction, from A through B towards C.
+Let `S` be the Sun. All the air-aether surrounding it moves in the same direction, from `A` through `B` towards `C`.
 
 <!-- namely from the west through the south towards the east, or   -->
 
-{{< i="/graphics/physics/solarsystem.jpg" a="Solar System" >}}
+{{< i s="/graphics/physics/fggf.jpg" a="Solar System" >}}
 
 
-This assumes the north pole rises above the plane of this figure, so that the air-aether around Saturn takes almost 30 years to carry it through its entire circle ♄. 
+This assumes the north pole rises above the plane of this figure, so that the air-aether around Saturn takes almost 30 years to carry it through its entire circle `♄`. 
 
 Whereas the air-aether around Jupiter carries it through its circle ♃ within 12 years along with its satellites. 
 

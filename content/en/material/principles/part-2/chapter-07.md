@@ -2,7 +2,7 @@
 heading: "Chapter 7"
 title: "Gravitational Territory in the Spatial Layer"
 # date: 2024-07-22
-weight: 26
+weight: 30
 image: /graphics/physics/quasar.jpg
 description: ""
 draft: true
