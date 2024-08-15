@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4"
 linkTitle: Chapter 4
-title: "The Four Laws of Exchangeable Value"
+title: "Exchangeable Value and Cartesian Relativity"
 # date: 2022-03-26
 image: /covers/econsp.jpg
 weight: 12
@@ -12,6 +12,7 @@ writer:
 ---
 
 
+The previous chapter explained that value is totally subjective and ultimately based on one's desires. 
 
 Suppose Barry and Adam are walking at a commercial street. They see a cake at a bakery, and an iguana at the pet store next to it. 
 
@@ -27,14 +28,16 @@ The value of the cake to Adam comes from:
 <!--    dharma or tao (nature) of
 - the tao (nature) of the cake as being a kind of gift.  -->
 
-> *This includes the culture of givine importance to birthdays. The nature of culture is explained by Social Superphysics, as being part of the common interest.
+
+{{< f f="*This includes the culture of givine importance to birthdays. The nature of culture is explained by Social Superphysics, as being part of the common interest." >}}
+
 
 
 In contrast, the iguana does not have an inherent nature of being a gift. This is why Adam would not assign a value to an iguana. Adam would only assign a value to Iguana if his wife were an Iguana-lover (had the inherent nature of loving iguanas). In this case, he might ignore the cake and inquire about the iguana.
 
 <!-- This tao is not present in Mr. A and so he sees no value in the cake.   -->
 
-Thus, **value is always relational depending on the inherent nature of many things**:
+Thus, **value is always relational or relativistic depending on the inherent nature of many things**:
 - Adam
 - Adam's wife
 - Adam's wife having a birthday event
@@ -46,7 +49,8 @@ The value of an iguana or a cake to Adam would depend on:
 2. Adam's love for his wife. We call this 'sentimental value'
 3. His wife's need for a gift, whether it be the cake or the iquana. We call this the useful value or 'use-value' 
 
-> *This social pressure is needed to keep the society whole. 
+
+{{< f f="*This social pressure is needed to keep the society whole." >}}
 
 
 Unlike Economics, Supereconomics, as a subset of Superphysics, takes into account cultural value and sentimental value. There are other values like environmental value, historical value, moral value, etc. which will be explained in future editions.  
@@ -58,7 +62,7 @@ In Neoclassical Economics, the use-value is called 'utility' and is the foundati
 
 
 {{< box >}}
-### Marginal Utility
+#### Marginal Utility
 
 According to Economics, utility is the satifaction that you get from a good or service.
 
@@ -73,15 +77,27 @@ This concept requires the quantification of pleasure or utility, which is then â
 
 <!--  to the general society and the personal self, just as energy has a general and special relativity.  -->
 
-Superphysics disregards marginal utility because utility is subjective. Each person gets a different level of satisfaction at every good or service, and so it would be wrong to create a rigid, objective model for dynamic, subjective utility. 
+Supereconomics disregards marginal utility because utility is subjective. 
+
+Each person gets a different level of satisfaction at every good or service, and so it would be wrong to create a rigid, objective model for dynamic, subjective utility. 
 
 This error manifests as investors denying investments to sectors, industries, or goods and services that do not fit their own utility models (i.e. meet the direct return-on-investment, or ROI, that they want). This then causes economies to regularly stagnate, and even decline, due to the decline of those underinvested sectors or industries. 
 
-Instead of marginal utility, Superphysics uses **minimum requirements**, explained in Chapter 5, and **the grain index**, explained in Chapter 8.  These concepts will let people spend and invest for the essential sectors or industries of the economy, whether it is profitable or not. 
+Instead of marginal utility, Supereconomics uses:
+- **minimum requirements**, to be explained in Chapter 5
+- **the grain index**, explained in Chapter 8.  
+
+These concepts will let people spend and invest for the essential sectors or industries of the economy, whether it is profitable or not. 
+- The minimum requirements is the base-state of the society-organism
+- The grain index is the relativistic adjustor through space and time
+
+> Supereconomics replaces marginal utility with minimum requirements and the grain index
+
 
 In this way, those sectors will remain capitalized and functioning. This will then prevent price shocks or externalities that grow into crises which harm the sustainability of the supereconomy*.
 
-> *An economy that follows our principles of Supereconomics
+{{< f f="*An economy that follows our principles of Supereconomics" >}}
+
 
 <!-- This value is called **use-value** or  in Economics. Superphysics allows sentimental value, but since the mechanism to objectively compare sentiments is not yet established*, we shall stick to use-value. 
 
@@ -114,23 +130,10 @@ Use-value often is opposite in worth than exchangeable value. For example:
 - water has high use-value, but has low exchangeable value because it is plentiful
 
 This difference arises from the difference between the nature of:
-- the self-entity, here use-value dominates
-- the society-entity, here exchangeable-value dominates
+- the self-organism where use-value dominates
+- the society-organism where exchangeable-value dominates
 
 
-{{< box >}}
-### The Paradox of Value in Economics Leading to Sinister Profit Maximization
-
-Economics uses the difference between use-value and nominal exchangeable value to create a non-problem called the "paradox" of value.
-
-This paradox states that water is essential to life and has a high use-value, but is nominally cheap. Diamonds, on the other hand, are nominally expensive but have low use-value. So economists create the concept of marginal utility to "solve" the paradox.
-
-Marginal utility says that the frequent consumption of an item, such as water, reduces the utility or use-value of that item. Therefore, to make it more valuable, its consumption should be limited. For example, if we drink 4 liters of water everyday, then we will appreciate water twice more if we only had 2 liters daily. This would then raise its use-value and subsequently its nominal exchangable value to be more like diamonds.
-
-This then leads to its child concept called **utility or profit maximization** that would urge us to sell this scarce water to get more nominal revenue and riches for ourselves. We should find a sweet spot via maximization wherein we can cut the supply of water to give us higher revenues, but not too much that it would kill our market (by dying from thirst, for example).
-
-All of this is morally absurd, yet this is what Economic Calculus teaches. This can be seen most commonly in the prices of oil, utilities, medical services, and real estate which everyone needs. To Adam Smith and Superphysics, use-value should not be compared to exchangeable value just as apples should not be compared to oranges. This is because use-value is personal while exchangeable value is social. Without the comparison, no paradox is created and no profit maximization, artificial scarcity, and social suffering is created for personal gain.
-{{< /box >}}
 <!--   use-value is determined by the wife's need or want to receive a cake on her birthday. The subjective use-value is therefore the most critical part of the value of the cake. -->
 
 Within society, Adam can get the cake in 2 ways:
@@ -172,15 +175,8 @@ Commerce | a regular buying-selling activity*
 Trading | a regular exchange activity
 Barter Trading | a regular barter-exchange activity
 
-> *We limit 'commerce' to money transactions in order to stay in line with the definitions of Adam Smith who saw the commercial system as being the same with the mercantile system which is based on gold and silver instead of raw produce. 
+
+{{< f f="*We limit 'commerce' to money transactions in order to stay in line with the definitions of Adam Smith who saw the commercial system as being the same with the mercantile system which is based on gold and silver instead of raw produce." >}}
 
 
 
-**Exchangeable value** which has 4 types depending on perspective:
-
-Price | Perspective | Scope
---- | --- | ---
-1 Nominal Price | Buyer | Personal
-3 Real Price | Seller | Personal
-4 Market Price | Seller | Social
-2 Natural Price | Seller | Social

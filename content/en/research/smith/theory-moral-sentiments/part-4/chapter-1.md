@@ -26,14 +26,12 @@ Everytime he looks at it, he remembers this pleasure. The object becomes a sourc
 - enters into his master's feelings through sympathy, and
 - views the object under the same agreeable aspect
 
-When we visit the palaces of the great, we conceive our satisfaction if we ourselves= 
-- were the masters, and
-- possessed them
+When we visit the palaces of the great, we feel our satisfaction as if we ourselves were the owners. 
 
 In the same way, the appearance of inconvenience renders any object disagreeable to the owner and the spectator.
 
 
-{{< s v="3" >}} But no one has noticed that this fitness is often more valued than its intended purpose.
+{{< s v="3" >}} **But no one has noticed that this fitness is often more valued than its intended purpose.**
 
 The exact adjustment of the means for attaining any convenience or pleasure is frequently more regarded than that very convenience or pleasure itself.
 
@@ -43,9 +41,11 @@ The attainment of such pleasure seems to justify the means.
 
 {{< s v="4" >}} When a man finds the chairs disordered in room, he gets angry with his servant. He takes the trouble to set them all in their proper places. 
 
-The propriety of his action comes from the superior convenience of having the room orderly. To attain this convenience, he voluntarily puts himself to more trouble than what the disorder could have caused. 
+The propriety of his action comes from the superior convenience of having the room orderly.
+- To attain this convenience, he voluntarily puts himself to more trouble than what the disorder could have caused. 
 
-It is easier to sit down on the misplaced chairs. After he arranges them, he will probably disarrange one to sit down on it anyway.
+It is easier to sit down on the misplaced chairs. 
+- **After he arranges them, he will probably disarrange one to sit down on it anyway.**
 
 Therefore, he wanted more of the *arrangement* of things which promotes the convenience, than the convenience itself. Yet it is this convenience which:
 - ultimately recommends that arrangement, and
@@ -54,11 +54,11 @@ Therefore, he wanted more of the *arrangement* of things which promotes the conv
 
 {{< s v="5" >}} In the same way, a watch that falls behind two minutes per day is despised by a watch-lover. He sells it for two guineas and buys another at 50 which will not lose more than a minute in a fortnight.
 
-However, the sole use of watches is to tell us the time to:
-- prevent us from breaking any engagement or
-- suffering any other inconvenience by our ignorance
+However, the sole use of watches is to tell us the time to prevent us from breaking any engagement.
+<!-- or
+- suffering any other inconvenience by our ignorance or more anxiously concerned by the time, -->
 
-But the watch-lover will not be more punctual or more anxiously concerned by the time, than other men. What interests him is the perfection of the watch, not the knowledge of the time.
+But the watch-lover will not be more punctual than other men. What interests him is the perfection of the watch, not the knowledge of the time.
 
 
 {{< s v="6" >}} How many people ruin themselves by spending money on trinkets of frivolous utility?
@@ -147,6 +147,7 @@ They are immense fabrics which require a lifelong labour to raise. Every moment,
 - They leave him always as much exposed than before, sometimes even more, to= 
   - anxiety and fear, and
   - sorrow to diseases, danger, and death.
+
 
 {{< s v="9" >}} In time of sickness or low spirits, this spiteful philosophy is familiar to everyone. It entirely depreciates those great objects of human desire. In pain and sorrow, our imagination seems confined and cooped up within our own persons.
 

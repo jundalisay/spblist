@@ -51,7 +51,7 @@ The economic value of a bridge, for example, is more abstract than its cost-pric
 
 If value were a moving desire-entity, then price would be a snapshot of that desire taken at a certain time.
 
-> *This is proven by the Japanese character for value and those for price 値段. Fundamental perceptions like person 人 and day 日 get one character, while their derivative ideas like Chinese person 中国人 and Monday 月曜日 have characters added to them.
+{{< f f="*This is proven by the Japanese character for value and those for price 値段. Fundamental perceptions like person 人 and day 日 get one character, while their derivative ideas like Chinese person 中国人 and Monday 月曜日 have characters added to them." >}}
 
 
 
@@ -60,7 +60,8 @@ If value were a moving desire-entity, then price would be a snapshot of that des
 
 We can say that value is the cause, and price is just the effect*. 
 
-> *Socrates calls them shadows
+
+{{< f f="*Socrates calls them shadows" >}}
 
 
 You can hand out prizes such as trophies, but not the value that they represent such as being brightest in class. It is possible to buy an award, yet not be worthy of it.  
@@ -84,14 +85,14 @@ Thus:
 - the physical dimension has energy, with its dynamics explained by the four laws of themodynamics
 
 
-> *This means that the animal and plant kingdoms have their own Superphysics laws, which are out of the scope of our current Supereconomics, that dictate how they allocate resources among themselves to quench their desires. 
+{{< f f="*This means that the animal and plant kingdoms have their own Superphysics laws, which are out of the scope of our current Supereconomics, that dictate how they allocate resources among themselves to quench their desires." >}}
 
 
 The Celsius degrees in thermodynamics then manifest as dollar prices in Supereconomics. This lets us fit all the principles of Supereconomics elegantly under the four headings of the 4 Laws of Value. 
 
 This classification is different from the messy* organization of Economics as micro-macro-economics, behavioral, political economy, development economics, etc.
 
-> *Such a mess is what happens when people build something in an uncoordinated way or without looking at the very big picture. In contrast, our Supereconomics is a subset of Social Superphysics which is itself a subset of Superphysics
+{{< f f="*Such a mess is what happens when people build something in an uncoordinated way or without looking at the very big picture. In contrast, our Supereconomics is a subset of Social Superphysics which is itself a subset of Superphysics." >}}
 
 
 Before we explain the four laws of value, we have to explain exchangeable value. 

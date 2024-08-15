@@ -49,26 +49,35 @@ Our instinct for self-preservation instructs us to take proper care of our healt
 {{< img src="https://cdn-images-1.medium.com/max/800/1*S2Nqp0-o_oPdcW_vRwxvIg.jpeg" alt="Cartoon showing carelessness" cap="Being careful does not mean being selfish" >}}
 
 
-Human creatures should be more careful and attentive (have attention to the self). This does not mean that they should be selfish. 
+Human creatures should be more careful and attentive (have attention to the self). This does not mean that they should be selfish.
+
+
+> Humans should be more careful and attentive, not selfish.
+
 
 The cause of the corruption of "self-interest" into "selfishness" is the word "self" that is present in both ideas*. 
 
-
-{{< me date="Dec 2020" >}}
+{{< dc t="Update: Dec 2020 (click to expand" >}}
 *A recent example is the wrong use of the word 'social distancing' to mean a physical separation to avoid virus transmission. This is because 'society' represents an abstract perception. Social distancing would therefore mean being a loner or not minding others even if one is in a jampacked bus or train. 
 
 The proper term is 'physical distancing'. 
 
 Mistakes like these can be avoided if Metaphysics or Dialectics were put back as a field of study instead of the rubbish nonsense called Epistemology (which, by following Smith's logic, merely replaced the earlier rubbish nonsense called Ontology. Socrates would call modern epistemologists as pseudo-philosophers who just argue for the sake of arguing).
-{{< /me >}}
+{{< /dc >}}
 
 
+To solve this, we will instead use 'personal interest', using the Latin word 'person', meaning mask, instead of the English 'self' which means 'I'. In this way:
+- Samuelson's invisible hand leads to selfishness
+- Smith's implies personal preferences or choice 
 
-To solve this, we will instead use 'personal interest', using the Latin word 'person', meaning mask, instead of the English 'self' which means 'I'. Metaphysically, a mask refers to an indirect ego, different from 'I' which is the direct ego. 
+<!-- Metaphysically, a mask refers to an indirect ego, different from 'I' which is the direct ego. 
 
-To prove this, we cross-reference it with Japanese or Chinese language wherein `私` or `我` has one character while `自分` or `个人` has 2 characters. A word that has fewer characters is a more fundamental or direct expression than one with more characters, just as 'Sun' is more fundamental than 'Sunday'.
+To prove this, we cross-reference it with Japanese or Chinese language wherein:
+- `私` or `我` has one character
+- `自分` or `个人` has 2 characters. 
 
-Thus, Samuelson's invisible hand leads to selfishness, while that of Smith implies personal preferences or choice. 
+A word that has fewer characters is a more fundamental or direct expression than one with more characters, just as 'Sun' is more fundamental than 'Sunday'. -->
+
 
 If a man orders burgers instead of fries, we never say that he is selfish for burgers. We would only say that he is selfish for burgers if his entire self revolves around burgers as to eat it for breakfast, lunch, and dinner 365 days in a year.
 
@@ -79,23 +88,23 @@ Now that we have flushed Samuelson's invisible hand down the toilet, we can move
 
 ![Beautiful hand](/photos/objects/hand.jpg)
 
-Its best description is not in The Wealth of Nations, but in The Theory of Moral Sentiments, wherein he describes the **innate human desire for things to work as they were meant to**:
+Its best description is in The Theory of Moral Sentiments, wherein he describes the **innate human desire for things to work as they were meant to**:
 
 {{< q a="Adam-Smith" c="Theory Of Moral Sentiments Simplified, Part 4" >}}
-A watch that falls behind more than two minutes in a day, is despised by one curious in watches. He sells it perhaps for two guineas and purchases another at 50 which will not lose more than a minute in a fortnight.. What interests him is not so much the attainment of knowing the time, as the perfection of the machine created to attain it.
+A watch that falls behind more than 2 minutes in a day, is despised by one curious in watches. He sells it for 2 guineas and purchases another at 50 guineas which will not lose more than 1 minute in a fortnight.. What interests him is not the knowing the time, but the perfection of the machine to attain it.
 {{< /q >}}
 
 
 Humans have an innate desire for things to work as they were designed. This natural desire applies even to human systems such as resource allocation:
 
-{{< q a="Adam-Smith" c="Simple Theory Of Moral Sentiments, Part 4 [emphases Added]" >}}
+{{< q a="Adam-Smith" c="Theory Of Moral Sentiments Simplified, Part 4 [emphases Added]" >}}
 The proud and unfeeling landlord views his fields, and without a thought for his brethren, imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires and receives no more than that of the peasant. 
 
-<b>The rest of the food he is obliged to distribute among his servants</b>.. The rich.. divide with the poor the produce of all their improvements despite their  selfishness. 
+<b>The rest of the food he is obliged to distribute among his servants</b>.. The rich.. divide with the poor the produce of all their improvements despite their selfishness. 
 {{< /q >}}
 
 {{< q a="Adam-Smith" c="Simple Theory Of Moral Sentiments, Part 4 [emphases Added]" >}}
-They are led by an invisible hand to make nearly the same distribution of life’s necessities which would have been made, had the earth been divided equally. Thus, without intending it, they advance the interest of the society..
+They are **led by an invisible hand to make nearly the same distribution of life’s necessities** which would have been made, had the earth been divided equally. Thus, without intending it, they advance the interest of the society..
 
 When Providence divided the earth.. it [did not forget]  those who were left out. In the <b>real happiness of human life</b>, [the poor] are not inferior to those who seem above them. In ease of body and <b>peace of mind</b>, all are nearly on a level. The beggar, who suns himself by the side of the highway, possesses that security which kings are fighting for.
 {{< /q >}}
@@ -104,100 +113,82 @@ When Providence divided the earth.. it [did not forget]  those who were left out
 {{< img src="https://socioecons.files.wordpress.com/2016/02/a57b1eeaaa64397c14baad182f7bf96d-beautiful-pictures-beautiful-people.jpg" alt="Buddhist monk laughing" cap="Buddhist monks also beg and sun themselves on the highway yet have the happiness and security that kings are fighting for. Australian moralist Peter Singer thinks that the beggar mentioned by Smith is the dirty type. This is because Australia has no culture of Buddhist or Hindu monks begging. This makes him think that Smith was promoting poverty and inequality. " >}}
 
 
-## A ‘Flood-down’ Economy Based on Skill, Not ‘Trickle-down’ Based on Welfare
+## A Natural Economy Based on Skill Instead of Welfare
 
 <!-- This perfection of the distribution of resources is thus done by **employment**. When a school's basketball team looks for players, it doesn't base its hiring on the players' friendliness, but on their skill. This is true for entrepreneurs hiring workers or outsouring jobs and production to other countries. This focus on skill is more fundamental than the focus on compassion or community: -->
 
-This perfection of the distribution of resources is thus done by employment. Instead of giving scraps and bits of their wealth as wages to employees, the wealthy give most of it through massive employment, naturally leading to full employment.
+This perfection of the distribution of resources is thus done by employing specific people, just as the parts of a watch work together to tell the time accurately. 
 
-However, if the wealthy give away most of their wealth to employ anyone and everyone, then the overall wealth of society might decline very fast since not everyone works hard to match the pay. 
+More resources are given to productive people just as a better watch costs more. And so the natural system encourages productivity.
 
-**To solve this, the natural rule is to employ people based on skill.**
+But to be productive, one must focus his entire time and effort towards his craft. But to spend so much time in something, a person must first **be passionate about it**. 
 
-When a school’s basketball team looks for players, it doesn’t base its hiring on the players' friendliness, but on their skill. This is true for entrepreneurs hiring workers or outsouring jobs and production to other countries. **This focus on skill is more fundamental than the focus on compassion or community:**
+Therefore passion in one's craft is the key in the natural economic system. This is our [third law of value](/social/economics/principles/part-2/chapter-01)
 
-{{< q a="Adam-Smith" >}}
-<p>When a patriot exerts to improve the public police, his conduct does not always arise from pure sympathy with the happiness of those who will benefit of it. A public-spirited man encourages the mending of high roads not commonly from a fellow-feeling with carriers and wagoner</p>
+> To spend so much time in something, a person must first be passionate about it
+
+Liberals and selfish people corrupt this personal passion to mean selfish-interest. That is why we had to totally flush out the "selfish-interest hand" of Samuelson to bring back the "personal passion hand" of Smith. This is in line with the economic system of Socrates:
+
+{{< q a="Socrates" c="The Republic Simplified, Book 2, Chapter 2" >}}
+We are not all alike. There are diversities of natures among us which are adapted to different occupations. A person works better when he has only one occupation instead of many.. If so, all things are produced more plentifully and easily and of a better quality when one man does one thing which is natural to him.  
 {{< /q >}}
 
 
-## Useful Skills = Private (Personal) + Public (Social) Interest 
 
-Here, Smith clearly states that public benefit from societal productivity does not come from the sympathy for others. 
+## Fair Exchange
 
-Libertarians jump into this idea in order to justify selfishness. They disregard the fact that the patriot is **public-spirited in the first place** and is focused on a specific goal or feeling, which is not selfishness or the feeling of the self. 
+With everyone finding their passion in life, a nation's products and services becomes of higher quality and quantity. This is then exchanged for those of other countries. This makes up our [Fourth Law of value](/social/economics/principles/part-3/chapter-01)
 
-Similarly, in our basketball team and entrepreneur example, we don't need to mention that the team is passionate about basketball or the entrepreneur is passionate about creating goods and services. An entrepreneur that is passionate with only himself is really a miser and not an entrepreneur. 
-
-<!-- They corrupt Smith by disregarding the non-selfish parts. The purely selfish version of employment and teamwork is called slavery, where the employees and team members are forced into working. -->
-
-Smith likewise explains that the cause that drives public benefit in a free society is the <b>personal interest or passion</b>* of the person to work on something that both he and the society are BOTH interested in or passionate about. 
-
-<!-- > *This is our [second law of value](/social/economics/principles/second-law) -->
+{{< q a="Socrates" c="The Republic Simplified, Book 2, Chapter 2" >}}
+They will need a marketplace to exchange their productions. If a husbandman or an artisan brings some product to market, and no one is available to exchange with him, he will not sit idle. He will find people there who, seeing the want, be salesmen.
+{{< /q >}}
 
 
-If society were not interested in Jim's product, then that product would not be sold. There would be no public benefit. 
-
-Jim's original interest in making that useless product would then not fall under the invisible hand. However, he can still strive to make his product meet the interest of the public by improving it through trial and error. He will only know that it matches the public interest after it actually gets sold.
-
-Thus, **employment (the sale of services) and sales (the sale of goods)** are two of the many ways the invisible hand taps the energy from personal interest or passion, to diffuse its productivity throughout society to quench the needs of the public interest (called effectual demand)*.
-
-
-> *This is our [third law of value](/social/economics/principles/part-3/chapter-01)
+Therefore, a natural economy, following the invisible hand:
+- raises and encourages skill
+- supports personal passions
+- produces a lot of high quality products and services
+- distributes those products and services through fair exchange
 
 
-![Dharma connects to Svadharma](https://sorasystem.sirv.com/graphics/dharma.png)
+{{< q a="Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
+Every individual necessarily works to render the society's annual revenue as great as he can. He generally does not:
+- intend to promote the public interest, or
+- know how much he is promoting it
 
-This mixture of public interest with personal interest usually creates confusion among shallow-thinking people. 
-
-- People with fellow-feeling (i.e. Socialists) often highlight Smith's emphasis on the public interest. 
-- Skilled but selfish people (i.e. Capitalists), on the other hand, highlight his focus on personal interest. 
-
-From our [Socratic dialectical analysis](/superphysics/principles/chapter-11) (an analysis anchored on metaphysical truths), we can see that **personal interest naturally comes first, but is immediately followed by the public interest which is much more important**.
-
-<!-- > *This is easily explained throughthe concept of the mind of society, which is different from the personal mind. -->
-
-
-{{< img src="https://sorasystem.sirv.com/graphics/childmask.jpg" alt="Rescuer helping child to put on mask" cap="The priority for personal interest is evident among rescuers wherein they must secure themselves before attempting to save others. Their personal interest comes earlier than, but is inferior to, the public interest or the goal of saving others" >}}
+<!-- By preferring to support domestic industry over foreign industry, he intends only his own security. -->
+By directing that industry to produce the greatest value, he intends only his own gain. In this case, as in many other cases, he is led by an **invisible hand** to promote an end which he did not intend.
+<!-- - "Nor is it always the worse for the society that it was no part of it." -->
+{{< /q >}}
 
 
-A person can only make good products for others if he is interested in making goods in the first place. A singer can only sing beautifully for others if he likes to sing beforehand. The positive feedback of the market or the audience then encourages the seller or singer to sell or sing more. 
+Since we replaced selfish-interest with personal passion, we can safely edit the phrase below:
 
-So personal interest only has a temporal (time-based) importance, but public interest has a bigger overall (space-based) importance. 
-
-The variable, time-based nature of the match between personal and public interest manifests as the ups-and-downs of one's career, or of a company's profits, sales, etc.
-
-![Chef making a dish](https://sorasystem.sirv.com/photos/dish.jpg)
-
-A chef can create a new kind of dish for himself. Other people might try it, like it, and want to buy it. At that point, his personal interest contributes to the public welfare by giving people a new experience that they are also interested in. He then makes more, and other people 'replicate' and 'mutate' his idea as their own products to virally spread the new experience and benefit to all who have the same interest.
-
-This proper and natural mixture of private and public interest then creates a 'supereconomy' which incorporates all the ideas and maxims from Adam Smith, David Hume, Socrates, and Asian philosophy. 
-
-Like an economy (which originated from the management of a private estate), it starts with personal interest, incentives, and property protection in order to raise productiviy. 
-
-But unlike an economy, it switches to the public interest after the productivity has gone beyond the basics and before it gets maxed out. 
-
-This latter innovation ensures sustainability by preventing* inequality and environmental destruction which both go against the Dharma (to be explained later). ``
-
-> *This is our [fourth law of value](/social/economics/principles/fourth-law)
+{{< q a="Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
+**By pursuing his** ~~own interest~~ **personal passion**, he frequently promotes the society's interest more effectively than when he really intends to promote it. I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants. Very few words can be used to dissuade them from it.
+{{< /q >}}
 
 
-Inequality is dangerous as it leads to protests, riots, crime, and revolution, the worst of which was the Communist Revolution which killed so many people around the world. 
-
-Environmental destruction is dangerous too as it leads to storms, droughts, and diseases, the worst of which is the current Covid pandemic which has also killed many. 
+{{< i s="/photos/econ/singer.jpg" a="Singer" c="People passionate in singing should pursue singing and earn better revenue from inferior singers" >}}
 
 
-## Human Institutions Unify Personal and Social Interest as an Artificial Organizing Principle
+People passionate in singing should pursue singing just as people passionate about money-trading should pursue money-trading. However, it does not mean that society should be ruled by songs or by money. 
 
-So far we have explained that:
+The natural economic system creates wealth but also should guard against it through the visible hand of institutions:
 
-1. Personal Interest comes first
-2. Public Interest comes next, and is larger than the personal interest
-3. The personal interest matches the public interest through sale or employment
+<!-- But it is very common for one class of people to dominate the economy and create an imbalance:  -->
 
-These 3 ingredients create value for the self and society leading to peace and prosperity. Human institutions, in the form of laws and policies, are then created to organize them. 
 
-<!-- The proper policies and laws to bring about the pantrynomy are formalized through . The most basic institution is called a family. The next institution became the tribe, glued together by blood relations and common interest. These were followed by nations that were glued together by international laws and treaties which put order to the disparate national and vested interests within. -->
+{{< q a="Socrates" c="The Republic Simplified, Book 4, Chapter 1" >}}
+Wealth and Poverty are two causes of the deterioration of the arts. When a potter becomes rich he will:
+- not think of you as much as before,
+- grow more and more indolent and careless, becoming a worse potter.
+
+But, on the other hand, if he has no money, he cannot provide himself with tools or instruments nor teach his sons or apprentices to work equally well.
+
+So under either poverty or wealth, workers can degenerate. Here, then, is a discovery of new evils of wealth and poverty, against which the guardians will have to watch, or they will creep into the city unobserved.
+{{< /q >}}
+
 
 {{< q a="Adam-Smith" c="Theory Of Moral Sentiments, Part 4, Chapter 1" >}}
 When a person finds the chairs [disordered in his bedroom], he takes the trouble to set them all in their proper places. This arises from the superior convenience of having the floor clear. To attain this convenience, he voluntarily puts himself to more trouble than all he could have suffered from its inconvenience. 
@@ -207,30 +198,21 @@ Therefore, he wanted more of the arrangement of things which promotes the conven
 Those institutions which promote the public welfare have the same principle, the same love of system, and the same regard to the beauty of order and art.
 {{< /q >}}
 
-We can say that human institutions are an *artificial* organizing principle which is a bit different from the Invisible Hand of Nature:
 
-<!-- To Smith, both the cause of the invention of institutions and of clocks are the 'invisible hand' arising from the desire for order and utility. Human effort then works under this desire as the 'visible hand' that actually implements the institutions and builds the clocks. Thus, the invisible hand is a natural organizing principle that manifests as the current order of the universe. Planets don't fly off*, just as babies don't get abandoned after leaving the womb because of this natural principle. But sometimes, planets do act differently (such as Venus that revolves in a different direction) and babies do get abandoned. In such cases, the invisble hand becomes missing in action:
+Human institutions should stamp out the dangers of both poverty and wealth, such as inequality, environmental destruction, 
 
-> *Our E = G<sub>l</sub> equation explains this as the "G" that really does prevent planets and stars from flying off. Knowing the G of everything will then help you prevent their movement, whether it be the movement of stars, people, or the prices of assets and commodities. -->
+If the invisible hand is a natural phenomena, then other societies should have noticed it as to describe it. Fortunately, Ancient India and Greece have such words:
+- In Greek, the invisible hand is called δίκαιος 
+- In Sanskrit, it is called dharma
 
+Both the Indians and Greeks define dharma as being a part or aspect of the Supreme Entity, exactly as Adam Smith described the invisible hand.  
 
 {{< q a="Adam-Smith" c="Origin Of Philosophy Simplified" >}}
-Hence the origin of Polytheism.. which ascribes all the irregular events of nature to.. gods, demons, witches, genies, and fairies. 
-
 In all Polytheistic religions.. only the irregular events of nature are ascribed to.. their gods. By.. their own nature: fire burns, water refreshes, heavy bodies descend, lighter substances fly upwards. 
 
-The invisible hand of Jupiter was never perceived in those matters. But the more irregular events were ascribed to Jupiter’s favour or anger: storms and sunshine, thunder and lightning. 
-
-Savages only knew the designing power of man. 
+The invisible hand of Jupiter was never perceived in those matters. But the more irregular events were ascribed to Jupiter’s favour or anger: storms and sunshine, thunder and lightning.  Savages only knew the designing power of man. 
 {{< /q >}}
 
 
-Early humans only knew the visible hand that designed the first human institutions. They could only see the invisible hand of Nature in awesome natural phenomena and not in the ordinary ones. 
+This dharma is further explained [here](/social/economics/principles/part-3/chapter-01b/)
 
-Is this hand or organizing principle, whether natural or man-made, universal? 
-
-For it to be a foundation of a science, other civilized cultures must also have descriptions of it. 
-
-Fortunately, Hindu philosophy has the concept of Dharma while Taoist philosophy has the concept of Tao. These are explained [here](/social/economics/principles/part-3/chapter-01b).
-
-<!-- For this organizing principle to be universal, it must have been perceived also by other cultures. Only then can it be a viable foundation for our natural invisible hand and effort theory of value which will replace chance-based marginal pricing.  -->

@@ -13,7 +13,11 @@ icon: /icons/spmat.png
 ---
 
 
-Chapter 4 explained that the main substance of the Spatial layer is the rotating vortex commonly known as black holes or quasars.
+Chapter 4 explained that the main substance of the Spatial layer is the rotating vortex commonly known as black holes or quasars. Other substances are time and space. 
+
+{{< i s="/graphics/physics/msq.jpg" a="MSQ" >}}
+
+These black holes are made up of quanta called quanta of spacetime (qost). These are the 2nd Element in Cartesian Physics.
 
 
 The quanta of the spatial layer are called:
@@ -57,14 +61,16 @@ Since the current sciences have no knowledge of the properties of other universe
 
 
 
-The quantum of spacetime or qost is the basic unit or quantum in the spatial layer. It manifests as empty space and is called the 2nd Element in Cartesian Physics.
+Like qoas (monads), qosts are above the Radiant Layer (Electromagnetism). This makes them likewise invisible and not tangible. For example, you see that there is a space between you and your desk, but you cannot see the properties of that space.
 
-Like qoas (ideas), qosts are above the Radiant Layer. This makes them likewise invisible and not tangible. For example, you see that there is a space between you and your desk, but you cannot see the properties of that space.
-
-In ancient natural philosophy, the aether was called the metaphysical 'air' that filled all of physical existence, preventing any Void in Nature. 
+In ancient natural philosophy, this was called the metaphysical 'Air' Element that filled all of physical existence, preventing any Void in Nature. 
 
 
 ### Properties of Qosts
+
+Both qosts and mosts are made up of 4 aether particles that are flat, except for aetherspace particles which are not flat. 
+
+{{< i s="/graphics/meta/aethershapes.jpg" a="Aether Shapes" c="The Spatial Layer particles have 4 aether particles" >}}
 
 <!-- Since it is one layer above the radiant layer which facilitates sight and touch, then it is not visible nor tangible.  -->
 

@@ -117,11 +117,14 @@ But it is only for the sake of profit that anyone employs a capital to support i
 
 {{< s v="9" >}} The annual revenue of every society is always precisely equal to the exchangeable value of the whole annual produce of its industry.
 
-Its revenue is precisely the same thing with that exchangeable value. Every individual necessarily works to render the society's annual revenue as great as he can. He generally does not= 
+Its revenue is precisely the same thing with that exchangeable value. 
+
+Every individual necessarily works to render the society's annual revenue as great as he can. He generally does not:
 - intend to promote the public interest, or
 - know how much he is promoting it
 
 By preferring to support domestic industry over foreign industry, he intends only his own security.
+
 By directing that industry to produce the greatest value, he intends only his own gain.
 - In this case, as in many other cases, he is led by an invisible hand to promote an end which he did not intend.
 - "Nor is it always the worse for the society that it was no part of it."

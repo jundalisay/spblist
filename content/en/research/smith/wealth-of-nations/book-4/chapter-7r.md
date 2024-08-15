@@ -37,23 +37,25 @@ The country's mercantile stock naturally:
 
 {{< s v="173" >}} Let us say that, in ordinary cases, those distant employments are less advantageous to the country than the nearer employments.
 
-If the profit in those distant employments rise more than that of the nearer employments, such profit will draw stock from those nearer employments into the distant employments, until the profits of all return to their proper level.
-This superiority of profit is a proof that:
+If the profit in those distant employments rise more than that of the nearer employments, such profit will draw stock from those nearer employments into the distant employments. This is until the profits of all return to their proper level.
+
+This superiority of profit in the distant employments is a proof that:
 - those distant employments are understocked
 - the stock of the society is not distributed in the properest manner
 - something is either bought cheaper or sold dearer than it should
 - some class of citizens is oppressed by paying more or by getting less than the suitable equality between the different classes of people.
 
-This equality is natural.
+**This equality is natural.**
 
 The same capital never will maintain the same amount of productive labour in a distant as in a near employment.
-But a distant employment may be as necessary for the society's welfare as a near one.
+- But a distant employment may be as necessary for the society's welfare as a near one.
 
 The goods traded in the distant employment might be necessary for the nearer employments.
 
 But if the profits of goods for distant employments are above their proper level, those goods will be sold dearer than they should, or above their natural price.
 
 Everyone in the nearer employments will be oppressed by this high price.
+
 In this case, their interest requires some stock to be withdrawn from those nearer employments and turned towards that distant one, in order to:
 - reduce those profits to their proper level, and
 - reduce the price of those goods to their natural price.
@@ -61,15 +63,18 @@ In this case, their interest requires some stock to be withdrawn from those near
 This is an extraordinary case.
 
 The public interest requires that stock be withdrawn from the nearer employments and turned towards the distant employments, even if ordinarily, the distant employments were less advantageous to the public.
+
 In this case, the natural interests of men is the same with the public interest as in all other ordinary cases.
-Their interests lead them to withdraw stock from the near and to turn it towards the distant employment.
+- Their interests lead them to withdraw stock from the near and to turn it towards the distant employment.
 
 
 {{< s v="174" >}} Thus, the private interests and passions of individuals naturally dispose them to turn their stocks towards employments most advantageous to the society in ordinary cases.
 
 But if from this natural preference, they turn too much stock, its profits will fall while making profits rise in all other employments.
 
-This will immediately make them alter this faulty distribution. Without any intervention of law, the private interests and passions of men naturally lead them to divide and distribute the society's stock among all the different employments most agreeable to the society's interest.
+This will immediately make them alter this faulty distribution. 
+
+Without any intervention of law, the private interests and passions of men naturally lead them to divide and distribute the society's stock among all the different employments most agreeable to the society's interest.
 
 
 ## The Mercantile System Destroys This Natural Distribution of Stock
