@@ -34,9 +34,8 @@ Supereconomics has three tools* to check the health of an economy:
 3. DCTI - this checks the four laws through time
 
 
-> *The Economic Table and DCTI are too time-consuming to do manually, so we just visualize it through an app. NDP, on the other hand, can be done with pen and paper. 
-
-
+{{< f f="*The Economic Table and DCTI are too time-consuming to do manually, so we just visualize it through an app. NDP, on the other hand, can be done with pen and paper." >}}
+ 
 
 Measure | General | Specific
 --- | --- | ---

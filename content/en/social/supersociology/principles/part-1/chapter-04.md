@@ -50,7 +50,9 @@ Feelings change because they are a metaphysical wave* that comes in contact with
 
 {{< i s="/graphics/viz.png" a="Visualization of music" c="Feelings always change just like waves" >}}
 
-> *Our definition of morality is based on our Metaphysics of Things which splits existence into a metaphysical layer made up of waves, and a physical layer made up of particles, such as quark-particles and soul-particles existing in space and time.
+{{< f f="*Our definition of morality is based on our Metaphysics of Things which splits existence into a metaphysical layer made up of waves, and a physical layer made up of particles, such as quark-particles and soul-particles existing in space and time." >}}
+
+
 
 Similarly, a rubber sports ball can change its design, size, and other specification depending on what sports people feel is the best one. A cellphone can add more features and become a smartphone because its manufacturer feels the need for improvement. Both changes aim for the maximum usefulness or "good" for the ball and phone respectively.
 

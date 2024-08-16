@@ -7,7 +7,7 @@ heading: "Chapter 4c"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 20
+weight: 22
 ---
 
 
@@ -17,12 +17,12 @@ This has been known to many writers. Our source is Ibn-Khadlun, who wrote that p
 
 This is because everything in the universe is cyclical. 
 
-"The world of the elements and all it contains comes into being and decays. This applies to both its essences and its conditions. 
 
-Minerals, plants, all the animals including man, and the other created things come into being and decay. 
+{{< q a="Ibn-Khaldun" c="Muqaddimah, Chapter 2 Part 13" >}}
+The world of the elements and all it contains comes into being and decays. This applies to both its essences and its conditions.  Minerals, plants, all the animals including man, and the other created things come into being and decay.
 
-Prestige is an accident that affects human beings. It comes into being and decays inevitably.  It reaches its end in a single family within 4 successive generations."
-
+Prestige is an accident that affects human beings. It comes into being and decays inevitably.  It reaches its end in a single family within 4 successive generations.
+{{< /q >}}
 
 
 ## How Family Presige Lasts for 3 or 4 Generations

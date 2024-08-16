@@ -18,7 +18,9 @@ In a previous post, we explained how the [Effort Theory of Value](/social/econom
 
 Our proposed economic system adds an innovation to allow them to be bartered for the goods and services of other people to be delivered or rendered at a *future date*.  This is different from the common conception of barter where both parties must have goods in hand to trade *immediately*.*
 
-> *Here, we tap into the Spacetime Layer or [Vayu Element](https://en.wikipedia.org/wiki/Vayu) in the 5 Elements model
+
+{{< f f="*Here, we tap into the Spacetime Layer or [Vayu Element](https://en.wikipedia.org/wiki/Vayu) in the 5 Elements model" >}}
+
 
 
 Before that future date arrives, the value is held in points which are pegged to a kilogram of rice or wheat in order to insulate the value from inflation. This makes the system **expansive**, letting people offer goods and services in exchange for the future goods and services of other people. 
@@ -67,16 +69,11 @@ In a barter system, on the other hand, people will readily accept barter-revenue
 
 We can call this the **diminishing returns of effort**.*  
 
-> *Effort here refers to the Effort Theory of Value
+{{< f f="*Effort here refers to the Effort Theory of Value" >}}
+
 
 
 In this case, the limit is a *positive action* to preserve health and make business sustainable. 
-
-
- <!-- which may take time to realize.  -->
-
-   
-
 
 <!-- 
  that fails to return goods or services to the original trader simply 

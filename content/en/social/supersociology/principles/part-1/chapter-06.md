@@ -3,7 +3,7 @@ title: "What is Social Topographic Behavior?"
 linkTitle: Social Topographic Behavior
 heading: "Chapter 6"
 date: 2021-08-21
-weight: 24
+weight: 44
 image: "/photos/objects/egypt.jpg"
 description: "The general behavior of a people that arises from the topography of their homeland"
 writer:

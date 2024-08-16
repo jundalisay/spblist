@@ -10,19 +10,19 @@ weight: 4
 ---
 
 
-**Article 5: Condition**
+### Article 5: Condition
 
 These human rights are not available to the inhumane which will have the non-human rights instead.
 
 
-**Article 6: Unity and Society** 
+### Article 6: Unity and Society
 
 All humans are born free and equal in dignity and rights within a society, predisposed to unity.
 
 The existence of human society is a manifestation of this predisposition. These unified human rights, therefore, can only exist within a structure of a society. 
 
 
-**Article 7: Ego and Human Limitation**
+### Article 7: Ego and Human Limitation
 
 The ego, as the feeling of the self, causes disunity and all the problems in society. It hampers fellow-feeling and the development of virtue. 
 
@@ -31,7 +31,7 @@ Related to the ego are human sensory limitations. These lead to variations in cu
 <!-- No distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty. -->
 
 
-**Article 8: No Slavery or Arbitrary Detention**
+### Article 8: No Slavery or Arbitrary Detention
 
 The ego leads to the slavery and arbitrary arrest, detention or exile of others. Thus, we guarantee that every human has the right to life, liberty and security of person. 
 

@@ -9,52 +9,92 @@ icon: "/icons/suntzu.png"
 
 
 
-The art of war recognizes nine kinds of ground= 
+The art of war recognizes nine kinds of ground:
 
 Ground | Description | Tactic
 --- | --- | ---
 Dispersive | when a chieftain is fighting in his own territory | Do not fight
 Facile | When he has penetrated into hostile territory, but to no great distance | Do not stop 
 Contentious ground | Ground the possession of which imports great advantage to either side | Do not attack
-Open ground | Ground on which each side has liberty of movement | do not try to block the enemy's way
-Ground of intersecting highways | Ground which forms the key to three contiguous states, so that he who occupies it first has most of the Empire at his command | join hands with your allies
-Serious ground | When an army has penetrated into the heart of a hostile country, leaving a number of fortified cities in its rear | gather in plunder
-Difficult ground | Mountain forests, rugged steeps, marshes and fens--all country that is hard to traverse | keep steadily on the march
-Hemmed-in ground | Ground which is reached through narrow gorges, and from which we can only retire by tortuous paths, so that a small number of the enemy would suffice to crush a large body of our men | resort to stratagem
-Desperate ground | Ground on which we can only be saved from destruction by fighting without delay | fight
+Open ground | Ground on which each side has liberty of movement | Do not try to block the enemy's way
+Ground of intersecting highways | Ground which forms the key to three contiguous states, so that he who occupies it first has most of the Empire at his command | Join hands with your allies
+Serious ground | When an army has penetrated into the heart of a hostile country, leaving a number of fortified cities in its rear | Gather in plunder
+Difficult ground | Mountain forests, rugged steeps, marshes and fens--all country that is hard to traverse | Keep steadily on the march
+Hemmed-in ground | Ground which is reached through narrow gorges, and from which we can only retire by tortuous paths, so that a small number of the enemy would suffice to crush a large body of our men | Resort to stratagem
+Desperate ground | Ground on which we can only be saved from destruction by fighting without delay | Fight
 
 
-Those who were called skillful leaders of old knew how to drive a wedge between the enemy's front and rear; to prevent co-operation between his large and small divisions; to hinder the good troops from rescuing the bad, the officers from rallying their men.
+
+The skillful leaders of old knew how:
+- to drive a wedge between the enemy's front and rear
+- to prevent cooperation between the large and small divisions of the enemy
+- to hinder the good troops from rescuing the bad, the enemy's officers from rallying their men.
+
 
 {{< s v="16" >}} When the enemy's men were united, they managed to keep them in disorder.
 
-{{< s v="17" >}} When it was to their advantage, they made a forward move; when otherwise, they stopped still.
+{{< s v="17" >}} When it was to their advantage, they made a forward move. When otherwise, they stopped still.
 
-{{< s v="18" >}} If asked how to cope with a great host of the enemy in orderly array and on the point of marching to the attack, I should say=  "Begin by seizing something which your opponent holds dear; then he will be amenable to your will."
+{{< s v="18" >}} How should you cope with a large orderly enemy army ready to the attack?
 
-{{< s v="19" >}} Rapidity is the essence of war=  take advantage of the enemy's unreadiness, make your way by unexpected routes, and attack unguarded spots.
+I answer:  "Begin by seizing something which your opponent holds dear. Then he will be amenable to your will."
 
-{{< s v="20" >}} The following are the principles to be observed by an invading force=  The further you penetrate into a country, the greater will be the solidarity of your troops, and thus the defenders will not prevail against you.
+{{< s v="19" >}} Rapidity is the essence of war. 
+
+Take advantage of the enemy's unreadiness. Make your way by unexpected routes. Attack unguarded spots.
+
+{{< s v="20" >}} An invading force should observe the following principles.
+
+The further you penetrate into a country, the greater will be the solidarity of your troops. Thus, the defenders will not prevail against you.
 
 21. Make forays in fertile country in order to supply your army with food.
 
-22. Carefully study the well-being of your men, and do not overtax them. Concentrate your energy and hoard your strength. Keep your army continually on the move, and devise unfathomable plans.
+22. Carefully study the well-being of your men, and do not overtax them. 
 
-23. Throw your soldiers into positions whence there is no escape, and they will prefer death to flight. If they will face death, there is nothing they may not achieve. Officers and men alike will put forth their uttermost strength.
+Concentrate your energy and hoard your strength. Keep your army continually on the move, and devise unfathomable plans.
 
-24. Soldiers when in desperate straits lose the sense of fear. If there is no place of refuge, they will stand firm. If they are in hostile country, they will show a stubborn front. If there is no help for it, they will fight hard.
+23. Throw your soldiers into positions whence there is no escape, so they will prefer death to flight.
 
-25. Thus, without waiting to be marshaled, the soldiers will be constantly on the qui vive; without waiting to be asked, they will do your will; without restrictions, they will be faithful; without giving orders, they can be trusted.
+If they will face death, there is nothing they may not achieve. 
 
-26. Prohibit the taking of omens, and do away with superstitious doubts. Then, until death itself comes, no calamity need be feared.
+Officers and men alike will put forth their uttermost strength.
 
-27. If our soldiers are not overburdened with money, it is not because they have a distaste for riches; if their lives are not unduly long, it is not because they are disinclined to longevity.
+24. Soldiers when in desperate straits lose the sense of fear.
 
-28. On the day they are ordered out to battle, your soldiers may weep, those sitting up bedewing their garments, and those lying down letting the tears run down their cheeks. But let them once be brought to bay, and they will display the courage of a Chu or a Kuei.
+If there is no place of refuge, they will stand firm.
 
-29. The skillful tactician may be likened to the shuai-jan. Now the shuai-jan is a snake that is found in the ChUng mountains. Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle, and you will be attacked by head and tail both.
+If they are in hostile country, they will show a stubborn front. 
 
-30. Asked if an army can be made to imitate the shuai-jan, I should answer, Yes. For the men of Wu and the men of Yueh are enemies; yet if they are crossing a river in the same boat and are caught by a storm, they will come to each other's assistance just as the left hand helps the right.
+If there is no help for it, they will fight hard.
+
+25. Thus, without waiting to be marshaled, the soldiers will be constantly on the qui vive; without waiting to be asked, they will do your will.
+
+Without restrictions, they will be faithful. Without giving orders, they can be trusted.
+
+26. Prohibit the taking of omens. 
+
+Do away with superstitious doubts. Then, until death itself comes, no calamity need be feared.
+
+
+27. If our soldiers are not overburdened with money, it is not because they have a distaste for riches.
+
+If their lives are not unduly long, it is not because they are disinclined to longevity.
+
+28. On the day they are ordered out to battle, your soldiers may weep.
+
+<!-- those sitting up bedewing their garments, and those lying down letting the tears run down their cheeks.  -->
+
+But let them once be brought to bay, and they will display the courage of a Chu or a Kuei.
+
+29. The skillful tactician may be likened to the shuai-jan, a snake that is found in the ChUng mountains.
+
+Strike at its head, and you will be attacked by its tail. Strike at its tail, and you will be attacked by its head.
+
+Strike at its middle, and you will be attacked by head and tail both.
+
+30. Can an army imitate the shuai-jan?
+
+I answer: Yes. The men of Wu and the men of Yueh are enemies. Yet if they are crossing a river in the same boat and are caught by a storm, they will help each other just as the left hand helps the right.
 
 31. Hence it is not enough to put one's trust in the tethering of horses, and the burying of chariot wheels in the ground
 

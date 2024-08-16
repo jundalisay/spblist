@@ -184,12 +184,10 @@ This new system creates a whole new set of measures, transaction methods, and in
 <!-- The next post will explain how Grain-based Valuation can be implemented as Basic Universal Revenue. This will be very useful during [the coming Great Stagflation](/social/supersociology/precrisis-years) which is supposed to spark this year. -->
 
 
-{{< box >}}
-## Updates
-
+{{< dc t="Updates" >}}
 Date | Notes
 --- | ---
 Jan 11, 2021 | Harmonized with Pool Clearing
 Dec 11, 2021 | Removed barter and instead focused on points, either as grains or gold
 Mar 25, 2022 | Removed fiat
-{{< /box >}}
+{{< /dc >}}

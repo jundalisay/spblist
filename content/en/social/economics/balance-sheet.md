@@ -192,19 +192,18 @@ This fund will be used to:
 The Clearing Funds eliminate the need for cross-border money transactions -- money no longer leaves any country. This will make currency speculation and currency crises obsolete. It will also help deficient and stagnating countries like Sri Lanka to get out of crisis by letting them export their way out of their quagmire.
 
 Each country's Clearing Fund will be subdivided into different industries, with subdivisions, such as:
-- Agriculture Fund
-  - Fisheries Fund
-  - Rice Fund
-  - Livestock and Dairy Fund
-- Education Fund
-  - Advanced Research Fund
-- Tourism Fund
-  - Cultural Exchange Fund
-- Manufacturing Fund
-  - Electronics Fund
-  - Heavy Machinery Fund
-  - Precision Equipment Fund
-- etc
+
+Fund | Subfunds
+--- | ---
+Agriculture | Fisheries
+. | Rice 
+. | Livestock and Dairy Fund
+Education | Advanced Research
+Tourism | Cultural Exchange
+Manufacturing | Electronics
+. | Heavy Machinery
+. | Precision Equipment Fund
+etc | 
 
 Investors, such as the Arab sheik, can then park their money in a fund that they like, in a country that they like. If a country can define 1 million industries, then each can have its own fund. The sheik can then have 1 million investment options.
 

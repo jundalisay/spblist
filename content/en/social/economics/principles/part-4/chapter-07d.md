@@ -99,7 +99,6 @@ We thus notate GDP as:
 - $: Gross Revenue of the entire financial system and insurance of a society
 {{< /box >}}
 
-<br>
 
 {{< q a="Adam-Smith" c="The Wealth of Nations Book 2" >}}
 The money which circulates the society's whole revenue among its members makes no part of that revenue. The great wheel of circulation is different from the goods which are circulated through it. The society's revenue is in those goods, not in the wheel that circulates them.. In computing any society's gross or net revenue,we must always deduct the whole value of money from the whole annual circulation of money and goods. The value of money can never make a part of the society's gross or net revenue.

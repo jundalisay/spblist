@@ -11,6 +11,8 @@ icon: /icons/pantry.png
 ---
 
 
+<!-- ADD CONDO SPECULATION -->
+
 [The Economist](https://www.economist.com/finance-and-economics/2015/03/26/towers-of-babel) showed an interesting graphic of the correlation of skyscrapers and economic crises in a phenomenon known as the **Skyscraper Curse**. 
 
 A question was posed: "*Does this frenzy of building augur badly for the world economy?*", to which we answer "Yes, because of Economics".

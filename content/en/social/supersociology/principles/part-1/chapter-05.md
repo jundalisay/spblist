@@ -3,7 +3,7 @@ title: "The Law of Social Cycles by Socrates"
 heading: Chapter 5
 date: 2021-07-21
 # Socio-Political changes are caused by changing wave-cycles of society
-weight: 22
+weight: 37
 image: "/graphics/social/cycles.png"
 description: "The four laws of value of Superphysics leads to the four classes of Workers, Warriors, Thinkers, and Traders"
 writer:
@@ -47,7 +47,7 @@ Warriors | Socratic Neoconservatives | Ksattriyas | Tyrants
 Thinkers | Socratic Conservatives | Brahmins | Aristocrat-Philosophers
 Traders | Socratic Neoliberals | Vaesyas | Oligarchs
 
-> *We add 'Socratic' to separate them a bit from the modern classification, while having some resemblance 
+{{< f f="*We add 'Socratic' to separate them a bit from the modern classification, while having some resemblance" >}}
 
 
 
@@ -74,7 +74,7 @@ We use this model to expose the current cycle of any society, based on the outco
 
 We use outcomes of changing events* to reveal the soul of the society, just as dust reveals an invisible object by establishing that object's outline.
 
-> *This is what Hegel had in mind when he mentioned dialectics. 
+{{< f f="*This is what Hegel had in mind when he mentioned dialectics." >}}
 
 
 ![Soul of Society](https://sorasystem.sirv.com/graphics/soulsociety.png)
@@ -94,15 +94,8 @@ We plug in this model into our [equation-for-everything](/superphysics/principle
 ![Universal Relativity](/graphics/social/cycle.png)
 
 
-> Our equation for everything is based on Poincare's Law of Relativity which is consistend with the Relativty of Rene Descartes which is most of the basis of Material Superphysics. Poincare's Relativity was replaced by Einstein's sophistical Relativity which locked humans into their current sad reality without nuclear fusion or anti-gravity. 
+{{< f f="Our equation for everything is based on Poincare's Law of Relativity which is consistend with the Relativty of Rene Descartes which is most of the basis of Material Superphysics. Poincare's Relativity was replaced by Einstein's sophistical Relativity which locked humans into their current sad reality without nuclear fusion or anti-gravity." >}}
 
-
-<!-- 
-In The Republic, Socrates describes the four cycles of society  
-
-
-Political changes, from conservative & authoritarian, to liberal & democratic, and vice-versa, are manifestations of the changing stages in the lifespan of a society-organism, which itself is a metaphysical wave, just a soul is a wave manifesting physically as a 'lifetime' of a human, plant, or animal -- all made up of particles.  The predictions on social changes falls under our proposed field of Supersociology which finds the patterns of these waves, in the same way that prophets and oracles have done, but using data science instead of intuition. This is what ISAIAH will do. 
- -->
 
 Social Cycles explain why and how history repeats itself since reality is a wave, and waves are **always related** to previous and future waves. We give a short story below as an example.
 

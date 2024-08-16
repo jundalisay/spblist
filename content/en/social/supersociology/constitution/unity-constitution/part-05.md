@@ -10,12 +10,12 @@ weight: 10
 ---
 
 
-**Article: Eligibility**
+### Article: Eligibility
 
 Non-human living beings are entitled to non-human rights. 
 
 
-**Article : Conditional Right to Exist**
+### Article : Conditional Right to Exist
 
 Natural life is the commonly-perceived lifespan and behavior of a living entity. 
 

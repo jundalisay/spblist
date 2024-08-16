@@ -1,7 +1,6 @@
 ---
 heading: "Chapter 10"
 title: "What is Feudalism?"
-
 date: 2021-07-21
 weight: 10
 image: /photos/medieval/spartan.jpg

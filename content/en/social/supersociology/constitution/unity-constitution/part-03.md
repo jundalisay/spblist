@@ -10,7 +10,7 @@ weight: 6
 ---
 
 
-**Article: Minimum Requirements**
+### Article: Minimum Requirements
 
 Everyone has the right to:
 - a standard of living adequate for the health and well-being of himself and his family, including:
@@ -26,7 +26,7 @@ Motherhood and childhood are entitled to special care and assistance.
 All children, whether born in or out of wedlock, shall enjoy the same social protection.
 
 
-**Article: Social Security**
+### Article: Social Security
 
 Everyone, as a member of society:
 - has the right to social security
@@ -35,7 +35,8 @@ Everyone, as a member of society:
 These are done through national effort and international cooperation, according to the organization and resources of each State.
 
 
-*Article: Employment*
+
+### Article: Employment
 
 Everyone has the right to:
 - work
@@ -50,13 +51,13 @@ Everyone who works has the right to just and favourable remuneration ensuring fo
 Everyone has the right to form and to join trade unions to protect his interests.
 
 
-**Article 24: Leisure**
+### Article 24: Leisure
 
 Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.
 
 
 
-**Article 26: Education**
+### Article 26: Education
 
 Everyone has the right to education. 
 
@@ -71,7 +72,7 @@ It shall promote understanding, tolerance and friendship among all nations, raci
 Parents have a prior right to choose the kind of education that shall be given to their children.
 
 
-**Article 27: Science, Culture, and Arts**
+### Article 27: Science, Culture, and Arts
 
 Everyone has the right freely to:
 - participate in the community's cultural life
@@ -82,7 +83,7 @@ Everyone has the right to the protection of the moral and material interests res
 
 
 
-**Article 29: Emergencies**
+### Article 29: Emergencies
 
 These rights can be curtailed during emergencies. 
 

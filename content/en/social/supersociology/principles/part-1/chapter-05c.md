@@ -3,7 +3,7 @@ title: "The Ideology Matrix"
 heading: Chapter 5
 date: 2021-07-21
 # Socio-Political changes are caused by changing wave-cycles of society
-weight: 24
+weight: 38
 image: "/graphics/social/ideology.jpg"
 description: "The four laws of value of Superphysics leads to the four classes of Workers, Warriors, Thinkers, and Traders"
 writer:

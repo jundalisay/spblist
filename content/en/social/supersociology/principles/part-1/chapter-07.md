@@ -3,7 +3,7 @@ title: "How Modern Education Corrups Knowledge with Shallow Reasoning"
 linkTitle: Education Effects
 heading: Chapter 7
 # date: 2019-06-29
-weight: 28
+weight: 48
 date: 2013-10-21
 image: "/photos/psych/bore.jpg"
 description: "The Enlightened philosophers wrote against sophistry by the merchants and by fake scientists"

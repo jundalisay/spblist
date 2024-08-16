@@ -103,11 +103,11 @@ Likewise, all the traditions have a purpose in curing or preventing certain type
 
 Each tradition* has its cure for cancer, obesity, infertility, etc. using the raw ingredients that are available in their culture. There are other traditions not listed here which we hope to add in the future. 
 
-> *As app developers, we see the pros and cons of tools a lot. For example, Golang is great at performance but terrible at maintainability. Ruby is so maintainable, but is slow at performance.  
+{{< f f="*As app developers, we see the pros and cons of tools a lot. For example, Golang is great at performance but terrible at maintainability. Ruby is so maintainable, but is slow at performance." >}}
+  
 
 
-
-By putting the five traditional paradigms on a level with each other, the four cease to be *alternative medicine* and instead become part of the mainstream. This will then give them more research focus in order to improve themselves. 
+By putting the 5 traditional paradigms on a level with each other, the four cease to be *alternative medicine* and instead become part of the mainstream. This will then give them more research focus in order to improve themselves. 
 
 
 <!--  Democracy lets people choose the medical paradigm that fits their character and resources -->
@@ -162,4 +162,4 @@ The main goal of treatments is to break the link* between the patient's mind and
 - the connection of lung cancer to a patient might be chain-smoking   
 - the connection of diabetes to a patient might be excessive greed and laziness
 
-> *In Material Superphysics, this link manifests as the gravitational relationship between two bodies, such as Newton's apple and the Earth, or the Earth to the Sun.
+{{< f f="*In Material Superphysics, this link manifests as the gravitational relationship between two bodies, such as Newton's apple and the Earth, or the Earth to the Sun." >}}
