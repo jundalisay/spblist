@@ -110,7 +110,7 @@ In the real happiness of human life.. in ease of body and peace of mind, all the
 
 Eastern philosophy tells us that dharma is the proper way out of this trap called existence*. 
 
-> *The actual exit of existence is called samadhi, but that's another story. 
+{{< f f="*The actual exit of existence is called samadhi, but that's another story." >}}
 
 
 By following one's path and purpose in life, then humans can better understand how their dualistic world works. So, by replacing utility with self-purpose, Supereconomics not only can help people generate and distribute value among each other, but also increase their chances of understanding the reason for their existence so that they can exist in harmony with everything else that exists. 
@@ -127,6 +127,8 @@ As you can see, the fallacy of money and utility leading to self-acutalization m
 This will then be the job of Medical Superphysics. We can even use it to solve problems in Modern Physics -->
 
 
-{{< me date="July 5, 2021" >}}
-Harmonized with the Invisible Hand as Superphysics
-{{< /me >}}
+{{< dc t="Updates" >}}
+Date | Update
+--- | ---
+July 5, 2021 | Harmonized with the Invisible Hand as Superphysics
+{{< /dc >}}

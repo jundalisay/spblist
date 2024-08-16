@@ -34,8 +34,8 @@ This economic starvation finally manifested itself as the Great Depression of th
 
 The British Economist John Maynard Keynes had a chance to fix things by reversing the doctrine of profit maximization. However, instead of getting rid of profit maximization, he permanently cemented it through the doctrine of **liquidity preference** which we call the love of money*!
 
+{{< u d="Oct 2021" u="*The proper and opposite policy is to stifle speculation and excessive growth as what China has done by letting Evergrande collapse and by limiting Alibaba and other Chinese tech giants. This would restore economic balance. These are opposite of what the US did in bailing out Wall Street." >}}
 
-> *Update Oct 2021: The proper and opposite policy is to stifle speculation and excessive growth as what China has done by letting Evergrande collapse and by limiting Alibaba and other Chinese tech giants. This would restore economic balance. These are opposite of what the US did in bailing out Wall Street.
 
 
 <!-- This would've made Adam Smith turn in his grave. --> 
@@ -62,7 +62,8 @@ The problem with this is that inflation* is worse for the worker than the busine
 
 The worker, on the other hand, cannot ask for a proportional raise from his boss. As a result, inflation slowly eats up the the worker's wages, giving the effect of him **working for free**.
 
-> *Remember, we defined inflation as demand inflation
+{{< f f="*Remember, we defined inflation as demand inflation" >}}
+
 
 
 For example, if last month I worked for 100 hours at $1 per hour, then at that month, I would be able to buy $100 worth of goods. 
@@ -81,7 +82,7 @@ Rather than break up big capital and force competition and innovation among busi
 - monetary easing
 - government projects wherein public taxes are given to private companies* to create roads, dams, and, more recently, green energy. 
 
-> *China solves this with state-owned companies
+{{< f f="*China solves this with state-owned companies" >}}
 
 
 
@@ -111,7 +112,7 @@ To Keynesian economists, the love for money is the key driver of the economy. Th
 
 But as we have seen, this merely by gets the economy going by making wage-earners* work for free. 
 
-> *In the business model of the Roman empire, it would be like the emperor advertising the barren lands of the Middle East and Saharan Africa as profitable to conquer in order to create employment for his legions. This would then force their legions to work doubly hard to conquer those territories which produce so little value, leading those legions towards mutiny, being 'woke' and then starting a 'cancel culture' against the Emperor.
+{{< f f="*In the business model of the Roman empire, it would be like the emperor advertising the barren lands of the Middle East and Saharan Africa as profitable to conquer in order to create employment for his legions. This would then force their legions to work doubly hard to conquer those territories which produce so little value, leading those legions towards mutiny, being 'woke' and then starting a 'cancel culture' against the Emperor." >}}
 
 
 Thus, Keynesian economics solves recessions by making workers work for free bit by bit. Sooner or later, the low real-wages then become unbearable and become slave wages or what Keynes calls 'marginal disutility of employment'. 
@@ -123,7 +124,7 @@ To prevent such high inflation, the sweet-spot became 2% -- higher than the 0% t
 
 Thus, while economists focus on **growth** to generate employment, central banks focus on **price stability** to keep that employment. 
 
-> *Under Classical Economics, the competition among investors and entrepreneurs would naturally create stability. They would not need the Central Banks to dictate interest rates since each bank would have their own precious metals. Central bank interest rates would only be useful to lenders to the government, and would be near the average interest rates set by private banks.
+{{< f f="*Under Classical Economics, the competition among investors and entrepreneurs would naturally create stability. They would not need the Central Banks to dictate interest rates since each bank would have their own precious metals. Central bank interest rates would only be useful to lenders to the government, and would be near the average interest rates set by private banks." >}}
 
 
 In the paradigm of Classical Economics, this is similar to a situation where the king is deposed by businessmen (Mercantilists) who then instruct the king's advisers and bankers to impose mercantile policies on all. This would then create a modern economic feudalism with big capital as the feudal lords and employees as peasants.
@@ -134,15 +135,16 @@ The results of all this Keynesian monetary easing or pumping of money are:
 - huge government debts
   - This passes the current problems (usually of the baby boomers who are the current policy-makers) to future generations* who are incapable of knowing of the burdens** dumped on them by fancy-worded policies such as 'quantitative easing' and 'stimulus packages'. 
 
-> *This manifests as millennials losing all hope of getting a decent job that would pay for a house, or getting quality education that does not involve a huge debt.
+{{< f f="*This manifests as millennials losing all hope of getting a decent job that would pay for a house, or getting quality education that does not involve a huge debt." >}}
 
 
-> **Some economists try to solve this top-down approach with a bottom-up solution as universal basic income (UBI). However, this is actually worse since it does not guarantee the generation of employment. The cancellation of UBI trials in many countries prove that it is more useless. In Classical-speak, this is like the king paying off barbarians and peasants so that they will not revolt or commit crimes.
+{{< f f="**Some economists try to solve this top-down approach with a bottom-up solution as universal basic income (UBI). However, this is actually worse since it does not guarantee the generation of employment. The cancellation of UBI trials in many countries prove that it is more useless. In Classical-speak, this is like the king paying off barbarians and peasants so that they will not revolt or commit crimes." >}}
 
 
 Japan was the first country to implement aggressive quantitative easing and is also the country to realize its bad effects. Its Lost Generation represents the youth that grew up after the collapse of Japan's asset-price bubble in the early '90s and exactly matches the effects of the paragraph above. Japan is among the countries with the highest debts in the world.
 
-> Update Jan 2021: The failure of Abenomics and the 2020 Olympics, along with the resignation of Abe and the rise of Japanese taxes prove the failure of Keynesian policies
+{{< u d="Jan 2021" u="The failure of Abenomics and the 2020 Olympics, along with the resignation of Abe and the rise of Japanese taxes prove the failure of Keynesian policies" >}}
+
 
 {{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5" >}}
 Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred<!--  to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity. -->
@@ -162,6 +164,4 @@ These policies culminate in inflation which would then indicate an increase the 
 If money is not the solution, then what is? The next post will explain [economic social contracts](/social/economics/why-business-is-immoral) as the alternative to money and svadharma as a replacement to liquidity preference.
 
 
-{{< me date="Oct 30, 2021" >}}
-Economists see nothing wrong with inflation, as proven in this [Forbes article](https://www.forbes.com/sites/johntharvey/2021/05/12/four-reasons-to-stop-panicking-over-inflation) This is because of the shallow reasoning that the high prices go back to the economy anyway. We answer, yes it goes back, but more to the profit-earners and less to the wage-earners. 
-{{< /me >}}
+{{< u d="Oct 30, 2021" u="Economists see nothing wrong with inflation, as proven in this [Forbes article](https://www.forbes.com/sites/johntharvey/2021/05/12/four-reasons-to-stop-panicking-over-inflation) This is because of the shallow reasoning that the high prices go back to the economy anyway. We answer, yes it goes back, but more to the profit-earners and less to the wage-earners." >}}

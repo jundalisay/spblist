@@ -105,4 +105,4 @@ Lorentz' theory does not reduce the support of the Fizeau experiment for my theo
 {{< n n="Here, Einstein exposes that his theory is really from Lorentz, with a mere 'transformation' tweak of unifying space and time through the wave-particle duality of light. Einstein's transformation is dangerous **because it gives electromagnetic properties to spacetime**, effectively limiting it. <p>In Superphysics, the unity of spacetime is not sourced from light or electromagnetism, but from the aether, which is above spacetime and two layers above electromagnetism (see below). This is similar to Lorentz sourcing the cause of his transformations to the aether. Lorentz' mistake was to think that the aether was in the spacetime layer, and not above it.</p>" >}}
 
 
-![5 layers](/graphics/physics/layers.jpg)
+![5 layers](/graphics/physics/layers.png)

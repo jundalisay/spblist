@@ -111,7 +111,7 @@ Supereconomic Indicators | Change in Grain Value `G`, Number of Users `P`, Avera
 Goal | Minimum Requirements | Real Price via the Economic Table | Economic Growth (this is the only aspect that Modern Economics focuses on)| Economic balance or stasis 
 
 
-> *The grain value of exports includes the `GOSAM` that was involved, with additional as the increased cost of transportation
+{{< f f="*The grain value of exports includes the `GOSAM` that was involved, with additional as the increased cost of transportation" >}}
 
 
 
@@ -165,3 +165,4 @@ Demand | Higgs Field | [First Law of Value](/social/economics/principles/part-1/
 Capital | Gravitation | [Second Law of Value](/social/economics/principles/part-2/chapter-01/): Effort Theory of Value ISAIAH Match Leads to economic democracy and maximized non-commercial potential | We gravitate towards certain interests based on our dharma
 Trade | Electroweak | [Third Law of Value](/social/economics/principles/part-3/chapter-01/): Exchange systems with maintenance cost | Regulates merchants as the opposite of Mercantilism
 Industry | Strong Layer | [Fourth Law of Value](/social/economics/principles/part-4/chapter-01/): Real Price via the Economic Table | Economic balance or stasis that is lacking in Capitalism
+

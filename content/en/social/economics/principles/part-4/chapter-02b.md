@@ -21,11 +21,8 @@ Adam Smith gave 4 maxims on taxation in The Wealth of Nations that have been lar
 ![Adam Smith](/avatars/smithstatue.jpg)
 
 
-{{< box >}}
-### Maxim 1
+> #### Maxim 1: People should contribute towards supporting their government in proportion to their respective abilities
 
-**People should contribute towards supporting their government in proportion to their respective abilities**
-{{< /box >}}
 
 The rich or those who have the ability topay more should pay more than those who are less able to. Smith's pro-poor taxation policies are found in Book 5, Chapter 2, and are as clear as day:
 
@@ -34,11 +31,7 @@ The high price of necessities for the poor must be compensated by an increase in
 {{< /q >}}
 
 
-{{< box >}}
-### Maxim 2
-
-**The tax which each person pays must be certain and not arbitrary**
-{{< /box >}}
+> #### Maxim 2: The tax which each person pays must be certain and not arbitrary
 
 This maxim applies to the valuation of certain taxes, such as land taxes.
 
@@ -47,11 +40,7 @@ A land-tax assessed according to a general survey and valuation, however equal i
 {{< /q >}}
 
 
-{{< box >}}
-### Maxim 3
-
-**Every tax should be levied at the time and manner most convenient for the taxpayer**
-{{< /box >}}
+> #### Maxim 3: Every tax should be levied at the time and manner most convenient for the taxpayer
 
 
 Smith gives an example of this in the excise and customs duties:
@@ -61,11 +50,7 @@ The importers are always subject to the custom-house officer’s visit and exami
 {{< /q >}}
 
 
-{{< box >}}
-### Maxim 4
-
-**Taxes should take out as little as possible from the people over and above what it brings into the public treasury**
-{{< /box >}}
+> #### Maxim 4: Taxes should take out as little as possible from the people over and above what it brings into the public treasury
 
 
 For this, Smith mentions the inefficient collection method of certain taxes:
@@ -119,13 +104,10 @@ Result: Pass
 {{< /c >}}
 
 
-
-
 ## Tax Conclusion: Revise the Tax
 
 The tax in this example needs to be revised to meet Maxim 3
 
 
-{{< me date="Sept 2016" >}}
-This idea of putting taxes and economic policies through a standardized test is inspired by unit testing insoftware development, wherein code is tested to see if it meets certain criteria. Using this system, various tax policies can be put through the test to seepass orfail more easily.
-{{< /me >}}
+{{< u d="Sept 2016" u="This idea of putting taxes and economic policies through a standardized test is inspired by unit testing insoftware development, wherein code is tested to see if it meets certain criteria. Using this system, various tax policies can be put through the test to seepass orfail more easily." >}}
+

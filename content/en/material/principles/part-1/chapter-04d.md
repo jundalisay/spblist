@@ -2,7 +2,7 @@
 heading: "Chapter 4d"
 title: "Aethereal Relationality: Motion is Internal"
 # date: 2023-12-10
-weight: 20
+weight: 30
 image: /graphics/gravrelm.png
 description: "Aethereal Relationality deals with the movement of qoa"
 icon: /icons/spmat.png

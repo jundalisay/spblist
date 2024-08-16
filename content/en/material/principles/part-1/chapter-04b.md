@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4"
+heading: "Chapter 4b"
 title: "Aethereal Bands -- Action at a Distance"
 # date: 2020-01-31
 image: /graphics/qoaprices.png
@@ -8,7 +8,7 @@ icon: /icons/spmat.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
+weight: 24
 ---
 
 

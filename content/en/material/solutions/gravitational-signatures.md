@@ -43,7 +43,7 @@ This makes light and electromagnetism as superior to spacetime which is totally 
 
 <!-- We start by fitting Relativity to the 5-layer model of the Greeks.  -->
 
-{{< img alt="Five layers of Superphysics" src="/graphics/physics/layers.jpg" >}}
+{{< img alt="Five layers of Superphysics" src="/graphics/physics/layers.png" >}}
 
 <!-- cap="Descartes' Earth is now Stokes' aether, while Descartes' Fire is now Lorentz-Fresnel aether" -->
 

@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 6"
-title: "Perception: Why Time Moves Forwward"
+title: "Perception: Why Time Moves Forward"
 # date: 2024-08-01
-weight: 20
+weight: 44
 image: /photos/meta/kindness.jpg
 description: "The main purpose of the aethereal layer is to facilitate perception"
 icon: /icons/spmat.png

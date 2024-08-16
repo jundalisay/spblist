@@ -11,7 +11,9 @@ icon: /icons/pantry.png
 ---
 
 
-Free competition is a necessary idea under the Third Law or the law of fair exchange, and is always checked by the Fourth Law or the law of balance. 
+Free competition is a necessary idea under the Fourth Law or the law of fair exchange, and is always checked by the Second Law or the law of balance. 
+
+![Fourth Law](/graphics/econ/law4.jpg)
 
 Value is spread throughout society via exchange after passionate creators make their products and services. Their mutual exchange naturally creates a sort of competition on who can satisfy the demand of society better, faster, and cheaper. 
 
@@ -19,11 +21,14 @@ In time, the invisible hand, which also works on the demand side as the customer
 
 <!-- does not mean the competitors need to be equal. Instead,  -->
 
+
+### Competition as a Beauty Contest
+
 **The freedom of each competitor needs to be guaranteed by the government.** 
 
 For example, the competitors in a beauty contest might not be equal in height, weight, skin color, or hair length, etc. Nevertheless, their freedom to be in the competition, to wear their costumes, show their skills, answer questions, should be guaranteed by the organizers. 
 
-![beauty contest](https://res.cloudinary.com/nara/image/upload/v1632386432/photos/beauty600.jpg)
+![beauty contest](/photos/social/pageant.jpg)
 
 This guarantee of freedom in commercial competition was removed by French economist JB Say through the concept of laissez faire from the Physiocrats which he corrupted to mean total deregulation. Because of this deregulation, some competitors were able to acquire its competitors, corner the supply, and become too-big-to-fail. 
 
@@ -39,11 +44,10 @@ For example, Apple has become a huge company that bans others from copying its t
 
 Proof of this contradiction is in Marshall's Principles of Economics (the textbook that came before Samuelson's Economics)
 
-{{< q a="marshall">}}
+{{< q a="Marshall" c="Principles of Economics" >}}
 It is commonly said that the tendency of competition is to equalize the earnings of people engaged in the same trade<!-- or in trades of equal difficulty -->; but this statement requires to be interpreted carefully. 
 
 For competition tends to make the earnings got by two individuals of unequal efficiency in any given time, say, a day or a year, not equal, but unequal; and, in like manner, it tends not to equalize, but to render unequal the average weekly wages in two districts in which the average standards of efficiency are unequal.
-<cite>Principles of Economics</cite>
 {{< /q >}}
 
 
@@ -52,7 +56,6 @@ But if your question is about free competition (with justice integrated) instead
 
 
 Then the quotes are mostly found in Book 5
-
 
 ### Free Competition Lowers Taxes or Prices But Raises Revenue
 
@@ -83,9 +86,10 @@ It is especially the interest of one whose revenue arises chiefly from a land-re
 ### Free Competition Increases Innovation
 
 {{< q a="Adam-Smith" >}}
-The increase of demand though in the beginning it may sometimes raise the price of goods, never fails to lower it in the run. It encourages production and increases the competition of the producers. Those producers turn to new divisions of labour and improvements never thought of in order to undersell one another.
+The increase of demand though in the beginning it may sometimes raise the price of goods, never fails to lower it in the long run. It encourages production and increases the competition of the producers. Those producers turn to new divisions of labour and improvements never thought of in order to undersell one another.
 {{< /q >}}
 
-{{< q a="Adam-Smith" >}}
+
+<!-- q a="Adam-Smith" >}}
 The words regulation and deregulation are ambigous. Regulating a criminal away from owning a gun is a good rule. But regulating the army to avoid guns is absurd. Therefore, regulation and deregulation are always relative to the common interest.
-{{< /q >}}
+/q >}} -->

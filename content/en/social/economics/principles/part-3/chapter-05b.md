@@ -83,7 +83,7 @@ The problem is that people think that an inverted yield curve is the sole indica
 
 The problem with bonds is that they lock in money for too long for use by the government. But governments are usually value-maintaining, and rarely value-creating.  
 
-Superphysics proposes [clearing funds](/research/schumacher/pool-clearing/part-1) as an alternative to bonds. These funnel money into to financing exports and imports as the main enabler of Adam Smith's proposed free trade system. In this way, value-creation is emphasized. Moreover, foreign commerce will no longer need letters of credit nor trade financing because all purchases are paid cash in advance. 
+Supereconomics proposes [clearing funds](/research/schumacher/pool-clearing/part-1) as an alternative to bonds. These funnel money into to financing exports and imports as the main enabler of Adam Smith's proposed free trade system. In this way, value-creation is emphasized. Moreover, foreign commerce will no longer need letters of credit nor trade financing because all purchases are paid cash in advance. 
 
 People can have money to pay in cash because their local purchases can be transacted by points (as [basic points revenue](/social/economics/principles/part-1/chapter-03b/)) or barter.
 

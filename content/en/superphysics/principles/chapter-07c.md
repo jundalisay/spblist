@@ -119,7 +119,7 @@ Radiant Layer Physics | `E = mc{{< s v="2" >}}`
 Spatial Layer Physics | `E = G{{< sub v="AB">}}`
 
 
-{{< img src="/graphics/physics/layers.jpg" alt="The five layers" >}}
+{{< img src="/graphics/physics/layers.png" alt="The five layers" >}}
 
 
 The eagle also extends into metaphysical movement, such as the movement of minds. This makes it applicable even to the Medical and Social Sciences.

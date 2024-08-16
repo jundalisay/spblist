@@ -16,7 +16,9 @@
 
   <div class="container px-6 pt-6 mx-auto"> 
     <h1 class="container text-3xl font-bold">{{ .Title }}</h1>
-
+      <small>
+              {{ .Params.description }}        
+      </small>
       <div id="breadcrumbs" class="text-gray-700 mb-4" style="text-decoration: none;">
         <small>
             {{- range .Ancestors.Reverse }}
@@ -30,7 +32,7 @@
                 <a href="{{ .RelPermalink }}">{{ .Params.linkTitle }}</a>
               {{- else }}
                 <a href="{{ .RelPermalink }}">{{ .Params.title }}</a>          
-              {{- end }}            
+              {{- end }}
               <!-- <a href="{{ .RelPermalink }}"> .Title </a> -->
         </small>
       </div>

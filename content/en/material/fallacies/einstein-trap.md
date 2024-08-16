@@ -21,7 +21,7 @@ This dictation was done by Einstein in using the speed of light as the measuring
 
 But the big problem is that light is part of the Radiant (ELectromagentic) Layer which is inferior or subordinate to the Spacetime Layer. In a business, it would be using the qualities of factory workers to judge the quality of a corporation. In reality, corporations should be measured by the quality of their executive team.  
 
-{{< img src="/graphics/physics/layers.jpg" alt="The 5 Layers" cap="Electromagnetism is inferior to Spacetime, yet Einstein uses it to measure Spacetime" >}}
+{{< img src="/graphics/physics/layers.png" alt="The 5 Layers" cap="Electromagnetism is inferior to Spacetime, yet Einstein uses it to measure Spacetime" >}}
 
 
 ### The Einstein Trap

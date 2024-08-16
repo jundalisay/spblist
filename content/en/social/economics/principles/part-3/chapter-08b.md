@@ -266,7 +266,9 @@ This giant finance-bag* then matches:
 - the giant crises that have happened and
 - the giant debt-bag of governments that really must be paid by the people.
 
-> *The Nixon Shock created fiat which then gave power to commercial banking and then to development and investment banking, which are merely two sides of the same wealth-coin. This explains why they were very dominant from the '70s to the late '90s until their demise in the 1997 Asian Crisis and 2008 Financial Crisis.
+
+{{< f f="*The Nixon Shock created fiat which then gave power to commercial banking and then to development and investment banking, which are merely two sides of the same wealth-coin. This explains why they were very dominant from the '70s to the late '90s until their demise in the 1997 Asian Crisis and 2008 Financial Crisis." >}}
+
 
 
 

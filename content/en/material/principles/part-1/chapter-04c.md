@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4b"
+heading: "Chapter 4c"
 title: "The Creation of the Aethereal Universe"
 # date: 2020-01-31
 image: "/graphics/flipbook.gif"
@@ -7,7 +7,7 @@ description: "According to Physics, the universe was created through a Big Bang 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 28
 icon: /icons/spmat.png
 ---
 

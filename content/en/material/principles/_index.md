@@ -2,9 +2,11 @@
 title: "Material Superphysics Principles"
 linkTitle: "Principles"
 weight: 1
-subtitle: "We replace Einstein Physics and some aspects of Newtonian Physics"
+description: "Material Superphysics is based on the 5 Elements of Ancient Greece, India, and China"
 heading: From Socrates to Poincare
 image: "/covers/principles.png"
 type: "featured"
 # # date: 2020-10-31
 ---
+
+

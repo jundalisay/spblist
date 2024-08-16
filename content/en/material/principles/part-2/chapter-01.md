@@ -74,7 +74,7 @@ The spatial layer leads to spacetime and sets the speed of light, since it is su
 - Weak Force
 - Strong Force
 
-{{< img src="/graphics/physics/layers.jpg" alt="The 5 Layers" cap="The spatial layer holds the Physical Universe which is made up of Electromagnetism, Weak Force, and Strong Force" >}}
+{{< img src="/graphics/physics/layers.png" alt="The 5 Layers" cap="The spatial layer holds the Physical Universe which is made up of Electromagnetism, Weak Force, and Strong Force" >}}
 
 
 This layer gives the properties of size, space, timespan, and age of the universe and everything in it. 

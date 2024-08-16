@@ -35,11 +35,14 @@ Neoclassical Economics, as the commercial system, is unable to arrive at the rea
 
 The real value of things prevents our proposed system from crashing because [the ratio of values](/social/economics/principles/intro/chapter-04/) are maintained and not made absolute or constant as in the commercial system.
 
+
+### Replacing Nominal Value with Real Value
+
 We can restore these natural ratios by pulling down money from the supreme pedestal where it currently stands on, just as we by fixed Einstein's General Relativity by removing the constant speed of light `c`, and instead using the other qualities of the star or galaxy where it comes from.
 
 So in order to know a bread's "supereconomic" `G` or real value, we need to know what that bread was exchanged with, and not its money price. This chain of exchanges can then be backpropagated in order to know its relativistic value to other goods or services. 
 
-Once the relative value-motions of goods and services are known, then we can predict the demand for them and so arrange the supply ahead of time in order to address all the demand and achieve constant zero-inflation.
+Once the relative value-motions of goods and services are known, then we can predict the demand for them and so arrange the supply ahead of time in order to address all the demand and achieve constant zero-inflation. This feature is standard in our points-based economic system. 
 
 Economics, on the other hand, allows only money-purchases so that 1 bread is equal to 1 dollar, for example. But it has no idea of where that 1 dollar came from. 
 
@@ -47,7 +50,15 @@ Did it come from wages? Or from a sale of a tomato? Was it donated?
 
 If you use machine-learning to backpropagate all the transactions for bread, you will end up with a dollar price but still not know what that dollar price really represents since the data was never recorded.
 
-The best that they can do is apply stochastic calculus to create "algorithmic trading" and "dynamic stochastic general equilibrium" which have both caused crashes. Economists have no choice but to concede and say that price movements are mysterious, blaming "herd behavior", just as physicists say that gravitation is mysterious, pointing to wormholes that magically defy Physics.
+> If you use machine-learning to backpropagate all the transactions, you will end up with a dollar price without knowing what it really represents
+
+
+The best that they can do is apply stochastic calculus to create probabilistic "algorithmic trading" and "dynamic stochastic general equilibrium" which have both caused crashes. 
+
+Economists have no choice but to concede and say that price movements are mysterious, blaming "herd behavior", just as physicists say that quantum effects are mysterious, pointing to the Heisenberg uncertainty principle.
+
+> Economists have no choice but to concede that price movements are mysterious just as Physicists say quantum effects are mysterious
+
 
 {{< img src="https://sorasystem.sirv.com/cards/receipt.jpeg" cap="Commercial receipts just give the money value and has no information where that money value came from. This is the same problem that leads to tax avoidance and evasion, which then leads to budget deficits, weak governments, and subsequent instability." >}}
 
@@ -58,6 +69,8 @@ Our model on the other hand, follows Smith and the Physiocrats, and uses [grain-
 
 
 ## The Modern Economic Table
+
+{{< youtube r8g949AxUU0 >}}
 
 This bottom-up approach is exactly what Francois Quesnay had in mind when he created [the Economic Table](/social/economics/solutions/modern-economic-table) to list the exchanges of commodities and trace their final total value or contribution to the economy. 
 
@@ -71,8 +84,6 @@ The Modern Economic Table was invented by Francois Quesnay of the Physiocrats in
 {{< q a="Riqueti" c="Philosophie Rurale, 1763" >}}
 The third greatest invention of our time is the Economic Table.
 {{< /q >}}
-
-
 
 <!-- They say that it serves as data-driven proof of how real wealth is generated from agriculture and mining instead of from manufacturing and services which merely add value.
 
@@ -91,10 +102,9 @@ The inflation in Singapore from the global food crisis is proof that a zero-agri
 
 Like Adam Smith, the Physiocrats advocated productivity instead of luxury and idleness. This is why they advocated massive investment in agriculture and extraction in order to maximize the raw material output which is the basis for further processing and manufacturing.
 
-{{< q a="quesnay" >}}
+{{< q a="Quesnay" >}}
 We do not mean the small-scale cultivation carried on with oxen. This ungrateful cultivation reveals the poverty and ruin of the Nations where it prevails. It has nothing to do with the order of the Table.
 {{< /q >}}
-
 
 - While Economics supports the cause of merchants and money, the Physiocrats supported the cause of farmers and food. 
 - While Economics advocates liberalism so that money can circulate freely, Physiocracy, along with Smith, advocates the regulation of money-arbitrage which we call **secondary arbitrage**.
@@ -102,7 +112,7 @@ We do not mean the small-scale cultivation carried on with oxen. This ungrateful
 <!-- By using, the social cycles of Socrates, we can classify the modern economists as part of the oligarch class, and the Physiocrats as the democrat class. Adam Smith would be the aristocratic class of philosophers, while Communism would be the tyranny class which started out as the democrat class.
  -->
 
-{{< q a="quesnay" >}}
+{{< q a="Quesnay" >}}
 Maxim 7 Complete Circulation: Let the sum total of the revenues be annually returned into and along the entire course of circulation; let no money fortunes be accumulated
 Maxim 10 Revenue Expended in the Country: Let none of the revenue pass into the home of the stranger without return either in money or merchandise.
 

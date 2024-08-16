@@ -82,15 +82,13 @@ We find that these four laws match the four factors of our [DCIT model](/posts-p
  -->
 
 
-{{< mess >}}
-4/2017: added Economics value matrix
-
-8/2020: overhauled to match Superphysics
-
-7/2021: overhauled to base everything on the four laws
-
-2/2022: Added the four classes (Worker, Warrior, Philosopher, Merchant) onto the four laws
-
-3/2024: Put the 4th Law as the 2nd to explain the priorness of politics over economics, or Supersociology over Supereconomics
-{{< /mess >}}  
+{{< dc t="Updates" >}}
+Date | Update
+--- | ---
+4/2017 | added Economics value matrix
+8/2020 | overhauled to match Superphysics
+7/2021 | overhauled to base everything on the four laws
+2/2022 | Added the four classes (Worker, Warrior, Philosopher, Merchant) onto the four laws
+3/2024 | Put the 4th Law as the 2nd to explain the priorness of politics over economics, or Supersociology over Supereconomics
+{{< /dc >}}  
 

@@ -60,7 +60,7 @@ The proper confining mechanism, as mentioned earlier, is through gravity via spa
 > *Descartes calls Electromagnetism as the 1st Element
 
 
-{{< img src="/graphics/physics/layers.jpg" cap="Superphysics uses the five layers of aether, air, fire, water, and earth of the Greeks and Asians as aether, spatial, radiant, transformative, and material, or 水, 木, 火, 土, 金, respectively" alt="5 Layers of Superphysics" >}}
+{{< img src="/graphics/physics/layers.png" cap="Superphysics uses the five layers of aether, air, fire, water, and earth of the Greeks and Asians as aether, spatial, radiant, transformative, and material, or 水, 木, 火, 土, 金, respectively" alt="5 Layers of Superphysics" >}}
 
 
 Instead of confining the plasma with magnetic fields, they are confined with anti-gravity inside the reactor. This is done primarily by applying sound that matches [the gravitational signature](/material/solutions/gravitational-signatures) of deuterium and tritium. 

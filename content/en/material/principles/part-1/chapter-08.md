@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 5b"
+heading: "Chapter 8"
 title: "Unity or Disunity Instead of Order or Disorder"
 # date: 2023-12-10
-weight: 20
+weight: 46
 image: /graphics/gravrelm.png
 description: "The Quantum of Aether is divided into 3 groups"
 icon: /icons/spmat.png

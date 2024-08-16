@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "The Five Layers of Superphysics"
 # date: 2020-01-01
-image: "/graphics/physics/layers.jpg"
+image: "/graphics/physics/layers.png"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 writer:
   name: Juan
@@ -185,7 +185,7 @@ These are my lower Nature. Learn my higher Nature that produces this Universe by
 <!-- I am that womb. I make and I unmake this Universe. -->
 
 
-{{< img src="/graphics/physics/layers.jpg" alt="Five layers of Superphysics" cap="" >}}
+{{< img src="/graphics/physics/layers.png" alt="Five layers of Superphysics" cap="" >}}
 
 
 These layers are immediately implementable in healthcare. For example:

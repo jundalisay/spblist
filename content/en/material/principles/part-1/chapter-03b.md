@@ -7,7 +7,7 @@ description: "Supersymmetry was disproven by the Large Hadron Collider"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 12
 icon: /icons/spmat.png
 draft: true
 ---

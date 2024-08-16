@@ -257,7 +257,7 @@ This is different from Modern Economics which measures national wealth top-down 
 
 GDP makes it difficult to value goods and services during bubbles and hyperinflation as what happened in Zimbabwe. If a financial crisis hits a supereconomy*, the valuation can merely switch to the Grain index to keep the supply chain humming.
 
-> *An economy that follows Adam Smith's system
+{{< f f="*An economy that follows Adam Smith's system" >}}
 
 
 Under Economics, a country can theoretically have a single giant corporation exporting everything, having huge GDP while its workers starve to produce those exports at low cost. A GDP standard would still rate the starving country as wealthy. Countries even tweak their GDP numbers artificially to give an illusion that their economy is so good and their leaders are so effective.
@@ -285,8 +285,8 @@ Subjective Measures | Arbitrary, depending on think tank (Human Development inde
 Ease or Difficulty | Difficult, needs to get accounting of all output, and various data on well-being which are difficult to get | Easy, Survey the purchases done by a sample population, and get the prices of benchmark commmodities
 
 
-{{< me date="Jul 2021" >}}
-## So What's the Use of GDP in Supereconomics?
+{{< dc t="Update: July 2021" >}}
+#### So What's the Use of GDP in Supereconomics?
 
 Since GDP will no longer be the measure of wealth, it becomes a measure of **the velocity of an economy** or how fast the economy is going, or whether it is going forward of backward. It is an important part of [the DCTI tool](/social/economics/principles/part-4/chapter-07) in the absence of a direct way to get the Purchasing power of everyone.
-{{< /me >}}
+{{< /dc >}}

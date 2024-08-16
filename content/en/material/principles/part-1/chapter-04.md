@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4e"
+heading: "Chapter 4"
 title: "Positive and Negative Polarity"
 # date: 2023-12-10
 image: /photos/physics/light.jpg

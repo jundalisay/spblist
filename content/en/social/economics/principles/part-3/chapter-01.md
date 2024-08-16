@@ -28,8 +28,8 @@ This mirrors the First Law of Thermodynamics, known as the law of conservation o
 
 ![Fourth Law](/graphics/econ/law4.jpg)
 
-> *In Bio Superphysics, this manifests as the transference of properties to the body of whatever is affecting health. In Supersociology, this is the feelings of members of society affecting other members. 
-
+{{< f f="*In Bio Superphysics, this manifests as the transference of properties to the body of whatever is affecting health. In Supersociology, this is the feelings of members of society affecting other members." >}}
+ 
 
 Exchange exists in both Economics and Superphysics. The latter, however, allows more mediums of exchange as fiat, barter, and points. 
 

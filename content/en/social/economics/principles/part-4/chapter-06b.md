@@ -16,13 +16,13 @@ icon: /icons/pantry.png
 
 True economic development needs a proper energy policy to make it sustainable.
 
-At the moment, the energy policies of most countries follow the Capitalist market model from the 1990s* which enshrines shareholder reutrns. 
+At the moment, the energy policies of most countries follow the Capitalist market model from the 1990s which enshrines shareholder reutrns. 
 
 <!-- The recent high energy prices in Europe has exposed the flaws of the market-model of energy which was adopted .  -->
 
 
 {{< box >}}
-## *The Flaw of the Market Model
+### The Flaw of the Market Model
 
 The market model was caused by 'Reaganomics' of the 1980s shifting policy into corporate stocks in order to solve the 1970's stagflation. 
 
@@ -78,9 +78,9 @@ Good examples of the direct management of government in energy are:
 
 The difference between privatized and state-run energy is evident in the difference between the energy situation of France and that of Germany which follows the free market model. 
 
-To get into the profitable utilities business, investors usually highlight how massively indebted state-owned utilities are. They hide the fact that **being under massive debts is the nature of such utilities**.* 
+To get into the profitable utilities business, investors usually highlight how massively indebted state-owned utilities are. They hide the fact that **being under massive debts is the nature of such utilities**. 
 
-> *This is mirrored by the fact that parents are often get into debt in order to fund the education and upkeep of their children. The reverse of this is to make money from one's children by using them as child labor and neglecting their education. Nationalization does the former, while privatization does the latter. 
+{{< f f="This is mirrored by the fact that parents are often get into debt in order to fund the education and upkeep of their children. The reverse of this is to make money from one's children by using them as child labor and neglecting their education. Nationalization does the former, while privatization does the latter." >}}
 
 
 State-run energy systems have some variations:
@@ -88,10 +88,8 @@ State-run energy systems have some variations:
 - In the French system, the government has control, as a majority stake, in energy production and transmission, allowing the rest to be privately held
 - In Singapore, Vietnam, and China, the government owns everything. This leads to low energy prices because the government is supposed to be not-for-profit. This allows energy, as the base of the modern economy, to be really inclusive, as the people paying to maintain each other* 
 
-> *State-run utilities are maintained by subsidies which are sourced from taxes from everyone. In privatized utilities, the system is reversed: people pay to maintain the lifestyle of the rich investors.
 
-
-
+{{< f f="*State-run utilities are maintained by subsidies which are sourced from taxes from everyone. In privatized utilities, the system is reversed: people pay to maintain the lifestyle of the rich investors." >}}
 
 
 
@@ -130,7 +128,8 @@ We can call this a "social corporation" or "social conglomerate" as opposed to a
 - "Corporation" emphasizes the share distribution
 - "Conglomerate*" emphasizes vertical and horizontal integration to reduce costs instead of raising profits. 
 
-> *Conglomerate comes from Latin glomerare "form into a ball"
+
+{{< f f="*Conglomerate comes from Latin glomerare 'form into a ball'" >}}
 
 
 Such measures will reduce the cash strain and make capital improvements cheaper, without sacrificing quality. This hybrid system works well for single land masses like France, China, and Vietnam especially after nuclear fusion is realized. Lastly, it is more or less politically agnostic. 
@@ -143,7 +142,7 @@ But what about archipelagos where each island is like a feudal kingdom?
 For isolated areas, micro-grids can be established in a cooperative basis, as a branch of the social corporation*.  
 
 
-> *The social security provided by the social corporation is an important incentive to encourage engineers to go to difficult areas
+{{< f f="*The social security provided by the social corporation is an important incentive to encourage engineers to go to difficult areas" >}}
 
 
 Micro-grids are not connected to the main grid and must be completely self-sustaining. They can be seeded by long term barter debt by the rural community, paying in crops or fish*, until they can learn to maintain the system themselves. The reduction in the cost of solar panels makes such grids more and more viable. 
@@ -151,7 +150,7 @@ Micro-grids are not connected to the main grid and must be completely self-susta
 This also spurs the local industry of the community. It will then be the job of either the social corporation or the local government to find a market for those community products.
 
 
-> *Microgrids will allow refrigeration which will make economic storage and trade of crops and fish viable
+{{< f f="*Microgrids will allow refrigeration which will make economic storage and trade of crops and fish viable" >}}
 
 
 ### The Vision of Fusion
@@ -203,7 +202,7 @@ A corollary reform is to allow majority ownership of Small Power Utilities (SPUs
 
 The WESM* infrastructure can be used by the ERC to predict future shocks and bid electricity 6 months ahead of time. This transfers the burden from WESM onto the ERC
 
-> *This is a junk idea borrowed from the California energy market which caused the Enron scandal
+{{< f f="*This is a junk idea borrowed from the California energy market which caused the Enron scandal" >}}
 
 
 4. **Transfer the burden of SPUGs to the local governments**, with NAPOCOR, ERC, and the Department of Environment and Natural Resources (DENR) as oversight. 

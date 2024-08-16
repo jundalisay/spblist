@@ -18,9 +18,7 @@ aliases:
 
 ## The Natural Price
 
-The **natural price** is the lowest common real price* from all sellers over time, from the seller's perspective. 
-
-> *Real price will be discussed in the next chapter.
+The **natural price** is the lowest common real price from all sellers over time, from the seller's perspective. 
 
 
 This assumes that:
@@ -61,7 +59,7 @@ The market price..is regulated by the proportion between the quantity..actually 
 <!-- ![Fourth law definition](/graphics/law4.png) -->
 <!-- ![4](https://sorasystem.sirv.com/graphics/4.png) -->
 
-In Superphysics, the balance between market and natural prices is checked through a grain index which compares the prices of commodities relative to the common grain eaten by the people. 
+In Supereconomics, the balance between market and natural prices is checked through a grain index which compares the prices of commodities relative to the common grain eaten by the people. 
 
 Even without a grain index, people will naturally feel the imbalance in the economy and start to protest if the increase in market prices no longer keep their ratio to the natural prices. Such an unnatural increase would occur if there were:
 

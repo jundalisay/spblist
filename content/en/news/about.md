@@ -23,7 +23,7 @@ So Adam Smith is such an evil guy for causing so much trouble, right?
 By reading Adam Smith's works, we saw that he actually advocated the strict regulation of banking, comparing it to [the building of firewalls in order to prevent the spread of fire](/research/smith/wealth-of-nations/book-2/chapter-2m/). Greenspan was really citing Samuelson and neoliberal writers who preferred selfish-interest over social interest.
 
 After concluding that Greenspan and Samuelson were the bad guys, Smith logically became the good guy to us. 
-- Smith explained the concept of dharma as the [invisible hand](/social/economics/invisible-hand/), and cited David Hume heavily in his works
+- Smith explained the concept of dharma as the [invisible hand](/social/economics/invisible-hand/), and cited David Hume heavily in his works. Shallow people interpret his "self-interest" as **selfishness**, whereas we interpret it as **personal passion** or *svadharma* in line with Socrates, Hinduism, and Taoism
 - Hume agreed with Descartes, and cited Plato
 - Descartes' aether is from Plato
 - Plato wrote about Socrates
@@ -97,7 +97,7 @@ Source | Patterned after *A Treatise of Human Nature Book 1* | Patterned after B
 Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare. Thus turns the physicist into a superphysicist  | This is divided into Human, Animal, and Plant. Thus turns the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist and a sociologist and lawmaker into a supersociologist and superlawmaker. |  -->
 
 
-{{< img src="/graphics/physics/layers.jpg" alt="The 5 Elements" cap="Fundamental to Superphysics is the Classical 5 Elements which we rename as aethereal, spatial, radiant, convertible, and material. It is based on the mysterious, invisible-but-everywhere Aether (the spooky Actor from a distance). It avoids being stuck with oh-so-obvious-but-limited Matter" >}}
+{{< img src="/graphics/physics/layers.png" alt="The 5 Elements" cap="Fundamental to Superphysics is the Classical 5 Elements which we rename as aethereal, spatial, radiant, convertible, and material. It is based on the mysterious, invisible-but-everywhere Aether (the spooky Actor from a distance). It avoids being stuck with oh-so-obvious-but-limited Matter" >}}
 
 
 Materialists would say that all of this is pseudo-science. We would rather say it's Superphysics or [Socratic Dialectics](/superphysics/principles/chapter-11).

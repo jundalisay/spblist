@@ -55,11 +55,18 @@ Adam Smith classified the mentality of societies as either savage, barbaric, or 
 
 He called savage and barbaric ones as rude:
 
-> A rude society has more variety in individual occupations. but less variety when all occupations are taken together. Every man does almost everything which any other man does. Every man has a considerable degree of knowledge, ingenuity, and invention, but no one has a great degree of them. What they have is sufficient only for conducting the simple business of society.
+
+{{< q a="Smith" c="Wealth of Nations Book 5, Chapter 1" >}}
+A rude society has more variety in individual occupations. but less variety when all occupations are taken together. Every man does almost everything which any other man does. Every man has a considerable degree of knowledge, ingenuity, and invention, but no one has a great degree of them. What they have is sufficient only for conducting the simple business of society.
+{{< /q >}}
+
 
 He calls an advanced society as civilized:
 
-> In a civilized state, on the contrary, there is little variety in individual occupations. But there is an almost infinite variety in all the occupations taken together. A few people are not attached to a particular occupation. They have leisure and inclination to examine the occupations of other people. These varied occupations lets them think of an almost infinite variety of objects. This thinking then exercises their minds in endless comparisons and combinations. It renders their understandings extraordinarily acute and comprehensive. Unless those few were placed in very particular situations, their great, honourable abilities may contribute very little for their society's happiness. All the nobler parts of the human character may be extinguished in the people.
+{{< q a="Smith" c="Wealth of Nations Book 5, Chapter 1" >}}
+In a civilized state, on the contrary, there is little variety in individual occupations. But there is an almost infinite variety in all the occupations taken together. A few people are not attached to a particular occupation. They have leisure and inclination to examine the occupations of other people. These varied occupations lets them think of an almost infinite variety of objects. This thinking then exercises their minds in endless comparisons and combinations. It renders their understandings extraordinarily acute and comprehensive. Unless those few were placed in very particular situations, their great, honourable abilities may contribute very little for their society's happiness. All the nobler parts of the human character may be extinguished in the people.
+{{< /q >}}
+
 
 There are differences in the dynamics of a society in a 'rude' or backward state and those of a society in an advanced state.
 - Liberal policies work best in advanced, rich countries
@@ -87,7 +94,8 @@ Since the interests of merchants are usually opposite that of society, the gover
 
 In today's world, the merchant class dominates and is free to remove its capital anytime. When China opened up, American companies left the US, leaving a lot of Americans unemployed. 
 
-> Update October 2023: After China's government tightened its grip during Covid, foreign companies also left China and moved elsewhere, such as to Vietnam.  
+{{< u d="October 2023" u="After China's government tightened its grip during Covid, foreign companies also left China and moved elsewhere, such as to Vietnam." >}}
+  
 
 {{< q a="Smith" c="The Wealth of Nations Simplified, Book 3" >}}
 A merchant is not the citizen of any particular country.He is indifferent on from where he carries on his trade. He will remove his capital and all the industry it supports, from one country to another with very little disgust. No part of it can belong to any particular country, till it has been spread in that country, in buildings or in the improvement of lands.

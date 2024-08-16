@@ -162,11 +162,27 @@ By directing that industry to produce the greatest value, he intends only his ow
 {{< /q >}}
 
 
+### No to External Micromanagement, Nor Internal Selfishness
+
 Since we replaced selfish-interest with personal passion, we can safely edit the phrase below:
 
 {{< q a="Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
 **By pursuing his** ~~own interest~~ **personal passion**, he frequently promotes the society's interest more effectively than when he really intends to promote it. I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants. Very few words can be used to dissuade them from it.
 {{< /q >}}
+
+It is very important to note that personal interests should always be in line with the common interest: 
+
+{{< q a="Adam-Smith" c="Theory of Moral Sentiments Simplified, Part 6, Chapter 2" >}}
+Every individual is continually exerting himself to find out the most advantageous employment for whatever capital he can command. It is his own advantage which he has in view [svadharma or personal interest], and not that of the society. But the study of his own advantage **naturally leads him to prefer that employment which is most advantageous to society** [human dharma or common interest].
+
+That wisdom which contrived the system of human affections and that of every other part of nature, seems to have judged that the interest of the great society of mankind [human dharma or common interest] would be best promoted by directing the principal attention of each individual to what was most within the sphere of his abilities and understanding [svadharma or personal interest].
+{{< /q >}}
+
+{{< q a="Adam-Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
+Every individual can, in his local situation [svadharma or personal interest], judge much better than any statesman on what domestic industry his capital produce the greatest value. The statesman who directs private people how they should employ their capitals would load himself with a most unnecessary attention.
+{{< /q >}}
+
+> Personal interests should be in line with the common interest
 
 
 {{< i s="/photos/econ/singer.jpg" a="Singer" c="People passionate in singing should pursue singing and earn better revenue from inferior singers" >}}

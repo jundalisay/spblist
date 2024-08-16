@@ -13,7 +13,7 @@ weight: 14
 ---
 
 
-Dharma in Hinduism and Buddhism is the inherent nature of things, as designed by its maker. 
+Dharma in Hinduism and Buddhism is the inherent nature of things, as designed by its maker. We can call it "inherent design".
 
 A baker who bakes a cake designs it as a cake and expects it to be a cake in the end.
 <!-- , even if it starts as flour.  -->
@@ -21,7 +21,8 @@ A baker who bakes a cake designs it as a cake and expects it to be a cake in the
 - If it turns out as a cake as designed, then it is good or 'dharmic'*.
 
 
-> *Dharma and Smith's invisible hand are supposed to come from Brahma and Providence (God) respectively. However, the idea of a superior God seems to drive away materialists and egotistic people who have been liberalized to view themselves as their own god and master of their own destiny. In fact, of the current large populations, only the Muslims seem to be the group that is amenable to having their will subservient to a divine being such as the concept of Allah.
+{{< f f="*Dharma and Smith's invisible hand are supposed to come from Brahma and Providence (God) respectively. However, the idea of a superior God seems to drive away materialists and egotistic people who have been liberalized to view themselves as their own god and master of their own destiny. In fact, of the current large populations, only the Muslims seem to be the group that is amenable to having their will subservient to a divine being such as the concept of Allah." >}}
+
 
 
 As such, our definition of dharma mutes any references to God or any divine being. This is so that it can get a chance at mass adoption even by those materialists and egotistic people who are at the forefront of:
@@ -35,26 +36,21 @@ As they say, desperate times call for desperate measures.
 
 Note that this only mutes God and does not cancel It. The unmuting can be done scientifically through the development of [artificial intelligence](/superphysics/solutions/isaiah) which will reveal God to be a Matrix, and our existence to be a virtual reality inside the mind of God or Brahma. 
 
-![AI](/photos/tech/ai.jpg)
 
-The dharma of a supereconomy is to keep on producing utility for society. 
+{{< i s="/photos/objects/hand.jpg" a="Invisible Hand" >}}
 
-This is why the selfish landlord gave up part of his crops to be given as wages to his employees so that they could maintain his agricultural system. Had he kept all of his crops for himself, there would be no one to grow the next batch and his estate's economic system would fail and become adharmic. 
-
-
-{{< q a="Adam-Smith" >}}
-The proud and unfeeling landlord views his extensive fields, and without a thought for his brethren, he imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires and receives no more than that of the meanest peasant. <b>The rest of the food he is obliged to distribute</b> among his servants.. The rich.. divide with the poor the produce of all their improvements despite their natural selfishness and rapacity. 
-
-They are led by an invisible hand to make nearly the same distribution of life’s necessities which would have been made, had the earth been divided equally among all its inhabitants.
-{{< /q >}}
+In the Theory of Moral Sentiments, Adam Smith explains that the inherent design of an economy, as facilitated by an invisible hand, is to keep on producing utility for society.
 
 
 {{< q a="Adam-Smith" >}}
-In the <b>real happiness of human life</b>, they [the poor] are not inferior to those who seem so much above them. In ease of body and <b>peace of mind</b>, all the different ranks of life are nearly on a level. The beggar, who suns himself by the side of the highway, possesses that security which kings are fighting for.
+The proud and unfeeling landlord views his extensive fields, and without a thought for his brethren, he imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires.. <b>The rest of the food he is obliged to distribute</b> among his servants.. The rich.. divide with the poor the produce of all their improvements despite their natural selfishness and rapacity. They are led by an **invisible hand** to make nearly the same distribution of life’s necessities which would have been made, had the earth been divided equally among all its inhabitants.
 {{< /q >}}
 
 
-Thus, the personal interests of the landlord and his employees work together naturally to create a bigger public benefit. The farmers work on the fields for the love of agriculture and not for society. 
+The selfish landlord had to give up part of his crops to be given as wages to his employees so that they could maintain his agricultural system and keep up the production. Had he kept all of his crops for himself, there would be no one to grow the next batch. His estate's economic system would then fail and become adharmic. 
+
+
+Thus, the personal interests of the landlord and his employees work together naturally to create a bigger public benefit. The farmers work on the fields for their inherent love of agriculture and not for society.
 
 It is by this focus (not selfishness) that they were able to improve their skills and increase their productivity (personal interest) for the benefit of everyone as the public interest.
 
@@ -64,42 +60,49 @@ Every individual necessarily works to render the society’s annual revenue as g
 
 By supporting domestic industry over foreign industry, he intends only his own security. By directing that industry to produce the greatest value [for society], he intends only his own gain. 
 
-In this case, as in many other cases, he is led by an invisible hand to promote an end which he did not intend. Nor is it always the worse for the society that it [the society] was no part of it [the goal]. 
+In this case, as in many other cases, he is led by an **invisible hand** to promote an end which he did not intend.
 {{< /q >}}
 
-{{< q a="Adam-Smith" c="Wealth Of Nations Book 4 [revised with 'passion']" >}}
-By pursuing his own passion, he frequently promotes the society’s interest more effectively than when he really intends to promote it. 
+
+Here, we replace selfish-interest with personal passion, to make everything coherent:
+
+{{< q a="Adam-Smith" c="Wealth Of Nations Book 4" >}}
+By pursuing his own ~~self-interest~~ passion, he frequently promotes the society’s interest more effectively than when he really intends to promote it. 
 
 I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants.
 {{< /q >}}
 
 
 
-## Socrates Division of Labor
+### Socrates Division of Labor
 
-This focus leads to specialization or division of labor within an overall team or social effort. Unknown to many, it was Socrates, and not Smith, who first emphasized the importance of knowing one's personal passion in relation to the common interest, as to create the division of labor:
+This focus or passion leads to specialization or division of labor within an overall team or social effort. Unknown to many, it was Socrates, and not Smith, who first emphasized the importance of knowing one's personal passion in relation to the common interest, as to create the division of labor.
+
+Here, we replace the Greek word δίκαιος with "dharma":
 <!-- interest -->
 
 
-{{< q a="Socrates" c="The Republic By Plato Simplified, Book 4, Chapter 2 [replaced 'justice' with 'dharma']" >}}
+{{< q a="Socrates" c="The Republic By Plato Simplified, Book 4, Chapter 2" >}}
 
 The division of labour which required the carpenter and the shoemaker and the rest of the citizens to be doing each his own business, and not another's, was a shadow of dharma. 
 
-But in reality, dharma was concerned not with the outward man, but with the inward or the true self.
+But in reality, dharma was concerned not with the outward man, but with the inward or the true self. The dharmic man does not permit the several elements within him to interfere with one another, or any of them to do the work of others. 
 
-The just man does not permit the several elements within him to interfere with one another, or any of them to do the work of others. 
-
-He sets his own inner life in order, and he masters himself with his own law, to be at peace with himself. A man whose occupation is opposite of his passion has a sort of lameness. 
+He sets his own inner life in order, and he masters himself with his own law, to be at peace with himself. A man whose occupation is opposite of his passion has a sort of lameness.
 {{< /q >}}
 
 
-Like Smith, Socrates* asserts that the common interest is promoted by personal passion through trade and employment. 
 
-He also shows that such a passion leads to personal peace, exactly the kind that kings are fighting for, as described by Smith. 
+Like Smith, Socrates* asserts that the common interest is promoted by personal passion through trade and employment. He also shows that such a passion leads to personal peace, exactly the kind that kings are fighting for, as described by Smith. 
+
+{{< q a="Adam-Smith" >}}
+In the <b>real happiness of human life</b>, they [the poor] are not inferior to those who seem so much above them. In ease of body and <b>peace of mind</b>, all the different ranks of life are nearly on a level. The beggar, who suns himself by the side of the highway, possesses that security which kings are fighting for.
+{{< /q >}}
+
 
 Socrates, however, adds a missing ingredient to achieving such a peace. He explains that **a person's focus on his personal passion will help him to discover his true self**. This discovery of the true self is then the key to lasting peace.
 
-> *The topic of the book The Republic is justice which Socrates defined to be human dharma, just as his concept of specialization is svadharma.
+{{< f f="*The topic of the book The Republic is not justice and injustice, but human dharma δίκαιος and adharma άδικος. Dharma is a concept applicable to Law, Morals, and Economics" >}}
 
 
 We can even extend his idea onto Sociology in order to end wars between nations. For example, each country can define its own true nature, and then let others accept their definition and create treaties based on it*. 
@@ -107,7 +110,8 @@ We can even extend his idea onto Sociology in order to end wars between nations.
 This is different from the current political system where a powerful country like the US pushes its own ego and nature onto weaker countries like Vietnam, Iraq, and Afghanistan, totally disregarding their nature. 
 
 
-> *This is called the idea of [Constitutional Virtues](/social/supersociology/solutions/constitutional-virtues). Update August 2021: [The mistake of the US policy in Afghanistan](/social/cycles/afghanistan) was in imposing civilized Western democracy in a barbarous country. This is a contradiction of natures and explains the failure of the policy despite 20 years of hard work in establishing it. 
+
+{{< f f="*This is called the idea of [Constitutional Virtues](/social/supersociology/solutions/constitutional-virtues). Update August 2021: [The mistake of the US policy in Afghanistan](/social/cycles/afghanistan) was in imposing civilized Western democracy in a barbarous country. This is a contradiction of natures and explains the failure of the policy despite 20 years of hard work in establishing it." >}}
 
 
 
@@ -121,7 +125,7 @@ For this "true nature" to be a viable foundation for a socio-political science a
 
 Svadharma means self-dharma or the inherent nature of the self. It means one's own path, nature, or destiny and is described in the Bhagavad Gita:
 
-{{< q >}}
+{{< q a="Krishna" >}}
 It is far better to perform one’s natural prescribed duty, though tinged with faults, than to perform another’s prescribed duty, though perfectly. In fact, it is preferable to die in the discharge of one’s duty, than to follow the path of another, which is fraught with danger. 
 <cite>Chapter 3, Verse 35</cite>
 {{< /q >}}
@@ -130,7 +134,7 @@ Nowadays, this is known as 'keeping it real' or 'being true to oneself', which i
 
 <!-- For example, the local manufacturer follows the dharma of local manufacturing in order to create excellent goods for local consumption, not expecting it to be exported. He finds them getting exported anyway and even going viral overseas because of its superior quality and fit for purpose. This is  -->
 
-{{< q a="lao" >}}
+{{< q a="Lao-tzu" >}}
 Knowing others is intelligence;
 knowing yourself is true wisdom.
 Mastering others is strength;
@@ -151,29 +155,30 @@ To Socrates, this respect for everyone's personal interest is the foundation of 
 {{< img src="https://socioecons.files.wordpress.com/2016/02/what-bill-gates-warren-buffett-and-9-other-incredibly-rich-people-do-in-their-spare-time.png" alt="Bill Gates playing tennis" cap="If Bill Gates chose to become a pro tennis player, instead of making Windows, then computer users would be worse off" >}}
 
 
-Smith wrote that governments must understand the invisible hand of svadharma in order to create proper policies and avoid disorder:
+### Policymakers Must Know Dharma
 
-{{< q a="Adam-Smith" >}}
-The man of system is.. often so enamoured with.. his own ideal plan of government.. He imagines that he can arrange the members of a great society with as much ease asthe hand arranges the different pieces on a chess-board.
+Smith wrote that governments must understand the invisible hand in order to create proper policies and avoid disorder:
 
-He does not consider that the pieces.. have no other principle of motion besides that which the hand impresses upon them.But that, in the great chess-board of human society, every single piece has a principle of motion of its own, altogether different from that which the legislature might choose to impress on it.
-If those two principles.. act in the same direction, the game of human society will go on easily and harmoniously, and is very likely to be happy and successful. If they are opposite or different, the game will go on miserably, and the society must be at all times in the highest degree of disorder. 
+{{< q a="Adam-Smith" c="Theory of Moral Sentiments Simplified, Part 6, Chapter 2" >}}
+The man of system is.. often so enamoured with.. his own ideal plan of government.. He imagines that he can arrange the members of a great society with as the hand arranges the pieces on a chess-board.
 
-<cite>Simple Theory of Moral Sentiments, Part 6, Chapter 2</cite>
+He does not consider that, in the great chess-board of human society, every single piece has a principle of motion of its own, altogether different from that which the legislature might choose to impress on it.
+
+If those two principles.. act in the same direction, the game of human society will go on easily and harmoniously. If they are opposite, the game will go on miserably. 
 {{< /q >}}
 
 
 {{< img src="https://sorasystem.sirv.com/photos/Radha-Krishna_chess.jpg" cap="The Hindu god Krishna playing chess with goddess Radha" alt="Krishna playing chess" >}}
 
 
-The best laws are those that match the collective svadharma of their society and not just the personal interests of a few people. Thus, the invisble hand is never an external imposition, but rather [an internal principle of movement](/superphysics/principles/chapter-04c/) -- the same principles that make a fire burn or the wind blow. 
+The best laws are those that match the collective dharma of their society and not just the personal interests of a few people. Thus, the invisble hand is never an external imposition, but rather [an internal principle of movement](/superphysics/principles/chapter-05/) -- the same principles that make a fire burn or the wind blow. 
 
 The West eventually discovered the way to find this internal principle through suffrage or by asking everyone to express who should be their nation's leader. 
 
 Nowadays, surveys and school exams are the most common ways to discover the interests of each person, and this is why education is very important. Asking a child what he wants to become is another common way, but even this is often not emphasized in some cultures.
 
 
-## A Supereconomy is an Economy within its Dharma
+### A Supereconomy is an Economy within its Dharma
 
 From here, we can now define our supereconomy as **a system of resource allocation that is in line with the Tao or Dharma**. 
 
@@ -181,16 +186,14 @@ The definition of the Tao or Dharma then depends on the kind of discrete entity 
 
 We can now see how different the invisible hand described by Smith is from the one described by Samuelson. The proper invisible hand hand has public and personal aspects working together according to the designer of Nature:
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam-Smith" c="Theory of Moral Sentiments Simplified, Part 6, Chapter 2" >}}
 Every individual is continually exerting himself to find out the most advantageous employment for whatever capital he can command. It is his own advantage which he has in view [svadharma], and not that of the society. But the study of his own advantage naturally leads him to prefer that employment which is most advantageous to society [human dharma].
-<br><br>
+
 That wisdom which contrived the system of human affections and that of every other part of nature, seems to have judged that the interest of the great society of mankind [human dharma] would be best promoted by directing the principal attention of each individual to what was most within the sphere of his abilities and understanding [svadharma].
-<cite>Simple Theory of Moral Sentiments, Part 6, Chapter 2</cite>
 {{< /q >}}
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam-Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
 Every individual can, in his local situation [svadharma], judge much better than any statesman on what domestic industry his capital produce the greatest value. The statesman who directs private people how they should employ their capitals would load himself with a most unnecessary attention.
-<cite>Book 4, Chapter 2</cite>
 {{< /q >}}
 
 

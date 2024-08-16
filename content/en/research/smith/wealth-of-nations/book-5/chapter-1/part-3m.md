@@ -77,7 +77,7 @@ The plentiful supply was a great advantage and conveniency to the public.
 
 All the extraordinary demand that competition could bring was just a drop of water in the immense ocean of Indian commerce.
 
-**"The increase of demand though in the beginning it may sometimes raise the price of goods, never fails to lower it in the run."**
+**"The increase of demand though in the beginning it may sometimes raise the price of goods, never fails to lower it in the long run."**
 - It encourages production and increases the competition of the producers.
 - Those producers turn to new divisions of labour and improvements never thought of in order to undersell one another.
 - The company complained of:
