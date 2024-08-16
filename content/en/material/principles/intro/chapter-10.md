@@ -8,7 +8,7 @@ description: "Instead of a Big Bang, the universe began as a Big Bootup"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 36
+weight: 46
 # was 04
 icon: /icons/spmat.png
 aliases:

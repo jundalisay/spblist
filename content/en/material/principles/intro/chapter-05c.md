@@ -38,7 +38,7 @@ This rule is the basis for:
 - Gravity pushing object down objects 
 
 {{< dc t="Note" >}}
-This is in Part 2, Proposition 7 of Spinoza's Principles of Cartesian Philosophy
+This is in Part 2, Proposition 7 of Spinoza's Principles of Cartesian Philosophy, and inferred from Principia, Part 2, Article 33
 {{< /dc >}}
 
 
