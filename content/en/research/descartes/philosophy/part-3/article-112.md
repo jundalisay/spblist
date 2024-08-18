@@ -1,8 +1,8 @@
 ---
-title: "The Appearance and Disappearance of Stars"
+title: "The Gradual Disappearance of Stars"
 heading: Articles 109-115
 weight: 53
-description: "This effort found in celestial matter"
+description: "Stars disappear when they get spots"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -18,6 +18,9 @@ icon: "/icons/descartes.png"
 
 <!-- rarefied -->
 If this spot becomes so thin and decompressed that it dissolves due to the fire-aether spreading over its outer surface, `Star I` will not easily disappear again afterward. 
+
+{{< i s="/graphics/physics/sunspot.jpg" a="Sunspot" >}}
+
 
 For this to occur, a new spot would need to envelop it completely again. 
 
@@ -71,7 +74,7 @@ Thus, when all celestial vortices are in a certain equilibrium, the matter of on
 
 
 
-#### 115. The Possibility of the Entire Vortex Containing a Star Being Destroyed
+#### 115. The possibility of the entire vortex containing a star being destroyed
 
 It is also possible for the entire vortex containing such a fixed star to be absorbed by surrounding vortices. Its star can be taken into one of these vortices and transformed into a planet or comet. 
 
@@ -79,7 +82,7 @@ Only 2 causes prevent vortices from being destroyed by others:
 
 1. One cause, which consists in the matter of one vortex being impeded by the presence of neighboring vortices from spreading towards another, does not apply universally.
 
-For example, if the air-aether of `Vortex S` is pressed on both sides by `Vortex L` and `N` to prevent it from proceeding further towards `D`, it cannot similarly be prevented by vortex D from spreading towards L and N, nor by any others except those closest to it in proportion to their size. Therefore, it does not apply to the very closest vortices. 
+For example, if the air-aether of vortex `S` is pressed on both sides by vortex `L` and `N` to prevent it from proceeding further towards `D`, it cannot similarly be prevented by vortex `D` from spreading towards L and N, nor by any others except those closest to it in proportion to their size. Therefore, it does not apply to the very closest vortices. 
 
 2. The other cause, which is that the matter of the first element forming the star in the center of each vortex repels the globules of the second element surrounding it towards other neighboring vortices, applies to all those vortices whose stars are not enveloped by spots. 
 

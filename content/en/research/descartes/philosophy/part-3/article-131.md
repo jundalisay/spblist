@@ -86,7 +86,8 @@ White bodies are best suited for for reflecting rays. Just as black ones are the
  <!-- ones, and none less so than black ones. -->
 
 
-3. The rarer part of the comet is less suitable for motion.
+<!-- rarer -->
+3. The decompressed part of the comet is less suitable for motion.
 
 This is why it should always be on the concave side of the curved line described by the comet's motion, according to the laws of mechanics.
 
@@ -94,11 +95,12 @@ This concave side always faces the center of the vortex where the comet is locat
 
 This causes the comet to turn when passing from one vortex to another, just as we see the feathered part of arrows flying through the air always lower when ascending and higher when descending.
 
-Finally, many other reasons could be given why comets are not visible to us unless they pass through our sky: the suitability of a body to reflect rays depends on very small details. 
+There are many other reasons why comets are not visible to us unless they pass through our sky.
+- The suitability of a body to reflect rays depends on very small details. 
 
 We do not have enough experiments for such specific effects. In such cases, plausible causes should suffice even if they are not necessarily true*.
 
 
-{{< n n="This is the ideological advantage of Cartesian Physics over Newwtonian Physics. All its principles are based on mutually-consistent analogies that are not necessarily true. We use the same analogy-system when we compare the Universe to a virtual reality in a computer. Of course, there is no CPU behind reality. But this analogy connects the patterns that  humans understand, with the actual causal patterns from the Supreme Entity. From our human-based analogies, we can make predictions that hold true. If they don't then we refine the analogy. Descartes has done this to create an unified analogy system that stretches from Physics to Medicine and Psychology. Spinoza then extended this further to the realm of Politics and Spirituality." >}}
+{{< n n="*This is the ideological advantage of Cartesian Physics over Newwtonian Physics. All its principles are based on mutually-consistent analogies that are not necessarily true. We use the same analogy-system when we compare the Universe to a virtual reality in a computer. Of course, there is no CPU behind reality. But this analogy connects the patterns that  humans understand, with the actual causal patterns from the Supreme Entity. From our human-based analogies, we can make predictions that hold true. If they don't then we refine the analogy. Descartes has done this to create an unified analogy system that stretches from Physics to Medicine and Psychology. Spinoza then extended this further to the realm of Politics and Spirituality." >}}
 
 

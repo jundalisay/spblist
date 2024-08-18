@@ -12,26 +12,34 @@ icon: "/icons/descartes.png"
 
 
 
-
-#### 72. How the [electromagnetic] fire-aether that composes the Sun moves.
+<!-- [electromagnetic]  -->
+#### 72. How the fire-aether that composes the Sun moves.
 
 <!-- It is worth considering a bit more carefully  -->
 
 How does it move in the space `defg`? 
 
-The part of it that comes from `A` travels straight to `d`, where it encounters the air-aether globules and propels them towards `B`.
+- The part of it that comes from `A` travels straight to `d`
+  - There it encounters the air-aether globules that propel it towards `B`.
+- The part that comes from `B` travels straight to `f`
+  - There it encounters the air-aether globules, which propel  towards `A`. 
 
-Similarly, another part that comes from `B` travels straight to `f`, where it encounters the air-aether globules, which it propels towards `A`. 
+{{< i s="/graphics/physics/sun.jpg" a="Sun poles" c="We update Descartes' drawing with current model of the sun's magnetic field" >}}
+
 
 Immediately, both the part that is at `d` and the part that is at `f` reflect in all directions towards the disk `eg`, pushing all the surrounding air-aether globules equally.
 
 Finally, it escapes through the passages between these globules around the disk `eg`, towards `M` and `Y`. 
 
-Moreover, the fire-aether moves straight from `A` and `B` towards `d` and `f` its own motion. But it also moves circularly by the motion of the whole vortex around the axis `AB` so that each of its particles describes spiral lines, twisted as a helix. 
+The fire-aether moves straight from `A` towards `d` and from `B` towards `f` using its own motion.
+
+But it also moves circularly by the motion of the whole vortex around the axis `AB` so that each of its particles describes spiral lines, twisted as a helix.
 
 These spirals, when they reach `d` and `f`, reflect from there in both directions towards the disk `eg`. 
 
-Since the space `defg` is larger than the passages through which the fire-aether enters or exits, some fire-aether always remains there. They form a very fluid body that perpetually rotates around the axis `fd`.*
+The space `defg` is larger than the passages through which the fire-aether enters or exits.
+- This is why some fire-aether always remains there.
+- They form a very fluid body that perpetually rotates around the axis `fd`.*
 
 {{< n n="This is the magnetic field of the star" >}}
 
@@ -40,54 +48,89 @@ Since the space `defg` is larger than the passages through which the fire-aether
 
 This body must be spherical. 
 
-Although, due to the inequality of vortices, it should not be thought that an entirely equal amount of the first element’s matter is supplied towards `S` from the nearby vortices of one pole and from those of the other pole.
+The vortices are all unequal. 
+- Not an equal amount of fire-aether from the nearby vortices is supplied towards `S` through both poles.
+- The vortices `L` and `K` are not positioned to send that fire-aether into directly opposite parts of the sun. 
+ <!-- of one pole and from those of the other pole. -->
+- The vortices `C` and `O` do not have the same diameter to admit the fire-aether exiting from the sun with equal ease.
 
-Nor that these vortices are so positioned as to send that fire-aether into directly opposite parts; nor that other vortices, touching the first heaven towards its ecliptic, view a specific circle of it that could be considered the ecliptic in the same way, and admit the matter exiting from S through all parts of that circle and nearby parts with equal ease.
+<!-- ; nor that other vortices, touching the first heaven towards its ecliptic, view a specific circle of it that could be considered the ecliptic in the same way, and admit the matter exiting from S through all parts of that circle and nearby parts . -->
 
-Nonetheless, no inequalities in the shape of the Sun can be inferred from this, only in its position, motion, and quantity. 
+These inequalities contribute to variations in the position, motion, and quantity of the fire-aether in the sun. 
+- But they do not change the sun's shape. 
 
-For instance, if the force of the first element's matter coming from pole `A` towards `S` is greater than that coming from pole `B`, that matter, before being repelled by the encounter with the other, will advance further towards B than the other towards A.
+ <!-- in the shape of the Sun can be inferred from this, only in its .  -->
 
-But by advancing further, its force will diminish; and according to the laws of nature, both will eventually repel each other at the place where their forces are completely equal, and there they will form the body of the Sun: which will therefore be farther from pole A than from pole B. 
+For instance, assume that the force of the fire-aether coming from pole `A` towards `S` is greater than that coming from pole `B`.
 
-However, the air-aether globules will not be repelled with greater force in part d of its circumference than in part f, and therefore this circumference will not be less round. 
+{{< i s="/graphics/physics/sposition.jpg" a="Sun poles position" c="The sun's relative position between the other stars are not fixed because there are many changes in their position and energies. This is why the sun flips its magnetic poles every 11 years.">}}
 
+This will make the A-based-fire-aether advance further towards `B` than the B-based-fire-aether advances towards `A`.
+- But by advancing further, the force of the A-based-fire-aether will diminish.
+
+According to the laws of nature, both will eventually repel each other where their forces are completely equal. This location of equality is where the sun's body will be.
+
+Therefore, this will move the sun to be farther from pole A.
+
+But this inequality will not make the sun less round. This is because the air-aether globules will not be repelled with greater force in part `d` of its circumference than in part `f`.
+
+ 
 Likewise, if the fire-aether exits more easily from `S` towards `O` than towards `C` (finding more free space there), the body `S` will move somewhat towards `O`. 
+- By reducing the space in between, they will finally be positioned where the force is equal on both sides. 
 
-By reducing the space in between, they will finally be positioned where the force is equal on both sides. 
+Therefore, even if we consider only the 4 vortices `L, C, K, O`, as long as we suppose them to be unequal, it follows that the Sun `S` should neither be in the middle space between `O` and `C` nor in the middle between `L` and `K`. 
 
-Therefore, even if we consider only the 4 vortices L, C, K, O, as long as we suppose them to be unequal, it follows that the Sun `S` should neither be in the middle space between `O` and `C` nor in the middle between `L` and `K`. 
-
-Even greater inequality in its position can be understood from the fact that several other vortices surround it.
+Even a greater inequality in its position is caused by the other vortices that surround it.
 
 
-#### 74. Various irregularities in the motion of its matter.
+#### 74. Various irregularities in the motion of its fire-aether.
 
 The fire-aether coming from the vortices `K` and `L` does not move towards `S` in as straight lines as towards some other parts.
 
-For example, the part coming from `K` towards `e`, and the part from L towards g, it will cause the poles fd, around which all the matter of the Sun rotates, not to be in straight lines drawn from K and L to S, but the southern pole f to approach more towards e and the northern pole d towards g.
+All of the sun's fire-aether rotates around pole `fd`.
 
-Likewise, if the straight line SM, through which the fire-aether most easily exits from S towards C, passes through a point of the circumference fed closer to point d than point f; and the line SY, through which this matter mainly tends from S towards O, passes through a point of the circumference fgd closer to point f than point d; 
+The external fire-aether has 2 sources:
+- the part coming from `K` that moves towards `e`
+- the part from `L` that moves towards `g`
 
-It will cause the Sun's ecliptic eg, or the plane in which its matter moves describing the largest circle, to tilt a bit more from the part e towards pole d than towards pole f, but not as much as the straight line SM.
+{{< i s="/graphics/physics/suntilt.jpg" a="Sun Tilts" >}}
 
-From part `g`, it will tilt more towards `f` than towards `d`, but also not as much as the straight line `SY`. 
+These will cause the poles `fd` to tilt:
+- The pole `f` will tilt more towards `e`
+ <!-- not to be in straight lines drawn from `K` and `L` to S, but the southern pole f to approach more towards e and  -->
+- The northern pole `d` will tilt towards `g`.
 
-Hence, the axis around which all the matter of the Sun rotates, with its ends being the poles `fd`, will not be a perfectly straight line but somewhat curved or bent.
+The sun's fire-aether most easily exits from `S`:
+- towards `C` via straight line `SM`
+- towards `O` via straight line `SY`
 
-The matter will rotate slightly faster between `e` and `d`, or between `f` and `g`, than between `e` and `f`, or `d` and `g`.
+<!--  passes through a point of the circumference fed closer to point d than point f; 
 
-Perhaps it will not rotate with completely equal speed between e and d, and between f and g.
+ the line SY, through which this matter mainly tends from S towards O, passes through a point of the circumference fgd closer to point f than point d;  -->
+
+<!-- , or the plane in which its matter moves describing the largest circle, -->
+This will cause the Sun's ecliptic `eg`:
+- to tilt a bit more from `e` towards pole `d` than towards pole `f`, but not as much as the straight line `SM`.
+- to tilt a bit more from `g` towards pole `f` than towards pole `d`, but also not as much as the straight line `SY`.
+
+<!-- From part `g`, it will ,   -->
+
+Hence, the axis `fd` around which the Sun's fire-aether rotates, will be somewhat bent.
+
+The fire-aether will rotate slightly faster between `e` and `d`, or between `f` and `g`, than between `e` and `f`, or `d` and `g`.
+
+Perhaps it will not rotate with completely equal speed between `e` and `d`, and between `f` and `g`.
 
 
 #### 75. These irregularities do not prevent it from being round.
 
 This, however, cannot prevent the body from being nearly round. This is because its other motion from the poles towards the ecliptic, compensates for these irregularities.
 
-This is the same as a glass flask becoming round solely because air is introduced into its molten matter through a metal tube by fire. It is because this air, not moving with greater force from the flask's opening to its bottom than being reflected in all other directions, and pushing all those parts equally easily.
+This is the same as a glass flask becoming round solely because air is introduced into its molten matter through a metal tube by fire. 
+- This air moves with the same force from the flask's opening to its bottom and all other directions, pushing all those parts equally easily.
 
-Likewise, the fire-aether enters the Sun's body through its poles. 
+ <!-- than being reflected in  -->
 
-It must repel all the surrounding air-aether globules equally on all sides. 
-
-It repels not less those into which it is only obliquely reflected, than those into which it directly strikes.
+Likewise, the fire-aether enters the Sun's body through its poles.
+- It repels all the surrounding air-aether globules equally on all sides. 
+- It repels equally those air-aether into which it is only obliquely reflected and those which it directly strikes.

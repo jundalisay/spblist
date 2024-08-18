@@ -1,8 +1,8 @@
 ---
-title: "The Appearance and Disappearance of Stars"
+title: "The Sudden Appearance of Stars"
 heading: Articles 109-115
 weight: 52
-description: "This effort found in celestial matter"
+description: "Sunspots can hide entire stars"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -14,9 +14,11 @@ icon: "/icons/descartes.png"
 {{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 109. The Presence of Intersecting Channels in the Spots
+#### 109. The presence of intersecting channels in the spots
 
 The remaining air-aether contained in space `I`, while rotating around the axis `fd`, always tries to move away from it. 
+
+{{< i s="/graphics/physics/sunspot.jpg" a="Sunspot" >}}
 
 Therefore, it initially formed and always preserves certain small channels in the spot `defg`, which intersect the primary ones and allow some of this matter to flow out. 
 
@@ -28,7 +30,7 @@ Consequently, the quantity of the fire-aether's matter contained in star `I` mus
 
 
 
-#### 110. Why Light from a Star Can Hardly Pass Through a Spot
+#### 110. Why light from a star can hardly pass through a spot
 
 Therefore, the force that constitutes light can be either entirely absent in it or very weak.
 
@@ -50,7 +52,7 @@ This vortex may dominate over other nearby vortices by pressing them more strong
 
 Consequently, `Star I` increases, except that the spot `defg` surrounding it prevents this. 
 
-Let the circumference of `Vortex I` be AYBM.
+Let the circumference of `Vortex I` be `AYBM`.
 
 Its globules near this circumference have the same force to proceed beyond it towards other surrounding vortices, just as the globules of those other vortices have to proceed towards `I`. This is the only reason why its circumference ends here rather than elsewhere.
 

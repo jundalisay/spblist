@@ -19,29 +19,29 @@ Conversely, it flows out from the center to other surrounding vortices through p
 
 <!-- first heaven -->
 For example, `AYBM` is the vortex of the Territory 1 with the Sun at the center. 
-
-Its southern pole is A.
-
-Its northern pole is B.
+- Its southern pole is `A`.
+- Its northern pole is `B`.
 
 The whole territory rotates around that axis. 
 
-The four surrounding vortices KOLC rotate around the axes TT, YY, ZZ, and MM, such that it touches:
-- O and C at their poles
-- K and L, far from their poles
+{{< i s="/graphics/physics/sun.jpg" a="Sun poles" c="We update Descartes' drawing with current model of the sun's magnetic field" >}}
 
-All the air-aether in Territory 1 strives to recede from the axis `AB`. Thus, they tend more forcefully towards edges `Y` and `M` than towards `A` and `B`. 
+The four surrounding vortices `KOLC` rotate around the axes `TT, YY, ZZ`, and `MM`, such that it touches:
+- `O` and `C` at their poles
+- `K` and `L`, far from their poles
 
-This is because the pole of Vortex O at Y and the pole of Vortex C at M have the least resistance to the air-aether of Territory 1. 
+All the air-aether in Territory 1 strives to move away from the axis `AB`. Thus, they tend more forcefully towards edges `Y` and `M` than towards `A` and `B`. 
 
-This is also why the air-aether in Vortex K and L moves towards `S` because:
-- the pole at A offers the least resistance to K
-- the pole at B offers the least resistance to L
+This is because the pole of Vortex `O` at `Y` and the pole of Vortex `C` at `M` have the least resistance to the air-aether of Territory 1. 
+
+This is also why the air-aether in Vortex `K` and `L` moves towards `S`:
+- The pole at `A` offers the least resistance to `K`.
+- The pole at `B` offers the least resistance to `L`.
 <!-- , where there is not much resistance. -->
 
 <!-- It encounters the parts of vortices K and L at A and B, which are farthest from their poles and thus have a greater force moving from L and K towards S than the polar parts of vortex S have to move towards L and K,  -->
 
-This is also why the air-aether in Vortex `S` moves towards Vortex O and C.
+This is also why the air-aether in Vortex `S` moves towards Vortex `O` and `C`.
 
 
 #### 70. The same is not true for the Air-Aether
@@ -50,28 +50,30 @@ This would also apply to the air-aether if no specific causes hindered its movem
 
 However, the agitation of the fire-aether is much swifter than that of the air-aether.
 
-The fire-aether always can pass freely through those small angles that the air-aether globules cannot occupy even if we assumed that all the matter, both of the fire-aether and air-aether, in `Vortex L` began to move towards `S` at the same time from the midpoint between the `Center S` and `L`. 
+The fire-aether always can pass freely through those small angles that the air-aether globules cannot occupy.
+- This is even if both the fire-aether and air-aether in `Vortex L` began to move towards `S` at the same time from the midpoint between the `Center S` and `L`.
 
 <!-- we would understand that -->
 
 The fire-aether would have reached `Center S` faster than the air-aether. 
 
 The fire-aether thus enters the `Space S`. It pushes the air-aether globules with such force:
-- towards the ecliptic eg or MY
-- especially towards the poles fd or AB.
+- towards the ecliptic `eg` or `MY`
+- especially towards the poles `fd` or `AB`.
 
-Thus, it prevents those coming from `Vortex L` from approaching `S` more closely than up to a certain limit, which is marked by letter `B`. The same must be judged for `Vortex K` and all others.
+Thus, it prevents those coming from `Vortex L`//- from approaching `S` more closely than up to a certain limit, which is marked by letter `B`. The same must be judged for `Vortex K` and all others.
 
 
 #### 71. The reason for this difference
 
 The air-aether revolving around the `Center L` has the force to move away from `L` but also to maintain their speed.
 
-These two forces somewhat conflict with each other. While they rotate in `Vortex L`, they are confined by other vortices around it.
+These two forces somewhat conflict with each other.
+- While they rotate in `Vortex L`, they are confined by other vortices around it.
 
  <!-- , which are to be understood above and below the plane of this figure.  -->
 
-They cannot move towards `B` without slowing down between `L` and `B` compared to their speed between `L` and other nearby vortices, understood to be outside the plane of this figure.
+They cannot move towards `B` without slowing down between `L` and `B` compared to their speed between `L` and other nearby vortices, understood to be outside the plane of this drawing.
 
 The greater the distance `LB`, the slower they will move.
 
@@ -100,6 +102,6 @@ This is because not all are in the same plane, nor can I determine their true po
 
 The fire-aether also flows out of `S` towards Vortex `O`, `C`, and many others.
 
- whose position, size, and number I do not define; nor do 
+ <!-- whose position, size, and number I do not define; nor do  -->
 
- I do not know whether the fire-aether that leaves Vortex `O` and `C`, immediately goes to Vortex `K` and `L` or rather diverges to many other vortices farther from Territory 1 before completing its cycle.
+I do not know whether the fire-aether that leaves Vortex `O` and `C` immediately goes to Vortex `K` and `L` or diverges to many other vortices farther from Territory 1 before completing its cycle.

@@ -48,7 +48,7 @@ It cannot help but have greater force to continue its motion along the straight 
 
 But as soon as it reaches point `C`, it encounters the air-aether moving more swiftly*. This increases its speed and diverts it from the [pink] straight line which is a tangent to that disk. 
 
-{{< n n="This is the Outer Area which is faster than the Middle Area" >}}
+{{< n n="This is the Outer Area which is supposed to be faster than the Middle Area, but in reality (because of modern data) is not" >}}
 
 
 This makes it go to `Curve C2`. `Star N` will come closer to the tangent line:

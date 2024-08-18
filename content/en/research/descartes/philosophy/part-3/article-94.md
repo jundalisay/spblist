@@ -10,42 +10,44 @@ image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
 ---
 
+{{< n n="We replaced 'striated particles' with virtual photons">}}
+
 
 #### 94. How spots are generated on the surface of the sun or stars
 
-When this fire-aether reaches the body of the Sun or star, all its most agitated minute parts are not obstructed by the air-aether's globules. And so, they strive to move similarly: 
+When this fire-aether reaches the body of the Sun or star, all its most agitated minute parts are not obstructed by the air-aether's globules. And so, they strive to move similarly.
 
-Hence, the striated ones, as well as many others slightly smaller, which due to their too angular shapes or too great mass avoid such agitation. 
+The virtual photons, as well as many others slightly smaller, avoid such agitation because they have:
+- too much mass, or
+- too angular shapes. 
 
 These are separated from the smallest ones. 
 
-They easily stick together due to the inequality of their shapes, sometimes form very large masses.
+They then easily stick together due to the inequality of their shapes. Sometimes, they form very large masses.
 
-These masses are contiguous to the inner surface of the sky, adhere to the star from which they emerged.
+These masses are contiguous to the inner surface of the sky, and adhere to the star from which they emerged.
 
-There, they resist the force of light.
-
-They resemble those sun spots.
+There, they resist the force of light and resemble those sun spots.
 
  <!-- that are often seen on the surface of the Sun.  -->
 
 This is similar heated water and liquids emitting dense foam made of particles of a different nature and less suited for motion. These float on their surface with very irregular and changeable shapes.
 
-Thus, the matter of the Sun boils from both poles toward the equator.
+Thus, the fire-aether of the Sun boils from both poles towards the equator.
 <!-- ecliptic.  -->
 
-These must expel its striated particles and all others that easily stick to each other and hardly obey its common motion, just like foam.
+These must expel its virtual photons and all others that easily stick to each other and hardly obey its common motion, just like foam.
 
 
 #### 95. Understanding the principal properties of these spots
 
-This is why Sunspots:
+This is why sunspots:
 - usually do not appear around its poles but rather in parts near the ecliptic
 - have very varied and uncertain shapes
 - move in orbit around the Sun’s poles, if not as quickly as its substance, at least along with the part of the sky closest to it.
 
 
-#### 96. How These Spots Dissolve and New Ones Are Generated
+#### 96. How these spots dissolve and new ones are generated
 
 Most liquids reabsorb the same foam which they initially emit while boiling longer.
 
@@ -66,20 +68,22 @@ The entire surface of the Sun, except for the circumpolar regions, is usually co
 But the spots exist only where that matter is so dense and compact that it weakens the light coming from the Sun.
 
 
-#### 97. Why Rainbow Colors Appear at the Extremity of Some Spots
+#### 97. Why rainbow colors appear at the extremity of some spots
 
-When these spots are thicker and denser they are worn down first at their circumference rather than in the middle, by the purer matter of the Sun flowing around them.
+When these spots are thicker and denser, they are worn down first at their circumference rather than in the middle, by the purer fire-aether of the Sun flowing around them.
 
-Thus, the ends of their circumference, tapering to a point, become permeable to its light: hence, they must be painted there with the colors of the rainbow, as I explained earlier about the glass prism in Meteors, chapter 8. 
+Thus, the ends of their circumference, tapering to a point, become permeable to its light. 
+
+Hence, they must be painted there with the colors of the rainbow, as I explained earlier about the glass prism in Meteors, chapter 8. 
 
 Such colors are sometimes observed in them.
 
 
-#### 98. How Spots Turn into Faculae or Vice Versa
+#### 98. How spots turn into faculae or vice versa
 
-The Sun's matter flows around these spots, rising above their extremities.
+The Sun's fire-aether flows around these spots, rising above their extremities.
 
-Then, being intercepted between them and the surface of the nearby sky, it is compelled to move more swiftly than usual.
+Then, being intercepted between them and the surface of the nearby sky, it is compelled to move faster than usual.
 
 This is similar to how rapids in rivers are always greater in shallow and narrow places than in wide and deep ones.
 
@@ -87,19 +91,38 @@ Hence, the Sun's light there must be stronger.
 
 Thus, spots are often converted into faculae -- parts of the solar surface, which were previously darker than others, later become brighter.
 
-And vice versa, faculae are seen to turn into spots, when these are submerged in the more subtle matter of the Sun on one side, while a large amount of new matter attaches to them on the other side.
+Vice versa, faculae are seen to turn into spots, when these are submerged in the more subtle matter of the Sun on one side, while a large amount of new matter attaches to them on the other side.
 
 
-#### 99. Into What Particles the Spots Dissolve
+#### 99. Into what particles the spots dissolve
 
 When these spots dissolve, they do not turn into minutiae exactly similar to those from which they were formed. 
 
-Instead, they partly transform into thinner and simultaneously more solid particles, or those with less angular shapes, which are more suited for motion and therefore easily move through the channels between the globules of the surrounding sky towards other vortices. 
+Instead, they partly transform into:
 
-Partly, they transform into extremely thin particles that are either worn off from other angles or are converted into the pure substance of the Sun, or even go towards the sky. 
+1. Thinner and simultaneously more solid particles, or those with less angular shapes.
 
-Lastly, some transform into thicker particles composed of several striped or other particles joined together, which are expelled towards the sky.
+These are more suited for motion and therefore easily move through the channels between the globules of the surrounding sky towards other vortices.
+
+{{< n n="These match neutrinos" >}}
+
+
+2. Extremely thin particles
+
+These are either:
+- worn off from other angles or
+- are converted into the pure substance of the Sun
+- even go towards the sky. 
+
+{{< n n="These are photons" >}}
+
+
+3. Thicker particles composed of several striated [virtual photons] or other particles joined together
+
+These are expelled towards the sky.
 
 These are too large to pass through the narrow channels left by the air-aether globules.
 
 They even penetrate the spaces among these globules and, due to their very irregular and branched shapes, cannot move as easily as those globules.
+
+{{< n n="These are virtual photons and electrons that go into the solar wind" >}}
