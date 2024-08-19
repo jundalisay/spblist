@@ -64,7 +64,7 @@ The air-aether that causes gravity is made up of:
 
 <!-- Furthermore, it includes those terrestrial particles that, following its course, move faster than others, such as all those composing the air.  -->
 
-**The fire-aether, all else being equal, has a greater force to push downward on terrestrial bodies than the air-aether globules  because it has more agitation.** *
+**The fire-aether, all else being equal, has a greater force to push downward on terrestrial bodies than the air-aether globules because it has more agitation.** *
 
 {{< n n="This is explains why gravity is weaker than magnetism. This is important in creating artificial gravity" >}}
 
@@ -80,8 +80,8 @@ Hence, gravity alone cannot easily estimate how much earth-aether is in each bod
 Rank of Force Strength | Element 
 --- | ---
 1 | Electromagnetism
-2 | Spacetime
-3 | Matter
+2 | Spacetime (gravity)
+3 | Matter (air or ground resistance)
 {{< /box >}}
 
 
@@ -105,7 +105,7 @@ In every motion there is a cycle of bodies moving together.
 
 **No body is carried downward by its own weight unless at the same moment another body, equal in size and less in weight, is carried upward.** 
 
-This is why the lower drops of liquid in a vessel, , are not pressed by the upper ones.
+This is why the lower drops of liquid in a vessel, are not pressed by the upper ones.
 
 The individual parts of the bottom are also not pressed except by the same number of drops as rest directly above them.
 
