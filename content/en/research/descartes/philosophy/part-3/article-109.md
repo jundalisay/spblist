@@ -43,7 +43,7 @@ Similarly, the force exerted by its virtual photons moving straight from one pol
 
 
 
-#### 111. Description of a Star Appearing Suddenly
+#### 111. Description of a star appearing suddenly
 
 <!-- celestial matter -->
 The air-aether in the entire vortex surrounding `Star I` can retain its forces for some time, even though these forces may not be enough to produce the sensation of light in our eyes. 

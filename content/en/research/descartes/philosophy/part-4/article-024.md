@@ -2,7 +2,7 @@
 title: "The Effect of Gravity on Bodies"
 heading: Articles 24-27
 weight: 8
-description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
+description: "The force of gravity does not correspond to the quantity of matter in each body"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -55,10 +55,10 @@ a mass of gold weighs twenty times more than an equal volume of water, it does n
 
 The air-aether that causes gravity is made up of:
 - the air-aether
-- the air-aether that is mixed with the fire-aether
-- the air-aether in the earth-aether in the physical air*
+- the air-aether that is mixed with the fire-aether*
+- the air-aether in the earth-aether in the physical air**
 
-{{< n n="Only this part is removed when a body falls in a vacuum" >}}
+{{< n n="<ul><li>*This is seen in the Galileo 5 and 6 satellites which are disturbed from their orbits by the light from the sun</li><li>**Only this part is removed when a body falls in a vacuum</li></ul>" >}}
 
  <!-- terrestrial particles which follow its course and move more quickly than the others -->
 
@@ -101,7 +101,7 @@ Additionally, in the water itself, as in all other liquid bodies, there is buoya
 
 #### 26. Why bodies do not gravitate in their natural places
 
-In every motion there is a cycle of bodies moving together. 
+<!-- In every motion there is a cycle of bodies moving together. 
 
 **No body is carried downward by its own weight unless at the same moment another body, equal in size and less in weight, is carried upward.** 
 
@@ -113,19 +113,28 @@ For example, in the vessel `ABC`, the drop of water at 1 is not pressed by the o
 
 However, these drops 1234, with their combined force, press on the part of the bottom at B; because if they cause it to descend, they will also descend, and in their place, parts of the air at 89, which are lighter than them, will ascend. 
 
-But only the drops `1234` press on bottom `B`. This is because at the moment, this part B can descend, no more can follow it. From this, it is very easy to explain countless experiments about the weight of bodies, or rather, if one may so speak, gravity, which seem miraculous to those who reason poorly.
+But only the drops `1234` press on bottom `B`. This is because at the moment, this part B can descend, no more can follow it. From this, it is very easy to explain countless experiments about the weight of bodies, or rather, if one may so speak, gravity, which seem miraculous to those who reason poorly. -->
 
 
----
+
+<!-- For example, in AT VIII-1, 216, in vessel ABC, water drop 1 is not pressed by the others 234 existing above it, 
+
+because if this were to descend, other drops 567 or similar ones should ascend in their place; which, being equally heavy, prevent their descent. However, these drops 1234, with their combined forces, press down on the part of the bottom B; because, if they were to cause it to descend, they would descend themselves, and in their place, the lighter air parts 89, which are lighter than them, would ascend. But the same part of the vessel B is not pressed by more drops than these 1234, or others equivalent to them; because at the moment when this part B can descend, no more can follow it. And hence, countless experiments on the gravity of bodies, or rather, if one may speak so, gravitation, which seem strange to those who philosophize poorly, can be easily explained. -->
+
+There is a circular motion in every movement of bodies that move together*. 
+
+{{< n n="This is Descartes-Spinoza Rule 3 of Motion" >}}
 
 
-There is a circular motion in every movement of bodies that move together. 
+**No body falls due to its gravity unless, at the same moment, another body of equal size and less gravity rises.** *
 
-No body falls due to its gravity unless, at the same moment, another body of equal size and less gravity rises. 
+{{< n n="This is Descartes-Spinoza Rule 1 of Motion" >}}
 
-This is why, in vessels no matter how deep and wide:
-- the lower parts of liquids do not press against those above
-- the particles of the bottom do not press above unless they are opposed by as many droplets vertically above them. 
+
+This is why, in a vessel, no matter how deep and wide:
+- the lower parts of water are only pressed by the ones directly above them
+<!-- not pressed by the upper ones -->
+- the parts of the bottom are only pressed by those water vertically above them. 
 
 For example, in vessel `ABC`, the drop of water `1` is not pressed by the drops `2, 3, 4` above it. 
 
@@ -134,8 +143,6 @@ For example, in vessel `ABC`, the drop of water `1` is not pressed by the drops 
 This is because, if they were to fall, other drops like `5, 6, 7` would have to ascend in their place. 
 
 Since these are equally heavy, they prevent the descent of drops `2, 3, 4`. 
-
-
 
 However, these drops `1, 2, 3, 4`, by joining forces, press against the particles of bottom `B`. This is because, if they cause `B` to descend, they themselves will also descend. 
 
@@ -149,10 +156,15 @@ But the same part `B` of the vessel is not pressed by more drops than these `1, 
 
 #### 27. Gravity causes bodies to descend toward the center of the Earth
 
-The air-aether particles are simultaneously agitated by many different motions. Yet all their actions conspire together and are balanced, opposing one another.
+The air-aether particles are simultaneously agitated by many different motions. Yet all their actions conspire together and are balanced, opposing some more than others.
 
 **Only the mass of the Earth obstructs their movements.** 
 
-**They tend equally to move away from the Earth in all directions, as if removed from its center, unless some external cause introduces a difference.** 
+**This is why they tend equally to move away from the Earth's mass in all directions, as if removed from its center, unless some external cause introduces a difference.** 
 
 Such external causes can be conceived. But whether their effect is significant enough to be perceived by the senses, I have not yet discovered.
+
+<!-- XXVII. Gravity tends to depress bodies towards the center of the Earth. Finally, it should be noted that although the particles of celestial matter are moved by many different motions at the same time, all their actions nevertheless conspire together, and as if to be in balance,
+
+they oppose some to others, so that solely because the mass of the Earth resists their motion with its presence, they tend equally in all directions to remove themselves from its vicinity, and as if from its center; unless perhaps some external cause establishes diversity in this matter. Elzevier, p. 204 Several such causes can be imagined; but whether their effects are so great as to be perceived, is not yet known to me.\
+ -->

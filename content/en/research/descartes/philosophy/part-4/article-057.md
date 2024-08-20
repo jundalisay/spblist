@@ -1,5 +1,5 @@
 ---
-title: "The nature of the Earth's interior"
+title: "The Nature of the Earth's interior"
 heading: Articles 57-63
 weight: 18
 description: "The Earth's interior is so dense that the air-aether globules do not carry them away but make them heavy by pressing downward"

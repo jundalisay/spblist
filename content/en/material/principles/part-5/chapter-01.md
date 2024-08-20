@@ -34,7 +34,9 @@ According to science, iron ore is made of 'elements', specifically as `Fe` which
 
 Instead of elements, Superphysics refers to the 'elements'* as 'versions'. Thus, there are 118 versions of matter which are simply 118 versions of energy in the material layer. 
 
->  'Matter' is rooted on 'mother' in Latin, while 'Element' is based on 'rudiment'  
+
+{{< n n="'Matter' is rooted on 'mother' in Latin, while 'Element' is based on 'rudiment'" >}}
+  
 
 In terms of creation, this layer is the final layer in the journey of dynamic energy and entropy towards stasis and is where mind is at its most dormant state.
 

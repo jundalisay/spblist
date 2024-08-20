@@ -64,17 +64,17 @@ Target Output | Automated Natural Intelligence (ANI) for predicting health issue
 {{< /dc >}}
 
 {{< dc t="Supersociology (click to expand)" >}}
-Supersociology implements the principles of Superphysics to solve chronic problems in economy, politics, and society
+Supersociology implements the principles of Superphysics to solve chronic problems in politics and society.
 
 What | Details
 --- | --- 
-Basic Goal | Replace current Sociology with Socrates-Ibn Khaldun
+Basic Goal | Replace current Sociology with Socrates and Ibn Khaldun
 Target Output | Confirmation Elections, Constitutional Virtues, World Constitution, National Constitution Template for a unified political system, Automated Natural Intelligence (ANI) for predicting social cycles 
 {{< /dc >}}
 
 
 {{< dc t="Supereconomics (click to expand)" >}}
-Supereconomics implements the principles of Superphysics to solve chronic problems in economy, politics, and society
+Supereconomics implements the principles of Superphysics to solve chronic problems in the economy, business, and labor.
 
 What | Details
 --- | --- 

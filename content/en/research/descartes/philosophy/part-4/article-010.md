@@ -2,7 +2,7 @@
 title: "The Matter of the Earth"
 heading: Articles 10-14
 weight: 4
-description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
+description: "How were the various bodies in Region 3 formed?"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -29,11 +29,10 @@ This was to be expected because they:
 
 #### 11. The air-aether globules were initially smaller, the closer to the Earth's center 
 
-The globules closer to the Earth's center, mixed with the Earth-aether particles, were slightly smaller than thse farther away. 
+The globules closer to the Earth's center, mixed with the Earth-aether particles, were slightly smaller than those farther away. 
 
  <!-- upper ones: in the same way as shown above. -->
-
-Those near the Sun gradually become smaller as they are closer to it.
+- This is similar to how the air-aether near the Sun gradually become smaller as they are closer to that center.
 
 All these globules were not larger than those found around the Sun within Mercury's orbit. 
 
@@ -62,7 +61,9 @@ The larger and more solid earth-aether particles revolved uniformly around the E
 
 The more solid and thicker the particle was, the more it was driven towards the center by the surrounding air-aether globules.
 
-But the more solid particles could not always extricate themselves from the less solid ones in order to descend below them. 
+**But the more solid particles could not always extricate themselves from the less solid ones in order to descend below them.** *
+
+{{< n n="Is it because it was already so dense?" >}} 
 
 Instead, they often retained the same order they had obtained when they were first formed, having smaller and thinner particles below them.
 

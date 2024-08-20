@@ -14,6 +14,7 @@ toc: false
 ---
 
 
+{{< n n="This uses our Modified Periodic Table of Elements, explained in Part 5">}}
 
 Part 3 explained that particles can have a male or female charge which replace the negative and positive charges of Physics. 
 
@@ -29,11 +30,11 @@ Sodium Chloride e11e17 eleven-seventeen -->
 
 A base emits male charge (electron in Physics) or absorbs a female charge. 
 
-An example is Sodium Hydroxide (NaOH) which we notate as `m11,m08,m01`. 
+An example is Sodium Hydroxide (NaOH) which we notate as `e11_e08_e01`. 
 
-It disolves in water `2m01,m08` to form:
-- `m11(1som)`
-- `m08,m01(1sor)`
+It disolves in water `2e01_e08` to form:
+- `e11(1som)`
+- `e08_e01(1sor)`
 
 The resulting sor (electron) cancels out the existing som (proton). This then raises the pH of water.
 
@@ -44,9 +45,9 @@ The resulting sor (electron) cancels out the existing som (proton). This then ra
 
 An acid emits a female charge (proton in Physics) or absorbs a male charge. 
 
-An example is Hydrochloric acid (m01,m17) which dissociates in water into:
-- `m01(1som)`
-- `m17(1sor)`
+An example is Hydrochloric acid (e01_e17) which dissociates in water into:
+- `e01(1som)`
+- `e17(1sor)`
 
 This reacts with dissociated Sodium hydroxide `m11(1som)` and `m08,m01(1sor)` to create salt and water.
 
@@ -54,11 +55,10 @@ This reacts with dissociated Sodium hydroxide `m11(1som)` and `m08,m01(1sor)` to
 
 Molecule | Component 1 | Component 2
 --- | --- | --- 
-Sodium Hydroxide | m11(1som) | m08,m01(1sor)
-Hydrochloric acid | m17(1sor)  | m01(1som)
+Sodium Hydroxide | e11(1som) | e08,e01(1sor)
+Hydrochloric acid | e17(1sor)  | e01(1som)
 = | = | =  
-Result | m11,m17() or NaCl()  | 2m01,m08() or H2O()
-
+Result | e11_e17() or NaCl()  | 2e01_e08() or H2O()
 
 
 Acids and Bases are extremely important in the physical aspects of Bio Superphysics since living things, especially humans, are mostly made up of water. 

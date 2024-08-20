@@ -2,7 +2,7 @@
 title: "The 3 Regions of the Earth"
 heading: Articles 6-9
 weight: 3
-description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
+description: "The particles of the earth-aether in Region 3 are quite large"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

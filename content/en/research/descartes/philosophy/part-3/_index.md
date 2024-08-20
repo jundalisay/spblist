@@ -1,10 +1,9 @@
 ---
-title: "The Visible World"
+title: "The Principles of the Visible World"
 heading: "Part 3"
-linkTitle: Part 3
 # date: 2022-01-29
 weight: 12
-description: "The Principles Of Material Things"
+description: "This part talks about the principles of macro-phenomena such as heavvenly bodies"
 image: "/covers/philos.jpg"
 ---
 

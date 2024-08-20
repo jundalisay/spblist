@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 9"
-title: "Cartesian Relativity"
-# date: 2022-01-03
+title: "Cartesian Relationality"
+# date: 2022-01-03 ~~Relativity~~
 image: /graphics/physics/urel.png
 description: "We replace Einstein's Relativity with Poincare's Law of Relativity as an implementation of Cartesian Relativity"
 writer:
@@ -10,7 +10,6 @@ writer:
 weight: 38
 icon: /icons/spmat.png
 ---
-
 
 
 {{< youtube klka8xfvMDY >}}

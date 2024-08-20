@@ -32,6 +32,8 @@ The continuous agitation of the air-aether globules is so great that it carries:
 - the Earth around the sun in a year
 - things in Region 3 daily around the Earth
 
+{{< img src="/graphics/physics/earth.png" alt="Earth's regions" >}}
+
  <!-- but also to perform many other actions in the meantime in various ways. -->
 
 <!-- And because, in whatever direction they begin to move in this way, they continue as much as  -->
@@ -45,14 +47,14 @@ And so they mix with the particles of the earth-aether to compose all the bodies
 
 
 
-#### 16. The First Effect of Air-Aether Motion: Make Bodies Transparent
+#### 16. The first effect of air-aether motion: make bodies transparent
 
 <!-- terrestrial -->
-The air-aether in the earth-aether makes all liquid earth-aether bodies so fine that these globules are carried in all directions around them. This makes them transparent. 
+The air-aether in the earth-aether makes all liquid earth-aether bodies so fine that these globules are carried in all directions around them.
+- This makes them transparent. 
 
 When they move continuously through the passages of these bodies from side to side, they easily form straight or nearly straight paths. 
-
-These paths allow light to go through them.
+- These paths allow light to go through them.
 
 <!--  suitable for the action of light in them.
 
@@ -62,12 +64,12 @@ These paths allow light to go through them.
 
 Pure liquids on Earth are made up of fine particles. This is why they are transparent. 
 
-Mercury's particles are coarser. They cannot admit the air-aether. <!--  celestial --> 
+The particlesof liquid mercury are coarser. They cannot admit the air-aether. <!--  celestial --> 
 <!-- globules everywhere around them. -->
 
 Ink, milk, blood, and the like are not pure liquids. They are interspersed with many tiny particles of solid bodies.
  
-Transparent solid bodies came from transparent liquids. Their particles retained the same position that they were placed in by the globules of air-aether when they were not yet fused to each other.
+Transparent solid bodies came from transparent liquids. Their particles retained the same position that they were placed in by the air-aether globules when they were not yet fused to each other.
 
 <!-- And as for solid bodies, it can be observed that all those  when they were formed and still liquid remained transparent, and their parts  -->
 
