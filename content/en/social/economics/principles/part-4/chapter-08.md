@@ -19,7 +19,7 @@ icon: "/icons/pantry.png"
 
 The following ratios determine the useful productivity of the users of our points-based system just as capitalism has ratios such as Earning per Share, ROI, Return on Assets, etc. 
 
-## Realization Ratio
+### Realization Ratio
 
 This is the ratio of the actual realized points versus the total points. 
 
@@ -27,7 +27,7 @@ This is the ratio of the actual realized points versus the total points.
 Realized Points / Total Net Points 
 ```
 
-## Average Time to Realize  
+### Average Time to Realize  
 
 This is the average time that it takes to realize a point from the time when that point was created or given. 
 
@@ -35,7 +35,7 @@ This is the average time that it takes to realize a point from the time when tha
 AVE(Time of Point Debit - Time of Point Credit) 
 ```
 
-## Transaction Usefulness Ratio  
+### Transaction Usefulness Ratio  
 
 This is the number of transaction instances that were realized, relative to the total number of transactions done. 
 

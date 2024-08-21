@@ -1,8 +1,8 @@
 ---
 title: "The 3 Kinds of Terrestrial Particles"
-heading: Articles 32-39
+heading: Articles 32-36
 weight: 11
-description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
+description: "The Earth's upper region consists of particles of the earth-aether not firmly connected but mingled with air-aether globules"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

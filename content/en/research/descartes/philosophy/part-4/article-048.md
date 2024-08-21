@@ -2,7 +2,7 @@
 title: "The Nature of Water"
 heading: Articles 48-49
 weight: 15
-description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
+description: "Why does water easily turn into air or ice?"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

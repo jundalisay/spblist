@@ -80,7 +80,8 @@ The earth in its infancy was neither luminous nor liquid [it was aerial, then lu
 - Gradually, it was converted into a liquid body
 - Slowly, the outer surface was turned into solid. 
 - In its inner body, the earth is still in liquid form. 
-- In the more interior portion, the luminous and aerial <!-- gaseous --> layers are being slowly converted into liquid.
+**- In the more interior portion, the luminous and aerial layers are being slowly converted into liquid.**
+<!-- gaseous --> 
 
 Each and every layer<!--  bhúta --> has its corresponding sense-organ to access it. <!-- is accessible to a certain sense of conceptions or perceptions, by which the sensory organs recognize or classify it.  -->
 
