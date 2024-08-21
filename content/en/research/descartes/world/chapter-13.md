@@ -76,7 +76,7 @@ The air-aether at `A` will tend towards `E` if it:
 
 The air-aether [invisible spacetime particles] should be thought of as being the same as this stone `R`.
 
-{{< img src="/graphics/physics/world-11.jpg" cap="In Cartesian Physics, the revolution of invisible spacetime particles around the Earth causes the tides and its oblate spheroid shape" alt="The gravitational territory of the Earth" >}}
+{{< img src="/graphics/physics/moonwith.jpg" cap="In Cartesian Physics, the revolution of invisible spacetime particles around the Earth causes the tides and its oblate spheroid shape" alt="The gravitational territory of the Earth" >}}
 
 Those that are at `E` tend of their own inclination towards `P`*.
 

@@ -10,7 +10,8 @@ contributors: ['EF Schumacher']
 icon: /avatars/ef.png
 ---
 
-> This is the simplified version of [Multilateral Clearing by EF Schumacher](https://centerforneweconomics.org/publications/multilateral-clearing/) which was used by Keynes for his International Clearing Union and Bancor proposal in Bretton Woods. It was not accepted as they would regulate world trade. We build on Schumacher's ideas and merge them with those of Adam Smith to create a multilateral free trade system which is based on gold or grains, as an implmentation of cross-border [Supereconomics](/social/economics).
+
+{{< n n="This is the simplified version of [Multilateral Clearing by EF Schumacher](https://centerforneweconomics.org/publications/multilateral-clearing/) which was used by Keynes for his International Clearing Union and Bancor proposal in Bretton Woods. It was not accepted as they would regulate world trade. We build on Schumacher's ideas and merge them with those of Adam Smith to create a multilateral free trade system which is based on gold or grains, as an implmentation of cross-border [Supereconomics](/social/economics)." >}}
 
 
 {{< youtube -GRz8O-QD8Q >}}
@@ -77,7 +78,10 @@ Multilateral clearing exists in Europe. Germany forces the surplus countries to 
 
 {{< youtube LsWUjsr0paA >}}
 
-> *Schumacher Footnote: This paragraph merely states the theoretical principle of Pool Clearing. In practice, the channeling of all payments through the Clearing Fund can be made hardly noticeable to any individual trader. The established banks would be authorised to make and accept payments against documentary evidence and would merely settle the uncleared balance with the Clearing Fund. They would also continue to finance home importers and exporters in much the same way as before. Whether or not certain categories of in-payments or out-payments are to be made subject to special permit, is a question which every government has by itself. Any foreign exchange control is equally compatible with Pool Clearing.
+
+{{< f f="*Schumacher Footnote: This paragraph merely states the theoretical principle of Pool Clearing. In practice, the channeling of all payments through the Clearing Fund can be made hardly noticeable to any individual trader. The established banks would be authorised to make and accept payments against documentary evidence and would merely settle the uncleared balance with the Clearing Fund. They would also continue to finance home importers and exporters in much the same way as before. Whether or not certain categories of in-payments or out-payments are to be made subject to special permit, is a question which every government has by itself. Any foreign exchange control is equally compatible with Pool Clearing." >}}
+
+
 
 
 Assume this goes on for 12 months and each Fund has 3 outcomes:

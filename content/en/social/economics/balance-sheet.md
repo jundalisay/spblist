@@ -62,11 +62,11 @@ The current economic system only uses money, and commercial morals, and fails wi
 
 ## Points Quantify Effort
 
-Unlike money which quantifies **utility**, our points system quantifies [**the effort**](/social/economics/principles/part-2/chapter-01b/) put by the producer, according to the viewpoint of both the producer and the buyer. 
+Unlike money which quantifies **utility**, our points system quantifies [the effort](/social/economics/principles/part-2/chapter-01b/) put by the producer, according to the viewpoint of both the producer and the buyer.
 - Utility is the effect
 - Effort is the cause
 
-Our science thus focuses on the cause. This is different from Modern Economics which focuses on the effect. 
+Our science, called Supereconomics, thus focuses on the cause. This is different from Modern Economics which focuses on the effect. 
 
 In our family-dinner example, the points can be assigned by the children as follows:
 
@@ -83,7 +83,8 @@ The changing points then plot the changing quality or quantity of the meals and 
 
 Since the points are quantification of past events, **their values do not inflate over time**.  The system also requires its members to be tightly-knit, having common interest.  
 
-An economic system based on points is therefore **inflation-resistant and far less volatile than a money-based system**. It also creates a **tighter, more integrated, and responsive local economy** that is organized into hubs and spokes. In our dinner example, the mother is the hub and the children are her spokes.  
+An economic system based on points is therefore **inflation-resistant and far less volatile than a money-based system**. It also creates a **tighter, more integrated, and responsive local economy** that is organized into hubs and spokes.
+- In our dinner example, the mother is the hub and the children are her spokes.  
 
 The money system, on the contrary, is arbitrary, disorganized, and fragmented since it relies on selfish-interest instead of the common-interest. These qualities cause prices to rise and fall wildly, with economic damage spreading uncontrollably. This is beneficial for speculators who buy and sell things to take advantage of price movements, following the maxim of 'buy low, sell high'. 
 
@@ -122,9 +123,39 @@ Cash | Money Loans Payable
 Property, Plant, Equipment | **Long-term Points Payable**
 
 
-In the beginning, a company will have very few points-receivables and points-payables. But as the new 	system catches on, and the cost savings become evident, a balance sheet will have more points values until money becomes a smaller part of company and every local economy.
+In the beginning, a company will have very few points-receivables and points-payables. But as the new 	system catches on, and the cost savings* become evident, a balance sheet will have more points values until money becomes a smaller part of company and every local economy.
 
+{{< b >}}
+### Why is a Points-system so much cheaper?
 
+Points are bilateral whereas money is universal or multilateral. 
+
+This means that a promise by Joe to John is only applicable to Joe and John. No would bother "stealing" that promise. 
+
+For example, Joe (a mechanic) fixes John's car (a doctor) in exchange for a promise of a future checkup or treatment from John of the same value. 
+
+No one can steal that promise and get that treatment from John without Joe's consent.
+
+But if John paid Joe money to fix his car, then someone could just steal that money. Moreover, the transaction would not push through if no money was available. So there should be:
+- a system for money creation (e.g. paper bills)
+- a system for money safekeeping (e.g. wallets or banks and bank accounts)     
+- a system for money transactions via the telecoms system (e.g. electronic cash)
+
+In contrast, a points-system only needs:
+- a system for money transactions either offline (points-cards) or online via the telecoms system (e.g. points app) 
+
+At its cheapest and most natural form, a points-system only needs a verbal agreement between John and Joe, with the objective points being subjectified into satisfaction as good or bad service. Such a system is really broken down into its components:
+- a common language to make a verbal agreement
+- a common moral system to make promises binding
+
+If a moneyless system is so cheap, then why did the money system replace it?
+
+A moneyless system is cheap. But it requires a certain level of morality. If that morality fluctuates, then the whole system becomes less reliable. This is why the precolonial governments that used this imposed morals such as 'ayni' in Inca and 'bayanihan' in the Philippines. 
+
+The Europeans did not have a solid moral system and so they used money and treasure instead. They then imposed their system onto the world through the colonial system. 
+
+**This is why morals naturally decline with the spread and adoption of the money-system.** This is most obvious in **cryptocurrencies** which are full of scams and are even synonymous with scams.
+{{< /b >}}
 <!-- In this new system, money is used for out-group or people that you have no knolwedge or trust with. Examples are strangers, people on the srtreet. 
 
 The Points system thus builds fellow-feeling, Adam Smith's requirements in the Theory of Moral Sentiments.  -->
@@ -145,7 +176,7 @@ The borrowed money, which would not be repaid for several years, should not be b
 
 
 {{< q a="Socrates" c="Phaedo by Plato Simplified, Chapter 10" >}}
-[The man who gave him the poison looked at his feet and legs now and then. After a while, he pressed Socrates' foot hard, and asked him if he could feel. Socrates said, No. He repeated this with his leg, and so upwards and upwards. Socrates showed us that he was cold and stiff. He felt them himself, and said:]
+[The man who gave him the poison looked at his feet and legs now and then. Socrates showed us that he was cold and stiff and said:]
 
 When the poison reaches the heart, that will be the end. Crito, I owe a cock to Asclepius. Will you remember to pay the debt?
 {{< /q >}}
@@ -157,83 +188,8 @@ If equity will no longer be a thing, then what will rich people do with their mo
 
 For example, an Arab sheik has 100 million dollars and personally knows very few worthy entrepreneurs. How can he use his money so that it preserves their value, at least?
 
-The cash saved by the points-system will be used to grow the global economy. Remember that the points-economy works best for tightly-integrated economies such as a small town or a district of a large city. 
+The cash saved by the points-system will be used to grow the global economy. 
 
-[Points-banking](https://pantrypoints.com/trisactions/banking) can then connect these local economies with each other, such as City A with City B.
-
-However, points-banking cannot connect Country A to Country B which might have very different laws on imports-exports and taxation.
-
-In this case, the money system is better suited. For example, the US dollar is designed for cross-border transactions:
-- prices are denoted in US dollars
-- banks are able to accept local currency for conversion to US dollars for world trade
-
-To import a product, local currency is used to buy US dollars which is then sent to the exporter. Points-banking saves a lot of local currency, and so imports will increase as a consequence. 
-
-<!-- The local currency can therefore be used to import foreign goods and even foreign services as foreign education, tourism, and foreign workers. -->
-
-The problem is that, in the current world trade system, this will create a **balance of trade deficit** which will then cause a devaluation of the local currency. This then will negate the advantages of the Points system -- solving a bad stagnation just to create a bad devaluation. 
-
-<!-- This solution only works if all countries are on the same page and use most of their money to import, since imports in one country are exports of another. If countries are not united, then the system might solve stagnation in the exporting countries, but destroy the industry of the importing countries.  -->
-
-How can such a trade gap be solved?
+This is explained [here](/social/economics/principles/part-4/chapter-09b).
 
 
-
-## Pool Clearing to the Rescue
-
-The economist EF Schumacher thought about this in the 1940's and proposed a [Pool Clearing system](https://centerforneweconomics.org/publications/multilateral-clearing/) as a solution.
-
-Instead of world trade being done in an unregulated way all in US dollars, each country joins the global pool which mandates them to set up a **National Clearing Fund**. 
-
-This fund will be used to:
-- accept local currency payments for imports 
-- disburse local currency to exporters
-
-The Clearing Funds eliminate the need for cross-border money transactions -- money no longer leaves any country. This will make currency speculation and currency crises obsolete. It will also help deficient and stagnating countries like Sri Lanka to get out of crisis by letting them export their way out of their quagmire.
-
-Each country's Clearing Fund will be subdivided into different industries, with subdivisions, such as:
-
-Fund | Subfunds
---- | ---
-Agriculture | Fisheries
-. | Rice 
-. | Livestock and Dairy Fund
-Education | Advanced Research
-Tourism | Cultural Exchange
-Manufacturing | Electronics
-. | Heavy Machinery
-. | Precision Equipment Fund
-etc | 
-
-Investors, such as the Arab sheik, can then park their money in a fund that they like, in a country that they like. If a country can define 1 million industries, then each can have its own fund. The sheik can then have 1 million investment options.
-
-There is still **a gaming element** since not all funds will succeed equally. Yet not all funds will fail unless the country is totally mismanaged. This will allow people to enjoy such a childish pleasure*.
-
-
-{{< n n="*Not all investors are rich. Some just use their savings in the hopes of striking it rich quickly." >}}
-
-
-
-This will allow capital to spread over many industries in many countries and not just into a few blue-chip companies, as is common in the current system.
-
-It will also increase global trade since the Pool-countries will act as a single economic country. The Pool works on common-interest since all members can help each other export their way out of crisis and provide employment via exports and tourism. This makes trade wars and protectionism illogical.  
-
-Lastly, it serves as a better alternative to a single currency like the Euro, which has many regulations, and the US Dollar, which is controlled by one country.  
-
-
-
-## Ends Both Capitalism and Marxism Gradually
-
-The points system gradually reduces the importance of equity. This will cause stock-trading and stock-investments to likewise lose importance, dragging Capitalism with it. 
-
-With Capitalism reduced, then the need for Marxism also declines, since Marx created it to counteract the evils of capitalists. This will slowly eliminate the Cold War animosity which currenly manifests as AUKUS-EU vs China-Russia. 
-
-<!-- The CLearing funds circulate imports and exports between countries. This unifies national economies as one. The investor gains from investing in the right funds that focus on specific industry. For example, during a Covid outbreak, the a country can establish a vaccine-importation fund which will invite the money from rich people.    
-
-Each country has a certain industry that it wants to grow and so there is always investment opportunity for Clearing Funds. 
-
-Technically, the Clearing Fund is not public debt and is an supra-national institution by itself, similar to the World Trade Organization.  -->
-
-<!--  as an alternative to the money-based one.   -->
-
-In a future post, we will explain how Pool Clearing could have been used to unify Hongkong, Taiwan, and China peacefully without the needing to go through the current tensions.  

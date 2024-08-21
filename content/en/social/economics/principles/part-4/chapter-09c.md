@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 9 "
+heading: "Chapter 9c"
 title: "International Institutions"
 # date: 2022-12-24
 date: 2021-12-17
@@ -9,6 +9,7 @@ description: "Few people know that Adam Smith was making a free trade system as 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+draft: true  
 ---
 
 

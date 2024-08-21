@@ -70,10 +70,24 @@ Hence, machines are created that, using only the force of air that can:
 - lift water upwards like fountains. and
 - project projectiles with great force, similar to bows.
 
-This is because when air is compressed in this way, each of its spherical particles does not have the space required for its motion alone.
+This is because air particles need space around them for the air-aether globules to flow around them. 
+- When they are compressed, other air particles occuply this space. 
+
+The agitation and heat of the compressed air particles is preserved by the motion of the air-aether globules constantly flowing around them.
+- This causes the physical air particles to mutually strike each other at their extremities and displace each other.
+- This makes them collectively, exert force to occupy a larger space.
+
+
+
+<!--  in this way, each of its spherical particles does not have the space required for its motion alone.
 - Instead, neighboring particles enter this space.
 
-Meanwhile, the same heat or the same motion of these particles is preserved by the motion of the air-aether globules constantly flowing around them.
+Meanwhile, the same heat or the same motion of these particles .
 - This cause the physical air particles to strike each other with their extremities and displace each other. 
 
-In this way, they collectively exert force to occupy a larger space.
+The reason for this is that when the air is compressed in such a way, each of its particles does not have that spherical space necessary for its movement to itself alone, but neighboring particles enter into it; 
+
+and while the same heat or agitation of these particles is maintained by the motion of celestial globes constantly flowing around them, they 
+
+
+, thus collectively making an effort to occupy a larger space. -->

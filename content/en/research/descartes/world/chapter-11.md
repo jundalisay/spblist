@@ -58,7 +58,7 @@ Nevertheless, the earth-aether in comets can move towards the exterior of the st
 The earth `EFGH` and its  water `1234` and air `5678` are a single mass.
 - Its water and air are composed of the less solid of the earth's parts.
 
-![The World](/graphics/physics/world-11.jpg)
+![The World](/graphics/physics/moonwith.jpg)
 
 
 The air-aether fills:

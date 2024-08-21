@@ -18,7 +18,7 @@ The Moon also affects this motion on the Earth.
 
 Assume that the moon is stationary at `B` relative to the air-aether below it. This air-aether has less space to pass through between `O` and `6` than between `B` and `6` (if the moon does not occupy the space between `O` and `B`).
 
-![The Moon](/graphics/physics/world-11.jpg)
+![The Moon](/graphics/physics/moonwith.jpg)
 
 Consequently, this air-aether has to move a bit faster between `O` and `6`.
 - It pushes the whole Earth a little bit towards `D`, so that its center `T` moves away a little bit from the center of the planetary gravitational territory `ABCD`. 

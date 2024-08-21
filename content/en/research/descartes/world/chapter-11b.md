@@ -50,7 +50,7 @@ This is why: -->
 <!-- matter of the heaven  -->  
 
 
-![The World](/graphics/physics/world-11.jpg)
+![The World](/graphics/physics/moonwith.jpg)
 
 Thus, each part of terrestrial bodies is pressed toward `T`.
 

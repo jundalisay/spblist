@@ -1,7 +1,7 @@
 ---
 title: "The Nature of Water"
-heading: Articles 48-
-weight: 16
+heading: Articles 48-49
+weight: 15
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
@@ -27,16 +27,21 @@ Individually, the flexible constitutes salt.
 
 The inflexible makes up fresh water. 
 
-
 I have already discussed all the properties of salt and fresh water in Meteorology. 
 
 How well do they cohere with each other?
 
-How, from such a generation, the proportion between the thickness of its particles and the thickness of air particles, as well as between the particles themselves and the force by which the air-aether globules move them, follows? 
+What is the ratio of:
+- the thickness of its particles and the thickness of physical air particles
+- the particles themselves and the force of the air-aether globules that move them
 
-When these globules act a little less than usual, they turn water into ice and air into water.
+<!-- How, from such a generation, the proportion between the thickness of its particles and the thickness of air particles, as well as between the particles themselves and the force by which the air-aether globules move them, follows?  -->
 
-But when they act a little more strongly, they turn the thinner water particles, namely those that are flexible, into air.
+When these air-aether globules act a little less than usual, they turn:
+- water into ice
+- air into water.
+
+But when they act a little more strongly, they turn the thinner flexible water particles into air.
 
 
 
@@ -46,36 +51,49 @@ I have also explained in the Meteorology the causes of winds, by which the sea i
 
 But there remains another regular motion of the sea, by which it rises and falls twice a day in every location, always flowing from east to west. 
 
-To explain the cause of this motion, let us imagine a small vortex in the sky with the Earth as its center.
+<!-- in the sky -->
+To explain the cause of this motion, let us imagine a small vortex `ABCD` with the Earth as its center.
+- Along with the Moon, it revolves around the Sun in a larger vortex. 
+- `EFGH` is the Earth
+- Point `T` is the center of the Earth
+- Point `M` is the center of the vortex
+- `1 2 3 4` is the sea surface, assumed to cover the Earth everywhere for the sake of clarity
+- `5 6 7 8` is the surface of the air surrounding the sea
 
-Along with the Moon, it revolves around the Sun in a larger vortex. 
+{{< img src="/graphics/physics/moonwith.jpg" alt="Moon and tides" cap="`M` is the barycenter, while `T` is the center of the Earth-center" >}}
 
-Let:
-- `ABCD` be that small vortex 
-- `EFGH` the Earth
-- `1 2 3 4` the sea surface, assumed to cover the Earth everywhere for the sake of clarity
-- `5 6 7 8` the surface of the air surrounding the sea
+If there were no Moon in this vortex, `T` would be at point `M`.
 
-{{< img src="/graphics/physics/world-11.jpg" alt="Moon and tides" >}}
 
-If there were no Moon in this vortex, the point `T`, which is the center of the Earth, would be at point `M`, the center of the vortex. 
+{{< img src="/graphics/physics/moonnone.jpg" alt="Earth without the Moon" cap="`M` is the barycenter, while `T` is the center of the Earth-center. Without the moon, both `M` and `T` would be the same">}}
 
-But with the Moon present (assuming it is towards `B`), this center `T` should be between `M` and `D`. 
 
-This is because, as 
+#### How the moon pushes the earth away from the barycenter
 
-The air-aether of this vortex moves faster than the Moon or the Earth that it carries with it.
+But with the Moon present at `B`, this center `T` would be between `M` and `D`. 
 
-This is why the presence of the Moon would hinder it from flowing as freely between `B` and `T` as between `T` and `D`, unless point `T` is somewhat farther from `B` than from `D`.
+This is because the air-aether of this vortex moves faster than either the Moon or the Earth that it carries with it.
 
-The Earth's location in this vortex is only determined by the equality of the forces of the surrounding the air-aether. And so, it must approach towards `D`.
+The presence of the Moon hinders that air-aether from flowing freely between:
+- `B` and `T`
+- `D` and `T`
 
-Since the Moon now is towards B then the air-aether flowing at the following spaces are reduced:
+This is why the air-aether pushes point `T`:
+- farther from `B` when the Moon is at `B`
+- farther from `D` when the Moon is at `D`
+
+<!-- This is unless  is somewhat farther from `B` than from `D`. -->
+<!-- , the center of the vortex.  -->
+
+**The Earth's location in this vortex is only determined by the equality of the forces of the surrounding the air-aether.** 
+- And so, it must approach towards `D`.
+
+Since the Moon now is at `B`, then the air-aether flowing at the following spaces are reduced:
 - between `B` and `T`
 - between `T` and `D` 
 
 <!-- celestial matter -->
-It follows that this air-aether flows faster there.
+**This makes this air-aether flows faster there.**
 
 Therefore, it presses more on the surface of air at `6` and `8` and the surface of water at `2` and `4` than if the Moon were outside this diameter `BD`.
 
@@ -84,78 +102,3 @@ Air and water are fluid bodies that easily yield to pressure. This is why the su
 Conversely, it should be higher towards `G` and `E`, so that the water surface `1`, `3`, and the air `5`, `7` protrude there.
 
 
-#### 50. Why does water rise at the 6 1/5 hour and descend at the 6 1/5 hour?
-
-The part of the Earth that is now in `F`, opposite point `B` where the sea is least high, will be in `G`, opposite point `C` where it is highest, after six hours, and after six more hours, it will be in `H`, opposite point `D`. 
-
-Consequently, since the Moon also progresses somewhat from `B` towards `C`, covering the circle `ABCD` in a month, the part of the Earth that is now in F, opposite the Moon's body, after six hours and 2 minutes, will be beyond point `G` in that diameter of the vortex `ABCD` which intersects the same diameter in which the Moon will then be, and the water will be highest there.
-
-After six more hours with 12 minutes, it will be beyond point `H`, where the water will be least high, etc. 
-
-This is why the sea water should ebb and flow every 12 hours and 2 minutes in the same location.
-
-
-#### 51. Why tides are greater when the Moon is full or new.
-
-This vortex `ABCD` is not precisely circular. 
-
-Its diameter, in which the Moon revolves when it is new or full, is shorter than the one that intersects it at right angles, as shown in the upper part.
-
-Consequently, the tides should be greater when the Moon is new or full than in the intermediate times.
-
-
-
-#### 52. Why are the Tides Greatest at the Equinoxes?
-
-The Moon is always near the plane of the Ecliptic, while the Earth, with its diurnal motion, rotates in the plane of the equator. 
-
-These 2 planes intersect at the equinoxes but deviate significantly from each other at the solstices. Consequently, the greatest tides should occur around the beginning of spring and autumn.
-
-
-#### 53. Why air and water always flow from East to West
-
-As the Earth moves from `E` through `F` towards `G`, or from the west to the east, the bulge of water `4 1 2` and the bulge of air `8 5 6`, which now press on the Earth's part `E`, gradually migrate to other, more westerly parts of it. 
-
-Thus, after 6 hours, they press on the Earth's part `H`.
-
-After 12 hours, on the Earth's part `G`.
-
-The same applies to the bulges of water and air `2 3 4` and `6 7 8`. Therefore, water and air continuously flow from the eastern parts of the Earth to its western parts.
-
-
-#### 54. Why, at the same latitude, regions with a sea to the east are milder than others
-
-This flow is not very swift. This is clearly detected from long voyages being much slower and more difficult towards the east than towards the west.
-
-Also, in certain narrow seas, water always flows westward. 
-
-Moreover, in regions with a sea to the east, such as Brazil, they do not feel as much heat from the Sun as those with long land stretches to the east and a sea to the west, such as Guinea.
-
-This is because the air coming from the sea is cooler than that from the land.
-
-
-#### 55. Why there is no ebb or flow in lakes and ponds, why it occurs at various times on various shores
-
-The entire Earth is not covered by the sea. 
-
-However, the ocean extends throughout the Earth's circumference. The ocean should be thought of as totally enveloping the entire Earth.
-
-Lakes and ponds have waters separated from the ocean. They do not experience such motions because their surfaces are not wide enough to be pressed more on one side than the other due to the Moon's presence.
-
-Due to the inequality of the sinuosities and windings that surround the ocean, its water increments and decrements reach different shores at different times. Hence, numerous variations arise from them.
-
-
-#### 56. How the specific causes of these variations should be investigated on individual shores.
-
-The particular causes of all these variations can be deduced from the foregoing if we consider that 
-
-
-The waters of the ocean, when the Moon is new or full, are highest in places far from the shores towards the Ecliptic and the Equator at both the sixth morning and evening hours. 
-
-At the 12th hour, they are most depressed, flowing back from the shores to those places. 
-
-Depending on whether the shores are near or far, and whether the waters tend to them through more direct or oblique, wide or narrow, deep or shallow paths, they are carried to them more quickly or slowly and in greater or lesser abundance. 
-
-Also, due to the very diverse and unequal windings, it often happens that waters tending towards one shore meet those coming from another shore, causing their course to change in various ways. Finally, various winds, some of which are regular in certain places, impel these waters in different ways. 
-
-I believe that there is nothing observed regarding the ebb and flow of the sea whose causes are not contained in these few explanations.
