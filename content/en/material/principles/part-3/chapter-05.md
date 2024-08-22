@@ -2,7 +2,7 @@
 heading: "Chapter 5"
 title: "Combustion Through Qors and Qosts"
 # date: 2024-02-13
-image: /photos/ukraine.jpg
+image: /graphics/physics/friction.jpg
 description: "Fire is part of the Radiant Element and is ignited from matter whenever qosts are ejected from matter instantly in large amounts"
 writer:
   name: Juan
@@ -22,17 +22,18 @@ This forces the mixture to have 2 factors only:
 1. qom
 2. qor 
 
-ire begins when the ratio of the latter becomes superior to the other. 
-
-The qom then submits to the qor by burning (i.e. taking on the movement of the qor).
+Fire begins when the ratio of the latter becomes superior to the other. 
+- The qom then submits to the qor by burning (i.e. taking on the movement of the qor).
 
 Flammable and fissile materials therefore naturally have a high ratio of qor relative to qom. For example:
-
 - A flammable thing burns when the sun's rays are focused on it through a glass or mirror. This increases the thing's qor ratio relative to qom and qost.
 - Striking a flint or volcanic rock creates sparks because it already has few qom on their surfaces
 - Dry leaves burn better than fresh leaves because they have less channels for the qosts 
 
-Striking wood does not create fire because wood still has a lot of qosts. Rubbing woods aggresively eliminates the qosts quickly, increasing the ratio of qor over qom. This creates heat.
+Striking wood does not create fire because wood still has a lot of qosts. Rubbing woods aggresively eliminates the qosts quickly, increasing the ratio of qor over qom. This creates heat by liberating heat particles.
+
+{{< i s="/graphics/physics/friction.jpg" a="Heat Particles" c="Rene Descartes visualized how friction liberates heat and light particles called the 1st ELement. Here we superimpose our updated version using the Law of Conservation of Aether" >}}
+
 
 Thus, there are 2 general ways to create fire from matter.
 
@@ -78,7 +79,7 @@ We then pass the flame through 3 speakers to see which one can extinguish it:
 We find that the 60Hz extinguishes it, corroborating the experiment by Robertson and Tran. 
 
 
-#### Using Superphysics to Disable Nuclear War 
+### Using Superphysics to Disable Nuclear War 
 
 Superphysics uses the principles of Nature to solve both small and big problems. One of the biggest problems regarding explosions is the one from nuclear weapons.
 

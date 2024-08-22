@@ -16,7 +16,7 @@ icon: "/icons/descartes.png"
 {{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance." >}}
 
 
-#### 80. The Nature of Fire and its Distinction from Air
+#### 80. The nature of fire and its distinction from air
 
 How can flame be ignited in these cavities? What is the nature of fire?
 
@@ -40,7 +40,7 @@ However, fire cannot exist without somewhat denser earth-aether particles, from 
 <!-- terrestrial -->
 
 
-#### 81. How Fire is First Ignited
+#### 81. How fire is first ignited
 
 The air-aether globules:
 - occupy all the spaces around the Earth large enough to contain them.
@@ -104,11 +104,16 @@ Because of their hardness and rigidity, when struck by a hard body, the spaces b
 
 Due to their friability, once these particles of flint are no longer pressed by the impact, they spring apart. The fire-aether, found solely around them, composes the fire.
 
-Thus, if `A` is flint with visible globules of the air-aether in its anterior particles, `B` represents the same flint when struck by a hard body. 
+- `A` is flint with visible air-aether globules in its anterior particles
+- `B` is the same flint when struck by a hard body. Its channels have become narrower, leaving only the fire-aether.
+- `C` shows the same flint already struck, with some particles separated and having only the fire-aether around them, resulting in sparks of fire.
 
-Its channels have become narrower, leaving only the matter of the first element. 
+{{< i s="/graphics/physics/friction.jpg" a="Friction" c="We superimpose the Superphysics particles of heat, light, and spacetime to match Descartes' drawings of the linear fire-aether and round air-aether" >}}
 
-`C` shows the same flint already struck, with some particles separated and having only the matter of the first element around them, resulting in sparks of fire.
+
+ <!-- matter of the first element.  -->
+
+ <!-- matter of the first element  -->
 
 
 #### 85. How is Fire Produced from Dry Woods?

@@ -36,6 +36,8 @@ How can such a trade gap be solved?
 
 ## Pool Clearing to the Rescue
 
+{{< youtube 25UmGDzactk >}}
+
 The economist EF Schumacher thought about this in the 1940's and proposed a [Pool Clearing system](https://centerforneweconomics.org/publications/multilateral-clearing/) as a solution.
 
 Instead of world trade being done in US dollars in an unregulated way, each country joins the global pool which mandates them to set up a **National Clearing Fund**.

@@ -14,7 +14,7 @@ icon: "/icons/descartes.png"
 
 
 
-#### 87. How is Fire Ignited by Violent Motion Alone?
+#### 87. How is fire ignited by violent motion alone?
 
 <!-- It matters little from which cause the terrestrial particles first begin to move very rapidly.  -->
  <!-- but is carried away with it. -->
@@ -24,7 +24,11 @@ icon: "/icons/descartes.png"
 
 Violent motion is often found in lightning and whirlwinds. These happen when high clouds fall into lower ones. This explodes the intercepted air, as I explained in *Meteoris*.
 
-The earth-aether particles in the physical clouds do not yet adhere to the fire-aether in this motion. But if they are rapidly agitated by any other cause, they immediately shake loose from each other. The air-aether globules around them then start to float in it. Thus, they will sustain their motion. 
+The earth-aether particles in the physical clouds do not yet adhere to the fire-aether in this motion. 
+
+But if they are rapidly agitated by any other cause, they immediately shake loose from each other.
+- The air-aether globules around them then start to float in it.
+- Thus, they will sustain their motion. 
 
 Therefore, any highly accelerated motion is sufficient to ignite fire in the clouds. 
 
