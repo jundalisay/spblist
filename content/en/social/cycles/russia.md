@@ -35,7 +35,8 @@ The blame for all this can be put on Biden and somewhat on Macron:
 
 To explain why, we shall apply Socratic Dialectics by getting all the real data and then matching it with the abstract flow of ideas and feelings to form a pattern of cause and effect. The feelings of society* and of its leaders are the core of Social Superphysics which allows it to predict events in and between societies.  
 
-> So far, the authors who were keen enough to perceive such feelings, as well as explain their metaphysical dynamics, were David Hume, Lao Tzu, and Ibn Khaldun (who explains it as 'group feelings')
+
+{{< f f="So far, the authors who were keen enough to perceive such feelings, as well as explain their metaphysical dynamics, were David Hume, Lao Tzu, and Ibn Khaldun (who explains it as 'group feelings')" >}}
 
 
 ### Balance of Power is Based on the Preservation Instinct
@@ -73,13 +74,13 @@ Putin's war in Ukraine is exactly his attempt to preserve the balance of power t
 
 After the French Revolution, the two main mentalities or ideologies that emerged in Europe* were Liberalism versus Non-Liberalism.
 
-> *A key marker for the idea of Liberalism is the idea of **human rights**. **This idea does not exist in any philosophical system anywhere from the ancient Greeks, Egyptians, Romans, Jews, Hindus, Buddhists, Jains, Confucians, to the modern Islam and Sikhs.** It seems to have incubated as [the Magna Carta](/research/england/magna-carta/article-1/) of King John of England in 1215 as a response to the excessive strength of the barons which is really an effect of the weakness of the King. China, Arabia, Persia, and India never had to institute human rights because the dynastic power was always able to keep order. The Roman Republic and Empire both likewise never had to institute human rights because the Senate and Emperor were usually in control. The Romans only gave rights to Romans and not to barbarians whose [group-feelings](/research/ibn-khaldun/muqaddimah/chapter-2/part-16) were in a different moral level. The latter Roman Empire extended rights to barbarians and ended up getting destroyed since it takes a huge amount of effort and many generations to unify group-feelings (We estimate that 60-80 years is needed minimum at maximum effort). Ancient China seems to have been able to do this.
+{{< f f="*A key marker for the idea of Liberalism is the idea of **human rights**. **This idea does not exist in any philosophical system anywhere from the ancient Greeks, Egyptians, Romans, Jews, Hindus, Buddhists, Jains, Confucians, to the modern Islam and Sikhs.** It seems to have incubated as [the Magna Carta](/research/england/magna-carta/article-1/) of King John of England in 1215 as a response to the excessive strength of the barons which is really an effect of the weakness of the King. China, Arabia, Persia, and India never had to institute human rights because the dynastic power was always able to keep order. The Roman Republic and Empire both likewise never had to institute human rights because the Senate and Emperor were usually in control. The Romans only gave rights to Romans and not to barbarians whose [group-feelings](/research/ibn-khaldun/muqaddimah/chapter-2/part-16) were in a different moral level. The latter Roman Empire extended rights to barbarians and ended up getting destroyed since it takes a huge amount of effort and many generations to unify group-feelings (We estimate that 60-80 years is needed minimum at maximum effort). Ancient China seems to have been able to do this." >}}
 
 
 
 These replaced Catholicism vs Protestantism and then spread themselves to the world* through the colonial system. 
 
-> The mentalities in Asia are different, such as Hinduism-Buddhism versus Islam in India, Confucianism versus Taoism in China, and Shia versus Sunni in Arabia 
+{{< f f="The mentalities in Asia are different, such as Hinduism-Buddhism versus Islam in India, Confucianism versus Taoism in China, and Shia versus Sunni in Arabia" >}}
 
 
 According to Nature's Law of Diversity, these two mentalities have an equal right to exist. The problem begins when one mentality tries to overwhelm or cancel the other. An example of a total rout of one mentality is the fall of the Roman Empire to the German barbarians, which started their Dark Ages. 
@@ -138,29 +139,35 @@ Cycle | Mentality
 This means that **Russia is in the 2nd season of its 5th cycle in the age that began with Catherine the Great**.*
 
 
-> *Our notation for social cycles is similar to the regnal year method of Asia and the European monarchs. For example, Year 1 of Japan's Reiwa era began on May 1, 2019. Reiwa Year 1 (based on Naruhito's ascension) is the equivalent of 2019 (based on Jesus' birth year) 
+{{< f f="*Our notation for social cycles is similar to the regnal year method of Asia and the European monarchs. For example, Year 1 of Japan's Reiwa era began on May 1, 2019. Reiwa Year 1 (based on Naruhito's ascension) is the equivalent of 2019 (based on Jesus' birth year)" >}}
 
 
 Ukraine's independent history is quite short, starting from 1991. It does not form any known pattern yet.
 
-Russia's pattern is from 1263, making it easy to plot. A better alternative would be to plot Ukraine's history from 482 AD when Kyiv was founded. However, there is a lot of missing information between 482 and 2014 (Euromaidan). This would make any pattern a result of guesswork which can never be a foundation of any scientific prediction. 
+Russia's pattern is from 1263, making it easy to plot. A better alternative would be to plot Ukraine's history from 482 AD when Kyiv was founded.
+
+However, there is a lot of missing information between 482 and 2014 (Euromaidan). This would make any pattern a result of guesswork which can never be a foundation of any scientific prediction. 
 
 
 
-## The Solution for Ukraine: Learn from the past. Don't get too temped by European wealth
+### The Solution for Ukraine: Learn from the past. Don't get too temped by European wealth
 
 So we know why Russia (and Belarus) is doing what it's doing. But we don't know why Ukraine is suddenly shifting towards the EU and NATO belatedly when Yugoslavia shifted much earlier. 
 
 It clearly has an identity crisis, which we can only trace to the fall of Kiev in 1240 when it did not surrender to the non-liberal Mongols. But it is merely repeating the same mistake in 2022 by not surrendering to Putin. 
 
-Instead, it was urged on by the love of liberty and wealth which is not common in that part of the world. This violates the Law of Nature, leading to the current terrible reality that afflicts those that go against Nature. 
+A barabarian would treat such non-surrendering as an affront. He would then deal with it severely. This explains the harsh measures done by the Soviets against Ukraine.  
+
+Instead of acting like its barbarian neighbors, Ukraine was urged on by the love of liberty and wealth which is not common in that part of the world. This violates the Law of Nature, leading to the probelms that afflicts those that go against Nature. 
 
 Two solutions would've nipped the problem at the bud:
 
 1. Biden agreeing to honor the 1994 agreement and not include Ukraine in NATO or the EU
 2. Ukranian President Zelensky and his government fleeing to Poland in exile by February 26, as suggested by the US
 
-These solutions would have preserved the balance of power and allowed the non-liberal forces to enjoy their natural right to exist. Unfortunately, the West is still infected with the Liberalism virus from the French Revolution, while Russia is still very much entrenched in Catherine the Great's imperialism.   
+These solutions would have preserved the balance of power and allowed the non-liberal forces to enjoy their natural right to exist.
+
+Unfortunately, the West is still infected with the Liberalism virus from the French Revolution, while Russia is still very much entrenched in Catherine the Great's imperialism.   
 
 These two opposing forces clash in Ukraine. This disturbance has its roots in the fall of the Soviet Union which then has its roots in World War 1, and then to Napoleon, and then to the French Revolution, matching cause with effect. 
 
@@ -168,7 +175,7 @@ These two opposing forces clash in Ukraine. This disturbance has its roots in th
 
 <!-- ## Unifiying with Russia and the Mongols Instead of Europe and the Romans -->
 
-Had those two solutions been adopted, the recovery of the Russian and Ukrainian economy could have been done by a **Germany-backed** Marshall Plan centered on Ukraine. This would turn Ukraine into a Russian commercial center which can slowly help de-Mongolize Moscow and unify the Rus while being within **Catherine the Great's Europe-leaning vision**.
+<!-- Had those two solutions been adopted, the recovery of the Russian and Ukrainian economy could have been done by a **Germany-backed** Marshall Plan centered on Ukraine. This would turn Ukraine into a Russian commercial center which can slowly help de-Mongolize Moscow and unify the Rus while being within **Catherine the Great's Europe-leaning vision**.
 
 But because Ukraine did not surrender, Russia will totally cut it off from the West, more in line with the **Mongol vision** *. Ukraine's reconstruction will likely be funded by China (which is also under an imperial Mongol mentality as the Chinese Communist Party). This pattern is consistent with China being its largest trading partner in 2019. 
 
@@ -185,13 +192,13 @@ The answer is that the Western civilizations have started to decline from the 20
 - The 9/11 attack supported by the lowly Taliban
 - The 2008 Financial and Eurozone Crisis inflicted by Western banks on themselves
 
-Civilizations that have achieved peak wealth and prosperity have nowhere to go but down. This is proven by the fall of the Romans, Persians, and Song dynasties. The West reached their peak wealth in the 1990s from the low of the 16th century. On the contrary, China had its low period with the fall of the Qing, replaced by the Mao era, and has nowhere to go but up*.
+Civilizations that have achieved peak wealth and prosperity have nowhere to go but down. This is proven by the fall of the Romans, Persians, and Song dynasties. The West reached their peak wealth in the 1990s from the low of the 16th century. On the contrary, China had its low period with the fall of the Qing, replaced by the Mao era, and has nowhere to go but up*. -->
 
 
 <!-- The feudalism is a natural effect of difficulties with the land such as its barreness, extreme heat, extreme cold, or frequent natural disasters. The rise of the militant explains why Navalny's protest did not succeed -- because it was 10 years late.
  -->
 
-> *The recent win of India's BJP in the elections in Uttar Pradesh also hint that India is also on the rise. In addition, the growth of KPop and Korea culture from the last decade is another supporting proof. 
+<!-- > *The recent win of India's BJP in the elections in Uttar Pradesh also hint that India is also on the rise. In addition, the growth of KPop and Korea culture from the last decade is another supporting proof.  -->
 
 
 ## The Solution for Russia: Make the World Understand Mongol Rules
@@ -203,7 +210,7 @@ This will then relax the feelings of Russia (and China) leading to less tensions
 The Mongol system is based on few simple rules that are sacred to simple barbarians*. **The key is to work within those simple rules.** An example is the rule of self-preservation.
 
 
-> *We have worked extensively with dirt-poor communities and have gotten used to how barbaric and even animalistic some humans can become. The solution is to lower onself to their level and then painstakingly raise them up slowly by finding the gravitational signature (svadharma) for each mind.
+{{< f f="*We have worked extensively with dirt-poor communities and have gotten used to how barbaric and even animalistic some humans can become. The solution is to lower onself to their level and then painstakingly raise them up slowly by finding the gravitational signature (svadharma) for each mind." >}}
 
 
 This is very different from the current mode of thinking of the West wherein they see the destruction of non-liberalism as a moral and just cause that is worth pursuing agressively. Their egos seem to be so high that they are unable to sense that such a mentality has caused so many unnecessary conflicts since the 19th century. <!-- , and is still causing, the external post-French Revolution conflicts that began with Napoleon. -->  The World Wars and the current Ukraine war are modern examples of the effects of such thinking. 
@@ -211,7 +218,7 @@ This is very different from the current mode of thinking of the West wherein the
 Liberalism is like a modern crusade being undertaken by the West which has nothing better to do with its productivity*.
 
 
-> *Ideally, all that productivity should be channeled to the exploration of Mars. The problem is that the West blindly believes in the sophistry of Albert Einstein's [General Relativity](/material/fallacies/general-relativity) which makes such exploration impractical.
+{{< f f="*Ideally, all that productivity should be channeled to the exploration of Mars. The problem is that the West blindly believes in the sophistry of Albert Einstein's [General Relativity](/material/fallacies/general-relativity) which makes such exploration impractical." >}}
 
 
 This highness of ego leads to a disconnect with reality. This is clearly shown by the US abandoning Afghanistan in 2021. 

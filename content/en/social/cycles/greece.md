@@ -195,7 +195,8 @@ Likewise, Greece will set up a clearing fund for its EU imports, so that the Gre
 
 In effect, the clearing funds unify the EU states into a barter union to offset the problems of their monetary union. This keeps individual member states independent and able to state their own fiscal policies without needing a fiscal union*. 
 
-> *A fiscal union is a mercantile solution similar to a corporation buying its suppliers and customer-companies in order to vertically integrate for greater efficiency. It would be a sort of imperialism among nations.
+
+{{< f f="*A fiscal union is a mercantile solution similar to a corporation buying its suppliers and customer-companies in order to vertically integrate for greater efficiency. It would be a sort of imperialism among nations." >}}
 
 
 

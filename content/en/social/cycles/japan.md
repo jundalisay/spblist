@@ -13,6 +13,17 @@ icon: /flags/jp.png
 ---
 
 
+
+
+Current Cycle | Years per Day | Current Week | Current Month | Current Year
+--- | --- | --- | --- | --- 
+? | ? | ? | ? | ?
+
+
+{{< i s="/flags/jp.png" a="Japan Flag" >}}
+
+
+
 Japan has been suffering from chronic deflation since 1991 after the bursting of their asset price bubble. 
 
 This is similar in pattern to the secular stagnation in the US after the 2008 Financial Crisis. Both problems persist because they have been given the wrong solutions in the form of "quantitative easing" (QE) in the US, and "Abenomics" in Japan.

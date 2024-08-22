@@ -92,7 +92,7 @@ The Supreme has the Positive Force to naturally counteract the Negative.
 This Positive Force has an inherent tendency to unite and dwell in the abstract or metaphysical domain where it excels in knowledge. This is different from the Negative Force which dwells in the physical domain where it separates things to facilitate new creations* as well as maintain ignorance. 
 
 
-> *This is why 'Shakti' or the Negative is a force for creativity and power
+{{< f f="*This is why 'Shakti' or the Negative is a force for creativity and power" >}}
 
 
 Since the metaphysical is superior to the physical, we are absolutely confident that the Positive will conquer the Negative in the long run. This manifests as the maxim: "The pen is mightier than the sword."

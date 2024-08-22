@@ -8,7 +8,7 @@ description: "The social cycles of Germany"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "/flags/il.png"
+icon: "/flags/de.png"
 weight: 93
 ---
 

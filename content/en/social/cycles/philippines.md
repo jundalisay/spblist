@@ -19,6 +19,9 @@ Current Cycle | Years per Cycle | Social Age
 Positive Warrior  | 12 | 5.5
 
 
+
+{{< i s="/flags/ph.png" a="Philippine Flag" >}}
+
 <!-- The [previous post](/maharlika/economics/dutertenomics) explained the problem with the Keynesian , which is embodied in the neoliberal economic plan called . -->
 
 

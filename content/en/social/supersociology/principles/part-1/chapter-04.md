@@ -95,7 +95,7 @@ The two main differences between Superphysics Morals and such Utilitarian Morals
 
 Superphysics Morals, on the other hand, is based on the higher pleasures, specifically from the spatial (mental) and aethereal layers (spiritual)
 
-![Science versus Superphysics](/graphics/super/5layers1.jpg)
+![Science versus Superphysics](/graphics/meta/science.png)
 
 The spatial layer is why Superphysics morals focuses on maximum people and maximum length of time. 
 

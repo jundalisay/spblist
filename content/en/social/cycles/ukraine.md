@@ -69,7 +69,7 @@ Instead of the Western mentality affecting and improving the Slavic mentality, i
 The greater role of China, as Confucian mentality, and the spread of Slavic culture are consequences of the decline of Western civilzation. We had called this "[The Mongol Vision](/social/cycles/russia)"*. The massacre at Bucha is proof of the Mongol mentality within the soul of Russian society. 
 
 
-> *The Ukrainians, as the Kievan Rus, made a fatal mistake of not surrendering to the Mongols in 1240. This led to their destruction. The Russians, on the other hand, surrendered. This allowed Russia to survive and be the leader of the Rus. Modern Ukraine had a chance to avoid the mistake that their ancestors made, only to blow that chance in 2014-2022. The root of the problem in Ukraine is that it is a fertile country in a barren neighborhood.
+{{< f f="*The Ukrainians, as the Kievan Rus, made a fatal mistake of not surrendering to the Mongols in 1240. This led to their destruction. The Russians, on the other hand, surrendered. This allowed Russia to survive and be the leader of the Rus. Modern Ukraine had a chance to avoid the mistake that their ancestors made, only to blow that chance in 2014-2022. The root of the problem in Ukraine is that it is a fertile country in a barren neighborhood." >}}
 
 
 {{< img src="/photos/medieval/mongols.jpg" alt="Mongol massacre" cap="The Mongols were known to massacre a lot of innocent people" >}}

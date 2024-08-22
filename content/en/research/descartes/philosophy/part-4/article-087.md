@@ -40,41 +40,49 @@ This is the same principle why a ship, not tethered by any ropes, cannot remain 
 
 #### 88. How is Fire Produced by the Mixture of Various Bodies?
 
-This violent motion almost never alone causes fire. 
+**This violent motion almost never alone causes fire.** 
 
 It is almost always mixed with air exhalations which easily transform either into flame or, at least, light, as seen in:
 - will-o'-the-wisps around the Earth
 - lightning in clouds
 - shooting and falling stars in the high air. 
 
-Exhalations consist of the tiniest particles, divided into many branches. These wrap around denser particles derived from pungent juices or volatile salts.
+Exhalations consist of the tiniest particles, divided into many branches. 
+- These wrap around denser particles derived from pungent juices or volatile salts.
 
 These branches are usually so minute and closely-packed that nothing can pass through their interstices except the fire-aether.
 
-However, the particles enveloped by these branches often form other larger intervals that the air-aether globules tend to fill. 
+However, the particles enveloped by these branches often form other larger gaps that the air-aether globules tend to fill. 
+- At that point, the exhalation does not ignite.
 
-At that point, the exhalation does not ignite. But sometimes, these spaces are occupied by particles of another exhalation or spirit. 
-
-When these expel the former along with the air-aether, they immediately leave their place, and, with their motion, generate fire.
+But sometimes, these spaces are occupied by particles of another exhalation or spirit. 
+- When these expel the original exhalation along with the air-aether, they immediately leave their place, and, with their motion, generate fire.
 
 
 #### 89. Fire In Lightning and Shooting Stars
 
 In lightning or shooting stars, the cause that compiles multiple exhalations simultaneously becomes apparent due to the descent of one cloud into another.
 
-However, in tranquil air, when one exhalation, densified and at rest due to cold, is easily penetrated by another coming from a warmer place or consisting of particles more suitable for motion or even impelled by a gentle wind, it rushes into its pores. 
+However, in tranquil air, one exhalation can get densified and change to rest due to cold.
+- It is easily penetrated by another exhalation:
+  - coming from a warmer place or
+  - impelled by a gentle wind
+  - consisting of particles more suitable for motion
+- This exhalation rushes into the pores of the resting exhalation. 
+  - As a result, it expels particles into the air-aether. 
 
-As a result, it expels particles into the air-aether. 
+The particles of the first exhalation are not yet so tightly connected.
+- And so they cannot be separated by the impact of the others.
+- This makes them burst into flame. 
 
-Since the particles of the first exhalation are not yet so tightly connected that they cannot be separated by the impact of the others, they burst into flame. 
-
-I believe this is how shooting stars are ignited.
+This is how shooting stars are ignited.
 
 
 
 #### 90. Fire in Those that Shine but Do Not Burn: Falling Stars
 
-When, however, the particles of an exhalation have coalesced into a substance so dense and viscous that they do not separate much, they emit only some light.
+Sometimes, the particles of an exhalation coalesce into a substance so dense and viscous that they do not separate much.
+- This makes them emit only some light.
 
 This is similar to that seen in:
 - rotting wood

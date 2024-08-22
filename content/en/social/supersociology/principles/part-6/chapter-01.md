@@ -30,7 +30,8 @@ These have much more weight than doing the simple voice calls allowed by telepho
 
 David Hume explained that such naming mistakes are caused by the mind always choosing the mental processes that expend the least energy — it tries to connect ideas and form new ones without thinking. The phone became smart and so it was called a smartphone.
 
-> Update Dec 2020: The recent term 'social distancing' is another example of wrong naming. It's used to imply keeping a physical distance from each other in order to prevent virus transmission. However, society is abstract in essence. Therefore, social distancing would mean being aloof, or not thinking about others at all. Two busy employees might physically bump into each other and not even mind nor remember the incident. Such a case would really be social distancing in the proper sense. The correct term for avoiding the virus is 'physical distancing'. The prevalence of 'social distancing' (and the fact that no one is denouncing it in favor of 'physical distancing') is proof that the essential science of Metaphysics or Dialectics is dead.
+{{< u d="Dec 2020" u="The recent term 'social distancing' is another example of wrong naming. It's used to imply keeping a physical distance from each other in order to prevent virus transmission. However, society is abstract in essence. Therefore, social distancing would mean being aloof, or not thinking about others at all. Two busy employees might physically bump into each other and not even mind nor remember the incident. Such a case would really be social distancing in the proper sense. The correct term for avoiding the virus is 'physical distancing'. The prevalence of 'social distancing' (and the fact that no one is denouncing it in favor of 'physical distancing') is proof that the essential science of Metaphysics or Dialectics is dead." >}}
+
 
 
 ## Political Misnaming
@@ -40,7 +41,6 @@ In politics, this is commonly seen in the confusion between democracy and social
 Democracy first appeared in ancient Greece and was defined by Socrates as a system where people could vote on everything. 
 
 {{< box >}}
-
 ### The Error of 'Oligarchy'
 
 Another problem is the word 'oligarchy'. 
@@ -56,8 +56,8 @@ The problem is that the rule of the few also is in tyranny, timocracy, and arist
 - The freed peasants made up the first estate
 - The monarchs and the church made up the second estate
 - The merchants and manufacturers made up the third estate
-
 {{< box >}}
+
 
 ### The Error of 'Capitalist'
 
@@ -119,7 +119,9 @@ As a workaround, we've created a new term called [social networkism](/social/sup
 
 It distances itself from anarchism or laissez-faire liberalism by espousing the unity of society over the unity of the self*. Rather, it assumes that the self has already been unified according to the principles of Bio Superphysics. 
 
-> *Recall that, in our system, [a person has 3 billion selves](/bio/principles/intro/chapter-04).
+
+{{< f f="*Recall that, in our system, [a person has 3 billion selves](/bio/principles/intro/chapter-04)." >}}
+
 
 
 When systematized as a government, it becomes a 'social network republic' which we shorten to 'social republic'. Countries which adopt this system will then be named 'The Social Republic of Wakanda', for example. 
@@ -133,7 +135,8 @@ This idea remains true to Socrates' Republic and to the French Revolution which 
 
 Thus, a social republic unifies left and right wing into a single harmony* that alternates in leadership, while balancing personal freedom and state control.
 
-> *Western universities shallowly interpret Socrates' musical advocacy as referring to audible music. In reality, his music refers to the symphony of feelings, whether of humans, animals, or the universe itself. This makes him consistent with the Asian philosophers who pushed for harmony with the Tao or dharma. 
+
+{{< f f="*Western universities shallowly interpret Socrates' musical advocacy as referring to audible music. In reality, his music refers to the symphony of feelings, whether of humans, animals, or the universe itself. This makes him consistent with the Asian philosophers who pushed for harmony with the Tao or dharma." >}}
 
 
 The main features of a social republic are:

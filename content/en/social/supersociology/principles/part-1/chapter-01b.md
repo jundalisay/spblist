@@ -23,24 +23,37 @@ Further research can unravel the details of these patterns, which can be used to
 
 ## History Repeats Itself
 
-After the Holocaust of World War II wherein as much as six million people were senselessly killed, world leaders vowed to never again undergo the horrors of genocide. 
+After the Holocaust of World War II wherein as much as six million people were senselessly killed, world leaders vowed to never again undergo the horrors of genocide. Yet in 1994, world leaders sat helplessly as Rwandans murdered hundreds of thousands of their own people in the name of ethnic cleansing. 
 
-Yet in 1994, world leaders sat helplessly as Rwandans murdered hundreds of thousands of their own people in the name of ethnic cleansing. In the 1930’s, the US government enacted regulations to ensure that the Wall Street Crash of 1929 would not happen again, but in 1999, such regulation was repealed, leading to a bigger global recession in the late 2000’s. Despite the devastation of war recorded in Biblical times, Israel and Iran still choose to antagonize each other over the issue of each other’s existence. 
+In the 1930’s, the US government enacted regulations to ensure that the Wall Street Crash of 1929 would not happen again. But in 1999, such regulation was repealed, leading to a bigger global recession in the late 2000’s.
+
+Despite the devastation of war recorded in Biblical times, Israel and Iran still choose to antagonize each other over the issue of each other’s existence.
 
 These events beg the question: Why do leaders and societies repeat the same horrible mistakes over and over? Is there a way to stop repeating the mistakes of the past so that humanity can truly move forward?
 
 
 ## Western Objective versus Eastern Subjective Approaches
 
-To understand why humans behave as such, it is necessary to analyze the most basic component that makes up humanity, starting with the human mind. Unlike animal minds, human minds are endowed with a higher level of sentience or self-consciousness which lets us exercise freedom from basic instincts. 
+To understand why humans behave as such, it is necessary to analyze the most basic component that makes up humanity, starting with the human mind.
 
-Animal minds are only preoccupied with basic life processes, while human minds often go beyond the basics, into culture, science, religion, and politics. Animal minds must adapt their behavior to ensure basic life processes while humans behave according to a more complex consciousness. 
+Unlike animal minds, human minds are endowed with a higher level of sentience or self-consciousness which lets us exercise freedom from basic instincts. 
 
-The differences in behavioral patterns between humans from different areas and time periods can be attributed to how their consciousness has been shaped by events or by their environment, education, culture, situation, etc. The kinds and levels of consciousness have not been explored by Western philosophers in depth, as the Western scientific approach focuses more on objectivity or things that can be observed and measured by all, such those of ‘thought experiments’, which observe the results of conscious activity instead of the nature of consciousness itself.
+![Monkey](/photos/social/monkey.jpg)
+
+Animal Minds | Human Minds
+--- | ---
+Only preoccupied with basic life processes | Often go beyond the basics, into culture, science, religion, and politics
+Must adapt their behavior to ensure basic life processes | Behave according to a more complex consciousness 
+
+The differences in behavioral patterns between humans from different areas and time periods can be attributed to how their consciousness has been shaped by events or by their environment, education, culture, situation, etc. 
+
+The kinds and levels of consciousness have not been explored by Western philosophers in depth, as the Western scientific approach focuses more on objectivity or things that can be observed and measured by all, such those of ‘thought experiments’, which observe the results of conscious activity instead of the nature of consciousness itself.
 
 Eastern philosophers, on the other hand, do not have this limitation as Eastern spirituality (originating from India at a much earlier era) has techniques such as meditation and yoga that go beyond the objective physical world into the subjective world of the mind. 
 
-This has led to common observations by Eastern philosophers on the nature of human minds. For example, according to Yamazaki (1988), the Buddhist tantric monk Kukai in the year 830, observed that the evolution of a human mind has ten stages, starting from a lower animalistic mind, then, slowly evolving into a more enlightened or higher mind.
+This has led to common observations by Eastern philosophers on the nature of human minds. 
+
+For example, according to Yamazaki (1988), the Buddhist tantric monk Kukai in the year 830, observed that the evolution of a human mind has ten stages, starting from a lower animalistic mind, then, slowly evolving into a more enlightened or higher mind.
 
 Level of Mind | Characteristics and Behavior
 --- | ---
@@ -64,13 +77,19 @@ This is similar to the other levels of consciousness observed by Buddhist groups
 
 Since every entity in the universe is evolving at its own pace, the human species will have a certain number of minds at each level at any given point in time. 
 
-During prehistoric times when the human race was at its infancy, the majority of humans had animalistic minds, yet there were also a few enlightened minds who united early humans into tribes, which later became civilizations.  
+During prehistoric times when the human race was at its infancy, the majority of humans had animalistic minds. Yet there were also a few enlightened minds who united early humans into tribes, which later became civilizations.  
 
-As time progressed, these minds evolved to develop more sophistication: founding nations, religions, culture, and sciences.  Even if the total ratio of enlightened minds is currently growing through the natural process of evolution, animalistic minds will always exist until humans evolve into a different species.  
+As time progressed, these minds evolved to develop more sophistication: founding nations, religions, culture, and sciences.
 
-Persons with higher minds, such as Isaac Newton and Leonardo Da Vinci, may exist in a time of lower human minds and be recognized as brilliant scientists or inventors.  Likewise, persons with lower minds may exist in a time of higher minds and become investment bankers, religious fanatics, fierce tribalists, or corrupt government officials.  History has shown that when humans with higher minds become leaders, ‘golden ages’ take place.  
+Even if the total ratio of enlightened minds is currently growing through the natural process of evolution, **animalistic minds will always exist** until humans evolve into a different species.  
 
-When those of lower minds become leaders, war, depressions, and collapse usually result.
+Persons with higher minds, such as Rene Descartes and Leonardo Da Vinci, may exist in a time of lower human minds and be recognized as brilliant scientists or inventors.  
+
+Likewise, persons with lower minds may exist in a time of higher minds and become investment bankers, religious fanatics, fierce tribalists, or corrupt government officials.  
+
+History has shown that:
+- when humans with higher minds become leaders, ‘golden ages’ take place
+- when those of lower minds become leaders, war, depressions, and collapse usually result
 
 If individual minds have certain levels which may be higher or lower than others, what happens when they are grouped together?
 

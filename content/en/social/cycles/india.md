@@ -13,6 +13,13 @@ icon: "/flags/in.png"
 ---
 
 
+
+Current Cycle | Years per Day | Current Week | Current Month | Current Year
+--- | --- | --- | --- | --- 
+Positive Thinker | ? | ? | ? | ?
+
+
+
 Coming Soon!
 
 This will explain the Modhi Thinker era.

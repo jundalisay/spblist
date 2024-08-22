@@ -13,6 +13,11 @@ icon: "/flags/my.png"
 ---
 
 
+Current Cycle | Years per Day | Current Week | Current Month | Current Year
+--- | --- | --- | --- | --- 
+? | ? | ? | ? | ?
+
+
 Coming Soon!
 
 This will start off with the MDB scandal then connect it to San Fotsi (Sri Vijaya). 

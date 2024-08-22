@@ -76,6 +76,8 @@ This allowed the Jewish power to grow again and set foot in Israel.
 
 While the Jews focused on finance and industry, the Arabs focused on oil. The problem is that oil is a mere commodity and does not multiply labor nor productivity. It gives energy, but what good is that energy without machines?
 
+> While the Jews focused on finance and industry, the Arabs focused on oil
+
 In a war using machines, productivity is important as it gives the vehicles, weapons, ammunition, and supplies needed by the military.
 
 Arab productivity was far less than that of the Jewish power which was based on the financial industry. And so, Isreal could buy the expensive modern weapons that let them gain more Palestinian lands. 

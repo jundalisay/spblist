@@ -12,6 +12,12 @@ draft: true
 ---
 
 
+
+Current Cycle | Years per Day | Current Week | Current Month | Current Year
+--- | --- | --- | --- | --- 
+? | ? | ? | ? | ?
+
+
 In Socrtes' Social Cycles model, the tyrant beats the populist, the philosopher beats the tyrant, the merchant beats the philosopher. 
 
 This is why the Pakistani military was able to kick out their populist Prime Minister Imran Khan in 2022. The protests of Khan's supporters have been ineffective in preventing his imprisonment. 
