@@ -1,6 +1,6 @@
 ---
 heading: Anti-gravity Principles
-title: How Qosts Can Make Fusion a Reality
+title: How Qosts (2nd Element) Can Make Fusion a Reality
 date: 2020-01-31
 image: /graphics/physics/vortex.jpg
 description: "Fusion can be realized by artificial gravity just as stars use gravity for their fusion"
@@ -20,8 +20,8 @@ Without this confinement, the star would dissipate immediately. And so, **the ex
 
 This vortex idea is from the Physics of the aethrealist Rene Descartes, which was rejected by the materialist*  Isaac Newton. 
 
-> *Newton invested in the stock market and lost most of his wealth. Descartes did not. 
-
+{{< n n="*Newton invested in the stock market and lost most of his wealth. Descartes did not." >}}
+ 
 
 And so, it never made its way into Modern Physics.
 
@@ -57,7 +57,7 @@ The proper solution is to think one level, or one Element, higher than the probl
 
 The proper confining mechanism, as mentioned earlier, is through gravity via spacetime vortices. This is because spacetime is naturally superior to the Radiant or Electromagnetic Layer or Element* (heat, light, electricity). (The true economic solution to price inflation is to use barter, which is on a different level from money).
 
-> *Descartes calls Electromagnetism as the 1st Element
+{{< n n="*Descartes calls Electromagnetism as the 1st Element" >}}
 
 
 {{< img src="/graphics/physics/layers.png" cap="Superphysics uses the five layers of aether, air, fire, water, and earth of the Greeks and Asians as aether, spatial, radiant, transformative, and material, or 水, 木, 火, 土, 金, respectively" alt="5 Layers of Superphysics" >}}
@@ -104,7 +104,8 @@ This has already been done by Buddhist monks who can levitate at will.
 
 In this case, they use sound, as a mantra, to manipulate the vortices (chakras) in their body in order to allow qosts to pass through. We call this the passive version. We made this inference after a monk taught us how levitation works -- we combined Buddhist principles with those of Descartes*. 
 
-> *We couldn't find any modern Western theory for this, so we went backwards to Aristotle, Socrates, Avicenna, etc. until we encountered Cartesian Physics which thankfully had everything that we were looking for.  Rene Descartes saved us **A LOT of time** because he already explained all the basic principles. We just had to build on them and fix some minor mistakes (such as him having only 3 Elements instead of the traditional 5). This made us realize that Einstein was a genius **sophist** and that is why no one is able to unify General Relativity and Quantum Mechanics. 
+
+{{< n n="*We couldn't find any modern Western theory for this, so we went backwards to Aristotle, Socrates, Avicenna, etc. until we encountered Cartesian Physics which thankfully had everything that we were looking for.  Rene Descartes saved us **A LOT of time** because he already explained all the basic principles. We just had to build on them and fix some minor mistakes (such as him having only 3 Elements instead of the traditional 5). This made us realize that Einstein was a genius **sophist** and that is why no one is able to unify General Relativity and Quantum Mechanics." >}}
 
 
 
@@ -117,11 +118,9 @@ An alternative way is to use the qosts directly to propel a mass. In the video b
 This is used by Bob Lazar's UFO design which utilizes 'gravity amplifiers' to emit gravity 'waves' through the ship's bottom. This makes the ship move top-forward towards its destination similar to how the levitator moves in a 'top-up' direction instead of a sideways direction. This is in contrast to the passive version where monks can travel sideways by blocking/unblocking the qosts that pass through instead of funneling them.    
 
 
-{{< box >}}
-### Note for Future Generations
-
+{{< d t="Note for Future Generations" >}}
 Of course, all of this is just the *mechanistic* explanation of gravity, and not the true *aethereal* explanation of gravitation signatures or svadharma which would be too unrelatable to most people. The true explanation is that gravity is the aethereal link or ratio between identities. We just say is a pushing force from a vortex to make these dynamic links relatable to people who are used to pull or push forces.  
-{{< /box >}}
+{{< /d >}}
 
 <!-- While pure energy and brute force are common in dealing with Electromagnetism, precision and sophistication are common in dealing with Spacetime.  -->
 
@@ -135,12 +134,7 @@ The same problem afflicted other fusion reactors.
 been able to create sustained fusion reactions. Currently, the reactions are sustained only for around 100 seconds. Imagine powering a city only for 100 seconds and then leaving it dark again -- it would be a useless kind of power.   -->
 
 
-
-
 <!-- Instead of using gravitational vortices to compress and control fusion reactions, physicists use magnetic fields. 
-
- electromagentism 
-
 
 Both the National Ignition Facility and Japan's tokamak use the principle of Electromagnetism to start and sustain fusion reactions. 
 
@@ -153,7 +147,6 @@ However, this is wrong since the real mechanism behind fusion in stars is its  -
 These create natural movement by their mutual repulsion and, thus, are essential in levitation and teleportation. -->
 
 <!-- youtube F5rqnidVUkY -->
-
 
 <!-- These can also be employed to harness energy in two ways:  
 
@@ -168,12 +161,7 @@ This requires an input, such as hydrogen and is therefore non-free energy. Howev
 
 Physicists are going for the second approach after learning how to extract atomic energy in the 1940's through nuclear fission reactions, as a consequence of atomic theory. However, fission is limited and dangerous. This led physicists to go for fusion which is supposed to be clean and safe. 
 
-
-## The Fusion Solution -->
-
-
-
-<!-- It does not apply to the upper two layers of the spatial or aethereal, where crudity is replaced by precision and sophistication. The technological designs for the lower three layers are so simplistic:
+It does not apply to the upper two layers of the spatial or aethereal, where crudity is replaced by precision and sophistication. The technological designs for the lower three layers are so simplistic:
 - the general design of combustion-based rockets is based on a simple tube
 - all air-based airplanes are a tubes with two wings 
 
@@ -197,60 +185,49 @@ A linear reactor uses two or more qosts (duads, etc). This outputs much more ene
 
 Since artificial gravitation is the key ingredient to sustainable fusion, the first step is to either levitate or prelevitate* things without using electricity. 
 
-> *Prelevitation is done by making a thing lighter without actually levitating.
+{{< n n="*Prelevitation is done by making a thing lighter without actually levitating." >}}
 
 
 This was done by:
 - the ancient Egyptians to lift pyramid blocks 
 - the Israelites* who used trumpets to amplify the gravitation of the walls of Jericho as to make them collapse
 
-> *The Israelites came from Egypt, so their scientists, who were called priests or rabbi, would have some idea of how the gravity tech of the Egyptians worked. <!-- Nowadays, scientists  -->
+{{< n n="*The Israelites came from Egypt, so their scientists, who were called priests or rabbi, would have some idea of how the gravity tech of the Egyptians worked." >}}
 
 
 The use of trumpets by the Israelites is consistent with Kepler who wrote about the Harmony of the Universe, consistent with Socrates and Pythagoras:
 
-{{< q a='Johannes-Kepler' >}}
+{{< q a="Johannes-Kepler" >}}
 A great distinction exists between:
 - the consonances of the single planets which have been unfolded and
 - the consonances of the planets in pairs. 
 
-The single ones cannot exist at the same moment, but the pairs absolutely can. This is because the same planet, moving at its aphelion, cannot be at the opposite perihelion at the same time. But of two planets, one can be at its aphelion and the other at its perihelion. And so the ratio of plain-song or monody, which we call "choral music" and which alone was known to the ancients, 1 to polyphony—called "figured song,"; 2 the invention of the latest generations—is the same as the ratio of the consonances which the single planets designate to the consonances of the planets taken together.
+The single ones cannot exist at the same moment, but the pairs absolutely can. This is because the same planet, moving at its aphelion, cannot be at the opposite perihelion at the same time. But of two planets, one can be at its aphelion and the other at its perihelion.
 {{< /q >}}
 
 
-{{< q a='Socrates' c="The Republic by Plato Simplified, Book 3, Chapter 2" >}}
+ <!-- And so the ratio of plain-song or monody, which we call "choral music" and which alone was known to the ancients, 1 to polyphony—called "figured song,"; 2 the invention of the latest generations—is the same as the ratio of the consonances which the single planets designate to the consonances of the planets taken together. -->
+
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 3, Chapter 2" >}}
 Therefore, musical training is a more potent instrument than any other, because rhythm and harmony find their way into the inward places of the soul.
 {{< /q >}}
 
 
 {{< img src="/photos/medieval/trumpets.jpg" alt="Trumpets of the ancient Egyptians" cap="Two trumpets found in King Tut's tomb" >}}
 
-<!-- match the use of trumpets used by the Israelites to collapse the walls of Jericho -->
-
 <!-- Material Superphysics builds on Kepler's Laws to rebuild the principles of the material Universe based on sound from the perspective of the Supreme Entity instead of the shallow human view based on sight. This bypasses everything from Aristotle to Ptolemy, and Newton to Einstein, who created Physics principles from a shallow observation of cause and effect:
-
-
 
 Materialist Camp | Nonmaterialist Camp
 --- | ---
 Aristotle, Ptolemy (Earth is the center) | Aristarchus, Copernicus (the sun is the center)
 Newton, Einstein (Mass creates gravity) | Kepler, Galileo (Gravity is from the foci* of two objects)
 
-
 > *Material Superphysics develops Kepler's foci concept into qosts -->
-
 
 <!-- 
 500MW for 50MW infused 
-
-Deuterium 
-
-mini tokamak
-
 linear reactors 
-
-TAE reactors doesnt' use mea stellarator -->
-
+TAE reactors doesnt' use stellarator -->
  
 So the steps towards sustainable fusion are:
 
@@ -259,12 +236,11 @@ So the steps towards sustainable fusion are:
 3. Make that plasma flow under extreme compression and confinement
 
 
-## Update: February 2024
-
-We have done baby steps wtih Step 1 by making a 1 kilogram mass lighter by 2 grams, and a 300 gram mass lighter by 1 gram. But more specialized equipment, which we do not have, is needed to reduce the weight more.
+{{< d t="Update: February 2024" >}}
+We have done baby steps with Step 1 by making a 1 kilogram mass lighter by 2 grams, and a 300 gram mass lighter by 1 gram. But more specialized equipment, which we do not have, is needed to reduce the weight more.
 
 So for now, we switch to more practical and useful Cartesian experiments, such as a [top-down fire setup](https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac/?trackingId=gS8C5O58Ru6A40bi5D2mPA%3D%3D) which might be useful for people who are affected by high gas prices from the War in Ukraine and Gaza. 
-
+{{< /d >}}
 
 
 
@@ -274,5 +250,4 @@ So for now, we switch to more practical and useful Cartesian experiments, such a
 5. Make that plasma flow* to create a more serious vortex to confine itself gravitationally, leading to sustained fusion -->
 
 <!-- > *The TAE reactor has this idea, but because it has no concept of gravitation, it has no choice but to raise the plasma to extreme heat, making the whole thing wasteful -->
-
 

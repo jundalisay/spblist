@@ -100,14 +100,13 @@ By extending the relationship between crisis and skyscrapers, we add into our pr
 
 The next post will explain how we predicted a 2019 crisis.
 
-{{< b >}}
+{{< d t="Updates" >}}
 
-Updates | 
---- | ---
 Oct 2017 | As expected, the opening of the Kingdom Tower (Jeddah Tower) [has been delayed](http://www.dailymail.co.uk/sciencetech/article-4497256/Worlds-tallest-building-delayed-2019-Saudi-prince.html)
+--- | ---
 Nov 2019 | The Jeddah Tower is still delayed
 
 {{< youtube pdXP7iGnnLE >}}
 
-{{< /b >}}
+{{< /d >}}
 

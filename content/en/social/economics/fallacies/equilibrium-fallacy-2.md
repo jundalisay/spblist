@@ -77,9 +77,8 @@ Similarly, the mercantilist advocates reducing supply to increase the selling pr
 
 By replacing 'exports' with 'sales', and 'imports' with 'purchases' or 'costs', we can see that the merchant does the same things that the manufacturer does. What the manufacturer calls 'equilibrium' is called 'balance' by the merchant, while 'profit maximization' is 'overbalance' or trade surplus*.
 
-
-> *The principle of the balance of trade is destroyed by the fact that the US is a net importer but is rich, while China was a net exporter back in the 2000's but was relatively much poorer. If the balance of trade were strictly enforced, then the US should have started a total trade war with China back in the 2000's to avoid being a net importer. Similarly, equilibrium is destroyed by the fact that a poor person can buy a $1 anti-parasitic medicine (of low nominal value) which will save his life (have maximum real value). If equilibrium were strictly enforced, then the seller of the $1 medicine should raise its price to $10,000 to be in equilibrium to the future lifetime productive value of the poor man. Alternatively, the seller can auction it to raise its price above $1 and maximize profits. All these propositions are absurd. 
-
+{{< f f="*The principle of the balance of trade is destroyed by the fact that the US is a net importer but is rich, while China was a net exporter back in the 2000's but was relatively much poorer. If the balance of trade were strictly enforced, then the US should have started a total trade war with China back in the 2000's to avoid being a net importer. Similarly, equilibrium is destroyed by the fact that a poor person can buy a $1 anti-parasitic medicine (of low nominal value) which will save his life (have maximum real value). If equilibrium were strictly enforced, then the seller of the $1 medicine should raise its price to $10,000 to be in equilibrium to the future lifetime productive value of the poor man. Alternatively, the seller can auction it to raise its price above $1 and maximize profits. All these propositions are absurd." >}}
+ 
 
 
 ### Smith's Version
@@ -94,7 +93,9 @@ The natural price is the lowest price that a dealer can sell his goods.. The mar
 When the commodities fall short of the effectual demand, the shortage will cause some of the buyers give more for those few commodities. This will create a competition among buyers which will raise the market price. When the amount sold exceeds the effectual demand, the excess will remain unsold. To dispose of it, it must be sold to those who are willing to pay less.
 {{< /q >}}
 
-> *Instead of profit maximization as producer's surplus, buyers are interested in bargains as [consumer's surplus](/social/economics/principles/part-2/chapter-05/)
+
+{{< f f="*Instead of profit maximization as producer's surplus, buyers are interested in bargains as [consumer's surplus](/social/economics/principles/part-2/chapter-05/)" >}}
+
 
 ![Natural Price Economics](https://sorasystem.sirv.com/charts/demsup/righttao.png)
 
@@ -113,7 +114,9 @@ As you can see in the chart above, the sweet spot of the natural supply and dema
 
 However, the profit maximization doctrine of Economics teaches that supply must be reduced so that prices will rise. Rather, competition should be stifled in order to preserve one's monopoly position for the sake of guaranteeing high profits for the investors. 
 
-The resulting high prices and low supply then contradict the goal of economic growth, especially after bubbles and financial crises. Economists try to save face by saying that perfect competition is needed for it to work. But they do not realize that their supply curve makes perfect competition impossible in the first place. Because of this, 'real equilibrium' is never achieved despite the best efforts of economists and governments. 
+The resulting high prices and low supply then contradict the goal of economic growth, especially after bubbles and financial crises. Economists try to save face by saying that perfect competition is needed for it to work.
+
+But they do not realize that their supply curve makes perfect competition impossible in the first place. Because of this, 'real equilibrium' is never achieved despite the best efforts of economists and governments. 
 
 
 Worse is that the ecconomists and policymakers had no idea that their policies and theories were devised by the vested interests of traders, manufacturers, and financiers to benefit traders, manufacturers, and financiers. Such people only want maximum wealth for themselves, not knowing of the problems that excessive wealth creates: 

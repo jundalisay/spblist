@@ -75,4 +75,5 @@ The wages of goldsmiths and jewellers are superior to other workmen because of t
 <cite>Wealth of Nations Book 1, Chapter 8</cite>
 {{< /q >}}
 
-> *We used the term riches(money) for SEO purposes only. We really mean wealth which is measured in real goods and services.
+{{< f f="*We used the term riches(money) for SEO purposes only. We really mean wealth which is measured in real goods and services." >}}
+

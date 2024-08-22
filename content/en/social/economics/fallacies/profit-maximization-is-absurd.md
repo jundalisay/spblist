@@ -18,7 +18,7 @@ A key fallacy that is inseparably part of Economics, along with equilibrium, is 
 The idea of maximization has its origins in Newton's Calculus which in turn has its origins in Physics. Smith and Hume never mentioned maximization nor calculus anywhere in their writings on the political economy. In fact, The Wealth of Nations has no equations at all*! 
 
 
-> *Instead of equality, equilibrium, equations, or 1 + 1 = 2, Smith makes extensive use of ratios, proportions, balance, or 2 : 2, as prices are psychological and not physical in nature. We implement these ratios the most in our DCIT tool. This important difference is a reason why Smith and Hume's Political economy is to be regarded as a totally different science from current Economics.
+{{< f f="*Instead of equality, equilibrium, equations, or 1 + 1 = 2, Smith makes extensive use of ratios, proportions, balance, or 2 : 2, as prices are psychological and not physical in nature. We implement these ratios the most in our DCIT tool. This important difference is a reason why Smith and Hume's Political economy is to be regarded as a totally different science from current Economics." >}}
 
 
 So how in the world did it enter and be so fundamental to Economics?
@@ -101,7 +101,7 @@ For example:
 
 We predict that a future global crisis after 2018 will likewise arise from a small stop.
 
-> *Update July 2021: The small stop for the current crisis turned out to be the tiny SARS-Cov2 virus
+{{< u d="July 2021" u="The small stop for the current crisis turned out to be the tiny SARS-Cov2 virus" >}}
 
 
 If profit maximization is allowed, then tax maximization and wage maximization must be allowed too: 
@@ -165,13 +165,9 @@ Such are the unfortunate effects of all the regulations of the mercantile system
 {{< /q >}}
 
 
-{{< box >}}
-
-## Updates 
-
+{{< dc t="Updates (click to expand)" >}}
 Date | Update
 --- | ---
 2/2017 | added reference to Superphysics
 6/2021 | replaced social liberty with dharmic or taoic liberty
-
-{{< /box >}}
+{{< /dc >}}

@@ -15,7 +15,7 @@ toc: false
 To maximize profits, business-systems pool money together in order to create the equity that makes up the firms and corporations. Such organizations then create, buy, and sell real goods and services via secondary arbitrage*.
 
 
-> *The difference between market prices
+{{< f f="*The difference between market prices" >}}
 
 
 In time, these become very good at accumulating capital and starving others of it, causing a recession or crisis. Notice how 'businesses' is a huge entity in the Circular Flow of Economics below. 
@@ -83,6 +83,5 @@ To explain why a 2% inflation target is bad, we first have to define inflation a
 These then explain why economic crises, poverty, and inequality still persist despite over 100 years of Economics --because its principles actually create crises, poverty, and inequality.
 
 
-{{< me date="6/2021" >}}
-Overhauled to Superphysics and added Basic Universal revenue, Pool clearing, fairtax, etc
-{{< /me >}}
+{{< u d="June 2021" u="Overhauled to Superphysics and added Basic Universal revenue, Pool clearing, fairtax, etc" >}}
+

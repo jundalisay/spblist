@@ -50,7 +50,11 @@ Resource allocation in an RBE is done through rationing done by artificial intel
 
 ## The Fundamental Flaw of RBE: No Metaphysics
 
-Both RBE and Marxism lacks metaphysics which is the secret to the success of an economy. Communism failed while Capitalism flourished simply because the latter was more in line with the dharma of individual humans--the love for freedom and the need for industry. 
+Both RBE and Marxism lacks metaphysics which is the secret to the success of an economy. Communism failed while Capitalism flourished simply because the latter was more in line with the dharma of individual humans--the love for freedom and the need for industry.
+
+So Capitalism has some tiny bit of metaphysics, while Comunism has none. 
+
+> Both Resource-Based Economy and Marxism lack metaphysics which is the secret to the success of an economy
 
 However, Capitalism goes against the dharma of collective humans and the environment, which manifest as inequality, environmental destruction and global warming. This explains why Capitalism survived while Communism did not. The killers of Capitalism are usually revolutions or natural disasters which wipe out capital assets despite best effort. 
 
@@ -63,6 +67,6 @@ Unlike RBE, Superphysics is based on metaphysics. It has its own theory of value
 
 Like RBE, it relies much on technology to scale itself. However, unlike RBE, it can work with old tech such as pen and paper as the tool to build economic agreements between humans. 
 
-Unlike the AI of RBE, [the AI of Superphysics](/superphysics/principles/chapter-04d/), does not impose on the people. Rather, it learns what people need and then suggests the appropriate transactions. 
+Unlike the AI of RBE, the AI of Superphysics, called ANI, does not impose on the people. Rather, it learns what people need and then suggests the appropriate transactions. 
 
 RBE suffers from the same flaws as Marxism which is a sign of the confused feelings of its founder. In the next post, we shall compare the feelings of Adam Smith with Karl Marx to see what constitutes 'solid' or dharmic feelings.

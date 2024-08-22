@@ -85,11 +85,12 @@ Smith's 200 year span holds true for most mercantile companies. It does not usua
 - Amsterdam flourished in the 16th and 17th century but declined in the 18th and 19th. So the 200 year span applied to it. 
 - Modern Singapore was created in 1965 so we can see in year 2165 if Smith's 200 year span applies to it as well.
 
-> *Economists who entertain limits to economic growth, population, development, etc are merely materialists in their core (such as Malthus). They shallowly see that nature imposes limits, such as a fixed land area, and then conclude that humans must be bound to that limitation. Smith and Hume were non-materialists and believed that humans can overcome physical limitations.
+
+{{< f f="*Economists who entertain limits to economic growth, population, development, etc are merely materialists in their core (such as Malthus). They shallowly see that nature imposes limits, such as a fixed land area, and then conclude that humans must be bound to that limitation. Smith and Hume were non-materialists and believed that humans can overcome physical limitations." >}}
 
 
 
-## So What is Steady State Good For?
+### So What is Steady State Good For?
 
 Smith always looked at the good and bad aspects of policies and systems. So on the positive, steady state goes straight into attacking the recklessness of profit maximization and deregulation advanced by Economics and brings up the threat of planetary destruction. 
 

@@ -25,6 +25,9 @@ Founder | Origen
 Scripture | Bible
 Organization | Catholic Church
 
+
+{{< i s="/photos/medieval/rome.jpg" a="Roman Empire" >}}
+
 The Roman Empire's business model was taxation from gaining new territories, as oppposed to trade which was the business model of the Arabs. 
 
 Because of such territorial acquisitions, the Roman Empire included so many tribes, languages, and cultures. 
@@ -56,6 +59,8 @@ Founder | Mohamamd
 Scripture | Quran
 Organization | Islamic Governments
 
+{{< i s="/photos/medieval/mosque.jpg" a="White Mosque" >}}
+
 
 The Prophet Mohammad established Islam as a consequence of the weakening of the Roman and Persian empires which caused instability in the Middle East. 
 
@@ -71,6 +76,7 @@ Founder | Mohamamd
 Scripture | Quran
 Organization | Shia Governments
 
+{{< i s="/photos/medieval/arab.jpg" a="Red Veil" >}}
 
 The Persians and non-Arabs adopted Islam because of the decline of their own Empire. However, they created a different version called Shia to separate them from Arab control. 
 
@@ -82,6 +88,8 @@ Founder | Aryans
 Scripture | Vedas
 Organization | Vedic Temples
 
+{{< i s="/photos/social/poverty.jpg" a="Hinduism" >}}
+
 The Vedas are the basis of Hinduism. In time, because of its long age, it naturally becomes dogmatic. 
 
 
@@ -92,6 +100,7 @@ Founder | Buddha
 Scripture | Buddhist Writings
 Organization | Buddhist Sangha
 
+{{< i s="/photos/meta/buddhism.jpg" a="Buddhism" >}}
 
 Buddha was keen to notice the dogmas in Hinduism, so he created an overhauled version called Buddhism. While the Vedas emphasized the atman, Buddha did away with it completely. 
 
@@ -102,6 +111,9 @@ Founder | Lao Tzu ?
 --- | --- 
 Scripture | Taoist Writings
 Organization | Taoist Temples
+
+{{< i s="/photos/meta/yinyang.jpg" a="Yin Yang" >}}
+
 
 The spiritual systems of the non-Vedic Indians, specifically Tantra, made their way into China as to create Taoism. 
 
@@ -153,6 +165,7 @@ Founder | Hitler
 Scripture | Mein Kampf
 Organization | Nazi Groups
 
+{{< i s="/photos/medieval/hitler.jpg" a="Hitler" >}}
 
 The defeat of Germany in World War 1 because of England and Russia, created despair for the German masses.
 

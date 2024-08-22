@@ -13,9 +13,8 @@ toc: false
 ---
 
 
-{{< me date="April 2021" >}}
-[The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics. We replace our old pre-2019 name "Socioeconomics" with "Supereconomics".
-{{< /me >}}
+{{< u d="April 2021" u="[The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics. We replace our old pre-2019 name 'Socioeconomics' with 'Supereconomics'." >}}
+
 
 Adam Smith’s Supply and Demand Curves (below) are the foundation our proposed science called Supereconomics which is based on Classical Economics. It can be applied to any problem in economics in order to provide common sense answers.
 
@@ -25,12 +24,13 @@ For example, the question below appears in Principles of Microeconomics by Manki
 
 ## Question
 
-*The equilibrium price of coffee mugs rose sharply last month, but the equilibrium quantity was the same as ever. Which explanations could be right? Explain your logic.*
+> The equilibrium price of coffee mugs rose sharply last month, but the equilibrium quantity was the same as ever. Which explanations could be right? Explain your logic.
 
 
 ## Re-phrased Question
 
-*The market price of coffee mugs rose sharply last month, but the quantity supplied was the same as ever. What is the explanation?*
+> The market price of coffee mugs rose sharply last month, but the quantity supplied was the same as ever. What is the explanation?
+
 
 This re-phrased question does not impose 'equilibrium,' since it is a mercantile sophistry or a not-so-obvious-lie. We then apply Socrates' Dialectical method in order to chase down the cause of its hypothesis. 
 
@@ -42,10 +42,6 @@ _ | Economist | Supereconomist
 Chart | ![Economics Supply](https://sorasystem.sirv.com/charts/demsup/mug.png) | ![Superphysics Supply](https://sorasystem.sirv.com/charts/demsup/intro.png)
 Short Answer | The supply for coffee mugs was "perfectly inelastic" | The price of the coffee mugs during the previous month was an introductory price. The price afterwards is the natural price (a concept that is not present in economics)
 Long Answer | There is a single supplier of coffee mugs in the whole society. People have no choice but to buy from it at whatever price it wants, so the demand curve shifted to the right. Demand increased but supply was totally inelastic. | There are many suppliers of coffee mugs. A certain kind of mug, of a certain material, proved to be a hit among consumers, so the supply curve for it shifted upwards*. Based on the information in the question, assuming it is a realistic scenario (why would students be taught unrealistic scenarios?), we can deduce that the previous price for the special coffee mug was an introductory price (lower than usual) in order to entice buyers (four mugs were sold at $3 each). The price was raised the next month as demand rose. Thus, four new mugs could be sold at $6 each, with a $3 rise in price. Production was not increased because the raw material was limited. *We don't say that it shifted to the right just as we don't say that today's price is 'more rightwards' than last year's. We always say that it's higher or lower and never 'righter' nor 'lefter'.
-
-
-_ | Economist | Supereconomist
---- | --- | ---
 Conclusion | Fallacy: There is only one coffee mug supplier or Coffee mugs are so essential to society that people won't mind paying increasingly high prices for it | Relative Truth: No coffee mug, nor any product, could ever be worth an infinite value as to be a "perfectly inelastic" good.
 
 
@@ -68,42 +64,38 @@ An example is a special event for that month. Smith gives an example as a public
 
 More realistically, the event called specifically for that kind of mug, which leads to the next scenario:
 
-## Scenario 3: That kind of coffee mug suddenly became so popular, for example through social media. 
+### Scenario 3: That kind of coffee mug suddenly became so popular, for example through social media. 
 
 It was a new kind of mug based on a limited material. It was first sold at an introductory price to test the market. Once demand was established, the competition* among mug-makers for the limited material raised the cost, without increasing the number of such mugs in society. This increased cost then increased its natural price. Unlike the economist's answer, the price of the mugs in this case cannot be raised to infinite heights. The Supereconomist's answer leads to this. 
 
-> *In Economics, the knowhow to make the special mugs would be monopolized by a single supplier. In Supereconomics, on the other hand, the basic intellectual property is made available to allow others to make the product and quench all demand as fast as possible. This is most commonly seen in open-source software which has sped up the development of software technology, leading to very useful apps and online services.  
+{{< f f="*In Economics, the knowhow to make the special mugs would be monopolized by a single supplier. In Supereconomics, on the other hand, the basic intellectual property is made available to allow others to make the product and quench all demand as fast as possible. This is most commonly seen in open-source software which has sped up the development of software technology, leading to very useful apps and online services." >}}
 
 
-{{< me date="July 2021" >}}
-This is consistent with Biden's call for the intellectual property for vaccine-making to be made open.
-{{< /me >}}
+{{< u d="July 2021" u="This is consistent with Biden's call for the intellectual property for vaccine-making to be made open." >}}
 
 {{< img src="https://socioecons.files.wordpress.com/2015/04/promo.jpg" alt="Promo pricing" cap="Introductory pricing occurs in real life" >}}
 
 
+{{< u d="April 2021" u="The supply and demand for [vaccines](/fallacies/economics/inelastic-supply-curve) is recent proof that a supply curve can be inelastic if the society is taught to be selfish. But such selfishness is consistent with war, as seen in World War I, II, Cold War, War on terrorism, and the recent trade war between the US and China. Why would a science teach people to wage war as a natural state?" >}}
 
-{{< me date="April 2021" >}}
-The supply and demand for [vaccines](/fallacies/economics/inelastic-supply-curve) is recent proof that a supply curve can be inelastic if the society is taught to be selfish. But such selfishness is consistent with war, as seen in World War I, II, Cold War, War on terrorism, and the recent trade war between the US and China. Why would a science teach people to wage war as a natural state? 
-{{< /me >}}
  
 
 ## Conclusion
 
 In a free society, a product can never be "perfectly inelastic*". Even if oil prices, for example, were raised to exorbitant prices, society will switch to coal, LPG, firewood, electric cars, public transport, bicycles, etc. through their own effort. 
 
-> *Samuelson (and Mankiw) correctly assigns elasticity to Supply, while Case and Fair assigns it to Demand. Both assign ceteris paribus or a non-changing universe which is a very obvious fallacy
+{{< f f="*Samuelson (and Mankiw) correctly assigns elasticity to Supply, while Case and Fair assigns it to Demand. Both assign ceteris paribus or a non-changing universe which is a very obvious fallacy" >}}
+
+
 
 Even if a terminal cancer patient was sold a life-saving drug in exchange for all his life's present and future money and assets, as to leave him only his clothes for the rest of his life (the highest possible price for his life is his life, as in pure slavery), he will likely not do the trade. Thus, it can be observed that in economics, economic slavery* is a real possibility, as seen in rising prices and in both personal and governmental debt (US fiscal cliff, Latin American debt crisis, Greek debt crisis, etc.).
 
-> *We define slavery as a regular state of control of another's actions that produces pain. We replace the jargon 'elastic' and 'inelastic' with easy-to-understand words: 'price-sensitive' and 'price-insensitive'.
+{{< f f="*We define slavery as a regular state of control of another's actions that produces pain. We replace the jargon 'elastic' and 'inelastic' with easy-to-understand words: 'price-sensitive' and 'price-insensitive'." >}}
 
- 
- 
+  
 <!-- me date="10/2015" -->
 
-
-## Update October 2016
+### Update October 2016
 
 Looking back, we can see that Smith did mention in The Wealth of Nations that a commodity can be 'perfectly inelastic' if it matches the following conditions:
 

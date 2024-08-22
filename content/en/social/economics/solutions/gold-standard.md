@@ -56,7 +56,8 @@ It will serve as central bank guarantee to invite the VND money market* to depos
 
 The investor can then use the VND to rent government land, materials, and pay wages
 
-> *The main attraction will be the fact that their investment is guaranteed by the entire pool and not subject to inflation
+
+{{< f f="*The main attraction will be the fact that their investment is guaranteed by the entire pool and not subject to inflation" >}}
 
 
 ![Pool clearing for investments](https://sorasystem.sirv.com/charts/pool/poolgold1.png)

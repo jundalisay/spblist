@@ -72,7 +72,8 @@ We apply this to the whole economy, for anything above $100, through lease contr
 
 #### For Electronics, Vehicles, and Utility Goods*
 
-> *We define utility goods as products that create an essential utility such as heating, cooling, telecoms, transportation
+
+{{< f f="*We define utility goods as products that create an essential utility such as heating, cooling, telecoms, transportation" >}}
 
 
 For example, a person can lease an Android smartphone for $100 from a shop. After 3 years, he might want to upgrade his phone. So he returns the phone and gets a better one worth $150 by paying $50 into the contract.
@@ -127,5 +128,3 @@ And so, the Usufruct Economy is more in line with such a dynamic nature of thing
 - Seawater agriculture will be discussed by Bio Superphysics
 - Residential ships will be discussed by Social Superphysics
 - Nuclear Fusion Power will be discussed by [Material Superphysics](/material/solutions/fusion)
-
-

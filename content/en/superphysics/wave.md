@@ -19,6 +19,9 @@ Superphysics translates ideas into metaphysical idea-objects and impressions int
 
 Ideas have the dynamics of particles, Feelings have the dynamics of waves. 
 
+
+{{< i s="/graphics/meta/wave.jpg" a="Wave-Particle" c="A small mind only sees a particle whereas a large mind sees the whole wave" >}}
+
 This then creates a wave-particle duality in realm of metaphysics which is consistent with the wave-particle duality in physics. 
 
 Waves differ from lines and curves in terms of the number of forces acting on it.

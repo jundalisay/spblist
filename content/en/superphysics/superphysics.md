@@ -4,7 +4,7 @@ title: "What is Superphysics?"
 # date: 2021-07-19
 date: 2020-11-20
 weight: 36
-image: /photos/idea.jpg
+image: /graphics/meta/wave.jpg
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
 writer:
   name: Juan
@@ -48,11 +48,14 @@ The problem is that:
 
 By denying metaphysics, the variety of feelings are removed. This then leaves only the ego* (the feeling of the self) as the judging factor for the perceptions from sight, touch, sound, taste, and smell.
 
-> *This is why the Objectivism of Ayn Rand and Utilitarianism of John Stuart Mill (both Westerners) are egotistic compared to the Asian philosophies
+{{< f f="*This is why the Objectivism of Ayn Rand and Utilitarianism of John Stuart Mill (both Westerners) are egotistic compared to the Asian philosophies" >}}
 
 
 
-{{< img src="/graphics/super/5layers1.jpg" alt="Science versus Superphysics" cap="Superphysics is based on the 5 Elements of Greece, Egypt, India and China. Physics only knows 3 of these as Electromagnetic, Weak, and Strong Forces. Scientists do not know the nature of the Aether and Spacetime. This is why there is still no anti-gravity, nor world peace." >}}
+> By denying metaphysics, only the ego remains as the judging factor
+
+
+{{< img src="/graphics/meta/science.png" alt="Science versus Superphysics" cap="Superphysics is based on the 5 Elements of Ancient Greece, Egypt, India and China. Physics only knows 3 of these as Electromagnetic, Weak, and Strong Forces. Scientists do not know the nature of the Aether and Spacetime. This is why there is still no anti-gravity, nor world peace." >}}
 
 <!-- interprets the five elements of ether, air, fire, water, and earth as the five forces of the standard model as the ether, gravitation, electromagnetism, weak and strong, which we call aethereal, spatial, radiant, radioactive, and material layer, respectively. 
 
@@ -61,12 +64,11 @@ Science is limited to the five senses and so 'scientists' and equipment can only
 
 ### Intellect Trapped in an Echo Chamber
 
-Aside from eliminating the possibility of knowing the metaphysical causes of physical phenomena, science caused natural philosophy to be compartmentalized. 
+Aside from eliminating the possibility of knowing the true causes of physical phenomena, science caused natural philosophy to be compartmentalized. 
 
 Intellectuals became confined to specific domains such as Physics, Biology,  Economics, etc. People could no longer have multiple domain knowledge.
 
 For example, before science was formalized:
-
 - Isaac Newton had expertise not only in Math and Physics, but also in Finance and Theology
 - Adam Smith was a historian, moral philosopher, economist, and linguist
 - Francois Quesnay of the Physiocrats was a medical doctor and an economist and mathematician
@@ -80,15 +82,16 @@ In contrast, modern researchers and academics are confined to their own bubbles.
 
 Science thus, not only became degraded from being 6-sense Natural Philosophy into 5-sense Materialist or egotistic Science, but also into an intellectual feudalism with each Science-lord having its own intellectual fiefs. 
 
+> Through "science", natural philosophy degraded into intellectual feudalism
+
 In other words, Science has only "my ego" and "my limited five senses" as the judge for theories and experiments. This necessarily leads to "my own intellectual bubble". Anything outside this bubble is fake and pseudoscience. 
 
 In this way, science resembles a religion that treats other beliefs as false religions*. This prevents scientific minds from tapping the infinite solutions lying in wait in the invisible part of the universe. 
 
+{{< f f="*This corruption is a natural effect of the Negative Force (Maya, Yin) against the Positive Force (Shiva, Yang). We expect that the Negative Force will also try to corrupt Superphysics in the distant future. This is why our focus is to build [ISAIAH](/superphysics/solutions/isaiah) which is the AI to maintain the positivity or 'Truthiness' of Superphysics" >}}
 
-> *This corruption is a natural effect of the Negative Force (Maya, Yin) against the Positive Force (Shiva, Yang). We expect that the Negative Force will also try to corrupt Superphysics in the distant future. This is why our focus is to build [ISAIAH](/superphysics/solutions/isaiah) which is the AI to maintain the positivity or 'Truthiness' of Superphysics
 
-
-In contrast, the Asian sciences, such as Ayurveda and Yoga, are based on all 6-senses and are not as compartmentalized. These accept the non-obvious inferences from the feelings of the soul and apply them onto different domains. 
+In contrast, the Asian sciences, such as Ayurveda, Taoism, and Yoga, are based on all 6-senses and are not as compartmentalized. These accept the non-obvious inferences from the feelings of the soul and apply them onto different domains. 
 
 This allows them to find solutions that Western science cannot:
 - Taoism naturally leads to Traditional Chinese Medicine, which leads to Covid medicines that have helped China and Taiwan breeze through Covid. This is different from the West which has many Covid cases and hospitalizations despite having high vaccination rates.
@@ -97,14 +100,14 @@ This allows them to find solutions that Western science cannot:
 However, the weakness of the Asian philosophies is that they are less developed for practical uses, unlike Western science which is much more useful materially.
 
 
-{{< img src="/graphics/super/5layers2.jpg" alt="Religion versus Superphysics" cap="Religion and metaphysics refuse to be tested and are so useless compared to science" >}}
+{{< img src="/graphics/meta/religion.png" alt="Religion versus Superphysics" cap="Religion and metaphysics refuse to be tested and are so useless compared to science" >}}
 
 <!-- just as Hinduism leads to ayurveda for medical problems, yoga for psychological ones, and the caste system* for social order.
 
 > *The caste system was initally a system of division of labor to handle the economic growth and development of ancient India. Like any long-running system, it slowly degraded into rigidity and oppression -->
 
 
-## Breaking Through the Dogma in Science and Religion
+## Breaking Through the Dogmatic Negativity in Science and Religion
 
 To create better solutions to the new problems created by global warming, overpopulation, viruses, terrorism, financial crises, etc., we bring back metaphysics and natural philosophy as the 6-sense study of dialectics that is not confined into specific domains.
 
@@ -122,8 +125,7 @@ Problem | Scientific Solution | Superphysics Solution
 **Covid** | Vaccines | End the war against the Amazon rainforest
 
 
-
-{{< img src="/graphics/super/5layers4.jpg" alt="Superphysics bridges science" cap="Superphysics bridges science and metaphysics to unify all human knowledge and make it useful" >}}
+{{< img src="/graphics/meta/sp.png" alt="Superphysics bridges science" cap="Superphysics bridges science and metaphysics to unify all human knowledge and make it useful" >}}
 
 
 
@@ -143,52 +145,6 @@ That's why we are promoting the 6-sense Dialectics of Socrates as the main tool 
 
 <!-- Unlike Science that requires 100% replicability, Superphysics only needs 51+% replicability since every mind and wave-pattern is different.  -->
 
-Socratic Dialectics relies on all six senses and requires the ego to be lowered. This is why Socrates called it more laborious than the sciences causing it to be rarely developed. 
-
-For example, an alternative cancer cure that works for Mr. X might not work for Mr. Y. This would make it unacceptable to 'scientific' modern medicine which throws away such useful cures. 
-
-Superphysics solves this by finding out the pattern of differences between Mr. X and Y so that that the cure can work for all Mr. X-types. It then finds the cures that fit Y-types, Z-types, etc. 
-
-This method is unthinkable in science because the ego wants to think of itself as unique and does not want itself to be classified or branded.
-
-A common example of classification is how the Japanese believe that human behavior can be categorized according to four blood types, which was pseudo-science [until Covid came](https://www.tmc.edu/news/2020/06/blood-type-may-affect-covid-19-outcomes-study-shows/). 
-
-
-<!-- The goal is to solve problems by going outside of the box imposed by science. Superphysics adds that quality control to determine which is good pseudo-science and which is quack pseudo-science or those with zero or random replicability, in order to fill in the gaps in human knowledge and finally solve those unsolved by science. 
- -->
-
-
-### Data Science as the Main Tool of Superphysics
-
-Data Science* is really good at classification and in finding patterns and so it will be the primary tool of the Superphysicist, Superphysician, and Supersociologist who are upgraded from ordinary physicists, physicians, and sociologists. 
-
-The discovery of patterns in scientific data makes Superphysics the bridge or missing link between physics and metaphysics, or science and philosophy.
-
-
-{{< q a="Francis-Bacon" c="Nova Organum Simplified, Book 1, Chapter 5" >}}
-Are we perfecting natural philosophy alone according to our method? Or the other sciences also, such as logic, ethics, politics?
-
-**We certainly intend to comprehend them all.**
-{{< /q >}}
-
-
-{{< q a="David-Hume" c="Treatise of Human Nature Simplified, Advertisement" >}}
-All the sciences have a relation to human nature. No matter how far any science runs away from human nature, it still returns by one way or another. In pretending to explain the principles of human nature, we in effect propose a complete system of the sciences. This system is built on an almost entirely new foundation. This foundation is the only one on which the sciences can be secured. The science of man is the only solid foundation for the other sciences.
-{{< /q >}}
-
-{{< box >}}
-### Data Science is More of an Art than a Science
-
-Data Science cooks up useful predictions and interpretations of raw data using statistical techniques and activation functions, just as a chef cooks up dishes from raw ingredients using steaming, frying, marinating, etc.
-
-This is because data are really products of human perception, while math is the system of processes that human minds are capable of. 
-
-Animals can also perceive data but their math is very limited. For example, penguins can add rocks to each other but not divide them. 
-
-Humans that require mathematical proof are therefore really asking to have the mental processes of a learned person transplanted into their own minds. The problem is that the higher (aethereal) principles are very complex and ever-changing and so it would useless to put them in a fixed equation or mathematical proof. 
-
-Instead, our solution is to code them into the AI directly and let the AI show the calculated proofs dynamically.
-{{< /box >}}
 
 
 {{< img alt="Superphysics relationships" src="/graphics/spchart.jpg" cap="The divisions of Superphysics">}}
@@ -232,13 +188,11 @@ The process for coming up with those principles is called Socratic Dialectics.
 Those principles are then implemented in the real world through technology and practical techniques.
 
  
-{{< box >}}
-### Updates
-
+{{< dc t="Updates" >}}
 Date | Update
 --- | ---
 May 2020 | For Covid, the Superphysics solution is to end the war against the Amazon as the virus will merely outmutate the vaccines
 May 2021 | This has been proven by the Delta variant
 December 2021 | This has been proven by the Omicron variant
-{{< /box >}}
+{{< /dc >}}
 

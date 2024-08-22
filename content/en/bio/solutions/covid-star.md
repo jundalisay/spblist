@@ -14,16 +14,14 @@ aliases:
 
 
 
-{{< box >}}
-The influence of stars on behavior is one of the links between Material Superphysics and Medical Superphysics 
-{{< /box >}}
+> The influence of stars on behavior is one of the links between Material Superphysics and Medical Superphysics 
 
 
 Have you ever wondered why Covid and influenza are prevalent in Europe but not in Africa? 
 
 <!-- Thanks to the Omicron variant, we can now conclusively answer this with real data and explain the causes and dynamics of both Covid and the flu virus. -->
 
-## Life (and Viruses) Come from Stars
+### Life (and Viruses) Come from Stars
 
 According to science, all the matter in the universe came from stars via supernovae explosions. We extend this and add that viruses and simple bacteria, as life, are also included in such explosions. 
 
@@ -63,7 +61,7 @@ From here, we can suggest the following policies:
 
 
 {{< box >}}
-## The Spanish Flu was from the Covid Star
+### The Spanish Flu was from the Covid Star
 
 The Spanish Flu emerged in Kansas in the US on March 4, 1918. It spread to France and then throughout Europe by May and then declined.
 
@@ -74,7 +72,7 @@ The fact that the second wave around Q4 was worse than the first wave of Q1 form
 
 
 
-## How we cracked Covid via Regular Patterns
+### How we cracked Covid via Regular Patterns
 
 This pattern emerged thanks to the Omicron variant striking in South Africa near the same month as the Beta variant which struck that country earlier in 2020. 
 
@@ -88,14 +86,14 @@ But unlike influenza which is active all-year round, Covid is active mosty durin
 
 By applying the orbital theories of Johannes Kepler, we guesstimated that a Covid star* was 'underneath' the sun on a far side. This caused the earth to come near it (aphelion) during the fourth quarter of its orbital revolution.
 
-> *This assumption is based on the dynamics of the Earth relative to the cosmos and is pattern-based or orbit-based 
+{{< f f="*This assumption is based on the dynamics of the Earth relative to the cosmos and is pattern-based or orbit-based" >}}
 
 <!-- Rio. China is the middle area between   -->
 
 The Flu star, on the other hand, was either on top or below of the sun. This caused it to affect influenza on Earth evenly throughout the year.  <!-- but nearly perpendicular to the Earth's axis.    --> These stars are then within our own Milky Way since flu has been happening in Southern China for hundreds of years. 
 
 
-## Solves Monarch Butterflies Too
+### Solves Monarch Butterflies Too
 
 The idea of stars guiding life on earth is also seen in the migration routes of monarch butterflies. These are born at the end of August in Mexico and fly into into the southern US in the spring, living for 7-8 months. Their offspring are born in the US, living only 3-5 weeks. These short-lived versions then fly back to Mexico.
 
@@ -105,7 +103,9 @@ Science explains that the monarchs have some kind of magnetic guidance system fr
 
  <!-- does not explain how the latter generations can find their way back to Mexico. Where do the younger butterflies get the memory to fly back from the US to Mexico? -->
 
-We explain that the butterflies are guided by starlight from a specific star or group of stars.  This is similar to us being guided to go West or East based on the position of the sun relative to the Earth without any magnetic tool or sense. This also does not require any memory of past locations. All it needs is an optical system designed by genetics to tap into the wavelength of that star.
+We explain that the butterflies are guided by starlight from a specific star or group of stars.  This is similar to us being guided to go West or East based on the position of the sun relative to the Earth without any magnetic tool or sense.
+
+This also does not require any memory of past locations. All it needs is an optical system designed by genetics to tap into the wavelength of that star.
 
 Accordingly, Monarch Butterflies are known for having complex eyes compared to other insects. 
 
@@ -127,7 +127,6 @@ Delta Maharashtra India Oct 2020
 
 China treated 85% of the COVID-19 patients using traditional medicines such as root extract of Isatis indigotica and extract of Houttuynia cordata
 
-
 Rio. China is the middle area between  
 
 Oct Alpha UK  UK Kent 2020 +30% transorig
@@ -138,18 +137,12 @@ Dec Orig Wuhan   2019 Wuha +80% transalpha B.1.617.2  2021 India more severe tha
 Delta+ 20%+ trans delta
 Aug Lambda Peru  
 
-
 Kent UK
 Gamma Rio De Jaineiro
-
 South Africa Dec 18 2020
-
 Oct-Nov-Dec-Jan
-
 Dec 24 Wuhan 
-
 oct nov dec
-
 Souther May-Aug influenza season in  
 
 starts at Ceara State in Northern Brazil and travels down to the Southern state of Parana. That the  

@@ -16,7 +16,8 @@ toc: false
 
 The inelastic supply curve is the child-idea of the sophistry called the [Equilibrium Theory](/social/economics/fallacies/equilibrium-fallacy) of Economics. It manifests as a vertical line that says* that an essential, but hard-to-produce product can command whatever price its supplier wants.
 
-> *Samuelson refers to it as the inelastic supply curve, while Case and Fair, and Roger Miller refer to it as the inelastic demand curve
+{{< f f="*Samuelson refers to it as the inelastic supply curve, while Case and Fair, and Roger Miller refer to it as the inelastic demand curve" >}}
+
 
 ![Inelastic Supply Curve](https://sorasystem.sirv.com/charts/inelastic.png)
 
@@ -104,7 +105,8 @@ When the rich man's dog gets the milk that the poor man's child needs to avoid r
 
 Economics teachers are unaware that, by teaching the Equilibrium theory, **they are actually teaching selfishness and evil**.* The only way for the upward-sloping supply curve to exist in our example is to remove the existence of AstraZeneca-Oxford and the Serum Institute with its high production. <b>Only when we get rid of government and all forms of socially-minded production can the models of Economics exist.</b>
 
-> *If badness is the lack of fellow feeling with others, then evil is the the total lack of such feeling
+{{< f f="*If badness is the lack of fellow feeling with others, then evil is the the total lack of such feeling" >}}
+
 
 
 {{< img src="https://sorasystem.sirv.com/charts/vac/covidsupply-britain2.png" alt="Covid Supply Britain" cap="The curves of Economics begin to appear when goodness is eliminated" >}}

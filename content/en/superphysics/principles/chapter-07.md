@@ -47,7 +47,7 @@ We do not notate the pseudostates that are in between state 1 and 2, 2 and 3, an
 ---
 
 
-The colon means 'relative to' or 'compared to', and is a fundamental part of our proposed 'Qualimath'. In this way, Poincare's Law of Relativity is built into even the most elementary equations, such as those taught for kids. Rather, Relativity is baked into Descartes' First Law of Motion which is about state-change instead of inertia. And so we can safely throw away everything that Einstein made.
+The colon means 'relative to' or 'compared to', and is a fundamental part of our proposed 'Qualimath'. In this way, Poincare's Law of Relativity is built into even the most elementary equations, such as those taught for kids. Rather, Relativity is baked into Descartes' 2nd Rule of Motion which is about state-change instead of inertia. And so we can safely throw away everything that Einstein made.
 
 This is different from normal math which uses 'deltas'.
 - Those deltas compare the object with itself at different states.

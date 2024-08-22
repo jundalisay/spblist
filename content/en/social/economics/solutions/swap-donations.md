@@ -18,18 +18,22 @@ Those measures try to ease the present burdens by transferring it to the future,
 However, [our model](/social/supersociology/precrisis-years)* from 2015 shows that <b>things will not get better anytime soon</b>. In fact, it's supposed to worsen as 2024** approaches***. This is currently proven with the Delta variant being worse than original Covid in terms of severity, and the Omicron variant being worse than Delta in terms of spread. 
 
 
+{{< n n="*The model is based on Socrates' Law on Social Cycles combined with Adam Smith's Profit Cycles, as well as Smith's data on wheat prices from the 13th century" >}}
 
-> *The model is based on Socrates' Law on Social Cycles combined with Adam Smith's Profit Cycles, as well as Smith's data on wheat prices from the 13th century
 
+{{< d t="Updates" >}}
 
-> **Update March 2022: This has been proven by the Russia-Ukraine War
-
-> **Update Oct 2023: This is strengthened by the Israel-Hamas War
+Date | Event
+--- | ---
+**March 2022 | This has been proven by the Russia-Ukraine War
+***Oct 2023 | This is strengthened by the Israel-Hamas War
+{{< /d >}}
 
 
 The proper policy* from 2020 would have been to hunker down instead of hoping for a short term recovery from pent-up demand. Massive dole-outs will just lead to a huge debt burden that cannot be paid on time. The debts serve the interests of the financial system which keeps its financiers employed even during crises. 
 
-> *To reduce inflation, cryptocurrencies should be banned
+
+{{< n n="*To reduce inflation, cryptocurrencies should be banned" >}}
 
 <!-- The spread of the Omicron variant is proof that our model is correct, but just early or off by 1 to 1.5 years.  -->
 
@@ -55,8 +59,6 @@ Donations | Researchers, Priests, Academics | Aristocrats (Philosophers)
 
 Economics is descended from Mercantilism which bunches up all such revenues as "income". This then leads to the problematic system of income taxes which leads to tax avoidance and evasion. Moreover, it enshrines money, making money the only way to make payments.  
 
-<br>
-
 ### 1. One-way Donations in Kind 
 
 A money donation only works if there is a functioning financial system in the affected society. In the case of severe natural disasters, even the telecoms and electrical infrastructure can get totally destroyed, making the financial system not operational. 
@@ -67,7 +69,6 @@ A money donation only works if there is a functioning financial system in the af
 
 Thus, one-way donations in kind are the first and most basic solution to extreme crises. 
 
-<br>
 
 ### 2. Swap Donations
 
@@ -99,6 +100,5 @@ Unlike normal commercial for-profit transactions, swap donations are tax-exempt.
 However, their values are much below commercial prices. A swap donation with normal commercial prices will be regarded as a normal barter transaction and can be taxed accordingly, with the barter transaction being paid in kind. 
 
 
-{{< mess >}}
-Both one-way and swap donations are implemented in Supereconomics as ![Donation Points](https://pantrypoints.com/circle)
-{{< /mess >}}
+{{< u d="2023" u="Both one-way and swap donations are implemented in Supereconomics as [Donation Points](https://pantrypoints.com/circle)" >}}
+

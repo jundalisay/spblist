@@ -4,6 +4,7 @@ date: 2024-07-28
 image: /covers/faq.png
 description: "FAQ on the website"
 icon: /icons/spmat.png
+weight: 30
 ---
 
 
@@ -31,7 +32,11 @@ Sometimes, we find a better arrangement for the content and we transfer them or 
 
 
 {{< r a="Asker" >}}
-I want you to explain a certain phenomenon using your Superphysics, or simplify a scientific work of a 16th century author. How can I do that?
+I want you to explain a certain phenomenon using your Superphysics, or simplify a scientific work of a 16th century author. 
+
+Or I want to validate whether a claim or idea by an inventor, such as a Star Trek style replicator that disassembles and reassembles atoms, will be possible in Superphysics. 
+
+How can I do that?
 {{< /r >}}
 
 

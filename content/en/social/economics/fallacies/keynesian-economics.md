@@ -1,7 +1,7 @@
 ---
 title: "Keynesian Economics is Socialism for Wall Street"
 date: 2023-02-17
-image: /graphics/econ/circular.png
+image: /covers/keynes.jpg
 description : "Chapter 2 of Keynes' General Theory exposes his corruption of Classical Economics in order to promote his Neoclassical hacks"
 writer:
   name: Juan
@@ -19,9 +19,14 @@ Chapter 2 of Keynes' General Theory exposes his corruption of Classical Economic
 
 Classical economics is based on real wages and doesn't care about nominal money-wages. But Keynes imposes the supremacy of money-wages over real wages. He then blames Classical Economics for causing unemployment during the Depression. 
 
+
+### Keynes Supported Profit Maximization. Smith Did Not
+
 He fails to understand that Classical Economics failed because 'profit maximization' (a non-Classical idea) unnaturally strangled the investments and spending that would have generated the employment needed to break out of the Depression.
 
-The proper solution was to destroy profit maximization by letting the government nationalize a failed major company in each major industry. This would allow that company to gain all the market share unless the private firms dropped their profit maximizing behavior and started borrowing and spending to compete with that company. That would then raise employment and lead to natural multiplier effects.
+The proper solution was to destroy profit maximization by letting the government nationalize a failed major company in each major industry. 
+
+This would allow that company to gain all the market share unless the private firms dropped their profit maximizing behavior and started borrowing and spending to compete with that company. That would then raise employment and lead to natural multiplier effects.
 
 Such a solution will not need much monetary easing, but will need public spending for the government to buy those failed companies. China does this through its state owned corporations which check against profit maximization.
 

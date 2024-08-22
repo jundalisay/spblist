@@ -41,13 +41,13 @@ As you can see, our system liberates the economy from being bound only to money,
 
 ## Based on Ratios, Not Equalities
 
-Instead of equilibrium or the equals sign, this system is based on **ratios** or the ratio sign. This is in line with our proposed [Qualimath](/superphysics/solutions/qualimath)
-http://localhost:1313/material/principles/part-3/chapter-04/
+Instead of equilibrium or the equals sign, this system is based on **ratios** or the ratio sign. This is in line with our proposed [Qualimath](/superphysics/principles/chapter-07/)
+
 This is useful for poor people and even for corporations during financial crises where money is tight or unavailable. In addition, it will lower the cost of buying and selling since it will use the already-existing telecoms system, instead of the financial system with its expensive bankers and financiers*.
 
 
-> *In Supereconomics, such people will still be employed to do inspection, "KYC", and credit checks. 
-
+{{< n n="*In Supereconomics, such people will still be employed to do inspection, 'KYC', and credit checks." >}}
+ 
 
 An advanced economy can be very complex because of the huge number of goods and commodities for sale. It would be impossible to keep track of all the ratios manually. This is why the system needs machine learning, more popularly called artificial intelligence or AI, which we call ANI as Automated Natural Intelligence. 
 

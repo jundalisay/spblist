@@ -92,4 +92,25 @@ Why are elementals included in Bio Superphysics? There is no evidence for "natur
 Elementals complete the picture of metaphysical reality, just as subatomic particles like quarks (which appear instantly) and ghost-like neutrinos complete the "standard" model of Western Physics.  
 
 You need colliders and detectors to detect subatomic particles. Similarly, you need a certain type of mind to detect elementals. In the past, shamans were able to upgrade their minds to be able to detect them either with physical or mental means. We focus on the mental means since that is more sustainable as a longer-term investment.
+
+So why are you ok with ghost-like neutrinos and quarks that pop up instantly from nowhere, but not ok with Elementals that have the same properties?
 {{< /l >}}
+
+{{< r a="Asker" >}}
+Because those neutrinos and quarks have been detected by expensive detectors.
+{{< /r >}}
+
+{{< l a="Bio-Superphysics" >}}
+But Elementals have been detected by detectors called human minds for a long time. That's why they have been documented both in Asia and the West. And we work with that documentation.
+{{< /l >}}
+
+{{< r a="Asker" >}}
+So why can't all minds detect Elementals, chi, and chakras?
+{{< /r >}}
+
+{{< l a="Bio-Superphysics" >}}
+Because those need specialized detectors just as the Large Hadron Collider is made up of specialized detectors such as ATLAS and ALICE that you can't buy in a hardware store.  
+
+The detection on Elementals, chi, and chakras need a lot of specialization and effort to achieve. This is what the Asian sciences focus on.
+{{< /l >}}
+

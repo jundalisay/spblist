@@ -14,7 +14,7 @@ icon: /icons/pantry.png
 The failure of quantitative easing, both in the US under Obama and in Japan as [Abenomics](/social/cycles/japan), is proof that the operations of banking cannot directly and immediately lead to economic growth, as explained by Adam Smith:  
 
 {{< q a="Smith" c="The Simple Wealth of Nations Book 2, Chapter 2" >}}
-The judicious operations of banking can increase a country’s industry, not by augmenting the country’s capital, but by rendering most of that capital productive.
+The judicious operations of banking can increase a industry, not by augmenting the country’s capital, but by rendering most of that capital productive.
 {{< /q >}}
 
 This is opposite the notion of Keynes that interest rates, set by banks, are the key to growing an economy:
@@ -47,10 +47,12 @@ From here, we can explain the affinities and oppositions of different beliefs an
 - Classical economics is the polar opposite of Marginalism which enshrines math and science. Xenophon and Smith have no equations at all, which makes them unacceptable as the basis of Economic 'science'* which currently has econometrics, derivative equations, and stochastic calculus
 - Keynesian economics** and Marxism are the opposite of the Austrian economics of Von Mises, Hayek, and Lbertarianism
 
-> *Superphysics understands all these definitions, but is based on Classical ones since it views the society as a [metaphysical organism](/social/supersociology/principles/part-1/chapter-01). The mathematical analyses will be done by machine learning. Economist will predictably say that Smith's invisible hand is pseudo-science, and so we put Superphysics in its own field as Dialectics, which is above Science but under Metaphysics or Philosophy
+
+{{< f f="*Superphysics understands all these definitions, but is based on Classical ones since it views the society as a [metaphysical organism](/social/supersociology/principles/part-1/chapter-01). The mathematical analyses will be done by machine learning. Economist will predictably say that Smith's invisible hand is pseudo-science, and so we put Superphysics in its own field as Dialectics, which is above Science but under Metaphysics or Philosophy" >}}
 
 
-> **Update Nov 2021: Japan's Liberal Democratic party is similar to the Chinese Communist Party in the sense that they both have a single-party rule. It's no wonder that Japan implemented Keynes' plan fully
+
+{{< u d="Nov 2021" u="Japan's Liberal Democratic party is similar to the Chinese Communist Party in the sense that they both have a single-party rule. It's no wonder that Japan implemented Keynes' plan fully" >}}
 
 
 <!-- However, they can do so only belatedly and indirectly. This is proven in Pigou's concept of 'waiting' for savings to be transformed into capital.  
@@ -86,7 +88,7 @@ Keynes made people believe that money supply and banking were the solutions to t
 
 To Keynes, this thirst for cash naturally is quenched by banks which provide such cash. This then leads to the dominance of interest rates which leads to open market operations and quantitative easing by those banks.
 
-> *A proof of this is the current obsession by banks to 'bank the unbanked'. This sophistry is just another way for bankers to find more customers and keep themselves employed, as opposed to letting those customers spend their savings themselves or move over into crypto (the competition of banks). 
+{{< f f="*A proof of this is the current obsession by banks to 'bank the unbanked'. This sophistry is just another way for bankers to find more customers and keep themselves employed, as opposed to letting those customers spend their savings themselves or move over into crypto (the competition of banks)." >}}
 
 
 If Thomas Mun's book, [England's Treasure on Foreign Trade](/research/mun/englands-treasure), transferred economic power from monarchs onto merchants, then Keynes' General Theory transferred it from merchants into merchant-banks which trade paper instruments on the 'money market', just as merchants traded commodities in the commodities market.
@@ -100,7 +102,7 @@ Why did Keynes suddenly overturn tried and tested maxims on money from Ancient G
 
 From the 1870's to the 1920's, there were huge improvements in technology as steel production, railroads, electrification, telecoms, flight, and mass production*. 
 
-> *Outside of the West, Japan was the most successful in industrializing, being able to build their own battleships by the end of the 19th century. This explains why they were also the first to do quantitative easing.
+{{< f f="*Outside of the West, Japan was the most successful in industrializing, being able to build their own battleships by the end of the 19th century. This explains why they were also the first to do quantitative easing." >}}
 
 
 These opened up massive investment opportunities which then required more banks and the rationalization of money. This led to:

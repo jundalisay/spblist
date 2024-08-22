@@ -44,7 +44,7 @@ Those value-carrying papers now manifest as:
 
 Capitalists then and now use these papers to control the work of people to execute their grand plans. 
 
-In the 17th century, those grand plans were the monopoly of the commodities trade and grabbing land from natives, called colonialism. 
+In the 17th century, those grand plans were the monopoly of the commodities trade and grabbing land from natives, called **colonialism**. 
 
 In the 21st century, it manifests as:
 - the ownership of too-big-to-fail global companies which monopolize the buying and selling of goods and services

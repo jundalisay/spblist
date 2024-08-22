@@ -19,7 +19,7 @@ The biggest fallacy of Economics is Market Equilibrium which is taught in basic 
 
 Adam Smith exposed this as mercantile sophistry in the 18th century, then called the 'balance of trade'. To prove that this idea of 'balance' is the same in essence with the 'equilibrium' of economics, let's compare the essence of both ideas.
 
-{{< img src="https://sorasystem.sirv.com/charts/equilibwrong.png" alt="Suppy and demand fallacy" >}}
+{{< img src="/graphics/econ/wrong.png" alt="Suppy and demand fallacy" >}}
 
 
 ## The Law of Demand
@@ -33,7 +33,7 @@ Modern Economics began with Paul Samuelson's neo-classical synthesis which descr
 When the price of a good is raised (at the same time that all other things are held constant), less of it is demanded.
 {{< /q >}}
 
-> *Instead of a demand schedule, Supereconomics uses [the Economic Table of the Physiocrats](/social/economics/principles/part-3/chapter-08) to determine the real price of everything in real-time. If everyone knows the real price of everything, then information asymmetry and profit maximization stop existing. Consequently, economic crises no longer have a chance to form. The maxim 'prevention is better than cure' applies to an economy just as it applies to health,
+{{< f f="*Instead of a demand schedule, Supereconomics uses [the Economic Table of the Physiocrats](/social/economics/principles/part-3/chapter-08) to determine the real price of everything in real-time. If everyone knows the real price of everything, then information asymmetry and profit maximization stop existing. Consequently, economic crises no longer have a chance to form. The maxim 'prevention is better than cure' applies to an economy just as it applies to health." >}}
 
 
 {{< img src="https://sorasystem.sirv.com/charts/demsup/eq1.png" alt="Downward Demand Curve" cap="The Demand Curve of Samuelson and Smith Curve Downwards" >}}
@@ -111,7 +111,7 @@ In this version, the main cause for the rise in prices with rising quantity is t
 
 ### The Mercantile Version
 
-In [England's Treasure by Foreign Trade](/research/mun/englands-treasure), Mun describes the mercantile supply curve:
+In [Englands Treasure by Foreign Trade](/research/mun/englands-treasure), Mun describes the mercantile supply curve:
 
 {{< q a="Mun" c="England's Treasure Simplified, Chapter 3" >}}
 In our sales overseas, we must think of our neighbours' necessities, so that we can produce as much of the goods they want that are unavailable anywhere else (besides raw materials), and also sell them dear as long as the high price does not reduce our sales.
