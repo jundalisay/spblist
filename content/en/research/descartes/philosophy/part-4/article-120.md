@@ -1,7 +1,7 @@
 ---
 title: "Burning, tasteless, and acidic waters"
 heading: Article 120-123
-weight: 32
+weight: 33
 description: "The particles that are evaporated are distinguished into various types."
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
@@ -15,15 +15,15 @@ icon: "/icons/descartes.png"
 
 ### 120. Burning, tasteless, and acidic waters
 
-The particles that are evaporated are distinguished into various types. 
+There are various kinds of evaporated earth-aether particles: 
 
 1. Burning waters or spirits
 
-The first subkind are those that are so mobile and fine that they can only ignite air. 
+1.1 The ones that are so mobile and fine that they can only ignite air. 
 
-The second subkind are those that are the finest of all. These can be easily evaporated. These are enclosed in vessels carefully sealed by chemists and collected simultaneously, form .
-
-These are often extracted from wine, wheat, and many other substances. 
+1.2 Those that are the finest of all.
+- These can be easily evaporated. These are enclosed in vessels carefully sealed by chemists and collected simultaneously.
+- These are often extracted from wine, wheat, and many other substances. 
 
 2. Sweet or tasteless waters
 
@@ -37,26 +37,46 @@ These are extracted from salts through a significant force of fire.
 
 ### 121. Sublimates and oils
 
-Some thicker particles, such as those of liquid mercury and salts, adhere to the tops of vessels and solidify into hard bodies. These require a considerable force to be lifted into the air as a sublimate.
+Some thicker particles, such as those of liquid mercury and salts, adhere to the tops of vessels and solidify into hard bodies.
 
-However, oils are the most difficult to evaporate from hard and dry bodies. This must be done not so much by the force of fire as by a certain art.
+These require a considerable force to be lifted into the air as a sublimate.
 
-Their particles are thin and branched. This is why a strong force would break and tear them apart before they could be drawn from the channels of these bodies. 
+However, oils are the most difficult to evaporate from hard and dry bodies.
+
+This must be done not so much by the force of fire as by a certain art.
+
+Their particles are thin and branched. 
+
+This is why a strong force would break and tear them apart before they could be drawn from the channels of these bodies. 
 
 Therefore, a lot of water is poured over them. The smooth and slippery particles of the water permeate these channels and gradually extract and carry them away.
 
 
 ### 122. How changing the degree of heat changes its effect
 
-In all these cases, the degree of heat must be observed. This is because, with its variation, the effect varies in some way. 
+In all these cases, the degree of heat must be observed.
 
-Many bodies, when first subjected to gentle heat and then gradually to stronger heat, dry out and emit various particles. They emit particles that they would not release but rather would entirely liquefy if tormented from the beginning with strong fires.
+This is because, with its variation, the effect varies in some way. 
+
+Many bodies, when first subjected to gentle heat and then gradually to stronger heat, dry out and emit various particles.
+
+They emit particles that they would not release but rather would entirely liquefy if tormented from the beginning with strong fires.
 
 
 ### 123. Lime
 
-The manner of applying fire also affects its result. Some bodies, if heated all at once, become liquid, but if a strong flame licks their surface, it turns them into lime. 
+The manner of applying fire also affects its result.
 
-All hard bodies that are reduced to the finest powder solely by the action of fire, namely by the breaking or expulsion of some of their finer particles that previously joined the rest, are commonly said by chemists to be converted into lime. 
+Some bodies, if heated all at once, become liquid. But if a strong flame licks their surface, it turns them into lime. 
 
-There is no other difference between ashes and lime than that ashes are the remnants of those bodies, a considerable part of which has been consumed by fire, whereas lime consists of those bodies that almost entirely remain after complete combustion.
+All hard bodies that are reduced to the finest powder solely by the action of fire are converted into lime.
+- This happens through the breaking or expulsion of some of their finer particles that previously joined the rest.
+
+<!-- are commonly said by chemists to be   -->
+
+<!-- There is no other difference between ashes and lime than that  -->
+
+<!-- , a considerable part of which has been -->
+Ashes are the remnants of bodies that have been mostly consumed by fire.
+
+Lime consists of those bodies that almost entirely remain after complete combustion.

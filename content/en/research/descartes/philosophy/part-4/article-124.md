@@ -17,9 +17,11 @@ The ultimate effect of fire is the conversion of lime and ashes into glass.
 
 After the finest particles of the bodies being burned have been extracted and rejected, the remaining ones are left as lime or ashes. These are so solid and thick that they cannot be lifted upward by the force of fire. 
 
-They usually have irregular and angular shapes. This makes them not adhere to each other mutually, nor do they touch each other except in very tiny points. 
+They usually have irregular and angular shapes. This makes them:
+- not adhere to each other mutually
+- touch each other only in very tiny points. 
 
-However, when a powerful and prolonged fire exerts its force on them, finer particles of the earth-aether, along with the air-aether globules, rapidly move around them in all directions. 
+However, when a powerful and prolonged fire exerts its force on them, the earth-aether finer particles, along with the air-aether globules, rapidly move around them in all directions.
 
 This gradually:
 - wears down their angles
@@ -41,7 +43,7 @@ But if they are rough and uneven, they are gradually smoothed and flattened by t
 
 Therefore:
 - the disconnected particles of lime and ashes are represented here by bodies `B` and `C`
-- the connected particles of glass are represented by bodies G and H.
+- the connected particles of glass are represented by bodies `G` and `H`.
 
 From this single difference creates all the properties of glass from the intense and prolonged action of fire.
 

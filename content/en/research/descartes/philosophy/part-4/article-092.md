@@ -1,8 +1,8 @@
 ---
-title: "Fire in the Candle Flame"
+title: "Fire from Dried Leaves"
 heading: Article 92
 weight: 28
-description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
+description: "The particles of some spirit or liquid can sometimes ignite fire by passing through the channels of a hard or liquid body."
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -13,7 +13,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-#### 92. Fire in Those that Heat Up but Do Not Shine Like Enclosed Hay
+#### 92. Fire in those that heat up but do not shine like enclosed hay
 
 The particles of some spirit or liquid can sometimes ignite fire by passing through the channels of a hard or liquid body.  
 
