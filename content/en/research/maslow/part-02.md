@@ -78,7 +78,7 @@ In other words, relatively isolable as these physiological needs are, they are n
 
 **These physiological needs are the most pre-potent of all needs.** 
 
-In the human being who is missing everything in life in an extreme fashion, it is most likely that the major motivation would be the physiological needs rather than any others. 
+In the human being who is missing everything in life in an extreme fashion, it is most likely that the major motivation would be the physiological needs rather than any others.
 
 A person who is lacking food, safety, love, and esteem would most probably hunger for food more strongly than for anything else.
 

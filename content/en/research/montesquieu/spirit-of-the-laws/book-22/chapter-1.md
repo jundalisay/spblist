@@ -32,7 +32,7 @@ Without such demand, the latter would not be able to balance its accounts.
 
 
 
-## Chapter 2= The Nature of Money
+## Chapter 2: The Nature of Money
 
 Money is a sign which represents the value of all merchandizes.
 

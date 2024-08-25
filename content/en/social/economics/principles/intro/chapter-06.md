@@ -3,7 +3,7 @@ heading: "Chapter 5"
 linkTitle: Chapter 5
 title: "The Supereconomy"
 # date: 2022-03-20
-weight: 16
+weight: 20
 image: /photos/grains.jpg
 description: "Supereconomics is concerned with the material well-being of society."
 writer:

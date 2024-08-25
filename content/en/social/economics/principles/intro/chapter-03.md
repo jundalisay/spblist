@@ -16,6 +16,15 @@ toc: false
 ---
 
 
+{{< dc t="Principles" >}}
+Principles | Assertions
+--- | ---
+Value is subjectivized desire, Prices are objectivized desire | The desires in the physical domain follow the 4 Laws of Thermodynamics
+. | The desires in the economic domain follow the 4 Laws of Exchangeable Value
+{{< /dc >}}
+
+
+
 {{< q a="Smith" c="Book 1, Chapter 3 of The Wealth of Nations Simplified" >}}
 I shall explain [exchangable value] as fully as I can. I earnestly hopefor the reader's patience to examine something tedious, and his attention to understand what may still be obscure after the fullest explication.
 {{< /q >}}
@@ -77,7 +86,7 @@ The engine of value is desire. <!-- The cause of value therefore is the feeling 
 
 This desire is a product of the mind and thus exists in the metaphysical dimension. Its physical counterpart is physical energy as heat, calories, joules, etc. 
 
-The rules for physical energy are described as **the Four Laws of Thermodynamics**. We carry over these laws onto Supereconomics as **the Four Laws of Value** which operate on human desire*. 
+The rules for physical energy are described as **the Four Laws of Thermodynamics**. We carry over these laws onto Supereconomics as **the Four Laws of Value** which operate on human desire*.
 
 
 Thus:
@@ -85,14 +94,14 @@ Thus:
 - the physical dimension has energy, with its dynamics explained by the four laws of themodynamics
 
 
-{{< f f="*This means that the animal and plant kingdoms have their own Superphysics laws, which are out of the scope of our current Supereconomics, that dictate how they allocate resources among themselves to quench their desires." >}}
+The Celsius degrees in thermodynamics then manifest as currency prices in Supereconomics. This lets us fit all the principles of Supereconomics elegantly under the four headings of the 4 Laws of Value. 
 
+{{< i s="/graphics/econ/value.png" a="Laws of Value" >}}
 
-The Celsius degrees in thermodynamics then manifest as dollar prices in Supereconomics. This lets us fit all the principles of Supereconomics elegantly under the four headings of the 4 Laws of Value. 
 
 This classification is different from the messy* organization of Economics as micro-macro-economics, behavioral, political economy, development economics, etc.
 
 {{< f f="*Such a mess is what happens when people build something in an uncoordinated way or without looking at the very big picture. In contrast, our Supereconomics is a subset of Social Superphysics which is itself a subset of Superphysics." >}}
 
 
-Before we explain the four laws of value, we have to explain exchangeable value. 
+Before we explain the four laws of value, we have to explain the different kinds of value. 

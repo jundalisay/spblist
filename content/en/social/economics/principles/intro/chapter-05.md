@@ -1,10 +1,10 @@
 ---
-heading: "Chapter 4b"
-linkTitle: Chapter 4b
-title: "Four Laws Table"
-weight: 14
+heading: "Chapter 5"
+linkTitle: Chapter 5
+title: "The Four Laws Table"
+weight: 19
 # date: 2022-03-24
-image: "/photos/buy.jpg"
+image: "/graphics/econ/law1.jpg"
 description: "Here is a table for the four classifications of Exchangeable value in supereconomics, using 'price' as its snapshot"
 writer:
   name: Juan
@@ -12,46 +12,91 @@ writer:
 ---
 
 
-Here is a table for the four classifications of Exchangeable value in Superphysics, using "price" as its snapshot:
+Our classification of value into buyer-seller, and personal-societal, lead to 4 kinds of value:
 
-
-Superphysics | Personal | Society
+Supereconomics | Personal | Society
 --- | --- | ---
-Subjective and Variable (Buyer's perspective) | Nominal Price (value in currency) | Market Price (value to the buyer)
-Objective and Natural or Invariable (Seller's perspective) | Real Price (value in grain or labour) | Natural Price (value to the seller)
+Subjective and Variable (Buyer's perspective) | **Nominal Price** (value in currency) | **Market Price** (value to the buyer)
+Objective and Natural or Invariable (Seller's perspective) | **Real Price** (value in grain or labour) | **Natural Price** (value to the seller)
 
 
-This is in contrast to Economics which has no concept of Real and Natural Price as it would prevent arbitrage, profit maximization, and consequently private sensory pleasures. It only has economic value (nominal price) and market value (market price):
+Economics, on the other hand, has no concept of Real and Natural Price because it has no concept of society as an objective entity.  
+- It purposely rejects the importance of society because it enshrines selfishness, as a result of being dominated by the Negative Force.
+- This Negative Force also facilitates division, crudity as materialism, war, conflict, racism, etc.
 
+To pursue selfishness, Economics teaches:
+- arbitrage
+- profit maximization
+- finance and money-only exchange
+- private sensory pleasures.
+
+As a results, it only has:
+- economic value (nominal price)
+- market value (market price)
 
 Economics | Personal | Society
 --- | --- | ---
-Subjective and Variable | Nominal Price (value in currency) | Market Price (value to the buyer)
+Subjective and Variable | **Nominal Price** (value in currency) | **Market Price** (value to the buyer)
 
 
-
-We can now summarize our laws:
+We can now summarize and oragnize our 4 prices into a pattern:
 
 Law | Price | Purpose
 --- | --- | ---
 1 | Nominal | Utilization - exposes the lack and the need
-3 | Real | Specialization - increases quality and quantity to deal with the lack
-4 | Market | Diffusion - addresses the lack
-2 | Natural | Balance - prevents the crashes that leads to a recurrence of lack
+2 | Real | Specialization - drives action to increase quality and quantity to deal with the lack
+3 | Market | Diffusion - spreads quality and quantity to address the lack
+4 | Natural | Balance - prevents the crashes that leads to a recurrence of lack
 
-  
-In addition, we can see how the four laws of value are the reverse of the laws of thermodynamics. For example:
+
+We find that it exactky matches the Law of Social Cycles of Supersociology:
+
+Cycle | Price
+--- | --- 
+Worker | Nominal 
+Warrior | Real 
+Thinker | Market 
+Trader | Natural 
+
+From here, we can connect Supereconomics with Supersociology by making them the Four Laws of Value. 
+
+Law | Price | Meaning
+--- | --- | ---
+1 | Nominal | Everything in the universe has value
+2 | Real | Value is created to address lack
+3 | Market | Value is spread through fair exchange
+4 | Natural | There must be balance in the creation and spread of value
+
+<!-- from the conversion of matter or ideas -->
+
+Since we equate value to desire and desire in the physical domain is energy, then we can connect these 4 laws to the laws of thermodynamics:
+
+Supereconomics Law | Physics Thermodynamics Law
+--- | --- 
+1 - Nominal | 3 - A system's entropy reaches a constant value as its temperature reaches absolute zero
+2 - Real | 1 - Energy can be conerted from one form to another, but cannot be created nor destroyed
+3 - Market | 2 - Entropy will always increase over time
+4 - Natural | 0 - If 2 systems are in thermal equilibrium with a 3rd system, then they are in equilibrium with each other
+
+
+{{< i s="/graphics/econ/value.png" a="Laws of Value" >}}
+
+We see that the organization of Physics laws are just as messy as those of Economics. This is because they were created withoutt knowing the metaphysics of how things work. 
+
+
+<!--  we can see how the four laws of value are the reverse of the laws of thermodynamics. For example:
 - the First law or the Conservation of Energy is the 'first' in Physics, but is the third in Supereconomics, as trade
-- the Third law, as absolute zero, is the last in Physics, but is the first in Supereconomics as its First law, as everything having a value.
+- the Third law, as absolute zero, is the last in Physics, but is the first in Supereconomics as its First law, as everything having a value. -->
 
-This is because Physics believes that the universe began as an energetic Big Bang where energy began first, whereas humans start from birth or low-energy sleep where lack begins first
 
-Superphysics law | Thermodynamics law counterpart
+For example, Physics believes that the universe began as an energetic Big Bang where energy began first, whereas humans start from birth or low-energy sleep where lack begins first.
+
+<!-- Superphysics law | Thermodynamics law counterpart
 --- | ---
 1st | 3rd 
 3rd | 2nd
 4th | 1st
-2nd | 0th
+2nd | 0th -->
 
 
 <!-- Zeroth Law =  thermal equilibrium.
@@ -83,12 +128,12 @@ We find that these four laws match the four factors of our [DCIT model](/posts-p
 
 
 {{< dc t="Updates" >}}
-Date | Update
---- | ---
 4/2017 | added Economics value matrix
+--- | ---
 8/2020 | overhauled to match Superphysics
 7/2021 | overhauled to base everything on the four laws
 2/2022 | Added the four classes (Worker, Warrior, Philosopher, Merchant) onto the four laws
 3/2024 | Put the 4th Law as the 2nd to explain the priorness of politics over economics, or Supersociology over Supereconomics
+8/2024 | Put the 4th Law back as the 4th Law after connecting it again with Thermodynamics
 {{< /dc >}}  
 

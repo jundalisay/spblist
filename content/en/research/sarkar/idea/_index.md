@@ -1,5 +1,6 @@
 ---
 title: "Idea and Ideology"
 image: "/covers/ideology.jpg"
-weight: 19
+weight: 2
+featured: true
 ---

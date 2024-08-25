@@ -17,8 +17,8 @@ Saccidánanda has 3 terms, wrongly translated as:
 - ánanda: bliss 
 
 The correct translation is:
-- sat: a Transcendental Entity that undergoes no change
-- chit: consciousness
+- sat: **a Transcendental Entity that undergoes no change**
+- chit: **consciousness**
 - ananda: divine bliss
 
 <!--  sat means “ – . “Existence” is a relative term and conveys the sense of existence under certain relative conditions of time, place and person. Sat implies “unchangeable”.  -->

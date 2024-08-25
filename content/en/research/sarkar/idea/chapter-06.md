@@ -11,8 +11,11 @@ writer:
 ---
 
 
-Due to internal clash and cohesion, and division and association amongst the 3 immanent principles (sentient, mutative and static), the resultant force bursts out at any one vertex of the triangle formed due to the ever-flowing eternal force. This leads to the crudification which is the inanimate phase of creation.
+Due to internal clash and cohesion, and division and association amongst the 3 immanent principles (sentient, mutative and static) is created.
 
+The resultant force bursts out at any one vertex of the triangle formed due to the ever-flowing eternal force. 
+
+This leads to the crudification which is the inanimate phase of creation.
 
 <!-- ## Saiṋcara
 
@@ -45,12 +48,15 @@ Saincara is:
 - the inanimate phase of creation. --><!-- , and represents the Cosmic Mind, or Macrocosm, in different stages.  -->
 
 
-In the living bodies after the formation of crudest <!-- kśititattva, or --> solid layer<!-- factor -->, the division and association of matter result in the formation of mind. The process of subtlification or pratisaiṋcara commences at this point.
+In the living bodies after the formation of crudest <!-- kśititattva, or --> solid layer<!-- factor -->, the mind is created from the division and association of matter.
+- The process of subtlification or pratisaiṋcara commences at this point.
 
 It is:
-- the counter-movement wherein the unit mind gets dilated ever-increasingly, the volume and mass of the unit mind increases due to increasing reflection of Cosmic Consciousness 
+- the counter-movement wherein the unit mind gets dilated ever-increasingly
+  - The volume and mass of the unit mind increases due to increasing reflection of Cosmic Consciousness 
 - the cycle for the unit to progress from the crude to the subtle 
-- where matter gets decimated continuously, until in the end, the unit mind achieves mental liberation. This is called "savikalpa samádhi"
+- where matter gets decimated continuously, until in the end, the unit mind achieves mental liberation.
+  - This is called "savikalpa samádhi"
 
 
 Throughout subtlification<!-- pratisaiṋcara -->, the unit mind or microcosm exists in different stages. 
@@ -59,15 +65,16 @@ Throughout subtlification<!-- pratisaiṋcara -->, the unit mind or microcosm ex
 
 Subtlification <!-- Pratisaiṋcara --> is the stage of unit minds.
 
-Each and every atom and molecule of the Macrocosm is nothing but the Macrocosmic Nucleus.<!--  Puruśottama. --> It is He who radiates Himself everywhere, also as <!-- . ; it is He who is omnipresent as the --> the witnessing entity.
+Each and every atom and molecule of the Macrocosm is nothing but the Macrocosmic Nucleus.<!--  Puruśottama. --> 
+- It is He who radiates Himself everywhere, also as <!-- . ; it is He who is omnipresent as the --> the witnessing entity.
 
 
-The Macrocosmic Nucleus radiates and pervades the universe just as the sun prevades the solar system. <!-- by its radiation pervades the solar system, so does Puruśottama His Citishakti -->. Thus, in the Cosmic Mind, both the radiated stuff and the witnessing entity are the <!-- Puruśottama -->Macrocosmic Nucleus Himself.
+The Macrocosmic Nucleus radiates and pervades the universe just as the sun prevades the solar system. <!-- by its radiation pervades the solar system, so does Puruśottama His Citishakti -->. 
+- Thus, in the Cosmic Mind, both the radiated stuff and the witnessing entity are the <!-- Puruśottama -->Macrocosmic Nucleus Himself.
 
 
-In subtlification<!-- pratisaiṋcara -->, <!-- the second phase of evolution, that is, --> at the different stages of the unit mind, the Macrocosmic Nucleus <!-- Puruśottama --> is the witnessing entity with all other objects being crude derivatives of mindstuff.
-
-**In the phases both of crudification and subtlification, the Macrocosmic Nucleus is the Collective Consciousness that witnesses the microcosms and Macrocosm.**
+- In subtlification<!-- pratisaiṋcara -->, <!-- the second phase of evolution, that is, --> at the different stages of the unit mind, the Macrocosmic Nucleus <!-- Puruśottama --> is the witnessing entity with all other objects being crude derivatives of mindstuff.
+- **In the phases both of crudification and subtlification, the Macrocosmic Nucleus is the Collective Consciousness that witnesses the microcosms and Macrocosm.**
 
 
 ## Prota Yoga and Ota Yoga

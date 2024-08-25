@@ -117,8 +117,9 @@ These superstitions led to the exploitation of society by intellectual parasites
 - To maintain their domination through superstition, these parasites:
   - invented means to curb this growth of reaction and intellectual rationalism and
   - presented to the mass a sentimental appeal. 
-- Any command, rational or irrational, was enforced on society with so-called divine force by enunciation of the incarnation theory. 
-- Corruption was perpetrated in the name of God
+
+Any command, rational or irrational, was enforced on society with so-called divine force by enunciation of the incarnation theory. 
+- Corruption was perpetrated in the name of God.
 - All those raising their heads against such commands or preachings were called reactionaries, atheists, and curbed drastically. 
   - “Give the dog a bad name and hang it,” was their motto.
 - They went to the extent of manipulating, polluting and misinterpreting even the precious writings of many great ancient philosophers<!--  whose work had been respected as religious treatises from ancient times – all with an ulterior motive, to get their interests served -->.

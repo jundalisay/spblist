@@ -41,19 +41,18 @@ To avoid this inconvenience after the first establishment of the division of lab
 - In the rude ages of society, cattle was the common instrument of commerce.
 - In old times, things were frequently valued according to the number of cattle exchanged for them, even if it must have been very inconvenient.
 
-Homer says that= 
+Homer says that:
 - the armour of Diomede cost only 9 oxen, and
 - the armour of Glaucus cost 100 oxen.
 
-The following were the common instrument of commerce= 
+The following were the common instrument of commerce:
 - salt in Abyssinia,
 - shells in some parts of the coast of India,
 - dried cod at Newfoundland,
 - tobacco in Virginia,
 - sugar in some of our West India colonies,
-- hides or dressed leather in some other countries, and
-
-I am told that to this day, workers in a village in Scotland can carry nails instead of money to the baker's shop or the ale-house.
+- hides or dressed leather in some other countries,
+- I am told that to this day, workers in a village in Scotland can carry nails instead of money to the baker's shop or the ale-house.
 
 
 {{< s v="4" >}} However, men in all countries were finally determined by irresistible reasons to prefer metals above every other commodity.
@@ -82,17 +81,22 @@ Pliny says that according to Timæus, an ancient historian, the Romans had no co
 - They used unstamped bars of copper which was their money back then.
 
 
-{{< s v="7" >}} These rude bars had two major inconveniences= 
+{{< s v="7" >}} These rude bars had two major inconveniences:
 
-> 1. The trouble of weighing
+1. The trouble of weighing
 
 In the precious metals, a small difference in their amount makes a great difference in the value.
+
 Very accurate weights and scales are needed, particularly in the weighing of gold.
+
 In the coarser metals, a small error in would be of little consequence.
+
 Less accuracy is needed.
+
 Yet it would be very troublesome, if a poor man had to weigh a farthing each time he bought or sold a farthing's worth of goods.
 
-> 2. The trouble of assaying them
+
+2. The trouble of assaying them
 
 Assaying is still more difficult and tedious.
 - Unless a part of the metal is fairly melted in the crucible, with proper dissolvents, any conclusion that can be drawn from it, is extremely uncertain.

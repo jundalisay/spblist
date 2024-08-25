@@ -12,6 +12,14 @@ writer:
 ---
 
 
+{{< dc t="Principles" >}}
+Principles | Assertions
+--- | ---
+The society-organism itself is made up of individual waves | This leads to the division of labor in order to realize their every desire.
+{{< /dc >}}
+
+
+
 
 Essential to Supereconomics is the concept of the society-organism of Supersociology. 
 

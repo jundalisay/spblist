@@ -31,10 +31,19 @@ Thus, they:
 
 ## Perception
 
-Whenever the outgoing quantum-perceptions carrying mental force:
-- gets reflected, the objects come within our scope of sensation, perception and conception. 
-- gets refracted, the objects **partially** come within our scope of sensation, etc. 
-- are neither reflected nor refracted or when there is little reflection or refraction, the objects do not come within the scope of our feeling.
+The outgoing quantum-perceptions carrying mental force can:
+
+1. Get reflected
+
+In this case, the objects come within our scope of sensation, perception and conception. 
+
+2. Get refracted
+
+In this case, the objects **partially** come within our scope of sensation, etc. 
+
+3. Get neither reflected nor refracted or get little reflection or refraction.
+
+In this case, the objects do not come within the scope of our feeling.
 
 **The correctness of perception depends on many factors.**
 
@@ -71,7 +80,9 @@ In the crudification <!-- cycle, extroversial saiṋcara --> process, mindstuff 
 
 ## 5 Portions or Kosas
 
-This process of crudification of mindstuff is coordinated between the Identity-layer and the Ego-layer. This process is divided into 5 <!--portions --> portions or kosas. Each portion has a relative density of crudeness developed through the bondage of the static principle.
+**This process of crudification of mindstuff is coordinated between the Identity-layer and the Ego-layer.** 
+
+This process is divided into 5 portions or **kosas**. Each portion has a relative density of crudeness developed through the bondage of the static principle.
 
 These 5 portions are the crude portion of the Macrocosmic Mind where it displays its will. 
 
@@ -88,7 +99,12 @@ The 5 portions from the initial portion are:
 
 <!--   -  and in the case of the microcosm dealing with the external paiṋcabhútas,   -->
 
-The <!-- psychological nomenclature of --> Freudian classification of “conscious”, “sub-conscious” and “unconscious” minds for the crude, subtle and causal minds are wrong.
+The <!-- psychological nomenclature of --> Freudian classification of “conscious”, “sub-conscious” and “unconscious” minds for the crude, subtle and causal minds are wrong.*
+
+{{< n n="*We classify these 5 portions as the 5 strata: aethereal, spatial, radiant, convertible, material. For simplicity, we sometimes use 2 classifications as higher mind and crude mind." >}}
+
+
+
 
 
 ## Crude Portion
@@ -99,25 +115,29 @@ This is the crudest portion of mindstuff, where it is metamorphosed into the cru
 <!-- Macrocosmic control over the 5 fundamental physical layers means the internal display of the Macrocosmic physical portion --><!--  kámamaya kośa -->
 
 <!-- Nothing is beyond the scope of Cosmic Mind. Everything comes within that mental scope. And so the Macrocosmic Entity needs no nervous system or senses for controlling these operations. The Cosmic Mind at this stage requires no physical structure. -->
+<!-- (smarańa and manana) -->. 
+From the microcosmic angle of vision, the crude portion of the Macrocosm is expressed through the 5 physical layers.<!--  factors from which the physical body of the microcosm and other physical objects come into being.  -->
+ <!-- kámamaya kośa --> <!-- of the Cosmic therefore includes the annamaya kośa of the unit. -->
+
+The crude portion of the Macrocosm, in its flow of imagination, is able to create actualities for the unit mind.
+- **But the crude portion of the unit mind cannot create physical actualities by its own imagination.**
+
+<!-- kámamaya kośa, --> <!-- having the function of dealing -->
+**The crude portion can deal  with the created layers.**  
+<!-- bhútas, is said to be the crude mind in the case of the microcosm also.  -->
+
+<!-- manomaya, --> <!-- performing the function of -->
+<!-- The subtle portion is capable of  recollection and contemplation.  -->
+<!-- , is known as the subtle mind of the microcosm also.  -->
 
 
 ## Subtle Portion 
 <!-- or Manomaya Kośa -->
 
-This is subtler than the crude portion. 
+This is subtler than the crude portion. It has the capacity of recollection and contemplation.
 <!-- The subtle portion  manomaya kośa is subtler than the crude portion  kámamaya kośa -->
 
-It has the capacity of recollection and contemplation<!-- (smarańa and manana) -->. 
 
-From the microcosmic angle of vision, the crude portion of the Macrocosm is expressed through the 5 physical layers.<!--  factors from which the physical body of the microcosm and other physical objects come into being.  -->
- <!-- kámamaya kośa --> <!-- of the Cosmic therefore includes the annamaya kośa of the unit. -->
-
-The crude portion of the Macrocosm, in its flow of imagination, is able to create actualities for the unit mind.
-- But the crude portion of the unit mind cannot create physical actualities by its own imagination. 
-
-The crude portion <!-- kámamaya kośa, --> can deal <!-- having the function of dealing --> with the created layers.  <!-- bhútas, is said to be the crude mind in the case of the microcosm also.  -->
-
-The subtle portion <!-- manomaya, --> is capable of <!-- performing the function of --> recollection and contemplation. <!-- , is known as the subtle mind of the microcosm also.  -->
 
 
 
@@ -128,12 +148,14 @@ These are the causal portion of both the Macrocosm and the microcosm.
 <!-- The remaining 3 kośas are still more subtle and also being the rudimental stages of sthúla and súkśma manah, are .  -->
 
 But the causal portion <!-- division --> of the microcosmic mind is merely theoretical. 
-- There is no separate existence of the unit causal mind from the Cosmic causal mind. 
+- **There is no separate existence of the unit causal mind from the Cosmic causal mind.**
 - There is no causal difference between the microcosm and the Macrocosm.
 
+The process of sádhaná suspends the work of the crude and subtle portions of the unit mind.
+- When this happens, the causal portion of the unit mind will not be able to maintain its separate identity from the Macrocosmic mind. 
 
-The causal portion of the unit mind will not be able to maintain its separate identity from the Macrocosmic mind when the crude and subtle portions of the unit mind suspend their work by the process of sádhaná. 
-- Only the seed of reactive momenta <!-- past action will remain just to --> differentiates the causal microcosm from the causal Macrocosm.
+<!-- past action will remain just to -->
+**Only the seed of reactive momenta differentiates the causal microcosm from the causal Macrocosm.**
 - Through correct sádhaná, the spiritual aspirant will feel that there is one causal mind in the universe.
 - Similarly, by the subtleness of projection, subtle and crude portions of the unit mind can connect themselves with the subtle and crude portions of the Cosmic Mind. 
 - Yogic sádhaná is the way to achieve this subtleness of projection. 

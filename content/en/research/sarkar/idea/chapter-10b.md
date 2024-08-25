@@ -67,19 +67,21 @@ The job of a sadvipra is to see that the dominating or the ruling classes do not
 
 The moment one class turn into exploiters, the life of the majority becomes miserable: a few enjoy at the cost of many whose lot is only to suffer. 
 
-More than that, in such a state of society both the few and the many get degenerated. The few (exploiters) degenerate themselves due to [an] excess of physical enjoyments and the many (exploited) cannot elevate themselves, because all their energy is taken up in mundane problems and all their mental waves are always tending to attain psycho-physical parallelism, thus getting day by day cruder. 
+More than that, in such a state of society, both the few and the many get degenerated.
+- The few exploiters degenerate themselves due to an excess of physical enjoyments
+- The many exploited cannot elevate themselves because all their energy is taken up in mundane problems.
+  - All their mental waves are always tending to attain psycho-physical parallelism, thus getting cruder day by day. 
 
 Hence, for the physical, mental and spiritual welfare of the administrator and the administered of the society as a whole, it is essential that no one be given any scope to exploit the rest of the society.
 
-Sadvipras are not inactive witnesses. They are active participants to see that no person or class exploits the rest. 
+Sadvipras are not inactive witnesses.
+- They are active participants to see that no person or class exploits the rest. 
 
 For this, they may have to resort even to physical violence. This is because the sadvipras will have to strike at the source of the power which is tending to become the exploiter.
-
-If the kśatriya class are becoming exploiters, the sadvipras may have to resort to physical force. 
-
-If the intellectual or vipra class are dominating, they will have to create a revolution in the intellectual field. 
-
-If the vaeshyas are dominating, the sadvipras may have to contest and win elections. This is because the vaeshya class rules by democracy which enables them to accumulate undue gains.
+- If the kśatriya class are becoming exploiters, the sadvipras may have to resort to physical force. 
+- If the intellectual or vipra class are dominating, they will have to create a revolution in the intellectual field. 
+- If the vaeshyas are dominating, the sadvipras may have to contest and win elections.
+  - This is because the vaeshya class rules by democracy which enables them to accumulate undue gains.
 
 
 4 June 1959

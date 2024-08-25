@@ -22,26 +22,63 @@ In addition, we are motivated by the desire to achieve or maintain the various c
 
 (2) These basic goals are related to each other, being arranged in a hierarchy of prepotency. 
 
-The most prepotent goal will monopolize consciousness and will tend of itself to organize the recruitment of the various capacities of the organism. The less prepotent needs are minimized, even forgotten or denied. 
+- The most prepotent goal will:
+  - monopolize consciousness 
+  <!-- - tend of itself to organize the  -->
+  - recruit the various capacities of the organism.
+- The less prepotent needs are minimized, even forgotten or denied. 
 
-But when a need is fairly well satisfied, the next prepotent ('higher') need emerges, in turn to dominate the conscious life and to serve as the center of organization of behavior, since gratified needs are not active motivators.
+But when a need is fairly well satisfied, the next prepotent ('higher') need emerges. This in turn:
+- dominates the conscious life and
+- serves as the center of organization of behavior.
 
-Thus man is a perpetually wanting animal. 
+This is because gratified needs are not active motivators.
+
+**Thus, man is a perpetually wanting animal.** 
 
 Ordinarily, the satisfaction of these wants is not altogether mutually exclusive, but only tends to be. 
 
-The average member of our society is most often partially satisfied and partially unsatisfied in all of his wants. The hierarchy principle is usually empirically observed in terms of increasing percentages of non-satisfaction as we go up the hierarchy. 
+The average member of our society is most often partially satisfied and partially unsatisfied in all of his wants.
 
-Reversals of the average order of the hierarchy are sometimes observed. Also it has been observed that an individual may permanently lose the higher wants in the hierarchy under special conditions. There are not only ordinarily multiple motivations for usual behavior, but in addition many determinants other than motives.
+The hierarchy principle is usually empirically observed in terms of increasing percentages of non-satisfaction as we go up the hierarchy. 
 
-(3) Any thwarting or possibility of thwarting of these basic human goals, or danger to the defenses which protect them, or to the conditions upon which they rest, is considered to be a psychological threat. With a few exceptions, all psychopathology may be partially traced to such threats. A basically thwarted man may actually be defined as a 'sick' man, if we wish.
+Reversals of the average order of the hierarchy are sometimes observed.
+
+An individual may permanently lose the higher wants in the hierarchy under special conditions.
+
+There are not only ordinarily multiple motivations for usual behavior, but in addition many determinants other than motives.
+
+(3) Psychological threats are:
+- any thwarting of these basic human goals
+- danger to the defenses which protect them, or to the conditions upon which they rest
+
+With a few exceptions, all psychopathology may be partially traced to such threats.
+
+We define a basically-thwarted man as a 'sick' man.
 
 (4) It is such basic threats which bring about the general emergency reactions.
 
-(5) Certain other basic problems have not been dealt with because of limitations of space. Among these are (a) the problem of values in any definitive motivation theory, (b) the relation between appetites, desires, needs and what is 'good' for the organism, (c) the etiology of the basic needs and their possible derivation in early childhood, (d) redefinition of motivational concepts, i. e., drive, desire, wish, need, goal, (e) implication of our theory for hedonistic theory, (f) the nature of the uncompleted act, of success and failure, and of aspiration-level, (g) the role of association, habit and conditioning, (h) relation to the [p. 396] theory of inter-personal relations, (i) implications for psychotherapy, (j) implication for theory of society, (k) the theory of selfishness, (l) the relation between needs and cultural patterns, (m) the relation between this theory and Alport's theory of functional autonomy. These as well as certain other less important questions must be considered as motivation theory attempts to become definitive.
+(5) Certain other basic problems have not been dealt with because of limitations of space.
+
+Among these are:
+- (a) the problem of values in any definitive motivation theory
+- (b) the relation between appetites, desires, needs and what is 'good' for the organism
+- (c) the etiology of the basic needs and their possible derivation in early childhood
+- (d) redefinition of motivational concepts, i. e., drive, desire, wish, need, goal
+- (e) implication of our theory for hedonistic theory
+- (f) the nature of the uncompleted act, of success and failure, and of aspiration-level
+- (g) the role of association, habit and conditioning
+- (h) relation to the theory of inter-personal relations
+- (i) implications for psychotherapy
+- (j) implication for theory of society
+- (k) the theory of selfishness
+- (l) the relation between needs and cultural patterns
+- (m) the relation between this theory and Alport's theory of functional autonomy. 
+
+These as well as certain other less important questions must be considered as motivation theory attempts to become definitive.
 
 
-## Notes
+### Notes
 
 [1] As the child grows up, sheer knowledge and familiarity as well as better motor development make these 'dangers' less and less dangerous and more and more manageable. Throughout life it may be said that one of the main conative functions of education is this neutralizing of apparent dangers through knowledge, e. g., I am not afraid of thunder because I know something about it.
 
