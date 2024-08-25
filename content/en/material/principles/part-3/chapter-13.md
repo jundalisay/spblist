@@ -2,7 +2,7 @@
 heading: "Chapter 13"
 title: "Technologies from the Radiant Layer"
 # date: 2023-12-10
-image: "/graphics/physics/magnet1.jpg"
+image: "/graphics/physics/magnetrepel.jpg"
 description: "The practical use of qors is to light-based technologies"
 writer:
   name: Juan

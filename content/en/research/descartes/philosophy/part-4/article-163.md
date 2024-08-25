@@ -63,17 +63,41 @@ If the same end is raised up, and the opposite one is depressed,, then the iron 
 #### 166. Why is the magnetic field [virtue] weaker in the Earth than in small magnets?
 
 
-I do not think it is weaker, but rather much stronger, in that middle region of the Earth, which has been said above to be pervaded by all the virtual photons. 
+I do not think it is weaker, but rather much stronger in that middle region of the Earth which is pervaded by all the virtual photons.
 
-But these virtual photons, having gone forth from it, for the most part return through the inner crust of the upper region of the Earth, from which the metals arise, and in which there are also many pores suitable for receiving them.
+After these virtual photons exit the center of the Earth, most of them go to the upper mantle where metals originate. 
+- Those metals have channels to receive them.
+- And so few reach us.
 
-Therefore very few of them reach us. 
+The channels in the upper mantle and in the magnets and iron in the veins of this region have been converted in a different way than the channels of the center and the lower mantle.
+ <!-- middle region -->
 
-Those pores, both in that inner crust, and also in the magnets, and iron filings, which are contained in the veins of this outer one, are turned in a quite different way than the pores of the middle region; so that the virtual photons, which flow from the South to the North through this middle region, return from the North to the South, through all indeed the upper parts, but especially through its inner crust, and also through the magnets and iron of the outer; to which as the greatest part of them betakes itself, few are left which seek their way through this our air, and other surrounding bodies, destitute of suitable pores.
+<!-- For I judge that these channels, both in that inner crust and also in magnets and iron scraps contained in the veins of this outer region, have ;  -->
 
-A magnet taken out of the earth, and freely placed in a boat on the water, should still turn the same face towards the North, which it always had before, when it was attached to the earth; as Gilbert, the chief investigator of magnetic virtue, and the first discoverer of that which is in the Earth, affirms he has experienced. 
+In this way, the virtual photons, which flow from the South to the North, through this center and upper mantle, return from the North to the South, through:
+- all the outer parts.
+- mainly through its inner crust, and the outer magnets and iron inside that part 
 
-Nor do I heed that others think they have seen the contrary; for perhaps they were deceived by the fact that the very part of the earth, from which they had caused the magnet to be cut out, was a magnet, and the poles of the cut-out magnet turned towards it; as was said a little before, that one fragment of a magnet turns towards another.
+A few virtual photons remain on the surface of the Earth, which is devoid of suitable channels. And so they seek a way through our air and other surrounding bodies.
+
+This is why a magnet, excavated from the Earth and freely placed in a boat above water, should still point towards the North, just as it always did while inside the Earth.
+
+Gilbert is:
+- the chief investigator of magnetic virtue
+- the first discoverer of magnetic virtue inside the Earth
+
+He affirms that he has experienced this. 
+
+
+<!-- I do not dwell on the fact that others may believe they have seen the opposite; perhaps because when they had taken that very part of the Earth from which they had taken the magnet, it was a magnet, the poles of the removed magnet would turn towards it; as it was mentioned a little earlier, a fragment of one magnet is attracted to another. -->
+
+ <!-- upper parts, but especially through its inner crust, and also through the magnets and iron of the outer; to which as the greatest part of them betakes itself, few are left which seek their way through this our air, and other surrounding bodies, destitute of suitable pores. -->
+
+Others think they have seen the contrary, which I do not believe. 
+
+Perhaps they were deceived by cutting out a magnet from the magnet. This caused the poles to turn in the other direction.
+
+ <!-- the fact that the very part of the earth, from which they had caused the magnet to be cut out, was a magnet, and the poles of the cut-out magnet turned towards it; as was said a little before, that one fragment of a magnet turns towards another. -->
 
 
 <!-- I do not think that it is weaker. Rather it is much stronger in the middle region of the Earth than the whole which is covered with striated particles. 
@@ -92,46 +116,58 @@ They flow to Borea, and are returned from Borea to the South through all the upp
 
 When the greater part of them have consigned themselves, a few remain which through this air of ours, and other surrounding bodies, destitute of suitable paths, seek a way for themselves.
 
-If the magnet is cut out of the earth, and placed freely in a boat on the water, that same face which always before, while it clung to the earth, looked upon the North, must still turn towards the North.
-
-Gilbertus is the principal investigator of the magnetic virtue.
-
-He is the first to discover it on Earth.
-
-He claims to have experienced it.  -->
-
-<!-- Nor do I care that others think they have seen the contrary; for  -->
-
-<!-- Perhaps he imposed on them that since that very part of the earth, from which they had taken care to cut the magnet, was a magnet, the poles of the cut magnet should turn towards it: as was said a little before, a fragment of one magnet is turned to another. -->
+If the magnet is cut out of the earth, and placed freely in a boat on the water, that same face which always before, while it clung to the earth, looked upon the North, must still turn towards the North. -->
 
 
-#### 167. Why do needles, touched by a magnet, always have the poles of their virtue at their extremities?
+
+#### 167. Why do needles, touched by a magnet, always have the poles of their magnetic field [virtue] at their ends?
 
 This magnetic virtue is not communicated to an oblong iron, except according to its length.
 
-This is why a needle imbued with it must always turn its extremities towards the same parts of the earth, towards which a spherical magnet turns its poles. 
+This is why a needle imbued with it must always turn its ends towards the same parts of the earth, towards which a spherical magnet turns its poles.
 
 Such a needle must always have the poles of its magnetic virtue precisely at those extremities.
 
 
-#### 168. Why the poles of the magnetic force are not always accurately directed towards the poles of the Earth, but are sometimes deflected from them.
+#### 168. Why the poles of the magnetic force are not always accurately directed towards the poles of the Earth
 
-Their ends can be more easily distinguished from other parts than the poles of the magnet, it has been noted with their help that the poles of the magnetic virtue do not everywhere accurately reflect the poles of the Earth, but deviate from them in various places. 
+<!-- , but are sometimes deflected from them. -->
 
-The cause of the decline of which, as Gilbertus has already observed, must be referred to the only inequalities which exist on the surface of the earth.
+Their ends of a compass can be more easily distinguished from other parts than the poles of the magnet.
 
-In some parts of this outer earth, much more iron rods and more magnets are found /301/ than in others. and thus they often deviate from their journeys. And since the turning of the poles of a magnet, or of the ends of a needle, depends upon the course of these particles alone, it must follow all their inflections. 
+With their help, the poles of the magnetic virtue has been found not everywhere accurately reflecting the Earth's poles. 
+- Instead, they deviate from them in various places. 
 
-An experiment of this matter may be made in a magnet whose shape is not spherical: for if a small needle be placed above its different parts, it will not always turn in exactly the same way to its poles, but will often deviate somewhat from them. 
+Gilbert has already observed this decline to be caused only by the inequalities on the surface of the Earth.
 
-Nor is it to be thought that there is a disparate reason in it, that the inequalities which are in the outermost surface of the earth, compared to its whole mass, are very small; for they are not to be compared with it, but with needles and magnets in which there is a deviation, and thus it appears that they are quite large.
+In some parts of this outer earth, much more iron rods and more magnets are found than in others.
+- This makes them often deviate from their journeys.
+
+The turning of the poles of a magnet, or of the ends of a needle, depends on the course of these particles alone.
+- And so it must follow all their inflections. 
+
+This can be tested through a non-spherical magnet.
+
+If a small needle is placed above its parts, it will not always turn in exactly the same way to its poles.
+- Instead, it will often deviate somewhat from them. 
+
+<!-- Nor is it to be thought that there is a disparate reason in it, that  -->
+
+The inequalities in the outermost surface of the earth, compared to its whole mass, are very small.
+- But those inequalities should be compared to the needles and magnets in which there is a deviation, not to the mass of the Earth. 
+- This makes those inequalities quite large.
 
 
 #### 169. Why even sometimes this declination changes with time.
 
-There are those who say that this decline does not always remain the same in the same parts of the earth, but changes with time.
+<!-- There are those who say that this decline does not always remain the same in the same parts of the earth, but changes with time.
 
-This should not be seen as surprising: not only because iron is daily transferred from one part of the earth to another by men, but also because its lumps, which are in this outer earth, can be corrupted in some places with time, and others can be generated in others, either by the interior of the earth was subdued.
+This should not be seen as surprising: not only -->
+
+This is because:
+- iron is daily transferred from one part of the earth to another by men
+- its lumps, which are in this outer earth, can be corrupted in some places with time
+- other lumps can be generated in others, either by the interior of the earth was subdued.
 
 
 

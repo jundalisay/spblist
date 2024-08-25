@@ -44,7 +44,7 @@ All things are filled with bodies.
 Yet the motion of each body tends in a straight line.
 
 God from the start:
-- moved its various particles in different
+- moved its various particles in different ways
 - arranged them so that some particles would impel others and transfer their motions to them.
 
 He conserves motion not by keeping motions of the particles of matter always fixed, but by letting those motions pass from one to another as they encounter each other.

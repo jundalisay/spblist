@@ -36,15 +36,23 @@ But a magnet is burdened by its heavy stony material.
 
 #### 172. Why does an armed magnet (a magnet equipped with iron) support much more weight than a bare magnet?
 
-But many wonder why a magnet equipped with iron, or an iron plate attached to a magnet, can support more weight than the magnet alone.
+<!-- But many wonder why a magnet equipped with iron, or an iron plate attached to a magnet, can support more weight than the magnet alone. -->
 
-This is because even if it can support more weight with the added iron, it does not necessarily attract it more if it is even slightly removed from it. Nor does it support more weight if a thin object is interposed between them. 
+<!-- This is because even if it can support more weight with the added iron, it does not necessarily attract it more if it is even slightly removed from it.  -->
 
-The increased force arises solely from the difference in contact. The iron plate's grooves fit perfectly with the grooves of the attached iron, and therefore, the striated particles passing through these grooves from one iron to another expel any intervening air. 
+The armed magnet does not support more weight if a thin object is interposed between it and the iron.
 
-As a result, the surfaces in direct contact with each other are difficult to separate. It has been shown that no adhesive can bind two objects better than direct contact. However, the grooves of the magnet do not align as well with the grooves of the iron due to the stony material present in the magnet. 
+**The increased force arises solely from the difference in contact.** 
 
-Hence, there must always be a slight gap between the magnet and the iron to allow the striated particles to pass from one set of grooves to the other.
+The iron plate's grooves fit perfectly with the grooves of the attached iron. Therefore, the virtual photons passing through these grooves from one iron to another expel any intervening air. 
+
+As a result, the surfaces in direct contact with each other are difficult to separate. 
+
+**Direct contact is the best adhesive to bind two objects.**
+
+However, the grooves of the magnet do not align as well with the grooves of the iron due to the stony material present in the magnet. 
+
+Hence, there must always be a slight gap between the magnet and the iron to allow the virtual photons to pass from one set of grooves to the other.
 
 
 #### 173. Why do its (the magnet's) poles, no matter how opposite they are, attract each other when supporting iron?
@@ -72,13 +80,14 @@ Conversely, when they exit from B, they pass through the armature EF, the suspen
 
 #### 174. Why is the rotation of an iron wheel, suspended by the force of a magnet to which it is attached, not hindered?
 
-However, the motion of the striated particles through the magnet and iron does not appear to align with the circular motion of the twisted iron wheels. 
+The motion of the virtual photons through the magnet and iron does not align with the circular motion of the twisted iron wheels. 
+- These wheels continue to rotate like a whirlwind while suspended from the magnet for a longer time than when they are detached and rest on the ground.
 
-These wheels continue to rotate like a whirlwind while suspended from the magnet for a longer time than when they are detached and rest on the ground. 
+If the virtual photons were only moving in a straight line and had to encounter each individual passage of the iron, directly opposing the passages of the magnet from which they emerge, they should hinder the rotation of these wheels. 
 
-If the striated particles were only moving in a straight line and had to encounter each individual passage of the iron, directly opposing the passages of the magnet from which they emerge, I would expect them to hinder the rotation of these wheels. 
-
-However, because the wheels themselves always rotate, some in one direction and others in the opposite direction, and the particles must cross obliquely from the magnet's passages into the iron's channels, regardless of the wheel's rotation, they easily enter its channels as if it were stationary. 
+However, the wheels themselves always rotate, some in one direction and others in the opposite direction.
+- The particles must cross obliquely from the magnet's passages into the iron's channels, regardless of the wheel's rotation.
+- This is why they easily enter its channels as if it were stationary. 
 
 The motion of the wheel is less hindered by contact with the magnet, as it rotates while suspended, than it is by contact with the Earth when pressed by its own weight.
 
@@ -91,7 +100,7 @@ The general rule is: **whenever the magnets are positioned in a way that one mag
 
 Conversely, if one magnet pulls these particles away from the other, they hinder each other. 
 
-The more rapidly and abundantly these particles flow through each magnet, the greater the magnet's strength. 
+**The more rapidly and abundantly these particles flow through each magnet, the greater the magnet's strength.** 
 
 When the particles are in a highly agitated state, more of them can be transferred from one magnet or iron to another compared to when the air or any other substance is present in the absence of a magnet.
 
@@ -108,22 +117,28 @@ It can be so heavy that it could not be supported by magnet `F` alone if the oth
 
 #### 176. Why can't a magnet, no matter how strong it is, attract iron that is not in direct contact with a weaker magnet?
 
-However, in the meantime, a certain force of magnet F is hindered by magnet C, specifically the force it has to attract iron DE towards itself. 
+In the meantime, a certain force of magnet `F` is hindered by magnet `C`, specifically the force it has to attract iron `DE` towards itself. 
 
-It should be noted that as long as this iron is in contact with magnet C, it cannot be attracted by magnet F, even if we assume that magnet F is significantly stronger. 
+As long as this iron is in contact with magnet `C`, it cannot be attracted by magnet `F`. This is even if we assume that magnet `F` is significantly stronger.
 
-This is because the striated particles passing through these two magnets and this iron, as explained earlier, have nearly equal force throughout the space between C and F, and therefore they cannot pull the iron DE towards F, not only due to the magnetic force but also because the iron is bound to magnet C through their contact.
+This is because the virtual photons passing through these 2 magnets and this iron, as explained earlier, have nearly equal force throughout the space between `C` and `F`.
+
+Therefore, they cannot pull the iron `DE` towards `F`, not only due to the magnetic force but also because the iron is bound to magnet `C` through their contact.
 
 
 #### 177. Why can a weaker magnet or iron in contact with a stronger magnet attract itself?
 
-This is why a weaker magnet or a small piece of iron often attracts another piece of iron from a stronger magnet. 
+<!-- This is why a weaker magnet or a small piece of iron often attracts another piece of iron from a stronger magnet.  -->
 
-This only occurs when the weaker magnet is in contact with the iron it attracts from the stronger magnet. When two magnets, with different poles, touch an elongated piece of iron, one magnet at one end and the other at the opposite end, and then these two magnets are separated from each other, the intermediate iron piece adheres to neither the weaker nor the stronger magnet consistently. 
+This only occurs when the weaker magnet is in contact with the iron it attracts from the stronger magnet. 
 
-It can sometimes cling to one and sometimes to the other. 
+When 2 magnets, with different poles, touch an elongated piece of iron, one magnet at one end and the other at the opposite end.
 
-I believe there is no specific reason why it adheres to one magnet more than the other, except perhaps that it touches the one with a larger surface area.
+Then these two magnets are separated from each other.
+- The intermediate iron piece adheres to neither the weaker nor the stronger magnet consistently. 
+- It can sometimes cling to one and sometimes to the other. 
+
+There is no specific reason why it adheres to one magnet more than the other, except perhaps that it touches the one with a larger surface area.
 
 
 #### 178. Why, in these Northern regions, is the South pole of a magnet stronger than the North pole?

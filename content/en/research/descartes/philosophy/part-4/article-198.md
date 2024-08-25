@@ -30,7 +30,10 @@ When we stop our ear with our finger we hear a humming sound from the agitation 
 
 <!-- , the cause of which can only proceed from the   -->
 
-Heat [hardness, weight], and the other sensible qualities in objects, and also the forms of those bodies that are purely material, as, for example, the forms of fire, are produced in them by the motion of certain other bodies. 
+The following are produced in bodies by the motion of certain other bodies:
+- heat [hardness, weight]
+- the other sensible qualities in objects
+- the forms of those bodies that are purely material such as the forms of fire
 
 These in their turn likewise produce other motions in other bodies. 
 
