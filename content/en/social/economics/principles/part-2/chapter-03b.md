@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 2b"
+heading: "Chapter 3c"
 title: "The Time Value of Money as an Effect of the Force of Capital"
 date: 2023-11-03
-weight: 14
-image: /covers/econsp.jpg
+weight: 18
+image: /photos/objects/clock.jpg
 description: "In Supereconomics, capital is anything that creates value"
 writer:
   name: Juan

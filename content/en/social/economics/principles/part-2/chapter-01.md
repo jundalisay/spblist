@@ -1,11 +1,10 @@
 ---
 heading: "Chapter 1"
-linkTitle: Chapter 1
-title: "The Third Law of Value"
+title: "The Second Law of Value"
 # date: 2022-01-03
 # date: 2022-01-31
-image: "/graphics/econ/law3.jpg"
-description: "The Third Law states that real value emerges from nominal value and is maximized by following one's true interests or dharma."
+image: "/graphics/econ/law2.png"
+description: "The Second Law states that real value emerges from nominal value and is maximized by following one's true interests or dharma."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -15,9 +14,9 @@ toc: false
 
 <!-- ### The Third Law of Value: The Invisible Hand of Dharma as Real Prices -->
 
-[The First Law of Value](/social/economics/principles/part-1/chapter-01) introduced Exchangeable Value which is seen as Nominal Price to the Buyer. The Third Law of Value introduces **Real Price** which is the Exchangeable Value to the Seller.
+[The First Law of Value](/social/economics/principles/part-1/chapter-01) introduced Exchangeable Value which is seen as Nominal Price to the Buyer. The Second Law of Value introduces **Real Price** which is the Exchangeable Value to the Seller.
 
-We put this law as the Third Law because it is the domain of the Thinker Class (intellectuals) which is the Third Class in the Socratic Social Cycles Theory. 
+<!-- We put this law as the Second Law because it is the domain of the Thinker Class (intellectuals) which is the Third Class in the Socratic Social Cycles Theory.  -->
 
 
 ## What is Real Value?
@@ -25,25 +24,30 @@ We put this law as the Third Law because it is the domain of the Thinker Class (
 - Real value is the value of the effort, trouble, hardship, and sentimentalism that is put into the Item by its owner or seller. This leads to [the Effort theory of value](/social/economics/principles/part-2/chapter-01b/) that we derived from Adam Smith, which is opposite of the Labor theory of value of Karl Marx
 - Nominal value is the value of the Item to its buyer/s who may or may not have idea of its real value to its owner
 
-The Third Law of Value states that **value goes from areas with high value to areas with low value in order to spread out the value and remove the lack in society**. This mirrors the Third Law of Thermodynamics that states that energy goes from hot to cold to equalize the heat, or that organized systems become unstable as time passes. 
+The Second Law of Value states that **value goes from areas with high value to areas with low value in order to spread out the value and remove the lack in society**. 
+
+We simplify this to: **value is created to remove the lack in society.** 
+
+This mirrors the Third Law of Thermodynamics that states that energy goes from hot to cold to equalize the heat, or that organized systems become unstable as time passes. 
 
 It also leads to the concept of economic development just as the thermodynamics law leads to the concept of time*.
 
-![Third Law](/graphics/econ/law3.jpg)
+![Second Law](/graphics/econ/law2.png)
 
-> *It explains why people always make an effort to better themselves just as time always moves forward. The causal mechanism is the cycling of the Positive and Negative forces
+
+{{< n n="*It explains why people always make an effort to better themselves just as time always moves forward. The causal mechanism is the cycling of the Positive and Negative forces" >}}
+
 
 
 The instability is a sign of Nature’s inherent dynamism*. In Supereconomics, this manifests as the concept of Absolute Demand mentioned in the Part 1 and does not exist in Economics. 
 
 This demand manifests as the arbitrary motives such as profit, duty, conservation, benevolence, the force of capital, goal-in-life, etc. as part of the personal interest. This is different from Economics which enshrines only the profit motive as the selfish interest.
 
-> *In Medical Superphysics, this dynamism or entropy manifests as the mind jumping to conclusions unless it is restrained by conscience. In Supersociology, this manifests as popular opinion turning into mob rule unless it is restrained by the common interest.
+{{< n n="*In Medical Superphysics, this dynamism or entropy manifests as the mind jumping to conclusions unless it is restrained by conscience. In Supersociology, this manifests as popular opinion turning into mob rule unless it is restrained by the common interest." >}}
 
 
-<!-- We put the Third Law way ahead of the Second Law to represent the current reality where liberalism enshrines the self instead of society.  -->
 
-Without a society, only the First and Third Laws are needed. For example, if you are a hungry caveman, then you pick up fruits and berries to address your hunger.
+Without a society, only the First and Second Laws are needed. For example, if you are a hungry caveman, then you pick up fruits and berries to address your hunger.
 - The hunger is your effective demand
 - The labor of getting fruits is your real effort
 - The fruit is your goods for consumption
@@ -103,7 +107,7 @@ Cake Market Price  | Day 1 Buyers | Day 2 Buyers | Day 3 Buyers | Chef Revenue a
 $4 | C | D, E | demand satisfied | $4 | $12 (3 cakes) | all ok | 3 days
 
 
-{{< img src="/graphics/law2.png" alt="Third Law Definition" cap="The Third Law of value creates a downward sloping supply curve in Supereconomics. In Economics, it is limited to the profit-motive which causes its supply curve to slope upwards. While the concept of nominal value exists in Economics, real value does not. For example, Real GDP is still measured in money and not in commodities" >}}
+{{< img src="/graphics/econ/law2nd.jpg" alt="Second Law Definition" cap="The Second Law of value creates a downward sloping supply curve in Supereconomics. In Economics, it is limited to the profit-motive which causes its supply curve to slope upwards. While the concept of nominal value exists in Economics, real value does not. For example, Real GDP is still measured in money and not in commodities" >}}
 
 
 

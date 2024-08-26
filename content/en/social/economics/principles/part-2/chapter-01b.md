@@ -16,11 +16,15 @@ toc: false
 
 While building Adam Smith's resource allocation system, I've often been asked:"What measure of value does it use?"
 
-Unlike the current economic system which uses money (because it was directly descended from the Mercantile system and merchants only care about money), Smith's system uses real value as a measure of value. He suggests grains as a long term measure of value (since everyone needs to eat), and precious metals as a measure of short term value (since metals are useful to all). 
+Unlike the current economic system which uses money (because it was directly descended from the Mercantile system and merchants only care about money), Smith's system uses real value as a measure of value. 
+
+He suggests:
+- grains as a long term measure of value (since everyone needs to eat)
+- precious metals as a measure of short term value (since metals are useful to all)
 
 However, what does the wheat and precious metal actually represent? 
 
-Smith says that it represents 'labour'. But labour is ambiguous. 
+Smith says that it represents 'labour'. But labour is ambiguous.
 
 Marx uses the same measure in Das Kapital and ends up with the strange concepts like 'labour power' and 'labour time', which are measures of **physical** labour. These then lead to the oppressive rationing system in Communist countries.
 
@@ -50,7 +54,7 @@ At all times and places that is dear which it is difficult to come at, or which 
 
 
 
-## Enter Relativity and the Constant of Personal Interest
+## Enter Cartesian Relativity and the Constant of Personal Interest
 
 Thus, the 'cost' or 'price' of guitar learning will be consistently 'expensive' to Guitar Hater but consistently 'cheap' to Guitar Lover. 
 
@@ -64,7 +68,8 @@ So the core idea in Smith's theory is psychological toil and trouble instead of 
 To establish this core idea, we replace 'Labour theory of value' with 'Effort Theory of Value' since the word 'effort' best combines both psychological and emotional toil and trouble with physical work. 'Work Theory of Value' was also a good candidate. However, 'work' tends to mean more of the effect rather than the cause.
 
 
-{{< box >}}
+
+{{< dc t="A new way of thinking" >}}
 This way of thinking about another person's love for guitar-playing (cause) instead of thinking about his actual guitar music (effect) is not common. 
 
 When you buy bread at the grocery, you often check the label and think about its price and nutrients. You never think about the baker who baked that bread and who was the cause of the existence of the bread. His name, skills, looks, personality, doesn't enter your mind. Likewise, we see objects everday and never think about the persons or Creator that made their existence possible.
@@ -72,7 +77,8 @@ When you buy bread at the grocery, you often check the label and think about its
 Eastern philosophy solves this by using a mantra constantly which forces the mind to always think of the causal principles behind every perception. Thanks to this technique, the mind is trained to look at the principles behind every perception, whether it be in economics, politics, healthcare, astrophysics, etc. 
 
 Shallow minds will think that money is the cause of economic activity because that is what their perceptions readily presents to them. From this, they will create utility theories, and then equilibrium and profit maximization theories, not knowing that such ideas naturally create crises after some time because they are based on effect instead of cause.
-{{< /box >}}
+{{< /dc >}}
+
 
 {{< img alt="JFK quote" src="/graphics/jfk.jpg" cap="Effort is not enough" >}}
 
@@ -86,12 +92,14 @@ Thus to succeed, a person must be interested in what he is applying his effort t
 
 This is where his 'personal-interest'* comes in. Whatever one is interested in is a natural part of the invisible hand of his dharma or tao. 
 
-> *The Invisible Hand of Dharma or the Tao separates self-interest from selfish-interest. In order to make the separation permanent, we shall call self-interest as "personal interest" in order to remove the vice of selfishness from it.
+{{< n n="*The Invisible Hand of Dharma or the Tao separates self-interest from selfish-interest. In order to make the separation permanent, we shall call self-interest as 'personal interest' in order to remove the vice of selfishness from it." >}}
+
 
 
 A person interested in guitars will naturally create higher quality* guitar music than someone who is not interested in guitars.
 
-> *We can call this a 'superabundance' in guitar music
+{{< n n="*We can call this a 'superabundance' in guitar music" >}}
+
 
 
 Society would therefore have more value, quality, and abundance if its carpenters focused on making furniture, and its software developer focused on software instead of the other way around. <!-- bakers baked and its brewers brewed, instead of its bakers brewing and its brewers baking. -->
@@ -104,13 +112,11 @@ The Way (or Tao) of Heaven can be compared to the bending a bow. The part of the
 {{< /q >}}
 
 
-> *This balancing of abundance and lack manifests as entropy of thermodynamics in the physical dimension
+{{< n n="*This balancing of abundance and lack manifests as entropy of thermodynamics in the physical dimension" >}}
 
 
 
-{{< box >}}
-## How It Works
-
+{{< dc t="How it Works" >}}
 The Effort Theory of Value can be derived by asking: What is stressful to others that is not stressful to you?
 
 By focusing on that task, then you are able to produce something that relieves the stress of others at less stress for yourself. 
@@ -120,7 +126,7 @@ Those others might then want to give you something for it. They will give you so
 For example, a farmer might find it difficult to make a website to advertise his potato harvest for sale. So he asks a web developer or programmer to make his website or social media page to let people know of his harvest. 
 
 The programmer finds it difficult to grow potatoes so he gets the potatoes of the farmer as part of the payment. 
-{{< /box >}}
+{{< /dc >}}
 
 
 

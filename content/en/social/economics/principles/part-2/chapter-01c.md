@@ -102,9 +102,7 @@ History is full of examples of narrow-minded economic policies going back to hur
 Those policies were created to increase wealth rapidly, but ended up destroying it. The more people study Smith and his ideas, the better will be humanity's chances in avoiding bad economic karma from selfish motives.
 
 
-{{< box >}}
-### Luck vs Karma
-
+{{< dc t="Luck vs Karma" >}}
 According to Eastern Philosoophy, there is no such thing as good or bad luck. Instead, everything is based on karma or action and reaction.
 
 If you plant good deeds, then you get good rewards and a good feeling from such rewards. If you plant bad or selfish deeds, then you get bad consequences and a bad feeling from such consequences.
@@ -124,4 +122,4 @@ However, according to Superphysics, this is not 100% technically correct. Instea
 2. **Learn the techniques to burn karma faster, whether good or bad. **
 
 This is akin to making your karmic bank account more liquid. In this way, bad karma doesn't occur in one go, which might overwhelm your mind. Likewise, good karma doesn't all fall on you in one package, as this might bloat your ego.  Instead, karma is taken in manageable pieces, just like a loan that gets easy payment terms.
-{{< /box >}}
+{{< /dc >}}

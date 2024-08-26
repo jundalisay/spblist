@@ -5,18 +5,17 @@ title: "Minimum Requirements"
 weight: 13
 date: 2024-08-27
 image: /photos/objects/cake.jpg
-description: "The HS Code is administered by the World Customs Organization (WCO) and is updated every 5 years"
+description: Minimum Requirements ensures human dignity and is a better base of a science of resource allocation than marginal utility.  
+# description: "The HS Code is administered by the World Customs Organization (WCO) and is updated every 5 years"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
+### Classifying Human Needs
 
-Classifying Human Needs
-
-
-Everyone has the right to:
+<!-- Everyone has the right to:
 - a standard of living adequate for the health and well-being of himself and his family, including:
   - food
   - clothing
@@ -30,36 +29,14 @@ Motherhood and childhood are entitled to special care and assistance.
 All children, whether born in or out of wedlock, shall enjoy the same social protection.
 
 
-
-
 ## Military
-
-
 ## Law Enforcement
-
-
 ## Public Utilities
-
-
 ## Justice System
-
-## Agriculture Policy 
-
-
+## Agriculture Policy
 ## Healthcare 
-
-
-
 ## Housing
-
-
-
-## Education 
-
-
-
-
-
+## Education  -->
 
 
 Human needs can be simplified into the following: 

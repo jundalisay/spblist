@@ -2,7 +2,7 @@
 heading: "Chapter 3"
 linkTitle: Chapter 3
 title: "The Force of Capital"
-weight: 18
+weight: 16
 date: 2023-11-03
 image: /photos/objects/gold.jpg
 description: "The Force of Capital pushes us to use our capital or value-producing assets."

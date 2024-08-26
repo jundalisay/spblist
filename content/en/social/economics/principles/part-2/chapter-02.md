@@ -3,7 +3,7 @@ heading: "Chapter 2"
 title: "What is Capital and Fixed Capital?"
 date: 2023-11-03
 weight: 14
-image: /covers/econsp.jpg
+image: /photos/objects/money.jpg
 description: "In Supereconomics, capital is anything that creates value"
 writer:
   name: Juan

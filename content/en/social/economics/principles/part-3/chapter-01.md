@@ -1,11 +1,11 @@
 ---
 heading: "Chapter 1"
-title: "The Fourth Law of Value"
+title: "The Third Law of Value"
 date: 2021-12-31
 # date: 2022-01-03
 dateorig: Originally written in 2016
-image: /graphics/econ/law4.jpg
-description: "The Fourth Law of Value states that value is circulated through the economy through fair exchanges."
+image: /graphics/econ/law3.jpg
+description: "The Third Law of Value states that value is circulated through the economy through fair exchanges."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -22,11 +22,11 @@ coordinates work, investments, resources (supply/demand)    -->
 
 In order to address all the demand in society, supply has to be exchanged through a medium. 
 
-This creates the Fourth Law of Value which states that value is transferred through fair exchange whether it be through money, barter, points, promises, etc. 
+This creates the Third Law of Value which states that value is transferred through fair exchange whether it be through money, barter, points, promises, etc. 
 
 This mirrors the First Law of Thermodynamics, known as the law of conservation of energy*. That law states that energy cannot be destroyed. Instead, it merely changes forms.
 
-![Fourth Law](/graphics/econ/law4.jpg)
+![Third Law](/graphics/econ/law3.jpg)
 
 {{< f f="*In Bio Superphysics, this manifests as the transference of properties to the body of whatever is affecting health. In Supersociology, this is the feelings of members of society affecting other members." >}}
  
@@ -56,20 +56,20 @@ Economics was created from Mercantilism which is based on money. Superphysics is
 
 As such, it allows alternatives to money such as direct barter or indirect barter via points which are based on grains. Direct Barter is anything for anything now. Indirect Barter is anything for anything eventually.
 
-Thus, the Fourth law leads to **finance and monetary systems** in Economics, and [points-based valuation](/social/economics/alternatives-to-money) and [points-banking](https://www.pantrypoints.com/trisactions/banking/) to Superphysics. 
+Thus, the Third law leads to **finance and monetary systems** in Economics, and [points-based valuation](/social/economics/alternatives-to-money) and [points-banking](https://www.pantrypoints.com/trisactions/banking/) to Superphysics. 
 
 The Third Law generates value through *primary arbitrage* or the difference of your skill and passion level versus the skill and passion of others. For example, if guitar-playing costs 1 unit of effort to you and 2 units of effort to another  person, then you can produce twice his value for the same effort. 
 
-The Fourth Law spreads that value through *secondary arbtirage* or the difference between the market price and the natural price, which will be explained next. 
+The Third Law spreads that value through *secondary arbtirage* or the difference between the market price and the natural price, which will be explained next. 
 
 For example, if only a few people in your society wanted guitar songs, and most wanted piano songs instead, then you would rather sell your guitar songs to another society that valued it. You would not try to shift to making piano songs, which is not your core competency. 
 
 We can say in a sense that primary arbitrage is wholesale while secondary arbitrage is retail. 
 
 
-## The Resulting Concepts from the Fourth Law
+## The Resulting Concepts from the Third Law
 
-The resulting concepts from the Fourth Law of Value are:
+The resulting concepts from the Third Law of Value are:
 
 - Markets and transaction systems
 - Secondary Arbitrage

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1c
 title: "Free Competition"
-description: "Free Competition is an essential part of our third and fourth law of value. Competition is the third law. Freedom is the fourth law"
+description: "Free Competition is an essential part of our third and third law of value. Competition is the third law. Freedom is the third law"
 image: /photos/psych/freedom.jpg
 writer:
   name: Juan
@@ -11,9 +11,9 @@ icon: /icons/pantry.png
 ---
 
 
-Free competition is a necessary idea under the Fourth Law or the law of fair exchange, and is always checked by the Second Law or the law of balance. 
+Free competition is a necessary idea under the Third Law or the law of fair exchange, and is always checked by the Fourth Law or the law of balance. 
 
-![Fourth Law](/graphics/econ/law4.jpg)
+![Third Law](/graphics/econ/law3.jpg)
 
 Value is spread throughout society via exchange after passionate creators make their products and services. Their mutual exchange naturally creates a sort of competition on who can satisfy the demand of society better, faster, and cheaper. 
 

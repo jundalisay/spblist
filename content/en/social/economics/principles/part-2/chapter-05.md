@@ -52,7 +52,7 @@ This shows the following:
 
 - A man-made environmental limit* checks overconsumption just as a man-made price ceiling discourages underconsumption. Such a limit might raise prices by preventing economies of scale. But such prices can be later reduced by technological advancement. From this view, <b>we can say that an environmental limit is a win-win: it preserves nature, while advancing technology</b>.
 
-> *Update Sept 2021: The man-made environmental limit is one of the key features of Supereconomic systems that sets it apart from economic systems. The latter does not put a check on profits, consumption and the subsequent exploitation. This makes the people lazy in finding solutions to scarcity. They keep on pushing for growth and will only look for solutions when the karma of their activities are in their face as global warming disasters such as supertyphoons, droughts, floods, and zoonotic viruses like Covid. In contrast, Superphysics pre-empts those problems by constraining profits and exploitation artificially beforehand. This forces minds to think of solutions and technologies to improve life despite those limits. 
+{{< f f="*Update Sept 2021: The man-made environmental limit is one of the key features of Supereconomic systems that sets it apart from economic systems. The latter does not put a check on profits, consumption and the subsequent exploitation. This makes the people lazy in finding solutions to scarcity. They keep on pushing for growth and will only look for solutions when the karma of their activities are in their face as global warming disasters such as supertyphoons, droughts, floods, and zoonotic viruses like Covid. In contrast, Superphysics pre-empts those problems by constraining profits and exploitation artificially beforehand. This forces minds to think of solutions and technologies to improve life despite those limits." >}}
 
 
 From this new curve, we can get more realistic information:
@@ -132,7 +132,8 @@ Deadweight loss and material gain will still manifest in such a curve. This is b
 
 In this example, assume that all humans agreed to be put under a single Earth government. Prosperity was optimized and secured at 5 output at 3 effort, or a total of 15 effort*. 
 
-> *In our effort-theory of value, there would be no more need to objectify effort into currency nor precious metals.
+
+{{< f f="*In our effort-theory of value, there would be no more need to objectify effort into currency nor precious metals." >}}
 
 
 If the government decided to mobilize human labour to colonize Proxima Centauri B by a tax that would force humans to add 2 more output at 1 effort, then it would create a new gross effort at 28, with a new imposition of 13 effort.

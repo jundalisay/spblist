@@ -10,7 +10,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
-toc: false
+draft: true
 ---
 
 
