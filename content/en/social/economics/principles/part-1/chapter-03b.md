@@ -1,5 +1,5 @@
 ---
-title: "Basic Points Revenue"
+title: "Basic Points Revenue as an Alternative to Microfinance"
 heading: "Chapter 3b"
 weight: 18
 date: 2020-08-20
@@ -79,9 +79,12 @@ Pros | It mobilizes productivity liberally by feeding it cash | It prevents this
 Cons | It has no control to prevent this moblization from being unproductive | Its conditions require administration which requires a big expense | Few people are eligible
 
 
+
 ## Pointization Solution
 
-Supereconomics introduces the concept of pointization or the conversion of economic value into points which are pegged to grains. These points are created whenever there is an agreement by two parties.
+Supereconomics introduces the concept of pointization or the conversion of economic value into points which are pegged to grains. This is part of a commodity-based resource mechanism mentioned in Chapter 2c.
+
+These points are created whenever there is an agreement by two parties.
 
 For example, John can give his harvest of 1 kilogram of potatoes to Martha in exchange for 2 points (assuming that 1 kilogram of potatoes is worth 2 kilograms of wheat).
 - John will then have a right to claim those 2 points as whatever Martha is producing. 
@@ -100,7 +103,6 @@ This service provides the following advantages:
 - Like UBI, it mobilizes productivity by letting people feed each other with points<!--  it made exchanges easier since everyone could trade using a single currency.   --> 
 - Like CCT, it imposes conditions between people based on their agreements
 - Like Microfinance, the points can be claimed regularly to see which point-producers are actually productive and reliable 
-
 
 
 When viewed on a macro level, the points-deposits represent an estimate of future productivity. 
@@ -126,14 +128,13 @@ The points are very useful during crises. During personal crises, the points man
 
 This is similar to how the Inca established a nonmonetary economy using strings called *quipu* that represented an amount of food in the granary.
 
-{{< img src="https://sorasystem.sirv.com/photos/quipu.jpg" cap="Adam Smith cited the Inca and Mongol civilizations as proof that large economies do not need currency to survive. The Inca used strings to represent food assets stored in community-granaries which were then traded for military service. Instead of strings, we use points. Instead of granaries, we use community hubs" alt="Quipu strings" >}}
+{{< img src="/photos/econ/quipu.jpg" cap="Adam Smith cited the Inca and Mongol civilizations as proof that large economies do not need currency to survive. The Inca used strings to represent food assets stored in community-granaries which were then traded for military service. Instead of strings, we use points. Instead of granaries, we use community hubs" alt="Quipu strings" >}}
 
 A donor can jumpstart the economy by giving food to the poor in exchange for points which the donor can claim through the labor or produce of the poor. For example, if the donor is the government, then:
 - it can provide food for the relief of the poor
 - The poor will then give back the points by being street sweepers or agricultural workers for the government when at their leisure.  
 
 {{< youtube Yh5uY0gJWus >}}
-
 
 In this way, BPR can create full employment witout being a debt-trap like microfinance, nor encourage idleness as what happens with UBI. It can also be administered fully online, making it cheaper to run.
 

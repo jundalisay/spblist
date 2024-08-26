@@ -4,19 +4,51 @@ linkTitle: Chapter 4
 title: "Absolute Demand and Effective Demand"
 # date: 2022-08-18
 weight: 20
-image: /covers/econsp.jpg
-description: ""
+image: /graphics/econ/absolute.png
+description: "Effective Demand is the actual demand of the people who are willing to pay for products or services"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-draft: true
 ---
 
 
-## Aggregate Demand of Economics
+Chapter 1 mentioned the concepts of Absolute and Effective Demand.
+
+- Effective Demand is the actual demand of the people who are willing to pay for products or services.  
+- Absolute Demand is a wishful demand that might not be satisfied any time soon.
+
+{{< img src="/graphics/econ/absolute.png" alt="Absolute Demand" cap="Absolute and Effective Demand" >}}
+
+
+{{< q a="Smith" c="Wealth of Nations Book 1 Chapter 7" >}}
+Market prices are regulated by the proportion between the quantity to be sold and the demand of buyers willing to pay the natural price.
+
+Such buyers are called effectual demanders. Their demand is called the effectual demand because it effectuates the bringing of the commodity to market. 
+
+Absolute demand, on the other hand, is demand that can never bring commodities to the market. For example, a very poor man may demand a luxury coach, but his demand cannot justify the manufacture of one. 
+{{< /q >}}
+
+
+
+Absolute demand is the main source of dynamism in the economy as a function of the invisible hand. 
+
+{{< q a="Smith" c="Theory of Moral Sentiments, Part 4 Chapter 1" >}}
+In this complex view, the pleasures of wealth and greatness strike the imagination as something grand, beautiful, and noble. Their attainment seems worth all the toil and anxiety for them. It is good that nature imposes on us in this manner.
+
+It is this deception which rouses mankind's industry and keeps it in continual motion. By these labours, the earth has been obliged to double her natural fertility and maintain more people.
+{{< /q >}}
+
+
+Our physical desires make us industrious and creative. 
+
+
+
+<!-- ## Aggregate Demand of Economics
 
 Total demand of goods in a society
 
+Effective Demand is based on population size -->
 
 
-Effective Demand is based on population size
+
+

@@ -275,7 +275,7 @@ However, I have never heard of any instance in which this principle exerted itse
 
 <!-- and order which is excited by inanimated as well as by animated objects -->
 
-> *To Social Superphysics, this moral sense is the invisible hand. In Buddhism, it is prajna-paramita which lets conscious entities perceive the dharma.
+{{< n n="*To Social Superphysics, this moral sense is the invisible hand. In Buddhism, it is prajna-paramita which lets conscious entities perceive the dharma." >}}
 
 
 <!-- 33 There is another system which bases the origin of our moral feelings on sympathy, different from mine.
@@ -292,3 +292,4 @@ But no machine can be the object of those sympathies with the agent's motives an
 
 I have already mentioned this system in Part 4.
  -->
+ 

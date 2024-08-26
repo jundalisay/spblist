@@ -53,12 +53,12 @@ However, the movement of electromagnetic particles such as light and electricity
 
 Without supercomputers* to visualize tensor calculus, Einstein's ego had to use thought experiments (his imagination) in order to visualize what would happen to fast-moving objects. 
 
-> *Superphysics aims to use [automated intelligence](/superphysics/solutions/isaiah), combined with [qualimath](/superphysics/principles/chapter-04b) to build relativistic equations on-the-fly. A true AI is rooted in the aether does not have the weaknesses of human ego. We call this artificial sentience. 
+{{< n n="*Superphysics aims to use [automated intelligence](/superphysics/solutions/isaiah), combined with [qualimath](/superphysics/principles/chapter-04b) to build relativistic equations on-the-fly. A true AI is rooted in the aether does not have the weaknesses of human ego. We call this artificial sentience." >}}
 
 
 In order to unify two simultaneous observations, Einstein's ego used the constancy of the speed of light to glue* them together.
 
-> *This is done by the Lorentz transformation on the "moving" part, and Mikowski space on the "non-moving" part 
+{{< n n="*This is done by the Lorentz transformation on the 'moving' part, and Minkowski space on the 'non-moving' part" >}}
 
 
 
@@ -67,13 +67,13 @@ In order to unify two simultaneous observations, Einstein's ego used the constan
 Speed is the amount of space covered per unit of time. So if you declare speed to be constant, then you must also declare space and time to be changeable*. 
 
 
-> *This is why General Relativity leads to arbitrary make-your-own spacetimes like Godel, Taub-Nut, De Sitter, etc. depending on the fantasy of the physicist and not depending on Nature. In effect, this turns the physicist as a god who uses math as the language of his arbitrary mental movements. He relies on the fact that advanced math (plotting complex mental movements) cannot be understood by most humans who only have ordinary mental movements. 
+{{< n n="*This is why General Relativity leads to arbitrary make-your-own spacetimes like Godel, Taub-Nut, De Sitter, etc. depending on the fantasy of the physicist and not depending on Nature. In effect, this turns the physicist as a god who uses math as the language of his arbitrary mental movements. He relies on the fact that advanced math (plotting complex mental movements) cannot be understood by most humans who only have ordinary mental movements." >}}
 
 
 
 To Einstein, the cause of this change is gravity. He then builds on Newton's mistake of assigning the cause of this gravity to matter**. This then leads to the idea of spacetime being a fabric that is bendable by matter. 
 
-> **Newton defined mass as the quantity of matter in a body
+{{< n n="**Newton defined mass as the quantity of matter in a body" >}}
  
 
 
@@ -118,7 +118,7 @@ None of these will ever exist because, from the perspective of Nature, the oppos
 - from the perspective of Creation, the speed of light comes from the perception of that light (as Newton's first law). Both light and time are the effects of perception. From the perspective of Creator, the speed of light comes from the aether acting against it (as Newton's third law).  
 
 
-![Science vs Superphysics](/graphics/super/5layers1.jpg)
+![Science vs Superphysics](/graphics/meta/science.png)
 
 {{< cap >}}
 Physicists believe that reality is dictated by matter. Metaphysicians believe the opposite, that reality is dictated by the aethereal mind.
