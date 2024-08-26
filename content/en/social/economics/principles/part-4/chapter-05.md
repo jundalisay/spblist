@@ -1,19 +1,14 @@
 ---
 heading: "Chapter 5"
-title: "Government Institutions"
-weight: 26
-date: 2022-01-07
+title: "Banking and Barter"
+# date: 2021-12-26
+weight: 28
+draft: true
 image: /covers/econsp.jpg
-description: "This section explains the Governance features"
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-draft: true
 ---
 
 
-## The Resources Department 
-
-Audit 
-
-Govern

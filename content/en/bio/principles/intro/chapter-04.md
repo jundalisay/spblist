@@ -16,12 +16,13 @@ aliases:
 ---
 
 
-
+{{< dc t="Principles" >}}
 Principles | Assertions
 --- | ---
 The nature of the Negative is to divide | A soul can have many selves but a self can only have one soul
 The Soul or Mind is the Positive Force Surrounded by the Negative | If a perception is 1 second, then there are 3 billion selves in a 100 year lifetime 
 The Soul is split into different Selves by the Spacetime Layer |  
+{{< /dc >}}
 
 
 
@@ -254,10 +255,9 @@ This is the idea behind [ISAIAH](https://pantrypoints.com/match) or the Impartia
 <!-- - It changes the direction of a spaceship traversing empty space  -->
 - ..and so on
 
-
-{{< b >}}
-Update October 2022: This is part of our proposed Behavioral Prediction System (BPS) which will be one of the 'skills' of ISAIAH
-{{< /b >}}
-
-
 This is also the principle behind our proposed [Constitutional Virtues](/social/supersociology/solutions/constitutional-virtues) and annual [Confirmation Elections](/social/supersociology/solutions/confirmation-elections)
+
+
+
+{{< u d="October 2022" u="This is part of our proposed Behavioral Prediction System (BPS) which will be one of the 'skills' of ISAIAH" >}}
+

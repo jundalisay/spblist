@@ -96,7 +96,7 @@ Thus:
 
 The Celsius degrees in thermodynamics then manifest as currency prices in Supereconomics. This lets us fit all the principles of Supereconomics elegantly under the four headings of the 4 Laws of Value. 
 
-{{< i s="/graphics/econ/value.png" a="Laws of Value" >}}
+{{< i s="/graphics/econ/laws.jpg" a="Laws of Value" >}}
 
 
 This classification is different from the messy* organization of Economics as micro-macro-economics, behavioral, political economy, development economics, etc.

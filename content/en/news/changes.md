@@ -1,9 +1,11 @@
 ---
 title: "Breaking Changes"
-date: 2023-04-22
+date: 2024-08-26
+# orig date: 2023-04-22
 description: "Here are Breaking Changes in Superphysics for 2023"
 image: "/photos/idea.jpg"
 showdate: true
+type: "featured"
 ---
 
 
@@ -20,6 +22,7 @@ Jul 17 | Split up the FAQs as we get more and more questions
 Jul 22 | Rearranged Material Superphysics Chapters
 Aug 12 | Overhauled qosts into mosts after validating timespace, spacetime, and aetherspace
 Aug 20 | Abandoned the current version of the Kepler Tensor to better fit it with the aetherspace
+Aug 26 | Rearranged the 4 Laws of Supereconomics again after matching it with the 4 Laws of Thermodynamics AND the Law of Social Cycles
 
 
 

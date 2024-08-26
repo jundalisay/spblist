@@ -92,21 +92,33 @@ But it wouldn't be so easy to say that a bank robber's life-purpose is to rob ba
 
 Stealing might be a life goal of other animal species, but it would result in a them having a totally different hierarchy of needs.
 
-
-{{< img src="/graphics/econ/mat2.png" alt="Supereconomic network of needs" cap="Our Supereconomic network of needs starts with the metaphysical center that branches out into physical needs. The core of this metaphysical center is The Tao or svadharma of that discrete entity. You can think of this as Maslow's hierarchy pyramid viewed from the top" >}}
-
-{{< img src="/graphics/econ/mat3.png" alt="Supereconomic hierarchy of needs" cap="Our Supereconomic hierarchy of needs goes down or outwards onto the material areas and onto the Tao of other people or entities. In this way, supereconomic systems are harmonious, scalable, and non-conflicting" >}}
-
-In this way, the entity is not made subservient to the lower material layer.
-- This helps it keep its stability amidst the onslaught of material perceptions. 
-
 If Bitcoin price is rising fast, then under Economics, you should buy it or be left out. 
 - But in Supereconomics, only the crypto-trader should buy it because his life purpose is to trade crypto. 
 - In this way, a Bitcoin crash will only affect the universe of crypto-traders and not everyone.
 
 
-{{< youtube ovpsuyRanw8 >}}
 
+### The Supereconomic Hierarchy of Needs Based on Svadharma
+
+Our hierarchy of needs of the soul begins in the metaphysical svadharma which goes downwards to:
+- the metaphysical needs of the soul 
+- the material needs of the physical body
+
+What it cannot get for itself, it tries to get from others. This it does by offering what it can, based on its svadharma (skills, abilities, and personal qualities).
+
+{{< img src="/graphics/econ/materialistic.jpg" alt="Supereconomic network and hierarchy of needs" cap="Our Supereconomic network of needs starts with the metaphysical center that branches out and downwards into physical needs. The core of this metaphysical center is The Tao or svadharma of that discrete entity. The person then goes outwards to meet other people to satify his or her material and metaphysical needs." >}}
+
+
+- A materialistic society only caters to the material needs. It might have an abundance of material goods for sale, ecommerce, cryptocurrencies. But it is deficient in spritual ideology or even cultural practices. 
+- A spiritual society has strong spritual ideology and rich traditional culture. But it might be materially backward.
+- An ideal society is one that can satisfy all the hierarchal needs of every human, neglecting neither materiality nor spirituality.
+
+
+<!-- In this way, the entity is not made subservient to the lower material layer.
+- This helps it keep its stability amidst the onslaught of material perceptions.  -->
+
+
+{{< youtube ovpsuyRanw8 >}}
 
 {{< cap >}}
 Monkeys (from where the human species came) are curious about objects and have been known to steal and run away with material objects. Thus, we can call humans that act as such as monkeys

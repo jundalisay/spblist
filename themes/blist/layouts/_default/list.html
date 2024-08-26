@@ -45,7 +45,13 @@
     {{ range $paginator.Pages }}
 
       <a href="{{ .Permalink }}" title="{{ .Title }}" class="zoom max-w-sm rounded-lg overflow-hidden shadow-lg" data-sal="slide-down">
+        {{ if .Params.image }}
         <img class="w-full" src="{{ .Params.image }}" alt="{{ .Params.title }}">
+        {{- else }}
+        {{- end }}
+
+              
+
         <div class="px-6 py-4">
           <small class="leading-none">
             {{ .Params.heading }}

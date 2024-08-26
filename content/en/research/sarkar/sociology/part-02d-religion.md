@@ -9,24 +9,52 @@ icon: "/icons/sarkar.png"
 ---
 
 
-There are a variety of religions in the world formulated by different propounders. But instead of enhancing the spirit of unity in the human society, these religions have actually increased disunity and mutual conflict. How many wars have been fought in the name of religion? So, far from being a unifying force, religion should be seen as a cause of disharmony.
+There are a variety of religions in the world formulated by different propounders. 
 
-One thing should be remembered: Dharma and religion – or “Imán” and “majhab” in Arabic – are not synonymous. Throughout the ages, Dharma or Imán has been propagating teachings to unite humanity. Religions are many, but Dharma is one, and that Dharma is Manava [[Human]] Dharma – a system for the attainment of the Supreme. 
+But instead of enhancing the spirit of unity in the human society, these religions have actually increased disunity and mutual conflict. 
 
-Based on practical wisdom and logical faith, Dharma is a rational approach for the realization of Absolute Truth. External paraphernalia are not required for the practice of Dharma: the only prerequisite is a unit mind. Within Dharma there is no room for exploiting people entrapped in the snare of blind faith, and no scope for self-aggrandisement or the pursuit of group interests. Love, freedom and equality are its foundation stones. 
+How many wars have been fought in the name of religion? So, far from being a unifying force, religion should be seen as a cause of disharmony.
 
-As Dharma is beyond time, space and person, there is no scope for Svajátiiya [[differences within a species]], Vijátiiya [[differences between species]] or Svagata [[differences within the same unit being]]. Dharma is inchangeable.
+Dharma and religion – or “Imán” and “majhab” in Arabic – are not synonymous. 
+
+Throughout the ages, Dharma or Imán has been propagating teachings to unite humanity. 
+
+Religions are many, but Dharma is one, and that Dharma is Manava [[Human]] Dharma – a system for the attainment of the Supreme. 
+
+Based on practical wisdom and logical faith, Dharma is a rational approach for the realization of Absolute Truth. 
+
+External paraphernalia are not required for the practice of Dharma. 
+- **The only prerequisite is a unit mind.** 
+
+Within Dharma there is:
+- no room for exploiting people entrapped in the snare of blind faith
+- no scope for self-aggrandisement or the pursuit of group interests. 
+
+Love, freedom and equality are its foundation stones. 
+
+Dharma is beyond time, space and person. 
+
+And so, there is no scope for:
+- Svajátiiya [[differences within a species]]
+- Vijátiiya [[differences between species]] 
+- Svagata [[differences within the same unit being]]. 
+
+Dharma is inchangeable.
 
 <!-- Eka eva suhrd dharma nidhane’pyanuyáti yah.
 [Dharma is the only real friend; it follows one even after death] -->
 
-Religion is the exact opposite, being based on 3factors:
+Religion is the exact opposite, being based on 3 factors:
 
 1. Psycho-sentiment
 2. Physico-ritualistic observance
 3. Tradition
 
-Behind the origin of a religion lies the inborn fear psychology of human beings. Human beings started religious practice to appease the different natural phenomena – the hills and mountains, the rivers and oceans, the forests, thunder and lightening, the morning and evening, and so on.
+**Behind the origin of a religion lies the inborn fear psychology of human beings.**
+
+Human beings started religious practice to appease the different natural phenomena.
+
+ <!-- – the hills and mountains, the rivers and oceans, the forests, thunder and lightening, the morning and evening, and so on. -->
 
 Such religious practice was based on the instinct for self-preservation: the only intention being to propitiate the gods and goddesses of diverse moods. Some kind of imaginary faith worked in the back of people’s minds. Such psycho-sentiments arose after human beings came in contact with the different natural phenomena. The roots of most religions lie in the worship of a particular natural phenomenon. Some religions centered around the moon, some the sun, and others a stone image. 
 

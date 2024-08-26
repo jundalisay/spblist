@@ -1,5 +1,5 @@
 ---
-title: 7 Barter Disadvantages AddressedThe 3 Problems with Money
+title: 7 Barter Disadvantages Addressed
 heading: Chapter 3c
 # heading: "Mo' Money, Mo' Problem"
 date: 2020-04-18

@@ -1,9 +1,11 @@
 ---
 title: "Videos for Superphysics"
-date: 2023-02-20
+date: 2024-08-20
+# date: 2023-02-20
 description: "We list the events in the evolution of Superphysics from 2020-present"
 image: "/covers/2020.png"
 showdate: true
+type: "featured"
 ---
 
 

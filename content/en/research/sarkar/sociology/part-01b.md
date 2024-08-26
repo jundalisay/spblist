@@ -86,7 +86,12 @@ Containing the same cosmic momentum and under the same cosmic inspiration, they 
 
 From the unknown past until this day, the various branches of the human society have given rise to different civilizations. 
 
-The Alpines and the Mediterraneans (two branches of the white race) produced the Hellenic, Sumerian and Egyptian civilizations. The Nordics and the Dravidians were responsible for the Indus Valley civilizations.
+The Alpines and the Mediterraneans (two branches of the white race) produced the following civilizations:
+- Hellenic
+- Sumerian
+- Egyptian 
+
+The Nordics and the Dravidians were responsible for the Indus Valley civilizations.
 
 The yellow race produced the Chinese and Japanese civilizations. 
 
@@ -104,11 +109,17 @@ There is still:
 
 This unfavourableness of nature prevented the Africans from looking within and that accounts for their failure to build any civilization in the past. 
 
-In spite of that, there are immense human potentialities lying dormant in them too. And for that the most pressing need is to develop those possibilities by creating a congenial environment.
+**In spite of that, there are immense human potentialities lying dormant in them too.** 
+
+And for that the most pressing need is to develop those possibilities by creating a congenial environment.
 
 There is an admixture of blood of different races. 
 
-In India, all the 4 prominent races – the Aryans, the Mongolians, the Austrics and the Negroes – have been inseparably mixed up. 
+In India, all the 4 prominent races have been inseparably mixed up:
+- Aryans
+- Mongolians
+- Austrics
+- Negroes 
 
 The present Filipinos are a mixture of Negro, Mongolian and Aryan races, though the Mongolian elements are predominant. 
 
@@ -126,12 +137,31 @@ The Chinese people are composed of people from:
 The population of Great China is a mixture of those different communities.
 
 Only recently, Hitler fed the German nation on the spurious notions of Aryan supremacy and incited the vain and arrogant Nazis to fight a horrible war. 
+- He raised his arrogant slogan – “The Aryans are not to be ruled but to rule”.
 
-He raised his arrogant slogan – “The Aryans are not to be ruled but to rule”. But is this chauvinistic and blind concept of Aryan supremacy supported by the science of ethnology? No, this science holds that the modern Germans are not a homogeneous race. They are a mixed race. Thus, if analysed, it will be found that none of the existing human races are free from admixture of the blood of other races. Therefore the talk of “purity of blood” of a race is meaningless, for there cannot be any purity of blood of a particular race. Rather, blood is always pure.
+But is this chauvinistic and blind concept of Aryan supremacy supported by the science of ethnology? 
 
-In India, the maximum mixture of blood has been in Bengal. The Bengali race evolved out of the Aryans, Mongolians, Austrics and Negroes. The people of Bihar and Orissa and the Kayastha (a high-caste Hindu community of East India) belong to this Bengali race. In southern India, too, Negro blood came to mingle with the Austric blood, and a new race, the Dravidians emerged.
+No, this science holds that the modern Germans are a mixed, not a homogeneous race. 
 
-Thus in the dim past of unknown history, different human groups came in one another’s contact. There was unavoidable intermingling of blood, and ultimately there arose many so-called new races after gaps of long periods. The innate migratory nature of human beings has goaded them to journey from one horizon to another, from one hemisphere to another. For more than one reason, human beings have broken narrow geographical boundaries and set out for other lands and associated with other communities. 
+None of the existing human races are free from admixture of the blood of other races.
+
+Therefore the talk of “purity of blood” of a race is meaningless, for there cannot be any purity of blood of a particular race. Rather, blood is always pure.
+
+**In India, the maximum mixture of blood has been in Bengal.** 
+
+The Bengali race evolved out of the Aryans, Mongolians, Austrics and Negroes. 
+
+The people of Bihar and Orissa and the Kayastha (a high-caste Hindu community of East India) belong to this Bengali race. 
+
+In southern India, the Dravidians emerged from the mixture of Negro and Austric blood. 
+
+Thus in the dim past of unknown history, different human groups came in one another’s contact.
+
+There was unavoidable intermingling of blood, and there arose many new races after gaps of long periods.
+
+**The innate migratory nature of human beings has goaded them to journey from one horizon to another, from one hemisphere to another.** 
+
+For more than one reason, human beings have broken narrow geographical boundaries and set out for other lands and associated with other communities.
 
 The direct and indirect causes of their association with other races are roughly as follows:
 
@@ -148,12 +178,25 @@ Goaded by an innate instinct, they freely mixed among themselves. This contact a
 
 Ultimately this close association amongst themselves culminated in marital bonds. Many small races were fused into a new race through inter-racial marriages. 
 
-For instance, in South America, as a result of constant intermingling of the blood of the Negroes, the Europeans and the Indians, a new race has emerged. Similarly, in Colombia and Mexico, a new Mestizo community has come into being as a result of interracial marriages between the Europeans and Indians. 
+For instance, in South America, as a result of constant intermingling of the blood of the Negroes, the Europeans and the Indians, a new race has emerged. 
+
+Similarly, in Colombia and Mexico, a new Mestizo community has come into being as a result of interracial marriages between the Europeans and Indians. 
 
 That is why it is not proper to attach much importance to differences in respect to noses, eyes, hair, height, etc.
 
-Human society is continually striving to arrive at a synthesis through analysis, some sort of unity through diversity. The natural obstructions of small clans, narrow communal interests, geographical distances and intractable customs and usages – none of these obstacles could hinder the steady and silent movement towards a supreme goal. That is why the policy of apartheid, the vanity of racial superiority, national chauvinism or regionalism – these relative doctrines or social philosophies – could not thwart the progress of human society. The outdated ideals of nationalism are crumbling to pieces today.
+Human society is continually striving to arrive at a synthesis through analysis, some sort of unity through diversity.
 
-The newly awakened humanity of today is anxious to herald the advent of one universal society under the vast blue sky. The noble and righteous persons of all countries, bound by fraternal ties, are eager to assert in one voice, with one mind, and in the same tune that human society is one and indivisible. In this voice of total unity and magnanimity lies the value and message of eternal humanism.
-date not known
+The natural obstructions of small clans, narrow communal interests, geographical distances and intractable customs and usages – none of these obstacles could hinder the steady and silent movement towards a supreme goal.
+
+That is why the following doctrines could not thwart the progress of human society:
+- policy of apartheid
+- the vanity of racial superiority
+- national chauvinism or regionalism
+
+The outdated ideals of nationalism are crumbling to pieces today.
+- The newly awakened humanity of today is anxious to herald the advent of one universal society. 
+
+The noble and righteous persons of all countries, bound by fraternal ties, are eager to assert in one voice, with one mind, and in the same tune that human society is one and indivisible. 
+
+In this voice of total unity and magnanimity lies the value and message of eternal humanism.
 

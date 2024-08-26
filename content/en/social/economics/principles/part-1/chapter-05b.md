@@ -16,7 +16,7 @@ icon: /icons/pantry.png
 The recent high energy prices in Europe has exposed the flaws of the market-model of energy which was adopted from the 1990s*. 
 
 
-{{< f f="*The market model, in turn, was caused by Reaganomics shifting policy into corporate stocks in order to solve the 1970's stagflation. This shift manifested as the mergers and acquisitions of the 1990s, and consequentially, the push for privatization to make those mergers viable as an effect of the 'force of capital'. This is because to make those mergers pay off, those corporations pay lobbyists to penetrate profitable ventures such as utilities, healthcare, and insurance.  This in turn explains the wave of privatizations from the late 1990s and 2000's. After all those profitable ventures are occupied, the force of capital resumes to feed off of oil, making oil prices rise. This is how our model correctly predicted the current stagflation many years ahead of time." >}}
+{{< f f="*The market model, in turn, was caused by Reaganomics shifting policy into corporate stocks in order to solve the 1970's stagflation. This shift led to the mergers and acquisitions of the 1990s. This spurred the privatization of utilities, healthcare, and insurance (industries commonly state-run) to make those mergers pay off. After all those profitable ventures are occupied, the 'force of capital' resumes to feed off of oil, making oil prices rise. This is how our model correctly predicted the current stagflation many years ahead of time." >}}
 
 
 <!-- Utilities are a guaranteed revenue stream. This then justifies the pooling of huge capital, and so lobbyists pushed for the privatization of utilities the most.  
@@ -50,11 +50,10 @@ This inherent contradiction naturally leads to failures of the privatized utilit
 
 The proper energy policy is to **let the government handle energy**. 
 
-In this way, a public concern is managed by a public organization*. Instead of competition between market forces, **the competition is between politicians during elections**. Through this, the public interest maintains the public utilities.
+In this way, a public concern is managed by a public organization. Instead of competition between market forces, **the competition is between politicians during elections**. Through this, the public interest maintains the public utilities.
 
 
 Good examples of the direct management of government in energy are:
-
 - France (EDF)
 - Singapore (SP Group)
 - China (State Grid)
@@ -64,15 +63,12 @@ Good examples of the direct management of government in energy are:
 
 The difference between privatized and state-run energy is evident in the difference between the energy situation of France and that of Germany which follows the free market model. 
 
-To get into the profitable utilities business, investors usually highlight how massively indebted state-owned utilities are. They hide the fact that **being under massive debts is the nature of such utilities**.* 
+To get into the profitable utilities business, investors usually highlight how massively indebted state-owned utilities are. They hide the fact that **being under massive debt is the nature of such not-for-profit utilities**.* 
 
 {{< f f="*This is mirrored by the fact that parents are often get into debt in order to fund the education and upkeep of their children. The reverse of this is to make money from one's children by using them as child labor and neglecting their education. Nationalization does the former, while privatization does the latter." >}}
 
- 
-
 
 State-run energy systems have some variations:
-
 - In the French system, the government has control, as a majority stake, in energy production and transmission, allowing the rest to be privately held
 - In Singapore, Vietnam, and China, the government owns everything. This leads to low energy prices because the government is supposed to be not-for-profit. This allows energy, as the base of the modern economy, to be really inclusive, as the people paying to maintain each other* 
 
@@ -104,6 +100,10 @@ Smith's solution is for the people to work together: **the politician should fin
 The Kings of Spain did all they could to promote land improvement. Philip IV himself farmed, to set the fashion. He did everything for the farmers <b>except bringing them a good market</b>. He conferred the titles of nobility on several farmers.
 <cite>Lectures on Jurisprudence, Part 2, Section 2, Chapter 16</cite>
 {{< /q >}}
+
+
+
+> Politicians should find skilled engineers who can work for the public interest
 
 
 China does this by getting skilled entrepreneurs to run state-owned corporations. A recent proof is Jack Ma, founder of private Alibaba, being forced to follow the Communist Party.
@@ -140,32 +140,12 @@ This also spurs the local industry of the community. It will then be the job of 
 
 
 
-### The Vision of Fusion
+Supereconomics prefers microgrids because the energy sources in the future will be fusion and antimatter. 
+- Fusion can work for 'large' microgrids
+- Antimatter can work for normal microgrids
 
-However, renewable energies are unreliable and are therefore only a stopgap measure until true nuclear fusion* is realized. This principle is supported by the natural fact that even wind and solar energy come from the fusion energy of the sun. 
+Both technologies are predicted by Material Supeprhysics, and only backward because of the gaps in knowledge by modern Physics. 
 
-```bash
-Fusion on the Sun --> Wind Energy --> Wind Turbine --> Electrical Energy
-Fusion on the Sun --> Solar Energy --> Solar Panel --> Electrical Energy
-```
-
-
-It would be more efficient to go direct for fusion
-
-```bash
-Fusion on Earth	 --> Steam Turbine --> Electrical Energy
-```
-
-Renewables on microgrids can then be replaced by "pocket fusion" reactors which can be the size of a large bus.
-
-
-{{< box >}}
-### The Missing Key to Fusion 
-
-Fusion can be realized sooner if Physics can be overhauled to allow gravitational confinement of plasma instead of the magnetic confinement currently being done.
-
-This is where our Supereconomics switches hats into Material Superphysics to explain how [gravitational confinement](/material/solutions/fusion) will work. 
-{{< /box >}}
 
 
 ## Overhaul EPIRA

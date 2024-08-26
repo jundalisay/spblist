@@ -17,13 +17,21 @@ Each language has 5 fundamental characteristics.
 “Ram is going”; in Hindi, Ram ja raha hay, and in Saḿskrta, Ramah gacchati. English has its own verb forms, “is going,” Saḿskrta also has its own verb forms – “gacchati”. 
 
 Páharii Punjábi is also a language because it too has its own verbs – for example, akśa basha or akśaŕa dasha. This is the first characteristic of a language: it has its own verbs.
+
 In Saḿskrtá, there are some verb endings such as -ti (gacchati), -tah (gacchatah), -anti (gacchanti), -si (gacchasi), -thas (gacchathah), and -tha (gacchathá), etc.
+
 
 2. Case endings for nouns
 
-For example, “Ram’s sister is eating bread”; in Saḿskrtá we say, Ramasya bhaginii rot́ikáḿ khádati. In Hindi we say Rám rii bhaen rotii kháráhii hay. And in Paháŕii language, Rám ki bhaen rot́ii khándii. In Punjabi language there is a tendency to pronounce in the tirjak style (the “a” sound tends towards the “o” sound). 
+For example, “Ram’s sister is eating bread”; in Saḿskrtá we say, Ramasya bhaginii rot́ikáḿ khádati. In Hindi we say Rám rii bhaen rotii kháráhii hay.
 
-In English “Ram’s” means “of Ram”; in Saḿskrta Ramasya (we add -sya); in Hindi, Ramki; In Páháŕii, Ram rii (the suffix -rii is added). These are called case endings; they vary from language to language, and from the linguistic point of view, every language which has its own case endings deserves to be recognized as a language. 
+In Paháŕii language, Rám ki bhaen rot́ii khándii. In Punjabi language there is a tendency to pronounce in the tirjak style (the “a” sound tends towards the “o” sound). 
+
+In English “Ram’s” means “of Ram”.
+
+In Saḿskrta Ramasya (we add -sya).
+
+In Hindi, Ramki; In Páháŕii, Ram rii (the suffix -rii is added). These are called case endings; they vary from language to language, and from the linguistic point of view, every language which has its own case endings deserves to be recognized as a language. 
 
 In this respect Páháŕii Punjabi is also a language different from Hindi, since both have their different case endings.
 
@@ -53,11 +61,48 @@ It is also true that the Hindi language has many dialects; the spoken language v
 
 So if the Páháŕii-speaking people demand that the Páháŕii language should be used in all spheres of their social life, that will not at all be irrational; in fact, Páháŕii should be used in courts, schools and colleges, in official correspondence, in airports, and in radio stations.
 
-Three scripts can be used writing Páháŕii: the Táḿrii script which is the popular script of this region, Dogrii script which is used in the Dogrii-speaking areas, and Sirmaorii script which is used in the Nahan areas. Devanágrii script is not popular here; it is the script of Gujarat. Hindi is also the script of Gujarat; it has no relation to the script used in this area. The inscriptions on the rocks and stones that can be excavated from this area are not carved in Nágrii script because Nágrii script was never popular in this area. The Táḿrii script is popular in Kinnore area also. This script has some similarly to the Tibetan script. In a mountain cave in Tibet, it is written in Táńrii script, Oṋḿ mane padme hum, oṋḿ mane padme hum. 
+Three scripts can be used writing Páháŕii: 
 
-Thus Táḿrii script should be used in writing the Páháŕii language. As I already told you, when the Dogrii language will be used for local purposes, the Dogrii-speaking people will also feel proud. They will think that they, too, have something of their own, that they are not anyone’s slave. If some one contradicts you in this regard, you should give them a fitting reply. Although no written book is available now, yet three or four-hundred-year old books in Dogrii script will certainly be found right in this area. If there are any Saḿskrtá knowing scholars here, they will tell you all about this. There should be many Saḿskrtá-knowing scholars, because wherever there were kings, there were Saḿskrtá schools and Saḿskrtá scholars.
+1. The Táḿrii script which is the popular script of this region
+2. Dogrii script which is used in the Dogrii-speaking areas
+3. Sirmaorii script which is used in the Nahan areas. 
+
+Devanágrii script is not popular here.
+
+It is the script of Gujarat. 
+
+Hindi is also the script of Gujarat. It has no relation to the script used in this area.
+
+The inscriptions on the rocks and stones that can be excavated from this area are not carved in Nágrii script because Nágrii script was never popular in this area. 
+
+The Táḿrii script is popular in Kinnore area also.
+
+This script has some similarly to the Tibetan script. 
+
+In a mountain cave in Tibet, it is written in Táńrii script, Oṋḿ mane padme hum, oṋḿ mane padme hum. 
+
+Thus Táḿrii script should be used in writing the Páháŕii language. As I already told you, when the Dogrii language will be used for local purposes, the Dogrii-speaking people will also feel proud. 
+
+They will think that they, too, have something of their own, that they are not anyone’s slave. If some one contradicts you in this regard, you should give them a fitting reply. 
+
+Although no written book is available now, yet three or four-hundred-year old books in Dogrii script will certainly be found right in this area. 
+
+If there are any Saḿskrtá knowing scholars here, they will tell you all about this. There should be many Saḿskrtá-knowing scholars, because wherever there were kings, there were Saḿskrtá schools and Saḿskrtá scholars.
+
 You should search for old manuscripts written on bark or palm leaves. Many manuscripts were written on bark or leaves (bhurjapatra), and I find many bhurja trees all around this area.
 
-As I told you earlier, the old books were not written in Devanágrii script, for this script was imposed from outside. In fact, the Devanágrii script is a script of the Gujarat scholars. As many people are not aware of the exact history, they wrongly think that Devanágrii is the original script for writing Saḿskrtá, but this is not at all the case. Actually Saḿskrtá has no script of its own; so there was a rule that when Saḿskrtá was written, it could be written in any script. Thus Saḿskrtá is always written in the script of the concerning area. It is written in Bengali script in Bengal, and in Tamil script in Madras. It is not written in Devanágárii script in Madras. When the British established universities for higher education, they decided that when Saḿskrtá would be taught in each university, Devanágrii script should be used to write it.
+The old books were not written in Devanágrii script, for this script was imposed from outside. In fact, the Devanágrii script is a script of the Gujarat scholars. 
 
-The language of Himachal Pradesh, the local language here, is born out of Paeshácii Prákrta, and Hindi is born of Shoraseni Prákrta. Many people are not aware of this fact. Had they been aware of it, there would not be so much conflict regarding languages and scripts. Even those who are educated and respectable people are also not aware of this fact. Had they known this, they would have certainly conveyed these facts of history to others.
+As many people are not aware of the exact history, they wrongly think that Devanágrii is the original script for writing Saḿskrtá, but this is not at all the case. 
+
+Actually Saḿskrtá has no script of its own; so there was a rule that when Saḿskrtá was written, it could be written in any script. 
+
+Thus Saḿskrtá is always written in the script of the concerning area.
+
+It is written in Bengali script in Bengal, and in Tamil script in Madras. It is not written in Devanágárii script in Madras. 
+
+When the British established universities for higher education, they decided that when Saḿskrtá would be taught in each university, Devanágrii script should be used to write it.
+
+The language of Himachal Pradesh, the local language here, is born out of Paeshácii Prákrta, and Hindi is born of Shoraseni Prákrta. Many people are not aware of this fact. Had they been aware of it, there would not be so much conflict regarding languages and scripts. 
+
+Even those who are educated and respectable people are also not aware of this fact. Had they known this, they would have certainly conveyed these facts of history to others.

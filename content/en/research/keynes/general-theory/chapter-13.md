@@ -54,7 +54,7 @@ How much money does he need now?
 
 How much money does he *not* need now? 
 
-![The loves of Kenyes](/graphics/keynesloves.png)
+![The loves of Kenyes](/graphics/econ/keynes.jpg)
 
 <!-- How long does he intend to have his money savings and not spend it? -->
 

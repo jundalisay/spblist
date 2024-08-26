@@ -48,7 +48,7 @@ This shows the following:
 
 - A new technology lower prices and create real material gains. It makes consumer bargains permanent, while spreading it to more people (orange area).
 
-> New production technologies decrease costs. These then either increases profits or allows more to be produced. The former creates a "producer’s surplus" or gain. An example is the iPhone. The latter spreads the consumer's surplus or bargain to more people. An example is the Android phone. 
+{{< f f="New production technologies decrease costs. These then either increases profits or allows more to be produced. The former creates a 'producer’s surplus' or gain. An example is the iPhone. The latter spreads the consumer's surplus or bargain to more people. An example is the Android phone." >}}
 
 - A man-made environmental limit* checks overconsumption just as a man-made price ceiling discourages underconsumption. Such a limit might raise prices by preventing economies of scale. But such prices can be later reduced by technological advancement. From this view, <b>we can say that an environmental limit is a win-win: it preserves nature, while advancing technology</b>.
 

@@ -14,6 +14,9 @@ icon: /icons/spsoc.png
 ---
 
 
+In the previous chapter 
+
+
 
 Ego-based virtues:
 

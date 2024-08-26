@@ -36,6 +36,7 @@ The soil is hard and barren, contains few worms or micro-organisms and little or
 The annual rains wash away much of the topsoil that still exists, hence the remaining soil has become coarse and sandy. As a result, the whole region is subjected to flash floods and severe soil erosion.
 
 
+![Flood](/photos/physics/flood.jpg)
 
 
 The banks of all water systems should be covered by dense forests because the roots of the trees retain water. 

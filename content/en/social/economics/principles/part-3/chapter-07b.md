@@ -1,55 +1,47 @@
 ---
-title: "The 5 Factors that Affect Wages and Profits"
-date: 2016-12-21
-weight: 38
-image: "/photos/happysuccess.jpg"
-description: "Adam Smith laid down 5 factors that affect wages and profits that can be useful for employees and businesses"
-heading: Agreeableness, Difficulty, Constancy, Trust, Success
+heading: "Chapter 7b"
+title: "Two DCIT Scenarios"
+# date: 2021-06-28
+date: 2021-12-25
+weight: 36
+image: "/photos/medieval/cave.jpg"
+description : "Here are two Scenarios viewed according to the DCIT model"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
-toc: false
 ---
 
 
-<!-- Are you looking for a career that gives a high salary or deciding what kind of business to establish?  -->
+<!-- http://humanityframework.files.wordpress.com/2013/11/cognition.gif -->
 
-There are <!-- Adam Smith enumerated five --> 5 factors that affect wages and profits:
+## Hunter-Gatherer Scenario
 
-1. The agreeableness or disagreeableness of the employments
+{{< img src="/graphics/DCIThunt.gif" alt="DCIT hunter society" cap="Figure 1. A single hunter who consumes all the work of his industry" >}}
 
-![Defense contractors get paid a lot](https://socioecons.files.wordpress.com/2016/12/73819770_ukraine_russia_moldova4_464map.gif)
-
-A job's difficulty, cleanliness, and/or honorableness can lead to different wage and profit levels
+This scenario illustrates the DCIT model in the simplest form without trade. To meet the hunger (demand) of the hunter, he must gather his equipment and skill (capital) to hunt an animal (industry), which he will consume to satisfy his hunger.
 
 
-2. The difficulty and cost of learning them
+## Advancing Society Scenario
 
-A job that requires a high degree of techincal skill will lead to higher wages than one that is simple. This explains the high wages given to specialized IT professions, surgeons, and expert lawyers.
-
-![A solutions architect is a high paying job in IT](https://socioecons.files.wordpress.com/2016/12/solution-architect.jpg)
+{{< img src="/graphics/DCITadv.gif" alt="DCIT advanced society" cap="Figure 2. A simple scenario illustrating how societies get wealthier through time" >}}
 
 
+It starts with fixed capital (light blue bar), unlike the hunter-gatherer scenario which had none. The circulating capitals are then added:
+- new skills, new equipment, division of labor, etc are represented by the light green bar
+- labor, raw materials, finished products, money are the dark blue bar
 
-3. The constancy or inconstancy of employment in them
-
-![Seasonal labor in farming](https://socioecons.files.wordpress.com/2016/12/praca-sezonowa.jpg)
-
-Seasonal jobs get paid differently than non-seasonal ones. Here, Smith gives the general rule that "The lowest common earnings may always be considered as the earnings of the majority."
-
+The light green bar on slide 14 represents value that is in excess of what is needed to maintain fixed capital.
 
 
-4. The small or great trust which must be reposed in those who exercise them
+<!-- ## Debt Scenario
 
-![Surgery](https://socioecons.files.wordpress.com/2016/12/feature1_0.jpg)
+Let us create a town scenario wherein a baker sees a daily demand for cakes but, naturally, is unsure of the exact kind, quantity, or price demanded by the market. Nevertheless, he follows his dharma and uses his own capital, made up of 1 unit of oven rental at $1, 1 unit of ingredients at $1, and 1 unit of his own skill at $1 (which represents his desired wage and profit), to bake one cake which he will use to enter the market to sell at a natural price of $3 (Figure 3A). We assume, like most businesses, that his first attempt to sell it will be a failure. His failure, however, will give him new insights on the effectual demand of the market. Keeping with his dharma, he tries again in a new iteration, borrowing $2 to replenish his capital and modifying the cake to meet the effectual demand. This time we assume he successfully sells his cake, earning enough to replenish his capital and reduce his debt by $1 (Figure 3B).
 
-Smith gives the example of doctors whom we should trust to cure us
+<figcaption>Figure 3A (left) and 3B (right). The demand, capital, industry, and trade of cakes in a town</figcaption>
+ -->
 
+Every economy, regardless of paradigm, has the factors of demand, value (capital with industry), and trade which are balanced and spread naturally by human action. The more freedom and justice a society has, the faster the spread and balancing is, reflecting human dynamism. The lesser both are, the more barbaric the balancing becomes, unearthing the instincts of our animalistic past. 
 
+In Capitalist systems, excesses are balanced by crashes while shortages are balanced by demonstrations and riots. In authoritarian or Communist systems where freedom is almost non-existent, excesses are balanced by stagnation while shortages are balanced by revolution, civil war, or an exodus.
 
-5. The probability or improbability of success in them.
-
-![Dilbert cartoon](https://socioecons.files.wordpress.com/2016/12/dilbert-vc.gif)
-
-Lotteries (chance of winning) and insurance (chance of loss) are examples. Venture capitalism and adventurous jobs are also given

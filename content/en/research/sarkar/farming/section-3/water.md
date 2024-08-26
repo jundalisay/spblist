@@ -48,6 +48,8 @@ In the physical sphere, there are 2 types of calamities:
 
 Today, most calamities are caused by human beings. But sometimes, natural calamities like typhoons, floods, droughts, earthquakes, etc., also occur. 
 
+![Flood](/photos/physics/flood.jpg)
+
 Although different types of calamities may confront humanity, doomsday will never happen. 
 - **The very idea of doomsday is based on dogma.**
 

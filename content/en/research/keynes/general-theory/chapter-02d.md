@@ -28,7 +28,8 @@ The real wage earned by a <!-- worker --> unit of labour has a unique inverse co
 - **If employment increases in a short time, the reward per unit of labour in terms of wage-goods declines and profits increase.** *
 - The marginal product in the wage-good industries (which governs real wages) necessarily diminishes as employment is increased. 
 
-> `n` men are employed. The nth man adds 1 bushel a day to the harvest. Wages have a buying power of 1 bushel a day. The `n + 1th` man, however, would only add .9 bushel a day. In this case, employment cannot rise to `n + 1` men unless the price of wheat rises relatively to wages until all daily wages have a buying power of .9 bushel [to match the previous 0.9]. Aggregate wages would then amount to 0.9 (n + 1) bushels as compared with n bushels previously. Thus, the employment of an additional man will involve a transfer of income from those previously in work to the entrepreneurs [This is wrong. The extra man will still be paid the same 1 bushel. It will be a loss to the entrepreneur].
+{{< f f="`n` men are employed. The nth man adds 1 bushel a day to the harvest. Wages have a buying power of 1 bushel a day. The `n + 1th` man, however, would only add .9 bushel a day. In this case, employment cannot rise to `n + 1` men unless the price of wheat rises relatively to wages until all daily wages have a buying power of .9 bushel [to match the previous 0.9]. Aggregate wages would then amount to 0.9 (n + 1) bushels as compared with n bushels previously. Thus, the employment of an additional man will involve a transfer of income from those previously in work to the entrepreneurs [This is wrong. The extra man will still be paid the same 1 bushel. It will be a loss to the entrepreneur]." >}}
+
 
 <!-- This is simply the obverse of the familiar proposition that  Industry is subject to decreasing returns in the short period, while capital is constant.-->
 

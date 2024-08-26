@@ -1,79 +1,84 @@
 ---
 heading: "Chapter 1"
-title: "The Third Law of Value"
-date: 2021-12-31
-# date: 2022-01-03
-dateorig: Originally written in 2016
+title: "The Third Law of Value: Natural Price"
+weight: 14
+# dateorig: Originally written in 2016
 image: /graphics/econ/law3.jpg
-description: "The Third Law of Value states that value is circulated through the economy through fair exchanges."
+description: "The Third Law of Value states that economic balance must be maintained to allow natural prices"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
-weight: 12
-toc: false
+aliases:
+  /social/economics/principles/fourth-law
 ---
 
 
-<!-- Commercial system focuses on self-interest 
-A lot of work is duplicated 
-coordinates work, investments, resources (supply/demand)    -->
+
+<!-- The market price is the nominal price that is applied on all customers for some time, from the customer's perspective.  -->
+
+## The Natural Price
+
+The **natural price** is the lowest common real price from all sellers over time, from the seller's perspective. 
 
 
-In order to address all the demand in society, supply has to be exchanged through a medium. 
+This assumes that:
+- the three prior laws were observed 
+- there is a sense of community instead of excessive ego that leads to profit maximization
 
-This creates the Third Law of Value which states that value is transferred through fair exchange whether it be through money, barter, points, promises, etc. 
+The natural price is established by the Third Law of Value which says that there must be balance in any economy, whether it be a family, company, or nation. This mirrors the Zeroth Law of Thermodynamics that has the concept of thermal equilibrium.
 
-This mirrors the First Law of Thermodynamics, known as the law of conservation of energy*. That law states that energy cannot be destroyed. Instead, it merely changes forms.
+<!-- * leading to temperature.  -->
 
-![Third Law](/graphics/econ/law3.jpg)
+![Second law](/graphics/econ/law3.jpg)
 
-{{< f f="*In Bio Superphysics, this manifests as the transference of properties to the body of whatever is affecting health. In Supersociology, this is the feelings of members of society affecting other members." >}}
+This concept does not exist in Economics because profit maximization prevents it. This is why modern economic systems have recurring crashes as a result of the violation of this natural law of value. Supereconomic systems are crash-resistant because they know that there exists a natural price and so the system is designed to stay near it. 
+
+- In Bio Superphysics, this manifests as the balance between things that affect our health to maintain an equilibrium as good health.
+- In Supersociology, this is balance of giving value to all classes of society in order to maintain stability and prevent revolutions.
+
+
+In our cake example, let us assume that Mr. Chef's labor at ordinary profits is $2 and his ingredients and inputs vary daily from $1 to $3, and he sold the cake at $4:
+
+Day | Real Price (Cost)| Market Price (Selling Price)
+--- | --- | ---
+Monday | $5 | $4
+Tuesday | $4 | $4
+Wednesday | $4 | $4
+Thursday | $3 | $4
+Friday | $4 | $4
+
+The Natural Price would be $4, representing the most frequent and low real price, assuming that profit maximization was not observed.
+
+{{< q a="Adam-Smith" >}}
+The natural price is the lowest..he is likely to sell them for any considerable time.. [It is]..the central price, to which the prices of all commodities are continually gravitating... 
+{{< /q >}}
+
+{{< q a="Adam-Smith" >}}
+The market price..is regulated by the proportion between the quantity..actually brought to market, and the demand of those who are willing to pay the natural price.
+{{< /q >}}
+
+
+<!-- ![Fourth law definition](/graphics/law4.png) -->
+<!-- ![4](https://sorasystem.sirv.com/graphics/4.png) -->
+
+In Supereconomics, the balance between market and natural prices is checked through a grain index which compares the prices of commodities relative to the common grain eaten by the people. 
+
+Even without a grain index, people will naturally feel the imbalance in the economy and start to protest if the increase in market prices no longer keep their ratio to the natural prices. Such an unnatural increase would occur if there were:
+
+- excessive primary arbitrage as monopoly of production, or
+- excessive secondary arbitrage as monopoly of distribution.  
+<!-- distribution or retail of the produced goods and services were stifled by excessive secondary arbitrage.   -->
+
+Modern Economics has no concept of natural price and so there are often wild fluctuations in prices in modern economic systems which allow maximum profits, but also losses.
  
 
-Exchange exists in both Economics and Superphysics. The latter, however, allows more mediums of exchange as fiat, barter, and points. 
+<!-- ## The Resulting Concepts from the Fourth Law
 
-In our cake example, Mr. Chef baked a cake at $2 real price and exchanged it into $4 by selling it. 
+The resulting concepts from the Fourth Law of Value are:
 
+- Natural Price
+- Socio-economic Balance as Demand-Capital-Industry-Trade ratios
+- The militant class (as a ruling government) to ensure this balance -->
 
-## Market Price
+---
 
-The $4 is called the **market price** which is the actual price that the item is exchanged. Unlike the nominal price that might vary from customer to customer, the market price is applied to all customers. 
-
-{{< img src="/graphics/law3.png" alt="Third Law Definition" cap="Unlike Superphysics, Economics does not limit arbitrage with real prices, and so there is nothing stopping bubbles from forming" >}}
-
-
-<!-- A change in the nominal value comes from the difference between the nominal price and the market price, leading to the real price and real value(these concepts are not all present in Economics). This creates transaction systems such as cash, credit, barter, andresource credits. Under this law are supply and demand, monetary theories (money supply, inflation, etc) and the double coincidence of wants of barter. -->
-
-<!-- We then input these laws according to our eagle equation in order to create our ‘equation’ for demand and supply as ps:pdD. This overturns the mercantilist ‘Law’ of Supply and Demand of Economics which treats of s and d as equals:
- -->
-
-## Smith's Innovation on Market Prices: Moneyless
-
-Both Economics and Superphysics observe market prices. But what new thing can Superphysics offer?
-
-Economics was created from Mercantilism which is based on money. Superphysics is based on real value of whatever s important to the person, whether it be money, reputation, land, iPhones, family, etc. 
-
-As such, it allows alternatives to money such as direct barter or indirect barter via points which are based on grains. Direct Barter is anything for anything now. Indirect Barter is anything for anything eventually.
-
-Thus, the Third law leads to **finance and monetary systems** in Economics, and [points-based valuation](/social/economics/alternatives-to-money) and [points-banking](https://www.pantrypoints.com/trisactions/banking/) to Superphysics. 
-
-The Third Law generates value through *primary arbitrage* or the difference of your skill and passion level versus the skill and passion of others. For example, if guitar-playing costs 1 unit of effort to you and 2 units of effort to another  person, then you can produce twice his value for the same effort. 
-
-The Third Law spreads that value through *secondary arbtirage* or the difference between the market price and the natural price, which will be explained next. 
-
-For example, if only a few people in your society wanted guitar songs, and most wanted piano songs instead, then you would rather sell your guitar songs to another society that valued it. You would not try to shift to making piano songs, which is not your core competency. 
-
-We can say in a sense that primary arbitrage is wholesale while secondary arbitrage is retail. 
-
-
-## The Resulting Concepts from the Third Law
-
-The resulting concepts from the Third Law of Value are:
-
-- Markets and transaction systems
-- Secondary Arbitrage
-- Monopoly and competition
-- Retail, Imports, Exports
-- The Grain Index
-- The Merchant class or cycle

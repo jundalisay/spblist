@@ -45,8 +45,8 @@ Law | Price | Purpose
 --- | --- | ---
 1 | Nominal | Utilization - exposes the lack and the need
 2 | Real | Specialization - drives action to increase quality and quantity to deal with the lack
-3 | Market | Diffusion - spreads quality and quantity to address the lack
-4 | Natural | Balance - prevents the crashes that leads to a recurrence of lack
+3 | Natural | Balance - prevents the crashes that leads to a recurrence of lack
+4 | Market | Diffusion - spreads quality and quantity to address the lack
 
 
 We find that it exactky matches the Law of Social Cycles of Supersociology:
@@ -55,8 +55,8 @@ Cycle | Price
 --- | --- 
 Worker | Nominal 
 Warrior | Real 
-Thinker | Market 
-Trader | Natural 
+Thinker | Natural
+Trader | Market  
 
 From here, we can connect Supereconomics with Supersociology by making them the Four Laws of Value. 
 
@@ -64,8 +64,8 @@ Law | Price | Meaning
 --- | --- | ---
 1 | Nominal | Everything in the universe has value
 2 | Real | Value is created to address lack
-3 | Market | Value is spread through fair exchange
-4 | Natural | There must be balance in the creation and spread of value
+3 | Natural | There must be balance in the creation and spread of value
+4 | Market | Value is spread through fair exchange
 
 <!-- from the conversion of matter or ideas -->
 
@@ -75,11 +75,11 @@ Supereconomics Law | Physics Thermodynamics Law
 --- | --- 
 1 - Nominal | 3 - A system's entropy reaches a constant value as its temperature reaches absolute zero
 2 - Real | 1 - Energy can be conerted from one form to another, but cannot be created nor destroyed
-3 - Market | 2 - Entropy will always increase over time
-4 - Natural | 0 - If 2 systems are in thermal equilibrium with a 3rd system, then they are in equilibrium with each other
+3 - Natural | 0 - If 2 systems are in thermal equilibrium with a 3rd system, then they are in equilibrium with each other
+4 - Market | 2 - Entropy will always increase over time
 
 
-{{< i s="/graphics/econ/value.png" a="Laws of Value" >}}
+{{< i s="/graphics/econ/laws.jpg" a="Laws of Value" >}}
 
 We see that the organization of Physics laws are just as messy as those of Economics. This is because they were created withoutt knowing the metaphysics of how things work. 
 
@@ -134,6 +134,7 @@ We find that these four laws match the four factors of our [DCIT model](/posts-p
 7/2021 | overhauled to base everything on the four laws
 2/2022 | Added the four classes (Worker, Warrior, Philosopher, Merchant) onto the four laws
 3/2024 | Put the 4th Law as the 2nd to explain the priorness of politics over economics, or Supersociology over Supereconomics
-8/2024 | Put the 4th Law back as the 4th Law after connecting it again with Thermodynamics
+8/2024 | Put the 4th Law as the 3rd Law after connecting it again with Thermodynamics
 {{< /dc >}}  
+
 

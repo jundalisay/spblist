@@ -42,29 +42,28 @@ paginate = 12
         weight = 5
     [[languages.en.menu.main]]
         name = "Economics"
-        # name = "/icons/specon.png"
         url = "social/economics/"
         weight = 6
     [[languages.en.menu.main]]
         name = "Spiritual"
-        # name = "/icons/spi.png"
         url = "spiritual/"
         weight = 7
     [[languages.en.menu.main]]
         name = "Cycles"
-        # name = "/icons/cycles.png"
         url = "social/cycles/"
         weight = 9
     [[languages.en.menu.main]]
         name = "FAQs"
-        # name = "/icons/question.png"
-        url = "faqs/"
+        url = "faqs"
         weight = 11
     [[languages.en.menu.main]]
         name = "News"
-        # name = "/icons/about.png"
-        url = "news/"
+        url = "news"
         weight = 13
+    [[languages.en.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 14
     [[languages.en.menu.main]]
         name = "Help!"
         # name = "/icons/heart.png"

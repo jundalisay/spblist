@@ -102,7 +102,8 @@ This is explained in the biology of Rene Descartes, wherein humans detect:
 
 From the heart, [the animal spirits go to the pineal gland](/research/descartes/man/section-30) in the brain which is the basis of the ajna chakra in Hinduism.  
 
-{{< img src="/photos/med/meditate.jpg" alt="Meditation" cap="Humans can 'see' the Elemental Universe through their ajna chakra. It can be 'felt' through the heart chakra and others">}}
+{{< img src="/photos/psych/meditate.jpg" alt="Meditation" cap="Humans can 'see' the Elemental Universe through their ajna chakra. It can be 'felt' through the heart chakra and others">}}
+
 
 Our preferred technique is to meditate with your back touching against a large tree. This creates a physical contact connection with your spine and the tree which then has connections to the Earth and the Elemental Universe. 
 
@@ -110,8 +111,7 @@ An important part is to hold the proper mudra to let the aethereal energy circul
 - pranayama open handed (in the photo above)
 - right hand over left hand* (not interlocking) with thumb touching and hands on the navel area  
 
-> *Left over right hand emits energy
-
+{{< f f="*Left over right hand emits energy" >}}
 
 
 Another way, though far less effective or sustainable, is through the use of psychedelics. These alter the brain in order to allow the perception of the other layers of reality. However, this also might cause physical damage, aside from building dependence, and so it is not recommended. 

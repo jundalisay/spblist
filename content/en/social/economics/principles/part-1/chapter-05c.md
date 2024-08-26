@@ -1,6 +1,5 @@
 ---
 heading: "Chapter 5c"
-linkTitle: Chapter 5c
 title: "Maximized Agriculture"
 date: 2023-01-15
 weight: 25
@@ -12,12 +11,16 @@ writer:
 ---
 
 
-The lockdowns during Covid and the war between Russia and Ukraine have caused food to be inaccessible and food prices to increase. 
+Aside from water, electricity and telecommunications, food is an essential minimum requirement for modern humans. 
 
-This has led to nutrition deficiency among the poor, as well as slow growth in the food service and food processing industry. 
+<!-- The lockdowns during Covid and the war between Russia and Ukraine have caused food to be inaccessible and food prices to increase. 
+
+This has led to nutrition deficiency among the poor, as well as slow growth in the food service and food processing industry.  -->
 
 
-## The Global Food Inflation Proves Market Liberalization is Flawed
+### The Global Food Inflation Proves Market Liberalization is Flawed
+
+The current economic system is unable to prevent hunger because it relies on market forces. 
 
 According to the doctrine of free markets, the inflation of food prices should attract capital to either food production or food distribution in order to create competition and reduce prices. 
 
@@ -32,9 +35,7 @@ In the case of the Philippines, the whales chose to strike early at the start of
 
 To solve the problems caused by market forces in agriculture, we introduce a new paradigm called *Maximized Agriculture* which implements the principles of *Agricultural Supereconomics*. 
 
-{{< box >}}
-### What is Agricultural Supereconomics?
-
+{{< dc t="What is Agricultural Supereconomics?" >}}
 Agricultural Supereconomics applies the Four Laws of Supereconomics onto agriculture. 
 
 Moreover, it connects the following knowledge-groups:
@@ -44,7 +45,7 @@ Moreover, it connects the following knowledge-groups:
 - agriculture to economics via Supereconomics
 
 This is very different from Agriculture Economics which only deals with market prices and supply and demand of agricultural products
-{{< /box >}} 
+{{< /dc >}} 
 
 
 ## Principles of Maximized Agriculture

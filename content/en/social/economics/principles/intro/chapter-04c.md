@@ -3,7 +3,7 @@ heading: "Chapter 4c"
 linkTitle: Chapter 4c
 title: "The Four Kinds of Exchangeable Value from Relativistic Pricing"
 # date: 2022-03-26
-image: /graphics/econ/value.png
+image: /graphics/econ/laws.jpg
 weight: 15
 description: "The previous part explained that exchangeable value has different perspectives and scopes"
 writer:
@@ -36,9 +36,8 @@ Price | Perspective | Scope
 --- | --- | ---
 1 Nominal Price | Buyer | Personal
 2 Real Price | Seller | Personal
-3 Market Price | Seller | Social
-4 Natural Price | Seller | Social
-
+3 Natural Price | Seller | Social
+4 Market Price | Seller | Social
 
 
 ### The Paradox of Value in Economics Leading to Sinister Profit Maximization

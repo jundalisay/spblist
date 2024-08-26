@@ -32,6 +32,15 @@ Sometimes, we find a better arrangement for the content and we transfer them or 
 
 
 {{< r a="Asker" >}}
+How environmentally-friendly is your website?
+{{< /r >}}
+
+{{< l a="Superphysics" >}}
+We to reduce the size of our images to under 100kb and avoid React. We will try to optimize the Tailwind CSS load in the future. For now most of our pages are `B` or `A` rating in websitecarbon.com: https://www.websitecarbon.com/website/superphysics-org-social-cycles-russia/
+{{< /l >}}
+
+
+{{< r a="Asker" >}}
 I want you to explain a certain phenomenon using your Superphysics, or simplify a scientific work of a 16th century author. 
 
 Or I want to validate whether a claim or idea by an inventor, such as a Star Trek style replicator that disassembles and reassembles atoms, will be possible in Superphysics. 

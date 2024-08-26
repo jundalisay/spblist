@@ -71,7 +71,11 @@ Then next in their domestic life, they cultivated mundane knowledge and spiritua
 So the people of the orient could not but be spiritual in their thoughts and actions. Whereas there is, in the western system of education, a clear and unilateral emphasis on mundane knowledge. So to build up an ideal human society in the future, the balanced emphasis on the two is indispensable.
 
 
-We should remember that morality, spirituality and humanity, and a happy blending of occidental extroversial science and oriental introversial philosophy is the very foundation of our system of education. Unlike Rudyard Kipling who wrongly observed that “East is East and West is West, and never the twain shall meet,” Ananda Marga believes in one universal society with one ideology and one cosmic goal.
+We should remember that morality, spirituality and humanity, and a happy blending of occidental extroversial science and oriental introversial philosophy is the very foundation of our system of education. 
+
+Rudyard Kipling rongly observed that “East is East and West is West, and never the twain shall meet”.
+
+Ananda Marga believes in one universal society with one ideology and one cosmic goal.
  
 
 <!-- Shrii P R Sarkar

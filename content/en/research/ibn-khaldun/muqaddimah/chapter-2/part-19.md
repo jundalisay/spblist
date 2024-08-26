@@ -27,11 +27,15 @@ Glory also depends upon a detail that completes and perfects its existence.
 
 That detail is an individual's personal qualities. 
 
-Royal authority is a goal of group feeling. Thus, it is likewise a goal of the perfecting details, namely, the (personal)
-qualities. The existence of royal authority without the simultaneous existence of the perfecting details would be like the existence of a person with his limbs cut off, or it would be like appearing naked before people.
+Royal authority is a goal of group feeling. 
 
-The existence of group feeling without the practice of praiseworthy qualities would be a defect among people who possess a "house" and prestige. All the more so would it be a defect in men who are invested with royal authority, the greatest
-possible kind of glory and prestige. 
+Thus, it is likewise a goal of the perfecting details, namely, the personal qualities.
+
+The existence of royal authority without the simultaneous existence of the perfecting details would be like the existence of a person with his limbs cut off, or it would be like appearing naked before people.
+
+The existence of group feeling without the practice of praiseworthy qualities would be a defect among people who possess a "house" and prestige.
+
+All the more so would it be a defect in men who are invested with royal authority, the greatest possible kind of glory and prestige. 
 
 Political and royal authority are God's guarantee to mankind and serve as a representation of God among men with respect to His laws.
 

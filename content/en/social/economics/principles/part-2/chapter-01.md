@@ -28,7 +28,7 @@ The Second Law of Value states that **value goes from areas with high value to a
 
 We simplify this to: **value is created to remove the lack in society.** 
 
-This mirrors the Third Law of Thermodynamics that states that energy goes from hot to cold to equalize the heat, or that organized systems become unstable as time passes. 
+This mirrors the First Law of Thermodynamics, known as the law of conservation of energy*. That law states that energy cannot be destroyed. Instead, it merely changes forms.
 
 It also leads to the concept of economic development just as the thermodynamics law leads to the concept of time*.
 

@@ -9,10 +9,7 @@ module.exports = {
       "layouts/**/*.html",
       "config.toml",
       "content/**/*.html",
-      "assets/js/search.js",
-      "exampleSite/layouts/**/*.html",
-      "exampleSite/config.toml",
-      "exampleSite/content/**/*.html",
+      "assets/js/search.js"
     ],
   },
   darkMode: "class",
@@ -108,3 +105,5 @@ module.exports = {
   },
   plugins: [require("@tailwindcss/typography")],
 };
+
+

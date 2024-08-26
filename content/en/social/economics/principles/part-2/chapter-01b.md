@@ -44,7 +44,10 @@ The real price of everything.. is the toil and trouble of acquiring it. What eve
 
 Toil and trouble are not objective. 
 
-Person A who has no interest learning how to play the guitar (who we shall call 'Guitar Hater') might 'toil' a lot if forced to learn guitar, compared to Person B ('Guitar Lover') who naturally likes it. Therefore, the 'high toil' or suffering of Guitar Hater in learning guitar is consistently high always and everywhere he is. Likewise, the low toil or suffering of Guitar Lover in learning guitar is consistently low always and anywhere he is. 
+- Person A (aka 'Guitar Hater') has no interest in playing the guitar. He might 'toil' a lot if forced to learn the guitar.
+- Person B (aka 'Guitar Lover') naturally loves guitars.
+
+Therefore, the 'high toil' or suffering of Guitar Hater in playing the guitar is consistently high always and everywhere he is. Likewise, the low toil or suffering of Guitar Lover in playing the guitar is consistently low always and anywhere he is. 
 
 This is evident in Smith's maxim:
 
@@ -56,9 +59,9 @@ At all times and places that is dear which it is difficult to come at, or which 
 
 ## Enter Cartesian Relativity and the Constant of Personal Interest
 
-Thus, the 'cost' or 'price' of guitar learning will be consistently 'expensive' to Guitar Hater but consistently 'cheap' to Guitar Lover. 
+Thus, the 'cost' or 'price' of guitar playing will be consistently 'expensive' to Guitar Hater but consistently 'cheap' to Guitar Lover. 
 
-If their society naturally values guitar music, then Guitar Hater will be 'poor', while Guitar Lover will be 'wealthy' especially since he can 'arbitrage' his high quality but cheaply-earned guitar skill by selling it to society at a price that is high to them.  
+If their society naturally values guitar music, then Guitar Hater will be 'poor', while Guitar Lover will be 'wealthy' especially since he can 'arbitrage' his high quality but cheaply-earned guitar skill by selling it to society at a price that is high to them.
 
 {{< img src="https://socioecons.files.wordpress.com/2017/07/playinggtr_1.jpg" alt="Guitar-playing" cap="Playing instruments is easy for some, hard for others" >}}
 
@@ -66,7 +69,6 @@ If their society naturally values guitar music, then Guitar Hater will be 'poor'
 So the core idea in Smith's theory is psychological toil and trouble instead of physical labour. 
 
 To establish this core idea, we replace 'Labour theory of value' with 'Effort Theory of Value' since the word 'effort' best combines both psychological and emotional toil and trouble with physical work. 'Work Theory of Value' was also a good candidate. However, 'work' tends to mean more of the effect rather than the cause.
-
 
 
 {{< dc t="A new way of thinking" >}}

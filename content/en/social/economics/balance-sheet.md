@@ -150,7 +150,13 @@ At its cheapest and most natural form, a points-system only needs a verbal agree
 
 If a moneyless system is so cheap, then why did the money system replace it?
 
-A moneyless system is cheap. But it requires a certain level of morality. If that morality fluctuates, then the whole system becomes less reliable. This is why the precolonial governments that used this imposed morals such as 'ayni' in Inca and 'bayanihan' in the Philippines. 
+A moneyless system is cheap. **But it requires a certain level of morality**. If that morality fluctuates, then the whole system becomes less reliable. 
+
+If John became selfish and forgets about what he owes to Joe, then it would be an injustice to Joe, and Joe would simply stop using the system. 
+
+This is why the precolonial governments that used this system imposed morals such as:
+- 'ayni' in the Inca
+- 'bayanihan' in the Philippines
 
 The Europeans did not have a solid moral system and so they used money and treasure instead. They then imposed their system onto the world through the colonial system. 
 
@@ -190,6 +196,5 @@ For example, an Arab sheik has 100 million dollars and personally knows very few
 
 The cash saved by the points-system will be used to grow the global economy. 
 
-This is explained [here](/social/economics/principles/part-4/chapter-09b).
-
+This is explained [here](/social/economics/principles/part-3/chapter-09b).
 

@@ -16,6 +16,10 @@ Riverside plantations are important for:
 - regulating the flow of water in rivers
 - keeping soil moist and fertile. 
 
+
+![Flood](/photos/physics/flood.jpg)
+
+
 Some examples of plants which are useful riverside trees include banyan, date palm, neem or margosa, tamarind, simul, imli and fruit trees. If horticulture is developed along the banks of rivers, the rivers will never dry up.
 
 Most trees with tap root systems do not alleviate riverside erosion, but eucalyptus is an exception. Trees with tap roots draw water from deep under the ground. Many tap root trees growing in an area can lower the water table and deprive other plants of water, and this can be an additional factor in the creation of desert conditions. 

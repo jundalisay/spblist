@@ -13,7 +13,7 @@ writer:
 
 <!-- The principal objective factors which influence the propensity to consume are:  -->
 
-## 1. A change in the hourly-common-wage
+### 1. A change in the hourly-common-wage
 
 Consumption `C` is obviously much more a function of (in some sense) real income than of money-income. 
 
@@ -29,31 +29,41 @@ But sometimes, we may have to make an allowance for the possible reactions on ag
 
 Apart from this, we have already allowed for changes in the wage-unit by defining the propensity to consume in terms of income measured in terms of wage-units. 
 
-## 2. A change in the difference between income and net income. 
+
+### 2. A change in the difference between income and net income. 
 
 The amount of consumption depends on net income rather than on income. This is because a man bases his consumption on his net income. 
 
 <!-- In a given situation there may be a somewhat stable relationship between the two, in the sense that there will be a function uniquely relating different levels of income to the corresponding levels of net income.  -->
 
-If, however, this should not be the case, such part of any change in income as is not reflected in net income must be neglected since it will have no effect on consumption; 
+If, however, this should not be the case, such part of any change in income as is not reflected in net income must be neglected since it will have no effect on consumption.
+
+Similarly, a change in net income, not reflected in income, must be allowed for. 
+<!-- Save in exceptional circumstances, however,  -->
+- I doubt the practical importance of this factor. 
+
+<!-- We will return to a fuller discussion of the effect on consumption of the difference between income and net income in the fourth section of this chapter.  -->
 
 
-Similarly, a change in net income, not reflected in income, must be allowed for. Save in exceptional circumstances, however, I doubt the practical importance of this factor. We will return to a fuller discussion of the effect on consumption of the difference between income and net income in the fourth section of this chapter. 
-
-
-## 3. Windfall changes in capital-values not allowed for in calculating net income.
+### 3. Windfall changes in capital-values not allowed for in calculating net income.
 
 These are much more important in modifying the propensity to consume, since they will bear no stable or regular relationship to the amount of income. 
 
 The consumption of the wealth-owning class may be extremely susceptible to unforeseen changes in the money-value of its wealth. This should be classified amongst the major factors capable of causing short-period changes in the propensity to consume. 
 
-## 4. Changes in the rate of time-discounting
+
+### 4. Changes in the rate of time-discounting
 
 This is the ratio of exchange between present goods and future goods.
 
-This is not quite the same thing as the rate of interest, since it allows for future changes in the purchasing power of money in so far as these are foreseen. Account has also to be taken of all kinds of risks, such as the prospect of not living to enjoy the future goods or of confiscatory taxation. 
+This is not quite the same thing as the interest rate since it allows for future changes in the purchasing power of money in so far as these are foreseen. 
 
-As an approximation, however, we can identify this with the rate of interest. The influence of this factor on the rate of spending out of a given income is open to a good deal of doubt. For the classical theory of the rate of interest,[1] which was based on the idea that the rate of interest was the factor which brought the supply and demand for savings into equilibrium, it was convenient to suppose that expenditure on consumption is cet. par. negatively sensitive to changes in the rate of interest, so that any rise in the rate of interest would appreciably diminish consumption. 
+Account has also to be taken of all kinds of risks, such as the prospect of not living to enjoy the future goods or of confiscatory taxation. 
+
+As an approximation, however, we can identify this with the rate of interest. The influence of this factor on the rate of spending out of a given income is open to a good deal of doubt. 
+
+The classical theory of interest rate [1] was based on the idea that the interest rate was the factor which brought the supply and demand for savings into equilibrium.
+- It was convenient to suppose that expenditure on consumption is cet. par. negatively sensitive to changes in the rate of interest, so that any rise in the rate of interest would appreciably diminish consumption. 
 
 The total effect of changes in interest rates on the readiness to spend on present consumption is complex and uncertain, being dependent on conflicting tendencies, since some of the subjective motives towards saving will be more easily satisfied if the rate of interest rises, whilst others will be weakened. 
 
@@ -69,23 +79,47 @@ For if a man is enjoying a windfall increment in the value of his capital, it is
 
 Apart from this, the main conclusion suggested by experience is, I think, that the short-period influence of the rate of interest on individual spending out of a given income is secondary and relatively unimportant, except, perhaps, where unusually large changes are in question. 
 
-When the rate of interest falls very low indeed, the increase in the ratio between an annuity purchasable for a given sum and the annual interest on that sum may, however, provide an important source of negative saving by encouraging the practice of providing for old age by the purchase of an annuity. The abnormal situation, where the propensity to consume may be sharply affected by the development of extreme uncertainty concerning the future and what it may bring forth, should also, perhaps, be classified under this heading. 
+When the rate of interest falls very low indeed, the increase in the ratio between an annuity purchasable for a given sum and the annual interest on that sum may, however, provide an important source of negative saving by encouraging the practice of providing for old age by the purchase of an annuity. 
 
-## 5. Changes in fiscal policy
+The abnormal situation, where the propensity to consume may be sharply affected by the development of extreme uncertainty concerning the future and what it may bring forth, should also, perhaps, be classified under this heading. 
+
+
+### 5. Changes in fiscal policy
 
 In so far as the inducement to the individual to save depends on the future return which he expects, it clearly depends not only on the rate of interest but on the fiscal policy of the Government.
 
-Income taxes, especially when they discriminate against “unearned” income, taxes on capital-profits, death-duties and the like are as relevant as the rate of interest; whilst the range of possible changes in fiscal policy may be greater, in expectation at least, than for the rate of interest itself. If fiscal policy is used as a deliberate instrument for the more equal distribution of incomes, its effect in increasing the propensity to consume is, of course, all the greater.[2] 
+Income taxes, especially when they discriminate against “unearned” income, taxes on capital-profits, death-duties and the like are as relevant as the interest rate.
 
-We must also take account of the effect on the aggregate propensity to consume of Government sinking funds for the discharge of debt paid for out of ordinary taxation. For these represent a species of corporate saving, so that a policy of substantial sinking funds must be regarded in given circumstances as reducing the propensity to consume. It is for this reason that a change-over from a policy of Government borrowing to the opposite policy of providing sinking funds (or vice versa) is capable of causing a severe contraction (or marked expansion) of effective demand. 
+The range of possible changes in fiscal policy may be greater, in expectation at least, than for the interest rate itself. 
 
-## 6. Changes in expectations of the relation between the present and the future level of income. 
+If fiscal policy is used as a deliberate instrument for the more equal distribution of incomes, its effect in increasing the propensity to consume is all the greater.[2] 
 
-We must catalogue this factor for the sake of formal completeness. But, whilst it may affect considerably a particular individual’s propensity to consume, it is likely to average out for the community as a whole. Moreover, it is a matter about which there is, as a rule, too much uncertainty for it to exert much influence. We are left therefore, with the conclusion that in a given situation the propensity to consume may be considered a fairly stable function, provided that we have eliminated changes in the wage-unit in terms of money. 
+We must also take account of the effect on the aggregate propensity to consume of Government sinking funds for the discharge of debt paid for out of ordinary taxation. 
 
-Windfall changes in capital-values will be capable of changing the propensity to consume, and substantial changes in the rate of interest and in fiscal policy may make some difference; but the other objective factors which might affect it, whilst they must not be overlooked, are not likely to be important in ordinary circumstances. 
+These represent a species of corporate saving, so that a policy of substantial sinking funds must be regarded in given circumstances as reducing the propensity to consume.
 
-The fact that, given the general economic situation, the expenditure on consumption in terms of the wage-unit depends in the main, on the volume of output and employment is the justification for summing up the other factors in the portmanteau function “propensity to consume”. For whilst the other factors are capable of varying (and this must not be forgotten), the aggregate income measured in terms of the wage-unit is, as a rule, the principal variable upon which the consumption-constituent of the aggregate demand function will depend. 
+This is why a change-over from a policy of Government borrowing to the opposite policy of providing sinking funds (or vice versa) can cause a severe contraction (or marked expansion) of effective demand. 
+
+
+### 6. Changes in expectations of the relation between the present and the future level of income. 
+
+We must catalogue this factor for the sake of formal completeness.
+
+It may affect considerably a particular individual’s propensity to consume. But it is likely to average out for the community as a whole.
+
+Moreover, it is a matter about which there is, as a rule, too much uncertainty for it to exert much influence. 
+
+We are left therefore, with the conclusion that in a given situation the propensity to consume may be considered a fairly stable function, provided that we have eliminated changes in the wage-unit in terms of money. 
+
+Windfall changes in capital-values can change the propensity to consume. Substantial changes in the interest rate and in fiscal policy may make some difference.
+
+But the other objective factors which might affect it are not likely to be important ordinarily. 
+
+The expenditure on consumption in terms of the wage-unit generally depends on the volume of output and employment.
+
+This justifies summing up the other factors in the portmanteau function “propensity to consume”. 
+
+The other factors can vary. But the aggregate income measured in terms of the wage-unit is, as a rule, the principal variable on which the consumption-constituent of the aggregate demand function will depend. 
 
 ---
 <!-- ## 3: -->
@@ -100,7 +134,9 @@ If `Cw` is the amount of consumption and `Yw` is income (both measured in wage-u
 
 This is especially the case where we have short periods in view, as in the case of the so-called cyclical fluctuations of employment during which habits, as distinct from more permanent psychological propensities, are not given time enough to adapt themselves to changed objective circumstances. 
 
-For a man’s habitual standard of life usually has the first claim on his income, and he is apt to save the difference which discovers itself between his actual income and the expense of his habitual standard; or, if he does adjust his expenditure to changes in his income, he will over short periods do so imperfectly. Thus a rising income will often be accompanied by increased saving, and a falling income by decreased saving, on a greater scale at first than subsequently. 
+For a man’s habitual standard of life usually has the first claim on his income, and he is apt to save the difference which discovers itself between his actual income and the expense of his habitual standard; or, if he does adjust his expenditure to changes in his income, he will over short periods do so imperfectly. 
+
+Thus a rising income will often be accompanied by increased saving, and a falling income by decreased saving, on a greater scale at first than subsequently. 
 
 But, apart from short-period changes in the level of income, it is also obvious that a higher absolute level of income will tend, as a rule, to widen the gap between income and consumption. For the satisfaction of the immediate primary needs of a man and his family is usually a stronger motive than the motives towards accumulation, which only acquire effective sway when a margin of comfort has been attained. 
 

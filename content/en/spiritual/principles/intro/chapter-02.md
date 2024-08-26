@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 1"
-title: "The Different Religions"
+title: "The Different Religions and Belief Systems"
 date: 2024-07-15
 image: "/photos/meta/isaiah.jpg"
 description: "The 10 virtues are based on Yama and Niyama"
@@ -11,7 +11,15 @@ icon: /icons/spi.png
 ---
 
 
-We define religions as organized belief systems that have the following components:
+A belief system is a logical collection of related ideas that the ego can adopt and attach itself to. 
+
+We define religions as organized belief systems that are based on fear due to ignorance of how Nature works. 
+
+Science-based beliefs, such as Marxism, overcome fear by their belief in science. This is why they, and science-based beliefs, are technically not religions. 
+
+We classify Vedic, Taoist, and Buddhist belief-systems also as non-religions because they have their own 6-sense science to overcome the ignorance and fear of Nature. 
+
+Organized belief systems and religions have the following components:
 
 1. A founder
 2. Scripture from the founder
@@ -81,7 +89,7 @@ Organization | Shia Governments
 The Persians and non-Arabs adopted Islam because of the decline of their own Empire. However, they created a different version called Shia to separate them from Arab control. 
 
 
-## The Religion of the Vedics: Hinduism
+## The Belief System of the Vedics: Hinduism
 
 Founder | Aryans
 --- | --- 
@@ -93,7 +101,7 @@ Organization | Vedic Temples
 The Vedas are the basis of Hinduism. In time, because of its long age, it naturally becomes dogmatic. 
 
 
-## The Religion of the Anti-Vedics: Buddhism
+## The Belief System of the Anti-Vedics: Buddhism
 
 Founder | Buddha
 --- | --- 
@@ -105,7 +113,7 @@ Organization | Buddhist Sangha
 Buddha was keen to notice the dogmas in Hinduism, so he created an overhauled version called Buddhism. While the Vedas emphasized the atman, Buddha did away with it completely. 
 
 
-## The Religion of the Spiritual Chinese: Taoism
+## The Belief System of the Spiritual Chinese: Taoism
 
 Founder | Lao Tzu ?
 --- | --- 
@@ -120,7 +128,7 @@ The spiritual systems of the non-Vedic Indians, specifically Tantra, made their 
 Instead of Shiva-Shakti, it uses Yang-Yin.  
 
 
-## The Religion of the Political Chinese: Confucianism
+## The Belief System of the Political Chinese: Confucianism
 
 Founder | Confucius
 --- | --- 
@@ -136,7 +144,7 @@ This is similar to Roman jurisprudence where laws and interpretations of laws ar
 In essence, this raises the mental level to the spatial layer. 
 
 
-## The Religion of the Masses: Marxism
+## The Belief System of the Masses: Marxism
 
 Founder | Marx-Engels
 --- | --- 
@@ -148,7 +156,7 @@ The industrial revolution in Europe created a huge inequality, increasing the nu
 These found comfort and promise in Marxism. 
 
 
-## The Religion of the Russian Masses: Leninism
+## The Belief System of the Russian Masses: Leninism
 
 Founder | Lenin
 --- | --- 
@@ -158,7 +166,7 @@ Organization | Russian Government
 Unlike the original Marxism which was economic and social in nature, the version adopted by Lenin emphasized the military aspects, leading to the Red Army.  
 
 
-## The Religion of the German Masses: Nazism
+## The Belief System of the German Masses: Nazism
 
 Founder | Hitler
 --- | --- 
