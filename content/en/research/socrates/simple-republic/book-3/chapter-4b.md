@@ -11,15 +11,15 @@ icon: "/icons/socrates.png"
 {{< l a="Socrates" >}}
 The young men we called 'guardians' may more properly be designated as the rulers' auxiliaries and supporters. 
 
-An old Phoenician tale told of a useful lie. It said that the earth is our mother where we were manufactured in, and we were sent up from it. We should telll this useful lie gradually, first to the rulers, then to the soldiers, and lastly to the people. We will tell them that:
-- their youth was a dream,
-- the education and training which they received from us, an appearance only.
+An old Phoenician tale told of a useful lie. It said that the earth is our mother where we were manufactured in, and we were sent up from it. We should tell this useful lie gradually, first to the rulers, then to the soldiers, and lastly to the people. We will tell them that:
+- their youth was a dream
+- the education and training which they received from us, an appearance only
 - their land is their mother and nurse which they should defend
-- her citizens are the children of the land and their own brothers.
+- her citizens are the children of the land and their own brothers
 {{< /l >}}
 
 
-## Plato's Four Classes: Gold (Brahmin), Silver (Ksattriya), Brass (Vaesha), Iron (Shudra)
+### Socrates Does not Believe in the Caste System: Gold (Brahmin), Silver (Ksattriya), Brass (Vaesha), Iron (Shudra)
 <!-- The human species will generally be preserved in the children.
 But all are of the same original stock. -->
 

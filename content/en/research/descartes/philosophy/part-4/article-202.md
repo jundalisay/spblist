@@ -38,7 +38,7 @@ But his philosophy was rejected because:
    - I show that this is impossible
 
 3. He attributed gravity to these bodies.
-- I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other
+- I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
 
 <!-- , in so far as a body is considered by itself, because it is  -->
 
