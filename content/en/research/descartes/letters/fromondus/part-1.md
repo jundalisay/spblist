@@ -3,7 +3,7 @@ title: "Letter to Fromondus"
 date: 2024-08-28
 weight: 8
 description: "RESPONSE DE MR DESCARTES, à quelques Ojections de Monsieur Fromondus ; Contre sa Methode, sa Dioptrique, et ses Meteores."
-image: "/covers/man.jpg"
+image: "/covers/letters.png"
 ---
 
 
