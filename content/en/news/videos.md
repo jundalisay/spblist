@@ -1,6 +1,6 @@
 ---
 title: "Videos for Superphysics"
-date: 2024-08-20
+date: 2024-08-28
 # date: 2023-02-20
 description: "We list the events in the evolution of Superphysics from 2020-present"
 image: "/covers/2020.png"
@@ -12,9 +12,29 @@ type: "featured"
 
 Thanks to AI voices we can now make videos explaining Superhysics.
 
-Elastic Theory of Gravity
 
-{{< youtube IMOftV0yfso >}}
+Newton's Universal Law of Gravitation
+
+{{< youtube C7ipQX4YptA >}}
+
+
+
+Relativity: Length Contraction
+
+{{< youtube 9jVyoe8tiCI >}}
+
+
+
+Organic Levitation
+
+{{< youtube _Puf9huY-NI >}}
+
+
+
+Vortex Formation, Galaxy Rotation Curves,  and Inverse Square Law
+
+{{< youtube cQtvHmgQtng >}}
+
 
 
 Equivalence Principle 
@@ -127,3 +147,13 @@ Tiume Moves Forward Only
 Aetherspace, Timespace
 
 {{< youtube 6D9LNAgWbRE >}}
+
+
+Consciousness and Samadhi
+
+{{< youtube lISLgasNjHk >}}
+
+
+Elastic Theory of Gravity
+
+{{< youtube IMOftV0yfso >}}

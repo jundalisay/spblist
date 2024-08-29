@@ -222,7 +222,7 @@ paginate = 12
       title = "The Metaphysics of Value and the Four Laws of Value"
       sub = "We systematize all Economics concepts neatly under the Four Laws which mirror the Four Laws of Thermodynamics"
     [languages.en.params.tricon8.items.c]
-      url = "/social/economics/principles/part-4/chapter-07d/"
+      url = "/social/economics/principles/part-3/chapter-07d/"
       img = "/graphics/econ/dcti.jpg"
       title = "NDP as an alternative to GDP"
       sub = "See how finance-less Net Domestic Product creates a more accurate picture of an economy than GDP"
