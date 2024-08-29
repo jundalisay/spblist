@@ -12,11 +12,11 @@ writer:
 
 
 
-### 29. Conceive the surface AA, which faces the concavities EE. 
+### 29. Conceive the surface `AA`, which faces the concavities `EE`. 
 
 It is like a fairly expanded, dense, and intricately woven plexus, resembling a mesh of crosshatched texture.
 
-Each of its filaments is a tube which the spirits enter. 
+Each of its filaments is a tube which the spirits enter.
 
 The spirits emanate from gland H. They can easily turn themselves here and there to the different points of that gland, being differently oriented in figure 48 than in 49. 
 

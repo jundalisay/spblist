@@ -11,9 +11,11 @@ writer:
 ---
 
 
-### 30. The spirits flow out from gland H from the marked figure M after they have dilated the part of the brain marked A and all pores are opened. 
+### 30. The spirits flow out from gland `H` from the marked figure `M` after they have dilated the part of the brain marked `A` and all pores are opened. 
 
-They then withdraw from there to B, then to C, and finally towards D, from where they spread into all the nerves. 
+They then withdraw from there to `B`, then to `C`, and finally towards `D`, from where they spread into all the nerves.
+
+{{< i s="/graphics/bio/brain.jpg" a="Brain" >}}
 
 In this way, all the filaments from which the nerves and brain are composed are so closely connected that even actions of very slight force in moving are easily communicated from one end to the other.
 
