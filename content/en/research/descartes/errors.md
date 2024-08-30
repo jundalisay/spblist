@@ -5,6 +5,9 @@ description: "We list down the errors of Descartes so we can bring back an error
 image: "/covers/fallacies.png"
 ---
 
+We test Descartes' assertions just as we tested Einsein's and Keynes' to expose his factual errors. 
+
+
 n | Source | Error | Reality
 --- | --- | --- | ---
 1 | Principia Part 3, 154 | Saturn does not rotate so much | Saturn rotates quickly

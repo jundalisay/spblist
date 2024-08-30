@@ -19,21 +19,38 @@ I wrote this Treatise during my sojourn in France 12 years ago.
 I communicated it in 1678 to the Royal Academy of Science and to the King. 
 <!-- , to the membership of which the King had done me the honour of calling, me.  -->
 
-Several of its members who are still alive will remember having been present when I read it, and above the rest those amongst them who applied themselves particularly to the study of Mathematics; of whom I cannot cite more than the celebrated gentlemen Cassini, Römer, and De la Hire.
+<!-- Several of its members who are still alive will remember having been present when I read it, and above the rest those amongst them who applied themselves particularly to the study of Mathematics; of whom I cannot cite more than the celebrated gentlemen Cassini, Römer, and De la Hire.
 
-I have since corrected and changed some parts, the copies which I had made of it at that time may serve for proof that I have yet added nothing to it save some conjectures touching the formation of Iceland Crystal, and a novel observation on the refraction of Rock Crystal. 
+I have since corrected and changed some parts, the copies which I had made of it at that time may serve for proof that I have yet added nothing to it save some -->
 
-I have desired to relate these particulars to make known how long I have meditated the things which now I publish, and not for the purpose of detracting from the merit of those who, without having seen anything that I have written, may be found to have treated [Pg vi]of like matters: as has in fact occurred to two eminent Geometricians, Messieurs Newton and Leibnitz, with respect to the Problem of the figure of glasses for collecting rays when one of the surfaces is given.
+I have added conjectures on:
+- the formation of Iceland Crystal
+- a novel observation on the refraction of Rock Crystal. 
+
+I have desired to relate these particulars to make known how long I have meditated the things which now I publish, and not for the purpose of 
+
+I added these not to detract from the work of Newton and Leibnitz on lenses.
+- They have not seen my work
+
+
+<!-- the merit of those who, without having seen anything that I have written, may be found to have treated of like matters: as has in fact occurred to two eminent Geometricians, Messieurs Newton and Leibnitz, with respect to the Problem of the figure of glasses for collecting rays when one of the surfaces is given.
 
 I have delayed to bring this work to the light for so long because I wrote it rather carelessly in the Language in which it appears, with the intention of translating it into Latin, so doing in order to obtain greater attention to the thing. 
 
 After which I proposed to myself to give it out along with another Treatise on Dioptrics, in which I explain the effects of Telescopes and those things which belong more to that Science. But the pleasure of novelty being past, I have put off from time to time the execution of this design, and I know not when I shall ever come to an end if it, being often turned aside either by business or by some new study. 
 
-Considering which I have finally judged that it was better worth while to publish this writing, such as it is, than to let it run the risk, by waiting longer, of remaining lost.
+Considering which I have finally judged that it was better worth while to publish this writing, such as it is, than to let it run the risk, by waiting longer, of remaining lost. -->
 
-There will be seen in it demonstrations of those kinds which do not produce as great a certitude as those of Geometry, and which even differ much therefrom, since whereas the Geometers prove their Propositions by fixed and incontestable Principles, here the Principles are verified by the conclusions to be drawn from them; the nature of these things not allowing of this being done otherwise.
+Geometry produces the most certain results. 
 
-It is always possible to attain thereby to a degree of probability which very often is scarcely less than complete proof. 
+<!-- There will be seen in it demonstrations of those kinds which do not produce as great a certitude as those of Geometry, and which even differ much therefrom, since whereas the Geometers prove their Propositions by fixed and incontestable Principles,  -->
+
+
+And so my Principles are based on geometry. 
+
+<!--  verified by the conclusions to be drawn from them; the nature of these things not allowing of this being done otherwise.
+
+It is always possible to attain thereby to a degree of probability which very often is scarcely less than complete proof.  -->
 
 To wit, when things which have been demonstrated by the Principles that have been assumed correspond perfectly to the phenomena which experiment has brought under observation; especially when there are a great number of them, and further, principally, when one can imagine and foresee new phenomena which ought to follow from the hypotheses which one employs, and when one finds that therein the fact corresponds to our prevision. 
 
@@ -50,7 +67,9 @@ Finally, there remains much more to be investigated touching the nature of Light
 
 ## NOTE BY THE TRANSLATOR
 
-Considering the great influence which this Treatise has exercised in the development of the Science of Optics, it seems strange that two centuries should have passed before an English edition of the work appeared. Perhaps the circumstance is due to the mistaken zeal with which formerly everything that conflicted with the cherished ideas of Newton was denounced by his followers. The Treatise on Light of Huygens has, however, withstood the test of time: and even now the exquisite skill with which he applied his conception of the propagation of waves of light to unravel the intricacies of the phenomena of the double refraction of crystals, and of the refraction of the atmosphere, will excite the admiration of the student of Optics. It is true that his wave theory was far from the complete doctrine as subsequently developed by Thomas Young and Augustin Fresnel, and belonged rather to geometrical than to physical Optics. 
+Considering the great influence which this Treatise has exercised in the development of the Science of Optics, it seems strange that two centuries should have passed before an English edition of the work appeared. 
+
+Perhaps the circumstance is due to the mistaken zeal with which formerly everything that conflicted with the cherished ideas of Newton was denounced by his followers. The Treatise on Light of Huygens has, however, withstood the test of time: and even now the exquisite skill with which he applied his conception of the propagation of waves of light to unravel the intricacies of the phenomena of the double refraction of crystals, and of the refraction of the atmosphere, will excite the admiration of the student of Optics. It is true that his wave theory was far from the complete doctrine as subsequently developed by Thomas Young and Augustin Fresnel, and belonged rather to geometrical than to physical Optics. 
 
 If Huygens had no conception of transverse vibrations, of the principle of interference, or of the existence of the ordered sequence of waves in trains, he nevertheless attained to a remarkably clear understanding of the principles of wave-propagation; and his exposition of the subject marks an epoch in the treatment of Optical problems.
 
