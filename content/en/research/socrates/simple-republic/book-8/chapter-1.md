@@ -9,6 +9,8 @@ icon: "/icons/socrates.png"
 ---
 
 
+{{< n n="We translate as δίκαιος as dharma (instead of justice) and άδικος as adharma (instead of injustice)">}}
+
 
 {{< l a="Socrates" >}}
 In the perfect State:
@@ -62,11 +64,11 @@ If the constitutions of States are five, the dispositions of individual minds wi
 
 
 {{< l a="Socrates" >}}
-Let us place the most just beside the most unjust so that we can compare:
-- the happiness of the person who lives in pure justice, and
-- the unhappiness the person living in pure injustice. 
+Let us place the most dharmic beside the most adharmic so that we can compare:
+- the happiness of the person who lives in pure dharma, and
+- the unhappiness the person living in pure adharma. 
 
-This will then help us choose whether to pursue justice, or to pursue injustice, as Thrasymachus advises. We shall follow our old plan and take the State first, then proceed to the individual.
+This will then help us choose whether to pursue dharma, or to pursue adharma, as Thrasymachus advises. We shall follow our old plan and take the State first, then proceed to the individual.
 {{< /l >}}
 
 
@@ -113,7 +115,7 @@ These make all the terms commensurable and agreeable to one another. The base of
 {{< /l >}}
 
 
-## Aristocracy is destryoed when the Four Castes become unequal
+## Aristocracy is destroyed when the Four Castes become unequal
 
 {{< l a="Socrates" >}}
 When your guardians are ignorant of the law of births, they will unite bride and bridegroom out of season. The children will not be goodly or fortunate. 
@@ -139,11 +141,10 @@ When discord arose, the two castes were drawn different ways:
 - The iron and brass fell to acquiring money, land, houses, gold and silver.
 - But the gold and silver* races, do not want money as they have true riches in their own nature. They inclined towards virtue and the ancient order of things.
 
-Previously, the upper caste formerly protected the freemen as their friends and maintainers. But there was a battle between the lower and the upper caste. In the end, the upper caste enslaved the freemen and then distributing their land and houses. The upper caste went to war against the freemen. 
+Previously, the upper caste formerly protected the freemen as their friends and maintainers. But there was a war between the upper and lower caste (freemen). In the end, the upper caste enslaved the freemen and then distributed their lands and houses.
 {{< /l >}}
 
-{{< n n="The iron became the democrats. The brass became the oligarchs. The silver became the tyrants. The gold became the aristocrats (philosophers). The upper caste therefore becomes an aristocracy, and the lower an oligarchy." >}}
-
+{{< n n="The iron are the workers or democrats. The brass are the warriors or leaders. The silver are the businessmen or oligarchs. The gold are the aristocrats (philosophers)" >}}
 
 
 {{< l a="Socrates" >}}
@@ -189,11 +190,11 @@ They have been schooled by force because they:
 
 {{< r a="Glaucon" >}}The form of government which you describe is a mix of good and evil.{{< /l >}}
 
-{{< l a="Socrates" >}}Only one thing is predominant—the spirit of contention and ambition. These are due to the prevalence of the willpower. How did the person in this government come into being? What is he like?
+{{< l a="Socrates" >}}Only one thing is predominant—**the spirit of contention and ambition**. These are due to the prevalence of the willpower. How did the person in this government come into being? What is he like?
   <!-- Such is the origin and character of this State. A sketch of it is enough to show the type of the most perfectly just and most perfectly unjust. It would be an interminable work to go through all the States and all the characters of men.  -->
 {{< /l >}}
 
-{{< r a="Adeimantus" >}}I think that in the spirit of contention which characterises him, he is like Glaucon.{{< /l >}}
+{{< r a="Adeimantus" >}}I think that he is like Glaucon in terms of spirit of contention.{{< /l >}}
 
 {{< l a="Socrates" >}}
 Perhaps, but he is very different in other respects. He should:

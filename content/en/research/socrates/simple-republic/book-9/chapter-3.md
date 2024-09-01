@@ -1,7 +1,7 @@
 ---
 title: "The Shadow of Shallow Pleasures"
 heading: "Chapter 3"
-weight: 1
+weight: 8
 image: "/covers/republic.jpg"
 description: "Shallow Pleasures are only a shadow compared to the real pleasures of philosophy and realization"
 author: "Socrates"

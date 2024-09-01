@@ -17,9 +17,9 @@ icon: "/icons/descartes.png"
 
 The Earth is now approaching the vicinity of the Sun.
 
-Its upper region consists of particles of the earth-aether not firmly connected but mingled with air-aether globules smaller than those found in the gravitational territory that it passes through or even in the one it will head into.
-
-These smaller globules rush with force toward the earth-aether particles and impact them.
+Its upper region consists of earth-aether particles that are not firmly connected.
+- These mingle with air-aether globules smaller than those found in the gravitational territory that it passes through or even in the one it will head into.
+- These smaller globules rush with force toward the earth-aether particles and impact them.
 
 With the help of the force of gravity, they displace the denser ones below. This creates irregular and varied structures that bind more tightly among themselves than the upper ones.
 

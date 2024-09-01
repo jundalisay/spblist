@@ -1,7 +1,7 @@
 ---
 title: "The Tyrannical Man"
 heading: "Chapter 1"
-weight: 1
+weight: 4
 image: "/covers/republic.jpg"
 description: "The Tyrannical Man emerges from the Democratic man"
 author: "Socrates"
@@ -120,7 +120,12 @@ As State is to State in virtue and happiness, so is man in relation to man. How 
 
 They are the opposite extremes, for one is the very best and the other is the very worst.
 
-We should not panic at the apparition of the tyrant. He is only a unit and may perhaps have a few retainers about him. A tyranny is the wretchedest form of government, and the rule of a king the happiest. The tyrannical nature dazzles people with pomp, like children. The judgment of the tyrant should be done by those who:
+We should not panic at the apparition of the tyrant. He is only a unit and may perhaps have a few retainers about him. 
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
+A tyranny is the wretchedest form of government, and the rule of a king the happiest. The tyrannical nature dazzles people with pomp, like children. The judgment of the tyrant should be done by those who:
 - are able to judge, and
 - have dwelt in the same place with him,
 - have been present at his daily life and known him in his family relations, where he may be seen stripped of his tragedy attire,
