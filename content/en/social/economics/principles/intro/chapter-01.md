@@ -22,6 +22,10 @@ The society-organism has a wave of desire that manifests as economic activity | 
 
 
 
+{{< youtube eEGJY4F6QKw >}}
+
+
+
 ## Economic Desire and Demand
 
 Buying and selling are rooted in desire. 

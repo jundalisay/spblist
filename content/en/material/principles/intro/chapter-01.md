@@ -51,7 +51,13 @@ Modern Physics came from Isaac Newton who came up with classical mechanics to ex
 Newton was very good at math and so he naturally had little knowledge of metaphysics. This is because math deals with counting discrete identities and particles such as `1`, `2`, `3` whereas metaphysics deals with abstract waves such as the feelings of `peace`, `prosperity`, and `love`.
 
 
-Notice how, when thinking about `1`, `2`, `3`, your awareness goes to your brain. Whereas, with `peace`, `prosperity`, and `love`, your awareness shifts to your heart, or at least away from your brain and onto the outside world. 
+Notice how, when thinking about `1`, `2`, `3`:
+- your awareness goes to your brain
+- your thinking becomes very granular, precise, and small.
+
+Whereas, when you think about `peace`, `prosperity`, and `love`:
+- your awareness shifts to your heart, or at least away from your brain and onto the outside world.
+- your thinking becomes wider, less precise, and large.  
 
 This is why Socrates said that the mathematician cannot possibly discover how the greater universe works. Rather, it is the dialectician who can.  
 
@@ -62,7 +68,7 @@ Surely the skilled mathematician is not a dialectician.
 
 This is consistent with great sages being bad at math:
 
-{{< q c="The Gospel of Ramakrishna" >}}
+{{< q a="M" c="The Gospel of Ramakrishna" >}}
 Sri Ramakrishna's greatest delight was to listen to stories from Hindu mythology and the epics. These he would
 afterwards recount from memory, to the great joy of the villagers. He enjoyed painting. **But arithmetic was his great aversion.**
 {{< /q >}}
