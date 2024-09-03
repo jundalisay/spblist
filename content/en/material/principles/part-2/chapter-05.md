@@ -88,7 +88,8 @@ In ancient natural philosophy, this was called the metaphysical 'Air' Element th
 
 Both qosts and mosts are made up of 4 aether particles that are flat, except for aetherspace particles which are linear and not flat. 
 
-{{< i s="/graphics/meta/aethershapes.jpg" a="Aether Shapes" c="The Spatial Layer particles have 4 aether particles" >}}
+{{< i s="/graphics/physics/quantum.jpg" a="Spatial Shapes" c="The Spatial Layer particles have 4 aether particles" >}}
+
 
 Like the aethereal layer, it is above the radiant layer which facilitates sight and touch, and so it is not visible nor tangible.
 

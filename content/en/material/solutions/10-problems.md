@@ -68,7 +68,7 @@ How can gravity and quantum mechanics coexist within the same theory?
 **6.5 Strong CP Problem**
 
 - Cause of Problem: Material Influence
-- Solution: [The 5 Layers](/material/principles/intro/chapter-01/), specifically the Spatial and Material Layers
+- Solution: [The 5 Layers](/material/principles/intro/chapter-02/), specifically the Spatial and Material Layers
 
 <!-- Why is the cosmological constant small compared to the powers of the Planck mass?
 the absence of observable fluctuations around the vacuum energy (what Afshordi calls the “cosmological non-constant problem”) and the question why the zero-point energy gravitates in atoms but not in the vacuum (details here) are good problems. -->

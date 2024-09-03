@@ -87,6 +87,9 @@ This is similar to:
 - how waves of electricity flow to our TVs to give us particles of pixels on the screen
 - how radiowaves flow to our phones to give us particles of data that we see as websites and web pages 
 
+{{< i s="/graphics/super/waves.jpg" alt="Waves Particles" >}}
+
+
 These ideas and feelings are all made up of the positive and negative aspects. This is similar to:
 
 - data being made up of 1's and 0's

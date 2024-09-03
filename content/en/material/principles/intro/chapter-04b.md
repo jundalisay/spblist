@@ -7,7 +7,7 @@ description: "Gravitational Territories are the area of a gravitational signatur
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 14
 icon: /icons/spmat.png
 ---
 

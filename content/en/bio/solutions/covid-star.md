@@ -13,8 +13,7 @@ aliases:
 ---
 
 
-
-> The influence of stars on behavior is one of the links between Material Superphysics and Medical Superphysics 
+{{< n n="The influence of stars on behavior is one of the links between Material Superphysics and Medical Superphysics" >}}
 
 
 Have you ever wondered why Covid and influenza are prevalent in Europe but not in Africa? 
@@ -56,7 +55,8 @@ From here, we can suggest the following policies:
 3. Tap the long experience of China-Taiwan on flu prevention and treatment*
 4. By extending Kepler's Harmonic Ratios, we hypothesize that the Spanish Flu ended with the end of WWI which cut the harmonic link between the Flu star and Earth. So we likewise suggest to end the War against the Amazon rainforest to cut the link between the Covid star and Earth to make Covid harmless like the flu
 
-> *China treats 85% of the COVID-19 patients using [traditional medicines](https://www.frontiersin.org/articles/10.3389/fphar.2022.928106/full) such as root extract of Isatis indigotica and extract of Houttuynia cordata
+
+{{< n n="*China treats 85% of the COVID-19 patients using [traditional medicines](https://www.frontiersin.org/articles/10.3389/fphar.2022.928106/full) such as root extract of Isatis indigotica and extract of Houttuynia cordata" >}}
 
 
 
@@ -76,7 +76,9 @@ The fact that the second wave around Q4 was worse than the first wave of Q1 form
 
 This pattern emerged thanks to the Omicron variant striking in South Africa near the same month as the Beta variant which struck that country earlier in 2020. 
 
-This actual pattern was different from [our original 'spreading pattern*' prediction](/social/supersociology/strong-christmas) which assumed that the causal mechanism for the successful variants was merely the high volume of infections or hosts. High populations increase the chances for such variants to succeed. Thus, this assumption is "chance-based" and predicted the Omicron emerging in Indonesia or Malaysia by Q4 2021. 
+This actual pattern was different from [our original spreading pattern prediction](/social/supersociology/strong-christmas) which assumed that the causal mechanism for the successful variants was merely the high volume of infections or hosts. High populations increase the chances for such variants to succeed.
+
+Thus, this assumption is "chance-based" and predicted the Omicron emerging in Indonesia or Malaysia by Q4 2021. 
 
 Instead, Omicron showing up in South Africa proved to us that Covid follows a more-predictable 'cyclical pattern' like influenza which has a known pattern:
 - May-July in the Southern Hemisphere

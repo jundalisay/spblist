@@ -7,7 +7,7 @@ description: "We notate MSQ differently"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
+weight: 10
 icon: /icons/spmat.png
 ---
 

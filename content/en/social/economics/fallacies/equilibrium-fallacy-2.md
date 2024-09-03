@@ -97,7 +97,7 @@ When the commodities fall short of the effectual demand, the shortage will cause
 {{< f f="*Instead of profit maximization as producer's surplus, buyers are interested in bargains as [consumer's surplus](/social/economics/principles/part-2/chapter-05/)" >}}
 
 
-![Natural Price Economics](https://sorasystem.sirv.com/charts/demsup/righttao.png)
+![Natural Price Economics](/graphics/econ/right.png)
 
 Unlike the curves of the manufacturer and merchant, Smith's curves slope downwards to create low prices because it views economic activity as ultimately for the demanders or consumers, and not for the suppliers or sellers.
 
@@ -112,15 +112,15 @@ It is the Way of Heaven to reduce superabundance and to supplement deficiency. I
 
 As you can see in the chart above, the sweet spot of the natural supply and demand is on the lower right section, representing high quantities at low prices. 
 
-However, the profit maximization doctrine of Economics teaches that supply must be reduced so that prices will rise. Rather, competition should be stifled in order to preserve one's monopoly position for the sake of guaranteeing high profits for the investors. 
+However, the profit maximization doctrine of Economics teaches that:
+- supply must be reduced so that prices will rise
+- competition should be stifled in order to preserve one's monopoly position so that high profits can be guaranteed to the investors. 
 
-The resulting high prices and low supply then contradict the goal of economic growth, especially after bubbles and financial crises. Economists try to save face by saying that perfect competition is needed for it to work.
+The resulting high prices and low supply then contradict the goal of economic growth, especially after bubbles and financial crises. 
 
-But they do not realize that their supply curve makes perfect competition impossible in the first place. Because of this, 'real equilibrium' is never achieved despite the best efforts of economists and governments. 
-
+Economists try to save face by saying that perfect competition is needed for it to work. But they do not realize that their supply curve makes perfect competition impossible in the first place. Because of this, 'real equilibrium' is never achieved despite the best efforts of economists and governments. 
 
 Worse is that the ecconomists and policymakers had no idea that their policies and theories were devised by the vested interests of traders, manufacturers, and financiers to benefit traders, manufacturers, and financiers. Such people only want maximum wealth for themselves, not knowing of the problems that excessive wealth creates: 
-
 
 {{< q a="Socrates" >}}
 When a potter becomes rich he will not think of you as much as before, grow more and more indolent and careless, and become a worse potter. But, on the other hand, if he has no money, he cannot provide himself with tools or instruments, he will not work well, and he will not teach his sons or apprentices to work well.

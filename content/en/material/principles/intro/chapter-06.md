@@ -7,7 +7,7 @@ description: "Each identity has a gravitational signature which explains its pur
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 19
 icon: /icons/spmat.png
 ---
 

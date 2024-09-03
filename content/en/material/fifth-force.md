@@ -20,7 +20,8 @@ The experiment looked into the behavior of subatomic magnetic particles called m
 
 <!-- In theory, the excess beyond 2 should be the same everywhere, just as the speed of light should be the same everywhere.  -->
 
-According to quantum mechanics of the 1930's, magnetic particles have a "gyromagnetic ratio" which is notated as "g". This ratio is the magnetic strength of the particle compared to its spin. 
+According to quantum mechanics of the 1930's, magnetic particles have a "gyromagnetic ratio" which is notated as "g". 
+- This ratio is the magnetic strength of the particle compared to its spin. 
 
 In theory, a muon should have a `g` of 2. However, when they measured it in 1948, it was revealed to be 2.00238.
 
@@ -28,7 +29,9 @@ Where did the 0.00238 come from?
 
 This discrepancy led to the invention of Quantum Electrodynamics by Richard Feynman to account for the excess beyond 2, among others.
 
-From 2006, and in 2021, scientists in the US measured the muon's `g` again, and then compared the results with those predicted by both Quantum Electrodynamics and Quantum Chromodynamics. 
+From 2006, and in 2021, scientists in the US measured the muon's `g` again, and then compared the results with those predicted by both:
+- Quantum Electrodynamics
+- Quantum Chromodynamics. 
 
 They found the difference to be smaller, with the measured value being different from the theoretical prediction from 9 decimal places.
 

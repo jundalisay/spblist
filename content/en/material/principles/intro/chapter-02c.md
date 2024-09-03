@@ -7,8 +7,8 @@ description: "The Probability Layer is only theoretical"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 4
-icon: /icons/pantry.png
+weight: 6
+icon: /icons/spmat.png
 ---
 
 
@@ -45,3 +45,14 @@ When describing movement, Rene Descartes uses the word 'tend to'. This is becaus
 This is different from Newton or Einstein who formulated their laws of movement emhasizing total predictability. 
 
 This Layer will be explain in Superphysics in order to reduce the content of Material Superphysics. 
+
+
+
+### The Schrodinger Equation
+
+Coming soon!
+
+
+### The Heisenberg Uncertainty Principle 
+
+Coming soon!

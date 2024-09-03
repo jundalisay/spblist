@@ -7,7 +7,7 @@ description: "In Superphysics, electrons have a positive or masculine charge, wh
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 9
+weight: 12
 icon: /icons/spmat.png
 toc: false
 ---

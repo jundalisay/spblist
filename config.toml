@@ -123,7 +123,7 @@ paginate = 12
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.en.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
+      url = "/material/principles/intro/chapter-02"
       img= "/graphics/physics/aetherdrag.jpg"
       title = "The Five Layers or Elements of Superphysics"
       sub = "The Material, Convertible, Radiant, Spatial, and Aethereal"
@@ -570,7 +570,7 @@ paginate = 12
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.ar.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
+      url = "/material/principles/intro/chapter-02"
       img= "/graphics/physics/aetherdrag.jpg"
       title = "الطبقات الخمس للفيزياء الفائقة"
       sub = "المادة، الإشعاعي، المشع، الفضائي، والأثيري"
@@ -714,7 +714,7 @@ paginate = 12
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.zh.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
+      url = "/material/principles/intro/chapter-02"
       img= "/graphics/physics/aetherdrag.jpg"
       title = "# 超物理学的五个层次"
       sub = "物质、放射性、辐射、空间和以太"
@@ -858,7 +858,7 @@ paginate = 12
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.de.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
+      url = "/material/principles/intro/chapter-02"
       img= "/graphics/physics/aetherdrag.jpg"
       title = "Die fünf Schichten der Superphysik"
       sub = "Das Materielle, Convertible, Strahlende, Räumliche und Ätherische"
@@ -1002,7 +1002,7 @@ paginate = 12
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.fr.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
+      url = "/material/principles/intro/chapter-02"
       img= "/graphics/physics/aetherdrag.jpg"
       title = "Les Cinq Couches de la Superphysique"
       sub = "le Matériel, le Convertible, le Radiant, l'E spatial et l'Éthéré"
@@ -1144,7 +1144,7 @@ paginate = 12
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.hi.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
+      url = "/material/principles/intro/chapter-02"
       img= "/graphics/physics/aetherdrag.jpg"
       title = "सुपरफिजिक्स की पांच परतें। "
       sub = "सामग्रिक, विकर्षणात्मक, प्रकाशमय, स्थानिक और आध्यात्मिक"
@@ -1286,7 +1286,7 @@ paginate = 12
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.id.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
+      url = "/material/principles/intro/chapter-02"
       img= "/graphics/physics/aetherdrag.jpg"
       title = "Lima Lapisan Superfisika"
       sub = "Materi, Convertible, Radiasi, Spasial, dan Aether"
@@ -1431,7 +1431,7 @@ paginate = 12
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.jp.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
+      url = "/material/principles/intro/chapter-02"
       img= "/graphics/physics/aetherdrag.jpg"
       title = "スーパーフィジックスの5つの層。"
       sub = "素材、放射性、輝く、空間、そしてエーテリアル"
@@ -1610,7 +1610,7 @@ paginate = 12
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.ru.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
+      url = "/material/principles/intro/chapter-02"
       img= "/graphics/physics/aetherdrag.jpg"
       title = "Пять слоев суперфизики"
       sub = "Материальный, радиоактивный, светящийся, пространственный и эфирный"

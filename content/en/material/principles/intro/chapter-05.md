@@ -2,12 +2,12 @@
 heading: "Chapter 5"
 title: "The Shapes of the Particles"
 # date: 2024-01-02
-image: "/graphics/physics/particleshapes.jpg"
+image: "/graphics/physics/quantum.jpg"
 description: "The Geometry of Ideas leads to Shapes of Particles"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 12
+weight: 16
 icon: /icons/spmat.png
 ---
 

@@ -7,7 +7,7 @@ description: "Material Superphysics uses Medium-Substance-Quantum Classification
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 7
+weight: 8
 icon: /icons/spmat.png
 ---
 
