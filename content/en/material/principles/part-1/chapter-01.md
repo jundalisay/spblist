@@ -23,7 +23,9 @@ Name | **Aether**
 Traditional Name | Aether, Akasha, 水
 Domain | Quasi-Physical
 Force | Dynamism Feeling Particles (moa2)
-Medium | The Free Aether (moa3)
+Medium | Idea (moa3)
+Substance | Free Aether (soa3)
+
 Quanta | Monads (qoa)
 Movement | Purely Kinetic
 Quality | Most Subtle, Highest Control

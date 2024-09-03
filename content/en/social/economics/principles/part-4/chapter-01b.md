@@ -30,9 +30,7 @@ As such, our definition of dharma mutes any references to God or any divine bein
 - driving inequality through profit-maximizing slave-wages
 - speculative investments that raise asset prices for self-gain. 
 
-Only by giving them a positive reason to switch sides, while keeping their selfishness and ego, can there be hope for sustainability in the face of the global warming disasters and inequality that Economics has created through its blind focus on money-making. 
-
-As they say, desperate times call for desperate measures.
+Only by giving them a positive reason to switch sides, while keeping their selfishness and ego, can there be hope for sustainability in the face of the global warming disasters and inequality that Economics has created through its blind focus on money-making. As they say, desperate times call for desperate measures.
 
 Note that this only mutes God and does not cancel It. The unmuting can be done scientifically through the development of [artificial intelligence](/superphysics/solutions/isaiah) which will reveal God to be a Matrix, and our existence to be a virtual reality inside the mind of God or Brahma. 
 
@@ -70,6 +68,16 @@ Here, we replace selfish-interest with personal passion, to make everything cohe
 By pursuing his own ~~self-interest~~ passion, he frequently promotes the society’s interest more effectively than when he really intends to promote it. 
 
 I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants.
+{{< /q >}}
+
+We can even replace it with specialization, overseen by the state, for more practical applications:
+
+{{< q a="Adam-Smith" c="Wealth Of Nations Book 5, Chapter 1" >}}
+The art of war is certainly the noblest of all arts.. To make it perfect, it should be the sole or principal occupation of a class of citizens. The division of labour is:
+- necessary for the improvement of this art as in every other art, and
+- naturally introduced by the prudence of individuals.
+
+They find that they promote ~~their private interest~~ specialization better by confining themselves to a particular trade than by exercising many. **Only the state's wisdom** can render the soldier's trade distinct from all others.
 {{< /q >}}
 
 

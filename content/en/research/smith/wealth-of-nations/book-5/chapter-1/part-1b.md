@@ -1,5 +1,5 @@
 ---
-title: "The Development of Militaries"
+title: "The Art of War"
 heading: "Part 1b"
 weight: 6
 writer:
@@ -42,6 +42,7 @@ Military service would have been very tedious and expensive for those who served
 After the second Persian war, the armies of Athens were composed of mercenary troops.
 They consisted partly of citizens and foreigners.
 All of them were equally hired and paid by the state.
+
 From the time of the siege of Veii, the Roman armies received pay while they remained in the field.
 Under the feudal governments, the military service of the great lords and of their dependants was universally exchanged for a payment in money which maintained those who served.
 
@@ -54,12 +55,15 @@ In the little agrarian states of ancient Greece, 1/4 or 1/5 of the people are so
 In modern Europe, not more than 1% of the people of any country can be soldiers without ruining the country which pays their expences.
 
 
-11 The cost of an army was not considerable in any nation until long after it fell entirely on the sovereign.
+{{< s v="11" >}} The cost of an army was not considerable in any nation until long after it fell entirely on the sovereign.
 
 In all the ancient Greek republics, learning military exercises was a necessary part of education imposed by the state on every free citizen.
+
 In every city, there was a public field under the protection of the public magistrate where young people were taught exercises by different masters.
+
 This was the whole expence any Greek state ever had to prepare its citizens for war.
 The exercises of the Campus Martius in ancient Rome answered the same purpose of the Gymnasium in ancient Greece.
+
 Under the feudal governments, there many public ordinances promoting the practise archery and other military exercises to the citizens.
 
 They were universally neglected= 
@@ -69,26 +73,38 @@ They were universally neglected=
 In all those governments, military exercises went gradually into disuse among the people.
 
 
-12 The trade of a soldier was not a separate distinct trade.
+{{< s v="12" >}} The trade of a soldier was not a separate distinct trade.
 
 It was not the sole or principal occupation of any citizen.
+
 This was true from the ancient Greek and Roman republics to the first feudal governments.
+
 Every subject of the state considered himself as a soldier during many extraordinary occasions.
 
 
-13 The art of war is certainly the noblest of all arts.
+### Division of Labor in the Military
+
+{{< s v="13" >}} The art of war is certainly the noblest of all arts.
 
 In the progress of improvement, it necessarily becomes one of the most complicated.
-The mechanical and other arts connected to it determines its perfection.
+- The mechanical and other arts connected to it determines its perfection.
+
 To make it perfect, it should be the sole or principal occupation of a class of citizens.
-The division of labour is necessary for the improvement of this art as in every other art.
-The division of labour is naturally introduced by the prudence of individuals.
+
+The division of labour is:
+- necessary for the improvement of this art as in every other art, and
+- naturally introduced by the prudence of individuals.
+
 They find that they promote their private interest better by confining themselves to a particular trade than by exercising many.
+
 Only the state's wisdom can render the soldier's trade distinct from all others.
-A private citizen who spends his time in military exercises might= 
-    improve himself very much in them and
-    amuse himself very well.
+
+A private citizen who spends his time in military exercises might:
+- improve himself very much in them and
+- amuse himself very well.
+
 But he certainly would not promote his own interest.
+
 Only the state's wisdom can render it for his interest to give up most of his time to be a soldier.
     States did not always have this wisdom even when their existence required it.
 

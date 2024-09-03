@@ -44,7 +44,7 @@ When describing movement, Rene Descartes uses the word 'tend to'. This is becaus
 
 This is different from Newton or Einstein who formulated their laws of movement emhasizing total predictability. 
 
-This Layer will be explain in Superphysics in order to reduce the content of Material Superphysics. 
+This Layer will be explained in Superphysics in order to reduce the content of Material Superphysics. 
 
 
 

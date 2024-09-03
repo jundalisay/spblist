@@ -49,7 +49,7 @@ Is the Supreme Entity God?
 {{< /r >}}
 
 {{< l a="Spiritual-Superphysics" >}}
-Not really. The concept of Yahweh, God, and Allah is an invention of the Jews, Romans, and Mohammad respectively. Since we didn't live during the times when those concepts were created, we cannot feel the subtle wave that could have represented their origin. 
+Not really. The concept of Yahweh, God, and Allah is an invention of the Jews, Romans, and Mohammad respectively. Since we didn't live during the times when those concepts were created, we cannot know the feelings that could have caused their origin. 
 
 Our best guess from the text evidence is that they represent either a physical alien race (as the Annunaki hypothesis) or the metaphysical oversoul of the Jewish, Roman, and Arab societies respectively.
 
@@ -57,11 +57,23 @@ Either way, it follows that Yahweh, God, and Allah are really more political con
 {{< /l >}}
 
 {{< r a="Muslim" >}}
+You have to live during the time when a concept was created?
+{{< /r >}}
+
+{{< l a="Spiritual-Superphysics" >}}
+Yes, ideally. This is because ideas (particles) are driven by feelings (waves). By living at that time, you can sense the prevailing feelings that led to the ideas established then. 
+
+The farther from that time, the weaker the feeling becomes. We recreate those feelings by reading through the works from those times (or watching videos if videos were already available). 
+
+For example, if we consider *The Wealth of Nations* as the bible of Supereconomics, you will find it strange that it has a long chapter on the mulitary. But by going through the biography of Adam Smith, you will discover that establishing a militia was a major feeling back then, to protect Scotland from England. So this feeling makes its way into that book as a long chapter. 
+{{< /l >}}
+
+{{< r a="Muslim" >}}
 So what is the Supreme Entity then?
 {{< /r >}}
 
 {{< l a="Spiritual-Superphysics" >}}
-It's similar to the Hindu concept of Brahman which is the totality of existence, as one unit or entity. This unit is then Conscious of Its self. This consciousness is inseparable from that self or body. So we say that Its consciousness is Supreme relative to Its body or effects.
+It's similar to the Hindu concept of Brahman which is the totality of existence, as one unit or entity. This unit is then Conscious of Its Self. This consciousness is inseparable from that self or body. So we say that Its consciousness is Supreme relative to Its body or effects.
 
 This concept is more in line with Physics than Religion. All you need is the ability to think of:
 - all the **realities and universes** in the multiverse
@@ -91,12 +103,25 @@ By explaining the principles of the Supreme Entity, then finding how the person 
 - keep it in the eggshell, then steam or boil it
 - remove the eggshell, then fry or boil it
 
-Each person will cook it depending on his own circumstances. For example, a person with no water but has oil will logically fry the egg. Another person that has no oil but has water will boil it.
+A person with no water but has oil will logically fry the egg. Another person that has no oil but has water will boil it.
 
 Similarly, some people are born into Asian families which are tolerant of the idea of spirits. For them, we recommend those esoteric paths. Others are born into Western families that want money and wealth. For them, we recommend the New Agey Law of Attraction type paths.
 
 So instead of 'Do this, Do that', ours is 'If this then that' -- we try to know the person's mentality and situation first, instead of making blanket impositions
 {{< /l >}}
+
+{{< r a="Muslim" >}}
+But there is nothing spiritual about New Agey woo. The Law of Attraction and positive thinking are just mental, not spiritual. 
+{{< /r >}}
+
+{{< l a="Spiritual-Superphysics" >}}
+Correct. But at least it makes the mind more subtle (closer to the aether instead of matter). Spirituality becomes easier to grasp and detect when the mind becomes subtle (i.e. the focus is on the heart more than the brain).
+
+Mentalities have a lot of levels just as school has levels. You can't expect a pre-school student to upgrade to high school immediately. Normally, they should go to elementary school next and not stay stuck in pre-school year after year.
+
+Likewise, the human species seems to stay stuck in materialism and its many problems generation after generation. We want to drive an upgrade towards the more subtle levels, even if it is not totally spiritual.    
+{{< /l >}}
+
 
 {{< r a="Asker" >}}
 Oh that's great! A lot of people get conned by those Law of Attraction scams. I tried it but my prince charming hasn't come yet. Can you help me manifest my knight in shining armor?
@@ -154,8 +179,27 @@ I don't have time to look for Asian spiritual groups. Can you tell me in the few
 {{< l a="Spiritual-Superphysics" >}}
 The most basic way is to catch your own mind while it thinks and feels. We usually have our minds on autopilot, driven by the Negative Force. So the first step is to take it out of autopilot and put it on manual control to observe it as it thinks and feels.
 
-You will find that the thoughts and feelings that it creates can be overriden. This is why humans can "think things over" and do not have to go with the first idea or option. 
+**You will find that the thoughts and feelings that it creates can be overriden.** This is why humans can "think things over" and do not have to go with the first idea or option. 
 
 You can even prick yourself with a needle. Instead of being affected by the pain (which is what your body does to preserve itself), your lower mind can choose to ignore the bodily impulses. Once your lower mind has control of the bodily impulses, you can upgrade and let your higher mind control the lower mind. This is why spiritual systems often have rules on diet, fasting, morals, practices, etc.  
 {{< /r >}}
 
+
+{{< r a="Banker" >}}
+That's great! I can spend more effort catching how my brain makes its thoughts or how my heart makes its feelings. But will you push me to be vegetarian? 
+{{< /r >}}
+
+
+{{< l a="Spiritual-Superphysics" >}}
+Not really. There are many mentalities and some are naturally vegetarian, while others are cruder and might have problems without meat. 
+
+The main principle is that we eat food to get the chi or pranah content (Descartes' animal spirits) from it. This chi is a kind of energy which has wavelength just as light and electricity has. 
+
+The goal is to raise your frequency by shortening your wavelength. This will make you better perceive the gaps between spacetime slices.
+
+Carnivores such as wolves and vultures are designed to ingest lower wavelength, while herbivores ingest shorter. 
+
+<!-- Plants get energy directly as solar wavelengths which they use to absorb nutrients from the soil. -->
+
+Samadhi requires very short wavelengths. So we recommend a plant-based diet for those aiming for samadhi. For the rest, science advocates a planetary health diet which is mostly short wavelength, which might be good enough for some spiritual experiences. But at least, it will make the mind subtler. 
+{{< /r >}}

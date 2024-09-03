@@ -17,13 +17,18 @@ toc: false
 
 The material layer is the lowest layer in the universe and manifests as physical objects. 
 
-Material Layer | Name | Physics Counterpart
---- | --- | ---
-Traditional Name | Earth | Strong Force
-Substance | Som | Proton   
-Medium | Mom | Strong Force 
-Quanta | Qom | Quark
 
+Attribute | Quality
+--- | ---
+Name | **Matter**
+Traditional Name | Earth, Pritvi, 金
+Domain | Physical
+Force | Staticity
+Medium | Mesons (mom1)
+Substance | Protons (soa)
+Quanta | Quarks (qom)
+Movement | Purely Potential
+Quality | Most Crude and Limited Range
 
 
 An example of a material thing is iron ore.
@@ -32,11 +37,9 @@ According to science, iron ore is made of 'elements', specifically as `Fe` which
 
 {{< img src="/graphics/physics/periodictable.png" alt="Periodic Table" >}}
 
-Instead of elements, Superphysics refers to the 'elements'* as 'versions'. Thus, there are 118 versions of matter which are simply 118 versions of energy in the material layer. 
+<!-- Instead of elements, Superphysics refers to the 'elements'* as 'versions'. Thus, there are 118 versions of matter which are simply 118 versions of energy in the material layer.  -->
 
-
-{{< n n="'Matter' is rooted on 'mother' in Latin, while 'Element' is based on 'rudiment'" >}}
-  
+<!-- n n="'Matter' is rooted on 'mother' in Latin, while 'Element' is based on 'rudiment'" -->
 
 In terms of creation, this layer is the final layer in the journey of dynamic energy and entropy towards stasis and is where mind is at its most dormant state.
 
@@ -56,17 +59,32 @@ Material | Earth | Strong | Gluon | Quantum of matter or Qom -->
 <!-- The conversion from dormant mind into active mind then takes place in stars. In this way, both matter (dormant mind) and life (active mind) come from the explosion of stars as the expression or crossing-over of the metaphysical ideas of the Supreme Entity onto physical reality.  -->
 
 
-
 We call quarks as qom or quantum of matter, just as we called gravitons as qost or quantum of spacetime. So far, the common fundamental material particles are:
 
 
 ### Quarks (Qoms)
 
-| Physics Name | Superphysics Name | Spin | Physics Charge | Mass | Description |
+Physics Name | Superphysics Name | Spin | Charge | Mass
+--- | --- | --- | --- | ---
+Up | qom1a | 1/2 | 2/3 male ♂ | 2.2 MeV/c2 
+Down | qom1b | 1/2 | -1/3 | 4.7 MeV/c2
+Charm | qom2a | 1/2 | +2/3 ♀ | 1.275 GeV 
+
+<!-- | Top | Heavy woman qom | 1/2 | +2/3 |  |  |
+
+| Strange | Boy qom | 1/2 | -1/3 | 95 MeV/c2 |  |
+| Bottom | Heavy boy qom | 1/2 | -1/3 | 4.18 GeV/c2 |  |
+
+⚥ -->
+
+<!-- The lightest quark, forms neutrons with 2 down quarks and<br> protons with 2 up and 1 down -->
+
+<!-- Positive +   -->
+<!-- | Physics Name | Superphysics Name | Spin | Physics Charge | Mass | Description |
 | --- | --- | --- | --- | --- | --- |
 | Up Quark | Light boy qom | 1/2 | +2/3 | 2.2 MeV/c2 | The lightest quark. <br>Forms neutrons with 2 down quarks and<br> protons with 2 up and 1 down |
 | Charm Quark | Woman qom | 1/2 | +2/3 | 1.275 GeV |  |
 | Top Quark | Heavy woman qom | 1/2 | +2/3 |  |  |
 | Down Quark | Light boy qom | 1/2 | -1/3 | 4.7 MeV/c2 |  |
 | Strange Quark | Boy qom | 1/2 | -1/3 | 95 MeV/c2 |  |
-| Bottom Quark | Heavy boy qom | 1/2 | -1/3 | 4.18 GeV/c2 |  |
+| Bottom Quark | Heavy boy qom | 1/2 | -1/3 | 4.18 GeV/c2 |  | -->

@@ -25,7 +25,9 @@ These are separated from the smallest ones.
 
 They then easily stick together due to the inequality of their shapes. Sometimes, they form very large masses.
 
-These masses are contiguous to the inner surface of the sky, and adhere to the star from which they emerged.
+These masses:
+- are contiguous to the inner surface of the sky
+- adhere to the star from which they emerged.
 
 There, they resist the force of light and resemble those sun spots.
 
@@ -36,7 +38,9 @@ This is similar heated water and liquids emitting dense foam made of particles o
 Thus, the fire-aether of the Sun boils from both poles towards the equator.
 <!-- ecliptic.  -->
 
-These must expel its virtual photons and all others that easily stick to each other and hardly obey its common motion, just like foam.
+These must expel its virtual photons and all others that easily stick to each other and hardly obey its common motion, just like foam.*
+
+{{< n n="Here, sun spots are caused by magnetic virtual photons" >}}
 
 
 #### 95. Understanding the principal properties of these spots
@@ -53,7 +57,7 @@ Most liquids reabsorb the same foam which they initially emit while boiling long
 
 <!-- Similarly, with the same ease with which the matter of  -->
 
-Similarly, sunspots emerge easily from the sun's body and accumulate on its surface. Then they are just as easily diminished later:
+Similarly, sunspots emerge easily from the sun's body and accumulate on its surface. Then they are just as easily diminished later by being:
 - partly reintegrated into its substance
 - partly dispersed through the nearby sky. 
 
@@ -96,7 +100,7 @@ Vice versa, faculae are seen to turn into spots, when these are submerged in the
 
 #### 99. Into what particles the spots dissolve
 
-When these spots dissolve, they do not turn into minutiae exactly similar to those from which they were formed. 
+When these spots dissolve, they do not turn into minutiae [electrons] exactly similar to those from which they were formed. 
 
 Instead, they partly transform into:
 

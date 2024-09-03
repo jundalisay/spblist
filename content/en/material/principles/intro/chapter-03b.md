@@ -23,6 +23,7 @@ Physics | Superphysics
 --- | ---
 Negative - | Male ♂
 Positive + | Female ♀
+Neutral  | Neutral ⚥
 
 
 ## Antimatter

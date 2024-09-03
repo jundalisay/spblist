@@ -51,9 +51,11 @@ This means that a wave has 3 kinds depending on its relation to that central sig
 - within that level
 - below that level 
 
+{{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
+
 These lead to 3 subelements or sublayers for each Element or Layer.
 
-{{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
+
 
 
 ### The Shapes

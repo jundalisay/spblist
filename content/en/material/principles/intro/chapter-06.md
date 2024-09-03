@@ -24,6 +24,8 @@ Radiant | Energy
 Convertible | Aether 
 Material | Mass
 
+{{< i s="/graphics/physics/layers.png" a="Conservation Laws" >}}
+
 
 #### The Law of Conservation of Idea
 
@@ -59,7 +61,7 @@ This operates in the material layer and is already well known in Physics. Matter
 
 
 
-### Gravutational Signatures
+### Gravitational Signatures
 
 Each identity has a gravitational signature which explains its purpose or use in Nature, working within the conservation laws.
 

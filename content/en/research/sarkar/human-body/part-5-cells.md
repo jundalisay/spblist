@@ -64,34 +64,37 @@ Cells are living beings, and as a result of transformation through lives togethe
 
 The aura or effulgence radiating from the human body is the collective effulgence of all its composite cells. 
 
-When in old age many cells in the body become weak, this results in the diminution of the effulgence. Even the body of a young man who is suffering from a disease loses its lustre.
+In old age, many cells in the body become weak. This results in the reduction of the effulgence.
+- Even the body of a young man who is suffering from a disease loses its lustre.
 
 In the human face alone there are millions of cells.
 
-When a person gets angry a large amount of blood rushes into the face, causing it to become red and causing many cells to die. A violent or cruel person can easily be recognized by his or her face.
+When a person gets angry a large amount of blood rushes into the face, causing it to become red and causing many cells to die. **A violent or cruel person can easily be recognized by his or her face.**
 
-As a result of eating sentient food and performing spiritual practices, the cells of the human body become sentient. Naturally, an effulgence emanates from these cells creating an aura around the physical body of the spiritual aspirant. This is the reason why many pictures of mahápuruśas [highly-evolved persons] show them with radiant auras.
+As a result of eating sentient food and performing spiritual practices, the cells of the human body become sentient. 
 
-If cells are affected by food and water, and if the nature of the cells affects the nature of the human mind, obviously human beings should eat the correct diet, because food and mind are closely related to each other. Any food item, whether good or bad, must not be taken indiscriminately because it may lead to mental degeneration. Sincere spiritual aspirants must follow the dictum: Áhárashuddhao sattvashudhih [“A sentient diet produces a sentient body”].
+Naturally, an effulgence emanates from these cells creating an aura around the physical body of the spiritual aspirant. This is the reason why many pictures of mahápuruśas [highly-evolved persons] show them with radiant auras.
+
+If cells are affected by food and water, and if the nature of the cells affects the nature of the human mind, obviously human beings should eat the correct diet, because food and mind are closely related to each other. 
+
+Any food item, whether good or bad, must not be taken indiscriminately because it may lead to mental degeneration. 
+
+Sincere spiritual aspirants must follow the dictum: Áhárashuddhao sattvashudhih [“A sentient diet produces a sentient body”].
 
 Only food which is helpful in keeping the body and mind sentient should be eaten.
 
-Everything in the world is dominated by one of the three principles:
+Everything in the world is dominated by one of the 3 principles:
 
 1. sentient
 2. mutative
 3. static.
 
 
-Sentient food: 
-
-Food which produces sentient cells and is thus conducive to physical and mental well-being is sentient. Examples of sentient food are rice, wheat, barley, all kinds of pulses, fruit, milk and milk products.
-
-Mutative food: Food which is good for the body and may or may not be good for the mind, but certainly not harmful for the mind, is mutative.
-
-Static food: Food which is harmful for the mind and may or may not be good for the body is static. 
-
-Onion, garlic, wine, stale and rotten food, meat of large animals such as cows and buffaloes, fish, eggs, etc., are static.
+Type | Definition | Examples
+--- | --- | ---
+Sentient | Food which produces sentient cells and is thus conducive to physical and mental well-being | Rice, wheat, barley, all kinds of pulses, fruit, milk and milk products
+Mutative | Food which is good for the body and may or may not be good for the mind, but certainly not harmful for the mind | 
+Static | Food which is harmful for the mind and may or may not be good for the body is static | Onion, garlic, wine, stale and rotten food, meat of large animals such as cows and buffaloes, fish, eggs, etc.
 
 Very often people eat food without knowing its intrinsic qualities. 
 

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2"
-title: "The Upper, Middle, and Lower Sublayers"
+title: "The Sublayers and the Internal Boundary"
 # Theoretical Organization of the 5 Layers
 # date: 2023-11-02
 image: /graphics/super/layers.jpg
@@ -20,9 +20,23 @@ There are 5 Layers in Reality | Each Layer has 3 Sublayers Representing 3 Influe
 {{< /dc >}}
 
 
-Chapter 1 divided reality into 5 layers. 
+Chapter 1 explained that the universe is made up of waves categorized into 5 layers. 
 
-This chapter divides each layer into 3 sublayers, a upper, middle, and a lower part. This matches the [3 Influences or Gunas](/superphysics/principles/chapter-05b/).
+Each wave moves up and down, as a result of the belligerence of the Positive and Negative Forces, from its zero level.
+
+We call this zero or average level as the **central signature or dharma** for that wave.
+
+This means that a wave has 3 kinds depending on its relation to that central signature. It can be:
+- above that level -- we call this the subtlifying influence (sattvaguna)
+- within that level -- we call this the transformative influence (rajoguna)
+- below that level -- we call this the crudifying influence (tamoguna)
+
+{{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
+
+These [3 influences](/superphysics/principles/chapter-06b/) produce the 3 sublayers:
+- upper
+- middle
+- lower
 
 
 For example, the Material layer will have 3 sublayers with each with its own force or media, and quantum:
@@ -98,7 +112,7 @@ Material | Energy in an atomic nucleus | Identity -->
 
 ## The Hierarchy of the Layers
 
-From the Medium-Substance-Quantum (MSQ) Table in the next chapter, we can deduce that everything in existence has varying degrees of the following qualities:
+From the Medium-Substance-Quantum (MSQ) Table in Chapter 3, we can deduce that everything in existence has varying degrees of the following qualities:
 
 Layer | Quality
 --- | --- 

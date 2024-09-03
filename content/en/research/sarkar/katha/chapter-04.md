@@ -13,13 +13,12 @@ It was the winter of 1953-54 and the weather was bitterly chilly.
 Baba was kind enough to allow me to go for a walk with Him and as usual we came back in the field
 and seated ourselves on the grave. I was sitting by the side of Baba.
 
-Two more sadhaka brothers were there, whose names I do not remember now. Mostly Baba used
-to sit there for a long time, but that day it so happened that Baba started to walk back
-by quarter-to-nine. He said, "Let us go, Nagina has a cough!”
-Baba asked me "Have you brought your muffler?" I replied in the negative, and
-Baba said, "You must use a muffler during winters"
+Two more sadhaka brothers were there, whose names I do not remember now. Mostly Baba used to sit there for a long time, but that day it so happened that Baba started to walk back by quarter-to-nine. He said, "Let us go, Nagina has a cough!” 
+
+Baba asked me "Have you brought your muffler?" I replied in the negative, and Baba said, "You must use a muffler during winters"
 
 I said, "During winters I generally get a sore throat. It will be alright by itself".
+
 But Baba said, "This is due to liver trouble that you get the cough. Put hot water
 in a half cup full of orange juice, so that the juice and water become warm. Drink it just
 before going to sleep. Remember this will be your last drink before sleeping. You will
@@ -90,6 +89,7 @@ trousers and shirt, and as long as I was at His feet I felt somewhat embarrassed
 this.
 When I bowed at His lotus feet to permit me to go. Baba blessed me and then
 asked. "You also have to put on these clothes?”
+
 I told Baba that I had to dress like that for the office, and Baba said, "You are
 doing the right thing. You should always protect your sattvaguna (sentient qualities)
 with the shield of rajoguna (mutative qualities); otherwise people will not allow you to

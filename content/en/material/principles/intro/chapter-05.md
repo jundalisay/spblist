@@ -28,11 +28,11 @@ These 3 authors were writing about the 5 Elements:
 
 By combining their principles and merging them with those of Taoism and Hinduism, which learned of the 5 Elements earlier than the Europeans, we can create the following shapes for the particles in Material Superphysics. 
 
-{{< i s="/graphics/physics/particleshapes.jpg" a="Shapes of Particles" >}}
+{{< i s="/graphics/physics/media.jpg" a="Shapes of Media Particles" >}}
 
+{{< i s="/graphics/physics/quantum.jpg" a="Shapes of Quantum Particles" >}}
 
-Some of these particles do not exist in Physics which only knows 3 of the 5 Elements. 
-
+{{< dc t="How We Got These" >}}
 We derived these shapes after listing down:
 
 1. The steps in our theory of how the Supreme creates reality in real time
@@ -46,7 +46,10 @@ This is how the particles interact.
 3. The steps of particle decay from collisions
 
 This is the decay of particles or upgrade from matter back to the aether.
+{{< /dc >}}
 
+
+Some of these particles do not exist in Physics which only knows 3 of the 5 Elements. 
 
 {{< youtube tWo3lzAu_X0 >}}
 
@@ -81,7 +84,7 @@ We interpret this as the left and right handed spin of the Weak Interaction
 
 5. Meeting at a Point
 
-We interpret this as the triangle created by gluon flux tubes. 
+We interpret this as the triangle created by gluon flux tubes (3 aetherspace particles). 
 
 
 
@@ -107,8 +110,10 @@ Matter particles are generally shaped into a plane so that they can receive the 
 
 Physics Name | Superphysics Version
 --- | ---
+Magnetic Moment | Size of Hole of Charged (or Gendered) Particle
 Charge | Rotation Direction
-Spin | Orientation to Virtual Photon
-Electromagnetic Mass | Thickness to use Virtual Photons
-Material Mass | Aetherspace Strength 
-
+Male Charge | Rotating Positively or Anticlockwise
+Female Charge | Rotating Negatively or Clockwise
+Spin | Orientation to Virtual Photon (means particle has thickness). A + spin means 
+Electromagnetic Mass | Size (or Thickness?) of Hole to use Virtual Photons
+Material Mass | Aetherspace Strength

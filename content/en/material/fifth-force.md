@@ -1,8 +1,9 @@
 ---
-title: "Material Qosts for the Muon G-2 Experiment"
+# Material Qosts3
+title: "The Aetherspace for the Muon G-2 Experiment"
 date: 2022-04-13
 image: /graphics/physics/muon.jpg
-description: "The muon-G2 experiment is accounted for by Spacetime Quanta we call qost3"
+description: "The muon-G2 experiment is accounted for by Spacetime Quanta we call Aetherspace" 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -43,17 +44,23 @@ According to Fermilab, that Fifth Force must have the following properties:
 - It only interacts weakly with muons
 
 
+## The Fifth Force as the Aetherspace Most2
+<!-- Qost3 -->
 
+According to those requirements, the "Fifth Force" is the spacetime quantum particles which we call Most2. These make up "empty" space.
 
-## The Fifth Force as Qost3
+Technically, they fill in the gaps created by spacetime particles.
+<!-- , called most3 and most2 respectively.  -->
 
-According to those requirements, the "Fifth Force" is the spacetime quantum particles which we call Qost3. These make up "empty" space.
+These interact with muons (qor2) and increase their magnetic moment by increasing the size of their hole. This increased hole allows more virtual photons to pass through, increasing the muon's magentism. 
+<!-- going inside their hole. 
 
-Technically, they fill in the gaps created by the spacetime and aetherspace particles, called most3 and most2 respectively. 
+, but not smaller electrons (qor1)  -->
 
-These interact with muons (qor2) but not subtler electrons (qor1) because they are cruder just like the muons. 
+They cannot do so with electrons which are already too small. 
+ <!-- because they are cruder just like the muons.  -->
 
-These massless kinetic particles add "power" to the muons which translates to them having more mass.
+<!-- These massless kinetic particles add "power" to the muons which translates to them having more mass. -->
 
 
 <!--  is none other than the Aether -- an invisible, massless, wave-like material that permeates all of space.

@@ -23,8 +23,7 @@ There are 5 Layers in Reality | Each Layer has a sound
 
 
 
-
-The universe is a reality that is made up of 5 Layers that are completely integrated.
+The universe is a reality that is made up of waves that can be neatly integrated and categorized into 5 Layers.
 
 An analogy is a Photoshop image which is made up layers that are on top of each other. 
 

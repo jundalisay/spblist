@@ -2,8 +2,8 @@
 heading: "Chapter 9"
 title: "Cartesian Relationality"
 # date: 2022-01-03 ~~Relativity~~
-image: /graphics/physics/urel.png
-description: "We replace Einstein's Relativity with Poincare's Law of Relativity as an implementation of Cartesian Relativity"
+image: /graphics/physics/relationality.jpg
+description: "We replace Einstein's Relativity with Descartes' Relationality"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,29 +14,53 @@ icon: /icons/spmat.png
 
 {{< youtube klka8xfvMDY >}}
 
+The rules of motion in Chapter 6 emphasized that all motion is relative to, and requires, other bodies. 
 
-We use Poincare's Law of Relativity as an implementation of Cartesian Relativity:
+{{< q a="Descartes" c="Principia Philosophia, Part 4 Article 202" >}} 
+Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
+{{< /q >}}
+
+
+This idea is also embodied in Poincare's Law of Relativity:
 
 {{< q a="Poincare" c="Science and Hypothesis, Chapter 5" >}}
 The **state of bodies**, **their mutual distances**, and **the velocities with which those distances are changing** at that moment, will depend only on the state of those bodies, on their mutual distances and on the velocities with which those distances were changing at the initial moment.
 {{< /q >}}
 
 
-This is based on 2 spacetimes that are glued together by a relation created by the observing mind.  
+{{< i s="/graphics/physics/relationality.jpg" a="Cartesian Relationality" >}}
 
+This has 3 components:
+
+1. The Identities in the phenomenon
+
+This is where particle shapes, mass, or other inherent quality comes in. 
+
+2. The Nature of the Layer or Element of those Identities
+
+This is the properties and differences of the 5 Layers
+
+3. The Relationship between those identities and the layers
+
+This is usually embodied by the spacetime between the identities. This includes speed, motion, location, etc. 
+
+<!-- This is based on 2 spacetimes that are glued together by a relation created by the observing mind.   -->
 
 The differences between gravitational signatures create movement between identities as either:
 - attraction
 - repulsion
 - stasis
 
-The addition or splitting of signatures is from the Negative Force, while the resulting stability is from the Positive. 
+<!-- The addition or splitting of signatures is from the Negative Force, while the resulting stability is from the Positive. 
 
-It follows that the energy or driving force is from the Positive and Negative Forces that exert themselves through the gravitational signature.
+It follows that the energy or driving force is from the Positive and Negative Forces that exert themselves through the gravitational signature. -->
 
 This potential energy of an identity for change or movement is estimated by the Eagle, which is our equation for everything:
 
 {{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
+
+Cartesian Relationality and Poincare's Law of Relativity both are therefore implementations of our "eagle" of `E::Gl`.
+
 
 In active form, the signatures form a chain for energies that affect the movement and change of others. These movements happen in the 'Cartesian View' which are slices of spacetime.
 

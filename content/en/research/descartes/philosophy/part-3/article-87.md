@@ -72,22 +72,21 @@ But the fire-aether in the red space must necessarily move.
 
 #### 88. Those slowest of the small particles easily transfer to others what little speed they have and then fuse to each other.
 
-
-Among the fire-aether are parts which are less divided than the rest, and less rapidly agitated.
+Among the fire-aether are particles which are less divided than the rest, and less rapidly agitated.
 
 <!-- which, since they are supposed to have been cut off from the angles of the particles of the second, before they were turned into globules, and filled all the spaces alone, cannot but have very angular figures, and unfit for motion; whence it happens that they easily  -->
 
-These easily fuse to each other, and transfer most of their agitation into those other most minute fragments, which are agitated most rapidly.
+These easily:
+- fuse to each other
+- transfer most of their agitation into those other most minute fragments, which are agitated most rapidly.
 
 This is because larger bodies, other things being equal, more easily transfer their agitation into smaller ones, than receive from those smaller than they.
-
 
 <!-- Thus, the fire-aether:
 - has some fragments that are less divided and less swiftly agitated than others
 
 ; since they are supposed to have been cut from the angles of the particles of the second element when they were not yet turned into globules and filled all the spaces alone, they must necessarily have very angular shapes and be unsuited for motion.
-
-Hence, they easily stick together and transfer much of their agitation to those other fragments which are the smallest and most swiftly agitated: because, according to the laws of nature, larger bodies more easily transfer their agitation to smaller ones, other things being equal, than receive any new agitation from those others. -->
+-->
 
 
 #### 89. Such sticking minute parts are mainly found in the fire-aether which move from the poles to the vortex center 
@@ -114,7 +113,7 @@ The middle of 3 air-aether globules touching each other create narrow triangular
 
 Their length is not easy to determine because it only depends on the abundance of fire-aether in them. 
 
-They are small columns, hollowed out with 3 spirals like screw-threads. This lets them pass through those narrow passages while twisting, having the figure of a curvilinear triangle `FGI`.
+They are small columns, hollowed out with 3 spirals like screw-threads. This lets them pass through those narrow passages while twisting, having the shape of a curvilinear triangle `FGI`.
 
 This triangular hole is always found between the 3 air-aether globules touching each other.
 
@@ -173,9 +172,13 @@ The virtual photons passing through them must also take on this shape.
 
 For example, the globules `A, B, C, H` touch each other at points `K, L, G, E`. 
 
+{{< i s="/graphics/physics/fig_36.jpg" a="Globules" >}}
+
 They leave in their middle a quadrilateral space. Each of its angles is equal to each of the angles of the triangle `FGI`.
 
-As these 4 globules move, that space continually changes shape. It sometimes becomes square, sometimes oblong. It even occasionally divides into two other triangular spaces. 
+As these 4 globules move, that space continually changes shape.
+- It sometimes becomes square, sometimes oblong. 
+- It even occasionally divides into two other triangular spaces. 
 
 Thus, the less agitated fire-aether existing in it must flow to one or two of its angles.
 
@@ -183,7 +186,8 @@ This leaves the rest of the space to the more mobile matter that more easily cha
 
 If one of its fragments, existing in one of these angles, extends itself toward the part opposite that angle, beyond a space equal to the triangle `FGI`, it must be expelled from there and thus diminished when a third globule touches the two that form the angle it occupies.
 
-For instance, if the less agitated matter occupying angle G extends itself towards D beyond the line FI, it will be driven out by the globule C and thus diminished as this globule C approaches B to close the triangle GFI. 
+For instance, if the less agitated matter occupying angle `G` extends itself towards `D` beyond the line `FI`, it will be driven out by globule `C`.
+- This will diminish it as globule `C` approaches `B` to close the triangle `GFI`. 
 
 The largest fire-aether particles are less agitated than the rest. 
 
@@ -192,14 +196,15 @@ They pass through long tracts of the sky. They often find themselves between 3 a
 They are not able to take on any definite shape that remains in them for a while, other than the one we have described.
 
 
-#### 93. The Various Sizes of Fire-aether Particles Among the Striated and Minute Particles
+#### 93. The various sizes of fire-aether particles among the virtual photons and minute particles
 
-These elongated and striated particles differ greatly from the rest of the fire-aether.
+ <!-- striated -->
+
+These elongated virtual photons differ greatly from the rest of the fire-aether.
 
 Yet, I do not distinguish them from it as long as they are only among the air-aether globules. This is because:
 - we do not notice any particular effect of them there, and
 - we believe many others are contained in it
   - These are not much smaller and not more swiftly agitated
 
-Between the very smallest and these striated ones, there are innumerable other grades, as can be easily recognized from the inequality of the paths they pass through.
-
+Between the very smallest particles and these virtual photons, there are innumerable other grades, as can be easily recognized from the inequality of the paths they pass through.
