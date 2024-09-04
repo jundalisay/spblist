@@ -21,7 +21,9 @@ The material layer is the lowest layer in the universe and manifests as physical
 Attribute | Quality
 --- | ---
 Name | **Matter**
+Physics Name | Strong Interaction
 Traditional Name | Earth, Pritvi, 金
+Descartes' Name | 3rd Element
 Domain | Physical
 Force | Staticity
 Medium | Mesons (mom1)
@@ -67,15 +69,12 @@ We call quarks as qom or quantum of matter, just as we called gravitons as qost 
 Physics Name | Superphysics Name | Spin | Charge | Mass
 --- | --- | --- | --- | ---
 Up | qom1a | 1/2 | 2/3 male ♂ | 2.2 MeV/c2 
-Down | qom1b | 1/2 | -1/3 | 4.7 MeV/c2
-Charm | qom2a | 1/2 | +2/3 ♀ | 1.275 GeV 
+Down | qom1b | 1/2 | 1/3 ♂ | 4.7 MeV/c2
+Charm | qom2a | 1/2 | 2/3 ♀ | 1.275 GeV/c^2
+Strange | qom2b | 1/2 | 1/3 ♂ | 95 MeV/c^2
+Top | qom3a | 1/2 | 2/3 ♀ | 171.2 GeV/c^2
+Bottom | qom3b | 1/2 | 1/3 ♂ | 4.18 GeV/c^2
 
-<!-- | Top | Heavy woman qom | 1/2 | +2/3 |  |  |
-
-| Strange | Boy qom | 1/2 | -1/3 | 95 MeV/c2 |  |
-| Bottom | Heavy boy qom | 1/2 | -1/3 | 4.18 GeV/c2 |  |
-
-⚥ -->
 
 <!-- The lightest quark, forms neutrons with 2 down quarks and<br> protons with 2 up and 1 down -->
 

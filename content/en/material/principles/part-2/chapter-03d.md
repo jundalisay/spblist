@@ -64,4 +64,4 @@ Since Cartesian Relativity is based on state-change and is not limited by the sp
 
 This is essential in the teleportation of masses across vast distances of spacetime, and is already done by UFOs.
 
-So Cartesian-Spinoza Physics gives us a chance to catch up with advanced species. This proves that humans are not a hopelessly laggard or inherently dumb species. 
+So Cartesian-Spinozan Physics gives us a chance to catch up with advanced species. This proves that humans are not a hopelessly laggard or inherently dumb species. 

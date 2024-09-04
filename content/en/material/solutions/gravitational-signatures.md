@@ -19,13 +19,12 @@ This is similar to other famous Germans*:
 - Marx decreed that Dialectical Materialism was a superior philosophy  
 - Kant decreed that Transendence was the supreme principle
 
-> *We speculate that a [high meat diet](https://www.euractiv.com/section/agriculture-food/news/study-germans-still-love-their-meat-and-eat-plenty-of-it/) contributes to this German problem, according to the principles of Bio Superphysics.
+
+We speculate that a [high meat diet](https://www.euractiv.com/section/agriculture-food/news/study-germans-still-love-their-meat-and-eat-plenty-of-it/) contributes to this German problem, according to the principles of Bio Superphysics.
 
 
 
-Einstein's ego then deployed its real mistake by decreeing that the speed of light is constant and then used it to measure spacetime. 
-
-This makes light and electromagnetism as superior to spacetime which is totally opposite of what Nature intended. 
+Einstein's ego then deployed its real mistake by decreeing that the speed of light is constant and then used it to measure spacetime. This makes light and electromagnetism as superior to spacetime which is totally opposite of what Nature intended. 
 
 <!--  the previous post, we fixed relativity* by adhering to the rules** which Socrates*** mentioned earlier:
 - Photons must not be used to build the solution
@@ -40,9 +39,6 @@ This makes light and electromagnetism as superior to spacetime which is totally 
 
 > ***Our solution-framework comes from Asia as levitating Buddhist monks. The problem is that humans see it as mysticism. So we had to find a known Western framework that matches it, and found it in Pythagoras. But Pythagoras is still pseudoscience to the religion of Scientism, and so we use Socrates as a compromise. Anyone who says that Socrates is pseudoscience will have to say that governments and laws are pseudoscience.  -->
 
-
-<!-- We start by fitting Relativity to the 5-layer model of the Greeks.  -->
-
 {{< img alt="Five layers of Superphysics" src="/graphics/physics/layers.png" >}}
 
 <!-- cap="Descartes' Earth is now Stokes' aether, while Descartes' Fire is now Lorentz-Fresnel aether" -->
@@ -56,7 +52,9 @@ Likewise, Classical Mechanics is applicable only to the Material layer since it 
 
 Galaxies are not fundamentally material nor electromagentic. They do not act like balls that explode or push each other away when they collide. Instead, they pass through each other and eventually merge*.
 
-> *This is an example of the motion of spacetime vortices which we call Qosts 
+
+{{< n n="*This is an example of the motion of spacetime vortices which we call Qosts" >}}
+ 
 
 
 <!-- On the other hand, Special Relativity can extend down to the Weak force because it uses particles. We can see the Weak Layer as the in-between the Radiant and Material layers, just as the Spatial layer is in-between the Radiant and Aethereal layers. These 'in-betweens' are known for their interactions:
@@ -104,10 +102,14 @@ For the active version, we:
 - put everthing inside a Cartesian view which imposes obervation and timespans, consequently the timeline
 
 
-{{< img alt="Kepler Tensor" src="/graphics/keplertgr.png" cap="Material Superphysics converts Physics equations into ratios, since everything is relative and nothing, except the Absolute Entity, is absolute" >}}
+{{< img alt="Cartesian Relationality" src="/graphics/physics/gr.jpg" cap="Material Superphysics converts Physics equations into ratios, since everything is relative and nothing, except the Absolute Entity, is absolute" >}}
 
 
 We call this "Universal Relationality"
+
+
+{{< i a="Cartesian Relationality" s="/graphics/physics/relationality.jpg" c="" >}}
+
 
 Since we see the universe as a Matrix or huge computer program (or the Mind of Brahma), then the parts of universal relatvity can be seen in the [model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) paradigm:
 
@@ -133,31 +135,39 @@ MVC | Component | Metaphysical Equivalent
 - The Higgs (Citta in our Sanskrit version) would be the CEO and executives
 - The Metaphysical layer would be the mysterious board members that no one ever saw, but the existence of the company implies that they are there behind the scenes -- no board members, no company -->
 
-### Everything is in Motion. Everything is Relational.
+### Everything is in Motion. Everything is Relational because There is no Void in Nature
 
 <!-- ![Science limited box](https://sorasystem.sirv.com/graphics/layersegl.png) -->
 
-Everything is in motion because every signature interacts* obviously or non-obviously with each other. This thing that causes stars and dust to gather or disperse is the same thing that causes people to form societies or leave society, and ideas to coalesce into complex ideas or be analyzed into their basic idea. 
+Everything is in motion because every signature interacts* obviously or non-obviously with each other. This thing that causes stars and dust to gather or disperse is the same thing that causes:
+- people to form societies or leave society
+- ideas to coalesce into complex ideas or be analyzed into their basic idea. 
 
-> *We say that all forces are contact forces facilitated by the aether. Action-at-a-distance is illusory because spacetime is illusory (Maya)
+
+This means that all forces are contact forces facilitated by the aether. Action-at-a-distance is illusory because spacetime is illusory (Maya). This fulfills the maxim: **There is no Void in Nature**.
 
 
-This inquiry on the gravitational signature of everything is super laborious and is similar to Thomas Edison looking for the perfect filament for the light bulb. His search led to the saying that goes something like success is 1% inspiration and 99% perspiration. This is why, as Socrates advised, we should just keep this idea as a theory until the proper resource allocation system is developed to make the search practical. This is why we started with [fixing Economics* first](/social/economics). 
+This inquiry on the gravitational signature of everything is super laborious. In fact, Socrates only recommends looking for these signatures when all the sciences have been united. This is what Superphysics is doing.  
 
-> *Economic Superphysics works on minds which is the main 'particle' in the aethereal layer, aside from ideas and feelings. By mastering the highest layer, then the lower gravitational and electromagnetic layers will be easier to control <!-- It 
+<!--  and is similar to Thomas Edison looking for the perfect filament for the light bulb. His search led to the saying that goes something like success is 1% inspiration and 99% perspiration. This is why, as Socrates advised, we should just keep this idea as a theory until the proper resource allocation system is developed to make the search practical. This is why we started with [fixing Economics* first](/social/economics). 
+
+> *Economic Superphysics works on minds which is the main 'particle' in the aethereal layer, aside from ideas and feelings. By mastering the highest layer, then the lower gravitational and electromagnetic layers will be easier to control  -->
+
+<!-- It 
 imposes morals as fellow-feeling, and awards resources to those who have high morals and skill. Such people can then be tapped to develop the new technologies from Material Superphysics, being more confident that they will not use such technology for selfish or evil purposes.  -->
 
 
 
-{{< q a="Socrates" c="The Republic by Plato Simplified">}}
-<p>Their pursuit will be valuable for our objects if all these studies reach the point of inter-communion and connection with one another and become considered in their mutual affinities. Until then, there is no profit in pursuing them.</p>
+{{< q a="Socrates" c="The Republic by Plato Simplified Book 7, Chapter 4" >}}
+Their pursuit will be valuable for our objects if all these studies reach the point of inter-communion and connection with one another and become considered in their mutual affinities. Until then, there is no profit in pursuing them.
 {{< /q >}}
+
 
 To avoid the need to laboriously find the cause of `G` in the universe, <!--  in massive bodies and their mutual affinities with other G's --> Newton took the easy path and defined `G` (gravity) as a constant. 
 
 
 {{< q a="Newton" c="Principia Mathematica by Newton Simplified, Definitions" >}}
-<p>The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.</p>
+The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.
 {{< /q >}}
 
 
@@ -169,12 +179,13 @@ But we only demand that ‘simultaniety’ supply us with an empirical decision.
 {{< /q >}}
 
 
-The result is that their theories are not universal and will fall apart once new perceptions about the universe are obtained. It would be like setting minimum wage permanently at $10/hour hoping that it would magically keep up with inflation.
+The result is that their theories are not universal and will fall apart once new perceptions about the universe are obtained. It would be like setting minimum wage permanently at a constant of $10/hour hoping that it would magically keep up with inflation.
 
 
-### Why General Relativity Holds
 
-Einstein's general relativity only holds because the simultaniety of time is rooted in the perception action. This action is based on the generation of the idea (or feeling) to start perceiving. 
+<!-- ### Why General Relativity Holds
+
+Einstein's General Relativity only holds because the simultaniety of time is rooted in the perception action. This action is based on the generation of the idea (or feeling) to start perceiving. 
 
 The speed of the generation or perception of ideas (or feelings) holds a ratio to the speed of the generation or perception of gravitational signatures or the speed of creating discrete things within the universe (since [everything is an idea](/superphysics/principles/chapter-02/)). 
 
@@ -194,11 +205,11 @@ Instead of the material Big Bang of Physics, the universe in Superphysics began 
 
 
 
-Physical time then is the gap between two perceptions done by the Mind of the Universe within Itself, and is represented by the Cartesian view. 
+Physical time then is the gap between two perceptions done by the Mind of the Universe within Itself, and is represented by the Cartesian view.  -->
 
 <!-- There are of course other universes in the multiverse where the speed limit is actually constant. But such universes won't have much for us to think about since nothing would change in it. There are others that are slowing down.  -->
 
-From this, we can make another important assertion that General Relativity (GR) only holds for things that are measured by light:
+<!-- From this, we can make another important assertion that General Relativity (GR) only holds for things that are measured by light:
 - GR only works on gravitational lensing because light is measured
 - Gravitational waves travel at the speed of light because lasers are used to measure it. This means a lot of things move faster than light, but are never visible nor measureable by anything electronic
 
@@ -206,7 +217,7 @@ We replace Einstein's Special Relativity with the original [Law of Relativity](/
 
 We replace Einstein's General Relativity with the same Poincare Law of Relativity but using qosts (Spacetime) as the basis for Physical Time instead of Einstein's simultaniety based on `c`.
 
-To avoid mixing up Poincare's Relativity with that of Einstein, we change it to "Relationality".
+To avoid mixing up Poincare's Relativity with that of Einstein, we change it to "Relationality". -->
 
 
 
@@ -248,7 +259,6 @@ Instead, the money should be spent on gravity-detectors like LIGO which act like
 
 This is why we can make a conjecture that Einstein actually stifled science by leading physicists on a wild-goose-chase for dark matter and wormholes. Satellite Engineers would discover discrepancies in the timings of their satellites anyway, which would then create relativity theories naturally without the limiting `c`.
 
-
 <!-- 's Physics couldn't break into the higher metaphysical layer because of the absurdities in Roman Catholicism, and so it settled at the bottom Material layer. -->
 
 ### Asia to the Rescue
@@ -258,27 +268,17 @@ So far, only Buddhist and Hindu monks seem to have started properly from the Met
 <!-- Why would a CEO work down to be a janitor in the Material layer when he can instead rise up to be a board member in the Metaphysical dimension? -->
 
 
-
 {{< img alt="Buddhist metaphysics gravity" src="https://sorasystem.sirv.com/graphics/a0b1.png" cap="Levitation has been practiced by floating monks in Tibet, floating UFOs in the US and Iran, and by the ancient Egyptians who levitated huge blocks to form the pyramids, using the same natural principle that expands the universe" >}}
 
 <!-- (https://edition.cnn.com/2020/04/27/politics/pentagon-ufo-videos/index.html) -->
 
-<div class="row">
-  <div class="6u 12u$(small) py-2">
-    {{< youtube ufORgD0s2Mo >}}
-  </div>
-  <div class="6u 12u$(small) py-2">
-    {{< youtube rO_M0hLlJ-Q >}}
-  </div>
-</div>
+{{< youtube ufORgD0s2Mo >}}
 
-<br>
+{{< youtube rO_M0hLlJ-Q >}}
+
 
 Superphysics aims to solve this by uniting understandings of the materialist scientist and the metaphysician monk, just as we combined the understandings of Einstein with that of Socrates. Like Socrates (and David Hume), it does not go on to inquire into the cause or Creator of every `G`, but limits itself to knowing what is `G`.
 
-<!--  This is really to avoid the karma-police which ensures that the illusion or business of reality goes on. An example is Jesus who was punished by Nature with torture and crucifixion for doing unnatural miracles. Buddhist monks are aware of karma and avoid rocking the boat too much.  -->
-
-<!-- the  (trust me, you can't evade karma even if the time factor makes it seem that there is none).  -->
 
 Materially, this `G` can be used for:
 
@@ -288,8 +288,6 @@ Materially, this `G` can be used for:
 - Spacetime power-generation can produce energy 24/7 from the expansion of spacetime without creating carbon emissions 
 - Anti-gravitation can allow fusion, by levitating and confining hydrogen with artificial gravity instead of energy-hungry magnetic confinement
 - Modern alchemy by enhancing weak interactions to create new compounds
-
-<!-- Future posts will explain how these can be applied via Material Superphysics to create spacetime technology for levitation, teleportation, and spacetime power-generation that are all 'fueled' by gravity, and is impossible to achieve under the paradigm of the old Relativitiy: -->
 
 
 ### But wait, there's more!
@@ -302,17 +300,15 @@ Gravitational signatures don't just work for movements in the five physical laye
 - and so on..
 
 
-<!-- If Gravitational Signatures are metaphysical qualities of identities, how do they actually exist in reality? The next post explains their containers as Quanta of Aether or Qoa -->
+{{< dc t="Updates" >}}
 
---- 
-
-
-{{< mess >}}
-- June 29, 2021: changed movement energy to inherent energy and F = ma to w = mg to make it consistent with E = Gl as the rest or potential state
-- January 15, 2022: added the active version of universal relativity
+Date | Update
+--- | ---
+Jun 29, 2021 | Changed movement energy to inherent energy and F = ma to w = mg to make it consistent with E = Gl as the rest or potential state
+Jan 15, 2022 | added the active version of universal relativity
 <!-- - April 4, 2022: added Messier 87 -->
-- March 28, 2024: added Poincare's Law of Relativity and sprinkled some Descartes on Socrates
-{{< /mess >}}
+Mar 28, 2024 | added Poincare's Law of Relativity and sprinkled some Descartes on Socrates
+{{< /dc >}}
 
 
 <!-- - Replacing constant c with variable s representing the changing speed limit of the universe

@@ -15,7 +15,7 @@ icon: /icons/spmat.png
 In Material Superphysics, the aetherspace is part of the spatial layer that is above spacetime, but below timespace.
 
 Sublayer | Media | Domain  | Phenomena 
---- | --- | ---
+--- | --- | --- | ---
 Upper | Timespace | Quasi-Physical | Teleportation (via Electromagnetism)
 Middle | Aetherspace | Quasi-Physical and Physical | Gluons (via Matter)
 Lower | Spacetime | Physical | Gravity (via Matter), Dark Matter (via Light, Matter), Magnetism (via Electromagnetism) 
@@ -40,15 +40,19 @@ Extension is an attribute of God, or God is an extended thing
 
 This allows the concept of 7 dimensions each of which has its own property:
 
-Dimension | Property
---- | ---
-1 | Point-Perception
-2 | 2D-Perceptions
-3 | Physical Perceptions
-4 | Past, Present, Future
-5 | Alternate or Parallel Realities
-6 | Universes in the Multiverse
-7 | Totality of Existence
+Dimension | Property | Example
+--- | --- | ---
+1 | Point-Perception | Dot
+2 | 2D-Perceptions | 2D Curve
+3 | Physical Perceptions | 3D Sphere
+4 | Past, Present, Future | 4D Geodesic
+5 | Alternate or Parallel Realities | 5D Tunnel
+6 | Universes in the Multiverse | 6D Shift* 
+7 | Totality of Existence | 7D Totality**
+
+{{< n n="*An example is a dream that changes scenes rapidly. **An example is experiencing Everything all at once" >}}
+
+
 
 Technically, the 7th Dimension is purely aethereal and no longer part of the Spatial Layer. 
 

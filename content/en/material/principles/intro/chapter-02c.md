@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1c"
+heading: "Chapter 2c"
 title: "The Probability Layer"
 # date: 2020-01-01
 image: "/photos/objects/rubik.jpg"

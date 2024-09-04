@@ -50,9 +50,11 @@ For example, if we suppose the observer’s eye is near the center of F, the com
 
 {{< img src="/graphics/physics/vortices.jpg" alt="Vortices" >}}
 
-If the observer is near `Y`, the comet will appear somewhat larger and faster at `5`, where it first becomes visible, than at `8` where it disappears. It will appear largest and fastest when it is between `6` and `7`, where it is closest to the observer. 
-
-Thus, when it is at `5`, it may appear among the stars of Virgo, when between `6` and `7`, near the northern pole, and cover 30-40 degrees in one day, finally vanishing at `8`, near the stars of the Northern Fish. 
+If the observer is near `Y` the comet will appear:
+- somewhat larger and faster at `5`, where it first becomes visible, than at `8` where it disappears
+- largest and fastest when it is between `6` and `7`, where it is closest to the observer
+- among the stars of Virgo when it is at `5`
+- near the northern pole when between `6` and `7` and cover 30-40 degrees in one day, finally vanishing at `8`, near the stars of the Northern Fish. 
 
 This is similar to the remarkable comet observed by Regiomontanus in 1475.
 

@@ -60,18 +60,27 @@ Dark qosts lose their identity and disperse themselves onto spacetime as remnant
 <!-- Unlike stellar qosts, material qosts solidify into material bodies as a consequence of the influence of the material layer. -->
 
 
-
+{{< r a="Asker" >}}
 #### Q1. What is the difference between a qost and a gravitational signature `G`?
+{{< /r >}}
 
-A `G` is is fudamentally aethereal, while a qost is spatial. 
+
+{{< l a="Material-Superphysics" >}}
+`G` is is fudamentally aethereal, while a qost is spatial. 
 
 For immaterial objects like black holes, the gravitational signature is inside the qost, specifically in its "timespace". 
 - The qost is like the ink that makes up the barcode.
 - The `G` of the timespace is the actual like a barcode data.  
+{{< /l >}}
 
 
+
+{{< r a="Asker" >}}
 #### Q2. How does a most3 convert to a qost?
+{{< /r >}}
 
+
+{{< l a="Material-Superphysics" >}}
 Most3 are gravity particles. They convert to qost when they hit a traffic jam and get bent from being a column or line into a flat disk. 
 
 So from a linear force, they change into a spinning flat disk.  
@@ -81,13 +90,19 @@ This is similar to virtual photons that hit a traffic jam. The major difference 
 This convertibility of most3 to qost is similar to the conversion of moa2 or feeling into moa3 or idea. For example, love can both be an idea when static or a feeling when dynamic. 
 
 After the qost runs out of energy, then it reverts to back into space as a most3. At this point, we can say that the traffic jam has ended. 
+{{< /l >}}
 
 
 
+{{< r a="Asker" >}}
 #### Q2. So empty space is made of most3, not qosts? 
+{{< /r >}}
 
+
+
+{{< l a="Material-Superphysics" >}}
 Since we think of qost as a traffic jam and most3 as no traffic jam, then yes. 
-
+{{< /l >}}
 
 <!-- #### Q2. Does this mean everything in the universe is a qost?
 
@@ -102,11 +117,18 @@ The most common example of qoas are ideas. The idea of love is not bound by spac
 Rather, the idea of love is the byproduct of the experience of the gravitation between two things that have the same frequency. Likewise, hatred is the idea of the repulsion of two entities. -->
 
 
+{{< r a="Asker" >}}
 #### Q3. How does qosts affect quantum mechanics?
+{{< /r >}}
 
+
+
+{{< l a="Material-Superphysics" >}}
 Quantum mechanics deals with subatomic particles which are governed more by the aetherspace particles. 
 
 So qosts really affect classical mechanics and marco phenomena.
+{{< /l >}}
+
 
 <!-- Quantum physics was invented before the advent of computers and virtual reality. Its fundamental concept is the 'field' which came from electromagnetism (EM) of the 20th century. This field is bound by spacetime (the layer above EM).
 

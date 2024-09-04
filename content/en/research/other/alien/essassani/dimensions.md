@@ -1,6 +1,6 @@
 ---
 title: "Dimensions and Densitites"
-weight: 50
+weight: 5
 image: "/photos/physics/ai.jpg"
 description: "The Essassani has various Dimensions and Densitites"
 ---

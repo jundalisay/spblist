@@ -22,13 +22,18 @@ The spatial layer is below the aethereal, as the 'container' of reality.
 Attribute | Quality
 --- | ---
 Name | **Spacetime**
-Traditional Name | Air, Vayu
+Physics Name | Spacetime
+Traditional Name | Air, Vayu, 木
+Descartes' Name | 2nd Element
 Domain | Physical
 Force | Dynamism, Gravity
 Medium | Gravity Particles (most3)
+Substance | Space and Time
 Quanta | Spatial Vortices (qosts)
+Aether Content | 4
 Movement | Purely Kinetic
 Quality | Subtle, Controls physical reality as the speed of light
+
 
 
 {{< youtube 6D9LNAgWbRE >}}

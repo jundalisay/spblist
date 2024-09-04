@@ -2,7 +2,7 @@
 title: "Gravitational Signatures"
 heading: "Chapter 4"
 # date: 2022-01-03
-image: /graphics/keplertgr.png
+image: /graphics/physics/gr.jpg
 description: "In Superphysics, electrons have a positive or masculine charge, while protons have a negative or feminine charge"
 writer:
   name: Juan
@@ -53,21 +53,12 @@ Since motion is more striking to the mind, we call these as gravitational signat
 
 ### The Gravitational Signature Determines What Layer the Identity Exists In
 
-The `G` is used to find out what Layer the identity exists in. This denoted by the subscript `l`.  
-
-<!-- the strength or energy `E` of the identity depending on what Layer <i><sub>`l`</sub></i> it is in.  -->
-
-{{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
+Since the universe is made up of waves and each wave is a representative of a layer or element, then the properties of that identity will reveal either:
+- the layer (subscript `l`) that it is in. This in turn will help reveal its gravitational signature `G` 
+- its gravitational signature `G`. This will help reveal what layer it is in
 
 
-For example, the antimatter are created by the free aether aiming to upgrade matter.
-
-
-Layer | Antiparticle
---- | ---
-Radiant | positron :: -a(r)
-Convertible | antineutrino :: -a(c)
-Material | antihydrogen :: -a(H)
+{{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
 
 
 <!-- The resulting energy can be used to reveal the G just as the G can be used to reveal the potential energy of the identity. 
@@ -82,9 +73,12 @@ In this way, the Socratic `G` still ends up as `D` if the thinking person chases
  -->
 
 
-### The Gravitational Signature is also the Foundation of Motion
+### The Gravitational Signature is the Foundation of an Identity's Nature or its Motion
+
 
 Aside from determining the Layer, a gravitational signature also determines the range of motions that arise from the attraction or repulsion by its affinity or difference with the other signatures, whether they are from objects, entities, or minds within the same layer.
+
+{{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
 
 Lower layers are affected by higher layers, but higher layers are unaffected by the lower. For example, light is affected by gravity, but gravity is not affected by light.
 
@@ -107,8 +101,17 @@ Material | Gluons that form matter | Particle collisions that destroy that matte
  <!-- through the Law of Conservation of Idea -->
 
 
-{{< img alt="Korean BTS quantum physics" src="https://sorasystem.sirv.com/photos/btsband.jpg" cap="Gravitational signatures explain why some people are attracted and gravitate towards KPop while others are repulsed by them. In theory, this means that peace and harmony can be achieved granularly by knowing the Gravitational signatures of everyone in order to reduce the repulsion of minds, and generally by imposing higher-layer ideas like virtue (this virtue-based socio-political system is then the job of Social Superphysics)" >}}
 
+Knowing the `G` and the layer can also reveal what kind of particle it is. For example, the antimatter are created by the free aether aiming to upgrade matter.
+
+Layer | Antiparticle
+--- | ---
+Radiant | positron :: -a(r)
+Convertible | antineutrino :: -a(c)
+Material | antihydrogen :: -a(H)
+
+
+{{< img alt="Korean BTS quantum physics" src="https://sorasystem.sirv.com/photos/btsband.jpg" cap="Gravitational signatures explain why some people are attracted and gravitate towards KPop while others are repulsed by them. In theory, this means that peace and harmony can be achieved granularly by knowing the Gravitational signatures of everyone in order to reduce the repulsion of minds, and generally by imposing higher-layer ideas like virtue (this virtue-based socio-political system is then the job of Social Superphysics)" >}}
 
 <!-- ## Leads to Technologies 
 

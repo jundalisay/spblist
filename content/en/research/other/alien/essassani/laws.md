@@ -1,6 +1,6 @@
 ---
 title: "The 5 Laws of Existence"
-weight: 10
+weight: 6
 image: "/photos/objects/gavel.jpg"
 description: "The Essassani gave 5 Laws of Existence"
 ---

@@ -16,15 +16,28 @@ toc: false
 
 
 
-The Convertible Layer is the fourth layer in the universe. It downgrades the radiant energies and particles into material ones. 
+The Convertible Layer is the fourth layer. It downgrades the radiant energies and particles into material ones. 
 
-It manifests as radioactivity, chemical change, and is governed by the 'Weak Force' and graphically through Feynman diagrams.
+Attribute | Quality
+--- | ---
+Name | **Conversion**
+Physics Name | Weak Interaction
+Traditional Name | Water, Jala, 土
+Descartes' Name | 1st Element
+Domain | Physical
+Force | Change
+Medium | W- (moc1), W+ (moc2). Z Bosons (moc3)
+Substance | Neutron
+Quanta | Neutrino (qoc1)
+Aether Content | 2
+Movement | Mostly Kinetic
+Quality | Rare
+
+
+It manifests as radioactivity, chemical change, flavor changing, and is governed by the 'Weak Force' and graphically through Feynman diagrams.
 
 ![A Feynman diagram](/graphics/physics/feynman.jpg)
 
 
 In terms of creation, this is the fourth layer that processes energies and matter into other kinds 
 
-Name | Traditional Name | Physics Force | Physics Particle | Quantum | Gravitation Source
---- | --- | --- | --- | --- | ---
-Convertible | Water | Weak | W Z Bosons | Quantum of radioactivity or Qor | Neutron 

@@ -1,6 +1,6 @@
 ---
 title: "The Formula"
-weight: 10
+weight: 9
 image: "/photos/happysuccess.jpg"
 description: "The Essassani Formula"
 # author: Consolidated from Bashar

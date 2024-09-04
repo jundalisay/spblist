@@ -1,6 +1,6 @@
 ---
 title: "Basic Beliefs of the Essassani"
-weight: 1
+weight: 2
 image: "/photos/physics/quasar.jpg"
 description: "The Metaphysics followed by the Essassani"
 author: Consolidated from Bashar

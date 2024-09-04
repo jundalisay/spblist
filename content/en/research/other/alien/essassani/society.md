@@ -1,6 +1,6 @@
 ---
 title: "Unified Society"
-weight: 100
+weight: 500
 image: "/photos/meta/yinyang.jpg"
 description: "The Steps for Social Experiment"
 author: Consolidated from Bashar

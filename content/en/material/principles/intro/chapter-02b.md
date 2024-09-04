@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Chapter 2b"
 title: "The Sublayers and the Internal Boundary"
 # Theoretical Organization of the 5 Layers
 # date: 2023-11-02

@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 4"
-title: "Spin Determines Covertibility"
+heading: "Chapter 8"
+title: "Helicity Determines Covertibility"
 # # date: 2020-01-29
 # date: 2024-02-17
 image: /photos/physics/light.jpg
@@ -14,14 +14,6 @@ icon: /icons/spmat.png
 toc: false
 ---
 
-
-<!-- Physics is based on a materialistic interpretation of reality, which is opposite of the metaphysical interpretation by Superphysics. 
-
-For example, physics prefers to view things as particles. This is consistent with the atomic model of Democritus and opposite of the musical model of Pythagoras. 
-- The atomic model was embraced by Newton and Einstein
-- The musical model was embraced by Socrates and Kepler
-
-We continue this musical paradigm by using waves instead of particles. This is consistent with sound waves which manifest as the mantras which are so important to Hinduism and Buddhism.   -->
 
 
 In Part 3, we explained that the gender of a particle (male for negative charge, and female for positive) is a product of the Radiant Layer as a representation of its vortex.
@@ -39,15 +31,10 @@ Material | Color Charge | Anti-Color Charge
 
 This spin is revealed when the particle is put through an electromagnetic field. This is because the Radiant Layer is superior to the Convertible Layer. 
 
-<!-- The consequent movement of the particle reveals the inherent spin of the particle.  -->
 
-This spin direction then has a magnitude creating a direction-magnitude pair:
+But spin does not take into the account of the relational movement between the spin direction of the particle and its forward movement. 
 
-<!-- Spin has 2 inherent qualities: -->
-
-<!-- This is mirrored by the concept of particle spin or 'intrinsic angular momentum' in the Convertible and Material layers. This has  -->
-
-<!-- A necessary consequence of thinking in particles is the creation of the concept of spin. This is referred to as the  of particles in spacetime.  -->
+Helicity does that. And so spin has 2 properties in the Convertible Layer: 
 
 1. Magnitude
 
@@ -56,7 +43,7 @@ This spin direction then has a magnitude creating a direction-magnitude pair:
 - Elements have a nuclear spin from 1/2 onwards, depending on the sum of its spins. This means it has more than 3 spin states
 
 
-2. Direction
+2. Direction or Helicity
 
 - A particle can either be right-handed or left-handed
 - Particles of the same charge must have opposite-handed spins while those of different charges can have the same-handed spins per energy level
@@ -65,7 +52,8 @@ This spin direction then has a magnitude creating a direction-magnitude pair:
 {{< youtube iWSu6U0Ujs8 >}}
 
 
-Spin determines a particles convertibility into different Matter particles, or non-convertibility, staying in the Radiant Layer. 
+Helicity determines whether a particle converts or does not convert into different Matter particles. 
+
 
 <!-- The spin of a particle is determined only after it goes through detectors which impose electromagnetism on it. This taps the male-female charge principle of the Radiant Layer. -->
 
@@ -79,7 +67,6 @@ Thus:
 <!-- We can therefore equate the idea of spin to the ability of particles to mirror the qualities of the detectors or **reflect the energies imposed on them**. We will call it more properly as "binary reflectivity*" instead of spin. A particle will react with an up or down reflectivity to a detector that measures an up or down direction, and a right or left one to a detector that measures a right or left direction. -->
 
 <!-- > *Wolfgang Pauli called it "Classically non-describable two valuedness" -->
-
 
 <!-- img src="https://sorasystem.sirv.com/graphics/argonspin.jpg" alt="Argon Spin" cap="Spin is the inherent ability of particles to mirror the forces or actions done on them. In double slit experiments, the detector influences the particle, causing changes in the interference pattern. In quantum eraser experiments, the particles react differently depending on whether they are erased or not. “Erased” photons merely change locations or quantum-teleport depending the outcome for the entangled partner, and do not undergo retrocausality."
 

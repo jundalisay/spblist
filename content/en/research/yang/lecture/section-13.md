@@ -121,9 +121,7 @@ correspond to three physical symmetries of the theory, rather than redundancies.
 For our purposes, we can consider a constant V 2 SU (2) , and act as Aμ !
 V Aμ V 1 .
 
-It is straightforward to write down a
-corresponding anti-self-dual instanton with winding ⌫ = 1. We simply replace the ’t
-Hooft matrices with their anti-self dual counterparts,
+It is straightforward to write down a corresponding anti-self-dual instanton with winding ⌫ = 1. We simply replace the ’t Hooft matrices with their anti-self dual counterparts,
 
 <!-- 0
 1

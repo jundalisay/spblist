@@ -1,12 +1,12 @@
 ---
 title: "How Does Energy Become Ego-Consciousness?"
 weight: 50
-image: "/photos/idea.jpg"
+image: "/photos/objects/physics/whitehole.jpg"
 description: "The Triple 'A' Formula is based on the Triple 'A' Automative Association which you call when your car is in trouble"
 ---
 
 
-> From: Being a Whole Person
+{{< n n="From: Being a Whole Person" >}}
 
 
 

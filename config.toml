@@ -425,7 +425,7 @@ paginate = 12
       title = "Superphysics: The NTCFD Model for Goal Setting"
       sub = "We replace SMART with NTCFD based on the 5 Layers (2023)"
     [languages.en.params.tricon6.items.z]
-      url = "/superphysics/principles/chapter-07e/"
+      url = "/superphysics/principles/chapter-07f/"
       img = "/graphics/super/ai.png"
       title = "Superphysics: Autonomous Natural Intelligence"
     sub = "We propose a model-based machine learning based on Superphysics (year 2080s)"

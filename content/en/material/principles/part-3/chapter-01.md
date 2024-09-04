@@ -22,23 +22,21 @@ It manifests as light, heat, magnetism, and electricity.
 In terms of creation, this layer is the third layer that spreads across the space created by the spacetime layer.
 
 
-Radiant Layer | Name | Physics Counterpart
---- | --- | ---
-Traditional Name | Fire | Electromagnetism
-Substance | Sor | Electron   
-Medium | Mor | Light, Radio Waves, Gamma Waves 
-Quanta | Qor | Electron-fluid
+Attribute | Quality
+--- | ---
+Name | **Radiance**
+Physics Name | Electromagnetism
+Traditional Name | Fire, Tejas, 火
+Descartes' Name | 1st Element
+Domain | Physical
+Force | Light, Heat
+Medium | Light (mor1), Heat (mor2), Magnetism (mor3)
+Substance | Electron fluid (electricity)
+Quanta | Electron (qor1)
+Aether Content | 3
+Movement | Mostly Kinetic
+Quality | Most striking, conveys information, start of particles
 
-<!-- Heat EM Force -->
 
+Unlike the spacetime layer that has a universal influence, this layer has a limited space to influence which manifests as 'fields' and the 'inverse square law'. 
 
-<!-- Name | Traditional Name | Physics Name | Quantum or Substance | Force 
---- | --- | --- | --- | ---
-Radiant | Fire | Electromagentism | Electron, Photon | Electromagentism  -->
-
-
-Unlike the spacetime layer that has a very large space of influence, this layer has a limited space to influence, which manifests as 'fields'. 
-
-<!-- The error of physicists is in extending this field dynamics upwards onto the spacetime layer, as Quantum fields. 
-
-This leads to absurd concepts like singularity, which is a physical location that defies the laws of physicality. --> 

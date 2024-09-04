@@ -20,13 +20,15 @@ The aethereal layer is the first and highest layer in our 5 layers model and wil
 Attribute | Quality
 --- | ---
 Name | **Aether**
+Physics Name | Pseudoscience
 Traditional Name | Aether, Akasha, 水
+Descartes' Name | Pure Aether or Substance
 Domain | Quasi-Physical
 Force | Dynamism Feeling Particles (moa2)
 Medium | Idea (moa3)
 Substance | Free Aether (soa3)
-
 Quanta | Monads (qoa)
+Aether Content | 5
 Movement | Purely Kinetic
 Quality | Most Subtle, Highest Control
 
