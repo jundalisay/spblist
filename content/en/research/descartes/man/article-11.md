@@ -56,18 +56,29 @@ They are all so arranged, that, when it is the sembla bles to `d` which swell, t
 
 
 
-## {{< s v="12" >}} How does the body swallow the meats which are at the bottom of its mouth?
+### 12. How does the body swallow the meats which are at the bottom of its mouth?
 
+Muscle `D`:
+- raises the root of its tongue
+- holds open the passage by which the air which it breathes must enter its lung
 
-The muscle d is one of those which raise the root of its tongue, and hold open the passage by which the air which it breathes must enter its lung, and that the muscle £ is its con traire, which serves to close this passage, and by the same means to open that by which the meats which are in her mouth must descend into her esto mac, or else to raise the point of her tongue which pushes them there, and that the animal spirits which come from the concavity of her brain m, by the pore or small channel n, which remains naturally.
+Muscle `L`:
+- closes this passage
+- opens that which connects the mouth to the stomach
+- raises:
+  - the point of her tongue which pushes them there
+  - the animal spirits which come from the concavity of her brain `m`, by the pore or small channel `n`, which remains naturally.
 
-Finally, that this muscle always remains so swollen while there is no meat at the bottom of the mouth that can press it, but that it is so disposed that, when there is some, the spirits it contains immediately flow through the BF pipe, and cause those that come through the n channel to enter through the cg pipe into the E muscle, where they also go to the d muscle; 
+This muscle always remains so swollen while there is no meat at the bottom of the mouth that can press it/
 
-So the throat opens and the meats descend into the stomach, then on the continent afterwards the spirits of the n channel resume their course through BF as before. By the example of which you may also hear how this machine can sneeze, yawn, cough, and make the movements necessary to throw various other excrements.
+But when there is some meat, its spirits immediately flow through the `BF` pipe.
+- This causes those that come through the channel `n` to enter through the `CG` pipe into the muscle `E`, where they also go to the muscle `D`. 
 
+This makes the throat open and the food descend into the stomach.
 
+Then afterwards, the spirits of the channel `n` resume their course through `BF` as before. 
 
-
+This is also how the body can sneeze, yawn, cough, and make the movements necessary to throw various other excrements.
 
 <!-- To hear after this how it can be induced by the external objects which strike the organs of its senses, to move in a thousand other ways all its members, think that the little nets which I have already told you come from the innermost part of its brain, and compose the medulla of its nerves, are so arranged in all those parts of it which serve as an organ for some sense, that they can very easily be moved there by the objects of its senses. 
 

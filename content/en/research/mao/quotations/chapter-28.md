@@ -68,23 +68,23 @@ most resolute, and the least prejudiced in sizing up situations, and should rely
 on the majority of the masses and win their support.
 
 {{< cite >}}
-"The Tasks of the Chinese Communist Party in the Period of Resistance to Japan "
-(May 3, 1937), Selected Works, Vol. I, p. 274.*
+"The Tasks of the Chinese Communist Party in the Period of Resistance to Japan" (May 3, 1937), Selected Works, Vol. I, p. 274.*
 {{< /cite >}}
 
-Communists should set an example in study; at all times they should be
-pupils of the masses as well as their teachers.
-"The Role of the Chinese Communist Party in the National War" (October 1938),
-Selected Works, Vol. II, p. 198.*
-Every Communist working in the mass movements should be a friend of the
-masses and not a boss over them, an indefatigable teacher and not a
-bureaucratic politician.
+Communists should set an example in study; at all times they should be pupils of the masses as well as their teachers.
+
+<cite>"The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 198.*</cite>
+
+
+Every Communist working in the mass movements should be a friend of the masses and not a boss over them, an indefatigable teacher and not a bureaucratic politician.
 
 Communists must never separate themselves from the majority of the people or neglect them by leading only a few progressive contingents in an isolated and rash advance, but must take care to forge close links between the progressive elements and the broad masses. This is what is meant by thinking
-in terms of the majority.Ibid., p. 201.*
+in terms of the majority.
 
-We Communists are like seeds and the people are like the soil. Wherever we
-go, we must unite with the people, take root and blossom among them.
+<cite>Ibid., p. 201.*</cite>
+
+
+We Communists are like seeds and the people are like the soil. Wherever we go, we must unite with the people, take root and blossom among them.
 
 {{< cite >}}
 "On the Chungking Negotiations" (October 17, 1945), Selected Works, Vol. IV, p. 58.
@@ -92,14 +92,12 @@ go, we must unite with the people, take root and blossom among them.
 
 
 
-We Communists must be able to integrate ourselves with the masses in all
-things. If our Party members spend their whole lives sitting indoors and never
-go out to face the world and brave the storm, what good will they be to the
-Chinese people? None at all, and we do not need such people as Party
-members. We Communists ought to face the world and brave the storm the
-great world of mass struggle and the mighty storm of mass struggle.
+We Communists must be able to integrate ourselves with the masses in all things. If our Party members spend their whole lives sitting indoors and never go out to face the world and brave the storm, what good will they be to the Chinese people? 
 
-"Get Organized!" (November 29, 1943), Selected Works, Vol. III, p. 158.
+None at all, and we do not need such people as Party members. We Communists ought to face the world and brave the storm the great world of mass struggle and the mighty storm of mass struggle.
+
+<cite>"Get Organized!" (November 29, 1943), Selected Works, Vol. III, p. 158.</cite>
+
 
 The exemplary vanguard role of the Communists is of vital importance. Communists in the Eighth Route and New Fourth Armies should set an example in fighting bravely, carrying out orders, observing discipline, doing political work and fostering internal unity and solidarity.
 
@@ -108,13 +106,10 @@ The exemplary vanguard role of the Communists is of vital importance. Communists
 {{< /cite >}}
 
 
-A Communist must never be opinionated or domineering, thinking that he is
-good in everything while others are good in nothing; he must never shut
-himself up in his little room, or brag and boast and lord it over others.
+A Communist must never be opinionated or domineering, thinking that he is good in everything while others are good in nothing; he must never shut himself up in his little room, or brag and boast and lord it over others.
 
 {{< cite >}}
-"Speech at the Assembly of Representatives of the Shensi-Kansu-Ningsia Border
-Region" (November 21, 1941), Selected Works, Vol. III, p. 33.*
+"Speech at the Assembly of Representatives of the Shensi-Kansu-Ningsia Border Region" (November 21, 1941), Selected Works, Vol. III, p. 33.*
 {{< /cite >}}
 
 

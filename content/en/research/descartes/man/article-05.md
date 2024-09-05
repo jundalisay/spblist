@@ -1,6 +1,6 @@
 ---
 heading: Articles 5-7
-title: How the Blood Goes Through the Body
+title: The Pulse or Beat of the Arteries
 weight: 12
 description: "The pulse, or beat of the arteries, depends on the 11 little skins. These are like little doors which close and open the entrances of the 4 vessels which look into the 2 cavities of the heart"
 writer:
@@ -22,8 +22,7 @@ Hae autem deinceps sanguinis guttae illicò rarefactae in spatium longè majus, 
 
 contentus ab earum extremitatibus ad cor sensim refluit juxta dispositionem valvularum quarundam, quas Anatomici variis in locis infixas venis observarunt, ut manifestè satis constet idem nobis accidere. E contrà verò sanguis arterias occupans vi quadam atque pluribus pulsibus à corde ad earum extremitates propellitur, ut omnibus ejus membris facilè jungatur, et uniatur, adeoque in iisdem sistatur, eaque proinde nutriat ; quin etiam augeat, si machina humanum corpus ad hoc dispositum referat. -->
 
-
- <!-- Animals which have no lungs at all have only one cavity in the heart. -->
+<!-- Animals which have no lungs at all have only one cavity in the heart. -->
 
 #### 5. Some animals entirely lack lungs and have only one ventricle in their heart. 
 
@@ -71,7 +70,15 @@ The cause of the arterial pulse explains how both of these 2 kinds of blood adhe
 
  <!-- and various  of other surrounding bodies expel.  -->
 
-The blood contained in the veins flows back slowly from their extremities to the heart, according to the arrangement of certain valves which anatomists have observed embedded in various locations within the veins, so it is sufficiently clear that the same happens to us. 
+The blood contained in the veins flows back slowly from their extremities to the heart, according to the arrangement of certain valves embedded in various locations within the veins.
 
-Conversely, the blood occupying the arteries is propelled with a certain force and multiple pulses from the heart to the extremities of the arteries, so that it easily joins and unites with all its members and thus is retained in them, thereby nourishing and even increasing them, if the machine of the human body is arranged for this purpose.
+<!-- which anatomists have observed -->
+<!-- , so it is sufficiently clear that the same happens to us.  -->
+<!-- with a certain force and -->
+
+Conversely, the blood in the arteries is propelled through multiple pulses from the heart to the extremities of the arteries.
+- In this way, the blood easily unites with all its parts and thus is retained in them.
+- This nourishes and even increases them.
+
+<!-- , if the machine of the human body is arranged for this purpose. -->
 

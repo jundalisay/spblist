@@ -31,8 +31,7 @@ Revolutionary culture is a powerful revolutionary weapon for the masses. It prep
 All our literature and art are for the masses of the people, and in the first place for the workers, peasants and soldiers; they are created for the workers, peasants and soldiers and are for their use.
 
 {{< cite >}}
-"Talks at the Yenan Forum on Literature and Art" (May 1942), Selected Works, Vol.
-III, p. 84.*
+"Talks at the Yenan Forum on Literature and Art" (May 1942), Selected Works, Vol. III, p. 84.*
 {{< /cite >}}
 
 

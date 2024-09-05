@@ -3,8 +3,6 @@ title: "SRI RAMAKRISHNA AT SYAMPUKUR"
 image: "/covers/rama.jpg"
 heading: "Chapter 45"
 weight: 179
-
-
 description: ""
 ---
 
@@ -747,16 +745,21 @@ The mediocre physician gently tries to persuade the patient to take the medicine
 says: 'Look here. How can you get well without medicine? Take the medicine, my dear. I
 am preparing It with my own hands.' But the superior physician follows a differentmethod. If he finds the patient stubbornly refusing to swallow the medicine, he presses
 the patient's chest with his knee and forces the medicine down his throat."
-DOCTOR: "There is a form of treatment that does not require the physician to press the
-patient's chest with his knee. For instance, homeopathy."
+
+DOCTOR: "There is a form of treatment that does not require the physician to press the patient's chest with his knee. For instance, homeopathy."
+
 MASTER: "There is no fear if a good physician presses the patient's chest with his knee.
-Three classes of teachers
+
+
+### Three classes of teachers
+
 "Like the physicians, there are three classes of religious teachers. The inferior teacher is
 content with merely giving spiritual instruction; he doesn't bother about the student
 after that. The mediocre teacher explains the teaching again and again for the good of
 the student, that he may assimilate it; he persuades the student through love and
 kindness to follow it. But the superior teacher uses force, if necessary, on the stubborn
 student.
+
 (To the doctor) "The renunciation of 'woman and gold' is meant for the sannyāsi. He
 must not look even at the picture of a woman. Do you know what a woman is to a man?
 She is like spiced pickle. The very thought of pickle brings water to the tongue; it doesn't

@@ -55,7 +55,7 @@ Convertible | Weak | Water | Jala | 土 transforming earth | Thổ
 Material | Strong | Earth | Pritvi | 金 solid metal | Kim
 
 
-{{< youtube uXj1cYbAZLg >}}
+{{< youtube VzlEB7-TQDk >}}
 
 
 Here are a few examples of the manifestations in each Element:
@@ -71,9 +71,6 @@ Material | Cells
 
 
 ## The 5 Strata of the Metaphysical Body
-
-
-{{< youtube adPQAffGXG8 >}}
 
 Superphysics divides reality into the Physical and Metaphysical Domain. This is known to the West as Cartesian duality or mind-body. From the perspective of the Supreme Entity, the Body of the Supreme is made up of physical layers, while His Mind is made up of metaphysical strata:
 

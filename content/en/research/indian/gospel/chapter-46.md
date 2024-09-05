@@ -357,32 +357,44 @@ intend to come here, you are drawn as if by a subtle force? I feel that way; tha
 am asking you."
 DOCTOR: "I don't know whether I feel that. But the heart alone knows the promptings of
 the heart. (To Sri Ramakrishna) Besides, there isn't much use in speaking about it."
+
 October 24, 1885
-It was about one o'clock in the afternoon. Sri Ramakrishna was seated on the second
-floor of the house at Syampukur. Dr. Sarkar, Narendra, Mahimacharan, M., and other
-devotees were in the room. Referring to the homeopathic system of medicine, the
-Master said to Dr. Sarkar, "This treatment of yours is very good."DOCTOR: "According to homeopathy the physician has to check up the symptoms of the
-disease with the medical book. It is like Western music. The singer follows the score.
+
+It was around 1PM. 
+
+Sri Ramakrishna was seated on the 2nd floor of the house at Syampukur. Dr. Sarkar, Narendra, Mahimacharan, M., and other devotees were in the room. 
+
+Referring to homeopathy, the Master said to Dr. Sarkar, "This treatment of yours is very good."
+
+DOCTOR: "According to homeopathy the physician has to check up the symptoms of the disease with the medical book. It is like Western music. The singer follows the score. 
+
 "Where is Girish Ghosh? Never mind. Don't trouble him. He didn't sleep last night."
-Dr. Sarkar explains samādhi
+
+<!-- Dr. Sarkar explains samādhi -->
+
 MASTER: "Well, when I am in samādhi I feel intoxicated as if I were drunk with siddhi.
 What have you to say about that?"
+
 DOCTOR (to M.): "In that state the nerve centres cease to function. Hence the limbs
 become numb. Again, the legs totter because all the energy rushes toward the brain.
+
 Life consists of the nervous system. There is a nerve centre in the nape of the neck
 called the medulla oblongata. If that is injured, one may die."
+
 Mahima Chakravarty began to describe the Kundalini. He said: "The Sushumna nerve
 runs through the spinal cord in a subtle form. None can see it. That is what Śiva says."
 DOCTOR: "Śiva examined man only in his maturity. But the Europeans have examined
 man in all stages of his life from the embryo to maturity. It is good to know comparative
 history. From the history of the Sonthals one learns that Kāli was a Santhāl woman. She
 was a valiant fighter. (All laugh.)
+
 "Don't laugh, please. Let me tell you how greatly the study of comparative anatomy has
 benefited men. The difference between the actions of the pancreatic juice and bile was at
 first unknown. But later Claude Bernard examined the stomach, liver, and other paits of
 the rabbit and demonstrated that the action of bile is different from the action of the
 pancreatic juice. Therefore It stands to reason that we should watch the lower animals
 as well. The study of man alone is not enough.
+
 "Similarly, the study of comparative religion is highly beneficial.
 "Why do his [meaning the Master's] words go straight to our hearts? He has experienced
 the truths of different religions. He himself has practised the disciplines of the Hindu,

@@ -32,13 +32,16 @@ trees, branches, and leaves?' "
 
 DOCTOR: "I see that the Paramahamsa has been able to extract the essence."
 
-Then Dr. Sarkar told M. many stories about his homeopathic hospital. He showed M. the list of the patients who visited the hospital every day. He further remarked that at the beginning many medical practitioners had discouraged him about homeopathy and had
-even written against him in magazines.
+Then Dr. Sarkar told M. many stories about his homeopathic hospital. 
+
+He showed M. the list of the patients who visited the hospital every day. He said that at the beginning many medical practitioners had discouraged him about homeopathy and had even written against him in magazines.
 
 M. and Dr. Sarkar got into the doctor's carriage. The doctor visited many patients. 
 
 He entered a house of the Tagore family at Pathuriaghata and was detained there by the
 head of the family. Returning to the carriage, he began to talk to M.
+
+
 DOCTOR: "I was talking to that gentleman about the Paramahamsa. We also talked
 about Theosophy and Colonel Olcott. The Paramahamsa is angry with the gentleman. Do
 you know why? Because he says he knows everything."
@@ -276,10 +279,15 @@ Life of Jesus and read a few pages. Dr. Sarkar told M. how the first homeopathic
 was started in the teeth of great opposition. He asked M. to read the letters relating to
 it, which had been published in the "Calcutta Journal of Medicine" in 1876. Dr. Sarkar
 was much devoted to homeopathy.
-M. picked up another book, Munger's New Theology. Dr. Sarkar noticed it.Dr. Sarkar on faith
+
+M. picked up another book, Munger's New Theology.  Dr. Sarkar noticed it.
+
+<!-- Dr. Sarkar on faith -->
+
 DOCTOR: "Munger has based his conclusions on nice argument and reasoning. It is not
 like your believing a thing simply because a Chaitanya or a Buddha or Jesus Christ has
 said so."
+
 M. (smiling): "Yes, we should not believe Chaitanya or Buddha; but we must believe
 Munger!"
 DOCTOR: "Whatever you say."

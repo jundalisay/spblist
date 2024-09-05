@@ -14,7 +14,6 @@ icon: "/icons/socrates.png"
 
 {{< l a="Socrates" >}}
 In the perfect State:
-
 - the wives and children of guardians are to be in common
 - all education and war and peace are also to be common
 - the best philosophers and the bravest warriors are to be their kings
@@ -224,7 +223,10 @@ Such a person will despise riches only when he is young. But as he gets older, h
 - is not single-minded towards virtue, having lost philosophy, tempered with music.
 
 Philosophy was his best guardian. Riches comes and takes up her abode in a man. It is the only saviour of his virtue throughout life. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Such is the timocratical youth, and he is like the timocratical State. He often starts as the son of a brave father who lives in an ill-governed city. His father declines the honours and offices and will not go to law, nor exert himself in any way. But he is ready to waive his rights to escape trouble. 
 
 How does the son come into being?
@@ -250,15 +252,14 @@ If they see any one who owes money to his father, or is wronging him in any way,
 
 
 {{< l a="Socrates" >}}
-He goes abroad and hears and sees the same thing.
-Those who do their own business in the city are called simpletons
-They are held in no esteem, while the busy-bodies are honoured and applauded.
+He goes abroad and hears and sees the same thing. Those who do their own business in the city are called simpletons They are held in no esteem, while the busy-bodies are honoured and applauded.
 
 This will make the young man having a narrower view of his way of life.
 He compares himself and others and is drawn in opposite ways.
 
 While his father is watering and nourishing the rational principle in his soul, the others are encouraging the passionate and appetitive.
 {{< /l >}}
+
 
 {{< l a="Socrates" >}}
 He is not originally of a bad nature.

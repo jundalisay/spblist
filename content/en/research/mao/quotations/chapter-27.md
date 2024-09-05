@@ -19,7 +19,9 @@ Speech at the Chinese Communist Party's National Conference on Propaganda Work
 {{< /cite >}}
 
 
-Thoroughgoing materialists are fearless; we hope that all our fellow fighters will courageously shoulder their responsibilities and overcome all difficulties, fearing no setbacks or gibes, nor hesitating to criticize us Communists and give us their suggestions. "He who is not afraid of death by a thousand cuts dares to unhorse the emperor" - this is the indomitable spirit needed in our struggle to build socialism and communism.
+Thoroughgoing materialists are fearless; we hope that all our fellow fighters will courageously shoulder their responsibilities and overcome all difficulties, fearing no setbacks or gibes, nor hesitating to criticize us Communists and give us their suggestions. 
+
+"He who is not afraid of death by a thousand cuts dares to unhorse the emperor" - this is the indomitable spirit needed in our struggle to build socialism and communism.
 
 
 We have the Marxist-Leninist weapon of criticism and self-criticism. We can get rid of a bad style and keep the good.
@@ -31,10 +33,9 @@ We have the Marxist-Leninist weapon of criticism and self-criticism. We can get 
 Conscientious practice of self-criticism is still another hallmark distinguishing our Party from all other political parties. As we say, dust will accumulate if a room is not cleaned regularly, our faces will get dirty if they are not washed regularly. Our comrades' minds and our Party's work may also collect dust, and also need sweeping and washing. 
 
 The proverb "Running water is never stale and a door-hinge is never worm-eaten" means that
-constant motion prevents the inroads of germs and other organisms. To check up regularly on our work and in the process develop a democratic style of work, to fear neither criticism nor self-criticism, and to apply such good popular Chinese maxims as "Say all you know and say it without reserve", "Blame not the speaker but be warned by his words" and "Correct mistakes if
-you have committed them and guard against them if you have not" - this is
-the only effective way to prevent all kinds of political dust and germs from
-contaminating the minds of our comrades and the body of our Party.
+constant motion prevents the inroads of germs and other organisms. 
+
+To check up regularly on our work and in the process develop a democratic style of work, to fear neither criticism nor self-criticism, and to apply such good popular Chinese maxims as "Say all you know and say it without reserve", "Blame not the speaker but be warned by his words" and "Correct mistakes if you have committed them and guard against them if you have not" - this is the only effective way to prevent all kinds of political dust and germs from contaminating the minds of our comrades and the body of our Party.
 
 {{< cite >}}
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, pp. 316-17.
@@ -60,30 +61,38 @@ A person with appendicitis is saved when the surgeon removes his appendix. So lo
 
 We can never succeed if we just let ourselves go and lash out at him. In treating an ideological or a political malady, one must never be rough and rash but must adopt the approach of "curing the sickness to save the patient", which is the only correct and effective method.
 
-"Rectify the Party's Style of Work" (February 1, 1942), Selected Works, Vol. III, p. 50.*Another point that should be mentioned in connection with inner-Party criticism is that some comrades ignore the major issues and confine their attention to minor points when they make their criticism. 
+<cite>"Rectify the Party's Style of Work" (February 1, 1942), Selected Works, Vol. III, p. 50.*</cite>
+
+
+
+Another point that should be mentioned in connection with inner-Party criticism is that some comrades ignore the major issues and confine their attention to minor points when they make their criticism. 
 
 They do not understand that the main task of criticism is to point out political and organizational mistakes. As to personal shortcomings, unless they are related to political and organizational mistakes, there is no need to be overcritical or the comrades concerned will be at a loss as to what to do. Moreover, once such criticism develops, there is the great danger that within the Party attention will be concentrated exclusively on minor faults, and everyone will become timid and overcautious and forget the Party's political tasks.
 
-"On Correcting Mistaken Ideas in the Party" (December 1929), Selected Works, Vol. I,
-pp. 111-12.*
+<cite>"On Correcting Mistaken Ideas in the Party" (December 1929), Selected Works, Vol. I, pp. 111-12.*</cite>
+
 
 In inner-Party criticism, guard against subjectivism, arbitrariness and the vulgarization of criticism; statements should be based on facts and criticism should stress the political side.
-Ibid., p. 112.*
 
-Inner-Party criticism is a weapon for strengthening the Party organization and increasing its fighting capacity. In the Party organization of the Red Army, however, criticism is not always of this character, and sometimes turns into personal attack. As a result, it damages the Party organization as well as individuals. This is a manifestation of petty-bourgeois individualism. The method of correction is to help Party members understand that the purpose of criticism is to increase the Party's fighting capacity in order to achieve victory in the class struggle and that it should not be used as a means of personal attack.
-Ibid., p. 110.
+<cite>Ibid., p. 112.*</cite>
+
+
+Inner-Party criticism is a weapon for strengthening the Party organization and increasing its fighting capacity. In the Party organization of the Red Army, however, criticism is not always of this character, and sometimes turns into personal attack. 
+
+As a result, it damages the Party organization as well as individuals. This is a manifestation of petty-bourgeois individualism. The method of correction is to help Party members understand that the purpose of criticism is to increase the Party's fighting capacity in order to achieve victory in the class struggle and that it should not be used as a means of personal attack.
+
+<cite>Ibid., p. 110.</cite>
 
 If we have shortcomings, we are not afraid to have them pointed out and criticized, because we serve the people. 
 
 Anyone, no matter who, may point out our shortcomings. If he is right, we will correct them. If what he proposes will benefit the people, we will act upon it.
 
-"Serve the People" (September 8, 1941), Selected Works, Vol. III, P. 227.
 
+<cite>"Serve the People" (September 8, 1941), Selected Works, Vol. III, P. 227.</cite>
 
 We Chinese Communists base all our actions on the highest interests of the Chinese masses. Our cause is just. We never baulk at any personal sacrifice and are ready atall times to give our lives for the cause, can we be reluctant to discard any idea, viewpoint, opinion or method which is not suited to the needs of the people? Can we be willing to allow political dust and germs to dirty our clean faces or eat into our healthy organisms? 
 
-Countless revolutionary martyrs have laid down their lives in the interests of the people, and our hearts are filled with pain as we the living think of them - can there be any personal
-interest, then, that we would not sacrifice or any error that we would not discard?
+Countless revolutionary martyrs have laid down their lives in the interests of the people, and our hearts are filled with pain as we the living think of them - can there be any personal interest, then, that we would not sacrifice or any error that we would not discard?
 
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 317.*
 We must not become complacent over any success. We should check our complacency and constantly criticize our shortcomings, just as we should wash our faces or sweep the floor every day to remove the dirt and keep them clean.

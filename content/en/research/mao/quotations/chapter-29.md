@@ -27,14 +27,11 @@ From our highest organizations down to the grass-roots, we must everywhere give 
 
 What are the requirements for worthy successors to the revolutionary cause of the proletariat?
 
-They must be genuine Marxist-Leninists and not revisionists like
-Khrushchov wearing the cloak of Marxism-Leninism.
+They must be genuine Marxist-Leninists and not revisionists like Khrushchov wearing the cloak of Marxism-Leninism.
 
-They must be revolutionaries who wholeheartedly serve the overwhelming majority of the people of China and the whole world, and must not be like Khrushchov who serves both the interests of the handful of members of the privileged bourgeois stratum in his own country and those of foreign
-imperialism and reaction.
+They must be revolutionaries who wholeheartedly serve the overwhelming majority of the people of China and the whole world, and must not be like Khrushchov who serves both the interests of the handful of members of the privileged bourgeois stratum in his own country and those of foreign imperialism and reaction.
 
-They must be proletarian statesmen capable of uniting and working
-together with the overwhelming majority. Not only must they unite withthose who agree with them, they must also be good at uniting with those who disagree and even with those who formerly opposed them and have since been proved wrong in practice.
+They must be proletarian statesmen capable of uniting and working together with the overwhelming majority. Not only must they unite withthose who agree with them, they must also be good at uniting with those who disagree and even with those who formerly opposed them and have since been proved wrong in practice.
 
 But they must especially watch out for careerists and conspirators like Khrushchov and prevent such bad elements from usurping the leadership of the Party and the state at any level.
 
@@ -48,8 +45,8 @@ They must never cover up their errors like Khrushchov, and claim all the credit 
 
 Successors to the revolutionary cause of the proletariat come forward in mass struggles and are tempered in the great storms of revolution. It is essential to test and judge cadres and choose and train successors in the long course of mass struggle.
 
-Quoted in On Khrushchov's Phoney Communism and Its Historical Lessons for the
-World (July 14,1964), pp. 72-74.*
+<cite>Quoted in On Khrushchov's Phoney Communism and Its Historical Lessons for the World (July 14,1964), pp. 72-74.</cite>
+
 
 Our Party organizations must be extended all over the country and we must purposefully train tens of thousands of cadres and hundreds of first-rate mass leaders. They must be cadres and leaders versed in Marxism-Leninism, politically far-sighted, competent in work, full of the spirit of self-sacrifice, capable of tackling problems on their own, steadfast in the midst of difficulties and loyal and devoted in serving the nation, the class and the Party. 
 
@@ -67,16 +64,14 @@ Cadres are a decisive factor, once the political line is determined.
 Therefore, it is our fighting task to train large numbers of new cadres in a planned way.
 
 
-"The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 202.
+<cite>"The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 202.</cite>
 
 
-The criterion the Communist Party should apply in its cadres policy is
-whether or not a cadre is resolute in carrying out the Party line, keeps to Party
-discipline, has close ties with the masses, has the ability to find his bearings
-independently, and is active, hardworking and unselfish. This is what "appointing people on their merit" means.
+The criterion the Communist Party should apply in its cadres policy is whether or not a cadre is resolute in carrying out the Party line, keeps to Party discipline, has close ties with the masses, has the ability to find his bearings independently, and is active, hardworking and unselfish. This is what "appointing people on their merit" means.
 
-It is necessary to maintain the system of cadre participation in collective productive labour. The cadres of our Party and state are ordinary workers and not overlords sitting on the backs of the people. By taking part in collective productive labour, the cadres maintain extensive, constant and close ties with the working people. This is a major measure of fundamental importance for a socialist system; it helps to overcome bureaucracy and to prevent revisionism
-and dogmatism.
+It is necessary to maintain the system of cadre participation in collective productive labour. The cadres of our Party and state are ordinary workers and not overlords sitting on the backs of the people. By taking part in collective productive labour, the cadres maintain extensive, constant and close ties with the working people. 
+
+This is a major measure of fundamental importance for a socialist system; it helps to overcome bureaucracy and to prevent revisionism and dogmatism.
 
 {{< cite >}}
 Quoted in On Khrushchov's Phoney Communism and Its Historical Lessons for the World (July 14, 1964), pp. 68-69.*
@@ -125,26 +120,29 @@ them.
 
 When cadres are in difficulty as a result of illness, straitened means or domestic or other troubles, we must be sure to give them as much care as possible. This is how to take good care of cadres. 
 
-A leading group that is genuinely united and is linked with the masses can gradually be formed only in the process of mass struggle, and not in isolation from it. In the process of a great struggle, the composition of the leading group in most cases should not and cannot remain entirely unchanged throughout the initial, middle and final stages; the activists who come
-forward in the course of the struggle must constantly be promoted to replace
-those original members of the leading group who are inferior by comparison
-or who have degenerated.
+A leading group that is genuinely united and is linked with the masses can gradually be formed only in the process of mass struggle, and not in isolation from it. 
 
+In the process of a great struggle, the composition of the leading group in most cases should not and cannot remain entirely unchanged throughout the initial, middle and final stages.
 
-"Some Questions Concerning Methods of Leadership" (June 1, 1943), Selected Works,
-Vol. III, p. 118.*
+The activists who come forward in the course of the struggle must constantly be promoted to replace those original members of the leading group who are inferior by comparison or who have degenerated.
+
+<cite>Some Questions Concerning Methods of Leadership" (June 1, 1943), Selected Works, Vol. III, p. 118.</cite>
+
 
 If our Party does not have a great many new cadres working in unity and cooperation with the old cadres, our cause will come to a stop. All old cadres, therefore, should welcome the new ones with the utmost enthusiasm and show them the warmest solicitude. 
 
-True, new cadres have their shortcomings. They have not been long in the revolution and lack experience, andunavoidably some have brought with them vestiges of the unwholesome ideology of the old society, remnants of the ideology of petty-bourgeois individualism. But such shortcomings can be gradually eliminated through education and tempering in the revolution. The strong point of the new cadres, as Stalin has said, is that they are acutely sensitive to what is new and
+True, new cadres have their shortcomings. They have not been long in the revolution and lack experience, and unavoidably some have brought with them vestiges of the unwholesome ideology of the old society, remnants of the ideology of petty-bourgeois individualism. 
+
+But such shortcomings can be gradually eliminated through education and tempering in the revolution. The strong point of the new cadres, as Stalin has said, is that they are acutely sensitive to what is new and
 are therefore enthusiastic and active to a high degree - the very qualities which some of the old cadres lack. 
 
 Cadres, new and old, should respect each other, learn from each other and overcome their own shortcomings by learning from each other's strong points, so as to unite as one in the common
 cause and guard against sectarian tendencies.
 
-"Rectify the Party's Style of Work" (February 1, 1942), Selected Works, Vol. III, p. 47.
+<cite>"Rectify the Party's Style of Work" (February 1, 1942), Selected Works, Vol. III, p. 47.</cite>
 
-Our concern should extend to non-Party cadres as well as to Party cadres. There are many capable people outside the Party whom we must not ignore. The duty of every Communist is to rid himself of aloofness and arrogance and to work well with non-Party cadres, give them sincere help, have a warm, comradely attitude towards them and enlist their initiative in the great cause
-of resisting Japan and reconstructing the nation.
+Our concern should extend to non-Party cadres as well as to Party cadres. There are many capable people outside the Party whom we must not ignore. 
 
-"The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 202.
+The duty of every Communist is to rid himself of aloofness and arrogance and to work well with non-Party cadres, give them sincere help, have a warm, comradely attitude towards them and enlist their initiative in the great cause of resisting Japan and reconstructing the nation.
+
+<cite>The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 202.</cite>

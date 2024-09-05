@@ -4,7 +4,7 @@ title: "Common Diseases and Natural Remedies"
 description: "Here we list common diseases and Natural Remedies"
 # date: "2020-01-01"
 date: 2020-01-25
-weight: 8
+weight: 14
 image: "/photos/consult.jpg"
 writer:
   name: Juan

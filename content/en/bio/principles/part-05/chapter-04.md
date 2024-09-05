@@ -5,7 +5,7 @@ linkTitle: "Food"
 description: "The body needs pranah or vital energy to stay alive and maintain parallelism with the Positive Force"
 # date: "2020-01-01"
 date: 2020-01-25
-weight: 8
+weight: 12
 image: "/photos/grains.jpg"
 writer:
   name: Juan

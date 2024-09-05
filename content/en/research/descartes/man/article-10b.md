@@ -43,9 +43,9 @@ This marrow does not cause movement of the limbs, and so it does not fill the tu
 
 This gives them enough space to flow easily from the brain into the muscles to which these tubes or nerves extend to.
 
-The small nerve `B` `F` enters muscle `D`, which I assume is one of those that move the eye. 
-
-Once it reaches there, it divides into many small branches enveloped in a loose membrane, which can expand or contract depending on the amount of animal spirits entering or leaving the muscle. 
+The small nerve `B` `F` enters muscle `D` which moves the eye. That muscle has many small branches enveloped in a loose membrane.
+- The aminal spirits divide into those many branches.
+- This membrane can expand or contract depending on the amount of animal spirits entering or leaving the muscle.
 
 The muscle swells and contracts when the spirits enter these fibers, pulling the attached eye towards it.
 
@@ -53,7 +53,9 @@ When the spirits exit, the muscle deflates, relaxes, and extends.
 
 Besides the tube `B F`, there is another tube, `E F`, through which the animal spirits are conveyed into muscle `D` and another tube, `D G`, through which they can exit.
 
-Similarly, muscle `E`, whose function is to move the eye in the opposite direction, receives animal spirits from the brain through tube `C G` and from muscle `D` through `G`. They are returned to muscle `D` through `E F`.
+{{< i s="/graphics/bio/eyeball.png" a="Eyeball" >}}
+
+Similarly, muscle `E`'s function is to move the eye in the opposite direction. It receives animal spirits from the brain through tube `C G` and from muscle `D` through `G`. They are returned to muscle `D` through `E F`.
 
 There is no clear passage for the spirits in the muscles `D` and `E` to exit, except for where they flow back and forth between each other.
 
@@ -73,27 +75,43 @@ If the spirits in muscle `D` try to exit through `D F E` or `D F B`, the `H` val
 
 Similarly, a similar valve is in between tubes `C G` and `D G`. This can be closed by the spirits coming from tube `D G` and opened by those flowing from `C G`.
 
-If the animal spirits existing in the brain do not tend to flow or almost do not try to flow through the tubes `B F` and `C G`, the two valves `F` and `G` remain partially open or gaping, and the two muscles `D` and `E` remain flaccid and inactive, as the animal spirits contained in them flow freely from one to the other, starting from E through F to D and reciprocally from `D` through `G` to `E`. 
+If the animal spirits existing in the brain do not flow through `B F` and `C G`:
+- the two valves `F` and `G` remain partially open or gaping
+- the two muscles `D` and `E` remain flaccid and inactive.
 
-However, if the spirits contained in the brain exert a certain force to enter the two tubes B F and C G, and the force is equal on both sides, they immediately close both passages G and F and inflate the two muscles D and E as much as possible. 
+This is because the animal spirits in them flow freely from one to the other, starting from `E` through `F` to `D` and reciprocally from `D` through `G` to `E`. 
+
+
+However, if the spirits contained in the brain exert a force to enter `B F` and `C G`, and the force is equal on both sides, they immediately:
+- close both passages `G` and `F`
+- inflate the two muscles `D` and `E` as much as possible. 
 
 As a result, the eye is fixed and remains perfectly still in the same position it initially held.
 
-If the spirits leaving the brain flow with greater force through `B F` than through `C G`, they close the membrane or valve `G` and open `F`. 
+If the spirits leaving the brain flow with greater force through `B F` than through `C G`, they close the membrane or valve `G` and open `F`.
 
-Depending on whether the valve is more or less open, the muscle D, from which the spirits cannot exit, contracts, while `E` stretches, causing the eye to turn towards `D`. 
+The spirits cannot exit from muscle `D`.
 
-Conversely, if the spirits leaving the brain flow with greater force through C G than through B F, they close the membrane F and open `G`, so that the spirits from muscle D immediately flow back into muscle E, causing it to contract and pull the eye towards itself.
+Depending on whether the valve is more or less open, muscle `D` contracts, while `E` stretches.
+- This causes the eye to turn towards `D`. 
 
-These spirits are very similar to a small flame or the most refined flame. 
+Conversely, if the spirits leaving the brain flow with greater force through `C G` than through `B F`, they close the membrane `F` and open `G`.
+- In this way, the spirits from muscle `D` immediately flow back into muscle `E`.
+- This causes it to contract and pull the eye towards itself.
 
-They can hardly fail to rush rapidly from one muscle to another as soon as they are given an exit. In this matter, there is no need to imagine any other force that propels them except for the mere effort to continue their motion according to the laws of nature.
+These spirits are very similar to a small refined flame. 
 
-These spirits are very mobile and subtle. Yet this does not prevent them from having the power to inflate, stretch, and thus harden the muscles in which they are contained. 
+They rush rapidly from one muscle to another as soon as they are given an exit.
+<!-- In this matter, there is no need to imagine any other force that propels them except for  -->
+- The mere effort to continue their motion according to the laws of nature is the force that propels them.
 
-Just as air contained in a leather bellows makes it more swollen and harder, and tends to stretch the hides it contains.
+These spirits are very mobile and subtle. They can inflate, stretch, and thus harden the muscles they are in. 
 
-Whatever has been explained so far about nerve A and the two muscles D and E applies to all other nerves and muscles. 
+This is similar to air in a leather bellows:
+- makes it more swollen and harder
+- stretches the hides it contains.
+
+Whatever has been explained about nerve `A` and the muscles `D` and `E` applies to all other nerves and muscles.
 
 
 <!-- It is through this manufacture alone that the spiritsin the brain present themselves to enter into some nerves, they have the force to move at the same moment some member.

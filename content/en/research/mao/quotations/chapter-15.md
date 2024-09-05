@@ -49,22 +49,31 @@ It has been proved that the practice can only do good and can do no harm whatsoe
 "The Democratic Movement in the Army" (January 30, 1948), Selected Military Writings, 2nd ed., p. 353.
 {{< /cite >}}
 
-In the present great struggle, the Chinese Communist Party demands that all its leading bodies and all its members and cadres should give the fullest expression to their initiative, which alone can ensure victory. This initiative must be demonstrated concretely in the ability of the leading bodies, the cadres and the Party rank and file to work creatively, in their readiness to assume responsibility, in the exuberant vigour they show in their work, in their courage and ability to raise questions, voice opinions and criticize defects, and in the comradely supervision that is maintained over the leading bodies and the leading cadres. Otherwise, "initiative" will be an empty thing.
+In the present great struggle, the Chinese Communist Party demands that all its leading bodies and all its members and cadres should give the fullest expression to their initiative, which alone can ensure victory. 
 
-But the exercise of such initiative depends on the spread of democracy in Party life. It cannot be brought into play if there is not enough democracy in Party life. Only in an atmosphere of democracy can large numbers of able people be brought forward.
+This initiative must be demonstrated concretely:
+- in the ability of the leading bodies, the cadres and the Party rank and file to work creatively
+- in their readiness to assume responsibility
+- in the exuberant vigour they show in their work
+- in their courage and ability to raise questions, voice opinions and criticize defect
+- in the comradely supervision that is maintained over the leading bodies and the leading cadres. 
+
+Otherwise, "initiative" will be an empty thing.
+
+But the exercise of such initiative depends on the spread of democracy in Party life. It cannot be brought into play if there is not enough democracy in Party life. 
+
+Only in an atmosphere of democracy can large numbers of able people be brought forward.
 
 {{< cite >}}
 "The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 204.
 {{< /cite >}}
 
-Anyone should be allowed to speak out, whoever he may be, so long as he is not a hostile element and does not make malicious attacks, and it does not matter if he says something wrong. Leaders at all levels have the duty to
-listen to others. 
+Anyone should be allowed to speak out, whoever he may be, so long as he is not a hostile element and does not make malicious attacks, and it does not matter if he says something wrong. Leaders at all levels have the duty to listen to others. 
 
 Two principles must be observed: 
 
 1. Say all you know and say it without reserve
-2. Don't blame the speaker but take his words as a warning. Unless the principle of "Don't blame the speaker" is observed
-genuinely and not falsely, the result will not be "Say all you know and say it without reserve".
+2. Don't blame the speaker but take his words as a warning. Unless the principle of "Don't blame the speaker" is observed genuinely and not falsely, the result will not be "Say all you know and say it without reserve".
 
 {{< cite >}}
 "The Tasks for 1945" (December 15, 1944).
@@ -89,17 +98,16 @@ Ibid.
 
 In the sphere of theory, destroy the roots of ultra-democracy. 
 
-The danger of ultrademocracy lies in the fact that it damages or even completely wrecks the Party organization and weakens or
-even completely undermines the Party's fighting capacity. It renders the Party incapable of fulfilling its fighting tasks and thereby causing the defeat of the revolution. 
+The danger of ultrademocracy lies in the fact that it damages or even completely wrecks the Party organization and weakens or even completely undermines the Party's fighting capacity. It renders the Party incapable of fulfilling its fighting tasks and thereby causing the defeat of the revolution. 
 
 Next, it should be pointed out that the source of ultra-democracy consists in the petty bourgeoisie's individualistic aversion to discipline. 
 
 When this characteristic is brought into the Party, it develops into ultra-democratic ideas politically and organizationally. These ideas are utterly incompatible with the fighting tasks of the proletariat.
 
-"On Correcting Mistaken Ideas in the Party" (December 1929), Selected Works, Vol. I, p. 108.
+<cite>"On Correcting Mistaken Ideas in the Party" (December 1929), Selected Works, Vol. I, p. 108.</cite>
 
-Note:
-1. The "Three Check-ups" and "Three Improvements" constituted an important movement for Party consolidation and for ideological education in the army which was carried out by our Party in conjunction with the land reform during the People's
-War of Liberation. 
+### Note
+
+1. The "Three Check-ups" and "Three Improvements" constituted an important movement for Party consolidation and for ideological education in the army which was carried out by our Party in conjunction with the land reform during the People's War of Liberation. 
 
 In the localities, the "Three Check-ups" meant checking on class origin, ideology and style of work; in the armed units, the check-ups were on class origin, performance of duty and will to fight. The "Three Improvements" meant organizational consolidation, ideological education and rectification of style of work.

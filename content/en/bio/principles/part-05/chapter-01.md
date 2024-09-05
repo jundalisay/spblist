@@ -5,7 +5,7 @@ title: "The 7 Chakras in the Human Body"
 description: "The 7 Chakras are in the 5 Strata"
 # date: "2020-10-15"
 date: 2024-07-08
-weight: 4
+weight: 2
 image: "/graphics/bio/strata.jpg"
 writer:
   name: Juan

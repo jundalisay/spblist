@@ -49,27 +49,21 @@ Holding high the great standard of revolution, they rose in armed resistance and
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 261.*
 {{< /cite >}}
 
-You have many good qualities and have rendered great service, but you must always remember not to become conceited. You are respected by all, and quite rightly, but this easily leads to conceit. If you become conceited, if you are not modest and cease to exert yourselves, and if you do not respect others, do not respect the cadres and the masses, then you will cease to be heroes and models. There have been such people in the past, and I hope you will not
-follow their example.
+You have many good qualities and have rendered great service, but you must always remember not to become conceited. You are respected by all, and quite rightly, but this easily leads to conceit. 
+
+If you become conceited, if you are not modest and cease to exert yourselves, and if you do not respect others, do not respect the cadres and the masses, then you will cease to be heroes and models. There have been such people in the past, and I hope you will not follow their example.
 
 "We Must Learn to Do Economic Work" (January 10, 1945), Selected Works, Vol. III, p. 239.
 
 In the fight to wipe out the enemy and to restore and increase industrial and agricultural production, you have overcome many difficulties and hardships and demonstrated immense courage, wisdom and initiative. 
 
-You are models for the whole Chinese nation, the backbone of the victorious advance of the
-people's cause in all spheres, pillars of support to the People's Government
-and bridges linking the People's Government with the great masses.
+You are models for the whole Chinese nation, the backbone of the victorious advance of the people's cause in all spheres, pillars of support to the People's Government and bridges linking the People's Government with the great masses.
 
-Message of greetings on behalf of the Central Committee of the Chinese Communist
-Party to the Meeting of Representatives of National Combat Heroes and Model
-Workers (September 25, 1950).
+<cite>Message of greetings on behalf of the Central Committee of the Chinese Communist Party to the Meeting of Representatives of National Combat Heroes and Model Workers (September 25, 1950).</cite>
 
 
-We the Chinese nation have the spirit to fight the enemy to the last drop of
-our blood, the determination to recover our lost territory by our own efforts,
-and the ability to stand on our own feet in the family of nations.
+We the Chinese nation have the spirit to fight the enemy to the last drop of our blood, the determination to recover our lost territory by our own efforts, and the ability to stand on our own feet in the family of nations.
 
 {{< cite >}}
 "On Tactics Against Japanese Imperialism" (December 27, 1935), Selected Works, Vol. I, p. 170.*20. 
 {{< /cite >}}
-

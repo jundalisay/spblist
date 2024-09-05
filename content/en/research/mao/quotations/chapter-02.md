@@ -9,7 +9,9 @@ icon: /icons/mao.png
 ---
 
 
-Classes struggle, some classes triumph, others are eliminated. Such is history, such is the history of civilization for thousands of years. To interpret history from this viewpoint is historical materialism; standing in opposition to this viewpoint is historical idealism.
+Classes struggle, some classes triumph, others are eliminated. Such is history, such is the history of civilization for thousands of years. 
+
+To interpret history from this viewpoint is historical materialism; standing in opposition to this viewpoint is historical idealism.
 
 {{< cite >}}
 "Cast Away Illusions, Prepare for Struggle" (August 14, 1949), Selected Works, Vol. 4 p. 428.
@@ -23,7 +25,14 @@ In class society everyone lives as a member of a particular class, and every kin
 {{< /cite >}}
 
 
-Changes in society are due chiefly to the development of the internal contradictions in society, that is, the contradiction between the productive forces and the relations of production, the contradiction between classes and the contradiction between the old and the new; it is the development of these contradictions that pushes society forward and gives the impetus for the supercession of the old society by the new.
+Changes in society are due chiefly to the development of the internal contradictions in society, the contradiction between:
+- the productive forces and the relations of production
+- classes
+- the old and the new
+
+The development of these contradictions:
+- pushes society forward
+- gives the impetus for the supercession of the old society by the new.
 
 {{< cite >}}
 "On Contradiction" (August 1937), Selected Works, Vol. I, P. 314.
@@ -37,7 +46,12 @@ The ruthless economic exploitation and political oppression of the peasants by t
 {{< /cite >}}
 
 
-In the final analysis, national struggle is a matter of class struggle. Among the whites in the United States it is only the reactionary ruling circles who oppress the black people. They can in no way represent the workers, farmers, revolutionary intellectuals and other enlightened persons who comprise the overwhelming majority of the white people.
+National struggle is a matter of class struggle. 
+
+Among the whites in the United States it is only the reactionary ruling circles who oppress the black people. 
+
+They can in no way represent the workers, farmers, revolutionary intellectuals and other enlightened persons who comprise the overwhelming majority of the white people.
+
 
 {{< cite >}}
 "Statement Supporting the American Negroes in Their Just Struggle Against Racial Discrimination by U.S. Imperialism" (August 8, 1963), People of the World, Unite and Defeat the U.S. Aggressors and All Their Lackeys, 2nd ed., pp. 3-4.*
@@ -94,8 +108,7 @@ To distinguish real friends from real enemies, we must make a general analysis o
 
 Our enemies are all those in league with imperialism - the warlords, the bureaucrats, the comprador class, the big Landlord class and the reactionary section of the intelligentsia attached to them. 
 
-The leading force in our revolution is the industrial proletariat. Our closest friends are the entire semi-proletariat and petty bourgeoisie. As for the vacillating middle bourgeoisie,
-their right-wing may become our enemy and their left-wing may become our friend - but we must be constantly on our guard and not let them create confusion within our ranks.
+The leading force in our revolution is the industrial proletariat. Our closest friends are the entire semi-proletariat and petty bourgeoisie. As for the vacillating middle bourgeoisie, their right-wing may become our enemy and their left-wing may become our friend - but we must be constantly on our guard and not let them create confusion within our ranks.
 
 Whoever sides with the revolutionary people is a revolutionary. Whoever sides with imperialism, feudalism and bureaucrat-capitalism is a counter-revolutionary. Whoever sides with the revolutionary people in words only but acts otherwise is a revolutionary in speech. Whoever sides with the revolutionary people in deed as well as in word is a revolutionary in the full sense.
 
@@ -142,18 +155,29 @@ Opening address at the First Plenary Session of the Chinese People's Political C
 {{< /cite >}}
 
 
-In China, although in the main socialist transformation has been completed with respect to the system of ownership, and although the large-scale and turbulent class struggles of the masses characteristic of the previous revolutionary periods have in the main come to an end, there are still remnants of the overthrown landlord and comprador classes, there is still a
-bourgeoisie, and the remoulding of the petty bourgeoisie has only just started.
+In China, the main socialist transformation has been completed with respect to the system of ownership. The large-scale turbulent class struggles of the masses during the previous revolutionary periods have ended, the overthrown landlord and comprador classes still remain. 
 
-The class struggle is by no means over. The class struggle between the proletariat and the bourgeoisie, the class struggle between the different political forces, and the class struggle in the ideological held between the proletariat and the bourgeoisie will continue to be long and tortuous and at times will even become very acute. The proletariat seeks to transform the world according to its own world outlook, and so does the bourgeoisie. 
+There is still a bourgeoisie. The remoulding of the petty bourgeoisie has only just started.
 
-In this respect, the question of which will win out, socialism or capitalism, is still not really settled.
+The class struggle is by no means over. The class struggles are between:
+- the proletariat and the bourgeoisie
+- the different political forces
+- the ideological held between the proletariat and the bourgeoisie
+
+These will continue to be long and tortuous and at times will even become very acute.
+
+The proletariat seeks to transform the world according to its own world outlook, and so does the bourgeoisie. 
+
+Who will win out, whether socialism or capitalism, is still not really settled.
+
 
 {{< cite >}}
 On the Correct Handling of Contradictions Among the People (February 27, 1957), 1st pocket ed., pp. 51-52.
 {{< /cite >}}
 
-It will take a long time to decide the issue in the ideological struggle between socialism and capitalism in our country. This is because the influence of the bourgeoisie and of the intellectuals who come from the old society will remain in our country for a long time. And so will their class ideology. 
+It will take a long time to decide the issue in the ideological struggle between socialism and capitalism in our country. 
+
+This is because the influence of the bourgeoisie and of the intellectuals who come from the old society will remain in our country for a long time. And so will their class ideology. 
 
 <!-- If this is not sufficiently understood, or is not understood at all, the gravest mistakes will be made and the necessity of waging the struggle in the ideological field will be ignored. -->
 
@@ -182,11 +206,18 @@ The revisionists deny the differences between socialism and capitalism, between 
 One of our current important tasks on the ideological front is to unfold criticism of revisionism.
 
 
-Revisionism, or Right opportunism, is a bourgeois trend of thought that is even more dangerous than dogmatism. The revisionists, the Right opportunists, pay lip-service to Marxism. They too attack "dogmatism". But what they are really attacking is the quintessence of Marxism. 
+Revisionism, or Right opportunism, is a bourgeois trend of thought that is even more dangerous than dogmatism.
 
-They oppose or distort materialism and dialectics, oppose or try to weaken the people's democratic dictatorship and the leading role of the Communist Party, and oppose or try to weaken socialist transformation and socialist construction. 
+The revisionists pay lip-service to Marxism. They too attack "dogmatism". But they are really attacking the quintessence of Marxism. 
 
-After the basic victory of the socialist revolution in our country, there are still a number of people who vainly hope to restore the capitalist system and fight the working class on every front, including the ideological one. And their right-hand men in this struggle are the revisionists.
+They oppose or distort:
+- materialism and dialectics
+- and weaken the people's democratic dictatorship and the leading role of the Communist Party
+- or try to weaken socialist transformation and socialist construction. 
+
+After the basic victory of the socialist revolution in our country, many people still vainly hope to restore the capitalist system and fight the working class on every front, including the ideological one. 
+
+Their right-hand men in this struggle are the revisionists.
 
 {{< cite >}}
 On the Correct Handling of Contradictions Among the People (February 27, 1957), 1st pocket ed., pp. 56-57

@@ -15,51 +15,64 @@ Materialist Dialectics holds that:
 - external causes become operative through internal causes. 
 
 In a suitable temperature, an egg changes into a chicken. But no temperature can change a stone into a chicken, because each has a different basis.
-Ibid., p. 314.
 
-Marxist philosophy holds that the law of the unity of opposites is the fundamental law of the universe. This law operates universally, whether in the natural world, in human society, or in man's thinking. Between the opposites in a contradiction there is at once unity and struggle, and it is this that impels things to move and change.
+<cite>Ibid., p. 314.</cite>
+
+
+Marxist philosophy holds that the law of the unity of opposites is the fundamental law of the universe. This law operates universally, whether in the natural world, in human society, or in man's thinking. 
+
+Between the opposites in a contradiction there is at once unity and struggle, and it is this that impels things to move and change.
 
 Contradictions exist everywhere, but they differ in accordance with the different nature of different things. In any given phenomenon or thing, the unity of opposites is conditional, temporary and transitory, and hence relative, whereas the struggle of opposites is absolute.
-On the Correct Handling of Contradictions Among the People (February 27, 1957), 1st pocket ed., p. 18.
+
+
+<cite>On the Correct Handling of Contradictions Among the People (February 27, 1957), 1st pocket ed., p. 18.</cite>
 
 
 The analytical method is dialectical. By analysis, we mean analysing the contradictions in things. And sound analysis is impossible without intimate knowledge of life and without real understanding of the pertinent contradictions.
-Speech at the Chinese Communist Party's National Conference on Propaganda Work (March 12, 1957), 15th pocket ed., p. 20.
+
+<cite>Speech at the Chinese Communist Party's National Conference on Propaganda Work (March 12, 1957), 15th pocket ed., p. 20.</cite>
 
 Concrete analysis of concrete conditions, Lenin said, is "the most essential thing in Marxism, the living soul of Marxism". Lacking an analytical approach, many of our comrades do not want to go deeply into complex matters, to analyse and study them over and over again, but like to drawsimple conclusions which are either absolutely affirmative or absolutely negative… From now on we should remedy this state of affairs.
-"Our Study and the Current Situation" (April 12, 1944), Selected Works, Vol. III, p. 165.
+
+<cite>"Our Study and the Current Situation" (April 12, 1944), Selected Works, Vol. III, p. 165.</cite>
+
 
 The way these comrades look at problems is wrong. They do not look at the essential or main aspects but emphasize the non-essential or minor ones. It should be pointed out that these non-essential or minor aspects must not be overlooked and must be dealt with one by one. But they should not be taken as the essential or main aspects, or we will lose our bearings.
-On the Question of Agricultural Co-operation (July 31, 1955), 3rd ed., pp. 17-18.
+
+<cite>On the Question of Agricultural Co-operation (July 31, 1955), 3rd ed., pp. 17-18.</cite>
+
 
 In this world, things are complicated and are decided by many factors. We should look at problems from different aspects, not from just one.
-"On the Chungking Negotiations'' (October 17, 1945), Selected Works, Vol. IV, p. 54.
+
+
+<cite>"On the Chungking Negotiations'' (October 17, 1945), Selected Works, Vol. IV, p. 54.</cite>
+
 
 Only those who are subjective, one-sided and superficial in their approach to problems will smugly issue orders or directives the moment they arrive on the scene, without considering the circumstances, without viewing things in their totality (their history and their present state as a whole) and without getting to the essence of things (their nature and the internal relations between one thing and another). Such people are bound to trip and fall.
-"On Practice" (July 1937), Selected Works, Vol. I, p. 302.
 
-In studying a problem, we must shun subjectivity, one-sidedness and superficiality. To be subjective means not to look at problems objectively,
-that is, not to use the materialist viewpoint in looking at problems. 
+<cite>"On Practice" (July 1937), Selected Works, Vol. I, p. 302.</cite>
 
-I have discussed this in my essay "On Practice". To be one-sided means not to look
-at problems all-sidedly… Or it may be called seeing the part but not the
-whole, seeing the trees but not the forest. That way it is impossible to find the
-method for resolving a contradiction, it is impossible to accomplish the tasks
-of the revolution, to carry out assignments well or to develop inner-Party
-ideological struggle correctly. 
+In studying a problem, we must shun subjectivity, one-sidedness and superficiality. To be subjective means not to look at problems objectively, that is, not to use the materialist viewpoint in looking at problems. 
 
-When Sun Wu Tzu said in discussing military science, "Know the enemy and know yourself, and you can fight a hundred
-battles with no danger of defeat", he was referring to the two sides in a battle.
-Wei Cheng of the Tang Dynasty also understood the error of one-sidedness
-when he said, "Listen to both sides and you will be enlightened, heed only
-one side and you will be benighted." But our comrades often look atproblems one-sidedly, and so they often run into snags… Lenin said:
-… in order really to know an object we must embrace, study, all its sides,
-all connections and "mediations". We shall never achieve this completely, but
-the demand for all-sidedness is a safeguard against mistakes and rigidity.
+I have discussed this in my essay "On Practice". To be one-sided means not to look at problems all-sidedly… Or it may be called seeing the part but not the whole, seeing the trees but not the forest. That way it is impossible to find the method for resolving a contradiction, it is impossible to accomplish the tasks of the revolution, to carry out assignments well or to develop inner-Party ideological struggle correctly. 
+
+When Sun Wu Tzu said in discussing military science, "Know the enemy and know yourself, and you can fight a hundred battles with no danger of defeat", he was referring to the two sides in a battle. 
+
+Wei Cheng of the Tang Dynasty also understood the error of one-sidedness when he said, "Listen to both sides and you will be enlightened, heed only one side and you will be benighted." But our comrades often look atproblems one-sidedly, and so they often run into snags… Lenin said:
+
+… in order really to know an object we must embrace, study, all its sides, all connections and "mediations". We shall never achieve this completely, but the demand for all-sidedness is a safeguard against mistakes and rigidity. 
+
 We should remember his words.
 
-To be superficial means to consider neither the characteristics of a contradiction in its totality nor the characteristics of each of its aspects; it means to deny the necessity for probing deeply into a thing and minutely studying the characteristics of its contradiction, but instead merely to look from afar and, after glimpsing the rough outline, immediately to try to resolve the contradiction (to answer a question, settle a dispute, handle work, or direct a military operation). This way of doing things is bound to lead to trouble…To be one-sided and superficial is at the same time to be subjective. For all objective things are actually interconnected and are governed by inner laws, but, instead of undertaking the task of reflecting things as they really are, some people only look at things one-sidedly or superficially and know neither their interconnections nor their inner laws, and so their method is subjectivist.
-"On Contradiction" (August 1937), Selected Works, Vol. I, pp. 323-24.*
+To be superficial means to consider neither the characteristics of a contradiction in its totality nor the characteristics of each of its aspects; it means to deny the necessity for probing deeply into a thing and minutely studying the characteristics of its contradiction, but instead merely to look from afar and, after glimpsing the rough outline, immediately to try to resolve the contradiction (to answer a question, settle a dispute, handle work, or direct a military operation). 
+
+This way of doing things is bound to lead to trouble…To be one-sided and superficial is at the same time to be subjective. 
+
+For all objective things are actually interconnected and are governed by inner laws, but, instead of undertaking the task of reflecting things as they really are, some people only look at things one-sidedly or superficially and know neither their interconnections nor their inner laws, and so their method is subjectivist.
+
+<cite>"On Contradiction" (August 1937), Selected Works, Vol. I, pp. 323-24.*</cite>
+
 
 One-sidedness means thinking in terms of absolutes, that is, a metaphysical approach to problems. In the appraisal of our work, it is one-sided to regard everything either as all positive or as all negative… To regard everything as positive is to see only the good and not the bad, and to tolerate only praise and no criticism. 
 

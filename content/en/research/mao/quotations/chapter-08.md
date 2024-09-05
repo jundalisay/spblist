@@ -9,48 +9,76 @@ icon: /icons/mao.png
 ---
 
 
-The revolutionary war is a war of the masses; it can be waged only by mobilizing the masses and relying on them.
+The revolutionary war is a war of the masses.
+
+<!-- ; it can be waged only by mobilizing the masses and relying on them. -->
 
 {{< cite >}}
-"Be Concerned with the Well-Being of the Masses, Pay Attention to Methods of
-Work" (January 27, 1934), Selected Works, Vol. I. p. 147.*
+Be Concerned with the Well-Being of the Masses, Pay Attention to Methods of Work" (January 27, 1934), Selected Works, Vol. I. p. 147.*
 {{< /cite >}}
 
-What is a true bastion of iron? It is the masses, the millions upon millions of people who genuinely and sincerely support the revolution. That is the real iron bastion which it is impossible, and absolutely impossible, for any force on earth to smash. The counter-revolution cannot smash us; on the contrary, we shall smash it. Rallying millions upon millions of people round the revolutionary government and expanding our revolutionary war, we shall wipe out all counter-revolution and take over the whole of China.
+The true bastion of iron is the masses, the millions upon millions of people who genuinely and sincerely support the revolution. It is absolutely impossible for any force on earth to smash that real iron bastion.
+
+The counter-revolution cannot smash us. On the contrary, we shall smash it.
+
+Rallying millions upon millions of people round the revolutionary government and expanding our revolutionary war, we shall wipe out all counter-revolution and take over the whole of China.
 
 
-The richest source of power to wage war lies in the masses of the people. It is mainly because of the unorganized state of the Chinese masses that Japan dares to bully us. When this defect is remedied, then the Japanese aggressor, like a mad bull crashing into a ring of flames, will be surrounded by hundreds of millions of our people standing upright, the mere sound of their voices will strike terror into him, and he will be burned to death.
+The richest source of power to wage war lies in the masses of the people.
+
+Japan dares to bully us due to the unorganized state of the Chinese masses. 
+
+When this defect is remedied, then the Japanese aggressor, like a mad bull crashing into a ring of flames, will be surrounded by hundreds of millions of our people standing upright.
+
+<!-- , the mere sound of their voices will strike terror into him, and he will be burned to death. -->
 
 {{< cite >}}
 "On Protracted War" (May 1938), Selected Works, Vol. II, p. 186.
 {{< /cite >}}
 
 
-The imperialists are bullying us in such a way that we will have to deal with them seriously. Not only must we have a powerful regular army, we must also organize contingents of the people's militia on a big scale. This will make it difficult for the imperialists to move a single inch in our country in the event of invasion.
+The imperialists are bullying us in such a way that we will have to deal with them seriously.
+
+Not only must we have a powerful regular army, we must also organize contingents of the people's militia on a big scale. This will make it difficult for the imperialists to move a single inch in our country in the event of invasion.
+
 
 {{< cite >}}
 Interview with a Hsinhua News Agency correspondent (September 29, 1958).
 {{< /cite >}}
 
 
-Considering the revolutionary war as a whole, the operations of the people's guerrillas and those of the main forces of the Red Army complement each other like a man's right arm and left arm, and if we had only the main forces of the Red Army without the people's guerrillas, we would be like a warriorwith only one arm. 
+The operations of the people's guerrillas and those of the Red Army complement each other like a right arm complements the left arm.
 
-In concrete terms, and especially with regard to military operations, when we talk of the people in the base area as a factor, we mean that we have an armed people. That is the main reason why the enemy is afraid to approach our base area.
+Without the people's guerrillas, we would be like a warrior with only one arm.*
+
+{{< n n="The guerilla is a militia to complement the army" >}}
+
+
+With regard to military operations, the people in the base area are a factor. This means that we have an armed people. That is the main reason why the enemy is afraid to approach our base area.
 
 {{< cite >}}
 "Problems of Strategy in China 's Revolutionary War" (December 1936), Selected Works, Vol. I, p. 238.
 {{< /cite >}}
 
 
-Unquestionably, victory or defeat in war is determined mainly by the military, political, economic and natural conditions on both sides. But not by these alone. It is also determined by each side's subjective ability in directingthe war. 
+Unquestionably, victory or defeat in war is determined mainly by the military, political, economic and natural conditions on both sides.
 
-In his endeavour to win a war, a military strategist cannot overstep the limitations imposed by the material conditions; within these limitations, however, he can and must strive for victory. The stage of action for a military strategist is built upon objective material conditions, but on that stage he can direct the performance of many a drama, full of sound and colour, power and grandeur.
+But not by these alone. It is also determined by each side's subjective ability in directingthe war. 
+
+In his endeavour to win a war, a military strategist cannot overstep the limitations imposed by the material conditions; within these limitations, however, he can and must strive for victory. 
+
+The stage of action for a military strategist is built upon objective material conditions, but on that stage he can direct the performance of many a drama, full of sound and colour, power and grandeur.
 
 
-The object of war is specifically "to preserve oneself and destroy the enemy" (to destroy the enemy means to disarm him or "deprive him of the power to resist", and does not mean to destroy every member of his forces physically).
+The object of war is "to preserve oneself and destroy the enemy". To destroy the enemy means to disarm him or "deprive him of the power to resist". It does not mean to destroy every member of his forces physically.
 
-In ancient warfare, the spear and the shield were used, the spear to attack and destroy the enemy, and the shield to defend and preserve oneself. To the present day, all weapons are still an extension of the spear and the shield. The bomber, the machine-gun, the long-range gun and poison gas are developments of the spear, while the air-raid shelter, the steel helmet, the concrete fortification and the gas mask are developments of the shield. The
-tank is a new weapon combining the functions of both spear and shield.
+In ancient warfare, the spear and the shield were used, the spear to attack and destroy the enemy, and the shield to defend and preserve oneself. 
+
+To the present day, all weapons are still an extension of the spear and the shield. 
+
+The bomber, the machine-gun, the long-range gun and poison gas are developments of the spear, while the air-raid shelter, the steel helmet, the concrete fortification and the gas mask are developments of the shield. 
+
+The tank is a new weapon combining the functions of both spear and shield.
 
 Attack is the chief means of destroying the enemy, but defence cannot be dispensed with. In attack the immediate object is to destroy the enemy, but at the same time it is self-preservation, because if the enemy is not destroyed, you will be destroyed. 
 

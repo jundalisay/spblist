@@ -27,21 +27,16 @@ On the Correct Handling of Contradictions Among the People (February 27, 1957), 
 
 Because of their lack of political and social experience, quite a number of young people are unable to see the contrast between the old China and the new, and it is not easy for them thoroughly to comprehend the hardships our people went through in the struggle to free themselves from the oppression of the imperialists and Kuomintang reactionaries, or the long period of arduous work needed before a happy socialist society can be established. 
 
-That is why we must constantly carry on lively and effective political education among
-the masses and should always tell them the truth about the difficulties that
-crop up and discuss with them how to surmount these difficulties.
+That is why we must constantly carry on lively and effective political education among the masses and should always tell them the truth about the difficulties that crop up and discuss with them how to surmount these difficulties.
 
 The young people are the most active and vital force in society. They are the most eager to learn and the least conservative in their thinking. This is especially so in the era of socialism. 
 
 We hope that the local Party organizations in various places will help and work with the Youth League organizations and go into the question of bringing into full play the energy of our youth in particular. 
 
-The Party organizations should not treat them in the same way as everybody else and ignore their special characteristics. Of course, the young people should learn from the old and other adults, and should strive as much as possible to engage in all sorts of useful activities
-with their agreement.
+The Party organizations should not treat them in the same way as everybody else and ignore their special characteristics. Of course, the young people should learn from the old and other adults, and should strive as much as possible to engage in all sorts of useful activities with their agreement.
 
 
-Introductory note to "A Youth Shock Brigade of the No. 9 Agricultural Producers' Co-
-operative in Hsinping Township, Chungshan County " (1955), The Socialist Upsurge
-in China's Countryside, Chinese ed., Vol. III.
+<cite>Introductory note to "A Youth Shock Brigade of the No. 9 Agricultural Producers' Co-operative in Hsinping Township, Chungshan County " (1955), The Socialist Upsurge in China's Countryside, Chinese ed., Vol. III.</cite>
 
 
 How should we judge whether a youth is a revolutionary? How can we tell?
