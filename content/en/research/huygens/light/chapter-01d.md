@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1d"
-title: Contact Forces
-description: This same movement occurs in luminous solids such as charcoal or metal made red hot in the fire when the metal or wood particles are violently agitated
+title: The Constant Speed of Light
+description: Thus, the propagation of Light will always go on with an equal velocity
 image: /covers/light.jpg
 weight: 7
 contributors: ['Huygens']

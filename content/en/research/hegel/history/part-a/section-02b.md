@@ -37,7 +37,9 @@ In one form, when some philosophy or another is compared with an earlier one and
 
 In this situation there is present no totality as the unity in which they are reconciled; it exists only as completeness in the process of development. 
 
-In this way, for example, Epicureanism stands in opposition to Stoicism, or the Spinozistic substance of absolute unity is opposed to that of the Leibnizian monad, in its concrete individuality. Thus, the self-developing Spirit integrates the one-sidedness of the one principle by making the other appear. 
+In this way, for example, Epicureanism stands in opposition to Stoicism, or the Spinozistic substance of absolute unity is opposed to that of the Leibnizian monad, in its concrete individuality. 
+
+Thus, the self-developing Spirit integrates the one-sidedness of the one principle by making the other appear. 
 
 The second, more profound form of negation consists in the unification of diverse philosophies into one whole in such a way that no one of them remains independent, but all appear as parts of the one. 
 

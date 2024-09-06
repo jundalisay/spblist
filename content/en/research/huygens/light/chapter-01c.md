@@ -48,7 +48,7 @@ This is because we the tremors of a body giving out a sound are not capable of e
 The movement of light coming from the luminous body is propagated through what I call "Ethereal matter".*
 - It is not the same that serves for the propagation of sound. 
 
-{{< n n="In Cartesian Physics, Huygen's Luminiferous Aether is the 2nd Element which is now called Spacetime. It is totally different from Descartes' Pure Aether." >}}
+{{< n n="In Cartesian Physics, Huygen's Luminiferous Aether is the 2nd Element which is now called Spacetime. It is totally different from Descartes' Pure Aether. Shallow people claim that the Michelson-Morley disproved the aether when it actually proved the 2nd Element which we call air-aether." >}}
 
 
 The medium for the propagation of sound is the air. 
@@ -85,7 +85,7 @@ Air can be compressed to a much smaller space. This explains the differnt moveme
 
 The more the air is compressed, the more it exerts an effort to regain its volume.
 
-This property, along with its penetrability, remains despit its compression.
+This property, along with its penetrability, remains despite its compression.
 
 It proves that it is made up of small bodies which:
 - float around

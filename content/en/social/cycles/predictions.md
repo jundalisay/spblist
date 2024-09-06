@@ -31,6 +31,7 @@ Country | Year Prediction was Made | Prediction | Outcome
 --- | --- | --- | ---  
 World | 2015 | A global crisis will spark in 2019 marking the start of a long crisis which we call 'The Crisis Years' | {{< color val="Correct" >}}
 World | 2019 | A global financial crisis will emerge in a certain year between 2020-2030 as a result of that 2019 crisis | {{< c v="orange" >}}Pending{{< /c >}}
+![US flag](/flags/us.png) | 2024 | Harris will win | {{< c v="orange" >}}Pending{{< /c >}}
 ![Russian flag](/flags/ru.png) | 2023 | Russia will step up its offensives against Ukraine despite the lack of resources | {{< color val="Correct" >}}
 ![Israel flag](/flags/il.png) | 2023 | The Gaza war will continue well beyond 12 months. | {{< c v="orange" >}}Pending{{< /c >}}
 ![Philippine flag](/flags/ph.png) | 2022 | Bongbong Marcos will win the elections | {{< color val="Correct" >}}

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 5"
-title: "The Quantum of Aether"
+title: "The Quantum of Aether as the Free Aether"
 # date: 2023-12-10
 date: 2014-08-01
 weight: 32
@@ -13,7 +13,13 @@ writer:
 ---
 
 
-The Quantum of aether (qoa) is classified into 3:
+The Quantum of aether (qoa), more commonly manifesting as the free aether, is the smallest unit of an aethereal substance which takes the form of the universe.
+
+This free aether is made up of monads which are the most basic unit in existence. 
+
+- In 
+- In Essassani philosophy, this is called the prime radiant. 
+
 
 1. Upper Qoa
 

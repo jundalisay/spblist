@@ -9,9 +9,7 @@ image: /covers/science.png
 ---
 
 
-§ 825
-
-Thus, illusory being is the phenomenon of scepticism.
+<sup>825</sup> Thus, illusory being is the phenomenon of scepticism.
 
 The Appearance of idealism, too, is such an immediacy which is not a something or a thing, in general, not an indifferent being that would still be, apart from its determinateness and connection with the subject. 
 

@@ -62,11 +62,25 @@ He is the source of what reality there is in possibility. This is because God’
 
 This is how Descartes seems to have taken it, and subsequently Mr Poiret. It is only true of contingent truths, which depend on the principle of harmony, or the choice of the best; whereas necessary truths depend solely on his understanding, of which they are the internal object.
 
-47. This God alone is the primary unity, or the original simple substance, which produces all created or derivative monads. To speak figuratively, they are born from one moment to the next by continual flashes of lightening from the divinity; and they are limited by the receptivity of that which is created, which is essentially bounded.
+47. This God alone is the primary unity, or the original simple substance, which produces all created or derivative monads. 
 
-48. In God there is power, which is the source of everything; then there is knowledge, which contains the detailed system of ideas; and finally will, which changes or produces things in accordance with the principle of the best. 
+To speak figuratively, they are born from one moment to the next by continual flashes of lightning from the divinity. They are limited by the receptivity of that which is created, which is essentially bounded.
 
-These correspond to what there is in created monads: the subject or basis, the faculty of perception, and the faculty of appetition. But in God these attributes are absolutely infinite, or perfect; whereas in created monads or entelechies (or ‘perfection-havers’, as Ermolao Barbaro translated this word) they are only imitations, which are closer the more perfection they have.
+48. In God there is power, which is the source of everything.
+
+Then there is knowledge, which contains the detailed system of ideas. 
+
+Finally will, which changes or produces things in accordance with the principle of the best. 
+
+These correspond to what there is in created monads:
+- the subject or basis
+- the faculty of perception
+- the faculty of appetition. 
+
+But in God these attributes are absolutely infinite, or perfect.
+
+Whereas in created monads or entelechies (or ‘perfection-havers’, as Ermolao Barbaro translated this word) they are only imitations, which are closer the more perfection they have.
+
 
 49. Created beings are said to act externally in so far as they have perfection, and to be acted upon by another in so far as they are imperfect.
 
@@ -76,8 +90,17 @@ Thus activity is attributed to monads in so far as their perceptions are distinc
 
 51. But among simple substances there is only an ideal influence of one monad on another. It can have its effect only by the intervention of God. 
 
-What happens is that, right from the beginning of things, among God’s ideas, one monad has reason to demand that he pays attention to it when organising the others. For since one created monad could not have any physical influence on the interior of another, this is the only means by which the one can have any dependence on the other.
+What happens is that, right from the beginning of things, among God’s ideas, one monad has reason to demand that he pays attention to it when organising the others.
 
-52. This is how activity and passivity is mutual between created beings. For when God compares two simple substances, he finds reasons in each of them which oblige him to accommodate the one to the other.
+For since one created monad could not have any physical influence on the interior of another, this is the only means by which the one can have any dependence on the other.
 
-Consequently, what is active in certain respects is passive from a different point of view. A created being is active in so far as what is known distinctly in it provides the reason for what happens in another created substance; and it is passive in so far as the reason for what happens in it is found in what is known distinctly in another.
+
+52. This is how activity and passivity is mutual between created beings. 
+
+When God compares two simple substances, he finds reasons in each of them which oblige him to accommodate the one to the other.
+
+Consequently, what is active in certain respects is passive from a different point of view.
+
+A created being is:
+- active in so far as what is known distinctly in it provides the reason for what happens in another created substance.
+- passive in so far as the reason for what happens in it is found in what is known distinctly in another.

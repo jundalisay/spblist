@@ -9,18 +9,28 @@ image: /covers/science.png
 ---
 
 
+<sup>330</sup> The one is the simple self-relation of being-for-self in which its moments have collapsed in themselves.
 
-§ 330
+Consequently, being-for-self has the form of immediacy. Therefore, its moments now have a determinate being.
 
-The one is the simple self-relation of being-for-self in which its moments have collapsed in themselves and in which, consequently, being-for-self has the form of immediacy, and its moments therefore now have a determinate being.
 
-§ 331
+<sup>331</sup> As self-relation of the negative, the one is a process of determining.
 
-As self-relation of the negative the one is a process of determining — and as self-relation it is an infinite self-determining. But because being-for-self is now in the form of immediacy, these differences are no longer posited only as moments of one and the same self-determination, but as at the same time affirmatively present. The ideality of being-for-self as a totality thus reverts, in the first place, to reality and that too in its most fixed, abstract form, as the one. In the one, being-for-self is the posited unity of simple being and determinate being, as the absolute union of the relation to other and self-relation; but, further, the determinateness of being also stands opposed to the determination of the infinite negation, to the self-determination, so that what the one is in itself is now only ideally present in it, and the negative consequently is an other distinct from it. What shows itself to be present as distinct from the one is its own self-determining; the unity of the one with itself as thus distinguished from itself is reduced to a relation, and as a negative unity it is a negation of its own self as other, exclusion of the one as other from itself, from the one.
+As self-relation, the one is an infinite self-determining. 
+
+But being-for-self is now in the form of immediacy. This is why these differences are no longer posited only as moments of one and the same self-determination, but as at the same time affirmatively present.
+
+The ideality of being-for-self as a totality thus reverts, in the first place, to reality and that too in its most fixed, abstract form, as the one.
+
+In the one, being-for-self is the posited unity of simple being and determinate being, as the absolute union of the relation to other and self-relation.
+
+But the determinateness of being also stands opposed to the determination of the infinite negation, to the self-determination, so that what the one is in itself is now only ideally present in it, and the negative consequently is an other distinct from it.
+
+What shows itself to be present as distinct from the one is its own self-determining; the unity of the one with itself as thus distinguished from itself is reduced to a relation, and as a negative unity it is a negation of its own self as other, exclusion of the one as other from itself, from the one.
 
 (a) The One in its own self
 
-§ 332
+<sup>332</sup>
 
 In its own self the one simply is; this its being is neither a determinate being, nor a determinateness as a relation to an other, nor is it a constitution; what it is, in fact, is the accomplished negation of this circle of categories. Consequently, the one is not capable of becoming an other: it is unalterable.
 
@@ -89,9 +99,46 @@ Thus plurality appears not as an otherness, but as a determination completely ex
 
 The repulsion of the one from itself is the explication of that which the one is in itself; but infinity as explicated is here the infinity which has come forth from itself; it has come forth from itself by virtue of the immediacy of the infinite, the one. It is a simple relating of the one to the one, and no less also the absolute absence of relation in the one; it is the former according to the simple, affirmative self-relation of the one, and the latter according to the self-same relation as negative. In other words, the plurality of the one is its own positing; the one is nothing but the negative relation of the one to itself, and this relation-and therefore the one itself-is the plural one. But equally, plurality is absolutely external to the one; for the one is, precisely, the sublating of otherness; repulsion is its self-relation and simple equality with itself. The plurality of ones is infinity as a contradiction which unconstrainedly produces itself.
 
-Remark: The Monad of Leibniz.
+
+
+### The Monad of Leibniz
 
 § 348
 
-We have previously referred to the Leibnizian idealism. We may add here that this idealism which started from the ideating monad, which is determined as being for itself, advanced only as far as the repulsion just considered, and indeed only to plurality as such, in which each of the ones is only for its own self and is indifferent to the determinate being and being-for-self of the others; or, in general, for the one, there are no others at all. The monad is, by itself, the entire closed universe; it requires none of the others. But this inner manifoldness which it possesses in its ideational activity in no way affects its character as a being-for-self. The Leibnizian idealism takes up the plurality immediately as something given and does not grasp it as a repulsion of the monads. Consequently, it possesses plurality only on the side of its abstract externality. The atomistic philosophy does not possess the Notion of ideality; it does not grasp the one as an ideal being, that is, as containing within itself the two moments of being-forself and being-for-it, but only as a simple, dry, real being-for-self. It does, however, go beyond mere indifferent plurality; the atoms become further determined in regard to one another even though, strictly speaking, this involves an inconsistency; whereas, on the contrary, in that indifferent independence of the monads, plurality remains as a fixed fundamental determination, so that the connection between them falls only in the monad of monads, or in the philosopher who contemplates them.
+Leibnizian idealism started from the ideating monad.
 
+This monad is determined as being for itself. It only advances as far as the repulsion just considered, and  only to plurality as such.
+
+Each in this plurality is only for its own self.
+- Each is indifferent to the determinate being and being-for-self of the others
+
+In general, for the one, there are no others at all.
+
+The monad is, by itself, the entire closed universe.
+- It requires none of the others.
+
+Its ideational activity creates this inner manifoldness.
+- But this manifoldness in no way affects its character as a being-for-self. 
+
+The Leibnizian idealism takes up the plurality immediately as something given. 
+- It does not grasp it as a repulsion of the monads.
+
+Consequently, it possesses plurality only on the side of its abstract externality. 
+
+
+#### The Atomistic Philosophy 
+
+This does not have the Notion of ideality.
+
+It does not grasp the one as an ideal being that has within itself the 2 moments of:
+- being-forself
+- being-for-it
+
+**It only has as a simple, dry, real being-for-self.**
+
+It does, however, go beyond mere indifferent plurality. 
+
+The atoms become further determined in regard to one another. This is even though this involves an inconsistency.
+
+Whereas, on the contrary, the monads have that indifferent independence.
+- Here, plurality remains as a fixed fundamental determination, so that the connection between them falls only in the monad of monads, or in the philosopher who contemplates them.

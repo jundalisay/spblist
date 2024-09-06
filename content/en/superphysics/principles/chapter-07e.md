@@ -43,6 +43,15 @@ Imagine a ship being carried out to sea. A person sitting at the stern might alw
 {{< /q >}}
 
 
+
+{{< q a="Leibniz" c="The Monadology, Article 52" >}}
+When God compares two simple substances, he finds reasons in them to accommodate the one to the other. Consequently, what is active in certain respects is passive from a different point of view. A created being is:
+- active in so far as what is known distinctly in it provides the reason for what happens in another created substance.
+- passive in so far as the reason for what happens in it is found in what is known distinctly in another.
+{{< /q >}}
+
+
+
 In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect.
 
 The lower dimensions like ours has more rigid ratios that lead to discrete and ‘hardened’ identities, while higher dimensions have more flexible ratios that lead to more malleable ones. 

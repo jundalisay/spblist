@@ -10,9 +10,7 @@ image: /covers/science.png
 
 
 
-§ 318
-
-In being-for-self, qualitative being finds its consummation; it is infinite being. The being of the beginning lacks all determination. Determinate being is sublated but only immediately sublated being. 
+<sup>318</sup> In being-for-self, qualitative being finds its consummation; it is infinite being. The being of the beginning lacks all determination. Determinate being is sublated but only immediately sublated being. 
 
 It thus contains, to begin with, only the first negation, which is itself immediate; it is true that being, too, is preserved in it and both are united in determinate being in a simple unity, but for that very reason they are in themselves still unequal to each other and their unity is not yet posited. 
 
@@ -22,7 +20,7 @@ In being-for-self, the difference between being and determinateness or negation 
 
 
 
-§ 319
+<sup>319</sup>
 
 Being-for-self is first, immediately a being-for-self — the One.
 
@@ -86,7 +84,7 @@ Self-consciousness, however, as consciousness, enters into the difference of its
 However, to call thought, spirit, God, only an ideal being, presupposes the standpoint from which finite being counts as the real, and the ideal being or being-for-one has only a one-sided meaning.
 
 
-§ 325
+<sup>325</sup>
 
 In a previous Remark the principle of idealism was indicated and it was said that in any philosophy the precise question was, how far has the principle been carried through. 
 
@@ -94,21 +92,116 @@ As to the manner in which it is carried through, a further observation may be ma
 
 Thus the Eleatic Being or Spinoza's substance is only the abstract negation of all determinateness, without ideality being posited in substance itself. With Spinoza, as will be mentioned later, infinity is only the absolute affirmation of a thing, hence only the unmoved unity; consequently, substance does not even reach the determination of being-for-self, much less that of subject and spirit. The idealism of the noble Malebranche is in itself more explicit. 
 
-It contains the following fundamental thoughts: because God includes within himself all eternal truths, the ideas and perfections of all things, so that they are his and his alone, we see them only in him; God awakens in us our sensations of objects by an action in which there is nothing sensuous, whereby we imagine to ourselves that we obtain not only the idea of the object which represents its essential nature, but also the sensation of its existence. As then the eternal truths and Ideas (essentialities) of things are in God, are ideal, so also is their existence in God ideal, not an actual existence; though they are our objects, they are only for one. This moment of explicit and concrete idealism which is lacking in Spinozism is present here, in that absolute ideality is characterised as a knowing. Pure and profound as this idealism is, the above relations on the one hand still contain much that is indeterminate for thought and, on the other hand, their content is directly quite concrete (sin and salvation, etc., enter directly into them); the logical determination of infinity on which they would have to be based is not explicitly realised, and thus this lofty and rich idealism, though it is the product of a pure, speculative spirit, is still not the product of a pure, speculative thinking which alone can truly establish it.
+It contains the following fundamental thoughts: because God includes within himself all eternal truths, the ideas and perfections of all things, so that they are his and his alone, we see them only in him; 
 
-§ 326
+God awakens in us our sensations of objects by an action in which there is nothing sensuous, whereby we imagine to ourselves that we obtain not only the idea of the object which represents its essential nature, but also the sensation of its existence. As then the eternal truths and Ideas (essentialities) of things are in God, are ideal, so also is their existence in God ideal, not an actual existence; though they are our objects, they are only for one. 
 
-The Leibnizian idealism lies more within the bounds of the abstract Notion. The ideating being, the monad, of Leibniz is essentially ideal [Ideelles]. Ideation is a being-for-self in which the determinatenesses are not limits, and consequently not a determinate being, but only moments. Ideation is also, it is true, a more concrete determination, but here it has no further signification than that of ideality; for with Leibniz, even that which lacks consciousness is an ideating, percipient being. In this system, then, otherness is sublated; spirit and body, or the monads generally, are not others for one another, they do not limit one another and do not affect one another; all relationships generally which are based on a determinate being fall away. The diversity is only ideal and inner and in it the monad remains related only to itself; the alterations develop within the monad and are not relations of it to others. What is taken to be, in accordance with the real determination, a determinately existent relation of the monads to one another, is an independent, only simultaneous becoming, enclosed within the being-for-self of each of them. That there is a plurality of monads, that therefore they are also determined as others, does not concern the monads themselves; this is the reflection, external to them ' of a third. They are not in themselves others to one another; the being-for-self is kept pure, and is free from the accompaniment of any real being. But herein lies, too, the inadequacy of this system. The monads are such ideating, percipient beings only in themselves, or in God as the monad of monads, or even in the system. Otherness is equally present, whether in the ideation itself or in whatever shape the third assumes which considers them as others, as a plurality. The plurality of their determinate being is only excluded, and that only momentarily, the monads being posited as not-others only by abstraction. If it is a third which posits their otherness, it is also a third which sublates it; but this entire movement which gives them their ideality falls outside them. Should it be pointed out that this movement of thought itself falls, nevertheless, only within an ideating monad, the reply must be that the very content of such thinking is within itself external to itself. The transition from the oneness of absolute ideality (the monad of monads) to the category of the abstract (connectionless) plurality of determinate being, is immediate and uncomprehended (it is effected through the image of creation); and the transition from this plurality back to the oneness is equally abstract. Ideality, ideation generally, remains something formal, as also does ideation raised to the form of consciousness. just as consciousness is conceived as a one-sided form which is indifferent to its determination and content, in the above-mentioned fancy of Leibniz — namely, that the magnetic needle, if it possessed consciousness, would regard its direction to the north as freely determined by itself — so, too, ideality in the monads is a form remaining external to the plurality. Ideality is supposed to be immanent in them, their nature is supposed to be ideation; but their relationship is on the one hand their harmony, which does not fall within the sphere of their determinate being and is, consequently, pre-established; and on the other hand, this determinate being of theirs is not grasped as a being-for-other, or, further, as ideality, but is determined only as an abstract plurality; the ideality of the plurality and the further determination of it to harmony are not immanent in and proper to this plurality itself.
+This moment of explicit and concrete idealism which is lacking in Spinozism is present here, in that absolute ideality is characterised as a knowing. 
 
-§ 327
+Pure and profound as this idealism is, the above relations on the one hand still contain much that is indeterminate for thought and, on the other hand, their content is directly quite concrete (sin and salvation, etc., enter directly into them); the logical determination of infinity on which they would have to be based is not explicitly realised, and thus this lofty and rich idealism, though it is the product of a pure, speculative spirit, is still not the product of a pure, speculative thinking which alone can truly establish it.
 
-Other idealisms, as for example those of Kant and Fichte, do not go beyond the ought or the infinite progress, and remain in the dualism of determinate being and being-for-self. True, in these systems, the thing-in-itself or the infinite shock or resistance principle [Anstoss] enters directly into the ego and becomes only something for it; but it proceeds from a free otherness which is perpetuated as a negative being-in-itself. The ego is therefore undoubtedly determined as ideal [das Ideelle], as being for itself, as infinite self-relation; but the moment of being-for-one is not completed to the point where the beyond, or the direction to the beyond, vanishes. ®
+<sup>326</sup>
+
+The Leibnizian idealism lies more within the bounds of the abstract Notion.
+
+The ideating being is the monad of Leibniz. It is essentially ideal.
+
+Ideation is a being-for-self in which the determinatenesses are not limits, and consequently not a determinate being, but only moments. 
+
+Ideation is also a more concrete determination. But here, it has no further signification than that of ideality.
+
+This is because with Leibniz, even that which lacks consciousness is an ideating, percipient being.
+
+In this system, then, otherness is sublated.
+- Spirit and body, or the monads generally, are not others for one another.
+- They do not limit one another and do not affect one another
+
+All relationships generally which are based on a determinate being fall away.
+
+The diversity is only ideal and inner and in it the monad remains related only to itself.
+
+The alterations develop within the monad and are not relations of it to others.
+
+What is taken to be, in accordance with the real determination, a determinately existent relation of the monads to one another, is an independent, only simultaneous becoming, enclosed within the being-for-self of each of them. 
+
+The monads do not care that:
+- there is a plurality of monads
+- the monads are also determined as others
+
+This is the reflection, external to them ' of a third. 
+
+They are not in themselves others to one another.
+
+The being-for-self is kept pure, and is free from the accompaniment of any real being.
+
+But herein lies, too, the inadequacy of this system.
+
+The monads are ideating, percipient beings only in themselves, or in God as the monad of monads, or even in the system. 
+
+Otherness is equally present, whether in the ideation itself or in whatever shape the third assumes which considers them as others, as a plurality. 
+
+The plurality of their determinate being is only excluded, and that only momentarily, the monads being posited as not-others only by abstraction. 
+
+If it is a third which posits their otherness, it is also a third which sublates it.
+
+**But this entire movement which gives them their ideality falls outside them.** 
+
+Should it be pointed out that this movement of thought itself falls, nevertheless, only within an ideating monad, the reply must be that the very content of such thinking is within itself external to itself. 
+
+The transition from the oneness of absolute ideality (the monad of monads) to the category of the abstract (connectionless) plurality of determinate being, is immediate and uncomprehended (it is effected through the image of creation).
+
+The transition from this plurality back to the oneness is equally abstract. 
+
+Ideality, ideation generally, remains something formal, as also does ideation raised to the form of consciousness just as consciousness is conceived as a one-sided form which is indifferent to its determination and content, in the above-mentioned fancy of Leibniz — namely, that the magnetic needle, if it possessed consciousness, would regard its direction to the north as freely determined by itself — so, too, ideality in the monads is a form remaining external to the plurality. 
+
+Ideality is supposed to be immanent in them.
+
+Their nature is supposed to be ideation. But their relationship is on the one hand their harmony, which does not fall within the sphere of their determinate being and is, consequently, pre-established.
+
+On the other hand, this determinate being of theirs is not grasped as a being-for-other, or, further, as ideality, but is determined only as an abstract plurality.
+
+The ideality of the plurality and the further determination of it to harmony are not immanent in and proper to this plurality itself.
+
+
+<sup>327</sup> Other idealisms, such as those of Kant and Fichte, do not go beyond the ought or the infinite progress. They remain in the dualism of determinate being and being-for-self.
+
+With them, the thing-in-itself or the infinite shock or resistance principle [Anstoss] enters directly into the ego and becomes only something for it.
+
+But it proceeds from a free otherness which is perpetuated as a negative being-in-itself. 
+
+**The ego is therefore determined as ideal, as being for itself, as infinite self-relation. 
+ 
+ But the moment of being-for-one is not completed to the point where the beyond, or the direction to the beyond, vanishes.** ®
+
+{{< n n="Lenin, Leibniz, and Hegel are aware that Kantian philosophy is egotistic. Yet why does it persist?" >}}
+
 
 (c) The One
-§ 328
 
-Being-for-self is the simple unity of itself and its moment, being-for-one. There is before us only a single determination, the self-relation of the sublating. The moments of being-for-self have collapsed into the undifferentiatedness which is immediacy or being, but an immediacy based on the negating which is posited as its determination. Being-for-self is thus a being-for-self, and since in this immediacy its inner meaning vanishes, it is the wholly abstract limit of itself-the one.
+<sup>328</sup>
 
-§ 329
+Being-for-self is the simple unity of itself and its moment, being-for-one. 
 
-Attention may be drawn in advance to the difficulty involved in the following exposition of the development of the one and to its cause. The moments which constitute the Notion of the one as a being-for-self fall asunder in the development. They are: (1) negation in general, (2) two negations, (3) two that are therefore the same, (4) sheer opposites, (5) self-relation, identity as such, (6) relation which is negative and yet to its own self. The reason for the separation of these moments here is that the form of immediacy, of being enters into being-for-self as a being-for-self; through this immediacy each moment is posited as a distinct, affirmative determination, and yet they are no less inseparable. Hence of each determination the opposite must equally be asserted; it is this contradiction, together with the abstract nature of the moments, which constitutes the difficulty.
+There is before us only a single determination, the self-relation of the sublating. The moments of being-for-self have collapsed into the undifferentiatedness which is immediacy or being, but an immediacy based on the negating which is posited as its determination. 
+
+Being-for-self is thus a being-for-self, and since in this immediacy its inner meaning vanishes, it is the wholly abstract limit of itself-the one.
+
+
+<sup>329</sup>
+
+Attention may be drawn in advance to the difficulty involved in the following exposition of the development of the one and to its cause.
+
+The moments which constitute the Notion of the one as a being-for-self fall asunder in the development:
+
+1. Negation in general
+2. 2 negations
+3. 2 that are therefore the same
+4. Sheer opposites
+5. Self-relation, identity as such
+6. Relation which is negative and yet to its own self. 
+
+The reason for the separation of these moments here is that the form of immediacy, of being enters into being-for-self as a being-for-self.
+
+Through this immediacy, each moment is posited as a distinct, affirmative determination. Yt they are no less inseparable.
+
+Hence of each determination, the opposite must equally be asserted. It is this contradiction, together with the abstract nature of the moments, which constitutes the difficulty.
