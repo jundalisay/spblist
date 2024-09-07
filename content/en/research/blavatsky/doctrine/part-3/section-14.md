@@ -131,13 +131,35 @@ If I venture to say that our commonly received elements are not simple and primo
 ... “One first matter, all
 Indued with various forms, various degrees
 Of substance.”
+
+
 Nevertheless, the idea would have remained crystallized “in the air of Science,” and would not have descended into the thick atmosphere of Materialism and profane mortals for years to come, perhaps, had not Mr. Crookes bravely and fearlessly reduced it to its simple constituents, [pg 683]and thus publicly forced it on scientific notice. Says Plutarch:
 
 An idea is a Being incorporeal, which has no subsistence by itself, but gives figure and form unto shapeless matter, and becomes the cause of the manifestation.1074
 
-The revolution produced in old Chemistry by Avogadro was the first page in the volume of “New Chemistry.” Mr. Crookes has now turned the second page, and is boldly pointing to what may be the last. For Protyle once accepted and recognized—as invisible Ether was, both being logical and scientific necessities—Chemistry will have virtually ceased to live: it will reäppear in its reïncarnation as—“New Alchemy,” or “Meta-chemistry.” The discoverer of radiant matter will have vindicated in time the Archaic Âryan works on Occultism, and even the Vedas and Purânas. For what are the manifested “Mother,” the “Father-Son-Husband” (Aditi and Daksha, a form of Brahmâ, as Creators), and the “Son”—the three “First-born”—but simply Hydrogen, Oxygen, and that which in its terrestrial manifestation is called Nitrogen. Even the exoteric descriptions of the “First-born” Triad give all the characteristics of these three “gases.” Priestley, the “discoverer” of Oxygen, or of that which was known in the highest antiquity!
+The revolution produced in old Chemistry by Avogadro was the first page in the volume of “New Chemistry.” 
 
-Yet all the ancient, mediæval, and modern Poets and Philosophers have been anticipated even in the exoteric Hindû books as to the Elemental Vortices inaugurated by the Universal Mind—Descartes' “Plenum” of Matter differentiated into particles; Leibnitz's “ethereal fluid”; and Kant's “primitive fluid” dissolved into its elements; Kepler's solar vortex and systemic vortices; in short, through Anaxagoras, down to Galileo, Torricelli, and Swedenborg, and after them to the latest speculations by European Mystics—all this is found in the Hindû Hymns, or Mantras, to the “Gods, Monads and Atoms,” in their Fulness, for they are inseparable. In Esoteric Teachings, the most transcendental conceptions of the Universe and its mysteries, as also the most seemingly materialistic speculations, are found reconciled, because these Sciences embrace the whole scope of evolution from Spirit to Matter. As declared by an American Theosophist:
+<!-- Crookes has now turned the second page, and is boldly pointing to what may be the last. For  -->
+
+Protyle once accepted and recognized—as invisible Ether was, both being logical and scientific necessities—Chemistry will have virtually ceased to live: it will reäppear in its reïncarnation as—“New Alchemy,” or “Meta-chemistry.” 
+
+The discoverer of radiant matter will have vindicated in time the Archaic Âryan works on Occultism, and even the Vedas and Purânas.
+
+For what are the manifested “Mother,” the “Father-Son-Husband” (Aditi and Daksha, a form of Brahmâ, as Creators), and the “Son”—the three “First-born”—but simply Hydrogen, Oxygen, and that which in its terrestrial manifestation is called Nitrogen. 
+
+Even the exoteric descriptions of the “First-born” Triad give all the characteristics of these three “gases.” Priestley, the “discoverer” of Oxygen, or of that which was known in the highest antiquity!
+
+Yet all the ancient, mediæval, and modern Poets and Philosophers have been anticipated even in the exoteric Hindû books as to the Elemental Vortices inaugurated by the Universal Mind—Descartes' “Plenum” of Matter differentiated into particles; 
+
+Leibnitz's “ethereal fluid”
+
+Kant's “primitive fluid” dissolved into its elements
+
+Kepler's solar vortex and systemic vortices
+
+In short, through Anaxagoras, down to Galileo, Torricelli, and Swedenborg, and after them to the latest speculations by European Mystics—all this is found in the Hindû Hymns, or Mantras, to the “Gods, Monads and Atoms,” in their Fulness, for they are inseparable. 
+
+In Esoteric Teachings, the most transcendental conceptions of the Universe and its mysteries, as also the most seemingly materialistic speculations, are found reconciled, because these Sciences embrace the whole scope of evolution from Spirit to Matter. As declared by an American Theosophist:
 
 The Monads [of Leibnitz] may from one point of view be called force, from another matter. To Occult Science, force and matter are only two sides of the same substance.1075
 
@@ -149,23 +171,32 @@ When, therefore, Mr. Crookes declares that:
 
 If we can show how the so-called chemical elements might have been generated we shall be able to fill up a formidable gap in our knowledge of the universe,
 
-the answer is ready. The theoretical knowledge is contained in the Esoteric meaning of every Hindû cosmogony in the Purânas; the practical demonstration thereof—is in the hands of those who will not be recognized in this century, save by the very few. The scientific possibilities of various discoveries, that must inexorably lead exact Science into the acceptation of Eastern Occult views, which contain all the requisite material for the filling of those “gaps,” are, so far, at the mercy of Modern Materialism. It is only by working in the direction taken by Mr. William Crookes that there is any hope for the recognition of a few, hitherto Occult, truths.
+the answer is ready. The theoretical knowledge is contained in the Esoteric meaning of every Hindû cosmogony in the Purânas; the practical demonstration thereof—is in the hands of those who will not be recognized in this century, save by the very few. 
+
+The scientific possibilities of various discoveries, that must inexorably lead exact Science into the acceptation of Eastern Occult views, which contain all the requisite material for the filling of those “gaps,” are, so far, at the mercy of Modern Materialism. It is only by working in the direction taken by Mr. William Crookes that there is any hope for the recognition of a few, hitherto Occult, truths.
 
 Meanwhile, any one thirsting to have a glimpse at a practical diagram of the evolution of primordial Matter—which, separating and differentiating under the impulse of cyclic law, divides itself on a general view into a septenary gradation of Substance—can do no better than examine the plates attached to Mr. Crookes' lecture, Genesis of the Elements, and ponder well over some passages of the text. In one place he says:
 
-Our notions of a chemical element have expanded. Hitherto the molecule has been regarded as an aggregate of two or more atoms, and no account has been taken of the architectural design on which these atoms have been joined. We may consider that the structure of a chemical element is more complicated than has hitherto been supposed. Between the molecules we are accustomed to deal with in chemical reactions and ultimate atoms as first created, come smaller molecules or aggregates of physical atoms; these sub-molecules differ one from the other, according to the position they occupy in the yttrium edifice.
+Our notions of a chemical element have expanded. Hitherto the molecule has been regarded as an aggregate of two or more atoms, and no account has been taken of the architectural design on which these atoms have been joined. We may consider that the structure of a chemical element is more complicated than has hitherto been supposed. 
+
+Between the molecules we are accustomed to deal with in chemical reactions and ultimate atoms as first created, come smaller molecules or aggregates of physical atoms; these sub-molecules differ one from the other, according to the position they occupy in the yttrium edifice.
 
 Perhaps this hypothesis can be simplified if we imagine yttrium to be represented by a five-shilling piece. By chemical fractionation I have divided it into five separate shillings, and find that these shillings are not counterparts, but like the carbon atoms in the benzol ring, have the impress of their position, 1, 2, 3, 4, 5, stamped on them.... If I throw my shillings into the melting-pot or dissolve them chemically, the mint stamp disappears and they all turn out to be silver.1076
 
-This will be the case with all the Atoms and molecules when they [pg 685]have separated from their compound forms and bodies—when Pralaya sets in. Reverse the case, and imagine the dawn of a new Manvantara. The pure “silver” of the absorbed material will once more separate into Substance, which will generate “Divine Essences” whose “Principles”1077 are the Primary Elements, the Sub-elements, the Physical Energies, and subjective and objective Matter; or, as these are epitomized—Gods, Monads, and Atoms. If leaving for one moment the metaphysical or transcendental side of the question—dropping out of the present consideration the supersensuous and intelligent Beings and Entities believed in by the Kabalists and Christians—we turn to the theory of atomic evolution, the Occult Teachings are still found corroborated by exact Science and its confessions, so far, at least, as regards the supposed “simple” Elements, now suddenly degraded into poor and distant relatives, not even second cousins to the latter. For we are told by Mr. Crookes that:
+This will be the case with all the Atoms and molecules when they [pg 685]have separated from their compound forms and bodies—when Pralaya sets in. Reverse the case, and imagine the dawn of a new Manvantara.
+
+The pure “silver” of the absorbed material will once more separate into Substance, which will generate “Divine Essences” whose “Principles”1077 are the Primary Elements, the Sub-elements, the Physical Energies, and subjective and objective Matter; or, as these are epitomized—Gods, Monads, and Atoms.
+
+If leaving for one moment the metaphysical or transcendental side of the question—dropping out of the present consideration the supersensuous and intelligent Beings and Entities believed in by the Kabalists and Christians—we turn to the theory of atomic evolution, the Occult Teachings are still found corroborated by exact Science and its confessions, so far, at least, as regards the supposed “simple” Elements, now suddenly degraded into poor and distant relatives, not even second cousins to the latter. For we are told by Mr. Crookes that:
 
 Hitherto, it has been considered that if the atomic weight of a metal, determined by different observers, setting out from different compounds, was always found to be constant ... then such metal must rightly take rank among the simple or elementary bodies. We learn ... that this is no longer the case. Again, we have here wheels within wheels. Gadolinium is not an element but a compound. ... We have shown that yttrium is a complex of five or more new constituents. And who shall venture to gainsay that each of these constituents, if attacked in some different manner, and if the result were submitted to a test more delicate and searching than the radiant-matter test, might not be still further divisible? Where, then, is the actual ultimate element? As we advance it recedes like the tantalizing mirage lakes and groves seen by the tired and thirsty traveller in the desert. Are we in our quest for truth to be thus deluded and baulked? The very idea of an element, as something absolutely primary and ultimate, seems to be growing less and less distinct.1078
 
-In Isis Unveiled, we said:
+
+I wrote in Isis Unveiled:
 
 This mystery of first creation, which was ever the despair of Science, is unfathomable unless we accept the doctrine of Hermes. Could he [Darwin] remove his quest from the visible universe into the invisible, he might find himself on the right path. But then, he would be following in the footsteps of the Hermetists.1079
 
-Our prophecy begins to assert itself.
+<!-- Our prophecy begins to assert itself. -->
 
 But between Hermes and Huxley there is a middle course and point. Let the men of Science only throw a bridge half-way, and think seriously over the theories of Leibnitz. We have shown our [pg 686]theories with regard to the evolution of Atoms—their last formation into compound chemical molecules being produced within our terrestrial workshops in the Earth's atmosphere and not elsewhere—as strangely agreeing with the evolution of Atoms shown on Mr. Crookes' plates. Several times already it has been stated in this volume that Mârttânda, the Sun, had evolved and aggregated, together with his seven smaller Brothers, from his Mother Aditi's bosom, that bosom being Prima Mater-ia—the lecturer's primordial Protyle. Esoteric Doctrines teach the existence of
 
@@ -179,9 +210,13 @@ Occult Science teaches that the “Mother” lies stretched in Infinity, during 
 
 Spirit which is invisible Flame, which never burns, but sets on fire all that it touches, and gives it life and generation.1081
 
-And now Science tells us that “the first-born element ... most nearly allied to protyle” would be “hydrogen ... which for some time would be the only existing form of matter” in the Universe. What says Old Science? It answers: Just so; but we would call Hydrogen (and Oxygen), which—in the pre-geological and even pre-genetic ages—instils the fire of life into the “Mother” by incubation, the spirit, the noumenon, of that which becomes in its grossest form Oxygen and Hydrogen and Nitrogen on Earth—Nitrogen being of no divine origin, but merely an earth-born cement for uniting other gases and fluids, and serving as a sponge to carry in itself the Breath of Life, pure air.1082 Before these gases and fluids become what they are in our atmosphere, they are interstellar Ether; still earlier and on a deeper plane—something else, and so on in infinitum. The eminent and learned gentleman must pardon an Occultist for quoting him at such [pg 687]length; but such is the penalty of a Fellow of the Royal Society who approaches so near the precincts of the Sacred Adytum of Occult Mysteries as virtually to overstep the forbidden boundaries.
+And now Science tells us that “the first-born element ... most nearly allied to protyle” would be “hydrogen ... which for some time would be the only existing form of matter” in the Universe. What says Old Science? It answers: Just so; but we would call Hydrogen (and Oxygen), which—in the pre-geological and even pre-genetic ages—instils the fire of life into the “Mother” by incubation, the spirit, the noumenon, of that which becomes in its grossest form Oxygen and Hydrogen and Nitrogen on Earth—Nitrogen being of no divine origin, but merely an earth-born cement for uniting other gases and fluids, and serving as a sponge to carry in itself the Breath of Life, pure air.1082
 
-But it is time to leave Modern Physical Science and turn to the psychological and metaphysical side of the question. We would only remark that to the “two very reasonable postulates” required by the eminent lecturer, “to get a glimpse of some few of the secrets so darkly hidden” behind “the door of the Unknown,” a third should be added1083—lest no battering at it should avail; the postulate that Leibnitz stood on a firm groundwork of fact and truth in his speculations. The admirable and thoughtful synopsis of these speculations—as given by John Theodore Mertz in his “Leibnitz”—shows how nearly he has brushed the hidden secrets of Esoteric Theogony in his Monadologie. And yet this philosopher has hardly risen in his speculations above the first planes, the lower principles of the Cosmic Great Body. His theory soars to no loftier heights than those of the manifested life, self-consciousness and intelligence, leaving the regions of the earlier post-genetic mysteries untouched, as his ethereal fluid is post-planetary.
+Before these gases and fluids become what they are in our atmosphere, they are interstellar Ether; still earlier and on a deeper plane—something else, and so on in infinitum. The eminent and learned gentleman must pardon an Occultist for quoting him at such [pg 687]length; but such is the penalty of a Fellow of the Royal Society who approaches so near the precincts of the Sacred Adytum of Occult Mysteries as virtually to overstep the forbidden boundaries.
+
+But it is time to leave Modern Physical Science and turn to the psychological and metaphysical side of the question. 
+
+We would only remark that to the “two very reasonable postulates” required by the eminent lecturer, “to get a glimpse of some few of the secrets so darkly hidden” behind “the door of the Unknown,” a third should be added1083—lest no battering at it should avail; the postulate that Leibnitz stood on a firm groundwork of fact and truth in his speculations. The admirable and thoughtful synopsis of these speculations—as given by John Theodore Mertz in his “Leibnitz”—shows how nearly he has brushed the hidden secrets of Esoteric Theogony in his Monadologie. And yet this philosopher has hardly risen in his speculations above the first planes, the lower principles of the Cosmic Great Body. His theory soars to no loftier heights than those of the manifested life, self-consciousness and intelligence, leaving the regions of the earlier post-genetic mysteries untouched, as his ethereal fluid is post-planetary.
 
 But this third postulate will hardly be accepted by the modern men of Science; and, like Descartes, they will prefer keeping to the properties of external things, which, like extension, are incapable of explaining the phenomenon of motion, rather than accept the latter as an independent Force. They will never become anti-Cartesian in this generation; nor will they admit that:
 
