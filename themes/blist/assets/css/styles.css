@@ -309,8 +309,11 @@ blockquote {
   word-break: break-word;
 /*  background-color: silver !important;*/
 /*  color: darkcyan !important;*/
-/*  font-color: seagreen;*/
+  color: mediumseagreen !important;
+  border-left-color: seagreen !important;
 }
+/*  border-left-color: turquoise */
+
 
 .box {
   border-radius: 6px;
