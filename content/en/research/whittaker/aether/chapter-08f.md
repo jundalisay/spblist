@@ -22,9 +22,12 @@ Later investigators[43] showed that it was generally associated with "surface-co
 
 Such an association seemed to indicate that the dispersive property of a substance is intimately connected with a certain frequency of vibration which is peculiar to that substance, and which, when it happens to fall within the limits of the visible spectrum, is apparent in the surface-colour. 
 
-This idea of a frequency of vibration peculiar to each kind of ponderable. matter is found in the writings of Stokes as far back as the year 1852;[44] when, discussing fluorescence, he remarked:—"Nothing seems more natural than to suppose that the incident vibrations of the luminiferous aether produce vibratory movements among the ultimate molecules of sensitive substances, and that the molecules in turn, swinging on their own account, produce vibrations in the luminiferous aether, and thus cause the sensation of light. 
+This idea of a frequency of vibration peculiar to each kind of ponderable matter is found in the writings of Stokes as far back as the year 1852[44]. 
 
-The periodic times of these vibrations depend on the periods in which the molecules are disposed to swing, not upon the periodic time of the incident vibrations."
+He remarked, when discussing fluorescence:
+
+"The incident vibrations of the luminiferous aether produce vibratory movements among the ultimate molecules of sensitive substances, and that the molecules in turn, swinging on their own account, produce vibrations in the luminiferous aether, and thus cause the sensation of light. The periodic times of these vibrations depend on the periods in which the molecules are disposed to swing, not upon the periodic time of the incident vibrations."
+
 
 This principle of considering the molecules as dynamical systems which possess natural free periods, and which interact with the incident vibrations, lies at the basis of We may all modern theories of dispersion. 
 

@@ -115,17 +115,28 @@ The Commission was largely made up of Laplace, Poisson, and Biot.
 
 During the examination, however, Fresnel was vindicated in a curious way.
 
-He had calculated in the mernoir the diffraction-patterns of a straight edge, of a narrow opaque body bounded by parallel sides, and of a narrow opening bounded by parallel cdges, and had shown that the results agreed excellently with his experimental measures. 
+In the mernoir, he had calculated the diffraction-patterns of:
+- a straight edge
+- a narrow opaque body bounded by parallel sides
+- a narrow opening bounded by parallel edges
 
-Poisson, when reading the manuscript, happened to notice that the analysis could be extended to other cases, and in particular that it would indicate the existence of a bright spot at the centre of the shadow of a circular screen.
+The results agreed excellently with his experimental measures. 
 
-He suggested to Fresnel that this and some further consequences should be tested experimentally; this was done, and the results were found to confirm the new theory. 
+Poisson read the manuscript. He noticed that the analysis could be extended to other cases. It would indicate the existence of a bright spot at the centre of the shadow of a circular screen.
 
-The concordance of observation and calculation was so admirable in all cases where a comparison was possible that the prize was awarded to Fresnel without further hesitation.
+He suggested to Fresnel that this and some further consequences should be tested experimentally.
 
-In the same year in which the memoir on diffraction was submitted, Fresnel published an investigation[32] of the influence of the earth's motion on light. 
+This was done. The results were found to confirm the new theory. 
 
-We have already seen that aberration was explained by its discoverer in terms of the corpuscular theory, and it was Young who first showed[33] how it may be explained on the wave-hypothesis. "Upon considering the phenomena of the aberration of the stars," he wrote, "I am disposed to believe that the luminiferous aether pervades the substance of all material bodies with little or no resistance, as freely perhaps as the wind passes through a grove of trees." 
+<!-- The concordance of observation and calculation was so admirable in all cases where a comparison was possible that  -->
+
+The prize was awarded to Fresnel without further hesitation.
+
+In the same year when the memoir on diffraction was submitted, Fresnel published an investigation[32] of the influence of the earth's motion on light.
+
+Aberration was explained by its discoverer in terms of the corpuscular theory. It was Young who first showed[33] how it may be explained on the wave-hypothesis. 
+
+"Upon considering the phenomena of the aberration of the stars," he wrote, "I am disposed to believe that the luminiferous aether pervades the substance of all material bodies with little or no resistance, as freely perhaps as the wind passes through a grove of trees." 
 
 In fact, if we suppose the aether surrounding the earth to be at rest and unaffected by the earth's motion, the light-waves will not partake of the motion of the telescope, which we may suppose directed to the true place of the star, and the image of the star will therefore be displaced from the central spider-line at the focus by a distance equal to that which the earth describes while the light is travelling through the telescope. This agrees with what is actually observed.
 
