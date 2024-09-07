@@ -1,8 +1,8 @@
 ---
-title: "Similar, Proportionate instances or physical parallels or resemblances"
+title: "6: Similar, Proportionate instances or physical parallels or resemblances"
 heading: Chapter 10
 weight: 34
-description: ""
+description: "These exhibit resemblances and connection of things, not in minor forms (as the constitutive do), but at once in the concrete"
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
@@ -16,7 +16,9 @@ They do not immediately establish any axiom, but merely indicate and observe a c
 
 But[174] although they be not of much assistance in discovering forms, yet they are of great advantage in disclosing the frame of parts of the universe, upon whose members they practice a species of anatomy, and thence occasionally lead us gently on to sublime and noble axioms, especially such as relate to the construction of the world, rather than to simple natures and forms.
 
-As an example, take the following similar instances: a mirror and the eye; the formation of the ear, and places which return an echo. From such similarity, besides observing the resemblance (which is useful for many purposes), it is easy to collect and form this axiom. That the organs of the senses, and bodies which produce reflections to the senses, are of a similar nature. 
+As an example, take the following similar instances: a mirror and the eye; the formation of the ear, and places which return an echo. 
+
+From such similarity, besides observing the resemblance (which is useful for many purposes), it is easy to collect and form this axiom. That the organs of the senses, and bodies which produce reflections to the senses, are of a similar nature. 
 
 The understanding once informed of this, rises easily to a higher and nobler axiom; namely, that the only distinction between sensitive and inanimate bodies, in those points in which they agree and sympathize, is this: in the former, animal spirit is added to the arrangement of the body, in the latter it is wanting. So that there might be as many senses in animals as there are points of agreement with inanimate bodies, if the animated body were perforated, so as to allow the spirit to have access to the limb properly disposed for action, as a fit organ. 
 
@@ -50,5 +52,7 @@ Again, the New and Old World are both of them broad and expanded toward the nort
 
 Again, we have very remarkable similar instances in the intense cold, toward the middle regions (as it is termed) of the air, and the violent fires which are often found to burst from subterraneous spots, the similarity consisting in both being ends and extremes; the extreme of the nature of cold,[178] for instance, is toward the boundary of heaven, and that of the nature of heat toward the centre of the earth, by a similar species of opposition or rejection of the contrary nature.
 
-Lastly, in the axioms of the sciences, there is a similarity of instances worthy of observation. Thus the rhetorical trope which is called surprise, is similar to that of music termed the declining of a cadence. Again—the mathematical postulate, that things which are equal to the same are equal to one another, is similar to the form of the syllogism in logic, which unites things agreeing in the middle term.[120] Lastly, a certain degree of sagacity in collecting and searching for physical points of similarity, is very useful in many respects.[121]
+Lastly, in the axioms of the sciences, there is a similarity of instances worthy of observation. Thus the rhetorical trope which is called surprise, is similar to that of music termed the declining of a cadence. 
+
+Again—the mathematical postulate, that things which are equal to the same are equal to one another, is similar to the form of the syllogism in logic, which unites things agreeing in the middle term.[120] Lastly, a certain degree of sagacity in collecting and searching for physical points of similarity, is very useful in many respects.[121]
 

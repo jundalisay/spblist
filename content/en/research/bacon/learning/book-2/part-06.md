@@ -54,7 +54,9 @@ So as in this part of knowledge, touching divine philosophy, I am so far from no
 
 {{< s v="2" >}} Otherwise it is of the nature of angels and spirits, which is an appendix of theology, both divine and natural, and is neither inscrutable nor interdicted.  
 
-For although the Scripture saith, “Let no man deceive you in sublime discourse touching the worship of angels, pressing into that he knoweth not,” &c., yet notwithstanding if you observe well that precept, it may appear thereby that there be two things only forbidden—adoration of them, and opinion fantastical of them, either to extol them further than appertaineth to the degree of a creature, or to extol a man’s knowledge of them further than he hath ground.  
+For although the Scripture saith, “Let no man deceive you in sublime discourse touching the worship of angels, pressing into that he knoweth not,” &c.
+
+Yet notwithstanding if you observe well that precept, it may appear thereby that there be two things only forbidden—adoration of them, and opinion fantastical of them, either to extol them further than appertaineth to the degree of a creature, or to extol a man’s knowledge of them further than he hath ground.  
 
 But the sober and grounded inquiry, which may arise out of the passages of Holy Scriptures, or out of the gradations of nature, is not restrained.
 

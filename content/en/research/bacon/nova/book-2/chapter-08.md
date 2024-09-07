@@ -1,8 +1,8 @@
 ---
-title: "Twilight or clandestine instances"
+title: "4: Twilight or Clandestine instances"
 heading: Chapter 8
 weight: 24
-description: ""
+description: "These are opposed to the conspicuous instances"
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
@@ -10,13 +10,25 @@ icon: /icons/bacon.png
 
 {{< s v="25" >}}  These are opposed to the conspicuous instances. 
 
-They show the required nature in its lowest state of efficacy, and as it were its cradle and first rudiments, making an effort and a sort of first attempt, but concealed and subdued by a contrary nature. 
+They show the required nature in its lowest state of efficacy, as its cradle and first rudiments.
 
-Such instances are, however, of great importance in discovering forms, for as the conspicuous tend easily to differences, so do the clandestine best lead to genera, that is, to those common natures of which the required natures are only the limits.
+These make an effort and a sort of first attempt, but concealed and subdued by a contrary nature. 
 
-As an example, let consistency, or that which confines itself, be the required nature, the opposite of which is a liquid or flowing state. The clandestine instances are such as exhibit some weak and low degree of consistency in fluids, as a water bubble, which is a sort of consistent and bounded pellicle formed out of the substance of the water. 
+Such instances are very important in discovering forms.
 
-So eaves’ droppings, if there be enough water to follow them, draw themselves out into a thin thread, not to break the continuity of the water, but if there be not enough to follow, the water forms itself into a round drop, which is the best form to prevent a breach of continuity; and at the moment the thread ceases, and the water begins to fall in drops, the thread of water recoils upward to avoid such a breach.
+The conspicuous tend easily to differences just as the clandestine best lead to genera.
+
+Genera are those common natures of which the required natures are only the limits.
+
+For example, consistency is that which confines itself. Its opposite is a liquid or flowing state. 
+
+Our system requires consistency. 
+
+The clandestine instances are those that exhibit some weak and low degree of consistency in fluids, as a water bubble, which is a sort of consistent and bounded pellicle formed out of the substance of the water.
+
+So eaves’ droppings, if there be enough water to follow them, draw themselves out into a thin thread, not to break the continuity of the water, but if there be not enough to follow, the water forms itself into a round drop, which is the best form to prevent a breach of continuity.
+
+At the moment the thread ceases, and the water begins to fall in drops, the thread of water recoils upward to avoid such a breach.
 
 In metals, which when melted are liquid but more tenacious, the melted drops often recoil and are suspended. 
 

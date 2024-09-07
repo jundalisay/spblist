@@ -387,7 +387,7 @@ paginate = 12
       title = "Social Superphysics: Points-based Economic System"
       sub = "This allows money and moneyless transactions. We began this in 2016, as the first solution, in order to provide the resources for the rest of the proposals. (2016-current)"
     [languages.en.params.tricon6.items.n]
-      url = "/social/supersociology/principles/part-5/fourth-branch/"
+      url = "/social/supersociology/principles/part-5/chapter-05"
       # url = "/social/supersociology/principles/part-1/chapter-05"
       img = "/photos/social/pantry.jpg"
       title = "Social Superphysics: The Resources Branch"
@@ -420,7 +420,7 @@ paginate = 12
       title = "Superphysics: Bullet-Style Writing"
       sub = "A writing style that makes reading easy and intuitive (2013-current)"
     [languages.en.params.tricon6.items.q]
-      url = "/superphysics/principles/chapter-08e"
+      url = "/superphysics/principles/chapter-02d"
       img = "/graphics/meta/ngu.jpg"
       title = "Superphysics: The NTCFD Model for Goal Setting"
       sub = "We replace SMART with NTCFD based on the 5 Layers (2023)"
