@@ -1,7 +1,7 @@
 ---
 title: "Life, Force, or Gravity"
 heading: "Section 7"
-weight: 10
+weight: 38
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---

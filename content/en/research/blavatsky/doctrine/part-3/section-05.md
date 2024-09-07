@@ -1,7 +1,7 @@
 ---
 title: "The Masks of Science. Physics Or Metaphysics?"
 heading: "Section 5"
-weight: 10
+weight: 28
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---

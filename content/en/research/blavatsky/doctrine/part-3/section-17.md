@@ -1,7 +1,7 @@
 ---
 title: "Summary of the Position"
 heading: "Section 17"
-weight: 10
+weight: 74
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---
@@ -19,7 +19,18 @@ Theology is ridiculed for believing in the union of 3 persons in one Godhead—o
 
 We are laughed at for our belief in unproved and unprovable doctrines, in Angels and Devils, Gods and Spirits. 
 
-And, indeed, that which made the Scientists win the day over Theology in the Great “Conflict between Religion and Science,” was precisely the argument that neither the identity of that substance, nor the triple individuality claimed—after having been conceived, invented, and worked out in the depths of Theological Consciousness—could be proved to exist by any scientific inductive process of reasoning, least of all by the evidence of our senses. Religion must perish, it is said, because it teaches “mysteries.” “Mystery is the negation of Common Sense,” and Science repels it.
+
+None of the following could be proven to exist by any scientific inductive process of reasoning or by  our senses:
+- the identity of that substance
+- the triple individuality claimed
+
+<!-- —after having been conceived, invented, and worked out in the depths of Theological Consciousness—could -->
+
+This made the Scientists win over Theology in the Great “Conflict between Religion and Science,”
+
+It is said that religion must perishreligion must perish because it teaches “mysteries.” 
+
+“Mystery is the negation of Common Sense” and Science repels it.
 
 According to Mr. Tyndall, Metaphysics is “fiction,” like poetry. The man of Science “takes nothing on trust”; rejects everything “that is not proven to him,” while the Theologian accepts “everything on blind faith.” 
 
@@ -62,7 +73,15 @@ She cannot escape it. Mystery is the fatality of Science.
 
 The language of the French preacher is ours, and we quote it in Isis Unveiled. Who—he asks—who of you, men of Science:
 
-Has been able to penetrate the secret of the formation of a body, the generation of a single atom? What is there, I will not say at the centre of a sun, but at the centre of an atom? Who has sounded to the bottom the abyss in a grain of sand? The grain of sand, gentlemen, has been studied four thousand years by science; she has turned and returned it; she divides it and subdivides it; she torments it with her experiments; she vexes it with her questions to snatch from it the final word as to its secret constitution; she asks it, with an insatiable curiosity: “Shall I divide thee infinitesimally?” Then suspended over this abyss, science hesitates, she stumbles, she feels dazzled, she becomes dizzy, and in despair says: “i do not know.”
+Has been able to penetrate the secret of the formation of a body, the generation of a single atom? What is there, I will not say at the centre of a sun, but at the centre of an atom? Who has sounded to the bottom the abyss in a grain of sand? 
+
+The grain of sand, gentlemen, has been studied four thousand years by science; she has turned and returned it.
+
+She divides it and subdivides it; she torments it with her experiments; she vexes it with her questions to snatch from it the final word as to its secret constitution; she asks it, with an insatiable curiosity: 
+
+“Shall I divide thee infinitesimally?” 
+
+Then suspended over this abyss, science hesitates, she stumbles, she feels dazzled, she becomes dizzy, and in despair says: “i do not know.”
 
 But if you are so fatally ignorant of the genesis and hidden nature of a grain of sand, how should you have an intuition as to the generation of a single living being? Whence in the living being does life come? Where does it commence? What is the life principle?1146
 
@@ -70,13 +89,25 @@ Do the men of Science deny all these charges? By no means: for here is a confess
 
 The first marshalling of the atoms, on which all subsequent action depends, baffles a keener power than that of the microscope.... Through pure excess of complexity, and long before observation can have any voice in the matter, the most highly trained intellect, the most refined and disciplined imagination, retires in bewilderment from the contemplation of the problem. We are struck dumb by an astonishment which no microscope can relieve, doubting not only the [pg 734]power of our instrument, but even whether we ourselves possess the intellectual elements which will ever enable us to grapple with the ultimate structural energies of nature.
 
-How little is known of the material Universe, indeed, has now been suspected for years, on the very admissions of these men of Science themselves. And now there are some Materialists who would even make away with Ether—or whatever Science calls the infinite Substance, the noumenon of which the Buddhists call Svabhâvat—as well as with Atoms, too dangerous both on account of their ancient philosophical, and their present Christian and theological, associations. From the earliest Philosophers, whose records passed to posterity, down to our present age—which, if it denies Invisible Beings in Space, can never be so insane as to deny a Plenum of some sort—the Fulness of the Universe has been an accepted belief. And what it was said to contain, one learns from Hermes Trismegistus (in Dr. Anna Kingsford's able rendering), who is made to say:
+How little is known of the material Universe, indeed, has now been suspected for years, on the very admissions of these men of Science themselves. 
 
-Concerning the void ... my judgment is that it does not exist, that it never has existed, and that it never will exist, for all the various parts of the universe are filled, as the earth also is complete and full of bodies, differing in quality and in form, having their species and their magnitude, one larger, one smaller, one solid, one tenuous. The larger ... are easily perceived; the smaller ... are difficult to apprehend, or altogether invisible. We know only of their existence by the sensation of feeling, wherefore many persons deny such entities to be bodies, and regard them as simply spaces,1147 but it is impossible there should be such spaces. For if indeed there should be anything outside the universe ... then it would be a space occupied by intelligible beings analogous to its [the universe's] Divinity.... I speak of the genii, for I hold they dwell with us, and of the heroes who dwell above us, between the earth and the higher airs; wherein are neither clouds nor any tempest.1148
+And now there are some Materialists who would even make away with Ether—or whatever Science calls the infinite Substance, the noumenon of which the Buddhists call Svabhâvat—as well as with Atoms, too dangerous both on account of their ancient philosophical, and their present Christian and theological, associations.
+
+From the earliest Philosophers, whose records passed to posterity, down to our present age—which, if it denies Invisible Beings in Space, can never be so insane as to deny a Plenum of some sort—the Fulness of the Universe has been an accepted belief. 
+
+What it was said to contain, one learns from Hermes Trismegistus (in Dr. Anna Kingsford's able rendering), who is made to say:
+
+Concerning the void ... my judgment is that it does not exist, that it never has existed, and that it never will exist, for all the various parts of the universe are filled, as the earth also is complete and full of bodies, differing in quality and in form, having their species and their magnitude, one larger, one smaller, one solid, one tenuous.
+
+The larger ... are easily perceived; the smaller ... are difficult to apprehend, or altogether invisible. We know only of their existence by the sensation of feeling, wherefore many persons deny such entities to be bodies, and regard them as simply spaces,1147 but it is impossible there should be such spaces. 
+
+For if indeed there should be anything outside the universe ... then it would be a space occupied by intelligible beings analogous to its [the universe's] Divinity.... I speak of the genii, for I hold they dwell with us, and of the heroes who dwell above us, between the earth and the higher airs; wherein are neither clouds nor any tempest.1148
 
 And we “hold” it too. Only, as already remarked, no Eastern Initiate would speak of spheres “above us, between the earth and the airs,” even the highest, as there is no such division or measurement in Occult speech, no above, as no below, but an eternal within, within two other withins, or the planes of subjectivity merging gradually into that of terrestrial objectivity—this being for man the last one, his own [pg 735]plane. This necessary explanation may be closed here by giving, in the words of Hermes, the belief on this particular point of the whole world of Mystics:
 
-There are many orders of the Gods; and in all there is an intelligible part. It is not to be supposed they do not come within the range of our senses; on the contrary, we perceive them, better even than those which are called visible.... There are then Gods, superior to all appearances; after them come the Gods whose principle is spiritual; these Gods being sensible, in conformity with their double origin, manifest all things by a sensible nature, each of them illuminating his works one by another.1149 The supreme Being of heaven, or of all that is comprehended under this name, is Zeus, for it is by heaven that Zeus gives life to all things. The supreme Being of the sun is light, for it is by the disk of the sun that we receive the benefit of the light. The thirty-six horoscopes of the fixed stars have for supreme Being, or prince, him whose name is Pantomorphos, or having all forms, because he gives divine forms to divers types. The seven planets, or wandering spheres, have for supreme Spirits Fortune and Destiny, who uphold the eternal stability of the laws of Nature throughout incessant transformation and perpetual agitation. The ether is the instrument or medium by which all is produced.1150
+There are many orders of the Gods; and in all there is an intelligible part. It is not to be supposed they do not come within the range of our senses; on the contrary, we perceive them, better even than those which are called visible.... There are then Gods, superior to all appearances; after them come the Gods whose principle is spiritual; these Gods being sensible, in conformity with their double origin, manifest all things by a sensible nature, each of them illuminating his works one by another.1149 
+
+The supreme Being of heaven, or of all that is comprehended under this name, is Zeus, for it is by heaven that Zeus gives life to all things. The supreme Being of the sun is light, for it is by the disk of the sun that we receive the benefit of the light. The thirty-six horoscopes of the fixed stars have for supreme Being, or prince, him whose name is Pantomorphos, or having all forms, because he gives divine forms to divers types. The seven planets, or wandering spheres, have for supreme Spirits Fortune and Destiny, who uphold the eternal stability of the laws of Nature throughout incessant transformation and perpetual agitation. The ether is the instrument or medium by which all is produced.1150
 
 This is quite philosophical and in accordance with the spirit of Eastern Esotericism: for all the Forces, such as Light, Heat, Electricity, etc., are called the “Gods”—Esoterically.
 

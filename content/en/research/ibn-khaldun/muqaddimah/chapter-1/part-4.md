@@ -1,5 +1,5 @@
 ---
-title: "The influence of climate on human character"
+title: "The Influence of Climate on Human Character"
 description: "Negroes live in the earth's hot zone. Heat dominates their temperament and formation"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
@@ -40,12 +40,13 @@ In the same way, the inhabitants of coastal regions are somewhat similar to the 
 
 Therefore, their share in the qualities resulting from heat, that is, joy and levity, is larger than that of the (inhabitants of) cold and hilly or mountainous countries. To a degree, this may be observed in the inhabitants of the Jarid in the third zone. 
 
-The heat is abundant in it and in the air there, since it lies south of the coastal plains and hills. Another example is furnished by the Egyptians. Egypt lies at about the same latitude as the Jarid. The Egyptians are dominated by joyfulness, levity, and disregard for the future. 
+The heat is abundant in it and in the air there, since it lies south of the coastal plains and hills. Another example is furnished by the Egyptians. 
+
+Egypt lies at about the same latitude as the Jarid. The Egyptians are dominated by joyfulness, levity, and disregard for the future. 
 
 ![Ancient Egyptian pyramids](/photos/objects/egypt.jpg)
 
-They store no provisions of food, neither for a month nor a year ahead, but purchase most of it (daily) in the market. Fez in the Maghrib, on the other hand, lies inland (and is) surrounded by cold hills. Its inhabitants can be
-observed to look sad and gloomy and to be too much concerned for the future.
+They store no provisions of food, neither for a month nor a year ahead, but purchase most of it (daily) in the market. Fez in the Maghrib, on the other hand, lies inland (and is) surrounded by cold hills. Its inhabitants can be observed to look sad and gloomy and to be too much concerned for the future.
 
 Although a man in Fez might have provisions of wheat stored, sufficient to last him for years, he always goes to the market early to buy his food for the day, because he is afraid to consume any of his hoarded food.
 

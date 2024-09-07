@@ -13,6 +13,11 @@ icon: /icons/spss.png
 ---
 
 
-{{< i s="">}}
+{{< i s="/photos/econ/crash.jpg" a="Trader at a stock market" >}}
 
-The Trader Class and Trading Cycle
+The Traders emerge from the stability of society created by the 3 previous classes. 
+
+These manifest as traders, businessmen, entrepreneurs, investors, speculators, gamblers, etc. 
+
+The Trading Cycle is the 4th cycle. 
+

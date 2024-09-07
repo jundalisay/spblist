@@ -49,8 +49,7 @@ This is proven by the saying: "The common people follow the religion of the rule
 
 ## 23. A subjugated nation will quickly perish. 
 
-This is because the apathy that comes over people when they lose control of their own affairs and, through enslavement, become the
-instrument of others and dependent upon them.  
+This is because the apathy that comes over people when they lose control of their own affairs and, through enslavement, become the instrument of others and dependent upon them.  
 
 Hope diminishes and weakens.
 
@@ -68,12 +67,11 @@ This may be illustrated by the Persian nation. In the past, the Persians filled 
 
 It is said that Sa'd (b. Abi Waqqas) counted (the population) beyond Ctesiphon. It numbered 137,000 (individuals), with 37,000 heads of families. 
 
-But when the Persians came under the rule of the Arabs and were made subject to (oppression by) force, they lasted only a
-short while and were wiped out as if they had never been. One should not think that this was the result of some (specific) persecution or aggression perpetrated against them. 
+But when the Persians came under the rule of the Arabs and were made subject to (oppression by) force, they lasted only a short while and were wiped out as if they had never been. One should not think that this was the result of some (specific) persecution or aggression perpetrated against them. 
 
 Islam is known for its justice. 
 
-Such (disintegration as befell the Persians) is in human nature. It happens when people lose control of their own affairs and become the instrument of someone else.
+Such disintegration as befell the Persians is in human nature. It happens when people lose control of their own affairs and become the instrument of someone else.
 
 Therefore, the Negro nations are submissive to slavery because they have little human attributes. Instead, they are quite similar to those of dumb animals. 137
 
@@ -93,4 +91,10 @@ The Arabs would not cross hills or undergo hardship and danger in order to get t
 
 Flat territory, on the other hand, falls victim to their looting and prey to their appetite whenever they (have the opportunity of) gaining power over it, when there is no militia, or when the dynasty is weak. 
 
-Then they raid, plunder, and attack that territory repeatedly, because it is easily (accessible) to them. Eventually, its inhabitants succumb utterly to the Arabs and then they are pushed around by them in accordance with changes of control and shifts in leadership. Eventually, their civilization is wiped out. God has power over His creatures.
+Then they raid, plunder, and attack that territory repeatedly because it is easily (accessible) to them.
+
+Eventually, its inhabitants succumb utterly to the Arabs and then they are pushed around by them in accordance with changes of control and shifts in leadership. 
+
+Eventually, their civilization is wiped out. 
+
+<!-- God has power over His creatures. -->

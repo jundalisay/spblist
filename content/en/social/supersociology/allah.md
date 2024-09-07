@@ -1,5 +1,5 @@
 ---
-title: "Where is the 'Allah'?"
+title: "Where is 'Allah'?"
 heading: "The US is the new 'God' or Superpower"
 date: 2024-01-15
 image: "/photos/medieval/mosque.jpg"
@@ -11,7 +11,7 @@ icon: /icons/spsoc.png
 ---
 
 
-At the 100th day of the Gaza war, Muslims are asking: Where is the 'Allah'?
+At the 100th day of the Gaza war, Muslims are asking: Where is 'Allah'?
 
 {{< youtube Pqi5REE9XEw >}}
 
@@ -29,7 +29,7 @@ This was very different in Europe where different people served as the foundatio
 - Adam Smith wrote about economic laws
 
 
-These 2 factors of Allah and Law allowed them to win against their enemies, even during the crusades of the 13th century. 
+These 2 factors of Allah and Law allowed the Arabs to win against their enemies, even during the crusades of the 13th century.
 
 {{< img src="/photos/medieval/mosque.jpg" alt="Mosque" cap="The Persian-Arab empire produced a lot of great things" >}}
 
@@ -74,7 +74,8 @@ Here, we organize the strengths of the different 'Gods':
 God or Oversoul | Power Source (Social Cycle)
 --- | ---
 Egyptians | Agriculture (Worker)
-Greeks | Military Organization (Warrior)
+Greeks | Science (Thinker)
+<!-- Military Organization (Warrior) -->
 Romans | Military Organization (Warrior)
 Arab-Persians | Religious Fervor (Thinker)
 Mongols | Horses (Warrior)

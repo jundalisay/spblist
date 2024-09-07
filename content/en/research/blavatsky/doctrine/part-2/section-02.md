@@ -1,7 +1,7 @@
 ---
 title: "The Mystery Language and Its Keys"
 heading: "Section 2"
-weight: 10
+weight: 8
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---

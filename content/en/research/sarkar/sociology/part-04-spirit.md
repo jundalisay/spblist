@@ -1,21 +1,30 @@
 ---
 title: "The Spirit of Society"
-weight: 12
+weight: 15
 image: "/covers/discourses.jpg"
 description: "Samája (society) means a group of people who move together"
 icon: "/icons/sarkar.png"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
+tags: [Society]
 keywords: [Samaj, Society]
 ---
 
 
 Samája (society) means a group of people who move together. 
 
-All are not of equal strength or intellect. Hence the shortcomings in one must be compensated for by another. Different people have varying abilities: some have physical strength but no brains; others have the brains but not the strength to work; and others have neither the strength not the brains, but work well and with a peaceful mind under the guidance of their supervisors. We can always see around us people of differing types and qualities. 
+All are not of equal strength or intellect. 
 
-Judged by the crude codes of this world, no one is totally independent. Everyone relies on someone else in some way or other. Everyone makes up for their deficiencies by taking help from others. Whenever a large group of people strive to make up for their relative differences on terms of mutual understanding, we call it a society or society.
+Hence the shortcomings in one must be compensated for by another. Different people have varying abilities: some have physical strength but no brains; others have the brains but not the strength to work; 
+
+Others have neither the strength not the brains, but work well and with a peaceful mind under the guidance of their supervisors. 
+
+We can always see around us people of differing types and qualities. 
+
+Judged by the crude codes of this world, no one is totally independent. Everyone relies on someone else in some way or other. 
+
+Everyone makes up for their deficiencies by taking help from others. Whenever a large group of people strive to make up for their relative differences on terms of mutual understanding, we call it a society or society.
 
 Society is like a group of people going on a pilgrimage. 
 
@@ -23,9 +32,19 @@ Try to imagine the scene! Suppose one of the pilgrims is struck down by cholera.
 
 No, that would be inconceivable for them. Rather, they will break their journey for a day or two, and cure him of his disease. If he is still too weak to walk they will carry him on their shoulders. If some people run short of food, others share what they have with them. 
 
-Together they share their possessions, and together they march ahead, singing in unison. In their eagerness to move ahead with others they forget their trifling differences which might have led to angry exchanges and court cases in their families, even down to three generations. It is because of the petitions of the complainant in a land dispute that some people go so far as to spend ten or twenty times more than the piece of land is worth. The essence of cooperation resulting from this collective movement aims at expanding a person’s mind by striking down the barriers of meanness. I repeat that a true society is like such a group of pilgrims who attain a deep psychic affinity while travelling together which helps them solve all the problems in their individual and social lives.
+Together they share their possessions, and together they march ahead, singing in unison. 
 
-If we take the full meaning of the term society into consideration, it will be seen that till now human beings have not been able to form a real society. If India builds a society for only Indians, Pakistan for only Pakistanis, and England for only the English, then three separate societies will exist, but we cannot look upon them as the society of humanity. Because humanity is divided into groups, one society will naturally try to thrive by exploiting the vitality of others. 
+In their eagerness to move ahead with others they forget their trifling differences which might have led to angry exchanges and court cases in their families, even down to three generations.
+
+It is because of the petitions of the complainant in a land dispute that some people go so far as to spend ten or twenty times more than the piece of land is worth. 
+
+The essence of cooperation resulting from this collective movement aims at expanding a person’s mind by striking down the barriers of meanness. 
+
+A true society is like such a group of pilgrims who attain a deep psychic affinity while travelling together. This affinity helps them solve all the problems in their individual and social lives.
+
+If we take the full meaning of the term society into consideration, it will be seen that till now human beings have not been able to form a real society. 
+
+If India builds a society for only Indians, Pakistan for only Pakistanis, and England for only the English, then three separate societies will exist, but we cannot look upon them as the society of humanity. Because humanity is divided into groups, one society will naturally try to thrive by exploiting the vitality of others. 
 
 On observation you will notice that efforts are being made to establish so-called societies in some particular part of the world, for some particular section of the people, and based on some particular “ism” or faith. A social consciousness based on such divisions lies latent in the minds of the people, whether they are Indian, Pakistani or English, so they remain absorbed in thoughts of their smaller groups. It is actually due to some external impact that social consciousness takes the form of a really all-embracing Indian, Pakistani or English consciousness. The social consciousness of an enslaved nation is never more keenly felt than when the people are at war with the dominating colonial power. After independence that consciousness is lost.
 

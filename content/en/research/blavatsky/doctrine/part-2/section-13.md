@@ -1,7 +1,7 @@
 ---
 title: "The Seven Creations"
 heading: "Section 13"
-weight: 10
+weight: 48
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---

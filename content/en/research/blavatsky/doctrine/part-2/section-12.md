@@ -1,7 +1,7 @@
 ---
 title: "The Theogony of the Creative Gods"
 heading: "Section 12"
-weight: 10
+weight: 40
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---

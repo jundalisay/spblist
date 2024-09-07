@@ -1,7 +1,7 @@
 ---
 title: "Modern Physicists are Playing at Blind Man's Buff"
 heading: "Section 2"
-weight: 10
+weight: 14
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---

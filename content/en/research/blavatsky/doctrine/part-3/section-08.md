@@ -1,7 +1,7 @@
 ---
 title: "The Solar Theory"
 heading: "Section 8"
-weight: 10
+weight: 42
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---

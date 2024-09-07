@@ -1,7 +1,7 @@
 ---
 title: "Demon est Deus Inversus"
 heading: "Section 11"
-weight: 10
+weight: 36
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Deity, Its Symbols and Glyphs"
 heading: "Section 5"
-weight: 10
+weight: 20
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---
@@ -16,7 +16,9 @@ The same puzzling problem of the “One in Many,” and the Multitude in One, is
 
 In the Zohar, Ain Suph is also the One, the Infinite Unity. This was known to the very few learned Fathers of the Church, who were aware that Jehovah was no “highest” God, but a third-rate Potency. But while complaining bitterly of the Gnostics, and saying: “our Heretics hold ... that Propatôr is known but to the Only-begotten Son529 [who is Brahmâ], that is to the Mind [Nous],” Irenæus failed to mention that the Jews did the same in their real secret books.
 
-Valentinus, “the profoundest doctor of the Gnosis,” held that “there was a perfect Aiôn who existed before Bythos [the first Father of unfathomable nature, which is the Second Logos], called Propatôr.” It is this Aiôn who springs as a Ray from Ain Suph, which does not create, and Aiôn who creates, or through whom, rather, everything is created, or evolves. For, as the Basilidians taught, “there was a Supreme God, [pg 374]Abrasax, by whom was created Mind [Mahat, in Sanskrit; Nous, in Greek]. From Mind proceeded the Word, Logos; from the Word, Providence [Divine Light, rather]; then from it Virtue and Wisdom in Principalities, Powers, Angels, etc.” By these Angels the 365 Æons were created. “Amongst the lowest, indeed, and those who made this world, he [Basilides] sets last of all the God of the Jews, whom he denies to be God [and very rightly], affirming he is one of the Angels.”
+Valentinus, “the profoundest doctor of the Gnosis,” held that “there was a perfect Aiôn who existed before Bythos [the first Father of unfathomable nature, which is the Second Logos], called Propatôr.” It is this Aiôn who springs as a Ray from Ain Suph, which does not create, and Aiôn who creates, or through whom, rather, everything is created, or evolves. 
+
+For, as the Basilidians taught, “there was a Supreme God, [pg 374]Abrasax, by whom was created Mind [Mahat, in Sanskrit; Nous, in Greek]. From Mind proceeded the Word, Logos; from the Word, Providence [Divine Light, rather]; then from it Virtue and Wisdom in Principalities, Powers, Angels, etc.” By these Angels the 365 Æons were created. “Amongst the lowest, indeed, and those who made this world, he [Basilides] sets last of all the God of the Jews, whom he denies to be God [and very rightly], affirming he is one of the Angels.”
 
 Here, then, we find the same system as in the Purânas, wherein the Incomprehensible drops a Seed, which becomes the Golden Egg, from which Brahmâ is produced. Brahmâ produces Mahat, etc. True Esoteric Philosophy, however, speaks neither of “creation,” nor of “evolution,” in the sense in which the exoteric religions do. All these personified Powers are not evolutions from one another, but so many aspects of the one and sole manifestation of the Absolute All.
 

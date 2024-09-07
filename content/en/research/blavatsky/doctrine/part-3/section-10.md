@@ -1,7 +1,7 @@
 ---
 title: "The Elements and Atoms"
 heading: "Section 10"
-weight: 10
+weight: 51
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---

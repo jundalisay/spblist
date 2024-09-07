@@ -62,8 +62,7 @@ In width (latitudinal extension) they are identical, in length (longitudinal ext
 
 Each of the seven zones is divided from west to east into ten contiguous sections. Information about general conditions and civilization is given for each section.
 
-The geographers mentioned that the Mediterranean branches off from the Surrounding Sea in the western part of the fourth zone. It begins at a narrow straits about 12 miles wide between Tangier and Tarifa, called the Street of
-Gibraltar. 
+The geographers mentioned that the Mediterranean branches off from the Surrounding Sea in the western part of the fourth zone. It begins at a narrow straits about 12 miles wide between Tangier and Tarifa, called the Street of Gibraltar. 
 
 It then extends east and opens out to a width of 600 miles. It terminates at the end of the fourth section of the fourth zone, a distance of 1,160 parasangs from its starting point. There, it is bordered by the coast of Syria. On the south, it is bordered by the coast of the Maghrib, beginning with Tangier at the Straits, then lfrigiyah, Barqah, and Alexandria. 
 

@@ -1,7 +1,7 @@
 ---
 title: "The Zodiac and its Antiquity"
 heading: "Section 16"
-weight: 10
+weight: 70
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---
@@ -11,14 +11,30 @@ image: "/covers/secret.png"
 
 This is doubly true in regard to scientific opinions upon hypotheses offered for consideration—the prejudice and preconceptions of “authorities,” so called, often deciding upon questions of the most vital importance for history.
 
-There are several such predetermined opinions held by our learned Orientalists, and few are more unjust or illogical than the general error with regard to the antiquity of the Zodiac. Thanks to the hobby of some German Orientalists, English and American Sanskritists have accepted Professor Weber's opinion that the peoples of India had no idea or knowledge of the Zodiac prior to the Macedonian invasion, and that it is from the Greeks that the ancient Hindûs imported it into their country. We are further told, by several other “authorities,” that no Eastern nation knew of the Zodiac before the Hellenes kindly acquainted their neighbours with their invention. 
+There are several such predetermined opinions held by our learned Orientalists, and few are more unjust or illogical than the general error with regard to the antiquity of the Zodiac. 
 
-This, in the face of the Book of Job, which is declared, even by themselves, to be the oldest in the Hebrew canon, and certainly prior to Moses; a book which speaks of the making of “Arcturus, Orion, and Pleiades [Osh, Kesil, and Kimah] and the chambers of the South”1109; of Scorpio and the Mazaruth—the twelve signs1110; words which, if they mean anything, imply knowledge of the Zodiac even among the nomadic Arabian tribes. The Book of Job is alleged to have preceded Homer and Hesiod by at least one thousand years—the two Greek poets having themselves flourished some eight centuries before the Christian era (!!). Though, by the bye, one who prefers to believe Plato—who shows Homer flourishing far earlier—could point to a number of Zodiacal signs mentioned in the Iliad and Odyssey, in the Orphic poems, and elsewhere. But since the cock-and-bull hypothesis of some modern critics that, so far from Orpheus, not even Homer or Hesiod has ever existed, it would seem time lost to mention these archaic authors at all. The Arabian Job will suffice; unless, indeed, his volume of lamentations, along with the poems of the two Greeks, to which we may add those of Linus, should now also be declared to be the patriotic forgery of the Jew Aristobulus. But if the Zodiac was known in the days of Job, how could the civilized and philosophical Hindûs have remained ignorant of it?
+Thanks to the hobby of some German Orientalists, English and American Sanskritists have accepted Professor Weber's opinion that the peoples of India had no idea or knowledge of the Zodiac prior to the Macedonian invasion, and that it is from the Greeks that the ancient Hindûs imported it into their country.
 
-Risking the arrows of modern criticism—rather blunted by misuse—the reader may make himself acquainted with Bailly's learned opinion upon the subject. Inferred speculations may be shown to be erroneous. Mathematical calculations stand on more secure grounds. Taking as a starting point several astronomical references in Job, Bailly devised a very ingenious means of proving that the earliest founders of the Science of the Zodiac belonged to an antediluvian, primitive people. The fact that he seems willing to see some of the Biblical patriarchs in Thoth, Seth, and in the Chinese Fohi, does not interfere with the validity of his proof as to the antiquity of the Zodiac.1111 Even accepting, for argument's sake, his cautious 3700 years b.c. as the correct age of the Zodiacal Science, this date proves in the most irrefutable way that it was not the Greeks who invented the Zodiac, for the simple reason that they did not exist as a nation thirty-seven centuries b.c.—at any rate not as a historical race admitted by the critics. Bailly then calculated the period at which the constellations manifested the atmospheric influence called by Job the “sweet influences of the Pleiades,”1112 in Hebrew Kimah; that of Orion, Kesil; and that of the desert rains with reference to Scorpio, the eighth constellation; and found that in presence of the eternal conformity of these divisions of the Zodiac, and of the names of the Planets applied in the same order everywhere and always, and in presence of the impossibility of attributing it all to chance and “coincidence”—“which never creates such similarities”—a very great antiquity indeed must be allowed for the Zodiac.1113
+We are further told, by several other “authorities,” that no Eastern nation knew of the Zodiac before the Hellenes kindly acquainted their neighbours with their invention. 
 
-[pg 712]
-Again, if the Bible is supposed to be an authority on any matter—and there are some who still regard it as such, whether from Christian or Kabalistical considerations—then the Zodiac is clearly mentioned in II Kings, xxiii. 5. Before the “book of the law” was “found” by Hilkiah, the high priest, the signs of the Zodiac were known and worshipped. These were held in the same adoration as the Sun and Moon, since the
+This, in the face of the Book of Job, which is declared, even by themselves, to be the oldest in the Hebrew canon, and certainly prior to Moses; a book which speaks of the making of “Arcturus, Orion, and Pleiades [Osh, Kesil, and Kimah] and the chambers of the South”1109; of Scorpio and the Mazaruth—the twelve signs1110; words which, if they mean anything, imply knowledge of the Zodiac even among the nomadic Arabian tribes. The Book of Job is alleged to have preceded Homer and Hesiod by at least one thousand years—the two Greek poets having themselves flourished some eight centuries before the Christian era (!!). 
+
+Though, by the bye, one who prefers to believe Plato—who shows Homer flourishing far earlier—could point to a number of Zodiacal signs mentioned in the Iliad and Odyssey, in the Orphic poems, and elsewhere. But since the cock-and-bull hypothesis of some modern critics that, so far from Orpheus, not even Homer or Hesiod has ever existed, it would seem time lost to mention these archaic authors at all.
+
+The Arabian Job will suffice; unless, indeed, his volume of lamentations, along with the poems of the two Greeks, to which we may add those of Linus, should now also be declared to be the patriotic forgery of the Jew Aristobulus. But if the Zodiac was known in the days of Job, how could the civilized and philosophical Hindûs have remained ignorant of it?
+
+Risking the arrows of modern criticism—rather blunted by misuse—the reader may make himself acquainted with Bailly's learned opinion upon the subject. Inferred speculations may be shown to be erroneous. Mathematical calculations stand on more secure grounds. 
+
+Taking as a starting point several astronomical references in Job, Bailly devised a very ingenious means of proving that the earliest founders of the Science of the Zodiac belonged to an antediluvian, primitive people. The fact that he seems willing to see some of the Biblical patriarchs in Thoth, Seth, and in the Chinese Fohi, does not interfere with the validity of his proof as to the antiquity of the Zodiac.1111 
+
+Even accepting, for argument's sake, his cautious 3700 years b.c. as the correct age of the Zodiacal Science, this date proves in the most irrefutable way that it was not the Greeks who invented the Zodiac, for the simple reason that they did not exist as a nation thirty-seven centuries b.c.—at any rate not as a historical race admitted by the critics. 
+
+Bailly then calculated the period at which the constellations manifested the atmospheric influence called by Job the “sweet influences of the Pleiades,”1112 in Hebrew Kimah; that of Orion, Kesil; and that of the desert rains with reference to Scorpio, the eighth constellation; and found that in presence of the eternal conformity of these divisions of the Zodiac, and of the names of the Planets applied in the same order everywhere and always, and in presence of the impossibility of attributing it all to chance and “coincidence”—“which never creates such similarities”—a very great antiquity indeed must be allowed for the Zodiac.1113
+
+
+Again, if the Bible is supposed to be an authority on any matter—and there are some who still regard it as such, whether from Christian or Kabalistical considerations—then the Zodiac is clearly mentioned in II Kings, xxiii. 
+
+5. Before the “book of the law” was “found” by Hilkiah, the high priest, the signs of the Zodiac were known and worshipped. These were held in the same adoration as the Sun and Moon, since the
 
 priests, whom the kings of Judah had ordained to burn incense ... unto Baal, to the sun, and to the moon, and to the planets, and to all the host of heaven,
 

@@ -1,7 +1,7 @@
 ---
 title: "Scientific and Esoteric Evidence for, and Objections to, the Modern Nebular Theory"
 heading: "Section 12"
-weight: 10
+weight: 58
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---

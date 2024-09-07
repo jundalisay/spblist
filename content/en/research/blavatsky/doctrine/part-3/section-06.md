@@ -1,27 +1,47 @@
 ---
-title: "An Attack on the Scientific Theory of Force by a Man of Science"
+title: Samuel Metcalfe and the Sun Force
+# title: "An Attack on the Scientific Theory of Force by a Man of Science"
 heading: "Section 6"
-weight: 10
+weight: 32
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---
 
 
 
-The wise words of several English men of Science have now to be quoted in our favour. Ostracized for “principle's sake” by the few, they are tacitly approved of by the many. That one of them preaches almost Occult doctrines—in some things identical with, and often amounting to a public recognition of, our “Fohat and his seven Sons,” the Occult Gandharva of the Vedas—will be recognized by every Occultist, and even by some profane readers.
+The wise words of several English men of Science have now to be quoted in our favour. Ostracized for “principle's sake” by the few, they are tacitly approved of by the many. 
 
-If such readers will open Volume V of the Popular Science Review,892 they will find in it an article on “Sun-Force and Earth-Force,” by Dr. E. W. Richardson, F.R.S., which reads as follows:
+That one of them preaches almost Occult doctrines—in some things identical with, and often amounting to a public recognition of, our “Fohat and his seven Sons,” the Occult Gandharva of the Vedas—will be recognized by every Occultist, and even by some profane readers.
 
-At this moment, when the theory of mere motion as the origin of all varieties of force is again becoming the prevailing thought, it were almost heresy to reöpen a debate, which for a period appears, by general consent, to be virtually closed; but I accept the risk, and shall state, therefore, what were the precise views of the immortal heretic, whose name I have whispered to the readers, (Samuel Metcalfe,) respecting Sun-Force. Starting with the argument on which nearly all physicists are agreed, that there exist in nature two agencies—matter which is ponderable, visible, and tangible, and a something which is imponderable, invisible, and appreciable only by its influence on matter—Metcalfe maintains that the imponderable and active agency which he calls “caloric” is not a mere form of motion, not a vibration amongst the particles of ponderable matter, but itself a material substance flowing from the sun through space,893 filling the voids between the particles of solid bodies, and conveying by sensation the property called heat. 
 
-The nature of caloric, or Sun-Force, is contended for by him on the following grounds:
+Dr. E. W. Richardson, F.R.S has an article on “Sun-Force and Earth-Force” Volume V of the Popular Science Review,892:
 
-- (i) That it may be added to, and abstracted from other bodies and measured with mathematical precision.
-- (ii) That it augments the volume of bodies, which are again reduced in size by its abstraction.
-- (iii) That it modifies the forms, properties, and conditions of all other bodies.
-- (iv) That it passes by radiation through the most perfect vacuum894 that can be formed, in which it produces the same effects on the thermometer as in the atmosphere.
-- (v) That it exerts mechanical and chemical forces which nothing can restrain, as in volcanoes, the explosion of gunpowder, and other fulminating compounds.
-- (vi) That it operates in a sensible manner on the nervous system, producing intense pain; and when in excess, disorganization of the tissues.
+At this moment, the theory of mere motion as the origin of all force is again becoming the prevailing thought. 
+
+<!-- , it were almost heresy to reöpen a debate, which for a period appears, by general consent, to be virtually closed; but I accept the risk, and shall state, therefore, what -->
+
+Samuel Metcalfe was the immortal heretic.
+
+He had ideas about the Sun-Force. 
+
+He starts saying that there are 2 agencies in Nature:
+
+1. ponderable, visible, and tangible
+2. imponderable, invisible, and appreciable only by its influence on matter
+
+The imponderable and active agency he calls “caloric”.
+- This is not a mere vibration amongst the particles of ponderable matter, but itself is a material substance flowing from the sun through space,893 
+- It fills the voids between the particles of solid bodies, and conveying by sensation the property called heat. 
+
+This Sun-Force has the following properties:
+
+1. It may be added to, and abstracted from other bodies and measured with mathematical precision
+2. It augments the volume of bodies, which are again reduced in size by its abstraction.
+3. It modifies the forms, properties, and conditions of all other bodies.
+4. It passes by radiation through the most perfect vacuum894 that can be formed, in which it produces the same effects on the thermometer as in the atmosphere.
+5. It exerts mechanical and chemical forces which nothing can restrain, as in volcanoes, the explosion of gunpowder, and other fulminating compounds.
+6. It operates in a sensible manner on the nervous system, producing intense pain; and when in excess, disorganization of the tissues.
+
 
 As against the vibratory theory, Metcalfe further argues that if caloric were a mere property or quality, it could not augment the volume of other bodies; for this purpose it must itself have volume, it must occupy space, and it must, therefore, be a material agent.
 
@@ -43,7 +63,9 @@ But this hypothesis, popular as it is, is not one that ought to be accepted to t
 
 The hypothesis of Metcalfe respecting sun-force and earth-force is not only very simple, but most fascinating.... Here are two elements in the universe, the one is ponderable matter.... The second element is the all-pervading ether, solar fire. 
 
-It is without weight, substance, form, or colour; it is matter infinitely divisible, and its particles repel each other; its rarity is such that we have no word, except ether,898 by which to express it. It pervades and fills space, but alone it too is quiescent—dead.899 We bring together the two elements, the inert matter, the self-repulsive ether [?] and thereupon dead [?] ponderable matter is vivified; [Ponderable matter may be inert but never dead—this is Occult Law.] ... through the particles of the ponderable substance the ether [Ether's second principle] penetrates, and, so penetrating, it combines with the ponderable particles and holds them in mass, holds them together in bond of union; they are dissolved in the ether.
+It is without weight, substance, form, or colour; it is matter infinitely divisible, and its particles repel each other; its rarity is such that we have no word, except ether,898 by which to express it. 
+
+It pervades and fills space, but alone it too is quiescent—dead.899 We bring together the two elements, the inert matter, the self-repulsive ether [?] and thereupon dead [?] ponderable matter is vivified; [Ponderable matter may be inert but never dead—this is Occult Law.] ... through the particles of the ponderable substance the ether [Ether's second principle] penetrates, and, so penetrating, it combines with the ponderable particles and holds them in mass, holds them together in bond of union; they are dissolved in the ether.
 
 This distribution of solid ponderable matter through ether extends, according to the theory before us, to everything that exists at this moment. The ether is all-pervading. The human body itself is charged with the ether [Astral Light rather]; its minute particles are held together by it; the plant is in the same condition; the most solid earth, rock, adamant, crystal, metal, all are the same. 
 
@@ -53,7 +75,9 @@ The most elastic gas may be reduced to the liquid form by the abstraction of cal
 
 Having thus quoted at length the heterodox views of the great “heretic”—views that to be correct, need only a little alteration of terms here and there—Dr. Richardson, undeniably an original and liberal thinker, proceeds to sum up these views, and continues:
 
-I shall not dwell at great length on this unity of sun-force and earth-force, which this theory implies. But I may add that out of it, or out of the hypothesis of mere motion as force, and of virtue without substance, we may gather, as the nearest possible approach to the truth on this, the most complex and profound of all subjects, the following inferences:
+I shall not dwell at great length on this unity of sun-force and earth-force, which this theory implies. 
+
+But I may add that out of it, or out of the hypothesis of mere motion as force, and of virtue without substance, we may gather, as the nearest possible approach to the truth on this, the most complex and profound of all subjects, the following inferences:
 
 (a) Space, inter-stellary, inter-planetary, inter-material, inter-organic, is not a vacuum, but is filled with a subtle fluid or gas, which for want of a better term900 we may still call, as the ancients did, Aith-ur—Solar Fire—Æther. 
 
@@ -71,8 +95,14 @@ Thus we find that Ether and elastic Atoms are, in the alleged mechanical concept
 
 Atoms, Ether, or both, modern speculation cannot get out of the circle of ancient thought; and the latter was soaked through with archaic Occultism. Undulatory or corpuscular theory—it is all one. It is speculation from the aspects of phenomena, not from the knowledge of the essential nature of the cause and causes. When Modern Science has explained to its audience the late achievements of Bunsen and Kirchoff; when it has shown the seven colours, the primary of a ray which is decomposed in a fixed order on a screen; and has described the respective lengths of luminous waves, what has it proved?
 
-It has justified its reputation for exactness in mathematical achievement by measuring even the length of a luminous wave—“varying from about seven hundred and sixty millionths of a millimètre at the red end of the spectrum to about three hundred and ninety-three millionths of a millimètre at the violet end.” But when the exactness of the calculation with regard to the effect on the light-wave is thus vindicated, Science is forced to admit that the Force, which is the supposed cause, is believed to produce “inconceivably minute undulations” in some medium—“generally regarded as identical with the ethereal medium”906—and that medium itself is still only—a “hypothetical agent”!
+It has justified its reputation for exactness in mathematical achievement by measuring even the length of a luminous wave—“varying from about seven hundred and sixty millionths of a millimètre at the red end of the spectrum to about 393 millionths of a millimètre at the violet end.” 
 
-Auguste Comte's pessimism with respect to the possibility of knowing some day the chemical composition of the Sun, has not, as has been averred, been belied thirty years later by Kirchoff. The [pg 576]spectroscope has helped us to see that the elements, with which the modern Chemist is familiar, must in all probability be present in the Sun's outward “robes”—not in the Sun itself; and, taking these “robes,” the solar cosmic veil, for the Sun itself, the Physicists have declared its luminosity to be due to combustion and flame, and mistaking the vital principle of that luminary for a purely material thing, have called it “chromosphere.”907 We have only hypotheses and theories so far, not law—by any means.
+But when the exactness of the calculation with regard to the effect on the light-wave is thus vindicated, Science is forced to admit that the Force, which is the supposed cause, is believed to produce “inconceivably minute undulations” in some medium—“generally regarded as identical with the ethereal medium”906—and that medium itself is still only—a “hypothetical agent”!
+
+Auguste Comte's pessimism with respect to the possibility of knowing some day the chemical composition of the Sun, has not, as has been averred, been belied thirty years later by Kirchoff. 
+
+The spectroscope has helped us to see that the elements, with which the modern Chemist is familiar, must in all probability be present in the Sun's outward “robes”—not in the Sun itself; and, taking these “robes,” the solar cosmic veil, for the Sun itself, the Physicists have declared its luminosity to be due to combustion and flame, and mistaking the vital principle of that luminary for a purely material thing, have called it “chromosphere.”907 
+
+We have only hypotheses and theories so far, not law—by any means.
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Is Gravitation a Law?"
 heading: "Section 3"
-weight: 10
+weight: 18
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
 ---
