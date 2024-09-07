@@ -14,17 +14,17 @@ toc: false
 
 During the few months that we've been pushing Cartesian-Spinozan Physics to replace that of Newton and Einstein, we noticed that the common pattern in:
 - the believers in Newton was the need for objectivity and 
-- the believers in Einstein needed precision
+- the believers in Einstein was the need for precision
 
 But the big problem was that the universe is made up of 5 Elements. 
-- Objectivity is only true for matter or the 1st Element.
-- Precision is true for electromagnetism or the 3rd Element (since it as the electroweak has the smallest particles as electrons and neutrinos). 
+- Objectivity is only true for matter or the 1st Element (3rd Element to Descartes).
+- Precision is true for electromagnetism or the 3rd Element (1st Element to Descartes) since it as the electroweak has the smallest particles as electrons and neutrinos. 
 
 {{< i s="/graphics/physics/layers.png" a="layers" >}}
 
 The other Elements -- spacetime and aether -- are not objective nor precise. And so the requirements of science naturally keep out the complete knowledge of how the universe works. 
 
-Worse, the focus on objectivitiy, which is really a focus on crude matter, goes against the subtle nature of the abstract human mind (soul). Scientists end up using their knowledge to create nuclear bombs or hypersonic missles to destroy other humans more efficiently, just as Wall Street uses models to amass more money, creating worse financial crises.
+Worse, the focus on objectivitiy, which is really a focus on crude matter, goes against the subtle nature of the abstract human mind (soul). Scientists end up using their knowledge to create nuclear bombs or hypersonic missles to destroy other humans more efficiently, just as Wall Street uses scientific models to amass more money, creating worse financial crises.
 
 
 {{< q a="Sarkar" c="Civilization, Science and Spiritual Progress" >}}
@@ -35,7 +35,7 @@ Science teaches the proper use of material things. When the development of civil
 
 Instead of demanding objectivity and precision, a superior requirement is for a system of reasoning to **answer questions or solve problems about real phenomena conclusively**. 
 
-> A superior requirement is for a system of reasoning to answer questions or solve problems about real phenomena conclusively
+> A superior requirement is to answer questions about real phenomena conclusively
 
 
 The answer could apply only to a single person who has a unique situation, and therefore subjective. Or it could solve the problem in a general imprecise way. 
@@ -71,7 +71,7 @@ This is what the paradigms of Chinese medicine, Ayurveda, Naturopathy, and Homeo
 
 Cartesian-Spinozan Physics exactly goes for this approach.
 
-It is very broad and explained all phenomena conclusively. It didn't have math because it would sacrifice the big picture by limiting itself into numbers and crudifying itself into the lower Elements such as matter and electromagnetism.
+It is very broad and explains all phenomena conclusively. It didn't have math because it would sacrifice the big picture by limiting itself into numbers and crudifying itself into the lower Elements such as matter and electromagnetism.
 
 
 A physics maxim could be illustrated intuitively and visually by lines and arrows. 
@@ -89,13 +89,19 @@ This is what Huygens did by improving the shapes done by Descartes.
 
 But somehow the mathematicians like Newton won and imposed a system based on text and numbers for the same thing.
 
-This required a system of arbitrary conventions such as the use of Greek letters. This then became specialized knowledge, different from common and intuitive knowledge, making Physics out of reach to common people. This is something that a priest-caste would do for their own convenience and interest. 
+This required a system of arbitrary conventions such as the use of Greek letters. Notation replaced visualization. 
+
+This notation and deciphering process then became specialized knowledge, different from common and intuitive knowledge, making Physics out of reach to common people. This is something that a priest-caste would do for their own convenience and interest. 
 
 This is opposite of what enlightened people do. For example:
 - Buddha taught in Pali which was the common language
 - Japanese monk Kukai invented kana to make literacy within reach to the common people
 
-We make the same innovations with our proposed qualimath which focuses on qualities instead of quantities, while using "deconstructed" notation. 
+We make the same innovations with our proposed qualimath which focuses on:
+- qualities instead of quantities
+- "deconstructed" notation
+- the use of videos to visualize equations
+
 
 
 ## Science and Scientism 
@@ -126,7 +132,9 @@ The dominance of the limited 5 senses is seen in the demand for absolute objecti
 
 This is admited by [this article](https://bigthink.com/13-8/science-vs-scientism)
 
-But somehow the author weirdly flips things and sees science as the one that asks questions (instead of the one imposing crude objectivity), and metaphysics as the one imposing a God's eye view on science (as opposed to liberating science from objectivity).  
+But somehow the author weirdly flips things and sees:
+- science as the one that asks questions (instead of the one imposing crude objectivity), and
+- metaphysics as the one imposing a God's eye view on science (as opposed to liberating science from objectivity without any Christian God).
 
 The author's logic is proof that somehow there is still an association between metaphysics and religion in the minds of Westerners. This is the fault by the Roman Catholic Church which integrated Aristotle's system (including his false geocentric physics).
 
