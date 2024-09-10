@@ -1,20 +1,19 @@
 ---
-heading: Chapters 3
-title: "Inquiry"
+heading: Chapter 9
+title: "Zeno’s Reasoning"
 date: 2024-09-08
-weight: 2
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
-image: "/covers/aris.jpg"
+weight: 20
+description: "He says that if everything when it occupies an equal space is at rest"
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 ---
 
-CHAPTER 9
 
-Zeno’s reasoning, however, is fallacious, when he says that if everything when it
-occupies an equal space is at rest, and if that which is in locomotion is always
-occupying such a space at any moment, the flying arrow is therefore motionless. This is
+Zeno’s reasoning is fallacious.
+
+He says that if everything when it occupies an equal space is at rest, and if that which is in locomotion is always occupying such a space at any moment, the flying arrow is therefore motionless. This is
 false, for time is not composed of indivisible moments any more than any other
 magnitude is composed of indivisibles.
 

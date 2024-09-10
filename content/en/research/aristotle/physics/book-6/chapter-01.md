@@ -1,26 +1,24 @@
 ---
-heading: Chapters 3
-title: "Inquiry"
+heading: Chapter 1
+title: "Continuous and Successive"
 date: 2024-09-08
 weight: 2
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
-image: "/covers/aris.jpg"
+description: "The extremities of two points can neither be one"
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 ---
 
-CHAPTER 1
 
-
-Now if the terms ‘continuous’, ‘in contact’, and ‘in succession’ are understood as
+If the terms ‘continuous’, ‘in contact’, and ‘in succession’ are understood as
 defined above things being ‘continuous’ if their extremities are one, ‘in contact’ if their
 extremities are together, and ‘in succession’ if there is nothing of their own kind
 intermediate between them-nothing that is continuous can be composed ‘of
 indivisibles’: e.g. a line cannot be composed of points, the line being continuous and the
-point indivisible. For the extremities of two points can neither be one (since of an
-indivisible there can be no extremity as distinct from some other part) nor together
-(since that which has no parts can have no extremity, the extremity and the thing of
+point indivisible. 
+
+The extremities of two points can neither be one (since of an indivisible there can be no extremity as distinct from some other part) nor together (since that which has no parts can have no extremity, the extremity and the thing of
 which it is the extremity being distinct).
 
 Moreover, if that which is continuous is composed of points, these points must be either

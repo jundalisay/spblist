@@ -1,10 +1,10 @@
 ---
-heading: Chapters 3
-title: "Inquiry"
+heading: Chapter 4
+title: "Everything that changes is divisible"
 date: 2024-09-08
-weight: 2
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
-image: "/covers/aris.jpg"
+weight: 8
+description: "Everything that changes must be divisible"
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -12,28 +12,24 @@ writer:
 
 
 
-CHAPTER 4
+Everything that changes must be divisible. 
 
-Further, everything that changes must be divisible. For since every change is from
-something to something, and when a thing is at the goal of its change it is no longer
-changing, and when both it itself and all its parts are at the startingpoint of its change it
+For since every change is from something to something, and when a thing is at the goal of its change it is no longer changing, and when both it itself and all its parts are at the startingpoint of its change it
 is not changing (for that which is in whole and in part in an unvarying condition is not
-in a state of change); it follows, therefore, that part of that which is changing must be at
+in a state of change); 
+
+It follows, therefore, that part of that which is changing must be at
 the starting-point and part at the goal: for as a whole it cannot be in both or in neither.
 (Here by ‘goal of change’ I mean that which comes first in the process of change: e.g. in
 a process of change from white the goal in question will be grey, not black: for it is not
 necessary that that which is changing should be at either of the extremes.) It is evident,
 therefore, that everything that changes must be divisible.
 
-Now motion is divisible in two senses. In the first place it is divisible in virtue of the
-time that it occupies. In the second place it is divisible according to the motions of the
-several parts of that which is in motion: e.g. if the whole AG is in motion, there will be
-a motion of AB and a motion of BG. That being so, let DE be the motion of the part AB
-and EZ the motion of the part BG. Then the whole DZ must be the motion of AG: for
+Motion is divisible in two senses. In the first place it is divisible in virtue of the time that it occupies. In the second place it is divisible according to the motions of the several parts of that which is in motion: e.g. if the whole AG is in motion, there will be a motion of AB and a motion of BG. That being so, let DE be the motion of the part AB and EZ the motion of the part BG. Then the whole DZ must be the motion of AG: for
 DZ must constitute the motion of AG inasmuch as DE and EZ severally constitute the
-motions of each of its parts. But the motion of a thing can never be constituted by the
-motion of something else: consequently the whole motion is the motion of the whole
-magnitude.
+motions of each of its parts. 
+
+But the motion of a thing can never be constituted by the motion of something else: consequently the whole motion is the motion of the whole magnitude.
 
 Again, since every motion is a motion of something, and the whole motion DZ is not the
 motion of either of the parts (for each of the parts DE, EZ is the motion of one of the

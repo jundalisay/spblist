@@ -4,7 +4,7 @@ title: "The Nature of a Thing"
 date: 2024-09-08
 weight: 4
 description: "Of things that exist, some exist by nature, some from other causes."
-image: "/covers/aris.jpg"
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -1,23 +1,22 @@
 ---
-heading: Chapters 3
-title: "Inquirt"
+heading: Chapter 8
+title: "The Mistake of the Ancients"
 date: 2024-09-08
 weight: 18
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
-image: "/covers/aris.jpg"
+description: "The first of those who studied science were misled in their search for truth and the nature of things by their inexperience"
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 ---
 
-CHAPTER 8
 
-We will now proceed to show that the difficulty of the early thinkers, as well as our
-own, is solved in this way alone.
+<!-- We will now proceed to show that the difficulty of the early thinkers, as well as our
+own, is solved in this way alone. -->
 
-The first of those who studied science were misled in their search for truth and the
-nature of things by their inexperience, which as it were thrust them into another path. So
-they say that none of the things that are either comes to be or passes out of existence,
+The first of those who studied science were misled in their search for truth and the nature of things by their inexperience, which as it were thrust them into another path. 
+
+So they say that none of the things that are either comes to be or passes out of existence,
 because what comes to be must do so either from what is or from what is not, both of
 which are impossible. For what is cannot come to be (because it is already), and from
 what is not nothing could have come to be (because something must be present as a

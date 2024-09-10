@@ -4,7 +4,7 @@ title: "Contraries in Principles"
 date: 2024-09-08
 weight: 10
 description: "All thinkers agree in making the contraries principles, both those who describe the All as one and unmoved and those too who use the rare and the dense."
-image: "/covers/aris.jpg"
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

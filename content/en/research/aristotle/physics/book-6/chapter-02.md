@@ -1,10 +1,10 @@
 ---
-heading: Chapters 3
-title: "Inquiry"
+heading: Chapter 2
+title: "Motion and magnitude."
 date: 2024-09-08
-weight: 2
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
-image: "/covers/aris.jpg"
+weight: 4
+description: "Every magnitude is divisible into magnitudes."
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -12,20 +12,19 @@ writer:
 
 
 
+Every magnitude is divisible into magnitudes.
 
-CHAPTER 2
+It is impossible for anything continuous to be composed of indivisible parts.
 
-And since every magnitude is divisible into magnitudes-for we have shown that it is
-impossible for anything continuous to be composed of indivisible parts, and every
-magnitude is continuous-it necessarily follows that the quicker of two things traverses a
+Every magnitude is continuous-it necessarily follows that the quicker of two things traverses a
 greater magnitude in an equal time, an equal magnitude in less time, and a greater
 magnitude in less time, in conformity with the definition sometimes given of ‘the
-quicker’. Suppose that A is quicker than B. Now since of two things that which changes
-sooner is quicker, in the time ZH, in which A has changed from G to D, B will not yet
-have arrived at D but will be short of it: so that in an equal time the quicker will pass
-over a greater magnitude. More than this, it will pass over a greater magnitude in less
-time: for in the time in which A has arrived at D, B being the slower has arrived, let us
-say, at E. Then since A has occupied the whole time ZH in arriving at D, will have
+quicker’. 
+
+Suppose that A is quicker than B. Now since of two things that which changes sooner is quicker, in the time ZH, in which A has changed from G to D, B will not yet have arrived at D but will be short of it: so that in an equal time the quicker will pass over a greater magnitude. More than this, it will pass over a greater magnitude in less time: for in the time in which A has arrived at D, B being the slower has arrived, let us
+say, at E. 
+
+Then since A has occupied the whole time ZH in arriving at D, will have
 arrived at O in less time than this, say ZK. Now the magnitude GO that A has passed
 over is greater than the magnitude GE, and the time ZK is less than the whole time ZH:
 so that the quicker will pass over a greater magnitude in less time. And from this it is
@@ -110,6 +109,7 @@ For since the distinction of quicker and slower may apply to motions occupying a
 
 Suppose, then, that the quicker has in the same time been carried over a length one and a half times as great as that traversed by the slower, and that the respective magnitudes are divided, that of the quicker, the magnitude ABGD, into three indivisibles, and that of the slower into the two indivisibles EZ, ZH. 
 
-Then the time may also be divided into three indivisibles, for an equal magnitude will be passed over in an equal time. Suppose then that it is thus divided into KL, LM, MN. Again, since in the same time the slower has been carried over EZ, ZH, the time may also be similarly divided into two. Thus the indivisible will be divisible, and that which has no parts will be passed over not in an indivisible but in a greater time. It is evident, therefore, that
-nothing continuous is without parts.
+Then the time may also be divided into three indivisibles, for an equal magnitude will be passed over in an equal time. 
+
+Suppose then that it is thus divided into KL, LM, MN. Again, since in the same time the slower has been carried over EZ, ZH, the time may also be similarly divided into two. Thus the indivisible will be divisible, and that which has no parts will be passed over not in an indivisible but in a greater time. It is evident, therefore, that nothing continuous is without parts.
 

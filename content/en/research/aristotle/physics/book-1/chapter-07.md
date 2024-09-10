@@ -1,26 +1,24 @@
 ---
-heading: Chapters 3
-title: "Inquirt"
+heading: Chapter 7
+title: "The Nature of Principles"
 date: 2024-09-08
 weight: 15
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
-image: "/covers/aris.jpg"
+description: "One thing comes to be from another thing. One sort of thing from another sort of thing, both in the case of simple and of complex things."
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 ---
 
-CHAPTER 7
 
-We will now give our own account, approaching the question first with reference to
+<!-- We will now give our own account, approaching the question first with reference to
 becoming in its widest sense: for we shall be following the natural order of inquiry if we
 speak first of common characteristics, and then investigate the characteristics of special
-cases.
+cases. -->
 
-We say that one thing comes to be from another thing, and one sort of thing from
-another sort of thing, both in the case of simple and of complex things. I mean the
-following. We can say (1) ‘man becomes musical’, (2) what is ‘not-musical becomes
-musical’, or (3), the ‘not-musical man becomes a musical man’.
+One thing comes to be from another thing. One sort of thing from another sort of thing, both in the case of simple and of complex things.
+
+We can say (1) ‘man becomes musical’, (2) what is ‘not-musical becomes musical’, or (3), the ‘not-musical man becomes a musical man’.
 
 Now what becomes in (1) and (2)-’man’ and ‘not musical’-I call simple, and what each
 becomes-’musical’-simple also. But when (3) we say the ‘not-musical man becomes a

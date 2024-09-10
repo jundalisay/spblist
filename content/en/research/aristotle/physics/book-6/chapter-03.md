@@ -1,10 +1,10 @@
 ---
 heading: Chapters 3
-title: "Inquiry"
+title: "The Present"
 date: 2024-09-08
-weight: 2
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
-image: "/covers/aris.jpg"
+weight: 6
+description: "The present is also necessarily indivisible"
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -12,12 +12,9 @@ writer:
 
 
 
-CHAPTER 3
+The present is also necessarily indivisible.
 
-The present also is necessarily indivisible-the present, that is, not in the sense in which
-the word is applied to one thing in virtue of another, but in its proper and primary sense;
-in which sense it is inherent in all time. For the present is something that is an extremity
-of the past (no part of the future being on this side of it) and also of the future (no part
+The present, that is, not in the sense in which the word is applied to one thing in virtue of another, but in its proper and primary sense; in which sense it is inherent in all time. For the present is something that is an extremity of the past (no part of the future being on this side of it) and also of the future (no part
 of the past being on the other side of it): it is, as we have said, a limit of both. And if it
 is once shown that it is essentially of this character and one and the same, it will at once
 be evident also that it is indivisible.

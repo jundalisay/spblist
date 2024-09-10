@@ -1,23 +1,19 @@
 ---
-heading: Chapters 3
-title: "Inquiry"
+heading: Chapter 7
+title: "Infinite Motion"
 date: 2024-09-08
-weight: 2
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
-image: "/covers/aris.jpg"
+weight: 16
+description: "The motion of everything that is in motion occupies a period of time"
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 ---
 
-CHAPTER 7
 
-Now since the motion of everything that is in motion occupies a period of time, and a
-greater magnitude is traversed in a longer time, it is impossible that a thing should
-undergo a finite motion in an infinite time, if this is understood to mean not that the
-same motion or a part of it is continually repeated, but that the whole infinite time is
-occupied by the whole finite motion. In all cases where a thing is in motion with uniform velocity it is clear that the finite magnitude is traversed in a finite time. For if
-we take a part of the motion which shall be a measure of the whole, the whole motion is completed in as many equal periods of the time as there are parts of the motion.
+The motion of everything that is in motion occupies a period of time, and a greater magnitude is traversed in a longer time, it is impossible that a thing should undergo a finite motion in an infinite time, if this is understood to mean not that the same motion or a part of it is continually repeated, but that the whole infinite time is occupied by the whole finite motion.
+
+In all cases where a thing is in motion with uniform velocity it is clear that the finite magnitude is traversed in a finite time. For if we take a part of the motion which shall be a measure of the whole, the whole motion is completed in as many equal periods of the time as there are parts of the motion.
 
 Consequently, since these parts are finite, both in size individually and in number collectively, the whole time must also be finite: for it will be a multiple of the portion,
 equal to the time occupied in completing the aforesaid part multiplied by the number of the parts.
@@ -76,12 +72,10 @@ two is the thing in motion; either case involves the traversing of the infinite 
 For when the infinite magnitude A is in motion a part of it, say GD, will occupy the
 finite and then another, and then another, and so on to infinity.
 
-Thus the two results will
-coincide: the infinite will have completed a motion over the finite and the finite will
-have traversed the infinite: for it would seem to be impossible for the motion of the
-infinite over the finite to occur in any way other than by the finite traversing the infinite
-either by locomotion over it or by measuring it. Therefore, since this is impossible, the
-infinite cannot traverse the finite.
+Thus the two results will coincide: the infinite will have completed a motion over the finite and the finite will
+have traversed the infinite: 
+
+for it would seem to be impossible for the motion of the infinite over the finite to occur in any way other than by the finite traversing the infinite either by locomotion over it or by measuring it. Therefore, since this is impossible, the infinite cannot traverse the finite.
 
 Nor again will the infinite traverse the infinite in a finite time. Otherwise it would also
 traverse the finite, for the infinite includes the finite. We can further prove this in the

@@ -4,7 +4,7 @@ title: "How many are the Principles?"
 date: 2024-09-08
 weight: 12
 description: "Are the principles two or three or more in number?"
-image: "/covers/aris.jpg"
+image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
