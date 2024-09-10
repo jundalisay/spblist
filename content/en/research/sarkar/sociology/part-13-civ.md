@@ -92,7 +92,10 @@ This is a process of metamorphosis. Spiritual cult therefore, is indispensable. 
 
 3. A blending of existence and progress <!-- Asti and Bhati is --> as a socio-economic theory. 
 
-There should be a priori knowledge regarding the social structure, the distribution of wealth and its growth. For want of this knowledge there can’t be a solid ground for the construction of the social edifice.
+There should be a priori knowledge regarding the social structure, the distribution of wealth and its growth.
+
+For lack of this knowledge, there cannot be a solid ground for the construction of the social edifice.
+
 
 4. Social outlook
 

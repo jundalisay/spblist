@@ -84,6 +84,8 @@ The shop will then return the phone to the manufacturer for recycling. **The con
 
 Currently, contracts exist under the telecom service providers, not the phone manufacturer. In a usufruct economy, telecom services will have one service provider made up of a semi state-owned corporation. 
 
+For vehicles, instead of buying a car, a person can put $10,000 in a transportation fund that will provide for him instant transportation to wherever he wants to go in the country. The fund will maintain a fleet of vehicles and keep them closer to where the fund owners are. 
+
 
 #### For Real Estate
 

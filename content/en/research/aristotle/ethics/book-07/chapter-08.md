@@ -1,8 +1,21 @@
-Chapter VIII.
+---
+heading: Chapter 8
+title: "How May We Improve Virtue?"
+weight: 12
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+image: "/covers/ethics.jpg"
+description: "Knowledge enough in respect of Virtue. We must further strive to have and exert it, and take whatever other means there are of becoming good."
+icon: "/icons/aris.png"
+---
 
-Now then that we have said enough in our sketchy kind of way on these subjects; I mean, on the Virtues, and also on Friendship and Pleasure; are we to suppose that our original purpose is completed? 
 
-Must we not rather acknowledge, what is commonly said, that in matters of moral action mere Speculation and Knowledge is not the real End but rather Practice: and if so, then neither in respect of Virtue is Knowledge enough; we must further strive to have and exert it, and take whatever other means there are of becoming good.
+<!-- Now then that we have said enough in our sketchy kind of way on these subjects; I mean, on the Virtues, and also on Friendship and Pleasure; are we to suppose that our original purpose is completed?  -->
+
+In matters of moral action, mere Speculation and Knowledge is not the real End but rather Practice.
+
+Knowledge enough in respect of Virtue. We must further strive to have and exert it, and take whatever other means there are of becoming good.
 
 Now if talking and writing were of themselves sufficient to make men good, they would justly, as Theognis observes have reaped numerous and great rewards, and the thing to do would be to provide them: but in point of fact, while they plainly have the power to guide and stimulate the generous among the young and to base upon true virtuous principle any noble and truly high-minded disposition, they as plainly are powerless to guide the mass of men to Virtue and goodness; because it is not their nature to be amenable to a sense of shame but only to fear; nor to abstain from what is low and mean because it is disgraceful to do it but because of the punishment attached to it: in fact, as they live at the beck and call of passion, they pursue their own proper pleasures and the means of securing them, and they avoid the contrary pains; but as for what is noble and truly pleasurable they have not an idea of it, inasmuch as they have never tasted of it.
 

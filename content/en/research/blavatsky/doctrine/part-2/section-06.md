@@ -10,17 +10,48 @@ image: "/covers/secret.png"
 
 Whence this universal symbol? 
 
-The Egg was incorporated as a sacred sign in the Cosmogony of every people on the earth, and was revered both on account of its form and of its inner mystery. From the earliest mental conceptions of man, it has been known as that which represented most successfully the origin and secret of Being.
+The Egg was incorporated as a sacred sign in the Cosmogony of every people on the earth, and was revered both on account of its form and of its inner mystery. 
 
-The gradual development of the imperceptible germ within the closed shell; the inward working, without any apparent outward interference of force, which from a latent nothing produced an active something, needing naught save heat; and which, having gradually evolved into a concrete, living creature, broke its shell, appearing to the outward senses of all as a self-generated and self-created being; all this must have been a standing miracle from the beginning.
+From the earliest mental conceptions of man, it has been known as:
+- the best representation the origin and secret of Being
+- the gradual development of the imperceptible germ within the closed shell
+- the inward working, without any apparent outward interference of force
+  - from a latent nothing produced an active something, needing only heat
 
-The Secret Teaching explains the reason for this reverence by the symbolism of the prehistoric races. In the beginnings, the “First Cause” had no name. Later it was pictured in the fancy of the thinkers as an ever invisible, mysterious Bird that dropped an Egg into Chaos, which Egg became the Universe. Hence Brahmâ was called Kâlahansa, the “Swan in [Space and] Time.” Becoming the Swan of Eternity, Brahmâ, at the beginning of each Mahâmanvantara, lays a Golden Egg, which typifies the great Circle, or [circle] itself a symbol for the Universe and its spherical bodies.
+Having gradually evolved into a concrete, living creature, it broke its shell. It appeared to the outward senses as a self-generated and self-created being.
 
-A second reason for the Egg having been chosen as the symbolical representation of the Universe, and of our Earth, was its form. It was a Circle and a Sphere; and the ovi-form shape of our Globe must have been known from the beginning of symbology, since it was so universally adopted. The first manifestation of the Kosmos in the form of an Egg was the most widely diffused belief of Antiquity. As Bryant [pg 385]shows,552 it was a symbol adopted among the Greeks, the Syrians, Persians, and Egyptians. In the Egyptian Ritual, Seb, the God of Time and of the Earth, is spoken of as having laid an Egg, or the Universe, an “Egg conceived at the hour of the Great One of the Dual Force.”553
+This must have been a standing miracle from the beginning.
 
-Ra is shown like Brahmâ gestating in the Egg of the Universe. The Deceased is “resplendent in the Egg of the Land of Mysteries.”554 For, this is “the Egg to which is given Life among the Gods.”555 “It is the Egg of the great clucking Hen, the Egg of Seb, who issues from it like a hawk.”556
 
-Among the Greeks the Orphic Egg is described by Aristophanes, and was part of the Dionysiac and other Mysteries, during which the Mundane Egg was consecrated and its significance explained; Porphyry also shows it to be a representation of the world: “Ἑρμηνεύει δὲ τὸ ὠὸν τὸν κόσμον.” Faber and Bryant have tried to show that the Egg typified the Ark of Noah—a wild belief, unless the latter is accepted as purely allegorical and symbolical. It can only have typified the Ark as a synonym of the Moon, the Argha which carries the universal seed of life; but had surely nothing to do with the Ark of the Bible. Anyhow, the belief that the Universe existed in the beginning in the shape of an Egg was general. And as Wilson says:
+The Secret Teaching explains the reason for this reverence by the symbolism of the prehistoric races. 
+
+In the beginnings, the “First Cause” had no name.
+
+Later it was pictured in the fancy of the thinkers as an ever invisible, mysterious Bird that dropped an Egg into Chaos, which Egg became the Universe.
+
+Hence Brahmâ was called Kâlahansa, the “Swan in [Space and] Time.” 
+
+Becoming the Swan of Eternity, Brahmâ, at the beginning of each Mahâmanvantara, lays a Golden Egg, which typifies the great Circle, or [circle] itself a symbol for the Universe and its spherical bodies.
+
+A second reason for the Egg having been chosen as the symbolical representation of the Universe, and of our Earth, was its form.
+
+It was a Circle and a Sphere; and the ovi-form shape of our Globe must have been known from the beginning of symbology, since it was so universally adopted. The first manifestation of the Kosmos in the form of an Egg was the most widely diffused belief of Antiquity.
+
+As Bryant shows,552 it was a symbol adopted among the Greeks, the Syrians, Persians, and Egyptians. In the Egyptian Ritual, Seb, the God of Time and of the Earth, is spoken of as having laid an Egg, or the Universe, an “Egg conceived at the hour of the Great One of the Dual Force.”553
+
+Ra is shown like Brahmâ gestating in the Egg of the Universe. 
+
+The Deceased is “resplendent in the Egg of the Land of Mysteries.”554 For, this is “the Egg to which is given Life among the Gods.”555 “It is the Egg of the great clucking Hen, the Egg of Seb, who issues from it like a hawk.”556
+
+Among the Greeks the Orphic Egg is described by Aristophanes, and was part of the Dionysiac and other Mysteries, during which the Mundane Egg was consecrated and its significance explained.
+
+Porphyry also shows it to be a representation of the world: “Ἑρμηνεύει δὲ τὸ ὠὸν τὸν κόσμον.” 
+
+Faber and Bryant have tried to show that the Egg typified the Ark of Noah—a wild belief, unless the latter is accepted as purely allegorical and symbolical.
+
+It can only have typified the Ark as a synonym of the Moon, the Argha which carries the universal seed of life; but had surely nothing to do with the Ark of the Bible.
+
+The belief that the Universe existed in the beginning in the shape of an Egg was general. And as Wilson says:
 
 A similar account of the first aggregation of the elements in the form of an Egg is given in all the Purânas, with the usual epithet Haima or Hiranya, “golden,” as it occurs in Manu, I. 9.557
 
@@ -28,11 +59,34 @@ Hiranya, however, means “resplendent,” “shining,” rather than “golden,
 
 Intellect [Mahat] ... the [unmanifested] gross elements inclusive, formed an Egg ... and the Lord of the Universe himself abided in it, in the character of Brahmâ. In that Egg, O Brâhmana, were the continents, and seas and mountains, the planets and divisions of the planets, the gods, the demons and mankind.558
 
-Both in Greece and in India the first visible male Being, who united in himself the nature of either sex, abode in the Egg and issued from it. This “First-born of the World” was Dionysus, with some Greeks; [pg 386]the God who sprang from the Mundane Egg, and from whom the Mortals and Immortals were derived. The God Ra is shown, in the Book of the Dead, beaming in his Egg [the Sun], and the stars off as soon as the God Shoo [the Solar Energy] awakens and gives him the impulse.559 “He is in the Solar Egg, the Egg to which is given Life among the Gods.”560 The Solar God exclaims: “I am the Creative Soul of the Celestial Abyss. None sees my Nest, none can break my Egg, I am the Lord!”561
+Both in Greece and in India the first visible male Being, who united in himself the nature of either sex, abode in the Egg and issued from it.
 
-In view of this circular form, the “[vertical bar]” issuing from the “[circle],” or the Egg, or the male from the female in the androgyne, it is strange to find a scholar saying, on the ground that the most ancient Indian MSS. show no trace of it, that the ancient Âryans were ignorant of the decimal notation. The 10, being the sacred number of the Universe, was secret and esoteric, both as regards the unit and cipher, or zero, the circle. Moreover, Professor Max Müller tells that “the two words cipher and zero, which are but one, are sufficient to prove that our figures are borrowed from the Arabs.”562 Cipher is the Arabic cifron, and means “empty,” a translation of the Sanskrit sunyan, or “nought,” says the Professor.563 The Arabs had their figures from Hindûstan, and never claimed the discovery for themselves. As to the Pythagoreans, we need but turn to the ancient manuscripts of Boethius' treatise, De Arithmetica, composed in the sixth century, to find among the Pythagorean numerals the “1” and the “0,” as the first and final figures.564 And Porphyry, who quotes from the Pythagorean Moderatus,565 says that the numerals of Pythagoras were “hieroglyphical symbols, by means whereof he explained ideas concerning the nature of things,” or the origin of the Universe.
+This “First-born of the World” was Dionysus, with some Greeks; the God who sprang from the Mundane Egg, and from whom the Mortals and Immortals were derived. 
 
-Now, if, on the one hand, the most ancient Indian MSS. show as yet no trace of decimal notation in them, and Max Müller states very clearly that until now he has found but nine letters, the initials of the Sanskrit numerals; on the other hand, we have records as ancient, to supply the wanted proof. We speak of the sculptures and the sacred [pg 387]imagery in the most ancient temples of the far East. Pythagoras derived his knowledge from India; and we find Professor Max Müller corroborating this statement, at least so far as to allow that the Neo-Pythagoreans were the first teachers of “ciphering,” among the Greeks and Romans; that they “at Alexandria, or in Syria, became acquainted with the Indian figures, and adapted them to the Pythagorean Abacus.” This cautious admission implies that Pythagoras himself was acquainted with only nine figures. Thus we might reasonably answer that, although we possess no certain proof, exoterically, that the decimal notation was known to Pythagoras, who lived at the very close of the archaic ages,566 yet we have sufficient evidence to show that the full numbers, as given by Boethius, were known to the Pythagoreans, even before Alexandria was built.567 This evidence we find in Aristotle, who says that “some philosophers hold that ideas and numbers are of the same nature, and amount to ten in all.”568 This, we believe, will be sufficient to show that the decimal notation was known among them at least as early as four centuries b.c., for Aristotle does not seem to treat the question as an innovation of the Neo-Pythagoreans.
+The God Ra is shown, in the Book of the Dead, beaming in his Egg [the Sun], and the stars off as soon as the God Shoo [the Solar Energy] awakens and gives him the impulse.559 “He is in the Solar Egg, the Egg to which is given Life among the Gods.”560
+
+The Solar God exclaims: “I am the Creative Soul of the Celestial Abyss. None sees my Nest, none can break my Egg, I am the Lord!”561
+
+
+In view of this circular form, the “[vertical bar]” issuing from the “[circle],” or the Egg, or the male from the female in the androgyne, it is strange to find a scholar saying, on the ground that the most ancient Indian MSS. show no trace of it, that the ancient Âryans were ignorant of the decimal notation.
+
+The 10, being the sacred number of the Universe, was secret and esoteric, both as regards the unit and cipher, or zero, the circle.
+
+Max Müller tells that “the two words cipher and zero, which are but one, are sufficient to prove that our figures are borrowed from the Arabs.”562 
+
+Cipher is the Arabic cifron, and means “empty,” a translation of the Sanskrit sunyan, or “nought,” says the Professor.563 
+
+The Arabs had their figures from Hindûstan, and never claimed the discovery for themselves. As to the Pythagoreans, we need but turn to the ancient manuscripts of Boethius' treatise, De Arithmetica, composed in the sixth century, to find among the Pythagorean numerals the “1” and the “0,” as the first and final figures.564 
+
+Porphyry, who quotes from the Pythagorean Moderatus,565 says that the numerals of Pythagoras were “hieroglyphical symbols, by means whereof he explained ideas concerning the nature of things,” or the origin of the Universe.
+
+If, on the one hand, the most ancient Indian MSS. show as yet no trace of decimal notation in them, and Max Müller states very clearly that until now he has found but nine letters, the initials of the Sanskrit numerals; on the other hand, we have records as ancient, to supply the wanted proof. We speak of the sculptures and the sacred imagery in the most ancient temples of the far East. Pythagoras derived his knowledge from India; 
+
+Max Müller corroborates this statement, at least so far as to allow that the Neo-Pythagoreans were the first teachers of “ciphering,” among the Greeks and Romans; that they “at Alexandria, or in Syria, became acquainted with the Indian figures, and adapted them to the Pythagorean Abacus.” This cautious admission implies that Pythagoras himself was acquainted with only nine figures.
+
+Thus we might reasonably answer that, although we possess no certain proof, exoterically, that the decimal notation was known to Pythagoras, who lived at the very close of the archaic ages,566 yet we have sufficient evidence to show that the full numbers, as given by Boethius, were known to the Pythagoreans, even before Alexandria was built.567 
+
+This evidence we find in Aristotle, who says that “some philosophers hold that ideas and numbers are of the same nature, and amount to ten in all.”568 This, we believe, will be sufficient to show that the decimal notation was known among them at least as early as four centuries b.c., for Aristotle does not seem to treat the question as an innovation of the Neo-Pythagoreans.
 
 But we know more than this; we know that the decimal system must have been used by the mankind of the earliest archaic ages, since the whole astronomical and geometrical portion of the secret sacerdotal language was built upon the number 10, or the combination of the male and female principles, and since the “Pyramid of Cheops,” so-called, is built upon measures of this decimal notation, or rather upon the digits and their combinations with the nought. Of this, however, sufficient has been said in Isis Unveiled, and it is useless to repeat it.
 

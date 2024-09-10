@@ -151,7 +151,7 @@ paginate = 12
     [languages.en.params.tricon3]
       heading = "The Soul of Living Entities"
       title = "Bio Superphysics"
-      sub = "Based on the dynamics of the sentient energy"
+      sub = "Based on the dynamics of the living energy, chi, or prana"
       # youtube= "Y6YKmtqJak4"
       youtube= "yhD-Kb_bRBY"
       icon = "/icons/spmed.png"
@@ -180,7 +180,7 @@ paginate = 12
     [languages.en.params.tricon4]
       heading = "The Soul of Society"
       title = "Social Superphysics"
-      sub = "The Hidden Dynamics of Society"
+      sub = "The Hidden Dynamics of Society based on Socrates, Hume, Smith, Ibn Khaldun with sprinkles of Montesquieu"
       youtube = "Xw6tWGAIe04"
       icon = "/icons/spsoc.png"
     [languages.en.params.tricon4.items.a]
@@ -208,7 +208,8 @@ paginate = 12
     [languages.en.params.tricon8]
       heading = "The Waves in the Economy"
       title = "Supereconomics"
-      sub = "A sub-science of Social Superphysics, since Economics comes after Politics"
+      sub = "Based on the 4 Law so"
+      # A sub-science of Social Superphysics, since Economics comes after Politics"
       youtube = "AfByl9Mywi4"
       icon = "/icons/specon.png"
     [languages.en.params.tricon8.items.a]

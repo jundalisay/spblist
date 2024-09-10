@@ -1,7 +1,31 @@
-Chapter VII.
-Science is a term we use principally in two meanings: in the first place, in the Arts we ascribe it to those who carry their arts to the highest accuracy;[22] Phidias, for instance, we call a Scientific or cunning sculptor; Polycleitus a Scientific or cunning statuary; meaning, in this instance, nothing else by Science than an excellence of art: in the other sense, we think some to be Scientific in a general way, not in any particular line or in any particular thing, just as Homer says of a man in his Margites; “Him the Gods made neither a digger of the ground, nor ploughman, nor in any other way Scientific.”
+---
+heading: Chapter 7
+title: "What is Science?"
+weight: 12
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+image: "/covers/ethics.jpg"
+description: "Science must mean the most accurate of all Knowledge."
+icon: "/icons/aris.png"
+---
 
-So it is plain that Science must mean the most accurate of all Knowledge; but if so, then the Scientific man must not merely know the deductions from the First Principles but be in possession of truth respecting the First Principles. So that Science must be equivalent to Intuition and Knowledge; it is, so to speak, Knowledge of the most precious objects, with a head on.[23]
+
+Science has 2 meanings:
+
+1. In the Arts we ascribe it to those who carry their arts to the highest accuracy;[22]
+
+Phidias, for instance, we call a Scientific or cunning sculptor; 
+
+Polycleitus a Scientific or cunning statuary; meaning, in this instance, nothing else by Science than an excellence of art:
+
+2. We think some to be Scientific in a general way, not in any particular line or in any particular thing
+
+just as Homer says of a man in his Margites; “Him the Gods made neither a digger of the ground, nor ploughman, nor in any other way Scientific.”
+
+Science must mean the most accurate of all Knowledge.
+
+But if so, then the Scientific man must not merely know the deductions from the First Principles but be in possession of truth respecting the First Principles. So that Science must be equivalent to Intuition and Knowledge; it is, so to speak, Knowledge of the most precious objects, with a head on.[23]
 
 I say of the most precious things, because it is absurd to suppose πολιτικὴ,[24] or Practical Wisdom, to be the highest, unless it can be shown that Man is the most excellent of all that exists in the Universe. Now if “healthy” and “good” are relative terms, differing when applied to men or to fish, but “white” and “straight” are the same always, men must allow that the Scientific is the same always, but the Practically Wise varies: for whatever provides all things well for itself, to this they would apply the term Practically Wise, and commit these matters to it; which is the reason, by the way, that they call some brutes Practically Wise, such that is as plainly have a faculty of forethought respecting their own subsistence.
 
@@ -53,7 +77,8 @@ But even this again you may get by false reasoning, and hit upon the right effec
 
 Again, one man may hit on a thing after long deliberation, another quickly. And so that before described will not be yet Good Counsel, but the Rightness must be with reference to what is expedient; and you must have a proper end in view, pursue it in a right manner and right time.
 
-Once more. One may deliberate well either generally or towards some particular End.[38] Good counsel in the general then is that which goes right towards that which is the End in a general way of consideration; in particular, that which does so towards some particular End.
+One may deliberate well either generally or towards some particular End.[38] 
+
+Good counsel in the general then is that which goes right towards that which is the End in a general way of consideration; in particular, that which does so towards some particular End.
 
 Since then deliberating well is a quality of men possessed of Practical Wisdom, Good Counsel must be “Rightness in respect of what conduces to a given End, of which[39] Practical Wisdom is the true conception.”
-

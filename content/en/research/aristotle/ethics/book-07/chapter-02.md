@@ -1,6 +1,18 @@
-Chapter II.
+---
+heading: Chapter 8
+title: "The perfect Happiness"
+weight: 12
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+image: "/covers/ethics.jpg"
+description: "What is the nature of the right conception in violation of which a man fails of Self-Control?"
+icon: "/icons/aris.png"
+---
 
-Now a man may raise a question as to the nature of the right conception in violation of which a man fails of Self-Control.
+
+
+What is the nature of the right conception in violation of which a man fails of Self-Control?
 
 That he can so fail when knowing in the strict sense what is right some say is impossible: for it is a strange thing, as Socrates thought, that while Knowledge is present in his mind something else should master him and drag him about like a slave. Socrates in fact contended generally against the theory, maintaining there is no such state as that of Imperfect Self-Control, for that no one acts contrary to what is best conceiving it to be best but by reason of ignorance what is best.
 
@@ -942,13 +954,18 @@ I mean, the liberal man must have money to do his liberal actions with, and the 
 
 (By the way, a question is sometimes raised, whether the moral choice or the actions have most to do with Virtue, since it consists in both: it is plain that the perfection of virtuous action requires both: but for the actions many things are required, and the greater and more numerous they are the more.) But as for the man engaged in Contemplative Speculation, not only are such things unnecessary for his Working, but, so to speak, they are even hindrances: as regards the Contemplation at least; because of course in so far as he is Man and lives in society he chooses to do what Virtue requires, and so he will need such things for maintaining his character as Man though not as a speculative philosopher.
 
-And that the perfect Happiness must be a kind of Contemplative Working may appear also from the following consideration: our conception of the gods is that they are above all blessed and happy: now what kind of Moral actions are we to attribute to them? those of justice? nay, will they not be set in a ridiculous light if represented as forming contracts, and restoring deposits, and so on? well then, shall we picture them performing brave actions, withstanding objects of fear and meeting dangers, because it is noble to do so? or liberal ones? but to whom shall they be giving? and further, it is absurd to think they have money or anything of the kind. And as for actions of perfected self-mastery, what can theirs be? would it not be a degrading praise that they have no bad desires? In short, if one followed the subject into all details all the circumstances connected with Moral actions would appear trivial and unworthy of Gods.
+The perfect Happiness must be a kind of Contemplative Working may appear also from the following consideration: our conception of the gods is that they are above all blessed and happy: now what kind of Moral actions are we to attribute to them? those of justice? nay, will they not be set in a ridiculous light if represented as forming contracts, and restoring deposits, and so on? 
 
-Still, every one believes that they live, and therefore that they Work because it is not supposed that they sleep their time away like Endymion: now if from a living being you take away Action, still more if Creation, what remains but Contemplation? So then the Working of the Gods, eminent in blessedness, will be one apt for Contemplative Speculation; and of all human Workings that will have the greatest capacity for Happiness which is nearest akin to this.
+Shall we picture them performing brave actions, withstanding objects of fear and meeting dangers, because it is noble to do so? or liberal ones? 
+
+but to whom shall they be giving? and further, it is absurd to think they have money or anything of the kind. And as for actions of perfected self-mastery, what can theirs be? would it not be a degrading praise that they have no bad desires? In short, if one followed the subject into all details all the circumstances connected with Moral actions would appear trivial and unworthy of Gods.
+
+Everyone believes that they live. They Work because it is not supposed that they sleep their time away like Endymion.
+
+If from a living being you take away Action, still more if Creation, what remains but Contemplation? So then the Working of the Gods, eminent in blessedness, will be one apt for Contemplative Speculation; and of all human Workings that will have the greatest capacity for Happiness which is nearest akin to this.
 
 A corroboration of which position is the fact that the other animals do not partake of Happiness, being completely shut out from any such Working.
 
 To the Gods then all their life is blessed; and to men in so far as there is in it some copy of such Working, but of the other animals none is happy because it in no way shares in Contemplative Speculation.
 
 Happiness then is co-extensive with this Contemplative Speculation, and in proportion as people have the act of Contemplation so far have they also the being happy, not incidentally, but in the way of Contemplative Speculation because it is in itself precious.
-

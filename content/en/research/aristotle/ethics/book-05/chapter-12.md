@@ -1,6 +1,17 @@
+---
+heading: Chapter 12
+title: "Dealing Justly"
+weight: 12
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+image: "/covers/ethics.jpg"
+description: "The Pythagoreans think that Reciprocation is simply just."
+icon: "/icons/aris.png"
+---
 
-Chapter XII.
-Now a question may be raised whether we have spoken with sufficient distinctness as to being unjustly dealt with, and dealing unjustly towards others.
+
+Have we spoken with sufficient distinctness as to being unjustly dealt with, and dealing unjustly towards others?
 
 First, whether the case is possible which Euripides has put, saying somewhat strangely,
 

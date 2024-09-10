@@ -1,5 +1,5 @@
 ---
-heading: Section 1
+# heading: Section 1
 title: "Seven Stanzas From The Book Of Dzyan With Commentaries"
 weight: 4
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
@@ -50,7 +50,7 @@ Stanza I.
 
 5. Darkness alone filled the Boundless All, for Father, Mother and Son were once more one, and the Son had not yet awakened for the new Wheel and his Pilgrimage thereon.
 
-[pg 056]
+
 6. The Seven Sublime Lords and the Seven Truths had ceased to be, and the Universe, the Son of Necessity, was immersed in Paranishpanna, to be outbreathed by that which is, and yet is not. Naught was.
 
 7. The Causes of Existence had been done away with; the Visible that was, and the Invisible that is, rested in Eternal Non-Being—the One Being.

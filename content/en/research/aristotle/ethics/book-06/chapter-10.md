@@ -1,4 +1,16 @@
-Chapter X.
+---
+heading: Chapter 8
+title: "What is Reciprocation?"
+weight: 12
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+image: "/covers/ethics.jpg"
+description: "The Pythagoreans think that Reciprocation is simply just."
+icon: "/icons/aris.png"
+---
+
+
 There is too the faculty of Judiciousness, and also its absence, in virtue of which we call men Judicious or the contrary.
 
 Now Judiciousness is neither entirely identical with Knowledge or Opinion (for then all would have been Judicious), nor is it any one specific science, as medical science whose object matter is things wholesome; or geometry whose object matter is magnitude: for it has not for its object things which always exist and are immutable, nor of those things which come into being just any which may chance; but those in respect of which a man might doubt and deliberate.
