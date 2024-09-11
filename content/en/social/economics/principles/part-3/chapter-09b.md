@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 9b"
 title: "Pool Clearing and Clearing Funds"
-# date: 2022-12-24
-date: 2024-08-20
+date: 2022-12-24
+# date: 2024-08-20
 weight: 46
 image: /photos/objects/money.jpg
 description: "Instead of world trade being done in an unregulated way, all in US dollars, each country joins the global pool"
@@ -40,7 +40,7 @@ How can such a trade gap be solved?
 
 The economist EF Schumacher thought about this in the 1940's and proposed a [Pool Clearing system](https://centerforneweconomics.org/publications/multilateral-clearing/) as a solution.
 
-Instead of world trade being done in US dollars in an unregulated way, each country joins the global pool which mandates them to set up a **National Clearing Fund**.
+Instead of world trade being done in US dollars in an unregulated way, each country joins the global pool, as a closed system, which mandates them to set up a **National Clearing Fund**.
 
 This fund will be used to:
 - accept local currency payments for imports 
@@ -95,4 +95,11 @@ Technically, the Clearing Fund is not public debt and is an supra-national insti
 
 <!--  as an alternative to the money-based one.   -->
 
-In a future post, we will explain how Pool Clearing could have been used to unify Hongkong, Taiwan, and China peacefully without the needing to go through the current tensions.  
+Pool Clearing can also unify Hongkong, Taiwan, and China peacefully without the needing to go through the current tensions.
+
+
+Moreover, it can be [integrated with the logistics system](/social/economics/solutions/pool-clearing) so that shipping containers can be allocated correctly instead of having a shortage, like what happened during the pandemic. 
+
+This will create a coordinated global logistics system that can make trips as efficient as possible, reducing unecessary ones. This would then reduce emissions and consequently, global warming. 
+
+

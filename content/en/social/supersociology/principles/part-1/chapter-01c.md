@@ -49,9 +49,15 @@ A state can merge with other states and become a United States or European Union
 
 ## Civilization
 
-A state can become a civilization if it adopts an ideology. 
+A state can become a civilization if it adopts an ideology. The physical manifestations that a state is capable of ideology is when they have all of the following:
 
-We define an ideolgoy as a belief system that has a central idea. For example:
+1. Dress -- This represents a refined culture
+2. Script -- This represents communication and knowledge
+3. The wheel -- This represents technology
+4. Agriculture -- This represents food production and continuity
+
+
+We define an ideology as a belief system that has a central idea. For example:
 - Nazi ideology is based on the supremacy of the Aryans
 - Islamic ideology is based on Prophet Mohammad being the Messenger of God   
 - Confucian ideology is based on Confucius' policies and rituals

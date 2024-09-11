@@ -16,8 +16,7 @@ All thinkers agree in making the contraries principles, both those who describe 
 Even Parmenides treats hot and cold as principles under the names of fire and earth.
 
 
-The same is true of Democritus also, with his plenum and void, both of which exist, be says, the one as
-being, the other as not-being. Again he speaks of differences in position, shape, and
+The same is true of Democritus also, with his plenum and void, both of which exist, be says, the one as being, the other as not-being. Again he speaks of differences in position, shape, and
 order, and these are genera of which the species are contraries, namely, of position,
 above and below, before and behind; of shape, angular and angle-less, straight and
 round.

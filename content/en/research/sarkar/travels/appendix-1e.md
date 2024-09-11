@@ -174,15 +174,13 @@ This is in Japan, China, Taiwan, Mongolia and Korea. It has pictorial script.
 
 African languages differ according to climate and rivers. 
 
-Language there began in the southern part of the Sahara. As that language 
-moved further south it created 27 major languages and dialects. 
+Language there began in the southern part of the Sahara. As that language moved further south it created 27 major languages and dialects.
 
 In the northern reaches of the Sahara, the main language was Egyptian.
 
 "Semitic" originally meant north of the Sahara. 
 
-The Aryans and the Blacks met in the area of Palestine, and created the Semitic 
-peoples. 
+The Aryans and the Blacks met in the area of Palestine, and created the Semitic peoples. 
 - They are thus a mixture of black and white. 
 
 **The great original Egyptian civilization was black.** 
@@ -193,8 +191,7 @@ At that time, the Arabs were imposing and militant, so they destroyed much of th
 
 One system of classification is according to the changes a language undergoes when there is a change in the subject. Thus, there are 4 groups:
 
-1. Changes in the conjugation of the verb are affected by both 
-the number and the gender of the subject. 
+1. Changes in the conjugation of the verb are affected by both the number and the gender of the subject. 
 
 An example is French.
 

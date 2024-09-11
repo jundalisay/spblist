@@ -45,7 +45,7 @@ Ancient Bengal had many commodities to sell but very few to buy.
 
 In ancient Bengal, much barter was conducted by the Gandhabańic and Suvarńabańic communities. 
 - Other merchants also took part.
-- This is because Bengal had a highly developed ship industry. 
+- **This is because Bengal had a highly developed ship industry.**
   - The Bengali carpenters and fishermen were very proficient in marine industries. 
 
 The merchants used to take their commodities overseas to sell. 
@@ -63,16 +63,21 @@ Gáchphal badale jáyphal pábo baheŕár badale guvá. -->
 
 The poet Mukunda Rám Cakravartii was from Ráŕh in Bengal. 
 
-In those days, the people of Ráŕh used to send only the surplus commodities overseas for sale, and import only those commodities which were necessary for the people of Ráŕh, such as cloves, medicinal fruit and betel. 
+In those days, the people of Ráŕh used to:
+- export only the surplus commodities overseas for sale
+- import only those commodities necessary for the people of Ráŕh, such as cloves, medicinal fruit and betel. 
 
-Bengalees exported very fine rice (badsha bhog – rice fit for the consumption of monarchs used for preparing special rice dishes) from Birbhum, Samantabhum, Senbhum, Mallabhum, Manbhum, etc., in western Ráŕh; and muslin from Visnupur. 
+Bengalees exported:
+- very fine rice (badsha bhog – rice fit for the consumption of monarchs used for preparing special rice dishes) from Birbhum, Samantabhum, Senbhum, Mallabhum, Manbhum, etc., in western Ráŕh
+- muslin from Visnupur. 
 
 Large quantities of black woollen blankets, fine sal furniture, Bengal gram, cotton cloth, sugar, raw sugar, copper, copper goods, mustard oil and chillies were exported from different parts of Bengal to Southeast Asia, Egypt and Europe. 
 
 In exchange for these commodities, which required a large space in their ships, Bengali merchants used to bring back merchandise from overseas countries. 
 
 In exchange for exports which required very little space, Bengali merchants used to bring back gold coins.
-In Bengal the Sinhalpatan, Tamralipta and Chattagram or Chatigram ports were very famous for trading in imports and exports. 
+In Bengal the Sinhalpatan, Tamralipta and Chattagram or Chatigram ports were very famous for foreign trade.
+ <!-- in imports and exports.  -->
 
 Dhumghat, Berachampa, Mahisadal, Jiivankhali (Genyokhali-Miirjapur), Nalchiti and Jhalkathi were medium-sized ports which were also used for imports and exports. This shows that ancient Bengal conducted extensive trade and barter trade.
 <!-- 11 January 1987, Calcutta
@@ -94,13 +99,22 @@ During the ancient Rg Vedic period, civilization was very backward.
 
 In that age there was no such thing as buying and selling in the strict sense of the term. The system of exchange that was in vogue in those days can best be called “barter”. 
 
-For instance, people used to give some barley to someone (in those days people were not acquainted with wheat or rice). In exchange they would get a container. Again, in exchange for a sieve, someone would get some lentils. (In those days people were not acquainted with cow pea. They were more acquainted with legumes than with Bengal grams.) 
+In those days, people were not acquainted with wheat. rice, or cow pea. They were more acquainted with legumes than with Bengal grams.
+
+
+For instance, people used to give some barley to someone. In exchange, they would get a container. 
+
+Again, in exchange for a sieve, someone would get some lentils.
 
 This system of exchange continued for a long time.
 
-Later, people began to feel some practical inconvenience because they were often not able to get the items they badly needed, and there was no ready market to sell the commodities that people produced. Under the circumstances, people converted the commodities for exchange into some kind of standard wealth to be used as needed. Thus, they began to think of media of exchange.
+Later, people began to feel some practical inconvenience because they were often not able to get the items they badly needed.
 
-In India, the first medium of exchange used was sea shells. 
+There was no ready market to sell the commodities that people produced. 
+
+Under the circumstances, people converted the commodities for exchange into some kind of standard wealth to be used as needed. Thus, they began to think of media of exchange.
+
+**In India, the first medium of exchange used was sea shells.** 
 
 These sea shells were the first coins. 
 
@@ -114,13 +128,13 @@ But when a transaction used sea shells the root word krii was conjugated as 'kri
 - "Purchase" meant getting something through barter.
 - "Buy” only meant getting something with money.
 
-Thus, towards the end of the Vedic Age the root verb krii became ubhayapadii, conjugated in both the above ways. 
+Thus, towards the end of the Vedic Age the root verb krii became ubhayapadii, conjugated in both the above ways.
 
-Páńini, the first grammarian in the world, recognized the word ubhayapadii. 
+**Páńini, the first grammarian in the world, recognized the word ubhayapadii.** 
 - Later grammarians followed his lead.
 
-From the Gupta Age onwards, barter trade between different countries continued. But in towns and cities:
-- barter was greatly reduced, while 
+From the **Gupta Age** onwards, barter trade between different countries continued. But in towns and cities:
+- barter was greatly reduced
 - the money-based buying and selling of commodities with money greatly increased. 
 
 Metal coins began to replace sea shells as media in an improved system of exchange. 

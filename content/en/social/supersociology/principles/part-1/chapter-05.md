@@ -94,38 +94,48 @@ We plug in this model into our [equation-for-everything](/superphysics/principle
 ![Universal Relativity](/graphics/social/cycle.png)
 
 
-{{< f f="Our equation for everything is based on Poincare's Law of Relativity which is consistend with the Relativty of Rene Descartes which is most of the basis of Material Superphysics. Poincare's Relativity was replaced by Einstein's sophistical Relativity which locked humans into their current sad reality without nuclear fusion or anti-gravity." >}}
+{{< f f="Our equation for everything is based on Poincare's Law of Relativity which is consistend with the Relativty of Rene Descartes which used a lot in Material Superphysics. Poincare's Relativity was replaced by Einstein's sophistical Relativity which locked humans into the current sad reality without nuclear fusion or anti-gravity." >}}
 
 
-Social Cycles explain why and how history repeats itself since reality is a wave, and waves are **always related** to previous and future waves. We give a short story below as an example.
+Social Cycles explain why and how history repeats itself. This is because reality is a wave, and waves are **always related** to previous and future waves. We give a short story below as an example.
 
 
 {{< box >}}
 ### The Story of Survivor Island
 
-The social cycles can be explained in a short story:
+<!-- The social cycles can be explained in a short story: -->
 
-One afternoon, a small plane crashed on a deserted island leaving four people stranded – Mei a female construction worker, Sergeant Arthur an army officer, Albert a scientist, and Meg an ex-CEO.
+One afternoon, a small airplane crashed on a deserted island leaving four people stranded – Mei a female construction worker, Sergeant Arthur an army officer, Albert a scientist, and Meg an ex-CEO.
 
 "We must first make a safe shelter because I heard there’s a big tiger on this island,” says Arthur. “I’ll go out to gather food. The rest should follow Mei in building a shelter.”
 
-The group agrees and after a month, the shelter is finished. “Good, now we must hunt the tiger to ensure our safety,” says Arthur and takes the lead in hunting and killing the tiger, which takes a whole month.
+The group agrees. After a month, the shelter is finished. 
 
-“Now that we’re safe, we can think of ways to get out of this island. Any suggestions?” asks Mei.“It’s been two months since we crashed,” replies Albert. 
+“Good, now we must hunt the tiger to ensure our safety,” says Arthur. He takes the lead in hunting and killing the tiger, which takes a whole month.
 
-“The search has surely been called off. We must find ways to settle here permanently. I can share my ideas if you let me take the lead.
+“Now that we’re safe, we can think of ways to get out of this island. Any suggestions?” asks Mei. 
 
-”The group agrees and soon they change from Arthur’s tactic of hunting animals for food into a longer term strategy of domesticating them and establishing small fish pens. Without threats and with fewer burdens, the group starts to feel closer to each other and be more relaxed. By the next month, Mei has fallen for Arthur’s bravery, while Meg, for Albert’s intellect.
+“It’s been two months since we crashed,” replies Albert. “The search has surely been called off. We must find ways to settle here permanently. I can share my ideas if you let me take the lead.
+
+”The group agrees and soon they change from Arthur’s tactic of hunting animals for food into a longer term strategy of domesticating them and establishing small fish pens. 
+
+Without threats and with fewer burdens, the group starts to feel closer to each other and be more relaxed. By the next month, Mei has fallen for Arthur’s bravery, while Meg, for Albert’s intellect.
 
 “I’m pregnant!” Mei shouts. “I’m happy, but our supplies are just enough for the four of us.”
 
-“I’m pregnant too!” Meg responds. “We have to find ways to get more supplies. Since the island is limited, we have to maximize the little resources we have. You should let me take the lead. I want Arthur to chop more wood, Mei to build bigger animal cages and fish pens, and Albert to get the animals to make more milk, eggs, and reproduce faster.”Within a month, food production is increased dramatically and everyone notices Meg getting fatter.
+“I’m pregnant too!” Meg responds. “We have to find ways to get more supplies. Since the island is limited, we have to maximize the little resources we have. You should let me take the lead. I want Arthur to chop more wood, Mei to build bigger animal cages and fish pens, and Albert to get the animals to make more milk, eggs, and reproduce faster.”
+
+Within a month, food production is increased dramatically and everyone notices Meg getting fatter.
 
 “You’ve been ordering us around while doing the least work,” exclaims Mei. 
 
-“Even if you’re smart, you should work like the rest of us!”The group agrees to put Meg to work like the rest, with Mei taking the lead. In the past five months, the group’s territory has expanded from the first shelter into deeper areas of the water where a big shark lives.
+“Even if you’re smart, you should work like the rest of us!” The group agrees to put Meg to work like the rest, with Mei taking the lead. 
 
-“We must hunt down the shark for our own safety! You must let me lead again,” Arthur exclaims.And so, the group embarks on the new endeavor as they struggle to fully establish themselves on the island.
+In the past five months, the group’s territory has expanded from the first shelter into deeper areas of the water where a big shark lives.
+
+“We must kill the shark for our own safety! You must let me lead again,” Arthur exclaims.
+
+And so, the group embarks on the new endeavor as they struggle to fully establish themselves on the island.
 {{< /box >}}
 
 
@@ -134,12 +144,17 @@ The group agrees and after a month, the shelter is finished. “Good, now we mus
 Economic Superphysics, the subset of Social Superphysics, explains that the cycles are based on the 4 laws of value which mirror the 4 laws of thermodynamics:
 
 1. The Working or Shudra class comes from [the First law of Value](/social/economics/principles/part-1/chapter-01)
-2. The Thinking or Brahmin class comes from [the Second law of Value](/social/economics/principles/part-2/chapter-01)
-3. The Trading or Vaeshya class comes from the [the Third law of Value](/social/economics/principles/part-3/chapter-01)
-4. The Warrior or Ksattriya class comes from [the Fourth law of Value](/social/economics/principles/part-4/chapter-01)
+2. The Warrior or Ksattriya class comes from [the Second law of Value](/social/economics/principles/part-2/chapter-01)
+3. The Thinking or Brahmin class comes from [the Third law of Value](/social/economics/principles/part-3/chapter-01)
+4. The Trading or Vaeshya class comes from the [the Fourth law of Value](/social/economics/principles/part-4/chapter-01)
 
 
-So there are 4 cycles or classes the cycles are based on desire-energy and energy in this universe obeys 4 laws of thermodynamics. 
+{{< youtube eEGJY4F6QKw >}}
+
+
+So there are 4 cycles or classes because these represent the desire-energy.
+
+Energy in this universe obeys 4 laws of thermodynamics. 
 
 **Why does thermodynamics have 4 laws?** 
 
@@ -156,7 +171,7 @@ Prediction!
 
 If you know things happen in a regular cycle, then you can predict what will happen. In fact, this is how we predicted [the crisis years starting in 2019](/social/supersociology/precrisis-years).
 
-We also have a [running list of predictions](/social/cycles/predictions/) **to prove that cycles work and that we are inside a Matrix**.
+We also have a [running list of predictions](/social/cycles/predictions/) **to prove that cycles work and that we exist inside a Matrix**.
 
 We use these correct predictions to prove the solidity of the principles discovered by <!-- Francis Bacon, --> Socrates, David Hume, Hinduism, Buddhism, and Taoism. This is similar to how the solidity of Newtonian Physics was proven by the correct prediction of the arrival of Haley's comet.
 

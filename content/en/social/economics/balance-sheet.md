@@ -53,9 +53,12 @@ The natural way is to either watch the concert:
 - at the venue without the smartphone, or
 - outside of the venue via a smartphone or video streaming.
 
-Likewise, a familty can eat dinner:
+Likewise, a family can eat dinner:
 - without using any money by cooking it themselves and serving it to each other, using family-relatonship bound by family morals, or
-- by using money by going to a restaurant, using customer-seller-relationship bound by commercial morals
+- by using money by going to a restaurant, using customer-seller-relationship bound by commercial morals*
+
+{{< n n="Cavemen would not have commercial morals. They would just run away after eating, or even raid the restaurant to get all the food. Morals are do's and don'ts that are based on feeling instead of reason. It is natural and reasonable for cavemen to steal and plunder because their feelings, just as those of animals, never extend to other creatures." >}}
+
 
 The current economic system only uses money, and commercial morals, and fails without it. Our points-based system frees up an economy by allowing a second, lower-cost mode, using more of the family-friends-morals instead of buyer-seller-morals.
 

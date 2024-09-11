@@ -3167,72 +3167,53 @@ sisters would equal the number of brothers on field walk. We also made plans
 to add sister volunteers to the security arrangements. 
 
 
+### Hiding His knowledge 
 
-187 
+This morning, on the way to the field walk, I asked Abaniish of Norway, who until five days ago had never before seen Baba, "Brother, what do you  think of Baba now?" 
 
+"It's funny," he said. "I don't know why... He hasn't done anything at all special... He looks and acts just like a sweet old man... I don't know why, but I love Him." 
 
-Travels with the Mystic Master 
-
-
-Hiding His knowledge 
-
-This morning, on the way to the field walk, I asked Abaniish of Norway, 
-who until five days ago had never before seen Baba, "Brother, what do you 
-think of Baba now?" 
-
-"It's funny," he said. "I don't know why... He hasn't done anything at all 
-special... He looks and acts just like a sweet old man... I don't know why, but I 
-love Him." He gave a big smile like a child. "I feel... I feel love for Him—just 
-like a father. No, even more than for my father." 
+He gave a big smile like a child. "I feel... I feel love for Him—just like a father. No, even more than for my father." 
 
 "It's a normal reaction," I said. "Absolutely normal." 
 
-We drove high into the snow covered Alps. While walking. Baba said, 
-"Life on our planet started in these Alps. At that time the surroundings were 
-very hot. Life began only up in the mountains at zero degrees centrigrade—the 
-necessary temperature for the process to start." 
+We drove high into the snow covered Alps. While walking, Baba said:
+
+{{< q a="Baba" >}}
+Life on our planet started in these Alps. Back then, the surroundings were very hot.
+
+Life began only up in the mountains at zero degrees centrigrade—the necessary temperature for the process to start.
+{{< /q >}}
+
 
 After walking in silence for a few moments, Dada Abhidevananda asked, 
+
+
 "Baba, is it possible that life came to the earth from another planet?" 
 
-"Why not? Why not? According to my opinion, life came from the planet 
-Mars. Today Mars is a dying planet." 
 
-Later He commented that the first human civilization was also in the Alps. 
-
-We returned to the cars and started back. Just after turning a corner, we saw 
-several uniformed persons putting away a big parabolic-shaped machine. One 
-of the Margis in my car, an engineer, said. "That's a sound-detection device 
-used over long distances by the secret police to pick up conversations." 
-
-Another Margi added, "Do you think it's possible that Baba specifically 
-intended that interplanetary talk to be overheard by them?" 
-
-During evening darshan, after a devotional song, one brother suddenly 
-stood up in the middle of the crowd. In the otherwise silent room, his words in 
-Italian had a shocking effect. Before he could complete even one sentence, 
-Dada Japananda rose, pointed his finger at the man, and told him forcefully to 
-sit down. Obediently the man collapsed to the floor. I recognized him. It was 
-Parimal from Parma. He was previously a brilliant physicist, tragically struck 
-by a disease which had neces 
+{{< q a="Baba" >}}
+Why not? I think life came from Mars. Today Mars is a dying planet.
+{{< /q >}}
 
 
+Later He commented that **the first human civilization was also in the Alps.** 
 
-Eye of the Hurricane 
+We returned to the cars and started back. Just after turning a corner, we saw several uniformed persons putting away a big parabolic-shaped machine. One of the Margis in my car, an engineer, said. "That's a sound-detection device used over long distances by the secret police to pick up conversations." 
 
+Another Margi added, "Do you think it's possible that Baba specifically intended that interplanetary talk to be overheard by them?" 
 
-188 
+During evening darshan, after a devotional song, one brother suddenly stood up in the middle of the crowd. In the otherwise silent room, his words in Italian had a shocking effect. 
 
+Before he could complete even one sentence, Dada Japananda rose, pointed his finger at the man, and told him forcefully to sit down. 
 
-sitated an operation on his brain. Since then he had turned abnormal, to say the 
-least. 
+Obediently the man collapsed to the floor. Parimal from Parma. He was previously a brilliant physicist, tragically struck by a disease which had necessitated an operation on his brain. Since then he had turned abnormal. 
 
-In the momentary excitement. Baba looked at Dada Ramananda and me. 
-(Ramanandaji was sitting next to Baba, while I was standing. After the security 
-fiasco at the airport, I had decided to remain close to Baba whenever He was 
-out of His room, directly rather than indirectly supervising the volunteers - 
-though admittedly I took this decision not solely out of consideration for 
-security.) He looked at us and asked, "What is it? What's happening?" 
+In the momentary excitement. Baba looked at Dada Ramananda and me.
+
+(Ramanandaji was sitting next to Baba, while I was standing. After the security fiasco at the airport, I had decided to remain close to Baba whenever He was out of His room, directly rather than indirectly supervising the volunteers - though admittedly I took this decision not solely out of consideration for security.) 
+
+He looked at us and asked, "What is it? What's happening?" 
 
 "Nothing, Baba," Ramanandaji said. "The man is crazy." 
 
@@ -3242,53 +3223,29 @@ on, my boy," He said, waving Parimal forward.
 As he hobbled forward, everyone could see his balding, deformed skull. He 
 launched excitedly into an Italian soliloquy. 
 
-Now this will be interesting, I thought. Since Baba knows all the world's 
-languages, we should be able to see first hand how H e replies to a tongue that 
-He hadn't been exposed to before. All the Margis leaned forward similarly 
-watching for Baba's IMtiOfl, 
+Baba knows all the world's languages. We should be able to see first hand how He replies to a tongue that He hadn't been exposed to before. 
 
 But it was not to be as we hoped. Instead, Baba spoke to the Dada posted in 
-Italy: "Japasiddhananda, give me the translation in English." 
+Italy: 
 
-Though everyone was silent, many looked disappointed. They may have 
-been thinking. Was it only fiction, this story that Baba knows all languages? 
+"Japasiddhananda, give me the translation in English." 
 
-Japasiddhanandaji started the translation, "Baba, he says the title of his 
-story is titled Baba with the Baby on the Farm." 
+Though everyone was silent, many looked disappointed. They may have been thinking. Was it only fiction, this story that Baba knows all languages? 
 
-Parimal appeared inspired as he spoke, enthusiastically dramatizing his 
-discourse. I observed that some of the Germans and Dutch looked 
-disillusioned, seeing Baba's apparent dependence on the translation. 
+Japasiddhanandaji started the translation, "Baba, he says the title of his story is titled Baba with the Baby on the Farm." 
 
-But the Italians and those who understood Italian (including me) could not 
-help but notice that each time Parimal spoke a humorous line. Baba smiled 
-before the translation was delivered. 
+Parimal appeared inspired as he spoke, enthusiastically dramatizing his discourse. I observed that some of the Germans and Dutch looked disillusioned, seeing Baba's apparent dependence on the translation. 
 
-[Author's note: Some months later when I visited Parma, Italy, I found a 
-changed Parimal. Previous to this experience with Baba, he had been in a near¬ 
-constant state of confusion. While I was in Parma, however, I saw that he was 
-still excited about Baba—that he was always talking about Baba. Instead of 
-being in a state of confusion, I felt he was in a spiritual state. A few months 
-after that he died.] 
+But the Italians and those who understood Italian (including me) could not help but notice that each time Parimal spoke a humorous line. Baba smiled before the translation was delivered. 
+
+[Author's note: Some months later when I visited Parma, Italy, I found a changed Parimal. Previous to this experience with Baba, he had been in a near¬constant state of confusion. While I was in Parma, however, I saw that he was still excited about Baba—that he was always talking about Baba. Instead of being in a state of confusion, I felt he was in a spiritual state. A few months after that he died.] 
 
 
+### DMC night 
 
-189 
+This morning, during the daily meeting of our 35 security cadres, I had the uncomfortable task of asking for a volunteer to stay and guard Baba's house during the DMC speech and varabhaya mudra . 51 
 
-
-Travels with the Mystic Master 
-
-
-DMC night 
-
-This morning, during the daily meeting of our thirty-five security cadres, I 
-had the uncomfortable task of asking for a volunteer to stay and guard Baba's 
-house during the DMC speech and varabhaya mudra . 51 
-
-"Whoever sacrifices himself for the welfare of others is guaranteed Baba's 
-special grace," I said. "I know you've all come here looking forward to the 
-DMC speech. Nevertheless, I'm sure at least one of you will selflessly 
-relinquish his rights for the sake of the others." 
+"Whoever sacrifices himself for the welfare of others is guaranteed Baba's special grace," I said. "I know you've all come here looking forward to the DMC speech. Nevertheless, I'm sure at least one of you will selflessly relinquish his rights for the sake of the others." 
 
 My words met only silence. No one moved. A few seconds passed, and 
 then one brother stepped forward. It was a young Margi from Ireland. 
@@ -3304,59 +3261,38 @@ By then twenty minutes of the meeting had passed and the air was electric.
 "Each avadhuta has a singularly extraordinary role to play," He said. 
 He paused and then asked, "What is the purpose of the avadhuta?" 
 
-We could not answer. We could not even speak. 
+"The purpose of an avadhuta... is ... to exist." 
 
-He gave His own reply, slowly: "The purpose of an avadhuta... is ... to 
-exist." 
-
-As all the nuances of this statement gradually sunk into my heart, my spine 
-shivered, then shook strongly. 
+As all the nuances of this statement gradually sunk into my heart, my spine shivered, then shook strongly. 
 
 
-51 DMC\s an abbreviation for Dharma Mahachakra. Mafia means “great," and "dharma-chakra" 
-means group meditation, so DM C literally means "the great group meditation." It consisted of a 
-series of formal darshans by Baba over a few days. On the last evening of the gathering, Baba 
-would end His discourse with a special mudra, His varabhaya mudra. " Vara" means boon, and 
-"abhaya" means fearlessness due to feeling completely protected. So "Varabhaya" can be said to 
-mean " blessing of fearlessness, or blessing with protection and without fear," and mudra means 
-"meaningful hand gesture." This was the greatest attraction to Dharma Mahachakras. Almost 
-everyone felt their consciousness expand dramatically as an immediate result of this mudra, and 
-M argis often became absorbed in the supreme state, losing awareness of the external world or 
-experiencing ecstatic bliss. 
+DMC is an abbreviation for Dharma Mahachakra. Maha means “great," and "dharma-chakra" means group meditation, so DMC literally means "the great group meditation." 
+
+It consisted of a series of formal darshans by Baba over a few days. On the last evening of the gathering, Baba would end His discourse with a special mudra, His varabhaya mudra. 
+
+"Vara" means boon, and "abhaya" means fearlessness due to feeling completely protected. So "Varabhaya" can be said to mean "blessing of fearlessness, or blessing with protection and without fear," and mudra means 
+"meaningful hand gesture." 
+
+This was the greatest attraction to Dharma Mahachakras. Almost everyone felt their consciousness expand dramatically as an immediate result of this mudra, and Margis often became absorbed in the supreme state, losing awareness of the external world or experiencing ecstatic bliss. 
 
 
 
 Eye of the Hurricane 
 
 
-190 
+Immediately before Baba gives the daily darshan speech, kaoshiki is demonstrated by a few sisters, and then both kaoshiki and tandava by a few brothers. 52 
 
+Because it was DMC night I felt something special in the air. Nevertheless, the announcement in the dark surpassed my expectation: "Tonight's tandava will be performed by 100 brothers!" 
 
-Immediately before Baba gives the daily darshan speech, kaoshiki is 
-demonstrated by a few sisters, and then both kaoshiki and tandava by a few 
-brothers. 52 
+Within a single shocking moment 100 torches burst in flames—the dancers leapt high in the eerie light, chanting BABA NAM KEVALAM at ear-splitting volume. 
 
-Because it was DMC night I felt something special in the air. Nevertheless, 
-the announcement in the dark surpassed my expectation: "Tonight's tandava 
-will be performed by one hundred brothers!" Within a single shocking moment 
-one hundred torches burst in flames—the dancers leapt high in the eerie light, 
-chanting BABA NAM KEVALAM at ear-splitting volume. 
+Guru's lips curled slightly in pleasure. His eyes burned, and His body shifted into a powerful pose. Soon after, in that mood, He gave the DMC speech. 
 
-Guru's lips curled slightly in pleasure. His eyes burned, and His body 
-shifted into a powerful pose. Soon after, in that mood, He gave the DMC 
-speech. 
+Late at night, standing outside Baba's house, I heard fragments of several Margis' discussions about the DMC. 
 
+"Never before was my mind so concentrated"... "I thought my head would break, it throbbed so strongly"... "Well, I felt nothing, but somehow was still inspired" ... "He was beautiful" ... "These things are too subtle to be analyzed" ... and so on. 
 
-Late at night, standing outside Baba's house, I heard fragments of several 
-Margis' discussions about the DMC. 
-
-"Never before was my mind so concentrated"... "I thought my head would 
-break, it throbbed so strongly"... "Well, I felt nothing, but somehow was still 
-inspired" ... "He was beautiful" ... "These things are too subtle to be analyzed" 
-... and so on. 
-
-Just before I went inside, Amita, a middle-aged lady from Norway, said, 
-"And none of you saw it?" 
+Just before I went inside, Amita, a middle-aged lady from Norway, said, "And none of you saw it?" 
 
 "What?" they said in chorus. 
 
@@ -3364,36 +3300,25 @@ Just before I went inside, Amita, a middle-aged lady from Norway, said,
 
 "Saw what?" 
 
-"The smoke coming out of His hands during the mudra. It completely filled 
-the hall." 
+"The smoke coming out of His hands during the mudra. It completely filled the hall." 
 
-52 Kaoshikii is a yogic dance which helps cure over thirty diseases, while generally exercising and 
-energizing the body, it is especially beneficial to women, but also valuable for men. Tandava, a 
-powerful jumping dance, stimulates the male hormones—it should not be done by women. It 
+Kaoshikii is a yogic dance which helps cure over thirty diseases, while generally exercising and 
+energizing the body, it is especially beneficial to women, but also valuable for men. 
+
+Tandava, a powerful jumping dance, stimulates the male hormones—it should not be done by women. It 
 was invented by Shiva 7000 years ago. Statues and paintings of Shiva often depict him in this 
 dancing pose. Tandava is the only yogic exercise which stimulates all the body's glands. It even 
 invigorates the brain. Shiva encouraged his warriors to perform tandava because it also helped 
 in rousing their courage. A skull or a snake is held in the left hand while dancing to symbolize 
 death. In the right hand a dagger or burning torch is held to symbolize life. The dance is a 
 struggle between life and death, between dynamicity and staticity. Of course, life is the victor. 
-Baba once said, " You should learn it in a disciplined way. Tandava represents life and vitality. 
-Tantra is a cult of life, it is not a cult of death. Y ou should be strong—physically, mentally and 
-spiritually. Lord Shiva says that all your expressions, all your manifestations must be based on 
-present tense. So Tandava is the starting phase of Tantra.” 
+Baba once said, " You should learn it in a disciplined way. Tandava represents life and vitality. Tantra is a cult of life, it is not a cult of death. You should be strong—physically, mentally and spiritually. Lord Shiva says that all your expressions, all your manifestations must be based on present tense. So Tandava is the starting phase of Tantra.” 
 
 
 
-191 
+### Sacrifice paid back 100 times 
 
-
-Travels with the Mystic Master 
-
-
-Sacrifice paid back 100 times 
-
-Today is our last day in Switzerland. Baba consented to hold a special 
-meeting with the brothers and sisters who had worked as security volunteers 
-throughout the week. 
+Today is our last day in Switzerland. Baba consented to hold a special meeting with the brothers and sisters who had worked as security volunteers throughout the week. 
 
 All stood at attention, forming a perfect line, facing Baba. I stood in the 
 front together with the Didi in charge of the sister volunteers. One brother came 
@@ -3405,7 +3330,9 @@ serving your Margi brothers and sisters. For this I humbly thank you."
 
 He spoke a bit more, then slowly walked over to the line. As he passed 
 each cadet, He looked into their faces. At the end of the line He came to 
-Sundara. Baba removed the wreath from His own neck, placed it on Sundara, 
+Sundara. 
+
+Baba removed the wreath from His own neck, placed it on Sundara, 
 and then patted the top of his head. At that moment the blood rushed to 
 Sundara's face, and he looked so high that I would not have been surprised if he 
 had collapsed in spiritual ecstasy. I think he remained standing only out of a 
@@ -3414,163 +3341,111 @@ sense of duty.
 Afterward Sundara said, "When Baba touched me, it was the highlight of 
 my life. He paid me back a hundred times over for missing DMC." 
 
-Revealing His knowledge 
 
-Geneva airport. Once we entered the doorway of the immigration hall, we 
-were at last free from the emotional mass of Margis. There were fourteen of us, 
-eleven from India, plus economist and best-selling author Ravi Batra, 
-Karunanandaji and myself. While waiting, Baba sat in a chair. I stood next to 
-Him. 
+### Revealing His knowledge 
 
-From nowhere, several Italian Margis appeared. Without formality, they 
-abruptly sat on the floor at Baba's feet, smiling with full gusto. 
+Geneva airport. Once we entered the doorway of the immigration hall, we were at last free from the emotional mass of Margis. 
 
-One of them named Vikranta stood up, saying, "Baba, can we sing You a 
-song?" 
+There were 14 of us, 11 from India, plus economist and best-selling author Ravi Batra, Karunanandaji and myself. While waiting, Baba sat in a chair. I stood next to Him. 
+
+From nowhere, several Italian Margis appeared. Without formality, they abruptly sat on the floor at Baba's feet, smiling with full gusto. 
+
+One of them named Vikranta stood up, saying, "Baba, can we sing You a song?" 
 
 "You are most welcome," He said. 
 
-Though the melody was sweet, I could hardly follow the meaning— which 
-I thought strange in light of my grasp of Italian. I understood only that it was a 
-love song. 
+Though the melody was sweet, I could hardly follow the meaning— which I thought strange in light of my grasp of Italian. I understood only that it was a love song. 
 
 Vikranta stood up again, "Baba, I want to explain the meaning in English. 
 The dialect is from Venice; it's different from normal Italian." 
 
 
+Ah, so that's why I couldn't understand it, I thought. As Vikranta gave the translation, he visibly savored every moment with Baba. 
 
-Eye of the Hurricane 
-
-
-192 
-
-
-Ah, so that's why I couldn't understand it, I thought. As Vikranta gave the 
-translation, he visibly savored every moment with Baba. 
-
-Baba's eyes turned misty. He said, "Your song was ambrosial. The 
-translation was likewise excellent. E XCellent. But would you mind if I were to 
-add a little something to your interpretation?" 
+Baba's eyes turned misty. He said, "Your song was ambrosial. The translation was likewise excellent. But would you mind if I were to add a little something to your interpretation?" 
 
 "Oh, please. Baba, yes, yes!" They were excited. 
 
-Then Baba translated the song again, completely, line by line, giving 
-detailed and charming explanations for the difference between His version and 
-that of Vikranta. 
+Then Baba translated the song again, completely, line by line, giving detailed and charming explanations for the difference between His version and that of Vikranta. 
 
-The plane was called. As we walked away, leaving behind the tearful-eyed 
-Venetian devotees, I thought of the difference between this experience and the 
-one a few days ago with Parimal. 
+The plane was called. As we walked away, leaving behind the tearful-eyed Venetian devotees, I thought of the difference between this experience and the one a few days ago with Parimal. 
 
-Berlin wall and the swastika 
 
-West Berlin. Our field walk today took us to the infamous Berlin wall 
-which divides Western democracy from Eastern communism. 
+### Berlin wall and the swastika 
 
-Baba stopped, looked at it, and said, "This wall symbolizes the brutal 
-suppression by Communism of human liberties. It is a kind of artificial 
-madness. In the near future you will all see this wall crumble piece by piece, 
-stone by stone. East and West Germany will be united as one." 
+West Berlin. Our field walk today took us to the infamous Berlin wall which divides Western democracy from Eastern communism. 
 
-Then He added, "In 1941, Germany came under the influence of a star 
-called Magha, a bad star. Magna causes disruption and breaks into pieces the 
-object on which its projection falls. Now its effect is finishing, and soon a good 
-time is coming." 
+Baba stopped, looked at it, and said, "This wall symbolizes the brutal suppression by Communism of human liberties. It is a kind of artificial madness. In the near future you will all see this wall crumble piece by piece, stone by stone. East and West Germany will be united as one." 
 
-After that He explained the swastika. He said the literal meaning of 
-swastika is "a condition of goodness which will continue to exist." Thus it 
-means victory. He drew our swastika, which He said is positive. Then He drew 
-the reverse swastika, and said it is negative. He warned us never to use the 
-negative swastika because it brings complete annihilation. The Nazis mixed 
+Then He added, "**In 1941, Germany came under the influence of a star called Magha, a bad star. Magna causes disruption and breaks into pieces the object on which its projection falls. Now its effect is finishing, and soon a good time is coming**." 
+
+After that He explained the swastika. He said the literal meaning of swastika is "a condition of goodness which will continue to exist." Thus it means victory. 
+
+He drew our swastika, which He said is positive. Then He drew the reverse swastika, and said it is negative. He warned us never to use the negative swastika because it brings complete annihilation. The Nazis mixed 
 these two swastikas, often using the negative one. 
 
-Conscious sleep 
 
-Timmern, West Germany. About 200 Margis are collected for Baba's three- 
-day program in Timmern. 5 ’ The vibration has always been high here but Baba's 
-presence has raised it another level altogether. 
+### Conscious sleep 
 
-53 Timmern is a small village near Braunschweig where we have our local full-timer training 
-center. 
+Timmern, West Germany. About 200 Margis are collected for Baba's 3-day program in Timmern, a small village near Braunschweig where we have our local full-timer training center. 
 
+The vibration has always been high here but Baba's presence has raised it another level altogether. 
 
-
-193 
-
-
-Travels with the Mystic Master 
-
-
-Several Dadas and Margis were enjoying the talk with Baba in His room— 
-until a high pitched sound from the hallway disturbed us. 
-
-What in G od's name is that ? I wondered. 
-
-It grew louder and clearer. "Baba! Baba! Baba!" 
+Several Dadas and Margis were enjoying the talk with Baba in His room—until a high pitched scream from the hallway disturbed us: "Baba! Baba! Baba!"
 
 Bodhishvar from Switzerland stood up. "Baba, that's my wife!" 
 
-Shaking His head in the Indian style of agreeing, Baba said, "Yes, she has a 
-small problem. But there's no need to worry. Go out," he told him, "and softly 
-uttering your guru mantra, hold the thumb of your right hand against her ajina 
-chakra (on the forehead), rotating it slightly back and forth for a few seconds." 
+Baba said:
 
-After Bodhishvar left the room. Baba said to us, "The explanation for her 
-behavior is simple. In her past life she committed an action which terribly 
-disturbed her mind. Now she is desperate for any kind of contact she can have 
-with me. Though Bodhishvar will succeed in assuaging her this time, her 
-intense yearning will express itself again when given the opportunity." 
+{{< q a="Baba" >}}
+Yes, she has a small problem. But there's no need to worry. Go out and softly uttering your guru mantra, hold the thumb of your right hand against her ajina chakra (on the forehead), rotating it slightly back and forth for a few seconds.
+{{< /q >}}
+
+
+After Bodhishvar left the room, Baba said to us:
+
+{{< q a="Baba" >}}
+In her past life, she committed an action which terribly disturbed her mind. Now she is desperate for any kind of contact she can have with me. Though Bodhishvar will succeed in assuaging her this time, her intense yearning will express itself again when given the opportunity."
+{{< /q >}}
+
 
 In that moment the screaming ceased. 
 
-Afterward, I heard that Anchala not only became immediately quiet when 
-Bodhishvar placed his thumb on her forehead, she also closed her eyes and 
-entered a meditative state. 
+Afterward, I heard that Anchala not only became immediately quiet when Bodhishvar placed his thumb on her forehead, she also closed her eyes and entered a meditative state. 
 
 In the night, after all were sleeping, Ramanandaji called me and another 
 Dada to Baba's room. Just as He was falling asleep we started to massage Him. 
 We were silent, deeply enjoying an experience which transcends description. 
 After about two hours the other Dada left me alone with Baba. 
 
-At one point, when Baba had been snoring continuously (it was more of a 
-soft purr than a snore). He suddenly broke His snore, turned toward me and 
-said, "What time is it?" 
+At one point, when Baba had been snoring continuously (it was more of a soft purr than a snore). 
+
+He suddenly broke His snore, turned toward me and said, "What time is it?" 
 
 "3:30, Baba." 
 
-"Accha," He said 54 , and immediately started snoring again. 
+"Accha," He said, and immediately started snoring again. 
 
 It seems, I thought, that only Baba's body is sleeping, while His mind is 
 fully conscious. 
 
 I continued the massage, thinking about this. About twenty minutes later, 
-just as I was thinking. Is His mind really a wake? I wish H e 
+just as I was thinking. Is His mind really a wake? I wish He
 
-54 Accha means “ okay' 1 and is common to many of the Indian languages. 
-
-
-
-194 
-
-
-Travels with the Myotic Master 
-
+<!-- 54 Accha means “ okay' 1 and is common to many of the Indian languages.  -->
 
 would give me some confirmation..., He again suddenly broke His snore, turned 
 toward me, and said. "Who's there?" 
 
-I smiled, saying, "Dharmavedananda, Baba." "Accha," He said. His eyes 
-twinkled at me as He chuckled softly. Within a moment He returned to His 
-snoring. A ccha, I thought. 
+I smiled, saying, "Dharmavedananda, Baba." "Accha," He said. 
 
-[Author's note: Years later. Baba's adopted son, Kinshukji, commented to 
-me: "Though Baba lies down and closes His eyes, He, of course, never really 
-sleeps. Rather, whenever He appears to sleep for an extended period of time, 
-we all become cautious. We know that He's actually making plans. Usually, 
-immediately after that supposed sleep. He introduces new, complex working 
-schemes for us."J 
+His eyes twinkled at me as He chuckled softly. Within a moment He returned to His 
+snoring. Accha, I thought. 
 
-Devotees get their way 
+[Author's note: Years later. Baba's adopted son, Kinshukji, commented to me: "Though Baba lies down and closes His eyes, He, of course, never really sleeps. Rather, whenever He appears to sleep for an extended period of time, we all become cautious. We know that He's actually making plans. Usually, immediately after that supposed sleep. He introduces new, complex working schemes for us."] 
+
+
+### Devotees get their way 
 
 Everyone was talking about it: "We've got to convince Baba to hold DMC." 
 "If our devotion is strong enough. He'll have to give DMC." "Timmern is the 
@@ -3600,21 +3475,11 @@ During the field walk. Baba's mood was different than I'd ever seen. He was
 normally very loquacious during his walks. Tonight, for the first time. He 
 walked in silence. 
 
-
-
-Eye of the Hurricane 
-
-
-195 
-
-
 Our footsteps echoed in the air, the wind providing the only audible 
 background to our thoughts. Without the distraction of speech, we sank deep 
 into a spiritual mood. 
 
-Halfway through the walk, Baba pointed at some distant tall trees, colorless 
-in the faint night light, waving like feather-fans in the wind. "See the Cosmic 
-Wave," He said slowly. It was His one and only sentence. 
+Halfway through the walk, Baba pointed at some distant tall trees, colorless in the faint night light, waving like feather-fans in the wind. "See the Cosmic Wave," He said slowly. It was His one and only sentence. 
 
 It was a unique field walk, which in a way I enjoyed more than any other. 
 
@@ -3652,15 +3517,7 @@ Him up to a certain point. 56
 55 Guru Puja is a mantra sung together with gestures in which the devotee offers his/her 
 ego attachments to the guru. 
 
-56 Afterward I came to know that the last, and perhaps only time that Baba had person¬ 
-ally held a DM S was in 1962 in Begusarai, Bihar, India. So it is clear that Baba consid- 
-
-
-
-196 
-
-
-Travels with the Mystic Maste 
+56 Afterward I came to know that the last, and perhaps only time that Baba had personally held a DMS was in 1962 in Begusarai, Bihar, India. So it is clear that Baba considered this Timmern program something special. While Baba was in jail, a few avadhutas had the duty to conduct DMS. Since Baba's passing, DMSs have been conducted only by the President. 
 
 
 When I went upstairs, I found all the Margis in an exuberant state, singing 
@@ -3676,69 +3533,39 @@ The sixth point
 
 Baba's darshan topic tonight was Shiva's Seven Secrets of Success. 
 
-At its conclusion, I took Baba downstairs, saw Him into His room, and then 
-entered Ramanandaji's room, just next to Baba's. In a few moments I was 
-joined by three or four other Dadas. One sister brought in a huge bowl of round 
-milk-sweets, a small fraction of what had been prepared in honor of Baba's last 
-darshan in Timmem. I sat alone, thinking of Baba, and eating slowly. 
+At its conclusion, I took Baba downstairs, saw Him into His room, and then entered Ramanandaji's room, just next to Baba's. In a few moments I was joined by three or four other Dadas. One sister brought in a huge bowl of round milk-sweets, a small fraction of what had been prepared in honor of Baba's last darshan in Timmem. I sat alone, thinking of Baba, and eating slowly. 
 
-After eating two of these extremely tasty balls, I was lying on my side, 
-looking at the bowl, contemplating whether or not to eat a third one. In that 
-very moment, I saw the handle of the door turn and in walked Baba! He was 
-dressed in the simple white undershirt and green lungi that He wears only in 
-the privacy of His own room. He walked over to me. I sat up, smiling. With a 
-sly grin on His face, He said to me, "And remember ... the sixth point is a very 
-difficult point to follow." Without giving me a chance to reply, He turned and 
+After eating two of these extremely tasty balls, I was lying on my side, looking at the bowl, contemplating whether or not to eat a third one. In that very moment, I saw the handle of the door turn and in walked Baba! He was dressed in the simple white undershirt and green lungi that He wears only in 
+the privacy of His own room.
+
+He walked over to me. I sat up, smiling. With a sly grin on His face, He said to me, "And remember ... the sixth point is a very difficult point to follow." Without giving me a chance to reply, He turned and 
 left the room as suddenly as He had entered. 
 
-I lay on the floor, laughing—Shiva's sixth secret of success was control 
-over food. 
+I lay on the floor, laughing—Shiva's sixth secret of success was control over food. 
 
-Freedom's limit 
+### Freedom's limit 
 
-This morning, just before our departure from Timmem, Baba called a 
-meeting of Dadas and Didis. After beautifully reciting a few poems of India's 
-greatest poet, Rabindranath Tagore, He asked each of us to express something 
-of how we were feeling at the moment. One Dada mentioned how sad everyone 
+This morning, just before our departure from Timmem, Baba called a meeting of Dadas and Didis. After beautifully reciting a few poems of India's greatest poet, Rabindranath Tagore, He asked each of us to express something of how we were feeling at the moment. One Dada mentioned how sad everyone 
 felt having to leave Timmem. Baba replied by telling a story: 
 
 
-ered this Timmern program something special. While Baba was in jail, a few avadhutashad the 
-duty to conduct DM S. Si nee Baba's passing, DM Ss have been conducted only by the President. 
+"A great sage Kanva lived alone in a forest. He loved to help people. So he often took it upon himself to go to the town, find sick and helpless people, and bring them back to his hermitage to care for them until they recovered. He was well known for this generosity. One day a mother came to Kanva and left her baby girl. Shakuntala, under the saint's benevolent care. Kanva raised Shakuntala until she was old enough to be married. At this time King Dushyanta arrived, and claimed Shakuntala as his queen. As she was preparing to leave, Kanva found himself gripped with feelings of despair. He thought, 'I am a renunciate and a yogi. I should be free from the emotions of affection.'"
+
+Baba asked, "Why was he having these feelings? Although he was a sage, he was living in the world, and thus bound by the relative factor. Now all of you boys and girls are doing meditation to be free of bondages. Being here in the world, however, it is impossible to deny bondage." 
+
+<!-- Baba's way of speaking was so gentle that everyone wept.  -->
 
 
-
-Lye of the Hurricane 
-
-
-197 
-
-
-"A great sage Kanva lived alone in a forest. He loved to help people. So he 
-often took it upon himself to go to the town, find sick and helpless people, and 
-bring them back to his hermitage to care for them until they recovered. He was 
-well known for this generosity. One day a mother came to Kanva and left her 
-baby girl. Shakuntala, under the saint's benevolent care. Kanva raised 
-Shakuntala until she was old enough to be married. At this time King 
-Dushyanta arrived, and claimed Shakuntala as his queen. As she was preparing 
-to leave, Kanva found himself gripped with feelings of despair. He thought, 'I 
-am a renunciate and a yogi. I should be free from the emotions of affection.'" 
-
-Baba asked, "Why was he having these feelings? Although he was a sage, 
-he was living in the world, and thus bound by the relative factor. Now all of 
-you boys and girls are doing meditation to be free of bondages. Being here in 
-the world, however, it is impossible to deny bondage." 
-
-Baba's way of speaking was so gentle that everyone wept. A deer devotee 
+### A deer devotee 
 
 Hannover, West Germany. While driving today, an odd event occurred. I 
-was in the car just behind Baba's. As the road passed through a field of chest- 
-high grass, I saw a deer suddenly emerge next to Baba's car. For about 200 
-meters it ran alongside of the car. To do this it had to run at a great speed, while 
+was in the car just behind Baba's. As the road passed through a field of chest-high grass, I saw a deer suddenly emerge next to Baba's car. 
+
+For about 200 meters it ran alongside of the car. To do this it had to run at a great speed, while 
 at the same time jumping high in the air with each step in order to get through 
-the tall grass. At the end of that 200 meters, the car turned and the deer 
-followed, continuing to run with Baba for another 150 or 200 meters. Then the 
-car accelerated greatly, and the deer fell back, unable to keep up. 
+the tall grass. 
+
+At the end of that 200 meters, the car turned and the deer followed, continuing to run with Baba for another 150 or 200 meters. Then the car accelerated greatly, and the deer fell back, unable to keep up. 
 
 Baba's nephew, Paltu, was in that car. Afterward I said to him, 
 
@@ -3753,26 +3580,16 @@ had been discussing German architecture, when, without warning, He began to
 talk about animals. I could not understand why He had changed the topic. And 
 then He was talking specifically of deers. The speech on deers must have been 
 going on for half-a-minute when that deer appeared. All of us in the car stared 
-at it, except Baba, who 
-
-
-
-Eye of the Hurricane 
-
-
-198 
-
-
-went on speaking without turning His face in the animal's direction. I wanted to 
+at it, except Baba, who went on speaking without turning His face in the animal's direction. I wanted to 
 ask Him about it, but He gave me no scope to speak." 
 
 Will we ever know the cause of this unquestionably mystical event? 
 
 In the light of today's experience and also Baba's story about Kanva and 
 Shakuntala I am reminded of an old mythological tale. A saint was alone in the 
-forest performing austere spiritual practices. He had detached himself from all 
-worldly affairs, and was approaching his entry through the gates of liberation 
-when he discovered an orphaned baby doe. Compassion compelled him to 
+forest performing austere spiritual practices. 
+
+He had detached himself from all worldly affairs, and was approaching his entry through the gates of liberation when he discovered an orphaned baby doe. Compassion compelled him to 
 rescue and then care for the creature. As months turned into years, the doe grew 
 into a deer, and without recognizing the change in his mind, the saint gradually 
 developed a deep attachment for the animal. One day the deer accidentally 
@@ -3787,36 +3604,23 @@ Revolutionary change
 
 Yesterday, after leaving the cars, we approached a road having no sidewalk. 
 
-I said to Baba, "In Germany, Baba, since the cars drive on the right side of 
-the road, it is better we walk on the left, into the traffic, so we can see any 
-danger before it comes." 
+I said to Baba, "In Germany, Baba, since the cars drive on the right side of the road, it is better we walk on the left, into the traffic, so we can see any danger before it comes." 
 
 Like a child. Baba complied. 
 
 This morning a similar situation arose. Again I started to explain where we 
 should walk. 
 
-Baba interrupted me, saying, "I am an excellent student. If I hear anything, 
-even once. I remember it forever. I clearly remember each and every perception 
-since the moment of my birth. So, thank you—no need to repeat yesterday's 
-lesson." 
+Baba interrupted me, saying, "I am an excellent student. If I hear anything, even once. I remember it forever. I clearly remember each and every perception since the moment of my birth. So, thank you—no need to repeat yesterday's lesson." 
 
-This afternoon Baba was speaking about society. "As long as there is 
-animality in man. there will be war. War is the blackest spot on human 
-character. Fight is the essence of life, but war is something brutal.... You may 
+This afternoon Baba was speaking about society. "As long as there is animality in man. there will be war. War is the blackest spot on human character. Fight is the essence of life, but war is something brutal.... You may 
 expect some change in collective psychology from after the year 1980, and a 
 revolutionary change by the year 2000." 
 
 
+### Heaven in hell 
 
-Travels with the Mystic Master 
-Heaven in hell 
-
-
-Rotterdam, Netherlands. A light rain was falling this evening as our 
-entourage approached the apartment building which houses our three-story 
-Rotterdam yoga center. While still standing on the street, momentarily waiting 
-for the local Margi to come forward to unlock the door. Baba muttered 
+Rotterdam, Netherlands. A light rain was falling this evening as our entourage approached the apartment building which houses our three-story Rotterdam yoga center. While still standing on the street, momentarily waiting for the local Margi to come forward to unlock the door. Baba muttered 
 something which undoubtedly was meant only for my ears. 
 
 He said softly, almost unnoticeably, "What hell is this?" It was not the sort of 
@@ -7060,12 +6864,7 @@ days he will recover all of his previous strength." 72
 
 Even Lord Shiva Never Did It 
 
-Today Baba mentioned that dharma samiksha is a one-time affair. D harma 
-samiksha on such a grand scale was never done before by any spiritual master, 
-and Baba will not do it again. He is showing a little bit of His meticulous 
-guardianship and a little bit of His intimate knowledge of each and every 
-Margi, personally and specifically, one by one. He said, "7000 years ago. Lord 
-Shiva thought to conduct such a program, but never did it." 
+Today Baba mentioned that dharma samiksha is a one-time affair. Dharma samiksha on such a grand scale was never done before by any spiritual master, and Baba will not do it again. He is showing a little bit of His meticulous guardianship and a little bit of His intimate knowledge of each and every Margi, personally and specifically, one by one. He said, "7000 years ago. Lord Shiva thought to conduct such a program, but never did it." 
 
 
 72 From that moment, Parameshvaranandaji started feeling much better. Ten days later, doctors 
@@ -7105,4 +6904,3 @@ Do you remember?"
 "That old man was very angry at you. and he finally died still feeling angry at you. He was reborn as your son. So your son hates you. Otherwise his behavior is gentle toward everyone else. Now what shall you do?" 
 
 "I don't know. Baba." 
-

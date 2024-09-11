@@ -2,7 +2,7 @@
 title: "What is Pranayama?"
 weight: 6
 image: "/covers/discourses.jpg"
-description: "How does the development of civilization take place? Civilization has an intimate relation with science. They progress together"
+description: "Here are the rules before teaching Sakumbhaka Pranayama"
 icon: "/icons/sarkar.png"
 writer:
   name: PR Sarkar

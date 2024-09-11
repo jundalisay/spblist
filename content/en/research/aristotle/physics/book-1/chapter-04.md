@@ -11,7 +11,7 @@ writer:
 ---
 
 
-The physicists on the other hand have two modes of explanation.
+The physicists on the other hand have 2 modes of explanation.
 
 1. One makes the underlying body one either one of the three or something else
 which is denser than fire and rarer than air.
@@ -25,20 +25,14 @@ underlies as matter and the contraries as differentiae, i.e. forms).
 by segregation, for example Anaximander and also all those who assert that ‘what is’ is
 one and many, like Empedocles and Anaxagoras.
 
-They too produce other things from their mixture by segregation. These differ, however, from each other in that the former
-imagines a cycle of such changes, the latter a single series. Anaxagoras again made both
-his ‘homceomerous’ substances and his contraries infinite in multitude, whereas
+They too produce other things from their mixture by segregation. These differ, however, from each other in that the former imagines a cycle of such changes, the latter a single series. Anaxagoras again made both his ‘homceomerous’ substances and his contraries infinite in multitude, whereas
 Empedocles posits only the socalled elements.
 
-The theory of Anaxagoras that the principles are infinite in multitude was probably due
-to his acceptance of the common opinion of the physicists that nothing comes into being
-from not-being. For this is the reason why they use the phrase ‘all things were together’
-and the coming into being of such and such a kind of thing is reduced to change of
-quality, while some spoke of combination and separation.
+The theory of Anaxagoras that the principles are infinite in multitude was probably due to his acceptance of the common opinion of the physicists that nothing comes into being from not-being. 
 
-Moreover, the fact that the
-contraries proceed from each other led them to the conclusion. The one, they reasoned,
-must have already existed in the other; for since everything that comes into being must
+For this is the reason why they use the phrase ‘all things were together’ and the coming into being of such and such a kind of thing is reduced to change of quality, while some spoke of combination and separation.
+
+Moreover, the fact that the contraries proceed from each other led them to the conclusion. The one, they reasoned, must have already existed in the other; for since everything that comes into being must
 arise either from what is or from what is not, and it is impossible for it to arise from
 what is not (on this point all the physicists agree), they thought that the truth of the
 alternative necessarily followed, namely that things come into being out of existent
