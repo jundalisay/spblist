@@ -21,11 +21,16 @@ There is little probability that republican governments will ever be introduced 
 - Most part of its lands are hills and deserts and is only fit for pasture
 - They are generally dry and do not have any big rivers.
 
-The opposite of this are those countries where republican governments have been established, particularly in Greece. Two-thirds of Attica are surrounded by sea and the other side is surrounded by high mountains. Because of this, they can communicate with neighbouring countries by sea. At the same time, they are secured from their neighbours.
+The opposite of this are those countries where republican governments have been established, particularly in Greece. 
+
+Two-thirds of Attica are surrounded by sea and the other side is surrounded by high mountains. 
+
+Because of this, they can communicate with neighbouring countries by sea. At the same time, they are secured from their neighbours.
 
 Most of the European countries have most of the same advantages. They are divided by rivers and branches of the sea, making them naturally fit for cultivation and other arts.
 
 We shall now see how favourable this is to the reception of a republican government.
+
 We may suppose that the progress of government in early Attica to have been the same with that in Mongolia.
 
 In reality, it was in the same situation during the Trojan war. 
@@ -86,6 +91,8 @@ At Rome, it was long before people had suffrage.
 
 When a man can spend on domestic luxury what formerly supported 100 retainers, his power and influence naturally decrease. Besides, the great usually had every trade done by their own slaves.  Therefore, the tailors and shoemakers were no longer dependent on them. They would not give them their votes.
 
-The popular leaders then tried to get laws passed by which they might be allowed to be elected magistrates. It was long before the generality even of the plebeians would consent to this because they thought it disagreeable to have their equals so far above them.
+The popular leaders then tried to get laws passed by which they might be allowed to be elected magistrates. 
+
+It was long before the generality even of the plebeians would consent to this because they thought it disagreeable to have their equals so far above them.
 
 In time, however, they got it enacted that there should be a consul chosen out of an equal number of patricians and plebeians.

@@ -21,41 +21,50 @@ What is its nature?
 <!-- The following considerations would
 make one suspect that it either does not exist at all or barely, and in an obscure way. -->
 
-One part of it has been and is not, while the other is going to be and is not yet. Yet timeboth infinite time and any time you like to take-is made up of these. One would naturally
-suppose that what is made up of things which do not exist could have no share in
+One part of it has been and is not. The other is going to be and is not yet.
+
+Yet time both infinite time and any time you like to take-is made up of these.
+
+One would naturally suppose that what is made up of things which do not exist could have no share in
 reality.
 
-Further, if a divisible thing is to exist, it is necessary that, when it exists, all or some of
-its parts must exist. But of time some parts have been, while others have to be, and no
-part of it is though it is divisible. For what is ‘now’ is not a part: a part is a measure of
-the whole, which must be made up of parts. Time, on the other hand, is not held to be
-made up of ‘nows’.
+If a divisible thing is to exist, it is necessary that, when it exists, all or some of its parts must exist. 
 
-Again, the ‘now’ which seems to bound the past and the future-does it always remain
-one and the same or is it always other and other? It is hard to say.
-(1) If it is always different and different, and if none of the parts in time which are other
-and other are simultaneous (unless the one contains and the other is contained, as the
-shorter time is by the longer), and if the ‘now’ which is not, but formerly was, must have
-ceased-to-be at some time, the ‘nows’ too cannot be simultaneous with one another, but
-the prior ‘now’ must always have ceased-tobe. But the prior ‘now’ cannot have ceasedto-be in itself (since it then existed); yet it cannot have ceased-to-be in another ‘now’.
+But of time some parts have been, while others have to be, and no part of it is though it is divisible. 
+
+For what is ‘now’ is not a part: a part is a measure of the whole, which must be made up of parts. 
+
+Time, on the other hand, is not held to be made up of ‘nows’.
+
+The ‘now’ which seems to bound the past and the future-does it always remain one and the same or is it always other and other? 
+
+It is hard to say.
+
+1. If it is always different and different, and if none of the parts in time which are other and other are simultaneous (unless the one contains and the other is contained, as the shorter time is by the longer), and if the ‘now’ which is not, but formerly was, must have ceased-to-be at some time, the ‘nows’ too cannot be simultaneous with one another, but the prior ‘now’ must always have ceased-tobe. 
+
+But the prior ‘now’ cannot have ceasedto-be in itself (since it then existed); yet it cannot have ceased-to-be in another ‘now’.
 
 For we may lay it down that one ‘now’ cannot be next to another, any more than point to
 point. If then it did not cease-to-be in the next ‘now’ but in another, it would exist
 simultaneously with the innumerable ‘nows’ between the two-which is impossible.
-Yes, but (2) neither is it possible for the ‘now’ to remain always the same. No
-determinate divisible thing has a single termination, whether it is continuously extended
+
+Yes, but
+
+2. Neither is it possible for the ‘now’ to remain always the same. 
+
+No determinate divisible thing has a single termination, whether it is continuously extended
 in one or in more than one dimension: but the ‘now’ is a termination, and it is possible
-to cut off a determinate time. Further, if coincidence in time (i.e. being neither prior nor
-posterior) means to be ‘in one and the same “now”’, then, if both what is before and
-what is after are in this same ‘now’, things which happened ten thousand years ago
-would be simultaneous with what has happened today, and nothing would be before or
-after anything else.
+to cut off a determinate time.
+
+Further, if coincidence in time (i.e. being neither prior nor posterior) means to be ‘in one and the same “now”’, then, if both what is before and what is after are in this same ‘now’, things which happened ten thousand years ago would be simultaneous with what has happened today, and nothing would be before or after anything else.
 
 This may serve as a statement of the difficulties about the attributes of time.
 As to what time is or what is its nature, the traditional accounts give us as little light as
 the preliminary problems which we have worked through.
 
-Some assert that it is (1) the movement of the whole, others that it is (2) the sphere itself.
+Some assert that it is the movement of the whole.
+
+Others that it is (2) the sphere itself.
 
 (1) Yet part, too, of the revolution is a time, but it certainly is not a revolution: for what
 is taken is part of a revolution, not a revolution. Besides, if there were more heavens

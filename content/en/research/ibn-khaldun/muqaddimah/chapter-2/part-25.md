@@ -36,7 +36,7 @@ When labor is not appreciated and is done for nothing, the hope for profit vanis
 
 Furthermore, the Arabs are not concerned with laws. They are not concerned to deter people from misdeeds or to protect some against the others. 
 
-They care only for the property that they can take away through looting and imposts. When they have obtained that, they have no interest in anything further, such as taking care of (people), looking after their interests, or forcing them not to commit misdeeds. 
+They care only for the property that they can take away through looting and imposts. When they have obtained that, they have no interest in anything further, such as taking care of (people), looking after their interests, or forcing them not to commit misdeeds.
 
 They often level fines on property because they want to get some advantage, some tax, or profit out of it. This is their custom.
 

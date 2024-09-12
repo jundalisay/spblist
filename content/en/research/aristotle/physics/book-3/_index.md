@@ -1,9 +1,9 @@
 ---
-# heading: 
-title: "Book 1"
+heading: Book 3
+title: "The Principles of Motion"
 date: 2024-09-08
-weight: 2
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
+weight: 6
+description: "NATURE has been defined as a ‘principle of motion and change’"
 image: "/covers/physics.png"
 writer:
   name: Aristotle 

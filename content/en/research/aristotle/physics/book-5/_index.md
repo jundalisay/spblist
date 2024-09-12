@@ -1,11 +1,13 @@
 ---
-# heading: 
-title: "Book 1"
+heading: Book 5
+title: "Properties of Motion"
 date: 2024-09-08
-weight: 2
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
+weight: 12
+description: "EVERYTHING changes in 3 senses"
 image: "/covers/physics.png"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 ---
+
+

@@ -1,9 +1,9 @@
 ---
-# heading: 
-title: "Book 1"
+heading: Book 2
+title: "The Principles of an Existing Thing"
 date: 2024-09-08
-weight: 2
-description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
+weight: 4
+description: "Of things that exist, some exist by nature, some from other causes."
 image: "/covers/physics.png"
 writer:
   name: Aristotle 
