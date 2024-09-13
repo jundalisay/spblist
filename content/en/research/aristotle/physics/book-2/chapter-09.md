@@ -15,8 +15,7 @@ What is ‘of necessity’?
 
 Is necessity ‘hypothetical’ or ‘simple’?
 
-The current view places what is of necessity in the process of production, just as if one were to suppose that the wall of a house necessarily comes to be because what is heavy is naturally carried downwards and what is light to the top, wherefore the stones and foundations take the lowest place, with earth above because it
-is lighter, and wood at the top of all as being the lightest.
+The current view places what is of necessity in the process of production, just as if one were to suppose that the wall of a house necessarily comes to be because what is heavy is naturally carried downwards and what is light to the top, wherefore the stones and foundations take the lowest place, with earth above because it is lighter, and wood at the top of all as being the lightest.
 
 Whereas, though the wall does not come to be without these, it is not due to these, except as its material cause: it comes to be for the sake of sheltering and guarding certain things. 
 

@@ -28,15 +28,52 @@ With Spinoza, the mode is likewise the third after substance and attribute; he e
 
 § 703
 
-The observation here made extends generally to those systems of pantheism which have been partially developed by thought. The first is being, the one, substance, the infinite, essence; in contrast to this abstraction the second, namely, all determinateness in general, what is only finite, accidental, perishable, non-essential, etc. can equally abstractly be grouped together; and this is what usually happens as the next step in quite formal thinking. But the connection of this second with the first is so evident that one cannot avoid grasping it as also in a unity with the latter; thus with Spinoza, the attribute is the whole substance, but is apprehended by the intellect which is itself a limitation or mode; but in this way the mode, the non-substantial generally, which can only be grasped through an other, constitutes the other extreme to substance, the third generally. Indian pantheism, too, in its monstrous fantasies has in an abstract way received this development which runs like a moderating thread through its extravagances; a point of some interest in the development is that Brahma, the one of abstract thought, progresses through the shape of Vishnu, particularly in the form of Krishna, to a third form, that of Siva. The determination of this third is the mode, alteration, coming-to-be and ceasing-to-be-the field of externality in general. This Indian trinity has misled to a comparison with the Christian and it is true that in them a common element of the nature of the Notion can be recognised; but it is essential to gain a more precise consciousness of the difference between them; for not only is this difference infinite, but it is the true, the genuine infinite which constitutes it. This third principle is, according to its determination, the dispersal of the unity of substance into its opposite, not the return of the unity to itself — not spirit but rather the non-spiritual. In the true trinity there is not only unity but union, the conclusion of the syllogism is a unity possessing content and actuality, a unity which in its wholly concrete determination is spirit. This principle of the mode and of alteration does not, it is true, altogether exclude the unity; in Spinozism, for example, it is precisely the mode as such which is untrue; substance alone is true and to it everything must be brought back. But this is only to submerge all content in the void, in a merely formal unity lacking all content. Thus Siva, too, is again the great whole, not distinct from Brahma, but Brahma himself. In other words, the difference and the determinateness only vanish again but are not preserved, are not sublated, and the unity does not become a concrete unity, neither is the disunity reconciled. The supreme goal for man placed in the sphere of coming-to-be and ceasing-to-be, of modality generally, is submergence in unconsciousness, unity with Brahma, annihilation; the Buddhist Nirvana, Nibbana etc., is the same.
+The observation here made extends generally to those systems of pantheism which have been partially developed by thought. 
+
+The first is being, the one, substance, the infinite, essence; in contrast to this abstraction the second, namely, all determinateness in general, what is only finite, accidental, perishable, non-essential, etc. can equally abstractly be grouped together.
+
+This is what usually happens as the next step in quite formal thinking. 
+
+But the connection of this second with the first is so evident that one cannot avoid grasping it as also in a unity with the latter.
+
+Thus with Spinoza, the attribute is the whole substance. But it is apprehended by the intellect which is itself a limitation or mode. But in this way the mode, the non-substantial generally, which can only be grasped through an other, constitutes the other extreme to substance, the third generally.
+
+Indian pantheism, too, has its monstrous fantasies. It has in an abstract way received this development which runs like a moderating thread through its extravagances.
+
+Brahma, as an abstract thought, progresses through the shape of Vishnu, particularly in the form of Krishna, to a third form, that of Shiva. 
+
+The determination of this third is the mode, alteration, coming-to-be and ceasing-to-be-the field of externality in general. 
+
+This Indian trinity has misled to a comparison with the Christian. It is true that in them a common element of the nature of the Notion can be recognised.
+
+But it is essential to gain a more precise consciousness of the difference between them. This difference is infinite. It is the true, genuine infinite which constitutes it.
+
+This third principle is, according to its determination, the dispersal of the unity of substance into its opposite, not the return of the unity to itself — not spirit but rather the non-spiritual. 
+
+In the true trinity, there is not only unity but union, the conclusion of the syllogism is a unity possessing content and actuality, a unity which in its wholly concrete determination is spirit.
+
+This principle of the mode and of alteration does not, it is true, altogether exclude the unity.
+
+In Spinozism, for example, it is precisely the mode as such which is untrue; substance alone is true and to it everything must be brought back. 
+
+But this is only to submerge all content in the void, in a merely formal unity lacking all content. 
+
+Thus Shiva, too, is again the great whole, not distinct from Brahma, but Brahma himself. 
+
+In other words, the difference and the determinateness only vanish again but are not preserved, are not sublated, and the unity does not become a concrete unity, neither is the disunity reconciled. 
+
+The supreme goal for man placed in the sphere of coming-to-be and ceasing-to-be, of modality generally, is submergence in unconsciousness, unity with Brahma, annihilation. The Buddhist Nirvana is the same.
 
 § 704
 
-Now although the mode as such is abstract externality, indifference to qualitative and quantitative determinations, and in essence the external and unessential elements are not supposed to count, it is still, on the other hand, admitted in many cases that everything depends on the kind and manner of the mode; such an admission means that the mode itself is declared to belong essentially to the substantial nature of a thing, a very indefinite connection but one which at least implies that this external element is not so abstractly an externality.
+Although the mode as such is abstract externality, indifference to qualitative and quantitative determinations, and in essence the external and unessential elements are not supposed to count, it is still, on the other hand, admitted in many cases that everything depends on the kind and manner of the mode; such an admission means that the mode itself is declared to belong essentially to the substantial nature of a thing, a very indefinite connection but one which at least implies that this external element is not so abstractly an externality.
+
 
 § 705
 
-Here the mode has the specific meaning of measure. Spinoza's mode, like the Indian principle of change, is the measureless. The Greek awareness, itself still indeterminate, that everything has a measure — even Parmenides, after abstract being, introduced necessity as the ancient limit by which all things are bounded — is the beginning of a much higher conception than that contained in substance and in the difference of the mode from substance.
+Here the mode has the specific meaning of measure. Spinoza's mode, like the Indian principle of change, is the measureless. 
+
+The Greek awareness, itself still indeterminate, that everything has a measure — even Parmenides, after abstract being, introduced necessity as the ancient limit by which all things are bounded — is the beginning of a much higher conception than that contained in substance and in the difference of the mode from substance.
 
 § 706
 

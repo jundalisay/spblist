@@ -81,17 +81,35 @@ But, in the Oriental character the subject does not count as thus knowing himsel
 
 The subject is not there for himself and he has in his own self-consciousness no value for himself. 
 
-The Oriental subject can, it is true, be great, noble, sublime; still what characterizes him chiefly is that as an individual he is without rights and that what he makes of himself is determined either by nature or by arbitrariness. 
+The Oriental subject can be great, noble, sublime. But he is without rights. What he creates himself is determined either by nature or by arbitrariness.
 
-Nobility, sublimity, the utmost magnanimity of attitude, are .among the Orientals arbitrariness of character and by the same token contingent. Missing are such things as rights and moral standards, which consist in objective and positive determinations, to be respected by all, are valid for all, and in which all are accorded recognition. 
+ <!-- still what characterizes him chiefly is that as an individual he is  -->
 
-When the Oriental acts he has the advantage of complete independence, since for him there is nothing fixed and determined. The freer and more undetermined his substance is, the more arbitrary and independent is he. 
+The Oriental's arbitrariness of character includes: 
+- nobility
+- sublimity
+- the utmost magnanimity of attitude
 
-A free substance such as this no more has the character of an objectivity which is valid for all universally than it has freedom. 
+<!-- and by the same token contingent.  -->
+
+Missing are such things as rights and moral standards, which consist in objective and positive determinations to be:
+- respected by all
+- valid for all
+- in which all are accorded recognition. 
+
+When the Oriental acts, he has the advantage of complete independence because for him there is nothing fixed and determined.
+
+The freer and more undetermined his substance is, the more arbitrary and independent is he. 
+
+A free substance such as this no more has the character of an objectivity which is valid for all universally than it has freedom.
 
 What we call rights, moral standards, the state, are there present in a natural, substantial, patriarchal way, i.e., without subjective freedom. 
 
-The kind of morality which we call conscience is also nonexistent there. What does exist there is a petrified natural order which permits what is worst to exist side by side with supreme nobility. The situation is such that in it supreme arbitrariness holds the highest place.
+The kind of morality which we call conscience is also nonexistent there. 
+
+Instead, there is a petrified natural order which permits what is worst to exist side by side with supreme nobility. 
+
+The situation is such that in it supreme arbitrariness holds the highest place.
 
 Consequently, philosophical knowledge is not to be looked for in the Orient, since it is proper to philosophical knowledge to be conscious of, to know, the substance, i.e., the universal insofar as I think it, develop it within me, determine it, in such a way that in the substance I have my own determinations and am also contained subjectively or affirmatively.
 
