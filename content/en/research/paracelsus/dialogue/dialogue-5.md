@@ -1,13 +1,15 @@
 ---
-heading: Part 4
+heading: Part 5
 title: "A Dialogue Between Nature and the Alchemist"
 description: "Mercury hearing this begins to lament over the Alchymist, and goes unto his mother Nature"
-image: "/covers/alchemy.jpg"
-weight: 206
+image: "/covers/dialogue.jpg"
+weight: 14
 writer:
   name: Paracelsus
   url: https://en.wikipedia.org/wiki/Paracelsus/
 date: 2024-02-24
+aliases:
+  /research/paracelsus/alchemy/dialogue-4
 ---
 
 

@@ -1,13 +1,15 @@
 ---
-heading: Part 3
+heading: Part 4
 title: "The Nature of Mercury"
 description: "The Philosophers said that Nature is to be mixed with Natures. They command nothing to bee done without Nature"
-image: "/covers/alchemy.jpg"
-weight: 204
+image: "/covers/dialogue.jpg"
+weight: 12
 writer:
   name: Paracelsus
   url: https://en.wikipedia.org/wiki/Paracelsus/
 date: 2024-02-24
+aliases:
+  /research/paracelsus/alchemy/dialogue-3
 ---
 
 

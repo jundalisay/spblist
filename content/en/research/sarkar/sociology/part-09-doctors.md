@@ -21,7 +21,11 @@ But this is not the end of the matter.
 
 It is possible to earn the name shatamárii [one who has killed a hundred people] or sahasramárii [one who has killed a thousand people] by killing mice or guinea pigs in laboratory experiments, but is it not tragic if the killing continues after one has qualified as a doctor?
 
-No matter what country you belong to, tell me honestly, how many doctors can you really trust and respect? Among the doctors you know, you may believe in one or two at the most, but those who have won your faith may or may not command your respect. In other words, the doctors whom you believe in, who can cure a patient, are not accessible because they cost too much. In such circumstances your confidence in the ability of doctors remains intact, but you cannot consider them as friends; nor do you have any real proof of their humanity, hence you cannot give them your respect either.
+No matter what country you belong to, tell me honestly, how many doctors can you really trust and respect? Among the doctors you know, you may believe in one or two at the most, but those who have won your faith may or may not command your respect. 
+
+In other words, the doctors whom you believe in, who can cure a patient, are not accessible because they cost too much.
+
+In such circumstances your confidence in the ability of doctors remains intact, but you cannot consider them as friends; nor do you have any real proof of their humanity, hence you cannot give them your respect either.
 
 Moreover, the medical profession as such has more to do with social service than with professionalism. Social service is the main aim of the medical profession. But then social workers cannot live on air, so they have to accept some money for their livelihood from the government, autonomous bodies, public institutions or ordinary people: in short, from those they serve. To be a doctor may appear to be a way of earning a living to an unemployed person, but it cannot be categorized as a business under any circumstances. A helpless person, no matter how great his or her financial, social or intellectual capacity, considers a doctor to be a ray of light in the darkness or a lifeboat which can save him or her from drowning.
 

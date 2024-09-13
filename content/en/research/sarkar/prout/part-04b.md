@@ -48,30 +48,68 @@ Only then will a country or federation become economically strong and developed 
 
 ## Intra-block Versus Inter-block planning
 
-When planning is prepared for the all-round growth of a single block exclusively, it is called “intra-block planning”. Each block must have its own developmental plan, adjusting with the overall plan of the socio-economic unit at its various levels.
+When planning is prepared for the all-round growth of a single block exclusively, it is called “intra-block planning”. 
 
-However, there are problems which traverse block boundaries and cannot be tackled or solved by one block alone, such as flood control, river valley projects, communication systems, higher educational institutions, afforestation projects, the environmental impact of development, the establishment of key industries, soil erosion, water supply, power generation, the establishment of an organized market system, etc.
+Each block must have its own developmental plan, adjusting with the overall plan of the socio-economic unit at its various levels.
 
-So, cooperation among blocks is necessary. Planning among blocks is called “inter-block planning”. Inter-block planning is an economic venture into some selected fields to organize and harmonize socio-economic development in a few adjoining blocks through mutual coordination and cooperation.
+However, there are problems which traverse block boundaries and cannot be tackled or solved by one block alone, such as:
+- flood control
+- river valley projects
+- communication systems
+- higher educational institutions
+- afforestation projects
+- the environmental impact of development
+- the establishment of key industries
+- soil erosion
+- water supply
+- power generation
+- the establishment of an organized market system, etc.
+
+So, cooperation among blocks is necessary. 
+
+Planning among blocks is called “inter-block planning”. 
+- This is an economic venture into some selected fields to organize and harmonize socio-economic development in a few adjoining blocks through mutual coordination and cooperation.
 
 At each and every level of planning, there should be short-term and long-term planning. 
+- The maximum time limit for short-term planning should be 6 months.
+- The maximum time limit for long-term planning should be 3 years. 
 
-In all cases, the maximum time limit for short-term planning should be 6 months, and the maximum time limit for long-term planning should be three years. 
+Short-term and long-term plans should be complementary to each other.
 
-Short-term and long-term plans should be drafted in such a way that they are complementary to each other. The immediate goals of planning at each level are to guarantee the minimum requirements of the local people, eliminate unemployment, increase purchasing capacity and make socio-economic units self-sufficient.
+The immediate goals of planning at each level are to:
+- guarantee the minimum requirements of the local people
+- eliminate unemployment
+- increase purchasing capacity
+- make socio-economic units self-sufficient.
 
 
 ## Benefits of Block-Level Planning
 
-There are many benefits to block-level planning. The area of planning is small enough for the planners to understand all the problems of the area; local leadership will be able to solve the problems according to local priorities; planning will be more practical and effective and will give quick, positive results; local socio-cultural bodies can play an active role in mobilizing human and material resources; unemployment will be easily solved; the purchasing capacity of the local people will be enhanced; and a base for a balanced economy will be established.
-The development of local industries will provide immediate economic benefits. 
+There are many benefits to block-level planning:
 
-The unemployment problem will be rapidly solved, and in a short time it will be possible to create a congenial environment for permanent full employment. In fact, the only way to solve unemployment and bring about full employment throughout the world is by developing block-level industries. The growth of local industries will provide social security to the local people and create greater opportunities for their all-round advancement, because all their basic needs will be met.
+1. The area of planning is small enough for the planners to understand all the problems of the area.
+2. Local leadership will be able to solve the problems according to local priorities
+3. Planning will be more practical and effective and will give quick, positive results
+4. Local socio-cultural bodies can play an active role in mobilizing human and material resources
+5. Unemployment will be easily solved
+6. The purchasing capacity of the local people will be enhanced
+7. A base for a balanced economy will be established.
+8. The development of local industries will provide immediate economic benefits. 
 
-The population of every socio-economic unit should be organized on a scientific basis. The problem of a floating population should be tackled on the block level itself. Where there is a floating population, it should be either permanently settled or returned to its original region.
-Differences in Planning
+The unemployment problem will be rapidly solved, and in a short time it will be possible to create a congenial environment for permanent full employment.
+
+In fact, the only way to solve unemployment and bring about full employment throughout the world is by developing block-level industries. 
+
+The growth of local industries will provide social security to the local people and create greater opportunities for their all-round advancement, because all their basic needs will be met.
+
+The population of every socio-economic unit should be organized on a scientific basis. 
+
+The problem of a floating population should be tackled on the block level itself.
+
+Where there is a floating population, it should be either permanently settled or returned to its original region.
 
 
+### Differences in Planning
 
 Differences in planning for different regions are natural. The planning for the Punjab and the Cauvery Valleys will be the different for 3 reasons:
 

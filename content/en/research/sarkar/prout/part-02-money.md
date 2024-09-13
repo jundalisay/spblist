@@ -48,7 +48,7 @@ Proutist Economics [a compilation]
 Notes:
 Shabda Cayaniká Part 10 -->
 
-The most fundamental principle of economics is that the value of money increases with its mobility.
+The most fundamental principle of economics is that **the value of money increases with its mobility.**
 - The more that money changes hands, the greater its economic value.
 - The more that money is kept immobile in a safe, the more it loses its utility
   - Its economic value decreases. 
@@ -59,13 +59,16 @@ The banking system is indispensable for promoting both:
 
 The maxim, “Keep money rolling,” is as true as the proverb, “Keep the wagons moving.”
 
-The banking system must be vigilant of 2important points:
+The banking system must be vigilant of 2 important points:
 
 1. The intrinsic demonic greed of the banks must not be allowed to jeopardize the life of the common people.
 
 This defect only ruins low and middle income groups, but also impoverishes wealthy people. 
 
-In the past in most countries of the world the banks threatened the life of the common people. This more or less still occurs today not only in undeveloped countries, but also in developing and developed countries. 
+In the past in most countries, the banks threatened the life of the common people.
+
+This more or less still occurs today not only in undeveloped, developing, and developed countries.
+
 
 2. The banks must not allow unwise administrators or governments to print monetary notes indiscriminately without reserving the proportionate amount of bullion in their treasuries.
 
@@ -75,10 +78,20 @@ It leads to widespread inflation, which in turn jeopardizes internal trade and c
 
 Even if there is abundant production in a country, the common people do not benefit. The rich become richer and get more scope to continue their merciless exploitation. 
 
-In state capitalism, the exploitative rulers tighten their grip over society even more. State capitalism may call itself capitalism, socialism or communism, but ultimately it stands before the masses as more dangerous and bloodthirsty than bloodsucking ghouls and demons.
+In state capitalism, the exploitative rulers tighten their grip over society even more.
+
+State capitalism may call itself capitalism, socialism or communism. But ultimately, it stands before the masses as more dangerous and bloodthirsty than bloodsucking ghouls and demons.
+
 The banking system must continue, otherwise the mobility of money will be hindered. 
 
-If people oppose the banking system because they are guided by selfish whims or any other sentiment, then their economy will stay in the dark ages. They are bound to lose equipoise and equilibrium in the physical sphere, remain lopsided in the psychic and spiritual spheres, and reduce themselves to objects of ridicule. It is very sad to imagine such a state.
+If people oppose the banking system because they are guided by selfish whims or any other sentiment, then their economy will stay in the dark ages. 
+
+They are bound to:
+- lose equipoise and equilibrium in the physical sphere
+- remain lopsided in the psychic and spiritual spheres
+- reduce themselves to objects of ridicule.
+
+<!-- It is very sad to imagine such a state. -->
 
 <!-- So you see, the fundamental aim of the banking system is, “Keep money rolling.”  -->
 

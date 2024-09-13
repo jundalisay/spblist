@@ -33,13 +33,15 @@ Average rates of rent also exist in all societies. These are regulated by=
 {{< s v="5" >}} A commodity sold at its natural price is sold precisely for what it is worth or for what it really costs the seller.
 
 The natural price is different from the prime cost.
-The prime cost does not include the profit.
-A person who sells at prime cost or without a profit is a loser by that trade.
-He would lose a revenue or the fund of his subsistence.
+- The prime cost does not include the profit.
 
-His profits fund his subsistence, just as wages fund his workers' subsistence.
+A person who sells at prime cost or without a profit is a loser by that trade.
+- He would lose a revenue or the fund of his subsistence.
+- His profits fund his subsistence, just as wages fund his workers' subsistence.
+
 Without ordinary profits, he is without subsistence.
-He is not repaid what it really cost him.
+- He is not repaid what it really cost him.
+
 
 {{< s v="6" >}} The natural price is the lowest price that a dealer can sell his goods for any considerable time in the state of perfect liberty, or where he may change his trade as he pleases.
 
@@ -48,14 +50,16 @@ He is not repaid what it really cost him.
 
 {{< s v="7" >}} The market price is the actual price at which any commodity is commonly sold. It may higher, lower, or the same as the natural price.
 
+
 {{< s v="8" >}} Market prices are regulated by the proportion between the quantity to be sold and the demand of buyers willing to pay the natural price.
 
 Such buyers are called effectual demanders.
-Their demand is called the effectual demand because it effectuates the bringing of the commodity to market.
+- Their demand is called the effectual demand because it effectuates the bringing of the commodity to market.
 
 Absolute demand, on the other hand, is demand that can never bring commodities to the market.
 
 For example, a very poor man may demand a luxury coach, but his demand cannot justify the manufacture of one.
+
 
 {{< s v="9" >}} When the commodities sold in a market falls short of the effectual demand, the shortage will cause some of the buyers give more for those few commodities.
 
@@ -68,13 +72,17 @@ The more important the commodity, the more exorbitant the price will be.
 
 This is seen in the price of food during famines or blockades.
 
+
 {{< s v="10" >}} When the amount sold in a market exceeds the effectual demand, the excess will remain unsold.
 
 To dispose of it, it must be sold to those who are willing to pay less.
+
 The low price which they give for it must reduce the price of the whole.
-The market price sinks below the natural price in proportion to= 
-the competition of the sellers, or
-the importance of getting rid of those goods.
+
+The market price sinks below the natural price in proportion to:
+- the competition of the sellers, or
+- the importance of getting rid of those goods.
+
 There will be more competition [and bigger price changes] in getting rid of excess perishable goods, such as oranges, than durable ones, such as old iron.
 
 
@@ -126,10 +134,13 @@ It naturally always aims to bring only the precise quantity to supply that deman
 
 While in other employments, it will produce very different amounts per year.
 The same number of agricultural workers will produce very different amounts of corn, wine, oil, hops, etc. every year.
+
 The same number of spinners and weavers will produce the same amount of linen and cloth every year.
 Because of this, prices of agricultural products fluctuate more than the prices of manufactured goods, even if the demand for food and manufactures may be the same.
+
 The price of manufactured goods varies only with the variations in the demand.
-The prices of agricultural products varies with the variations in= 
+
+The prices of agricultural products varies with the variations in:
 - the demand, and
 - the supply
 
@@ -140,14 +151,17 @@ This has greater and more frequent variations.
 Even rent paid in goods are not so much affected by annual price fluctuations.
 This is because leases are set and adjusted according to long term prices and not temporary prices.
 
-{{< s v="19" >}} Such fluctuations affect both the value and rate of wages or profit, according to the supply of= 
+
+{{< s v="19" >}} Such fluctuations affect both the value and rate of wages or profit, according to the supply of:
 - goods, done or in-process or
 - labour
 
 A public mourning raises the price of black cloth and increases the profits of the merchants who have black cloth.
 
 It has no effect on the wages of the weavers [regular workers] because the market is under-stocked with black cloth, not with long-term labour.
+
 It raises the wages of journeymen tailors [contractual workers] because the market is under-stocked with short-term labour.
+
 The mourning creates an effectual demand for more short-term labour.
 It stops the demand for coloured silks for 6-12 months, sinking= 
 - the price of coloured silks,

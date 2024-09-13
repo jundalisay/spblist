@@ -11,27 +11,39 @@ keywords: [Cardinal Principles]
 ---
 
 
-These days educated people are so proud of their erudition that they detest illiterate people and avoid the company of commoners.
+These days, educated people are so proud of their erudition that they:
+- detest illiterate people and
+- avoid the company of commoners.
 
-Thus, they shun village life and live in towns. When the question of returning to the village crops up, they say, “What on earth would we do in a village? There’s not a single person to talk to. Only idiots live there.”
+Thus, they shun village life and live in towns.
 
-This explains why almost all attention is focused on the urban areas to the detriment of the villages. While soliciting votes, political leaders pay a short visit to the villages with a mouthful of attractive promises. 
+<!-- When the question of returning to the village crops up, they say, “What on earth would we do in a village? There’s not a single person to talk to. Only idiots live there.” -->
 
-They promptly inform the ignorant populace about their great achievements in constructing huge dams; though perhaps village cultivation is becoming impossible due to want of irrigation. They give detailed descriptions about their plans to build bridges and bungalows and install television sets, though perhaps in that village people die for want of medicine, or beg for food in poverty-stricken desperation. 
+This is why almost all attention is focused on the urban areas to the detriment of the villages.
 
-And yet the common villagers constitute the backbone of society. Even in the towns not everyone gets equal opportunities. 
+While soliciting votes, political leaders pay a short visit to the villages with a mouthful of attractive promises.
+
+They tell the ignorant populace about:
+- their great achievements in constructing huge dams even if the village needed irrigation instead. 
+- their plans to build bridges, bungalows, and install television sets even if that village urgently needs medicine or food. 
+
+Yet the common villagers constitute the backbone of society. Even in the towns not everyone gets equal opportunities. 
 
 The pavements have become the home for so many people. Rabindranath says, “ There are always a number of uncelebrated people in the human civilization. 
 
-They are the majority, and they are the medium, but they have no time to become human beings. They are raised on the leftovers of the national wealth. They are poorly dressed and receive little education, yet they serve the rest of society. 
+They are the majority, and they are the medium, but they have no time to become human beings.
+
+They are raised on the leftovers of the national wealth. They are poorly dressed and receive little education, yet they serve the rest of society. 
 
 They give maximum labour but are rewarded with ignominy – they die of starvation or are tortured to death by those they serve.
 
-They are deprived of all life’s amenities. They are the candlestick of civilization: they stand erect with the candle resting on their head. Everyone gets light from it, while they suffer the discomfort of the wax trickling down their sides. 
+They are deprived of all life’s amenities. They are the candlestick of civilization: they stand with the candle on their head. Everyone gets light from it, while they suffer the discomfort of the wax trickling down their sides.
 
 In this way, the dishonest of humanity or the neglect of human values has become a social malady.”
 
-Another glaring example of the neglect of human values is the present judicial system. When arrested, people have to stand in the dock for the accused and face a trial based on evidence and the lawyer’s eloquence, no matter if they are guilty or not. 
+Another glaring example of the neglect of human values is the present judicial system.
+
+When arrested, people have to stand in the dock for the accused and face a trial based on evidence and the lawyer’s eloquence, no matter if they are guilty or not. 
 
 A criminal who can afford to hire a reputable lawyer may emerge from the legal processes unscathed, whereas an innocent person of meagre financial means who is unable to appoint a good counsel, may end up in prison. 
 
@@ -59,21 +71,51 @@ To sadvipras [spiritual revolutionaries] the value of human life surpasses all o
 
 So states and scriptures, societies and religions, acquire significance only insofar as they develop humanity to the maximum through learning, culture, physical health and economic plenty. 
 
-It is for the sake of developing humanity that civilization has so many institutions of different kinds, that states take their various forms, that theories proliferate, and that the scriptures abound in ordinances and regulations. 
 
-What in the world does the state stand for, what is the use of all these regulations, and what are the marvels of civilization for, if people are prevented from manifesting themselves, if they do not get the opportunity to build good physiques, to invigorate their intelligence with knowledge, or to broaden their hearts with love and compassion? 
+It is for the sake of developing humanity that:
+- civilization has so many institutions of different kinds
+- states take their various forms
+- theories proliferate
+- the scriptures abound in ordinances and regulations. 
+
+
+
+If people:
+- are prevented from manifesting themselves
+- do not get the opportunity to:
+  - build good physiques
+  - invigorate their intelligence with knowledge
+  - to broaden their hearts with love and compassion
+then:
+- what does the state stand for?
+- what is the use of all these regulations?
+- what are the marvels of civilization for?
+
 
 If, instead of tending to lead human beings to the goal of life, the state stands in the way, it cannot command loyalty, because humanity is superior to the state.
 
-According to Rabindranath Tagore, “Justice and law at the cost of humanity is like a stone instead of bread. Maybe that stone is rare and valuable, but it cannot remove hunger.”
+According to Rabindranath Tagore: “Justice and law at the cost of humanity is like a stone instead of bread. Maybe that stone is rare and valuable, but it cannot remove hunger.”
 
-It is customary to give preference to social value over human value. Sadvipras want to strike at the root of this custom. For them, human value takes precedence over social value. Human beings form the society, and hence human value must lay the foundation for the social value. 
+It is customary to give preference to social value over human value.
 
-In other words, those who show respect to human value will be entitled to social value. It was mentioned earlier that human value means nothing but to treat the joys and sorrows, hopes and aspirations of human beings sympathetically, and see them merged in Cosmic Consciousness and established in divine majesty. 
+**Sadvipras want to strike at the root of this custom.** 
+
+For them, human value takes precedence over social value. 
+
+Human beings form the society, and hence human value must lay the foundation for the social value. 
+
+In other words, those who show respect to human value will be entitled to social value. 
+
+Human value means:
+- treating the joys and sorrows
+- hopes and aspirations of human beings sympathetically
+- seeing them merged in Cosmic Consciousness and established in divine majesty. 
 
 If one is to elevate oneself to that sublime height, he or she will have to be supplied with an environment suitable to his or her physical, mental and spiritual existence. 
 
-It is the birthright of everyone to make headway in their trifarious existence. It is the duty of society to accord recognition to this human right. Society has failed to do its duty, and that is why life is full of sorrow and suffering.
+It is the birthright of everyone to make headway in their trifarious existence.
+
+It is the duty of society to accord recognition to this human right. Society has failed to do its duty, and that is why life is full of sorrow and suffering.
 
 No one can say for certain that no great person might have emerged from among those wayward urchins whom we are wont to slight and hate. 
 
@@ -124,7 +166,9 @@ Irresponsible people cannot be entrusted with social responsibility, because tho
 
 If they themselves are of evil mentality, it will not be possible for them to discharge their social responsibility. 
 
-It has been said: “The collective body of those who are engaged in the concerted effort to bridge the gap between the first expression of morality and establishment in universal humanism is called society.”(1) So social responsibility should be entrusted to those who are capable of discharging it creditably. 
+It has been said: “The collective body of those who are engaged in the concerted effort to bridge the gap between the first expression of morality and establishment in universal humanism is called society.”(1) 
+
+So social responsibility should be entrusted to those who are capable of discharging it creditably. 
 
 If moralism is the starting-point of the journey of society, then those who are at its helm must be moralists. 
 
@@ -134,11 +178,18 @@ If the gap between moralism and universal humanism is to be bridged, spiritual s
 
 This great responsibility must never be entrusted to those who are themselves criminals. Unless and until such people correct themselves, they will not be given any social value, though in no way will they be denied human value.
 
-At present social value is given importance, but those who are selected to discharge social responsibility do not possess the aforesaid qualities. They have occupied their posts on the strength of their money or on the basis of patronage, but this has not resulted in any collective welfare. That is why there is an instruction in our social scripture:
+At present social value is given importance, but those who are selected to discharge social responsibility do not possess the aforesaid qualities.
 
-Do not be misled by anyone’s tall talk. Judge merit by seeing the performance. Remember, whatever position one is in offers sufficient opportunity to work. One whose character is not in accordance with Yama-Niyama should not get opportunity [[to become]] a representative.… to [[vest]] an incompetent person with power means to push society towards destruction knowingly and deliberately. (“Society” in Caryacarya Part 2, 1999)
+They have occupied their posts on the strength of their money or on the basis of patronage, but this has not resulted in any collective welfare. That is why there is an instruction in our social scripture:
 
-The sadvipras will install qualified persons in power, and the social order which will be evolved by virtue of their leadership will give due importance to one and all. In this new society based on Neohumanism, everyone will find their life worth living. All will regain their lost positions of honour.
+Do not be misled by anyone’s tall talk. Judge merit by seeing the performance. Remember, whatever position one is in offers sufficient opportunity to work.
+
+One whose character is not in accordance with Yama-Niyama should not get opportunity [[to become]] a representative.… to [[vest]] an incompetent person with power means to push society towards destruction knowingly and deliberately. (“Society” in Caryacarya Part 2, 1999)
+
+The sadvipras will install qualified persons in power. The social order which will be evolved by virtue of their leadership will give due importance to one and all.
+
+In this new society based on Neohumanism, everyone will find their life worth living. All will regain their lost positions of honour.
+
 
 March 1970
 
