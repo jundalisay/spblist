@@ -23,6 +23,24 @@ His three laws of planetary motion were based on his Mysterium Cosmographicum wh
 
 He called gravity as "kinships" and gravitational systems (solar system, galaxies, clusters) as "marriages" of "spheres" which have similarities to Schwarzchild radii.
 
+
+{{< box >}}
+### Kepler's Laws
+
+1. **Elliptical orbits** 
+
+> The orbit of a planet around the sun is an ellipse with the sun at one focus
+
+2. **The area within the elliptical orbit**
+
+> A line joining a planet and the sun sweeps out equal areas in equal time
+
+3. **The ratio of speed to distance**
+
+> The square of a sidereal period of a planet is directly proportional to the cube of the semi-major axis of the orbit.
+
+{{< /box >}}
+
 Nobody could understand his celestial harmonies and so no one realized that they actually had the principles of both special and general relativity.
 
 He explained that there were four kinds of gravity-kinships. Newton discovered one, Einstein discovered two as special and general relativity, and "dark matter" is the fourth. 

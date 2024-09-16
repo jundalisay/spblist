@@ -15,7 +15,9 @@ The nervous system is the crude receptacle of the kámamaya kośa [crude layer
 
 An impression of that restlessness is left on the nerve cells, and that impression remains short-lived or lasting according to the degree of its intensity. Sometimes even a significant impression loses its previously-acquired permanence because it is compelled to make room for a newer one under the impact of a counter- agitation or restlessness.
 
-In the sleeping state, if a person’s nerve tissues get agitated, more often than not due to some physical cause or due to cerebral heat caused by vehement thinking, the nerve-cells also get stirred up and disturbed. Such agitations give rise, in the mental sphere, to desires similar to the impressions accumulated in the nerve cells. Thus the agitated citta (the subconscious mind) accepts as real the stream of thoughts arising from one or more such impressions. 
+In the sleeping state, if a person’s nerve tissues get agitated, more often than not due to some physical cause or due to cerebral heat caused by vehement thinking, the nerve-cells also get stirred up and disturbed.
+
+Such agitations give rise, in the mental sphere, to desires similar to the impressions accumulated in the nerve cells. Thus the agitated citta (the subconscious mind) accepts as real the stream of thoughts arising from one or more such impressions. 
 
 The crude organs having stopped functioning, the identical desires arising from the previously-acquired desires do not then seem to be imaginary but appear to be quite real. Such dreams do not often come true as they are pure imaginations or a mere stringing together of different disjointed thoughts. 
 

@@ -59,23 +59,31 @@ Different and variegated are the causes of their actions.
 
 By their manifold interrelations with and interactions upon the lymph or shukra [which has three stages: lymph (práńarasa), spermatozoa and seminal fluid], they produce a variety of granthirasas (hormones). 
 
-The multifarious hormones, getting into the important plexi, become consumed, and only a small amount of the hormones can reach the glands and sub-glands below them. Most of the hormones of the upper portion are consumed by the solar plexus, which is contiguous with the anáhata cakra. 
+The multifarious hormones, getting into the important plexi, become consumed, and only a small amount of the hormones can reach the glands and sub-glands below them. 
+
+Most of the hormones of the upper portion are consumed by the solar plexus, which is contiguous with the anáhata cakra. 
 
 When the sudhárasa [bliss-causing hormones] emitted by the glands and sub-glands situated above the ájiṋá cakra are consumed in the ájiṋá cakra, the result is that the ájiṋá cakra is strongly affected by the high secretion of hormones brought about by sádhaná [spiritual practices] in that upper region, and consequently the irises of the eyes move upwards and a state of trance ensues. 
 
-A pleasant drowsiness of tandrá [somnolence] mixed with nidrá [sleepiness] overcomes the eyes, and the person is immersed in a type of slumber of a subtle loka [realm]. This kind of yoga nidrá, bháva nidrá, adhyátma nidrá is known as hypnosis in English. 
+A pleasant drowsiness of tandrá [somnolence] mixed with nidrá [sleepiness] overcomes the eyes, and the person is immersed in a type of slumber of a subtle loka [realm]
+
+This kind of yoga nidrá, bháva nidrá, adhyátma nidrá is known as hypnosis in English. 
 
 Bear in mind that it has no connection with hypnotism or mesmerism. Hypnotism or mesmerism is outer-suggestion, while hypnosis is auto-suggestion.
 
-The vishuddha cakra is bounded by the kúrma nád́ii [sinusoid nerve]. Some call it the Brhaspati cakra. 
+The vishuddha cakra is bounded by the kúrma nád́ii [sinusoid nerve]. Some call it the Brhaspati cakra.
 
 Many of the hormones secreted by the upper glands are metabolized in it and absorbed here, and very little of these hormones descend down. 
 
 If one’s sádhaná is perfect then the sound of the voice becomes sonorous and pleasant for some time, to some extent a state of intoxication ensues, the sinusoid nerve throbs a little, the body turns motionless and stonelike, and the skin becomes thin and light to some degree.
 
-Because of the type of environment existing in the solar plexus, or the anáhata cakra, the hormones of the upper region are almost entirely absorbed there, and very little of them remains. The entrancing action of the bliss-causing hormone of the upper region, which is designated sudhárasa in Sanskrit, when it reaches here leads to the greatest sensation in this spot, and the mind gets lost in the higher realm. 
+Because of the type of environment existing in the solar plexus, or the anáhata cakra, the hormones of the upper region are almost entirely absorbed there, and very little of them remains.
 
-The developed sádhaka [spiritual aspirant] remains submerged in this beatific condition of intoxication. It is said that Shiva remains overwhelmed under the spell of this very type of intoxication, with His eyes fixed upwards. This is not the intoxication produced by bhang [Indian hemp] or ganja [marijuana], or that of opium, nor that of wine, but is a sort of beatific intoxication brought about by sudhárasa.
+The entrancing action of the bliss-causing hormone of the upper region, which is designated sudhárasa in Sanskrit, when it reaches here leads to the greatest sensation in this spot, and the mind gets lost in the higher realm. 
+
+The developed sádhaka [spiritual aspirant] remains submerged in this beatific condition of intoxication.
+
+It is said that Shiva remains overwhelmed under the spell of this very type of intoxication, with His eyes fixed upwards. This is not the intoxication produced by bhang [Indian hemp] or ganja [marijuana], or that of opium, nor that of wine, but is a sort of beatific intoxication brought about by sudhárasa.
 
 <!-- Surápán karine ámi sudhá khái “Jay Kálii” bale,
 Man-mátále mátál kare mad-mátále mátál bale.(2) -->

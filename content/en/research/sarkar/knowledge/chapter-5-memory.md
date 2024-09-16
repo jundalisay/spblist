@@ -31,7 +31,25 @@ If the external factors necessary for the revival of memory remain undisturbed f
 
 Thus the brain is nothing more than a worldly machine for mental recollection. Its various parts assist the mind in various ways. But the permanent abode of memory is the citta. So even though an impression has faded from the nerve cells, the mind can recreate the impression by its own power. When the brain assists in the recollection of any event or fact it is called “cerebral memory”.
 
-The human mind has three stages: crude, subtle and causal. There are also three states in human existence: wakeful, dream and sleep. The crude mind remains active during the wakeful state and the causal mind remains active during sleep. The causal mind is the repository of infinite knowledge. Whatever saḿskáras we recreate in the wakeful and dream states remain stored in the causal mind. When the causal mind sleeps we call it “death”. Kárańamanasi diirghanidrá marańam [“Long sleep in the causal mind is death”].
+The human mind has 3 stages: 
+
+crude, subtle and causal
+
+There are also 3 states in human existence:
+
+wakeful, dream and sleep.
+
+The crude mind remains active during the wakeful state.
+
+The causal mind remains active during sleep. 
+
+The causal mind is the repository of infinite knowledge. 
+
+Whatever saḿskáras we recreate in the wakeful and dream states remain stored in the causal mind.
+
+When the causal mind sleeps we call it “death”. 
+
+Kárańamanasi diirghanidrá marańam [“Long sleep in the causal mind is death”].
 
 After death, the disembodied mind floats in the vast space with its unexpressed saḿskáras.
 

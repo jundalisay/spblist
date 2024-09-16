@@ -97,13 +97,16 @@ While the more superficial compositions lack the profundity of thought, the auth
 There is yet another form of literature gradually gaining importance: children’s literature (shishu sáhitya). Here the sense of responsibility and proficiency of the authors is more important than in any other branch of literature. In every sentence of juvenile literature there should be a wonderful attractive power – a crystalline simplicity and an open-heartedness without any hesitation. The author of juvenile literature has to explain through language and thought how life should be lived with purity and straight forwardness.
 The child’s mind is filled with fanciful imagery, and so the litterateurs will also have to soar in the sky of imagination with outstretched wings. However, they cannot afford to give indulgence to intricacies and complexities in this visionary ascent. The thirst for the distant, and the earnest zeal to know he unknown that abides in the child’s mind must be fulfilled by drawing pictures of magical lands and relating colourful fairy tales. “Real” or “natural” is not so important here. What is more important is to carry the child’s mind along in the current of joy, and in the process to acquaint the child with the world in an easy and simple manner. The harshness of reality should not be portrayed: the child will not want to read or listen to it. “The prince of the mind with his wings outspread in the azure sky soars to the kingdom of the old witch beyond the worlds of the moon and the sun; and, tying his Pegasus to the golden branches of the pearl tree, proceeds in quest of the sleeping princess in the soundless, serene palace. Being informed of the whereabouts of the magic wands of life and death, and rousing the princess from her centuries-old sleep, he gathers all the information about the sleeping den of the demons, and seeks to establish himself in the world like a hero…” Picture after picture, colour after colour, must accompany the words: this the children’s minds crave.
 
-For those who are a little older than small children, that is, boys and girls in their early teens, farces and satires are quite successful. In these the children can find the ideals that are conducive to the formation of their characters. But for those who are comparatively young, simplicity will be the guiding principle in whatever is written for them. Giving undue indulgence to the play of words, flowery language, figures of speech, or long, didactic preaching, will turn juvenile literature into trash.
+For those who are a little older than small children, that is, boys and girls in their early teens, farces and satires are quite successful. 
+
+In these the children can find the ideals that are conducive to the formation of their characters. But for those who are comparatively young, simplicity will be the guiding principle in whatever is written for them. Giving undue indulgence to the play of words, flowery language, figures of speech, or long, didactic preaching, will turn juvenile literature into trash.
 
 ## Lullabies
 
 A much neglected part of children’s literature is the lullaby.
 
-In most cases, it falls under the category of verse. 
+In most cases, it falls under the category of verse.
+
 It portrays the visionary environments in which all children’s literature has to dwell. But the unfoldment of scenes in lullabies takes place much more rapidly. 
 
 Seeing picture after picture in his or her mental mirror, the child dozes off into the bosom of sleep. 
@@ -117,7 +120,9 @@ And then ride the black one in the failing light.]
 
 The mind of the child gets lost in the horses, their colours, the time of day and the joy of riding on horseback, and thus musing over these pictures he or she slowly and gradually falls asleep. 
 
-It is important that these lullabys should convey the inspiration for the development of heroism and knowledge, but there should be no frightening ideas in them. Even if inadvertently any fear complex is created in the children’s minds, these compositions cannot be regarded as lullaby.
+It is important that these lullabys should convey the inspiration for the development of heroism and knowledge, but there should be no frightening ideas in them.
+
+Even if inadvertently any fear complex is created in the children’s minds, these compositions cannot be regarded as lullaby.
 
 Through these verses a child can easily become acquainted with nature in a way which makes the world delightful and captivating for them:
 
@@ -139,7 +144,9 @@ From the sweet rice porridge, shall I drain off the froth?”
 While the guests wait for dinner, hungry every one –
 Now what’s to be done, oh what’s to be done?]
 
-Often through these rhymes even the weary, long-suffering images of oppressed people may be vividly expressed, and contrasted with the pomp and glamour of prosperous society. But then this, too, should be expressed in a light-hearted fashion:
+Often through these rhymes even the weary, long-suffering images of oppressed people may be vividly expressed, and contrasted with the pomp and glamour of prosperous society.
+
+But then this, too, should be expressed in a light-hearted fashion:
 
 [Khukhu will be wed in the wondrous land of Hattamala
 Where they till their fields with oxen and bulls
@@ -151,10 +158,16 @@ Thus these neglected folk-lyrics and lullabies have enormous value in the format
 
 ## Towards the Transcendental Entity
 
-As the sense of subtle aesthetics was developed in human beings in the course of evolution, a desire for the creation of art was also awakened in them. The ideal of the artist is be to established in transcendentality beyond the bounds of the sensory world. So the artists, or more precisely, the worshippers of fine art, have to be spiritual aspirants if they want to move on the right path. The cultivation of fine arts is but a mockery on the path of those who have not developed spiritual sentiment or accepted the spiritual ideal as the goal of life. Only those who look upon everything of the world in a spiritual spirit can realize in everything the blissful, transcendental Entity. The greater the realization of this transcendental Entity, the greater the understanding of one’s oneness with Him, and thus the greater the success in the creation of art. The successful creation of art is absolutely impossible by those who, in spite of their possessing some creative faculty, do not seek that subtle Entity. Such people’s thought processes go adrift, like a sailboat with a torn sail. Their mental aberration is reflected through all of their writings, which ultimately become strange and grotesque.
+As the sense of subtle aesthetics was developed in human beings in the course of evolution, a desire for the creation of art was also awakened in them. The ideal of the artist is be to established in transcendentality beyond the bounds of the sensory world. So the artists, or more precisely, the worshippers of fine art, have to be spiritual aspirants if they want to move on the right path. 
+
+The cultivation of fine arts is but a mockery on the path of those who have not developed spiritual sentiment or accepted the spiritual ideal as the goal of life. Only those who look upon everything of the world in a spiritual spirit can realize in everything the blissful, transcendental Entity.
+
+The greater the realization of this transcendental Entity, the greater the understanding of one’s oneness with Him, and thus the greater the success in the creation of art. The successful creation of art is absolutely impossible by those who, in spite of their possessing some creative faculty, do not seek that subtle Entity. Such people’s thought processes go adrift, like a sailboat with a torn sail. Their mental aberration is reflected through all of their writings, which ultimately become strange and grotesque.
+
 Besides this, in the individual lives of such artists, there occurs a serious catastrophe. In the battle between their transitory sense of aesthetics and their lust for material happiness, their strength of character is torn in this tension between the subtle and the crude. That is why we find that in the history of the world those who lacked purity or spiritual ideals and spiritual austerity – no matter how great their genius as poets, litterateurs and artists, no matter what reputation they had earned in their respective fields of art – could not command respect and prestige as human beings in society due to their loose characters. It is due to this lack of firmness of character that the talents of many good singers, actors, and other kinds of artists have prematurely withered away, before attaining full development.
 
 As mentioned above, the greater the touch with transcendentality, the greater the success of the artist, for knowingly or unknowingly the human mind is seeking transcendentality. People yearn for the unknown: they cannot remain content with the known; thus where there is an endeavour to create art merely out of the events of daily life, it does not appeal to the intuitional faculty of the human mind.
+
 Can there be an artist without genius? Is art the result only of sincere endeavour, of hard labour? Quite a knotty question! I think the answer lies in the inherent spiritual thirst of human beings. In other words, a genius is born into this world with a powerful innate spiritual hunger, whether he or she realizes it or not. For those who do not have this spiritual hunger, the effort to become artists by toilsome labour alone is absolutely useless. But then, if a person who has no creative genius succeeds in kindling his or her spiritual urge and desire for the infinite, then it will not be impossible for him or her to develop genius.
 
 ## Naturalness and Unnaturalness in Art

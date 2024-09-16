@@ -113,13 +113,33 @@ A certain portion of the person’s own ectoplasmic stuff goes to help a detache
 
 Your ectoplasmic stuff is transferred to that detached mind due to your mental concentration, temporary concentration.
 
-And this type of concentration takes place under five types of circumstance – kśipta, múd́ha, vikśipta, ekágra and nirodha. Kśipta is when the mind is very perturbed, full of worries and anxieties. At that time, due to sudden, short concentration, such a thing may happen. Múd́ha is when your brain fails to decide what to do or what not to do – you are at a loss for what to do.
+This type of concentration takes place under 5 types of circumstance:
+
+1. kśipta
+2. múd́ha
+3. vikśipta
+4. ekágra
+5. nirodha
+
+Kśipta is when the mind is very perturbed, full of worries and anxieties.
+
+At that time, due to sudden, short concentration, such a thing may happen. 
+
+Múd́ha is when your brain fails to decide what to do or what not to do – you are at a loss for what to do.
 
 This is called múd́ha – múh plus kta. 
 
-Vikśipta – you are not concentrating on a particular point, but finally your mind becomes tired and, in that state, you see those things. You know by lullabies we make the minds of children vikśipta and they fall asleep. (Lullabies, you know? – poems recited in the ears to put children into deep slumber, not ordinary sleep.) Ekágra is when your mind gets pointed.
+Vikśipta – you are not concentrating on a particular point, but finally your mind becomes tired and, in that state, you see those things.
 
-The fifth is nirodha, when you suspend all the expressions of your propensities. In these five conditions you may see those things and you may, knowingly or unknowingly, consciously or unconsciously, transfer certain portions of your ectoplasmic body to a detached mind and create a positive hallucination of this kind.
+You know by lullabies we make the minds of children vikśipta and they fall asleep. 
+
+(Lullabies, you know? – poems recited in the ears to put children into deep slumber, not ordinary sleep.) 
+
+Ekágra is when your mind gets pointed.
+
+The fifth is nirodha, when you suspend all the expressions of your propensities. 
+
+In these five conditions you may see those things and you may, knowingly or unknowingly, consciously or unconsciously, transfer certain portions of your ectoplasmic body to a detached mind and create a positive hallucination of this kind.
 
 
 19 October 1978, Patna

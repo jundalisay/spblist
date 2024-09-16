@@ -29,45 +29,59 @@ carpet will do. But one must always ensure that the asan should be a non-conduct
 heat otherwise the energy gained by sadhana will not be preserved as the earth is a
 bad conductor of heat”.
 
-Baba simplified the matter further by explaining, “Due to fixing the time, place and asan, the mind being familiar with that environment will be able to concentrate easily. Just as if your sleeping place and time are fixed you fall asleep as soon as you lie there. But if the place is changed or the bedding is not yours or has been changed
-and the time is also not of your choice it will take time to fall asleep. The same is
-applicable to sadhana also”.
+Baba simplified the matter further by explaining, 
 
-“Sadhana should always be done in a peaceful and pleasant mood. One shouldnot do it when one is angry or dejected. In such a situation, all efforts to concentrate
-the mind will be wasted”.
+“Due to fixing the time, place and asana, the mind being familiar with that environment will be able to concentrate easily. 
 
-“You should sit in the lotus posture at the time of sadhana. The lotus posture
-keeps one in a pleasant temper. You will find that one who is accustomed to do the
-lotus posture will always be of an amicable temper. Do not touch anything like water up
-to half an hour after sadhana – this will enable the energy created by sadhana not to
-pass away in that medium. If due to some reason the mind does not concentrate on
-some days, then given more time to the shuddhis, (withdrawal processes), this will
-improve concentration”
+Just as if your sleeping place and time are fixed you fall asleep as soon as you lie there.
+
+But if the place is changed or the bedding is not yours or has been changed and the time is also not of your choice it will take time to fall asleep. 
+
+The same is applicable to sadhana also”.
+
+“Sadhana should always be done in a peaceful and pleasant mood. One should not do it when one is angry or dejected. In such a situation, all efforts to concentrate the mind will be wasted”.
+
+
+“You should sit in the lotus posture at the time of sadhana. The lotus posture keeps one in a pleasant temper. You will find that one who is accustomed to do the lotus posture will always be of an amicable temper. 
+
+Do not touch anything like water up to half an hour after sadhana – this will enable the energy created by sadhana not to pass away in that medium. 
+
+If due to some reason the mind does not concentrate on some days, then given more time to the shuddhis, (withdrawal processes), this will improve concentration”
+
 
 
 ## THE PROOF OF DIIKS’A AND MANTRA
 
-That day Baba was bent upon explaining to me of dull intellect the specialties of sadhana. Baba knew that my mind was fond of logic and therefore, he was explaining the logic behind most of the process of sadhana. In this context, Baba explained how
-you can know that the mantra given to you is correct and proper. I pleaded ignorance
-and said that I only know how to repeat it in the given manner.
+That day Baba was bent upon explaining to me of dull intellect the specialties of sadhana. Baba knew that my mind was fond of logic and therefore, he was explaining the logic behind most of the process of sadhana. 
 
-Baba said, " No you should know that you have the right mantra or not. Know the criteria for this. If there is growth in the situation and circumstances under which you took initiation then understand that the mantra is correct. Suppose you took
-initiation in happy circumstances then the happiness should grow and if you received
-initiation when the circumstances were painful then their intensity should grow this is
-the test of a correct mantra.
+In this context, Baba explained how you can know that the mantra given to you is correct and proper. I pleaded ignorance and said that I only know how to repeat it in the given manner.
 
-The iista mantra acts like fire for the accumulated heap of your samskaras, which can be compared to gunpowder. Therefore the situation which was there at the time of initiation will be aggravated. In the extreme situation of either happiness or pain
-there is a possibility of deviation from the path of sadhana. Therefore, in these situation
-if one keeps contact with the guru, then one gets extra mental strength to bear the
-development”.
+Baba said:
 
-In this regard I have a special experience that guru darshan also aggravates the samskaras, particularly the painful ones. They became explosive and the disciple begins to writhe with pain under their painful pressure. At times, the disciples, even the senior disciples, find themselves besieged with dangers and difficulties. The impending
-adversities can begin to disturb their mental equilibrium. But this is also the time of test
-for their courage and patience.
+"No you should know that you have the right mantra or not. Know the criteria for this. If there is growth in the situation and circumstances under which you took initiation then understand that the mantra is correct. Suppose you took initiation in happy circumstances then the happiness should grow. If you received initiation when the circumstances were painful then their intensity should grow this is the test of a correct mantra.
+
+The iista mantra acts like fire for the accumulated heap of your samskaras, which can be compared to gunpowder. 
+
+Therefore, the situation which was there at the time of initiation will be aggravated. 
+
+In the extreme situation of either happiness or pain there is a possibility of deviation from the path of sadhana. 
+
+Therefore, in these situation if one keeps contact with the guru, then one gets extra mental strength to bear the development”.
+
+In this regard I have a special experience that guru darshan also aggravates the samskaras, particularly the painful ones. 
+
+They became explosive and the disciple begins to writhe with pain under their painful pressure. 
+
+At times, the disciples, even the senior disciples, find themselves besieged with dangers and difficulties. 
+
+The impending adversities can begin to disturb their mental equilibrium. But this is also the time of test for their courage and patience.
 
 If they courageously and patiently continue to take the support of the guru and remain steadfast in their devotion and guru darshan, then certainly guru will give them the extra mental strength to bear the coming adversity.
+
 Contact with the guru is beneficial in all circumstances. My own experience
-points out that it is all the more so while one is in adversity. As I had little of worldly
+points out that it is all the more so while one is in adversity.
+
+As I had little of worldly
 pleasure I therefore unfortunately do not know the beneficial effects of guru’s contact
 during happy times.
 
@@ -112,13 +126,12 @@ In those days, Baba was emphasising the logical aspect very much.
 {{< l a="Baba" >}}
 The mind has 3 stages or layers: conscious, subconscious, and the unconscious. 
 
-At the time of doing sadhana, you are hitting the conscious mind, when in this process the layer of the conscious mind
-becomes subtle. The effect of this hitting of the mantra goes to the subconscious mind.
+At the time of doing sadhana, you are hitting the conscious mind, when in this process the layer of the conscious mind becomes subtle. The effect of this hitting of the mantra goes to the subconscious mind. 
+
 In this condition, the sadhaka starts hearing or seeing wonderful experiences and starts
 feeling some kind of peace in the mind. 
 
-By further regular practice of iista mantra, the subconscious mind also starts getting subtler, and the strokes of the mantra start affecting the unconscious mind. The sadhaka then starts knowing the events of the
-future. 
+By further regular practice of iista mantra, the subconscious mind also starts getting subtler, and the strokes of the mantra start affecting the unconscious mind. The sadhaka then starts knowing the events of the future. 
 
 Gradually, as one starts getting established in Iishvara pranidhana, one becomes omniscient”.
 {{< /l >}}

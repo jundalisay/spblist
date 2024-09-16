@@ -114,11 +114,15 @@ When one is not having clear motions, scope of Devadatta does not increase, in t
 
 How does Dhanainjaya Vayu work? 
 
-Different nerve‑cells, nerve‑fibres, blood‑arteries, and glands of the human body get properly operated more in the sunlight, and get tired, and moonlight increases this tiredness. 
+Different nerve‑cells, nerve‑fibres, blood‑arteries, and glands of the human body get properly operated more in the sunlight, and get tired. Moonlight increases this tiredness. 
 
-As a consequence, men sleep during the night under the influence of Dhananjaya. It is also best for them to sleep. 
+As a consequence, men sleep during the night under the influence of Dhananjaya. 
 
-There are certain animals whose nerves, nerve‑fibres, blood‑arteries and glands etc. get operated during moonlight such as owls and moles. During sunlight, they get operated so vigorously that they run away from sunlight and live in some dark place during day hours.
+It is also best for them to sleep. 
+
+There are certain animals whose nerves, nerve‑fibres, blood‑arteries and glands etc. get operated during moonlight such as owls and moles. 
+
+During sunlight, they get operated so vigorously that they run away from sunlight and live in some dark place during day hours.
 
 Pranayama physically affects the glands, nerves, nerve‑fibres, sub‑glands and also the flow of all fluids (Rasa, Rakta urine etc.), that is, all the liquid matter of the entire body. 
 
