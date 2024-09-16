@@ -123,9 +123,17 @@ Those guided by group psychology are like ravenous tigers.
 
 Where the divisive approach is ingrained in people’s social psychology, separatist tendencies flow through their bones, blood and marrow. 
 
-Such people become extremely avaricious for human flesh. That’s why those who have rejected the path of unity and are guided by group psychology and have accepted separatism as a political creed, are lying in ambush to catch any group for their blood. Beating the drum made from the skin of their victims, they announce to the world that they have annihilated the separatist elements.
+Such people become extremely avaricious for human flesh. 
 
-Those of you who ardently believe in PROUT should be vigilant in this regard. You should remember it is not the barrel of a gun but the spiritual force of human beings that is the real source of power. Human beings want selfless service. PROUT is dedicated to the service and welfare of one and all. You should immediately build a one and indivisible human society without further delay by popularizing PROUT.
+That’s why those who have rejected the path of unity and are guided by group psychology and have accepted separatism as a political creed, are lying in ambush to catch any group for their blood. 
+
+Beating the drum made from the skin of their victims, they announce to the world that they have annihilated the separatist elements.
+
+It is not the barrel of a gun but the spiritual force of human beings that is the real source of power. 
+
+Human beings want selfless service. 
+
+PROUT is dedicated to the service and welfare of one and all. You should immediately build a one and indivisible human society without further delay by popularizing PROUT.
 
 The spirit of service comes from the spirit of serving the Supra-Mental Entity. 
 

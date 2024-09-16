@@ -20,7 +20,9 @@ They call their Priests wise men, and most skilfull of all secrets, such as were
 
 It was not set down in writing, but delivered by word of mouth. 
 
-After a while superstitious men, a kind of apes, began to spatter it with their pen, so that at last it is degenerated into monstrous superstition; by which means also Magick, which is the true wisdome that is received by divine inspiration, is accounted in these times Necromancy, and Nigromancy, so that it is an offence to be a wise man, and he  that professeth it openly shall cast himself into danger. But to teach the foolishnesse of Infidels publickly is commendable, and a gift of singular wisdome, and no man is judged wise, but he  that is the greatest foole.
+After a while superstitious men, a kind of apes, began to spatter it with their pen, so that at last it is degenerated into monstrous superstition; by which means also Magick, which is the true wisdome that is received by divine inspiration, is accounted in these times Necromancy, and Nigromancy, so that it is an offence to be a wise man, and he  that professeth it openly shall cast himself into danger. 
+
+But to teach the foolishnesse of Infidels publickly is commendable, and a gift of singular wisdome, and no man is judged wise, but he  that is the greatest foole.
 
 
 Caballi, or Cabales are ghosts, and Astrall stars of men that dyed before their time.
