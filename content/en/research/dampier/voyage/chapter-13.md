@@ -17,7 +17,9 @@ icon: "/icons/dampier.png"
 
 It was in a bay on the north-east side of the island that we came to an anchor, as has been said. We lay in this bay but one night and part of the next day. 
 
-Yet there we got speech with some of the natives, who by signs made us to understand that the City Mindanao was on the west side of the island. We endeavoured to persuade one of them to go with us to be our pilot but he would not: therefore in the afternoon we loosed from hence, steering again to the south-east, having the wind at south-west. When we came to the south-east end of the island Mindanao we saw two small islands about three leagues distant from it. 
+Yet there we got speech with some of the natives, who by signs made us to understand that the City Mindanao was on the west side of the island.
+
+We endeavoured to persuade one of them to go with us to be our pilot but he would not: therefore in the afternoon we loosed from hence, steering again to the south-east, having the wind at south-west. When we came to the south-east end of the island Mindanao we saw two small islands about three leagues distant from it. 
 
 We might have passed between them and the main island, as we learnt since; but not knowing them, nor what dangers we might encounter there, we chose rather to sail to the eastward of them. But meeting very strong westerly winds we got nothing forward in many days. In this time we first saw the islands Meangis, which are about sixteen leagues distant from the Mindanao, bearing south-east. I shall have occasion to speak more of them hereafter.
 
@@ -82,11 +84,13 @@ These islands are as yet probably unknown to the Dutch who, as I said before, en
 
 There was another opportunity offered us here of settling on another Spice Island that was very well inhabited: for the inhabitants fearing the Dutch and understanding that the English were settling at Mindanao, their sultan sent his nephew to Mindanao while we were there to invite us thither: Captain Swan conferred with him about it divers times, and I do believe he had some inclination to accept the offer; and I am sure most of the men were for it: but this never came to a head for want of a true understanding between Captain Swan and his men, as may be declared hereafter.
 
-Beside the benefit which might accrue from this trade with Meangis and other the Spice Islands the Philippine Islands themselves, by a little care and industry, might have afforded us a very beneficial trade, and all these trades might have been managed from Mindanao by settling there first. For that island lies very convenient for trading either to the Spice Islands or to the rest of the Philippine Islands: since, as its soil is much of the same nature with either of them, so it lies as it were in the centre of the gold and spice-trade in these parts, the islands north of Mindanao abounding most in gold, and those south of Meangis in spice.
+Beside the benefit which might accrue from this trade with Meangis and other the Spice Islands the Philippine Islands themselves, by a little care and industry, might have afforded us a very beneficial trade, and all these trades might have been managed from Mindanao by settling there first. 
+
+For that island lies very convenient for trading either to the Spice Islands or to the rest of the Philippine Islands: since, as its soil is much of the same nature with either of them, so it lies as it were in the centre of the gold and spice-trade in these parts, the islands north of Mindanao abounding most in gold, and those south of Meangis in spice.
 
 
 
-## THE BEST WAY TO MINDANAO BY THE SOUTH SEA AND TERRA AUSTRALIS; AND OF AN ACCIDENTAL DISCOVERY THERE BY CAPTAIN DAVIS, AND A PROBABILITY OF A GREATER.
+### The Best Way To Mindanao By The South Sea And Terra Australis; And Of An Accidental Discovery There By Captain Davis, And A Probability Of A Greater.
 
 The island Mindanao has a very convenient location for trade, so, considering its distance, the way thither may not be over-long and tiresome. 
 
@@ -94,12 +98,18 @@ The island Mindanao has a very convenient location for trade, so, considering it
 
 It would be better to go to Mindanao by setting out of England about the latter end of August, and to pass round Tierra del Fuego, and so, stretching over towards New Holland, coast it along that shore till I came near to Mindanao; or first I would coast down near the American shore as far as I found convenient and then direct my course accordingly for the island. 
 
-By this I should avoid coming near any of the Dutch settlements and be sure to meet always with a constant brisk easterly trade-wind after I was once past Tierra del Fuego. Whereas in passing about the Cape of Good Hope, after you are shot over the East Indian Ocean and are come to the islands, you must pass through the Straits of Malacca or Sunda, or else some other straits east from Java, where you will be sure to meet with country-winds, go on which side of the Equator you please; and this would require ordinarily seven or eight months for the voyage, but the other I should hope to perform in six or seven at most. In your return from thence also you must observe the same rule as the Spaniards do in going from Manila to Acapulco; only as they run towards the North Pole for variable winds, so you must run to the southward till you meet with a wind that will carry you over to Tierra del Fuego. 
+By this I should avoid coming near any of the Dutch settlements and be sure to meet always with a constant brisk easterly trade-wind after I was once past Tierra del Fuego.
 
-There are places enough to touch at for refreshment, either going or coming. You may touch going thither on either side of Terra Patagonia, or, if you please, at the Galapagos Islands, where there is refreshment enough; and returning you may probably touch somewhere on New Holland, and so make some profitable discovery in these places without going out of your way. And to speak my thoughts freely, I believe it is owing to the neglect of this easy way that all that vast tract of Terra Australis which bounds the South Sea is yet undiscovered: those that cross that sea seeming to design some business on the Peruvian or Mexican coast, and so leaving that at a distance. To confirm which I shall add what Captain Davis told me lately that, after his departure from us at the haven of Realejo (as is mentioned in the 8th chapter) he went, after several traverses, to the Galapagos, and that, standing thence southward for wind to bring him about Tierra del Fuego in the latitude of 27 south, about 500 leagues from Copayapo on the coast of Chile, he saw a small sandy island just by him; and that they saw to the westward of it a long tract of pretty high land tending away toward the north-west out of sight. This might probably be the coast of Terra Australis Incognita.
+Whereas in passing about the Cape of Good Hope, after you are shot over the East Indian Ocean and are come to the islands, you must pass through the Straits of Malacca or Sunda, or else some other straits east from Java, where you will be sure to meet with country-winds, go on which side of the Equator you please; and this would require ordinarily seven or eight months for the voyage, but the other I should hope to perform in six or seven at most.
+
+In your return from thence also you must observe the same rule as the Spaniards do in going from Manila to Acapulco; only as they run towards the North Pole for variable winds, so you must run to the southward till you meet with a wind that will carry you over to Tierra del Fuego. 
+
+There are places enough to touch at for refreshment, either going or coming. You may touch going thither on either side of Terra Patagonia, or, if you please, at the Galapagos Islands, where there is refreshment enough; and returning you may probably touch somewhere on New Holland, and so make some profitable discovery in these places without going out of your way. And to speak my thoughts freely, I believe it is owing to the neglect of this easy way that all that vast tract of Terra Australis which bounds the South Sea is yet undiscovered: those that cross that sea seeming to design some business on the Peruvian or Mexican coast, and so leaving that at a distance.
+
+To confirm which I shall add what Captain Davis told me lately that, after his departure from us at the haven of Realejo (as is mentioned in the 8th chapter) he went, after several traverses, to the Galapagos, and that, standing thence southward for wind to bring him about Tierra del Fuego in the latitude of 27 south, about 500 leagues from Copayapo on the coast of Chile, he saw a small sandy island just by him; and that they saw to the westward of it a long tract of pretty high land tending away toward the north-west out of sight. This might probably be the coast of Terra Australis Incognita.
 
 
-## THE CAPACITY THEY WERE IN TO SETTLE HERE
+### THE CAPACITY THEY WERE IN TO SETTLE HERE
 
 But to return to Mindanao; as to the capacity we were then in, of settling ourselves at Mindanao, although we were not sent out of any such design of settling, yet we were as well provided, or better, considering all circumstances, than if we had. For there was scarce any useful trade but some or other of us understood it. 
 
@@ -109,12 +119,22 @@ If we had designed to build a fort we could have spared 8 or 10 guns out of our 
 
 To add one thing more, our men were almost tired and began to desire a quietus est; and therefore they would gladly have seated themselves anywhere. We had a good ship too, and enough of us (beside what might have been spared to manage our new settlement) to bring the news with the effects to the owners in England: for Captain Swan had already five thousand pound in gold, which he and his merchants received for goods sold mostly to Captain Harris and his men: which if he had laid but part of it out in spice, as probably he might have done, would have satisfied the merchants to their hearts' content. So much by way of digression.
 
-To proceed therefore with our first reception at Mindanao, Raja Laut and his nephew sat still in their canoe, and would not come aboard us; because, as they said, they had no orders for it from the sultan. After about half an hour's discourse they took their leaves; first inviting Captain Swan ashore and promising to assist him in getting provision; which they said at present was scarce, but in three or four month's time the rice would be gathered in and then he might have as much as he pleased: and that in the meantime he might secure his ship in some convenient place for fear of the westerly winds which they said would be very violent at the latter end of this month and all the next, as we found them.
+<!-- To proceed therefore with our first reception at Mindanao,  -->
+
+Raja Laut and his nephew sat in their canoe and would not board us because they had no orders for it from the sultan. 
+
+After around half an hour's discourse they left, first inviting Captain Swan ashore. They promised to assist him in getting provision which at present was scarce.
+
+But in 3-4 month's time the rice would be harvested and then he might have as much as he pleased.
+
+In the meantime he might secure his ship in some convenient place for fear of the westerly winds which they said would be very violent at the latter end of this month and all the next, as we found them.
 
 
 ## THE MINDANAYANS MEASURE THEIR SHIP
 
 We did not know the quality of these 2 persons till after they were gone; else we should have fired some guns at their departure: when they were gone a certain officer under the sultan came aboard and measured our ship. 
 
-A custom derived from the Chinese, who always measure the length and breadth, and the depth of the hold of all ships that come to load there: by which means they know how much each ship will carry. But what reason this custom is used either by the Chinese or Mindanao men I could never learn: unless the Mindanayans design by this means to improve their skill in shipping, against they have a trade.
+A custom derived from the Chinese, who always measure the length and breadth, and the depth of the hold of all ships that come to load there: by which means they know how much each ship will carry. 
+
+But what reason this custom is used either by the Chinese or Mindanao men I could never learn: unless the Mindanayans design by this means to improve their skill in shipping, against they have a trade.
 

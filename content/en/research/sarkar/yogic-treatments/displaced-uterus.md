@@ -2,7 +2,7 @@
 title: "Symptoms of Displaced Uterus"
 weight: 14
 author: "PR Sarkar"
-description: "Constipation causes this disease when the stool accumulation swells the colon. This puts pressure on the uterus, causing it to change its position. Excessive sexual activity is the main cause of constipation"
+description: "The uterus lies in a suspended position supported by a few ligaments behind the navel region."
 image: "/photos/med/dysm.jpg"
 icon: "/icons/sarkar.png"
 ---

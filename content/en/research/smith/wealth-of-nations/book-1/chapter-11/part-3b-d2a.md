@@ -47,24 +47,30 @@ Most of the Spanish and Portuguese colonies are new markets.
 Before their discovery, New Granada, the Yucatan, Paraguay, and Brazil were savage nations who had no arts or agriculture.
 
 Arts and agriculture has now been introduced into all of them.
+
 Even Mexico and Peru are markets which are much more extensive than before.
+
 Their people were much more ignorant in arts, agriculture, and commerce than the present Tartars of Ukraine.
 
 The Peruvians were more civilized than the Mexicans.
-They had no coined money even though they had gold and silver ornaments.
-Their commerce was done by barter.
+- They had no coined money even though they had gold and silver ornaments.
+- Their commerce was done by barter.
 
 There was scarce any division of labour among them.
-Those who cultivated the ground built their own houses, made their own furniture, clothes, shoes, and instruments of agriculture.
-The few artificers among them were all maintained by the sovereign, nobles, and priests, and were probably their slaves.
+- Those who cultivated the ground built their own houses, made their own furniture, clothes, shoes, and instruments of agriculture.
+- The few artificers among them were all maintained by the sovereign, nobles, and priests, and were probably their slaves.
+
 All the ancient arts of Mexico and Peru have never furnished a single manufacture to Europe.
 
 The Spanish armies of 250-500 men found great difficulty in getting subsistence.
-They caused famines almost wherever they went.
+- They caused famines almost wherever they went.
+
 The populousness and cultivation of Mexico and Peru were exaggerated.
 
 The government of the Spanish colonies are less favourable to agriculture, improvement, and population, than the government of the English colonies.
+
 The Spanish colonies, however, are advancing in agriculture and improvement more rapidly than any European country.
+
 The many defects of civil government of all new colonies were compensated by their fertile, cheap, abundant land, and happy climate.
 
 Frezier visited Peru in 1713.
@@ -83,10 +89,13 @@ America is a new market for its own silver. Silver demand in America must increa
 ## Reason 3: The East Indies is another market for American silver
 
 {{< s v="166" >}} Since the discovery of the American mines, the East Indies has continually been taking more silver.
+
 Since that time, the direct trade between America and the East Indies via Acapulco ships has been continually increasing.
+
 The indirect trade via Europe increased in a still greater proportion.
 
 During the 16th century, the Portuguese were the only Europeans to regularly trade to the East Indies.
+
 In the last years of the 16th century, the Dutch began to encroach on this monopoly.
 
 In a few years, the Dutch expelled the Portuguese from their main settlements in India.

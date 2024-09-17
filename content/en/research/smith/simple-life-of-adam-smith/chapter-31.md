@@ -104,17 +104,17 @@ Smith’s opinion about the atonement was not different in 1790 from what it was
 Smith mentioned to certain Edinburgh friends that he thought the passage unnecessary and misplaced.[362]
 As if taking revenge for its suppression, the original manuscript of this passage  reappeared from between the leaves of a volume on Aristotle in 1831, when all the rest of Smith’s other works had long been destroyed.[363]
 So much attention has been paid to Smith’s religious opinions, that he gives a fresh expression to his belief in a future state and an all-seeing Judge in one of the new passages in his Theory of Moral Sentiments.
+
 It is in connection with his remarks on the Calas case.
-He says that to persons in the circumstances of Calas, condemned to an unjust death= 
-Religion can alone afford every effectual comfort.
-She also can tell them that it not important what men may think of their conduct while the all-seeing Judge of the world approves of it.
-She alone can present to them a view of another world,—
-a world= 
-of more candour, humanity, and justice than the present,
-where= 
-- their innocence is in due time to be declared and [Pg 430]
-- their virtue to be finally rewarded, and
-- the same great principle which can alone strike terror into triumphant vice affords the only effectual consolation of disgraced and insulted innocence.”[364]
+
+He says that to persons in the circumstances of Calas, condemned to an unjust death:
+- Religion can alone afford every effectual comfort.
+- She also can tell them that it not important what men may think of their conduct while the all-seeing Judge of the world approves of it.
+- She alone can present to them a view of another world, of more candour, humanity, and justice than the present, where:
+  - their innocence is in due time to be declared and [Pg 430]
+  - their virtue to be finally rewarded, and
+  - the same great principle which can alone strike terror into triumphant vice affords the only effectual consolation of disgraced and insulted innocence.”[364]
 
 Whatever may have been his attitude towards historical Christianity, these words, written on the eve of his own death, show that he died as he lived.
+
 He was in the full faith of those doctrines of natural religion which he had publicly taught.

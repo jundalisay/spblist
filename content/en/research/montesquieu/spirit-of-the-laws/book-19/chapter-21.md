@@ -1,3 +1,6 @@
+
+
+
 21. How the Laws ought to have a Relation to Manners and Customs. It is only singular institutions which thus confound laws, manners, and customs — things naturally distinct and separate; but though they are in themselves different, there is nevertheless a great relation between them.
 
 Solon being asked if the laws he had given to the Athenians were the best, he replied, "I have given them the best they were able to bear"24 — a fine expression, that ought to be perfectly understood by all legislators! When Divine Wisdom said to the Jews, "I have given you precepts which are not good," this signified that they had only a relative goodness; which is the sponge that wipes out all the difficulties in the law of Moses.
@@ -154,7 +157,7 @@ Many people who have no desire of pleasing abandon themselves to their own parti
 
 As no subject fears another, the whole nation is proud; for the pride of kings is founded only on their independence.
 
-Free nations are haughty; others may more properly be called vain.
+Free nations are haughty. Others may more properly be called vain.
 
 But as these men who are naturally so proud live much by themselves, they are commonly bashful when they appear among strangers; and we frequently see them behave for a considerable time with an odd mixture of pride and ill-placed shame.
 

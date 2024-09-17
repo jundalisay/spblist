@@ -66,9 +66,21 @@ This is why we consider it useful to leave the understanding <!-- at liberty -->
 
 ###  The First Vintage of the Form of Heat
 
-The form of anything is inherent (as appears clearly from our premises) in each individual instance in which the thing itself is inherent, or it would not be a form. No contradictory instance, therefore, can be alleged. The form, however, is found to be much more conspicuous and evident in some instances than in others; in those (for example) where its nature is less restrained and embarrassed, and reduced to rule by other natures. Such instances we are wont to term coruscations, or conspicuous instances. We must proceed, then, to the first vintage of the form of heat.
+The form of anything is inherent in each individual instance in which the thing itself is inherent, or it would not be a form.
 
-From the instances taken collectively, as well as singly, the nature whose limit is heat appears to be motion. This is chiefly exhibited in flame, which is in constant motion, and in warm or boiling liquids, which are likewise in constant motion. It is also shown in the excitement or increase of heat by motion, as by bellows and draughts: for which see Inst. 29, Tab. 3, and by other species of motion, as in Inst. 28 and 31, Tab. 3. It is also shown by the extinction of fire and heat upon any strong pressure, which restrains and puts a stop to motion; for which see Inst. 30 and 32, Tab. 3. It is further shown by this circumstance, namely, that every substance is destroyed, or at least materially changed, by strong and powerful fire and heat: whence it is clear that tumult and confusion are occasioned by heat, together with a violent motion in the internal parts of bodies; and this gradually tends to their dissolution.
+No contradictory instance, therefore, can be alleged. 
+
+The form, however, is found to be much more conspicuous and evident in some instances than in others; in those (for example) where its nature is less restrained and embarrassed, and reduced to rule by other natures.
+
+Such instances we are wont to term coruscations, or conspicuous instances. We must proceed, then, to the first vintage of the form of heat.
+
+From the instances taken collectively, as well as singly, the nature whose limit is heat appears to be motion.
+
+This is chiefly exhibited in flame, which is in constant motion, and in warm or boiling liquids, which are likewise in constant motion. 
+
+It is also shown in the excitement or increase of heat by motion, as by bellows and draughts: for which see Inst. 29, Tab. 3, and by other species of motion, as in Inst. 28 and 31, Tab. 3. It is also shown by the extinction of fire and heat upon any strong pressure, which restrains and puts a stop to motion; for which see Inst. 30 and 32, Tab. 3.
+
+It is further shown by this circumstance, namely, that every substance is destroyed, or at least materially changed, by strong and powerful fire and heat: whence it is clear that tumult and confusion are occasioned by heat, together with a violent motion in the internal parts of bodies; and this gradually tends to their dissolution.
 
 What we have said with regard to motion must be thus[153] understood, when taken as the genus of heat: it must not be thought that heat generates motion, or motion heat (though in some respects this be true), but that the very essence of heat, or the substantial self[104] of heat, is motion and nothing else, limited, however, by certain differences which we will presently add, after giving some cautions for avoiding ambiguity.
 

@@ -1,12 +1,10 @@
 ---
-title: "Natural Remedies for Impotency and Infertility"
+title: "Impotency and Infertility Natural Remedies "
 weight: 42
-description: "Constipation due to the defective functioning of the liver is the main cause of piles, but generally no serious ailment can develop for one reason only"
+description: "In most cases, if not all, impotency is a disease of the intemperate"
 image: "/photos/consult.jpg"
 icon: "/icons/sarkar.png"
 ---
-
-
 
 
 ## Symptoms for Impotency and Infertility
@@ -23,18 +21,62 @@ icon: "/icons/sarkar.png"
 
 In most cases, if not all, impotency is a disease of the intemperate. There are various causes of this disease –
 
-1. When the seminal receptacle is already full, a passionate thought will bring a seminal discharge in no time. This is called mental impotency.
-2. Excessive accumulation of poisonous acid or pitta in the body can also effect a quick seminal discharge. Under such a condition the pitta of the male eliminates the possibility of conception by killing female ova. This is called pitta impotency.
-3. If the male and female have a bitter relationship, the resulting mental conflict in the male can bring about a quick emission and destroy chances of conception. This is called conflict impotency.
-4. If excessive waste of semen occurs due to the bad habit of masturbation during adolescence or youth, or due to lack of restraint in married life, the seminal fluid becomes thin and the symptoms of seminal weakness appear. This is also a kind of sexual debility, and it is called seminal infertility.
-5. If one is engaged in much mental or spiritual effort and devotes much time to Dhyána, Dhárańá, and Práńáyáma, then his shukra takes too much of an upward course, due to which his testes cannot produce sufficient spermatozoa= in the absence of passionate thoughts, spermatozoa cannot be formed. That is why it is usually observed that scientists and other intellectually-inclined men father no children; or if they do, the children are very short-lived. This is known as infertility due to an ascension of shukra.
-6. Due to chronic venereal diseases such as gonorrhoea or syphilis, sometimes males and females suffer from impotency or infertility. This is called syphilitic impotency or infertility.
-7. A serious lack of sexual restraint will make the nerves of the pelvis and genitals weak or damaged. The penis loses its power of erection and becomes very weak. This is called genital impotency.
-8. If there is a congenital weakness of the genital organs, testes, ovaries, etc., this disease is called congenital impotency. 
+1. Mental impotency
 
-This type of impotency is not curable without surgery or intense meditation. Of course, with the help of surgery or intense meditation, it is not impossible to convert a male person into a female or vice versa.
+This is when the seminal receptacle is already full, a passionate thought will bring a seminal discharge in no time. 
 
-Females who lack sexual self-restraint may also suffer from infertility (analogous to seminal infertility in the male). Such infertile females suffer from severe abdominal pain during intercourse and also from chronic constipation.
+2. Pitta impotency
+
+This is excessive accumulation of poisonous acid or pitta in the body can also effect a quick seminal discharge. 
+
+Under such a condition the pitta of the male eliminates the possibility of conception by killing female ova.
+
+3. Conflict impotency
+
+If the male and female have a bitter relationship, the resulting mental conflict in the male can bring about a quick emission and destroy chances of conception. 
+
+4. Seminal infertility
+
+This is when the seminal fluid becomes thin and weak due to excessive waste of semen due to:
+- the bad habit of masturbation during adolescence or youth
+- the lack of restraint in married life
+
+<!-- This is also a kind of sexual debility, and it is called . -->
+
+5. Infertility due to an ascension of shukra
+
+This is when one:
+- is engaged in much mental or spiritual effort 
+- devotes much time to Dhyána, Dhárańá, and Práńáyáma
+
+This causes his shukra to take too much of an upward course. This causes his testes unable to  produce sufficient spermatozoa.
+
+**In the absence of passionate thoughts, spermatozoa cannot be formed.** 
+
+That is why it is usually observed that scientists and other intellectually-inclined men father no children; or if they do, the children are very short-lived. This is known as
+
+
+6. Syphilitic impotency or infertility
+
+This is due to chronic venereal diseases such as gonorrhoea or syphilis, sometimes males and females suffer from impotency or infertility.
+
+7. Genital impotency
+
+This is caused by a serious lack of sexual restraint, making the nerves of the pelvis and genitals weak or damaged.
+
+The penis loses its power of erection and becomes very weak.
+
+8. Congenital impotency
+
+This is when there is a congenital weakness of the genital organs, testes, ovaries, etc.
+
+This type of impotency is not curable without surgery or intense meditation.
+
+It is possible to convert a male person into a female or vice versa with the help of surgery or intense meditation.
+
+Females who lack sexual self-restraint may also suffer from infertility (analogous to seminal infertility in the male). 
+
+Such infertile females suffer from severe abdominal pain during intercourse and also from chronic constipation.
 
 Over-indulgence in sexual intercourse may also bring frigidity to women. Such frigid women do not have any particular nervous sensation during sexual intercourse.
 
@@ -50,9 +92,13 @@ In the cases where impotency or infertility is just the result of some other dis
 
 ## Diet for Impotency and Infertility
 
-Depending upon the capacity of the liver, all kinds of nutritious foods should be taken. The patient should daily drink a sufficient quantity (four to five seers) of water. Fasting should also be observed on Ekádashii, Púrńima and Amávasyá days as prescribed.
+Depending on the capacity of the liver, all kinds of nutritious foods should be taken.
 
-Sufficient butter or ghee should be taken along with rice or rut́i. If the liver is healthy, the patient should drink one seer of milk every day. With this disease, squash (Lagenaria vulgaris Seringe), green (unripe) pumpkin (Benincasa cerifera Savi) and kalamii shák can be considered excellent food.
+The patient should daily drink a sufficient quantity (four to five seers) of water. Fasting should also be observed on Ekádashii, Púrńima and Amávasyá days as prescribed.
+
+Sufficient butter or ghee should be taken along with rice or rut́i. If the liver is healthy, the patient should drink one seer of milk every day.
+
+With this disease, squash (Lagenaria vulgaris Seringe), green (unripe) pumpkin (Benincasa cerifera Savi) and kalamii shák can be considered excellent food.
 
 
 ## Dos and don’ts for Impotency and Infertility

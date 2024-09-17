@@ -69,8 +69,10 @@ In addition to the rents of those estates, the clergy had a very large portion o
 
 Most of the revenues from both rents were paid in kind, in corn, wine, cattle poultry, etc.
 The amount greatly exceeded what the clergy could themselves consume.
+
 There were no arts nor manufactures which they could exchange for their surplus.
 The clergy could only derive advantage from this immense surplus by employing it in the most profuse hospitality and extensive charity.
+
 The ancient clergy's hospitality and charity was very great.
 
 They maintained:

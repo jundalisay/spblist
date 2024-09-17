@@ -1,9 +1,9 @@
 ---
-title: "Digression on the wheat trade and wheat laws: The Carrying Trade of Wheat"
-heading: "Chapter 5h"
-description: "The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply"
+title: "Digression on the wheat trade and wheat laws: Domestic wheat market"
+heading: "Chapter 5d"
+description: "The wheat merchant's trade is composed of 4 separate branches which can be done by the same person"
 image: /covers/wn.jpg
-weight: 52
+weight: 46
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -11,110 +11,217 @@ icons: /avatars/smith.png
 --- 
 
 
+{{< s v="40" >}} The praises for the following are unmerited:
+- The law which establishes the wheat export bounty
+- The regulations connected with the bounty
 
-{{< s v="73" >}} In years of scarcity, the distress caused by the strict execution of those laws was probably very great.
+This is demonstrated by examining the nature of:
+- the wheat trade, and
+- the British laws related to it
 
-But sometimes, its execution was suspended by temporary statutes which allowed wheat imports for a limited time. 
-- The necessity of these temporary statutes demonstrates the impropriety of this general one.
+This is a very important subject, justified by this long digression.
 
 
-{{< s v="74" >}} These import restraints came before the bounty's establishment.
-- They were dictated by the same spirit and principles of those bounties.
+{{< s v="41" >}} The wheat merchant's trade is composed of 4 separate branches which can be done by the same person:
 
-No matter how hurtful the import restraints were, they became necessary because of the bounties.
-
-If wheat prices rose around 576 pence the quarter, foreign wheat could be imported duty-free.
-- **But the bounty would cause this wheat to be re-exported.**
-
-THe re-exportation would be:
-- a great loss of public revenue and
-- the perversion of the entire institution.
-  - The bounties would be used for extending the growth of foreign countries and not the market for home growth.
+1. The trade of the inland dealer
+2. The merchant importer for home consumption
+3. The merchant exporter of home produce for foreign consumption
+4. The merchant carrier or importer and re-exporter of wheat
 
 
 
-## The Wheat Exporter
-
-{{< s v="75" >}} The wheat exporter only indirectly contributes to the home market's supply.
-
-The growers will be careful never to grow more wheat unless the ordinary surplus can be exported.
-
-The importers will never import more than what is needed at the home market.
-        That market will generally be understocked and very seldom be overstocked.
-    The wheat suppliers will be afraid that their wheat should be unsold.
-The export ban limits the country's cultivation to what the local supply requires.
-    The freedom of exportation enables it to extend cultivation for the supply of foreign markets.
+## The Wheat Merchant and The Invisible Hand of Svadharma
 
 
-{{< s v="76" >}} The 12th of Charles 2nd Chapter 4, allowed wheat exportation whenever wheat prices did not exceed 480 pence the quarter relative to other grains.
+{{< s v="42" >}} The interest of the inland dealer is exactly the same with the people's interest even if it may appear opposite even in years of great scarcity.
 
-The 15th of Charles 2nd extended this liberty until wheat prices exceeded 576 pence the quarter.
-    The 22nd of Charles 2nd extended it to all higher prices.
+His interest is to raise wheat prices as high as needed by the season's real scarcity.
+- It can never be his interest to raise it higher.
 
-A poundage tax was to be paid to the king on such exportation.
+He discourages wheat consumption by raising its price.
+- He puts everybody on thrift and good management, especially the lower class.
 
-But all grain was rated so low in the book of rates that this poundage amounted only:
-- 12 pence on wheat
-- 4 pence on oats
-- 6 pence the quarter on all other grain
+If he raises wheat prices too high, he discourages wheat consumption so much that the season's supply will be more than the season's consumption.
+- The supply will last for some time after the next crop comes in.
 
-The 1st of William and Mary was the act that established the bounty.
-
-    This act virtually removed this small duty whenever wheat prices did not exceed 576 pence the quarter.
-    The 11th and l2th of William III. c. 20 expressly removed this small duty at all higher prices.
+He runs the hazard of:
+- losing a big part of his wheat by natural causes
+- being obliged to sell what remains for much less
 
 
-{{< s v="77" >}} In this way, the exporter's trade was encouraged by a bounty.
+If he does not raise the price high enough, he discourages wheat consumption so little that the season's supply will be less than the season's consumption.
+- He loses some of the profit he might have made.
+- He exposes the people to a horrific famine before the season's end, instead of a difficult dearth.
 
-It became much freer than the inland dealer's trade.
-The last of these statutes allowed wheat to be engrossed at any price for exportation.
-    But it could not be engrossed for inland sale except when the price did not exceed 576 pence the quarter.
-However, the inland dealer's interest can never be opposite the people's interest.
-    The merchant exporter's interest may be opposite and sometimes is.
-        If his own country has a dearth while a neighbouring country has a famine, he might carry his country's wheat to the neighbouring country.
-        He might very much aggravate the dearth.
-Those statutes did not aim for the plentiful supply of the home market.
-    It aimed to= 
-        raise wheat's money price as high as possible, under the pretence of encouraging agriculture
-        create a constant dearth in the home market, as much as possible
-By discouraging imports, the home market's supply was confined to the home growth, even during great scarcity.
-    By encouraging exportation, the home market was not allowed to enjoy all of that growth, even during scarcity.
-The current system's impropriety is proven by frequency of temporary laws which= 
-    prohibit exportation
-    remove import duties for a limited time
-Had that system been good, Great Britain would not have needed to frequently change it.
+It is the people's interest that their daily, weekly, and monthly consumption should be proportional to the season's supply.
+
+The interest of the inland wheat dealer is the same as the people.
+
+He can sell all his wheat for the highest price and the most profit by supplying them in this proportion, as nearly as he can judge.
+
+He judge the people's real supplies through his knowledge of:
+- the wheat's state
+- his daily, weekly, and monthly sales
 
 
+Without intending the people's interest, he is necessarily led by a regard to his own interest.
 
-## Smith's Free Trade System
+Even in years of scarcity, he treats people in the same way as a prudent shipmaster treats his crew.
+- He puts them on short allowance when he foresees that provisions will run short.
+- He sometimes does this unnecessarily.
+  - But all the crew's inconveniences are small compared to the danger from doing otherwise.
 
-{{< s v="78" >}} Were all nations to follow free exportation and importation, they would resemble the provinces of a great empire.
+In the same way, excessive avarice might cause the inland wheat merchant to raise wheat prices higher than what the season's scarcity requires.
+- Yet all the people's inconveniences from this secures them from a famine in the season's end.
 
-As the freedom of the inland trade is the best palliative of a dearth and the most effectual preventative of a famine, so is the freedom of the exportation and importation among the states of a great continent.
-    One part of the continent will be less exposed to calamities= 
-        the larger the continent
-        the easier the land and water communication through it
-    The scarcity of one country would be relieved by the plenty of another.
-        But very few countries have entirely adopted this liberal system.
-The freedom of the wheat trade is almost everywhere restrained.
-    In many countries it is confined by absurd regulations that frequently aggravate a dearth into a famine.
-        The wheat demand of such countries might become so great and urgent that a small nearby state, which was also under a dearth, would not be able to supply them without exposing itself to famine.
-        One country's very bad policy might render it dangerous to establish what would otherwise be the best policy in another country.
-The unlimited freedom of exportation would be much less dangerous in great states where the growth is much greater.
-    Its supply could seldom be much affected by any amount of exported wheat.
-In a Swiss canton, or in some little Italian states, it may be necessary to restrain wheat exportation.
-    In big countries such as France or England, export restraints can rarely be necessary.
-To hinder the farmer from sending his goods at all times to the best market is to sacrifice justice for public utility or some state reasons.
-    This legislative authority should be exercised and pardoned only during the most urgent necessity.
-    The price at which wheat exportation is prohibited should always be a very high price.
+The suffering is small compared to the suffering created by a more liberal way of dealing with the scarcity.
+- The wheat merchant will likely suffer the most by this excess of avarice because:
+  - of the indignation against him
+  - he must sell his season's leftover wheat at a lower price if the next season is abundant.
 
 
+{{< s v="43" >}} If one great merchant company got all of a country's crops, it might be its interest to destroy a big part of it to keep up the price of the rest.
 
-{{< s v="79" >}} The laws concerning wheat may be compared to the laws concerning religion.
+This is what the Dutch did to the Moluccas spiceries.
 
-People feel so interested in their subsistence in this life or their happiness in the next life, that government must yield to their prejudices.
+But it is impossible, even by the violence of law, to establish such an extensive monopoly on wheat.
 
-To preserve public peace, the government establishes systems which people approve of.
+Wherever there is free trade, wheat is the least liable to be engrossed or monopolized by a few large capitals.
+    Its value far exceeds what the capitals of a few private men can buy.
+        Even if they were able to buy it, it would be impractical because of the way wheat is produced.
 
-Perhaps it is because of this that we so seldom find a reasonable system for wheat or religion.
+In every civilized country, wheat is the commodity consumed the most annually.
+- More industry is employed in producing wheat than any other commodity.
+
+When it first comes from the ground, it is divided among more owners than any other commodity.
+- These owners can never be collected into one place like independent manufacturers.
+- They are scattered throughout the countryside.
+
+These first owners immediately supply:
+- the consumers in their own neighbourhood or
+- other inland dealers who supply those consumers
+
+The inland dealers in wheat include the farmer and the baker.
+- They are more numerous than the dealers in any other commodity.
+- Their dispersed situation makes it impossible for them to have a general combination.
+
+If a dealer has more wheat than he could sell during a year of scarcity, he would never keep up its price to his own loss.
+
+He would immediately lower it to get rid of his wheat before the new crop came in.
+
+All dealers would be bound by these same motives and interests.
+
+Generally, it would oblige them all to sell their wheat at the price most suitable to the season.
+
+
+
+{{< s v="44" >}} Whoever examines the history of European dearths and famines from 16th century to the present will find that a dearth always arose from a real scarcity.
+
+This scarcity was created by:
+- war, or
+- the fault of the seasons, most frequently
+
+It never arose from any combination of the inland wheat dealers. A famine only arose from the government's violence in attempting to remedy a dearth improperly.
+
+
+
+{{< s v="45" >}} In an extensive wheat country with free commerce and communication, the scarcity created by the most unfavourable seasons can never be so great as to produce a famine.
+
+If managed with frugality and economy, the scantiest crop will maintain the same number of people fed during periods of moderate plenty.
+
+Excessive drought or rain are bad for crops.
+
+But wheat grows equally on: 
+- high and low lands, and
+- wet or dry land
+
+Drought or excessive rains may hurt one part of the country.
+- But the other part will not have them.
+
+In wet and dry seasons, some of the wheat lost in one part of the country is compensated by the wheat gained in the other.
+
+Rice requires a very moist soil and must be laid underwater.
+- In rice countries, a drought is much more dismal.
+- However, even in such countries, the drought is perhaps never so universal to create a famine if the government allows a free trade.
+
+The drought in Bengal a few years ago might have created a very great dearth.
+
+Some improper regulations and restraints imposed by the East India Company on the rice trade perhaps contributed to turn that dearth into a famine.
+
+
+
+{{< s v="46" >}} When the government tries to to remedy a dearth by ordering all dealers to sell their wheat at a reasonable price, it:
+- hinders the dealers from bringing it to market, and
+  - It may then produce a famine
+- enables the people to consume it so fast.
+  - It produces a famine before the season's end.
+
+The unlimited, unrestrained freedom of the wheat trade is the only effective preventative of a famine.
+
+It is the best palliative of a dearth. Because the inconveniences of a real scarcity cannot be remedied, it can only be palliated.
+Free wheat trade deserves and requires the most protection of the law because no trade is so much exposed to popular odium.
+
+
+
+{{< s v="47" >}} In years of scarcity, the lower classes impute their distress to the wheat merchant's avarice.
+
+Instead of profiting from the scarcity, he is often in danger of being ruined.
+    His magazines are in danger of being plundered and destroyed by violence.
+The wheat merchant expects his main profit during years of scarcity when prices are high.
+    He is in contract with some farmers to furnish him a certain amount of wheat at a certain price for a certain number of years.
+    This contract price is settled according to the ordinary price which is moderate and reasonable.
+        Before the recent years of scarcity, it was about 336 pence for the quarter of wheat.
+        In years of scarcity, the wheat merchant buys most of his wheat for the ordinary price and sells it dearer.
+            This extraordinary profit is just enough to put his trade on a fair level with other trades.
+            It compensates his many other losses from= 
+                the wheat's perishable nature, and
+                the frequent and unforeseen fluctuations of its price
+                    This alone shows why great fortunes are seldom made in the wheat trade.
+A popular odium attends the wheat trade in years of scarcity.
+    It makes people of character and fortune averse to enter into it.
+    The wheat trade is abandoned to an inferior set of dealers.
+
+The only middlemen that come between the grower and the consumer are:
+- millers
+- bakers
+- mealmen [warehouse?]
+- meal factors [agents? retailers?] , together with wretched hucksters [resellers? peddlers?]
+
+
+
+{{< s v="48" >}} Europe's ancient policy authorized and encouraged this popular odium against the wheat trade, even if the wheat trade is so beneficial to the public.
+
+
+{{< s v="49" >}} The 5th and 6th of Edward 6th cap. 14 enacted that anyone who buys any wheat or grain with intent to sell it again would be an unlawful engrosser.
+
+For the first fault:
+- he would be imprisoned for two months, and
+- the value of his wheat would be forfeited.
+
+For the second:
+    he would be imprisoned for six months, and
+    the double value of his wheat would be forfeited.
+For the third:
+    he would be imprisoned in the pillory, and
+    all his goods and chattels would be forfeited.
+
+The ancient policy of other European countries was no better than that of England.
+
+
+
+50 Our ancestors imagined that people could buy their wheat cheaper from the farmer than from the wheat merchant.
+
+They were afraid that the wheat merchant would require an exorbitant profit to himself.
+
+They tried to: 
+- annihilate his trade altogether, and
+- hinder any middle man from coming in between the grower and the consumer, by imposing many restraints.
+
+A wheat carrier could only exercise his trade with a licence proving that he was fair.
+    Edward VI's statute required three justices of the peace to grant this licence.
+    The privilege of granting it was further confined to the quarter-sessions by a statute of Elizabeth.
+
+
+
 

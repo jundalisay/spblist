@@ -76,6 +76,7 @@ Definition | A statement that gives the properties of a new idea
 False Dichotomy | Fake Dilemma
 Lemma | A resultant statement proven true, used to prove another, more important theorem
 Logic | The connection of ideas within spacetime. Ibn-khaldun: intellectual speculation to distinguish between true and false
+Mathematics | The use quantities with logic 
 Non sequitir | Does not Follow
 Occam's Razor | Deleting superfluous ideas in reasoning. Also, Cutting to the Chase
 Physical Truth | the equality of physical perceptions
@@ -93,9 +94,6 @@ Truth | the equality of perceptions from different perceiving identitites
 
 
  <!-- (usually simple and obvious). It's essentially a consequence of the proven theorem without requiring further proof. -->
-
-
-
 
 
 Axioms: The foundation stones, accepted as true without question.

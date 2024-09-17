@@ -36,25 +36,43 @@ Fat accumulated in the nerves and blood vessels terribly hampers the blood circu
 
 5. Eating too much food at one sitting with little or no appetite leads to heart disease
 
-Taking a large quantity of food enlarges the stomach, and that enlarged stomach starts putting pressure on the heart above it. Persons who do not have breakfast and an afternoon snack usually eat heavy meals at lunch and dinner. If such a habit continues day after day, their stomachs get enlarged and they suffer from heart disease.
+Taking a large quantity of food enlarges the stomach, and that enlarged stomach starts putting pressure on the heart above it. 
 
-6. Constipation is another reason for heart disease. If the bowels are not cleared, the accumulated stool decays inside the body and breeds a certain type of germ. If these germs get a chance to strike the heart, the patient suffers from heart disease.
+Persons who do not have breakfast and an afternoon snack usually eat heavy meals at lunch and dinner. 
 
-7. Ill-tempered persons also run the risk of heart disease, because in anger the flow of blood to the head and face becomes suddenly accelerated (which makes these people turn red). To supply this extra blood, the heart has suddenly to work very hard. That is why persons who are habitually ill-tempered suffer from weakness of the heart. For the same reason, extreme shyness may make the heart weak.
+If such a habit continues day after day, their stomachs get enlarged and they suffer from heart disease.
 
-8. In extreme fright also, the blood all of a sudden leaves the other parts of the body and rushes towards the heart in great quantity. It is difficult for the heart to stand this pressure, so in extreme fright the heart pounds or palpitates, and often even stops beating and causes death. (People have often been known to die of heart failure in fear of imaginary ghosts; and just before death or immediately thereafter, such terror-stricken people suffer from bleeding from the mouth and nose, and other people see it and think that the victims have really been killed by ghosts.) So fearful persons are often found to be suffering from heart disease.
+6. Constipation is another reason for heart disease.
 
-9. Too much sex causes the heart to strain and the breathing to become heavy, leading to heart disease. Too much seminal loss in young people also brings about heart disease.
+If the bowels are not cleared, the accumulated stool decays inside the body and breeds a certain type of germ. 
+
+If these germs get a chance to strike the heart, the patient suffers from heart disease.
+
+7. Ill-tempered persons also run the risk of heart disease, because in anger the flow of blood to the head and face becomes suddenly accelerated (which makes these people turn red).
+
+To supply this extra blood, the heart has suddenly to work very hard. That is why persons who are habitually ill-tempered suffer from weakness of the heart. For the same reason, extreme shyness may make the heart weak.
+
+8. In extreme fright also, the blood all of a sudden leaves the other parts of the body and rushes towards the heart in great quantity.
+
+It is difficult for the heart to stand this pressure, so in extreme fright the heart pounds or palpitates, and often even stops beating and causes death. (People have often been known to die of heart failure in fear of imaginary ghosts; and just before death or immediately thereafter, such terror-stricken people suffer from bleeding from the mouth and nose, and other people see it and think that the victims have really been killed by ghosts.) So fearful persons are often found to be suffering from heart disease.
+
+9. Too much sex causes the heart to strain and the breathing to become heavy, leading to heart disease.
+
+Too much seminal loss in young people also brings about heart disease.
 
 10. Use of wine, tobacco, viŕi, cigarettes and other intoxicants in excessive quantity leads to constipation and increases the acidity of the blood, weaken the glandular system<!-- , and ultimately prevent the active cooperation of the heart and the glands, causing them to fall sick. -->
 
-11. When a person suffers from some devitalizing or chronic disease for a long time, his or her blood will become weak. To revitalize that blood, the person’s heart has to overwork, making the heart becomes weak. That is why with beriberi, pneumonia, tuberculosis, diabetes, gonorrhoea, syphilis and female disease, the longer a patient suffers, the more the heart becomes weak, and when it becomes extremely weak it stops and the patient dies.
+11. When a person suffers from some devitalizing or chronic disease for a long time, his or her blood will become weak. 
+
+To revitalize that blood, the person’s heart has to overwork, making the heart becomes weak. That is why with beriberi, pneumonia, tuberculosis, diabetes, gonorrhoea, syphilis and female disease, the longer a patient suffers, the more the heart becomes weak, and when it becomes extremely weak it stops and the patient dies.
 
 <!-- Treatment:
 Morning – Utkśepa Mudrá, (don’t drink too much water), Yogamudrá, Diirgha Prańáma, Bhújauṋgásana, Váyavii Mudrá or Váyavii Práńáyáma, and Padahastásana.
 Evening – Yogamudrá, Diirgha Prańáma, Bhújauṋgásana, Padahastásana and Váyavii Mudrá or Váyavii Práńáyáma. -->
 
-Patients should practise no ásanas and mudrás other than Utkśepa Mudrá when the disease is critical. Only after some improvement in the disease should these ásanas and mudrás be practised. When patients are more or less cured, they should practice Karmásana instead of Padahastásana. The practice of Vyápaka Snána is also especially helpful in this disease.
+Patients should practise no ásanas and mudrás other than Utkśepa Mudrá when the disease is critical. 
+
+Only after some improvement in the disease should these ásanas and mudrás be practised. When patients are more or less cured, they should practice Karmásana instead of Padahastásana. The practice of Vyápaka Snána is also especially helpful in this disease.
 
 
 ## Diet for Heart Disease
@@ -68,7 +86,9 @@ It is better to refrain from eating rice or rut́i but a little boiled rice can 
 
 ## Dos and don’ts for Heart Disease
 
-Patients should never eat a lot at one sitting – rather they should eat a small quantity at a time, several times. When patients are critically ill they should eat nothing but milk, fruit juice (especially orange/tangerine and tomato), milk or water with honey, and the juice of spinach, kalamii, beto, punarnavá, shushuni or shulphá. When thirsty, drink water with a little lemon juice.
+Patients should never eat a lot at one sitting – rather they should eat a small quantity at a time, several times.
+
+When patients are critically ill they should eat nothing but milk, fruit juice (especially orange/tangerine and tomato), milk or water with honey, and the juice of spinach, kalamii, beto, punarnavá, shushuni or shulphá. When thirsty, drink water with a little lemon juice.
 
 Sleeping during the day, keeping late nights, and greedily eating a full stomach of food are all very dangerous for heart patients. Dinner invitations usually involve rich food, so patients should not accept dinner invitations. They should go to bed between 8 and 8:30 in the evening.
 

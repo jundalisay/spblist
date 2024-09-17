@@ -57,7 +57,7 @@ It depends on the proportion between the amount of labour needed:
 The recent multiplication of banking companies in the United Kingdom has alarmed many people.
 
 Their free competition actually increases the security of the public by: 
-- obliging all banks to be more circumspect in their own conduct,
+- obliging all banks to be more circumspect in their own conduct
   - This prevents them from extending their currency beyond its due proportion to their cash.
 	- This guards themselves against those malicious runs caused by their competitors.
 - restraining the circulation of each bank within a narrower circle.

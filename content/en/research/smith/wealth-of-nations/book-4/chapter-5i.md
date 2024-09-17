@@ -1,9 +1,9 @@
 ---
-title: "The Carrying Trade of Wheat"
-heading: "Chapter 5i"
-description: "The merchant carrier imports foreign wheat and re-exports it"
+title: "Loss of Competitve Advantage From the Division of Capital"
+heading: "Chapter 5f"
+description: "Europe's ancient policy tried to regulate agriculture by maxims different from those which regulated manufactures"
 image: /covers/wn.jpg
-weight: 54
+weight: 48
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -11,121 +11,136 @@ icons: /avatars/smith.png
 --- 
 
 
+{{< s v="51" >}} In this way, Europe's ancient policy tried to regulate agriculture by maxims different from those which regulated manufactures.
 
-{{< s v="80" >}} The merchant carrier imports foreign wheat and re-exports it.
-
-He contributes to the plentiful supply of the home market.
-- His direct purpose is not to sell wheat at home.
-- He will be willing to do so, even for much less money than in a foreign market, because he saves freight and insurance cost.
-
-The country becomes the storehouse for other countries through the carrying trade.
-    Its people can very seldom be in want themselves.
-
-The carrying trade might reduce the average money price of wheat in the home market.
-- It would not lower the real value of wheat.
-- It would only somewhat raise the real value of silver.
-
-
-{{< s v="81" >}} The carrying trade was banned in Great Britain on all ordinary occasions by high wheat import duties, without a drawback.
-
-On extraordinary occasions, exportation was always banned.
-The carrying trade was in effect banned on all occasions.
+In agriculture, this policy forced the farmer to be both the wheat farmer and merchant or retailer.
+    It made the end consumers and their wheat carriers as his only customers.
+    In manufactures on the contrary, this policy banned the manufacturer from selling his own goods by retail or by being his own shopkeeper.
+In agriculture, this policy aimed to render wheat cheap without understanding how this was to be done.
+    In manufactures, this policy protected the shopkeeper's interest by preventing manufacturers from doing retail and underselling them.
 
 
 
-## The Real Cause of Britain's Wealth
+{{< s v="52" >}} The manufacturer was allowed to keep a shop and sell his own goods by retail, but he could not have undersold the common shopkeeper.
 
-{{< s v="82" >}} That system of laws connected with the bounty deserves no praise.
+Whatever capital he placed in his shop must have been withdrawn from his manufacture.
 
-Great Britain's improvement and prosperity was often ascribed to those laws.
-- In reality, it may easily be attributed to other causes.
+To carry on his business on a level with other manufacturers and shopkeepers, he must have profits from his:
+- manufacturing capital, and
+- retail capital.
 
-That security which British laws give to every man, that he shall enjoy the fruits of his own labour is alone sufficient to make any country flourish, despite the absurd regulations of commerce.
-- This security was perfected by the revolution about the same time the bounty was established.
-
-The natural effort of every individual to better his own condition, when suffered to exert itself with freedom and security, is so powerful a principle that it is alone capable of:
-- carrying society to wealth and prosperity
-- surmounting obstructions imposed by the folly of human laws.
-  - These obstructions always:
-    - encroaches on its freedom or
-    - reduces its security
-
-In Great Britain, industry is perfectly secure, though it is far from being perfectly free.
-
-But it is freer than in any other part of Europe.
+Let us suppose that 10% was the ordinary profit of manufacturing and shopkeeping in his town.
+    In this case, he must have added a profit of 20% on each of his goods in his shop.
+    When he carried them from his workhouse to his shop, he must have priced them at a wholesale price.
+        The wholesale price is the price he sells them to shopkeepers.
+    If he valued them lower than the wholesale price, he would lose some of his manufacturing capital's profit.
+    When he sold them from his shop, he would lose some of the profit of his shopkeeping capital if he sold them cheaper than the retail price of other shopkeepers.
+    He might appear to make a double profit on the same goods.
+    But as these goods came from two distinct capitals, he made only a single profit on the whole capital employed.
+        If he made less than his usual profit, he was a loser.
 
 
-{{< s v="83" >}} Great Britain's greatest prosperity was posterior to the laws connected with the bounty.
+{{< s v="53" >}} The manufacturer was banned from dividing his capital into two employments.
 
-However, we must not impute it to those laws.
+However, the farmer was forced to divide his capital into two.
+    One part was in his granaries and stack yard for supplying the market.
+    Another part was in land cultivation.
 
-Prosperity was also posterior to the national debt.
-- But the national debt certainly was not the cause of the prosperity.
-
-
-
-{{< s v="84" >}} The laws connected with the bounty has exactly the same tendency as the police of Spain and Portugal.
-
-It lowers the value of the precious metals in the country where it is produced.
-Yet Great Britain is one of the richest countries in Europe, while Spain and Portugal are among the poorest.
-    This difference may easily be attributed to two causes.
-
-The following policies must more forcibly reduce the value of those metals in Spain and Portugal than the wheat laws can do in Great Britain:
-- The tax in Spain
-- The ban in Portugal of exporting gold and silver
-- The vigilant police which executes those laws
-
-This bad policy is not counter-balanced by the liberty and security of the people in Spain and Portugal.
-
-    Industry is neither free nor secure there.
-    Their absurd and foolish civil and ecclesiastical governments would alone be sufficient to perpetuate their present state of poverty, even though their commercial regulations were wise.
+He could not afford cultivation for less than the ordinary profits of farming stock.
+    He could as little afford granaries for less than the ordinary profits of mercantile stock.
+Whether the stock used in wheat trading belonged to the farmer or the wheat merchant, an equal profit is needed by the owner to= 
+    put his business on a level with other trades
+    hinder him from changing his business to something more profitable
+The farmer was forced to exercise the trade of a wheat merchant.
+    He could not afford to sell his wheat cheaper than any other wheat merchant, in the case of a free competition.
 
 
 
-{{< s v="85" >}} The 13th of George 3rd, Chapter 43, established a new system regarding the wheat laws, better than the ancient one.
+{{< s v="54" >}} The dealer who can employ his whole stock in one single business has the same advantage as the worker who can employ his whole labour in one single operation.
 
-However, it was perhaps not so good in one or two respects.
-
-
-{{< s v="86" >}} This statute removed the high import duties for home consumption when:
-- middling wheat prices rose to 576 pence the quarter
-- middling rye, peas or beans rose to 384 pence
-- barley rose to 288 pence
-- oats rose to 192 pence
-
-A small duty of 6 pence was imposed on the quarter of wheat and other grains in proportion.
-    The home market is thus opened to foreign grain at much lower prices.
-
-{{< s v="87" >}} By the same statute:
-
-    The old bounty of 60 pence on wheat exports ceases as soon as its price rises to 528 pence the quarter, instead of 576 pence which was the price at which it ceased before.
-
-    The bounty of 30 pence on barley exports ceases as soon as its price rises to 264 pence instead of 288 pence.
-    The bounty of 30 pence on oatmeal exports ceases so soon as its price rises to 168 shillings, instead of 180.
-    The bounty on rye is reduced from 42 pence to 36 pence.
-        It ceases as soon as the price rises to 336 pence instead of 384.
-    The sooner export bounties cease and the lower they are, so much the better.
-  88 The same statute permits wheat imports at the lowest prices to be exported again duty free, as long as it was lodged in a warehouse in 25 British ports under the joint locks of the king and the importer.
-    Perhaps there are no proper warehouses in other British ports.
+As the worker acquires the dexterity to perform more work, so the merchant acquires readier methods of buying and disposing of goods.
+    With the same capital, the merchant can transact more business.
+As the merchant can afford the worker's labour cheaper, so the worker can afford the merchant's goods cheaper than if his stock and attention were employed in many various objects.
+Most manufacturers would not be able to retail their own goods as cheaply and effectively as an active shopkeeper.
+    An active shopkeeper's sole business is to buy at wholesale and sell at retail.
+Most farmers would be less able to retail their own wheat.
+    They could not afford to supply the town 4-5 miles away as cheap and as vigilant as an active wheat merchant.
 
 
-{{< s v="89" >}} This law seems an improvement of the ancient system.
 
-{{< s v="90" >}} By the same law:
-- a  bounty of 24 pence the quarter is given for oats exportation whenever its price does not exceed 168 pence.
-        No bounty had ever been given before for oats exports, no more than bounties for peas or beans.
-    
-{{< s v="91" >}}
-    wheat exportation is banned as soon as wheat prices rise to 528 pence the quarter.
-    rye exportation is banned as soon as it rises to 336 pence.
-    barley exportation is banned as soon as it rises to 264 pence.
-    oats exportation is banned as soon as it rises to 168 pence.
+## Svadharma
 
-Those prices seem too low. It seems improper to ban exportation at those precise prices at which that bounty, which was given to force it, is withdrawn:
-- the bounty should certainly be withdrawn at a much lower price or
-- exportation should be allowed at a much higher price.
+{{< s v="55" >}} The law, which banned the manufacturer from being a shopkeeper, forced this division in the employment of stock faster.
+
+The law, which obliged the farmer to be a wheat merchant, hindered the division of the employment of stock from going on so fast.
+    Both laws were violations of natural liberty and were therefore unjust and impolitic.
+"It is the interest of every society that things of this kind should never either be forced or obstructed."
+    The man who employs his labour or stock in more ways than necessary, can never hurt his neighbour through underselling.
+        He may hurt himself by underselling, and he generally does so.
+    "Jack of all trades will never be rich, says the proverb."
+        The law should always trust people with the care of their own interest.
+        Because in their local situations, they must generally be able to judge better of their interest than the legislator.
+The law which obliged the farmer to be a wheat merchant was the most harmful of those two laws by far.
 
 
-{{< s v="92" >}} So far, this law seems inferior to the ancient system.
+{{< s v="56" >}} It obstructed:
+- the division in the employment of stock which is so advantageous to every society
+- land improvement and cultivation
 
-With all its imperfections, we may say that it was like the laws of Solon. Though not the best in itself, it is the best which the interests, prejudices, and temper of the times admitted. It may perhaps prepare the way for a better law in due time.
+By obliging the farmer to do two trades, it forced him to divide his capital into two.
+
+Only one of his capitals could be employed in cultivation.
+If he were free to sell his crops to a wheat merchant as fast as he could thresh it out, his whole capital might have returned immediately to the land.
+
+    His capital could have been used in:
+        buying more cattle
+        hiring more servants to improve it better
+
+By being obliged to sell his wheat by retail, he was obliged to keep most of his capital in his granaries and stack yard through the year.
+    He could not cultivate so well with the same capital.
+This law:
+- obstructed land improvement, and
+- must have rendered wheat scarcer and dearer.
+
+
+## The Trade Between The Farmer and The wheat Merchant
+
+{{< s v="57" >}} After the farmer, the wheat merchant contributes the most to the raising of wheat, if his trade is properly protected and encouraged.
+- He would support the farmer in the same way the wholesale dealer supports the manufacturer.
+
+
+{{< s v="58" >}} The wholesale dealer affords a ready market to the manufacturer by taking the manufacturer's goods as fast as the manufacturer can make them.
+
+It enables the manufacturer to keep his whole capital constantly employed in manufacturing.
+    He can manufacture more goods than if he sold them himself to end consumers or retailers.
+The wholesaler's capital is generally enough to replace the capital of many manufacturers.
+This intercourse between the dealers and the manufacturers interests the owner of a large capital to support the many owners of small capitals.
+    The merchant is interested in assisting the manufacturers in their losses which might be ruinous.
+
+
+{{< s v="59" >}} The same intercourse universally established between farmers and wheat merchants would equally benefit the farmers.
+
+The farmers would be enabled to keep their whole capitals constantly employed in cultivation.
+In case of any accidents, they would find that their wealthy wheat merchant customer has an interest and the ability to support them.
+    The farmers would not be entirely dependent on their landlord, as at present.
+It is not very easy to imagine how great, extensive, and sudden would be the improvement to the entire countryside if it were possible to establish this intercourse between farmers and merchants universally and all at once= 
+    If it were possible to withdraw the nation's whole farming stock from other employments and divert it towards land cultivation.
+    If it were possible to provide another, almost equally great, stock of trading to support this great farming stock.
+    Perhaps it is not possible.
+
+
+{{< s v="60" >}} The statute of Edward 6th banned any middleman from coming between the grower and the consumer.
+
+It tried to annihilate a trade which, when freely exercised, is the best palliative and preventative of a dearth.
+
+
+{{< s v="61" >}} This law was softened by several subsequent statutes.
+
+They permitted the engrossing of wheat when the wheat prices should not exceed 240, 288, 384, and 480 pence the quarter.
+Finally, the 15th of Charles 2nd Chapter 7 declared the engrossing or buying of wheat for re-sale lawful to all, except to forestallers, as long as wheat prices did not exceed 576 pence the quarter relative to other grains.
+
+    Forestallers sold wheat again in the same market within three months.
+    This statute restored all the inland wheat dealer's freedom.
+
+The statute of the 12th of George 3rd repeals almost all the other ancient laws against engrossers and forestallers.
+    It does not repeal the restrictions of the 15th of Charles 2nd Chapter 7, which are still in force.

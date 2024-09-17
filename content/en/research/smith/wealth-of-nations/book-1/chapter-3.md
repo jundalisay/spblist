@@ -14,31 +14,43 @@ icon: "/avatars/smith.png"
 
 ## Market Size is The Most Important Factor that Leads to the Division of Labour in Society
 
-{{< s v="1" >}} Since the power of exchanging creates the division of labour, the extent of the market must always limit that division. When the market is very small, no one can dedicate himself entirely to one employment because few people will buy his excess produce.
+{{< s v="1" >}} Since the power of exchanging creates the division of labour, the extent of the market must always limit that division. 
+
+When the market is very small, no one can dedicate himself entirely to one employment because few people will buy his excess produce.
+
 
 {{< s v="2" >}} There are some industries possible only in a big town.
 
 A porter can find only find work in a big town.
+
 In very small villages with scattered houses in the Highlands of Scotland, every farmer must be butcher, baker and brewer for his own family.
+
 There are rarely smiths, carpenters, or masons within less than 20 miles.
+
 There are scattered families that live 8-10 miles apart.
 
 They must learn those works themselves, which in more populous countries, they would simply call in the assistance of those workers.
+
 Almost everywhere, rural workers often do all the kinds of jobs that use the same materials.
 
 A rural carpenter deals in everything made of wood.
 He is also a joiner, a cabinet maker, and even a carver in wood, as well as a wheelwright, a ploughwright, a cart and wagon maker.
+
 A rural smith deals in everything made of iron and has more varied jobs.
 It is impossible to find a nailer in the remote parts of the Highlands of Scotland.
 Such a nailer, producing 1,000 nails a day for 300 working days in a year, can make 300,000 nails in the year.
+
 But it would be impossible for him to dispose of 1,000 nails in a year.
+
 
 {{< s v="3" >}} Transportation by water opens up industry to more markets than transportation by land.
 
 Industries along the sea coast and rivers naturally subdivide and improve itself faster than the inland parts of the countryside.
 A broad-wheeled wagon run by two men with eight horses can carry 4 tons between London and Edinburgh in six weeks.
 A ship navigated by six men sailing between London and Leith can carry 200 tons in the same length of time.
+
 Six men on a ship can carry the same quantity as 50 wagons drawn by 400 horses led by 100 men between London and Edinburgh.
+
 Those 200 tons of goods carried by the cheapest land transportation must pay for three weeks' worth of maintenance of those= 
 - 400 horses,
 - 100 men, and
@@ -58,6 +70,7 @@ What goods could bear the cost of land transportation between London and Calcutt
 How safely could they be transported through so many barbarous territories?
 
 Those two cities currently have a very considerable trade with each other and encourage each other's industry.
+
 
 {{< s v="4" >}} The advantages of water transportation led to the faster and earlier development of the areas near the water compared to those of the more inland parts of the countryside.
 
@@ -97,6 +110,7 @@ Its Nile river breaks itself into many different canals.
 The Ganges and other great rivers in Bengal form many navigable canals, in the same way as the Nile does in Egypt.
 
 Eastern China also has several great rivers which allow an inland navigation much more extensive than the Nile or the Ganges put together.
+
 The ancient Egyptians, Indians, and Chinese derived their wealth from inland commerce and did not encourage foreign commerce.
 
 
@@ -120,7 +134,7 @@ The great inlets of the world are the following=
 - the Gulf of Mannar in India, and
 - the Gulf of Thailand.
 
-These in inlets carry commerce into the interior parts of Asia.
+These inlets carry commerce into the interior parts of Asia.
 
 No such inlets exist in Africa. 
 - The great African rivers are too far from each other to create any considerable inland navigation.

@@ -19,11 +19,21 @@ Tearing pain in the diseased region, a very intolerant temperament, hyper-sensit
 
 Cancer is a disease of the whole body as well as a Tridośaja disease (i.e. involving disturbances of váyu, pitta and kapha). 
 
-This disease is a combined effect of many different factors. It is ordinarily observed that persons who suffer from constipation as a result of violating the health rules, and who likewise are lazy, lack self-restraint, sleep during the day and keep late nights, are most likely to be attacked by cancer.
+This disease is a combined effect of many different factors. 
 
-When due to constipation, the blood and the muscle-fibre become worn out by the contaminated digestive fluids of the body and the contaminated air produced by them, cancer sets in. Parts of the internal organs of people who are extremely self-indulgent become weak. 
+The people most likely to be attacked by cancer are those who:
+- suffer from constipation from violating the health rules
+- are lazy, lack self-restraint,
+- sleep during the day and keep late nights
 
-As a result of the attrition of shukra, their body loses its vitality. When such people eat too large a quantity of non-vegetarian food, their blood turns acidic and the disease gradually breaks out in the weaker parts of their bodies.
+
+Constipation causes the blood and the muscle-fibre become worn out by the contaminated digestive fluids of the body and the contaminated air produced by them. This lets cancer set in.
+
+Parts of the internal organs of people who are extremely self-indulgent become weak. 
+
+As a result of the attrition of shukra, their body loses its vitality. 
+
+When such people eat too large a quantity of non-vegetarian food, their blood turns acidic and the disease gradually breaks out in the weaker parts of their bodies.
 
 With those people who shun physical labour but take acidic food, chillies, or intoxicants and especially tobacco and similar things – there is every possibility that the disease will attack.
 

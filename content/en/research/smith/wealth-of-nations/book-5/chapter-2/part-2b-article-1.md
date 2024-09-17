@@ -132,7 +132,7 @@ This hurtful practice can be discouraged by rendering the tax on such fees much 
 
 These prescriptions are generally caused by the landlord's ill-founded conceit of his own superior knowledge.
 
-It should always be considered as an additional rent in service instead of a rent in money. To discourage this practice, this rent might be= 
+**It should always be considered as an additional rent in service instead of a rent in money**. To discourage this practice, this rent might be:
 - valued high, and
 - taxed higher than common money rents.
 
@@ -152,9 +152,10 @@ This hurtful practice can be discouraged by:
 {{< s v="44" >}} When the landlord chose to occupy his own lands, the rent might be valued according to an equitable arbitration of the farmers and landlords in the neighbourhood.
 
 A moderate abatement of the tax might be granted to him, in the same way as in Venice, provided the rent of the lands he occupied did not exceed a certain sum.
-The landlord should be encouraged to cultivate a part of his own land.
-He has more capital than the tenant.
-With less skill, he can raise more produce.
+
+**The landlord should be encouraged to cultivate a part of his own land.**
+- He has more capital than the tenant.
+- With less skill, he can raise more produce.
 
 He can afford to try experiments.
 - His unsuccessful experiments create only a moderate loss to himself.
