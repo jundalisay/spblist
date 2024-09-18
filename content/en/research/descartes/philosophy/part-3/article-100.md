@@ -16,7 +16,9 @@ icon: "/icons/descartes.png"
 
 <!-- rarefied -->
 
-Sunspots are made up of the earth-aether particles. 
+**Sunspots are made up of the earth-aether particles.**
+
+
 
 These particles adhere somewhat to each other. They form a large mass, very decompressed like the physical air surrounding the Earth.
 
@@ -27,8 +29,10 @@ However, this earth-aether cannot grow indefinitely even if new particles consta
 This is because the continuous agitation of the air-aether globules through and around them can easily dissolve them and reconvert them into the fire-aether.
 
 
-We call all the spots of the Sun and other stars, as well as the physical air surrounding them, as the earth-aether. This is because their parts are less suited for motion than the air-aether globules.
+We call all the spots of the Sun and other stars, as well as the physical air surrounding them, as the earth-aether*. This is because their parts are less suited for motion than the air-aether globules.
 
+
+{{< n n="*The sun's plasma, as solar wind, has protons" >}}
 
 <!-- C. . To this end, the ether and those spots are to be referred to the third element. 
 
@@ -42,7 +46,7 @@ For indeed, we refer all the spots of the Sun and other stars, as well as the en
 
 #### 101. The production and dissolution of spots depend on highly uncertain causes
 
-The production and dissolution of spots depend on such minute and uncertain causes. 
+<!-- The production and dissolution of spots depend on such minute and uncertain causes.  -->
 
 Sometimes none appear on the Sun. In other times, there are so many that they obscure its entire light. 
 
@@ -53,20 +57,23 @@ Many others easily join later. These would not be able to adhere to each other u
 
 #### 102. How the same spot can cover an entire star
 
-When these spots are first generated, they are very soft and rarefied bodies.
+When these spots are first generated, they are very soft and decompressed bodies.
+<!-- rarefied -->
 
 Therefore, they easily break the impact of the fragments of the fire-aether that strike them and attach them to themselves.
 
 The inner surface of these spots are in continuous motion by the solar substance to which it is contiguous. 
 
 <!-- rarefied condensed -->
-Gradually, however, it gets abraded and polished but also condensed and hardened, while the other surface facing the sky remains soft and decompressed.
+Gradually, however, it gets abraded and polished but also compressed and hardened, while the other surface facing the sky remains soft and decompressed.
 
 Therefore, they are not easily dissolved by the Sun’s matter licking their inner surface unless it also flows around and over their edges. 
 
 But instead, they continually grow as long as those edges, protruding above the Sun’s surface, are not compressed by encountering its matter.
 
-Thus, it can happen that the same spot can extend over the entire surface of a star and remains there for a long time before it can be dissolved.
+Thus, it can happen that the same spot can extend over the entire surface of a star and remains there for a long time before it can be dissolved.*
+
+{{< n n="Here, the sunspot evolves to produce coronal holes which can last for a long time over a large area during the solar minimum" >}}
 
 
 #### 103. Why the sun sometimes appears darker and why the apparent sizes of some stars change
@@ -78,7 +85,10 @@ Many stars now appear smaller or larger than they were described by astronomers 
 
 #### 104. Why some fixed stars disappear or suddenly appear
 
-A star can be covered by so many and so dense spots that it entirely escapes our vision.
+A star can be covered by so many and so dense spots* that it entirely escapes our vision.
+
+{{< n n="These are coronal holes instead of sunspots" >}}
+
 
 Thus, the Pleiades were once counted as seven, but now only six are visible. 
 

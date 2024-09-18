@@ -61,7 +61,7 @@ The fire-aether thus enters the `Space S`. It pushes the air-aether globules wit
 - towards the ecliptic `eg` or `MY`
 - especially towards the poles `fd` or `AB`.
 
-Thus, it prevents those coming from `Vortex L`//- from approaching `S` more closely than up to a certain limit, which is marked by letter `B`. The same must be judged for `Vortex K` and all others.
+Thus, it prevents those coming from `Vortex L` from approaching `S` more closely than up to a certain limit, which is marked by letter `B`. The same must be judged for `Vortex K` and all others.
 
 
 #### 71. The reason for this difference

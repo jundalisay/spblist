@@ -35,7 +35,10 @@ It was day of the Apaturia which is called the Registration of Youth wherein:
 Many of us sang the poems of Solon, which at that time had not gone out of fashion. 
 
 One of our tribe, either because he thought so or to please Critias, said that in his judgment Solon was not only the wisest of men, but also the noblest of poets. 
+{{< /r >}}
 
+
+{{< r a="Hemocrates" >}}
 Critias brightened up at hearing this and said, smiling: 
 
 Yes, Amynander. Solon found factions and troubles stirring in his own country when he came home. This forced him to attend to other matters instead of:
@@ -53,9 +56,11 @@ Tell us the whole story. How and from whom Solon heard this veritable tradition?
 {{< /r >}}
 
 
+### The Priest of Sais
+
 In the Egyptian Delta, at the head of which the river Nile divides, there is a district called Sais with a great city also called Sais where King Amasis came from. 
 
-The citizens have a deity for their foundress. called 'Neith'. They assert that she is the same as the Athena of the Hellenes. 
+The citizens have a deity for their foundress called 'Neith'. They assert that she is the same as the Athena of the Hellenes.
 
 They are great lovers of the Athenians, and say that they are in some way related to them. 
 
@@ -69,54 +74,96 @@ He traced the genealogy of their descendants. He tried compute how many years ag
 
 Then one of the very old priests said: 
 
-'O Solon, you Hellenes are never anything but children. There is not an old man among you. In mind, you are all young. There is no old opinion handed down among you by ancient tradition, nor any science which is hoary with age. This is because there have been, and will be again, many destructions of mankind arising out of many causes. The greatest have been brought about by the agencies of fire and water. Other lesser ones were by innumerable other causes. 
+'O Solon, you Hellenes are never anything but children. There is not an old man among you. 
 
-There is a story, which even you have preserved. It says that once upon a time, Paethon, the son of Helios, yoked the steeds in his father’s chariot. But he was unable to drive them in the path of his father. And so he burnt up all that was on the earth, and was himself destroyed by a thunderbolt. 
+In mind, you are all young. There is no old opinion handed down among you by ancient tradition, nor any science which is hoary with age. 
+
+This is because there have been, and will be again, many destructions of mankind arising out of many causes. 
+
+The greatest have been brought about by the agencies of fire and water. Other lesser ones were by innumerable other causes. 
+
+There is a story, which even you have preserved. It says that once upon a time, Paethon, the son of Helios, yoked the steeds in his father’s chariot. But he was unable to drive them in the path of his father. 
+
+And so he burnt up all that was on the earth, and was himself destroyed by a thunderbolt. 
 
 This has the form of a myth. But it really signifies:
 - a fall of the bodies moving in the heavens around the earth, and
-- a great conflagration of things on the earth which recurs after long intervals
+- a great conflagration of things on the earth which recurs after long intervals*
+
+{{< n n="This is the Taurid meteor shower which came from the original body that produced comet Encke." >}}
+
 
 At such times, those who live on the mountains and in dry and lofty places are more liable to destruction than those who dwell by rivers or on the seashore.
 
-From this calamity, the Nile, who is our never-failing saviour, delivers and preserves us.
+From this calamity, the Nile, who is our never-failing saviour, delivers and preserves us.*
+
+{{< n n="The Nile kept them away from drought." >}}
+
 
 When the gods purge the earth with a deluge of water, the survivors in your country are:
-- herdsmen and shepherds who dwell on the mountains, but those who, like you,
+- herdsmen and shepherds who dwell on the mountains
 - people who live in cities that are carried by the rivers into the sea. 
+
+<!-- , but those who, like you, -->
 
 Whereas in Egypt, the water never comes down from the sky since it always comes up from below. This is why the traditions preserved here are the most ancient. 
 
 Wherever the extremity of winter frost or of summer sun does not prevent, mankind exist, sometimes in greater, sometimes in lesser numbers.
 
-Whatever happened either in your country or in ours, or in any other region of which we are informed—if there were any actions noble or great or in any other way remarkable, they have all been written down by us of old, and are preserved in our temples. 
+Since ancient times, we have written down anything remarkable that has happened in the places that we know. 
+- These are preserved in our temples. 
 
-Whereas just when you and other nations are beginning to be provided with letters and the other requisites of civilized life, after the usual interval, the stream from heaven, like a pestilence, comes pouring down, and leaves only those of you who are destitute of letters and education. 
+Whereas just when you and other nations are beginning to learn letters and the other requisites of civilized life, after the usual timespan, [the comets] come pouring down. 
+- Only the people who are destitute of letters and education survive. 
 
-And so you have to begin all over again like children, and know nothing of what happened in ancient times, either among us or among yourselves. 
+<!-- This leaves only the people 
+
+ stream from heaven, like a pestilence, 
+
+ , and leaves only those of you .  -->
+
+And so you have to begin all over again like children, know nothing of what happened in ancient times, either among us or among yourselves.
 
 Those genealogies that you mentioned are no better than the tales of children because:
 
-1. You remember a single deluge only. But there were many previous ones
-2. You do not know that there formerly dwelt in your land the fairest and noblest race of men which ever lived, and that you and your whole city are descended from a small seed or remnant of them which survived. 
+1. You remember a single deluge only. 
+
+**But there were many previous ones** *
+
+{{< n n="According to the Essassani, this meteor shower hit the earth twice a year for 20 years until the final main comet hit. This allowed the Atlanteans to emigrate to try to survive. Some of them went to Europe, Africa, the Americas, and Egypt. The Egyptians (and the Jews via Noah) are therefore actually Atlantean survivors" >}}
+
+
+2. You do not know that there formerly dwelt in your land the fairest and noblest race of men which ever lived*, and that you and your whole city are descended from a small seed or remnant of them which survived. 
+
+{{< n n="These are the Atlanteans that moved to Crete long before the Deluge" >}}
+
 
 This was unknown to you because, for many generations, the survivors of that destruction died, leaving no written word. 
 
-There was a time, before the greatest deluge, when the city which now is Athens was first in war and in every way the best governed of all cities. It was said to have performed the noblest deeds and to have had the fairest constitution of any of which tradition tells, under the face of heaven. 
+There was a time, before the greatest deluge, when the city which now is Athens was the best in war and the best governed of all cities in every way. 
+
+It performed the noblest deeds and had the fairest constitution.
+
+ <!-- of any of which tradition tells, under the face of heaven.  -->
 
 Solon marvelled at his words, He earnestly requested the priests to inform him exactly and in order about these former citizens. 
 
 <!-- You are welcome to hear about them, Solon, said the priest, both for your own sake and for that of your city, and above all, for the sake of the goddess who is the common patron and parent and educator of both our cities.  -->
 
-A goddess founded your city Athens 1,000 years before ours to repulse the invasion from Atlantis receiving from the Earth and Hephaestus the seed of your race.
+A goddess* founded your city Athens 1,000 years before ours to repulse the invasion from Atlantis receiving from the Earth and Hephaestus the seed of your race.
+
+
+{{< n n="Since Enki was allied with the Atlanteans, it means Athena is an Annunaki allied with Enlil." >}}
 
  <!-- (Observe that Plato gives the same date (9000 years ago) for  -->
 
-Afterwards, she founded ours, of which the constitution is recorded in our sacred registers to be 8000 years old. 
+Afterwards, she founded ours, of which the constitution is recorded in our sacred registers to be 8,000 years old. 
 
 <!-- As touching your citizens of 9000 years ago, I will briefly inform you of their laws and of their most famous action; the exact particulars of the whole we will hereafter go through at our leisure in the sacred registers themselves.  -->
 
-If you compare these very laws with ours you will find that many of ours are the counterpart of yours as they were in the olden times. Our society is made up of:
+If you compare these very laws with ours you will find that many of ours are the counterpart of yours as they were in the olden times. 
+
+Our society is made up of:
 - a caste of priests separated from all the others [intellectuals and researchers]
 - artificers, who ply their several crafts by themselves and do not intermix [merchants and businessmen]
 - shepherds, hunters, husbandmen [workers]
@@ -126,24 +173,32 @@ If you compare these very laws with ours you will find that many of ours are the
 
 <!-- Then as to wisdom, do you observe how  -->
 
-Our law from the very start studied the whole order of things. It extended even to prophecy and medicine which gives health, out of these divine elements deriving what was needful for human life, and adding every sort of knowledge which was akin to them. 
+Our law from the very start studied the whole order of things. 
 
-All this order and arrangement the goddess first imparted to you when establishing your city. She chose the spot of earth in which you were born because she saw that the happy temperament of the seasons in that land would produce the wisest of men. 
+It extended even to prophecy and medicine which gives health, out of these divine elements deriving what was needful for human life, and adding every sort of knowledge which was akin to them. 
 
-The goddess was a lover both of war and of wisdom. She selected and first of all settled that spot which was the most likely to produce men likest herself. 
+All this order and arrangement the goddess first imparted to you when establishing your city.
 
-There you dwelt, having such laws as these and still better ones, and excelled all mankind in all virtue, as became the children and disciples of the gods.
+She chose that location because she saw that the happy temperament of the seasons in that land would produce the wisest of men. 
 
-Many great and wonderful deeds are recorded of your state in our histories. But one of them exceeds all the rest in greatness and valour. 
+The goddess was a lover both of war and of wisdom. 
+
+She selected and first of all settled that spot which was the most likely to produce men likest herself.
+
+There you dwelt, having such laws as these and still better ones. You excelled all mankind in all virtue, as became the children and disciples of the gods.
+
+Many great and wonderful deeds are recorded of your state in our histories. But one of them exceeds all the rest in greatness and valour.
 
 
 ## The Atlanteans
 
 These histories tell of a mighty power which, unprovoked, made an expedition against the whole of Europe and Asia, and to which your city put an end. 
-- This power came forth out of the Atlantic Ocean, for in those days the Atlantic was navigable.
+- This power came forth out of the Atlantic Ocean, for in those days the Atlantic was navigable.*
 - There was an island in front of the straits which you call the Pillars of Heracles.
 - That island was larger than Libya and Asia put together. It was the way to other islands.
   - From those islands, you could pass to the whole of the opposite continent which surrounded the true ocean [Pacific Ocean].
+
+{{< n n="The sea level was lower because the North Atlantic ice was still large" >}}
 
 This sea within the Straits of Heracles is only a harbour, having a narrow entrance [Mediterranean Sea].
 
@@ -151,9 +206,12 @@ But that other is a real sea [Atlantic Ocean].
 - The surrounding land may be most truly called a boundless continent [Americas]. 
 
 In this island of Atlantis, there was a great and wonderful empire which ruled over the whole island and several others, and over parts of the continent. 
-- They ruled over parts of Libya <!-- within the columns of Heracles --> as far as Egypt, and of Europe as far as Tyrrhenia. 
+- They ruled over parts of Libya <!-- within the columns of Heracles --> as far as Egypt, and of Europe as far as Tyrrhenia.
 
-This vast power, gathered into one, and endeavoured to subdue at one blow Egypt, Greece, and the whole of the region within the straits. 
+This vast power, gathered into one, and endeavoured to subdue at one blow Egypt, Greece, and the whole of the region within the straits.*
+
+{{< n n="This was the corruption of the Atlanteans which angered Enlil. The corruption was likely from Enki." >}}
+
 
 Then, Greece shone forth in virtue and strength. She was pre-eminent in courage and military skill, and was the leader of the Hellenes.
 

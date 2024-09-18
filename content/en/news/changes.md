@@ -24,6 +24,8 @@ Aug 12 | Overhauled qosts into mosts after validating timespace, spacetime, and 
 Aug 20 | Abandoned the current version of the Kepler Tensor to better fit it with the aetherspace
 Aug 26 | Rearranged the 4 Laws of Supereconomics yet again after matching it with the 4 Laws of Thermodynamics AND the Law of Social Cycles
 Sep 1 | Started correcting the 3rd Element of Descartes as nucleons instead of Strong Force
+Sep 17 | Changed some Cartesian "sunpots" (during solar maximum) into "coronal holes" (during solar minimum) 
+
 
 
 ### 2023

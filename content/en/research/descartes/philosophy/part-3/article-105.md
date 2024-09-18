@@ -11,24 +11,29 @@ icon: "/icons/descartes.png"
 ---
 
 
-{{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
+{{< n n="We replace 'striated particles' with 'virtual photons', and 'spot' with 'coronal hole' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 105. There are many channels in the spots through which virtual photons freely pass
+#### 105. There are many channels in coronal holes through which virtual photons freely pass
 
-Let Star `I` be entirely covered by the spot `defg`.
+Let Star `I` be entirely covered by the coronal hole `defg`.
 
 {{< i s="/graphics/physics/sunspot.jpg" a="Sunspot" >}}
 
 It is not so dense. This allows it to have many pores or channels through which all the fire-aether, including those virtual photons, can pass. 
 
-The spot was very soft and decompressed at the beginning of its formation. This is why such pores were easily formed in it.
+The coronal hole was very soft and decompressed at the beginning of its formation. This is why such pores were easily formed in it.
 
 As it became denser, these virtual photons and others of the fire-aether continually passed through them, preventing them from being completely closed.
 
 They were only narrowed to the point that no particles thicker than the virtual photons could pass through.
 
-The channels that admit virtual photons coming from one pole are not suitable for those particles if they try to return, nor for those coming from the other pole, which are twisted in the opposite direction.
+The channels that admit virtual photons coming from one pole cannot admit:
+- the exited particles if they try to return 
+- the particles coming from the other pole
+  - This is because they are twisted in the opposite direction.
+
+  <!-- are not suitable for those particles if they try to return, nor for those coming from the other pole, which are twisted in the opposite direction. -->
 
 
 #### 106. The arrangement of these channels and why the virtual photons cannot regress through them
@@ -43,7 +48,7 @@ They form channels in the spot `defg` along straight lines parallel to the axis 
 
 Thus, the virtual photons coming from `A` can easily enter through `efg` and exit through `edg`. But they can never return through `edg` or exit through `efg`.
 
-The entire spot consists only of the smallest fragments of the fire-aether. These adhere to each other, forming small branches.
+The entire coronal hole consists only of the smallest fragments of the fire-aether. These adhere to each other, forming small branches.
 
 The virtual photons coming from `f` thus had to bend the ends of these branches towards `d` in the channels. 
 
@@ -63,20 +68,25 @@ Therefore, the channels that are open to one set are not open to those coming fr
 
 Thus, the fire-aether can reach `Star I` through these channels from both poles. 
 
-Its virtual photons are thicker than the others. Therefore, they have more force to move in straight lines. And so, they usually do not remain in it. 
+Its virtual photons are thicker than the others. Therefore, they have more force to move in straight lines. And so, they usually do not remain in the star. 
+<!-- it -->
 
 Entering through `f`, they immediately exit through `d`. There they encounter:
 - the air-aether globules or
 - the fire-aether coming from `B`
 
 <!-- earth-aether instead of ether -->
-They then cannot proceed further in straight lines. Instead, they are reflected in all directions through the surrounding earth-aether `xx`, returning towards the hemisphere `efg`. 
+They then cannot proceed further in straight lines. Instead, they are reflected in all directions through the surrounding earth-aether [plasma] `xx`, returning towards the hemisphere `efg`. 
 
-As many as can enter the channels of the spot or spots covering the star pass through them again from `f` to `d`. 
+As many as can enter the channels of the coronal holes covering the star pass through them again from `f` to `d`. 
 
-By continuously passing through the middle of the star and returning through the surrounding earth-aether, they form a sort of vortex there.
+By continuously passing through the middle of the star and returning through the surrounding earth-aether [plasma], they form a sort of vortex there.
 
-Those that cannot be captured by these channels are either dissolved by the impact of the earth-aether particles or are forced to go into the sky through the nearby parts of the ecliptic `QH`.
+Those that cannot be captured by these channels are either:
+- dissolved by the impact of the earth-aether [plasma] particles or
+- forced to go into the sky through the nearby parts of the ecliptic `QH`.*
+
+{{< n n="This becomes solar wind" >}}
 
 The virtual photons that reach the surface of `Star I` at every moment are not so numerous. 
 

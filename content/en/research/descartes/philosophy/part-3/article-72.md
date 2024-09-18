@@ -39,9 +39,9 @@ These spirals, when they reach `d` and `f`, reflect from there in both direction
 
 The space `defg` is larger than the passages through which the fire-aether enters or exits.
 - This is why some fire-aether always remains there.
-- They form a very fluid body that perpetually rotates around the axis `fd`.*
+- They form a very fluid body that perpetually rotates around the axis `fd`.
 
-{{< n n="This is the magnetic field of the star" >}}
+<!-- n n="This is the magnetic field of the star" -->
 
 
 #### 73. Various inequalities in the position of the Sun's body.
@@ -56,7 +56,7 @@ The vortices are all unequal.
 
 <!-- ; nor that other vortices, touching the first heaven towards its ecliptic, view a specific circle of it that could be considered the ecliptic in the same way, and admit the matter exiting from S through all parts of that circle and nearby parts . -->
 
-These inequalities contribute to variations in the position, motion, and quantity of the fire-aether in the sun. 
+**These inequalities contribute to variations in the position, motion, and quantity of the fire-aether in the sun.**
 - But they do not change the sun's shape. 
 
  <!-- in the shape of the Sun can be inferred from this, only in its .  -->

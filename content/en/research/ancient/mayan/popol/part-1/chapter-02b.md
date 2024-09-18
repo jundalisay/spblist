@@ -102,9 +102,12 @@ Instantly, the figures were made of wood. They looked like men, talked like men,
 
 They existed and multiplied.
 
-They had daughters, they had sons, these wooden figures. But they did not have souls, nor minds, they did not remember their Creator, their Maker. They walked on all fours, aimlessly*.
+They had daughters, they had sons, these wooden figures.*
 
-{{< n n="This was the Homo Erectus species" >}}
+{{< n n="These were the Atlanteans" >}}
+
+But they did not have souls, nor minds, they did not remember their Creator, their Maker. They walked on all fours, aimlessly*.
+
 
 They no longer remembered the Heart of Heaven and therefore they fell out of favor.
 

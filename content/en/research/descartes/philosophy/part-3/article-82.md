@@ -20,7 +20,9 @@ Beyond this limit, the outer ones move faster than the inner ones.
 In terms of size, they are all equal.
 
 <!-- sky -->
-For example, in the first gravitational territory, the smallest air-aether particles are near the surface of the Sun at `defg` and slightly further away [white, green, and purple, 'field' lines].
+For example, in the first gravitational territory, the smallest air-aether particles are near the surface of the Sun at `defg` and slightly further away.
+
+ <!-- [white, green, and purple, 'field' lines]. -->
 
 {{< i s="/graphics/physics/sun.jpg" a="Sun poles" c="We update Descartes' drawing with current model of the sun's magnetic field" >}}
 

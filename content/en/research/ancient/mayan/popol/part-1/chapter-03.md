@@ -8,11 +8,14 @@ image: "/covers/popol.jpg"
 ---
 
 
-Immediately, the wooden figures were annihilated, destroyed, broken up, and killed.
+Immediately, the wooden figures were annihilated, destroyed, broken up, and killed.*
+
+{{< n n="These were the Atlanteans. They were killed because they became too advanced as humans" >}}
+
 
 A flood was brought about by the Heart of Heaven. A great flood was formed which fell on the heads of the wooden creatures.
 
-Of tzité, the flesh of man was made, but when woman was fashioned by the Creator and the Maker, her flesh was made of rushes. 
+Of tzité, the flesh of man was made, but when woman was fashioned by the Creator and the Maker, her flesh was made of rushes.
 
 These were the materials the Creator and the Maker wanted to use in making them.
 
@@ -20,13 +23,11 @@ But those that they had made, that they had created, did not think, did not spea
 
 This is why they were killed, they were deluged. 
 
-A heavy resin fell from the sky. The one called Xecotcovach came and gouged out their eyes.
-
-Camalotz came and cut off their heads. 
-
-Cotzbalam came and devoured their flesh. 
-
-Tucumbalam came, too, and broke and mangled their bones and their nerves, and ground and crumbled their bones.
+A heavy resin fell from the sky. 
+- Xecotcovach came and gouged out their eyes.
+- Camalotz came and cut off their heads. 
+- Cotzbalam came and devoured their flesh. 
+- Tucumbalam came, too, and broke and mangled their bones and their nerves, and ground and crumbled their bones.
 
 This was to punish them because they had not thought of their mother, nor their father, the Heart of Heaven, called Huracán.
 
@@ -61,9 +62,13 @@ Then those dogs destroyed their faces.
 
 And at the same time, their griddles and pots spoke: 
 
-"Pain and suffering you have caused us. Our mouths and our faces were blackened with soot; we were always put on the fire and you burned us as though we felt no pain. Now you shall feel it, we shall burn you," 
 
-said their pots, and they all destroyed their [the wooden men's] faces. 
+{{< q a="Pots" >}}
+Pain and suffering you have caused us. Our mouths and our faces were blackened with soot; we were always put on the fire and you burned us as though we felt no pain. Now you shall feel it, we shall burn you," 
+{{< /q >}}
+
+
+The pots then destroyed their [the wooden men's] faces. 
 
 The stones of the hearth, which were heaped together, hurled themselves straight from the fire against their heads causing them pain.
 
@@ -80,5 +85,3 @@ So was the ruin of the men who had been created and formed, the men made to be d
 Their descendants are the monkeys which now live in the forests. These are all that remain of them because their flesh was made only of wood by the Creator and the Maker.
 
 Therefore, the monkey looks like man, and is an example of a generation of men which were created and made but were only wooden figures.
-
-

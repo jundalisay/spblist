@@ -10,6 +10,9 @@ image: "/photos/medieval/lapu.jpg"
 
 Our **Annunaki Hypothesis** states that humans were created by the Annunaki in order to help them [mine gold](/research/ancient/sumerian/enki/part-04/).
 
+The Annunaki are an alien species from Cygnus constellation. Their planet was heating up and like ours and so they needed atomized gold in their stratosphere to keep it cool. 
+
+
 {{< q a="Enki" c="Enki and Ninhursaja, Part 3" >}}
 Let the magilum boats of Meluḫa transport gold and silver and bring them to Nibru for Enlil, king of all the lands.
 {{< /q >}}
@@ -43,8 +46,20 @@ They only were made and formed. They had no mother and no father. They were not 
 
 <!-- The problem was that  -->
 
+### The Deluge
+
+The most advanced humans were the Atlanteans who were split between good and bad. 
+
+Enlil, an Annunaki leader, wanted to destroy the humans and so the Annunaki used the weapons of Tiamat to draw in the bigger version of comet Encke which currently creates the Taurid meteor showers.
+
+According to the Essassani, this meteor shower hit the earth twice a year for 20 years. 
+
+The Atlanteans were mentioned as the Atra-Hasis in The Epic of Gilgamesh.
+
 
 We can look at the postive aspects of humans as a genetic engineering product. For example, instead of focusing on the human lust for gold and material objects, we can focus on the ability of humans to follow instructions and work for the benefit of others. 
+
+
 
 
 
