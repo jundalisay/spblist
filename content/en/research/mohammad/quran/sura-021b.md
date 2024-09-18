@@ -73,11 +73,13 @@ to Us. -->
 
 
 {{< s v="76" >}} We delivered Noah and his family from the great disaster.
-- 77. We supported him against the people who rejected Our signs. They were an evil people, so We drowned them all.
+
+77. We supported him against the people who rejected Our signs. They were an evil people, so We drowned them all.
 
 78. And David and Solomon, when they gave judgment in the case of the field, when some people’s sheep wandered therein by night; and We were witnesses to their judgment.
 
 79. We made Solomon understand it, and to each We gave wisdom and knowledge.
+
 <!-- And We subjected the mountains along with
 David to sing Our praises, and the birds as
 well—surely We did. -->
@@ -98,7 +100,9 @@ We kept them restrained. -->
 85-86. We admitted Ishmael, Enoch, and Ezekiel into Our mercy. They were steadfast and righteous.
 
 87. Jonah stormed out in fury, thinking We had no power over him. But then He cried out in the darkness, “There is no god but You! Glory to You! I was one of the wrongdoers!”
+
 88. So We answered him, and saved him from the affliction. Thus We save the faithful.
+
 89. Zechariah, when he called out to his Lord, “My Lord, do not leave me alone, even though you are the Best of heirs.”
 
 90. So We answered him, and gave him John.

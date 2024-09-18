@@ -91,7 +91,7 @@ Will you not reconsider? Why should I fear those you associate with Him, and you
 
 <sup>84-89</sup> We gave him Isaac and Jacob—each of them We guided.
 
-We guided Noah previously; and from his descendants David, and Solomon, and Job, and Joseph, and Moses, and Aaron. Thus We reward the righteous.
+We guided Noah previously. From his descendants David, and Solomon, and Job, and Joseph, and Moses, and Aaron. Thus We reward the righteous.
 
 Zechariah, John, Jesus, and Elias were upright.
 
@@ -109,12 +109,14 @@ We gave the Book, wisdom, and prophethood to them. If they reject them, We have 
 
 The righteous are in no way accountable for them; it is only a reminder, that they may be careful.
 
-90. Allah has guided them, so follow their guidance. 
+<sup>90.</sup> Allah has guided them, so follow their guidance. 
 
 Say, “I ask of you no compensation for it; it is just a reminder for all mankind.”
 
 
-91. They do not value Allah as He should be valued, when they say, “Allah did not reveal anything to any human being.” Say, “Who revealed the Scripture which Moses brought—a light and guidance for humanity?” You put it on scrolls, displaying them, yet concealing much.
+<sup>91.</sup> They do not value Allah as He should be valued, when they say, “Allah did not reveal anything to any human being.”
+
+Say, “Who revealed the Scripture which Moses brought—a light and guidance for humanity?” You put it on scrolls, displaying them, yet concealing much.
 
 You were taught what you did not know—neither you, nor your ancestors. Say, “Allah;” then leave them toying away in their speculation.
 

@@ -545,24 +545,16 @@ foundation"). He was "the heroic son of Enlil who went forth with net and rays o
 light" to battle for his father; "the avenging son … who launched bolts of light."
 (Fig. 49) His spouse BA.U was also a nurse or a doctor; her epithet was "lady who
 the dead brings back to life."
-Illustration:
-Who launched Bolts of Light
-The ancient portraits of Ninurta showed him holding a unique weapon—no
-doubt the very one that could shoot "bolts of light." The ancient texts hailed him
-as a mighty hunter, a fighting god renowned for his martial abilities. But his
-greatest heroic fight was not in behalf of his father but for his own sake. It was a
-wide-ranging battle with an evil god named ZU ("wise"), and it involved no less a
-prize than the leadership of the gods on Earth; for Zu had illegally captured the
-insignia and objects Enlil had held as Chief of the Gods.
-The texts describing these events are broken at the beginning, and the story
-becomes legible only from the point when Zu arrives at the E-Kur, the temple of
-Enlil. He is apparently known, and of some rank, for Enlil welcomes him,
-"entrusting to him the guarding of the entrance to his shrine." But the "evil Zu"
-was to repay trust with betrayal, for it was "the removal of the Enlilship"—the
+
+The ancient portraits of Ninurta showed him holding a unique weapon—no doubt the very one that could shoot "bolts of light." The ancient texts hailed him as a mighty hunter, a fighting god renowned for his martial abilities. 
+
+But his greatest heroic fight was not in behalf of his father but for his own sake. It was a wide-ranging battle with an evil god named ZU ("wise"), and it involved no less a prize than the leadership of the gods on Earth; for Zu had illegally captured the insignia and objects Enlil had held as Chief of the Gods.
+
+The texts describing these events are broken at the beginning, and the story becomes legible only from the point when Zu arrives at the E-Kur, the temple of Enlil. He is apparently known, and of some rank, for Enlil welcomes him, "entrusting to him the guarding of the entrance to his shrine." But the "evil Zu" was to repay trust with betrayal, for it was "the removal of the Enlilship"—the
 seizing of the divine powers—that "he conceived in his heart."
-To do so, Zu had to take possession of certain objects, including the magical
-Tablet of Destinies. The wily Zu seized his opportunity when Enlil undressed and
-went into the pool for his daily swim, leaving his paraphernalia unattended.
+
+To do so, Zu had to take possession of certain objects, including the magical Tablet of Destinies. The wily Zu seized his opportunity when Enlil undressed and went into the pool for his daily swim, leaving his paraphernalia unattended.
+
 At the entrance of the sanctuary,
 which he had been viewing,
 Zu awaits the start of day.
@@ -576,8 +568,11 @@ faraway hideaway, the consequences of his bold act were beginning to take effect
 Suspended were the Divine Formulas;
 Stillness spread all over; silence prevailed…
 The Sanctuary's brilliance was taken off.
+
 "Father Enlil was speechless." "The gods of the land gathered one by one at the
-news." The matter was so grave that even Anu was informed at his Heavenly
+news." 
+
+The matter was so grave that even Anu was informed at his Heavenly
 Abode. He reviewed the situation and concluded that Zu must be apprehended so
 that the "formulas" could be restored. Turning "to the gods, his children," Anu
 asked, "Which of the gods will smite Zu? His name shall be greatest of all!"
@@ -585,6 +580,7 @@ Several gods known for their valor were called in. But they all pointed out that
 having taken the Tablet of Destinies, Zu now possessed the same powers as Enlil,
 so that "he who opposes him becomes like clay." At this point, Ea had a great idea:
 Why not call upon Ninurta to take up the hopeless fight?
+
 The assembled gods could not have missed Ea's ingenious mischief. Clearly, the
 chances of the succession falling to his own offspring stood to increase if Zu were
 defeated; likewise, he could benefit if Ninurta were killed in the process. To the
@@ -594,6 +590,7 @@ Enlil but Ninurta, too, of the Enlilship. "With shrieks of pain I gave birth," s
 shouted, and it was srhe who "made certain for my brother and for Anu" the
 continued "Kingship of Heaven." So that her pains not be in vain, she instructed
 Ninurta to go out and fight to win:
+
 Launch thy offensive … capture the fugitive Zu…
 Let thy terrifying offensive rage against him…
 Slit his throat! Vanquish Zu!…

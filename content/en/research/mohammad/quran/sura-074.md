@@ -13,17 +13,19 @@ description: "This is the Book in which there is no doubt, a guide for the right
 Purify your clothes.{{< s v="5" >}}  And abandon abominations.
 
 6. And show no favor seeking gain.
+
 7. And be constant for your Lord.
+
 8. When{{< s v="9" >}}  That{{< s v="10" >}}  For
 the Trumpet is blown.
 Day will be a difficult day.
 the disbelievers—not easy.{{< s v="11" >}}  Leave
 Me to him whom I created alone.
+
 12. And gave him vast wealth.
 13. And children as witnesses.
 14. And smoothed things for him.
-15. Then
-he wants Me to add yet more!
+15. Then he wants Me to add yet more!
 By no means! He was stubborn towards
 Our revelations.
 16.
@@ -43,32 +45,36 @@ he turned back and was proud.
 the past.
 25. This
 225
-is nothing but the word of a mortal.”75. RESURRECTION (al-Qiyamah)
+is nothing but the word of a mortal.”
+
+
+
 26. I
 will roast him in Saqar.
-27. But
-what will explain to you what Saqar is?
+
+27. But what will explain to you what Saqar is?
+
 28. It neither leaves, nor spares.
+
 29. It scorches the flesh.
 it are Nineteen.
-have appointed only angels to be war-
-dens of the Fire, and caused their number to
-be a stumbling block for those who disbe-
-lieve; so that those given the Scripture may
-attain certainty; and those who believe may
-increase in faith; and those given the Scrip-
-ture and the believers may not doubt; and
-those in whose hearts is sickness and the un-
-believers may say, “What did Allah intend by
-this parable?” Thus Allah leads astray whom
-He wills, and guides whom He wills. None
-knows the soldiers of your Lord except He.
-This is nothing but a reminder for the mor-
-tals.
+have appointed only angels to be wardens of the Fire, and caused their number to
+be a stumbling block for those who disbelieve; so that those given the Scripture may
+attain certainty; and those who believe may increase in faith; and those given the Scripture and the believers may not doubt; 
+
+Those in whose hearts is sickness and the unbelievers may say, “What did Allah intend by
+this parable?” Thus Allah leads astray whom He wills, and guides whom He wills. None
+knows the soldiers of your Lord except He. 
+
+This is nothing but a reminder for the mortals.
 31. We
+
 By the moon.
+
 33. And the night as it retreats.
+
 34. And the morning as it lights up.
+
 35. It
 warning to the mortals.
 To whomever among you wishes to ad-
@@ -84,19 +90,24 @@ drove you into Saqar?”
 prayed.
 44. Nor
 45. And did we feed the destitute.
-we used to indulge with those who in-
+we used to indulge with those who indulge
+
 46. And we used to deny the Day of Judgment.
-dulge.
+
 47. Until the Inevitable came upon us.”
+
 48. But the intercession of intercessors will not help them.
 
 49. Why are they turning away from the Reminder as though they were panicked donkeys fleeing from a lion?
 
 Yet every one of them desires to be given scrolls unrolled.
+
 53. No indeed! But they do not fear the Hereafter.
 
 54. Nevertheless, it is a reminder.
+
 55. So whoever wills, shall remember it.
-But they will not remember, unless Allah
+
+<!-- But they will not remember, unless Allah
 wills. He is the Source of Righteousness, and
-the Source of Forgiveness.
+the Source of Forgiveness. -->

@@ -172,26 +172,29 @@ Could it be that the Nefilim, observing the climatic changes and the instability
 
 Ancient texts show that it was so.
 
-The most remarkable of these is a text of some thirty lines inscribed in
+<!-- The most remarkable of these is a text of some thirty lines inscribed in
 miniature cuneiform writing on both sides of a clay tablet less than one inch long.
 It was unearthed at Ashur, but the profusion of Sumerian words in the Akkadian
 text leaves no doubt as to its Sumerian origin. Dr. Erich Ebeling determined that it
 was a hymn recited in the House of the Dead, and he therefore included the text in
 his masterwork (Tod und Leben) on death and resurrection in ancient
-Mesopotamia.
+Mesopotamia. -->
 
-On close examination, however, we find that the composition "called on the names" of the Celestial Lord, the Twelfth Planet. It elaborates the meaning of the various epithets by relating them to the passage of the planet at the site of the battle with Tiamat—a passage that causes the Deluge!
+<!-- On close examination, however, we find that the composition "called on the names" of the Celestial Lord, the Twelfth Planet.  -->
 
-The text begins by announcing that, for all its might and size, the planet ("the
-hero") nevertheless orbits the Sun. The Deluge was the "weapon" of this planet.
+A tablet elaborates the meaning of the various epithets by relating them to the passage of the planet at the site of the battle with Tiamat—a passage that causes the Deluge!
+
+The text begins by announcing that, for all its might and size, the planet ("the hero") nevertheless orbits the Sun. The Deluge was the "weapon" of this planet.
 
 His weapon is the Deluge;
 God whose Weapon brings death to the wicked.
 Supreme, Supreme, Anointed ...
 Who like the Sun, the lands crosses;
 The Sun, his god, he frightens.
+
 Calling out the "first name" of the planet—which, unfortunately, is illegible—the
 text describes the passage near Jupiter, toward the site of the battle with Tiamat:
+
 First Name: …
 Who the circular band hammered together;
 Who the Occupier split in two, poured her out.
@@ -200,22 +203,26 @@ Within Tiamat's battle place reposes…
 Whose seed are the sons of Babylon;
 Who by the planet Jupiter cannot be distracted;
 Who by his glow shall create.
-Coming closer, the Twelfth Planet is called SHILIG.LU.DIG ("powerful leader of
-the joyous planets"). It is now nearest to Mars: "By the brilliance of the god [planet]
-Anu god [planet] Lahmu [Mars] is clothed." Then it loosed the Deluge upon the
-Earth:
+
+Coming closer, the Twelfth Planet is called SHILIG.LU.DIG ("powerful leader of the joyous planets"). It is now nearest to Mars: "By the brilliance of the god [planet] Anu god [planet] Lahmu [Mars] is clothed." Then it loosed the Deluge upon the Earth:
+
 This is the name of the Lord
 Who from the second month to the month Addar
 The waters had summoned forth.
 
-The text's elaboration of the two names offers remarkable calendarial information. The Twelfth Planet passed Jupiter and neared Earth "at Akiti time," when the Mesopotamian New Year began. By the second month it was closest to Mars. Then, "from the second month to the month Addar" (the twelfth month), it
-loosed the Deluge upon Earth.
+<!-- The text's elaboration of the two names offers remarkable calendarial information.  -->
 
-This is in perfect harmony with the biblical account, which states that "the fountains of the great deep burst open" on the seventeenth day of the second month. The ark came to rest on Ararat in the seventh month; other dry land was visible in the tenth month; and the Deluge was over in the twelfth month—for it was on "the first day of the first month" of the following year that Noah opened the
-ark's hatch.
+The 12th Planet* passed Jupiter and neared Earth "at Akiti time," when the Mesopotamian New Year began. By the second month it was closest to Mars. Then, "from the second month to the month Addar" (the twelfth month), it loosed the Deluge on Earth.
+
+{{< n n="This was actually comet Encke" >}}
+
+This is in perfect harmony with the biblical account, which states that "the fountains of the great deep burst open" on the seventeenth day of the second month.
+
+The ark came to rest on Ararat in the seventh month; other dry land was visible in the tenth month; and the Deluge was over in the twelfth month—for it was on "the first day of the first month" of the following year that Noah opened the ark's hatch.
 
 Shifting to the second phase of the Deluge, when the waters began to subside,
 the text calls the planet SHUL.PA.KUN.E.
+
 
 Hero, Supervising Lord,
 Who collects together the waters;
@@ -226,13 +233,13 @@ Arrested the…
 …fish, river, river; the flooding rested.
 In the mountainland, on a tree, a bird rested.
 Day which … said.
-In spite of the illegibility of some damaged lines, the parallels with the biblical
-and other Mesopotamian Deluge tales is evident: The flooding had ceased, the ark
-was "arrested" on the twin-peaked mountain; the rivers began to flow again from
-the mountaintops and carry the waters back to the oceans; fish were seen; a bird
+
+
+
+The flooding had ceased, the ark was "arrested" on the twin-peaked mountain; the rivers began to flow again from the mountaintops and carry the waters back to the oceans; fish were seen; a bird
 was sent out from the ark. The ordeal was over.
-The Twelfth Planet had passed its "crossing." It had neared Earth, and it began
-to move away, accompanied by its satellites:
+
+
 When the savant shall call out: "Flooding!"—
 It is the god Nibiru ["Planet of Crossing"];
 It is the Hero, the planet with four heads.
@@ -241,9 +248,11 @@ shall turn back;
 To his resting place he shall lower himself.
 (The receding planet, the text asserts, then recrossed the path of Saturn in the
 month of Ululu, the sixth month of the year.)
+
 The Old Testament frequently refers to the time when the Lord caused Earth to
 be covered by the waters of the deep. The twenty-ninth Psalm describes the
 "calling" as well as the "return" of the "great waters" by the Lord:
+
 Unto the Lord, ye sons of the gods,
 Give glory, acknowledge might…
 The sound of the Lord is upon the waters;
@@ -274,8 +283,10 @@ The Earth was agitated and it quaked.
 [Then] in the waters was thy course,
 Thine paths in the deep waters;
 And thine footsteps were gone, unknown.
+
 Psalm 104, exalting the deeds of the Celestial Lord, recalled the time when the
 oceans overran the continents and were made to go back:
+
 Thou didst fix the Earth in constancy,
 For ever and ever to be unmoved.
 With the oceans, as with garment, thou coveredst it;
@@ -301,6 +312,7 @@ Lord" was the day of the Deluge.
 
 Having landed on Earth, the Nefilim associated the first reigns in the first cities with the zodiacal ages—giving the zodiacs the epithets of the various associated gods. We now find that the text uncovered by Ebeling provided calendarial information not only for men but also for the Nefilim. The
 Deluge, it informs us, occurred in the "Age of the constellation Lion";
+
 Supreme, Supreme, Anointed;
 Lord whose shining crown with terror is laden.
 Supreme planet: a seat he has set up
@@ -323,15 +335,18 @@ considered accurate.
 10,860 B.C. to 8700 B.C.—Age of the Lion
 If the Deluge occurred in the Age of the Lion, or sometime between 10,860 B.C.
 and 8700 B.C., then the date of the Deluge falls well within our timetable:
+
 According to modern science, the last ice age ended abruptly in the southern
 hemisphere some twelve to thirteen thousand years ago, and in the northern
 hemisphere one or two thousand years later.
+
 The zodiacal phenomenon of precession offers even more comprehensive
 corroboration of our conclusions. We concluded earlier that the Nefilim landed on
 Earth 432,000 years (120 shar's) before the Deluge, in the Age of Pisces. In terms
 of the precessional cycle, 432,000 years comprise sixteen full cycles, or Great
 Years, and more than halfway through another Great Year, into the "age" of the
 constellation of the Lion.
+
 We can now reconstruct the complete timetable for the events embraced by our
 findings.
 
@@ -349,6 +364,8 @@ Years Ago | EVENT
 100,000 | Climate warms again. The sons of the gods take the daughters of Man as wives.
 77,000 | Ubartutu/Lamech, a human of divine parentage, assumes the reign in Shuruppak under the patronage of Ninhursag.
 75,000 | The "accursation of Earth"—a new ice age—begins. Regressive types of Man roam Earth.
-49,000 | The reign of Ziusudra ("Noah"), a "faithful servant" of Enki, begins.
+49,000 | The reign of Ziusudra ("Noah"), a "faithful servant" of Enki, begins.*
 38,000 | The harsh climatic period of the "seven passings" begins to decimate Mankind. Europe's Neanderthal Man disappears; only Cro-Magnon Man (based in the Near East) survives. Enlil, disenchanted with Mankind, seeks its demise.
 13,000 | The Nefilim, aware of the impending tidal wave that will be triggered by the nearing Twelfth Planet, vow to let Mankind perish. The Deluge sweeps over Earth, abruptly ending the ice age.
+
+{{< n n="This is the start of the reign of Atlantis" >}}

@@ -125,11 +125,9 @@ ther astray from the way.
 
 40. They came upon the city that was drenched by the terrible rain. Did they not see it? But they do not expect resurrection.
 
-41. And when they see you, they take you for nothing but mockery: “Is this the one Allah
-sent as a messenger?”
+41. When they see you, they take you for nothing but mockery: “Is this the one Allah sent as a messenger?”
 
-42. “He nearly led us away from our gods, had we not patiently adhered to them.” But they
-will know, when they witness the torment, who is further away from the way.
+42. “He nearly led us away from our gods, had we not patiently adhered to them.” But they will know, when they witness the torment, who is further away from the way.
 
 43. Have you seen him who chose his desire as his god? Would you be an agent for him?
 
@@ -142,23 +140,27 @@ it still. And We made the sun a pointer to it.
 
 47. And it is He who made the night a covering for you, and sleep for rest; and He made the
 day a revival.
+
 48. And it is He who sends the winds, bringing
 advance news of His mercy; and We send
 down from the sky pure water.
+
 49. To revive dead lands thereby, and to pro-
 vide drink for the multitude of animals and
 humans We created.
+
 50. We have circulated it among them, that
 they may reflect, but most people persist in
 thanklessness.
+
 51. Had We willed, We could have sent to
 every town a warner.
+
 52. So do not obey the disbelievers, but strive
 against them with it, a mighty struggle.
-53. And it is He who merged the two seas; this
-one fresh and sweet, and that one salty and
-bitter; and He placed between them a barrier,
-and an impassable boundary.
+
+53. And it is He who merged the two seas; this one fresh and sweet, and that one salty and
+bitter; and He placed between them a barrier, and an impassable boundary.
 
 54. And it is He who, from fluid, created the human being. Then He made relationships through marriage and mating.
 
@@ -168,32 +170,30 @@ and an impassable boundary.
 56. We sent you only as a herald of good news and a warner.
 
 57. Say, “I ask of you no payment for this—only that whoever wills may take a path to his Lord.”
+
 58. And put your trust in the Living, the One who never dies; and celebrate His praise. He
 suffices as the All-Informed Knower of the faults of His creatures.
 
-59. He who created the heavens and the earth and everything between them in 6 days, then settled on the Throne. The Most Merci-
-ful. Ask about Him a well-informed.
+59. He who created the heavens and the earth and everything between them in 6 days, then settled on the Throne. 
+
+<!-- The Most Merciful. Ask about Him a well-informed. -->
 
 60. And when it is said to them, “Bow down to the Merciful,” they say, “And what is the
-Merciful? Are we to bow down to whatever you command us?” And it increases their aversion.
-61. Blessed is He who placed constellations in
-the sky, and placed in it a lamp, and an illu-
-minating moon.
-62. And it is He who made the night and the
-day alternate—for whoever desires to reflect,
+Merciful? Are we to bow down to whatever you command us?” It increases their aversion.
+
+61. Blessed is He who placed constellations in the sky, and placed in it a lamp, and an illuminating moon.
+
+62. And it is He who made the night and the day alternate—for whoever desires to reflect,
 or desires to show gratitude.
-63. The servants of the Merciful are those who
-walk the earth in humility, and when the ig-
-norant address them, they say, “Peace.”
-64. And those who pass the night prostrating
-themselves to their Lord and standing up.
-65. And those who say, ‘‘Our Lord, avert from
-us the suffering of Hell, for its suffering is
-continuous.
-66. It is indeed a miserable residence and des-
-tination.”
-67. And those who, when they spend, are nei-
-ther wasteful nor stingy, but choose a middle
+
+63. The servants of the Merciful are those who walk the earth in humility, and when the ignorant address them, they say, “Peace.”
+
+64. And those who pass the night prostrating themselves to their Lord and standing up.
+65. And those who say, ‘‘Our Lord, avert from us the suffering of Hell, for its suffering is
+continuous. 
+
+66. It is indeed a miserable residence and destination.”
+67. And those who, when they spend, are neither wasteful nor stingy, but choose a middle
 course between that.
 
 68. And those who do not implore besides Allah any other god, and do not kill the soul which Allah has made sacred—except in the

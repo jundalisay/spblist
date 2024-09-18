@@ -23,7 +23,9 @@ Whenever I called them to Your forgiveness, they thrust their fingers into their
 I called them openly. Then I appealed to them publicly. Then I spoke to them privately telling them to ask You for forgiveness for He will let loose torrents on you. 
 {{< /r >}}
 
-{{< s v="14" >}} Allah created you in stages. He created 7 heavens in layers. 
+{{< s v="14" >}} Allah created you in stages. He created 7 heavens in layers.*
+
+{{< n n="This is the 7 Chakras which we assign to be part of the 5 Strata or Layers" >}}
 
 {{< s v="16" >}} He set the moon in their midst for light, and He made the sun a lamp.
 
@@ -32,8 +34,7 @@ I called them openly. Then I appealed to them publicly. Then I spoke to them pri
 {{< s v="18" >}} Then He will return you into it, and will bring you out again.
 
 
-12. And provide you with wealth and children,
-and allot for you gardens, and allot for you
+12. And provide you with wealth and children, and allot for you gardens, and allot for you
 rivers.
 
 Allah made the earth large for you to travel its diverse roads.
