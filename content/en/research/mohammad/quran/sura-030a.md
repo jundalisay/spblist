@@ -21,11 +21,14 @@ believers will rejoice.
 6. The promise of Allah—Allah never breaks His promise, but most people do not know.
 
 7. They know an outer aspect of the worldly life, but they are heedless of the Hereafter.
+
 8. Do they not reflect within themselves? Allah did not create the heavens and the earth,
 and what is between them, except with reason, and for a specific duration. But most
 people, regarding meeting their Lord, are disbelievers.
 
-{{< s v="9" >}}  Have they not travelled the earth and seen how those before them ended up? They were more powerful than them, and they cultivated the land and developed it more than they developed it, and their messengers came to them with clear signs. Allah would never wrong them, but they used to wrong themselves.
+{{< s v="9" >}}  Have they not travelled the earth and seen how those before them ended up? 
+
+They were more powerful than them, and they cultivated the land and developed it more than they developed it, and their messengers came to them with clear signs. Allah would never wrong them, but they used to wrong themselves.
 
 {{< s v="10" >}}  Then, evil was the end of those who committed evil. That is because they rejected Allah’s revelations, and used to ridicule them.
 
@@ -36,7 +39,9 @@ people, regarding meeting their Lord, are disbelievers.
 13. They will have no intercessors from among their idols, and they will disown their partners.
 
 14. On the Day when the Hour takes place—on that Day they will separate.
+
 15. As for those who believed and did good deeds—they will be delighted in meadows.
+
 {{< s v="16" >}}But as for those who disbelieved, and rejected Our signs and the encounter of the Hereafter—those will be hauled into the torment.
 
 17. So glorify Allah when you retire at night, and when you rise in the morning.
@@ -48,6 +53,7 @@ His is the praise in the heavens and on earth, and in the evening, and when you 
 brings the dead out of the living, and He re-
 vives the land after it had died. Likewise you
 will be resurrected.
+
 20. And of His signs is that He created you
 from dust; and behold, you become humans
 spreading out.
@@ -96,6 +102,7 @@ they have.
 34. To show ingratitude for what We have given them. Indulge yourselves—you will surely know.
 
 35. Have We sent down to them any authority, which speaks in support of their idols?
+
 36. When We give people a taste of mercy, they rejoice in it. But when adversity befalls them,
 because of what their hands have perpetrated, they begin to despair.
 

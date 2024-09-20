@@ -47,9 +47,15 @@ You train them according to what Allah has taught you.
 
 So eat from what they catch for you, and pronounce Allah’s name over it. <!-- And fear Allah. Allah is Swift in reckoning. -->
 
-{{< s v="5" >}} Today all good things are made lawful for you. And the food of those given the Scripture is lawful for you, and your food is lawful for them. So are chaste believing women, and chaste women from the people who were given the Scripture before you, provided you give them their dowries, and take them in marriage, not in adultery, nor as mistresses. 
+{{< s v="5" >}} Today all good things are made lawful for you.
 
-But whoever rejects faith, his work will be in vain, and in the Hereafter he will be among the losers.
+The food of those given the Scripture is lawful for you, and your food is lawful for them.
+
+So are chaste believing women, and chaste women from the people who were given the Scripture before you, provided you:
+- give them their dowries
+- take them in marriage, not in adultery, nor as mistresses. 
+
+But whoever rejects faith, his work will be in vain. In the Hereafter, he will be among the losers.
 
 {{< s v="6" >}} When you rise to pray:
 - wash your faces, hands, arms to the elbows

@@ -3,7 +3,7 @@ heading: Chapter 15
 title:  "Kingship on Earth"
 image:  "/covers/12th.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
-weight: 60
+weight: 66
 ---
 
 

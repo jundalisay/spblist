@@ -22,34 +22,57 @@ universe.
 Some of the symbols, we believe, also convey information that could be related
 only to space travel to Earth.
 
-Ancient sources provide a profusion of texts and lists dealing with the celestial bodies and their associations with the various deities. The ancient habit of assigning several epithet names to both the celestial bodies and the deities has made identification difficult. Even in the case of established identifications, such as Venus/lshtar, the picture is confused by the changes in the pantheon. 
+There are many ancient texts and lists dealing with the celestial bodies and their associations with the various deities.
+
+The ancient habit of assigning several epithet names to both the celestial bodies and the deities has made identification difficult. 
+
+Even in the case of established identifications, such as Venus/lshtar, the picture is confused by the changes in the pantheon. 
 
 Thus, in earlier times Venus was associated with Ninhursag.
 
-Somewhat greater clarity has been obtained by scholars, such as E. D. Van Buren (Symbols of the Gods in Mesopotamian Art), who assembled and sorted out the more than eighty symbols—of gods and celestial bodies—that can be found on cylinder seals, sculptures, stelae, reliefs, murals, and (in great detail and clarity) on boundary stones (kudurru in Akkadian). 
+Somewhat greater clarity has been obtained by scholars, such as E. D. Van Buren (Symbols of the Gods in Mesopotamian Art), who assembled and sorted out the more than 80 symbols—of gods and celestial bodies—that can be found on cylinder seals, sculptures, stelae, reliefs, murals, and (in great detail and clarity) on boundary stones (kudurru in Akkadian). 
 
-When the classification of the symbols is made, it becomes evident that apart from standing for some of the better-known southern or northern constellations (such as the Sea Serpent for the constellation Hydra), they represented either the twelve constellations of the zodiac (for example, the Crab for Scorpio), or the twelve Gods of Heaven and Earth, or the twelve members of the solar system. The kudurru set up by Melishipak, king of Susa (see p. 186), shows the twelve symbols of the zodiac and the symbols of the 12 astral gods.
+When the classification of the symbols is made, it becomes evident that apart from standing for some of the better-known southern or northern constellations (such as the Sea Serpent for the constellation Hydra), they represented either the twelve constellations of the zodiac (for example, the Crab for Scorpio), or the 12 Gods of Heaven and Earth, or the 12 members of the solar system.
 
-A stela erected by the Assyrian king Esarhaddon shows the ruler holding the Cup of Life while facing the twelve chief Gods of Heaven and Earth. We see four gods atop animals, of whom Ishtar on the lion and Adad holding the forked lightning can definitely be identified.
+The kudurru was set up by Melishipak, king of Susa. It shows:
+- the 12 symbols of the zodiac
+- the symbols of the 12 astral gods.
 
-Four other gods are represented by the tools of their special attributes, as the war-god Ninurta by his lion-headed mace. The remaining four gods are shown as celestial bodies—the Sun (Shamash), the
-Winged Globe (the Twelfth Planet, the abode of Anu), the Moon's crescent, and a
-symbol consisting of seven dots. (Fig. 116)
-Illustration:
-Esarhaddon with Gods Depicted
+The Assyrian king Esarhaddon erected a stela which shows the ruler holding the Cup of Life while facing the 12 chief Gods of Heaven and Earth.
 
-Although in later times the god Sin was associated with the Moon, identified by the crescent, ample evidence shows that in "olden times" the crescent was the symbol of an elderly and bearded deity, one of Sumer's true "olden gods." 
+It has 4 gods atop animals, of whom Ishtar on the lion and Adad holding the forked lightning can definitely be identified.
 
-Often shown surrounded by streams of water, this god was undoubtedly Ea. The crescent was also associated with the science of measuring and calculating, of which Ea was the divine master. It was appropriate that the God of the Seas and Oceans, Ea, be assigned as his celestial counterpart the Moon, which causes the ocean's tides.
+Four other gods are represented by the tools of their special attributes, as the war-god Ninurta by his lion-headed mace. 
 
-What was the meaning of the symbol of the seven dots?
+The remaining 4 gods are shown as celestial bodies:
+- the Sun (Shamash)
+- the Winged Globe (the Twelfth Planet, the abode of Anu)
+- the Moon's crescent
+- a symbol of 7 dots. (Fig. 116)
 
-Many clues leave no doubt that it was the celestial symbol of Enlil. The depiction of the Gateway of Anu (the Winged Globe) flanked by Ea and Enlil (see Fig. 87), represents them by the crescent and the seven-dot symbol.
+<!-- Illustration:
+Esarhaddon with Gods Depicted -->
 
-Some of the clearest depictions of the celestial symbols that were meticulously copied by Sir Henry Rawlinson (The Cuneiform Inscriptions of Western Asia) assign the most prominent position to a group of three symbols, standing for Anu flanked by his two sons; these show that the symbol for Enlil could be either the seven dots or a seven-pointed "star." The essential element in Enlil's celestial representation was the number seven (the daughter, Ninhursag, was sometimes included, represented
-by the umbilical cutter). (Fig. 117)
-Illustration:
-Enlil’s Seven-Pointed Star
+In later times, the god Sin was associated with the Moon identified by the crescent. 
+
+But in "olden times" the crescent was the symbol of an elderly and bearded deity Ea, one of Sumer's true "olden gods."
+
+The crescent was also associated with the science of measuring and calculating, of which Ea was the divine master.
+
+It was appropriate that the God of the Seas and Oceans, Ea, be assigned as his celestial counterpart the Moon, which causes the ocean's tides.
+
+### The meaning of the 7 dots
+
+These were the celestial symbol of Enlil. 
+
+The depiction of the Gateway of Anu (the Winged Globe) flanked by Ea and Enlil (see Fig. 87), represents them by the crescent and the seven-dot symbol.
+
+Some of the clearest depictions of the celestial symbols that were meticulously copied by Sir Henry Rawlinson (The Cuneiform Inscriptions of Western Asia) assign the most prominent position to a group of three symbols, standing for Anu flanked by his two sons; these show that the symbol for Enlil could be either the seven dots or a seven-pointed "star."
+
+The essential element in Enlil's celestial representation was the number seven (the daughter, Ninhursag, was sometimes included, represented by the umbilical cutter). (Fig. 117)
+
+<!-- Illustration:
+Enlil’s Seven-Pointed Star -->
 
 Scholars have been unable to understand a statement by Gudea, king of Lagash, that "the celestial 7 is 50." Attempts at arithmetic solutions—some formula whereby the number seven would go into fifty—failed to reveal the meaning of the statement. However, we see a simple answer: Gudea stated that the celestial body that is "seven" stands for the god that is "fifty." The god Enlil,
 whose rank number was fifty, had as his celestial counterpart the planet that was

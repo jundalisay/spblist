@@ -15,32 +15,42 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="47" >}} Had they mobilized with you, they would have added only to your difficulties, and they would have spread rumors in your midst, trying to sow discord among you. Some of you are avid listeners to them. 
 
-48. They tried to cause conflict before, and they hatched plots against you, until the truth prevailed, and the command of Allah became evident—in spite of their dislike.
+<sup>48.</sup> They tried to cause conflict before. 
 
-49. Among them is he who says, “Excuse me, and do not trouble me.” In fact, they sunk into trouble. 
+They hatched plots against you, until the truth prevailed and the command of Allah became evident—in spite of their dislike.
 
-50. If something good happens to you, it upsets them; and if a calamity befalls you, they say, “We took our precautions in advance,” and they depart, happy.
+<sup>49.</sup> Among them is he who says, “Excuse me, and do not trouble me.” 
 
-51. Say, “Nothing will happen to us except what Allah has ordained for us; He is our Protector.” In Allah let the faithful put their trust.
+In fact, they sunk into trouble. 
 
-52. Say, “Are you expecting for us anything other than one of the two excellences? As for us: we are expecting that Allah will afflict you with a punishment from Himself, or at our hands. So wait, we are waiting with you.”
+<sup>50.</sup> If something good happens to you, it upsets them. 
 
-53. Say, “Whether you spend willingly or unwillingly, it will not be accepted from you. You are evil people.”
+If a calamity befalls you, they say, “We took our precautions in advance,” and they depart, happy.
 
-54. What prevents the acceptance of their contributions is nothing but the fact that they disbelieved in Allah and His Messenger, and 
+<sup>51.</sup> Say, “Nothing will happen to us except what Allah has ordained for us. He is our Protector.” 
 
-55. Let neither their possessions nor their children impress you. Allah intends to torment them through them in this worldly life, and that their souls depart while they are disbelievers.
+In Allah let the faithful put their trust.
 
-56. They swear by Allah that they are of you. 
+<sup>52.</sup> Say, “Are you expecting for us anything other than one of the two excellences? 
+
+As for us: we are expecting that Allah will afflict you with a punishment from Himself, or at our hands. So wait, we are waiting with you.”
+
+<sup>53.</sup> Say, “Whether you spend willingly or unwillingly, it will not be accepted from you. You are evil people.”
+
+<sup>54.</sup> What prevents the acceptance of their contributions is nothing but the fact that they disbelieved in Allah and His Messenger, and 
+
+<sup>55.</sup> Let neither their possessions nor their children impress you. Allah intends to torment them through them in this worldly life, and that their souls depart while they are disbelievers.
+
+<sup>56.</sup> They swear by Allah that they are of you. 
 But they are not of you. They are divisive people.
 
-57. Were they to find a shelter, or a cave, or a hideout, they would go to it, rushing.
+<sup>57.</sup> Were they to find a shelter, or a cave, or a hideout, they would go to it, rushing.
 
-58. And among them are those who criticize you in regard to charities. If they are given some of it, they become pleased; but if they are not given any, they grow resentful.
+<sup>58.</sup> And among them are those who criticize you in regard to charities. If they are given some of it, they become pleased; but if they are not given any, they grow resentful.
 
-59. If only they were content with what Allah and His Messenger have given them, and said, “Allah is sufficient for us; Allah will give us of His bounty, and so will His Messenger; to Allah we eagerly turn.”
+<sup>59.</sup> If only they were content with what Allah and His Messenger have given them, and said, “Allah is sufficient for us; Allah will give us of His bounty, and so will His Messenger; to Allah we eagerly turn.”
 
-60. Charities are for:
+<sup>60.</sup> Charities are for:
 - the poor and the destitute
 - those who administer them
 - reconciling hearts
@@ -48,7 +58,7 @@ But they are not of you. They are divisive people.
 - those in debt and in the path of Allah
 - the traveler in need—an obligation from Allah. 
 
-61. And among them are those who insult the Prophet, and say, “He is all ears.” Say, “He listens for your own good. 
+<sup>61.</sup> And among them are those who insult the Prophet, and say, “He is all ears.” Say, “He listens for your own good. 
 
 He believes in Allah, and trusts the believers, and is mercy for those of you who believe.” 
 
@@ -58,57 +68,55 @@ He believes in Allah, and trusts the believers, and is mercy for those of you wh
 
 <!-- 63. Do they not know that whoever opposes Allah and His Messenger, will have the Fire of Hell, abiding in it forever? That is the supreme disgrace. -->
 
-64. The hypocrites worry lest a chapter may be revealed about them, informing them of what
-Those who believe in Allah and the Last Day do not ask you for exemption from striving with their possessions and their lives. Allah is fully aware of the righteous.
+<sup>64.</sup> The hypocrites worry lest a chapter may be revealed about them, informing them of what is in their hearts. 
 
+Say: “Go on mocking. Allah will expose what you fear.”
 
-
-
-hey said, “Do is in their hearts. Say, “Go on mocking; Allah
-will bring out what you fear.”
-
-65. If you ask them, they will say, “We were just joking and playing.” Say, “Were you
+<sup>65.</sup> If you ask them, they will say, “We were just joking and playing.” Say, “Were you
 making jokes about Allah, His revelations, and His Messenger?”
 
-66. Do not apologize. You have disbelieved after your belief. If We pardon some of you, We
+<sup>66.</sup> Do not apologize. You have disbelieved after your belief. If We pardon some of you, We
 will punish others, because they are guilty. 
 
-67. The hypocrite men and hypocrite women are of one another. They advocate evil, and
-prohibit righteousness, and withhold their hands. They forgot Allah, so He forgot them.
+<sup>67.</sup> The hypocrite men and hypocrite women are of one another.
+
+They advocate evil, and prohibit righteousness, and withhold their hands. They forgot Allah, so He forgot them. 
+
 The hypocrites are the sinners.
 
-68. Allah has promised the hypocrite men and hypocrite women, and the disbelievers, the
-Fire of Hell, abiding therein forever. It is their due. And Allah has cursed them. They will
-have a lasting punishment.
+<sup>68.</sup> Allah has promised the hypocrite men and hypocrite women, and the disbelievers, the
+Fire of Hell, abiding therein forever. 
 
-69. Like those before you. They were more powerful than you, and had more wealth and
-children. They enjoyed their share, and you enjoyed your share, as those before you en-
-joyed their share. 
+It is their due. And Allah has cursed them. 
 
-And you indulged, as they indulged. It is they whose works will fail in
-this world and in the Hereafter. It is they who
-are the losers.
+<sup>69.</sup> You disbelievers are like those before you. 
 
-70. Have they not heard the stories of those before them? The people of Noah, and Aad, and
-Thamood; and the people of Abraham, and the inhabitants of Median, and the Over-
-turned Cities? Their messengers came to them with the clear proofs. Allah never
-wronged them, but they used to wrong their own selves.
+They were more powerful than you, and had more wealth and children. They enjoyed their share, and you enjoyed your share, as those before you enjoyed their share. 
 
-71. The believing men and believing women are friends of one another. They advocate vir-
-tue, forbid evil, perform the prayers, practice charity, and obey Allah and His Messenger.
+You indulged, as they indulged.
+
+It is they whose works will fail in this world and in the Hereafter. It is they who are the losers.
+
+<sup>70.</sup> Have they not heard the stories of those before them?
+- The people of Noah, and Aad, and Thamood
+- The people of Abraham
+- The inhabitants of Median
+- The Over-turned Cities? 
+
+Their messengers came to them with the clear proofs. Allah never wronged them, but they used to wrong their own selves.
+
+<sup>71.</sup> The believing men and believing women are friends of one another.
+
+They advocate virtue, forbid evil, perform the prayers, practice charity, and obey Allah and His Messenger. 
+
 These—Allah will have mercy on them. Allah is Noble and Wise.
 
-72. Allah promises the believers, men and women, gardens beneath which rivers flow,
-abiding therein forever, and fine homes in
 
+<sup>72.</sup> Allah promises the believers, men and women, gardens beneath which rivers flow, abiding therein forever, and fine homes in the Gardens of Eden. But approval from Allah is even greater. That is the supreme achievement.
 
-the Gardens of Eden. But approval from Al-
-lah is even greater. That is the supreme
-achievement.
+<sup>73.</sup> O Prophet! Strive against the disbelievers and the hypocrites, and be stern with them.
 
-73. O Prophet! Strive against the disbelievers and the hypocrites, and be stern with them.
-
-74. They swear by Allah that they said nothing;
+<sup>74.</sup> They swear by Allah that they said nothing;
 but they did utter the word of blasphemy, and they renounced faith after their submission.
 And they plotted what they could not attain.
 

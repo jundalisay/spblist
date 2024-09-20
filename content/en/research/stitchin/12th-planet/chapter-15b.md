@@ -3,7 +3,7 @@ heading: Chapter 15
 title:  "The people spread again"
 image:  "/covers/12th.jpg"
 description: "The Nefilim then helped the people plan and build the first royal city, and they blessed it"
-weight: 64
+weight: 69
 ---
 
 

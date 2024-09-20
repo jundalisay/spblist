@@ -33,23 +33,14 @@ Me, from my temple,
 they caused to fly;
 A Queen am I whom, from my city,
 like a bird they caused to fly.
-Such a capability, by Inanna as well as the other major gods, was often
-indicated by the ancient artists by depicting the "gods" anthropomorphic in all
-other respects, as we have seen-with wings. The wings, as can be seen from
-numerous depictions, were not part of the body-not natural wings—but rather a
-decorative attachment to the god's clothing. (Fig. 58)
-Illustration:
-A decorative Attachment to the God‘s Clothing
-Inanna/Ishtar, whose far-flung travels are mentioned in many ancient texts,
-commuted between her initial distant domain in Aratta and her coveted abode in
-Uruk. She called upon Enki in Eridu and Enlil in Nippur, and visited her brother
-Utu at his headquarters in Sippar. But her most celebrated journey was to the
-Lower World, the domain of her sister Ereshkigal. The journey was the subject not
+
+Such a capability, by Inanna as well as the other major gods, was often indicated by the ancient artists by depicting the "gods" anthropomorphic in all other respects, as we have seen-with wings. The wings, as can be seen from numerous depictions, were not part of the body-not natural wings—but rather a decorative attachment to the god's clothing. (Fig. 58)
+
+Inanna/Ishtar, whose far-flung travels are mentioned in many ancient texts, commuted between her initial distant domain in Aratta and her coveted abode in Uruk. She called upon Enki in Eridu and Enlil in Nippur, and visited her brother Utu at his headquarters in Sippar. But her most celebrated journey was to the Lower World, the domain of her sister Ereshkigal. The journey was the subject not
 only of epic tales but also of artistic depictions on cylinder seals—the latter
 showing the goddess with wings, to stress the fact that she flew over from Sumer
 to the Lower World. (Fig. 59)
-Illustration:
-Inanna/Ishtar with Wings
+
 The texts dealing with this hazardous journey describe how Inanna very
 meticulously put on herself seven objects prior to the start of the voyage, and how
 she had to give them up as she passed through the seven gates leading to her
@@ -62,7 +53,8 @@ Twin "stones," on her shoulders.
 A golden cylinder, in her hands.
 Straps, clasping her breast.
 The PALA garment, clothed around her body.
-Though no one has as yet been able to explain the nature and significance of
+
+<!-- Though no one has as yet been able to explain the nature and significance of
 these seven objects, we feel that the answer has long been available. Excavating
 the Assyrian capital Assur from 1903 to 1914, Walter Andrae and his colleagues
 found in the Temple of Ishtar a battered statue of the goddess showing her with
@@ -74,8 +66,8 @@ with a pair of horns, indicating that she was a goddess. Standing around the
 (in a snapshar, one can hardly distinguish between the statue and the living men).
 They named her The Goddess with a Vase because she was holding a cylindrical
 object. (Fig. 60)
-Illustration:
-The Goddess with a Vase
+ -->
+
 Unlike the flat carvings or bas-reliefs, this life-size, three-dimensional
 representation of the goddess reveals interesting features about her attire. On her
 head she wears not a milliner's chapeau but a special helmet; protruding from it
@@ -92,6 +84,7 @@ weight of the box is increased by a hose that is connected to its base by a circ
 clasp. The complete package of instruments—for this is what they undoubtedly
 were—is held in place with the aid of the two sets of straps that crisscross the
 goddess's back and chest.
+
 The parallel between the seven objects required by Inanna for her aerial
 journeys and the dress and objects worn by the statue from Mari (and probably
 also the mutilated one found at Ishtar's temple in Ashur) is easily proved. We see
@@ -101,13 +94,16 @@ shoulders; the "golden cylinder" in her hands, and the clasping straps that
 crisscross her breast. She is indeed clothed in a "PALA garment" ("ruler's
 garment"), and on her head she wears the SHU.GAR.RA helmet—a term that
 literally means "that which makes go far into universe."
+
 All this suggests to us that the attire of Inanna was that of an aeronaut or an
 astronaut.
+
 The Old Testament called the "angels" of the Lord malachim—literally,
 "emissaries," who carried divine messages and carried out divine commands. As so
 many instances reveal, they were divine airmen: Jacob saw them going up a sky
 ladder, Hagar (Abraham's concubine) was addressed by them from the sky, and it
 was they who brought about the aerial destruction of Sodom and Gomorrah.
+
 The biblical account of the events preceding the destruction of the two sinful
 cities illustrates the fact that these emissaries were, on the one hand,
 anthropomorphic in all respects, and, on the other hand, they could be identified
@@ -116,13 +112,16 @@ sudden. Abraham "raised his eyes and, lo and behold, there were three men
 standing by him." Bowing and calling them "My Lords," he pleaded with them, "Do
 not pass over thy servant," and prevailed on them to wash their feet, rest, and eat.
 Having done as Abraham had requested, two of the angels (the third "man"
-turned out to be the Lord himself) then proceeded to Sodom. Lot, the nephew of
+turned out to be the Lord himself) then proceeded to Sodom. 
+
+Lot, the nephew of
 Abraham, "was sitting at the gate of Sodom; and when he saw them he rose up to
 meet them and bowed to the ground, and said: If it pleases my Lords, pray come to
 the house of thy servant and wash your feet and sleep overnight." Then "he made
 for them a feast, and they ate." When the news of the arrival of the two spread in
 the town, "all the town's people, young and old, surrounded the house, and called
 out to Lot and said: Where are the men who came this night unto thee?"
+
 How were these men—who ate, drank, slept, and washed their tired feet—
 nevertheless so instantly recognizable as angels of the Lord? The only plausible
 explanation is that what they wore—their helmets or uniforms—or what they
@@ -133,24 +132,23 @@ blindness ... and they were unable to find the doorway." And another angel, this
 time appearing to Gideon, as he was chosen to be a Judge in Israel, gave him a
 divine sign by touching a rock with his baton, whereupon a fire jumped out of the
 rock.
+
 The team headed by Andrae found yet another unusual depiction of Ishtar at
 her temple in Ashur. More a wall sculpture than the usual relief, it showed the
 goddess with a tight-fitting decorated helmet with the "earphones" extended as
 though they had their own flat antennas, and wearing very distinct goggles that
 were part of the helmet. (Fig. 61)
-Illustration:
-Goggles and Helmet
-Needless to say, any man seeing a person—male or female—so clad, would at
-once realize that he is encountering a divine aeronaut.
+
+
+
+Needless to say, any man seeing a person—male or female—so clad, would at once realize that he is encountering a divine aeronaut.
+
 Clay figurines found at Sumerian sites and believed to be some 5,500 years old
 may well be crude representations of such malachim holding wandlike weapons. In
 one instance the face is seen through a helmet's visor. In the other instance, the
 "emissary" wears the distinct divine conical headdress and a uniform studded with
 circular objects of unknown function. (Figs. 62, 63)
-Illustration:
-Helmet‘s Visor
-Illustration:
-Studded Uniform
+
 The eye slots or "goggles" of the figurines are a most interesting feature because
 the Near East in the fourth millennium B.C. was literally swamped with wafer-like
 figurines that depicted in a stylized manner the upper part of the deities,
@@ -158,53 +156,58 @@ exaggerating their most prominent feature: a conical helmet with elliptical viso
 or goggles. (Fig. 64) A hoard of such figurines was found at Tell Brak, a prehistoric
 site on the Khabur River, the river on whose banks Ezekiel saw the divine chariot
 millennia later.
-Illustration:
-Conical Helmet with elliptical Visors
+
 It is undoubtedly no mere coincidence that the Hittites, linked to Sumer and
 Akkad via the Khabur area, adopted as their written sign for "gods" the symbol
  , clearly borrowed from the "eye" figurines. It is also no wonder that this
 symbol or hieroglyph for "divine being," expressed in artistic styles, came to
 dominate the art not only of Asia Minor but also of the early Greeks during the
 Minoan and Mycenaean periods. (Fig. 65)
-Illustration:
-Eye Figurines for Gods
+
 The ancient texts indicate that the gods put on such special attire not only for
 their flights in Earth's skies but also when they ascended to the distant heavens.
 Speaking of her occasional visits to Anu at his Celestial Abode, Inanna herself
 explained that she could undertake such journeys because "Enlil himself fastened
 the divine ME-attire about my body." The text quoted Enlil as saying to her:
+
 You have lifted the ME,
 You have tied the ME to your hands,
 You have gathered the ME,
 You have attached the ME to your breast....
 O Queen of all the ME, O radiant light
 Who with her hand grasps the seven ME.
+
 An early Sumerian ruler invited by the gods to ascend to the heavens was
 named EN.ME.DUR.AN.KI, which literally meant "ruler whose me connect Heaven
 and Earth." An inscription by Nebuchadnezzar II, describing the reconstruction of
 a special pavilion for Marduk's "celestial chariot," states that it was part of the
 "fortified house of the seven me of Heaven and Earth."
+
 The scholars refer to the me as "divine power objects." Literally, the term stems
 from the concept of "swimming in celestial waters." Inanna described them as
 parts of the "celestial garment" that she put on for her journeys in the Boat of
 Heaven. The me were thus parts of the special gear worn for flying in Earth's skies
 as well as into outer space.
+
 The Greek legend of Icarus had him attempt to fly by attaching feathered wings
 to his body with wax. The evidence from the ancient Near East shows that though
 the gods may have been depicted with wings to indicate their flying capabilities—
 or perhaps sometimes put on winged uniforms as a mark of their airmanship—
 they never attempted to use attached wings for flying. Instead, they used vehicles
 for such travels.
+
 The Old Testament informs us that the patriarch Jacob, spending the night in a
 field outside of Haran, saw "a ladder set up on Earth and its top reaching
 heavenwards," on which "angels of the Lord" were busily going up and down. The
 Lord himself stood at the top of the ladder. And the astounded Jacob "was fearful,
 and he said":
+
 Indeed, a God is present in this place,
 and I knew it not…
 How awesome is this place!
 Indeed, this is none but the Lord's Abode
 and this is the Gateway to Heaven.
+
 There are two interesting points in this tale. The first is that the divine beings
 going up and down at this "Gateway to Heaven" were using a mechanical facility—
 a "ladder." The second is that the sight took Jacob by complete surprise. The
@@ -214,6 +217,7 @@ when Jacob lay down to sleep in the field. Suddenly, there was the awesome
 We may conclude that the equipment used by the divine beings was some kind
 of craft that could appear over a place, hover for a while, and disappear from sight
 once again.
+
 The Old Testament also reports that the prophet Elijah did not die on Earth, but
 "went up into Heaven by a Whirlwind." This was not a sudden and unexpected
 event: The ascent of Elijah to the heavens was prearranged. He was told to go to
@@ -221,13 +225,16 @@ Beth-El ("the lord's house") on a specific day. Rumors had already spread among
 his disciples that he was about to be taken up to the heavens. When they queried
 his deputy whether the rumor was true, he confirmed that, indeed, "the Lord will
 take away the Master today." And then:
+
 There appeared a chariot of fire,
 and horses of fire…
 And Elijah went up into Heaven
 by a Whirlwind.
+
 Even more celebrated, and certainly better described, was the heavenly chariot
 seen by the prophet Ezekiel, who dwelt among the Judaean deportees on the
 banks of the Khabur River in northern Mesopotamia.
+
 The Heavens were opened,
 and I saw the appearances of the Lord.
 What Ezekiel saw was a Manlike being, surrounded by brilliance and
@@ -240,10 +247,12 @@ as a great cloud with flashes of fire
 and brilliance all around it.
 And within it, from within the fire,
 there was a radiance like a glowing halo.
+
 Some recent students of the biblical description (such as Josef F. Blumrich of
 the U.S. National Aeronautics and Space Administration) have concluded that the
 "chariot" seen by Ezekiel was a helicopter consisting of a cabin resting on four
 posts, each equipped with rotary wings—a "whirlwind" indeed.
+
 About two millennia earlier, when the Sumerian ruler Gudea commemorated his
 building the temple for his god Ninurta, he wrote that there appeared to him "a
 man that shone like Heaven … by the helmet on his head, he was a god." When
@@ -251,6 +260,7 @@ Ninurta and two divine companions appeared to Gudea, they were standing beside
 Ninurta's "divine black wind bird." As it turned out, the main purpose of the
 temple's construction was to provide a secure zone, an inner special enclosure
 within the temple grounds, for this "divine bird."
+
 The construction of this enclosure, Gudea reported, required huge beams and
 massive stones imported from afar. Only when the "divine bird" was placed within
 the enclosure was the construction of the temple deemed completed. And, once in
@@ -262,13 +272,14 @@ The similarity of the biblical and Sumerian descriptions, both of the vehicles
 and the beings within them, is obvious. The description of the vehicles as "bird,"
 "wind bird," and "whirlwind" that could rise heavenward while emitting a
 brilliance, leaves no doubt that they were some kind of flying machine.
+
 Enigmatic murals uncovered at Tell Ghassul, a site east of the Dead Sea whose
 ancient name is unknown, may shed light on our subject. Dating to circa 3500
 B.C., the murals depict a large eight-pointed "compass," the head of a helmeted
 person within a bell-shaped chamber, and two designs of mechanical craft that
 could well have been the "whirlwinds" of antiquity. (Fig. 66)
-Illustration:
-Whirlwinds of Antiquity
+
+
 The ancient texts also describe some vehicle used to lift aeronauts into the
 skies. Gudea stated that, as the "divine bird" rose to circle the lands, it "flashed
 upon the raised bricks." The protected enclosure was described as
@@ -280,16 +291,19 @@ for the god Utu, "in the appointed place within his temple."
 The Babylonian king Nebuchadnezzar II, recording his rebuilding of Marduk's
 sacred precinct, said that within fortified walls made of burned brick and gleaming
 onyx marble:
+
 I raised the head of the boat ID.GE.UL
 the Chariot of Marduk's princeliness;
 The boat ZAG.MU.KU, whose approach is observed,
 the supreme traveler between Heaven and Earth,
 in the midst of the pavilion I enclosed,
 screening off its sides.
+
 ID.GE.UL, the first epithet employed to describe this "supreme traveler," or
 "Chariot of Marduk," literally means "high to heaven, bright at night." ZAG.MU.KU,
 the second epithet describing the vehicle—clearly a "boat" nesting in a special
 pavilion—means "the bright MU which is for afar."
+
 That a mu—an oval-topped, conical object—was indeed installed in the inner,
 sacred enclosure of the temples of the Great Gods of Heaven and Earth can,
 fortunately, be proved. An ancient coin found at Byblos (the biblical Gebal) on the
@@ -298,28 +312,34 @@ Though shown as it stood in the first millennium B.C., the requirement that
 temples be built and rebuilt upon the same site and in accordance with the
 original plan undoubtedly means that we see the basic elements of the original
 temple of Byblos, traced to millennia earlier.
+
 The coin depicts a two-part temple. In front stands the main temple structure,
 imposing with its columned gateway. Behind it is. an inner courtyard, or "sacred
 area," hidden and protected by a high, massive wall. It is clearly a raised area, for
 it can be reached only by ascending many stairs. (Fig. 67)
+
 Illustration:
 Platform of Mu
+
 In the center of this sacred area stands a special platform, its crossbeam
 construction resembling that of the Eiffel Tower, as though built to withstand
 great weight. And on the platform stands the object of all this security and
 protection: an object that can only be a mu.
+
 Like most Sumerian syllabic words, mu had a primary meaning; in the case of
 mu, it was "that which rises straight." Its thirty-odd nuances encompassed the
 meanings "heights," "fire," "command," "a counted period," as well as (in later
 times) "that by which one is remembered." If we trace the written sign for mu from
 its Assyrian and Babylonian cuneiform stylizations to its original Sumerian
 pictographs, the following pictorial evidence emerges:
+
 We clearly see a conical chamber, depicted by itself or with a narrow section
 attached to it. "From a golden chamber-in-the-sky I will watch over thee," Inanna
 promised to the Assyrian king. Was this mu the "heavenly chamber"?
 A hymn to Inanna/Ishtar and her journeys in the Boat of Heaven clearly
 indicates that the mu was the vehicle in which the gods roamed the skies far and
 high:
+
 Lady of Heaven:
 She puts on the Garment of Heaven;
 She valiantly ascends towards Heaven.
@@ -329,6 +349,7 @@ Lady, who in her MU
 to the heights of Heaven joyfully wings.
 Over all the resting places
 she flies in her MU.
+
 There is evidence to show that the people of the eastern Mediterranean had seen
 such a rocket-like object not only in a temple enclosure but actually in flight.
 Hittite glyphs, for example, showed—against a background of starry heavens—
@@ -336,6 +357,7 @@ cruising missiles, rockets mounted on launch pads, and a god inside a radiating
 chamber. (Fig. 68)
 Illustration:
 Standing and Cruising Rockets
+
 Professor H. Frankfort (Cylinder Seals), demonstrating how both the art of
 making the Mesopotamian cylinder seals and the subjects depicted on them
 spread throughout the ancient world, reproduces the design on a seal found in
@@ -344,6 +366,7 @@ rocket ship moving in the skies and propelled by flames escaping from its rear.
 (Fig. 69)
 Illustration:
 Propelled Rocket in the Sky
+
 The winged horses, the entwined animals, the winged celestial globe, and the
 deity with horns protruding from his headdress are all known Mesopotamian
 themes. It can certainly be assumed that the fiery rocket shown on the Cretan seal
@@ -356,6 +379,7 @@ symbols of the Sun, Moon, and zodiacal constellations that adorn the seal. (Fig.
 70)
 Illustration:
 Various Space Rockets
+
 The Mesopotamian texts that refer to the inner enclosures of temples, or to the
 heavenly journeys of the gods, or even to instances where mortals ascended to the
 heavens, employ the Sumerian term mu or its Semitic derivatives shu-mu ("that
@@ -363,6 +387,7 @@ which is a mu'?, sham, or shem. Because the term also connoted "that by which
 one is remembered," the word has come to be taken as meaning "name." But the
 universal application of "name" to early texts that spoke of an object used in flying
 has obscured the true meaning of the ancient records.
+
 Thus G. A. Barton (The Royal Inscriptions of Sumer and Akkad) established the
 unchallenged translation of Gudea's temple inscription—that "Its MU shall hug the
 lands from horizon to horizon"—as "Its name shall fill the lands." A hymn to
@@ -371,6 +396,7 @@ was likewise rendered: "Thy name is radiant, it reaches Heaven's zenith." Sensin
 however, that mu or shem may mean an object and not "name," some scholars
 have treated the term as a suffix or grammatical phenomenon not requiring
 translation and have thereby avoided the issue altogether.
+
 It is not too difficult to trace the etymology of the term, and the route by which
 the "sky chamber" assumed the meaning of "name." Sculptures have been found
 that show a god inside a rocket-shaped chamber, as in this object of extreme
@@ -379,9 +405,11 @@ the celestial nature of the chamber is attested by the twelve globes decorating 
 (Fig. 71)
 Illustration:
 Chamber Decorated by Twelve Globes
+
 Many seals similarly depict a god (and sometimes two) within such oval "divine
 chambers"; in most instances, these gods within their sacred ovals were depicted
 as objects of veneration.
+
 Wishing to worship their gods throughout the lands, and not only at the official
 "house" of each deity, the ancient peoples developed the custom of setting up
 imitations of the god within his divine "sky chamber." Stone pillars shaped to
@@ -394,6 +422,7 @@ Eternal Abode. If they could not escape a physical oblivion, it was important th
 at least their "name" be forever commemorated. (Fig. 72)
 Illustration:
 Stelae as Eternal Abode
+
 That the purpose of the commemorative stone pillars was to simulate a fiery
 skyship can further be gleaned from the term by which such stone stelae were
 known in antiquity. The Sumerians called them NA.RU ("stones that rise"). The
@@ -404,6 +433,7 @@ the Hurrians and the Hittites, the stelae were called hu-u-ashi ("fire bird of s
 Biblical references indicate familiarity with two types of commemorative
 monument, a yad and a shem. The prophet Isaiah conveyed to the suffering people
 of Judaea the Lord's promise of a better and safer future:
+
 And I will give them,
 In my House and within my walls,
 A yad and a shem.
@@ -421,6 +451,7 @@ supposed to be transported by a similiar yad or a shem to the divine Abode of
 Eternal Life. (Fig. 73)
 Illustration:
 Opening of Mouth Ceremony
+
 The persistence of biblical translators to employ "name" wherever they
 encounter shem has ignored a farsighted study published more than a century ago
 by G. M. Redslob (in Zeitschrift der Deutschen Morgenländischen Gesellschaft) in

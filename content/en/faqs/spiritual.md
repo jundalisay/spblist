@@ -65,7 +65,7 @@ Yes, ideally. This is because ideas (particles) are driven by feelings (waves). 
 
 The farther from that time, the weaker the feeling becomes. We recreate those feelings by reading through the works from those times (or watching videos if videos were already available). 
 
-For example, if we consider *The Wealth of Nations* as the bible of Supereconomics, you will find it strange that it has a long chapter on the mulitary. But by going through the biography of Adam Smith, you will discover that establishing a militia was a major feeling back then, to protect Scotland from England. So this feeling makes its way into that book as a long chapter. 
+For example, if we consider *The Wealth of Nations* as the bible of Supereconomics, you will find it strange that it has a long chapter on the military. But by going through the biography of Adam Smith, you will discover that establishing a Scottish militia was a major feeling back then, to protect Scotland from England. So this feeling makes its way into that book as a long chapter. 
 {{< /l >}}
 
 {{< r a="Muslim" >}}

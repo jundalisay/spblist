@@ -7,26 +7,21 @@ weight: 36
 ---
 
 
-The "Epic of Creation" informs us that the "gods" came to Earth following a deliberate decision by their leader. The Babylonian version, attributing the decision to Marduk, explains that he waited until Earth's soil dried and hardened sufficiently to permit landing and construction operations. 
+The "Epic of Creation" informs us that the "gods" came to Earth following a deliberate decision by their leader. 
+
+The Babylonian version, attributing the decision to Marduk, explains that he waited until Earth's soil dried and hardened sufficiently to permit landing and construction operations. 
 
 Then Marduk announced his decision to the group of astronauts:
 
 {{< q >}}
-In the deep Above, where you have been residing,
-"The Kingly House of Above" have I built.
-Now, a counterpart of it
-I shall build in The Below.
-Marduk then explained his purpose:
-When from the Heavens
-for assembly you shall descend,
-there shall be a restplace for the night
-to receive you all.
-I will name it "Babylon"—
-The Gateway of the Gods.
+In the deep Above, where you have been residing, "The Kingly House of Above" have I built.
+Now, a counterpart of it I shall build in The Below.
+
+Marduk then explained his purpose: When from the Heavens for assembly you shall descend, there shall be a restplace for the night to receive you all. I will name it "Babylon"— The Gateway of the Gods.
 {{< /q >}}
 
 
-Earth was thus to be a permanent home away from home. 
+Earth was thus to be a permanent home away from home.
 
 Traveling on board a planet that was itself a kind of spaceship, crossing the paths of most of the other planets, the Nefilim first scanned the heavens from the surface of their own planet.
 
@@ -39,6 +34,7 @@ When the Nefilim first came to Earth, Earth was in the midst of an ice age—a g
 Early glaciation—begun some 600,000 years ago
 First warming (interglacial period)—550,000 years ago
 Second glacial period—480,000 to 430,000 years ago
+
 When the Nefilim first landed on Earth some 450,000 years ago, about a third of Earth's land area was covered with ice sheets and glaciers. 
 
 With so much of Earth's waters frozen, rainfall was reduced, but not everywhere. Due to the peculiarities of wind patterns and terrain, among other things, some areas that are well watered today were barren then, and some areas with only seasonal rains now were experiencing year-round rainfalls then.
@@ -107,22 +103,26 @@ If this was the landing method, Mesopotamia offered proximity to not one but two
 
 In ancient texts and pictures, the craft of the Nefilim were initially termed "celestial boats." The landing of such "maritime" astronauts, one can imagine, might have been described in ancient epic tales as the appearance of some kind of submarine from the heavens in the sea, from which "fish-men" emerged and came ashore.
 
-The texts mention that some of the AB.GAL who navigated  the spaceships were dressed as fish. One text dealing with Ishtar's divine journeys quotes her as seeking to reach the "Great gallu" (chief navigator) who had gone away "in a sunken boat." Berossus transmitted legends regarding Oannes, the
-"Being Endowed with Reason," a god who made his appearance from "the Erythrean sea which bordered on Babylonia," in the first year of the descent of Kingship from Heaven. Berossus reported that though Oannes looked like a fish, he had a human head under the fish's head, and had feet like a man under the fish's tail. "His voice too and language were articulate and human." (Fig. 126)
+The texts mention that some of the AB.GAL who navigated the spaceships were dressed as fish.
+
+One text dealing with Ishtar's divine journeys quotes her as seeking to reach the "Great gallu" (chief navigator) who had gone away "in a sunken boat." 
+
+Berossus wrote about Oannes, the "Being Endowed with Reason" -- a god who first appeared from "the Erythrean sea which bordered on Babylonia in the first year of the descent of Kingship from Heaven.
+
+Oannes looked like a fish. But he had a human head under the fish's head, and had feet like a man under the fish's tail. "His voice too and language were articulate and human." (Fig. 126)
 
 
-The three Greek historians through whom we know what Berossus wrote, reported that such divine fish-men appeared periodically, coming ashore from the "Erythrean sea"—the body of water we now call the Arabian Sea (the western part of the Indian Ocean).
+The 3 Greek historians through whom we know what Berossus wrote, reported that such divine fish-men appeared periodically, coming ashore from the "Erythrean sea"—the body of water we now call the Arabian Sea (the western part of the Indian Ocean).
 
-Why would the Nefilim splash down in the Indian Ocean, hundreds of miles from their selected site in Mesopotamia, instead of in the Persian Gulf, which is so much closer? The ancient reports indirectly confirm our conclusion that the first landings occurred during the second glacial period, when today's Persian Gulf was not a sea but a stretch of marshlands and shallow lakes, in which a splashdown was impossible.
+Why would the Nefilim splash down in the Indian Ocean, hundreds of miles from their selected site in Mesopotamia, instead of in the Persian Gulf, which is so much closer?
 
-Coming down in the Arabian Sea, the first intelligent beings or Earth then made
-their way toward Mesopotamia. The marshlands extended deeper inland than
-today's coastline. There, at the edge of the marshes, they established their very
-first settlement on our planet.
+The first landings occurred during the second glacial period, when today's Persian Gulf was not a sea but a stretch of marshlands and shallow lakes, in which a splashdown was impossible.
+
+Coming down in the Arabian Sea, the first intelligent beings or Earth then made their way toward Mesopotamia. The marshlands extended deeper inland than today's coastline. There, at the edge of the marshes, they established their very first settlement on our planet.
 
 They named it E.RI.DU ("house in faraway built"). 
 
-To this very day, the Persian term ordu means "encampment." It has taken root in all languages: The settled Earth is called Erde in German, Erda in Old High German, Jordh in Icelandic, Jord in Danish, Airtha in Gothic, Erthe in Middle English; and, going back geographically and in time,
+To this day, the Persian term ordu means "encampment." It has taken root in all languages: The settled Earth is called Erde in German, Erda in Old High German, Jordh in Icelandic, Jord in Danish, Airtha in Gothic, Erthe in Middle English; and, going back geographically and in time,
 "Earth" was Aratha or Ereds in Aramaic, Erd or Ertz in Kurdish, and Eretz in
 Hebrew.
 

@@ -1,28 +1,37 @@
-Of the six known sons of Enki, three have been featured in Sumerian tales: 
+---
+heading: Chapter 4d
+title:  "Inanna / Ishtar"
+image:  "/covers/12th.jpg"
+description: "Ninurta, too, could fly, as skillfully as Zu"
+weight: 14
+---
+
+
+Of the 6 known sons of Enki, three have been featured in Sumerian tales: 
 
 - The firstborn Marduk, who eventually usurped the supremacy
 - Nergal, who became ruler of the Lower World
 - Dumuzi, who married Inanna/lshtar.
 
-Enlil, too, had three sons who played key roles in both divine and human affairs:
+Enlil, too, had 3 sons who played key roles in both divine and human affairs:
 - Ninurta was born to Enlil by his sister Ninhursag and so was the legal successor
 - Nanna/Sin, firstborn by Enlil's official spouse Ninlil
 - a younger son by Ninlil named ISH.KUR ("mountainous," "far mountain land"), who was more frequently called Adad ("beloved").
 
-As brother of Sin and uncle of Utu and Inanna, Adad appears to have felt more
-at home with them than at his own house. The Sumerian texts constantly grouped
-the four together. 
+As brother of Sin and uncle of Utu and Inanna, Adad appears to have felt more at home with them than at his own house. The Sumerian texts constantly grouped the 4 together. 
 
 The ceremonies connected with the visit of Anu to Uruk also spoke of the four as a group. One text, describing the entrance to the court of Anu, states that the throne room was reached through "the gate of Sin, Shamash, Adad, and Ishtar:' Another text, first published by V. K. Shileiko (Russian Academy of the History of Material Cultures) poetically described the four as retiring for the night together.
 
 The greatest affinity seems to have existed between Adad and Ishtar, and the two were even depicted next to each other, as on this relief showing an Assyrian ruler being blessed by Adad (holding the ring and lightning) and by Ishtar, holding her bow. (The third deity is too mutilated to be identified.) (Fig. 55)
 
 
+Was there more to this "affinity" than a platonic relationship, especially in view of Ishtar's "record"? 
 
-Was there more to this "affinity" than a platonic relationship, especially in view of Ishtar's "record"? It is noteworthy that in the biblical Song of Songs, the playful girl calls her lover dod-a word that means both "lover" and "uncle." Now, was Ishkur called Adad—a derivative from the Sumerian DA.DA—because he was the uncle who was the lover?
+In the biblical Song of Songs, the playful girl calls her lover dod-a word that means both "lover" and "uncle." Now, was Ishkur called Adad—a derivative from the Sumerian DA.DA—because he was the uncle who was the lover?
 
-Ishkur was a playboy, mighty god, endowed by his father Enlil with the powers and prerogatives of a storm god. As such he was revered as the Hurrian/Hittite Teshub and the Urartian Teshubu ("wind blower"), the Amorite Ramanu ("thunderer"), the Canaanite Ragimu ("caster of hailstones"), the IndoEuropean Buriash ("light maker"), the Semitic Meir ("he who lights up" the skies).
-(Fig. 56)
+Ishkur was a playboy, mighty god, endowed by his father Enlil with the powers and prerogatives of a storm god.
+
+As such he was revered as the Hurrian/Hittite Teshub and the Urartian Teshubu ("wind blower"), the Amorite Ramanu ("thunderer"), the Canaanite Ragimu ("caster of hailstones"), the IndoEuropean Buriash ("light maker"), the Semitic Meir ("he who lights up" the skies). (Fig. 56)
 
 A god list kept at the British Museum, as shown by Hans Schlobies (Der
 Akkadische Wettergott in Mesopotamien), clarifies that Ishkur was indeed the
