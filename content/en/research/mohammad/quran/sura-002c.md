@@ -147,27 +147,39 @@ So they slew her, though they almost did not.
   - other rocks that splinter and water comes out from them
   - other rocks that sink in awe of Allah.
 
-75. Do you hope that they will believe in you, when some of them used to hear the Word of Allah, and then deliberately distort it, even after understanding it?
+<sup>75.</sup> Do you hope that they will believe in you, when some of them used to hear the Word of Allah, and then deliberately distort it, even after understanding it?
 
-76. When they come across those who believe, they say, “We believe,” but when they come together privately, they say, “Will you inform them of what Allah has disclosed to you, so that they might dispute with you concerning it before your Lord?” Do you not understand?
+<sup>76.</sup> When they come across those who believe, they say, “We believe”.
 
-77. Do they not know that Allah knows what they conceal and what they reveal?
+But when they come together privately, they say:
 
-78. And among them are uneducated who know the Scripture only through hearsay,
-and they only speculate.
+“Will you inform them of what Allah has disclosed to you, so that they might dispute with you concerning it before your Lord?”
 
-79. So woe to those who write the Scripture with their own hands, and then say, “This is from Allah,” that they may exchange it for a little price. Woe to them for what their hands have written, and woe to them for what they earn.
+<sup>77.</sup> Do they not know that Allah knows what they conceal and what they reveal?
 
-80. They say, “The Fire will not touch us except for a number of days.” Say, “Have you received a promise from Allah—Allah never breaks His promise—or are you saying about Allah what you do not know?”
+<sup>78.</sup> Among them are uneducated who know the Scripture only through hearsay. They only speculate.
 
-81. Whoever commits misdeeds, and becomes besieged by his iniquities—these are the inmates of the Fire, wherein they will dwell forever.
+<sup>79.</sup> So woe to those who write the Scripture with their own hands, and then say, “This is from Allah,” that they may exchange it for a little price. 
+
+Woe to them for what their hands have written, and woe to them for what they earn.
+
+<sup>80.</sup> They say, “The Fire will not touch us except for a number of days.” 
+
+Say, “Have you received a promise from Allah—Allah never breaks His promise—or are you saying about Allah what you do not know?”
+
+<sup>81.</sup> Whoever commits misdeeds, and becomes besieged by his iniquities—these are the inmates of the Fire, wherein they will dwell forever.
 
 <!-- 82. As for those who believe and do righteous deeds—these are the inhabitants of Paradise, wherein they will dwell forever. -->
 
-83. We made a covenant with the Jews: “Worship only Allah. Be good to parents, and relatives, and orphans, and
-the needy; and speak nicely to people; and pray regularly, and give alms.” Then you turned away, except for a few of you, recanting.
+<sup>83.</sup> We made a covenant with the Jews: 
 
-{{< s v="84" >}} We made a covenant with you: “You shall not shed the blood of your own, nor shall you evict your own from your homes.” 
+> “Worship only Allah. Be good to parents, and relatives, and orphans, and the needy. Speak nicely to people. Pray regularly. Give alms.” 
+
+Then you turned away, except for a few of you, recanting.
+
+{{< s v="84" >}} We made a covenant with you: 
+
+> “You shall not shed the blood of your own, nor shall you evict your own from your homes.” 
 
 You agreed, and were all witnesses.
 
@@ -180,4 +192,4 @@ You believe in one part of the Scripture, and disbelieve the other part.
 - What is the reward for those among you who do that but humiliation in this life? 
 - On Resurrection Day, they will be assigned to the most severe torment.
 
-86. Those are they who bought the present life for the Hereafter, so the punishment will not be lightened for them, nor will they be helped.
+<sup>86.</sup> Those are they who bought the present life for the Hereafter, so the punishment will not be lightened for them, nor will they be helped.

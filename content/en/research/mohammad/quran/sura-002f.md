@@ -98,7 +98,7 @@ He, the Benevolent, the Compassionate. -->
 - They love them as they love Allah. 
 - But those who believe have greater love for Allah.
 
-Those wrongdoers would realize that all power is Allah’s 
+<!-- Those wrongdoers would realize that all power is Allah’s  -->
 
 
 {{< s v="166" >}} They will then disown their followers who will say: “If only we can have another chance, we will disown them, as they disowned us.” 

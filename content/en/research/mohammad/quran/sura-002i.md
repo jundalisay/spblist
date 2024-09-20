@@ -55,11 +55,12 @@ Whoever among you turns back from his religion, and dies a disbeliever—those a
 
 Those are the inmates of the Fire, abiding in it forever.
 
-218. Those who believed, and those who migrated and fought for the sake of Allah--those look forward to Allah’s mercy.
+<sup>218.</sup> Those who believed, and those who migrated and fought for the sake of Allah--those look forward to Allah’s mercy.
+
 
 ## Intoxicants and gambling
 
-219. Intoxicants and gambling creates:
+<sup>219.</sup> Intoxicants and gambling creates:
 - gross sin
 - some benefits for people
 
@@ -67,39 +68,37 @@ But their sinfulness outweighs their benefit.
 
 People should give the surplus.
 
-
-220. About this world and the next. And they
-ask you about orphans. Say, “Improvement
-for them is best. And if you intermix with
-them, then they are your brethren.” 
+<!-- About this world and the next. -->
+<sup>220.</sup>  They ask you about orphans. Say, “Improvement for them is best. If you intermix with them, then they are your brethren.” 
 
 <!-- Allah knows the dishonest from the honest. Had
 Allah willed, He could have overburdened
 you. Allah is Mighty and Wise. -->
 
-221. Do not marry idolatresses, unless they have believed. 
+<sup>221.</sup> Do not marry idolatresses, unless they have believed. 
 
-A believing maid is better than an idolatress, even if you like her. And do not
-marry idolaters, unless they have believed. 
+A believing maid is better than an idolatress, even if you like her. Do not marry idolaters, unless they have believed. 
 
-A believing servant is better than an idolater, even if you like him. These call to the Fire, but
-Allah calls to the Garden and to forgiveness, by His leave. 
+A believing servant is better than an idolater, even if you like him. These call to the Fire, but Allah calls to the Garden and to forgiveness, by His leave. 
 
 He makes clear His communications to the people, that they may be mindful.
 
-222. Menstruation is harmful, so keep away from women during menstruation.
+<sup>222.</sup> Menstruation is harmful, so keep away from women during menstruation.
 - Do not approach them until they have become pure. 
 - Once they have become pure, approach them in the way Allah has directed you.
 
-223. Your women are cultivation for you. 
+<sup>223.</sup> Your women are cultivation for you. 
 - So approach your cultivation whenever you like, and send ahead for yourselves. <!-- And fear Allah, and know that you will meet Him. And
 give good news to the believers. -->
 
-224. And do not allow your oaths in Allah's name to hinder you from virtue, and righteousness, and making peace between people.
 
-225. Allah does not hold you responsible for your unintentional oaths, but He holds you responsible for your intentions. Allah is Forgiving and Forbearing.
+<sup>224.</sup> Do not allow your oaths in Allah's name to hinder you from virtue, and righteousness, and making peace between people.
 
-226. Those who vow abstinence from their wives must wait for four months. But if they
-reconcile—Allah is Forgiving and Merciful.
+<sup>225.</sup> Allah does not hold you responsible for your unintentional oaths, but He holds you responsible for your intentions. Allah is Forgiving and Forbearing.
+
+<sup>226.</sup> Those who vow abstinence from their wives must wait for four months.
+
+<!--  But if they
+reconcile—Allah is Forgiving and Merciful. -->
 
 <!-- 227. And if they resolve to divorce—Allah is Hearing and Knowing. -->

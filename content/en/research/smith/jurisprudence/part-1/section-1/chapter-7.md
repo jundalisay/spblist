@@ -26,11 +26,19 @@ The conquering king and the other chieftains would naturally=
 - take more land and distribute it among their vassals and dependents, and
 - leave only a tiny share to the ancient inhabitants.
 
-However, they did not exterminate them entirely but still paid them some little regard. Among the Franks who took Gaul, the person who killed a Frank paid only five times the fine which was payable for killing one of the old inhabitants.
+However, they did not exterminate them entirely but still paid them some little regard. 
+
+Among the Franks who took Gaul, the person who killed a Frank paid only five times the fine which was payable for killing one of the old inhabitants.
 
 These nations were almost lawless and all kinds of commerce was stopped.
 
-The allodial government arose because of this. It introduced an inequality of fortune. All these chieftains held their lands allodially, meaning without any burden of tax, rent, wardship, etc. One of these great lords had land near the size of a county. But he was unable to reap any advantage from so much of it so he parceled it out among vassals, who= 
+The allodial government arose because of this. 
+
+It introduced an inequality of fortune. 
+
+All these chieftains held their lands allodially, meaning without any burden of tax, rent, wardship, etc. 
+
+One of these great lords had land near the size of a county. But he was unable to reap any advantage from so much of it so he parceled it out among vassals, who: 
 - paid a certain annuity,
 - attended him in war, or
 - performed some service of this nature.

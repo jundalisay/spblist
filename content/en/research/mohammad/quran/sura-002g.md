@@ -77,13 +77,11 @@ But whoever commits aggression after that, a painful torment awaits him.
 
 {{< s v="179" >}} There is life for you in retaliation so that you may refrain.
 
-{{< s v="180" >}} It is decreed for you: when death approaches one of you, and he leaves wealth, to
-make a testament in favor of the parents and the relatives, fairly and correctly—a duty upon the righteous.
+{{< s v="180" >}} It is decreed for you: when death approaches one of you, and he leaves wealth, to make a testament in favor of the parents and the relatives, fairly and correctly—a duty on the righteous.
 
 {{< s v="181" >}} But whoever changes it after he has heard it, the guilt is upon those who change it.
 
-{{< s v="182" >}} Should someone suspect bias or injustice on the part of a testator, and then reconciles
-between them, he commits no sin. 
+{{< s v="182" >}} Should someone suspect bias or injustice on the part of a testator, and then reconciles between them, he commits no sin. 
 
 
 ## Fasting

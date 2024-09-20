@@ -35,9 +35,13 @@ When the heir female succeeded, the feudal baron had a right to marry her to who
 
 ## Prima seizin, Relief, Escheat
 
-The *prima seizin* was another emolument of the lord. When the father died, the son had no right to the estate until he publicly declared his willingness to accept it.  The lord sometimes had the estate to himself and enjoyed its profits for some time. The heir paid a sum to get it back, which was called *relief*.
+The *prima seizin* was another emolument of the lord. When the father died, the son had no right to the estate until he publicly declared his willingness to accept it.  
 
-The *escheat* was another emolument of the lord. After the estate became hereditary, it returned to the lord if there was no heir. The same thing happened if the heir failed to perform the required services. There were other small sums due to the superior on redeeming his son when= 
+The lord sometimes had the estate to himself and enjoyed its profits for some time. The heir paid a sum to get it back, which was called *relief*.
+
+The *escheat* was another emolument of the lord. After the estate became hereditary, it returned to the lord if there was no heir. The same thing happened if the heir failed to perform the required services. 
+
+There were other small sums due to the superior on redeeming his son when= 
 - taken prisoner, or
 - on knighting him, and
 - on the marriage of his daughter, etc.
@@ -63,7 +67,9 @@ Malcolm Kenmure1 did the same in Scotland. The introduction of the feudal system
 - popular government,
 - all the popular courts -- Decennary, hundred, and county courts were prohibited
 
-All public affairs were managed by the king and the great feudal lords. Only the hereditary lords had a right to sit in parliament. Those great lords immediately under the king were considered as his companions, *pares convivii comites*. They advised on public affairs. Everything important was done through them. They had to be called together to get the majority's consent before any law could be passed.
+All public affairs were managed by the king and the great feudal lords. Only the hereditary lords had a right to sit in parliament. 
+
+Those great lords immediately under the king were considered as his companions, *pares convivii comites*. They advised on public affairs. Everything important was done through them. They had to be called together to get the majority's consent before any law could be passed.
 
 The barons or inferior lords observed the same method in their jurisdictions. They were called *pares curiae baronis*.
 <!-- They also needed to be consulted since they were also in arms. -->

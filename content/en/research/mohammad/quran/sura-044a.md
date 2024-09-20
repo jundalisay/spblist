@@ -9,14 +9,11 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 <!-- {{< s v="1" >}}  Ha, Meem. -->
 
-{{< s v="2" >}}  By the Enlightening Scripture.{{< s v="3" >}}  We have revealed it on a Blessed Night—
-We have warned.
+{{< s v="2" >}}  By the Enlightening Scripture.{{< s v="3" >}}  We have revealed it on a Blessed Night—We have warned.
 
-{{< s v="4" >}}  In it is distinguished every wise command. A decree from Us. We have been sending
-messages.
+{{< s v="4" >}}  In it is distinguished every wise command. A decree from Us. We have been sending messages.
 
-6. As mercy from your Lord. He is the Hearer,
-the Knower.
+<sup>6.</sup> As mercy from your Lord. He is the Hearer, the Knower.
 
 7. Lord of the heavens and the earth and what is between them, if you know for sure.
 
@@ -25,17 +22,18 @@ ancestors of old. Yet they play around in doubt.
 
 out for the Day when the sky produces a visible smoke. {{< s v="11" >}}  Enveloping mankind; this is a painful punishment.
 
-12. “Our Lord, lift the torment from us, we are believers.”
 
-13. But how can they be reminded? An enlightening messenger has already come to them.
+<sup>12.</sup> “Our Lord, lift the torment from us, we are believers.”
 
-14. But they turned away from him, and said, “Educated, but crazy!”
+<sup>13.</sup> But how can they be reminded? An enlightening messenger has already come to them.
 
-15. We will ease the punishment a little, but you will revert.
+<sup>14.</sup> But they turned away from him, and said, “Educated, but crazy!”
+
+<sup>15.</sup> We will ease the punishment a little, but you will revert.
 
 {{< s v="16" >}}The Day when We launch the Great Assault—We will avenge.
 
-17. Before them We tested the people of Pharaoh; a noble messenger came to them.{{< s v="10" >}}  So watch
+<sup>17.</sup> Before them We tested the people of Pharaoh; a noble messenger came to them.{{< s v="10" >}}  So watch
 
 18. Saying, “Hand over Allah’s servants to me. I am an honest messenger to you.”
 
@@ -50,34 +48,38 @@ out for the Day when the sky produces a visible smoke. {{< s v="11" >}}  Envelop
 23. “Set out with My servants by night—you will be followed.
 
 24. And cross the sea quickly; they are an army to be drowned.”
-25. How many gardens and fountains did they leave behind?
-26. And plantations, and splendid buildings.
 
-27. And comforts they used to enjoy.
+<sup>25.</sup> How many gardens and fountains did they leave behind? <sup>26.</sup> And plantations, and splendid buildings. <sup>27.</sup> And comforts they used to enjoy.
 
-28. So it was; and We passed it on to another people.
-29. Neither heaven nor earth wept over them, nor were they reprieved.
-30. And We delivered the Jews from the humiliating persecution.
+<sup>28.</sup> So it was; and We passed it on to another people.
 
-31. From Pharaoh. He was a transgressing tyrant.
+<sup>29.</sup> Neither heaven nor earth wept over them, nor were they reprieved.
 
-32. And We chose them knowingly over all other people.
+<sup>30.</sup> We delivered the Jews from the humiliating persecution.
 
-33. And We gave them many signs, in which was an obvious test.
-34. These people say.
-“There is nothing but our first death, and
+<sup>31.</sup> From Pharaoh. He was a transgressing tyrant.
+
+<sup>32.</sup> We chose them knowingly over all other people.
+
+<sup>33.</sup> We gave them many signs, in which was an obvious test.
+
+<sup>34.</sup> These people say. “There is nothing but our first death, and
 we will not be resurrected.
 
-36. Bring back our ancestors, if you are truthful.”
+<sup>36.</sup> Bring back our ancestors, if you are truthful.”
 
-37. Are they better, or the people of Tubba and those before them? We annihilated them.
+<sup>37.</sup> Are they better, or the people of Tubba and those before them? We annihilated them.
 
-38. We did not create the heavens and the earth and what is between them to play.
-35. We created them only for a specific purpose, but most of them do not know.
-40. The Day of Sorting Out is the appointed time for them all.
+<sup>38.</sup> We did not create the heavens and the earth and what is between them to play.
 
-41. The Day when no friend will avail a friend in any way, and they will not be helped.
-42. Except for him upon whom Allah has mercy. He is the Mighty, the Merciful.
+
+<sup>35.</sup> We created them only for a specific purpose, but most of them do not know.
+
+<sup>40.</sup> The Day of Sorting Out is the appointed time for them all.
+
+<sup>41.</sup> The Day when no friend will avail a friend in any way, and they will not be helped.
+
+<sup>42.</sup> Except for him upon whom Allah has mercy. He is the Mighty, the Merciful.
 
 43. The Tree of Bitterness.
 44. The food of the sinner.

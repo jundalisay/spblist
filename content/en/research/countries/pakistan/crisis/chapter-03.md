@@ -1,5 +1,5 @@
 ---
-title: WHY PAKISTAN WILL SURVIVE'
+title: Why Pakistan Will Survive
 weight: 8
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
@@ -9,12 +9,16 @@ image: "/flags/pk.png"
 
 Mohsin Hamid
 
-I don't dispute that these are hard times. Thousands of us died last year in terrorist attacks. Hundreds of thousands were displaced by military operations. Most of us don't have access to decent
-schools. Inflation is squeezing our poor and middle class. Millions are, if
-not starving, hungry. 
+I don't dispute that these are hard times. 
+- Thousands of us died last year in terrorist attacks.
+- Hundreds of thousands were displaced by military operations.
+- Most of us don't have access to decent schools.
+- Inflation is squeezing our poor and middle class.
+- Millions are, if not starving, hungry. 
 
-Even those who can afford electricity don't have it half the day. Yet, despite this desperate suffering, Pakistan is also something of a miracle. It's worth pointing this out, because incessant
-pessimism robs us of an important resource: hope.
+Even those who can afford electricity don't have it half the day.
+
+Yet, despite this desperate suffering, Pakistan is also something of a miracle. It's worth pointing this out, because incessant pessimism robs us of an important resource: hope.
 
 1. We are the 6th most populous country
 
@@ -26,57 +30,84 @@ There are more people aged 14 and younger in Pakistan than there are in America.
 
 I have seen few countries whose diversity comes close to matching ours. Linguistically, we are home to many major languages.
 
-Punjabi is spoken in Pakistan by more people than the entire population of France; Pushto by more than the population of Saudi Arabia; Sindhi by more than Australia; Seraiki by more than the Netherlands; Urdu by more than Cuba, and Balochi by more than Singapore.
+Punjabi is spoken in Pakistan by more people than the entire population of France.
+
+Pushto by more than the population of Saudi Arabia; Sindhi by more than Australia; Seraiki by more than the Netherlands; Urdu by more than Cuba, and Balochi by more than Singapore.
 
 Pakistani diversity is not limited to language.
 
-Religiously we are overwhelmingly Muslim, but still we have more non-Muslims than there are people in either Toronto or Miami. We have more Shi'as than any 45country besides Iran. Even our majority Sunnis include followers of the Barelvi, Deobandi and numerous other schools, as well as, in all likelihood, many millions who have no idea what school they belong to and don't really care.
+Religiously we are overwhelmingly Muslim. But still we have more non-Muslims than there are people in either Toronto or Miami. 
 
-Culturally, too, we are incredibly diverse. We have transvestite talkshow hosts, advocates for 'eunuch rights', burqa-wearers, turbaned men with beards, outstanding fast bowlers, mediocre opening batsmen, tribal chieftains, bhang-drinking farmers, semi-nomadic shepherds, and at least one champion female sprinter. We have the Communist Mazdoor Kissan Party and we have Porsche dealerships. We are nobody's stereotype.
+We have more Shi'as than any country besides Iran. 
 
-Diversity is an enormous advantage. Not only is there brilliance and potential in our differences, a wealth of experience and ideas, but also our lack of sameness forces us to accommodate each other, to find ways to coexist.
+Even our majority Sunnis include followers of the Barelvi, Deobandi and numerous other schools, as well as, in all likelihood, many millions who have no idea what school they belong to and don't really care.
 
-This brings me to our third great asset. 'Tolerance' seems a strange word to apply to a country where women are still buried alive and teenagers have started detonating themselves in busy shopping districts.
+Culturally, too, we are incredibly diverse.
 
-Yet these acts shock us because they are aberrations, not the norm. Pakistan is characterised not by the outliers among its citizens who are willing to kill those unlike themselves, but by the millions of us who reject every opportunity to do so. Our different linguistic, religious and cultural
-groups mostly live side by side in relative peace. It usually takes state
-intervention (whether by our own state, our allies or our enemies) to get
-us to kill one another, and even then, those who do so are a tiny minority.
-The ability to hold our noses and put up with fellow citizens we
-don't much like is surely a modern Pakistani characteristic. It could be the
-result of geography and history, of millennia of invading, being invaded,
-and dealing with the aftermath. Europe learned the value of peace from
-World Wars One and Two. Maybe we learned our lesson from the
-violence of partition or 1971. Call it pragmatism or cosmopolitanism or
-whatever you want, but I think most Pakistanis have it. I will call it
-coexistenceism, and it is a blessing.
+We have:
+- transvestite talkshow hosts
+- advocates for 'eunuch rights'
+- burqa-wearers
+- turbaned men with beards
+- outstanding fast bowlers
+- mediocre opening batsmen
+- tribal chieftains
+- bhang-drinking farmers
+- semi-nomadic shepherds
+- one champion female sprinter. 
 
-Over the past sixty or so years, with many disastrous missteps along
-the way, our vastness, diversity and coexistenceism have forced us to
-develop (or to begin to develop, for it is a work in progress) our fourth
-great asset: the many related components of our democracy. Between
-India and Europe, there is no country with a combination of diversity and
-46democracy that comes close to ours. Other than Turkey, the rest are
-dictatorships, monarchies, apartheid states or under foreign occupation.
-We, on the other hand, are evolving a system that allows our
-population to decide how they will be ruled. Many of our politicians may
-be corrupt and venal, but they are part of a lively and contested multiparty
-democracy. Many in our media may be immature or serving vested
-interests, but collectively they engage in a no-holds-barred debate that
-exposes, criticises, entertains and informs-and through television they
-have given our country, for the first time in its history, a genuine public
-space. Our judges may have a rather unusual understanding of the correct
-relationship between legislature and judiciary, but they are undoubtedly
-expanding the rule of law-and hence the power of the average citizen-in a
-land where it has been almost absent.
+We have:
+- the Communist Mazdoor Kissan Party
+- Porsche dealerships. 
 
-As I see it, the Pakistan project is a messy search for ways to improve
-the lives of 170 million very different citizens. False nationalism will not
-work: we are too diverse to believe it. That is why our dictatorships
-inevitably end. Theocracy will not work: we are too diverse to agree on the
-interpretation of religious laws. That is why the Taliban will not win.
-Can democracy deliver? In some ways it already is. The NFC (National
-Finance Commission) award and, hopefully, the Eighteenth Amendment,
+We are nobody's stereotype.
+
+Diversity is an enormous advantage. There is brilliance and potential in our differences, a wealth of experience and ideas. 
+
+Our lack of sameness forces us to accommodate each other, to find ways to coexist.
+
+This brings me to our third great asset.
+
+3. 'Tolerance' is a strange word to apply to a country where:
+- women are still buried alive
+- teenagers have started detonating themselves in busy shopping districts.
+
+These acts shock us because they are aberrations, not the norm.
+
+Pakistan is characterised not by the outliers among its citizens who are willing to kill those unlike themselves, but by the millions of us who reject every opportunity to do so.
+
+Our different linguistic, religious and cultural groups mostly live side by side in relative peace. 
+
+It usually takes state intervention (whether by our own state, our allies or our enemies) to get us to kill one another, and even then, those who do so are a tiny minority.
+
+The ability to hold our noses and put up with fellow citizens we don't much like is surely a modern Pakistani characteristic. 
+
+It could be the result of geography and history, of millennia of invading, being invaded, and dealing with the aftermath. 
+
+Europe learned the value of peace from World Wars One and Two. Maybe we learned our lesson from the violence of partition or 1971. Call it pragmatism or cosmopolitanism or whatever you want, but I think most Pakistanis have it. I will call it coexistenceism, and it is a blessing.
+
+Over the past 60 or so years, with many disastrous missteps along the way, our vastness, diversity and coexistenceism have forced us to develop (or to begin to develop, for it is a work in progress) our fourth great asset: the many related components of our democracy. Between India and Europe, there is no country with a combination of diversity and
+46democracy that comes close to ours. 
+
+Other than Turkey, the rest are dictatorships, monarchies, apartheid states or under foreign occupation. 
+
+We, on the other hand, are evolving a system that allows our population to decide how they will be ruled. Many of our politicians may be corrupt and venal, but they are part of a lively and contested multiparty democracy. 
+
+Many in our media may be immature or serving vested  interests, but collectively they engage in a no-holds-barred debate that exposes, criticises, entertains and informs-and through television they have given our country, for the first time in its history, a genuine public space. 
+
+Our judges may have a rather unusual understanding of the correct relationship between legislature and judiciary, but they are undoubtedly expanding the rule of law-and hence the power of the average citizen-in a land where it has been almost absent.
+
+As I see it, the Pakistan project is a messy search for ways to improve the lives of 170 million very different citizens. 
+
+False nationalism will not work: we are too diverse to believe it. That is why our dictatorships inevitably end. 
+
+Theocracy will not work. We are too diverse to agree on the interpretation of religious laws. 
+
+That is why the Taliban will not win.
+
+Can democracy deliver? In some ways it already has. 
+
+The NFC (National Finance Commission) award and, hopefully, the Eighteenth Amendment,
 are powerful moves towards devolution of power to the provinces. Too
 much centralisation has been stifling in a country as diverse as Pakistan.
 That is about to change. The pressure of democracy seems likely to go

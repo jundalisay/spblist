@@ -33,7 +33,9 @@ These are Allah’s limits, so do not transgress them. Those who transgress Alla
 <!-- These are Allah’s limits; He makes them clear
 to people who know. -->
 
-{{< s v="231">}} When you divorce women, and they have reached their term, either retain them amicably, or release them amicably. But do not retain them to hurt them and commit aggression. Whoever does that has wronged himself. 
+{{< s v="231">}} When you divorce women, and they have reached their term, either retain them amicably, or release them amicably. 
+
+But do not retain them to hurt them and commit aggression. Whoever does that has wronged himself. 
 
 <!-- And do not take Allah’s revelations for a joke. 
 And remember Allah's favor to you, and that He revealed to you the Scripture and
@@ -56,13 +58,14 @@ If the couple desire weaning, by mutual consent and consultation, they commit no
 so. You commit no error by hiring nursing-mothers, as long as you pay them fairly. 
 
 
-{{< s v="234">}} As for those among you who die and leave widows behind, their widows shall wait by
-themselves for four months and ten days. 
+{{< s v="234">}} As for those among you who die and leave widows behind, their widows shall wait by themselves for four months and ten days. 
 
 When they have reached their term, there is no blame on you regarding what they might
 honorably do with themselves. Allah is fully acquainted with what you do.
 
-{{< s v="235">}} You commit no error by announcing your engagement to women, or by keeping it to yourselves. Allah knows that you will be thinking about them. But do not meet them secretly, unless you have something proper to say. 
+{{< s v="235">}} You commit no error by announcing your engagement to women, or by keeping it to yourselves. 
+
+Allah knows that you will be thinking about them. But do not meet them secretly, unless you have something proper to say. 
 
 Do not confirm the marriage tie until the writing is fulfilled. 
 
@@ -73,8 +76,7 @@ Forbearing. -->
 
 {{< s v="236" >}} It is alright to divorce women before having touched them, or before having set the dowry for them.
 
-Compensate them—the wealthy according to his means, and the poor according to his means—with a
-fair compensation, a duty upon the doers of good.
+Compensate them—the wealthy according to his means, and the poor according to his means—with a fair compensation, a duty upon the doers of good.
 
 {{< s v="237">}} If you divorce them before you have touched them, but after you had set the
 dowry for them, give them half of what you specified—unless they forego the right, or the
@@ -97,7 +99,9 @@ so that you may understand.
 
 {{< s v="243" >}} Have you not considered those who fled their homes, by the thousands, fearful of death? 
 
-Allah said to them, “Die.” Then He revived them. Allah is Gracious towards the people, but most people are not appreciative.
+Allah said to them, “Die.” Then He revived them. 
+
+<!-- Allah is Gracious towards the people, but most people are not appreciative. -->
 
 
 <!-- 245. Who is he who will offer Allah a generous

@@ -63,34 +63,36 @@ Take provisions. The best provision is righteousness.
 Be mindful of Me.
 
 
-198. You commit no error by seeking bounty from your Lord. 
+<sup>198.</sup> You commit no error by seeking bounty from your Lord. 
 
-When you disperse from Arafat, remember Allah at the Sacred Landmark. And remember Him as He has guided
-you. Although, before that, you were of those astray.
+When you disperse from Arafat, remember Allah at the Sacred Landmark. And remember Him as He has guided you. 
 
-199. Then disperse from where the people disperse, and ask Allah for forgiveness.
+<!-- Although, before that, you were of those astray. -->
 
-200. When you have completed your rites, remember Allah as you remember your parents, or even more. 
+<sup>199.</sup> Then disperse from where the people disperse, and ask Allah for forgiveness.
 
-Among the people is he who says, “Our Lord, give us in this world,”
-yet he has no share in the Hereafter.
+<sup>200.</sup> When you have completed your rites, remember Allah as you remember your parents, or even more. 
 
-201. And among them is he who says, “Our Lord, give us goodness in this world, and
+Among the people is he who says, “Our Lord, give us in this world,” yet he has no share in the Hereafter.
+
+<sup>201.</sup> Among them is he who says, “Our Lord, give us goodness in this world, and
 goodness in the Hereafter, and protect us from the torment of the Fire.”
 
-202. These will have a share of what they have earned. Allah is swift in reckoning.
+<sup>202.</sup> These will have a share of what they have earned. Allah is swift in reckoning.
 
-203. Remember Allah during the designated days. But whoever hurries on in 2 days commits no wrong, and whoever stays on commits no wrong—provided he maintains righteousness. 
+<sup>203.</sup> Remember Allah during the designated days. But whoever hurries on in 2 days commits no wrong, and whoever stays on commits no wrong—provided he maintains righteousness. 
 
 <!-- And obey Allah, and
 know that to Him you will be gathered. -->
 
-204. Among the people is he whose speech about the worldly life impresses you, and he calls Allah to witness what is in his heart, while he is the most hostile of adversaries.
+<sup>204.</sup> Among the people is he whose speech about the worldly life impresses you, and he calls Allah to witness what is in his heart, while he is the most hostile of adversaries.
 
-205. When he gains power, he strives to spread corruption on earth, destroying properties and lives. Allah does not like corruption.
+<sup>205.</sup> When he gains power, he strives to spread corruption on earth, destroying properties and lives. Allah does not like corruption.
 
-206. And when he is told, “Beware of Allah,” his pride leads him to more sin. Hell is enough for him—a dreadful abode. 
+<sup>206.</sup> When he is told, “Beware of Allah,” his pride leads him to more sin. Hell is enough for him—a dreadful abode. 
 
-207. And among the people is he who sells himself seeking Allah’s approval. Allah is kind towards the servants.
+<sup>207.</sup> Among the people is he who sells himself seeking Allah’s approval.
+
+ <!-- Allah is kind towards the servants. -->
 
 
