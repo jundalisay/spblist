@@ -60,7 +60,7 @@ The economic value of a bridge, for example, is more abstract than its cost-pric
 
 If value were a moving desire-entity, then price would be a snapshot of that desire taken at a certain time.
 
-{{< f f="*This is proven by the Japanese character for value and those for price 値段. Fundamental perceptions like person 人 and day 日 get one character, while their derivative ideas like Chinese person 中国人 and Monday 月曜日 have characters added to them." >}}
+<!-- f f="*This is proven by the Japanese character for value and those for price 値段. Fundamental perceptions like person 人 and day 日 get one character, while their derivative ideas like Chinese person 中国人 and Monday 月曜日 have characters added to them." -->
 
 
 

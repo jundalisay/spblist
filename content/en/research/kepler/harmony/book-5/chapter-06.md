@@ -11,10 +11,9 @@ icon: /avatars/kepler.png
 
 The individual planets represent individual positions in the system hy their motion at perihelion, insofar as it is granted to each to traverse some particular interval in the musical scale, encompassed by certain notes in it, or positions in the system. 
 
-Each starts from the note or position which belonged to its motion at aphelion in the previous Chapter, for Saturn indeed and the Earth G, but for Jupiter, which can be transposed into the higher G, for Mars fg , for Venus e; for Mercury A, in the higher system.*
+Each starts from the note or position which belonged to its motion at aphelion in the previous Chapter, for Saturn indeed and the Earth G, but for Jupiter, which can be transposed into the higher G, for Mars fg, for Venus e; for Mercury A, in the higher system.
 
-Here they are individually in the conventional notation. They do not indeed form the intermediate positions, which you here see filled in with notes, specifically, as they do the extremes; for they advance from
-one extreme to the opposite one not by leaps and intervals, but with
+Here they are individually in the conventional notation. They do not indeed form the intermediate positions, which you here see filled in with notes, specifically, as they do the extremes; for they advance from one extreme to the opposite one not by leaps and intervals, but with
 a continually changing note, pervading all between (potentially infi­
 nite) in reality.
 

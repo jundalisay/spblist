@@ -10,23 +10,38 @@ icon: /icons/mont.png
 
 
 
-Modern Europeans have very near the same arts, the same arms, the same discipline, and the same manner of making war. 
+Modern Europeans have very near the same arts, the same arms, the same discipline, and the same manner of making war.
 
-The prodigious fortune to which the Romans attained, seems incredible to us. Besides, power is at this time divided so disproportionably, that it is not possible for a petty state to raise itself, merely by its own strength, [16] from the low condition in which Providence has placed it.
+The prodigious fortune attained by the Romans seems incredible to us.
+
+Power back then was divided so disproportionably, that it is impossible for a petty state to raise itself by its own strength [16].
 
 <!-- This merits some reflections, otherwise we might behold several events without being able to account for them; and for want of having a perfect idea of the different situation of things, we should believe, in perusing ancient history, that we view a set of men different from ourselves. -->
 
-A European prince who has 1 million people cannot maintain more than 10,000 soldiers or 1= 100 without destroying himself. Consequently, only large nations have armies.
+A European prince who has 1 million people cannot maintain more than 10,000 soldiers or 1:100 without destroying himself. Consequently, only large nations have armies.
 
-But this was different with ancient commonwealths. Their proportion of citizens to soldiers was 1= 8.<!--   for this proportion between the soldiers and the rest of the people, which is now as one to an hundred, might, in those times, be pretty near as one is to eight. -->
+But this was different with ancient commonwealths. Their proportion of citizens to soldiers was 1:8.<!--   for this proportion between the soldiers and the rest of the people, which is now as one to an hundred, might, in those times, be pretty near as one is to eight. -->
 
 The founders of ancient commonwealths had made an equal distribution of the lands. This alone raised a nation to power by creating a well-regulated society. 
 
 This also strengthed its armies. It let <!-- ; it being equally the interest (and this too was very great) of --> everyone exert himself in defence of his country.
 
-When laws were not executed in their full rigour, affairs returned back to the same point in which we now see them. The avarice of some particular persons, and the lavish profuseness of others, occasioned the lands to become the property of a few; immediately arts were introduced to supply the reciprocal wants of the rich and poor; by which means there were but very few soldiers or citizens seen; for the revenues of the lands that had before been employed to support the latter, were now bestowed wholly on slaves and artificers, who administered to the luxury of the new proprietors; for otherwise the government, which, how licentious soever it be, must exist, would have [17] been destroyed. 
+When laws were not executed in their full rigour, affairs returned back to the same point in which we now see them. 
 
-Before the state's corruption, its original revenues were divided among the soldiers, that is, the labourers. After it was corrupted, they went first to the rich, who let them out to flaves and artificers, from whom they received by way of tribute a part for the maintenance of the soldiers.
+The avarice of some particular persons, and the lavish profuseness of others, occasioned the lands to become the property of a few.
+
+Immediately, arts were introduced to supply the reciprocal wants of the rich and poor.
+
+
+The revenues of the lands that had before supported soldiers and citizens were now bestowed wholly on slaves and artificers who fed the luxury of the new proprietors.
+
+This reduced the numbers of soldiers or citizens.
+
+<!-- ; for otherwise the government, which, how licentious soever it be, must exist, would have [17] been destroyed.  -->
+
+Before the state's corruption, its original revenues were divided among the soldiers, that is, the labourers. 
+
+After it was corrupted, they went first to the rich, who let them out to flaves and artificers, from whom they received by way of tribute a part for the maintenance of the soldiers.
 
 It was impossible that people of this cast should be good soldiers, they being cowardly and abject; already corrupted by the luxury of cities, and often by the very art they professed; not to mention, that as they could not properly call any country their own, and reaped the fruits of their industry in every clime, they had very little either to lose or keep.
 

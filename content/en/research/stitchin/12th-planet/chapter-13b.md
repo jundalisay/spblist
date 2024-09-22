@@ -22,31 +22,45 @@ The Sumerian tale also tell of Enki and Ninti initially creating imperfect males
 
 <!-- These were either sexless or sexually incomplete beings. -->
 
-Does this text recall the first phase of the existence of hybrid Man—a being in the likeness and image of the gods, but sexually incomplete: lacking in "knowing"?
+<!-- Does this text recall the first phase of the existence of hybrid Man—a being in the likeness and image of the gods, but sexually incomplete: lacking in "knowing"? -->
 
-After Enki managed to produce a "perfect model"—Adapa/Adam, "massproduction" techniques are described in the Sumerian texts: the implanting of the genetically treated ova in a "production line" of birth goddesses, with the advance knowledge that half would produce males and half would produce females. 
+After Enki produced a "perfect model"—Adapa/Adam, "mass production" techniques began. 
 
-Not only does this bespeak the technique by which hybrid Man was "manufactured"; it also implies that Man could not procreate on his own. The inability of hybrids to procreate, it has been discovered recently, stems from a deficiency in the reproductive cells.
+ <!-- are described in the Sumerian texts: the implanting of the genetically treated ova in a "production line" of birth goddesses, with the advance knowledge that half would produce males and half would produce females.  -->
 
-While all cells contain only one set of the hereditary chromosomes, Man and other mammals are able to reproduce because their sex cells (the male sperm, the female ovum) contain two sets each. But this
-unique feature is lacking in hybrids. Attempts are now being made through genetic engineering to provide hybrids with such a double set of chromosomes in their reproductive cells, making them sexually "normal."
+<!-- Not only does this bespeak the technique by which hybrid Man was "manufactured";  -->
 
-Was that what the god whose epithet was "The Serpent" accomplished for Mankind?
+It implies that Man could not procreate on his own. 
 
-The biblical Serpent surely was not a lowly, literal snake—for he could converse with Eve, he knew the truth about the matter of "knowing," and he was of such high stature that he unhesitatingly exposed the deity as a liar. 
+The inability of hybrids to procreate, it has been discovered recently, stems from a deficiency in the reproductive cells.
 
-In all ancient traditions, the chief deity fought a Serpent adversary—a tale whose roots undoubtedly go back to the Sumerian gods.
+While all cells contain only one set of the hereditary chromosomes, Man and other mammals are able to reproduce because their sex cells (the male sperm, the female ovum) contain two sets each. 
 
-The biblical tale reveals many traces of its Sumerian origin, including the presence of other deities: "The Adam has become as one of us." The possibility that the biblical antagonists—the Deity and the Serpent—stood for Enlil and Enki seems to us entirely plausible.
+But this unique feature is lacking in hybrids. Attempts are now being made through genetic engineering to provide hybrids with such a double set of chromosomes in their reproductive cells, making them sexually "normal."
 
-Their antagonism, as we have discovered, originated in the transfer to Enlil of the command of Earth, although Enki had been the true pioneer. While Enlil stayed at the comfortable Mission Control Center at Nippur, Enki was sent to organize the mining operations in the Lower World. The mutiny of the Anunnaki was directed at Enlil and his son Ninurta; the god who spoke out for the mutineers
-was Enki. 
+Was that what "The Serpent" accomplished for Mankind?
 
-It was Enki who suggested, and undertook, the creation of Primitive Workers; Enlil had to use force to obtain some of these wonderful creatures. As the Sumerian texts recorded the course of human events, Enki as a rule emerges as Mankind's protagonist, Enlil as its strict discipliner if not outright antagonist. 
+<!-- The biblical Serpent surely was not a lowly, literal snake—for he could converse with Eve, he knew the truth about the matter of "knowing," and he was of such high stature that he unhesitatingly exposed the deity as a liar. 
+
+In all ancient traditions, the chief deity fought a Serpent adversary—a tale whose roots undoubtedly go back to the Sumerian gods. -->
+
+The biblical tale reveals many traces of its Sumerian origin, including the presence of other deities: "The Adam has become as one of us." 
+
+The Deity and the Serpent—stood for Enlil and Enki.
+
+Their antagonism originated in the transfer to Enlil of the command of Earth, although Enki had been the true pioneer. 
+
+While Enlil stayed at the comfortable Mission Control Center at Nippur, Enki was sent to organize the mining operations in the Lower World. 
+
+The mutiny by Enki was directed at Enlil and his son Ninurta. 
+
+It was Enki who suggested, and undertook, the creation of Primitive Workers; Enlil had to use force to obtain some of these wonderful creatures. 
+
+As the Sumerian texts recorded the course of human events, Enki as a rule emerges as Mankind's protagonist, Enlil as its strict discipliner if not outright antagonist. 
 
 The role of a deity wishing to keep the new humans sexually suppressed, and of a deity willing and capable of bestowing on Mankind the fruit of "knowing," fit Enlil and Enki perfectly.
 
-Once more, Sumerian and biblical plays on words come to our aid. The biblical term for "Serpent" is nahash, which does mean "snake." 
+Once more, Sumerian and biblical plays on words come to our aid. The biblical term for "Serpent" is nahash, which does mean "snake."
 
 But the word comes from the root NHSH, which means "to decipher, to find out"; so that nahash could also mean "he who can decipher, he who finds things out," an epithet befitting Enki, the chief scientist, the God of Knowledge of the Nefilim. 
 

@@ -57,7 +57,7 @@ Weak blood makes the membrane of the duodenum weak and unable to fight the accum
 
 If the ulcer is in the stomach, the patient suffers pain immediately after eating.
 
-But if that ulcer forms inside the duodenum, the pain starts after a short. 
+But if that ulcer forms inside the duodenum, the pain starts after a short time. 
 - In this case, the pain originates to the right of the navel.
 
 With gastric ulcers, the consumed food has less opportunity inside the body to be digested. This makes the patient thin and worn out.
@@ -110,8 +110,23 @@ The cure of this disease depends largely on the selection of diet – therefore,
 
 Acidity is the main cause of this disease, so it is desirable that food which can increase acidity be carefully avoided. 
 
-An ulcer patient must give up non-vegetarian food and all types of intoxicants. Food which would stimulate or irritate the stomach should also be forsaken; extra-sweet, hot (spicy) and salty foods are unwholesome for an ulcer patient. 
+An ulcer patient must give up:
+- non-vegetarian food
+- all types of intoxicants.
 
-Once the patient gets well, he or she will find alkaline food best. But it is better not to take fibrous food even after a complete cure. After normal health has been restored, the patient should include in the diet spinach, beto shák, mat́ar shák or jute leaves to help clear the bowels and to prevent the vomiting of blood. 
+Food which would stimulate or irritate the stomach should also be forsaken.
 
-As a medicine, shushuni shák fried in ghee is also excellent. All ulcer patients must take daily at least two or three spoonfuls of honey mixed with water or milk. Habitually doing physical or mental work without taking rest after meals is most harmful.
+Extra-sweet, hot (spicy) and salty foods are unwholesome for an ulcer patient. 
+
+Once the patient gets well, he or she will find alkaline food best.
+
+But it is better not to take fibrous food even after a complete cure.
+
+After normal health has been restored, the patient should include in the diet spinach, beto shák, mat́ar shák or jute leaves to help clear the bowels and to prevent the vomiting of blood. 
+
+As a medicine, shushuni shák fried in ghee is also excellent.
+
+All ulcer patients must take daily at least two or three spoonfuls of honey mixed with water or milk. 
+
+Habitually doing physical or mental work without taking rest after meals is most harmful.
+

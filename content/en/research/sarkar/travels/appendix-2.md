@@ -27,7 +27,7 @@ This is why it is also needed to awaken benevolent human conscience and the capa
 Ultimately, Neo-humanism aims at love for one and all, a state which is founded on spiritual enlightenment. 
 
 
-There should be maximum utilization , rational distribution and proper balance of all physical, mental and spiritual resources. Hence the name Progressive Utilization Theory. 
+There should be maximum utilization, rational distribution and proper balance of all physical, mental and spiritual resources. Hence the name Progressive Utilization Theory. 
 
 
 At any given time society is dominated bv a specific psychological outlook or psychological class. 
@@ -36,35 +36,44 @@ If any class becomes over-entrenched in power, it tends to suppress progressive 
 
 Economic planning should be de-centralized as far as is practical. 
 
-The most important planning is on the lowest level—the block level, i.e. an area having about 100,000 people, having similar cultural and ecological concerns. Lower levels should be coordinated by higher levels, for example, blocks by states, states by regions, and regions by nations. Coordination represents concerns of trade, transport, communications, etc. 
+The block level is the lowest level. It has an area with around 100,000 people, having similar cultural and ecological concerns. 
+
+The most important planning is the lowest level. These should be coordinated by higher levels, for example:
+- blocks by states
+- states by regions
+- regions by nations
+
+Coordination represents concerns of trade, transport, communications, etc. 
 
 The basis of boundaries between governing areas should gradually change from historical or political bias, to economic, ecological and cultural factors. 
 
 
 All levels of planning should follow certain economic principles including the following: 
 
-- Everyone must be guaranteed the purchasing capacity for their minimal necessities including food, shelter, clothing, medical care and education. 
-- Opportunities for employment must be provided to all. 
-- There should be a progressive incentive system to encourage initiative, creativity and labor. Incentives may be given not only in the form of money, but also in kind. 
+1. Everyone must be guaranteed the purchasing capacity for their minimal necessities including food, shelter, clothing, medical care and education. 
 
-They may include, for example, equipment by which a person can better his performance, improved working facilities, household items, or other immenities. 
+Opportunities for employment must be provided to all. 
+
+2. There should be a progressive incentive system to encourage initiative, creativity and labor.
+
+Incentives may be given in the form of money, or in kind. 
+- They may include, for example, equipment by which a person can better his performance, improved working facilities, household items, or other immenities. 
 
 Incentives may also be provided through special education, new job possibilities, increased free time, cultural opportunities, recreational facilities, and so on. 
 
-- There may always be a gap between the minimum and maximum economic levels. The economic vitality of a society, however, is judged by the speed of improvement in the minimum standard of living. In a healthy society, the gap is gradually diminishing. 
+3. There may always be a gap between the minimum and maximum economic levels. 
 
-* Improvement in technology is beneficial to mankind when it re¬ 
-sults in neither ecological imbalance nor loss of employment. Due 
-to improved mechanization, workers should benefit whenever 
-possible by diminishment of working hours without loss of salary. 
+The economic vitality of a society, however, is judged by the speed of improvement in the minimum standard of living. In a healthy society, the gap is gradually diminishing. 
 
-* Ignoring psychological factors at the working place is harmful to 
-both the workers and their output. Therefore a portion of the bud¬ 
-get and management time must be allocated to ensure cleanliness, 
-safety, equability, ecological care, and an atmosphere which 
-encourages initiative and creativity. 
+4. Improvement in technology is beneficial to mankind when it results in neither ecological imbalance nor loss of employment. Due to improved mechanization, workers should benefit whenever  possible by diminishment of working hours without loss of salary. 
 
-6) These planning principles should be implemented within the framework of self-sufficient economic zones . These zones may be created by blocks and regions joining together on the basis of economic potentiality, ethnic similarity, and environmental features. 
+5. Ignoring psychological factors at the working place is harmful to both the workers and their output. 
+
+Therefore a portion of the budget and management time must be allocated to ensure cleanliness, safety, equability, ecological care, and an atmosphere which encourages initiative and creativity. 
+
+6. These planning principles should be implemented within the framework of self-sufficient economic zones. 
+
+These zones may be created by blocks and regions joining together on the basis of economic potentiality, ethnic similarity, and environmental features. 
 
 When the local people are directly working for their zone's economic well-being and self-sufficiency, then they become highly motivated. 
 
@@ -72,14 +81,9 @@ The local government must plan for a cooperative economy between agriculture, ma
 
 The government will naturally be concerned for maintaining long-term fertility of its soil and all-round ecological balance 
 
-7) Such economic zones prefer the development of local resources 
-in lieu of exporting raw materials or importing finished products. 
-This policy encourages the growth of a healthy indigenous 
-manufacturing sector, full employment, and greater security in times 
-of difficulty. 
+7. Such economic zones prefer the development of local resources  in lieu of exporting raw materials or importing finished products. This policy encourages the growth of a healthy indigenous manufacturing sector, full employment, and greater security in times  of difficulty. 
 
-8) Within each zone there should be a three-tiered structure of eco¬ 
-nomic enterprises. 
+8) Within each zone there should be a three-tiered structure of economic enterprises. 
 
 - Cooperatives constitute the largest sector, including all agriculture and most industries and commercial companies. 
 
@@ -93,30 +97,32 @@ They are managed as public utilities. Boards of directors are elected democratic
 - Private ventures include small-scale industries, shops and services. 
 
 
-Through the inspiration provided by the multifarious incentive system, through cooperative ownership, and through economic zonal planning, safeguards are created against over-accumulation of wealth in which vested interests hoard resources. 
+Safeguards against over-accumulation of wealth are done through:
+- the inspiration provided by the multifarious incentive system
+- cooperative ownership
+- economic zonal planning
+
 
 Zonal planning should see that villages have sufficient cleanliness, natural beauty, wildlife, and cultural and educational facilities so that all people, animals and plants will enjoy the process of decentralization. 
 
-Over-populated cities must become a thing of the past. 
+**Over-populated cities must become a thing of the past.** 
 
 Prout is not a Utopian philosophy.
 
-Society is the field for everyone's development, and therefore imperfections will always exist. Prout recognizes the need for checks and balances on individual power. 
+Society is the field for everyone's development. Imperfections will always exist. Prout recognizes the need for checks and balances on individual power. 
 
-High caliber leadership consists of persons having certain qualities 
-such as 
-- a reputation for honesty and wisdom 
+High caliber leadership consists of persons having certain qualities  such as 
+- a reputation for honesty and wisdom
 - a history of community service 
-- demonstrated skills in leadership, management and technical 
-knowledge. 
+- demonstrated skills in leadership, management and technical knowledge. 
 
-Such leaders should be elected democratically. Democracy , however, 
-is only successful according to the mentality of the voters. Therefore 
-a literate, well-educated and well-informed electorate is essential. 
-Accordingly, the influence of the mass media and wealth in politics 
-must be regulated. 
+Such leaders should be elected democratically. Democracy, however, is only successful according to the mentality of the voters. Therefore a literate, well-educated and well-informed electorate is essential.  
 
-One of the fundamental works in establishing Prout is to stimulate well-intentioned and capable people to participate in the leadership process. It is commonly believed that power corrupts, and more power corrupts more. If potential Prout leaders engage themselves in intensive social work, healthy living, sacrifice for others, relevant technical education, and spiritual practices— then they may develop the incorruptible qualities needed in the leaders of a society based on coordinated cooperation. 
+**Accordingly, the influence of the mass media and wealth in politics must be regulated.** 
+
+One of the fundamental works in establishing Prout is to stimulate well-intentioned and capable people to participate in the leadership process. 
+
+It is commonly believed that power corrupts, and more power corrupts more. If potential Prout leaders engage themselves in intensive social work, healthy living, sacrifice for others, relevant technical education, and spiritual practices— then they may develop the incorruptible qualities needed in the leaders of a society based on coordinated cooperation. 
 
 Prout supports the eventual establishment of a representative world government.
 

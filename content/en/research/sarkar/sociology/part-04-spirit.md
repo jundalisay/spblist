@@ -55,11 +55,17 @@ This would divide humanity into groups -- one society will naturally try to thri
 
 On observation you will notice that efforts are being made to establish so-called societies in some particular part of the world, for some particular section of the people, and based on some particular “ism” or faith. 
 
-A social consciousness based on such divisions lies latent in the minds of the people, whether they are Indian, Pakistani or English, so they remain absorbed in thoughts of their smaller groups.
+A social consciousness based on such divisions lies latent in the minds of the people, whether they are Indian, Pakistani or English. 
+- This is why they remain absorbed in thoughts of their smaller groups.
 
-It is actually due to some external impact that social consciousness takes the form of a really all-embracing Indian, Pakistani or English consciousness. 
 
-The social consciousness of an enslaved nation is never more keenly felt than when the people are at war with the dominating colonial power. After independence that consciousness is lost.
+
+Social consciousness takes the form of a really all-embracing Indian, Pakistani or English consciousness due to some external impact.
+
+The social consciousness of an enslaved nation is most keenly felt when the people are at war with the dominating colonial power. 
+- After independence, that consciousness is lost.*
+
+{{< n n="To unite society, we could use a war agaist global warming, which represents the Negative Force in humans" >}}
 
 Examples of antisocial fissiparous tendencies do not stop here.
 

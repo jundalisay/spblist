@@ -25,19 +25,24 @@ My Mysterium Cosmographicum (The Secret of the Universe) gave a brief account of
 - 3 are primary
 - 2 are secondary. 
 
-The cube* is the outermost and the largest because it is first in order of generation
+The cube is the outermost and the largest because it is first in order of generation.
 - It relates to the Whole by the very form of its generation. 
 
 Next is the tetrahedron as a part established by division of the cube.
+
+{{< n n="/graphics/physics/acdf.jpg" a="ACDF" >}}
 
 The tetrahedron `ACDF` appears hidden in the cube, in such a way that any face of the tetrahedron, such as `ACD`, is covered by one vertex of the cube `ACDB`.
 
 
 <!-- n n="The Cube is the Aether, the Tetrahedron is Electromagnetism, and the IN ESSASSANI CONSCIOUSNESS IS TETRAHEDRON -->
 
+{{< n n="/graphics/physics/octahedron.jpg" a="Octahedron" >}}
 
+The cube `AED` appears hidden inside the dodecahedron. 
 
-The cube `AED` appears hidden inside the dodecahedron, in such a way that any face of the cube, such as `AEU` is covered by 2 vertices of the dodecahedron or by the pentahedron `ABCDE` which is divisible into three dissimilar tetrahedra by the 2 planes `DCA` and `ABD`.
+Any face of the cube, such as `AEU` is covered by 2 vertices of the dodecahedron or by the pentahedron `ABCDE` which is divisible into three dissimilar tetrahedra by the 2 planes `DCA` and `ABD`.
+
 
 but also itself primary, with a trilinear solid angle, like the cube. Inside the tetrahedron is the dodecahedron, 3, the last of the primaries, which of course is like a composite figure made up of parts of the cube, like a tetrahedron, that is, from irregular tetrahedra, by which the cube inside it is covered. 
 
@@ -64,8 +69,7 @@ This marriage also has a solid star,^® the generation of which is  from the con
 See their generation in Book 2.
 
 Lastly, we must note the proportion of the spheres circumscribing them to those inscribed in them, as in the tetrahedron it is expressible, as 100000 to 33333 or as 3 to 1; in
-the cubic marriage it is inexpressible, but the radius of the inscribed circle is expressible in square, as the
-root of one third of the square of the diameter, that is to say as 100000
+the cubic marriage it is inexpressible, but the radius of the inscribed circle is expressible in square, as the root of one third of the square of the diameter, that is to say as 100000
 to 57735; in the dodecahedric marriage it is clearly inexpressible, as
 100000 to 79465; in the star it is as 100000 to 5 2 5 7 3 , ^ 2 half the side of
 the icosahedron, or half the distance between the two semidiameters.

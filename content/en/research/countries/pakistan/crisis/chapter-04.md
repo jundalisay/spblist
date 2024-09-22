@@ -1,6 +1,6 @@
 ---
-title: BEYOND THE CRISIS STATE
-weight: 10
+title: Beyond The Crisis State
+weight: 14
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
 image: "/flags/pk.png"
@@ -9,14 +9,12 @@ image: "/flags/pk.png"
 
 Dr Maleeha Lodhi
 
-Pakistan is at the crossroads of its political destiny. It can either remain
-trapped in a quagmire of weak governance, politics-as-usual, economic
-stagnation and crumbling public faith in state institutions; or it can take
-advantage of social changes underway to chart a new course.
+Pakistan is at the crossroads of its political destiny. It can either remain trapped in a quagmire of weak governance, politics-as-usual, economic stagnation and crumbling public faith in state institutions; or it can take advantage of social changes underway to chart a new course.
 
 
-How can this moment of opportunity be described? Is this a
-democratic moment? An opportunity to consolidate a process that has
+How can this moment of opportunity be described? 
+
+Is this a democratic moment? An opportunity to consolidate a process that has
 remained vulnerable to repeated disruption and derailment? 
 
 Or is this a transformational opportunity when challenges to traditional politics hold out possibilities for change? 
@@ -27,45 +25,29 @@ The economic centre of gravity has been shifting but politics has yet to catch u
 
 Already members of a growing and politically assertive urban middle class are using the opportunities created by globalisation and technological change to demand better governance and a greater voice in the country's politics. 
 
-Although estimates of the size of Pakistan's middle
-class vary depending on the criterion employed, if Purchasing Power
-Parity is used as the yardstick it can be put at around thirty million people.
-This includes educated, professional groups as well as middle-income
-employees in state and business enterprises.
+Although estimates of the size of Pakistan's middle class vary depending on the criterion employed, if Purchasing Power Parity is used as the yardstick it can be put at around thirty million people. 
 
-This raises the question: is a middle-class moment approaching? Can
-their rise in numbers and activism lead to a shift in the centres and
-instruments of power and influence? 
+This includes educated, professional groups as well as middle-income employees in state and business enterprises.
 
-Can the increasing mismatch between a more empowered middle class and family or clan-dominated politics unleash dynamics that can ultimately yield an accountable and
-functional system of governance? 
+This raises the question: is a middle-class moment approaching? Can their rise in numbers and activism lead to a shift in the centres and instruments of power and influence? 
 
-Or are recent changes too limited to pose any real threat to the entrenched position of a narrow and oligarchic power elite-drawn from the landowning and mercantile elites and the
-54civilian and military bureaucracy?
+Can the increasing mismatch between a more empowered middle class and family or clan-dominated politics unleash dynamics that can ultimately yield an accountable and functional system of governance? 
 
-Answers must necessarily be tentative. While Pakistan is in the throes
-of change, its nature and direction is still unfolding. It is also unclear how the
-traditional elite will respond to the rising pressures on their power and
-authority.
+Or are recent changes too limited to pose any real threat to the entrenched position of a narrow and oligarchic power elite-drawn from the landowning and mercantile elites and the civilian and military bureaucracy?
+
+Answers must necessarily be tentative. While Pakistan is in the throes of change, its nature and direction is still unfolding. It is also unclear how the traditional elite will respond to the rising pressures on their power and authority.
 
 But governance challenges are multiplying. These include daunting problems of security, solvency, mounting energy and water shortages, and an increasing youth bulge-representing a mass of unfulfilled expectations-in an environment of economic weakness. 
 
 Catastrophic floods that swept the country in the summer of 2010 compounded the country's woes. They sharpened questions of whether Pakistan's political and governance structures-and the quality of leadership-are capable of addressing and surmounting the gravest challenges ever faced. Can Pakistan acquire the means to govern itself better?
 
-The historical record is not encouraging on two related counts. One,
-establishing a viable political order and a predictable environment to solve
-the country's problems; two, evolving a political consensus on priorities
-and how to address them in a context of stable civil-military relations.
-Complicating the quest to resolve these problems is the impact of
-external developments on the country's fate and fortunes. The external and
-internal have been so intertwined in Pakistan's history-as they are today-
-as to compound political challenges. The country's ability to weather the
-storms of global geo-politics has been repeatedly tested. Struggling to deal
-with this from a position of domestic fragility has ended up emaciating
-and exhausting Pakistan. Its much-celebrated geo-strategic location has
-been more of a challenge than an asset. Successive governments believed
-geography translated into power whereas it actually drained the country's
-power.
+The historical record is not encouraging on two related counts. One, establishing a viable political order and a predictable environment to solve the country's problems; two, evolving a political consensus on priorities and how to address them in a context of stable civil-military relations. 
+
+Complicating the quest to resolve these problems is the impact of external developments on the country's fate and fortunes. 
+
+The external and internal have been so intertwined in Pakistan's history-as they are today-as to compound political challenges. The country's ability to weather the storms of global geo-politics has been repeatedly tested. 
+
+Struggling to deal with this from a position of domestic fragility has ended up emaciating and exhausting Pakistan. Its much-celebrated geo-strategic location has been more of a challenge than an asset. Successive governments believed geography translated into power whereas it actually drained the country's power.
  
 The issues of security, economy and governance have intersected in mutually compounding ways, which makes it difficult to establish the source and direction of causation. Has the security preoccupation hobbled political development, pre-empted resources and been the main source of economic problems? 
 
@@ -75,13 +57,15 @@ from one another.
 
 ### The Burden of History
 
-The sweep of Pakistan's tangled history reveals an unedifying record
-of governance failures and missed opportunities. Political instability has
-been endemic, as the country has shuttled between ineffectual civilian
-government and military rule in an unbroken cycle punctuated by
-outbreaks of public protests demanding change and better governance.
+The sweep of Pakistan's tangled history reveals an unedifying record of governance failures and missed opportunities. 
 
-Half of its existence has been spent under military rule and half under civilian or quasi-civilian governments. Pakistan's turbulent history has also been tragic. The early death of its founder so soon after partition meant that the mantle of a towering figure was inherited by a succession of squabbling political lightweights. As several members of this ruling elite came from the Muslim-majority areas of India they increasingly sought the support of the civil-military bureaucracy to prop them up against indigenous political groups. When politicians bickered over issues of identity, provincial autonomy and the role of religion in the state, constitution-making was hobbled. 
+Political instability has been endemic, as the country has shuttled between ineffectual civilian government and military rule in an unbroken cycle punctuated by outbreaks of public protests demanding change and better governance.
+
+Half of its existence has been spent under military rule and half under civilian or quasi-civilian governments. Pakistan's turbulent history has also been tragic. 
+
+The early death of its founder so soon after partition meant that the mantle of a towering figure was inherited by a succession of squabbling political lightweights. 
+
+As several members of this ruling elite came from the Muslim-majority areas of India they increasingly sought the support of the civil-military bureaucracy to prop them up against indigenous political groups. When politicians bickered over issues of identity, provincial autonomy and the role of religion in the state, constitution-making was hobbled. 
 
 This created a political vacuum that encouraged the military's creeping entry and eventual control of the political system.
 

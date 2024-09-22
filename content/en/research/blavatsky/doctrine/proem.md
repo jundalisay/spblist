@@ -1,13 +1,41 @@
-Proem: Pages From A Pre-Historic Record.
+---
+title: "Proem: Pages From A Pre-Historic Record"
+weight: 50
+description: "The Synthesis of Science, Religion, and Philosophy"
+image: "/covers/secret.png"
+---
 
-An archaic Manuscript—a collection of palm leaves made impermeable to water, fire, and air, by some specific and unknown process—is before the writer's eye. On the first page is an immaculate white disk within a dull black ground. On the following page, the same disk, but with a central point. The first, the student knows, represents Kosmos in Eternity, before the reäwakening of still slumbering Energy, the Emanation of the World in later systems. The point in the hitherto immaculate disk, Space and Eternity in Pralaya, denotes the dawn of differentiation. It is the Point in the Mundane Egg, the Germ within it which will become the Universe, the All, the boundless, periodical Kosmos—a Germ which is latent and active, periodically and by turns. The one circle is divine Unity, from which all proceeds, whither all returns: its circumference—a forcibly limited symbol, in view of the limitation of the human mind—indicates the abstract, ever incognizable Presence, and its plane, the Universal Soul, although the two are one. Only, the face of the disk being white, and the surrounding ground black, clearly shows that its plane is the sole knowledge, dim and hazy though it still is, that is attainable by man. It is on this plane that the manvantaric manifestations begin; for it is in this Soul, that slumbers, during the Pralaya, the Divine Thought,27 wherein lies concealed the plan of every future cosmogony and theogony.
+
+I have an archaic Manuscript. It is a collection of palm leaves made impermeable to water, fire, and air, by some unknown process.
+
+On the first page is an immaculate white disk within a dull black ground.
+- This represents Kosmos in Eternity before the reäwakening of sleeping Energy.
+
+On the following page, the same disk, but with a central point.
+- The point represents Space and Eternity in Pralaya, denoting the dawn of differentiation. 
+
+<!-- It is the Point in the Mundane Egg, the Germ within it which will become the Universe, the All, the boundless, periodical Kosmos—a Germ which is latent and active, periodically and by turns.  -->
+
+The one circle is divine Unity from which all proceeds and returns.
+
+Its circumference is the limitation of the human mind.
+
+The face of the disk is white. The surrounding ground black.
+
+It means that its plane is the sole knowledge, dim and hazy though it still is, that is attainable by man.
+
+It is on this plane that the manifestations begin. It is in this Soul, that slumbers, during the Pralaya, the Divine Thought, wherein lies concealed the plan of every future cosmogony and theogony.
 
 
-It is the One Life, eternal, invisible, yet omnipresent, without beginning or end, yet periodical in its regular manifestations—between which periods reigns the dark mystery of Non-Being; unconscious, yet absolute Consciousness, unrealizable, yet the one self-existing Reality; truly, “a Chaos to the sense, a Kosmos to the reason.” Its one absolute attribute, which is Itself, eternal, ceaseless Motion, is called in esoteric parlance the Great Breath,28 which is the perpetual motion of the Universe, in the sense of limitless, ever-present Space. That which is motionless cannot be Divine. But then there is nothing in fact and reality absolutely motionless within the Universal Soul.
+It is the One Life, eternal, invisible, yet omnipresent, without beginning or end, yet periodical in its regular manifestations—between which periods reigns the dark mystery of Non-Being; unconscious, yet absolute Consciousness, unrealizable, yet the one self-existing Reality; truly, “a Chaos to the sense, a Kosmos to the reason.” Its one absolute attribute, which is Itself, eternal, ceaseless Motion, is called in esoteric parlance the Great Breath,28 which is the perpetual motion of the Universe, in the sense of limitless, ever-present Space. That which is motionless cannot be Divine. 
 
-Almost five centuries b.c. Leucippus, the instructor of Democritus, maintained that Space was eternally filled with atoms actuated by a ceaseless motion, which, in due course of time, as they aggregated, generated rotatory motion, through mutual collisions producing lateral movements. Epicurus and Lucretius taught the same doctrine, adding however to the lateral motion of the atoms the idea of affinity—an Occult teaching.
+But then there is nothing in fact and reality absolutely motionless within the Universal Soul.
 
-From the beginning of man's inheritance, from the first appearance of the architects of the globe he lives on, the unrevealed Deity was recognized and considered under its only philosophical aspect—Universal Motion, the thrill of the creative Breath in Nature. Occultism sums up the One Existence thus: “Deity is an arcane, living [or moving] Fire, and the eternal witnesses to this unseen Presence, are Light, Heat, Moisture,”—this trinity including, and being the cause of, every phenomenon in Nature.29 Intra-cosmic motion is eternal and ceaseless; cosmic motion—the visible, or that which is subject to perception—is finite and periodical. As an eternal abstraction it is the Ever-Present; [pg 033]as a manifestation, it is finite both in the coming direction and the opposite, the two being the Alpha and Omega of successive reconstructions. Kosmos—the Noumenon—has nought to do with the causal relations of the phenomenal World. It is only with reference to the intra-cosmic Soul, the ideal Kosmos in the immutable Divine Thought, that we may say: “It never had a beginning nor will it have an end.” With regard to its body or cosmic organization, though it cannot be said that it had a first, or will ever have a last construction, yet at each new Manvantara, its organization may be regarded as the first and the last of its kind, as it evolves every time on a higher plane.
+Almost 5 centuries b.c. Leucippus, the instructor of Democritus, maintained that Space was eternally filled with atoms actuated by a ceaseless motion, which, in due course of time, as they aggregated, generated rotatory motion, through mutual collisions producing lateral movements. 
+
+Epicurus and Lucretius taught the same doctrine. They added to the lateral motion of the atoms the idea of affinity—an Occult teaching.
+
+From the beginning of man's inheritance, from the first appearance of the architects of the globe he lives on, the unrevealed Deity was recognized and considered under its only philosophical aspect—Universal Motion, the thrill of the creative Breath in Nature. Occultism sums up the One Existence thus: “Deity is an arcane, living [or moving] Fire, and the eternal witnesses to this unseen Presence, are Light, Heat, Moisture,”—this trinity including, and being the cause of, every phenomenon in Nature.29 Intra-cosmic motion is eternal and ceaseless; cosmic motion—the visible, or that which is subject to perception—is finite and periodical. As an eternal abstraction it is the Ever-Present; as a manifestation, it is finite both in the coming direction and the opposite, the two being the Alpha and Omega of successive reconstructions. Kosmos—the Noumenon—has nought to do with the causal relations of the phenomenal World. It is only with reference to the intra-cosmic Soul, the ideal Kosmos in the immutable Divine Thought, that we may say: “It never had a beginning nor will it have an end.” With regard to its body or cosmic organization, though it cannot be said that it had a first, or will ever have a last construction, yet at each new Manvantara, its organization may be regarded as the first and the last of its kind, as it evolves every time on a higher plane.
 
 A few years ago only, it was stated that:
 

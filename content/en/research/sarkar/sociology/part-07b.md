@@ -38,7 +38,9 @@ There is no limit to these minimum requirements.
 
 <!-- Every progressive society should bear in mind that  -->
 
-The minimum requirements will go on increasing day by day. In the not too distant future a day will come when every individual will acquire a rocket. Then, for example, it will be very common for one’s father’s house to be on this planet and one’s father-in-law’s house to be on Venus.
+**The minimum requirements will go on increasing day by day.**
+
+In the not too distant future a day will come when every individual will acquire a rocket. Then, for example, it will be very common for one’s father’s house to be on this planet and one’s father-in-law’s house to be on Venus.
 
 The social system that will come into being, keeping parallelism and harmony with time, space and person, will be called progressive socialism.
 

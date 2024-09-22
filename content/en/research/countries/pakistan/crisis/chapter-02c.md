@@ -187,5 +187,3 @@ themselves with dignity in their identity as Muslims. Most important, they
 must stand up for their rights; this is their destiny and they cannot ignore
 43it. This is the lesson that Jinnah taught them; that is why Jinnah remains
 relevant today.
-
-

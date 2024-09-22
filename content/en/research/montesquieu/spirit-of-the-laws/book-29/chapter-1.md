@@ -9,13 +9,12 @@ icon: /icons/mont.png
 ---
 
 
+The city of Rome, in its infancy, was used for stowing and securing of plunder, cattle, fruits, and other produce of the countryside. This is similar to the cities of the Crimean Tartars.
 
-
-We are not to form to ourselves an idea of the city of Rome, in its infancy, from the cities which exist at this time, except we have in view those of the Crim Tartars, built for the stowing and securing of plunder, cattle, fruits, and other produce of the country. 
 
 The ancient names of the chief places in Rome, are all relative to this use.
 
-Rome didn't even have streets unless we call their central roads as such. The houses were:
+Rome did not even have streets unless we call their central roads as such. The houses were:
 - straggling, 
 - built in an irregular manner, and 
 - very small
@@ -32,7 +31,7 @@ The Sabines were a stubborn, warlike people, resembling the Spartans, from whom 
 - The Romans' strength was greatly encreased by their union with them.
 - Romulus copied the shape of their shields, which were large, and used them since instead of the small buckler of Argos. 
 
-The Romans' success came from= 
+The Romans' success came from:
 - **their ability to lay aside their own customs as soon as they encountered better** among the people they conquered. 
 - them fighting successively against all nations, one at a time
 

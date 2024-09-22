@@ -12,6 +12,9 @@ keywords: [thesis, antithesis, synthesis]
 ---
 
 
+{{< n n="Sarkar cites eduation and morality as being essential in a democracy. Morality is made worse by urban living where people are crammed in small spaces. ">}}
+
+
 Social advancement is the triadic blending of thesis, antithesis and synthesis.
 
 When a particular theory or thesis loses its competence and power to effect the collective welfare, an antithesis is created against the prevalent theory. 
@@ -101,18 +104,27 @@ The policies and programmes of Prout formulated for a particular era, for a part
 Thus, dialectical materialism cannot do any good for human society and may only have some use for a particular era, time or person.
 
 
-Let us now discuss democracy. It is claimed that democracy is government of the people, by the people and for the people. After the Shúdra era power passed into the hands of tribal chiefs. In the course of time clan leaders became feudal kings. 
+### Demoracy
+
+Democracy is supposed to be government of the people, by the people and for the people. 
+
+After the Shúdra era power passed into the hands of tribal chiefs. In time, the clan leaders became feudal kings. 
 
 The theory of democracy was born out of feelings of revolt against the tyranny of the monarchy exercised by these feudal kings. 
 
-The history of democracy is very ancient. History teaches us that it originated during the reign of the Licchavii Dynasty in ancient India. Being so ancient, it is not surprising that democracy has some defects.
+The history of democracy is very ancient. It originated during the Licchavii Dynasty in ancient India. Being so ancient, it is not surprising that democracy has some defects.
 
-Let us now analyse the assertion, “Democracy is government by the people”. 
+<!-- Let us now analyse the assertion, “Democracy is government by the people”.  -->
 
-In a democracy, do people have the requisite education and consciousness to judge what is right or what is wrong, what they should do or what they should not do? Does the power of understanding and judgement come as soon as one attains a prescribed age? 
+In a democracy, do people have the requisite education and consciousness to judge what is right or what is wrong, what they should do or what they should not do? 
 
-Is age the yardstick of wisdom and education? Alas, this happens to be the accepted fact! If those who talk big about the democratic system read the history of the Licchavii Royal Dynasty they would learn that in those days not everyone had voting rights.
+Does the power of understanding and judgement come as soon as one attains a prescribed age? 
+
+Is age the yardstick of wisdom and education? 
+
+Alas, this happens to be the accepted fact! 
+
+If those who talk big about the democratic system read the history of the Licchavii Royal Dynasty they would learn that in those days not everyone had voting rights.
 
 Only the Licchavii leaders, not the people in general, could exercise and enjoy adult franchise.
-
 

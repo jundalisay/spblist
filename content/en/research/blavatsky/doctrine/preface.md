@@ -1,6 +1,6 @@
 ---
 title: "Preface"
-weight: 4
+weight: 3
 description: "The Synthesis of Science, Religion, and Philosophy"
 image: "/covers/secret.png"
 draft: true

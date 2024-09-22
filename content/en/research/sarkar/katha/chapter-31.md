@@ -5,6 +5,7 @@ weight: 98
 description: "An Editor’s note in Prajina Bharati October 1983"
 image: "/covers/katha.png"
 author: Nagina
+draft: true
 ---
 
 
@@ -16,13 +17,9 @@ He was a disciple of Baba’s who was externally, fashionably dressed and appear
 on the basis of his outer looks, but people with such a rich character are hard to find. I
 am talking of  -->
 
-When I reached Delhi for my training course, I came to know that Shri R. Prasad had detected a very important and big smuggling case, which he said had only been possible by the grace of Baba. When I arrived in Delhi, the case was the talk of
-everyone in the whole Ministry of Finance of the Government of India. It was such a
-daring and courageous feat that it was really the talk of the town in Delhi. Many highly
-placed foreigners were involved. 
+When I reached Delhi for my training course, I came to know that Shri R. Prasad had detected a very important and big smuggling case, which he said had only been possible by the grace of Baba. When I arrived in Delhi, the case was the talk of everyone in the whole Ministry of Finance of the Government of India. It was such a daring and courageous feat that it was really the talk of the town in Delhi. Many highly placed foreigners were involved. 
 
-One of them was a Cuban citizen and another belonged to a very distinguished family from America. Being also in the Customs and Excise Department, I also wanted to know more details. There were a lot of stories
-about how the group had been detected and the manner in which it was caught.
+One of them was a Cuban citizen and another belonged to a very distinguished family from America. Being also in the Customs and Excise Department, I also wanted to know more details. There were a lot of stories about how the group had been detected and the manner in which it was caught.
 
 Everyone used to add something of his own as if he were witness to the whole drama.
 
@@ -45,6 +42,7 @@ foreigners with suspicion and so started keeping an eye on them. These two perso
 were seen in Bombay with a Frenchman of dubious reputation who was also in
 Bombay in those days. Suddenly both of them left for Delhi by plane and the Bombay
 Customs informed Prasadji about them by phone.
+
 Shrii R. Prasad instructed his Preventive Superintendent to keep a watch on
 these two characters and he was present at the airport when they arrived from
 Bombay. After this, the two men checked in at the Ashoka Hotel, the biggest one in
@@ -66,6 +64,7 @@ That night Prasadji did not go home, he sat the whole night by the telephone in
 his office. He continued to remember Baba and make plans to catch those foreigners
 red-handed. At about 10 p.m. the Prevention Officer rang up from the airport to say that
 the airhostess had arrived and was making a call from the airport.
+
 Prasadji instructed that a close watch be kept on this woman. Meanwhile, his
 telephone was connected to the Ashoka Hotel and he listened to the conversation
 between the two men and the air-hostess. She was telling them that the product had
@@ -105,50 +104,48 @@ Becomings
 
 ## THE SMUGGLERS UNMASKED
 
-The suspicions of Prasadji were further stimulated by this flight of the foreigners. He instructed the police in Delhi, Punjab and Harayana to be vigilant and watch the direction in which the car was moving. He also gave a physical description of
-the driver. By the grace of Baba, all the Police Officers were prepared, and a few hours
-later, the Punjab police informed Prasadji that the car was travelling at great speed
-towards Jallandhar.
+The suspicions of Prasadji were further stimulated by this flight of the foreigners.
 
-Shri R. Prasad instructed that the car should be allowed to proceed. Now it was
-clear that the car was moving towards Pakistan so his plan was that the smugglers
-should be caught at the last border post along with the smuggled goods. He phoned
-the customs officer at the Atari check-post on the border. He instructed the police at the
-check-post that the car and its foreign occupants must be allowed to proceed only after
-a thorough search and after obtaining clear instructions from him.
-About fifteen to twenty minutes before sunset these two men reached Atari
-checkpost in a great hurry to cross the check post before sundown. They were
-therefore both pressuring and requesting the officers at the check-post to check them
-quickly and allow them to cross the border. Border crossings were only permitted until
-sunset, so the check-post in-charge was trying to delay them by seeing that the
-customs checking proceeded slowly until after sunset and they could be legally delayed
-until the following day.
+He instructed the police in Delhi, Punjab and Harayana to be vigilant and watch the direction in which the car was moving. He also gave a physical description of the driver. 
+
+By the grace of Baba, all the Police Officers were prepared, and a few hours later, the Punjab police informed Prasadji that the car was travelling at great speed towards Jallandhar.
+
+Shri R. Prasad instructed that the car should be allowed to proceed. 
+
+The car was moving towards Pakistan. So his plan was that the smugglers should be caught at the last border post along with the smuggled goods. He phoned the customs officer at the Atari check-post on the border. He instructed the police at the check-post that the car and its foreign occupants must be allowed to proceed only after a thorough search and after obtaining clear instructions from him.
+
+Around 20 minutes before sunset these 2 men reached Atari checkpost in a great hurry to cross the check post before sundown. They were therefore both pressuring and requesting the officers at the check-post to check them quickly and allow them to cross the border. 
+
+Border crossings were only permitted until sunset, so the check-post in-charge was trying to delay them by seeing that the customs checking proceeded slowly until after sunset and they could be legally delayed until the following day.
 
 In this way, checking the men’s documents was delayed and it was already
 sunset. Now with the help of the police, this car was placed in the custody of the
 customs officers and arrangements were made for the foreigners to stay at the check-
 post itself. They could not commence the search that evening and it was decided that
 search would be begun the next morning.
+
 On specific instructions from Prasadji, the customs officers had already taken
 the declaration of the two men and this news was conveyed to Prasadji by telephone.
 Now Prasadji sent a group of Prevention Officers from the Head Office to Atari so that
 the search could be conducted thoroughly.
+
 That night also Prasadji stayed in his office all night. So far He felt that Baba
 had helped him at every step, but now it was a difficult test, as full success had not
-been achieved. And now difficulties began to increase. But like a good spiritual soldier
-and disciple of Baba, Prasadji continued to remain firm and unperturbed. So great was
-his devotion, that although the tests were severe, he did not forget Baba for a moment.
-Why then should victory not be his?
+been achieved.
+
+Now difficulties began to increase. But like a good spiritual soldier and disciple of Baba, Prasadji continued to remain firm and unperturbed. So great was his devotion, that although the tests were severe, he did not forget Baba for a moment. Why then should victory not be his?
 
 The two men threatened to make a complaint to the Ministry, but the customs
 officers remained firm in their stand. In the meantime, both of them contacted their
 respective embassies and complained about the treatment of the officers and the
 representatives of the embassies contacted the Foreign Ministry.
+
 The results of the search of the car were also sent to Prasadji. In the morning
 both the foreigners had been personally searched and nothing was found. Then their
 luggage and car was searched again. Even then nothing incriminating was found. This
-also was conveyed to Prasadji.Here began a highly delicate situation and the final test of Prasad’s courage
-and faith. But Prasadji faith in Baba was unbounded and it was not to be shaken by
+also was conveyed to Prasadji.Here began a highly delicate situation and the final test of Prasad’s courage and faith. 
+
+But Prasadji faith in Baba was unbounded and it was not to be shaken by
 small events like this, so he continued to advance further remembering Baba all the
 time and not caring about the pressures and failures which were building up in the
 situation. This is the first pre requisite for success.
@@ -156,10 +153,8 @@ situation. This is the first pre requisite for success.
 Prasadji told his officers that it was impossible that the two men do not have
 some contraband on them. He therefore, ordered that the Chief Engineer of Punjab
 Roadways Corporation should examine the car for any secret chambers.
-The engineer examined the car and gave a certificate in writing that there was
-no secret chamber in the car. In the meanwhile, the customs officers also asked a
-private engineer to examine the car and he also certified that there was no secret
-chamber. Again this information was conveyed to Prasadji.
+
+The engineer examined the car and gave a certificate in writing that there was no secret chamber in the car. In the meanwhile, the customs officers also asked a private engineer to examine the car and he also certified that there was no secret chamber. Again this information was conveyed to Prasadji.
 
 Most officers would have given up at this stage, when two independent
 technical authorities had come to a negative conclusion. But Prasadji was not prepared
@@ -169,11 +164,9 @@ should be careful examined.
 
 In the meantime, threatening instructions were being received from both the
 Ministry of External Affairs and the Ministry of Finance about the non-release of these
-two foreigners by the customs check-post. But Prasadji felt he was being guided by
-Baba and he continued the search in spite of all adverse reports so far. This was also
-communicated to the then Prime Minister and he ordered that his secretary should
-inform Prasadji that this was a matter of international law and international relationship
-and as nothing incriminating was found in spite of best efforts, those people should be
+two foreigners by the customs check-post. 
+
+But Prasadji felt he was being guided by Baba and he continued the search in spite of all adverse reports so far. This was also communicated to the then Prime Minister and he ordered that his secretary should inform Prasadji that this was a matter of international law and international relationship and as nothing incriminating was found in spite of best efforts, those people should be
 allowed to proceed on their journey. The Prime Minister’s instructions were conveyed in
 threatening language to Prasadji his secretary.
 
@@ -192,15 +185,18 @@ devotees. By the grace of Baba the news came by phone that very evening that whi
 checking the measurements between different parts of the car, the secret chamber and
 the hidden treasure had been found. It had gold bars worth one million rupees and
 Indian currency worth a similar amount.
+
 Prasadji again remembered Baba and instructed his Prevention Officers to
 arrest both the men, to seize the car and the treasure, and keep it in the custody of
 armed police.
+
 The news of this arrest was to be kept secret until Prasadji reached Atari. After
 issuing these instructions he left for the airport without informing anyone, took a plane
 for Amritsar taking the Assistant Customs Collector with him and reached Atari thesame night. There he gathered all the facts from his Prevention Officers and called a
 press conference and released all the news about the search and seizure of the hidden
 treasure. This news spread like wild fire and every morning paper gave it prominence
 in their next morning issue.
+
 Prasadji had spent three days and nights awake in his office receiving news
 and issuing instructions. Even his office came to know of his presence at the check-
 post only through the morning newspapers and here was the irony: those very people
@@ -208,7 +204,9 @@ who were threatening him the day before, now began to congratulate him on his
 success. When the Prime Minister’s secretary rang to convey the PM’s congratulations,
 he said, “If I were the PM I would have given the Victoria Cross to these Customs
 Officers!”
+
 Then Prasadji told us about the secret chamber.
+
 When the Prevention Officers were measuring the distance between different
 parts they could not explain the distance between different parts they could not explain
 the distance between the back seat and the boot of the car, which was about one foot
@@ -221,14 +219,17 @@ plates could be moved. After some time that plate gave way and then they reached
 treasure concealed by the foreigners for which they were searching. This cavity was
 about one foot deep and it contained one million rupees in Indian currency, which could
 be sold at a high premium in Pakistan.
+
 On further scrutiny and questioning they discovered the second secret chamber
 also, which contained the gold bars. There were no further secret chambers in the car.
 These secret chambers were constructed in France, by the American. The currency
 notes and the gold bars were placed in custody at Bombay.
+
 After reciting the whole event, Prasadji said, “With firm and implicit faith in the
 Almighty as my supreme guide, I gave this case my special attention, as soon as these
 men left Delhi in such haste for Atari. I did not care for the threats I was getting from
 the highest executive of the country as the Almighty was with me.”
+
 This case went on for some time and every one who was involved in any
 capacity whether as a pleader or guarantor was imprisoned. Both the accused were
 convicted and by the grace of Baba these punishments were upheld up to the Supreme
@@ -241,6 +242,7 @@ for two years by then, but his faith in Baba had matured to this inimitable and
 appreciable extent.
 
 R. PRASAD AND HIS FAMILY
+
 R. Prasad had been a busy man all his life. While in Delhi he became so busy
 that he hardly got any time to meet his relatives and friends. Even so he remembered
 Baba. There was no flaw in his devotion. Even in the busiest period, he spared time for
@@ -255,18 +257,21 @@ state. The relations between his family and the Nehru family were quite close.
 His revered mother who died recently was always respected by Pandit
 Jawaharlal Nehru and his daughter Smt. Indira Gandhi, both of whom used to touch
 her feet.
+
 His father was very close to Swami Vivekanandaji also. Swamiji had actually
 stayed with them for quite some time. He had vast experience of working in banks,
 excise, customs and in the police at high positions and had immense vitality.
 During the Emergency when Ananda Marga was banned, Shrii Prasad was
 interned in Tihar Jail in Delhi, where he used to send those who violated the excise and
 customs laws.
+
 Prasadji was much attached to his mother and used to feel very disturbed when
 he noticed any anxiety in his mother’s face. After his arrest, his mother met the Prime
 Minister who assured her that if Mr. Prasad denied that he is a Margii, he would be
 instantly released from prison. But Prasadji rejected this offer of the PM saying that he
 cannot even think in those terms. This was one of those rare occasions when he did
 not agree to his mother's request.
+
 Later it was the irony of fate that Smt. Indira Gandhi and her son had to live in
 the same Tihar jail during the Janata Regime after the Emergency.
 Salutations to Baba Who Eliminated Sorrows Born Of Old Age

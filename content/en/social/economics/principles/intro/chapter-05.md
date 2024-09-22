@@ -12,7 +12,7 @@ writer:
 ---
 
 
-Our classification of value into buyer-seller, and personal-societal, lead to 4 kinds of value:
+Supereconomics classifies value into buyer-seller, and personal-societal, leading to 4 kinds of value.
 
 Supereconomics | Personal | Society
 --- | --- | ---
@@ -30,7 +30,7 @@ To pursue selfishness, Economics teaches:
 - finance and money-only exchange
 - private sensory pleasures.
 
-As a results, it only has:
+As a result, it only has:
 - economic value (nominal price)
 - market value (market price)
 
@@ -39,7 +39,7 @@ Economics | Personal | Society
 Subjective and Variable | **Nominal Price** (value in currency) | **Market Price** (value to the buyer)
 
 
-We can now summarize and oragnize our 4 prices into a pattern:
+We can now summarize and organize our 4 prices into a pattern:
 
 Law | Price | Purpose
 --- | --- | ---

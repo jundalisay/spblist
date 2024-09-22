@@ -1,6 +1,6 @@
 ---
 title: Governance Challenges
-weight: 11
+weight: 16
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
 image: "/flags/pk.png"
@@ -50,18 +50,19 @@ It crowded out private investment and sucked scarce resources away from the soci
 
 Privatisation of some enterprises in the 1990s and the Musharraf years helped to reduce but not end this burden. 
 
-By 2010, public sector corporations still required huge government subsidies; losses in these enterprises were estimated at $4 billion a year with the haemorrhage in the power sector alone accounting for Rs. 256 billion ($3 billion) in 2010.
+By 2010, public sector corporations still required huge government subsidies.
+- Losses in these enterprises were estimated at $4 billion a year with the haemorrhage in the power sector alone accounting for Rs. 256 billion ($3 billion) in 2010.
 
-The impact of this on an anaemic economy cannot be underestimated. 
+<!-- The impact of this on an anaemic economy cannot be underestimated. 
 
-A weakened economy cast a huge shadow on the country's ability to come to grips with rising demographic pressures and the basic needs of its citizens.
+A weakened economy cast a huge shadow on the country's ability to come to grips with rising demographic pressures and the basic needs of its citizens. -->
 
-The confluence of these foreign and domestic factors was to pose governance challenges of unprecedented magnitude, but in a setting in which commensurate responses were stymied by a number of fault lines in the country's polity to which 1 now turn.
+<!-- The confluence of these foreign and domestic factors was to pose governance challenges of unprecedented magnitude, but in a setting in which commensurate responses were stymied by a number of fault lines in the country's polity to which 1 now turn. -->
 
 
 ### Fault Lines in Pakistan's Polity
 
-Pakistan's political experience or predicament has been shaped by a number of mostly overlapping factors that seem to have become enduring faultlines. The following five factors are central to understanding the Pakistan story:
+Pakistan's political experience has been shaped by overlapping factors that seem to have become enduring faultlines. The following 5 factors are central to understanding the Pakistan story:
 
 1. The power asymmetry between political and non-political or unelected institutions.
 
@@ -78,42 +79,86 @@ Pakistan's political experience or predicament has been shaped by a number of mo
 
 The imbalance was rooted as much in the colonial heritage as impelled by the fraught circumstances of a newly established country. 
 
-This meant that the 'steel frame' of civil-military state organs easily established their dominance over weak political institutions. Pakistan's independence party, the Muslim League, unlike its Indian counterpart, the Congress Party, did not have the advantage of a leader's stewardship to steer the new nation because Jinnah died so soon after partition. 
+This led to the 'steel frame' of civil-military state organs easily establishing their dominance over weak political institutions. 
 
-Moreover as the leadership of the League came predominantly from India, it could not compete with the indigenous political elites without enlisting the support of the civil-military bureaucracy.
+Pakistan's independence party is the Muslim League. Its Indian counterpart is the Congress Party.
+
+**It did not have the advantage of a leader's stewardship to steer the new nation because Jinnah died so soon after partition.** 
+
+The leadership of the League came predominantly from India.
+- It could not compete with the indigenous political elites without enlisting the support of the civil-military bureaucracy.
 
 The military's pre-eminence also owed itself to managing the political turmoil that followed partition and the early war with India over Kashmir.
 
 But it was also able to establish itself as the arbiter in a situation marked by political wrangling and fierce conflict between the indigenous and non-indigenous power elites.
 
-The coup of 1958 marked a decisive institutional shift, with non-elected institutions becoming ascendant over the political system. This was accompanied by the phenomenon of state intervention in the political process, which was witnessed with even greater intensity under Zia and then in the Musharraf era.
+The coup of 1958 marked a decisive institutional shift, with non-elected institutions becoming ascendant over the political system. 
+
+This was accompanied by the phenomenon of state intervention in the political process, which was witnessed with even greater intensity under Zia and then in the Musharraf era.
 
 This left political forces weak and divided. Long periods of military rule also thwarted the evolution of parties and other political institutions, accentuating this asymmetry. The military's dominance was also reinforced by the focus on security driven by unrelenting tensions with India.
 
-The primacy of unelected institutions over representative organs left Parliament weak and subservient to the executive. Parliamentary subordination to a powerful executive had its roots in the weak credentials of the legislature in Pakistan's early years. With no popularly or directed-elected legislature until the 1970 polls, the assemblies that functioned between 1947 and 1970 were elected by a restricted franchise, which denuded Parliament of real legitimacy and authority. 
+The primacy of unelected institutions over representative organs left Parliament weak and subservient to the executive. Parliamentary subordination to a powerful executive had its roots in the weak credentials of the legislature in Pakistan's early years.
+
+With no popularly or directed-elected legislature until the 1970 polls, the assemblies that functioned between 1947 and 1970 were elected by a restricted franchise, which denuded Parliament of real legitimacy and authority. 
 
 This also cast the state's evolving structure into a specific mould, retarding the development of party structures and organisation.
 
-There is, however, an important subtext to this story often obscured by the binary focus on civil-military power asymmetries. That has to do with the personalised nature of parties and the fact that the major ones resembled not modern organisations but were built around traditional kinship groups and local influentials to effectively become family fiefdoms.
+There is, however, an important subtext to this story often obscured by the binary focus on civil-military power asymmetries. 
 
-Even today the dynastic character of parties illustrates the primacy of personalism over organisation. The PPP is led by Benazir Bhutto's widower and co-chaired by her young son, and the Muslim League is run by the Sharif brothers with the progeny of Shahbaz Sharif being prepared for future leadership. 
+That has to do with the personalised nature of parties and the fact that the major ones resembled not modern organisations but were built around traditional kinship groups and local influentials to effectively become family fiefdoms.
+
+Even today the dynastic character of parties illustrates the primacy of personalism over organisation. 
+
+The PPP is led by Benazir Bhutto's widower and co-chaired by her young son, and the Muslim League is run by the Sharif brothers with the progeny of Shahbaz Sharif being prepared for future leadership. 
 
 Even religious parties have not been immune to this. 
 
-The Jamiat Ulema-e-Islam led by Maulana Fazl-ur-Rahman who inherited this position from his father Mufti Mahmud, nominated his brother to the coalition cabinet of Prime Minister Yousuf Raza Gilani. 
+The Jamiat Ulema-e-Islam is led by Maulana Fazl-ur-Rahman. He:
+- inherited this position from his father Mufti Mahmud
+- nominated his brother to the coalition cabinet of Prime Minister Yousuf Raza Gilani. 
 
 The former Amir of the Jamaat-e-Islami, Qazi Hussain Ahmad ensured that his daughter was awarded a seat reserved for women in the 2002 parliament.
 
-The personalised nature of parties has contributed to their organisational weakness and deprived them of the dynamism that modern organisations bring to politics including the expertise needed to run a government. 
+The personalised nature of parties has:
+- contributed to their organisational weakness 
+- deprived them of the dynamism that modern organisations bring to politics including the expertise needed to run a government. 
 
-Dynasties have constrained wider participation, as they are the antithesis of modern inclusionary politics. They have also impeded parties from acquiring institutional autonomy from the whims of the leader.
+**Dynasties have constrained wider participation, as they are the antithesis of modern inclusionary politics.** 
 
-This has been reinforced by the telling absence of democracy within most parties. Leaders of major parties-the PPP, factions of the Muslim League and the regional Awami National Party-are not elected but assume their positions by 'acclamation'. Nor do regular elections determine which occupants hold office at different tiers. 
+They have also impeded parties from acquiring institutional autonomy from the whims of the leader.
 
-They are usually 'selected' by the leader on the basis of their loyalty and 'connections'. Party leaders' resistance to internal democracy was amply demonstrated in April 2010 when their lawmakers deleted the constitutional obligation to hold party elections from the Eighth Constitutional Amendment that Parliament adopted to do away with the changes Musharraf had made to rebalance powers between the President and the Prime Minister and the centre and 63the provinces.
+This has been reinforced by the telling absence of democracy within most parties.*
 
-The military, whose social composition has increasingly become middle or lower middle class, has often counterposed itself to these traditional political entities as an institution that offers social mobility and operates on the basis of merit and professionalism. 
-
-But there is an irony to this: when the military has forged political alliances to rule it has turned to the very traditional political forces that it is so contemptuous of and depicts as retrogressive and incompetent. Expediency has defined its politics just like that of the political class.
+{{< n n="This is because democracy only works where there is education and morality. Morality in India-Pakistan is dominated by the different religions which impose different moral standards." >}}
 
 
+The major parties are:
+- the PPP
+- factions of the Muslim League
+- the regional Awami National Party
+
+Their leaders are not elected. Instead, they rise by 'acclamation'. Nor do regular elections determine which occupants hold office at different tiers.
+
+They are usually 'selected' by the leader on the basis of their loyalty and 'connections'. 
+
+Musharraf had made changes in the Constitution in order to rebalance the powers between:
+- the President
+- the Prime Minister
+- the centre and the provinces.
+
+The Eighth Constitutional Amendment was adopted by Parliament to do away with those changes.
+
+But in April 2010 the party lawmakers deleted the constitutional obligation to hold party elections from that Amendment.
+- This proves the Party leaders' resistance to internal democracy 
+
+
+The social composition of the military has increasingly become middle or lower middle class.
+
+It has often set itself apart from these traditional political parties as an institution that:
+- offers social mobility
+- operates on the basis of merit and professionalism. 
+
+But when the military forged political alliances to rule, it has turned into the very traditional political force that it calls retrogressive and incompetent.
+
+Expediency has defined its politics just like that of the political class.

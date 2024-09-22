@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2b
-title: "The Creation of Homo Erectus"
+title: "The Creation of Homo Sapiens"
 weight: 6
 # date: 2024-05-12
 # description: "John Stuart Mill was part of the British East India Company who advocated free trade"

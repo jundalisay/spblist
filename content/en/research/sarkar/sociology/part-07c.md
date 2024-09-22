@@ -13,7 +13,7 @@ keywords: [thesis, antithesis, synthesis]
 
 
 
-Literacy will not awaken full wisdom on what to do and what not to do.
+**Literacy will not awaken full wisdom on what to do and what not to do.**
 
 If the responsibility of literacy is left to political parties, then those political parties will spread their respective party propaganda popularizing themselves among the people. 
 
@@ -21,7 +21,7 @@ People will become intellectually bankrupt. This curse will undermine their rati
 
 <!-- Nevertheless, education is of prime importance. Without education democracy can never be successful. -->
 
-Morality is the second fundamental factor for the success of democracy.
+**Morality is the second fundamental factor for the success of democracy.**
 
 People sell their votes because they lack morality. In some countries, votes are bought and sold.
 
@@ -59,13 +59,13 @@ However, the slogan, “Go back to the village” alone will not suffice.
 
 City life has a great attraction for people who want livelihood. 
 
-To stop this trend, intellectuals and others will have to look for their livelihood in villages.
+**To stop this trend, intellectuals and others will have to look for their livelihood in villages.**
 
 The supply of cheap electricity and the expansion of cottage industries in villages are of paramount necessity today.
 
 Cottage industries do not mean outdated, primitive handicrafts. They must be efficient, modern mechanized units.
 
-From the economic viewpoint, decentralization is an absolute necessity.
+**From the economic viewpoint, decentralization is an absolute necessity.**
 
 With the exception of heavy industries and essential government offices, all industry should be shifted to the villages. 
 
@@ -75,11 +75,11 @@ Villages are not congested, so antisocial people will not be able to hide themse
 
 In a democratic society immorality is a big issue which cannot be avoided. 
 
-Some people say that if mustard seeds are sprinkled over any person possessed by a ghost, the ghost takes to its heels.
+<!-- Some people say that if mustard seeds are sprinkled over any person possessed by a ghost, the ghost takes to its heels.
 
-But if the ghost hides in the mustard seeds themselves, then of course there is not the ghost of a chance of escape from the ghost.
+But if the ghost hides in the mustard seeds themselves, then of course there is not the ghost of a chance of escape from the ghost. -->
 
-Similarly, the ghost of immorality lies hidden in today’s democratic system.
+The ghost of immorality lies hidden in today’s democratic system.
 
 Democracy induces sentiments like provincialism, communalism, casteism, etc., which are devoid of morality. 
 

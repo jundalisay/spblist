@@ -25,7 +25,11 @@ The Punjab is in the west of India.
 Pakistan is on the west of India. 
 Iran is to the west of India.
 
-The Punjab is in the west and is within Indian territory. So we should say in the west. In the second sentence, Pakistan is on the west – it is outside Indian territory but touching the Indian border. In this case, on the west should be used. In the third case, Iran is to the west of India. Iran does not touch the border of India – there is no common border – so here to the west should be used.
+The Punjab is in the west and is within Indian territory. So we should say in the west. 
+
+In the second sentence, Pakistan is on the west – it is outside Indian territory but touching the Indian border. In this case, on the west should be used.
+
+In the third case, Iran is to the west of India. Iran does not touch the border of India – there is no common border – so here to the west should be used.
 
 In, into, unto: In old English, into was used in the sense of coming inside from outside, and in was used when something was already inside.
 
