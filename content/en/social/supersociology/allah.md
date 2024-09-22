@@ -43,9 +43,30 @@ However, this is contradicted by the fact that the Arabs and Persians were defea
 - The British were defeated by the Americans in the Battle of Yorktown in 1781. 
 
 
-From the perspective of physical victories and prosperity, we can say that 'Allah' is the oversoul of the Arab-Persian people, as realized by the Prophet and Islamic scholars. The Mongols, Chinese, British, Americans have their own oversoul which initiates projects and consequently the possibility of victory or defeat. 
+### Mesopotamia and the Middle East
 
-If we rename this oversoul as 'God', and the Persian-Arabian oversoul as 'Allah', then it means that the US is the new 'God' in town, as the superpower for the 20th century. 
+According to our Anunnaki Hypothesis, human civilization began in the Middle East through the genetic engineering done by the Anunnaki on Homo Erectus. This produced Homo Sapiens. 
+
+{{< youtube sxq8vIm4Cwc >}} 
+
+Middle Eastern society will have traces of that Annunaki vibration, which is permeates the oversoul of the Arab and Jewish people. 
+
+<!-- From the perspective of physical victories and prosperity, we can say that 'Allah' is the oversoul of the Arab-Persian people, as realized by the Prophet and Islamic scholars.  -->
+
+The Mongol-Chinese and the British-Americans have their own oversoul which initiates projects and consequently the possibility of victory or defeat.
+
+Using the Anunnaki Hypothesis, we can rename the Western 'God' as Enlil and 'Allah' as Enki. 
+
+The dominance between Enki and Enlil shifts back anbd forth over millennia. 
+- In the pre-Atlantean times, Enlil was dominant 
+- In the Atlantean times, Enki was dominant 
+- In the post-Atlantean times, Enlil was again dominant 
+
+Currently, this dominance rests with the Americans, as the descendants of the Roman oversoul via Britain which was colonized by Rome. 
+
+Rome did have a weak period from the 400s AD to the 14th century when they were nearly overrun by the Mongol oversoul. But it reconstituted itself through the Spanish and British Empires which colonized the world.  
+
+<!-- If we rename this oversoul as 'God', and the Persian-Arabian oversoul as 'Allah', then it means that the US is the new 'God' in town, as the superpower for the 20th century.  -->
 
 <!-- So the US is the new 'God' in town, representing the American oversoul.  -->
 
@@ -53,7 +74,7 @@ Those who submit to the American oversoul get benefits such as peace and prosper
 
 Proof is that it is only the US has the God-powers to tell Israel to stop bombing Gaza. It is also the US that gives petrodollars to Islamic Saudi Arabia to make it wealthy. 
 
-So where is the 'Allah' that gives victory and prosperity? It is in the US. 
+So where is the 'Allah' that gives victory and prosperity? It is in the US. Rather, Enki has given way to Enlil.  
 
 If people think that Allah is somehow with Saudi or Iran, then loss and suffering will make them realize their mistake them sooner or later.
 
@@ -75,7 +96,6 @@ God or Oversoul | Power Source (Social Cycle)
 --- | ---
 Egyptians | Agriculture (Worker)
 Greeks | Science (Thinker)
-<!-- Military Organization (Warrior) -->
 Romans | Military Organization (Warrior)
 Arab-Persians | Religious Fervor (Thinker)
 Mongols | Horses (Warrior)
@@ -84,6 +104,7 @@ British | Mercantile Fervor (Trader)
 Americans | Land and Mercantile Fervor (Trader)
 Chindia | Population (Worker)
 
+<!-- Military Organization (Warrior) -->
 
 {{< dc t="Note (click to expand)" >}}
 This post aims to give the concept that the main mechanism that powers Judeo-Christian religions is positive thinking. This includes cultural affinities. 

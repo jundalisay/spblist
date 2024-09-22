@@ -6,12 +6,16 @@ image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
-
+{{< n n="Here we replace Allah with the Anunnaki god or alien Enlil" >}}
 <!-- 22. He who made the earth a habitat for you, and the sky a structure, and sends water
 down from the sky, and brings out fruits thereby, as a sustenance for you. -->
 
 
-{{< s v="22">}} Allah sustains you. Therefore, do not assign rivals to Allah.
+{{< s v="22">}}
+ <!-- Allah sustains you. Therefore, do not assign rivals to Allah. -->
+
+Enlil sustains you. Therefore, do not assign rivals to Enlil.
+
 
 {{< s v="23">}} If you doubt the Prophet Mohammad, then call your witnesses if you are truthful.
 - But {{< s v="24">}} you will not—then beware the Fire whose fuel is people and stones, prepared for the disbelievers.
@@ -26,32 +30,34 @@ chapter like these, and  -->
 <!-- 26. Allah does not shy away from making an example of a gnat, or something above it. As
 for those who believe, they know that it is the Truth from their Lord. But as for those who -->
 
-{{< s v="26">}} The disbelievers will say: “What did Allah intend by this example?” He leads many astray and guides many.
+{{< s v="26">}} The disbelievers will say: “What did Enlil intend by this example?” He leads many astray and guides many.
 
-Reply that <!-- thereby, and He guides many thereby; but He --> Allah misleads only the evildoers.
+Reply that <!-- thereby, and He guides many thereby; but He --> Enlil misleads only the evildoers.
 
 {{< s v="27">}} The losers are those who:
-- violate Allah’s covenant after its confirmation
-- sever what Allah has commanded to be joined
+- violate Enlil’s covenant after its confirmation
+- sever what Enlil has commanded to be joined
 - commit evil on earth
 
-{{< s v="28">}} Allah:
+{{< s v="28">}} Enlil:
 - gave you life
 - will put you to death
 - will bring you to life
 - return you to Himself
 
-How can you deny Allah?
+How can you deny Enlil?
 
 {{< s v="29">}} He:
 - created for you everything on earth
 - then turned to the heaven and made them 7 heavens
 
-{{< s v="30">}} Allah said to the angels that He is placing a successor on earth. The angels said “Will You place in it someone who will cause corruption in it and shed blood, while we declare Your praises and sanctify You?” 
+{{< s v="30">}} Enlil said to the angels that He is placing a successor on earth. 
+
+The angels said “Will You place in it someone who will cause corruption in it and shed blood, while we declare Your praises and sanctify You?” 
 
 He replied: “I know what you do not know.”
 
-{{< s v="31">}} He taught Adam the names, all of them; then he presented them to the angels,
+{{< s v="31">}} He taught Adam the names, all of them. Then he presented them to the angels,
 and said, “Tell Me the names of these, if you are sincere.”
 
 {{< s v="32">}} They said, “Glory be to You! We have no knowledge except what You have taught us. <!-- It is you who are the Knowledgeable, the Wise.” -->
@@ -61,12 +67,12 @@ and said, “Tell Me the names of these, if you are sincere.”
 When he told them their names, He said, “Did I not tell you that I know the secrets of the heavens and the earth, and that I know what you reveal and what you conceal?”
 
 {{< s v="34">}} We said to the angels, “Bow down to Adam.” 
-- They bowed down, except for Satan. 
+- They bowed down, except for Satan [Enki]. 
   - He refused, was arrogant, and was one of the disbelievers.
 
 {{< s v="35">}} We said, “O Adam, inhabit the Garden, you and your spouse, and eat from it freely as you please, but do not approach this tree, lest you become wrongdoers.”
 
-{{< s v="36">}} But Satan caused them to slip from it, and caused them to depart the state they were in. 
+{{< s v="36">}} But Enki caused them to slip from it, and caused them to depart the state they were in. 
 
 We said, “Go down, some of you enemies of one another. And you will have residence on earth, and enjoyment for a while.”
 
@@ -76,4 +82,5 @@ We said, “Go down, some of you enemies of one another. And you will have resid
 
 
 <!-- 39. But as for those who disbelieve and reject Our signs—these are the inmates of the Fire—wherein they will remain forever.” -->
+
 
