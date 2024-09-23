@@ -6,7 +6,7 @@ image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
-{{< n n="Here we replace Enki with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory" >}}
+{{< n n="Here we replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory" >}}
 
 
 <!-- T ALAL I TANIQ URAN -->

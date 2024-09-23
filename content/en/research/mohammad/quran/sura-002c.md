@@ -6,7 +6,7 @@ image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
-{{< n n="Here we replace Enki with the Anunnaki god or alien Enki, since the Middle East was historically Anunnaki territory" >}}
+{{< n n="Here we replace 'Allah' with the Anunnaki god or alien 'Enki', since the Middle East was historically Anunnaki territory" >}}
 
 
 {{< s v="40-46">}} O Jews:
@@ -31,17 +31,23 @@ But these are difficult, except for the devout.
 Lord, and that to Him they will return. -->
 
 {{< s v="47-52">}} O Jews:
-- remember <!-- My favor which I bestowed upon you, and I  -->that I favored you over all nations
+- remember <!-- My favor which I bestowed upon you, and I  -->that I favored you over all nations*
 - beware of a Day when no soul will avail another in the least, nor will any intercession be accepted on its behalf, nor will any ransom be taken from it, nor will they be helped.
 
+{{< n n="The Jews were the Atlanteans who were the most religious. They migrated by Noah's ark from the Bahamas into the Middle East. This is why 25% of Latinos have Jewish DNA. Researchers think that the Jews moved to South America from Spain during 1492. In reality, it is the Jews who migrated from Central America." >}}
+
+
 We:
-- delivered you from the Egyptians who inflicted terrible persecution on you, killing your sons, and sparing your women. 
+- delivered you from the Egyptians* who inflicted terrible persecution on you, killing your sons, and sparing your women. 
 - parted the sea for you, saving you
 - drowned the Egyptians as you looked on
 - appointed for Moses 40 nights. 
   - You worshipped the calf after him, and you turned wicked.
   - We pardoned you after that, so that you might be grateful. 
 - gave Moses the Scripture and the Criterion to guide you.
+
+{{< n n="The Egyptians were allied with Enlil and were defending themselves against the evil Enki-backed Atlanteans when the comet struck." >}}
+
 
 Moses said: 
 
@@ -91,7 +97,7 @@ Eat and drink from Enki’s provision. Do not corrupt the earth with disobedienc
 {{< /l >}}
 
 {{< r a="Jews" >}}
-Moses, we cannot just eat one kind of food. So call to your Lord to produce for us other food like herbs, cucumbers, garlic, lentils, onions.” 
+Moses, we cannot just eat one kind of food. So call to your Lord to produce for us other food like herbs, cucumbers, garlic, lentils, onions.
 {{< /r >}}
 
 {{< l a="Moses" >}}
@@ -139,11 +145,14 @@ Be despicable apes!*
 {{< s v="67-71" >}} Recall when Moses said to his people:
 
 {{< l a="Moses" >}}
-Enki commands you to sacrifice a cow
+Enki commands you to sacrifice a cow*
 {{< /l >}}
  
+{{< n n="*The cow is sacred to Hindus which were allied with Enlil" >}}
+
+
 {{< r a="Jews">}}
-Are you mocking us? Call on your Lord to show us which one
+Are you mocking us? Call on your Lord to show us which one.
 {{< /r >}}
 
 {{< l a="Moses" >}}

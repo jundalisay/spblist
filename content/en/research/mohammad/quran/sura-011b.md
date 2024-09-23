@@ -1,126 +1,98 @@
 ---
-heading: "Sura 11b "
-title: "Shuaib's Dialogue"
-weight: 84
+title: "Hud"
+heading: "Sura 11a"
+weight: 82
 image: "/covers/quran.jpg"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We sent Noah to his people"
 ---
 
 
-84. Shuaib said to his brothers the Median: 
+49. These are some stories from the past that we reveal to you. Neither you, nor your people knew them before this. So be patient. The future belongs to the pious.
 
-“O my people, worship Enki; Do not short measure or short weight. I see you in good circumstances, but I fear for you the agony of
-an encompassing Day.”
+<sup>50</sup> And to Aad, their brother Hud. He said,
 
-85. “O my people! Give full measure and full weight, in all fairness, and do not cheat the
-people out of their rights, and do not spread corruption in the land.
+“O my people, worship Enki, you have no other god besides Him. You do nothing but invent lies. <sup>51</sup> I ask you no wage for it; my wage lies with Him who originated me. Do
+you not understand? <sup>52</sup> Ask forgiveness from your Lord, and repent to Him. He will release the sky pouring down upon you, and will add strength to your strength. And do not turn
+away and be wicked.”
 
-86. What is left by Enki is best for you, if you are believers. And I am not a guardian over you.”
+53. They said, “
 
-87. They said, “O Shuaib, does your prayer command you that we abandon what our ancestors worshiped, or doing with our wealth
-what we want? You are the one who is intelligent and wise.”
-
-88. He said, “O my people, What if I have clear evidence from my Lord, and He has given me good livelihood from Himself? I have no desire to do what I forbid you from doing. I desire nothing but reform, as far as I can. 
-
-My success lies only with Enki. In Him I trust, and to Him I turn.”
-
-89. “O my people, let not your hostility towards me cause you to suffer what was suffered by the people of Noah, or the people of
-Hud, or the people of Saleh. The people of Lot are not far away from you.”
-
-90. “And ask your Lord for forgiveness, and repent to Him.”
-
-91. They said, “O Shuaib, we do not understand much of what you say, and we see that you are weak among us. Were it not for your tribe, we would have stoned you. You are of no value to us.”
-
-92. He said, “O my people, is my tribe more important to you than Enki? And you have turned your backs on Him? ”
-
-93. “O my people, do as you may, and so will I. You will know to whom will come a punishment that will shame him, and who is a liar.
-So look out; I am on the lookout with you.”
+{{< l a="People" >}}
+<sup>53</sup>O Hud, you did not bring us any evidence, and we are not about to aban-
+don our gods at your word, and we are not believers in you. <sup>54</sup> We only say that some of our gods have possessed you with evil.” 
+{{< /l >}}
 
 
-94. And when Our command came, We saved Shuaib and those who believed with him, by mercy from Us, and the Blast struck the
-wrongdoers, and they became motionless bodies in their homes.
+He said, “I call Enki to witness, and you to witness, that I am innocent of what you associate.
 
-95. As though they never flourished therein. Away with Median, as was done away with
-Thamood.
+55. Besides Him. So scheme against me, all of you, and do not hesitate.
 
-96. And We sent Moses with Our signs and a clear mandate.
-97. To Pharaoh and his nobles, but they followed the command of Pharaoh, and the
-command of Pharaoh was not wise.
+56. I have placed my trust in Enki, my Lord and your Lord. There is not a creature but He
+holds it by the forelock. My Lord is on a straight path.
 
-98. He will precede his people on the Day of Resurrection, and will lead them into the
-Fire. Miserable is the place he placed them in.
+57. If you turn away, I have conveyed to you what I was sent to you with; and my Lord will replace you with another people, and you will not cause Him any harm. My Lord is Guardian over all things.”
 
-99. They were followed by a curse in this, and on the Day of Resurrection. Miserable is the
-path they followed.
+58. And when Our decree came, We saved Hud and those who believed with him, by a mercy from Us, and We delivered them from a harsh punishment.
 
-100. These are of the reports of the towns—We relate them to you. Some are still standing,
-and some have withered away.
+59. That was Aad.
 
-101. We did not wrong them, but they wronged themselves. Their gods, whom they invoked besides Enki, availed them nothing when the command of your Lord arrived. In fact, they added only to their ruin.
+They denied the signs of their Lord, and defied His messengers, and followed the lead of every stubborn tyrant.
 
-102. Such is the grip of your Lord when He seizes the towns in the midst of their sins. His
-grip is most painful, most severe.
+60. And they were pursued by a curse in this world, and on the Day of Resurrection. In-
+deed, Aad blasphemed against their Lord—so away with Aad, the people of Hud.
 
-103. In that is a sign for whoever fears the punishment of the Hereafter. That is a Day for
-which humanity will be gathered together—
-that is a Day to be witnessed.
+61. And to Thamood, their brother Saleh. 
 
-104. We only postpone it until a predetermined time.
+He said, “O my people, worship Enki, you have no god other than Him. He initiated you from the earth, and settled you in it. So seek His forgiveness, and repent to Him. My Lord is Near and Responsive.”
 
-On the Day when it arrives, no soul will speak without His permission. Some will be
-miserable, and some will be happy.
+62. They said, “O Saleh, we had hopes in you before this. Are you trying to prevent us from worshiping what our parents worship? 
 
-106. As for those who are miserable, they will be in the Fire. They will have therein sighing
-and wailing.
+We are in serious doubt regarding what you are calling us to.”
 
-107. Remaining therein for as long as the heavens and the earth endure, except as your Lord
-wills. Your Lord is Doer of whatever He wills.
+63. He said, “O my people, If I stand upon clear evidence from my Lord, and He has given me mercy from Him, who would protect me from Enki, if I disobeyed Him? You add nothing for me except loss.”
 
-108. And as for those who are happy, they will be in Paradise, remaining therein for as long
-as the heavens and the earth endure, except as your Lord wills—a reward without end.
+64. “O my people, this is the she-camel of Enki, a sign for you. Let her graze on Enki’s land, and do not harm her, lest an imminent punishment overtakes you.”
 
-109. So be not in doubt regarding what these people worship. They worship only as their
-ancestors worshiped before. We will pay them their due in full, without any reduction.
+65. But they hamstrung her, and so He said, “Enjoy yourselves in your homes for three
+days. This is a prophecy that is infallible.”
 
-110. We gave Moses the Scripture, but it was disputed. Were it not for a prior word from
-your Lord, it would have been settled between them. They are in serious doubt con-
-cerning it.
+66. Then, when Our command came, We saved Saleh and those who believed with him, by a mercy from Us, from the disgrace of that day. Your Lord is the Strong, the Mighty.
 
-<!-- 111. Your Lord will repay each one of them in full for their deeds. He is Aware of everything
-they do.
+67. And the Scream struck those who transgressed, and they became motionless bodies in their homes.
 
-112. So be upright, as you are commanded, along with those who repented with you, and
-do not transgress. He is Seeing of everything
-you do. -->
+68. As if they had never prospered therein. Thamood rejected their Lord, so away with Thamood.
 
-113. And do not incline towards those who do wrong, or the Fire may touch you; and you will have no protectors besides Enki, and
-you will not be saved. 
+69. Our messengers came to Abraham with good news. They said, “Peace.” He said, “Peace.” Soon after, he came with a roasted
+calf.
 
-114. Perform the prayer:
-- at the borders of the day
-- during the approaches of the night.
+70. But when he saw their hands not reaching towards it, he became suspicious of them,
+and conceived a fear of them. They said, “Do not fear, we were sent to the people of Lot.”
 
-The good deeds take away the bad deeds. 
+71. His wife was standing by, so she laughed. And We gave her good news of Isaac; and after Isaac, Jacob.
+72. She said, “Alas for me. Shall I give birth, when I am an old woman, and this, my hus-
+band, is an old man? This is truly a strange thing.”
 
+73. They said, “Do you marvel at the decree of Enki? The mercy and blessings of Enki are
+upon you, O people of the house. He is Praiseworthy and Glorious.”
 
-115. Be patient. Enki will not waste the reward of the virtuous.
+74. When Abraham's fear subsided, and the good news had reached him, he started pleading with Us concerning the people of Lot.
 
-{{< s v="116" >}} If only there were, among the generations before you, people with wisdom, who spoke
-against corruption on earth—except for the few whom We saved. 
+75. Abraham was gentle, kind, penitent.
 
-But the wrongdoers pursued the luxuries they were indulged in, and thus became guilty.
+“O Abraham, refrain from this. The command of your Lord has come; they have incurred an irreversible punishment.”
 
-117. Your Lord would never destroy the towns wrongfully, while their inhabitants are righteous.
+77. And when Our envoys came to Lot, he was anxious for them, and concerned for them.
+He said, “This is a dreadful day.”
 
-118. Had your Lord willed, He could have made humanity one community, but they continue to differ.
+78. And his people came rushing towards him—they were in the habit of committing sins. He said, “O my people, these are my daughters; they are purer for you. So do not embarrass me before my guests. Is there not one reasonable man among you?”
 
-119. Except those on whom your Lord has mercy—for that reason He created them. The Word of your Lord is final: “I will fill Hell with jinn and humans, altogether.”
+79. They said, “You know well that we have no right to your daughters, and you know well what we want.”
 
-120. Everything We narrate to you of the history of the messengers is to strengthen your heart. <!-- The truth has come to you in this, and a lesson, and a reminder for the believers. -->
+80. He said, “If only I had the strength to stop you, or could rely on some strong support.”
 
-121-122. Tell the disbelievers: “Act according to your ability; and so will we. Wait, and we too are waiting.” 
+81. They said, “O Lot, we are the envoys of your Lord; they will not reach you. So set out with your family during the cover of the night, and let none of you look back, except for your wife. She will be struck by what will strike them. Their appointed time is the morning. Is not the morning near?”
 
-<!-- Enki belongs the future of the heavens
-and the earth, and to Him all authority goes back.
- -->
+82. When Our command came about, We turned it upside down, and We rained down on it stones of baked clay.
+
+83. Marked from your Lord, and never far from the wrongdoers.
 

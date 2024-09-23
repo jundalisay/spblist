@@ -81,9 +81,7 @@ To his resting place he shall lower himself.
 (The receding planet, the text asserts, then recrossed the path of Saturn in the
 month of Ululu, the sixth month of the year.)
 
-The Old Testament frequently refers to the time when the Lord caused Earth to
-be covered by the waters of the deep. The twenty-ninth Psalm describes the
-"calling" as well as the "return" of the "great waters" by the Lord:
+The Old Testament frequently refers to the time when the Lord caused Earth to be covered by the waters of the deep. The twenty-ninth Psalm describes the "calling" as well as the "return" of the "great waters" by the Lord:
 
 Unto the Lord, ye sons of the gods,
 Give glory, acknowledge might…

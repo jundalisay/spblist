@@ -1,213 +1,150 @@
 ---
-title: "The 12 Tribes of Israel"
-heading: "Sura 7d "
-weight: 70
+title: "Moses and the Calf"
+heading: "Sura 7d"
+weight: 69
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
 
-{{< s v="159" >}} Among the people of Moses is a community that guides by truth, and thereby does justice.
 
-160. We divided them into 12 tribes. The people asked Moses for something to drink and so We told him to strike the rock with your staff.
+<sup>130</sup> We afflicted the people of Pharaoh with famine years, and with shortage of crops, that they may take heed.
 
-Whereupon 12 springs gushed from it. Each group recognized its drinking-place. 
+<sup>131</sup> When something good came their way, they said: “This is ours.” 
 
-We:
-- shaded them with clouds
-- sent down on them manna and quails: “Eat of the good things We have provided for you.” 
-<!-- They did not wrong Us, but they used to wrong their own selves. -->
-- 161. said to them:
-  - “Settle this town, 
-  - eat therein whatever you wish
-  - speak modestly
-  - enter the gate in humility—We will forgive your sins, and will promote the righteous."
+When something bad happened to them, they ascribed the evil omen to Moses and those with him.
+In fact, their omen is with Enki, but most of them do not know.
 
 
-162. But the wicked among them substituted other words. So We sent down on them a plague from the sky. 
+<sup>132</sup> They said: “No matter what sign you bring us, to bewitch us with, we will not believe in you.”
 
-In his absence, the people of Moses adopted a calf made from their ornaments— a body which lowed. 
+<sup>133</sup> So We let loose upon them the flood, and the locusts, and the lice, and the frogs, and blood—all explicit signs—but they were too arrogant. 
 
-Did they not see that it could not speak to them, nor guide them in any way? 
+They were a sinful people.
 
-149. Then, when they regretted, and realized that they had erred, they said, “Unless our Lord extends His mercy to us, and forgives us, we will be among the losers.”
 
-150. When Moses returned, he was angry and disappointed. He said:
+<sup>134</sup> Whenever a plague befell them, they would say, “O Moses, pray to your Lord for
+us, according to the covenant He made with you. If you lift the plague from us, we will believe in you, and let the Jews go with you.”
 
-“What an awful thing you did in my absence. Did you forsake the commandments of your Lord so hastily?” 
+<sup>135</sup> But when We lifted the plague from them, for a term they were to fulfill, they broke their promise.
 
-He:
-- threw down the tablets
-- took hold of his brother’s head, dragging him towards himself. 
+<sup>136</sup> So We took vengeance on them, and drowned them in the sea—because they rejected Our signs, and paid no heed to them.
 
-He said:
+<sup>137</sup> We made the oppressed people inherit the eastern and western parts of the land, which We had blessed. 
 
-“Son of my mother, the people have overpowered me, and were about to kill me; so do not allow the enemies to gloat over me, and do not count
-me among the unjust people.”
+Thus the fair promise of your Lord to the Jews was fulfilled, because of their endurance.
 
-“My Lord, forgive me and my brother, and admit us into Your mercy; for you are the Most Merciful of the merciful.”
+We destroyed what Pharaoh and his people had built, and what they had harvested.
 
-152. Those who idolized the calf have incurred wrath from their Lord, and humiliation in this life. We thus requite the innovators.
+<sup>138</sup> We delivered the Jews across the sea. And when they came upon a
+people who were devoted to some statues of theirs, they said, “O Moses, make for us a god, as they have gods.” He said, “You are truly an ignorant people.”
 
-153. As for those who commit sins, and then repent afterwards and believe. 
+<sup>139M</sup> “What these people are concerned with is perdition, and their deeds are based on falsehoods.”
 
+<sup>140</sup> He said: “Shall I seek for you a god other than Enki, when He has favored you over all other people?”
 
-154. When the anger abated in Moses, he took up the tablets. In their transcript is guidance and mercy for those in awe of their Lord.
+<sup>141</sup> Remember how We saved you from Pharaoh’s people, who subjected you to the worst of sufferings—killing your sons and sparing your women. In that was a tremendous trial
+from your Lord. 
 
-155. And Moses chose from his people 70 men for Our appointment. When the tremor
-shook them, he said, “My Lord, had You willed, You could have destroyed them be-
-fore, and me too. Will you destroy us for what
-the fools among us have done? 
+<sup>142</sup> We appointed to Moses 30 nights, and completed them with ten; and thus the
+time appointed by his Lord was 40 nights.
 
-This is but Your test—with it You misguide whomever
-You will, and guide whomever You will. 
+Moses said to his brother Aaron: 
 
-You are our Protector, so forgive us, and have
-mercy on us. You are the Best of Forgivers.”
+{{< r a="Moses" >}}
+Take my place among my people, and be upright. Do not follow the way of the mischief-makers.
+{{< /r >}}
 
-156. “And inscribe for us goodness in this world, and in the Hereafter. We have turned
-to You.” He said, “My punishment—I inflict
+<sup>143</sup> When Moses came to Our appointment, and his Lord spoke to him, he said:
 
-148. what We have given you, and remember what
-it contains, so that you may be saved.”
+{{< r a="Moses" >}}
+My Lord, allow me to look and see You.
+{{< /r >}}
 
-172. And when Your Lord summoned the descendants of Adam, and made them testify
-about themselves. “Am I not your Lord?”
+{{< l a="Enki" >}}
+You will not see Me, but look at the mountain; if it stays in its place, you will see Me.
+{{< /l >}}
 
-They said, “Yes, we testify.” Thus you cannot say on the Day of Resurrection, “We were un-
-aware of this.”
+But when his Lord manifested Himself to the mountain, He turned it into dust, and Moses fell down unconscious. 
 
-173. Nor can you Say, “Our ancestors practiced idolatry before; and we are their descendants
-who came after them; will you destroy us for what the falsifiers did?”
+Then, when he recovered, he said:
 
-174. We thus elaborate the revelations, so that they may return.
+{{< r a="Moses" >}}
+Glory be to you, I repent to you, and I am the first of the believers.
+{{< /r >}}
 
-175. And relate to them the story of him to whom We delivered Our signs, but he detached himself from them, so Satan went after him, and he became one of the perverts.
+{{< l a="Enki" >}}
+<sup>144</sup> O Moses, I have chosen you over all people for My messages. So take what I have given you, and be one of the thankful. 
+{{< /l >}}
 
-176. Had We willed, We could have elevated him through them; but he clung to the
-ground, and followed his desires. His metaphor is that of a dog: if you chase it, it pants;
-and if you leave it alone, it pants. 
+<sup>145</sup> We inscribed for him in the Tablets all kinds of enlightenments, and decisive explanation of all things. 
 
-Such is the metaphor of the people who deny Our signs.
+{{< l a="Enki" >}}
+Hold fast to them. Exhort your people to adopt the best of them. I will show you the fate of the sinners.
+{{< /l >}}
 
-So tell the tale, so that they may ponder.
+<sup>146</sup> I will turn away from My revelations those who behave proudly on earth without justification. 
 
+Even if they see every sign, they will not believe in it; and if they see the path of rectitude, they will not adopt it for a path; and if they see the path of error, they will adopt it for a path. 
 
+That is because they denied Our revelations, and paid no attention to them.
 
-177. Evil is the metaphor of the people who reject Our signs and wrong themselves.
+<sup>147</sup> Those who deny Our revelations and the meeting of the Hereafter—their deeds will
+come to nothing. Will they be repaid except according to what they used to do?
 
-178. Whomever Enki guides is the guided one. And whomever He sends astray—these are
-the losers.
+<sup>148</sup> The people of Moses made, after [his departure], from their ornaments a calf – an image having a lowing sound.*
 
-179. We have destined for Hell multitudes of jinn and humans. They have hearts with
-which they do not understand. They have eyes with which they do not see. They have
-ears with which they do not hear. 
+((< n n="The calf is a symbol of Enlil and in Hindiusm and Atlantis before they had a civil war with Enki" >))
 
-These are like cattle. In fact, they are further astray.
-These are the heedless.
+Did they not see that it could neither speak to them nor guide them to a way? They took it [for worship], and they were wrongdoers.
 
-180. To Enki belong the Most Beautiful Names, so call Him by them, and disregard those who blaspheme His names. They will be repaid for what they used to do.
+<sup>149</sup> When regret overcame them and they saw that they had gone astray, they said, "If our Lord does not have mercy upon us and forgive us, we will surely be among the losers."
 
-181. Among those We created is a community—they guide by truth, and do justice thereby.
+<sup>150</sup> Moses returned to his people, angry and grieved, he said:
 
-163. Ask them about the town by the sea, when they violated the Sabbath. When they observed the Sabbath, their fish would come to them abundantly. 
+{{< r a="Moses" >}}
+How wretched is that by which you have replaced me after [my departure]. Were you impatient over the matter of your Lord?
+{{< /r >}}
 
-But when they violated the Sabbath, their fish would not come to them.
-Thus We tried them because they disobeyed.
+He threw down the tablets and seized his brother by [the hair of] his head, pulling him toward him. 
 
-164. And when a group of them said, “Why do you counsel a people whom Enki will annihilate, or punish with a severe punishment?”
-They said, “As an excuse to your Lord, and so that they may become righteous.”
+[Aaron] said, "The people oppressed me and were about to kill me, so let not the enemies rejoice over me and do not place me among the wrongdoing people."
 
-165. Then, when they neglected what they were reminded of, We saved those who prohibited
-evil, and We seized those who did wrong with a terrible punishment, because of their sinfulness.
+{{< r a="Moses" >}}
+<sup>151</sup> My Lord, forgive me and my brother and admit us into Your mercy, for You are the most merciful of the merciful.
+{{< /r >}}
 
-166. Then, when they rebelled against the commands to refrain, We said to them, “Be des-
-picable apes.”
+<sup>152</sup> Those who took the calf [for worship] will obtain anger from their Lord and humiliation in the life of this world, and thus do We recompense the inventors [of falsehood].
 
-167. Your Lord has announced that, He would send against them, until the Day of Resurrection, those who would inflict terrible suffering upon them. Your Lord is swift in retribution, yet He is Forgiving and Merciful.
+<sup>153</sup> But those who committed misdeeds and then repented after them and believed – indeed your Lord, thereafter, is Forgiving and Merciful.
 
-168. And We scattered them into communities on earth. Some of them righteous, and some of them short of that. And We tested them with fortunes and misfortunes, so that they may return.
+<sup>154</sup> When the anger subsided in Moses, he took up the tablets. In their inscription was guidance and mercy for those who are fearful of their Lord.
 
-169. They were succeeded by generations who inherited the Scripture and chose the materi-
-als of this world, saying, “We will be forgiven.” 
+<sup>155</sup> Moses chose from his people 70 men for Our appointment.
 
-And should similar materials come their way, they would again seize them. Did
-they not make a covenant to uphold the Scripture, and to not say about Enki except
-the truth? Did they not study its contents?
+When the earthquake seized them, he said:
 
-But the Home of the Hereafter is better for the cautious; will you not understand?
+{{< r a="Moses" >}}
+My Lord, if You had willed, You could have destroyed them before and me [as well]. Would You destroy us for what the foolish among us have done? This is not but Your trial by which You send astray whom You will and guide whom You will. 
 
-170. Those who adhere to the Scripture, and practice prayer—We will not waste the reward of the reformers.
+You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers.
 
-171. And when We suspended the mountain over them, as if it was an umbrella, and they
-thought it would fall on them: “Hold fast to
+<sup>156</sup> Decree for us in this world [that which is] good and [also] in the Hereafter; indeed, we have turned back to You."
+{{< /r >}}
 
+{{< l a="Enki" >}}
+My punishment – I afflict with it whom I will, but My mercy encompasses all things." 
+{{< /l >}}
 
-<!-- 182. As for those who reject Our messages, We will gradually lead them from where they do not know. -->
+So I will decree it [especially] for those who fear Me and give zakŒh and those who believe in Our verses –
 
-<!-- 183. And I will encourage them. My plan is firm. -->
+<sup>157</sup> Those who follow the Messenger, the Unlettered Prophet, whom they find mentioned in the Torah and the Gospel in their possession. He directs them to righteousness, and deters them from evil, and allows for them all good things, and prohibits for them wicked- ness, and unloads the burdens and the shackles that are upon them.
 
-184. The Prophet Mohammad is not crazy. He is but a plain warner.
+<!-- . Those who believe in him, and respect him, and support him, and follow the light that came down with him--these are the successful. -->
 
-<!-- 185. Have they not observed the government of the heavens and the earth, and all the things that Enki created, and that their time may have drawn near? Which message, besides this, will they believe in?
+<!-- 158. Say, “O people, I am the Messenger of Enki to you all—He to whom belongs the king-
+dom of the heavens and the earth. There is no god but He. He gives life and causes death.”
 
-186. Whomever Enki misguides has no guide.
-
-And He leaves them blundering in their transgression. -->
-
-187. They ask you about the Hour, “When will it come?” Say, “Knowledge of it rests with my Lord. None can reveal its coming except He.
-
-It weighs heavily on the heavens and the earth. It will not come upon you except suddenly.” 
-
-They ask you as if you are responsible for it. Say, “Knowledge of it rests with Enki,”
-
-188. Say, “I have no control over any benefit or harm to myself, except as Enki wills. Had I
-known the future, I would have acquired much good, and no harm would have
-touched me. I am only a warner, and a herald of good news to a people who believe.”
-
-189. It is He who created you from a single person, and made from it its mate, that he may find comfort with her. Then, when he has covered her, she conceives a light load, and she carries it around. 
-
-But when she has grown heavy, they pray to Enki their Lord, “if You give us a good child, we will be among the thankful.”
-
-190. But when He has given them a good child, they attribute partners to Him in what He has given them. Enki is exalted above what they associate.
-
-191. Do they idolize those who create nothing, and are themselves created? 
-
-192. And can neither help them, nor help their own selves?
-
-And if you invite them to guidance, they will not follow you. It is the same for you, whether you invite them, or remain silent.
-
-194. Those you call upon besides Enki are servants like you. So call upon them, and let
-them answer you, if you are truthful.
-
-195. Do they have feet with which they walk?
-
-Or do they have hands with which they strike? Or do they have eyes with which they
-see? 
-
-Or do they have ears with which they hear? 
-
-Say, “Call upon your partners, then plot against me, and do not wait.”
-
-196. “My Master is Enki, He Who sent down the Book, and He takes care of the righteous.”
-
-197. Those you call upon besides Him cannot help you, nor can they help themselves.
-
-198. And if you call them to guidance, they will not hear. And you see them looking at you, yet they do not see.
-
-199. Be tolerant, and command decency, and avoid the ignorant.
-
-200. And when a suggestion from Satan assails you, take refuge with Enki. He is Hearing and Knowing.
-
-201. Those who are righteous—when an impulse from Satan strikes them, they remind themselves, and immediately see clearly.
-
-202. But their brethren lead them relentlessly into error, and they never stop short.
-
-203. If you do not produce a miracle for them, they say, “Why don’t you improvise one.” Say, “I only follow what is inspired to me from my Lord.” These are insights from your Lord, and guidance, and mercy, for a people who believe.
-
-204. When the Quran is recited, listen to it, and pay attention, so that you may experience mercy.
-
-205. And remember your Lord within yourself, humbly and fearfully, and quietly, in the morning and the evening, and do not be of the neglectful.
-206. Those who are in the presence of your Lord are not too proud to worship Him. They
+So believe in Enki and His Messenger, the Unlettered Prophet, who believes in Enki and His words. -->
 
 

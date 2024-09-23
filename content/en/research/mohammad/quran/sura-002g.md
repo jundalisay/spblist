@@ -7,7 +7,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-{{< n n="Here we replace Enki with the Anunnaki god or alien Enki, since the Middle East was historically Anunnaki territory" >}}
+{{< n n="Here we replace 'Allah' with the Anunnaki god or alien 'Enki', since the Middle East was historically Anunnaki territory" >}}
 
 
 {{< s v="168" >}} Eat of what is lawful and good on earth. 
