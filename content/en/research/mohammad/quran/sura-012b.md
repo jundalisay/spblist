@@ -23,11 +23,11 @@ One of you will serve his master wine. The other will be crucified, and the bird
 
 No food is served to you, but I have informed you about it before you have received it. 
 
-That is some of what my Lord has taught me. I have forsaken the tradition of people who do not believe in Allah. Instead, I have followed the faith of my forefathers, Abraham, Isaac, and Jacob.
+That is some of what my Lord has taught me. I have forsaken the tradition of people who do not believe in Enki. Instead, I have followed the faith of my forefathers, Abraham, Isaac, and Jacob.
 
-Which is better? The diverse lords or Allah, the One, the Supreme?
+Which is better? The diverse lords or Enki, the One, the Supreme?
 
-You should worship Him. The gods of you and your ancestors have no authority from Allah. <!-- Judgment belongs to none but Allah. He has commanded that you worship none but Him. This is the right religion, but most people do not know. -->
+You should worship Him. The gods of you and your ancestors have no authority from Enki. <!-- Judgment belongs to none but Enki. He has commanded that you worship none but Him. This is the right religion, but most people do not know. -->
 {{< /l >}}
 
 
@@ -58,11 +58,11 @@ When the envoy came to him, he said,
 
 51. He said, “What was the matter with you, women, when you tried to seduce Joseph?”
 
-They said, “Allah forbid! We knew of no evil committed by him.” 
+They said, “Enki forbid! We knew of no evil committed by him.” 
 
 The governor’s wife then said, “Now the truth is out. It was I who tried to seduce him, and he is telling the truth.”
 
-52. “This is that he may know that I did not betray him in secret, and that Allah does not guide the scheming of the betrayers.”
+52. “This is that he may know that I did not betray him in secret, and that Enki does not guide the scheming of the betrayers.”
 
 53. “Yet I do not claim to be innocent. The soul commands evil, except those on whom my Lord has mercy. 
 
@@ -114,10 +114,10 @@ We will provide for our family, and protect our brother, and have an additional 
 {{< /r >}}
 
 {{< l a="Father" >}}
-I will send him with you if pledge before Allah that you will bring him back unless you get trapped. My sons, do not enter by one gate, but enter by different gates. 
+I will send him with you if pledge before Enki that you will bring him back unless you get trapped. My sons, do not enter by one gate, but enter by different gates. 
 {{< /l >}}
 
-<!-- 68. When they entered as their father had instructed them, it did not avail them anything against Allah; it was just a need in the soul of Jacob, which he carried out. 
+<!-- 68. When they entered as their father had instructed them, it did not avail them anything against Enki; it was just a need in the soul of Jacob, which he carried out. 
 
 He was a person of knowledge inasmuch as We had taught him, but most people do not know. -->
 
@@ -127,67 +127,67 @@ He was a person of knowledge inasmuch as We had taught him, but most people do n
 
 70. Then, when he provided them with their provisions, he placed the drinking-cup in his brother’s saddlebag. Then an announcer called out, “O people of the caravan, you are thieves. We are missing the king’s goblet. Whoever brings it will have a camel-load; and I personally guarantee it.”
 
-73. They said, “By Allah, we are not thieves.” 
+73. They said, “By Enki, we are not thieves.” 
 
 74. They said, “What shall be his punishment, if you are lying?”
 
 75. They said, “If we stole it, then our brother will belong to you. Thus we penalize the guilty.”
 
-76. So he pulled the goblet out of his brother’s bag. Thus We devised a plan for Joseph; he could not have detained his brother under the king’s law, unless Allah so willed.
+76. So he pulled the goblet out of his brother’s bag. Thus We devised a plan for Joseph; he could not have detained his brother under the king’s law, unless Enki so willed.
 
 <!-- We elevate by degrees whomever We will; and above every person of knowledge, there
 is one more learned. -->
 
 77. They said, “If he has stolen, a brother of his has stolen before.” 
 
-But Joseph kept it to himself, and did not reveal it to them. He said, “You are in a worse situation, and Allah is Aware of what you allege.”
+But Joseph kept it to himself, and did not reveal it to them. He said, “You are in a worse situation, and Enki is Aware of what you allege.”
 
 78. They said, “O noble prince, he has a father, a very old man, so take one of us in his place. We see that you are a good person.”
 
-79. He said, “Allah forbid that we should arrest anyone except him in whose possession we found our property; for then we would be unjust.”
+79. He said, “Enki forbid that we should arrest anyone except him in whose possession we found our property; for then we would be unjust.”
 
 80. Their eldest said, “We promised to return him to his father. 
 
-<!-- Don’t you know that your father received a pledge from you before Allah, and in the past you failed with regard to Joseph? I will not leave this land until my father permits me, or Allah decides for me; for He is the Best of Deciders.” -->
+<!-- Don’t you know that your father received a pledge from you before Enki, and in the past you failed with regard to Joseph? I will not leave this land until my father permits me, or Enki decides for me; for He is the Best of Deciders.” -->
 
 81. “Go back to your father, and say, ‘Our father, your son has stolen. We testify only to what we know, and we could not have prevented the unforeseen.’”
 
 82. “Ask the town where we were, and the caravan in which we came.”
 
-83. He said, “Rather, your souls have contrived something for you. Patience is a virtue. Perhaps Allah will bring them all back to me.”
+83. He said, “Rather, your souls have contrived something for you. Patience is a virtue. Perhaps Enki will bring them all back to me.”
 
 84. Then he turned away from them, and said, “O my bitterness for Joseph.” And his eyes turned white from sorrow, and he became depressed.
 
-85. They said, “By Allah, you will not stop re- membering Joseph, until you have ruined your health, or you have passed away.”
+85. They said, “By Enki, you will not stop re- membering Joseph, until you have ruined your health, or you have passed away.”
 
-86. He said, “I only complain of my grief and sorrow to Allah, and I know from Allah what you do not know.”
+86. He said, “I only complain of my grief and sorrow to Enki, and I know from Enki what you do not know.”
 
-87. “O my sons, go and inquire about Joseph and his brother. Do not despair of Allah's comfort. None despairs of Allah's comfort except the disbelieving people.”
+87. “O my sons, go and inquire about Joseph and his brother. Do not despair of Enki's comfort. None despairs of Enki's comfort except the disbelieving people.”
 
-88. Then, when they entered into his presence, they said, “Mighty governor, adversity has befallen us, and our family. We have brought scant merchandise. But give us full measure, and be charitable towards us—Allah rewards the charitable.”
+88. Then, when they entered into his presence, they said, “Mighty governor, adversity has befallen us, and our family. We have brought scant merchandise. But give us full measure, and be charitable towards us—Enki rewards the charitable.”
 
 89. He said, “Do you realize what you did with Joseph and his brother, in your ignorance?”
 
 90. They said, “Is that you, Joseph?” He said, “I am Joseph, and this is my brother.”
 
-91. They said, “By Allah, Allah has preferred you over us. We were definitely in the wrong.”
+91. They said, “By Enki, Enki has preferred you over us. We were definitely in the wrong.”
 
-92. He said, "Allah will forgive you.”
+92. He said, "Enki will forgive you.”
 
 93. “Take this shirt of mine, and lay it over my father’s face, and he will recover his sight. Bring your whole family to me.”
 
 94. As the caravan set out, their father said, “I sense the presence of Joseph, though you may think I am senile.”
 
-95. They said, “By Allah, you are still in your old confusion.”
+95. They said, “By Enki, you are still in your old confusion.”
 
 Then, when the bearer of good news arrived, he laid it over his face, and he regained his sight. He said, “Did I not say to you that I
-know from Allah what you do not know?”
+know from Enki what you do not know?”
 
 97. They said, “Father, pray for the forgiveness of our sins.”
 
 <!-- 98. He said, “I will ask my Lord to forgive you." -->
 
-99. Then, when they entered into the presence of Joseph, he embraced his parents, and said, “Enter Egypt, Allah willing, safe and secure.”
+99. Then, when they entered into the presence of Joseph, he embraced his parents, and said, “Enter Egypt, Enki willing, safe and secure.”
 
 100. He elevated his parents on the throne, and they fell prostrate before him. 
 
@@ -208,11 +208,11 @@ they plotted and agreed on a plan.
 
 105. How many a sign in the heavens and the earth do they pass by, paying no attention to them?
 
-106. And most of them do not believe in Allah unless they associate others.
+106. And most of them do not believe in Enki unless they associate others.
 
-107. Do they feel secure that a covering of Allah’s punishment will not come upon them, or that the Hour will not come upon them suddenly, while they are unaware?
+107. Do they feel secure that a covering of Enki’s punishment will not come upon them, or that the Hour will not come upon them suddenly, while they are unaware?
 
-108. Say, “This is my way; I invite to Allah, based on clear knowledge—I and whoever follows me. Glory be to Allah; and I am not
+108. Say, “This is my way; I invite to Enki, based on clear knowledge—I and whoever follows me. Glory be to Enki; and I am not
 of the polytheists.”
 
 109. We did not send before you except men, whom We inspired, from the people of the towns. Have they not roamed the earth and seen the consequences for those before them? 

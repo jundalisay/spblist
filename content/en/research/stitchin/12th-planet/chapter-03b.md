@@ -3,7 +3,7 @@ heading: Chapter 3b
 title:  "The God Ares"
 image:  "/covers/12th.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
-weight: 6
+weight: 16
 ---
 
 
@@ -161,4 +161,3 @@ Bathsheba, whom King David coveted, was the wife 'of Uriah the Hittite, an offic
 These brief allusions to the Hittites reveal the high esteem in which their military abilities were held by other peoples of the ancient Near East.
 
 With the decipherment of the Egyptian hieroglyphs—and, later on, of the Mesopotamian inscriptions—scholars have come across numerous references to a "Land of Hatti" as a large and powerful kingdom in Anatolia. Could such an important power have left no trace?
-

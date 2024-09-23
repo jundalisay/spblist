@@ -21,29 +21,95 @@ Why do we agree to moral obligations?
 
 <!-- If this can be clearly ascertained from the foregoing theory, we shall have the satisfaction to reflect, that we have advanced principles, which not only, it is hoped, will stand the test of reasoning and inquiry, but may contribute to the amendment of men's lives, and their improvement in morality and social virtue.  -->
 
-The philosophical truth of any proposition does not depend on its tendency to promote the interests of society. Yet a man has but a bad grace, who delivers a theory, however true, which, he must confess, leads to a practice dangerous and pernicious. Why rake into those corners of nature which spread a nuisance all around? Why dig up the pestilence from the pit in which it is buried? 
+The philosophical truth of any proposition does not depend on its tendency to promote the interests of society. 
 
-The ingenuity of your researches may be admired, but your systems will be detested; and mankind will agree, if they cannot refute them, to sink them, at least, in eternal silence and oblivion. Truths which are pernicious to society, if any such there be, will yield to errors which are salutary and ADVANTAGEOUS.
+Yet a man has a bad grace if he delivers a theory, however true, which leads to a dangerous practice. 
 
-But what philosophical truths can be more advantageous to society, than those here delivered, which represent virtue in all her genuine and most engaging charms, and makes us approach her with ease, familiarity, and affection? The dismal dress falls off, with which many divines, and some philosophers, have covered her; and nothing appears but gentleness, humanity, beneficence, affability; nay, even at proper intervals, play, frolic, and gaiety. She talks not of useless austerities and rigours, suffering and self-denial. 
+Why spread a nuisance all around? Why dig up the pestilence from the pit in which it is buried? 
 
-She declares that her sole purpose is to make her votaries and all mankind, during every instant of their existence, if possible, cheerful and happy; nor does she ever willingly part with any pleasure but in hopes of ample compensation in some other period of their lives. The sole trouble which she demands, is that of just calculation, and a steady preference of the greater happiness. And if any austere pretenders approach her, enemies to joy and pleasure, she either rejects them as hypocrites and deceivers; or, if she admit them in her train, they are ranked, however, among the least favoured of her votaries.
+The ingenuity of your research might be admired. But your systems will be detested.
 
-To drop all figurative expression, what hopes can we ever have of engaging mankind to a practice which we confess full of austerity and rigour? Or what theory of morals can ever serve any useful purpose, unless it can show, by a particular detail, that all the duties which it recommends, are also the true interest of each individual? The peculiar advantage of the foregoing system seems to be, that it furnishes proper mediums for that purpose.
+People will try to sink them in eternal silence and oblivion if they cannot refute them.
 
-That the virtues which are immediately USEFUL or AGREEABLE to the person possessed of them, are desirable in a view to self-interest, it would surely be superfluous to prove. Moralists, indeed, may spare themselves all the pains which they often take in recommending these duties. To what purpose collect arguments to evince that temperance is advantageous, and the excesses of pleasure hurtful, when it appears that these excesses are only denominated such, because they are hurtful; and that, if the unlimited use of strong liquors, for instance, no more impaired health or the faculties of mind and body than the use of air or water, it would not be a whit more vicious or blameable?
+Truths which are pernicious to society will yield to errors which are salutary and ADVANTAGEOUS.
 
-It seems equally superfluous to prove, that the COMPANIONABLE virtues of good manners and wit, decency and genteelness, are more desirable than the contrary qualities. Vanity alone, without any other consideration, is a sufficient motive to make us wish for the possession of these accomplishments. No man was ever willingly deficient in this particular. All our failures here proceed from bad education, want of capacity, or a perverse and unpliable disposition. Would you have your company coveted, admired, followed; rather than hated, despised, avoided? Can any one seriously deliberate in the case? As no enjoyment is sincere, without some reference to company and society; so no society can be agreeable, or even tolerable, where a man feels his presence unwelcome, and discovers all around him symptoms of disgust and aversion.
+The most advantageous philosophical truths for society:
+- represents virtue in all her genuine and most engaging charms
+- makes us approach virtue with ease, familiarity, and affection
 
-But why, in the greater society or confederacy of mankind, should not the case be the same as in particular clubs and companies? Why is it more doubtful, that the enlarged virtues of humanity, generosity, beneficence, are desirable with a view of happiness and self-interest, than the limited endowments of ingenuity and politeness? Are we apprehensive lest those social affections interfere, in a greater and more immediate degree than any other pursuits, with private utility, and cannot be gratified, without some important sacrifice of honour and advantage? If so, we are but ill-instructed in the nature of the human passions, and are more influenced by verbal distinctions than by real differences.
+Many divines and some philosophers have covered virtue in a dismal dress.
+- This dress falls off, revealing only gentleness, humanity, beneficence, affability, even at proper intervals, play, frolic, and gaiety. 
 
-Whatever contradiction may vulgarly be supposed between the SELFISH and SOCIAL sentiments or dispositions, they are really no more opposite than selfish and ambitious, selfish and revengeful, selfish and vain. It is requisite that there be an original propensity of some kind, in order to be a basis to self-love, by giving a relish to the objects of its pursuit; and none more fit for this purpose than benevolence or humanity. The goods of fortune are spent in one gratification or another=  the miser who accumulates his annual income, and lends it out at interest, has really spent it in the gratification of his avarice. And it would be difficult to show why a man is more a loser by a generous action, than by any other method of expense; since the utmost which he can attain by the most elaborate selfishness, is the indulgence of some affection.
+She talks not of useless austerities and rigours, suffering and self-denial. 
 
-Now if life, without passion, must be altogether insipid and tiresome; let a man suppose that he has full power of modelling his own disposition, and let him deliberate what appetite or desire he would choose for the foundation of his happiness and enjoyment. Every affection, he would observe, when gratified by success, gives a satisfaction proportioned to its force and violence; but besides this advantage, common to all, the immediate feeling of benevolence and friendship, humanity and kindness, is sweet, smooth, tender, and agreeable, independent of all fortune and accidents. These virtues are besides attended with a pleasing consciousness or remembrance, and keep us in humour with ourselves as well as others; while we retain the agreeable reflection of having done our part towards mankind and society. 
+She declares that her sole purpose is to make everyone cheerful and happy.
 
-And though all men show a jealousy of our success in the pursuits of avarice and ambition; yet are we almost sure of their good-will and good wishes, so long as we persevere in the paths of virtue, and employ ourselves in the execution of generous plans and purposes. What other passion is there where we shall find so many advantages united; an agreeable sentiment, a pleasing consciousness, a good reputation? But of these truths, we may observe, men are, of themselves, pretty much convinced; nor are they deficient in their duty to society, because they would not wish to be generous, friendly, and humane; but because they do not feel themselves such.
+<!-- ; nor does she ever willingly part with any pleasure but in hopes of ample compensation in some other period of their lives.  -->
 
-Treating vice with the greatest candour, and making it all possible concessions, we must acknowledge that there is not, in any instance, the smallest pretext for giving it the preference above virtue, with a view of self-interest; except, perhaps, in the case of justice, where a man, taking things in a certain light, may often seem to be a loser by his integrity. And though it is allowed that, without a regard to property, no society could subsist; yet according to the imperfect way in which human affairs are conducted, a sensible knave, in particular incidents, may think that an act of iniquity or infidelity will make a considerable addition to his fortune, without causing any considerable breach in the social union and confederacy. 
+She only demands:
+- just calculation
+- a steady preference of the greater happiness. 
+
+
+Austere people are enemies to joy and pleasure. 
+
+She rejects them as hypocrites and deceivers.
+
+If she admit them in her train, they are classed as the least favoured of her devotees.
+
+To drop all figurative expression, what hopes can we ever have of engaging mankind to a practice which we confess full of austerity and rigour?
+
+Or what theory of morals can ever serve any useful purpose, unless it can show, by a particular detail, that all the duties which it recommends, are also the true interest of each individual?
+
+The peculiar advantage of the foregoing system is that it furnishes proper mediums for that purpose.
+
+The virtues which are immediately USEFUL or AGREEABLE to the person who has them are desirable in a view to self-interest.
+
+<!-- , it would surely be superfluous to prove.  -->
+
+<!-- Moralists, indeed, may spare themselves all the pains which they often take in recommending these duties. -->
+
+<!-- To what purpose collect arguments to evince that temperance is advantageous, and the excesses of pleasure hurtful, 
+
+when it appears that these excesses are only denominated such, because they are hurtful; and that,  -->
+
+If the unlimited drinking of strong liquors did not impair health or mind than drinking water then it would not be more vicious or blameable.
+
+The COMPANIONABLE virtues of good manners and wit, decency and genteelness, are more desirable than the contrary qualities. 
+
+Vanity alone is a sufficient motive to make us wish to have these accomplishments.
+
+No man was ever willingly deficient in this particular. All our failures here proceed from bad education, want of capacity, or a perverse and unpliable disposition. Would you have your company coveted, admired, followed; rather than hated, despised, avoided?
+
+Can any one seriously deliberate in the case?
+
+As no enjoyment is sincere, without some reference to company and society; so no society can be agreeable, or even tolerable, where a man feels his presence unwelcome, and discovers all around him symptoms of disgust and aversion.
+
+But why, in the greater society or confederacy of mankind, should not the case be the same as in particular clubs and companies? 
+
+Why is it more doubtful, that the enlarged virtues of humanity, generosity, beneficence, are desirable with a view of happiness and self-interest, than the limited endowments of ingenuity and politeness? 
+
+Are we apprehensive lest those social affections interfere, in a greater and more immediate degree than any other pursuits, with private utility, and cannot be gratified, without some important sacrifice of honour and advantage? If so, we are but ill-instructed in the nature of the human passions, and are more influenced by verbal distinctions than by real differences.
+
+Whatever contradiction may vulgarly be supposed between the SELFISH and SOCIAL sentiments or dispositions, they are really no more opposite than selfish and ambitious, selfish and revengeful, selfish and vain.
+
+It is requisite that there be an original propensity of some kind, in order to be a basis to self-love, by giving a relish to the objects of its pursuit; and none more fit for this purpose than benevolence or humanity. 
+
+The goods of fortune are spent in one gratification or another=  the miser who accumulates his annual income, and lends it out at interest, has really spent it in the gratification of his avarice. And it would be difficult to show why a man is more a loser by a generous action, than by any other method of expense; since the utmost which he can attain by the most elaborate selfishness, is the indulgence of some affection.
+
+Now if life, without passion, must be altogether insipid and tiresome; let a man suppose that he has full power of modelling his own disposition, and let him deliberate what appetite or desire he would choose for the foundation of his happiness and enjoyment.
+
+Every affection, he would observe, when gratified by success, gives a satisfaction proportioned to its force and violence; but besides this advantage, common to all, the immediate feeling of benevolence and friendship, humanity and kindness, is sweet, smooth, tender, and agreeable, independent of all fortune and accidents. 
+
+These virtues are besides attended with a pleasing consciousness or remembrance, and keep us in humour with ourselves as well as others; while we retain the agreeable reflection of having done our part towards mankind and society. 
+
+And though all men show a jealousy of our success in the pursuits of avarice and ambition; yet are we almost sure of their good-will and good wishes, so long as we persevere in the paths of virtue, and employ ourselves in the execution of generous plans and purposes. What other passion is there where we shall find so many advantages united; an agreeable sentiment, a pleasing consciousness, a good reputation? 
+
+But of these truths, we may observe, men are, of themselves, pretty much convinced; nor are they deficient in their duty to society, because they would not wish to be generous, friendly, and humane; but because they do not feel themselves such.
+
+Treating vice with the greatest candour, and making it all possible concessions, we must acknowledge that there is not, in any instance, the smallest pretext for giving it the preference above virtue, with a view of self-interest; except, perhaps, in the case of justice, where a man, taking things in a certain light, may often seem to be a loser by his integrity.
+
+Though it is allowed that, without a regard to property, no society could subsist; yet according to the imperfect way in which human affairs are conducted, a sensible knave, in particular incidents, may think that an act of iniquity or infidelity will make a considerable addition to his fortune, without causing any considerable breach in the social union and confederacy. 
 
 'Honesty is the best policy' is a good general rule. But is liable to many exceptions.
 

@@ -12,7 +12,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 - {{< s v="5" >}} The Thamood were annihilated by the Overwhelming.
 - {{< s v="6" >}} The Aad were annihilated by a furious, roaring wind.
 
-{{< s v="7" >}} Allah unleashed it on them for 7 nights and 8 days, in succession. You could see
+{{< s v="7" >}} Enki unleashed it on them for 7 nights and 8 days, in succession. You could see
 the people tossed around, as though they were stumps of hollow palm-trees.
 
 {{< s v="8" >}} Can you see any remnant of them?
@@ -44,12 +44,12 @@ I wish that there were no eternity.
 My money and worldly power are gone. 
 {{< /r >}}
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 Take him and shackle him. Then burn him in the Blaze. Then tie him up in a chain 70 cubits long. 
 {{< /l >}}
 
 He did not:
-- believe in Allah.
+- believe in Enki.
 - feed the poor.
 
 He does not have any friend here today.

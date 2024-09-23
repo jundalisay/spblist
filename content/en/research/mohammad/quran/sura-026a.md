@@ -13,7 +13,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="10-14" >}} 
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 Go to the tyrannical people, the people of Pharaoh. Will they not fear?
 {{< /l >}}
 
@@ -23,7 +23,7 @@ I fear they will rejectme. I become stressed, and my tongue is not fluent, so se
 
 15-16
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 No. Go, both of you, with Our proofs. We will be with you, listening. Go to Pharaoh, and say, ‘We are the Messengers of the Lord of the Worlds. Bring it, if you are being truthful.”
 {{< /l >}}
 
@@ -99,7 +99,7 @@ Did you believe in Him before I have given you permission? He must be your chief
 No problem. To our Lord we will return. We are eager for our Lord to forgive us our sins, since we are the first of the believers.”
 {{< /r >}}
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 [To Moses:] Travel with My servants by night. You will be followed.
 {{< /l >}}
 
@@ -179,7 +179,7 @@ misguided.
 are resurrected.
 88. The Day when neither wealth nor children
 will help.
-89. Except for him who comes to Allah with a
+89. Except for him who comes to Enki with a
 sound heart.”
 90. And Paradise will be brought near for the
 righteous.
@@ -187,7 +187,7 @@ righteous.
 ators.
 92. And it will be said to them, “Where are
 those you used to worship?”
-93. Besides Allah? Can they help you, or help
+93. Besides Enki? Can they help you, or help
 themselves?”
 94. Then they will be toppled into it, together
 with the seducers.
@@ -196,7 +196,7 @@ the soldiers of Satan, all of them.
 96. They
 97. “By
 will say, as they feud in it.
-Allah, We were in evident error.
+Enki, We were in evident error.
 For equating you with the Lord of the
 Worlds.
 
@@ -223,12 +223,12 @@ not fear?
 107. I
 am to you a faithful messenger.
 108. So
-fear Allah, and obey me.
+fear Enki, and obey me.
 ask of you no payment for this. My pay-
 ment is only from the Lord of the Worlds.
 109. I
 110. So
-fear Allah, and obey me.”
+fear Enki, and obey me.”
 They said, “Shall we believe in you, when
 it is the lowliest who follow you?”
 112. He said, “What do I know about what they
@@ -262,7 +262,7 @@ disbelieved the messengers.
 125. I
 am to you a faithful messenger.
 126. So
-fear Allah, and obey me.
+fear Enki, and obey me.
 ask of you no payment for this. My pay-
 ment is only from the Lord of the Worlds.
 128. Do you build a monument on every height
@@ -273,7 +273,7 @@ forever?
 lessly?
 127. I
 131. So
-fear Allah, and obey me.
+fear Enki, and obey me.
 And reverence Him, who supplied you
 with everything you know.
 133. He supplied you with livestock and chil-
@@ -304,7 +304,7 @@ When their brother Saleh said to them,
 143. I
 am to you a faithful messenger.
 144. So
-fear Allah, and obey me.
+fear Enki, and obey me.
 I ask of you no payment for it. My pay-
 ment is only from the Lord of the Worlds.
 145.
@@ -319,7 +319,7 @@ are delicious?
 149. And you skillfully carve houses in the
 mountains? 171.
 150. So 172. Then
-fear Allah, and obey me.
+fear Enki, and obey me.
 do not obey the command of the ex-
 travagant.
 152. Who spread turmoil on earth, and do not
@@ -349,7 +349,7 @@ you not fear?
 162. I
 am to you a faithful messenger.
 163. So
-fear Allah, and obey me.
+fear Enki, and obey me.
 I ask of you no payment for it. My pay-
 ment is only from the Lord of the Worlds.
 164.
@@ -384,7 +384,7 @@ fear?
 178. I
 am to you a trustworthy messenger.
 179. So
-fear Allah, and obey me.
+fear Enki, and obey me.
 I ask of you no payment for it. My pay-
 ment is only from the Lord of the Worlds.
 180.
@@ -471,7 +471,7 @@ style?
 226. And
 how they say what they do not do?
 for those who believe, and do good
-deeds, and remember Allah frequently, and
+deeds, and remember Enki frequently, and
 defend themselves after they are wronged. As
 for those who do wrong, they will know by
 what overturning they will be overturned.
@@ -490,7 +490,7 @@ power.
 211.
 212. They
 are barred from hearing.
-do not pray to another god with Allah,
+do not pray to another god with Enki,
 else you will be of those tormented.
 213. So
 214. And

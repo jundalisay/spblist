@@ -172,3 +172,21 @@ The Stellar Eye will be positioned in L2, similar to the James Webb telescope.
 - To create a teleportation map to Proxima Centauri, it will look constantly at that star to get its gravitational ratio relative to that of the Earth. 
 
 
+
+<!-- Faster computers need microchips that are able to squeeze more transistors per area than before. The big problem is that there is a physical limit on how small things can get and how much heat materials can take. Microchips cannot be made large because electrons travel slowly. This is why the increase in speed is estimated to end by the 2030s.
+
+Cartesian Physics solves this by using crystal computers that use light instead of electrons. 
+
+Unlike optical computing which uses interference patterns, crystal computers create logic gates by freezing and unfreezing photons. Light is frozen by depleting their energy through a crystal medium. This creates 0 and disappears the photon. It is turned to 1 by re-energizing it through emission which makes it reappear and go out of the crystal.
+
+https://en.wikipedia.org/wiki/Optical_computing
+
+The resulting pattern of 1's and 0's is seen by a light sensor which reprocesses the information. 
+
+This solution uses 2 Cartesian principles:
+1. The nature of light as information carrier https://www.superphysics.org/research/descartes/optics/part-01/
+2. The nature of glass to have 'pores' where light can be stored  https://www.superphysics.org/research/descartes/optics/part-09/
+
+The process will produce less heat and can be increased in size since light travels much faster than electrons. 
+
+We envision a crystal server "Solar Eye" floating in orbit, as orbital computing as opposed to cloud computing, to harness the sun for both power and data-material. A transmitter on Earth will teleport the packets to the server which will then be processed and saved in glass to be teleported back down to Earth. In this way, most computing can be done in orbit, reducing the need for power-hungry electronic computers on Earth. Rather, most computers will just be a mobile client that connects to orbital computing. This will reduce global warming significantly, in conjunction with nuclear fusion which will also be unlocked by Cartesian Physics.  -->

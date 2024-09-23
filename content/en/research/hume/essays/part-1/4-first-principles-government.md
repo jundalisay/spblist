@@ -34,9 +34,12 @@ There are two kinds of opinion:
 1. opinion of interest
 2. opinion of right 
 
-By opinion of interest, I chiefly understand the sense of the general advantage which is reaped from government; together with the persuasion, that the particular government, which is established, is equally advantageous with any other that could easily be settled. When this opinion prevails among the generality of a state, or among those who have the force in their hands, it gives great security to any government.
+Opinion of interest is the general advantage reaped from government.
+- It includes the persuasion that the established government is equally advantageous with any other that could easily be established. 
 
-Right is of two kinds:
+When this opinion prevails in a state, or among those who have the force in their hands, it gives great security to any government.
+
+Right is of 2 kinds:
 1. Right to Power
 2. Right to Property
 
@@ -77,9 +80,13 @@ But still, these other principles can have no influence alone, but suppose the a
 
 They are, therefore, secondary and not the original principles of government.
 
-Self-interest is the expectation of particular rewards, distinct from the general protection which we receive from government. The magistrate’s authority must be antecedently established in order to produce this expectation. 
+**Self-interest is the expectation of particular rewards, distinct from the general protection which we receive from government.**
 
-The prospect of reward may augment his authority with regard to some particular persons; but can never give birth to it, with regard to the public. Men naturally look for the greatest favours from their friends and acquaintance; and therefore, the hopes of any considerable number of the state would never center in any particular set of men, if these men had no other title to magistracy, and had no separate influence over the opinions of mankind. 
+The magistrate’s authority must be antecedently established in order to produce this expectation. 
+
+The prospect of reward may augment his authority with regard to some particular persons; but can never give birth to it, with regard to the public. Men naturally look for the greatest favours from their friends and acquaintance.
+
+Therefore, the hopes of any considerable number of the state would never center in any particular set of men, if these men had no other title to magistracy, and had no separate influence over the opinions of mankind. 
 
 The same observation may be extended to the other two principles of fear and affection. No man would have any reason to fear the fury of a tyrant, if he had no authority over any but from fear; since, as a single man, his bodily force can reach but a small way, and all the farther power he possesses must be founded either on our own opinion, or on the presumed opinion of others. 
 
@@ -91,7 +98,9 @@ As men are commonly much attached to their ancient government, it is not to be e
 
 Most writers, that have treated of the British government, have supposed, that, as the lower house represents all the commons of Great Britain, its weight in the scale is proportioned to the property and power of all whom it represents. But this principle must not be received as absolutely true. 
 
-For though the people are apt to attach themselves more to the house of commons, than to any other member of the constitution; that house being chosen by them as their representatives, and as the public guardians of their liberty; yet are there instances where the house, even when in opposition to the crown, has not been followed by the people; as we may particularly observe of the tory house of commons in the reign of king William. 
+The people are apt to attach themselves more to the house of commons, than to any other member of the constitution. That house being chosen by them as their representatives, and as the public guardians of their liberty.
+
+Yet are there instances where the house, even when in opposition to the crown, has not been followed by the people; as we may particularly observe of the tory house of commons in the reign of king William. 
 
 Were the members obliged to receive instructions from their constituents, like the Dutch deputies, this would entirely alter the case; and if such immense power and riches, as those of all the commons of Great Britain, were brought into the scale, it is not easy to conceive, that the crown could either influence that multitude of people, or withstand that overbalance of property. 
 
@@ -105,4 +114,4 @@ I think that an alteration in this would:
 
 For though the people, collected in a body like the Roman tribes, be quite unfit for government, yet when dispersed in small bodies, they are more susceptible both of reason and order; the force of popular currents and tides is, in a great measure, broken; and the public interest may be pursued with some method and constancy. 
 
-But it is needless to reason any farther concerning a form of government, which is never likely to have place in Great Britain, and which seems not to be the aim of any party amongst us. Let us cherish and improve our ancient government as much as possible, without encouraging a passion for such dangerous novelties.
+<!-- But it is needless to reason any farther concerning a form of government, which is never likely to have place in Great Britain, and which seems not to be the aim of any party amongst us. Let us cherish and improve our ancient government as much as possible, without encouraging a passion for such dangerous novelties. -->

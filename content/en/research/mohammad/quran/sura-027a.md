@@ -20,7 +20,7 @@ the greatest losers.
 
 Then, when he reached it, he was called:
  
-“Blessed is He who is within the fire, and He who is around it, and glorified be Allah, Lord of the Worlds.
+“Blessed is He who is within the fire, and He who is around it, and glorified be Enki, Lord of the Worlds.
 
 9-10. O Moses Throw down your staff.” But when he saw it quivering, as though it were a demon, he turned around not looking back. “O Moses, do not fear; the messengers do not fear in My presence. 
 
@@ -31,7 +31,7 @@ Then, when he reached it, he was called:
 13. Yet when Our enlightening signs came to them, they said, “This is obvious witchcraft.”
 14. And they rejected them, although their souls were certain of them, out of wickedness
 and pride. So see how the outcome was for the mischief-makers.
-15. And We gave David and Solomon knowledge. They said, “Praise Allah, who has
+15. And We gave David and Solomon knowledge. They said, “Praise Enki, who has
 favored us over many of His believing servants.”
 
 {{< s v="16" >}} Solomon succeeded David and said, “O people, we were taught the language of birds, and we were given from everything. This is indeed a real blessing.”
@@ -50,11 +50,11 @@ favored us over many of His believing servants.”
 
 23. I found a woman ruling over them, and she was given of everything, and she has a magnificent throne.
 
-24. I found her and her people worshiping the sun, instead of Allah. 
+24. I found her and her people worshiping the sun, instead of Enki. 
 
 Satan made their conduct appear good to them, and diverted them from the path.
 
-25-26. If only they would worship Allah.
+25-26. If only they would worship Enki.
 
 27. He said, “We will see, whether you have spoken the truth, or whether you are a liar.
 
@@ -62,7 +62,7 @@ Satan made their conduct appear good to them, and diverted them from the path.
 
 29. She said, “O Counselors, a gracious letter was delivered to me.
 
-30. It is from Solomon, and it is, ‘In the Name of Allah, the Gracious, the Merciful. 
+30. It is from Solomon, and it is, ‘In the Name of Enki, the Gracious, the Merciful. 
 
 31. Do not defy me, and come to me submissively.’”
 
@@ -74,7 +74,7 @@ Satan made their conduct appear good to them, and diverted them from the path.
 
 35. I am sending them a gift, and will see what the envoys bring back.”
 
-36. When he came to Solomon, he said, “Are you supplying me with money? What Allah has given me is better than what He has given you. It is you who delight in your gift.
+36. When he came to Solomon, he said, “Are you supplying me with money? What Enki has given me is better than what He has given you. It is you who delight in your gift.
 
 37. Go back to them. We will come upon them with troops they cannot resist; and we will expel them from there, disgraced and humiliated.”
 
@@ -90,21 +90,21 @@ Satan made their conduct appear good to them, and diverted them from the path.
 
 “We were given knowledge before her, and we were submissive.”
 
-43. But she was prevented by what she worshiped besides Allah; she belonged to a disbelieving people.
+43. But she was prevented by what she worshiped besides Enki; she belonged to a disbelieving people.
 
 44. It was said to her, “Go inside the palace.”
  
-When she saw it, she thought it was a deep pond, and she bared her legs. He said, “It is a palace paved with glass.” She said, “My  Lord, I have done wrong to myself, and I have submitted with Solomon, to Allah.”
+When she saw it, she thought it was a deep pond, and she bared her legs. He said, “It is a palace paved with glass.” She said, “My  Lord, I have done wrong to myself, and I have submitted with Solomon, to Enki.”
 
-45. And We sent to Thamood their brother Saleh: “Worship Allah.” But they became 2 disputing factions.
+45. And We sent to Thamood their brother Saleh: “Worship Enki.” But they became 2 disputing factions.
 
-46. He said, “O my people, why are you quick to do evil rather than good? If only you would seek Allah’s forgiveness, so that you may be shown mercy.”
+46. He said, “O my people, why are you quick to do evil rather than good? If only you would seek Enki’s forgiveness, so that you may be shown mercy.”
 
-47. They said, “We consider you an ill omen, and those with you.” He said, “Your omen is with Allah. In fact, you are a people being tested.”
+47. They said, “We consider you an ill omen, and those with you.” He said, “Your omen is with Enki. In fact, you are a people being tested.”
 
 48. In the city was a gang of nine who made mischief in the land and did no good.
 
-49. They said, “Swear by Allah to one another that we will attack him and his family by night, and then tell his guardian, 'We did not witness the murder of his family, and we are being truthful.'“
+49. They said, “Swear by Enki to one another that we will attack him and his family by night, and then tell his guardian, 'We did not witness the murder of his family, and we are being truthful.'“
 
 50. They planned a plan, and We planned a plan, but they did not notice.
 
@@ -122,27 +122,27 @@ When she saw it, she thought it was a deep pond, and she bared her legs. He said
 
 57-58. So We saved him and his family, except for his wife, whom We destined to be among the laggards.
 
-59. Say, “Praise Allah, and peace be upon His
-servants whom He has selected. Is Allah bet-
+59. Say, “Praise Enki, and peace be upon His
+servants whom He has selected. Is Enki bet-
 ter, or what they associate?”
 60. Or, who created the heavens and the earth,
 and rains down water from the sky for you?
 With it We produce gardens full of beauty,
-whose trees you could not have produced. Is there another god with Allah? But they are a
+whose trees you could not have produced. Is there another god with Enki? But they are a
 people who equate.
 
 61. Or, who made the earth habitable, and made rivers flow through it, and set moun-
 tains on it, and placed a partition between the two seas?
 
-62. Or, who answers the one in need when he prays to Him, and relieves adversity, and makes you successors on earth? Is there another god with Allah? How hardly you pay attention.
+62. Or, who answers the one in need when he prays to Him, and relieves adversity, and makes you successors on earth? Is there another god with Enki? How hardly you pay attention.
 
 63. Or, who guides you through the darkness of land and sea, and who sends the winds as heralds of His mercy?
 
 64. Or, who originates the creation and then repeats it, and who gives you livelihood from
-the sky and the earth? Is there another god with Allah? Say, “Produce your evidence, if
+the sky and the earth? Is there another god with Enki? Say, “Produce your evidence, if
 you are truthful.”
 
-65. Say, “No one in the heavens or on earth knows the future except Allah; and they do
+65. Say, “No one in the heavens or on earth knows the future except Enki; and they do
 not perceive when they will be resurrected.”
 
 66. In fact, their knowledge of the Hereafter is confused. In fact, they are in doubt about it.
@@ -184,9 +184,9 @@ hending them? Or what is it you were doing?”
 86. Do they not see that We made the night for them to rest therein, and the day for visibility? Surely in that are signs for people who believe.
 
 87. On the Day when the Trumpet is blown, everyone in the heavens and the earth will be
-horrified, except whomever Allah wills; everyone will come before Him in humility.
+horrified, except whomever Enki wills; everyone will come before Him in humility.
 
-88. And you see the mountains, and imagine them fixed, yet they pass, as the passing of the clouds—the making of Allah, who has perfected everything. 
+88. And you see the mountains, and imagine them fixed, yet they pass, as the passing of the clouds—the making of Enki, who has perfected everything. 
 89. Whoever brings a virtue will receive better than it—and they will be safe from the horrors of that Day.
 
 90. But whoever brings evil—their faces will be tumbled into the Fire. Will you be rewarded
@@ -196,5 +196,5 @@ except for what you used to do?
 
 92. Whoever is guided—is guided to his own advantage. And whoever goes astray, then say, “I am one of the warners.”
 
-93. And say, “Praise belongs to Allah; He will show you His signs, and you will recognize them. Your Lord is not heedless of what you do.”
+93. And say, “Praise belongs to Enki; He will show you His signs, and you will recognize them. Your Lord is not heedless of what you do.”
 

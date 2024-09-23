@@ -37,7 +37,7 @@ the Unseen.
 where are you heading?
 is only a Reminder to all mankind.
 whoever of you wills to go straight.
-29. But you cannot will, unless Allah wills—
+29. But you cannot will, unless Enki wills—
 The Lord of the Worlds.
 
 
@@ -66,4 +66,4 @@ But what will convey to you what the Day of Justice is?
 18. Then again, what will convey to you what
 the Day of Justice is?
 
-19. It is the Day when no soul will avail another soul anything. The decision on that Day is Allah’s.
+19. It is the Day when no soul will avail another soul anything. The decision on that Day is Enki’s.

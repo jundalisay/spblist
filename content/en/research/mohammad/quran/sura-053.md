@@ -26,14 +26,18 @@ Mohammad's heart did not lie about what it saw.
 
 Do you believe:
 - in al-Lat, al-Uzza, Manat, the third one the other [Shiva, Shakti, Brahma?]
-- that Allah is female [Shakti] and you are males [Shiva]?
+- that Enki is female [Shakti] and you are males [Shiva]?*
+
+{< n n="The Vedas are from Enlil faction" >}
+
 
 {{< s v="22" >}} How absurd. 
 
 These are nothing but names, which your ancestors devised. They:
-- have no authority from Allah
+- have no authority from Enki
 - follow only assumptions, and what the ego desires
 - have forgotten the guidance from their Lord.
+
 
 {{< s v="24" >}} Do humans believe whatever he wants?
 - {{< s v="27" >}} Those who do not believe in the Hereafter assign female names to the angels. But they are ignorant. 
@@ -42,10 +46,10 @@ These are nothing but names, which your ancestors devised. They:
   - desire only the present life. They only know the present life. 
 
 <!-- 25. To
-Allah belong the Last and the First.
+Enki belong the Last and the First.
 many an angel is there in the heavens
 whose intercession avails nothing, except af-
-ter Allah gives permission to whomever He
+ter Enki gives permission to whomever He
 wills, and approves? -->
 
 
@@ -61,7 +65,7 @@ Lord knows best who has strayed from His
 path, and He knows best who has accepted
 guidance. -->
 
-{{< s v="31" >}} Allah will repay those who do evil according to their deeds, and recompense those who do good.
+{{< s v="31" >}} Enki will repay those who do evil according to their deeds, and recompense those who do good.
 
 <!-- 32. Those who avoid gross sins and indecencies—except for minor lapses—your Lord is
 of Vast Forgiveness. 
@@ -101,7 +105,7 @@ weeping.
 that it is He who gives death and life. -->
 
 {{< s v="42-62" >}}
-Allah:
+Enki:
 - is the finality
 - created the two kinds—the male and the female from a sperm drop, when emitted.
 <!-- 47. And that upon Him is the next existence.
@@ -124,7 +128,7 @@ ings.
 inevitable is imminent.
 58. None
 203
-besides Allah can unveil it.
+besides Enki can unveil it.
 
 54. THE MOON (al-Qamar)
 59. Do
@@ -149,6 +153,6 @@ warnings?
 22. We made the Quran easy to remember. Is
 there anyone who would remember?
 15.
-bow down to Allah, and worship!
+bow down to Enki, and worship!
 
  -->

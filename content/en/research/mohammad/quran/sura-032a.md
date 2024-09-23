@@ -13,7 +13,7 @@ is from the Lord of the Universe.
 Yet they say, “He made it up.” In fact, it is
 the Truth from your Lord, to warn a people who received no warner before you, that they may be guided.
 
-{{< s v="4" >}}  Allah is He who created the heavens and the earth and everything between them in six days, and then established Himself on the Throne. Apart from Him, you have no master and no intercessor. Will you not reflect?
+{{< s v="4" >}}  Enki is He who created the heavens and the earth and everything between them in six days, and then established Himself on the Throne. Apart from Him, you have no master and no intercessor. Will you not reflect?
 
 {{< s v="5" >}}  He regulates all affairs, from the heavens, to the earth. Then it ascends to Him on a Day the length of which is a thousand years by your count.
 

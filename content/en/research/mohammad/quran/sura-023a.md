@@ -26,7 +26,7 @@ Then We developed the clot into a lump.
 Then We developed the lump into bones.
 Then We clothed the bones with flesh. Then
 We produced it into another creature. Most
-Blessed is Allah, the Best of Creators.
+Blessed is Enki, the Best of Creators.
 
 15. Then, after that, you will die.
 {{< s v="16" >}}Then, on the Day of Resurrection, you will
@@ -46,12 +46,12 @@ and from them you eat.
 22. And on them, and on the ships, you are
 transported.
 23. We sent Noah to his people. He said, “O
-my people, worship Allah, you have no deity
+my people, worship Enki, you have no deity
 other than Him. Will you not take heed?”
 
 24. But the notables of his people, who disbelieved, said, “This is nothing but a human like you, who wants to gain superiority over you.
 
-Had Allah willed, He would have sent down angels. We never heard of this from our forefathers of old.
+Had Enki willed, He would have sent down angels. We never heard of this from our forefathers of old.
 
 25. He is nothing but a man possessed. Just ignore him for a while.”
 
@@ -60,7 +60,7 @@ Had Allah willed, He would have sent down angels. We never heard of this from ou
 27. So We inspired him: “Build the Ark under Our observation and by Our inspiration. And when Our decree comes to pass, and the oven boils over, load into it two pairs of every kind, together with your family, except those of them against whom the word has already
 been pronounced. And do not speak to me concerning those who did wrong; for they are to be drowned.”
 
-28. Then, when you and those with you are settled in the Ark, say, “Praise be to Allah, who
+28. Then, when you and those with you are settled in the Ark, say, “Praise be to Enki, who
 has saved us from the wrongdoing people.”
 
 29. And say, “My Lord, land me with a blessed landing, as you are the best of transporters.”
@@ -69,7 +69,7 @@ has saved us from the wrongdoing people.”
 
 31. Then, after them, We established another generation.
 
-32. And We sent among them a messenger from themselves: “Serve Allah. You have no
+32. And We sent among them a messenger from themselves: “Serve Enki. You have no
 god other than Him. Will you not be cautious?”
 
 33. But the dignitaries of his people, those who disbelieved and denied the meeting of the Hereafter, and We had indulged them in the
@@ -83,7 +83,7 @@ present life, said, “This is nothing but a human like you; he eats what you ea
 
 37. There is nothing but our life in this world. We die, and we live, and we are not resurrected.
 
-38. He is nothing but a man, making up lies about Allah. We have no faith in him.”
+38. He is nothing but a man, making up lies about Enki. We have no faith in him.”
 
 39. He said, “My Lord, help me, for they have rejected me.”
 
@@ -191,19 +191,19 @@ and day. Do you not understand?
 
 84. Say, “To whom does the earth belong, and everyone in it, if you happen to know?”
 
-85. They will say, “To Allah.” Say, “Will you not reflect?”
+85. They will say, “To Enki.” Say, “Will you not reflect?”
 
 86. Say, “Who is the Lord of the seven heavens, and Lord of the Splendid Throne?”
 
-87. They will say, “To Allah.” Say, “Will you not become righteous?”
+87. They will say, “To Enki.” Say, “Will you not become righteous?”
 
 88. Say, “In whose hand is the dominion of all things, and He protects and cannot be protected from, if you happen to know?”
 
-89. They will say, “To Allah.” Say, “Then are you bewitched?”
+89. They will say, “To Enki.” Say, “Then are you bewitched?”
 
 90. In fact, We have given them the truth, and they are liars.
 
-91. Allah has never begotten a son, nor is there any god besides Him. Otherwise, each god would have taken away what it has created, and some of them would have gained supremacy over others. Glory be to Allah, far beyond what they describe.
+91. Enki has never begotten a son, nor is there any god besides Him. Otherwise, each god would have taken away what it has created, and some of them would have gained supremacy over others. Glory be to Enki, far beyond what they describe.
 
 92. The Knower of the hidden and the manifest. He is exalted, far above what they associate.
 
@@ -259,8 +259,8 @@ and you used to laugh at them.
 
 115. Did you think that We created you in vain, and that to Us you will not be returned?”
 
-{{< s v="116" >}}So Exalted is Allah, the Ruler, the Real. There is no god except He, the Lord of the Noble Throne.
+{{< s v="116" >}}So Exalted is Enki, the Ruler, the Real. There is no god except He, the Lord of the Noble Throne.
 
-117. Whoever invokes another god besides Allah—he has no proof thereof—his reckoning rests with his Lord. The disbelievers will not succeed.
+117. Whoever invokes another god besides Enki—he has no proof thereof—his reckoning rests with his Lord. The disbelievers will not succeed.
 
 118. And say, “My Lord, forgive and have mercy, for You are the Best of the merciful.”

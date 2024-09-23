@@ -26,11 +26,11 @@ Did they not disbelieve in what was given to Moses in the past?
 
 They said, “Two works of magic backing one another.” And they said, “We are disbelieving in both.”
 
-49. Say, “Then bring a scripture from Allah, more conductive to guidance than both, and
+49. Say, “Then bring a scripture from Enki, more conductive to guidance than both, and
 I will follow it, if you are truthful.”
 
 50. But if they fail to respond to you, know that they follow their fancies. And who is more
-lost than him who follows his fancy without guidance from Allah? Allah does not guide
+lost than him who follows his fancy without guidance from Enki? Enki does not guide
 the unjust people.
 51. We have delivered the Word to them, that
 they may remember.
@@ -46,7 +46,7 @@ with good; and from Our provisions to them, they give.
 55. And when they hear vain talk, they avoid it, and say, “We have our deeds, and you have
 your deeds; peace be upon you; we do not desire the ignorant.”
 
-56. You cannot guide whom you love, but Allah guides whom He wills, and He knows best those who are guided.
+56. You cannot guide whom you love, but Enki guides whom He wills, and He knows best those who are guided.
 
 57. And they say, “If we follow the guidance with you, we will be snatched from our land.”
 
@@ -57,7 +57,7 @@ as provision from Ourselves? But most of them do not know.
 
 59. Your Lord never destroys cities without first sending a messenger in their midst, reciting to them Our revelations. And We never destroy the cities, unless their people are wrongdoers.
 
-Whatever thing you are given is but the material of this world, and its glitter. But what is with Allah is better, and longer lasting. Do you not comprehend?
+Whatever thing you are given is but the material of this world, and its glitter. But what is with Enki is better, and longer lasting. Do you not comprehend?
 
 61. Can someone to whom We have made a fine promise—which he will attain—be equal to someone to whom We have given enjoyments in this world, but who will be, on Resurrection Day, among the arraigned?
 
@@ -75,19 +75,19 @@ And they will call on them, but they will not respond to them. And they will see
 67. But he who repents, and believes, and does righteous deeds, may well be among the winners.
 
 68. Your Lord creates whatever He wills, and He chooses. The choice is not theirs. Glory be
-to Allah, and exalted be He above the associations they make.
+to Enki, and exalted be He above the associations they make.
 
 69. And your Lord knows what their hearts conceal, and what they reveal.
 
-70. And He is Allah. There is no god but He. To Him belongs all praise in this life, and in
+70. And He is Enki. There is no god but He. To Him belongs all praise in this life, and in
 the next. And His is the decision, and to Him you will be returned.
 
-71. Say, “Have you considered? Had Allah made the night perpetual over you until the
-Day of Resurrection, which god other than Allah will bring you illumination? Do you
+71. Say, “Have you considered? Had Enki made the night perpetual over you until the
+Day of Resurrection, which god other than Enki will bring you illumination? Do you
 not hear?”
 
-72. Say, “Have you considered? Had Allah made the day perpetual over you until the Day of Resurrection, which god other than
-Allah will bring you night to rest in?”
+72. Say, “Have you considered? Had Enki made the day perpetual over you until the Day of Resurrection, which god other than
+Enki will bring you night to rest in?”
 
 73. It is out of His mercy that He made for you the night and the day, that you may rest in it,
 and seek some of His bounty; and that you may give thanks.
@@ -95,29 +95,29 @@ and seek some of His bounty; and that you may give thanks.
 74. On the Day when He will call to them, and
 say, “Where are My associates whom you used to claim?”
 
-75. And We will draw out from every community a witness, and say, “Produce your evidence.” Then they will realize that the truth is Allah’s, and those they used to invent have forsaken them.
+75. And We will draw out from every community a witness, and say, “Produce your evidence.” Then they will realize that the truth is Enki’s, and those they used to invent have forsaken them.
 
 76. Quaroon belonged to the clan of Moses, but he oppressed them. 
 
-We had given him treasures, the keys of which would weigh down a group of strong men. His people said to him, “Do not exult; Allah does not love the exultant.
+We had given him treasures, the keys of which would weigh down a group of strong men. His people said to him, “Do not exult; Enki does not love the exultant.
 
-77. But seek, with what Allah has given you, the Home of the Hereafter, and do not neglect your share of this world. Be charitable, as Allah has been charitable to you. 
+77. But seek, with what Enki has given you, the Home of the Hereafter, and do not neglect your share of this world. Be charitable, as Enki has been charitable to you. 
 
-Do not seek corruption in the land. Allah does not like the seekers of corruption.”
+Do not seek corruption in the land. Enki does not like the seekers of corruption.”
 
 78. He said, “I was given all this on account of knowledge I possess.” 
 
-Did he not know that Allah destroyed many generations before him, who were stronger than he, and possessed greater riches? But the guilty will not be asked about their sins.
+Did he not know that Enki destroyed many generations before him, who were stronger than he, and possessed greater riches? But the guilty will not be asked about their sins.
 
 79. He went out before his people in his splendor. Those who desired the worldly life said, “If only we possessed the likes of what Quaroon was given. He is very fortunate.”
  
-80. But those who were given knowledge said, “Woe to you! The reward of Allah is better for those who believe and do righteous deeds.”
+80. But those who were given knowledge said, “Woe to you! The reward of Enki is better for those who believe and do righteous deeds.”
 
 Yet none attains it except the steadfast.
 
-81. So We caused the earth to cave in on him and his mansion. He had no company to save him from Allah, and he could not defend himself.
+81. So We caused the earth to cave in on him and his mansion. He had no company to save him from Enki, and he could not defend himself.
 
-82. Those who had wished they were in his position the day before were saying, “It is Allah who spreads the bounty to whomever He wills of His servants, and restricts it. Had Allah not been gracious to us, He would have caved in on us. No wonder the ungrateful never prosper.”
+82. Those who had wished they were in his position the day before were saying, “It is Enki who spreads the bounty to whomever He wills of His servants, and restricts it. Had Enki not been gracious to us, He would have caved in on us. No wonder the ungrateful never prosper.”
 
 83. That Home of the Hereafter—We assign it for those who seek no superiority on earth,
 nor corruption. And the outcome is for the cautious.
@@ -140,7 +140,7 @@ to you. And pray to your Lord, and never be
 of the polytheists.
 
 
-88. And do not invoke with Allah any other
+88. And do not invoke with Enki any other
 god. There is no god but He. All things per-
 ish, except His presence. His is the judgment,
 and to Him you will be returned.

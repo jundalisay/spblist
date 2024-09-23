@@ -15,7 +15,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 “My Lord, my bones have become feeble. My hair is gray. I have never been disappointed in my prayer to you. I fear for my dependents after me. My wife is barren. So grant me an heir from Yourself, and to inherit the House of Jacob and make him pleasing."
 {{< /r >}}
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 “O Zechariah, We give you good news of a son, whose name is John, a name We have
 never given before."
 {{< /l >}}
@@ -27,7 +27,7 @@ never given before."
 
 {{< s v="9" >}} 
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 “It is easy for me. I created you before, when you were nothing."
 {{< /l >}}
 
@@ -39,7 +39,7 @@ never given before."
 {{< /r >}}
 
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 “Your sign is that you will not speak to the people for 3 nights straight.”
 {{< /l >}}
 
@@ -106,22 +106,22 @@ How can we speak to a baby?
 {{< /r >}}
 
 {{< l a="Jesus" >}}
-30. I am the servant of Allah. He has:
+30. I am the servant of Enki. He has:
 - given me the Scripture, and made me a prophet.
 - made me blessed wherever I may be
 - enjoined on me prayer and charity, so long as I live.
 
-Be kind to my mother. Allah did not make me a disobedient rebel.
+Be kind to my mother. Enki did not make me a disobedient rebel.
 33. So Peace is upon me the day I was born, and the day I die, and the Day I get resurrected alive.”
 {{< /l >}}
 
 <!-- 34. That is Jesus son of Mary—the Word of truth about which they doubt. -->
 
-35. It is not for Allah to have a son because to have anything done, He says “Be” and it becomes.
+35. It is not for Enki to have a son because to have anything done, He says “Be” and it becomes.
 
 
 {{< l a="Jesus" >}}
-Allah is my Lord and your Lord, so worship Him. That is a straight path.
+Enki is my Lord and your Lord, so worship Him. That is a straight path.
 {{< /l >}}
 
 37. But the various factions differed among themselves. <!-- So woe to those who disbelieve

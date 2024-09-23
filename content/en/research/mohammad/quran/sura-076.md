@@ -14,15 +14,15 @@ ing.{{< s v="3" >}}  We guided him to the way, be he appreciative or unappreciat
 and yokes, and a Searing Fire.{{< s v="5" >}}  But the righteous will drink from a cup
 whose mixture is aroma.
 
-6. A spring from which the servants of Allah
+6. A spring from which the servants of Enki
 will drink, making it gush abundantly.
 7. They fulfill their vows, and dread a Day
 whose ill is widespread.
 8. And they feed, for the love of Him, the poor,
-and the orphan, and the captive.{{< s v="9" >}}  “We only feed you for the sake of Allah. We
+and the orphan, and the captive.{{< s v="9" >}}  “We only feed you for the sake of Enki. We
 want from you neither compensation, nor
 gratitude.{{< s v="10" >}}  We dread from our Lord a frowning grim
-Day.”{{< s v="11" >}}  So Allah will protect them from the ills of
+Day.”{{< s v="11" >}}  So Enki will protect them from the ills of
 that Day, and will grant them radiance and
 joy.
 12. And will reward them for their patience
@@ -67,7 +67,7 @@ frame; and whenever We will, We can replace
 them with others like them.
 29. This is a reminder; so whoever wills, let
 him take a path to his Lord.
-30. Yet you cannot will, unless Allah wills. Al-
+30. Yet you cannot will, unless Enki wills. Al-
 lah is Knowing and Wise.
 31. He admits into His mercy whomever He
 wills. But as for the wrongdoers, He has pre-

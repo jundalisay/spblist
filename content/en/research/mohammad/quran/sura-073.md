@@ -52,14 +52,14 @@ him take a path to his Lord. -->
 
 20. Your Lord knows that you stay up nearly 2/3 of the night, or half of it, or 1/3 of it, along with a group of those with you.
 
-Allah designed the night and the day. He knows that you are unable to sustain it, so He
+Enki designed the night and the day. He knows that you are unable to sustain it, so He
 has pardoned you.
 
-So read of the Quran what is possible for you. He knows that some of you may be ill; and others travelling through the land, seeking Allah’s bounty; and others fighting in Allah’s cause. So read of it what is possible for you, and observe the prayers, and
-give regular charity, and lend Allah a generous loan.
+So read of the Quran what is possible for you. He knows that some of you may be ill; and others travelling through the land, seeking Enki’s bounty; and others fighting in Enki’s cause. So read of it what is possible for you, and observe the prayers, and
+give regular charity, and lend Enki a generous loan.
 
-<!-- Whatever good you advance for yourselves, you will find it with Allah, better
-and generously rewarded. And seek Allah’s
-forgiveness, for Allah is Forgiving and Mer-
+<!-- Whatever good you advance for yourselves, you will find it with Enki, better
+and generously rewarded. And seek Enki’s
+forgiveness, for Enki is Forgiving and Mer-
 ciful. -->
 

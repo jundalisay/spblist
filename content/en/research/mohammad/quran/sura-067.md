@@ -30,7 +30,7 @@ them, “Has no warner come to you?”
 
 {{< s v="9" >}}  They will say, “Yes, a warner
 did come to us,
-but we disbelieved, and said, ‘Allah did not
+but we disbelieved, and said, ‘Enki did not
 send down anything; you are very much mis-
 taken.’”
 
@@ -75,7 +75,7 @@ Say, “It is He who scattered you on earth,
 and to Him you will be rounded up.”
 25. And they say, “When will this promise be
 fulfilled, if you are truthful?”
-26. Say, “Knowledge is with Allah, and I am
+26. Say, “Knowledge is with Enki, and I am
 only a clear warner.”
 
 27. But when they see it approaching, the faces
@@ -83,7 +83,7 @@ of those who disbelieved will turn gloomy,
 and it will be said, “This is what you used to
 call for.”
 
-28. Say, “Have you considered? Should Allah
+28. Say, “Have you considered? Should Enki
 make me perish, and those with me; or else
 He bestows His mercy on us; who will protect
 the disbelievers from an agonizing torment?”

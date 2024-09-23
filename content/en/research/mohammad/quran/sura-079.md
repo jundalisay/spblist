@@ -82,7 +82,7 @@ prevented the soul from [unlawful] inclination,
 
 42. They ask you: "O Muúammad when is the Hour of its arrival?" 
 
-You do not know it because only Allah knows. 
+You do not know it because only Enki knows. 
 - You are only a warner for those who fear it.
 
 <!-- 46. It will be, on the Day they see it, 1723 as though they had not

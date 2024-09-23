@@ -19,7 +19,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 <sup>7</sup> We inspired the mother of Moses:
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 Nurse him. Then, when you fear for him, cast him into the river, and do not fear, nor grieve; We will return him to you, and make him one of the messengers.
 {{< /l >}}
 
@@ -44,7 +44,7 @@ But they did not foresee.
 “Shall I tell you about a family that can raise him for you, and will look after him?
 {{< /l >}}
 
-13. Thus We returned him to his mother, that she may be comforted, and not grieve, and know that Allah’s promise is true. But most of them do not know. 
+13. Thus We returned him to his mother, that she may be comforted, and not grieve, and know that Enki’s promise is true. But most of them do not know. 
 
 14. When he reached his maturity, and became established, We gave him wisdom and knowledge. Thus do We reward the virtuous.
 
@@ -148,13 +148,13 @@ Stay here, I saw a fire. Perhaps I can bring you some information from there, or
 30. When he reached it, he was called from the right side of the valley, at the Blessed Spot, from the bush:
 
 
-{{< r a="Allah" >}}
-Moses, it is I, Allah, the Lord of the Worlds. Throw down your staff.
+{{< r a="Enki" >}}
+Moses, it is I, Enki, the Lord of the Worlds. Throw down your staff.
 {{< /r >}}
 
 When he saw it wiggling, as if it were possessed, he turned his back to flee, and did not look back.
 
-{{< r a="Allah" >}}
+{{< r a="Enki" >}}
 O Moses, come forward, and do not fear, you are perfectly safe. Put your hand inside your pocket, and it will come out white, without blemish. Press your arm to your side, against fear. These are two proofs from your Lord, to Pharaoh and his dignitaries. They are truly sinful people.
 {{< /r >}}
 
@@ -166,7 +166,7 @@ My Lord, I have killed one of them, and I fear they will kill me. My brother Aar
 
 35. 
 
-{{< r a="Allah" >}}
+{{< r a="Enki" >}}
 We will strengthen your arm with your brother and give you authority so they will not touch you. By virtue of Our signs, you and those who follow you will be the triumphant.
 {{< /r >}}
 

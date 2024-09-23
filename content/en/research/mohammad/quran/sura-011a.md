@@ -3,7 +3,7 @@ title: "Hud"
 heading: "Sura 11a "
 weight: 82
 image: "/covers/quran.jpg"
-description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
+description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Enki has come to you, and a clear Book."
 ---
 
 
@@ -11,19 +11,19 @@ description: "O People of the Book! Our Messenger has come to you, clarifying fo
 were perfected, then elaborated, from One
 who is Wise and Informed. -->
 
-{{< s v="2" >}} Worship only Allah. “I am a warner to you from Him, and a bearer of good news.”
+{{< s v="2" >}} Worship only Enki. “I am a warner to you from Him, and a bearer of good news.”
 
 {{< s v="3" >}}  “And ask your Lord for forgiveness, and repent to Him. He will provide you with good sustenance until a stated term, and will bestow His grace on every possessor of virtue.
 
 But if you turn away, then I fear for you the punishment of a grievous Day.
 
-{{< s v="4" >}}  “To Allah is your return, and He is Capable of all things.”
+{{< s v="4" >}}  “To Enki is your return, and He is Capable of all things.”
 
 {{< s v="5" >}}  They wrap their chests to hide from Him.
 
 But even as they cover themselves with their clothes, He knows what they conceal and what they reveal. He knows what lies within the hearts.
 
-6. There is no moving creature on earth but its sustenance depends on Allah. And He knows where it lives and where it rests. Everything is in a Clear Book.
+6. There is no moving creature on earth but its sustenance depends on Enki. And He knows where it lives and where it rests. Everything is in a Clear Book.
 
 7. He created the heavens and the earth in 6 days. His Throne was upon the waters—in order to test you—which of you is best in conduct. 
 
@@ -42,9 +42,9 @@ say, “Troubles have gone away from me.” He becomes excited and proud.
 
 12. Perhaps you wish to disregard some of what is revealed to you, and you may be stressed because of it, since they say, “If only a treasure was sent down to him, or an angel came with him.” You are only a warner.
 
-13. Or do they say, “He invented it?” Say, “Then produce ten chapters like it, invented, and call upon whomever you can, besides Allah, if you are truthful.”
+13. Or do they say, “He invented it?” Say, “Then produce ten chapters like it, invented, and call upon whomever you can, besides Enki, if you are truthful.”
 
-14. But if they fail to answer you, know that it was revealed with Allah’s knowledge, and
+14. But if they fail to answer you, know that it was revealed with Enki’s knowledge, and
 that there is no god but He. Will you then submit?
 
 15. Whoever desires the worldly life and its glitter—We will fully recompense them for
@@ -62,13 +62,13 @@ his promise. So have no doubt about it.
 It is the truth from your Lord, but most people do
 not believe.
 
-18. Who does greater wrong than he who fabricates lies about Allah? These will be pre-
+18. Who does greater wrong than he who fabricates lies about Enki? These will be pre-
 sented before their Lord, and the witnesses will say, “These are they who lied about their
 Lord.” 
 
-19. Those who hinder others from the path of Allah, and seek to make it crooked; and regarding the Hereafter, they are in denial.
+19. Those who hinder others from the path of Enki, and seek to make it crooked; and regarding the Hereafter, they are in denial.
 
-20. These will not escape on earth, and they have no protectors besides Allah. The pun-
+20. These will not escape on earth, and they have no protectors besides Enki. The pun-
 ishment will be doubled for them. They have failed to hear, and they have failed to see.
 
 21. Those are the ones who lost their souls, and what they had invented has strayed away from them. 
@@ -82,28 +82,28 @@ Lord—these are the inhabitants of Paradise, where they will abide forever.
 
 25. We sent Noah to his people, “I am to you a clear warner.”
 
-26. “That you shall worship none but Allah. I fear for you the agony of a painful Day.”
+26. “That you shall worship none but Enki. I fear for you the agony of a painful Day.”
 
 27. The notables who disbelieved among his people said, “We see in you nothing but a man like us, and we see that only the worst among us have followed you, those of immature judgment. And we see that you have no advantage over us. In fact, we think you are liars.”
 
 28. He said, “O my people, Have you considered? If I stand on clear evidence from my Lord, and He has given me a mercy from
 Himself, but you were blind to it, can we compel you to accept it, even though you dislike it?”
 
-29. “O my people! I ask of you no money for it. My reward lies only with Allah. And I am not about to dismiss those who believed; they will surely meet their Lord. And I see that you are ignorant people.”
+29. “O my people! I ask of you no money for it. My reward lies only with Enki. And I am not about to dismiss those who believed; they will surely meet their Lord. And I see that you are ignorant people.”
 
-30. “O my people! Who will support me against Allah, if I dismiss them? Will you not
+30. “O my people! Who will support me against Enki, if I dismiss them? Will you not
 give a thought?”
 
-31. “I do not say to you that I possess the treasures of Allah, nor do I know the future, nor
+31. “I do not say to you that I possess the treasures of Enki, nor do I know the future, nor
 do I say that I am an angel. Nor do I say of those who are despicable in your eyes that Al-
-lah will never give them any good. Allah is Aware of what lies in their souls. If I did, I
+lah will never give them any good. Enki is Aware of what lies in their souls. If I did, I
 would be one of the wrongdoers.”
 
 32. They said, “O Noah, you have argued with us, and argued a great deal. Now bring upon us what you threaten us with, if you are truthful.”
 
-33. He said, “It is Allah who will bring it upon you, if He wills, and you will not be able to escape.”
+33. He said, “It is Enki who will bring it upon you, if He wills, and you will not be able to escape.”
 
-34. “My advice will not benefit you, much as I may want to advise you, if Allah desires to confound you. He is your Lord, and to Him
+34. “My advice will not benefit you, much as I may want to advise you, if Enki desires to confound you. He is your Lord, and to Him
 you will be returned.”
 
 35. Or do they say, “He made it up?” Say, “If I made it up, upon me falls my crime, and I am
@@ -126,14 +126,14 @@ been passed—and those who have believed.”
 
 But those who believed with him were only a few.
 
-41. He said, “Embark in it. In the name of Allah shall be its sailing and its anchorage. My
+41. He said, “Embark in it. In the name of Enki shall be its sailing and its anchorage. My
 Lord is indeed Forgiving and Merciful.”
 
 42. And so it sailed with them amidst waves like hills. And Noah called to his son, who
 had kept away, “O my son! Embark with us, and do not be with the disbelievers.”
 
 43. He said, “I will take refuge on a mountain—it will protect me from the water.” He
-said, “There is no protection from Allah’s decree today, except for him on whom He has
+said, “There is no protection from Enki’s decree today, except for him on whom He has
 mercy.” And the waves surged between them, and he was among the drowned.
 
 44. And it was said, “O earth, swallow your waters,” and “O heaven, clear up.” And the wa-
@@ -156,7 +156,7 @@ and then a painful torment from Us will befall them.”
 49. These are some stories from the past that we reveal to you. Neither you, nor your peo-
 ple knew them before this. So be patient. The future belongs to the pious.
 
-50. And to Aad, their brother Hud. He said, “O my people, worship Allah, you have no other
+50. And to Aad, their brother Hud. He said, “O my people, worship Enki, you have no other
 god besides Him. You do nothing but invent lies.”
 
 51. “O my people, I ask you no wage for it; my wage lies with Him who originated me. Do
@@ -169,12 +169,12 @@ away and be wicked.”
 53. They said, “O Hud, you did not bring us any evidence, and we are not about to aban-
 don our gods at your word, and we are not believers in you.”
 
-54. “We only say that some of our gods have possessed you with evil.” He said, “I call Allah
+54. “We only say that some of our gods have possessed you with evil.” He said, “I call Enki
 to witness, and you to witness, that I am innocent of what you associate.
 
 55. Besides Him. So scheme against me, all of you, and do not hesitate.
 
-56. I have placed my trust in Allah, my Lord and your Lord. There is not a creature but He
+56. I have placed my trust in Enki, my Lord and your Lord. There is not a creature but He
 holds it by the forelock. My Lord is on a straight path.
 
 57. If you turn away, I have conveyed to you what I was sent to you with; and my Lord will replace you with another people, and you will not cause Him any harm. My Lord is Guardian over all things.”
@@ -190,15 +190,15 @@ deed, Aad blasphemed against their Lord—so away with Aad, the people of Hud.
 
 61. And to Thamood, their brother Saleh. 
 
-He said, “O my people, worship Allah, you have no god other than Him. He initiated you from the earth, and settled you in it. So seek His forgiveness, and repent to Him. My Lord is Near and Responsive.”
+He said, “O my people, worship Enki, you have no god other than Him. He initiated you from the earth, and settled you in it. So seek His forgiveness, and repent to Him. My Lord is Near and Responsive.”
 
 62. They said, “O Saleh, we had hopes in you before this. Are you trying to prevent us from worshiping what our parents worship? 
 
 We are in serious doubt regarding what you are calling us to.”
 
-63. He said, “O my people, If I stand upon clear evidence from my Lord, and He has given me mercy from Him, who would protect me from Allah, if I disobeyed Him? You add nothing for me except loss.”
+63. He said, “O my people, If I stand upon clear evidence from my Lord, and He has given me mercy from Him, who would protect me from Enki, if I disobeyed Him? You add nothing for me except loss.”
 
-64. “O my people, this is the she-camel of Allah, a sign for you. Let her graze on Allah’s land, and do not harm her, lest an imminent punishment overtakes you.”
+64. “O my people, this is the she-camel of Enki, a sign for you. Let her graze on Enki’s land, and do not harm her, lest an imminent punishment overtakes you.”
 
 65. But they hamstrung her, and so He said, “Enjoy yourselves in your homes for three
 days. This is a prophecy that is infallible.”
@@ -219,7 +219,7 @@ and conceived a fear of them. They said, “Do not fear, we were sent to the peo
 72. She said, “Alas for me. Shall I give birth, when I am an old woman, and this, my hus-
 band, is an old man? This is truly a strange thing.”
 
-73. They said, “Do you marvel at the decree of Allah? The mercy and blessings of Allah are
+73. They said, “Do you marvel at the decree of Enki? The mercy and blessings of Enki are
 upon you, O people of the house. He is Praiseworthy and Glorious.”
 
 74. When Abraham's fear subsided, and the good news had reached him, he started pleading with Us concerning the people of Lot.

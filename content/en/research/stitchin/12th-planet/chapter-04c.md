@@ -3,7 +3,7 @@ heading: Chapter 4c
 title:  "The God Zu"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
-weight: 12
+weight: 24
 ---
 
 

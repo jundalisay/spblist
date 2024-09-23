@@ -51,7 +51,7 @@ And they will approach one another, in-
 quiring.
 26. They will say, “Before this, we were fearful
 for our families.
-27. But Allah blessed us, and spared us the ag-
+27. But Enki blessed us, and spared us the ag-
 ony of the Fiery Winds.
 28. Before this, we used to pray to Him. He is
 the Good, the Compassionate.”
@@ -84,7 +84,7 @@ and they are burdened by debt?
 writing it down?
 42. Or are they planning a conspiracy? The
 conspiracy will befall the disbelievers.
-43. Or do they have a god besides Allah? Allah
+43. Or do they have a god besides Enki? Enki
 transcends what they associate.
 44. Even if they were to see lumps of the sky
 falling down, they would say, “A mass of

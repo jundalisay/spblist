@@ -1,12 +1,12 @@
 ---
-title: "The Heifer (Al-Baqarah)"
+title: "The Cow (Al-Baqarah)"
 heading: "Sura 2a "
 weight: 4
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
-{{< n n="Here we replace Allah with the Anunnaki god or alien Enlil" >}}
+{{< n n="Here we replace Enki with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory" >}}
 
 
 <!-- T ALAL I TANIQ URAN -->
@@ -31,17 +31,17 @@ These are the successful.
 
 {{< s v="6" >}} The disbelievers will disbelieve whether you have warned them or not.
 
-{{< s v="7" >}} Enlil has sealed their hearts and hearing. Their vision is a veil.
+{{< s v="7" >}} Enki has sealed their hearts and hearing. Their vision is a veil.
 - They will have a severe torment.
 
-{{< s v="8" >}} They will say: “We believe in Enlil and in the Last Day.”
+{{< s v="8" >}} They will say: “We believe in Enki and in the Last Day.”
 - But they are not believers.
 
-{{< s v="9" >}} They seek to deceive Enlil and those who believe. 
+{{< s v="9" >}} They seek to deceive Enki and those who believe. 
 - But they only deceive themselves without them knowing it.
 
 {{< s v="10" >}} In their hearts is sickness. 
-- Enlil has increased their sickness. 
+- Enki has increased their sickness. 
 - They will have a painful punishment because of their denial. 
 
 {{< s v="11" >}} People say to them: “Do not make trouble on earth”
@@ -57,26 +57,26 @@ These are the successful.
 <!-- 14. And when they come across those who believe, they say, “We believe”; but when they
 are alone with their devils, they say, “We are with you; .” -->
 
-{{< s v="15" >}} It is Enlil who ridicules them, and leaves them bewildered in their transgression.
+{{< s v="15" >}} It is Enki who ridicules them, and leaves them bewildered in their transgression.
 
 {{< s v="16" >}} They have bartered error for guidance. 
 - But their trade does not profit them, and they are not guided.
 
 {{< s v="17" >}} They are like a person lighting a fire. 
-- Allah took away their light and left them in dark, unable to see.
+- Enki took away their light and left them in dark, unable to see.
 
 {{< s v="18-19" >}} They are deaf, dumb, blind. 
 - They will not return.
 
 They are like a dark cloud with thunder and lightning. 
 - They press their fingers into their ears from the thunderbolts, in fear of death. 
-<!-- But Allah sur- rounds the disbelievers. -->
+<!-- But Enki sur- rounds the disbelievers. -->
 - The {{< s v="20" >}} lightning almost snatches their sight away. 
 - Whenever it illuminates for them, they can walk
 - But when it grows dark, they stand still. 
 
-<!-- Had Allah willed, He could have taken away their hearing and their sight.
-Allah is capable of everything.
+<!-- Had Enki willed, He could have taken away their hearing and their sight.
+Enki is capable of everything.
 21. O people! Worship your Lord who created
 you and those before you, that you may attain
 piety. -->

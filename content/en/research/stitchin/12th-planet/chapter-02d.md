@@ -1,137 +1,154 @@
 ---
-heading: Chapter 2b
-title:  "The Sudden Civilization"
+heading: Chapter 2d
+title:  "Gudea Ruler of Lagash of Sumer"
 image:  "/covers/12th.jpg"
-description: "The art of war is of vital importance to the State. It is a matter of life and death"
-weight: 4
+description: "The first significant excavation of a Sumerian site was begun in 1877 by French archaeologists"
+weight: 8
 ---
 
 
+The first significant excavation of a Sumerian site was begun in 1877 by French archaeologists.
 
-The invention of the kiln—a furnace in which intense but controllable
-temperatures could be attained without the risk of contaminating products with
-dust or ashes—made possible an even greater technological advance: the Age of
-Metals.
+The finds from this single site were so extensive that others continued to dig there until 1933 without completing the job.
 
-It has been assumed that man discovered that he could hammer "soft stones"—
-naturally occurring nuggets of gold as well as copper and silver compounds—into
-useful or pleasing shapes, sometime about 6000 B.C. The first hammered-metal
-artifacts were found in the highlands of the Zagros and Taurus mountains.
-However, as R. J. Forbes (The Birthplace of Old World Metallurgy) pointed out, "in
-the ancient Near East, the supply of native copper was quickly exhausted, and the
-miner had to turn to ores." This required the knowledge and ability to find and
-extract the ores, crush them, then smelt and refine them—processes that could
-not have been carried out without kiln-type furnaces and a generally advanced
-technology.
+Called by the natives Telloh ("mound"), the site proved to be an early Sumerian city, the very Lagash of whose conquest Sargon of Akkad had boasted.
 
-The art of metallurgy soon encompassed the ability to alloy copper with other
-metals, resulting in a castable, hard, but malleable metal we call bronze. The
-Bronze Age, our first metallurgical age, was also a Mesopotamian contribution to
-modern civilization. Much of ancient commerce was devoted to the metals trade; it
-also formed the basis for the development in Mesopotamia of banking and the first
-money—the silver shekel ("weighed ingot").
-The many varieties of metals and alloys for which Sumerian and Akkadian
-names have been found and the extensive technological terminology attest to the
-high level of metallurgy in ancient Mesopotamia. For a while this puzzled the
-scholars because Sumer, as such, was devoid of metal ores, yet metallurgy most
-definitely began there.
+It was a royal city whose rulers bore the same title Sargon had adopted, except that it was in the Sumerian language: EN.SI ("righteous ruler"). 
 
-The answer is energy. Smelting, refining, and alloying, as well as casting, could
-not be done without ample supplies of fuels to fire the kilns, crucibles, and
-furnaces. Mesopotamia may have lacked ores, but it had fuels in abundance. So
-the ores were brought to the fuels, which explains many early inscriptions
-describing the bringing of metal ores from afar.
+Their dynasty had started circa 2900 BC and lasted for nearly 650 years. 
 
-The fuels that made Sumer technologically supreme were bitumens and
-asphalts, petroleum products that naturally seeped up to the surface in many
-places in Mesopotamia. R. J. Forbes (Bitumen and Petroleum in Antiquity) shows
-that the surface deposits of Mesopotamia were the ancient world's prime source of
-fuels from the earliest times to the Roman era. His conclusion is that the
-technological use of these petroleum products began in Sumer circa 3500 B.C.;
-indeed, he shows that the use and knowledge of the fuels and their properties
-were greater in Sumerian times than in later civilizations.
-So extensive was the Sumerian use of these petroleum products—not only as
-fuel but also as road-building materials, for waterproofing, caulking, painting,
-cementing, and molding—that when archaeologists searched for ancient Dr they
-found it buried in a mound that the local Arabs called "Mound of Bitumen." Forbes
-shows that the Sumerian language had terms for every genus and variant of the
-bituminous substances found in Mesopotamia. Indeed, the names of bituminous
-and petroleum materials in other languages—Akkadian, Hebrew, Egyptian, Coptic,
-Greek, Latin, and Sanskrit—can clearly be traced to the Sumerian origins; for
-example, the most common word for petroleum—naphta—derives from napatu
-("stones that flare up").
+During this time, 43 ensi's reigned without interruption in Lagash
 
-The Sumerian use of petroleum products was also basic to an advanced
-chemistry. We can judge the high level of Sumerian knowledge not only by the
-variety of paints and pigments used and such processes as glazing but also by the
-remarkable artificial production of semiprecious stones, including a substitute for
-lapis lazuli.
-* * * * *
-Bitumens were also used in Sumerian medicine, another field where the
-standards were impressively high. The hundreds of Akkadian texts that have been
-found employ Sumerian medical terms and phrases extensively, pointing to the
-Sumerian origin of all Mesopotamian medicine.
-The library of Ashurbanipal in Nineveh included a medical section. The texts
-were divided into three groups—bultitu ("therapy"), shipir bel imti ("surgery") and
-urti mashmashshe ("commands and incantations"). Early law codes included
-sections dealing with fees payable to surgeons for successful operations, and
-penalties to be imposed on them in case of failure: A surgeon, using a lancet to
-open a patient's temple, was to lose his hand if he accidentally destroyed the
-patient's eye.
+<!-- : Their names, genealogies, and lengths of rule were all neatly recorded. -->
 
-Some skeletons found in Mesopotamian graves bore unmistakable marks of
-brain surgery. A partially broken medical text speaks of the surgical removal of a
-"shadow covering a man's eye," probably a cataract; another text mentions the use
-of a cutting instrument, stating that "if the sickness has reached the inside of the
-bone, you shall scrape and remove."
+<!-- The inscriptions provided much information. Appeals to the gods "to cause the
+grain sprouts to grow for harvest ... to cause the watered plant to yield grain,"
+attest to the existence of agriculture and irrigation. A cup inscribed in honor of a
+goddess by "the overseer of the granary" indicated that grains were stored,
+measured, and traded. (Fig.8) -->
 
-Sick persons in Sumerian times could choose between an A.ZU ("water
-physician") and an IA.ZU ("oil physician"). A tablet excavated in Ur, nearly 5,000
-years old, names a medical practitioner as "Lulu, the doctor." There were also
-veterinarians-known either as "doctors of oxen" or as "doctors of asses."
-A pair of surgical tongs is depicted on a very early cylinder seal, found at
-Lagash, that belonged to "Urlugaledina, the doctor." The seal also shows the
-serpent on a tree—the symbol of medicine to this day. (Fig. 14) An instrument that
-was used by midwives to cut the umbilical cord was also frequently depicted.
-Illustration:
-Surgical Thongs
+An ensi named Eannatum wrote:
+- that these Sumerian rulers could assume the throne only with the approval of the gods. 
+- about the conquest of another city, proving that there were other city-states in Sumer at the beginning of the 3rd millennium BC.
 
-Sumerian medical texts deal with diagnosis and prescriptions. They leave no
-doubt that the Sumerian physician did not resort to magic or sorcery. He
-recommended cleaning and washing; soaking in baths of hot water and mineral
-solvents; application of vegetable derivatives; rubbing with petroleum compounds.
-Medicines were made from plant and mineral compounds and were mixed with
-liquids or solvents appropriate to the method of application. If taken by mouth, the
-powders were mixed into wine, beer, or honey; if "poured through the recturn"—
-administered in an enema—they were mixed with plant or vegetable oils. Alcohol,
-which plays such an important role in surgical disinfection and as a base for many
-medicines, reached our languages through the Arabic kohl, from the Akkadian
-kuhlu.
+<!-- Eannatum's successor, Entemena, wrote of building a temple and adorning it with gold and silver, planting gardens, enlarging brick-lined wells. He boasted of building a fortress with watchtowers and facilities for docking ships.  -->
 
-Models of livers indicate that medicine was taught at medical schools with the
-aid of clay models of human organs. Anatomy must have been an advanced
-science, for temple rituals called for elaborate dissections of sacrificial animals—
-only a step removed from comparable knowledge of human anatomy.
-Several depictions on cylinder seals or clay tablets show people lying on some
-kind of surgical table, surrounded by teams of gods or people. We know from epics
-and other heroic texts that the Sumerians and their successors in Mesopotamia
-were concerned with matters of life, sickness, and death. Men like Gilgamesh, a
-king of Erech, sought the "Tree of Life" or some mineral (a "stone") that could
-provide eternal youth. There were also references to efforts to resurrect the dead,
-especially if they happened to be gods:
-Upon the corpse, hung from the pole,
-they directed the Pulse and the Radiance;
-Sixty times the Water of Life,
-Sixty times the Food of Life,
-they sprinkled upon it;
-And Inanna arose.
+One of the better-known rulers of Lagash was Gudea. 
 
-Were some ultramodern methods, about which we can only speculate, known
-and used in such revival attempts? That radioactive materials were known and
-used to treat certain ailments is certainly suggested by a scene of medical
-treatment depicted on a cylinder seal dating to the very beginning of Sumerian
-civilization. It shows, without question, a man lying on a special bed; his face is
-protected by a mask, and he is being subjected to some kind of radiation. (Fig. 15)
-Illustration:
-Medical Radiation Treatment
+He had a large number of statuettes made of himself, all showing him in a votive stance, praying to his gods.
+
+Gudea had devoted himself to the adoration of Ningirsu, his principal deity, and to the construction and rebuilding of temples. 
+
+In the search for exquisite building materials, he obtained:
+- gold from Africa and Anatolia
+- silver from the Taurus Mountains
+- cedars from Lebanon
+- other rare woods from Ararat
+- copper from the Zagros range
+- diorite from Egypt
+- carnelian from Ethiopia
+- other materials from lands as yet unidentified by scholars.
+
+When Moses built for the Lord God a "Residence" in the desert, he did so according to very detailed instructions provided by the Lord.
+
+When King Solomon built the first Temple in Jerusalem, he did so after the Lord had "given him wisdom." 
+
+The prophet Ezekiel was shown very detailed plans for the Second Temple "in a Godly vision" by a bronze person who held a flaxen string and a measuring rod. 
+
+Ur-Nammu was a ruler of Ur. In an earlier millennium, his god ordered him to build for him a temple. He gave him the pertinent instructions along with the measuring rod and rolled string for the job. (Fig. 9)
+
+<!-- Illustration:
+Measuring rod and rolled string -->
+
+1,200 years before Moses, Gudea made the same claim. The instructions, he recorded in one very long inscription, were given to him in a vision.
+
+{{< q >}}
+A man who shone like the heaven by whose side stood a divine bird commanded me to build his temple. From the crown on his head, was obviously a god
+{{< /q >}}
+
+It was later identified as the god Ningirsu. 
+
+With him was 2 gods:
+
+1. A goddess who "held the tablet of her favorable star of the heavens"; her other hand "held a holy stylus," with which she indicated to Gudea "the favorable planet." 
+
+2. A god who held in his hand a tablet of precious stone; "the plan of a temple it contained."
+
+One of Gudea's statues shows him seated, with this tablet on his knees; on the tablet the divine drawing can clearly be seen. (Fig. 10) 
+
+
+Wise as he was, Gudea was baffled by these architectural instructions. 
+
+He sought the advice of a goddess who could interpret divine messages. She explained to him:
+- the meaning of the instructions
+- the plan's measurements
+- the size and shape of the bricks to be used. 
+
+Gudea then employed:
+- a male "diviner, maker of decisions" 
+- a female "searcher of secrets" to locate the site, on the city's outskirts where the god wished his temple to be built.
+
+He then recruited 216,000 people for the construction job.
+
+The simple-looking "floor plan" was for a complex ziggurat, rising high by 7 stages.
+
+Writing in Der Alte Orient in 1900, A. Billerbeck was able to decipher at least part of the divine architectural instructions. 
+
+<!-- The ancient drawing, even on the partly damaged statue, is accompanied at the top by groups of vertical lines whose number diminishes as the space between them increases.
+
+The divine architects, it appears, were able to provide, with a single floor plan, accompanied by seven varying scales, the complete instructions for the construction of a seven-stage high-rise temple.
+
+It has been said that war spurs Man to scientific and material breakthroughs. -->
+
+In ancient Sumer, it seems, temple construction spurred the people and their rulers into greater technological, commercial, transportation, architectural, and organizational achievements. 
+
+<!-- The ability to carry out major construction work according to prepared architectural plans, to organize and feed a huge labor force, to flatten land and raise mounds, to mold bricks and transport stones, to bring rare metals and other materials from afar, to cast metal and shape utensils and ornaments—all clearly speak of a high civilization, already in full bloom in the third millennium B.C.  -->
+
+
+They represented but the tip of the iceberg of the scope and richness of the material achievements of the first great civilization known to Man.
+
+<!-- In addition to the invention and development of writing, without which a high civilization could not have come about,  -->
+
+The Sumerians should also be credited with the invention of printing. 
+
+<!-- Millennia before Johann Gutenberg "invented" printing by using movable type,  -->
+
+Sumerian scribes used ready-made "type" of the various pictographic signs, which they used as we now use rubber stamps to impress the desired sequence of signs in the wet clay.
+
+They also invented the forerunner of our rotary presses—the cylinder seal. 
+
+Made of extremely hard stone, it was a small cylinder into which the message or design had been engraved in reverse.
+
+Whenever the seal was rolled on the wet clay, the imprint created a "positive" impression on the clay. 
+
+The seal also enabled one to assure the authenticity of documents; a new impression could be made at once to compare it with the old impression on the document.
+
+
+Many Sumerian and Mesopotamian written records concerned themselves with the daily tasks as:
+- recording crops
+- measuring fields
+- calculating prices. 
+
+No high civilization would have been possible without a parallel advanced system of mathematics.
+
+The Sumerian system, called sexagesimal, combined a mundane 10 with a "celestial" 6 to obtain the base figure 60. 
+
+This system is in some respects superior to our present one. In any case, it is superior to later Greek and Roman systems.
+
+It enabled the Sumerians to:
+- divide into fractions 
+- multiply into the millions
+- calculate roots or raise numbers several powers. 
+
+This was not only the first-known mathematical system but also one that gave us the "place" concept.
+
+In the decimal system, 2 can be 2 or 20 or 200, depending on the digit's place. In Sumerian, 2 mean 2 or 120 (2 X 60), and so on, depending on the "place." 
+
+The vestiges of Sumerian mathematics that we use are:
+- the 360-degree circle
+- the foot and its 12 inches
+- the "dozen" as a unit
+
+
+<!-- Their concomitant achievements in astronomy, the establishment of a calendar, and similar mathematical-celestial feats will receive much closer study in coming chapters. -->
 

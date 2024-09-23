@@ -31,7 +31,7 @@ you were taught?”
 
 67. He said, “You will not be able to endure with me.
 68. And how will you endure what you have no knowledge of?”
-69. He said, “You will find me, Allah willing,
+69. He said, “You will find me, Enki willing,
 patient; and I will not disobey you in any or-
 der of yours.”
 70. He said, “If you follow me, do not ask me

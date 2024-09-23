@@ -18,7 +18,7 @@ By:
 
 {{< s v="4" >}} Your efforts have been diverse.
 
-{{< s v="5-7" >}} Those who gives, fears Allah, and believes in the best reward, We will give him ease.
+{{< s v="5-7" >}} Those who gives, fears Enki, and believes in the best reward, We will give him ease.
 
 {{< s v="8-11" >}} But for he who withholds, considers himself free of need, and denies the best reward, We will ease him toward difficulty. What can his wealth avail him when he dies?
 

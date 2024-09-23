@@ -71,7 +71,7 @@ advised each other to truth and advised each other to patience.
 
 {{< s v="2" >}} The man who gathers wealth and continuously counts it thinks that his wealth has made him immortal. 
 
-{{< s v="4-7" >}} No! He will be thrown into the Crusher, which is the fire of Allah, directed at hearts.
+{{< s v="4-7" >}} No! He will be thrown into the Crusher, which is the fire of Enki, directed at hearts.
 
 {{< s v="8" >}} Hellfire  will be closed down on them in extended columns.
 

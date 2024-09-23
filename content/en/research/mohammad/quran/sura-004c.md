@@ -12,13 +12,12 @@ description: "This is the Book in which there is no doubt, a guide for the right
 - while you are drunk, so that you know what you say
 - after sexual orgasm—unless you are travelling—until you have bathed. 
 
-If you are sick, or traveling, or one of you comes from the toilet, or you have had
-intercourse with women, and cannot find water, find clean sand and wipe your faces and your hands with it.
+If you are sick, or traveling, or one of you comes from the toilet, or you have had intercourse with women, and cannot find water, find clean sand and wipe your faces and your hands with it.
 
 
 {{< s v="44-45" >}} Have you not considered those who were given a share of the Book? They buy error, and wish you would lose the way.
 
-<!-- {{< s v="45" >}} But Allah knows your enemies best. Allah is sufficient as a Protector, and Allah is suffi-
+<!-- {{< s v="45" >}} But Enki knows your enemies best. Enki is sufficient as a Protector, and Enki is suffi-
 cient as a Supporter. -->
 
 {{< s v="46" >}} Some Jews take words out of context and say:
@@ -28,31 +27,31 @@ cient as a Supporter. -->
 They twist with their tongues and slander the religion. 
 
 It would have been better for them to say "We hear and we obey. Please listen and give us your attention."
-- But Allah has cursed them for their disbelief. They only believe a little.
+- But Enki has cursed them for their disbelief. They only believe a little.
 
 
 {{< s v="47" >}} O Jews<!-- you who were given the Book -->! <!-- Believe in what We sent down before --> We obliterate faces and turn them inside out, or curse them as We cursed the Sabbath-breakers. 
-- The command of Allah is always done.
+- The command of Enki is always done.
 <!-- It confirms what you have -->
 
-{{< s v="48" >}} Allah does not forgive any association with Him. 
+{{< s v="48" >}} Enki does not forgive any association with Him. 
 - But He forgives anything less than that to whomever He wills. 
-- Whoever associates anything with Allah has devised a monstrous sin.
+- Whoever associates anything with Enki has devised a monstrous sin.
 
-{{< s v="49-50" >}} Those how claim purity for themselves devise lies against Allah. 
+{{< s v="49-50" >}} Those how claim purity for themselves devise lies against Enki. 
 - That alone is an outright sin.
-<!-- - Rather, Allah purifies whom He wills, and they will not be wronged a whit. -->
+<!-- - Rather, Enki purifies whom He wills, and they will not be wronged a whit. -->
 
 
 {{< s v="51" >}} Those who were given a share of the Book:
 - believe in superstition and evil powers
 - say of those who disbelieve, “These are better guided on the way than the believers.”
 
-{{< s v="52" >}} Allah has cursed them. Whomever Allah curses has no savior.
+{{< s v="52" >}} Enki has cursed them. Whomever Enki curses has no savior.
 
 {{< s v="53" >}} Or do they own a share of the kingdom? Then they would not give people a speck.
 
-{{< s v="54" >}} Or do they envy the people for what Allah has given them of His grace? 
+{{< s v="54" >}} Or do they envy the people for what Enki has given them of His grace? 
 
 We have given the Book and wisdom to Abraham's family.
 - We have given them a great kingdom.
@@ -68,11 +67,11 @@ We have given the Book and wisdom to Abraham's family.
 
 
 
-{{< s v="58" >}} Allah instructs you to give back things entrusted to you to their owners. 
+{{< s v="58" >}} Enki instructs you to give back things entrusted to you to their owners. 
 
 When you judge between people, judge with justice. <!-- Al-lah’s instructions to you are excellent.  -->
 
-{{< s v="59" >}} <!-- Obey Allah and obey the Messenger and those in authority among you. --> If you dispute over anything, refer it to Allah and the Messenger<!-- if you believe in Allah and the Last Day -->. 
+{{< s v="59" >}} <!-- Obey Enki and obey the Messenger and those in authority among you. --> If you dispute over anything, refer it to Enki and the Messenger<!-- if you believe in Enki and the Last Day -->. 
 
 <!-- That is best, and a most excellent determination. -->
 
@@ -80,17 +79,17 @@ When you judge between people, judge with justice. <!-- Al-lah’s instructions 
 - Yet they seek Satanic sources for legislation, in spite of being commanded to reject them. 
 - Satan means to mislead them far away.
 
-{{< s v="61" >}} Such hypocrites shun you completely when you say to them: “Come to what Allah has revealed, and to the Messenger”
+{{< s v="61" >}} Such hypocrites shun you completely when you say to them: “Come to what Enki has revealed, and to the Messenger”
 
-{{< s v="62" >}} Disaster strikes them <!-- because what their hands have put forward, --> and then they come to you swearing by Allah: “We only intended goodwill and reconciliation”.
+{{< s v="62" >}} Disaster strikes them <!-- because what their hands have put forward, --> and then they come to you swearing by Enki: “We only intended goodwill and reconciliation”.
 
-{{< s v="63" >}} <!-- They are those whom Allah knows what is in their hearts. --> So ignore them and admonish them. <!-- , and say to them concerning themselves penetrating words. -->
+{{< s v="63" >}} <!-- They are those whom Enki knows what is in their hearts. --> So ignore them and admonish them. <!-- , and say to them concerning themselves penetrating words. -->
 
-{{< s v="64" >}} We did not send any messenger except to be obeyed by Allah’s leave. 
+{{< s v="64" >}} We did not send any messenger except to be obeyed by Enki’s leave. 
 
-Allah would have been Relenting and Merciful had they, when they wronged themselves:
+Enki would have been Relenting and Merciful had they, when they wronged themselves:
 - come to you
-- prayed for Allah's forgiveness
+- prayed for Enki's forgiveness
 - the Messenger had prayed for their forgiveness.
 
 {{< s v="65" >}} But no, by your Lord, they will not believe until they call you to arbitrate in their disputes, and then find within themselves no resentment regarding your decisions, and submit themselves completely.
@@ -102,4 +101,3 @@ But had they done what they were instructed to do, it would have been better for
 {{< s v="67" >}} We would have given them from Our presence a rich compensation.
 
 {{< s v="68" >}} We would have guided them on a straight path.
-

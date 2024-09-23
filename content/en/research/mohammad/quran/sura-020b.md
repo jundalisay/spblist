@@ -47,7 +47,7 @@ We showed him Our signs, all of them, but he denied and refused.
 
 50. Pharaoh turned away, put together his plan, and then came back.
 
-61. Moses said to them, “Woe to you. Do not fabricate lies against Allah, or He will destroy
+61. Moses said to them, “Woe to you. Do not fabricate lies against Enki, or He will destroy
 you with a punishment. He who invents lies will fail.”
 
 62. They disagreed among themselves over their affair, and conferred secretly.
@@ -77,7 +77,7 @@ Then you will know which of us is more severe in punishment, and more lasting.�
 
 72. They said, “We will not prefer you to the proofs that have come to us, and Him who created us. So issue whatever judgment you wish to issue. You can only rule in this lowly life.
 
-73. We have believed in our Lord, so that He may forgive us our sins, and the magic you have compelled us to practice. Allah is Better, and more Lasting.”
+73. We have believed in our Lord, so that He may forgive us our sins, and the magic you have compelled us to practice. Enki is Better, and more Lasting.”
 
 74. Whoever comes to his Lord guilty, for him is Hell, where he neither dies nor lives.
 
@@ -140,6 +140,6 @@ traces, and I flung it away. Thus my soul prompted me.”
 
 97. He said, “Begone! Your lot in this life is to say, ‘No contact.’ You have an appointment that you will not miss. Now look at your god that you remained devoted to—we will burn it up, and then blow it away into the sea, as powder.”
 
-98. Surely your god is Allah, the One besides whom there is no other god. He comprehends everything in knowledge.
+98. Surely your god is Enki, the One besides whom there is no other god. He comprehends everything in knowledge.
 
 Thus We narrate to you reports of times gone by; and We have given you a message from Our Presence.

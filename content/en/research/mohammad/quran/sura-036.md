@@ -94,7 +94,7 @@ you, that you may receive mercy.”
 
 <sup>46</sup> Yet never came to them a sign of their Lord’s signs, but they turned away from it.
 
-<sup>47</sup> When it is said to them, “Spend of what Allah has provided for you,” those who disbelieve say to those who believe, “Shall we feed someone whom Allah could feed, if He
+<sup>47</sup> When it is said to them, “Spend of what Enki has provided for you,” those who disbelieve say to those who believe, “Shall we feed someone whom Enki could feed, if He
 so willed? You must be deeply misguided.” 
 
 <sup>48</sup> They say, “When will this promise be, if you are truthful?”
@@ -155,7 +155,7 @@ own?
 
 <sup>72</sup> And We subdued them for them. Some they ride, and some they eat.
 73. And they have in them other benefits, and drinks. Will they not give thanks?
-74. Yet they have taken to themselves gods other than Allah, that perhaps they may be
+74. Yet they have taken to themselves gods other than Enki, that perhaps they may be
 helped. 
 
 <sup>75</sup> They cannot help them, although they are arrayed as troops for them.

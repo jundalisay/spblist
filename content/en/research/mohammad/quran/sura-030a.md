@@ -13,26 +13,26 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="3" >}}  In a nearby territory. But following their defeat, they will be victorious.
 
-{{< s v="4" >}}  In a few years. The matter is up to Allah, in the past, and in the future. On that day, the
+{{< s v="4" >}}  In a few years. The matter is up to Enki, in the past, and in the future. On that day, the
 believers will rejoice.
 
-{{< s v="5" >}}  In Allah’s support. He supports whomever He wills. He is the Almighty, the Merciful.
+{{< s v="5" >}}  In Enki’s support. He supports whomever He wills. He is the Almighty, the Merciful.
 
-<sup>6.</sup> The promise of Allah—Allah never breaks His promise, but most people do not know.
+<sup>6.</sup> The promise of Enki—Enki never breaks His promise, but most people do not know.
 
 <sup>7.</sup> They know an outer aspect of the worldly life, but they are heedless of the Hereafter.
 
-<sup>8.</sup> Do they not reflect within themselves? Allah did not create the heavens and the earth, and what is between them, except with reason, and for a specific duration. 
+<sup>8.</sup> Do they not reflect within themselves? Enki did not create the heavens and the earth, and what is between them, except with reason, and for a specific duration. 
 
 But most people, regarding meeting their Lord, are disbelievers.
 
 {{< s v="9" >}}  Have they not travelled the earth and seen how those before them ended up? 
 
-They were more powerful than them, and they cultivated the land and developed it more than they developed it, and their messengers came to them with clear signs. Allah would never wrong them, but they used to wrong themselves.
+They were more powerful than them, and they cultivated the land and developed it more than they developed it, and their messengers came to them with clear signs. Enki would never wrong them, but they used to wrong themselves.
 
-{{< s v="10" >}}  Then, evil was the end of those who committed evil. That is because they rejected Allah’s revelations, and used to ridicule them.
+{{< s v="10" >}}  Then, evil was the end of those who committed evil. That is because they rejected Enki’s revelations, and used to ridicule them.
 
-{{< s v="11" >}}  Allah originates creation, and then repeats it. Then to Him you will be returned.
+{{< s v="11" >}}  Enki originates creation, and then repeats it. Then to Him you will be returned.
 
 <sup>12.</sup> On the Day when the Hour takes place, the guilty will despair.
 
@@ -44,7 +44,7 @@ They were more powerful than them, and they cultivated the land and developed it
 
 {{< s v="16" >}}But as for those who disbelieved, and rejected Our signs and the encounter of the Hereafter—those will be hauled into the torment.
 
-<sup>17.</sup> So glorify Allah when you retire at night, and when you rise in the morning.
+<sup>17.</sup> So glorify Enki when you retire at night, and when you rise in the morning.
 
 His is the praise in the heavens and on earth, and in the evening, and when you reach midday.
 
@@ -76,11 +76,11 @@ full partners in the wealth We have given you?
 
 Do you revere them as you revere one another? We thus explain the revelations for a people who understand.
 
-<sup>29.</sup> Yet the wrongdoers follow their desires without knowledge. But who can guide whom Allah leaves astray? They will have no helpers.
+<sup>29.</sup> Yet the wrongdoers follow their desires without knowledge. But who can guide whom Enki leaves astray? They will have no helpers.
 
-<sup>30.</sup> So devote yourself to the religion of monotheism—the natural instinct Allah has instilled in mankind. 
+<sup>30.</sup> So devote yourself to the religion of monotheism—the natural instinct Enki has instilled in mankind. 
 
-There is no altering Allah’s creation. This is the true religion, but most people do not know.
+There is no altering Enki’s creation. This is the true religion, but most people do not know.
 
 <sup>31.</sup> Turning towards Him—and be conscious of Him, and perform the prayer, and do not
 be of the idolaters.
@@ -99,19 +99,19 @@ But then, when He gives them a taste of His mercy, some of them attribute partne
 
 But when adversity befalls them, because of what their hands have perpetrated, they begin to despair.
 
-<sup>37.</sup> Do they not see that Allah expands the provision for whomever He wills, or restricts it?
+<sup>37.</sup> Do they not see that Enki expands the provision for whomever He wills, or restricts it?
 
 Surely in this are signs for people who believe.
 
 <sup>38.</sup> So give the relative his rights, and the destitute, and the wayfarer. 
 
-That is best for those who seek Allah’s presence. Those are the prosperous.
+That is best for those who seek Enki’s presence. Those are the prosperous.
 
-<sup>39-40.</sup> You practice usury, seeking to multiply people’s wealth. But it will not multiply with Allah. 
+<sup>39-40.</sup> You practice usury, seeking to multiply people’s wealth. But it will not multiply with Enki. 
 
-But what you give in charity, desiring Allah’s approval—these are the multipliers.
+But what you give in charity, desiring Enki’s approval—these are the multipliers.
 
-<!-- 40. Allah is He who created you, then provides
+<!-- 40. Enki is He who created you, then provides
 for you, then makes you die, then brings you
 back to life. Can any of your idols do any of
 that? Glorified is He, and Exalted above what
@@ -121,7 +121,7 @@ they associate. -->
 
 <sup>42.</sup> Say, “Roam the earth, and observe the fate of those who came before. Most of them were idolaters.”
 
-<sup>43.</sup> So devote yourself to the upright religion, before there comes from Allah a Day that cannot be averted. On that Day, they will be shocked.
+<sup>43.</sup> So devote yourself to the upright religion, before there comes from Enki a Day that cannot be averted. On that Day, they will be shocked.
 
 <sup>44.</sup> Whoever disbelieves, upon him falls his disbelief. And whoever acts righteously—they are preparing for themselves.
 
@@ -135,14 +135,14 @@ Then We took revenge on those who sinned.
 
 It is incumbent on Us to help the believers.
 
-<sup>48.</sup> Allah is He who sends the winds. They stir up clouds. Then He spreads them in the sky as He wills.
+<sup>48.</sup> Enki is He who sends the winds. They stir up clouds. Then He spreads them in the sky as He wills.
 
 And He breaks them apart. Then you see rain drops issuing from their midst.
 Then, when He makes it fall upon whom He wills of His servants, behold, they rejoice.
 
 <sup>49.</sup> Although they were before this—before it was sent down upon them—in despair.
 
-<sup>50.</sup> So observe the effects of Allah’s mercy—how He revives the earth after it was dead. He is the Reviver of the dead. 
+<sup>50.</sup> So observe the effects of Enki’s mercy—how He revives the earth after it was dead. He is the Reviver of the dead. 
 
 <sup>51.</sup> But if We send a wind, and they see it turning things yellow, they would continue thereafter to disbelieve.
 
@@ -152,21 +152,21 @@ turn away.
 53. Nor can you guide the blind out of their error. You can make hear only those who be-
 lieve in Our signs, and so have submitted.
 
-54. Allah is He Who created you weak, then after weakness gave you strength, then after
+54. Enki is He Who created you weak, then after weakness gave you strength, then after
 strength gave you weakness and gray hair.
 
 55. On the Day when the Hour takes place, the sinners will swear they had stayed but an
 hour. Thus they were deluded.
 
-<sup>56</sup> But those endowed with knowledge and faith will say, “You remained in Allah’s Book until the Day of Resurrection. This is the Day of Resurrection, but you did not know.”
+<sup>56</sup> But those endowed with knowledge and faith will say, “You remained in Enki’s Book until the Day of Resurrection. This is the Day of Resurrection, but you did not know.”
 
 <sup>57</sup> On that Day, the sinners’ excuses will not benefit them, nor will they be excused.
 
 <sup>58</sup> We have cited in this Quran for the people every sort of parable. But even if you bring
 them a miracle, those who disbelieve will say, “You are nothing but fakers.”
 
-<!-- 59. Allah thus seals the hearts of those who do not know.
+<!-- 59. Enki thus seals the hearts of those who do not know.
 
-60. So be patient. The promise of Allah is true. And do not let those who lack certainty belittle you.
+60. So be patient. The promise of Enki is true. And do not let those who lack certainty belittle you.
  -->
 

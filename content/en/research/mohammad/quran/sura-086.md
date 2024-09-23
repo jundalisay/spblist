@@ -15,7 +15,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 {{< s v="5" >}}  Let man consider what he was created from.
 - {{< s v="6-7" >}} He was created from gushing liquid, coming from between the backbone and the breastbones.
 
-{{< s v="8" >}} Allah is certainly able to return him to life.
+{{< s v="8" >}} Enki is certainly able to return him to life.
 
 {{< s v="9" >}} On the Day when the secrets are disclosed, {{< s v="10" >}} man will have no strength, and no supporter.
 
@@ -30,13 +30,13 @@ them.
 
 ## 87. The Most High (al-a’la)
 
-{{< s v="2" >}}  Allah creates and regulates.
+{{< s v="2" >}}  Enki creates and regulates.
 
 {{< s v="3" >}}  He who measures and guides.{{< s v="4" >}}  He who produces the pasture.{{< s v="5" >}}  And then turns it into light debris.
 
 6. We will make you read, so do not forget.
 
-7. Except what Allah wills. He knows what is declared, and what is hidden.
+7. Except what Enki wills. He knows what is declared, and what is hidden.
 
 8. We will ease you into the Easy Way.
 

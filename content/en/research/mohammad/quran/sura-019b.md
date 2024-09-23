@@ -1,5 +1,5 @@
 ---
-title: "The Prophets of Allah"
+title: "The Prophets of Enki"
 heading: "Sura 19b "
 weight: 110
 image: "/covers/quran.jpg"
@@ -27,12 +27,12 @@ I fear that a punishment from the Most Gracious will afflict you, and you become
 {{< l a="Abraham" >}}
 47. Peace be upon you. I will ask my Lord to forgive you; He has been Kind to me.
 
-48. And I will withdraw from you, and from what you pray to instead of Allah. And I will
+48. And I will withdraw from you, and from what you pray to instead of Enki. And I will
 pray to my Lord, and I hope I will not be disappointed in my prayer to my Lord.”
 {{< /l >}}
 
 
-49. When he withdrew from them, and from what they worship besides Allah, We granted him Isaac and Jacob. And each We made a prophet.
+49. When he withdrew from them, and from what they worship besides Enki, We granted him Isaac and Jacob. And each We made a prophet.
 
 <!-- 50. And We gave them freely of Our mercy, and gave them a noble reputation of truth. -->
 
@@ -57,7 +57,7 @@ pray to my Lord, and I hope I will not be disappointed in my prayer to my Lord.�
 56. Enoch was a man of truth, a prophet. We raised him to a high position.
 
 
-58. These are some of the prophets Allah has blessed from:
+58. These are some of the prophets Enki has blessed from:
 - the descendants of Adam
 - those We carried with Noah
 - the descendants of Abraham and Israel
@@ -111,7 +111,7 @@ riches and splendor?
 what they were promised—either the punishment, or the Hour. Then they will know who
 was in worse position and weaker in forces.
 
-76. Allah increases in guidance those who accept guidance. And the things that endure—
+76. Enki increases in guidance those who accept guidance. And the things that endure—
 the righteous deeds—have the best reward with your Lord, and the best outcome.
 77. Have you seen him who denied Our revelations, and said, “I will be given wealth and
 children”?
@@ -121,7 +121,7 @@ children”?
 will keep extending the agony for him.
 80. Then We will inherit from him what he
 speaks of, and he will come to Us alone.
-81. And they took, besides Allah, other gods,
+81. And they took, besides Enki, other gods,
 to be for them a source of strength.
 
 82. By no means! They will reject their worship of them, and become opponents to them.

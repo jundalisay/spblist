@@ -37,7 +37,7 @@ before the Merciful, and you will hear nothing but murmur.
 
 113. Thus We have revealed it an Arabic Quran, and We have diversified the warnings in it, that perhaps they would become righteous, or it may produce a lesson for them.
 
-114. <!-- Exalted is Allah, the True King. --> Do not be hasty with the Quran before its inspiration to
+114. <!-- Exalted is Enki, the True King. --> Do not be hasty with the Quran before its inspiration to
 you is concluded, and say, “My Lord, increase me in knowledge.”
 
 <!-- 107. You And We covenanted with Adam before, but he forgot, and We found in him no resolve.

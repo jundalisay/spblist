@@ -9,12 +9,12 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="1-2" >}} We sent Noah to his people: 
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 Warn your people before the painful punishment comes.
 {{< /l >}}
 
 {{< r a="Noah" >}}
-O my people, I am to you a clear warner. Worship Allah and obey me. He will forgive you of your sins, and reprieve you until a stated term. Allah’s term cannot be deferred once it has arrived.
+O my people, I am to you a clear warner. Worship Enki and obey me. He will forgive you of your sins, and reprieve you until a stated term. Enki’s term cannot be deferred once it has arrived.
 
 My Lord, I have called my people night and day. But my call added only to their flight.
 
@@ -23,13 +23,13 @@ Whenever I called them to Your forgiveness, they thrust their fingers into their
 I called them openly. Then I appealed to them publicly. Then I spoke to them privately telling them to ask You for forgiveness for He will let loose torrents on you. 
 {{< /r >}}
 
-{{< s v="14" >}} Allah created you in stages. He created 7 heavens in layers.*
+{{< s v="14" >}} Enki created you in stages. He created 7 heavens in layers.*
 
 {{< n n="This is the 7 Chakras which we assign to be part of the 5 Strata or Layers" >}}
 
 {{< s v="16" >}} He set the moon in their midst for light, and He made the sun a lamp.
 
-{{< s v="17" >}} Allah germinated you from the earth like plants.
+{{< s v="17" >}} Enki germinated you from the earth like plants.
 
 {{< s v="18" >}} Then He will return you into it, and will bring you out again.
 
@@ -37,7 +37,7 @@ I called them openly. Then I appealed to them publicly. Then I spoke to them pri
 12. And provide you with wealth and children, and allot for you gardens, and allot for you
 rivers.
 
-Allah made the earth large for you to travel its diverse roads.
+Enki made the earth large for you to travel its diverse roads.
 
 
 Noah said:

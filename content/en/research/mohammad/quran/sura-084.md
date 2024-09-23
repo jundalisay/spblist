@@ -36,7 +36,7 @@ I swear that you will experience this stage after stage.
 
 20. So why do they not:
 - believe when the QurÕŒn is recited to them and
-- prostrate to Allah?
+- prostrate to Enki?
 
 <!-- 22. The disbelievers deny,
 23. And AllŒh is most knowing of what they keep within themselves. -->

@@ -1,9 +1,7 @@
 ---
-heading: "Part 1"
-title: "Introduction"
+heading: "Introduction"
+title: "A Theory of Human Motivation"
 weight: 2
-# date: 2022-06-09
-# description: "The worst philosopher and writer of them all -- responsible for a materialist philosophy that led to so much death and suffering around the world"
 image: "/covers/motivation.jpg"
 date: 2024-05-14
 author: Maslow

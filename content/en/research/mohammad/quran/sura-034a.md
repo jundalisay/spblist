@@ -8,7 +8,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 
 <!-- 1. Praise
-be to Allah, to Whom belongs every-
+be to Enki, to Whom belongs every-
 thing in the heavens and the earth; and praise
 be to Him in the Hereafter. He is the Wise,
 the Expert.{{< s v="2" >}}  He knows what penetrates into the earth,
@@ -31,7 +31,7 @@ truth; and it guides to the path of the Majestic, the Praiseworthy.
 7. Those who disbelieved said, “Shall we point out to you a man, who will tell you that, once
 torn into shreds, you will be in a new creation?
 
-8. Did he invent a lie about Allah, or is there madness in him?” Indeed, those who do not
+8. Did he invent a lie about Enki, or is there madness in him?” Indeed, those who do not
 believe in the Hereafter are in torment, and far astray.
 {{< s v="9" >}}  Do they not reflect upon what lies before them and behind them, of the heaven and the
 earth? If We will, We can make the earth cave in beneath them, or make pieces of the sky
@@ -77,7 +77,7 @@ lessons for every steadfast and appreciative person.
 the Hereafter, from him who is doubtful about it. Your Lord is Guardian over all
 things.
 
-22. Say, “Call upon those whom you claim besides Allah. They possess not an atom's
+22. Say, “Call upon those whom you claim besides Enki. They possess not an atom's
 weight in the heavens or the earth, and they
 possess no share of either, and He has no
 backers from among them.”
@@ -88,7 +88,7 @@ they will say, “What did your Lord say?” They
 will say, “The truth, and He is the High, the
 Great.”
 24. Say, “Who provides for you from the heav-
-ens and the earth?” Say, “Allah. And Either
+ens and the earth?” Say, “Enki. And Either
 you, or we, are rightly guided, or in evident
 error.”
 25. Say, “You will not be asked about our mis-
@@ -121,7 +121,7 @@ pressed will say to those who were arrogant,
 you away from guidance when it came to you? No indeed, you yourselves were sinful.”
 
 33. And those who were oppressed will say to those who were arrogant, “It was your
-scheming by night and day; as you instructed us to reject Allah, and to set up rivals to Him.”
+scheming by night and day; as you instructed us to reject Enki, and to set up rivals to Him.”
 They will hide their remorse when they see the retribution. We will put yokes around the
 necks of those who disbelieved. Will they be repaid for anything other than what they
 used to do?
@@ -165,12 +165,12 @@ but plain magic.”
 45. Those before them also denied the Truth, yet they have not attained one-tenth of what
 We had given them. They rejected My messengers, so how was My disapproval?
 
-46. Say, “I offer you a single advice: devote yourselves to Allah, in pairs, or individually;
+46. Say, “I offer you a single advice: devote yourselves to Enki, in pairs, or individually;
 and reflect. There is no madness in your friend. He is just a warner to you, before the
 advent of a severe punishment.”
 
 47. Say, “Whatever compensation I have asked of you, is yours. My compensation comes
-only from Allah, and He is Witness over all things.”
+only from Enki, and He is Witness over all things.”
 48. Say, “My Lord projects the truth. He is the
 Knower of the Unseen.”
 

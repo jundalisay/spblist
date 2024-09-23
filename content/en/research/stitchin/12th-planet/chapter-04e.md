@@ -3,7 +3,7 @@ heading: Chapter 4d
 title:  "Inanna / Ishtar"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
-weight: 14
+weight: 28
 ---
 
 

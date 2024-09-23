@@ -53,7 +53,7 @@ By:
 
 {{< s v="11-12">}} Tham´d denied their prophet by reason of their transgression, when the most wretched of them was sent forth.
 
-{{< s v="13">}} Salih, the messenger of Allah, said to them: "Do not harm the she-camel of Allah or [prevent her from] her drink."
+{{< s v="13">}} Salih, the messenger of Enki, said to them: "Do not harm the she-camel of Enki or [prevent her from] her drink."
 
 14. But they denied him and hamstrung 1804 her. So their Lord brought down upon them destruction for their sin and made it
 equal [upon all of them].

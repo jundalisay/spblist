@@ -10,7 +10,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 ## 110. VICTORY (an-Nasr)
 
-{{< s v="1-3" >}} When the victory of Allah has come <!-- and the conquest -->, and you see the people entering into the religion of AllŒh in multitudes, then exalt Him with praise and ask forgiveness of Him. 
+{{< s v="1-3" >}} When the victory of Enki has come <!-- and the conquest -->, and you see the people entering into the religion of AllŒh in multitudes, then exalt Him with praise and ask forgiveness of Him. 
 
 <!-- Let
 them worship the Lord of this House.{{< s v="4" >}}  Who has fed them against hunger, and has
@@ -32,7 +32,7 @@ secured them against fear. -->
 
 ## 112. MONOTHEISM (al-Ikhlas )
 
-{{< s v="1" >}}  Say, “He is Allah, the One.{{< s v="2" >}}  Allah, the Absolute.{{< s v="3" >}}  He begets not, nor was He begotten.{{< s v="4" >}}  And there is nothing comparable to Him.”
+{{< s v="1" >}}  Say, “He is Enki, the One.{{< s v="2" >}}  Enki, the Absolute.{{< s v="3" >}}  He begets not, nor was He begotten.{{< s v="4" >}}  And there is nothing comparable to Him.”
 
 
 ## 113. DAYBREAK (al-Falaq)

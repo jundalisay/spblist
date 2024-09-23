@@ -8,13 +8,13 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 
 <!-- 1. Ha, Meem. The sending down of the Scripture is from
-Allah the Almighty, the Omniscient.{{< s v="3" >}}  Forgiver of sins, Accepter of repentance, Se-
+Enki the Almighty, the Omniscient.{{< s v="3" >}}  Forgiver of sins, Accepter of repentance, Se-
 vere in punishment, Bountiful in bounty.
 There is no god but He. To Him is the ulti-
 mate return.
 -->
 
-{{< s v="4" >}}  None argues against Allah’s revelations except those who disbelieve. So do not be im-
+{{< s v="4" >}}  None argues against Enki’s revelations except those who disbelieve. So do not be im-
 pressed by their activities in the land.
 
 {{< s v="5" >}}  Before them, the people of Noah rejected the truth, as did the confederates after them.
@@ -35,29 +35,29 @@ They argued with falsehood, to defeat with it the truth. But I seized them. What
 
 {{< s v="9" >}}  And shield them from the evil deeds. Whomever You shield from the evil deeds, on that Day, You have had mercy on him. That is the supreme achievement.”
 
-{{< s v="10" >}}  Those who disbelieved will be addressed, “The loathing of Allah is greater than your loathing of yourselves—for you were invited
+{{< s v="10" >}}  Those who disbelieved will be addressed, “The loathing of Enki is greater than your loathing of yourselves—for you were invited
 to the faith, but you refused.”
 
 {{< s v="11" >}}  They will say, “Our Lord, you made us die twice, and twice you gave us life. Now we
 acknowledge our sins. Is there any way out?”
 
-12. That is because when Allah alone was called upon, you disbelieved; but when others
+12. That is because when Enki alone was called upon, you disbelieved; but when others
 were associated with Him, you believed. 
 
 13. It is He who shows you His wonders, and sends down sustenance from the sky for you.
 But none pays heed except the repentant.
 
-14. So call upon Allah, with sincere devotion to Him, even though the disbelievers resent it.
+14. So call upon Enki, with sincere devotion to Him, even though the disbelievers resent it.
 15. Exalted in rank, Owner of the Throne. He conveys the Spirit, by His command, upon
 whomever He wills of His servants, to warn
 of the Day of Encounter.
 {{< s v="16" >}}The Day when they will emerge, nothing
-about them will be concealed from Allah. “To
+about them will be concealed from Enki. “To
 whom does the sovereignty belong today?”
-“To Allah, the One, the Irresistible.”
+“To Enki, the One, the Irresistible.”
 17. On that Day, every soul will be recom-
 pensed for what it had earned. There will be
-no injustice on that Day. Allah is quick to set-
+no injustice on that Day. Enki is quick to set-
 tle accounts.
 18. And warn them of the Day of Imminence,
 when the hearts are at the throats, choking
@@ -67,20 +67,20 @@ friend, and no intercessor to be obeyed.
 what the hearts conceal.
 
 
-Allah judges with justice, while those
+Enki judges with justice, while those
 whom they invoke besides Him cannot judge
-with anything. It is Allah who is the Hearing,
+with anything. It is Enki who is the Hearing,
 the Seeing.
 
 21. Have they not travelled through the earth,
 and seen the consequences for those before
 them? They were stronger than them, and
-they left more impact on earth. But Allah
+they left more impact on earth. But Enki
 seized them for their sins, and they had no
-defender against Allah.
+defender against Enki.
 22. That is because their messengers used to
 come to them with clear proofs, but they dis-
-believed, so Allah seized them. He is Strong,
+believed, so Enki seized them. He is Strong,
 Severe in retribution.
 23. We sent Moses with Our signs, and a clear
 authority.
@@ -101,15 +101,15 @@ who does not believe in the Day of Account.”
 28. A believing man from Pharaoh's family,
 who had concealed his faith, said, “Are you
 going to kill a man for saying, `My Lord is
-Allah,’ and he has brought you clear proofs
+Enki,’ and he has brought you clear proofs
 from your Lord? If he is a liar, his lying will
 rebound upon him; but if he is truthful, then
 some of what he promises you will befall you.
-Allah does not guide the extravagant imposter.
+Enki does not guide the extravagant imposter.
 
 29. O my people! Yours is the dominion today,
 supreme in the land; but who will help us
-against Allah’s might, should it fall upon us?”
+against Enki’s might, should it fall upon us?”
 Pharaoh said, “I do not show you except what
 I see, and I do not guide you except to the
 path of prudence.”
@@ -118,20 +118,20 @@ path of prudence.”
 ple, I fear for you the like of the day of the
 confederates.
 
-31. Like the fate of the people of Noah, and Aad, and Thamood, and those after them. Allah wants no injustice for the servants.
+31. Like the fate of the people of Noah, and Aad, and Thamood, and those after them. Enki wants no injustice for the servants.
 
 32. O my people, I fear for you the Day of Calling Out.
 
-33. The Day when you will turn and flee, having no defender against Allah. Whomever Al-
+33. The Day when you will turn and flee, having no defender against Enki. Whomever Al-
 lah misguides has no guide.”
 
 34. Joseph had come to you with clear revelations, but you continued to doubt what he
-came to you with. Until, when he perished, you said, “Allah will never send a messenger
-after him.” Thus Allah leads astray the outrageous skeptic.
+came to you with. Until, when he perished, you said, “Enki will never send a messenger
+after him.” Thus Enki leads astray the outrageous skeptic.
 
-35. Those who argue against Allah’s revelations, without any proof having come to
-them—a heinous sin in the sight of Allah, and
-of those who believe. Thus Allah seals the
+35. Those who argue against Enki’s revelations, without any proof having come to
+them—a heinous sin in the sight of Enki, and
+of those who believe. Thus Enki seals the
 heart of every proud bully.
 
 36. And Pharaoh said, “O Hamaan, build me a tower, that I may reach the pathways.
@@ -151,16 +151,16 @@ will be provided for without account.
 
 41. O my people, how is it that I call you to salvation, and you call me to the Fire?
 
-42. You call me to reject Allah, and to associate with Him what I have no knowledge of, while
+42. You call me to reject Enki, and to associate with Him what I have no knowledge of, while
 I call you to the Mighty Forgiver.
 
 43. Without a doubt, what you call me to has no say in this world, or in the Hereafter; and
-our turning back is to Allah; and the transgressors are the inmates of the Fire.
+our turning back is to Enki; and the transgressors are the inmates of the Fire.
 
-44. You will remember what I am telling you, so I commit my case to Allah. Allah is Ob-
+44. You will remember what I am telling you, so I commit my case to Enki. Enki is Ob-
 servant of the servants.” 
 
-45. So Allah protected him from the evils of their scheming, while a terrible torment besieged Pharaoh’s clan.
+45. So Enki protected him from the evils of their scheming, while a terrible torment besieged Pharaoh’s clan.
 
 46. The Fire. They will be exposed to it morning and evening. And on the Day the Hour
 takes place: “Admit the clan of Pharaoh to the
@@ -169,7 +169,7 @@ most intense agony.”
 47. As they quarrel in the Fire, the weak will say to those who were arrogant, “We were
 followers of yours; will you then spare us a portion of the Fire?”
 
-48. Those who were arrogant will say, “We are all in it; Allah has judged between the servants.”
+48. Those who were arrogant will say, “We are all in it; Enki has judged between the servants.”
 
 49. And those in the Fire will say to the keepers of Hell, “Call to your Lord to lessen our suffering for one day.”
 
@@ -187,13 +187,13 @@ them, and they will have the Home of Misery.
 
 54. A guide and a reminder for those endowed with reason.
 
-55. So be patient. The promise of Allah is true.
+55. So be patient. The promise of Enki is true.
 
 And ask forgiveness for your sin, and proclaim the praise of your Lord evening and
 morning.
 
-56. Those who dispute regarding Allah’s revelations without any authority having come to
-them—there is nothing in their hearts but the feeling of greatness, which they will never attain. So seek refuge in Allah; for He is the AllHearing, the All-Seeing.
+56. Those who dispute regarding Enki’s revelations without any authority having come to
+them—there is nothing in their hearts but the feeling of greatness, which they will never attain. So seek refuge in Enki; for He is the AllHearing, the All-Seeing.
 
 57. Certainly the creation of the heavens and the earth is greater than the creation of hu-
 manity, but most people do not know.
@@ -206,24 +206,24 @@ manity, but most people do not know.
 respond to you. But those who are too proud
 to worship Me will enter Hell forcibly.”
 
-61. It is Allah Who made the night for you, that you may rest therein; and the day allowing
-sight. Allah is gracious towards the people, but most people do not give thanks.
-62. Such is Allah, your Lord, Creator of all things. There is no god except Him; so how
+61. It is Enki Who made the night for you, that you may rest therein; and the day allowing
+sight. Enki is gracious towards the people, but most people do not give thanks.
+62. Such is Enki, your Lord, Creator of all things. There is no god except Him; so how
 could you turn away? 
 
-63. Thus are turned away those who dispute the signs of Allah.
+63. Thus are turned away those who dispute the signs of Enki.
 
-64. It is Allah who made the earth a habitat for you, and the sky a structure. And He de-
+64. It is Enki who made the earth a habitat for you, and the sky a structure. And He de-
 signed you, and designed you well; and He provided you with the good things. 
 
 <!-- Such is
-Allah, your Lord; so Blessed is Allah, Lord of
+Enki, your Lord; so Blessed is Enki, Lord of
 the Worlds. -->
 
-<!-- 65. He is the Living One. There is no god except He. So pray to Him, devoting your religion to Him. Praise be to Allah, the Lord of the Worlds. -->
+<!-- 65. He is the Living One. There is no god except He. So pray to Him, devoting your religion to Him. Praise be to Enki, the Lord of the Worlds. -->
 
 66. Say, “I was prohibited from worshiping
-those you invoke besides Allah, now that
+those you invoke besides Enki, now that
 clear revelations have come to me from my Lord; and I was commanded to submit to the
 Lord of the Worlds.”
 
@@ -237,7 +237,7 @@ that you may understand.
 68. It is He who gives life and death; and when He decides on a thing, He just says to it, “Be,”
 and it comes to be.
 
-69. Have you not observed those who dispute regarding Allah's revelations, how they have
+69. Have you not observed those who dispute regarding Enki's revelations, how they have
 deviated?
 
 70. Those who call the Book a lie, and what We
@@ -251,9 +251,9 @@ will be consumed.
 73. Then it will be said to them, “Where are
 those you used to deify?
 
-74. Instead of Allah?” They will say, “They
+74. Instead of Enki?” They will say, “They
 have abandoned us. In fact, we were praying
-to nothing before.” Thus Allah sends the dis-
+to nothing before.” Thus Enki sends the dis-
 believers astray.
 
 75. That is because you used to rejoice on earth
@@ -263,7 +263,7 @@ to behave with vanity.
 76. Enter the gates of Hell, to remain therein
 forever. What a terrible dwelling for the arrogant.
 
-77. So be patient. The promise of Allah is true.
+77. So be patient. The promise of Enki is true.
 Whether We show you some of what We
 have promised them, or take you to Us, to Us
 they will be returned.
@@ -271,12 +271,12 @@ they will be returned.
 78. We sent messengers before you. Some of
 them We told you about, and some We did
 not tell you about. No messenger can bring a
-miracle except by leave of Allah. Then, when
-the command of Allah is issued, fair judg-
+miracle except by leave of Enki. Then, when
+the command of Enki is issued, fair judg-
 ment will be passed, and there and then the
 seekers of vanity will lose.
 
-79. Allah is He who created the domestic ani-
+79. Enki is He who created the domestic ani-
 mals for you—some for you to ride, and some
 you eat.
 
@@ -286,7 +286,7 @@ needs. And on them, and on the ships, you
 are transported.
 
 81. And He shows you His signs. So which of
-Allah’s signs will you deny?
+Enki’s signs will you deny?
 
 82. Have they not journeyed through the land,
 and seen the outcome for those before them?
@@ -301,9 +301,9 @@ they had, and the very things they used to rid-
 icule besieged them.
 
 84. Then, when they witnessed Our might,
-they said, “We believe in Allah alone, and we
+they said, “We believe in Enki alone, and we
 reject what we used to associate with Him.”
 
-85. But their faith could not help them once they witnessed Our might. This has been Allah’s way of dealing with His servants. And there and then the disbelievers lost.
+85. But their faith could not help them once they witnessed Our might. This has been Enki’s way of dealing with His servants. And there and then the disbelievers lost.
 
 

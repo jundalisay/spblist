@@ -2,8 +2,8 @@
 heading: Chapter 2
 title:  "The Sudden Civilization"
 image:  "/covers/12th.jpg"
-description: "The art of war is of vital importance to the State. It is a matter of life and death"
-weight: 4
+description: "When Napoleon arrived in Egypt in 1799, he took with him scholars to study the ancient monuments there"
+weight: 5
 ---
 
 
@@ -50,13 +50,13 @@ He concluded that:
 - pointed out that the island's name, Crete, spelled in Minoan Ke-re-ta, was the same as the Hebrew word Ke-re-et ("walled city") and had a counterpart in a Semitic tale of a king of Keret.
 
 
-Even the Hellenic alphabet, from which the Latin and our own alphabets derive, came from the Near East. 
+The English and Latin alphabets come from the Hellenic alphabet which came from the Near East. 
 
-The ancient Greek historians themselves wrote that a Phoenician named Kadmus ("ancient") brought them the alphabet, comprising the same number of letters, in the same order, as in Hebrew.
+The ancient Greek historians wrote that a Phoenician named Kadmus ("ancient") brought them the alphabet, comprising the same number of letters, in the same order, as in Hebrew.
 
-It was the only Greek alphabet when the Trojan War took place. The number of letters was raised to 26 by the poet Simonides of Ceos in the 5th century B.C.
+It was the only Greek alphabet when the Trojan War took place. The poet Simonides of Ceos in the 5th century BC increased the number of letters to 26.
 
-That Greek and Latin writing, and thus the whole foundation of our Western culture, were adopted from the Near East can easily be demonstrated by comparing the order, names, signs, and even numerical values of the original Near Eastern alphabet with the much later ancient Greek and the more recent Latin.
+<!-- That Greek and Latin writing, and thus the whole foundation of our Western culture, were adopted from the Near East can easily be demonstrated by comparing the order, names, signs, and even numerical values of the original Near Eastern alphabet with the much later ancient Greek and the more recent Latin. -->
 
 <!-- (Fig. 4)
 (1) "H", commonly transliterated as "H" for simplicity, is pronounced in the Sumerian and
@@ -64,17 +64,36 @@ Semitic languages as "CH" in the Scottish or German "loch".
  (2) "S", commonly transliterated as "S" for simplicity, is pronounced in the Sumerian and
 Semitic languages as "TS". -->
 
-The scholars were aware, of course, of Greek contacts with the Near East in the
+<!-- The scholars were aware, of course, of Greek contacts with the Near East in the
 first millennium B.C., culminating with the defeat of the Persians by Alexander the
-Macedonian in 331 BC. 
+Macedonian in 331 BC.  -->
 
-Greek records contained much information about these Persians and their lands (which roughly paralleled today's Iran). Judging by the names of their kings—Cyrus, Darius, Xerxes—and the names of their deities, which appear to belong to the Indo-European linguistic stem, scholars reached the conclusion that they were part of the Aryan ("lordly") people that appeared from somewhere near the Caspian Sea toward the end of the second millennium BC and spread westward to Asia Minor, eastward to India, and southward to what the Old Testament called the "lands of the Medes and Parsees."
 
-Yet all was not that simple. In spite of the assumed foreign origin of these invaders, the Old Testament treated them as part and parcel of biblical events.
+### The Aryans
 
-Cyrus, for example, was considered to be an "Anointed of Yahweh"—quite an unusual relationship between the Hebrew God and a non-Hebrew. According to the biblical Book of Ezra, Cyrus acknowledged his mission to rebuild the Temple in Jerusalem, and stated that he was acting upon orders given by Yahweh, whom he called "God of Heaven."
+Greek records had much information about Persia.
 
-Cyrus and the other kings of his dynasty called themselves Achaemenids—after the title adopted by the founder of the dynasty, which was Hacham-Anish. It was not an Aryan but a perfect Semitic title, which meant "wise man." 
+ <!-- and their lands (which roughly paralleled today's Iran).  -->
+
+The names of their kings were Cyrus, Darius, and Xerxes.
+
+The names of their deities belonged to the Indo-European linguistic stem.
+
+They were part of the Aryan ("lordly") people who came from near the Caspian Sea towards the end of the 2nd millennium BC. They spread:
+- westward to Asia Minor
+- eastward to India
+- southward to what the Old Testament called the "lands of the Medes and Parsees."
+  - The Old Testament treated them as part and parcel of biblical events.
+
+Cyrus, for example, was considered to be an "Anointed of Yahweh".
+- This is unusual for the Hebrew God and a non-Hebrew.
+- The biblical Book of Ezra writes that Cyrus:
+  - acknowledged his mission to rebuild the Temple in Jerusalem
+  - said he was acting upon orders given by Yahweh, whom he called "God of Heaven."
+
+Cyrus and the other kings of his dynasty called themselves Achaemenids from the title adopted by the founder of the dynasty-- Hacham-Anish. 
+
+It was a perfect Semitic title, which meant "wise man." 
 
 <!-- By and large,
 scholars have neglected to investigate the many leads that may point to
@@ -89,19 +108,19 @@ The symbols that make up the script that appeared on the Achaemenid monuments an
 
 Engelbert Kampfer visited Persepolis in 1686. He described the signs as "cuneates," or wedgeshaped impressions. The script has since been known as cuneiform.
 
-They were written in the same script as inscriptions found on ancient artifacts and tablets in Mesopotamia, the plains and highlands that lay between the Tigris and Euphrates rivers. Intrigued by the scattered finds, Paul Emile Botta set out in 1843 to conduct the first major purposeful excavation. He selected a site in northern Mesopotamia, near present-day Mosul, now called Khorsabad. 
+They were written in the same script as inscriptions found on ancient artifacts and tablets in Mesopotamia, the plains and highlands that lay between the Tigris and Euphrates rivers. 
+
+Intrigued by the scattered finds, Paul Emile Botta set out in 1843 to conduct the first major purposeful excavation. He selected a site in northern Mesopotamia, near present-day Mosul, now called Khorsabad. 
 
 Botta was soon able to establish that the cuneiform inscriptions named the place Dur Sharru Kin. They were Semitic inscriptions, in a sister language of Hebrew, and the name meant "walled city of the righteous king." Our textbooks call this king Sargon II. 
 
-This capital of the Assyrian king had as its center a magnificent royal palace whose walls were lined with sculptured bas-reliefs, which, if placed end to end, would stretch for over a mile. Commanding the city and the royal compound was a step pyramid called a ziggurat; it served as a "stairway to Heaven" for the gods.
+This capital of the Assyrian king had as its center a magnificent royal palace whose walls were lined with sculptured bas-reliefs, which, if placed end to end, would stretch for over a mile.
 
+Commanding the city and the royal compound was a step pyramid called a ziggurat; it served as a "stairway to Heaven" for the gods.
 
 The layout of the city and the sculptures depicted a way of life on a grand scale.
 
-The palaces, temples, houses, stables, warehouses, walls, gates, columns, decorations, statues, artworks, towers, ramparts, terraces, gardens—all were completed in just five years. According to Georges Contenau (La Vie Quotidienne a Babylone et en Assyrie), "the imagination reels before the potential strength of an empire which could accomplish so much in such a short space of time," some 3,000 years ago.
+The palaces, temples, houses, stables, warehouses, walls, gates, columns, decorations, statues, artworks, towers, ramparts, terraces, gardens—all were completed in just 5 years.
 
-The English appeared on the scene in the person of Sir Austen Henry Layard, who selected as his site a place some ten miles down the Tigris River from Khorsabad. The natives called it Kuyunjik; it turned out to be the Assyrian capital of Nineveh.
-
-Biblical names and events had begun to come to life. Nineveh was the royal capital of Assyria under its last three great rulers: Sennacherib, Esarhaddon, and Ashurbanipal. "Now, in the fourteenth year of king Hezekiah, did Sennacherib king of Assyria come up against all the walled cities of Judah," relates the Old Testament (II Kings 18:13), and when the Angel of the Lord smote his army, "Sennacherib departed and went back, and dwelt in Nineveh."
-
+<!-- ccording to Georges Contenau (La Vie Quotidienne a Babylone et en Assyrie), "the imagination reels before the potential strength of an empire which could accomplish so much in such a short space of time," some 3,000 years ago. -->
 

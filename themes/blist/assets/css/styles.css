@@ -67,7 +67,7 @@
 
 .aris, .Aristotle {background-image: url(/icons/aris.png) !important;}
 
-.Arjuna {background-image: url(/icons/arjuna.png);}
+.Arjuna, .Troops {background-image: url(/icons/arjuna.png);}
 
 .asker, .Asker {background-image: url(/icons/teacher.png);}
 
@@ -80,6 +80,8 @@
 .Bashar {background-image: url(/avatars/bashar.jpg);}
 
 .Buddha, .buddha {background-image: url(/avatars/buddha.jpg) !important;}
+
+.Christians {background-image: url(/icons/xmastree.png);}
 
 .Monks, .monks {background-image: url(/avatars/monks.jpg) !important;}
 
@@ -99,6 +101,12 @@
 .ein, .einstein, .Einstein {background-image: url(/icons/ein.png);}
 
 .einbla, .einblah, .Einstein-sophist {background-image: url(/icons/einbla.png);}
+
+.Enki {background-image: url(/icons/enki.png);}
+
+.Enlil-Followers {background-image: url(/icons/g03.png)}
+
+.Enlil-Satan, .Enlil-Faction, .Enlil {background-image: url(/icons/enlil.png)}
 
 .Engels {background-image: url(/avatars/engels.jpg);}
 
@@ -133,6 +141,8 @@
 
 .keynes, .Keynes, .John-Maynard-Keynes {background-image: url(/avatars/keynes.png);}
 
+.Knowledgeable {background-image: url(/icons/arab5.png) }
+
 .Krishna {background-image: url(/avatars/krishna.png);}
 
 .poincare, .Poincare {background-image: url(/avatars/poincare.png) !important;}
@@ -162,7 +172,7 @@
 
 .mill, .Mill, .John-Stuart-Mill {background-image: url(/icons/mill.png);}
 
-.Muslim {background-image: url(/icons/arab4.png) !important;}
+.Muslim, .Muslims {background-image: url(/icons/arab4.png) }
 
 .Bhadrapala, .Musa, .Abu-Bakr {background-image: url(/avatars/musa.png);}
 
@@ -247,18 +257,18 @@
 
 .ade, .Adeimantus, .Tsz-Hi, .Disciples, .Meno, .Phaedo, .Zeno, .zeno {background-image: url(/icons/g02.png);}
 
-.Parmenides, .Ischomachus, .pole, .Polemarchus, .Boy, .Critias, .Devotee, .Judge, .Man, .Apollodorus {
+.Jacob, .Parmenides, .Ischomachus, .pole, .Polemarchus, .Boy, .Critias, .Devotee, .Judge, .Man, .Apollodorus {
   background-image: url(/icons/g04.png);}
 
 .Mahut, .Pindar {background-image: url(/icons/g06.png) !important;}
 
-.Wang-Sun-Ki, .Judas, .Tsz-Lu, .Gauri {background-image: url(/icons/g07.png) !important;}
+.Wang-Sun-Ki, .Judas, .Tsz-Lu, .Gauri, .Ignorant {background-image: url(/icons/g07.png) !important;}
 
 .Teacher, .ceph, .Cephalus, .Tsz-Kung, .Zechariah, .Cebes, .Hippias-the-Sage, .Protagoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
   background-image: url(/icons/g08.png);  
 }
 
-.Anytus, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung {
+.Anytus, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung, .Sons {
   background-image: url(/icons/g09.png) !important;
 }
 

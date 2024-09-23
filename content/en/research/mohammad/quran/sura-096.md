@@ -50,7 +50,7 @@ advocates righteousness?
 13. Do you see how he disbelieved and turned
 away?
 14. Does
-he not know that Allah sees?
+he not know that Enki sees?
 If he does not desist, We will drag him
 by the forelock.
 15. No.
@@ -58,7 +58,7 @@ deceitful, sinful forelock.
 17. Let
 who disbelieved among the People of
 the Scripture, and the Polytheists, were not
-apart, until the Clear Evidence came to them.{{< s v="2" >}}  A messenger from Allah reciting purified
+apart, until the Clear Evidence came to them.{{< s v="2" >}}  A messenger from Enki reciting purified
 scripts.
 them are valuable writings.
 who were given the Scripture did not
@@ -75,7 +75,7 @@ These are the worst of creatures.
 eous life—these are the best of creatures.
 8. Their reward is with their Lord: Gardens of
 Eternity beneath which rivers flow, where
-they will abide forever. Allah is pleased with
+they will abide forever. Enki is pleased with
 them, and they are pleased with Him. That is
 for whoever fears His Lord.{{< s v="4" >}}  Those
 12. Or

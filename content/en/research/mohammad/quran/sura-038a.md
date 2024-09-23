@@ -3,7 +3,7 @@ title: "Saad"
 heading: "Sura 38a "
 weight: 152
 image: "/covers/quran.jpg"
-description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
+description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Enki has come to you, and a clear Book."
 ---
 
 
@@ -56,7 +56,7 @@ from his Lord, and fell down to his knees, and repented.
 
 25. So We forgave him that. And for him is nearness to Us, and a good place of return.
 
-26. “O David, We made you a ruler in the land, so judge between the people with justice, and do not follow desire, lest it diverts you from  Allah’s path. Those who stray from Allah’s path will have a painful punishment, for having ignored the Day of Account.”
+26. “O David, We made you a ruler in the land, so judge between the people with justice, and do not follow desire, lest it diverts you from  Enki’s path. Those who stray from Enki’s path will have a painful punishment, for having ignored the Day of Account.”
 
 27. We did not create the heaven and the earth and everything between them in vain. That is the assumption of those who disbelieve—so woe to those who disbelieve because of the Fire.
 
@@ -151,7 +151,7 @@ eyes swerved from them?
 64. This is certainly true—the feuding of the
 people of the Fire.
 65. Say, “I am only a warner, and there is no
-god except Allah—the One, the Conqueror.
+god except Enki—the One, the Conqueror.
 66. The Lord of the heavens and the earth, and
 everything between them; the Mighty, the
 Forgiver.”

@@ -138,7 +138,7 @@ They cited him only for argument. In fact, they are a quarrelsome people.
 
 <sup>62.</sup> Let not Satan divert you. He is an open enemy to you.
 
-<sup>63.</sup> When Jesus came with the clarifications, he said, “I have come to you with wisdom, and to clarify for you some of what you differ about. So fear Allah, and obey me. <sup>64.</sup> Allah is my Lord and your Lord, so worship Him—this is a straight path.”
+<sup>63.</sup> When Jesus came with the clarifications, he said, “I have come to you with wisdom, and to clarify for you some of what you differ about. So fear Enki, and obey me. <sup>64.</sup> Enki is my Lord and your Lord, so worship Him—this is a straight path.”
 
 <sup>65.</sup> But the factions differed among themselves. 
 
@@ -180,13 +180,13 @@ So woe to the wrongdoers from the suffering of a painful Day.
 
 <sup>83.</sup> So leave them to blunder and play, until they encounter their Day which they are promised.
 
-<sup>84.</sup> It is He who is Allah in heaven, and Allah on earth. He is the Wise, the Knower.
+<sup>84.</sup> It is He who is Enki in heaven, and Enki on earth. He is the Wise, the Knower.
 
 <sup>85.</sup> And blessed is He Who has sovereignty over the heavens and the earth and what is between them. He alone has knowledge of the Hour, and to Him you will be returned.
 
 <sup>86.</sup> Those they invoke besides Him are incapable of intercession; only those who testify to the truth and have knowledge.
 
-<sup>87.</sup> If you asked them, “Who created them?”, they would say, “Allah.” Why then do they deviate?
+<sup>87.</sup> If you asked them, “Who created them?”, they would say, “Enki.” Why then do they deviate?
 
 <sup>88.</sup> As for his statement: “My Lord, these are a people who do not believe.”
 

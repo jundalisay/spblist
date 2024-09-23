@@ -1,3 +1,11 @@
+---
+heading: Chapter 4
+title:  "Sumer: Land of the Gods"
+image:  "/covers/12th.jpg"
+description: "The art of war is of vital importance to the State. It is a matter of life and death"
+weight: 22
+---
+
 In those early days, when gods alone inhabited Nippur and Man had not yet
 been created, Enlil met the goddess who was to become his wife. According to one
 version, Enlil saw his future bride while she was bathing in Nippur's stream—

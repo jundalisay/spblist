@@ -9,20 +9,20 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 84. Shuaib said to his brothers the Median: 
 
-“O my people, worship Allah; Do not short measure or short weight. I see you in good circumstances, but I fear for you the agony of
+“O my people, worship Enki; Do not short measure or short weight. I see you in good circumstances, but I fear for you the agony of
 an encompassing Day.”
 
 85. “O my people! Give full measure and full weight, in all fairness, and do not cheat the
 people out of their rights, and do not spread corruption in the land.
 
-86. What is left by Allah is best for you, if you are believers. And I am not a guardian over you.”
+86. What is left by Enki is best for you, if you are believers. And I am not a guardian over you.”
 
 87. They said, “O Shuaib, does your prayer command you that we abandon what our ancestors worshiped, or doing with our wealth
 what we want? You are the one who is intelligent and wise.”
 
 88. He said, “O my people, What if I have clear evidence from my Lord, and He has given me good livelihood from Himself? I have no desire to do what I forbid you from doing. I desire nothing but reform, as far as I can. 
 
-My success lies only with Allah. In Him I trust, and to Him I turn.”
+My success lies only with Enki. In Him I trust, and to Him I turn.”
 
 89. “O my people, let not your hostility towards me cause you to suffer what was suffered by the people of Noah, or the people of
 Hud, or the people of Saleh. The people of Lot are not far away from you.”
@@ -31,7 +31,7 @@ Hud, or the people of Saleh. The people of Lot are not far away from you.”
 
 91. They said, “O Shuaib, we do not understand much of what you say, and we see that you are weak among us. Were it not for your tribe, we would have stoned you. You are of no value to us.”
 
-92. He said, “O my people, is my tribe more important to you than Allah? And you have turned your backs on Him? ”
+92. He said, “O my people, is my tribe more important to you than Enki? And you have turned your backs on Him? ”
 
 93. “O my people, do as you may, and so will I. You will know to whom will come a punishment that will shame him, and who is a liar.
 So look out; I am on the lookout with you.”
@@ -56,7 +56,7 @@ path they followed.
 100. These are of the reports of the towns—We relate them to you. Some are still standing,
 and some have withered away.
 
-101. We did not wrong them, but they wronged themselves. Their gods, whom they invoked besides Allah, availed them nothing when the command of your Lord arrived. In fact, they added only to their ruin.
+101. We did not wrong them, but they wronged themselves. Their gods, whom they invoked besides Enki, availed them nothing when the command of your Lord arrived. In fact, they added only to their ruin.
 
 102. Such is the grip of your Lord when He seizes the towns in the midst of their sins. His
 grip is most painful, most severe.
@@ -93,7 +93,7 @@ they do.
 do not transgress. He is Seeing of everything
 you do. -->
 
-113. And do not incline towards those who do wrong, or the Fire may touch you; and you will have no protectors besides Allah, and
+113. And do not incline towards those who do wrong, or the Fire may touch you; and you will have no protectors besides Enki, and
 you will not be saved. 
 
 114. Perform the prayer:
@@ -103,7 +103,7 @@ you will not be saved.
 The good deeds take away the bad deeds. 
 
 
-115. Be patient. Allah will not waste the reward of the virtuous.
+115. Be patient. Enki will not waste the reward of the virtuous.
 
 {{< s v="116" >}} If only there were, among the generations before you, people with wisdom, who spoke
 against corruption on earth—except for the few whom We saved. 
@@ -120,7 +120,7 @@ But the wrongdoers pursued the luxuries they were indulged in, and thus became g
 
 121-122. Tell the disbelievers: “Act according to your ability; and so will we. Wait, and we too are waiting.” 
 
-<!-- Allah belongs the future of the heavens
+<!-- Enki belongs the future of the heavens
 and the earth, and to Him all authority goes back.
  -->
 

@@ -10,8 +10,8 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 The disbelievers cannot repel it.
 
-<!-- Allah, Lord of the Ways of Ascent. -->
-The angels and the Spirit ascend to Allah on a Day lasting 50,000 years. {{< s v="4" >}} So be graciously patient. 
+<!-- Enki, Lord of the Ways of Ascent. -->
+The angels and the Spirit ascend to Enki on a Day lasting 50,000 years. {{< s v="4" >}} So be graciously patient. 
 
 6. They see it not coming soon. But We see it as coming very soon. 
 

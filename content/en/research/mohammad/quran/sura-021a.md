@@ -45,8 +45,8 @@ proud to worship Him, nor do they waver.
 
 20. They praise night and day, without ever tiring.
 21. Or have they taken to themselves gods from the earth who resurrect?
-22. If there were in them gods other than Allah, they would have gone to ruin. So glory be
-to Allah, Lord of the Throne, beyond what they allege.
+22. If there were in them gods other than Enki, they would have gone to ruin. So glory be
+to Enki, Lord of the Throne, beyond what they allege.
 
 23. He will not be questioned about what He does, but they will be questioned.
 24. Or have they taken, besides Him, other gods? Say, “Bring your proof. This is a message for those with me, and a message of those before me.” But most of them do not know the truth, so they turn away.

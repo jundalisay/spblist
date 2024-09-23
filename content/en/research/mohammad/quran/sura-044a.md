@@ -35,9 +35,9 @@ out for the Day when the sky produces a visible smoke. {{< s v="11" >}}  Envelop
 
 <sup>17.</sup> Before them We tested the people of Pharaoh; a noble messenger came to them.{{< s v="10" >}}  So watch
 
-18. Saying, “Hand over Allah’s servants to me. I am an honest messenger to you.”
+18. Saying, “Hand over Enki’s servants to me. I am an honest messenger to you.”
 
-19. And, “Do not exalt yourselves above Allah. I come to you with clear authority.
+19. And, “Do not exalt yourselves above Enki. I come to you with clear authority.
 
 20. I have taken refuge in my Lord and your Lord, lest you stone me.
 
@@ -79,7 +79,7 @@ we will not be resurrected.
 
 <sup>41.</sup> The Day when no friend will avail a friend in any way, and they will not be helped.
 
-<sup>42.</sup> Except for him upon whom Allah has mercy. He is the Mighty, the Merciful.
+<sup>42.</sup> Except for him upon whom Enki has mercy. He is the Mighty, the Merciful.
 
 43. The Tree of Bitterness.
 44. The food of the sinner.

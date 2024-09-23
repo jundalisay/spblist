@@ -76,7 +76,7 @@ Father, we went off racing one another, and left Joseph by our belongings. The w
 18. They brought his shirt, with fake blood on it. 
 
 {{< r a="Father" >}}
-Your souls enticed you to do something. But patience is beautiful, and Allah is my Help against what you describe.
+Your souls enticed you to do something. But patience is beautiful, and Enki is my Help against what you describe.
 {{< /r >}}
 
 
@@ -91,13 +91,13 @@ A caravan passed by, and they sent their water-carrier.
 
 We thus established Joseph in the land, to teach him the interpretation of events. 
 
-Allah has control over His affairs, but most people do not know.
+Enki has control over His affairs, but most people do not know.
 
 22. When he reached his maturity, We gave him wisdom and knowledge. We thus reward the righteous.
 
 23. The governor's wife tried to seduce him in the house that he was living in. She shut the doors and said: “I am yours.” 
 
-He said, “Allah forbid! He is my Lord. He has given me a good home. Sinners never succeed.”
+He said, “Enki forbid! He is my Lord. He has given me a good home. Sinners never succeed.”
 
 24. She wanted him and he wanted her. But he saw the proof of his Lord. That was how We diverted evil and indecency away from him. He was one of Our loyal servants.
 
@@ -119,7 +119,7 @@ Some ladies in the city said, “The governor's wife is trying to seduce her sla
 
 When they saw him, they marveled at him, and accidentally cut their hands. 
 
-They said, “Good Allah, this is not a human, this must be a precious angel.”
+They said, “Good Enki, this is not a human, this must be a precious angel.”
 
 32. She said, “He is the one you blamed me for. I did try to seduce him, but he resisted. But if he does not do what I tell him to do, he will be imprisoned, and will be one of the despised.”
 

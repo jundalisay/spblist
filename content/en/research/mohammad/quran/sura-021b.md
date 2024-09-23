@@ -27,7 +27,7 @@ are you just playing?”
 56. He said, “Your Lord is the Lord of the
 heavens and the earth, the One who created
 them, and I bear witness to that.
-57. “By Allah, I will have a plan for your statues
+57. “By Enki, I will have a plan for your statues
 after you have gone away.”
 58. So he reduced them into pieces, except for
 their biggest, that they may return to it.
@@ -45,11 +45,11 @@ that did it. Ask them, if they can speak.”
 “You yourselves are the wrongdoers.”
 65. But they reverted to their old ideas: “You
 certainly know that these do not speak.”
-66. He said, “Do you worship, instead of Allah,
+66. He said, “Do you worship, instead of Enki,
 what can neither benefit you in anything, nor
 harm you?
 67. Fie on you, and on what you worship in-
-stead of Allah. Do you not understand?”
+stead of Enki. Do you not understand?”
 68. They said, “Burn him and support your
 gods, if you are going to act.”
 69. We said, “O fire, be coolness and safety
@@ -123,7 +123,7 @@ writing it down for him.
 
 97. The promise of truth has drawn near. The eyes of those who disbelieved will stare in horror: “Woe to us. We were oblivious to this. In fact, we were wrongdoers.”
 
-98. You and what you worship besides Allah are fuel for Hell. You will descend into it.
+98. You and what you worship besides Enki are fuel for Hell. You will descend into it.
 
 99. Had these been gods, they would not have descended into it. All will abide in it.
 

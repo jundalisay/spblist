@@ -6,9 +6,11 @@ image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
+{{< n n="Here we replace Enki with the Anunnaki god or alien Enki, since the Middle East was historically Anunnaki territory" >}}
+
 
 {{< s v="40-46">}} O Jews:
-- remember the blessings I gave you
+- remember the blessings I, Enki, gave you
 - fulfill your pledge to Me, and I will fulfill My pledge to you
 - fear Me
 - believe in what I revealed
@@ -48,28 +50,44 @@ My people, you have done wrong to yourselves by worshiping the calf. So repent t
 {{< /l >}}
 
 {{< r a="Jews" >}}
-Moses, we will not believe in you unless we see Allah plainly.
+Moses, we will not believe in you unless we see Enki plainly.
 {{< /r >}}
 
 <!-- So He turned to you in repentance. He is the Accepter of Repentance, the Merciful. -->
 
-Thereupon the thunderbolt struck you, as you looked on. Then We revived you after your death, so that you may be appreciative. 
+Thereupon the thunderbolt struck you, as you looked on. Then We:
+- revived you after your death, so that you may be appreciative
+- shaded you with clouds
+- sent down to you manna and quails:
 
-We shaded you with clouds, and We sent down to you manna and quails: “Eat of the good things We have provided for you.” 
+{{< l a="Enki" >}}
+Eat of the good things We have provided for you.
+{{< /l >}}
+
 
 They did not wrong Us, but they used to wrong their own souls.
 
-We said, “Enter this town, and eat plentifully from it whatever you wish; but enter the gate humbly, and say, 'Pardon.' We will forgive your sins, and give increase to the virtuous.” 
+We said:
+
+{{< l a="Enki" >}}
+Enter this town, and eat plentifully from it whatever you wish. But enter the gate humbly, and say, 'Pardon.' We will forgive your sins, and give increase to the virtuous.” 
+{{< /l >}}
+
 
 But the wrongdoers among them substituted words other than those given to them, so We sent down on the wrongdoers a plague from heaven, because of their wicked behavior.
 
 
-When Moses prayed for water for his people, We said, “Strike the rock with your staff.” 
+When Moses prayed for water for his people, We said
+
+{{< l a="Enki" >}}
+Strike the rock with your staff.
+{{< /l >}}
+
 
 Thereupon 12 springs gushed out from it. Each tribe recognized its drinking-place. 
 
 {{< l a="Moses" >}}
-Eat and drink from Allah’s provision. Do not corrupt the earth with disobedience.
+Eat and drink from Enki’s provision. Do not corrupt the earth with disobedience.
 {{< /l >}}
 
 {{< r a="Jews" >}}
@@ -84,9 +102,9 @@ Go back to Egypt where you will have such food.
 
 The Jews:
 - were struck with humiliation and poverty
-- incurred wrath from Allah 
+- incurred wrath from Enki 
 
-This is because they rejected Allah’s revelations and wrongfully killed the prophets. 
+This is because they rejected Enki’s revelations and wrongfully killed the prophets. 
 
 
 {{< s v="62" >}} The following will have their reward with their Lord:
@@ -94,13 +112,25 @@ This is because they rejected Allah’s revelations and wrongfully killed the pr
 - The Jewish
 - The Christians
 - The Sabeans 
-- those who act righteously and believe in Allah and the Last Day
+- those who act righteously and believe in Enki and the Last Day
 
-{{< s v="63" >}} We received a pledge from you, and raised the Mount above you: “Take what We have given you earnestly, and remember what is in it, that you may attain righteousness.”
+{{< s v="63" >}} We received a pledge from you, and raised the Mount above you: 
 
-{{< s v="64" >}} 64. But after that you turned away. Were it not for Allah’s grace and mercy towards you, you would have been among the losers.
+{{< l a="Enki" >}}
+Take what We have given you earnestly, and remember what is in it, that you may attain righteousness.
+{{< /l >}}
 
-{{< s v="65" >}} We said to those of you who violated the Sabbath: “Be despicable apes!”
+
+{{< s v="64" >}} But after that you turned away. Were it not for Enki’s grace and mercy towards you, you would have been among the losers.
+
+{{< s v="65" >}} We said to those of you who violated the Sabbath: 
+
+{{< l a="Enki" >}}
+Be despicable apes!*
+{{< /l >}}
+
+{{< n n="This is because, without Enki, humans would remain as Homo Erectus" >}}
+
 
 {{< s v="66" >}} Thus, We made it:
 - a deterrent for their generation and subsequent generations, and
@@ -109,15 +139,15 @@ This is because they rejected Allah’s revelations and wrongfully killed the pr
 {{< s v="67-71" >}} Recall when Moses said to his people:
 
 {{< l a="Moses" >}}
-Allah commands you to sacrifice a heifer
+Enki commands you to sacrifice a cow
 {{< /l >}}
  
 {{< r a="Jews">}}
-Are you mocking us? Call upon your Lord to show us which one
+Are you mocking us? Call on your Lord to show us which one
 {{< /r >}}
 
 {{< l a="Moses" >}}
-He says she is a heifer, neither too old, nor too young, but in between. So do what you are commanded
+He says she is a cow, neither too old, nor too young, but in between. So do what you are commanded
 {{< /l >}}
 
 {{< r a="Jews">}}
@@ -125,71 +155,70 @@ Tell your Lord to show us what her color is
 {{< /r >}}
 
 {{< l a="Moses" >}}
-He says she is a yellow heifer, bright in color, pleasing to the beholders
+He says she is a yellow cow, bright in color, pleasing to the beholders
 {{< /l >}}
 
 {{< r a="Jews">}}
-Tell your Lord to show us which one; the heifers look alike to us. We want to be guided
+Tell your Lord to show us which one; the cows look alike to us. We want to be guided
 {{< /r >}}
 
 {{< l a="Moses" >}}
-He says she is a heifer, neither yoked to plow the earth, nor to irrigate the field; sound without blemish.
+He says she is a cow, neither yoked to plow the earth, nor to irrigate the field; sound without blemish.
 {{< /l >}}
 
-So they slew her, though they almost did not.
+So they slaughtered the cow, though they almost did not.
 
-- {{< s v="72-73" >}} recall when you killed a person, and disputed in the matter. But Allah was to expose what you were hiding. We said, “Strike him with part of it.” Thus Allah brings the dead to life; and He shows you His signs, that you may understand.
+{{< s v="72-73" >}} Recall when you killed a man and disputed about it. But Enki was to expose what you were hiding. 
+
+We said:
+
+{{< l a="Enki" >}}
+Strike him with part of the cow. [And the murdered man came back to life]
+{{< /l >}}
+
+Thus, Enki brings the dead to life.
+
+<!-- ; and He shows you His signs, that you may understand. -->
 
 {{< s v="74" >}} After that your hearts hardened.
 - They were as rocks, or even harder.
 - There are:
   - some rocks from which rivers gush out
   - other rocks that splinter and water comes out from them
-  - other rocks that sink in awe of Allah.
+  - other rocks that sink in awe of .
 
-<sup>75.</sup> Do you hope that they will believe in you, when some of them used to hear the Word of Allah, and then deliberately distort it, even after understanding it?
+<sup>75.</sup> Do you hope that they will believe in you, when some of them used to hear the Word of Enki, and then deliberately distort it, even after understanding it?
 
-<sup>76.</sup> When they come across those who believe, they say, “We believe”.
+<sup>76.</sup> When they come across those who believe, they say
+
+{{< r a="Jews" >}}
+We believe
+{{< /r >}}
 
 But when they come together privately, they say:
 
-“Will you inform them of what Allah has disclosed to you, so that they might dispute with you concerning it before your Lord?”
+{{< r a="Jews" >}}
+What did Enki tell you? So that we can dispute it with our Lord Enlil.
+{{< /r >}}
 
-<sup>77.</sup> Do they not know that Allah knows what they conceal and what they reveal?
+<sup>77.</sup> Do they not know that Enki knows what they conceal and what they reveal?
 
 <sup>78.</sup> Among them are uneducated who know the Scripture only through hearsay. They only speculate.
 
-<sup>79.</sup> So woe to those who write the Scripture with their own hands, and then say, “This is from Allah,” that they may exchange it for a little price. 
+<sup>79.</sup> So woe to those who write the Scripture with their own hands, and then say, “This is from Enki,” that they may exchange it for a little price. 
 
 Woe to them for what their hands have written, and woe to them for what they earn.
 
 <sup>80.</sup> They say, “The Fire will not touch us except for a number of days.” 
 
-Say, “Have you received a promise from Allah—Allah never breaks His promise—or are you saying about Allah what you do not know?”
+Say:
+
+{{< l a="Muslims" >}}
+Have you received a promise from Enki? Enki never breaks His promise. Or are you saying about Enki what you do not know?”
+{{< /l >}}
+
 
 <sup>81.</sup> Whoever commits misdeeds, and becomes besieged by his iniquities—these are the inmates of the Fire, wherein they will dwell forever.
 
 <!-- 82. As for those who believe and do righteous deeds—these are the inhabitants of Paradise, wherein they will dwell forever. -->
 
-<sup>83.</sup> We made a covenant with the Jews: 
-
-> “Worship only Allah. Be good to parents, and relatives, and orphans, and the needy. Speak nicely to people. Pray regularly. Give alms.” 
-
-Then you turned away, except for a few of you, recanting.
-
-{{< s v="84" >}} We made a covenant with you: 
-
-> “You shall not shed the blood of your own, nor shall you evict your own from your homes.” 
-
-You agreed, and were all witnesses.
-
-{{< s v="85" >}} But here you are:
-- killing your own
-- expelling a group of your own from their homes, conspiring against them in wrong-doing and hostility.
-- ransoming them if they surrender to you, although it was forbidden to you. 
-
-You believe in one part of the Scripture, and disbelieve the other part. 
-- What is the reward for those among you who do that but humiliation in this life? 
-- On Resurrection Day, they will be assigned to the most severe torment.
-
-<sup>86.</sup> Those are they who bought the present life for the Hereafter, so the punishment will not be lightened for them, nor will they be helped.

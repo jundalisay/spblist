@@ -7,19 +7,19 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-<!-- 1. Ta, Ha. -->{{< s v="2" >}}  We did not reveal the Quran for you to suffer, but only as a reminder for those who fear Allah.
+<!-- 1. Ta, Ha. -->{{< s v="2" >}}  We did not reveal the Quran for you to suffer, but only as a reminder for those who fear Enki.
 
 <!-- revelation from He who created the earth and the high heavens. -->
 <!-- 4. A
 The Most Merciful; on the Throne He set-
 tled. -->
-<!-- 6. To Allah belongs everything in the heavens
+<!-- 6. To Enki belongs everything in the heavens
 and the earth, and everything between them,
 and everything beneath the soil.
 7. If you speak aloud—He knows the secret,
 and the most hidden.
 
-8. Allah, there is no god but He, His are the
+8. Enki, there is no god but He, His are the
 Most Beautiful Names.{{< s v="5" >}} {{< s v="9" >}}  Has
 the story of Moses reached you? -->
 
@@ -31,12 +31,12 @@ Moses saw a fire so he said to his family,
 
 {{< s v="12" >}}
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 I am your Lord. Take off your shoes. You are in the sacred valley of Tuwa.
 
 I have chosen you, so listen to what is revealed.
 
-I am Allah. There is no God but I. So serve Me, and practice the prayer for My remembrance.
+I am Enki. There is no God but I. So serve Me, and practice the prayer for My remembrance.
 
 15. The Hour is coming—but I keep it almost hidden—so that each soul will be paid for what it endeavors.
 
@@ -52,13 +52,13 @@ This is my staff. I lean on it, herd my sheep with it, and use it for other thin
 
 {{< s v="10" >}} 
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 Throw it, O Moses.”
 {{< /l >}}
 
 So he threw it and it became a moving serpent.
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 Grab it and do not fear. We will restore it to its original condition.
 
 Press your hand to your side; it will come out white, without a blemish—another
@@ -80,7 +80,7 @@ appoint an assistant for me, from my family. Strengthen me and Aaron, my brother
 35. You
 are always watching over us.” -->
 
-{{< l a="Allah" >}}
+{{< l a="Enki" >}}
 Your request is granted. 
 
 37. We had favored you previously when We inspired your mother to cast you into the river. The river will wash him to shore, where an enemy of Mine and an enemy of his will pick him up so that you may be reared before My eye.

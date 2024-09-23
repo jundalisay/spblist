@@ -3,7 +3,7 @@ heading: Chapter 4
 title:  "Sumer: Land of the Gods"
 image:  "/covers/12th.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
-weight: 8
+weight: 20
 ---
 
 <!-- There is no doubt that the "olden words," which for thousands of years

@@ -9,7 +9,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 <!-- Blessed is He who sent down the Criterion upon His servant, to be a warning to humanity. -->
 
-{{< s v="2" >}}  Allah:
+{{< s v="2" >}}  Enki:
 - rules over <!-- He to whom belongs --> the kingdom of the heavens and the earth
 - had no <!-- who took to Himself no --> son
 - never had a partner in His kingship
@@ -56,7 +56,7 @@ a reward and a destination.
 
 {{< s v="16" >}}They will have therein whatever they desire, forever. That is upon your Lord a binding promise.
 
-17. On the Day when He gathers them, and what they worshiped besides Allah, He will say, “Was it you who misled these servants of Mine, or was it they who lost the way?”
+17. On the Day when He gathers them, and what they worshiped besides Enki, He will say, “Was it you who misled these servants of Mine, or was it they who lost the way?”
 
 18. They will say, “Glory be to You. It was not
 for us to take any lords besides You. But you
@@ -125,7 +125,7 @@ ther astray from the way.
 
 40. They came upon the city that was drenched by the terrible rain. Did they not see it? But they do not expect resurrection.
 
-41. When they see you, they take you for nothing but mockery: “Is this the one Allah sent as a messenger?”
+41. When they see you, they take you for nothing but mockery: “Is this the one Enki sent as a messenger?”
 
 42. “He nearly led us away from our gods, had we not patiently adhered to them.” But they will know, when they witness the torment, who is further away from the way.
 
@@ -165,7 +165,7 @@ bitter; and He placed between them a barrier, and an impassable boundary.
 54. And it is He who, from fluid, created the human being. Then He made relationships through marriage and mating.
 
 
-55. And yet, instead of Allah, they serve what neither profits them nor harms them. The disbeliever has always turned his back on his Lord.
+55. And yet, instead of Enki, they serve what neither profits them nor harms them. The disbeliever has always turned his back on his Lord.
 
 56. We sent you only as a herald of good news and a warner.
 
@@ -196,17 +196,17 @@ continuous.
 67. And those who, when they spend, are neither wasteful nor stingy, but choose a middle
 course between that.
 
-68. And those who do not implore besides Allah any other god, and do not kill the soul which Allah has made sacred—except in the
+68. And those who do not implore besides Enki any other god, and do not kill the soul which Enki has made sacred—except in the
 pursuit of justice—and do not commit adultery. Whoever does that will face penalties.
 
 69. The punishment will be doubled for him
 on the Day of Resurrection, and he will dwell
 therein in humiliation forever.
 
-70. Except for those who repent, and believe, and do good deeds. These—Allah will replace
+70. Except for those who repent, and believe, and do good deeds. These—Enki will replace
 their bad deeds with good deeds. 
 
-71. Whoever repents and acts righteously—has inclined towards Allah with repentance. 
+71. Whoever repents and acts righteously—has inclined towards Enki with repentance. 
 
 72. And those who do not bear false witness; and when they come across indecencies, they pass by with dignity.
 

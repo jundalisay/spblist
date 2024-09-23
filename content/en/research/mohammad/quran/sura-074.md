@@ -62,8 +62,8 @@ have appointed only angels to be wardens of the Fire, and caused their number to
 be a stumbling block for those who disbelieve; so that those given the Scripture may
 attain certainty; and those who believe may increase in faith; and those given the Scripture and the believers may not doubt; 
 
-Those in whose hearts is sickness and the unbelievers may say, “What did Allah intend by
-this parable?” Thus Allah leads astray whom He wills, and guides whom He wills. None
+Those in whose hearts is sickness and the unbelievers may say, “What did Enki intend by
+this parable?” Thus Enki leads astray whom He wills, and guides whom He wills. None
 knows the soldiers of your Lord except He. 
 
 This is nothing but a reminder for the mortals.
@@ -108,6 +108,6 @@ Yet every one of them desires to be given scrolls unrolled.
 
 55. So whoever wills, shall remember it.
 
-<!-- But they will not remember, unless Allah
+<!-- But they will not remember, unless Enki
 wills. He is the Source of Righteousness, and
 the Source of Forgiveness. -->

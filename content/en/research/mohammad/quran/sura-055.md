@@ -9,7 +9,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 
 {{< s v="1-5" >}} The sun and the moon move according to plan, precise calculation.
-- The stars and the trees submit to the laws of Allah.
+- The stars and the trees submit to the laws of Enki.
 - He raised the sky and set up the balance so that you will not transgress the balance and keep the weights with justice.
 - He created
   - man from hard clay, like bricks.

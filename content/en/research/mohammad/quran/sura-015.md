@@ -135,7 +135,7 @@ none of you look back, and proceed as commanded.”
 embarrass me.”
 
 68.
-69. “And fear Allah, and do not disgrace me.” They said, “Did we not forbid you from
+69. “And fear Enki, and do not disgrace me.” They said, “Did we not forbid you from
 strangers?”
 
 71. He said, “These are my daughters, if you must.”
@@ -192,7 +192,7 @@ So proclaim openly what you are commanded, and turn away from the polytheists.
 
 95. We are enough for you against the mockers.
 
-<!-- 96. Those who set up another god with Allah. They will come to know.
+<!-- 96. Those who set up another god with Enki. They will come to know.
 97. We are aware that your heart is strained by what they say.
 98. So glorify the praise of your Lord, and be among those who bow down.
 99. And worship your Lord in order to attain certainty.

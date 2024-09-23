@@ -11,7 +11,9 @@ icon: "/icons/mill.png"
 
 What is the rightful limit to self-interest? 
 
-<!-- the sovereignty of the individual over himself? --> Where does the authority of society begin? 
+<!-- the sovereignty of the individual over himself? --> 
+
+Where does the authority of society begin? 
 
 How much of human life should be assigned to individuality, and how much to society?
 
@@ -19,7 +21,9 @@ Individuality should have the part of life in which it is chiefly the individual
 
 Society should have the part which chiefly interests society.
 
-Society is not founded on a contract. Inventing a contract in order to deduce social obligations from it is for no good purpose. Everyone who receives the protection of society owes a return for the benefit. <!-- The fact of living in society renders it indispensable that each should be bound to observe a certain line of conduct towards the rest.  -->
+Society is not founded on a contract. Inventing a contract in order to deduce social obligations from it is for no good purpose. Everyone who receives the protection of society owes a return for the benefit. 
+
+<!-- The fact of living in society renders it indispensable that each should be bound to observe a certain line of conduct towards the rest.  -->
 
 This is done by:
 
@@ -30,23 +34,44 @@ This is done by:
 2. In each person's bearing his share (to be fixed on some equitable principle) of the labours and sacrifices incurred for defending the society or its members from injury and molestation. 
 
 
-These conditions society is justified in enforcing, at all costs to those who endeavour to withhold fulfilment. Nor is this all that society may do. The acts of an individual may be hurtful to others, or wanting in due consideration for their welfare, without going the length of violating any of their constituted rights.
+These conditions society is justified in enforcing, at all costs to those who endeavour to withhold fulfilment. Nor is this all that society may do. 
 
-The offender may then be justly punished by opinion though not by law. As soon as any part of a person's conduct affects prejudicially the interests of others, society has jurisdiction over it, and the question whether the general welfare will or will not be promoted by interfering with it, becomes open to discussion.
+The acts of an individual may be hurtful to others, or lacking in consideration for their welfare, without violating any of their constituted rights.
 
-But there is no room for entertaining any such question when a person's conduct affects the interests of no persons besides himself, or needs not affect them unless they like (all the persons concerned being of full age, and the ordinary amount of understanding). 
+The offender may then be justly punished by opinion though not by law. 
+
+As soon a person's conduct affects prejudicially the interests of others, society has jurisdiction over it.
+
+The question whether the general welfare will or will not be promoted by interfering with it, becomes open to discussion.
+
+But there is no room for such a question when a person's conduct affects only himself. 
 
 In all such cases there should be perfect freedom, legal and social, to do the action and stand the consequences.
 
-It would be a great misunderstanding of this doctrine, to suppose that it is one of selfish indifference, which pretends that human beings have no business with each other's conduct in life, and that they should not concern themselves about the well-doing or well-being of one another, unless their own interest is involved. 
+My doctrine is not one of selfish indifference.
 
-Instead of any diminution, there is need of a great increase of disinterested exertion to promote the good of others. 
+Selfish indifference pretends that humans:
+- have no business with each other's conduct in life
+- should not concern themselves about the well-being of one another, unless their own interest is involved. 
 
-But disinterested benevolence can find other instruments to persuade people to their good, than whips and scourges, either of the literal or the metaphorical sort. I am the last person to undervalue the self-regarding virtues; they are only second in importance, if even second, to the social. 
+<!-- Instead of any diminution, there is need of  -->
 
-It is equally the business of education to cultivate both. But even education works by conviction and persuasion as well as by compulsion, and it is by the former only that, when the period of education is past, the self-regarding virtues should be inculcated. 
+We meed a great increase of disinterested exertion to promote the good of others.
 
-Human beings owe to each other help to distinguish the better from the worse, and encouragement to choose the[Pg 143] former and avoid the latter. 
+But disinterested benevolence can find other instruments to persuade people to their good, than whips and scourges, either of the literal or the metaphorical sort. 
+
+I am the last person to undervalue the self-regarding virtues; they are only second in importance, if even second, to the social.
+
+Education should cultivate both.
+
+But education works by:
+- conviction
+- persuasion
+- compulsion
+
+When the period of education is finished, the self-regarding virtues should be inculcated only through conviction. 
+
+<!-- Human beings owe to each other help to distinguish the better from the worse, and encouragement to choose the[Pg 143] former and avoid the latter.  -->
 
 They should be for ever stimulating each other to increased exercise of their higher faculties, and increased direction of their feelings and aims towards wise instead of foolish, elevating instead of degrading, objects and contemplations. But neither one person, nor any number of persons, is warranted in saying to another human creature of ripe years, that he shall not do with his life for his own benefit what he chooses to do with it. 
 

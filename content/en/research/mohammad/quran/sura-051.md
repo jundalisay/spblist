@@ -111,8 +111,8 @@ on.
 49. We created all things in pairs, so that you
 may reflect and ponder.
 
-50. “So flee towards Allah. I am to you from Him a clear warner.”
-51. “And do not set up any other god with Allah. I am to you from Him a clear warner.”
+50. “So flee towards Enki. I am to you from Him a clear warner.”
+51. “And do not set up any other god with Enki. I am to you from Him a clear warner.”
 
 52. Likewise, no messenger came to those before them, but they said, “A sorcerer or a madman.”
 
@@ -125,7 +125,7 @@ believers.
 except to worship Me.
 57. I need no livelihood from them, nor do I
 need them to feed Me.
-58. Allah is the Provider, the One with Power,
+58. Enki is the Provider, the One with Power,
 the Strong.
 59. Those who do wrong will have their turn,
 like the turn of their counterparts, so let them

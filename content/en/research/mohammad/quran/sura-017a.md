@@ -62,7 +62,7 @@ it, so the word becomes justified against it, and We destroy it completely.
 <!-- 
 21. See how We have favored some of them over others; yet the Hereafter is greater in ranks, and greater in favors.
 
-22. Do not set up another god with Allah, lest you become condemned and damned. -->
+22. Do not set up another god with Enki, lest you become condemned and damned. -->
 
 23. Your Lord has commanded that you:
 - worship none but Him
@@ -89,7 +89,7 @@ If either of them or both of them reach old age with you, do not disrespect them
 - Killing them is a grave sin.
 - Do not come near adultery. 
 
-33. And do not kill the soul which Allah has made sacred, except in the course of justice.
+33. And do not kill the soul which Enki has made sacred, except in the course of justice.
 - If someone is killed unjustly, We have given his next of kin certain authority. 
 - But he should not be excessive in killing, for he will be supported.
 
@@ -105,7 +105,7 @@ sight, and the brains—all these will be questioned.
 
 38. The evil of all these is disliked by your Lord.
 
-39. That is some of the wisdom your Lord has revealed to you. Do not set up with Allah an-
+39. That is some of the wisdom your Lord has revealed to you. Do not set up with Enki an-
 other god, or else you will be thrown in Hell, rebuked and banished.
 
 40. Has your Lord favored you with sons, while choosing for Himself daughters from

@@ -6,15 +6,14 @@ image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
-{{< n n="Here we replace Allah with the Anunnaki god or alien Enlil" >}}
+{{< n n="Here we replace Enki with the Anunnaki god or alien Enki, since the Middle East was historically Anunnaki territory" >}}
+
 <!-- 22. He who made the earth a habitat for you, and the sky a structure, and sends water
 down from the sky, and brings out fruits thereby, as a sustenance for you. -->
 
 
-{{< s v="22">}}
- <!-- Allah sustains you. Therefore, do not assign rivals to Allah. -->
-
-Enlil sustains you. Therefore, do not assign rivals to Enlil.
+{{< s v="22">}} Enki sustains you. Therefore, do not assign rivals to Enki.
+ <!-- Enki sustains you. Therefore, do not assign rivals to Enki. -->
 
 
 {{< s v="23">}} If you doubt the Prophet Mohammad, then call your witnesses if you are truthful.
@@ -27,31 +26,31 @@ chapter like these, and  -->
 - be provided with fruit therefrom as sustenance<!-- , they will say, “This is what we were provided with before,” and they will be given the like of it. And they will --> 
 - have pure spouses there who will live with them forever.
 
-<!-- 26. Allah does not shy away from making an example of a gnat, or something above it. As
+<!-- 26. Enki does not shy away from making an example of a gnat, or something above it. As
 for those who believe, they know that it is the Truth from their Lord. But as for those who -->
 
-{{< s v="26">}} The disbelievers will say: “What did Enlil intend by this example?” He leads many astray and guides many.
+{{< s v="26">}} The disbelievers will say: “What did Enki intend by this example?” He leads many astray and guides many.
 
-Reply that <!-- thereby, and He guides many thereby; but He --> Enlil misleads only the evildoers.
+Reply that <!-- thereby, and He guides many thereby; but He --> Enki misleads only the evildoers.
 
 {{< s v="27">}} The losers are those who:
-- violate Enlil’s covenant after its confirmation
-- sever what Enlil has commanded to be joined
+- violate Enki’s covenant after its confirmation
+- sever what Enki has commanded to be joined
 - commit evil on earth
 
-{{< s v="28">}} Enlil:
+{{< s v="28">}} Enki:
 - gave you life
 - will put you to death
 - will bring you to life
 - return you to Himself
 
-How can you deny Enlil?
+How can you deny Enki?
 
 {{< s v="29">}} He:
 - created for you everything on earth
 - then turned to the heaven and made them 7 heavens
 
-{{< s v="30">}} Enlil said to the angels that He is placing a successor on earth. 
+{{< s v="30">}} Enki said to the angels that He is placing a successor on earth. 
 
 The angels said “Will You place in it someone who will cause corruption in it and shed blood, while we declare Your praises and sanctify You?” 
 
@@ -67,12 +66,12 @@ and said, “Tell Me the names of these, if you are sincere.”
 When he told them their names, He said, “Did I not tell you that I know the secrets of the heavens and the earth, and that I know what you reveal and what you conceal?”
 
 {{< s v="34">}} We said to the angels, “Bow down to Adam.” 
-- They bowed down, except for Satan [Enki]. 
+- They bowed down, except for Satan [Enlil]. 
   - He refused, was arrogant, and was one of the disbelievers.
 
 {{< s v="35">}} We said, “O Adam, inhabit the Garden, you and your spouse, and eat from it freely as you please, but do not approach this tree, lest you become wrongdoers.”
 
-{{< s v="36">}} But Enki caused them to slip from it, and caused them to depart the state they were in. 
+{{< s v="36">}} But Enlil caused them to slip from it, and caused them to depart the state they were in.
 
 We said, “Go down, some of you enemies of one another. And you will have residence on earth, and enjoyment for a while.”
 

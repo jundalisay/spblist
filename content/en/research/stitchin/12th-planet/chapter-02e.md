@@ -1,148 +1,112 @@
 ---
 heading: Chapter 2b
-title:  "The Sudden Civilization"
+title:  "The Importance of Clay to the Sumerians"
 image:  "/covers/12th.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
-weight: 4
+weight: 9
 ---
 
 
+Just as our own economic and social system—our books, court and tax records, commercial contracts, marriage certificates, and so on—depends on paper, Sumerian/Mesopotamian life depended on clay. 
 
-One of Sumer's earliest material achievements was the development of textile and clothing industries.
+Temples, courts, and trading houses had their scribes ready with tablets of wet clay on which to inscribe decisions, agreements, letters, or calculate prices, wages, the area of a field, or the number of bricks required in a construction.
 
-Our own Industrial Revolution is considered to have commenced with the introduction of spinning and weaving machines in England in the 1760s. Most developing nations have aspired ever since to develop a textile industry as the first step toward industrialization. The evidence shows that this has been the process not only since the eighteenth century but ever since man's first great civilization. 
+Clay was also a crucial raw material for the manufacture of utensils for daily use and containers for storage and transportation of goods. 
 
-Man could not have made woven fabrics before the advent of agriculture, which provided him with flax, and the domestication of animals, creating a source for wool. Grace M. Crowfoot (Textiles, Basketry and Mats in Antiquity) expressed the scholastic consensus by stating that textile weaving appeared first in Mesopotamia, around 3800 B.C.
+It was also used to make bricks—another Sumerian "first," which made possible the building of houses for the people, palaces for the kings, and imposing temples for the gods.
 
-Sumer, moreover, was renowned in ancient times not only for its woven fabrics, but also for its apparel. The Book of Joshua (7:21) reports that during the storming of Jericho a certain person could not resist the temptation to keep "one good coat of Shin'ar," which he had found in the city, even though the penalty was death. 
+ 
 
-So highly prized were the garments of Shinar (Sumer), that people were willing to risk their lives to obtain them.
+Reinforcing and firing are technological breakthroughs credited to the Sumerians.
+- These combined lightness with tensile strength for all clay products
 
-A rich terminology already existed in Sumerian times to describe both items of clothing and their makers. The basic garment was called TUG—without doubt, the forerunner in style as well as in name of the Roman toga. Such garments were TUG.TU.SHE, which in Sumerian meant "garment which is worn wrapped around."
+Modern architects have discovered that reinforced concrete, an extremely strong building material, can be created by pouring cement into molds containing iron rods.
 
-(Fig. 16)
-Illustration:
-Toga-style Clothing
+Long ago, the Sumerians gave their bricks great strength by mixing the wet clay with chopped reeds or straw. 
 
-The ancient depictions reveal not only an astonishing variety and opulence in matters of clothing, but also elegance, in which good taste and coordination among clothes, hairdos, headdresses, and jewelry prevailed. (Figs. 17, 18) 
+They also knew that clay products could be given tensile strength and durability by firing them in a kiln. 
 
-Illustration:
-Headdress
-Illustration:
-Head Jewelry
-
-Another major Sumerian achievement was its agriculture. In a land with only
-seasonal rains, the rivers were enlisted to water year-round crops through a vast
-system of irrigation canals.
-
-Mesopotamia—the Land Between the Rivers—was a veritable food basket in ancient times. The apricot tree, the Spanish word for which is damasco ("Damascus tree"), bears the Latin name anneniaca, a loanword from the Akkadian annanu. The cherry—kerasos in Greek, Kirsche in German—originates from the Akkadian karshu. 
-
-All the evidence suggests that these and other fruits and vegetables reached Europe from Mesopotamia. So did many special seeds and spices: Our word saffron comes from the Akkadian azupiranu, crocus from kurkanu (via krokos in Greek), cumin from kamanu, hyssop from zupu, myrrh from murru. 
-
-The list is long; in many instances, Greece provided the physical and etymological bridge by which these products of the land reached Europe. Onions, lentils, beans, cucumbers, cabbage, and lettuce were common ingredients of the Sumerian diet.
-
-What is equally impressive is the extent and variety of the ancient Mesopotamian food-preparation methods, their cuisine. Texts and pictures confirm the Sumerian knowledge of converting the cereals they had grown into flour, from which they made a variety of leavened and unleavened breads, porridges, pastries, cakes, and biscuits. 
-
-Barley was also fermented to produce beer; "technical manuals" for beer production have been found among the texts. 
-
-Wine was obtained from grapes and from date palms. Milk was available from sheep, goats, and cows; it was used as a beverage, for cooking, and for converting into yogurt, butter, cream, and cheeses. Fish was a common part of the diet.
-
-Mutton was readily available, and the meat of pigs, which the Sumerians tended in large herds, was considered a true delicacy. Geese and ducks may have been reserved for the gods' tables.
-
-The ancient texts leave no doubt that the haute cuisine of ancient Mesopotamia developed in the temples and in the service of the gods. One text prescribed the offering to the gods of "loaves of barley bread… loaves of emmer bread; a paste of honey and cream; dates, pastry… beer, wine, milk… cedar sap, cream." 
-
-Roasted meat was offered with libations of "prime beer, wine, and milk." A specific cut of a bull was prepared according to a strict recipe, calling for "fine flour… made to a dough in water, prime beer, and wine," and mixed with animal fats, "aromatic ingredients made from hearts of plants," nuts, malt, and spices. 
-
-Instructions for "the daily sacrifice to the gods of the city of Uruk" called for the serving of 5 different beverages with the meals, and specified what "the millers in the kitchen" and "the chef working at the kneading trough" should do.
-
-Our admiration for the Sumerian culinary art certainly grows as we come across
-poems that sing the praises of fine foods. Indeed, what can one say when one
-reads a millennias-old recipe for "coq au vin":
-
-{{< q >}}
-In the wine of drinking,
-In the scented water,
-In the oil of unction
-This bird have I cooked,
-and have eaten.
-{{< /q >}}
+The world's first high-rise buildings and archways, as well as durable ceramic wares, were made possible by these technological breakthroughs.
 
 
-A thriving economy, a society with such extensive material enterprises could not have developed without an efficient system of transportation. The Sumerians used their two great rivers and the artificial network of canals for waterborne transportation of people, goods, and cattle. Some of the earliest depictions show what were undoubtedly the world's first boats.
+The invention of the kiln—a furnace in which intense but controllable temperatures could be attained without the risk of contaminating products with dust or ashes—made possible an even greater technological advance: the Age of Metals.
 
-The Sumerians also engaged in deep-water seafaring, using a variety of ships to reach faraway lands in search of metals, rare woods and stones, and other materials unobtainable in Sumer proper. An Akkadian dictionary of the Sumerian language was found to contain a section on shipping; listing 105 Sumerian terms for various ships by their size, destination,
-or purpose (for cargo, for passengers, or for the exclusive use of certain gods).
+It has been assumed that man discovered that he could hammer "soft stones"— naturally occurring nuggets of gold as well as copper and silver compounds—into useful or pleasing shapes, sometime about 6000 B.C. 
 
-Another 69 Sumerian terms connected with the manning and construction of ships were translated into the Akkadian. Only a long seafaring tradition could have produced such specialized vessels and technical terminology. 
+The first hammered-metal artifacts were found in the highlands of the Zagros and Taurus mountains. 
 
-For overland transportation, the wheel was first used in Sumer. Its invention and introduction into daily life made possible a variety of vehicles, from carts to chariots, and no doubt also granted Sumer the distinction of having been the first to employ "ox power" as well as "horse power" for locomotion. (Fig. 19) 
+However, as R. J. Forbes (The Birthplace of Old World Metallurgy) pointed out, "in the ancient Near East, the supply of native copper was quickly exhausted, and the miner had to turn to ores." 
+
+This required the knowledge and ability to find and extract the ores, crush them, then smelt and refine them—processes that could not have been carried out without kiln-type furnaces and a generally advanced technology.
+
+The art of metallurgy soon encompassed the ability to alloy copper with other metals, resulting in a castable, hard, but malleable metal we call bronze. 
+
+The Bronze Age, our first metallurgical age, was also a Mesopotamian contribution to modern civilization. Much of ancient commerce was devoted to the metals trade; it also formed the basis for the development in Mesopotamia of banking and the first money—the silver shekel ("weighed ingot"). 
+
+The many varieties of metals and alloys for which Sumerian and Akkadian names have been found and the extensive technological terminology attest to the high level of metallurgy in ancient Mesopotamia. 
+
+Sumer did not have metal ores, yet metallurgy definitely began there because it had energy. 
+
+Smelting, refining, alloying, and casting need ample supplies of fuels to fire the kilns, crucibles, and furnaces. 
+
+Mesopotamia was rich in fuels.*
+
+{{< n n="This proves that the Anunnaki technology was not as advanced as the Essassani because they still used fuels whereas the Essassani use spacetime energy. It also explains why the Anunnaki planet was suffering from global warming" >}} 
+
+The ores were brought to the fuels. This explains many early inscriptions describing the bringing of metal ores from afar.
+
+The fuels that made Sumer technologically supreme were bitumens and asphalts, petroleum products that naturally seeped up to the surface in many places in Mesopotamia. 
+
+R. J. Forbes (Bitumen and Petroleum in Antiquity) shows that the surface deposits of Mesopotamia were the ancient world's prime source of fuels from the earliest times to the Roman era. 
+
+His conclusion is that the technological use of these petroleum products began in Sumer circa 3500 BC.
+
+He shows that the use and knowledge of the fuels and their properties were greater in Sumerian times than in later civilizations.
+
+So extensive was the Sumerian use of these petroleum products—not only as fuel but also as road-building materials, for waterproofing, caulking, painting, cementing, and molding—that when archaeologists searched for ancient Dr they found it buried in a mound that the local Arabs called "Mound of Bitumen." 
+
+Forbes shows that the Sumerian language had terms for every genus and variant of the bituminous substances found in Mesopotamia. Indeed, the names of bituminous and petroleum materials in other languages—Akkadian, Hebrew, Egyptian, Coptic, Greek, Latin, and Sanskrit—can clearly be traced to the Sumerian origins; for example, the most common word for petroleum—naphta—derives from napatu ("stones that flare up").
+
+The Sumerian use of petroleum products was also basic to an advanced chemistry. We can judge the high level of Sumerian knowledge not only by the variety of paints and pigments used and such processes as glazing but also by the remarkable artificial production of semiprecious stones, including a substitute for lapis lazuli.
 
 
-In 1956 Professor Samuel N. Kramer, one of the great Sumerologists of our time, reviewed the literary legacy found beneath the mounds of Sumer. 
+Bitumens were also used in Sumerian medicine, another field where the standards were impressively high. The hundreds of Akkadian texts that have been found employ Sumerian medical terms and phrases extensively, pointing to the Sumerian origin of all Mesopotamian medicine.
 
-The table of contents of From the Tablets of Sumer has 25 chapters described a Sumerian "first":
-- the first schools
-- the first bicameral congress
-- the first historian
-- the first pharmacopoeia
-- the first "farmer's almanac"
-- the first cosmogony and cosmology
-- the first "Job"
-- the first proverbs and sayings
-- the first literary debates
-- the first "Noah"
-- the first library catalogue
-- Man's first Heroic Age
-- his first law codes and social reforms
-- his first medicine, agriculture, and search for world peace and harmony.
+The library of Ashurbanipal in Nineveh included a medical section. The texts were divided into three groups—bultitu ("therapy"), shipir bel imti ("surgery") and urti mashmashshe ("commands and incantations"). 
 
+Early law codes included sections dealing with fees payable to surgeons for successful operations, and penalties to be imposed on them in case of failure: A surgeon, using a lancet to open a patient's temple, was to lose his hand if he accidentally destroyed the patient's eye.
 
-The first schools were established in Sumer as a direct outgrowth of the invention and introduction of writing. 
+Some skeletons found in Mesopotamian graves bore unmistakable marks of brain surgery. A partially broken medical text speaks of the surgical removal of a "shadow covering a man's eye," probably a cataract; another text mentions the use of a cutting instrument, stating that "if the sickness has reached the inside of the bone, you shall scrape and remove."
 
-The evidence (both archaeological, such as actual school buildings, and written, such as exercise tablets) indicates the existence of a formal system of education by the beginning of the 3rd millennium BC. 
+Sick persons in Sumerian times could choose between an A.ZU ("water physician") and an IA.ZU ("oil physician"). A tablet excavated in Ur, nearly 5,000 years old, names a medical practitioner as "Lulu, the doctor." 
 
-There were literally thousands of scribes in Sumer, ranging from junior scribes to high scribes, royal scribes, temple scribes, and scribes who assumed high state office.
+There were also veterinarians-known either as "doctors of oxen" or as "doctors of asses." 
 
-Some acted as teachers at the schools, and we can still read their essays on the schools, their aims and goals, their curriculum and teaching methods.
+A pair of surgical tongs is depicted on a very early cylinder seal, found at Lagash, that belonged to "Urlugaledina, the doctor." The seal also shows the serpent on a tree—the symbol of medicine to this day. (Fig. 14) An instrument that was used by midwives to cut the umbilical cord was also frequently depicted. 
 
-The schools taught not only language and writing but also the sciences of the day—botany, zoology, geography, mathematics, and theology. Literary works of the past were studied and copied, and new ones were composed.
+Sumerian medical texts deal with diagnosis and prescriptions. They leave no doubt that the Sumerian physician did not resort to magic or sorcery. He recommended cleaning and washing; soaking in baths of hot water and mineral solvents; application of vegetable derivatives; rubbing with petroleum compounds. 
 
-The schools were headed by the ummia ("expert professor"), and the faculty invariably included not only a "man in charge of drawing" and a "man in charge of Sumerian," but also a "man in charge of the whip." 
+Medicines were made from plant and mineral compounds and were mixed with liquids or solvents appropriate to the method of application. 
 
-Apparently, discipline was strict; one school alumnus described on a clay tablet how he had been flogged for missing school, for insufficient neatness, for loitering, for not keeping silent, for misbehaving, and even for not having neat handwriting.
+If taken by mouth, the powders were mixed into wine, beer, or honey; if "poured through the recturn"—administered in an enema—they were mixed with plant or vegetable oils. Alcohol, which plays such an important role in surgical disinfection and as a base for many medicines, reached our languages through the Arabic kohl, from the Akkadian kuhlu.
 
-An epic poem dealing with the history of Erech concerns itself with the rivalry between Erech and the city-state of Kish. The epic text relates how the envoys of Kish proceeded to Erech, offering a peaceful settlement of their dispute. 
+Models of livers indicate that medicine was taught at medical schools with the aid of clay models of human organs. Anatomy must have been an advanced science, for temple rituals called for elaborate dissections of sacrificial animals—only a step removed from comparable knowledge of human anatomy.
 
-But the ruler of Erech at the time, Gilgamesh, preferred to fight rather than negotiate.
+Several depictions on cylinder seals or clay tablets show people lying on some kind of surgical table, surrounded by teams of gods or people. We know from epics and other heroic texts that the Sumerians and their successors in Mesopotamia were concerned with matters of life, sickness, and death. 
 
-What is interesting is that he had to put the matter to a vote in the Assembly of the Elders, the local "Senate":
+Men like Gilgamesh, a king of Erech, sought the "Tree of Life" or some mineral (a "stone") that could provide eternal youth. There were also references to efforts to resurrect the dead, especially if they happened to be gods:
 
-The lord Gilgamesh,
-Before the elders of his city put the matter,
+Upon the corpse, hung from the pole,
+they directed the Pulse and the Radiance;
+Sixty times the Water of Life,
+Sixty times the Food of Life,
+they sprinkled upon it;
+And Inanna arose.
 
-Seeks out the decision:
+Were some ultramodern methods, about which we can only speculate, known and used in such revival attempts? That radioactive materials were known and used to treat certain ailments is certainly suggested by a scene of medical treatment depicted on a cylinder seal dating to the very beginning of Sumerian civilization. 
 
-"Let us not submit to the house of Kish,
-let us smite it with weapons."
+It shows a man lying on a special bed; his face is protected by a mask, and he is being subjected to some kind of radiation. (Fig. 15)
 
-The Assembly of the Elders was, however, for negotiations. Undaunted, Gilgamesh took the matter to the younger people, the Assembly of the Fighting Men, who voted for war. The significance of the tale lies in its disclosure that a Sumerian ruler had to submit the question of war or peace to the first bicameral congress, some 5,000 years ago.
-
-The title of First Historian was bestowed by Kramer on Entemena, king of Lagash, who recorded on clay cylinders his war with neighboring Umma. While other texts were literary works or epic poems whose themes were historical events, the inscriptions by Entemena were straight prose, written solely as a factual record of history.
-
-Because the inscriptions of Assyria and Babylonia were deciphered well before
-the Sumerian records, it was long believed that the first code of laws was compiled
-and decreed by the Babylonian king Hammurabi, circa 1900 B.C. But as Sumer's
-civilization was uncovered, it became clear that the "firsts" for a system of laws, for
-concepts of social order, and for the fair administration of justice belonged to
-Sumer.
-
-Well before Hammurabi, a Sumerian ruler of the city-state of Eshnunna (northeast of Babylon) encoded laws that set maximum prices for foodstuffs and for the rental of wagons and boats so that the poor could not be oppressed. There
-were also laws dealing with offenses against person and property, and regulations
-pertaining to family matters and to master-servant relations.
-
-Even earlier, a code was promulgated by Lipit-Ishtar, a ruler of Isin. The thirtyeight laws that remain legible on the partly preserved tablet (a copy of an original that was engraved on a stone stela) deal with real estate, slaves and servants, marriage and inheritance, the hiring of boats, the rental of oxen, and defaults on taxes.
-
-As was done by Hammurabi after him, Lipit-Ishtar explained in the prologue to his code that he acted on the instructions of "the great gods," who had ordered him "to bring well-being to the Sumerians and the Akkadians."
-
-Yet even Lipit-Ishtar was not the first Sumerian law encoder. Fragments of clay tablets that have been found contain copies of laws encoded by Urnammu, a ruler of Ur circa 2350 B.C.—more than half a millennium before Hammurabi. 
-
+<!-- Illustration:
+Medical Radiation Treatment
+ -->
