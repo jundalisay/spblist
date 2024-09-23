@@ -119,7 +119,8 @@ paginate = 12
       heading = "The Soul of the Physical Universe"
       title = "Material Superphysics"
       sub = "Based on Descartes and the Five Elements of the Ancient Greeks, Hindus, and Chinese"
-      youtube = "3l9J6tH4iD0"
+      # youtube = "3l9J6tH4iD0"
+      youtube = "lmsTdzBql5o"
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.en.params.tricon2.items.a]

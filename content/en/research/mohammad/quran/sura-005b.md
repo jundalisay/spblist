@@ -3,7 +3,7 @@ title: "The Christians"
 heading: "Sura 5b "
 weight: 52
 image: "/covers/quran.jpg"
-description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Enki has come to you, and a clear Book."
+description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden."
 ---
 
 
@@ -29,9 +29,17 @@ Enki can annihilate the Christ son of Mary, his mother, and everyone on earth.
 
 <!-- To Enki belongs the sovereignty of the heavens and the earth and what is between them. He creates whatever He wills, and Enki has power over everything. -->
 
-{{< s v="18" >}} The Jews and the Christians say, “We are the children of Enki, and His beloved.” 
+{{< s v="18" >}} The Jews and the Christians say:
 
-Reply to them: “Why then does He punish you for your sins?” 
+{{< r a="Jews" >}}
+We are the children of Enki, and His beloved.
+{{< /r >}}
+
+Reply:
+
+{{< l a="Muslims" >}}
+Why then does He punish you for your sins?
+{{< /l >}}
 
 In fact, you are humans from among those He created. 
 
@@ -147,14 +155,12 @@ them equitably. Enki loves the equitable.
 Yet they turn away after that. These are not believers.
 
 
-{{< s v="44" >}} We have revealed the Torah, wherein is guidance and light. The submissive prophets
-ruled the Jews according to it, so did the rabbis and the scholars, as they were required to protect Enki’s Book, and were witnesses to it.
+{{< s v="44" >}} We have revealed the Torah, wherein is guidance and light. The submissive prophets ruled the Jews according to it, so did the rabbis and the scholars, as they were required to protect Enki’s Book, and were witnesses to it.
 
 So do not fear people, but fear Me. And do not sell My revelations for a cheap price.
 Those who do not rule according to what Enki revealed are the unbelievers.
 
-{{< s v="45" >}} We wrote for them in it: a life for a life, an eye for an eye, a nose for a nose, an ear for
-an ear, a tooth for a tooth, and an equal wound for a wound; but whoever forgoes it in charity, it will serve as atonement for him.
+{{< s v="45" >}} We wrote for them in it: a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and an equal wound for a wound; but whoever forgoes it in charity, it will serve as atonement for him.
 
 Those who do not rule according to what Enki revealed are the evildoers.
 
@@ -182,8 +188,7 @@ To Enki is your return, all of you.
 
 Beware of them, lest they lure you away from some of what Enki has revealed to you. 
 
-But if they turn away, know that Enki intends to strike them with some of their sins. In fact, a great many people are
-corrupt. 
+But if they turn away, know that Enki intends to strike them with some of their sins. In fact, a great many people are corrupt. 
 
 {{< s v="50" >}} Is it the laws of the time of ignorance that they desire? 
 
@@ -198,20 +203,22 @@ Who is better than Enki in judgment for people who are certain?
 
 {{< s v="52" >}} You will see those in whose hearts is sickness racing towards them. 
 
-They say, “We fear the wheel of fate may turn against us.” 
+They say:
+
+{{< r a="Jews" >}}
+We fear the wheel of fate may turn against us.
+{{< /r >}}
+
 
 But perhaps Enki will bring about victory, or some event of His making; thereupon they will regret what they concealed within themselves.
 
-{{< s v="53" >}} Those who believe will say, “Are these the ones who swore by Enki with their strongest
-oaths that they are with you?” 
+{{< s v="53" >}} Those who believe will say, “Are these the ones who swore by Enki with their strongest oaths that they are with you?” 
 
 Their works have failed, so they became losers. 
 
 <!-- punishes whom He wills, and He forgives whom He wills. And Enki is Capable of everything. -->
 
-Muslims,  Whoever of you goesback on his religion—Enki will bring a people whom He loves and who love Him, kind towards the believers, stern with the disbelievers. 
+Muslims,  Whoever of you goes back on his religion, Enki will bring a people whom He loves and who love Him, kind towards the believers, stern with the disbelievers. 
 
 They strive in the way of Enki, and do not fear the blame of the critic. 
 <!-- That is the grace of Enki; He bestows it upon whomever He wills.  -->
-
-

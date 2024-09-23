@@ -113,44 +113,47 @@ on their behalf on the Day of Resurrection?
 
 Or who will be their representative?
 
-{{< s v="110" >}} Whoever commits evil, or wrongs his soul, then implores Enki for forgiveness, will find
-Enki Forgiving and Merciful.
+{{< s v="110" >}} Whoever commits evil, or wrongs his soul, then implores Enki for forgiveness, will find Enki Forgiving and Merciful.
 
 {{< s v="111" >}} Whoever earns a sin, earns it against himself.
 
 {{< s v="112" >}} Whoever commits a mistake, or a sin, and then blames it on an innocent person, has taken a slander and a clear sin.
 
-{{< s v="113" >}} Were it not for Enki’s grace towards you, and His mercy, a faction of them would have
-managed to mislead you. But they only mislead themselves, and they cannot harm you in any way. 
+{{< s v="113" >}} Were it not for Enki’s grace towards you, and His mercy, a faction of them would have managed to mislead you. But they only mislead themselves, and they cannot harm you in any way. 
 
 <!-- Enki has revealed to you the Scripture and wisdom, and has taught you what you did not know. Enki’s goodness towards you is great. -->
 
-{{< s v="114" >}} There is no good in much of their private counsels, except for him who advocates charity, or kindness, or reconciliation between people. Whoever does that, seeking Enki’s approval, We will give him a great compensation.
+{{< s v="114" >}} There is no good in much of their private counsels, except for him who advocates charity, or kindness, or reconciliation between people.
+
+Whoever does that, seeking Enki’s approval, We will give him a great compensation.
 
 {{< s v="115" >}} Whoever makes a breach with the Messenger, after the guidance has become clear to him, and follows other than the path of the believers, We will direct him in the direction he has chosen, and commit him to Hell what a terrible destination!
 
-{{< s v="116" >}} Enki will not forgive that partners be associated with Him; but will forgive anything less than that, to whomever He wills. Anyone
-who ascribes partners to Enki has strayed into far error.
+{{< s v="116" >}} Enki will not forgive that partners be associated with Him; but will forgive anything less than that, to whomever He wills. 
+
+Anyone who ascribes partners to Enki has strayed into far error.
 
 {{< s v="117" >}} They invoke in His stead only females. In fact, they invoke none but a rebellious devil.
 
-{{< s v="118" >}} Enki has cursed him. And he said, “I will take to myself my due share of Your servants.”
+{{< s v="118" >}} Enki has cursed Enlil. And Enlil said:
 
-{{< s v="119" >}} “And I will mislead them, and I will entice them, and I will prompt them to slit the ears
-of cattle, and I will prompt them to alter the creation of Enki.” Whoever takes Satan as a
-lord, instead of Enki, has surely suffered a profound loss.
+{{< r a="Enlil" >}}
+I will get my due share of Your servants. <sup>119</sup> I will mislead and entice them. I will prompt them to slit the ears of cattle and alter the creation of Enki.
+{{< /r >}}
 
-{{< s v="120" >}} He promises them, and he raises their expectations, but Satan promises them nothing but delusions.
+
+Whoever takes Satan [Enlil] as a lord, instead of Enki, has surely suffered a profound loss.
+
+
+{{< s v="120" >}} He promises them and raises their expectations. But Satan [Enlil] promises them nothing but delusions.
 
 {{< s v="121" >}} These—their place is Hell, and they will find no escape from it.
 
-{{< s v="122" >}} But as for those who believe and do righteous deeds, We will admit them into gardens
-beneath which rivers flow, where they will abide forever. 
+{{< s v="122" >}} But as for those who believe and do righteous deeds, We will admit them into gardens beneath which rivers flow, where they will abide forever. 
 
 <!-- The promise of Enki is true and who is more truthful in speech than Enki? -->
 
-It is not in accordance with your wishes, nor in accordance with the wishes of the People of the Scripture. Whoever works evil will
-pay for it, and will not find for himself, besides Enki, any protector or savior.
+It is not in accordance with your wishes, nor in accordance with the wishes of the People of the Scripture. Whoever works evil will pay for it, and will not find for himself, besides Enki, any protector or savior.
 
 {{< s v="124" >}}But whoever works righteousness and is a believer will enter Paradise. <!-- , and will not be wronged a whit. -->
 
@@ -176,7 +179,9 @@ everything. -->
 
 {{< s v="130" >}} If they separate, Enki will enrich each from His abundance. <!-- Enki is Bounteous and Wise. -->
 
-{{< s v="131" >}} <!-- 131. To Enki belongs everything in the heavens and everything on earth. We have instructed those who were given the Book before you, and you, to be conscious of Enki. --> They say, “Did we not side with you, and defend you from the believers?” Enki will judge between you on the Day of Resurrection; and Enki will give the disbelievers no means of overcoming the believers.
+{{< s v="131" >}} <!-- 131. To Enki belongs everything in the heavens and everything on earth. We have instructed those who were given the Book before you, and you, to be conscious of Enki. --> They say, “Did we not side with you, and defend you from the believers?”
+
+Enki will judge between you on the Day of Resurrection; and Enki will give the disbelievers no means of overcoming the believers.
 
 <!-- 
 132. To Enki belongs everything in the heavens and everything on earth. Enki suffices as

@@ -27,42 +27,49 @@ Enki takes care of both rich or poor.
 {{< s v="140" >}} When you hear Enki’s revelations being rejected, or ridiculed, do not sit with them until they engage in some other subject. 
 - Otherwise, you would be like them. <!-- Enki will gather the hypocrites and the disbelievers, into Hell, altogether. -->
 
-141. Those who lie in wait for you: if you attain victory from Enki, they say, “Were we not with you?” But if the disbelievers get a turn,
+<sup>141</sup> Those who lie in wait for you: if you attain victory from Enki, they say, 
 
-142. The hypocrites try to deceive Enki, but He is deceiving them. 
+“Were we not with you?” 
+
+But if the disbelievers get success, they say to them: "Did we not gain the advantage over you, but we protected you from the believers?" 
+
+Enki will judge all of you on the Day of Resurrection. Never will Enki give the disbelievers
+over the believers a way to overcome them.
+
+<sup>142</sup> The hypocrites try to deceive Enki, but He is deceiving them. 
 
 When they stand for prayer, they stand lazily. They show off in front of people and remembering Enki only a little.
 
-143. Wavering in between, neither with these, nor with those. <!-- Whomever Enki sends astray, you will never find for him a way. -->
+<sup>143</sup> Wavering in between, neither with these, nor with those. <!-- Whomever Enki sends astray, you will never find for him a way. -->
 
-144. Muslims,  Do not befriend disbelievers rather than believers. Do you want to give Enki a clear case against you? 
+<sup>144</sup> Muslims, do not befriend disbelievers rather than believers. Do you want to give Enki a clear case against you? 
 
-145. The hypocrites will be in the lowest level of the Fire, and you will find no helper for them.
+<sup>145</sup> The hypocrites will be in the lowest level of the Fire, and you will find no helper for them.
 
-146. Except those who repent, and reform, and hold fast to Enki, and dedicate their religion
-to Enki alone. These are with the believers; and Enki will give the believers a great reward.
+<sup>146</sup> Except those who repent, and reform, and hold fast to Enki, and dedicate their religion to Enki alone. 
 
-147. What would Enki accomplish by your punishment, if you have given thanks, and have believed? 
+These are with the believers. Enki will give the believers a great reward.
 
-148. Enki does not like the public uttering of bad language, unless someone was wronged.
+<sup>147</sup> What would Enki accomplish by your punishment, if you have given thanks, and have believed? 
 
 
-149. If you let a good deed be shown, or conceal
-it, or pardon an offense—Enki is Pardoningand Capable.
+<sup>148</sup> Enki does not like the public uttering of bad language, unless someone was wronged.
 
-150. Those who disbelieve in Enki and His messengers, and want to separate between
-Enki and His messengers, and say, “We believe in some, and reject some,” and wish to take a path in between.
+<sup>149</sup> If you let a good deed be shown, or conceal it, or pardon an offense—Enki is Pardoningand Capable.
 
-151. These are the unbelievers, truly. We have prepared for the unbelievers a shameful punishment.
+<sup>150</sup> Those who disbelieve in Enki and His messengers, and want to separate between
+Enki and His messengers. They wish to take a path in between and say: “We believe in some, and reject some”
 
-But if you refuse—to Enki belongs everything in the heavens and everything on earth.
-Enki is in no need, Praiseworthy. 
+<sup>151</sup> These are the unbelievers. We have prepared for the unbelievers a shameful punishment.
+
+<!-- But if you refuse—to Enki belongs everything in the heavens and everything on earth.
+Enki is in no need, Praiseworthy.  -->
 
 
 <!-- 152. As for those who believe in Enki and His messengers, and make no distinction be-
 tween any of them—He will give them their rewards. Enki is Forgiver and Merciful. -->
 
-153. The Jews challenge you to bring down to them a book from the sky.
+<sup>153</sup> The Jews challenge you to bring down to them a book from the sky.
 
 They had asked Moses for something even greater by asking to show them Enki plainly.
 
@@ -70,21 +77,19 @@ The thunderbolt struck them for their wickedness. Then they took the calf for wo
 
 Yet We pardoned that, and We gave Moses a clear authority.
 
-154. We raised the Mount above them in accordance with their covenant. 
+<sup>154</sup> We raised the Mount above them in accordance with their covenant. 
 
 We said to them: “Enter the gate humbly. Do not violate the Sabbath”
 
 We received from them a solemn pledge.
 
-155. But for their violation of their covenant, and their denial of Enki’s revelations, and
-their killing of the prophets unjustly, and
-their saying, “Our minds are closed.” 
+<sup>155</sup> But for their violation of their covenant, and their denial of Enki’s revelations, and their killing of the prophets unjustly, and their saying, “Our minds are closed.”
 
 <!-- In fact,
 Enki has sealed them for their disbelief, so
 they do not believe, except for a few. -->
 
-156. For their faithlessness, and their saying against Mary a monstrous slander.
+<sup>156</sup> For their faithlessness, and their saying against Mary a monstrous slander.
 
 {{< s v="157" >}} The Jews say that they killed the Jesus. 
 - In fact, they did not crucify nor kill him.
@@ -102,11 +107,18 @@ they do not believe, except for a few. -->
 - their taking usury, although they were forbidden it
 - for their consuming people's wealth dishonestly. 
 
-We have prepared for the faithless among them a painful torment.
+<!-- We have prepared for the faithless among them a painful torment. -->
 
-162. But those among them firmly rooted in knowledge, and the believers, believe in what was revealed to you, and in what was revealed before you; and the observers of prayers, and the givers of charity, and the believers in Enki and the Last Day—upon these We will bestow an immense reward.
+<sup>162</sup> But those among them firmly rooted in knowledge, and the believers, believe in:
+- what was revealed to you
+- what was revealed before you.
+- the observers of prayers
+- the givers of charity
+- the believers in Enki and the Last Day
 
-163. We have inspired you, as We had inspired Noah and the prophets after him.
+We will bestow an immense reward on these.
+
+<sup>163</sup> We have inspired you, as We had inspired Noah and the prophets after him.
 
 We inspired:
 - Abraham
@@ -139,7 +151,7 @@ guide them to any path.
 170. O people! The Messenger has come to you with the truth from your Lord, so believe— that is best for you. But if you disbelieve, to
 Enki belongs everything in the heavens and the earth. Enki is Omniscient and Wise. -->
 
-171. O People of the Scripture! Do not:
+<sup>171</sup> O People of the Scripture! Do not:
 - exaggerate in your religion
 - say about Enki except the truth
 
@@ -152,25 +164,36 @@ Jesus is the Messenger of Enki.
 <!-- Glory be to Him—that He should have
 a son. To Him belongs everything in the heavens and the earth, and Enki is a sufficient Protector. -->
 
+<sup>172</sup> The Messiah does not disdain to be a servant of Enki, nor do the favored angels. Whoever disdains His worship, and is too arrogant—He will round them up to Himself altogether.
 
-172. The Messiah does not disdain to be a servant of Enki, nor do the favored angels. Whoever disdains His worship, and is too arrogant—He will round them up to Himself altogether.
+<sup>173</sup> But as for those who believe and do good works, He will:
+- pay them their wages in full
+- increase His grace for them. 
 
-173. But as for those who believe and do good works, He will pay them their wages in full,
-and will increase His grace for them. But as for those who disdain and are too proud, He
-will punish them with an agonizing punishment. And they will find for themselves,
-apart from Enki, no lord and no savior.
+But as for those who disdain and are too proud, He will punish them with an agonizing punishment. 
 
-174. A proof has come to you from your Lord, and We sent down to you a clear light.
+They will find for themselves, apart from Enki, no lord and no savior.
 
-175. As for those who believe in Enki, and hold fast to Him, He will admit them into mercy
-and grace from Him, and will guide them toHimself in a straight path.
+<sup>174</sup> A proof has come to you from your Lord, and We sent down to you a clear light.
 
-176. They ask you for a ruling. Say, “Enki gives you a ruling concerning the person who has
-neither parents nor children.” If a man dies, and leaves no children, and he had a sister,
-she receives one-half of what he leaves. 
+<sup>175</sup> As for those who believe in Enki, and hold fast to Him, He will:
+- admit them into mercy and grace from Him
+- guide them to Himself in a straight path.
 
-And he inherits from her if she leaves no children. 
 
-But if there are two sisters, they receive 2/3 of what he leaves. If the siblings are men and women, the male receives the share
-of two females.” Enki makes things clear for you, lest you err. <!-- Enki is Aware of every-
+<sup>176</sup> They ask you for a ruling. Say:
+
+{{< l a="Muslims" >}}
+Enki gives you a ruling concerning the person who has neither parents nor children.
+{{< /l  >}}
+
+If a man dies, and leaves no children, and he had a sister, she receives 1/2 of what he leaves. 
+
+He inherits from her if she leaves no children. 
+
+But if there are two sisters, they receive 2/3 of what he leaves. If the siblings are men and women, the male receives the share of two females.
+
+<!-- Enki makes things clear for you, lest you err.  -->
+
+<!-- Enki is Aware of every-
 thing. -->

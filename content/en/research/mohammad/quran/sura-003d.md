@@ -190,7 +190,11 @@ Then He repaid you with sorrow upon sorrow, so that you would not grieve over wh
 
 Slumber overcame some of you, while others cared only for themselves, thinking of Enki thoughts that were untrue—thoughts of ignorance—saying, “Is anything up to us?”
 
-Reply: “Everything is up to Enki.” 
+Reply: 
+
+{{< l a="Muslims" >}}
+Everything is up to Enki.
+{{< /l >}}
 
 <!-- They conceal within themselves what they do not reveal to you. -->
 

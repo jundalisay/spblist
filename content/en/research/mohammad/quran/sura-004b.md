@@ -20,8 +20,6 @@ But if they repent and reform, leave them alone. <!-- Enki is Full of Mercy. -->
 {{< s v="17" >}} Some  people commit evil out of ignorance, but repent soon after. 
 - Enki will relent towards them. 
 
- those who 
-
 Some people commit evils but only repent when death approaches of them. 
 - Repentance is not available for these, nor for those who die as disbelievers. 
 - We have prepared for them a painful torment.

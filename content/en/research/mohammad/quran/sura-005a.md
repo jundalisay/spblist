@@ -89,13 +89,18 @@ He restrained their hands from you. So reverence Enki, and in Enki let the belie
 
 {{< s v="12" >}} Enki received a pledge from the Jews, and We raised among them 12 chiefs. 
 
-Enki said, “I am with you. I will remit your sins, and admit you into Gardens if you:
+Enki said:
+
+{{< l a="Enki" >}}
+I am with you. I will remit your sins, and admit you into Gardens if you:
 - perform the prayer
 - pay the alms
 - believe in My messengers and support them
 - lend Enki a loan of righteousness
 
 But whoever among you disbelieves afterwards has strayed from the right way.
+{{< /l >}}
+
 
 {{< s v="13" >}} They break their pledge so We cursed them and made their hearts hard.
 

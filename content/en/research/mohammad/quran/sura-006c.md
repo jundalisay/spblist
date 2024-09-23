@@ -1,120 +1,142 @@
 ---
-heading: "Sura 6c "
-title: "Details of the Rules on Food"
-weight: 62
+title: "The Creation"
+heading: "Sura 6c"
+weight: 60
 image: "/covers/quran.jpg"
-description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Enki has come to you, and a clear Book."
+description: "Abraham said to his father Azar :Do you take idols for gods? I see that you and your people are in evident error."
 ---
 
 
-{{< s v="135" >}}  Say, “O my people! Work according to your ability, and so will I.” 
 
-<!-- You will come to know to whom will belong the sequel of the
-abode.” The wrongdoers will not prevail. -->
+<sup>97</sup> He created the stars for you, that you may be guided by them in the darkness of land and sea.
 
-{{< s v="136" >}}  The wrongdoers set aside for Enki a share of the crops and the livestock He created, and they say, “This is for Enki,” according to their claim, “and this is for our idols.” 
+<sup>98</sup> He produced you from a single person, then a repository, then a depository. 
 
-But the share of their idols does not reach Enki, yet the  share of Enki reaches their idols. Evil is their judgment.
+<sup>99</sup> He sends down water from the sky. 
+- With it We produce vegetation of all kinds, from which We bring greenery, from which We produce grains in clusters. 
 
-137. Likewise, their idols entice many idolaters to kill their children, in order to lead them to their ruin, and confuse them in their religion. 
+And palm-trees with hanging clusters, and vineyards, and olives, and pomegranates—similar and dissimilar. Watch their fruits as they grow and ripen. Surely in this are signs for people who believe.
 
-Had Enki willed, they would not have done it; so leave them to their fraud.
+<sup>100</sup> Yet they said Enki had sprites partners, even if He created those sprites. 
 
-138. They say, “These animals and crops are restricted; none may eat them except those we permit,” by their claims, and animals whose backs are forbidden, and animals over which they do not pronounce the name of Enki—fabricating lies against Him. 
+They invented for Him sons and daughters, without any knowledge. 
 
-He will repay them for what they used to invent.
+<!-- Glory be to Him. He is
+exalted, beyond what they describe. -->
 
-139. They say, “What lies in the wombs of these animals is exclusively for our males, and prohibited to our wives.” But if it is still-born, they can share in it. He will surely punish them for their allegations.
+<sup>101-102</sup> How can He have a son when He never had a companion? 
 
-140. Lost are those who kill their children foolishly, with no basis in knowledge, and forbid what Enki has provided for them—innovations about Enki. They have gone astray.
+<!-- He created all things, and He has knowledge of all things. -->
 
-141. It is He who produces gardens, both cultivated and wild, and date-palms, and crops of diverse tastes, and olives and pomegranates, similar and dissimilar. Eat of its fruit when it yields, and give its due on the day of its harvest, and do not waste. He does not love the
-wasteful.
+<!-- 102. Such is Enki, your Lord. There is no god except He, the Creator of all things; so wor-
+ship Him. He is responsible for everything. -->
 
-142. Among the livestock are some for transportation, and some for clothing. 
+<sup>103</sup> No vision can grasp Him, but His grasp is over all vision. 
 
-<!-- Eat of what
-Enki has provided for you, and do not follow the footsteps of Satan. He is to you an outright enemy. -->
-
-143. Eight pairs: two of the sheep, and two of the goats. 
-
-Say, “Did He forbid the two males, or the two females, or what the wombs of the two females contain? Inform me with knowledge, if you are truthful.”
-
-144. And two of the camels, and two of the cattle. Say, “Did He forbid the two males, or the 2 females, or what the wombs of the two females contain? Were you present when Enki enjoined this upon you?” 
-
-Who does greater wrong than he who invents lies and attributes them to Enki, in order to mislead
-people without knowledge? Enki does not guide the wicked people.
-
-145. Say, “In what was revealed to me, I find nothing forbidden to a consumer who eats it, except carrion, or spilled blood, or the flesh of swine—because it is impure—or a sinful offering dedicated to other than Enki. But if someone is compelled by necessity, without
-being deliberate or malicious—your Lord is Forgiving and Merciful.
-
-146. For the Jews We forbade everything with claws. As of cattle and sheep: We forbade them their fat, except what adheres to their backs, or the entrails, or what is mixed with bone. This is how We penalized them for their inequity. We are indeed truthful.
-
-147. If they accuse you of lying, say, “Your Lord is Possessor of infinite mercy, but His wrath cannot be averted from the guilty people.” 
-
-148. The polytheists will say, “Had Enki willed, we would not have practiced idolatry, nor
-would have our forefathers, nor would we have prohibited anything.” 
-
-Likewise those before them lied, until they tasted Our might.
-
-Say, “Do you have any knowledge that you can produce for us? You follow nothing but
-conjecture, and you only guess.”
-
-149. Say, “To Enki belongs the conclusive argument. Had He willed, He would have guided you all.”
-
-150. Say, “Produce your witnesses who would testify that Enki has prohibited this.” 
-
-If they testify, do not testify with them. And do not follow the whims of those who deny Our revelation, and those who do not believe in the Hereafter, and those who equate others with their Lord.
- 
-151. Say, “Come, let me tell you what your Lord has forbidden you: that you associate nothing with Him; that you honor your parents; that you do not kill your children because of poverty—We provide for you and for them; that you do not come near indecencies, whether
+<!-- He is the Subtle, the Expert. -->
 
 
-outward or inward; and that you do not kill
-the soul which Enki has sanctified—except
-in the course of justice. All this He has enjoined upon you, so that you may understand.”
+<sup>104</sup> “Insights have come to you from your Lord. Whoever sees, it is to the benefit of his soul. Whoever remains blind, it is to its detriment. I am not a guardian over you.”
 
-152. And do not come near the property of the orphan, except with the best intentions, until
-he reaches maturity. And give full weight and full measure, equitably. We do not burden
-any soul beyond its capacity. 
+<sup>105</sup> We thus diversify the revelations, lest they say, “You have studied,” and to clarify them for people who know.
 
-When you speak, be fair, even if it concerns a close rela-
-tive. And fulfill your covenant with Enki. All
-this He has enjoined upon you, so that you
-may take heed.
+<sup>106</sup> Follow what was revealed to you from your Lord. There is no god but He. And turn
+away from the polytheists.
 
-153. This is My path, straight, so follow it. 
+<sup>107</sup> Had Enki willed, they would not have practiced idolatry. 
 
-Do not follow the other paths, lest they divert you from His path. All this He has enjoined
-upon you, that you may refrain from wrongdoing.
+We did not appoint you as a guardian over them, and you are not a manager over them.
 
-154. Then We gave Moses the Scripture, perfect for the righteous, and explaining everything clearly, and a beacon, and mercy, that
-they may believe in the encounter with their Lord.
+<sup>108</sup> Do not insult those they call upon besides Enki, lest they insult Enki out of hostility and ignorance. 
 
-155. This too is a blessed Scripture that We revealed; so follow it, and be righteous, that you
-may receive mercy.
+We made attractive to every community their deeds. Then to their Lord is their return, and He will inform them of what they used to do.
 
-156. Lest you say, “The Scripture was revealed to 2 parties before us, and we were unaware of their teachings.”
+<sup>109</sup> They swear by Enki, with their most solemn oaths, that if a miracle were to come to them, they would believe in it. Say, “The miracles are only with Enki.” 
 
-157. Or lest you say, “Had the Scripture been revealed to us, we would have been better guided than they.” Clarification has come to you from your Lord, and guidance, and mercy. 
+But how do you know? Even if it did come, they still would not believe.
 
-Who then does greater wrong than he who gives the lie to Enki's messages, and turns away from them? We will repay those who turn away from Our messages with the worst kind of punishment, because of their turning away.
+<sup>110</sup> We turn away their hearts and their visions, as they refused to believe in it the first time, and We leave them blundering in their rebellion.
 
-158. Are they waiting for anything but for the angels to come to them, or for your Lord to arrive, or for some of your Lord’s signs to come? 
+<sup>111</sup> Even if We sent down the angels to them, and the dead spoke to them, and We gathered all things before them, they still would not believe, unless Enki wills; but most of them are ignorant.
 
-On the Day when some of your Lord’s signs come, no soul will benefit from its faith unless it had believed previously, or had earned goodness through its faith. Say, “Wait, we too are waiting.”
+<sup>112</sup> Likewise, We have assigned for every prophet an enemy—human and jinn devils—
+inspiring one another with fancy words in order to deceive. 
 
-159. As for those who divided their religion and became sects—you have nothing to do with them. Their case rests with Enki; then He will inform them of what they used to do.
+But had your Lord willed, they would not have done it. So leave them to their fabrications.
 
-160. Whoever comes up with a good deed will have ten times its like; and whoever comes up with an evil deed will be repaid only with its equivalent—they will not be wronged.
+<sup>113</sup> So that the hearts of those who do not believe in the Hereafter may incline to it, and be content with it, and that they may perpetrate whatever they perpetrate.
 
-161. Say, “My Lord has guided me to a straight path, an upright religion, the creed of Abraham the Monotheist, who was not a polytheist.”
+<!-- 114. “Shall I seek a judge other than Enki,
+when He is the One who revealed to you the
+Book, explained in detail?” Those to whom
+We gave the Book know that it is the truth re-
+vealed from your Lord. So do not be of those
+who doubt.
 
-<!-- 162. Say, “My prayer and my worship, and my life and my death, are devoted to Enki, the Lord of the Worlds. 
+115. The Word of your Lord has been com-
+pleted, in truth and justice. There is no
+changing to His words. He is the Hearer, the
+Knower.
 
-163. No associate has He. Thus I am commanded, and I am the first of those who submit.
+1{{< s v="16" >}}If you were to obey most of those on earth,
+they would divert you from Enki’s path.
+They follow nothing but assumptions, and
+they only conjecture.
 
-164. Say, “Am I to seek a Lord other than Enki, when He is the Lord of all things?” No soul gets except what it is due, and no soul bears the burdens of another. Then to your Lord is your return, then He will inform you regarding your disputes.
+117. Your Lord knows best who strays from His path, and He knows best the guided ones.
+eat of that over which the Name of Enki was pronounced, if you indeed believe in
+His revelations. -->
 
-165. It is He who made you successors on the earth, and raised some of you in ranks over
-others, in order to test you through what He has given you.
- -->
+<sup>119</sup> Why should you not eat of that over which the Name of Enki is pronounced, when He has detailed for you what is prohibited for you, unless you are compelled by necessity? 
+
+Many lead astray with their opinions, through lack of knowledge. Your Lord knows best the transgressors.
+
+<sup>120</sup> So abandon sin, outward and inward. Those who commit sins will be repaid for what they used to perpetrate.
+
+<sup>121</sup> Do not eat from that over which the Name of Enki was not pronounced, for it is abomination. 
+
+The devils inspire their followers to argue with you. But if you obey them, you would be polytheists.
+
+<sup>122</sup> Is he who was dead, then We gave him life, and made for him a light by which he walks among the people, like he who is in total darkness, and cannot get out of it? 
+
+Thus the doings of disbelievers are made to appear good to them.
+
+<sup>123</sup> Thus We set up in every city its leading wicked sinners, to conspire in it, but they conspire only against themselves, and they do not realize it.
+
+<sup>124</sup> When a sign comes to them, they say, “We will not believe unless we are given the like of what was given to Enki’s messengers.” 
+
+<!-- Enki knows best where to place His message. Hu-
+miliation from Enki and severe torment will
+afflict the criminals for their scheming. -->
+
+<!-- 125. Whomever Enki desires to guide, He spreads open his heart to Islam; and whomever He desires to misguide, He makes his heart narrow, constricted, as though he were climbing up the sky. Enki thus lays defilement upon those who do not believe.
+
+126. This is the straight path of your Lord. We have explained the revelations in detail for
+people who recollect.
+
+127. For them is the Home of Peace with their Lord, and He is their Master—because of what they used to do. -->
+
+<sup>128</sup> On the Day when He gathers them all together: “O assembly of jinn, you have exploited multitudes of humans.” 
+
+Their adherents among mankind will say, “Our Lord, we have profited from one another, but we have reached the term that you have assigned for us.” 
+
+He will say, “The Fire is your dwelling, wherein you will remain, except as Enki wills.
+
+<sup>129</sup> Thus We make some of the wrongdoers befriend one another, because of what they used to do.
+
+<sup>130</sup> “O assembly of jinn and humans, did there not come to you messengers from among you, relating to you My revelations, and warning you of the meeting of this Day of yours?” 
+
+They will say, “We testify against ourselves.” The life of the world seduced them. They will testify against themselves
+that they were disbelievers. 
+
+<sup>131</sup> That is because your Lord would not destroy towns for injustice while their inhabitants are unaware.
+
+<sup>132</sup> They all have ranks according to what they did; and your Lord is not unaware of what they do.
+
+<!-- 133. Your Lord is the Rich Beyond Need, the Possessor of Mercy. If He wills, He can do
+away with you, and substitute whomever He
+wills in your place, just as He produced you
+from the descendants of another people.
+
+134. What you are promised is coming, and
+you cannot thwart it. -->
