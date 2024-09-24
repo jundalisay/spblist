@@ -7,7 +7,7 @@ image: "/covers/quran.jpg"
 ---
 
 
-{{< n n="Here we replace Enki with the Anunnaki god or alien Enki, since the Middle East was historically Anunnaki territory" >}}
+{{< n n="Here we replace 'Allah' with the Anunnaki god or alien 'Enki', since the Middle East was historically Anunnaki territory" >}}
 
 
 {{< s v="124-126" >}} After the Lord tested Abraham, He said:

@@ -3,7 +3,7 @@ title: "Victory, Thorns, Monotheism, Daybreak, Mankind"
 heading: "Sura 110-113 "
 weight: 258
 image: "/covers/quran.jpg"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "Condemned is Abu Lahab and his hands."
 ---
 
 
@@ -32,24 +32,32 @@ secured them against fear. -->
 
 ## 112. MONOTHEISM (al-Ikhlas )
 
-{{< s v="1" >}}  Say, “He is Enki, the One.{{< s v="2" >}}  Enki, the Absolute.{{< s v="3" >}}  He begets not, nor was He begotten.{{< s v="4" >}}  And there is nothing comparable to Him.”
+{{< s v="1-4" >}}  Say:
+
+{{< l a="Muslims" >}}
+He is Enki, the One, the Absolute. He begets not, nor was He begotten. There is nothing comparable to Him.
+{{< /l >}}
+
 
 
 ## 113. DAYBREAK (al-Falaq)
 
-{{< s v="1" >}}  Say, “I take refuge with the Lord of Daybreak.{{< s v="2" >}}  From the {{< s v="3" >}}  And
-the evil of the sneaky whisperer.{{< s v="5" >}}  Who the evil of what He created. 
-from the evil of the darkness as it gathers.{{< s v="4" >}}  And from the evil of those who practice sorcery.{{< s v="5" >}}  And from the evil of an envious when he envies.”
+{{< s v="1-5" >}}  Say:
+
+{{< l a="Muslims" >}}
+I take refuge with the Lord of Daybreak:
+- from the evil of what He created. 
+- from the evil of those who practice sorcery.
+- from the evil of an envious when he envies.
+{{< /l >}}
 
 
 ## 114. MANKIND (an-Nas)
 
-{{< s v="1" >}}  Say, “I seek refuge in:
-- the Lord of mankind.
-- The King of mankind.
-- The God of mankind.
+{{< s v="1-6" >}}  Say: 
 
-{{< s v="4" >}}  From whispers into the hearts of people.
-
-6. From among jinn and among people.”
-
+{{< l a="Muslims" >}}
+I seek refuge in the Lord, King, God of mankind:
+- from the evil of the sneaky whisperer who whispers into the hearts of people
+- from among jinn and among people.
+{{< /l >}}

@@ -6,7 +6,7 @@ image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
-{{< n n="Here we replace Enki with the Anunnaki god or alien Enki, since the Middle East was historically Anunnaki territory" >}}
+{{< n n="Here we replace 'Allah' with the Anunnaki god or alien 'Enki', since the Middle East was historically Anunnaki territory" >}}
 
 <!-- 22. He who made the earth a habitat for you, and the sky a structure, and sends water
 down from the sky, and brings out fruits thereby, as a sustenance for you. -->

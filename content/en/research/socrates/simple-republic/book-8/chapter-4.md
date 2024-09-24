@@ -95,7 +95,10 @@ The most aggravated form of tyranny and slavery happens in the most extreme form
 In the class of idle spendthrifts:
 - the leaders are the more courageous ones
 - the followers are the more timid ones
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 They are drones, some stingless, and others having stings.
 
 These 2 classes are the plagues of every city just as phlegm and bile are to the body.

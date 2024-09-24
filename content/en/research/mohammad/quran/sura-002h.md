@@ -7,7 +7,7 @@ description: "Fight in the cause of Enki those who fight you"
 ---
 
 
-{{< n n="Here we replace Enki with the Anunnaki god or alien Enki, since the Middle East was historically Anunnaki territory" >}}
+{{< n n="Here we replace 'Allah' with the Anunnaki god or alien 'Enki', since the Middle East was historically Anunnaki territory" >}}
 
 
 {{< s v="190" >}} Fight in the cause of Enki those who fight you.* 

@@ -20,8 +20,7 @@ Man has the power of logical reasoning. This inclines him towards good qualities
 
 Royal and political authority come to man qua man, because it is peculiar to man and is not found in animals. Thus, the good qualities in man are appropriate to political and royal authority, since goodness is appropriate to political authority.
 
-Glory has a basis upon which it is built and through which it achieves its reality. (That basis) is group feeling and the tribal
-group to which an individual belongs.
+Glory has a basis upon which it is built and through which it achieves its reality. (That basis) is group feeling and the tribal group to which an individual belongs.
 
 Glory also depends upon a detail that completes and perfects its existence. 
 

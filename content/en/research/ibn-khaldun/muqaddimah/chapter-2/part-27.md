@@ -50,12 +50,15 @@ They became once again as savage as they had been before.
 
 The epithet "royal" was no longer applicable to them, except in so far as it(continued to) apply to the caliphs who were (Arabs) by race. When the caliphate disappeared and was wiped out, governmental power passed altogether out of their hands. 
 
-Non-Arabs took over the power in their stead. They remained as Bedouins in the desert, ignorant of royal authority and political leadership. Most Arabs do not even know that they possessed royal authority in the past, or that no nation had ever exercised such (sweeping) royal authority as had their race. The dynasties of 'Ad and Thamild, the Amalekites, the Himyar, and the Tubba's testify to that statement, and then, there was the Mudar dynasty in Islam, the Umayyads and the 'Abbasids.
+Non-Arabs took over the power in their stead. They remained as Bedouins in the desert, ignorant of royal authority and political leadership. 
+
+Most Arabs do not even know that they possessed royal authority in the past, or that no nation had ever exercised such (sweeping) royal authority as had their race.
+
+The dynasties of 'Ad and Thamild, the Amalekites, the Himyar, and the Tubba's testify to that statement, and then, there was the Mudar dynasty in Islam, the Umayyads and the 'Abbasids.
 
 But when the Arabs forgot the religion, they no longer had any connection with political leadership, and they returned to their desert origins. At times, they achieve superiority over weak dynasties, as is the case in the contemporary Maghrib. 
 
 But their domination leads only to the ruin of the civilization they conquer, as we have stated before.
-
 
 Desert tribes and groups are dominated by the urban population.
 
