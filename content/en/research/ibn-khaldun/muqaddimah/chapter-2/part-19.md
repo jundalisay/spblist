@@ -83,7 +83,9 @@ Vice versa, when God wants a nation to be deprived of royal authority, He causes
 
 This will lead to complete loss of the political virtues among them. These virtues continue to be destroyed, until they will no longer exercise royal authority. 
 
-Someone else will exercise it instead. This is to constitute (in addition) an insult to them, in that the royal authority God has given them and the good things He has placed at their disposal are taken away from them. "When we want to destroy a village, we order those of its inhabitants who live in luxury to act wickedly therein. Thus, the word becomes true for it, and we do destroy it."
+Someone else will exercise it instead. This is to constitute (in addition) an insult to them, in that the royal authority God has given them and the good things He has placed at their disposal are taken away from them. 
+
+"When we want to destroy a village, we order those of its inhabitants who live in luxury to act wickedly therein. Thus, the word becomes true for it, and we do destroy it."
 
 <!-- Upon close investigation, many instances of what we have said and outlined will be found among the nations of the past. God "creates whatever He wishes, and His is the choice." -->
 
@@ -115,4 +117,6 @@ When people who possess group feeling have that, one knows that they are ready f
 
 God permits political leadership to exist among them, because the (characteristic) sign of (political leadership) exists among them. 
 
-Therefore, the first thing to disappear in a tribe that exercises royal authority, when God wants to deprive the members of that tribe of their royal and governmental authority, is respect for these kinds of people. When a nation is observed to have lost that respect, it should be realized that (all) the virtues have begun to go, and it can be expected that the royal authority will cease to exist in it.
+Therefore, the first thing to disappear in a tribe that exercises royal authority, when God wants to deprive the members of that tribe of their royal and governmental authority, is respect for these kinds of people. 
+
+When a nation is observed to have lost that respect, it should be realized that (all) the virtues have begun to go, and it can be expected that the royal authority will cease to exist in it.

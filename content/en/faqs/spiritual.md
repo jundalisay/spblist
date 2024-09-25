@@ -51,9 +51,10 @@ Is the Supreme Entity God?
 {{< l a="Spiritual-Superphysics" >}}
 Not really. The concept of Yahweh, God, and Allah is an invention of the Jews, Romans, and Mohammad respectively. Since we didn't live during the times when those concepts were created, we cannot know the feelings that could have caused their origin. 
 
-Our best guess from the text evidence is that they represent either a physical alien race (as the Annunaki hypothesis) or the metaphysical oversoul of the Jewish, Roman, and Arab societies respectively.
+Our best guess from the text evidence, Sumerian up to the Quran, is that Allah represents the alien Enki and God is Enlil. This is why God is benevolent sometimes and extremely cruel at other times -- because they are 2 different entities.   
+  <!-- either a physical alien race (as the Annunaki hypothesis) or the metaphysical oversoul of the Jewish, Roman, and Arab societies respectively. -->
 
-Either way, it follows that Yahweh, God, and Allah are really more political concepts than spiritual ones i.e. follow this, don't follow that.
+Either way, it follows that Yahweh, God, and Allah are really more political concepts than spiritual ones i.e. follow me, don't follow him, do this, not that.
 {{< /l >}}
 
 {{< r a="Muslim" >}}
@@ -82,7 +83,14 @@ This concept is more in line with Physics than Religion. All you need is the abi
 Then you assign **a single metaphysical consciousness to glue all of those together** to arrive at our concept of a Supreme Entitiy. The big problem is that Physics locks itself out of mental and metaphysical perceptions and so it forever cannot explain the cause and true nature of physical phenomena. This severely limits its problem-solving powers.      
 {{< /l >}}
 
+{{< r a="Muslim" >}}
+What is consciousness?
+{{< /r >}}
 
+{{< l a="Spiritual-Superphysics" >}}
+We use Cartesian mechanistic physics to explain it as a hole for a mind. Information then flows into that hole. This either expands of constricts the mind. Crudity and materialism is  
+
+{{< /l >}}
 
 
 {{< r a="Muslim" >}}
@@ -104,14 +112,37 @@ By explaining the principles of the Supreme Entity, then finding how the person 
 - remove the eggshell, then fry or boil it
 
 A person with no water but has oil will logically fry the egg. Another person that has no oil but has water will boil it.
+{{< /l >}}
 
+{{< l a="Spiritual-Superphysics" >}}
 Similarly, some people are born into Asian families which are tolerant of the idea of spirits. For them, we recommend those esoteric paths. Others are born into Western families that want money and wealth. For them, we recommend the New Agey Law of Attraction type paths.
 
-So instead of 'Do this, Do that', ours is 'If this then that' -- we try to know the person's mentality and situation first, instead of making blanket impositions
+So instead of 'Do this, Do that', ours is 'If this then that' -- we try to know the person's mentality and situation first, instead of making blanket impositions. This is what **Socratic Dialectics** does. 
 {{< /l >}}
 
 {{< r a="Muslim" >}}
-But there is nothing spiritual about New Agey woo. The Law of Attraction and positive thinking are just mental, not spiritual. 
+What is Socratic Dialectics?
+{{< /r >}}
+
+{{< l a="Spiritual-Superphysics" >}}
+It's a process of getting the truth, or unlocking the mysteries of the universe. This is done by probing the object (for Material Superphysics) or the soul (Spirirtual Superphysics). 
+
+This is because every object or soul is made up of compounded waves, and reality is generated in real time from those waves relative to other waves in existence. By knowing the deepest wave of the person then we can understand how his reality works. We can then solve his problem by finding a path out of the maze that he has formed around himself. Think of it as a "Fourier transform" for the soul. 
+{{< /l >}}
+
+{{< r a="Boomer" >}}
+But all this sounds like New Agey woo made to sound scientific. No one has seen the waves of the soul. 
+{{< /r >}}
+
+<!-- The Law of Attraction and positive thinking are just mental, not spiritual. -->
+
+{{< l a="Spiritual-Superphysics" >}}
+Sight is facilitated by electromagnetism. The soul is aethereal and is 2 layers above electromagnetism and 1 layer above spacetime. This is why the properties of the soul can only be detected by comparing the object or person to itself and others throughout space and time, as a pattern just as a wave is a pattern. 
+{{< /l>}}
+
+
+{{< r a="Muslim" >}}
+But space and time are just mental constructs. How can it lead to spirituality?
 {{< /r >}}
 
 {{< l a="Spiritual-Superphysics" >}}

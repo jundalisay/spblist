@@ -10,34 +10,6 @@ icon: "/icons/socrates.png"
 ---
 
 
-{{< l a="Socrates" >}}
-But if there are 3 feet this way and 3 feet that way, the whole space will be 3 x 3 feet.
-{{< /l >}}
-
-{{< r a="Boy" >}}
-It is 9 feet.
-{{< /r >}}
-
-{{< l a="Socrates" >}}
-The double of 4 is 8. Then the shape of eight is not made out of a line of 3.
-{{< /l >}}
-
-
-{{< r a="Boy" >}}
-Correct.
-{{< /r >}}
-
-
-{{< l a="Socrates" >}}
-But from what line?—tell me exactly. If you would rather not reckon, try and show me the line.
-{{< /l >}}
- 
-
-
-{{< r a="Boy" >}}
-Socrates, I do not know.
-{{< /r >}}
-
 
 {{< l a="Socrates" >}}
 Do you see, Meno, what advances he has made in his power of recollection? 
@@ -45,14 +17,10 @@ Do you see, Meno, what advances he has made in his power of recollection?
 He did not know at first, and he does not know now, what is the side of a shape of 8 feet.
 
 But then he thought that he knew, and answered confidently as if he knew, and had no difficulty. Now he has a difficulty, and neither knows nor fancies that he knows.
+
+He is better off in knowing his ignorance.
 {{< /l >}}
 
-
-MENO: True.
-
-SOCRATES: Is he not better off in knowing his ignorance?
-
-MENO: I think that he is.
 
 SOCRATES: If we have made him doubt, and given him the 'torpedo's shock,' have we done him any harm?
 
@@ -72,15 +40,7 @@ MENO: I think not, Socrates.
 
 
 {{< l a="Socrates" >}}
-Then he was the better for the torpedo's touch?
-{{< /l >}}
-
-
-MENO: I think so.
-
-
-{{< l a="Socrates" >}}
-Mark now the farther development. I shall only ask him, and not teach him. He shall share the enquiry with me.
+Then he was the better for the torpedo's touch. Mark now the farther development. I shall only ask him, and not teach him. He shall share the enquiry with me.
 
 Tell me if you find me telling or explaining anything to him, instead of eliciting his opinion. 
 
