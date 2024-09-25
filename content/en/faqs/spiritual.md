@@ -88,8 +88,9 @@ What is consciousness?
 {{< /r >}}
 
 {{< l a="Spiritual-Superphysics" >}}
-We use Cartesian mechanistic physics to explain it as a hole for a mind. Information then flows into that hole. This either expands of constricts the mind. Crudity and materialism is  
-
+We use Cartesian mechanistic physics to explain it as a hole for a mind. Information then flows into that hole. This either expands of constricts the mind. This is similar to how water can expand a rubber hose, and how it can be shrunk via Bernoulli's principle.  
+- Crudity and materialism is when the mind is constricted more than average. This makes it perceive less of the universe and more of its limited physical aspects. 
+- Englightenment is when it is expanded. This makes it perceive so much more beyond the physical.
 {{< /l >}}
 
 
@@ -98,7 +99,7 @@ Ah that's why Superphysics is "Super" because it goes beyond physical perception
 {{< /r >}}
 
 {{< l a="Spiritual-Superphysics" >}}
-Yes. The 6-sense ability to go beyond physicality is inherent in all humans. So it's strange that Western sciences purposely cancel this ability and keep humans ignorant. It's like buying the latest iPhone only to use it for calls. It's a sheer waste of human potential. 
+Yes. The 6-sense ability to expand and go beyond physicality is inherent in all humans. So it's strange that the Western sciences purposely cancel this ability and keep humans ignorant. It's like buying the latest iPhone only to use it for calls. It's a sheer waste of human potential. 
 {{< /l >}}
 
 
@@ -146,21 +147,31 @@ But space and time are just mental constructs. How can it lead to spirituality?
 {{< /r >}}
 
 {{< l a="Spiritual-Superphysics" >}}
-Correct. But at least it makes the mind more subtle (closer to the aether instead of matter). Spirituality becomes easier to grasp and detect when the mind becomes subtle (i.e. the focus is on the heart more than the brain).
+Correct. But at least it makes the mind more subtle and expanded (closer to the nature of the  aether instead of matter). Spirituality becomes easier to grasp and detect when the mind becomes subtle (i.e. the focus is on the heart more than the brain).
 
 Mentalities have a lot of levels just as school has levels. You can't expect a pre-school student to upgrade to high school immediately. Normally, they should go to elementary school next and not stay stuck in pre-school year after year.
 
 Likewise, the human species seems to stay stuck in materialism and its many problems generation after generation. We want to drive an upgrade towards the more subtle levels, even if it is not totally spiritual.    
 {{< /l >}}
 
-
-{{< r a="Asker" >}}
-Oh that's great! A lot of people get conned by those Law of Attraction scams. I tried it but my prince charming hasn't come yet. Can you help me manifest my knight in shining armor?
+{{< r a="Muslim" >}}
+What is spirituality anyway?
 {{< /r >}}
 
+{{< l a="Spiritual-Superphysics" >}}
+Spirituality is when the mind becomes more aligned with the cause of existence instead of being the effect. This can only be done through metaphysics which, according to Aristotle, is the study of first causes. When you are the cause then you can make any effect that you want. 
+{{< /l >}}
+
+
+{{< r a="Asker" >}}
+Oh that's great! I want to "effect" my prince charming and a lot of money to enjoy my existence.
+{{< /r >}}
+
+<!-- A lot of people get conned by those Law of Attraction scams. I tried it but my prince charming hasn't come yet. Can you help me manifest my knight in shining armor? -->
 
 {{< l a="Spiritual-Superphysics" >}}
-We focus on using such "Laws" to discover more of the Supreme. Perhaps if you get closer to the Supreme, you might get a  prince charming if that is really destined for you by your *dharma*. But most often, such ideas are impositions by the Negative Ego and not from the Supreme.   
+But that will just trap you into effects even more. The closer you are to the cause, the less you will give importance to effects such as the perceptions and feelings that you used to have. Instead, you will have totally new feelings and perceptions that matches an expanding mind. 
+<!-- We focus on using such "Laws" to discover more of the Supreme. Perhaps if you get closer to the Supreme, you might get a  prince charming if that is really destined for you by your *dharma*. But most often, such ideas are impositions by the Negative Ego and not from the Supreme.    -->
 {{< /l >}}
 
 
@@ -222,11 +233,11 @@ That's great! I can spend more effort catching how my brain makes its thoughts o
 
 
 {{< l a="Spiritual-Superphysics" >}}
-Not really. There are many mentalities and some are naturally vegetarian, while others are cruder and might have problems without meat. 
+Not really. There are many kinds of people. Some are naturally vegetarian, while others are cruder and might have problems without meat. 
 
 The main principle is that we eat food to get the chi or pranah content (Descartes' animal spirits) from it. This chi is a kind of energy which has wavelength just as light and electricity has. 
 
-The goal is to raise your frequency by shortening your wavelength. This will make you better perceive the gaps between spacetime slices.
+The goal is to raise your frequency by shortening your wavelength. This will make you better perceive the gaps between spacetime slices, just as a thinner needle can go through smaller holes. 
 
 Carnivores such as wolves and vultures are designed to ingest lower wavelength, while herbivores ingest shorter. 
 
