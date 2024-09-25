@@ -242,6 +242,12 @@ The goal is to raise your frequency by shortening your wavelength. This will mak
 Carnivores such as wolves and vultures are designed to ingest lower wavelength, while herbivores ingest shorter. 
 
 <!-- Plants get energy directly as solar wavelengths which they use to absorb nutrients from the soil. -->
+{{< /l >}}
 
-Samadhi requires very short wavelengths. So we recommend a plant-based diet for those aiming for samadhi. For the rest, science advocates a planetary health diet which is mostly short wavelength, which might be good enough for some spiritual experiences. But at least, it will make the mind subtler. 
-{{< /r >}}
+{{< l a="Spiritual-Superphysics" >}}
+Samadhi requires very short wavelengths. So we recommend a plant-based diet for those aiming for samadhi. 
+
+For the rest, science advocates a planetary health diet which is mostly short wavelength, which might be good enough for some spiritual experiences. But at least, it will make the mind subtler. 
+
+If you must eat meat, at least imagine the animal you're eating being killed just to be food for you. It would be an exercise to expand your mind to think and feel beyond your self and into others.  
+{{< /l >}}
