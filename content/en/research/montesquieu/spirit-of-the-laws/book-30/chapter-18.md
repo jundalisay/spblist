@@ -11,11 +11,13 @@ icon: /icons/mont.png
 
 ### CHAP. 18: The double Service
 
-IT was a fundamental principle of the mo= narchy, that whosoever was subject to the military power of another person, was subject also to his civil jurisdiction. Thus the capitulary* of Lewis the Debonnaire in 815 AD, makes the military power of the count, and his civil jurisdicti= on over the freemen, keep always an equal pace. 
+IT was a fundamental principle of the monarchy, that whosoever was subject to the military power of another person, was subject also to his civil jurisdiction. 
 
-Thus the placita=E2=80= =A0 of the count who carried the freemen against the enemy, were=E2=80=A1 called the placit= a of the freemen; from whence undoubtedly came this maxim, that the questio= ns relating to liberty could be decided only in the count=E2=80=99s placita= , and not in those of his officers. Thus the count never led the vassals=C2=A7 belonging to the= bishops or to the abbots against the enemy, because they were not subject = to this civil jurisdiction. 
+Thus the capitulary* of Lewis the Debonnaire in 815 AD, makes the military power of the count, and his civil jurisdiction over the freemen, keep always an equal pace. 
 
-Thus he never commanded the rear-vassals belong= ing to the king=E2=80=99s vassals. Thus the glossary** of the English laws informs us, that tho= se to whom=E2=80=A0=E2= =80=A0 the Saxons gave the name of Coples, = were by the Normans called Counts, or companions, because they shared the justiciary fines wit= h the King. Thus we see, that at all times the duty of a vassal=E2=80=A1=E2=80=A1 towards his= lord, was to bear arms and to try his peers in his court.
+Thus the placita of the count who carried the freemen against the enemy, were called the placita of the freemen; from whence undoubtedly came this maxim, that the questio= ns relating to liberty could be decided only in the count placita, and not in those of his officers. Thus the count never led the vassals belonging to the= bishops or to the abbots against the enemy, because they were not subject to this civil jurisdiction. 
+
+Thus he never commanded the rear-vassals belong ing to the king's vassals. Thus the glossary** of the English laws informs us, that those to whom the Saxons gave the name of Coples, = were by the Normans called Counts, or companions, because they shared the justiciary fines wit= h the King. Thus we see, that at all times the duty of a vassal=E2=80=A1=E2=80=A1 towards his= lord, was to bear arms and to try his peers in his court.
 
 One of the reasons which produced this c= onnexion between the judiciary right and that of leading the forces against= the enemy, was because the person who led them exacted at the same time th= e payment of the fiscal duties, which consisted in some carriage services d= ue by the freemen, and in general in certain judiciary profits, of which we= shall treat hereafter.
 
@@ -37,28 +39,47 @@ With regard to the fiscal power, its nat= ure was such, that the count could har
 ### CHAP. 29: Compositions among the barbarous Nations.
 
 
-SINCE it is impossible to have any toler= able notion of our political law, unless we are thoroughly acquainted with = the laws and manners of the German nations, I shall therefore pause here a = while, in order to enquire into those manners and laws.
+SINCE it is impossible to have any tolerable notion of our 
 
-It appears by Tacitus, that the Germans = knew only two capital crimes; they hanged traitors, and drowned cowards; th= ese were the only public crimes among those people. When a man=E2=80=A0 had injured another, th= e relations of the person injured took share in the quarrel, and the offenc= e was cancelled by a satisfaction. This satisfaction was made to the person= offended when capable of receiving it: or to the relations if they had bee= n injured in common, or if by the decease of the party injured, the satisfa= ction had devolved to them.
+We can only know the political law of a nation if we know their laws and manners.
 
-In the manner mentioned by Tacitus, thes= e satisfactions were made by the mutual agreement of the parties; hence in = the codes of the barbarous nations these satisfactions are called compositi= ons.
+Tacitus says that the Germans knew only 2 capital crimes:
 
-The law of the Frisians is the only one I find that has left the people in that situation, in which every family at variance w= as in some measure in the state of nature, and in which being unrestrained = either by a political or civil law, they might give a loose to their re= venge, till they had obtained satisfaction. Even this law was moderated; a = regulation was made that the person whose life was sought after should be u= nmolested in his own house, as also in going and coming from church, and fr= om the court where causes were tried.*
+1. They hanged traitors
+2. Drowned cowards
 
-The compilers of the Salic law cite=E2=88=A5 an ancient usag= e of the Franks, by which a person who had dug a corpse out of the ground, = in order to strip it, should be banished from society, till the relations h= ad consented to his being re-admitted. And as before that time strict order= s were issued to every one, even to the offender=E2=80=99s own wife, not to= give him a morsel of bread, or to receive him under their roof; such a per= son was in respect to others, and others in respect to him, in a state of n= ature, till an end was put to this state by a composition.
+These were the only public crimes among those people. When a man had injured another, th= e relations of the person injured took share in the quarrel, and the offenc= e was cancelled by a satisfaction. 
 
-This excepted, we find that the sages of= the different barbarous nations thought of determining by themselves, what= would have been too long and too dangerous to expect from the mutual agree= ment of the parties. They took care to fix the value of the composition whi= ch the party injured was to receive. All those barbarian laws are in this r= espect most admirably exact; the several cases are minutely=C2=A7 distinguished, the circumstan= ces are weighed, the law substitutes itself in the place of the person inju= red, and insists upon the same satisfaction as he himself would have demand= ed in cold blood.
+This satisfaction was made to the person= offended when capable of receiving it: or to the relations if they had bee= n injured in common, or if by the decease of the party injured, the satisfa= ction had devolved to them.
 
-By the establishing of those laws, the G= erman nations quitted that state of nature, in which they seemed to have li= ved in Tacitus=E2=80=99s time.
+In the manner mentioned by Tacitus, thes= e satisfactions were made by the mutual agreement of the parties; hence in the codes of the barbarous nations these satisfactions are called compositions.
 
-Rotharis declares in the law of=E2=80=A0 the Lombards, t= hat he had increased the compositions anciently accustomed for wounds, to t= he end that the wounded person being fully satisfied, all enmities should c= ease. And indeed, as the Lombards, from a very poor people, were grown rich= by the conquest of Italy, the ancient compositions were become frivolous, = and reconcilements prevented. I do not question but this was the motive, wh= ich obliged the other chiefs of the conquering nations, to make the differe= nt codes of laws now extant.
+The law of the Frisians is the only one I find that has left the people in that situation, in which every family at variance was in some measure in the state of nature, and in which being unrestrained either by a political or civil law, they might give a loose to their re= venge, till they had obtained satisfaction. 
 
-The principal composition was that which= the murderer paid to the relations of the deceased. The difference of=E2=80=A0 conditions prod= uced a difference in the compositions: Thus in the law of the Angli, there = was a composition of six hundred sous for the murder of an adeling, two hundred for that of a freeman, and thirty for kill= ing a bondman. The largeness therefore of the composition for the life of a= man, was one of his chief privileges; for besides the distinction it made = of his person, it likewise established a greater security in his favour amo= ng rude and boisterous nations.
+Even this law was moderated; a regulation was made that the person whose life was sought after should be u= nmolested in his own house, as also in going and coming from church, and fr= om the court where causes were tried.*
 
-This we are made sensible of by the law = of the=E2=80=A1 Bava= rians: it gives the names of the Bavarian families who received a double co= mposition, because they were the first=E2=88=A5 after the Agilolfings. The Agilolfings were of = the ducal race, and it was customary with this nation to choose a duke out = of that family; these had a quadruple composition. The composition for a du= ke exceeded by a third, that which had been established for the Agilolfings= : =E2=80=9CBecause he is a duke, says the law, = a greater honour is paid to him than to his relations.=E2=80=9D
+The compilers of the Salic law cite an ancient usag= e of the Franks, by which a person who had dug a corpse out of the ground, in order to strip it, should be banished from society, till the relations h= ad consented to his being re-admitted. 
+
+As before that time strict order= s were issued to every one, even to the offenders own wife, not to give him a morsel of bread, or to receive him under their roof; such a person was in respect to others, and others in respect to him, in a state of n= ature, till an end was put to this state by a composition.
+
+This excepted, we find that the sages of= the different barbarous nations thought of determining by themselves, what= would have been too long and too dangerous to expect from the mutual agreement of the parties. 
+
+They took care to fix the value of the composition whi= ch the party injured was to receive. All those barbarian laws are in this r= espect most admirably exact; the several cases are minutely distinguished, the circumstan= ces are weighed, the law substitutes itself in the place of the person inju= red, and insists upon the same satisfaction as he himself would have demand= ed in cold blood.
+
+By the establishing of those laws, the G= erman nations quitted that state of nature, in which they seemed to have lived in Tacitus' time.
+
+Rotharis declares in the law of the Lombards, t= hat he had increased the compositions anciently accustomed for wounds, to the end that the wounded person being fully satisfied, all enmities should c= ease. 
+
+As the Lombards, from a very poor people, were grown rich= by the conquest of Italy, the ancient compositions were become frivolous, = and reconcilements prevented. I do not question but this was the motive, wh= ich obliged the other chiefs of the conquering nations, to make the differe= nt codes of laws now extant.
+
+The principal composition was that which= the murderer paid to the relations of the deceased. The difference of conditions prod= uced a difference in the compositions: Thus in the law of the Angli, there = was a composition of six hundred sous for the murder of an adeling, two hundred for that of a freeman, and thirty for kill= ing a bondman. The largeness therefore of the composition for the life of a= man, was one of his chief privileges; for besides the distinction it made = of his person, it likewise established a greater security in his favour amo= ng rude and boisterous nations.
+
+This we are made sensible of by the law = of the=E2=80=A1 Bava= rians: it gives the names of the Bavarian families who received a double co= mposition, because they were the first=E2=88=A5 after the Agilolfings. The Agilolfings were of = the ducal race, and it was customary with this nation to choose a duke out = of that family; these had a quadruple composition. 
+
+The composition for a du= ke exceeded by a third, that which had been established for the Agilolfings= : Because he is a duke, says the law, = a greater honour is paid to him than to his relations.
 
 
-All these compositions were valued in mo= ney. But as those people, especially when they lived in Germany, had very l= ittle specie, they might pay it in cattle, corn, moveables, arms, dogs, haw= ks=C2=A7, lands, &am= p;c. The law itself*= frequently determined the value of those things; which explains how it was= possible for them to have such a number of pecuniary punishments with so v= ery little money.
+All these compositions were valued in mo= ney. But as those people, especially when they lived in Germany, had very l= ittle specie, they might pay it in cattle, corn, moveables, arms, dogs, hawks, lands, &am= p;c. The law itself*= frequently determined the value of those things; which explains how it was possible for them to have such a number of pecuniary punishments with so v= ery little money.
 
 These laws were therefore employed in ex= actly determinating the difference of wrongs, injuries, and crimes; to the = end that every one might know how far he had been injured or offended, the = reparation he was to receive, and especially that he was to receive no more= .
 
@@ -72,7 +93,9 @@ I have just now made mention of a text o= f the Salic law, in which the legislat
 
 It would have been absolutely unjust to = grant a composition to the relations of a robber killed in the fact, or to = the relations of a woman who had be repudiated for the crime of adultery. T= he law* of the Bavar= ians allowed no composition in the like case, but punished the relations wh= o sought revenge.
 
-It is no rare thing to meet with composi= tions for involuntary actions in the codes of the laws of the Barbarians. T= he law of the Lombards is generally very prudent; it=E2=80=A0 ordained, that in those cases the= composition should be according to the person=E2=80=99s generosity; Edition: current; Page: [399] and = that the relations should no longer be permitted to pursue their revenge.
+It is no rare thing to meet with composi= tions for involuntary actions in the codes of the laws of the Barbarians. 
 
-Clotharius the second made a very wise d= ecree: he forbade=E2=80= =A0 the person robbed to receive any clandestine composition, and witho= ut an order from the judge. We shall presently see the motive of this law.<= /p>
+The law of the Lombards is generally very prudent; it=E2=80=A0 ordained, that in those cases the= composition should be according to the person=E2=80=99s generosity; and that the relations should no longer be permitted to pursue their revenge.
+
+Clotharius the second made a very wise d= ecree: he forbade=E2=80= =A0 the person robbed to receive any clandestine composition, and without an order from the judge. We shall presently see the motive of this law.
 

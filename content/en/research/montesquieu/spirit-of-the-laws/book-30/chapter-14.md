@@ -9,26 +9,34 @@ icon: /icons/mont.png
 ---
 
 
-AFTER the Barbarians had quitted their own country, they wanted to have their deeds written. But they found a difficulty in writing German words with Roman letters, so they published these laws in Latin.
+AFTER the Barbarians had quitted their own country, they wanted to have their deeds written. 
 
-In the confusion and rapidity of the con= quest, most things changed their nature; in order however to express them, = they were obliged to make use of such old Latin words, as were most analogo= us to the new usages. 
+But they found a difficulty in writing German words with Roman letters, so they published these laws in Latin.
 
-Thus whatever was likely to revive the idea of the ancient census = of the Romans, they called by the name of census tributum; and when things had no relation at all to the Roman census, t= hey expressed, as well as they could, the German words by Roman letters: th= us they formed the word fredum, on which I shal= l have occasion to descant in the following chapters.
+In the rapidity of the conquest, most things changed their nature. In order to express them, they had to use old Latin words.
 
-The words census and tributum having been employed in an ar= bitrary manner, this has thrown some obscurity on the signification in whic= h these words were used under our princes of the first and second race. 
+<!-- , as were most analogo= us to the new usages.  -->
 
-And modern* authors who h= ave adopted particular systems, having found these words in the writings of= those days, imagined that what was then called census, was exactly the cen= sus of the Romans; and from thence they inferred this consequence, that our= kings of the two first races had put themselves in the place of the Roman = emperors, and made no change in =E2=80=A1their administration. 
+Thus whatever was likely to revive the idea of the ancient census = of the Romans, they called by the name of census tributum.
 
-Besides, as particular duties rais= ed under the second race were by change and by certain=E2=88=A5 restrictions converted into other= s, they inferred from thence that these duties were the census of the Roman= s; and, as since the modern regulations, they found that the crown demesnes= were absolutely unalienable, they pretended that those duties which repres= ented the Roman census, and did not form a part of the demesnes, were mere = usurpation. I omit the other consequences.
+When things had no relation at all to the Roman census, they expressed, as well as they could, the German words by Roman letters: 
+
+Thus they formed the word fredum, on which I shal= l have occasion to descant in the following chapters.
+
+The words census and tributum having been employed in an ar= bitrary manner, this has thrown some obscurity on the signification in which these words were used under our princes of the first and second race. 
+
+And modern* authors who have adopted particular systems, having found these words in the writings of those days, imagined that what was then called census, was exactly the cen= sus of the Romans; and from thence they inferred this consequence, that our= kings of the two first races had put themselves in the place of the Roman = emperors, and made no change in their administration. 
+
+Besides, as particular duties raised under the second race were by change and by certain restrictions converted into others, they inferred from thence that these duties were the census of the Roman's; and, as since the modern regulations, they found that the crown demesnes= were absolutely unalienable, they pretended that those duties which repres= ented the Roman census, and did not form a part of the demesnes, were mere usurpation. I omit the other consequences.
 
 To apply the ideas of the present time t= o distant ages, is a source of error. To these people who want to modernize= all the ancient ages, I shall say what the Egyptian priests said to Solon,= =E2=80=9CO Athenians, you are mere children!=E2=80=9D
 
 
-### CHAP. XV.: That what they called census was raised only on the bondmen, and not on the fr= eemen.
+### Chapter 15: What they called census was raised only on the bondmen, not freemen.
 
-THE king, the clergy, and the lords rais= ed regular taxes, each on the bondmen of their respective demesnes. I prove= it with respect to the king, by the capitulary de Vil= lis; with regard to the clergy, by the codes of the* laws of the Barbarians; and with rel= ation to the lords, by the regulations=E2=80=A0 which Charlemaign made concerning this subject.
+THE king, the clergy, and the lords rais= ed regular taxes, each on the bondmen of their respective demesnes. I prove= it with respect to the king, by the capitulary de Vil= lis; with regard to the clergy, by the codes of the* laws of the Barbarians; and with rel= ation to the lords, by the regulations which Charlemaign made concerning this subject.
 
-These taxes were called census; they were =C5=93conomical and not fiscal duties, mere p= rivate services and not public obligations.
+These taxes were called census; they were economical and not fiscal duties, mere p= rivate services and not public obligations.
 
 What they called census at that time, was a tax raised upon the bondmen.= This I prove by a formulary of Marculfus containing a permission from the = king to enter into holy orders, provided the persons be* free-born, and not enrolled in the regis= ter of the census. I prove it also by a commiss= ion from Charlemaign to a count=E2=80=A1, whom he had sent into Saxony; which contains the infran= chisement of the Saxons for having embraced Christianity, and is properly a= charter of freedom=E2=88= =A5. This prince restores them to their former=C2=A7 civil liberty, and exempts them from pay= ing the census. It was therefore the Edition: current; Page: [383<= span class=3D"bracket">] same thing to be a bondman as to pay= the census, to be free as not to pay it.
 

@@ -1,3 +1,10 @@
+---
+heading: Chapter 5b
+title:  "The Old Testament"
+image:  "/covers/12th.jpg"
+description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
+weight: 32
+---
 
 
 Awed by what he saw, yet as determined as ever to reach his destination,

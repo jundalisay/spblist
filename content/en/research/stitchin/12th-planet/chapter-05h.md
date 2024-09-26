@@ -1,3 +1,12 @@
+---
+heading: Chapter 5b
+title:  "The Old Testament"
+image:  "/covers/12th.jpg"
+description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
+weight: 32
+---
+
+
 The tale of Etana informs us that, seeking a shem, Etana had to communicate
 with an Eagle inside a pit. A seal depiction shows a winged, tall structure (a
 launch tower?) above which an eagle flies off. (Fig. 78)

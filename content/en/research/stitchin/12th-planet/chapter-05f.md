@@ -1,3 +1,11 @@
+---
+heading: Chapter 5b
+title:  "The Old Testament"
+image:  "/covers/12th.jpg"
+description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
+weight: 32
+---
+
 
 The futile search by mortal Man for the Tree of Life is the subject of one of the
 longest, most powerful epic texts bequeathed to human culture by the Sumerian

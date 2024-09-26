@@ -1,15 +1,21 @@
+---
+heading: Chapter 5b
+title:  "The Old Testament"
+image:  "/covers/12th.jpg"
+description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
+weight: 32
+---
+
+
 Professor H. Frankfort (Cylinder Seals), demonstrating how both the art of
 making the Mesopotamian cylinder seals and the subjects depicted on them
 spread throughout the ancient world, reproduces the design on a seal found in
 Crete and dated to the thirteenth century B.C. The seal design clearly depicts a
 rocket ship moving in the skies and propelled by flames escaping from its rear.
 (Fig. 69)
-Illustration:
-Propelled Rocket in the Sky
 
-The winged horses, the entwined animals, the winged celestial globe, and the
-deity with horns protruding from his headdress are all known Mesopotamian
-themes. It can certainly be assumed that the fiery rocket shown on the Cretan seal
+
+The winged horses, the entwined animals, the winged celestial globe, and the deity with horns protruding from his headdress are all known Mesopotamian themes. It can certainly be assumed that the fiery rocket shown on the Cretan seal
 was also an object familiar throughout the ancient Near East.
 Indeed, a rocket with "wings" or fins—reachable by a "ladder"—can be seen on a
 tablet excavated at Gezer, a town in ancient Canaan, west of Jerusalem. The

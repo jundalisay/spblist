@@ -17,7 +17,7 @@ The Burgundians settled in the east; and the Franks subdued very n= ear all the 
 
 No doubt but these Barbarians retained i= n their respective conquests the manners, inclinations, and usages of their= own country; for no nation can change in an instant their manner of thinki= ng and acting. 
 
-These people in Germany neglected agriculture. It seems by C= =C3=A6sar and Tacitus, that they applied themselves greatly to a pastoral l= ife: hence the regulations of the codes of the barbarian laws are almost all relating to their flocks. Roricon, who wrote a history among the Franks= , was a shepherd.
+These people in Germany neglected agriculture. It seems by C= =C3=A6sar and Tacitus, that they applied themselves greatly to a pastoral l= ife: hence the regulations of the codes of the barbarian laws are almost all relating to their flocks. Roricon, who wrote a history among the Franks, was a shepherd.
 
 
 
@@ -76,7 +76,8 @@ The division therefore was not general; but the Romans who gave the division, we
 
 The Roman was injured the least possible. The Burgundians= as a martial people, fond of hunting and of a pastoral life, did not refus= e to accept of the fallow grounds; while the Romans kept such lands as were= properest for Edition: curre= nt the Burgundian=E2=80=99s flock fattened the Romans field.
 
-### CHAP. X.: Of Servitudes.
+
+### Chapter 10: Servitudes
 
 THE law of the Burgundians takes notice, that when those people settled in Gaul, they were allowed 2/3 of the land, and 1/3 of the bondmen. 
 

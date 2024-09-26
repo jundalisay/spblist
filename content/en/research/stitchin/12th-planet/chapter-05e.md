@@ -1,3 +1,12 @@
+---
+heading: Chapter 5b
+title:  "The Old Testament"
+image:  "/covers/12th.jpg"
+description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
+weight: 32
+---
+
+
 The traditional translation of shem as "name" has kept the tale unintelligible for
 generations. Why did the ancient residents of Babel—Babylonia—exert themselves
 to "make a name," why was the "name" to be placed upon "a tower whose top shall
