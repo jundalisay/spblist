@@ -3,7 +3,7 @@ heading: Chapter 11
 title:  "The Mutiny of the Anunnaki"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
-weight: 44
+weight: 70
 ---
 
 
@@ -176,14 +176,14 @@ group of Nefilim who founded Eridu under the command of Enki numbered fifty.
 Could it be that fifty was the number of Nefilim in each landing party?
 It is, we believe, quite conceivable that the Nefilim arrived on Earth in groups of
 fifty. As the visits to Earth became regular, coinciding with the opportune
-launching times from the Twelfth Planet, more Nefilim would arrive. Each time,
+launching times from the 12th Planet, more Nefilim would arrive. Each time,
 some of the earlier arrivals would ascend in an Earth module and rejoin the
 spaceship for a trip home. But, each time, more Nefilim would stay on Earth, and
-the number of Twelfth Planet astronauts who stayed to colonize Earth grew from
+the number of 12th Planet astronauts who stayed to colonize Earth grew from
 the initial landing party of fifty to the "600 who on Earth settled."
 * * * * *
 How did the Nefilim expect to achieve their mission—to mine on Earth its
-desired minerals, and ship the ingots back to the Twelfth Planet—with such a
+desired minerals, and ship the ingots back to the 12th Planet—with such a
 small number of hands?
 Undoubtedly, they relied on their scientific knowledge. It was there that Enki's
 full value becomes clear—the reason for his, rather than Enlil's, being the first to

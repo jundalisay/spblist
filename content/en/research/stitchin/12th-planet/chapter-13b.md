@@ -3,7 +3,7 @@ heading: Chapter 13
 title:  "Genetic Engineering By Enki and Ninti"
 image:  "/covers/12th.jpg"
 description: "Ninti, in a pose that indicates that she was a co-worker rather than a spouse, is seated next to Enki"
-weight: 53
+weight: 78
 ---
 
 

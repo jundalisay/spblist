@@ -3,7 +3,7 @@ heading: Chapter 10
 title:  "Cities of the Gods"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
-weight: 36
+weight: 64
 ---
 
 
@@ -31,9 +31,13 @@ Earth must have struck them favorably.
 
 When the Nefilim first came to Earth, Earth was in the midst of an ice age—a glacial period that was one of the icing and deicing phases of Earth's climate.
 
+
+{{< q >}}
 Early glaciation—begun some 600,000 years ago
 First warming (interglacial period)—550,000 years ago
 Second glacial period—480,000 to 430,000 years ago
+{{< /q >}}
+
 
 When the Nefilim first landed on Earth some 450,000 years ago, about a third of Earth's land area was covered with ice sheets and glaciers. 
 

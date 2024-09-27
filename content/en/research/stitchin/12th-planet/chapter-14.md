@@ -3,7 +3,7 @@ heading: Chapter 14
 title:  "When the Gods Fled from Earth"
 image:  "/covers/12th.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
-weight: 57
+weight: 86
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 heading: Chapter 6
-title:  "The Twelfth Planet"
+title:  "The 12th Planet"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
-weight: 20
+weight: 42
 ---
 
 

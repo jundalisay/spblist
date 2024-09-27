@@ -3,7 +3,7 @@ heading: Chapter 11
 title:  "The Mutiny of the Anunnaki"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
-weight: 44
+weight: 69
 ---
 
 
@@ -46,7 +46,13 @@ A lament for "the pure son," the young Dumuzi, reports that he was carried off t
 
 A long text, little understood because no intact version has been found, deals with some major dispute between Ira (Nergal's title as Lord of the Lower World) and his brother Marduk. 
 
-In the course of the dispute, Nergal left his domain and confronted Marduk in Babylon; Marduk, on the other hand, threatened: "To the Apsu will I descend, the Anunnaki to supervise… my raging weapons against them I will raise." To reach the Apsu, he left the Land of Mesopotamia and traveled over "waters that rose up." His destination was Arali in the "basement" of Earth, and the texts provide a precise clue as to where this "basement" was:
+In the course of the dispute, Nergal left his domain and confronted Marduk in Babylon; Marduk, on the other hand, threatened: 
+
+"To the Apsu will I descend, the Anunnaki to supervise… my raging weapons against them I will raise." 
+
+To reach the Apsu, he left the Land of Mesopotamia and traveled over "waters that rose up." 
+
+His destination was Arali in the "basement" of Earth, and the texts provide a precise clue as to where this "basement" was:
 
 {{< q >}}
 In the distant sea, 100 beru of water [away] …
@@ -76,9 +82,14 @@ The latter spelling of the Sumerian term enables identification of its parallel 
 The Sumerian pictograph for AB.ZU was that of an excavation deep into Earth, mounted by a shaft. Thus, Ea was not the lord of an indefinite "watery deep," but the god in charge of the exploitation of Earth's minerals! (Fig. 139)
 
 In fact, the Greek abyssos, adopted from the Akkadian apsu, also meant an extremely deep hole in the ground. Akkadian textbooks explained that "apsu is nikbu"; the meaning of the word and that of its Hebrew equivalent nikba is very precise: a deep, man-made cutting or drilling into the ground.
-P. Jensen (Die Kosmologie der Babylonier) observed back in 1890 that the oftencountered Akkadian term Bit Nimiku should not be translated as "house of wisdom" but as "house of deepness." He quoted a text (V.R30, 49–50ab) that stated: "It is from Bit Nimiku that gold and silver come." 
 
-Another text (III.R57, 35ab), he pointed out, explained that the Akkadian name "Goddess Shala of Nimiki" was the translation of the Sumerian epithet "Goddess Who Hands the Shining Bronze." The Akkadian term nimiku, which has been translated as "wisdom," Jensen concluded, "had to do with metals." But why, he admitted simply, "I do not know."
+P. Jensen (Die Kosmologie der Babylonier) observed back in 1890 that the oftencountered Akkadian term Bit Nimiku should not be translated as "house of wisdom" but as "house of deepness." 
+
+He quoted a text (V.R30, 49–50ab) that stated: "It is from Bit Nimiku that gold and silver come." 
+
+Another text (III.R57, 35ab), he pointed out, explained that the Akkadian name "Goddess Shala of Nimiki" was the translation of the Sumerian epithet "Goddess Who Hands the Shining Bronze." 
+
+The Akkadian term nimiku, which has been translated as "wisdom," Jensen concluded, "had to do with metals." But why, he admitted simply, "I do not know."
 
 Some Mesopotamian hymns to Ea exalt him as Bel Nimiki, translated "lord of wisdom"; but the correct translation should undoubtedly be "lord of mining." Just as the Tablet of Destinies at Nippur contained orbital data, it follows that the Tablet of Wisdom entrusted to Nergal and Ereshkigal was in fact a "Tablet of Mining," a "data bank" pertaining to the mining operations of the Nefilim.
 
@@ -87,7 +98,9 @@ As Lord of the Abzu, Ea was assisted by another son, the god GI.BlL ("he who bur
 
 The metal ores mined in southeastern Africa by the Nefilim were carried back to Mesopotamia by specially designed cargo ships called MA.GUR UR.NU AB.ZU ("ship for ores of the Lower World"). There, the ores were taken to Bad-Tibira, whose name literally meant "the foundation of metalworking." 
 
-Smelted and refined, the ores were cast into ingots whose shape remained unchanged throughout the ancient world for millennia. Such ingots were actually found at various Near Eastern excavations, confirming the reliability of the Sumerian pictographs as true depictions of the objects they "wrote" out; the Sumerian sign for the term ZAG ("purified precious") was the picture of such an ingot. In earlier times it apparently had a hole running through its length, through which a carrying rod was inserted. (Fig. 141)
+Smelted and refined, the ores were cast into ingots whose shape remained unchanged throughout the ancient world for millennia. 
+
+Such ingots were actually found at various Near Eastern excavations, confirming the reliability of the Sumerian pictographs as true depictions of the objects they "wrote" out; the Sumerian sign for the term ZAG ("purified precious") was the picture of such an ingot. In earlier times it apparently had a hole running through its length, through which a carrying rod was inserted. (Fig. 141)
 
 <!-- Illustration:
 Ingot -->

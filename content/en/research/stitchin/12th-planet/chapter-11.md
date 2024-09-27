@@ -3,7 +3,7 @@ heading: Chapter 11
 title:  "The Mutiny of the Anunnaki"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
-weight: 44
+weight: 68
 ---
 
 
@@ -72,7 +72,7 @@ He arrived in the Great Below and became its lord. The story shows:
 
 It starts with a banquet held "in the heavens" with the guests of honor being Anu, Enlil, and Ea.
 
-<!-- The banquet was  but not at Anu's abode on the Twelfth Planet. Perhaps it took place aboard an orbiting spacecraft, for when  -->
+<!-- The banquet was  but not at Anu's abode on the 12th Planet. Perhaps it took place aboard an orbiting spacecraft, for when  -->
 
 Ereshkigal could not ascend to join them. And so the gods sent her a messenger who "descended the long staircase of the heavens, reached the gate of Ereshkigal." 
 

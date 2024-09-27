@@ -1,194 +1,124 @@
 ---
 heading: Chapter 12d
-title:  "How was the creation of Man accomplished?"
+title:  "The Creation of Man"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
-weight: 50
+weight: 74
 ---
 
 
+Before creating man in their own image, the Nefilim attempted to make a "manufactured servant" by creating a hybrid ape-man-animal.
 
-The text "When the gods as men" contains a passage whose purpose was to
-explain why the "blood" of a god had to be mixed into the "clay." The "divine"
-element required was not simply the dripping blood of a god, but something more
-basic and lasting. The god that was selected, we are told, had TE.E.MA—a term
-the leading authorities on the text (W. G. Lambert and A. R. Millard of Oxford
-University) translate as "personality." 
+Some of these artificial creatures may have survived for a while but were certainly unable to reproduce. 
 
-But the ancient term is much more specific; it literally means "that which houses that which binds the memory." Further on, the same term appears in the Akkadian version as etemu, which is translated as "spirit."
+The enigmatic bull-men and lion-men (sphinxes) that adorned temple sites in the ancient Near East may not have been just figments of an artist's imagination but actual creatures that came out of the biological laboratories of the Nefilim—unsuccessful experiments commemorated in art and by statues. (Fig. 150) 
 
-In both instances we are dealing with that "something" in the blood of the god
-that was the repository of his individuality. All these, we feel certain, are but
-roundabout ways of stating that what Ea was after, when he put the god's blood
-through a series of "purifying baths," was the god's genes.
-The purpose of mixing this divine element thoroughly with the earthly element
-was also spelled out:
+Sumerian texts, too, speak of deformed humans created by Enki and the Mother Goddess (Ninhursag) in the course of their efforts to fashion a perfect Primitive Worker. 
 
-In the clay, god and Man shall be bound,
-to a unity brought together;
-So that to the end of days
-the Flesh and the Soul
-which in a god have ripened—
-that Soul in a blood-kinship be bound;
-As its Sign life shall proclaim.
-So that this not be forgotten,
-Let the "Soul" in a blood-kinship be bound.
+One text reports that Ninhursag, whose task it was to "bind upon the mixture the mold of the gods," got drunk and:
 
-These are strong words, little understood by scholars. The text states that the
-god's blood was mixed into the clay so as to bind god and Man genetically "to the
-end of days" so that both the flesh ("image") and the soul ("likeness") of the gods
-would become imprinted upon Man in a kinship of blood that could never be
-severed.
+"called over to Enki," "How good or how bad is Man's body?
+As my heart prompts me,
+I can make its fate good or bad."
 
-The "Epic of Gilgamesh" reports that when the gods decided to create a double
-for the partly divine Gilgamesh, the Mother Goddess mixed "clay" with the
-"essence" of the god Ninurta. Later on in the text, Enkidu's mighty strength is
-attributed to his having in him the "essence of Anu," an element he acquired
-through Ninurta, the grandson of Anu.
+Mischievously, then, according to this text—but probably unavoidably, as part of a trial-and-error process—Ninhursag produced a Man who could not hold back his urine, a woman who could not bear children, a being who had neither male nor female organs. 
 
-The Akkadian term kisir refers to an "essence," a "concentration" that the gods
-of the heavens possessed. E. Ebeling summed up the efforts to understand the
-exact meaning of ki ir by stating that as "Essence, or some nuance of the term, it
-could well be applied to deities as well as to missiles from Heaven." E. A. Speiser
-concurred that the term also implied "something that came down from Heaven." It
-carried the connotation, he wrote, "as would be indicated by the use of the term in
-medicinal contexts."
+All in all, six deformed or deficient humans were brought forth by Ninhursag. Enki was held responsible for the imperfect creation of a man with diseased eyes, trembling hands, a sick liver, a failing heart; a second one with sicknesses attendant upon old age; and so on.
 
-We are back to a simple, single word of translation: gene.
-The evidence of the ancient texts, Mesopotamian as well as biblical, suggests
-that the process adopted for merging two sets of genes—those of a god and those
-of Homo erectus—involved the use of male genes as the divine element and female
-genes as the earthly element.
+But finally the perfect Man was achieved—the one Enki named Adapa; the Bible, Adam; our scholars, Homo sapiens. This being was so much akin to the gods that one text even went so far as to point out that the Mother Goddess gave to her creature, Man, "a skin as the skin of a god"—a smooth, hairless body, quite different from that of the shaggy ape-man.
 
-Repeatedly asserting that the Deity created Adam in his image and in his
-likeness, the Book of Genesis later describes the birth of Adam's son Seth in the
-following words:
+With this final product, the Nefilim were genetically compatible with the daughters of Man and able to marry them and have children by them. But such compatibility could exist only if Man had developed from the same "seed of life" as the Nefilim. This, indeed, is what the ancient texts attest to.
 
-And Adam lived a hundred and thirty years,
-and had an offspring
-in his likeness and after his image;
-and he called his name Seth.
+Man, in the Mesopotamian concept, as in the biblical one, was made of a mixture of a godly element—a god's blood or its "essence"—and the "clay" of Earth.
 
-The terminology is identical to that used to describe the creation of Adam by the
-Deity. But Seth was certainly born to Adam by a biological process—the
-fertilization of a female egg by the male sperm of Adam, and the ensuing
-conception, pregnancy, and birth. The identical terminology bespeaks an identical
-process, and the only plausible conclusion is that Adam, too, was brought forth by
-the Deity through the process of fertilizing a female egg with the male sperm of a
-god.
+The very term lulu for "Man," while conveying the sense of "primitive," literally meant "one who has been mixed." Called upon to fashion a man, the Mother Goddess "Washed her hands, pinched off clay, mixed it in the steppe." (It is fascinating to note here the sanitary precautions taken by the goddess. She "washed her hands." We encounter such clinical measures and procedures in other creation texts as well.)
+ 
+The use of earthly "clay" mixed with divine "blood" to create the prototype of Man is firmly established by the Mesopotamian texts. One, relating how Enki was called upon to "bring to pass some great work of Wisdom"—of scientific knowhow—states that Enki saw no great problem in fulfilling the task of "fashioning servants for the gods." "It can be done!" he announced. He then gave these instructions to the Mother Goddess:
 
-If the "clay" into which the godly element was mixed was an earthly element—as
-all texts insist—then the only possible conclusion is that the male sperm of a
-god—his genetic material—was inserted into the egg of an ape-woman!
-The Akkadian term for the "clay"—or, rather, "molding clay"—is tit. But its
-original spelling was TI.IT ("that which is with life"). In Hebrew, tit means "mud";
-but its synonym is bo , which shares a root with bi a ("marsh") and be a
-("egg").
+{{< q >}}
+"Mix to a core the clay from the Basement of Earth, just above the Abzu— and shape it into the form of a core.
 
-The story of Creation is replete with plays on words. We have seen the double
-and triple meanings of Adam—adama–adamtu–dam. The epithet for the Mother
-Goddess, NIN.TI, meant both "lady of life" and "lady of the rib." Why not, then, bo
- –bi a–be a ("clay–mud–egg") as a play on words for the female ovum?
-The ovum of a female Homo erectus, fertilized by the genes of a god, was then
-implanted within the womb of Ea's spouse; and after the "model" was obtained,
-duplicates of it were implanted in the wombs of birth goddesses, to undergo the
-process of pregnancy and birth.
-
-The Wise and learned,
-Double-seven birth-goddesses had assembled;
-Seven brought forth males,
-Seven brought forth females.
-The Birth Goddess brought forth
-The Wind of the Breath of Life.
-In pairs were they completed,
-In pairs were they completed in her presence.
-The creatures were People–
-Creatures of the Mother Goddess.
-Homo sapiens had been created.
+I shall provide good, knowing young gods who will bring that clay to the right condition."
+{{< /q >}}
 
 
+The second chapter of Genesis offers this technical version:
 
-The ancient legends and myths, biblical information, and modern science are also compatible in one more aspect. Like the findings of modern anthropologists—that Man evolved and emerged in southeast Africa—the Mesopotamian texts suggest that the creation of Man took place in the Apsu—in the Lower World where the Land of the Mines was located. Paralleling Adapa, the "model" of Man, some texts mention "sacred Amama, the Earth woman," whose abode was in the Apsu.
+{{< q >}}
+And Yahweh, Elohim, fashioned the Adam
+of the clay of the soil;
+and He blew in his nostrils the breath of life,
+and the Adam turned into a living Soul.
+{{< /q >}}
 
-In the "Creation of Man" text, Enki issues the following instructions to the
-Mother Goddess: "Mix to a core the clay from the Basement of Earth, just above
-the Abzu." A hymn to the creations of Ea, who "the Apsu fashioned as his
-dwelling," begins by stating:
-Divine Ea in the Apsu
-pinched off a piece of clay,
-created Kulla to restore the temples.
-The hymn continues to list the construction specialists, as well as those in
-charge of the "abundant products of mountain and sea," who were created by Ea—
-all, it is inferred, from pieces of "clay" pinched off in the Abzu—the Land of Mines
-in the Lower World.
-The texts make it abundantly clear that while Ea built a brick house by the
-water in Eridu, in the Abzu he built a house adorned with precious stones and
-silver. It was there that his creature, Man, originated:
-The Lord of the AB.ZU, the king Enki…
-Built his house of silver and lapis-lazuli;
-Its silver and lapis-lazuli, like sparkling light,
-The Father fashioned fittingly in the AB.ZU.
-The Creatures of bright countenance,
-Coming forth from the AB.ZU,
-Stood all about the Lord Nudimmud.
+The Hebrew term commonly translated as "soul" is nephesh, that elusive "spirit" that animates a living creature and seemingly abandons it when it dies. 
 
-One can even conclude from the various texts that the creation of Man caused a
-rift among the gods. It would appear that at least at first the new Primitive
-Workers were confined to the Land of Mines. As a result, the Anunnaki who were
-toiling in Sumer proper were denied the benefits of the new manpower. A puzzling
-text named by the scholars The Myth of the Pickax is in fact the record of the
-events whereby the Anunnaki who stayed in Sumer under Enlil obtained their fair
-share of the Black-Headed People.
-Seeking to reestablish "the normal order," Enlil took the extreme action of
-severing the contacts between "Heaven" (the Twelfth Planet or the spaceships) and
-Earth, and launched some drastic action against the place "where flesh sprouted
-forth."
+By no coincidence, the Pentateuch (the first five books of the Old Testament) repeatedly exhorted against the shedding of human blood and the eating of animal blood "because the blood is the nephesh." 
 
-The Lord,
-That which is appropriate he caused to come about.
-The Lord Enlil,
-Whose decisions are unalterable,
-Verily did speed to separate Heaven from Earth
-So that the Created Ones could come forth;
-Verily did speed to separate Earth from Heaven.
-In the "Bond Heaven-Earth" he made a gash,
-So that the Created Ones could come up
-From the Place-Where-Flesh-Sprouted-Forth.
+The biblical versions of the creation of Man thus equate nephesh ("spirit," "soul") and blood.
 
-Against the "Land of Pickax and Basket," Enlil fashioned a marvelous weapon
-named AL.A.NI ("ax that produces power"). This weapon had a "tooth," which, "like
-a one-horned ox," could attack and destroy large walls. It was by all descriptions
-some kind of a huge power drill, mounted on a bulldozer-like vehicle that crushed
-everything ahead of it:
+The Old Testament offers another clue to the role of blood in Man's creation. 
 
-The house which rebels against the Lord,
-The house which is not submissive to the Lord,
-The AL.A.NI makes it submissive to the Lord.
-Of the bad… the heads of its plants it crushes;
-Plucks at the roots, tears at the crown.
-Arming his weapon with an "earth splitter," Enlil launched the attack:
-The Lord called forth the AL.A.NI, gave its orders.
-He set the Earth Splitter as a crown upon its head,
-And drove it into the Place-Where-Flesh-Sprouted-Forth.
-In the hole was the head of a man;
-From the ground, people were breaking through
-towards Enlil.
+The term adama (after which the name Adam was coined) originally meant not just any earth or soil, but specifically dark-red soil. Like the parallel Akkadian word adamatu ("dark-red earth"), the Hebrew term adama and the Hebrew name for the color red (adom) stem from the words for blood: adamu, dam. 
 
-He eyed his Black-headed Ones in steadfast fashion.
-Grateful, the Anunnaki put in their requests for the arriving Primitive Workers
-and lost no time in putting them to work:
-The Anunnaki stepped up to him,
-Raised their hands in greetings,
-Soothing Enlil's heart with prayers.
-Black-headed Ones they were requesting of him.
-To the Black-headed people,
-they give the pickax to hold.
-The Book of Genesis likewise conveys the information that "the Adam" was
-created somewhere west of Mesopotamia, then brought over eastward to
-Mesopotamia to work in the Garden of Eden:
-And the Deity Yahweh
-Planted an orchard in Eden, in the east…
-And He took the Adam
-And placed him in the Garden of Eden
-To work it and to keep it.
+When the Book of Genesis termed the being created by God "the Adam," it employed a favorite Sumerian linguistic play of double meanings. "The Adam" could mean "the one of the earth" (Earthling), "the one made of the dark-red soil," and "the one made of blood."
+
+The same relationship between the essential element of living creatures and blood exists in Mesopotamian accounts of Man's creation. The hospital-like house where Ea and the Mother Goddess went to bring Man forth was called the House of Shimti; most scholars translate this as "the house where fates are determined." 
+
+But the term Shimti clearly stems from the Sumerian SHI.IM.TI, which, taken syllable by syllable, means "breath-wind-life." Bit Shimti meant, literally, "the house where the wind of life is breathed in." This is virtually identical to the biblical statement.
+
+The Akkadian word employed in Mesopotamia to translate the Sumerian SHI.IM.TI was napishtu—the exact parallel of the biblical term nephesh. And the nephesh or napishtu was an elusive "something" in the blood. 
+
+While the Old Testament offered only meager clues, Mesopotamian texts were quite explicit on the subject. Not only do they state that blood was required for the mixture of which Man was fashioned; they specified that it had to be the blood of a god, divine blood.
+
+When the gods decided to create Man, their leader announced: "Blood will I
+amass, bring bones into being." Suggesting that the blood be taken from a specific
+god, "Let primitives be fashioned after his pattern," Ea said. Selecting the god,
+Out of his blood they fashioned Mankind;
+imposed on it the service, let free the gods…
+It was a work beyond comprehension.
+
+According to the epic tale "When gods as men," the gods then called the Birth
+Goddess (the Mother Goddess, Ninhursag) and asked her to perform the task:
+
+
+{{< q >}}
+While the Birth Goddess is present,
+Let the Birth Goddess fashion offspring.
+While the Mother of the Gods is present,
+Let the Birth Goddess fashion a Lulu;
+Let the worker carry the toil of the gods.
+Let her create a Lulu Amelu,
+Let him bear the yoke.
+{{< /q >}}
+
+
+In a parallel Old Babylonian text named "Creation of Man by the Mother
+Goddess," the gods call upon "The Midwife of the gods, the Knowing Mami" and tell
+her:
+
+Thou art the mother-womb,
+The one who Mankind can create.
+Create then Lulu, let him bear the yoke!
+
+At this point, the text "When gods as men" and parallel texts turn to a detailed description of the actual creation of Man. Accepting the "job," the goddess (here named NIN.TI—"lady who gives life") spelled out some requirements, including some chemicals ("bitumens of the Abzu"), to be used for "purification," and "the
+clay of the Abzu."
+
+{{< q >}}
+Whatever these materials were, Ea had no problem understanding the
+requirements; accepting, he said:
+"I will prepare a purifying bath.
+Let one god be bled…
+From his flesh and blood,
+let Ninti mix the clay."
+{{< /q >}}
+
+To shape a man from the mixed clay, some feminine assistance, some pregnancy or childbearing aspects were also needed. Enki offered the services of his own spouse:
+
+{{< q >}}
+Ninki, my goddess-spouse,
+will be the one for labor.
+Seven goddesses-of-birth
+will be near, to assist.
+{{< /q >}}
 

@@ -3,7 +3,7 @@ heading: Chapter 15
 title:  "The people spread again"
 image:  "/covers/12th.jpg"
 description: "The Nefilim then helped the people plan and build the first royal city, and they blessed it"
-weight: 69
+weight: 98
 ---
 
 
@@ -66,7 +66,7 @@ The ancient Egyptian name for their land was the "Raised Land". Their prehistori
 <!-- The "legend" neatly describes the low-lying valley of the Nile River in the aftermath of the Deluge; this olden god, it can be shown, was none other than Enki, the chief engineer of the
 Nefilim. -->
 
-Though relatively little is known as yet regarding the Indus valley civilization, we do know that they, too, venerated the number twelve as the supreme divine number; that they depicted their gods as human-looking beings wearing horned headdresses; and that they revered the symbol of the cross—the sign of the Twelfth Planet. (Figs. 163, 164)
+Though relatively little is known as yet regarding the Indus valley civilization, we do know that they, too, venerated the number twelve as the supreme divine number; that they depicted their gods as human-looking beings wearing horned headdresses; and that they revered the symbol of the cross—the sign of the 12th Planet. (Figs. 163, 164)
 
 
 If these two civilizations were of Sumerian origin, why are their written languages different? The scientific answer is that the languages are not different.
@@ -151,7 +151,7 @@ The question can be answered. The clues are there. But beyond it loom other
 questions. Have the Nefilim been encountered since? What will happen when they
 are encountered again?
 And if the Nefilim were the "gods" who "created" Man on Earth, did evolution
-alone, on the Twelfth Planet, create the Nefilim? -->
+alone, on the 12th Planet, create the Nefilim? -->
 
 
 

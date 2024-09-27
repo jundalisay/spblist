@@ -3,7 +3,7 @@ heading: Chapter 13d
 title:  "Noah and the Deluge"
 image:  "/covers/12th.jpg"
 description: "The notice given to Noah was a mere seven days."
-weight: 55
+weight: 80
 ---
 
 

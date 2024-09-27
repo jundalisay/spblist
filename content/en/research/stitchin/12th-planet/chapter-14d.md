@@ -3,7 +3,7 @@ heading: Chapter 14c
 title:  "Berossus's version of the Flood"
 image:  "/covers/12th.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
-weight: 60
+weight: 92
 ---
 
 
@@ -166,9 +166,9 @@ water, having come from the southern seas, went back to the southern seas.
 
 <!-- How could the Nefilim predict when the Deluge would burst out of Antarctica?
 
-The Mesopotamian texts, we know, related the Deluge and the climatic changes preceding it to seven "passings"—undoubtedly meaning the periodic passage of the Twelfth Planet in Earth's vicinity. We know that even the Moon, Earth's small satellite, exerts sufficient gravitational pull to cause the tides. Both Mesopotamian and biblical texts described how the Earth shook when the Celestial Lord passed in Earth's vicinity.
+The Mesopotamian texts, we know, related the Deluge and the climatic changes preceding it to seven "passings"—undoubtedly meaning the periodic passage of the 12th Planet in Earth's vicinity. We know that even the Moon, Earth's small satellite, exerts sufficient gravitational pull to cause the tides. Both Mesopotamian and biblical texts described how the Earth shook when the Celestial Lord passed in Earth's vicinity.
 
-Could it be that the Nefilim, observing the climatic changes and the instability of the Antarctic ice sheet, realized that the next, seventh "passing" of the Twelfth Planet would trigger the impending catastrophe?
+Could it be that the Nefilim, observing the climatic changes and the instability of the Antarctic ice sheet, realized that the next, seventh "passing" of the 12th Planet would trigger the impending catastrophe?
 
 Ancient texts show that it was so. -->
 
@@ -180,5 +180,5 @@ was a hymn recited in the House of the Dead, and he therefore included the text 
 his masterwork (Tod und Leben) on death and resurrection in ancient
 Mesopotamia. -->
 
-<!-- On close examination, however, we find that the composition "called on the names" of the Celestial Lord, the Twelfth Planet.  -->
+<!-- On close examination, however, we find that the composition "called on the names" of the Celestial Lord, the 12th Planet.  -->
 
