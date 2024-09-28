@@ -1,9 +1,9 @@
 ---
-heading: Chapter 5b
-title:  "The Old Testament"
+heading: Chapter 5g
+title:  "Gilgamesh at Tilmun"
 image:  "/covers/12th.jpg"
 description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
-weight: 32
+weight: 38
 ---
 
 
@@ -11,6 +11,7 @@ Awed by what he saw, yet as determined as ever to reach his destination,
 Gilgamesh once more appealed to Shamash for protection and support.
 Overcoming a "monstrous guard," he reached the mountain of Mashu, where one
 could see Shamash "rise up to the vault of Heaven."
+
 He was now near his first objective—the "place where the shem's are raised up."
 But the entrance to the site, apparently cut into the mountain, was guarded by
 fierce guards:
@@ -19,10 +20,13 @@ Their terror is awesome, their glance is death.
 Their shimmering spotlight sweeps the mountains.
 They watch over Shamash,
 As he ascends and descends.
+
 A seal depiction (Fig. 76) showing Gilgamesh (second from left) and his
 companion Enkidu (far right) may well depict the intercession of a god with one of
 the robot-like guards who could sweep the area with spotlights and emit death
-rays. The description brings to mind the statement in the Book of Genesis that
+rays. 
+
+The description brings to mind the statement in the Book of Genesis that
 God placed "the revolving sword" at the entrance to the Garden of Eden, to block
 its access to humans.
 
@@ -72,6 +76,7 @@ TIL.MUN was the name of the land to which Gilgamesh set his course. The
 name literally meant "land of the missiles." It was the land where the shem's were
 raised, a land under the authority of Utu/ Shamash, a place where one could see
 this god "rise up to the vault of heavens."
+
 And though the celestial counterpart of this member of the Pantheon of Twelve
 was the Sun, we suggest that his name did not mean "Sun" but was an epithet
 describing his functions and responsibilities. His Sumerian name Utu meant "he

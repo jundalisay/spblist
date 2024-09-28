@@ -1,6 +1,6 @@
 ---
 heading: Chapter 5b
-title:  "Inanna / Ishtar"
+title:  "Sodom and Abrahan"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
 weight: 32
@@ -14,8 +14,7 @@ Their appearance was sudden. Abraham "raised his eyes and, lo and behold, there 
 
 Bowing and calling them "My Lords," he pleaded with them, "Do not pass over thy servant," and prevailed on them to wash their feet, rest, and eat. 
 
-Having done as Abraham had requested, two of the angels (the third "man"
-turned out to be the Lord himself) then proceeded to Sodom. 
+Having done as Abraham had requested, two of the angels (the third "man" turned out to be the Lord himself) then proceeded to Sodom. 
 
 Lot, the nephew of Abraham, "was sitting at the gate of Sodom; and when he saw them he rose up to meet them and bowed to the ground, and said: If it pleases my Lords, pray come to the house of thy servant and wash your feet and sleep overnight." 
 
@@ -85,9 +84,13 @@ and this is the Gateway to Heaven.
 
 There are two interesting points in this tale. The first is that the divine beings
 going up and down at this "Gateway to Heaven" were using a mechanical facility—
-a "ladder." The second is that the sight took Jacob by complete surprise. The
+a "ladder." 
+
+The second is that the sight took Jacob by complete surprise. The
 "Lord's Abode," the "ladder," and the "angels of the Lord" using it were not there
-when Jacob lay down to sleep in the field. Suddenly, there was the awesome
+when Jacob lay down to sleep in the field. 
+
+Suddenly, there was the awesome
 "vision." And by morning the "Abode," the "ladder," and their occupants were gone.
 We may conclude that the equipment used by the divine beings was some kind
 of craft that could appear over a place, hover for a while, and disappear from sight

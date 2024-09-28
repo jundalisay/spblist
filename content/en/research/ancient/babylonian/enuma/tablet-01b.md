@@ -69,8 +69,9 @@ After this fashion, huge of stature, she made 11 [kinds of] monsters.
 
 Among the gods who were her sons, inasmuch as he had given her support,
 
-She exalted Kingu; in their midst she raised him to power.
+She exalted Kingu*. In their midst she raised him to power.
 
+{{< n n="Planetoid Tiamat broke apart to create Tiamat and Kingu" >}}
 
 She entrusted him to:
 - march before the forces
@@ -86,7 +87,9 @@ In costly raiment she made him sit, saying:
 I have uttered thy spell. I have raised you to power in the assembly of the gods.
 
 The dominion over all the gods have I entrusted unto him.
+
 Be thou exalted, thou my chosen spouse,
+
 May they magnify thy name over all of them the Anunnaki."
 
 She gave him the Tablets of Destiny, on his breast she laid them, saying:
@@ -98,4 +101,5 @@ Kingu was thus exalted and received the power of Anu.
 He decreed the fate among the gods his sons, saying:
 
 "Let the opening of your mouth quench the Fire-god;
+
 Whoso is exalted in the battle, let him display his might!"

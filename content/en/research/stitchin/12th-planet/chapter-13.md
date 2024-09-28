@@ -3,7 +3,7 @@ heading: Chapter 13
 title:  "The End of All Flesh"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
-weight: 52
+weight: 77
 ---
 
 <!-- Man's lingering belief that there was some Golden Age in his prehistory cannot possibly be based on human recollection, for the event took place too long ago and Man was too primitive to record any concrete information for future generations. 

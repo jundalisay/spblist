@@ -1,6 +1,6 @@
 ---
-heading: Chapter 4d
-title:  "Inanna / Ishtar"
+heading: Chapter 4e
+title:  "The Sons of Enki"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
 weight: 28

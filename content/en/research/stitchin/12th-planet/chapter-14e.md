@@ -3,7 +3,7 @@ heading: Chapter 14e
 title:  "Berossus's version of the Flood"
 image:  "/covers/12th.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
-weight: 61
+weight: 94
 ---
 
 
@@ -36,7 +36,7 @@ Who by his glow shall create.
 {{< /q >}}
 
 
-Coming closer, the Twelfth Planet is called SHILIG.LU.DIG ("powerful leader of the joyous planets"). It is now nearest to Mars: "By the brilliance of the god [planet] Anu god [planet] Lahmu [Mars] is clothed." Then it loosed the Deluge upon the Earth:
+Coming closer, the 12th Planet is called SHILIG.LU.DIG ("powerful leader of the joyous planets"). It is now nearest to Mars: "By the brilliance of the god [planet] Anu god [planet] Lahmu [Mars] is clothed." Then it loosed the Deluge upon the Earth:
 
 This is the name of the Lord
 Who from the second month to the month Addar
@@ -44,13 +44,13 @@ The waters had summoned forth.
 
 <!-- The text's elaboration of the two names offers remarkable calendarial information.  -->
 
-The 12th Planet* passed Jupiter and neared Earth "at Akiti time," when the Mesopotamian New Year began. By the second month it was closest to Mars. Then, "from the second month to the month Addar" (the twelfth month), it loosed the Deluge on Earth.
+The 12th Planet* passed Jupiter and neared Earth "at Akiti time," when the Mesopotamian New Year began. By the second month it was closest to Mars. Then, "from the second month to the month Addar" (the 12th month), it loosed the Deluge on Earth.
 
 {{< n n="This was actually comet Encke" >}}
 
 This is in perfect harmony with the biblical account, which states that "the fountains of the great deep burst open" on the seventeenth day of the second month.
 
-The ark came to rest on Ararat in the seventh month; other dry land was visible in the tenth month; and the Deluge was over in the twelfth month—for it was on "the first day of the first month" of the following year that Noah opened the ark's hatch.
+The ark came to rest on Ararat in the seventh month; other dry land was visible in the tenth month; and the Deluge was over in the 12th month—for it was on "the first day of the first month" of the following year that Noah opened the ark's hatch.
 
 Shifting to the second phase of the Deluge, when the waters began to subside,
 the text calls the planet SHUL.PA.KUN.E.
@@ -196,6 +196,6 @@ Years Ago | EVENT
 75,000 | The "accursation of Earth"—a new ice age—begins. Regressive types of Man roam Earth.
 49,000 | The reign of Ziusudra ("Noah"), a "faithful servant" of Enki, begins.*
 38,000 | The harsh climatic period of the "seven passings" begins to decimate Mankind. Europe's Neanderthal Man disappears; only Cro-Magnon Man (based in the Near East) survives. Enlil, disenchanted with Mankind, seeks its demise.
-13,000 | The Nefilim, aware of the impending tidal wave that will be triggered by the nearing Twelfth Planet, vow to let Mankind perish. The Deluge sweeps over Earth, abruptly ending the ice age.
+13,000 | The Nefilim, aware of the impending tidal wave that will be triggered by the nearing 12th Planet, vow to let Mankind perish. The Deluge sweeps over Earth, abruptly ending the ice age.
 
 {{< n n="This is the start of the reign of Atlantis" >}}

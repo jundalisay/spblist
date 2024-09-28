@@ -14,15 +14,20 @@ A more complete etext of the Seven Tablets of Creation is also available here. -
 THE FIRST TABLET
 
 When in the high heaven was not named and the earth beneath did not yet bear a name,
+
 And the primeval Apsu, who begat them,
+
 And chaos, Tiamut, the mother of them both
+
 Their waters were mingled together,
+
 And no field was formed, no marsh was to be seen.
 
-When of the gods none had been called into being,
+When of the gods none had been called into being, 
 And none bore a name, and no destinies were ordained.
 
 Then were created the gods in the midst of heaven,
+
 Lahmu and Lahamu were called into being...
 
 Ages increased,...
@@ -47,7 +52,7 @@ But Tiamat and Apsu were still in confusion...
 They were troubled and...
 In disorder...
 
-Apru was not diminished in might...
+Apsu was not diminished in might...
 
 And Tiamat roared...
 
@@ -59,7 +64,9 @@ Then Apsu, the begetter of the great gods,
 
 Cried unto Mummu, his minister, and said unto him:
 
-"O Mummu, thou minister that rejoicest my spirit, Come, unto Tiamut let us go!
+"O Mummu, thou minister that rejoicest my spirit, Come, unto Tiamut let us go!""
+
+
 So they went and before Tiamat they lay down, They consulted on a plan with regard to the gods, their sons.
 
 Apsu opened his mouth and spake,
@@ -76,18 +83,18 @@ Let there be lamentation, and let us lie down again in peace."
 When Tiamat heard these words,
 
 She raged and cried aloud...She... grievously...,
+
 She uttered a curse, and unto Apsu she spake:
 
 "What then shall we do?
 
 Let their way be made difficult, and let us lie down again in peace."
 
-Mummu answered, and gave counsel unto Apsu,
-...and hostile to the gods was the counsel Mummu gave:
+Mummu answered, and gave counsel unto Apsu, ...and hostile to the gods was the counsel Mummu gave:
 
-Come, their way is strong, but thou shalt destroy it;
+Come, their way is strong, but you shall destroy it.
 
-Then by day shalt thou have rest, by night shalt thou lie down in peace."
+Then by day shalt you have rest, by night shalt thou lie down in peace."
 
 Apsu harkened unto him and his countenance grew bright,
 
@@ -100,4 +107,4 @@ Because of the evil which their first-born had planned.
 ... their... they altered.
 ... they...,
 
-Lamentation they sat in sorrow
+Lamentation they sat in sorrow.

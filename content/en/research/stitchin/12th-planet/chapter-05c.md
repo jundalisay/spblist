@@ -1,9 +1,9 @@
 ---
 heading: Chapter 5c
-title:  "The Old Testament"
+title:  "Elijah"
 image:  "/covers/12th.jpg"
 description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
-weight: 32
+weight: 33
 ---
 
 

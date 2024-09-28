@@ -1,9 +1,9 @@
 ---
-heading: Chapter 5b
-title:  "The Old Testament"
+heading: Chapter 5d
+title:  "The Tower of Babel"
 image:  "/covers/12th.jpg"
 description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
-weight: 32
+weight: 34
 ---
 
 
@@ -23,8 +23,8 @@ double imprint of the same seal also shows a rocket resting on the ground next t
 a palm tree. The celestial nature or destination of the objects is attested by
 symbols of the Sun, Moon, and zodiacal constellations that adorn the seal. (Fig.
 70)
-Illustration:
-Various Space Rockets
+<!-- Illustration:
+Various Space Rockets -->
 
 The Mesopotamian texts that refer to the inner enclosures of temples, or to the
 heavenly journeys of the gods, or even to instances where mortals ascended to the
@@ -83,6 +83,8 @@ of Judaea the Lord's promise of a better and safer future:
 And I will give them,
 In my House and within my walls,
 A yad and a shem.
+
+
 Literally translated, this would amount to the Lord's promise to provide his
 people with a "hand" and a "name." Fortunately, however, from ancient
 monuments called yad's that still stand in the Holy Land, we learn that they were
@@ -95,6 +97,8 @@ had arrived on Earth in times immemorial. Egyptian pharaohs, on their deaths,
 were subjected to a ceremony of "opening of the mouth," in which they were
 supposed to be transported by a similiar yad or a shem to the divine Abode of
 Eternal Life. (Fig. 73)
+
+
 Illustration:
 Opening of Mouth Ceremony
 
@@ -126,6 +130,8 @@ The Land of Shinar is, of course, the Land of Sumer, in the plain between the
 two rivers in southern Mesopotamia. And the people, already knowledgeable
 concerning the art of brickmaking and high-rise construction for an urban
 civilization, said:
+
+
 "Let us build us a city,
 and a tower whose top shall reach the heavens;
 and let us make us a shem,

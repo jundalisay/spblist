@@ -1,39 +1,40 @@
 ---
-heading: Chapter 5b
-title:  "The Old Testament"
+heading: Chapter 5h
+title:  "The Eagle"
 image:  "/covers/12th.jpg"
 description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
-weight: 32
+weight: 40
 ---
 
 
-The tale of Etana informs us that, seeking a shem, Etana had to communicate
-with an Eagle inside a pit. A seal depiction shows a winged, tall structure (a
-launch tower?) above which an eagle flies off. (Fig. 78)
-Illustration:
-Eagle with Launch Tower
+The tale of Etana informs us that, seeking a shem, Etana had to communicate with an Eagle inside a pit. A seal depiction shows a winged, tall structure (a launch tower?) above which an eagle flies off. (Fig. 78)
+
 What or who was the Eagle who took Etana to the distant heavens?
+
 We cannot help associating the ancient text with the message beamed to Earth
 in July 1969 by Neil Armstrong, commander of the Apollo 11 spacecraft: "Houston!
 Tranquility Base here. The Eagle has landed!"
-He was reporting the first landing by Man on the Moon. "Tranquility Base" was
-the site of the landing; Eagle was the name of the lunar module that separated
+
+He was reporting the first landing by Man on the Moon. "Tranquility Base" was the site of the landing; Eagle was the name of the lunar module that separated
 from the spacecraft and took the two astronauts inside it to the Moon (and then
 back to their mother craft). When the lunar module first separated to start its own
 flight in Moon orbit, the astronauts told Mission Control in Houston: "The Eagle
 has wings."
+
 But "Eagle" could also denote the astronauts who manned the spacecraft. On
 the Apollo 11 mission, "Eagle" was also the symbol of the astronauts themselves,
 worn as an emblem on their suits. Just as in the Etana tale, they, too, were
 "Eagles" who could fly, speak, and communicate. (Fig. 79)
-Illustration:
-Emblem of Apollo 11
+
+
 How would an ancient artist have depicted the pilots of the skyships of the
 gods? Would he have depicted them, by some chance, as eagles?
 That is exactly what we have found. An Assyrian seal engraving from circa 1500
 B.C. shows two "eagle-men" saluting a shem! (Fig. 80)
+
 Illustration:
 Eagle Men Saluting a Shem
+
 Numerous depictions of such "Eagles"—the scholars call them "bird-men"—have
 been found. Most depictions show them flanking the Tree of Life, as if to stress
 that they, in their shem's, provided the link with the Heavenly Abode where the
@@ -41,14 +42,18 @@ Bread of Life and Water of Life were to be found. Indeed, the usual depiction of
 Eagles showed them holding in one hand the Fruit of Life and in the other the
 Water of Life, in full conformity with the tales of Adapa, Etana, and Gilgamesh.
 (Fig. 81)
+
 Illustration:
 Eagle Men with Tree of Life
+
 The many depictions of the Eagles clearly show that they were not monstrous
 "bird-men," but anthropomorphic beings wearing costumes or uniforms that gave
 them the appearance of eagles.
+
 The Hittite tale concerning the god Telepinu, who had vanished, reported that
 "the great gods and the lesser gods began to search for Telepinu" and "Shamash
 sent out a swift Eagle" to find him.
+
 In the Book of Exodus, God is reported to have reminded the Children of Israel,
 "I have carried you upon the wings of Eagles, and have brought you unto me,"
 confirming, it seems, that the way to reach the Divine Abode was upon the wings
@@ -61,11 +66,14 @@ soared upon windy wings." Analyzing the similarities between the biblical El
 (employed as a title or generic term for the Deity) and the Canaanite El, S.
 Langdon (Semitic Mythology) showed that both were depicted, in text and on coins,
 as winged gods.
+
 The Mesopotamian texts invariably present Utu/Shamash as the god in charge
 of the landing place of the shem's and of the Eagles. And like his subordinates he
 was sometimes shown wearing the full regalia of an Eagle's costume. (Fig. 82)
+
 Illustration:
 Utu/Shamash with eagle Costume
+
 In such a capacity, he could grant to kings the privilege of "flying on the wings
 of birds" and of "rising from the lower heavens to the lofty ones." And when he was
 launched aloft in a fiery rocket, it was he "who stretched over unknown distances,

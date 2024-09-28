@@ -3,7 +3,7 @@ heading: Chapter 6b
 title:  "The Rosette"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
-weight: 20
+weight: 44
 ---
 
 
@@ -37,7 +37,7 @@ Now there is, of course, a catch to claiming that these depictions-of a Sun and 
 This adds up to the Sun and only ten planets (when the Moon is counted as one). But that is not what the Sumerians said. 
 
 They claimed that our system was made up of the Sun and eleven planets (counting the Moon), and held steadfastly to the opinion that, in addition to the planets known to us today, there has been a 12th member of the solar system—the home planet of the Nefilim.
-We shall call it the Twelfth Planet.
+We shall call it the 12th Planet.
 
 
 Before we check the accuracy of the Sumerian information, let us review the history of our own knowledge of Earth and the heavens around it. 

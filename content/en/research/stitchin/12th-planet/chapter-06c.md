@@ -3,7 +3,7 @@ heading: Chapter 6c
 title:  "Hipparchus lived in Asia Minor"
 image:  "/covers/12th.jpg"
 description: "Hipparchus, who lived in Asia Minor in the 2nd century BC"
-weight: 20
+weight: 46
 ---
 
 

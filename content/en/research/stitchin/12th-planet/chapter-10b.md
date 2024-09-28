@@ -3,7 +3,7 @@ heading: Chapter 10b
 title:  "Enki's Account"
 image:  "/covers/12th.jpg"
 description: "Enki of his landing on Earth"
-weight: 40
+weight: 65
 ---
 
 
@@ -39,7 +39,9 @@ The poem lists other achievements of Enki:
 - the purification of the waters of the Tigris River
 - the joining (by canal) of the Tigris and Euphrates.
 
-His house by the watery bank adjoined a wharf at which reed rafts and boats could anchor, and from which they could sail off. Appropriately, the house was named E.ABZU ("house of the Deep"). Enki's sacred precinct in Eridu was known by this name for millennia thereafter.
+His house by the watery bank adjoined a wharf at which reed rafts and boats could anchor, and from which they could sail off. 
+
+Appropriately, the house was named E.ABZU ("house of the Deep"). Enki's sacred precinct in Eridu was known by this name for millennia thereafter.
 
 Enki and his landing party explored the lands around Eridu, but he appears to have preferred traveling by water. The marshland, he said in one of the texts, "is my favorite spot; it stretches out its arms to me." 
 
@@ -68,19 +70,19 @@ The reported passage of time also confirms our earlier conclusion that the Nefil
 
 But within a few shar's of their landing, the glacial period was giving way to a warmer and rainier climate (circa 430,000 years ago). It was then that the Nefilim decided to move farther inland and expand their settlements. Befittingly, the Anunnaki (rank-and-file Nefilim) named the second commander of Eridu A.LAL.GAR ("he who in raintime brought rest.")
 
-But while Enki was enduring the hardships of a pioneer on Earth, Anu and his other son Enlil were watching the developments from the Twelfth Planet. 
+But while Enki was enduring the hardships of a pioneer on Earth, Anu and his other son Enlil were watching the developments from the 12th Planet. 
 
 The Mesopotamian texts make it clear that the one who was really in charge of the Earth mission was Enlil; and as soon as the decision was made to proceed with the mission, Enlil himself descended to Earth. 
 
 For him a special settlement or base named Larsa was built by EN.KI.DU.NU ("Enki digs deep"). When Enlil took personal charge of the place, he was nicknamed ALIM ("ram"), coinciding with the "age" of the zodiacal constellation Aries.
 
-The establishment of Larsa launched a new phase in the settlement of Earth by the Nefilim. It marked the decision to proceed with the tasks for which they had come to Earth, which required the shipping to Earth of more "manpower," tools, and equipment, and the return of valuable cargoes to the Twelfth Planet. 
+The establishment of Larsa launched a new phase in the settlement of Earth by the Nefilim. It marked the decision to proceed with the tasks for which they had come to Earth, which required the shipping to Earth of more "manpower," tools, and equipment, and the return of valuable cargoes to the 12th Planet. 
 
 Splashdowns at sea were no longer adequate for such heavier loads. The climatic changes made the interior more accessible; it was time to shift the landing site to the center of Mesopotamia.
 
 At that juncture, Enlil came to Earth and proceeded from Larsa to establish a "Mission Control Center"—a sophisticated command post from which the Nefilim on Earth could coordinate space journeys to and from their home planet, guide in landing shuttlecraft, and perfect their takeoffs and dockings with the spaceship orbiting Earth.
 
-The site Enlil selected for this purpose, known for millennia as Nippur, was named by him NIBRU.KI ("Earth's crossing"). (We recall that the celestial site of the Twelfth Planet's closest pass to Earth was called the "Celestial Place of the Crossing.") There Enlil established the DUR.AN.KI, the "bond Heaven—Earth." 
+The site Enlil selected for this purpose, known for millennia as Nippur, was named by him NIBRU.KI ("Earth's crossing"). (We recall that the celestial site of the 12th Planet's closest pass to Earth was called the "Celestial Place of the Crossing.") There Enlil established the DUR.AN.KI, the "bond Heaven—Earth." 
 
 The task was complex and time-consuming. 
 

@@ -1,9 +1,9 @@
 ---
-heading: Chapter 14b
+heading: Chapter 14c
 title:  "Enki Warns of The Deluge"
 image:  "/covers/12th.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
-weight: 59
+weight: 90
 ---
 
 

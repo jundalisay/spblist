@@ -27,6 +27,7 @@ He went and, standing before Ansar, the father who begat him.
 
 Ea [Enki] repated Tiamat's plot to him. 
 
+
 <!-- All that Tiamat had plotted he repeated unto him,
 
 Saying, "Tiamat our mother has conceived a hatred for us,
@@ -97,13 +98,11 @@ Ansar unto his son addressed the word:
 
 "... my mighty hero,
 
-Whose strength is great and whose onslaught can not be withstood,
-Go and stand before Tiamat,
+Whose strength is great and whose onslaught can not be withstood, Go and stand before Tiamat,
 
 That her spirit may be appeased, that her heart may be merciful.
 
-But if she will not harken unto thy word,
-Our word shalt thou speak unto her, that she may be pacified."
+But if she will not harken unto thy word, Our word shalt thou speak unto her, that she may be pacified."
 
 He heard the word of his father Ansar
 
@@ -125,13 +124,14 @@ an avenger...
 " Thou art my son, who maketh merciful his heart.
 ... to the battle shalt thou draw nigh,
 he that shall behold thee shall have peace."
+
 And the lord rejoiced at the word of his father,
 And he drew nigh and stood before Ansar.
 
 Ansar beheld him and his heart was filled with joy,
 He kissed him on the lips and his fear departed from him.
 
-"O my father, let not the word of thy lips be overcome,
+"O my father, let not the word of thy lips be overcome, 
 Let me go, that I may accomplish all that is in thy heart.
 O Ansar, let not the word of thy lips be overcome,
 Let me go, that I may accomplish all that is in thy heart."
