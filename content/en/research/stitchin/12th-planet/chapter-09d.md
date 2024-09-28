@@ -15,7 +15,7 @@ The astronomical texts explained:
 {{< q >}}
 Shar shadi il Enlil ana kakkab SHU.GI ikabbi
 [Lord of Mountains, deity Enlil, with planet Shugi is identical.]
-
+{{< /q >}}
 
 Paralleling the 7 stations of Marduk's journey, the planets' names also bespeak a space flight. The land at the journey's end was the seventh planet, Earth.
 

@@ -1,5 +1,5 @@
 ---
-heading: Chapter 11
+heading: Chapter 11b
 title:  "The Mutiny of the Anunnaki"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"

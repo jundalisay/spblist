@@ -1,5 +1,5 @@
 ---
-heading: Chapter 12e
+heading: Chapter 12f
 title:  "How was the creation of Man accomplished?"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"

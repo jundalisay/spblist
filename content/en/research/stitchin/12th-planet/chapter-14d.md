@@ -1,5 +1,5 @@
 ---
-heading: Chapter 14c
+heading: Chapter 14d
 title:  "Berossus's version of the Flood"
 image:  "/covers/12th.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"

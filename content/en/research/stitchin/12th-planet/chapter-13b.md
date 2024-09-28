@@ -1,5 +1,5 @@
 ---
-heading: Chapter 13
+heading: Chapter 13b
 title:  "Genetic Engineering By Enki and Ninti"
 image:  "/covers/12th.jpg"
 description: "Ninti, in a pose that indicates that she was a co-worker rather than a spouse, is seated next to Enki"

@@ -1,5 +1,5 @@
 ---
-heading: Chapter 12d
+heading: Chapter 12e
 title:  "The Creation of Man"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
