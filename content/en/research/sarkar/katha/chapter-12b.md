@@ -46,7 +46,9 @@ I said, "Baba, for the last two months I have been trying to ask about this and
 running here all the time to do so, but finding You always busy I could not do so".
 Baba said, “I instructed you to protect yourself from dust and smoke but you did
 not so.”
+
 I said, “Baba, I have tried to do so”.
+
 After returning to the house I went to bed in the same worried state. Next day I
 did not return and stayed over in Jamalpur again.
 
@@ -56,42 +58,54 @@ did not return and stayed over in Jamalpur again.
 That day when I met Pranayji, the senior disciple who lived in that quarter, he
 told me, “One who practices pranayama breath control should keep away from
 smoking. Baba told you to keep away from smoke, but you still continued to smoke.”
+
 I told him, ”I never dreamt that keeping away from smoke meant not smoking. I
 was under the impression that I should avoid smoke of coal etc. I am sorry that due to
 my ignorance, Baba had to become angry with me. Now I shall never smoke, although
 it would be quite painful to give it up.”
+
 In the evening as usual, I started for Baba's darshan, but that day Baba had left
 His home before we reached there and we met Him on the way. That day Baba was
 walking faster, there was therefore no opportunity to touch His feet and do pranam. I
 told Baba that He was walking so quickly I had not got an opportunity to touch His feet.
 Hearing this Baba looked at me in great anger. I kept quiet.
+
 After some time, Baba turned towards the railway quarter and we also
 continued to follow Him. After reaching there Baba asked the senior disciple whether
 he could take dictation. Baba's voice itself indicated how angry He was, so that brother
 hesitated to reply.
+
 I said, “'Give me pencil and paper. I shall take dictation."
+
 When he gave me the pencil and paper, Baba sat on the wooden seat and we
 sat down on the floor and I began to take dictation. Baba dictated:
 “Punishment Notice No. 1
+
 Nagina will not touch me till further order, nor he will participate in
 Gurupuja”.In the notice Deep Narayanji and some others were also punished - which is not
 necessary to mention here. I used to consider myself a very fast writer, but that day I
 was disabused of this impression of mine. And since that day my speed of writing also
 declined.
+
 Then Baba started for His walk and we also followed Him. In the field Baba sat
 on the tiger’s grave. Everyone sat around Him but I sat at some distance.
 After some time Baba enquired, "Nagina, why are you sitting at such a
 distance?"
+
 Before I could reply Baba said, "That is alright”. I did not have to say anything.
 At about nine thirty, when Baba rose, everyone did sastaunga pranam to Him. I
 was standing somewhat away and enquired whether I could also prostrate myself at
 His feet.
+
 He said, "Yes, you can do pranam”.
+
 I did my sastaunga pranam from some distance and returned.
+
 Vishvanathji was both a childhood friend and classmate and was quite pained
 to see me punished, as he thought that he was cause of this punishment. I explained to
 him that this kind of thinking was simply superstition and entirely baseless. Still it took
 him some time to get over his sense of guilt.
+
 Next day, after returning to Begusarai when I sat for my meditation, I did not
 know whether in the dhyana lesson I was to touch Baba or not. I had not been taught
 guru puja up till then, so there was no difficulty in this regard. I therefore addressed a
@@ -111,5 +125,6 @@ Even Baba appeared quite frightening. I used to get nightmares.
 
 It was at this time that my little daughter Mainju, whom Baba had revived from death, began to sing a song as she waited at the gate each day for me to return from
 the office: " Oh Lord, how much has man changed." I used to feel quite frightened hearing this song from her little mouth.
+
 And so 1954 ended in this state of fear and 1955 arrived.
 

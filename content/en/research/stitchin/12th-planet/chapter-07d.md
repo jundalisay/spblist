@@ -7,9 +7,13 @@ weight: 25
 ---
 
 
+
+Having thus "constructed the stations" for the planets, Marduk took for himself "Station Nibiru," and "crossed the heavens and surveyed" the new solar system. It was now made up of 12 celestial bodies, with 12 Great Gods as their counterparts. (Fig. 110)
+
+
 Etymologically, the names of these two planets stem from the root LHM ("to make war"). The ancients bequeathed to us the tradition that Mars was the God of War and Venus the Goddess of both Love and War. 
 
-LAHMU and LAHAMU are indeed male and female names, respectively; and the identity of the two gods of the epic and the planets Mars and Venus is thus affirmed both etymologically and mythologically. 
+LAHMU and LAHAMU are indeed male and female names, respectively. The identity of the two gods of the epic and the planets Mars and Venus is thus affirmed both etymologically and mythologically. 
 
 It is also affirmed astronomically: As the "missing planet," Tiamat was located beyond Mars. Mars and Venus are indeed located in the space between the Sun (Apsu) and "Tiamat." We can illustrate this by following the Sumerian celestial map. (Figs. 102, 103)
 
@@ -37,32 +41,36 @@ They overtook in size the first pair, "surpassing them" in stature. The descript
 <!-- Illustration:
 The SHAR‘s—the Giant Planets—are created, -->
 
-together with their Emissary.
+<!-- together with their Emissary. -->
 
 Some time then passed ("multiplied the years"), and a third pair of planets was brought forth. First came ANU, smaller than Anshar and Kishar ("their son"), but larger than the first planets ("of his ancestors a rival" in size). 
 
 Then Anu, in turn, begot a twin planet, "his equal and in his image." The Babylonian version names the planet NUDIMMUD, an epithet of Ea/Enki. Once again, the descriptions of the sizes and locations fit the next known pair of planets in our solar system, Uranus and Neptune.
 
-There was yet another planet to be accounted for among these outer planets, the one we call Pluto. The "Epic of Creation" has already referred to Anu as "Anshar's first-born," implying that there was yet another planetary god "born" to Anshar/Saturn. 
+There was yet another planet to be accounted for among these outer planets, the one we call Pluto. 
+
+The "Epic of Creation" has already referred to Anu as "Anshar's first-born," implying that there was yet another planetary god "born" to Anshar/Saturn. 
 
 The epic catches up with this celestial deity later on, when it relates how Anshar sent out his emissary GAGA on various missions to the other planets. 
 
 Gaga appears in function and stature equal to Apsu's emissary Mummu;  this brings to mind the many similarities between Mercury and Pluto. Gaga, then, was Pluto; but the Sumerians placed Pluto on their celestial map not beyond Neptune, but next to Saturn, whose "emissary," or satellite, it was. (Fig. 105) 
 
 The last two planets are added—equal, in each other's image.
-As Act I of the "Epic of Creation" came to an end, there was a solar system made
-up of the Sun and nine planets:
 
-SUN—Apsu, "one who existed from the beginning."
-MERCURY—Mummu, counselor and emissary of Apsu.
-VENUS—Lahamu, "lady of battles."
-MARS—Lahmu, "deity of war."
-??—Tiamat, "maiden who gave life."
-JUPITER—Kishar, "foremost of firm lands."
-SATURN—Anshar, "foremost of the heavens."
-PLUTO—Gaga, counselor and emissary of Anshar.
-URANUS—Anu, "he of the heavens."
-NEPTUNE—Nudimmud (Ea), "artful creator."
+As Act I of the "Epic of Creation" came to an end, there was a solar system made up of the Sun and 9 planets:
+
+Planet | Description
+--- | ---
+SUN | Apsu, "one who existed from the beginning."
+MERCURY | Mummu, counselor and emissary of Apsu.
+VENUS | Lahamu, "lady of battles."
+MARS | Lahmu, "deity of war."
+??—Tiamat | "maiden who gave life."
+JUPITER | Kishar, "foremost of firm lands."
+SATURN | Anshar, "foremost of the heavens."
+PLUTO | Gaga, counselor and emissary of Anshar.
+URANUS | Anu, "he of the heavens."
+NEPTUNE | Nudimmud (Ea), "artful creator."
 
 Where were Earth and the Moon? They were yet to be created, products of the
 forthcoming cosmic collision.
@@ -143,25 +151,26 @@ Though the lines of the ancient text were partially damaged here, we can still
 read that the nearing planet "diluted their vitals … pinched their eyes." Tiamat
 herself "paced about distraught"—her orbit, evidently, disturbed.
 
-The gravitational pull of the large approaching planet soon began to tear away parts of Tiamat. From her midst there emerged eleven "monsters," a "growling, raging" throng of satellites who "separated themselves" from her body and
-"marched at the side of Tiamat." Preparing herself to face the onrushing Marduk,
-Tiamat "crowned them with halos," giving them the appearance of "gods" (planets).
-Of particular importance to the epic and to Mesopotamian cosmogony was
-Tiamat's chief satellite, who was named KINGU, "the first-born among the gods
+The gravitational pull of the large approaching planet soon began to tear away parts of Tiamat. From her midst there emerged eleven "monsters," a "growling, raging" throng of satellites who "separated themselves" from her body and "marched at the side of Tiamat." 
+
+Preparing herself to face the onrushing Marduk, Tiamat "crowned them with halos," giving them the appearance of "gods" (planets). Of particular importance to the epic and to Mesopotamian cosmogony was Tiamat's chief satellite, who was named KINGU, "the first-born among the gods
 who formed her assembly."
+
 
 She exalted Kingu,
 In their midst she made him great…
 The high command of the battle
 She entrusted into his hand.
 
+
 Subjected to conflicting gravitational pulls, this large satellite of Tiamat began to
-shift toward Marduk. It was this granting to Kingu of a Tablet of Destinies—a
-planetary path of his own—that especially upset the outer planets. Who had
-granted Tiamat the right to bring forth new planets? Ea asked. He took the
-problem to Anshar, the giant Saturn.
+shift toward Marduk. 
+
+It was this granting to Kingu of a Tablet of Destinies—a planetary path of his own—that especially upset the outer planets. Who had granted Tiamat the right to bring forth new planets? Ea asked. He took the problem to Anshar, the giant Saturn.
 
 All that Tiamat had plotted, to him he repeated:
+
+
 "…she has set up an Assembly and is furious with rage.
 she has added matchless weapons, has borne monster-gods.
 withal eleven of this kind she has brought forth;
@@ -170,29 +179,27 @@ she has elevated Kingu, her first-born, made him chief…
 she has given him a Tablet of Destinies, fastened it
 on his breast."
 
-Turning to Ea, Anshar asked him whether he could go to slay Kingu. The reply
-is lost due to a break in the tablets; but apparently Ea did not satisfy Anshar, for
+
+Turning to Ea, Anshar asked him whether he could go to slay Kingu. 
+
+The reply is lost due to a break in the tablets; but apparently Ea did not satisfy Anshar, for
 the continuing narrative has Anshar turning to Anu (Uranus) to find out whether
 he would "go and stand up to Tiamat." But Anu "was unable to face her and
 turned back."
 
 In the agitated heavens, a confrontation builds; one god after another steps
 aside. Will no one do battle with the raging Tiamat?
-Marduk, having passed Neptune and Uranus, is now nearing Anshar (Saturn)
-and his extended rings. This gives Anshar an idea: "He who is potent shall be our
-Avenger; he who is keen in battle: Marduk, the Hero!" Coming within reach of
-Saturn's rings ("he kissed the lips of Anshar"), Marduk answers:
+
+Marduk, having passed Neptune and Uranus, is now nearing Anshar (Saturn) and his extended rings. This gives Anshar an idea: "He who is potent shall be our Avenger; he who is keen in battle: Marduk, the Hero!" Coming within reach of Saturn's rings ("he kissed the lips of Anshar"), Marduk answers:
 
 
-"If I, indeed, as your Avenger
+"If I, indeed, as your Avenger 
 Am to vanquish Tiamat, save your lives—
 Convene an Assembly to proclaim my Destiny supreme!"
 
 
-The condition was audacious but simple: Marduk and his "destiny"—his orbit
-around the Sun—were to be supreme among all the celestial gods. It was then that
-Gaga, Anshar/Saturn's satellite—and the future Pluto—was loosened from his
-course:
+The condition was audacious but simple: Marduk and his "destiny"—his orbit around the Sun—were to be supreme among all the celestial gods. It was then that Gaga, Anshar/Saturn's satellite—and the future Pluto—was loosened from his course:
+
 
 Anshar opened his mouth,
 To Gaga, his Counsellor, a word he addressed…

@@ -8,26 +8,21 @@ weight: 28
 
 
 Studies of the "Epic of Creation" and parallel texts (for example, S. Langdon's
-The Babylonian Epic of Creation) show that sometime after 2000 B.C., Marduk, son
-of Enki, was the successful winner of a contest with Ninurta, son of Enlil, for
-supremacy among the gods. The Babylonians then revised the original Sumerian
-"Epic of Creation," expunged from it all references to Ninurta and most references
-to Enlil, and renamed the invading planet Marduk.
+The Babylonian Epic of Creation) show that 
 
-The actual elevation of Marduk to the status of "King of the Gods" upon Earth
-was thus accompanied by assigning to him, as his celestial counterpart, the planet
-of the Nefilim, the Twelfth Planet. As "Lord of the Celestial Gods [the planets]"
-Marduk was thus also "King of the Heavens."
+Sometime after 2000 BC, Marduk, son of Enki, was the successful winner of a contest with Ninurta, son of Enlil, for supremacy among the gods.
 
-Some scholars at first believed that "Marduk" was either the North Star or some
-other bright star seen in the Mesopotamian skies at the time of the spring equinox
-because the celestial Marduk was described as a "bright heavenly body." 
+The Babylonians then revised the original Sumerian "Epic of Creation" expunged from it all references to Ninurta and most references to Enlil, and renamed the invading planet Marduk.
 
-But Albert Schott (Marduk und sein Stern) and others have shown conclusively that all
-the ancient astronomical texts spoke of Marduk as a member of the solar system.
+The actual elevation of Marduk to the status of "King of the Gods" on Earth was thus accompanied by assigning to him, as his celestial counterpart, the planet of the Nefilim, the Twelfth Planet. As "Lord of the Celestial Gods [the planets]" Marduk was thus also "King of the Heavens."
 
-Since other epithets described Marduk as the "Great Heavenly Body" and the
-"One Who Illumines," the theory was advanced that Marduk was a Babylonian
+<!-- Some scholars at first believed that  -->
+
+"Marduk" was either the North Star or some other bright star seen in the Mesopotamian skies at the time of the spring equinox because the celestial Marduk was described as a "bright heavenly body." 
+
+But Albert Schott (Marduk und sein Stern) and others have shown conclusively that all the ancient astronomical texts spoke of Marduk as a member of the solar system.
+
+Since other epithets described Marduk as the "Great Heavenly Body" and the "One Who Illumines," the theory was advanced that Marduk was a Babylonian
 Sun God, parallel to the Egyptian god Ra, whom the scholars also considered a
 Sun God. 
 

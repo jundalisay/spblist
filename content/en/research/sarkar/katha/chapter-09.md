@@ -18,6 +18,7 @@ mental state became very pleasant.
 Now the blockage was removed, I became more deeply engrossed in meditation.
 After some days, I got leave and went for Baba's darshan. At His residence, I
 sat near Baba after doing pranam.
+
 Baba said, "What was the need to come now? Your work is already done." I did
 not follow.
 
@@ -39,6 +40,7 @@ And after that Baba began to explain the whole theory to me scientifically. For 
 
 It was the great grace of Baba that He was strengthening my faith. To remove my doubts Baba gave me the experience of His omniscience again and again. How kind and compassionate He is!
 
+
 ## THE LIBERATION OF ‘VAJRA BHAIRAV’
 
 One evening Baba was sitting on the tiger’s grave with a young brother disciple and myself.Baba commented, “Formerly when the number of devotees was less when I
@@ -55,7 +57,9 @@ supplicate and press me for his salvation.”
 
 Puzzled, I asked Baba, “Just now You told me that he was a person from Bengal and in western dress, then how does the question of having a human body arise? He was very much in human form when he was talking to You!”
 
-Baba explained, “He was a bodiless soul. He died long ago. When I expanded my mind, that bodiless soul took the support of my ectoplasm (citta) and stood up before me. The clothes were those he had worn during his life . Taking the support of my ectoplasm he came in that very dress before me. Even though I explained to him again and again that unless he had a human body it would be very difficult to give him the help he wanted, he continued to press me most humbly and earnestly. Seeing his sincerity I took pity on him. I gave him a place for sadhana beside the tree that stands near this grave.” 
+Baba explained, “He was a bodiless soul. He died long ago. When I expanded my mind, that bodiless soul took the support of my ectoplasm (citta) and stood up before me. The clothes were those he had worn during his life . Taking the support of my ectoplasm he came in that very dress before me. 
+
+Even though I explained to him again and again that unless he had a human body it would be very difficult to give him the help he wanted, he continued to press me most humbly and earnestly. Seeing his sincerity I took pity on him. I gave him a place for sadhana beside the tree that stands near this grave.” 
 
 Baba indicated the banyan tree that stands no more than 5 yards west of the Englishman’s grave and 35 yards from the tiger’s grave. 
 
@@ -67,14 +71,15 @@ The young disciple brother and I both looked at it in awe as if we had not seen 
 
 Baba then told us the entire story of Shyam Charan Lahiri’s initiation near Ranikhet in the forest of the Himalayas. 
 
-The same story, with some variations, is told by Swami Yogananda in his ‘Autobiography of a Yogi’, and by Swai Satyeshvarananda in his ‘ Lahiri Mahasay, the Father of Kriya Yoga’. 
+The same story, with some variations, is told by:
+- Swami Yogananda in his ‘Autobiography of a Yogi’
+- Swai Satyeshvarananda in his ‘ Lahiri Mahasay, the Father of Kriya Yoga’. 
 
 After hearing this story from Baba, I obtained a copy of Yogananda’s autobiography and read it.
 
 Baba continued, “I have named him Vajra Bhairav. His body is very frightening to look at, but he is actually very kind and compassionate. He loves his brother disciples very much. Nagina someday I shall introduce Vajra Bhairav to you”.
 
-(Naginada has on different occasions mentioned different places as that given by Shyam Charan Lahiri as his home district. As it seems that his memory had perhaps faltered on this point, the correct place has
-been given here. Ed.)
+(Naginada has on different occasions mentioned different places as that given by Shyam Charan Lahiri as his home district. As it seems that his memory had perhaps faltered on this point, the correct place has been given here. Ed.)
 
 Again, an amendment has been made here. 
 
@@ -85,12 +90,12 @@ Naginada had also recollected Baba saying the nearby mango-tree was the site of 
 
 By then my young brother disciple who was also with me could not curb his curiosity and began to insist that he would also like to meet Vajra Bhairav and then Baba stopped speaking. 
 
-After sometime he started another subject.
+<!-- After sometime he started another subject. -->
 
 
 After many days, I asked Baba about Vajra Bhairav.
 
-“His sadhana is complete” answered Baba, “and he has merged with the Supreme.”
+Baba said: “His sadhana is complete. He has merged with the Supreme.”
 
 
 Vajra Bhairav had left the world of form and gone on to absolute formlessness.

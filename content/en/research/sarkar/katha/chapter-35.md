@@ -76,16 +76,22 @@ blessing of Baba on a poor devotee like me.
 
 As the train entered the platform, heart-rending sounds of Victory to the
 Supreme Lord of Yoga Shrii Shrii Anandamurtiji” filled the air. The attending secretary
-opened the door of Baba’s compartment. All the Margii brothers were overwhelmed
+opened the door of Baba’s compartment.
+
+All the Margii brothers were overwhelmed
 with devotional fervour. Then they began to enter the compartment one by one in a
 disciplined manner. Meanwhile I handed over to the attending secretary the tiffin boxes
 and baskets carrying food for Baba and the Margiis. I requested Him most humbly that
 Baba’s and the Margiis dinner may be served out of this food.
 
 After that I was standing in one corner with a garland in my hands to be offered
-to Baba. I was looking at Him, but due to the crowd in between was unable to reach
+to Baba. 
+
+I was looking at Him, but due to the crowd in between was unable to reach
 him. The Margii brothers who had the compartment stayed there. Thus there was so
-much rush inside the compartment. Baba noted my helplessness and extended both
+much rush inside the compartment. 
+
+Baba noted my helplessness and extended both
 his hands and took up the garland from my hands and placed the same on his neck. I
 was overwhelmed; my heart began to pound. Due to excess emotion, tears began to
 flow from my eyes and I became dumb. Baba then called me near and I had the
@@ -104,6 +110,7 @@ also used for breakfast the next morning. The inhabitants of Jamalpur ashram use
 what was still left thereafter. On receiving this information, the members of my familyand I felt extremely happy and contented. Baba's liila is great. He first presents
 obstacles to test the sincerity of the devotee and thereafter arranges all facilities
 himself.
+
 My prayer to the Lord is that he may take whatever test he wants, but the
 should never allow my faith to be shaken. This much grace I shall pray for all my life.
 Our pracar work in Hajipur was going on smoothly. Shri Shankar Swaroop
@@ -112,6 +119,7 @@ He had worked with me before also during the period 1948-50. At that time I was 
 the Marga. He had witnessed my “eat, drink and be merry” life at that time. This time he
 found some change in my views, habits of eating and ways of life. Therefore after
 working for some time, he asked to be initiated.
+
 So far, I was not initiating people in my own department. But when another
 acarya was not available, I had to initiate them myself. Here Acarya Deep Narainji was
 available. I, therefore, requested him to initiate Shri Sinha and he was initiated in 1958.

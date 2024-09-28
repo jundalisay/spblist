@@ -11,11 +11,9 @@ author: Nagina
 Meanwhile, September arrived. 
 
 From the programme sent by the ashram manager, I came to know that Baba had kindly agreed to hold DMC in West
-Champaran on 26th September 1958.
+Champaran on September 26, 1958.
 
-In those days Baba was kind enough to hold DMC every month somewhere or other. Most of us could participate in all the DMCs. The great devotee, Ac. Deep Narainji, suggested that we should attend this DMC. I was also desirous of going and
-listening to Baba’s discourse. Now we decided to go together on the 25th from Hajipur
-at the appointed time.
+In those days Baba was kind enough to hold DMC every month somewhere or other. Most of us could participate in all the DMCs. The great devotee, Ac. Deep Narainji, suggested that we should attend this DMC. I was also desirous of going and listening to Baba’s discourse. Now we decided to go together on the 25th from Hajipur at the appointed time.
 
 Remembering Baba, we started on our journey to Ramnagar. We had to change the train at Muzaffarpur. There at the station we met a large number of Margii brothers. Here we came to know that Baba was also leaving for Ramnagar by the
 same train. Now our joy knew no bounds.

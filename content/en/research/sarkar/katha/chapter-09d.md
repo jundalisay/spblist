@@ -107,9 +107,9 @@ this we did not ask any further questions about her.
 
 That evening we sat for about three hours and listened to His teachings. While
 returning from the field when we came near the Jubilee Well, Baba asked us to return
-home. Bindeshwariji's residence is very near the Jubilee Well. We again touched His
-feet and returned to Bindeshwariji’s residence. Later on, Baba Himself went and
-initiated Bindeshwariji’s daughter at his residence. That girl is fortunate enough to be
+home. 
+
+Bindeshwariji's residence is very near the Jubilee Well. We again touched His feet and returned to Bindeshwariji’s residence. Later on, Baba Himself went and initiated Bindeshwariji’s daughter at his residence. That girl is fortunate enough to be
 still alive and is happy today with her children and family. Great is Baba’s mercy and
 grace, which are not dependent on any cause.
 
