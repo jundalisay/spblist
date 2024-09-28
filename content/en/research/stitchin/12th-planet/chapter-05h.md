@@ -1,5 +1,5 @@
 ---
-heading: Chapter 5b
+heading: Chapter 5h
 title:  "The Old Testament"
 image:  "/covers/12th.jpg"
 description: "The Old Testament also reports that the prophet Elijah did not die on Earth"

@@ -1,6 +1,6 @@
 ---
-heading: Chapter 5b
-title:  "The Old Testament"
+heading: Chapter 5e
+title:  "Enoch"
 image:  "/covers/12th.jpg"
 description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
 weight: 36
@@ -36,9 +36,11 @@ The Anunnaki, the rank-and-file gods, were ordered to
 Construct the Gateway of the Gods…
 Let its brickwork be fashioned.
 Its shem shall be in the designated place.
+
 For two years, the Anunnaki toiled—"applied the implement … molded bricks"—
 until "they raised high the top of Eshagila" ("house of Great Gods") and "built the
 stage tower as high as High Heaven."
+
 It was thus some cheek on the part of Mankind to establish its own launch
 tower on a site originally used for the purpose by the gods, for the name of the
 place—Babili—literally meant "Gateway of the Gods."
@@ -88,8 +90,10 @@ them. These humans, in turn, do not seem to be engaged in any warlike activities
 but to be marching toward, and standing in adoration of, the same large conical
 object on which the deity's attention is also focused. Armed with a bow and lance,
 the deity seems to view the object menacingly rather than with adoration. (Fig. 75)
+
 Illustration:
 Humans advancing on a Shem
+
 The conical object is shown reaching toward three celestial bodies. If its size,
 shape, and purpose indicate that it was a shem, then the scene depicted an angry
 and fully armed god trampling upon people celebrating the raising of a shem.
@@ -99,6 +103,8 @@ Men—assert both Mesopotamian and biblical texts—could ascend to the
 Heavenly Abode only upon the express wish of the gods. And therein lie more tales
 of ascents to the heavens and even of space flights.
 * * * * *
+
+
 The Old Testament records the ascent to the heavens of several mortal beings.
 The first was Enoch, a pre-Diluvial patriarch whom God befriended and who
 "walked with the Lord." He was the seventh patriarch in the line of Adam and the
@@ -108,6 +114,7 @@ died—except for Enoch, "who was gone, for the Lord had taken him." By
 implication and tradition, it was heavenward, to escape mortality on Earth, that
 God took Enoch. The other mortal was the prophet Elijah, who was lifted off Earth
 and taken heavenward in a "whirlwind."
+
 A little-known reference to a third mortal who visited the Divine Abode and was
 endowed there with great wisdom is provided in the Old Testament, and it
 concerns the ruler of Tyre (a Phoenician center on the eastern Mediterranean
@@ -122,6 +129,7 @@ Thou art an anointed Cberub, protected;
 and I have placed thee in the sacred mountain;
 as a god werest thou,
 moving within the Fiery Stones.
+
 Predicting that the ruler of Tyre should die a death "of the uncircumcised" by
 the hand of strangers even if he called out to them "I am a Deity," the Lord then
 told Ezekiel the reason: After the king was taken to the Divine Abode and given

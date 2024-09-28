@@ -1,6 +1,6 @@
 ---
-heading: Chapter 5b
-title:  "The Old Testament"
+heading: Chapter 5f
+title:  "The Epic of Gilgamesh"
 image:  "/covers/12th.jpg"
 description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
 weight: 37
