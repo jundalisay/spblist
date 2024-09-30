@@ -41,7 +41,10 @@ These were larger than the others.
 
 <!-- Thus, now seeing the primary Planets, Mercury, Venus, Earth, Mars, Jupiter, and Saturn, being carried to different distances around the Sun, we will judge that this happens  -->
 
-The distances of the planets are due to their solidity. 
+**The distances of the planets are due to their solidity.** *
+
+{{< n n="Here, Descartes is wrong because the farther planets are gaseous. Solidity is the amount of Earth-aether compared to its density and surface area (occupied air-aether" >}}
+
 
 Those which are closer to the Sun have less solidity than the more distant ones.
 
@@ -54,16 +57,24 @@ The inferior Planets revolve faster in their orbit than the farther planets.
 
 This is because the fire-aether of the Sun spins very rapidly. It drags with it more the nearer parts of the sky than the more distant ones. 
 
-Nor will we wonder in the meantime that the spots which appear on its surface are carried much more slowly than any Planet: (for they spend 26 days in their very short circuit, while Mercury in its more than sixty times larger, barely three months, and Saturn in its perhaps 2,000 times larger, only thirty years, which unless it moved faster than them, it should spend more than a hundred). 
+This is also why the spots which appear on the sun's surface are carried much more slowly than any Planet. 
+
+They spend 26 days in their very short circuit, whereas:
+- Mercury's orbit is more than 60 times larger but it takes it barely 3 months
+- Saturn's orbit is perhaps 2,000 times larger but itakes it only 30 years
+  - If it moved as slow as them, it should take more than 100 years. 
 
 This is because the earth-aether particles arise from the continuous dissolution of the spots. These gather around the Sun.
 
-There, they compose a large mass of aether, perhaps extending up to the orbit of Mercury, or even farther.
+There, they compose a large mass of aether [earth-aether], perhaps extending up to Mercury's orbit or even farther.
 
-These aether particles are very irregular and branched. These adhere to each other that they move as one. This is different from the air-aether globules.  
+These aether [earth-aether] particles are very irregular and branched. 
+
+These adhere to each other that they move as one. This is different from the air-aether globules.  
 
 <!-- in such a way that they are not separately moved, as the globules of celestial matter,
  -->
 These are then all swept away together by the Sun, and with them both the solar spots and also the part of the sky near Mercury.
 
 Hence they complete not much more circuits than Mercury in the same time, and therefore do not move so fast.
+

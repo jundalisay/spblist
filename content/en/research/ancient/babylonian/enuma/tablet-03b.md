@@ -11,14 +11,13 @@ description: "To avenge Apsu, Tiamat planned evil"
 Gaga went, he took his way and humbly before Lahmu and Lahamu, the gods, his fathers,
 He made obeisance, and he kissed the ground at their feet.
 
-He humbled himself; then he stood up and spake unto them saying:
+He humbled himself. Then he stood up and spake unto them saying:
+
 
 "Ansar, your son, hath sent me, [He repeats Tiamat's plot]
 
 
-<!-- The purpose of his heart he hath made known unto me.
-He saith that Tiamat our mother hath conceived a hatred for us,
-With all her force she rageth, full of wrath.
+<!-- The purpose of his heart he hath made known unto me. He saith that Tiamat our mother hath conceived a hatred for us, With all her force she rageth, full of wrath.
 
 All the gods have turned to her,
 With those, whom ye created, they go at her side.
@@ -66,15 +65,16 @@ Now Kingu, thus exalted, having received the power of Anu, decreed the fate for 
 Whoso is exalted in the battle, let him display his might!' -->
 
 
-I sent Anu, but he could not withstand her;
-Nudimmud was afraid and turned back.
+I sent Anu, but he could not withstand her; Nudimmud was afraid and turned back.
 
 But Marduk hath set out, the director of the gods, your son;
 To set out against Tiamat his heart hath prompted him.
 
 He opened his mouth and spake unto me, saying:
-'If I, your avenger,
-Conquer Tiamat and give you life,
+
+
+{{< q >}}
+'If I, your avenger, conquer Tiamat and give you life,
 Appoint an assembly, make my fate preeminent and proclaim it.
 
 In Upsukkinaku seat yourselves joyfully together;
@@ -84,17 +84,20 @@ May the word of my lips never be changed nor made of no avail.'
 
 Hasten, therefore, and swiftly decree for him the fate which you bestow,
 That he may go and fight your strong enemy!
+{{< /q >}}
+
 
 Lahmu and Lahamu heard and cried aloud
+
 All of the Igigi [The elder gods] wailed bitterly, saying:
 
-What has been altered so that they should
-We do not understand the deed of Tiamat!
+What has been altered so that they should we do not understand the deed of Tiamat!
 
 Then did they collect and go,
 The great gods, all of them, who decree fate.
 They entered in before Ansar, they filled...
 They kissed one another, in the assembly...;
+
 They made ready for the feast, at the banquet they sat;
 They ate bread, they mixed sesame-wine.
 

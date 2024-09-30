@@ -35,18 +35,23 @@ But the direction of its axis, around which the diurnal motion occurs, depends m
 We imagine all the space now occupied by the first heaven was once divided into 14 or more vortices.
 - Those stars at their centers are now transformed into Planets.
 
-But We cannot suppose that the axes of all those stars were turned towards the same parts because this would not accord with the laws of nature. 
+But the axes of all those Planets were not turned towards the same parts because this would not accord with the laws of nature. 
 
 {{< img src="/graphics/physics/vortices.jpg" alt="Orbits" >}}
 
 But it is very possible that the fire-aether which converged to form the Earth came from nearly the same parts of the firmament that still face its poles.
 
-While many cortices of spots were gradually generated above this star, the striated particles of this fire-aether formed many channels in these cortices for themselves, and adapted themselves to their size and shape in such a way that they could offer no passage or only a difficult one to the striped particles that come from other parts of the firmament.
+While many cortices of spots were gradually generated above this star, the virtual photons of this fire-aether formed many channels in these cortices for themselves. 
 
-And so those which formed suitable channels for themselves through the globe of the Earth, along its axis, when they now still flow through it perpetually, cause its poles to be directed towards the same parts of the heavens from which they come.
+They adapted themselves to their size and shape to offer no passage, or only a difficult one, to the virtual photons that come from other parts of the firmament.
+
+And so those which formed suitable channels for themselves through the Earth, along its axis, when they now still flow through it perpetually, cause its poles to be directed towards the same parts of the heavens from which they come.*
+
+{{< n n="Descartes points the tilt of the Earth to be caused by the flow of virtual photons. But we believe that the tilt was caused by a collision with the body Theia." >}}
 
 
-#### 156. Why they gradually approach each other. 
+
+#### 156. Why they gradually approach each other
 
 The two revolutions of the Earth, namely the annual and the diurnal, would be more conveniently performed if they were around parallel axes, the causes preventing this are gradually changing on both sides.
 

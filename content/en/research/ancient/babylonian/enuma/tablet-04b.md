@@ -7,30 +7,36 @@ description: "As Marduk gazed, Kingu was troubled in his gait. His will was dest
 ---
 
 
+Marduk drew nigh, he gazed upon the inward parts of Tiamat,
+
+He perceived the muttering of Kingu, her spouse.
+
 As Marduk gazed, Kingu was troubled in his gait. His will was destroyed and his motions ceased.
 
 The gods, his helpers, who marched by his side, beheld their leader's..., and their sight was troubled.
 
 But Tiamat... , she turned not her neck,
 With lips that failed not she uttered rebellious words:
-"... thy coming as lord of the gods,
-From their places have they gathered, in thy place are they! "
 
-Then the lord raised the thunderbolt, his mighty weapon,
-And against Tiamat, who was raging, thus he sent the word:
+"... your coming as lord of the gods, from their places have they gathered, in your place are they! "
 
-Thou art become great, thou hast exalted thyself on high,
-And thy heart hath prompted thee to call to battle.
+Then Marduk raised the thunderbolt, his mighty weapon. Against Tiamat, who was raging, thus he sent the word:
+
+You have become great, you have exalted yourself on high. Your heart had prompted you to call to battle.
 
 ... their fathers...,
 ... their... thou hatest...
-You have exalted Kingu to be your spouse,
-You have... him, that, even as Anu, he should issue deerees.
+
+You have exalted Kingu to be your spouse.
+
+You have... him, that, even as Anu, he should issue decrees.
 
 You have followed after evil,
-And against the gods my fathers thou hast contrived thy wicked plan.
-Let then thy host be equipped, let thy weapons be girded on!
-Stand! I and thou, let us join battle!
+And against the gods my fathers you have contrived your wicked plan.
+
+Let then your host be equipped, let thy weapons be girded on!
+
+Stand! I and you, let us join battle!
 
 When Tiamat heard these words, she was like one posessed. She lost her reason.
 
@@ -57,7 +63,7 @@ He severed her inward parts, he pierced her heart.
 
 He overcame her and cut off her life.
 
-He cast down her body and stood upon it.
+He cast down her body and stood on it.
 
 When he had slain Tiamat, the leader, her might was broken, her host was scattered.
 
@@ -78,9 +84,11 @@ The ... of the world they filled with cries of grief.
 They received punishment from him, they were held in bondage.
 
 She had 11 creatures filled with the power of striking terror,
+
 Upon the troop of devils, who marched at her...,
 
 He brought affliction, their strength he...;
+
 Them and their opposition he trampled under his feet.
 
 Kingu had been exalted over them.
@@ -93,28 +101,36 @@ He sealed them with a seal and in his own breast he laid them.
 
 The hero Marduk had conquered and cast down his enemies, and had made the arrogant foe even like 
 
-He had fully established Ansar's triumph over the enemy and had attained the purpose of Nudimmud, Over the captive gods he strengthened his durance, and unto Tiamat, whom he had conquered, he returned.
+He had fully established Ansar's triumph over the enemy and had attained the purpose of Nudimmud.
 
-The lord stood upon Tiamat's hinder parts.
+Over the captive gods he strengthened his durance, and unto Tiamat, whom he had conquered, he returned.
+
+The lord stood on Tiamat's hinder parts.
 
 With his merciless club he smashed her skull.
 
-He cut through the channels of her blood, and he made the North wind bear it away into secret places.
+He cut through the channels of her blood. He made the North wind bear it away into secret places.*
+
+{{< n n="*Most of Tiamat's part blew off into the Oort Cloud" >}}
+
 
 His fathers beheld. They rejoiced and were glad.
 
-They brought to him presents and gifts.
+They brought to him presents an
+d gifts.
 
 Then Marduk rested, gazing on her dead body, while he divided the flesh of the ... , and devised a cunning plan.
 
 He split her up like a flat fish into 2 halves.
 
-One half of her he stablished as a covering for heaven.
+One half of her he established as a covering for heaven.
 
 He fixed a bolt, he stationed a watchman, and bade them not to let her waters come forth.
 
-He passed through the heavens, he surveyed the regions thereof, and over against the Deep he set the dwelling of Nudimmud.
+He passed through the heavens, he surveyed the regions thereof.
 
-The lord measured the structure of the Deep, and he founded E-sara, a mansion like unto it.
+Over against the Deep he set the dwelling of Nudimmud.
+
+He measured the structure of the Deep, and he founded E-sara, a mansion like unto it.
 
 The mansion E-sara which he created as heaven, He caused Anu, Bel, and Ea [Enki] in their districts to inhabit.

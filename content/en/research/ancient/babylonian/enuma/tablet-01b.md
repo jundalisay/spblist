@@ -35,9 +35,7 @@ They banded themselves together and at the side of Tiamat they advanced.
 
 They were furious. They devised mischief without resting night and day.
 
-They prepared for battle, fuming and raging;
-
-They joined their forces and made war,
+They prepared for battle, fuming and raging. They joined their forces and made war.
 
 Ummu-Hubur [Tiamat] formed all things including invincible weapons.
 
@@ -84,22 +82,17 @@ She entrusted him to:
 
 In costly raiment she made him sit, saying:
 
-I have uttered thy spell. I have raised you to power in the assembly of the gods.
-
-The dominion over all the gods have I entrusted unto him.
-
-Be thou exalted, thou my chosen spouse,
+"I have uttered your spell. I have raised you to power in the assembly of the gods. The dominion over all the gods have I entrusted unto him. Be thou exalted, my chosen spouse,
 
 May they magnify thy name over all of them the Anunnaki."
 
+
 She gave him the Tablets of Destiny, on his breast she laid them, saying:
 
-Your command shall not be without avail. The word of your mouth shall be established."
+"Your command shall not be without avail. The word of your mouth shall be established."
 
 Kingu was thus exalted and received the power of Anu.
 
 He decreed the fate among the gods his sons, saying:
 
-"Let the opening of your mouth quench the Fire-god;
-
-Whoso is exalted in the battle, let him display his might!"
+"Let the opening of your mouth quench the Fire-god; Whoso is exalted in the battle, let him display his might!"

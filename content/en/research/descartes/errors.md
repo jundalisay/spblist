@@ -14,4 +14,4 @@ n | Source | Error | Reality
 2 | The World Chapter 8 | Comets (and the Oort Cloud) move faster than the inner planets | Comets are slower
 3 | Principia Part 3, 82 | The fire-aether beyond Saturn do not move faster. | They move slower. This mistake is caused by the previous mistake on comets
 4 | Meteors Discourse 8 | Colors are caused by photons turning in different directions. The cause of the error is believing that colors emerge after hitting something. This is a principle in Dioptrique. However, color is inherent information about the source, and not an emergent effect. | Colors are caused by wavelengths
-
+5 | Principia Part 3, 147 | The outer planets are more solid than the inner ones | The inner planets are more solid

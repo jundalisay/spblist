@@ -9,11 +9,11 @@ description: "Marduk the way-station engineer"
 
 O Asari, [Marduk] "Bestower of planting," "Founder of sowing" "Creator of grain and plants," "who caused the green herb to spring up!" 
 
-O Asaru-alim, [Mardk] "who is revered in the house of counsel," "who aboundeth in counsel," The gods paid homage, fear took hold upon them!
+O Asaru-alim, [Marduk] "who is revered in the house of counsel," "who aboundeth in counsel," The gods paid homage, fear took hold upon them!
 
 O Asaru-alim-nuna, [Marduk] "the mighty one," "the Light of the father who begat him,"
 
-"Who directeth the decrees of Anu Bel, and Ea!"
+"Who directed the decrees of Anu Bel, and Ea!"
 
 He was their patron, be ordained their...;
 
@@ -36,6 +36,7 @@ None among the gods can rival him!
 Who established for the gods the bright heavens.
 
 He set them on their way, and ordained their path;
+
 Never shall his ... deeds be forgotten among men.
 
 Tutu as Zi-azag thirdly they named, "the Bringer of Purification,"
@@ -47,6 +48,7 @@ Tutu as Zi-azag thirdly they named, "the Bringer of Purification,"
 "Who increaseth all that is small."
 
 In sore distress we felt his favoring breeze,"
+
 Let them say, let them pay reverence, let them bow in humility before him!
 
 Tutu as Aga-azag may mankind fourthly magnify!
@@ -130,7 +132,7 @@ Lugal-durmah, "the King of the band of the gods," " the Lord of rulers."
 
 "Who among the gods is gloriously supreme!
 
-Adu-nuna, " the Counselor of Ea," who created the gods his fathers,
+Adu-nuna" the Counselor of Ea," who created the gods his fathers,
 
 Unto the path of whose majesty
 
@@ -150,7 +152,7 @@ No god can ever attain!
 
 [Here follows the better-preserved ending.]
 
-... the star, which shineth in the heavens.
+... the star, which shined in the heavens.
 
 May he hold the Beginning and the Future, may they pay homage unto him, Saying, 
 

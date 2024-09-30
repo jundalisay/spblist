@@ -1,176 +1,181 @@
 ---
 heading: Chapter 7c
-title:  "The Epic of Creation"
+title:  "The Planets"
 image:  "/covers/12th.jpg"
-description: "Ninurta, too, could fly, as skillfully as Zu"
+description: "LAHMU and LAHAMU are male and female names, respectively."
 weight: 50
 ---
 
 
-
-<<<<<<< HEAD
-As part of the new celestial order on Earth, Marduk "made the divine Moon appear … designated him to mark the night, define the days every month."
-
-Who was this celestial god? The text calls him SHESH.KI ("celestial god who protects Earth").
-
- There is no mention earlier in the epic of a planet by this name;
-yet there he is, "within her heavenly pressure [gravitational field]." 
-=======
-As part of the new celestial order upon Earth, Marduk "made the divine Moon appear … designated him to mark the night, define the days every month."
-
-<!-- Who was this celestial god?  -->
-
-The text calls Marduk as SHESH.KI ("celestial god who protects Earth"). 
-
-<!-- There is no mention earlier in the epic of a planet by this name; -->
-
-Yet there he is, "within her heavenly pressure [gravitational field]." 
->>>>>>> c3c7d695261ea7d1bf76d0e6b9972394839d77e6
-
-And who is meant by "her": Tiamat or Earth?
-
-The roles of, and references to, Tiamat and Earth appear to be interchangeable.
-
-<<<<<<< HEAD
-Earth is Tiamat reincarnated. The Moon is called Earth's "protector"; that is exactly what Tiamat called Kingu, her chief satellite.
-
-The Creation epic specifically excludes Kingu from the "host" of Tiamat that were shortered and scattered and put into reverse motion around the Sun as comets. 
-
-After Marduk completed his own first orbit and returned to the scene of the battle, he decreed Kingu's separate fate:
+{{< q >}}
+Their waters were mingled together…
+Gods were formed in their midst:
+God LAHMU and god LAHAMU were brought forth;
+By name they were called.
+{{< /q >}}
 
 
-=======
-Earth is Tiamat reincarnated. 
->>>>>>> c3c7d695261ea7d1bf76d0e6b9972394839d77e6
 
-The Moon is called Earth's "protector"; that is exactly what Tiamat called Kingu, her chief satellite.
+Etymologically, the names of these 2 planets stem from the root LHM ("to make war"). 
 
-The Creation epic specifically excludes Kingu from the "host" of Tiamat that were shortered and scattered and put into reverse motion around the Sun as comets. After Marduk completed his own first orbit and returned to the scene of the battle, he decreed Kingu's separate fate:
+The ancients gave us the tradition that:
+- Mars was the God of War
+- Venus the Goddess of both Love and War. 
+
+
+LAHMU and LAHAMU are male and female names, respectively.*
+
+{{< n n="In Cartesian Physics, the Lahmu is the negative charge, Lahamu is the positive charge" >}}
+
+
+<!-- As the "missing planet," Tiamat was located beyond Mars. 
+
+Mars and Venus are located in the space between the Sun (Apsu) and "Tiamat." We can illustrate this by following the Sumerian celestial map. (Figs. 102, 103) -->
+
+<!-- Illustration:
+In the Beginning: Sun, Mercury, Tiamat.
+Illustration:
+The Inner Planets—the „Gods in the Midst“—come forth. -->
+
+
+<!-- The process of the formation of the solar system then went on.  -->
+
+<!-- Lahmu and Lahamu—Mars and Venus-were brought forth, but even Before they had grown in age And in stature to an appointed size— -->
 
 
 {{< q >}}
-And Kingu, who had become chief among them,
-He made shrink;
-As god DUG.GA.E he counted him.
-He took from him the Tablet of Destinies,
-Not rightfully his.
+God ANSHAR and god KISHAR were formed, surpassing them [in size].
+As lengthened the days and multiplied the years,
+God ANU became their son—of his ancestors a rival.
+Then Anshar's first-born, Anu, as his equal and in his image begot NUDIMMUD.
 {{< /q >}}
 
-<<<<<<< HEAD
 
-Marduk, then, did not destroy Kingu. He punished him by taking away his independent orbit, which Tiamat had granted him as he grew in size. Shrunk to a smaller size, Kingu remained a "god"—a planetary member of our solar system. 
-=======
->>>>>>> c3c7d695261ea7d1bf76d0e6b9972394839d77e6
+<!-- With a terseness matched only by the narrative's precision, Act I of the epic of Creation has been swiftly played out before our very eyes. We are informed that  -->
 
-Marduk did not destroy Kingu. 
+<!-- Mars and Venus were to grow only to a limited size. But even before their formation was complete, another pair of planets was formed.  -->
 
-<<<<<<< HEAD
-Transformed into a celestial duggae, Kingu had been stripped of his "vital" elements—atmosphere, waters, radioactive matter; he shrank in size and became "a mass of lifeless clay." These Sumerian terms fittingly describe our lifeless Moon, its recently discovered history, and the fate that befell this satellite that started out as KIN.GU ("great emissary") and ended up as DUG.GA.E ("pot of lead").
+The two, which I think are Saturn and Jupiter, were majestic planets:
+- AN.SHAR ("prince, foremost of the heavens") 
+- KI.SHAR ("foremost of the firm lands"). 
 
-L. W. King (The Seven Tablets of Creation) reported the existence of 3 fragments of an astronomical-mythological tablet that presented another version of Marduk's battle with Tiamat, which included verses that dealt with the manner in which Marduk dispatched Kingu. 
+They overtook in size the first pair, "surpassing them" in stature. 
 
-"Kingu, her spouse, with a weapon not of war he cut away … the Tablets of Destiny from Kingu he took in his hand." 
-
-A further attempt, by B. Landesberger (in 1923, in the Archiv fur Keilschriftforschung), to edit and fully translate the text, demonstrated the interchangeability of the names Kingu/ Ensu/ Moon.
-
-Such texts not only confirm our conclusion that Tiamat's main satellite became our Moon; they also explain NASA's findings regarding a huge collision "when celestial bodies the size of large cities came crashing into the Moon." 
-
-Both the NASA findings and the text discovered by L. W. King describe the Moon as the "planet that was laid waste."
-=======
-He punished him by taking away his independent orbit, which Tiamat had granted him as he grew in size. 
-
-Shrunk to a smaller size, Kingu remained a "god"—a planetary member of our solar system. 
-
-Without an orbit he could only become a satellite again. 
-
-We suggest that Tiamat's upper part was thrown into a new orbit (as the new planet Earth) and Kingu was pulled along. 
->>>>>>> c3c7d695261ea7d1bf76d0e6b9972394839d77e6
-
-Our Moon, we suggest, is Kingu, Tiamat's former satellite.
-
-<<<<<<< HEAD
-<!-- Illustration:
-Marduk Shooting Lightning at Tiamat -->
-
-This pictorial evidence that Earth's Moon and Kingu were the same satellite is
-further enhanced by the etymological fact that the name of the god SIN, in later
-times associated with the Moon, derived from SU.EN ("lord of wasteland").
-
-Having disposed of Tiamat and Kingu, Marduk once again "crossed the heavens and surveyed the regions." 
-
-This time his attention was focused on "the dwelling of Nudimmud" (Neptune), to fix a final "destiny" for Gaga, the erstwhile satellite of Anshar/Saturn who was made an "emissary" to the other planets. 
-
-The epic informs us that as one of his final acts in the heavens, Marduk assigned this celestial god "to a hidden place," a hitherto unknown orbit facing "the deep" (outer space), and entrusted to him the "counsellorship of the Watery Deep." 
-
-In line with his new position, the planet was renamed US.MI ("one who shows the way"), the outermost planet, our Pluto.
-
-According to the Creation epic, Marduk had at one point boasted, "The ways of the celestial gods I will artfully alter … into two groups shall they be divided." 
-
-He eliminated from the heavens the Sun's first partner-inCreation, Tiamat. He brought Earth into being, thrusting it into a new orbit nearer the Sun. 
-
-He hammered a "bracelet" in the heavens-the asteroid belt that does separate the group of inner planets from the group of outer planets.
-
-He turned most of Tiamat's satellites into comets; her chief satellite, Kingu, he put into orbit around Earth to become the Moon. And he shifted a satellite of Saturn, Gaga, to become the planet Pluto, imparting to it some of Marduk's own orbital characteristics (such as a different orbital plane).
-=======
-Transformed into a celestial duggae, Kingu had been stripped of his "vital" elements—atmosphere, waters, radioactive matter.
-
-He shrank in size and became "a mass of lifeless clay." 
-
-These Sumerian terms fittingly describe our lifeless Moon, its recently discovered history, and the fate that befell this satellite that started out as KIN.GU ("great emissary") and ended up as DUG.GA.E ("pot of lead").
-
-L. W. King (The Seven Tablets of Creation) reported the existence of 3 fragments of an astronomical-mythological tablet that presented another version of Marduk's battle with Tiamat, which included verses that dealt with the manner in which Marduk dispatched Kingu.
->>>>>>> c3c7d695261ea7d1bf76d0e6b9972394839d77e6
-
-"Kingu, her spouse, with a weapon not of war he cut away … the Tablets of Destiny from Kingu he took in his hand." 
-
-<<<<<<< HEAD
-=======
-B. Landesberger (in 1923, in the Archiv fur Keilschriftforschung) fully translated the text, demonstrated the interchangeability of the names Kingu/ Ensu/ Moon.
-
-I think that Tiamat's main satellite became our Moon. They also explain NASA's findings regarding a huge collision "when celestial bodies the size of large cities came crashing into the Moon." 
-
-Both the NASA findings and the text discovered by L. W. King describe the Moon as the "planet that was laid waste."
-
-Cylinder seals depict the celestial battle, showing Marduk fighting a fierce female deity. 
-
-One such depiction shows Marduk shooting his lightning at Tiamat, with Kingu, clearly identified as the Moon, trying to protect Tiamat, his creator. (Fig. 109)
+<!-- The description, epithets, and location of this second pair easily identify them as Saturn and Jupiter. (Fig. 104). -->
 
 <!-- Illustration:
-Marduk Shooting Lightning at Tiamat -->
-
-This pictorial evidence shows that Earth's Moon and Kingu were the same satellite. This is further enhanced by the etymological fact that the name of the god SIN, in later times associated with the Moon, derived from SU.EN ("lord of wasteland").
+The SHAR‘s—the Giant Planets—are created, together with their Emissary. -->
 
 
-Having disposed of Tiamat and Kingu, Marduk once again "crossed the heavens and surveyed the regions." 
+After some time, a third pair of planets was brought forth. 
 
-This time his attention was focused on "the dwelling of Nudimmud" (Neptune), to fix a final "destiny" for Gaga, the erstwhile satellite of Anshar/Saturn who was made an "emissary" to the other planets.
-
-The epic informs us that as one of his final acts in the heavens, Marduk assigned this celestial god "to a hidden place," a hitherto unknown orbit facing "the deep" (outer space), and entrusted to him the "counsellorship of the Watery Deep." 
-
-In line with his new position, the planet was renamed US.MI ("one who shows the way"), the outermost planet, our Pluto.
-
-Marduk had at one point boasted, "The ways of the celestial gods I will artfully alter … they will be divided into 2 groups."
-
-He:
-- eliminated from the heavens the Sun's first partner-in-Creation, Tiamat
-- brought Earth into being, thrusting it into a new orbit nearer the Sun. 
-- hammered a "bracelet" in the heavens-the asteroid belt that does separate the group of inner planets from the group of outer planets. 
-- turned most of Tiamat's satellites into comets.
-- chief satellite, Kingu, he put into orbit around Earth to become the Moon. 
-- shifted a satellite of Saturn, Gaga, to become the planet Pluto, imparting to it some of Marduk's own orbital characteristics (such as a different orbital plane).
-- "constructed the stations" for the planets
-- took for himself "Station Nibiru"
-- "crossed the heavens and surveyed" the new solar system. 
+First came ANU, smaller than Anshar and Kishar ("their son"), but larger than the first planets ("of his ancestors a rival" in size). 
 
 
-The puzzles of our solar system are:
-- the oceanic cavities on Earth
-- the devastation on the Moon
-- the reverse orbits of the comets
-- the enigmatic phenomena of Pluto
 
-These are all answered by the Mesopotamian Creation epic, as deciphered by me.
 
-It was now made up of 12 celestial bodies, with 12 Great Gods as their counterparts. (Fig. 110)
+Then Anu, in turn, begot a twin planet, "his equal and in his image." 
 
->>>>>>> c3c7d695261ea7d1bf76d0e6b9972394839d77e6
+
+The Babylonian version calls it NUDIMMUD, an epithet of Ea/Enki. 
+
+I think these are Uranus and Neptune.
+
+
+
+
+
+Anu was "Anshar's first-born." This means it had later children. 
+
+ <!-- implying that there was yet another planetary god "born" to Anshar/Saturn.  -->
+
+<!-- The epic catches up with this celestial deity later on, when it relates how  -->
+
+Anshar then sent out his emissary GAGA on various missions to the other planets. 
+
+Gaga appears in function and stature equal to Apsu's emissary Mummu.
+
+I think this brings to mind the similarities between Mercury and Pluto. 
+
+Gaga, then, was Pluto.
+
+But the Sumerians placed Pluto on their celestial map not beyond Neptune, but next to Saturn, whose "emissary," or satellite, it was. (Fig. 105) 
+
+
+As Act I of the "Epic of Creation" came to an end, there was a solar system made up of the Sun and 9 planets:
+
+
+Name | Stitchin Body | Superphysics Body | Description 
+--- | --- | --- | --- 
+Apsu | Sun | 1st Element | "one who existed from the beginning."
+Mummu | MERCURY | 4th Element | counselor and emissary of Apsu.
+Lahamu | VENUS | Positive Charge | "lady of battles"
+Lahmu | MARS | Negative Charge | "deity of war"
+Tiamat | ? | 3rd Element | "maiden who gave life."
+Kishar | JUPITER | Jupiter | "foremost of firm lands."
+Anshar | SATURN | Saturn | "foremost of the heavens."
+Gaga | PLUTO | ? | counselor and emissary of Anshar.
+Anu | URANUS | Uranus | "he of the heavens."
+Nudimmud (Ea) | NEPTUNE | Neptune | "artful creator."
+
+
+
+The Earth and the Moon are yet to be created, products of the forthcoming cosmic collision.
+
+<!-- With the end of the majestic drama of the birth of the planets, the authors of the Creation epic now raise the curtain on Act II, on a drama of celestial turmoil. -->
+
+<!-- The newly created family of planets was far from being stable.  -->
+
+The planets were gravitating toward each other. They were converging on Tiamat, disturbing and endangering the primordial bodies. 
+
+{{< q >}}
+The divine brothers banded together;
+They disturbed Tiamat as they surged back and forth.
+They were troubling the "belly" of Tiamat
+By their antics in the dwellings of heaven.
+Apsu could not lessen their clamor;
+Tiamat was speechless at their ways.
+Their doings were loathsome…
+Troublesome were their ways.
+{{< /q >}}
+
+
+These are references to erratic orbits which interfered with Tiamat's orbit.
+
+<!-- . The new planets "surged back and forth"; they got too close to each other ("banded together"); they ; they got too close to her "belly"; their "ways" were troublesome. -->
+
+Though it was Tiamat that was principally endangered, Apsu, too, found the planets' ways "loathsome." 
+
+He announced his intention to "destroy, wreck their ways." He huddled with Mummu, conferred with him in secret. 
+
+But "whatever they had plotted between them" was overheard by the gods, and the plot to destroy them left them speechless. 
+
+The only one who did not lose his wits was Ea. 
+
+He devised a ploy to "pour sleep on Apsu." 
+
+When the other celestial gods liked the plan, Ea "drew a faithful map of the universe" and cast a divine spell upon the primeval waters of the solar system.
+
+What was this "spell" or force exerted by "Ea" (the planet Neptune)—then the outermost planet—as it orbited the Sun and circled all the other planets? 
+
+Did its own orbit around the Sun affect the Sun's magnetism and thus its radioactive outpourings? Or did Neptune itself emit, upon its creation, some vast radiations of energy? 
+
+Whatever the effects were, the epic likened them to a "pouring of sleep"—a calming effect—upon Apsu (the Sun). 
+
+Even "Mummu, the Counsellor, was powerless to stir."
+
+<!-- As in the biblical tale of Samson and Delilah, the hero—overcome by sleep—could easily be robbed of his powers.  -->
+
+Ea moved quickly to rob Apsu of his creative role. 
+
+Quenching, it seems, the immense outpourings of primeval matter from the Sun, Ea/Neptune "pulled off Apsu's tiara, removed his cloak of aura." 
+
+Apsu was "vanquished." 
+
+Mummu could no longer roam about. He was "bound and left behind," a lifeless planet by his master's side.
+
+By depriving the Sun of its creativity—stopping the process of emitting more energy and matter to form additional planets—the gods brought temporary peace to the solar system. 
+
+The victory was further signified by changing the meaning and location of the Apsu. This epithet was henceforth to be applied to the "Abode of Ea." 
+
+Any additional planets could henceforth come only from the new Apsu—from "the Deep"—the far reaches of space that the outermost planet faced.

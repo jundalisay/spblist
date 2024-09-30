@@ -9,11 +9,12 @@ description: "To avenge Apsu, Tiamat planned evil"
 
 Ansar spoke to Gaga, his minister:
 
-"O Gaga, thou minister that rejoicest my spirit,
-Unto Lahmu and Lahamu will I send thee.
+"O Gaga, you minister that rejoicest my spirit,
+I will I send you unto Lahmu and Lahamu.
 ... thou canst attain,
-... thou shalt cause to be brought before thee.
+... thou shalt cause to be brought before you.
 ... let the gods, all of them,
+
 Make ready for a feast, at a banquet let them sit,
 Let them eat bread, let them mix wine,
 That for Marduk, their avenger they may decree the fate.
@@ -23,6 +24,7 @@ Go, Gaga, stand before them, and all that I tell thee, repeat unto them, and say
 'Ansar, your son, hath sent me,
 
 The purpose of his heart he hath made known unto me.
+
 He saith that Tiamat our mother hath conceived a hatred for us [and repeated her plot]
 
 
@@ -73,7 +75,8 @@ Let the opening of your mouth quench the Fire-god;
 Whoso is exalted in the battle, let him display his might!" -->
 
 
-I sent Anu, but he could not withstand her;
+I sent Anu, but he could not withstand her.
+
 Nudimmud was afraid and turned back.
 
 But Marduk hath set out, the director of the gods, your [Enki's] son.
@@ -83,9 +86,13 @@ To set out against Tiamat his heart hath prompted him.
 He opened his mouth and spake unto me, saying: "If I, your avenger, conquer Tiamat and give you life, appoint an assembly, make my fate preeminent and proclaim it.
 
 In Upsukkinaku seat yourself joyfully together;
+
 With my word in place of you will I decree fate.
 
 May whatsoever I do remain unaltered,
+
 May the word of my lips never be changed nor made of no avail."'
+
 Hasten, therefore, and swiftly decree for him the fate which you bestow,
+
 That he may go and fight your strong enemy.

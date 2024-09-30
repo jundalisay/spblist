@@ -40,12 +40,14 @@ All the gods of heaven...
 In heaven the gods bowed themselves down before the Moon-god...;
 
 The border of the Moon-god's robe they hastily grasped:
+
 "Who will go and slay the dragon,"
 And deliver the broad land from...
 And become king over... ?
-" Go, Tishu, slav the dragon,
+" Go, Tishu, slay the dragon,
 
 And deliver the broad land from...,
+
 And become king over...!"
 
 Thou hast sent me, O Lord, to... the raging creatures of the river,
@@ -57,19 +59,17 @@ But I know not the... of the Dragon!
 
 ### REVERSE
 
-................
-
 And opened his mouth and spake unto the god...
-" Stir up cloud, and storm and tempest!
+"Stir up cloud, and storm and tempest!
 
 The seal of thy life shalt thou set before thy face,
 
-Thou shalt grasp it, and thou shalt slay the dragon."
+You shalt grasp it, and you shall slay the dragon."
 
 He stirred up cloud, and storm and tempest,
 He set the seal of his life before his face,
 He grasped it, and he slew the dragon.
 
-For three years and three months, one day and one night
+For 3 years and 3 months, one day and one night
 
 The blood of the dragon flowed. ...

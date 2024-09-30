@@ -96,7 +96,7 @@ These are evidences for its lesser solidity.
 The cause of this lesser solidity may be that another side of it, which never comes into our view, only receives the direct light from the Sun; whereas the facing side also receives that which is reflected from the Earth.
 
 
-#### 153. Why the Moon moves faster and deviates less from its mean motion in conjunctions than in quadratures: and why its sky is not round. 
+#### 153. Why the Moon moves faster and deviates less from its mean motion in conjunctions than in quadratures. Why its sky is not round.
 
 The Moon seems to move somewhat faster and deviate less from its course in all directions when it is full or new, than when it appears only half, or when it is towards parts of the sky B or D, than when it is towards A or C.
 
