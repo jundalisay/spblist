@@ -82,26 +82,28 @@ The anticipated withdrawal of US-NATO forces from Afghanistan will diminish the 
 
 ### Pacifying Afghanistan
 
-Progress has also been made in preserving Pakistan's interests in
-Afghanistan. This required the Army and the ISI to play 'hardball' over the
-last 2.5 years. 
+Progress has also been made in preserving Pakistan's interests in Afghanistan. 
 
-India had to be convinced that its interventions in Balochistan and the Federally Administered Tribal Areas (FATA) were not cost-free. Certain Afghan Taliban groups were targeted where essential; in other instances action was held back when it served Pakistan's interests. The 'capture' of a string of Taliban leaders, including Mullah Baradar, in 2010 could not all be 'accidental', as some US officials and the Western media asserted.
+This required the Army and the ISI to play 'hardball' over the last 2.5 years. 
+
+India had to be convinced that its interventions in Balochistan and the Federally Administered Tribal Areas (FATA) were not cost-free. 
+
+Certain Afghan Taliban groups were targeted where essential; in other instances action was held back when it served Pakistan's interests.
+
+The 'capture' of a string of Taliban leaders, including Mullah Baradar, in 2010 could not all be 'accidental', as some US officials and the Western media asserted.
 
 Importantly, the US has become convinced that it can execute its current military strategy in Afghanistan and evolve a framework for peace that would enable an honourable US-NATO withdrawal, only with cooperation and support of Pakistan's Armed Forces. 
 
-The red carpet treatment accorded the Pakistan Army Chief during rounds of the
-Pakistan-US 'strategic dialogue' in March and October 2010 reflected this
-recognition in Washington. Success or failure in Afghanistan will have
-critical implications for President Barack Obama's re-election.
+Washington gave the red carpet treatment to the Pakistan Army Chief during the Pakistan-US 'strategic dialogue' in March and October 2010.
+
+<!--  reflected this
+recognition in .  -->
+
+Success or failure in Afghanistan will have critical implications for President Barack Obama's re-election.
 
 There is now greater convergence between Pakistan and the US on Afghanistan, and on fighting the TTP and al Qaeda, then at any time since 9/11. However, neither side has as yet clearly identified its final objectives in Afghanistan, nor the process by which these are to be achieved. 
 
-The US Administration is still clarifying a strategy for negotiating peace with the
-Taliban. Pakistan seems hesitant to act decisively until it knows US
-objectives and strategy. Meanwhile, President Karzai seems to be playing
-all sides to ensure his own survival. He has alternately supported and
-denounced US-NATO military operations. He has opened contacts with
+The US Administration is still clarifying a strategy for negotiating peace with the Taliban. Pakistan seems hesitant to act decisively until it knows US objectives and strategy. Meanwhile, President Karzai seems to be playing all sides to ensure his own survival. He has alternately supported and denounced US-NATO military operations. He has opened contacts with
 some of the Taliban and with Gulbuddin Hekmatyar. 
 
 He has sought Pakistan's cooperation to negotiate with the Taliban, but told the US that
