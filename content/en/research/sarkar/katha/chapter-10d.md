@@ -1,5 +1,5 @@
 ---
-title: "THE FOURTH SUNDAY"
+title: "The Fourth Sunday"
 heading: Chapter 10d
 weight: 25
 description: "Then Baba got up and we followed Him to the room where the dead body of the sadhaka lay, a testimony to the tranisory nature of all existence. "
@@ -19,15 +19,14 @@ concentrate on his iista cakra.
 
 Baba then addressed the kundalinii: “I Yogeshvar Anandamurti, order you to leave Muladhara and go to svadhisthana cakra”.
 
-The kundalinii obeyed Baba’s command as we saw by observing the physical changes in the subject. Baba guided the kundalinii upward to manipura, anahata,
-vishuddha and ajina cakras, as He had done with this subject on November 14th. We
-witnessed the same subtle yet profound transformations in the subject’s physical
-appearance as the kundalinii rose.
+The kundalinii obeyed Baba’s command as we saw by observing the physical changes in the subject. Baba guided the kundalinii upward to manipura, anahata, vishuddha and ajina cakras, as He had done with this subject on November 14th. 
 
-Now Baba directed the kundalinii to the highest cakra, saharara. The subject became calm and peaceful, and his face shone with a halo-like brightness.“What you see in this subject”, said Baba, “is the state of nirvikalpa samadhi,
-the highest possible realisation of Self that one can achieve”.
+We witnessed the same subtle yet profound transformations in the subject’s physical appearance as the kundalinii rose.
+
+Now Baba directed the kundalinii to the highest cakra, saharara. The subject became calm and peaceful, and his face shone with a halo-like brightness.“What you see in this subject”, said Baba, “is the state of nirvikalpa samadhi, the highest possible realisation of Self that one can achieve”.
 
 We looked on in wonder, each with his own private thoughts, contemplating the bliss our brother disciple was experiencing.
+
 Baba added, “Establishment in this stage is the attainment of moksa (final
 liberation) and it is the stage of nirguna Brahma (unqualified consciousness).
 
@@ -79,16 +78,10 @@ snalke, or of an insect such as ant, or of a frog making a sudden leap.
 
 These demonstrations increased our faith and devotion towards Baba. All these demonstrations took place in one quarter of the railway colony. 
 
-Devotees now realised to some extent, that the One whom it takes lifetimes of penance to understand and to
-realise, has from His own mouth gives His own introduction in such a simple manner.
+Devotees now realised to some extent, that the One whom it takes lifetimes of penance to understand and to realise, has from His own mouth gives His own introduction in such a simple manner.
 
-Sitting at Baba's feet we saw that to Him the mastery over life and death were
-but child’s play. We saw with our own eyes people enter savikalpa and nirvikalpa
-samadhi in a trice. The burning of accumulated samskaras (karma), mukti (salvation)
-and moksa (complete freedom from earthly bondages) came with the stir of His
-thought-waves. 
 
-We saw voyages to stars and planets and the observation of conditions here being made without the slightest difficulty. News from every corner of the world
-and knowledge of circumstances everywhere, these wonders were to Him as common
-as the grass under our feet. Baba is so omnipotent.
+Sitting at Baba's feet we saw that to Him the mastery over life and death were but child’s play. We saw with our own eyes people enter savikalpa and nirvikalpa samadhi in a trice. The burning of accumulated samskaras (karma), mukti (salvation) and moksa (complete freedom from earthly bondages) came with the stir of His thought-waves. 
+
+We saw voyages to stars and planets and the observation of conditions here being made without the slightest difficulty. News from every corner of the world and knowledge of circumstances everywhere, these wonders were to Him as common as the grass under our feet. Baba is so omnipotent.
 

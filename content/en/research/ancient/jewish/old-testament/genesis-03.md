@@ -2,7 +2,7 @@
 title: "The Original Sin"
 description: "When the woman saw that the tree was good for food and pleasant to the eyes, and a tree to be desired to make one wise, she ate its fruit"
 weight: 6
-image: "/covers/old.png"
+image: "/covers/old.jpg"
 ---
 
 

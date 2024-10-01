@@ -68,7 +68,7 @@
 
 .aris, .Aristotle {background-image: url(/icons/aris.png) !important;}
 
-.Arjuna, .Troops {background-image: url(/icons/arjuna.png);}
+.Arjuna, .Troops, .King {background-image: url(/icons/arjuna.png);}
 
 .asker, .Asker {background-image: url(/icons/teacher.png);}
 
@@ -80,7 +80,7 @@
 
 .Bashar {background-image: url(/avatars/bashar.jpg);}
 
-.Buddha, .buddha {background-image: url(/avatars/buddha.jpg) !important;}
+.Buddha, .buddha, .Bodhisatva {background-image: url(/avatars/buddha.jpg) !important;}
 
 .Christians {background-image: url(/icons/xmastree.png);}
 
@@ -117,7 +117,7 @@
 
 .Fresnel {background-image: url(/avatars/fresnel.png);}
 
-.Nagina, .g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter {
+.Man, .Nagina, .g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter {
   background-image: url(/icons/g01.png);
 }
 
@@ -214,7 +214,7 @@
 
 .say, .Say {background-image: url(/avatars/say.png);}
 
-.sam, .Samuelson, .Paul-Samuelson {background-image: url(/icons/sam.png);}
+.sam, .Samuelson, .Paul-Samuelson, .Silesaloma {background-image: url(/icons/sam.png);}
 
 .Sarkar, .PR-Sarkar, .Baba {background-image: url(/icons/sarkar.png) !important;}
 

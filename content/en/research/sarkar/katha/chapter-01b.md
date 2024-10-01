@@ -9,7 +9,9 @@ author: Nagina
 
 
 
-While we had discussed all this, we had finished our dinner and were now talking in a leisurely manner. His words had a great impact on me and I asked whether he could tell me the address of his guru at least. He replied that he could only tell that Baba lived in Jamalpur.
+While we had discussed all this, we had finished our dinner and were now talking in a leisurely manner. His words had a great impact on me and I asked whether he could tell me the address of his guru at least. 
+
+He replied that he could only tell that Baba lived in Jamalpur.
 
 I looked at my watch. It was nearly eleven at night. Some impulse stirred me to sudden action. 
 

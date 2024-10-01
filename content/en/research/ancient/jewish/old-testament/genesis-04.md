@@ -2,7 +2,7 @@
 title: "Cain and Abel"
 description: "Adam knew Eve his wife. She conceived and gave birth to Cain"
 weight: 8
-image: "/covers/old.png"
+image: "/covers/old.jpg"
 draft: true
 ---
 

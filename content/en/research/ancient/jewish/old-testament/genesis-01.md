@@ -2,7 +2,7 @@
 title: "The Creation"
 description: "In the beginning, God created the heaven and the earth"
 weight: 4
-image: "/covers/analects.png"
+image: "/covers/old.jpg"
 draft: true
 ---
 
