@@ -1,4 +1,5 @@
 ---
+heading: Genesis 2
 title: "The Creation of Man"
 description: "Enlil formed man of the dust of the ground, and breathed into his nostrils the breath of life"
 weight: 4

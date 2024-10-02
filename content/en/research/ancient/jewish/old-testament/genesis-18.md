@@ -1,0 +1,129 @@
+---
+heading: Genesis 18
+title: "Ishmael and the Start of the Arab People"
+description: "Sarai, Abram’s wife, bare him no children. She had an Egyptian servant named Hagar"
+weight: 34
+image: "/covers/old.jpg"
+---
+
+
+{18:1} Enki appeared unto him in the plains of Mamre while he was sitting in the tent door in the heat of the day.
+
+{18:2} 3 men stood by Enki. So Abraham ran to meet them from the tent door, and bowed himself toward the ground {18:3} And said:
+
+My Lord, if now I have found favour in thy sight, pass not away, I pray thee, from thy
+servant: {18:4} Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree.
+
+{18:5} I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant.
+
+They said: Yes please.
+
+{18:6} Abraham hastened into the tent unto Sarah, and said:
+
+Make ready quickly 3 measures of fine meal, knead it, and make cakes upon the hearth. 
+
+{18:7} And Abraham ran unto the herd, and fetched a tender and good calf, and gave [it] unto a young man; and he hasted to dress it. 
+
+{18:8} And he took butter, and milk, and the calf which he had dressed, and set [it] before them; and he stood by them under the tree, and they did eat.
+
+{18:9} They said to him:
+
+{{< l a="Enki-Agents" >}}
+Where is Sarah your wife?
+{{< /l >}}
+
+{{< r a="Abraham" >}}
+In the tent
+{{< /l >}}
+
+{{< l a="Enki-Agents" >}}
+{18:10} I will return to you after 1 year and Sarah shall have a son.
+{{< /l >}}
+
+
+
+ And Sarah heard
+[it] in the tent door, which [was] behind him. {18:11} Now
+Abraham and Sarah [were] old [and] well stricken in age;
+[and] it ceased to be with Sarah after the manner of women.
+
+{18:12} Therefore Sarah laughed within herself, saying,
+After I am waxed old shall I have pleasure, my lord being
+old also? 
+
+
+
+{18:13} Enki asked Abraham:
+
+
+{{< l a="Enki" >}}
+Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am old? 
+{{< /l >}}
+
+
+{18:14} Is any thing too hard for Enki? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.
+
+
+{18:15} Then Sarah denied, saying, I laughed not; for she
+was afraid. And he said, Nay; but thou didst laugh.
+{18:16} And the men rose up from thence, and looked
+toward Sodom: and Abraham went with them to bring them
+on the way. 
+
+
+
+
+{{< l a="Enki" >}}
+{18:17} Shall I hide from Abraham that thing which I do; {18:18} Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?  {18:19} For I know him, that he will command his children and his household after him, and they shall keep the way of Enki, to do justice and judgment; that Enki may bring upon Abraham that which he hath spoken of him.
+
+{18:20} The cry of Sodom and Gomorrah is great. Their sin is very grievous. {18:21} I will go down now, and see whether they have done altogether according to the cry of it, which is come
+unto me; and if not, I will know.
+{{< /l >}}
+
+
+
+{18:22} And the men turned their faces from thence, and went toward Sodom: but
+Abraham stood yet before Enki. 
+
+{18:23} Abraham drew near and said:
+
+{{< r a="Abraham" >}}
+Will you also destroy the righteous with the wicked? {18:24} There are 50 righteous within the city: will you also destroy and not spare the place for the 50 righteous? {18:25} That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous
+should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right? 
+{{< /r >}}
+
+
+{{< l a="Enki" >}}
+{18:26} If I find in Sodom 50 righteous within the city, then I will spare all the place for their sakes. 
+{{< /l >}}
+
+
+<!-- {18:27} And Abraham answered and said, Behold now, I have taken
+upon me to speak unto the Lord, which [am but] dust and
+ashes: {18:28}  -->
+
+
+{{< r a="Abraham" >}}
+Suppose there are only 45 righteous. Will you destroy all the city for [lack of] five?
+{{< /r >}}
+
+
+And he said, If I find there forty and five, I will not destroy
+[it. ]{18:29} And he spake unto him yet again, and said,
+Peradventure there shall be forty found there. And he said, I
+will not do [it] for forty’s sake. {18:30} And he said [unto
+him,] Oh let not the Lord be angry, and I will speak:
+Peradventure there shall thirty be found there. And he said, I
+will not do [it,] if I find thirty there. {18:31} And he said,
+Behold now, I have taken upon me to speak unto the Lord:
+Peradventure there shall be twenty found there. And he said,
+I will not destroy [it] for twenty’s sake. 
+
+{18:32} And he said, Oh let not the Lord be angry, and I will speak yet but
+this once: Peradventure ten shall be found there. And he
+said, I will not destroy [it] for ten’s sake. 
+
+{18:33} Enki went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.
+
+
+
