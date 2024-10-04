@@ -35,36 +35,36 @@ left off to build the city.
 
 {11:12} Arphaxad lived 530 years, and begat Salah:
 
-{11:13} Arphaxad lived after he begat Salah four
-hundred and three years, and begat sons and daughters.
+{11:13} Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters.
+
 {11:14} And Salah lived thirty years, and begat Eber:
-{11:15} And Salah lived after he begat Eber four hundred
-and three years, and begat sons and daughters. {11:16} And
-Eber lived four and thirty years, and begat Peleg: {11:17}
-And Eber lived after he begat Peleg four hundred and thirty
+
+{11:15} And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters. {11:16} And Eber lived four and thirty years, and begat Peleg: 
+
+{11:17} Eber lived after he begat Peleg four hundred and thirty
 years, and begat sons and daughters. {11:18} And Peleg
 lived thirty years, and begat Reu: {11:19} And Peleg lived
 after he begat Reu two hundred and nine years, and begat sons and daughters. 
 
 {11:20} And Reu lived two and thirty years, and begat Serug: {11:21} And Reu lived after he
 begat Serug two hundred and seven years, and begat sons
-and daughters. {11:22} And Serug lived thirty years, and
+and daughters.
+
+{11:22} And Serug lived thirty years, and
 begat Nahor: {11:23} And Serug lived after he begat Nahor
-two hundred years, and begat sons and daughters. {11:24}
-And Nahor lived nine and twenty years, and begat Terah:
-{11:25} And Nahor lived after he begat Terah an hundred
-and nineteen years, and begat sons and daughters. {11:26}
-And Terah lived seventy years, and begat Abram, Nahor,
+two hundred years, and begat sons and daughters.
+
+{11:24} Nahor lived 920 years, and begat Terah:
+
+{11:25} Nahor lived after he begat Terah 119 years, and begat sons and daughters. {11:26}
+And Terah lived 70 years, and begat Abram, Nahor,
 and Haran.
 
-{11:27} Now these [are] the generations of Terah: Terah
-begat Abram, Nahor, and Haran; and Haran begat Lot.
-{11:28} And Haran died before his father Terah in the land
-of his nativity, in Ur of the Chaldees. {11:29} And Abram
-and Nahor took them wives: the name of Abram’s wife
-[was] Sarai; and the name of Nahor’s wife, Milcah, the
-daughter of Haran, the father of Milcah, and the father of
-Iscah.
+{11:27} These are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.
+
+{11:28} Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees. 
+
+{11:29} Abram and Nahor took them wives: the name of Abram’s wife was Sarai. Nahor’s wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.
 
 {11:30} But Sarai was barren; she [had] no child.
 

@@ -224,3 +224,30 @@ We also have Social Superphysics for social vibrations such as the ones that tri
 We were able to unite Newton and Descartes because we went outside the box of Western Science and tapped what the Asian Sciences of Hinduism, Taoism, and the Ancient Greek had discovered much earlier.
 
 We were able to look into all of what Western science and Asian science had written down because the internet was invented and it allowed such information to be available to all.
+
+
+
+
+<!-- The James Webb Space Telescope (JWST) has released images that show the most distant galaxies being "[brighter and more active than expected, with star-formation rates comparable to the one-star-per-year rate of the Milky Way today.](https://www.scientificamerican.com/article/jwsts-puzzling-early-galaxies-dont-break-cosmology-but-they-do-bend-astrophysics/)"
+   
+But instead of **debunking the Big Bang**, physicists propose absurd assumptions that star-formation was faster in the early universe, specifically through more black holes.
+
+But then those black holes are [based on singularities which don't exist](https://www.space.com/what-happens-black-hole-center).   
+
+It's like sweeping the ignorance-of-Nature dirt under the black-hole rug just to say "There's no mess here!".  
+
+It reminds me of the geocentric theory of Aristotle wherein discrepancies were solved by adding more and more absurd [celestial spheres](https://en.wikipedia.org/wiki/Celestial_spheres) around the Earth, to the point that the original 27 Spheres ballooned to 72. 
+
+In the end, the whole Spheres theory was replaced with a more common sense heliocentric theory of orbits.
+
+I assume that physicists do not reject the Big Bang, even if JWST is screaming it to their faces, is because it's their best theory and they **feel** that it is better to have a wrong theory than to have no theory at all.
+
+Instead of adding more weirdness to Lambda CDM, the most common sense solution that matches both modern and ancient data is to go back to the original **5 Elements model** used by the ancient Greeks, Hindus, Chinese, and advanced by Rene Descartes.
+
+For example, in [Dioptrique](https://en.wikipedia.org/wiki/Dioptrique), Rene Descartes separates the color-information from [the medium of light that transports it](https://www.superphysics.org/research/descartes/optics/part-01/). 
+
+This means that [the speed of the data from those distant galaxies is different from the speed of light](https://www.superphysics.org/material/fallacies/big-bang/).  
+
+It follows that those distant galaxies are at **the same age** as current galaxies and so there is no need to change the physics of star-formation.
+   
+So with that problem solved, then I assume that physicists do not reject the Big Bang, even if JWST is screaming it to their faces, is because its their best theory and it is better to have a wrong theory than to have no theory at all.  -->

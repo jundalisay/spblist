@@ -29,20 +29,21 @@ Separate thyself, I pray thee, from me: if you will take the left hand, then I w
 
 <sup>10</sup> Lot lifted up his eyes, and beheld all the plain of Jordan, that it [was] well watered every where, before the LORD destroyed Sodom and Gomorrah, [even] as the garden of Enki, like the land of Egypt, as thou comest unto Zoar. 
 
-{13:11} Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated
+<sup>11</sup> Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated
 themselves the one from the other. 
 
-{13:12} Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched [his] tent toward Sodom. 
+<sup>12</sup> Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched [his] tent toward Sodom. 
 
-{13:13} But the men of Sodom [were] wicked and sinners.
+<sup>13</sup> But the men of Sodom were wicked and sinners.
 
-{13:14} Enki said unto Abram, after that Lot was separated from him:
+<sup>14</sup> Enki said unto Abram, after that Lot was separated from him:
 
-Lift up your eyes, and look from the place where thou art northward, and southward, and eastward, and westward: {13:15} For all the land which thou seest, to thee will I give it, and to thy seed for ever.
+{{< l a="Enki" >}}
+Lift up your eyes and look from the place where you are northward, southward, eastward, and westward. <sup>15</sup> All the land which you see, I will give to you and to your seed forever.
 
-{13:16} I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, [then] shall thy seed also be numbered. 
+<sup>16</sup> I will make your seed as the dust of the earth, so that if a man can number the dust of the earth, then shall your seed also be numbered. 
 
-{13:17} Arise, walk through the land in the length of it and in the breadth of it;
-for I will give it unto thee. {13:18} Then Abram removed
-[his] tent, and came and dwelt in the plain of Mamre, which
-[is] in Hebron, and built there an altar for Enki.
+<sup>17</sup> Arise, walk through the land in the length of it and in the breadth of it; for I will give it to you. 
+{{< /l >}}
+
+<sup>18</sup> Then Abram removed [his] tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar for Enki.

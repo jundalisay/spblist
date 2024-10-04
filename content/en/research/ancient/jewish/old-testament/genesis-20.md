@@ -7,32 +7,26 @@ image: "/covers/old.jpg"
 ---
 
 
-{20:1} Abraham went from there towards the south country, and dwelled between Kadesh and Shur, and
-sojourned in Gerar. 
+<sup>1</sup> Abraham went from there towards the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar. 
 
-{20:2} Abraham said of Sarah:
+<sup>2</sup> Abraham said of Sarah:
 
 She [is] my sister: and Abimelech king of Gerar sent, and took Sarah. 
 
-{20:3} But God came to Abimelech in a dream by night, and said to him, Behold, thou [art but] a
-dead man, for the woman which thou hast taken; for she [is]
-a man’s wife. 
+<sup>3</sup> But God came to Abimelech in a dream by night, and said to him, Behold, thou [art but] a dead man, for the woman which thou hast taken; for she [is] a man’s wife. 
 
-{20:4} But Abimelech had not come near her:
-and he said, Lord, wilt thou slay also a righteous nation?
+<sup>4</sup> But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?
 
-{20:5} Said he not unto me, She [is] my sister? and she,
-even she herself said, He [is] my brother: in the integrity of
-my heart and innocency of my hands have I done this.
+<sup>5</sup> Said he not unto me, She [is] my sister? and she, even she herself said, He [is] my brother: in the integrity of my heart and innocency of my hands have I done this.
 
-{20:6} And God said unto him in a dream, Yea, I know that
-thou didst this in the integrity of thy heart; for I also
-withheld thee from sinning against me: therefore suffered I
-thee not to touch her. 
+<sup>6</sup> Enki said to him in a dream:
 
-{20:7} Now therefore restore the man [his] wife; for he [is] a prophet, and he shall pray for thee,
-and thou shalt live: and if thou restore [her] not, know thou
-that thou shalt surely die, thou, and all that [are] thine.
+
+I know that you did this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her. 
+
+<sup>7</sup> Now therefore restore the man [his] wife; for he [is] a prophet, and he shall pray for thee, and thou shalt live: and if thou restore [her] not, know thou that thou shalt surely die, thou, and all that [are] thine.
+
+
 
 {20:8} Therefore Abimelech rose early in the morning, and
 called all his servants, and told all these things in their ears:

@@ -7,53 +7,58 @@ image: "/covers/old.jpg"
 ---
 
 
-{8:1} Enki remembered Noah, and every living thing, and all the cattle that [was] with him in the ark: 
+<sup>1</sup> Enki remembered Noah, and every living thing, and all the cattle that was with him in the ark: 
 
 Enki made a wind pass over the earth, and the waters asswaged; 
 
-{8:2} The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven
-was restrained; {8:3} And the waters returned from off the earth continually: and after the end of the 150 days the waters were abated. 
+<sup>2</sup> The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained.
 
-{8:4} And the ark rested in the 7th month, on the 17th day of the month, upon the mountains of Ararat. 
+<sup>3</sup> The waters returned from off the earth continually and were abated after the end of the 150 days. 
 
-{8:5} The waters decreased continually until the tenth month: in the tenth [month,] on the first [day] of the month, were the tops of the mountains seen.
+<sup>4</sup> The ark rested on month 7, on day 17 on the mountains of Ararat. 
 
-{8:6} And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made: {8:7} And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth. 
+<sup>5</sup> The waters decreased continually until month 10, day 1 when the tops of the mountains were seen.
 
-{8:8} He sent forth a dove from him, to see if the waters were abated from off the face of the ground; 
+<sup>6</sup> At the end of 40 days, Noah opened the window of the ark
 
-{8:9} But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters [were] on the face of the whole earth: then he put forth his hand, and took her, and
-pulled her in unto him into the ark. 
+<sup>7</sup> He sent out a raven, which went forth to and fro, until the waters were dried up from off the earth.
 
-{8:10} And he stayed yet other seven days; and again he sent forth the dove out of the ark; {8:11} And the dove came in to him in the evening; and, lo, in her mouth [was] an olive leaf pluckt off: 
+<sup>8</sup> He sent out a dove to see if the waters were abated.
 
-so Noah knew that the waters were abated from off the earth. 
+<sup>9</sup> But the dove found no rest. She returned to the ark. 
 
-{8:12} He stayed yet other 7 days; and sent forth the dove; which returned not again unto him any more.
+<!-- , for the waters [were] on the face of the whole earth: then he put forth his hand, and took her, and
+pulled her in unto him into the ark.  -->
 
-{8:13} In the 601th year, in the first [month,] the first [day] of the month, the
-waters were dried up from off the earth.
+<sup>10</sup> After 7 days, he again he sent out the dove. <sup>11</sup> It returned in the evening with an olive leaf pluckt off.
 
-Noah removed the covering of the ark, and looked, and, behold, the face of
-the ground was dry. 
+So Noah knew that the waters were abated from off the earth. 
 
-{8:14} And in the second month, on the seven and twentieth day of the month, was the earth dried.
+<sup>12</sup> After another 7 days he sent out the dove which did not return anymore.
 
-{8:15} Enki told Noah:
+<sup>13</sup> In the 601th year, in month 1, day 1, the waters were dried up from off the earth.
 
-{8:16} Go forth of the ark, thou, and thy wife, and thy sons, and thy
-sons’ wives with thee. {8:17} Bring forth with thee every
-living thing that [is] with thee, of all flesh, [both] of fowl,
-and of cattle, and of every creeping thing that creepeth upon
-the earth; that they may breed abundantly in the earth, and
-be fruitful, and multiply upon the earth. 
+Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry. 
 
-{8:18} Noah went forth, and his sons, and his wife, and his sons’ wives with him: {8:19} Every beast, every creeping thing, and every fowl, [and] whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.
+<sup>14</sup> In month 2, day 27, the earth dried.
 
-{8:20} And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar. 
+<sup>15</sup> Enki told Noah:
 
-{8:21} Enlil smelled a sweet savour and said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done. 
+{{< l a="Enki" >}}
+<sup>16</sup> Go out of the ark with your wife, sons, their wives. <sup>17</sup> Bring forth with thee every living thing that is with you, of all flesh, both of bird and cattle and of every creeping thing that creepeth on the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth. 
+{{< /l >}}
 
-{8:22} While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
+
+<sup>18</sup> Noah went forth, and his sons, and his wife, and his sons’ wives with him.
+
+<sup>19</sup> Every beast, every creeping thing, and every fowl, [and] whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.
+
+<sup>20</sup> Noah built an altar for Enki. He took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
+
+<sup>21</sup> Enlil smelled a sweet savour and said in his heart:
+
+{{< l a="Enlil" >}}
+I will not again curse the ground any more for man’s sake. For the imagination of man’s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done.  <sup>22</sup> While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
+{{< /l >}}
 
 

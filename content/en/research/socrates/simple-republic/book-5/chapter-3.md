@@ -30,8 +30,10 @@ We ended up here through our search for justice and injustice. <!-- If we have d
 - the character of the perfectly just,
 - the nature of injustice,
 - the character of the perfectly unjust.
+{{< /l >}}
 
 
+{{< l a="Socrates" >}}
 We looked at these so that we could compare our own happiness and unhappiness to the standard, without imagining how that standard could exist in reality. A painter would not be any worse if he painted an ideal man, but was unable to show how such a man could exist. 
 
 We were creating an ideal of a perfect State. Our theory is not worse because we are unable to prove the possibility of such an ideal city. Are "ideals" ever fully realized in language?
@@ -105,7 +107,9 @@ How do you distinguish them?
 
 {{< l a="Socrates" >}}
 The lovers of sounds and sights are fond of fine tones, colours, forms, and all the artificial products made out of them.  But their mind cannot see nor love absolute beauty. Few can see it. <b>He who has a sense of beautiful things has no sense of absolute beauty.</b>
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 The dreamer likens dissimilar things and puts a copy in the place of the real object.But the person who recognises absolute beauty and is able to distinguish the idea from its objects. He  does not put the objects in the place of the idea nor the idea in the place of the objects. He is awake and not a dreamer.
 
 The dreamer has opinion only. The awake person has knowledge. If the dreamer disputes us, we shall we assure him that he is welcome to any knowledge which he may have. We ask him= Does he who has knowledge know something or nothing? <!-- (You must answer for him.) -->
@@ -122,7 +126,9 @@ He knows something.
 An absolute being can be absolutely known, but an utterly non-existent being is utterly unknown. If there is anything that exists and not exists, then it will be in-between pure being and the absolute negation of being.
 
 Knowledge corresponds to being*. Ignorance corresponds to not-being. The intermediate between being and not-being has a corresponding intermediate between ignorance and knowledge. 
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 The existence of opinion is the same with the existence of knowledge or some other faculty. Then opinion and knowledge have to do with different kinds of matter corresponding to this difference of faculties. Knowledge is relative to being and knows being.
 {{< /l >}}
 
@@ -229,7 +235,9 @@ Yes. We agreed that anything of this kind would be an opinion and not knowledge.
 This duality is the intermediate flux which is caught and detained by the intermediate faculty of opinion.
 
 Those who see the absolute, eternal, and immutable have knowledge and not opinion only. These love the subjects of knowledge.
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 But those who have no knowledge and only opinion are those who:
 - see only relative beauties but not the absolute beauty
 - follow any guide who points the way those relative beauties

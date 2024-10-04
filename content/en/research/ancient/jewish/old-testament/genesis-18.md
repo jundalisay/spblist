@@ -7,24 +7,29 @@ image: "/covers/old.jpg"
 ---
 
 
-{18:1} Enki appeared unto him in the plains of Mamre while he was sitting in the tent door in the heat of the day.
+<sup>1</sup> Enki appeared unto him in the plains of Mamre while he was sitting in the tent door in the heat of the day.
 
-{18:2} 3 men stood by Enki. So Abraham ran to meet them from the tent door, and bowed himself toward the ground {18:3} And said:
+<sup>2</sup> 3 men stood by Enki. So Abraham ran to meet them from the tent door, and bowed himself toward the ground <sup>3</sup> and said:
 
+{{< l a="Abraham" >}}
 My Lord, if now I have found favour in thy sight, pass not away, I pray thee, from thy
 servant: {18:4} Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree.
 
 {18:5} I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant.
+{{< /l >}}
+
 
 They said: Yes please.
 
 {18:6} Abraham hastened into the tent unto Sarah, and said:
 
+{{< l a="Abraham" >}}
 Make ready quickly 3 measures of fine meal, knead it, and make cakes upon the hearth. 
+{{< /l >}}
 
-{18:7} And Abraham ran unto the herd, and fetched a tender and good calf, and gave [it] unto a young man; and he hasted to dress it. 
+{18:7} Abraham ran to the herd and fetched a tender and good calf and gave it to a young man who hasted to dress it. 
 
-{18:8} And he took butter, and milk, and the calf which he had dressed, and set [it] before them; and he stood by them under the tree, and they did eat.
+{18:8} He took butter and milk, and the calf which he had dressed, and set [it] before them; and he stood by them under the tree, and they did eat.
 
 {18:9} They said to him:
 
@@ -41,16 +46,13 @@ In the tent
 {{< /l >}}
 
 
+Sarah heard [it] in the tent door, which [was] behind him. {18:11} Now Abraham and Sarah [were] old [and] well stricken in age; [and] it ceased to be with Sarah after the manner of women.
 
- And Sarah heard
-[it] in the tent door, which [was] behind him. {18:11} Now
-Abraham and Sarah [were] old [and] well stricken in age;
-[and] it ceased to be with Sarah after the manner of women.
+{18:12} So Sarah laughed saying: 
 
-{18:12} Therefore Sarah laughed within herself, saying,
-After I am waxed old shall I have pleasure, my lord being
-old also? 
-
+{{< r a="Sarah" >}}
+After I am waxed old shall I have pleasure, my lord being old also? 
+{{< /r >}}
 
 
 {18:13} Enki asked Abraham:
@@ -58,19 +60,24 @@ old also?
 
 {{< l a="Enki" >}}
 Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am old? 
+
+{18:14} Is any thing too hard for Enki? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.
 {{< /l >}}
 
 
-{18:14} Is any thing too hard for Enki? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.
+{18:15} Then Sarah denied, saying:
+
+No I didn't laugh
 
 
-{18:15} Then Sarah denied, saying, I laughed not; for she
-was afraid. And he said, Nay; but thou didst laugh.
-{18:16} And the men rose up from thence, and looked
-toward Sodom: and Abraham went with them to bring them
+She was afraid. 
+
+{{< l a="Enki" >}}
+You laughed. 
+{{< /l >}}
+
+{18:16} The men rose up and looked towards Sodom. Abraham went with them to bring them
 on the way. 
-
-
 
 
 {{< l a="Enki" >}}
@@ -81,9 +88,8 @@ unto me; and if not, I will know.
 {{< /l >}}
 
 
+{18:22} The men went toward Sodom: but Abraham stood yet before Enki. 
 
-{18:22} And the men turned their faces from thence, and went toward Sodom: but
-Abraham stood yet before Enki. 
 
 {18:23} Abraham drew near and said:
 
@@ -108,12 +114,10 @@ Suppose there are only 45 righteous. Will you destroy all the city for [lack of]
 {{< /r >}}
 
 
-And he said, If I find there forty and five, I will not destroy
-[it. ]{18:29} And he spake unto him yet again, and said,
-Peradventure there shall be forty found there. And he said, I
-will not do [it] for forty’s sake. {18:30} And he said [unto
-him,] Oh let not the Lord be angry, and I will speak:
-Peradventure there shall thirty be found there. And he said, I
+And he said, If I find there forty and five, I will not destroy [it. ]
+
+{18:29} And he spake unto him yet again, and said, if there are 40 found there. And he said, I
+will not do [it] for forty’s sake. {18:30} And he said [unto him,] Oh let not the Lord be angry, and I will speak: if there shall thirty be found there. And he said, I
 will not do [it,] if I find thirty there. {18:31} And he said,
 Behold now, I have taken upon me to speak unto the Lord:
 Peradventure there shall be twenty found there. And he said,
@@ -124,6 +128,3 @@ this once: Peradventure ten shall be found there. And he
 said, I will not destroy [it] for ten’s sake. 
 
 {18:33} Enki went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.
-
-
-
