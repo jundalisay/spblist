@@ -6,6 +6,7 @@ description: "Once upon a time when Brahmadatta was reigning in Benares, it was 
 image: "/photos/meta/buddhism.jpg"
 ---
 
+
 {{< n n="The 5 weapons are the 5 Elements (Aether, Air, Fire, Water, Earth) which we convert to the 5 Layers (Aether, Spacetime, Radiance, Conversion, Matter). Yaksas are elementals of the Earth Element and are materialist spirits. They are inferior to the aether which was the final secret weapon that the Prince had in store for the yaksa Silesaloma, and represents him saying that he put trust in himself. The thick impenetrable hair represents the hardness of materialism which most humans bow down to and are ensnared in. But it does not ensnare those who know the true nature of the 5 Elements" >}}
 
 <!-- "When no Attachment."--This story was told by the Master while at Jetavana, about a Brother who had given up all earnest effort.

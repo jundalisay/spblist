@@ -1,13 +1,18 @@
-APAṆṆAKA-JĀTAKA.
+---
+# heading: Very Enlightened
+title: "APAṆṆAKA-JĀTAKA"
+weight: 4
+description: "Siddhartha Gautama was a prince turned ascetic. Here are discourses from the Tipitaka and other sutras"
+image: "/photos/meta/buddhism.jpg"
+---
+
+
+
 [95.] This 2 discourse regarding Truth was delivered by the Blessed One, while he was dwelling in the Great Monastery at Jetavana near Sāvatthi. But who, you ask, was it that led up to this tale?
 
 Well; it was the Treasurer's five hundred friends, disciples of the sophists 3.
 
-For, one day Anātha-piṇḍika 4 the Treasurer, took his friends the five hundred disciples of other schools, and went off with them to Jetavana, whither also he had a great store brought of garlands, perfumes, and unguents, together with oil, honey, molasses, cloths, and cloaks. After due salutation to the Blessed One, he made his offering to him of the garlands and the like, and handed over to the Order of the Brethren the medicinal oil and so forth together with the cloths; and, this done, he took his seat on one side eschewing the six faults in
-
-p. 2
-
-sitting down. Likewise, those disciples of other schools saluted the Buddha, and took their seats close by the side of Anātha-piṇḍika,--gazing upon the Master's countenance, glorious as the full moon, upon his excellent presence endowed with the signs and marks of Buddhahood and encompassed to a fathom's length with light, and upon the rich glory that marks a Buddha, a glory which issued as it were in paired garlands, pair upon pair.
+For, one day Anātha-piṇḍika 4 the Treasurer, took his friends the five hundred disciples of other schools, and went off with them to Jetavana, whither also he had a great store brought of garlands, perfumes, and unguents, together with oil, honey, molasses, cloths, and cloaks. After due salutation to the Blessed One, he made his offering to him of the garlands and the like, and handed over to the Order of the Brethren the medicinal oil and so forth together with the cloths; and, this done, he took his seat on one side eschewing the six faults in sitting down. Likewise, those disciples of other schools saluted the Buddha, and took their seats close by the side of Anātha-piṇḍika,--gazing upon the Master's countenance, glorious as the full moon, upon his excellent presence endowed with the signs and marks of Buddhahood and encompassed to a fathom's length with light, and upon the rich glory that marks a Buddha, a glory which issued as it were in paired garlands, pair upon pair.
 
 Then, though in thunderous tones as of a young lion roaring in the Red Valley or as of a storm-cloud in the rainy season, bringing down as it were the Ganges of the Heavens 1. [96] and seeming to weave a chaplet of jewels,--yet in a voice of eightfold perfection, the charm of which ravished the ear, he preached to them the Truth in a discourse full of sweetness and bright with varied beauty.
 

@@ -1,4 +1,14 @@
-PATHA-JĀTAKA.
+---
+heading: 55
+title: "VANNUPATHA-JĀTAKA"
+weight: 100
+description: "Once upon a time when Brahmadatta was reigning in Benares, it was as his queen's child that the Bodhisatva came to life once more"
+image: "/photos/meta/buddhism.jpg"
+---
+
+
+
+
 "Untiring, deep they dug."--This discourse was delivered by the Blessed One whilst he was dwelling at Sāvatthi.
 
 About whom, you ask?
