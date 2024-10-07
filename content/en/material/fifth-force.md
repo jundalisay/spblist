@@ -2,7 +2,7 @@
 # Material Qosts3
 title: "The Aetherspace for the Muon G-2 Experiment"
 date: 2022-04-13
-image: /graphics/physics/muon.jpg
+image: /graphics/physics/bands.jpg
 description: "The muon-G2 experiment is accounted for by Spacetime Quanta we call Aetherspace" 
 writer:
   name: Juan
@@ -79,3 +79,27 @@ The Muon g-2 experiment is a very welcome development for those who are pushing 
 Further research and analysis are required to fully understand the implications and significance of these findings. The discovery of a fifth force of nature would have profound implications for our understanding of the fundamental forces governing the universe.
 
 Read more about the experiments at Fermilab indicating the possibility of a fifth force of nature. -->
+
+
+
+<!-- Muons are particles that are closer to the aether than to electromagnetism this is why they travel nearly the speed of light and decay very quickly in the presence of matter. 
+
+Since they are electromagnetic, they have inherent magnetism. In theory, this magnetism should be the same everywhere, just like the speed of light is the same everywhere. 
+
+However, to their shock, the magnetism of the muon is not the same. 
+
+This is why they speculate that a Fifth Force is causing the anomaly. 
+
+This Fifth Force is unknown to Newtonian Physics, but is very known to Cartesian Physics, which calls it the aether. 
+
+It says that the muon magnetism is different depending on its location, since the aether is above spacetime and spacetime is above electromagnetism. 
+
+The aether not only expalins muon magnetism, but also dark matter, dark energy, Lorentz transformations, and a lot of other things. 
+
+It is not a new discovery, being known already to the ancient Greeks via Timaeus, to the Hindus as akasha, and the Chinese in Chinese medicine. 
+
+Since it is not a new discovery, there is no need to build a bigger hadron collider to discover it. 
+
+If there is one thing that can destroy Einstein's sham Theory of Relativity, it is the aether, as it proves that nothing in the universe is standard and that the speed of light should not be used as the standard ruler. 
+
+https://www.bbc.com/news/science-environment-66407099 -->

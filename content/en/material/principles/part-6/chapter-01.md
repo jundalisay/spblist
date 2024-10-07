@@ -76,7 +76,8 @@ There have been experiments on using sound to extinguish fires. Our idea is that
 
 While modern science seems to be going for quantum computers, our idea is to go for crystal computers based on Descartes' Dioptrique. 
 
-Crystals allow light which travel faster than electrons. This can solve the problem with Moore's Law. 
+Crystals allow light which travel faster than electrons. This can solve the problem with Moore's Law which is estimated to end by 2036.  
+
 
 {{< img src="/graphics/physics/eye.jpg" alt="Crystal Computers" >}}
 

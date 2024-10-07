@@ -21,7 +21,10 @@ The Law of Conservation of Idea in Physical Reality  | This leads to the Theory 
 {{< /dc >}}
 
 
-The Rules of Motion in Superphysics come from Cartesian-Spinozan Physics. These are rules coming from the Law of Conservation of Momentum-Energy-Mass, which we collectively call the Law of Conservation of Idea. 
+The Rules of Motion in Superphysics implement the Law of Conservation of Momentum.
+
+<!-- come from Cartesian-Spinozan Physics. These are rules coming from the 
+ -Energy-Mass, which we collectively call the Law of Conservation of Idea.  -->
 
 {{< youtube Higl9xtBSOM >}}
 

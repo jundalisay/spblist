@@ -1,7 +1,7 @@
 ---
 title: "Descartes' Gravitational Lensing"
 # date: 2022-04-13
-image: /graphics/physics/fig_2-w.jpg.jpg
+image: /graphics/physics/lensing.jpg
 description: "The phenomenon of gravitational lensing is the change in the apparent position of a star by the meddling of another star or a galaxy"
 writer:
   name: Juan

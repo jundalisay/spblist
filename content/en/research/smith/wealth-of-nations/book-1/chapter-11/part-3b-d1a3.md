@@ -14,48 +14,65 @@ icon: "/avatars/smith.png"
 
 {{< s v="120" >}} The most judicious writers inferred the high value of silver in ancient times not so much from the low price of wheat, but from other rude produce.
 
-In those rude ages, wheat was a sort of manufacture. It was much dearer than unmanufactured commodities such as cattle, poultry, game, etc.
+In those rude ages, wheat was a sort of manufacture.
+- It was much dearer than unmanufactured commodities such as cattle, poultry, game, etc.
 
 Unmanufactured commodities were much cheaper than wheat in those barbarous times.
-- But this cheapness was not the effect of the high value of silver, but of the low value of those commodities.
-- It was not because silver then represent more labour, but because such commodities represented much fewer labour than in more opulent times.
+- But this cheapness was the effect of the the low value of those commodities.
+  - It was not the effect of the high value of silver
+- **Those commodities represented much fewer labour than in more opulent times.**
 
-Silver must be cheaper in Spanish America than in Europe because it does not incur transportaion and insurance costs.
-
-Ulloa writes that not many years ago Buenos Aires, 21.5 pence was the price of an ox.
-
-Mr. Byron writes that 192 pence was the price of a good horse in the capital of Chile.
-
-In such fertile but uncultivated countries, cattle, poultry, game, etc. could be acquired with little labour and could purchase a very small quantity.
-
-Its low money price is no proof that the real value of silver there was very high.
-It only proves that the real value of those commodities was very low.
+<!-- - It was not because silver then represent more labour, but because  -->
 
 
-{{< s v="121" >}} Labour, it must always be remembered, and not any particular commodity or set of commodities, is the real measure of the value both of silver and of all other commodities.
+Silver is cheaper in Spanish America than in Europe because it does not incur transportaion and insurance costs.
+- Ulloa writes that not many years ago in Buenos Aires, 21.5 pence was the price of an ox.
+- Byron writes that 192 pence was the price of a good horse in the capital of Chile.
 
-{{< s v="122" >}} In thinly inhabited countries, cattle, poultry, game, etc. are frequently produced by nature.
-Their supply is much greater than what is needed by the inhabitants.
-In the different stages of the improvement of society, such commodities will represent very different amounts of labour.
+In such uncultivated, fertile countries, cattle, poultry, game, etc. could be acquired with little labour.
+- It could purchase a very small quantity of silver.
+
+Its low money price is not a proof that the real value of silver there was very high.
+- **It only proves that the real value of those commodities was very low.**
+
+
+{{< s v="121" >}} Labour is the real measure of the value both of silver and of all other commodities.
+
+<!-- , it must always be remembered, and not any particular commodity or set of commodities,  -->
+
+
+<!-- thinly inhabited  -->
+{{< s v="122" >}} In countries with low population, cattle, poultry, game, etc. are frequently produced by nature.
+- Their supply is much greater than what is needed by the inhabitants.
+
+<!-- the improvement -->
+In the different stages of development of society, such commodities will represent very different amounts of labour.
+
 
 {{< s v="123" >}} In every state of society, wheat is the produce of human industry.
 
 But the average produce of every industry is always suited to the average consumption.
-The average supply should match the average demand.
+- The average supply should match the average demand.
 
 In every stage of improvement, the raising of equal amounts of wheat will require nearly equal amounts of work.
+
 The continual increase of labour productivity in an improving state of cultivation are counter-balanced by the continually increasing price of cattle.
 
 Cattle are the principal instruments of agriculture.
+
 In every state of society and every stage of improvement, equal amounts of wheat will, more nearly represent equal amounts of labour than equal amounts of any rude produce.
 
 In all the different stages of wealth and improvement, wheat is a more accurate measure of value than any other commodity.
+
 In all those different stages, we can judge the real value of silver by comparing it with wheat than any other commodity.
+
 
 {{< s v="124" >}} In every civilized country, wheat or whatever is the staple food of the people, constitutes the principal part of the worker's subsistence.
 
 The worker lives chiefly on the food that is cheapest and most abundant.
+
 Because of the extension of agriculture, the land produces more vegetable food than animal food.
+
 Meat makes an insignificant part of his subsistence, except in the most thriving countries where labour is most highly rewarded.
 
 Poultry makes a still smaller part of it.

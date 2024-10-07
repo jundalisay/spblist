@@ -67,13 +67,13 @@ For example, if only a few people in your society wanted guitar songs, and most 
 We can say in a sense that primary arbitrage is wholesale while secondary arbitrage is retail. 
 
 
-## The Resulting Concepts from the Third Law
+## The Resulting Concepts from the Fourth Law
 
-The resulting concepts from the Third Law of Value are:
+The resulting concepts from the Fourth  Law of Value are:
 
 - Markets and transaction systems
 - Secondary Arbitrage
 - Monopoly and competition
 - Retail, Imports, Exports
-- The Grain Index
+<!-- - The Grain Index -->
 - The Merchant class or cycle

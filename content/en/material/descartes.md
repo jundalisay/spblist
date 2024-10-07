@@ -11,9 +11,24 @@ icon: /icons/spmat.png
 
 
 
-Material Superphysics is largely based on Descartes Principia Philosophia which rivals the work of Newton. For example:
+Material Superphysics is largely based on Descartes *Principia Philosophia* which rivals the work of Newton. For example:
 - [La Dioptrique](https://en.wikipedia.org/wiki/Dioptrique) is the counterpart of Newton's Principia
 - [Traité du monde](https://en.wikipedia.org/wiki/The_World_(book)) is the counterpart of Newton's System of the World. 
+
+Einstein's 'successful' predictive theories were already explained in the 1630's by Descartes:
+
+Theory | Cartesian Version
+--- | ---
+Photoelectric effect | This was explained in Dioptrique. It happens when different colored light (like UV) hits a medium. The main difference between us and Descartes is that he puts particle spin as a property of the Electromagnetism (1st Element). But we assign it to the Weak Interaction (4th Element). https://www.suerphysics.org/research/descartes/optics/part-01b/
+Microlensing | Explained in the World. It happens because spacetime has liquid properties and microlensing is like a halo or rainbow. https://www.superphysics.org/research/descartes/world/chapter-15/
+Gravitational waves | This is explained by the liquid properties of spacetime and is not a fabric.
+Special Relativity | This is mentioned in Cartesian Relationality for the 1st Element or Electromagnetism
+General Relativity | This is Cartesian Relationality for the 2nd Element or Spacetime. Unlike Einstein's Relativity which makes Electromagnetism the supreme principle, Cartesian Relationality uses the aether. That is why James Webb Space Telescope and DESI debunk Big Bang and General Relativity but not Cartesian Relationality. 
+
+
+<!-- This is imbued in Descartes Rules of Motion which relies on state-change and is actually in Poincare's Law of Relativity. Rather, Special Relativity is Poincare's Law of Relativity for Electromagnetism (1st Element) and Galilean Relativity is Poincare's Law of Relativity for Matter (3rd Element). General Relativity (GR) is NOT Poincare's Law of Relativity for Spacetime.  -->
+
+<!-- https://www.superphysics.org/research/descartes/world/chapter-07/ -->
 
 In addition, Descartes describes the phenomena observed by current Physics:
 

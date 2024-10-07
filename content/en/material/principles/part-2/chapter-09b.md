@@ -31,7 +31,11 @@ Moreover, their limitations are causing the current ignorance in:
 
  <!-- The Hubble constant and the findings of the James Web Telescope expose the errors in the current understanding of Physics established by Newton and Einstein. -->
 
+
 To overcome these limitations, we bring back the physics of Descartes that based everything on the invisible aether instead of visible matter.
+
+
+### Cartesian Relationality
 
 Cartesian Physics calls gravity as 'slings' that ties 2 identities together.
 
@@ -40,6 +44,14 @@ Cartesian Physics calls gravity as 'slings' that ties 2 identities together.
 <!-- Kepler calls this tie as kinship. This tie is relativistic, elastic, and irregular (eccentric). -->
 
 <!-- It manifests as the orbital patterns of the material planets and comets, leading to Kepler's laws wherein objects affect each other's position in space. This mutual, multilateral affection is why he called his work the Harmonies of the World and why the objects in space are where they are. -->
+
+These slings is really the relation between 2 objects. 
+
+{{< q a="Descartes" c="Principia Philosophia, Part 4, Article 202" >}}
+Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
+{{< /q >}}
+
+
 
 Descartes adds on to Kepler's Physics by adding the idea of the electromagnetic and galactic slings to the material slings which he calls aethereal 'Fire', 'Air', and 'Earth' respectively.
 
@@ -50,7 +62,8 @@ We merge the Physics of Kepler and Descartes with current findings to create the
 <!-- IMOftV0yfso -->
 
 
-Instead of gravity being based on matter (as Newtonian mass) or the fabric of spacetime (as Einstein's fabric), it is based on different types of elastic bands that depend on the nature of the identities in question.
+Instead of gravity being based on matter (as Newtonian mass) or the fabric of spacetime (as Einstein's fabric), it is based on different types of elastic bands or relations that depend on the nature of the identities in question.
+
 
 ![Bands](/graphics/physics/bands.jpg)
 

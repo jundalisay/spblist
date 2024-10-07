@@ -116,7 +116,7 @@ A merchant must not consume all of the goods that he himself sells.
 
 {{< s v="11" >}} Therefore, money is the only part of the society's circulating capital, of which the maintenance can reduce their net revenue*.
 
-> *[Translator’s note: Because money cannot be consumed nor be used for anything else]
+{{< n n="Because money cannot be consumed nor be used for anything else" >}} 
 
 
 
@@ -130,4 +130,6 @@ A country’s stock of money incurs a cost to collect and support.
 Both costs are listed in the society's gross revenue. 
 - They are subtracted from the gross revenue to reveal the net revenue.
 
-Some precious metals and labour are employed to support that great but expensive instrument of commerce, instead of being used for industrial or agricultural purposes to create goods for consumption. Money allows everyone to have their subsistence, conveniences, and amusements regularly distributed to them.
+Some precious metals and labour are employed to support that great but expensive instrument of commerce, instead of being used for industrial or agricultural purposes to create goods for consumption. 
+
+Money allows everyone to have their subsistence, conveniences, and amusements regularly distributed to them.
