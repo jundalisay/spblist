@@ -48,7 +48,7 @@ And so they make their reactors bigger and bigger. These merely create large rea
 For example, the world's largest tokamak reactor in Japan has been under development since the 1970's, yet has never produced sustained fusion. 
 
 
-The main problem with magnetism is that it is on the same Element or Layer as the heat that it is trying to confine. It is like the central bank trying to solve inflation by raising interest rates, only to cause a recession.  
+The main problem with magnetism is that **it is on the same Element or Layer as the heat that it is trying to confine**. It is like the central bank trying to solve inflation by raising interest rates, only to cause a recession.  
 
 
 ## Fusion Solution: Anti-Gravity Via Spacetime Vortices
@@ -189,7 +189,7 @@ Since artificial gravitation is the key ingredient to sustainable fusion, the fi
 
 
 This was done by:
-- the ancient Egyptians to lift pyramid blocks 
+- the ancient Egyptians to make pyramid blocks lighter 
 - the Israelites* who used trumpets to amplify the gravitation of the walls of Jericho as to make them collapse
 
 {{< n n="*The Israelites came from Egypt, so their scientists, who were called priests or rabbi, would have some idea of how the gravity tech of the Egyptians worked." >}}

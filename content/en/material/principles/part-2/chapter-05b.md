@@ -7,7 +7,7 @@ description: "Qosts manifest invisibly as spacetime particles"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 22
+weight: 24
 icon: /icons/spmat.png
 # was 3b
 ---

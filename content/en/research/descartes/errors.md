@@ -1,5 +1,5 @@
 ---
-title: "Factual Errors by Descartes"
+title: "Factual Errors and Shortcomings by Descartes"
 weight: 30
 description: "We list down the errors of Descartes so we can bring back an error-free Cartesian Science"
 image: "/covers/fallacies.png"
@@ -15,3 +15,21 @@ n | Source | Error | Reality
 3 | Principia Part 3, 82 | The fire-aether beyond Saturn do not move faster. | They move slower. This mistake is caused by the previous mistake on comets
 4 | Meteors Discourse 8 | Colors are caused by photons turning in different directions. The cause of the error is believing that colors emerge after hitting something. This is a principle in Dioptrique. However, color is inherent information about the source, and not an emergent effect. | Colors are caused by wavelengths
 5 | Principia Part 3, 147 | The outer planets are more solid than the inner ones | The inner planets are more solid
+
+
+### Shortcomings
+
+Descartes' system would have been perfect if it didn't have the following shortcomings:
+
+1. No mention of supernova
+
+Supernovae are notable features of galaxies. Descartes did not mention any supernova. 
+
+2. Very little info on electricity
+
+Natural electricity already existed as lightning, which he calls fire. It would have been great if he expounded more on the nature of electricity. 
+
+3. Not much info on animals and plant biology
+
+Descartes probably wanted to write biology after writing the Treatise on Man. But he died early in Sweden. 
+

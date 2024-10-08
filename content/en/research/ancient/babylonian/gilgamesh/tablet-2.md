@@ -452,15 +452,17 @@ Strong, never [sleeping], O Gilgamish . . . . . .
 
 Column IV.
 
-1. 1So that he safeguard the Forest of Cedars a terror to mortals
-Him hath Enlil appointed—Humbaba, his roar is a whirlwind,
-Flame (in) his jaws, and his very breath Death! (Aye), if he in the Forest.
+1. So that he safeguard the Forest of Cedars a terror to mortals Him had Enlil appointed—Humbaba, his roar is a whirlwind, Flame (in) his jaws, and his very breath Death! 
+
+(Aye), if he in the Forest.
+
 Hear (but) a tread(?) 2 on the road—’Who is this come down to his Forest?’
-So that he safeguard the Forest of Cedars, a terror to mortals,
-Him hath Enlil appointed, and fell hap will seize him who cometh
+
+So that he safeguard the Forest of Cedars, a terror to mortals, Him hath Enlil appointed, and fell hap will seize him who cometh
 Down to his Forest.”
 
-3. 3Gilgamish open’d his mouth and to Enkidu spake he (in this wise):
+3. Gilgamish open’d his mouth and to Enkidu spake he (in this wise):
+
 5.“Who, O my friend, is unconquer’d by [death]? A divinity, certes,
 Liveth for aye in the daylight, but mortals—their days are (all) number’d,
 All that they do is (but) wind—But to thee, now death thou art dreading,
@@ -482,8 +484,6 @@ After my children are born to my house, and climb up thee, (saying):
 (Now), O my friend, [my charge] to the craftsmen I fain would deliver,
 So that they cast in our presence [our weapons].”
                                          [The charge] they deliver’d
-
-p. 22
 
 30.Unto the craftsmen: the mould (?) did the workmen prepare, and the axes
 Monstrous they cast: (yea), the celts did they cast, each (weighing) three talents;

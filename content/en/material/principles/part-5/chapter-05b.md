@@ -1,60 +1,81 @@
 ---
-heading: Chapter 5b
-title: "The Fine and Hyperfine Structure of the Atom"
+heading: Chapter 5
+title: "Quantum Chromo Dynamics: Color Charges and Mesons"
 # date: 2024-07-14
-image: /graphics/physics/hyperfine.jpg
-description: "The Fine and Hyperfine Structure of the Atom is the nature of the spatial layer within the material atom"
+image: /graphics/physics/gravitya.jpg
+description: "We explain Quantum Chromo Dynamics based on Cartesian Physics"
 weight: 22
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 toc: false
+sraft: true
 ---
 
 
+Quantum Chromo Dynamics explains the Strong Force which has 3 properties:
 
-Bohr's Quantum Theory Of Line-Spectra Part 2 Section 3 explains the "fine structure" which is based on Sommerfield.
-
-Unlike Newton's system which is based on mass, Bohr's system is based on energy states and levels.
-
-{{< i s="/graphics/physics/hyperfine.jpg" a="Atom model" >}}
-
-The quantum states are consistent with Descartes' First Law of Motion which is based on the state of the body, which is different from Newton's First Law which is based on inertia from rest mass.
-
-This whole concept of rest mass is one of the illusions of Nature which Rene Descartes debunked over and over with his explanation of the true nature of motion, rest, and space, which occupies nearly half of Part 2 of Principia Philosophia.
-
-Unlike the solar system, electrons do not follow a sequential orbit around the nucleus. This is because the space inside an atom is the aetherspace.   
+1. Mass Gap
+2. Quark Confinment
+3. Chiral Symmetry Breaking 
 
 
-### The Aetherspace Versus Spacetime
+### Mass Gap
 
-Inside the atom, local motion gives way to true motion due to the lack of spacetime particles which are replaced instead by aetherspace particles. 
+Mass Gap is the 
 
-These replace orbits with quantum levels that rely on state. These are consistent with Descartes' "superficies" which were called gravitational territories in spacetime. In the aetherspace, Physics are called shells. 
-
-We can make an analogy with planetary orbits:
-
-Attribute | Star-Spacetime | Atom-Aetherspace 
---- | --- | ---
-Slave | Planet | Electron
-Slave Action | Rotation Speed from Spacetime | Spin Direction (vortex rotation) from Aetherspace
-Path | Orbiting Speed from Spacetime | Orbital Speed (Angular Momentum) from Aetherspace
+The nature-based difference between `mass` and `potential` leads to a mass gap. 
 
 
-- The "fine" structure is the relationality* of the electron's vortex rotation and its orbital speed in the aetherspace. 
-- The "hyperfine" structure is the relationality of the electron's vortex rotation, its orbital speed, and the vortex rotation of the nucleus in the aetherspace. 
+### Quark Confinement
+
+Quarks do not exist alone because they are bound by Relationality.
 
 
-{{< n n="We avoid Relativity to avoid our concepts being associated with Einstein's ideas" >}}
-
-Descartes explained spin as the 1st Element (electrons) being vortices manifesting as corkscrews. These can become longer and larger depending on energy. This creates magnetism when they are all aligned, and tunneling in stars (explained in The World Chapter 9).
-
-Lastly, the emission of hydrogen lines as radiowaves or light is a consequence of the wave-particle nature of the 1st Element which Descartes compared to solid grapes and liquid grape juice. 
-
-- The more energy is applied to a bunch of grapes, as feet crushing it, the more it will become liquid juice moving away.
-- The less energy, the more it becomes solid grapes staying together.
-
-These then dictate how the electron will jump its shells. 
+### Chiral Symmetry Breaking
 
 
+
+<!-- Cartesian Relationality: -->
+
+## Color Charges and Mesons
+
+
+{{< youtube 0jVMiF4nKoA >}}
+
+Physics believes that quarks are held by gluons which have 3 color charges. 
+
+Descartes refutes this by saying that matter is not bound by any glue. Instead, they are bound by perfect stillness.
+
+Non-stillness is caused by kinetic spacetime particles called the 2nd Element. 
+
+To create stillness, we create a different kind of spacetime particle called the aetherspace which is probabilistic instead of kinetic.
+
+This is made up of 4 aether particles according to our Law of Conservation of the Aether. This law is derived from the 5 Elements model and particle shapes.  
+
+A proton is created when an aetherspace particle is made still by 3 aetherspace.
+
+This leads to 3 quarks and a non-free aether.
+
+Radiant energy is made up of 3 aether particles.
+
+The addition of energy disrupts this stillness. 
+
+This frees the non-free aether. 
+
+Creating 7 particles in the center. 
+
+The free aether converts the energy particles into antiquarks. 
+
+All spacetime is relational.
+
+Relationality requires at least 2 identities. 
+
+This is why a quark must always have a partner. 
+
+This pair is called a meson.
+
+Therefore, aetherspace particles remove the need for gluons and color charges.
+
+<!-- https://www.youtube.com/watch?v=0jVMiF4nKoA -->

@@ -122,12 +122,8 @@ Surely Enki had looked on my affliction; now therefore my husband will love me.
 Because Enki had heard that I [was] hated, he had therefore given me this [son] also: and she called his name Simeon. 
 
 
-{29:34} And she conceived again, and bare a son;
-and said, Now this time will my husband be joined unto me,
-because I have born him three sons: therefore was his name
-called Levi. 
+{29:34} She conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi. 
 
-{29:35} And she conceived again, and bare a
-son: and she said, Now will I praise the LORD: therefore
+{29:35} She conceived again, and bare a son. She said: Now will I praise Enki: therefore
 she called his name Judah; and left bearing.the stone from the well’s mouth; then we water the sheep.
 

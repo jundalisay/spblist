@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1"
+heading: "Chapter 2"
 title: "The Different Religions and Belief Systems"
 date: 2024-07-15
 image: "/photos/meta/isaiah.jpg"

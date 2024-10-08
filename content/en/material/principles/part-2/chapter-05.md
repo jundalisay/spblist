@@ -7,7 +7,7 @@ description: "The Quantum of Spacetime is the fundamental particle in the Spatia
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 20
+weight: 22
 icon: /icons/spmat.png
 # was 3
 ---

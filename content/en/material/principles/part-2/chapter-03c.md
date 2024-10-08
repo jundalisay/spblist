@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3d"
+heading: "Chapter 3c"
 title: "The Aetherspace and the 7 Dimensions"
 # date: 2024-07-22
 weight: 14

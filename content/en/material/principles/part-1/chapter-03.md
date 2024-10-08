@@ -2,7 +2,7 @@
 heading: "Chapter 3"
 title: "The Media of Aether (Moas)"
 # # date: 2020-01-31
-image: "/photos/idea.jpg"
+image: "/graphics/physics/fabric.jpg"
 description: "The Media of Aether or Moas facilitate the effects of the aethereal layer"
 writer:
   name: Juan
@@ -12,14 +12,13 @@ icon: /icons/spmat.png
 ---
 
 
-
 The Media of Aether or Moas facilitate the effects of the aethereal layer. These have 3 kinds, based on the sublayers:
 
 Medium | Description
 --- | ---
 Lower Mind (moa1) | Connects to the 5 Strata
 Feeling (moa2) | Facilitates the Positive and Negative Forces
-Free Aether (moa3) | Facilitates Decay and Antimatter
+Idea (moa3) | Facilitates Identities
 
 
 ### Lower Mind
@@ -33,11 +32,11 @@ This connects the 5 Layers to the 5 Strata of Bio Superphysics
 This facilitates the operations of the Positive and Negative Forces in the physical domain. 
 
 
-### Idea or Free Aether
+### Idea 
 
-This is the crudest medium for the aethereal layer and manifests as the free aether. 
+This is the crudest medium for the aethereal layer and manifests as identities. 
 
-The free aether is responsible for counter-evolution as decay and antimatter. 
+<!-- The free aether is responsible for counter-evolution as decay and antimatter.  -->
 
 
 <!-- ## The Aether is the Medium of Sound
@@ -57,3 +56,4 @@ Since it exists behind spacetime, the normal Cartesian or Galilean coordinates w
 
 This visualization tool can then reveal the five main Platonic solids that make up the universe, a concept that the Greeks learned from the ancient Egyptians. 
  -->
+ 

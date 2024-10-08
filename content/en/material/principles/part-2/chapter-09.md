@@ -1,13 +1,13 @@
 ---
-heading: "Chapter 10"
+heading: "Chapter 9"
 title: "Spatial Relationality"
 # # date: 2020-01-31
 # date: 2021-12-30
-weight: 34
+weight: 36
 image: /graphics/gravrelm.png
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: /icons/spmat.png
-# was 04d
+draft: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -168,3 +168,5 @@ This shows that Leverrier's solution is valid if Vulcan existed, just as Einstei
 <!-- This is useful for finding habitable planets in the future. --> 
 
 <!-- and Einstein's solution is valid if the quality of the core of Mercury is ascertained. The precession of Mercury using spatial relativity is due to its core being 75% of its mass. This gives it the dynamics of a comet more than a planet.  -->
+
+

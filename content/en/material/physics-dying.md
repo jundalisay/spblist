@@ -3,8 +3,7 @@ title: "Why Physics is Dying"
 date: 2024-10-06
 image: /photos/objects/regicide.jpg
 description: "The Death of Physics is caused by Einstein"
-icon: /icons/spmat.png
-weight: 2
+icon: /icons/spmat.pn
 ---
 
 

@@ -7,7 +7,7 @@ description: "A galaxy is the best representative body of the lower spatial laye
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 24
+weight: 26
 icon: /icons/spmat.png
 # was 3c
 ---

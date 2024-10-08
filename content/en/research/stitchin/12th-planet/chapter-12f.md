@@ -36,18 +36,9 @@ end of days" so that both the flesh ("image") and the soul ("likeness") of the g
 would become imprinted upon Man in a kinship of blood that could never be
 severed.
 
-The "Epic of Gilgamesh" reports that when the gods decided to create a double
-for the partly divine Gilgamesh, the Mother Goddess mixed "clay" with the
-"essence" of the god Ninurta. Later on in the text, Enkidu's mighty strength is
-attributed to his having in him the "essence of Anu," an element he acquired
-through Ninurta, the grandson of Anu.
+The "Epic of Gilgamesh" reports that when the gods decided to create a double for the partly divine Gilgamesh, the Mother Goddess mixed "clay" with the "essence" of the god Ninurta. Later on in the text, Enkidu's mighty strength is attributed to his having in him the "essence of Anu," an element he acquired through Ninurta, the grandson of Anu.
 
-The Akkadian term kisir refers to an "essence," a "concentration" that the gods
-of the heavens possessed. E. Ebeling summed up the efforts to understand the
-exact meaning of ki ir by stating that as "Essence, or some nuance of the term, it
-could well be applied to deities as well as to missiles from Heaven." E. A. Speiser
-concurred that the term also implied "something that came down from Heaven." It
-carried the connotation, he wrote, "as would be indicated by the use of the term in
+The Akkadian term kisir refers to an "essence," a "concentration" that the gods of the heavens possessed. E. Ebeling summed up the efforts to understand the exact meaning of ki ir by stating that as "Essence, or some nuance of the term, it could well be applied to deities as well as to missiles from Heaven." E. A. Speiser concurred that the term also implied "something that came down from Heaven." It carried the connotation, he wrote, "as would be indicated by the use of the term in
 medicinal contexts."
 
 We are back to a simple, single word of translation: gene.

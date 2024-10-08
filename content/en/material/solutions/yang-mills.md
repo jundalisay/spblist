@@ -6,8 +6,7 @@ description: "We use Superphysics to solve the biggest problems in Physics "
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
-weight: 2
+icon: /icons/spmat.pn
 ---
 
 

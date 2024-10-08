@@ -79,9 +79,11 @@ of birds" and of "rising from the lower heavens to the lofty ones." And when he 
 launched aloft in a fiery rocket, it was he "who stretched over unknown distances,
 for countless hours." Appropriately, "his net was the Earth, his trap the distant
 skies."
+
 The Sumerian terminology for objects connected with celestial travel was not
 limited to the me's that the gods put on or the mu's that were their cone-shaped
 "chariots."
+
 Sumerian texts describing Sippar relate that it had a central part, hidden and
 protected by mighty walls. Within those walls stood the Temple of Utu, "a house
 which is like a house of the Heavens." In an inner courtyard of the temple, also
@@ -91,8 +93,10 @@ A drawing found at the temple mound of Anu at Uruk depicts such an object.
 We would have been hard put a few decades ago to guess what this object was;
 but now we readily recognize it as a multistage space rocket at the top of which
 rests the conical mu, or command cabin. (Fig. 83)
+
 Illustration:
 A Multistage Space Rocket
+
 The evidence that the gods of Sumer possessed not just "flying chambers" for
 roaming Earth's skies but space-going multistage rocket ships also emerges from
 the examination of texts describing the sacred objects at Utu's temple at Sippar.
@@ -101,6 +105,7 @@ oath in an inner courtyard, standing by a gateway through which they could see
 and face three "divine objects." These were named "the golden sphere" (the crew's
 cabin?), the GIR, and the alikmahrati—a term that literally meant "advancer that
 makes vessel go," or what we would call a motor, an engine.
+
 What emerges here is a reference to a three-part rocket ship, with the cabin or
 command module at the top end, the engines at the bottom end, and the gir in the
 center. The latter is a term that has been used extensively in connection with
@@ -111,6 +116,7 @@ Gir, it is generally acknowledged, was a term used to describe a sharp-edged
 object. A close look at the pictorial sign for gir provides a better understanding of
 the term's "divine" nature; for what we see is a long, arrow-shaped object, divided
 into several parts or compartments:
+
 That the mu could hover in Earth's skies on its own, or fly over Earth's lands
 when attached to a gir, or become the command module atop a multistage apin is
 testimony to the engineering ingenuity of the gods of Sumer, the Gods of Heaven

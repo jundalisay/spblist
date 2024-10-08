@@ -40,3 +40,4 @@ Doctors are against homoeopathy because in theory, the patient can cure himself 
 Homeopathy doesn't work if the personality match is wrong, or if you don't believe in it -- the medicine will scream but your cells will just ignore it since it copies your non-believing personality. 
 
 Homeopathy should actually be promoted as it can relieve overburdened healthcare systems and reduce insurance costs.
+

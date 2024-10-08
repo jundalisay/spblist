@@ -7,20 +7,20 @@ draft: true
 ---
 
 
+THE TYRANNY OF GILGAMISH, AND THE CREATION OF ENKIDU.
 
-
-OF THE TYRANNY OF GILGAMISH, AND THE CREATION OF ENKIDU.
 THE FIRST TABLET
-OF THE TYRANNY OF GILGAMISH, AND THE CREATION OF ENKIDU.
+
 Column I.
 
 (The Argument).
 
- 1He who (the heart of) all matters hath proven let him [teach] the nation,
-[He who all] knowledge possesseth, therein shall he [school] all the people,
-[He shall his wisdom impart (?)] and (so) shall they ]share it] together.
-[Gilgamish(?)] 2—he was the [Master] of wisdom, with [knowledge of all things,
+1He who (the heart of) all matters hath proven let him [teach] the nation, [He who all] knowledge possesseth, therein shall he [school] all the people, [He shall his wisdom impart (?)] and (so) shall they ]share it] together. 
+
+Gilgamesh] 2—he was the [Master] of wisdom, with [knowledge of all things,
+
 5.He ’twas discovered the secret concealed . . . . . . . . .
+
 (Aye), handed down the tradition relating to (things) prediluvian,
 Went on a journey afar, (all) aweary and [worn with his toiling(?)],
 10.[Graved] on a table of stone all the travail.
@@ -50,6 +50,7 @@ p. 10
 
 7.“. . . . . . . . of Erech ’tis he who hath [taken],
 . . . . . . . . . (while) tow’reth [his] crest like an aurochs,
+
 10.Ne’er hath the shock of [his] weapons (its) [peer]; are driven [his] fellows
 Into the toils 1, while cow’d are the heroes of Erech un- . . . . .
 Gilgamish leaveth no son to [his] father, [his] arrogance swelling
@@ -224,11 +225,13 @@ I, I will summon him, challenging boldly (and) crying through Erech,
 . . . flown with their wantoning, gleeful, and keeping the nobles
 Out of their beds 2! (Nay), Enkidu, [joy] in thy life (to its fullest)
 [Thou shalt] taste—(forsooth) will I shew thee a man who is happy,
-15.Gilgamish! View him, O look on his face, (how) comely his manhood!
-Dower’d with lustiness is he, the whole of his body with power
-Brimming, [his] vigour is stronger than thine, (all) day and night restless!
-20.Enkidu, temper thine arrogance—Gilgamish, loveth him Shamash,
-Anu, (and) Enlil 3, and Ea 4 have dower’d his wisdom with largesse.
+15.Gilgamish! 
+
+View him, O look on his face, (how) comely his manhood!
+
+Dower’d with lustiness is he, the whole of his body with power brimming, [his] vigour is stronger than thine, (all) day and night restless! 
+
+20.Enkidu, temper thine arrogance—Gilgamish, loved him Shamash, Anu, (and) Enlil, and Enki have dower’d his wisdom with largesse.
 
 (How Gilgamish dreamt of Enkidu).
 

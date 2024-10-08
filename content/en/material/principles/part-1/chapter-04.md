@@ -1,60 +1,24 @@
 ---
-heading: "Chapter 4"
-title: "Positive and Negative Polarity"
-# date: 2023-12-10
-image: /photos/physics/light.jpg
-# image: /photos/meta/buddhism.jpg
-description: "The aether drag is a fallacy created by post-Descartes physicists, probably by Fresnel"
+heading: "Chapter 3"
+title: "How the Free Aether Gets Rid of Supersymmetry"
+# # date: 2020-01-31
+image: "/photos/idea.jpg"
+description: "Supersymmetry was disproven by the Large Hadron Collider"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 22
+weight: 12
 icon: /icons/spmat.png
 draft: true
 ---
 
 
-{{< q a="Kybalion" >}}
-This says that all manifested things have 2 sides, 2 aspects, 2 poles, a pair of opposites with manifold degrees between the 2 extremes.
+The book *The Grand Design* by Stephen Hawking, explains the plague of infinities that afflict the current understanding of physical particles. 
+
+This arises from the infinite histories that Feynman diagrams can achieve. 
+
+
+{{< q a="Hawking" >}}
+In 1976, a possible solution to that problem was found. It is called supergravity. The prefix “super” was not appended because physicists thought it was “super” that this theory of quantum gravity might actually work. Instead, “super” refers to a kind of symmetry the theory possesses, called supersymmetry.
 {{< /q >}}
 
-
-The constant action by the Positive and Negative Force on Substance which we call Quantum create a polarity or duality* on each substance or quantum, which then manifests as a particle or a wave. 
-
-
-{{< n n="*'Duality' emphasizes the opposite-ness, while 'Polarity' emphasizes their mutual belligerence" >}}
-
-
-
-We say that each quantum exists with a set charge or predisposition from the very beginning. This polarity is called differently in each Layer.
-
-Layer | Positive Vortex | Negative Vortex
----- | --- | ---
-Probability | Existing | Non-Existing
-Aethereal | Unifying |  Divisive
-Spatial | Counterclockwise Rotation | Clockwise Rotation
-Radiant | Male (Positive Charge) | Female (Negative Charge)
-Convertible | Left Chirality | Right Chirality  
-Material | Color Charge | Anti-Color Charge
-
-
-
-In the aethereal layer, this polarity is the tendency to divide versus the tendency to unite. 
-
-We use the following words for these poles:
-
-Pole | Associated Words
---- | ---
-Positive | Good, Unite, Peace, Cooperate, Synthesize, Understand, etc
-Negative | Bad, Divide, War, Compete, Analyze, Confuse, etc
-
-
-<!-- Layer | Physics Polarity Name | Superphysics Name | Effect
---- | --- | --- | ---
-Probability | ? | Existing or Non-Existing | Exist or Not Exist
-Aethereal | ? | Positive or Negative Disposition |  Attract or Repel
-Spatial | ? | Clockwise or Anticlockwise Rotation | Materialize or Dematerialize
-Radiant | Positive or Negative Charge | Male or Female Charge | Attract or Repel
-Convertible | Left Hand or Right Hand Chirality | Clockwise or Anticlockwise Rotation | Transform or Not Transform
-Material | Left Hand or Right Hand Chirality | Clockwise or Anticlockwise Rotation | Materialize or Dematerialize 
- -->

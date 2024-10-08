@@ -1,13 +1,12 @@
 ---
 title: "Combustion and Spacetime Particles: The End of Nuclear War"
 date: 2024-10-07
-image: /photos/physics/prize.jpg
+image: /photos/physics/neutronstar.jpg
 description: "In Pricipia Philosophia, Rene Descartes explains how fire is created from wood using the 3-Element Model"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
-weight: 1
 ---
 
 

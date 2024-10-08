@@ -22,30 +22,23 @@ multitude of people.
 <sup>6</sup> When Esau saw that Isaac had blessed Jacob, and sent him away to Padan-aram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan.
 
 <sup>7</sup> Jacob obeyed his father and his mother, and was gone to Padan-aram; {28:8} And Esau
-seeing that the daughters of Canaan pleased not Isaac his
-father; {28:9} Then went Esau unto Ishmael, and took unto
-the wives which he had Mahalath the daughter of Ishmael
-Abraham’s son, the sister of Nebajoth, to be his wife.
+seeing that the daughters of Canaan pleased not Isaac his father; {28:9} Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham’s son, the sister of Nebajoth, to be his wife.
 
 
 <sup>10</sup> Jacob went out from Beer-sheba, and went toward Haran.
 
-<sup>11</sup> He lighted on a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and [put] them for his
-pillows, and lay down in that place to sleep.
+<sup>11</sup> He lighted on a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and [put] them for his pillows, and lay down in that place to sleep.
 
 <sup>12</sup> He dreamed of a ladder set up on the earth, and the top of it reached to heaven: and behold the agents of Enki ascending and descending on it.
 
 <sup>13</sup> Enki stood above it and said:
 
-I am Enki of Abraham your father and the Enki of Isaac: the land whereon
-thou liest, to thee will I give it, and to thy seed; {28:14} Your seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north,
-and to the south: and in thee and in thy seed shall all the
-families of the earth be blessed. 
+{{< l a="Enki" >}}
+I am Enki of Abraham your father and the Enki of Isaac: I will give to you and your seed the land where you are now on. {28:14} Your seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed. 
 
-{28:15} I am with you and will keep thee in all [places] whither
-thou goest, and will bring thee again into this land; for I will
-not leave thee, until I have done [that] which I have spoken
-to thee of.
+{28:15} I am with you and will keep thee in all [places] whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done [that] which I have spoken to thee of.
+{{< /l >}}
+
 
 <sup>16</sup>  Jacob woke up and said:
 
@@ -59,10 +52,6 @@ Surely Enki is in this place; and I knew it not.
 
 <sup>20</sup> Jacob vowed saying:
 
-If God will be with me, and will keep me in this way that I go, and will
-give me bread to eat, and raiment to put on, {28:21} So that
-I come again to my father’s house in peace; then shall the
-LORD be my God: {28:22} And this stone, which I have
-set [for] a pillar, shall be God’s house: and of all that thou
-shalt give me I will surely give the tenth unto thee.
+If Enki will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on, {28:21} So that I come again to my father’s house in peace; then shall the Enki: {28:22} This stone, which I have set [for] a pillar, shall be Enki's house: and of all that thou
+shalt give me I will surely give the tenth to you.
 

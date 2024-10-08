@@ -199,24 +199,35 @@ The aether particles that broke off from air-aether during collisions gained mor
 
 These photons and electrons get even more compressed in subvortices as to create protons and neutrons inside them, leading to the creation of stars.
 
-This new star-identity then gains its own gravitational territory within the territory of its galaxy.
+This new star-vortex then gains its own gravitational territory within the territory of its galaxy.
 
+That stellar territory touches other territories to form a giant territory controlled by the vortex of the galaxy, forming a galactic territory. 
+
+The stellar territories as a unit do the work of 'dark matter'. 
+
+The galactic territories as a unit do the work of 'dark energy'.
+
+So in Cartesian Physics, there is no need for dark matter nor dark energy. 
+
+Stellar and Galactic lensing happens when light crosses boundaries of territories. This is the same refraction as light bending from water. This is because the aether has liquid properties. 
+
+Planets cannot lens because they are made of matter which has a solid, not liquid property.
+
+Accordingly, they could not find lensing in Jupiter. 
 
 
 ## Phase 3: The Creation of Life and Matter
 
-The qosts compress the qols and qoes around a stellar vortex until a star is formed. In time, this star explodes due to the excess pressure from those qosts. 
+The qosts compress the star just as it compresses the other vortices within the star's territory to create planets. 
+
+
+<!--  and qoes around a stellar vortex until a star is formed. In time, this star explodes due to the excess pressure from those qosts. 
 
 The explosion spits out:
 - material particles as quanta of matter or qoms (pronounced koms) in the physical domain
 - immaterial particles as aethereal unit-minds or souls 
   - These souls inhabit the material particles in order to lead to living organisms
-
-
-<!-- life  quanta of matter or qoms (pronounced koms) in the physical domain -->
-
- <!-- with the star's gravitational territory. These qoms gather into energetic qosts that form planets and moons.   -->
-
+ -->
 
 <!-- It is the one that attracts energy in order to create both matter and life. In the process, this disrupts the homogenity of energy (equilibrium of thermodynamics).
 
@@ -231,12 +242,7 @@ The stirred energy then clump at the qosts which are then acted on by the other 
 
 <!-- These lead to the first shining stars. The protons in them then make up the basic elements which are then spread throughout space through the explosion of the qost, as a supernova. The exploded matter and unconverted energy are then re-clumped in the same qost to repeat the process until all the energy is converted into matter.  -->
 
-
 <!-- ## Spreading Ideas to the Universe
 
 The qost spreads its ideas onto the universe through its light and radiation, and materially through its supernova. The exploded matter from a supernova  acquires a piece of the original qost as to be able to attract energies on its own and become a manifested idea as a planet and everything on that planet.
  -->
-
-<!--  , which then allows itself to gather other matter in order to become stars and planets. --> 
-
-
