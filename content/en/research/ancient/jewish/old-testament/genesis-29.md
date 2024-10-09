@@ -56,21 +56,32 @@ It is yet high day, neither [is it] time that the cattle should be gathered toge
 <sup>11</sup> Jacob kissed Rachel, and lifted up his voice, and wept. {29:12} And Jacob told Rachel that he [was] her father’s brother, and that he [was] Rebekah’s son: and she ran and told her father. 
 
 
-<sup>13</sup> When Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these
-things. 
+<sup>13</sup> When Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things. 
 
 
 <sup>14</sup> Laban said to him, Surely you are my bone and my flesh. And he abode with him the space of a month.
 
-<sup>15</sup> Laban said unto Jacob, Because thou [art] my brother, shouldest thou therefore serve me for nought? 
+<sup>15</sup> Laban said to Jacob:
 
-tell me, what [shall] thy wages [be? ]{29:16} And Laban had two daughters: the name of the elder [was] Leah, and the name of the younger [was] Rachel. 
+
+{{< r a="Laban" >}}
+Because you are my brother. Shouldest you serve me for nothing? Tell me, what shall your wages be?
+{{< /r >}}
+
+
+
+<sup>16</sup> Laban had two daughters: 
+- the elder was Leah
+- the younger was Rachel. 
 
 {29:17} Leah was tender eyed. But Rachel was beautiful and well favoured.
 
 {29:18} Jacob loved Rachel and said:
 
+{{< l a="Jacob" >}}
 I will serve you 7 years for Rachel your younger daughter. 
+{{< /l >}}
+
 
 {29:19} Laban said:
 
@@ -124,6 +135,7 @@ Because Enki had heard that I [was] hated, he had therefore given me this [son] 
 
 {29:34} She conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi. 
 
-{29:35} She conceived again, and bare a son. She said: Now will I praise Enki: therefore
-she called his name Judah; and left bearing.the stone from the well’s mouth; then we water the sheep.
+{29:35} She conceived again, and bare a son. 
+
+She said: Now will I praise Enki: therefore she called his name Judah; and left bearing.the stone from the well’s mouth; then we water the sheep.
 

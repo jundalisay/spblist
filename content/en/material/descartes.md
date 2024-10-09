@@ -26,10 +26,6 @@ Special Relativity | This is mentioned in Cartesian Relationality for the 1st El
 General Relativity | This is Cartesian Relationality for the 2nd Element or Spacetime. Unlike Einstein's Relativity which makes Electromagnetism the supreme principle, Cartesian Relationality uses the aether. That is why James Webb Space Telescope and DESI debunk Big Bang and General Relativity but not Cartesian Relationality. 
 
 
-<!-- This is imbued in Descartes Rules of Motion which relies on state-change and is actually in Poincare's Law of Relativity. Rather, Special Relativity is Poincare's Law of Relativity for Electromagnetism (1st Element) and Galilean Relativity is Poincare's Law of Relativity for Matter (3rd Element). General Relativity (GR) is NOT Poincare's Law of Relativity for Spacetime.  -->
-
-<!-- https://www.superphysics.org/research/descartes/world/chapter-07/ -->
-
 In addition, Descartes describes the phenomena observed by current Physics:
 
 
@@ -67,8 +63,6 @@ We can say that The Elastic Theory is the liberation of Physics from the dark ag
 {{< q a="Descartes" c="Principia, Part 4, Article 20" >}}
 The motion of the air-aether that makes droplets round also makes planets round. This phenomenon is the gravity of terrestrial bodies.
 {{< /q >}}
-
-
 
 
 ## Electromagnetism

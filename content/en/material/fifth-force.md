@@ -98,8 +98,4 @@ The aether not only expalins muon magnetism, but also dark matter, dark energy, 
 
 It is not a new discovery, being known already to the ancient Greeks via Timaeus, to the Hindus as akasha, and the Chinese in Chinese medicine. 
 
-Since it is not a new discovery, there is no need to build a bigger hadron collider to discover it. 
-
-If there is one thing that can destroy Einstein's sham Theory of Relativity, it is the aether, as it proves that nothing in the universe is standard and that the speed of light should not be used as the standard ruler. 
-
 https://www.bbc.com/news/science-environment-66407099 -->

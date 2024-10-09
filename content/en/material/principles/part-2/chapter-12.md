@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 12"
-title: "Gravity from Most3s"
+title: "Spacetime"
 # date: 2024-0-7-22
 image: "/graphics/physics/francis.jpg"
 description: "Here we explain how gravity works"
@@ -9,6 +9,7 @@ icon: /icons/spmat.png
 # linked to public
 ---
 
+### Gravity from Most3s
 
 
 There are  
