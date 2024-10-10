@@ -3,8 +3,8 @@ heading: "Chapter 3d"
 title: "Bob Lazar's Gravity-A Waves"
 # date: 2024-07-22
 weight: 15
-image: /graphics/physics/spacetime.jpg
-description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
+image: /graphics/physics/bob.jpg
+description: "Bob Lazar gave his descriptions of the Gravity-A waves that power the Gray UFO in Area 51"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -15,9 +15,9 @@ icon: /icons/spmat.png
 <!-- Aetherspace Mechanics:  -->
 
 
-{{< youtube cJWzBCV0ksc >}}
-
 Bob Lazar gave his descriptions of the Gravity-A waves that power the Gray UFO in Area 51. 
+
+{{< youtube cJWzBCV0ksc >}}
 
 In Cartesian-Spinoza Physics, this is the same as the aetherspace which surrounds the quarks in a proton. 
 

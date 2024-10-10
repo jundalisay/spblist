@@ -3,7 +3,7 @@ heading: "Chapter 9d"
 title: "Cartesian Relationality: Special and General Relativity"
 date: 2023-10-01
 weight: 40
-image: /graphics/physics/bands.jpg
+image: /graphics/physics/gravity.jpg
 description: "The Elastic Theory is from Descartes and kepler, with important maxim-contributions from Socrates, Taoism, Buddhism, and Hinduism."
 icon: /icons/spmat.png
 # was 04
@@ -20,15 +20,24 @@ writer:
 
 A key component of Einstein's Relativity is time dilation and length contraction.
 
+We define:
+- space as the gap within perception 
+- distance as the gap between 2 identities 
+- timespan as the gap between 2 perceptions
+- time as the gap between perceptions in general 
+- time dilation as the increase of timespan within time 
+- length contraction as the decrease of distance within space
+
+
 We take the variables L, v, and c. 
 
-L-UFO is the length or space occupied by a very fast moving body per unit of time. 
+`L-UFO` is the length or space occupied by a very fast moving body per unit of time. 
 
-L-you is its occupied space from your non-moving perspective.
+`L-you` is its occupied space from your non-moving perspective.
 
-v is its velocity.
+`v` is its velocity.
 
-c is the maximum speed within physical spacetime.
+`c` is the maximum speed within physical spacetime.
 
 The square root of this ratio is then applied to the occupied space that you see.
 
@@ -47,4 +56,12 @@ Then impose that spacetime onto the object to get the contracted length.
 
 ### Special Relativity as the Changing of Spacetime Slicecs
 
+Physics judges things based on their speed and movement. However, Superhysics judgest things based on their Element or Layer.
 
+The sequential speed of light is the maximum speed achievable by the Radiant Layer. 
+
+The maximum speed of the Convertible Layer is a bit slower and that of the Material Layer is the slowest.  
+
+For example, the max speed of light is 300,000,000 m/s. But the max speed of a proton in an actual collider is only 31,400,000 m/s.
+
+So length contraction and time dilation are not effects of speed, but of the Element of the identity. 
