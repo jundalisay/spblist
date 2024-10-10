@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3d"
+heading: "Chapter 3e"
 title: "Quantum Superposition, Decoherence, and Wave Function Collapse"
 # date: 2024-07-22
 weight: 16

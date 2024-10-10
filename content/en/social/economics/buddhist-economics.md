@@ -169,7 +169,7 @@ The world’s fossil fuel resources are:
 
 Their exploitation at an ever-increasing rate is an act of violence against Nature. This will inevitably lead to violence between men.
 
-![Russian Tank on Parade](/photos/objects/tank.jpg)
+![Tank in Action](/photos/ukraine.jpg)
 
 
 ## Buddhist Economics Should be Implemented Instead of Modern Economics

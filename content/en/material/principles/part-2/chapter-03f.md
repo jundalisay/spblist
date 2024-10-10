@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 3e"
+heading: "Chapter 3f"
 title: "Equvalence Principle"
 # date: 2024-07-22
 weight: 18
-image: /photos/physics/fabric.jpg
+image: /graphics/physics/fabric.jpg
 description: "Gravity is caused by invisible spacetime particles are emitted equally in all directions from the center of a vortex"
 writer:
   name: Juan

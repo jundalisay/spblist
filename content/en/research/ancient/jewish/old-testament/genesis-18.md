@@ -1,6 +1,6 @@
 ---
 heading: Genesis 18
-title: "Ishmael and the Start of the Arab People"
+title: "Enki eats with Abraham"
 description: "Sarai, Abram’s wife, bare him no children. She had an Egyptian servant named Hagar"
 weight: 34
 image: "/covers/old.jpg"
@@ -115,15 +115,36 @@ ashes: {18:28}  -->
 Suppose there are only 45 righteous. Will you destroy all the city for [lack of] five?
 {{< /r >}}
 
+{{< l a="Enki" >}}
+If I find there forty and five, I will not destroy it.
+{{< /l >}}
 
-And he said, If I find there forty and five, I will not destroy [it. ]
 
-{18:29} And he spake unto him yet again, and said, if there are 40 found there. And he said, I
-will not do [it] for forty’s sake. {18:30} And he said [unto him,] Oh let not the Lord be angry, and I will speak: if there shall thirty be found there. And he said, I
-will not do [it,] if I find thirty there. {18:31} And he said,
-Behold now, I have taken upon me to speak unto the Lord:
-Peradventure there shall be twenty found there. And he said,
-I will not destroy [it] for twenty’s sake. 
+{{< r a="Abraham" >}}
+{18:29} If there are 40 found there?
+{{< /r >}}
+
+{{< l a="Enki" >}}
+I will not do [it] for forty’s sake.
+{{< /l >}}
+
+
+{{< r a="Abraham" >}}
+{18:30} Please do not be angry: if 30 shall be found there?
+{{< /r >}}
+
+{{< l a="Enki" >}}
+I will not do [it,] if I find thirty there.
+{{< /l >}}
+
+{{< r a="Abraham" >}}
+{18:31} If there shall be 20 found there?
+{{< /r >}}
+
+{{< l a="Enki" >}}
+I will not destroy [it] for twenty’s sake.
+{{< /l >}}
+
 
 {18:32} And he said, Oh let not the Lord be angry, and I will speak yet but
 this once: Peradventure ten shall be found there. And he

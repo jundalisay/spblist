@@ -10,7 +10,9 @@ image: "/covers/old.jpg"
 <sup>1</sup> When Isaac was old, and his eyes were dim, so that he could not see, he called Esau
 his eldest son, and said unto him:
 
-<sup>2</sup> I am old, I know not the day of my death: {27:3} Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me [some] venison; {27:4} And make me savoury meat, such as I love, and bring [it] to me, that I may eat; that my soul may bless thee
+<sup>2</sup> I am old, I know not the day of my death: 
+
+{27:3} Take your weapons, thy quiver and thy bow, and go out to the field, and take me [some] venison; {27:4} And make me savoury meat, such as I love, and bring [it] to me, that I may eat; that my soul may bless thee
 before I die. 
 
 <sup>5</sup> Rebekah heard this, Esau went to the field to hunt for venison.
