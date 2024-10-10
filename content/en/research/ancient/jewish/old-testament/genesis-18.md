@@ -1,6 +1,6 @@
 ---
 heading: Genesis 18
-title: "Ishmael and the Start of the Arab People"
+title: "Enki eats with Abraham"
 description: "Sarai, Abram’s wife, bare him no children. She had an Egyptian servant named Hagar"
 weight: 34
 image: "/covers/old.jpg"

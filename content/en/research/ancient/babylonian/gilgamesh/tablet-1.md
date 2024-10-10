@@ -15,58 +15,63 @@ Column I.
 
 (The Argument).
 
-1He who (the heart of) all matters hath proven let him [teach] the nation, [He who all] knowledge possesseth, therein shall he [school] all the people, [He shall his wisdom impart (?)] and (so) shall they ]share it] together. 
+He who (the heart of) all matters hath proven let him [teach] the nation, He who all knowledge possesseth, therein shall he school all the people.
 
-Gilgamesh] 2—he was the [Master] of wisdom, with [knowledge of all things,
+He shall his wisdom impart (?)] and (so) shall they ]share it] together. 
+
+Gilgamesh was the Master of wisdom, with knowledge of all things.
 
 5.He ’twas discovered the secret concealed . . . . . . . . .
 
-(Aye), handed down the tradition relating to (things) prediluvian,
-Went on a journey afar, (all) aweary and [worn with his toiling(?)],
-10.[Graved] on a table of stone all the travail.
-                                          Of Erech, the high-wall’d,
-He (it was) built up the ramparts; (and) he (it was) clamp’d the foundation,
+(Aye), handed down the tradition relating to things before the Flood. He went on a distant journey.
+
+ <!-- (all) aweary and [worn with his toiling(?)], -->
+
+He wrote on a tablet all of his experiences. 
+
+He built Erech as a high-walled city built up on the ramparts. He clamped the foundation,
 Like unto brass, of [E]-Anna 3, the sacred, the treasury hallow’d,
 [Strengthen’d] its base to grant wayleave to no [one] . . . . . .
 . . . . . the threshold which from [of old (?)] . . . . . .
-. . . . . [E]-Anna . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . [E]-Anna . . . . 
 15. . . . . to grant wayleave [to no one (?)] . . . . . . .
 
 (About thirty lines wanting. The description of Gilgamish runs on to the beginning of the next Column).
 
-Column II.
+### Column 2
 
-Two-thirds of him are divine, and [one-third of him human,] 4 . . .
+2/3 of him are alien [divine]. 1/3 of him human.
 
-The form of his body . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The form of his body..
 
-He hath forced to take . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+He was forced to take ..
 
 (Gap of about three lines).
 
-p. 10
-
-(The Plaint of Erech(?) to the gods against the tyrant Gilgamish)
+The Plaint of Erech to the gods against the tyrant Gilgamish
 
 7.“. . . . . . . . of Erech ’tis he who hath [taken],
 . . . . . . . . . (while) tow’reth [his] crest like an aurochs,
 
-10.Ne’er hath the shock of [his] weapons (its) [peer]; are driven [his] fellows
+10. Never hath the shock of [his] weapons (its) [peer]; are driven [his] fellows
+
 Into the toils 1, while cow’d are the heroes of Erech un- . . . . .
+
 Gilgamish leaveth no son to [his] father, [his] arrogance swelling
+
 (Each) day and [night]; [aye, he] is the shepherd of Erech, the high-[wall’d],
+
 15.He is [our(?)] shepherd . . . . [masterful, dominant, subtle] . . .
-[Gilgamish] leaveth no [maid to her mother, nor] daughter to [hero],
-[(Nay), nor a spouse to a husband]“
-                                         (And so), to (th’ appeal of) their wailing
-[Gave ear th’ Immortals]: the gods of high heaven address’d the god Anu], 2
-20.(Him who was) Seigneur of Erech: “’Tis thou a son hast begotten,
-(Aye, in sooth, all) tyrannous, [while tow’reth his crest like an aurochs],
-Ne’er hath [the shock of his weapons] (its) peer; are driven [his fellows]
-Into the toils, awhile cow’d are the heroes of Erech un- . . . .] 2.
+
+[Gilgamish] leaveth no [maid to her mother, nor] daughter to [hero], [(Nay), nor a spouse to a husband]“
+
+And so, to (th’ appeal of) their wailing [Gave ear th’ Immortals]: the gods of high heaven address’d the god Anu], 
+
+20.(Him who was) Seigneur of Erech: “’Tis thou a son hast begotten, (Aye, in sooth, all) tyrannous, [while tow’reth his crest like an aurochs], Ne’er hath [the shock of his weapons] (its) peer; are driven [his fellows] Into the toils, awhile cow’d are the heroes of Erech un- . . . .] 2.
 Gilgamish leaveth no son to his father, [his arrogance swelling]
 (Each) day and night; aye, he is the shepherd of Erech, [the high-wall’d],
 25.He is their shepherd . . . masterful, dominant, subtle . . .
+
 Gilgamish leaveth no maid to [her mother], nor daughter to hero,
 (Nay), nor a spouse to a [husband].”
                                       (And so), to (th’ appeal of) their wailing
