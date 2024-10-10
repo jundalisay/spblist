@@ -39,5 +39,5 @@ It manifests as radioactivity, chemical change, flavor changing, and is governed
 ![A Feynman diagram](/graphics/physics/feynman.jpg)
 
 
-In terms of creation, this is the fourth layer that processes energies and matter into other kinds 
+In terms of creation, this is the fourth layer that processes energies and matter into other kinds.
 

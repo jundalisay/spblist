@@ -12,6 +12,7 @@ icon: /icons/spmat.pn
 toc: false
 ---
 
+
 We propose a Modified Periodic Tables of Elements that replaces the names of elements with their atomic numbers.
 
 This is because Material Superphysics will open up new ways to create elements, leading to more elements. 

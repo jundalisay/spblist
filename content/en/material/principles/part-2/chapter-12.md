@@ -6,8 +6,9 @@ image: "/graphics/physics/francis.jpg"
 description: "Here we explain how gravity works"
 weight: 44
 icon: /icons/spmat.png
-# linked to public
+draft: true
 ---
+
 
 ### Gravity from Most3s
 

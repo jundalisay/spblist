@@ -160,9 +160,6 @@ We then apply his for Mercury's precession:
   - This uses spatial relativity using the speed of light 
 
 
-![Vulcan and Einstein's gravity](/graphics/gravrelm.png)
-
-
 This shows that Leverrier's solution is valid if Vulcan existed, just as Einstein's solution is valid if Mercury's core is large. It shows that Mercury's large core gives it its elliptical orbit just as comets have an elliptical orbit. We then infer that Mercury's precession and ellipse come from its core, giving it the dynamics of a comet or asteroid more than a planet.  
  -->
 <!-- This is useful for finding habitable planets in the future. --> 

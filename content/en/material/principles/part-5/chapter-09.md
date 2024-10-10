@@ -1,5 +1,5 @@
 ---
-heading: Chapter 5b
+heading: Chapter 9
 title: "The Fine and Hyperfine Structure of the Atom"
 # date: 2024-07-14
 image: /graphics/physics/hyperfine.jpg
@@ -44,6 +44,12 @@ Path | Orbiting Speed from Spacetime | Orbital Speed (Angular Momentum) from Aet
 
 - The "fine" structure is the relationality* of the electron's vortex rotation and its orbital speed in the aetherspace. 
 - The "hyperfine" structure is the relationality of the electron's vortex rotation, its orbital speed, and the vortex rotation of the nucleus in the aetherspace. 
+
+
+Structure | Relationality
+--- | ---
+Fine | electron vortex : electron orbital speed : 
+Hyperfine | electron vortex : electron orbital speed : nucleus vortex rotation 
 
 
 {{< n n="We avoid Relativity to avoid our concepts being associated with Einstein's ideas" >}}

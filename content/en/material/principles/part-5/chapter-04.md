@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: "The Substance of Matter: Protons"
 # date: 2023-12-10
-image: /photos/objects/water.jpg
+image: /photos/physics/neutrino.jpg
 description: "According to Physics, gravity comes from mass which then comes from the Higgs Field"
 writer:
   name: Juan

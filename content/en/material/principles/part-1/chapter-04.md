@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 4"
 title: "How the Free Aether Gets Rid of Supersymmetry"
 # # date: 2020-01-31
 image: "/photos/idea.jpg"

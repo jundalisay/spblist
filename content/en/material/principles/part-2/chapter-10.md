@@ -7,6 +7,5 @@ description: "Here we explain how gravity works"
 weight: 44
 draft: true
 icon: /icons/spmat.png
-# linked to public
 ---
 

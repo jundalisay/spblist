@@ -1,6 +1,5 @@
 ---
 heading: Chapter 19
-linkTitle: Chapter 1
 title: "The Material Planets in Space"
 # date: 2024-07-26
 image: /photos/physics/mars.jpg
@@ -12,6 +11,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 toc: false
+draft: true
 ---
 
 

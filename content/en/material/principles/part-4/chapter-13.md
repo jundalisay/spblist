@@ -15,3 +15,5 @@ toc: false
 draft: true
 ---
 
+Neutrino is for communication between objects in interstellar space. It uses the flow of neutrinos that travel from one to another.  
+

@@ -76,15 +76,15 @@ The **aether drag** therefore is the difference between an original idea and the
 
 Metaphysicians (such as historian-philosophers like David Hume and Ibn Khaldun) use this to test evolution of a society, idea, or species.
 
-> *A nation's history acts like a training dataset to predict what will happen to it, and is the origin of prophecy. We use machine learning to do the same thing -- [predict election results, recessions, war, etc](https://www.superphysics.org/social/cycles/predictions/). 
+
+{{< n n="*A nation's history acts like a training dataset to predict what will happen to it, and is the origin of prophecy. We use machine learning to do the same thing -- [predict election results, recessions, war, etc](https://www.superphysics.org/social/cycles/predictions/)." >}}
+ 
 
 In the paradigm of Cartesian physics, **Michelson-Morley were really testing the idea-of-the-speed-of-light-in-2-directions through their interferometer**. 
 
 
 {{< img src="/graphics/physics/michelson.jpg" alt="The aether drag" cap="The Michelson-Morley actually proved the metaphysical aether drag of the original Cartesian aether" >}}
   
-
-
 
 ### Two Ways to Test Aether Drag
 
@@ -122,5 +122,3 @@ Hindu monks use it to levitate to show off the superiority of Vedic principles.
 Taoists use it for health as Chi-gong and Traditional Chinese medicine which are cheaper and more sustainable than Western Medicine. It explains the longevity and huge population of the Chinese people.
 
 All of these cannot be mainstream while Einstein's General Relativity, and [the useless Kantian paradigm](/superphysics/fallacies/kant-apriori-fallacy) that it is based on, is in force. 
-
-

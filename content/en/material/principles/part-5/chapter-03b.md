@@ -7,7 +7,6 @@ image: /photos/physics/baseball.jpg
 description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
 weight: 6
 icon: /icons/spmat.png
-draft: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -44,15 +43,6 @@ GG : is the gravitational constant. -->
 
 
 
-
-
-
-
-
-
-
-
-
 According to Newton's Second Law, net force equals mass times acceleration. This is fine for ordinary things like a ball (mass) which is pushed (force) to start rolling (acceleration). 
 
 But what about a 50 kilogram Buddhist monk who floats and accelerates 1 meter/second {{< s v="2" >}} without any force? How can `0 = 50 1m/s^2`?   
@@ -66,8 +56,9 @@ To account for this, we modify Newton's vector into a Kepler tensor that transfo
 
 A 2D limiter that splits perceptions into seconds will convert `F = ma` on Earth into `Gm^1 [GP second] : Gm^2 [GP second]` based on the Earth's perspective `GP`*
 
-> *Qualimath does away with Greek notation
+{{< n n="*Qualimath does away with Greek notation" >}}
   
+
 
 ![Newton's second law of motion](/graphics/physics/fma.png)
 
@@ -83,13 +74,13 @@ E = Gm2 [GP second] - Gm1 [GP second]
 1 = 2 - 1
 ```
 
-#
 
 Thus, it took 1 unit of effort to levitate 1 meter/second^2 with zero physical force. 
 
 Note that this quantified effort is relevant only to the monk himself and cannot be used for comparison with the effort of other monks. It can only be compared to the past and future effort of that monk, where he compares himself with himself since the effort is metaphysical and bound to his own mind*.
 
-> *His mind is necessarily attached to his body which he moves by this kind of effort, without any force.  
+{{< n n="*His mind is necessarily attached to his body which he moves by this kind of effort, without any force." >}}
+
 
 
 ## Physical Force
@@ -100,21 +91,18 @@ We then apply the formula to a 50 kg block pushed forward accelerating constantl
 F = Gm2 [GP second] - Gm1 [GP second]
 ```
 
-#
 
 ```elixir
 50N = 100N - 50N
 ```
-
-#
 
 This gives us the same result as `F = m a`
 
 The main difference is that this new version splits the identity of the object into two or more different objects. The block at time 2 location 2 is different from the same block at time 1 location 1 in the sense that it has absorbed force and changed its locational attributes. This will then be useful for teleportation by a change in spin*.
 
 
-
-> *This is based on David Hume's [idea of the self](/bio/principles/intro/chapter-04) 
+{{< n n="*This is based on David Hume's [idea of the self](/bio/principles/intro/chapter-04)" >}}
+ 
 
 Newton's laws, however, see the object as the same object. This limits it to linear, forced movements.
 <!-- It focuses on the journey and not the destination.   -->
@@ -141,4 +129,3 @@ The `G` of Newton is the general push-force of the Material Aether* onto materia
 
 It follows that the `G` of the Milky way can be different from the `G` of other galaxies. This gives the diversity of galaxy colors and forms. 
 
-> *The universe has 5 layers and so 5 aethers. We call the material aether occasionally as "Descartes' Earth" or "Stokes Aether" 

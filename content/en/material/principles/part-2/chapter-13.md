@@ -25,7 +25,8 @@ The practical use of qosts is to enable levitation and teleportation technologie
 
 In addition, the perpetual creation or division of qosts leads to their mutual repulsion which can be tapped as a source of reliable energy. The proper control of qosts* will help make [nuclear fusion controllable](/material/principles/part-2/chapter-02).
 
-> *The qosts are subordinate to the aethereal layer and so they can be controlled from that layer.
+{{< n n="*The qosts are subordinate to the aethereal layer and so they can be controlled from that layer" >}}
+
 
 
 
@@ -50,7 +51,8 @@ Our proofs for such future technologies is evidenced by 4 artificial phenomena:
 3. The Egyptians lifting huge pyramid blocks without cranes*
 4. The Israelites making the walls of Jericho collapse (increase their gravity) via trumpets, without using any combustion or electric technology 
 
-> *There is a misconception that the Egyptians levitated the blocks in place. Based on our Elastic Theory of Gravity, this is highly unlikely. What the Egyptians did was to use anti-gravitation to make the blocks lighter, as to be easier to lift onto boats or onto their spots in the pyramid.
+{{< n n="*There is a misconception that the Egyptians levitated the blocks in place. Based on our Elastic Theory of Gravity, this is highly unlikely. What the Egyptians did was to use anti-gravitation to make the blocks lighter, as to be easier to lift onto boats or onto their spots in the pyramid." >}}
+
 
 
 Two of these phenomena have been recorded on video:
@@ -62,6 +64,8 @@ Two of these phenomena have been recorded on video:
 
 The common reaction of disbelievers is to reject such evidence. But without such evidence, then there is no hope of ever developing such technologies that those very disbelievers would benefit from (just as everyone now benefits from electric power).
 
-It would be like cavemen preferring that all humans stay as cavemen instead of upgrading themselves into modern humans who enjoy modern conveniences like the internet, healthcare, and manufacturing. This would happen if such caveman preferred easy skills such as hunting, gathering, and idol worship over advanced skills acquired many years from from preschool to university. 
+It would be like cavemen preferring that all humans stay as cavemen instead of upgrading themselves into modern humans who enjoy modern conveniences like the internet, healthcare, and manufacturing. 
+
+This would happen if such caveman preferred easy skills such as hunting, gathering, and idol worship over advanced skills acquired many years from from preschool to university. 
 
 The skillset for qost and aetherial technologies require much more education than what is currently available -- it would require everyone to learn both Western and Eastern philosophy (subjective aspects of reality), on top of data science and all the fields of maths (objective aspects).

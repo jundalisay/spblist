@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 5"
-title: "The Quantum of Aether as the Free Aether"
+title: "The Quantum of Aether: The Free Aether"
 # date: 2023-12-10
 date: 2014-08-01
 weight: 32
@@ -17,7 +17,7 @@ The Quantum of aether (qoa), more commonly manifesting as the free aether, is th
 
 This free aether is made up of monads which are the most basic unit in existence. 
 
-- In 
+- In Yogananda's philosophy, this is the lifetron 
 - In Essassani philosophy, this is called the prime radiant. 
 
 

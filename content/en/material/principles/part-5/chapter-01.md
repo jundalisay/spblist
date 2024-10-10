@@ -75,15 +75,3 @@ Strange | qom2b | 1/2 | 1/3 ♂ | 95 MeV/c^2
 Top | qom3a | 1/2 | 2/3 ♀ | 171.2 GeV/c^2
 Bottom | qom3b | 1/2 | 1/3 ♂ | 4.18 GeV/c^2
 
-
-<!-- The lightest quark, forms neutrons with 2 down quarks and<br> protons with 2 up and 1 down -->
-
-<!-- Positive +   -->
-<!-- | Physics Name | Superphysics Name | Spin | Physics Charge | Mass | Description |
-| --- | --- | --- | --- | --- | --- |
-| Up Quark | Light boy qom | 1/2 | +2/3 | 2.2 MeV/c2 | The lightest quark. <br>Forms neutrons with 2 down quarks and<br> protons with 2 up and 1 down |
-| Charm Quark | Woman qom | 1/2 | +2/3 | 1.275 GeV |  |
-| Top Quark | Heavy woman qom | 1/2 | +2/3 |  |  |
-| Down Quark | Light boy qom | 1/2 | -1/3 | 4.7 MeV/c2 |  |
-| Strange Quark | Boy qom | 1/2 | -1/3 | 95 MeV/c2 |  |
-| Bottom Quark | Heavy boy qom | 1/2 | -1/3 | 4.18 GeV/c2 |  | -->

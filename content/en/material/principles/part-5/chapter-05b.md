@@ -1,5 +1,5 @@
 ---
-heading: Chapter 5
+heading: Chapter 5b
 title: "Quantum Chromo Dynamics: Color Charges and Mesons"
 # date: 2024-07-14
 image: /graphics/physics/gravitya.jpg
@@ -22,8 +22,6 @@ Quantum Chromo Dynamics explains the Strong Force which has 3 properties:
 
 
 ### Mass Gap
-
-Mass Gap is the 
 
 The nature-based difference between `mass` and `potential` leads to a mass gap. 
 

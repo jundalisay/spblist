@@ -29,13 +29,13 @@ An example of the movement* of qoas or ideas is the movement of the idea of a ho
 
 <!-- Aethereal Bands are concerned with the movement of ideas* as qoas (quantum of aether), such as how  -->
 
-> *From the perspective of the Supreme Entity, all ideas are static and non-moving, and it is the created minds that move from one idea to another. However, our perspective as humans is from the created minds. And so, for the purposes of explanation, we will take the opposite view and see our minds as stationary and ideas as moving.
+{{< n n="*From the perspective of the Supreme Entity, all ideas are static and non-moving, and it is the created minds that move from one idea to another. However, our perspective as humans is from the created minds. And so, for the purposes of explanation, we will take the opposite view and see our minds as stationary and ideas as moving." >}}
 
 
 
 Like the movement of a ball from `point A` to `point B`, the movement of ideas is gradual and analog and not digital*, at least in our part of the multiverse. 
 
-> *There might be multiverses where a species invents a horse-carriage today and then is able to suddenly upgrade it into a Tesla Model 3 the next day.
+{{< n n="*There might be multiverses where a species invents a horse-carriage today and then is able to suddenly upgrade it into a Tesla Model 3 the next day." >}}
 
 
 Other examples of movement in the aethereal layer are:
