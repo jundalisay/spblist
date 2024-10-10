@@ -60,31 +60,55 @@ If you have any family here, bring them out of this place <sup>13</sup> because 
 
 <sup>14</sup> Lot went out, and spake unto his sons in law, which married his daughters, and said:
 
-Up, get you out of this place; for the LORD will destroy this city. But he seemed as one that
-mocked unto his sons in law. 
+{{< r a="Lot" >}}
+Get out of this place. Enki will destroy this city. 
+{{< /r >}}
 
 
-<sup>15</sup> When the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city. 
 
-<sup>16</sup> While he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the LORD being merciful unto him: and they brought him forth, and set him without the city.
+But he seemed as one that mocked unto his sons in law. 
 
-<sup>17</sup> It came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed. 
 
-<sup>18</sup> Lot said unto them:
+<sup>15</sup> When the morning arose, the agents hastened Lot, saying:
 
-Oh, not so, my Lord: <sup>19</sup> Your servant had found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die: {19:20} Behold now, this city is near to flee unto, and it is a little one: Oh, let me escape thither, ([is] it not a little one?) and my soul shall live. 
+{{< l a="Enki-Agents" >}}
+Arise, take your wife, and your 2 daughters which are here; lest thou be consumed in the iniquity of the city.
+{{< /l >}}
+
+
+<sup>16</sup> While he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters.
+
+Enki being merciful unto him: and they brought him forth, and set him without the city.
+
+<sup>17</sup> When they had brought them forth abroad, he said:
+
+{{< l a="Enki" >}}
+Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed. 
+{{< /l >}}
+
+
+<sup>18</sup> Lot said to them:
+
+
+{{< r a="Lot" >}}
+Oh, not so, Enki. <sup>19</sup> Your servant had found grace in your eyes. You have magnified your mercy, which you have showed to me in saving my life. I cannot escape to the mountain, lest some evil take me, and I die.
+<sup>20</sup> This city is near to flee unto, and it is a little one: Oh, let me escape thither, ([is] it not a little one?) and my soul shall live. 
+{{< /r >}}
 
 <sup>21</sup> He said to him:
 
-See, I have accepted thee concerning this thing also, that I will not overthrow this city, for the which thou hast spoken. {19:22} Haste thee, escape thither; for I cannot do any thing till thou be come thither. 
+{{< l a="Enki" >}}
+See, I have accepted you concerning this thing also, that I will not overthrow this city, for the which thou hast spoken. {19:22} Haste thee, escape thither; for I cannot do any thing till thou be come thither. 
+{{< /l >}}
 
-Therefore the name of the city was called Zoar. {19:23} The sun was risen upon the earth when Lot
-entered into Zoar.
 
-<sup>24</sup> Then the LORD rained on Sodom and Gomorrah brimstone and fire from Enki. 
+Therefore the name of the city was called Zoar. 
 
-<sup>25</sup> He overthrew those cities, and all the plain, and all the inhabitants of the cities,
-and that which grew upon the ground.
+{19:23} The sun was risen upon the earth when Lot entered into Zoar.
+
+<sup>24</sup> Then Enki rained on Sodom and Gomorrah brimstone and fire. 
+
+<sup>25</sup> He overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground.
 
 <sup>26</sup> But his wife looked back from behind him, and she became a pillar of salt.
 

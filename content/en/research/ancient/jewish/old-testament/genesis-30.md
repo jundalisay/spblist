@@ -8,36 +8,31 @@ image: "/covers/old.jpg"
 
 
 
-{30:1} Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob:
+<sup>1</sup> Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob:
 
 Give me children, or else I die. 
 
-{30:2} And Jacob’s anger was kindled against Rachel: and he said, 
+<sup>2</sup> Jacob’s anger was kindled against Rachel: and he said, 
 
 [Am] I in Enki’s stead, who hath withheld from thee the fruit of the womb? 
 
-{30:3} She said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees that I may also have children by her. 
+<sup>3</sup> She said:
 
-{30:4} And she gave him Bilhah her handmaid to wife: and Jacob went in unto her. {30:5} And Bilhah
-conceived, and bare Jacob a son. {30:6} 
-
-Rachel said, Enki had judged me, and hath also heard my voice, and
-hath given me a son: therefore called she his name Dan.
+Behold my maid Bilhah, go in unto her; and she shall bear upon my knees that I may also have children by her. 
 
 
-{30:7} Bilhah Rachel’s maid conceived again, and
-bare Jacob a second son. {30:8} And Rachel said, With
-great wrestlings have I wrestled with my sister, and I have
-prevailed: and she called his name Naphtali. {30:9} When
-Leah saw that she had left bearing, she took Zilpah her
-maid, and gave her Jacob to wife. {30:10} And Zilpah
-Leah’s maid bare Jacob a son. 
+<sup>4</sup> She gave him Bilhah her handmaid to wife: and Jacob went in unto her. 
 
-{30:11} And Leah said, A
-troop cometh: and she called his name Gad. {30:12} And
-Zilpah Leah’s maid bare Jacob a second son. {30:13} And
-Leah said, Happy am I, for the daughters will call me
-blessed: and she called his name Asher.
+<sup>5</sup> Bilhah conceived, and bare Jacob a son. <sup>6</sup> Rachel said, Enki had judged me, and hath also heard my voice, and hath given me a son: therefore called she his name Dan.
+
+<sup>7</sup> Bilhah Rachel’s maid conceived again, and bare Jacob a second son. {30:8} And Rachel said, With great wrestlings have I wrestled with my sister, and I have prevailed: and she called his name Naphtali. 
+
+{30:9} When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife. {30:10} And Zilpah Leah’s maid bare Jacob a son. 
+
+{30:11} And Leah said, A troop cometh: and she called his name Gad. {30:12} And
+Zilpah Leah’s maid bare Jacob a second son. 
+
+{30:13} And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher.
 
 {30:14} And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray
 thee, of thy son’s mandrakes. {30:15} And she said unto

@@ -10,18 +10,15 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 52
 icon: /icons/spmat.png
+draft: true
 ---
 
 
+### The Post-Cartesian Corruption of the Aether
 
-The biggest blow to the aether principle was the failure of the Michelson-Morley experiment to detect the aether drag.
+Acccording to 19th century physicists, specifically Maxwell, the ether was the medium on which light traveled.
 
-
-## The Post-Cartesian Corruption of the Aether
-
-Acccording to 19th century physicists, specifically Maxwell, the aether was the medium on which light traveled.  
-
-In order to detect this 'luminiferous ether', Michelson and Morley created an 'interferometer' to make 2 light rays move in different directions in order to see whether they travelled in different speeds. A difference would mean that the aether was acting on one ray more than the other. 
+In order to detect this 'luminiferous ether' medium, Michelson and Morley created an 'interferometer' to make 2 light rays move in different directions in order to see whether they travelled in different speeds. A difference would mean that the aether was acting on one ray more than the other. 
 
 The result showed that both rays travelled at the same speed, and so the ether did not exist. 
 
@@ -45,7 +42,9 @@ If one assumes the theory of Fresnel, then its meaning rather lies in the fact, 
 
 ## Einstein Destroys the Aether
 
-This malleable space was exploited by the sophist Einstein who added **time** in to the mix in order to create Minkowski 4-dimensional space. He then pegged this new 'spacetime' to the speed of light, called `c`, in order to create Special Relativity, and then General Relativity. 
+This malleable space was exploited by the sophist Einstein who added **time** in to the mix in order to create Minkowski 4-dimensional space. 
+
+He then pegged this new 'spacetime' to the speed of light, called `c`, in order to create Special Relativity, and then General Relativity. 
 
 The huge problem with this (and is the reason why we demonize Einstein as a scammer and [nuclear-weapons promoter](https://www.businessinsider.com/albert-einstein-wrote-letter-us-roosvelt-atomic-bomb-2019-8)) is that **light is part of the electromagnetic (radiant) layer which is inferior to both the spacetime and aetheral layers**.
 
@@ -55,7 +54,7 @@ In the correct and original Cartesian theory, the aether is really 'aetheral air
 
 Fresnel* seems to have forgotten this division and put the aether in the same dimension as light.   
 
-> *We are still looking into Fresnel's work to verify this. However,  we see that Huygens makes this mistake immediately and so we say generally that the error originated from post-Descartes physicists. 
+<!-- > *We are still looking into Fresnel's work to verify this. However,  we see that Huygens makes this mistake immediately and so we say generally that the error originated from post-Descartes physicists.  -->
 
 
 

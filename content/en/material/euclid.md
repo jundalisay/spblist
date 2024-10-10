@@ -12,13 +12,16 @@ icon: /icons/spmat.png
 
 In Book 1 of "[Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements)", Euclid gives 5 Postulates which people think are about geometry.
 
-This is why they get so confused with Postulate 5 which is about 2 straight lines meeting. This makes people think that Euclid was talking about Geodesics and spherical geometry which they call as non-Euclidean.
+This is why they get so confused with Postulate 5 which is about 2 straight lines meeting. This makes people, such as Gauss, think that Euclid was talking about Geodesics and spherical geometry which they call as non-Euclidean.
+
+This non-Euclidean thinking was then used by Einstein to justify Riemann curvature, which is very complicated. 
 
 Johannes Kepler denounced such shallowness. In fact, he bases his planetary orbits in Euclidean geometry, specifically in Book 10. There is no need for geodesics is Kepler's theories.
 
 We side with Kepler and emphasize that Euclid's Elements are about the dynamics of the 5 Elements: Aether, Air, Fire, Water, and Earth. 
 
-These were called Akasha, Vayu, Tejas, Jala, and Pritvi by the Hindus, and by 水,木,火,土,and 金 by the Chinese. Nowadays, these are called Aether, Spacetime, Electromagnetism, Weak Force, and Strong Force by Physics. 
+These were called Akasha, Vayu, Tejas, Jala, and Pritvi by the Hindus, and by 水,木,火,土,and 金 by the Chinese. Nowadays, these are called Aether, Spacetime, Electromagnetism, Weak Force, and Strong Force by Physics.
+
 
 <!-- The simplest concept is Ren, which is literally your name
 
@@ -81,5 +84,3 @@ The main problem is that the later generations did not know about the 5 Elements
 Newton added to the problem by using his Calculus (which is ignorant of the 5 Elements) to bulldoze over the underlying propositions of Kepler's Laws. 
 
 Therefore, saying 'non-Euclidean geometry' is as absurd as saying 'non-universal universe'. Spherical (non-Euclidean, Riemann) Geometry and geodesics are really a mix of Postulates 2 and 3, just as Einstein used c for spacetime. 
-
-

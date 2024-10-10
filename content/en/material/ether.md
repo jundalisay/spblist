@@ -22,7 +22,6 @@ Electromagnetism | Fire-Aether or 1st Element
 Spacetime | Air-Aether or 2nd Element
 Quantum Fields | Pure Aether
 
- <!-- are called earth-aether, water-aether, fire-aether, air-aether, and pure aether respectively.  -->
 
 It has a hierarchy, with the pure aether being superior to the air-aether and so on. That is, spacetime can gravitate light, but light cannot gravitate spacetime. 
 

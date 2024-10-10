@@ -56,4 +56,12 @@ Since it exists behind spacetime, the normal Cartesian or Galilean coordinates w
 
 This visualization tool can then reveal the five main Platonic solids that make up the universe, a concept that the Greeks learned from the ancient Egyptians. 
  -->
+
+### The Aether Drag and Aether Dash 
+
+The aether drag is the slowness of the gap between actuality and potentiality.
+
+The aether dash is the speed of the elimination of that gap.
+
+
  

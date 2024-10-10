@@ -16,7 +16,9 @@ According to General Relativity, the orbit of Mercury shifts or precesses becaus
 
 Under General Relativity , the precession of a planet can only be known by knowing the revolution "T", eccentricity "e", and orbit of a planet "a" beforehand, all requiring light or c. This means it has to wait for many observations before it can arrive at an answer.
 
-In our quest to break free from the shackles of light and the arbitrary spacetimes enabled by by Einstein, we introduce the Theory of Gravitational Relativity based on Kepler's ratios. Unlike Relativity which sources movement from an external spacetime, Gravitational Relativity sources movement from the internal core of objects, whether they be planets, galaxies, or ballpens. 
+In our quest to break free from the shackles of light and the arbitrary spacetimes enabled by by Einstein, we introduce Cartesian Relationality which implements Kepler's ratios. 
+
+Unlike Relativity which sources movement from an external spacetime, Gravitational Relativity sources movement from the internal core of objects, which we call gravitational signature, whether they be planets, galaxies, or ballpens. 
 
 It explains that Mercury's precession is caused by its core being 75% of its mass. This is different from the core of Earth and Venus which are 30% of its mass, and Mars which is 25%. This gives it the dynamics of a comet instead of a planet. This is supported by asteroid PH27 which has a bigger precession than Mercury. 
 

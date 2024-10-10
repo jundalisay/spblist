@@ -13,25 +13,25 @@ image: "/covers/old.jpg"
 
 {{< l a="Abraham" >}}
 My Lord, if now I have found favour in thy sight, pass not away, I pray thee, from thy
-servant: {18:4} Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree.
+servant: <sup>4</sup> Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree.
 
-{18:5} I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant.
+<sup>5</sup> I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant.
 {{< /l >}}
 
 
 They said: Yes please.
 
-{18:6} Abraham hastened into the tent unto Sarah, and said:
+<sup>6</sup> Abraham hastened into the tent unto Sarah, and said:
 
 {{< l a="Abraham" >}}
 Make ready quickly 3 measures of fine meal, knead it, and make cakes upon the hearth. 
 {{< /l >}}
 
-{18:7} Abraham ran to the herd and fetched a tender and good calf and gave it to a young man who hasted to dress it. 
+<sup>7</sup> Abraham ran to the herd and fetched a tender and good calf and gave it to a young man who hasted to dress it. 
 
-{18:8} He took butter and milk, and the calf which he had dressed, and set [it] before them; and he stood by them under the tree, and they did eat.
+<sup>8</sup> He took butter and milk, and the calf which he had dressed, and set [it] before them; and he stood by them under the tree, and they did eat.
 
-{18:9} They said to him:
+<sup>9</sup> They said to him:
 
 {{< l a="Enki-Agents" >}}
 Where is Sarah your wife?
@@ -46,16 +46,18 @@ In the tent
 {{< /l >}}
 
 
-Sarah heard [it] in the tent door, which [was] behind him. {18:11} Now Abraham and Sarah [were] old [and] well stricken in age; [and] it ceased to be with Sarah after the manner of women.
+Sarah heard [it] in the tent door, which [was] behind him. 
 
-{18:12} So Sarah laughed saying: 
+<sup>11</sup> Abraham and Sarah [were] old [and] well stricken in age; [and] it ceased to be with Sarah after the manner of women.
+
+<sup>12</sup> So Sarah laughed saying: 
 
 {{< r a="Sarah" >}}
 After I am waxed old shall I have pleasure, my lord being old also? 
 {{< /r >}}
 
 
-{18:13} Enki asked Abraham:
+<sup>13</sup> Enki asked Abraham:
 
 
 {{< l a="Enki" >}}
@@ -65,7 +67,7 @@ Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am ol
 {{< /l >}}
 
 
-{18:15} Then Sarah denied, saying:
+<sup>15</sup> Then Sarah denied, saying:
 
 No I didn't laugh
 
@@ -81,7 +83,7 @@ on the way.
 
 
 {{< l a="Enki" >}}
-{18:17} Shall I hide from Abraham that thing which I do; {18:18} Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?  {18:19} For I know him, that he will command his children and his household after him, and they shall keep the way of Enki, to do justice and judgment; that Enki may bring upon Abraham that which he hath spoken of him.
+<sup>17</sup> Shall I hide from Abraham that thing which I do; {18:18} Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?  {18:19} For I know him, that he will command his children and his household after him, and they shall keep the way of Enki, to do justice and judgment; that Enki may bring upon Abraham that which he hath spoken of him.
 
 {18:20} The cry of Sodom and Gomorrah is great. Their sin is very grievous. {18:21} I will go down now, and see whether they have done altogether according to the cry of it, which is come
 unto me; and if not, I will know.

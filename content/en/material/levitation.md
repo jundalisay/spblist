@@ -14,7 +14,8 @@ icon: /icons/spmat.png
 
 The Relativity of Einstein is totally debunked by the reality of non-magnetic levitation. This is done through the cancellation of the most1's which is done by aligning the channels in the atoms for them to pass through. 
 
-This alignment is done through the force of the aether or moa2. 
+This alignment is done through the force of the aether or moa2.
+
 <!-- 
 Here, we explain Effort as implemented to create action-at-a-distance, something that is not known in Physics. This is  because Einstein cancelled the aether which facilitates it. 
 
