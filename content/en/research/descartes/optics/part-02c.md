@@ -45,7 +45,9 @@ Likewise, the action of the fire-aether:
 - can be much more hindered by the air particles, which are soft and poorly joined, than by those of water, which make more resistance
 - can even be more hindered by those of water than by those of glass or crystal. 
 
-Therefore, the smaller particles of a transparent body are harder and firmer. The more easily they allow light to pass through, because this light does not need to displace any of them from their places, unlike a ball that must displace those of the water to find passage among them.
+Therefore, the smaller particles of a transparent body are harder and firmer. 
+
+*The more easily they allow light to pass through, because this light does not need to displace any of them from their places, unlike a ball that must displace those of the water to find passage among them.
 
 Moreover, * knowing thus the cause of the refractions that occur in water and glass, and commonly in all other transparent bodies around us, one can remark that they must be all similar, when the rays exit from these bodies and when they enter them. 
 

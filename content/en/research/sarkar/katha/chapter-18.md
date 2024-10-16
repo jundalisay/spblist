@@ -14,6 +14,7 @@ I had not put the matter of the appeal for the reconsideration of my demotion I 
 
 I had therefore become alert and arranged that no one should mention anything about this to Baba and requested all my friends not to allude to my problems in front of Baba.
 
+
 ## APRIL 1, 1955: MORNING
 
 My brother disciple and colleague Shri Harivansha Jha of Mithila told me that the appeal against my demotion had been turned down. 
@@ -73,6 +74,7 @@ I said, "Baba, I have no names to mention."
 Baba again repeated "Nagina - I am short of time. I am giving you this last opportunity. You will have to mention the names of those whom you want to be punished,”
 
 I said, "Baba, I shall not mention any name. If punishment has to be given here I am, punish me to the extent necessary,” Baba said at this, "Do not talk of principle at this moment - remain in reality."
+
 I said, "No Baba - I do not want anyone to be punished."
 
 In order to change the topic I said, "Baba two more brother disciple are standing outside. May I be permitted to call them in?”
@@ -81,10 +83,13 @@ But Baba did not give His permission.
 
 Then I said, "Baba, one of them has brought the proof of the book 'Ananda Marga'. Kindly have a look at it."
 
-Baba dismissed my suggestion with a wave of His hand. He was still standing, so now I requested that He may sit down so that I could do my pranam to him. To this He agreed, sitting on the chair, adding that He had very little time. I did my sastaunga pranam and Baba blessed me. 
+Baba dismissed my suggestion with a wave of His hand. He was still standing, so now I requested that He may sit down so that I could do my pranam to him. 
 
-After this, Baba remained seated, so I sat at His feet and began to massage them.I had been apprehensive all afternoon, and when I heard Baba saying that He
-was short of time and asking me the names of those who were to be punished, my anxiety increased further. Hot alarm surged through me like flames blazing up from the coals at a blast from the bellows.
+To this He agreed, sitting on the chair, adding that He had very little time. I did my sastaunga pranam and Baba blessed me. 
+
+After this, Baba remained seated, so I sat at His feet and began to massage them.I had been apprehensive all afternoon, and when I heard Baba saying that He was short of time and asking me the names of those who were to be punished, my anxiety increased further. 
+
+Hot alarm surged through me like flames blazing up from the coals at a blast from the bellows.
 
 Baba was sitting silently as I massed His feet in great perturbation of mind when I began to feel that His feet were getting cold.
 
@@ -112,7 +117,9 @@ During this exchange, I had been holding His feet firmly and felt them now becom
 
 Seeing no other course open to me, I twisted myself around His feet and began to beseech, "Baba! Do not leave us orphans and helpless in this manner !”
 
-Now I closed my ears to all Baba’s remonstrances and only repeated insistently, "Baba some how or other you must remain amidst us. You have twice assured us that you are taking a samkalpa to live a long time, but in fact, both the times you deceived us." 
+I closed my ears to all Baba’s remonstrances and only repeated insistently, "Baba some how or other you must remain amidst us. 
+
+You have twice assured us that you are taking a samkalpa to live a long time, but in fact, both the times you deceived us." 
 
 My condition was bizarre; I was weeping as well as speaking, but Baba appeared unmoved.
 

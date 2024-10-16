@@ -17,7 +17,7 @@ In the 19th century, nearly all physicists embraced the [luminiferous aether](ht
 The belief that an aether wind was propelling light forward. This meant that perpendicular light beams would have different speeds -- one should be slower than the other. 
 
 
-{{< i s="/graphics/physics/huygenschap1d.png" a="Huygens aether" c="The Huygens aether is actually the 2nd Element of Descartes or spacetime" >}}
+{{< i s="/graphics/physics/huygenschap1d.png" a="Huygens aether" c="The Huygens aether is actually the 2nd Element of Descartes or spacetime, different from the pure aether (what we call the 0th Element)" >}}
 
 <!-- All that was needed was to get proof of the aether by measuring the changes in the speed of light in different times in a year. Such changes would then be evidence of an 'aether wind' that 'blew' light. 
 

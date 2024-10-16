@@ -47,7 +47,7 @@ The end of all flesh is come before me. The earth is filled with violence throug
 {{< l a="Enki" >}}
 <sup>14</sup> Make an ark of gopher wood with rooms, pitch it within and without with pitch. <sup>15</sup> The length of the ark shall be 300 cubits, the width 50 cubits, and height 30 cubits. <sup>16</sup> A window shalt thou make to the ark, and in a cubit shalt thou finish it above. The door of the ark shalt will be on the side with a lower, second, and third story. 
 
-<sup>17</sup> Enlil will bring a flood of waters on the earth, to destroy all flesh, wherein [is] the breath of life, from under heaven; and every thing that [is] in the earth shall die. <sup>18</sup> But with you will I establish my covenant. You with your sons, their wives and your wife will come into the ark. 
+<sup>17</sup> Enlil will bring a flood on the earth, to destroy all flesh, wherein is the breath of life, from under heaven. Every thing that is in the earth shall die. <sup>18</sup> But with you will I establish my covenant. You with your sons, their wives and your wife will come into the ark. 
 {{< /l >}}
 
 
@@ -58,6 +58,7 @@ The end of all flesh is come before me. The earth is filled with violence throug
 
 <sup>21</sup> Take all the food that you can as it shall be for food for you and for them.
 {{< /l >}}
+
 
 <sup>22</sup> Thus did Noah according to all that Enki commanded him.
 

@@ -56,7 +56,7 @@ There are some 200,000 war elephants and many small horses.
 The people are devout Buddhists. There are, some 300 foreign women, called a-nan or slave dancing-girls, who dance and offer food to the Buddha. 
 
 
-Lewdness is not considered criminal. 
+**Lewdness is not considered criminal.**
 
 Theft is punished by:
 - cutting off a hand and a foot and 

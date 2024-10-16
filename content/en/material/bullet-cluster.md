@@ -10,7 +10,7 @@ icon: /icons/spmat.png
 ---
 
 
-In the 1640's Descartes explained Gravitational Lensing as the refraction of starlight. 
+In the 1640's, Descartes explained Gravitational Lensing as the refraction of starlight. 
 
 However, unlike the gravitation of Newton or the lensing of Einstein which are based on mass, it is based on the 2nd Element as invisible spacetime particles.  
 

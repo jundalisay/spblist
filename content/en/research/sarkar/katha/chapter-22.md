@@ -9,9 +9,7 @@ author: Nagina
 
 
 
-One summer evening, I was fortunate to have a walk with Baba. When we reached the crossing near the Jamalpur Railway Station, we met the then General Secretary of Ananda Marga , Shri Pranay Kumar Chatterjee, who was coming on a
-bicycle. He was in western dress and by now he was an acarya. As his cycle was
-moving on a slope, he lowered his speed and mentally saluted Baba. Baba also
+One summer evening, I was fortunate to have a walk with Baba. When we reached the crossing near the Jamalpur Railway Station, we met the then General Secretary of Ananda Marga , Shri Pranay Kumar Chatterjee, who was coming on a bicycle. He was in western dress and by now he was an acarya. As his cycle was moving on a slope, he lowered his speed and mentally saluted Baba. Baba also
 accepted his salutation and gave his blessings. The General Secretary did not stop and
 moved on towards his destination.
 

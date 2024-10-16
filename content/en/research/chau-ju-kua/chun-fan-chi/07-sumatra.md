@@ -30,7 +30,7 @@ The people either live scattered about outside the city, or on the water of boar
 
 They are skilled at fighting on land or water.
 
-When they are about to make war on another state, they assemble and send forth such a force as the occasion demands. They (then) appoint chiefs and leaders, and all provide their own military equipment and the necessary provisions.
+When they are about to make war on another state, they assemble and send forth such a force as the occasion demands. They then appoint chiefs and leaders, and all provide their own military equipment and the necessary provisions.
 
 In facing the enemy and braving death, they do not have any equals in other nations. 
 
@@ -45,13 +45,13 @@ Their domestic animals are very much like those of China.
 They have wine of coconuts, and wine of areca nuts and honey, all fermented and intoxicating, though without yeast. 
 
 
-In writing official documents, they use foreign characters, and the king's signet is used as a seal. 
-- They also know Chinese characters which they use in sending memorials to (our) court.
+In writing official documents, they use foreign characters. The king's signet is used as a seal. 
+- They also know Chinese characters which they use in sending memorials to our court.
 
 
 The laws of Sumatra are very severe. Adultery exposes man and woman to death. 
 
-When the king dies, the common people mourn by shaving their heads. His personal followers  choose voluntary death by leaping into the blazing pyre. This is called diving and dying together.
+When the king dies, the common people mourn by shaving their heads. His personal followers choose voluntary death by leaping into the blazing pyre. This is called diving and dying together.
 
 They have a kind of image called Hill of Gold and Silver, cast in gold. 
 
@@ -162,7 +162,9 @@ Sumatra had relations with China since the Tang empire from 904-907. It sent tri
 
 It was invaded by Java in 992 and asked for an Imperial manifesto authorizing it to render obedience.
 
-In 1003, a Buddhist temple was built in Malaysia to pray for the Emperor's life. They asked for a name and a bell be given to it. The Chinese emperor approved and ordered that Chong-fien-wan-shou should be the name of the temple, and also gave it a bell. 
+In 1003, a Buddhist temple was built in Malaysia to pray for the Emperor's life. 
+
+They asked for a name and a bell be given to it. The Chinese emperor approved and ordered that Chong-fien-wan-shou should be the name of the temple, and also gave it a bell. 
 
 
 <!-- 5
@@ -838,5 +840,3 @@ in western or southern Sumatra.
 8.
 
 -->
-
-

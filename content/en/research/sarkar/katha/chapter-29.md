@@ -84,11 +84,14 @@ along with Baba. I told him that I wanted to take Baba to my residence for some 
 Though it would mean some trouble for Baba, but my house would be purified by His
 presence and my family would feel blessed. He said that he would certainly put my
 request before Baba. He did so and then called me in.
+
 BABA VISITS MY HOUSE
+
 My request to Baba to visit my house was supported by the General Secretary,
 and Baba agreed to come for sometime. He was to come by noon and I was ready with
 a car in advance. Baba came out at the fixed time and sat in the car, and I drove Baba
 to my residence.
+
 Every member of my family and myself got the opportunity to do our sastaunga
 pranam before Baba. I was so flooded with emotion due to the immense pleasure, that
 tears began to flow from my eyes and my voice was choked. I placed some fruits and
@@ -97,12 +100,14 @@ with a glass of water in her hands. With great persistence, I took one rasgulla 
 mouth. Baba took a very small bite and we were all highly pleased. Then Baba said,
 “Enough”, and took the glass of water from my wife’s hand. The rest of the fruits and
 sweets we ate as prasad.
+
 Baba sat for sometime and talked with the children and then got ready to leave.
 All of us did our sastaunga pranam again and then I took Him to the residence ofGaunga Sharanji which was close by. Shrii Gaunga Sharanji was standing ready to
 welcome Baba. He took Baba to his drawing room. Baba stayed there for sometime
 and then left for Prem Bahadurji’s bungalow.
 While returning from Gaunga Sharanji’s house I asked Baba why non-Margiis
 were not allowed in the DMC.
+
 Baba said, “If some non-Margii would have an evil thought in the DMC about
 me, nature rebounds this immediately even without my wishing it, and he might be
 harmed. This is the reason why non-Margiis are not allowed in DMC.”
@@ -121,6 +126,7 @@ devotees, most worshipful Baba, arrived in the DMC and cries of "Victory to Baba
 the air as the devotees welcomed Him. Baba who is bliss Himself took his seat. Shrii
 Kishanji and Sakaldeoji offered their garlands to Baba and one of the devotees began
 to sing a welcome song.
+
 As soon as Baba entered, the whole atmosphere became electrified. That sight
 was worth seeing. Someone was vibrating and his limbs were trembling and others
 were looking at Him with unblinking eyes. Someone was crying, “Baba’ Baba”,
@@ -164,4 +170,3 @@ with Baba but they also consider themselves to be His children. Baba also respon
 these relationships with equal love. After more than twenty-five years, these
 relationships have flowered into great devotional expressions. Blessed is the family of
 Ram Khelavanji .All his daughters are like Miiras of this age.
-

@@ -71,7 +71,7 @@ The rest of the water that fills the space from `B` to `I` resists it more than 
 Since it loses half of its velocity while crossing the fabric `CBE`, it must take twice as much time to pass below from B to some point on the circumference of the circle `AFD` as it took to come from `A` to `B` above.
 
 
-Since it doesn't lose any of the determination it had to advance towards the right side, in twice the amount of time it took to pass from line `AC` to `HB`, it must cover twice the distance towards the same side and consequently reach some point on the straight line `FE` at the same moment it also reaches some point on the circumference of the circle AFD. 
+Since it does not lose any of the determination it had to advance towards the right side, in twice the amount of time it took to pass from line `AC` to `HB`, it must cover twice the distance towards the same side and consequently reach some point on the straight line `FE` at the same moment it also reaches some point on the circumference of the circle AFD. 
 
 This would be impossible if it did not go towards `I`, given that it is the only point below the fabric CBE where the circle AFD and the straight line FF intersect.
 
@@ -93,7 +93,9 @@ Figure # 8
 Fig 9 -->
 
 
-And we can note here that the ball is deflected all the more by the surface of the water or the net, the more obliquely it encounters it, so that if it encounters it at a right angle, as when it is pushed from H to B, it must pass straight through in a line towards G, without deviating at all. But if it is pushed along a line like AB, which is so inclined with respect to the surface of the water or the net CBE, that the line FE, being drawn as before, does not cut across the circle AD, this ball should not penetrate it at all, but bounce back from its surface B into the air L, just as if it had encountered earth. This has been observed on occasion with regret, when, for entertainment, artillery pieces were fired towards the bottom of a river, and those on the opposite bank were injured.
+The ball is deflected all the more by the surface of the water or the net, the more obliquely it encounters it, so that if it encounters it at a right angle, as when it is pushed from H to B, it must pass straight through in a line towards G, without deviating at all. 
+
+But if it is pushed along a line like AB, which is so inclined with respect to the surface of the water or the net CBE, that the line FE, being drawn as before, does not cut across the circle AD, this ball should not penetrate it at all, but bounce back from its surface B into the air L, just as if it had encountered earth. This has been observed on occasion with regret, when, for entertainment, artillery pieces were fired towards the bottom of a river, and those on the opposite bank were injured.
 
 
 Fig 10

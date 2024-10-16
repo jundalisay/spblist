@@ -19,8 +19,9 @@ one pointed and aborting Baba’s divine words in full concentration. -->
 Baba’s voice was so sweet and thrilling that a lady devotee transcended her environment and rose to dance in a blissful state. The environment was now surcharged with powerful spiritual vibrations. It was the play of Baba. He stopped the
 dance also in a most easy and playful manner. 
 
-Without looking in the direction of the dancer, Baba moved his right hand in the posture of abhaya and moved the hand
-upwards and downwards. As he did this that lady lay down and went into deep sleep
+Without looking in the direction of the dancer, Baba moved his right hand in the posture of abhaya and moved the hand upwards and downwards.
+
+As he did this that lady lay down and went into deep sleep
 and could return to her normally only after the DMC and Baba and all the Margiis had
 left the hall.
 

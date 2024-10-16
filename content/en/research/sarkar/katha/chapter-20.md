@@ -133,4 +133,3 @@ Out of these, 37 of them had still retained their bodies up to 1955.
 They used to come at least once in the year to have the darshan of Baba's physical body. The majority of these people were doing sadhana in the forests. All of them had attained the final goal of sadhana.
 
 Knowing these things from Baba Himself, I felt extremely grateful and felt still more fortunate that I had been related to Baba in my previous life.
-

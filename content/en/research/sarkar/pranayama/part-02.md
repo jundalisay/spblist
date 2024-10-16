@@ -114,7 +114,9 @@ When one is not having clear motions, scope of Devadatta does not increase, in t
 
 How does Dhanainjaya Vayu work? 
 
-Different nerve‑cells, nerve‑fibres, blood‑arteries, and glands of the human body get properly operated more in the sunlight, and get tired. Moonlight increases this tiredness. 
+Different nerve‑cells, nerve‑fibres, blood‑arteries, and glands of the human body get properly operated more in the sunlight, and get tired. 
+
+**Moonlight increases this tiredness.** 
 
 As a consequence, men sleep during the night under the influence of Dhananjaya. 
 

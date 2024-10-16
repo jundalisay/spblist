@@ -92,8 +92,8 @@ I said, "No Baba, his behaviour towards me is like that of relation." When I was
 
 Baba was extremely kind and smilingly said, "Give him my postal address and let him find me out." I felt gratified and paid my respects. 
 
-As per Baba's instructions I informed my boss by letter about Baba's address.Some days after receiving my letter, Asthanaji came to Monghyr and called me there
-for some work. Towards evening the work was finished, but I could not return and there
-was no steamer service during the night. Seeing an opportunity, I came to Jamalpur for
-Baba's darshan.
+As per Baba's instructions, I informed my boss by letter about Baba's address. 
 
+Some days after receiving my letter, Asthanaji came to Monghyr and called me there for some work.
+
+Towards evening the work was finished, but I could not return and there was no steamer service during the night. Seeing an opportunity, I came to Jamalpur for Baba's darshan.

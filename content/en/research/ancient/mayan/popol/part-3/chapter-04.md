@@ -19,7 +19,7 @@ But their hearts were tired of waiting for the sun. Already all the tribes and t
 
 Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam said:
 
-"Let us go, let us go to search and see if our [tribal] symbols are in safety; if we can find what we must burn before them. For being as we are, there is no one who watches for us".
+"Let us go to see if our tribal symbols are in safety so we can find what we must burn before them. For being as we are, there is no one who watches for us".
 
 Having heard of a city, they went there.
 
@@ -29,9 +29,9 @@ This was the name of the city where they went to receive their gods.
 
 All arrived at Tulán. It was impossible to count the men who arrived. There were very many and they walked in an orderly way.
 
-Then was the appearance of their gods; first those of Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam, who were filled with joy: 
+Then their gods appeared. First were those of Balam-Quitzé, Balam-Acab, Mahucutah, and Iqui-Balam, who were filled with joy: 
 
-"At last we have found that for which we searched!"
+"At last we have found what we were searching for!"
 
 - The first that appeared was Tohil. Balam-Quitzé put him on his back, in his chest. 
 - Instantly, the god called Avilix appeared, and Balam-Acab carried him. 
@@ -46,9 +46,12 @@ In the third place were those of Ilocab.
 
 Tohil was also the name of the god who was received by the grandfathers and the fathers of the lords, whom we also know today.
 
-In this way, the 3 Quiché [families] were given their names and they did not separate, because they had a god of the same name, Tohil of the Quiché, Tohil of the Tamub and [Tohil] of the Ilocab; 
+In this way, the 3 Quiché families were given their names and they did not separate, because they had a god of the same name:
+- Tohil of the Quiché
+- Tohil of the Tamub
+- Tohil of the Ilocab
 
-One only was the name of the god, and therefore the three Quiché [families] did not separate.
+The name of the god was only one. And so the 3 Quiché families did not separate.
 
 Great was the virtue of Tohil, Avilix, and Hacavitz.
 
@@ -60,8 +63,10 @@ They could no longer understand each other clearly after arriving at Tulán.
 
 There also they separated, there were some who had to go to the East, but many came here.
 
-Their clothing was only the skins of animals. They had no good clothes to put on, the skins of animals were their only dress. 
+Their clothing was only the skins of animals. 
+<!-- They had no good clothes to put on, the skins of animals were their only dress.  -->
 
-They were poor, they possessed nothing, but they had the nature of extraordinary men.
+They were poor and possessed nothing. But they had the nature of extraordinary men.
 
 When they arrived at Tulán-Zuiva, Vucub-Pec, Vucub-Ziván, the old traditions say that they had traveled far in order to arrive there.
+

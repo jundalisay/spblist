@@ -1,17 +1,26 @@
-Next morning again there was a call from that office and when I presented
-myself before him, he seemed ready to go out. When I asked, he told me that he was
-going to Baba for initiation. He asked me also to accompany him.
-I refused and said, “It would not be proper on my part as Baba had instructed
-me just to give His postal address to you and you should find out his residence
-yourself. For me to do anything beyond this would be a violation of His instructions,
-which I am not prepared to do at any price. Baba is all knowing and all pervading.
-Whatever we do is in full knowledge of Baba.”
+---
+title: "ASTHANAJI RECEIVES BABA’S GRACE"
+heading: Chapter 6b
+weight: 14
+description: "Next morning again there was a call from that office and when I presented myself before Asthanaji, he seemed ready to go out"
+image: "/covers/katha.png"
+author: Nagina
+---
 
-I therefore, requested Asthanaji not to make me violate His instructions in
-anyway.
 
-At this, Asthanaji told me that he would drive the car himself. There would be
-neither the driver nor the orderly with him. As there are so many cross roads in
+Next morning again there was a call from that office and when I presented myself before Asthanaji, he seemed ready to go out. 
+
+When I asked, he told me that he was going to Baba for initiation. He asked me also to accompany him. 
+
+I refused and said:
+
+“It would not be proper on my part as Baba had instructed me just to give His postal address to you and you should find out his residence yourself. For me to do anything beyond this would be a violation of His instructions, which I am not prepared to do at any price. Baba is all knowing and all pervading.  Whatever we do is in full knowledge of Baba.”
+
+I therefore, requested Asthanaji not to make me violate His instructions.
+
+At this, Asthanaji told me that he would drive the car himself. 
+
+There would be neither the driver nor the orderly with him. As there are so many cross roads in
 Monghyr with which he was not familiar, he therefore wanted me to guide his way only
 until he reached a point outside Monghyr and on the road to Jamalpur, then he would
 reach the place himself. I agreed to do this much.
@@ -55,21 +64,18 @@ and come to me." Great is Baba's Grace!
 
 ### ASTHANAJI RECEIVES BABA’S GRACE
 
-Some two months later, Asthanaji came to Monghyr again and next day called
-me from Begusarai. When I reached the place of his stay I discovered that he had
-come along with his entire family but he had not come out of his room since morning. I
-thought he might be busy with some personal or confidential work, but when I sent
-word of my arrival, he called me to his room. I was most astounded to see what was
-happening there. Asthanaji was lying on his bed and tears were flowing incessantly
-from his eyes. When I enquired about this, he started weeping still more bitterly and
-asked me to sit down by his side. His wife was also there. She told me that since the
-morning after his bath he had been like that. He had not even combed his hair after
-taking bath. And when I looked at him, I found that his hair was dishevelled. His wife
-appeared worried and he had forbidden anyone from outside be told about his
+Some 2 months later, Asthanaji came to Monghyr again. The next day he, called me from Begusarai. 
+
+When I reached the place of his stay I discovered that he had come along with his entire family but he had not come out of his room since morning. 
+
+I thought he might be busy with some personal or confidential work, but when I sent word of my arrival, he called me to his room. I was most astounded to see what was happening there. Asthanaji was lying on his bed and tears were flowing incessantly from his eyes. When I enquired about this, he started weeping still more bitterly and asked me to sit down by his side.
+
+His wife was also there. She told me that since the morning after his bath he had been like that. He had not even combed his hair after taking bath.
+
+When I looked at him, I found that his hair was dishevelled. His wife appeared worried and he had forbidden anyone from outside be told about his
 condition.
-Now, he asked his wife also to go out of the room for some time. When she had
-left and we were alone, he told me his story. He said that after taking his bath he had
-come out of the bathroom and approached the dressing table to do his hair. He stood
+
+He asked his wife also to go out of the room for some time. When she had left and we were alone, he told me his story. He said that after taking his bath he had come out of the bathroom and approached the dressing table to do his hair. He stood
 in front of the mirror, which was big enough to reflect his whole body, and saw that
 Baba was standing in the mirror. He was standing in front of the mirror, and normally
 the mirror should have reflected his own image, but instead, he saw Baba there and

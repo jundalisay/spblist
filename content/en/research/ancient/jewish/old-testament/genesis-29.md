@@ -85,41 +85,38 @@ I will serve you 7 years for Rachel your younger daughter.
 
 {29:19} Laban said:
 
-It is better that I give her to you, than that I should give her to another man: abide with me. 
+<sup>19</sup> It is better that I give her to you, than that I should give her to another man: abide with me. 
 
-{29:20} Jacob served 7 years for Rachel. They seemed unto him [but] a few days, for the love he had to her.
+<sup>20</sup> Jacob served 7 years for Rachel. They seemed unto him [but] a few days, for the love he had to her.
 
-{29:21} Jacob said to Laban:
+<sup>21</sup> Jacob said to Laban:
 
 Give me my wife for my days are fulfilled, that I may have sex with her. 
 
-{29:22} Laban gathered together all the men of the place, and made a feast. 
+<sup>22</sup> Laban gathered together all the men of the place, and made a feast. 
 
-{29:23} In the evening, he took Leah his daughter and had sex with her.
+<sup>23</sup> In the evening, he took Leah his daughter and had sex with her.
 
-{29:24} And Laban gave unto his daughter Leah Zilpah his maid [for] an handmaid. 
+<sup>24</sup> Laban gave to his daughter Leah Zilpah his maid as a handmaid. 
 
-{29:25} In the morning, it was Leah. He said to Laban:
+<sup>25</sup> In the morning, it was Leah. He said to Laban:
 
-What have you done to me? Did I not serve with thee for Rachel? wherefore
-then hast thou beguiled me? 
+What have you done to me? Did I not serve you for Rachel? Why have you beguiled me? 
 
 {29:26} Laban said:
 
-It must not be so done in our country, to give the younger before the firstborn.
+<sup>26</sup> It must not be so done in our country, to give the younger before the firstborn.
 
-
-{29:27} Fulfil her week, and we will give thee this also for the service which thou shalt serve
+<sup>27</sup> Fulfil her week, and we will give thee this also for the service which thou shalt serve
 with me yet seven other years. 
 
-{29:28} And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter
-to wife also. 
+<sup>28</sup> Jacob did so, and fulfilled her week. Laban gave him Rachel his daughter to be his wife also. 
 
-{29:29} Laban gave to Rachel his daughter Bilhah his handmaid to be her maid. {29:30} And
-he went in also unto Rachel, and he loved also Rachel more
-than Leah, and served with him yet seven other years.
+<sup>29</sup> Laban gave to Rachel his daughter Bilhah his handmaid to be her maid.
 
-{29:31} When Enki saw that Leah [was] hated, he opened her womb: but Rachel [was] barren.
+<sup>30</sup> He had sex with Rachel, and he loved Rachel more than Leah. So he served with him yet seven other years.
+
+<sup>31</sup> When Enki saw that Leah [was] hated, he opened her womb: but Rachel [was] barren.
 
 {29:32} Leah conceived, and bare a son she named Reuben.
 
@@ -138,4 +135,3 @@ Because Enki had heard that I [was] hated, he had therefore given me this [son] 
 {29:35} She conceived again, and bare a son. 
 
 She said: Now will I praise Enki: therefore she called his name Judah; and left bearing.the stone from the well’s mouth; then we water the sheep.
-

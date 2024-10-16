@@ -13,9 +13,15 @@ It was the winter of 1953-54 and the weather was bitterly chilly.
 Baba was kind enough to allow me to go for a walk with Him and as usual we came back in the field
 and seated ourselves on the grave. I was sitting by the side of Baba.
 
-Two more sadhaka brothers were there, whose names I do not remember now. Mostly Baba used to sit there for a long time, but that day it so happened that Baba started to walk back by quarter-to-nine. He said, "Let us go, Nagina has a cough!” 
+Two more sadhaka brothers were there.
 
-Baba asked me "Have you brought your muffler?" I replied in the negative, and Baba said, "You must use a muffler during winters"
+Mostly Baba used to sit there for a long time, but that day it so happened that Baba started to walk back by quarter-to-nine. 
+
+He said, "Let us go, Nagina has a cough!” 
+
+Baba asked me "Have you brought your muffler?" 
+
+I replied in the negative, and Baba said, "You must use a muffler during winters"
 
 I said, "During winters I generally get a sore throat. It will be alright by itself".
 

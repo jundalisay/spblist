@@ -92,23 +92,63 @@ Similarly, the red colour produces in the mind a kind of vibration somewhat like
 
 Thus, we get the word t́akt́ake lál (টকটকে লাল). The verbal perception becomes a word.
 
-The moon creates a soothing feeling in the mind. Its verbal perception is called cand (চন্দ). The verbal form concerned is candati (চন্দতি – "soothing"). 
+The moon creates a soothing feeling in the mind. Its verbal perception is called cand (চন্দ). The verbal form concerned is candati (চন্দতি – "soothing").
 
-Similarly, the verbal perception [associated with] moving at higher altitudes is called ind (ইন্দ্) and the verbal form concerned is indati (ইন্দতি), indatah (ইন্দতঃ), indanti (ইন্দন্তি).3 Thus we get the words candra (cand + rak, রক), indra (ind + rak). Indra means "lofty", indra means "great", indra means "very tall and high", and hence it also means the shal tree, indra also means a chief or a king. That is why in mythology, the king of the gods is called "Devara'ja Indra". Ind + un (উন) = Indu; Indu means the moon, "the one that moves at higher altitudes".
+Similarly, the verbal perception [associated with] moving at higher altitudes is called ind (ইন্দ্) and the verbal form concerned is indati (ইন্দতি), indatah (ইন্দতঃ), indanti (ইন্দন্তি).3 
 
-Prefix The word prefix is derived pre + fix. Pre means "before". Prefix means "the idea which comes before the root [word]". In Sanskrit a prefix is called an upasarga (উপসর্গ).4 In Sanskrit there is a fixed number of twenty prefixes: pra, pará, apa, sam, anu, ava, nir, dur, abhi, vi, adhi, su, ut, ati, ni, prati, pari, upa, áun. English also has a good number of prefixes.
+Thus, we get the words candra (cand + rak, রক), indra (ind + rak).
 
-Now, many words can be formed adding prefixes to root verbs. Some instances [in the case of the Latin ceive]:
+Indra means "lofty", indra means "great", indra means "very tall and high". 
 
-Receive: Ceive is a Latin root verb. Ceive means "to exchange, to get something in return". Now if the verb ceive is preceded by the prefix re-, we get the word receive which means to "get" (e.g., "I received your letter dated . . .") Its noun form is receipt.
+Hence it also means the shal tree, indra also means a chief or a king. 
+
+That is why in mythology, the king of the gods is called "Devara'ja Indra". 
+
+Ind + un (উন) = Indu; Indu means the moon, "the one that moves at higher altitudes".
+
+Prefix The word prefix is derived pre + fix. 
+
+Pre means "before". Prefix means "the idea which comes before the root [word]". 
+
+In Sanskrit a prefix is called an upasarga (উপসর্গ).4 
+
+Sanskrit has a fixed number of 20 prefixes: pra, pará, apa, sam, anu, ava, nir, dur, abhi, vi, adhi, su, ut, ati, ni, prati, pari, upa, áun. 
+
+English also has a good number of prefixes.
+
+Many words can be formed adding prefixes to root verbs. Some instances [in the case of the Latin ceive]:
+
+Receive: Ceive is a Latin root verb. 
+
+Ceive means "to exchange, to get something in return". 
+
+If the verb ceive is preceded by the prefix re-, we get the word receive which means to "get" (e.g., "I received your letter dated . . .").
+
+Its noun form is receipt.
 
 Deceive: Similarly, if ceive is preceded by the prefix de-, we get the word deceive which means to "take away by cheating". Its noun form is deceit (opposite form of receipt).
 
-Conceive: Conceive means to "accept something in the mind, form an idea in the mind". Its noun form is concept. It has another meaning also: to [come to] be in a family way [conceive a child]. Its noun form is conception.
+Conceive: Conceive means to "accept something in the mind, form an idea in the mind". 
 
-Perceive: The verb perceive means to "subjectivize something objective". This process of subjectivization of something objective is done with the help of five sensory organs as also the afferent or sensory nerves. Its noun form is perception.
+Its noun form is concept. 
 
-In this connection one should pay particular attention to the spelling of words having the vowels i and e. The general usage of spelling in such cases is that i precedes e, that is, e comes after i, because the pronunciation of i is more emphatic than that of e.5 For instance: chief, thief, brief, friend, tied, tried, fried. But there are a few exceptions also in this regard, such as the verb ceive and its noun form ceipt: receive, deceive, perceive, conceive, and their noun forms; and also some words such as seizure, leisure,6counterfeit.7
+It has another meaning also: to [come to] be in a family way [conceive a child]. 
+
+Its noun form is conception.
+
+Perceive: The verb perceive means to "subjectivize something objective". 
+
+This process of subjectivization of something objective is done with the help of five sensory organs as also the afferent or sensory nerves. 
+
+Its noun form is perception.
+
+In this connection one should pay particular attention to the spelling of words having the vowels i and e. 
+
+The general usage of spelling in such cases is that i precedes e, that is, e comes after i, because the pronunciation of i is more emphatic than that of e.5 
+
+For instance: chief, thief, brief, friend, tied, tried, fried. 
+
+But there are a few exceptions also in this regard, such as the verb ceive and its noun form ceipt: receive, deceive, perceive, conceive, and their noun forms; and also some words such as seizure, leisure,6counterfeit.7
 
 [An instance with another English root verb:]
 
@@ -120,11 +160,15 @@ The root verb bha (ভ) means "to illumine", "to enlighten". Bhá + kta = bhá
 
 Further Use of Suffixes and Prefixes
 
-Dislocate: In English [through the use of suffixes and prefixes] we get a large number of verbs from noun-words. For instance, there is a Latin root word locus. Locus means "place". When someone or something is removed or transferred from one place to another, we say "He/she/it has been dislocated," that is, the location arrangement has been deranged. Local train means a train which has been plying within a fixed or restricted periphery.
+Dislocate: In English [through the use of suffixes and prefixes] we get a large number of verbs from noun-words. 
+
+For instance, there is a Latin root word locus. Locus means "place". When someone or something is removed or transferred from one place to another, we say "He/she/it has been dislocated," that is, the location arrangement has been deranged. Local train means a train which has been plying within a fixed or restricted periphery.
 
 Embodiment: In the Anglo-Saxon tongue, there was a word board [meaning "border"]. It was pronounced "boad" (r remained mute). Board was finally transmuted [as it was pronounced] into boad (in Latin, corpor8); and "the object concerning boad" is body. Body means "something having borders or boundary lines". When something abstract in relation to the physical is concerned, the prefix em- or en- is added, and the result is embodiment. It means "assuming the characteristics of something".
 
-In the case of an abstract idea, we sometimes use the word personified. For instance, when we want to explain the glamour of purity, we say, "He is purity personified." That is, the purity has the status of a person. Likewise we say, "He is honesty personified," "He is knowledge personified," "He is bliss personified." In all such cases we can also say, "He is an embodiment of honesty," "He is an embodiment of knowledge," "He is an embodiment of bliss," etc.9
+In the case of an abstract idea, we sometimes use the word personified. For instance, when we want to explain the glamour of purity, we say, "He is purity personified." That is, the purity has the status of a person. 
+
+Likewise we say, "He is honesty personified," "He is knowledge personified," "He is bliss personified." In all such cases we can also say, "He is an embodiment of honesty," "He is an embodiment of knowledge," "He is an embodiment of bliss," etc.9
 
 Enriched: When someone becomes the owner of something or becomes rich by possessing something we say enriched. For instance, "The literary works of Rabindranath Tagore enriched the Bengali language." Likewise:
 
@@ -167,5 +211,3 @@ acquisition, but requisition
 (9) In such cases in Sanskrit, the suffix -mayat́ (ময়ট) is used. For instance, dayámaya (দয়াময় - dayá + mayat́ – "kindness personified" – "Lord Buddha was kindness personified"), guńamaya (গুণময় – "quality personified"), shubhamaya (শুভময় – "righteousness personified"), kalyáńamaya (কল্যাণময় – "welfare personified").
 
 (*) See also the examples at the end of Chapter 14. –Eds.
-
-

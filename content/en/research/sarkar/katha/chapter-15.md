@@ -20,15 +20,11 @@ In the evening, he went to Baba’s darshan and asked it to Baba. Baba said to h
 
 Baba had written in his letter of January 4, 1955 that I should apply to the competent authority. 
 
-Some Margii brothers were also pressing me to file an appeal. I
-was wondering who was the competent authority in this case? After looking at the
-series of events I came to the conclusion that Baba alone was the competent authority.
-Once I had offered this post before him, so where was my right to appeal? I was
-thinking whether a thing given could be begged back.
+Some Margii brothers were also pressing me to file an appeal. I was wondering who was the competent authority in this case? After looking at the series of events I came to the conclusion that Baba alone was the competent authority. 
 
-While I was thus engaged in deliberation of this nature the pressure on me to
-appeal began to grow. I placed my thoughts before one of my disciple brothers and he
-mentioned it to Baba.
+Once I had offered this post before him, so where was my right to appeal? I was thinking whether a thing given could be begged back.
+
+While I was thus engaged in deliberation of this nature the pressure on me to appeal began to grow. I placed my thoughts before one of my disciple brothers and he mentioned it to Baba.
 
 That day in the evening when I went to Baba, after my pranam Baba asked:
 
@@ -50,12 +46,17 @@ I had to keep quiet as it went against the grain to disobey him. I sent the appe
 
 Before leaving Jamalpur that evening I went for Baba’s darshan and I told Baba that I was leaving for Patna and Delhi the next day. It was possible that I might be requested to stay in Patna for some time, and I would start for Delhi after my appeal has been moved up from there.
 
-Baba said, "That is alright. Go and only come back with the orders."I told Baba that it was not within my powers to get the orders issued, but I will
-try as far as possibas per your instruction.
+Baba said:
 
-Baba said: "You would not return unless you have talked to me".
+"That is alright. Go and only come back with the orders."I told Baba that it was not within my powers to get the orders issued, but I will try as far as possibas per your instruction.
 
-I said: "Kindly let me know the number of the telephone where I could contact you."
+Baba said:
+
+"You would not return unless you have talked to me".
+
+I said: 
+
+"Kindly let me know the number of the telephone where I could contact you."
 
 Baba laughed and asked, "So you would ask me on telephone?"
 

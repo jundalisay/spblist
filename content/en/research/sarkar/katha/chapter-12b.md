@@ -9,15 +9,13 @@ author: Nagina
 
 
 
-Even today I get frightened when I remember that mood of Baba. All the way back I was pondering also what I have done to make Him angry. I straightaway went to
-Bindeshwariji's house and sitting in the small outside room began to ponder about what
-mistake that I had committed to make Baba angry. I thought and thought but could not
-locate the cause. 
+Even today I get frightened when I remember that mood of Baba. All the way back I was pondering also what I have done to make Him angry. 
 
-I sat in the room and pondered and mentally prayed to Baba, "Baba at any cost to me, kindly change this mood of Yours. I did not come to Your shelter to
-see You in this mood." After this I mentally offered to Him one by one all the things and
-relations which I held dear in this world and at each offering continued to pray, “Baba,
-may You take all these and be pleased with me."
+I straightaway went to Bindeshwariji's house and sitting in the small outside room began to ponder about what mistake that I had committed to make Baba angry. I thought and thought but could not locate the cause. 
+
+I sat in the room and pondered and mentally prayed to Baba, "Baba at any cost to me, kindly change this mood of Yours. 
+
+I did not come to Your shelter to see You in this mood." After this I mentally offered to Him one by one all the things and relations which I held dear in this world and at each offering continued to pray, “Baba, may You take all these and be pleased with me."
 
 During this process I remembered that I had adamantly requested Baba for the protection of my official position. I was so attached to my official position that I had
 even discarded Baba’s own recommendation to accept a demotion. 

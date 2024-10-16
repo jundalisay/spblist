@@ -77,7 +77,9 @@ In the Hindu Puráńas (mythology), the moon also once suffered from this dise
 
 Therefore another name for the moon in the Puráńas is “Shasháuṋka” (the Saḿskrta word for “rabbit” is “Shasha”).
 
-**Extreme mental exhaustion and despondency in life also destroy people’s vital energy**. As a result, tuberculosis may strike. 
+**Extreme mental exhaustion and despondency in life also destroy people’s vital energy**.* As a result, tuberculosis may strike. 
+
+{{< n n="Moonlight is despondent because it was from the impact with Theia" >}}
 
 Tuberculosis of the lungs, or pulmonary tuberculosis, can very quickly destroy the vitality.
 

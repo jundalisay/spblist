@@ -1,62 +1,69 @@
 ---
-title: "POSTING TO HAJIPUR"
+title: "I Am Tempted To Smoke"
 heading: Chapter 32b
-weight: 102
-description: "While under training in Delhi I received orders that I stood transferred to Hajipur, where I had to take charge immediately after training"
+weight: 103
+description: "During training I used to see everyone smoking. This urged me to start smoking again"
 image: "/covers/katha.png"
 author: Nagina
 ---
 
 
 
-While under training in Delhi I received orders that I stood transferred to Hajipur, where I had to take charge immediately after training. 
+During training I used to see everyone smoking. This urged me to start smoking again.
 
-On receipt of these orders I prayed mentally to Baba that I might be kept at one station for some length of time.
+I had given up smoking after the punishment that Baba had given me. But this desire began to grow in this company.
 
-On being relived from Delhi by the end of August 1957 I reached Hajipur. 
+The more I tried to suppress it, the stronger it became. 
 
-Up to that stage there was little Ananda Marga pracar work there and I began it.
+This continued for days until felt that it could no longer be suppressed.
 
-Most of the advocates of Hajipur were either my former schoolmates or college mates and I began discussing Ananda Marga philosophy with them. 
+Whenever this desire became strong, I would always pray to Baba that he may protect my helpless self from resuming smoking. But all my prayers failed. 
 
-Although these people did not easily accept Ananda Marga sadhana, I met with some success and many took initiations. 
+I thought many times that I should buy cigarettes and stealthily smoke. But if I began this habit again, then it will never die. 
 
-After initiation they began to perform sadhana with sincerity.
+<!-- I had given it up only after punishment from Baba on this score Many arguments for and against would come to my mind in regard to smoking but all arguments appeared to fail before the strength of my desire.  -->
 
-Meanwhile Acarya Deep Narainji and Acarya Kuldiipji also came on transfer to nearby Chak Sikandar and Hajipur. I began to receive cooperation from them also and pracar work proceeded speedily.
+Sometimes when I saw someone smoking a cigarette, I felt like borrowing one from him to smoke. But my shyness prevented my from doing so.
 
-By now we had our unit in Hajipur and weekly dharmacakra was regular. After some time Acarya Shri Shyam Narainji also came to Sonpur and thus we began pracar work in Sonpur also.
+<!-- After continuous suppression of this desire, extremely ugly ideas began to creep in my mind. I felt like picking up a stub and smoking it. 
 
-After my posting at Hajipur, it appeared that Baba had granted my prayer for stability at one place.
+These thoughts filled me with self-loathing and condemnation. 
 
-By about the end of November 1957, I came to know that Baba was returning by rail from Betia after celebrating Dharma Mahacakra there on the occasion of the full moon night of Agrahana. He was returning via Muzaffarpur, I could not restrain myself and came to Muzaffarpur for Baba’s darshan.
+In spite of such severe struggle in the mind, it appeared that some power was creating the right type of ideas and arguments in my mind to enable me to withstand my rising powerful desire. -->
 
-The train arrived by eight or nine at Muzaffarpur. 
+One day I asked for a cigarette from my friend devout Muslim friend from Bihar who used to smoke. 
 
-All the Margii brothers welcomed Baba with victory to Baba slogans. This was the first occasion I was meting Baba after January 1957. 
+<!-- He knew the circumstances under which I had given up smoking, and so he asked what I would do with a cigarette. I said I would smoke.
 
-All the Margii brothers of Muzaffarpur were given an opportunity to have Baba darshan and to do sastaunga pranam. Thereafter came the turn of those who had come from outside. I was also one of these.
+He looked at me in surprise and said, “ What are you saying?” 
 
-I was able to do my pranam in the train itself. I was overwhelmed at the time of
-doing the pranam.
+I told him that I was serious about starting smoking again. -->
 
-After inquiring my welfare Baba said, "Nagina seems unhappy with me these
-days?”
-
-I said, “It is not so Baba, where shall I go if I feel unhappy at your feet? I feel, on the other hand, that my Baba is not pleased with me.”
-
-When the train departed I began to wonder why Baba spoke to me like this.
-
-After some thought I realized that I had not been unable to go to Jamalpur after I left in 1955. Now I began to think constantly about going to Jamalpur.
-
-Days rolled on but I could not make a visit to Jamalpur. 1957 was closing and we were planning to celebrate the New Year in 1958, when Baba’s New Year’s message was received.
-
-After the celebrations of the New Year’s day, Baba’s message was read out which read like this:
+He now began to plead, “You have given up smoking as a result of a vow taken by you after your guru punished you. How then are you thinking like this? Please try to keep your vow.”
 
 
-“Do not compare life with a stagnant pool. Life is like a torrential stream. Its characteristic duty is to push forward pushing aside the obstacles and calamities on the way like implements of the road. 
+In spite of my insistent request he did not give me a cigarette. Now I began to
+keep all my money with him so that I could not buy cigarettes. Whenever I asked for
+money from him, in a very gentle and cultured way he would first ascertain my needs
+and would supply me with these things immediately. 
 
-Therefore, those who want to steer clear of difficulties and obstacles have lost the life of life. They are dead. The fit place for them is not society but the burial ground.”
+But he never allowed me to handle cash. Now he became extra cautious that I might not buy and smoke cigarettes. 
 
+He became so alert that he informed other trainees also that I should never smoke.
 
+Many times I tried to buy cigarettes. But every time, some unknown power created some obstacle and I had to give up my plans. 
 
+One day oppressed by intense desires I beseeched Baba that He may kindly help me from descending into hell again.
+
+Baba miraculously graced me and the desire to smoke ended forever.
+
+After a lot of mental clash I realised that on the one hand Baba was aggravating my desire like a homeopathic medicine dose and on the other hand He was the unseen person who helped me to overcome my temptation. 
+
+Not only this, He had inspired my companion to watch me cautiously and through this medium was reminding me of my vow and was again educating me in this regard. Great is the liila of the Lord and great are His ways of saving His disciples from a fall.
+
+<!-- Now and then I remember these graces of Baba and remain absorbed in His thought for hours.
+My prayer is, “Oh Lord, protect me like this always and whenever I stagger or
+fall, support me to get up and walk again.” -->
+
+<!-- Salutations to Baba the First Vibrational Principle Who Is
+Highly Respectable -->
