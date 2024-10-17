@@ -74,7 +74,8 @@ paginate = 12
       intro = "Superphysics: Science Merged with Metaphysics"
       sub = "All Knowledge Can Be Grouped Into Three"
       banner = "/photos/physics/galaxy.jpg"
-      youtube = "8bnws4po7ew"
+      youtube = "mNwyj7WHKKo"
+      # youtube = "8bnws4po7ew"
     [languages.en.params.cards.a]
       icon = "/icons/tao.png"
       title = "Metaphysics"

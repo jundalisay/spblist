@@ -1,6 +1,6 @@
 ---
 title: "The Yamas of Patanjali's Yoga"
-heading: "My Meditation Journey Part 3"
+heading: "My Meditation Journey Part 2"
 date: 2024-06-11
 image: "/graphics/meta/yamas.jpg"
 description: "We explain the 5 Yamas of Patanjali"
@@ -8,6 +8,7 @@ writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
 icon: /avatars/lam.jpg
+weight: 8
 ---
 
 

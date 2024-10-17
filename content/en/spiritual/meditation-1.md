@@ -2,12 +2,13 @@
 title: "The Problem of Selfishness"
 heading: "My Meditation Journey Part 1"
 date: 2024-05-11
-image: "/photos/meta/kindness.jpg"
+image: "/photos/psych/eat.jpg"
 description: "In Hindu-Buddhist philosophy, selfishness arises from the limitations of the 5 senses"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
 icon: /avatars/lam.jpg
+weight: 6
 ---
 
 
