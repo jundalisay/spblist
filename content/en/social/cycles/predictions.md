@@ -29,13 +29,13 @@ Here are the results so far:
 
 Country | Year Prediction was Made | Prediction | Outcome
 --- | --- | --- | ---  
-World | 2015 | A global crisis will spark in 2019 marking the start of a long crisis which we call 'The Crisis Years' | {{< color val="Correct" >}}
-World | 2019 | A global financial crisis will emerge in a certain year between 2020-2030 as a result of that 2019 crisis | {{< c v="orange" >}}Pending{{< /c >}}
+World | 2015 | A global crisis will spark in 2019 marking the start of a long crisis which we call 'The Crisis Years' | {{< color color="green" val="Correct" >}}
+World | 2019 | A global financial crisis will emerge in a certain year between 2020-2030 as a result of that 2019 crisis | {{< c v="green" >}}Semi-correct, split as the US banking Crisis and the fall of cyrpto{{< /c >}}
 ![US flag](/flags/us.png) | 2024 | Harris will win | {{< c v="orange" >}}Pending{{< /c >}}
-![Russian flag](/flags/ru.png) | 2023 | Russia will step up its offensives against Ukraine despite the lack of resources | {{< color val="Correct" >}}
+![Russian flag](/flags/ru.png) | 2023 | Russia will step up its offensives against Ukraine despite the lack of resources | {{< color color="green" val="Correct" >}}
 ![Israel flag](/flags/il.png) | 2023 | The Gaza war will continue well beyond 12 months. | {{< c v="orange" >}}Pending{{< /c >}}
 ![Philippine flag](/flags/ph.png) | 2022 | Bongbong Marcos will win the elections | {{< color val="Correct" >}}
-![Cuba flag](/flags/cu.png) | 2022 | The US will reduce sanctions during its mid-philosopher cycle | {{< c v="orange" >}}Pending{{< /c >}}
+![Cuba flag](/flags/cu.png) | 2022 | The US will reduce sanctions during its mid-Thinker cycle | {{< c v="orange" >}}Pending (This has partly come true with Biden easing some sanctions in 2024){{< /c >}}
 ![Hungary flag](/flags/hu.png) | 2022 | Hungary: Orban will win the elections | {{< color val="Correct" >}}
 ![Japan flag](/flags/jp.png) | 2021 | Probing prediction--Kono will be Prime Minister. In reality, Kishida won. This proves that Japanese political system is [a society within a society](/social/cycles/japan/) that represents itself and not the people, just like China's Communist party. To predict Japan's elections, the model has to be applied to the LDP | {{< color color="Navy" val="Null" >}}
 ![US flag](/flags/us.png) | 2008 & 2012 | Obama will win the elections, 2016 Clinton will win the popular vote, 2020 Biden will win the popular vote | {{< color val="Correct" >}}
@@ -51,9 +51,9 @@ World | 2019 | A global financial crisis will emerge in a certain year between 2
 ![Philippines flag](/flags/ph.png) | 2017 | Duterte allies will win in 2018 | {{< color val="Correct" >}}
 ![Israel flag](/flags/il.png) | 2017 | Israeli Crypto Bancor will crash | {{< color val="Correct" >}}
 ![Philippine flag](/flags/ph.png) | 2016 | Roxas will win the elections | {{< color color="red" val="Wrong" >}}
-![Iran flag](/flags/ir.png) | 2016 | The US will slowly lift more sanctions (In reality, Trump imposed new sanctions) | {{< c v="red" >}}Wrong{{< /c >}}
+![Iran flag](/flags/ir.png) | 2016 | The US will slowly lift more sanctions | {{< c v="red" >}}Wrong. In reality, Trump imposed new sanctions{{< /c >}}
 ![Great Britain flag](/flags/gb.png) | 2016 | Scotland will want to leave the UK | {{< color val="Semi-correct" >}}
-![Syria flag](/flags/sy.png) | 2015 | Assad will start losing ground to rebels by late 2016 (Update 2022: This is explained by the concept of [the balance of power](/social/cycles/russia) | {{< color color="red" val="Wrong" >}}
+![Syria flag](/flags/sy.png) | 2015 | Assad will start losing ground to rebels by late 2016 (Update 2022: This is explained by the concept of [the balance of power](/social/cycles/russia)) | {{< color color="red" val="Wrong" >}}
 ![Saudi flag](/flags/sa.png) | 2015 | The Jeddah Tower will not be completed on time | {{< color val="Correct" >}}
 ![Greek flag](/flags/gr.png) | 2015 | The Greek debt crisis will continue | {{< color val="Correct" >}}
 
@@ -72,11 +72,18 @@ This society has its own known dynamics which is explained by the ‘Social Cycl
 
 ![David Hume](/covers/hume.jpg)
 
-Each society’s mentality has its own cycles which clash or concur with those of others, creating the events in the news. By knowing the flow of each mentality, then the outcome of regular events or long-running events can be predicted, such as elections, conflicts, or economic recessions. This is somewhat used nowadays in Game Theory. However, instead of creating selfish actors like in game theory, we use a specific range of actor ‘types’ with their own attributes and dynamics. 
+Each society’s mentality has its own cycles which clash or concur with those of others, creating the events in the news. By knowing the flow of each mentality, then the outcome of regular events or long-running events can be predicted, such as elections, conflicts, or economic recessions. This is somewhat used nowadays in Game Theory. However, instead of creating selfish actors like in game theory, we use a specific range of personality ‘types’ with their own attributes and dynamics. 
 
 <!-- (/fallacies/economics/nash-equilibrium-fallacy) -->
 
 These ‘types’ are generally known as varnas in Hinduism and the social classes in ancient China.
+
+{{< box >}}
+On the personal level (in Medical Superphysics), these types are the different personalities based on the chakras. This explains why some medicines work for some people but not for others. The cause for the difference is the personality types. This is why alternative medicine does not produce conclusive scientific evidence or patterns because science does not know the different personality types. Knowing these types will unlock the benefits of alternative medicine just as the social cycles unlocks the benefits of policymaking that is in line with the changes in society, since prevention is better than cure. 
+
+For example, Ukraine already knew the aggressiveness of Russia from 2014-2019 in the Donbass, even if Russia was still in a Worker Cycle. This should have warned them to surrender when threatened by Russia in 2022 when they enetered their Warrior cycle.   
+{{< /box >}}
+
 
 Historical events are used as ‘markers’ for plotting the flow of this mentality, which can be used as training data for Artificial Intelligence to better crunch all events together to form more accurate mentalities and therefore predictions.
 
