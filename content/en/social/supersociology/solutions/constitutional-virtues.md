@@ -1,6 +1,6 @@
 ---
 title: "Constitutional Virtues"
-description: "Constitutional Virtues are a list of democratically chosen virtues that a nation lives by as the foundation of its constitution and laws. It will help unify the interpretation of the law and prevent ambiguity. This then will lead to a better justice system"
+description: "Constitutional Virtues are a list of democratically chosen virtues that a nation lives by as the foundation of its constitution and laws"
 date: 2019-02-20
 image: "/photos/objects/king.jpg"
 writer:
@@ -138,7 +138,7 @@ The more virtues, the less impact each one has. So a nation should balance quant
 8. Environmentalism
 
 
-## Unifying the Human Species
+## Unifying the Human Species: Constitutional Virtues and World Government
 
 By combining the French and Philippine virtues, the common ones are revealed:
 
@@ -148,3 +148,11 @@ By combining the French and Philippine virtues, the common ones are revealed:
 These then are common points that the two countries or people can base their relationship on, whether it be political, economic, social, or personal.
 
 In time, all nations would adjust their virtues in order to adopt virtues that are common to all. At such a point, we can declare the human species as unified.    
+
+Once the constitutional virtues of various countries are harmonized and put on the same page, then they can make an actual constitution for their harmonized network of countries. This forms a world government.  
+
+This is different from the current United Nations which is merely a council that votes on issues without any moral glue or defined common interest. This is why it is very ineffective in implementing its policies. It was designed to prevent wars, yet there have been so many wars since the UN was created. 
+
+A world government, on the other hand, is a union based on fellow-feelings and morals. Its members can better implement its policies because there is a common interest to do so. This is not built overnight, but through many generations through regular communication and exchange.
+
+<!-- War is prevented by the world government actually intervening way before the trouble escalates. For example, in the case of      -->
