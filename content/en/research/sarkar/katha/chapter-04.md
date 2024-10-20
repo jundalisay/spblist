@@ -32,18 +32,15 @@ On returning home, I followed Baba's advice, and the cough that used to invade m
 
 ## BABA TREATS ALL EQUALLY – THE INNER OFFERING
 
-After some time, I was again fortunate to go one Sunday to Jamalpur for Baba's
-darshan. As I reached Jamalpur, I met a senior disciple of Baba. He asked me whether
-I had come for Baba's darshan and informed me that he was just returning from Baba's
-house. He told me that Baba was going out to meet someone at four in the afternoon.
-He therefore advised me to go immediately to Baba or it would not possible to see
-Baba without having to stay over to the next day.
+After some time, I was again fortunate to go one Sunday to Jamalpur for Baba's darshan.
+
+<!-- As I reached Jamalpur, I met a senior disciple of Baba. He asked me whether I had come for Baba's darshan and informed me that he was just returning from Baba's house. He told me that Baba was going out to meet someone at four in the afternoon. He therefore advised me to go immediately to Baba or it would not possible to see
+Baba without having to stay over to the next day. -->
 
 It was winter, and I did not have warm clothing, so, I knew I could not stay
-overnight, and I resolved to have darshan that very day. At that time I was wearing
-pant, shirt and coat. I felt odd, because I had always visited Baba in Indian clothes of
-dhoti and kurta. My disciple brother felt irritated as we were short of time and asked me
-what was wrong in going to Him in those clothes. On his insistence, I went to Baba in
+overnight, and I resolved to have darshan that very day. 
+
+At that time I was wearing pant, shirt and coat. I felt odd, because I had always visited Baba in Indian clothes of dhoti and kurta. My disciple brother felt irritated as we were short of time and asked me what was wrong in going to Him in those clothes. On his insistence, I went to Baba in
 the same clothes, and he accompanied me, but he said that he already had Baba's
 darshan and therefore, he would stay outside.
 
@@ -59,20 +56,13 @@ remained in the car outside, and I went into Baba's drawing room for His darshan
 
 Baba came, and I touched His feet, I immediately felt immensely peaceful and satisfied.
 
-After some talk on my meditation I asked Baba, "Baba today, before coming here I wanted to buy some fruits for you, but the sadhaka brother stopped me and said
-that you would not like it, and would prohibit me coming to your house again. Baba, it is
-our tradition that one does not go empty handed before one’s guru, God and the king. If
-nothing else, one should take some green leaves, flowers or fresh water."
+After some talk on my meditation I asked Baba, "Baba today, before coming here I wanted to buy some fruits for you, but the sadhaka brother stopped me and said that you would not like it, and would prohibit me coming to your house again. 
 
-Baba listened to me with a smile, and in very loving words said, "Your sadhaka
-brother is perfectly right. I have asked all my disciples not to bring anything for me,
-whether fruits or anything else. It is true that in the olden days, the guru wanted the
-disciple to offer him fruit. But which fruit? The guru used to tell the disciples that
-whenever you come to me offer me the fruits of all your actions. 
+Baba, it is our tradition that one does not go empty handed before one’s guru, God and the king. If nothing else, one should take some green leaves, flowers or fresh water."
 
-The disciples acted
-accordingly. But in the course of time the guru's lost their greatness and gradually
-instead of ‘karma fruit’ - they began to accept big sweet and juicy fruits. Now this has
+Baba listened to me with a smile, and in very loving words said, "Your sadhaka brother is perfectly right. I have asked all my disciples not to bring anything for me, whether fruits or anything else. It is true that in the olden days, the guru wanted the disciple to offer him fruit. But which fruit? The guru used to tell the disciples that whenever you come to me offer me the fruits of all your actions. 
+
+The disciples acted accordingly. But in the course of time the guru's lost their greatness and gradually instead of ‘karma fruit’ - they began to accept big sweet and juicy fruits. Now this has
 become customary. You are also free to offer the fruits of your actions whenever you
 like”.
 
@@ -118,7 +108,7 @@ These teachings of Baba inspired me to come still closer to Him. As a consequenc
 I pray that it may continue like this forever.
 
 
-THE DEFEAT OF AN ENEMY AND BABA’S LESSON ON THE ENEMY WITHIN
+### THE DEFEAT OF AN ENEMY AND BABA’S LESSON ON THE ENEMY WITHIN
 
 My confrontations with Ajit Singh in the department continued to increase
 instead of abating. Since I had refused to pay the monthly sums he extorted from his

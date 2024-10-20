@@ -1,7 +1,7 @@
 ---
 title: "Baba Tries to Leave"
 heading: Chapter 18b
-weight: 45
+weight: 47
 description: "While I was in Jamalpur, it was matters pertaining to Baba that occupied my mind"
 image: "/covers/katha.png"
 author: Nagina

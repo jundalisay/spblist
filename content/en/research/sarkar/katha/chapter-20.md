@@ -1,7 +1,7 @@
 ---
 title: "Tattvika And Acarya Examinations"
 heading: Chapter 20
-weight: 48
+weight: 54
 description: "I returned to Jamalpur and started preparing for the tattvika examination as per Baba's orders"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

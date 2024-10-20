@@ -8,27 +8,21 @@ author: Dada Dharmavedananda
 ---
  
 
-I am in Benares today for the start of a three-day spiritual festival led by the venerable Dada Shivananda. In the absence of Baba, Shivanandaji is serving as His representative, and his discourses will channel Baba's vibration. About 
-10.000 Margis are attending, and the energy is high. 
+I am in Benares today for the start of a three-day spiritual festival led by the venerable Dada Shivananda. 
+
+In the absence of Baba, Shivanandaji is serving as His representative, and his discourses will channel Baba's vibration. About 10.000 Margis are attending, and the energy is high. 
 
 It is also in this ancient spiritual city that we have our training centers for creating new acharyas. 
 
 Our philosophy argues against the superstitious idol worship of Hinduism, but I agree with the Hindus that Benares has a singular atmosphere suitable for spiritual practices. 
 
-Hindus believe that a bath in the Ganges River purifies them of sin, and causes them to rise to heaven at the time 
-of death. We share no such belief but that does not stop us from enjoying 
-meditation near the river bank, sometimes within smelling range of the 
-cremation pyres. Surely that smell reminds us how precious every living 
-moment is and how futile it is to fear death. 
+Hindus believe that a bath in the Ganges River purifies them of sin, and causes them to rise to heaven at the time of death.
 
-Though my experience in Ananda Nagar has freed me from most of my 
-doubts, I still hesitate to pass over the threshold into a new life. If only I could 
-have met Baba. 
+We share no such belief but that does not stop us from enjoying meditation near the river bank, sometimes within smelling range of the cremation pyres. Surely that smell reminds us how precious every living moment is and how futile it is to fear death. 
 
-Two days later. Today was Dada Shivananda's culminating discourse. When 
-he concluded his talk a wave rolled through us all, generating sighs, shouts, 
-shivering and other occult symptoms. A thrill shook the heart region of my 
-chest and left me awed. 
+Though my experience in Ananda Nagar has freed me from most of my doubts, I still hesitate to pass over the threshold into a new life. If only I could have met Baba. 
+
+Two days later. Today was Dada Shivananda's culminating discourse. When he concluded his talk a wave rolled through us all, generating sighs, shouts, shivering and other occult symptoms. A thrill shook the heart region of my chest and left me awed. 
 
 Afterward, the Margis dispersed—except one man who remained absorbed 
 for several hours in deep meditation, indifferent to the brutally hot sun. 

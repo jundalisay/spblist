@@ -18,6 +18,7 @@ fourth day of taking this decision I received an inland letter. I could not gues
 sent it but when I opened it I found that it was from Baba. The letter was in English
 language. Today that letter is not with me but I remember fully its language. I shall try
 to reproduce it here.
+
 “Your decision of resignation is premature. You must join your duty
 urgently and I will give you everything. In case you fail to reconcile in joining to
 your present post, you take it as my order and must report for duty immediately.”
@@ -26,17 +27,20 @@ mentally resolved that I would extend my leave no longer and will resign from se
 th
 Now there was no other course open for me and when my leave was over on the 6
 January 1956 I rejoined my duty.
+
 Great is the liila of omniscient Baba and wonderful are his methods of doing
 favour. Sitting in a village hundreds of miles away I mentally decide something and
 Baba reflects it then and there. This added one more link to the chain of my faith. Thus
 1955 was over with the Grace of Baba
-Salutations to Baba who loves his devotees
+
+
 Following the instructions of Baba I rejoined my duty immediately on the expiry
 of my leave. However the whole of 1956 and 1957 up to August was a period of great
 turmoil for me. During this brief period of one year and eight months I was transferred
 to seven places. My wife was not keeping good health these days. I had to look after
 four children. I had to run after the doctors all the time. As there was no other
 convenient place, the family had to be kept with me.
+
 Those who have experience of government service and frequent transfers will
 be able to understand my plight very well. In spite of these troubles Baba’s grace was
 always with me. Whenever I had to go for however a small period, I got good name and
@@ -44,9 +48,12 @@ reputation though Baba’s grace. Strange was that period, on the one hand the d
 problems of service, the rising and unassailable mountains of economic and
 psychological problems and on the other hand good name fame and reputation Great
 is the Liila of Baba.
-POSTED TO MUZZAFARPUR
+
+
+### POSTED TO MUZZAFARPUR
+
 After resuming work in Patna on 7th January 1956, I was posted to Muzaffarpur.This was a posting to my liking.
-th
+
 I assumed my duties at Muzaffarpur on 17 January 1956. After I became
 somewhat free from official work I came to know that my childhood friends Acarya
 Vishwanathji was also there. I therefore went to see him. From him I came to know that
@@ -57,7 +64,9 @@ I came to know that on the New Years' eve Baba’s vanii had come which was like
 “The long neglected humanity has awakened today. This awakening of
 theirs will usher in a new chapter in human history. You are the first messengers
 of that still to arrive tradition”
+
 Anandamurti 1.1.1956
+
 I read and re-read this message and tried to understand its significance. The
 vanii appeared to me to be a fragment with great significance. In those days, the so-
 called civilized society looked down upon those who believed in the divinity of human
@@ -73,6 +82,7 @@ daily routine of life and wanted to take initiation as early as possible. He was
 days posted at Siwan and there was no acarya either there or near about. I informed
 him through letter that he should come to Muzaffarpur, where arrangements will be
 made for his initiation.
+
 Muzaffarpur at that time was most fortunate through Baba’s grace. There were
 many acaryas here. On receipt of my letter he came to me at about eight in the night
 and wanted to return within the next two hours. He had little time and I could hardly
@@ -83,6 +93,7 @@ Now after office work I had only two functions. First to run about for doctors a
 second Marga work.
 Salutation to BABA the Lord of the Gods and the Supreme
 Divine
+
 PATNA DMC 1956
 Thus while in Muzaffarpur, in the minds of Margii brothers, my own troubled
 personal life had an easy flow. Those days pracar was going strong throughout Bihar.
