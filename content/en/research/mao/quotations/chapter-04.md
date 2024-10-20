@@ -77,9 +77,10 @@ Based on our Constitution's principles, the criteria should be as follows:
 5. They should help to strengthen, and not discard or weaken, the leadership of the Communist Party.
 6. They should be beneficial, and not harmful, to international socialist unity and the unity of the peace-loving people of the world.
 
-Of these six criteria, the most important are:
+Of these 6 criteria, the most important are:
 - the socialist path
-- Party leadership.
+- Party leadership
+
 
 The question of suppressing counter-revolutionaries is one of a struggle between ourselves and the enemy, a contradiction between ourselves and the enemy.
 
@@ -145,44 +146,74 @@ The people want their government and those in charge of production, culture, and
 
 It is common sense that the maintenance of public order would be impossible without such administrative regulations. 
 
-Administrative orders and the method of persuasion and education complement each other in resolving contradictions among the people. Even administrative regulations for the maintenance of public order must be accompanied by persuasion and education, for in many cases regulations alone will not work.
+Administrative orders and the method of persuasion and education complement each other in resolving contradictions among the people. 
 
-Inevitably, the bourgeoisie and petty bourgeoisie will give expression to their own ideologies. Inevitably, they will stubbornly express themselves on political and ideological questions by every possible means. 
+Even administrative regulations for the maintenance of public order must be accompanied by persuasion and education, for in many cases regulations alone will not work.
 
-You cannot expect them to do otherwise. We should not use the method of suppression and prevent them from expressing themselves, but should allow them to do so and at the same time argue with them and direct appropriate criticism at them.
+Inevitably, the bourgeoisie and petty bourgeoisie will give expression to their own ideologies. They will stubbornly express themselves on political and ideological questions by every possible means. 
 
-We must criticize wrong ideas. Mistakes must be criticized and poisonous weeds fought wherever they crop up. However, such criticism should not be dogmatic. 
+<!-- You cannot expect them to do otherwise.  -->
 
-The dialectical method should be used, not the metaphysical method. What is needed is scientific analysis and convincing argument.
+<!-- We should not use the method of suppression and prevent them from , but  -->
 
-It is necessary to criticize the people's shortcomings. But we must truly take the stand of the people and speak out of whole-hearted eagerness to protect and educate them. To treat comrades like enemies is to go over to the stand of the enemy.
+We should allow them to express themselves and at the same time:
+- argue with them and
+- direct appropriate criticism at them.
+
+We must criticize wrong ideas. Mistakes must be criticized. Poisonous weeds must be fought wherever they crop up. However, such criticism should not be dogmatic. 
+
+**The dialectical method should be used, not the metaphysical method.** 
+
+What is needed is scientific analysis and convincing argument.
+
+It is necessary to criticize the people's shortcomings. 
+
+But we must truly take the stand of the people and speak out of whole-hearted eagerness to protect and educate them. 
+- To treat comrades like enemies is to go over to the stand of the enemy.
+
 
 {{< cite >}}
 "Talks at the Yenan Forum on Literature and Art" (May 1942), Selected Works, Vol.III, p. 92.
 {{< /cite >}}
 
-Contradiction and struggle are universal and absolute, but the methods of resolving contradictions, that is, the forms of struggle, differ according to the differences in the nature of the contradictions. 
+Contradiction and struggle are universal and absolute. 
 
-Some contradictions are characterized by open antagonism, others are not. In accordance with the concrete development of things, some contradictions which were originally non-antagonistic develop into antagonistic ones, while others which were originally antagonistic develop into non-antagonistic ones.
+But the methods of resolving contradictions, that is, the forms of struggle, differ according to the differences in the nature of the contradictions. 
+
+Some contradictions are characterized by open antagonism, others are not.
+
+In accordance with the concrete development of things, some contradictions which were originally non-antagonistic develop into antagonistic ones, while others which were originally antagonistic develop into non-antagonistic ones.
 
 {{< cite >}}
 "On Contradiction" (August 1937), Selected Works, Vol. I, p 344.
 {{< /cite >}}
 
 
-In ordinary circumstances, contradictions among the people are not antagonistic. But if they are not handled properly, or if we relax our vigilance and lower our guard, antagonism may arise. 
+Ordinarily, contradictions among the people are not antagonistic. But if they are not handled properly, or if we relax our vigilance and lower our guard, antagonism may arise. 
 
-In a socialist country, a development of this kind is usually only a localized and temporary phenomenon. The reason is that the system of exploitation of man by man has been abolished and the interests of the people are basically the same.
+In a socialist country, such antagonism is usually only localized and temporary because:
+- the system of exploitation of man by man has been abolished and
+- the interests of the people are basically the same.
 
 {{< cite >}}
 On the Correct Handling of Contradictions Among the People (February 27, 1957), 1st pocket ed., p. 14.
 {{< /cite >}}
 
-In our country, the contradiction between the working class and the national bourgeoisie belongs to the category of contradictions among the people. By and large, the class struggle between the two is a class struggle within the ranks of the people, because the Chinese national bourgeoisie has a dual character. 
+In our country, the contradiction between the working class and the national bourgeoisie belongs to the category of contradictions among the people. 
 
-In the period of the bourgeois-democratic revolution, it had both a revolutionary and a conciliationist side to its character. In the period of the socialist revolution, exploitation of the working class for profit constitutes one side of the character of the national bourgeoisie, while its support of the Constitution and its willingness to accept socialist transformation constitute the other. 
+<!-- By and large,  -->
 
-The national bourgeoisie differs from the imperialists, the landlords and the bureaucrat-capitalists. 
+The class struggle between the two is a class struggle within the ranks of the people, because the Chinese national bourgeoisie has a dual character. 
+
+In the period of the bourgeois-democratic revolution, it had both a revolutionary and a conciliationist side. 
+<!-- to its character -->
+
+In the period of the socialist revolution, exploitation of the working class for profit constitutes one side of the character of the national bourgeoisie, while its support of the Constitution and its willingness to accept socialist transformation constitute the other. 
+
+The national bourgeoisie differs from:
+- the imperialists
+- the landlords
+- the bureaucrat-capitalists. 
 
 The contradiction between the national bourgeoisie and the working class is one between the exploiter and the exploited, and is by nature antagonistic.
 
@@ -190,5 +221,7 @@ But in the concrete conditions of China, this antagonistic class contradiction c
 
 However, it will change into a contradiction between ourselves and the enemy if we do not handle it properly and do not follow the policy of uniting with, criticizing and educating the national bourgeoisie, or if thenational bourgeoisie does not accept this policy of ours.
 
+The counter-revolutionary rebellion in Hungary in 1956 was a case of reactionaries inside a socialist country, in league with the imperialists. They tried to achieve their conspiratorial aims by taking advantage of contradictions among the people to stir up disorder. 
+<!-- foment dissension and  -->
 
-It [the counter-revolutionary rebellion in Hungary in 1956] was a case of reactionaries inside a socialist country, in league with the imperialists, attempting to achieve their conspiratorial aims by taking advantage of contradictions among the people to foment dissension and stir up disorder. This lesson of the Hungarian events merits attention.
+This lesson of the Hungarian events merits attention.

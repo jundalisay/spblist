@@ -1,9 +1,9 @@
 ---
 title: "Graced by disgrace "
-heading: "Part 10"
+heading: "Chapter 3b"
 description: "One of the new Margis asked me if I knew that some of the neighbors were disturbed by our yoga house, and had complained to our real estate agent"
 image: "/covers/mystic.jpg"
-weight: 20
+weight: 24
 author: Dada
 ---
 
@@ -121,4 +121,3 @@ Even if I try to think of nothing and be open, it's also a system. We cannot avo
 direction, both physically and mentally. 
 
 My purpose is clear. Ananda Marga stands for self-realization and service to others. (It is trying to do good in every conceivable manner. So I'll continue with it, unless and until—unless and until what? Plainly speaking, I think nothing could ever cause me to leave, unless I found that Baba Himself was false. 
-

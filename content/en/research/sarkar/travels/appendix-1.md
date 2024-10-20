@@ -3,7 +3,7 @@ heading: Appendix 1
 title: "Technical Talks by Baba"
 description: "Calcutta, 1989.  During the usual workers' meeting philosophy session, Baba asked me a new question"
 image: "/covers/mystic.jpg"
-weight: 70
+weight: 410
 ---
 
 

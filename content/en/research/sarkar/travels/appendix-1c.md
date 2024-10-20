@@ -2,7 +2,7 @@
 heading: "Appendix 1b"
 title: "Increasing Agricultural Production"
 description: "The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought"
-weight: 74
+weight: 418
 date: 1988
 writer:
   name: PR Sarkar

@@ -11,9 +11,9 @@ toc: false
 ---
 
 
-## The Origin of Laws
+### The Origin of Laws
 
-According to D Hume, a society is bound together by laws from a justice system. These laws were originally created to make people useful to each other and to maintain peace and order. 
+According to David Hume, a society is bound together by laws from a justice system. These laws were originally created to make people useful to each other and to maintain peace and order. 
 
 Initially, these were dictated arbitrarily by a chieftain or king. In time, as the society progressed, those laws were decided by the people themselves through a parliament or senate. This allowed the laws to suit the people and their changing situation. 
 
@@ -32,7 +32,7 @@ This would lead to disputes and even cause the law to be overturned, creating a 
 The problem is that only a few people are consulted when making such laws. This usually done by interviews on a sample population since it would be too costly to look for all car owners with kids and then interview them. This makes the law only good for a small sample and not for all. 
 
 
-## Constitutional Virtues
+### Constitutional Virtues
 
 To solve this, we propose a set of 'Constitutional Virtues' that are decided on by the people. 
 
@@ -100,7 +100,7 @@ To get an unnatural law in place, the lobbyist must first change the Constitutio
 Alternatively, he could push for the law anyway and spend more effort masking its true intent.   
 
 
-## How are Constitutional Virtues created?
+### How are Constitutional Virtues created?
 
 The virtues can be voted on by the people every 5 or 6 years, or whenever they elect their national leaders. For dictatorships, it can be created at least once. This will let foreigners know what virtues are important in that country.
 
@@ -138,7 +138,7 @@ The more virtues, the less impact each one has. So a nation should balance quant
 8. Environmentalism
 
 
-## Unifying the Human Species: Constitutional Virtues and World Government
+### Unifying the Human Species: Constitutional Virtues and World Government
 
 By combining the French and Philippine virtues, the common ones are revealed:
 

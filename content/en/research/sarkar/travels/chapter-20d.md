@@ -1,9 +1,9 @@
 ---
-title: "He Sends Out a Clarion Call"
-heading: "Part 20"
+title: "Before Baba's Death"
+heading: "Chapter 20d"
 description: "Baba's personal assistant, Dada Keshavananda, told us about the days leading up to October 21st"
 image: "/covers/mystic.jpg"
-weight: 60
+weight: 342
 author: Dada
 ---
 
@@ -34,8 +34,7 @@ These words He clearly practiced.
 
 "Shortly before 2:00 p.m., He said to me, I want to think.' 
 
-As I shut the door, I thought, He's never said such a thing before. After a few minutes He called me. I believe it was during those minutes that He carefully reviewed all His planning, and confirmed that nothing 
-remained to be done. 
+As I shut the door, I thought, He's never said such a thing before. After a few minutes He called me. I believe it was during those minutes that He carefully reviewed all His planning, and confirmed that nothing remained to be done. 
 
 He called one of the new avadhutas, and spent 1 hour alone with that Dada. That was the last work of Baba's life -- personal attention given to a young worker. After that, He said to me, I want to rest now.' 
 

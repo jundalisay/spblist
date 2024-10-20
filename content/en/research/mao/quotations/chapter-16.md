@@ -42,8 +42,9 @@ All officers and fighters of our army must improve their military art, march for
 
 "Manifesto of the Chinese People's Liberation Army" (October 1947), Selected Military Writings, 2nd ed., p. 340.
 
-Equal importance should be attached to the military and political aspects ofthe one-year consolidation and training programme which has just begun, and the two aspects should be integrated. At the start, stress should be placed on the political aspect, on improving relations between officers and men, enhancing internal unity and arousing a high level of enthusiasm among the
-masses of cadres and fighters. Only thus will the military consolidation and training proceed smoothly and attain better results.
+Equal importance should be attached to the military and political aspects ofthe one-year consolidation and training programme which has just begun, and the two aspects should be integrated. 
+
+At the start, stress should be placed on the political aspect, on improving relations between officers and men, enhancing internal unity and arousing a high level of enthusiasm among the masses of cadres and fighters. Only thus will the military consolidation and training proceed smoothly and attain better results.
 
 {{< cite >}} 
 "The Tasks for 1945" (December 15, 1944).
@@ -56,20 +57,16 @@ As for the method of training, we should unfold the mass training movement in wh
 "Policy for Work in the Liberated Areas for 1946" (December 15, 1945), Selected Works, Vol. IV, p. 76.
 {{< /cite >}}
 
-Our slogan in training troops is, "Officers teach soldiers, soldiers teach
-officers and soldiers teach each other". The fighters have a lot of practical
-combat experience. The officers should learn from the fighters, and when
-they have made other people's experience their own, they will become more
+Our slogan in training troops is, "Officers teach soldiers, soldiers teach officers and soldiers teach each other". 
+
+The fighters have a lot of practical combat experience. The officers should learn from the fighters, and when they have made other people's experience their own, they will become more
 capable.
 
 {{< cite >}}
 "A Talk to the Editorial Staff of the Shansi-Suiyuan Daily" (April 2, 1948), Selected Works, Vol. IV, p. 243.
 {{< /cite >}}
 
-As for the training courses, the main objective should still be to raise the level
-of technique in marksmanship, bayoneting grenade-throwing and the like and
-the secondary objective should be to raise the level of tactics, while special
-emphasis should be laid on night operations.
+As for the training courses, the main objective should still be to raise the level of technique in marksmanship, bayoneting grenade-throwing and the like and the secondary objective should be to raise the level of tactics, while special emphasis should be laid on night operations.
 
 {{< cite >}}
 "Policy for Work in the Liberated Areas for 1946" (December 15, 1945), Selected Works, Vol. IV, p. 76.*

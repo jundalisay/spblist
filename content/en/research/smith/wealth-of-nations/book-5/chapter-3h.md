@@ -1,5 +1,5 @@
 ---
-title: "Solutions: Tax Reform"
+title: "Adam Smith's World Government"
 heading: "Chapter 3h"
 weight: 20
 image: "/covers/wn.jpg"

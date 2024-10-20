@@ -2,7 +2,7 @@
 heading: "Appendix 1d"
 title: "How to Solve Bangladesh's Economic Problems"
 description: "The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought"
-weight: 76
+weight: 420
 date: 1989
 writer:
   name: PR Sarkar

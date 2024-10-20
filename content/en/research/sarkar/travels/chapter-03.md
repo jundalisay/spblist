@@ -1,13 +1,11 @@
 ---
-title: "Midnight message "
-heading: "Part 2"
+title: "Just Love Me: Midnight message"
+heading: "Chapter 3"
 description: "Last night, I went to sleep at 11pm in a second-story room of the yoga house. The other bed next to mine was empty."
 image: "/covers/mystic.jpg"
-weight: 3
+weight: 20
 author: Dada
 ---
-
-
 
 
 Last night, I went to sleep at 11pm in a second-story room of the yoga house. The other bed next to mine was empty. 
@@ -114,7 +112,4 @@ While we were walking back to our flat, David (the other volunteer) said, "Wow, 
 
 Where did you get such ideas?" 
 
-Still excited from the experience, I said, "Before I try to answer your question, can you answer one of mine? What did I talk about? 1 don't 
-remember a single sentence." 
-
-
+Still excited from the experience, I said, "Before I try to answer your question, can you answer one of mine? What did I talk about? 1 don't remember a single sentence." 

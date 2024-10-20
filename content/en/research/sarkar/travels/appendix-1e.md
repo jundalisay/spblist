@@ -3,7 +3,7 @@ title: "The evolution of languages throughout the world"
 heading: "Appendix 1e"
 description: "Between 2 points of no magnitude there is a flow of cognition"
 image: "/covers/mystic.jpg"
-weight: 80
+weight: 426
 author: Dada
 ---
 
