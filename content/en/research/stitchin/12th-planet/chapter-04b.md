@@ -1,181 +1,183 @@
 ---
-heading: Chapter 4
-title:  "Sumer: Land of the Gods"
+heading: Chapter 4b
+title:  "Enlil: the Chief of the Gods"
 image:  "/covers/12th.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
 weight: 22
 ---
 
-In those early days, when gods alone inhabited Nippur and Man had not yet
-been created, Enlil met the goddess who was to become his wife. According to one
-version, Enlil saw his future bride while she was bathing in Nippur's stream—
-naked. It was love at first sight, but not necessarily with marriage in mind:
+In those early days, when gods alone inhabited Nippur and Man had not yet been created, Enlil met the goddess who was to become his wife. 
+
+According to one version, Enlil saw his future bride while she was bathing in Nippur's stream—naked.
+
+It was love at first sight, but not necessarily with marriage in mind:
+
+{{< q >}}
 The shepherd Enlil, who decrees the fates,
 The Bright-Eyed One, saw her.
-The lord speaks to her of intercourse;
-she is unwilling.
+<!-- The lord speaks to her of intercourse;
+She is unwilling. -->
 Enlil speaks to her of intercourse;
-she is unwilling:
+She is unwilling:
 "My vagina is too small [she said],
 It knows no copulation;
 My lips are too little,
-they know not kissing."
+They know not kissing."
+{{< /q >}}
 
-But Enlil did not take no for an answer. He disclosed to his chamberlain
-Nushku his burning desire for "the young maid," who was called SUD ("the
-nurse"), and who lived with her mother at E.RESH ("scented house"). Nushku
-suggested a boat ride and brought up a boat. Enlil persuaded Sud to go sailing
-with him. Once they were in the boat, he raped her.
 
-The ancient tale then relates that though Enlil was chief of the gods they were
-so enraged that they seized him and banished him to the Lower World.
+But Enlil did not take no for an answer. He told his chamberlain Nushku of his burning desire for "the young maid," who was called SUD ("the nurse"), and who lived with her mother at E.RESH ("scented house"). 
 
-"Enlil, immoral one!" they shouted at him. "Get thyself out of the city!" This version has it
-that Sud, pregnant with Enlil's child, followed him, and he married her. Another
-version has the repentant Enlil searching for the girl and sending his chamberlain
-to her mother to ask for the girl's hand. One way or another, Sud did become the
-wife of Enlil, and he bestowed on her the title NIN.LIL ("lady of the airspace").
+Nushku suggested a boat ride, and brought up a boat. Enlil persuaded Sud to go sailing with him. Once they were in the boat, he raped her.
 
-But little did he and the gods who banished him know that it was not Enlil who
-had seduced Ninlil, but the other way around. The truth of the matter was that
-Ninlil bathed naked in the stream on her mother's instructions, with the hope that
-Enlil—who customarily took his walks by the stream—would notice Ninlil and
-wish to "forthwith embrace you, kiss you."
+The ancient tale then relates that though Enlil was chief of the gods they were so enraged that they seized him and banished him to the Lower World. They shouted at him:
 
-In spite of the manner in which the two fell for each other, Ninlil was held in the
-highest esteem once she was given by Enlil "the garment of ladyship."
+"Enlil, immoral one! Get out of the city!" 
 
-With one exception, which (we believe) had to do with dynastic succession, Enlil is never
-known to have had other indiscretions. A votive tablet found at Nippur shows Enlil
-and Ninlil being served food and beverage at their temple. The tablet was
-commissioned by Ur-Enlil, the "Domestic of Enlil." (Fig. 45)
+This version has it that Sud, pregnant with Enlil's child, followed him, and he married her. 
 
-Illustration:
-Enlil and Ninlil being served
+Another version has the repentant Enlil searching for the girl and sending his chamberlain to her mother to ask for the girl's hand. One way or another, Sud did become the wife of Enlil, and he bestowed on her the title NIN.LIL ("lady of the airspace").
 
-Apart from being chief of the gods, Enlil was also deemed the supreme Lord of
-Sumer (sometimes simply called "The Land") and its "Black-Headed People." A
-Sumerian psalm spoke in veneration of this god:
 
-Lord who knows the destiny of The Land,
- trustworthy in his calling;
-Enlil who knows the destiny of Sumer,
- trustworthy in his calling;
-Father Enlil,
- Lord of all the lands;
-Father Enlil,
- Lord of the Rightful Command;
-Father Enlil,
- Shepherd of the Black-Headed Ones....
-From the Mountain of Sunrise
- to the Mountain of Sunset,
-There is no other Lord in the land;
- you alone are King.
+But little did he and the gods who banished him know that it was not Enlil who had seduced Ninlil, but the other way around. 
 
-The Sumerians revered Enlil out of both fear and gratitude. It was he who made
-sure that decrees by the Assembly of the Gods were carried out against Mankind;
-it was his "wind" that blew obliterating storms against offending cities. It was he
-who, at the time of the Deluge, sought the destruction of Mankind. But when at
-peace with Mankind, he was a friendly god who bestowed favors; according to the
-Sumerian text, the knowledge of farming, together with the plow and the pickax,
+The truth was that Ninlil bathed naked in the stream on her mother's instructions, with the hope that
+Enlil—who customarily took his walks by the stream—would notice Ninlil and wish to "forthwith embrace you, kiss you."
+
+In spite of the manner in which the two fell for each other, Ninlil was held in the highest esteem once she was given by Enlil "the garment of ladyship."
+
+With one exception, which (we believe) had to do with dynastic succession, Enlil is never known to have had other indiscretions. 
+
+A votive tablet found at Nippur shows Enlil and Ninlil being served food and beverage at their temple. The tablet was commissioned by Ur-Enlil, the "Domestic of Enlil." (Fig. 45)
+
+<!-- Illustration:
+Enlil and Ninlil being served -->
+
+
+Enlil was:
+- chief of the gods 
+- the supreme Lord of Sumer (sometimes simply called "The Land") and its "Black-Headed People." 
+
+A Sumerian psalm venerated him:
+
+{{< q >}}
+Lord who knows the destiny of The Land, trustworthy in his calling;
+Enlil who knows the destiny of Sumer,  trustworthy in his calling;
+Father Enlil, Lord of all the lands;
+Father Enlil, Lord of the Rightful Command;
+Father Enlil, Shepherd of the Black-Headed Ones....
+From the Mountain of Sunrise to the Mountain of Sunset,
+There is no other Lord in the land; you alone are King.
+{{< /q >}}
+
+
+The Sumerians revered Enlil out of both fear and gratitude. It was he who made sure that decrees by the Assembly of the Gods were carried out against Mankind;
+
+It was his "wind" that blew obliterating storms against offending cities. 
+
+It was he who, at the time of the Deluge, sought the destruction of Mankind. 
+
+But when at peace with Mankind, he was a friendly god who bestowed favors; 
+
+According to the Sumerian text, the knowledge of farming, together with the plow and the pickax,
 were granted to Mankind by Enlil.
 
-Enlil also selected the kings who were to rule over Mankind, not as sovereigns
-but as servants of the god entrusted with the administration of divine laws of
-justice. Accordingly, Sumerian, Akkadian, and Babylonian kings opened their
-inscriptions of self-adoration by describing how Enlil had called them to Kingship.
-These "calls"—issued by Enlil on behalf of himself and his father Anu—granted
-legitimacy to the ruler and outlined his functions. Even Hammurabi, who
-acknowledged a god named Marduk as the national god of Babylon, prefaced his
-code of laws by stating that "Anu and Enlil named me to promote the welfare of
-the people ... to cause justice to prevail in the land."
+He also selected the kings who were to rule over Mankind, not as sovereigns but as servants of the god entrusted with the administration of divine laws of justice. 
 
-God of Heaven and Earth, Firstborn of Anu, Dispenser of Kingship, Chief
-Executive of the Assembly of the Gods, Father of Gods and Men, Granter of
-Agriculture, Lord of the Airspace—these were some of the attributes of Enlil that
-bespoke his greatness and powers. His "command was far reaching," his
-"pronouncements unchangeable"; he "decreed the destinies." 
+Accordingly, Sumerian, Akkadian, and Babylonian kings opened their inscriptions of self-adoration by describing how Enlil had called them to Kingship.
 
-He possessed the
-"bond heaven-earth," and from his "awesome city Nippur" he could "raise the
+These "calls"—issued by Enlil on behalf of himself and his father Anu—granted legitimacy to the ruler and outlined his functions. 
+
+Even Hammurabi, who acknowledged a god named Marduk as the national god of Babylon, prefaced his code of laws by stating that "Anu and Enlil named me to promote the welfare of the people ... to cause justice to prevail in the land."
+
+
+The following were some of the attributes of Enlil that bespoke his greatness and powers:
+- God of Heaven and Earth
+- Firstborn of Anu
+- Dispenser of Kingship
+- Chief Executive of the Assembly of the Gods
+- Father of Gods and Men
+- Granter of Agriculture
+- Lord of the Airspace
+
+
+His "command was far reaching," his "pronouncements unchangeable"; he "decreed the destinies." 
+
+He possessed the "bond heaven-earth," and from his "awesome city Nippur" he could "raise the
 beams that search the heart of all the lands"—"eyes that could scan all the lands."
-Yet he was as human as any young man enticed by a naked beauty; subject to
-moral laws imposed by the community of the gods, transgressions of which were
-punishable by banishment; and not even immune to mortal complaints. At least in
-one known instance, a Sumerian king of Ur complained directly to the Assembly of
-the Gods that a series of troubles that had befallen Ur and her people could be
-traced back to the ill-fated fact that "Enlil did give the kingship to a worthless man
-… who is not of Sumerian seed."
+
+Yet he was as human as any young man enticed by a naked beauty; subject to moral laws imposed by the community of the gods, transgressions of which were punishable by banishment; and not even immune to mortal complaints. 
+
+At least in one known instance, a Sumerian king of Ur complained directly to the Assembly of the Gods that a series of troubles that had befallen Ur and her people could be traced back to the ill-fated fact that "Enlil did give the kingship to a worthless man … who is not of Sumerian seed."
 
 The central role that Enlil played in divine and mortal affairs on Earth, and how his several sons battled among themselves and with others for the divine succession, undoubtedly giving rise to the later tales of the battles of the gods.
 
 
 The third Great God of Sumer was another son of Anu. He had two names, EA and ENKI.
 
-Like his brother Enlil, he, too, was a God of Heaven and Earth, a deity
-originally of the heavens, who had come down to Earth.
+Like his brother Enlil, he, too, was a God of Heaven and Earth, a deity originally of the heavens, who had come down to Earth.
 
-His arrival on Earth is associated in Sumerian texts with a time when the
-waters of the Persian Gulf reached inland much farther than nowadays, turning
-the southern part of the country into marshlands. Ea (the name meant literally
-"house-water"), who was a master engineer, planned and supervised the
-construction of canals, the diking of the rivers, and the draining of the
-marshlands. He loved to go sailing on these waterways, and especially in the
-marshlands. The waters, as his name denoted, were indeed his home. He built his
-"great house" in the city he had founded at the edge of the marshlands, a city
-appropriately named HA.A.KI ("place of the water-fishes"); it was also known as
-E.RI.DU ("home of going afar").
-Ea was "Lord of the Saltwaters," the seas and oceans. Sumerian texts speak
-repeatedly of a very early time when the three Great Gods divided the realms
-among them. "The seas they had given to Enki, the Prince of Earth," thereby giving
-Enki "the rulership of the Apsu" (the "Deep"). As Lord of the Seas, Ea built ships
-that sailed to far lands, and especially to places from which precious metals and
-semiprecious stones were brought to Sumer.
-The earliest Sumerian cylinder seals depicted Ea as a deity surrounded by
-flowing streams that were sometimes shown to contain fish. The seals associated
-Ea, as shown here, with the Moon (indicated by its crescent), an association
-stemming perhaps from the fact that the Moon caused the tides of the seas. It was
-no doubt in reference to such an astral image that Ea was given the epithet
-NIN.IGI.KV ("lord bright-eye"). (Fig. 46)
-Illustration:
-Lord Bright-Eye
+His arrival on Earth is associated in Sumerian texts with a time when the waters of the Persian Gulf reached inland much farther than nowadays, turning the southern part of the country into marshlands. 
 
-Ea was born in the heavens and came down to Earth before there was any settlement or civilization upon Earth. 
+"Ea" literally meant "house-water". He was a master engineer who planned and supervised:
+- the construction of canals
+- the diking of the rivers
+- the draining of the marshlands.
 
-"When I approached the land, there was much flooding," he stated. He then proceeded to describe the series of actions taken by him to make the land habitable: He filled the Tigris River with fresh, "lifegiving waters"; he appointed a god to supervise the construction of canals, to make
-the Tigris and Euphrates navigable; and he unclogged the marshlands, filling
-them up with fish and making them a haven for birds of all kinds, and causing to
-grow there reeds that were a useful building material.
+He loved to go sailing on these waterways, and especially in the marshlands. The waters, as his name denoted, were his home. 
 
-Turning from the seas and rivers to the dry land, Ea claimed that it was he who
-"directed the plow and the yoke … opened the holy furrows … built the stalls …
-erected sheepfolds." 
+He built his "great house" in the city he had founded at the edge of the marshlands, a city
+appropriately named HA.A.KI ("place of the water-fishes"); it was also known as E.RI.DU ("home of going afar").
 
-Continuing, the self-adulatory text (named by scholars "Enki and the World Order") credited the god with bringing to Earth the arts of brickmaking, construction of dwellings and cities, metallurgy, and so on. 
+Ea was "Lord of the Saltwaters," the seas and oceans. Sumerian texts speak repeatedly of a very early time when the three Great Gods divided the realms among them.
 
-Presenting the deity as Mankind's greatest benefactor, the god who brought about civilization, many texts also depicted him as Mankind's chief protagonist at the councils of the gods. Sumerian and Akkadian Deluge texts, on which the biblical account must have drawn, depict Ea as the god who—in defiance of the decision of the Assembly of the Gods—enabled a trusted follower (the
+"The seas they had given to Enki, the Prince of Earth," thereby giving Enki "the rulership of the Apsu" (the "Deep"). As Lord of the Seas, Ea built ships that sailed to far lands, and especially to places from which precious metals and semiprecious stones were brought to Sumer.
+
+The earliest Sumerian cylinder seals depicted Ea as a deity surrounded by flowing streams that were sometimes shown to contain fish. The seals associated Ea, as shown here, with the Moon (indicated by its crescent), an association stemming perhaps from the fact that the Moon caused the tides of the seas. 
+
+It was no doubt in reference to such an astral image that Ea was given the epithet NIN.IGI.KV ("lord bright-eye"). (Fig. 46) 
+
+<!-- Illustration:
+Lord Bright-Eye -->
+
+Ea was born in the heavens and came down to Earth before there was any settlement or civilization on Earth. 
+
+{{< q a="Enki" >}}
+When I approached the land, there was much flooding
+{{< /q >}}
+
+To make the land habitable, he:
+- filled the Tigris River with fresh "lifegiving waters"
+- appointed a god to supervise the construction of canals to make the Tigris and Euphrates navigable
+- unclogged the marshlands, filling them up with fish and making them a haven for birds of all kinds
+- grew there reeds that were a useful building material.
+
+Turning from the seas and rivers to the dry land, Ea claimed that it was he who "directed the plow and the yoke … opened the holy furrows … built the stalls … erected sheepfolds." 
+
+The self-adulatory text was named by scholars "Enki and the World Order".
+
+It credited Ea with bringing to Earth the arts of brickmaking, construction of dwellings and cities, metallurgy, and so on.
+
+Presenting the deity as Mankind's greatest benefactor, the god who brought about civilization, many texts also depicted him as Mankind's chief protagonist at the councils of the gods. 
+
+Sumerian and Akkadian Deluge texts, on which the biblical account must have drawn, depict Ea as the god who—in defiance of the decision of the Assembly of the Gods—enabled a trusted follower (the
 Mesopotamian "Noah") to escape the disaster.
 
-The Sumerian and Akkadian texts, which (like the Old Testament)
-adhered to the belief that a god or the gods created Man through a conscious and
-deliberate act, attribute to Ea a key role: As the chief scientist of the gods, he
-outlined the method and the process by which Man was to be created. With such
-affinity to the "creation" or emergence of Man, no wonder that it was Ea who
-guided Adapa—the "model man" created by Ea's "wisdom"—to the abode of Anu in
-the heavens, in defiance of the gods' determination to withhold "eternal life" from
-Mankind.
+The Sumerian and Akkadian texts, which (like the Old Testament) adhered to the belief that a god or the gods created Man through a conscious and deliberate act, attribute to Ea a key role: As the chief scientist of the gods, he outlined the method and the process by which Man was to be created. 
+
+With such affinity to the "creation" or emergence of Man, no wonder that it was Ea who guided Adapa—the "model man" created by Ea's "wisdom"—to the abode of Anu in the heavens, in defiance of the gods' determination to withhold "eternal life" from Mankind.
 
 Was Ea on the side of Man simply because he had a hand in his creation, or did
-he have other, more subjective motives? As we scan the record, we find that
-invariably Ea's defiance—in mortal and divine matters alike—was aimed mostly at
-frustrating decisions or plans emanating from Enlil.
-The record is replete with indications of Ea's burning jealousy of his brother
-Enlil. 
+he have other, more subjective motives? 
 
-Indeed, Ea's other or first name was ENKI ("lord of Earth").
+Ea's defiance—in mortal and divine matters alike—was aimed mostly at frustrating the decisions or plans emanating from Enlil.
 
-The world was divided among the 3 gods by a drawing of lots. Ea lost mastery of Earth to his
-brother Enlil.
+The record is replete with indications of Ea's burning jealousy of his brother Enlil. 
+
+Ea's other name was ENKI ("lord of Earth").
+
+The world was divided among the 3 gods by a drawing of lots. Ea lost mastery of Earth to his brother Enlil.
+
 
 The gods had elasped hands together,
 Had cast lots and had divided.

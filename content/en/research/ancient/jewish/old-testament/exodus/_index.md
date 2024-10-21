@@ -1,6 +1,6 @@
 ---
-title: "Book 1: Genesis"
+title: "Book 2: Exodus"
 description: "The Annunaki Old Testament replaces God with Enlil"
-weight: 2
+weight: 4
 image: "/covers/old.jpg"
 ---

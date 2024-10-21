@@ -1,6 +1,6 @@
 ---
-title: "Annunaki Old Testament"
+title: "Book 5: Deuteronomy"
 description: "The Annunaki Old Testament replaces God with Enlil"
-weight: 2
+weight: 10
 image: "/covers/old.jpg"
 ---
