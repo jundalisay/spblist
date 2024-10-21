@@ -97,8 +97,10 @@ The Lord's sound strikes fiery flames;
 The Lord's sound shaketh the desert…
 The Lord to the Deluge [said]: "Return!"
 The Lord, as king, is enthroned forever.
+
 In the magnificent Psalm 77-"Aloud to God I Cry"—the Psalmist recalls the
 Lord's appearance and disappearance in earlier times:
+
 I have calculated the Olden Days,
 The years of Olam…
 I shall recall the Lord's deeds,

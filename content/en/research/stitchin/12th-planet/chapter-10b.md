@@ -80,9 +80,13 @@ The establishment of Larsa launched a new phase in the settlement of Earth by th
 
 Splashdowns at sea were no longer adequate for such heavier loads. The climatic changes made the interior more accessible; it was time to shift the landing site to the center of Mesopotamia.
 
-At that juncture, Enlil came to Earth and proceeded from Larsa to establish a "Mission Control Center"—a sophisticated command post from which the Nefilim on Earth could coordinate space journeys to and from their home planet, guide in landing shuttlecraft, and perfect their takeoffs and dockings with the spaceship orbiting Earth.
+At that juncture, Enlil came to Earth and proceeded from Larsa to establish a "Mission Control Center". It was a sophisticated command post from which the Nefilim on Earth could coordinate space journeys to and from their home planet, guide in landing shuttlecraft, and perfect their takeoffs and dockings with the spaceship orbiting Earth.
 
-The site Enlil selected for this purpose, known for millennia as Nippur, was named by him NIBRU.KI ("Earth's crossing"). (We recall that the celestial site of the 12th Planet's closest pass to Earth was called the "Celestial Place of the Crossing.") There Enlil established the DUR.AN.KI, the "bond Heaven—Earth." 
+The site Enlil selected for this purpose, known for millennia as Nippur, was named by him NIBRU.KI ("Earth's crossing"). 
+
+(We recall that the celestial site of the 12th Planet's closest pass to Earth was called the "Celestial Place of the Crossing.") 
+
+There Enlil established the DUR.AN.KI, the "bond Heaven—Earth." 
 
 The task was complex and time-consuming. 
 
@@ -90,7 +94,9 @@ Enlil stayed in Larsa for 6 shar's (21,600 years) while Nippur was under constru
 
 The Nippurian undertaking was also lengthy, as evidenced by the zodiacal nicknames of Enlil. 
 
-Having paralleled the Ram (Aries) while in Larsa, he was subsequently associated with the Bull (Taurus). Nippur was established in the "age" of Taurus.
+Having paralleled the Ram (Aries) while in Larsa, he was subsequently associated with the Bull (Taurus). 
+
+Nippur was established in the "age" of Taurus.
 
 A devotional poem composed as a "Hymn to Enlil, the All-Beneficent" and glorifying EnliI, his consort Ninlil, his city Nippur, and its "lofty house," the E.KUR, tells us much about Nippur.
 
@@ -99,7 +105,7 @@ Enlil had at his disposal there some highly sophisticated instruments:
 - a "lifted beam which searches the heart of all the land"
 
 Nippur was protected by awesome weapons:
--  "Its sight is awesome fear, dread"; from "its outside, no mighty god can approach."
+- "Its sight is awesome fear, dread"; from "its outside, no mighty god can approach."
 - Its "arm" was a "vast net," and in its midst there crouched a "fast-stepping bird," a "bird" whose "hand" the wicked and the evil could not escape.
 
 Was the place protected by some death ray, by an electronic power field? Was there in its center a helicopter pad, a "bird" so swift no one could outrun its reach?
@@ -110,5 +116,6 @@ This was the communications center of Mission Control, the place from which the 
 
 At this center stood a "heavenward tall pillar reaching to the sky." This extremely tall "pillar," firmly planted on the ground "as a platform that cannot be overturned," was used by Enlil to "pronounce his word" heavenward.
 
-This is a simple description of a broadcasting tower. Once the "word of Enlil"—his command—" approached heaven, abundance would pour down on Earth." What a simple way to describe the flow of materials, special foods, medicines, and tools brought down by the shuttlecraft, once the "word" from Nippur was given!
+This is a simple description of a broadcasting tower. Once the "word of Enlil"—his command—" approached heaven, abundance would pour down on Earth."
 
+What a simple way to describe the flow of materials, special foods, medicines, and tools brought down by the shuttlecraft, once the "word" from Nippur was given!

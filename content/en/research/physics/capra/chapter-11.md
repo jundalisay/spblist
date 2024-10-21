@@ -80,16 +80,10 @@ Suppose you have a ball going round a circle. If this movement is projected on t
 
 The ball goes round the circle with constant speed, but in the projection it slows down as it reaches the edge, turns around, and then accelerates again only to slow down once more-and so on,
 
-dynamic unity of polar opposites in endless cycles. In any projection of that kind, the circular
-movement will appear as an oscillation between two opposite points, but in the movement itself the opposites are unified and transcended. This image of a dynamic unification of
-opposites was indeed very much in the minds of the Chinese
-thinkers, as can be seen from the passage in the Chuang-tzu
+dynamic unity of polar opposites in endless cycles. In any projection of that kind, the circular movement will appear as an oscillation between two opposite points, but in the movement itself the opposites are unified and transcended. This image of a dynamic unification of opposites was indeed very much in the minds of the Chinese thinkers, as can be seen from the passage in the Chuang-tzu
 quoted previously :*
 
-That the ‘that’ and the ‘this’ cease to be opposites is the
-very essence of Tao. Only the essence, an axis as it were,
-is the centre of the circle responding to the endless
-changes.
+That the ‘that’ and the ‘this’ cease to be opposites is the very essence of Tao. Only the essence, an axis as it were, is the centre of the circle responding to the endless changes.
 
 One of the principal polarities in life is the one between the male and female sides of human nature. As with the polarity of good and bad, or of life and death, we tend to feel uncomfortable with the male/female polarity in ourselves, and therefore we bring one or the other side into prominence.
 

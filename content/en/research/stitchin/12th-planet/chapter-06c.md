@@ -30,16 +30,17 @@ The works of Eudoxus, lost in their originals, have come down to us thanks to th
 
 Who were the "men of yore" to whom Eudoxus attributed the designation of the constellations? Based on certain clues in the poem, modern astronomers believe that the Greek verses describe the heavens as they were observed in Mesopotamia circa 2200 B.C.
 
-The fact that both Hipparchus and Eudoxus lived in Asia Minor raises the probability that they drew their knowledge from Hittite sources. Perhaps they even visited the Hittite capital and viewed the divine procession carved on the rocks there; for among the marching gods two bull-men hold up a globe—a sight that might well have inspired Eudoxus to sculpt Atlas and the celestial sphere. (Fig. 92)
+Both Hipparchus and Eudoxus lived in Asia Minor. This raises the probability that they drew their knowledge from Hittite sources.
 
-Illustration:
-Two Bull-Men Holding up a Globe
+Perhaps they even visited the Hittite capital and viewed the divine procession carved on the rocks there; for among the marching gods two bull-men hold up a globe—a sight that might well have inspired Eudoxus to sculpt Atlas and the celestial sphere. (Fig. 92)
+
+<!-- Illustration:
+Two Bull-Men Holding up a Globe -->
 
 Were the earlier Greek astronomers, living in Asia Minor, better informed than
 their successors because they could draw on Mesopotamian sources?
-Hipparchus, in fact, confirmed in his writings that his studies were based on
-knowledge accumulated and verified over many millennia. He named as his
-mentors "Babylonian astronomers of Erech, Borsippa, and Babylon." Geminus of
+
+Hipparchus, in fact, confirmed in his writings that his studies were based on knowledge accumulated and verified over many millennia. He named as his mentors "Babylonian astronomers of Erech, Borsippa, and Babylon." Geminus of
 Rhodes named the "Chaldeans" (the ancient Babylonians) as the discoverers of the
 exact motions of the Moon. The historian Diodorus Siculus, writing in the first
 century B.C., confirmed the exactness of Mesopotamian astronomy; he stated that
@@ -393,46 +394,35 @@ A. The Way of Anu, the celestial band of the Sun, planets and the constellations
 of the Zodiac
 B. The way of Enlil, the northern skies
 C. The Way of Ea, the southern skies
-Subscribing to these conclusions, Professor Willy Hartner (The Earliest History
-of the Constellations in the Near East) suggested that the Sumerians left behind
-plentiful pictorial evidence to that effect. When the spring equinox was in the
-zodiac of Taurus, the summer solstice occurred in the zodiac of Leo. Hartner drew
-attention to the recurrent motif of a bull–lion "combat" appearing in Sumerian
-depictions from earliest times, and suggested that these motifs represented the
-key positions of the constellations of Taurus (Bull) and Leo (Lion) to an observer at
-30 degrees north (such as at Ur) circa 4000 B.C. (Fig. 97)
-Illustration:
-Constellations of Taurus (Bull) and Leo (Lion)
-Most scholars consider the Sumerian stress of Taurus as their first constellation
-as evidence not only of the antiquity of the zodiac—dating to circa 4000 B.C.—but
-also as testifying to the time when Sumerian civilization so suddenly began.
-Professor Jeremias (The Old Testament in the Light of the Ancient East) found
-evidence showing that the Sumerian zodiacal-chronological "point zero" stood
-precisely between the Bull and the Twins; from this and other data he concluded
-that the zodiac was devised in the Age of Gemini (the Twins)—that is, even before
-Sumerian civilization began. A Sumerian tablet in the Berlin Museum (VAT.7847)
-begins the list of zodiacal constellations with that of Leo-taking us back to circa
-11,000 B.C., when Man had just begun to till the land.
-Professor H. V. Hilprecht (The Babylonian Expedition of the University of
-Pennsylvania) went even farther. Studying thousands of tablets bearing
-mathematical tabulations, he concluded that "all the multiplication and division
-tables from the temple libraries of Nippur and Sippar, and from the library of
+
+Subscribing to these conclusions, Professor Willy Hartner (The Earliest History of the Constellations in the Near East) suggested that the Sumerians left behind plentiful pictorial evidence to that effect. 
+
+When the spring equinox was in the zodiac of Taurus, the summer solstice occurred in the zodiac of Leo. 
+
+Hartner drew attention to the recurrent motif of a bull–lion "combat" appearing in Sumerian depictions from earliest times, and suggested that these motifs represented the key positions of the constellations of Taurus (Bull) and Leo (Lion) to an observer at 30 degrees north (such as at Ur) circa 4000 B.C. (Fig. 97)
+
+<!-- Illustration:
+Constellations of Taurus (Bull) and Leo (Lion) -->
+
+Most scholars consider the Sumerian stress of Taurus as their first constellation as evidence not only of the antiquity of the zodiac—dating to circa 4000 B.C.—but also as testifying to the time when Sumerian civilization so suddenly began. 
+
+Professor Jeremias (The Old Testament in the Light of the Ancient East) found evidence showing that the Sumerian zodiacal-chronological "point zero" stood precisely between the Bull and the Twins; from this and other data he concluded that the zodiac was devised in the Age of Gemini (the Twins)—that is, even before Sumerian civilization began. 
+
+A Sumerian tablet in the Berlin Museum (VAT.7847) begins the list of zodiacal constellations with that of Leo-taking us back to circa 11,000 B.C., when Man had just begun to till the land.
+
+Professor H. V. Hilprecht (The Babylonian Expedition of the University of Pennsylvania) went even farther. Studying thousands of tablets bearing mathematical tabulations, he concluded that "all the multiplication and division tables from the temple libraries of Nippur and Sippar, and from the library of
 Ashurbanipal [in Nineveh] are based upon [the number] 12960000." Analyzing this
 number and its significance, he concluded that it could be related only to the
 phenomenon of the precession, and that the Sumerians knew of the Great Year of
 25,920 years.
+
 This is indeed fantastic astronomical sophistication at an impossible time.
-Just as it is evident that the Sumerian astronomers possessed knowledge that
-they could not possibly have acquired on their own, so is there evidence to show
-that a good deal of their knowledge was of no practical use to them.
-This pertains not only to the very sophisticated astronomical methods that were
-used—who in ancient Sumer really needed to establish a celestial equator, for
-example?—but also to a variety of elaborate texts that dealt with the measurement
-of distances between stars.
-One of these texts, known as AO.6478, lists the twenty-six major stars visible
-along the line we now call the Tropic of Cancer, and gives distances between them
-as measured in three different ways. The text first gives the distances between
-these stars by a unit called mana shukultu ("measured and weighed"). It is believed
+
+Just as it is evident that the Sumerian astronomers possessed knowledge that they could not possibly have acquired on their own, so is there evidence to show that a good deal of their knowledge was of no practical use to them. 
+
+This pertains not only to the very sophisticated astronomical methods that were used—who in ancient Sumer really needed to establish a celestial equator, for example?—but also to a variety of elaborate texts that dealt with the measurement of distances between stars.
+
+One of these texts, known as AO.6478, lists the twenty-six major stars visible along the line we now call the Tropic of Cancer, and gives distances between them as measured in three different ways. The text first gives the distances between these stars by a unit called mana shukultu ("measured and weighed"). It is believed
 that this was an ingenious device that related the weight of escaping water to the
 passage of time. It made possible the determination of distances between two stars
 in terms of time.

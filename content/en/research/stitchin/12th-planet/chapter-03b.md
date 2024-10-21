@@ -76,7 +76,7 @@ The original Twelve Great Gods were Gods of Heaven who had come down to Earth; a
 
 The Latin names of the Great Gods, given them when the Romans adopted the Greek pantheon, clarify their astral associations: Gaea was Earth; Hermes, Mercury; Aphrodite, Venus; Ares, Mars; Cronus, Saturn; and Zeus, Jupiter. 
 
-Continuing the Greek tradition, the Romans envisaged Jupiter as a thundering god whose weapon was the lightning bolt; like the Greeks, the Romans associated him with the bull. (Fig. 23)
+Continuing the Greek tradition, the Romans envisaged Jupiter as a thundering god whose weapon was the lightning bolt. Like the Greeks, the Romans associated him with the bull. (Fig. 23)
 
 
 There is now general agreement that the foundations of the distinct Greek civilization were laid on the island of Crete, where the Minoan culture flourished from circa 2700 B.C. to 1400 B.C. In Minoan myth and legend, the tale of the minotaur is prominent. 
