@@ -3,7 +3,7 @@ heading: Genesis 3
 title: "The Original Sin"
 description: "When the woman saw that the tree was good for food and pleasant to the eyes, and a tree to be desired to make one wise, she ate its fruit"
 weight: 6
-image: "/covers/old.jpg"
+image: "/graphics/history/genes.jpg"
 aliases:
   /research/ancient/jewish/old-testament/genesis-03
 ---

@@ -3,7 +3,7 @@ heading: Chapter 32
 title: "The Gold Bull Calf"
 description: "In the third month, the children of Israel came into he wilderness of Sinai"
 weight: 8
-image: "/covers/old.jpg"
+image: "/graphics/history/moses.jpg"
 ---
 
 
@@ -89,6 +89,7 @@ What did these people do to you, that you have led them into so great a sin?
 <sup>24</sup> So I said to them to give me their gold so that I can cast it into the fire, and make out this calf.
 {{< /r >}}
 
+{{< i s="/graphics/history/moses.jpg" a="Moses angry" >}}
 
 <sup>25</sup> Moses saw that the people were naked for Aaron had made them naked to make them the laughing stock of their enemies.
 
