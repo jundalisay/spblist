@@ -63,7 +63,7 @@ hand: the tables were written on both their sides; on the one side and on the ot
 <sup>17</sup> When Joshua heard the noise of the people as they shouted, he said to Moses:
 
 {{< r a="Aaron" >}}
-There is a noise of war in the camp. {32:18}
+There is a noise of war in the camp.
 {{< /r >}}
 
 {{< l a="Moses" >}}

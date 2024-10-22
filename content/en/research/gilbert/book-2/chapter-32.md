@@ -12,21 +12,25 @@ weight: 64
 ---
 
 
-Equal loadstones come together with equal incitation.*
+Equal loadstones come together with equal incitation.
 
-Also magnetick bodies of iron, if alike in all respects, *come together when excited with similar incitation.
+Also magnetick bodies of iron, if alike in all respects, come together when excited with similar incitation.
 
-Furthermore, bodies of iron not excited by a *loadstone, if they are alike and not weighed down by their bulk, move towards one another with equal motion.
+Bodies of iron not excited by a loadstone, if they are alike and not weighed down by their bulk, move towards one another with equal motion.
 
-Two loadstones, disposed on the surface of some water in {100}suitable skiffs, if they are drawn up suitably within their orbes of virtue, incite one another mutually to an embrace. 
+Two loadstones, disposed on the surface of some water in suitable skiffs, if they are drawn up suitably within their orbes of virtue, incite one another mutually to an embrace. 
 
-So a proportionate *piece of iron in one skiff hurries with the same speed towards the loadstone as the loadstone itself in its boat strives towards the iron. From their own positions, indeed, they are so borne together, that they are joined and come to rest at length in the middle of the space. 
+So a proportionate piece of iron in one skiff hurries with the same speed towards the loadstone as the loadstone itself in its boat strives towards the iron. From their own positions, they are so borne together, that they are joined and come to rest at length in the middle of the space. 
 
-Two iron wires magnetically excited, floating in water by means of *suitable pieces of cork, strive to touch and mutually strike one another with their corresponding ends, and are conjoined.
+Two iron wires magnetically excited, floating in water by means of suitable pieces of cork, strive to touch and mutually strike one another with their corresponding ends, and are conjoined.
 
-Coition is firmer and swifter than repulsion and separation in *equal magnetick substances. That magnetick substances are more sluggishly repelled than they are attracted is manifest in all magnetical experiments in the case of stones floating on water in suitable skiffs; also in the case of iron wires or rods swimming (transfixed through corks) and well excited by a loadstone, and in the case of versoria. This comes about because, though there is one faculty of coition, another of conformation or disposition, repulsion and aversion is caused merely by something disposing; on the other hand, the coming together is by a mutual alluring to contact and a disposing, that is, by a double vigour.
+Coition is firmer and swifter than repulsion and separation in equal magnetick substances. 
 
-A disponent vigour is often only the precursor of coition, in order that the bodies may stand conveniently for one another before conjunction; wherefore also they are turned round to the corresponding ends, if they can [not][181] reach them through the hindrances.
+That magnetick substances are more sluggishly repelled than they are attracted is manifest in all magnetical experiments in the case of stones floating on water in suitable skiffs; also in the case of iron wires or rods swimming (transfixed through corks) and well excited by a loadstone, and in the case of versoria. 
+
+This comes about because, though there is one faculty of coition, another of conformation or disposition, repulsion and aversion is caused merely by something disposing; on the other hand, the coming together is by a mutual alluring to contact and a disposing, that is, by a double vigour.
+
+A disponent vigour is often only the precursor of coition, in order that the bodies may stand conveniently for one another before conjunction; wherefore also they are turned round to the corresponding ends, if they can not reach them through the hindrances.
 
 Loadstone divided through a meridian.
 
@@ -83,5 +87,6 @@ The end that is turned away also conceives vigour from the loadstone B; likewise
 But if you were to turn the vertex F round to the iron C, C would not adhære to F as formerly to D; for stones so arranged being within the orbe of virtue are placed contrary to natural order; wherefore F does not receive power from E.
 
 Two loadstones or excited pieces of iron, duly cohæring, fly *asunder on the approach of another more powerful loadstone or magnetized piece of iron. Because the new-comer repels the other with its opposing face, and dominates it, and ends the relationship of the two which were formerly joined. So the forces of the other are lessened and succumb; but if it conveniently could, being diverted of its association with the weaker, and rolling round, it would turn about to the stronger. 
+
 
 Wherefore also magnetick bodies suspended in the air fall when a loadstone is brought near them with an opposing face, not (as Baptista Porta teaches) because the faculty of both those which were joined before grows faint and torpid, for no face can be hostile to both the ends which cohære, but to one only; and when the stronger loadstone, coming fresh with opposing face, impels this further from it, it is put to flight by the friendly reception of the former.
