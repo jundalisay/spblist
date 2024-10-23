@@ -10,20 +10,38 @@ writer:
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
 
+<!-- This is the meaning of the tradition in which the Prophet explained revelation, in reply to a question by  -->
 
-Thorough scholars believe the first (degree), the state of noise, is that of prophets who are not sent as messengers. 
+AlHarith b. Hisham 281 asked the Prophet Mohammad how the revelation came to him. Muhammad replied, 
 
-The second degree, the state when an angel appears in the form of a man who addresses the prophet, is that of prophets who are sent as messengers. 
+"At times, it comes to me like the ringing of a bell.  This affects me most. When it leaves me, I have retained what was said. At other times, the angel appears to me in the form of a man. He talks to me, and I retain the things he says." 
 
-Therefore, it is more perfect than the first (degree). This is the meaning of the tradition in which the Prophet explained revelation, in reply to a question by alHarith b. Hisham. 281 Asked how the revelation came to him, Muhammad replied, "At times, it comes to me like the ringing of a bell. 
+This leads to 2 cases:
+1. The first case, as noise
 
-This affects me most. When it leaves me, I have retained what was said. At other times, the angel appears to me in the form of a man. He talks to me, and I retain the things he says." The first (case) affected him more, being the first attempt to advance from potential to actual contact (with the supernatural).
+This affected him more.
 
-Thus, it was somewhat difficult. When the Prophet returned, in this case, to the level of human perceptions, all he retained was auditory (impressions). 
+It was the first attempt to advance from potential to actual contact with the supernatural.
 
-All others were difficult. When the revelation was repeated and the messages became numerous, contact (with the supernatural) became easy. When the Prophet returned to the level of human perceptions, now all his senses-and especially the clearest sense, that of vision-conveyed (the revelation).
+Thus, it was somewhat difficult. When the Prophet returned, in this case, to the level of human perceptions, all he retained was auditory impressions. 
 
-The use of the perfect tense "I have retained" in the first case, and of the present tense "I retain" in the second, is a meaningful stylistic distinction. In both cases, the words that were spoken (during the revelation) came in a disguise. 
+All others were difficult. When the revelation was repeated and the messages became numerous, contact with the supernatural became easy.
+
+<!-- Thorough scholars believe the first degree, the state of noise, is that of prophets who are not sent as messengers.  -->
+
+2. This second case is that of an angel appearing as a man who addresses the prophet
+
+This happens to prophets who are sent as messengers. 
+
+Therefore, the second case is more perfect than the first one.
+
+Vision is clearest sense.
+
+When the Prophet returned to the level of human perceptions, all his senses, especially vision, conveyed the revelation.
+
+The use of the perfect tense "I have retained" in the first case, and of the present tense "I retain" in the second, is a meaningful stylistic distinction. 
+
+In both cases, the words that were spoken (during the revelation) came in a disguise. 
 
 In the first case, they appeared in the form of "noise," which, according to accepted usage, is something different from speech. 
 
@@ -33,11 +51,19 @@ He properly used the perfect tense, which is suitable (to signify) what has ende
 
 Comprehension (in this case) ran parallel with speech. Therefore, Muhammad properly used the present tense, which of necessity expresses renewed (repeated) activity.
 
-The state of revelation presents difficulties and pains throughout. This has been indicated in the Qur'an= 283 "We shall lay upon you a heavy message." 
+The state of revelation presents difficulties and pains throughout. This has been indicated in the Qur'an 283 "We shall lay upon you a heavy message." 
 
-A'ishah said= "There was some anxiety in connection with the revelation, with which he had to struggle." She said: "The revelation would come to him on very cold days. Nevertheless, when it left him,there was sweat on his forehead." 
+A'ishah said:
 
-This is the reason for his well-known remoteness (from sensual perception) and the choking (feeling) when in that condition, of which the Prophet used to speak. The reason, as we have established, is that revelation means leaving one's humanity, in order to attain angelic perceptions and to hear the speech of the soul. 284 This causes pain, since it means that an essence leaves its own essence and exchanges its own stage for the ultimate stage (of the angels). 
+"There was some anxiety in connection with the revelation, with which he had to struggle." 
+
+"The revelation would come to him on very cold days. Nevertheless, when it left him,there was sweat on his forehead." 
+
+This is the reason for his well-known remoteness (from sensual perception) and the choking (feeling) when in that condition, of which the Prophet used to speak.
+
+This is because the revelation means leaving one's humanity, in order to attain angelic perceptions and to hear the speech of the soul. 284 
+
+This causes pain, since it means that an essence leaves its own essence and exchanges its own stage for the ultimate stage (of the angels). 
 
 This is the meaning of the choking feeling which Muhammad referred to in connection with the beginning of revelation in his statement= "And he (Gabriel) choked me until it became too much for me; then he released me. Then he said, 'Read,' and I replied, 'I cannot read.' 285 
 
@@ -98,5 +124,3 @@ For prophecy is a direct and independent contact of the essence of the prophet w
 These foreign notions enter into his perception and mingle with the perception toward which he aspires. 
 
 He thus becomes confused by them. So it is that falsehood makes its way to his (door). It is, therefore, impossible (for his activity) to be prophecy. 
-
-

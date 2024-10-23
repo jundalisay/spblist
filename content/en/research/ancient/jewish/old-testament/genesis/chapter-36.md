@@ -7,13 +7,11 @@ image: "/covers/old.jpg"
 ---
 
 
-1 These are the generations of Esau, who is Edom.
+<sup>1</sup> These are the generations of Esau, who is Edom.
 
-2 Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and
-Aholibamah the daughter of Anah the daughter of Zibeon
-the Hivite; 
+<sup>2</sup> Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite.
 
-{36:3} And Bashemath Ishmael’s daughter, sister of Nebajoth. {36:4} And Adah bare to Esau Eliphaz;
+<sup>3</sup> Bashemath Ishmael’s daughter, sister of Nebajoth. {36:4} And Adah bare to Esau Eliphaz;
 and Bashemath bare Reuel; 
 
 {36:5} And Aholibamah bare Jeush, and Jaalam, and Korah: these [are] the sons of Esau,

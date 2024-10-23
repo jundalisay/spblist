@@ -11,24 +11,24 @@ image: "/covers/old.jpg"
 
 Jacob divided the children unto Leah, and unto Rachel, and unto the 2 handmaids. 
 
-{33:2} And he put the handmaids and their children foremost, and Leah and her children after, and
-Rachel and Joseph hindermost. 
+<sup>2</sup> And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost. 
 
-{33:3} And he passed over before them, and bowed himself to the ground seven times,
+<sup>3</sup> He passed over before them, and bowed himself to the ground seven times,
 until he came near to his brother. 
 
-{33:4} And Esau ran to meet him, and embraced him, and fell on his neck, and
+<sup>4</sup> Esau ran to meet him, and embraced him, and fell on his neck, and
 kissed him: and they wept. 
 
-{33:5} He saw the women and the children and said:
+<sup>5</sup> He saw the women and the children and said:
 
-Who [are] those with thee?
+Who [are] those with you?
 
 he said, The children which God hath graciously given thy servant. {33:6} Then the handmaidens
 came near, they and their children, and they bowed themselves. 
 
-{33:7} Leah also with her children came near, and bowed themselves: and after came Joseph near
+<sup>7</sup> Leah also with her children came near, and bowed themselves: and after came Joseph near
 and Rachel, and they bowed themselves. 
+
 
 {33:8} he said
 
