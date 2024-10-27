@@ -140,7 +140,11 @@ They still use earthenware pots and occasionally calabashes to ladle water. For 
 
 Although there are no wealthy people among them, nevertheless, as they are a thrifty people. There are no poor and one sees no beggars in bad years.
 
-When Ting, Duke of Tsin, was degraded to the rank of Prefectural Finance Commissioner, he taught the people of Kiung-chou to read books and to write. From 1041-1049) Earl Sung Kuan-chi built the prefectural college, which was renovated in 1210 by Earl Chau Ju-hia. On which occasion,  tablets to the manes of Dukes Su Tung-po and Hu Tan-an were erected on the east and west of the Lecture hall. On the tablet of the hall was written ming-tau or the Enlighteners of the Way. 
+Ting, the Duke of Tsin, was degraded to the rank of Prefectural Finance Commissioner. Afterwards, he taught the people of Kiung-chou to read books and to write. 
+
+From 1041-1049, Earl Sung Kuan-chi built the prefectural college, which was renovated in 1210 by Earl Chau Ju-hia. 
+
+On which occasion, tablets to the manes of Dukes Su Tung-po and Hu Tan-an were erected on the east and west of the Lecture hall. On the tablet of the hall was written ming-tau or the Enlighteners of the Way. 
 
 In Hai-kon, there is a Temple of the 2 Fu-po of the Han dynasty where the manes of Lu Po-to and are worshipped. 
 
@@ -148,7 +152,6 @@ Those who pass by on the sea must pray here. No one may pursue his journey befor
 
 Five towns, Kiung-shan , Ch'ong-mai, Lin-kau, are subordinate to this and Lo-hui, W5n-ch'ang
 district (of K'iung-chou), and in each of them there is a Mwwaritime Customs
-
 
 The junks which trade there are divided into 3 classes:
 
@@ -159,4 +162,3 @@ The junks which trade there are divided into 3 classes:
 When a junk arrives, a Customs Inspector reports the fact to the District Magistrate who sends an officer to gauge the tonnage and determine the regulation duty. Officials of all ranks, as well as the soldiers, depend on this duty for their maintenance.
 
 After a journey of 236 li farther West, the military district of Ch'ang-hua is reached. 
-

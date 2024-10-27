@@ -74,7 +74,9 @@ An atom has a certain number of electron shells (different from other atoms) bec
 
 Similarly, a CEO sets the salary brackets [energy levels] for his employees because that's how he wants it (based on his Finance background [laws of thermodynamics]).
 
-The electron has to follow those shells imposed by the nucleon's territory just as light has to follow the speed imposed on it by the star's territory. Likewise, the employees have to follow the salary brackets in order to maintain the cohesiveness of the company (where the salary represents the energy states). 
+The electron has to follow those shells imposed by the nucleon's territory just as light has to follow the speed imposed on it by the star's territory. 
+
+Likewise, the employees have to follow the salary brackets in order to maintain the cohesiveness of the company (where the salary represents the energy states). 
 
 To Einstein, the speed of light is constant EVERYWHERE. So it means that light from a distant galaxy 1 million light years away is 1 million years old.
 

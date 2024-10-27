@@ -1,13 +1,14 @@
 ---
-title: "Polus' Treatise On Justice"
-
+title: "Polus' Treatise On Justice (Dharma)"
 weight: 14
-description: "Justice may be called the mother and the nurse of the other virtues"
+description: "Dharma may be called the mother and the nurse of the other virtues"
 image: "/covers/fragments.png"
 ---
 
 
-Justice may be called the mother and the nurse of the other virtues. 
+### Justice as Justice
+
+Justice* may be called the mother and the nurse of the other virtues. 
 
 Without this, a man can neither be temperate, nor brave, nor prudent. 
 
@@ -15,38 +16,128 @@ It is the harmony and peace, in conjunction with elegance, of the whole soul.
 
 The strength of this virtue will become more manifest, if we direct our attention to the other habits. 
 
-For they have a partial utility, and which is referred to one thing; but this is referred to whole systems, and to a multitude. 
+Our habits have a partial utility and refer to one thing. Justice, on the other hand, refers to whole systems, and to a multitude. 
 
-In the world therefore, it conducts the whole government of things, and is providence, harmony, and Dice, by the decree of a certain genus of Gods. 
+In the world therefore, justice:
+- conducts the whole government of things
+- is providence, harmony, and Dice, by the decree of a certain genus of Gods. 
 
-But in a city, it is justly called peace, and equitable legislation. 
+But in a city, justice is called peace and equitable legislation. 
 
-In a house, it is the concord between 255 the husband and wife.
+In a house, justice is:
+- the concord between the husband and wife
+- the benevolence of the servant towards the master
+- the anxious care of the master for his servant's welfare 
 
-The benevolence of the servant towards the master; and the anxious care of the master for the welfare of the servant. 
+In the body, justice is health and intireness of all the parts.
 
-In the body likewise, which is the first and dearest thing to all animals, [so far as they are animals,] it is the health and intireness of all the parts. But in the soul, it is the wisdom, which among men subsists from science and justice. 
+ <!-- likewise, which is the first and dearest thing to all animals, [so far as they are animals,] it is the  -->
 
-If therefore, this virtue thus disciplines and saves both the whole and the parts [of every thing] rendering things concordant and familiar with each other, how is it possible it should not be called by the decision of all men, the mother and the nurse of all things?
+But in the soul, justice is the wisdom, which among men subsists from science and justice. 
+
+Justice disciplines and saves both the whole and the parts of every thing. This renders things concordant and familiar with each other.
+
+
+### Justice as Dharma
+
+{{< n n="In Superphyiscs, we replace justice or δίκαι wtih dharma. We repeat the section above as dharma to make more sense" >}}
+
+Dharma may be called the mother and the nurse of the other virtues.  Without dharma, a man can neither be temperate, nor brave, nor prudent. 
+
+Dharma is the harmony and peace, in conjunction with elegance, of the whole soul. The strength of this virtue will become more manifest, if we direct our attention to the other habits. 
+
+Our habits have a partial utility and refer to one thing. 
+
+Dharma, on the other hand, refers to whole systems, and to a multitude. 
+
+In the world therefore, dharma:
+- conducts the whole government of things
+- is providence, harmony, and Dice, by the decree of a certain genus of Gods. 
+
+But in a city, dharma is called peace and equitable legislation. 
+
+In a house, dharma is:
+- the concord between the husband and wife
+- the benevolence of the servant towards the master
+- the anxious care of the master for his servant's welfare 
+
+In the body, dharma is health and intireness of all the parts.
+
+ <!-- likewise, which is the first and dearest thing to all animals, [so far as they are animals,] it is the  -->
+
+But in the soul, dharma is the wisdom, which among men subsists from science and justice. 
+
+Dharma disciplines and saves both the whole and the parts of every thing. This renders things concordant and familiar with each other.
+
+
+
+Why is it not be called by the decision of all men, the mother and the nurse of all things?
 
 Iamblichus preserves Archytas' Treatise on Wisdom. <!--  are preserved by , in the 3rd Chapter of his Protreptics, or Exhortations to Philosophy. -->
 
 <!-- Archytas therefore, in the beginning of his Treatise on Wisdom, exhorts to the possession of it as follows= -->
 
-1. Wisdom as much excels in all human affairs as the sight does the [other] corporeal senses, intellect the soul, and the sun the stars. 
+1. Wisdom is the best of all human affairs just as:
+- the sight is the best of the corporeal senses
+- intellect is the best of the soul
+- the sun is the best of the stars. 
 
-For the sight is the most far-darting, and the most multiform of all the senses; intellect is the supreme part of the soul, judging by reason and dianoïa what is fit, and existing as the sight and power of the most honorable things; 
+The sight is the most far-darting and most multiform of all the senses.
 
-The sun is the eye and soul of things which have a natural subsistence. For through it all things become visible, are generated, and rise into existence.[74] Deriving also their roots, and being generated from thence, they are nourished, increased and excited by it in conjunction with sense.
+Intellect is the supreme part of the soul, judging by reason and dianoïa what is fit, and existing as the sight and power of the most honorable things.
+
+The sun is the eye and soul of things which have a natural subsistence. Through it, all things become visible, are generated, and rise into existence.[74] 
+
+Deriving also their roots, and being generated from thence, they are nourished, increased and excited by it in conjunction with sense.
 
 
-2. “Man was generated by far the wisest of all [terrestrial] animals. For he is able to contemplate the things which exist, and to obtain from all things science and wisdom. 
+2. Man was generated by far as the wisest of all animals.
 
-To which also it may be added, that divinity has engraved and exhibited in him the system of universal reason, in which all the forms of things in existence are distributed, and the significations of nouns and verbs. For a place is assigned for the sounds of the voice, viz. the pharynx, the mouth, and the nostrils. But as man was generated the instrument of the sounds, through which nouns and verbs are signified, so likewise of the conceptions which are beheld in the things that have an existence. And this appears to me to be the work of wisdom, for the accomplishment of which man was generated and constituted, and received organs and powers from divinity.
+He is able to:
+- contemplate the things which exist
+- obtain from all things science and wisdom. 
 
-3. “Man was generated and constituted, for the purpose of contemplating the reason of the whole 257 of nature, and in order that, being himself the work of wisdom, he might survey the wisdom of the things which exist.—For if the reason of man is contemplative of the reason of the whole of nature, and the wisdom also of man perceives and contemplates the wisdom of the things in existence,—this being acknowledged, it is at the same time demonstrated, that man is a part of universal reason, and of the whole of the intellectual nature.
+Divinity has engraved and exhibited in him the system of universal reason, in which all the forms of things in existence are distributed, and the significations of nouns and verbs. 
 
-4. “Wisdom is not conversant with a certain definite existing thing, but is simply conversant with all the things that exist. And it is requisite, that it should not first investigate the principles of itself, but the common principles of all beings. For wisdom so subsists with reference to all beings, that it is the province of it to know and contemplate the universal accidents of all things. And on this account wisdom discovers the principles of all beings.
+For a place is assigned for the sounds of the voice, viz. the pharynx, the mouth, and the nostrils.
 
-5. “Whoever, therefore, is able to analyze all the genera which are contained under one and the same principle, and again to compose and con-numerate them, he appears to me to be the wisest of men, and to possess the most perfect veracity. Farther still, he will also have discovered a beautiful place of survey, from which it will be possible to behold divinity, and all things that are in co-ordination with, and successive to him, subsisting 258 separately, or distinct from each other.[75] Having likewise entered this most ample road, being impelled in a right direction by intellect, and having arrived at the end of his course, he will have conjoined beginnings with ends, and will know that God is the principle, middle, and end, of all things which are accomplished according to justice and right reason.”[76]
+But as man was generated the instrument of the sounds, through which nouns and verbs are signified, so likewise of the conceptions which are beheld in the things that have an existence. 
 
+This appears to me to be the work of wisdom, for the accomplishment of which man was generated and constituted, and received organs and powers from divinity.
+
+
+3. Man was generated and constituted, for the purpose of contemplating the reason of the whole of nature.
+
+Man himself was the work of wisdom.*
+
+{{< n n="This is consistent with our Anunnaki hypothesis wherein humans were created from genetic modifications from Homo Erectus by Enki" >}}
+
+In this way, he might survey the wisdom of the things which exist.
+- Human reason is contemplative of the reason of the whole of nature.
+- Human wisdom also perceives and contemplates the wisdom of the things in existence.
+
+This means that man is a part of universal reason, and of the whole of the intellectual nature.*
+
+{{< n n="Humans were created within the laws of Nature that even Enki had to follow" >}}
+
+
+4. Wisdom is not conversant with a certain definite existing thing.
+
+It is simply conversant with **all** the things that exist. 
+
+Wisdom should not first investigate the principles of itself, but the common principles of all beings. 
+
+This is because wisdom subsists with reference to all beings, that it is its job to know and contemplate the universal accidents of all things.
+
+This is how wisdom discovers the principles of all beings.
+
+
+5. Whoever is able to analyze all the genera which are contained under one and the same principle, and again to compose and con-numerate them, is the wisest of men.
+
+He has the most perfect veracity.
+
+He will also have discovered a beautiful place of survey, from which it will be possible to behold divinity, and all things that are in co-ordination with, and successive to him, subsisting  separately, or distinct from each other.[75] 
+
+He is impelled in a right direction by intellect. In the end, he will:
+- have conjoined beginnings with ends
+- know that God is the principle, middle, and end, of all things which are accomplished according to justice and right reason.[76]

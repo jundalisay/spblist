@@ -20,7 +20,7 @@ Trade | Barter
 
 Chaiya (Tanmaling) is under a ruler called Siangkung. 
 
-Its city is surrounded by a palisade six or seven feet thick and over 20 feet high, strong enough to be mounted for fighting purposes. 
+Its city is surrounded by a palisade 6-7 feet thick and over 20 feet high, strong enough to be mounted for fighting purposes. 
 
 They ride buffaloes, wear their hair done in a knot and go barefooted.
 
