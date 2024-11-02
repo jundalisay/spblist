@@ -1,13 +1,12 @@
 ---
-title: "Enuma Elish The Epic Of Creation"
-weight: 4
-image: "/covers/enuma.jpg"
-description: "Here we simplify Enuma Elish The Epic Of Creation"
-draft: true
+title: "The Death of Enkidu"
+weight: 19
+image: "/covers/gilga.jpg"
+description: "In my dream, Anu, Enlil, and Shamash held a council"
 --- 
+
   
-  
-In  my dream, Anu,  Enlil, and Shamash held a council. Anu said to Enlil:	
+In my dream, Anu, Enlil, and Shamash held a council. Anu said to Enlil:	
   
 'They killed the Bull of Heaven have also slain Humbaba, the one of them who pulled up the Cedar of the Mountain must die!'	
   

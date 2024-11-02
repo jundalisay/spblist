@@ -1,9 +1,8 @@
 ---
 title: "The Story Of the Flood"
-weight: 19
-image: "/covers/enuma.jpg"
-description: "Here we simplify Enuma Elish The Epic Of Creation"
-draft: true
+weight: 29
+image: "/covers/gilga.jpg"
+description: "I will tell you a secret of the gods. The old city Shuruppak is on the banks of the Euphrates. It had gods inside it"
 ---
 
 

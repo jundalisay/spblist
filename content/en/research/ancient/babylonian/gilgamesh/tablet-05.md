@@ -2,10 +2,10 @@
 title: "Gilgamesh Kills Humbaba"
 weight: 15
 image: "/covers/gilga.jpg"
-description: ""
+description: "They stood at the forest's edge, gazing at the top of the Cedar Tree gazing at the  entrance to the forest"
 --- 
 
-They stood  at  the forest's edge, gazing	at the top of the Cedar Tree gazing at the  entrance to the forest. 
+They stood at the forest's edge, gazing	at the top of the Cedar Tree gazing at the  entrance to the forest. 
   
 Humbaba to Gilgamesh:
 
