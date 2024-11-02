@@ -7,67 +7,64 @@ weight: 36
 ---
 
 
-The traditional translation of shem as "name" has kept the tale unintelligible for
-generations. Why did the ancient residents of Babel—Babylonia—exert themselves
-to "make a name," why was the "name" to be placed upon "a tower whose top shall
-reach the heavens," and how could the "making of a name" counteract the effects
-of Mankind's scattering upon Earth?
+The traditional translation of shem as "name" has kept the tale unintelligible for generations.
 
-If all that those people wanted was to make (as scholars explain) a "reputation"
-for themselves, why did this attempt upset the Lord so much? Why was the raising
-of a "name" deemed by the Deity to be a feat after which "anything which they
-shall scheme to do shall no longer be impossible for them"? The traditional
-explanations certainly are insufficient to clarify why the Lord found it necessary to
-call upon other unnamed deities to go down and put an end to this human
-attempt.
+Why did the ancient residents of Babel—Babylonia—exert themselves to "make a name"?
 
-We believe that the answers to all these questions become plausible—even
-obvious—once we read "skyborne vehicle" rather than "name" for the word shem,
-which is the term employed in the original Hebrew text of the Bible. The story
-would then deal with the concern of Mankind that, as the people spread upon
-Earth, they would lose contact with one another. So they decided to build a
-"skyborne vehicle" and to erect a launch tower for such a vehicle so that they, too,
-could—like the goddess Ishtar, for example—fly in a mu "over all the peopled
-lands."
+Why was the "name" to be placed on "a tower whose top shall reach the heavens"?
 
-A portion of the Babylonian text known as the Epic of Creation relates that the
-first "Gateway of the Gods" was constructed in Babylon by the gods themselves.
-The Anunnaki, the rank-and-file gods, were ordered to
-Construct the Gateway of the Gods…
+How could the "making of a name" counteract the effects of Mankind's scattering upon Earth?
+
+If all that those people wanted was to make (as scholars explain) a "reputation" for themselves, why did this attempt upset the Lord so much? 
+
+Why was the raising of a "name" deemed by the Deity to be a feat after which "anything which they shall scheme to do shall no longer be impossible for them"? 
+
+The traditional explanations certainly are insufficient to clarify why the Lord found it necessary to call on other unnamed deities to go down and put an end to this human attempt.
+
+We believe that the answers to all these questions become plausible—even obvious—once we read "skyborne vehicle" rather than "name" for the word shem, which is the term employed in the original Hebrew text of the Bible. 
+
+The story would then deal with the concern of Mankind that, as the people spread upon Earth, they would lose contact with one another. 
+
+So they decided to build a "skyborne vehicle" and to erect a launch tower for such a vehicle so that they, too, could—like the goddess Ishtar, for example—fly in a mu "over all the peopled lands."
+
+A portion of the Babylonian text known as the Epic of Creation relates that the first "Gateway of the Gods" was constructed in Babylon by the gods themselves.
+
+The Anunnaki, the rank-and-file gods, were ordered to Construct the Gateway of the Gods…
 Let its brickwork be fashioned.
 Its shem shall be in the designated place.
 
-For two years, the Anunnaki toiled—"applied the implement … molded bricks"—
+For 2 years, the Anunnaki toiled—"applied the implement … molded bricks"—
 until "they raised high the top of Eshagila" ("house of Great Gods") and "built the
 stage tower as high as High Heaven."
 
 It was thus some cheek on the part of Mankind to establish its own launch
 tower on a site originally used for the purpose by the gods, for the name of the
 place—Babili—literally meant "Gateway of the Gods."
-Is there any other evidence to corroborate the biblical tale and our
-interpretation of it?
+
+Is there any other evidence to corroborate the biblical tale and our interpretation of it?
 
 The Babylonian historian-priest Berossus, who in the third century B.C.
 compiled a history of Mankind, reported that the "first inhabitants of the land,
 glorying in their own strength … undertook to raise a tower whose 'top' should
-reach the sky." But the tower was overturned by the gods and heavy winds, "and
-the gods introduced a diversity of tongues among men, who till that time had all
-spoken the same language."
+reach the sky." 
 
-George Smith (The Chaldean Account of Genesis) found in the writings of the
-Greek historian Hestaeus a report that, in accordance with "olden traditions," the
-people who had escaped the Deluge came to Senaar in Babylonia but were driven
-away from there by a diversity of tongues. The historian Alexander Polyhistor (first
-century B.C.) wrote that all men formerly spoke the same language. Then some
+But the tower was overturned by the gods and heavy winds, "and the gods introduced a diversity of tongues among men, who till that time had all spoken the same language."
+
+George Smith (The Chaldean Account of Genesis) found in the writings of the Greek historian Hestaeus a report that, in accordance with "olden traditions," the people who had escaped the Deluge came to Senaar in Babylonia but were driven
+away from there by a diversity of tongues. 
+
+The historian Alexander Polyhistor (1st century B.C.) wrote that all men formerly spoke the same language. Then some
 undertook to erect a large and lofty tower so that they might "climb up to heaven."
 But the chief god confounded their design by sending a whirlwind; each tribe was
-given a different language. "The city where it happened was Babylon."
-There is little doubt by now that the biblical tales, as well as the reports of the
-Greek historians of 2,000 years ago and of their predecessor Berossus, all stem
-from earlier—Sumerian—origins. A. H. Sayee (The Religion of the Babylonians)
+given a different language. 
+
+"The city where it happened was Babylon."
+
+There is little doubt by now that the biblical tales, as well as the reports of the Greek historians of 2,000 years ago and of their predecessor Berossus, all stem from earlier—Sumerian—origins. A. H. Sayee (The Religion of the Babylonians)
 reported reading on a fragmentary tablet in the British Museum "the Babylonian
-version of the building of the Tower of Babel." In all instances, the attempt to
-reach the heavens and the ensuing confusion of tongues are basic elements of the
+version of the building of the Tower of Babel." 
+
+In all instances, the attempt to reach the heavens and the ensuing confusion of tongues are basic elements of the
 version. There are other Sumerian texts that record the deliberate confusion of
 Man's tongue by an irate god.
 
@@ -80,28 +77,26 @@ construction by men of a stage tower. (Fig. 74)
 Illustration:
 Confrontation between Armed Gods
 
-A Sumerian stela now on view in Paris in the Louvre may well depict the
-incident reported in the Book of Genesis. It was put up circa 2300 B.C. by NaramSin, king of Akkad, and scholars have assumed that it depicts the king victorious
-over his enemies. But the large central figure is that of a deity and not of the
-human king, for the person is wearing a helmet adorned with horns—the
-identifying mark exclusive to the gods. Furthermore, this central figure does not
-appear to be the leader of the smaller-sized humans, but to be trampling upon
-them. These humans, in turn, do not seem to be engaged in any warlike activities,
-but to be marching toward, and standing in adoration of, the same large conical
-object on which the deity's attention is also focused. Armed with a bow and lance,
+A Sumerian stela now on view in Paris in the Louvre may well depict the incident reported in the Book of Genesis. 
+
+It was put up circa 2300 B.C. by NaramSin, king of Akkad, and scholars have assumed that it depicts the king victorious over his enemies. But the large central figure is that of a deity and not of the
+human king, for the person is wearing a helmet adorned with horns—the identifying mark exclusive to the gods. Furthermore, this central figure does not appear to be the leader of the smaller-sized humans, but to be trampling upon
+them. 
+
+These humans, in turn, do not seem to be engaged in any warlike activities, but to be marching toward, and standing in adoration of, the same large conical object on which the deity's attention is also focused. Armed with a bow and lance,
 the deity seems to view the object menacingly rather than with adoration. (Fig. 75)
+
 
 Illustration:
 Humans advancing on a Shem
 
-The conical object is shown reaching toward three celestial bodies. If its size,
-shape, and purpose indicate that it was a shem, then the scene depicted an angry
-and fully armed god trampling upon people celebrating the raising of a shem.
+The conical object is shown reaching toward three celestial bodies. If its size, shape, and purpose indicate that it was a shem, then the scene depicted an angry and fully armed god trampling upon people celebrating the raising of a shem.
 Both the Mesopotamian texts and the biblical account impart the same moral:
 The flying machines were meant for the gods and not for Mankind.
 Men—assert both Mesopotamian and biblical texts—could ascend to the
 Heavenly Abode only upon the express wish of the gods. And therein lie more tales
 of ascents to the heavens and even of space flights.
+
 * * * * *
 
 

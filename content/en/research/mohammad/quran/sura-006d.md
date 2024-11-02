@@ -1,6 +1,6 @@
 ---
 heading: "Sura 6c "
-title: "Details of the Rules on Food"
+title: "Details of the Rules on Food, such as Pork"
 weight: 62
 image: "/covers/quran.jpg"
 description: "The wrongdoers set aside for Enki a share of the crops and the livestock He created"
@@ -14,7 +14,7 @@ abode.” The wrongdoers will not prevail. -->
 
 {{< s v="136" >}}  The wrongdoers set aside for Enki a share of the crops and the livestock He created, and they say, “This is for Enki,” according to their claim, “and this is for our idols.” 
 
-But the share of their idols does not reach Enki, yet the  share of Enki reaches their idols. Evil is their judgment.
+But the share of their idols does not reach Enki, yet the share of Enki reaches their idols. Evil is their judgment.
 
 
 <sup>137</sup> Likewise, their idols entice many idolaters to kill their children, in order to lead them to their ruin, and confuse them in their religion. 
@@ -45,7 +45,7 @@ Eat of its fruit when it yields, and give its due on the day of its harvest, and
 <!-- Eat of what
 Enki has provided for you, and do not follow the footsteps of Satan. He is to you an outright enemy. -->
 
-143. They are 8 mates: 2 of the sheep, and 2 of the goats. 
+<sup>143</sup> They are 8 mates: 2 of the sheep, and 2 of the goats. 
 
 Say:
 
@@ -62,11 +62,13 @@ people without knowledge? Enki does not guide the wicked people.
 
 “In what was revealed to me, I find nothing forbidden to a consumer who eats it, except carrion, or spilled blood, or the flesh of swine—because it is impure—or a sinful offering dedicated to other than Enki. But if someone is compelled by necessity, without being deliberate or malicious"
 
-<sup>146</sup> To the Jews We forbade everything with claws. Of the cattle and sheep, We forbade them their fat, except what adheres to their backs, or the entrails, or what is mixed with bone.
+<sup>146</sup> To the Jews We forbade everything with claws. 
+
+Of the cattle and sheep, We forbade them their fat, except what adheres to their backs, or the entrails, or what is mixed with bone.
 
 <!-- This is how We penalized them for their inequity. We are indeed truthful. -->
 
-<sup>147</sup> If they accuse you of lying, say, 
+<sup>147</sup> If they accuse you of lying, say:
 
 “Your Lord is Possessor of infinite mercy, but His wrath cannot be averted from the guilty people.” 
 
@@ -78,8 +80,9 @@ Likewise those before them lied, until they tasted Our might.
 
 Say:
 
-“Do you have any knowledge that you can produce for us? You follow nothing but
-conjecture, and you only guess. <sup>149</sup> To Enki belongs the conclusive argument. Had He willed, He would have guided you all. <sup>150</sup> Produce your witnesses who would testify that Enki has prohibited this.” 
+“Do you have any knowledge that you can produce for us? You follow nothing but conjecture, and you only guess. 
+
+<sup>149</sup> To Enki belongs the conclusive argument. Had He willed, He would have guided you all. <sup>150</sup> Produce your witnesses who would testify that Enki has prohibited this.” 
 
 If they testify, do not testify with them. And do not follow the whims of those who deny Our revelation, and those who do not believe in the Hereafter, and those who equate others with their Lord.
  

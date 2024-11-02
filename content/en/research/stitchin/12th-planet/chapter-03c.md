@@ -1,8 +1,8 @@
 ---
 heading: Chapter 3c
-title:  "Gods of Heaven and Earth"
+title:  "The Vedas"
 image:  "/covers/12th.jpg"
-description: "The art of war is of vital importance to the State. It is a matter of life and death"
+description: "Hinduism considers the Vedas—compositions of hymns, sacrificial formulas, and other sayings pertaining to the gods"
 weight: 18
 ---
 
@@ -13,32 +13,50 @@ The gods themselves composed them, the Hindu traditions say, in the age that pre
 
 But, as time went on, more and more of the original 100,000 verses, passed from generation to generation orally, were lost and confused. 
 
-In the end, a sage wrote down the remaining verses, dividing them into four books and trusting four of his principal disciples to preserve one Veda each.
+In the end, a sage wrote down the remaining verses, dividing them into 4 books and trusting 4 of his principal disciples to preserve one Veda each.
 
-When, in the nineteenth century, scholars began to decipher and understand forgotten languages and trace the connections between them, they realized that the Vedas were written in a very ancient Indo European language, the predecessor of the Indian root-tongue Sanskrit, of Greek, Latin, and other European languages. 
+In the 19th century, scholars began to decipher and understand forgotten languages and trace the connections between them. They realized:
+- that the Vedas were written in a very ancient Indo-European language
+  - This was the predecessor of the Indian root-tongue Sanskrit, Greek, Latin, and other European languages. 
+- the uncanny similarity between the Vedic tales of the gods and the Greek ones.
+<!-- When they were finally able to read and analyze the Vedas,  -->
 
-When they were finally able to read and analyze the Vedas, they were surprised to see the uncanny similarity between the Vedic tales of the gods and the Greek ones.
 
-The gods, the Vedas told, were all members of one large, but not necessarily peaceful, family. 
+The Vedas said that the gods were all members of one large, but not necessarily peaceful, family. 
 
 Amid the tales of ascents to the heavens and descents to Earth, aerial battles, wondrous weapons, friendships and rivalries, marriages and infidelities, there appears to have existed a basic concern for genealogical record keeping—who fathered whom, and who was the firstborn of whom. 
 
-The gods on Earth originated in the heavens; and the principal deities, even on Earth,
-continued to represent celestial bodies.
+The gods on Earth originated in the heavens; and the principal deities, even on Earth, continued to represent celestial bodies.
 
 In primeval times, the Rishis ("primeval flowing ones") "flowed" celestially, possessed of irresistible powers. 
 
-Of them, seven were the Great Progenitors. The gods Rahu ("demon") and Ketu ("disconnected") were once a single celestial body that sought to join the gods without permission. 
+Of them, 7 the Great Progenitors. 
 
-But the God of Storms hurled his flaming weapon at him, cutting him into two parts—Rahu, the "Dragon's Head," which unceasingly traverses the heavens in search of vengeance, and Ketu, the "Dragon's Tail." 
+The gods Rahu ("demon") and Ketu ("disconnected") were once a single celestial body that 
 
-Mar-Ishi, the progenitor of the Solar Dynasty, gave birth to KashYapa ("he who is the throne"). 
 
-The Vedas describe him as having been quite prolific; but the dynastic succession was continued only through his ten children by Prit-Hivi ("heavenly mother").
+
+One of them sought to join the gods without permission. But the God of Storms hurled his flaming weapon at him, cutting him into two parts:
+
+1. Rahu, the "Dragon's Head"
+
+He unceasingly traverses the heavens in search of vengeance
+
+2. Ketu, the "Dragon's Tail" 
+
+
+The progenitor of the Solar Dynasty was Mar-Ishi.
+- He gave birth to KashYapa ("he who is the throne"). 
+
+The Vedas describe him as having been quite prolific. But the dynastic succession was continued only through his 10 children by Prit-Hivi* ("heavenly mother").
+
+{{< n n="In Superphysics, Pritvi is the Material Layer" >}}
 
 As dynastic head, Kash-Yapa was also chief of the devas ("shining ones") and bore the title Dyaus-Pitar ("shining father"). 
 
-Together with his consort and 10 children, the divine family made up the twelve Adityas, gods who were each assigned a sign of the zodiac and a celestial body. Kash-Yapa's celestial body was "the shining star",
+Together with his consort and 10 children, the divine family made up the 12 Adityas, gods who were each assigned a sign of the zodiac and a celestial body. 
+
+Kash-Yapa's celestial body was "the shining star",
 
 Prit-Hivi represented Earth. Then there were the gods whose celestial counterparts included the Sun, the Moon, Mars, Mercury, Jupiter, Venus, and Saturn.
 

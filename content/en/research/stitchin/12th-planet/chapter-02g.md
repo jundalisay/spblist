@@ -1,8 +1,8 @@
 ---
 heading: Chapter 2g
-title:  "Fashion and Agriculture"
+title:  "The Sumerian Firsts"
 image:  "/covers/12th.jpg"
-description: "One of Sumer's earliest material achievements was the development of textile and clothing industries"
+description: "The table of contents of From the Tablets of Sumer has 25 chapters described Sumerian 'firsts'"
 weight: 11
 ---
 

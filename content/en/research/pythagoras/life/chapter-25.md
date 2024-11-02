@@ -29,19 +29,24 @@ He believed that the pipe:
 
 Select verses also of Homer and Hesiod were used by him, for the purpose of correcting the soul. 
 
-Among the deeds of Pythagoras likewise, it is said, that once through the spondaic song of a piper, he extinguished the rage of a Tauromenian lad, who had been feasting by night, and intended to burn the vestibule of his mistress, in consequence of seeing her coming from the house of his rival. 
+Pythagoras was said to the extinguished the rage of a Tauromenian man through a spondaic song of a piper.
 
-For the lad was inflamed and excited [to this rash attempt] by a Phrygian song; which however Pythagoras most rapidly suppressed. But Pythagoras, as he was astronomizing, happened to meet with the Phrygian piper at an unseasonable time of night, and persuaded him to change his Phrygian for a spondaic song; through which the fury of the lad being immediately repressed, he returned home in an orderly manner, though a little before this, he could not be in the least restrained, nor would in short, bear any admonition; and even stupidly insulted Pythagoras when he met him.
+The man had been feasting at night and saw his mistress coming from the house of his rival. A Phrygian song then made him so inflamed and angry that it prompted him to burn her.
 
-When a certain youth also rushed with a drawn sword on Anchitus, the host of Empedocles, because, being a judge, he had publicly condemned his father to death, and would have slain him as a homicide, Empedocles changed the intention of the youth, by singing to his lyre that verse of Homer,
+ <!-- the vestibule of his mistress, in consequence of seeing her .  -->
+
+At that time, Pythagoras was astronomizing. He met with the Phrygian piper at an unseasonable time of night, and persuaded him to change his Phrygian for a spondaic song.
+
+This most rapidly suppressed the fury of the man. He returned home in an orderly manner, though a little before this, he could not be  restrained, nor bear any admonition and even stupidly insulted Pythagoras when he met him.
+
+
+Anchitus was a judge and the host of Empedocles. Anchitus had publicly condemned a young man's father to death. The young man rushed with a drawn sword on Anchitus.  But Empedocles changed the intention of the youth, by singing to his lyre that verse of Homer:
 
 Nepenthe, without gall, o’er every ill
-
 Oblivion spreads;——[28]
 
-Thus he snatched his host Anchitus from death, and the youth from the crime of homicide. 
+Thus he snatched his host Anchitus from death, and the youth from the crime of homicide. The youth from that time became the most celebrated of the disciples of Pythagoras.
 
-It is also related that the youth from that time became the most celebrated of the disciples of Pythagoras.
 
 The whole Pythagoric school produced by certain appropriate songs, what they called exartysis or adaptation, synarmoge or elegance of manners, and epaphe or contact, usefully conducting the dispositions of the soul to passions contrary to those which it before possessed. 
 

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 32
 title: "The Gold Bull Calf"
-description: "In the third month, the children of Israel came into he wilderness of Sinai"
+description: "When the people saw that Moses delayed to come down out of the mount, they gathered around Aaron"
 weight: 8
 image: "/graphics/history/moses.jpg"
 ---
@@ -9,7 +9,7 @@ image: "/graphics/history/moses.jpg"
 
 <sup>1</sup> When the people saw that Moses delayed to come down out of the mount, they gathered around Aaron and said to him:
 
-{{< r a="Jews" >}}
+{{< r a="Israelites" >}}
 Up, make us gods, which shall go before us because we do not know what has happened to Moses.
 {{< /r >}}
 
@@ -21,7 +21,7 @@ Up, make us gods, which shall go before us because we do not know what has happe
 <sup>3</sup> The people broke off the golden earrings which were in their ears, and brought
 them to Aaron. <sup>4</sup> He fashioned them with a graving tool, after he had made it a molten calf.
 
-{{< r a="Jews" >}}
+{{< r a="Israelites" >}}
 These are your gods, O Israel, which brought you out of Egypt.
 {{< /r >}}
 
@@ -55,14 +55,14 @@ LORD, why are you angry against your people which you have brought out of Egypt 
 
 <sup>14</sup> Enki relented of the evil which he thought to do to his people.
 
-<sup>15</sup> Moses turned and went down from the mount with the two tables of the testimony in his
-hand: the tables were written on both their sides; on the one side and on the other [were] they written. 
+<sup>15</sup> Moses turned and went down from the mount with the two tablets of the testimony in his
+hand: the tablets were written on both their sides; on the one side and on the other [were] they written. 
 
-<sup>16</sup> The tables were the work of Enki. The writing was the writing of Enki, graven on the tables. 
+<sup>16</sup> The tablets were the work of Enki. The writing was the writing of Enki, graven on the tablets. 
 
 <sup>17</sup> When Joshua heard the noise of the people as they shouted, he said to Moses:
 
-{{< r a="Aaron" >}}
+{{< r a="Joshua" >}}
 There is a noise of war in the camp.
 {{< /r >}}
 
@@ -77,10 +77,8 @@ Moses became very angry. He threw the tablets out of his hands, and broke them b
 
 <sup>20</sup> He took the calf which they had made, and burnt it in the fire, and ground it to powder, and strawed it on the water, and made the children of Israel drink of it.
 
-<sup>21</sup> Moses said to Aaron:
-
 {{< l a="Moses" >}}
-What did these people do to you, that you have led them into so great a sin?
+<sup>21</sup> [To Aaron] What did these people do to you, that you have led them into so great a sin?
 {{< /l >}}
 
 {{< r a="Aaron" >}}
@@ -93,29 +91,44 @@ What did these people do to you, that you have led them into so great a sin?
 
 <sup>25</sup> Moses saw that the people were naked for Aaron had made them naked to make them the laughing stock of their enemies.
 
-<sup>26</sup> Then Moses stood in the gate of the camp, and said, Whoever is on Enki's side, let him come to me. All the sons of Levi gathered to him.
+<sup>26</sup> Then Moses stood in the gate of the camp, and announced:
 
-<sup>27</sup> He said to them:
+{{< l a="Moses" >}}
+Whoever is on Enki's side, let him come to me. 
+{{< /l >}}
 
-Thus saith the LORD God of Israel, Put every man his sword by his side, [and] go in and out from gate to gate throughout the camp, and slay every man his brother, and
-every man his companion, and every man his neighbour.
+All the sons of Levi gathered to him.
+
+
+{{< l a="Moses" >}}
+<sup>27</sup> [To the Levites] Enki said to take your swords and go throughout the camp and slay every brother, companion, and neighbour.
+{{< /l >}}
 
 <sup>28</sup> The children of Levi did according to the word of Moses and killed on that day about 3,000 men. 
 
-<sup>29</sup> Moses had said, Consecrate yourselves to day to Enki, even every man on his son, and upon his brother; that he may bestow upon you a blessing this day.
+{{< l a="Moses" >}}
+<sup>29</sup> Consecrate yourselves to day to Enki, even every man on his son, and upon his brother that he may bestow on you a blessing today.
+{{< /l >}}
+
 
 <sup>30</sup> The next day, Moses said to the people:
 
+{{< l a="Moses" >}}
 You have sinned a great sin. Now I will go up to Enki and atone for your sin. 
+{{< /l >}}
+
 
 <sup>31</sup> Moses returned to Enki and said:
 
-'Oh, this people have sinned a great sin, and have made them gods of gold. {32:32} Yet now, if thou
-wilt forgive their sin--; and if not, blot me, I pray thee, out of thy book which thou hast written. 
+{{< r a="Moses" >}}
+'Oh, these people have greatly sinned, and have made gods of gold. <sup>32</sup> Please forgive their sin. If not, please erase me from the book which you have written. 
+{{< /r >}}
 
-<sup>33</sup> Enki said to Moses, Whosoever hath sinned against me, him will I blot out of my book. 
 
-<sup>34</sup> Therefore now go, lead the people unto [the place] of which I have spoken unto thee: behold, mine Angel shall go before thee: nevertheless in the day when I visit I will visit their sin upon them. 
+{{< l a="Enki" >}}
+<sup>33</sup> Whoever had sinned against me, I will erase out of my book. <sup>34</sup> So go now and lead the people to the place I told you. My agent shall go before you. But on the day I settle accounts, I will hold them accountable  for their sin. 
+{{< /l >}}
 
-<sup>35</sup> The LORD plagued the people, because they made the calf, which Aaron made.
+
+<sup>35</sup> So Enki plagued the people because they made the calf which Aaron made.
 

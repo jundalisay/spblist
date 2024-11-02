@@ -1,6 +1,6 @@
 ---
 title: "Well-ordered States with Self-Restraint"
-heading: "Chapter 1b Book 4"
+heading: "Chapter 1b"
 weight: 10
 image: "/covers/republic.jpg"
 description: "Socrates emphasized self-restraint in well-ordered States"

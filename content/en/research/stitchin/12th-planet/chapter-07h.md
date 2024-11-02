@@ -21,8 +21,6 @@ Who is Tiamat?
 
 The roles of, and references to, Tiamat and Earth appear to be interchangeable.
 
-
-
 Earth is Tiamat reincarnated. The Moon is called Earth's "protector"; that is exactly what Tiamat called Kingu, her chief satellite.
 
 The Creation epic specifically excludes Kingu from the "host" of Tiamat that were shortened and scattered and put into reverse motion around the Sun as comets.

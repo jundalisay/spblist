@@ -1,9 +1,9 @@
 ---
 heading: Chapter 8c
-title: The Planet Marduk
+title: Planet X
 # title:  "Kingship of Heaven"
 image:  "/covers/12th.jpg"
-description: "Ninurta, too, could fly, as skillfully as Zu"
+description: "Mesopotamian texts exalted Marduk's radiance and suggested that it could be seen even at daytime"
 weight: 56
 ---
 
@@ -73,11 +73,11 @@ Human familiarity with the 12th Planet's periodic appearances and disappearances
 
 The fact is that even an orbit half as long as the lower figure for Kohoutek would take the 12th Planet about six times farther away from us than Pluto—a distance at which such a planet would not be visible from Earth, since it would barely (if at all) reflect the Sun's light toward Earth. 
 
-In fact, the known planets beyond Saturn were first discovered not visually but mathematically. The
-orbits of known planets, astronomers found, were apparently being affected by
-other celestial bodies.
+The known planets beyond Saturn were first discovered not visually but mathematically. The orbits of known planets, astronomers found, were apparently being affected by other celestial bodies.
 
-This may also be the way in which astronomers will "discover" the 12th Planet. There has already been speculation that a "Planet X" exists, which, though unseen, may be "sensed" through its effects on the orbits of certain comets. 
+This may also be the way in which astronomers will "discover" the 12th Planet. 
+
+There has already been speculation that a "Planet X" exists, which, though unseen, may be "sensed" through its effects on the orbits of certain comets. 
 
 In 1972, Joseph L. Brady of the Lawrence Livermore Laboratory of the University of California discovered that discrepancies in the orbit of Halley's comet could be caused by a planet the size of Jupiter orbiting the Sun every 1,800 years. 
 
@@ -165,4 +165,3 @@ The conclusion that suggests itself is that these shar's of rulership were relat
 to the orbital period shar (3,600 years) of the planet "Shar," the "Planet of
 Kingship"; that Alulim reigned during eight orbits of the 12th Planet, Alalgar
 during ten orbits, and so on.
-

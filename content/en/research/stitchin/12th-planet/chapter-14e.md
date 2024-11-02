@@ -1,8 +1,8 @@
 ---
 heading: Chapter 14e
-title:  "Berossus's version of the Flood"
+title:  "The Ages on Earth"
 image:  "/covers/12th.jpg"
-description: "The art of war is of vital importance to the State. It is a matter of life and death"
+description: "Having landed on Earth, the Nefilim associated the first reigns in the first cities with the zodiacal ages"
 weight: 94
 ---
 
@@ -21,8 +21,7 @@ The Sun, his god, he frightens.
 {{< /q >}}
 
 
-Calling out the "first name" of the planet—which, unfortunately, is illegible—the
-text describes the passage near Jupiter, toward the site of the battle with Tiamat:
+Calling out the "first name" of the planet—which, unfortunately, is illegible—the text describes the passage near Jupiter, toward the site of the battle with Tiamat:
 
 {{< q >}}
 First Name: …
@@ -68,8 +67,7 @@ Day which … said.
 
 
 
-The flooding had ceased, the ark was "arrested" on the twin-peaked mountain; the rivers began to flow again from the mountaintops and carry the waters back to the oceans; fish were seen; a bird
-was sent out from the ark. The ordeal was over.
+The flooding had ceased, the ark was "arrested" on the twin-peaked mountain; the rivers began to flow again from the mountaintops and carry the waters back to the oceans; fish were seen; a bird was sent out from the ark. The ordeal was over.
 
 
 When the savant shall call out: "Flooding!"—
@@ -81,7 +79,7 @@ To his resting place he shall lower himself.
 (The receding planet, the text asserts, then recrossed the path of Saturn in the
 month of Ululu, the sixth month of the year.)
 
-The Old Testament frequently refers to the time when the Lord caused Earth to be covered by the waters of the deep. The twenty-ninth Psalm describes the "calling" as well as the "return" of the "great waters" by the Lord:
+The Old Testament frequently refers to the time when the Lord caused Earth to be covered by the waters of the deep. The 29th Psalm describes the "calling" as well as the "return" of the "great waters" by the Lord:
 
 Unto the Lord, ye sons of the gods,
 Give glory, acknowledge might…
@@ -98,8 +96,7 @@ The Lord's sound shaketh the desert…
 The Lord to the Deluge [said]: "Return!"
 The Lord, as king, is enthroned forever.
 
-In the magnificent Psalm 77-"Aloud to God I Cry"—the Psalmist recalls the
-Lord's appearance and disappearance in earlier times:
+In the magnificent Psalm 77-"Aloud to God I Cry"—the Psalmist recalls the Lord's appearance and disappearance in earlier times:
 
 I have calculated the Olden Days,
 The years of Olam…
@@ -116,8 +113,7 @@ The Earth was agitated and it quaked.
 Thine paths in the deep waters;
 And thine footsteps were gone, unknown.
 
-Psalm 104, exalting the deeds of the Celestial Lord, recalled the time when the
-oceans overran the continents and were made to go back:
+Psalm 104 exalted the deeds of the Celestial Lord. It recalled when the oceans overran the continents and were made to go back:
 
 Thou didst fix the Earth in constancy,
 For ever and ever to be unmoved.
@@ -141,23 +137,18 @@ These, then, were the events that took place "in olden days." The "Day of the
 Lord" was the day of the Deluge.
 
 
-
-Having landed on Earth, the Nefilim associated the first reigns in the first cities with the zodiacal ages—giving the zodiacs the epithets of the various associated gods. We now find that the text uncovered by Ebeling provided calendarial information not only for men but also for the Nefilim. The
-Deluge, it informs us, occurred in the "Age of the constellation Lion";
+Having landed on Earth, the Nefilim associated the first reigns in the first cities with the zodiacal ages—giving the zodiacs the epithets of the various associated gods. We now find that the text uncovered by Ebeling provided calendarial information not only for men but also for the Nefilim. The Deluge, it informs us, occurred in the "Age of the constellation Lion";
 
 Supreme, Supreme, Anointed;
 Lord whose shining crown with terror is laden.
 Supreme planet: a seat he has set up
 Facing the confined orbit of the red planet [Mars].
 Daily within the Lion he is afire;
+His light, his bright kingships on the lands pronounces.
 
-His light his bright kingships on the lands pronounces.
-We can now also understand an enigmatic verse in the New Year's rituals,
-stating that it was "the constellation Lion that measured the waters of the deep."
-These statements place the time of the Deluge within a definite framework, for
-though astronomers nowadays cannot precisely ascertain where the Sumerians
-set the beginning of a zodiacal house, the following timetable for the ages is
-considered accurate.
+We can now also understand an enigmatic verse in the New Year's rituals, stating that it was "the constellation Lion that measured the waters of the deep."
+
+These statements place the time of the Deluge within a definite framework, for though astronomers nowadays cannot precisely ascertain where the Sumerians set the beginning of a zodiacal house, the following timetable for the ages is considered accurate.
 
 60 B.C. to A.D. 2100—Age of Pisces
 2220 B.C. to 60 B.C.—Age of Aries
@@ -168,19 +159,13 @@ considered accurate.
 If the Deluge occurred in the Age of the Lion, or sometime between 10,860 B.C.
 and 8700 B.C., then the date of the Deluge falls well within our timetable:
 
-According to modern science, the last ice age ended abruptly in the southern
-hemisphere some twelve to thirteen thousand years ago, and in the northern
-hemisphere one or two thousand years later.
+According to modern science, the last ice age ended abruptly in the southern hemisphere some twelve to thirteen thousand years ago, and in the northern hemisphere one or two thousand years later.
 
-The zodiacal phenomenon of precession offers even more comprehensive
-corroboration of our conclusions. We concluded earlier that the Nefilim landed on
-Earth 432,000 years (120 shar's) before the Deluge, in the Age of Pisces. In terms
-of the precessional cycle, 432,000 years comprise sixteen full cycles, or Great
-Years, and more than halfway through another Great Year, into the "age" of the
-constellation of the Lion.
+The zodiacal phenomenon of precession offers even more comprehensive corroboration of our conclusions. We concluded earlier that the Nefilim landed on Earth 432,000 years (120 shar's) before the Deluge, in the Age of Pisces. 
 
-We can now reconstruct the complete timetable for the events embraced by our
-findings.
+In terms of the precessional cycle, 432,000 years comprise sixteen full cycles, or Great Years, and more than halfway through another Great Year, into the "age" of the constellation of the Lion.
+
+We can now reconstruct the complete timetable for the events embraced by our findings.
 
 
 Years Ago | EVENT

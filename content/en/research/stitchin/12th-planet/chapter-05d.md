@@ -7,30 +7,24 @@ weight: 34
 ---
 
 
-Professor H. Frankfort (Cylinder Seals), demonstrating how both the art of
-making the Mesopotamian cylinder seals and the subjects depicted on them
-spread throughout the ancient world, reproduces the design on a seal found in
-Crete and dated to the thirteenth century B.C. The seal design clearly depicts a
-rocket ship moving in the skies and propelled by flames escaping from its rear.
-(Fig. 69)
+Professor H. Frankfort (Cylinder Seals) demonstrated how both the art of making the Mesopotamian cylinder seals and the subjects depicted on them spread throughout the ancient world.
 
+He reproduces the design on a seal found in Crete and dated to the 13th century B.C. The seal design clearly depicts a
+rocket ship moving in the skies and propelled by flames escaping from its rear. (Fig. 69)
 
-The winged horses, the entwined animals, the winged celestial globe, and the deity with horns protruding from his headdress are all known Mesopotamian themes. It can certainly be assumed that the fiery rocket shown on the Cretan seal
-was also an object familiar throughout the ancient Near East.
-Indeed, a rocket with "wings" or fins—reachable by a "ladder"—can be seen on a
-tablet excavated at Gezer, a town in ancient Canaan, west of Jerusalem. The
-double imprint of the same seal also shows a rocket resting on the ground next to
-a palm tree. The celestial nature or destination of the objects is attested by
-symbols of the Sun, Moon, and zodiacal constellations that adorn the seal. (Fig.
+The winged horses, the entwined animals, the winged celestial globe, and the deity with horns protruding from his headdress are all known Mesopotamian themes. It can certainly be assumed that the fiery rocket shown on the Cretan seal was also an object familiar throughout the ancient Near East.
+
+A rocket with "wings" or fins—reachable by a "ladder"—can be seen on a tablet excavated at Gezer, a town in ancient Canaan, west of Jerusalem. 
+
+The double imprint of the same seal also shows a rocket resting on the ground next to a palm tree. The celestial nature or destination of the objects is attested by symbols of the Sun, Moon, and zodiacal constellations that adorn the seal. (Fig.
 70)
 <!-- Illustration:
 Various Space Rockets -->
 
-The Mesopotamian texts that refer to the inner enclosures of temples, or to the
-heavenly journeys of the gods, or even to instances where mortals ascended to the
-heavens, employ the Sumerian term mu or its Semitic derivatives shu-mu ("that
-which is a mu'?, sham, or shem. Because the term also connoted "that by which
-one is remembered," the word has come to be taken as meaning "name." But the
+The Mesopotamian texts that refer to the inner enclosures of temples, or to the heavenly journeys of the gods, or even to instances where mortals ascended to the heavens, employ the Sumerian term mu or its Semitic derivatives shu-mu ("that
+which is a mu'?, sham, or shem. 
+
+Because the term also connoted "that by which one is remembered," the word has come to be taken as meaning "name." But the
 universal application of "name" to early texts that spoke of an object used in flying
 has obscured the true meaning of the ancient records.
 
@@ -102,56 +96,55 @@ Eternal Life. (Fig. 73)
 Illustration:
 Opening of Mouth Ceremony
 
-The persistence of biblical translators to employ "name" wherever they
-encounter shem has ignored a farsighted study published more than a century ago
-by G. M. Redslob (in Zeitschrift der Deutschen Morgenländischen Gesellschaft) in
+The persistence of biblical translators to employ "name" wherever they encounter shem has ignored a farsighted study published more than a century ago by G. M. Redslob (in Zeitschrift der Deutschen Morgenländischen Gesellschaft) in
 which he correctly pointed out that the term shem and the term shamaim
 ("heaven") stem from the root word shamah, meaning "that which is highward."
-When the Old Testament reports that King David "made a shem" to mark his
-victory over the Aramaeans, Redslob said, he did not "make a name" but set up a
-monument pointing skyward.
+
+When the Old Testament reports that King David "made a shem" to mark his victory over the Aramaeans, Redslob said, he did not "make a name" but set up a monument pointing skyward.
 
 The realization that mu or shem in many Mesopotamian texts should be read
 not as "name"' but as "sky vehicle" opens the way to the understanding of the true
 meaning of many ancient tales, including the biblical story of the Tower of Babel.
-The Book of Genesis, in its eleventh chapter, reports on the attempt by humans
-to raise up a shem. The biblical account is given in concise (and precise) language
-that bespeaks historical fact. Yet generations of scholars and translators have
-sought to impart to the tale only an allegorical meaning because—as they
+
+The Book of Genesis, in its eleventh chapter, reports on the attempt by humans to raise up a shem. The biblical account is given in concise (and precise) language that bespeaks historical fact. 
+
+Yet generations of scholars and translators have sought to impart to the tale only an allegorical meaning because—as they
 understood it—it was a tale concerning Mankind's desire to "make a name" for
-itself. Such an approach voided the tale of its factual meaning; our conclusion
-regarding the true meaning of shem makes the tale as meaningful as it must have
-been to the people of antiquity themselves.
+itself. 
+
+Such an approach voided the tale of its factual meaning; our conclusion regarding the true meaning of shem makes the tale as meaningful as it must have been to the people of antiquity themselves.
 
 The biblical tale of the Tower of Babel deals with events that followed the
 repopulation of Earth after the Deluge, when some of the people "journeyed from
-the east, and they found a plain in the land of Shin'ar, and they settled there."
-The Land of Shinar is, of course, the Land of Sumer, in the plain between the
-two rivers in southern Mesopotamia. And the people, already knowledgeable
-concerning the art of brickmaking and high-rise construction for an urban
-civilization, said:
+the east, and they found a plain in the land of Sumer, and they settled there."
 
+<!-- The Land of Shinar is, of course, the Land of Sumer, in the plain between the
+two rivers in southern Mesopotamia. And  -->
+
+The people, already knowledgeable concerning the art of brickmaking and high-rise construction for an urban
+civilization, said:
 
 "Let us build us a city,
 and a tower whose top shall reach the heavens;
 and let us make us a shem,
 lest we be scattered upon the face of the Earth."
+
 But this human scheme was not to God's liking.
-And the Lord came down,
-to see the city and the tower
+
+And the Lord came down, to see the city and the tower
 which the Children of Adam had erected.
-And he said: "Behold,
-all are as one people with one language,
+
+And he said: "Behold, all are as one people with one language,
 and this is just the beginning of their undertakings;
 Now, anything which they shall scheme to do
 shall no longer be impossible for them."
-And the Lord said—to some colleagues whom the Old Testament does not name:
-"Come, let us go down,
-and there confound their language;
-So that they may not understand each other's speech."
-And the Lord scattered them from there
-upon the face of the whole Earth,
-and they ceased to build the city.
-Therefore was its name called Babel,
-for there did the Lord mingle the Earth's tongue.
 
+And the Lord said—to some colleagues whom the Old Testament does not name:
+
+"Come, let us go down, and there confound their language;
+So that they may not understand each other's speech."
+
+And the Lord scattered them from there upon the face of the whole Earth,
+and they ceased to build the city.
+
+Therefore was its name called Babel, for there did the Lord mingle the Earth's tongue.

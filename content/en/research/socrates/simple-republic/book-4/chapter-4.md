@@ -1,6 +1,6 @@
 ---
-title: "The Nature of Science "
-heading: "Chapter 4 of Book 4"
+title: "The Nature of Science"
+heading: "Chapter 4"
 weight: 16
 image: "/covers/republic.jpg"
 description: "The word 'science' is no longer to be used absolutely. Instead, it has a qualified object"

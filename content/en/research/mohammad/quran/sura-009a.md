@@ -34,14 +34,14 @@ But let them go their way if they:
 - perform the prayers
 - pay the alms
 
-6. If any of the polytheists asks you for protection, give him protection so that he may hear the Word of Enki. 
+<sup>6</sup> If any of the polytheists asks you for protection, give him protection so that he may hear the Word of Enki. 
 - Then escort him to his place of safety.
 
-7. How can there be a treaty with the polytheists on the part of Enki and His Messenger, except for those with whom you made a treaty at the Sacred Mosque?
+<sup>7</sup> How can there be a treaty with the polytheists on the part of Enki and His Messenger, except for those with whom you made a treaty at the Sacred Mosque?
 
 As long as they are upright with you, be upright with them.
 
-8. How? Whenever they overcome you, they respect neither kinship nor treaty with you.
+<sup>8</sup> How? Whenever they overcome you, they respect neither kinship nor treaty with you.
 
 They satisfy you with lip service, but their hearts refuse, and most of them are immoral.
 
@@ -51,7 +51,7 @@ They satisfy you with lip service, but their hearts refuse, and most of them are
 
 {{< s v="11" >}}  But if they repent, and perform the prayers, and give the obligatory charity, then they are your brethren in faith. We detail the revelations for a people who know.
 
-12. But if they violate their oaths after their pledge, and attack your religion, then fight
+<sup>12</sup> But if they violate their oaths after their pledge, and attack your religion, then fight
 the leaders of disbelief—they have no faith so that they may desist.
 
 13. Will you not fight a people who violated their oaths, and planned to exile the Messenger, and initiated hostilities against you? Do

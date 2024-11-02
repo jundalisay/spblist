@@ -67,7 +67,7 @@ suppression of thoughts brought about by the external world.
 
 <sup>19</sup> By applying perfect discipline on the perceptions of another person, one gains insights on that person’s mind <sup>20</sup>  even if such insights are not the acual reality now. 
 
-<sup>21</sup> By applying perfect discipline on one's own body, it becomes invisible. The eyes of others are disengaged from incoming light, and theur power to perceive is suspended.
+<sup>21</sup> By applying perfect discipline on one's own body, it becomes invisible. The eyes of others are disengaged from incoming light, and their power to perceive is suspended.
 
 <sup>22</sup> Likewise, through perfect discipline other percepts - sound, smell, taste, touch - can be made to disappear.
 

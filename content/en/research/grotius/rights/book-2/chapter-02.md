@@ -39,7 +39,9 @@ Men at that period subsisted upon the spontaneous productions of the ground: a s
 
 Agriculture and pasturage seem to have been the most ancient pursuits, which characterized the first brothers. Some distribution of things would necessarily follow these different states; and we are informed by holy writ, that the rivalry thus created ended in murder. At length men increasing in wickedness by their evil communications with each other, the race of Giants, that is of strong and violent men appeared, whom the Greeks denominate by a title, signifying those who make their own hands and strength the measure of justice.
 
-The world in progress of time being cleared of this race by the deluge, the savage was succeeded by a softer and more sensual way of life, to which the use of wine88 proved subservient, being followed by all the evil consequences of intoxication. But the greatest breach in the harmony of men was made by ambition, which is considered in some measure, as the offspring of a noble mind. Its first and most eminent effects appeared in the attempt to raise the tower of Babel; the failure of which caused the dispersion of mankind, who took possession of different parts of the earth.
+The world in progress of time being cleared of this race by the deluge, the savage was succeeded by a softer and more sensual way of life, to which the use of wine88 proved subservient, being followed by all the evil consequences of intoxication. But the greatest breach in the harmony of men was made by ambition, which is considered in some measure, as the offspring of a noble mind. 
+
+Its first and most eminent effects appeared in the attempt to raise the tower of Babel; the failure of which caused the dispersion of mankind, who took possession of different parts of the earth.
 
 Still after this a community of lands for pasture, though not of flocks, prevailed among men. For the great extent of land was sufficient for the use of all occupants, as yet but few in number, without their incommoding each other. In the words of the Poet, it was deemed unlawful to fix a land mark on the plain, or to apportion it out in stated limits. 
 

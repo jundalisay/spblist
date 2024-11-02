@@ -50,10 +50,10 @@ Virtue and every good are generated in the whole soul when:
 - the better part consent, and are concordant with the less excellent part 
 
 Temperance is produced when the appetitive follows the reasoning part of the soul.
-Fortitude is produced when the irascible part follows.
-Justice is produced when reason takes place in all the parts of the soul.
 
-Justice is separates all the vices and all the virtues of the soul from each other.
+Fortitude is produced when the irascible part follows.
+
+Justice is produced when reason takes place in all the parts of the soul. It separates all the vices and all the virtues of the soul from each other.
 
 It is a certain established order of the apt conjunction of the parts of the soul, and perfect and supreme virtue.
 
@@ -139,13 +139,23 @@ Virtue however, is produced through pleasure and pain receiving the boundary of 
 For true virtue is nothing else than the habit of that which is fit. But the fit, or the decorous, is that which ought to be; and the unfit, or indecorous, is that which should not to be.
 
 
-Of the indecorous however, there are two species, viz. excess and defect.
+There are 2 kinds of indecorous:
 
-Excess indeed, is more than is fit; but defect is less than is fit. But since the fit is that which ought to be, it is both a summit and a middle. It is a summit indeed, because it neither requires ablation, nor addition; but it is a middle, because it subsists between excess and defect. 
+1. Excess -- this is more than is fit
+2. Defect -- this is less than is fit
 
-The fit and the unfit are to each other as the equal and the unequal that which is arranged, and that which is without arrangement; and both the two former and the two latter are finite and infinite.[70] 
+The fit is that which should be. 
+- It is both a summit and a middle.
+- It is a summit because it neither requires ablation, nor addition
+- It is a middle because it subsists between excess and defect. 
 
-On this account, the parts of the unequal are referred to the middle, but not to each other. For the angle is called obtuse which is greater than a right angle; but that is called acute, which is less than a right angle. The right line also [in a circle] is greater, which surpasses that which is drawn from the center. The day is longer which exceeds that of the equinox. 
+The fit and the unfit are to each other as the equal and the unequal that which is arranged, and that which is without arrangement.
+
+Both the two former and the two latter are finite and infinite.[70] 
+
+On this account, the parts of the unequal are referred to the middle, but not to each other. For the angle is called obtuse which is greater than a right angle; but that is called acute, which is less than a right angle. 
+
+The right line also [in a circle] is greater, which surpasses that which is drawn from the center. The day is longer which exceeds that of the equinox. 
 
 Diseases, likewise, of the body are generated, through the body becoming more hot or more cold [than is proper]. For that which is more hot [than is fit] exceeds moderation; and that which is more cold [than is fit] is below mediocrity. 
 

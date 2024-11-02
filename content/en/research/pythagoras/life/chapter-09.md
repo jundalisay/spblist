@@ -18,7 +18,13 @@ For he observed that all these divinities were called by one common name, [the M
 
 He also observed, that they comprehended in themselves symphony, harmony, rythm, and all things which procure concord. 
 
-They also evince that their power does not alone extend to the most beautiful theorems, but likewise to the symphony and harmony of things. In the next place, he said it was necessary they should apprehend that they received their country from the multitude of the citizens, as a common deposit. Hence, it was requisite they should so govern it, that they might faithfully transmit it to their posterity, as an hereditary possession. And that this would firmly be effected, if they were equal in all things to the citizens, and surpassed them in nothing else than justice. 
+They also evince that their power does not alone extend to the most beautiful theorems, but likewise to the symphony and harmony of things. 
+
+In the next place, he said it was necessary they should apprehend that they received their country from the multitude of the citizens, as a common deposit.
+
+Hence, it was requisite they should so govern it, that they might faithfully transmit it to their posterity, as an hereditary possession.
+
+And that this would firmly be effected, if they were equal in all things to the citizens, and surpassed them in nothing else than justice. 
 
 For men knowing that every place requires justice, have asserted in fables that Themis has the same order with Jupiter, that Dice, i. e. justice, is seated by Pluto, and that Law is established in cities; in order that he who does not act justly in things which his rank in society requires him to perform, may at the same time appear to be unjust towards the whole world. 
 
@@ -46,4 +52,8 @@ He likewise exhorted every one who aspired 32 after true glory, to be such in re
 
 After all this he added, that their city happened to be founded by Hercules, at that time when he drove the oxen through Italy, having been injured by Lacinius; and when giving assistance by night to Croton, he slew him through ignorance, conceiving him to be an enemy. 
 
-After which, Hercules promised that a city should be built about the sepulchre of Croton, and should be called from him Crotona, when he himself became a partaker of immortality. Hence Pythagoras said, it was fit that they should justly return thanks for the benefit they had received. But the Crotonians, on hearing this, built a temple to the Muses, and dismissed the harlots which they were accustomed to have. They also requested Pythagoras to discourse to the boys in the temple of Pythian Apollo, and to the women in the temple of Juno.
+After which, Hercules promised that a city should be built about the sepulchre of Croton, and should be called from him Crotona, when he himself became a partaker of immortality.
+
+Hence Pythagoras said, it was fit that they should justly return thanks for the benefit they had received. 
+
+But the Crotonians, on hearing this, built a temple to the Muses, and dismissed the harlots which they were accustomed to have. They also requested Pythagoras to discourse to the boys in the temple of Pythian Apollo, and to the women in the temple of Juno.

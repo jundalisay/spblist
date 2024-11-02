@@ -11,21 +11,20 @@ image: /covers/vegas.jpg
 
 ## Hymn 1
 
-I Laud Agni, the chosen Priest, God, minister of sacrifice. The hotar, lavishest of wealth.
+<sup>1</sup> I Laud Agni, the chosen Priest, God, minister of sacrifice. The hotar, lavishest of wealth.
 
-2. Worthy is Agni to be praised by living as by ancient seers. He shall bring. hitherward the Gods.
+<sup>2</sup> Worthy is Agni to be praised by living as by ancient seers. He shall bring. hitherward the Gods.
 
-3. Through Agni man obtaineth wealth, yea, plenty waxing day by day, most rich in heroes, glorious.
+<sup>3</sup> Through Agni man obtaineth wealth, yea, plenty waxing day by day, most rich in heroes, glorious.
 
-4. Agni, the perfect sacrifice which thou encompassest about    Verily goeth to the Gods.
+<sup>4</sup> Agni, the perfect sacrifice which you encompasses about Verily goes to the Gods.
 
-5. May Agni, sapient-minded Priest, truthful, most gloriously great,
-   The God, come hither with the Gods.
+<sup>5</sup> May Agni, sapient-minded Priest, truthful, most gloriously great, The God, come hither with the Gods.
 
-6. Whatever blessing, Agni, thou wilt grant unto thy worshipper,
+<sup>6</sup> Whatever blessing, Agni, thou wilt grant unto thy worshipper,
    That, Angiras, is indeed thy truth.
 
-7. To thee, dispeller of the night, O Agni, day by day with prayer
+<sup>7</sup> To thee, dispeller of the night, O Agni, day by day with prayer
    Bringing thee reverence, we come
 
 8. Ruler of sacrifices, guard of Law eternal, radiant One,

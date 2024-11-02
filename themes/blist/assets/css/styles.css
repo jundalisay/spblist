@@ -117,10 +117,9 @@
 
 .Fresnel {background-image: url(/avatars/fresnel.png);}
 
-.Man, .Planter, .Nagina, .g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter {
+.Man, .Joshua, .Planter, .Nagina, .g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter {
   background-image: url(/icons/g01.png);
 }
-
 
 .Hegel {background-image: url(/avatars/hegel.png);}
 
@@ -136,7 +135,7 @@
 
 .Jesus {background-image: url(/avatars/jesus.png);}
 
-.Jews {background-image: url(/icons/il.png);}
+.Jews, .Israelites {background-image: url(/icons/il.png);}
 
 .jev, .Jevons {background-image: url(/avatars/jevons.png);}
 

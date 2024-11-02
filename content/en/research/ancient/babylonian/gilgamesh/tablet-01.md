@@ -17,24 +17,20 @@ Column I.
 
 He who (the heart of) all matters hath proven let him [teach] the nation, He who all knowledge possesseth, therein shall he school all the people.
 
-He shall his wisdom impart (?)] and (so) shall they ]share it] together. 
+He shall his wisdom impart (?)] and (so) shall they [share it] together. 
 
 Gilgamesh was the Master of wisdom, with knowledge of all things.
 
 5.He ’twas discovered the secret concealed . . . . . . . . .
 
-(Aye), handed down the tradition relating to things before the Flood. He went on a distant journey.
-
- <!-- (all) aweary and [worn with his toiling(?)], -->
+(Aye), handed down the tradition relating to things before the Flood. He went on a distant journey pushing himself to exhaustion but then was brought to peace.
 
 He wrote on a tablet all of his experiences. 
 
-He built Erech as a high-walled city built up on the ramparts. He clamped the foundation,
-Like unto brass, of [E]-Anna 3, the sacred, the treasury hallow’d,
-[Strengthen’d] its base to grant wayleave to no [one] . . . . . .
-. . . . . the threshold which from [of old (?)] . . . . . .
-. . . . . [E]-Anna . . . . 
-15. . . . . to grant wayleave [to no one (?)] . . . . . . .
+He built Uruk as a high-walled city built up on the ramparts. He built the wall of the sacred Eanna temple, the sacred sanctuary. 
+
+It walls gleam like copper. Inspect its inner wall which cannot be equaled.
+
 
 (About thirty lines wanting. The description of Gilgamish runs on to the beginning of the next Column).
 

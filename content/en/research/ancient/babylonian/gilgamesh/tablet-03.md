@@ -4,139 +4,12 @@ weight: 4
 image: "/covers/enuma.jpg"
 description: "Here we simplify Enuma Elish The Epic Of Creation"
 draft: true
----
+--- 
+  
 
-
-OF THE MEETING OF GILGAMISH AND ENKIDU.
-THE SECOND TABLET
-OF THE MEETING OF GILGAMISH AND ENKIDU.
-
- 1Column II.
-
-2.                          While Gilgamish (thus) is the vision revealing
-Enkidu sitteth before the hetaera, and she [displaying 2 her] bosom,
-5.Shewing [her beauty (?)], the place of his birth he 3 forgetteth.
-                                         (So) Enkidu dallied
-(Thus) for six days, seven nights, with the courtesan-girl in his mating.
-10.Broke into [speech] then, the nymph, and (thus) unto Enkidu spake she:
-“(Yea, as) I view thee, (e’en) like a god, O Enkidu, shalt be,
-Why with the beasts (of the field) dost thou (ever) range over the desert?
-15.Up, for I’ll lead thee to [Erech] broad-marketed, (aye), to the Temple
-Sacred, the dwelling of Anu—O Enkidu, come, that I guide thee,
-Unto E-Anna, the dwelling of Anu, where [Gilgamish] (liveth),
-20.(He), the supreme of creation; and thou, aye, thou wilt [embrace him]
-Like [to a woman], (and e’en) [as] thyself thou shalt [love him].
-                                         O, rouse thee
-Up from the ground—’tis a shepherd’s bed 4 (only).”
-                                         Her utterance heard he,
-25.Welcomed her rede: the advice of the woman struck home in his bosom.
-She one garment took off wherewith she might clothe him: the other 5
-30.She herself wore, (and so) taking her hand like a brother 6 she led him
-(Thus) to the booths(?) of the shepherds, the place of the sheepfolds. The shepherds
-35.Gather]d at sight of him 7
-
-(Gap of four or five lines.)
-
-p. 17
-
-Column III.
-
-(How the Hetaera schooled Enkidu).
-
-He (in the past) of the milk of the wild things to suck was accustom’d!
-5.Bread which she set before him he broke, but he gazed and he stared:
-Enkidu bread did not know how to eat, nor had he the knowledge
-Mead how to quaff!
-10.                    (Then) the woman made answer, to Enkidu speaking,
-“Enkidu, taste of the bread, (for) of life ’tis; (forsooth), the essential,
-Drink thou, (too), of the mead, ’tis the wonted use of the country.”
-15.Enkidu ate of the bread, (aye, ate) until he was gorged,
-Drank of the mead seven bumpers; his spirits rose, (and), exultant,
-20.Glad was his heart, and cheerful his face: [himself(?)] was he rubbing,
-25.Oil on the hair of his body anointed: and (thus) became human.
-Donn’d he a garment to be like a man 1, (and) taking his weapon,
-30.Hunted the lions, which harried the shepherds o’ nights: and the jackals
-Caught he. (So) he, having mastered the lions, the shepherds slept soundly 2.
-35.Enkidu—(he) was their warden—(becometh) a man of full vigour.
-(Now) is one of the heroes speaking to [Gilgamish(?)] . . . .
-
-(About thirteen lines are missing, a gap in which a sinister figure has evidently appeared, sent evidently by Gilgamish to learn the meaning of the arrival of the strangers in Erech. Enkidu sees him and speaks).
-
-Column IV.
-
-10.(Then while) he pleasured, he lifted his eyes, (and), observing the fellow,
-Spake he unto the woman: “O doxy, bring me (this) fellow,
-15.Why hath he come? I would know his intention.”
-                                        The woman the fellow
-Call’d that he come to him, that he might see him: “O, why art thou seeking,
-Sir? (Pray), which is the way to thy rest-house?”
-20.                                        The man spake, addressing
-Enkidu: “You to the House of Community 3 [Gilgamish calleth],
-(This is) the custom of men, and a homage (too) to the great ones:
-
-p. 18
-
-25.Come, then, and heap up the offerings such as are due to the city,
-Come, on behalf of the common weal bring in the food of the city.
-(’Tis) for the king of broad-marketed Erech to look on thy greeting,
-30.Gilgamish, king of broad-marketed Erech to look on thy greeting;
-First doth he mate with the woman allotted by fate, and then after
-Speak by the counsel of god, and so from the shape of the omens 1
-(Utter the rede of) his destiny.”
-                                        (So) at the words of the fellow
-Went they before him.
-
-(Gap of about nine lines).
-
-Column V.
-
-(The Entry of Enkidu into Erech).
-
-7.[Enkidu] going [in front], with the courtesan coming behind him,
-10.Enter’d broad-marketed Erech; the populace gather’d behind him,
-(Then), as he stopp’d in the street of broad-marketed Erech, the people
-15.Thronging, behind him exclaim’d “Of a truth, like to Gilgamish is he,
-Shorter in stature a trifle, [his] composition is stronger.
-20.. . . . . . . [(once)] like a [weakling] baby he suck’d the milk of the wild things!
-Ever the bread-cakes in Erech give glorious (climax) to manhood!
-25.He a (mere) savage becometh a hero of proper appearance,
-(Now) unto Gilgamish, god-like, his composition is equal.”
-
-(How Enkidu fought with Gilgamish for the Hetaera).
-
-30.Strewn is the couch for the love-rites, 2 and Gilgamish (now) in the night-time
-Cometh to sleep, to delight in the woman 3: (but) [Enkidu], coming
-35.(There) in the highway, doth block up the passage to Gilgamish, [threat’ning]
-He with his strength . . . . .
-
-(Gap of seven or eight lines).
-
-Column VI.
-
-6.Gilgamish . . . behind him . . . . . . . . . .
-10.Burgeon’d [his rage], (and) he rush’d to [attack] him: they met in the highway.
-Enkidu barr’d up the door with his foot, (and) to Gilgamish entry—
-
-p. 19
-
-15.Would not concede: they grappled and snorted(?) like bulls, (and) the threshold
-Shatter’d: the (very) wall quiver’d as Gilgamish 1, Enkidu grappled,
-20.Snorting(?) like bulls, (and) the threshold they shatter’d, the (very) wall quiver’d.
-
-(The Birth of Friendship).
-
-25.Gilgamish bent his leg to the ground: (so) his fury abated,
-(Aye, and) his ardour 2 was quell’d: so soon as was quelled his ardour,
-30.Enkidu (thus) unto Gilgamish spake: “(Of a truth), did thy mother
-Bear thee as one, and one only: (that choicest) cow of the steer-folds,
-35.Nin-sun 3 exalted thy head above heroes, and Enlil hath dower’d
-Thee with the kingship o’er men.”
-
-
-
-THE EXPEDITION TO THE FOREST OF CEDARS AGAINST HUMBABA.
 THE THIRD TABLET.
 THE EXPEDITION TO THE FOREST OF CEDARS AGAINST HUMBABA.
+
 (About a column and a half of the beginning of the Old Babylonian version on the Yale tablet are so broken that almost all the text is lost. Gilgamish and Enkidu have now become devoted friends, thus strangely stultifying the purpose for which Enkidu was created, and now is set afoot the great expedition against the famous Cedar Forest guarded by the Ogre Humbaba. The courtesan has now for a brief space left the scene, having deserted Enkidu, much to his sorrow. The mutilated Assyrian Version gives a hint that the mother of Gilgamish is now describing the fight to one of her ladies(?) Rishat-Nin . . . and where her recital becomes connected the story runs thus).
 
 Column II.
@@ -221,9 +94,6 @@ After my children are born to my house, and climb up thee, (saying):
 (Now), O my friend, [my charge] to the craftsmen I fain would deliver,
 So that they cast in our presence [our weapons].”
                                          [The charge] they deliver’d
-
-p. 22
-
 30.Unto the craftsmen: the mould (?) did the workmen prepare, and the axes
 Monstrous they cast: (yea), the celts did they cast, each (weighing) three talents;
 Glaives, (too,) monstrous they cast, with hilts each (weighing) two talents,
@@ -233,7 +103,7 @@ Each with ten talents.
 
 (Gilgamish takes counsel with the Elders).
 
-       (And now) [in] the Seven Bolt [Portal of Erech]
+(And now) [in] the Seven Bolt [Portal of Erech]
 Hearing [the bruit(?)] did the artisans gather, [assembled the people(?)] 2,
 40.(There) in the streets of broad-marketed Erech, [in] Gilgamish’ honour(?)] 2,
 [So did the Elders of Erech] broad-marketed take seat before him.
@@ -643,8 +513,6 @@ Which thou abhor’st; the day which [thou hast set]
 20.As term, of (that) strong man (who) feareth thee,
 May Aa 3, (thy) bride, be [thy] remembrancer.
 He the night-watches . . . . .”
-
-p. 26
 
 (Columns III, IV, and V are much mutilated. There is the remnant of a passage in Assyrian, corresponding to the Third Tablet of the Old Babylonian Version, Column III, 15, which gives Enkidu’s speech about “the mountains,” “the cattle of the field,” and how “he waited”: then follows another fragment with a mention of the “corpse” [of Humbaba] and of the Anunnaki (the Spirits of Heaven), and a repetition of the line “that strong man (who) feareth [thee] .” Then a reference to “the journey” until [Gilgamish shall have overthrown the fierce Humbaba], be it after an interval of days, months, or years; and another fragment probably part of the previous text, where someone “heaps up incense” [to a god], and Enkidu again speaks with someone, but the mutilated text does not allow us much light on its connection, and although there is another fragment, the connection again is not obvious. The last column is a repetition of what the Elders said to Gilgamish):
 

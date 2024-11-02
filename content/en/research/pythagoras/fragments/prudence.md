@@ -40,30 +40,80 @@ For as in computations the amount of the whole is obtained by the addition of th
 
 ## Treatise On Disciplines
 
-It is necessary that you should become scientific, either by learning from another person, or by discovering yourself the things of which you have a scientific knowledge. 
+You should become scientific, either:
+- by learning from another person, or
+- by discovering yourself the things of which you have a scientific knowledge. 
 
-If, therefore, you learn from another person, that which you learn is foreign; but what you discover yourself is through yourself, and is your own. 
+If you learn from another person, that which you learn is foreign.
 
-Moreover, if you investigate, discovery will be easy, and soon obtained; but if you do not know how to investigate, discovery will be to you impossible. And [right] reasoning indeed, when discovered, causes sedition to cease, and increases concord. 
+But what you discover yourself is through yourself, and is your own. 
 
-For through this the inexhaustible desire of possessing is suppressed, and equality prevails; since by this we obtain what is just in contracts. Hence, on account of this, the poor receive from those who are able to give; and the rich give to those that are in want, both of them believing that through this they shall obtain the equal. 
+Moreover, if you investigate, discovery will be easy, and soon obtained.
 
-This however will be a rule and an impediment to those that act unjustly, viz. that men who possess scientific knowledge will appease their anger, prior to the commission of an injury, being persuaded that the perpetrators of it will not be concealed when it is committed; but that those who do not possess scientific knowledge, becoming manifest in the commission of an injury, will be restrained from acting unjustly.
+But if you do not know how to investigate, discovery will be to you impossible.
+
+Right reasoning, when discovered, causes sedition to cease, and increases concord. 
+
+For through this the inexhaustible desire of possessing is suppressed, and equality prevails; since by this we obtain what is just in contracts. 
+
+Hence:
+- the poor receive from those who are able to give.
+- the rich give to those that are in want
+
+Both of them believe that through this they shall obtain the equal. 
+
+Men who possess scientific knowledge will appease their anger, prior to the commission of an injury, being persuaded that the perpetrators of it will not be concealed when it is committed.
+
+Those who do not have scientific knowledge, becoming manifest in the commission of an injury, will be restrained from acting unjustly. This will be a rule and an impediment to those that act unjustly.
 
 
 ## Crito's Treatise On The Good And Happy Man
 
-The good man is not immediately happy from necessity; but that this is the case with the man who is both happy and good. For the happy man obtains both praise and the predication of blessedness; but the good man far as he is good obtains praise alone. 
+The good man is not immediately happy from necessity.
 
-The praise also arises from virtue; but the predication of blessedness from good fortune. And the worthy man, indeed, becomes such from the goods which he possesses; but the happy man is sometimes deprived of his felicity. For the power of virtue is perfectly free, but that of felicity is subject to restraint. For long-continued diseases of the body, and deprivations of the senses, cause the florishing condition of felicity to waste away. 
+But the man who is both happy and good is immediately happy from necessity.
 
-God, however, differs from  a good man in this, that God indeed not only possesses virtue genuine and purified from every mortal passion, but his power also is unwearied and unrestrained, as being adapted to the most venerable and magnificent production of eternal works. 
+The happy man obtains both praise and the predication of blessedness.
 
-Man, by the mortal condition of his nature, not only enjoys this power and this virtue in a less degree; but sometimes through the want of symmetry[60] in the goods which he possesses, or through powerful custom, or a depraved nature, or through many other causes, he is unable to possess in the extreme a good which is perfectly true.
+But the good man obtains praise alone. 
 
-Since therefore of goods, some are eligible for their own sakes, and not for the sake of another thing; but others are eligible for the sake of something else, and not on their own account; there is also a certain third species of goods, which is eligible both on its own account, and for the sake of another thing. What, therefore, is the good which is eligible on its own account, and not for the sake of something else? It is evident that it is felicity. 
+The praise also arises from virtue. 
 
-For we aspire after other things for the sake of this, but we do not desire this for the sake of any thing else. Again, what are those goods which we desire indeed for the sake of something else, but which we do not desire on their own account? 
+But the predication of blessedness arises from good fortune.
+
+The worthy man becomes such from the goods which he possesses.
+
+But the happy man is sometimes deprived of his felicity.
+
+This is because the power of virtue is perfectly free. But the power of felicity is subject to restraint. 
+
+Felicity wastes away from:
+- long-continued diseases of the body
+- deprivations of the senses
+
+<!-- , cause the florishing condition of  -->
+
+God, however, differs from  a good man in this, that God not only possesses virtue genuine and purified from every mortal passion, but his power also is unwearied and unrestrained, as being adapted to the most venerable and magnificent production of eternal works. 
+
+Man, by the mortal condition of his nature, enjoys this power and this virtue in a lesser degree.
+
+But sometimes he is unable to possess in the extreme a good which is perfectly true. This because of:
+- the lack of symmetry[60] in the goods which he has
+- powerful custom
+- a depraved nature
+- many other causes
+
+Of goods, some are eligible for their own sakes, and not for the sake of another thing.
+
+But others are eligible for the sake of something else, and not on their own account.
+
+There is also a 3rd species of goods, which is eligible both on its own account, and for the sake of another thing. 
+
+This good is felicity -- it is eligible on its own account, and not for the sake of something else. 
+
+We aspire after other things for the sake of this, but we do not desire this for the sake of any thing else.
+
+Again, what are those goods which we desire indeed for the sake of something else, but which we do not desire on their own account? 
 
 They are such things as are useful, and pre-eligible goods, which become the causes of our obtaining things which are eligible [on their own account]; such as corporeal labors, exercise, and frictions which are employed for the sake of a good habit of body; and also reading, meditation, and study, which are undertaken for the sake of things beautiful and virtue.
 
@@ -73,7 +123,9 @@ They are such things as the virtues, and the habits of them, deliberate choice a
 
 Hence, that indeed which is eligible on its own account, and not on account of something else, is a solitary good and one. But that which is eligible for its own sake, and for the sake of another thing, is triply divided. 
 
-For one part of it indeed subsists about the soul; another about the body; and another pertains to externals. And that which is about the soul, consists of the virtues of the soul; that which is about the body, of the virtues of the body; and that which pertains to externals, consists of friends, glory, honor, and wealth. 
+For one part of it indeed subsists about the soul; another about the body; and another pertains to externals.
+
+And that which is about the soul, consists of the virtues of the soul; that which is about the body, of the virtues of the body; and that which pertains to externals, consists of friends, glory, honor, and wealth. 
 
 There is likewise a similar reasoning with respect to that which is eligible on account of something else. For one part of it is effective of the goods of the soul; another part of it, of the goods of the body; and that which pertains to externals is the cause of wealth, glory, honor, and friendship.
 

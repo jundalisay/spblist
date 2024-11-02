@@ -1,6 +1,6 @@
 ---
 title: "Wisdom and Courage"
-heading: "Chapter 1 Book 4"
+heading: "Chapter 1"
 weight: 8
 image: "/covers/republic.jpg"
 description: "Socrates gives the policies for wealth, war, and federalism"
