@@ -7,6 +7,7 @@ image: "/graphics/history/moses.jpg"
 ---
 
 
+
 <sup>1</sup> When the people saw that Moses delayed to come down out of the mount, they gathered around Aaron and said to him:
 
 {{< r a="Israelites" >}}
@@ -19,7 +20,10 @@ Up, make us gods, which shall go before us because we do not know what has happe
 
 
 <sup>3</sup> The people broke off the golden earrings which were in their ears, and brought
-them to Aaron. <sup>4</sup> He fashioned them with a graving tool, after he had made it a molten calf.
+them to Aaron. <sup>4</sup> He fashioned them with a graving tool, after he had made it a molten calf*.
+
+{{< n n="*The bull is a symbol for Enlil, the rival of Enki, as mentioned in the Epic of Gilgamesh and Egyptian texts (as Ra)" >}}
+
 
 {{< r a="Israelites" >}}
 These are your gods, O Israel, which brought you out of Egypt.

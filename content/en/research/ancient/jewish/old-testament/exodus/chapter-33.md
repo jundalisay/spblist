@@ -45,10 +45,9 @@ Every one which sought Enki went out to the tabernacle of the congregation outsi
 
 He turned again into the camp. But his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
 
-<sup>12</sup> Moses said unto Enki:
 
 {{< r a="Moses" >}}
-You tell me to bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight. 
+<sup>12</sup> [To Enki] You tell me to bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight. 
 
 <sup>13</sup> Please show me your way so that I may find grace in your sight. Please see this nation as your people. 
 {{< /r >}}
@@ -64,20 +63,20 @@ You tell me to bring up this people: and thou hast not let me know whom thou wil
 <sup>15</sup> If you do not go with me, then do not let us go. {33:16} For wherein shall it be known here that I and thy people have found grace in thy sight? [is it] not in that thou goest with us? so shall we be separated, I and thy people, from all the people that [are] upon the face of the earth. 
 {{< /r >}}
 
+{{< l a="Enki" >}}
+<sup>17</sup> I will do this thing also that you has spoken. You have found grace in my sight, and I know you by name. 
+{{< /l >}}
 
-<sup>17</sup> And Enki said unto Moses, I will do this thing also that thou hast spoken:
-for thou hast found grace in my sight, and I know thee by
-name. 
 
 {{< r a="Moses" >}}
-18 Please, show me your glory. 
+<sup>18</sup> Please, show me your glory. 
 {{< /r >}}
 
+<!-- proclaim my the name of Enki before thee; and will -->
 {{< l a="Enki" >}}
-19 I will make all my goodness pass before you. I will proclaim the name of Enki before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy.
+<sup>19</sup> I will make all my goodness pass before you. I will be gracious to whom I will be gracious, and will show mercy on whom I will shew mercy. <sup>20</sup> You cannot see my face: for there shall no man see me, and live. 
 
-20 You cannot see my face: for there shall no man see me, and live. 
+<sup>21</sup> There is a place by me. You shall stand on a rock. <sup>22</sup> While my glory passes by, I will put you  in a cliff of the rock, and cover you with my hand while I pass by.
 
-21 There is a place by me, and thou shalt stand upon a rock: {33:22} And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will
-cover thee with my hand while I pass by: {33:23} And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.
+<sup>23</sup> I will take away my hand and you shall see my back parts but not my face.
 {{< /l >}}
