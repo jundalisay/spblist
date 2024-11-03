@@ -91,7 +91,9 @@ Our conclusion matches the fundamental equations of the electrodynamics of Maxwe
 A body moving with the velocity <code>v</code>, which absorbs* an amount of energy <code>E0</code> as radiation without suffering a change in velocity in the process, has its energy increased as a consequence by an amount <code>E0 / √ 1-(v2c2)</code>
 {{< /q >}}
 
-> *`E0` is the energy taken up, as judged from a coordinate system moving with the body.
+
+{{< f f="Einstein Note: `E0` is the energy taken up, as judged from a coordinate system moving with the body." >}}
+
 <!-- [ *
 E 0
 v 2

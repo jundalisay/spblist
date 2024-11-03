@@ -7,12 +7,14 @@ description: "I will tell you a secret of the gods. The old city Shuruppak is on
 
 
 Gilgamesh spoke to Utanapishtim:
-  	
-"I have	been looking at you, but you look like me! I resolved not to fight you. How is it that you stand in the Assembly of the Gods, and have found life!"	
-  
+
+{{< l a="Gilgamesh" >}}
+I have been looking at you, but you look like me! I resolved not to fight you. How is it that you stand in the Assembly of the Gods, and have found life!"	
+{{< /l >}}
+
 Utanapishtim:
-  	
-"I will tell you a secret of the gods. The old city Shuruppak is on the banks of the Euphrates. It had gods inside it. The	 hearts	of the Great Gods were moved to inflict the Flood. 
+
+I will tell you a secret of the gods. The old city Shuruppak is on the banks of the Euphrates. It had gods inside it. The	 hearts	of the Great Gods were moved to inflict the Flood. 
 
 Their Father Anu uttered the oath of secrecy:
 - Valiant Enlil was their Adviser

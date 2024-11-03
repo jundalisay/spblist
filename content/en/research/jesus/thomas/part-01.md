@@ -12,7 +12,7 @@ image: "/covers/jesus.jpg"
 
 These are the secret sayings which the living Jesus spoke and which Didymos Judas Thomas wrote down.
 
-{{< sup v="1" >}} "Whoever finds the interpretation of these sayings will not experience death."
+<sup>1</sup> "Whoever finds the interpretation of these sayings will not experience death."
 
 {{< sup v="2" >}} "Let him who seeks continue seeking until he finds. When he finds, he will become troubled. When he becomes troubled, he will be astonished, and he will rule over the All."
 

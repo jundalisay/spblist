@@ -21,7 +21,7 @@ By uniting these two postulates, we obtained:
 - the law of transformation for co-ordinates `x, y, z` and
 - the time `t` of the events in nature
 
-This led to the Lorentz transformation and not the Galilei transformation of classical mechanics. **The constant speed of light played an important part in this.** Through the Lorentz transformation, we can combine this nature of light with the principle of relativity. We sum up the theory thus= 
+This led to the Lorentz transformation and not the Galilei transformation of classical mechanics. **The constant speed of light played an important part in this.** Through the Lorentz transformation, we can combine this nature of light with the principle of relativity. We sum up the theory thus:
 
 {{< q a="Einstein" >}} 
 Every general law of nature* is transformed into a law of exactly the same form when, instead of the spacetime variables `x, y, z, t` of the original non-moving coordinate system `K`, we introduce new space-time variables `x', y', z', t'` of a moving coordinate system `K'`. 

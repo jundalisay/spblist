@@ -115,7 +115,7 @@
 
 .People {background-image: url(/icons/farmer.png)}
 
-.Fresnel {background-image: url(/avatars/fresnel.png);}
+.Fresnel {background-image: url(/avatars/fresnel.jpg);}
 
 .Man, .Joshua, .Planter, .Nagina, .g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter {
   background-image: url(/icons/g01.png);
@@ -130,6 +130,8 @@
 .Hooke {background-image: url(/avatars/hooke.jpg) !important;}
 
 .hume, .Hume, .David-Hume {background-image: url(/avatars/hume.png);}
+
+.Huygens {background-image: url(/avatars/huygens.png);}
 
 .ibn, .Ibn-Khaldun, .Aeschylus {background-image: url(/icons/ibn.jpg);}
 

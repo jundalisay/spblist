@@ -10,25 +10,72 @@ image: /covers/fresnel.jpg
 ---
 
 
-21. If we call X the length of a light-wave, that is to say,the distance between two points in the ether where vibrations of the same kind are occurring at the same time and in thesame sense, then A/2 will be the distance between two ether particles whose velocities of vibration are at any one instantequal but oppositely directed. 
+21. Let `X` be the length of a light-wave which is the distance between 2 points in the ether.
 
-Thus two trains of waves sepa-rated by an interval equal to X are in perfect accord as to theirvibrations; but when the distance between corresponding pointsis A/2, then their vibrations are directly opposed. Accordingly, the above formula gives for the value of x, corresponding to the centre of the dark band of the first order, the followingvalue : \J
-*
-'- ; while observation shows that, as a matterv ct of fact, this is the brightest part of the first fringe. On thesame theory, the edge of the geometrical shadow, where thedifference of path vanishes, ought to be brighter than the rest of the fringe, while, as a matter of fact, this is precisely thedarkest region outside the geometrical shadow. In general,
-the position of the dark and bright bands deduced from this formula is almost exactly the inverse of that determined byexperiment. This is the first difficulty presented by this theory. To avoid it, we must suppose that the rays reflected at the edge of the screen suffer the loss of half a wave-length;adding A/2 to the difference of path, d, the general expressionbecomes
-y
-~ a
+Within this length are the same kind of vibrations happening at the same time. 
+
+Then A/2 will be the distance between 2 ether particles whose velocities of vibration are at any one instant equal but oppositely directed. 
+
+Thus 2 trains of waves separated by an interval equal to X are in perfect accord as to their vibrations.
+
+But when the distance between corresponding pointsis A/2, then their vibrations are directly opposed.
+
+Accordingly, the above formula gives for the value of `x`, corresponding to the centre of the dark band of the first order, the followingvalue :
+
+Observation shows that this is the brightest part of the first fringe.
+
+On the same theory, the edge of the geometrical shadow, where the difference of path vanishes, should be brighter than the rest of the fringe, while this is precisely the darkest region outside the geometrical shadow. 
+
+In general, the position of the dark and bright bands deduced from this formula is almost exactly the inverse of that determined by experiment.
+
+This is the first difficulty presented by this theory.
+
+To avoid it, we must suppose that the rays reflected at the edge of the screen suffer the loss of half a wave-length. 
+
+We add A/2 to the difference of path, `d`, the general expression becomes
+
+...
+
 Replacing d in this formula by A/2, 3 A/2, 5 A/2, 7 A/2, etc., wehave for the values of x corresponding to dark bands of thefirst, second, third, fourth, etc., orders:
+
 /2\b(a + d) /\b(a + b) /Q\b(a+b) . v
-- ^r v <r~ V~ ^T-> V~ ^--> etc- These formulae appear to agree fairly well with the observations;however, closer measurements show that the ratios between thesizes of the fringes derived from these expressions are not exactly correct, as we shall see later. 22. I pass now to the consideration of interior fringes pro- duced in the shadow by the meeting of two pencils of light
-inflected at A and A'. Let M, Fig. 14, be any point located in the interior of the shadow ; the intensity of the light at this point depends upon the amount of disagreement between thevibrations of the rays AM and A'M, which meet at this point, or upon the difference of path A'M AM. I shall denote by xthe distance MC of the point M from the middle of the shadow,and by d the difference of paths, and hence
+- ^r v <r~ V~ ^T-> V~ ^--> etc- 
+
+These formulae agree well with the observations.
+
+However, closer measurements show that the ratios between thesizes of the fringes derived from these expressions are not exactly correct, as we shall see later.
+
+22. I pass now to the consideration of interior fringes produced in the shadow by the meeting of two pencils of light inflected at A and A'.
+
+Let M, Fig. 14, be any point located in the interior of the shadow ; the intensity of the light at this point depends upon the amount of disagreement between thevibrations of the rays AM and A'M, which meet at this point, or upon the difference of path A'M AM. 
+
+I shall denote by xthe distance MC of the point M from the middle of the shadow,and by d the difference of paths, and hence
+
 Expanding the radicals and neglecting the higher powers of
 x, since this quantity is very small compared with b, we have
 dcxjb,
-or x = bd/c. If in place of d in this expression we substitute successively X/2,3X/2, 5X/2, 7X/2, etc., we obtain the values of x corresponding to dark bands of the first, second, third, fourth, etc.,order, namely,
-b\ 3X 5b\ 7#X , 7\~> ~T ' ~T > ~z\ > etc., 2c 2c 2c 2c and consequently for the distance between the middle points oftwo consecutive dark bands, b\/c.
-The general expression for n such intervals is, therefore,rib\lc. 23. So long as the extreme fringes are sufficiently distantfrom the edges of the shadow, this formula agrees fairly wellwith experiment ; but when they approach very near or passbeyond the edges, one detects a slight difference betweentheir actual position and that deduced from the formula. Ingeneral, the calculated values are always a little larger thanthe observed. The reason for this I shall show when we cometo the true theory of diffraction. It also follows from thisformula that the size of the interior fringes ought to be entirely independent of the distance, a, of the luminous point fromthe opaque body; this prediction, however, is not completelyverified by experiment, especially when the fringes completelyfill the shadow; their position then varies distinctly with thedistance a. 24. According to the formula
-which we have just derived for the exterior fringes, theirposition depends upon a as well as upon b. Experiment showsthat, in fact, their size increases or diminishes according as theopaque body approaches or recedes from the luminous point,and that the ratios between the different sizes of one and thesame fringe deduced from the formula are precisely those givenby observation. But the most remarkable inference from thisformula is that, when a remains constant, the distance of anydark or bright band from the edge of the geometrical shadowis not directly proportional to b as in the case of interiorfringes, but varies in such a way that this band traces out, nota straight line, but a hyperbola of sensible curvature. This is also confirmed by experiment, as may be seen from the observations given above. Considering the striking agreement of these formulae withexperiment, it is natural to suppose that they are accurate ex-pressions of fact, and therefore natural to attribute any smalldifferences between calculated and observed values to the errorswhich are unavoidable in such delicate measurements.*
+
+or x = bd/c. If in place of d in this expression we substitute successively X/2,3X/2, 5X/2, 7X/2, etc., we obtain the values of x corresponding to dark bands of the first, second, third, fourth, etc.,order, namely, b\ 3X 5b\ 7#X , 7\~> ~T ' ~T > ~z\ > etc., 2c 2c 2c 2c and consequently for the distance between the middle points oftwo consecutive dark bands, b\/c.
+
+The general expression for n such intervals is, therefore,rib\lc. 
+
+23. So long as the extreme fringes are sufficiently distantfrom the edges of the shadow, this formula agrees fairly well with experiment. 
+
+But when they approach very near or passbeyond the edges, one detects a slight difference between their actual position and that deduced from the formula. 
+
+In general, the calculated values are always a little larger than the observed.
+
+I will explain this in the true theory of diffraction.
+
+Also, the size of the interior fringes should be entirely independent of the distance, a, of the luminous point fromthe opaque body.
+
+This prediction, however, is not completely verified by experiment, especially when the fringes completelyfill the shadow; their position then varies distinctly with thedistance a. 
+
+24. According to the formula which we have just derived for the exterior fringes, their position depends upon a as well as upon b. 
+
+Experiment showsthat, in fact, their size increases or diminishes according as theopaque body approaches or recedes from the luminous point,and that the ratios between the different sizes of one and thesame fringe deduced from the formula are precisely those givenby observation. But the most remarkable inference from thisformula is that, when a remains constant, the distance of anydark or bright band from the edge of the geometrical shadowis not directly proportional to b as in the case of interiorfringes, but varies in such a way that this band traces out, nota straight line, but a hyperbola of sensible curvature. 
+
+This is also confirmed by experiment, as may be seen from the observations given above. Considering the striking agreement of these formulae withexperiment, it is natural to suppose that they are accurate ex-pressions of fact, and therefore natural to attribute any smalldifferences between calculated and observed values to the errorswhich are unavoidable in such delicate measurements.*
 
 But a closer examination of the hypotheses from which theyare derived, and of the inferences derivable from them,  showsthat they do not agree with the facts of nature.
 
@@ -87,9 +134,11 @@ for instance, of very dense metal and a piece of ivory ; but they had no means o
 eter, was 1.17 mm. I then placed opposite each other twocopper cylinders, each having a diameter of 14.5 mm., and bymeans of a graduated wedge I made the interval between thesecylinders also 1.1? mm. The cylinders, placed alongside theblackened glass, were at a distance of 4.015 m. from the lumi-nous point, and at a distance of 1.663 m. from the micrometer.I then measured the size of the fringes produced by these twoopenings, and found that they were absolutely the same. Thefollowing are the results of the two observations made withwhite light : The distance between the darkest point ~\ mm.of the two dark bands of the first I First reading, 1.49order at the point of separation of [Second reading, 
 
 1.49the brownish red from the violet . J The interval between the two fringes 1 Firgt reading> 3.33of the second order at the point of Y Second reading) 3>22separation of red and green . '
-It is hardly possible that two sets of circumstances shoulddiffer more than these as regards the mass and the nature ofthe edges of the aperture. In the one case there is a singlelayer of India ink producing the fringes, for the glass to whichit adheres completely fills the aperture ; in the other case wehave two massive cylinders of copper, 14.5 mm. in diameter,giving us an aperture whose edges have very considerablemasses and areas, but we observe 110 difference in the expansion of the pencil of light. 32. It is therefore certain that the phenomena of diffractiondo not at all depend upon the nature, the mass, or the shape ofthe body which intercepts the light,* but only upon the size ofthe intercepting body or upon the size of the aperture throughwhich it passes. We must, therefore, reject any hypothesiswhich assigns these phenomena to attractive and repulsive* This is so, at least provided one does not consider the shadow too closeup to the edge of the screen, or provided the surface grazed by the rays oflight has not too large an area compared with this distance ; for in thiscase it may happen that the reflected rays sensibly affect the phenomenonas, for instance, occurs when the surface grazed by the rays is a planemirror of one or two decimeters in size and when one observes the fringesat a short distance. Besides, there would then be successive diffractionsover an area too considerable for one to neglect.
+It is hardly possible that two sets of circumstances shoulddiffer more than these as regards the mass and the nature ofthe edges of the aperture. In the one case there is a singlelayer of India ink producing the fringes, for the glass to whichit adheres completely fills the aperture ; in the other case wehave two massive cylinders of copper, 14.5 mm. in diameter,giving us an aperture whose edges have very considerablemasses and areas, but we observe 110 difference in the expansion of the pencil of light. 
 
-forces whose action extends to a distance from the body as great as that at which rays are inflected. We are equallyunable to admit that diffraction is caused by a shallow atmosphere which has the same thickness as the sphere of activity
-of these forces, and whose refractive index differs from that ofthe neighboring medium ; for this second hypothesis, like thefirst, would lead us.'to think that the inflection of light oughtto vary with the form and the nature of the edge of the screen, and ought not to be the same, for instance, at the edge and at the back of a razor. Now, on the emission-theory it is impossible to explain in any other manner the expansion of a beam of
-light passing through a narrow opening, and this expansion is a well-established fact.* Consequently, the phenomena of dif- fraction cannot be explained on the emission-theory.
+32. It is therefore certain that the phenomena of diffractiondo not at all depend upon the nature, the mass, or the shape ofthe body which intercepts the light,* but only upon the size ofthe intercepting body or upon the size of the aperture throughwhich it passes. We must, therefore, reject any hypothesiswhich assigns these phenomena to attractive and repulsive* This is so, at least provided one does not consider the shadow too closeup to the edge of the screen, or provided the surface grazed by the rays oflight has not too large an area compared with this distance ; for in thiscase it may happen that the reflected rays sensibly affect the phenomenonas, for instance, occurs when the surface grazed by the rays is a planemirror of one or two decimeters in size and when one observes the fringesat a short distance. 
+
+Besides, there would then be successive diffractionsover an area too considerable for one to neglect.
+
+forces whose action extends to a distance from the body as great as that at which rays are inflected. We are equallyunable to admit that diffraction is caused by a shallow atmosphere which has the same thickness as the sphere of activity of these forces, and whose refractive index differs from that ofthe neighboring medium ; for this second hypothesis, like thefirst, would lead us.'to think that the inflection of light oughtto vary with the form and the nature of the edge of the screen, and ought not to be the same, for instance, at the edge and at the back of a razor. Now, on the emission-theory it is impossible to explain in any other manner the expansion of a beam of light passing through a narrow opening, and this expansion is a well-established fact.* Consequently, the phenomena of dif- fraction cannot be explained on the emission-theory.
 

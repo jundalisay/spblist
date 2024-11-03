@@ -67,11 +67,11 @@ Hence the intensity of the vibration at P resulting from all these small disturb
 
 ...
 
-The intensity of the sensation, being proportional to thesquare of the speeds of the particles, is
+The intensity of the sensation, being proportional to the square of the speeds of the particles, is
 
 ...
 
-This is what I have called the intensity of the light, while reserving the expression intensity of vibration to designate the speed of an ether particleduring its oscillation. *
+This is what I have called the intensity of the light, while reserving the expression intensity of vibration to designate the speed of an ether particle during its oscillation. *
 
 <!-- [ TJiese expressions for amplitude follow directly from sec. 40, when in the
 ke a. 120

@@ -2,7 +2,8 @@
 heading: "The Sophistry of Albert Einstein"
 title: "How to Fix Einstein's General Relativity"
 description: "Did you know that dark matter, wormholes, and the Big Bang are fallacies of Physics?"
-date: "2021-06-14"
+date: 2024-11-02
+# date: "2021-06-14"
 weight: 14
 linkTitle: "General Relativity Sophistry"
 image: "/graphics/physics/general.jpg"
@@ -20,9 +21,6 @@ Principle | Assertion
 --- | ---
 Spacetime is superior to Electromagnetism | Einstein's General Relativity is wrong, not incomplete
 
-
-{{< youtube klka8xfvMDY >}}
-
 <!-- E :: G<sub>l</sub> as an alternative to E = mc{{< s v="2" >}} -->
 
 
@@ -33,192 +31,94 @@ The spangled heavens should be used as a pattern and with a view to that higher 
 {{< /q >}}
 
 
-Socrates is clearly against having any fixed or constant value to define the universe and any movements within it. According to this, any established constant would eventually be rejected the more humans learn about the universe. This is what happened to the constant Gravity `G` advocated by Newton which was overturned by Einstein's Theory of Relativity, making it subservient to light.
+Socrates is clearly against having any fixed ratio or absoluteness in the universe. This obviously debunks Newtonian Physics which has an idea for an absolute space: 
 
-However, Einstein also established his own constant as the speed of light as `c`. This must also be overturned if we are to unify Physics with Metaphysics and even Quantum Physics. 
+{{< q a="Newton" c="Principia, Scholium" >}}
+Absolute space has no regard to anything external. It remains always similar and immovable.
+{{< /q >}}
 
-The need to overturn the speed of light as a constant* is emphasized by Socrates when he said that sight (made possible by photons) is not the proper way to measure movement in outer space: 
+However, he also mentioned that light (through sight) is not the measure of cosmic objects:
 
 {{< q a="Socrates">}}
 The starry heaven is wrought on a visible ground. The most perfect of visible things is far inferior to the true motions of absolute speeds which are relative to each other. <i>They carry with them that which is contained in them</i>. These are to be apprehended by reason and intelligence, but not by sight.
 {{< /q >}}
 
-
-{{< b >}}
-### TLDR
-
-We use the aether as the supreme principle. Aether is the substance of ideas, feelings, and of the abstract mind that has those ideas and feelings. Therefore, the idea of `G`, `c`, `h` (Planck's constant) are constants only because the aether sets it as so. If we upgrade our abstract minds, then we get new ideas and perceptions and `G`, `c`, `h` will change accordingly through us testing it in different parts of the galaxy, universe, and multiverse. 
-
-{{< /b >}}
+This also debunks Einstein's Relativity wherein light is an essential component:
 
 
+{{< q a="Einstein" c="Relativity, Section 14" >}}
+[The unity of the two postulates of relativity and c] led to the Lorentz transformation instead of the Galilei transformation of classical mechanics. The constant speed of light played an important part in this.
+{{< /q >}}
 
-## Let's Fix Relativity!
+<!-- But why must I distinguish the non-moving `K` body above all moving `K'` bodies by assuming that the ether is at rest relatively to the non-moving `K` body?  I think that such an asymmetry.. is intolerable. -->
 
-The first step in fixing the theory of Relativity, is to recall that the Standard Model of Physics divides all forces into four categories which we arrange in a hierarchy:   
+Therefore, the correct replacement to Newton and Einstein should:
+- have no absolutes (i.e. be relative)
+- work even without light 
 
-1. Gravitation
-2. Electromagnetic
-3. Weak
-4. Strong
 
-Material objects are made possible by atoms which are held together by the Strong force. The movement of such objects is governed by the classical mechanics established by Netwon, such as `F = ma` and the law of conservation of mass. This means that you can force-push a ball-mass to move it.
+### Descartes to the Rescue 
 
-The movements by the Weak and Electromagnetic forces, such as those in radioactive decay and magnetism, were observed later. These were established by Maxwell's equations and the law of conservation of energy. 
+Before Einstein and Newton, Rene Descartes already explained how the universe worked through the 5 Elements which we can call as the true "Standard Model" of Physics in completed form. 
 
-Unlike matter, you cannot force-push electricity to make it travel farther. Instead, you use a capacitor to gather the electricity in coils and add strength and let it "flow" more.
+{{< i s="/graphics/physics/1960s.png" a="5 Elements" c="The updated Descartes model fits with an expanded Standard Model since Nature is just one" >}}
 
-The difference between the movements of matter and electromagnetism was then thought to be caused by a mysterious semi-material thing called "aether" which permeated space.
+Unlike Newton who viewed space as absolute, Descartes viewed space as relative:
 
-{{< q a="Lorentz">}}
-The state of the aether which is the cause of gravitation is propagated in a similar way as that which exists in the electromagnetic field.
+{{< q a="Descartes" c="Principia Philosophia, Part 2, Article 13" >}}
+I assert that all points are movable in the universe. From this, I conclude that nothing has a permanent place unless it is fixed by our thought.
 {{< /q >}}
 
 
-### The Ego Hates the Aether
+Like Einstein, he denied gravity coming from inside objects. But unlike Einstein's Relativity which needed light, Descartes' Relationality needed only 2 or more identities:
 
-Einstein's ego led him to become a determinist who disliked* the unpredictability of Nature. This unpredictability manifests as "quantum nonlocality" in Quantum Mechanics. 
-
-The mystery of the aether irked him just as the idea of a superior, immaterial God irks materialists. 
-
-> *This is evident in the [EPR Paradox](/research/einstein/epr/part-1)
-
-
-{{< q a="Einstein" c="Ether and General Relativity" >}}
-But why must I distinguish the non-moving `K` body above all moving `K'` bodies by assuming that the ether is at rest relatively to the non-moving `K` body?  I think that such an asymmetry.. is intolerable.
+{{< q a="Descartes" c="Principia Philosophia, Part 4, Article 202" >}}
+I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
 {{< /q >}}
 
+<!-- ### TLDR
 
-To get rid of the aether, he used light as the semi-material thing to "bridge" the behavior of objects and electricity. This is because he realized that light has 2 properties:
-
-1. Particle-properties, as photons
-2. Wave-properties, as spectrum waves 
-
-He called this unification as "special relativity" leading to mass-energy equivalence `E = mc{{< s v="2" >}}`.
+We use the aether as the supreme principle. Aether is the substance of ideas, feelings, and of the abstract mind that has those ideas and feelings. Therefore, the idea of `G`, `c`, `h` (Planck's constant) are constants only because the aether sets it as so. If we upgrade our abstract minds, then we get new ideas and perceptions and `G`, `c`, `h` will change accordingly through us testing it in different parts of the galaxy, universe, and multiverse.  -->
 
 
-{{< q a="Einstein" c="Relativity" >}}
-<p>mc{{< s v="2" >}} does not contain the velocity. It is not needed if we are only asking how the energy of a point-mass depends on the velocity... Before the advent of relativity, physics recognised two conservation laws of fundamental importance, namely, the law of the conservation of energy and the law of the conservation of mass.. Through the theory of relativity, they have been united into one law.</p>
-{{< /q >}}
+In the view of Cartesian Physics, the biggest evils of Relativity are:
 
-
-{{< img src="/photos/medieval/hitler.jpg" alt="Hitler" cap="Einstein found the Aether intolerable, just as Hitler found the Jews intolerable. Both lived at the same bigoted period in Germany. Einstein wanted Nature to follow one Law just as Hitler wanted the world to follow one Aryan race." >}}
-
-
-{{< img src="https://sorasystem.sirv.com/graphics/emc.png" alt="E=mc2" cap="Thanks to the egotistic Einstein, the aether is out of reach, and with it the solution to fusion, anti-gravity, and nuclear war. The fact that Einstein pushed for nukes is consistent with such a type of ego" >}}
+1. It prevents artificial faster than light movement
+2. It prevents aether propulsion which uses subtle energy and far less crude energy  
 
 
 
-### Not so fast, Einstein!
+## Let's Fix General Relativity!
 
-Instead of using a natural immaterial aether (substance 1) that confined materials (substance 2), Einstein used light which had 2 properties. 
+To get rid of these evils, let's convert General Relativity (GR) to Cartesian. GR has field equations made up of 4 basic components: 
 
-<!-- 1. A property of an immaterial (massless) wave-substance
-2. A property of a material (mass-ive) particle-substance
- -->
+1. The Big Mass
+3. The Small Mass
+2. The Curvature around that Big Mass
+4. How the Small Mass goes through that Curvature
 
-He destroyed the natural division of labor of Nature in favor of a single monopoly under the power of the physicist.
+{{< i s="/graphics/physics/gr2.jpg" a="General Relativity" >}}
 
+We convert this to Cartesian Relationality:
 
-{{< img src="/graphics/physics/msq.jpg" alt="MSQ" cap="Superphysics respects the division of labor of the 5 Layers or Elements which we call Aether, Spacetime, Radiance, Conversion, and Matter" >}}
+{{< i s="/graphics/physics/rel.jpg" a="Relationality" >}}
 
-He then extended this theory, as General Relativity, to the movement of objects in outer space which was really governed by the aethereal force of Gravitation. 
+This eliminates the complicated Curvature and how the Small Mass goes through that Curvature. This  eliminates 3-dimensional curved geometry and brings back 2-dimensional Euclidean geometry.
 
-Einstein thus removed the aether and its hierarchy, replacing it with the duality of light. Because of this, gravity no longer is a force. Instead, it is an effect of the curvature of space, exposed by light. 
+The resulting 2-dimensional Euclidean geometry forms 3-dimensional curved geometry when the object is traced along the plane or apparent space-time. 
 
-Without the aether, a lot of problems came up. 
+The ratios between the 2 objects while being traced within the plane are notated through Francis Bacon Tables. These can then project the future positions of the object/s even if both are moving. 
 
-General Relativity:
-- theorizes wormholes without them ever being found
-- is unable to:
-  - explain dark matter and dark energy
-  - explain the Hubble Tension
-  - create anti-gravity or teleportation of masses
+{{< youtube lmsTdzBql5o >}}
 
-Special Relativity:
-- is unable to explain the discrepancy between
-  - the W Boson mass
-  - muon g2 discrepancy
-- actually failed to explain entanglement with its hidden variables theory
+The combination of Descartes and Bacon lead to a simpler and more robust way to plot the movement of objects going very fast. More importantly, light is not critical to this system. 
 
+For example, we use it to plot the movement of:
+- person twards disease in Medical Superphysics 
+- lover towards lover in Social Superphysics
+- country towards prosperity also in Economic Superphysics
 
-{{< img src="/graphics/tesla.jpg" alt="Nikola Tesla bashing Einstein" c="Tesla correctly bashed Einstein's Relativity" >}}
-
-
-
-<!-- Material Superphysics solves all these with the properties of the aether and Cartesian spacetime. 
-
-Problem | Solution
---- | ---
-Dark Matter, Dark Energy | Spacetime Particles (Qos)
-Hubble Tension | Disregard the Dark matter of CMB
-No Anti-Gravity | Manipulate Gravitational Signatures
-W Boson Mass, Muon G2 | Aether and Poincare Spacetime -->
-
-
-<!-- While his Special Relativity is bullet-proof*, his General Relativity is full of holes. 
-
-> *It's bullet-proof because Lorentz-Maxwell, its base, was already bullet-proof. Those theories had the aether as their base. 
-
-
-For example, wormholes and dark matter have never been found. In fact, the photo of an actual black hole (Messier 87) shows light being ejected as a flare-helix instead of being emitted gently as Hawking radiation nor disappearing into the blackhole (as a wormhole) into another spacetime*. -->
-
-<!--
-Physicists try to defend by saying that the flare obeys General Relativity. 
-
-We say: "Sure, but what mechanism causes the flares to happen in the first place? General Relativity has nothing on helix behavior in empty space. But we explain it clearly as **aethereal vortices**." 
-
- This led to the ideas of [gravitational waves](https://www.nationalgeographic.com/news/2017/10/what-are-gravitational-waves-ligo-astronomy-science/), worm holes, and [dark matter*](https://dailygalaxy.com/2021/04/emergent-gravity-dark-matter-is-a-mythical-beast-a-figment-of-our-ignorance-watch-todays-galaxy-stre) -->
-
-<!-- > *A true theory of gravity should be able to explain dark matter and dark energy conclusively. General Relativity has nothing on both and is therefore not a theory of gravity. To Superphysics, it is not even an incomplete theory of gravity, but rather a theory of electromagnetism (as Special Relativity) applied to outerspace where it happens to be affected by gravity. -->
-
-
-<!-- Many physicists have been wasting real money building dark matter detectors, money that could've been used for space travel or even better Covid vaccines.  -->
-
-
-<!-- {{< img src="/photos/physics/messier87.jpg" alt="Black Hole" cap="A quasar-black hole behaves differently from what General Relativity predicts. " >}}
-
-Our disdain and even hatred for General Relativity, as something that goes against how Nature works, is supported by Nikola Tesla who instead supported the aether. -->
-
-
-## Probably a German Quirk
-
-Einstein's sophistical reasonng is very similar to that of Kant. Both of them overexplain a simple thing and then create a totally new concepts to support that overexplanation. 
-
-<!-- How could Einstein end up with such mistakes? 
-
-### Shallow Humans Fall Into the Trap
-
-Here, we tap Socratic dialectics to troubleshoot Einstein's understanding.  -->
-
-In contrast, Socrates explains that the universe is intuitive and not-so-complex. His principle states that in observing the heavens:
-- there should be no constant
-- light should not be used to build the core principle 
-
-Socrates says that future astronomers would likely violate these maxims due to a predisposition towards mathematics*. That's exactly what happened to Einstein**. 
-
-> *This is why we invented Qualimath
-  
-<!-- > **We can even work backwards and see the same mistakes from Newton, Ptolemy, and Aristotle who went with the obvious, instead of digging deeper into the metaphysical or noumenal causes. A clear example is Hubble's classification system for galaxies wherein Messier87 is an elliptical galaxy just because it doesn't have spirals. In our system, it is a quasar that has counterclockwise rotation. -->
-
-This is evident in his 1905 paper:
-
-{{< q a="Einstein-sophist" c="On The Electrodynamics Of Moving Bodies, 1905" >}}
-a mathematical description of this kind has no physical meaning unless we are quite clear as to what we understand by “time”.. We have so far defined only an “A time” and a “B time.” We have not defined a common “time” for A and B, for the latter cannot be defined at all unless we establish by definition that the “time” required by light to travel from A to B equals the “time” it requires to travel from B to A.
-{{< /q >}}
-
-Einstein did it because his ego couldn't define time metaphysically. Instead, he covered it up a physical (mathematical) definition, inevitably leading to circular reasoning:
-
-{{< q a="Einstein-sophist" c="Relativity, Section 8" >}}
-Two lightning flashes occurred simultaneously at A and B seen by an observer at the middle. [We thus define time as simultaniety, and define simultaniety as light appearing at the same time.]  <i>It would thus appear that we are reasoning in a logical circle</i>.
-{{< /q >}}
-
-<!-- But we only demand that ‘simultaniety’ supply us with an empirical decision. -->
-
-This is very different from other physicists who had egos that were subservient to Nature. This kept time subjective or metaphysical and never objective or physical:
-
-{{< q a="poincare" c="The Measure of Time" >}}
-We have not a direct intuition of simultaneity, nor of the equality of two durations.  If we think we have this intuition, <b>this is an illusion</b>
-{{< /q >}}
-
-Here, we expose Einstein's ego as the cause for the flaws of Relativity. In [this post](/material/fallacies/light-ruler), we will explain the actual implementation of that flaw, as the use of the speed of light to measure spacetime. 
+In the future, we can use it to plot or predict:
+- the probablities of what a particle will decay into
+- the movement of an object from location A to B using the aether
+- the growth of plants from one height or quality towards another 

@@ -4,8 +4,8 @@ heading: Chapter 3c
 # heading: "Mo' Money, Mo' Problem"
 date: 2020-04-18
 weight: 25
-image: "/photos/objects/money.jpg"
-description: Money conquered the world after the Spanish discovered silver mines in South America. This gave fuel for colonization and the oppression of the world.
+image: "/photos/handshake.jpg"
+description: The following are the common disadvantages of barter.
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -22,7 +22,7 @@ The following are the common disadvantages of barter:
 
 Persons must have matching requirements for barter to work
 
-> ##### Our Response: This is only true for bilateral barter or trade involving two persons. The barter trade proposed by Adam Smith and EF Schumacher is multilateral wherein trade is circular and not direct.
+> Our Response: This is only true for bilateral barter or trade involving two persons. The barter trade proposed by Adam Smith and EF Schumacher is multilateral wherein trade is circular and not direct.
 
 {{< q a="Adam-Smith" c="Wealth of Nations Book 1, Chapter 1" >}}
 The following workmen are necessary to make the shears used to clip the wool to make the coat: The miner, builder of the furnace for smelting the ore, The feller of the timber, The burner of the charcoal used in the smelting-house, The brick-maker and the brick-layer, The workers who attend the furnace The mill-wright, forger, and smith. All of them must join their different works to produce the shears.
@@ -34,7 +34,7 @@ The following workmen are necessary to make the shears used to clip the wool to 
 
 If A has rice, and B has wheat, then how much of rice will exchange for how much of wheat? If there are 500 goods, we will have to work out 124,750 possible ratios of exchange which is an enormously difficult task
 
-> ##### Our Response: We use barter credits which is pegged to the value of 1 kilogram of rice. The ratios are known by each exchanger and are arrived at by natural negotiation or trial and error. For example, if a haircut is $3 when rice is $1 per kilo in normal times, then haircuts have a normal ratio of `1 : 3`. This leads to less inflation and more price stability.
+> Our Response: We use barter credits which is pegged to the value of 1 kilogram of rice. The ratios are known by each exchanger and are arrived at by natural negotiation or trial and error. For example, if a haircut is $3 when rice is $1 per kilo in normal times, then haircuts have a normal ratio of `1 : 3`. This leads to less inflation and more price stability.
 
 
 {{< q a="Adam-Smith" >}}
@@ -53,7 +53,7 @@ The colonies sell their own produce chiefly to purchase European goods. The more
 
 One coffee mug cannot be exchanged for half a shirt.
 
-> ##### Our Response: This is exactly why we use barter credits. Assuming a mug is $2, a shirt is $4, and a kilo of rice is $1. Then the shirt supplier has to buy 2 mugs to exchange a shirt as a 2:1 ratio. The value is pegged to rice where rice is 1 point. The mug seller can give 1 mug today (as a 1 point credit) and another mug after 6 months (leading to 2 points credit) and get the shirt (to claim his credit). Alternatively, he can get the shirt now in exchange for a mug (the 1 point credit going to the shirt seller), and give the second mug after 6 months (to extinguish that 1 point credit).  This system is inflation-resistant. 
+>  Our Response: This is exactly why we use barter credits. Assuming a mug is $2, a shirt is $4, and a kilo of rice is $1. Then the shirt supplier has to buy 2 mugs to exchange a shirt as a 2:1 ratio. The value is pegged to rice where rice is 1 point. The mug seller can give 1 mug today (as a 1 point credit) and another mug after 6 months (leading to 2 points credit) and get the shirt (to claim his credit). Alternatively, he can get the shirt now in exchange for a mug (the 1 point credit going to the shirt seller), and give the second mug after 6 months (to extinguish that 1 point credit).  This system is inflation-resistant. 
 
 
 <!-- Our system pegs the value of everything to the common grain of the country. So the coffee mug will be priced in rice, let's say 1 mug: 2 kg rice and 1 kg rice : $1. If the shirt is $8, then it is worth also 8 kgs of rice. The coffee mug seller will get the full shirt in exchange for the mug, but owe 6 kg of rice. In case the shirt seller does not want the 6 kg rice credit, he can ask for $6 from the mug seller.
@@ -72,7 +72,7 @@ The man who wanted to buy salt and had nothing but cattle must have been obliged
 
 There is no way to write contracts for future payments.
 
-> ##### Our Response: The points credits stay recorded indefinitely since they represent the value of rice which everyone needs as long as humanity exists. Having 1 point credit receivable from Martha means Martha owes you anything worth the current market price of 1 kilogram of rice. 
+>  Our Response: The points credits stay recorded indefinitely since they represent the value of rice which everyone needs as long as humanity exists. Having 1 point credit receivable from Martha means Martha owes you anything worth the current market price of 1 kilogram of rice. 
 
 <!-- Future contracts have the same dynamics as trade contracts administered by the Clearing Authority. This implies that the Clearing Authority has some quasi-legal power to enforce the fulfillment of future contracts. -->
 
@@ -89,7 +89,7 @@ Give me that which I want, and you shall have this which you want, is the meanin
 
 Money can be stored but not all goods, such as eggs, can be kept until one retires.
 
-> ##### Our Response: The barter credits can last indefinitely. Goods do not need to be stored up to pay them. Everything is a ratio. These ratios do not change drastically through time unless new technologies are discovered. For example, oil was not so important before the invention of the combustion engine. Rather, the combustion engine benefitted the ratios for oil, but reduced the ratios for coal.  
+>  Our Response: The barter credits can last indefinitely. Goods do not need to be stored up to pay them. Everything is a ratio. These ratios do not change drastically through time unless new technologies are discovered. For example, oil was not so important before the invention of the combustion engine. Rather, the combustion engine benefitted the ratios for oil, but reduced the ratios for coal.  
 
 <!-- Supply chain barter is meant to circulate both raw materials and finished products to maintain production to sustain economies. It is not for investment. Thus, a company will trade for eggs only when it needs it, such as restaurants which follow "just in time" production. A child can receive a credit of 10 eggs to be claimed from a farm 50 years later at adulthood.
 
@@ -106,7 +106,7 @@ The returns of the fixed capital employed by land improvers are much slower than
 
 Company A might trade a single expensive item for many of Company B's cheap items to be delivered many times, exposing Company A to more risk than Company B.
 
-> ##### Our Response: The ratios of expensive finished products and luxuries might fluctuate more than the ratios of basic commodities and necessities. But the exchangers are free to negotiate the exchange terms and timelines for maximum fairness. Usually, this is done by trial and error just like a money transaction. 
+>  Our Response: The ratios of expensive finished products and luxuries might fluctuate more than the ratios of basic commodities and necessities. But the exchangers are free to negotiate the exchange terms and timelines for maximum fairness. Usually, this is done by trial and error just like a money transaction. 
 
 <!-- Normally, cheap raw materials are not exchanged for expensive finished goods in a multilateral barter. Iron ore is not directly sent to a laptop factory to be converted to a laptop. Instead, ore is sent to a steel mill, which will send metals to a chipmaker, which will then send chips to the laptop factory. The value of a truckload of microchips is closer to value of a truckload of laptops, than a truckload of iron ore. -->
 
@@ -120,7 +120,7 @@ The labourer’s coarse woollen coat is the produce of the joint labour of many 
 
 Prices can fluctuate in the world market very quickly.
 
-> ##### Our Response: Barter credits focus on the ratio of the value of goods to each other, not on the nominal money price. In case of hyperinflation, the system can switch to ratios with slight adjustments. For example, during the 2022 typhoon season, market price of rice in the Philippines rose from 35 pesos per kilo to 50 pesos. Yet the government imposed a price cap of 41 pesos. So it follows that each point equals to 41 pesos and not 50. So the system is a free market, but not liberal. 
+>  Our Response: Barter credits focus on the ratio of the value of goods to each other, not on the nominal money price. In case of hyperinflation, the system can switch to ratios with slight adjustments. For example, during the 2022 typhoon season, market price of rice in the Philippines rose from 35 pesos per kilo to 50 pesos. Yet the government imposed a price cap of 41 pesos. So it follows that each point equals to 41 pesos and not 50. So the system is a free market, but not liberal. 
 
 
 <!-- Supply chain barter relies on real prices and not on nominal prices. Any sudden reduction or increase in real prices in the external market is either absorbed or enjoyed by the trade partners. From a global societal perspective, the losses of the losers will be offset by the gains of the gainers, having little impact on the global economy. -->

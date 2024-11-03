@@ -13,7 +13,7 @@ weight: 2
 In disproving Descartes' vortex theory of planetary motion, and some other aspects of Cartesian physics, Newton claimed to not conclude that he had completely disproved Descartes' general theory of a mechanical push universe, some modified form of which he took as one possible option beside Gilbert's signal attraction theory in his own black-box 'cause unknown' physics. He just did not prove that his good maths produced from Gilbertian attraction theory could also fit any actual valid Cartesian push physics theory - only that it might also fit some possible push physics. Newton's evidence seemed to clearly favour attraction physics. And Gilbert had also claimed to have disproved Greek-Atomist or Cartesian push-physics if maybe a bit less convincingly. -->
 
 
-## HYPOTHESIS
+### HYPOTHESIS
 
 The resistance from the lack of lubricity in a fluid is proportional to the speed of the separation of the fluid's parts.
 
@@ -39,9 +39,11 @@ Therefore since the impressions are as the contiguous superficies, and as their 
 
 But the differences of the angular motions about the axis are as those translations applied to the distances, or as the translations directly and the distances inversely; that is, joining these ratios together, as the squares of the distances inversely. 
 
-Therefore if there be erected the lines `Aa, Bb, Cc, Dd, Ee`, etc., perpendicular to the several parts of (he infinite right line SABCDEQ, and reciprocally proportional to the squares of SA, SB, SO, SD, SE, etc., and through the extremities of those perpendiculars there be supposed to pass an hyperbolic curve, the sums of the differences, that is, the whole angular motions, will be as the correspondent sums of the lines Aa, Bb, Cc, Dd, Ee, that is (if to constitute a medium uniformly fluid the number of the orbs be increased and their breadth diminished in inflnitum), as the hyperbolic areas AaQ., BAQ, CcQ, DdQ, EeQ, etc., analogous to the sums; and the times, reciprocally proportional to the angular motions, will be also reciprocally proportional to those areas. 
+Therefore if there be erected the lines `Aa, Bb, Cc, Dd, Ee`, etc., perpendicular to the several parts of (he infinite right line `SABCDEQ`, and reciprocally proportional to the squares of `SA`, `SB`, `SO`, `SD`, `SE`, etc., and through the extremities of those perpendiculars there be supposed to pass an hyperbolic curve, the sums of the differences, that is, the whole angular motions, will be as the correspondent sums of the lines `Aa`, `Bb`, `Cc`, `Dd`, `Ee`, that is (if to constitute a medium uniformly fluid the number of the orbs be increased and their breadth diminished in inflnitum), as the hyperbolic areas `AaQ`, `BbQ`, `CcQ`, `DdQ`, `EeQ``, etc., analogous to the sums.
 
-Therefore the periodic time of any particle as D, is reciprocally as the area DdQ, that is (as appears from the known methods of quadratures of curves), directly as the distance SD. Q.E.D.
+The times, reciprocally proportional to the angular motions, will be also reciprocally proportional to those areas. 
+
+Therefore the periodic time of any particle as `D`, is reciprocally as the area `DdQ`, that is (as appears from the known methods of quadratures of curves), directly as the distance SD. Q.E.D.
 
 
 **Corollary 1**
