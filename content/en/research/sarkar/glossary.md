@@ -21,6 +21,7 @@ JIṊÁNA | Knowledge; understanding.
 JIṊÁNII |  A SÁDHAKA who follows the path of knowledge or discrimination.
 KARMA | Action
 KARMII | A SÁDHAKA who follows the path of action or work.
+Karnika | Seed Vessel of the chakra, holder of the pollen in a flower, within the petals 
 KIIRTANA | Collective singing of the name of the Lord, sometimes combined with a dance that expresses the spirit of surrender.
 MARGI | A member of Ananda Marga.
 MÁYÁ | Creative Principle, PRAKRTI in Her phase of creation. One aspect of Máyá is the power to cause the illusion that the finite created objects are the ultimate truth.
@@ -30,6 +31,7 @@ OṊM. The sound of the first vibration of creation; the biija mantra (acoustic 
 OTA YOGA. The association of PURUŚOTTAMA with each unit creation individually in PRATISAIṊCARA.
 PARAMA PURUŚA. Supreme Consciousness.
 PARAMÁTMÁ, PARAMÁTMAN. Supreme Consciousness in the role of witness of His own Macropsychic conation. Paramátman comprises: (1) PURUŚOTTAMA, the Macrocosmic Nucleus; (2) Puruśottama’s association with all creation in His extroversive movement (prota yoga); and (3) Puruśottama’s association with each unit creation individually (ota yoga) and (4) with all collectively (prota yoga) in His introversive movement.
+Piitha | point
 PRAKRTI, PARAMÁ PRAKRTI. Cosmic Operative Principle.
 PROTA YOGA. The association of PURUŚOTTAMA with all creation in His extroversive movement and with all the unit creations collectively in His introversive movement.
 PURUŚOTTAMA, PARAMASHIVA. The Nucleus Consciousness, the witness of saiṋcara (extroversion from the Nucleus) and pratisaiṋcara (introversion to the Nucleus).

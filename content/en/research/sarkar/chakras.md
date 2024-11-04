@@ -13,72 +13,85 @@ writer:
 
 ## Root Chakra -- Square
 
-The last vertebra or the tail bone is called "Kula" a little inside this point, the Mu'la'dha'ra Cakra is located ‑ the controlling point of the physical elements. 
+The last vertebra or the tail bone is called "Kula". A little inside this point, the Muladhara Cakra is located ‑ the controlling point of the physical elements. 
 
 This Cakra faces the front side and is square in shape. The middle point of this square is a bit away from the bone. 
 
-But the bone goes out through the middle point of the triangle with the vertebral point (A in the figure) touching the middle point of the square. The square is the Karn'ika' (seed vessel) of the Mu'la'dha'ra Cakra. 
+But the bone goes out through the middle point of the triangle with the vertebral point touching the middle point of the square. 
+
+<!-- (A in the figure) -->
+
+{{< i s="/graphics/bio/muladhara.jpg" a="muladhara" >}}
+
+
+The square is the Karnika (seed vessel) of the Muladhara Cakra. 
 
 The Karnika of a flower indicates the portion where resides the pollen in the centre of the petals. The Muladhara Cakra is like a complete flower with 4 petals. 
 
-The bone that comes out downwards through the middle point of the triangle inside the square is known as "Kula"; that is not the whole bone but only the outgoing portion. 
+The bone that comes out downwards through the middle point of the triangle inside the square is known as "Kula" -- it is not the whole bone but only the outgoing portion. 
 
-Here lies the sleeping divinity, the Kula Kun'd'alinii coiling around the bone. The Mu'la'dha'ra Cakra bears the pressure of the entire vertebral column. 
+Here lies the sleeping divinity, the Kula Kundalinii coiling around the bone. 
 
-A'dha'ra means shelter and mu'la means root. 
+**The Muladhara Cakra bears the pressure of the entire vertebral column.** 
+- "Adhara" means shelter
+- "Mula" means root
 
-That entity which lies at the root and gives shelter to the entire structure is the Mu'la'dha'ra. 
+That entity which lies at the root and gives shelter to the entire structure is the Muladhara. 
 
 
 ## Sex Chakra -- Crescent
 
-Above the Mu'la'dha'ra is the Sva'dhis't'ha'na. 
+Above the Muladhara is the Svadhisthana. 
 
 At the root of the penis, there is a circumference which is the circumference of a circle at the root of the penis. 
 
 If you draw a straight line through the middle point of the genital organ, that will reach the central point of the aforesaid circumference. 
 
-This middle point of the circumference is the controlling point of Sva'dhis't'ha'na Cakra.
+This middle point of the circumference is the controlling point of Svadhisthana Cakra.
 
 If a crescent is formed centering the circumference with the lower portion of the circumference as the base, that will be Svadhisthana Piitha. 
 
-The middle point of the Svadhisthana Cakra will not be the controlling point of the Sva'dhis't'ha'na Piit'ha. 
+The middle point of the Svadhisthana Cakra will not be the controlling point of the Svadhisthana Piitha.
 
-The latter is the middle point of the circumference of the root of the penis and is situated inside the crescent, which is also the controlling point (Vam') of the entire Sva'dhis't'ha'na Cakra. 
+The latter is the middle point of the circumference of the root of the penis and is situated inside the crescent, which is also the controlling point (Vam') of the entire Svadhisthana Cakra. 
 
-The bigger circle with the crescent as an arc forms the Karn'ika' of the Sva'dhis't'ha'na Cakra. In this case, the controlling point of the Cakra is not the middle point of the Karn'ika', but the middle point of the root of penis.
+The bigger circle with the crescent as an arc forms the Karnika of the Svadhisthana Cakra.
+
+In this case, the controlling point of the Cakra is not the middle point of the Karnika, but the middle point of the root of penis.
 
 
 ## Navel Chakra -- Triangle
 
-Next comes the Man'ipura Cakra at the navel. Inside the Karnika of the Man'ipura, there is an equilateral triangle. 
+Next comes the Manipura Cakra at the navel. Inside the Karnika of the Manipura, there is an equilateral triangle.
 
 The middle point (Ram') of this triangle is the controlling point of the entire Manipura Cakra.
 
 
+
 ## Heart Chakra -- Hexagon
 
-<!-- Anahata.  -->
-
-The middle point of the straight line joining the two nipples is the controlling point of the Ana'hata Cakra. 
+The middle point of the straight line joining the two nipples is the controlling point of the Anahata Cakra. 
 
 The Piitha of the Anahata Cakra is hexagonal in shape. 
 
-The middle point of the hexagonal Anahata Piitha within its Karn'ika' is the controlling point of the Cakra.
+The middle point of the hexagonal Anahata Piitha within its Karnika is the controlling point of the Cakra.
 
-The petals are attached to the Karn'ika'. The mind should be concentrated on the Piit'ha, not on the Karnika in Sahaja and Sa'dha'ran'a Yoga. 
+The petals are attached to the Karnika. The mind should be concentrated on the Piitha, not on the Karnika in Sahaja and Sadharana Yoga. 
 
 (But in Vishesa Yoga there is a method of concentration on the Cakra with the petals). 
 
-The shape of the Piitha is very important because the clear idea of the figure will help in good mental concentration on the Central point of the Piitha. 
+**The shape of the Piitha is very important because the clear idea of the figure will help in good mental concentration on the Central point of the Piitha.** 
 
-The Piitha, not the Cakra, in Latin, is called the plexus.
+The Piitha, not the Cakra, is called the plexus in Latin.
+
+
+### The Kurma Nadii
 
 The protruding point in the throat is called Kantha, in Samskrta and the entire area is called Griiva or Cala. 
 
 Sound comes out of this Kantha. It is controlled by the Kurma Nadii. 
 
-The Kurma Nadii being controlled, the Kant'ha is also controlled. The noted singers possess control even without their knowledge.
+The Kurma Nadii being controlled, the Kantha is also controlled. The noted singers possess control even without their knowledge.
 
 The Sadhaka achieves control consciously. One will be able to produce sounds through the vocal cords if one has control over the Kurma Nadii. 
 
@@ -89,13 +102,17 @@ The Kurma Nadii has 2 portions:
 
 That portion of the vocal cords from which sounds come out is called Vaekharii. 
 
-The Vaekharii is controlled and other lower nerves are also regulated by the Ku'rma Na'd'ii. 
+The Vaekharii is controlled and other lower nerves are also regulated by the Kurma Nadii. 
 
-The spiritual Sadhaka can develop this power of control over the Kurma Nadii and control the voice. Oxen and lizards, among the animals and reptiles, have a natural control over the Kurma Nadii. 
+The spiritual Sadhaka can develop this power of control over the Kurma Nadii and control the voice. 
 
-Lizards can sit on a wall even for 10 minutes without any movement, just like a statue. Other animals do not have such control.
+Oxen and lizards, among the animals and reptiles, have a natural control over the Kurma Nadii.
 
-The Muladhara Cakra controls all the Ks'iti Bhu'tas including bones etc., through the controlling point of the Cakra. 
+Lizards can sit on a wall even for 10 minutes without any movement, just like a statue. Other animals do not have such control.*
+
+{{< n n="Sarkar has mentioned that Buddha also has control of his Kurma Nadii allowing him to sit still for a long time" >}}
+
+The Muladhara Cakra controls all the Ksiti Bhutas including bones etc., through the controlling point of the Cakra. 
 
 All the liquid elements of the body such as the juice, blood, urine, semen and lymph etc. are controlled by the controlling point of Svadhisthana Cakra. 
 
@@ -103,11 +120,31 @@ All the liquid elements of the body such as the juice, blood, urine, semen and l
 
 All the fiery elements of the body are controlled by the middle point of the equilateral triangle. 
 
-All the aerial portions of the body ‑ the ten Va'yus such as Naga, Kurma, Krkara, Devadatta, Dhanainjaya, Prana, Apana, Samana, Udana and Vyana ‑ all these are controlled by the controlling point of Anahata Cakra. 
+The ten Va'yus are the aerial portions of the body:
 
-Similarly all the ethereal factors in the body are controlled by the controlling point of Vishuddha Cakra, whose figure it is very difficult to imagine, hence it is without any shape.
+1. Naga
+2. Kurma
+3. Krkara
+4. Devadatta
+5. Dhanainjaya
+6. Prana
+7. Apana
+8. Samana
+9. Udana
+10. Vyana 
+
+All these aerial portions of the body are controlled by the controlling point of the Anahata Cakra. 
+
+Similarly, all the ethereal factors in the body are controlled by the controlling point of Vishuddha Cakra. Its shape is very difficult to imagine. Hence, it has no shape.*
+
+{{< n n="We depict it as a cloud or a blob" >}}
+
  
-External physical cleanliness (Bahyika Shariirika Shaoca): There are five fundamental factors of which the solid is the crudest followed by the Apatattva (liquid). Every object has basically sentient, mutative and static principles. 
+## External physical cleanliness (Bahyika Shariirika Shaoca)
+
+There are 5 fundamental factors. The solid factor is the crudest followed by the Apatattva (liquid). 
+
+Every object has basically sentient, mutative and static principles. 
 
 The Ksiti Piitha is square.
 
@@ -117,25 +154,33 @@ Both are static in nature.
 
 With the over‑activeness of these two Cakras, mind becomes crude. The passing of urine and stool is done due to over activation of these glands. 
 
-But the Tejapiitha which is located in the navel is Rajasika in nature, whereas the Va'yupiit'ha and the Akashapiitha are sentient in nature. 
+But the Tejapiitha which is located in the navel is Rajasika in nature.
 
-The navel is Rajasika because it maintains a balance between the two Ta'masika and two Sa'ttvika piit'has. If by some means or other, the lower two Cakras are excited, then the navel also becomes imbalanced. 
+The Va'yupiit'ha and the Akashapiitha are sentient in nature. 
+
+The navel is Rajasika because it maintains a balance between the 2 Tamasika and 2 Sattvika piithas.
+
+If by some means or other, the lower two Cakras are excited, then the navel also becomes imbalanced.*
+
+{{< n n="This is why spiritual systems control or reduce sex" >}}
 
 Navel controls energy or Prana Shakti. 
 
-The energy or Pra'n'a Shakti will go down towards lower Piithas ‑ mind will be instrumental for crude thoughts and actions.
+The energy or Prana Shakti will go down towards lower Piithas ‑- mind will be instrumental for crude thoughts and actions.
 
-If the energy goes upwards towards higher Cakras, all the upper nerve‑cells, nerve‑fibres become energetic.
+If the energy goes upwards towards higher Cakras, all the upper nerve‑cells, nerve‑fibres become energetic.*
 
-Ultimately the mind goes up, still higher up, up to Trikuti (pituitary) and Sahasrara (pineal) (which is Gunatiita).
+{{< n n="This is why spiritual systems control food" >}}
+
+Ultimately the mind goes up, still higher up, up to:
+- Trikuti (pituitary) and
+- Sahasrara (pineal) (which is Gunatiita).
 
 These 2 Cakras are beyond Sattva, Rajah and Tamah. 
 
-When Sattva is affected, these two also are affected. So far the physical cleanliness (external physical) is concerned, man should keep the lower two Cakras under control. 
+When Sattva is affected, these two also are affected. So far the physical cleanliness (external physical) is concerned, man should keep the lower two Cakras under control. They should be free from excitement. 
 
-They should be free from excitement. 
-
-That is why our Carya'carya rules of bath says that one should pour water in front, on Muladhara and Svadhisthana, and next from behind. Water should be poured from both sides. 
+That is why our Caryacarya rules of bath says that one should pour water in front, on Muladhara and Svadhisthana, and next from behind. Water should be poured from both sides.
 
 First make those two cool and then have bath. 
 
@@ -153,7 +198,7 @@ This is a singular case.
 
 In all other cases, the central point of the Karnika is invariably the controlling point of the Cakra. 
 
-The central point of the Piit'ha lies outside the Piit'ha because it is same as the central point of the Cakra. 
+The central point of the Piitha lies outside the Piit'ha because it is same as the central point of the Cakra. 
 
 If the crescent moon is given the shape of a full moon, then it becomes easier to locate the central point.
 
