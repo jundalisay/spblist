@@ -45,7 +45,7 @@ Rachel his daughter cometh with the sheep.
 
 <sup>7</sup> He said:
 
-It is yet high day, neither [is it] time that the cattle should be gathered together: water ye the sheep, and go and feed them.
+It is yet high day, neither [is it] time that the cattle should be gathered together: water you the sheep, and go and feed them.
 
 <sup>8</sup> They said, We cannot, until all the flocks be gathered together, and [till] they roll the stone from the well’s mouth; then we water the sheep.
 
@@ -53,7 +53,7 @@ It is yet high day, neither [is it] time that the cattle should be gathered toge
 
 <sup>10</sup> When Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother. 
 
-<sup>11</sup> Jacob kissed Rachel, and lifted up his voice, and wept. {29:12} And Jacob told Rachel that he [was] her father’s brother, and that he [was] Rebekah’s son: and she ran and told her father. 
+<sup>11</sup> Jacob kissed Rachel, and lifted up his voice, and wept. <sup>12</sup> Jacob told Rachel that he [was] her father’s brother, and that he [was] Rebekah’s son: and she ran and told her father. 
 
 
 <sup>13</sup> When Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things. 
@@ -74,24 +74,25 @@ Because you are my brother. Shouldest you serve me for nothing? Tell me, what sh
 - the elder was Leah
 - the younger was Rachel. 
 
-{29:17} Leah was tender eyed. But Rachel was beautiful and well favoured.
+<sup>17</sup> Leah was tender eyed. But Rachel was beautiful and well favoured.
 
-{29:18} Jacob loved Rachel and said:
+<sup>18</sup> Jacob loved Rachel and said:
 
 {{< l a="Jacob" >}}
 I will serve you 7 years for Rachel your younger daughter. 
 {{< /l >}}
 
-
-{29:19} Laban said:
-
+{{< r a="Laban" >}}
 <sup>19</sup> It is better that I give her to you, than that I should give her to another man: abide with me. 
+{{< /r >}}
+
 
 <sup>20</sup> Jacob served 7 years for Rachel. They seemed unto him [but] a few days, for the love he had to her.
 
-<sup>21</sup> Jacob said to Laban:
+{{< l a="Jacob" >}}
+<sup>21</sup> [To Laban:] Give me my wife for my days are fulfilled, that I may have sex with her. 
+{{< /l >}}
 
-Give me my wife for my days are fulfilled, that I may have sex with her. 
 
 <sup>22</sup> Laban gathered together all the men of the place, and made a feast. 
 
@@ -103,12 +104,13 @@ Give me my wife for my days are fulfilled, that I may have sex with her.
 
 What have you done to me? Did I not serve you for Rachel? Why have you beguiled me? 
 
-{29:26} Laban said:
-
+{{< r a="Laban" >}}
 <sup>26</sup> It must not be so done in our country, to give the younger before the firstborn.
 
-<sup>27</sup> Fulfil her week, and we will give thee this also for the service which thou shalt serve
-with me yet seven other years. 
+<sup>27</sup> Fulfil her week, and we will give you this also for the service which you shalt serve
+with me yet 7 other years. 
+{{< /r >}}
+
 
 <sup>28</sup> Jacob did so, and fulfilled her week. Laban gave him Rachel his daughter to be his wife also. 
 
@@ -118,20 +120,26 @@ with me yet seven other years.
 
 <sup>31</sup> When Enki saw that Leah [was] hated, he opened her womb: but Rachel [was] barren.
 
-{29:32} Leah conceived, and bare a son she named Reuben.
+<sup>32</sup> Leah conceived, and bare a son she named Reuben.
 
-She said:
-
+{{< r a="Leah" >}}
 Surely Enki had looked on my affliction; now therefore my husband will love me.
+{{< /r >}}
 
+<sup>33</sup> She conceived again, and bare a son and said:
 
-{29:33} She conceived again, and bare a son and said:
-
+{{< r a="Leah" >}}
 Because Enki had heard that I [was] hated, he had therefore given me this [son] also: and she called his name Simeon. 
+{{< /r >}}
 
+<sup>34</sup> She conceived again, and bare a son; and said:
 
-{29:34} She conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi. 
+{{< r a="Leah" >}}
+Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi. 
+{{< /r >}}
 
-{29:35} She conceived again, and bare a son. 
+<sup>35</sup> She conceived again, and bare a son. 
 
-She said: Now will I praise Enki: therefore she called his name Judah; and left bearing.the stone from the well’s mouth; then we water the sheep.
+{{< r a="Leah" >}}
+Now will I praise Enki: therefore she called his name Judah; and left bearing.the stone from the well’s mouth; then we water the sheep.
+{{< /r >}}

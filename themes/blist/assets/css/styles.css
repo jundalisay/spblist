@@ -105,9 +105,9 @@
 
 .Enki, .Enki-Agent, .Enki-Agents {background-image: url(/icons/enki.png);}
 
-.Enlil-Followers {background-image: url(/icons/g03.png)}
+.Enlil-Followers, .Spies {background-image: url(/icons/g03.png)}
 
-.Enlil-Satan, .Enlil-Faction, .Enlil {background-image: url(/icons/enlil.png)}
+.Enlil-Satan, .Anunnaki, .Enlil-Faction, .Enlil {background-image: url(/icons/enlil.png)}
 
 .Engels {background-image: url(/avatars/engels.jpg);}
 
@@ -284,7 +284,7 @@
   background-image: url(/icons/moses.png);
 }
 
-.Aishah, .Mary, .Wife, .Woman, .Oracle, .Saradamani, .Brahmani {background-image: url(/icons/veil.png);}
+.Aishah, .Mary, .Wife, .Woman, .Oracle, .Saradamani, .Brahmani, .Rahab, .Leah {background-image: url(/icons/veil.png);}
 
 .Tesla {background-image: url(/avatars/tesla.png);}
 

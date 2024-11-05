@@ -1,20 +1,20 @@
 ---
 heading: Chapter 19
 title: "Preparing for the 10 Commandments"
-description: "In the third month, the children of Israel came into he wilderness of Sinai"
+description: "In the third month, the Israelites came into he wilderness of Sinai"
 weight: 4
 image: "/covers/old.jpg"
 ---
 
 
-<sup>1</sup> In the third month, the children of Israel came into he wilderness of Sinai.
+<sup>1</sup> In the third month, the Israelites came into he wilderness of Sinai.
 
 <sup>2</sup> They left Rephidim, then pitched in the wilderness, and camped before the mount. 
 
 <sup>3</sup> Moses went up to Enki who called to him out of the mountain:
 
 {{< l a="Enki" >}}
-You shall say to the house of Jacob, and tell the children of Israel: 
+You shall say to the house of Jacob, and tell the Israelites: 
 
 <sup>4</sup> 'You have seen what I did to the Egyptians, and how I put you on eagles’ wings, and brought you to myself. 
 

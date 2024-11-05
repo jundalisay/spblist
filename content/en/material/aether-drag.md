@@ -10,52 +10,90 @@ icon: /icons/spmat.png
 ---
 
 
-## The Luminiferous Aether of Huygens
+Before Newtonian Physics was created, the mainstream Physics was from Descartes who used a 5 Element paradigm, similar to the Asian sciences of Hinduism and Taoism and the Greek sciences Aristotle and Plato. 
 
-In the 19th century, nearly all physicists embraced the [luminiferous aether](https://en.wikipedia.org/wiki/Luminiferous_aether) of Huygens as the medium that gave light its wave properties.
+This model had 5 Elements, 4 of which are known by Physics as the Standard Model 
 
-The belief that an aether wind was propelling light forward. This meant that perpendicular light beams would have different speeds -- one should be slower than the other. 
+Element | Physics Equivalent
+--- | ---
+Aether | Pseudo science
+Air | Spacetime
+Fire | Electromagnetism
+Water | Weak Force
+Earth or Mass | Strong Force
 
+Everything changed when Newton came to the picture and enshrined mass as the cause of gravity in a space that was absolute. This is totally different from the other sciences which put the aether as the cause.*
+
+{{< n n="This has been proven since ancient times by Hindu and Buddhist monks who are able to levitate without exerting physical force. This is why gravity is no longer a myster and is case closed" >}}
+
+
+Insead of mass being the lowest Element, Newtonian Physics made it the supreme Element. 
+
+Because it does not represent the truth of Nature, Newtonian mechanics started breaking down when electromagnetism was more observed. 
+- Light moved in waves instead of lines. 
+- Electrons did not go in Newtonian orbits. 
+- More importantly, the constant speed of light proved that space was not absolute. 
+
+All these findings are consistent with the 5 Elements model which has the aether as the top Element. 
+
+{{< q a="Lorentz">}}
+The state of the ether which is the cause of gravitation is propagated in a similar way as that which exists in the electromagnetic field.
+{{< /q >}}
+
+The Michelson Morley experiment that proved the constancy of light therefore actually proves the Cartesian Aether. 
+
+So why do physicists say that it debunked the aether?
+
+### The Huygens Ether is NOT the Descartes Aether
+
+This is because **the 19th century ether is the Huygens ether and not the Cartesian one.** 
+
+{{< q a="Huygens" >}}
+The movement of light coming from the luminous body is propagated through what I call “Ethereal matter”. It is not the same that serves for the propagation of sound.
+{{< /q >}}
 
 {{< i s="/graphics/physics/huygenschap1d.png" a="Huygens aether" c="The Huygens aether is actually the 2nd Element of Descartes or spacetime, different from the pure aether (what we call the 0th Element)" >}}
 
-<!-- All that was needed was to get proof of the aether by measuring the changes in the speed of light in different times in a year. Such changes would then be evidence of an 'aether wind' that 'blew' light. 
 
-This was done through an 'interferometer' as the Michelson-Morley experiment.
+**Huyghen's ether is actually Descartes' 2nd Element** -- the invisible space-time particles that create vortices. These are consistent with malleable spacetime that warps according to mass. 
 
-That experiment showed that the speed of light is the same everywhere, and so there was no aether wind.
- -->
+{{< n n="In *The World*, Descartes actually calls all the 3 Elements as aether. The pure aether is called *substance*. This is because all Cartesian particles are virtual. But this is confusing to modern Physics which believes that all particles are real and only some are virtual. So to strike a compromise, we put the virtual aether as the 0th Element or 5th Layer. The 2nd Element or 4th Layer is also virtual but no longer aethereal as we can clearly see the space around us." >}}
 
 
-And so in 1887, an [experiment was done by Albert Michelson and Edward Morley](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment) using an interferometer to test exactly this. 
+The confusion with the aether was added to by Fresnel by making it variant just because light becomes variant when mixed with matter (such as when light passes through crystals).
 
-Two light beams were arranged perpendicularly, with one going along the Earth's motion. This made it go with the aether.
-
-<!-- , making its speed different from the other. But  -->
-
-However, the result showed that the speed of both light beams were the same. Therefore, the aether did not exist. 
-
-More importantly, it showed that the speed of light was constant everywhere and in all directions. 
-- Before this, it was thought that space was constant and light was changing. 
-- After this, physicists realized that space was changing and light was constant.
-
-This led to the idea of space-contraction and space-relativity. 
+{{< q a="Fresnel" c="Memoir On The Diffraction Of Light, Section 2" >}}
+The intensity of light is proportional to the square of the speeds of the particles. The intensity of vibration, on the other hand, is the speed of an ether particle during its oscillation.
+{{< /q >}}
 
 
-### The Cartesian Aether is not the Huygens Aether
+Here, Fresnel exposes that his mistake that the speed of the spacetime particles somehow speed up of slow down the light waves. He obviously no longer knew the division of the 5 Elements of Descartes. 
 
-Because of the negative result, the aether was discarded and has since been frowned upon. It was replaced by Einstein with a spacetime fabric that could bend the path of light as gravity-warp instead of a gravity-force.  
+To Descartes:
+- the 2nd Element should be called "space-time" and not the "ether"
+- the medium for sound is then the 3rd Element or matter, such as the physical air. 
+- light is not sped up nor slowed down by space-time
+- light is slowed down by 3rd element or matter and is at maximum speed when free from matter. 
+- light is confined to its top or constant speed by the aetherspace which is a part of the 2nd Element 
 
-Unknown to physicists, **the Cartesian Aether is not the Huygens Aether**. The former is behind spacetime, while the latter is spacetime itself, as the Descartes' 2nd Element. 
+{{< i s="/graphics/physics/1960s.png" a="elements" c="Huygens wrongly called Descartes' spacetime as the ether." >}}
 
-The experiment by Michelson and Morley proved 2 things:
+The Michelson-Morley experiment then proved that the speed of light is constant within the pure 2nd Element (called vacuum by Physics).
 
-1. The 2nd ELement exists as spacetime
-2. The pure aether exists as the discrepancy between Fizeau's light speed and that of Michelson-Morley 
+But instead of physicists vindicating Descartes, a German Einstein comes out of nowhere messing up Physics and Nature imposing 2 axioms:
+
+1. The invariance of the speed of light
+2. Equivalence of gravitational and inertial mass
+
+This is even worse that Newton because it makes the 2nd Element dependent on mass (3rd Element) via light (1st Element). 
+
+This prevents faster than light travel and levitation with far less energy. These can be used to solve so many problems today that are out of reach just because a single Einstein corrupted Physics, putting it in limbo state for 100 years. 
+
+We fix this with [Cartesian Relationality](/material/fallacies/general-relativity/). 
 
 
 
-## The Real Aether Drag is Not Physical
+## The Real Cartesian Aether Drag is Not Physical
 
 The Cartesian Aether is the material of ideas, feelings, information, and of the abstract mind that has those ideas, feelings, and information. 
 
@@ -76,6 +114,11 @@ Year | Measurer | Measurement
 This shows that the farther the measurement from the present, the less accurate it is. Therefore, **the time aspect caused a drag in the aether**.  
 
 It follows that the more distant the times and spaces, the more drag is there in the aethereal ideas, feelings, and information. 
+
+
+If 299,792 were the truth, then how fast or how slow people arrived at the truth would be an indication of "dash" or "drag". We want to avoid as much drag as possible, especially when looking for the truth.* 
+
+{{< n n="There might be some alien species who aim for getting the truth as fast as possible just as humans want to get rich as fast as possible. i.e. they get pleasure by arriving at any truth so quickly, just as we get pleasure by seeing a bank account that is so large. (We want to upgrade the human species to seek the truth in anything instead of seeking money to buy anything)" >}}   
 
 
 <!-- But this merely shows the physicists' misconception at that time. Back then, spacetime was not seen as a single idea. And so the measurement was done at the same timespan. Even when the experiment was repeated at another time, it was still done within the same timespan.  

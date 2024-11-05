@@ -37,7 +37,7 @@ I do not know: Am I my brother’s keeper?
 {{< /r >}}
 
 {{< l a="Enlil" >}}
-<sup>10</sup> What have you done? The voice of thy brother’s blood cried to me from the ground. <sup>11</sup> Now you are cursed from the earth, which had opened her mouth to receive your brother’s blood from your hand. <sup>12</sup> When you till the ground, it shall not yield to you her strength. You will be a fugitive and vagabond on the earth. 
+<sup>10</sup> What have you done? The voice of your brother’s blood cried to me from the ground. <sup>11</sup> Now you are cursed from the earth, which had opened her mouth to receive your brother’s blood from your hand. <sup>12</sup> When you till the ground, it shall not yield to you her strength. You will be a fugitive and vagabond on the earth. 
 {{< /l >}}
 
 {{< r a="Cain" >}}
@@ -51,7 +51,7 @@ I do not know: Am I my brother’s keeper?
 
 Enlil set a mark upon Cain, lest anyone finding him should kill him.
 
-<sup>16</sup> So Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden. 
+<sup>16</sup> So Cain went out from the presence of Enki, and dwelt in the land of Nod, on the east of Eden. 
 
 <sup>17</sup> Cain had sex with his wife and she conceived Enoch. Cain built a city named Enoch after his son. 
 <!-- 
@@ -68,7 +68,7 @@ handle the harp and organ. {4:22} And Zillah, she also bare
 Tubal- cain, an instructer of every artificer in brass and iron:
 and the sister of Tubal-cain [was] Naamah. {4:23} And
 Lamech said unto his wives, Adah and Zillah, Hear my
-voice; ye wives of Lamech, hearken unto my speech: for I
+voice; you wives of Lamech, hearken unto my speech: for I
 have slain a man to my wounding, and a young man to my
 hurt. {4:24} If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.
 

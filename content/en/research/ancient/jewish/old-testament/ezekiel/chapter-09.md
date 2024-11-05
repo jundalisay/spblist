@@ -7,21 +7,24 @@ image: "/covers/old.jpg"
 ---
 
 
-8:13} He said also unto me, Turn thee yet again, [and]
-thou shalt see greater abominations that they do. 8:14}
-Then he brought me to the door of the gate of the LORD’S
+{{< l a="Enki" >}}
+<sup>13</sup> [To Ezekiel] Turn you yet again, [and] you shalt see greater abominations that they do.
+{{< /l >}}
+
+
+<sup>14</sup> Then he brought me to the door of the gate of Enki’S
 house which [was] toward the north; and, behold, there sat
 women weeping for Tammuz.
 
-8:15} Then said he unto me, Hast thou seen [this,] O son of man? turn thee yet again, [and] thou shalt see greater abominations than these.
+15 } Then said he unto me, Hast you seen [this,] O son of man? turn you yet again, [and] you shalt see greater abominations than these.
 
-8:16} And he brought me into the inner court of the LORD’S house, and, behold, at the door
-of the temple of the LORD, between the porch and the altar,
+8:16} And he brought me into the inner court of Enki’S house, and, behold, at the door
+of the temple of Enki, between the porch and the altar,
 [were] about five and twenty men, with their backs toward
-the temple of the LORD, and their faces toward the east;
+the temple of Enki, and their faces toward the east;
 and they worshipped the sun toward the east.
 
-8:17} Then he said unto me, Hast thou seen [this,] O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they
+8:17} Then he said unto me, Hast you seen [this,] O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they
 have filled the land with violence, and have returned to
 provoke me to anger: and, lo, they put the branch to their
 nose. 
@@ -41,38 +44,34 @@ and they went in, and stood beside the brasen altar.
 9:3} The glory of the God of Israel was gone up from the
 cherub, whereupon he was, to the threshold of the house.
 And he called to the man clothed with linen, which [had]
-the writer’s inkhorn by his side; 9:4} And the LORD said
+the writer’s inkhorn by his side; 9:4} And Enki said
 unto him, Go through the midst of the city, through the
 midst of Jerusalem, and set a mark upon the foreheads of
 the men that sigh and that cry for all the abominations that
 be done in the midst thereof.
 
 9:5} And to the others he said in mine hearing, Go ye
-after him through the city, and smite: let not your eye spare,
-neither have ye pity: 9:6} Slay utterly old [and] young,
+after him through the city, and smite: let not your eyou spare,
+neither have you pity: 9:6} Slay utterly old [and] young,
 both maids, and little children, and women: but come not
 near any man upon whom [is] the mark; and begin at my
 sanctuary. Then they began at the ancient men which [were]
 before the house. 9:7} And he said unto them, Defile the
-house, and fill the courts with the slain: go ye forth. And
+house, and fill the courts with the slain: go you forth. And
 they went forth, and slew in the city.
 
 9:8} And it came to pass, while they were slaying them,
 and I was left, that I fell upon my face, and cried, and said,
-Ah Lord GOD! wilt thou destroy all the residue of Israel in
-thy pouring out of thy fury upon Jerusalem? 
+Ah Lord GOD! wilt you destroy all the residue of Israel in
+your pouring out of your fury upon Jerusalem? 
 
 9:9} Then
 said he unto me, The iniquity of the house of Israel and
 Judah [is] exceeding great, and the land is full of blood, and
 the city full of perverseness: for they say, The LORD hath
-forsaken the earth, and the LORD seeth not. 9:10} And as
-for me also, mine eye shall not spare, neither will I have
+forsaken the earth, and Enki seeth not. 9:10} And as
+for me also, mine eyou shall not spare, neither will I have
 pity, [but] I will recompense their way upon their head. 
 
-9:11} And, behold, the man clothed with linen, which [had] the inkhorn by his side, reported the matter, saying, I have done as thou hast commanded me.
+9:11} And, behold, the man clothed with linen, which [had] the inkhorn by his side, reported the matter, saying, I have done as you hast commanded me.
 
-10:1} Then I looked, and, behold, in the firmament that
-was above the head of the cherubims there appeared over
-them as it were a sapphire stone, as the appearance of the
-likeness of a throne. 10:2} And he spake unto the man

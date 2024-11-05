@@ -45,7 +45,7 @@ Noah removed the covering of the ark, and looked, and, behold, the face of the g
 <sup>15</sup> Enki told Noah:
 
 {{< l a="Enki" >}}
-<sup>16</sup> Go out of the ark with your wife, sons, their wives. <sup>17</sup> Bring forth with thee every living thing that is with you, of all flesh, both of bird and cattle and of every creeping thing that creepeth on the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth. 
+<sup>16</sup> Go out of the ark with your wife, sons, their wives. <sup>17</sup> Bring forth with you every living thing that is with you, of all flesh, both of bird and cattle and of every creeping thing that creepeth on the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth. 
 {{< /l >}}
 
 

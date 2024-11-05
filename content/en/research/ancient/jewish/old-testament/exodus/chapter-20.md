@@ -71,7 +71,7 @@ Speak to us, and we will listen. But do not let Enki speak with us, or else we w
 <sup>22</sup> Enki said to Moses:
 
 {{< l a="Enki" >}}
-Tell the children of Israel: You have seen that I have spoken to you from heaven. <sup>23</sup> Do not make alien-gods of silver to rival me. Do not make alien-gods of gold for yourselves.
+Tell the Israelites: You have seen that I have spoken to you from heaven. <sup>23</sup> Do not make alien-gods of silver to rival me. Do not make alien-gods of gold for yourselves.
 
 <sup>24</sup> Make an altar of earth for me. Sacrifice on it your burnt offerings, and your peace offerings, your flocks and herds. In all places where I record my name I will come to you and bless you.
 

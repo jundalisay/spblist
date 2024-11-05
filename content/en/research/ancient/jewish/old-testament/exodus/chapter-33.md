@@ -12,7 +12,7 @@ image: "/covers/old.jpg"
 {{< l a="Enki" >}}
 Go with your people to the land which I promised to Abraham, Isaac, and Jacob.
 
-<!-- , saying, Unto thy seed will
+<!-- , saying, Unto your seed will
 I give it:  -->
 
 I will send an agent before you to a land flowing with milk and honey. I will drive out the Canaanites, Amorites, Hittites, Perizzites, Hivites, and Jebusites. 
@@ -25,7 +25,7 @@ I will not go with you because you are a stiffnecked people and I might destroy 
 <sup>5</sup> Enki said to Moses:
 
 {{< l a="Enki" >}}
-Say to the children of Israel: 'Your are a stiffnecked people. I will come up and destroy you. So remove your ornaments, that I may know what to do with you. 
+Say to the Israelites: 'Your are a stiffnecked people. I will come up and destroy you. So remove your ornaments, that I may know what to do with you. 
 {{< /l >}}
 
 
@@ -47,20 +47,20 @@ He turned again into the camp. But his servant Joshua, the son of Nun, a young m
 
 
 {{< r a="Moses" >}}
-<sup>12</sup> [To Enki] You tell me to bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight. 
+<sup>12</sup> [To Enki] You tell me to bring up this people: and you hast not let me know whom you wilt send with me. Yet you hast said, I know you by name, and you hast also found grace in my sight. 
 
 <sup>13</sup> Please show me your way so that I may find grace in your sight. Please see this nation as your people. 
 {{< /r >}}
 
 
-<!-- Now therefore, I pray thee, if I have found grace in thy sight, shew me now thy way, that I may know thee, that I : and consider that -->
+<!-- Now therefore, I pray you, if I have found grace in your sight, shew me now your way, that I may know you, that I : and consider that -->
 
 {{< l a="Enki" >}}
 <sup>14</sup> My presence shall go with you and I will give you rest.
 {{< /l >}}
 
 {{< r a="Moses" >}}
-<sup>15</sup> If you do not go with me, then do not let us go. {33:16} For wherein shall it be known here that I and thy people have found grace in thy sight? [is it] not in that thou goest with us? so shall we be separated, I and thy people, from all the people that [are] upon the face of the earth. 
+<sup>15</sup> If you do not go with me, then do not let us go. {33:16} For wherein shall it be known here that I and your people have found grace in your sight? [is it] not in that you goest with us? so shall we be separated, I and your people, from all the people that [are] upon the face of the earth. 
 {{< /r >}}
 
 {{< l a="Enki" >}}
@@ -72,7 +72,7 @@ He turned again into the camp. But his servant Joshua, the son of Nun, a young m
 <sup>18</sup> Please, show me your glory. 
 {{< /r >}}
 
-<!-- proclaim my the name of Enki before thee; and will -->
+<!-- proclaim my the name of Enki before you; and will -->
 {{< l a="Enki" >}}
 <sup>19</sup> I will make all my goodness pass before you. I will be gracious to whom I will be gracious, and will show mercy on whom I will shew mercy. <sup>20</sup> You cannot see my face: for there shall no man see me, and live. 
 

@@ -79,7 +79,7 @@ There is a noise of war in the camp.
 
 Moses became very angry. He threw the tablets out of his hands, and broke them beneath the mount. 
 
-<sup>20</sup> He took the calf which they had made, and burnt it in the fire, and ground it to powder, and strawed it on the water, and made the children of Israel drink of it.
+<sup>20</sup> He took the calf which they had made, and burnt it in the fire, and ground it to powder, and strawed it on the water, and made the Israelites drink of it.
 
 {{< l a="Moses" >}}
 <sup>21</sup> [To Aaron] What did these people do to you, that you have led them into so great a sin?

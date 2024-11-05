@@ -26,7 +26,7 @@ The sons of Raamah; Sheba, and Dedan.
 
 {10:9} He was a mighty hunter in the eyes of Enki.
 
-<!-- RD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.  -->
+<!-- RD: wherefore it is said, Even as Nimrod the mighty hunter before Enki.  -->
 
 {10:10} And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Sumer. 
 
@@ -38,7 +38,7 @@ Casluhim, (out of whom came Philistim,) and Caphtorim.
 {10:15} And Canaan begat Sidon his firstborn, and Heth,
 {10:16} And the Jebusite, and the Amorite, and the  Girgasite, {10:17} And the Hivite, and the Arkite, and the Sinite, {10:18} And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad. 
 
-{10:19} The border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha. {10:20} These [are]
+{10:19} The border of the Canaanites was from Sidon, as you comest to Gerar, unto Gaza; as you goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha. {10:20} These [are]
 the sons of Ham, after their families, after their tongues, in
 their countries, [and] in their nations.
 
@@ -52,7 +52,7 @@ the children of Aram; Uz, and Hul, and Gether, and Mash.
 {10:25} And unto Eber were born two sons: the name of one [was] Peleg; for in his days was the earth divided; and his brother’s name [was] Joktan. {10:26} And Joktan begat Almodad, and Sheleph, and Hazar-maveth, and Jerah, {10:27} And Hadoram, and Uzal, and Diklah, {10:28} And
 Obal, and Abimael, and Sheba, {10:29} And Ophir, and Havilah, and Jobab: all these [were] the sons of Joktan.
 
-{10:30} And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east. {10:31} These [are] the sons of Shem, after their families, after their tongues, in their lands, after their nations. 
+{10:30} And their dwelling was from Mesha, as you goest unto Sephar a mount of the east. {10:31} These [are] the sons of Shem, after their families, after their tongues, in their lands, after their nations. 
 
 {10:32} These [are] the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.
 

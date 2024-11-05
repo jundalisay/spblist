@@ -28,25 +28,25 @@ Enki, will you slay also a righteous nation?
 
 <sup>6</sup> Enki said to him in a dream:
 
-I know that you did this in the integrity of your heart. For I also withheld thee from sinning against me: therefore suffered I thee not to touch her. 
+I know that you did this in the integrity of your heart. For I also withheld you from sinning against me: therefore suffered I you not to touch her. 
 
-<sup>7</sup> So restore the man his wife; for he [is] a prophet, and he shall pray for you, and thou shalt live. If thou restore [her] not, know thou that thou shalt surely die, thou, and all that [are] thine.
+<sup>7</sup> So restore the man his wife; for he [is] a prophet, and he shall pray for you, and you shalt live. If you restore [her] not, know you that you shalt surely die, thou, and all that [are] thine.
 
 <sup>8</sup> Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid. 
 
 <sup>9</sup> Then Abimelech called Abraham:
 
 {{< r a="Abimelech" >}}
-What have you done unto us? What have I offended thee, that thou have brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done. 
+What have you done unto us? What have I offended you, that you have brought on me and on my kingdom a great sin? you hast done deeds unto me that ought not to be done. 
 
-<sup>10</sup> What sawest thou, that thou hast done this thing? 
+<sup>10</sup> What sawest thou, that you hast done this thing? 
 {{< /r >}}
 
 
 {{< l a="Abraham" >}}
 {20:11} I thought that the fear of Enki is not in this place and that they will slay me for my wife’s sake. {20:12} She is my sister; she [is] the daughter of my father, but not the daughter of my mother; and she became my wife.  {20:13} Enki caused me to wander from my father’s house, that I said unto her:
 
-This is thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He [is] my brother.
+This is your kindness which you shalt shew unto me; at every place whither we shall come, say of me, He [is] my brother.
 {{< /l >}}
 
 
@@ -55,7 +55,7 @@ This is thy kindness which thou shalt shew unto me; at every place whither we sh
 {20:15} Abimelech said:
 
 {{< r a="Abimelech" >}}
-My land is before you. Live wherever you want.  {20:16} Sarah, I have given your brother 1,000 pieces of silver. He is to you a covering of the eyes, unto all that [are] with thee, and with all [other:].
+My land is before you. Live wherever you want.  {20:16} Sarah, I have given your brother 1,000 pieces of silver. He is to you a covering of the eyes, unto all that [are] with you, and with all [other:].
 {{< /r >}}
 
 Thus she was reproved.

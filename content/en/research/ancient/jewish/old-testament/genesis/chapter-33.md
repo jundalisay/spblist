@@ -23,7 +23,7 @@ kissed him: and they wept.
 
 Who [are] those with you?
 
-he said, The children which God hath graciously given thy servant. {33:6} Then the handmaidens
+he said, The children which God hath graciously given your servant. {33:6} Then the handmaidens
 came near, they and their children, and they bowed themselves. 
 
 <sup>7</sup> Leah also with her children came near, and bowed themselves: and after came Joseph near
@@ -32,36 +32,36 @@ and Rachel, and they bowed themselves.
 
 {33:8} he said
 
-What [meanest] thou by all this drove which I met?
+What [meanest] you by all this drove which I met?
 
 And he said, [These are] to find grace in the sight of my lord. {33:9} And Esau said, I have enough, my brother; 
 
-keep that thou hast unto thyself. 
+keep that you hast unto yourself. 
 
 {33:10} And Jacob said,
 
-Nay, I pray thee, if now I have found grace in thy sight, then
-receive my present at my hand: for therefore I have seen thy
-face, as though I had seen the face of God, and thou wast
+Nay, I pray you, if now I have found grace in your sight, then
+receive my present at my hand: for therefore I have seen your
+face, as though I had seen the face of God, and you wast
 pleased with me. 
 
-{33:11} Take, I pray thee, my blessing
-that is brought to thee; because God hath dealt graciously
+{33:11} Take, I pray you, my blessing
+that is brought to you; because God hath dealt graciously
 with me, and because I have enough. And he urged him, and
 he took [it. ]
 
 {33:12} And he said, Let us take our journey,
-and let us go, and I will go before thee. {33:13} And he said
+and let us go, and I will go before you. {33:13} And he said
 unto him, My lord knoweth that the children [are] tender,
 and the flocks and herds with young [are] with me: and if
 men should overdrive them one day, all the flock will die.
-{33:14} Let my lord, I pray thee, pass over before his
+{33:14} Let my lord, I pray you, pass over before his
 servant: and I will lead on softly, according as the cattle that
 goeth before me and the children be able to endure, until I
 come unto my lord unto Seir.
 
 {33:15} And Esau said, Let
-me now leave with thee [some] of the folk that [are] with
+me now leave with you [some] of the folk that [are] with
 me. And he said, What needeth it? let me find grace in the
 sight of my lord.
 

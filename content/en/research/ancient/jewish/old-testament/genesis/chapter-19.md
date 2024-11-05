@@ -14,7 +14,7 @@ image: "/covers/old.jpg"
 {{< /r >}}
 
 <!--  Turn in, I pray you, into your servant’s house, and tarry all night,
-and wash your feet, and ye shall rise up early, and go on
+and wash your feet, and you shall rise up early, and go on
 your ways.  -->
 
 
@@ -72,7 +72,7 @@ But he seemed as one that mocked unto his sons in law.
 <sup>15</sup> When the morning arose, the agents hastened Lot, saying:
 
 {{< l a="Enki-Agents" >}}
-Arise, take your wife, and your 2 daughters which are here; lest thou be consumed in the iniquity of the city.
+Arise, take your wife, and your 2 daughters which are here; lest you be consumed in the iniquity of the city.
 {{< /l >}}
 
 
@@ -83,7 +83,7 @@ Enki being merciful unto him: and they brought him forth, and set him without th
 <sup>17</sup> When they had brought them forth abroad, he said:
 
 {{< l a="Enki" >}}
-Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed. 
+Escape for your life; look not behind you, neither stay you in all the plain; escape to the mountain, lest you be consumed. 
 {{< /l >}}
 
 
@@ -98,7 +98,7 @@ Oh, not so, Enki. <sup>19</sup> Your servant had found grace in your eyes. You h
 <sup>21</sup> He said to him:
 
 {{< l a="Enki" >}}
-See, I have accepted you concerning this thing also, that I will not overthrow this city, for the which thou hast spoken. {19:22} Haste thee, escape thither; for I cannot do any thing till thou be come thither. 
+See, I have accepted you concerning this thing also, that I will not overthrow this city, for the which you hast spoken. {19:22} Haste you, escape thither; for I cannot do any thing till you be come thither. 
 {{< /l >}}
 
 
@@ -128,7 +128,7 @@ Therefore the name of the city was called Zoar.
 
 The firstborn went in, and lay with her father; and he perceived not when she lay down, nor when she arose. 
 
-<sup>34</sup> The next day, the firstborn said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go thou in, [and] lie with him, that we may preserve seed of our father.
+<sup>34</sup> The next day, the firstborn said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go you in, [and] lie with him, that we may preserve seed of our father.
 
 <sup>35</sup> They made their father drink wine that night also: and the younger arose, and lay with him; and he perceived not when she lay down, nor when she arose.
 

@@ -6,97 +6,97 @@ weight: 4
 image: "/covers/old.jpg"
 ---
 
+{{< n n="Here, we replace 'God' with 'Anunnaki'" >}}
+
 
 <sup>1</sup> In year 30, month 4, day 5, I was among the captives by the river of Chebar.
 
-The heavens were opened, and I saw visions of God. 
+The heavens were opened, and I saw visions of the Anunnaki. 
 
-<sup>2</sup> In the fifth [day] of the month, which [was] the fifth year of king Jehoiachin’s captivity, 
+<sup>2</sup> In day 5 of the month, which was year 5 of king Jehoiachin’s captivity, 
 
+<sup>3</sup> The word of Enki came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar.
 
-<sup>3</sup> The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him. 
+The hand of Enki was there upon him. 
 
-<sup>4</sup> I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness [was] about it, and out of the midst thereof as the colour of amber, out of the midst of the fire. 
+<sup>4</sup> I looked, and, behold, a whirlwind came out of the north.
 
-<sup>5</sup> Also out of the midst thereof [came] the likeness of four living creatures. And this [was] their appearance; they had the likeness of a man. 
+A great cloud, and a fire infolding itself, and a brightness was around it.
 
-<sup>6</sup> And every one had four faces, and every one had four wings.
+Out of the midst thereof as the colour of amber, out of the midst of the fire. 
 
-<sup>7</sup> And their feet [were] straight feet; and the sole of their feet [was] like the sole of a calf’s foot: and they sparkled like the colour of burnished brass. 
+<sup>5</sup> Out of it came the likeness of 4 living creatures.
+
+They looked like men. 
+
+<sup>6</sup> Each one had 4 faces and 4 wings.
+
+<sup>7</sup> Their feet were straight. The sole of their feet was like the sole of a calf’s foot.
+
+They sparkled like the colour of burnished brass. 
 
 <sup>8</sup> They had the hands of a man under their wings on their four sides; and they four had their faces and their wings. 
 
-<sup>9</sup> Their wings [were] joined one to another; they turned not when they went; they went every one straight forward.
+<sup>9</sup> Their wings were joined one to another. They did not turn towards where they went. Every wing went straight forward.
 
-<sup>10</sup> As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: 
+<sup>10</sup> They had 4 faces. On the right side was the face of a man and a lion
 
-They four had the face of an ox on the left side; they four
-also had the face of an eagle. 
+The left side had that of an ox and an eagle. 
 
-<sup>11</sup> Thus [were] their faces: and their wings [were] stretched upward; two [wings] of every one [were] joined one to another, and two covered their bodies. 
+<!--  on the left side; they four
+also had the face of an eagle.  -->
 
-<sup>12</sup> They went every one straight forward: whither the spirit was to go, they went; [and] they turned not when they went. 
+<sup>11</sup> Their wings were stretched upward. The 2 wings were joined one to another. The other 2 covered their bodies. 
 
-<sup>13</sup> As for the likeness of the living creatures, their appearance [was] like burning coals of fire, [and] like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning. 
+<sup>12</sup> They went every one straight forward. whither the spirit was to go, they went; [and] they turned not when they went. 
 
-<sup>14</sup> The living creatures ran and returned as the appearance of a
-flash of lightning.
+<sup>13</sup> Their appearance was like burning coals of fire and  the appearance of lamps.
+
+It went up and down among the living creatures. The fire was bright, and out of the fire went forth lightning.
+
+<sup>14</sup> The living creatures ran and returned as the appearance of a flash of lightning.
 
 
 ### Their Spacecraft
 
 <sup>15</sup> As I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces. 
 
-<sup>16</sup> The appearance of the wheels and their work [was] like unto the colour of a beryl: and they four had one likeness: 
+<sup>16</sup> The appearance of the wheels and their work [was] like unto the colour of a beryl: and they four had one likeness. 
 
-their appearance and their work was as it were a wheel in the middle of a wheel. 
+Their appearance and their work was as it were a wheel in the middle of a wheel. 
 
-<sup>17</sup> When they went, they went upon their four sides: [and] they turned not when
-they went. 
+<sup>17</sup> When they went, they went on their 4 sides: [and] they turned not when they went. 
 
 <sup>18</sup> As for their rings, they were so high that they were dreadful. Their rings were full of eyes round about them four.
 
 <sup>19</sup> When the living creatures went, the wheels went by them. When they were lifted up from the earth, the wheels were lifted up. 
 
-<sup>20</sup> Whithersoever the spirit was to go, they went, thither [was their] spirit to go; and the wheels were lifted up over against them: for the spirit of the living
-creature [was] in the wheels. 
+<sup>20</sup> Whithersoever the spirit was to go, they went, thither [was their] spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature [was] in the wheels. 
 
-<sup>21</sup> When those went, [these] went; and when those stood, [these] stood; and when
-those were lifted up from the earth, the wheels were lifted
-up over against them: for the spirit of the living creature
-[was] in the wheels. 
+<sup>21</sup> When those went, [these] went; and when those stood, [these] stood.
 
-{1:22} And the likeness of the
-firmament upon the heads of the living creature [was] as the
-colour of the terrible crystal, stretched forth over their heads
-above. 
+When those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature [was] in the wheels. 
 
-{1:23} And under the firmament [were] their wings
-straight, the one toward the other: every one had two, which
-covered on this side, and every one had two, which covered
-on that side, their bodies. {1:24} And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the
-noise of an host: when they stood, they let down their
+<sup>22</sup> The likeness of the firmament upon the heads of the living creature [was] as the
+colour of the terrible crystal, stretched forth over their heads above. 
+
+<sup>23</sup> Under the firmament were their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.
+
+<sup>24</sup> When they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their
 wings. 
 
-{1:25} And there was a voice from the firmament
-that [was] over their heads, when they stood, and had let
-down their wings.
+<sup>25</sup> There was a voice from the firmament that [was] over their heads, when they stood, and had let down their wings.
 
-{1:26} And above the firmament that [was] over their
-heads [was] the likeness of a throne, as the appearance of a
-sapphire stone: and upon the likeness of the throne [was] the
+<sup>26</sup> Above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone. On the likeness of the throne [was] the
 likeness as the appearance of a man above upon it. 
 
-{1:27} And I saw as the colour of amber, as the appearance of fire
-round about within it, from the appearance of his loins even
-upward, and from the appearance of his loins even
-downward, I saw as it were the appearance of fire, and it
-had brightness round about. 
+<sup>27</sup> I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about. 
 
-{1:28} As the appearance of
-the bow that is in the cloud in the day of rain, so [was] the
-appearance of the brightness round about. This [was] the
-appearance of the likeness of the glory of the LORD. And
-when I saw [it,] I fell upon my face, and I heard a voice of
-one that spake.
+<sup>28</sup> As the appearance of the bow that is in the cloud in the day of rain, so [was] the appearance of the brightness round about. 
+
+This was the appearance of the Anunnaki. 
+
+ <!-- likeness of the glory of Enki. And -->
+
+ When I saw them I fell on my face, and I heard a voice of one that spake.
 

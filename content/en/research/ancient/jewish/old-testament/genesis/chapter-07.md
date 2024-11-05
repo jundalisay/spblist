@@ -40,7 +40,7 @@ his kind, and every fowl after his kind, every bird of every
 sort. {7:15} And they went in unto Noah into the ark, two
 and two of all flesh, wherein [is] the breath of life. {7:16}
 And they that went in, went in male and female of all flesh,
-as God had commanded him: and the LORD shut him in. -->
+as God had commanded him: and Enki shut him in. -->
 
 <sup>17</sup> The flood was 40 days on the earth. The waters increased, and bare up the ark, and it was lift up above the earth. 
 
@@ -59,4 +59,3 @@ as God had commanded him: and the LORD shut him in. -->
 <sup>23</sup> Every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained [alive,] and they that [were] with him in the ark.
 
 <sup>24</sup> The waters prevailed on the earth for 150 days.
-

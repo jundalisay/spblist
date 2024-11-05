@@ -1,9 +1,11 @@
 The first step in fixing the theory of Relativity, is to recall that the Standard Model of Physics divides all forces into four categories which we arrange in a hierarchy:   
 
-1. Gravitation
-2. Electromagnetic
-3. Weak
-4. Strong
+
+
+
+
+
+
 
 Material objects are made possible by atoms which are held together by the Strong force. The movement of such objects is governed by the classical mechanics established by Netwon, such as `F = ma` and the law of conservation of mass. This means that you can force-push a ball-mass to move it.
 
@@ -13,46 +15,12 @@ Unlike matter, you cannot force-push electricity to make it travel farther. Inst
 
 The difference between the movements of matter and electromagnetism was then thought to be caused by a mysterious semi-material thing called "aether" which permeated space. This idea came from Huygens who got it from Descartes.
 
-{{< q a="Lorentz">}}
-The state of the aether which is the cause of gravitation is propagated in a similar way as that which exists in the electromagnetic field.
-{{< /q >}}
 
 
-### The Huygens Ether is NOT the Descartes Aether
-
-The whole problem begins with Huygens who mistakenly called Descartes 2nd Element (space-time) as the aether*. 
-
-{{< q a="Huygens" >}}
-The movement of light coming from the luminous body is propagated through what I call “Ethereal matter”. It is not the same that serves for the propagation of sound.
-{{< /q >}}
 
 
-{{< n n="In *The World*, Descartes actually calls all the 3 Elements as aether. The pure aether is called *substance*. This is because all Cartesian particles are virtual. But this is confusing to modern Physics which believes that all particles are real and only some are virtual. So to strike a compromise, we put the virtual aether as the 0th Element or 5th Layer. The 2nd Element or 4th Layer is also virtual but no longer aethereal as we can clearly see the space around us." >}}
 
 
-Another French guy named Fresnel further corrupted the ether (spacetime) by making it variant just because light becomes variant when mixed with matter (such as when light passes through crystals).
-
-
-{{< q a="Fresnel" c="Memoir On The Diffraction Of Light, Section 2" >}}
-The intensity of light is proportional to the square of the speeds of the particles. The intensity of vibration, on the other hand, is the speed of an ether particle during its oscillation.
-{{< /q >}}
-
-
-Here, Fresnel exposes that his mistake that the speed of the spacetime particles somehow speed up of slow down the light waves. He obviously no longer knew the division of the 5 Elements that Descartes had. 
-
-To Descartes:
-- the 2nd Element should be called "space-time" and not the "ether"
-- the medium for sound is then the 3rd Element or matter, such as the physical air. 
-- light is not sped up nor slowed down by space-time
-- light is slowed down by 3rd element or matter and is at maximum speed when free from matter. 
-- light is confined to its top or constant speed by the aetherspace which is a part of the 2nd Element 
-
-The Michelson-Morley experiment then proved that the speed of light is constant within the pure 2nd Element (called vacuum by Physics).
-
-But instead of physicists vindicating Descartes, a German Einstein comes out of nowhere messing up Physics and Nature imposing 2 axioms:
-
-1. The invariance of the speed of light
-2. Equivalence of gravitational and inertial mass
 
 
 
@@ -205,3 +173,51 @@ We have not a direct intuition of simultaneity, nor of the equality of two durat
 {{< /q >}}
 
 Here, we expose Einstein's ego as the cause for the flaws of Relativity. In [this post](/material/fallacies/light-ruler), we will explain the actual implementation of that flaw, as the use of the speed of light to measure spacetime. 
+
+
+
+
+
+## The Luminiferous Aether of Huygens
+
+In the 19th century, nearly all physicists embraced the [luminiferous aether](https://en.wikipedia.org/wiki/Luminiferous_aether) of Huygens as the medium that gave light its wave properties.
+
+The belief that an aether wind was propelling light forward. This meant that perpendicular light beams would have different speeds -- one should be slower than the other. 
+
+
+{{< i s="/graphics/physics/huygenschap1d.png" a="Huygens aether" c="The Huygens aether is actually the 2nd Element of Descartes or spacetime, different from the pure aether (what we call the 0th Element)" >}}
+
+<!-- All that was needed was to get proof of the aether by measuring the changes in the speed of light in different times in a year. Such changes would then be evidence of an 'aether wind' that 'blew' light. 
+
+This was done through an 'interferometer' as the Michelson-Morley experiment.
+
+That experiment showed that the speed of light is the same everywhere, and so there was no aether wind.
+ -->
+
+
+And so in 1887, an [experiment was done by Albert Michelson and Edward Morley](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment) using an interferometer to test exactly this. 
+
+Two light beams were arranged perpendicularly, with one going along the Earth's motion. This made it go with the aether.
+
+<!-- , making its speed different from the other. But  -->
+
+However, the result showed that the speed of both light beams were the same. Therefore, the aether did not exist. 
+
+More importantly, it showed that the speed of light was constant everywhere and in all directions. 
+- Before this, it was thought that space was constant and light was changing. 
+- After this, physicists realized that space was changing and light was constant.
+
+This led to the idea of space-contraction and space-relativity. 
+
+
+### The Cartesian Aether is not the Huygens Aether
+
+Because of the negative result, the aether was discarded and has since been frowned upon. It was replaced by Einstein with a spacetime fabric that could bend the path of light as gravity-warp instead of a gravity-force.  
+
+Unknown to physicists, **the Cartesian Aether is not the Huygens Aether**. The former is behind spacetime, while the latter is spacetime itself, as the Descartes' 2nd Element. 
+
+The experiment by Michelson and Morley proved 2 things:
+
+1. The 2nd ELement exists as spacetime
+2. The pure aether exists as the discrepancy between Fizeau's light speed and that of Michelson-Morley 
+

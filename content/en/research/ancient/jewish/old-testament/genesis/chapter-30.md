@@ -14,7 +14,7 @@ Give me children, or else I die.
 
 <sup>2</sup> Jacob’s anger was kindled against Rachel: and he said, 
 
-[Am] I in Enki’s stead, who hath withheld from thee the fruit of the womb? 
+[Am] I in Enki’s stead, who hath withheld from you the fruit of the womb? 
 
 <sup>3</sup> She said:
 
@@ -35,14 +35,14 @@ Zilpah Leah’s maid bare Jacob a second son.
 {30:13} And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher.
 
 {30:14} And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray
-thee, of thy son’s mandrakes. {30:15} And she said unto
-her, [Is it] a small matter that thou hast taken my husband?
-and wouldest thou take away my son’s mandrakes also?
+you, of your son’s mandrakes. {30:15} And she said unto
+her, [Is it] a small matter that you hast taken my husband?
+and wouldest you take away my son’s mandrakes also?
 
 
-Rachel said, Therefore he shall lie with thee to night for thy son’s mandrakes. {30:16} And Jacob came out of the field in the evening, and Leah went out to meet him, and
+Rachel said, Therefore he shall lie with you to night for your son’s mandrakes. {30:16} And Jacob came out of the field in the evening, and Leah went out to meet him, and
 said, Thou must come in unto me; for surely I have hired
-thee with my son’s mandrakes. And he lay with her that
+you with my son’s mandrakes. And he lay with her that
 night. 
 
 {30:17} Enki hearkened unto Leah, and she conceived, and bare Jacob the fifth son.
@@ -65,35 +65,35 @@ my reproach:
 
 {30:25} And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country. {30:26}
 
-Give [me] my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee. 
+Give [me] my wives and my children, for whom I have served you, and let me go: for you knowest my service which I have done you. 
 
-{30:27} And Laban said unto him, I pray thee, if I have found favour in thine eyes, [tarry: for] I
-have learned by experience that the LORD hath blessed me
-for thy sake. 
+{30:27} And Laban said unto him, I pray you, if I have found favour in thine eyes, [tarry: for] I
+have learned by experience that Enki hath blessed me
+for your sake. 
 
-{30:28} And he said, Appoint me thy wages, and I will give [it. ]{30:29} And he said unto him, Thou
-knowest how I have served thee, and how thy cattle was
-with me. {30:30} For [it was] little which thou hadst before
+{30:28} And he said, Appoint me your wages, and I will give [it. ]{30:29} And he said unto him, Thou
+knowest how I have served you, and how your cattle was
+with me. {30:30} For [it was] little which you hadst before
 I [came,] and it is [now] increased unto a multitude; and the
-LORD hath blessed thee since my coming: and now when
+LORD hath blessed you since my coming: and now when
 shall I provide for mine own house also? 
 
-{30:31} And he said, What shall I give thee? And Jacob said, Thou shalt not
-give me any thing: if thou wilt do this thing for me, I will
-again feed [and] keep thy flock: {30:32} I will pass through
+{30:31} And he said, What shall I give you? And Jacob said, Thou shalt not
+give me any thing: if you wilt do this thing for me, I will
+again feed [and] keep your flock: {30:32} I will pass through
 
-all thy flock to day, removing from thence all the speckled
+all your flock to day, removing from thence all the speckled
 and spotted cattle, and all the brown cattle among the sheep,
 and the spotted and speckled among the goats: and [of such]
 shall be my hire. 
 
 {30:33} So shall my righteousness answer
 for me in time to come, when it shall come for my hire
-before thy face: every one that [is] not speckled and spotted
+before your face: every one that [is] not speckled and spotted
 among the goats, and brown among the sheep, that shall be
 counted stolen with me.
 
-{30:34} And Laban said, Behold, I would it might be according to thy word. 
+{30:34} And Laban said, Behold, I would it might be according to your word. 
 
 {30:35} And he
 removed that day the he goats that were ringstraked and

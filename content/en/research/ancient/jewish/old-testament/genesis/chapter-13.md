@@ -13,7 +13,7 @@ image: "/covers/old.jpg"
 <sup>3</sup> And he went on his journeys from the south even to Bethel, unto the place where his tent had been at the beginning, between Bethel and Hai; 
 
 <sup>4</sup> Unto the place of the altar, which he had made there at the first: and there
-Abram called on the name of the LORD.
+Abram called on the name of Enki.
 
 <sup>5</sup> Lot also, which went with Abram, had flocks, and herds, and tents. 
 
@@ -21,13 +21,13 @@ Abram called on the name of the LORD.
 
 <sup>7</sup> There was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land. 
 
-<sup>8</sup> Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we [be] brethren. 
+<sup>8</sup> Abram said unto Lot, Let there be no strife, I pray you, between me and you, and between my herdmen and your herdmen; for we [be] brethren. 
 
 <sup>9</sup> Is not the whole land before you? 
 
-Separate thyself, I pray thee, from me: if you will take the left hand, then I will go to the right; or if you depart to the right hand, then I will go to the left.
+Separate yourself, I pray you, from me: if you will take the left hand, then I will go to the right; or if you depart to the right hand, then I will go to the left.
 
-<sup>10</sup> Lot lifted up his eyes, and beheld all the plain of Jordan, that it [was] well watered every where, before the LORD destroyed Sodom and Gomorrah, [even] as the garden of Enki, like the land of Egypt, as thou comest unto Zoar. 
+<sup>10</sup> Lot lifted up his eyes, and beheld all the plain of Jordan, that it [was] well watered every where, before Enki destroyed Sodom and Gomorrah, [even] as the garden of Enki, like the land of Egypt, as you comest unto Zoar. 
 
 <sup>11</sup> Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated
 themselves the one from the other. 

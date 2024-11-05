@@ -86,7 +86,7 @@ I will greatly multiply your sorrow and your conception*. In sorrow you shalt br
 <sup>17</sup> To Adam he said:
 
 {{< l a="Enlil" >}}
-You have hearkened unto the voice of thy wife, and have eaten of the tree that I commanded you not to eat. And so cursed is the ground for your sake. In sorrow, you shall eat of it all the days of your life. <sup>18</sup> The ground shall bring you thorns and thistles. You shall eat the herb* of the field. <sup>19</sup> In the sweat of your face you shall eat bread until you return to the ground from where you were taken. You are dust and unto dust you shall return.
+You have hearkened unto the voice of your wife, and have eaten of the tree that I commanded you not to eat. And so cursed is the ground for your sake. In sorrow, you shall eat of it all the days of your life. <sup>18</sup> The ground shall bring you thorns and thistles. You shall eat the herb* of the field. <sup>19</sup> In the sweat of your face you shall eat bread until you return to the ground from where you were taken. You are dust and unto dust you shall return.
 {{< /l >}}
 
 

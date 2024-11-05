@@ -7,7 +7,6 @@ image: "/covers/old.jpg"
 ---
 
 
-
 <sup>1</sup> Again Abraham took a wife named Keturah. {25:2} She bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.
 
 <sup>3</sup> Jokshan begat Sheba, and Dedan. The sons of Dedan were Asshurim, and Letushim, and Leummim.
@@ -48,7 +47,7 @@ If [it be] so, why [am] I thus? And she went to enquire of Enki.
 
 <sup>23</sup> Enki said to her:
 
-Two nations [are] in thy womb, and two manner of people shall be separated from thy bowels; and [the one] people shall be stronger than [the other] people; and the elder shall serve the younger.
+Two nations [are] in your womb, and two manner of people shall be separated from your bowels; and [the one] people shall be stronger than [the other] people; and the elder shall serve the younger.
 
 <sup>24</sup> When her days to be delivered were fulfilled, behold, [there were] twins in her womb. 
 

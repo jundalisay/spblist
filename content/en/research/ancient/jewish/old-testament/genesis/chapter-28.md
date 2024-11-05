@@ -12,12 +12,12 @@ image: "/covers/old.jpg"
 You shall not take marry any of the daughters of Canaan. 
 
 
-<sup>2</sup> Arise, go to Padan-aram, to the house of Bethuel thy mother’s father; and take thee a wife from thence of the daughters of Laban thy mother’s brother. 
+<sup>2</sup> Arise, go to Padan-aram, to the house of Bethuel your mother’s father; and take you a wife from thence of the daughters of Laban your mother’s brother. 
 
-<sup>3</sup> Enki bless thee, and make thee fruitful, and multiply thee, that thou mayest be a
+<sup>3</sup> Enki bless you, and make you fruitful, and multiply you, that you mayest be a
 multitude of people.
 
-<sup>4</sup> Give you the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham. {28:5} And Isaac sent away Jacob: and he went to Padan-aram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob’s and Esau’s mother.
+<sup>4</sup> Give you the blessing of Abraham, to you, and to your seed with you; that you mayest inherit the land wherein you art a stranger, which God gave unto Abraham. {28:5} And Isaac sent away Jacob: and he went to Padan-aram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob’s and Esau’s mother.
 
 <sup>6</sup> When Esau saw that Isaac had blessed Jacob, and sent him away to Padan-aram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan.
 
@@ -34,9 +34,9 @@ seeing that the daughters of Canaan pleased not Isaac his father; {28:9} Then we
 <sup>13</sup> Enki stood above it and said:
 
 {{< l a="Enki" >}}
-I am Enki of Abraham your father and the Enki of Isaac: I will give to you and your seed the land where you are now on. {28:14} Your seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed. 
+I am Enki of Abraham your father and the Enki of Isaac: I will give to you and your seed the land where you are now on. {28:14} Your seed shall be as the dust of the earth, and you shalt spread abroad to the west, and to the east, and to the north, and to the south: and in you and in your seed shall all the families of the earth be blessed. 
 
-{28:15} I am with you and will keep thee in all [places] whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done [that] which I have spoken to thee of.
+{28:15} I am with you and will keep you in all [places] whither you goest, and will bring you again into this land; for I will not leave you, until I have done [that] which I have spoken to you of.
 {{< /l >}}
 
 

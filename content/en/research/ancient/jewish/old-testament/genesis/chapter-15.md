@@ -39,12 +39,12 @@ Look now towards the stars. Your seed will be as numerous as them.
 
 
 {{< r a="Abram" >}}
-{8} Lord Enki, whereby shall I know that I shall inherit it? 
+<sup>8</sup> Lord Enki, whereby shall I know that I shall inherit it? 
 {{< /r >}}
 
 
 {{< l a="Enki" >}}
-{9} Give me a 3 year old calf, and a 3 year old she goat and a ram of 3 years old, and a turtledove, and a young pigeon.
+<sup>9</sup> Give me a 3 year old calf, and a 3 year old she goat and a ram of 3 years old, and a turtledove, and a young pigeon.
 {{< /l >}}
 
 
@@ -57,7 +57,7 @@ Look now towards the stars. Your seed will be as numerous as them.
 <sup>13</sup> Enki said to Abram:
 
 {{< l a="Enki" >}}
-Your seed shall be a foreigner in a land that is not theirs, and shall serve them. They shall afflict them 400 years. <sup>14</sup> Also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance. {15:15} You shalt go to thy fathers in peace; thou shalt be buried in a good old age.
+Your seed shall be a foreigner in a land that is not theirs, and shall serve them. They shall afflict them 400 years. <sup>14</sup> Also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance. {15:15} You shalt go to your fathers in peace; you shalt be buried in a good old age.
 
 <sup>16</sup> But in the fourth generation they shall come hither again: for the iniquity of
 the Amorites [is] not yet full. 
@@ -69,5 +69,5 @@ the Amorites [is] not yet full.
 <sup>28</sup>  In the same day, Enki made a covenant with Abram:
 
 {{< l a="Enki" >}}
-Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates: <sup>19</sup> The Kenites, and the Kenizzites, and the Kadmonites, {15:20} And the Hittites, and the Perizzites, and the Rephaims, {15:21} And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites. 
+Unto your seed have I given this land, from the river of Egypt unto the great river, the river Euphrates: <sup>19</sup> The Kenites, and the Kenizzites, and the Kadmonites, {15:20} And the Hittites, and the Perizzites, and the Rephaims, {15:21} And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites. 
 {{< /l >}}

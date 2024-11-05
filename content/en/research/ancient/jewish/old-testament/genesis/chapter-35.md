@@ -11,7 +11,7 @@ image: "/covers/old.jpg"
 
 Go to Bethel. Live there and make there an altar for Enki. 
 
-I appeared to you when thou fled from the face of Esau your brother. 
+I appeared to you when you fled from the face of Esau your brother. 
 
 {35:2} Then Jacob said unto his household, and to all that [were] with him:
 
@@ -44,14 +44,14 @@ Bethel under an oak: and the name of it was called Allon-
 bachuth.
 {35:9} And God appeared unto Jacob again, when he
 came out of Padan-aram, and blessed him. {35:10} And
-God said unto him, Thy name [is] Jacob: thy name shall not
-be called any more Jacob, but Israel shall be thy name: and
+God said unto him, your name [is] Jacob: your name shall not
+be called any more Jacob, but Israel shall be your name: and
 he called his name Israel. {35:11} And God said unto him, I
 [am] God Almighty: be fruitful and multiply; a nation and a
-company of nations shall be of thee, and kings shall come
-out of thy loins; {35:12} And the land which I gave
-Abraham and Isaac, to thee I will give it, and to thy seed
-after thee will I give the land. {35:13} And God went up
+company of nations shall be of you, and kings shall come
+out of your loins; {35:12} And the land which I gave
+Abraham and Isaac, to you I will give it, and to your seed
+after you will I give the land. {35:13} And God went up
 from him in the place where he talked with him. {35:14}
 And Jacob set up a pillar in the place where he talked with
 him, [even] a pillar of stone: and he poured a drink offering
@@ -62,7 +62,7 @@ Bethel.
 but a little way to come to Ephrath: and Rachel travailed,
 and she had hard labour. {35:17} And it came to pass, when
 she was in hard labour, that the midwife said unto her, Fear
-not; thou shalt have this son also. {35:18} And it came to
+not; you shalt have this son also. {35:18} And it came to
 pass, as her soul was in departing, (for she died) that she
 called his name Ben-oni: but his father called him
 Benjamin. {35:19} And Rachel died, and was buried in the

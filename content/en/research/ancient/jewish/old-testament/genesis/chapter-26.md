@@ -13,9 +13,9 @@ Isaac went unto Abimelech king of the Philistines unto Gerar.
 
 <sup>2</sup> Enki appeared unto him:
 
-Do not go into Egypt. Live in the land that I tell you. {26:3} Sojourn in this land, and I will be with thee, and will bless you. For unto you and your seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father.
+Do not go into Egypt. Live in the land that I tell you. {26:3} Sojourn in this land, and I will be with you, and will bless you. For unto you and your seed, I will give all these countries, and I will perform the oath which I sware unto Abraham your father.
 
-<sup>4</sup> I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed; 
+<sup>4</sup> I will make your seed to multiply as the stars of heaven, and will give unto your seed all these countries; and in your seed shall all the nations of the earth be blessed; 
 
 <sup>5</sup> Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.
 
@@ -38,7 +38,7 @@ She is your wife. Why did you say she is your sister?
 I said it lest I die for her.
 
 
-<sup>10</sup> What have you done to us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.
+<sup>10</sup> What have you done to us? one of the people might lightly have lien with your wife, and you shouldest have brought guiltiness upon us.
 
 <sup>11</sup> Abimelech charged all [his] people, saying, He that toucheth this man or his wife shall surely be put to death. 
 
@@ -49,7 +49,7 @@ I said it lest I die for her.
 <sup>14</sup> For he had possession of flocks, and possession of herds, and great store of servants: and the Philistines envied him. 
 
 <sup>15</sup> For all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth. {26:16} And Abimelech
-said unto Isaac, Go from us; for thou art much mightier than we.
+said unto Isaac, Go from us; for you art much mightier than we.
 
 <sup>17</sup> Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there. 
 
@@ -61,12 +61,12 @@ said unto Isaac, Go from us; for thou art much mightier than we.
 
 <sup>21</sup> They dug another well, and strove for that also: and he called the name of it Sitnah. 
 
-<sup>22</sup> He removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the LORD hath made room for us, and we shall be
+<sup>22</sup> He removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now Enki hath made room for us, and we shall be
 fruitful in the land.  
 
 <sup>23</sup> He went up from thence to Beer-sheba. <sup>24</sup> Enki appeared to him the same night, and said:
 
-I [am] the God of Abraham thy father: fear not, for I [am] with thee, and will bless thee, and multiply thy seed for my servant Abraham’s sake. 
+I [am] the God of Abraham your father: fear not, for I [am] with you, and will bless you, and multiply your seed for my servant Abraham’s sake. 
 
 <sup>25</sup> He built an altar there, and called on Enki and pitched his tent there: and there Isaac’s servants digged a well.
 
@@ -74,11 +74,11 @@ I [am] the God of Abraham thy father: fear not, for I [am] with thee, and will b
 
 <sup>27</sup> Isaac said to them:
 
-Wherefore come ye to me, seeing ye hate me, and have sent me away from you? {26:28} And they said, We saw certainly that the LORD was with thee: and we said, Let there be now an oath
-betwixt us, [even] betwixt us and thee, and let us make a
-covenant with thee
+Wherefore come you to me, seeing you hate me, and have sent me away from you? {26:28} And they said, We saw certainly that Enki was with you: and we said, Let there be now an oath
+betwixt us, [even] betwixt us and you, and let us make a
+covenant with you
 
-<sup>29</sup> You wilt do us no hurt, as we have not touched thee, and as we have done unto you nothing but good, and have sent thee away in peace: thou [art] now the blessed of the LORD. 
+<sup>29</sup> You wilt do us no hurt, as we have not touched you, and as we have done unto you nothing but good, and have sent you away in peace: you [art] now the blessed of Enki. 
 
 <sup>30</sup> He made them a feast, and they did eat and drink. {26:31} And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace.
 

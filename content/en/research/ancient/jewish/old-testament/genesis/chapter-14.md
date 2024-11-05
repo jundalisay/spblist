@@ -58,11 +58,10 @@ He gave him tithes of all.
 
 <sup>21</sup> The king of Sodom said to Abram:
 
-Give me the persons, and take the goods to thyself. 
+Give me the persons, and take the goods to yourself. 
 
 <sup>22</sup> Abram replied:
 
 I have lifted up my hand to Enki, the possessor of heaven and earth <sup>23</sup> so that I will not take from a thread even to a shoelatchet, and that I will not take any thing that is yours, lest you shoulde say, I have made Abram rich: 
 
 <sup>24</sup> Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
-
