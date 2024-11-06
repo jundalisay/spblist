@@ -1,5 +1,5 @@
 ---
-title: "Proposed Technologies from Superphysics"
+title: "Proposed Technologies and Techniques from Superphysics"
 date: 2023-12-10
 image: /photos/physics/phoenix.jpg
 description: "Material Superphysics leads to new technologies by using all of the 5 Layers"
@@ -13,7 +13,7 @@ toc: false
 
 
 
-Superphysics aims to unlock so many technologies by uncovering the 5 Layers or 5 Elements that have been impossible with the current 3-Element science.
+Superphysics aims to unlock so many technologies (and techniques) by uncovering the 5 Layers or 5 Elements that have been impossible with the current 3-Element science.
 
 
 ## Material Superphysics Technologies
@@ -58,3 +58,17 @@ Spatial | Binary Election Process
 Radiant | Points-based Transaction system
 Convertible | 
 Material | Resource Branch of Government
+
+
+## Spiritual Superphysics Techniques
+
+Chakra | Technique
+--- | ---
+Top | coming soon!
+Forehead | coming soon!
+Throat | coming soon!
+Heart | coming soon!
+Navel |coming soon!
+Sex | coming soon!
+Base | vortex visualization?
+

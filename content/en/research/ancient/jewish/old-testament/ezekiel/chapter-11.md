@@ -2,7 +2,7 @@
 heading: Ezekiel 11
 title: "The Anunnaki Speak"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
-weight: 40
+weight: 24
 image: "/covers/old.jpg"
 ---
 
@@ -19,7 +19,7 @@ of man.
 
 <sup>5</sup> The Spirit of Enki fell upon me saying:
 
-Thus saith Enki; Thus have you said, O house of Israel: for I know the things that come
+Thus saith Enki; Thus have you said, O Israelites: for I know the things that come
 into your mind, [every one of] them. {11:6} Ye have
 multiplied your slain in this city, and you have filled the
 streets thereof with the slain. {11:7} Therefore thus saith
@@ -46,7 +46,7 @@ Then fell I down upon my face, and cried with a loud voice, and said, Ah Lord GO
 wilt you make a full end of the remnant of Israel? {11:14}
 Again the word of Enki came unto me, saying,
 {11:15} Son of man, your brethren, [even] your brethren, the
-men of your kindred, and all the house of Israel wholly, [are]
+men of your kindred, and all the Israelites wholly, [are]
 they unto whom the inhabitants of Jerusalem have said, Get
 you far from Enki: unto us is this land given in
 possession. {11:16} Therefore say, Thus saith the Lord

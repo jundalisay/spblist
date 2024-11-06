@@ -21,7 +21,7 @@ man said unto me, Son of man, behold with thine eyes, and
 hear with thine ears, and set thine heart upon all that I shall
 shew you; for to the intent that I might shew [them] unto
 you [art] you brought hither: declare all that you seest to
-the house of Israel. {40:5} And behold a wall on the outside
+the Israelites. {40:5} And behold a wall on the outside
 of the house round about, and in the man’s hand a
 measuring reed of six cubits [long] by the cubit and an hand
 breadth: so he measured the breadth of the building, one

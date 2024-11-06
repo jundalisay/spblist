@@ -1,6 +1,6 @@
 ---
 heading: Ezekiel 18
-title: "The Anunnaki Speak"
+title: "The Pharaoh king of Egypt"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 4
 image: "/covers/old.jpg"
@@ -25,7 +25,7 @@ you shalt not be brought together, nor gathered: I have
 given you for meat to the beasts of the field and to the
 fowls of the heaven. 6} And all the inhabitants of Egypt
 shall know that I [am] Enki, because they have been a
-staff of reed to the house of Israel. 7} When they took
+staff of reed to the Israelites. 7} When they took
 hold of you by your hand, you didst break, and rend all their
 shoulder: and when they leaned upon you, you brakest, and
 madest all their loins to be at a stand.
@@ -58,7 +58,7 @@ shall be there a base kingdom. 15} It shall be the basest
 of the kingdoms; neither shall it exalt itself any more above
 the nations: for I will diminish them, that they shall no more
 rule over the nations. 16} And it shall be no more the
-confidence of the house of Israel, which bringeth [their]
+confidence of the Israelites, which bringeth [their]
 iniquity to remembrance, when they shall look after them:
 but they shall know that I [am] Enki.
 

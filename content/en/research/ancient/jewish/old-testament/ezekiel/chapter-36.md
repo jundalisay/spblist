@@ -36,7 +36,7 @@ bear their shame.
 8} But ye, O mountains of Israel, you shall shoot forth your branches, and yield your fruit to my people of Israel; for they are at hand to come. 9} For, behold, I [am] for
 you, and I will turn unto you, and you shall be tilled and
 sown: 10} And I will multiply men upon you, all the
-house of Israel, [even] all of it: and the cities shall be
+Israelites, [even] all of it: and the cities shall be
 inhabited, and the wastes shall be builded: 11} And I
 will multiply upon you man and beast; and they shall
 increase and bring fruit: and I will settle you after your old
@@ -56,7 +56,7 @@ Enki.
 you bear the reproach of the people any more, neither shalt
 you cause your nations to fall any more, saith Enki.
 16} Moreover the word of Enki came unto me,
-saying, 17} Son of man, when the house of Israel dwelt
+saying, 17} Son of man, when the Israelites dwelt
 in their own land, they defiled it by their own way and by
 their doings: their way was before me as the uncleanness of
 a removed woman. 18} Wherefore I poured my fury
@@ -69,11 +69,11 @@ they entered unto the heathen, whither they went, they
 profaned my holy name, when they said to them, These
 [are] the people of Enki, and are gone forth out of his land.
 21} But I had pity for mine holy name, which the
-house of Israel had profaned among the heathen, whither
+Israelites had profaned among the heathen, whither
 they went. 
 
 22 Therefore say to Israelites, Thus saith Enki; I do not [this] for your sakes, O
-house of Israel, but for mine holy name’s sake, which ye
+Israelites, but for mine holy name’s sake, which ye
 have profaned among the heathen, whither you went. 23}
 And I will sanctify my great name, which was profaned
 among the heathen, which you have profaned in the midst of
@@ -104,7 +104,7 @@ you remember your own evil ways, and your doings that
 sight for your iniquities and for your abominations. 32}
 Not for your sakes do I [this,] saith Enki, be it
 known unto you: be ashamed and confounded for your own
-ways, O house of Israel. 
+ways, O Israelites. 
 
 33} Thus saith Enki; In the day that I shall have cleansed you from all your
 iniquities I will also cause [you] to dwell in the cities, and

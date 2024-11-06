@@ -2,7 +2,7 @@
 heading: Ezekiel 8
 title: "The Anunnaki Speak"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
-weight: 4
+weight: 18
 image: "/covers/old.jpg"
 ---
 
@@ -31,7 +31,7 @@ So I lifted up mine eyes the way toward the north, and behold northward at the g
 the altar this image of jealousy in the entry. 
 
 {{< l a="Enki" >}}
-6 [To Ezekiel] Son of man, seest you what they do? [even] the great abominations that the house of Israel committeth here, that I should go far off from my
+6 [To Ezekiel] Son of man, seest you what they do? [even] the great abominations that the Israelites committeth here, that I should go far off from my
 sanctuary? but turn you yet again, [and] you shalt see
 greater abominations.
 {{< /l >}}
@@ -42,13 +42,13 @@ digged in the wall, behold a door. 8:9} And he said unto
 me, Go in, and behold the wicked abominations that they do
 here. 
 
-10 So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round
+10 So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the Israelites, pourtrayed upon the wall round
 about. 
 
-11 There stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his
+11 There stood before them seventy men of the ancients of the Israelites, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his
 censer in his hand; and a thick cloud of incense went up.
 
-12 Then said he unto me, Son of man, hast you seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, The
+12 Then said he unto me, Son of man, hast you seen what the ancients of the Israelites do in the dark, every man in the chambers of his imagery? for they say, The
 LORD seeth us not; Enki hath forsaken the earth.
 
 

@@ -220,3 +220,5 @@ Economic Superphysics | The correct prediction of the crisis years starting in 2
 Social Superphysics | The low cases of mass shootings, conflict, and revolutions in Asia, relative to the Americas and Africa
 Material Superphysics | The prediction that fusion will not work because artificial gravity has not been discovered yet
 {{< /dc >}}
+
+

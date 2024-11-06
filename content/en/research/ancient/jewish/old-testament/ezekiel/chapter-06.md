@@ -2,7 +2,7 @@
 heading: Ezekiel 6
 title: "The Anunnaki Speak"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
-weight: 4
+weight: 14
 image: "/covers/old.jpg"
 ---
 
@@ -38,7 +38,7 @@ vain that I would do this evil unto them.
 
 6:11} Thus saith Enki; Smite with thine hand,
 and stamp with your foot, and say, Alas for all the evil
-abominations of the house of Israel! for they shall fall by
+abominations of the Israelites! for they shall fall by
 the sword, by the famine, and by the pestilence. 6:12} He
 that is far off shall die of the pestilence; and he that is near
 shall fall by the sword; and he that remaineth and is

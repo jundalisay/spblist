@@ -9,29 +9,26 @@ image: "/covers/old.jpg"
 
 
 {{< l a="Enki" >}}
-<sup>1-2</sup> [To Ezekiel] Son of man, cause Jerusalem to know her abominations, 3} And say, Thus saith Enki unto Jerusalem; your birth and your nativity [is] of the land of Canaan; your father [was] an Amorite, and your mother an Hittite. 
+<sup>1-2</sup> [To Ezekiel] Son of man, cause Jerusalem to know her abominations, 
 
-4} And [as for] your nativity, in the day you wast born your navel was not cut, neither wast you washed in water to supple [you;] you wast not salted at all, nor
-swaddled at all. 
+<sup>3</sup> Tell them that I say to Jerusalem that:
+- their birth and nativity is of the land of Canaan
+- their father was an Amorite
+- their mother an Hittite. 
 
-5} None eyou pitied you, to do any of these unto you, to have compassion upon you; but thou
-wast cast out in the open field, to the lothing of your person,
-in the day that you wast born.
+<sup>4</sup> As for their nativity, in the day they were born their navel was not cut, neither were they washed in water to supple them. They were not salted at all, nor swaddled at all. <sup>5</sup> No one cared about them. They were cast out in the open field, to the lothing of their person when they were born.
 {{< /l >}}
 
-6} And when I passed by you, and saw you polluted
-in thine own blood, I said unto you [when you wast] in your
-blood, Live; yea, I said unto you [when you wast] in your
-blood, Live. 7} I have caused you to multiply as the
-bud of the field, and you hast increased and waxen great,
-and you art come to excellent ornaments: [your] breasts are
-fashioned, and thine hair is grown, whereas you [wast]
-naked and bare. 8} Now when I passed by you, and 
 
-16:1} Again the word of Enki came unto me,
-saying, 2} Son of man, cause Jerusalem to know her
-abominations, 3} And say, Thus saith Enki
-unto Jerusalem; your birth and your nativity [is] of the land of
+6} And when I passed by you, and saw you polluted in thine own blood, I said unto you [when you wast] in your
+blood, Live; yea, I said unto you [when you wast] in your blood, Live. 
+
+7} I have caused you to multiply as the bud of the field, and you hast increased and waxen great,
+and you art come to excellent ornaments: [your] breasts are fashioned, and thine hair is grown, whereas you [wast]
+naked and bare. 8} Now when I passed by you, and  
+
+
+16:1} Again the word of Enki came unto me, saying, 2} Son of man, cause Jerusalem to know her abominations, 3} And say, Thus saith Enki unto Jerusalem; your birth and your nativity [is] of the land of
 Canaan; your father [was] an Amorite, and your mother an
 Hittite. 4} And [as for] your nativity, in the day thou
 wast born your navel was not cut, neither wast you washed

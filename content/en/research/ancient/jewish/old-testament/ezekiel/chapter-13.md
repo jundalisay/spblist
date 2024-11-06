@@ -13,29 +13,27 @@ image: "/covers/old.jpg"
 
 <sup>3</sup> Woe unto the foolish prophets, that follow their own spirit, and have seen nothing!
 
-4 O Israel, your prophets are like the foxes in the deserts.
+<sup>4</sup> O Israel, your prophets are like the foxes in the deserts.
 
-5 Ye have not gone up into the gaps, neither made up the hedge for the house of Israel to stand in the battle in the day of Enki.
+<sup>5</sup> Ye have not gone up into the gaps, neither made up the hedge for the Israelites to stand in the battle in the day of Enki.
 
-6 They have seen vanity and lying divination, saying, The LORD saith: and Enki hath
-not sent them: and they have made [others] to hope that they
-would confirm the word. 
+<sup>6</sup> They have seen vanity and lying divination, saying, The LORD saith: and Enki hath not sent them: and they have made [others] to hope that they would confirm the word. 
 
-7 Have you not seen a vain
-vision, and have you not spoken a lying divination, whereas
-you say, 
+<sup>7</sup> Have you not seen a vain vision, and have you not spoken a lying divination, whereas
+you say, that I have not spoken.
 {{< /l >}}
 
 
-The LORD saith [it;] albeit I have not spoken?
-{13:8} Therefore thus saith Enki; Because ye
-have spoken vanity, and seen lies, therefore, behold, I [am]
+{{< l a="Enki" >}}
+<sup>8</sup> Because ye have spoken vanity, and seen lies, therefore, behold, I [am]
 against you, saith Enki. {13:9} And mine hand
 shall be upon the prophets that see vanity, and that divine
 lies: they shall not be in the assembly of my people, neither
-shall they be written in the writing of the house of Israel,
+shall they be written in the writing of the Israelites,
 neither shall they enter into the land of Israel; and you shall
-know that I [am] Enki.
+know that I [am] Lord.
+{{< /l >}}
+
 {13:10} Because, even because they have seduced my
 people, saying, Peace; and [there was] no peace; and one
 built up a wall, and, lo, others daubed it with untempered

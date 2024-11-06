@@ -1,8 +1,8 @@
 ---
 heading: Ezekiel 5
-title: "The Anunnaki Speak"
+title: "The Death of People"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
-weight: 4
+weight: 12
 image: "/covers/old.jpg"
 ---
 
@@ -14,19 +14,20 @@ image: "/covers/old.jpg"
 
 3 Take thereof a few in number, and bind them in your skirts. 
 
-4 Then take of them again, and cast them into the midst of the fire, and burn them in the fire; [for] thereof shall a fire come forth into all the house of Israel.
+4 Then take of them again, and cast them into the midst of the fire, and burn them in the fire; [for] thereof shall a fire come forth into all the Israelites.
 {{< /l >}}
 
 
-5 Thus saith Enki; This [is] Jerusalem: I have set it in the midst of the nations and countries [that are] round about her. 
+{{< l a="Enki" >}}
+5 This is Jerusalem: I have set it in the midst of the nations and countries [that are] round about her. 
 
 6 She hath changed my judgments into wickedness more than the nations, and my statutes more than the countries that [are] round about her: for they have refused my judgments and my statutes, they have not walked in them. 
 
-7 Therefore thus saith Enki;
+7 Because you multiplied more than the nations that [are] round about you, [and] have not walked in my statutes, neither have kept my judgments, neither have done according to the judgments of the nations that [are] round about you
+{{< /l >}}
 
-Because you multiplied more than the nations that [are] round about you, [and] have not walked in my statutes, neither have kept my judgments, neither have done according to the judgments of the nations that [are] round about you; 5:8} Therefore thus saith Enki;
 
-Behold, I, even I, [am] against you, and will execute judgments in the midst of you in the sight of the nations. 
+8 Behold, I, even I, [am] against you, and will execute judgments in the midst of you in the sight of the nations. 
 
 9 I will do in you that which I have not done, and whereunto I will not do any more the like, because of all thine abominations. 
 

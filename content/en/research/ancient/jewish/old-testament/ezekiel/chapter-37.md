@@ -35,7 +35,7 @@ word of Enki.
 {37:10} So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
 {{< l a="Enki" >}}
-11 [To Ezekiel]  Son of man, these bones are the whole house of Israel: behold, they say, Our bones
+11 [To Ezekiel]  Son of man, these bones are the whole Israelites: behold, they say, Our bones
 are dried, and our hope is lost: we are cut off for our parts. 12} Therefore prophesy and say unto them: Behold, O my people, I will open your graves, and cause you to come up out of your graves, and
 bring you into the land of Israel. {37:13} And you shall know
 that I [am] Enki, when I have opened your graves, O
@@ -49,7 +49,7 @@ LORD have spoken [it,] and performed [it,]
 15-16 Son of man, take you one stick, and write upon it, For Judah, and for the children of
 Israel his companions: then take another stick, and write
 upon it, For Joseph, the stick of Ephraim, and [for] all the
-house of Israel his companions: {37:17} And join them one
+Israelites his companions: {37:17} And join them one
 to another into one stick; and they shall become one in thine
 hand. {37:18} And when the children of your people shall speak unto you, saying, Wilt you not shew us what you [meanest] by these? {37:19} Say unto them, Thus saith the
 Lord GOD; Behold, I will take the stick of Joseph, which

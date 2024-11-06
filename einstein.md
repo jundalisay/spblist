@@ -1,10 +1,7 @@
+THERE IS ALWAYS RELATIONALITY FROM THE 2 FORCES. EVEN THOUGHT EXPERIEMTNS HAVE THE 2 FORCES. HAVING NO 2 FORCES, ONLY 5 ELEMENTS WOULD LEAD TO BLANK
+
+
 The first step in fixing the theory of Relativity, is to recall that the Standard Model of Physics divides all forces into four categories which we arrange in a hierarchy:   
-
-
-
-
-
-
 
 
 Material objects are made possible by atoms which are held together by the Strong force. The movement of such objects is governed by the classical mechanics established by Netwon, such as `F = ma` and the law of conservation of mass. This means that you can force-push a ball-mass to move it.
@@ -14,10 +11,6 @@ The movements by the Weak and Electromagnetic forces, such as those in radioacti
 Unlike matter, you cannot force-push electricity to make it travel farther. Instead, you use a capacitor to gather the electricity in coils and add strength and let it "flow" more.
 
 The difference between the movements of matter and electromagnetism was then thought to be caused by a mysterious semi-material thing called "aether" which permeated space. This idea came from Huygens who got it from Descartes.
-
-
-
-
 
 
 

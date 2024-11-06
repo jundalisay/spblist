@@ -28,7 +28,8 @@ Assuming that his brain can handle 100 units and a maximum of 1,000 units of inf
 
 Since brain and mind* cannot change drastically overnight or even in a few years, the information must be made more efficient and reduced to fit into human limitations. If each info-unit can be reduced to 0.000001, then 100 million of it can be squeezed into his capacity of 100 units. `100 000 000 * 0.000001`
 
-> *The nature of the brain as a physical entity is different from the nature of the mind as a metaphysical entity
+{{< n n="*The nature of the brain as a physical entity is different from the nature of the mind as a metaphysical entity" >}}
+
 
 In this way, by reducing the superfluous data or noise, he can still have a piece of the information from his fellow-countrymen and really know all of his country to some extent.
 <!-- or be grouped into 100 or 1,000 units, then at maximum capacity, the person can still accommodate all the info from his countrymen. -->
@@ -44,8 +45,10 @@ It is certain that distance diminishes the force of every idea, and that, upon o
 {{< /q >}}
 
 
-> *This follows the maxim that all ideas are connected
-    
+{{< n n="*This follows the maxim that all ideas are connected" >}}
+
+
+
 For example, we implement Hume's metaphysical ideas in re-organizing a news article on Yahoo to make understanding it faster and easier:
 
 <!-- (http://news.yahoo.com/reports-japans-abe-air-plan-5-trillion-economy-070750877.html) -->

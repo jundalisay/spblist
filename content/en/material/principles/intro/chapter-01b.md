@@ -83,6 +83,13 @@ Layer | Aether content | Greek Shape | Superphysics Shape
 {{< youtube pMK7dTU0jn0 >}}
 
 
+Note that these shapes are NOT how those forces and particles exist in actuality. These are just representations that help the human mind understand the dynamics of those forces and particles which are actually in a compound wave format. 
+
+This is similar to musical notes representing the actual sound waves of a song. 
+
+This is also similar to programming languages being in English even if computers talk in binary and machine language. For example, the Javacript snippet `declare global {namespace App}` uses English words even if its output is ultimately code that software can understand, but humans cannot.  
+
+
 These shapes are helpful in understanding why the fundamental forces act in the way that they do. 
 
 For example, the 2D nature of photons allow them to go through the 2D spacetime unhindered. They are only hindered by the aetherspace which is 3D and limits them to 300,000 kilometers per second. 

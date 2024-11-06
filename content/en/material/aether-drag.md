@@ -24,7 +24,7 @@ Earth or Mass | Strong Force
 
 Everything changed when Newton came to the picture and enshrined mass as the cause of gravity in a space that was absolute. This is totally different from the other sciences which put the aether as the cause.*
 
-{{< n n="This has been proven since ancient times by Hindu and Buddhist monks who are able to levitate without exerting physical force. This is why gravity is no longer a myster and is case closed" >}}
+{{< n n="This has been proven since ancient times by Hindu and Buddhist monks who are able to levitate without exerting physical force. This is why gravity is no longer a mystery and is case closed" >}}
 
 
 Insead of mass being the lowest Element, Newtonian Physics made it the supreme Element. 

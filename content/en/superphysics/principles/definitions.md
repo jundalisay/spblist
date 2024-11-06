@@ -34,6 +34,8 @@ Eagle | the equation for everything, according to Superphysics
 Ego | the feeling of the self 
 Emotion | A quantized measurable version of a feeling, such as for public surveys
 Existence | the effect of Consciousness as its other half
+God | an entity that represents either Enki or Enlil
+gods | entities that represent beings more advanced than humans with corresponding increase in power or abilities  
 Idea | An original metaphysical object created by the Supreme that is accessed by abstract minds. Also, a product of Ideation (accessing pre-existing ideas)
 Identity | A discrete resultant perception separate from other perceptions or a mass of perceptions
 Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable. Also generally adharmic since Existence is Positive.
@@ -51,6 +53,7 @@ Omnitheism | a paradigm that views all Supreme Entities as different versions of
 Passive Observation | Observing the object without doing anything to it.
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
+Religion | a belief system that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings)
 Self | The perception of identity by the same perceiver
 Slavery | A regular state of control of another's actions that produces pain
 Socratic Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma, to arrive at a solution to a problem

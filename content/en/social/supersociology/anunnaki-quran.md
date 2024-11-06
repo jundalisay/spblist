@@ -29,7 +29,7 @@ Enlil became the deity of the Greeks and Romans.
 
 Enki became the deity of the Jews and The Muslims.
 
-So we replace Allah with Enki, as the [Anunaki Quran](/research/mohammad/quran/sura-002a/)
+So we replace Allah with Enki, as the [Anunnaki Quran](/research/mohammad/quran/sura-002a/)
 
 In this way, one can read the Sumerian, Babylonian, Jewish texts, and then the Quran to find the story of the Middle Eastern people consistent. 
 

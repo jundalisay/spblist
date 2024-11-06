@@ -107,13 +107,10 @@ you took captive.
 their homes, and their possessions, and a re-
 gion you have never stepped on. Enki has
 power over all things.
-28. O Prophet! Say to your wives, “If you desire
-the life of this world and its finery, then let me
-compensate you, and release you kindly.
-29. But if you desire Enki, His Messenger, and
-the Home of the Hereafter, then Enki has
-prepared for the righteous among you a mag-
-nificent compensation.”
+
+28. O Prophet! Say to your wives, “If you desire the life of this world and its finery, then let me compensate you, and release you kindly. 
+
+29. But if you desire Enki, His Messenger, and the Home of the Hereafter, then Enki has prepared for the righteous among you a magnificent compensation.”
 
 30. O wives of the Prophet! Whoever of you commits a proven indecency, the punishment for her will be doubled. And that would
 be easy for Enki.
@@ -125,18 +122,14 @@ We have prepared for her a generous provision.
 <!-- 31.
 has ended. The command of Enki was fulfilled. -->
 
-32. O wives of the Prophet! You are not like
-any other women, if you observe piety. So do
-not speak too softly, lest the sick at heart lusts
-after you, but speak in an appropriate manner.
+32. O wives of the Prophet! You are not like any other women, if you observe piety. So do not speak too softly, lest the sick at heart lusts after you, but speak in an appropriate manner.
 
-33. And settle in your homes; and do not display yourselves, as in the former days of ignorance. And perform the prayer, and give regular charity, and obey Enki and His Messenger. Enki desires to remove all impurity from
+33. Settle in your homes. Do not display yourselves, as in the former days of ignorance. And perform the prayer, and give regular charity, and obey Enki and His Messenger. Enki desires to remove all impurity from
 you, O People of the Household, and to purify you thoroughly.
 
-34. And remember what is recited in your homes of Enki's revelations and wisdom. 
+34. Remember what is recited in your homes of Enki's revelations and wisdom. 
 
-35. Muslim men and Muslim women, believing men and believing women, obedient men and obedient women, truthful men and truthful women, patient men and patient women, humble men and humble women, charitable men and charitable women, fasting men and fasting women, men who guard
-their chastity and women who guard, men who remember Enki frequently and women
+35. Muslim men and Muslim women, believing men and believing women, obedient men and obedient women, truthful men and truthful women, patient men and patient women, humble men and humble women, charitable men and charitable women, fasting men and fasting women, men who guard their chastity and women who guard, men who remember Enki frequently and women
 who remember—Enki has prepared for them a pardon, and an immense reward.
 
 36. It is not for any believer, man or woman, when Enki and His Messenger have decided
@@ -150,27 +143,21 @@ you feared the people, but it was Enki you were supposed to fear. Then, when Zai
 ended his relationship with her, We gave her to you in marriage, that there may be no re-
 striction for believers regarding the wives of their adopted sons, when their relationship
 
-
-38. There is no blame on the Prophet regard-
-ing what Enki has ordained for him. Such is
-the pattern of Enki among those who passed
-before. The command of Enki is an absolute
+38. There is no blame on the Prophet regarding what Enki has ordained for him. Such is
+the pattern of Enki among those who passed before. The command of Enki is an absolute
 decree.
-39. Those who deliver the messages of Enki,
-and fear Him, and never fear anyone except
+
+39. Those who deliver the messages of Enki, and fear Him, and never fear anyone except
 Enki. Enki is sufficient as a reckoner.
-40. Muhammad is not the father of any of your
-men; but he is the Messenger of Enki, and
-the seal of the prophets. Enki is Cognizant of
-everything.
-41. O you who believe, remember Enki with
-frequent remembrance.
+
+40. Muhammad is not the father of any of your men; but he is the Messenger of Enki, and
+the seal of the prophets. Enki is Cognizant of everything.
+
+41. O you who believe, remember Enki with frequent remembrance.
 
 42. And glorify Him morning and evening.
 
-Enki reaches out to you, and His
-angels, to bring you out of darkness into the
-light. And He is Ever-Merciful towards the
+Enki reaches out to you, and His angels, to bring you out of darkness into the light. He is Ever-Merciful towards the
 believers.
 
 44. Their greeting on the Day they meet Him is, “Peace,” and He has prepared for them a
@@ -178,30 +165,23 @@ generous reward.
 
 45. O prophet! We have sent you as a witness, and a bearer of good news, and a warner.
 
-46. And a caller towards Enki by His leave,
-and an illuminating beacon.
-47. And give the believers the good news that
-for them is a great reward.
-48. And do not obey the blasphemers and the
-hypocrites, and ignore their insults, and rely
+46. And a caller towards Enki by His leave, and an illuminating beacon.
+
+47. Give the believers the good news that for them is a great reward.
+
+48. And do not obey the blasphemers and the hypocrites, and ignore their insults, and rely
 on Enki. Enki is a sufficient protector.
-49. Muslims,  When you marry be-
-lieving women, but then divorce them before
+
+49. Muslims,  When you marry believing women, but then divorce them before
 you have touched them, there is no waiting
 period for you to observe in respect to them;
 but compensate them, and release them in a
 graceful manner.
-50. O Prophet! We have permitted to you your
-wives to whom you have given their dowries,
-and those you already have, as granted to you
-by Enki, and the daughters of your paternal
-uncle, and the daughters of your paternal
 
-
-
-aunts, and the daughters of your maternal
-uncle, and the daughters of your maternal
-aunts who emigrated with you, and a believing woman who has offered herself to the
+50. O Prophet! We have permitted to you your wives to whom you have given their dowries,
+and those you already have, as granted to you by Enki, and the daughters of your paternal
+uncle, and the daughters of your paternal aunts, and the daughters of your maternal
+uncle, and the daughters of your maternal aunts who emigrated with you, and a believing woman who has offered herself to the
 Prophet, if the Prophet desires to marry her,
 exclusively for you, and not for the believers.
 

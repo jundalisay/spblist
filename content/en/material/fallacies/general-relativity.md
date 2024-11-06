@@ -2,8 +2,8 @@
 heading: "The Sophistry of Albert Einstein"
 title: "How to Fix Einstein's General Relativity"
 description: "Did you know that dark matter, wormholes, and the Big Bang are fallacies of Physics?"
-date: 2024-11-02
-# date: "2021-06-14"
+# date: 2024-11-02
+date: 2021-06-14
 weight: 14
 linkTitle: "General Relativity Sophistry"
 image: "/graphics/physics/general.jpg"
@@ -122,3 +122,21 @@ In the future, we can use it to plot or predict:
 - the probablities of what a particle will decay into
 - the movement of an object from location A to B using the aether
 - the growth of plants from one height or quality towards another 
+
+
+### Meets Socrates' Requirements
+
+Cartesian Physics meets Socrates' requirements of:
+
+- having no absolutes (i.e. be relative)
+- working even without light
+
+This is why it makes up most of Material Superphysics, with minor tweaks from the Asian sciences of Hinduism, Taoism, and Buddhism in order to explain how the physical universe works.
+
+
+
+{{< dc t="Updates" >}}
+Date | Update
+--- | ---
+Nov 2024 | Totally overhauled this article after formalizing Cartesian Relationality around Aug 2024. Instead of fixing General Relativity by replacing Einstein's spacetime with the Cartesian 2nd Element, we replaced it with Cartesian Relationality
+{{< /dc >}}

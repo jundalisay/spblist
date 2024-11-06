@@ -60,10 +60,10 @@ upon her on every side; and they shall know that I [am] the
 LORD. 
 
 24} And there shall be no more a pricking brier
-unto the house of Israel, nor [any] grieving thorn of all [that
+unto the Israelites, nor [any] grieving thorn of all [that
 are] round about them, that despised them; and they shall
 know that I [am] Enki. 25} Thus saith the
-Lord GOD; When I shall have gathered the house of Israel
+Lord GOD; When I shall have gathered the Israelites
 from the people among whom they are scattered, and shall
 be sanctified in them in the sight of the heathen, then shall
 they dwell in their land that I have given to my servant

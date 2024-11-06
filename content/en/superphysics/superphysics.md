@@ -160,7 +160,9 @@ Superphysics is then split up into three, based on a perception's relation to th
   - Supersociology is the subset that deals with socio-political principles and is based on Socrates and Ibn Khaldun
   - Supereconomics deals with economic principles and is based on Adam Smith
 
-  
+4. [Spiritual Superphysics](/spiritual) — This is the newest part, based on the study or observations of Supreme Entity Itself, as the Brahma or megasoul which we call Existence-Consciousness which is **STILL** connected by Cartesian Relationality as the 'dash' or '-' between all Existences and Consciousnesses. This is an effect of us realizing that relationality works all throughout Existence. The "intelligence" of the Supreme Entity comes from the total relationalities. 
+
+
 <!-- ### What is the difference between Modern Physics and Material Superphysics?
 
 Modern physics is limited to the physical perceptions through the five senses. An example of a limitation created by modern physics is rocket technology which is expensive and full or problems. 
@@ -194,5 +196,6 @@ Date | Update
 May 2020 | For Covid, the Superphysics solution is to end the war against the Amazon as the virus will merely outmutate the vaccines
 May 2021 | This has been proven by the Delta variant
 December 2021 | This has been proven by the Omicron variant
+Nov 2024 | Added Spiritual Superphysics
 {{< /dc >}}
 

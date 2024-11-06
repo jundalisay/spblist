@@ -27,7 +27,7 @@ but his blood will I require at the watchman’s hand.
 
 
 {{< l a="Enki" >}}
-7} I have set you as a watchman for the house of Israel; therefore you shalt hear the word
+7} I have set you as a watchman for the Israelites; therefore you shalt hear the word
 at my mouth, and warn them from me. 8} When I say unto the wicked, O wicked [man,] you shalt surely die; if you dost not speak to warn the wicked from his way, that wicked [man] shall die in his iniquity; but his blood will I require at thine hand. 
 
 9} Nevertheless, if you warn the wicked of his way to turn from it; if he do not turn from his
@@ -36,11 +36,11 @@ soul.
 {{< /l >}}
 
 
-10} Therefore, speak to the house of Israel; Thus you speak, saying, If our transgressions
+10} Therefore, speak to the Israelites; Thus you speak, saying, If our transgressions
 and our sins [be] upon us, and we pine away in them, how should we then live? 11} Say unto them, [As] I live, saith Enki, I have no pleasure in the death of the
 wicked; but that the wicked turn from his way and live: turn
 ye, turn you from your evil ways; for why will you die, O
-house of Israel? 
+Israelites? 
 
 12} Therefore, you son of man, say to the children of your people, The righteousness of the
 righteous shall not deliver him in the day of his
@@ -71,7 +71,7 @@ But if the wicked turn from his wickedness, and do that
 which is lawful and right, he shall live thereby.
 
 20} Yet you say, The way of the Lord is not equal. O
-you house of Israel, I will judge you every one after his ways.
+you Israelites, I will judge you every one after his ways.
 21} And it came to pass in the twelfth year of our
 captivity, in the tenth [month,] in the fifth [day] of the
 month, [that] one that had escaped out of Jerusalem came

@@ -52,7 +52,7 @@ filthiness out of you. 16} And you shalt take thine
 inheritance in yourself in the sight of the heathen, and thou
 shalt know that I [am] Enki. 17} And the word of
 Enki came unto me, saying, 18} Son of man, the
-house of Israel is to me become dross: all they [are] brass,
+Israelites is to me become dross: all they [are] brass,
 and tin, and iron, and lead, in the midst of the furnace; they
 are [even] the dross of silver. 19} Therefore thus saith
 Enki; Because you are all become dross, behold,

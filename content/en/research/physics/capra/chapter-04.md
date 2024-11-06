@@ -56,22 +56,15 @@ Quantum theory and Relativity are the 2 basic theories of modern physics. These 
 
 The world view which was changed by the discoveries of modern physics had been based on Newton’s mechanical model of the universe. 
 
-This model constituted the solid framework of classical physics. It was indeed a most formidable
-foundation supporting, like a mighty rock, all of science and providing a firm basis for natural philosophy for almost three centuries.
+This model constituted the solid framework of classical physics. It was indeed a most formidable foundation supporting, like a mighty rock, all of science and providing a firm basis for natural philosophy for almost three centuries.
 
 The stage of the Newtonian universe, on which all physical phenomena took place, was the three-dimensional space of classical Euclidean geometry. 
 
-It was an absolute space, always at rest and unchangeable. In Newton’s own words, ‘Absolute
-space, in its own nature, without regard to anything external,
-remains always similar and immovable.‘6 
+It was an absolute space, always at rest and unchangeable. In Newton’s own words, ‘Absolute space, in its own nature, without regard to anything external, remains always similar and immovable.‘6 
 
-All changes in the physical world were described in terms of a separate dimension,
-called time, which again was absolute, having no connection
-with the material world and flowing smoothly from the past
-through the present to the future. 
+All changes in the physical world were described in terms of a separate dimension, called time, which again was absolute, having no connection with the material world and flowing smoothly from the past through the present to the future. 
 
-‘Absolute, true, and mathematical time,’ said Newton, ‘of itself and by its own nature,
-flows uniformly, without regard to anything external.”
+‘Absolute, true, and mathematical time,’ said Newton, ‘of itself and by its own nature, flows uniformly, without regard to anything external.”
 
 The elements of the Newtonian world which moved in this absolute space and absolute time were material particles. 
 
@@ -150,108 +143,20 @@ they tell me you have written this large book on the system
 of the universe, and have never even mentioned its Creator.’
 To this Laplace replied bluntly, ‘I had no need for that hypo-
 thesis.‘
-Encouraged by the brilliant success of Newtonian mechanics
-in astronomy, physicists extended it to the continuous motion
-of fluids and to the vibrations of elastic bodies, and again it
-worked. Finally, even the theory of heat could be reduced to
-mechanics when it was realized that heat was the energy
-created by a complicated ‘jiggling’ motion of the molecules.
-When the temperature of, say, water is increased the motion
-of the water molecules increases until they overcome the forces
-holding them together and fly apart. In this way, water turns
-into steam. On the other hand, when the thermal motion is
-slowed down by cooling the water, the molecules finally lock
-into a new, more rigid pattern which is ice. In a similar way,
-many other thermal phenomena can be understood quite well
-from a purely mechanistic point of view.
 
+Physicists extended Newtonian mechanics to:
+- the continuous motion of fluids
+- the vibrations of elastic bodies
+- the theory of heat
 
-The enormous success of the mechanistic model made
-physicists of the early nineteenth century believe that the
-universe was indeed a huge mechanical system running
-according to the Newtonian laws of motion. These laws were
-seen as the basic laws of nature and Newton’s mechanics was
-considered to be the ultimate theory of natural phenomena.
+Heat was the energy created by a complicated ‘jiggling’ motion of the molecules.
 
-And yet, it was less than a hundred years later that a new
-physical reality was discovered which made the limitations of
-the Newtonian model apparent and showed that none of its
-features had absolute validity.
+When the temperature of water is increased, the motion of the water molecules increases until they overcome the forces
+holding them together and fly apart. In this way, water turns into steam. 
 
-This realization did not come abruptly, but was initiated by
-developments that had already started in the nineteenth
-century and prepared the way for the scientific revolutions of
-our time. The first of these developments was the discovery
-and investigation of electric and magnetic phenomena which
-could not be described appropriately by the mechanistic
-model and involved a new type of force. The important step
-was made by Michael Faraday and Clerk Maxwell-the first,
-one of the greatest experimenters in the history of science,
-the second, a brilliant theorist. When Faraday produced an
-electric current in a coil of copper by moving a magnet near
-it, and thus converted the mechanical work of moving the
-magnet into electric energy, he brought science and tech-
-nology to a turning point. His fundamental experiment gave
-birth, on the one hand, to the vast technology of electrical
-engineering; on the other hand, it formed the basis of his and
-Maxwell’s theoretical speculations which, eventually, resulted
-in a complete theory of electromagnetism. Faraday and
-Maxwell did not only study the effects of the electric and mag-
-netic forces, but made the forces themselves the primary
-object of their investigation. They replaced the concept of a
-force by that of a force field, and in doing so they were the
-first to go beyond Newtonian physics.
+On the other hand, when the thermal motion is slowed down by cooling the water, the molecules finally lock into a new, more rigid pattern which is ice. 
 
-Instead of interpreting the interaction between a positive
-and a negative charge simply by saying that the two charges
-attract each other like two masses in Newtonian mechanics,
-Faraday and Maxwell found it more appropriate to say that
-each charge creates a ‘disturbance’, or a ‘condition’, in the
-space around it so that the other charge, when it is present,
-feels a force. This condition in space which has the potential
-of producing a force is called a field. It is created by a single
-charge and it exists whether or not another charge is brought
-in to feel its effect.
+In a similar way, many other thermal phenomena can be understood quite well from a purely mechanistic point of view.
 
-This was a most profound change in man’s conception of
-physical reality. In the Newtonian view, the forces were rigidly
-connected with the bodies they act upon. Now the force concept was replaced by the much subtler concept of a field which had its own reality and could be studied without any
-reference to material bodies. The culmination of this theory,
-called electrodynamics, was the realization that light is nothing
-but a rapidly alternating electromagnetic field travelling through
-space in the form of waves. Today we know that radio waves,
-light waves or X-rays, are all electromagnetic waves, oscillating
-electric and magnetic fields differing only in the frequency of
-their oscillation, and that visible light is only a tiny fraction of
-the electromagnetic spectrum.
+The enormous success of the mechanistic model made physicists of the early 19th century believe that the universe was a huge mechanical system running according to the Newtonian laws of motion.
 
-
-In spite of these far-reaching changes, Newtonian mechanics
-at first held its position as the basis of all physics. Maxwell
-himself tried to explain his results in mechanical terms, inter-
-preting the fields as states of mechanical stress in a very light
-space-filling medium, called ether, and the electromagnetic
-waves as elastic waves of this ether. This was only natural as
-waves are usually experienced as vibrations of something;
-water waves as vibrations of water, sound waves as vibrations
-of air. Maxwell, however, used several mechanical interpreta-
-tions of his theory at the same time and apparently took none
-of them really seriously. He must have realized intuitively, even
-if he did not say so explicitly, that the fundamental entities in
-his theory were the fields and not the mechanical models. It
-was Einstein who clearly recognized this fact fifty years later
-when he declared that no ether existed and that the electro-
-magnetic fields were physical entities in their own right which
-could travel through empty space and could not be explained
-mechanically.
-At the beginning of the twentieth century, then, physicists
-had two successful theories which applied to different pheno-
-mena : Newton’s mechanics and Maxwell’s electrodynamics.
-Thus the Newtonian model had ceased to be the basis of all
-physics.
-MODERN PHYSICS
-The first three decades of our century changed the whole
-situation in physics radically. Two separate developments-
-that of relativity theory and of atomic physics-shattered all
-the principal concepts of the Newtonian world view: the notion
-of absolute space and time, the elementary solid particles, the

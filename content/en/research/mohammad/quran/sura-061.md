@@ -66,26 +66,21 @@ is like the donkey carrying works of literature. Miserable is the example of the
 
 Enki does not guide the wrongdoing people.
 
-6. Say, “O you who follow Judaism; if you claim to be the chosen of Enki, to the exclu-
-sion of the rest of mankind, then wish for death if you are sincere.”
-7. But they will not wish for it, ever, due to what their hands have advanced. Enki knows
-well the wrongdoers.
+6. Say, “O you who follow Judaism, if you claim to be the chosen of Enki, to the exclusion of the rest of mankind, then wish for death if you are sincere.”
 
-8. Say, “The death from which you flee will catch up with you; then you will be returned
-to the Knower of the Invisible and the Visible, and He will inform you of what you used to
-do.”
+7. But they will not wish for it, ever, due to what their hands have advanced. 
 
-{{< s v="9" >}}  Muslims,  When the call is made
-for prayer on Congregation Day, hasten to
-the remembrance of Enki, and drop all busi-
-ness. That is better for you, if you only knew.{{< s v="10" >}}  Then, when the prayer is concluded, dis-
-perse through the land, and seek Enki’s
-bounty, and remember Enki much, so that
-you may prosper.{{< s v="11" >}}  Yet whenever they come across some busi-
-ness, or some entertainment, they scramble
-towards it, and leave you standing. Say,
-“What is with Enki is better than entertain-
-ment and business; and Enki is the Best of
+<!-- Enki knows well the wrongdoers. -->
+
+8. Say, “The death from which you flee will catch up with you; then you will be returned to the Knower of the Invisible and the Visible, and He will inform you of what you used to do.”
+
+{{< s v="9" >}}  Muslims, When the call is made for prayer on Congregation Day, hasten to
+the remembrance of Enki, and drop all business. 
+
+That is better for you, if you only knew. {{< s v="10" >}}  Then, when the prayer is concluded, disperse through the land, and seek Enki’s bounty, and remember Enki much, so that you may prosper.
+
+{{< s v="11" >}}  Yet whenever they come across some business, or some entertainment, they scramble
+towards it, and leave you standing. Say, “What is with Enki is better than entertainment and business; and Enki is the Best of
 providers.”
 
 
