@@ -20,6 +20,9 @@ Many histories go back only to the Jewish texts which began after the Jews left 
 
 By going back to the Sumerian texts, we can complete the picture of the Middle East to the dominance of the Anunnaki "gods". 
 
+{{< youtube sxq8vIm4Cwc >}}
+
+
 These gods had 2 factions, represented by 2 brothers:
 
 1. Enlil
@@ -29,7 +32,7 @@ Enlil became the deity of the Greeks and Romans.
 
 Enki became the deity of the Jews and The Muslims.
 
-So we replace Allah with Enki, as the [Anunnaki Quran](/research/mohammad/quran/sura-002a/)
+So we replace Allah with Enki, as the [Anunnaki Quran](/research/mohammad/quran/sura-002a/), and Yahweh with Enki, as the [Anunnaki Old Testament](/research/ancient/jewish).
 
 In this way, one can read the Sumerian, Babylonian, Jewish texts, and then the Quran to find the story of the Middle Eastern people consistent. 
 

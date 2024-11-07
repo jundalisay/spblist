@@ -1,203 +1,145 @@
-The exploration of the subatomic world in the twentieth century
-has revealed the intrinsically dynamic nature of matter. It has
-shown that the constituents of atoms, the subatomic particles,
-are dynamic patterns which do not exist as isolated entities,
-but as integral parts of an inseparable network of interactions.
-These interactions involve a ceaseless flow of energy mani-
-festing itself as the exchange of particles; a dynamic interplay
-in which particles are created and destroyed without end in
-a continual variation of energy patterns. The particle inter-
-actions give rise to the stable structures which build up the
-material world, which again do not remain static, but oscillate
-in rhythmic movements. The whole universe is thus engaged
-in endless motion and activity; in a continual cosmic dance of
-energy.
-This dance involves an enormous variety of patterns but,
-surprisingly, they fall into a few distinct categories. The study
-of the subatomic particles and their interactions thus reveals
-a great deal of order. All atoms, and consequently all forms of
-matter in our environment, are composed of only three massive
-particles: the proton, the neutron and the electron. A fourth
-particle, the photon, is massless and represents the unit of
-electromagnetic radiation. The proton, the electron and the
-photon are all stable particles, which means they live for ever
+---
+title: "The Phenomenon of Waves"
+weight: 22
+description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
+image: "/covers/taophysics.jpg"
+---
+
+
+The exploration of the subatomic world in the 20th century has revealed the intrinsically dynamic nature of matter. 
+
+It has shown that the constituents of atoms, the subatomic particles, are dynamic patterns which do not exist as isolated entities, but as integral parts of an inseparable network of interactions.
+
+These interactions involve a ceaseless flow of energy manifesting itself as the exchange of particles; a dynamic interplay
+in which particles are created and destroyed without end in a continual variation of energy patterns. 
+
+The particle interactions give rise to the stable structures which build up the material world, which again do not remain static, but oscillate in rhythmic movements. The whole universe is thus engaged in endless motion and activity; in a continual cosmic dance of energy.
+
+This dance involves an enormous variety of patterns but, surprisingly, they fall into a few distinct categories. The study
+of the subatomic particles and their interactions thus reveals a great deal of order.
+
+All atoms, and consequently all forms of matter in our environment, are composed of only three massive particles: the proton, the neutron and the electron. A fourth particle, the photon, is massless and represents the unit of
+electromagnetic radiation. 
+
+The proton, the electron and the photon are all stable particles, which means they live for ever
 unless they become involved in a collision process where they
 can be annihilated. The neutron, on the other hand, can dis-
-integrate spontaneously. This disintegration is called ‘beta
-decay’ and is the basic process of a certain type of radioactivity.
+integrate spontaneously. 
+
+This disintegration is called ‘beta decay’ and is the basic process of a certain type of radioactivity.
 It involves the transformation of the neutron into a proton,
 accompanied by the creation of an electron and a new type
-of massless particle, called the neutrino. Like the proton and
+of massless particle, called the neutrino. 
 
-the electron, the neutrino is also stable. It is commonly denoted
-by the Greek letter v (‘nu’), and the process of beta decay is
-symbolically written as
-n+p+e-+tr
-The transformation of neutrons into protons in the atoms of a
-radioactive substance entails a transformation of these atoms
-into atoms of an entirely different kind. The electrons which
-are created in the process are emitted as a powerful radiation
-which is widely used in biology, medicine and industry. The
-neutrinos, on the other hand, although emitted in equal number,
-are very difficult to detect because they have neither mass nor
-electric charge.
-As mentioned previously, there is an antiparticle for every
-particle, with equal mass but opposite charge. The photon is
-its own antiparticle; the antiparticle of the electron is called
-the positron; then there is an antiproton, an antineutron, and
-an antineutrino. The massless particle created in beta decay
-is not, in fact, the neutrino but the antineutrino (denoted by
-VI, so that the process is correctly written as
+Like the proton and the electron, the neutrino is also stable. It is commonly denoted by the Greek letter v (‘nu’), and the process of beta decay is symbolically written as
+n+p+e-+tr 
+
+The transformation of neutrons into protons in the atoms of a radioactive substance entails a transformation of these atoms
+into atoms of an entirely different kind. The electrons which are created in the process are emitted as a powerful radiation
+which is widely used in biology, medicine and industry. 
+
+The neutrinos, on the other hand, although emitted in equal number, are very difficult to detect because they have neither mass nor electric charge.
+
+There is an antiparticle for every particle, with equal mass but opposite charge. The photon is its own antiparticle; the antiparticle of the electron is called the positron; then there is an antiproton, an antineutron, and
+an antineutrino. 
+
+The massless particle created in beta decay is not, in fact, the neutrino but the antineutrino (denoted by
+VI, so that the process is correctly written as 
+
 n+p+e-+v’
-The particles mentioned so far represent only a fraction of
-the subatomic particles known today. All the others are
-unstable and decay after a very short time into other particles,
-some of which may decay again until a combination of stable
-particles remains. The study of unstable particles is very
-expensive as they have to be newly created in collision processes
+
+The particles mentioned so far represent only a fraction of the subatomic particles known today. All the others are
+unstable and decay after a very short time into other particles, some of which may decay again until a combination of stable
+particles remains. The study of unstable particles is very expensive as they have to be newly created in collision processes
 for each investigation, which involves huge particle accelerators,
 bubble chambers, and other extremely sophisticated devices
 for particle detection.
-Most unstable particles live only for an extremely short time,
-compared with the human time scale; less than a millionth of a
-second. However, their lifetime has to be regarded in relation
-to their size which is also diminutive. When looked at in this
-way, it can be seen that many of them live for a relatively long
-period, and that one millionth of a second is, in fact, an enormous
-time span in the particle world. A human being can move
-across a distance a few times his or her size in a second. For
-a particle, the equivalent time span would therefore be the
 
 
-The table shows thirteen different types of particles, many of which appear in
-different ‘charge states’. The pions, for example, can have positive charge (n+),
-negative charge (X-J, or be electrically neutral (16’). There are two kinds of
-neutrinos, one interacting only with electrons (v,), the other only with muons
-(~4. The antiparticles are listed as well, three of the particles (y, no, 7) being
-their own antiparticles. Particles are arranged in the order of increasing mass:
-the photon and the neutrinos are massless; the electron is the lightest massive
-particle; the muons, pions, and kaons are a few hundred times heavier than
-the electron; the other particles are one to three thousand times heavier.
-time it needs to travel over a distance a few times its own
+The table shows 13 different types of particles, many of which appear in different ‘charge states’. The pions, for example, can have positive charge (n+), negative charge (X-J, or be electrically neutral (16’). There are two kinds of neutrinos, one interacting only with electrons (v,), the other only with muons (~4. The antiparticles are listed as well, three of the particles (y, no, 7) being their own antiparticles. 
+
+Particles are arranged in the order of increasing mass: the photon and the neutrinos are massless; the electron is the lightest massive particle; the muons, pions, and kaons are a few hundred times heavier than the electron; the other particles are one to three thousand times heavier.
+
+Most unstable particles live only for an extremely short time, compared with the human time scale; less than a millionth of a
+second. However, their lifetime has to be regarded in relation to their size which is also diminutive. When looked at in this
+way, it can be seen that many of them live for a relatively long period, and that one millionth of a second is, in fact, an enormous time span in the particle world. A human being can move across a distance a few times his or her size in a second. For
+a particle, the equivalent time span would therefore be the  time it needs to travel over a distance a few times its own
 size; a unit of time which one could call a ‘particle second’.*
 
-To cross a medium-sized atomic nucleus, a particle needs
-about ten of these ‘particle seconds’ if it travels at a speed
-close to the speed of light, as particles do in the collision
-experiments. Among the great number of unstable particles,
-there are about two dozen which can travel across at least
-
-several atoms before they decay. This is a distance of some
-100,000 times their size and corresponds to a time of a few
-hundred ‘particle hours’. These particles are listed in the table
+To cross a medium-sized atomic nucleus, a particle needs about ten of these ‘particle seconds’ if it travels at a speed
+close to the speed of light, as particles do in the collision experiments. Among the great number of unstable particles,
+there are about two dozen which can travel across at least several atoms before they decay. This is a distance of some
+100,000 times their size and corresponds to a time of a few hundred ‘particle hours’. These particles are listed in the table
 overleaf, together with the stable particles already mentioned.
-Most of the unstable particles in the table will; in fact, cover a
-whole centimetre, or even several centimetres, before they
-decay, and those which live longest, a millionth of a second,
-can travel several hundred metres before decaying; an
-enormous length compared with their size.
-All the other particles known so far belong to a category
-called ‘resonances’ which will be discussed in more detail in
-the subsequent chapter. They live for a considerably shorter
-time, decaying after a few ‘particle seconds’, so that they can
-never travel farther than a few times their size. This means
-they cannot be seen in the bubble chamber; their existence
-can only be inferred indirectlv. The tracks seen in bubble
-chamber pictures can only be traced by particles listed in the
-table.
-All these particles can be created and annihilated in collision
-processes; each one can also be exchanged as a virtual particle
-and thus contribute to the interaction between other particles.
-This would seem to result in a vast number of different particle
-interactions, but fortunately, although we do not yet know
-why, all these interactions seem to fall into four categories
-with markedly different interaction strengths:
+
+Most of the unstable particles in the table will; in fact, cover a whole centimetre, or even several centimetres, before they
+decay, and those which live longest, a millionth of a second, can travel several hundred metres before decaying; an
+enormous length compared with their size. 
+
+All the other particles known so far belong to a category called ‘resonances’ which will be discussed in more detail in
+the subsequent chapter. They live for a considerably shorter time, decaying after a few ‘particle seconds’, so that they can
+never travel farther than a few times their size. This means they cannot be seen in the bubble chamber; their existence
+can only be inferred indirectlv. The tracks seen in bubble chamber pictures can only be traced by particles listed in the
+table. 
+
+All these particles can be created and annihilated in collision processes; each one can also be exchanged as a virtual particle
+and thus contribute to the interaction between other particles. 
+
+This would seem to result in a vast number of different particle interactions, but fortunately, although we do not yet know
+why, all these interactions seem to fall into four categories with markedly different interaction strengths:
+
 The strong interactions
 The electromagnetic interactions
 The weak interactions
 The gravitational interactions
-Among them, the electromagnetic and gravitational interactions
-are the most familiar, because they are experienced in the
-large-scale world. The gravitational interaction acts between
-all particles, but is so weak it cannot be detected experimentally.
-In the macroscopic world, however, the huge number of
-particles making up massive bodies combine their gravitational
-interaction to produce the force of gravity which is the
 
-dominating force in the universe at large. Electromagnetic
-interactions take place between all charged particles. They are
-responsible for the chemical processes, and the formation of
-all atomic and molecular structures. The strong Interactions
-hold the protons and neutrons together in the atomic nucleus.
-They constitute the nuclear force, by far the strongest of all
-forces in nature. Electrons, for example, are bound to the
-atomic nuclei by the electromagnetic force with energies of
-about ten units (called electron volts), whereas the nuclear
-force holds protons and neutrons together with energies of
-about ten million units!
-The nucleons are not the only particles interacting through
-the strong interactions. In fact, the overwhelming majority are
-strongly interacting particles. Of all the particles known today,
-only five (and their antiparticles) do not participate in the
-strong interactions. These are the photon and the four ‘leptons’
-listed in the top part of the table. Thus all the particles fall into
-two broad groups: leptons and ‘hadrons’, or strongly inter-
-acting particles. The hadrons are further divided into ‘mesons’
-and ‘baryons’ which differ in various ways, one of them being
-that all baryons have distinct antiparticles, whereas a meson
+Among them, the electromagnetic and gravitational interactions are the most familiar, because they are experienced in the
+large-scale world. The gravitational interaction acts between all particles, but is so weak it cannot be detected experimentally.
+
+In the macroscopic world, however, the huge number of particles making up massive bodies combine their gravitational
+interaction to produce the force of gravity which is the dominating force in the universe at large. Electromagnetic
+interactions take place between all charged particles. 
+
+They are responsible for the chemical processes, and the formation of all atomic and molecular structures. The strong Interactions hold the protons and neutrons together in the atomic nucleus.
+
+They constitute the nuclear force, by far the strongest of all forces in nature. Electrons, for example, are bound to the
+atomic nuclei by the electromagnetic force with energies of about ten units (called electron volts), whereas the nuclear
+force holds protons and neutrons together with energies of about ten million units!
+
+The nucleons are not the only particles interacting through the strong interactions. In fact, the overwhelming majority are
+strongly interacting particles. Of all the particles known today, only five (and their antiparticles) do not participate in the
+strong interactions. 
+
+These are the photon and the four ‘leptons’ listed in the top part of the table. Thus all the particles fall into two broad groups: leptons and ‘hadrons’, or strongly interacting particles. The hadrons are further divided into ‘mesons’ and ‘baryons’ which differ in various ways, one of them being that all baryons have distinct antiparticles, whereas a meson
 can be its own antiparticle.
-The leptons are involved in the fourth type of interactions,
-the weak interactions. These are so weak, and have such a
-short range, that they cannot hold anything together, whereas
-the other three give rise to binding forces-the strong inter-
-actions holding together the atomic nuclei, the electromagnetic
-interactions the atoms and molecules, and the gravitational
-interactions the planets, stars and galaxies. The weak inter-
-actions manifest themselves only in certain kinds of particle
-collisions and in particle decays, such as the beta decay
-mentioned earlier.
-All interactions between hadrons are mediated by the
-exchange of other hadrons. It is these exchanges of massive
-particles that cause the strong interactions to have such a
-short range.* They extend only over a distance of a few particle
-sizes and can therefore never build up a macroscopic force.
-Strong interactions are thus not experienced in the everyday
+
+The leptons are involved in the fourth type of interactions, the weak interactions. These are so weak, and have such a
+short range, that they cannot hold anything together, whereas the other three give rise to binding forces-the strong inter-
+actions holding together the atomic nuclei, the electromagnetic interactions the atoms and molecules, and the gravitational
+interactions the planets, stars and galaxies. The weak interactions manifest themselves only in certain kinds of particle
+collisions and in particle decays, such as the beta decay mentioned earlier.
+
+All interactions between hadrons are mediated by the exchange of other hadrons. It is these exchanges of massive particles that cause the strong interactions to have such a short range.* They extend only over a distance of a few particle sizes and can therefore never build up a macroscopic force.
+
+Strong interactions are thus not experienced in the everyday world. The electromagnetic interactions, on the other hand,
+are mediated by the exchange of massless photons and thus their range is indefinitely long,* which is why the electric and
+magnetic forces are encountered in the large-scale world. 
+
+The gravitational interactions, too, are believed to be mediated by a massless particle, called the ‘graviton’, but- they are so weak that it has not yet been possible to observe the graviton, although there is no serious reason to doubt its existence.
+The weak interactions, finally, have an extremely short range -much shorter than that of the strong interactions-and are
+therefore assumed to be produced by the exchange of a very heavy particle, called the ‘W-meson’. This hypothetical particle
+is believed to play a role analogous to that of the photon in the electromagnetic interactions, except for its large mass. This
+analogy is, in fact, the basis of the most recent developments in field theory in which the formulation of a unified theory of
+electromagnetic and weak interactions is attempted. 
 
 
-world. The electromagnetic interactions, on the other hand,
-are mediated by the exchange of massless photons and thus
-their range is indefinitely long,* which is why the electric and
-magnetic forces are encountered in the large-scale world.
-The gravitational interactions, too, are believed to be mediated
-by a massless particle, called the ‘graviton’, but- they are so
-weak that it has not yet been possible to observe the graviton,
-although there is no serious reason to doubt its existence.
-The weak interactions, finally, have an extremely short range
--much shorter than that of the strong interactions-and are
-therefore assumed to be produced by the exchange of a very
-heavy particle, called the ‘W-meson’. This hypothetical particle
-is believed to play a role analogous to that of the photon in the
-electromagnetic interactions, except for its large mass. This
-analogy is, in fact, the basis of the most recent developments
-in field theory in which the formulation of a unified theory of
-electromagnetic and weak interactions is attempted.
+In many of the collision processes of high-energy physics, the strong, electromagnetic and weak interactions combine to produce an intricate sequence of events. The initial colliding particles are often destroyed, and several new particles are created which either undergo further collisions or decay, sometimes in several steps, into the stable particles which finally remain. The picture opposite shows a bubble-chamber photograph* of such a sequence of creation and destruction. 
 
-In many of the collision processes of high-energy physics,
-the strong, electromagnetic and weak interactions combine to
-produce an intricate sequence of events. The initial colliding
-particles are often destroyed, and several new particles are
-created which either undergo further collisions or decay,
-sometimes in several steps, into the stable particles which
-finally remain. The picture opposite shows a bubble-chamber
-photograph* of such a sequence of creation and destruction.
-It is an impressive illustration of the mutability of matter at
-the particle level, showing a cascade of energy in which various
-patterns, or particles, are formed and dissolved.
+It is an impressive illustration of the mutability of matter at the particle level, showing a cascade of energy in which various patterns, or particles, are formed and dissolved.
 
 Opposite and above
-An intricate sequence of particle collisions and decays: a negative pion (a-1,
-coming in from the left, collides with a proton-i.e. with the nucleus of a hydrogen
-atom-‘sitting’ in the bubble chamber; both particles are annihilated. and a
+
+An intricate sequence of particle collisions and decays: a negative pion (a-1, coming in from the left, collides with a proton-i.e. with the nucleus of a hydrogen atom-‘sitting’ in the bubble chamber; both particles are annihilated. and a
 neutron (n) plus two kaons (K- and K+) are created; the neutron flies off without
 leaving a track; the K- collides with another proton in the chamber, the two
 particles annihilating each other and creating a lambda (AI and a photon (7).

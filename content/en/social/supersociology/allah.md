@@ -1,6 +1,6 @@
 ---
 title: "Where is 'Allah'?"
-heading: "The US is the new 'God' or Superpower"
+heading: "The US is the new 'God' or Superpower (under the Enlil vibe or pattern)"
 date: 2024-01-15
 image: "/photos/medieval/mosque.jpg"
 description: "At the 100th day of the Gaza war, Muslims are asking: Where is the 'Allah'?"

@@ -19,15 +19,12 @@ Reality is made up of waves | Waves are either a flow or an identity
 
 
 
-{{< youtube eEGJY4F6QKw >}}
-
 
 Superphysics is based on waves because the universe is made up of waves.
 
 A wave can be seen either:
 - as a flow or
 - as an identity
-
 
 As a flow, we call it energy which can manifest as:
 - heat
@@ -49,10 +46,20 @@ Spread | 2nd law (entropy) | Traders | 4th Law
 Measure or Range | 3rd law (zero energy) | Worker | 1st Law
 
 
+{{< youtube eEGJY4F6QKw >}}
+
+
+- The 3rd law of thermodynamics (1st law to Superphysics) is the wave having a base.
+- The 1st law of thermodynamics (2nd law to Superphysics) is the wave maintaining its wave-ness instead of fizzling out. This leads to our perceptions (and matter) persisting instead of vanishing instantly
+- The 0th law of thermodynamics (3rd law to Superphysics) is the wave having regular wavelengths instead of random. This is consistent with the previous law. 
+- The 2nd law of thermodynamics (4th law to Superphysics) is the wave going forward. This creates the concept of linear time or perceptions coming at a sequence. 
+
+While the 2nd and 1st law of thermodynamics refer to the external aspects of the wave, the 3rd and 0th laws refer to the internal aspects. 
+
+In Superphysics, the internals are the cause of the externals and so the internals are more important. In Social Superphysics, this is why the Intellectual (Thinking) and Working classes are more important than the Business (Trading) and Warrior Classes.
+
 
 ### Waves as Sound The Octave vs the Pentatonic Scale
-
-
 
 The ancients classified these waves into 5 depending on their shapes (which represent their frequency) which will be discussed in full in the next chapter.
 

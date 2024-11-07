@@ -1,126 +1,82 @@
-The subatomic world is one of rhythm, movement and con-
-tinual change. It is not, however, arbitrary and chaotic, but
-follows very definite and clear patterns. To begin with, all
-particles of a given kind are completely identical; they have
-exactly the same mass, electric charge, and other characteristic
-properties. Furthermore, all charged particles carry electric
-charges exactly equal (or opposite) to that of the electron, or
-charges of exactly twicethat amount. The same is true of other
-quantities that are characteristic attributes of the particles;
-they do not take arbitrary values but are restricted to a limited
-number, which allows us to arrange the particles into a few
-distinct groups, or ‘families’. This leads to the question of how
-these definite patterns arise in the dynamic and ever-changing
-particle world,
-The emergence of clear patterns in the structure of matter
-is not a new phenomenon, but was already observed in the
-world of atoms. Like subatomic particles, atoms of a given
-kind are completely identical and the different kinds of atoms,
-of chemical elements, have been arranged into several groups
-in the periodic table. This classification is now well understood;
-it is based on the number of protons and neutrons present in
-the atomic nuclei and on the distribution of the electrons in
-spherical orbits, or ‘shells’, around the nuclei. As discussed
-previously,* the wave nature of the electrons restricts the
-mutual distance of their orbits and the amount of rotation an
+---
+title: "The Phenomenon of Waves"
+weight: 22
+description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
+image: "/covers/taophysics.jpg"
+---
+
+
+
+The subatomic world is one of rhythm, movement and continual change. It is not, however, arbitrary and chaotic, but
+follows very definite and clear patterns. 
+
+To begin with, all particles of a given kind are completely identical; they have xactly the same mass, electric charge, and other characteristic properties. Furthermore, all charged particles carry electric charges exactly equal (or opposite) to that of the electron, or charges of exactly twicethat amount. 
+
+The same is true of other quantities that are characteristic attributes of the particles;
+they do not take arbitrary values but are restricted to a limited number, which allows us to arrange the particles into a few distinct groups, or ‘families’. This leads to the question of how these definite patterns arise in the dynamic and ever-changing particle world, 
+
+
+The emergence of clear patterns in the structure of matter is not a new phenomenon, but was already observed in the
+world of atoms. Like subatomic particles, atoms of a given kind are completely identical and the different kinds of atoms,
+of chemical elements, have been arranged into several groups in the periodic table. This classification is now well understood;
+it is based on the number of protons and neutrons present in the atomic nuclei and on the distribution of the electrons in
+spherical orbits, or ‘shells’, around the nuclei. 
+
+The wave nature of the electrons restricts the mutual distance of their orbits and the amount of rotation an
 electron can have in a given orbit to a few definite values
 corresponding to specific vibrations of the electron waves.
 
-Consequently, definite patterns arise in the atomic structure
-which are characterized by a set of integral ‘quantum numbers’
-and reflect the vibration patterns of the electron waves in their
-atomic orbits. These vibrations determine the ‘quantum states’
-of an atom and ascertain that any two atoms will be completely
-identical when they are both in their ‘ground state’ or in the
-same ‘excited state’.
-The patterns in the particle world show great similarities to
-those in the world of atoms. Most particles, for example, spin
-about an axis like a top. Their spins are restricted to definite
-values which are integral multiples of some basic unit. Thus the
-baryons can only have spins of l/2, 3/2, 5/2, etc., whereas the
-mesons have spins of 0, 1, 2, etc. This is strongly reminiscent of
-the amounts of rotation electrons are known to display in their
-atomic orbits, which are also restricted to definite values
-specified by integral numbers.
-The analogy to the atomic patterns is further enforced by
-the fact that all strongly interacting particles, or hadrons, seem
-to fall into sequences whose members have identical properties
-except for their masses and spins. The higher members of these
-sequences are the extremely short-lived particles called
-‘resonances’ which have been discovered in great numbers
-over the past decade. The masses and spins of the resonances
-increase in a well-defined way within each sequence, which
-seem to extend indefinitely. These regularities suggest an
-analogy to the excited states of atoms and have led physicists
+Consequently, definite patterns arise in the atomic structure which are characterized by a set of integral ‘quantum numbers’
+and reflect the vibration patterns of the electron waves in their atomic orbits. These vibrations determine the ‘quantum states’ of an atom and ascertain that any two atoms will be completely identical when they are both in their ‘ground state’ or in the same ‘excited state’.
+
+The patterns in the particle world show great similarities to those in the world of atoms. Most particles, for example, spin
+about an axis like a top. Their spins are restricted to definite values which are integral multiples of some basic unit. Thus the baryons can only have spins of l/2, 3/2, 5/2, etc., whereas the mesons have spins of 0, 1, 2, etc. This is strongly reminiscent of the amounts of rotation electrons are known to display in their atomic orbits, which are also restricted to definite values specified by integral numbers.
+
+The analogy to the atomic patterns is further enforced by the fact that all strongly interacting particles, or hadrons, seem
+to fall into sequences whose members have identical properties except for their masses and spins. The higher members of these
+sequences are the extremely short-lived particles called ‘resonances’ which have been discovered in great numbers
+over the past decade. The masses and spins of the resonances increase in a well-defined way within each sequence, which
+seem to extend indefinitely. 
+
+These regularities suggest an analogy to the excited states of atoms and have led physicists
 to see the higher members of a hadron sequence not as different
 particles, but merely as excited states of the member with the
 lowest mass. Like an atom, a hadron can thus exist in various
 short-lived excited states involving higher amounts of rotation
 (or spin) and energy (or mass).
-The similarities between the quantum states of atoms and
-hadrons suggest that hadrons, too, are composite objects with
-internal structures that are capable of being ‘excited, that is,
-of absorbing energy to form a variety of patterns. At present,
-however, we do not understand how these patterns are formed.
-In atomic physics, they can be explained in terms of the
-properties and mutual interactions of the atom’s constituents
-(the protons, neutrons and electrons), but in particle physics
-such an explanation has not yet been possible. The patterns
 
+The similarities between the quantum states of atoms and hadrons suggest that hadrons, too, are composite objects with
+internal structures that are capable of being ‘excited, that is, of absorbing energy to form a variety of patterns. At present,
+however, we do not understand how these patterns are formed. 
 
-found in the particle world have been determined and classified
-in a purely empirical way and cannot yet be derived from the
-details of the particles’ structure.
-The essential difficulty particle physicists have to face lies in
-the fact that the classical notion of composite ‘objects’ con-
-sisting of a definite set of ‘constituent parts’ cannot be applied
-to subatomic particles. The only way to find out what the
-‘constituents’ of these particles are is to break them up by
-banging them together in collision processes involving high
-energies. When this is done, however, the resulting fragments
-are never ‘smaller pieces’ of the original particles. Two protons,
-for example, can break up into a great variety of fragments
-when they collide with high velocities, but there will never be
-‘fractions of a proton’ among them. The fragments will always
-be entire hadrons which are formed out of the kinetic energies
-and masses of the colliding protons. The decomposition of a
-particle into its ‘constituents’ is thus far from being definite,
-depending, as it does, on the energy involved in the collision
-process. We are dealing here with a crucially relativistic situation
-where dynamic energy patterns are dissolved and rearranged,
-and the static concepts of composite objects and constituent
-parts cannot be applied to these patterns. The ‘structure’ of a
-subatomic particle can only be understood in a dynamic
-sense; in terms of processes and interactions.
-The way in which particles break up into fragments in col-
-lision processes is determined by certain rules, and as the
-fragments are again particles of the same kind, these rules can
-also be used to describe the regularities which can be observed
-in the particle world. In the ‘sixties, when most of the presently
-known particles were discovered and ‘families’ of particles
-began to appear, most physicists-quite naturally-con-
-centrated their efforts on mapping out the emerging regularities,
-rather than tackling the arduous problem of finding the dynamic
-causes of the particle patterns. And in doing so, they were very
-successful.
-The notion of symmetry played an important role in this
-research. By generalizing the common concept of symmetry
-and giving it a more abstract meaning, physicists were able to
-develop it into a powerful tool which proved extremely useful
-in the classification of particles. In everyday life, the most
+In atomic physics, they can be explained in terms of the properties and mutual interactions of the atom’s constituents
+(the protons, neutrons and electrons), but in particle physics such an explanation has not yet been possible. The patterns found in the particle world have been determined and classified in a purely empirical way and cannot yet be derived from the
+details of the particles’ structure. 
 
+The essential difficulty particle physicists have to face lies in the fact that the classical notion of composite ‘objects’ consisting of a definite set of ‘constituent parts’ cannot be applied to subatomic particles. The only way to find out what the
+‘constituents’ of these particles are is to break them up by banging them together in collision processes involving high
+energies. 
 
-common case of symmetry is associated with mirror reflection;
-a figure is said to be symmetric when you can draw a line
-through it and thereby divide it into two parts which are exact
-mirror images of each other. Higher degrees of symmetry are
-exhibited by patterns which allow several lines of symmetry
-to be drawn, like the following pattern used in Buddhist
-symbolism.
+When this is done, however, the resulting fragments are never ‘smaller pieces’ of the original particles. Two protons, for example, can break up into a great variety of fragments when they collide with high velocities, but there will never be
+‘fractions of a proton’ among them. The fragments will always be entire hadrons which are formed out of the kinetic energies
+and masses of the colliding protons. The decomposition of a particle into its ‘constituents’ is thus far from being definite,
+depending, as it does, on the energy involved in the collision process. We are dealing here with a crucially relativistic situation where dynamic energy patterns are dissolved and rearranged, and the static concepts of composite objects and constituent parts cannot be applied to these patterns.
 
+The ‘structure’ of a subatomic particle can only be understood in a dynamic
+sense; in terms of processes and interactions. 
 
-Reflection, however, is not the only operation associated with
-symmetry. A figure is also said to be symmetric if it looks the
+The way in which particles break up into fragments in collision processes is determined by certain rules, and as the
+fragments are again particles of the same kind, these rules can also be used to describe the regularities which can be observed
+in the particle world. In the ‘sixties, when most of the presently known particles were discovered and ‘families’ of particles
+began to appear, most physicists-quite naturally-concentrated their efforts on mapping out the emerging regularities,
+rather than tackling the arduous problem of finding the dynamic causes of the particle patterns. And in doing so, they were very successful.
+
+The notion of symmetry played an important role in this research. By generalizing the common concept of symmetry and giving it a more abstract meaning, physicists were able to develop it into a powerful tool which proved extremely useful in the classification of particles. In everyday life, the most common case of symmetry is associated with mirror reflection;
+a figure is said to be symmetric when you can draw a line through it and thereby divide it into two parts which are exact
+mirror images of each other. Higher degrees of symmetry are exhibited by patterns which allow several lines of symmetry
+to be drawn, like the following pattern used in Buddhist symbolism.
+
+Reflection, however, is not the only operation associated with symmetry. A figure is also said to be symmetric if it looks the
 
 same after it has been rotated through a certain angle. The
 shape of the Chinese yin-yang diagram, for example, is based
@@ -319,39 +275,16 @@ was identified with beauty, harmony and perfection. Thus the
 Pythagoreans regarded symmetric number patterns as the
 essence of all things; Plato believed that the atoms of the four
 elements had the shapes of regular solids, and most Greek
-astronomers thought that the heavenly bodies moved in
-circles because the circle was the geometrical figure with the
-highest degree of symmetry.
-The attitude of Eastern philosophy with regard to symmetry
-is in striking contrast to that of the ancient Greeks. Mystical
-traditions in the Far East frequently use symmetric patterns as
-symbols or as meditation devices, but the concept of symmetry
-does not seem to play any major role in their philosophy. Like
-geometry, it is thought to be a construct of the mind, rather
-than a property of nature, and thus of no fundamental im-
-portance. Accordingly, many Eastern art forms have a striking
-predilection for asymmetry and often avoid all regular or geo-
-metrical shapes. The Zen-inspired paintings of China and Japan,
-often executed in the so-called ‘one-corner’ style, or the
-irregular arrangements of flagstones in Japanese gardens clearly
-illustrate this aspect of Far-Eastern culture.
-It would seem, then, that the search for fundamental sym-
-metries in particle physics is part of our Hellenic heritage which
-is, somehow, inconsistent with the general world view that
-begins to emerge from modern science. The emphasis on
-symmetry, however, is not the only aspect of particle physics.
-In contrast to the ‘static’ symmetry approach, there has always
+astronomers thought that the heavenly bodies moved in circles because the circle was the geometrical figure with the highest degree of symmetry.
 
+The attitude of Eastern philosophy with regard to symmetry is in striking contrast to that of the ancient Greeks. 
 
-been a ‘dynamic’ school of thought which does not regard the
-particle patterns as fundamental features of nature, but attempts
-to understand them as a consequence of the dynamic nature
-and essential interrelation of the subatomic world. The re-
-maining two chapters show how this school of thought has
-given rise, in the past decade, to a radically different view of
+Mystical traditions in the Far East frequently use symmetric patterns as symbols or as meditation devices, but the concept of symmetry does not seem to play any major role in their philosophy. Like geometry, it is thought to be a construct of the mind, rather than a property of nature, and thus of no fundamental importance. 
 
-symmetries and laws of nature which is in harmony with the
+Accordingly, many Eastern art forms have a striking predilection for asymmetry and often avoid all regular or geometrical shapes. The Zen-inspired paintings of China and Japan, often executed in the so-called ‘one-corner’ style, or the irregular arrangements of flagstones in Japanese gardens clearly illustrate this aspect of Far-Eastern culture.
+
+It would seem, then, that the search for fundamental symmetries in particle physics is part of our Hellenic heritage which is, somehow, inconsistent with the general world view that begins to emerge from modern science. The emphasis on symmetry, however, is not the only aspect of particle physics.
+
+In contrast to the ‘static’ symmetry approach, there has always been a ‘dynamic’ school of thought which does not regard the particle patterns as fundamental features of nature, but attempts to understand them as a consequence of the dynamic nature and essential interrelation of the subatomic world. The remaining two chapters show how this school of thought has given rise, in the past decade, to a radically different view of symmetries and laws of nature which is in harmony with the
 world view of modern physics described so far and which is in
 perfect agreement with Eastern philosophy.
-
-
