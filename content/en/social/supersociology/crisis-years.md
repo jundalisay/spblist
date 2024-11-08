@@ -102,12 +102,17 @@ This is consistent with:
 - World War 1 curing the problems with the late 19th century industrialization (Carnegie, Morgan)
 - World War 2 curing the problems caused by the Roaring 20s (Wall Street)
 
+
+{{< youtube -KSryJXDpZo >}}
+
+{{< cap >}} As a monkey-based species, war and conflict is the natural solution of humans to injustice whether political or economic. Note that the greed and jealousy which creates crises in the first place are also monkey-based propensities since we do not see cats and dogs fighting over objects. {{< /cap >}}
+
+
 Those wars were justified by the leaders of the weakening power wanting to be great again against the rising power:
 - The Hapsburgs wanted to be great again and so did a Seven Years War under France against the British
 - The Germans, via the Kaiser and Hitler, wanted to be great again like Bismarck and so did 2 world wars against the British
 
 {{< i s="/photos/medieval/hitler.jpg" a="Hitler" c="Hitler's whole propaganda was about making Germany great again" >}}
-
 
 
 

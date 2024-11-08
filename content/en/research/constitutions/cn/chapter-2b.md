@@ -8,7 +8,7 @@ icon: "/flags/cn.png"
 ---
 
 
-Article 79 
+### Article 79 
 
 The president and the vice president of the PRC shall be elected by the NPC.
 
@@ -16,15 +16,24 @@ Citizens of the PRC who have the right to vote and stand for election and who ha
 
 The president and the vice president of the PRC shall have the same term of office as that of the NPC.
 
-Article 80 
 
-The president of the PRC, pursuant to decisions of the NPC and the NPC Standing Committee, promulgates laws, appoints or removes the premier, vice premiers, state councilors, ministers of ministries, ministers of commissions, the auditor general and the secretary general of the State Council, confers national medals and titles of honor, issues orders of special pardon, declares a state of emergency, declares a state of war, and issues mobilization orders.
+### Article 80 
 
-Article 81 
+The president of the PRC, pursuant to decisions of the NPC and the NPC Standing Committee:
+- promulgates laws
+- appoints or removes the premier, vice premiers, state councilors, ministers of ministries, ministers of commissions, the auditor general and the secretary general of the State Council
+- confers national medals and titles of honor
+- issues orders of special pardon
+- declares a state of emergency or a state of war
+- issues mobilization orders.
 
-The president of the PRC engages in affairs of state and receives foreign diplomatic envoyson behalf of the PRC and, pursuant to decisions of the NPC Standing Committee, appoints or recalls plenipotentiary representatives abroad and ratifies or abrogates treaties and important agreements concluded with foreign countries.
 
-Article 82
+### Article 81 
+
+The president of the PRC engages in affairs of state and receives foreign diplomatic envoys on behalf of the PRC and, pursuant to decisions of the NPC Standing Committee, appoints or recalls plenipotentiary representatives abroad and ratifies or abrogates treaties and important agreements concluded with foreign countries.
+
+
+### Article 82
 
 The vice president of the PRC shall assist the president in his or her work.
 

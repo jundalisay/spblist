@@ -87,7 +87,8 @@ Article 66 Each NPC Standing Committee shall have the same term of office as tha
 
 The chairperson and vice chairpersons of the Standing Committee shall serve no more than two consecutive terms.
 
-Article 67
+
+### Article 67
 
 The NPC Standing Committee shall exercise the following functions and powers:
 
@@ -114,7 +115,9 @@ The NPC Standing Committee shall exercise the following functions and powers:
 21. deciding on entering a state of emergency nationwide or in particular provinces, autonomous regions or cities directly under central government jurisdiction; and
 22. other functions and powers accorded to it by the NPC.
 
-Article 68 
+
+
+### Article 68 
 
 The NPC Standing Committee chairperson shall:
 - preside over the work of the NPC Standing Committee

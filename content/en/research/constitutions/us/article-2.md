@@ -17,7 +17,7 @@ He shall hold his Office for 4 Years, together with the Vice President, chosen f
 <!-- , in such Manner as the Legislature thereof may direct, -->
 Each State shall appoint a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress.
 
-But no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector. 
+But no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.
 
 The Electors shall meet in their respective States, and vote by Ballot for 2 Persons, of whom one at least shall not be an Inhabitant of the same State with themselves.
 
@@ -55,7 +55,9 @@ The Congress may determine the:
 
 No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of 35 Years, and been 14 Years a Resident within the United States. 
 
-In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected. 
+In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President. 
+
+The Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President. It will declare what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President be elected.
 
 The President shall receive Compensation for his Services. This shall neither be encreased nor diminished during the Period for which he shall have been elected. 
 
@@ -74,9 +76,11 @@ He may require the Opinion, in writing, of the principal Officer in each of the 
 
 He shall have Power to grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.
 
-He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur.
+He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided 2/3 of the Senators present concur.
 
-He shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments. 
+He shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law.
+
+But the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments. 
 
 The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session. 
 
@@ -99,4 +103,3 @@ He shall take Care that the Laws be faithfully executed, and shall Commission al
 ### Section. 4
 
 The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors. 
-

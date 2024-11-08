@@ -11,35 +11,40 @@ icon: /icons/newton.png
 
 ### Samuels Books: Pentateuch, Joshua, Judges
 
-The history hath been collected from several books, such as:
+The history had been collected from several books, such as:
 - the history of the Creation composed by Moses, Gen. ii. 4
 - the book of the generations of Adam, Gen. v. i
 - the book of the wars of the Lord, Num. xxi. 14. 
+
 
 This book of wars contained what was done at the Red-sea, and in the journeying of Israel through the Wilderness, and therefore was begun by Moses. Joshua carried it on to the conquest of Canaan. 
 
 Joshua wrote some things in the book of the Law of God, Josh. xxiv. 26. 
 
-Therefore might write his own wars in the book of wars, those being the principal wars of God. 
+Therefore, he might write his own wars in the book of wars, those being the principal wars of God. 
 
-These were public books, and therefore not written without the authority of Moses and Joshua. 
+These were public books, and therefore written with the authority of Moses and Joshua. 
 
 
-Samuel had leisure in the reign of Saul, to put them into the form of the books of Moses and Joshua now extant, inserting into the book of Genesis, the race of the Kings of Edom, until there reigned a King in Israel.
+Samuel had leisure in the reign of Saul to put them into the form of the books of Moses and Joshua now extant. He inserted into the book of Genesis, the race of the Kings of Edom, until there reigned a King in Israel.
 
-The book of the Judges is a continued history of the Judges down to the death of Sampson, and therefore was compiled after his death, out of the Acts of the Judges.
+The book of the Judges is a continued history of the Judges down to the death of Sampson. Therefore, it was compiled after his death, out of the Acts of the Judges.
 
 Several things in this book are said to be done when there was no King in Israel, Judg. xvii. 6. xviii. 1. xix. 1. xxi. 25.
 
 Therefore this book was written after the beginning of the reign of Saul. 
 
-When it was written, the Jebusites dwelt in Jerusalem, Jud. i. 21 and therefore it was written before the eighth year of David, 2 Sam. v. 8. and 1 Chron. xi. 6. The books of Moses, Joshua, and Judges, contain one continued history, down from the Creation to the death of Sampson.
+When it was written, the Jebusites dwelt in Jerusalem, Jud. i. 21. 
+
+Therefore, it was written before the 8th year of David, 2 Sam. v. 8. and 1 Chron. xi. 6.
+
+The books of Moses, Joshua, and Judges, contain one continued history, down from the Creation to the death of Sampson.
 
 **Where the Pentateuch ends, the book of Joshua begins. Where the book of Joshua ends, the book of Judges begins.** 
 
-Therefore all these books have been composed out of the writings of Moses, Joshua, and other records, by one and the same hand, after the beginning of the reign of Saul, and before the 8th year of David. 
+Therefore all these books have been composed out of the writings of Moses, Joshua, and other records, by one and the same hand, after the beginning of the reign of Saul, and before the 8th year of David.
 
-Samuel was a sacred writer, 1 Sam. x. 25. acquainted with the history of Moses and the Judges, 1 Sam. xii. 8, 9, 10, 11, 12. and had leisure in the reign of Saul, and sufficient authority to compose these books. 
+Samuel was a sacred writer, 1 Sam. x. 25. acquainted with the history of Moses and the Judges, 1 Sam. xii. 8, 9, 10, 11, 12. He had leisure in the reign of Saul, and sufficient authority to compose these books. 
 
 He was a Prophet, and judged Israel all the days of his life, and was in the greatest esteem with the people.
 
@@ -49,7 +54,9 @@ The book of Jasher, which is quoted in the book of Joshua, Josh. x. 13. was in b
 
 At the dedication of the Temple of Solomon, when the Ark was brought into the most holy place, there was nothing in it but the two tables, 1 Kings viii. 9.
 
-Therefore when the Philistines took the Ark, they took out of it the book of the Law, and the golden pot of Manna, and Aaron's Rod. This and other losses in the desolation of Israel, by the conquering Philistines, allowed Samuel to recollect and rewrite the scattered writings of:
+Therefore when the Philistines took the Ark, they took out of it the book of the Law, and the golden pot of Manna, and Aaron's Rod. 
+
+This and other losses in the desolation of Israel, by the conquering Philistines, allowed Samuel to recollect and rewrite the scattered writings of:
 - Moses and Joshua
 - the records of the Patriarchs and Judges
 
@@ -65,42 +72,74 @@ It proceeds not to the history of David, and therefore seems to have been writte
 
 Samuel is also the author of the first book of Samuel, till the time of his death.
 
-The two books of Samuel cite no authors, and therefore seem to be originals. 
+
+The 2 books of Samuel cite no authors, and therefore seem to be originals. 
 
 They begin with his genealogy, birth and education, and might be written partly in his lifetime by himself or his disciples the Prophets at Naioth in Ramah, 1 Sam. xix. 18, 19, 20. and partly after his death by the same disciples.
 
-The books of the Kings cite other authors, as the book of the Acts of Solomon, the book of the Chronicles of the Kings of Israel, and the book of the Chronicles of the Kings of Judah. 
+
+The following books cite other authors:
+- The Kings
+- The Acts of Solomon
+- The Chronicles of the Kings of Israel
+- The Chronicles of the Kings of Judah. 
 
 The books of the Chronicles cite the book of Samuel the Seer, the book of Nathan the Prophet, and the book of Gad the Seer, for the Acts of David; 
 
 the book of Nathan the Prophet, the Prophecy of Ahijah the Shilonite, and the visions of Iddo the Seer, for the Acts of Solomon; 
 
-the book of Shemajah the Prophet, and the book of Iddo the Seer concerning genealogies, for the Acts of Rehoboam and Abijah; the book of the Kings of Judah and Israel for the Acts of Asa, Joash, Amaziah, Jotham, Ahaz, Hezekiah, Manasseh, and Josiah; the book of Hanani the Seer, for the Acts of Jehosaphat
+the book of Shemajah the Prophet, and the book of Iddo the Seer concerning genealogies, for the Acts of Rehoboam and Abijah; 
+
+the book of the Kings of Judah and Israel for the Acts of Asa, Joash, Amaziah, Jotham, Ahaz, Hezekiah, Manasseh, and Josiah; 
+
+the book of Hanani the Seer, for the Acts of Jehosaphat
 
 The visions of Isaiah for the Acts of Uzziah and Hezekiah. 
 
-These books were therefore collected out of the historical writings of the antient Seers and Prophets.
+These books were therefore collected out of the historical writings of the ancient Seers and Prophets.
 
 The books of the Kings and Chronicles quote one another. It means they were written at one and the same time.
 
 This time was after the return from the Babylonian captivity, because they bring down the history of Judah, and the genealogies of the Kings of Judah, and of the High Priests, to that captivity.
 
 
-## Ezra
+## Ezra: Kings and Chronicles
 
 The book of Ezra was originally a part of the book of the Chronicles, and has been divided from it.
 
 It begins with the two last verses of the books of Chronicles, and the first book of Esdras begins with the two last chapters thereof. 
 
-Ezra was therefore the compiler of the books of Kings and Chronicles, and brought down the history to his own time. He was a ready Scribe in the Law of God; and for assisting him in this work Nehemias founded a library, and gathered together the Acts of the Kings and the Prophets, and of David, and the Epistles of the Kings, concerning the holy gifts, 2 Maccab. ii. 13. By the Acts of David I understand here the two books of Samuel, or at least the second book. 
+Ezra was therefore the compiler of the books of Kings and Chronicles. 
 
-Out of the Acts of the Kings, written from time to time by the Prophets, he compos'd the books of the Kings of Judah and Israel, the Chronicles of the Kings of Judah, and the Chronicles of the Kings of Israel. And in doing this he joined those Acts together, in due order of time, copying the very words of the authors, as is manifest from hence, that the books of the Kings and Chronicles frequently agree with one another in words for many sentences together. Where they agree in sense, there they agree in words also.
+He brought down the history to his own time. He was a ready Scribe in the Law of God. 
 
-So the Prophecies of Isaiah, written at several times, he has collected into one body. And the like he did for those of Jeremiah, and the rest of the Prophets, down to the days of the second Temple. The book of Jonah is the history of Jonah written by another hand. The book of Daniel is a collection of papers written at several times.
+Nehemias:
+- founded a library to assist him in this work
+- gathered together:
+  - the Acts of the Kings and the Prophets, and of David
+  - the Epistles of the Kings, concerning the holy gifts, 2 Maccab. ii. 13. 
+
+By the Acts of David I understand here the two books of Samuel, or at least the second book. 
+
+Out of the Acts of the Kings, written from time to time by the Prophets, he composed the books of the Kings of Judah and Israel, the Chronicles of the Kings of Judah, and the Chronicles of the Kings of Israel. 
+
+In doing this he joined those Acts together, in due order of time, copying the very words of the authors, as is manifest from hence, that the books of the Kings and Chronicles frequently agree with one another in words for many sentences together. 
+
+Where they agree in sense, there they agree in words also.
+
+So the Prophecies of Isaiah, written at several times, he has collected into one body. 
+
+The like he did for those of Jeremiah, and the rest of the Prophets, down to the days of the second Temple. 
+
+The book of Jonah is the history of Jonah written by another hand. The book of Daniel is a collection of papers written at several times.
 
 The 6 last chapters contain Prophecies written at several times by Daniel himself: the six first are a collection of historical papers written by others. 
 
-The fourth chapter is a decree of Nebuchadnezzar. The first chapter was written after Daniel's death: for the author saith, that Daniel continued to the first year of Cyrus; that is, to his first year over the Persians and Medes, and third year over Babylon. And, for the same reason, the fifth and sixth chapters were also written after his death. For they end with these words: So this Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian. Yet these words might be added by the collector of the papers, whom I take to be Ezra.
+The fourth chapter is a decree of Nebuchadnezzar. The first chapter was written after Daniel's death: for the author saith, that Daniel continued to the first year of Cyrus; that is, to his first year over the Persians and Medes, and third year over Babylon. 
+
+For the same reason, the fifth and sixth chapters were also written after his death. For they end with these words: So this Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian. 
+
+Yet these words might be added by the collector of the papers, whom I take to be Ezra.
 
 The Psalms composed by Moses, David, and others were collected by Ezra into one volume.
 
@@ -160,7 +199,7 @@ Their writings contain the covenant between God and his people, with instruction
 
 The predictions of things to come relate to the state of the Church in all ages: and amongst the old Prophets, Daniel is most distinct in order of time, and easiest to be understood: and therefore in those things which relate to the last times, he must be made the key to the rest.
 
-
+<!-- 
 ### Notes to Chap. I.
 
 [1] 2 Chron. xxxiii. 5, 6, 7.
@@ -178,5 +217,4 @@ The predictions of things to come relate to the state of the Church in all ages:
 [7] 2 Kings xvii. 34, 41.
 
 [8] Gen. xxxvi. 31.
-
-
+ -->

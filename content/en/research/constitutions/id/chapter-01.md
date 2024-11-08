@@ -182,7 +182,8 @@ Article 13
 <!-- Head of state powers
  -->
 
-Article 14
+### Article 14
+
 1. The President may grant clemency and restoration of rights and shall in so doing have regard to the opinion of the Supreme Court.
 2. The President may grant amnesty and the dropping of charges and shall in so doing have regard to the opinion of the DPR.
 
@@ -196,8 +197,7 @@ The President may grant titles, decorations and other honours as provided by law
 <!-- Advisory bodies to the head of state -->
 
 
-Article 16
+### Article 16
 
-The President shall establish an advisory council with the duty of giving advice and
-considered opinion to the President, which shall be further regulated by law.
+The President shall establish an advisory council with the duty of giving advice and considered opinion to the President, which shall be further regulated by law.
 

@@ -162,8 +162,8 @@ It is the Negative Force that causes the reboot since it is static, crude, and m
 The solution is the Positive Force which manifests as moneyless systems, constitutional virtues, Republican Federalism (as opposed to both wild democracy and authoritarianism), a world language easier than English, Cartesian Physics, Spinoza's pantheism, etc. 
 {{< /dc >}}
 
-<!-- , Fascism, Bushido, and Communism -->
-<!-- , and Soviet society-organisms -->
+<!-- TRYING TO SHORTEN THIS POST  -->
+<!-- Fascism, Bushido, and Communism and Soviet society-organisms -->
 
 <!-- > *David Hume wrote that mentality creates reality. This means if your society BELIEVES in an apocalypse or a war to end all wars, then such a war will eventually HAPPEN because the soul of society created it as a probability in the metaphysical dimension, waiting for deployment in physical reality. This is currently the case in the Middle East where Jews and Muslims believe in an 'end of days'. Such end of days actually happen during airstrikes (by the West) or suicide attacks (by the Islamists). The simplest solution is to drop such a belief.   -->
 
@@ -175,8 +175,6 @@ Investment banks were already rich, but they wanted to be even richer so they in
 
 > *This is because Modern Economics has no concept of [Economic Balance](/social/economics/principles/part-4/chapter-01). The resulting crash or imbalance puts all profits to zero which then re-allows the possibility of high profits. When things are at the bottom, then there is no way but up. 
 
-
-
 ## Stagflation, Revolutions, and Conflict All Come From the Monkey Nature
 
 In the 1970's, those rich were:
@@ -185,7 +183,6 @@ In the 1970's, those rich were:
 
 The sudden wealth created inequality and inflation, which oppressed the poor the most. -->
 
-
 <!-- img src="https://sorasystem.sirv.com/photos/shah.jpeg" alt="Shah of Iran" cap="The Shah of Iran is a perfect example of inequality. He held a grand party for the historical anniversary of Persia which became fuel for the Iranian Revolution" >}}
 
 
@@ -193,21 +190,19 @@ The end effect depressions and stagflations are conflicts or wars, since they ar
 - The 1930's Depression was relieved by World War 2
 - The 1970's Stagflation was relieved by the Arab-Israeli conflict and by the global Communist insurgency.
 
-
 img src="https://i.ytimg.com/vi/LZoxXoD-az4/hqdefault.jpg" alt="Monkey Wars" >}}
-
 img src="https://cdn.cnn.com/cnnnext/dam/assets/150417131549-18-vietnam-war-timeline-super-169.jpg" alt="Vietnam War" >}}
 
-youtube -KSryJXDpZo >}}
-
-cap >}} As a monkey-based species, war and conflict is the natural solution of humans to injustice whether political or economic. Note that the greed and jealousy which creates crises in the first place are also monkey-based propensities since we do not see cats and dogs fighting over objects./cap >}} -->
+ -->
 
 
 {{< img src="https://sorasystem.sirv.com/photos/mischief600.jpg" alt="Mischief Reef base" cap="China is already rich but wants to be even richer and so it grabs islands and prepares for war. This will actually make it poorer." >}}
 
- <!-- The militarization of the Chinese and North Korean society-organisms (with their own ideas very different from the rest of the world) fits the model's prediction very well, as they are setting up for a future conflict -->
-<!-- {{< box >}} -->
-<!-- ![](/countries/us/trump.jpg) -->
+
+
+{{< dc t="Update: 2018 and Nov 2024 (click to expand)" >}}
+
+The militarization of the Chinese and North Korean society-organisms (with their own ideas very different from the rest of the world) fits the model's prediction very well, as they are setting up for a future conflict 
 
 <!-- ### Update 2018: 2008-2018 as Iteration 1, 2019-2030 as Iteration 2</h3>
 
@@ -217,7 +212,7 @@ Trump is proof that the mentality that created the 1929 Crash and the 2008 Finan
 
 If the mentality still exists, then it means the crisis patterns must also follow, which our model predicts to be stagflation sparking in 2019, gathering steam towards 2030, climaxing as conflict. -->
 
-<!-- {{< /box >}} -->
+{{< /dc >}}
 
 
 ## So what are the deeper implications of a Global Stagflation and War? A New Science!
