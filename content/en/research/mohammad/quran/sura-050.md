@@ -37,11 +37,11 @@ description: "They marveled that a warner has come to them from among them"
 
 <sup>19</sup> The daze of death has come in truth: “This is what you tried to evade.”
 
-20. And the Trumpet is blown: “This is the Promised Day.”
+<sup>20</sup> And the Trumpet is blown: “This is the Promised Day.”
 
-21. And every soul will come forward, accompanied by a driver and a witness.
+<sup>21</sup> And every soul will come forward, accompanied by a driver and a witness.
 
-22. “You were in neglect of this, so We lifted your screen from you, and your vision today is keen.”
+<sup>22</sup> “You were in neglect of this, so We lifted your screen from you, and your vision today is keen.”
 
 <sup>23</sup> His escort will say:
 

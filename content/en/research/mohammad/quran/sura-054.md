@@ -43,7 +43,9 @@ with water pouring down.
 28. And inform them that the water is to be shared between them; each share of drink made available.
 
 29. But they called their friend, and he dared, and he slaughtered.
+
 30. So how were My punishment and My warnings?
+
 31. We sent against them a single Scream, and they became like crushed hay.
 
 32. We made the Quran easy to understand. Is there anyone who would understand?

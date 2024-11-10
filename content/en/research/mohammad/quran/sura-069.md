@@ -8,6 +8,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 
 {{< s v="2" >}}  What is the Inevitable Reality?
+
 {{< s v="4" >}} The Thamood and Aad denied the Resurrection<!-- Catastrophe -->.
 - {{< s v="5" >}} The Thamood were annihilated by the Overwhelming.
 - {{< s v="6" >}} The Aad were annihilated by a furious, roaring wind.

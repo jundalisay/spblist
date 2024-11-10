@@ -21,8 +21,6 @@ Column II.
 Enkidu hath not [his equal] . . . unkempt is the hair . . .
 (Aye) he was born in the desert, and [no] one [his presence can equal].”
 
-p. 20
-
 (Enkidu’s sorrow at the loss of his Love).
 
 Enkidu (there) as he stood gave ear [to his utterance (?)], grieving

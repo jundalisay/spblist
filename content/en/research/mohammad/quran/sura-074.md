@@ -3,6 +3,7 @@ title: "The Enrobed (al-Muddathir)"
 heading: "Sura 74a "
 weight: 220
 image: "/covers/quran.jpg"
+draft: true
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -18,8 +19,12 @@ Purify your clothes.{{< s v="5" >}}  And abandon abominations.
 
 8. When{{< s v="9" >}}  That{{< s v="10" >}}  For
 the Trumpet is blown.
+
 Day will be a difficult day.
-the disbelievers—not easy.{{< s v="11" >}}  Leave
+
+the disbelievers—not easy.
+
+{{< s v="11" >}}  Leave
 Me to him whom I created alone.
 
 12. And gave him vast wealth.
@@ -77,18 +82,24 @@ By the moon.
 
 35. It
 warning to the mortals.
-To whomever among you wishes to ad-
-vance, or regress.
+
+To whomever among you wishes to advance, or regress.
+
 soul is hostage to what it has earned.
 for those on the Right.
 Gardens, inquiring.
+
 41. About
 the guilty.
+
 42. “What
 drove you into Saqar?”
+
 43. They will say, “We were not of those who
 prayed.
+
 44. Nor
+
 45. And did we feed the destitute.
 we used to indulge with those who indulge
 

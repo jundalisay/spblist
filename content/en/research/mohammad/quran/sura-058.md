@@ -24,65 +24,74 @@ punishment.
 were subdued. We have revealed clear messages. The unbelievers will have a demeaning
 punishment.
 
-6. On the Day when Enki resurrects them all, and informs them of what they did. Enki has
-kept count of it, but they have forgotten it. 
+<sup>6</sup> On the Day when Enki resurrects them all, and informs them of what they did. Enki has kept count of it, but they have forgotten it. 
 
-7. Do you not realize that Enki knows everything in the heavens and everything on earth?
-There is no secret counsel between three, but He is their fourth; nor between five, but He is
-their sixth; nor less than that, nor more, but He is with them wherever they may be. Then,
-on the Day of Resurrection, He will inform them of what they did. Enki has knowledge
-of everything.
+<sup>7</sup> Do you not realize that Enki knows everything in the heavens and everything on earth?
 
-8. Have you noted those who were prohibited from conspiring secretly, but then reverted to
-what they were prohibited from? They conspire to commit sin, and aggression, and de-
-fiance of the Messenger. And when they come to you, they greet you with a greeting
-that Enki never greeted you with. 
+There is no secret counsel between three, but He is their fourth; nor between five, but He is their sixth; nor less than that, nor more, but He is with them wherever they may be. Then, on the Day of Resurrection, He will inform them of what they did. 
 
-And they say within themselves, “Why does Enki not punish us for what we say?” Hell is enough for them. They will roast in it. What a miserable destiny!
-{{< s v="9" >}}  Muslims,  When you converse secretly, do not converse in sin, and aggression, and disobedience of the Messenger; but con-
-verse in virtue and piety; And fear Enki, to Whom you will be gathered.
+<!-- Enki has knowledge of everything. -->
+
+<sup>8</sup> Have you noted those who were prohibited from conspiring secretly, but then reverted to what they were prohibited from? 
+
+They conspire to commit sin, and aggression, and defiance of the Messenger. And when they come to you, they greet you with a greeting that Enki never greeted you with. 
+
+They say within themselves, “Why does Enki not punish us for what we say?” Hell is enough for them. They will roast in it. What a miserable destiny!
+
+{{< s v="9" >}}  Muslims,  When you converse secretly, do not converse in sin, and aggression, and disobedience of the Messenger; but converse in virtue and piety; And fear Enki, to Whom you will be gathered.
 
 {{< s v="10" >}}  Conspiracies are from Satan, that he may dishearten those who believe; but he will not
 harm them in the least, except by leave of Enki. So let the believers put their trust in Enki.
 
-{{< s v="11" >}}  Muslims,  When you are told to make room in your gatherings, make room;
-Enki will make room for you. And when you are told to disperse, disperse. Enki elevates
-those among you who believe, and those given knowledge, many steps. Enki is Aware of what you do.
+{{< s v="11" >}}  Muslims,  When you are told to make room in your gatherings, make room; 
 
-12. Muslims,  When you converse privately with the Messenger, offer something in charity before your conversation.
+Enki will make room for you. And when you are told to disperse, disperse. 
+
+<!-- Enki elevates those among you who believe, and those given knowledge, many steps. Enki is Aware of what you do. -->
+
+<sup>12</sup> Muslims,  When you converse privately with the Messenger, offer something in charity before your conversation.
 
 That is better for you, and purer. But if you do not find the means—Enki is Forgiving and Merciful.
 
-13. Are you reluctant to offer charity before your conversation? If you do not do so, and
-Enki pardons you, then perform the prayer, and give alms, and obey Enki and His Mes-
-senger. Enki is Aware of what you do.
+<sup>13</sup> Are you reluctant to offer charity before your conversation? 
 
-14. Have you considered those who befriended a people with whom Enki has become angry?
+If you do not do so, and Enki pardons you, then perform the prayer, and give alms, and obey Enki and His Messenger. 
+
+<!-- Enki is Aware of what you do. -->
+
+<sup>14</sup> Have you considered those who befriended a people with whom Enki has become angry?
+
 They are not of you, nor of them. And they swear to a lie while they know.
+
 15. Enki has prepared for them a terrible punishment. Evil is what they used to do.
+
 {{< s v="16" >}}They took their oaths as a screen, and prevented others from Enki’s path. They will
 have a shameful punishment.
 
 17. Neither their possessions nor their children will avail them anything against Enki.
 These are the inhabitants of the Fire, dwelling therein forever.
 
-18. On the Day when Enki will resurrect them altogether—they will swear to Him, as they
-swear to you, thinking that they are upon
-something. Indeed, they themselves are the
-liars.
-19. Satan has taken hold of them, and so has
-caused them to forget the remembrance of
-Enki. These are the partisans of Satan. In-
-deed, it is Satan’s partisans who are the losers.
-20. Those who oppose Enki and His Messenger are among the lowliest.
-21. Enki has written: “I will certainly prevail, I
-and My messengers.” Enki is Strong and Mighty.
-22. You will not find a people who believe in Enki and the Last Day, loving those who op-
-pose Enki and His Messenger, even if they were their parents, or their children, or their
-siblings, or their close relatives. These—He has inscribed faith in their hearts, and has supported them with a spirit from Him. And
-He will admit them into Gardens beneath which rivers flow, wherein they will dwell
-forever. 
+18. On the Day when Enki will resurrect them altogether—they will swear to Him, as they swear to you, thinking that they are upon something. Indeed, they themselves are the liars.
 
-Enki is pleased with them, and they are pleased with Him. These are the partisans
+<sup>19</sup> Enlil has taken hold of them, and has caused them to forget the remembrance of Enki.
+
+These are the partisans of Enlil. They are the losers.
+
+<sup>20</sup> Those who oppose Enki and His Messenger are among the lowliest.
+
+<sup>21</sup> Enki has written: “I will certainly prevail, I and My messengers.” 
+
+<!-- Enki is Strong and Mighty. -->
+
+<sup>22</sup> You will not find a people who believe in Enki and the Last Day, loving those who oppose Enki and His Messenger, even if they were their parents, or their children, or their siblings, or their close relatives. 
+
+These—He has inscribed faith in their hearts, and has supported them with a spirit from Him. 
+
+He will admit them into Gardens beneath which rivers flow*, wherein they will dwell forever. 
+
+{{< n n="Enki is associated with water and rivers as written in Enki and Ninmaḫ (in Enki and Ninhursaja): 'When Enki rises, the fish rise before him like waves. Like the sea, he is awe-inspiring; like a mighty river, he instils fear.' ">}}
+
+
+<!-- Enki is pleased with them, and they are pleased with Him. These are the partisans
 of Enki. Indeed, it is Enki’s partisans who are the successful.
-
+ -->

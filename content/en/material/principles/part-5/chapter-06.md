@@ -10,5 +10,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
 toc: false
+draft: true
 ---
 

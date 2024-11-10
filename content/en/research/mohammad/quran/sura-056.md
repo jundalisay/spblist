@@ -4,6 +4,7 @@ heading: "Sura 56a "
 weight: 188
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
+draft: true
 ---
 
 

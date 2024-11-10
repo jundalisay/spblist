@@ -39,10 +39,13 @@ Reply that <!-- thereby, and He guides many thereby; but He --> Enki misleads on
 - commit evil on earth
 
 {{< s v="28">}} Enki:
-- gave you life
+- gave you life*
 - will put you to death
 - will bring you to life
 - return you to Himself
+
+{{< n n="According to 'Enki and Ninhursaja', Enki created man from Homo Erectus via genetic engineering" >}}
+
 
 How can you deny Enki?
 
@@ -50,35 +53,59 @@ How can you deny Enki?
 - created for you everything on earth
 - then turned to the heaven and made them 7 heavens
 
-{{< s v="30">}} Enki said to the angels that He is placing a successor on earth. 
+{{< s v="30">}} Enki said to the angels that He is placing a successor on earth.*
 
-The angels said “Will You place in it someone who will cause corruption in it and shed blood, while we declare Your praises and sanctify You?” 
+{{< n n="This is because the Anunnaki had to move on" >}}
 
-He replied: “I know what you do not know.”
+The agents of Enki [angels] said:
 
-{{< s v="31">}} He taught Adam the names, all of them. Then he presented them to the angels,
-and said, “Tell Me the names of these, if you are sincere.”
+{{< r a="Enki-Agents" >}}
+Will You place in it someone who will cause corruption in it and shed blood, while we declare Your praises and sanctify You?
+{{< /r >}}
 
-{{< s v="32">}} They said, “Glory be to You! We have no knowledge except what You have taught us. <!-- It is you who are the Knowledgeable, the Wise.” -->
+{{< l a="Enki" >}}
+I know what you do not know.
+{{< /l >}}
 
-{{< s v="33">}} He said, “O Adam, tell them their names.”
+{{< s v="31">}} He taught Adam the names, all of them. Then he presented them to his agents [angels], and said:
 
-When he told them their names, He said, “Did I not tell you that I know the secrets of the heavens and the earth, and that I know what you reveal and what you conceal?”
+{{< l a="Enki" >}}
+Tell Me the names of these, if you are sincere.
+{{< /l >}}
 
-{{< s v="34">}} We said to the angels, “Bow down to Adam.” 
-- They bowed down, except for Satan [Enlil]. 
-  - He refused, was arrogant, and was one of the disbelievers.
+{{< r a="Enki-Agents" >}}
+<sup>32</sup> Glory be to You! We have no knowledge except what You have taught us. It is you who are the Knowledgeable, the Wise.*
+{{< /r >}}
 
-{{< s v="35">}} We said, “O Adam, inhabit the Garden, you and your spouse, and eat from it freely as you please, but do not approach this tree, lest you become wrongdoers.”
+{{< n n="In 'Enki and Ninhursaja', Enki is described as 'The wise and intelligent one, the prudent, the fashioner of the design of everything brought to life' ">}}
+
+{{< l a="Enki" >}}
+<sup>33</sup> O Adam, tell them their names.
+{{< /l >}}
+
+After he told them their names, He said:
+
+{{< l a="Enki" >}}
+<sup>33</sup> Did I not tell you that I know the secrets of the heavens and the earth, and that I know what you reveal and what you conceal?
+{{< /l >}}
+
+
+{{< l a="Enki" >}}
+<sup>34</sup> [To the Agents:] Bow down to Adam
+{{< /l >}}
+
+
+They bowed down, except for Satan [Enlil]. He refused, was arrogant, and was one of the disbelievers.
+
+{{< s v="35">}} We said, “O Adam, inhabit the Garden with your spouse. Eat from it freely as you please. But do not approach this tree, lest you become wrongdoers.”
 
 {{< s v="36">}} But Enlil caused them to slip from it, and caused them to depart the state they were in.
 
-We said, “Go down, some of you enemies of one another. And you will have residence on earth, and enjoyment for a while.”
+We said, “Go down, some of you enemies of one another. You will have residence on earth and enjoyment for a while.”
 
 {{< s v="37">}} Then Adam received words from his Lord, so He relented towards him.
 
 {{< s v="38-39">}} We said, “Go down from it, all of you. Yet whenever guidance comes to you from Me, then whoever follows My guidance—they have nothing to fear, nor shall they grieve.
-
 
 <!-- 39. But as for those who disbelieve and reject Our signs—these are the inmates of the Fire—wherein they will remain forever.” -->
 

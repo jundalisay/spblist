@@ -32,13 +32,19 @@ A thorough knowledge of them all is absolutely necessary.
 Chapters on the above-enumerated subjects comprise the first half of the science of Chirosophy, and collectively form the science of Chirognomy.
 - Nowadays, this branch is limited to merely studying the subject's character. But it has wider scope and can be made much more useful. 
 
-The universe began with a perfectly well-defined plan which includes the human species
+**The universe began with a perfectly well-defined plan which includes the human species**
 
-The currently accepted types of Chirognomy show many human qualities from the lines of the hand. But the previous limits of scientific hand-reading quickly led to practitioners guessing on that plan of creation. 
+The currently-accepted types of Chirognomy show many human qualities from the lines of the hand. But the previous limits of scientific hand-reading quickly led to practitioners guessing on that plan of creation. 
 
-No scientific study can depend on guesswork. This is why Palmistry has of its own weight fallen to the ground. The plan of creation is exceedingly simple, easily understood, and can be verified in every person you meet.
+No scientific study can depend on guesswork. This is why Palmistry has of its own weight fallen to the ground. 
 
-You do not have to take anything for granted, nor believe in anything you cannot see or touch or hold in your hand, consequently in this very practical and realistic age, the most advanced materialist can embrace the new science of Palmistry without offending in any way his sense of propriety. 
+**The plan of creation is exceedingly simple, easily understood, and can be verified in every person you meet.** *
+
+{{< n n="In Superphysics, this plan is made up of the 2 Forces, 5 Elements. The 5 Elements lead to the 7 chakras which make their mark in the 7 lines of the soul, and 7 mounts of the body" >}}
+
+You do not have to take anything for granted, nor believe in anything you cannot see or touch or hold in your hand.
+
+Consequently, in this very practical and realistic age, the most advanced materialist can embrace the new science of Palmistry without offending in any way his sense of propriety. 
 
 The plan of creation can be learned from the Mounts in the hand as shown in illustration "A."
 
@@ -74,7 +80,9 @@ Each type was thus created for a specific sphere in life. It represents some ele
 
 <!-- The fact that there are well-defined specimens of all these types on the streets of our cities to-day, that they can be easily recognized, and that  -->
 
-These can be easily identified in everyone. 85% of these typical people are at their best in the same occupations. All have the same faults, the same virtues, like the same kind of surroundings, live, think, and act after the same plan in everything they do. This proves that the original method in creating humanity has not been changed.<!-- , but that the laws of creation are in operation to-day just as they were in the beginning.  -->
+These can be easily identified in everyone. 85% of these typical people are at their best in the same occupations. 
+
+All have the same faults, the same virtues, like the same kind of surroundings, live, think, and act after the same plan in everything they do. This proves that the original method in creating humanity has not been changed.<!-- , but that the laws of creation are in operation to-day just as they were in the beginning.  -->
 
 Knowing these 7 types helps us distinguish them from each other as we meet them. This will help us at once know: 
 - their characteristics

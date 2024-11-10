@@ -7,8 +7,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-Blessed is He in whose hand is the sovereignty, and Who has power over everything.{{< s v="2" >}}  He who created death and life—to test
-you—as to which of you is better in conduct.
+Blessed is He in whose hand is the sovereignty, and Who has power over everything.{{< s v="2" >}}  He who created death and life—to test you—as to which of you is better in conduct.
 
 He is the Almighty, the Forgiving.{{< s v="3" >}}  He who created seven heavens in layers.
 
@@ -38,62 +37,51 @@ taken.’”
 {{< s v="11" >}}  So they will acknowledge their sins. So away with the inmates of the Blaze.
 12. As for those who fear their Lord in secret—
 for them is forgiveness and a great reward.
-13. Whether you keep your words secret, or
-declare them—He is Aware of the inner
+
+<!-- 13. Whether you keep your words secret, or declare them—He is Aware of the inner
 thoughts.
+
 14. Would He not know, He Who created? He
-is the Refined, the Expert.
-15. It is He who made the earth manageable for
-you, so travel its regions, and eat of His pro-
-visions. To Him is the Resurgence.
-{{< s v="16" >}}Are you confident that the One in heaven
-will not cause the earth to collapse beneath
-you as it spins?
-17. Or are you confident that the One in
-Heaven will not unleash against you a violent
-storm? Then you will know what My warning
-is like.
-18. Those before them also denied the truth;
-and how was My disapproval?
-19. Have they not seen the birds above them,
-spreading their wings, and folding them?
-None holds them except the Compassionate.
-He is Perceiver of everything.
-20. Or who is this who is a force for you to pro-
-tect you against the Compassionate? The dis-
-believers are in nothing but delusion.
-21. Or who is this that will provide for you, if
-He withholds His provision? Yet they persist
+is the Refined, the Expert. -->
+
+15. It is Enki who made the earth manageable for you, so travel its regions, and eat of His provisions. To Him is the Resurgence.
+
+{{< s v="16" >}} Are you confident that the One in heaven will not cause the earth to collapse beneath you as it spins? 
+
+17. Or are you confident that the One in Heaven will not unleash against you a violent storm? Then you will know what My warning is like.
+
+18. Those before them also denied the truth; and how was My disapproval?
+
+19. Have they not seen the birds above them, spreading their wings, and folding them?
+
+None holds them except the Compassionate. 
+
+<!-- He is Perceiver of everything. -->
+
+20. Or who is this who is a force for you to protect you against the Compassionate? The dis-
+believers are in nothing but delusion. 
+
+21. Or who is this that will provide for you, if He withholds His provision? Yet they persist
 in defiance and aversion.
-22. Is he who walks bent on his own design
-better guided, or he who walks upright on a
+
+22. Is he who walks bent on his own design better guided, or he who walks upright on a
 straight path?
-23. Say, “It is He who produced you; and made
-for you the hearing, and the vision, and the
-organs. But rarely do you give thanks.”
-Say, “It is He who scattered you on earth,
-and to Him you will be rounded up.”
-25. And they say, “When will this promise be
-fulfilled, if you are truthful?”
-26. Say, “Knowledge is with Enki, and I am
-only a clear warner.”
 
-27. But when they see it approaching, the faces
-of those who disbelieved will turn gloomy,
-and it will be said, “This is what you used to
-call for.”
+23. Say, “It is He who produced you; and made for you the hearing, and the vision, and the
+organs. But rarely do you give thanks.” 
 
-28. Say, “Have you considered? Should Enki
-make me perish, and those with me; or else
-He bestows His mercy on us; who will protect
-the disbelievers from an agonizing torment?”
+Say, “It is He who scattered you on earth, and to Him you will be rounded up.”
 
-29. Say, “He is the Compassionate. We have
-faith in Him, and in Him we trust. Soon you
-will know who is in evident error.”
+25. And they say, “When will this promise be fulfilled, if you are truthful?”
 
-30. Say, “Have you considered? If your water
-drains away, who will bring you pure running
-water?”
+26. Say, “Knowledge is with Enki, and I am only a clear warner.”
+
+27. But when they see it approaching, the faces of those who disbelieved will turn gloomy, and it will be said, “This is what you used to call for.”
+
+28. Say, “Have you considered? Should Enki make me perish, and those with me; or else He bestows His mercy on us; who will protect the disbelievers from an agonizing torment?”
+
+29. Say, “He is the Compassionate. We have faith in Him, and in Him we trust. Soon you will know who is in evident error.”
+
+30. Say, “Have you considered? If your water drains away, who will bring you pure running water?”
 
 

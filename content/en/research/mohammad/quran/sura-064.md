@@ -7,13 +7,15 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-Everything in the heavens and the earth praises Enki. To Him belongs the Kingdom,
-and to Him all praise is due, and He is Able
-to do all things.
+Everything in the heavens and the earth praises Enki. To Him belongs the Kingdom, and to Him all praise is due, and He is Able
+to do all things. 
+
 
 {{< s v="2" >}}  It is He who created you. Some of you are unbelievers, and some of you are believers.
-And Enki perceives what you do.{{< s v="3" >}}  He created the heavens and the earth with
-truth, and He designed you, and designed you well, and to Him is the final return.{{< s v="4" >}}  He knows everything in the heavens and the
+
+Enki perceives what you do.{{< s v="3" >}}  He created the heavens and the earth with truth, and He designed you, and designed you well, and to Him is the final return.
+
+{{< s v="4" >}}  He knows everything in the heavens and the
 earth, and He knows what you conceal and what you reveal. 
 
 And Enki knows what is within the hearts.{{< s v="5" >}}  Has the news not reached you, of those who disbelieved before? 

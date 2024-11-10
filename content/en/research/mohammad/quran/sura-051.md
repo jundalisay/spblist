@@ -4,6 +4,7 @@ heading: "Sura 51 "
 weight: 178
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
+draft: true
 ---
 
 
@@ -20,10 +21,11 @@ from it is he who is averted.{{< s v="10" >}}  Perish the imposters.{{< s v="11"
 33. “To
 ask, “When is the Day of Judgment?”
 Day they are presented to the Fire.
-14. “Taste your ordeal. This is what you used
-to challenge.”
-15. But the pious are amidst gardens and
-springs.
+
+14. “Taste your ordeal. This is what you used to challenge.”
+
+15. But the pious are amidst gardens and springs.
+
 {{< s v="16" >}}Receiving what their Lord has given them.
 They were virtuous before that.
 used to sleep a little at night.
@@ -47,32 +49,24 @@ what you are promised.
 34. “Marked
 13. The
 17. They
-Has the story of Abraham’s honorable
-guests reached you?
+Has the story of Abraham’s honorable guests reached you?
 
-25. When they entered upon him, they said,
-“Peace.” He said, “Peace, strangers.”
+25. When they entered upon him, they said, “Peace.” He said, “Peace, strangers.”
 
-26. Then he slipped away to his family, and
-brought a fatted calf.
+26. Then he slipped away to his family, and brought a fatted calf.
 
-27. He set it before them. He said, “Will you
-not eat?”
+27. He set it before them. He said, “Will you not eat?”
 
-28. And he harbored fear of them. They said,
-“Do not fear,” and they announced to him the
+28. And he harbored fear of them. They said, “Do not fear,” and they announced to him the
 good news of a knowledgeable boy.
 
-29. His wife came forward crying. She clasped
-her face, and said, “A barren old woman?”
+29. His wife came forward crying. She clasped her face, and said, “A barren old woman?”
 
-30. They said, “Thus spoke your Lord. He is
-the Wise, the Knowing.”
+30. They said, “Thus spoke your Lord. He is the Wise, the Knowing.”
 
-31. He said, “What is your business, O en-
-voys?”
-32. They said, “We are sent to a people guilty
-of sin.”
+31. He said, “What is your business, O envoys?”
+
+32. They said, “We are sent to a people guilty of sin.”
 24.
 35. We
 it.

@@ -70,7 +70,7 @@ paginate = 12
         url = "help/"
         weight = 15
     [languages.en.params]
-      heading = "A New Science Based on Waves and Socratic Dialectics for Solving Problems"
+      heading = "A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems"
       intro = "Superphysics: Science Merged with Metaphysics"
       sub = "All Knowledge Can Be Grouped Into Three"
       banner = "/photos/physics/galaxy.jpg"

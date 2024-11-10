@@ -16,6 +16,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 {{< s v="5" >}}  When the beasts are gathered.
 
 6. When the oceans are set aflame.
+
 7. When the souls are paired.
 8. When the girl, buried alive, is asked:
 what crime was she killed?{{< s v="10" >}}  When the records are made public.{{< s v="11" >}}  When the sky is peeled away.
@@ -29,10 +30,12 @@ what crime was she killed?{{< s v="10" >}}  When the records are made public.{{<
 
 Endowed with power, eminent with the Lord of the Throne.
 21. Obeyed and honest. 
+
 22. Your friend is not possessed.
 23. He saw him on the luminous horizon.
 And He does not withhold knowledge of
 the Unseen.
+
 25. It is not the word of an accursed devil.
 where are you heading?
 is only a Reminder to all mankind.

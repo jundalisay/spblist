@@ -4,6 +4,7 @@ heading: "Sura 79 "
 weight: 228
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
+draft: true
 ---
 
 
@@ -32,6 +33,7 @@ By:
 16. When his Lord called to him in the sacred valley of $uwŒ,
 
 1704 An-NŒziÔŒt: The Extractors.
+
 1705i.e., those who tear out the souls of those destined for Hell.
 1706i.e., those angels who ease out the souls of those destined for Paradise.
 1707Speeding to execute AllŒh's commands.

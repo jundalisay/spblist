@@ -1,101 +1,83 @@
 ---
 heading: Genesis 34
-title: "Jacob Gives Gifts"
-description: "Jacob went on his way, and the agents of Enki met him"
+title: "Simeon and Levi Betray Hamor"
+description: "Dinah was the daughter of Leah and Jacob"
 weight: 50
 image: "/covers/old.jpg"
 ---
 
 
-<sup>1</sup> Dinah was the daughter of Leah which she bare unto Jacob. 
+<sup>1</sup> Dinah was the daughter of Leah and Jacob. 
 
 She went out to see the daughters of the land. 
 
-<sup>2</sup> When Shechem the son of Hamor the Hivite, prince of
-the country, saw her, he took her, and lay with her, and
-defiled her. 
+<sup>2</sup> Shechem was the son of Hamor the Hivite and the prince of the country. When she saw her, he took her raped her. 
 
-<sup>3</sup> And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake
-kindly unto the damsel. 
+<!-- , and lay with her, and
+defiled her.  -->
 
-<sup>4</sup> Shechem spake unto his father Hamor, saying, Get me this damsel to wife.
+<sup>3</sup> His soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel. 
 
-<sup>5</sup> Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come.
+<sup>4</sup> Shechem told his father Hamor:
 
-<sup>6</sup> Hamor the father of Shechem went out unto Jacob to commune with him. 7} And the sons of Jacob came out of the field when they heard [it:] and the men were
-grieved, and they were very wroth, because he had wrought
-folly in Israel in lying with Jacob’s daughter; which thing
-ought not to be done. 
+Get me Dinah to wife.
 
-8} Hamor communed with them, saying, The soul of my son Shechem longeth for your
-daughter: I pray you give her him to wife. 9} And make
-you marriages with us, [and] give your daughters unto us, and
-take our daughters unto you. 
+<sup>5</sup> Jacob heard that he had defiled Dinah. His sons were with his cattle in the field. Jacob held his peace until they were come.
 
-10} And you shall dwell with us: and the land shall be before you; dwell and trade ye
-therein, and get you possessions therein. 11} Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what you shall say unto me I will
-give. 
+<sup>6</sup> Hamor, the father of Shechem, went out to meet Jacob.
 
-12} Ask me never so much dowry and gift, and I
-will give according as you shall say unto me: but give me the
+<sup>7</sup> The sons of Jacob came out of the field when they heard it. The men were grieved and very angry because he had wrought folly in Israel in lying with Jacob’s daughter; which should not have been done. 
+
+<sup>8</sup> Hamor spoke to them:
+
+"The soul of my son Shechem longs for your daughter. Please give her him to wife. <sup>9</sup> Make you marriages with us and give your daughters unto us, and take our daughters unto you."
+
+<sup>10</sup> You shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein. 
+
+<sup>11</sup> Shechem said unto her father and unto her brethren:
+
+Let me find grace in your eyes, and what you shall say unto me I will give. 
+
+<sup>12</sup> Ask me never so much dowry and gift, and I will give according as you shall say unto me: but give me the
 damsel to wife. 
 
-13} The sons of Jacob answered Shechem and Hamor his father deceitfully, and said,
+<sup>13</sup> The sons of Jacob answered Shechem and Hamor deceitfully because he had defiled Dinah their sister:
 
-because he had defiled Dinah their sister: 14} And they said unto them, We cannot do this thing, to give our sister to one that is uncircumcised; for that [were] a reproach unto
-us: 
+<sup>14</sup> We cannot do this thing, to give our sister to one that is uncircumcised; for that is a reproach to us.
 
-15} But in this will we consent unto you: If you will be as we [be,] that every male of you be circumcised; 
+<sup>15</sup> But in this will we consent unto you: If you will be as we [be,] that every male of you be circumcised; 
 
-16} Then will we give our daughters unto you, and we will take your daughters to us, and we will dwell with you, and we will become one people.
+<sup>16</sup> Then will we give our daughters unto you, and we will take your daughters to us, and we will dwell with you, and we will become one people.
 
-17} But if you will not
-hearken unto us, to be circumcised; then will we take our
-daughter, and we will be gone. 
+<sup>17</sup> But if you will not hearken unto us, to be circumcised; then will we take our daughter, and we will be gone. 
 
-18} And their words
-pleased Hamor, and Shechem Hamor’s son. 19} And
-the young man deferred not to do the thing, because he had
-delight in Jacob’s daughter: and he [was] more honourable
-than all the house of his father.
+<sup>18</sup> Their words pleased Hamor and Shechem. 
 
-20} And Hamor and Shechem his son came unto the
-gate of their city, and communed with the men of their city,
-saying, 21} These men [are] peaceable with us;
-therefore let them dwell in the land, and trade therein; for
-the land, behold, [it is] large enough for them; let us take
-their daughters to us for wives, and let us give them our
-daughters. 22} Only herein will the men consent unto
-us for to dwell with us, to be one people, if every male
-among us be circumcised, as they [are] circumcised.
+<sup>19</sup> The young man deferred not to do the thing, because he had delight in Jacob’s daughter: and he [was] more honourable than all the house of his father. 
 
-23} [Shall] not their cattle and their substance and
-every beast of theirs [be] ours? only let us consent unto
-them, and they will dwell with us. 24} And unto Hamor
-and unto Shechem his son hearkened all that went out of the
-gate of his city; and every male was circumcised, all that
-went out of the gate of his city.
+<sup>20</sup> Hamor and Shechem came to the gate of their city and told the men of their city:
 
-25} And it came to pass on the third day, when they
-were sore, that two of the sons of Jacob, Simeon and Levi,
-Dinah’s brethren, took each man his sword, and came upon
-the city boldly, and slew all the males. 
+{{< r a="Hamor" >}}
+<sup>21</sup> These men are peaceable with us. Let let them dwell in the land and trade therein. The land is  large enough for them. Let us take their daughters for wives, and give them our daughters.  22 They consent to live with us, to be one people, if every male among us is circumcised as they are.
 
-26} And they
-slew Hamor and Shechem his son with the edge of the
-sword, and took Dinah out of Shechem’s house, and went
-out. 27} The sons of Jacob came upon the slain, and
-spoiled the city, because they had defiled their sister.
+23 [Shall] not their cattle and their substance and every beast of theirs [be] ours? only let us consent unto them, and they will dwell with us. 
+{{< /r >}}
 
 
-28} They took their sheep, and their oxen, and their
-asses, and that which [was] in the city, and that which [was]
-in the field, 29} And all their wealth, and all their little
-ones, and their wives took they captive, and spoiled even all
-that [was] in the house. 30} And Jacob said to Simeon
-and Levi, Ye have troubled me to make me to stink among
-the inhabitants of the land, among the Canaanites and the
-Perizzites: and I [being] few in number, they shall gather
-themselves together against me, and slay me; and I shall be
-destroyed, I and my house. 31} And they said, Should
-he deal with our sister as with an harlot?
+24 And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city.
+
+25 On the third day, when they were sore, Simeon and Levi, 2 of Jacob's sons and came upon the city boldly and slew all the males with their swords.
+
+26 They killed Hamor and Shechem and took Dinah out of Shechem’s house.
+
+27 The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister.
+
+28 They took:
+- their sheep, oxen, asses, and whatever was in the city and in the field
+- 29 all their wealth, little ones, and wives and spoiled even all that was in the house.
+
+30 Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites. 
+
+We are few in number. They shall gather together against me, and kill me and my house. 
+
+31 They said: Should he deal with our sister as with an harlot?

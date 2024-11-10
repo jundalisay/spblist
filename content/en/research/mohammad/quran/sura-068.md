@@ -4,6 +4,7 @@ heading: "Sura 68a "
 weight: 208
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
+draft: true
 ---
 
 
@@ -74,46 +75,63 @@ lains?
 28.
 is the matter with you? How do you
 judge?
+
 37. Or do you have a scripture in which you
 study.
+
 38. Wherein
 there is whatever you choose?
+
 do you have oaths from Us, binding un-
 til the Day of Resurrection, that you will have
 whatever you demand?
+
 40. Ask them, which of them will guarantee
 that.
+
 41. Or do they have partners? Then let them
 produce their partners, if they are truthful.
+
 42. On the Day when the Shin will be exposed,
 and they will be called to bow down, but they
 will be unable.
+
 43. Their eyes subdued, shame will cover
 them. They were invited to bow down when
 they were sound.
+
 44. So leave Me to those who reject this dis-
 course; We will proceed against them gradu-
 ally, from where they do not know.
+
 45. And I will give them respite. My plan is
 firm.
+
 46. Or do you ask them for a fee, so they are
 burdened with debt?
+
 47. Or do they know the future, and so they
 write it down?
+
 48. So wait patiently for the Decision of your
 Lord, and do not be like the Fellow of the Fish
 who cried out in despair.
+
 49. Were it not for his Lord’s favor that
 reached him, he would have been thrown
 into the wilderness, fully despised.
+
 50. But his Lord chose him, and made him one
 of the righteous.
+
 51. Those who disbelieve almost stab you with
 their glances when they hear the message,
 and say, “He is crazy!”
+
 52. But it is no less than a reminder to all the
 Worlds.
-39. Or
+
+<!-- 39. Or
 
 
 As for him who is given his book in his
@@ -122,3 +140,4 @@ and read it.
 19.
 
 
+ -->

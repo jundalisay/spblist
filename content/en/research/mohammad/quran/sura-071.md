@@ -33,12 +33,10 @@ I called them openly. Then I appealed to them publicly. Then I spoke to them pri
 
 {{< s v="18" >}} Then He will return you into it, and will bring you out again.
 
-
 12. And provide you with wealth and children, and allot for you gardens, and allot for you
 rivers.
 
 Enki made the earth large for you to travel its diverse roads.
-
 
 Noah said:
 

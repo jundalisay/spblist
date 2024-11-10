@@ -52,7 +52,7 @@ We:
 Moses said: 
 
 {{< l a="Moses" >}}
-My people, you have done wrong to yourselves by worshiping the calf. So repent to your Maker and kill your egos.
+My people, you have done wrong to yourselves by worshiping the calf [that represents Enlil]. So repent to your Maker [Enki] and kill your egos.
 {{< /l >}}
 
 {{< r a="Jews" >}}
@@ -145,15 +145,15 @@ Be despicable apes!*
 {{< s v="67-71" >}} Recall when Moses said to his people:
 
 {{< l a="Moses" >}}
-Enki commands you to sacrifice a cow*
+Enki commands you to sacrifice a cow
 {{< /l >}}
  
+{{< r a="Jews">}}
+Are you mocking us?* Call on your Lord to show us which one.
+{{< /r >}}
+
 {{< n n="*The cow is sacred to Hindus which were allied with Enlil" >}}
 
-
-{{< r a="Jews">}}
-Are you mocking us? Call on your Lord to show us which one.
-{{< /r >}}
 
 {{< l a="Moses" >}}
 He says she is a cow, neither too old, nor too young, but in between. So do what you are commanded
@@ -164,11 +164,13 @@ Tell your Lord to show us what her color is
 {{< /r >}}
 
 {{< l a="Moses" >}}
-He says she is a yellow cow, bright in color, pleasing to the beholders
+He says she is a yellow* cow, bright in color, pleasing to the beholders
 {{< /l >}}
 
+{{< n n="*The Anunnaki were searching for gold" >}}
+
 {{< r a="Jews">}}
-Tell your Lord to show us which one; the cows look alike to us. We want to be guided
+Tell your Lord to show us which one. The cows look alike to us. We want to be guided
 {{< /r >}}
 
 {{< l a="Moses" >}}
@@ -218,7 +220,7 @@ What did Enki tell you? So that we can dispute it with our Lord Enlil.
 
 Woe to them for what their hands have written, and woe to them for what they earn.
 
-<sup>80.</sup> They say, “The Fire will not touch us except for a number of days.” 
+<sup>80</sup> They say, “The Fire will not touch us except for a number of days.” 
 
 Say:
 
