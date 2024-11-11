@@ -2,7 +2,7 @@
 title: "ATOMIC STRUCTURE"
 # heading: "CHAPTER 5"
 description: ""
-image: "/covers/russel.jpg"
+image: "/covers/walter.jpg"
 weight: 8
 # date: 2023-06-01
 ---

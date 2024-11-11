@@ -1,7 +1,7 @@
 ---
-title: "Russe, Walter"
+title: "Russell, Walter"
 description: ""
-image: "/covers/russel.jpg"
+image: "/covers/walter.jpg"
 weight: 90
 # date: 2023-06-01
 ---

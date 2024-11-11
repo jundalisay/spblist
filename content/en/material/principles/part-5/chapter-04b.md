@@ -13,7 +13,7 @@ toc: false
 ---
 
 
-In Cartesian Physics, each of the elements are mere versions or modification of the aethereal substance. 
+In Cartesian Physics, each of the elements is a mere version or modification of the aethereal substance. 
 
 
 {{< q a="Descartes" >}}

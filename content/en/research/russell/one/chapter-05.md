@@ -2,7 +2,7 @@
 title: "THE ELEMENTS OF MATTER"
 heading: "CHAPTER 5"
 description: ""
-image: "/covers/russel.jpg"
+image: "/covers/walter.jpg"
 weight: 89
 # date: 2023-06-01
 ---
