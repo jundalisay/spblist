@@ -115,22 +115,15 @@ He drove the car for about 120 miles in this condition and brought Baba to Jamal
 
 ## BABA CURES RAM BAHADUR
 
-Later Baba taught him a prescription for preparing an ainjana (eye-powder) and
-told him, “ By using this powder your eye will regain its normal health. “
-But Ram Bahadurji had seen that as long as he was in the service of Baba and
-was driving the car, the pain had disappeared. He therefore did not pay any special
-need towards the prescription for the eye powder. After reaching Jamalpur, Ram
-Bahadurji left Baba at his residence and along with his companions came to the jagrti.
+Later Baba taught him a prescription for preparing an ainjana (eye-powder) and told him, “ By using this powder your eye will regain its normal health. “
+
+But Ram Bahadurji had seen that as long as he was in the service of Baba and was driving the car, the pain had disappeared. He therefore did not pay any special need towards the prescription for the eye powder. After reaching Jamalpur, Ram Bahadurji left Baba at his residence and along with his companions came to the jagrti.
 Here they stayed for three days and had the privilege of Baba’s darshan every morning
 and evening.
 
-On the third day, in the evening walk Shri Amulya Ratna Sarangi, Acarya Devi
-Chandra Sharma, Shri Balendriji and Shri Ram Bahadurji were with him. All of them
-went with Baba up to his residence. After reaching his house Baba told Shri Amulya
-Ratna Sarangi to take Ram Bahadurji up to Barhi. At that stage Acarya Devi Chandra
-Sharma prayed that Baba may be pleased and may cure the illness of Ram Bahadurji’s
-eye so that he may regain his eyesight.Baba said, “I have explained to him the method of preparing an eye-
-powder which will cure the pain in his eyes.”
+On the third day, in the evening walk Shri Amulya Ratna Sarangi, Acarya Devi Chandra Sharma, Shri Balendriji and Shri Ram Bahadurji were with him. 
+
+All of them went with Baba up to his residence. After reaching his house Baba told Shri Amulya Ratna Sarangi to take Ram Bahadurji up to Barhi. At that stage Acarya Devi Chandra Sharma prayed that Baba may be pleased and may cure the illness of Ram Bahadurji’s eye so that he may regain his eyesight.Baba said, “I have explained to him the method of preparing an eye-powder which will cure the pain in his eyes.”
 
 Ram Bahadur was still silent when Baba spoke again and said, “I asked Ram Bahadur at the time of Hajipur DMG whether his health was alright and Ram Bahadur had replied that he never felt ill. Even so Baba looked at his ailing eye and said,
 Na bhuktam kashiyate karma kalpa koti shatairapi
