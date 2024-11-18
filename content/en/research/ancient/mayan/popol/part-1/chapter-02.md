@@ -46,13 +46,11 @@ But they could not make them speak like men. They only hissed and screamed and c
 
 They were unable to make words, and each screamed in a different way.
 
-When the Creator and the Maker saw that it was impossible for them to talk to each other, they said: 
-
+When the Creator and the Maker saw that it was impossible for them to talk to each other, the Forefathers said to each other: 
 
 {{< q a="Forefathers" >}}
-"It is impossible for them to say our names, their Creators and Makers. This is not well," said the Forefathers to each other.
+"It is impossible for them to say our names, their Creators and Makers. This is not well
 {{< /q >}}
-
 
 Then they said to them: 
 
@@ -73,19 +71,26 @@ For this reason another attempt had to be made to create and make men by the Cre
 
 
 {{< q a="Forefathers" >}}
-Let us try again! Already dawn draws near: Let us make him who shall nourish and sustain us! 
+Let us try again! Already dawn draws near. Let us make him who shall nourish and sustain us! 
 
-What shall we do to be invoked, in order to be remembered on earth? We have already tried with our first creations, our first creatures. But we could not make them praise and venerate us. 
+What shall we do to be invoked, in order to be remembered on earth? 
+
+We have already tried with our first creations, our first creatures. But we could not make them praise and venerate us. 
 
 So, then, let us try to make obedient, respectful beings who will nourish and sustain us.
 {{< /q >}}
 
 
-<!-- Thus they spoke. -->
+And so they made [man's] flesh from earth and mud. 
 
-Then was the creation and the formation. Of earth, of mud, they made [man's] flesh. 
-
-But they saw that it was not good. It melted away, it was soft, did not move, had no strength, it fell down, it was limp, it could not move its head, its face fell to one side, its sight was blurred, it could not look behind. 
+But they saw that it was not good.
+- It melted away.
+- It was soft, did not move, had no strength. 
+- It fell down.
+- It was limp.
+- It could not move its head.
+- Its face fell to one side.
+- Its sight was blurred, it could not look behind. 
 
 At first it spoke, but had no mind. Quickly it soaked in the water and could not stand.
 

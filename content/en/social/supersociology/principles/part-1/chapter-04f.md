@@ -1,69 +1,66 @@
 ---
-title: "What is Morality?"
 heading: "Chapter 4f"
-date: 2020-01-02
-weight: 36
-image: /photos/psych/jealous.jpg
-description: "In our universe however, the Positive Force is slightly stronger than the Negative. This leads to the concept of morality as a check against negativity"
-icon: /icons/sp.png
+title: "God and Morality"
+date: 2015-09-09
+# date: 2020-11-30
+weight: 21
+image: /photos/psych/freedom.jpg
+description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: /icons/sp.png
+# aliases:
+#   /superphysics/principles/god
 ---
 
 
 
-Chapter 2 explained that the Creator of the universe created the universe from Its Own metaphysical ideas and feelings. This is similar to a novelist who writes a novel from a stream of ideas and feelings coming from his metaphysical mind. 
+The question 'Does God exist?' can be answered by 'Can you perceive Existence?'. 
 
-The purpose of ideas is to create experience. These experiences then create ideas. This leads to an unending loop of:
-- idea-experience
-- cause-effect
-- action-reaction
-- karma-samskara-karma
+![Outer space](https://sorasystem.sirv.com/photos/space.jpg)
 
-Action and Reaction applies not only in the physical domain, but also in the metaphysical.  
-
-This is best observed as the action and reaction of our feelings.
-
-- Bad or negative feelings lead to bad action 
-- Bad actions lead to bad consequences
-- Bad consequences lead to bad feelings
-
-The cycle of negativity leads to the persistent suffering among physical beings. 
-
-In our universe however, the Positive Force is slightly stronger than the Negative. This leads to the concept of morality as a check against negativity. 
-
-Chapter 3 explaimed that true happiness is achieved when an identity matches or unites with its dharma or true nature. This match is facilitated by the Positive Force.  
-
-Unhappiness is experienced when an identity is kept away from its dharma. This separation is done by the Negative.  
-
-A moral or dharmic action is one that is in line with one's true nature or dharma. Its consequences are likewise Positive and within the dharma. 
-
-As it is difficult to explain or even discover one's true nature, then we can shallowly define morality as a quality that produces happiness for now and for as long as possible, for the self and for as many entities as possible.
-
-The phrases "for as long as possible" and "for as many entities as possible" shows an enlarged mentality that tries to unite with all of the universe. This is a sign of the Positive Force. 
-
-  
-
-
-
-
-
-
-<!-- Earlier, we said that:
+Earlier, we said that:
 - every physical perception has a metaphysical idea-equivalent
 - all ideas come from The One by Its Desire
-- these ideas manifest in a gigantic Mind which houses all Its ideas, one of which is the idea of our current universe and everything inside it -->
+- these ideas manifest in a gigantic Mind which houses all Its ideas, one of which is the idea of our current universe and everything inside it
 <!-- produces an opposite idea: beauty has ugliness, health has disease -->
-<!-- - these ideas exist inside the mind for them to be experienced, closing the loop between idea and experience
+- these ideas exist inside the mind for them to be experienced, closing the loop between idea and experience
 - the journey from idea to experience is powered by feelings, of which desire is the main feeling  
 - all movement is based on the differences of the dharma or true nature of all ideas of The One
 
 Superphysics aims to solve problems, by moving from chronic problem into lasting solution, from suffering and doubt into happiness and knowledge. 
 
-To make this movement easier and have a better success rate, we have to explain the nature of the gigantic Mind or arena where Existence and all movement takes place.  -->
+To make this movement easier and have a better success rate, we have to explain the nature of the gigantic Mind or arena where Existence and all movement takes place. 
+
+We call such a Mind as the Supreme Entity, and The One where it comes from, as the Absolute Entity. 
+
+    
+Paradigm | Pre-Existence (Probability) | Existence (Matrix or Mind)
+--- | --- | ---
+Superphysics | Absolute Entity | Supreme Entity
+Ancient Greek | The One | The Whole or The Other
+Hindus | Nirguna Brahma | Saguna Brahma
+Buddhists | Sunya | Brahma 
+Taoism | Tao | tao 
 
 
+<!-- - all our minds are inside a larger mind which we call the Matrix and is roughly equivalent to the Brahma by the Hindus, the Tao by the Taoists, Sunya by the Buddhists, and the Whole by Parmenides -->
+
+Notice how our classification is existence-based, being divided into:
+
+1. The Probability of Existence
+2. Actual Existence 
+
+<!--  and  the Matrix, Brahma, Tao, and the Whole are impersonal.  -->
+
+This is very different from the Judeo-Christian God, Yahweh, Allah, and even the Polythesist Tara, Quan Yin, Kali, Ganesh, etc who are classified according to the feelings of the people who invented them:
+
+- The Jewish Yahweh is very cruel. This mirrors the cruel environment experienced by the Jews during their journey through the desert
+- The Christian God is very forgiving and generous. This mirrors the feelings of Jews under the wealthy Romans 
+- The Islamic Allah is very commanding. This mirrors the feelings of Arabs rallying the tribes against the Byzantines and Persians.
+
+This is because it is the feelings that propels the mind from idea to idea. To get a true view of the Supreme, we follow the 'critical feeling' techniques of Buddhism and Hinduism of catching and isolating our feelings so that we can see Existence in Its true form, without the bias of feeling.  
 
 
 ## The Positive and Negative Leads to Morality and Immorality 
@@ -84,7 +81,7 @@ This extends to economics, politics, and philosophy:
 - traditional versus modern
 - etc 
 
-The Negative Force creates these differences and dualities in order to express the infiniteness of the Supreme. However, this also leads to infinite conflicts and problems which divert each entity away from its true nature, which then leads to its suffering. 
+In a previous post, we said that the Negative Force creates these differences and dualities in order to express the infiniteness of the Supreme. However, this also leads to infinite conflicts and problems which divert each entity away from its true nature, which then leads to its suffering. 
 
 How can we counteract the tendency of Existence for chaos and division? 
 
@@ -96,7 +93,7 @@ The Supreme has the Positive Force to naturally counteract the Negative.
 This Positive Force has an inherent tendency to unite and dwell in the abstract or metaphysical domain where it excels in knowledge. This is different from the Negative Force which dwells in the physical domain where it separates things to facilitate new creations* as well as maintain ignorance. 
 
 
-> *This is why 'Shakti' or the Negative is a force for creativity and power
+{{< f f="*This is why 'Shakti' or the Negative is a force for creativity and power" >}}
 
 
 Since the metaphysical is superior to the physical, we are absolutely confident that the Positive will conquer the Negative in the long run. This manifests as the maxim: "The pen is mightier than the sword."
@@ -132,10 +129,17 @@ Superphysics focuses on the Positive, while using the Negative force, in order t
 The key thing that separates a reality of suffering and a reality of joy, is then knowing how feelings lead to mentality and how mentality creates reality. To understand this latter part, we need to define consciousness. This would help us break out of the limitations created by science which is based primarily on the five senses, ignoring the sixth sense of feelings and intuition.
  -->
 
+
+
 <!-- One just has to look at the night sky to imagine the chaos that exists, as moon getting hit by countless meteorites, and the sun burning planets  -->
 
+
+
+
 <!-- From realizing Its true form as The One, we can then work downwards into The Supreme Entity and explain how Existence is generated.  
+
 Our best analogy for Existence is the internet which creates an online reality.  -->
+
 
 <!-- 
 all possess human-like qualities as to be angry, benevolent, merciful, etc. 

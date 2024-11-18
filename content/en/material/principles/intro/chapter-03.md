@@ -26,17 +26,16 @@ To make Physics easier to understand, we create a naming system based on the 5 E
 
 We replace the following Physics names with Superphysics ones:
 
-quark       --> qom
-electron    --> qor
-light       --> mom2
-
-
-
-
-
+Physics Name | Superphysics Name
+--- | ---
+quark | qom
+electron | qor
+light | mor2
 
 
 Modern Physics was created from the lowest Material layer (Strong Force), working its way upwards to the Convertible (Weak Force) and then to the Radiant (Electromagnetic).
+
+{{< i s="/graphics/super/domains.jpg" a="Layers" >}}
 
 In contrast, Superphysics is created from the top Aethereal layer working downwards to the Material. This allows us to see all particles and forces from the highest viewpoint and reclassify them in a proper and intuitive way.
 
@@ -116,7 +115,7 @@ Meson-Hadron | Material (free aether as quark-antiquark pair)
 Leptons | Radiant-Convertible
 
 
-{{< img src="/graphics/physics/standard.jpg" alt="The Standard Model" cap="The Standard Model overlaid on the MSQ model. Notice the huge gap in knowledge needed to be bridged" >}}
+{{< img src="/graphics/physics/standard.png" alt="The Standard Model" cap="The Standard Model overlaid on the MSQ model. Notice the huge gap in knowledge needed to be bridged" >}}
 
 
 

@@ -47,6 +47,7 @@ You must work together and find the means so that man, whom we shall make will n
 "Enter, then, into council, grandmother, grandfather, our grandmother, our grandfather, Xpiyacoc, Xmucané, make light, make dawn, have us invoked, have us adored, have us remembered by created man, by made man, by mortal man. Thus be it done.
 {{< /q >}}
 
+
 {{< q >}}
 "Let your nature be known, Hunahpú-Vuch, Hunahpú-Utiú, twice mother, twice father, Nim-Ac, Nima-Tziís, the master of emeralds, the worker in jewels, the sculptor, the carver, the maker of beautiful plates, the maker of green gourds, the master of resin, the master Toltecat,* grandmother of the sun, grandmother of dawn, as you will be called by our works and our creatures.
 {{< /q >}}

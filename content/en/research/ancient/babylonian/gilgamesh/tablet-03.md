@@ -1,5 +1,5 @@
 ---
-title: "Enuma Elish The Epic Of Creation"
+title: "The Expedition Against Humbaba"
 weight: 4
 image: "/covers/enuma.jpg"
 description: "Here we simplify Enuma Elish The Epic Of Creation"
@@ -7,8 +7,8 @@ draft: true
 --- 
   
 
-THE THIRD TABLET.
-THE EXPEDITION TO THE FOREST OF CEDARS AGAINST HUMBABA.
+<!-- THE THIRD TABLET. -->
+
 
 (About a column and a half of the beginning of the Old Babylonian version on the Yale tablet are so broken that almost all the text is lost. Gilgamish and Enkidu have now become devoted friends, thus strangely stultifying the purpose for which Enkidu was created, and now is set afoot the great expedition against the famous Cedar Forest guarded by the Ogre Humbaba. The courtesan has now for a brief space left the scene, having deserted Enkidu, much to his sorrow. The mutilated Assyrian Version gives a hint that the mother of Gilgamish is now describing the fight to one of her ladies(?) Rishat-Nin . . . and where her recital becomes connected the story runs thus).
 

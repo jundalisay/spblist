@@ -111,7 +111,9 @@ This leads to the same output as the `1 + 1 = 2` of normal math, while imposing 
 - `1 + 1` is a rigid ratio of `2`, not an equality. It means it is confined to specific layer and does not cross over to other layers. This is useful when it comes to constants 
 <!-- This makes it flexible and anti-dogma. -->
 - Both sides have the same importance
-- A straight-line equation would imply that the focus is on the line itself. 
+- A straight-line equation would imply that the focus or dharma is on the line itself. A curved or wavy line would have its dharma harder to expose. 
+  - A straight-line equation is like a person who goes to McDonalds to order a cheeseburger specifically
+  - A curve equation is like a person who orders a cheeseburger then changes his order to a chicken meal then changes to a chicken burger as a compromise between his 2 previous orders. His dharma is neither burger nor chicken, but chicken burger   
 
 The concept of a *focus* is super important as it is the basis of:
 - [gravitational signatures](/material/principles/intro/chapter-02)
@@ -124,7 +126,7 @@ But for `1 + 1 = 2.0000123`, we use a different ratio:
 
 This means that the inequality is caused by something unknown. Provisionally, we fix this with:
 
-`(1 + 1) : 0.0000123 aether : 2.0000123`
+`(1 + 1) : 0.0000123 aether :: 2.0000123`
 
 The `0.0000123 aether` is a value from the aethereal layer that is affecting the relationship. 
 

@@ -33,6 +33,7 @@ Dharmic | being in line with one's dharma or the nature of things. This replaces
 Eagle | the equation for everything, according to Superphysics
 Ego | the feeling of the self 
 Emotion | A quantized measurable version of a feeling, such as for public surveys
+Entity | Anything that the mind regards as having an identity
 Existence | the effect of Consciousness as its other half
 God | an entity that represents either Enki or Enlil
 gods | entities that represent beings more advanced than humans with corresponding increase in power or abilities  
@@ -62,6 +63,8 @@ Substance | a thing which exists in such a way that it needs nothing beyond itse
 Supreme Entity | The Absolute Entity in active form in order to gain reality and be perceived
 Tao | the dharma in active flowing form 
 Thought | A physicalized version of a metaphysical Idea, as a result of thinking
+Vice | A specific feeling that is adharmic
+Virtue | A specific feeling that is dharmic
 
 <!-- natural flow of the evolution or mechanics of a discrete identity -->
 
