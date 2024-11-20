@@ -30,11 +30,11 @@ The harmonic proportions are fitted together with them into a single system by t
 
 How many strings are there?
 
-Definition
+<!-- Definition
 
 ( — 3.2 Whole
 2.1 G
-reater part
+reater part -->
 
 If the whole string is divided into parts such that they are individually iu cousonauce both with each other and with the whole, we shall call the division harmonic. 
 
@@ -44,110 +44,97 @@ Let the geometer note the analogy of the divine proportion, that is the proporti
 
 For what in this geometrical division is the same proportion, in our musical division is the same quality, which is called concord, consonance, congruence, or harmony. 
 
-Beware however of assuming a consonance of the same kind, just as in the geometrical case the proportion is unique. The ancients did not mention this division in this sense, as they did not know the true cause of consonances; but we shall
-deal below with their division of the string.
+Beware however of assuming a consonance of the same kind, just as in the geometrical case the proportion is unique. The ancients did not mention this division in this sense, as they did not know the true cause of consonances. 
+
+But we shall deal below with their division of the string.
 
 
-## Proposition 9
+### Proposition 9: The division of a string into 2 equal parts is harmonic
 
-The division of a string into two equal parts is harmonic.
+This is because:
+- equal parts give out the same sound at any given tension, by Axiom 2
+- the whole is twice the individual parts
 
-For because equal parts give out the same sound at any —given tension, by Axiom II; and the whole is twice the individual
-parts; therefore it is in identical consonance with each one of —
-them, by Proposition I. 
+Therefore, it is in identical consonance with each one of them, by Proposition 1. 
 
-Therefore there
-»
-are three consonances. Hence by defini- - - -
-^ • „ L— ..-T—
-tion the string is divided harmonically.
-i
-»
+Therefore there are 3 consonances*. Hence, by definition the string is divided harmonically.
 
-## Proposition 10
+{{< n n="In Essassani talk, this is the trinity. In Superphysics and Hinduism, this is the 3 gunas or influences" >}}
 
-The division of a string into two parts which are in double proportion is harmonic.
 
-For the parts in this proportion are in identical consonance, by Proposition 1.
+#### Proposition 10: The division of a string into 2 parts which are in double proportion is harmonic
 
-And because the greater part is double the smaller, therefore the whole is 3 times the smaller. 
+This is because:
+- the parts in this proportion are in identical consonance, by Proposition 1.
+- the greater part is double the smaller, therefore the whole is 3 times the smaller. 
 
-Therefore it is to the smaller as a circle is to the part cut off by a side of an equilateral triangle, which is consonant, by the final Corollary of the previous Chapter. Hence the whole is itself in consonance with the smaller part, by Axiom V.
+Therefore it is to the smaller as a circle is to the part cut off by a side of an equilateral triangle, which is consonant, by the final Corollary of the previous Chapter. 
 
-Therefore it is in consonance with the one which is double it, that is the remainder, by Proposition IV. Therefore three consonances are established by this division. 
+Hence the whole is itself in consonance with the smaller part, by Axiom 5.
 
-Therefore the proposition follows.
+Therefore, it is in consonance with the one which is double it, that is the remainder, by Proposition 4. 
 
-------
+Therefore, 3 consonances are established by this division and the proposition follows.
 
-## Proposition 11
 
-The division of a string into two parts which are in triple proportion to each other is harmonic.
+### Proposition 11: The division of a string into 2 parts which are in triple proportion to each other is harmonic
 
-For because the parts 1 and 3 are to each other as a consonant part of a circle is to the whole, they themselves are also in consonance with each other, by Axiom V. And as 1 and 3 make 4, the part 1 will also be in
-consonance with the whole by Axiom I and by Proposition 3.
+This is because the parts 1 and 3 are to each other as a consonant part of a circle is to the whole, they themselves are also in consonance with each other, by Axiom 5.
 
-Lastly because the remainder 3 is in consonance with the part 1, it will also be in consonance with four times the part, 4, that is with the whole string. 
+Since 1 + 3 = 4, the part 1 will also be in consonance with the whole by Axiom 1 and by Proposition 3.
+
+The remainder 3 is in consonance with the part 1. So it will also be in consonance with 4 times the part, 4, that is with the whole string.
 
 Hence in this case also there are 3 consonances.
 
 
-## Proposition 12
+### Proposition 12: The division of a string into 2 parts which are in quadruple proportion to each other is harmonic
 
-The division of a string into two parts which are in quadruple proportion to each other is harmonic.
+This is because:
+- the parts are in quadruple proportion. They are therefore in identical consonance with each other, by Proposition 3.
+- 1 + 4 = 5. Therefore, the part 1 is in consonance with the whole 5, by Axiom 1 and the Corollary mentioned. 
 
-For because the parts are in quadruple proportion they are therefore in identical consonance with each other, by Proposition
-III; and because 1 and 4 make 5 therefore the part 1 is in consonance with the whole 5, by Axiom I and the Corollary mentioned. 
+Hence, the whole 5 is also in consonance with 4, the quadruple of the part 1, by Proposition 4. Therefore, 3 consonances occur. 
 
-Hence the whole 5 is also in consonance with 4, the quadruple of the part 1, by Proposition IV. Therefore three consonances occur. 
+<!-- Therefore, and so on. -->
 
-Therefore, and so on.
+### Proposition 13: The division of a string into 2 parts which are in quintuple proportion to each other is harmonic
 
+This is because:
+- the part is 1, the remainder 5. They are therefore in the proportion to each other in which the whole circle is to a consonant part, by Axiom 1 and the Corollary mentioned. Hence they are also themselves in consonance with each other, by Axiom 5
+- the part 1 together with the remainder 5 makes up the whole, 6, therefore (by Axiom 1 and its Corollary) the part 1 is in consonance with the whole 6.
+- the remainder 5 is to the quarter of the whole circle 6 (that is to say, to in this division) as the whole circle 10 is to its part 3, which is consonant by the Corollary, hence the remainder 5 will also be in consonance with the whole 6, by Proposition 7. 
 
-## Proposition 13
+Or, which comes to the same thing, because the remainder 3 is to twice the whole circle 6, that is 12, as a consonant part is to the whole, by the Corollary, hence this remainder, 5, will also be in consonance with 12, twice the whole, by Axiom 5.
 
-The division of a string into two parts which are in quintuple proportion to each other is harmonic.
+Therefore it will also be in consonance with the simple circle, that is to say the whole circle 6 itself, by Proposition 4. 
 
-For because the part is 1, the remainder 5, they are therefore in the proportion to each other in which the whole circle is to a consonant part, by Axiom 1 and the Corollary mentioned. 
+Thus 3 consonances occur.
 
-Hence they are also themselves in consonance with each other, by Axiom V; and because the part 1 together with the remainder 5 makes up the whole, 6, therefore (by Axiom I and its Corollary) the part 1 is in consonance with the whole 6. 
-
-And because the remainder 5 is to the quarter of the whole circle 6 (that is to say, to in this division) as the
-whole circle 10 is to its part 3, which is consonant by the Corollary, hence the remainder 5 will also be in consonance with the whole 6, by Proposition 7. 
-
-Or, which comes to the same thing, because the remainder 3 is to twice the whole circle 6, that is 12, as a consonant
-part is to the whole, by the Corollary, hence this remainder, 5, will also be in
-consonance with 12, twice the whole, by Axiom V. Therefore it will also be in
-consonance with the simple circle, that is to say the whole circle 6 itself, by Propo­
-sition IV. Thus three consonances occur. Therefore, and so on.
+ <!-- Therefore, and so on. -->
 
 
-## Proposition 14: The division of a string into two parts, in sesquialterate proportion to each other, is harmonic.
+### Proposition 14: The division of a string into two parts, in sesquialterate proportion to each other, is harmonic
 
-For because the part 2 makes the sesquialterate proportion with its remainder, 3, therefore the part is to the remainder as a consonant remainder 2 is to its circle, 3, by the Corollary. Hence this part 2 will also
-A 1 , be in consonance with its remainder 3, by Axiom V; and because the part 2 together with its remainder 3 makes a whole 5, but a part 1 and its remainder 4 are in consonance with their whole 5 by the Corollary; therefore the whole 5 will also be in consonance with 2, which is twice its consonant part 1, which is our part at this point, or with 2 as half its remainder, 4, by Proposition 4. 
+This is because:
+-  the part 2 makes the sesquialterate proportion with its remainder, 3. Terefore, the part is to the remainder as a consonant remainder 2 is to its circle, 3, by the Corollary.  <!-- A 1 , --> Hence this part 2 will also be in consonance with its remainder 3, by Axiom 5
+- the part 2 together with its remainder 3 makes a whole 5, but a part 1 and its remainder 4 are in consonance with their whole 5 by the Corollary. Therefore, the whole 5 will also be in consonance with 2, which is twice its consonant part 1, which is our part at this point, or with 2 as half its remainder, 4, by Proposition 4. 
 
-The same also follows directly from the axiomatic first part of Proposition V: because the chord subtended by two fifths is constructible, hence it is also consonant. 
+The same also follows directly from the axiomatic first part of Proposition 5 because the chord subtended by two fifths is constructible, hence it is also consonant. 
 
 Lastly because the remainder 3 of a part 2 is to a quarter of the whole, 5, as a whole circle 12 is to its consonant part 5, by the Corollary, therefore our remainder 3 will be in consonance with the whole 5 by Proposition VII. Therefore three
-consonances exist. Therefore 8
-H a rmo ni c D i vi si on
-of the
-S tring
-161
-5, hence by Axiom V our part 3 will also be in consonance with
-our remainder, 3. And because the part 3 together with the re­
-mainder 3 makes a whole of 8, hence by the Corollary the part
-3 will be in consonance with the whole, 8. Lastly because the re­
-mainder, 3, is to 4, the half of the whole, 8, as the whole circle,
-3, is to a remainder, 4, which is consonant; or to the fourth part,
-2, of the whole 8 as the whole circle 3 is to its part, 2, which
-is consonant by the Corollary, therefore our remainder will also be in consonance
-with its whole, 8, by Proposition VII. Therefore in this case also three conso­
-nances occur. Therefore . .
+consonances exist. 
+
+<!-- Therefore  -->
+
+<!-- 5,  -->
+
+Hence by Axiom V our part 3 will also be in consonance with our remainder, 3. And because the part 3 together with the remainder 3 makes a whole of 8, hence by the Corollary the part 3 will be in consonance with the whole, 8. Lastly because the remainder, 3, is to 4, the half of the whole, 8, as the whole circle, 3, is to a remainder, 4, which is consonant; or to the fourth part, 2, of the whole 8 as the whole circle 3 is to its part, 2, which is consonant by the Corollary, therefore our remainder will also be in consonance with its whole, 8, by Proposition 7.
+
+Therefore in this case also three consonances occur. 
 
 
-## Proposition 16: If a string is divided into two expressible parts, and between them and the whole, that is between the three terms, there is one dissonance, there must also be another dissonance between them.
+### Proposition 16: If a string is divided into two expressible parts, and between them and the whole, that is between the three terms, there is one dissonance, there must also be another dissonance between them.
 
 For the cause of the dissonance will be that either the whole or the part has from that division a number of portions which belongs to an inconstructible figure. 
 
@@ -164,42 +151,28 @@ able with each other, each will be incommensurable with the whole.
 
 
 
-## Proposition 17: If a string is divided into 2 parts expressible in length, and there are 2 consonances between them and the whole, that is, between the three terms, there must also be a third consonance.
+### Proposition 17: If a string is divided into 2 parts expressible in length, and there are 2 consonances between them and the whole, that is, between the three terms, there must also be a third consonance.
 
 For if there are two consonances, since there are not more than three proportions, therefore there cannot be two dissonances. If there are not two dissonances, therefore there is not one either, by the converse of XVI. Therefore all
 three proportions will be consonances.
 
-## Proposition 18: The division of a string into two parts in the proportion of one and 2/3 to 1, or 5 to 3, is harmonic.
+### Proposition 18: The division of a string into two parts in the proportion of one and 2/3 to 1, or 5 to 3, is harmonic.
 
 For because the proportion of the part 3 to the remainder 5 is the same as that of any remainder 3, which is consonant by the Corollary, to the whole In the same way in geometry, if a straight line is divided into parts which are commensurable with each other, the whole will be commensurable with both the parts.
 
-## Proposition 18
+### Proposition 18: The division of a string into two parts which are expressible in length, in which either the whole or one of the parts acquires the number of portions which belongs to an inconstructible figure (where in fact the numbers both of the whole and of the parts have no common factors), it is not harmonic.
 
-The division of a string into two parts which are expressible in length,
-in which either the whole or one of the parts acquires the number
-of portions which belongs to an inconstructible figure (where in fact
-the numbers both of the whole and of the parts have no common
-factors), it is not harmonic."’^
-It is proved like XVI. For at least two dissonances occur between the three
-proportions of the three terms, which is contrary to the foregoing Definition.
+It is proved like XVI. For at least two dissonances occur between the three proportions of the three terms, which is contrary to the foregoing Definition.
 In this case there are three examples. In the first the greater part
 is seven eighths; in the last the smaller is one ninth; in the middle
 one, the whole contains seven parts. All are dissonant.
-____ ^
-i r r z :.
-of
-t h e
-S tring
-163
-
+<!-- 
 Corollaries
 Places marked with a
 cannot
 be expressed in the notes of the
 usual music.
-7.
-t.
-I.
+ -->
 
 
 ## Proposition 19
