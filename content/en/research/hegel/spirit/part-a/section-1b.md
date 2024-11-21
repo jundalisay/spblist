@@ -10,8 +10,6 @@ weight: 6
 ---
 
 
-
-
 The fundamental difference is that in our perceptions (sense-experience), pure being immediately breaks up into the 2 “thises”:
 
 1. The 'I'

@@ -1,6 +1,6 @@
 ---
 title:  "First Efforts To Produce The Self-acting Engine"
-heading: "Part 8"
+heading: "Part 9"
 weight: 22
 writer:
   name: Nikola Tesla
@@ -10,7 +10,7 @@ description: "The windmill, the solar engine, the engine driven by terrestrial h
 ---
 
 
-## The Mechanical Oscillator
+### The Mechanical Oscillator
 
 <!-- Having recognized this truth, I began to devise means for carrying out my idea, and, after long thought,  -->
 
@@ -68,25 +68,36 @@ Shortly afterward Dr. Carl Linde announced the liquefaction of air by a self-coo
 
 ## Liquid Air
 
-The liquefaction of air by a self-cooling process was not, as popularly believed, an accidental discovery. It was a scientific result which could not have been delayed much longer, and which, in all probability, could not have escaped Dewar. 
+The liquefaction of air by a self-cooling process was not, as popularly believed, an accidental discovery. It was a scientific result which could not have escaped Dewar. 
 
-This fascinating advance is largely due to his powerful work.  <!-- of this great Scotchman. --> 
+This fascinating advance is largely due to his powerful work.  Nevertheless, Linde's is an immortal achievement. 
 
-Nevertheless, Linde's is an immortal achievement. The manufacture of liquid air has been carried on for four years in Germany, on a scale much larger than in any other country, and this strange product has been applied for a variety of purposes. Much was expected of it in the beginning, but so far it has been an industrial ignis fatuus.
+<!-- of this great Scotchman. --> 
 
-By the use of such machinery as I am perfecting, its cost will probably be greatly lessened, but even then its commercial success will be questionable. When, used as a refrigerant it is uneconomical, as its temperature is unnecessarily low. 
+The manufacture of liquid air has been carried on for 4 years in Germany, on a scale much larger than in any other country.
 
-It is as expensive to maintain a body at a very low temperature as it is to keep it very hot; it takes coal to keep air cold. In oxygen manufacture it cannot yet compete with the electrolytic method. For use as an explosive it is unsuitable, because its low temperature again condemns it to a small efficiency, and for motive-power purposes its cost is still by far too high. 
+<!-- This strange product has been applied for a variety of purposes.  -->
 
-It is of interest to note, however, that in driving an engine by liquid air a certain amount of energy may be gained from the engine, or, stated otherwise, from the ambient medium which keeps the engine warm, each two hundred pounds of iron-casting of the latter contributing energy at the rate of about one effective horsepower during one hour. But this gain of the consumer is offset by an equal loss of the producer. 
+Much was expected of it in the beginning, but so far it has been an industrial ignis fatuus.
+
+By the use of such machinery as I am perfecting, its cost will probably be greatly lessened. But even then, its commercial success will be questionable. 
+
+When used as a refrigerant, it is uneconomical, as its temperature is unnecessarily low. 
+
+It is as expensive to maintain a body at a very low temperature as it is to keep it very hot. It takes coal to keep air cold. In oxygen manufacture it cannot yet compete with the electrolytic method. 
+
+For use as an explosive it is unsuitable, because its low temperature again condemns it to a small efficiency, and for motive-power purposes its cost is still by far too high. 
+
+It is of interest to note, however, that in driving an engine by liquid air a certain amount of energy may be gained from the engine, or, stated otherwise, from the ambient medium which keeps the engine warm, each 200 pounds of iron-casting of the latter contributing energy at the rate of about one effective horsepower during 1 hour.
+
+But this gain of the consumer is offset by an equal loss of the producer. 
 
 Much of this task on which I have labored so long remains to be done. 
 
-A number of mechanical details are still to be perfected and some difficulties of a different nature to be mastered, and I cannot hope to produce a self-acting machine deriving energy from the ambient medium for a long time yet, even if all my expectations should materialize. 
+A number of mechanical details are still to be perfected and some difficulties of a different nature to be mastered. I cannot hope to produce a self-acting machine deriving energy from the ambient medium for a long time yet, even if all my expectations should materialize.
 
 Many circumstances have occurred which have retarded my work of late, but for several reasons the delay was beneficial. 
 
 One of these reasons was that I had ample time to consider what the ultimate possibilities of this development might be. 
 
 I worked for a long time fully convinced that the practical realization of this method of obtaining energy from the sun would be of incalculable industrial value, but the continued study of the subject revealed the fact that while it will be commercially profitable if my expectations are well founded, it will not be so to an extraordinary degree. 
-
