@@ -22,9 +22,9 @@ The problem began when physicists started smashing atoms, leading to subatomic p
 
 They did not know the ancient Physics concept of the 5 Elements. 
 
-Instead, they only knew Electromagnetism as the supreme principle, which is merely the 3rd Element in the ancient system of classification.
+Instead, they only knew Electromagnetism as the supreme principle, which is merely the 3rd Element in the ancient system of classification and the 1st Element in the Cartesian system.
 
-'Spin' is the most obvious property of Electromagnetism and so they  ended up classifying subatomic particles based on spin (as fermions, bosons, and leptons) or quarks (as hadrons, baryons, mesons). 
+'Spin' is the most obvious property of Electromagnetism and so they ended up classifying subatomic particles based on spin (as fermions, bosons, and leptons) or quarks (as hadrons, baryons, mesons). 
 
 These classify an even messier naming convention of particles:
 - Greek-based such as Proton, Electron, Tau
@@ -33,30 +33,49 @@ These classify an even messier naming convention of particles:
 
 We fix this to make their naming more intuitive and therefore easier to remember, by basing it on the ancient system as intended by Rene Descartes who was the author of Physics before Newton.  
 
-This system divides everything in the universe as either a quantum-substance or a medium. The medium is where force works through. Substance is the discrete identity that reacts to the force. 
+This system divides everything in the universe as either a quantum-substance or a medium.
+- The medium is where force works through. 
+- Substance is the discrete identity that reacts to the force. 
+- Quantim is the smallest unit of substance.
 
-The Graviton, Electromagnetism, Weak, and Strong Force are replaced with Spacetime, Radiance, Transformative, and Material Elements. This is because all forces are really from the Aether ELement which manifests through Spacetime (i.e. gravity, magnetism, and contact forces make two things closer together in space).
+The Graviton, Electromagnetism, Weak, and Strong Force are replaced with Spacetime, Radiance, Convertible, and Material Layers.
 
-Each Element has a representative quantum-substance and a representative medium. 
+<!-- This is because all forces are really from the Aether ELement which manifests through Spacetime (i.e. gravity, magnetism, and contact forces make two things closer together in space). -->
 
-For example, electrons represent the Radiant Element and is therefore renamed as "qor" or quantum of radiance. Light is the medium of Radiance and so photons are renamed into "mor" or medium of radiance.
+Each Layer has a representative quantum-substance and a representative medium. 
 
-Neutrons represent the Transformative Element and becomes "qot" while the W+, W- and Z bosons become "mot3", "mot2", and "mot1" respectively. 
+For example:
+- electrons represent the Radiant Element and is therefore renamed as "qor" or quantum of radiance
+- light is the medium of Radiance and so photons are renamed into "mor" or medium of radiance
+- neutrons represent the Convertible Element and becomes "qoc" 
+- the W+, W- and Z bosons become "moc3", "moc2", and "moc1" respectively. 
 
-The same convention is applied to all the other Elements. In this way, people only need to know the 5 Element names.
 
-Chemical elements are renamed as M representing Modes of Matter based on their atomic number so that Hydrogen is M1, and oxygen is M8. H2O becomes M1_2+M8. Salt is M11+M17. 
+The same convention is applied to all the other Layers. In this way, people only need to know the 5 layer names.
 
-Charges are denoted by male ♂ and female ♀ symbols. A neutral charge is hermaphroditic ⚥ so that an electron (qor) has a male charge and a proton (qom) has a female charge, and a neutron (qot) is hermaphroditic.
+Chemical elements are renamed into their atomic number representing their Version of Matter.
+- Hydrogen is 1
+- Oxygen is 8
+- Water becomes 1(2)-8
+- Table salt is 11-17
+
+Charges are denoted by male ♂ and female ♀ symbols. A neutral charge is hermaphroditic ⚥.
+- An electron (qor) has a male charge 
+- A proton (som) has a female charge
+- A neutron (soc) is hermaphroditic.
 
 In this way, beta decay is denoted as:
 
-qot → qom + qor♂ + -qot1
+```
+soc → som + qor + -qoc1
+```
 
-Here, the Transformative Element transforms into Matter, Radiance, and AntiTransformative Elements. We denote antiparticles with the negative since since the male symbol already denotes negative charge. 
+Here, the convertible substance transforms into material, radiant, and anti-convertible quanta. 
+
+We denote antiparticles with the negative since since the male symbol already denotes negative charge. 
 
 
-## Charges
+### Charges
 
 Charges are denoted as male or female.
 
@@ -70,7 +89,7 @@ Positive + | Female ♀
 Neutral  | Neutral ⚥
 
 
-## Antimatter
+### Antimatter
 
 Antimatter is denoted with a negative sign in the front, different from Physics which is in a superscript.
 
@@ -87,6 +106,5 @@ We use the atomic number of elements as their name. This will be explained in Pa
 
 Name | Chemistry | Superphysics
 --- | --- | ---
-Hydrogen | H | e1 or "e 1"
-Water | H2O | (2)1-8 or "1-duo-8"
-
+Hydrogen | H | 1 or "v1"
+Water | H2O | 1(2)-8 or "1-duo-8"

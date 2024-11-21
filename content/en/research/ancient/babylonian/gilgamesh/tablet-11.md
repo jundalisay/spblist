@@ -6,11 +6,10 @@ description: "I will tell you a secret of the gods. The old city Shuruppak is on
 ---
 
 
-Gilgamesh spoke to Utanapishtim:
-
 {{< l a="Gilgamesh" >}}
-I have been looking at you, but you look like me! I resolved not to fight you. How is it that you stand in the Assembly of the Gods, and have found life!"	
+[To Utanapishtim] I have been looking at you, but you look like me! I resolved not to fight you. How is it that you stand in the Assembly of the Gods, and have found life!"	
 {{< /l >}}
+
 
 Utanapishtim:
 
@@ -37,8 +36,7 @@ Enki replied: 'Tell them that Enlil is rejecting you so you cannot stay in the c
 
 That stated	time had arrived.	
   
-[Meteorites] showered down in the morning and evening.
-The	weather	was	frightful to behold!	
+[Meteorites] showered down in the morning and evening. The	weather	was	frightful to behold!	
   
 I went into the boat and sealed the entry. 
 
@@ -46,23 +44,54 @@ Just as dawn began there arose from the horizon a black cloud. Adad rumbled insi
   
 Erragal	pulled out the mooring poles.	
   
-Just then Enlil	arrived. He saw	the boat and became furious at the Igigi gods: 'Where did a living being escape? No man was to survive the annihilation!'	  
 
+Just then Enlil	arrived. He saw	the boat and became furious at the Igigi gods: 
+
+{{< r a="Enlil" >}}
+'Where did a living being escape? No man was to survive the annihilation!'	  
+{{< /r >}}
+
+{{< r a="Ninurta" >}}
 Ninurta spoke to Valiant Enlil, saying:	'Only Enki could devise	such a thing. He knows every machination!'	
-  
-Enki replied: 'It is yours, O Valiant One. I only made a dream appear to Atlantis and thus, he heard the secret of the gods.'
+{{< /r >}}
 
-Utanapishtim said to his wife: "Mankind	is deceptive, and will deceive you.	Come, bake loaves for him and keep setting them by his head. Draw on the wall each day that he lay down."
-  
+{{< r a="Enki" >}}
+'It is yours, O Valiant One. I only made a dream appear to Atlantis and thus, he heard the secret of the gods. The deliberation should be about Atlantis'
+{{< /r >}}
+
+
+
+Enlil went up to his ship and grabbed my hand to go up with him. 
+
+He made my wife go up with him by my side. He stood between us, touched our forehead and blessed us. 
+
+
+{{< r a="Enki" >}}
+'Previously, Utanapishtim was human. Now he and his wife will be like us. Let him live far away at the Mouth of the Rivers. 
+{{< /r >}}
+
+
+So they took us to live at the Mouth of the Rivers.
+
+{{< l a="Utanapishtim" >}}
+[To his own wife]: "Mankind	is deceptive, and will deceive you.	Come, bake loaves for him and keep setting them by his head. Draw on the wall each day that he lay down."
+{{< /l >}}
+
 She	did so. 
-  
-The	first loaf was dessicated, the second stale, the third moist(?), the fourth	turned white, the fifth sprouted gray mold. The 6th is still fresh. The 7th ‐suddenly he touched him and the man awoke.
-  
-Gilgamesh said  to Utanapishtim:		
-  	
-"The very moment I was sleeping deeply you touched me and awakened me."
-  
-Utanapishtim replied: "Count your loaves! Be aware of what is marked on the wall. Your first loaf was dessicated, the second stale, the third moist(?), the fourth	turned white, the fifth sprouted gray mold. The 6th is still fresh. The 7th ‐at that instant you awoke!
-  
+
+
+
+{{< l a="Gilgamesh" >}}
+[To Utanapishtim] "The very moment I was sleeping deeply you touched me and awakened me."
+{{< /l >}}
+
+{{< r a="Utanapishtim" >}}
+Look here, count your loaves! Be aware of what is marked on the wall. Your first loaf was dessicated, the second stale, the third moist(?), the fourth	turned white, the fifth sprouted gray mold. The 6th is still fresh. The 7th ‐at that instant you awoke!
+{{< /r >}}
+
+
+{{< l a="Gilgamesh" >}}
 "What shall I do? Where shall I go?"
-  	
+{{< /l >}}
+
+

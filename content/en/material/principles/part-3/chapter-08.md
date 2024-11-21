@@ -8,7 +8,7 @@ description: "We replace negative and positive charnges with Male and Female, as
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 34
 icon: /icons/spmat.png
 toc: false
 ---

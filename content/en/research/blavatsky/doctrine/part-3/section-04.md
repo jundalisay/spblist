@@ -23,12 +23,16 @@ Rotation has originated:
 “It is a fundamental principle in physics that no rotation could be generated in such a mass by the action of its own parts. As well attempt to change the course of a steamer by pulling at the deck railing,” remarks on this Prof. Winchell in World-Life.835
 
 Hypotheses of the Origin of Planets and Comets.
-(a) We owe the birth of the planets (1) to an explosion of the Sun—a parturition of its central mass;836 or (2) to some kind of disruption of the nebular rings.
 
-[pg 545]
+(a) The planets come from:
+- an explosion of the Sun—a parturition of its central mass;836 or 
+- a disruption of the nebular rings.
+
 (b) “The comets are strangers to the planetary system.”837 “The comets are undeniably generated in our solar system.”838
 
-(c) The “fixed stars are motionless,” says one authority. “All the stars are actually in motion,” answers another authority. “Undoubtedly every star is in motion.”839
+<!-- The “fixed stars are motionless,” says one authority. “All the stars are actually in motion,” answers another authority. -->
+
+(c)  “Undoubtedly every star is in motion.”839
 
 (d) “For over 350,000,000 years, the slow and majestic movement of the sun around its axis has never for a moment ceased.”840
 
@@ -36,13 +40,18 @@ Hypotheses of the Origin of Planets and Comets.
 
 (f) “The sun has existed no more than 15,000,000 of years, and will emit heat for no longer than 10,000,000 years more.”842
 
-A few years ago this eminent Scientist was telling the world that the time required for the Earth to cool from incipient incrustation to its present state, could not exceed 80,000,000 years.843 the encrusted age of the world is only 40,000,000, or half the duration once allowed, and the Sun's age is only 15,000,000, have we to understand that the Earth was at one time independent of the Sun?
+A few years ago this eminent Scientist was telling the world that the time required for the Earth to cool from incipient incrustation to its present state, could not exceed 80,000,000 years.843 
 
-Since the ages of the Sun, of the planets, and of the Earth, as they are stated in the various scientific hypotheses of the Astronomers and Physicists, are given elsewhere below, we have said enough to show the disagreement between the ministers of Modern Science. Whether we accept the fifteen million years of Sir William Thomson or the thousand millions of Mr. Huxley, for the rotational evolution of our Solar System, it will always come to this; that by accepting self-generated rotation for the heavenly bodies composed of inert Matter and yet moved by their own internal motion, for millions of years, this teaching of Science amounts to:
+The encrusted age of the world is only 40,000,000, or half the duration once allowed, and the Sun's age is only 15,000,000, have we to understand that the Earth was at one time independent of the Sun?
 
-(a) An evident denial of that fundamental physical law, which states that “a body in motion tends constantly to inertia, i.e., to continue in the same state of motion or rest, unless it is stimulated into further action by a superior active force.”
+Since the ages of the Sun, of the planets, and of the Earth, as they are stated in the various scientific hypotheses of the Astronomers and Physicists, are given elsewhere below, we have said enough to show the disagreement between the ministers of Modern Science.
 
-[pg 546]
+Should we accept the 15 million years of Sir William Thomson? Or the thousand millions of Huxley for the rotational evolution of our Solar System?
+
+By accepting self-generated rotation for the heavenly bodies composed of inert Matter and yet moved by their own internal motion, for millions of years, this teaching of Science amounts to:
+
+(a) A denial of that fundamental physical law, which states that “a body in motion tends constantly to inertia, i.e., to continue in the same state of motion or rest, unless it is stimulated into further action by a superior active force.”
+
 (b) An original impulse, which culminates in an unalterable motion, within a resisting Ether that Newton had declared incompatible with that motion.
 
 (c) Universal gravity, which, we are taught, always tends to a centre in rectilinear descent—alone the cause of the revolution of the whole Solar System, which is performing an eternal double gyration, each body around its axis and orbit. Another occasional version is:
@@ -57,19 +66,36 @@ Without that force independent from, and of quite another nature than, the said 
 
 A mass, furthermore, which derives its weight from the body on which it weighs.
 
-Thus neither Laplace's perceptions of a solar atmospheric fluid, which would extend beyond the orbits of the planets, nor Le Couturier's electricity, nor Foucault's heat,846 nor this, nor the other, can ever help any of the numerous hypotheses about the origin and permanency of rotation to escape from this squirrel's wheel, any more than can the theory of gravity itself. This mystery is the Procrustean bed of Physical Science. If Matter is passive, as we are now taught, the simplest movement cannot be said to be an essential property of Matter—the latter being considered simply as an inert mass. How, then, can such a complicated movement, compound and multiple, harmonious and equilibrated, lasting in the eternities for millions and millions of years, be attributed simply to its own inherent force, unless the latter is an Intelligence? A physical will is something new—a conception that the Ancients would never have entertained, indeed! For over a century all distinction between body and force has been made away with. “Force is but the property of a body in motion,” say the [pg 547]Physicists; “life—the property of our animal organs—is but the result of their molecular arrangement,” answer the Physiologists. As Littré teaches:
+Thus neither Laplace's perceptions of a solar atmospheric fluid, which would extend beyond the orbits of the planets, nor Le Couturier's electricity, nor Foucault's heat,846 nor this, nor the other, can ever help any of the numerous hypotheses about the origin and permanency of rotation to escape from this squirrel's wheel, any more than can the theory of gravity itself.
 
-In the bosom of that aggregate which is named planet, are developed all the forces immanent in matter ... i.e., that matter possesses in itself and through itself the forces that are proper to it ... and which are primary, not secondary. Such forces are the property of weight, the property of electricity, of terrestrial magnetism, the property of life.... Every planet can develop life ... as earth, for instance, which had not always mankind on it, and now bears (produit) men.847
+This mystery is the Procrustean bed of Physical Science.
+
+If Matter is passive, as we are now taught, the simplest movement cannot be said to be an essential property of Matter—the latter being considered simply as an inert mass. 
+
+How, then, can such a complicated movement, compound and multiple, harmonious and equilibrated, lasting in the eternities for millions and millions of years, be attributed simply to its own inherent force, unless the latter is an Intelligence? 
+
+A physical will is something new—a conception that the Ancients would never have entertained, indeed! For over a century all distinction between body and force has been made away with. 
+
+“Force is but the property of a body in motion,” say the [pg 547]Physicists; “life—the property of our animal organs—is but the result of their molecular arrangement,” answer the Physiologists. As Littré teaches:
+
+In the bosom of that aggregate which is named planet, are developed all the forces immanent in matter ... i.e., that matter possesses in itself and through itself the forces that are proper to it ... and which are primary, not secondary. 
+
+Such forces are the property of weight, the property of electricity, of terrestrial magnetism, the property of life.... Every planet can develop life ... as earth, for instance, which had not always mankind on it, and now bears (produit) men.847
 
 An Astronomer says:
 
-We talk of the weight of the heavenly bodies, but since it is recognized that weight decreases in proportion to the distance from the centre, it becomes evident that, at a certain distance, that weight must be forcibly reduced to zero. Were there any attraction there would be equilibrium.... And since the modern school recognizes neither a beneath nor an above in universal space, it is not clear what should cause the earth to fall, were there even no gravitation, nor attraction.848
+We talk of the weight of the heavenly bodies, but since it is recognized that weight decreases in proportion to the distance from the centre, it becomes evident that, at a certain distance, that weight must be forcibly reduced to zero. 
 
-Methinks the Count de Maistre was right in solving the question in his own theological way. He cuts the Gordian knot by saying:—“The planets rotate because they are made to rotate ... and the modern physical system of the universe is a physical impossibility.”849 For did not Herschell say the same thing when he remarked that there is a Will needed to impart a circular motion, and another Will to restrain it?850 This shows and explains how a retarded planet is cunning enough to calculate its time so well as to hit off its arrival at the fixed minute. For, if Science sometimes succeeds, with great ingenuity, in explaining some of such stoppages, retrograde motions, angles outside the orbits, etc., by appearances resulting from the inequality of their progress and ours in the course of our mutual and respective orbits, we still know that there are others, and “very real and considerable deviations,” according to Herschell, “which cannot be explained except by the mutual and irregular action of those planets and by the perturbing influence of the sun.”
+Were there any attraction there would be equilibrium.... And since the modern school recognizes neither a beneath nor an above in universal space, it is not clear what should cause the earth to fall, were there even no gravitation, nor attraction.848
+
+Methinks the Count de Maistre was right in solving the question in his own theological way. He cuts the Gordian knot by saying:—“The planets rotate because they are made to rotate ... and the modern physical system of the universe is a physical impossibility.”849 
+
+For did not Herschell say the same thing when he remarked that there is a Will needed to impart a circular motion, and another Will to restrain it?850 
+
+This shows and explains how a retarded planet is cunning enough to calculate its time so well as to hit off its arrival at the fixed minute. For, if Science sometimes succeeds, with great ingenuity, in explaining some of such stoppages, retrograde motions, angles outside the orbits, etc., by appearances resulting from the inequality of their progress and ours in the course of our mutual and respective orbits, we still know that there are others, and “very real and considerable deviations,” according to Herschell, “which cannot be explained except by the mutual and irregular action of those planets and by the perturbing influence of the sun.”
 
 We understand, however, that there are, besides those little and accidental perturbations, continuous perturbations called “secular”—because of the extreme slowness with which the irregularity increases and affects the relations of the elliptic movement—and that these perturbations can be corrected. From Newton, who found that this world needed repairing very often, down to Reynaud, all say the same. In his Ciel et Terre, the latter says:
 
-[pg 548]
 The orbits described by the planets are far from immutable, and are, on the contrary, subject to a perpetual mutation in their position and form.851
 
 Proving gravitation and the peripatetic laws to be as negligent as they are quick to repair their mistakes. The charge as it stands seems to be that:
@@ -102,15 +128,20 @@ Thus, even this poor and unscientific examination of it has been useful, and it 
 
 Thus, for instance, we have found there, concerning gravitation, the axial and orbital motions, that synchronous movement having been once overcome, in the early stage, this was enough to originate a rotatory motion till the end of Manvantara. We have also come to know, in all the aforesaid combinations of possibilities with regard to [pg 550]incipient rotation, most complicated in every case, some of the causes to which it may have been due, as well as some others to which it ought and should have been due, but, in some way or other, was not. Among other things, we are informed that incipient rotation may be provoked with equal ease in a mass in igneous fusion, and in one that is characterized by glacial opacity.855 That gravitation is a law which nothing can overcome, but which is, nevertheless, overcome, in and out of season, by the most ordinary celestial or terrestrial bodies—the tails of impudent comets, for instance.
 
-That we owe the universe to the holy Creative Trinity, called Inert Matter, Senseless Force and Blind Chance. Of the real essence and nature of any of these three, Science knows nothing, but this is a trifling detail. Ergo, we are told that, when a mass of cosmic or nebular Matter—whose nature is entirely unknown, and which may be in a state of fusion (Laplace), or dark and cold (Thomson), for “this intervention of heat is itself a pure hypothesis” (Faye)—decides to exhibit its mechanical energy under the form of rotation, it acts in this wise. It (the mass) either bursts into spontaneous conflagration, or it remains inert, tenebrous, and frigid, both states being equally capable of sending it, without any adequate cause, spinning through Space for millions of years. Its movements may be retrograde, or they may be direct, about a hundred various reasons being offered for both motions, in about as many hypotheses; anyhow, it joins the maze of stars, whose origin belongs to the same miraculous and spontaneous order—for:
+That we owe the universe to the holy Creative Trinity, called Inert Matter, Senseless Force and Blind Chance. Of the real essence and nature of any of these three, Science knows nothing, but this is a trifling detail. 
+
+Ergo, we are told that, when a mass of cosmic or nebular Matter—whose nature is entirely unknown, and which may be in a state of fusion (Laplace), or dark and cold (Thomson), for “this intervention of heat is itself a pure hypothesis” (Faye)—decides to exhibit its mechanical energy under the form of rotation, it acts in this wise. It (the mass) either bursts into spontaneous conflagration, or it remains inert, tenebrous, and frigid, both states being equally capable of sending it, without any adequate cause, spinning through Space for millions of years. Its movements may be retrograde, or they may be direct, about a hundred various reasons being offered for both motions, in about as many hypotheses; anyhow, it joins the maze of stars, whose origin belongs to the same miraculous and spontaneous order—for:
 
 The nebular theory does not profess to discover the origin of things, but only a stadium in material history.856
 
 Those millions of suns, planets, and satellites, composed of inert matter, will whirl on in most impressive and majestic symmetry round the firmament, moved and guided only, notwithstanding their inertia, “by their own internal motion.”
 
-Shall we wonder, after this, if learned Mystics, pious Roman Catholics, and even such learned Astronomers as were Chaubard and Godefroy,857 have preferred the Kabalah and the ancient systems to the modern dreary and contradictory exposition of the Universe? The Zohar makes a distinction, at any rate, between “the Hajaschar [the ‘Light Forces’], the Hachoser [‘Reflected Lights’], and the simple phenomenal exteriority of their spiritual types.”858
+Shall we wonder, after this, if learned Mystics, pious Roman Catholics, and even such learned Astronomers as were Chaubard and Godefroy,857 have preferred the Kabalah and the ancient systems to the modern dreary and contradictory exposition of the Universe? 
+
+The Zohar makes a distinction, at any rate, between “the Hajaschar [the ‘Light Forces’], the Hachoser [‘Reflected Lights’], and the simple phenomenal exteriority of their spiritual types.”858
 
 The question of “gravity” may now be dismissed, and other hypotheses examined. That Physical Science knows nothing of “Forces” is clear. We may close the argument, however, by calling to our help one more man of Science—Professor Jaumes, Member of the Academy of Medicine at Montpellier. Says this learned man, speaking of Forces:
 
-A cause is that which is essentially acting in the genealogy of phenomena, in every production as in every modification. I said that activity (or force) was invisible.... To suppose it corporeal and residing in the properties of matterwould be a gratuitous hypothesis.... To reduce all the causes to God, ... would amount to embarrassing oneself with a hypothesis hostile to many verities. But to speak of a plurality of forces proceeding from the Deity and possessing inherent powers of their own, is not unreasonable, ... and I am disposed to admit phenomena produced by intermediate agents called Forces or Secondary Agents. The distinction of Forces is the principle of the division of Sciences; so many real and separate Forces, so many mother-Sciences.... No; Forces are not suppositions and abstractions, but realities, and the only acting realities whose attributes can be determined with the help of direct observation and induction.859
+A cause is that which is essentially acting in the genealogy of phenomena, in every production as in every modification. I said that activity (or force) was invisible.... To suppose it corporeal and residing in the properties of matterwould be a gratuitous hypothesis.... To reduce all the causes to God, ... would amount to embarrassing oneself with a hypothesis hostile to many verities. But to speak of a plurality of forces proceeding from the Deity and possessing inherent powers of their own, is not unreasonable, ... and I am disposed to admit phenomena produced by intermediate agents called Forces or Secondary Agents. 
 
+The distinction of Forces is the principle of the division of Sciences; so many real and separate Forces, so many mother-Sciences.... No; Forces are not suppositions and abstractions, but realities, and the only acting realities whose attributes can be determined with the help of direct observation and induction.859

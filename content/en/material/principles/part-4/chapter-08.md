@@ -18,7 +18,8 @@ toc: false
 
 In Part 3, we explained that the gender of a particle (male for negative charge, and female for positive) is a product of the Radiant Layer as a representation of its vortex.
 
-Subordinate to this idea is particle 'spin' which is the dualistic vortex property of the Convertible Layer (Weak Interaction in Physics). This spin is either left or right just as the dualistic vortex property of the Radian Layer is male or female. 
+Subordinate to this idea is particle 'spin' which is the dualistic vortex property of the Convertible Layer (Weak Interaction in Physics). This spin is either left or right just as the dualistic vortex property of the Radiant Layer is male or female. 
+
 
 Layer | Positive Vortex | Negative Vortex
 ---- | --- | ---

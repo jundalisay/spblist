@@ -8,17 +8,29 @@ weight: 12
 
 
 
-Lemaître favours a “cosmological constant” in the equations of gravitation. I think that such a constant is not <!-- I must admit that these arguments do not appear to me as sufficiently --> convincing in the present state of our knowledge because it makes my general relativity logically complicated. 
+Lemaître favours a “cosmological constant” in the equations of gravitation. 
 
-The introduction of such a constant implies a considerable renunciation of the logical simplicity of theory, a renunciation which appeared to me unavoidable only so long as  essentially static nature of space. 
+I think that such a constant is not <!-- I must admit that these arguments do not appear to me as sufficiently --> convincing because it makes my general relativity logically complicated.
 
-Hubble discovered the “expansion” of the stellar system. Friedmann discovered that the unsupplemented equations involve the possibility of an average positive density of matter in an expanding universe. This makes such a constant unjustified.
+<!-- The introduction of such a constant implies a considerable renunciation of the logical simplicity of theory, a renunciation which appeared to me unavoidable only so long as  essentially static nature of space.  -->
+
+Hubble discovered the “expansion” of the stellar system. 
+
+Friedmann discovered that the unsupplemented equations involve the possibility of an average positive density of matter in an expanding universe. This makes such a constant unjustified.
 
 This is complicated by the entire duration of space-expansion to the present <!-- , based on the equations in their simplest form, turns out --> is shorter than the <!-- appears credible in view of the reliably --> known age of terrestrial minerals. 
 
 A “cosmological constant” does not help us escape the difficulty caused by Hubble’s expansion-constant and the age-measurement of minerals, completely independent of any cosmological theory, provided that one interprets the Hubble-effect as Doppler effect.
 
-Everything finally depends upon the question: Can a spectral line be considered as a measure of a “proper time”?<!--  (Eigen-Zeit)ds (ds2 = gikdxidxk), (if one takes into consideration regions of cosmic dimensions)?  -->Is there such a thing as a natural object which incorporates the “natural-measuring-stick” independently of its position in four-dimensional space? 
+Everything finally depends on the question: Can a spectral line be considered as a measure of a “proper time”?*
+
+{{< n n="In Cartesian-Spinozan Physics, a spectral line is from the 1st Element whereas proper time is aethereal or from the 0th Element. So the answer is no. Rather, the changing patterns of spectral lines through long periods of time are markers that plot the changes in the aether" >}}
+
+
+<!--  (Eigen-Zeit)ds (ds2 = gikdxidxk), (if one takes into consideration regions of cosmic dimensions)?  -->Is there such a thing as a natural object which incorporates the “natural-measuring-stick” independently of its position in four-dimensional space?*
+
+{{< n n="Update Nov 2024: In Cartesian-Spinozan Physics, the natural measuring stick is the aethereal mind of the observer, with its measurements compared to other aethereal minds to get an average. This is how generative artificial intelligence creates understandable sentences by averaging out the possible combination of words" >}}
+
 
 A yes made the invention of General Relativity psychologically possible. 
 
@@ -40,7 +52,9 @@ It is not necessary that one should permit one’s cosmological considerations t
 
 These reflections bring me to Karl Menger’s essay. 
 
-For the quantum-facts suggest the suspicion that doubt may also be raised concerning the ultimate usefulness of the program characterised in (1) and (2). There exists the possibility of doubting only (2) and, in doing so, to question the possibility of being able adequately to formulate the laws by means of differential equations, without dropping (1). 
+For the quantum-facts suggest the suspicion that doubt may also be raised concerning the ultimate usefulness of the program characterised in (1) and (2). 
+
+There exists the possibility of doubting only (2) and, in doing so, to question the possibility of being able adequately to formulate the laws by means of differential equations, without dropping (1). 
 
 The more radical effort of surrendering (1) with (2) appears to me — and I believe to Dr. Menger also — to lie more closely at hand. So long as no one has new concepts, which appear to have sufficient constructive power, mere doubt remains.
 
@@ -54,7 +68,9 @@ Max von Laue: An historical investigation of the development of the conservation
 
 In spite of serious efforts I have not succeeded in quite understanding H. Dingle’s essay, not even as concerns its aim. 
 
-Is the idea of the special theory of relativity to be expanded in the sense that new group-characteristics, which are not implied by the Lorentz-invariance, are to be postulated? Are these postulates empirically founded or only by way of a trial “posited”? Upon what does the confidence in the existence of such group-characteristics rest?
+Is the idea of the special theory of relativity to be expanded in the sense that new group-characteristics, which are not implied by the Lorentz-invariance, are to be postulated? 
+
+Are these postulates empirically founded or only by way of a trial “posited”? Upon what does the confidence in the existence of such group-characteristics rest?
 
 I think that Kurt Gödel’s essay is an important contribution to General Relativity, especially to the analysis of the concept of time. 
 

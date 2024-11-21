@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 9"
-title: "Spin: Rotation Orientation"
+heading: "Chapter 11"
+title: "Light and Lenses"
 # date: 2020-01-29
 image: /photos/physics/whitehole.jpg
 description: "Particle spin is the orientation direction of a particle."
@@ -8,7 +8,7 @@ description: "Particle spin is the orientation direction of a particle."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 55
 icon: /icons/spmat.png
 toc: false
 draft: true

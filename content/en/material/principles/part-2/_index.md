@@ -1,8 +1,8 @@
 ---
 heading: Part 2
-title: "The Spatial Layer (Spacetime)"
+title: "The Spatial Layer (Space-Time)"
 linkTitle: Spatial
-description: "We introduce the principles of Superphysics"
+description: "Space-Time is different from the spacetime of Einstein"
 image: "/photos/physics/quasar.jpg"
 # type: "featured"
 # # date: 2020-10-31

@@ -1,6 +1,6 @@
 ---
 heading: Part 4
-title: "The Convertible Layer (Weak Force)"
+title: "The Convertible Layer (Weak Conversion Force)"
 linkTitle: Convertible
 description: "The Convertible Layer converts particles into elements"
 image: "/photos/physics/elec.jpg"

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 3"
-title: "The Medium of Radiance (Photons and Heat)"
+title: "The Medium of Radiance (Photons, Heat, Magnetism)"
 # # date: 2020-01-31
 # date: 2023-03-01
 weight: 8
@@ -12,9 +12,13 @@ icon: /icons/spmat.png
 
 The Medium of Radiance facilitates the dynamicus of the radiant layer. It manifests as:
 
-1. Photon (mor1)
-2. Heat (mor2)
-3. Virtual Photons (mor3) 
+
+Name | Medium Name | Force 
+--- | --- | ---
+Photon | mor1 | Light
+Heat | mor2 | Heat
+Virtual Photons | mor3 | Magnetism  
+
 
 <!-- Unlike Physics which treats plasma as a fourth state of matter, Superphysics treats it as non-material in the sense that it has no Strong Force  -->
 

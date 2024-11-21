@@ -2,64 +2,73 @@
 heading: "Chapter 7"
 title: "Lorentz Invariance and the Speed of Light"
 # date: 2024-07-22
-weight: 30
+weight: 32
 image: /graphics/physics/quasar.jpg
 description: "The gravitational signature in the Spatial Layer is found in the timespace particle."
-icon: /icons/spmat.png
-draft: true
+icon: /icons/spmat.pn
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
+In our 5 Layer Model of physical reality, the aethereal layer is the loosest and most arbitrary, while the material layer is the most rigid and objective. 
 
-The invariance is actually essential in the teleportation process and explains why the object has to be wrapped in an electric field prior to teleportation. This is because the same field will be the same (invariantly) in a distant place such as in another star on the other side of the same galaxy, where the wave function is still the same but with slight differences. These differences are the properties of the object itself i.e. the equation of one location has the object and the other distant location doesnt have the object. By flipping these equations then the object changes from one location to the other.
+The Radiant layer sits at the middle of the 5 layer model. This gives it properties of waves and particles at the same time. 
 
+Part 2 explained that it is the aetherspace of the spatial that confines space-time where the physical universe resides.
 
-10.19 16:14
-Since the time traveler is invariant in a new space-and-time, and if the traveler is a soul that has no electrical-light, then it follows that invariance is really a property of the aether which can blanket an entire space-and-time.
+Without this confinement by space-time, light can travel instantly. However, because of this confinement, light (and everything from the radiant to the material layer) is limited to 300,000 kilometers per second from a light source.
 
-Therefore spacetime limits light to 300000 km/s. But it is the aetherspace (as the aether family acting on the space-and-time family) that really causes the invariance. 
+The movement of light in a vacuum is constant because it is the material layer that slows it down. 
 
-Therefore if that light source in spacetime X is teleported to another spacetime Z where light is 400000km/s for example, (space-and-time is more free), then it will still be invariant to Z observers but variant to an observer in the aetherspace between  X and Z. He can then choose to live in X or Z, different from people Z who can only live in and perceive space-and-time Z and its invariance 
+The important thing to note is that basis of the constant speed is the light source and not the spacet-time around it. This means that the light cannot be sped up from its sides or front. It can only be sped up from the light source since light is a pushing force.   
 
+Since the speed of light is based on the source, it becomes invariant to those around it. In Physics, this is called the Lorentz invariance or Lorentz symmetry.
 
-Lorentz invariance is exposed by Lorentz transformation as length contraction y = 1 / /1-v2/c2
+Lorentz invariance is exposed by Lorentz transformation as length contraction `y = 1 / /1-v2/c2`. It is nothing without that c.
 
-It is nothing without that c.
+That `c` is a phenomenon from the radiant layer. Lorentz contraction and invariance cannot be demonstrated in total darkness or with an invisible object. 
 
-That c is a phenomenon from electrical-light family of phenomena which I call "light" for simplicity (Descartes calls 1st Element). 
+That c therefore is an effect of the radiant layer operating within the spatial layer. This is different from Einstein's  assumptions on Minkowski spacetime and Maxwell electromagnetism. 
 
-Can you prove or demonstrate Lorentz contraction and invariance in total darkness with an invisible object? No you cannot. 
+<!-- (This is after you mentioned epsilon E0 which meant that your mind jumped into magentic fields and Gauss law, which is about magnetism instead of gravity.) -->
 
-That c is an effect of the "electrical-light family" operating within the "space-and-time family". 
-
-I realize I have to use the words "electrical-light" and "space-and-time" to prevent your mind from jumping and equating it to maxwells electromagnetism and Minkowski spacetime which have materialst assumptions automatically imbued with them.
-
-(This is after you mentioned epsilon E0 which meant that your mind jumped into magentic fields and Gauss law, which is about magnetism instead of gravity.)
-
-That c effect is to limit that electrical-light family to 300,000 km/s in "all directions" from a "single source". 
+<!-- That c effect is to limit that electrical-light family to 300,000 km/s in "all directions" from a "single source". 
 
 The "single source" is a property of the electrical-light family of phenomena.
 
 The "all directions" is a property of the space-and-time family of phenomena.
 
-(Since "single source" is a property of visible electrical-light and not of space-and-time, then it means there is no Big bang of outerspace from a single point. Therefore, the Big Bang is really an effect of humans shallowly judging the universe from visible light phenomena.)
+(Since "single source" is a property of visible electrical-light and not of space-and-time, then it means there is no Big bang of outerspace from a single point. Therefore, the Big Bang is really an effect of humans shallowly judging the universe from visible light phenomena.) -->
 
-I emphasize that c is an EFFECT and not a cause for the "structure of spacetime working" as you mentioned. You are merely using the materialist viewpoint which is opposite of mine. 
+Therefore, `c` is an EFFECT and not a cause for the "structure of spacetime working" as believed by physicists.
 
-That is why quantum mechanics is weird to you guys when from the nonmaterialist (atherealist) view, it is very consistent with experience. 
+Length contraction is the effect of an object taking on more of the properties of the radiant layer which is invariant coming from a single source or spot in space-time. 
 
-Here I explain length contraction as an effect of an object taking on more of the properties of light which is invariant coming from a single source or spot in space-and-time. 
+This is also why a human time traveler would be Lorentz invariant and would blow away the grandfather paradox. But this will not make sense to people who take c to be the cause and not the effect. 
 
-This is also why a human time traveler would be Lorentz invariant and would blow away the grandfather paradox. But this will not make sense to you since you take c to be the cause and not the effect. 
-https://youtu.be/VSNTFEpkmOI
+<!-- https://youtu.be/VSNTFEpkmOI -->
+
+The invariance will be essential in the teleportation process. This is why the object has to be wrapped in an electric field prior to teleportation. 
+
+This is because the same field will be the same (invariantly) in a distant place such as in another star on the other side of the same galaxy, where the wave function is still the same but with slight differences. 
+
+These differences are the properties of the object itself i.e. the equation of one location has the object and the other distant location doesnt have the object. 
+
+By flipping these equations then the object changes from one location to the other.
 
 
+Teleportation is also the same mechanism behind time travel. 
 
-09.16 00:00
-As I mentioned, the Lorentz invariance is merely a PROPERTY of Electromagnetism (1st Element) as it is being confined  by spacetime (2nd Element) which itself is confined by the aether (5th Element). 
+Since the time traveler is invariant in a new space-time, and if the traveler is a soul that has no electro-light, then it follows that invariance is really a property of the aether which can blanket an entire space-and-time.
+
+<!-- Therefore spacetime limits light to 300000 km/s. But it is the aetherspace (as the aether family acting on the space-and-time family) that really causes the invariance.  -->
+
+Therefore if that light source in spacetime X is teleported to another spacetime Z where light is 400000km/s for example, (space-and-time is more free), then it will still be invariant to Z observers but variant to an observer in the aetherspace between  X and Z. He can then choose to live in X or Z, different from people Z who can only live in and perceive space-and-time Z and its invariance 
+
+
+<!-- Electromagnetism (1st Element) as it is being confined  by spacetime (2nd Element) which itself is confined by the aether (5th Element). 
 
 Spacetime is variant. I.e. there are many universes in the multiverse each with varying Laws. That is also why "spacetime is dynamic" as you said.
 
@@ -73,46 +82,17 @@ Yes, it can explain macro phenomena like Mercury precession, lensing, dark energ
 
 For example Here we explain the Zeeman effect and Cartesian Relativity for quantum phenomena
 
-https://youtu.be/AWVgF4zlvdM
+https://youtu.be/AWVgF4zlvdM -->
 
 
 
-
-
-Lorentz invariance is exposed by Lorentz transformation as length contraction y = 1 / /1-v2/c2
-
-It is nothing without that c.
-
-That c is a phenomenon from electrical-light family of phenomena which I call "light" for simplicity (Descartes calls 1st Element). 
-
-Can you prove or demonstrate Lorentz contraction and invariance in total darkness with an invisible object? No you cannot. 
-
-That c is an effect of the "electrical-light family" operating within the "space-and-time family". 
-
-I realize I have to use the words "electrical-light" and "space-and-time" to prevent your mind from jumping and equating it to maxwells electromagnetism and Minkowski spacetime which have materialst assumptions automatically imbued with them.
-
-(This is after you mentioned epsilon E0 which meant that your mind jumped into magentic fields and Gauss law, which is about magnetism instead of gravity.)
-
-That c effect is to limit that electrical-light family to 300,000 km/s in "all directions" from a "single source". 
-
-The "single source" is a property of the electrical-light family of phenomena.
-
-The "all directions" is a property of the space-and-time family of phenomena.
-
-(Since "single source" is a property of visible electrical-light and not of space-and-time, then it means there is no Big bang of outerspace from a single point. Therefore, the Big Bang is really an effect of humans shallowly judging the universe from visible light phenomena.)
-
-I emphasize that c is an EFFECT and not a cause for the "structure of spacetime working" as you mentioned. You are merely using the materialist viewpoint which is opposite of mine. 
-
-That is why quantum mechanics is weird to you guys when from the nonmaterialist (atherealist) view, it is very consistent with experience. 
-
-
-"Reference Frame" is a property of the aethereal family of phenomena within the space-and-time family. 
+<!-- "Reference Frame" is a property of the aethereal family of phenomena within the space-and-time family. 
 
 "Reference" is a property of the aether. 
 
 Does a rock care about any reference? No it doesn't. Only humans do.
 
-"Frame" is a property the space-and-time family of phenomena. A frame (as a cartesian plane) has spatial dimensions length and width.
+"Frame" is a property the space-and-time family of phenomena. A frame (as a cartesian plane) has spatial dimensions length and width. -->
 
 
 

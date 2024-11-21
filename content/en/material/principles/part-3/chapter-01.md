@@ -40,3 +40,11 @@ Quality | Most striking, conveys information, start of particles
 
 Unlike the spacetime layer that has a universal influence, this layer has a limited space to influence which manifests as 'fields' and the 'inverse square law'. 
 
+But because it is located at the center of the 5 layer model, it is the basis of gauge symmetries in materialist physics. Examples of gauge symmetries are:
+- Yang Mills
+- Maxwell Electromagnetism  
+- Einstein's General Relativity
+
+
+We assign magnetism to the spatial layer instead of the radiant layer. This unifies magnetism with gravity, allowing Cartesian Relationality on both. 
+

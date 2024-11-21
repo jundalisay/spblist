@@ -17,11 +17,9 @@ The Radiant Layer is divided into Upper, Middle, and Lower, with the Upper being
 
 Sublayer | Example | Quanta 
 --- | --- | --- 
-Upper | Light | Photon Wave, Tau 
-Mid | Electricity | Photon Particle, Muons
-Lower | Magnetism | Electrons
-
-
+Upper | Light | Muon 
+Mid | Heat | Tau 
+Lower | Magnetism | Electron
 
 
 <!-- The Upper Radiant is  the realm of mental space and time and is not physical. 
