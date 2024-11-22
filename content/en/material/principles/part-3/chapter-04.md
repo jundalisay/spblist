@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: "The Substance of Radiance: Electricity"
 # date: 2023-11-10
-weight: 10
+weight: 14
 image: /photos/physics/elec.jpg
 description: "Electricity is the main substance of radiance"
 icon: /icons/spmat.pn

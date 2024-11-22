@@ -1,4 +1,5 @@
 ---
+heading: Chapter 8b
 title: "How We Found the Aether Drag"
 date: 2022-04-14
 image: /graphics/physics/aether.jpg
@@ -7,6 +8,9 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
+weight: 59
+aliases:
+  /material/aether-dash
 ---
 
 

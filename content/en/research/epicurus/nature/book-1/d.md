@@ -25,9 +25,34 @@ There is no limit to the sum of things.
 
 1. The universe has no bounding point. 
 
-The whole universe then is bounded in no direction of its ways; for then it would be bound to have an extreme point. Now it is seen that nothing can have an extreme point, unless there be something beyond to bound it, so that there is seen to be a spot further than which the nature of our sense cannot follow it. As it is, since we must admit that there is nothing outside the whole sum, it has not an extreme point, it lacks therefore bound and limit. Nor does it matter in which quarter of it you take your stand; so true is it that, whatever place every man takes up, he leaves the whole boundless just as much on every side.
+The whole universe then is bounded in no direction of its ways; for then it would be bound to have an extreme point.
 
-2. experiment of the hurled dart; Moreover, suppose that all space were created finite, if one were to run on to the end, to its furthest coasts, and throw a flying dart, would you have it that that dart, hurled with might and main, goes on whither it is sped and flies afar, or do you think that something can check and bar its way? For one or the other you must needs admit and choose. Yet both shut off your escape and constrain you to grant that the universe spreads out free from limit. For whether there is something to check it and bring it about that it arrives not whither it was sped, nor plants itself in the goal, or whether it fares forward, it set not forth from the end. In this way I will press on, and wherever you shall set the furthest coasts, I shall ask what then becomes of the dart. It will come to pass that nowhere can a bound be set and room for flight ever prolongs the chance of flight.3. the sensible world bears no analogy. Lastly, before our eyes one thing is seen to bound another; air is as a wall between the hills, and mountains between tracts of air, land bounds the sea, and again sea bounds all lands; yet the universe in truth there is nothing to limit outside.
+Nothing can have an extreme point, unless there be something beyond to bound it, so that there is seen to be a spot further than which the nature of our sense cannot follow it.
+
+There is nothing outside the whole sum, it has not an extreme point, it lacks therefore bound and limit. 
+
+Nor does it matter in which quarter of it you take your stand; so true is it that, whatever place every man takes up, he leaves the whole boundless just as much on every side.
+
+2. Experiment of the hurled dart
+
+If all space were finite, then if you go to its furthest coasts and throw a dart at the edge where will it go? 
+
+Will something bar its way? 
+
+<!-- For one or the other you must needs admit and choose. Yet both shut off your escape and constrain you to  -->
+
+Grant that the universe spreads out free from limit and you throw the same dart. 
+
+<!-- For whether there is something to check it and bring it about that it arrives not whither it was sped, nor plants itself in the goal, or whether it fares forward, it set not forth from the end.
+
+In this way I will press on, and wherever you shall set the furthest coasts, I shall ask what then becomes of the dart.  -->
+
+It will come to pass that nowhere can a bound be set and room for flight ever prolongs the chance of flight.
+
+
+3. The sensible world bears no analogy. 
+
+Lastly, before our eyes one thing is seen to bound another; air is as a wall between the hills, and mountains between tracts of air, land bounds the sea, and again sea bounds all lands; yet the universe in truth there is nothing to limit outside.
 
 b. Space is infinite: otherwise matter would collect at the bottom. Moreover, if all the space in the whole universe were shut in on all sides, and were created with borders determined, and had been bounded, then the store of matter would have flowed together with solid weight from all sides to the bottom, nor could anything be carried on beneath the canopy of the sky, nor would there be sky at all, nor the light of the sun, since in truth all matter would lie idle piled together by sinking down from limitless time. But as it is, no rest, we may be sure, has been granted to the bodies of the first-beginnings, because there is no bottom at all, whither they may, as it were, flow together, and make their resting-place. All things are for ever carried on in ceaseless movement from all sides, and bodies of matter are even stirred up and supplied from beneath out of limitless space. The nature of room then and the space of the deep is such that neither could the bright thunderbolts course through it in their career, gliding on through the everlasting tract of time, nor bring it about that there remain a whit less to traverse as they travel; so far on every side spreads out huge room for things, free from limit in all directions everywhere.
 

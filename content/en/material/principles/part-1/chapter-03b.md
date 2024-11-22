@@ -1,50 +1,100 @@
 ---
 heading: "Chapter 3b"
-title: "Wave-Particle Duality and Double Slit Experiment"
+title: "Action at a Distance"
 # # date: 2020-01-31
-image: "/graphics/physics/fabric.jpg"
-description: "Electromagnetic particles are made up of 3 aether particles"
+image: "/graphics/physics/francis.jpg"
+description: "Action at a Distance is possible because there is no void in nature."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 12
+weight: 10
 icon: /icons/spmat.png
 ---
 
 
-<!-- Cartesian Photon Mechanics:  -->
+Newtonian Mechanics embraces Democritus' matter-based philosophy which is the opposite that of Descartes. 
+
+{{< q a="Epicurus" >}}
+Therefore the first-beginnings are of solid singleness
+{{< /q >}}
 
 
-Electromagnetic particles are made up of 3 aether particles. 
+### Action at a Distance through the Aether 
 
-These are arranged in a photon in a line. 
+According to Newton's Second Law, net force equals mass times acceleration. This is fine for ordinary things like a ball (mass) which is pushed (force) to start rolling (acceleration). 
 
-Short Wavelengths have their aether spaced closer. 
+But what about a 50 kilogram Buddhist monk who floats and accelerates 1 meter/second {{< s v="2" >}} without any force? How can `0 = 50 1m/s^2`?   
 
-Light acts as a wave when traveling freely. 
-
-It becomes a particle whenever it hits something. We see this as flickering. 
-
-In the double slit experiment, this creates the particle pattern.
-
-<!-- https://youtu.be/VUuWPrhNz5o -->
-
-{{< youtube VUuWPrhNz5o >}}
+{{< img src="/graphics/physics/francis.jpg" alt="A monk levitating" cap="In Cartesian Physics, dark energy is the constant division of spacetime. Gravity is the relationality of sub-mass to a main mass. In this image, the monk is the sub-mass and the Earth is the main mass. Gravity is the metaphysical elastic band between the two." >}}
 
 
-Physics strangely interprets the double slit experiment as the act of "measuring" or "observing" a photon makes it collapse from a wave into a particle. 
+## Aethereal Effort
 
-This then logically leads to crackpot ideas like consciousness being the cause of the collapse.
+To account for this, we modify Newton's vector into a Kepler tensor that transforms based on a limiter `s`. The limiter represents the Negative force or Shakti or Yin.  
 
-But the blame should be put on physicists who use the words "measure" and "observe" in the first place. This is because "measure" and "observe" are human actions, and not mechanical ones. 
+A 2D limiter that splits perceptions into seconds will convert `F = ma` on Earth into `Gm^1 [GP second] : Gm^2 [GP second]` based on the Earth's perspective `GP`*
 
-We fix this by rewriting it as "quantum waves collapse into particles whenever they hit something". 
+{{< n n="*Qualimath does away with Greek notation" >}}
+  
 
-Cartesian-Spinoza Physics explains that photons are flat 2-dimensional particles, like dashes. 
 
-They act like a coherent straight line when they travel freely in space. 
+![Newton's second law of motion](/graphics/physics/fma.png)
 
-But when they hit something, they split into particles. This is seen as flickering. 
+Thus, the monk `m` in location `x1` floats to location `x2` by successfully changing its state or perspective `Gm` relative to that of the Earth `GP`. The new force, as a **Aethereal Effort**, then results or is derived from the difference between the two states, which may be larger or smaller than the old physical Force.  
 
-When applied to the double-slit experiment, this disrupts the wave pattern and changes it into a particle pattern.  
+```elixir
+E = Gm2 [GP second] - Gm1 [GP second]
+```
 
+#
+
+```elixir
+1 = 2 - 1
+```
+
+
+Thus, it took 1 unit of effort to levitate 1 meter/second^2 with zero physical force. 
+
+Note that this quantified effort is relevant only to the monk himself and cannot be used for comparison with the effort of other monks. It can only be compared to the past and future effort of that monk, where he compares himself with himself since the effort is metaphysical and bound to his own mind*.
+
+{{< n n="*His mind is necessarily attached to his body which he moves by this kind of effort, without any force." >}}
+
+
+
+## Physical Force
+
+We then apply the formula to a 50 kg block pushed forward accelerating constantly at 1 m/s{{< s v="2" >}}
+
+```elixir
+F = Gm2 [GP second] - Gm1 [GP second]
+```
+
+
+```elixir
+50N = 100N - 50N
+```
+
+This gives us the same result as `F = m a`
+
+The main difference is that this new version splits the identity of the object into two or more different objects. The block at time 2 location 2 is different from the same block at time 1 location 1 in the sense that it has absorbed force and changed its locational attributes. This will then be useful for teleportation by a change in gravitational signature*.
+
+
+{{< n n="*This is based on David Hume's [idea of the self](/bio/principles/intro/chapter-04)" >}}
+ 
+
+Newton's laws, however, see the object as the same object. This limits it to linear, forced movements.
+<!-- It focuses on the journey and not the destination.   -->
+
+Metaphysically:
+- the Kepler tensor represents the Yang or Shiva
+- the limiter represents the Yin or Shakti
+- the `G` represents dharma, which is Yang-Shiva when confined by Yin-Shakti
+
+
+<!-- - From the perspective of planets, the limiter takes the form of Newton's `G`, which leads to `g` when two masses are added 
+- From the perspective of light, the limiter takes the form of Einstein's `c`, which leads to relative space versus time when "reference frames" are added
+- From the perspective of galaxies, the limiter takes the form of an aethereal "dark matter", which leads to "dark energy" when red shift is added
+
+Thus, the limiter harmonizes the theories of Pythagoras, Newton, Einstein, and Descartes
+
+ -->

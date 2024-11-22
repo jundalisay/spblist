@@ -89,3 +89,9 @@ In a nutshell, Superphysics is **a paradigm that merges the known and proven per
 <!--  paradigm that sees the universe or reality as being made up of 2 Forces and 5 Layers. 
 
 Superphysics is the paradigm that sees the universe as being made up of waves. -->
+
+This combination of science and metaphysics will be opposed by materialists and so we push forward and ignore them totally. Instead, we use Nature as our arbiter -- our principles and predictions must match physical reality.  
+
+{{< q a="Blavatsky" >}}
+A minority strive to enlarge the domain of Physical Science by trespassing on the forbidden grounds of Metaphysics, so distasteful to some Materialists.
+{{< /q >}}

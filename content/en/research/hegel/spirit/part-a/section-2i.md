@@ -66,9 +66,7 @@ Away from the changing vanishing present lies the permanent beyond (Jenseits).
 - It is an immanent inherent reality (ein Ansich), which is the first and therefore imperfect manifestation of Reason, i.e. it is merely the pure element where the truth finds its abode and its essential being.
 
 
-{{< s v='145' >}}
-
-Our object henceforward has thus the form of a syllogistic inference, whose extremes are the inner being of things and understanding. 
+{{< s v='145' >}} Our object henceforward has thus the form of a syllogistic inference, whose extremes are the inner being of things and understanding. 
 
 Its middle term the sphere of appearance. The course of this inferential process, however, furnishes the further characterization of what understanding detects in the. inner world by the aid of the middle term; and gives rise to the experience understanding goes through regarding this relation of the terms when joined and united together.
 

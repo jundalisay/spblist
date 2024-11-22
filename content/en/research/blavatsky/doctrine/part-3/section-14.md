@@ -10,15 +10,29 @@ image: "/covers/secret.png"
 
 Some years ago we remarked that:
 
-The Esoteric Doctrine may well be called ... the “Thread Doctrine,” since, like Sûtrâtmâ [in the Vedânta Philosophy]1050, it passes through and strings together all the ancient philosophical religious systems, and ... reconciles and explains them.1051
+The Esoteric Doctrine may well be called ... the “Thread Doctrine”. Like Sûtrâtmâ [in Vedânta]1050, it passes through and strings together all the ancient philosophical religious systems, and reconciles and explains them.1051
 
-We now say it does more. It not only reconciles the various and apparently conflicting systems, but it checks the discoveries of modern exact Science, showing some of them to be necessarily correct, since they are found corroborated in the Ancient Records. All this will, no doubt, be regarded as terribly impertinent and disrespectful, a veritable crime of lèse-science; nevertheless, it is a fact.
+Ours not only reconciles the conflicting systems, but checks the discoveries of modern exact Science. It shows some of them to be correct, since they corroborate in the Ancient Records.
 
-Science is ultra-materialistic in our days.
+<!-- All this will, no doubt, be regarded as terribly impertinent and disrespectful, a veritable crime of lèse-science; nevertheless, it is a fact. -->
 
-But it finds, in one sense, its justification. 
+Science is ultra-materialistic in our days. But it finds, in one sense, its justification. 
 
-Nature behaving ever esoterically in actu, and being, as the Kabalists say, in abscondito, can only be judged by the profane through her appearance, and that appearance is always deceitful on the physical plane. On the other hand, the Naturalists refuse to blend Physics with Metaphysics, the Body with its informing Soul and Spirit. They prefer to ignore the latter. This is a matter of choice with some, while the minority very sensibly strive to enlarge the domain of Physical Science by trespassing on the forbidden grounds of Metaphysics, so distasteful to some Materialists. These Scientists are wise in their generation. For all their wonderful discoveries will go for nothing, and remain for ever headless bodies, unless they lift the veil of Matter and strain their eyes to see beyond. Now that they have studied Nature in the length, breadth, and thickness of her physical frame, it is time to remove the skeleton to the second [pg 670]plane, and search within the unknown depths for the living and real entity, for its sub-stance—the noumenon of evanescent Matter.
+Nature behaves ever esoterically.
+
+ <!-- in actu, and being, as the Kabalists say, in abscondito,  -->
+
+It can only be judged by the profane through her appearance. That appearance is always deceitful on the physical plane. 
+
+On the other hand, the Naturalists refuse to blend Physics with Metaphysics, the Body with its informing Soul and Spirit. 
+
+They prefer to ignore the latter. A minority strive to enlarge the domain of Physical Science by trespassing on the forbidden grounds of Metaphysics, so distasteful to some Materialists.
+
+<!-- These Scientists are wise in their generation. For  -->
+
+All their wonderful discoveries will go for nothing, and remain for ever headless bodies, unless they lift the veil of Matter and strain their eyes to see beyond. 
+
+Now that they have studied Nature in the length, breadth, and thickness of her physical frame, it is time to remove the skeleton to the second [pg 670]plane, and search within the unknown depths for the living and real entity, for its sub-stance—the noumenon of evanescent Matter.
 
 It is only by acting along such lines that some truths, now called “exploded superstitions,” will be discovered to be facts, and the relics of ancient knowledge and wisdom.
 

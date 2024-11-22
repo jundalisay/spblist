@@ -2,7 +2,7 @@
 heading: "Chapter 4c"
 title: "Currents"
 # date: 2023-11-10
-weight: 14
+weight: 20
 image: /photos/physics/light.jpg
 description: "Electricity is the main substance of radiance"
 icon: /icons/spmat.pn

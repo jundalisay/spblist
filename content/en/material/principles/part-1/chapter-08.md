@@ -4,7 +4,7 @@ title: "Positive and Negative Polarity"
 # date: 2023-12-10
 image: /photos/physics/light.jpg
 # image: /photos/meta/buddhism.jpg
-description: "The aether drag is a fallacy created by post-Descartes physicists, probably by Fresnel"
+description: "The constant action by the Positive and Negative Force on Substance which we call Quantum create a polarity or duality"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -20,12 +20,12 @@ This says that all manifested things have 2 sides, 2 aspects, 2 poles, a pair of
 
 The constant action by the Positive and Negative Force on Substance which we call Quantum create a polarity or duality* on each substance or quantum, which then manifests as a particle or a wave. 
 
-
 {{< n n="*'Duality' emphasizes the opposite-ness, while 'Polarity' emphasizes their mutual belligerence" >}}
 
 
 
 We say that each quantum exists with a set charge or predisposition from the very beginning. This polarity is called differently in each Layer.
+
 
 Layer | Positive Vortex | Negative Vortex
 ---- | --- | ---
@@ -34,11 +34,14 @@ Aethereal | Unifying |  Divisive
 Spatial | Counterclockwise Rotation | Clockwise Rotation
 Radiant | Male (Positive Charge) | Female (Negative Charge)
 Convertible | Left Chirality | Right Chirality  
-Material | Color Charge | Anti-Color Charge
+Material | Color Charge (Matter) | Anti-Color Charge (Antimatter)
 
 
 
 In the aethereal layer, this polarity is the tendency to divide versus the tendency to unite. 
+
+- The positive manifests as "like attracting like"
+- The negative manifests as "opposites repelling"
 
 We use the following words for these poles:
 
@@ -46,6 +49,18 @@ Pole | Associated Words
 --- | ---
 Positive | Good, Unite, Peace, Cooperate, Synthesize, Understand, etc
 Negative | Bad, Divide, War, Compete, Analyze, Confuse, etc
+
+
+### Enlightenment and the Aether Dash, Maya and the Aether Drag
+
+Since the lower parts of the aethereal layer is mostly about information, we can use:
+- learning, as vidya, as an example of the positive force   
+  - The push towards knowledge and realization we call the aether dash
+- ignorance, as maya, as an example of the negative force
+  - The slowness of knowledge we call the aether drag
+
+<!-- This principle is most seen in Medical Superphysics where homeopathy uses likes to cure -->
+
 
 
 <!-- Layer | Physics Polarity Name | Superphysics Name | Effect

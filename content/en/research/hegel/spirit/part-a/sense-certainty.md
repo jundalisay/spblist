@@ -8,7 +8,7 @@ weight: 600
 ---
 
 
-Here we de-complicate Hegel to prove that he emphasized relations between perceiver and perceptions, which we is part of Cartesian Relationality. 
+Here we de-complicate Hegel to prove that he emphasized relations between perceiver and perceptions, which is part of Cartesian Relationality. 
 
 
 Overcomplicated Hegel | Simplified Metaphysics Version
@@ -46,11 +46,15 @@ We use this part as proof of the universality of Cartesian Relationality -- even
 
 This will help us change:
 
-"I perceive therefore I am"
+{{< q a="Descartes" >}}
+"I think therefore I am"
+{{< /q >}}
 
 to:
 
+{{< q >}}
 "I perceive therefore I exist"
+{{< /q >}}
 
 It means that things that exist also react. This reaction is part of the perception procecss. Therefore everything that exists is a mind. 
 

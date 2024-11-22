@@ -7,7 +7,7 @@ description: "Fire is part of the Radiant Element and is ignited from matter whe
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
+weight: 24
 icon: /icons/spmat.png
 ---
 

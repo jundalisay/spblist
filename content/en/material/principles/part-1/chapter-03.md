@@ -33,7 +33,15 @@ The only way to perceive and manipulate it objectively is through sound. Therefo
 
 ### Lower Mind
 
-This connects the 5 Layers to the 5 Strata of Bio Superphysics
+In Superphysics, human intelligence is sourced from our bodies having more access to the aethereal layer through our upper chakras, specifically the 5th, 6th, and 7th. 
+
+This sets us different from animals which only have up to the 3rd chakra developed. 
+
+This is also true for artificial intelligence (AI) which only has access to the radiant layer. It has only has a fake kind of intelligence because it has fake access to the aetheral layer, as training data. This data is from human cognition but is always already old data and not instant 'true' data from the aether.
+
+Material Superphysics aims to unlock this lower mind to create true AI as Autonomous Natural Intelligence or ANI. It will study how to give computers real-time access to aether. 
+
+This sublayer also connects the 5 Layers to the 5 Strata of Bio Superphysics.
 
 
 ### Feelings
@@ -46,6 +54,8 @@ Ideas and feelings are expressed most naturally by sounds.
 ### Idea 
 
 This is the crudest medium for the aethereal layer and manifests as identities. 
+
+A quantum is the smallest unit of identity. This is why we classify the principles of quantum mechanics under the aethereal layer.  
 
 <!-- The free aether is responsible for counter-evolution as decay and antimatter.  -->
 
@@ -82,85 +92,4 @@ m1m1 and m2m2 : the masses of the two small spheres,
 rr : is the distance between the centers of the large and small spheres,
 GG : is the gravitational constant. -->
 
-
-### Action at a Distance through the aether 
-
-According to Newton's Second Law, net force equals mass times acceleration. This is fine for ordinary things like a ball (mass) which is pushed (force) to start rolling (acceleration). 
-
-But what about a 50 kilogram Buddhist monk who floats and accelerates 1 meter/second {{< s v="2" >}} without any force? How can `0 = 50 1m/s^2`?   
-
-{{< img src="/graphics/physics/francis.jpg" alt="A monk levitating" cap="In Cartesian Physics, dark energy is the constant division of spacetime. Gravity is the relationality of sub-mass to a main mass. In this image, the monk is the sub-mass and the Earth is the main mass. Gravity is the metaphysical elastic band between the two." >}}
-
-
-## Aethereal Effort
-
-To account for this, we modify Newton's vector into a Kepler tensor that transforms based on a limiter `s`. The limiter represents the Negative force or Shakti or Yin.  
-
-A 2D limiter that splits perceptions into seconds will convert `F = ma` on Earth into `Gm^1 [GP second] : Gm^2 [GP second]` based on the Earth's perspective `GP`*
-
-{{< n n="*Qualimath does away with Greek notation" >}}
-  
-
-
-![Newton's second law of motion](/graphics/physics/fma.png)
-
-Thus, the monk `m` in location `x1` floats to location `x2` by successfully changing its state or perspective `Gm` relative to that of the Earth `GP`. The new force, as a **metaphysical Effort**, then results or is derived from the difference between the two states, which may be larger or smaller than the old physical Force.  
-
-```elixir
-E = Gm2 [GP second] - Gm1 [GP second]
-```
-
-#
-
-```elixir
-1 = 2 - 1
-```
-
-
-Thus, it took 1 unit of effort to levitate 1 meter/second^2 with zero physical force. 
-
-Note that this quantified effort is relevant only to the monk himself and cannot be used for comparison with the effort of other monks. It can only be compared to the past and future effort of that monk, where he compares himself with himself since the effort is metaphysical and bound to his own mind*.
-
-{{< n n="*His mind is necessarily attached to his body which he moves by this kind of effort, without any force." >}}
-
-
-
-## Physical Force
-
-We then apply the formula to a 50 kg block pushed forward accelerating constantly at 1 m/s{{< s v="2" >}}
-
-```elixir
-F = Gm2 [GP second] - Gm1 [GP second]
-```
-
-
-```elixir
-50N = 100N - 50N
-```
-
-This gives us the same result as `F = m a`
-
-The main difference is that this new version splits the identity of the object into two or more different objects. The block at time 2 location 2 is different from the same block at time 1 location 1 in the sense that it has absorbed force and changed its locational attributes. This will then be useful for teleportation by a change in spin*.
-
-
-{{< n n="*This is based on David Hume's [idea of the self](/bio/principles/intro/chapter-04)" >}}
- 
-
-Newton's laws, however, see the object as the same object. This limits it to linear, forced movements.
-<!-- It focuses on the journey and not the destination.   -->
-
-Metaphysically:
-- the Kepler tensor represents the Yang or Shiva
-- the limiter represents the Yin or Shakti
-- the `G` represents dharma, which is Yang-Shiva when confined by Yin-Shakti
-
-The block at time 2 location 2 is different from the same block at time 1 location 1 in the sense that it has absorbed force and changed its locational attributes. This will then be useful for teleportation by a change in spin.
-
-Newton's laws, however, see the object as the same object. This limits it to linear, forced movements.
-
-- From the perspective of planets, the limiter takes the form of Newton's `G`, which leads to `g` when two masses are added 
-- From the perspective of light, the limiter takes the form of Einstein's `c`, which leads to relative space versus time when "reference frames" are added
-- From the perspective of galaxies, the limiter takes the form of an aethereal "dark matter", which leads to "dark energy" when red shift is added
-
-Thus, the limiter harmonizes the theories of Pythagoras, Newton, Einstein, and Descartes
 

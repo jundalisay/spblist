@@ -2,7 +2,7 @@
 heading: "Chapter 2"
 title: "The Upper, Middle, Lower Aethereal Sublayers"
 # # date: 2020-11-26
-image: /photos/physics/galaxy.jpg
+image: /graphics/super/cartesian.png
 description: "The Upper, Middle, Lower Aethereal Sublayers"
 writer:
   name: Juan
