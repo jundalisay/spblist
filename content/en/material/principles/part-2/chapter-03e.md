@@ -12,6 +12,8 @@ icon: /icons/spmat.png
 ---
 
 
+Superposition is a fundamental idea in Quantum Mechanics. 
+
 {{< youtube X_P0GEu4HQY >}}
 
 Physicists see Quantum Mechanics as weird or spooky because they are stuck with the Newtonian assumption that everything is within space. 
