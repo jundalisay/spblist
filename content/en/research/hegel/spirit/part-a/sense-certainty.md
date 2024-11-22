@@ -8,8 +8,7 @@ weight: 600
 ---
 
 
-Here we de-complicate Hegel. 
-
+Here we de-complicate Hegel to prove that he emphasized relations between perceiver and perceptions, which we is part of Cartesian Relationality. 
 
 
 Overcomplicated Hegel | Simplified Metaphysics Version
@@ -24,8 +23,8 @@ or when we take a piece out of this plenitude, divide it, and thereby delve into
 It appears as the most veritable, for it has not omitted anything from its object, but rather, has its object in its complete entirety before itself. | The actual information has its meaning in itself.
 However, this certainty in fact yields the most abstract and the very poorest truth. | However, this meaning [from perception] is very abstract
 It expresses what it knows as this: It is; and its truth only contains the being of the item.2  | The information [and therefore perception] merely exists. 
-Consciousness only is in this certainty as the pure I | That existing perception has a perceiver 
-or, within that certainty, the I is only as a pure This, and the object likewise is only as a pure This. | That perceiver can assign identity to itself just as it can assign identity to its perception
+Consciousness only is in this certainty as the pure I | That existing perception has a perceiver [which is ultimately metaphysical in nature since we replace 'pure' with 'metaphysics' or 'aether/akasha']
+or, within that certainty, the I is only as a pure This, and the object likewise is only as a pure This. | That perceiver can assign [a metaphysical or abstract] identity to itself just as it can assign identity to its perception
 I, this I, am certain of this item not because I, as consciousness, have developed myself and have variously set my thoughts into motion. |  The perceiver is sure of his perception [i.e. absorbed it into his citta], not because the perceiver is self-acting. 
 It is also not because I, as consciousness, am certain of this item for the reason that the item of which I am certain would be a rich relation in its own self according to a set of differentiated conditions or would be a multiple comportment to other items. | It is also not because the perceiver is sure that the perception is instantly important by itself. 
 Both have nothing to do with the truth of sensuous-certainty. | Both the perceiver alone and the perception alone is not the cause of it being perceived.
@@ -39,3 +38,21 @@ As a relation, certainty is an immediate, pure relation. | As a relation, awaren
 Consciousness is I, a pure this, the singular individual knows a pure this, or he knows the singular. | The perceiver, a metaphysical identity, knows other metaphysical identities. 
 
 <!-- relevant to his interests -->
+
+
+### Hegel was writing about Cartesian Relationality
+
+We use this part as proof of the universality of Cartesian Relationality -- even Hegel starts out with relation between the perceiver and his existing world. 
+
+This will help us change:
+
+"I perceive therefore I am"
+
+to:
+
+"I perceive therefore I exist"
+
+It means that things that exist also react. This reaction is part of the perception procecss. Therefore everything that exists is a mind. 
+
+The universe is therefore a mind made up of minds, made up of minds, made up of minds, and so on. 
+
