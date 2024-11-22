@@ -1,10 +1,10 @@
 ---
 title: 7 Barter Disadvantages Addressed
-heading: Chapter 3c
+heading: Chapter 2d
 # heading: "Mo' Money, Mo' Problem"
 date: 2020-04-18
 weight: 25
-image: "/photos/handshake.jpg"
+image: "/photos/grains.jpg"
 description: The following are the common disadvantages of barter.
 writer:
   name: Juan

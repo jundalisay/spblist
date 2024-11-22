@@ -22,7 +22,7 @@ The idea of multiplying paper to almost any extent was the real foundation of th
 - It is explained fully by Joseph Paris Duverney in his Examination of the Political Reflections on Commerce and Finance of Mr. du Tot that I shall not give any account of them.
 
 Its principles are explained in a discourse on money and trade by John Law himself.
-- He published it in Scotland when he first proposed his project [ Money and Trade Considered=  With a Proposal for Supplying the Nation with Money ].
+- He published it in Scotland when he first proposed his project [ Money and Trade Considered: With a Proposal for Supplying the Nation with Money ].
 
 The splendid but visionary ideas on those principles still continue impress many people. It perhaps contributed to that excess of banking in Scotland and in other places.
 

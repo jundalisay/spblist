@@ -89,11 +89,21 @@ As the stock was overvalued by “cooking the books” (2), the low productive c
 
 Unregulated collateralized debt obligations (CDOs) created through securitization, on top of a fiat economy, caused an increase in phantom liquidity for banks (1) and phantom capital for the investors that bought them. This phantom capital became the next target of the selfish hand. 
 
-Unlike the Crash of 1929 (promoted by Irving Fisher and American banks), the Dot-com bubble (promoted by Henry Blodget (Ackman, 2003)), and the Housing bubble (promoted by Robert Kiyosaki (Lloyd, 2005)), this new phantom capital was promoted by behemoth financial institutions to a global audience. Since capital is used to create value and not an end in itself, such phantom capital could not create real value and vanished in a “credit crunch” as quickly as it could be erased by the bookkeeper’s pen (2). 
+- The Crash of 1929 was promoted by Irving Fisher and American banks.
+- The Dot-com bubble was promoted by Henry Blodget (Ackman, 2003).
+- The Housing bubble was promoted by Robert Kiyosaki (Lloyd, 2005).
+
+The 2008 Financial Crisis used new phantom capital which was promoted by behemoth financial institutions to a global audience.
+
+Since capital is used to create value and not an end in itself, such phantom capital could not create real value and vanished in a “credit crunch” as quickly as it could be erased by the bookkeeper’s pen (2). 
 
 The “credit crunch” destroyed the phantom trade to its real levels, which in turn, also destroyed the nominal value it created. The “crunch” has been described many times by Smith:
 
-Over-trading is the common cause of it (scarcity of money). Sober men, whose projects have been disproportioned to their capitals..have neither wherewithal to buy money nor credit to borrow it, as prodigals whose expence has been disproportioned to their revenue. Before their projects can be brought to bear, their stock is gone, and their credit with it. (Book 4, Chap. 1, Par. 16)
+
+{{< q a="Smith" c="Book 4, Chap. 1, Par. 16" >}}
+Over-trading is the common cause of it (scarcity of money). Sober men, whose projects have been disproportioned to their capitals..have neither wherewithal to buy money nor credit to borrow it, as prodigals whose expence has been disproportioned to their revenue. Before their projects can be brought to bear, their stock is gone, and their credit with it.
+{{< /q >}}
+
 
 As much of the liquidity was used to move productive value overseas (3) to maximize profits, both the monetary (quantitative easing) and fiscal spending (Keynesian) attempts of the US and Europe to re-invigorate businesses in their own countries have failed to guarantee recovery. 
 
@@ -110,4 +120,3 @@ As “the general industry of the society can never exceed what the capital of t
 The Bank of Japan’s quantitative easing (Evans-Pritchard, 2012) props up trade (2) but does not address the fundamental problems of low demand and shrinking labor force which has been declining since 1998 (Statistics Bureau, 2012), and so, the economy still does not grow. 
 
 The solution is to gradually, not suddenly, increase demand by expanding its market through closer economic integration with other countries, at the expense of its farmers (Tabuchi, 2010) and to open up foreign immigration just as Israel and Singapore have done.
-

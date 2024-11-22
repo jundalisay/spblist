@@ -4,7 +4,7 @@ title: "What Defines Capitalism?"
 linkTitle: Capitalism
 # date: 2015-07-24
 date: 2021-12-16
-weight: 52
+weight: 69
 image: /photos/econ/crash.jpg
 description: "Superphysics defines capitalism as an economic system that uses outside ownership to amass private profits"
 writer:

@@ -2,7 +2,7 @@
 heading: "Chapter 7d"
 title: "Profit Maximization and the Cycle of Poverty"
 date: 2021-01-15
-weight: 40
+weight: 54
 image: /graphics/econ/povertycycle.gif
 description: How Profit Maximization creates the Cycle of Poverty
 writer:

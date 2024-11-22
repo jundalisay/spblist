@@ -77,9 +77,48 @@ Graber Defined 5 Types of Bullshit Jobs:
 4. Box Tickers
 
 5. Task Masters
-
   a. Type 1 contains those whose role consists entirely of assigning work to others.
   b. Type 2 creates bullshit tasks for others to do, to supervise bullshit, or even to create entirely new bullshit jobs.
-  
    -->
    
+## Four Employments of Capital
+<!-- 3/22/2017 -->
+
+1. Extraction 
+
+This is the extraction of raw materials for use and consumption.
+
+This includes agriculture wherein the inorganic nutrients from the soil are extracted into organic elements that are useful for industry and human consumption.    
+
+2. Manufacturing 
+
+This is the processing of the raw materials for immediate use and consumption.
+
+3. Wholesale
+
+This is bringing those finished or processed goods from where they abound to where they are lacking.
+
+This includes Logistics and Storage.
+
+4. Retail
+
+This is the dividing the portions of raw materials or finished goods into small parcels for those who want them.
+
+This includes Distribution such as last mile deliveries.
+
+
+Each of these four methods is needed by the other three.
+
+
+### Which capitals replace which capital?
+
+The retailer’s capital replaces, with profits, the wholesaler’s capital.
+
+The wholesaler's capital replaces, with profits, the capitals of the farmers and manufacturers he buys from.
+
+Part of the capital of the master manufacturer is employed as a fixed capital in the instruments of his trade.
+
+The farmer’s capital mobilizes the most amount of productive labour.
+
+
+<!-- Residence of the Four Capitals Source: Book 2, Chapter 5 -->

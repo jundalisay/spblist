@@ -174,7 +174,7 @@
 
 .marx, .Marx {background-image: url(/icons/marx.png);}
 
-.Mercury {background-image: url(/icons/atom.png);}
+.Saturn, .Mercury {background-image: url(/icons/atom.png);}
 
 .mill, .Mill, .John-Stuart-Mill {background-image: url(/icons/mill.png);}
 
@@ -192,6 +192,9 @@
 
 
 .Nature {background-image: url(/icons/cycles.png);}
+
+
+.Neptune {background-image: url(/icons/stars.png);}
 
 .newton, .Newton {background-image: url(/icons/newton.png);}
 
@@ -259,7 +262,7 @@
 
 .Umar {background-image: url(/icons/arab1.png) !important;}
 
-.Alchemist, .Euclid, .Homer {background-image: url(/icons/euclid.jpg);}
+.Paracelsus, .Alchemist, .Euclid, .Homer {background-image: url(/icons/euclid.jpg);}
 
 .ade, .Aaron, .Adeimantus, .Tsz-Hi, .Disciples, .Meno, .Phaedo, .Zeno, .zeno {background-image: url(/icons/g02.png);}
 

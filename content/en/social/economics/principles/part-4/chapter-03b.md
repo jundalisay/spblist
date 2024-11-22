@@ -1,93 +1,167 @@
 ---
-title: The 3 Problems with Money
-heading: Chapter 3b
-# heading: "Mo' Money, Mo' Problem"
-date: 2020-04-18
-weight: 24
-image: "/photos/objects/money.jpg"
-description: Money conquered the world after the Spanish discovered silver mines in South America. This gave fuel for colonization and the oppression of the world.
+heading: "Chapter 3b"
+title: "The Fallacy of Liquidity Preference"
+# date: 2022-03-27
+date: 2021-12-30
+weight: 29
+image: /covers/keynes.jpg
+description: "The most common suffering imposed by Neoclassical Economics on the people, aside from recessions and financial crises, is inequality"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
-toc: false
 ---
 
 
-People have loved money ever since it was invented. The philosophers David Hume and Socrates, on the other hand, were not so keen on money because of its drawbacks, which we distill into three:
+The most common suffering imposed by Neoclassical Economics on the people, aside from recessions and financial crises, is inequality.
+
+This inequality manifests as:
+- underemployment where people have to work in 2 or more jobs
+- lack of career growth
+- bullshit jobs  
 
 
-## 1. Money builds ego
+## How Neoclassical Economics Causes Inequality
 
-![Egotistic person](https://sorasystem.sirv.com/richpoor.png)
+The Marginal Revolution enshrined profit maximizatin in the 1870s. This doctrine favors the Business or Trader class over the Worker, Warrior, and Thinker. 
 
-Having a lot of money gives theego power over other egos, giving a feeling of superiority to the monied-ego, leading to arbitrary actions which encroaches on other egos, creatinginjusticeand eventually,evil.
+As a result, the Business class gets a bigger share of its society's productivity. This starves the rest:
 
-A dirt-poor evil bum can hurt a few people, but an ultra rich evil man can hurt so many.
+- Workers (Worker class) find it harder to find good-paying jobs
+- Governments (Warrior class) find themselves getting deeper into debt
+- Researchers (Thinker class) find it more difficult to get research funding
 
-We solve this by using the effort theory of value, facilitated bysocial contractsin order to prevent injustice and the growth of evil. This will prevent democracies from degenerating into tyranny and aristocracies from slipping into oligrachy, in Socrates-speak.
+This economic starvation finally manifested itself as the Great Depression of the 1930's, when many people did become unemployed and subsequently went hungry.
 
-{{< q a="David-Hume" >}}
-None of the most furious excesses of love and ambition are in any respect to be compared to the extremes of avarice.
+The British Economist John Maynard Keynes had a chance to fix things by reversing the doctrine of profit maximization. However, instead of getting rid of profit maximization, he permanently cemented it through the doctrine of **liquidity preference** which we call the love of money*!
+
+{{< u d="Oct 2021" u="*The proper and opposite policy is to stifle speculation and excessive growth as what China has done by letting Evergrande collapse and by limiting Alibaba and other Chinese tech giants. This would restore economic balance. These are opposite of what the US did in bailing out Wall Street." >}}
+
+
+
+<!-- This would've made Adam Smith turn in his grave. --> 
+
+In a single book, *[The General Theory of Employment, Interest and Money](/research/keynes/general-theory)*, Keynes wrote down the principles that supported this love of money:
+- quantitative easing and interest rate setting
+  - This is the monetary part
+- government spending and public debt
+  - This is the fiscal part
+
+
+All of these policies are mercantile and are the opposite to what Adam Smith advocated.
+
+Keynes advocated to increase the money circulating until prices start increasing, a state which he calls **true inflation**.
+
+{{< q a="Keynes" c="General Theory, Chapter 21" >}}
+When a further increase in effective demand produces no further increase in output and entirely spends itself on an increase in the cost-unit fully proportionate to the increase in effective demand, we have reached a condition which might be appropriately designated as one of true inflation.
 {{< /q >}}
 
 
+## Inflation is Free Work
 
-## 2. Money destroys information in every exchange
+The problem with this is that inflation* is worse for the worker than the business owner. This is because the owner can raise his prices at will, as "an increase in the cost-unit fully proportionate to the increase in effective demand." 
 
-If you work for 1 hour in exchange for $10, then your work-information generated in that hour will be overwritten by the $10-money-information, just as a particle is bumped off by another particle. You don't remember most of what you did in every day of the first month of your first job, but you remember your first salary amount very well.
+The worker, on the other hand, cannot ask for a proportional raise from his boss. As a result, inflation slowly eats up the the worker's wages, giving the effect of him **working for free**.
 
-In contrast, a productivity-for-productivity system would retain all the information about that productivity, allowing precision in productivity-allocation.
+{{< f f="*Remember, we defined inflation as demand inflation" >}}
 
-Why hire a plumber and a carpenter to fix your kitchen sink and dinner table, when you can just hire one guy that has experience in both?
 
-{{< q a="David-Hume" >}}
-The lack of money can never injure any state within itself because people and commodities are the real strength of any community.
+
+For example, if last month I worked for 100 hours at $1 per hour, then at that month, I would be able to buy $100 worth of goods. 
+- But if this month, prices rise by 2%, then my $100 will be able to buy only $98 worth of goods based on last month's prices. **Inflation would have made me work 2 hours for free without me knowing it!** 
+- If the company has 50 workers, then it gets 100 hours of free work or $100 savings which it can use to hire one new worker if the wages of the 50 were not increased.
+
+
+{{< q a="Keynes" c="Chapter 2, General Theory" >}}
+Every trade union will resist a cut in money-wages. <i>But no trade union would go on strike for every rise in the cost of living.</i> They thus do not create an obstacle to any increase in aggregate employment which is attributed to them by the classical school.
 {{< /q >}}
 
 
+Thus, inflation-driven employment really does increase employment **quantity**, but reduces employment **quality**. It does not strike at the root cause of the problem which is the profit maximization doctrine of capital-owners and investors. 
 
-## 3. Money only works for the here and now
+Rather than break up big capital and force competition and innovation among businesses, Modern Economics rather protects big capital and even feeds its love for money through:
+- monetary easing
+- government projects wherein public taxes are given to private companies* to create roads, dams, and, more recently, green energy. 
 
-Prices can only be assigned by the mind relative to the current moment and place. This is why asset prices fluctuate far more than wages or most commodities that circulate regularly.
+{{< f f="*China solves this with state-owned companies" >}}
 
-Money doesn't work for things that have a not-so-obvious-value (wave-value) such as:
-- the unseen labour being done by a rainforest in cleaning the air
-- the health benefits of eating a vegetable
-- the inventions that will only have impact after long and costly research
 
-Economics has no way to accurately put a price on the future effects of such things, but Superphysics has, through relativistic effort-valuation and resource credits.
 
-{{< q a="David-Hume" >}}
-Deprive a man of all business and serious occupation, he runs restless from one amusement to another. He feels such a great weight and oppression from idleness and forgets the future ruin of his immoderate expences.
+Worse is that Keynes wasn't really sure if his theory could lead to stable money supply and prices:
+
+{{< q a="John-Maynard-Keynes" >}}
+<p>Mdp/pdM = ep.ed.. this last expression gives us the proportionate change in prices in response to a change in the quantity of money, it can be regarded as a generalised statement of the Quantity Theory of Money. <i>I do not myself attach much value to manipulations of this kind; and I would repeat my warning that they involve just as much tacit assumption as to what variables are taken as independent</i>.. the best purpose served by writing them is to exhibit the extreme complexity of the relationship between prices and the quantity of money</p>
 {{< /q >}}
 
 
-The key is not in having a lot of money or having no money, but in having the right amount of money:
+This is why economists sometimes advocate for 0%, 2%, or 4% inflation -- **because the whole theory was uncertain to begin with!** 
 
-{{< q a="Socrates" >}}
-Under the influence either of poverty or of wealth, workers can degenerate. Here, then, is a discovery of new evils of wealth and poverty, against which the guardians will have to watch, or they will creep into the city unobserved. Wealth is the parent of luxury and indolence. Poverty is the parent of meanness and viciousness. Both are parents of discontent.
-<cite>The Simple Republic, Book 2</cite>
+<!-- The cause of Keynes' uncertainty is the fact that, to Supereconomics, money-price is a 'particle-effect' that represents 'value-feelings' which are really causal-waves that change constantly.  -->
+
+Basing an economy on money or interest rates is to base the economy on an ever-changing effect instead of a known cause. This makes it naturally unstable, with solutions always lagging behind the problem, or even causing future problems. Nominal minimum wages might be adjusted to keep up with nominal price inflation, but real wages really lag behind as time passes, as seen in the productivity-wage gap.
+
+
+{{< img src="https://sorasystem.sirv.com/graphics/wagegap.png" alt="Man working for free" cap="More people have been working for free since the 1973 without them knowing it" >}}
+
+
+
+### Inflation-Driven Growth
+
+<!-- Out of the Fire and Into the Frying Pan -->
+
+To Keynesian economists, the love for money is the key driver of the economy. This is why they advocate the government to jumpstart sagging economies by driving interest rates down to add new money. This is then thought to push investment up which will increase effective demand, manifesting as inflation. This will then increase employment until true inflation is reached. 
+
+But as we have seen, this merely by gets the economy going by making wage-earners* work for free. 
+
+{{< f f="*In the business model of the Roman empire, it would be like the emperor advertising the barren lands of the Middle East and Saharan Africa as profitable to conquer in order to create employment for his legions. This would then force their legions to work doubly hard to conquer those territories which produce so little value, leading those legions towards mutiny, being 'woke' and then starting a 'cancel culture' against the Emperor." >}}
+
+
+Thus, Keynesian economics solves recessions by making workers work for free bit by bit. Sooner or later, the low real-wages then become unbearable and become slave wages or what Keynes calls 'marginal disutility of employment'. 
+
+At such a point, the worker gives too much free work and stops working by holding mutinous strikes and protests, which became so common in the 1970's and 80's. It also paralyzes governments which become mired in debt, and is seen in government shutdowns in the US and the increase in corporate lobbying which funds the pauper congressmen.
+
+To prevent such high inflation, the sweet-spot became 2% -- higher than the 0% that was advocated in the 1970s and what Supereconomics actually advocates, but lower than the 4+% that would bring instability. The focus on stability then became the job of central banks*. 
+
+
+Thus, while economists focus on **growth** to generate employment, central banks focus on **price stability** to keep that employment. 
+
+{{< f f="*Under Classical Economics, the competition among investors and entrepreneurs would naturally create stability. They would not need the Central Banks to dictate interest rates since each bank would have their own precious metals. Central bank interest rates would only be useful to lenders to the government, and would be near the average interest rates set by private banks." >}}
+
+
+In the paradigm of Classical Economics, this is similar to a situation where the king is deposed by businessmen (Mercantilists) who then instruct the king's advisers and bankers to impose mercantile policies on all. This would then create a modern economic feudalism with big capital as the feudal lords and employees as peasants.
+
+
+The results of all this Keynesian monetary easing or pumping of money are:
+- widespread inequality from the increase of low-quality jobs now known as [bullshit jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
+- huge government debts
+  - This passes the current problems (usually of the baby boomers who are the current policy-makers) to future generations* who are incapable of knowing of the burdens** dumped on them by fancy-worded policies such as 'quantitative easing' and 'stimulus packages'. 
+
+{{< f f="*This manifests as millennials losing all hope of getting a decent job that would pay for a house, or getting quality education that does not involve a huge debt." >}}
+
+
+{{< f f="**Some economists try to solve this top-down approach with a bottom-up solution as universal basic income (UBI). However, this is actually worse since it does not guarantee the generation of employment. The cancellation of UBI trials in many countries prove that it is more useless. In Classical-speak, this is like the king paying off barbarians and peasants so that they will not revolt or commit crimes." >}}
+
+
+Japan was the first country to implement aggressive quantitative easing and is also the country to realize its bad effects. Its Lost Generation represents the youth that grew up after the collapse of Japan's asset-price bubble in the early '90s and exactly matches the effects of the paragraph above. Japan is among the countries with the highest debts in the world.
+
+{{< u d="Jan 2021" u="The failure of Abenomics and the 2020 Olympics, along with the resignation of Abe and the rise of Japanese taxes prove the failure of Keynesian policies" >}}
+
+
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5" >}}
+Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred<!--  to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity. -->
 {{< /q >}}
 
-{{< q a="Adam-Smith" >}}
-Every unnecessary accumulation of money is a dead stock which could be employed in enriching the nation by foreign commerce.
-<cite>Lectures On Jurisprudence</cite>
-{{< /q >}}
+<!-- ### Mercantilism is Alive and Kicking in Macroeconomics Too
+
+According to Smith, Mercantilism was the origin of the [Supply Curve of Microeconomics](/pantrynomics/market-equilibrium-fallacy). Here we see that it has also made its way into macroeconomics by keeping the love of money intact. To feed this love, it cannibalizes value from the general public and the government. 
+
+This gives incentives to businesses to meet their profit maximization demands. Instead of getting paltry but natural 5-10% returns, they can generate unnatural 40-500%* ROI (return on investments) through low interest rates, tax incentives, tax avoidance, and fewer regulations.
+
+> *As a startup founder I have seen venture capitalists aim for 5x return even at a secular stagnation environment
 
 
-<!-- In the next post, we shall show the pattern of how the allure of money naturally leads to corruption and crises throughout history.  -->
+These policies culminate in inflation which would then indicate an increase the quantity of employment. However, economists do not reveal that this also reduces the quality of employment and transfers the burden to future generations who will enter a world with high prices in rents, education, and utilities and only bullshit jobs and global warming disasters, very different from the opportunity-filled world that their baby boomer grandparents entered. -->
+
+If money is not the solution, then what is? The next post will explain [economic social contracts](/social/economics/why-business-is-immoral) as the alternative to money and svadharma as a replacement to liquidity preference.
 
 
-<!-- According to Adam Smith, the invention of stamped coins as metal money created a convenience in exchanging goods and services, allowing circulation of resources to become faster. The invention of paper money through cash accounts by the French and paper money by the Chinese allowed circulation to be even faster, but also more dangerous:
-
-“The commerce and industry of the country, however, it must be acknowledged, though they may be somewhat augmented, cannot be altogether so secure, when they are thus, as it were, suspended upon the Daedalian wings of paper money, as when they travel about upon the solid ground of gold and silver”
-ros and cons of barter, metal money, paper money, and electronic money and cryptocurrencies as tools of trade:
-Speed Stability Accessibility
-Barter  Slow  Stable  Medium
-Metal Money Medium  Very stable High
-Paper Money Fast  Unstable  Very High
-Electronic Money & crypto Very Fast Very unstable Low
-The ideal tool of trade would be something that has high speed, low volatility or perishability, and high availability. Paper is sup
-As you can see, paper money has the most advantages which allow it to be the main tool of trade even at a time of electronic cash and cryptocurrencies -- you can store a lot of it in your pocket even without electricity and will be accepted everywhere.
- -->
+{{< u d="Oct 30, 2021" u="Economists see nothing wrong with inflation, as proven in this [Forbes article](https://www.forbes.com/sites/johntharvey/2021/05/12/four-reasons-to-stop-panicking-over-inflation) This is because of the shallow reasoning that the high prices go back to the economy anyway. We answer, yes it goes back, but more to the profit-earners and less to the wage-earners." >}}

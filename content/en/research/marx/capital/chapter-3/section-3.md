@@ -51,9 +51,9 @@ At one time, money must be attracted in order to act as circulating coin.
 
 At another, circulating coin must be repelled in order to act again as more or less stagnant money. 
 
-<br>
 
-### Marx' Solution 1=  Gigantic bank reserves 
+
+### Marx' Solution 1: Gigantic bank reserves 
 
 In order for the mass of money, actually current, to constantly circulate commodities, there must be a quantity of gold and silver in a country greater than the quantity required to function as coin.
 
@@ -149,7 +149,7 @@ There thus remains only a single balance to pay.
 
 The greater the amount of the payments concentrated, the less is this balance relatively to that amount, and the less is the mass of the means of payment in circulation.
 
-<br>
+
 
 ### Marx' Explanation for Financial Crisis
 
@@ -205,7 +205,7 @@ Money as a medium of payment makes it necessary to accumulate money against the 
 
 Hoarding declines, with the progress of civil society, while <!-- as a distinct mode of acquiring riches, vanishes  --> the formation of payment reserves grows.
 
-<br>
+
 
 ## C. Universal Money
 

@@ -3,7 +3,7 @@ heading: "Chapter 7"
 title: "The Four Revenues: Rent, Wages, Profits, Donations"
 linkTitle: Four Revenues
 date: 2016-01-01
-weight: 36
+weight: 46
 image: /photos/econ/bake.jpg
 description : "Rent, Wages, Profit, and Donations are the four revenue types of Classical Economics which matches the four classes of people"
 writer:

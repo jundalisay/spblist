@@ -138,10 +138,11 @@ These prescriptions are generally caused by the landlord's ill-founded conceit o
 
 
 {{< s v="43" >}} Some landlords, instead of a rent in money, require a rent in kind, in corn, cattle, poultry, wine, oil, etc.
+- Others require a rent in service.
 
-Others require a rent in service.
 Such rents are always more hurtful to the tenant than beneficial to the landlord.
-They take more or keep more money out of the tenant than they put into the landlord.
+- They take more or keep more money out of the tenant than they put into the landlord.
+
 In countries where such rents take place, the tenants are poor according to the degree such rents are enforced.
 
 This hurtful practice can be discouraged by:

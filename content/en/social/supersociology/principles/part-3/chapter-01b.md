@@ -4,7 +4,7 @@ heading: "Chapter 1"
 date: 2015-08-15
 weight: 8
 image: "https://sorasystem.sirv.com/graphics/selftrump2.jpg"
-description: "Conflicts are a sign of injustice and no conflict on Earth is longer or more complicated than the Israeli-Palestinian conflict which has been said to originate from ancient times"
+description: "Conflicts are a sign of injustice and no conflict on Earth is longer or more complicated than the Israeli-Palestinian conflict"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -20,60 +20,13 @@ For every metaphysical action, there is a metaphysical reaction, as imbued in th
 Fortunately, David Hume's Treatise (Book 3) deals exactly with justice in an intellectual way, breaking down ideas to their components and exposing connections, while Adam Smith's Theory of Moral Sentiments deals with it from an objective impartial spectator way, ultimately ending up with feeling and conscience or the man inside the breast. In short, we can say that Hume's method is the brain while Smith's is the heart. In non-instinctual actions, feeling comes first, followed immediately by the brain. The proof is that we will not bother thinking about the Israeli-Palestinian conflict if we didn't care about it. We will need both methods to deal with such a complex issue.
 
 
-Sep 6 2016
-
-The origins of the Libyan Civil war was connected to Arab Spring which began in Tunisia and spread to Egypt.
-
-The biggest mistake was Qaddafi going on air and saying that he will basically kill all his enemies, including women and children. This threat made Obama act up and launch airstrikes against Qadaffi. Big mistake.
-
-It's weird because while the US killed Qadaffi, it did not kill Bashar Al-Assad who already killed his own people with poison gas.
-
-The root cause of all this was the Financial Crisis of 2008.
-
-
 1997 asian 
 In July 1997 a financial crisis that a in Bangkok.
 
 In Manila, banks closed down. The effects of the crisis was felt in Erap was ousted and Megawatti was ousted.
 
-The cause of
-
-4 employments of capital 3/22/2017
 
 oct 1 2017 a lot of struuggle
-
-
-
-Extraction (Improving and extracting raw materials for use and consumption)
-Manufacturing (Processing the raw materials for immediate use and consumption)
-Wholesale + Logistics (Bringing those finished or processed goods from where they abound to where they are lacking)
-Retail  + Distribution (Dividing portions of raw materials or finished goods into small parcels for those who want them).
-
-
-
-
-Each of these four methods is needed by the other three.
-
-
-
-
-Which capitals replace which capital?
-
-The retailer’s capital replaces, with profits, the wholesaler’s capital.
-
-The wholesaler's capital replaces, with profits, the capitals of the farmers and manufacturers he buys from.
-
-Part of the capital of the master manufacturer is employed as a fixed capital in the instruments of his trade.
-
-The farmer’s capital mobilizes the most amount of productive labour.
-
-
-
-
-Residence of the Four Capitals
-
-Source: Book 2, Chapter 5
-
 
 
 Unlike the 2008 Financial Crisis which had many warnings, the 1997 crisis took many by surprise. I remember that there was a boom just in 1995, ASEAN leaders met and it was very good. By 1997 the dean of DLSU went to my high school to talk about exchage rates adn why the Thai Baht was affecting the Philipoie economy. His explanationwas that ever currency had to be devalued to match that of Thailand.

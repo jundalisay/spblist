@@ -15,7 +15,7 @@ icon: "/avatars/smith.png"
 
 {{< s v="18" >}} The third division is the circulating capital.
 
-It only affords a revenue by circulating or changing masters. It has four parts= 
+It only affords a revenue by circulating or changing masters. It has 4 parts:
 
 {{< s v="19" >}} 1. The money which circulates and distributes the three other stocks to their proper consumers.
 

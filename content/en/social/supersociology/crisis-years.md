@@ -68,7 +68,9 @@ To solve the economic decline from Covid, Biden stupidly gives money out*, causi
 
 {{< n n="This is still a relic of the Mercantile thinking of money as wealth. This is why the West imposed financial sanctions thinking that it would cause Putin to back down" >}}
 
-The proper solution during the 2020 downturn was for the government to facilitate relief distributions of food and essentials to those who lost their jobs. This would improve the national relief system which could be used for the increasing disasters caused by global warming. This solution would improve the food production and distribution systems.  
+The proper solution during the 2020 downturn was for the government to facilitate relief distributions of food and essentials to those who lost their jobs. 
+
+This would improve the national relief system which could be used for the increasing disasters caused by global warming. This solution would improve the food production and distribution systems.  
 
 Unfortunately, the Democrats chose to use the financial system to solve the downturn of 2020. It also chose the same financial system to punish Rusia for invading Ukraine in 2022. Both these were obviously ineffective. 
 

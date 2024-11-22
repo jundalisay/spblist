@@ -6,12 +6,11 @@ image: "/photos/econ/crash.jpg"
 description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
 writer:
   name: Lam
-  # url: https://www.linkedin.com/in/jundalisay/
+  url: https://www.linkedin.com/in/baolamnguyen/
 icon: /icons/pantry.png
 draft: true
 ---
 
-Already in Lam's Linkedin
 
 The biggest news in the shipping world in recent months is the impact on global shipping of the fight between the Houthi rebels and the US and its allies. 
 

@@ -36,53 +36,34 @@ CONCLUDING NOTEDr Maleeha Lodhi361 -->
 
 INTRODUCTION
 
-In the summer of 2010 it was the fury of the Indus river that unleashed itself on the country with devastating consequences. Engorged by heavy monsoon rain, the river system over-flooded and deluged large swathes of Pakistan-as much as a fifth of its land area-causing large-scale destruction and
-displacement. 
+In the summer of 2010, the Indus river flooded 1/5 of Pakistan with devastating consequences affecting 20 million people.
 
-20 million people were affected by this calamity. And this at a time when Pakistan was struggling to cope with economic and security crises and reeling from the blowback of nine years of war in neighbouring Afghanistan that started with the US led military intervention in 2001.
+This was a time when Pakistan was struggling with economic and security crises and 9 years of war in Afghanistan that started with the US military intervention in 2001.
 
-The floods exposed a paradox that lies at the heart of Pakistan's predicament today: that of a weak state and a strong society. As the government machinery foundered in responding to the situation, civil society, the business community, ordinary citizens and even the media, organised
-efforts to help the flood victims. 
+The floods exposed a paradox at the heart of Pakistan's predicament today: a weak state with a strong society.
 
-The anaemic official response-notwithstanding the Army's effective rescue and relief efforts­ contrasted sharply with the heroic actions taken by private charities and local
-communities.
+The government machinery foundered in responding to the situation, civil society, the business community, ordinary citizens and even the media, organised efforts to help the flood victims. 
 
-What also mitigated the tragedy was the capacity for endurance of the
-afflicted, who set about rebuilding their homes and lives almost as soon as
-the waters receded and with remarkable dignity and an unfazed resolve to
-overcome the challenge.
+The anaemic official response-notwithstanding the Army's effective rescue and relief efforts contrasted sharply with the heroic actions taken by private charities and local communities.
 
-Resilience has been part of Pakistan's story from the country's
-inception, obscured by the single-issue lens through which outsiders have
-lately viewed the nation. The prism of terror and extremism has deflected
-attention away from the strength and stability of its underlying social
-structures which have enabled the country to weather national and
-10regional storms and rebound from disasters-natural and manmade.
+What also mitigated the tragedy was the capacity for endurance of the afflicted, who set about rebuilding their homes and lives almost as soon as the waters receded and with remarkable dignity and an unfazed resolve to overcome the challenge.
 
-Many foreign observers thought when the floods struck that this was
-one crisis too many which would finally tip Pakistan over the edge. But the
-country defied this doomsday prognosis as it had earlier ones.
+Resilience has been part of Pakistan's story from the country's inception, obscured by the single-issue lens through which outsiders have lately viewed the nation.
 
-While Pakistan has had to navigate multiple challenges, it has always
-been more than an entity that lurches from crisis to crisis. Its promising
-potential lies in a number of attributes: an able pool of professionals and
-technically trained people, a hardworking labour force, a growing middle
-class, an enterprising business community, an energetic free media, and a
-lively arts, literature and music scene. Pakistan's cultural plurality and open
-society are sinews of its strength. It has a significant industrial base, an
-elaborate infrastructure of roads and communication links, a modern
-banking system, a large domestic market and a thriving informal economy-
-factors that have averted a national breakdown even when in the throes of
-severe financial crisis. Its economic problems are rooted in poor state
-management, not Pakistan's economic fundamentals, which remain
-robust. It has man­ aged-in spurts-to achieve high rates of economic
-growth, not nearly enough to keep pace with an exploding population, but
-sufficient to invest the country with several features of a modern nation.
-Successive governments however have been unable to deploy these
-ingredients for success to unlock Pakistan's potential. Instead poor
-governance, rule without law and short-sighted leadership have mired the
-country in layers of crises that have gravely retarded Pakistan's progress and
-development.
+The prism of terror and extremism has deflected attention away from the strength and stability of its underlying social
+structures which have enabled the country to weather national and 10regional storms and rebound from disasters-natural and manmade.
+
+Many foreign observers thought when the floods struck that this was one crisis too many which would finally tip Pakistan over the edge. But the country defied this doomsday prognosis as it had earlier ones.
+
+While Pakistan has had to navigate multiple challenges, it has always been more than an entity that lurches from crisis to crisis. 
+
+Its promising potential lies in a number of attributes: an able pool of professionals and technically trained people, a hardworking labour force, a growing middle class, an enterprising business community, an energetic free media, and a lively arts, literature and music scene. 
+
+Pakistan's cultural plurality and open society are sinews of its strength. It has a significant industrial base, an elaborate infrastructure of roads and communication links, a modern banking system, a large domestic market and a thriving informal economy-factors that have averted a national breakdown even when in the throes of severe financial crisis. Its economic problems are rooted in poor state management, not Pakistan's economic fundamentals, which remain robust. 
+
+It has man aged-in spurts-to achieve high rates of economic growth, not nearly enough to keep pace with an exploding population, but sufficient to invest the country with several features of a modern nation.
+
+Successive governments however have been unable to deploy these ingredients for success to unlock Pakistan's potential. Instead poor governance, rule without law and short-sighted leadership have mired the country in layers of crises that have gravely retarded Pakistan's progress and development.
 
 It does not have to be this way. The country may yet escape its
 difficult first sixty-three years, resolve its problems and re-imagine its
@@ -95,51 +76,35 @@ by the belief that Pakistan's problems are soluble and its challenges can be
 overcome. And that Pakistanis themselves must reclaim their country by
 extricating it from the numerous challenges it faces.
 
-Usually, edited books emerge from conferences. This book is the
-product of a 'virtual' conference-in cyberspace-that led to a meeting of
-11minds among some of Pakistan's top practitioners and scholars, about the
-need to add a new dimension to the ongoing debate on 'Whither Pakistan'.
-This collection offers a diversity of views and perspectives. But what
-binds all the distinguished contributors is their belief that Pakistan's
-challenges are surmountable and the impetus for change and renewal can
-only come from within, through bold reforms that are identified in the
-chapters that follow.
+Usually, edited books emerge from conferences. This book is the product of a 'virtual' conference-in cyberspace-that led to a meeting of minds among some of Pakistan's top practitioners and scholars, about the need to add a new dimension to the ongoing debate on 'Whither Pakistan'. 
 
-The issues discussed in the book cluster around the themes of
-governance, security, economic and human development and foreign pol­ icy,
-underlining the complex intersection of domestic and international factors
-that have shaped if not determined the Pakistan experience.
+This collection offers a diversity of views and perspectives. But what binds all the distinguished contributors is their belief that Pakistan's challenges are surmountable and the impetus for change and renewal can only come from within, through bold reforms that are identified in the chapters that follow.
 
-In the opening chapter of the volume Pakistan's leading historian,
-Ayesha Jalal, considers the country's current predicament in the light of a
-troubled past. She describes how a national paranoia has taken hold of the
-country, and identifies the lack of a critical historical tradition as the root of
-the problem. Her chapter argues that Pakistan can change course, in a strategic
-sense and also in terms of recasting its rational and emotional framework, if
-its people are allowed to delve into their history with open mindedness.
-Award-winning novelist Mohsin Hamid represents the third
-generation of Pakistanis born after independence. His chapter offers an
-upbeat message of hope and sets out reasons for optimism about Pakistan.
-Its vastness, diversity, traditions of co-existence, and evolving democracy
-are identified as important assets. Furthermore, Pakistan has the resources
-to fund its own development and regenerate itself provided it chooses to
-increase its paltry levels of tax collection.
+The issues discussed in the book cluster around the themes of:
+- governance, security
+- economic and human development
+- foreign policy
 
-Dr Akbar S. Ahmed, author and anthropologist, seeks to establish
-that the nation's founder and his vision are central to today's debate about
-the nature and character of the Pakistani state. The debate has never been
-more intense between advocates of a modern, functional state, those
-demanding a theocratic state and still others urging a balance between the
-two. No voice is more important in this debate than that of Mohammad
-Ali Jinnah. Pakistan has yet to live up to the ideal set out in .Jinnah's key
-speeches but his authority and legitimacy can still be used to translate this
+We underline the complex intersection of domestic and international factors that have shaped the Pakistan experience.
+
+Chapter 1 is from Pakistan's leading historian, Ayesha Jalal. She describes how a national paranoia has taken hold of the country, and identifies the lack of a critical historical tradition as the root of the problem. 
+
+Her chapter argues that Pakistan can change course, in a strategic sense and also in terms of recasting its rational and emotional framework, if its people are allowed to delve into their history with open mindedness.
+
+
+Award-winning novelist Mohsin Hamid represents the third generation of Pakistanis born after independence. His chapter offers an upbeat message of hope and sets out reasons for optimism about Pakistan.
+
+Its vastness, diversity, traditions of co-existence, and evolving democracy are identified as important assets. Furthermore, Pakistan has the resources to fund its own development and regenerate itself provided it chooses to increase its paltry levels of tax collection.
+
+Dr Akbar S. Ahmed, author and anthropologist, seeks to establish that the nation's founder and his vision are central to today's debate about the nature and character of the Pakistani state. The debate has never been more intense between advocates of a modern, functional state, those demanding a theocratic state and still others urging a balance between the two. 
+
+No voice is more important in this debate than that of Mohammad Ali Jinnah. Pakistan has yet to live up to the ideal set out in Jinnah's key speeches but his authority and legitimacy can still be used to translate this
 into reality.
 
-My own chapter explores the intricate interplay between internal and
-12external factors and examines Pakistan's tangled political past of
-governance failures, patronage-dominated politics and missed economic
-opportunities. The country must overcome five fault lines to chart a new,
-hopeful course. Socio-economic changes of the past decade or so have
+My own chapter explores the intricate interplay between internal and external factors and examines Pakistan's tangled political past of governance failures, patronage-dominated politics and missed economic
+opportunities. 
+
+The country must overcome five fault lines to chart a new, hopeful course. Socio-economic changes of the past decade or so have
 transformed the dynamic between state and society, created a larger, more
 politically assertive middle class and engendered a stronger, more 'connected'
 society. Once politics catches up with these changes the foundation would

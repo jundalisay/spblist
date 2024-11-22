@@ -1,11 +1,11 @@
 ---
-heading: "Chapter 9 "
+heading: "Chapter 9"
 title: "Trade"
 # date: 2022-03-27
 date: 2021-12-19
-weight: 44
-image: /covers/econsp.jpg
-description: ""
+weight: 60
+image: /photos/handshake.jpg
+description: "There are 3 kinds of trades"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -26,7 +26,7 @@ This is the trade done within a nation's borders. This generally supports the mo
 
 Of course, no country can do everything by itself, that’s why Smith wrote:
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Smith" >}}
 <p>The most round-about foreign trade of consumption therefore may be as necessary as the most direct foreign trade in terms of supporting the productive labour of the country and the value of its produce. When a country's capital stock is increased to the point that it cannot be all employed to support its productive labour, the surplus naturally disgorges itself into the carrying trade. The carrying trade is the natural effect and symptom of great national wealth. ..The extent of the carrying trade and the capital employed in it, is limited by the value of the surplus produce of all the countries in the world. Its farthest extent, therefore, is infinite compared to the other two. It is capable of absorbing the greatest capitals.</p>
 {{< /q >}}
 

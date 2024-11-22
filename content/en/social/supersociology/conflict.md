@@ -12,21 +12,30 @@ icon: /icons/spsoc.png
 ---
 
 
-Conflicts are a sign of injustice and no conflict on Earth is longer or more complicated than the Israeli-Palestinian conflict which has been said to originate from ancient times.
+Conflicts are a sign of an ongoing injustice. 
 
-For every metaphysical action, there is a metaphysical reaction, as imbued in the idea of karma. The cognition of human conflicts has led humans to think of solutions to such conflicts, the best being those from enlightened minds. In the East, this manifests as teachings from Buddhism, Taoism, Yoga, etc. while in the West, this manifests as the ideas of the Enlightenment, of which David Hume and Adam Smith were part of the Scottish branch.
+The Israeli-Palestinian conflict is the longest and most complicated one on Earth as it has been said to originate from ancient times.
 
-Fortunately, David Hume's Treatise (Book 3) deals exactly with justice in an intellectual way, breaking down ideas to their components and exposing connections, while Adam Smith's Theory of Moral Sentiments deals with it from an objective impartial spectator way, ultimately ending up with feeling and conscience or the man inside the breast. In short, we can say that Hume's method is the brain while Smith's is the heart. In non-instinctual actions, feeling comes first, followed immediately by the brain. The proof is that we will not bother thinking about the Israeli-Palestinian conflict if we didn't care about it. We will need both methods to deal with such a complex issue.
+For every metaphysical action, there is a metaphysical reaction, as imbued in the idea of karma. 
+
+The cognition of human conflicts has led humans to think of solutions to such conflicts, the best being those from enlightened minds. 
+- In the East, this manifests as teachings from Buddhism, Taoism, Yoga, etc
+- In the West, this manifests as the ideas of the Enlightenment, of which David Hume and Adam Smith were part of the Scottish branch.
+
+{{< n n="We do not put Kant as part of the Englightenment just as Einstein never theorized how gravity really works" >}}
 
 
-Sep 6 2016
-The origins of the Libyan Civil war was connected to Arab Spring which began in Tunisia and spread to Egypt.
+Fortunately, David Hume's Treatise (Book 3) deals exactly with justice in an intellectual way, breaking down ideas to their components and exposing connections.
 
-The biggest mistake was Qaddafi going on air and saying that he will basically kill all his enemies, including women and children. This threat made Obama act up and launch airstrikes against Qadaffi. Big mistake.
+Adam Smith's Theory of Moral Sentiments deals with it from an objective impartial spectator way, ultimately ending up with feeling and conscience or the man inside the breast.
 
-It's weird because while the US killed Qadaffi, it did not kill Bashar Al-Assad who already killed his own people with poison gas.
+In short, we can say that:
+- Hume's method is the brain
+- Smith's method is the heart
 
-The root cause of all this was the Financial Crisis of 2008.
+In non-instinctual actions, feeling comes first, followed immediately by the brain. 
+
+The proof is that we will not bother thinking about the Israeli-Palestinian conflict if we didn't care about it. We will need both methods to deal with such a complex issue.
 
 
 1997 asian 
@@ -41,7 +50,6 @@ The cause of
 oct 1 2017 a lot of struuggle
 
 
-
 Extraction (Improving and extracting raw materials for use and consumption)
 Manufacturing (Processing the raw materials for immediate use and consumption)
 Wholesale + Logistics (Bringing those finished or processed goods from where they abound to where they are lacking)
@@ -51,8 +59,6 @@ Retail  + Distribution (Dividing portions of raw materials or finished goods in
 
 
 Each of these four methods is needed by the other three.
-
-
 
 
 Which capitals replace which capital?
@@ -74,10 +80,7 @@ Source: Book 2, Chapter 5
 
 
 
-Unlike the 2008 Financial Crisis which had many warnings, the 1997 crisis took many by surprise. I remember that there was a boom just in 1995, ASEAN leaders met and it was very good. By 1997 the dean of DLSU went to my high school to talk about exchage rates adn why the Thai Baht was affecting the Philipoie economy. His explanationwas that ever currency had to be devalued to match that of Thailand.
-
-
-Defining the Conflict
+<!-- Defining the Conflict
 
 Clear definitions are important, not only to get a common understanding about the issue, but also to set bounds. The most basic definition of the conflict is that it is a territorial dispute between Israelis and Palestinians. From this we derive three ideas: territory, Israelis, and Palestinians.
 
@@ -90,5 +93,4 @@ They would have a historical link if they have been constantly sending emissarie
 
 As a human policy, DNA cannot be the measure of allegiance since this would imply that the body is superior to the mind and that there is no such thing as free will. It would be like a DNA version of India's caste system which locks people into certain roles for life. If DNA alone determined allegiance, then all overseas Chinese of whatever nationality should have the same right as Chinese citizens in China, which is absurd. By disregarding DNA, then we disregard the source of the conflict as it began in ancient times when the connection between a physical Jew, the idea of being a Jew, and the idea of Jewish territory was established.
 
-Thus, without DNA, the definition of Israeli and Palestinian is through residency or citizenship records before the conflict began.
-
+Thus, without DNA, the definition of Israeli and Palestinian is through residency or citizenship records before the conflict began. -->

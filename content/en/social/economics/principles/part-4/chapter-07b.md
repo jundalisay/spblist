@@ -1,10 +1,11 @@
 ---
+heading: Chatper 7b
 title: "The 5 Factors that Affect Wages and Profits"
 date: 2016-12-21
-weight: 38
+weight: 48
 image: "/photos/happysuccess.jpg"
 description: "Adam Smith laid down 5 factors that affect wages and profits that can be useful for employees and businesses"
-heading: Agreeableness, Difficulty, Constancy, Trust, Success
+#heading: Agreeableness, Difficulty, Constancy, Trust, Success
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

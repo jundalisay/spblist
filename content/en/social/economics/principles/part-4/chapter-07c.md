@@ -2,7 +2,7 @@
 heading: "Chapter 7c"
 title: "Interest Rates"
 date: 2021-01-15
-weight: 40
+weight: 50
 image: /covers/keynes.jpg
 description: We explain the different notions of interest of Ricardo, Marshall, Pigou, Von Mises, and Keynes
 writer:

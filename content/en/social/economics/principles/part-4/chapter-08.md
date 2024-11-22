@@ -7,7 +7,7 @@ description: "The Modern Economic Table is our main tool to determine the real p
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 41
+weight: 56
 icon: /icons/pantry.png
 aliases:
   /social/economics/solutions/modern-economic-table/

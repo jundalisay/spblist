@@ -68,7 +68,9 @@ This contributed to the success of the scheme. This also had a bigger effect in 
 
 Back then, 8 ounces of pure silver was equal to 28 livres. It was devalued to 60 livres. 
 
-Thus, a devaluation was expected daily. Mr. Law made his notes payable in the devalued money as 'the money of the day'. Instead of promising to pay for his notes in pounds sterling, he paid in crowns and half-crowns. This was a very proper method to make them par with gold and silver.
+Thus, a devaluation was expected daily. 
+
+Mr. Law made his notes payable in the devalued money as 'the money of the day'. Instead of promising to pay for his notes in pounds sterling, he paid in crowns and half-crowns. This was a very proper method to make them par with gold and silver.
 
 <!-- Suppose that our coin were raised to double and a half-crown became a crown. This would make  -->
 
