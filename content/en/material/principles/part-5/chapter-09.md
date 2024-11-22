@@ -4,7 +4,7 @@ title: "The Fine and Hyperfine Structure of the Atom"
 # date: 2024-07-14
 image: /graphics/physics/hyperfine.jpg
 description: "The Fine and Hyperfine Structure of the Atom is the nature of the spatial layer within the material atom"
-weight: 22
+weight: 36
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

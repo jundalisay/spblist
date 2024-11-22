@@ -10,7 +10,9 @@ icon: /icons/spmat.png
 ---
 
 
-Before Newtonian Physics was created, the mainstream Physics was from Descartes who used a 5 Element paradigm, similar to the Asian sciences of Hinduism and Taoism and the Greek sciences Aristotle and Plato. 
+Before Newtonian Physics was created, the mainstream Physics was from Descartes who used a 5 Element paradigm, similar to:
+- the Asian sciences of Hinduism and Taoism 
+- the Greek sciences Aristotle and Plato. 
 
 This model had 5 Elements, 4 of which are known by Physics as the Standard Model 
 
@@ -59,7 +61,7 @@ Because it does not represent the truth of Nature, Newtonian mechanics started b
 
 All these findings are consistent with the 5 Elements model which has the aether as the top Element. 
 
-{{< q a="Lorentz">}}
+{{< q a="Lorentz" c="Considerations on Gravitation" >}}
 The state of the ether which is the cause of gravitation is propagated in a similar way as that which exists in the electromagnetic field.
 {{< /q >}}
 
@@ -72,7 +74,7 @@ So why do physicists say that it debunked the aether?
 
 This is because **the 19th century ether is the Huygens ether and not the Cartesian one.** 
 
-{{< q a="Huygens" >}}
+{{< q a="Huygens" c="Treatise On Light" >}}
 The movement of light coming from the luminous body is propagated through what I call “Ethereal matter”. It is not the same that serves for the propagation of sound.
 {{< /q >}}
 
@@ -104,7 +106,7 @@ This caused him to assign a drag whenever light moved through media such as glas
 
 ### Space-Time is Not Material 
 
-In Cartesian Physics, this drag on light (1st Element) is caused by matter (3rd Element), as glass and water. **It is not caused by spacetime** (2nd Element). Rather, the impact of the 2nd ELement on light is to limit it to 300,000 kilometers per second, via the aetherspace. This matches modern findings. 
+In Cartesian Physics, this drag on light (1st Element) is caused by matter (3rd Element), as glass and water. **It is not caused by spacetime** (2nd Element). Rather, the impact of the 2nd Element on light is to limit it to 300,000 kilometers per second, via the aetherspace. This matches modern findings. 
 
 It is true that light travels through the medium of spacetime. **But this spacetime is not material in nature**. Rather it is aethereal. Its speed can vary and is arbitrary. This principle is the foundation of:
 - superposition in quantum mechanics
@@ -116,18 +118,19 @@ It is true that light travels through the medium of spacetime. **But this spacet
 
 This is why Cartesian Physics matches both the findings of Newtonian Physics and Quantum Mechanics. Therefore, to Descartes:
 - the 2nd Element should be called "space-time" and not the "ether"
-- the medium for sound is then the 3rd Element or matter, such as the physical air. 
+- the medium for physical sound is then the 3rd Element or matter, such as the physical air. 
 - light is not sped up nor slowed down by space-time
 - light is slowed down by 3rd element or matter and is at maximum speed when free from matter.
 - light is confined to its top or constant speed by the aetherspace which is a part of the 2nd Element 
 
-{{< i s="/graphics/physics/1960s.png" a="elements" c="Huygens wrongly called Descartes' spacetime as the ether." >}}
+{{< i s="/graphics/physics/1960s.png" a="elements" c="Huygens wrongly called Descartes' spacetime as the ether. The Michelson-Morley experiment therefore proved the Cartesian 2nd Element. It does not debunk anything Cartesian because Descartes never said that spacetime was material (since it is matter or 3rd Element that drags light)" >}}
+
 
 The Michelson-Morley experiment then proved that the speed of light is constant within the pure 2nd Element (called vacuum by Physics).
 
 But instead of physicists vindicating Descartes, Einstein comes out of nowhere messing up Physics by imposing 2 axioms:
 
-1. The invariance of the speed of light
+1. The invariance of the speed of light*
 2. Equivalence of gravitational and inertial mass
 
 This is even worse that Newton because it makes the 2nd Element dependent on mass (3rd Element) via light (1st Element).
@@ -135,3 +138,5 @@ This is even worse that Newton because it makes the 2nd Element dependent on mas
 This prevents faster-than-light-travel and levitation with far less energy. These can be used to solve so many problems today that are out of reach just because a single Einstein corrupted Physics, putting it in limbo state for 100 years. 
 
 We fix this with [Cartesian Relationality](/material/fallacies/general-relativity/). 
+
+{{< n n="In Dioptrique, Descartes already explained that the nature of light is determined by its light source (which is light-vortex) and not the space that it goes through. Therefore it is invariant according to its source." >}}

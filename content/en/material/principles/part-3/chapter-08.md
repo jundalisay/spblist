@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 8"
-title: "Male and Female Charges: Rotation Direction"
+title: "Male and Female Charges: Spin as Rotation Direction"
 # date: 2020-01-29
 image: /graphics/physics/atomcharges.jpg
 description: "We replace negative and positive charnges with Male and Female, as the duality of the Radiant Layer"
@@ -14,10 +14,28 @@ toc: false
 ---
 
 
+The duality of the Radiant Layer, as the expression of the Positive and Negative Forces, is seen in male and female charges. 
 
-Part 2 explained that the rotation of a black hole or qost represents the vortex of an identity in the spatial layer.
+In Modern Physics, this is called negative and positive charge respectively 
+- The male charge represents a particle having an inherent positive (anticlockwise) rotation   
+- The female charge represents a particle having an inherent negative (clockwise) rotation
 
-The union of two vortices rotating in the opposite direction produces friction.
+{{< n n="Technically, this would mean that an electron of a negative charge would be rotating positively. This would be confusing and so we use 'male' and 'female' for 'negative' and 'positive' charges of Physics instead" >}}
+
+Layer | Positive Vortex | Negative Vortex
+---- | --- | ---
+Aethereal | Unifying |  Divisive
+Spatial | Counterclockwise | Clockwise
+Radiant | Male | Female
+Convertible | Left | Right 
+Material | Color Charge | Anti-Color Charge
+
+A 'charge' is therefore the rotation direction of a particle.
+
+{{< i s="/graphics/physics/neutralcharge.gif" a="Neutral Charge" c="The green particle on the left has a postive rotation, and is male, while the red particle on the right has a negative rotation, and is female" >}}
+
+
+<!-- The union of two vortices rotating in the opposite direction produces friction.
 
 This friction downgrades the spatial qosts into radiant qors.
 
@@ -25,7 +43,8 @@ In the radiant layer, this duality takes the form of male and female charges.
 
 Unlike the spatial layer, the union of male and female charges does not create friction. 
 
-Instead, it creates union and stability. This is why we chose the name of male and female.
+Instead, it creates union and stability. This is why we chose the name of male and female. -->
+
 
 {{< b >}}
 ### History of Male and Female Analogy in Metaphysics
@@ -42,32 +61,32 @@ So the force particles are like male penises and the matter particles are like f
 {{< /b >}}
 
 
-> A charge is the rotation direction
+This is based on:
+- the Positive Force being called masculine Shiva or Yang
+- the Negative Force being called feminine Shakti or Yin
+
+This naming is also useful and intuitive for neutral charges which we call bisexual. A neutral or bisexual charge is produced when a male and female cancel each other.
 
 
-This is based on the Positive Force being called masculine Shiva or Yang, and the Negative Force being called feminine Shakti or Yin. 
+> A charge is the rotation direction of a particle
 
-This naming is also useful and intuitive for neutral charges which we call bisexual. This will be consistent in the Tranformative Layer which has the concept of 'flavor-changing' which we can equate to 'sex-change' in particles.  
+This will be consistent in the convertible layer which has the concept of 'flavor-changing' which we can equate to 'sex-change' in particles.
 
+- Like-charges, such as male to male, or female to female, create repulsion.
+- Opposite-charges, such as male to female, create attraction. 
 
-Layer | Positive Vortex | Negative Vortex
----- | --- | ---
-Aethereal | Unifying |  Divisive
-Spatial | Counterclockwise | Clockwise
-Radiant | Male | Female
-Convertible | Left | Right 
-Material | Color Charge | Anti-Color Charge
-
-
-Like charges, such as male to male, or female to female, creates repulsion. Whereas, opposite charges such as male to female, creates attraction. 
 
 In fact, William Gilbert, who documented Earth's magnetism, calls the attraction as Magnetick [Coition](/research/gilbert/book-2/chapter-03) which means sexual intercourse. 
 
 
+### Ions
+
+Ions are atoms or molecules that gain or lose a male electron, making them:
+- masculine if they gain electrons
+- feminine if they lose electrons
 
 
 
-In Superphysics, electrons are positively charged, in line with the Positive Force, while protons are negatively charged, in line with the Negative Force.
 
 This is why 'negative' ions make us feel positive, and 'positive' ions make us feel negative.
 

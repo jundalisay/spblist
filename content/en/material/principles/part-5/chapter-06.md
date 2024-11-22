@@ -4,7 +4,7 @@ title: "The Fine and Hyperfine Structure of the Atom"
 # date: 2024-07-14
 image: /graphics/physics/hyperfine.jpg
 description: "The Fine"
-weight: 22
+weight: 24
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

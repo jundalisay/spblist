@@ -14,10 +14,8 @@ The new-born's fate thou shalt pronounce;
 Ninki would fix upon it the image of the gods;
 And what it will be is "Man."
 
-Depictions on Assyrian seals may well have been intended as illustrations for
-these texts—showing how the Mother Goddess (her symbol was the cutter of
-the umbilical cord) and Ea (whose original symbol was the crescent) were
-preparing the mixtures, reciting the incantations, urging each other to proceed.
+
+Depictions on Assyrian seals may well have been intended as illustrations for these texts—showing how the Mother Goddess (her symbol was the cutter of the umbilical cord) and Ea (whose original symbol was the crescent) were preparing the mixtures, reciting the incantations, urging each other to proceed.
 (Figs. 151, 152)
 
 
@@ -29,39 +27,43 @@ The Wise One of Eridu, Ea,
 created him as a model of men.
 {{< /q >}}
 
-Scholars have surmised that references to Adapa as a "son" of Ea implied that
-the god loved this human so much that he adopted him. But in the same text Anu
-refers to Adapa as "the human offspring of Enki." It appears that the involvement
-of Enki's spouse in the process of creating Adapa, the "model Adam," did create
-some genealogical relationship between the new Man and his god: It was Ninki
-who was pregnant with Adapa!
 
-Ninti blessed the new being and presented him to Ea. Some seals show a
-goddess, flanked by the Tree of Life and laboratory flasks, holding up a newborn
-being. (Fig. 153)
+Scholars have surmised that references to Adapa as a "son" of Ea implied that the god loved this human so much that he adopted him. 
+
+But in the same text Anu refers to Adapa as "the human offspring of Enki." It appears that the involvement of Enki's spouse in the process of creating Adapa, the "model Adam," did create some genealogical relationship between the new Man and his god: It was Ninki who was pregnant with Adapa!
+
+Ninti blessed the new being and presented him to Ea. Some seals show a goddess, flanked by the Tree of Life and laboratory flasks, holding up a newborn being. (Fig. 153)
 
 
 The being that was thus produced, which is repeatedly referred to in
 Mesopotamian texts as a "model Man" or a "mold," was apparently the right
-creature, for the gods then clamored for duplicates. This seemingly unimportant
-detail, however, throws light not only on the process by which Mankind was
+creature, for the gods then clamored for duplicates. 
+
+This seemingly unimportant detail, however, throws light not only on the process by which Mankind was
 "created," but also on the otherwise conflicting information contained in the Bible.
 According to the first chapter of Genesis:
 
+{{< q >}}
 Elohim created the Adam in His image—
 in the image of Elohim created He him.
 Male and female created He them.
+{{< /q >}}
+
+
 Chapter 5, which is called the Book of the Genealogies of Adam, states that:
+
+{{< q >}}
 On the day that Elohim created Adam,
 in the likeness of Elohim did He make him.
 Male and female created He them,
 and He blessed them, and called them "Adam"
 on the very day of their creation.
+{{< /q >}}
 
-In the same breath, we are told that the Deity created, in his likeness and his
-image, only a single being, "the Adam," and in apparent contradiction, that both a
-male and a female were created simultaneously. The contradiction seems sharper
-still in the second chapter of Genesis, which specifically reports that the Adam
+
+In the same breath, we are told that the Deity created, in his likeness and his image, only a single being, "the Adam," and in apparent contradiction, that both a male and a female were created simultaneously. 
+
+The contradiction seems sharper still in the second chapter of Genesis, which specifically reports that the Adam
 was alone for a while, until the Deity put him to sleep and fashioned Woman from
 his rib.
 
@@ -110,12 +112,12 @@ She covered her head, performed the midwifery.
 Her waist she girdled, pronounced the blessing.
 She drew a shape; in the mould was life.
 
-The drama of Man's creation, it appears, was compounded by a late birth. The
-"mixture" of "clay" and "blood" was used to induce pregnancy in fourteen birth
-goddesses. But nine months passed, and the tenth month commenced. "The
-period of opening the womb had elapsed." Understanding what was called for, the
-Mother Goddess "performed the midwifery." That she engaged in some surgical
+
+The drama of Man's creation, it appears, was compounded by a late birth. The "mixture" of "clay" and "blood" was used to induce pregnancy in fourteen birth goddesses. 
+
+But nine months passed, and the tenth month commenced. "The period of opening the womb had elapsed." Understanding what was called for, the Mother Goddess "performed the midwifery." That she engaged in some surgical
 operation emerges more clearly from a parallel text (in spite of its fragmentation):
+
 
 Ninti … counts the months…
 The destined 10th month they called;

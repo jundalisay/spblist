@@ -1,11 +1,13 @@
 ---
 heading: Chapter 11b
-title:  "The Mutiny of the Anunnaki"
+title:  "The Abzu Underworld"
 image:  "/covers/12th.jpg"
 description: "Ninurta, too, could fly, as skillfully as Zu"
 weight: 69
 ---
 
+
+{{< n n="We theorize that Abzu was an underwater base" >}}
 
 The events show that the Underworld was not a Land of the Dead. Instead, it was a place:
 - the gods could enter and leave
@@ -63,7 +65,7 @@ the Silver Axe carries, which shines as the day.
 
 The beru, both a land-measuring and a time-reckoning unit, was probably used in the latter capacity when travel over water was involved. 
 
-As such it was a double hour, so that one hundred beru meant two hundred hours of sailing. We have no way of determining the assumed or average sailing speed employed in these ancient distance reckonings. But there is no doubt that a truly distant land was reached after a sea voyage of over 2-3 thousand miles.
+As such it was a double hour, so that 100 beru meant two hundred hours of sailing. We have no way of determining the assumed or average sailing speed employed in these ancient distance reckonings. But there is no doubt that a truly distant land was reached after a sea voyage of over 2-3 thousand miles.
 
 The texts indicate that Arali was situated west and south of Sumer. A ship traveling 2-3 thousand miles in a southwesterly direction from the Persian Gulf could have only one destination: the shares of southern Africa.
 
@@ -71,11 +73,22 @@ Only such a conclusion can explain the terms Lower World, as meaning the souther
 
 Such a division of Earth's hemispheres between Enlil (northern) and Ea (southern) paralleled the designation of the northern skies as the Way of Enlil and the southern skies as the Way of Ea.
 
-The ability of the Nefilim to undertake interplanetary travel, orbit Earth, and land on it should obviate the question whether they could possibly have known of southern Africa, besides Mesopotamia. Many cylinder seals, depicting animals peculiar to the area (such as the zebra or ostrich), jungle scenes, or rulers wearing leopard skins in the African tradition, attest to an "African connection."
+The ability of the Nefilim to undertake interplanetary travel, orbit Earth, and land on it should obviate the question whether they could possibly have known of southern Africa, besides Mesopotamia.
+
+Many cylinder seals, depicting animals peculiar to the area (such as the zebra or ostrich), jungle scenes, or rulers wearing leopard skins in the African tradition, attest to an "African connection."
 
 What interest did the Nefilim have in this part of Africa, diverting to it the scientific genius of Ea and granting to the important gods in charge of the land a unique "Tablet of Wisdom"?
 
-The Sumerian term AB.ZU, which scholars have accepted to mean "watery deep," requires a fresh and critical analysis. Literally, the term meant "primeval deep source"—not necessarily of waters. According to Sumerian grammatical rules, either of two syllables of any term could precede the other without changing the word's meaning, with the result that AB.ZU and ZU.AB meant the same thing.
+
+
+
+
+The Sumerian term AB.ZU means "watery deep". Literally, it meant "primeval deep source"—not necessarily of waters.*
+
+{{< n n="Here, Stitchin messes up Abzu to push his own hypothesis" >}}
+
+
+According to Sumerian grammatical rules, either of two syllables of any term could precede the other without changing the word's meaning, with the result that AB.ZU and ZU.AB meant the same thing.
 
 The latter spelling of the Sumerian term enables identification of its parallel in the Semitic languages, for za-ab has always meant and still means "precious metal," specifically "gold," in Hebrew and its sister languages.
 
@@ -91,9 +104,13 @@ Another text (III.R57, 35ab), he pointed out, explained that the Akkadian name "
 
 The Akkadian term nimiku, which has been translated as "wisdom," Jensen concluded, "had to do with metals." But why, he admitted simply, "I do not know."
 
-Some Mesopotamian hymns to Ea exalt him as Bel Nimiki, translated "lord of wisdom"; but the correct translation should undoubtedly be "lord of mining." Just as the Tablet of Destinies at Nippur contained orbital data, it follows that the Tablet of Wisdom entrusted to Nergal and Ereshkigal was in fact a "Tablet of Mining," a "data bank" pertaining to the mining operations of the Nefilim.
+Some Mesopotamian hymns to Ea exalt him as Bel Nimiki, translated "lord of wisdom"; but the correct translation should undoubtedly be "lord of mining."
 
-As Lord of the Abzu, Ea was assisted by another son, the god GI.BlL ("he who burns the soil"), who was in charge of fire and smelting. Earth's Smith, he was usually depicted as a young god whose shoulders emit red-hot rays or sparks of fire, emerging from the ground or about to descend into it. The texts state that Gibil was steeped by Ea in "wisdom," meaning that Ea had taught him mining techniques. (Fig. 140)
+Just as the Tablet of Destinies at Nippur contained orbital data, it follows that the Tablet of Wisdom entrusted to Nergal and Ereshkigal was in fact a "Tablet of Mining," a "data bank" pertaining to the mining operations of the Nefilim.
+
+As Lord of the Abzu, Ea was assisted by another son, the god GI.BlL ("he who burns the soil"), who was in charge of fire and smelting. 
+
+Earth's Smith, he was usually depicted as a young god whose shoulders emit red-hot rays or sparks of fire, emerging from the ground or about to descend into it. The texts state that Gibil was steeped by Ea in "wisdom," meaning that Ea had taught him mining techniques. (Fig. 140)
 
 
 The metal ores mined in southeastern Africa by the Nefilim were carried back to Mesopotamia by specially designed cargo ships called MA.GUR UR.NU AB.ZU ("ship for ores of the Lower World"). There, the ores were taken to Bad-Tibira, whose name literally meant "the foundation of metalworking." 
@@ -143,14 +160,3 @@ The land's name, Arali, could also be written as a variant of:
 - the metals mined there.
 
 The pictographs always depicted variants of a mine shaft. (Fig. 144)
-
-
-Extensive references to gold and other metals in ancient texts suggest familiarity with metallurgy from the earliest times. A lively metals trade existed at the very beginnings of civilization, the result of knowledge bequeathed to Mankind by the gods, who, the texts state, had engaged in mining and metallurgy long before Man's appearance.
-
-Many studies that correlate Mesopotamian divine tales with the biblical pre-Diluvial list of patriarchs point out that, according to the Bible, Tubal-cain was an "artificer of gold and copper and iron" long before the Deluge.
-
-The Old Testament recognized the land of Ophir, which was probably somewhere in Africa, as a source of gold in antiquity. King Solomon's ship convoys sailed down the Red Sea from Ezion-geber (present-day Elath). 
-
-"And they went to Ophir and fetched from thence gold."
-
-Unwilling to risk a delay in the construction of the Lord's Temple in Jerusalem, Solomon arranged with his ally, Hiram, king of Tyre, to sail a second fleet to Ophir by an alternate route: And the king had at sea a navy of Tarshish with the navy of Hiram.

@@ -37,13 +37,23 @@ Similarly, a talking machine is not beyond imagination.
 
 Several years before the publication of L’Homme Machine, in a slight and presumably only semi-serious work,  -->
 
-Bougeant produced one of the very few attempts to refute explicitly the Cartesian argument that human and animal language differ in a fundamental way,17.
+Bougeant produced one of the very few attempts to refute explicitly the Cartesian argument that human and animal language differ fundamentally 17.
 
-But his supposed counterargument merely reaffirms the Cartesian position regarding human and animal language.
+But it actually reaffirms the Cartesian position.
 
-He bases his claim that “animals speak and understand each other just as well as we do, and sometimes better” (p. 4) on the grounds that they can be trained to respond to signals, that they exhibit their “various feelings” by external signs, that they can work in cooperation (for example, beavers, to whom he ascribes a language that has much in common with those “language games” that Wittgenstein regards as “primitive forms” of human language).
+ <!-- regarding human and animal language. -->
 
-However, he recognizes that “the language of animals is entirely limited to expressing feelings of their passions, which may all be reduced to a small number” (p. 152). 
+He claims that “animals speak and understand each other just as well as we do, and sometimes better”. They:
+- can be trained to respond to signals
+- exhibit their “various feelings” by external signs
+- can work in cooperation.
+
+ <!-- (for example, beavers, to whom he ascribes a language that has much in common with those “language games” that Wittgenstein regards as “primitive forms” of human language). -->
+
+However, he recognizes that:
+- “the language of animals is entirely limited to expressing limited feelings.
+
+ <!-- of their passions, which may all be reduced to a small number” (p. 152).  -->
 
 <!-- “It is necessary that they always repeat the same expression, and that this repetition last as long as the object occupies their attention” (p. 123).  -->
 

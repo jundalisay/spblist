@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 8"
-title: "Particle Spin: Helicity Determines Covertibility"
+title: "Particle Helicity Determines Covertibility"
 # # date: 2020-01-29
 # date: 2024-02-17
 image: /photos/physics/light.jpg

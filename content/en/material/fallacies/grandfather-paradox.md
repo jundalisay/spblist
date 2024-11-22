@@ -49,7 +49,7 @@ That paradox only seems to exist because **the mind sees the whole event from a 
 This linear point of view is in turn a necessary consequence of observing phenomena in isolation in a third person perspective. In our 5-layer paradigm, it only arises because aethereal mind of the 5th layer is put under the spacetime layer, which is the 4th layer.  
 
 
-## Science ALways Unsolves the Problem
+## Science Always Unsolves the Problem
 
 Such a perspective necessarily abandons the current perception of the identities in the phenomenon and assigns a reality to past and future (i.e it makes predictions from the phenomena -- this comes from the tendency of the mind to connect things).  
 

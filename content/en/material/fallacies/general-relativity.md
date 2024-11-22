@@ -54,7 +54,7 @@ This also debunks Einstein's Relativity wherein light is an essential component:
 
 Therefore, the correct replacement to Newton and Einstein should:
 - have no absolutes (i.e. be relative)
-- work even without light 
+- work even without light (i.e. intellectually derived from patterns of data through space and time, not from a single visual observation)
 
 
 ### Descartes to the Rescue 

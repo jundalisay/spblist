@@ -77,3 +77,6 @@ This pair is called a meson.
 Therefore, aetherspace particles remove the need for gluons and color charges.
 
 <!-- https://www.youtube.com/watch?v=0jVMiF4nKoA -->
+
+
+<!-- ### Quantum Media: Aetherspace Kaons -->

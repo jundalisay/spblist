@@ -11,10 +11,14 @@ writer:
 weight: 30
 icon: /icons/spmat.png
 toc: false
-draft: true
 ---
 
 
+Chapter 8 will explain male and female charges as an effect of dualistic rotation direction.
+
+Particle spin, as rotation orientation, is one of the effects of rotation direction. 
+
+  
 
 
 Particle spin is the orientation direction of a particle.
