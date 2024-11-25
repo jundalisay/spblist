@@ -12,7 +12,7 @@ writer:
 
 
 
-Note: Most of the (afore-mentioned supernatural perception by means of dream visions) occurs to human beings unintentionally and without their having power over it. The soul occupies itself with a thing. As a result, it obtains that glimpse (of the supernatural) while it is asleep, and it sees that thing. It does not plan it that way.
+Note: Most of the afore-mentioned supernatural perception by means of dream visions occurs to human beings unintentionally and without their having power over it. The soul occupies itself with a thing. As a result, it obtains that glimpse of the supernatural while it is asleep, and it sees that thing. It does not plan it that way.
 
 In the Ghayah and other books by practitioners of magic, reference is made to words that should be mentioned on falling asleep so as to cause the dream vision to be about the things one desires. 
 

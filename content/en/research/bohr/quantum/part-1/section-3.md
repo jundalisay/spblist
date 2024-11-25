@@ -9,116 +9,92 @@ contributors: ['Bohr']
 
  	
 
-If we consider systems of several degrees of freedom the motion will be periodic only in singular cases and the general conditions which determine the stationary states cannot 
+If we consider systems of several degrees of freedom the motion will be periodic only in singular cases and the general conditions which determine the stationary states cannot therefore be derived by means of the same simple kind of considerations as in the former section. 
 
-) See E. C. Kemble, Phys. Rev., VIII, p. 701, 1916.
-28
+As mentioned in the introduction, however, Sommerfeld and others have recently succeeded, by means of a suitable generalisation of (10), to obtain conditions for an important class of systems of several degrees of freedom, which, in connection with (1), have been found to give results in convincing agreement with experimental results about line-spectra. Subsequently these conditions have been proved by Ehrenfest and especially by Burgers1) to be invariant for slow mechanical transformations.
 
-therefore be derived by means of the same simple kind of considerations as in the former section. As mentioned in the introduction, however, Sommerfeld and others have recently succeeded, by means of a suitable generalisation of (10), to obtain conditions for an important class of systems of several degrees of freedom, which, in connection with (1), have been found to give results in convincing agreement with experimental results about line-spectra. Subsequently these
-conditions have been proved by Ehrenfest and especially
-by Burgers1) to be invariant for slow mechanical transformations.
+<!-- ) See E. C. Kemble, Phys. Rev., VIII, p. 701, 1916.
+28 -->
 
-To the generalisation under consideration we are naturally led, if we first consider such systems for which the motions corresponding to the different degrees of freedom are dynamically independent of each other. This occurs if the expression for the total energy E in Hamilton’s equations (4) for a system of s degrees of freedom can be written as a sum
-E1 +· · ·+Es, where Ek contains qk and pk only. 
+To the generalisation under consideration we are naturally led, if we first consider such systems for which the motions corresponding to the different degrees of freedom are dynamically independent of each other. 
 
-An illustration of a system of this kind is presented by a particle moving in a field of force in which the force-components normal to
-three mutually perpendicular fixed planes are functions of the distances from these planes respectively. Since in such a
-case the motion corresponding to each degree of freedom in general will be periodic, just as for a system of one degree of
-1
+This occurs if the expression for the total energy E in Hamilton’s equations (4) for a system of s degrees of freedom can be written as a sum E1 +· · ·+Es, where Ek contains qk and pk only. 
 
-) J. M. Burgers, Versl. Akad. Amsterdam, XXV, pp. 849,
+An illustration of a system of this kind is presented by a particle moving in a field of force in which the force-components normal to three mutually perpendicular fixed planes are functions of the distances from these planes respectively. 
+
+Since in such a case the motion corresponding to each degree of freedom in general will be periodic, just as for a system of one degree of 
+
+... 
+<!-- ) J. M. Burgers, Versl. Akad. Amsterdam, XXV, pp. 849,
 918, 1055. (1917), Ann. d. Phys. LII. p. 195 (1917), Phil. Mag. XXXIII,
-p. 514 (1917).
-29
+p. 514 (1917). -->
+
+
 freedom, we may obviously expect that the condition (10) is
 here replaced by a set of s conditions:
-Ik =
+
+<!-- Ik =
 Z
-pk dqk = nkh, (k = 1, . . . , s) (15)
-where the integrals are taken over a complete period of the
-different q’s respectively, and where n1, . . . , ns are entire
-numbers. It will be seen at once that these conditions are
-invariant for any slow transformation of the system for which
+pk dqk = nkh, (k = 1, . . . , s) (15) -->
+
+... 
+
+where the integrals are taken over a complete period of the different q’s respectively, and where n1, . . . , ns are entire
+numbers. It will be seen at once that these conditions are invariant for any slow transformation of the system for which
 the independency of the motions corresponding to the different coordinates is maintained.
+
 A more general class of systems for which a similar analogy with systems of a single degree of freedom exists and
-where conditions of the same type as (15) present themselves
-is obtained in the case where, although the motions corresponding to the different degrees of freedom are not independent of each other, it is possible nevertheless by a suitable
-choice of coordinates to express each of the momenta pk as a
-function of qk only. A simple system of this kind consists of
-a particle moving in a plane orbit in a central field of force.
-Taking the length of the radius-vector from the centre of the
-field to the particle as q1, and the angular distance of this
-radius-vector from a fixed line in the plane of the orbit as q2,
-we get at once from (4), since E does not contain q2, the
-well known result that during the motion the angular momentum p2 is constant and that the radial motion, given by
-the variations of p1 and q1 with the time, will be exactly the
-same as for a system of one degree of freedom. In his funda-
-30
-mental application of the quantum theory to the spectrum
-of a non-periodic system Sommerfeld assumed therefore
-that the stationary states of the above system are given by
-two conditions of the form:
-I1 =
+where conditions of the same type as (15) present themselves is obtained in the case where, although the motions corresponding to the different degrees of freedom are not independent of each other, it is possible nevertheless by a suitable choice of coordinates to express each of the momenta pk as a function of qk only. A simple system of this kind consists of a particle moving in a plane orbit in a central field of force.
+
+Taking the length of the radius-vector from the centre of the field to the particle as q1, and the angular distance of this radius-vector from a fixed line in the plane of the orbit as q2, we get at once from (4), since E does not contain q2, the well known result that during the motion the angular momentum p2 is constant and that the radial motion, given by the variations of p1 and q1 with the time, will be exactly the same as for a system of one degree of freedom. In his fundamental application of the quantum theory to the spectrum of a non-periodic system Sommerfeld assumed therefore
+that the stationary states of the above system are given by two conditions of the form:
+
+<!-- I1 =
 Z
 p1 dq1 = n1h, I2 =
 Z
-p2 dq2 = n2h. (16)
+p2 dq2 = n2h. (16) -->
+
 While the first integral obviously must be taken over a period of the radial motion, there might at first sight seem to
 be a difficulty in fixing the limits of integration of q2. 
 
 This disappears, however, if we notice that an integral of the type under consideration will not be altered by a change of coordinates in which q is replaced by some function of this variable. 
 
-In fact, if instead of the angular distance of the radius-vector we take for q2 some continuous periodic function of this angle with period 2π, every point in the plane
-of the orbit will correspond to one set of coordinates only and the relation between p and q will be exactly of the same
-type as for a periodic system of one degree of freedom for which the motion is of oscillating type. It follows therefore
-that the integration in the second of the conditions (16) has to be taken over a complete revolution of the radius-vector,
-and that consequently this condition is equivalent with the
-simple condition that the angular momentum of the particle
-round the centre of the field is equal to an entire multiple
-of h
-2π
-. As pointed out by Ehrenfest, the conditions (16)
-are invariant for such special transformations of the system
-for which the central symmetry is maintained. This follows
-31
-immediately from the fact that the angular momentum in transformations of this type remains invariant, and that the equations of motion for the radial coordinate as long as p2 remains constant are the same as for a system of one degree of freedom. On the basis of (16), Sommerfeld has, as mentioned in the introduction, obtained a brilliant explanation of the fine structure of the lines in the hydrogen spectrum, due
+In fact, if instead of the angular distance of the radius-vector we take for q2 some continuous periodic function of this angle with period 2π, every point in the plane of the orbit will correspond to one set of coordinates only and the relation between p and q will be exactly of the same type as for a periodic system of one degree of freedom for which the motion is of oscillating type. 
+
+It follows therefore that the integration in the second of the conditions (16) has to be taken over a complete revolution of the radius-vector, and that consequently this condition is equivalent with the simple condition that the angular momentum of the particle round the centre of the field is equal to an entire multiple of h 2π .
+
+As pointed out by Ehrenfest, the conditions (16) are invariant for such special transformations of the system
+for which the central symmetry is maintained. This follows immediately from the fact that the angular momentum in transformations of this type remains invariant, and that the equations of motion for the radial coordinate as long as p2 remains constant are the same as for a system of one degree of freedom. On the basis of (16), Sommerfeld has, as mentioned in the introduction, obtained a brilliant explanation of the fine structure of the lines in the hydrogen spectrum, due
 to the change of the mass of the electron with its velocity.1)
+
 To this theory we shall come back in Part II.
 
-As pointed out by Epstein 2) and Schwarzschild 3) the 1) In this connection it may be remarked that conditions of the same
-type as (16) were proposed independently by W. Wilson (Phil. Mag.
-XXIX p. 795 (1915) and XXXI p. 156 (1916)), but by him applied
-only to the simple Keplerian motion described by the electron in the
-hydrogen atom if the relativity modifications are neglected. Due to the
-singular position of periodic systems in the quantum theory of systems
-of several degrees of freedom this application, however, involves, as it
-will appear from the following discussion, an ambiguity which deprives
-the result of an immediate physical interpretation. Conditions analogous to (16) have also been established by Planck in his interesting
-theory of the “physical structure of the phase space” of systems of several degrees of freedom (Verh. d. D. Phys. Ges. XVII p. 407 and p. 438
-(1915), Ann. d. Phys. L p. 385, (1916)). This theory, which has no
-direct relation to the problem of line-spectra discussed in the present
-paper, rests upon a profound analysis of the geometrical problem of
-dividing the multiple-dimensional phase space corresponding to a system of several degrees of freedom into “cells” in a way analogous to the
-division of the phase surface of a system of one degree of freedom by
-the curves given by (10).
-2
+As pointed out by Epstein 2) and Schwarzschild 3), the 1) In this connection it may be remarked that conditions of the same type as (16) were proposed independently by W. Wilson (Phil. Mag. XXIX p. 795 (1915) and XXXI p. 156 (1916)), but by him applied only to the simple Keplerian motion described by the electron in the hydrogen atom if the relativity modifications are neglected. 
+
+Due to the singular position of periodic systems in the quantum theory of systems of several degrees of freedom this application, however, involves, as it will appear from the following discussion, an ambiguity which deprives
+the result of an immediate physical interpretation. Conditions analogous to (16) have also been established by Planck in his interesting theory of the “physical structure of the phase space” of systems of several degrees of freedom 
+
+<!-- (Verh. d. D. Phys. Ges. XVII p. 407 and p. 438
+(1915), Ann. d. Phys. L p. 385, (1916)).  -->
+
+This theory, which has no direct relation to the problem of line-spectra discussed in the present paper, rests upon a profound analysis of the geometrical problem of dividing the multiple-dimensional phase space corresponding to a system of several degrees of freedom into “cells” in a way analogous to the division of the phase surface of a system of one degree of freedom by the curves given by (10).
+
+<!-- 2
 ) P. Epstein, loc. cit.
 3
 ) K. Schwarzschild, loc. cit.
-32
-central systems considered by Sommerfeld form a special
-case of a more general class of systems for which conditions
-of the same type as (15) may be applied. These are the
-so called conditionally periodic systems, to which we are led
-if the equations of motion are discussed by means of the
-Hamilton-Jacobi partial differential equation.1
-) In the
-expression for the total energy E as a function of the q’s and
-the p’s, let the latter quantities be replaced by the partial
-differential coefficients of some function S with respect to
-the corresponding q’s respectively, and consider the partial
-differential equation:
-E
+32 -->
+
+central systems considered by Sommerfeld form a special case of a more general class of systems for which conditions
+of the same type as (15) may be applied. 
+
+These are the so called conditionally periodic systems, to which we are led
+if the equations of motion are discussed by means of the Hamilton-Jacobi partial differential equation.1) 
+
+In the expression for the total energy E as a function of the q’s and the p’s, let the latter quantities be replaced by the partial differential coefficients of some function S with respect to the corresponding q’s respectively, and consider the partial differential equation:
+
+<!-- E
 
 q1, . . . , qs,
 ∂S
@@ -127,15 +103,16 @@ q1, . . . , qs,
 ∂S
 ∂qs
 
-= α1, (17)
-obtained by putting this expression equal to an arbitrary
-constant α1. If then
+= α1, (17) -->
+
+obtained by putting this expression equal to an arbitrary constant α1. If then
 S = F(q1, . . . , qs, α1, . . . , αs) + C,
 where α2, . . . , αs, and C are arbitrary constants like α1, is
 a total integral of (17), we get, as shown by Hamilton and
 Jacobi, the general solution of the equations of motion (4)
 by putting
-∂S
+
+<!-- ∂S
 ∂α1
 = t + β1,
 ∂S
@@ -148,44 +125,36 @@ Abt. 2.
 and
 ∂S
 ∂qk
-= pk, (k = 1, . . . , s) (19)
-where t is the time and β1, . . . , βs a new set of arbitrary
-constants. By means of (18) the q’s are given as functions of
+= pk, (k = 1, . . . , s) (19) -->
+
+where t is the time and β1, . . . , βs a new set of arbitrary constants. By means of (18) the q’s are given as functions of
 the time t and the 2s constants α1, . . . , αs, β1, . . . , βs which
 may be determined for instance from the values of the q’s
 and ¨q’s at a given moment.
-Now the class of systems, referred to, is that for which,
-for a suitable choice of orthogonal coordinates, it is possible
-to find a total integral of (17) of the form
-S =
+
+Now the class of systems, referred to, is that for which, for a suitable choice of orthogonal coordinates, it is possible
+to find a total integral of (17) of the form 
+
+<!-- S =
 Xs
 1
-Sk(qk, α1, . . . , αs), (20)
+Sk(qk, α1, . . . , αs), (20) -->
+
 where Sk is a function of the s constants α1, . . . , αs and of
 qk only. In this case, in which the equation (17) allows of
 what is called “separation of variables”, we get from (19) that
 every p is a function of the α’s and of the corresponding q
-only. If during the motion the coordinates do not become infinite in the course of time or converge to fixed limits, every q
-will, just as for systems of one degree of freedom, oscillate
-between two fixed values, different for the different q’s and
-depending on the α’s. Like in the case of a system of one
-degree of freedom, pk will become zero and change its sign
-whenever qk passes through one of these limits. Apart from
-special cases, the system will during the motion never pass
-twice through a configuration corresponding to the same set
-34
-of values for the q’s and p’s, but it will in the course of time
-pass within any given, however small, distance from any configuration corresponding to a given set of values q1, . . . , qs,
-representing a point within a certain closed s-dimensional
-extension limited by s pairs of (s − 1)-dimensional surfaces
-corresponding to constant values of the q’s equal to the above
-mentioned limits of oscillation. A motion of this kind is
+only. If during the motion the coordinates do not become infinite in the course of time or converge to fixed limits, every q will, just as for systems of one degree of freedom, oscillate between two fixed values, different for the different q’s and depending on the α’s. Like in the case of a system of one degree of freedom, pk will become zero and change its sign
+whenever qk passes through one of these limits. 
+
+Apart from special cases, the system will during the motion never pass twice through a configuration corresponding to the same set of values for the q’s and p’s, but it will in the course of time pass within any given, however small, distance from any configuration corresponding to a given set of values q1, . . . , qs,
+
+representing a point within a certain closed s-dimensional extension limited by s pairs of (s − 1)-dimensional surfaces
+corresponding to constant values of the q’s equal to the above mentioned limits of oscillation. A motion of this kind is
 called “conditionally periodic”. It will be seen that the character of the motion will depend only on the α’s and not on
 the β’s, which latter constants serve only to fix the exact configuration of the system at a given moment, when the α’s are
-known. For special systems it may occur that the orbit will
-not cover the above mentioned s-dimensional extension everywhere dense, but will, for all values of the α’s, be confined
-to an extension of less dimensions. Such a case we will refer
-to in the following as a case of “degeneration”.
+known. For special systems it may occur that the orbit will not cover the above mentioned s-dimensional extension everywhere dense, but will, for all values of the α’s, be confined to an extension of less dimensions. Such a case we will refer to in the following as a case of “degeneration”.
+
 Since for a conditionally periodic system which allows of
 separation in the variables q1, . . . , qs the p’s are functions
 of the corresponding q’s only, we may, just as in the case
@@ -200,7 +169,8 @@ an s-dimensional extension limited in the characteristic way
 35
 mentioned above, it follows that, except in cases of degeneration, a separation of variables will not be possible for
 two different sets of coordinates q1, . . . , qs and q
-0
+
+<!-- 0
 1
 , . . . , q
 0
@@ -211,166 +181,107 @@ unless q1 = f1(q
 1
 ), . . . , qs = fs(q
 0
-s
-), and since a change of
-coordinates of this type will not affect the values of the expressions (21), it will be seen that the values of the I’s are
-completely determined for a given motion of the system. By
-putting
+s -->
+
+), and since a change of coordinates of this type will not affect the values of the expressions (21), it will be seen that the values of the I’s are completely determined for a given motion of the system. By
+putting 
+
 Ik = nkh, (k = l, . . . , s) (22)
+
 where n1, . . . , ns are positive entire numbers, we obtain
 therefore a set of conditions which form a natural generalisation of condition (10) holding for a system of one degree
 of freedom.
-Since the I’s, as given by (21), depend on the constants
-α1, . . . , αs only and not on the β’s, the α’s may, in general,
-inversely be determined from the values of the I’s. The character of the motion will therefore, in general, be completely
-determined by the conditions (22), and especially the value
-for the total energy, which according to (17) is equal to α1,
-will be fixed by them. In the cases of degeneration referred
-to above, however, the conditions (22) involve an ambiguity,
-since in general for such systems there will exist an infinite
-number of different sets of coordinates which allow of a separation of variables, and which will lead to different motions
-in the stationary states, when these conditions are applied.
-As we shall see below, this ambiguity will not influence the
-fixation of the total energy in the stationary states, which
-36
-is the essential factor in the theory of spectra based on (1)
-and in the applications of the quantum theory to statistical
-problems.
 
-A well known characteristic example of a conditionally periodic system is afforded by a particle moving under the
-influence of the attractions from two fixed centres varying as
-the inverse squares of the distances apart, if the relativity
-modifications are neglected. As shown by Jacobi this problem can be solved by a separation of variables if so called
-elliptical coordinates are used, i. e. if for ql and q2 we take
-two parameters characterising respectively an ellipsoid and a
-hyperboloid of revolution with the centres as foci and passing through the instantaneous position of the moving particle, and for q3 we take the angle between the plane through
-the particle and the centres and a fixed plane through the
-latter points, or, in closer conformity with the above general
-description, some continuous periodic function of this angle
-with period 2π. A limiting case of this problem is afforded
-by an electron rotating round a positive nucleus and subject
+Since the I’s, as given by (21), depend on the constants α1, . . . , αs only and not on the β’s, the α’s may, in general,
+inversely be determined from the values of the I’s. 
+
+The character of the motion will therefore, in general, be completely determined by the conditions (22), and especially the value for the total energy, which according to (17) is equal to α1, will be fixed by them. In the cases of degeneration referred to above, however, the conditions (22) involve an ambiguity, since in general for such systems there will exist an infinite number of different sets of coordinates which allow of a separation of variables, and which will lead to different motions in the stationary states, when these conditions are applied.
+
+As we shall see below, this ambiguity will not influence the fixation of the total energy in the stationary states, which is the essential factor in the theory of spectra based on (1) and in the applications of the quantum theory to statistical
+problems. 
+
+
+A well known characteristic example of a conditionally periodic system is afforded by a particle moving under the influence of the attractions from two fixed centres varying as the inverse squares of the distances apart, if the relativity modifications are neglected. 
+
+As shown by Jacobi this problem can be solved by a separation of variables if so called elliptical coordinates are used, i. e. if for ql and q2 we take two parameters characterising respectively an ellipsoid and a hyperboloid of revolution with the centres as foci and passing through the instantaneous position of the moving particle, and for q3 we take the angle between the plane through the particle and the centres and a fixed plane through the latter points, or, in closer conformity with the above general description, some continuous periodic function of this angle
+with period 2π. 
+
+A limiting case of this problem is afforded by an electron rotating round a positive nucleus and subject
 to the effect of an additional homogeneous electric field, because this field may be considered as arising from a second
-nucleus at infinite distance apart from the first. The motion in this case will therefore be conditionally periodic and
-allow a separation of variables in parabolic coordinates, if
-the nucleus is taken as focus for both sets of paraboloids of
-revolution, and their axes are taken parallel to the direction
-of the electric force. By applying the conditions (22) to this
-motion Epstein and Schwarzschild have, as mentioned
-37
-in the introduction, independent of each other, obtained an
-explanation of the effect of an external electric field on the
+nucleus at infinite distance apart from the first. 
+
+The motion in this case will therefore be conditionally periodic and allow a separation of variables in parabolic coordinates, if the nucleus is taken as focus for both sets of paraboloids of revolution, and their axes are taken parallel to the direction f the electric force. 
+
+By applying the conditions (22) to this motion Epstein and Schwarzschild have, as mentioned in the introduction, independent of each other, obtained an explanation of the effect of an external electric field on the
 lines of the hydrogen spectrum, which was found to be in
-convincing agreement with Stark’s measurements. To the
-results of these calculations we shall return in Part II.
-In the above way of representing the general theory we
-have followed the same procedure as used by Epstein. By
-introducing the so called “angle-variables” well known from
-the astronomical theory of perturbations, Schwarzschild
-has given the theory a very elegant form in which the analogy
-with systems of one degree of freedom presents itself in a
-somewhat different manner. The connection between this
-treatment and that given above has been discussed in detail
-by Epstein.
-1
-)
-As mentioned above the conditions (22), first established from analogy with systems of one degree of freedom,
-have subsequently been proved generally to be mechanically invariant for any slow transformation for which the
-system remains conditionally periodic. The proof of this in
-variance has been given quite recently by Burgers2
-) by
-means of an interesting application of the theory of contacttransformations based on Schwarzschild’s introduction of
-angle variables. We shall not enter here on these calculations
-but shall only consider some points in connection with the
-1
-) P. Epstein, Ann. d. Phys. LI, p. 168 (1916). See also Note on
+convincing agreement with Stark’s measurements. 
+
+To the results of these calculations we shall return in Part II.
+
+In the above way of representing the general theory we have followed the same procedure as used by Epstein. By 
+introducing the so called “angle-variables” well known from the astronomical theory of perturbations, Schwarzschild
+has given the theory a very elegant form in which the analogy with systems of one degree of freedom presents itself in a
+somewhat different manner. 
+
+The connection between this treatment and that given above has been discussed in detail by Epstein.
+
+As mentioned above the conditions (22), first established from analogy with systems of one degree of freedom, have subsequently been proved generally to be mechanically invariant for any slow transformation for which the system remains conditionally periodic. The proof of this in variance has been given quite recently by Burgers2) by means of an interesting application of the theory of contacttransformations based on Schwarzschild’s introduction of
+angle variables. 
+
+We shall not enter here on these calculations but shall only consider some points in connection with the
+
+<!-- ) P. Epstein, Ann. d. Phys. LI, p. 168 (1916). See also Note on
 page 53 of the present paper.
 2
 ) J. M. Burgers, loc. cit. Versl. Akad. Amsterdam, XXV, p. 1055
-(1917).
-38
-problem of the mechanical transformability of the stationary
-states which are of importance for the logical consistency
-of the general theory and for the later applications. In § 2
-we saw that in the proof of the mechanical invariance of
-relation (10) for a periodic system of one degree of freedom,
-it was essential that the comparative variation of the external conditions during the time of one period could be made
-small. This may be regarded as an immediate consequence
-of the nature of the fixation of the stationary states in the
-quantum theory. In fact the answer to the question, whether
-a given state of a system is stationary, will not depend only
-on the motion of the particles at a given moment or on the
-field of force in the immediate neighbourhood of their instantaneous positions, but cannot be given before the particles
-have passed through a complete cycle of states, and so to
-speak have got to know the entire field of force of influence
-on the motion. If thus, in the case of a periodic system of
-one degree of freedom, the field of force is varied by a given
-amount, and if its comparative variation within the time of
-a single period was not small, the particle would obviously
-have no means to get to know the nature of the variation
-of the field and to adjust its stationary motion to it, before
-the new field was already established. For exactly the same
-reasons it is a necessary condition for the mechanical invariance of the stationary states of a conditionally periodic
-system, that the alteration of the external conditions during
-an interval in which the system has passed approximately
-through all possible configurations within the above men-
-39
-tioned s-dimensional extension in the coordinate-space can
-be made as small as we like. This condition forms therefore
-also an essential point in Burgers’ proof of the invariance
-of the conditions (22) for mechanical transformations. Due
-to this we meet with a characteristic difficulty when during
-the transformation of the system we pass one of the cases of
-degeneration mentioned above, where, for every set of values
-for the α’s, the orbit will not cover the s-dimensional extension everywhere dense, but will be confined to an extension
-of less dimensions. It is clear that, when by a slow transformation of a conditionally periodic system we approach
-a degenerate system of this kind, the time-interval which
-the orbit takes to pass close to any possible configuration
-will tend to be very long and will become infinite when
-the degenerate system is reached. As a consequence of this
-the conditions (22) will generally not remain mechanically
+(1917). -->
+
+problem of the mechanical transformability of the stationary states which are of importance for the logical consistency
+of the general theory and for the later applications.
+
+In § 2 we saw that in the proof of the mechanical invariance of relation (10) for a periodic system of one degree of freedom, it was essential that the comparative variation of the external conditions during the time of one period could be made small. 
+
+This may be regarded as an immediate consequence of the nature of the fixation of the stationary states in the quantum theory. In fact the answer to the question, whether a given state of a system is stationary, will not depend only
+on the motion of the particles at a given moment or on the field of force in the immediate neighbourhood of their instantaneous positions, but cannot be given before the particles have passed through a complete cycle of states, and so to
+speak have got to know the entire field of force of influence on the motion. 
+
+If thus, in the case of a periodic system of one degree of freedom, the field of force is varied by a given amount, and if its comparative variation within the time of a single period was not small, the particle would obviously have no means to get to know the nature of the variation of the field and to adjust its stationary motion to it, before the new field was already established. 
+
+For exactly the same reasons it is a necessary condition for the mechanical invariance of the stationary states of a conditionally periodic system, that the alteration of the external conditions during an interval in which the system has passed approximately through all possible configurations within the above mentioned s-dimensional extension in the coordinate-space can be made as small as we like. 
+
+This condition forms theref-ore also an essential point in Burgers’ proof of the invariance of the conditions (22) for mechanical transformations. 
+ 
+Due to this we meet with a characteristic difficulty when during the transformation of the system we pass one of the cases of degeneration mentioned above, where, for every set of values for the α’s, the orbit will not cover the s-dimensional extension everywhere dense, but will be confined to an extension of less dimensions. It is clear that, when by a slow transformation of a conditionally periodic system we approach a degenerate system of this kind, the time-interval which
+the orbit takes to pass close to any possible configuration will tend to be very long and will become infinite when
+the degenerate system is reached. As a consequence of this the conditions (22) will generally not remain mechanically
 invariant when we pass a degenerate system, what has intimate connection with the above mentioned ambiguity in
-the determination of the stationary states of such systems
-by means of (22).
-A typical case of a degenerate system, which may serve as
-an illustration of this point, is formed by a system of several
-degrees of freedom for which every motion is simply periodic,
-independent of the initial conditions. In this case, which is of
-great importance in the physical applications, we have from
-(5) and (21), for any set of coordinates in which a separation
-40
-of variables is possible,
-I =
+the determination of the stationary states of such systems by means of (22).
+
+
+A typical case of a degenerate system, which may serve as an illustration of this point, is formed by a system of several
+degrees of freedom for which every motion is simply periodic, independent of the initial conditions. In this case, which is of great importance in the physical applications, we have from (5) and (21), for any set of coordinates in which a separation of variables is possible,
+
+<!-- I =
 Z σ
 0
-(p1q˙1 + · · · + psq˙s) dt = κ1I1 + · · · + κsIs, (23)
-where the integration is extended over one period of the motion, and where κ1, . . . , κs are a set of positive entire numbers
-without a common divisor. Now we shall expect that every
-motion, for which it is possible to find a set of coordinates
-in which it satisfies (22), will be stationary. For any such
+(p1q˙1 + · · · + psq˙s) dt = κ1I1 + · · · + κsIs, (23) -->
+
+where the integration is extended over one period of the motion, and where κ1, . . . , κs are a set of positive entire numbers without a common divisor. Now we shall expect that every  motion, for which it is possible to find a set of coordinates in which it satisfies (22), will be stationary. For any such
 motion we get from (23)
-I = (κ1n1 + · · · + κsns)h = nh, (24)
-where n is a whole number which may take all positive values if, as in the applications mentioned below, at least one
-of the κ’s is equal to one. Inversely, if the system under
-consideration allows of separation of variables in an infinite
-continuous multitude of sets of coordinates, we must conclude that generally every motion which satisfies (24) will
-be stationary, because in general it will be possible for any
-such motion to find a set of coordinates in which it satisfies
-also (22). It will thus be seen that, for a periodic system
-of several degrees of freedom, condition (24) forms a simple
-generalisation of condition (10). From relation (8), which
-holds for two neighbouring motions of any periodic system,
-it follows further that the energy of the system will be completely determined by the value of I, just as for systems of
-one degree of freedom.
-41
-Consider now a periodic system in some stationary state
-satisfying (24), and let us assume that an external field is
-slowly established at a continuous rate and that the motion
-at any moment during this process allows of a separation of
-variables in a certain set of coordinates. If we would assume
-that the effect of the field on the motion of the system at any
-moment could be calculated directly by means of ordinary
-mechanics, we would find that the values of the I’s with respect to the latter coordinates would remain constant during
-the process, but this would involve that the values of the n’s
+
+<!-- I = (κ1n1 + · · · + κsns)h = nh, (24) -->
+
+where n is a whole number which may take all positive values if, as in the applications mentioned below, at least one of the κ’s is equal to one. Inversely, if the system under consideration allows of separation of variables in an infinite continuous multitude of sets of coordinates, we must conclude that generally every motion which satisfies (24) will be stationary, because in general it will be possible for any such motion to find a set of coordinates in which it satisfies
+also (22). It will thus be seen that, for a periodic system of several degrees of freedom, condition (24) forms a simple
+generalisation of condition (10). 
+
+From relation (8), which holds for two neighbouring motions of any periodic system, it follows further that the energy of the system will be completely determined by the value of I, just as for systems of one degree of freedom.
+
+Consider now a periodic system in some stationary state satisfying (24), and let us assume that an external field is
+slowly established at a continuous rate and that the motion at any moment during this process allows of a separation of
+variables in a certain set of coordinates.
+
+If we would assume that the effect of the field on the motion of the system at any moment could be calculated directly by means of ordinary mechanics, we would find that the values of the I’s with respect to the latter coordinates would remain constant during the process, but this would involve that the values of the n’s
 in (22) would in general not be entire numbers, but would
 depend entirely on the accidental motion, satisfying (24),
 originally possessed by the system. That mechanics, however, cannot generally be applied directly to determine the

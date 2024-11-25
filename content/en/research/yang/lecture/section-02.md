@@ -25,8 +25,7 @@ i, j = 1, . . . , dim R -->
 
 (2.6)
 
-Each of these representations offers a different ways of packaging the fields Aaμ into Lie-algebra valued objects Aμ . As we mentioned above, we will mostly focus on
-G = SU (N ): in this case, we usually take T a in the fundamental representation, in which case Aμ is simply an N ⇥ N Hermitian matrix.
+Each of these representations offers a different ways of packaging the fields Aaμ into Lie-algebra valued objects Aμ . As we mentioned above, we will mostly focus on G = SU (N ): in this case, we usually take T a in the fundamental representation, in which case Aμ is simply an N ⇥ N Hermitian matrix.
 
 Aside from the fundamental, there is one other representation that will frequently arise: this is the adjoint, for which dim R = dim G. We could think of these fields as forming a vector a , with a = 1, . . . , dim G, and then use the form of the covariant derivative (2.6). 
 

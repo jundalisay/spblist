@@ -8,18 +8,18 @@ contributors: ['Bohr']
 ---
 
 
-The ordinary theory of radiation predicts that we should expect the system to emit a spectrum consisting of a series of lines of frequencies equal to τω.
+The ordinary theory of radiation predicts that the system should emit a spectrum of lines of frequencies equal to `τω`.
 
-But this is just equal to the series of frequencies which we obtain from (13) by introducing different values for n 0 − n 00.
+But this is just equal to the series of frequencies which we obtain from (13) by introducing different values for `n 0 − n 00`.
 
-As far as the frequencies are concerned, we see therefore that in the limit where n is large there exists a close relation between the ordinary
-theory of radiation and the theory of spectra based on (1) and (10).
+As far as the frequencies are concerned, we see therefore that in the limit where `n` is large there exists a close relation between the ordinary theory of radiation and the theory of spectra based on (1) and (10).
 
-In the ordinary theory of radiation, radiations of the different frequencies τω corresponding to different values of τ are emitted or absorbed at the same time.
+In the ordinary theory of radiation, radiations of the different frequencies `τω` corresponding to different values of `τ` are emitted or absorbed at the same time.
 
-These frequencies, in my theory based on the assumption I and II, are connected with entirely different processes of emission or absorption. They correspond to the transition of the system from a given state to different neighbouring stationary states.
+These frequencies, in my theory based on the assumption I and II, are connected with entirely different processes of emission or absorption. 
+- They correspond to the transition of the system from a given state to different neighbouring stationary states.
 
-To connect it to the the ordinary theory of radiation in the limit of slow vibrations, I claim that a relation, as that just proved for the frequencies, will, in the limit of large n, hold also for the intensities of the different lines in the spectrum. 
+To connect it to the the ordinary theory of radiation in the limit of slow vibrations, I claim that a relation, as that just proved for the frequencies, will, in the limit of large `n`, hold also for the intensities of the different lines in the spectrum.
 
 In ordinary electrodynamics, the intensities of the radiations corresponding to different values of τ are directly determined from the coefficients C|tau in (14).
 
@@ -31,8 +31,7 @@ n = n
 0 − τ .
 ```
 
-This connection between the amplitudes of the different harmonic vibrations into which the motion can be resolved, characterised by different values of τ , and the probabilities of transition from a given stationary
-state to the different neighbouring stationary states, characterised by different values of n 0 − n 00, may clearly be expected to be of a general nature.
+This connection between the amplitudes of the different harmonic vibrations into which the motion can be resolved, characterised by different values of `τ`, and the probabilities of transition from a given stationary state to the different neighbouring stationary states, characterised by different values of `n 0 − n 00`, may clearly be expected to be of a general nature.
 
 Without a detailed theory of the mechanism of transition, we cannot obtain an exact calculation of the latter probabilities, unless n is large.
 

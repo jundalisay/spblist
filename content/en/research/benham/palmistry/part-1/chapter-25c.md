@@ -13,9 +13,15 @@ contributors: ['Benham']
 
 Bulbous nails shows throat, bronchial, or pulmonary trouble. 
 
-Note this peculiar fact in these cases, that the consumptive Venusian has his sexual desires increased tremendously. This seems to be a symptom of this disease, especially in the middle stages. Hair on the hands, if black, will show the increased vitality peculiar to that color. 
+The consumptive Venusian has his sexual desires increased tremendously. This seems to be a symptom of this disease, especially in the middle stages. 
 
-If it is plentiful, it also shows increased muscular strength. Black color, showing plentiful supplies of iron, adds to the ardor of the type, and the subject is vigorous, energetic, and volatile. If the Mount be a strong one, black hair must be considered as an addition to its strength.
+Hair on the hands, if black, will show the increased vitality peculiar to that color. 
+
+If it is plentiful, it also shows increased muscular strength. 
+
+Black color, showing plentiful supplies of iron, adds to the ardor of the type, and the subject is vigorous, energetic, and volatile. 
+
+If the Mount be a strong one, black hair must be considered as an addition to its strength.
 
 Red hair adds its flashing excitability to the subject, making him preliable to quick temper and sudden changes of mood. In both these colors I suppose the hair to be fine in quality. 
 
@@ -44,17 +50,25 @@ The spatulate tip is a fine combination for the Venusian, for it makes him human
 
 They are passionately fond of children, and tender and gentle with everyone. Knotty fingers will greatly reduce the impulse of the subject. Though knots are unexpected still they are found, and must be considered. The first knot alone will make the subject intelligent, systematic in his mental operations, and less frivolous. 
 
-The second knot will make him tidy, unusually careful of his appearance, and orderly in everyday life. Both knots will make him analytical, but, as the subject is dominated by enthusiasm and impulse, they are seldom seen well marked. Smooth fingers are expected. The artistic ideas, impulsive ways, and spontaneous methods in thought and action which are peculiar to the Venusian are all emphasized by smooth fingers; there may, however, be seen a slight development of the second knot, and still the fingers may be considered as smooth. These subjects love dress and good appearance, and are nearly always tidy. 
+The second knot will make him tidy, unusually careful of his appearance, and orderly in everyday life. Both knots will make him analytical, but, as the subject is dominated by enthusiasm and impulse, they are seldom seen well marked. Smooth fingers are expected.
+
+The artistic ideas, impulsive ways, and spontaneous methods in thought and action which are peculiar to the Venusian are all emphasized by smooth fingers; there may, however, be seen a slight development of the second knot, and still the fingers may be considered as smooth. These subjects love dress and good appearance, and are nearly always tidy. 
 
 <!-- The Mount Of Venus. Part 7 -->
 
-Long fingers are not expected, for the Venusian does not love detail. He loves pleasure, and to have someone else see that everything is planned and systematized. After all these details have been attended to, the Venusian likes to be called in to enjoy the things prepared. He will then be full of praise, and the long-fingered subject who has done all the work will say, "What an agreeable fellow he is, and how appreciative." Thus the Venusian by a few kind words often compensates for hours of labor, and his fellow-men will crowd each other in an effort to serve him. He lacks long-fingered detail, and also the suspicion and sensitiveness that belong to long fingers.
+Long fingers are not expected, for the Venusian does not love detail. He loves pleasure, and to have someone else see that everything is planned and systematized. After all these details have been attended to, the Venusian likes to be called in to enjoy the things prepared. 
+
+He will then be full of praise, and the long-fingered subject who has done all the work will say, "What an agreeable fellow he is, and how appreciative." Thus the Venusian by a few kind words often compensates for hours of labor, and his fellow-men will crowd each other in an effort to serve him.
+
+He lacks long-fingered detail, and also the suspicion and sensitiveness that belong to long fingers.
 
 Long fingers add their propensities and are not normal to the type. 
 
 Short fingers, with their quickness of thought and impulsiveness of action, are normal with the type.
 
-Note carefully whether they are too short, for the impulsiveness of this type needs nothing to increase it. The natural distaste of the Venusian for detail emphasizes his short-fingered qualities, and increases the impulsive-ness and desire for quickness in thought and execution. Thus, when short fingers are seen, place short-fingered quickness and liability to carelessness back of the Venusian qualities and you will get the proper result. The thumb will be largely the key to your subject. 
+Note carefully whether they are too short, for the impulsiveness of this type needs nothing to increase it. The natural distaste of the Venusian for detail emphasizes his short-fingered qualities, and increases the impulsive-ness and desire for quickness in thought and execution. 
+
+Thus, when short fingers are seen, place short-fingered quickness and liability to carelessness back of the Venusian qualities and you will get the proper result. The thumb will be largely the key to your subject. 
 
 If small or pointed, or both, you know the character is weak and vacillating. The desires will rule and be gratified, the subject will be easily led by others, and, with his natural pleasure-loving proclivities, will be led away by whoever obtains an influence over him. 
 

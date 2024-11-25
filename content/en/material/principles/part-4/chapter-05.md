@@ -15,6 +15,9 @@ toc: false
 
 In 1644, Descartes described neutrinos emerging from sunspots as "thinner particles" of the 1st Element (Electromagnetism). 
 
+{{< youtube vPeCy4A0Cpg >}}
+
+
 We revise this to mean the Weak Element (Weak Force) instead of Electromagnetism in order to match current findings. 
 
 This would give a neutrino 2 aether particles which rotate against each other in order to create a neutral charge. 
@@ -34,7 +37,7 @@ This creates an interstellar circuit or galactic information and energy network.
 While photons are the key mechanism for crystal computers that can be used to overcome the limitations of  Moore's Law, neutrinos are the key to interstellar communication.
 
 
-{{< youtube vPeCy4A0Cpg >}}
+
 
 <!-- https://youtu.be/vPeCy4A0Cpg -->
 

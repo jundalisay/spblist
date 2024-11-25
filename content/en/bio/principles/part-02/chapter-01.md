@@ -2,7 +2,7 @@
 title: "Carbon and Organic Matter"
 heading: Chapter 1
 date: 2024-11-20
-weight: 4
+weight: 3
 image: /graphics/bio/carbon.jpg
 description: "Carbon allows the positive force"
 writer:
@@ -33,4 +33,22 @@ Our Pentagonic Versions show that silicon is in the convertible or water arm and
 From here, we can say that carbon-based life is more sentient when idle just as silicon-based life is more sentient when active. 
 
 The Mendeleev Periodic Table of Elements does not expose that connection. This is why our Pentagon is better and more useful. 
+
+
+
+### Carbohydrates: Hydrogen-Carbon-Oxygen
+
+Monosaccharides
+
+Disaccharides 
+
+Polysaccharides 
+
+Hydrolyss is opposite of Condensation.
+
+
+
+
+### Living Energy as ATP
+
 

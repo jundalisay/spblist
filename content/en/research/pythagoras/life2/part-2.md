@@ -9,9 +9,11 @@ author: Propery
 ---
 
 
-9. Returning to Ionia, he opened a school, now called Pythagoras's Semicircles.
+9. He returned to Ionia and opened a school, now called Pythagoras's Semicircles.
 
-Samians meet there to deliberate about matters of common interest. Outside the city, he made a cave adapted to the study of his philosophy. He lived there discoursing with a few of his associates.
+Samians meet there to deliberate about matters of common interest. 
+
+Outside the city, he made a cave adapted to the study of his philosophy. He lived there discoursing with a few of his associates.
 
 He was now 40 years old, says Aristoxenus. 
 
@@ -24,9 +26,15 @@ He says that the Tyrrhenian Mnesarchus was of the race of the inhabitants of Lem
 
 During his journeys he found an infant lying under a large, tall poplar tree. 
 
-On approaching, he observed it lay on its back, looking steadily without winking at the sun. In its mouth was a little slender reed, like a pipe; through which the child was being nourished by the dew-drops that distilled from the tree. This great wonder prevailed upon him to take the child, believing it to be of a divine origin. 
+On approaching, he observed it lay on its back, looking steadily without winking at the sun. 
 
-The child was fostered by a native of that country, named Androcles, who later on adopted him, and entrusted to him the management of affairs. On becoming wealthy, Mnesarchus educated the boy, naming him Astrasus, and rearing him with his own three sons, Eunestus, Tyrrhenus, and Pythagoras; which boy, as I have said, Androcles adopted.
+In its mouth was a little slender reed, like a pipe; through which the child was being nourished by the dew-drops that distilled from the tree. 
+
+This great wonder prevailed upon him to take the child, believing it to be of a divine origin. 
+
+The child was fostered by a native of that country, named Androcles, who later on adopted him, and entrusted to him the management of affairs. 
+
+On becoming wealthy, Mnesarchus educated the boy, naming him Astrasus, and rearing him with his own three sons, Eunestus, Tyrrhenus, and Pythagoras; which boy, as I have said, Androcles adopted.
 
 
 11. He sent the boy to a lute-player, a wrestler and a painter. Later he sent him to Anaximander at Miletus, to learn geometry and astronomy. Then Pythagoras visited the Egyptians, the Arabians, the Chaldeans and the Hebrews, from whom he acquired expertery in the interpretation of dreams, and he was the first to use frankincense in the worship of divinities.
@@ -54,7 +62,6 @@ Pythagoras had another youthful disciple from Thrace named Zamolxis because he w
 Pythagoras loved him, and instructed him in:
 - sublime speculations concerning sacred rites, and
 - the nature of the Gods. 
-
 
 
 <!-- 15. --> 
@@ -128,5 +135,3 @@ They ranked him among the divinities.
 They held all property in common. They ranked him among the divinities, and whenever they communicated to each other some choice bit of his philosophy, from which physical truths could always be deduced, they would swear by the Tetractys, adjuring Pythagoras as a divine witness, in the words.
 
 "I call to witness him who to our souls expressed The Tetractys, eternal Nature's fountain-spring."
-
-

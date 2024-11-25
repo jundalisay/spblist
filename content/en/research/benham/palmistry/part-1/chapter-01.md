@@ -57,6 +57,8 @@ I have used the masculine pronoun with all the Mounts only for convenience and b
 
 ## The Seven Types of People
 
+{{< i s="/graphics/palm/mounts.jpg" a="Mounts" >}}
+
 The ancient theory says that the human race was constructed by its Creator under a definite plan. 
 <!-- There was no hit-or-miss in shaping and putting together the inhabitants of this globe. The fact that there are so many
  -->

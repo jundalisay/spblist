@@ -2,7 +2,7 @@
 title: "Chromosomes as Organic Vortices"
 heading: Chapter 2
 date: 2020-01-27
-weight: 6
+weight: 12
 image: /photos/med/sperm.jpg
 description: "Genes are vortex"
 writer:

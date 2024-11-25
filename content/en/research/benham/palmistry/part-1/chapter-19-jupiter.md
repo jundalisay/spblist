@@ -36,21 +36,43 @@ The Jupiterian is identified by a developed Mount and finger of Jupiter.
 The Jupiterian is ambitious and a leader of men. His commanding presence and the love he has for high positions make him often a politician.
 
 He is found also in the army, for here again is the opportunity to hold commanding position and to lead men.
-In the church he is prominent as well. Religion is one of the strong attributes of Jupiterians, and they will be found holding all shades of opinion, from the most rigidly orthodox to a breadth dangerously near skepticism.
 
-The tip of the Jupiter finger will indicate which extreme. Ambition, love of command, pride in position, religion, honor, love of nature, are main forces with the Jupiterian, and these mould his manners and actions in every walk in life. There are many Jupherians to be found, and in practice you will have much to do with them. They represent a good type and a strong one.
+In the church he is prominent as well. Religion is one of the strong attributes of Jupiterians. They hold all shades of opinion, from the most rigidly orthodox to a breadth dangerously near skepticism.
+
+The tip of the Jupiter finger will indicate which extreme. 
+
+
+The main forces with the Jupiterian are
+- ambition
+- love of command
+- pride in position
+- religion
+- honor
+- love of nature
+
+These mould his manners and actions in every walk in life. There are many Jupterians. They represent a good and strong type.
 
 <!-- DISTINGUISHING MARKS ON THE MOUNT OF JUPITER No. 93. DISTINGUISHING MARKS ON THE MOUNT OF JUPITER.  -->
 
 When the Mount of Jupiter is found full and strong, apex centrally located, finger long and strong, with color of hand pink or red (94), you have located a Jupiterian. 
 
-In this generation you will not often find a pure specimen of the type; there is generally an accompanying mixture of other types; but the one I here describe is a pure Jupiterian, the leading qualities of the type being always found present where the large Mount of Jupiter is found, although when other Mounts are also well developed it is accompanied by added qualities belonging to other types. 
+In this generation you will not often find a pure specimen of the type.
 
-The pure Jupiterian is of medium height. He is not the tallest of the seven types; that distinction belongs to the Saturnian; neither is he the shortest, for this honor belongs to the Mercurian. 
+There is generally an accompanying mixture of other types; but the one I here describe is a pure Jupiterian, the leading qualities of the type being always found present where the large Mount of Jupiter is found, although when other Mounts are also well developed it is accompanied by added qualities belonging to other types. 
 
-He is, however, a large man, very strongly built and inclined to be fleshy. His flesh is solid and not mere fat, nor does it partake of the spongy softness of the Lunar type. His bones are large, strong, and well able to support his weight.
+The pure Jupiterian is of medium height. 
 
-He has a smooth, clear skin, which inclines to be fine in texture, pink in color, and healthy looking. His eyes are large and expressive, pupils are clear and dilate under the play of the emotions. There is no fierce look in his eyes, - the expression is mild and almost melting, bespeaking honesty and a kindly spirit. 
+He is not the tallest of the 7 types. 
+- The tallest is the Saturnian
+- The shortest is the Mercurian
+
+He is, however, a large man, very strongly built and inclined to be fleshy.
+
+His flesh is solid and not mere fat, nor does it partake of the spongy softness of the Lunar type. His bones are large, strong, and well able to support his weight.
+
+He has a smooth, clear skin, which inclines to be fine in texture, pink in color, and healthy looking. 
+
+His eyes are large and expressive, pupils are clear and dilate under the play of the emotions. There is no fierce look in his eyes, - the expression is mild and almost melting, bespeaking honesty and a kindly spirit. 
 
 <!-- JUPITERIAN HAND No. 94. JUPITERIAN HAND. --> 
 
@@ -91,7 +113,9 @@ They are aware of the influence they exert, and it naturally makes them vain. Th
 
 <!-- The Mount Of Jupiter. Part 2  -->
 
-With all his vanity the Jupiterian is warm-hearted. He has a fellow-feeling for humanity that exhibits itself in practical ways. A word of comfort from so strong a person to one in distress does a world of good, and the kindly spirit he shows to all who appeal to him binds closer the following he attracts. Nor is his kindness confined to words, for he gives as well, and is generous and charitable. 
+With all his vanity the Jupiterian is warm-hearted.
+
+He has a fellow-feeling for humanity that exhibits itself in practical ways. A word of comfort from so strong a person to one in distress does a world of good, and the kindly spirit he shows to all who appeal to him binds closer the following he attracts. Nor is his kindness confined to words, for he gives as well, and is generous and charitable. 
 
 These Jupiterian beneficences are dispensed in a manly, open-hearted way that makes the recipients feel that the donor is glad to give. Here again his nature furnishes him help to carry out the things he was created to do - viz., to attract and lead.
 

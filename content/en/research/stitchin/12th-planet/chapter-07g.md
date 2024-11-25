@@ -65,12 +65,11 @@ The Mesopotamian texts claim that one of Marduk's tasks after he created Earth w
 
 The biblical concepts are identical:
 
+{{< q >}}
 And God said:
-"Let there be Lights in the hammered Heaven,
-to divide between the Day and the Night;
-and let them be celestial signs
-and for Seasons and for Days and for Years."
-
+"Let there be Lights in the hammered Heaven, to divide between the Day and the Night;
+and let them be celestial signs and for Seasons and for Days and for Years."
+{{< /q >}}
 
 Modern scholars believe that after Earth became a planet it was a hot ball of belching volcanoes, filling the skies with mists and clouds. As temperatures began to cool, the vapors turned to water, separating the face of Earth into dry land and oceans.
 
@@ -84,21 +83,24 @@ Meanwhile, the "spittle" continued to pour forth, "laying in layers," shaping Ea
 
 Once again, the biblical parallel is clear: 
 
-And God said:
 
-"Let the waters under the skies be gathered together,
-unto one place, and let dry land appear."
+
+{{< q >}}
+God said: "Let the waters under the skies be gathered together, unto one place, and let dry land appear."
+
 And it was so.
-
+{{< /q >}}
 
 Earth, with oceans, continents, and an atmosphere, was now ready for the formation of mountains, rivers, springs, valleys. Attributing all Creation to the Lord Marduk, Enuma Elish continued the narration:
 
+{{< q >}}
 Putting Tiamat's head [Earth] into position,
 He raised the mountains thereon.
 He opened springs, the torrents to draw off.
 Through her eyes he released the Tigris and Euphrates.
 From her teats he formed the lofty mountains,
 Drilled springs for wells, the water to carry off.
+{{< /q >}}
 
 
 In perfect accord with modern findings, both the Book of Genesis and Enuma Elish and other related Mesopotamian texts place the beginning of life upon Earth in the waters, followed by the "living creatures that swarm" and "fowl that fly." 

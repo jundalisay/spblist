@@ -37,14 +37,12 @@ which can only be made into
 by decoys,
 used for this purpose.
  -->
+
 <!-- Note.
 Besides the countries here mentioned, our author states elsewhere that ivory was procured 25
-from various countries in the Malay Peninsula, from Sumatra, Java, and Coromandel. The prin-
-cipal source of supply was the Berbera and Zanguebar coasts. Ma-lo-mo, or Merbat, was only the
-great entrepot of the ivory trade. Conf. Piin-ts'au-kang-mn, 61A,io— ii.
-Our
-author's apparent ignorance as to the
-method
+from various countries in the Malay Peninsula, from Sumatra, Java, and Coromandel. The principal source of supply was the Berbera and Zanguebar coasts. Ma-lo-mo, or Merbat, was only the great entrepot of the ivory trade. Conf. Piin-ts'au-kang-mn, 61A,io— ii. 
+
+Our author's apparent ignorance as to the method
 told us in. a proceeding chapter (supra, p. 117) the
 9,1-2, describes also the
 method followed
@@ -378,70 +376,19 @@ Soc. edit.). -->
 
 Tsui-mau, or kingfisliers' feathers, are got in great quantities in Cambodia, where (the birds) are brought forth the depths of the hills.
 
-bird; the intrusion of
-in nests built
+Each pond is the home of just one male and one female bird. The intrusion of a third bird always ends in a duel to the death.
 
-Each pond is the home 
-by the
-side of lakes or ponds in
-of just one male and one female
-a third bird always ends in a duel to the death.
-The natives
-taking advantage of this peculiarity, rear decoy birds, and walk about with
-30
-one sitting on the
-truder,
-of the
-make
-left
-hand
-raised.
-for the (bird on the)
-The
-hand
-birds in their nests noticing the in-
-to fight
-it,
-quite ignoring the presence
-man, who, with his right hand, covers them with a
-them prisoners without
-and thus makes
-fail.
+The natives take advantage of this peculiarity. They rear decoy birds, and walk around with one sitting on the raised left hand. 
 
-The river Ku in Yung-ch6u(
-35 jung-ts'ui
-net,
-^ downy
-is also the habitat of a bird called
-kingfisher), covered with soft blue feathers all over the
-back, which are used by luxurious people as an ornament, ihe feathers being
-twisted and
-woven
-into each other so as to resemble long
-nap satin
-Although, of late years, the use of this luxury has been
-.
-by the govemmeiit, the well-to-do classes
-40 for
-it
-which
-in
-still
-by concealing
-it
-in the cotton lining of their clothes.
-g).
-strictly forbidden
-continue to add
-reason foreign traders, in defiance of the law,
-(^
-it
-to their dress,
-manage
-to
-smuggle236
-11,39-40
-PARROTS.
+The birds in their nests notice the intruder, and fly to the bird to fight it. They ignore the man, who with his right hand, covers them with a net. 
+
+
+The river Ku in Yung-chou is also the habitat of a bird called jung-tsui (downy kingfisher). It is covered with soft blue feathers all over the back, which are used by luxurious people as an ornament.
+
+The feathers are twisted and woven into each other so as to resemble long nap satin.
+
+Recently, this luxury has been forbidden by the government. But the well-to-do classes still continue to add it to their dress. This is why foreign traders defy the law and smuggle them in the cotton lining of their clothes.
+
 
 
 <!-- Note.
@@ -493,31 +440,16 @@ Hirth, China Review, III, 47—48. -->
 
 Yingwu are procured in South Vietnam where they are found of all colours.
 
-the kind of bird which, in the time of the emperor T'ai-tsung of the
-T'ang dynasty (A. D. 627
-— 650),
-wang. In the Annals they are said
-for doing
-was presented
-to
-to our Court
-by Huan-
-have been able to complain of
-cold,
-which the Emperor gave orders to return them to their home. The 25
-country of
-Huan-wang
-Jn K'in-ch6u
-size
-m M)-
-is the same as South Vietnam.
-both white and red ying-wu are found of the
-of small geese. Birds with plumage covered with dust like the wings
-of a butterfly are called «white ying-im» ; those showing deep scarlet colour
-with a
-tail
-resembling that of a black kite are called «red ying-wm.
-30
+In the time of the emperor T'ai-tsung of the T'ang dynasty (AD 627 — 650), it was first presented to our Court by Huan-wang.
+
+In the Annals the birds did not take the cold so well, and so the Emperor gave orders to return them to their home. 
+
+The country of Huan-wang is the same as South Vietnam.
+
+In Kin-chou, both white and red ying-wu are found of the size of small geese.
+
+Birds with plumage covered with dust like the wings of a butterfly are called «white ying-im» ; those showing deep scarlet colour with a tail resembling that of a black kite are called red ying-wu.
+
 
 <!-- 
 Note.

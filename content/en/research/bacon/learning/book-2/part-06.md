@@ -62,4 +62,8 @@ But the sober and grounded inquiry, which may arise out of the passages of Holy 
 
 So of degenerate and revolted spirits, the conversing with them or the employment of them is prohibited, much more any veneration towards them; but the contemplation or science of their nature, their power, their illusions, either by Scripture or reason, is a part of spiritual wisdom.  
 
-For so the apostle saith, “We are not ignorant of his stratagems.”  And it is no more unlawful to inquire the nature of evil spirits, than to inquire the force of poisons in nature, or the nature of sin and vice in morality.  But this part touching angels and spirits I cannot note as deficient, for many have occupied themselves in it; I may rather challenge it, in many of the writers thereof, as fabulous and fantastical.
+For so the apostle saith, “We are not ignorant of his stratagems.”  
+
+And it is no more unlawful to inquire the nature of evil spirits, than to inquire the force of poisons in nature, or the nature of sin and vice in morality.  
+
+But this part touching angels and spirits I cannot note as deficient, for many have occupied themselves in it; I may rather challenge it, in many of the writers thereof, as fabulous and fantastical.

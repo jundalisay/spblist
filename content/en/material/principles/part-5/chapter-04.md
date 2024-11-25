@@ -12,6 +12,16 @@ icon: /icons/spmat.png
 ---
 
 
+### Changing Names
+
+Atomic Number --> Proton Number
+
+Mass Number --> Nucleon Number 
+
+Atomic Mass (AMU) --> Atomic Electromagnetic Potential 
+
+
+
 
 ### Atom-Smashing Doesn't Expose Nature
 

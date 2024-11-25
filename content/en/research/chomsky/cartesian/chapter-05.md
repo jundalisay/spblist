@@ -6,8 +6,6 @@ image: "/covers/ling.png"
 ---
 
 
-
-
 Returning to the remark of Whitehead’s that initiated this discussion, it seems that after a long interruption, linguistics and cognitive psychology are now turning their attention to approaches to the study of language structure and
 mental processes which in part originated and in part were revitalized in the
 “century of genius” and which were fruitfully developed until well into the

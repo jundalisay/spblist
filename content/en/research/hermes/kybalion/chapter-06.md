@@ -128,7 +128,7 @@ In fact, science merely corroborates the Hermetic Teachings. The latter merely t
 
 <!-- The Hermetic Teachings have no fault to find with  -->
 
-## Herbert Spencer
+### Herbert Spencer
 
 Herbert Spencer had a basic principle of an "Infinite and Eternal Energy from which all things proceed." 
 

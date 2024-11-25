@@ -243,7 +243,8 @@ The federalized system will be ideal for our proposed bayanihan barter economy w
 A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](/social/economics/principles/part-2/chapter-01b/). This is superior to cryptocurrency and which is pegged to nothing. In fact, the chronic inflation from 2020 is caused by crypto*.
 
 
-> *Instead of people putting their money in the bank which the bank can lend to producers, they put their money into crypto which produces nothing and even wastes electricity. This waste and lack of production contributes to inflation. 
+{{< f f="*Instead of people putting their money in the bank which the bank can lend to producers, they put their money into crypto which produces nothing and even wastes electricity. This waste and lack of production contributes to inflation." >}}
+
 
 
 
@@ -358,8 +359,8 @@ The Romans therefore had laws against abortion but did not follow them.
 {{< /q >}}
  
 
-> *The Roman Empire relied on military dominance through its citizen-army. This is why it encouraged marriage and banned divorce among Romans and disproved of abortion. Maharlika is not an empire and so such Catholic policies are irrelevant. 
-
+{{< f f="*The Roman Empire relied on military dominance through its citizen-army. This is why it encouraged marriage and banned divorce among Romans and disproved of abortion. Maharlika is not an empire and so such Catholic policies are irrelevant." >}}
+ 
 
 
 {{< q a="Adam-Smith" >}}

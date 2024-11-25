@@ -20,7 +20,7 @@ It comes from:
   - Kuang-tung
   - Kuang-si. 
 
-Its aroma is strong and penetrating..
+Its aroma is strong and penetrating.
 - It counteracts bad smells. 
 
 All Cantonese, rich or poor, burn this incense at the end of the year, as if they were making a sacrifice to Heaven.
@@ -159,10 +159,8 @@ fruit
 of po-lo-mi, which, the Chinese say,
 Conf. supra, pp. 83, 85, n. 4 -->
 
-## 18. ARECA-KUTS
 
-
-Yu-yang-tsa-tsu, 18,8^ has the following on the jack-fruit= «The F'o-na-so
+<!-- Yu-yang-tsa-tsu, 18,8^ has the following on the jack-fruit= «The F'o-na-so
 tree grows
 ({jj) in
 also grows in Fu-lin,
@@ -290,10 +288,10 @@ for «fruit))
 a po-lo-mi or jack-fruit tree,
 if
 it
-not a pine-apple.
+not a pine-apple. -->
 
 
-## 18. ARBCA-NUTS 
+## 18. ARECA-NUTS 
 
 The pin-lang comes from:
 - North Vietnam
@@ -312,10 +310,12 @@ Small and pointed nuts are called ki-sin-pin-lang or «chicken heart areca-nuts�
 
 When chewed, these nuts prevent eructation. In Sumatra, they make wine out of the juice.
 
-The Customs at Canton and Guangzhou derive an annual revenue of several tens of thousands of strings of cash from the trade carried on in this product by foreign ships. But most of the product comes from Hai-nan. The fresh nuts and salted nuts come from there, whereas the ki-sin and the ta-fu-tzi varieties come mostly from thhe Philippines.
+The Customs at Canton and Guangzhou derive an annual revenue of several tens of thousands of strings of cash from the trade carried on in this product by foreign ships.
+
+But most of the product comes from Hai-nan. The fresh nuts and salted nuts come from there, whereas the ki-sin and the ta-fu-tzi varieties come mostly from thhe Philippines.
 
 
-Notes.
+<!-- Notes.
 Pin-lang
 a transcription of the Malay
 is
@@ -362,5 +362,5 @@ from Ling-wai-tai-ta,
 The Pon-ts'au,
 31,14—19, says the ta-fu-tzi is also called chu-pin-lang,
 apig betel-nut)).
-
+ -->
 

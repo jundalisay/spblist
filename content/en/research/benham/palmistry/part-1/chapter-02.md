@@ -67,20 +67,31 @@ Some have called this force:
 - God
 - the influence of the Planets
 
-Whatever the name, the result is the same. But for Palmistry this is called a life current that runs through the human body, coming from an outside source.
+Whatever the name, the result is the same. This is called a life current that runs through the human body, **coming from an outside source**.
 
-When the child is born, before it has given the first cry, or breathed air, the fingers extend with a quick, spasmodic jerk. They  stand perfectly straight and rigid. Following this involuntary motion of the hands, the lungs take in air, and a cry escapes from the lips. 
+When the child is born, before it has given the first cry or breathed air, the fingers extend with a quick, spasmodic jerk. 
+- They stand perfectly straight and rigid.
 
-Shortly after, the child feels hunger, and the hand goes at once to the mouth. 
+Following this involuntary motion of the hands, the lungs take in air and the child cries. 
 
-The brain is acting, and directing her servant, the hand, which seeks to carry food to the mouth, the proper place to receive it. 
+Shortly after, the child feels hunger. The hand goes at once to the mouth. 
 
-Thus from the first moment of life, the hand takes its place as the servant of the brain, and I believe that at the moment the fingers of the child extend, and become straight and rigid, that life, the vital spark which sets the human machinery in motion, awakens the mind, and habilitates the senses, is projected into the child through the ends of the rigid fingers, and thus becomes the gift of God to His creature. But I do not ask you to believe in any name for this outside force.
+The brain is acting and directing her servant, the hand, which seeks to carry food to the mouth.
 
-As months roll into the first year, less sleep and less feeding are necessary, and as years increase and mind develops, the trend of its thought begins to manifest itself. 
+Thus from the first moment of life, the hand takes its place as the brain's servant. At the moment the child's fingers  extend and become straight and rigid, I believe that life awakens the mind and habilitates the senses. 
 
-During all this time the brain is unfolding, and the hand is changing from the fat little sensual hand of the baby, and taking whatever shape is distinctive to the type to which the child belongs. Up to 12-14 years old, the hand is as unformed as the character of the child. 
+It is projected into the child through the ends of the rigid fingers. But I do not ask you to believe in any name for this outside force.
+
+As months roll into the first year, less sleep and less feeding are necessary. As years increase and mind develops, the trend of its thought begins to manifest itself. 
+
+During all this time the brain is unfolding. The hand is changing from the fat little sensual hand of the baby, and taking whatever shape is distinctive to the type to which the child belongs.
+
+Up to 12-14 years old, the hand is as unformed as the character of the child. 
 
 But as this age marks the transition from the child to the adult, soon after it is passed the character and hands will begin to assume the proportions which are to guide it in the future. 
 
-This is the time when a scientific estimate of the character of the child - its type, whether good, bad, or weak in development, together with a knowledge of all the forces back of it - would be of inestimable value to a parent.
+This is the time when a scientific estimate of the child's character would be of inestimable value to a parent.
+
+
+{{< i s="/graphics/palm/lines.jpg" a="Palm lines" >}}
+

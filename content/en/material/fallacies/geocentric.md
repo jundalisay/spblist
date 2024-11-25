@@ -36,11 +36,26 @@ This has a natural hierarchy. For example, a rock's atoms are bound by the stron
 
 The problem was that the Greeks interpreted the 'earth' element to be literally the Earth planet and the 'fire' element to be the Sun!
 
-When put in a hierarchy, it leads to spheres of influence so that the earth-sphere is inside the sun-sphere. This logically leads to the geocentric theory.
+
+{{< q a="Smith" c="History of Astronomy" >}}
+Before the Concentric Spheres system was taught in the world, the earth was regarded as a vast and irregular plain, surrounded on all sides by the ocean.. This was believed by Xenophanes, the founder of the Eleatic philosophy.. [and] Thales of Miletus too, who, according to Aristotle, represented the Earth as floating on an immense ocean of water.
+{{< /q >}}
+
+
+When put in a hierarchy, it leads to spheres of influence so that the earth is surrounded by water, which is surrounded by the sun which is then surrounded by air and the aether. 
+
+This logically leads to the geocentric theory.
 
 {{< img src="/graphics/physics/geocentric.jpg" alt="5 Layers" >}}
 
-Kepler tried to harmonize the traditional geocentric with the new heliocentric theory of Copernicus by converting the spheres into orbits and putting the Sun as the center earth element. He wrongly tried to rearrange the 5 elements to fit astronomical data.
+Kepler tried to harmonize the traditional geocentric with the new heliocentric theory of Copernicus by:
+- converting the spheres into orbits
+- putting the Sun as the center earth element. 
+
+But he wrongly tried to rearrange the 5 elements to fit astronomical data -- the same mistake that the ancients made. 
+
+
+### The Rise of Matter
 
 Newton solved this confusion by throwing away the 5 Elements model and merely basing all of the universe on the earth element, as matter, with visible mass as the cornerstone.
 
@@ -52,7 +67,7 @@ The proper basis of physics should be the aether (Hindu akasha) as the 'boss' of
 
 Because of this wrong basis, Newtonian Physics is forever stuck. It can never know the real cause of phenomena but is so familiar with obvious effects.
 
-Before Newton came along, the Physics of Descartes was the mainstream and proper one, as it correctly knew the 5 Elements and applied it to physical and astronomical phenomena.
+Before Newton came along, the Physics of Descartes was the mainstream and proper one, as it correctly knew 3 of the 5 Elements and applied it to physical and astronomical phenomena.
 
 Descartes, with his aethereal vortices, therefore is the key to fixing all the problems with the Newtonian system.
 
