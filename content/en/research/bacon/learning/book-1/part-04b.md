@@ -1,8 +1,8 @@
 ---
-heading: Part 4b 
-title: "Why we Accept Wrong Things"
-weight: 12
-description: ""
+heading: "Part 4b"
+title: "The 3 Diseases in Learning"
+weight: 11
+description: "Errors and vanities have intervened in the studies of the learned"
 image: "/covers/learning.png"
 icon: /icons/bacon.png
 writer:
@@ -11,54 +11,97 @@ writer:
 ---
 
 
+### Contentious learning
 
-{{< s v="9" >}} This facility of accepting things weakly authorised is of 2 kinds, according to the subject. It is either:
+{{< s v="5" >}} This is worse than Delicate Learning.
 
-1. A belief of history, or a matter of fact ( as the lawyers speak); or
+As substance of matter is better than beauty of words, so contrariwise vain matter is worse than vain words.
 
-This error is seen in ecclesiastical history; which hath too easily received and registered reports and narrations of miracles wrought by martyrs, hermits, or monks of the desert, and other holy men, and their relics, shrines, chapels and images: which though they had a passage for a time by the ignorance of the people, the superstitious simplicity of some and the politic toleration of others holding them but as divine poesies, yet after a period of time, when the mist began to clear up, they grew to be esteemed but as old wives’ fables, impostures of the clergy, illusions of spirits, and badges of Antichrist, to the great scandal and detriment of religion.
+It seems the reprehension of St. Paul was not only proper for those times, but prophetical for the times following; and not only respective to divinity, but extensive to all knowledge:
+
+<!-- Devita profanas vocum novitates, et oppositiones falsi nominis scientiæ.   -->
+
+He assigned 2 badges of suspected and falsified science:
+
+- the one, the novelty and strangeness of terms
+- the other, the strictness of positions, which of necessity doth induce oppositions, and so questions and altercations. 
+
+Many solid substances in nature putrefy and corrupt into worms.
+- Likewise, good and sound knowledge putrefies and dissolves into a number of subtle, idle, unwholesome, and vermiculate questions.
+  - These have a kind of quickness and life of spirit, but no soundness of matter or goodness of quality. 
+
+This kind of degenerate learning did chiefly reign amongst the schoolmen. They had:
+- sharp and strong wits
+- abundance of leisure
+- small variety of reading.
+
+But their wits were shut in the cells of a few authors (chiefly Aristotle, their dictator), just as their persons were shut in the cells of monasteries and colleges. 
+
+They:
+- know little history, either of nature or time
+- produced a little of matter and infinite agitation of wit, giving us those laborious webs of learning in their books
+
+The wit and mind of man works on matter as the contemplation of the creatures of God.
+- If done this way, it works according to the stuff and is limited thereby. 
+
+But if it works on itself, then it is endless, as the spider works his web
+- It brings forth cobwebs of learning, admirable for the fineness of thread and work, but of no use or substance.
 
 
-2. A matter of art and opinion.
+{{< s v="6" >}} This same unprofitable subtility or curiosity is of 2 sorts either:
+
+1. In the subject itself that they handle, when it is a fruitless speculation or controversy (whereof there are no small number both in divinity and philosophy), or 
+
+2. In the manner or method of handling of a knowledge, which amongst them was this—upon every particular position or assertion to frame objections, and to those objections, solutions; which solutions were for the most part not confutations, but distinctions: whereas indeed the strength of all sciences is, as the strength of the old man’s faggot, in the bond.
+
+For the harmony of a science, supporting each part the other, is and ought to be the true and brief confutation and suppression of all the smaller sort of objections.  
+
+But, on the other side, if you take out every axiom, as the sticks of the faggot, one by one, you may quarrel with them and bend them and break them at your pleasure: so that, as was said of Seneca, Verborum minutiis rerum frangit pondera, so a man may truly say of the schoolmen, Quæstionum minutiis scientiarum frangunt soliditatem.  
+
+For were it not better for a man in fair room to set up one great light, or branching candlestick of lights, than to go about with a small watch-candle into every corner?  
+
+Such is their method. It rests not so much on evidence proved by arguments, authorities, similarities, examples, as upon particular confutations and solutions of every scruple, cavillation, and objection; 
+
+Breeding for the most part one question as fast as it solveth another; even as in the former resemblance, when you carry the light into one corner, you darken the rest; so that the fable and fiction of Scylla seemeth to be a lively image of this kind of philosophy or knowledge; which was transformed into a comely virgin for the upper parts; but then Candida succinctam latrantibus inguina monstris: 
+
+So the generalities of the schoolmen are for a while good and proportionable; 
+
+But then when you descend into their distinctions and decisions, instead of a fruitful womb for the use and benefit of man’s life, they end in monstrous altercations and barking questions.  
+
+So as it is not possible but this quality of knowledge must fall under popular contempt, the people being apt to contemn truths upon occasion of controversies and altercations, and to think they are all out of their way which never meet; and when they see such digladiation about subtleties, and matters of no use or moment, they easily fall upon that judgment of Dionysius of Syracusa, Verba ista sunt senum otiosorum.
 
 
-{{< s v="10" >}} So in natural history, we see there hath not been that choice and judgment used as ought to have been; as may appear in the writings of Plinius, Cardanus, Albertus, and divers of the Arabians, being fraught with much fabulous matter, a great part not only untried, but notoriously untrue, to the great derogation of the credit of natural philosophy with the grave and sober kind of wits: wherein the wisdom and integrity of Aristotle is worthy to be observed, that, having made so diligent and exquisite a history of living creatures, hath mingled it sparingly with any vain or feigned matter; 
+{{< s v="7" >}} Those schoolmen, to their great thirst of truth, had joined variety and universality of reading and contemplation. 
 
-Yet on the other side hath cast all prodigious narrations, which he thought worthy the recording, into one book, excellently discerning that matter of manifest truth, such whereupon observation and rule was to be built, was not to be mingled or weakened with matter of doubtful credit; and yet again, that rarities and reports that seem uncredible are not to be suppressed or denied to the memory of men.
+ <!-- they had proved excellent lights, to the great advancement of all learning and knowledge.  -->
 
-{{< s v="11" >}} As for the facility of credit which is yielded to arts and opinions, it is likewise of two kinds; either when too much belief is attributed to the arts themselves, or to certain authors in any art.
+But as they are, they are great undertakers and fierce with dark keeping. 
 
-The sciences themselves, which have had better intelligence and confederacy with the imagination of man than with his reason, are three in number: astrology, natural magic, and alchemy; of which sciences, nevertheless, the ends or pretences are noble.  For astrology pretendeth to discover that correspondence or concatenation which is between the superior globe and the inferior; natural magic pretendeth to call and reduce natural philosophy from variety of speculations to the magnitude of works; and alchemy pretendeth to make separation of all the unlike parts of bodies which in mixtures of natures are incorporate.  But the derivations and prosecutions to these ends, both in the theories and in the practices, are full of error and vanity; which the great professors themselves have sought to veil over and conceal by enigmatical writings, and referring themselves to auricular traditions and such other devices, to save the credit of impostures. 
+But as in the inquiry of the divine truth, their pride inclined to leave the oracle of God’s word, and to vanish in the mixture of their own inventions. 
 
-Yet surely to alchemy this right is due, that it may be compared to the husbandman whereof Æsop makes the fable; that, when he died, told his sons that he had left unto them gold buried underground in his vineyard; and they digged over all the ground, and gold they found none; 
+In the inquisition of nature, they ever left the oracle of God’s works, and adored the deceiving and deformed images which the unequal mirror of their own minds, or a few received authors or principles, did represent unto them.  
+<!-- And thus much for the second disease of learning. -->
 
-But by reason of their stirring and digging the mould about the roots of their vines, they had a great vintage the year following: so assuredly the search and stir to make gold hath brought to light a great number of good and fruitful inventions and experiments, as well for the disclosing of nature as for the use of man’s life.
 
+### Fantastical learning
 
-{{< s v="12" >}} The authors in sciences have become dictators because of the overmuch credit given to them. 
+{{< s v="8" >}} This is the foulest. 
 
- that their words should stand, and not consuls, to give advice; the damage is infinite that sciences have received thereby, as the principal cause that hath kept them low at a stay without growth or advancement.  
+ <!-- 3rd vice or disease of learning which concerns deceit or untruth, it is of all the rest the foulest; as that which doth  -->
 
-For hence it hath come, that in arts mechanical the first deviser comes shortest, and time addeth and perfecteth; but in sciences the first author goeth furthest, and time leeseth and corrupteth. 
+It destroys the essential form of knowledge -- the representation of truth.
 
-This is why artillery, sailing, printing, and the like, were grossly managed at the first. 
+This is because the truth of being and the truth of knowing are one. They differ as the direct beam and the beam reflected.  
 
-In time, these were accommodated and refined. 
+This vice branched itself into 2 sorts:
 
-Contrariwise, the philosophies and sciences of Aristotle, Plato, Democritus, Hippocrates, Euclides, Archimedes, had most vigour at first. 
+1. Delight in deceiving, as imposture
+2. Aptness to be deceived, as credulity
 
-In time, they degenerated. 
+Although they appear to be of a diverse nature, the one seeming to proceed of cunning and the other of simplicity, yet certainly they do for the most part concur: for, as the verse noteth—
 
-This is because:
-- in the arts, many wits and industries have contributed as one. 
-- in philosophy, many wits and industries have been spent around the wit of some person
-<!-- , whom many times they have rather depraved than illustrated. -->
-  - Water will not rise higher than the level of the first spring where it came from. Thus, knowledge derived from Aristotle, and exempted from liberty of examination, will not rise higher than the knowledge of Aristotle.  
+“Percontatorem fugito, nam garrulus idem est,”
 
-Therefore, although the position be good, Oportet discentem credere, yet it must be coupled with this, Oportet edoctum judicare; for disciples do owe unto masters only a temporary belief and a suspension of their own judgment till they be fully instructed, and not an absolute resignation or perpetual captivity; 
+An inquisitive man is a prattler; so upon the like reason a credulous man is a deceiver: 
 
-Therefore, let the great authors have their due. Time is the author of authors and should not be deprived of its due—which is to discover truth further and further. 
-
-Thus have I gone over these 3 diseases of learning.
-
-There are some other rather peccant humours than formed diseases, which, nevertheless, are not so secret and intrinsic, but that they fall under a popular observation and traducement, and, therefore, are not to be passed over.
+As we see it in fame, that he that will easily believe rumours will as easily augment rumours and add somewhat to them of his own; which Tacitus wisely noteth, when he saith, Fingunt simul creduntque: so great an affinity hath fiction and belief.

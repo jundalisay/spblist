@@ -1,7 +1,8 @@
 ---
-title: "Part 7b"
-weight: 20
-description: ""
+heading: "Part 7b"
+title: "Human Proofs" 
+weight: 18
+description: "Human proofs is so large a field."
 image: "/covers/learning.png"
 icon: /icons/bacon.png
 writer:
@@ -10,30 +11,111 @@ writer:
 ---
 
 
-{{< s v="22" >}} Julius Cæsar's excellency of learning needs not to be argued from his education, or his company, or his speeches.
 
-It declares itself in his writings and works. <!-- : whereof some are extant and permanent, and some unfortunately perished. -->  
+<sup>9</sup> But for a tablet or picture of smaller volume (not presuming to speak of your Majesty that liveth), in my judgment the most excellent is that of Queen Elizabeth.
 
-For first, we see there is left unto us that excellent history of his own wars, which he entitled only a Commentary, wherein all succeeding times have admired the solid weight of matter, and the real passages and lively images of actions and persons, expressed in the greatest propriety of words and perspicuity of narration that ever was; which that it was not the effect of a natural gift, but of learning and precept, is well witnessed by that work of his entitled De Analogia, being a grammatical philosophy, wherein he did labour to make this same Vox ad placitum to become Vox ad licitum, and to reduce custom of speech to congruity of speech; and took as it were the pictures of words from the life of reason.
+<!-- , your immediate predecessor in this part of Britain; a prince that, if Plutarch were now alive to write lives by parallels, would trouble him, I think, to find for her a parallel amongst women.   -->
 
-{{< s v="23" >}} So we receive from him, as a monument both of his power and learning, the then reformed computation of the year; well expressing that he took it to be as great a glory to himself to observe and know the law of the heavens, as to give law to men upon the earth.
+As a female, she was the most endued with learning and rare even amongst male princes.
+
+This is true whether we speak of learning, language, or science, modern or ancient, divinity or humanity.
+
+Until the very last year of her life, she appointed set hours for reading, scarcely any young student in a university more daily or more duly.
+
+As for her government, her 45 years were the best that Britain ever had. It was when:
+
+<!--  I assure myself (I shall not exceed if I do affirm) that this part of the island 
+
+ never had 45 years of better times, and yet not through the calmness of the season, but through the wisdom of her regiment.   -->
+
+- the truth of religion was established
+- peace and security was constant
+- justice had good administration
+- the prerogative was used temperately, not slackened, nor much strained 
+- learning had a flourishing state, sortable to so excellent a patroness
+- the convenient estate of wealth and means, both of crown and subject; the habit of obedience, and the moderation of discontents; 
+
+On the other side, there were:
+- the differences of religion
+- the troubles of neighbour countries
+- the ambition of Spain and opposition of Rome
+
+<!-- , and then that she was solitary and of herself; these things, I say, considered, as I could not have chosen an instance so recent and so proper, so I suppose I could not have chosen one more remarkable or eminent to the purpose now in hand, which is concerning the conjunction of learning in the prince with felicity in the people. -->
 
 
-{{< s v="24" >}} His Anti-Cato book shows that he did aspire as well to victory of wit as victory of war: undertaking therein a conflict against the greatest champion with the pen that then lived, Cicero the orator.
-
-{{< s v="25" >}} In his book of Apophthegms, which he collected, he esteemed it more honour to make himself but a pair of tables, to take the wise and pithy words of others, than to have every word of his own to be made an apophthegm or an oracle, as vain princes, by custom of flattery, pretend to do.  And yet if I should enumerate divers of his speeches, as I did those of Alexander, they are truly such as Solomon noteth, when he saith, Verba sapientum tanquam aculei, et tanquam clavi in altum defixi: whereof I will only recite three, not so delectable for elegancy, but admirable for vigour and efficacy.
-
-(26) As first, it is reason he be thought a master of words, that could with one word appease a mutiny in his army, which was thus: The Romans, when their generals did speak to their army, did use the word Milites, but when the magistrates spake to the people they did use the word Quirites.  The soldiers were in tumult, and seditiously prayed to be cashiered; not that they so meant, but by expostulation thereof to draw Cæsar to other conditions; wherein he being resolute not to give way, after some silence, he began his speech, Ego Quirites, which did admit them already cashiered—wherewith they were so surprised, crossed, and confused, as they would not suffer him to go on in his speech, but relinquished their demands, and made it their suit to be again called by the name of Milites.
-
-(27) The second speech was thus: Cæsar did extremely affect the name of king; and some were set on as he passed by in popular acclamation to salute him king.  Whereupon, finding the cry weak and poor, he put it off thus, in a kind of jest, as if they had mistaken his surname: Non Rex sum, sed Cæsar; a speech that, if it be searched, the life and fulness of it can scarce be expressed.  For, first, it was a refusal of the name, but yet not serious; again, it did signify an infinite confidence and magnanimity, as if he presumed Cæsar was the greater title, as by his worthiness it is come to pass till this day.  But chiefly it was a speech of great allurement toward his own purpose, as if the state did strive with him but for a name, whereof mean families were vested; for Rex was a surname with the Romans, as well as King is with us.
-
-(28) The last speech which I will mention was used to Metellus, when Cæsar, after war declared, did possess himself of this city of Rome; at which time, entering into the inner treasury to take the money there accumulate, Metellus, being tribune, forbade him.  Whereto Cæsar said, “That if he did not desist, he would lay him dead in the place.”  And presently taking himself up, he added, “Young man, it is harder for me to speak it than to do it—Adolescens, durius est mihi hoc dicere quàm facere.”  A speech compounded of the greatest terror and greatest clemency that could proceed out of the mouth of man.
-
-(29) But to return and conclude with him, it is evident himself knew well his own perfection in learning, and took it upon him, as appeared when upon occasion that some spake what a strange resolution it was in Lucius Sylla to resign his dictators, he, scoffing at him to his own advantage, answered, “That Sylla could not skill of letters, and therefore knew not how to dictate.”
+<sup>10</sup> Neither hath learning an influence and operation only upon civil merit and moral virtue, and the arts or temperature of peace and peaceable government; but likewise it hath no less power and efficacy in enablement towards martial and military virtue and prowess, as may be notably represented in the examples of Alexander the Great and Cæsar the Dictator (mentioned before, but now in fit place to be resumed), of whose virtues and acts in war there needs no note or recital, having been the wonders of time in that kind; but of their affections towards learning and perfections in learning it is pertinent to say somewhat.
 
 
-{{< s v="30" >}} And here it were fit to leave this point, touching the concurrence of military virtue and learning (for what example should come with any grace after those two of Alexander and Cæsar?), were it not in regard of the rareness of circumstance, that I find in one other particular, as that which did so suddenly pass from extreme scorn to extreme wonder: and it is of Xenophon the philosopher, who went from Socrates’ school into Asia in the expedition of Cyrus the younger against King Artaxerxes.  This Xenophon at that time was very young, and never had seen the wars before, neither had any command in the army, but only followed the war as a voluntary, for the love and conversation of Proxenus, his friend.  
+<sup>11</sup> Alexander was bred and taught under Aristotle who dedicated his philosophy books to him.
 
-He was present when Falinus came in message from the great king to the Grecians, after that Cyrus was slain in the field, and they, a handful of men, left to themselves in the midst of the king’s territories, cut off from their country by many navigable rivers and many hundred miles.  The message imported that they should deliver up their arms and submit themselves to the king’s mercy.  To which message, before answer was made, divers of the army conferred familiarly with Falinus; and amongst the rest Xenophon happened to say, “Why, Falinus, we have now but these two things left, our arms and our virtue; and if we yield up our arms, how shall we make use of our virtue?”  Whereto Falinus, smiling on him, said, “If I be not deceived, young gentleman, you are an Athenian, and I believe you study philosophy, and it is pretty that you say; but you are much abused if you think your virtue can withstand the king’s power.”  
+He was attended with Callisthenes and other learned persons that followed him in camp throughout his journeys and conquests.
 
-Here was the scorn; the wonder followed: which was that this young scholar or philosopher, after all the captains were murdered in parley by treason, conducted those ten thousand foot, through the heart of all the king’s high countries, from Babylon to Græcia in safety, in despite of all the king’s forces, to the astonishment of the world, and the encouragement of the Grecians in times succeeding to make invasion upon the kings of Persia, as was after purposed by Jason the Thessalian, attempted by Agesilaus the Spartan, and achieved by Alexander the Macedonian, all upon the ground of the act of that young scholar.
+What price and estimation he had learning in notably appears in these 3 particulars:
+
+1. His envy towards Achilles
+
+Achilles had so good a trumpet of his praises as Homer’s verses.
+
+2. The judgment or solution he gave that precious cabinet of Darius
+
+It was among his jewels.
+
+ <!-- (whereof question was made what thing was worthy to be put into it, and he gave his opinion for Homer’s works); -->
+
+3. His letter to Aristotle
+
+<!-- , after he had set forth his books of nature, wherein he expostulateth with him for  -->
+
+He asked Aristotle to publish the secrets or mysteries of philosophy. 
+
+<!-- Alexander esteemed it better to excel other men in learning and knowledge than in power and empire. -->
+
+<!-- ; and gave him to understand that himself esteemed it more to  -->
+
+And what use he had of learning doth appear, or rather shine, in all his speeches and answers, being full of science and use of science, and that in all variety.
+
+
+<sup>12</sup> 
+
+And herein again it may seem a thing scholastical, and somewhat idle to recite things that every man knoweth; but yet, since the argument I handle leadeth me thereunto, I am glad that men shall perceive I am as willing to flatter (if they will so call it) an Alexander, or a Cæsar, or an Antoninus, that are dead many hundred years since, as any that now liveth; 
+
+For it is the displaying of the glory of learning in sovereignty that I propound to myself, and not a humour of declaiming in any man’s praises.
+
+Observe, then, the speech he used of Diogenes, and see if it tend not to the true state of one of the greatest questions of moral philosophy: whether the enjoying of outward things, or the contemning of them, be the greatest happiness; for when he saw Diogenes so perfectly contented with so little, he said to those that mocked at his condition, “were I not Alexander, I would wish to be Diogenes.”  
+
+But Seneca inverteth it, and saith, “Plus erat, quod hic nollet accipere, quàm quod ille posset dare.”  There were more things which Diogenes would have refused than those were which Alexander could have given or enjoyed.
+
+
+<sup>13</sup>  Observe, again, that speech which was usual with him,—“That he felt his mortality chiefly in two things, sleep and lust;” and see if it were not a speech extracted out of the depth of natural philosophy, and liker to have come out of the mouth of Aristotle or Democritus than from Alexander.
+
+(14) See, again, that speech of humanity and poesy, when, upon the bleeding of his wounds, he called unto him one of his flatterers, that was wont to ascribe to him divine honour, and said, “Look, this is very blood; this is not such a liquor as Homer speaketh of, which ran from Venus’ hand when it was pierced by Diomedes.”
+
+(15) See likewise his readiness in reprehension of logic in the speech he used to Cassander, upon a complaint that was made against his father Antipater; for when Alexander happened to say, “Do you think these men would have come from so far to complain except they had just cause of grief?” and Cassander answered, “Yea, that was the matter, because they thought they should not be disproved;” said Alexander, laughing, “See the subtleties of Aristotle, to take a matter both ways, pro et contra, &c.”
+
+(16) But note, again, how well he could use the same art which he reprehended to serve his own humour: when bearing a secret grudge to Callisthenes, because he was against the new ceremony of his adoration, feasting one night where the same Callisthenes was at the table, it was moved by some after supper, for entertainment sake, that Callisthenes, who was an eloquent man, might speak of some theme or purpose at his own choice; which Callisthenes did, choosing the praise of the Macedonian nation for his discourse, and performing the same with so good manner as the hearers were much ravished; whereupon Alexander, nothing pleased, said, “It was easy to be eloquent upon so good a subject; but,” saith he, “turn your style, and let us hear what you can say against us;” which Callisthenes presently undertook, and did with that sting and life that Alexander interrupted him, and said, “The goodness of the cause made him eloquent before, and despite made him eloquent then again.”
+
+
+
+<sup>17</sup> Consider further, for tropes of rhetoric, that excellent use of a metaphor or translation, wherewith he taxeth Antipater, who was an imperious and tyrannous governor; for when one of Antipater’s friends commended him to Alexander for his moderation, that he did not degenerate as his other lieutenants did into the Persian pride, in uses of purple, but kept the ancient habit of Macedon, of black.  
+
+“True,” saith Alexander; “but Antipater is all purple within.”
+
+Or that other, when Parmenio came to him in the plain of Arbela and showed him the innumerable multitude of his enemies, specially as they appeared by the infinite number of lights as it had been a new firmament of stars, and thereupon advised him to assail them by night; whereupon he answered, “That he would not steal the victory.”
+
+
+<sup>18</sup> For matter of policy, weigh that significant distinction, so much in all ages embraced, that he made between his two friends Hephæstion and Craterus, when he said, “That the one loved Alexander, and the other loved the king:” describing the principal difference of princes’ best servants, that some in affection love their person, and other in duty love their crown.
+
+<sup>19</sup> Weigh also that excellent taxation of an error, ordinary with counsellors of princes, that they counsel their masters according to the model of their own mind and fortune, and not of their masters.  
+
+When upon Darius’ great offers Parmenio had said, “Surely I would accept these offers were I as Alexander;” saith Alexander, “So would I were I as Parmenio.”
+
+
+<sup>20</sup> Lastly, weigh that quick and acute reply which he made when he gave so large gifts to his friends and servants, and was asked what he did reserve for himself, and he answered, “Hope.” 
+
+Weigh, I say, whether he had not cast up his account aright, because hope must be the portion of all that resolve upon great enterprises; for this was Cæsar’s portion when he went first into Gaul, his estate being then utterly overthrown with largesses.
+
+This was likewise the portion of that noble prince, howsoever transported with ambition, Henry Duke of Guise, of whom it was usually said that he was the greatest usurer in France, because he had turned all his estate into obligations.
+
+<sup>21</sup> In conclusion, certain critics are used to say hyperbolically: “If all sciences were lost they might be found in Virgil”
+
+Likewise, there are the prints and footsteps of learning in those few speeches which are reported of this prince, the admiration of whom, when I consider him not as Alexander the Great, but as Aristotle’s scholar, had carried me too far.
