@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 8"
-title: "The Expansion of Spacetime"
+title: "Dark Energy: The Expansion of Space-Time"
 # date: 2023-03-10
 weight: 34
 image: /graphics/physics/expansion.jpg
@@ -13,15 +13,54 @@ writer:
 ---
 
 
-Everything is expanding, even your own atoms. 
 
-In the 1630's Descartes wrote about how the universe works. 
+
+In 1644, Descartes established a complete theory of gravity, saying that objects revolve around the sun at varying speeds based on their location or distance from the center vortex, represented by the sun. 
+
+{{< i s="/graphics/physics/rotation2.jpg" a="Rotation" >}}
+
+- The closest planets like Mercury revolved fast.
+- The outer planets like Jupiter revolved slower.
+- But the farthest objects revolved the fastest.
+
+Each vortex is different from each other and so everything is relative depending on which vortex you use as the basis for measurement.
+
+Newton debunks this in his Principia in 1685, saying that planets revolve according to their inertia and not their location. 
+
+This was validated when the outer planets were discovered. And so Descartes' theory was abandoned forever. 
+
+
+### Dark Matter and Dark Energy are Not Needed
+
+But in 1933, Fritz Zwicky found that the outer parts of galaxies revolve faster than the inner parts, violating Newton. This led to the invention of dark matter to keep it within Newton's laws. 
+
+But this really vindicated Descartes' gravity -- a supermassive blackhole is the best representation of a Cartesian vortex. 
+
+The speed of the outer parts is accounted for by the center of the vortex and not by any dark matter. 
+
+To put icing on the gravity-cake, the DESI telescopes, meant to measure dark energy, see that speed of the universe's expansion measured through red-shift varies depending on which galaxy-cluster you look.
+
+And so in Cartesian Physics, there is no need for either dark matter or dark energy. 
+
+- Dark matter is an effect of the central vortex. 
+- Dark energy is an effect of clusters of vortices relative to each other. 
+
+
+### The Mechanism for Expansion
+
+In Modern Physics, the expansion of the universe is seen through the red shift measured from distant galaxies. This acts like a  doppler effect that shows that those galaxies are moving away.
+
+The Hubble and James Webb Space Telescopes measure this with a few galaxies. But specialized telescopes such as DESI measure the red shift from many galaxies for a long time. 
+
+This lets them get a bigger data set for the expansion. They find that that the expansion varies and depends on which galaxy cluster you look.  
+
+Descartes explained this expansion in the 1630's. 
 
 According to him, the universe began when spacetime became divided. These divisions led to diverse vortices that later became galaxies, stars, and planets. 
 
-This division did not stop after those heavenly bodies were created. It still continues every millisecond. 
+This division did not stop after those heavenly bodies were created. It still continues every nanosecond, or more properly at every Planck Time. 
 
-This now manifests as the expansion of the universe which is revealed by the cosmic red shift.
+<!-- This now manifests as the expansion of the universe which is revealed by the cosmic red shift. -->
 
 {{< img src="/graphics/physics/expansion.jpg" alt="Expansion of the Universe" cap="Dark Matter and Dark Energy are unnecessary because they are accounted for by properties of spacetime" >}}
 
@@ -60,3 +99,6 @@ However, the diversity within those divisions is increasing.
 So it leads to the perception that the expansion is accelerating. 
 
 Note that the accelerated expansion is only through the red shift in the macro scale, and conversely by length contraction by Lorentz Relativity.   -->
+
+
+In addition to the conclusions from Cartesian Physics mentioned earlier, this gives us an additional conclusion: Everything is expanding, even your own atoms.

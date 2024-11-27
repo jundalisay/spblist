@@ -18,9 +18,9 @@ The upper sublayer is quasi-metaphysical, while the lower is physical.
 
 Sublayer | Physicality | Medium | Substance | Quantum 
 --- | --- | --- | --- | ---
-Upper | Quasi-Metaphysical | Timespace | Time | Galactic Black Holes / Chakras
-Mid | Physical | Aetherspace Multiverses | Black Holes |  Stellar and Planetary Black Holes
-Lower | Physical | Spacetime | Space | Material Things | Subatomic Vortices
+Upper | Quasi-Metaphysical | Timespace | Time | Galactic Black Holes / Chakras (Dark Matter and Dark Energy)
+Mid | Physical | Aetherspace Multiverses | Black Holes |  Stellar and Planetary Black Holes (Orbital Gravity and Surface Tension)
+Lower | Physical | Spacetime | Space | Material Things (Atomic Gravity)
 
 
 The Upper Spacetime is not purely physical as it is the realm of:

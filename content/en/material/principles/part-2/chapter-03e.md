@@ -14,27 +14,48 @@ icon: /icons/spmat.png
 
 {{< youtube X_P0GEu4HQY >}}
 
-Superposition is the ability of a quantum thing to exist in multiple states simultaneously.
+Physicists see Quantum Mechanics as weird or spooky because they are stuck with the Newtonian assumption that everything is within space. 
 
-Decoherence is when that thing loses its superposition.
+But in Superphysics, everything is within the aether. This includes spacetime. 
 
-This causes it to manifest as one state as a collapse of its wave function. 
+{{< i s="/graphics/physics/rotation3.png" a="Cartesian Spacetime" c="In Superphysics, reality is all within the aether which is a product of probability.">}}
 
-Modern Physics is totally confounded by this. 
 
-Cartesian-Spinoza Physics, on the other hand, can explain them as the effects of the spatial dimension, which Descartes calls the 2nd Element. 
+The aether itself is within probability. This is why quantum mechanics, and reality itself, is inherently probabilistic. This concept is imbued in the concepts of:
+- superposition
+- wave function collapse
+- decoherence
 
-We introduce 3 versions or 'modes' of space and time: 
+
+Superposition is the ability of a quantum thing to exist in multiple states simultaneously. This is because everything is an aethereal wave.
+
+This wave becomes a single state whenever it hits something. You can think of this as taking a snapshot of an event. At this state, the wave function 'collapses' and the wave becomes a particle. 
+
+Decoherence is the state after that thing loses its superposition through the collapse of its wave function.
+
+<!-- This causes it to manifest as one state as a collapse of its wave function.  -->
+
+<!-- Modern Physics is totally confounded by this.  -->
+
+These are all effects of waves going through the 3 'modes' of the Spatial Layer. 
 
 1. Spacetime
 2. Aetherspace
 3. Timespace
 
 
-### Spacetime 
+### Space-Time 
 
-Spacetime is already somewhat known to Physics as a 4-dimensional continuum. However, we clarify that it is actually made up of **2-dimensional slices** separated by Planck length.
+Space-Time is similar to the spacetime of Einstein's Theory of Relativity in the sense that it is made up of more than 3 dimensions. 
 
+Both Physics and Superphysics have a 4-dimensional spacetime with past, present, and future. 
+
+However, the Space-Time of Superphysics has additional dimensions:
+- 5th Dimension as alternate realities
+- 6th Dimension as parallel other universes
+- 7th Dimension as the totality of existence
+
+All these Dimensions are made up of **2-dimensional slices** separated by Planck length.
 
 {{< i s="/graphics/physics/aetherspaceall.jpg" a="Aetherspace" c="Spacetime slices exist in the aetherspace. This leads to alternate realities and other universes" >}}
 

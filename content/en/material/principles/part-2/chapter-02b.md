@@ -3,7 +3,7 @@ heading: "Chapter 2b"
 title: "The Properties of Space"
 # date: 2023-11-27
 weight: 6
-image: /graphics/physics/slices.jpg
+image: /graphics/physics/space.jpg
 # was 1b
 description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
 writer:

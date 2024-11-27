@@ -22,7 +22,7 @@ Upper | Timespace | Time is dominant
 Middle | Aetherspace | Alternates between time and space (i.e. probabilistic)
 Lower | Spacetime | Space is dominant
 
-{{< img src="/graphics/physics/spacetimeratio.png" alt="The 3 Media of the Spaital Layer" cap="" >}}
+{{< img src="/graphics/physics/spacetimeratio.png" alt="The 3 Media of the Spaital Layer" cap="The Aethereal, Spatial, and Radiant Layers" >}}
 
 - Timespace is the sublayer where time predominates and space is minimal. 
 - Spacetime is the sublayer where space predominates and time is minimal. 
@@ -35,13 +35,13 @@ The media of the spatial layer create the various forces:
 
 Layer | Media | Force
 --- | --- | ---
-Aethereal-Spatial | Spacetime or Most3 | Dark Energy
-Spatial-Spatial | Spacetime or Most3 | Dark Matter
-Spatial-Radiant/Material | Spacetime or Most3 | Gravity
+Aethereal-Spatial | Spacetime or most3 | Dark Energy
+Spatial-Spatial | Spacetime or most3 | Dark Matter
+Spatial-Radiant/Material | Spacetime or most3 | Gravity
 Radiant | Spacetime or most3 + mor3| Magnetism 
-Material | Aetherspace or Most2 | Gluon or Strong Force
+Material | Aetherspace or most2 | Gluon or Strong Force
 
-
+ 
 Forces that work in the Spatial and Athereal layers are not detectable by instruments. That is why physicists are unable to find dark matter, dark energy, and gravity. 
 
 <!-- Name | Image | Description
