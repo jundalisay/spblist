@@ -251,16 +251,14 @@ Number of observation
 by taking the sums of the squares of the corresponding numbersand subtracting ^. In spite of the inaccuracy introduced by the method of partial integration employed in the first table, it is seen that the intensity of light diminishes rapidly as v increases, presenting none of the maxima and minima observed outside of the shadow.
 
 
-INTENSITIES OF LIGHT DIFFRACTED INTO THE SHADOW UNDER DIFFERENT ANGLES
+### Intensities Of Light Diffracted Into The Shadow Under Different Angles
 
-Values of v
+Values of v 
 
 and therefore
 
-69. By the aid of these formulae we can find the value of thedistance x or the angle x/b of the inflected ray correspondingto the various values of #; and vice versa, if x or the slant x/bbe given, we can find v, and thus determine the intensity of theinflected light. One striking inference from this formula,\ a
-~\
-'
-, is that the values of x are not directly pro6(1 portional to those of b, but are related to them as the ordinatesof a hyperbola are to its abscissas. It thus follows that pointsof equal intensity along the edge of the geometrical shadow donot lie upon a straight line as we vary b, but upon a hyperbolaof appreciable curvature, like the corresponding loci in exteriorfringes.
+
+69. By the aid of these formulae we can find the value of thedistance x or the angle x/b of the inflected ray correspondingto the various values of #; and vice versa, if x or the slant x/bbe given, we can find v, and thus determine the intensity of theinflected light. One striking inference from this formula,\ a, is that the values of x are not directly pro6(1 portional to those of b, but are related to them as the ordinatesof a hyperbola are to its abscissas. It thus follows that pointsof equal intensity along the edge of the geometrical shadow donot lie upon a straight line as we vary b, but upon a hyperbolaof appreciable curvature, like the corresponding loci in exteriorfringes.
 
 70. I have not yet succeeded in verifying by direct experiment the ratios of intensity in the inflected light as predictedby the theory of interference applied to the principle of Huygens. 
 
@@ -280,11 +278,7 @@ I propose to give the results of all the computations of this kind which, up to 
 72. first, I propose to consider the case of a narrowaperture which presents at once the
 case of exterior and interior fringes.
 
-Let C be a luminous point, AG
-a narrow aperture whose edges A
-and G are straight and parallel ; let BD be the central projection of
-
-this aperture upon the plane in which the fringes are observed,
+Let C be a luminous point, AG a narrow aperture whose edges A and G are straight and parallel ; let BD be the central projection of this aperture upon the plane in which the fringes are observed,
 and P be any point in this plane
 at which the intensity is to be determined.
 

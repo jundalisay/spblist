@@ -69,6 +69,7 @@ This is situated on the spinal cord directly behind the root of the genital orga
 5. Sarvanásha [thought of sure annihilation]
 6. Kruratá [cruelty]
 
+
 ### Mańipura cakra
 
 This is located at the navel. It controls 10 propensities:
