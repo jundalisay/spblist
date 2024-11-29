@@ -19,8 +19,8 @@ The Convertible Layer is divided into Upper, Middle, and Lower Sublayers.
 
 Sublayer | Example | Quanta 
 --- | --- | --- 
-Upper | Radioactivity | Z+ Boson
-Mid | Chemical reactivity | Z- Boson
+Upper | Flavor Changing | Z+ Boson
+Mid | Chemical reactivity and Radioactivity | Z- Boson
 Lower | Chemical changes | W Boson
 
 

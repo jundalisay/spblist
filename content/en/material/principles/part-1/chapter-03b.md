@@ -7,10 +7,25 @@ description: "Action at a Distance is possible because there is no void in natur
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 11
 icon: /icons/spmat.png
 ---
 
+
+
+The Media of the Aether are:
+
+1. Minds
+2. Feelings
+3. Ideas
+
+These move everything in physical and metaphysical reality. These 3 are made up of waves and are not particles. These do not even have size, shape, age, or timespan because they are above the spatial layer. 
+
+Instead, they create movement or non-movement by engaging or disengaging from the perceived waves. This leads to action at a distance, which is the opposite of contact forces. 
+
+Action-at-a-distance is possible because, in the paradign of Descartes, Aristotle, and the Asian sciences of Hinduism, Buddhism, and Taoism,  there is no Void in Nature. 
+
+This means that empty space is filled with substances that facilitate action-at-a-distance.
 
 Newtonian Mechanics embraces Democritus' matter-based philosophy which is the opposite that of Descartes. 
 

@@ -124,7 +124,7 @@ It would be free from absurdity, imposture, or fanaticism, which wise men throug
 This ideal religion perhaps never will be established in any country because positive law was always and will be influenced by popular superstition and enthusiasm.
 
 
-## The Independents
+### The Independents
 
 The 'Independents' sect was composed of very wild enthusiasts.
 - Towards the end of the civil war, they proposed a non-ecclesiastical government in England.

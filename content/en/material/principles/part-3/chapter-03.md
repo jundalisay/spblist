@@ -10,7 +10,7 @@ icon: /icons/spmat.png
 ---
 
 
-The Medium of Radiance facilitates the dynamicus of the radiant layer. It manifests as:
+The Medium of Radiance facilitates the dynamics of the radiant layer. It manifests as:
 
 
 Name | Medium Name | Force 

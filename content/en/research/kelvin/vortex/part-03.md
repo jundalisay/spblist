@@ -1,5 +1,5 @@
 ---
-title: "The Vibrations in the Lucretius atom" 
+title: "Experiment with India-rubber" 
 description: "Helmholtz made a very remarkable discovery: the simple vortex ring always moves relatively to the distant parts of the fluid"
 weight: 12
 image: "/covers/vortex.jpg"
@@ -15,19 +15,27 @@ This movement is:
 
 The determination of the velocity of this motion for rings of which the sectional radius is small compared with the radius of the circular axis, has presented mathematical difficulties which have not yet been over-come [2]. 
 
-The observed smoke-rings seem to be always smaller than the velocity of the fluid along the straight axis through the centre of the ring.
+The observed smoke-rings are always smaller than the velocity of the fluid along the straight axis through the ring's centre.
 
-This is because the observer standing besides the line of motion of the ring sees, as its plane passes through the position of his eye, a convex [3] outline of an atmosphere of smoke in front of the ring.
+This is because the observer standing besides the line of motion of the ring sees a convex [3] outline of an atmosphere of smoke in front of the ring as its plane passes through the position of his eye.
 
-This convex outline indicates the bounding surface between the quantity of smoke which is carried forward with the ring in its motion and the surrounding air which yields to let it pass. It is not so easy to distinguish the corresponding convex outline behind the ring, because a confused trail of smoke is generally left in the rear. 
+This convex outline indicates the bounding surface between the quantity of smoke which is carried forward with the ring in its motion and the surrounding air which yields to let it pass.
+
+It is not so easy to distinguish the corresponding convex outline behind the ring, because a confused trail of smoke is generally left in the rear. 
 
 In a perfect fluid the bounding surface of the portion carried forward would necessarily be quite symmetrical on the anterior and posterior sides of the middle plane of the ring. 
 
-The motion of the surrounding fluid must be precisely the same as it would be if the space within this surface were occupied by a smooth solid; but in reality the air within it is in a state of rapid motion, circulating round the circular axis of the ring with increasing velocity on the circuits nearer and nearer to the ring itself.
+The motion of the surrounding fluid must be precisely the same as it would be if the space within this surface were occupied by a smooth solid.
 
-The circumstances of the actual motion may be imagined thus:—Let a solid column of india-rubber, of circular section, with a diameter small in propotion to its length, be bent into a circle, and its two ends properly spliced together so that it may keep the circular shape when left to itself.
+But in reality, the air within it is in a state of rapid motion, circulating round the circular axis of the ring with increasing velocity on the circuits nearer and nearer to the ring itself.
 
-Let the aperture of the ring be closed by an infinitely thin film; let an impulsive pressure be applied all over this film, of intensity so distributed as to produce the definite motion of the fluid, specified as follows, and instantly thereafter let the film be all liquified.
+The actual motion may be imagined thus:
+
+Let a solid column of india-rubber with a diameter small in propotion to its length, be bent into a circle. Its 2 ends are properly spliced together so that it may keep the circular shape when left to itself.
+
+Let the aperture of the ring be closed by an infinitely thin film.
+
+Let an impulsive pressure be applied all over this film, of intensity so distributed as to produce the definite motion of the fluid, specified as follows, and instantly thereafter let the film be all liquified.
 
 This motion is, in accordance with one of Helmholtz’s laws, to be along those curves which would be the lines of force, if, in place of the india-rubber circle, were substituted a ring electromagnet [4]; and the velocities at different points are to be in proportion to the intensities of the magnetic forces in the corresponding points of the magnetic field. 
 

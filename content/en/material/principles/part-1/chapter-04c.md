@@ -27,6 +27,11 @@ No one is able to answer this.
 
 Superphysics answers that the whole Big Bang paradigm is flawed in the first place because material creation did not originate from a material cause. A material explosion would need an external trigger or cause to start that explosion just as a firecracker needs an external flame to light its fuse. 
 
+{{< q a="Lucretius" c="The Nature of Things" >}}
+Therefore the first-beginnings are of solid singleness
+{{< /q >}}
+
+
 That would imply that our Big Bang **happened within another universe**. This would then lead to more unanswered questions about that universe that can go on to infinity, since that universe could be within another universe, and so on. 
 
 

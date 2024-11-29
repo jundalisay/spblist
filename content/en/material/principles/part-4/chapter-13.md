@@ -9,11 +9,12 @@ image: /photos/physics/light.jpg
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 48
 icon: /icons/spmat.png
 toc: false
 draft: true
 ---
+
 
 Neutrino is for communication between objects in interstellar space. It uses the flow of neutrinos that travel from one to another.  
 

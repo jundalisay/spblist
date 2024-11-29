@@ -8,7 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
-weight: 59
+weight: 49
 aliases:
   /material/aether-dash
 ---
@@ -51,6 +51,24 @@ This is similar to measuring land by the speed of 2 cars running over it.
 {{< i s="/graphics/physics/aether.jpg" a="Aether drag" >}}
 
 Measuring the speed of 2 cars at a short distance gives you very little data on the features of the land.  But if you let the cars run far, then you can get an idea of the features of the land, such as how one car is dragged by the terrain but not another. 
+
+
+### Two Ways to Test Aether Drag
+
+According to our 5 Elements model, electromagnetism is inside spacetime and spacetime is inside the aether. This means there are 2 ways to test the aether drag: 
+- by time: Measurements can be done on a thing at distant times at the same place
+- by space: Measurements can be done on the same thing at distant places at the same time
+
+The Michelson-Morley measurement done on earth can be compared with current and very old experiments, also done on earth, in order to reveal the aether drag. 
+
+Another option is to test the speed of light on earth and on another star or galaxy at the same time. This will likewise reveal differences in measurement. The farther the distance, the larger the difference. 
+
+In the case of testing at the same place, the speed of light shows less difference with modern measurements from the 18th century ones. The idea of the speed of light has evolved from 301,000 kilometers per second in 1729 to 299,796 thanks to the Michelson-Morley experiment. 
+
+This reveals:
+- 'High and low level' aether drag
+- The reduction of the drag through time -- this matches the acceleration of the expansion of spacetime as measured by the Hubble and James Web Telescopes 
+
 
 
 ## The Aether Dash

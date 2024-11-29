@@ -64,8 +64,6 @@ This whole approach is so inefficient and is why it will take 600,000,000 years 
 
 Cartesian-Spinoza Physics fixes this by pointing out the true binding mechanism of quarks is not the gluon, but the surrounding aetherspace particles. 
 
-image
-
 Unlike normal spacetime which allows linear movement, the aetherspace allows probabilistic movement. This is why electrons do not orbit the proton, but rather jump around it in a cloud. A gluon field is an example of this cloud that is made up of round aetherspace particles. 
 
 {{< youtube 5YxtmlAK01c >}}

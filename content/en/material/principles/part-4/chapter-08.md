@@ -3,13 +3,13 @@ heading: "Chapter 8"
 title: "Particle Helicity Determines Covertibility"
 # # date: 2020-01-29
 # date: 2024-02-17
-image: /photos/physics/light.jpg
+image: /graphics/physics/decay.jpg
 description: "Particle spin is an effect of the Convertible Layer"
 # . Here, we explain how reality reflects our feelings through the Physics concept of particle-spin
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 34
 icon: /icons/spmat.png
 toc: false
 ---
@@ -34,6 +34,9 @@ This spin is revealed when the particle is put through an electromagnetic field.
 
 
 But spin does not take into the account of the relational movement between the spin direction of the particle and its forward movement. 
+
+{{< i s="/graphics/physics/decay.jpg" a="Helicity" >}}
+
 
 Helicity does that. And so spin has 2 properties in the Convertible Layer: 
 

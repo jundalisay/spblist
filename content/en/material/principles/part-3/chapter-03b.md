@@ -14,6 +14,11 @@ icon: /icons/spmat.png
 Magnetism is the combined effect the Spatial Layer operating within the Radiant Layer. We define it as the force from the mor3's (virtual photons) that push to either repel or attract bodies. 
 
 
+Magnetism is caused by the dualistic male and female charges of particles from the Radiant, Convertible, and Material Layers. 
+
+This magnetism also exposes the particle spin which is the rotation orientation of that particle. This spin exposes the abstract or conceptual shape of the particle (not the actual shape in reality).  
+
+
 ### Virtual Photons or MOR3's
 
 Unlike gravity which is based on the displaced qosts (spacetime particles) by matter, magnetism uses mor3's. 
