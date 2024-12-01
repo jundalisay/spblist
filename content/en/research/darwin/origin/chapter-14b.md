@@ -1,6 +1,6 @@
 ---
 title: Recapitulation and Conclusion
-heading: Chapter 19
+heading: Chapter 14b
 # First Meditation
 weight: 4
 description: "Convulsion occurs when there is a gas trapped within the nerves, not pure animal spirits"
@@ -13,227 +13,33 @@ icon: "/icons/descartes.png"
 
 
 
-Recapitulation of the difficulties on the theory of Natural Selection -- Recapitulation of the general
-and special circumstances in its favour -- Causes of the general belief in the immutability of species
--- How far the theory of natural selection may be extended -- Effects of its adoption on the study of
-Natural history -- Concluding remarks.
+Under domestication we see much variability.
 
-As this whole volume is one long argument, it may be convenient to the reader to have the leading
-facts and inferences briefly recapitulated.
+This is mainly due to the reproductive system being eminently susceptible to changes in the conditions of life; so that this system, when not rendered impotent, fails to reproduce offspring exactly like the parent-form.
 
-That many and grave objections may be advanced against the theory of descent with modification
-through natural selection, I do not deny. I have endeavoured to give to them their full force.
-Nothing at first can appear more difficult to believe than that the more complex organs and instincts
-should have been perfected, not by means superior to, though analogous with, human reason, but
-by the accumulation of innumerable slight variations, each good for the individual possessor.
-Nevertheless, this difficulty, though appearing to our imagination insuperably great, cannot be
-considered real if we admit the following propositions, namely,--that gradations in the perfection of
-any organ or instinct, which we may consider, either do now exist or could have existed, each good
-of its kind,--that all organs and instincts are, in ever so slight a degree, variable,--and, lastly, that
-there is a struggle for existence leading to the preservation of each profitable deviation of structure
-or instinct. The truth of these propositions cannot, I think, be disputed.It is, no doubt, extremely difficult even to conjecture by what gradations many structures have been
-perfected, more especially amongst broken and failing groups of organic beings; but we see so
-many strange gradations in nature, as is proclaimed by the canon, 'Natura non facit saltum,' that we
-ought to be extremely cautious in saying that any organ or instinct, or any whole being, could not
-have arrived at its present state by many graduated steps. There are, it must be admitted, cases of
-special difficulty on the theory of natural selection; and one of the most curious of these is the
-existence of two or three defined castes of workers or sterile females in the same community of
-ants; but I have attempted to show how this difficulty can be mastered.
-With respect to the almost universal sterility of species when first crossed, which forms so
-remarkable a contrast with the almost universal fertility of varieties when crossed, I must refer the
-reader to the recapitulation of the facts given at the end of the eighth chapter, which seem to me
-conclusively to show that this sterility is no more a special endowment than is the incapacity of two
-trees to be grafted together, but that it is incidental on constitutional differences in the reproductive
-systems of the intercrossed species. We see the truth of this conclusion in the vast difference in the
-result, when the same two species are crossed reciprocally; that is, when one species is first used as
-the father and then as the mother.
-The fertility of varieties when intercrossed and of their mongrel offspring cannot be considered as
-universal; nor is their very general fertility surprising when we remember that it is not likely that
-either their constitutions or their reproductive systems should have been profoundly modified.
-Moreover, most of the varieties which have been experimentised on have been produced under
-domestication; and as domestication apparently tends to eliminate sterility, we ought not to expect
-it also to produce sterility.
-The sterility of hybrids is a very different case from that of first crosses, for their reproductive
-organs are more or less functionally impotent; whereas in first crosses the organs on both sides are
-in a perfect condition. As we continually see that organisms of all kinds are rendered in some
-degree sterile from their constitutions having been disturbed by slightly different and new
-conditions of life, we need not feel surprise at hybrids being in some degree sterile, for their
-constitutions can hardly fail to have been disturbed from being compounded of two distinct
-organisations. This parallelism is supported by another parallel, but directly opposite, class of
-facts; namely, that the vigour and fertility of all organic beings are increased by slight changes in
-their conditions of life, and that the offspring of slightly modified forms or varieties acquire from
-being crossed increased vigour and fertility. So that, on the one hand, considerable changes in the
-conditions of life and crosses between greatly modified forms, lessen fertility; and on the other
-hand, lesser changes in the conditions of life and crosses between less modified forms, increase
-fertility.
-Turning to geographical distribution, the difficulties encountered on the theory of descent with
-modification are grave enough. All the individuals of the same species, and all the species of the
-same genus, or even higher group, must have descended from common parents; and therefore, in
-however distant and isolated parts of the world they are now found, they must in the course of
-successive generations have passed from some one part to the others. We are often wholly unable
-even to conjecture how this could have been effected. Yet, as we have reason to believe that some
-species have retained the same specific form for very long periods, enormously long as measured
-by years, too much stress ought not to be laid on the occasional wide diffusion of the same species;for during very long periods of time there will always be a good chance for wide migration by
-many means. A broken or interrupted range may often be accounted for by the extinction of the
-species in the intermediate regions. It cannot be denied that we are as yet very ignorant of the full
-extent of the various climatal and geographical changes which have affected the earth during
-modern periods; and such changes will obviously have greatly facilitated migration. As an
-example, I have attempted to show how potent has been the influence of the Glacial period on the
-distribution both of the same and of representative species throughout the world. We are as yet
-profoundly ignorant of the many occasional means of transport. With respect to distinct species of
-the same genus inhabiting very distant and isolated regions, as the process of modification has
-necessarily been slow, all the means of migration will have been possible during a very long
-period; and consequently the difficulty of the wide diffusion of species of the same genus is in
-some degree lessened.
-As on the theory of natural selection an interminable number of intermediate forms must have
-existed, linking together all the species in each group by gradations as fine as our present varieties,
-it may be asked, Why do we not see these linking forms all around us? Why are not all organic
-beings blended together in an inextricable chaos? With respect to existing forms, we should
-remember that we have no right to expect (excepting in rare cases) to discover directly connecting
-links between them, but only between each and some extinct and supplanted form. Even on a wide
-area, which has during a long period remained continuous, and of which the climate and other
-conditions of life change insensibly in going from a district occupied by one species into another
-district occupied by a closely allied species, we have no just right to expect often to find
-intermediate varieties in the intermediate zone. For we have reason to believe that only a few
-species are undergoing change at any one period; and all changes are slowly effected. I have also
-shown that the intermediate varieties which will at first probably exist in the intermediate zones,
-will be liable to be supplanted by the allied forms on either hand; and the latter, from existing in
-greater numbers, will generally be modified and improved at a quicker rate than the intermediate
-varieties, which exist in lesser numbers; so that the intermediate varieties will, in the long run, be
-supplanted and exterminated.
-On this doctrine of the extermination of an infinitude of connecting links, between the living and
-extinct inhabitants of the world, and at each successive period between the extinct and still older
-species, why is not every geological formation charged with such links? Why does not every
-collection of fossil remains afford plain evidence of the gradation and mutation of the forms of life?
-We meet with no such evidence, and this is the most obvious and forcible of the many objections
-which may be urged against my theory. Why, again, do whole groups of allied species appear,
-though certainly they often falsely appear, to have come in suddenly on the several geological
-stages? Why do we not find great piles of strata beneath the Silurian system, stored with the
-remains of the progenitors of the Silurian groups of fossils? For certainly on my theory such strata
-must somewhere have been deposited at these ancient and utterly unknown epochs in the world's
-history.
-I can answer these questions and grave objections only on the supposition that the geological record
-is far more imperfect than most geologists believe. It cannot be objected that there has not been
-time sufficient for any amount of organic change; for the lapse of time has been so great as to be
-utterly inappreciable by the human intellect. The number of specimens in all our museums is
-absolutely as nothing compared with the countless generations of countless species which certainlyhave existed. We should not be able to recognise a species as the parent of any one or more species
-if we were to examine them ever so closely, unless we likewise possessed many of the intermediate
-links between their past or parent and present states; and these many links we could hardly ever
-expect to discover, owing to the imperfection of the geological record. Numerous existing doubtful
-forms could be named which are probably varieties; but who will pretend that in future ages so
-many fossil links will be discovered, that naturalists will be able to decide, on the common view,
-whether or not these doubtful forms are varieties? As long as most of the links between any two
-species are unknown, if any one link or intermediate variety be discovered, it will simply be classed
-as another and distinct species. Only a small portion of the world has been geologically explored.
-Only organic beings of certain classes can be preserved in a fossil condition, at least in any great
-number. Widely ranging species vary most, and varieties are often at first local,--both causes
-rendering the discovery of intermediate links less likely. Local varieties will not spread into other
-and distant regions until they are considerably modified and improved; and when they do spread, if
-discovered in a geological formation, they will appear as if suddenly created there, and will be
-simply classed as new species. Most formations have been intermittent in their accumulation; and
-their duration, I am inclined to believe, has been shorter than the average duration of specific
-forms. Successive formations are separated from each other by enormous blank intervals of time;
-for fossiliferous formations, thick enough to resist future degradation, can be accumulated only
-where much sediment is deposited on the subsiding bed of the sea. During the alternate periods of
-elevation and of stationary level the record will be blank. During these latter periods there will
-probably be more variability in the forms of life; during periods of subsidence, more extinction.
-With respect to the absence of fossiliferous formations beneath the lowest Silurian strata, I can only
-recur to the hypothesis given in the ninth chapter. That the geological record is imperfect all will
-admit; but that it is imperfect to the degree which I require, few will be inclined to admit. If we
-look to long enough intervals of time, geology plainly declares that all species have changed; and
-they have changed in the manner which my theory requires, for they have changed slowly and in a
-graduated manner. We clearly see this in the fossil remains from consecutive formations invariably
-being much more closely related to each other, than are the fossils from formations distant from
-each other in time.
-Such is the sum of the several chief objections and difficulties which may justly be urged against
-my theory; and I have now briefly recapitulated the answers and explanations which can be given
-to them. I have felt these difficulties far too heavily during many years to doubt their weight. But
-it deserves especial notice that the more important objections relate to questions on which we are
-confessedly ignorant; nor do we know how ignorant we are. We do not know all the possible
-transitional gradations between the simplest and the most perfect organs; it cannot be pretended that
-we know all the varied means of Distribution during the long lapse of years, or that we know how
-imperfect the Geological Record is. Grave as these several difficulties are, in my judgment they do
-not overthrow the theory of descent with modification.
-Now let us turn to the other side of the argument. Under domestication we see much variability.
-This seems to be mainly due to the reproductive system being eminently susceptible to changes in
-the conditions of life; so that this system, when not rendered impotent, fails to reproduce offspring
-exactly like the parent-form. Variability is governed by many complex laws,--by correlation of
-growth, by use and disuse, and by the direct action of the physical conditions of life. There is much
-difficulty in ascertaining how much modification our domestic productions have undergone; but wemay safely infer that the amount has been large, and that modifications can be inherited for long
-periods. As long as the conditions of life remain the same, we have reason to believe that a
-modification, which has already been inherited for many generations, may continue to be inherited
-for an almost infinite number of generations. On the other hand we have evidence that variability,
-when it has once come into play, does not wholly cease; for new varieties are still occasionally
-produced by our most anciently domesticated productions.
-Man does not actually produce variability; he only unintentionally exposes organic beings to new
-conditions of life, and then nature acts on the organisation, and causes variability. But man can and
-does select the variations given to him by nature, and thus accumulate them in any desired manner.
-He thus adapts animals and plants for his own benefit or pleasure. He may do this methodically, or
-he may do it unconsciously by preserving the individuals most useful to him at the time, without
-any thought of altering the breed. It is certain that he can largely influence the character of a breed
-by selecting, in each successive generation, individual differences so slight as to be quite
-inappreciable by an uneducated eye. This process of selection has been the great agency in the
-production of the most distinct and useful domestic breeds. That many of the breeds produced by
-man have to a large extent the character of natural species, is shown by the inextricable doubts
-whether very many of them are varieties or aboriginal species.
-There is no obvious reason why the principles which have acted so efficiently under domestication
-should not have acted under nature. In the preservation of favoured individuals and races, during
-the constantly-recurrent Struggle for Existence, we see the most powerful and ever-acting means of
-selection. The struggle for existence inevitably follows from the high geometrical ratio of increase
-which is common to all organic beings. This high rate of increase is proved by calculation, by the
-effects of a succession of peculiar seasons, and by the results of naturalisation, as explained in the
-third chapter. More individuals are born than can possibly survive. A grain in the balance will
-determine which individual shall live and which shall die,--which variety or species shall increase
-in number, and which shall decrease, or finally become extinct. As the individuals of the same
-species come in all respects into the closest competition with each other, the struggle will generally
-be most severe between them; it will be almost equally severe between the varieties of the same
-species, and next in severity between the species of the same genus. But the struggle will often be
-very severe between beings most remote in the scale of nature. The slightest advantage in one
-being, at any age or during any season, over those with which it comes into competition, or better
-adaptation in however slight a degree to the surrounding physical conditions, will turn the balance.
-With animals having separated sexes there will in most cases be a struggle between the males for
-possession of the females. The most vigorous individuals, or those which have most successfully
-struggled with their conditions of life, will generally leave most progeny. But success will often
-depend on having special weapons or means of defence, or on the charms of the males; and the
-slightest advantage will lead to victory.
-As geology plainly proclaims that each land has undergone great physical changes, we might have
-expected that organic beings would have varied under nature, in the same way as they generally
-have varied under the changed conditions of domestication. And if there be any variability under
-nature, it would be an unaccountable fact if natural selection had not come into play. It has often
-been asserted, but the assertion is quite incapable of proof, that the amount of variation under
-nature is a strictly limited quantity. Man, though acting on external characters alone and oftencapriciously, can produce within a short period a great result by adding up mere individual
-differences in his domestic productions; and every one admits that there are at least individual
-differences in species under nature. But, besides such differences, all naturalists have admitted the
-existence of varieties, which they think sufficiently distinct to be worthy of record in systematic
-works. No one can draw any clear distinction between individual differences and slight varieties;
-or between more plainly marked varieties and sub-species, and species. Let it be observed how
-naturalists differ in the rank which they assign to the many representative forms in Europe and
-North America.
-If then we have under nature variability and a powerful agent always ready to act and select, why
-should we doubt that variations in any way useful to beings, under their excessively complex
-relations of life, would be preserved, accumulated, and inherited? Why, if man can by patience
-select variations most useful to himself, should nature fail in selecting variations useful, under
-changing conditions of life, to her living products? What limit can be put to this power, acting
-during long ages and rigidly scrutinising the whole constitution, structure, and habits of each
-creature,--favouring the good and rejecting the bad? I can see no limit to this power, in slowly and
-beautifully adapting each form to the most complex relations of life. The theory of natural
-selection, even if we looked no further than this, seems to me to be in itself probable. I have
-already recapitulated, as fairly as I could, the opposed difficulties and objections: now let us turn to
-the special facts and arguments in favour of the theory.
-On the view that species are only strongly marked and permanent varieties, and that each species
-first existed as a variety, we can see why it is that no line of demarcation can be drawn between
-species, commonly supposed to have been produced by special acts of creation, and varieties which
-are acknowledged to have been produced by secondary laws. On this same view we can
-understand how it is that in each region where many species of a genus have been produced, and
-where they now flourish, these same species should present many varieties; for where the
-manufactory of species has been active, we might expect, as a general rule, to find it still in action;
-and this is the case if varieties be incipient species. Moreover, the species of the large genera,
-which afford the greater number of varieties or incipient species, retain to a certain degree the
-character of varieties; for they differ from each other by a less amount of difference than do the
-species of smaller genera. The closely allied species also of the larger genera apparently have
-restricted ranges, and they are clustered in little groups round other species--in which respects they
-resemble varieties. These are strange relations on the view of each species having been
-independently created, but are intelligible if all species first existed as varieties.
+Variability is governed by many complex laws:
+- correlation of growth
+- use and disuse
+- the direct action of the physical conditions of life.
+
+It is difficult to ascertain how much modification our domestic productions have undergone. The amount has been large, and that modifications can be inherited for long periods. As long as the conditions of life remain the same, we have reason to believe that a modification, which has already been inherited for many generations, may continue to be inherited for an almost infinite number of generations. On the other hand we have evidence that variability, when it has once come into play, does not wholly cease; for new varieties are still occasionally produced by our most anciently domesticated productions.
+
+Man does not actually produce variability; he only unintentionally exposes organic beings to new conditions of life, and then nature acts on the organisation, and causes variability.
+
+But man can and does select the variations given to him by nature, and thus accumulate them in any desired manner. He thus adapts animals and plants for his own benefit or pleasure. He may do this methodically, or he may do it unconsciously by preserving the individuals most useful to him at the time, without any thought of altering the breed.
+
+He can largely influence the character of a breed by selecting, in each successive generation, individual differences so slight as to be quite inappreciable by an uneducated eye. This process of selection has been the great agency in the production of the most distinct and useful domestic breeds. That many of the breeds produced by man have to a large extent the character of natural species, is shown by the inextricable doubts whether very many of them are varieties or aboriginal species.
+
+There is no obvious reason why the principles which have acted so efficiently under domestication should not have acted under nature. In the preservation of favoured individuals and races, during the constantly-recurrent Struggle for Existence, we see the most powerful and ever-acting means of selection. The struggle for existence inevitably follows from the high geometrical ratio of increase which is common to all organic beings. This high rate of increase is proved by calculation, by the effects of a succession of peculiar seasons, and by the results of naturalisation, as explained in the third chapter. More individuals are born than can possibly survive.
+
+A grain in the balance will determine which individual shall live and which shall die,--which variety or species shall increase in number, and which shall decrease, or finally become extinct. As the individuals of the same species come in all respects into the closest competition with each other, the struggle will generally be most severe between them; it will be almost equally severe between the varieties of the same species, and next in severity between the species of the same genus. But the struggle will often be very severe between beings most remote in the scale of nature. The slightest advantage in one being, at any age or during any season, over those with which it comes into competition, or better adaptation in however slight a degree to the surrounding physical conditions, will turn the balance. With animals having separated sexes there will in most cases be a struggle between the males for possession of the females. The most vigorous individuals, or those which have most successfully struggled with their conditions of life, will generally leave most progeny. But success will often depend on having special weapons or means of defence, or on the charms of the males; and the slightest advantage will lead to victory.
+
+As geology plainly proclaims that each land has undergone great physical changes, we might have expected that organic beings would have varied under nature, in the same way as they generally have varied under the changed conditions of domestication. And if there be any variability under nature, it would be an unaccountable fact if natural selection had not come into play. It has often been asserted, but the assertion is quite incapable of proof, that the amount of variation under nature is a strictly limited quantity. Man, though acting on external characters alone and oftencapriciously, can produce within a short period a great result by adding up mere individual differences in his domestic productions; and every one admits that there are at least individual differences in species under nature. But, besides such differences, all naturalists have admitted the existence of varieties, which they think sufficiently distinct to be worthy of record in systematic works. No one can draw any clear distinction between individual differences and slight varieties; or between more plainly marked varieties and sub-species, and species. Let it be observed how naturalists differ in the rank which they assign to the many representative forms in Europe and North America.
+
+If then we have under nature variability and a powerful agent always ready to act and select, why should we doubt that variations in any way useful to beings, under their excessively complex relations of life, would be preserved, accumulated, and inherited? Why, if man can by patience select variations most useful to himself, should nature fail in selecting variations useful, under changing conditions of life, to her living products? What limit can be put to this power, acting during long ages and rigidly scrutinising the whole constitution, structure, and habits of each creature,--favouring the good and rejecting the bad? I can see no limit to this power, in slowly and beautifully adapting each form to the most complex relations of life. The theory of natural selection, even if we looked no further than this, seems to me to be in itself probable. I have already recapitulated, as fairly as I could, the opposed difficulties and objections: now let us turn to the special facts and arguments in favour of the theory.
+
+On the view that species are only strongly marked and permanent varieties, and that each species first existed as a variety, we can see why it is that no line of demarcation can be drawn between species, commonly supposed to have been produced by special acts of creation, and varieties which are acknowledged to have been produced by secondary laws. On this same view we can understand how it is that in each region where many species of a genus have been produced, and where they now flourish, these same species should present many varieties; for where the manufactory of species has been active, we might expect, as a general rule, to find it still in action; and this is the case if varieties be incipient species. Moreover, the species of the large genera, which afford the greater number of varieties or incipient species, retain to a certain degree the character of varieties; for they differ from each other by a less amount of difference than do the species of smaller genera. The closely allied species also of the larger genera apparently have restricted ranges, and they are clustered in little groups round other species--in which respects they resemble varieties. These are strange relations on the view of each species having been independently created, but are intelligible if all species first existed as varieties.
+
 As each species tends by its geometrical ratio of reproduction to increase inordinately in number;
 and as the modified descendants of each species will be enabled to increase by so much the more as
 they become more diversified in habits and structure, so as to be enabled to seize on many and
@@ -245,18 +51,22 @@ genus. New and improved varieties will inevitably supplant and exterminate the o
 improved and intermediate varieties; and thus species are rendered to a large extent defined and
 distinct objects. Dominant species belonging to the larger groups tend to give birth to new and
 dominant forms; so that each large group tends to become still larger, and at the same time moredivergent in character. But as all groups cannot thus succeed in increasing in size, for the world
-would not hold them, the more dominant groups beat the less dominant. This tendency in the large
+would not hold them, the more dominant groups beat the less dominant. 
+
+This tendency in the large
 groups to go on increasing in size and diverging in character, together with the almost inevitable
 contingency of much extinction, explains the arrangement of all the forms of life, in groups
 subordinate to groups, all within a few great classes, which we now see everywhere around us, and
 which has prevailed throughout all time. This grand fact of the grouping of all organic beings
 seems to me utterly inexplicable on the theory of creation.
+
 As natural selection acts solely by accumulating slight, successive, favourable variations, it can
 produce no great or sudden modification; it can act only by very short and slow steps. Hence the
 canon of 'Natura non facit saltum,' which every fresh addition to our knowledge tends to make
 more strictly correct, is on this theory simply intelligible. We can plainly see why nature is
 prodigal in variety, though niggard in innovation. But why this should be a law of nature if each
 species has been independently created, no man can explain.
+
 Many other facts are, as it seems to me, explicable on this theory. How strange it is that a bird,
 under the form of woodpecker, should have been created to prey on insects on the ground; that
 upland geese, which never or rarely swim, should have been created with webbed feet; that a thrush
@@ -266,6 +76,7 @@ cases. But on the view of each species constantly trying to increase in number, 
 selection always ready to adapt the slowly varying descendants of each to any unoccupied or ill-
 occupied place in nature, these facts cease to be strange, or perhaps might even have been
 anticipated.
+
 As natural selection acts by competition, it adapts the inhabitants of each country only in relation to
 the degree of perfection of their associates; so that we need feel no surprise at the inhabitants of any
 one country, although on the ordinary view supposed to have been specially created and adapted for
@@ -278,6 +89,7 @@ trees; at the instinctive hatred of the queen bee for her own fertile daughters;
 feeding within the live bodies of caterpillars; and at other such cases. The wonder indeed is, on the
 theory of natural selection, that more cases of the want of absolute perfection have not been
 observed.
+
 The complex and little known laws governing variation are the same, as far as we can see, with the
 laws which have governed the production of so-called specific forms. In both cases physical
 conditions seem to have produced but little direct effect; yet when varieties enter any zone, they
@@ -286,24 +98,11 @@ species, use and disuse seem to have produced some effect; for it is difficult t
 conclusion when we look, for instance, at the logger-headed duck, which has wings incapable of
 flight, in nearly the same condition as in the domestic duck; or when we look at the burrowing
 tucutucu, which is occasionally blind, and then at certain moles, which are habitually blind and
-have their eyes covered with skin; or when we look at the blind animals inhabiting the dark cavesof America and Europe. In both varieties and species correlation of growth seems to have played a
-most important part, so that when one part has been modified other parts are necessarily modified.
-In both varieties and species reversions to long-lost characters occur. How inexplicable on the
-theory of creation is the occasional appearance of stripes on the shoulder and legs of the several
-species of the horse-genus and in their hybrids! How simply is this fact explained if we believe that
-these species have descended from a striped progenitor, in the same manner as the several domestic
-breeds of pigeon have descended from the blue and barred rock-pigeon!
-On the ordinary view of each species having been independently created, why should the specific
-characters, or those by which the species of the same genus differ from each other, be more
-variable than the generic characters in which they all agree? Why, for instance, should the colour
-of a flower be more likely to vary in any one species of a genus, if the other species, supposed to
-have been created independently, have differently coloured flowers, than if all the species of the
-genus have the same coloured flowers? If species are only well-marked varieties, of which the
-characters have become in a high degree permanent, we can understand this fact; for they have
-already varied since they branched off from a common progenitor in certain characters, by which
-they have come to be specifically distinct from each other; and therefore these same characters
-would be more likely still to be variable than the generic characters which have been inherited
-without change for an enormous period. It is inexplicable on the theory of creation why a part
+have their eyes covered with skin; or when we look at the blind animals inhabiting the dark cavesof America and Europe. In both varieties and species correlation of growth seems to have played a most important part, so that when one part has been modified other parts are necessarily modified. 
+
+In both varieties and species reversions to long-lost characters occur. How inexplicable on the theory of creation is the occasional appearance of stripes on the shoulder and legs of the several species of the horse-genus and in their hybrids! How simply is this fact explained if we believe that these species have descended from a striped progenitor, in the same manner as the several domestic breeds of pigeon have descended from the blue and barred rock-pigeon! On the ordinary view of each species having been independently created, why should the specific characters, or those by which the species of the same genus differ from each other, be more variable than the generic characters in which they all agree? Why, for instance, should the colour of a flower be more likely to vary in any one species of a genus, if the other species, supposed to have been created independently, have differently coloured flowers, than if all the species of the genus have the same coloured flowers? If species are only well-marked varieties, of which the characters have become in a high degree permanent, we can understand this fact; for they have already varied since they branched off from a common progenitor in certain characters, by which they have come to be specifically distinct from each other; and therefore these same characters would be more likely still to be variable than the generic characters which have been inherited without change for an enormous period.
+
+It is inexplicable on the theory of creation why a part
 developed in a very unusual manner in any one species of a genus, and therefore, as we may
 naturally infer, of great importance to the species, should be eminently liable to variation; but, on
 my view, this part has undergone, since the several species branched off from a common
@@ -312,26 +111,10 @@ part generally to be still variable. But a part may be developed in the most unu
 wing of a bat, and yet not be more variable than any other structure, if the part be common to many
 subordinate forms, that is, if it has been inherited for a very long period; for in this case it will have
 been rendered constant by long-continued natural selection.
-Glancing at instincts, marvellous as some are, they offer no greater difficulty than does corporeal
-structure on the theory of the natural selection of successive, slight, but profitable modifications.
-We can thus understand why nature moves by graduated steps in endowing different animals of the
-same class with their several instincts. I have attempted to show how much light the principle of
-gradation throws on the admirable architectural powers of the hive-bee. Habit no doubt sometimes
-comes into play in modifying instincts; but it certainly is not indispensable, as we see, in the case of
-neuter insects, which leave no progeny to inherit the effects of long-continued habit. On the view
-of all the species of the same genus having descended from a common parent, and having inherited
-much in common, we can understand how it is that allied species, when placed under considerably
-different conditions of life, yet should follow nearly the same instincts; why the thrush of South
-America, for instance, lines her nest with mud like our British species. On the view of instincts
-having been slowly acquired through natural selection we need not marvel at some instincts being
-apparently not perfect and liable to mistakes, and at many instincts causing other animals to suffer.
-If species be only well-marked and permanent varieties, we can at once see why their crossed
-offspring should follow the same complex laws in their degrees and kinds of resemblance to their
-parents,--in being absorbed into each other by successive crosses, and in other such points,--as do
-the crossed offspring of acknowledged varieties. On the other hand, these would be strange facts if
-species have been independently created, and varieties have been produced by secondary laws.If we admit that the geological record is imperfect in an extreme degree, then such facts as the
-record gives, support the theory of descent with modification. New species have come on the stage
-slowly and at successive intervals; and the amount of change, after equal intervals of time, is
+
+Glancing at instincts, marvellous as some are, they offer no greater difficulty than does corporeal structure on the theory of the natural selection of successive, slight, but profitable modifications. We can thus understand why nature moves by graduated steps in endowing different animals of the same class with their several instincts. I have attempted to show how much light the principle of gradation throws on the admirable architectural powers of the hive-bee. Habit no doubt sometimes comes into play in modifying instincts; but it certainly is not indispensable, as we see, in the case of neuter insects, which leave no progeny to inherit the effects of long-continued habit. On the view of all the species of the same genus having descended from a common parent, and having inherited much in common, we can understand how it is that allied species, when placed under considerably different conditions of life, yet should follow nearly the same instincts; why the thrush of South America, for instance, lines her nest with mud like our British species. On the view of instincts having been slowly acquired through natural selection we need not marvel at some instincts being apparently not perfect and liable to mistakes, and at many instincts causing other animals to suffer. If species be only well-marked and permanent varieties, we can at once see why their crossed offspring should follow the same complex laws in their degrees and kinds of resemblance to their parents,--in being absorbed into each other by successive crosses, and in other such points,--as do the crossed offspring of acknowledged varieties. On the other hand, these would be strange facts if species have been independently created, and varieties have been produced by secondary laws.If we admit that the geological record is imperfect in an extreme degree, then such facts as the record gives, support the theory of descent with modification.
+
+New species have come on the stage slowly and at successive intervals; and the amount of change, after equal intervals of time, is
 widely different in different groups. The extinction of species and of whole groups of species,
 which has played so conspicuous a part in the history of the organic world, almost inevitably
 follows on the principle of natural selection; for old forms will be supplanted by new and improved
@@ -353,6 +136,7 @@ and less improved organic beings in the struggle for life. Lastly, the law of th
 allied forms on the same continent,--of marsupials in Australia, of edentata in America, and other
 such cases,--is intelligible, for within a confined country, the recent and the extinct will naturally be
 allied by descent.
+
 Looking to geographical distribution, if we admit that there has been during the long course of ages
 much migration from one part of the world to another, owing to former climatal and geographical
 changes and to the many occasional and unknown means of dispersal, then we can understand, on
@@ -585,6 +369,7 @@ creature, the progenitor of innumerable extinct and living descendants, was crea
 In the distant future I see open fields for far more important researches. Psychology will be based
 on a new foundation, that of the necessary acquirement of each mental power and capacity by
 gradation. Light will be thrown on the origin of man and his history.
+
 Authors of the highest eminence seem to be fully satisfied with the view that each species has been
 independently created. To my mind it accords better with what we know of the laws impressed on
 matter by the Creator, that the production and extinction of the past and present inhabitants of theworld should have been due to secondary causes, like those determining the birth and death of the

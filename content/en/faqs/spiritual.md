@@ -51,7 +51,9 @@ Is the Supreme Entity God?
 {{< l a="Spiritual-Superphysics" >}}
 Not really. The concept of Yahweh, God, and Allah is an invention of the Jews, Romans, and Mohammad respectively. Since we didn't live during the times when those concepts were created, we cannot know the feelings that could have caused their origin. 
 
-Our best guess from the text evidence, Sumerian up to the Quran, is that Allah represents the alien Enki and God is Enlil. This is why God is benevolent sometimes and extremely cruel at other times -- because they are 2 different entities.   
+Our best guess from the text evidence, Sumerian up to the Quran, is that God or Allah represents the alien Enki who created humans. God is benevolent sometimes and extremely cruel at other times just like any domineering child-beating parent. 
+
+ <!-- -- because they are 2 different entities.    -->
   <!-- either a physical alien race (as the Annunaki hypothesis) or the metaphysical oversoul of the Jewish, Roman, and Arab societies respectively. -->
 
 Either way, it follows that Yahweh, God, and Allah are really more political concepts than spiritual ones i.e. follow me, don't follow him, do this, not that.
@@ -146,10 +148,9 @@ Sight is facilitated by electromagnetism. The soul is aethereal and is 2 layers 
 But space and time are just mental constructs. How can it lead to spirituality?
 {{< /r >}}
 
+<!-- Mentalities have a lot of levels just as school has levels. You can't expect a pre-school student to upgrade to high school immediately. Normally, they should go to elementary school next and not stay stuck in pre-school year after year. -->
 {{< l a="Spiritual-Superphysics" >}}
-Correct. But at least it makes the mind more subtle and expanded (closer to the nature of the  aether instead of matter). Spirituality becomes easier to grasp and detect when the mind becomes subtle (i.e. the focus is on the heart more than the brain).
-
-Mentalities have a lot of levels just as school has levels. You can't expect a pre-school student to upgrade to high school immediately. Normally, they should go to elementary school next and not stay stuck in pre-school year after year.
+Analyzing events and phenomena in totally different places and times, while keeping with the dharma, makes the mind more expanded and therefore subtle (without dharma it becomes crazy/floating/ungrounded). This is because space-time is closer to the nature of the aether instead of matter. Spirituality becomes easier to grasp and detect when the mind becomes subtle (i.e. the focus is on the heart more than the brain).
 
 Likewise, the human species seems to stay stuck in materialism and its many problems generation after generation. We want to drive an upgrade towards the more subtle levels, even if it is not totally spiritual.    
 {{< /l >}}

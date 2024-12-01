@@ -103,5 +103,6 @@ Food Rescue System (Circular Economy) | A sustainable moneyless food security so
 
 Theories | Description | Year Start
 --- | --- | --- 
+Spiritual Superphysics Book | Describes how to get samadhi based on the known ways and systems | 2024
 The Anunnaki Old Testament and Quran | The Old Testament and Quran with the Anunnaki as God or Allah. This is our solution to the Palestine Israel conflict | 2024
 
