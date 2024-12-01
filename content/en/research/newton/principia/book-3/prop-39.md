@@ -1,14 +1,13 @@
-+++
-title= "Propositions 39"
-image= "/covers/principia.jpg"
-description= "Find the precession of the equinoxes"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 39
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## Proposition 39 Problem 20
 

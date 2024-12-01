@@ -1,14 +1,13 @@
-+++
-title= "Proposition 41"
-image= "/covers/principia.jpg"
-description= "Newton enumerates 3 Laws and 6 Corollaries"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Problem 41
+title: "Finding the orbits from the focus given"
+description: "Around a focus, draw a trajectory that shall pass through given points and touch right Hues given by position"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## PROPOSITION 41. PROBLEM 28
 

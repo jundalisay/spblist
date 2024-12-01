@@ -1,14 +1,14 @@
-+++
-title= "Proposition 67"
-image= "/covers/principia.jpg"
-description= "If 3 bodies whose forces decrease in a duplicate ratio of the distances attract each other mutually ; and the accelerative attractions of any two towards the third be between themselves reciprocally as the squares"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 67
+title: "Finding the orbits from the focus given"
+description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
+
 
 ## Proposition 67 Theorem 28
 

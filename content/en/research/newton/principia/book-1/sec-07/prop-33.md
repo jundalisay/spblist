@@ -1,16 +1,16 @@
-+++
-title= "Proposition 33"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Problem 33
+title: "Finding the orbits from the focus given"
+description: "Around a focus, draw a trajectory that shall pass through given points and touch right Hues given by position"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## PROPOSITION 33 THEOREM 9
+
+
+
+### PROPOSITION 33 THEOREM 9
 
 The velocity of a falling body in any place C is to the velocity of a body, describing a circle around B at the distance BC, in the subduplicate ratio of AC, the distance of the body from the remoter vertex A of the circle or  rectangular hyperbola, to 1/2 AB, the principal semi-diameter of the shape
 

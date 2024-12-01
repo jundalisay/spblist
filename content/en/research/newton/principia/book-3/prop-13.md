@@ -1,15 +1,11 @@
-+++
-title= "Propositions 13-17"
-image= "/covers/principia.jpg"
-description= "The planets move in ellipses which have their common focus in the sun's centre. By radii drawn, to tJtat centre, they describe areas pro the times of description"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
-
+---
+heading: Proposition 13-17
+title: "Projectivle"
+description: "The planets move in ellipses which have their common focus in the sun's centre. By radii drawn, to tJtat centre, they describe areas pro the times of description"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
 
 ### Proposition 13 Theorem 13

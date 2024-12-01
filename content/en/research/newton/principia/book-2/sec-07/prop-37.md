@@ -1,3 +1,13 @@
+---
+heading: Proposition 37 Theorem 29
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 PROPOSITION XXXVII. THEOREM XXIX.
 If a cylinder move uninformly forward in a compressed, infinite, arid
 non-elastic finid, in the direction of its length, the resistance arising

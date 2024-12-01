@@ -2,6 +2,7 @@
 title: "Proposition 1"
 description: "The areas, which revolving bodies describe by radii drawn to an immovable centre of force do lie in the same immovable planes, and are proportional to the times in which they are described"
 author: Newton
+draft: true
 image: "/covers/principia.jpg"
 ---
 

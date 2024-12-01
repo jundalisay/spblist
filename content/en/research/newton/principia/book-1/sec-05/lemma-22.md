@@ -1,14 +1,12 @@
-+++
-title= "Proposition 24"
-image= "/covers/principia.jpg"
-description= "Describe a trajectory that shall pass through 3 points, and touch two right lines given by position."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 24
+title: "Find the Trajectory of Points"
+description: "Describe a trajectory that shall pass through 3 points, and touch two right lines given by position"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
 
 
 ## PROPOSITION 24 PROBLEM 16

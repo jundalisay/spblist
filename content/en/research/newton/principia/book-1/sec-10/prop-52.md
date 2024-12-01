@@ -1,16 +1,14 @@
-+++
-title= "Proposition 52"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 52
+title: "Finding the orbits from the focus given"
+description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## PROPOSITION 52 PROBLEM 34
+
+### PROPOSITION 52 PROBLEM 34
 
 Define the velocities of the pendulums in the several places, and the times in which both the entire oscillations, and the several parts of them are performed.
 

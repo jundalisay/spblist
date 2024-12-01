@@ -1,14 +1,13 @@
-+++
-title= "Propositions 33"
-image= "/covers/principia.jpg"
-description= "In the time which is as the area NTA-NdZ that motions is as the area NAe, and is thence given but because the calculus is too difficult, it will be better to use the following construction of the Problem."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 33
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## Proposition 33 Problem 14
 

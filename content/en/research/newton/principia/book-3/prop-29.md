@@ -1,14 +1,13 @@
-+++
-title= "Propositions 29"
-image= "/covers/principia.jpg"
-description= "Find the variation of the moon."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 29
+title: "Projectivle"
+description: "Find the variation of the moon"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## Proposition 29 Problem 10
 

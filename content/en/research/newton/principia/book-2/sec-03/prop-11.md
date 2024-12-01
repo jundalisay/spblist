@@ -1,16 +1,15 @@
-+++
-title= "Section 3= The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 11
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## Proposition 11 Theorem 8
+
+
+### Proposition 11 Theorem 8
 
 If a body same
 in the duplicate of the

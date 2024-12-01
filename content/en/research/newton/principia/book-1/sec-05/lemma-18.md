@@ -1,14 +1,13 @@
-+++
-title= "Lemma 18"
-image= "/covers/principia.jpg"
-description= "Around a focus, draw a trajectory that shall pass through given points and touch right Hues given by position."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Lemma 18
+title: "Find the Trajectory of Points"
+description: "Around a focus, draw a trajectory that shall pass through given points and touch right Hues given by position"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ### Lemma 18
 

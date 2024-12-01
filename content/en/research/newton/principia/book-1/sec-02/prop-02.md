@@ -2,6 +2,7 @@
 title: "Proposition 2"
 description: "Every body that moves in any curve line described in a plane, and by a radius, drawn to a point either immovable, or moving forward with an uniform rectilinear motion, describes about that point areas proportional to the times, is urged by a centripetal force directed"
 author: Newton
+draft: true
 image: "/covers/principia.jpg"
 ---
 

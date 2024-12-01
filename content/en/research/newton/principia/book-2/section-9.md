@@ -1,10 +1,15 @@
-+++
-title= "Section 9= The circular motion of fluids"
-image= "/covers/principia.jpg"
-description= ""
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 34
+title: "The circular motion of fluids"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
+
+
 
 
 

@@ -1,16 +1,15 @@
-+++
-title= "Proposition 21"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 21
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## Proposition 21 Theorem 16
+
+
+### Proposition 21 Theorem 16
 
 The density of any fluid be proportional to the compression, and its parts be attracted downwards by a centripetal force reciprocally proportional to the distances from the centre = I say, that, if those distances be taken continually proportional, the densities of the fluid at same distances 
 

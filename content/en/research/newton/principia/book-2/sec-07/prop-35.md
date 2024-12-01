@@ -1,3 +1,13 @@
+---
+heading: Proposition 35
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 PROPOSITION XXXV. PROBLEM
 If a rare
 medium

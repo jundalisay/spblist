@@ -1,13 +1,12 @@
-+++
-title= "Elliptic and hyperbolic trajectories"
-image= "/covers/principia.jpg"
-description= "If from the two foci S, H, of any ellipsis or hyberbola, we draw to any third point V the right lines SV, HV, where one HV is equal to the principal axis of the shape (the axis in which the foci are situated, the other SV is bisected in T by the perpendicular TR that falls on it"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+heading: Proposition 18
+title: "Elliptic and hyperbolic trajectories"
+description: "Let the perpendicular TR cut the right line HV in R and then join SR. TS and TV are equal"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
 
 
 ## Lemma 15

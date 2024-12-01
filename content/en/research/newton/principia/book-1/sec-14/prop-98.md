@@ -1,16 +1,16 @@
-+++
-title= "Proposition 98"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 98
+title: "Finding the orbits from the focus given"
+description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## PROPOSITION 98 PROBLEM 48
+
+
+
+### PROPOSITION 98 PROBLEM 48
 
 The same things supposed ; if round the axis AB any attractive superficies be described as CD, regular or irregular, through which the bodies issuing from the given place A must
 pass ; it is required to find a second

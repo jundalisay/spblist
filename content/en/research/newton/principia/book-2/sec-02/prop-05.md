@@ -1,13 +1,13 @@
-+++
-title= "Section 2= The motions of bodies that are  resisted in the duplicate ratio of the velocities"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+heading: Section 2
+title: "Projecticle"
+description: "The motions of bodies that are  resisted in the duplicate ratio of the velocities"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## Proposition 5 Theorem 3
 

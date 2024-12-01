@@ -1,16 +1,15 @@
-+++
-title= "Proposition 83"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 83
+title: "Finding the orbits from the focus given"
+description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## Proposition 83 Problem 42
+
+
+### Proposition 83 Problem 42
 
 Find which a corpuscle placed in the centre of a sphere towards any segment of that sphere whatsoever.
 

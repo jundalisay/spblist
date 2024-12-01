@@ -1,7 +1,14 @@
-+++
-title= "Lemma 20"
-image= "/covers/principia.jpg"
-description= "Find a point P from which if four right lines PQ, PR, PS, PT an  drawn to as many other right lines AB, CD, AC, BD, given by posi tion, each to each, at given angles, the rectangle PQ X PR, under any two of the lines drawn, shall be to the rectangle PS X PT"
+---
+heading: Lemma 20
+title: "Find the Trajectory of Points"
+description: "Find a point P from which if four right lines PQ, PR, PS, PT an  drawn to as many other right lines AB, CD, AC, BD"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
+Find a point P from which if four right lines PQ, PR, PS, PT an  drawn to as many other right lines AB, CD, AC, BD, given by posi tion, each to each, at given angles, the rectangle PQ X PR, under any two of the lines drawn, shall be to the rectangle PS X PT"
 linkb= "/research/newton/principia/"
 linkbtext= "Index"
 linkf= "/research/newton/principia/"

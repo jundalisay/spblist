@@ -1,14 +1,14 @@
-+++
-title= "Proposition 36"
-image= "/covers/principia.jpg"
-description= "Find the force of the sun to move the sea."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 36
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
+
 
 ## Proposition 36 Problem 17= Find the force of the sun to move the sea
 

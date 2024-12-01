@@ -1,16 +1,15 @@
-+++
-title= "Proposition 92"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 92
+title: "Finding the orbits from the focus given"
+description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## Proposition 92 Problem 46
+
+
+### Proposition 92 Problem 46
 
 An attracting body being given, it is required to find the ratio of the decrease of the centripetal forces tending to its several points. 
 

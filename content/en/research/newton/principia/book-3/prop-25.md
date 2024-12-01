@@ -1,14 +1,14 @@
-+++
-title= "Propositions 25"
-image= "/covers/principia.jpg"
-description= "Find the forces with which the sun disturbs the motions of the moon."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 25
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
+
 
 ## Proposition 25 Problem 
 

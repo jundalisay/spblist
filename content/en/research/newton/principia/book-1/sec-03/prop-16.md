@@ -1,3 +1,12 @@
+---
+title: "Proposition 16"
+description: "In a parabola, the velocity is  reciprocally in the subduplicate ratio.of the distance of the body from the focus of the figure"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 +++
 title= "Proposition 16"
 image= "/covers/principia.jpg"
@@ -125,8 +134,7 @@ In shapes where the latera recta are equal, the velocity of a body is reciprocal
 
 ### Corollary 6
 
-In a parabola, the velocity is  reciprocally in the subduplicate ratio.of the distance of the body from the focus of the figure; it is more
-variable in the ellipsis, and less in the hyperbola, than according to this
+In a parabola, the velocity is  reciprocally in the subduplicate ratio.of the distance of the body from the focus of the figure; it is more variable in the ellipsis, and less in the hyperbola, than according to this
 For (by Cor. 2, Lem. XIV) the perpendicular let fall from the
 ratio.
 focus on the tangent of a parabola is in the subduplicate ratio of the dis

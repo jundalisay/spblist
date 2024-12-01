@@ -1,14 +1,13 @@
-+++
-title= "The motion and resistance of funependulous bodies"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 24 Theorem 19
+title: "Projectivle"
+description: "The motion and resistance of funependulous bodies"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## Proposition 24 Theorem 19
 

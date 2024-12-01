@@ -1,5 +1,7 @@
-+++
-title= "Section 9"
-description= "The motion of bodies in movable orbits and the movement of apsides"
-image= "/covers/principia.jpg"
-+++
+---
+heading: Section 9
+title: "The Motion of Bodies with centripetal force"
+description: "We simplify section 11 of  Principia Mathematica by Isaac Newton"
+image: "/covers/principia.jpg"
+---
+

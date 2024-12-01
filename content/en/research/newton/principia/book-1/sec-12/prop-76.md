@@ -1,16 +1,14 @@
-+++
-title= "Proposition 76"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 76
+title: "Finding the orbits from the focus given"
+description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## PROPOSITION 76 THEOREM 36
+
+### PROPOSITION 76 THEOREM 36
 
 If spheres be however dissimilar (as to density of matter and attractive,
 force] in the same ratio onward from the centre to the circumference ; but every where similar, at every given distance from the centre, on all round about ; and the attractive force of every point decreases in the duplicate ratio of the distance of the body attracted that the whole force with which one of these spheres attracts the oilier
