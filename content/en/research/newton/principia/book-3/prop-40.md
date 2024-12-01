@@ -1,14 +1,13 @@
-+++
-title= "Proposition 40"
-image= "/covers/principia.jpg"
-description= "The comets mnve in some of the conic sections, having their foci as the sun. They trace an orbit to the sun by radii drawn to the sun's center"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 40
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## Proposition 40 Theorem 20
 

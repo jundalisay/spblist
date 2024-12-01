@@ -1,14 +1,11 @@
-+++
-title= "Proposition 14"
-image= "/covers/principia.jpg"
-description= "If a body moves in the perimeter of a parabola ; it is required to find law of the centripetal force tending to the focus of that figure."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Proposition 14"
+description: "If a body moves in the perimeter of a parabola ; it is required to find law of the centripetal force tending to the focus of that figure"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
 
 
 ## Proposition 14 Theorem 6

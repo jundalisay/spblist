@@ -1,16 +1,15 @@
-+++
-title= "Proposition 44"
-image= "/covers/principia.jpg"
-description= "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 45
+title: "Finding the orbits from the focus given"
+description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## PROPOSITION 45 PROBLEM 35
+
+
+### PROPOSITION 45 PROBLEM 35
 
 Find the motion of the apsides in orbits approaching very near to circles
 

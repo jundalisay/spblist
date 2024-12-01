@@ -1,14 +1,12 @@
-+++
-title= "Proposition 17"
-image= "/covers/principia.jpg"
-description= "Supposing the centripetal force to be reciprocally proportional to the squares of the distances of places from the centre, and that the absolute quantity of that force is known"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Proposition 17"
+description: "Supposing the centripetal force to be reciprocally proportional to the squares of the distances of places from the centre, and that the absolute quantity of that force is known"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## Proposition 17 Problem 9
 

@@ -1,14 +1,13 @@
-+++
-title= "Proposition 33 Theorem 27"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 33
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## Most parts of systems are resisted in a duplicate ratio of their velocities, and the duplicate ratio of their diameters and the simple ratio of the parts of the systems. 
 

@@ -1,16 +1,15 @@
-+++
-title= "Proposition 59"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 59
+title: "Finding the orbits from the focus given"
+description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## PROPOSITION 59 THEOREM 22
+
+
+### PROPOSITION 59 THEOREM 22
 
 Their common periodic time of two bodies S and P revolving around centre of gravity C, is to the periodic time of one of the bwlies 1? revolving round the other S remaining unmoved, and describing a shape similar and equal to those which the bodies describe about each 
 

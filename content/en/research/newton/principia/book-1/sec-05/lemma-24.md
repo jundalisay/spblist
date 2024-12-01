@@ -1,15 +1,14 @@
-+++
-title= "Lemma 24"
-image= "/covers/principia.jpg"
-description= "Describe a trajectory that shall pass through 3 points, and touch two right lines given by position."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+heading: Lemma 24
+title: "Find the Trajectory of Points"
+description: "Describe a trajectory that shall pass through 3 points, and touch two right lines given by position"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## Lemma 24
+
+### Lemma 24
 
 If three right lines, two whereof are parallel, and given by position, touch any conic section ; I say, that the semi-diameter of the section which is parallel to those two
 is a mean proportional between the segments of those two that are intercepted between the points of contact and the.

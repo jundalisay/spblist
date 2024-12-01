@@ -1,14 +1,14 @@
-+++
-title= "Propositions 34"
-image= "/covers/principia.jpg"
-description= "Find the horary variation of the inclination of the moon's orbit to the plane of the ecliptic."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 34
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
+
 
 ## Proposition 34 Problem 15
 

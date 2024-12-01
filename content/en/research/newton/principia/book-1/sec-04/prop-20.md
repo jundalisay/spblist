@@ -1,13 +1,12 @@
-+++
-title= "Find the Trajectory of Points"
-image= "/covers/principia.jpg"
-description= "Around a given focus to describe any trajectory given in specie which shall pass through given points, and touch right lines given by position."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+heading: Proposition 20
+title: "Find the Trajectory of Points"
+description: "Around a given focus to describe any trajectory given in specie which shall pass through given points, and touch right lines given by position"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
 
 ## Proposition 20 PROBLEM 12
 

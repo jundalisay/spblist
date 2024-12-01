@@ -1,14 +1,11 @@
-+++
-title= "Propositions 20-21"
-image= "/covers/principia.jpg"
-description= "Find and compare the weights of bodies in the different regions of our earth"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 20-21
+title: "Projectivle"
+description: "Find and compare the weights of bodies in the different regions of our earth"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
 
 

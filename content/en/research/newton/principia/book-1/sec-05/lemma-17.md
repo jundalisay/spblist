@@ -1,13 +1,13 @@
-+++
-title= "Lemma 17"
-image= "/covers/principia.jpg"
-description= "If from any point of a given conic section, to the four produced sides AB, CD, AC, DB, of any trapezium ABDC inscribed in that section, as many right lines PQ, PR, PS, PT are drawn in given ang ei, each line to each side"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+heading: Lemma 17
+title: "Find the Trajectory of Points"
+description: "If from any point of a given conic section, to the four produced sides AB, CD, AC, DB, of any trapezium ABDC inscribed in that section, as many right lines PQ, PR, PS, PT are drawn in given ang ei, each line to each side"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## Lemma 17
 

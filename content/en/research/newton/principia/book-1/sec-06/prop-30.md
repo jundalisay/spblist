@@ -1,14 +1,13 @@
-+++
-title= "How motions are to be found in orbits"
-image= "/covers/principia.jpg"
-description= "Newton enumerates 3 Laws and 6 Corollaries"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 30
+title: "How motions are to be found in orbits"
+description: "Around a focus, draw a trajectory that shall pass through given points and touch right Hues given by position"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
 
 ## Proposition 30 PROBLEM 22
 

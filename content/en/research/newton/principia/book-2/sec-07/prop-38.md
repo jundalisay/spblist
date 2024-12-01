@@ -1,14 +1,14 @@
-+++
-title= "Proposition 38 Theorem 30"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 38
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
+
 
 If a globe move uniformly forward in a compressed, elastic fluid, its resistance is to the force by which infinite,
 its

@@ -1,14 +1,14 @@
-+++
-title= "Proposition 37"
-image= "/covers/principia.jpg"
-description= "Find the shape of the moon's body"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 37
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
+
+
+
 
 ## Proposition 37 Problem 18= Find the force of the moon to move the sea
 

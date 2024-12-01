@@ -1,15 +1,16 @@
-+++
-title= "Trapezium"
-image= "/covers/principia.jpg"
-description= "Describe a trajectory that shall pass through 3 points, and touch two right lines given by position."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+heading: Trapezium
+title: "Find the Trajectory of Points"
+description: "Describe a trajectory that shall pass through 3 points, and touch two right lines given by position"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## Lemma 27
+
+
+
+### Lemma 27
 
 A trapezium given in kind, the angles whereof may be in placed, respect of four right lines given by position, that are neither all paralhl among themselves, nor converge to one common point,  describe
 ,

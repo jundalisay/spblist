@@ -1,16 +1,15 @@
-+++
-title= "Proposition 31"
-image= "/covers/principia.jpg"
-description= "Newton enumerates 3 Laws and 6 Corollaries"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 31
+title: "How motions are to be found in orbits"
+description: "Around a focus, draw a trajectory that shall pass through given points and touch right Hues given by position"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## PROPOSITION 31 PROBLEM 23 
+
+
+### PROPOSITION 31 PROBLEM 23 
 
 Find the place of a body moving in an elliptic trajectory
 

@@ -1,16 +1,14 @@
-+++
-title= "Proposition 7"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 7
+title: "Projecticle"
+description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## Lemma 2
+
+### Lemma 2
 
 The moment of any genitum is equal to the moments of each of the generatinrr sides drawn into the indices of the powers of those sides, and
 into their co-efficients continually.

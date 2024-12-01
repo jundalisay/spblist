@@ -1,16 +1,15 @@
-+++
-title= "Proposition 23"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+heading: Proposition 23
+title: "Projectivle"
+description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+author: Newton
+draft: true
+image: "/covers/principia.jpg"
+---
 
-## Proposition 23 Theorem 18
+
+
+### Proposition 23 Theorem 18
 
 If a fluid be composed of particles mutually flying each other, and the
 drnsity be as the compression, the centrifugal forces of the particles

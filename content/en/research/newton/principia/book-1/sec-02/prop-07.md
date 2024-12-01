@@ -3,6 +3,7 @@ title: "Proposition 7 Problem 2"
 description: "The areas, which revolving bodies describe by radii drawn to an immovable centre of force do lie in the same immovable planes, and are proportional to the times in which they are described"
 author: Newton
 image: "/covers/principia.jpg"
+draft: true
 ---
 
 
