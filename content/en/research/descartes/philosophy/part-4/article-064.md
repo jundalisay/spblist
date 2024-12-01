@@ -128,7 +128,7 @@ But in vapors, spirits, and exhalations, they fly.
 Spirits fly with greater force and more easily permeate narrow channels in the Earth, where they are intercepted and adhere more firmly.
 - These turn them into substances harder than exhalations or vapors. 
 
-Many kinds of stones and other non-transparent fossils arise from these three because of:
+Many kinds of stones and other non-transparent fossils arise from these 3 because of:
 - their significant diversity
 - the differences in the particles that they consist of
 

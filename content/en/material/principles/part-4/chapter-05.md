@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 5"
-title: "Quantum of Conversion: Neutrinos"
+title: "The Quantum of Conversion: Neutrinos"
 date: 2024-10-07
 image: /graphics/physics/neutrinos.jpg
 description: "Quantum of Conversion: Neutrinos"
