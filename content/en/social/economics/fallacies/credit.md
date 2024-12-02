@@ -25,6 +25,9 @@ It takes a stretch of imagination to equate coin with belief. The only logical w
 
 Point 2 is questionable and so such a reasoning does not stand easily. Accordingly, money being credit is not in line with the definition of Plato, Smith, Montesquieu, Ricardo, Sismondi, Marx, Keynes, nor Mill on money or wealth.    
 
+
+## The Growth of International Trade and the Credit Theory of Money
+
 The possible source of that idea is Graeber and the [Credit Theory of Money](https://wikipedia.org/wiki/Credit_theory_of_money).
 
 This theory only came to existence as a consequence of paper bank notes. 
@@ -35,9 +38,16 @@ This increased trade needed more tools to circulate it. Intially, the Spanish in
 
 That is why the Europeans resorted to paper bills that took the form of bank notes and stock certificates. These replaced coins and treasure chests to store wealth. 
 
+{{< i s="/photos/objects/money.jpg" a="Paper money" >}}
+
+
 Paper itself is worthless relative to gold coins. Its value really comes from the trust in the backing institution. This aethereal trust is the foundation of credit and credit-worthiness.  
 
-Unlike gold coins that are minted by the government, paper notes can come from any person or organization, as an IOU. The organization that systemically uses such paper notes are called banks. There are many kinds of banks such as central banks, commercial banks, and investment banks. These various kinds deal with the different uses of money to circulate and store value.
+> This aethereal trust is the foundation of credit
+
+Unlike gold coins that are minted by the government, paper notes can come from any person or organization, as an IOU. The organization that systemically uses such paper notes are called banks.
+
+There are many kinds of banks such as central banks, commercial banks, and investment banks. These various kinds deal with the different uses of money to circulate and store value.
 
 So money-as-credit really came from the invention of paper bank notes. Those notes were originally credit instruments that represented real gold and silver coins. In time, due to the growth of trade, those notes became thought of as equivalent to money itself. 
 

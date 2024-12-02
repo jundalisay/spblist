@@ -17,10 +17,6 @@ icon: "/icons/descartes.png"
 How do the inhabitants of the aethereal Earth see their stellar gravitational territory as a whole like we physical Earthlings see our sky?
 
 
-
-
-
-
 They see the `sun` as completely full of light and like our sun. It sends rays from all points of its surface toward their eyes. Because it is much closer to them than the stars, it must appear much larger to them. 
 
 {{< img src="/graphics/physics/orbits.jpg" alt="Orbits" >}}
