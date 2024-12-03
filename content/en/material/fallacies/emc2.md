@@ -1,7 +1,7 @@
 ---
 title: "Mass-Energy Equivalence"
 date: 2024-03-13
-weight: 2
+weight: 34
 image: /graphics/physics/quark.jpg
 description: ""
 writer:
@@ -13,10 +13,6 @@ toc: false
 
 
 The idea of Mass-Energy Equivalence was created by Einstein through his famous equation: `E=mc^2`.
-
-
-
-
 
 
 ## Mysteries of Electromagnetism
@@ -36,12 +32,14 @@ Mass is bound by space and magnitude. And so the potentiality of a material obje
 This paradigm of Einstein creates multiple problems just as sweeping things under the rug solves an obvious problem but create many small ones. 
 
 
-### No Anti-Gravity Problem
+#### Problem 1: No Anti-Gravity
 
 The biggest problem is that it makes light superior to spacetime, when in fact it is the other way around. This is why anti-gravity cannot be discovered under `E=mc^2`. 
 
 <!-- https://www.superphysics.org/research/einstein/relativity/section-15/ -->
 
+
+#### Problem 2: Mass Problem
 
 Moreover, `E=mc^2` is only applicable to active and radioactive particles.
 
@@ -49,17 +47,13 @@ Moreover, `E=mc^2` is only applicable to active and radioactive particles.
 
 This is why it can be used to create nukes which releases energy instantly from active particles. It does not work for burning paper since paper is not radioactive. Instead the heat can be given by `q = mcΔT`.
 
-
-
-### Mass = Potential Problem
-
 Einstein made a mistake by denoting electromagnetic potential as mass, when he should have denoted it as electromagnetic potential. Because of this, people mix it up with Newtonian mass. 
 
 This leads to wrong statements like "The Higgs field gives mass to particles". In reality, it only gives electromagnetic potential. Particle mass is given by the Strong Force. 
 
 
 
-## Solution: E=pc^2
+## Solution: E::pc^2
 
 The proper equation should therefore really be `E=pc^2` where `p` is the electromagnetic potential of a particle that has a high ratio of qor1 (Cartesian 1st Element) over qom1 (Cartesian 3rd Element).
 

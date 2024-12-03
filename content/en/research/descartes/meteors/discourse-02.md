@@ -38,11 +38,12 @@ The action of the sun raises vapors quite high, since it always extends at the s
 <!-- the small parts of matter that compose vapors and exhalations  -->
 
 
-These small particles that are thus raised into the air by the sun should mostly have the shape of water because they are the most easily separable from the bodies that they are in. 
+These small particles that are thus raised into the air by the sun should mostly have the shape of water. This is because they are the most easily separable from the bodies that they are in. 
 
-These alone I will call "vapors". These are different from the more irregular shaped ones I call "exhalations", as I know no more proper term. 
+These alone I will call "vapors". These are different from the more irregular shaped ones I call "exhalations" [ionized air], as I know no more proper term. 
 
-Included in the exhalations are those with nearly the same shape as the water particles but are more subtle. These make up spirits or life waters that can easily catch fire. 
+Included in the exhalations are those with nearly the same shape as the water particles but are more subtle.
+- These make up spirits or life waters that can easily catch fire. 
 
 I will exclude the earth-aether particles that compose the body of air that are:
 - divided into several branches
@@ -62,7 +63,11 @@ Vapors always occupy much more space than water even if they are made of the sam
 
 This is because when these particles make up water, they only move strongly enough to bend and intertwine. They slide against each other, as represented at `A`. 
 
-However, when they take the form of vapor, their agitation is so great that they quickly turn around in all directions and stretch out to their full length, so that each has the force to push away all its similar parts that tend to enter the small sphere it describes. This is represented at B. It is similar to how, if you spin the pivot LM fast enough, through which the cord NP passes, you will see that this cord stands in the air, straight and stretched, occupying all the space within the circle NOPQ, in such a way that no other body can be placed there without being immediately struck with force and driven out. However, if you move it more slowly, it will coil around the pivot itself and thus will no longer occupy as much space.
+However, when they take the form of vapor, their agitation is so great that they quickly turn around in all directions and stretch out to their full length. In this way, each has the force to push away all its similar particles that tend to enter the small sphere it describes. This is represented at `B`.
+
+It is similar to how, if you spin the pivot `LM` fast enough, through which the cord `NP` passes, you will see that this cord stands in the air, straight and stretched, occupying all the space within the circle `NOPQ`, in such a way that no other body can be placed there without being immediately struck with force and driven out. 
+
+However, if you move it more slowly, it will coil around the pivot itself and thus will no longer occupy as much space.
 
 
 These vapors can be more or less compressed or expanded, more or less hot or cold, more or less transparent or obscure, and more or less humid or dry at different times.
@@ -102,14 +107,26 @@ This is why we experience that impetuous winds are always dry, and there are no 
 One could also say that the vapors at E are more humid than those at D because their parts, being more agitated, can better penetrate the pores of other bodies to make them moist. However, in another sense, they could be said to be less humid because the excessive agitation of their parts prevents them from easily taking the form of water.**
 
 
-As for exhalations, they are capable of many more diverse qualities than vapors because there can be more differences among their parts.
+### Ionized Air
 
-But it will suffice here to note that the coarser ones are almost nothing but earth, such as can be seen at the bottom of a vase after allowing snow or rainwater to settle, and the most subtle ones are nothing but these spirits or life waters, which always rise first from the bodies being distilled. 
+Exhalations are capable of many more diverse qualities than vapors because there can be more differences among their particles.
 
-Among the intermediate ones, some partake of the nature of volatile salts, and others of oils, or rather the fumes that come out when they are burned. 
+<!-- But it will suffice here to note that  -->
 
-Even though most of these exhalations rise into the air mixed with vapors, they can still easily separate afterward, either by themselves, as oils separate from the water with which they are distilled, or aided by the agitation of winds that gather them into one or several bodies, in the same way that village women, by churning their cream, separate the butter from the buttermilk. 
+- The coarser ones are almost nothing but earth-aether, such as can be seen at the bottom of a vase after allowing snow or rainwater to settle 
+- The most subtle ones are nothing but these spirits or life waters, which always rise first from the bodies being distilled. 
 
-Often, simply by being more or less heavy and more or less agitated, they settle in a lower or higher region than vapors do. Generally, oils rise less high than life waters, and those that are just earth rise even less than oils. 
+Among the intermediate ones, some partake of the nature of volatile salts, and others of oils, or rather the fumes that come out when they are burned.
 
-However, none settle lower than the parts that make up common salt, and although they are not properly exhalations or vapors because they only rise just above the surface of the water, since it is through the evaporation of this water that they come there, and there are many noteworthy things about them that can be conveniently explained here, I do not wish to omit them.**
+Most of these exhalations rise into the air mixed with vapors. But they can still easily separate afterwards, either by themselves, as oils separate from the water with which they are distilled, or aided by the agitation of winds that gather them into one or several bodies.
+
+This is like how village women, by churning their cream, separate the butter from the buttermilk. 
+
+Often, simply by being more or less heavy and more or less agitated, they settle in a lower or higher region than vapors do.
+
+Generally, oils rise less high than life waters, and those that are just earth rise even less than oils. 
+
+However, none settle lower than the parts that make up common salt.
+
+Although they are not properly exhalations or vapors because they only rise just above the surface of the water, since it is through the evaporation of this water that they come there, and there are many noteworthy things about them that can be conveniently explained here, I do not wish to omit them.**
+

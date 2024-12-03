@@ -1,5 +1,5 @@
 ---
-title: "Treatise on Electricity"
+title: "Elementary Treatise on Electricity"
 weight: 64
 date: 2023-05-25
 image: "/covers/elec.png"

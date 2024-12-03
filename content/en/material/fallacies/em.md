@@ -1,27 +1,26 @@
 ---
 # heading: "The Problem with Using Light as a Measuring Rod"
 title: "The Fallacy of Special Relativity for Electromagnetism"
-description: "Did you know that using light as a Measuring Rod is circular reasoning?"
+description: "Electromagnetism is caused by channels, not by length contraction"
 date: "2024-12-02"
-weight: 30
-image: "/covers/einstein.jpg"
+weight: 32
+image: "/graphics/physics/em.jpg"
 icon: "/icons/spmat.png"
 weight: 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /material/fallacies/light-ruler
-draft: true
 ---
 
- 
+
 
 In 1644, Descartes explained that magnetism happens when a material body creates straight channels within itself. This allows virtual photons, which he called striated particles, to pass through.
 
 These virtual photons are corkscrews that enter and exit matter, creating entrance and exit points that Physics call north and south poles. 
 
 It is impossible to have an entrance without an exit and vice versa. This is why cutting a magnet in half creates a new north and south pole.  
+
+{{< i s="/graphics/physics/em.jpg" a="Special Relativity" >}}
 
 The direction of the flow then dictates the attraction or repulsion force. 
 

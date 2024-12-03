@@ -82,6 +82,13 @@ Currently (-ing) | -iyi
 Future | -oo
 Future Recurring | -oyo
 
+Modifiers | Suffix | Example
+--- | --- | ---
+Very | -hoo | 
+Not | -ni | John wa-ni-hoo (John is not very handsome)
+
+
+
 In this way, the sentence `John pak Tom` changes to `John paka Tom` i.e. John hit tom in the past. 
 
 This can be modified into the following:
@@ -114,5 +121,13 @@ This converts `John pakiyi Tom` to `John-ai pakiyi Tom-ow` i.e. John (a respecta
 These standardize the means of expression within the human species. 
 
 
+### Vocabulary
+
+Word | Meaning | Reason | Example
+--- | --- |  --- | ---
+ami | general love |  | 
+hah | romantic love | exhalation | `John-ai hah-hoo Mary-ai` (Jonh loves Mary very much)
+wa | beautiful / attractive | awe | `Mary-ai wa-hoo` (Mary is very beautiful)
 
 
+`

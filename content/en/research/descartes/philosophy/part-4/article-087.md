@@ -2,7 +2,7 @@
 title: "Fire Produced from Objects"
 heading: Article 87-91
 weight: 26
-description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
+description: "Violent motion is often found in lightning and whirlwinds. These happen when high clouds fall into lower ones"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -42,13 +42,16 @@ This is the same principle why a ship, not tethered by any ropes, cannot remain 
 
 **This violent motion almost never alone causes fire.** 
 
-It is almost always mixed with air exhalations which easily transform either into flame or, at least, light, as seen in:
+It is almost always mixed with air exhalations [ionized air] which easily transform either into flame or, at least, light, as seen in:
 - will-o'-the-wisps around the Earth
 - lightning in clouds
-- shooting and falling stars in the high air. 
+- shooting and falling stars in the high air.
 
-Exhalations consist of the tiniest particles, divided into many branches. 
-- These wrap around denser particles derived from pungent juices or volatile salts.
+Exhalations consist of the tiniest particles, divided into many branches.
+- These wrap around denser particles derived from pungent juices or volatile salts.*
+
+{{< n n="The exhalations are now called ionized air. The tiniest particles are now called electrons that go with salts. The branches are electrical flow. Here, electricity is sparked when the spacetime particles are removed, the same as fire." >}}
+
 
 These branches are usually so minute and closely-packed that nothing can pass through their interstices except the fire-aether.
 
@@ -61,14 +64,16 @@ But sometimes, these spaces are occupied by particles of another exhalation or s
 
 #### 89. Fire In Lightning and Shooting Stars
 
-In lightning or shooting stars, the cause that compiles multiple exhalations simultaneously becomes apparent due to the descent of one cloud into another.
+In lightning or shooting stars, the descent of one cloud into another compiles multiple exhalations simultaneously.
+
+ <!-- becomes apparent due to  -->
 
 However, in tranquil air, one exhalation can get densified and change to rest due to cold.
 - It is easily penetrated by another exhalation:
   - coming from a warmer place or
   - impelled by a gentle wind
   - consisting of particles more suitable for motion
-- This exhalation rushes into the pores of the resting exhalation. 
+- This exhalation rushes into the pores of the resting exhalation.
   - As a result, it expels particles into the air-aether. 
 
 The particles of the first exhalation are not yet so tightly connected.
@@ -91,9 +96,11 @@ This is similar to that seen in:
 
 The only reason for the light is that the air-aether globules are pushed away by the fire-aether. 
 
-The intervals between many joined terrestrial particles are so narrow that only the fire-aether can fit.
+The intervals between many joined earth-aether particles are so narrow that only the fire-aether can fit.
 
-Even if this fire-aether does not have enough power to separate them, it easily has enough to drive the surrounding air-aether globules away. 
+<!-- terrestrial -->
+
+Even if this fire-aether does not have enough power to separate them, it easily has enough to drive the surrounding air-aether globules away.
 
 I think falling stars are such particles.
 
@@ -111,5 +118,3 @@ When the flexible particles of these drops, mutually entangled, remain together,
 These rigid particles vibrate like little spicules. They easily expel air-aether globules from their vicinity, thus producing light. 
 
 In rotting wood, fish that are beginning to dry, and similar substances, I think light arises solely because, while they are glowing, many passages are so narrow that they admit only the fire-aether.
-
-

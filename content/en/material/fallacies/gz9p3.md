@@ -2,14 +2,13 @@
 title: "A massive interacting galaxy 510 million years after the Big Bang"
 # date: 2015-09-09
 date: 2024-02-27
-weight: 20
+weight: 44
 image: /graphics/physics/geocentric.jpg
 description: "The Europeaans Stuck to the Geocentric Model because of the wrong 5 Elements of the Greeks"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
-draft: true
 ---
 
 

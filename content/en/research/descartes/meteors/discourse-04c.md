@@ -11,7 +11,11 @@ icon: /icons/descartes.png
 ---
 
 
-These general and regular winds would always be as I have just explained, if the surface of the earth were equally covered with water everywhere, or equally uncovered everywhere, so that there would be no diversity of seas, lands, and mountains, nor any other cause that could expand the vapors other than the presence of the sun, or condense them other than its absence.
+These general and regular winds would always be as I have just explained if the earth's surface were:
+- equally covered with water everywhere, or
+- equally uncovered everywhere
+
+In this way, there would be no diversity of seas, lands, and mountains. Nothing could expand the vapors other than the presence of the sun, or condense them other than its absence.
 
 When the sun shines, it causes more vapors to rise from the seas than from the lands because the lands do not provide as much material.
 
@@ -25,7 +29,7 @@ The air touching the surface of the waters follows their course in some way, whi
 
 The vapors rising from the waters are much more humid and thicker than those rising from the lands. 
 
-There is always much more air and exhalations among the latter. Hence, the same storms are usually more violent on the water than on land, and the same wind can be dry in one country and humid in another.
+There is always much more air and exhalations [ionized air] among the latter. Hence, the same storms are usually more violent on the water than on land, and the same wind can be dry in one country and humid in another.
 
 The south winds are humid almost everywhere. But they are dry in Egypt, where only the dry and burnt lands of the rest of Africa provide them with material. 
 
@@ -64,11 +68,23 @@ This south wind, coming only from a nearby lake, can be very humid, whereas if i
 
 And if it is caused only by the expansion of vapors from this lake, without the condensation of any others to the north contributing, it would make our air much thicker and heavier than if it were caused only by this condensation without any vapor expansion to the south.
 
-Adding to this, the subtle matter and vapors in the pores of the earth, taking different courses, act like winds that bring with them exhalations of all kinds, according to the qualities of the lands they pass through. Moreover, as the clouds descend, they can cause a wind that drives the air from top to bottom, as I will explain later. I believe these account for all the causes of the changes in the air that are observed.
+Adding to this, the subtle matter and vapors in the pores of the earth take different courses. 
 
-However, the various shapes of hail are neither curious nor remarkable compared to those of snow, which forms from these small ice knots or clusters arranged by the wind in the shape of leaves, as I have just described. When the heat begins to melt the small hairs of these leaves, it first melts those on the top and bottom because they are the most exposed to its action. 
+They act like winds that bring with them exhalations [ionized air] of all kinds, according to the qualities of the lands they pass through. 
 
-The small amount of liquid that emerges spreads over their surfaces, quickly filling the small irregularities found there, making them as flat and polished as those of liquid bodies. Despite this, the liquid freezes almost immediately, because if the heat is only strong enough to melt these small hairs surrounded by air, without melting anything further, it is not strong enough to prevent the material from refreezing when it is on these ice surfaces.
+Moreover, as the clouds descend, they can cause a wind that drives the air from top to bottom, as I will explain later.
+
+These account for all the causes of the observed changes in the air.
+
+However, the various shapes of hail are neither curious nor remarkable compared to those of snow.
+
+Snow forms from these small ice knots or clusters arranged by the wind in the shape of leaves.
+
+When the heat begins to melt the small hairs of these leaves, it first melts those on the top and bottom because they are the most exposed to its action. 
+
+The small amount of liquid that emerges spreads over their surfaces, quickly filling the small irregularities found there, making them as flat and polished as those of liquid bodies. 
+
+Despite this, the liquid freezes almost immediately, because if the heat is only strong enough to melt these small hairs surrounded by air, without melting anything further, it is not strong enough to prevent the material from refreezing when it is on these ice surfaces.
 
 Afterward, this heat softens and bends the remaining small hairs around each knot in the circuit where it is surrounded by six other similar knots. It causes those hairs, which are farthest from the six neighboring knots, to bend and join with those opposite these six knots.
 

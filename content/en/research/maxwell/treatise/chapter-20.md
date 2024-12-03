@@ -112,7 +112,6 @@ Combining equations (3) and (4), we obtain
 which we may express in the form of three equations as follows―
 
 
-
 (7)
 
 These are the general equations of electromagnetic disturbances.
@@ -205,8 +204,6 @@ O, at the time
 �
 t, is
 
-
-,
 Similarly
 
 

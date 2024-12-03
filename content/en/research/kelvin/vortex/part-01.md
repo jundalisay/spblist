@@ -63,14 +63,15 @@ The following did beautiful investigations on the various thermodynamic properti
 - Clausius
 - Maxwell
 
-They have made positive assumptions as to the mutual forces between two atoms and kinetic energy acquired by individual atoms or molecules, satisfied by vortex rings. 
+They have made positive assumptions as to the mutual forces between 2 atoms and kinetic energy acquired by individual atoms or molecules, satisfied by vortex rings. 
 
 They did not require any other property in the matter whose motion composes them than inertia and incompressible occupation of space. 
 
-A full mathematical investigation of 
- 
+<!-- A full mathematical investigation of  -->
 
-Two vortex rings of any given magnitudes and velocities that pass one another in any two lines creates mutual action between themselves. This makes them never come nearer one another than a large multiple of the diameter of either. This is a perfectly solvable mathematical problem.
+Two vortex rings of any given magnitudes and velocities that pass one another in any two lines creates mutual action between themselves. This makes them never come nearer one another than a large multiple of the diameter of either. 
+
+This is a perfectly solvable mathematical problem.
 
 <!-- The novelty of the circumstances contemplated presents difficulties of an exciting character.  -->
 

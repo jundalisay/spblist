@@ -2,7 +2,7 @@
 title: "Why String Theory is a waste of time"
 date: 2023-05-23
 weight: 2
-image: /photos/sad.jpg
+image: /graphics/physics/history.jpg
 description: "To unify both, physicists invented string theory wherein particles become threads which integrate with the fabric of spacetime."
 writer:
   name: Juan
@@ -21,6 +21,9 @@ Niels Bohr solved it by proposing that the electrons followed pre-defined energy
 
 This led to Quantum Mechanics for small-scale movements which was based on state-change, in line with Descartes' Physics wherein internal state is the source of movement. This is different from Newtonian Physics where external forces are the cause of movement. 
 
+{{< i s="/graphics/physics/history.jpg" a="History" >}}
+
+
 Like Newton, Einstein's General Relativity also believes that movement comes from outside, as external mass that 'warps' spacetime. 
 
 General Relativity, which explains large-scale movements, is thus in opposition to Quantum Mechanics, which explains small-scale movements. 
@@ -29,11 +32,22 @@ To unify both, physicists invented string theory wherein particles become thread
 
 In this way, it uses predefined levels, as "dimensions", like Quantum Mechanics in the small-scale, and the arbitrary warping of spacetime in the large scale.
 
+
+### General Relativity is False
+
 The big problem with this is that General Relativity is a false theory to begin with because it negates the aether by enshrining electromagnetism which is inferior both to the aether and spacetime. 
 
 This makes spacetime arbitrary, leading to make-your-own-spatecimes like Taub-Nut, Godel, DeSitter, etc. 
 
 As a result, General Relativity messes up Quantum Mechanics and renders it forever incomplete. 
+
+
+This is similar to Ptolemy's geocentric theory which also was accurate and was able to predict the measurements of astronomical bodies. However, it started to collapse when it started to make wrong predictions. 
+
+Nowadays, General Relativity also has wrong predictions such as:
+- dark matter, wormholes, and white holes that have never been found
+- dark energy which does not have the same dynamics as gravity
+
 
 String theory is really a Frankenstein theory that creates arbitrary dimensions. This arbitrariness makes it unscientific and untestable.
 
@@ -64,8 +78,6 @@ Instead of arbitrary dimensions, there are 7 dimensions matching the different w
 
 
 <!-- However, Quantum Mechanics this was in disagreement with General Relativity which  
-
-
 
 In "The Quantum Theory Of Line-Spectra", 
 

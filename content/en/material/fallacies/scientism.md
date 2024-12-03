@@ -16,13 +16,15 @@ During the few months that we've been pushing Cartesian-Spinozan Physics to repl
 - the believers in Newton was the need for objectivity and 
 - the believers in Einstein was the need for precision
 
-But the big problem was that the universe is made up of 5 Elements. 
-- Objectivity is only true for matter or the 1st Element (3rd Element to Descartes).
-- Precision is true for electromagnetism or the 3rd Element (1st Element to Descartes) since it as the electroweak has the smallest particles as electrons and neutrinos. 
+But the big problem is that the universe is made up of 5 Elements. 
+- Objectivity is only true for matter (3rd Element to Descartes, Material Layer to Superphysics).
+- Precision is true for electromagnetism (1st Element to Descartes, Radiant Layer to Superphysics) since it as the electroweak has the smallest particles as electrons and neutrinos. 
 
 {{< i s="/graphics/physics/layers.png" a="layers" >}}
 
-The other Elements -- spacetime and aether -- are not objective nor precise. And so the requirements of science naturally keep out the complete knowledge of how the universe works. 
+The other Elements -- **spacetime and aether -- are not objective nor precise**. And so the requirements of science naturally keep out the complete knowledge of how the universe works. 
+
+> Spacetime and the aether are not objective nor precise
 
 Worse, the focus on objectivitiy, which is really a focus on crude matter, goes against the subtle nature of the abstract human mind (soul). Scientists end up using their knowledge to create nuclear bombs or hypersonic missles to destroy other humans more efficiently, just as Wall Street uses scientific models to amass more money, creating worse financial crises.
 
@@ -38,7 +40,7 @@ Instead of demanding objectivity and precision, a superior requirement is for a 
 > A superior requirement is to answer questions about real phenomena conclusively
 
 
-The answer could apply only to a single person who has a unique situation, and therefore subjective. Or it could solve the problem in a general imprecise way. 
+The answer could apply only to a single person who has a unique situation, and therefore be subjective. Or it could solve the problem in a general imprecise way.
 
 The important thing is that the problem is solved conclusively, without creating new problems.* 
 

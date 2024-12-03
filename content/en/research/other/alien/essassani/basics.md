@@ -13,7 +13,7 @@ The Essassani are a 5th dimensional civilization in a parallel reality in the Or
 <!-- Even the Pleiadians look up to the Essassani civilization as being exceptionally spiritually-advanced*. -->
 
 {{< d t="Superphysics Note" >}}
-Superhysics is based on David Hume's maxim that mentality creates reality. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. (We primarily use Essassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Essassani)
+Superphysics is based on David Hume's maxim that **mentality creates reality**. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. (We primarily use Essassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Essassani)
 
 However, no one seems to be keen enough to notice that their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans.
 

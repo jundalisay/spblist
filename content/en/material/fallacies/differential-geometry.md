@@ -1,20 +1,23 @@
 ---
 title: "Differential Geometry is Overrated"
 date: 2024-09-17
-weight: 7
-image: /graphics/physics/jwst.jpg
+weight: 8
+image: /graphics/physics/fabric.jpg
 description: "Data from the James Webb Space Telescope debunks the Big Bang"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
-draft: true
 ---
 
 
-Ever since Einstein introduced the fabric of spacetime in his General Relativity, differential geometry, as arbitrary 3-dimensional shapes, with "manifolds", such as that of Gauss and Riemann have dominated Physics. 
+Ever since Einstein introduced the fabric of spacetime in his General Relativity, differential geometry has dominated Physics.
+- This is made up of arbitrary 3-dimensional shapes and "manifolds", such as that of Gauss and Riemann . 
 
 But this arbitrariness goes against the simplicity of Nature. Even Euclid's Elements is about 2-dimensional shapes instead of 3D ones. And so you have weird maths to describe infinite imaginative variations of spacetime. 
+
+
+{{< i s="/graphics/physics/fabric.jpg" a="Fabric" >}}
 
 It would be better to use 2D slices to describe Riemann Manifolds. Instead of theorizing the entire spacetime (which is impractical anyway), the better process would be:
 
