@@ -14,9 +14,17 @@ Habit is hereditary with plants. Examples are:
 
  <!-- this leads me to say a few words on acclimatisation. As  -->
 
-It is extremely common for species of the same genus to inhabit very hot and very cold countries, and as I believe that all the species of the same genus have descended from a single parent, if this view be correct, acclimatisation must be readily effected during long- continued descent. It is notorious that each species is adapted to the climate of its own home: species from an arctic or even from a temperate region cannot endure a tropical climate, or conversely.
+It is extremely common for species of the same genus to inhabit very hot and very cold countries.
 
-So again, many succulent plants cannot endure a damp climate. But the degree of adaptation of species to the climates under which they live is often overrated. We may infer this from our frequent inability to predict whether or not an imported plant will endure our climate, and from the number of plants and animals brought from warmer countries which here enjoy good health. We have reason to believe that species in a state of nature are limited in their ranges by thecompetition of other organic beings quite as much as, or more than, by adaptation to particular climates. But whether or not the adaptation be generally very close, we have evidence, in the case of some few plants, of their becoming, to a certain extent, naturally habituated to different temperatures, or becoming acclimatised: thus the pines and rhododendrons, raised from seed collected by Dr. Hooker from trees growing at different heights on the Himalaya, were found in this country to possess different constitutional powers of resisting cold.
+I believe that all the species of the same genus have descended from a single parent.
+
+Acclimatisation must be readily effected during long-continued descent.
+
+It is notorious that each species is adapted to the climate of its own home: species from an arctic or even from a temperate region cannot endure a tropical climate, or conversely.
+
+So again, many succulent plants cannot endure a damp climate.
+
+But the degree of adaptation of species to the climates under which they live is often overrated. We may infer this from our frequent inability to predict whether or not an imported plant will endure our climate, and from the number of plants and animals brought from warmer countries which here enjoy good health. We have reason to believe that species in a state of nature are limited in their ranges by thecompetition of other organic beings quite as much as, or more than, by adaptation to particular climates. But whether or not the adaptation be generally very close, we have evidence, in the case of some few plants, of their becoming, to a certain extent, naturally habituated to different temperatures, or becoming acclimatised: thus the pines and rhododendrons, raised from seed collected by Dr. Hooker from trees growing at different heights on the Himalaya, were found in this country to possess different constitutional powers of resisting cold.
 
 Mr. Thwaites informs me that he has observed similar facts in Ceylon, and analogous observations have been made by Mr. H. C. Watson on European species of plants brought from the Azores to England. In regard to animals, several authentic cases could be given of species within historical times having largely extended their range from warmer to cooler latitudes, and conversely; but we do not positively know that these animals were strictly adapted to their native climate, but in all ordinary cases we assume such to be the case; nor do we know that they have subsequently become acclimatised to their new homes.
 
@@ -27,6 +35,7 @@ The rat and mouse cannot be considered as domestic animals, but they have been t
 How much of the acclimatisation of species to any peculiar climate is due to mere habit, and how much to the natural selection of varieties having different innate constitutions, and how much to both means combined, is a very obscure question. That habit or custom has some influence I must believe, both from analogy, and from the incessant advice given in agricultural works, even in the ancient Encyclopaedias of China, to be very cautious in transposing animals from one district to another; for it is not likely that man should have succeeded in selecting so many breeds and sub- breeds with constitutions specially fitted for their own districts: the result must, I think, be due to habit. On the other hand, I can see no reason to doubt that natural selection will continually tend to preserve those individuals which are born with constitutions best adapted to their native countries. In treatises on many kinds of cultivated plants, certain varieties are said to withstand certain climates better than others: this is very strikingly shown in works on fruit trees published in the United States, in which certain varieties are habitually recommended for the northern, and others for the southern States; and as most of these varieties are of recent origin, they cannot owe theirconstitutional differences to habit.
 
 The case of the Jerusalem artichoke, which is never propagated by seed, and of which consequently new varieties have not been produced, has even been advanced--for it is now as tender as ever it was--as proving that acclimatisation cannot be effected! The case, also, of the kidney-bean has been often cited for a similar purpose, and with much greater weight; but until some one will sow, during a score of generations, his kidney-beans so early that a very large proportion are destroyed by frost, and then collect seed from the few survivors, with care to prevent accidental crosses, and then again get seed from these seedlings, with the same precautions, the experiment cannot be said to have been even tried. Nor let it be supposed that no differences in the constitution of seedling kidney-beans ever appear, for an account has been published how much more hardy some seedlings appeared to be than others. On the whole, I think we may conclude that habit, use, and disuse, have, in some cases, played a considerable part in the modification of the constitution, and of the structure of various organs; but that the effects of use and disuse have often been largely combined with, and sometimes overmastered by, the natural selection of innate differences.
+
 
 ### Correlation of Growth
 
@@ -77,61 +86,19 @@ I shall, in my future work, give a list of the more remarkable cases; I will her
 
 As birds within the same country vary in a remarkably small degree, I have particularly attended to them, and the rule seems to me certainly to hold good in this class. I cannot make out that it applies to plants, and this would seriously have shaken my belief in its truth, had not the great variability in plants made it particularly difficult to compare their relative degrees of variability. When we see any part or organ developed in a remarkable degree or manner in any species, the fair presumption is that it is of high importance to that species; nevertheless the part in this case is eminently liable to variation. Why should this be so?
 
-On the view that each species has been
-independently created, with all its parts as we now see them, I can see no explanation. But on the
-view that groups of species have descended from other species, and have been modified through
-natural selection, I think we can obtain some light. In our domestic animals, if any part, or the
-whole animal, be neglected and no selection be applied, that part (for instance, the comb in the
-Dorking fowl) or the whole breed will cease to have a nearly uniform character. 
+On the view that each species has been independently created, with all its parts as we now see them, I can see no explanation. But on the view that groups of species have descended from other species, and have been modified through natural selection, I think we can obtain some light. In our domestic animals, if any part, or the whole animal, be neglected and no selection be applied, that part (for instance, the comb in the Dorking fowl) or the whole breed will cease to have a nearly uniform character.
 
-The breed will
-then be said to have degenerated. In rudimentary organs, and in those which have been but little
-specialised for any particular purpose, and perhaps in polymorphic groups, we see a nearly parallel
-natural case; for in such cases natural selection either has not or cannot come into full play, and
-thus the organisation is left in a fluctuating condition. But what here more especially concerns us
-is, that in our domestic animals those points, which at the present time are undergoing rapid change
-by continued selection, are also eminently liable to variation. Look at the breeds of the pigeon; see
-what a prodigious amount of difference there is in the beak of the different tumblers, in the beak
-and wattle of the different carriers, in the carriage and tail of our fantails, &c., these being the
-points now mainly attended to by English fanciers. Even in the sub-breeds, as in the short-faced
-tumbler, it is notoriously difficult to breed them nearly to perfection, and frequently individuals are
-born which depart widely from the standard. 
+The breed will then be said to have degenerated. In rudimentary organs, and in those which have been but little specialised for any particular purpose, and perhaps in polymorphic groups, we see a nearly parallel natural case; for in such cases natural selection either has not or cannot come into full play, and thus the organisation is left in a fluctuating condition.
 
-There may be truly said to be a constant struggle
-going on between, on the one hand, the tendency to reversion to a less modified state, as well as an
-innate tendency to further variability of all kinds, and, on the other hand, the power of steady
-selection to keep the breed true. In the long run selection gains the day, and we do not expect to
-fail so far as to breed a bird as coarse as a common tumbler from a good short-faced strain. But as
-long as selection is rapidly going on, there may always be expected to be much variability in the
-structure undergoing modification. It further deserves notice that these variable characters,
-produced by man's selection, sometimes become attached, from causes quite unknown to us, more
-to one sex than to the other, generally to the male sex, as with the wattle of carriers and the
-enlarged crop of pouters.
+But what here more especially concerns us is, that in our domestic animals those points, which at the present time are undergoing rapid change by continued selection, are also eminently liable to variation. Look at the breeds of the pigeon; see what a prodigious amount of difference there is in the beak of the different tumblers, in the beak and wattle of the different carriers, in the carriage and tail of our fantails, &c., these being the points now mainly attended to by English fanciers. Even in the sub-breeds, as in the short-faced tumbler, it is notoriously difficult to breed them nearly to perfection, and frequently individuals are born which depart widely from the standard.
+
+There may be truly said to be a constant struggle going on between, on the one hand, the tendency to reversion to a less modified state, as well as an innate tendency to further variability of all kinds, and, on the other hand, the power of steady selection to keep the breed true. In the long run selection gains the day, and we do not expect to fail so far as to breed a bird as coarse as a common tumbler from a good short-faced strain. But as long as selection is rapidly going on, there may always be expected to be much variability in the structure undergoing modification. It further deserves notice that these variable characters, produced by man's selection, sometimes become attached, from causes quite unknown to us, more to one sex than to the other, generally to the male sex, as with the wattle of carriers and the enlarged crop of pouters.
 
  Now let us turn to nature. When a part has been developed in an extraordinary manner in any one species, compared with the other species of the same genus, we may conclude that this part has undergone an extraordinary amount of modification, since the period when the species branched offfrom the common progenitor of the genus. This period will seldom be remote in any extreme degree, as species very rarely endure for more than one geological period. An extraordinary amount of modification implies an unusually large and long-continued amount of variability, which has continually been accumulated by natural selection for the benefit of the species. But as the variability of the extraordinarily-developed part or organ has been so great and long-continued within a period not excessively remote, we might, as a general rule, expect still to find more variability in such parts than in other parts of the organisation, which have remained for a much longer period nearly constant.
 
 This is the case. That the struggle between natural selection on the one hand, and the tendency to reversion and variability on the other hand, will in the course of time cease; and that the most abnormally developed organs may be made constant, I can see no reason to doubt. Hence when an organ, however abnormal it may be, has been transmitted in approximately the same condition to many modified descendants, as in the case of the wing of the bat, it must have existed, according to my theory, for an immense period in nearly the same state; and thus it comes to be no more variable than any other structure. It is only in those cases in which the modification has been comparatively recent and extraordinarily great that we ought to find the generative variability, as it may be called, still present in a high degree. For in this case the variability will seldom as yet have been fixed by the continued selection of the individuals varying in the required manner and degree, and by the continued rejection of those tending to revert to a former and less modified condition.
 
-The principle included in these remarks may be extended. It is notorious that specific characters
-are more variable than generic. To explain by a simple example what is meant. If some species in
-a large genus of plants had blue flowers and some had red, the colour would be only a specific
-character, and no one would be surprised at one of the blue species varying into red, or conversely;
-but if all the species had blue flowers, the colour would become a generic character, and its
-variation would be a more unusual circumstance. I have chosen this example because an
-explanation is not in this case applicable, which most naturalists would advance, namely, that
-specific characters are more variable than generic, because they are taken from parts of less
-physiological importance than those commonly used for classing genera. I believe this explanation
-is partly, yet only indirectly, true; I shall, however, have to return to this subject in our chapter on
-Classification.
+The principle included in these remarks may be extended. It is notorious that specific characters are more variable than generic. To explain by a simple example what is meant. If some species in a large genus of plants had blue flowers and some had red, the colour would be only a specific character, and no one would be surprised at one of the blue species varying into red, or conversely; but if all the species had blue flowers, the colour would become a generic character, and its variation would be a more unusual circumstance. I have chosen this example because an explanation is not in this case applicable, which most naturalists would advance, namely, that specific characters are more variable than generic, because they are taken from parts of less physiological importance than those commonly used for classing genera. I believe this explanation is partly, yet only indirectly, true; I shall, however, have to return to this subject in our chapter on Classification.
 
-It would be almost superfluous to adduce evidence in support of the above
-statement, that specific characters are more variable than generic; but I have repeatedly noticed in
-works on natural history, that when an author has remarked with surprise that some important organ
-or part, which is generally very constant throughout large groups of species, has differed
-considerably in closely-allied species, that it has, also, been variable in the individuals of some of
-the species. And this fact shows that a character, which is generally of generic value, when it sinks
-in value and becomes only of specific value, often becomes variable, though its physiological
-importance may remain the same. Something of the same kind applies to monstrosities: at least Is.
-Geoffroy St. Hilaire seems to entertain no doubt, that the more an organ normally differs in the
-different species of the same group, the more subject it is to individual anomalies.
+It would be almost superfluous to adduce evidence in support of the above statement, that specific characters are more variable than generic; but I have repeatedly noticed in works on natural history, that when an author has remarked with surprise that some important organ or part, which is generally very constant throughout large groups of species, has differed considerably in closely-allied species, that it has, also, been variable in the individuals of some of the species. And this fact shows that a character, which is generally of generic value, when it sinks in value and becomes only of specific value, often becomes variable, though its physiological importance may remain the same. Something of the same kind applies to monstrosities: at least Is. Geoffroy St. Hilaire seems to entertain no doubt, that the more an organ normally differs in the different species of the same group, the more subject it is to individual anomalies.
 

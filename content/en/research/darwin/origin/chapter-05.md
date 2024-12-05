@@ -1,7 +1,6 @@
 ---
-title: Laws of VariationEffects of external conditions
+title: Laws of Variation
 heading: Chapter 5
-# First Meditation
 weight: 30
 description: "I have hitherto sometimes spoken as if the variations--so common and multiform in organic beings under domestication, and in a lesser degree in those in a state of nature--had been due to chance"
 image: "/covers/origin.jpg"
@@ -14,17 +13,55 @@ developed in an unusual manner are highly variable: specific characters more var
 secondary sexual characters variable -- Species of the same genus vary in an analogous manner --
 Reversions to long lost characters -- Summary. -->
 
-I have hitherto sometimes spoken as if the variations--so common and multiform in organic beings under domestication, and in a lesser degree in those in a state of nature--had been due to chance. 
+The variations are:
+- so common and multiform in organic domesticed beings
+- less common in undomesticated ones
 
-This, of course, is a wholly incorrect expression, but it serves to acknowledge plainly our ignorance of the cause of each particular variation. Some authors believe it to be as much the function of the reproductive system to produce individual differences, or very slight deviations of structure, as to make the child like its parents. But the much greater variability, as well as the greater frequency of monstrosities, under domestication or cultivation, than under nature, leads me to believe that deviations of structure are in some way due to the nature of the conditions of life, to which the parents and their more remote ancestors have been exposed during several generations. 
+These did not happen all by chance. 
 
-I have remarked in the first chapter--but a long catalogue of facts which cannot be here given would be necessary to show the truth of the remark--that the reproductive system is eminently susceptible to changes in the conditions of life; and to this system being functionally disturbed in the parents, I chiefly attribute the varying or plastic condition of the offspring. The male and female sexual elements seem to be affected before that union takes place which is to form a new being. In the case of 'sporting' plants, the bud, which in its earliest condition does not apparently differ essentially from an ovule, is alone affected. But why, because the reproductive system is disturbed, this or that part should vary more or less, we are profoundly ignorant. Nevertheless, we can here and there dimly catch a faint ray of light, and we may feel sure that there must be some cause for each deviation of structure, however slight.
+Some authors believe variation to be the function of the reproductive system to produce individual differences as to make the child like its parents.
 
-How much direct effect difference of climate, food, &c., produces on any being is extremely doubtful. My impression is, that the effect is extremely small in the case of animals, but perhaps rather more in that of plants. We may, at least, safely conclude that such influences cannot have produced the many striking and complex co-adaptations of structure between one organic being and another, which we see everywhere throughout nature. Some little influence may be attributed to climate, food, &c.: thus, E. Forbes speaks confidently that shells at their southern limit, and when living in shallow water, are more brightly coloured than those of the same species further north or from greater depths. Gould believes that birds of the same species are more brightly coloured under a clear atmosphere, than when living on islands or near the coast. So with insects, Wollaston is convinced that residence near the sea affects their colours. Moquin-Tandon gives a list of plants which when growing near the sea-shore have their leaves in some degree fleshy, though not elsewhere fleshy. Several other such cases could be given.
+I think that the deviations of structure are due to the nature of the conditions of life to which the parents and ancestors have been exposed to. This is because of:
+- the much greater variability
+- the greater frequency of monstrosities under domestication than under nature
 
-The fact of varieties of one species, when they range into the zone of habitation of other species, often acquiring in a very slight degree some of the characters of such species, accords with our view that species of all kinds are only well-marked and permanent varieties. Thus the species of shells which are confined to tropical and shallow seas are generally brighter-coloured than those confined to cold and deeper seas. The birds which are confined to continents are, according to Mr. Gould, brighter-coloured than those of islands. The insect-species confined to sea-coasts, as every collector knows, are often brassy or lurid. Plants which live exclusively on the sea-side are veryapt to have fleshy leaves. He who believes in the creation of each species, will have to say that this shell, for instance, was created with bright colours for a warm sea; but that this other shell became bright-coloured by variation when it ranged into warmer or shallower waters. When a variation is of the slightest use to a being, we cannot tell how much of it to attribute to the accumulative action of natural selection, and how much to the conditions of life. Thus, it is well known to furriers that animals of the same species have thicker and better fur the more severe the climate is under which they have lived; but who can tell how much of this difference may be due to the warmest-clad individuals having been favoured and preserved during many generations, and how much to the direct action of the severe climate? for it would appear that climate has some direct action on the hair of our domestic quadrupeds.
+I have remarked in the first chapter--but a long catalogue of facts which cannot be here given would be necessary to show the truth of the remark--that 
 
-Instances could be given of the same variety being produced under conditions of life as different as can well be conceived; and, on the other hand, of different varieties being produced from the same species under the same conditions. Such facts show how indirectly the conditions of life must act. Again, innumerable instances are known to every naturalist of species keeping true, or not varying at all, although living under the most opposite climates. Such considerations as these incline me to lay very little weight on the direct action of the conditions of life. Indirectly, as already remarked, they seem to play an important part in affecting the reproductive system, and in thus inducing variability; and natural selection will then accumulate all profitable variations, however slight, until they become plainly developed and appreciable by us.
+The reproductive system is susceptible to changes in the conditions of life.
+
+The varying or plastic condition of the offspring is due to this system being functionally disturbed in the parents.
+
+The male and female sexual elements are affected before that union takes place which is to form a new being.
+
+In the case of 'sporting' plants, the bud, which in its earliest condition does not apparently differ essentially from an ovule, is alone affected. 
+
+But why, because the reproductive system is disturbed, this or that part should vary more or less, we are profoundly ignorant.
+
+Nevertheless, we can here and there dimly catch a faint ray of light, and we may feel sure that there must be some cause for each deviation of structure, however slight.
+
+How much direct effect difference of climate, food, &c., produces on any being is extremely doubtful. My impression is, that the effect is extremely small in the case of animals, but perhaps rather more in that of plants.
+
+Such influences cannot have produced the many striking and complex co-adaptations of structure between one organic being and another, which we see everywhere throughout nature.
+
+Some little influence may be attributed to climate, food, &c.
+
+This is why E. Forbes speaks confidently that shells at their southern limit, and when living in shallow water, are more brightly coloured than those of the same species further north or from greater depths.
+
+Gould believes that birds of the same species are more brightly coloured under a clear atmosphere, than when living on islands or near the coast. So with insects, Wollaston is convinced that residence near the sea affects their colours. 
+
+Moquin-Tandon gives a list of plants which when growing near the sea-shore have their leaves in some degree fleshy, though not elsewhere fleshy. Several other such cases could be given.
+
+The fact of varieties of one species, when they range into the zone of habitation of other species, often acquiring in a very slight degree some of the characters of such species, accords with our view that species of all kinds are only well-marked and permanent varieties.
+
+Thus the species of shells which are confined to tropical and shallow seas are generally brighter-coloured than those confined to cold and deeper seas. The birds which are confined to continents are, according to Mr. Gould, brighter-coloured than those of islands. 
+
+The insect-species confined to sea-coasts, as every collector knows, are often brassy or lurid. Plants which live exclusively on the sea-side are veryapt to have fleshy leaves. He who believes in the creation of each species, will have to say that this shell, for instance, was created with bright colours for a warm sea; but that this other shell became bright-coloured by variation when it ranged into warmer or shallower waters. When a variation is of the slightest use to a being, we cannot tell how much of it to attribute to the accumulative action of natural selection, and how much to the conditions of life.
+
+Thus, it is well known to furriers that animals of the same species have thicker and better fur the more severe the climate is under which they have lived; but who can tell how much of this difference may be due to the warmest-clad individuals having been favoured and preserved during many generations, and how much to the direct action of the severe climate? for it would appear that climate has some direct action on the hair of our domestic quadrupeds.
+
+Instances could be given of the same variety being produced under conditions of life as different as can well be conceived; and, on the other hand, of different varieties being produced from the same species under the same conditions. 
+
+Such facts show how indirectly the conditions of life must act. Again, innumerable instances are known to every naturalist of species keeping true, or not varying at all, although living under the most opposite climates. Such considerations as these incline me to lay very little weight on the direct action of the conditions of life. Indirectly, as already remarked, they seem to play an important part in affecting the reproductive system, and in thus inducing variability; and natural selection will then accumulate all profitable variations, however slight, until they become plainly developed and appreciable by us.
 
 Effects of Use and Disuse. -- From the facts alluded to in the first chapter, I think there can be little doubt that use in our domestic animals strengthens and enlarges certain parts, and disuse diminishes them; and that such modifications are inherited. Under free nature, we can have no standard of comparison, by which to judge of the effects of long-continued use or disuse, for we know not the parent-forms; but many animals have structures which can be explained by the effects of disuse. As Professor Owen has remarked, there is no greater anomaly in nature than a bird that cannot fly; yet there are several in this state. The logger-headed duck of South America can only flap along the surface of the water, and has its wings in nearly the same condition as the domestic Aylesbury duck. As the larger ground-feeding birds seldom take flight except to escape danger, I believe that the nearly wingless condition of several birds, which now inhabit or have lately inhabited several oceanic islands, tenanted by no beast of prey, has been caused by disuse. The ostrich indeed inhabits continents and is exposed to danger from which it cannot escape by flight, but by kicking it can defend itself from enemies, as well as any of the smaller quadrupeds. We may imagine that the early progenitor of the ostrich had habits like those of a bustard, and that as natural selection increased in successive generations the size and weight of its body, its legs were used more, and its wings less, until they became incapable of flight.
 

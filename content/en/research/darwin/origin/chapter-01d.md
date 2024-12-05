@@ -1,46 +1,130 @@
 ---
-title: Variation under Domestication
-heading: Chapter 1d
+title: The Breeds of the Domestic Pigeon
+heading: Chapter 1b
 # First Meditation
-weight: 10
+weight: 6
 description: ""
 image: "/covers/origin.jpg"
 ---
 
 
-On the view here given of the all-important part which selection by man has played, it becomes at once obvious, how it is that our domestic races show adaptation in their structure or in their habits to man's wants or fancies. We can, I think, further understand the frequently abnormal character ofour domestic races, and likewise their differences being so great in external characters and relatively so slight in internal parts or organs. Man can hardly select, or only with much difficulty, any deviation of structure excepting such as is externally visible; and indeed he rarely cares for what is internal.
+<!-- Believing that it is always best to study some special group, I have, after deliberation, taken up domestic pigeons. I have kept every breed which I could purchase or obtain, and have been most kindly favoured with skins from several quarters of the world, more especially by the Hon. W. Elliot from India, and by the Hon. C. Murray from Persia. -->
 
-He can never act by selection, excepting on variations which are first given to him in some slight degree by nature. No man would ever try to make a fantail, till he saw a pigeon with a tail developed in some slight degree in an unusual manner, or a pouter till he saw a pigeon with a crop of somewhat unusual size; and the more abnormal or unusual any character was when it first appeared, the more likely it would be to catch his attention. 
+Many treatises in different languages have been published on pigeons.
 
-But to use such an expression as trying to make a fantail, is, I have no doubt, in most cases, utterly incorrect. The man who first selected a pigeon with a slightly larger tail, never dreamed what the descendants of that pigeon would become through long-continued, partly unconscious and partly methodical selection. Perhaps the parent bird of all fantails had only fourteen tail-feathers somewhat expanded, like the present Java fantail, or like individuals of other and distinct breeds, in which as many as seventeen tail-feathers have been counted. Perhaps the first pouter-pigeon did not inflate its crop much more than the turbit now does the upper part of its oesophagus,--a habit which is disregarded by all fanciers, as it is not one of the points of the breed.
+ <!-- and some of them are very important, as being of considerably antiquity. I have associated with several eminent fanciers, and have been permitted to join two of the London Pigeon Clubs. The diversity of the breeds is something astonishing. Compare -->
 
-Nor let it be thought that some great deviation of structure would be necessary to catch the fancier's eye: he perceives extremely small differences, and it is in human nature to value any novelty, however slight, in one's own possession. Nor must the value which would formerly be set on any slight differences in the individuals of the same species, be judged of by the value which would now be set on them, after several breeds have once fairly been established.
+The English carrier and the short-faced tumbler have different beaks showing corresponding differences in their skulls.
 
-Many slight differences might, and indeed do now, arise amongst pigeons, which are rejected as faults or deviations from the standard of perfection of each breed. The common goose has not given rise to any marked varieties; hence the Thoulouse and the common breed, which differ only in colour, that most fleeting of characters, have lately been exhibited as distinct at our poultry-shows. I think these views further explain what has sometimes been noticed--namely that we know nothing about the origin or history of any of our domestic breeds. But, in fact, a breed, like a dialect of a language, can hardly be said to have had a definite origin.
+The male carrier has:
+- carunculated skin about the head.
+- greatly elongated eyelids
+- very large external orifices to the nostrils
+- wide gape of mouth.
 
-A man preserves and breeds from an individual with some slight deviation of structure, or takes more care than usual in matching his best animals and thus improves them, and the improved individuals slowly spread in the immediate neighbourhood. But as yet they will hardly have a distinct name, and from being only slightly valued, their history will be disregarded. When further improved by the same slow and gradual process, they will spread more widely, and will get recognised as something distinct and valuable, and will then probably first receive a provincial name. 
+The short-faced tumbler has:
+- a beak in outline almost like that of a finch
 
-In semi-civilised countries, with little free communication, the spreading and knowledge of any new sub-breed will be a slow process. As soon as the points of value of the new sub-breed are once fully acknowledged, the principle, as I have called it, of unconscious selection will always tend,--perhaps more at one period than at another, as the breed rises or falls in fashion,--perhaps more in one district than in another, according to the state of civilisation of the inhabitants--slowly to add to the characteristic features of the breed, whatever they may be. But the chance will be infinitely small of any record having been preserved of such slow, varying, and insensible changes.
+The common tumbler has the singular and strictly inherited habit of flying at a great height in a compact flock, and tumbling in the air head over heels.
 
-I must now say a few words on the circumstances, favourable, or the reverse, to man's power of selection. A high degree of variability is obviously favourable, as freely giving the materials for selection to work on; not that mere individual differences are not amply sufficient, with extremecare, to allow of the accumulation of a large amount of modification in almost any desired direction. 
+The runt is a bird of great size, with long, massive beak and large feet. 
 
-But as variations manifestly useful or pleasing to man appear only occasionally, the chance of their appearance will be much increased by a large number of individuals being kept; and hence this comes to be of the highest importance to success. On this principle Marshall has remarked, with respect to the sheep of parts of Yorkshire, that 'as they generally belong to poor people, and are mostly in small lots, they never can be improved.' On the other hand, nurserymen, from raising large stocks of the same plants, are generally far more successful than amateurs in getting new and valuable varieties. The keeping of a large number of individuals of a species in any country requires that the species should be placed under favourable conditions of life, so as to breed freely in that country.
+Some of the sub-breeds of runts have very long necks, others very long wings and tails, others singularly short tails.
 
-When the individuals of any species are scanty, all the individuals, whatever their quality may be, will generally be allowed to breed, and this will effectually prevent selection. But probably the most important point of all, is, that the animal or plant should be so highly useful to man, or so much valued by him, that the closest attention should be paid to even the slightest deviation in the qualities or structure of each individual.
+The barb is allied to the carrier, but, instead of a very long beak, has a very short and very broad one. The pouter has a much elongated body, wings, and legs; and its enormously developed crop, which it glories in inflating, may well excite astonishment and even laughter. 
 
-Unless such attention be paid nothing can be effected. I have seen it gravely remarked, that it was most fortunate that the strawberry began to vary just when gardeners began to attend closely to this plant. No doubt the strawberry had always varied since it was cultivated, but the slight varieties had been neglected. As soon, however, as gardeners picked out individual plants with slightly larger, earlier, or better fruit, and raised seedlings from them, and again picked out the best seedlings and bred from them, then, there appeared (aided by some crossing with distinct species) those many admirable varieties of the strawberry which have been raised during the last thirty or forty years.
+The turbit has a very short and conical beak, with a line of reversed feathers down the breast; and it has the habit of continually expanding slightly the upper part of the oesophagus. The Jacobin has the feathers so much reversed along the back of the neck that they form a hood, and it has, proportionally to its size, much elongated wing and tail feathers.
 
-In the case of animals with separate sexes, facility in preventing crosses is an important element of success in the formation of new races,--at least, in a country which is already stocked with other races. In this respect enclosure of the land plays a part. Wandering savages or the inhabitants of open plains rarely possess more than one breed of the same species. Pigeons can be mated for life, and this is a great convenience to the fancier, for thus many races may be kept true, though mingled in the same aviary; and this circumstance must have largely favoured the improvement and formation of new breeds. Pigeons, I may add, can be propagated in great numbers and at a very quick rate, and inferior birds may be freely rejected, as when killed they serve for food.
+The trumpeter and laugher, as their names express, utter a very different coo from the other breeds. The fantail has thirty or even forty tail-feathers, instead of twelve or fourteen, the normal number in all members of the great pigeon family; and these feathers are kept expanded, and are carried so erect that in good birds the head and tail touch; the oil-gland is quite aborted. Several other less distinct breeds might have been specified.
 
-On the other hand, cats, from their nocturnal rambling habits, cannot be matched, and, although so much valued by women and children, we hardly ever see a distinct breed kept up; such breeds as we do sometimes see are almost always imported from some other country, often from islands.
+In the skeletons of the several breeds, the development of the bones of the face in length and breadth and curvature differs enormously. The shape, as well as the breadth and length of the ramus of the lower jaw, varies in a highly remarkable manner.
 
-Although I do not doubt that some domestic animals vary less than others, yet the rarity or absence of distinct breeds of the cat, the donkey, peacock, goose, &c., may be attributed in main part to selection not having been brought into play: in cats, from the difficulty in pairing them; in donkeys, from only a few being kept by poor people, and little attention paid to their breeding; in peacocks, from not being very easily reared and a large stock not kept; in geese, from being valuable only for two purposes, food and feathers, and more especially from no pleasure having been felt in the display of distinct breeds.
+The number of the caudal and sacral vertebrae vary; as does the number of the ribs, together with their relative breadth and the presence of processes. 
 
-To sum up on the origin of our Domestic Races of animals and plants. I believe that the conditions of life, from their action on the reproductive system, are so far of the highest importance as causing variability. I do not believe that variability is an inherent and necessary contingency, under all circumstances, with all organic beings, as some authors have thought. The effects of variability are modified by various degrees of inheritance and of reversion. Variability is governed by many unknown laws, more especially by that of correlation of growth. Something may be attributed tothe direct action of the conditions of life.
+The size and shape of the apertures in the sternum are highly variable; so is the degree of divergence and relative size of the two arms of the furcula. The proportional width of the gape of mouth, the proportional length of the eyelids, of the orifice of the nostrils, of the tongue (not always in strict correlation with the length of beak), the size of the crop and of the upper part of the oesophagus; the development and abortion of the oil-gland; the number of the primary wing and caudal feathers; the relative length of wing and tail to each other and to the body; the relative length of leg and of the feet; the number of scutellae on the toes, the development of skin between the toes, are all points of structure which are variable.
 
-Something must be attributed to use and disuse. The final result is thus rendered infinitely complex. In some cases, I do not doubt that the intercrossing of species, aboriginally distinct, has played an important part in the origin of our domestic productions. 
+The period at which the perfect plumage is acquired varies, as does the state of the down with which the nestling birds are clothed when hatched. The shape and size of the eggs vary. The manner of flight differs remarkably; as does in some breeds the voice and disposition. Lastly, in certain breeds, the males and females have come to differ to a slight degree from each other.
 
-When in any country several domestic breeds have once been established, their occasional intercrossing, with the aid of selection, has, no doubt, largely aided in the formation of new sub-breeds; but the importance of the crossing of varieties has, I believe, been greatly exaggerated, both in regard to animals and to those plants which are propagated by seed. 
+Altogether at least a score of pigeons might be chosen, which if shown to an ornithologist, and he were told that they were wild birds, would certainly, I think, be ranked by him as well-defined species. Moreover, I do not believe that any ornithologist would place the English carrier, the short-faced tumbler, the runt, the barb, pouter, and fantail in the same genus; more especially as in each of these breeds several truly-inherited sub-breeds, or species as he might have called them, could be shown him.
 
-In plants which are temporarily propagated by cuttings, buds, &c., the importance of the crossing both of distinct species and of varieties is immense; for the cultivator here quite disregards the extreme variability both of hybrids and mongrels, and the frequent sterility of hybrids; but the cases of plants not propagated by seed are of little importance to us, for their endurance is only temporary. Over all these causes of Change I am convinced that the accumulative action of Selection, whether applied methodically and more quickly, or unconsciously and more slowly, but more efficiently, is by far the predominant Power.
+Great as the differences are between the breeds of pigeons, I am fully convinced that the common
+opinion of naturalists is correct, namely, that all have descended from the rock-pigeon (Columba
+livia), including under this term several geographical races or sub-species, which differ from eachother in the most trifling respects. As several of the reasons which have led me to this belief are in
+some degree applicable in other cases, I will here briefly give them. 
 
+If the several breeds are not varieties, and have not proceeded from the rock-pigeon, they must have descended from at least seven or eight aboriginal stocks; for it is impossible to make the present domestic breeds by the crossing of any lesser number: how, for instance, could a pouter be produced by crossing two breeds unless one of the parent-stocks possessed the characteristic enormous crop? The supposed aboriginal stocks must all have been rock-pigeons, that is, not breeding or willingly perching on trees. But besides C. livia, with its geographical sub-species, only two or three other species of rock-pigeons are known; and these have not any of the characters of the domestic breeds. 
+
+Hence the supposed aboriginal stocks must either still exist in the countries where they were originally domesticated, and yet be unknown to ornithologists; and this, considering their size, habits, and remarkable characters, seems very improbable; or they must have become extinct in the wild state. But birds breeding on precipices, and good fliers, are unlikely to be exterminated; and the common rock-pigeon, which has the same habits with the domestic breeds, has not been exterminated even on several of the smaller British islets, or on the shores of the Mediterranean. Hence the supposed extermination of so many species having similar habits with the rock-pigeon seems to me a very rash assumption.
+
+Moreover, the several above-named domesticated breeds have been transported
+to all parts of the world, and, therefore, some of them must have been carried back again into their
+native country; but not one has ever become wild or feral, though the dovecot-pigeon, which is the
+rock-pigeon in a very slightly altered state, has become feral in several places. Again, all recent
+experience shows that it is most difficult to get any wild animal to breed freely under
+domestication; yet on the hypothesis of the multiple origin of our pigeons, it must be assumed that
+at least seven or eight species were so thoroughly domesticated in ancient times by half-civilized
+man, as to be quite prolific under confinement.
+
+An argument, as it seems to me, of great weight, and applicable in several other cases, is, that the
+above-specified breeds, though agreeing generally in constitution, habits, voice, colouring, and in
+most parts of their structure, with the wild rock-pigeon, yet are certainly highly abnormal in other
+parts of their structure: we may look in vain throughout the whole great family of Columbidae for
+a beak like that of the English carrier, or that of the short-faced tumbler, or barb; for reversed
+feathers like those of the jacobin; for a crop like that of the pouter; for tail-feathers like those of the
+fantail. Hence it must be assumed not only that half-civilized man succeeded in thoroughly
+domesticating several species, but that he intentionally or by chance picked out extraordinarily
+abnormal species; and further, that these very species have since all become extinct or unknown.
+So many strange contingencies seem to me improbable in the highest degree.
+
+Some facts in regard to the colouring of pigeons well deserve consideration. The rock-pigeon is of a slaty-blue, and has a white rump (the Indian sub-species, C. intermedia of Strickland, having it bluish); the tail has a terminal dark bar, with the bases of the outer feathers externally edged with white; the wings have two black bars; some semi-domestic breeds and some apparently truly wild breeds have, besides the two black bars, the wings chequered with black. 
+
+These several marks do not occur together in any other species of the whole family. Now, in every one of the domestic breeds, taking thoroughly well-bred birds, all the above marks, even to the white edging of the outer tail-feathers, sometimes concur perfectly developed. Moreover, when two birds belonging to two distinct breeds are crossed, neither of which is blue or has any of the above-specified marks, the mongrel offspring are very apt suddenly to acquire these characters; for instance, I crossed some uniformly white fantails with some uniformly black barbs, and they produced mottled brownand black birds; these I again crossed together, and one grandchild of the pure white fantail and pure black barb was of as beautiful a blue colour, with the white rump, double black wing-bar, and barred and white-edged tail-feathers, as any wild rock-pigeon! We can understand these facts, on the well-known principle of reversion to ancestral characters, if all the domestic breeds have descended from the rock-pigeon. But if we deny this, we must make one of the two following highly improbable suppositions.
+
+Either, firstly, that all the several imagined aboriginal stocks were coloured and marked like the rock-pigeon, although no other existing species is thus coloured and marked, so that in each separate breed there might be a tendency to revert to the very same colours and markings. Or, secondly, that each breed, even the purest, has within a dozen or, at most, within a score of generations, been crossed by the rock-pigeon: I say within a dozen or twenty generations, for we know of no fact countenancing the belief that the child ever reverts to some one ancestor, removed by a greater number of generations. In a breed which has been crossed only once with some distinct breed, the tendency to reversion to any character derived from such cross will naturally become less and less, as in each succeeding generation there will be less of the foreign blood; but when there has been no cross with a distinct breed, and there is a tendency in both parents to revert to a character, which has been lost during some former generation, this tendency, for all that we can see to the contrary, may be transmitted undiminished for an indefinite number of generations.
+
+These two distinct cases are often confounded in treatises on inheritance. Lastly, the hybrids or mongrels from between all the domestic breeds of pigeons are perfectly fertile. I can state this from my own observations, purposely made on the most distinct breeds. Now, it is difficult, perhaps impossible, to bring forward one case of the hybrid offspring of two animals clearly distinct being themselves perfectly fertile. Some authors believe that long- continued domestication eliminates this strong tendency to sterility: from the history of the dog I think there is some probability in this hypothesis, if applied to species closely related together, though it is unsupported by a single experiment. But to extend the hypothesis so far as to suppose that species, aboriginally as distinct as carriers, tumblers, pouters, and fantails now are, should yield offspring perfectly fertile, inter se, seems to me rash in the extreme.
+
+From these several reasons, namely, the improbability of man having formerly got seven or eight supposed species of pigeons to breed freely under domestication; these supposed species being quite unknown in a wild state, and their becoming nowhere feral; these species having very abnormal characters in certain respects, as compared with all other Columbidae, though so like in most other respects to the rock-pigeon; the blue colour and various marks occasionally appearing in all the breeds, both when kept pure and when crossed; the mongrel offspring being perfectly fertile;--from these several reasons, taken together, I can feel no doubt that all our domestic breeds have descended from the Columba livia with its geographical sub-species.
+
+1. C. livia, or the rock-pigeon, has been found capable of domestication in Europe and in India; and that it agrees in habits and in a great number of points of structure with all the domestic breeds. 
+
+2. Although an English carrier or short-faced tumbler differs immensely in certain characters from the rock-pigeon, yet by comparing the several sub-breeds of these breeds, more especially those brought from distant countries, we can make an almost perfect series between the extremes of structure.
+
+3. Those characters which are mainly distinctive of each breed, for instance the wattle and length of beak of the carrier, the shortness of that of the tumbler, and the number of tail-feathers in the fantail, are in each breed eminently variable.
+
+The explanation of this fact will be obvious when we come to treat of selection.Fourthly, pigeons have been watched, and tended with the utmost care, and loved by many people.
+
+They have been domesticated for thousands of years in several quarters of the world; the earliest known record of pigeons is in the fifth Aegyptian dynasty, about 3000 B.C., as was pointed out to me by Professor Lepsius; 
+
+But Mr. Birch informs me that pigeons are given in a bill of fare in the previous dynasty. In the time of the Romans, as we hear from Pliny, immense prices were given for pigeons; 'nay, they are come to this pass, that they can reckon up their pedigree and race.' 
+
+Pigeons were much valued by Akber Khan in India, about the year 1600; never less than 20,000 pigeons were taken with the court. 'The monarchs of Iran and Turan sent him some very rare birds;' and, continues the courtly historian, 'His Majesty by crossing the breeds, which method was never practised before, has improved them astonishingly.' 
+
+About this same period the Dutch were as eager about pigeons as were the old Romans. The paramount importance of these considerations in explaining the immense amount of variation which pigeons have undergone, will be obvious when we treat of Selection.
+
+We shall then, also, see how it is that the breeds so often have a somewhat monstrous character. It is also a most favourable circumstance for the production of distinct breeds, that male and female pigeons can be easily mated for life; and thus different breeds can be kept together in the same aviary.
+
+
+<!-- I have discussed the probable origin of domestic pigeons at some, yet quite insufficient, length; because when I first kept pigeons and watched the several kinds, knowing well how true they bred, I felt fully as much difficulty in -->
+
+I could not believe that domestic pigeons could have descended from a common parent.
+
+, as any naturalist could in coming to a similar conclusion in regard to the many species of finches, or other large groups of birds, in nature.
+
+One circumstance has struck me much; namely, that 
+
+All the breeders of the various domestic animals and plants and the treatises I have read are firmly convinced that the several breeds descended from so many aboriginally distinct species. 
+
+I have asked a celebrated raiser of Hereford cattle whether his cattle might not have descended from long horns. He laughed at me.
+
+All fanciers of pigeon, poultry, duck, or rabbit that I know are fully convinced that each main breed was descended from a distinct species.
+
+Van Mons, in his treatise on pears and apples, shows how utterly he disbelieves that the several sorts, for instance a Ribston-pippin or Codlin-apple, could ever have proceeded from the seeds of the same tree.
+
+From long-continued study they are strongly impressed with the differences between the several races. 
+
+They well know that each race varies slightly, for they win their prizes by selecting such slight differences.
+
+Yet they ignore all general arguments, and refuse to sum up in their minds slight differences accumulated during many successive generations. 
+
+May not those naturalists who, knowing far less of the laws of inheritance than does the breeder, and knowing no more than he does of the intermediate links in the long lines of descent, yet admit that many of our domestic races have descended from the same parents--may they not learn a lesson of caution, when they deride the idea of species in a state of nature being lineal descendants of other species?

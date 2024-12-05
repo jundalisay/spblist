@@ -1,122 +1,122 @@
 ---
-title: Acclimatisation
-heading: Chapter 5d
-weight: 38
-description: "On my theory, all the species of the same genus descended from a common parent"
+title: Variation Under Nature
+heading: Chapter 5c
+weight: 34
+description: "On the ordinary view of each species being independently created"
 image: "/covers/origin.jpg"
 ---
- 
 
 
-On my theory, all the species of the same genus descended from a common parent. They would occasionally vary in an analogous manner; so that a variety of one species would resemble in some of its characters another species; this other
-species being on my view only a well-marked and permanent variety.
 
-But characters thus gained
-would probably be of an unimportant nature, for the presence of all important characters will be
-governed by natural selection, in accordance with the diverse habits of the species, and will not be
-left to the mutual action of the conditions of life and of a similar inherited constitution. It might
-further be expected that the species of the same genus would occasionally exhibit reversions to lost
-ancestral characters.
+On the ordinary view of each species having been independently created, why should that part of the structure, which differs from the same part in other independently-created species of the same genus, be more variable than those parts which are closely alike in the several species?
 
-As, however, we never know the exact character of the common ancestor of a group, we could not distinguish these two cases: if, for instance, we did not know that the rock- pigeon was not feather-footed or turn-crowned, we could not have told, whether these characters in our domestic breeds were reversions or only analogous variations; but we might have inferred that the blueness was a case of reversion, from the number of the markings, which are correlated with the blue tint, and which it does not appear probable would all appear together from simple variation.
+I cannot explain this.
 
-More especially we might have inferred this, from the blue colour and marks so often
-appearing when distinct breeds of diverse colours are crossed. Hence, though under nature it must
-generally be left doubtful, what cases are reversions to an anciently existing character, and what are
-new but analogous variations, yet we ought, on my theory, sometimes to find the varying offspring
-of a species assuming characters (either from reversion or from analogous variation) which already
-occur in some other members of the same group. 
+But on the view of species being only strongly marked and fixed varieties, we might surely expect to find them still often continuing to vary in those parts of their structure which have varied within a moderately recent period, and which have thus come todiffer. 
 
-This is the case in nature.
+Or to state the case in another manner:--the points in which all the species of a genus resemble each other, and in which they differ from the species of some other genus, are called generic characters; and these characters in common I attribute to inheritance from a common progenitor, for it can rarely have happened that natural selection will have modified several species, fitted to more or less widely-different habits, in exactly the same manner: and as these so-called generic characters have been inherited from a remote period, since that period when the species first branched off from their common progenitor, and subsequently have not varied or come to differ in any degree, or only in a slight degree, it is not probable that they should vary at the present day. On the other hand, the points in which species differ from other species of the same genus, are called specific characters; and as these specific characters have varied and come to differ within the period of the branching off of the species from a common progenitor, it is probable that they should still often be in some degree variable,--at least more variable than those parts of the organisation which have for a very long period remained constant.
 
-A considerable part of the difficulty in recognising a variable species in our systematic works, is due to its varieties mocking, as it were, some of the other species of the same genus. A considerable catalogue, also, could be given of forms intermediate between two other forms, which themselves must be doubtfully ranked as either varieties or species; and this shows, unless all these forms be considered as independently created species, that the one in varying has assumed some of the characters of the other, so as to produce the intermediate form. But the best evidence is afforded by parts or organs of an important and uniform nature occasionally varying so as to acquire, in some degree, the character of the same part or organ in an allied species. I have collected a long list of such cases; but here, as before, I lie under a great disadvantage in not being able to give them. I can only repeat that such cases certainly do occur, and seem to me very remarkable.
+In connexion with the present subject, I will make only two other remarks. I think it will be
+admitted, without my entering on details, that secondary sexual characters are very variable; I think
+it also will be admitted that species of the same group differ from each other more widely in their
+secondary sexual characters, than in other parts of their organisation; compare, for instance, the
+amount of difference between the males of gallinaceous birds, in which secondary sexual characters
+are strongly displayed, with the amount of difference between their females; and the truth of this
+proposition will be granted. The cause of the original variability of secondary sexual characters is
+not manifest; but we can see why these characters should not have been rendered as constant and
+uniform as other parts of the organisation; for secondary sexual characters have been accumulated
+by sexual selection, which is less rigid in its action than ordinary selection, as it does not entail
+death, but only gives fewer offspring to the less favoured males. Whatever the cause may be of the
+variability of secondary sexual characters, as they are highly variable, sexual selection will have
+had a wide scope for action, and may thus readily have succeeded in giving to the species of the
+same group a greater amount of difference in their sexual characters, than in other parts of their
+structure.
 
-I will, however, give one curious and complex case, not indeed as affecting any important
-character, but from occurring in several species of the same genus, partly under domestication and
-partly under nature. It is a case apparently of reversion. The ass not rarely has very distinct
-transverse bars on its legs, like those on the legs of a zebra: it has been asserted that these are
-plainest in the foal, and from inquiries which I have made, I believe this to be true. It has also been
-asserted that the stripe on each shoulder is sometimes double. The shoulder stripe is certainly very
-variable in length and outline. A white ass, but not an albino, has been described without either
-spinal or shoulder-stripe; and these stripes are sometimes very obscure, or actually quite lost, in
-dark-coloured asses. The koulan of Pallas is said to have been seen with a double shoulder-stripe.
-The hemionus has no shoulder-stripe; but traces of it, as stated by Mr. Blyth and others,
-occasionally appear: and I have been informed by Colonel Poole that foals of this species are
-generally striped on the legs, and faintly on the shoulder. The quagga, though so plainly barred like
-a zebra over the body, is without bars on the legs; but Dr. Gray has figured one specimen with very
-distinct zebra-like bars on the hocks.
+It is a remarkable fact, that the secondary sexual differences between the two sexes of the same
+species are generally displayed in the very same parts of the organisation in which the different
+species of the same genus differ from each other. Of this fact I will give in illustration two
+instances, the first which happen to stand on my list; and as the differences in these cases are of a
+very unusual nature, the relation can hardly be accidental. The same number of joints in the tarsi is
+a character generally common to very large groups of beetles, but in the Engidae, as Westwood has
+remarked, the number varies greatly; and the number likewise differs in the two sexes of the same
+species: again in fossorial hymenoptera, the manner of neuration of the wings is a character of the
+highest importance, because common to large groups; but in certain genera the neuration differs in
+the different species, and likewise in the two sexes of the same species. This relation has a clear
+meaning on my view of the subject: I look at all the species of the same genus as having as
+certainly descended from the same progenitor, as have the two sexes of any one of the species.
+Consequently, whatever part of the structure of the common progenitor, or of its early descendants,
+became variable; variations of this part would it is highly probable, be taken advantage of by
+natural and sexual selection, in order to fit the several species to their several places in the economy
+of nature, and likewise to fit the two sexes of the same species to each other, or to fit the males andfemales to different habits of life, or the males to struggle with other males for the possession of the
+females.
 
-With respect to the horse, I have collected cases in England of the spinal stripe in horses of the
-most distinct breeds, and of all colours; transverse bars on the legs are not rare in duns, mouse-
-duns, and in one instance in a chestnut: a faint shoulder-stripe may sometimes be seen in duns, and
-I have seen a trace in a bay horse. My son made a careful examination and sketch for me of a dun
-Belgian cart-horse with a double stripe on each shoulder and with leg-stripes; and a man, whom I
-can implicitly trust, has examined for me a small dun Welch pony with three short parallel stripes
-on each shoulder.
+Finally, then, I conclude that the greater variability of specific characters, or those which
+distinguish species from species, than of generic characters, or those which the species possess in
+common;--that the frequent extreme variability of any part which is developed in a species in an
+extraordinary manner in comparison with the same part in its congeners; and the not great degree of
+variability in a part, however extraordinarily it may be developed, if it be common to a whole group
+of species;--that the great variability of secondary sexual characters, and the great amount of
+difference in these same characters between closely allied species;--that secondary sexual and
+ordinary specific differences are generally displayed in the same parts of the organisation,--are all
+principles closely connected together. All being mainly due to the species of the same group
+having descended from a common progenitor, from whom they have inherited much in common,--
+to parts which have recently and largely varied being more likely still to go on varying than parts
+which have long been inherited and have not varied,--to natural selection having more or less
+completely, according to the lapse of time, overmastered the tendency to reversion and to further
+variability,--to sexual selection being less rigid than ordinary selection,--and to variations in the
+same parts having been accumulated by natural and sexual selection, and thus adapted for
+secondary sexual, and for ordinary specific purposes.
 
-In the north-west part of India the Kattywar breed of horses is so generally striped, that, as I hear
-from Colonel Poole, who examined the breed for the Indian Government, a horse without stripes is
-not considered as purely-bred. The spine is always striped; the legs are generally barred; and the
-shoulder-stripe, which is sometimes double and sometimes treble, is common; the side of the face,
-moreover, is sometimes striped. The stripes are plainest in the foal; and sometimes quite disappear
-in old horses. Colonel Poole has seen both gray and bay Kattywar horses striped when first foaled.
-I have, also, reason to suspect, from information given me by Mr. W. W. Edwards, that with the
-English race-horse the spinal stripe is much commoner in the foal than in the full-grown animal.
-Without here entering on further details, I may state that I have collected cases of leg and shoulder
-stripes in horses of very different breeds, in various countries from Britain to Eastern China; and
-from Norway in the north to the Malay Archipelago in the south. In all parts of the world thesestripes occur far oftenest in duns and mouse-duns; by the term dun a large range of colour is
-included, from one between brown and black to a close approach to cream-colour.
-I am aware that Colonel Hamilton Smith, who has written on this subject, believes that the several
-breeds of the horse have descended from several aboriginal species--one of which, the dun, was
-striped; and that the above-described appearances are all due to ancient crosses with the dun stock.
-But I am not at all satisfied with this theory, and should be loth to apply it to breeds so distinct as
-the heavy Belgian cart-horse, Welch ponies, cobs, the lanky Kattywar race, &c., inhabiting the
-most distant parts of the world.
-Now let us turn to the effects of crossing the several species of the horse-genus. Rollin asserts, that
-the common mule from the ass and horse is particularly apt to have bars on its legs. I once saw a
-mule with its legs so much striped that any one at first would have thought that it must have been
-the product of a zebra; and Mr. W. C. Martin, in his excellent treatise on the horse, has given a
-figure of a similar mule. In four coloured drawings, which I have seen, of hybrids between the ass
-and zebra, the legs were much more plainly barred than the rest of the body; and in one of them
-there was a double shoulder-stripe. In Lord Moreton's famous hybrid from a chestnut mare and
-male quagga, the hybrid, and even the pure offspring subsequently produced from the mare by a
-black Arabian sire, were much more plainly barred across the legs than is even the pure quagga.
-Lastly, and this is another most remarkable case, a hybrid has been figured by Dr. Gray (and he
-informs me that he knows of a second case) from the ass and the hemionus; and this hybrid, though
-the ass seldom has stripes on its legs and the hemionus has none and has not even a shoulder-stripe,
-nevertheless had all four legs barred, and had three short shoulder-stripes, like those on the dun
-Welch pony, and even had some zebra-like stripes on the sides of its face. With respect to this last
-fact, I was so convinced that not even a stripe of colour appears from what would commonly be
-called an accident, that I was led solely from the occurrence of the face-stripes on this hybrid from
-the ass and hemionus, to ask Colonel Poole whether such face-stripes ever occur in the eminently
-striped Kattywar breed of horses, and was, as we have seen, answered in the affirmative.
-What now are we to say to these several facts? We see several very distinct species of the horse-
-genus becoming, by simple variation, striped on the legs like a zebra, or striped on the shoulders
-like an ass. In the horse we see this tendency strong whenever a dun tint appears--a tint which
-approaches to that of the general colouring of the other species of the genus. The appearance of the
-stripes is not accompanied by any change of form or by any other new character. We see this
-tendency to become striped most strongly displayed in hybrids from between several of the most
-distinct species. Now observe the case of the several breeds of pigeons: they are descended from a
-pigeon (including two or three sub-species or geographical races) of a bluish colour, with certain
-bars and other marks; and when any breed assumes by simple variation a bluish tint, these bars and
-other marks invariably reappear; but without any other change of form or character. When the
-oldest and truest breeds of various colours are crossed, we see a strong tendency for the blue tint
-and bars and marks to reappear in the mongrels. I have stated that the most probable hypothesis to
-account for the reappearance of very ancient characters, is--that there is a tendency in the young of
-each successive generation to produce the long-lost character, and that this tendency, from
-unknown causes, sometimes prevails. And we have just seen that in several species of the horse-
-genus the stripes are either plainer or appear more commonly in the young than in the old. Call the
-breeds of pigeons, some of which have bred true for centuries, species; and how exactly parallel is
-the case with that of the species of the horse-genus! For myself, I venture confidently to look backthousands on thousands of generations, and I see an animal striped like a zebra, but perhaps
-otherwise very differently constructed, the common parent of our domestic horse, whether or not it
-be descended from one or more wild stocks, of the ass, the hemionus, quagga, and zebra.
-He who believes that each equine species was independently created, will, I presume, assert that
-each species has been created with a tendency to vary, both under nature and under domestication,
-in this particular manner, so as often to become striped like other species of the genus; and that
-each has been created with a strong tendency, when crossed with species inhabiting distant quarters
-of the world, to produce hybrids resembling in their stripes, not their own parents, but other species
-of the genus. To admit this view is, as it seems to me, to reject a real for an unreal, or at least for an
-unknown, cause. It makes the works of God a mere mockery and deception; I would almost as
-soon believe with the old and ignorant cosmogonists, that fossil shells had never lived, but had
-been created in stone so as to mock the shells now living on the sea-shore.
+Distinct species present analogous variations; and a variety of one species often assumes some of
+the characters of an allied species, or reverts to some of the characters of an early progenitor. --
+These propositions will be most readily understood by looking to our domestic races. The most
+distinct breeds of pigeons, in countries most widely apart, present sub-varieties with reversed
+feathers on the head and feathers on the feet,--characters not possessed by the aboriginal rock-
+pigeon; these then are analogous variations in two or more distinct races. The frequent presence of
+fourteen or even sixteen tail-feathers in the pouter, may be considered as a variation representing
+the normal structure of another race, the fantail. I presume that no one will doubt that all such
+analogous variations are due to the several races of the pigeon having inherited from a common
+parent the same constitution and tendency to variation, when acted on by similar unknown
+influences. In the vegetable kingdom we have a case of analogous variation, in the enlarged stems,
+or roots as commonly called, of the Swedish turnip and Ruta baga, plants which several botanists
+rank as varieties produced by cultivation from a common parent: if this be not so, the case will
+then be one of analogous variation in two so-called distinct species; and to these a third may be
+added, namely, the common turnip. According to the ordinary view of each species having been
+independently created, we should have to attribute this similarity in the enlarged stems of these
+three plants, not to the vera causa of community of descent, and a consequent tendency to vary in a
+like manner, but to three separate yet closely related acts of creation.
+
+With pigeons, however, we have another case, namely, the occasional appearance in all the breeds,
+of slaty-blue birds with two black bars on the wings, a white rump, a bar at the end of the tail, with
+the outer feathers externally edged near their bases with white. As all these marks are characteristic
+of the parent rock-pigeon, I presume that no one will doubt that this is a case of reversion, and not
+of a new yet analogous variation appearing in the several breeds. We may I think confidently come
+to this conclusion, because, as we have seen, these coloured marks are eminently liable to appear in
+the crossed offspring of two distinct and differently coloured breeds; and in this case there isnothing in the external conditions of life to cause the reappearance of the slaty-blue, with the
+several marks, beyond the influence of the mere act of crossing on the laws of inheritance.
+No doubt it is a very surprising fact that characters should reappear after having been lost for many,
+perhaps for hundreds of generations. But when a breed has been crossed only once by some other
+breed, the offspring occasionally show a tendency to revert in character to the foreign breed for
+many generations--some say, for a dozen or even a score of generations. After twelve generations,
+the proportion of blood, to use a common expression, of any one ancestor, is only 1 in 2048; and
+yet, as we see, it is generally believed that a tendency to reversion is retained by this very small
+proportion of foreign blood.
+
+In a breed which has not been crossed, but in which both parents have
+lost some character which their progenitor possessed, the tendency, whether strong or weak, to
+reproduce the lost character might be, as was formerly remarked, for all that we can see to the
+contrary, transmitted for almost any number of generations. When a character which has been lost
+in a breed, reappears after a great number of generations, the most probable hypothesis is, not that
+the offspring suddenly takes after an ancestor some hundred generations distant, but that in each
+successive generation there has been a tendency to reproduce the character in question, which at
+last, under unknown favourable conditions, gains an ascendancy. For instance, it is probable that in
+each generation of the barb-pigeon, which produces most rarely a blue and black-barred bird, there
+has been a tendency in each generation in the plumage to assume this colour. This view is
+hypothetical, but could be supported by some facts; and I can see no more abstract improbability in
+a tendency to produce any character being inherited for an endless number of generations, than in
+quite useless or rudimentary organs being, as we all know them to be, thus inherited. Indeed, we
+may sometimes observe a mere tendency to produce a rudiment inherited: for instance, in the
+common snapdragon (Antirrhinum) a rudiment of a fifth stamen so often appears, that this plant
+must have an inherited tendency to produce it.
+
 

@@ -5,18 +5,16 @@ title: "Amok Syndrome"
 description: "Amok Syndrome manifests as mass-shootings in the West"
 # date: "2020-10-15"
 date: 2024-10-15
-weight: 2
+weight: 20
 image: "/photos/psych/war.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# categories: ["Medical Superphysics"]
-# tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "/icons/spmed.png"
 ---
 
 
-In Southeast Asia, Amok Syndrome is the condition where people become instantly become aggressive after being put under psychological pressure. 
+In Southeast Asia, the Amok Syndrome is the condition where people become instantly become aggressive after being put under psychological pressure. 
 
 This now manifest as mass shootings in the United States. 
 

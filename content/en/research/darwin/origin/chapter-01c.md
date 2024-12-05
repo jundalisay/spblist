@@ -1,76 +1,164 @@
 ---
-title: Selection
+title: Reverting to the Wild State
 heading: Chapter 1c
-# First Meditation
-weight: 8
-description: ""
+weight: 6
+description: "Habit also has a deciding influence, especially in animals"
 image: "/covers/origin.jpg"
 ---
 
 
-Let us now briefly consider the steps by which domestic races have been produced,
-either from one or from several allied species. 
+Our domestic varieties, when run wild, gradually but certainly revert in character to their aboriginal stocks.
 
-Some little effect may, perhaps, be attributed to the direct action of the external conditions of life, and some little to habit; but he would be a bold man who would account by such agencies for the differences of a dray and race horse, a greyhound and bloodhound, a carrier and tumbler pigeon. One of the most remarkable features in our domesticated races is that we see in them adaptation, not indeed to the animal's or plant's own good, but to man's use or fancy. Some variations useful to him have probably arisen suddenly, or by onestep; many botanists, for instance, believe that the fuller's teazle, with its hooks, which cannot be rivalled by any mechanical contrivance, is only a variety of the wild Dipsacus; and this amount of change may have suddenly arisen in a seedling. 
+Hence it has been argued that no deductions can be drawn from domestic races to wild ones. 
 
-So it has probably been with the turnspit dog; and this is known to have been the case with the ancon sheep. But when we compare the dray-horse and race-horse, the dromedary and camel, the various breeds of sheep fitted either for cultivated land or mountain pasture, with the wool of one breed good for one purpose, and that of another breed for another purpose; when we compare the many breeds of dogs, each good for man in very different ways; when we compare the game-cock, so pertinacious in battle, with other breeds so little quarrelsome, with 'everlasting layers' which never desire to sit, and with the bantam so small and elegant; when we compare the host of agricultural, culinary, orchard, and flower-garden races of plants, most useful to man at different seasons and for different purposes, or so beautiful in his eyes, we must, I think, look further than to mere variability. We cannot suppose that all the breeds were suddenly produced as perfect and as useful as we now see them; indeed, in several cases, we know that this has not been their history. The key is man's power of accumulative selection: nature gives successive variations; man adds them up in certain directions useful to him. In this sense he may be said to make for himself useful breeds.
+I have in vain endeavoured to discover on what decisive facts the above statement has so often and so boldly been made.
 
-The great power of this principle of selection is not hypothetical. It is certain that several of our eminent breeders have, even within a single lifetime, modified to a large extent some breeds of cattle and sheep. In order fully to realise what they have done, it is almost necessary to read several of the many treatises devoted to this subject, and to inspect the animals. Breeders habitually speak of an animal's organisation as something quite plastic, which they can model almost as they please. If I had space I could quote numerous passages to this effect from highly competent authorities. Youatt, who was probably better acquainted with the works of agriculturalists than almost any other individual, and who was himself a very good judge of an animal, speaks of the principle of selection as 'that which enables the agriculturist, not only to modify the character of his flock, but to change it altogether.
+There would be great difficulty in proving its truth: we may safely conclude that 
 
-It is the magician's wand, by means of which he may summon into life whatever form and mould he pleases.' Lord Somerville, speaking of what breeders have done for sheep, says:- 'It would seem as if they had chalked out upon a wall a form perfect in itself, and then had given it existence.' That most skilful breeder, Sir John Sebright, used to say, with respect to pigeons, that 'he would produce any given feather in three years, but it would take him six years to obtain head and beak.' In Saxony the importance of the principle of selection in regard to merino sheep is so fully recognised, that men follow it as a trade: the sheep are placed on a table and are studied, like a picture by a connoisseur; this is done three times at intervals of months, and the sheep are each time marked and classed, so that the very best may ultimately be selected for breeding.
 
-What English breeders have actually effected is proved by the enormous prices given for animals with a good pedigree; and these have now been exported to almost every quarter of the world. The improvement is by no means generally due to crossing different breeds; all the best breeders are strongly opposed to this practice, except sometimes amongst closely allied sub-breeds. And when a cross has been made, the closest selection is far more indispensable even than in ordinary cases. 
+Very many of the most strongly-marked domestic varieties could not possibly live in the wild.
 
-If selection consisted merely in separating some very distinct variety, and breeding from it, the principle would be so obvious as hardly to be worth notice; but its importance consists in the great effect produced by the accumulation in one direction, during successive generations, of differences absolutely inappreciable by an uneducated eye--differences which I for one have vainly attempted to appreciate.
+In many cases, we do not know what the aboriginal stock was. And so could not tell whether the animal or plant reverted.
 
-Not one man in a thousand has accuracy of eye and judgment sufficient to becomean eminent breeder. If gifted with these qualities, and he studies his subject for years, and devotes his lifetime to it with indomitable perseverance, he will succeed, and may make great improvements; if he wants any of these qualities, he will assuredly fail. Few would readily believe in the natural capacity and years of practice requisite to become even a skilful pigeon-fancier. The same principles are followed by horticulturists; but the variations are here often more abrupt. No one supposes that our choicest productions have been produced by a single variation from the aboriginal stock. We have proofs that this is not so in some cases, in which exact records have been kept; thus, to give a very trifling instance, the steadily-increasing size of the common gooseberry may be quoted. 
+In order to prevent the effects of intercrossing, only a single variety should be turned loose in its new home.
 
-We see an astonishing improvement in many florists' flowers, when the flowers of the present day are compared with drawings made only twenty or thirty years ago. When a race of plants is once pretty well established, the seed-raisers do not pick out the best plants, but merely go over their seed-beds, and pull up the 'rogues,' as they call the plants that deviate from the proper standard. With animals this kind of selection is, in fact, also followed; for hardly any one is so careless as to allow his worst animals to breed.
+Our domesticated varieties occasionally revert in some of their characters to ancestral forms.
 
-In regard to plants, there is another means of observing the accumulated effects of selection-- namely, by comparing the diversity of flowers in the different varieties of the same species in the flower-garden; the diversity of leaves, pods, or tubers, or whatever part is valued, in the kitchen- garden, in comparison with the flowers of the same varieties; and the diversity of fruit of the same species in the orchard, in comparison with the leaves and flowers of the same set of varieties. See how different the leaves of the cabbage are, and how extremely alike the flowers; how unlike the flowers of the heartsease are, and how alike the leaves; how much the fruit of the different kinds of gooseberries differ in size, colour, shape, and hairiness, and yet the flowers present very slight differences. It is not that the varieties which differ largely in some one point do not differ at all in other points; this is hardly ever, perhaps never, the case.
+<!-- If we could succeed in naturalising, or were to cultivate, during many generations, the several races, for instance, of  -->
 
-The laws of correlation of growth, the importance of which should never be overlooked, will ensure some differences; but, as a general rule, I cannot doubt that the continued selection of slight variations, either in the leaves, the flowers, or the fruit, will produce races differing from each other chiefly in these characters. It may be objected that the principle of selection has been reduced to methodical practice for scarcely more than three-quarters of a century; it has certainly been more attended to of late years, and many treatises have been published on the subject; and the result, I may add, has been, in a corresponding degree, rapid and important. But it is very far from true that the principle is a modern discovery. I could give several references to the full acknowledgment of the importance of the principle in works of high antiquity.
+If we grew cabbage in very poor soil for many generations, they would partly or wholly revert to the wild aboriginal stock.
 
-In rude and barbarous periods of English history choice animals were often imported, and laws were passed to prevent their exportation: the destruction of horses under a certain size was ordered, and this may be compared to the 'roguing' of plants by nurserymen. The principle of selection I find distinctly given in an ancient Chinese encyclopaedia. Explicit rules are laid down by some of the Roman classical writers. From passages in Genesis, it is clear that the colour of domestic animals was at that early period attended to. Savages now sometimes cross their dogs with wild canine animals, to improve the breed, and they formerly did so, as is attested by passages in Pliny.
+ <!-- (in which case, however, some effect would have to be attributed to the direct action of the poor soil), that they would to a large extent, or even wholly, .  -->
 
-The savages in South Africa match their draught cattle by colour, as do some of the Esquimaux their teams of dogs. Livingstone shows how much good domestic breeds are valued by the negroes of the interior of Africa who have not associated with Europeans. Some of these facts do not show actual selection, but they show that the breeding of domestic animals was carefully attended to in ancient times, and is now attended to by the lowestsavages. It would, indeed, have been a strange fact, had attention not been paid to breeding, for the inheritance of good and bad qualities is so obvious.
+Whether or not the experiment would succeed, is not of great importance for our line of argument; for by the experiment itself the conditions of life are changed. 
 
-At the present time, eminent breeders try by methodical selection, with a distinct object in view, to make a new strain or sub-breed, superior to anything existing in the country. But, for our purpose, a kind of Selection, which may be called Unconscious, and which results from every one trying to possess and breed from the best individual animals, is more important. Thus, a man who intends keeping pointers naturally tries to get as good dogs as he can, and afterwards breeds from his own best dogs, but he has no wish or expectation of permanently altering the breed. Nevertheless I cannot doubt that this process, continued during centuries, would improve and modify any breed, in the same way as Bakewell, Collins, &c., by this very same process, only carried on more methodically, did greatly modify, even during their own lifetimes, the forms and qualities of their cattle.
+Reverting to the wild state is when species lose their acquired characters a while in unchanged domestic  conditions in a large scale and freely breeding with each other. 
 
-Slow and insensible changes of this kind could never be recognised unless actual measurements or careful drawings of the breeds in question had been made long ago, which might serve for comparison. In some cases, however, unchanged or but little changed individuals of the same breed may be found in less civilised districts, where the breed has been less improved. There is reason to believe that King Charles's spaniel has been unconsciously modified to a large extent since the time of that monarch.
+If our domestic varieties reverted while domesticated then domestication means nothing to the species. 
 
-Some highly competent authorities are convinced that the setter is directly derived from the spaniel, and has probably been slowly altered from it. It is known that the English pointer has been greatly changed within the last century, and in this case the change has, it is believed, been chiefly effected by crosses with the fox-hound; but what concerns us is, that the change has been effected unconsciously and gradually, and yet so effectually, that, though the old Spanish pointer certainly came from Spain, Mr. Borrow has not seen, as I am informed by him, any native dog in Spain like our pointer.
+<!-- , and whilst kept in a considerable body, so that free intercrossing might check, by blending together, any slight deviations of structure, in such case, I grant that we could deduce nothing from domestic varieties in regard to species.  -->
 
-By a similar process of selection, and by careful training, the whole body of English racehorses have come to surpass in fleetness and size the parent Arab stock, so that the latter, by the regulations for the Goodwood Races, are favoured in the weights they carry. Lord Spencer and others have shown how the cattle of England have increased in weight and in early maturity, compared with the stock formerly kept in this country. By comparing the accounts given in old pigeon treatises of carriers and tumblers with these breeds as now existing in Britain, India, and Persia, we can, I think, clearly trace the stages through which they have insensibly passed, and come to differ so greatly from the rock-pigeon.
+But there is no evidence in favour of this.
 
-Youatt gives an excellent illustration of the effects of a course of selection, which may be considered as unconsciously followed, in so far that the breeders could never have expected or even have wished to have produced the result which ensued--namely, the production of two distinct strains. The two flocks of Leicester sheep kept by Mr. Buckley and Mr. Burgess, as Mr. Youatt remarks, 'have been purely bred from the original stock of Mr. Bakewell for upwards of fifty years. There is not a suspicion existing in the mind of any one at all acquainted with the subject that the owner of either of them has deviated in any one instance from the pure blood of Mr. Bakewell's flock, and yet the difference between the sheep possessed by these two gentlemen is so great that they have the appearance of being quite different varieties.'
+ <!-- to assert that we could not breed our cart and race-horses, long and short-horned cattle, and poultry of various breeds, and esculent vegetables, for an almost infinite number of generations, would be opposed to all experience.  -->
 
-If there exist savages so barbarous as never to think of the inherited character of the offspring of their domestic animals, yet any one animal particularly useful to them, for any special purpose, would be carefully preserved during famines and other accidents, to which savages are so liable,and such choice animals would thus generally leave more offspring than the inferior ones; so that in this case there would be a kind of unconscious selection going on. We see the value set on animals even by the barbarians of Tierra del Fuego, by their killing and devouring their old women, in times of dearth, as of less value than their dogs.
+When the conditions of life do change in the wild, variations and reversions of character occur.
 
-In plants the same gradual process of improvement, through the occasional preservation of the best individuals, whether or not sufficiently distinct to be ranked at their first appearance as distinct varieties, and whether or not two or more species or races have become blended together by crossing, may plainly be recognised in the increased size and beauty which we now see in the varieties of the heartsease, rose, pelargonium, dahlia, and other plants, when compared with the older varieties or with their parent-stocks. No one would ever expect to get a first-rate heartsease or dahlia from the seed of a wild plant. No one would expect to raise a first-rate melting pear from the seed of a wild pear, though he might succeed from a poor seedling growing wild, if it had come
-from a garden-stock. 
+But natural selection will determine how far the new characters are preserved.
 
-The pear, though cultivated in classical times, appears, from Pliny's description, to have been a fruit of very inferior quality. I have seen great surprise expressed in horticultural works at the wonderful skill of gardeners, in having produced such splendid results from such poor materials; but the art, I cannot doubt, has been simple, and, as far as the final result is concerned, has been followed almost unconsciously. 
+<!-- When we look to the hereditary varieties or races of our domestic animals and plants, and compare them with species closely allied together, we generally perceive in each domestic race, less uniformity of character than in true species.
 
-It has consisted in always cultivating the best known variety, sowing its seeds, and, when a slightly better variety has chanced to appear, selecting it, and so onwards. But the gardeners of the classical period, who cultivated the best pear they could procure, never thought what splendid fruit we should eat; though we owe our excellent fruit, in some small degree, to their having naturally chosen and preserved the best varieties they could anywhere find.
+Domestic races of the same species:
+- have more variety
+0 , also, often have a somewhat monstrous character; by which I mean, that, although differing from each other, and from the other species of the same genus, in several trifling respects, they often differ in an extreme degree in some one part, both when compared one with another, and more especially when compared with all the species in nature to which they are nearest allied.
 
-A large amount of change in our cultivated plants, thus slowly and unconsciously accumulated,
-explains, as I believe, the well-known fact, that in a vast number of cases we cannot recognise, and
-therefore do not know, the wild parent-stocks of the plants which have been longest cultivated in
-our flower and kitchen gardens. If it has taken centuries or thousands of years to improve or
-modify most of our plants up to their present standard of usefulness to man, we can understand how
-it is that neither Australia, the Cape of Good Hope, nor any other region inhabited by quite
-uncivilised man, has afforded us a single plant worth culture. It is not that these countries, so rich
-in species, do not by a strange chance possess the aboriginal stocks of any useful plants, but that the
-native plants have not been improved by continued selection up to a standard of perfection
-comparable with that given to the plants in countries anciently civilised.
+With these exceptions (and with that of the perfect fertility of varieties when crossed,--a subject hereafter to be discussed), domestic races of the same species differ from each other in the same manner as, only in most cases in a lesser degree than, do closely-allied species of the same genus in a state of nature. -->
 
-In regard to the domestic animals kept by uncivilised man, it should not be overlooked that they
-almost always have to struggle for their own food, at least during certain seasons. And in two
-countries very differently circumstanced, individuals of the same species, having slightly different
-constitutions or structure, would often succeed better in the one country than in the other, and thus
-by a process of 'natural selection,' as will hereafter be more fully explained, two sub-breeds might
-be formed. This, perhaps, partly explains what has been remarked by some authors, namely, that
-the varieties kept by savages have more of the character of species than the varieties kept in
-civilised countries.
+Most domestic races are judged as:
+- mere varieties and
+- the descendants of aboriginally distinct wild species.
 
+Sometimes there is a marked distinction between domestic races and wild species.
+
+<!-- , this source of doubt could not so perpetually recur. It has often been stated that  -->
+
+Domestic races do not differ from each other in characters of generic value. 
+
+I think it could be shown that this statement is hardly correct; 
+
+But naturalists differ most widely in determining what characters are of generic value; 
+
+All such valuations being at present empirical.
+
+<!-- Moreover, on the view of the origin of genera which I shall presently give, we have no right to expect often to meet with generic differences in our domesticated productions. -->
+
+We doubt the amount of structural difference between the domestic races of the same species because we do not know whether they have descended from one or several parent-species.
+
+<!-- This point, if it could be cleared up, would be interesting; if, for instance, it could be shown that 
+
+, which we all know propagate their kind so truly, , then such facts would have great weight in making us -->
+
+We can doubt the immutability of the many very closely allied and natural species if we could prove that the greyhound, bloodhound, terrier, spaniel, and bull-dog were the offspring of any single species. 
+- They would be simmilar to the foxes from different parts of the world.
+
+I do not believe that all our dogs have descended from one wild species.
+
+But, in the case of some other domestic races, there is strong evidence in favour of this view.
+
+
+People have assumed that early humans have chosen for domestication the organisms that can vary and withstand diverse climates.
+
+<!-- I do not dispute that these capacities have added largely to the value of most of our domesticated productions;  -->
+
+But how could a savage know, when he first tamed an animal, whether it would vary in succeeding generations, and endure other climates? 
+
+<!-- Has the little variability of the ass or guinea-fowl, or the small power of endurance of warmth by the rein-deer, or of cold by the common camel, prevented their domestication?  -->
+
+
+If other organisms, equal in number to our domesticated productions, and belonging to equally diverse classes and countries, were taken from the wild, and were bred for an equal number of generations under domestication, they would vary on an average as largely as the parent species of our existing domesticated productions have varied.
+
+I do not know whether most of our anciently domesticated orgnisms come from one or several species.
+
+<!-- The argument mainly relied on by those who believe in the multiple origin of our domestic animals is, that we find in the most ancient records, more especially on the monuments of Egypt, much diversity in the breeds; and that some of the breeds closely resemble, perhaps are identical with, those still existing. Even if this latter fact were found more strictly and generally true than seems to me to be the case, what does it show, but that some of our breeds originated there, four or five thousand years ago? But  -->
+
+Mr. Horner's research have made it probable that civilized man existed in the Nile valley 14,000 years ago. They could have a semi-domestic dog in Egypt. 
+
+<!-- ; and who will pretend to say how long before these ancient periods, savages, like those of Tierra del Fuego or Australia, who possess , may not have existed in Egypt?
+
+The whole subject must, I think, remain vague; nevertheless, I may, without here entering on any details, state that, from geographical and other considerations, I think it highly probable that  -->
+
+Our domestic dogs probably have descended from several wild species. But I do not know about sheep and goats. 
+
+Mr. Blyth studied the habits, voice, and constitution, &c., of the humped Indian cattle. These had descended from a different aboriginal stock from our European cattle. Several competent judges believe that these latter have had more than one wild parent. 
+
+I think that:
+- all horses descended from one wild stock. 
+- all ducks and rabbits came from the common wild duck and rabbit.
+
+
+Mr. Blyth thinks that all the breeds of poultry came from the common wild Indian fowl (Gallus bankiva).
+
+The doctrine of the origin of our several domestic races from several aboriginal stocks, has been carried to an absurd extreme by some authors. 
+
+They believe that every race which breeds true, let the distinctive characters be ever so slight, has had its wild prototype. 
+
+At this rate there must have existed at least a score of species of wild cattle, as many sheep, and several goats in Europe alone, and several even within Great Britain.
+
+One author believes that there formerly existed in Great Britain 11 wild species of sheep peculiar to it!
+
+Britain has now hardly one peculiar mammal.
+
+France has but few distinct from those of Germany and conversely, and so with Hungary, Spain, &c.
+
+Each of these countries has several peculiar breeds of cattle, sheep, &c.
+
+We must admit that many domestic breeds have originated in Europe.
+
+ <!-- for whence could they have been derived, as these several countries do not possess a number of peculiar species as distinct parent-stocks? So it is in India. -->
+
+The domestic dogs of the whole world probably descended from several wild species.
+
+But there has been an immense amount of inherited variation. 
+
+Who can believe that animals closely resembling the Italian greyhound, the bloodhound, the bull-dog, or Blenheim spaniel, &c.--so unlike all wild Canidae--ever existed freely in a state of nature? 
+
+It has often been loosely said that all our races of dogs have been produced by the crossing of a few aboriginal species; 
+
+But by crossing we can get only forms in some degree intermediate between their parents; 
+
+If we account for our several domestic races by this process, we must admit the former existence of the most extreme forms, as the Italian greyhound, bloodhound, bull-dog, &c., in the wild state.
+
+Moreover, the possibility of making distinct races by crossing has been greatly exaggerated. There can be no doubt that a race may be modified by occasional crosses, if aided by the careful selection of those individual mongrels, which present any desired character;
+
+
+I do not believe that a race could be obtained nearly intermediate between two extremely different races or species.
+
+Sir J. Sebright expressly experimentised for this and failed.
+
+The offspring from the first cross between two pure breeds is tolerably and sometimes (as I have found with pigeons) extremely uniform.
+
+But when these mongrels are crossed one with another for several generations, hardly two of them will be alike.
+
+Then the extreme difficulty and hopelessness of the task becomes apparent.
+
+Certainly, a breed intermediate between two very distinct breeds could not be got without extreme care and long- continued selection; nor can I find a single case on record of a permanent race having been thus formed.

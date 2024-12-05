@@ -13,13 +13,27 @@ common species vary most -- Species of the larger genera in any country vary mor
 species of the smaller genera --  -->
 
 
-Many of the species of the larger genera resemble varieties in being very closely, but unequally, related to each other, and in having restricted ranges. 
+<!-- Many of the species of the larger genera resemble varieties in being very closely, but unequally, related to each other, and in having restricted ranges. 
 
-Before applying the principles arrived at in the last chapter to organic beings in a state of nature, we must briefly discuss whether these latter are subject to any variation. To treat this subject at all properly, a long catalogue of dry facts should be given; but these I shall reserve for my future work. Nor shall I here discuss the various definitions which have been given of the term species. No one definition has as yet satisfied all naturalists; yet every naturalist knows vaguely what he means when he speaks of a species. Generally the term includes the unknown element of a distinct act of creation. The term 'variety' is almost equally difficult to define; but here community of descent is almost universally implied, though it can rarely be proved. We have also what are called monstrosities; but they graduate into varieties.
+Before applying the principles arrived at in the last chapter to organic beings in a state of nature, we must briefly discuss whether these latter are subject to any variation. To treat this subject at all properly, a long catalogue of dry facts should be given; but these I shall reserve for my future work. Nor shall I here discuss the various definitions which have been given of the term species. No one definition has as yet satisfied all naturalists; yet every naturalist knows vaguely what he means when he speaks of a species. Generally the term includes the unknown element of a distinct act of creation. The term ' -->
 
-By a monstrosity I presume is meant some considerable deviation of structure in one part, either injurious to or not useful to the species, and not generally propagated. Some authors use the term 'variation' in a technical sense, as implying a modification directly due to the physical conditions of life; and 'variations' in this sense are supposed not to be inherited: but who can say that the dwarfed condition of shells in the brackish waters of the Baltic, or dwarfed plants on Alpine summits, or the thicker fur of an animal from far northwards, would not in some cases be inherited for at least some few generations? and in this case I presume that the form would be called a variety.
+'Variety' means the community of descent though it can rarely be proved.
 
-Again, we have many slight differences which may be called individual differences, such as are known frequently to appear in the offspring from the same parents, or which may be presumed to have thus arisen, from being frequently observed in the individuals of the same species inhabiting the same confined locality. No one supposes that all the individuals of the same species are cast in the very same mould. These individual differences are highly important for us, as they afford materials for natural selection to accumulate, in the same manner as man can accumulate in anygiven direction individual differences in his domesticated productions.
+Monstrosity is some considerable deviation of structure in one part, either injurious or not useful to the species, and not generally propagated. 
+
+Monstrosities graduate into varieties.
+
+Some authors use the term:
+- 'variation' to imply a modification directly due to the physical conditions of life
+- 'variations' as modifications that are not inherited
+
+<!-- but who can say that the dwarfed condition of shells in the brackish waters of the Baltic, or dwarfed plants on Alpine summits, or the thicker fur of an animal from far northwards, would not in some cases be inherited for at least some few generations? and in this case I presume that the form would be called a variety. -->
+
+We have many slight differences which may be called individual differences. Examples are those in the offspring from the same parents.
+
+, or which may be presumed to have thus arisen, from being frequently observed in the individuals of the same species inhabiting the same confined locality. No one supposes that all the individuals of the same species are cast in the very same mould. 
+
+These individual differences are highly important for us, as they afford materials for natural selection to accumulate, in the same manner as man can accumulate in anygiven direction individual differences in his domesticated productions.
 
 These individual differences generally affect what naturalists consider unimportant parts; but I could show by a long catalogue of facts, that parts which must be called important, whether viewed under a physiological or classificatory point of view, sometimes vary in the individuals of the same species. I am convinced that the most experienced naturalist would be surprised at the number of the cases of variability, even in important parts of structure, which he could collect on good authority, as I have collected, during a course of years.
 

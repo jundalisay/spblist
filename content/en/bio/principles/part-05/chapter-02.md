@@ -4,7 +4,7 @@ title: "The Hierarchy of Needs"
 description: "The Bio-Superphysics Hierarchy of Needs aligns with the 5 Layers"
 # date: "2020-01-01"
 date: 2020-01-25
-weight: 4
+weight: 5
 image: "/photos/balancerock.jpg"
 writer:
   name: Juan

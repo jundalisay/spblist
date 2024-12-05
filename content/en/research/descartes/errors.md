@@ -5,7 +5,7 @@ description: "We list down the errors of Descartes so we can bring back an error
 image: "/covers/fallacies.png"
 ---
 
-We test Descartes' assertions just as we tested Einsein's and Keynes' to expose his factual errors. 
+We test Descartes' assertions, just as we tested Einstein's and Keynes', to expose his factual errors. 
 
 
 n | Source | Error | Reality
@@ -15,6 +15,7 @@ n | Source | Error | Reality
 3 | Principia Part 3, 82 | The fire-aether beyond Saturn do not move faster. | They move slower. This mistake is caused by the previous mistake on comets
 4 | Meteors Discourse 8 | Colors are caused by photons turning in different directions. The cause of the error is believing that colors emerge after hitting something. This is a principle in Dioptrique. However, color is inherent information about the source, and not an emergent effect. | Colors are caused by wavelengths
 5 | Principia Part 3, 147 | The outer planets are more solid than the inner ones | The inner planets are more solid
+6 | Principia Part 3, 153 | Magnets have 2 opposing channel flow directions | Modern Physics reveals magnets to have 1 flow, from North to Soutn
 
 
 ### Shortcomings
