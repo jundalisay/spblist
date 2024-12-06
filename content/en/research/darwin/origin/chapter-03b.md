@@ -8,9 +8,31 @@ image: "/covers/origin.jpg"
 ---
 
 
-But we have better evidence on this subject than mere theoretical calculations, namely, the numerous recorded cases of the astonishingly rapid increase of various animals in a state of nature, when circumstances have been favourable to them during two or three following seasons. 
 
-Still more striking is the evidence from our domestic animals of many kinds which have run wild in several parts of the world: if the statements of the rate of increase of slow-breeding cattle and horses in South America, and latterly in Australia, had not been well authenticated, they would have been quite incredible. 
+The rule is that every organic being naturally increases at such a high rate. If not destroyed, the earth would be covered by the progeny of a single pair.
+
+There is no exception to this.
+
+Even slow-breeding man has doubled in 25 years. At this rate, in a few thousand years, there
+would be no room for his progeny.
+
+Linnaeus has calculated that if an annual plant produced only 2 seeds and their seedlings next year produced 2, and so on, then in 20 years there would be a million plants. 
+
+The elephant is the slowest breeder of all known animals.
+
+It breeds when 30 years old until 90. 
+
+It brings forth 3 pairs of young in this interval.
+
+So that at the end of 500 years, there would be 15,000,000 elephants descended from the first pair.
+
+
+This rule is proven by the numerous cases of the rapid increase of wild animals when circumstances have been favourable to them for 3 consecutive seasons. 
+
+This is also proven by cattle and horses which have run wild.
+
+  <!-- in several parts of the world: if the statements of the rate of increase of slow-breeding cattle and horses in South America, and latterly in Australia, had not been well authenticated, they would have been quite incredible.  -->
+
 
 So it is with plants: cases could be given of introduced plants which have become common throughout whole islands in a period of less than ten years. Several of the plants now most numerous over the wide plains of La Plata, clothing square leagues of surface almost to the exclusion of all other plants, have been introduced from Europe; and there are plants which now range in India, as I hear from Dr. Falconer, from Cape Comorin to the Himalaya, which have been imported from America since its discovery. In such cases, and endless instances could be given, no one supposes that the fertility of these animals or plants has been suddenly and temporarily increased in any sensible degree.
 

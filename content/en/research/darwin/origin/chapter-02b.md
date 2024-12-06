@@ -1,5 +1,5 @@
 ---
-title: The Galapagos Birds
+title: Species Versus Variety
 heading: Chapter 2b
 weight: 14
 description: "Many years ago I compared the birds from the separate islands of the Galapagos Archipelago"
@@ -25,19 +25,44 @@ A wide distance between the homes of 2 doubtful forms leads many naturalists to 
 
 If that between America and Europe is ample, will that between the Continent and the Azores, or Madeira, or the Canaries, or Ireland, be sufficient?
 
-It must be admitted that many forms, considered by highly-competent judges as varieties, have so perfectly the character of species that they are ranked by other highly-competent judges as good and true species.
+Many forms are as varieties. They have so perfectly the character of species that they are ranked by other highly-competent judges as true species.
+
 
 But to discuss whether they are rightly called species or varieties, before any definition of these terms has been generally accepted, is vainly to beat the air.
 
-Many of the cases of strongly-marked varieties or doubtful species well deserve consideration; for several interesting lines of argument, from geographical distribution, analogical variation, hybridism, &c., have been brought to bear on the attempt to determine their rank. I will here give only a single instance,--the well-known one of the primrose and cowslip, or Primula veris and elatior.
+Many of the cases of strongly-marked varieties or doubtful species well deserve consideration; for several interesting lines of argument, from geographical distribution, analogical variation, hybridism, &c., have been brought to bear on the attempt to determine their rank. 
 
-These plants differ considerably in appearance; they have a different flavour and emit a different odour; they flower at slightly different periods; they grow in somewhat different stations; they ascend mountains to different heights; they have different geographical ranges; and lastly,according to very numerous experiments made during several years by that most careful observer Gartner, they can be crossed only with much difficulty. 
+An example is the primrose and cowslip, or Primula veris and elatior.
 
-We could hardly wish for better evidence of the two forms being specifically distinct. On the other hand, they are united by many intermediate links, and it is very doubtful whether these links are hybrids; and there is, as it seems to me, an overwhelming amount of experimental evidence, showing that they descend from common parents, and consequently must be ranked as varieties.
+These plants:
+- differ considerably in appearance.
+- have a different flavour 
+- emit a different odour
+- flower at slightly different periods
+- grow in different stations
+- ascend mountains to different heights
+- have different geographical ranges
+- can be crossed only with much difficulty.
+  - This was done by Gartner's numerous experiments
 
-Close investigation, in most cases, will bring naturalists to an agreement how to rank doubtful forms. Yet it must be confessed, that it is in the best-known countries that we find the greatest number of forms of doubtful value. I have been struck with the fact, that if any animal or plant in a state of nature be highly useful to man, or from any cause closely attract his attention, varieties of it will almost universally be found recorded.
+   <!-- made during several years by that most careful observer , they   -->
 
-These varieties, moreover, will be often ranked by some authors as species. Look at the common oak, how closely it has been studied; yet a German author makes more than a dozen species out of forms, which are very generally considered as varieties; and in this country the highest botanical authorities and practical men can be quoted to show that the sessile and pedunculated oaks are either good and distinct species or mere varieties.
+<!-- We could hardly wish for better evidence of the two forms being specifically distinct. -->
+
+On the other hand, they are united by many intermediate links that are not hybrids.
+
+An overwhelming amount of experimental evidence shows that they descend from common parents. Consequently, they must be ranked as varieties.
+
+
+Close investigation is the basis of how to rank doubtful forms.
+
+We find the most forms of doubtful value in the best-known countries.
+
+If any wild organism is highly useful or attractive to man, varieties of it will be found recorded as species.
+
+The common oak has studied closely. Yet a German author makes more than a dozen species out of forms, which are generally considered as varieties.
+
+In this country the highest botanical authorities and practical men can be quoted to show that the sessile and pedunculated oaks are either good and distinct species or mere varieties.
 
 When a young naturalist commences the study of a group of organisms quite unknown to him, he is at first much perplexed to determine what differences to consider as specific, and what as varieties; for he knows nothing of the amount and kind of variation to which the group is subject; and this shows, at least, how very generally there is some variation.
 
@@ -60,13 +85,25 @@ And I look at varieties which are in any degree more distinct and permanent, as 
 
 I attribute the passage of a variety, from a state in which it differs very slightly from its parent to one in which it differs more, to the action of natural selection in accumulating (as will hereafter be more fully explained) differences of structure in certain definite directions. Hence I believe a well- marked variety may be justly called an incipient species;
 
-but whether this belief be justifiable must be judged of by the general weight of the several facts and views given throughout this work. It need not be supposed that all varieties or incipient species necessarily attain the rank of species. 
+<!-- but whether this belief be justifiable must be judged of by the general weight of the several facts and views given throughout this work. It need  -->
 
-They may whilst in this incipient state become extinct, or they may endure as varieties for very long periods, as has been shown to be the case by Mr. Wollaston with the varieties of certain fossil land-shells in Madeira. 
+Not all varieties or incipient species necessarily attain the rank of species. 
 
-If a variety were to flourish so as to exceed in numbers the parent species, it would then rank as the species, and the species as the variety; or it might come to supplant and exterminate the parent species; or both might co-exist, and both rank as independent species. But we shall hereafter have to return to this subject.
+While in this incipient state, they may become extinct.
 
-From these remarks it will be seen that I look at the term species, as one arbitrarily given for the sake of convenience to a set of individuals closely resembling each other, and that it does not essentially differ from the term variety, which is given to less distinct and more fluctuating forms. 
+Or they may endure as varieties for a long time.
+- This has been shown by Mr. Wollaston with the varieties of certain fossil land-shells in Madeira. 
+
+If a variety were to flourish so as to exceed in numbers the parent species, it would then rank as the species, and the species as the variety.
+
+Or it might supplant and exterminate the parent species.
+
+Or both might co-exist and rank as independent species.
+
+
+The term 'species' is arbitrarily given for the sake of convenience to a set of individuals closely resembling each other. 
+
+It does not essentially differ from the term variety, which is given to less distinct and more fluctuating forms. 
 
 The term variety, again, in comparison with mere individual differences, is also applied arbitrarily, and for mere convenience sake.
 

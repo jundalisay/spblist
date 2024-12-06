@@ -8,8 +8,8 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/philos.jpg"
 icon: "/icons/descartes.png"
-# aliases:
-#   /research/descartes/philosophy/part-4/section-01
+aliases:
+  /research/descartes/philosophy/part-4/section-01
 ---
 
 

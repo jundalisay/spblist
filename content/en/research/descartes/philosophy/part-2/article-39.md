@@ -11,7 +11,6 @@ icon: "/icons/descartes.png"
 # aliases:
 #   /research/descartes/philosophy/part-2/section-04c
 ---
----
 
 
 #### 39. The Second law of nature: Every motion in itself is straight. Things which move in a circular manner  always tend to move away from the center of the circle which they describe.
