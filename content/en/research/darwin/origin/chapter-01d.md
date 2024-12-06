@@ -1,9 +1,8 @@
 ---
 title: The Breeds of the Domestic Pigeon
 heading: Chapter 1b
-# First Meditation
-weight: 6
-description: ""
+weight: 7
+description: "Many treatises in different languages have been published on pigeons."
 image: "/covers/origin.jpg"
 ---
 

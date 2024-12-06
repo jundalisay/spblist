@@ -1,56 +1,92 @@
 ---
-title: Variation Under Nature
+title: The Galapagos Birds
 heading: Chapter 2b
 weight: 14
-description: ""
+description: "Many years ago I compared the birds from the separate islands of the Galapagos Archipelago"
 image: "/covers/origin.jpg"
 ---
 
 
-Alph. De Candolle and others have shown that plants which have very wide ranges generally present varieties.
+Many years ago I compared the birds from the separate islands of the Galapagos Archipelago with those from the American mainland.
 
-This might have been expected, as they become exposed to diverse physical conditions, and as they come into competition (which, as we shall hereafter see, is a far more important circumstance) with different sets of organic beings. But my tables further show that, in any limited country, the species which are most common, that is abound most in individuals, and the species which are most widely diffused within their own country (and this is a different consideration from wide range, and to a certain extent from commonness), often give rise to varieties sufficiently well-marked to have been recorded in botanical works.
+I was struck how vague and arbitrary was the distinction between species and varieties.
 
-Hence the dominant species,--those which range widely over the world, are the most diffused in their own country, and are the most numerous in individuals,--which oftenest produce well-marked varieties, or, as I consider them, incipient species. 
+On the islets of the little Madeira group there are many insects which are characterized as varieties in Mr. Wollaston's admirable work, but which it cannot be doubted would be ranked as distinct species by many entomologists.
 
-This, perhaps, might have been anticipated; for, as varieties, in order to become in any degree permanent, necessarily have to struggle with the other inhabitants of the country, the species which are already dominant will be the most likely to yield offspring which, though in some slight degree modified,will still inherit those advantages that enabled their parents to become dominant over their compatriots.
+Ireland has a few animals regarded as varieties, but have been ranked as species by some zoologists.
+
+Our experienced ornithologists consider our British red grouse only as a strongly-marked race of a Norwegian species.
+- Whereas most rank it as an undoubted species peculiar to Great Britain. 
+
+A wide distance between the homes of 2 doubtful forms leads many naturalists to rank both as distinct species. But what distance will suffice?*
+
+{{< n n="Here, Darwin gets the same difficulty as Adam Smith had in classifying the sentiments" >}}
 
 
-If the plants inhabiting a country and described in any Flora be divided into two equal masses, all those in the larger genera being placed on one side, and all those in the smaller genera on the other side, a somewhat larger number of the very common and much diffused or dominant species will be found on the side of the larger genera.
+If that between America and Europe is ample, will that between the Continent and the Azores, or Madeira, or the Canaries, or Ireland, be sufficient?
 
-This, again, might have been anticipated; for the mere fact of many species of the same genus inhabiting any country, shows that there is something in the organic or inorganic conditions of that country favourable to the genus; and, consequently, we might have expected to have found in the larger genera, or those including many species, a large proportional number of dominant species.
+It must be admitted that many forms, considered by highly-competent judges as varieties, have so perfectly the character of species that they are ranked by other highly-competent judges as good and true species.
 
-But so many causes tend to obscure this result, that I am surprised that my tables show even a small majority on the side of the larger genera. I will here allude to only two causes of obscurity. Fresh-water and salt-loving plants have generally very wide ranges and are much diffused, but this seems to be connected with the nature of the stations inhabited by them, and has little or no relation to the size of the genera to which the species belong.
+But to discuss whether they are rightly called species or varieties, before any definition of these terms has been generally accepted, is vainly to beat the air.
 
-Again, plants low in the scale of organisation are generally much more widely diffused than plants
-higher in the scale; and here again there is no close relation to the size of the genera. The cause of
-lowly-organised plants ranging widely will be discussed in our chapter on geographical
-distribution.
+Many of the cases of strongly-marked varieties or doubtful species well deserve consideration; for several interesting lines of argument, from geographical distribution, analogical variation, hybridism, &c., have been brought to bear on the attempt to determine their rank. I will here give only a single instance,--the well-known one of the primrose and cowslip, or Primula veris and elatior.
 
-From looking at species as only strongly-marked and well-defined varieties, I was led to anticipate that the species of the larger genera in each country would oftener present varieties, than the species of the smaller genera; for wherever many closely related species (i.e. species of the same genus) have been formed, many varieties or incipient species ought, as a general rule, to be now forming. Where many large trees grow, we expect to find saplings. Where many species of a genus have been formed through variation, circumstances have been favourable for variation; and hence we might expect that the circumstances would generally be still favourable to variation.
+These plants differ considerably in appearance; they have a different flavour and emit a different odour; they flower at slightly different periods; they grow in somewhat different stations; they ascend mountains to different heights; they have different geographical ranges; and lastly,according to very numerous experiments made during several years by that most careful observer Gartner, they can be crossed only with much difficulty. 
 
-On the other hand, if we look at each species as a special act of creation, there is no apparent reason why more varieties should occur in a group having many species, than in one having few. To test the truth of this anticipation I have arranged the plants of twelve countries, and the coleopterous insects of two districts, into two nearly equal masses, the species of the larger genera on one side, and those of the smaller genera on the other side, and it has invariably proved to be the case that a larger proportion of the species on the side of the larger genera present varieties, than on the side of the smaller genera. Moreover, the species of the large genera which present any varieties, invariably present a larger average number of varieties than do the species of the small genera. 
+We could hardly wish for better evidence of the two forms being specifically distinct. On the other hand, they are united by many intermediate links, and it is very doubtful whether these links are hybrids; and there is, as it seems to me, an overwhelming amount of experimental evidence, showing that they descend from common parents, and consequently must be ranked as varieties.
 
-Both these results follow when another division is made, and when all the smallest genera, with from only one to four species, are absolutely excluded from the tables. These facts are of plain signification on the view that species are only strongly marked and permanent varieties; for whenever many species of the same genus have been formed, or where, if we may use the expression, the manufactory of species has been active, we ought generally to find the manufactory still in action, more especially as we have every reason to believe the process of manufacturing new species to be a slow one. 
+Close investigation, in most cases, will bring naturalists to an agreement how to rank doubtful forms. Yet it must be confessed, that it is in the best-known countries that we find the greatest number of forms of doubtful value. I have been struck with the fact, that if any animal or plant in a state of nature be highly useful to man, or from any cause closely attract his attention, varieties of it will almost universally be found recorded.
 
-This is the case, if varieties be looked at as incipient species; for my tables clearly show as a general rule that, wherever many species of a genus have been formed, the species of that genus present a number of varieties, that is of incipient species, beyond the average. It is not that all large genera are now varying much, and are thus increasing in the number of their species, or that no small genera are now varying and increasing; for if this hadbeen so, it would have been fatal to my theory; inasmuch as geology plainly tells us that small genera have in the lapse of time often increased greatly in size; and that large genera have often come to their maxima, declined, and disappeared.
+These varieties, moreover, will be often ranked by some authors as species. Look at the common oak, how closely it has been studied; yet a German author makes more than a dozen species out of forms, which are very generally considered as varieties; and in this country the highest botanical authorities and practical men can be quoted to show that the sessile and pedunculated oaks are either good and distinct species or mere varieties.
 
-All that we want to show is, that where many species of a genus have been formed, on an average many are still forming; and this holds good. There are other relations between the species of large genera and their recorded varieties which deserve notice. We have seen that there is no infallible criterion by which to distinguish species and well-marked varieties; and in those cases in which intermediate links have not been found between doubtful forms, naturalists are compelled to come to a determination by the amount of difference between them, judging by analogy whether or not the amount suffices to raise one or both to the rank of species. Hence the amount of difference is one very important criterion in settling whether two forms should be ranked as species or varieties. 
+When a young naturalist commences the study of a group of organisms quite unknown to him, he is at first much perplexed to determine what differences to consider as specific, and what as varieties; for he knows nothing of the amount and kind of variation to which the group is subject; and this shows, at least, how very generally there is some variation.
 
-Fries has remarked in regard to plants, and Westwood in regard to insects, that in large genera the amount of difference between the species is often exceedingly small. I have endeavoured to test this numerically by averages, and, as far as my imperfect results go, they always confirm the view. I have also consulted some sagacious and most experienced observers, and, after deliberation, they concur in this view. In this respect, therefore, the species of the larger genera resemble varieties, more than do the species of the smaller genera. Or the case may be put in another way, and it may be said, that in the larger genera, in which a number of varieties or incipient species greater than the average are now manufacturing, many of the species already manufactured still to a certain extent resemble varieties, for they differ from each other by a less than usual amount of difference.
+But if he confine his attention to one class within one country, he will soon make up his mind how to rank most of the doubtful forms. His general tendency will be to make many species, for he will become impressed, just like the pigeon or poultry-fancier before alluded to, with the amount of difference in the forms which he is continually studying; 
 
-Moreover, the species of the large genera are related to each other, in the same manner as the varieties of any one species are related to each other. No naturalist pretends that all the species of a genus are equally distinct from each other; they may generally be divided into sub-genera, or sections, or lesser groups. 
 
-As Fries has well remarked, little groups of species are generally clustered like satellites around certain other species. And what are varieties but groups of forms, unequally related to each other, and clustered round certain forms--that is, round their parent- species? Undoubtedly there is one most important point of difference between varieties and species; namely, that the amount of difference between varieties, when compared with each other or with their parent-species, is much less than that between the species of the same genus. But when we come to discuss the principle, as I call it, of Divergence of Character, we shall see how this may be explained, and how the lesser differences between varieties will tend to increase into the greater differences between species.
+He has little general knowledge of analogical variation in other groups and in other countries, by which to correct his first impressions. As he extends the range of his observations, he will meet with more cases of difficulty; for he will encounter a greater number of closely-allied forms. 
 
-There is one other point which seems to me worth notice. Varieties generally have much restricted ranges: this statement is indeed scarcely more than a truism, for if a variety were found to have a wider range than that of its supposed parent-species, their denominations ought to be reversed. But there is also reason to believe, that those species which are very closely allied to other species, and in so far resemble varieties, often have much restricted ranges.
+But if his observations be widely extended, he will in the end generally be enabled to make up his own mind which to call varieties and which species; but he will succeed in this at the expense of admitting much variation,--and the truth of this admission will often be disputed by other naturalists. When, moreover, he comes to study allied forms brought from countries not now continuous, in which case he can hardly hope to find the intermediate links between his doubtful forms, he will have to trust almost entirely to analogy, and his difficulties will rise to a climax.
 
-For instance, Mr. H. C. Watson has marked for me in the well-sifted London Catalogue of plants (4th edition) 63 plants which are therein ranked as species, but which he considers as so closely allied to other species as to be of doubtful value: these 63 reputed species range on an average over 6.9 of the provinces into which Mr. Watson has divided Great Britain.
+Certainly no clear line of demarcation has as yet been drawn between species and sub-species--that
+is, the forms which in the opinion of some naturalists come very near to, but do not quite arrive at
+the rank of species; or, again, between sub-species and well-marked varieties, or between lesser
+varieties and individual differences. These differences blend into each other in an insensible series;
+and a series impresses the mind with the idea of an actual passage.
 
-In this same catalogue, 53 acknowledged varieties are recorded, and these range over 7.7 provinces; whereas, the species to which these varieties belong range over 14.3 provinces. So that the acknowledged varieties have very nearly the same restrictedaverage range, as have those very closely allied forms, marked for me by Mr. Watson as doubtful species, but which are almost universally ranked by British botanists as good and true species.
+Hence I look at individual differences, though of small interest to the systematist, as of high importance for us, as being the first step towards such slight varieties as are barely thought worth recording in works on natural history.
 
-Finally, then, varieties have the same general characters as species, for they cannot be distinguished from species,--except, firstly, by the discovery of intermediate linking forms, and the occurrence of such links cannot affect the actual characters of the forms which they connect; and except, secondly, by a certain amount of difference, for two forms, if differing very little, are generally ranked as varieties, notwithstanding that intermediate linking forms have not been discovered; but the amount of difference considered necessary to give to two forms the rank of species is quite indefinite. In genera having more than the average number of species in any country, the species of these genera have more than the average number of varieties.
+And I look at varieties which are in any degree more distinct and permanent, as steps leading to more strongly marked and more permanent varieties; and at these latter, as leading to sub-species, and to species. The passage from one stage of difference to another and higher stage may be, in some cases, due merely to the long-continued action ofdifferent physical conditions in two different regions; but I have not much faith in this view; 
 
-In large genera the species are apt to be closely, but unequally, allied together, forming little clusters round certain species. Species very closely allied to other species apparently have restricted ranges. In all these several respects the species of large genera present a strong analogy with varieties. And we can clearly understand these analogies, if species have once existed as varieties, and have thus originated: whereas, these analogies are utterly inexplicable if each species has been independently created.
+I attribute the passage of a variety, from a state in which it differs very slightly from its parent to one in which it differs more, to the action of natural selection in accumulating (as will hereafter be more fully explained) differences of structure in certain definite directions. Hence I believe a well- marked variety may be justly called an incipient species;
 
-We have seen that it is the most flourishing and dominant species of the larger genera which on an average vary most; and varieties, as we shall hereafter see, tend to become converted into new and distinct species. The larger genera thus tend to become larger; and throughout nature the forms of life which are now dominant tend to become still more dominant by leaving many modified and dominant descendants. But by steps hereafter to be explained, the larger genera also tend to break up into smaller genera. And thus, the forms of life throughout the universe become divided into groups subordinate to groups.
+but whether this belief be justifiable must be judged of by the general weight of the several facts and views given throughout this work. It need not be supposed that all varieties or incipient species necessarily attain the rank of species. 
+
+They may whilst in this incipient state become extinct, or they may endure as varieties for very long periods, as has been shown to be the case by Mr. Wollaston with the varieties of certain fossil land-shells in Madeira. 
+
+If a variety were to flourish so as to exceed in numbers the parent species, it would then rank as the species, and the species as the variety; or it might come to supplant and exterminate the parent species; or both might co-exist, and both rank as independent species. But we shall hereafter have to return to this subject.
+
+From these remarks it will be seen that I look at the term species, as one arbitrarily given for the sake of convenience to a set of individuals closely resembling each other, and that it does not essentially differ from the term variety, which is given to less distinct and more fluctuating forms. 
+
+The term variety, again, in comparison with mere individual differences, is also applied arbitrarily, and for mere convenience sake.
+
+<!-- Guided by theoretical considerations, I thought that some interesting results might be obtained in regard to the nature and relations of the species which vary most, by -->
+
+I thought of tabulating all the varieties in several well-worked floras. 
+
+At first this seemed a simple task.
+
+But the following convinced me that this would be difficult:
+- Mr. H. C. Watson
+- Dr. Hooker
+
+<!-- , to whom I am much indebted for valuable advice and assistance on this subject, soon convinced me that there were many difficulties, as did subsequently , even in stronger terms.  -->
+
+<!-- I shall reserve for my future work the discussion of these difficulties, and the tables themselves of the proportional numbers of the varying species.
+
+Dr. Hooker permits me to add, that after having carefully read my manuscript, and examined the tables, he thinks that the following statements are fairly well established. -->
+
+This whole subject is rather perplexing.
+
+<!-- , and allusions cannot be avoided to the 'struggle for existence,' 'divergence of character,' and other questions, hereafter to be discussed. -->
+

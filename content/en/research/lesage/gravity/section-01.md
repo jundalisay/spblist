@@ -2,7 +2,7 @@
 heading: "Sections 1-10"
 title: "The Epicurean System"
 description: "If the disciples of Epicurus had been as fully persuaded of the sphericity of the earth as they were of its flatness"
-image: "/covers/lesage.jpg"
+image: "/covers/gravitation.png"
 # date: 2023-02-15
 weight: 2
 icon: /avatars/lesage.png

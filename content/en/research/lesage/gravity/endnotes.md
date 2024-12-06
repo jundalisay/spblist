@@ -1,7 +1,7 @@
 ---
 title: "Endnotes"
 description: "When once the Epicureans were thus come to explain the matter so neatly, the most thoughtful and curious among them would certainly have followed out the consequences"
-image: "/covers/lesage.jpg"
+image: "/covers/gravitation.png"
 # date: 2023-02-15
 weight: 8
 icon: /avatars/lesage.png

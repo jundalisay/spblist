@@ -2,8 +2,8 @@
 title: Selection
 heading: Chapter 1c
 # First Meditation
-weight: 7
-description: ""
+weight: 8
+description: "How are domesticated races produced either from one or several allied species?"
 image: "/covers/origin.jpg"
 ---
 
