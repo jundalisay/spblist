@@ -2,7 +2,7 @@
 title: Weathering
 heading: Chapter 9b
 # First Meditation
-weight: 54
+weight: 62
 description: ""
 image: "/covers/origin.jpg"
 ---

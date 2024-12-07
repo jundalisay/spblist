@@ -1,8 +1,8 @@
 ---
 title: Extinction
 heading: Chapter 4e
-weight: 20
-description: ""
+weight: 28
+description: "The greatest amount of life can be supported by great diversification of structure. This is seen under many natural circumstances"
 image: "/covers/origin.jpg"
 ---
 

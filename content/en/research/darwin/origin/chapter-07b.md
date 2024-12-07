@@ -1,9 +1,8 @@
 ---
 title: Slave-making instinct
 heading: Chapter 7b
-# First Meditation
-weight: 32
-description: ""
+weight: 48
+description: "This remarkable instinct was first discovered in the Formica (Polyerges) rufescens by Pierre Huber"
 image: "/covers/origin.jpg"
 ---
 

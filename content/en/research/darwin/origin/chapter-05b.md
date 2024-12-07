@@ -1,13 +1,20 @@
 ---
 title: Acclimatisation
 heading: Chapter 5b
-weight: 8
-description: ""
+weight: 32
+description: "Habit is hereditary with plants"
 image: "/covers/origin.jpg"
 ---
  
 
-Habit is hereditary with plants, as in the period of flowering, in the amount of rain requisite for seeds to germinate, in the time of sleep, &c., and this leads me to say a few words on acclimatisation. As it is extremely common for species of the same genus to inhabit very hot and very cold countries, and as I believe that all the species of the same genus have descended from a single parent, if this view be correct, acclimatisation must be readily effected during long- continued descent. It is notorious that each species is adapted to the climate of its own home: species from an arctic or even from a temperate region cannot endure a tropical climate, or conversely.
+Habit is hereditary with plants. Examples are:
+- the period of flowering
+- the amount of rain needed for seeds to germinate
+- the time of sleep, &c.,
+
+ <!-- this leads me to say a few words on acclimatisation. As  -->
+
+It is extremely common for species of the same genus to inhabit very hot and very cold countries, and as I believe that all the species of the same genus have descended from a single parent, if this view be correct, acclimatisation must be readily effected during long- continued descent. It is notorious that each species is adapted to the climate of its own home: species from an arctic or even from a temperate region cannot endure a tropical climate, or conversely.
 
 So again, many succulent plants cannot endure a damp climate. But the degree of adaptation of species to the climates under which they live is often overrated. We may infer this from our frequent inability to predict whether or not an imported plant will endure our climate, and from the number of plants and animals brought from warmer countries which here enjoy good health. We have reason to believe that species in a state of nature are limited in their ranges by thecompetition of other organic beings quite as much as, or more than, by adaptation to particular climates. But whether or not the adaptation be generally very close, we have evidence, in the case of some few plants, of their becoming, to a certain extent, naturally habituated to different temperatures, or becoming acclimatised: thus the pines and rhododendrons, raised from seed collected by Dr. Hooker from trees growing at different heights on the Himalaya, were found in this country to possess different constitutional powers of resisting cold.
 

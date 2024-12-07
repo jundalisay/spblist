@@ -3,7 +3,7 @@ title: Natural Selection
 heading: Chapter 4
 # First Meditation
 weight: 20
-description: ""
+description: "How will the struggle for existence, discussed too briefly in the last chapter, act in regard to variation? Can the principle of selection, which we have seen is so potent in the hands of man"
 image: "/covers/origin.jpg"
 ---
 

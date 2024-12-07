@@ -2,7 +2,7 @@
 title: Difficulties on Theory
 heading: Chapter 6
 # First Meditation
-weight: 32
+weight: 42
 description: ""
 image: "/covers/origin.jpg"
 ---

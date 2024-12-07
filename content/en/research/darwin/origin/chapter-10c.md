@@ -1,8 +1,7 @@
 ---
 title: The Forms of Life changing almost simultaneously throughout the World
 heading: Chapter 10c
-# First Meditation
-weight: 52
+weight: 68
 description: ""
 image: "/covers/origin.jpg"
 ---

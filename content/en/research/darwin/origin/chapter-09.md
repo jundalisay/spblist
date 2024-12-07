@@ -2,7 +2,7 @@
 title: The Imperfection of the Geological Record
 heading: Chapter 9
 # First Meditation
-weight: 52
+weight: 60
 description: ""
 image: "/covers/origin.jpg"
 ---

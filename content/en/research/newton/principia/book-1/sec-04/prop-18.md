@@ -3,7 +3,6 @@ heading: Proposition 18
 title: "Elliptic and hyperbolic trajectories"
 description: "Let the perpendicular TR cut the right line HV in R and then join SR. TS and TV are equal"
 author: Newton
-draft: true
 image: "/covers/principia.jpg"
 ---
 
@@ -30,52 +29,8 @@ Let:
 
 The center P has an interval AB-SP. If the orbit is an ellipsis, or AB-SP, if the orbit is an hyperbola, describe the circle
 
-About the centre P, with the
+Around the centre P, with the interval AB - SP, if the orbit is an ellipsis, or AB + SP, if the orbit is an hyperbola, describe the circle HG. On the tangent TR let fall the perpendicular ST, and produce the same to V, so that TV may be equal to ST; and about V as a centre with the interval AB describe the circle FH. In this manner, whether two points P, p, are given, or two tangents TR, tr, or a point P and a tangent TR, we are to describe two circles. Let H be their common intersection, and from the foci S, H, with the given axis describe the trajectory: I say, the thing is done. For (because PH + SP in the ellipsis, and PH - SP in the hyperbola, is equal to the axis) the described trajectory will pass through the point P, and (by the preceding Lemma) will touch the right line TR. And by the same argument it will either pass through the two points P, p, or touch the two right lines TR, tr.   Q.E.F.
 
-On the tangent
-TR let fall
-ST, and produce the same to V, so that TV may be
-V as a centre with the interval AB describe the
-and
-about
-to
-ST;
-equal
-In this manner, whether two points P, p, are given, or two
-circle FH.
-the perpendicular
-tangents TR,
-circles. 
-
-Let
-or a point P and a tangent TR, we are to describe two
-be their common intersection, and from the foci S, H, with
-tr,
-H
-the given axis describe the trajectory
-in the ellipsis, and
-cause
--f- SP
-I say, the
-:
-PH
-PH
-SP
-thing
-is
-done.
-For
-(be
-in the hyperbola, is equal
-to the axis) the described trajectory will pass through the point P, and (by
-And by the same
-the preceding Lemma) will touch the right line TR.
-argument
-right lines
-it
-through the two points P, p, or touch the two
-will either pass
-TR.
 
 ## Proposition 19 Problem 11
 
@@ -88,68 +43,4 @@ Let:
 - P a point
 - TR a tangent of the trajectory to be drawn
 
-With P as a centre, with the interval PS, draw the circle
-
- FG. From
-the focus let fall ST perpendicular on the tangent, and
-may be equal to ST.
-produce the same to V, so as
-TV
-After the same manner another circle
-fg
-is
-to be de
-another point p is given or another point v
-is to be found, if another tangent tr is given; then draw
-the right line IF, which shall touch the two circles YG,fg,
-scribed, if
-if two points
-two
-the
-are
-or
-if
-two
-points V, v,
-P, p
-pass through
-given
-tangents TR,
-or touch the circle FG, and pass through the point V, if the
-tr, are given
-are given.
-On FI let fall the perpendicular
-point P and the tangent
-
-SI,
-and
-bisect the
-same
-describe a parabola
-SK
-is
-:
-TR
-K
-in
-;
-and with the axis
-SK and principal vertex K
-thing is done. For this parabola (because
-to FP) will pass
-through the point P and
-I say the
-equal to IK, and
-SP
-(by Cor. 3, Lem. XIV) because
-gle, it will touch the right line
-ST
-equal to
-is
-TR.
-127
-STR
-TV. and
-a light an
-
-
+With P as a centre, with the interval PS, draw the circle FG. From the focus let fall ST perpendicular on the tangent, and produce the same to V, so as TV may be equal to ST. After the same manner another circle fg is to be described, if another point p is given; or another point v is to be found, if another tangent tr is given; then draw the right line IF, which shall touch the two circles FG, fg, if two points P, p are given; or pass through the two points V, v, if two tangents TR, tr, are given: or touch the circle FG, and pass through the point V, if the point P and the tangent TR are given. On FI let fall the perpendicular SI, and bisect the same in K; and with the axis SK and principal vertex K describe a parabola: I say the thing is done. For this parabola (because SK is equal to IK, and SP to FP) will pass through the point P; and (by Cor. 3, Lem. XIV) because ST is equal to TV, and STR a right angle, it will touch the right line TR.   Q.E.F.

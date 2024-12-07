@@ -1,12 +1,10 @@
 ---
 title: Extinction
 heading: Chapter 10
-# First Meditation
-weight: 52
-description: ""
+weight: 66
+description: "On the theory of natural selection, the extinction of old forms and the production of new and improved forms are intimately connected"
 image: "/covers/origin.jpg"
 ---
-
  
 
 On the theory of natural selection, the extinction of old forms and the production of new and improved forms are intimately connected.

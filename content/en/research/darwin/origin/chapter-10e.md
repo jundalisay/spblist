@@ -1,9 +1,8 @@
 ---
 title: Variation under Domestication
-heading: Chapter 1
-# First Meditation
-weight: 56
-description: ""
+heading: Chapter 10e
+weight: 72
+description: "On this same theory, the fauna of any great period in the earth's history will be intermediate in general character between that which preceded and that which succeeded it."
 image: "/covers/origin.jpg"
 ---
 

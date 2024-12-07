@@ -62,75 +62,15 @@ The application is easy, by only substituting the equable description of areas i
 
 ### Corollary 9
 
-From the same demonstration it likewise follows, that the arc which a body, uniformly revolving in a circle by means of a given centri
-describes in any time, is a mean proportional between the 
-petal force,
-diameter of the circle, and the space which the same body falling by the
-force would descend through in the same given time.
-same
-given
+From the same demonstration it likewise follows, that the arc which a body, uniformly revolving in a circle by means of a given centripetal force, describes in any time, is a mean proportional between the diameter of the circle, and the space which the same body falling by the same given force would descend through in the same given time.
+
+
 
 ## SCHOLIUM
 
-The case of the 6th Corollary obtains in the celestial bodies (as Sir
-Christopher Wren, Dr. Hooke, and Dr. Halley have severally observed)
-and therefore in what follows, I intend to treat more at large of those to centripetal force decreasing in a duplicate ratio things which relate
-the centres.
+The case of the 6th Corollary obtains in the celestial bodies (as Sir Christopher Wren, Dr. Hooke, and Dr. Halley have severally observed); and therefore in what follows, I intend to treat more at large of those things which relate to centripetal force decreasing in a duplicate ratio of the distances from the centres.
 
-from
-distances
-the
-of
-of the preceding Proposition and its Corollaries, we
-means
-Moreover, by discover the proportion of a centripetal force to any other known
-For if a body by means of its gravity re
-force, such as that of gravity.
-may
-volves in a circle concentric to the earth, this gravity is the centripetal
-But from the descent of heavy bodies, the time of one
-force of that body.
-entire revolution, as well as the arc described in
-any given time, is given
-such propositions, Mr. Huygens, in his Oscillatorio, has compared the force of
+Moreover, by means of the preceding Proposition and its Corollaries, we may discover the proportion of a centripetal force to any other known force, such as that of gravity. For if a body by means of its gravity revolves in a circle concentric to the earth, this gravity is the centripetal force of that body. But from the descent of heavy bodies, the time of one entire revolution, as well as the arc described in any given time, is given (by Cor. 9 of this Prop.). And by such propositions, Mr. Huygens, in his excellent book De Horologio Oscillatorio, has compared the force of gravity with the centrifugal forces of revolving bodies.
 
-(by Cor. 9 of this Prop.).
+The preceding Proposition may be likewise demonstrated after this manner. In any circle suppose a polygon to be inscribed of any number of sides. And if a body, moved with a given velocity along the sides of the polygon, is reflected from the circle at the several angular points, the force, with which at every reflection it strikes the circle, will be as its velocity: and therefore the sum of the forces, in a given time, will be as that velocity and the number of reflections conjunctly: that is (if the species of the polygon be given), as the length described in that given time, and increased or diminished in the ratio of the same length to the radius of the circle; that is, as the square of that length applied to the radius; and therefore the polygon, by having its sides diminished in infinitum, coincides with the circle, as the square of the arc described in a given time applied to the radius. This is the centrifugal force, with which the body impels the circle; and to which the contrary force, wherewith the circle continually repels the body towards the centre, is equal.
 
-De Horologio
-the
-with
-centrifugal forces of revolving bodies.
-gravity
-The preceding Proposition may be likewise demonstrated after this
-manner. In any circle suppose a polygon to be inscribed of any number
-excellent book
-And
-of sides.
-polygon,
-if
-a body,
-is reflected
-moved with a given
-from the
-velocity along the sides of the
-angular points, the force,
-circle at the several
-with which at every reflection it strikes the circle, will be as its velocity
-and therefore the sum of the forces, in a given time, will be as that ve
-that is (if the species of
-locity and the number of reflections conjunctly
-
-the polygon be given), as the length described in that given time, and in
-creased or diminished in the ratio of the same length to the radius of the
-that is, as the square of that length applied to the radius and
-therefore the polygon, by having its sides diminished in inftnitum, coin
-cides with the circle, as the square of the arc described in a given time ap
-This is the centrifugal force, with which the body
-plied to the radius.
-circle
-
-impels the circle
-and
-which the contrary
-to
-continually repels the body towards the centre,

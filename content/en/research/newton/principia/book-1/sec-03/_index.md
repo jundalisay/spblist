@@ -1,6 +1,6 @@
 ---
 heading: Section 3
-title: "Centripetal Forces Applied"
+title: "Of the motion of bodies in eccentric conic sections."
 description: "We simplify Section 3 of Principia Mathematica by Isaac Newton"
 author: Newton
 image: "/covers/principia.jpg"

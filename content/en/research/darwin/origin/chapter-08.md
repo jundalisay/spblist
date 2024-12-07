@@ -2,8 +2,8 @@
 title: Hybridism
 heading: Chapter 8
 # First Meditation
-weight: 42
-description: ""
+weight: 52
+description: "Naturalists believe that species, when intercrossed, have been specially endowed with sterility"
 image: "/covers/origin.jpg"
 ---
 
@@ -15,8 +15,7 @@ Causes of the sterility of first crosses and of hybrids -- Parallelism between t
 conditions of life and crossing -- Fertility of varieties when crossed and of their mongrel offspring
 not universal -- Hybrids and mongrels compared independently of their fertility -- Summary. -->
 
-The view generally entertained by naturalists is that species, when intercrossed, have been specially
-endowed with the quality of sterility, in order to prevent the confusion of all organic forms. This
+Naturalists believe that species, when intercrossed, have been specially endowed with sterility, in order to prevent the confusion of all organic forms. This
 view certainly seems at first probable, for species within the same country could hardly have kept
 distinct had they been capable of crossing freely.
 

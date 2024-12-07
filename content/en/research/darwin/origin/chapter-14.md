@@ -2,7 +2,7 @@
 title: Recapitulation and Conclusion
 heading: Chapter 14
 # First Meditation
-weight: 4
+weight: 94
 description: "Convulsion occurs when there is a gas trapped within the nerves, not pure animal spirits"
 writer:
   name: Rene Descartes
