@@ -1,5 +1,6 @@
 ---
-title: "Levitation via Material Bands"
+## Material Bands
+title: "Levitation via Cartesian Relationality"
 date: 2022-08-04
 image: /graphics/physics/aethertech.png
 description: "Here, we explain Effort as implemented to create action-at-a-distance, something that is not known in Physics"
@@ -7,14 +8,26 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/spmat.png
+aliases:
+  /material/levitation
 ---
 
 
 <!-- In a past post, we explained [Material Bands for contact forces](/material/principles/part-5/chapter-03) by starting with an example of action at a distance, as levitation. This was to introduce the concept of metaphysical Effort, as being different from the physical Force from Newton. -->
 
-The Relativity of Einstein is totally debunked by the reality of non-magnetic levitation. This is done through the cancellation of the most1's which is done by aligning the channels in the atoms for them to pass through. 
+The Relativity of Einstein is totally debunked by the reality of non-magnetic levitation and prelevitation as seen in:
 
-This alignment is done through the force of the aether or moa2.
+- levitating Buddhist monks
+- Egyptian pyramid blocks and other ancient blocks made lighter for easier construction
+
+
+ This is done through "atom-shaking" which aligns atoms to allow qosts (virtual spacetime particles called 2nd Element in Cartesian Physics) to pass through.  
+
+This alignment is done through the force of the aether or soa (substance of aether) since the aether is the superior Element or Layer. We notate this force as Effort or `E`. This then matches our universal equation `E::Gl`
+
+
+{{< i s="/graphics/super/egl.png" a="The Eagle" c="" >}}
+
 
 <!-- 
 Here, we explain Effort as implemented to create action-at-a-distance, something that is not known in Physics. This is  because Einstein cancelled the aether which facilitates it. 
@@ -26,25 +39,27 @@ This is still in line with Nature since Maxwell, Fresnell, Hertz, Lord Kelvin, a
 ![Layers](/graphics/physics/layers.png) -->
 
 
-
-We take a 1 kilogram object then apply a prolonged emission on it to simulate the moa2. We find this reduces its weight by 1 gram. We call this prelevitation which is making a thing lighter without actually levitating.
-
+We take a 1 kilogram object and put it on a weighing scale. We then apply a prolonged emission on it to impose the soa. We find this reduces its weight by 1 gram. We call this prelevitation which is making a thing lighter without actually levitating.
 
 <!-- then use this as the basis for a levitating object propelled by the aether.    -->
 
 {{< i s="/graphics/physics/aethertech.png" a="Crude Aether technology" c="Crude aether technology can be done with home equipment" >}}
 
 
-This is where `G`, `g`, and the Kepler tensor will be necessary to change the state of an object in order to move it through spacetime without needing contact forces.  
+Technically, this produced very tine vertical movement and we are not able to create horizontal movement. But  in theory, horizontal movemnt is possible by adjusting the soa. This is already proven by levitating monks and would need more aethereal effort.
+
+<!-- This is where `G`, `g`, and the Kepler tensor will be necessary to change the state of an object in order to move it through spacetime without needing contact forces.   -->
 
 
-## All 5 Layers Work Together to Create Physical Reality
+### How it Works: All 5 Layers Work Together to Create Physical Reality
 
-In our experiment, we applied the moa2 on a material object via electromagnetism in order to reduce the force of gravity or most1 on it.  
+In our experiment, we applied soa on a material object in order to reduce the force of gravity or most on it.  
 
 This manifests as a slight movement which is recorded by the weighing scale. 
 
-More technically, the external aether changed the gravitational signature of the object to alter its material gravitational band with the Earth. 
+More technically, the external aether changed the gravitational signature of the object to alter its Cartesian Relation with the Earth. 
+
+<!-- material gravitational band  -->
 
 This means that, logically, the ability to change and generate movement for solid objects comes from the Material layer through the Convertible Layer. This matches the findings of Isaac Newton.
 
@@ -77,3 +92,6 @@ As you can see, all 5 layers are used to create the reality of the movement of t
 	Accordingly, we see Hindus preferring oral teachings, and the Egyptians not writing their aether technology down. Instead, the latter taught it orally to Pythagoras which taught it to his followers. Eventually it was learned by Timaeus who was recorded by Plato which we can read now online. 
 
 	Timaeus' account of the aether is important as it must match the aether of the Hindus (akasha) who use it to propel themselves, as levitating monks, instead of for construction. This then supports the case for aethereal propulsion in vehicles. The purported round shape of UFOs match our basic concept for propelling a mass using Descates' First Rule of Movement instead of Netwon's 3rd Law used in rockets. -->
+
+
+{{< u d="Dec 2024" u="We overhauled out material bands with Cartesian Relationality which is more developed" >}}
