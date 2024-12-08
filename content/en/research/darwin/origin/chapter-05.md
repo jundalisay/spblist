@@ -2,8 +2,8 @@
 title: Laws of VariationEffects of external conditions
 heading: Chapter 5
 # First Meditation
-weight: 26
-description: ""
+weight: 30
+description: "I have hitherto sometimes spoken as if the variations--so common and multiform in organic beings under domestication, and in a lesser degree in those in a state of nature--had been due to chance"
 image: "/covers/origin.jpg"
 ---
 

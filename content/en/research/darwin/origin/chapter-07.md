@@ -1,9 +1,8 @@
 ---
 title: Instinct
 heading: Chapter 7
-# First Meditation
-weight: 38
-description: ""
+weight: 46
+description: "An example of instinct is the hive-bee making its cells"
 image: "/covers/origin.jpg"
 ---
 

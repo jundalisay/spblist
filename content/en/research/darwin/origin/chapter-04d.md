@@ -1,8 +1,8 @@
 ---
 title: The Intercrossing of Individuals
 heading: Chapter 4d
-weight: 20
-description: ""
+weight: 24
+description: "Isolation is important in the production of new species"
 image: "/covers/origin.jpg"
 ---
 

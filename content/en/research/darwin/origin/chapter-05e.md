@@ -1,8 +1,8 @@
 ---
 title: Summary
 heading: Chapter 5e
-weight: 8
-description: ""
+weight: 40
+description: "Our ignorance of the laws of variation is profound"
 image: "/covers/origin.jpg"
 ---
  

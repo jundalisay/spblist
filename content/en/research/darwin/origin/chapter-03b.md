@@ -2,8 +2,8 @@
 title: Variation Under Nature
 heading: Chapter 3b
 # First Meditation
-weight: 14
-description: ""
+weight: 18
+description: "We have better evidence on this subject than mere theoretical calculations"
 image: "/covers/origin.jpg"
 ---
 

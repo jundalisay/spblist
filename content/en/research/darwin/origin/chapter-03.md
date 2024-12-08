@@ -1,9 +1,8 @@
 ---
 title: Struggle for Existencen
 heading: Chapter 3
-# First Meditation
-weight: 12
-description: ""
+weight: 16
+description: "Organic beings in a state of nature has some individual variability"
 image: "/covers/origin.jpg"
 ---
 

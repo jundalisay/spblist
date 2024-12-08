@@ -1,7 +1,7 @@
 ---
 title: The Inhabitants of Oceanic Islands
 heading: Chapter 13c
-weight: 56
+weight: 84
 description: "Several species of the same genus must originally have come from the same source"
 image: "/covers/origin.jpg"
 ---

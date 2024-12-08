@@ -2,7 +2,7 @@
 title: Means Dispersal during the Glacial period
 heading: Chapter 11d
 # First Meditation
-weight: 56
+weight: 58
 description: "Several species of the same genus must originally have come from the same source"
 image: "/covers/origin.jpg"
 ---

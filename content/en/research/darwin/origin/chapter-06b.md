@@ -2,8 +2,8 @@
 title: Difficulties on Theory
 heading: Chapter 6b
 # First Meditation
-weight: 32
-description: ""
+weight: 44
+description: "The Galeopithecus or flying lemur formerly was falsely ranked amongst bats"
 image: "/covers/origin.jpg"
 ---
 

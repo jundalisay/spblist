@@ -1,12 +1,10 @@
 ---
 title: The Geological Succession of Organic Beings
 heading: Chapter 10
-# First Meditation
-weight: 52
+weight: 64
 description: ""
 image: "/covers/origin.jpg"
 ---
-
 
 
 <!-- On the slow and successive appearance of new species -- On their different rates of change --

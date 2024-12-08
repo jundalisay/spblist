@@ -1,3 +1,13 @@
+---
+title: Summary of the preceding and present Chapters
+heading: Chapter 10f
+weight: 76
+description: "On this same theory, the fauna of any great period in the earth's history will be intermediate in general character between that which preceded and that which succeeded it."
+image: "/covers/origin.jpg"
+---
+
+
+
 I think we often have a wrong view of the probability of closely allied species invading each other's territory, when put into free intercommunication. Undoubtedly if one species has any advantage whatever over another, it will in a very brief time wholly or in part supplant it; but if both are equally well fitted for their own places in nature, both probably will hold their own places and keep separate for almost any length of time. Being familiar with the fact that many species, naturalised through man's agency, have spread with astonishing rapidity over new countries, we are apt to infer that most species would thus spread; but we should remember that the forms which become naturalised in new countries are not generally closely allied to the aboriginal inhabitants, but are very distinct species, belonging in a large proportion of cases,
 as shown by Alph. de Candolle, to distinct genera. 
 

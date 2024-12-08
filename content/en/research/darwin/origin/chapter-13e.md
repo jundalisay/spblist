@@ -1,8 +1,7 @@
 ---
 title: "Mutual Affinities of Organic Beings: Morphology, Embryology, Rudimentary Organs"
 heading: Chapter 13e
-# First Meditation
-weight: 56
+weight: 90
 description: "Several species of the same genus must originally have come from the same source"
 image: "/covers/origin.jpg"
 ---

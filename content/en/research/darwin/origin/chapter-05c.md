@@ -1,16 +1,20 @@
 ---
 title: Variation Under Nature
 heading: Chapter 5c
-weight: 8
-description: ""
+weight: 34
+description: "On the ordinary view of each species being independently created"
 image: "/covers/origin.jpg"
 ---
 
 
 
-On the ordinary view of each species having been independently created, why should that part of the structure, which differs from the same part in other independently-created species of the same genus, be more variable than those parts which are closely alike in the several species? I do not see that any explanation can be given.
+On the ordinary view of each species having been independently created, why should that part of the structure, which differs from the same part in other independently-created species of the same genus, be more variable than those parts which are closely alike in the several species?
 
-But on the view of species being only strongly marked and fixed varieties, we might surely expect to find them still often continuing to vary in those parts of their structure which have varied within a moderately recent period, and which have thus come todiffer. Or to state the case in another manner:--the points in which all the species of a genus resemble each other, and in which they differ from the species of some other genus, are called generic characters; and these characters in common I attribute to inheritance from a common progenitor, for it can rarely have happened that natural selection will have modified several species, fitted to more or less widely-different habits, in exactly the same manner: and as these so-called generic characters have been inherited from a remote period, since that period when the species first branched off from their common progenitor, and subsequently have not varied or come to differ in any degree, or only in a slight degree, it is not probable that they should vary at the present day. On the other hand, the points in which species differ from other species of the same genus, are called specific characters; and as these specific characters have varied and come to differ within the period of the branching off of the species from a common progenitor, it is probable that they should still often be in some degree variable,--at least more variable than those parts of the organisation which have for a very long period remained constant.
+I cannot explain this.
+
+But on the view of species being only strongly marked and fixed varieties, we might surely expect to find them still often continuing to vary in those parts of their structure which have varied within a moderately recent period, and which have thus come todiffer. 
+
+Or to state the case in another manner:--the points in which all the species of a genus resemble each other, and in which they differ from the species of some other genus, are called generic characters; and these characters in common I attribute to inheritance from a common progenitor, for it can rarely have happened that natural selection will have modified several species, fitted to more or less widely-different habits, in exactly the same manner: and as these so-called generic characters have been inherited from a remote period, since that period when the species first branched off from their common progenitor, and subsequently have not varied or come to differ in any degree, or only in a slight degree, it is not probable that they should vary at the present day. On the other hand, the points in which species differ from other species of the same genus, are called specific characters; and as these specific characters have varied and come to differ within the period of the branching off of the species from a common progenitor, it is probable that they should still often be in some degree variable,--at least more variable than those parts of the organisation which have for a very long period remained constant.
 
 In connexion with the present subject, I will make only two other remarks. I think it will be
 admitted, without my entering on details, that secondary sexual characters are very variable; I think

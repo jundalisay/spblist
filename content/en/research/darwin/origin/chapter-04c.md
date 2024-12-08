@@ -2,15 +2,15 @@
 title: The Intercrossing of Individuals
 heading: Chapter 4c
 # First Meditation
-weight: 20
-description: ""
+weight: 22
+description: "In the case of animals and plants with separated sexes, two individuals must always unite for each birth"
 image: "/covers/origin.jpg"
 ---
 
 
 I must here introduce a short digression. 
 
-In the case of animals and plants with separated sexes, it is of course obvious that two individuals must always unite for each birth; but in the case of hermaphrodites this is far from obvious. Nevertheless I am strongly inclined to believe that with all hermaphrodites two individuals, either occasionally or habitually, concur for the reproduction of their kind.
+In the case of animals and plants with separated sexes, two individuals must always unite for each birth. In the case of hermaphrodites this is far from obvious. Nevertheless I am strongly inclined to believe that with all hermaphrodites two individuals, either occasionally or habitually, concur for the reproduction of their kind.
 
 This view, I may add, was first suggested by Andrew Knight. We shall presently see its importance; but I must here treat the subject with extreme brevity, though I have the materials prepared for an ample discussion. All vertebrate animals, all insects, and some other large groups of animals, pair for each birth. 
 

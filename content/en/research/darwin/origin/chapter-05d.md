@@ -1,8 +1,8 @@
 ---
 title: Acclimatisation
 heading: Chapter 5d
-weight: 8
-description: ""
+weight: 38
+description: "On my theory, all the species of the same genus descended from a common parent"
 image: "/covers/origin.jpg"
 ---
  
