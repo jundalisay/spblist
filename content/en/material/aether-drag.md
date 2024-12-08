@@ -28,7 +28,9 @@ This model is confusing for materialists because it makes the aether as the supr
 
 The usual problem that they find is that the aether is arbitrary and irregular and cannot be clamped down as an exact science. 
 
-We define the **aether** as the **substance** of ideas, feelings, and the abstract minds that have those ideas and feelings.
+We define the **aether** as the **substance** of ideas, feelings, and the abstract minds that have those ideas and feelings. Operationally, this aether manifests as *citta* or mind-stuff in Vedic science. 
+
+This leads to the concept of Existence being a huge mind called *Brahma*. For those allergic to Hinduism, we replace it with a virtual supercomputer so that we are inside a virtual reality, similar to the Simulation Hypothesis. 
 
 - The aether serves as the foundation of the abstract sciences such as psychology, politics, economics, sociology (culture, trends, etc), philosophy, and so on. 
 - Matter serves as the foundation of the physical sciences such as physics, chemistry, astronomy, etc.
@@ -36,7 +38,7 @@ We define the **aether** as the **substance** of ideas, feelings, and the abstra
 
 This is why materialists see the random and arbitrary nature of quantum superposition as weird and spooky just because it always escapes their exact predictions and models. 
 
-And so matter-ialists like Newton refute Cartesian Physics, which is quantum-first and based on aethreal vortices, and replace it with his own matter-based Physics, which is regular and predictable.
+And so matter-ialists like Newton refute Cartesian Physics, which is quantum-first and based on aethereal vortices (chakras to the Asian sciences), and replace it with his own matter-based Physics, which is regular and predictable.
 
 {{< q a="Newton" >}}
 The hypothesis of vortices is problematic. It says that the periodic times of the planets [and comets] may obtain the 3/2th power of their distances from the sun. I have explained that the motions of the comets are very regular. These cannot be accounted for by the hypothesis of vortices as axes because comets have very elliptical orbits
@@ -78,12 +80,12 @@ This is because **the 19th century ether is the Huygens ether and not the Cartes
 The movement of light coming from the luminous body is propagated through what I call “Ethereal matter”. It is not the same that serves for the propagation of sound.
 {{< /q >}}
 
-{{< i s="/graphics/physics/huygenschap1d.png" a="Huygens aether" c="The Huygens aether is actually the 2nd Element of Descartes or spacetime, different from the pure aether (what we call the 0th Element)" >}}
+{{< i s="/graphics/physics/huygenschap1d.png" a="Huygens aether" c="The Huygens aether is actually the 2nd Element of Descartes or spacetime, different from the pure aether (what we call the 5th Element)" >}}
 
 
 **Huygen's ether is actually Descartes' 2nd Element** -- the invisible space-time particles that create vortices. These are consistent with malleable spacetime that warps according to mass. 
 
-{{< n n="In *The World*, Descartes actually calls all the 3 Elements as aether. The pure aether is called *substance*. This is because all Cartesian particles are virtual. But this is confusing to modern Physics which believes that all particles are real and only some are virtual. So to strike a compromise, we put the virtual aether as the 0th Element or 5th Layer. The 2nd Element or 4th Layer is also virtual but no longer aethereal as we can clearly see the space around us." >}}
+{{< n n="In *The World*, Descartes actually calls all the 3 Elements as aether. The pure aether is called *substance*. This is because all Cartesian particles are virtual. But this is confusing to modern Physics which believes that all particles are real and only some are virtual. So to strike a compromise, we put the virtual aether as the 5th Element. The 2nd Element is also virtual but not totally aethereal as we can clearly see the space around us (the aetherspace and timespace are aethereal)" >}}
 
 
 The confusion with the aether was added to by Fresnel by making it variant just because light becomes variant when mixed with matter (such as when light passes through crystals).
@@ -108,7 +110,10 @@ This caused him to assign a drag whenever light moved through media such as glas
 
 In Cartesian Physics, this drag on light (1st Element) is caused by matter (3rd Element), as glass and water. **It is not caused by spacetime** (2nd Element). Rather, the impact of the 2nd Element on light is to limit it to 300,000 kilometers per second, via the aetherspace. This matches modern findings. 
 
-It is true that light travels through the medium of spacetime. **But this spacetime is not material in nature**. Rather it is aethereal. Its speed can vary and is arbitrary. This principle is the foundation of:
+It is true that light travels through the medium of spacetime. **But this spacetime is not material in nature**. It is not even causal because the ancients already denounced its reality. 
+
+
+ Rather it is aethereal. Its speed can vary and is arbitrary. This principle is the foundation of:
 - superposition in quantum mechanics
 - multiverses where each universe has its own spacetime with different top speeds
 

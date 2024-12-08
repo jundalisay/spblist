@@ -12,13 +12,13 @@ icon: /avatars/hume.png
 
 
 
-Thus, we have accounted for three phenomena which seem pretty remarkable.
+Thus, we have accounted for 3 phenomena which seem pretty remarkable.
 
 1. Why distance weakens the conception and passion.
 2. Why distance in time has a greater effect than that in space.
 3. Why distance in past time has still a greater effect than that in future.
 
-We must now consider three phenomena, which seem to be the reverse of these:
+We must now consider 3 phenomena, which seem to be the reverse of these:
 
 1. Why a very great distance increases our esteem and admiration for an object.
 2. Why such a distance in time increases it more than a distance in space.
@@ -34,10 +34,11 @@ A wide plain, the ocean, eternity, and a succession of several ages are all ente
 - These exceed anything that is not great, no matter how beautiful.
 
 When any very distant object is presented to the imagination, we naturally reflect on the interposed distance.
-        ◦ We conceive something great and magnificent, receive the usual satisfaction.
-    • The admiration directed to the distance, naturally diffuses itself over the distant object, as the fancy:
-        ◦ passes easily from one idea to another related to it
-        ◦ transports to the second idea all the passions excited by the first idea.
+- We conceive something great and magnificent, receive the usual satisfaction.
+
+The admiration directed to the distance, naturally diffuses itself over the distant object, as the fancy:
+- passes easily from one idea to another related to it
+- transports to the second idea all the passions excited by the first idea.
     • The object does not need to be actually distant from us to cause our admiration.
         ◦ It is enough that it conveys our view to any considerable distance by the natural association of ideas.
     • A great traveler our room will pass for a very extraordinary person as a Greek medal in our cabinet is always esteemed a valuable curiosity.
@@ -75,7 +76,8 @@ When any very distant object is presented to the imagination, we naturally refle
     • Any great elevation of place communicates a kind of pride or sublimity of imagination.
         ◦ It gives a fancied superiority over those that lie below.
         ◦ Vice versa, a sublime and strong imagination conveys the idea of ascent and elevation.
-    • Hence we associate the idea of whatever is good with that of height, and evil with lowness.
+
+ Hence we associate the idea of whatever is good with that of height, and evil with lowness.
         ◦ Heaven is supposed to be above, and hell below.
         ◦ A noble genius is called an elevate and sublime one.
             ▪ He spurns the dank soil in winged flight.
@@ -175,5 +177,4 @@ The affections mean the same with the passions. But affections:
         ◦ makes men so different from each other and from themselves in different times.
     • Philosophy can only account for a few of the greater and more sensible events of this war.
         ◦ It must leave all the smaller and more delicate revolutions, as dependent on principles too fine and minute for her comprehension.
-
 

@@ -32,7 +32,8 @@ We physicists, on the other hand, must take for granted that the things that exi
 Men of science are not supposed to solve every kind of difficulty.
 - They only solve those that are drawn falsely from the principles of the science.
 
-: it is not our business to refute those that do not arise in this way: just as it is 
+It is not our business to refute those that do not arise in this way.
+ <!-- just as it is  -->
 
 Similarly, the geometer's duty is to refute the squaring of the circle by means of segments.
 - But it is not his duty to refute Antiphon’s proof.
@@ -72,27 +73,58 @@ For the infinite is in the category of quantity, whereas substance or quality or
 
 For to define the infinite you must use quantity in your formula, but not substance or quality. 
 
-If then Being is both substance and quantity, it is two, not one: if only substance, it is not infinite and has no magnitude; for to have that it will have to be a quantity.
+If then Being is both substance and quantity, then it is two, not one.
 
-Again, ‘one’ itself, no less than ‘being’, is used in many senses, so we must consider in what sense the word is used when it is said that the All is one. 
+If Being is only substance, then it is not infinite and has no magnitude, for to have that it will have to be a quantity.
 
-I say that (a) the continuous is one or that (b) the indivisible is one, or © things are said to be ‘one’, when their essence is one and the same, as ‘liquor’ and ‘drink’. 
+Again, ‘one’ itself, no less than ‘being’, is used in many senses. We must consider in what sense the word is used when it is said that the All is one. This can be either:
 
-If (a) their One is one in the sense of continuous, it is many, for the continuous is divisible ad infinitum.
+- (a) the continuous is one or
+- (b) the indivisible is one
+- (c) things are said to be ‘one’, when their essence is one and the same, as ‘liquor’ and ‘drink’. 
 
-There is a difficulty about part and whole, perhaps not relevant to the present argument, yet deserving consideration on its own account-namely, whether the part and the whole are one or more than one, and how they can be one or many, and, if they are more than one, in what sense they are more than one. (Similarly with the parts of wholes which are not continuous.) 
 
-If each of the two parts is indivisibly one with the whole, the difficulty arises that they will be indivisibly one with each other also. 
+1. The One is Continuous
 
-But to proceed: If (b) their One is one as indivisible, nothing will have quantity or quality, and so the one will not be infinite, as Melissus says-nor, indeed, limited, as Parmenides says, for though the limit is indivisible, the limited is not.
+In this sense, the one is many, for the continuous is infinitely divisible.
 
-But if (c) all things are one in the sense of having the same definition, like ‘raiment’ and ‘dress’, then it turns out that they are maintaining the Heraclitean doctrine.
+There is a difficulty about part and whole.
+
+ <!-- perhaps not relevant to the present argument, yet deserving consideration on its own account. -->
+
+Is the part and the whole one or more than one?
+
+How can they be one or many? 
+
+If they are more than one, in what sense they are more than one?
+
+Similarly, what about the parts of wholes which are not continuous?
+
+If each of the two parts is indivisibly one with the whole, then they will be indivisibly one with each other also. 
+
+2. The One is indivisible.
+
+In this sense, nothing will have quantity or quality. The One will:
+- not be infinite, as Melissus says
+- not limited, as Parmenides says
+
+The limit is indivisible, but the limited is not.
+
+
+3. ALl things are the same
+
+<!-- But if (c) all things are one in the sense of having the same definition,  -->
+
+This is simlar to ‘raiment’ and ‘dress’.
+
+This maintains the Heraclitean doctrine.
 
 It will be the same thing ‘to be good’ and ‘to be bad’, and ‘to be good’ and ‘to be not good’, and so the same thing will be ‘good’ and ‘not good’, and man and horse.
 
 Their view will be, not that all things are one, but that they are nothing. ‘To be of such-andsuch a quality’ is the same as ‘to be of such-and-such a size’.
 
 Even the more recent of the ancient thinkers were in a pother lest the same thing should turn out in their hands both one and many. 
+
 
 So some, like Lycophron, were led to omit ‘is’, others to change the mode of expression and say ‘the man has been whitened’ instead of ‘is white’, and ‘walks’ instead of ‘is walking’, for fear that if they added the word ‘is’ they should be making the one to be many-as if ‘one’ and ‘being’ were always used in one and the same sense.
 

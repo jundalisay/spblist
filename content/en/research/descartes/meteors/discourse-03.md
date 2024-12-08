@@ -11,26 +11,92 @@ icon: /icons/descartes.png
 ---
 
 
-The salinity of the sea consists only of the coarser parts of its water, which I have just said cannot be folded like the others by the action of subtle matter, nor even agitated without the intermediation of the smaller ones. 
+### The Nature of Saltwater
 
-For, firstly, if the water were not composed of some parts as I have just supposed, it would be equally easy or difficult for it to divide in all directions and senses, so that it would not enter as easily as it does into bodies with somewhat wide pores, like lime and sand; or it could also penetrate in some way into those with narrower pores, like glass and metals. 
+The salinity of the sea consists only of the coarser parts of its water. These cannot be:
+- folded like the others by the action of the air-aether
+- agitated without the intermediation of the smaller particles. 
 
-Then, if these parts did not have the shape I attributed to them, when they are in the pores of other bodies, they could not be so easily expelled by the mere agitation of winds or heat: as is well demonstrated by oils or other greasy liquids, whose parts we said have different shapes; for they can almost never be entirely removed from the bodies they have once entered. 
+This is because:
 
-Finally, because we do not see any bodies in nature that are so perfectly similar to each other that there is almost always some slight inequality in their size, we should have no difficulty in thinking that the parts of the water are not exactly all equal, and particularly that in the sea, which is the receptacle of all waters, there are some so large that they cannot be folded like the others by the force that usually moves them. And I want to try here to show you that this alone is sufficient to give them all the qualities of salt.
+1. If water was not composed of these small particles, it would enter bodies both with small and large pores
 
-Firstly, it is no wonder that they have a sharp and penetrating taste, which differs greatly from that of fresh water: for not being able to be folded by the subtle matter that surrounds them, they must always enter the pores of the tongue sharply, and thereby penetrate deeply enough to cause a prickling sensation; whereas those that make up fresh water, flowing only over the top, because of their ability to fold, can hardly be tasted at all. And the parts of the salt, having penetrated sharply into the pores of the meat we want to preserve, not only remove the moisture but also act as small sticks planted here and there between their parts, where remaining firm and without folding, they support and prevent the other more flexible parts among them from displacing each other and thus corrupting the body they compose. This also makes the meat harder over time. Whereas the parts of fresh water, by folding and slipping here and there into their pores, could help soften and corrupt it.
+ <!-- be equally easy or difficult for it to divide in all directions and senses -->
 
-Moreover, it is no wonder that salt water is heavier than fresh, since it is composed of parts which, being larger and more massive, can be arranged in less space: because this is where weight depends. But it is necessary to consider why these more massive parts remain mixed with the less massive ones, instead of naturally going to the bottom. And the reason, at least for common salt, is that they are equally large at both ends and completely straight, like small sticks: for if there were any in the sea that were thicker at one end than the other, being therefore heavier, they would have had plenty of time to sink to the bottom since the world began; or if there were any that were curved, they would have had time to attach to hard bodies, because once they entered their pores, they could not easily get out, unlike those that are equal and straight. But these, lying across each other, allow the fresh water parts, which are in perpetual motion, to roll and twist around them, arranging and positioning themselves in a certain order; which allows them to continue moving more easily and quickly than if they were alone. For when they are thus rolled around the others, the force of the subtle matter that agitates them is only used to make them turn very quickly around those they embrace, and to pass over each other here and there without changing any of their folds: whereas, when they are alone, as they are when they make up fresh water, they necessarily intertwine in such a way that part of this subtle matter's force must be used to fold them to untangle them from each other; and thus it cannot move them as easily or quickly then.
+- It would not enter as easily into bodies with wide pores, like lime and sand
+- It could penetrate those with narrower pores, like glass and metals
 
-Since it is true that these parts of fresh water can move better when rolled around the salt than when alone, it is no wonder that they roll around them when close enough, and after embracing them, they prevent the inequality of their weight from separating them. Hence, salt dissolves easily in fresh water or just by being exposed to the air in humid weather; yet it dissolves in a limited amount of water only up to a certain quantity, namely as much as the flexible parts of this water can embrace by rolling around them. And knowing that transparent bodies are so to the extent that they obstruct less the movements of the subtle matter in their pores, it is clear from this that sea water should naturally be more transparent and cause slightly greater refractions than river water. It also shows that it should not freeze as easily, knowing that water only freezes when the subtle matter between its parts does not have the force to agitate them.
+2. If water was not composed of these shaped particles, then they could not be so easily expelled by the mere agitation of winds or heat when they are in the pores of other bodies
 
-Moreover, we can also understand here the reason for the secret of making ice in summer; which is one of the finest known to the curious, even though it is not one of the rarest. They mix salt with an equal quantity of snow or crushed ice all around a vase full of fresh water; and without any other artifice, as this salt and snow melt together, the water enclosed in the vase turns to ice. The reason is that the subtle matter that was around the parts of this water, being coarser or less subtle and therefore having more force than that around the parts of the snow, takes its place as the snow parts roll around the salt parts while melting; for it finds it easier to move in the pores of salt water than in those of fresh water; and it constantly tends to pass from one body to another to enter those where its movement is least hindered; thereby the subtler matter in the snow enters the water to succeed that which comes out; and because it does not have enough force to maintain the agitation of this water, it causes it to freeze.
+This is demonstrated by oils or other greasy liquids, whose particles have different shapes.
+- They can almost never be entirely removed from the bodies they have once entered. 
 
-But one of the main qualities of salt parts is that they are highly fixed, meaning they cannot be raised as vapor like fresh water parts. The cause is not only that, being larger, they are heavier; but also that, being long and straight, they cannot be suspended in the air for long, whether they are acting to rise higher or to descend, without one of their ends pointing downward, and thus remaining perpendicular to the earth. For in both rising and descending, it is much easier for them to divide the air in this position than in any other. This does not happen in the same way to fresh water parts, because, being easy to fold, they never remain completely straight unless they spin rapidly. Whereas salt parts can hardly ever spin in this way; for meeting and bumping into each other without being able to bend to let each other pass, they would be forced to stop immediately. But when they find themselves suspended in the air, with one point down as I said, it is evident that they must descend rather than ascend: because the force that could push them up acts much less than if they were lying across; and it acts less precisely because the amount of air resisting their point is smaller than that which would resist their length; whereas their weight, always being equal, acts more as this air resistance is smaller.
+3. These particles of the water are not exactly all equal
 
-If we add that sea water softens when it passes through sand, because the salt parts, unable to bend, cannot flow as the fresh water parts do through the small winding paths around the grains of this sand: we will understand that fountains and rivers, being composed only of waters raised as vapors or having passed through much sand, should not be salty. Also, all these fresh waters returning to the sea should not make it larger or less salty; since as much other water constantly comes out; some rising into the air changed into vapors, then falling as rain or snow on the earth; but mostly penetrating through underground conduits to below the mountains, from where the heat in the earth also raises them as vapor toward their summits, they fill the sources of fountains and rivers there.
+<!-- We do not see any bodies in nature that are so perfectly similar to each other that there is almost always some slight inequality in their size, we should have no difficulty in thinking that  -->
 
-We will also understand that sea water should be saltier under the equator than near the poles if we consider that the sun, having much force there, causes many vapors to rise, which do not fall back in the same places where they rose, but usually in others closer to the poles, as you will understand better later. Besides, unless I want to dwell on explaining the nature of fire in detail, I would add here why sea water is less suitable for extinguishing flames than river water, and why it sparkles at night when agitated: because you would see that the salt parts, being easily shaken, as they are almost suspended among the fresh water parts, and having much force when thus shaken, because they are straight and inflexible; can not only increase the flame when thrown into it; but also cause sparks themselves by leaping out of the water where they are. As if the sea at A, being forcefully pushed toward C, meets a sandbank or some other obstacle that makes it rise toward B, the jolt that this agitation gives to the salt parts can make the first ones that come into the air detach from those of the fresh water holding them entwined, and finding themselves alone at B at a certain distance from each other, generate sparks there, quite similar to those that come out of stones when struck.
+The sea is the receptacle of all waters. Some particles are so large that they cannot be folded like the others by the force that usually moves them. 
 
-It is true that, for this effect, it is necessary that these parts of the salt be very straight and very slippery, so that they can more easily separate from those of the fresh water: hence why neither brine nor seawater that has been kept for a long time in a container is suitable. It is also necessary that the fresh water parts do not embrace the salt parts too tightly: hence why these sparks appear more when it is hot than when it is cold; and that the agitation of the sea is strong enough: hence why at the same time, not all its waves emit fire; and finally that the salt parts move sharply like arrows and not sideways: hence why not all droplets splashing out of the same water light up in the same way.
+This alone is enough to give them all the qualities of salt because:
+
+1. They have a sharp and penetrating taste
+
+This differs greatly from that of fresh water.
+
+This is because the air-aether around them is unable to fold them. And so, they must always enter the pores of the tongue sharply, and thereby penetrate deeply enough to cause a prickling sensation.
+
+The particles of fresh water have the ability to fold. This allows them to flow only over the top, leading to no taste at all. 
+
+The salt particles penetrate sharply into the pores of the meat that we want to preserve. They:
+- remove the moisture
+- act as small sticks planted between the meat particles where they remain firm without folding.
+  - This allows them to support and prevent the other more flexible parts among them from displacing each other which might corrupting the body.
+  - This also makes the meat harder over time.
+
+But the particles of fresh water can fold and slip into their pores. This could help soften and corrupt it.
+
+
+2. Salt water is heavier than fresh water since its particles are larger and more massive.
+
+They can be arranged in less space because this is where weight depends.
+
+These more massive particles remain mixed with the less massive ones, instead of naturally going to the bottom.
+
+For common salt, this is because they are equally large at both ends and completely straight, like small sticks.
+
+- If any of them in the sea were thicker at one end than the other, then the thicker would be heavier and sink to the bottom since the world began.
+- If any of them were curved, they would have had time to attach to hard bodies.
+  - Once they entered their pores, they could not easily get out, unlike those that are equal and straight. 
+
+But these, lying across each other, allow the fresh water particles, which are in perpetual motion, to roll and twist around them, arranging and positioning themselves in a certain order; 
+
+This allows them to continue moving more easily and quickly than if they were alone. 
+
+ <!-- subtle matter -->
+When they are thus rolled around the others, the force of the air-aether that agitates them is only used to make them turn very quickly around those they embrace, and to pass over each other without changing any of their folds.
+
+Whereas, when they are alone, as they are when they make up fresh water, they necessarily intertwine in such a way that part of this air-aether's force folds them to untangle them from each other.
+
+Thus, it cannot move them as easily or quickly then.
+
+**These fresh water particles can move better when rolled around the salt than when alone.** This is why:
+- they roll around them when close enough 
+- after embracing them, they prevent the inequality of their weight from separating them. 
+
+Hence, salt dissolves easily in fresh water or just by being exposed to the air in humid weather.
+
+Yet it dissolves in a limited amount of water only up to a certain quantity, as much as the flexible parts of this water can embrace by rolling around them.
+
+
+Bodies are transparent as they can freely allow the the movements of the air-aether in their pores.
+<!-- subtle matter -->
+
+This is why sea water:
+- is naturally more transparent and causes slightly greater refractions than river water. 
+- does not freeze as easily
+  - This is because water only freezes when the air-aether between its particles does not have the force to agitate them.
+
+This is also how ice is made in the summer. 
+
+<!-- ; which is one of the finest known to the curious, even though it is not one of the rarest.  -->
+

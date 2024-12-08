@@ -27,13 +27,19 @@ They are ones where· nature urges us towards something that harms us ·and this
 
 Sick people, for example, may want food or drink that is bad for them.<!--  ‘They go wrong because they are ill’ – true, but the difficulty remains. --> 
 
-A sick man is one of God’s creatures just as a healthy one is. In each case, it seems a contradiction to suppose that God has given him a nature that deceives him. 
+A sick man is one of God’s creatures just as a healthy one is. In each case, it seems a contradiction to suppose that God has given him a nature that deceives him.
 
-A badly made clock conforms to the laws of its nature in telling the wrong time, just as a well made and accurate clock does. We might look at the human body in the same way. We could see it as a kind of machine made up of bones, nerves, muscles, veins, blood and skin in such a way that, even if there were no mind in it, it would still move exactly as it now does in all the cases where movement isn’t under the control of the will or, therefore, of the mind. 
+A badly-made clock conforms to the laws of its nature in telling the wrong time, just as a well-made and accurate clock does. We might look at the human body in the same way. 
 
-If such a body suffers from dropsy, for example, and is affected by the dryness of the throat that normally produces in the mind a sensation of thirst, that will affect the nerves and other bodily parts in such a way as to dispose the body to take a drink, which will make the disease worse. 
+We could see it as a kind of machine made up of bones, nerves, muscles, veins, blood and skin. Even if it had no mind in it, it would still move exactly as it now does when it is not under the control of the will or the mind. 
 
-Yet this is as natural as a healthy body’s being stimulated by a similar dryness of the throat to take a drink that is good for it. In a way, we might say, it is not natural. Just as we could say that a clock that works badly is ‘departing from its nature’, we might say that the dropsical body that takes a harmful drink is ‘departing from its nature’, that is, from the pattern of movements that usually occur in human bodies.
+ <!-- in all the cases where movement isn’t under the control of the will or, therefore, of the mind.  -->
+
+For example, if such a body suffers from dropsy and is affected by the dryness of the throat that normally produces in the mind a sensation of thirst, that will affect the nerves and other bodily parts in such a way as to dispose the body to take a drink, which will make the disease worse.
+
+Yet this is as natural as a healthy body’s being stimulated by a similar dryness of the throat to take a drink that is good for it. In a way, we might say, it is not natural. 
+
+Just as we could say that a clock that works badly is ‘departing from its nature’, we might say that the dropsical body that takes a harmful drink is ‘departing from its nature’, that is, from the pattern of movements that usually occur in human bodies.
 
 But that involves using ‘nature’ as a way of comparing one thing with another – a sick man with a healthy one, a badly made clock with an accurate one – whereas I have been using ‘nature’ not to make comparisons but to speak of what can be found in the things themselves; and this usage is legitimate.
 

@@ -1,7 +1,7 @@
 ---
 title: The Definition of Time
 heading: Part 4
-weight: 3
+weight: 5
 description: Our definition is therefore not yet satisfactory. It is certainly not that which the astronomers of whom I spoke above implicitly adopt
 # when they affirm that the terrestrial rotation is slowing down
 image: "/covers/time.jpg"

@@ -11,8 +11,6 @@ icon: /icons/descartes.png
 ---
 
 
-
-
 <!-- A rainbow can be created by means of a fountain.
 
 img src="/graphics/physics/fig_74-d9.jpg" alt="Rainbow"

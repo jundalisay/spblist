@@ -12,21 +12,35 @@ icon: /icons/descartes.png
 
 
 
-Sometimes other circles appear in the clouds, different from those I have mentioned, in that they are always entirely white and, instead of having a star at their center, they usually intersect the center of the sun or the moon and seem parallel or almost parallel to the horizon. 
+Sometimes other circles appear in the clouds, different from those I have mentioned.
 
-But because they only appear in those large round clouds mentioned above, and since several suns or moons can sometimes be seen in the same clouds, I must explain both phenomena together.
+They are always entirely white. Instead of having a star at their center, they usually intersect the center of the sun or the moon and seem parallel or almost parallel to the horizon. 
 
-For example, let A be noon, where the sun is accompanied by a warm wind blowing towards B, and C be the north, from where a cold wind also blows towards B. 
+I must explain both phenomena together because:
+- they only appear in those large round clouds mentioned above
+- several suns or moons can sometimes be seen in the same clouds
 
-Let us assume that these two winds meet or gather a cloud composed of snow particles, extending so far in depth and width that they cannot pass over, under, or between each other as they usually do elsewhere, but are forced to circulate all around it.
+For example, let:
+- `A` be noon, where the sun is accompanied by a warm wind blowing towards `B`
+- `C` be the north, from where a cold wind also blows towards `B`. 
 
-As a result, not only do they round it out, but the warm wind from the south partially melts the surrounding snow. This snow, being immediately refrozen by the cold northern wind and the proximity of the still unmelted inner snow, can form a large, continuous, and transparent ice ring, whose surface will be quite smooth due to the uniform winds that shape it.
+These 2 winds gather a cloud composed of snow particles, extending so far in depth and width that they cannot pass over, under, or between each other as they usually do elsewhere, but are forced to circulate all around it.
 
-Moreover, this ice will be thicker on the side DEF, which I suppose is exposed to the warm wind and the sun, than on the other side `GHI`, where the snow couldn't melt as easily. 
+As so, they round it out and the warm wind from the south partially melts the surrounding snow.
 
-In this air, constitution and without a storm, there cannot be enough warmth around the cloud B to form such ice without there also being enough heat in the earth below to create vapors that support it by lifting and pushing the entire body of the cloud it encompasses towards the sky.
+This snow is immediately refrozen by:
+- the cold northern wind
+- the proximity of the still unmelted inner snow.
 
-As a result, the sunlight, which I suppose is high towards noon, striking all around the ice DEFGHI and reflecting off the whiteness of the nearby snow, will make this snow appear to those below as a large, entirely white circle. Moreover, it suffices for this effect that the cloud be round and slightly more compressed around its circumference than in the middle, without the ice ring needing to be formed.
+It can form a large, continuous, and transparent ice ring. Its surface will be smooth due to the uniform winds that shape it.
+
+This ice will be thicker on the side `DEF`, which is exposed to the warm wind and the sun, than on the other side `GHI`, where the snow could not melt as easily.
+
+In this air, constitution and without a storm, there cannot be enough warmth around the cloud `B` to form such ice without there also being enough heat in the earth below to create vapors that support it by lifting and pushing the entire body of the cloud it encompasses towards the sky.
+
+As a result, the sunlight, which is high towards noon, strikes all around the ice `DEFGHI`. It reflects off of the whiteness of the nearby snow, making this snow appear to those below as a large, entirely white circle.
+
+Moreover, it suffices for this effect that the cloud be round and slightly more compressed around its circumference than in the middle, without the ice ring needing to be formed.
 
 But when it is formed, one can see, from below towards point K, up to six suns, which seem embedded in the white circle like so many diamonds in a ring. Namely, the first towards E, by the rays coming directly from the sun, which I suppose to be towards A; the next two towards D and F, by the refraction of the rays that pass through the ice at these points, where its thickness decreases, bending inward on either side, as they do when passing through the crystal prism mentioned earlier. 
 

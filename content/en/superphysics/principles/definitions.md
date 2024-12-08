@@ -30,6 +30,7 @@ Critical Thinking | the expansion of one's thinking process beyond the normal li
 Death | The state where a mind loses the ability to express independently of the physical aspects of the universe
 Dharma | the inherent, metaphysical nature of any discrete identity with reference to the creator of that identity 
 Dharmic | being in line with one's dharma or the nature of things. This replaces the concept of 'good' which is based on the limited ego.
+Distance | the gap within identities
 Eagle | the equation for everything, according to Superphysics
 Ego | the feeling of the self 
 Emotion | A quantized measurable version of a feeling, such as for public surveys
@@ -44,6 +45,7 @@ Instant | The minimum moment of time (Descartes, Principles of Philosophy)
 Intuition | Instant knowledge derived from the aether, which is above spacetime
 Karma | Action and Reaction, or Cause and Effect. Technically, the 7th kind of philosophical relation according to David Hume.
 Knowledge | The assimilation of perceptions with, or into, the abstract mind via ideas. Also, jiṋána as the subjectivization of objects (Sarkar)
+Length Contraction | Decrease of distance within space
 Life | The state where a mind has the ability to express independently of the physical aspects of the universe 
 Mind | the arena for experiences
 Mode | modifications or versions of Substance
@@ -59,10 +61,14 @@ Self | The perception of identity by the same perceiver
 Slavery | A regular state of control of another's actions that produces pain
 Socratic Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma, to arrive at a solution to a problem
 Soul | the mind when viewed independently of the body
+Space | the Gap within perception, marked by identities
 Substance | a thing which exists in such a way that it needs nothing beyond itself in order to exist (Descartes, Principia Philosophia Part 1)
 Supreme Entity | The Absolute Entity in active form in order to gain reality and be perceived
-Tao | the dharma in active flowing form 
+Tao | the dharma in active flowing form
 Thought | A physicalized version of a metaphysical Idea, as a result of thinking
+Time | Gap between perceptions in general 
+Time Dilation | The increase of timespan within time 
+Timespan | Gap between 2 perceptions
 Vice | A specific feeling that is adharmic
 Virtue | A specific feeling that is dharmic
 

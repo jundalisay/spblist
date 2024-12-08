@@ -37,13 +37,15 @@ But it was easy for me to judge that they had been formed in the same way as the
 
 And for the white point that appeared in the middle of some of them, I did not doubt that it came from the fact that the heat, which had made them transparent from white, had been so moderate that it had not penetrated at all to their center.
 
-There followed many other such wheels, joined two by two by an axle, or rather, because at first these axles were very thick, one could have said that they were as many small crystal columns, each end of which was adorned with a six-petaled rose a little wider than their base. But there fell afterwards more delicate ones, and often the roses or stars that were at their extremities were unequal. Then there fell also shorter ones, and still shorter ones by degrees, until finally these stars joined together completely, and there fell doubles with twelve points or rays long enough and perfectly well compassed, some equal, and others alternately unequal, as seen towards F and towards E.
+There followed many other such wheels, joined two by two by an axle, or rather, because at first these axles were very thick, one could have said that they were as many small crystal columns, each end of which was adorned with a six-petaled rose a little wider than their base. 
+
+But there fell afterwards more delicate ones, and often the roses or stars that were at their extremities were unequal. Then there fell also shorter ones, and still shorter ones by degrees, until finally these stars joined together completely, and there fell doubles with 12 points or rays long enough and perfectly well compassed, some equal, and others alternately unequal, as seen towards `F` and towards `E`.
 
 And all this gave me occasion to consider that the ice particles, which are of two different planes or sheets laid one on top of the other in the clouds, can be attached together more easily than those of the same sheet.
 
 For although the wind, acting usually more strongly against the lowest of these sheets than against the highest, makes them move a little faster, as has just been noted: nevertheless it can also sometimes act against them with equal force, and make them ripple in the same way: especially when there are only two or three of them one on top of the other, and then sifting through the surroundings of the pellets that compose them, it makes those of these pellets, which correspond in different sheets, always remain as if immobile opposite each other, notwithstanding the agitation and rippling of these sheets, because by this means the passage is easier for it. 
 
-And yet the heat, being no less prevented by the proximity of the pellets of two different sheets, from melting those of their hairs which look at each other, than by the proximity of those of the same, only melts the other surrounding hairs, which immediately mix among those which remain, and freeze again, compose the axles or columns which join these small pellets, at the same time that they change into roses or stars.**
+Yet the heat, being no less prevented by the proximity of the pellets of two different sheets, from melting those of their hairs which look at each other, than by the proximity of those of the same, only melts the other surrounding hairs, which immediately mix among those which remain, and freeze again, compose the axles or columns which join these small pellets, at the same time that they change into roses or stars.**
 
 
 ### Winter in 1635
@@ -54,21 +56,21 @@ On February 4, 1635, after an extremely cold spell, it rained a bit in the eveni
 
 The rain turned into a thin layer of ice upon hitting the ground, followed by very fine hail. 
 
-I judged that the grains, which were about the size represented near H, were drops of the same rain that had frozen high in the air. 
+I judged that the grains were about the size represented near `H`. They were drops of the same rain that had frozen high in the air. 
 
-However, instead of being perfectly round as these drops must have been, they had one side noticeably flatter than the other, resembling the shape of the crystalline humor of our eye. 
+However, instead of being perfectly round as raindrops, they were noticeably flatter on one side, resembling the shape of the crystalline humor of our eye. 
 
 **This made me realize that the wind, which was very strong and very cold at the time, had the power to alter the shape of the drops as they froze.**
 
-What surprised me the most was that among the last grains that fell, I noticed some with 6 small teeth around them, similar to the cogs of clock wheels, as you can see near I. 
+What surprised me the most was that among the last grains that fell, I noticed some with 6 small teeth around them, similar to the cogs of clock wheels, as you can see near `I`. 
 
 These teeth were very white, like sugar, whereas the grains, being transparent ice, appeared almost black. 
 
 These teeth were made of very fine snow that had adhered around them since they had formed, much like hoarfrost clings to plants. 
 
-I understood this even more clearly because, at the very end, I found one or two grains surrounded by numerous tiny hairs composed of paler and finer snow than the small teeth around the others, so that it could be compared to the ash that covers embers as they burn compared to the compacted ash in a hearth.
+I understood this clearly because I found one or two grains surrounded by numerous tiny hairs composed of paler and finer snow than the small teeth around the others. It could be compared to the ash that covers embers as they burn compared to the compacted ash in a hearth.
 
-I struggled to imagine how these 6 teeth could have been so precisely arranged around each grain in the middle of free air during the agitation of a strong wind until I finally considered that this wind could have easily carried some of these grains below or beyond a cloud and held them there, as they were small enough. 
+I struggled to imagine how these 6 teeth could have been so precisely arranged around each grain in the middle of free air during the agitation of a strong wind. I realized that this wind could have easily carried some of these grains below or beyond a cloud and held them there, as they were small enough. 
 
 There, they must have arranged themselves in such a way that each one was surrounded by 6 others situated on the same plane, following nature's usual order. 
 
@@ -84,7 +86,9 @@ In contrast, the numerous hairs I saw around some of the last fallen grains were
 
 The next morning at 8am, I observed yet another type of hail or rather snow that I had never heard of before. 
 
-These were small, flat, highly polished, very transparent ice plates, about the thickness of a sheet of thick paper and the size shown near `K`. But they were so perfectly cut into hexagons with six straight sides and six equal angles that it is impossible for humans to make anything so exact. 
+These were small, flat, highly polished, very transparent ice plates, about the thickness of a sheet of thick paper and the size shown near `K`. 
+
+But they were so perfectly cut into hexagons with six straight sides and six equal angles that it is impossible for humans to make anything so exact. 
 
 I quickly realized that these plates must have first been small ice clusters arranged as I mentioned earlier. They were pressed by a very strong wind accompanied by enough heat to melt all their hairs and fill all their pores with the moisture from the melted hairs. 
 
@@ -95,7 +99,9 @@ At the same time, the wind pressed them so tightly together that no space remain
 The only small difficulty was that these ice clusters were partially melted and pressed together. They did not stick to each other, but remained separate.
 
 
-And I was not surprised at the size, which I had noticed at the beginning in these columns, although I knew well that the matter of the small hairs, which had been around two pellets, could not have been enough to compose them: for I thought that there had perhaps been 4-5 sheets one on top of the other, and that the heat, having acted more strongly against the two or three in the middle, than against the first and the last, because they were less exposed to the wind, had almost entirely melted the pellets that composed them, and had formed these columns.
+I was not surprised at the size, which I had noticed at the beginning in these columns. Although I knew well that the matter of the small hairs, which had been around 2 pellets, could not have been enough to compose them.
+
+For I thought that there had perhaps been 4-5 sheets one on top of the other, and that the heat, having acted more strongly against the two or three in the middle, than against the first and the last, because they were less exposed to the wind, had almost entirely melted the pellets that composed them, and had formed these columns.
 
 I often saw 2 stars of unequal size joined together. I observed the rays of the larger one were always longer and sharper than those of the other.
 
@@ -129,21 +135,14 @@ When they were only divided into three branches, it was because the heat had aba
 
 For the cause that made these stars descend, the violence of the wind which continued all that day made it very clear to me, for I judged that it could easily disarrange and break the leaves that they composed, after having made them; and that as soon as they were thus disarranged, leaning one of their sides towards the earth, they could easily split the air, because they were all flat, and were found to be heavy enough to descend. 
 
-But if sometimes these stars fall in calm weather, it is because the air below, tightening, attracts the whole cloud to it, or because the air above, expanding, pushes it down, and by the same means disarranges them. whence it comes that for then they are usually followed by more snow. which did not happen that day. The next morning snowflakes fell, which seemed to be composed of an infinite number of very small stars joined together: however, on looking closer I found that those inside were not as regularly formed as those above, and that they could easily come from the dissolution of a cloud similar to that which has been marked G above.
+But if sometimes these stars fall in calm weather, it is because the air below, tightening, attracts the whole cloud to it, or because the air above, expanding, pushes it down, and by the same means disarranges them. whence it comes that for then they are usually followed by more snow. which did not happen that day. 
+
+The next morning snowflakes fell, which seemed to be composed of an infinite number of very small stars joined together: however, on looking closer I found that those inside were not as regularly formed as those above, and that they could easily come from the dissolution of a cloud similar to that which has been marked G above.
 
 See the figure on page 214.
 
-Then this snow having ceased, a sudden wind in the form of a storm caused some very long and fine white hail to fall, each grain of which had the shape of a sugar loaf. And the air becoming clear and serene just as quickly, I judged that this hail had formed from the highest part of the clouds, from which the snow was very subtle and composed of very delicate filaments, in the way that I have just described. Finally, three days later, seeing snow fall all composed of small knots or pellets surrounded by a large number of intertwined hairs and which had no star shape, I was confirmed in the belief of everything I had imagined about this matter.**
+Then this snow having ceased, a sudden wind in the form of a storm caused some very long and fine white hail to fall, each grain of which had the shape of a sugar loaf. And the air becoming clear and serene just as quickly, I judged that this hail had formed from the highest part of the clouds, from which the snow was very subtle and composed of very delicate filaments, in the way that I have just described.
 
-
-
-For clouds that are composed only of water droplets, it is easy to understand from what I have said how they descend as rain: namely, either by their own weight, when their droplets are large enough; or because the air below, retreating, or the air above, pressing on them, gives them the opportunity to lower themselves; or because several of these causes concur together. And it is when the air below retreats that the finest rain that can be is made, for it is even then sometimes so fine that it is not said to be rain, but rather a mist that descends; as on the contrary it becomes very heavy, when the cloud only lowers because it is pressed by the air above, for the highest of its drops descending first, meet others which make them larger. And moreover I have sometimes seen in summer, during a calm weather accompanied by a heavy and stifling heat, that it began to fall such rain, even before any cloud had appeared. the cause of which was that there being a lot of vapors in the air, which were undoubtedly pressed by the winds from other places, as the calm and the heaviness of the air testified, the drops into which these vapors were converted became very large as they fell, and fell as they formed.
-
-For fogs, when the earth cools down, and the air in its pores contracts, giving them a way to lower themselves, they turn into dew if they are composed of water droplets, and into drizzle or hoarfrost if they are composed of already frozen vapors, or rather which freeze as they touch the earth. And this happens mainly at night or in the morning, because it is the time when the earth cools down as it moves away from the sun. But the wind also very often knocks down the fogs, coming to the places where they are: and even it can transport their material, and make of it dew or hoarfrost, in those where they have not been seen: and we then see that this frost does not stick to the plants, except on the sides that the wind touches.
-
-For the dew, which never falls except in the evening, and is only known by the colds and headaches it causes in some countries, it consists only of certain subtle and penetrating exhalations, which being more fixed than vapors, only rise in quite hot countries and on fine days, and which fall back as soon as the heat of the sun leaves them. whence it comes that it has different qualities in different countries, and that it is even unknown in many, according to the differences of the lands from which these exhalations come. And I do not say that it is not often accompanied by dew, which begins to fall from the evening on, but that it is by no means it that causes the evils of which it is accused. It is also exhalations that compose manna, and other such juices, which descend from the air at night; for as for vapors, they cannot change into anything other than water or ice. And these juices are not only different in different countries, but also some only attach themselves to certain bodies, because their parts are undoubtedly of such a shape that they do not have enough hold against the others to stop there.
-
-
-If the dew does not fall, and in the morning we see the fogs rise high and leave the earth all wiped away, it is a sign of rain. for this rarely happens except when the earth, not having cooled down enough at night, or being extraordinarily heated in the morning, produces a quantity of vapors, which, pushing these fogs back towards the sky, cause their drops to meet, grow larger, and prepare to fall in rain soon after. It is also a sign of rain to see that our air, being heavily laden with clouds, the sun nevertheless appears quite clear from morning. for this means that there are no other clouds in the air near ours towards the East, which prevent the heat of the sun from condensing those which are above us, and also that it does not raise new vapors from our earth which increase them. But this cause only taking place in the morning, if it does not rain before noon, it can judge nothing of what will happen in the evening. I will not say anything about several other signs of rain that are observed, because they are for the most part very uncertain. And if you consider that the same heat which is usually required to condense clouds and draw rain from them can also, on the contrary, dilate them and change them into vapors, which sometimes are lost in the air imperceptibly, and sometimes cause winds, according to whether the parts of these clouds are found to be a little more pressed, or scattered, and that this heat is a little more or less accompanied by humidity, and that the air around expands or condenses more or less; you will know well that all these things are too variable and uncertain to be surely foreseen by men.
+Finally, three days later, seeing snow fall all composed of small knots or pellets surrounded by a large number of intertwined hairs and which had no star shape, I was confirmed in the belief of everything I had imagined about this matter.
 
 

@@ -7,8 +7,8 @@ description: If all the parts of the universe are interchained in a certain meas
 image: "/covers/time.jpg"
 author: "H. Poincare"
 icon: /avatars/poincare.png
-aliases:
-  /research/poincare/part-1
+# aliases:
+#   /research/poincare/part-1
 ---
 
 
