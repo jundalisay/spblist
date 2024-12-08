@@ -1,9 +1,10 @@
 ---
-heading: "Chapter 3b"
-title: "Wave-Particle Duality and Double Slit Experiment"
+heading: "Chapter 3c"
+title: "Wave-Particle Duality: Photo-Electric Effect and Double Slit Experiment"
 # # date: 2020-01-31
-image: "/graphics/physics/fabric.jpg"
-description: "Electromagnetic particles are made up of 3 aether particles"
+image: /graphics/physics/lightprops.jpg
+# image: "/graphics/physics/fabric.jpg"
+description: "Wave-Particle Duality shows the tri-nature of electromagnetism"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

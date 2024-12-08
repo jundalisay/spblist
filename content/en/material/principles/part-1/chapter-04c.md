@@ -77,7 +77,7 @@ Phase | Layer | Physics Name | Sequence
 
 <!--  Physics has a belief that gravity comes from mass and so they do not really assign gravity or 'singularity' to planets.  -->
 
-<!-- ![Science limited box](https://sorasystem.sirv.com/graphics/layersegl.png)
+<!-- ![Science limited box](https://sorasystem.sirv.com/graphics/layersegl.jpg)
  -->
 
 ## Phase 1: From Potentiality to Actuality

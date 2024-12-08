@@ -137,7 +137,7 @@ MVC | Component | Metaphysical Equivalent
 
 ### Everything is in Motion. Everything is Relational because There is no Void in Nature
 
-<!-- ![Science limited box](https://sorasystem.sirv.com/graphics/layersegl.png) -->
+<!-- ![Science limited box](https://sorasystem.sirv.com/graphics/layersegl.jpg) -->
 
 Everything is in motion because every signature interacts* obviously or non-obviously with each other. This thing that causes stars and dust to gather or disperse is the same thing that causes:
 - people to form societies or leave society

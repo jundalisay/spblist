@@ -1,6 +1,6 @@
 ---
 title: "The Output of Superphysics"
-image: "/photos/handshake.jpg"
+image: "/graphics/super/egl.jpg"
 date: 2024-11-29
 showdate: true
 author: Juan
@@ -9,6 +9,15 @@ authors:
   name: Juan
   link: https://www.linkedin.com/in/jundalisay/
 ---
+
+
+The most important output of Superphysics is the eagle, which is our equation for everything. This is packed with:
+- the ratio sign which connects everything in existence
+- the layers which represent the 5 Elements of Existence
+- the gravitational signature which is the inherent idea in everything
+- the energy or effort representing the dynamism of existence (and the beligerence of the 2 Forces)
+
+{{< i s="/graphics/super/egl.jpg" a="The eagle" >}} 
 
 
 Since 2012, various people, aka 'The Team', have been working on Superphysics both as theory and practical implementation. Here, we categorize our output under the different branches.

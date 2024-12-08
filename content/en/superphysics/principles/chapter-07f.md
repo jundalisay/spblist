@@ -78,7 +78,7 @@ To solve the limitation of computers and make them more naturally intelligent, w
 
 The Eagle or EGl is our equation for everything. 
 
-{{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
+{{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
 
 
 When expanded, this manifests as a chain of ratios which matches the interconnectedness of everything in the universe, as our Theory of Universal Relationality. 

@@ -19,7 +19,7 @@ draft: true
 
 In [a previous post](/material/fallacies/general-relativity), we explained our equation for everything as:
 
-{{< img src="/graphics/super/egl.png" alt="E = gl equation" cap="Our equation for everything has 3 components: Force as Energy, Dharma as G, Element as L" >}}
+{{< img src="/graphics/super/egl.jpg" alt="E = gl equation" cap="Our equation for everything has 3 components: Force as Energy, Dharma as G, Element as L" >}}
 
 
 

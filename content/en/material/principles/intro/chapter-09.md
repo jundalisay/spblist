@@ -57,7 +57,7 @@ It follows that the energy or driving force is from the Positive and Negative Fo
 
 This potential energy of an identity for change or movement is estimated by the Eagle, which is our equation for everything:
 
-{{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
+{{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
 
 Cartesian Relationality and Poincare's Law of Relativity both are therefore implementations of our "eagle" of `E::Gl`.
 

@@ -78,7 +78,7 @@ In this way, the Socratic `G` still ends up as `D` if the thinking person chases
 
 Aside from determining the Layer, a gravitational signature also determines the range of motions that arise from the attraction or repulsion by its affinity or difference with the other signatures, whether they are from objects, entities, or minds within the same layer.
 
-{{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
+{{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
 
 Lower layers are affected by higher layers, but higher layers are unaffected by the lower. For example, light is affected by gravity, but gravity is not affected by light.
 

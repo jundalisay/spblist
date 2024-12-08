@@ -26,7 +26,7 @@ The Relativity of Einstein is totally debunked by the reality of non-magnetic le
 This alignment is done through the force of the aether or soa (substance of aether) since the aether is the superior Element or Layer. We notate this force as Effort or `E`. This then matches our universal equation `E::Gl`
 
 
-{{< i s="/graphics/super/egl.png" a="The Eagle" c="" >}}
+{{< i s="/graphics/super/egl.jpg" a="The Eagle" c="" >}}
 
 
 <!-- 
@@ -61,11 +61,14 @@ More technically, the external aether changed the gravitational signature of the
 
 <!-- material gravitational band  -->
 
-This means that, logically, the ability to change and generate movement for solid objects comes from the Material layer through the Convertible Layer. This matches the findings of Isaac Newton.
+This means that, logically, the ability to change and generate movement for solid objects comes from the Material layer through the Convertible Layer. This matches the findings of Isaac Newton.*
 
 {{< q a="Newton" c="Principia, Scholium" >}}
 The uniform gravity of a body acts equally in equal particles of time on that body to create equal velocities
 {{< /q >}}
+
+
+{{< n n="Newton said that gravity comes from the spirit of 'Lord God' which goes through matter. In Cartesian Phyics, this spirit is the same as substance as the aether. This scholium then distributes that spirit, as gravity, into equal time-particles, matching Descartes' distribution of the aether onto a constantly dividing 2nd Element which includes space and time. The main difference with Newton is that he preferred inertial matter instead of spinning vortices" >}}
 
 
 Thus, the sequence of events is:

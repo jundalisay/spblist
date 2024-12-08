@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 7d"
-title: "The Equation for Everything: The Eagle and Gravitational Signatures"
+linkTitle: Eagle
+title: "The Equation for Everything: The Eagle"
 date: 2020-12-26
 weight: 40
 # date: 2021-06-23
-image: "/graphics/econ/eagle.jpg"
+image: "/graphics/super/egl.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
 icon: /icons/pantry.png
 writer:
@@ -57,7 +58,7 @@ At this minute, you might feel happy. But in the next minute, you might remember
 We notate this as E = G<sub>*`l`*</sub>. In Qualimath, this is E :: G<sub>*`l`*</sub>
 
 
-{{< img src="/graphics/super/egl.png" alt="E = Gl" >}}
+{{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
 
 
 - `E` is inherent energy and represents potentiality
@@ -67,9 +68,6 @@ We notate this as E = G<sub>*`l`*</sub>. In Qualimath, this is E :: G<sub>*`l`*<
 We can call this equation as "eagle" as it is written with the letters `E G` <sub>*`l`*</sub>. 
 
 It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it.
-
-
-{{< img src="/graphics/econ/eagle.jpg" alt="The Eagle" >}}
 
 
 

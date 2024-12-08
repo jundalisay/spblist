@@ -14,6 +14,8 @@ draft: true
 
 In Cartesian Physics, a natural symmetry, as polarity, arises from 2 forces, positive and negative, going against each other. This creates vortices in each of the 5 Elements (strong, weak, electromagnetism, spacetime, aether). 
 
+This natural polarity is also seen by Physics. 
+
 The problem is that spacetime and aether are not detectable by instruments which can only detect up to electromagnetism.
 
 This is why dark matter cannot be detected and why SUSY fails.
