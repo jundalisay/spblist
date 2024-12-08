@@ -21,9 +21,11 @@ The Relativity of Einstein is totally debunked by the reality of non-magnetic le
 - Egyptian pyramid blocks and other ancient blocks made lighter for easier construction
 
 
- This is done through "atom-shaking" which aligns atoms to allow qosts (virtual spacetime particles called 2nd Element in Cartesian Physics) to pass through.  
+This is done through "atom-shaking" which aligns atoms, by changing their state, to allow qosts (virtual spacetime particles called 2nd Element in Cartesian Physics) to pass through.  
 
-This alignment is done through the force of the aether or soa (substance of aether) since the aether is the superior Element or Layer. We notate this force as Effort or `E`. This then matches our universal equation `E::Gl`
+Since gravity is caused by the qosts/2nd Element, then letting them pass through reduces their gravitational push-force on the body. 
+
+This alignment is done through the effort of the aether or soa (substance of aether) since the aether is the superior Element or Layer. We notate this force as Effort or `E`. This then matches our universal equation `E::Gl`
 
 
 {{< i s="/graphics/super/egl.jpg" a="The Eagle" c="" >}}
@@ -43,17 +45,20 @@ We take a 1 kilogram object and put it on a weighing scale. We then apply a prol
 
 <!-- then use this as the basis for a levitating object propelled by the aether.    -->
 
-{{< i s="/graphics/physics/aethertech.png" a="Crude Aether technology" c="Crude aether technology can be done with home equipment" >}}
+{{< i s="/graphics/physics/aethertech.png" a="Crude Aether technology" c="Crude aether technology can be done with home equipment to create action at a distance. As we only use household tools such as a digital kitchen scale, we find inconsistencies in the weight change. But this is still different from having no change in the control (i.e video-record the weight-value for 10 minutes with and without the aether induction)" >}}
 
 
-Technically, this produced very tine vertical movement and we are not able to create horizontal movement. But  in theory, horizontal movemnt is possible by adjusting the soa. This is already proven by levitating monks and would need more aethereal effort.
+Technically, this produced very tiny vertical movement and we are not able to create horizontal movement. But  in theory, horizontal movement is possible by adjusting the soa. This is already proven by levitating monks and would need more conscious aethereal effort to travel horizontally i.e. they usually go vertically unconsciously. 
+
+This was done by Canadian inventor John Hutchison, as the Hutchison effect, for material objects using high frequency electromagnetic waves. However, he didn't seem to know Cartesian Physics and the mechanism behind the phenomena. And so, he wasn't able to replicate it. 
+
 
 <!-- This is where `G`, `g`, and the Kepler tensor will be necessary to change the state of an object in order to move it through spacetime without needing contact forces.   -->
 
 
 ### How it Works: All 5 Layers Work Together to Create Physical Reality
 
-In our experiment, we applied soa on a material object in order to reduce the force of gravity or most on it.  
+In our experiment, we applied soa on a material object in order to reduce the force of gravity or `most` (medium of spacetime) on it.  
 
 This manifests as a slight movement which is recorded by the weighing scale. 
 
@@ -66,6 +71,13 @@ This means that, logically, the ability to change and generate movement for soli
 {{< q a="Newton" c="Principia, Scholium" >}}
 The uniform gravity of a body acts equally in equal particles of time on that body to create equal velocities
 {{< /q >}}
+
+{{< q a="Newton" c="Principia, Book 3" >}}
+A Spirit pervades and lies hidden in all gross bodies. Its action and force causes the particles of bodies to mutually attract one another at near distances, cohere if contiguous, emit light and heat bodies. 
+
+All animal bodies move at the command of the will through the vibrations of this Spirit. These vibrations travel from our sense organs to the brain, from the brain to the muscles.
+{{< /q >}}
+
 
 
 {{< n n="Newton said that gravity comes from the spirit of 'Lord God' which goes through matter. In Cartesian Phyics, this spirit is the same as substance as the aether. This scholium then distributes that spirit, as gravity, into equal time-particles, matching Descartes' distribution of the aether onto a constantly dividing 2nd Element which includes space and time. The main difference with Newton is that he preferred inertial matter instead of spinning vortices" >}}
@@ -83,13 +95,9 @@ Sequence | Layer | Effect
 
 As you can see, all 5 layers are used to create the reality of the movement of the object. This then matches our principle that all physical movement and change involves all 5 layers, ultimately commanded by the aethereal layer. 
  
+Modern Physics persistently denies the aether and even the spatial layer (as other universes and non physical entties) and so it has no idea how to maniuplate gravity.  
 
-<!-- Our proposed Superphysics uses the principles of the aether which were supported by great physicists like Maxwell, Fresnell, Lorentz, and Poincare before they were discarded by Einstein's Relativity.
-
-	To demonstrate, we take a 1 kilogram weight and induce a state-change via the aether. This makes the mass 1 gram lighter, representing its repelling of the gravity of the Earth via action at a distance, without any Newtonian contact force.
-
-	As we only use household tools such as a digital kitchen scale, we find inconsistencies in the weight change. But this is still different from having no change in the control (i.e video-record the weight-value for 10 minutes with and without the aether induction).
-
+<!-- 
 	From here, we can easily see how aether tech makes sense in construction. This is consistent in early civlizations which built large and heavy infrastructure, such as Egyptian pyramids, without any knowledge of electricity or even combustion. This tech only needs the discovery of fire as to create the construction tools. It doesn't even need writing technology since aether knowledge is best transmitted through oral tradition just as you can learn from YouTube videos faster than from reading a book. 
 
 	Accordingly, we see Hindus preferring oral teachings, and the Egyptians not writing their aether technology down. Instead, the latter taught it orally to Pythagoras which taught it to his followers. Eventually it was learned by Timaeus who was recorded by Plato which we can read now online. 

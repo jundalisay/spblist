@@ -167,11 +167,18 @@ Wealth | the actual quality and quantity of useful goods and services
 
 Word | Acronym | Meaning
 --- | --- | ---
+Charge | Rotation direction of that particle 
 Gravitational Signature | | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
-Quantum Substance | A Cartesian Substance subject to measurement
+Magnetic Field | The flow of virtual photons around that hole
+Magnetic Moment | A hole in particles for virtual photons to pass through
+Magnetism | The tendency for materials to attract and repel independent of gravitation
 Monad | A 1-dimensional Substance
-Quantum of Space-time | Qost | Invisible spacetime particles in the Spatial Layer
 Quantum of Aether | Qoa | Substance of idea, feeling, or the abstract mind or soul that has those ideas and feelings
+Quantum of Space-time | Qost | Invisible spacetime particles in the Spatial Layer
+Quantum Substance | A Cartesian Substance subject to measurement
+Spin | Orientation of that particle relative to the virtual photon 
+
+
 <!-- Spinoza | | the Aether, as to separate it from the Physics concept of the aether or the Higgs field -->
 
 
