@@ -12,23 +12,44 @@ icon: /icons/descartes.png
 
 
 
-There are several things that commonly prevent clouds from descending immediately after being formed. 
+### Why Clouds Stay Up
 
-Firstly, they are made up of ice particles or water droplets that are very small. Consequently, they have a lot of surface area relative to their density. 
+Clouds do not descend immediately after being formed, for several reasons. 
 
-The resistance of the air that they would have to divide if they descended, can easily have more force to prevent them from doing so than their weight has to constrain them to do so. 
+1. They are made up of ice particles or water droplets that are very small.
 
-Then the winds, which are usually stronger against the earth where their body is coarser than at the top of the air where it is more subtle, and which for this reason act more from bottom to top than from top to bottom, can not only support them, but often also make them rise above the region of the air where they are found.
+This gives them a lot of surface area relative to their density. 
 
-The same can also be done by the vapors which, coming out of the earth or coming from some other side, swell the air that is under them; or also the mere heat of this air which, by expanding them, pushes them back; or the coldness of the one above which, by tightening them, attracts them; or similar things. 
+This gives them less force to break through the air resistance below them. 
 
-The ice particles are then pushed against each other by the winds. They touch each other without uniting completely for that, and compose a body so rare, so light and so extended, that if no heat comes to melt some of its parts and by this means condense and weigh it down, it can almost never descend to the ground.
+<!--  would have more force 
+
+that they would have to divide if they descended, can easily have more force to prevent them from doing so than their weight has to constrain them to do so.  -->
+
+2. The winds are usually stronger against the earth where the air mass is coarser than at the top where the air subtler. 
+
+This is why the wind:
+- acts on the earth more from bottom to top than from top to bottom.
+- supports the earth-aether particles and make them rise above the region of the air where they are found.
+
+The same can also be done by the vapors which come out of the earth.
+- They swell the air that is under them.
+- The mere heat of this air expands them and pushes them back.
+- The coldness of the air above tightens and attracts them
+
+<!-- ; or similar things.  -->
+
+The ice particles are then pushed against each other by the winds.
+
+They touch each other without uniting completely for that.
+- They compose a body so decompressed, light, and extended
+- If no heat comes to melt some of its parts and by this means condense and weigh it down, it can almost never descend to the ground.
 
 But water is in some way dilated by cold when it freezes.
 
-And so the heat, which is usually rarefies other bodies, ordinarily condenses the body of clouds. 
+And so the heat, which usually decompresses other bodies, ordinarily condenses the body of clouds. 
 
-And this is easy to experiment with in snow which is of the same material as they are, except that it is already more condensed.
+Snow is of the same material as clouds, but more condensed.
 
 When placed in a warm place, the snow shrinks before any water comes out of it, or it decreases in weight. 
 
@@ -36,7 +57,7 @@ This happens because the extremities of its ice particles are more delicate than
 
 The agitation of the fire-aether around them causes them to bend and move, as though alive. This is known as melting. 
 
-They then slip and attach themselves to the neighboring ice particles without detaching themselves from those to which they are already joined. This brings them closer to each other. 
+They then slip and attach themselves to the neighboring ice particles without detaching themselves from those to which they are already joined. This brings them closer to each other.
 
 The cloud's particles are usually farther apart than those the snow's particles on the ground. This is why the cloud particles cannot approach their neighbors without moving away from some others at the same time.
 
@@ -52,6 +73,9 @@ When they descend thus without being completely melted, they compose snow.
 
 But if the air through which they pass is so hot that it melts them, as it always is during the summer, and very often also in other seasons in our climate, they are converted into rain.
 
+
+### How Hail is Formed
+
 Sometimes the rain passes through some cold wind which freezes them again, turning them into hail.
 
 This hail can be of several kinds.
@@ -64,17 +88,37 @@ This happens when the cold wind that causes it meets already-formed water drople
 
 This happens when the snowflakes are almost melted, but not yet rounded into water droplets.
 
-This leads to various irregular shapes. Some are very large, because they are formed by a cold wind, which driving the cloud from top to bottom, pushes several of its flakes against each other, and freezes them all into one mass.
+This leads to various irregular shapes. Some are very large because they are formed by a cold wind which drives the cloud from top to bottom. This pushes several of its flakes against each other and freezes them all into one mass.
 
-When this wind approaches these melting flakes, it causes the heat of the air that surrounds them, that is to say, the most agitated and least subtle subtle matter that is in this air, to withdraw into their pores, because it cannot penetrate them at all so quickly. In the same way that on earth sometimes, when a sudden wind or rain arrives that cools the outside air, more heat than before enters the houses. 
+When this wind approaches these melting flakes, it causes the heat of the air that surrounds them to withdraw into their pores, because it cannot penetrate them at all so quickly.
 
-The heat, which is in the pores of these flakes, is held rather towards their surfaces than towards their centers, because the subtle matter, which causes it, can better continue its movements there; and there it melts them more and more a little before they start to freeze again: and even the most liquid, that is to say, the most agitated of their parts that are found elsewhere, also tend towards there; while those that do not have time to melt remain in the center. 
+<!-- The most agitated and least subtle air-aether in this air  -->
 
-Hence it comes that the outside of each grain of this hail, being ordinarily composed of a continuous and transparent ice, there is a little snow in the middle, as you can see by breaking them.
+<!-- the air-aether in this air has  -->
+
+This is similar to how a sudden wind or rain cools the outside air, causing more heat than before to enter the houses. 
+
+<!-- subtle matter -->
+
+The heat in the pores of these flakes is held towards their surfaces than their centers. This is because the air-aether which causes it, can better continue its movements there.
+
+There, it melts them more and more a little before they start to freeze again.
+
+Even their most liquid (the most agitated) particles that are found elsewhere, also tend towards there.
+
+While those that do not have time to melt remain in the center. 
+
+Hail is ordinarily composed of a continuous and transparent ice.
+
+But here, the outside of each grain of this hail has a little snow in the middle, as you can see by breaking them.
 
 And because it almost never falls except in summer, this will assure you that the clouds can then be composed of ice particles as well as in winter. 
 
-But the reason that prevents such hail from falling in winter, at least whose grains are a little large, is that there is hardly enough heat reaching the clouds for this effect, except when they are so low that their matter being melted, or almost melted, would not have time to freeze again before descending to the ground.
+<!-- But the reason that prevents such  -->
+
+Hail does not fall in winter, at least whose grains are a little large, because there is hardly enough heat reaching the clouds for this effect. 
+
+This is except when they are so low that their matter being melted, or almost melted, would not have time to freeze again before descending to the ground.
 
 If the snow is not yet so melted, but only a little warmed and softened, when the cold wind, which converts it into hail, comes, it does not become transparent at all, but remains white like sugar.
 
@@ -82,5 +126,7 @@ If the flakes of this snow are small enough, like the size of a pea or below, ea
 
 For the heat, which withdraws into the pores of these flakes at the moment when a cold wind begins to surround them, condenses and tightens all their parts, by pulling from their circumferences towards their centers, which makes them become quite round; and the cold, penetrating them immediately afterwards, and freezing them, makes them much harder than snow.
 
-When they are a little large, the heat they have inside continues to make their inner parts tighten and condense, always pulling towards the center, after the outer ones are so hardened and frozen by the cold that they cannot follow them; it is necessary that they split inside, following planes or straight lines that tend towards the center, and that their cracks increase more and more as the cold penetrates further, so that finally they burst and divide into several pointed pieces, which are as many hailstones.
+When they are a little large, their internal heat continues to make their inner parts tighten and condense. They always pull towards the center, after the outer ones are so hardened and frozen by the cold that they cannot follow them.
+
+They necessarily split inside, following planes or straight lines that tend towards the center. Their cracks increase more and more as the cold penetrates further, so that finally they burst and divide into several pointed pieces, which are as many hailstones.
 

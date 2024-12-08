@@ -1,8 +1,8 @@
 ---
 heading: Discourse 4
-title: Winds
+title: Air and Winds
 weight: 18
-description: Descartes gives 4 Precepts on Math and Logic
+description: Air is any invisible and intangible substance
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
@@ -16,15 +16,19 @@ icon: /icons/descartes.png
 "Wind" is any perceptible movement of air.
 
 <!-- rarefied -->
-Thus, when water is greatly decompressed and changed into very subtle vapor, it is said to be converted into air. But the air that we breathe is mostly composed of particles that have shapes very different from, and finer than, those of water.
 
-Therefore, air being expelled from a bellows or propelled by a fan is called wind.
 
-The broader winds which prevail over the sea and land are usually just the movement of vapors that expanding.
+Water is said to turn into air when it is greatly decompressed and changed into very subtle vapor.
 
-By expanding they spread out and move to wherever they find more room. 
+But the air that we breathe is mostly composed of particles that have shapes very different from, and finer than, those of water.
 
-Similarly, as seen in these spheres called Aeolipiles, a little water vaporizing into steam creates a wind strong enough and large enough because of the tiny matter that it comprises.
+Therefore, the air being expelled from a bellows or propelled by a fan is called wind.
+
+The broader winds which prevail over the sea and land are usually just the movement of vapors that expand.
+
+By expanding, they spread out and move to wherever they find more room. 
+
+Similarly, as seen in these spheres called Aeolipiles, a little water vaporizing into steam creates a wind strong and large enough because of the tiny matter that it comprises.
 
 This artificial wind can greatly help us understand these natural ones, so I will explain it here.
 
@@ -34,32 +38,36 @@ This artificial wind can greatly help us understand these natural ones, so I wil
 
 The part of this sphere `ABC` is filled with water. The other part `AEC` is empty, containing only air. 
 
-It is placed over fire. The heat causes the water molecules to move, with many rising above the surface `AC`, where they spread out, swirl around, and push against each other and try to move apart.
+It is placed over fire. The heat causes the water molecules to move. Many rise above the surface `AC` where they:
+- spread out
+- swirl around
+- push against each other
+- try to move apart.
 
 Some escape through the hole `D`, creating a wind that blows towards F.
 
 <!-- all the forces causing them to push against each other combine to push out those closest to the hole, thus   -->
 
-New particles of this water are constantly being heated and rising above the surface `AC`.
+New particles of this water are constantly being heated and rise above the surface `AC`.
+- They spread and move apart from each other as they exit through the hole `D`. 
 
-They spread and moving apart from each other as they exit through the hole `D`. 
-
-This wind continues until all the water in the sphere is evaporated, or until the heat causing the evaporation ceases.
-
-
+This wind continues until:
+- all the water in the sphere is evaporated, or
+- the heat causing the evaporation ceases.
 
 
-The ordinary winds that prevail in the air form in much the same way as this one, with 2 differences.
+The ordinary winds form in the same way as this one, with 2 differences.
 
 1. Their vapors do not just rise from the surface of water, as in this sphere, but also from moist earth, snow, and clouds. 
 
-Therefore, they usually emerge in greater abundance than from pure water, because their particles are already mostly separated and disjointed, and thus easier to separate further. 
+Therefore, they usually emerge in greater abundance than from pure water, because their particles are already mostly separated and disjointed, and thus easier to separate further.
 
 2. These vapors, unlike those in an Æolipile, cannot be contained in the air.
 
 Rather, they are hindered from spreading evenly in all directions by the resistance of other vapors, clouds, mountains, or by winds blowing towards their location. 
 
 However, elsewhere in the atmosphere, other vapors often thicken and contract at the same time the former expand, directing them towards the space left by the latter.
+
 
 For example, imagine that there are currently numerous vapors at the point in the air marked `F`, expanding and occupying a much larger space than they currently occupy.
 

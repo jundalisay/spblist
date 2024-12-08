@@ -35,10 +35,10 @@ The media of the spatial layer create the various forces:
 
 Layer | Media | Force
 --- | --- | ---
-Aethereal-Spatial | Spacetime or most3 | Dark Energy
-Spatial-Spatial | Spacetime or most3 | Dark Matter
-Spatial-Radiant/Material | Spacetime or most3 | Gravity
-Radiant | Spacetime or most3 + mor3| Magnetism 
+Aethereal-Spatial | Spacetime or most3 (cluster) | Dark Energy
+Spatial-Spatial | Spacetime or most3 (galaxy) |  Dark Matter
+Spatial-Radiant/Material | Spacetime or most3 + som | Gravity
+Radiant | Spacetime or most3 + mor3 | Magnetism 
 Material | Aetherspace or most2 | Gluon or Strong Force
 
  
@@ -68,6 +68,5 @@ The diversity of the universes therefore are due to the difference in the qualit
 Three-dimensional solid geometry should have naturally followed two-dimensional geometry. But three-dimensional solid geometry is in such a ludicrous state. It made me pass over it, and go on to astronomy as the motion of solids.
 
 This distinction between 2-D and 3-D geometry was the focus of Johannes Kepler and Kepler's laws which is the basis of our theory of gravitation which is opposite that of Newton and Einstein.  -->
-
 
 

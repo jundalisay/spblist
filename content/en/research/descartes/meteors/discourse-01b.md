@@ -1,8 +1,8 @@
 ---
 heading: Discourse 1b
-title: The Nature Of Water
-weight: 6
-description: Descartes gives 4 Precepts on Math and Logic
+title: Heat and Cold
+weight: 5
+description: Material temperature is based on how the pores accept or reject the fire-aether
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
@@ -11,40 +11,67 @@ icon: /icons/descartes.png
 ---
 
 
-Water is composed of long and smooth earth-aether particles. Most of them:
-- bend when the fire-aether around them has more force than usual
-- stay rigid when the fire-aether around them has less force than usual.
+All terrestrial bodies have many pores through which these smaller particles can pass through.
+- But several have pores so narrow or constricted that they do not accept the larger particles.
+- These usually feel the coldest when touched or even when approached. 
 
-However, there are also larger particles that cannot be bent by the fire-aether and thus form salts.
+Marble and metals feel colder than wood because their pores do not easily accept the less subtle particles of the fire-aether.
+- Ice is colder than metals because its pores accept the fire-aether even less than those of metals.
 
-The smaller particles that can always be bent form spirits or life waters, which never freeze. 
+<!-- For I suppose here that for cold and heat, there is no need to conceive anything other than that  -->
 
-When the parts of common water completely cease to bend, their most natural shape is curved in various ways. Their shape is not like straight reeds.
+This is because:
+- Heat is the small particles of the bodies that we touch being agitated more strongly than usual.
+- Cold is them being agitated less than usual.*
 
-This is why they, as ice, occupy more space. It is because the fire-aether is no longer available to bend them and make their shapes fit one another.
+{{< n n="This is proven in supercooled superconductors that offer no electric resistatnce -- because there is no more counter agitation from the supercooled matter. No agitation of matter therefore leads to cold temperature universally, and straight channels for magnetism selectively. This leads to the ability to increase or reduce agitation by the aether instead of by radiant energy." >}}
 
- <!-- cannot then arrange themselves in as little space as when the subtle matter, being strong enough to  -->
 
-<!-- When the fire-aether is stronger than necessary for this purpose, it again causes them to extend into more space.  -->
+This agitation can be caused by the small particles of the fire-aether.
+- **This agitation transfers to the small filaments of our nerves that are the organs of touch.** 
+ <!-- or by any other cause. -->
 
-This can be observed by filling a flask that has a long and narrow neck with hot water then exposing it to the air when it freezes. The water will visibly drop little by little until it reaches a certain degree of coldness. Then it will swell and rise little by little until it is completely frozen. 
+<!-- When they agitate them more strongly than usual, it causes in us the sensation of heat.
 
-Thus, the same cold that condensed or contracted it at first will later rarefy it. 
+; whereas when they agitate them less strongly, it causes the sensation of cold.  -->
 
-Water that has been kept on the fire for a long time freezes more quickly than other water. This is because its most non-rigid particles have already evaporated, leaving only the rigid ones.
 
-<!-- that can stop bending the least  -->
- <!-- while it is being heated. -->
+### The States of Matter: Water and Ice
 
-<!-- But to make these suppositions easier for you to accept, know that I do not conceive of  -->
+The particles of hard bodies are like intertwined branches.
+- This fire-aether does not separate those particles in the same way that it does those of water and liquids. 
 
-The small parts of terrestrial bodies are not made up of atoms or indivisible particles.
+But it nonetheless agitates and makes them tremble according to:
+- how strong its movement is
+- how large its particles are
 
-Rather, they are all made of the same matter [earth-aether], each one could be divided again in an infinite number of ways and that they differ from one another like stones of various shapes that have been cut from the same rock. 
+This is like how the wind can agitate all the branches of shrubs that form a hedge without removing them from their places.
 
-To avoid conflict with the Philosophers, I do not wish to deny anything at all that they imagine in bodies beyond what I have stated, such as:
-- their substantial forms
-- their real qualities
-- similar things. 
+There is a proportion between:
+- the force of this fire-aether
+- the resistance of the particles of bodies
 
-My reasons should be all the more approved as I make them depend on fewer things.
+Ice turns into water when it is more agitated.
+
+This agitation can come from the larger fire-aether particles that are near the surface of the earth [at sea level]. These larger fire-aether particles then have the force to:
+- agitate and move the ice particles separately from one another
+- bend most of the small particles of the water among which it slips, thus making it liquid. 
+
+Water turns into ice when it becomes less agitated.
+
+This lesser agitation can come from the subtler fire-aether, such as those that are in the atmosphere, or during winter.
+- The fire-aether then does not have enough force to bend and agitate the water particles. 
+- This causes the water to remain confusedly joined and laid one on top of the other, creating a hard body as ice. 
+
+The difference between water and ice is like the difference between eels:
+- floating in a fisherman's boat full of holes through which the river water passes and agitates them, and
+- the same eels dry and stiff with cold on the shore. 
+
+Water only freezes when the fire-aether between its particles is more subtle than usual.
+
+It follows that the pores of such ice are arranged in such a way that they cannot accept the larger and less subtle fire-aether.
+
+<!-- that form then, being accommodated only to the size of the more subtle parts of this matter,  -->
+
+Thus, the ice is always very cold, even when kept until summer. It retains its hardness without gradually softening like wax, because the heat only penetrates inside as the surface becomes liquid.
+

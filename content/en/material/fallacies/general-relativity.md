@@ -69,6 +69,9 @@ Unlike Newton who viewed space as absolute, Descartes viewed space as relative:
 I assert that all points are movable in the universe. From this, I conclude that nothing has a permanent place unless it is fixed by our thought.
 {{< /q >}}
 
+{{< n n="'Fixed by our thought' is consistent with the aether being superior to spacetime. It is proven by monks who use their minds to levitate and predict the future." >}}
+ 
+
 
 Like Einstein, he denied gravity coming from inside objects. But unlike Einstein's Relativity which needed light, Descartes' Relationality needed only 2 or more identities:
 
