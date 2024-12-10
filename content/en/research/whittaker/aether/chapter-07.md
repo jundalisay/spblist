@@ -58,18 +58,44 @@ The induction of currents is therefore governed by the vector a; this, which is 
 
 While Neumann was endeavouring to comprehend the laws of induced currents in an extended form of Ampère's theory, another investigator was attempting a still more ambitious project: 110 less than that of uniting electrodynamics into a coherent whole with electrostatics.
 
-Wilhelm Weber (b. 1804, d. 1890) was in the earlier part of his scientific career a friend and colleague of Gauss at Göttingen. In 1837, however, he became involved in political trouble. The union of Hanover with the British Empire, which had subsisted since the accession of the Hanoverian dynasty to the British throne, was in that year dissolved by the operation of the Salic law; the Princess Victoria succeeded to the crown of England, and her uncle Ernest-Augustus to that of Hanover. The new king, who was a pronounced reactionary, revoked the free constitution which the Hanoverians had for some time enjoyed; and Weber, who took a prominent part in opposing this action, was deprived of his professorship. From 1843 to 1849, when his principal theoretical researches in electricity were made, he occupied a chair in the University of Leipzig.
+Wilhelm Weber (b. 1804, d. 1890) was in the earlier part of his scientific career a friend and colleague of Gauss at Göttingen. 
 
-The theory of Weber was in its origin closely connected with the work of another Leipzig Professor, Fechner, who in 1845[6] introduced certain assumptions regarding the nature of ​electric currents. Fechner supposed every current to consist in a streaming of electric charges, the vitreous charges travelling in one direction, and the resinous charges, equal to them in magnitude and number, travelling in the opposite direction with equal velocity. He further supposed that like charges attract each other when they are moving parallel to the same direction, while unlike charges attract when they are moving in opposite directions. On these assumptions he succeeded in bringing Faraday's induction effects into connexion with Ampère's laws of electrodynamics.
+In 1837, however, he became involved in political trouble. The union of Hanover with the British Empire, which had subsisted since the accession of the Hanoverian dynasty to the British throne, was in that year dissolved by the operation of the Salic law.
 
-In 1846 Weber,[7] adopting the same assumptions as Fechner, analysed the phenomena in the following way:—
+- Princess Victoria succeeded to the crown of England
+- Her uncle Ernest-Augustus to that of Hanover
 
-The formula of Ampère for the ponderomotive force between two elements ds, ds′ of currents i, i′, may be written
+The new king was a pronounced reactionary. He revoked the free constitution of the Hanoverians.
 
-Suppose now that λ units of vitreous electricity are contained in unit length of the wire s, and are moving with velocity u; and that an equal quantity of resinous electricity is moving with velocity u in the opposite direction; so that
+Weber took a prominent part in opposing this. And so he was deprived of his professorship.
 
+From 1843 to 1849, when his principal theoretical researches in electricity were made, he occupied a chair in the University of Leipzig.
 
-Let λ, u′, denote the corresponding quantities for the other current; and let the suffix 1, be taken to refer to the action between the positive charges in the two wires, the suffix 2, to the action between the positive charge in s and the negative charge in s′, the suffix 3, to the action between the negative charge in s and the positive charge in s′, and the suffix 4 to the action between the negative charges in the two wires. Then we have
+Weber's theory was in its origin closely connected with the work , 
+
+Fechner was another Leipzig Professor. In 1845[6], he supposed that every current consisted in a streaming of electric charges.
+- The vitreous charges travel in one direction
+- The resinous charges travel in the opposite direction with equal velocity, magnitude, and number
+- Like charges attract each other when they are moving parallel to the same direction
+- Unlike charges attract when they are moving in opposite directions.
+
+With these, he connected Faraday's induction effects with Ampère's laws of electrodynamics.
+
+In 1846, Weber,[7] adopted the same assumptions as Fechner:
+
+The formula of Ampère for the ponderomotive force between 2 elements ds, ds′ of currents i, i′, may be written
+
+...
+
+Suppose that:
+- λ units of vitreous electricity are contained in unit length of the wire s, and are moving with velocity u 
+- an equal quantity of resinous electricity is moving with velocity u in the opposite direction
+
+...
+
+Let λ, u′, denote the corresponding quantities for the other current.
+
+Let the suffix 1, be taken to refer to the action between the positive charges in the two wires, the suffix 2, to the action between the positive charge in s and the negative charge in s′, the suffix 3, to the action between the negative charge in s and the positive charge in s′, and the suffix 4 to the action between the negative charges in the two wires. Then we have
 
 By aid of these and the similar equations with the suffixes 2, 3, 4 the equation for the ponderomotive force may be transformed into the equation
 
@@ -89,37 +115,44 @@ Consider now two material particles at distance r apart, whose mechanical kineti
 
 and the potential energy is
 
+...
 
 To such a system the principle of conservation of energy may be applied: the equation of energy is, in fact,
 
 The first objection made to Weber's theory is thus disposed of; but another and more serious one now presents itself. The occurrence of the negative sign with the term 
 
-implies that a charge behaves somewhat as if its mass were negative, so that in certain circumstances its velocity might increase indefinitely under the action of a force opposed to the motion. This is one of the vulnerable points of Weber's theory, and has been the object of much criticism. In fact,[9] suppose that one charged particle of mass μ is free to move, and that the other charges are spread uniformly over the surface of a hollow spherical insulator in which the particle is enclosed. The equation of conservation of energy is
+...
 
-{\displaystyle {\tfrac {1}{2}}(\mu -ep)v^{2}+V=} constant,
+This implies that a charge behaves somewhat as if its mass were negative, so that in certain circumstances its velocity might increase indefinitely under the action of a force opposed to the motion.
 
-where e denotes the charge of the particle, v its velocity, V its potential energy with respect to the mechanical forces which act on it, and p denotes the quantity
+This is one of the vulnerable points of Weber's theory, and has been the object of much criticism. 
 
-where the integration is taken over the sphere, and where σ denotes the surface-density; p is independent of the position of the particle μ within the sphere. If now the electric charge on the sphere is so great that ep is greater than μ, then v2 and V must increase and diminish together, which is evidently absurd.
+In fact,[9] suppose that one charged particle of mass μ is free to move, and that the other charges are spread uniformly over the surface of a hollow spherical insulator in which the particle is enclosed. The equation of conservation of energy is
+
+...
+
+constant,
+
+where `e` denotes the charge of the particle, v its velocity, V its potential energy with respect to the mechanical forces which act on it, and p denotes the quantity
+
+where the integration is taken over the sphere, and where σ denotes the surface-density; p is independent of the position of the particle μ within the sphere. 
+
+If now the electric charge on the sphere is so great that ep is greater than μ, then v2 and V must increase and diminish together, which is evidently absurd.
 
 Leaving this objection unanswered, we proceed to show how Weber's law of force between electrons leads to the formulae for the induction of currents.
 
 The mutual energy of two moving charges is
 
 
+where v and v′ denote the velocities of the charges; so that the mutual energy of two current-elements containing charges e, e′ respectively of each kind of electricity, is
 
-where v and v′ denote the velocities of the charges; so that the ​mutual energy of two current-elements containing charges e, e′ respectively of each kind of electricity, is
-
-{\displaystyle {\frac {ee^{\prime }c^{2}}{2r^{3}}}[-\{(\mathbf {r.v^{\prime }} )-(\mathbf {r.v} )\}^{2}+\{(\mathbf {r.v^{\prime }} )+(\mathbf {r.v} )\}^{2}+\{-(\mathbf {r.v^{\prime }} )-(\mathbf {r.v} )\}^{2}-\{(\mathbf {-r.v^{\prime }} )+(\mathbf {r.v} )\}^{2}]},
-
+<!-- {\displaystyle {\frac {ee^{\prime }c^{2}}{2r^{3}}}[-\{(\mathbf {r.v^{\prime }} )-(\mathbf {r.v} )\}^{2}+\{(\mathbf {r.v^{\prime }} )+(\mathbf {r.v} )\}^{2}+\{-(\mathbf {r.v^{\prime }} )-(\mathbf {r.v} )\}^{2}-\{(\mathbf {-r.v^{\prime }} )+(\mathbf {r.v} )\}^{2}]}, -->
 
 If ds, ds′ denote the lengths of the elements, and i, i′ the currents in them, we have
 
-
-′{\displaystyle i\mathbf {ds} =2e\mathbf {v} ,i^{\prime }\mathbf {ds} ^{\prime }=2e^{\prime }\mathbf {v} ^{\prime }};
+<!-- ′{\displaystyle i\mathbf {ds} =2e\mathbf {v} ,i^{\prime }\mathbf {ds} ^{\prime }=2e^{\prime }\mathbf {v} ^{\prime }}; -->
 
 so the mutual energy of two current-elements is
-
 
 
 The mutual energy of ids with all the other currents is therefore

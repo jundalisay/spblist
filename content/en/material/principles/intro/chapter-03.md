@@ -60,7 +60,7 @@ I think of myself as a thing that thinks and is not extended. I also think of th
 
 These media, substance, and quanta are then applied to the 5 Layers.
 
-{{< img src="/graphics/physics/msq.jpg" alt="Superphysics 5 Layer Model" cap="The Superphysics MSQ Model (left) uses a simpler naming convention for particles" >}}
+{{< img src="/graphics/physics/msq.jpg" alt="Superphysics 5 Layer Model" cap="The Superphysics MSQ Model uses a simpler naming convention for particles" >}}
 
 
 <!-- ## Media

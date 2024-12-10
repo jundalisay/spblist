@@ -1,7 +1,7 @@
 ---
 title: "The True Meaning Of Ahimsa"
 heading: Chapter 2
-weight: 5
+weight: 6
 description: "The principle of ahimsa (non-violence) which I had promised to uphold at the time of initiation, seemed the greatest obstacle"
 image: "/covers/katha.png"
 author: Nagina

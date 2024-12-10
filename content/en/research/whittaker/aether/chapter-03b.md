@@ -12,22 +12,38 @@ description: "This renewal of interest was due to the discovery by Volta, in the
 
 Scarcely more than a year after the death of Galvani, the new science suddenly regained the eager attention of philosophers. 
 
-This renewal of interest was due to the discovery by Volta, in the early spring of 1800, of a means of greatly increasing the intensity of the effects. Hitherto all attempts to magnify the action by enlarging or multiplying the apparatus had ended in failure. 
+<!-- This renewal of interest was due to the discovery by Volta, 
 
-If a long chain of different metals was used instead of only two, the convulsions of the frog were no more violent. But Volta now showed[10] that if any number of couples, each consisting of a zinc disk and a copper disk in contact, were taken, and if each couple was separated from the next by a disk of moistened pasteboard (so that the order was copper, zinc, pasteboard, copper, zinc, pasteboard, &c.), the effect of the pile this formed was much greater than that of any galvanic apparatus previously introduced. When the highest and lowest disks were simultaneously touched by the fingers, a distinct shock was felt; and this could be repeated again and again, the pile apparently possessing within itself an indefinite power of recuperation. 
+ of a means of greatly increasing the intensity of the effects. Hitherto all attempts to magnify the action by enlarging or multiplying the apparatus had ended in failure.  -->
+
+<!-- If a long chain of different metals was used instead of only two, the convulsions of the frog were no more violent.  -->
+
+In the early spring of 1800, Volta showed[10] that if any number of couples, each consisting of a zinc disk and a copper disk in contact, were taken, and if each couple was separated from the next by a disk of moistened pasteboard (so that the order was copper, zinc, pasteboard, copper, zinc, pasteboard, &c.), the effect of the pile this formed was much greater than that of any galvanic apparatus previously introduced. 
+
+When the highest and lowest disks were simultaneously touched by the fingers, a distinct shock was felt; and this could be repeated again and again, the pile apparently possessing within itself an indefinite power of recuperation. 
 
 It thus resembled a Leyden jar endowed with a power of automatically re-establishing its state of tension after each explosion; with, in fact, "an inexhaustible charge, a perpetual action or impulsion on the electric fluid."
 
-Volta unhesitatingly pronounced the phenomena of the pile to be in their nature electrical. The circumstances of Galvani's original discovery had prepared the minds of philosophers for this belief, which was powerfully supported by the similarity of the physiological effects of the pile to those of the Leyden jar, and by the observation that the galvanic influence was conducted only by those bodies—e.g. the metals—which were already known to be good conductors of static electricity. But Volta now supplied a still more convincing proof. 
+Volta unhesitatingly pronounced the phenomena of the pile to be in their nature electrical. 
 
-Taking a disk of copper and one of zinc, he held each by an insulating handle and applied them to each other for an instant. After the disks had been separated, they were brought into contact with a delicate electroscope, which indicated by the divergence of its straws that the disks were now electrified—the zinc had, in fact, acquired a positive and the copper a negative electric charge.[11] Thus the mere contact of two different metals, such as those employed in the pile, was shown to be sufficient for the production of effects undoubtedly electrical in character.
+The circumstances of Galvani's original discovery had prepared the minds of philosophers for this belief, which was powerfully supported by the similarity of the physiological effects of the pile to those of the Leyden jar, and by the observation that the galvanic influence was conducted only by those bodies—e.g. the metals—which were already known to be good conductors of static electricity. But Volta now supplied a still more convincing proof. 
 
-On the basis of this result Volta in the same year (1800) put forward a definite theory of the action of the pile. Suppose first that a disk of zinc is laid on a disk of copper, which in turn rests on an insulating support. The experiment just described shows that the electric fluid will be driven from the copper to the zinc. We may then, according to Volta, represent the state or "tension" of the copper by the number -
-1
-2
+Taking a disk of copper and one of zinc, he held each by an insulating handle and applied them to each other for an instant. 
+
+After the disks had been separated, they were brought into contact with a delicate electroscope, which indicated by the divergence of its straws that the disks were now electrified—the zinc had, in fact, acquired a positive and the copper a negative electric charge.[11] 
+
+Thus the mere contact of 2 different metals, such as those employed in the pile, was shown to be sufficient for the production of effects undoubtedly electrical in character.
+
+On the basis of this result Volta in 1800 put forward a definite theory of the action of the pile.
+
+Suppose first that a disk of zinc is laid on a disk of copper, which in turn rests on an insulating support. The experiment just described shows that the electric fluid will be driven from the copper to the zinc. We may then, according to Volta, represent the state or "tension" of the copper by the number -
+
+...
+
 , and that of the zinc by the number +
-1
-2
+
+...
+
 , the difference being arbitrarily taken as unity, and the sum being (on account of the insulation) zero. It will be seen that Volta's idea of "tension" was a mingling of two ideas, which in modern electric theory are clearly distinguished from each other-namely, electric charge and electric potential.
 
 Now let a disk of moistened pasteboard be laid on the zinc, and a disk of copper on this again. Since the uppermost copper is not in contact with the zinc, the contact-action does not take place between them; but since the moist pasteboard is a conductor, the copper will receive a charge from the zinc. Thus the states will now be represented by -
@@ -54,7 +70,10 @@ As he showed in 1801, if disks of various metals are placed in contact in any or
 
 When the metals are arranged in the order silver, copper, iron, tin, lead, zinc, each of them becomes positive with respect to that which precedes it, and negative with respect to that which follows it; but the moving force from the silver to the zinc is equal to the sum of the moving forces of the metals comprehended between them in the series.
 
-When a connexion was maintained for some time between the extreme disks of a pile by the human body, sensations. were experienced which seemed to indicate a continuous activity in the entire system. Volta inferred that the electric current persists during the whole time that communication by conductors exists all round the circuit, and that the current is suspended only when this communication is interrupted. "This endless circulation or perpetual motion of the electric fluid," he says, "may seem paradoxical, and may prove inexplicable; but it is none the less real, and we can, so to speak, touch and handle it."
+When a connexion was maintained for some time between the extreme disks of a pile by the human body, sensations were experienced which seemed to indicate a continuous activity in the entire system. Volta inferred that the electric current persists during the whole time that communication by conductors exists all round the circuit, and that the current is suspended only when this communication is interrupted.
+
+
+"This endless circulation or perpetual motion of the electric fluid," he says, "may seem paradoxical, and may prove inexplicable; but it is none the less real, and we can, so to speak, touch and handle it."
 
 Volta announced his discovery in a letter to Sir Joseph Banks, dated from Como, March 20th, 1800. 
 

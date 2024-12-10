@@ -30,7 +30,6 @@ The aether has the nature of waves. Unfortunately:
 The only way to perceive and manipulate it objectively is through sound. Therefore, the lower mind, feelings, and ideas have a representative sound that can be manipulated by external sounds. Rather, there are external minds, feelings, and ideas that change those original minds, feelings, and ideas.  
 
 
-
 ### Lower Mind
 
 In Superphysics, human intelligence is sourced from our bodies having more access to the aethereal layer through our upper chakras, specifically the 5th, 6th, and 7th. 
@@ -44,7 +43,7 @@ Material Superphysics aims to unlock this lower mind to create true AI as Autono
 This sublayer also connects the 5 Layers to the 5 Strata of Bio Superphysics.
 
 
-### Feelings
+<!-- ### Feelings
 
 This facilitates the operations of the Positive and Negative Forces in the physical domain. 
 
@@ -55,7 +54,7 @@ Ideas and feelings are expressed most naturally by sounds.
 
 This is the crudest medium for the aethereal layer and manifests as identities. 
 
-A quantum is the smallest unit of identity. This is why we classify the principles of quantum mechanics under the aethereal layer.  
+A quantum is the smallest unit of identity. This is why we classify the principles of quantum mechanics under the aethereal layer. -->  
 
 <!-- The free aether is responsible for counter-evolution as decay and antimatter.  -->
 
@@ -74,11 +73,11 @@ Since it exists behind spacetime, the normal Cartesian or Galilean coordinates w
 This visualization tool can then reveal the five main Platonic solids that make up the universe, a concept that the Greeks learned from the ancient Egyptians. 
  -->
 
-### The Aether Drag and Aether Dash 
+<!-- ### The Aether Drag and Aether Dash 
 
 The aether drag is the slowness of the gap between actuality and potentiality.
 
-The aether dash is the speed of the elimination of that gap.
+The aether dash is the speed of the elimination of that gap. -->
 
 
 <!-- - If Qost A has an inherent quality that is 100 units repulsive to Qost B, then the spacetime between them might be 100 distance-units per 1 unit of time-perception. 

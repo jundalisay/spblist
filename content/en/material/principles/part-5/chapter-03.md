@@ -24,6 +24,18 @@ Gas | Weak | Kinetic
 This leads to the concepts of pressure such as air pressure and hydraulic pressure. 
 
 
+The material forces are:
+
+Force | States | Description 
+--- | ---
+Friction | Solid, Liquid, Gas |  
+Air Resistance or Drag |  | Gas
+Tension | Solid | 
+Contact Force | Solid, Liquid, Gas |
+Buoyant Force | Liquid | 
+
+
+
 ### Avogadro's Number
 
 Avogadro's Number is the number of molecules in a mole. This is then used to determine the mass of a molecule. 

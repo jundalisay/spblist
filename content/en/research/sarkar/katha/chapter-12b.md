@@ -1,5 +1,5 @@
 ---
-title: "I SURRENDER EVERYTHING TO BABA AND HE BECOMES PLEASED WITH ME"
+title: "I Surrender Everything To Baba And He Becomes Pleased With Me"
 heading: Chapter 12b
 weight: 29
 description: "An Editor’s note in Prajina Bharati October 1983"
@@ -20,13 +20,9 @@ I did not come to Your shelter to see You in this mood." After this I mentally o
 During this process I remembered that I had adamantly requested Baba for the protection of my official position. I was so attached to my official position that I had
 even discarded Baba’s own recommendation to accept a demotion. 
 
-Now I said mentally "Baba You may take away this also if it please You; I shall feel gratified if you
-somehow feel pleased with me again." This was my last offering.
+Now I said mentally "Baba You may take away this also if it please You; I shall feel gratified if you somehow feel pleased with me again." This was my last offering.
 
-Meanwhile the elder brother of Bindeshwariji came and enquired what I was doing sitting alone in that dark room? What is the time? I looked at my watch and told
-him that it was five o'clock. During winters in December even at five in the evening it
-starts growing dark. I was standing outside the room and talking to him, but my mind
-was dominated by Baba's angry mood.
+Meanwhile the elder brother of Bindeshwariji came and enquired what I was doing sitting alone in that dark room? What is the time? I looked at my watch and told him that it was five o'clock. During winters in December even at five in the evening it starts growing dark. I was standing outside the room and talking to him, but my mind was dominated by Baba's angry mood.
 
 In the evening at seven I reached the railway quarter again. Before Baba arrived, the senior brother who stayed there told me that Baba is angry on the account
 of smoking in this house. I though that if this was the reason of Baba's anger, I shall
@@ -38,14 +34,25 @@ started from the quarter, we also followed Him.
 Summoning some courage I asked, “Baba, have I committed any mistake that
 has made you angry with me?”
 
-Baba said, “At that time in the house I was upset. Now since five o’clock I am
-no longer angry with you. Look at yourself - how far are you from death?”
-I said, "Baba, for the last two months I have been trying to ask about this and
-running here all the time to do so, but finding You always busy I could not do so".
-Baba said, “I instructed you to protect yourself from dust and smoke but you did
-not so.”
+Baba said:
 
-I said, “Baba, I have tried to do so”.
+{{< l a="Baba" >}}
+At that time in the house I was upset. Now since five o’clock I am no longer angry with you. Look at yourself - how far are you from death?”
+{{< /l >}}
+
+{{< r a="Nagina" >}}
+Baba, for the last 2 months I have been trying to ask about this and running here all the time to do so, but finding You always busy I could not do so
+{{< /l >}}
+
+
+{{< l a="Baba" >}}
+I instructed you to protect yourself from dust and smoke but you did not dp so
+{{< /l >}}
+
+{{< r a="Nagina" >}}
+Baba, I have tried to do so
+{{< /r >}}
+
 
 After returning to the house I went to bed in the same worried state. Next day I
 did not return and stayed over in Jamalpur again.
@@ -53,20 +60,17 @@ did not return and stayed over in Jamalpur again.
 
 ## I DISCOVER MY FAULT AND BABA PUNISHES ME
 
-That day when I met Pranayji, the senior disciple who lived in that quarter, he
-told me, “One who practices pranayama breath control should keep away from
-smoking. Baba told you to keep away from smoke, but you still continued to smoke.”
+That day when I met Pranayji, the senior disciple who lived in that quarter. He told me:
 
-I told him, ”I never dreamt that keeping away from smoke meant not smoking. I
-was under the impression that I should avoid smoke of coal etc. I am sorry that due to
-my ignorance, Baba had to become angry with me. Now I shall never smoke, although
-it would be quite painful to give it up.”
+“One who practices pranayama breath control should keep away from smoking. Baba told you to keep away from smoke, but you still continued to smoke.”
 
-In the evening as usual, I started for Baba's darshan, but that day Baba had left
-His home before we reached there and we met Him on the way. That day Baba was
-walking faster, there was therefore no opportunity to touch His feet and do pranam. I
-told Baba that He was walking so quickly I had not got an opportunity to touch His feet.
-Hearing this Baba looked at me in great anger. I kept quiet.
+I told him:
+
+”I never dreamt that keeping away from smoke meant not smoking. I was under the impression that I should avoid smoke of coal etc. I am sorry that due to my ignorance, Baba had to become angry with me. Now I shall never smoke, although it would be quite painful to give it up.”
+
+In the evening as usual, I started for Baba's darshan, but that day Baba had left His home before we reached there and we met Him on the way. That day Baba was walking faster, there was therefore no opportunity to touch His feet and do pranam.
+
+I told Baba that He was walking so quickly I had not got an opportunity to touch His feet. Hearing this Baba looked at me in great anger. I kept quiet.
 
 After some time, Baba turned towards the railway quarter and we also
 continued to follow Him. After reaching there Baba asked the senior disciple whether

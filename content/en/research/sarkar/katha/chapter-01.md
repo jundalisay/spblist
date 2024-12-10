@@ -116,32 +116,54 @@ He only smiled at me and closed the doors after the blanket had been spread.
 
 <!-- By now it was nearly sunset. I was still wondering what strength Chandranthji had acquired that he did not hesitate to challenge even God!  -->
 
-Absorbed in these thoughts I went to my bed and reclined against the pillow. I began to think over and over about this. 
+Absorbed in these thoughts, I closed my eyes and wondered about that unknown force who made Chandranathji fearless of even God.
 
-Whilst thinking about this, I closed my eyes and began to ponder about that unknown force who made Chandranathji fearless of even God.
+<!--  I went to my bed and reclined against the pillow. I began to think over and over about this. 
 
-As I lay thus absorbed, a vision of a gentleman of medium height and fair complexion, dressed in dhoti, kurta and shoes, with hair combed back and wearing spectacles, dawned in my mind’s eye.
+Whilst thinking about this,  -->
 
-Attracted, I continued to look at his divine, pleasant and effulgent face. Although I had never seen this person before, I was completely absorbed in him and unaware of the passaing of time. 
 
-Certainly I was neither asleep nor dreaming.After some time when my domestic assistant called me, the spell was broken and I was informed that Chandranathji had been waiting for me outside for quite some time. On coming out to him I realised that it was nearly eight in the evening.
+Then I saw in my mind’s eye a vision of a gentleman:
+- of medium height and fair complexion
+- dressed in dhoti, kurta and shoes
+- with hair combed back and wearing spectacles
 
-I wondered what I had been doing lying down for nearly two whole hours. I could only recollect the entrancing look of that unknown person. My salutations to He who is always so loving towards His devotees!
+<!-- Attracted, I continued to look at his divine, pleasant and effulgent face. Although I had never seen this person before,  -->
 
-I came to the drawing room along with Chandranathji, and began to inquire about his meditation practice and it's methodology, but he only replied that he was doing yoga sadhana. When I inquired whether he had a guru, he replied in the affirmative but refused to divulge more details. 
+I was completely absorbed in him and unaware of the passing of time. 
 
-I only learned later on, that in those days Baba had forbidden any of His disciples to mention Him without His permission.
+<!-- Certainly I was neither asleep nor dreaming. -->
 
-I felt a little hurt by Candranathji’s reticence, but replied that I would describe someone and that he should tell me if he recognised the description. Then I related a truthful description of the gentleman whose image had come into my mind. 
+After some time when my domestic assistant called me. The spell was broken. 
 
-After listening to me he exclaimed, "When you know Him so closely and intimately- why are you bothering me so much for the last six months!”
+I was told that Chandranathji had been waiting for me outside for some time. I had been lying for two whole hours!
 
-Then I told him all that happened to me while he was doing his meditation. 
+ <!-- On coming out to him I realised that it was nearly eight in the evening. -->
 
-I also told him, “After being absorbed in this spellbinding vision all my anxiety seems to be disappearing and proportionately my courage is increasing”.
-My departmental head was to inspect my office the next day and I added, “I will not yield even if my office becomes a battlefield."
+<!-- I wondered what I had been doing lying down for nearly 
+
+ I could only recollect the entrancing look of that unknown person. My salutations to He who is always so loving towards His devotees! -->
+
+I asked Chandranathji about his meditation practice and its methodology. He said he was doing yoga sadhana.
+
+I asked if he had a guru. He said yes but refused to give details. 
+
+I only learned later on, that in those days, Baba had forbidden any of His disciples to mention Him without His permission.
+
+I described to him the man that I saw in my mind. 
+
+ <!-- felt a little hurt by Candranathji’s reticence, but replied that I would describe someone and that he should tell me if he recognised the description. Then I related a truthful description of the gentleman whose image had come into my mind.  -->
+
+
+<!-- After listening to me he exclaimed, "When you know Him so closely and intimately- why are you bothering me so much for the last six months!”
+
+Then I told him all that happened to me while he was doing his meditation.  -->
+
+I told him that after being absorbed in this spellbinding vision, all my anxiety disappeared and my courage increased proportionately.
+
+<!-- My departmental head was to inspect my office the next day and I added, “I will not yield even if my office becomes a battlefield."
 
 On hearing this, Chandranathji had a reply that touched my heart. Although at that time he was neither a tattvika nor an acarya, yet his reply was full of such wisdom that would come from a spiritually advanced person. 
 
 He said, "If a mere thought of that great man can bring such change in you, then certainly when you get His blessings and are under His protective care you will be able to challenge even God."
-This statement of his worked like magic on me. My fear evaporated and and I felt strong enough to face a hundred hostile bosses.
+This statement of his worked like magic on me. My fear evaporated and and I felt strong enough to face a hundred hostile bosses. -->

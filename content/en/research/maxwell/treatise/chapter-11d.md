@@ -1,100 +1,70 @@
 ---
-title: "Machines producing Electrification by Mechanical Work"
+title: "Coulomb’s Torsion Balance"
 heading: "Chapter 11d"
-weight: 140
+weight: 138
 date: 2023-05-27
+description: ""
 image: "/covers/elec.png"
 ---
 
 
-The Measurement of Electric Potential.
+202. The fundamental laws of electricity were established by Coulomb through experiments that  measured the force between 2 small spheres charged with electricity.
 
-206*.] In order to determine large differences of potential in absolute measure we may employ the attracted disk electrometer, and compare the attraction with the effect of a weight.
+- One was fixed while
+- The other was held in equilibrium by 2 forces:
+  1. The electrical action between the spheres
+  2. The torsional elasticity of a glass fibre or metal wire
 
-If at the same time we measure the difference of potential of the same conductors by means of the quadrant electrometer, we shall ascertain the absolute value of certain readings of the scale of the quadrant electrometer, and in this way we may deduce the value of the scale readings of the quadrant electrometer in terms of the potential of the suspended part, and the moment of torsion of the suspension apparatus. To ascertain the potential of a charged conductor of finite size we may con- nect the conductor with one electrode of the electrometer, while the other is connected to earth or to a body of constant potential. The electrometer reading will give the potential of the conductor after the division of its electricity between it and the part of the electrometer with which it is put in contact.
+The balance of torsion consists of a horizontal arm of gum-lac. It is suspended by a fine wire or glass fibre, carrying at one end a little sphere of elder pith, smoothly gilt. 
 
-If
-K denote the capacity of the conductor, and K ′ that of this part of the elec-
-trometer, and if V , V ′ denote the potentials of these bodies before making
-contact, then their common potential after making contact will be
-V=
-KV + K ′ V ′
-.
-K + K′
-Hence the original potential of the conductor was
-V =V+
-K′
-(V − V ′ ).
-KPOTENTIAL AT ANY POINT IN THE AIR.
-194
-If the conductor is not large compared with the electrometer, K ′ will be
-comparable with K, and unless we can ascertain the values of K and K ′ the
-second term of the expression will have a doubtful value. But if we can make
-the potential of the electrode of the electrometer very nearly equal to that of
-the body before making contact, then the uncertainty of the values of K and
-K ′ will be of little consequence.
+The suspension wire is fastened above to the vertical axis of an arm which can be moved round a horizontal graduated circle, so as to twist the upper end of the wire about its own axis any number of degrees.
 
-If we know the value of the potential of the body approximately, we may
-charge the electrode by means of a ‘replenisher’ or otherwise to this approx-
-imate potential, and the next experiment will give a closer approximation.
-In this way we may measure the potential of a conductor whose capacity is
-small compared with that of the electrometer.
+This apparatus is enclosed in a case.
 
-To Measure the Potential at any Point in the Air.
+Another little sphere is mounted on an insulating stem. 
+- It can be charged and introduced into the case through a hole, and brought so that its centre coincides with a definite point in the horizontal circle described by the suspended sphere. 
 
-207*.] First Method. Place a sphere, whose radius is small compared with
-the distance of electrified conductors, with its centre at the given point. Con-
-nect it by means of a fine wire with the earth, then insulate it, and carry it to
-an electrometer and ascertain the total charge on the sphere.
+The position of the suspended sphere is ascertained by means of a graduated circle engraved on the cylindrical glass case of the instrument.
 
-Then, if V be the potential at the given point, and a the radius of the sphere,
-the charge of the sphere will be −V a = Q, and if V ′ be the potential of the
-sphere as measured by an electrometer when placed in a room whose walls
-are connected with the earth, then
-Q = V ′ a,
-whence
-V + V ′ = 0,
-or the potential of the air at the point where the centre of the sphere was
-placed is equal but of opposite sign to the potential of the sphere after being
-connected to earth, then insulated, and brought into a room.
-This method has been employed by M. Delmann of Creuznach in measur-
-ing the potential at a certain height above the earth’s surface∗ .
-∗
-[Compare Art. 50.]POTENTIAL OF A CONDUCTOR.
-195
-Second Method. We have supposed the sphere placed at the given point
-and first connected to earth, and then insulated, and carried into a space sur-
-rounded with conducting matter at potential zero.
+With both spheres charged, the suspended sphere in equilibrium in a known position such that the torsion-arm makes an angle θ with the radius through the centre of the fixed sphere. 
 
-Now let us suppose a fine insulated wire carried from the electrode of the
-electrometer to the place where the potential is to be measured. Let the sphere
-be first discharged completely. This may be done by putting it into the inside
-of a vessel of the same metal which nearly surrounds it and making it touch
-the vessel. Now let the sphere thus discharged be carried to the end of the
-wire and made to touch it. Since the sphere is not electrified it will be at the
-potential of the air at the place. If the electrode wire is at the same potential
-it will not be affected by the contact, but if the electrode is at a different
-potential it will by contact with the sphere be made nearer to that of the
-air than it was before. By a succession of such operations, the sphere being
-alternately discharged and made to touch the electrode, the potential of the
-electrode of the electrometer will continually approach that of the air at the
-given point.
+The distance of the centres is then 2a sin 12 θ, where a is the radius of the torsion-arm, and if F is the force between the spheres the moment of this force about the axis of torsion
+is F a cos 12 θ.
 
-208*.] To measure the potential of a conductor without touching it, we
-may measure the potential of the air at any point in the neighbourhood of the
-conductor, and calculate that of the conductor from the result. If there be a
-hollow nearly surrounded by the conductor, then the potential at any point of
-the air in this hollow will be very nearly that of the conductor.
-In this way it has been ascertained by Sir W. Thomson that if two hol-
-low conductors, one of copper and the other of zinc, are in metallic contact,
-then the potential of the air in the hollow surrounded by zinc is positive with
-reference to that of the air in the hollow surrounded by copper.
+Let both spheres be completely discharged, and let the torsion-arm now be in equilibrium at an angle φ with the radius through the fixed sphere.
 
-Third Method. If by any means we can cause a succession of small bodies
-to detach themselves from the end of the electrode, the potential of the elec-
-trode will approximate to that of the surrounding air. This may be done by
-causing shot, filings, sand, or water to drop out of a funnel or pipe connected
-with the electrode. The point at which the potential is measured is that at
-which the stream ceases to be continuous and breaks into separate parts or
-drops.
+Then the angle through which the electrical force twisted the torsion-arm must have been θ − φ, and if M is the moment of the torsional elasticity of the fibre, we shall have the equation
+F a cos 12 θ = M(θ − φ).
 
+Hence, if we can ascertain M, we can determine F, the actual force beween the spheres at the distance 2a sin 12 θ. 
+
+To find M, the moment of torsion, let I be the moment of inertia of the torsion-arm, and T the time of a double vibration of the arm under the action of the torsional elasticity, then
+M=
+4π 2 I
+
+
+In all electrometers it is of the greatest importance to know what force we are measuring. The force acting on the suspended sphere is due partly to the direct action of the fixed sphere, but partly also to the electrification, if any, of the sides of the case.
+
+If the case is made of glass it is impossible to determine the electrification of its surface otherwise than by very difficult measurements at every point. 
+
+If, however, either the case is made of metal, or if a metallic case which almost completely encloses the apparatus is placed as a screen between the spheres and the glass case, the electrification of the inside of the metal screen will depend entirely on that of the spheres, and the electrification of the glass case will have no influence on the spheres. In this way we may avoid any indefiniteness due to the action of the case.
+
+To illustrate this by an example in which we can calculate all the effects, let us suppose that the case is a sphere of radius b, that the centre of motion of the torsion-arm coincides with the centre of the sphere and that its radius is a; that the charges on the two spheres are E1 and E, and that the angle between their positions is θ; that the fixed sphere is at a distance a1 from the centre, and that r is the distance between the two small spheres. 
+
+Neglecting for the present the effect of induction on the distribution of electricity on the small spheres, the force between them will be a repulsion
+
+...
+
+and the moment of this force round a vertical axis through the centre will be EE1 aa1 sin θ
+
+The image of E1 due to the spherical surface of the case is a point in the
+
+same radius at a distance with a charge −E1 , and the moment of the
+
+attraction between E and this image about the axis of suspension is
+
+...
+
+If b, the radius of the spherical case, is large compared with a and a1 , the distances of the spheres from the centre, we may neglect the second and third terms of the factor in the denominator. The whole moment tending to turn the torsion-arm may then be written
+
+...

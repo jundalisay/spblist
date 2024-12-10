@@ -19,6 +19,7 @@ The Relativity of Einstein is totally debunked by the reality of non-magnetic le
 
 - levitating Buddhist monks
 - Egyptian pyramid blocks and other ancient blocks made lighter for easier construction
+- zipping UFOs that produce no sonic boom because they **insert** themselves into the air mass, instead of crashing through
 
 
 This is done through "atom-shaking" which aligns atoms, by changing their state, to allow qosts (virtual spacetime particles called 2nd Element in Cartesian Physics) to pass through.  
@@ -45,7 +46,7 @@ We take a 1 kilogram object and put it on a weighing scale. We then apply a prol
 
 <!-- then use this as the basis for a levitating object propelled by the aether.    -->
 
-{{< i s="/graphics/physics/aethertech.png" a="Crude Aether technology" c="Crude aether technology can be done with home equipment to create action at a distance. As we only use household tools such as a digital kitchen scale, we find inconsistencies in the weight change. But this is still different from having no change in the control (i.e video-record the weight-value for 10 minutes with and without the aether induction)" >}}
+{{< i s="/graphics/physics/aethertech.png" a="Crude Aether technology" c="Crude aether technology can be done with home equipment to create action at a distance. As we only use household tools such as a digital kitchen scale, we find inconsistencies in the weight change. But this is still different from having no change in the control (i.e video-record the weight-value for 10 minutes with and without the aether induction). The nature of spacetime and atom-shaking explains why all UFOs must be symmetrically shaped" >}}
 
 
 Technically, this produced very tiny vertical movement and we are not able to create horizontal movement. But  in theory, horizontal movement is possible by adjusting the soa. This is already proven by levitating monks and would need more conscious aethereal effort to travel horizontally i.e. they usually go vertically unconsciously. 
@@ -62,8 +63,9 @@ In our experiment, we applied soa on a material object in order to reduce the fo
 
 This manifests as a slight movement which is recorded by the weighing scale. 
 
-More technically, the external aether changed the gravitational signature of the object to alter its Cartesian Relation with the Earth. 
+More technically, **the external aether changed the gravitational signature of the object to alter its Cartesian Relation with the Earth**. 
 
+> The external aether changed the gravitational signature of the object to alter its Cartesian Relation with the Earth
 <!-- material gravitational band  -->
 
 This means that, logically, the ability to change and generate movement for solid objects comes from the Material layer through the Convertible Layer. This matches the findings of Isaac Newton.*

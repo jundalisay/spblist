@@ -10,24 +10,34 @@ author: Nagina
 
 It was the winter of 1953-54 and the weather was bitterly chilly. 
 
-Baba was kind enough to allow me to go for a walk with Him and as usual we came back in the field
+Baba allowed me to go for a walk with Him and as usual.
+
+<!--  we came back in the field
 and seated ourselves on the grave. I was sitting by the side of Baba.
 
-Two more sadhaka brothers were there.
+Two more sadhaka brothers were there. -->
 
-Mostly Baba used to sit there for a long time, but that day it so happened that Baba started to walk back by quarter-to-nine. 
+Mostly Baba used to sit on the grave for a long time. But that day, Baba started to walk back by quarter-to-nine. 
 
-He said, "Let us go, Nagina has a cough!” 
+{{< l a="Baba" >}}
+Let us go, Nagina has a cough! 
 
-Baba asked me "Have you brought your muffler?" 
+Nagina, have you brought your muffler? You must use a muffler during winters
+{{< /l >}}
 
-I replied in the negative, and Baba said, "You must use a muffler during winters"
 
 I said, "During winters I generally get a sore throat. It will be alright by itself".
 
-But Baba said, "This is due to liver trouble that you get the cough. Put hot water in a half cup full of orange juice, so that the juice and water become warm. Drink it just before going to sleep. Remember this will be your last drink before sleeping. You will eat or drink nothing thereafter. You will be normal within a few days.” 
+{{< l a="Baba" >}}
+You have a cough due to liver trouble. Put hot water in a half cup full of orange juice, so that the juice and water become warm.
 
-On returning home, I followed Baba's advice, and the cough that used to invade me every winter bade farewell to me forever. I was overwhelmed by this kindness of Baba and considered myself fortunate that I had surrendered my self to Him.
+Drink it just before going to sleep. Remember this will be your last drink before sleeping. You will eat or drink nothing thereafter. You will be normal within a few days.
+{{< /l >}}
+
+
+On returning home, I followed Baba's advice. The cough disappeared forever.
+
+<!-- I was overwhelmed by this kindness of Baba and considered myself fortunate that I had surrendered my self to Him. -->
 
 
 ## BABA TREATS ALL EQUALLY – THE INNER OFFERING
@@ -49,10 +59,9 @@ Baba. He enquired why I wanted to go via the station, as it was a longer route. 
 that I wanted to buy fruits for Baba. My friend asked me to stop the car, and he got out
 of it in hurry.
 
-He said, "If you have to take fruits for Baba, then go alone. But know well, that if
-you are turned out today, never again will you be allowed to enter there."I was perplexed, but anyhow I dropped the idea of purchasing fruit. Then at my
-request, my friend again got in the car, and we went together to Baba's house. He
-remained in the car outside, and I went into Baba's drawing room for His darshan.
+He said, "If you have to take fruits for Baba, then go alone. But know well, that if you are turned out today, never again will you be allowed to enter there."I was perplexed, but anyhow I dropped the idea of purchasing fruit. 
+
+Then at my request, my friend again got in the car, and we went together to Baba's house. He remained in the car outside, and I went into Baba's drawing room for His darshan.
 
 Baba came, and I touched His feet, I immediately felt immensely peaceful and satisfied.
 
@@ -106,56 +115,4 @@ come to his guru".
 These teachings of Baba inspired me to come still closer to Him. As a consequence whenever I go to Baba I always do so like a child. Baba's teachings had a profound impact on my heart and I adopted His teachings and again bowed at His Lotus Feet very humbly requesting Him to give me so much of self-confidence that I might follow the path shown by Him without ever getting tired. So far He has supported me at every step. 
 
 I pray that it may continue like this forever.
-
-
-### THE DEFEAT OF AN ENEMY AND BABA’S LESSON ON THE ENEMY WITHIN
-
-My confrontations with Ajit Singh in the department continued to increase
-instead of abating. Since I had refused to pay the monthly sums he extorted from his
-subordinates, I had become a special target of his animosity. However I always kept
-Baba in my heart and returned the compliment of his dislike in like manner.
-
-In the meanwhile in January 1954, the government demoted him due to some
-of his past misdeeds. He had not, it seems, got away with his illicit practices after all. It
-was known that he had availed himself of the opportunities afforded a government
-inspector and profited greatly on bribes from business. 
-
-Charges of corruption had followed him to Bhagalpur from his previous posting. The outcome of the investigation
-was his removal from Bhagalpur to an inferior position at Palanpur in the Punjab. I had
-nothing to do with all of that, but he believed otherwise, as I found out much later.
-
-Because he held me partly responsible for his setback, he took a leave of absence before reporting to Palanpur and went to Delhi in order to apply all his effort and influence to secure my own demotion. However, I knew nothing of all this, at the time that I learned about his downfall. All I knew then was that his conduct had finally
-caught up with him.
-
-Although, he tried to keep this news secret from me, still somehow I came to
-know of it. I felt happy at his downfall and threw a party for some of my friends to
-celebrate. I thoroughly enjoyed the news of his misfortune and laughed heartily about
-it.
-About this time, Chandranathji was going home on leave and as Jamalpur was
-on the way, he detrained there for a day or two for Baba's darshan. Baba said to him,
-"These days Nagina is suffering from mean mentality. Tell him not to give quarter to
-such feelings in his mind."
-As Chandranathji was not returning to Bhagalpur, he communicated Baba's
-instructions to me through a letter. I sought over and over in my mind as to when I had
-harboured such feelings, but could not locate the answer within. I therefore, took some
-time off and went to Baba.When I mentioned Chandranathji's letter to Baba, He said, "Yes! Chandranath is right. 
-
-It is your duty to fight your enemy for self-protection, but to celebrate his defeat
-is the sign of mean mentality."
-
-I said, “Baba, is it not but natural to feel happy at the defeat of an adversary, so
-how is it mean?”
-
-Baba replied, ”Enmity is not with a person. Enmity is with the person’s conduct.
-Therefore to feel happy at the defeat of a person is mean."
-
-Baba's teachings made a great impression on my mind and I found in them the
-heighest of ideals and generosity of spirit. Now my contaminated and mean mind
-began to repent and feel remorse. I saw that I had behaved very badly and
-unbecomingly with respect to Ajit Singh and his demotion and had also earned a
-rebuke from Baba. But I felt a little relieved thinking of Baba’s teachings. I prostrated
-myself at Baba's feet and returned to Bhagalpur.
-
-It took sometime to wipe out this burden of guilt from my mind. But by Baba's
-infinite grace I was able to get free from this mental agony ultimately.
 

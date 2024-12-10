@@ -177,6 +177,7 @@ Quantum of Aether | Qoa | Substance of idea, feeling, or the abstract mind or so
 Quantum of Space-time | Qost | Invisible spacetime particles in the Spatial Layer
 Quantum Substance | A Cartesian Substance subject to measurement
 Spin | Orientation of that particle relative to the virtual photon 
+Spin Number | Ratio of Virtual Photons needed to rotate the particle. 1/2 spin means 2 virtual photons are needed for each rotation
 
 
 <!-- Spinoza | | the Aether, as to separate it from the Physics concept of the aether or the Higgs field -->

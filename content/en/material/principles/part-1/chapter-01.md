@@ -13,14 +13,13 @@ toc: false
 ---
 
 
-
 The aethereal layer is the first and highest layer in our 5 layers model and will be known as the Fifth Force in Modern Physics.
 
 
 Attribute | Quality
 --- | ---
 Name | **Aether**
-Physics Name | Pseudoscience
+Physics Name | Pseudoscience, Quantum Fields (virtual)
 Traditional Name | Aether, Akasha, 水
 Descartes' Name | Pure Aether or Substance
 Domain | Quasi-Physical
@@ -31,17 +30,6 @@ Quanta | Monads (qoa)
 Aether Content | 5
 Movement | Purely Kinetic
 Quality | Most Subtle, Highest Control
-
-
-<!-- ### The Supreme's Perspective Versus Creation's Perspective
-
-From the perspective of the Supreme Entity, the media are the substances. But from the perspective of the self or creation, the substances are the media. 
-
-Sublayer | Medium to the Supreme | Substance to the Supreme | Medium to the Human | Substance to the Human 
---- | --- | --- | --- | ---
-Upper | unit mind | unconscious | unconscious  | mind
-Middle | feeling | subconscious | subconscious | feeling 
-Lower | idea | conscious | conscious | idea -->
 
 
 ### Definition of the Aethereal Layer
@@ -74,5 +62,14 @@ This layer dominates and rules the other four layers, just like spacetime domina
 In terms of creation, this layer is the first layer that precedes physical manifestation. Since it is above spacetime, it is beyond Einstein's rule that nothing can travel faster than light. Thus, time travel and teleportation to other multiverses is facilitated by this layer.
 
 We write aether with an "a" to differentiate it from the *ether* of science. This is similar to writing dialectics as "Socratic Dialectics" to set it apart from the corrupted dialetics of Marx. 
+
+
+### Matter and Force are One as Idea
+
+In the 3 lowest layers of Material, Conversion, and Radiance, force particles are seperate from matter particles. 
+
+But in the 2 highest layers, the Spatial and Athereal, the force and matter are interchangeable. In the highest layer, they are one and the same. 
+
+
 
 <!-- Einstein claims that the Michelson and Morley experiment disproved the ether. In reality, it merely proved that the aether does not reside in the spacetime layer, but in its own layer as the aethereal layer. -->

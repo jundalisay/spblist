@@ -1,10 +1,9 @@
 ---
 heading: "Chapter 4c"
-title: "The Photo-Electric Effect and Double Slit Experiment"
-# date: 2023-11-10
-weight: 20
-image: /graphics/physics/lightprops.jpg
-description: "Descartes explained the properties of light that matches the Photo-Electric Effect and Double Slit Experiment"
+title: "Electromagnetic Fields and Circuits"
+weight: 18
+image: /covers/maxwell.jpg
+description: "Electricity is the main substance of radiance"
 icon: /icons/spmat.png
 writer:
   name: Juan
@@ -12,86 +11,33 @@ writer:
 ---
 
 
-<!-- Electric Potential -->
 
+In "The Big Misconception About Electricity", Veritasium showed that a light bulb's energy does not come from electricity, but the field around it.
 
-In 1637, Rene Descartes published *La Dioptrique* which explained the 3 properties of light as:
-- a carrier
-- fluid-wave
-- a ball
+The big misconception is that energy is transferred from the battery to the bulb through electricity
 
-{{< img src="/graphics/physics/lightprops.jpg" alt="Properties of Light" >}}
+It clarified that the energy flows out of a battery into a field through a Poynting vector. It then goes into the bulb
 
-- As a carrier, it transmits information such as colors, and energy such as heat. 
-- As a fluid-wave, it spreads in all directions.
-- As a ball, it bounces and bends its path when hitting material objects. 
+This is consistent with Cartesian Physics that says all energies are sourced externally
 
-<!-- 
-Cartesian Physics therefore accounts for all the known properties of light either by Newtonian or Quantum Physics. 
+Electrical energy is from "striated" particles which are now called virtual photons. These resemble drill bits or screws
 
-It is based on the aether as its unifying element, something that was supported by Lorentz, Kelvin, and Tesla, but was rejected by Eisntein. 
+The battery supplies electrons by compressing them into a convoy. This forms the instant channel needed by those virtual photons to drill through and transfer their rotation-energy to make the electrons spin, entering them in the opposite direction of their flow. This matches the Poynting vector.
 
-This rejection by Einstein is exactly why Relativity and Quantum Physics cannot be unified.   -->
+The electrons therefore act as carriers for the energy, like empty an freight train going 1-way (an AC generator moves a larger 2-way train). 
 
+They then reach the bulb where they release their spin-energy to create light. 
 
-In normal movement, light is a wave. But it becomes a particle whenever it hits something. 
+On the return trip, they are no longer compressed and so lose the required channels.
 
-This is now seen in the double-slit experiment where the insertion of a filter converts electrons from waves into particles. The continued sending of particles then forms a wave pattern.  
+The main difference with Poynting is that, in Cartesian Physics, the energy does not go from the battery to the field and back to the bulb
 
-This destroys the idea that the act of observation collapses wave function.
+Instead, all the energy is already in the field. The battery merely supplies the way to harvest that energy.
 
-Descartes' analogy for light being a particle was a tennis ball hitting the water. 
+Nikola Tesla knew that space had infinite energy and is why he tried to develop free energy generation and wireless power transmission
 
-{{< img src="/graphics/physics/tennis2.jpg" alt="Tennis photons" >}}
+But he didn't know Cartesian Physics and how to harvest those energies
 
-A tennis ball hitting the water can have 3 outcomes depending on the energy of the ball. 
+Even gravity comes from space that is carried by matter so seamlessly that it appears that gravity comes from matter. This totally fools the Newtonians who keep on smashing atoms to see where the graviton or dark matter is
 
-1. It can be deflected if it has high energy (line ABL)
-2. It can go straight if it has medium energy (line ABD)
-3. Iit can sink down if it has less energy (line ABG)
-
-This is now seen in the Photoelectric Effect credited to Einstein. 
-
-Einstein used the Photoelectric Effect to create the concept of quanta, which were the light balls to Descartes. Einstein then imbued the property of time on those quanta in order to create the theory of Relativity wherein light is used as a measuring rod. 
-
-To Descartes, this measuring rod property of light is a consequence of it being a carrier. In this case, light becomes a carrier of spacetime information. 
-
-The main difference between Descartes and Einstein is that Descartes' spacetime has far more properties than what can be relayed or carried by light. 
-- One of these is material gravity (now called Newtonian gravity) and electromagnetic gravity (now called dark matter). 
-- Another is constant expansion, now seen as dark energy. 
-- Still another is the liquid properties of spacetime, now seen in gravitational waves. 
-
-So Cartesian Physics unites the Double-Slit Experiment with the Photoelectric Effect and Relativity while giving insights on spacetime through Galaxy Rotation and the Hubble expansion. All of these are done with a single principle that Electromagnetism has 3 inherent properties written in 1637. 
-
-
-<!-- So putting a filter in the double slit turns it to a particle. 
-
-This also happens in the photo-electric effect which mixes up the particle property of light with its carrier property. 
-
-However, unlike Einstein who used the photo-electric effect to sophistically give the property of time to light (i.e. light carries time), Nikola Tesla focused on its ability to carry energy. 
-
-Einstein then used this light-carries-time sophistry for Relativity. This is why anti-gravity technology is out of reach.  -->
-
-
-## Replacing Einstein
-
-We want to discover Nature for how It really is, and not how some limited human minds see it. This is to fully use all of Nature's features just as you want to use all the awesome features of your iPhone.
-
-This is why we replace all of Einstein's theories with Cartesian ones:
-
-Einstein | Non-Einstein Equivalent | Difference
---- | --- | --- 
-General Relativity | Law of Relativity by Poincare' | The bending is done by spacetime particles, not mass
-Special Relativity | Lorentz Invariance | The relativistic effects is from the difference between radiant and spatial layers
-Mass-energy equivalence | Electromagnetic potential and Radiance | All material objects have Radiance in them
-Photo-electric effect | Descarte's Dioptrique | Light is a ball when it has enough energy
-Einstein-Bose condensate | Dioptrical Bose Condensate | The removal of energy converts the electromagnetism in gas from a ball into a wave. This is simply the reverse of the Photo-electric effect.
-Brownian Motion | Replaced with Kelvin's Motion | High energy causes the electromagnetism in matter to make the matter spread faster and gain gas properties. 
-
-<!-- Tesla's Cosmic Rays -->
-
-These replacement theories remove the sophistry and blockages that Einstein put Physics in, so that the freed Physics will be in line with Nature, much easier to understand, teach, and develop technologies from (such as anti-gravity). 
-
-
-
-
+Cartesian Physics can unlock energy and gravity technologies and stop the waste of money spent to smash atoms for no purpose

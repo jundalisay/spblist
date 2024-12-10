@@ -1,32 +1,37 @@
 ---
 title: "Jamalpur"
 heading: Chapter 3
-weight: 6
+weight: 7
 description: "Jamalpur and my Baba stories of Jamalpur are now memories"
 image: "/covers/katha.png"
 author: Nagina
 ---
 
 
-Jamalpur! Let me but hear the name – indeed, let me but think it – and my mind is awash with images. Baba is gone from Jamalpur, but the disciples of His days there will never forget. Jamalpur itself will never forget.
+<!-- Jamalpur! Let me but hear the name – indeed, let me but think it – and my mind is awash with images. Baba is gone from Jamalpur, but the disciples of His days there will never forget. Jamalpur itself will never forget.
 
-Jamalpur and my Baba stories of Jamalpur are now memories. 
+Jamalpur and my Baba stories of Jamalpur are now memories.  -->
 
-When people ask me about Jamalpur, before I can say anything, I am lost in the world of memory. All
-the events of that period flash on my mental plate like a series of pictures and I am at a
-loss where to begin.
+When people ask me about Jamalpur, I get lost in the world of memory. 
 
-I picture those narrow streets of the town through which Baba used to go to his office everyday; those evening walks in the vast green field surrounded by beautiful hills and His enjoyment of the pure, scented air there. 
+<!-- All the events of that period flash on my mental plate like a series of pictures and I am at a
+loss where to begin. -->
 
-I picture Baba sitting on the tiger’s grave in the midst of the field and teaching His dear disciples there; 
+I picture those narrow streets of the town through which Baba used to go to his office everyday, those evening walks in the vast green field surrounded by beautiful hills and His enjoyment of the pure, scented air there. 
+
+I picture Baba sitting on the tiger’s grave in the midst of the field and teaching His dear disciples there.
 
 His walking the pathways lined with the waiting lines of devotees, sadhakas and spiritual adepts. 
 
 Baba calling some of them lovingly, throwing graceful looks at some and overwhelming others with his loving eyes and glances – these things are like a dream today, but then it was our everyday routine.
 
-Everyday, but never taken for granted. Even then I glimpsed from time to time the desolation that would follow when that phase of our lives was no more. When things changed, as they would, as they must - when Baba moved on to the next phase of His mission, when the organization outgrew the intense, intimate structure it had in its beginnings – then some of us were left with a permanent insatiable hunger for those past days of Jamlapur. 
+Everyday, but never taken for granted. Even then I glimpsed from time to time the desolation that would follow when that phase of our lives was no more. 
 
-Beyond the town, I see the vast green field spread out before me, bounded on two sides by beautiful hills. There in my imagination I find Baba on His evening walk accompanied by a small group of His disciples. Now I envision the tiger’s grave, a stone platform at one end of the field some distance from a trio of lofty palms. 
+When things changed, as they would, as they must - when Baba moved on to the next phase of His mission, when the organization outgrew the intense, intimate structure it had in its beginnings – then some of us were left with a permanent insatiable hunger for those past days of Jamlapur. 
+
+Beyond the town, I see the vast green field spread out before me, bounded on two sides by beautiful hills. There in my imagination I find Baba on His evening walk accompanied by a small group of His disciples. 
+
+Now I envision the tiger’s grave, a stone platform at one end of the field some distance from a trio of lofty palms. 
 
 There sits Baba, clothed in white, teaching the disciples who sit at His feet while the cool and fragrant breeze ministers to His presence.
 

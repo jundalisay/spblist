@@ -2,8 +2,8 @@
 title: "Natural Remedies and Diet for Hepatitis (Jaundice)"
 weight: 32
 author: "PR Sarkar"
-description: ""
-image: "/photos/med/heartattack.jpg"
+description: "Dhyána attracts many positive microvita. Negative microvita can only be controlled by positive microvita"
+image: "/photos/med/hepa.jpg"
 icon: "/icons/sarkar.png"
 ---
 

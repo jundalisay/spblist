@@ -8,65 +8,80 @@ author: Nagina
 ---
 
 
-That day Baba was extremely kind and he was pointing out some such things
+<!-- That day Baba was extremely kind and he was pointing out some such things
 about sadhana which are not only very useful to me but for all sadhakas, so I have
 taken the freedom to write them down here. They appear very simple but are full of
-great significance and value.
+great significance and value. -->
 
-Baba said, “Sadhakas should convert their house and body into a temple. The
-house will become a temple only when there are constant vibrations of sadhana in its
-environment. Such an environment is only possible when all the residents of that house
-perform sadhana everyday with sincerity and devotion. This is how a house can be
-made into a temple. As regards the body, by following the eightfold path of sadhana
-with devotion and faith and with regularity, this body is also converted into a temple.”
-Baba further pointed out, “Every sadhaka should select a secluded spot in the
-house where they may perform sadhana morning and evening. In the same way one
-asan (mat) for one’s sadhana should also be fixed, which should not be used for other
-purposes and people. Then one should also fix the time when one should sit down for
-sadhana regularly. By following these instructions sadhana will always be of good
-quality. As for the asan, either tiger skin or deerskin or a blanket, a mat, or a cotton
-carpet will do. But one must always ensure that the asan should be a non-conductor of
-heat otherwise the energy gained by sadhana will not be preserved as the earth is a
-bad conductor of heat”.
+Baba said:
 
-Baba simplified the matter further by explaining, 
+{{< l a="Baba" >}}
+Sadhakas should convert their house and body into a temple. The house will become a temple only when there are constant vibrations of sadhana in its environment. 
 
-“Due to fixing the time, place and asana, the mind being familiar with that environment will be able to concentrate easily. 
+Such an environment is only possible when all the residents of that house perform sadhana everyday with sincerity and devotion. This is how a house can be made into a temple. 
+
+As regards the body, by following the eightfold path of sadhana with devotion and faith and with regularity, this body is also converted into a temple.”
+{{< /l >}}
+
+{{< l a="Baba" >}}
+Every sadhaka should select a secluded spot in the house where they may perform sadhana morning and evening. 
+
+In the same way one asan (mat) for one’s sadhana should also be fixed, which should not be used for other purposes and people.
+
+Then one should also fix the time when one should sit down for sadhana regularly. By following these instructions sadhana will always be of good quality.
+
+As for the asan, either tiger skin or deerskin or a blanket, a mat, or a cotton carpet will do. It should be a non-conductor of heat otherwise the energy gained by sadhana will not be preserved as the earth is a bad conductor of heat
+{{< /l >}}
+
+
+{{< l a="Baba" >}}
+Due to fixing the time, place and asana, the mind being familiar with that environment will be able to concentrate easily. 
 
 Just as if your sleeping place and time are fixed you fall asleep as soon as you lie there.
 
 But if the place is changed or the bedding is not yours or has been changed and the time is also not of your choice it will take time to fall asleep. 
 
-The same is applicable to sadhana also”.
+The same is applicable to sadhana also
+{{< /l >}}
 
-“Sadhana should always be done in a peaceful and pleasant mood. One should not do it when one is angry or dejected. In such a situation, all efforts to concentrate the mind will be wasted”.
 
+{{< l a="Baba" >}}
+Sadhana should always be done in a peaceful and pleasant mood. One should not do it when one is angry or dejected. In such a situation, all efforts to concentrate the mind will be wasted”.
 
 “You should sit in the lotus posture at the time of sadhana. The lotus posture keeps one in a pleasant temper. You will find that one who is accustomed to do the lotus posture will always be of an amicable temper. 
 
 Do not touch anything like water up to half an hour after sadhana – this will enable the energy created by sadhana not to pass away in that medium. 
 
 If due to some reason the mind does not concentrate on some days, then given more time to the shuddhis, (withdrawal processes), this will improve concentration”
+{{< /l >}}
 
 
 
 ## THE PROOF OF DIIKS’A AND MANTRA
 
-That day Baba was bent upon explaining to me of dull intellect the specialties of sadhana. Baba knew that my mind was fond of logic and therefore, he was explaining the logic behind most of the process of sadhana. 
+<!-- That day Baba was bent upon explaining to me of dull intellect the specialties of sadhana. Baba knew that my mind was fond of logic and therefore, he was explaining the logic behind most of the process of sadhana. 
 
-In this context, Baba explained how you can know that the mantra given to you is correct and proper. I pleaded ignorance and said that I only know how to repeat it in the given manner.
+In this context, Baba explained how you can know that the mantra given to you is correct and proper. I pleaded ignorance and said that I only know how to repeat it in the given manner. -->
 
 Baba said:
 
-"No you should know that you have the right mantra or not. Know the criteria for this. If there is growth in the situation and circumstances under which you took initiation then understand that the mantra is correct. Suppose you took initiation in happy circumstances then the happiness should grow. If you received initiation when the circumstances were painful then their intensity should grow this is the test of a correct mantra.
+{{< l a="Baba" >}}
+You should know whether you have the right mantra or not. Know the criteria for this. If there is growth in the situation and circumstances under which you took initiation then understand that the mantra is correct. 
+
+Suppose you took initiation in happy circumstances then the happiness should grow. If you received initiation when the circumstances were painful then their intensity should grow this is the test of a correct mantra.
 
 The iista mantra acts like fire for the accumulated heap of your samskaras, which can be compared to gunpowder. 
+{{< /l >}}
 
+
+{{< l a="Baba" >}}
 Therefore, the situation which was there at the time of initiation will be aggravated. 
 
 In the extreme situation of either happiness or pain there is a possibility of deviation from the path of sadhana. 
 
-Therefore, in these situation if one keeps contact with the guru, then one gets extra mental strength to bear the development”.
+Therefore, in these situation if one keeps contact with the guru, then one gets extra mental strength to bear the development
+{{< /l >}}
+
 
 In this regard I have a special experience that guru darshan also aggravates the samskaras, particularly the painful ones. 
 
@@ -78,12 +93,9 @@ The impending adversities can begin to disturb their mental equilibrium. But thi
 
 If they courageously and patiently continue to take the support of the guru and remain steadfast in their devotion and guru darshan, then certainly guru will give them the extra mental strength to bear the coming adversity.
 
-Contact with the guru is beneficial in all circumstances. My own experience
-points out that it is all the more so while one is in adversity.
+Contact with the guru is beneficial in all circumstances. My own experience points out that it is all the more so while one is in adversity.
 
-As I had little of worldly
-pleasure I therefore unfortunately do not know the beneficial effects of guru’s contact
-during happy times.
+As I had little of worldly pleasure I therefore unfortunately do not know the beneficial effects of guru’s contact during happy times.
 
 
 

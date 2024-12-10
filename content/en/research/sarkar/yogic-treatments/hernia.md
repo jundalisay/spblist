@@ -3,7 +3,7 @@ title: "Healing Diet for Hernia"
 weight: 34
 author: "PR Sarkar"
 description: "Femoral hernia happens if the intenstine pushes out through the hole in the canal of nerve fibres and the muscular network controlling the legs"
-image: "/graphics/med/hernia.jpg"
+image: "/photos/med/hernia.jpg"
 icon: "/icons/sarkar.png"
 ---
 

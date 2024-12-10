@@ -17,18 +17,24 @@ icon: "/icons/descartes.png"
 {{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 152. Why one magnet turns and inclines towards another, in the same way as towards the Earth.
- 
-When these virtual photons flow through individual magnets in exactly the same way as through the Earth, two spherical magnets must turn towards one another in no other way than towards the entire Earth. 
+#### 152. Why one magnet is attrcted by another.
 
-This is because these virtual photons are always gathered in much greater quantity around each magnet than in the remote air. This is because they have passages in the magnet through which they flow much more easily than through the surrounding air.
+ <!-- turns and inclines towards another, in the same way as towards the Earth. -->
+ 
+<!-- When these virtual photons flow through individual magnets in exactly the same way as through the Earth, two spherical magnets must turn towards one another in no other way than towards the entire Earth.  -->
+
+
+Virtual photons are always gathered in much greater quantity around each magnet than in the remote air.
+- This is because the magnet has passages that they can flow through much more easily than through the surrounding air.
 
 This retains them near the magnet.
 
 Their quantity is greater in the whole air and other bodies surrounding the Earth than in nearby outer space because of the passages they have in the Earth's interior. 
  <!-- the sky.  -->
 
-As far as the magnetic force is concerned, exactly the same things must be thought of one magnet in relation to another magnet, as of the Earth, which itself can be called the greatest magnet.
+<!-- As far as the magnetic force is concerned, exactly the same things must be thought of one magnet in relation to another magnet, as of  -->
+
+The Earth itself can be called the greatest magnet.
 
 
 

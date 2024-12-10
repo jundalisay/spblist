@@ -3,7 +3,7 @@ title: "The Spatial Layer of Material Superphysics"
 heading: Chapter 1
 # date: 2020-01-31
 linkTitle: "Spatial Layer"
-image: "/photos/physics/quasar.jpg"
+image: "/graphics/physics/spacetime.jpg"
 description: "The spatial layer is the spacetime in Physics"
 weight: 2
 writer:
@@ -41,22 +41,14 @@ Quality | Subtle, Controls physical reality as the speed of light
 
 
 
-### Definition of The Spatial Layer
+### Definition and Properties of The Spatial Layer
 
 The Spatial Layer is where perceptions, such as physical reality, take place. 
 
 Unlike the aethereal layer which is only quasi-physical, spacetime is both quasi-physical (via timespace) and physical (via spacetime). 
 
 Each particle in the Spatial Layer is made up of 4 aether particles. 
-
-
-<!-- Spatial Layer | Name | Physics Counterpart
---- | --- | ---
-Traditional Name | Air | Spacetime
-Substance | Sost | Black Holes 
-Medium | Most | Span (Distance, Timespan, Speed) 
-Quanta | Qost / Qots | Graviton -->
-
+- Force and matter particles are interchangeable 
 
 It is purely kinetic energy and has no static forms*. Rather, the relatively static forms of spacetime manifest as the lower layers.
 - Parts that have low kinetic energy manifest as empty space or a vacuum. 
@@ -65,7 +57,7 @@ It is purely kinetic energy and has no static forms*. Rather, the relatively sta
 
 
 
-The spatial layer leads to spacetime and sets the speed of light, since it is superior to the the 3 lower Layers of:
+The spatial layer leads to spacetime and sets the speed of light, since it is superior to the 3 lower Layers of:
 - Electromagnetism
 - Weak Force
 - Strong Force
@@ -74,6 +66,7 @@ The spatial layer leads to spacetime and sets the speed of light, since it is su
 
 
 This layer gives the properties of size, space, timespan, and age of the universe and everything in it. 
+
 
 ## How It Works
 
@@ -85,23 +78,8 @@ In Bio Superphysics, the Spatial Layer becomes the **Spatial Stratum** and the s
 
 Within one universe, the creation of these vortices leads to the mutual repulsion between them, leading to the perception of space and time.
 
-<!-- In terms of creation, this is the second layer that processes ideas from the aethereal layer into possible energies and matter. -->
-
-
-<!-- the mind or soul. We can say that the universe is one huge mind, which the Hindus call Brahma. In our matrix analogy, this mind can be seen as the RAM of a computer that generates its own virtual reality.
-
-In Physics, this layer manifests as the Higgs Field. 
-
-Descartes classifies this aether into two:
-- The high energy aethereal fire: This matches the High energy Higgs Field, and roughly the Yin of Taoism 
-- The low energy aethereal air: This matches the Low energy Higgs Field, and the Yang -->
-
-<!-- A unit example is a human mind.  -->
-
 
 ## Space and Time as Spacetime
-
-<!-- ## The Errors of Einstein Spacetime -->
 
 The current concept of spacetime in Physics came from Einstein who believed that it is a fabric that warps wherever there is gravity, with:
 
@@ -161,7 +139,6 @@ Each spacetime is a static reality-perception which is glued together with other
 In Superphysics, a rock moves from location `A` to location `B` by moving through different spacetimes where it gradually shifts its location from `A` in the first spacetime to `B` in the last spacetime.
 
 It moves not because of its mass, dimensions, or force, but because of its gravitational signature which is visualized by **timespace**. 
-
 
 <!-- The rock's length, width, and height and time to roll, all come from our aethereal mind's decision to perceive the rock' spacetime aspects. In other words, the spacetime of the rock existed because our aethereal mind wanted to experience it. -->
 

@@ -16,10 +16,10 @@ Real artists or litterateurs should understand clearly:
 
 The artists may have to resist the surging current of destruction alone.
 
-Yadi tor dák shune keu ná áse
-Tave eklá cala re…
-[If none to my call pays heed,
-Then alone must I proceed.]
+
+Yadi tor dák shune keu ná áse Tave eklá cala re…
+
+[If none to my call pays heed, Then alone must I proceed.]
 
 While keeping this very refrain in mind, they must continue in their relentless effort to fight against the seemingly indomitable might of hundreds and thousands of obstacles which are deeply rooted in age-old superstitions that are firmly entrenched in petty selfishness.
 
@@ -27,15 +27,26 @@ Their pens may perhaps break into pieces, their brushes may perhaps be compelled
 
 Each of their petty defeats shall be strung together as pearls in the garland of victory.
 
-When the society spins for age after age in the mirey eddies of evil and vice, when individual and collective knavery masquerades as intelligence, when hypocrisy, bribery and fraud are the yardsticks of ability for leadership – it is then that the genuine followers of Bháratii (the goddess of learning) must struggle through constant humiliation. Only taunts and insults will be their fate. 
 
-Those who are afraid of these insults are incapable of offering anything really lasting to humanity. How can those persons who have no moral firmness, under whose feet the soil is not hard and strong, impart happiness to anyone with a cool, refreshing shelter? It is perhaps possible to drag on in life by sucking the blood of others like social parasites, but this will not bring fulfilment to either the litterateurs or to their readers.
 
-The artist or litterateur who assumes the responsibility of leading humanity to the path of light from the caverns of darkness will have to heed the road signs of that path. 
+The genuine followers of Bháratii (the goddess of learning) must struggle through constant humiliation whenever:
+- society spins age after age in the mirey eddies of evil and vice
+- individual and collective knavery masquerades as intelligence
+- hypocrisy, bribery and fraud are the yardsticks of leadership ability
+
+Only taunts and insults will be their fate. 
+
+Those who are afraid of these insults are incapable of offering anything really lasting to humanity.
+
+How can those persons who have no moral firmness, under whose feet the soil is not hard and strong, impart happiness to anyone with a cool, refreshing shelter?
+
+It is possible to drag on in life by sucking the blood of others like social parasites. But this will not bring fulfilment to either the litterateurs or to their readers.
+
+The artist or litterateur who assumes the responsibility of leading humanity to the path of light will have to heed the road signs of that path. 
 
 It is not possible to guide others merely with cheap, superficial knowledge like those with a doctorate degree from plagiarising others’ works. 
 
-Rather it is necessary to have a keen and vigorous insight, without which all the endeavours of a litterateur or an artist will prove fruitless. 
+It is necessary to have a keen and vigorous insight, without which all the endeavours of a litterateur or an artist will prove fruitless. 
 
 Mere jugglery of words or depiction of defects in society will not satisfy the hunger of the human mind – and such creations of art are indeed valueless for social progress as well. 
 

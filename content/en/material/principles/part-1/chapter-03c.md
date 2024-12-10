@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1b"
+heading: "Chapter 3c"
 title: "Waves as Identities and Shapes"
 # date: 2020-01-01
 image: "/graphics/physics/media.jpg"
@@ -7,7 +7,7 @@ description: "We use shapes to easily explain the dynamics of waves"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 3
+weight: 14
 icon: /icons/spmat.png
 ---
 
@@ -95,3 +95,4 @@ These shapes are helpful in understanding why the fundamental forces act in the 
 For example, the 2D nature of photons allow them to go through the 2D spacetime unhindered. They are only hindered by the aetherspace which is 3D and limits them to 300,000 kilometers per second. 
 
 This will be fully explained in Chapter 5. 
+

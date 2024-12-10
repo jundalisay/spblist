@@ -13,11 +13,11 @@ icon: /icons/spmat.png
 The Medium of Radiance facilitates the dynamics of the radiant layer. It manifests as:
 
 
-Name | Medium Name | Force | Requirements | Examples
+Physics Name | Superphysics Name | Force | Requirements | Examples
 --- | --- | --- | --- | ---  
-Photon | mor1 | Light | Continuous channels | Glass, Still Water
+Photon | mor1 | Light | 2D wide continuous channels | Glass, Still Water
 Heat | mor2 | Heat | Large channels for agitation | Hot plasma, Cold Ice
-Virtual Photons | mor3 | Magnetism | Straight channels | Magnets, Superconductors
+Virtual Photons | mor3 | Magnetism | Tiny straight channels | Magnets, Superconductors
 
 
 

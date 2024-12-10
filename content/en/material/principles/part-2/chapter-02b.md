@@ -20,13 +20,17 @@ We define:
 
 ### Physical Space and Metaphysical Space
 
-Superphysics divides reality into the Physical and Metaphysical Domains, as the Cartesian View. This is different from Physics which only allows the Physical Domain. 
+Superphysics divides reality into the Physical and Metaphysical Domains, as the Cartesian View or Cartesian Dualism. This is different from Physics which only allows the Physical Domain. 
 
-Accordingly:
-- the space in the Physical Domain is called Physical Space. This is detected by the physical eyes and touch. This is in the Middle and Lower Spatial Layer.
-- the space in the Metaphysical Domain is Metaphysical Space. This is detected by thought and intuition (a 6th sense feeling). This is in the Upper Spatial Layer.
+- The space in the Physical Domain is called Physical Space.
 
-The division between physical and metaphysical space and time is therefore between the Upper and Middle Spatial Layer. We call this the **Spatial Internal Boundary** or SIB.   
+This is detected by the physical eyes and touch. This is in the Lower Spatial Layer, as *space-time*.
+
+- The space in the Metaphysical Domain is Metaphysical Space.
+
+This is detected by thought and intuition (a 6th sense feeling). This is in the Middle Spatial Layer as the *aetherspace*.
+
+The division between physical and metaphysical space (and time) is demarcated by the **Spatial Internal Boundary** or SIB.
 
 {{< img src="/graphics/physics/msq.jpg" alt="The 5 Layers" cap="The SIB is the green horizontal line" >}}
 
@@ -64,3 +68,7 @@ The problem is that perceptions are arbitrary based on one's gravitational signa
 This is why space in Superphysics is plotted sequentially, similar to a printer which prints an image line by line.
 
 All these slices or pages then only follow Euclidean geometry. These are glued together by the abstract mind to create 3D worlds through aethereal links between perceptions.  
+
+
+{{< img src="/graphics/physics/traf.png" cap="To get the position of the cloud over Trafalgar square, Einstein's system uses vectors and tensors. In Superphysics, the same result is obtained by knowing the nature of both the cloud and that of Trafalgar square. In this way, the Pythagorean theorem is not applied to spacetime, but to the differences between the changing natures of the cloud relative to Trafalgar square." alt="Trafalgar Square" >}}
+

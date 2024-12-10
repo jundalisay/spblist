@@ -1,210 +1,214 @@
 ---
-heading: "Chapter 2"
-title: "The Five Layers of Superphysics"
-# date: 2020-01-01
-image: "/graphics/physics/layers.png"
-description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
+heading: "Chapter 2b"
+title: "The Sublayers and the Internal Boundary"
+# Theoretical Organization of the 5 Layers
+# date: 2023-11-02
+image: /graphics/super/layers.jpg
+description: "The Sublayers are due to the 3 influences"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 4
-icon: /icons/sp.png
+weight: 5
+icon: /icons/spmat.png
 ---
 
 
-{{< dc t="Principles (click to expand)">}}
+{{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
-There are 5 Layers in Reality | Each Layer has a sound
+There are 5 Layers in Reality | Each Layer has 3 Sublayers Representing 3 Influences 
 {{< /dc >}}
 
 
-{{< youtube QzftMDjhV6M >}}
+Chapter 1 explained that the universe is made up of waves categorized into 5 layers. 
 
+Each wave moves up and down, as a result of the belligerence of the Positive and Negative Forces, from its zero level.
 
+We call this zero or average level as the **central signature or dharma** for that wave.
 
-The universe is a reality that is made up of waves that can be neatly integrated and categorized into 5 Layers.
+This means that a wave has 3 kinds depending on its relation to that central signature. It can be:
+- above that level -- we call this the subtlifying influence (sattvaguna)
+- within that level -- we call this the transformative influence (rajoguna)
+- below that level -- we call this the crudifying influence (tamoguna)
 
-An analogy is a Photoshop image which is made up layers that are on top of each other. 
+{{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
 
-{{< img src="/graphics/super/layers.jpg" alt="Layers in an image" cap="Reality is made up of 5 Layers which the ancients called the 5 Elements" >}}
+These [3 influences](/superphysics/principles/chapter-06b/) produce the 3 sublayers:
+- upper
+- middle
+- lower
 
-These layers were known to the ancient Greeks, Hindus, and Chinese as the *5 Elements*. Currently, Modern Physics only knows 3 of the 5 as:
 
-1. Strong Force
-2. Weak Force 
-3. Electromagnetism 
+For example, the Material layer will have 3 sublayers with each with its own force or media, and quantum:
 
-The 4th force as gravity is not yet fully understood by Modern Physics. To understand why, we have to look into the nature of Western thinking.
+Layer | Sublayer | Medium | Quantum
+--- | --- | --- | ---
+Aethereal | Upper | 1st generation quarks | qom1 (Up-Down Quarks)
+. | Middle | 2nd generation quarks |  qom2 (Strange-Down Quark)
+. | Lower | 3rd generation quarks | qom3 (Top-Bottom Quark)
 
- <!-- Such a concept is absent in science because science came from the Western civilization which is really just the Roman Empire.  -->
 
+{{< img src="/graphics/physics/msq.jpg" alt="Layers and sublayers in the MSQ table" cap="Each Layer is subdivided into 3 sublayers" >}}
 
-## The Western Limitation
 
-Modern Physics came from Isaac Newton who came up with classical mechanics to explain why 17th-century things move. For example, a falling apple immediately includes 3 of the 5 forces:
+## The Internal Boundary
 
-1. Strong force to keep the apple's identity
-2. Gravitational force to make the apple fall
-3. Electromagnetism for the apple to be seen and to repel the Earth so as to not fall through the soil  
+Within the sublayers is an internal boundary that separates the upper from the middle and lower sublayers. 
 
-<!-- > *Newton's Principia is written in Latin, the language of the Roman Empire -->
+- Above the boundary, the sublayer has more quasi-physical than physical properties. 
+- Below the boundary, the sublayer has more physical ones. 
 
-Newton was very good at math and so he naturally had little knowledge of metaphysics. This is because math deals with counting discrete identities and particles such as `1`, `2`, `3` whereas metaphysics deals with abstract waves such as the feelings of `peace`, `prosperity`, and `love`.
+For example, a well known boundary is the Higgs Field which we regard as the internal boundary within the Radiant Layer.
 
+- Below the Higgs Field, particles acquire measurable **potential energy**, called mass in Modern Physics, in Million electron Volts or MeV.  
+- Above the Higgs Field, particles such as photons and 'gravitons' have no mass. This is because particles above the boundary are kinetic instead of potential. 
 
-Notice how, when thinking about `1`, `2`, `3`:
-- your awareness goes to your brain
-- your thinking becomes very granular, precise, and small.
 
-Whereas, when you think about `peace`, `prosperity`, and `love`:
-- your awareness shifts to your heart, or at least away from your brain and onto the outside world.
-- your thinking becomes wider, less precise, and large.  
+This gives us 5 Boundaries:
 
-This is why Socrates said that the mathematician cannot possibly discover how the greater universe works. Rather, it is the dialectician who can.  
+Layer | Boundary | Description
+--- | --- | ---
+Aethereal | aib (Aethereal Internal Boundary) | Separates aethereal identities that can be split up
+Spatial | sib (Spatial Internal Boundary) | Separates space from time 
+Radiant | rib (Radiant Internal Boundary) | Separates identities with potential energy
+Convertible | cib (Convertible Internal Boundary) | Separates identities that can be changed 
+Material | mib (Material Internal Boundary) | Separates material and not-so-material identities
 
-{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7" >}}
-Surely the skilled mathematician is not a dialectician.
-{{< /q>}}
+<!-- identities with can be further split up (manifesting as splitting up)  that can be split up by antimatter -->
+<!-- 
+Energy and the 2 Forces manifest via Media differently in the 5 layers and each of the sublayers.
 
+Sublayer | Quantum | Media | 2 Forces
+--- | --- | --- | ---
+Upper Aethereal | Mind  | Sound | Existence or Nonexistence
+Middle Aethereal | Qoa (Idea) | Sound | Consonance or Dissonance
+Lower Aethereal | Thought | Sound | Consonance or Dissonance
+Upper Spatial | Metaphysical Spacetime (Multiverses) |  |  
+Middle Spatial | Galactic Qost | Universe | Fast or slow
+Lower Spatial | Qost | Space and time within a universe | Gravity or Anti-gravity
+Upper Radiant | Muon | Mor1 (Infrared) | Bright or Dark
+Middle Radiant | Electron | Mor2 (Visible Light) | Energetic or non-energetic
+Lower Radiant | Tau | Mor3 (UV Light) | Magnetic or Nonmagnetic
+Upper Convertible | Z Boson |  |  
+Middle Convertible | W- Boson | Radioactivity | Persistence or Decay
+Lower Convertible | W+ Boson |  | 
+Upper Material | Up Quark | Gas | Persistence | Blue Charge
+Middle Material | Down Quark | Liquid | Persistence | Green Charge
+Lower Material | Strange Quark | Solid | Persistence | Red Charge
+ -->
 
-This is consistent with great sages being bad at math:
+<!-- Layer | Energy | Manifestation
+--- | --- | ---
+Upper Aethereal | Strength of idea or feeling | 
+Lower Aethereal | Strength of idea or feeling | Sound
+Upper Spatial | Strength of a vortex (black hole) | Gravity
+Lower Spatial | Strength of a vortex (black hole) | Gravity
+Upper Radiant | Energy in a photon or electron | Heat and Light
+Lower Radiant | Energy in a photon or electron | Heat and Light
+Upper Convertible | Energy in a W Z boson | Stability
+Convertible | Energy in a W Z boson | Stability
+Material | Energy in an atomic nucleus | Identity -->
 
-{{< q a="M" c="The Gospel of Ramakrishna" >}}
-Sri Ramakrishna's greatest delight was to listen to stories from Hindu mythology and the epics. These he would
-afterwards recount from memory, to the great joy of the villagers. He enjoyed painting. **But arithmetic was his great aversion.**
-{{< /q >}}
 
-<!-- This is why Newton kept on studying the Bible and making predictions from it, as if they could ever come true. His  -->
+## The Hierarchy of the Layers
 
-Newton's ignorance of metaphysics is why he could not find the cause of gravity.
+From the Medium-Substance-Quantum (MSQ) Table in Chapter 3, we can deduce that everything in existence has varying degrees of the following qualities:
 
-{{< q a="Newton" c="Principia Mathematica Book 3, General Scholium" >}}
-But I have not been able to discover the cause of gravity from phenomena. I have no hypotheses because hypotheses have no place in experimental philosophy.. To me, it is enough that gravity exists and that it accounts for all the motions of the the celestial bodies, and of our sea. 
-{{< /q >}}
+Layer | Quality
+--- | --- 
+Aethereal | Audibility or Harmony 
+Spatial | Size
+Radiant | Visibility
+Convertible | Stability
+Material | Identifiability
 
 
-Without the ability to 'feel for the universe', Newton had no choice but to make predictions for the universe based on the [prophecies of Daniel](/research/newton/daniel/part-1) in the Bible.  
+The layers work in a hierarchy.
+- The aether is the most superior and subtle
+- Matter is the most inferior and crude. 
 
-  <!-- go But it is most obvious in his attempts to find hidden codes or prophecies in the Bible.  -->
+This hierarchy explains why gravity affects light and heat, but light and heat does not affect gravity. 
 
-The knowledge of metaphysics can be revealed by knowing the nature of the **aether** just as that of physics can be known by revealing the nature of **matter**. 
-- The aether acts as waves
-  - This is good for music and therefore art and philosophy
-- Matter acts as particles
-  - This is good for quantifying and therefore math and engineering
+For example, adding heat to a rock will not make it float. Shining light on a rock will reveal its identity, but not make it heavier or lighter.
 
-The operations of the mind for math and for philosophy are very different. 
-- A good philosopher often is bad at math
-- An excellent mathematician is often awful at philosophy
+<!-- In Social Superphysics, this is why those who know the 5 Layers (or 5 Elements) tend to be non-democratic. This is because, in order to full utilize or maximize the benefits of Nature's hierarchy, wild democracy has to be stamped out. This increases the chances for 'Golden Ages' in a civilization.
 
-In fact, it is common to hear about mathematicians theorizing about paradoxes involving infinitity. This is merely a waste of time and mental energy. 
+In Bio Superphysics, this hierarchy principle manifests as Homeopathy or Chinese medicine having less bad side effects than Western Medicine.  -->
 
-Superphysicists (SPs or 'espees') are generally philosophers first, who use data science and computers to augment any deficiency in mathematics or memorization. Rather than memorize formulas, SPs should understand how the formulas work, so they can recreate or derive formulas on-the-fly. Such a pardigm is embodied in our 'Qualimath'.
 
+### Cleaning Up The Sciences
 
+Science was created by the Europeans who built knowledge from the bottom material layer -- the most inferior but most obvious one. 
 
-## The Evolution of Physics from the Focus on Matter
+From the bottom, they worked their way up:
 
-<!-- We can say that the dark ages are still in force. The bright spots were the Roman Empire Stoicism and the Enlightenment. Asia is also in its own dark ages, with the birght pots during the Buddhist and Taoist persiods and the the latter as Song Dynasty and   -->
+Layer | European Discovery
+--- | ---
+Matter | Contact Forces, Monetary Systems
+Convertible | Chemistry and Nuclear Reactions
+Radiant | Electricity, International Finance
 
-Modern Physics began with a matter-first paradigm and then jumped to the realm of electromagnetism. Over time, physicists classified forces into four:
 
-1. Strong
-2. Weak
-3. Electromagnetism
-4. Gravitation
+This led to a messy, fragmented, and non-intuitive system of knowledge. For example:
+- Physics is now split into Particle Physics and Quantum Physics
+- Medicine is split into Western Medicine and Alternative Medicine 
+- Economics is split into Microeconomics, Macroeconomics, Behavioral Economics, Welfare Economics, etc. 
 
-Physicists are still mystified by gravity, as proven by the lack of anti-gravity technology.
- <!-- which has very different dynamics from Matter or Electromagnetism.  -->
+We clean up this mess by:
+- putting all knowledge into the 5 Layers, and
+- adding the 2 Forces as its operators.
 
-Einstein's General Relativity (GR) was supposed to explain it. Like Newton, Einstein was good at math, able to create field equations to explain the structure of spacetime. However, like Newton, he was ignorant of metaphysics and so his [field equations are unsolvable](https://www.forbes.com/sites/startswithabang/2019/12/04/this-is-why-scientists-will-never-exactly-solve-general-relativity/).
+These then create everything in reality.
 
-The limitations of Modern Physics are therefore caused by the ignorance of metaphysics, something that the West inherited from the Romans who assigned natural phenomena to the actions of gods and goddesses.
 
-<!--  The problem is that they don't know that GR is a sophistry that traps Physics* within  Electromagnetism and away from gravitation. 
 
-> *The concept of quantum fields comes from magnetic fields which is a property of the Electromagnetic force and not the gravitational force which works on relationships between discrete identities -->
+## Organization of the 5 Layers in This Work
 
+The principles of Material Superphysics is organized under the following headings which become Chapters.
 
-<!-- > *We break down Einstein's sophistry set by step by going through his logic in his book [Relativity](/research/einstein/relativity/section-02)  -->
 
+{{< i s="/graphics/physics/table.jpg" alt="Layers and sublayers table" >}}
+<!-- Topic | Aether | Spatial 
+--- |  --- | --- 
+1 Intro | |
+2 Sublayers | |
+3a Medium | unconscious | timespace
+3b | subconscious | aetherspace
+3c | conscious | spacetime
+4a Substance | mind | time
+4b | feeling | blackhole
+4c | idea | space
+5a Quantum | subtlifying | galactic
+5b | transformative | stellar
+5c | crudifying | material
+6 Signature | perception-time | timespace 
+7 Territory |  |  
+8 Vortex | unite divide | clockwise anti
+9 Relationality | Attraction-Repulsion | 'General Relationality' | 
+10 Upper | unconscious | dark energy
+11 Mid | subconscious | dark matter | wave (zeeman) | qoc2 detection  | liquid 
+12 Lower | conscious | gravity | particle | qoc3 detection  | solid
+13 Technologies | Artificial Sentience, Sonic Fire Suppression | Levitation, Teleportation, Fusion, Fission Retardant, Non-Abrasive Precision Fabrication 
 
-## The Asian Model
 
-Material Superphysics breaks through the limitations of Modern Physics by adding into it the proper metaphysics from the ancient Greeks, Indians, and Chinese who all follow a 5-Element model: 
+Topic | Radiant | Convertible | Material 
+--- | --- | --- | --- 
+1 | | | 
+2 | | | 
+3a | photon  | w boson | pion 
+3b | heat | w boson | kaon
+3c | virtual photon | z boson | eta
+4a | fire | neutron | proton
+5a | electron | e-neutrino | up-down
+5b | muon | t-neutrino | strange-charm
+5c | tau | m-neutrino | top-bottom
+6 |  |  |
+7 |  |  |
+8 | male-female | react-nonreact | matter-anti
+9 | Electromagnetism 'Special Relationality' | Feynman Diagrams | Contact Forces
+10 | carrier | qoc1 detection | gas
+11 | carrier | qoc2 detection | liquid
+12 | carrier | qoc3 detection | solid
+13 | Crystal Computers, Room Temperature Superconductors | Neutrino Disease Detectors | Stronger Materials   -->
 
-Greeks (Timaeus) | Hindus | Chinese | Greek Shape | Superphysics Shape
---- | --- | --- | --- | --- 
-Aether (dodecahedron) | Akasha | 水 still water | Dodecahedron ![Dodecahedron](/graphics/physics/dode.gif) | Pentagon
-Wind (octahedron) | Vayu | 木 moving wood | Octahedron ![Octahedron](/graphics/physics/octa.gif) | Square
-Fire (tetrahedron) | Tejas | 火 radiant fire | Tetrahedron ![Tetrahedron](/graphics/physics/tetra.gif) | Line
-Water (icosahedron) | Jala | 土 transforming earth | Icosahedron ![Icosahedron](/graphics/physics/icos.gif) | Dash
-Earth (cube) | Pritvi | 金 solid metal | Cube ![Cube](/graphics/physics/cube.gif) | Sphere
-
-
-
-## Superphysics Uses Layers Instead of Fields
-
-Physicists think in 'fields' as a consequence of Faraday assigning '[lines of force](/research/whittaker/aether/chapter-06)' to electromagnetic phenomena. 
-
-But this is refuted by Descartes who wrote that circular motion is the default motion, as a consequence of having no void. This is also refuted by his description of quantum tunneling (in *The World*) where particles can cross over two spaces.  
-
-This is why we use layers instead of fields. We then unify all the understandings of the Romans, Greeks, Hindus, and Chinese under our 5-Layer model:
-
-Name | Greek-Hindu-Chinese | Physics Force | Superphysics Force | Force Carrier | Pythagorean Note
---- | --- | --- | --- | --- | --- | --- | --- | --- 
-Probability | Metaphysical | Pseudo-science | Yang Yin | Soul | Octave
-Aethereal | Aether, Akasha, 水 (still water) | Pseudo-science | Creative force | Thought (effective qoa or idea) | Ti (You) 
-Spatial | Air, Vayu, 木 (moving wood) | Gravity | Gravity-Levity | Schwarzchild Radius (qost or graviton) |  La (Milky way)
-Radiant | Fire, Tejas, 火 (expanding fire) | Electromagnetism | Male-Female force | Photon (qol) | Sol (Sun)
-Convertible | Water, Jala, 土 (changing earth) | Weak | Conversion force | W Z Bosons (qor) | Fa (Planets) [Re matter, Mi moons]
-Material | Earth, Pritvi, 金 (solid metal) | Strong | Nuclear force | Gluons (effective qom) | Do (Earth)
-
-<!-- Rank | Name | Greek-Hindu | Chinese | Physics Force | Superphysics Force | Force Carrier | Resulting particles in Superphysics | Pythagorean Note
---- | --- | --- | --- | --- | --- | --- | --- | --- 
-0 | Metaphysical | Metaphysics | ? | Pseudo-science | Yang Yin | Soul | The One, Brahma, Tao | Octave
-1 | Aethereal | Aether, Akasha | 水 (still water) | Pseudo-science | Creative force | Thought (effective qoa or idea) | qoa or quantum of aether | La 
-2 | Spatial | Air, Vayu | 木 (moving wood) | Gravity | Gravity | Schwarzchild Radius (qost or graviton) | qost or quantum of spacetime | Sol
-3 | Radiant | Fire, Tejas | 火 (expanding fire) | Electromagnetism | Male-Female force | Photon (qol) | qoe, qol | Mi
-4 | Convertible | Water, Jala | 土 (changing earth) | Weak | Convertible force | W Z Bosons (qor) | qor or quantum of radioactivity | Re
-5 | Material | Earth, Pritvi | 金 (solid metal) | Strong | Nuclear force | Gluons (effective qom) | qom (quarks) | Do -->
-
-
-These 5 layers classify Physical Reality neatly so that it can integrate perfectly with Metaphysical Reality which is made up of life, soul and identity. 
-
-<!-- mysteries of quantum physics (which is based on the radiant or electromagnetic layer) by extending human knowledge onto the higher gravitational (spatial) and aethereal layers.  -->
-
-
-{{< q a="Krishna" c="Bhagavad Gita" >}}
-My manifest form is made up of:
-1. Earth
-2. Water
-3. Flame
-4. Air
-5. Aether
-6. Life
-7. Mind (Soul)
-8. Individuality (Identity)
-
-These are my lower Nature. Learn my higher Nature that produces this Universe by its principle of life. 
-{{< /q >}}
-
-<!-- I am that womb. I make and I unmake this Universe. -->
-
-
-{{< img src="/graphics/physics/layers.png" alt="Five layers of Superphysics" cap="" >}}
-
-
-These layers are immediately implementable in healthcare. For example:
-- Ayurveda has the 3 doshas (3 of the 5 layers)
-- Traditional Chinese medicine has wu xing (all 5 layers). 
-
-Western medicine only works on the material layer which is the crudest of the five. This explains why Western medicine has no solution to mental problems such as ADHD, bipolar disorder, addiction, mass shootings, and terrorism*. These reside in the the aethereal and spatial layers, not in the material layer.
-
-{{< n n="*This is why physically bombing the terrorists does not really solve terrorism. It merely causes it to retreat to terrorize another day." >}}
-  
-
-Western medicine is very good at material health problems that can be cured by physical surgery or masked by chemical medicines. 
-
-
+<!-- Low-High Probability -->

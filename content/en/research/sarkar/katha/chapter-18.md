@@ -8,11 +8,18 @@ author: Nagina
 ---
 
 
-While I was in Jamalpur, it was matters pertaining to Baba that occupied my mind. But the affairs of the outside world intruded from time to time. 
+<!-- While I was in Jamalpur, it was matters pertaining to Baba that occupied my mind. But the affairs of the outside world intruded from time to time. 
 
-I had not put the matter of the appeal for the reconsideration of my demotion I had made in Delhi in February, completely out of my thoughts. However, I felt that whenever any brother disciple would mention the issue of my demotion to Baba that it appeared to make Him very sad. 
+I had not put the matter of the -->
 
-I had therefore become alert and arranged that no one should mention anything about this to Baba and requested all my friends not to allude to my problems in front of Baba.
+I made an appeal in Delhi in February for the reconsideration of my demotion.
+
+But mentioning this to Baba made Him very sad. 
+
+
+<!--  , completely out of my thoughts. However, I felt that whenever any brother disciple would mention the issue of my demotion to Baba that it appeared to make Him very sad. 
+
+I had therefore become alert and arranged that no one should mention anything about this to Baba and requested all my friends not to allude to my problems in front of Baba. -->
 
 
 ## APRIL 1, 1955: MORNING

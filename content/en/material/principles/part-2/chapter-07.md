@@ -23,4 +23,4 @@ Atom | Nucleaon | Inner Shells | Outer Shells |
 Planet | Core | Interior | Surface and Lower Atmosphere | Upper Atmosthere
 Star | Inner Part | 
 
-Galaxy
+<!-- Galaxy -->

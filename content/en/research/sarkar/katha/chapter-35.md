@@ -8,21 +8,15 @@ author: Nagina
 ---
 
 
-It was decided to hold a Dharma Mahacakra at Gorakhpur on the occasion of\ the full-moon day of the month of Ashada I could not attend due to the illness of my mother and my wife.
+It was decided to hold a Dharma Mahacakra at Gorakhpur on the occasion of the full-moon day of the month of Ashada I could not attend due to the illness of my mother and my wife.
 
-Baba had gone to Gorakhpur from Jamalpur via broad gauge through Varanasi but he was returning from by the meter gauge train. Thus I was bound to touch Hajipur 
-on his way from the DMC. The train used to reach Hajipur after 9. p.m. I therefore said
-that I would arrange dinner for Baba and other Margii brothers returning from
-Gorakhpur along with Baba in the evening and over the foodstuffs to the assistant
-secretary at Hajipur so that they may not feel inconvenienced on the train on the
-journey. Moreover, the train reached at about dinnertime.
+Baba had gone to Gorakhpur from Jamalpur via broad gauge through Varanasi but he was returning from by the meter gauge train. Thus I was bound to touch Hajipur on his way from the DMC. The train used to reach Hajipur after 9. p.m. I therefore said that I would arrange dinner for Baba and other Margii brothers returning from Gorakhpur along with Baba in the evening and over the foodstuffs to the assistant secretary at Hajipur so that they may not feel inconvenienced on the train on the journey.
+
+Moreover, the train reached at about dinnertime.
 
 I started the arrangements for Blissful Baba and the Margii brothers’ dinner.
 
-Obstacles also began to appear in their bulk as soon as I began the arrangements. At about 11am my domestic assistant came to inform me that my wife’s
-condition had suddenly deteriorated. I had just arranged for a doctor and medicines for her when I was informed that the 20 kilos of milk bought in the morning for making
-sweets had gone sour at about 2 p.m. I was quite depressed but my domestic assistant and aunt did not feel so disheartened. They suggested that milk could be obtained
-again in the evening from a neighboring village. They were determined to prepare good and tasty food for Baba and the Margii brothers accompanying Him.
+Obstacles also began to appear in their bulk as soon as I began the arrangements. At about 11am my domestic assistant came to inform me that my wife’s condition had suddenly deteriorated. I had just arranged for a doctor and medicines for her when I was informed that the 20 kilos of milk bought in the morning for making sweets had gone sour at about 2 p.m. I was quite depressed but my domestic assistant and aunt did not feel so disheartened. They suggested that milk could be obtained again in the evening from a neighboring village. They were determined to prepare good and tasty food for Baba and the Margii brothers accompanying Him.
 
 As we were discussing these arrangements, some four or five Margii brothers arrived from Muzaffarpur. I was very happy to meet them; but my house in Hajipur was
 very small. It was with great difficulty that I was pulling on therein with the members of
@@ -97,34 +91,11 @@ was overwhelmed; my heart began to pound. Due to excess emotion, tears began to
 flow from my eyes and I became dumb. Baba then called me near and I had the
 opportunity to touch his lotus feet. Great is Baba’s grace.
 
-Although we were so unwilling to leave him, the train started moving slowly.
-Baba instructed me to get down. I came home in the same ecstatic condition. After this
-I shared my dinner with the guests from Muzaffarpur.
-We spent almost the whole night talking of great Baba and events in our lives
-connected with Him. In the morning after taking their bath and breakfast these Margiis
-returned to Muzaffarpur.
+Although we were so unwilling to leave him, the train started moving slowly. Baba instructed me to get down. I came home in the same ecstatic condition. After this I shared my dinner with the guests from Muzaffarpur. We spent almost the whole night talking of great Baba and events in our lives connected with Him. In the morning after taking their bath and breakfast these Margiis returned to Muzaffarpur.
 
-After some days I came to know from the manager of the ashram that the food
-delivered by me was taken by Baba and all the other Margiis with great pleasure. It was
-also used for breakfast the next morning. The inhabitants of Jamalpur ashram used
-what was still left thereafter. On receiving this information, the members of my familyand I felt extremely happy and contented. Baba's liila is great. He first presents
-obstacles to test the sincerity of the devotee and thereafter arranges all facilities
-himself.
+After some days I came to know from the manager of the ashram that the food delivered by me was taken by Baba and all the other Margiis with great pleasure. It was also used for breakfast the next morning. The inhabitants of Jamalpur ashram used what was still left thereafter. On receiving this information, the members of my familyand I felt extremely happy and contented. Baba's liila is great. He first presents obstacles to test the sincerity of the devotee and thereafter arranges all facilities himself.
 
-My prayer to the Lord is that he may take whatever test he wants, but the
-should never allow my faith to be shaken. This much grace I shall pray for all my life.
-Our pracar work in Hajipur was going on smoothly. Shri Shankar Swaroop
-Singh, who was an Inspector in my department, meanwhile got transferred to Hajipur.
-He had worked with me before also during the period 1948-50. At that time I was not in
-the Marga. He had witnessed my “eat, drink and be merry” life at that time. This time he
-found some change in my views, habits of eating and ways of life. Therefore after
-working for some time, he asked to be initiated.
+My prayer to the Lord is that he may take whatever test he wants, but the should never allow my faith to be shaken. This much grace I shall pray for all my life. Our pracar work in Hajipur was going on smoothly. Shri Shankar Swaroop Singh, who was an Inspector in my department, meanwhile got transferred to Hajipur. He had worked with me before also during the period 1948-50. At that time I was not in the Marga. He had witnessed my “eat, drink and be merry” life at that time. This time he found some change in my views, habits of eating and ways of life. Therefore after working for some time, he asked to be initiated.
 
-So far, I was not initiating people in my own department. But when another
-acarya was not available, I had to initiate them myself. Here Acarya Deep Narainji was
-available. I, therefore, requested him to initiate Shri Sinha and he was initiated in 1958.
-He started regular sadhana after initiation. His respect for his acarya and attachment to
-sadhana began to grow steadily. Now be became keen to have Baba's darshan. As his
-sadhana improved, his devotion to Baba also began to increase. He got his first
-darshan of Baba on the occasion of Ramnagar DMC.
+So far, I was not initiating people in my own department. But when another acarya was not available, I had to initiate them myself. Here Acarya Deep Narainji was available. I, therefore, requested him to initiate Shri Sinha and he was initiated in 1958. He started regular sadhana after initiation. His respect for his acarya and attachment to sadhana began to grow steadily. Now be became keen to have Baba's darshan. As his sadhana improved, his devotion to Baba also began to increase. He got his first darshan of Baba on the occasion of Ramnagar DMC.
 

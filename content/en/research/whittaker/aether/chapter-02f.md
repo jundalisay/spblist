@@ -79,26 +79,62 @@ One of the investigations with which Cavendish occupied himself was a comparison
 
 Cavendish presented a memoir to the Royal Society in 1775,[61]: 
 
-"From some experiments, iron wire conducts about 400 million times better than rain or distilled water. The electricity meets with no more resistance in passing through a piece of iron wire 400,000,000 inches long than through a column of water of the same diameter only one inch long. Sea—water, or a solution of one part of salt in 30 of water, conducts 100 times, or a saturated solution of sea—salt about 720 times, better than rain-water."
+
+{{< q a="Cavendish" >}}
+From some experiments, iron wire conducts about 400 million times better than rain or distilled water. The electricity meets with no more resistance in passing through a piece of iron wire 400,000,000 inches long than through a column of water of the same diameter only one inch long. Sea—water, or a solution of one part of salt in 30 of water, conducts 100 times, or a saturated solution of sea—salt about 720 times, better than rain-water."
+{{< /q >}}
+
 
 The experiments were published in the volume edited in 1879. In it, the method of testing by which Cavendish obtained these, results was simply that of physiological sensation, but the figures given in the comparison of iron and sea—water are remarkably exact.
 
 While the theory of electricity was being established on a sure foundation by the great investigators of the eighteenth century, a no less remarkable development was taking place in the kindred science of magnetism, to which our attention must now be directed.
 
-The law of attraction between magnets was investigated at an earlier date than the corresponding law for electrically charged bodies. Newton,[62] in the Principia, says: "The power of gravity is of a different nature from the power of magnetism, For the magnetic attraction is not as the matter attracted. Some bodies are attracted more by the magnet, others less; most bodies not at all. The power of magnetism, in one and the same body, may be increased and diminished; and is sometimes far stronger, for the quantity of matter, than the power of gravity; and in receding from the magnet, decreases not in the duplicate, but almost in the triplicate proportion of the distance, as nearly as I could judge from some rude observations,"
 
-The edition of the Principia which was published in 1742 by Thomas Le Seur and Francis Jacquier contains a note on this corollary, in which the correct result is obtained that the directive couple exercised on one magnet by another is proportional to the inverse cube of the distance.
+The law of attraction between magnets was investigated at an earlier date than the corresponding law for electrically charged bodies. 
 
-The first discoverer of the law of force between magnetic t poles was John Michell (b. 1724, d. 1793), at that time a young Fellow of Queen's College, Cambridge,[63] who in 1750 published A Treatise of Artificial Magnets; in which is shown an easy and expeditious method of making them superior to the best natural ones. In this he states the principles of magnetic theory as follows[64]:—
+Newton,[62] in the Principia, says: 
 
-"Wherever any Magnetism is found, whether in the Magnet itself, or any piece of Iron, etc., excited by the Magnet, there are always found two Poles, which are generally called North and South; and the North Pole of one Magnet always attracts the South Pole, and repels the North Pole of another; and vice versa."
+{{< q a="Newton" >}}
+The power of gravity is of a different nature from the power of magnetism. Magnetic attraction is not as the matter attracted. 
+
+Some bodies are attracted more by the magnet, others less; most bodies not at all. The power of magnetism, in one and the same body, may be increased and diminished; and is sometimes far stronger, for the quantity of matter, than the power of gravity; and in receding from the magnet, decreases not in the duplicate, but almost in the triplicate proportion of the distance, as nearly as I could judge from some rude observations"
+{{< /q >}}
+
+
+<!-- The edition of the Principia which was published in 1742 by Thomas Le Seur and Francis Jacquier contains a note on this corollary, in which the correct result is obtained that the directive couple exercised on one magnet by another is proportional to the inverse cube of the distance. -->
+
+
+The first discoverer of the law of force between magnetic poles was John Michell (b. 1724, d. 1793), at that time a young Fellow of Queen's College, Cambridge.[63]
+
+
+In 1750, he published A Treatise of Artificial Magnets where he showed an easy method of making them superior to the best natural ones. 
+
+<!-- In this he states the principles of magnetic theory as follows[64]:— -->
+
+{{< q a="Michell" >}}
+"Wherever any Magnetism is found, whether in the Magnet itself, or any piece of Iron, etc., excited by the Magnet, there are always found two Poles, generally called North and South. The North Pole of one Magnet always attracts the South Pole, and repels the North Pole of another; and vice versa."
+{{< /q >}}
+
 
 This is of course adopted from Gilbert.
 
-"Each Pole attracts or repels exactly equally, at equal distances, in every direction." This, it may be observed, overthrows the theory of vortices, with which it is irreconcilable. 
+{{< q a="Michell" >}}
+"Each Pole attracts or repels exactly equally, at equal distances, in every direction." 
+{{< /q >}}
 
-"The Magnetical Attraction and Repulsion are exactly equal to each other." This, obvious though it may seem to us, was really a most important advance, for, as he remarks, "Most people, who have mention'd any thing relating to this property of the Magnet, have agreed, not only that the Attraction and Repulsion of Magnets are not equal to each other, but that also, they do not observe the same rule of increase and decrease."
+
+This, it may be observed, overthrows the theory of vortices, with which it is irreconcilable. 
+
+"The Magnetical Attraction and Repulsion are exactly equal to each other." 
+
+This, obvious though it may seem to us, was really a most important advance, for, as he remarks, 
+
+"Most people, who have mention'd any thing relating to this property of the Magnet, have agreed, not only that the Attraction and Repulsion of Magnets are not equal to each other, but that also, they do not observe the same rule of increase and decrease."
 
 "The Attraction and Repulsion of Magnets decreases, as the Squares of the distances from the respective poles increase."
 
-This great discovery, which is the basis of the mathematical theory of Magnetism, was deduced partly from his own obscrvations, and partly from those of previous investigators (e.g. Dr. Brook Taylor and P. Musschenbroek[errata 1]), who, as he observes, had made accurate experiments, but had failed to take into account all the considerations necessary for a sound theoretical discussion of them,
+This great discovery, which is the basis of the mathematical theory of Magnetism, was deduced:
+- partly from his own observations
+- partly from those of previous investigators (e.g. Dr. Brook Taylor and P. Musschenbroek[errata 1])
+
+<!-- who, as he observes, had made accurate experiments, but had failed to take into account all the considerations necessary for a sound theoretical discussion of them, -->
