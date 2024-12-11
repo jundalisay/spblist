@@ -7,7 +7,7 @@ description: "According to Physics, the universe was created through a Big Bang 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 28
+weight: 22
 icon: /icons/spmat.png
 ---
 
@@ -70,15 +70,8 @@ Phase | Layer | Physics Name | Sequence
 {{< img src="/graphics/physics/multiverse.png" alt="The Multiverse with Universe" cap="Each universe begins when aethereal ideas get crudified into matter in a systemic process matching the order of the universe" >}}
 
 
+We use the creation process explained by Descartes and the Vedic Philosophy as an alternative to the materialist creation process by Physics.
 
-<!-- spacetime is the second perceivable layer and is created by the relativistic interaction of quanta of spacetime (qost) on each other.  -->
-
-<!--  must have mass., the discrete identity of gravity is contained in a few objects such as --> 
-
-<!--  Physics has a belief that gravity comes from mass and so they do not really assign gravity or 'singularity' to planets.  -->
-
-<!-- ![Science limited box](https://sorasystem.sirv.com/graphics/layersegl.jpg)
- -->
 
 ## Phase 1: From Potentiality to Actuality
   
@@ -98,46 +91,148 @@ Sequence | Analogy |
 
 All these universes exist simultaneously in the aethereal layer, as a multiverse. Because of human limitations, we can see only one universe, our current one. The universes in the aethereal layer occupy no space since they are above the spatial layer. 
 
-Phase 2 of Creation is [here](/material/principles/part-2/chapter-04b).
-
 
 <!-- Another idea comes in, leading to two point-identities "1" and "1". However since identity must be unique, then the first "1" has to push the second "1" away. This creates a unit of space "0" between them as "101". 
 
 More ideas come in, each with its own preference for identity and thererfore space so the universe can become "101001000101". Thus, the binary existence becomes more complex.     
  -->
 
-## Time travel and intra-universe travel is done at the Athereal layer
 
-A mastery of the aethereal layer, as done by Buddhist monks, allows them to view the other universes, either as alternate realities or the past or future of the current one. They do this by transporting their mind to those other universes and timelines, and then coming back to this one.
+## Phase 2: The Ideas are Deployed
 
-In theory, the same mastery can be applied to vehicles which are run by sentient artificial intelligence for those vehicles to travel between universes and in different timelines of those universes. 
+Phase 2 of the existence of a Universe is when its Matrix boots up, or the Mind of Brahma starts to think about that Universe. 
+- We use the Matrix analogy for nonspiritual or close minded people.
+- We use the Brahma analogy for spiritual or open minded ones.
 
+This activates the aethereal layer to get the many ideas of the Supreme for that Universe. The ideas come from pre-existence and are transferred onto aethereal existence by the desire from the Positive Force of the Supreme.
 
-<!-- ### All Ideas, Feelings, Beliefs, Minds, and Souls are in the Aethereal Layer   -->
+The aethereal ideas we call as 'media of aether' (moa3s) as metaphysics objects which are meant for physical existence. These moa3s then get funneled into nodes which we call quanta of spacetime (qosts) which exist in the spatial layer beneath the aethereal layer.
 
-All the ideas in the universe exist in the aethereal layer, even our feelings, minds, and beliefs. 
+The universe thus shifts from aetherel probability into spatial reality (i.e experiences space and time). 
 
-<!-- The next post will explain the Quantum of Spacetime or Qost which is Phase 2 of creation, and the second layer of our model. -->
+  
+### The Universe as a Matrix (or an App or TV screen)
 
-<!--  gravitational layer as "quanta of spacetime". This allowed the idea to have "space" after other ideas came down with it. For example, "1" alone has no space. But "1 and 1" necessarily creates a space between the two 1's. 
+<!-- These 1's and 0's then flood into existence. Unlike the original aethereal layer that had no zeros (and therefore no space), this current layer has space. So we call this the "spatial" layer.  
 
-We can say that the space between the two 1's are made up of zeros or empty 1's. So instead of "1 and 1", we now have "100001". -->   
+Unlike the Big Bang which created space from a material cause, our spatial layer was created by the flood of 1's and 0's entering existence. Thus, we can call it a Big Bootup, similar to a bootup of a computer that enables 1's and 0's to be created in its memory or computer-mind.  -->
 
-<!-- In this model, space and time are the second layer and is subordinate to the aethereal. Examples aethereal things are minds, ideas, feelings, and the Higgs 'field'. Thus, a universe with spacetime removed becomes the Mind of the Creator, which the Hindus call Brahma*. This is somewhat consistent with the Higgs particle being called the God-particle. We can also refer to it as a virtual reality Matrix, in reference to the movie. -->
+We can think of the physical universe (with spacetime) as a giant computer memory that generates virtual objects.
 
-
-<!-- > *Brahma here just means the totality of whatever is existing. We could call it something else like ToE for "Totality of Existence". But that would be bad SEO (Search Engine Optimization) since no one googles for ToE. Thus, we stick with "Brahma"  -->
-
-
-<!-- call the
-An idea is superior to spacetime, and so we never assign dimensions to an idea or a feeling. Likewise, the start of the universe or 'Big Bang' cannot have a starting point in spacetime.  
-
-Instead of a Big Bang, it would be more proper to compare the creation of the universe as a Big Awakening or a Big Bootup, similar to how a computer converts static code-ideas into active virtual objects.  -->
- 
-<!-- To be created, each object is assigned a place in the computer's memory as a block. A large app needs more memory and uses more blocks than a tiny app. Likewise, the universe is made up of such placeholder blocks which we call quanta of spacetime or qost*. -->
+The stream of ideas from the aethereal layer enter this virtual reality through specific placeholder blocks or nodes in this universe-RAM or universal-memory.  <!-- combination of 1's and 0's that stream down into physical space do it through  in the mind or memory of the universe. --> This is to maintain the identity of each idea and not let it get mixed up with other ideas.  
 
 
-<!-- > *The original Pythagorean version is "monad". The original Hindu version is "jiva". We use "quantum" to emphasize that these are totally based on human perceptions. This means that animals or aliens might see stars and blackholes in a totally different way with different dynamics. Our qosts, therefore, are only for the human perspective. Other species might sense creation in other ways.  -->
+{{< q a="Descartes" c="The World Simplified" >}}
+Before God divided it, the pure aether was singular. When it began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect.. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion. Nearer the centers, the particles were naturally less agitated and smaller. Farther from the centers, the particles were more agitated and larger.. The strongest particles were the largest ones. These created the largest circles.
+{{< /q >}}
 
 
-<!-- This means that the definitions here work only for our current multiverse which we all perceive in a consistent way -->
+For example, a smartphone has two kinds of memory:
+- Phone memory where the apps are run
+- SD Card memory where the apps are stored and are usually larger than the phone memory
+
+The spatial layer is the phone memory which runs the operating system which has the apps. 
+
+The aethereal layer is the SD card which can have far more apps ready to be installed (have potential existence). 
+
+
+{{< img src="/graphics/apps.jpg" alt="Apps in a Matrix" cap="We are inside a Matrix just as our apps are inside a phone" >}}
+
+Each app must be separate from other apps, otherwise there'll be an error*.  
+
+
+{{< f f="*We assert that the Supreme does not make mistakes or bugs in Its design for a universe." >}}
+
+
+
+**We call these nodes or blocks as the quanta of spacetime of qosts.** 
+
+These fill empty space and perform the following critical tasks:
+- constraining and isolating each universe from each other
+- constraining the speed of light
+- facilitating the expansion of the universe which allows evolution of things in the universe
+- facilitating the universe-scale attraction and repulsion, as opposed to the limited attraction and repulsion facilitated by electromagnetism
+- facilitating the creation of matter and energy via galaxies and quasars
+
+<!-- However, unlike a computer's memory that is limited and predefined, the qosts of the universe is infinite. It is arbitrarily set by the aethereal layer above it (or operating behind it). This is similar to Firefox browser having the computer's operating system (OS) working behind the scenes at all times. If the OS shuts down, then the Firefox browser shuts down too. Thus, if the idea "stops" in the aethereal layer, then its physical version will likewise disappear according to the rules of physicality.   -->
+
+<!-- These qosts start out as 1-dimensional points that repel each other to create 2-dimensions, then 3-dimensions, and finally 4 physically-observable dimensions. --> 
+
+<!-- The major bodies are:
+- galaxies
+- quasars
+
+These galaxies and quasars exert the force of attraction and repulsion.
+- Dark Matter is the Physics name for the attractive force within a galaxy or quasar
+- Dark Energy is the repulsive force between them
+
+The minor types of qosts manifest as everything else, such as:
+- stars
+- planets
+- asteroids
+- moons
+- material things
+
+The attractive force with these manifests as gravity. The repulsive force manifests as the vacuum of space.  -->
+
+<!-- Such nodes or points exert a natural force called gravity to facilitate the coversion of aethereal ideas and feelings into physical matter and energies.  -->
+
+<!-- In our app analogy, this is the "run-time" of the app, as opposed to the "compile-time" of the aethereal layer.   -->
+
+<!-- Physics believes that gravity comes from material mass. However, this is impossible in our model since matter is the final 5th layer and doesn't exist yet at this point.
+
+Physicists make this mistake because mass is so tied and dependent on gravity that they are always perceived together.  -->
+
+<!-- it cannot be separated by physical means, thought it can be manipulated by mind or metaphysical means.  -->
+
+<!-- and so dark matter has mass, but black holes and supermassive black holes have singularity wherein the laws of physics do not hold. To get rid of this absurdity, Superphysics views mass as coming from gravity in accordance with our five-layer model wherein material mass is the lowest and most subordinate layer. We can say that mass is the effect of, and is dependent on, gravity and its subordination to the aether, now known as the Higgs field.  -->
+
+
+## Phase 3: The Ideas Become Galaxies and Stars
+
+
+Galactic qosts emerge in the spatial layer to materialize the ideas from the aether. These become galaxies which are filled with qosts and mosts. This causes a traffic jam in the galaxy. 
+
+<!-- Pythagoras called these 1D points as monads:
+
+q a="Iamblichus" c="The Life of Pythagoras" >}}
+The monad was the indivisible point and the first cause. The duad was the first line or interval. The triad had more intervals and lines. The tetrad was solid.
+/q >}} -->
+
+{{< youtube e7rRQEq9C60 >}}
+
+<!-- The spacetime layer thus converts the 1-dimensional galactic qosts into 2-dimensional, and then into 3-dimensional nodes the more qosts emerge. This continues until finally the nodes lead to 4 physically-observable dimensions* through the concept of time. This leads to the 4-dimensional 'Minkowski' spacetime of physics.
+
+> *There can be up to 7 spacetime dimensions. Above that, spacetime no longer exists and experience becomes fully immersive and totally arbitrary. 
+ -->
+
+The collisions and friction in that traffic jam compresses the qosts to the point that create photons and electrons through the Radiant Layer.  
+
+
+{{< q a="Descartes" c="The World Simplified" >}}
+The aether particles that broke off from air-aether during collisions gained more speed because they had to travel farther at the same amount of time. They became the fire-aether.
+{{< /q >}}
+
+These photons and electrons get even more compressed in subvortices as to create protons and neutrons inside them, leading to the creation of stars.
+
+This new star-vortex then gains its own gravitational territory within the territory of its galaxy.
+
+{{< i s="/graphics/physics/creation.jpg" a="Vortex formation" >}}
+
+
+That stellar territory touches other territories to form a giant territory controlled by the vortex of the galaxy, forming a galactic territory. 
+
+- 'Dark Matter' is the territory within a galaxy 
+- 'Dark Energy' is the territory between galaxies and within clusters
+
+Stellar and Galactic lensing happens when light crosses boundaries of territories. This is the same refraction as light bending from water. This is because the aether and space-time has liquid properties. 
+
+<!-- Planets cannot lens because they are made of matter which has a solid, not liquid property.
+
+Accordingly, they could not find lensing in Jupiter.  -->
+
+The qosts compress the star just as it compresses the other vortices within the star's territory to create planets. 
+
+The next phase is the Creation of Life and Matter.
+
+

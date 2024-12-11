@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 13"
+heading: "Chapter 4"
 title: "Technologies from the Radiant Layer"
 # date: 2023-12-10
 image: "/photos/physics/phoenix.jpg"

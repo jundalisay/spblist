@@ -7,7 +7,7 @@ description: "The Geometry of Ideas leads to Shapes of Particles"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
+weight: 18
 icon: /icons/spmat.png
 ---
 

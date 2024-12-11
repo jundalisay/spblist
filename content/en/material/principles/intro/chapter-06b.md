@@ -1,127 +1,146 @@
 ---
-heading: Chapter 6b
-# used to be  "Chapter 5c"
-title: "The 4 Rules of True Motion"
-linkTitle: "4 Rules"
+heading: "Chapter 6b"
+title: "Gravitational Signatures"
 # date: 2022-01-03
-image: /graphics/physics/rule1.jpg
-description: "Rene Descartes gave 3 Rules of Movement in 'The World' which we combine with Spinoza"
-weight: 21
+image: /graphics/physics/gr.jpg
+description: "In Superphysics, electrons have a positive or masculine charge, while protons have a negative or feminine charge"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+weight: 24
 icon: /icons/spmat.png
+toc: false
 ---
 
 
 {{< dc t="Principles" >}}
 Principles | Assertions
 --- | ---
-The Law of Conservation of Idea in Physical Reality  | This leads to the Theory of Dynamism as the Rules of Movement
+The Law of Conservation of Idea in Physical Reality  | This manifests as Gravitational Signatures
 {{< /dc >}}
 
 
-The Rules of Motion in Superphysics implement the Law of Conservation of Momentum.
 
-<!-- come from Cartesian-Spinozan Physics. These are rules coming from the 
- -Energy-Mass, which we collectively call the Law of Conservation of Idea.  -->
+Gravitational Signatures show the configuration of substances and quanta that define how they interact with media or how the forces flow through them.  
 
-{{< youtube Higl9xtBSOM >}}
+### Gravitational Signatures
 
+Each identity has a gravitational signature which explains its purpose or use in Nature, working within the conservation laws.
 
-### Rule 1: No Void
+The more of the 5 Layers an object exists in, the more complex its signature. 
 
-**No body moves into the place of another body unless at the same time that other body moves into the place of another body.**
+For example, each Material Object has the following components for its gravitational signature.
 
-{{< i s="/graphics/physics/rule1.jpg" a="No Void" >}}
-
-
-This is based on the maxim that there is no Void in Nature. This means that every space in existence, whether physical or metaphysics, is filled up. 
-- In the physical domain, it is filled with virtual particles such as virtual photons
-
-This rule is the basis for:
-- Virtual particles filling "empty" space
-- Gravity pushing object down objects 
-
-{{< dc t="Note" >}}
-This is in Part 2, Proposition 7 of Spinoza's Principles of Cartesian Philosophy, and inferred from Principia, Part 2, Article 33
-{{< /dc >}}
+Layer | Location
+--- | ---
+Aethereal | Relative Purpose in Nature
+Spatial | Spacetime coordinates
+Radiant | Energy level
+Convertible | Ability for chemical reactions 
+Material | Persistence
 
 
-### Rule 2: State Continuity
-
-**Each identity remains as much as it can always in the same state. It is never changed except by external causes.**
-
-{{< i s="/graphics/physics/rule2.jpg" a="No Void" >}}
-
-This absorbs Newton's First Law of Classical Mechanics while making it consistent with Quantum Mechanics.
-
-This rule is the basis for:
-- Photons going continuously forward
-- Quantum superposition being predicatble by Cartesian Relativity 
-- Line spectra being emitted by electrons
 
 
-{{< dc t="Note" >}}
-This is in Part 2, Article 37 of Descartes' Principia Philosophia and Part 2, Proposition 14 of Spinoza's Principles of Cartesian Philosophy
-{{< /dc >}}
+The Law of Conservation of Idea of Superphysics states that everything in reality is an idea of the Supreme. 
+
+All such ideas:
+- pre-exist
+- cannot be created nor destroyed, and
+- are unique.
+
+This uniqueness means that each idea has its own properties as imbued by its Creator.
+
+These inherent properties are called its dharma or true nature. The inherent property of a unique idea or object is called *svadharma*.
+
+These ideas get deployed in the physical domain where they manifest as identities. For example:
+- a leaf is a separate identity from its tree
+- a rock is a separate identity from its mountain
+- a son is a separate identity from its parents and family  
+
+Each identity is unique. In Physics, this uniqeuness manifests as:
+- The Pauli Exclusion Principle for material particles
+- The fact that you do not go 'through' your chair and occupy the same space that it does 
+
+This uniqueness is denoted in reality by a metaphysical signature which determines:
+
+1. What Layer or physical body it exists as
+2. What potential motions it can do 
+
+Since motion is more striking to the mind, we call these as gravitational signatures or `G`. Each `G` when deployed in physical reality is known as the **monad** or qoa1. 
 
 
-### Rule 3: Straight or Circular
-
-**Every moving identity moves in a straight line when alone, and in a curve or a circle when moving with others. When in a circle, it moves away from the center.**
-
-{{< i s="/graphics/physics/rule3.jpg" a="Straight or Circular" >}}
-
-This is angular momentum and centrifugal force which is really straight-line motion confined.
-
-This rule is the basis for:
-- Gravity following the inverse square law
-- Planetary orbits and galaxy rotation curves
-
-{{< dc t="Note" >}}
-This is in Part 2, Article 39 of Descartes' Principia Philosophia and Part 2, Propositions 15-17 of Spinoza's Principles of Cartesian Philosophy
-{{< /dc >}}
+<!-- interaction between these identities creates movement  -->
 
 
-#### Rule 4: Collisions
+### The Gravitational Signature Determines What Layer the Identity Exists In
 
-When a weaker identity hits a stronger, it will be deflected. When a stronger hits a weaker, it will transfer some of its force to the weaker.
-
-{{< i s="/graphics/physics/rule4.jpg" a="Collisions" >}}
-
-<!-- **If a weak body moving in a straight line hits a stronger body, then the weak body will be deflected, retaining its motion but losing its direction. But if strong were moving and hits weak, the strong will move the weak with it. The strong will lose as much of its own motion as it gives to the weak.** -->
-
-{{< dc t="Note" >}}
-This is in Part 2, Article 40 of Descartes' Principia Philosophia and Part 2, Proposition 20 of Spinoza's Principles of Cartesian Philosophy
-{{< /dc >}}
+Since the universe is made up of waves and each wave is a representative of a layer or element, then the properties of that identity will reveal either:
+- the layer (subscript `l`) that it is in. This in turn will help reveal its gravitational signature `G` 
+- its gravitational signature `G`. This will help reveal what layer it is in
 
 
-This rule is the basis for:
-- Nuclear fission and fusion
-- Chemical reactions
-
-<!-- Every motion in itself is straight. Things which move together eventually move in a circular manner, always tending to move away from the center of the circle which they describe. -->
-
-<!-- This matches Newton's Third Law. -->
+{{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
 
 
-<!-- The Law of Conservation of Idea of Superphysics leads to the idea of unique gravitational signatures in each identity which must be maintained. The interaction of these signatures leads to the movement of each identity as it is attracted or combined or is repulsed or evicted by other identities. 
+<!-- The resulting energy can be used to reveal the G just as the G can be used to reveal the potential energy of the identity. 
 
-The principles of the resulting movements can be summarized into three rules, as explained by Rene Descartes. Instead of Newton's Laws, we use Descartes' Rules as they are consistent not only with Classical and Quantum Mechanics, but also with the Biology, Medicine, Sociology, Economics, and other sciences.     -->
+This `G` is the "gravitational signature" and is really supposed to be `D` as dharma or `T` as tao or True Nature of Socrates. But that would turn away Westerners who have a distaste for non-Western ideas (which is a no-no if we are to unify the human species and put everyone, East and West, 'on the same page'). 
 
+So we can stick with `G` as invented by the British Newton. 
+- Like Newton, Socrates would think that this `G` is inherent to the body as what "objects carry in them"
+- But unlike Newton who believed that `G` came from a material mass, the Socratic `G` comes from a metaphysical "true nature" which the Hindus call Dharma. 
 
-<!-- This leads to angular momentum and the path integrals of Quantum Mechanics.
-
-![rule 3](/covers/rule3.jpg)
-
-Newton was unable to think of probabilistic paths because he ascribed the cause of movement to matter. This led him to believe that gravity was a pulling force which did not necessitate different paths.
-
-In reality, gravity is pushing force from the invisible aether that directs things towards mass.
-
-Rule 3 is important because, when combined with Rule 1, it has Poincare's Law of Relativity baked in, which we call as Aethereal Relationality. This is to avoid the word 'Relativity' in search engines.  
-
-Rule 3 leads to gravitational lensing and wave-particle duality. This also removes the need for Einstein's fabric, tensors, and `c`. It restores gravity as a force and demotes spacetime as an illusory effect of gravitation instead of being its cause. -->
+In this way, the Socratic `G` still ends up as `D` if the thinking person chases it down. You could even say that `G` is the metaphysical DNA of everything in existence that dictates what movements it can do, and actually manifests as the DNA in physical living cells.
+ -->
 
 
-<!-- Superhysics uses the 3 Rules of Movement from Descartes instead of the Law of Motion from Isaac Newton. This is because Newton's laws are already included in the Rules of Descartes.   -->
+### The Gravitational Signature is the Foundation of an Identity's Nature or its Motion
+
+
+Aside from determining the Layer, a gravitational signature also determines the range of motions that arise from the attraction or repulsion by its affinity or difference with the other signatures, whether they are from objects, entities, or minds within the same layer.
+
+{{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
+
+Lower layers are affected by higher layers, but higher layers are unaffected by the lower. For example, light is affected by gravity, but gravity is not affected by light.
+
+
+Layer | Motion Carriers (media)
+--- | ---
+Aethereal | Monad
+Spacetime | Timespace
+Radiant | Virtual Photons
+Convertible | W Bosons 
+
+
+<!-- Layer | Positive or Attraction | Negative or Repulsion 
+--- | --- | ---
+Aethereal | Attraction of related ideas and minds | Replusion of opposing ones
+Spatial | Attraction to massive objects (vortices) | Repulsion to immaterial objects (non-vortices)
+Radiant | Attraction of opposite charges | Repulsion of like charges
+Convertible | Noninteraction that leads to nondecay | Interaction that decays the particle
+Material | Gluons that form matter | Particle collisions that destroy that matter and convert them to spacetime) -->
+ <!-- through the Law of Conservation of Idea -->
+
+
+
+Knowing the `G` and the layer can also reveal what kind of particle it is. For example, the antimatter are created by the free aether aiming to upgrade matter.
+
+Layer | Antiparticle
+--- | ---
+Radiant | positron :: -a(r)
+Convertible | antineutrino :: -a(c)
+Material | antihydrogen :: -a(H)
+
+
+{{< img alt="Korean BTS quantum physics" src="https://sorasystem.sirv.com/photos/btsband.jpg" cap="Gravitational signatures explain why some people are attracted and gravitate towards KPop while others are repulsed by them. In theory, this means that peace and harmony can be achieved granularly by knowing the Gravitational signatures of everyone in order to reduce the repulsion of minds, and generally by imposing higher-layer ideas like virtue (this virtue-based socio-political system is then the job of Social Superphysics)" >}}
+
+<!-- ## Leads to Technologies 
+
+In Material Superphysics, gravitational signatures lead to technology-solutions, just as they lead to social solutions in Social Superphysics and medical solutions in Bio Superhysics:
+
+- Fusion is solved by knowing the gravitational signature of hydrogen
+- Levitation is solved by knowing the gravitational signature of the object
+- Teleportation is solved by estimating the gravitational signature of the object at the other location 
+- Time travel is solved by the same estimation but with the additional factor of the object's past. This is why time travel to the past will be easier than a travel to the future. 
+ -->

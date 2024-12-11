@@ -20,6 +20,8 @@ image: "/photos/med/diabetes.jpg"
 
 ![Diabetes](/photos/med/diabetes.jpg)
 
+{{< n n="Type 1 is when the body cannot produce insulin. Type 2 is when the body cannot use insulin. This is the most common" >}}
+
 
 ## Causes
 
@@ -33,10 +35,17 @@ Chronic indigestion, constipation (here also the stool usually turns into pellet
 
 As a result, the blood gets polluted and loses its immune properties to a great extent. The natural reaction of the body in such a situation is to try to purify the blood by separating out its sugar content and expelling it with the urine. To dissolve the sugar, the human body needs plenty of water, and that is why diabetes patients suffer from a continuous thirst. Sugar emitted with the urine in a large quantity gradually reduces the vital energy of diabetes patients.
 
-<!-- ## Treatment
+## Asanas
 
-Morning – Utkśepa Mudrá, Karmásana, Agnisára Mudrá, Upaviśt́a Ud́d́ayana Mudrá, Jánushirásana and Ágneyii Mudrá or Ágneyii Práńáyáma.
-Evening – Yogamudrá, Diirgha Prańáma, Bhújauṋgásana, Pashcimottánásana, Bhastrikásana and Agnisára Mudrá. -->
+Morning | Evening
+--- | ---
+Utkśepa Mudrá | Yogamudrá
+Karmásana Action | Diirgha Prańáma long-greeting
+Agnisára Mudrá (Navel) |  Bhújauṋgásana cobra
+Upaviśt́a Ud́d́ayana Mudrá | Pashcimottánásana Back-Forward 
+Jánushirásana | Bhastrikásana bellows
+Ágneyii Mudrá or Ágneyii Práńáyáma | Agnisára Mudrá (Navel)
+
 
 ## Diet
 

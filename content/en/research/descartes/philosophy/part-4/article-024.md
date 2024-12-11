@@ -33,6 +33,8 @@ Subtracting these from both sides, the remaining air-aether in this physical air
 {{< b >}}
 **Superphysics Note**
 
+0.00000000006674 m3 kg-1 s-2
+
 In Newtonian Physics, gravity is dependent on object's mass which is then measured by acceleration on Earth.
 
 But in Cartesian Physics, the gravity (and movement in general) is dependent on the ratio of spacetime particles to each other. A massive object has far less spacetime. This means spacetime is pushing around it from all sides, causing it to be harder to move. 

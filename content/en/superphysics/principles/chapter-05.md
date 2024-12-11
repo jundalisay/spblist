@@ -49,6 +49,17 @@ This law explains the principles in various sciences, such as:
 - A territory having only one state in Politics
 
 
+{{< box >}}
+### Why Must Identities Be Unique?
+
+Chapter 3 explained that Existence-Consciousness is really 1 unit entity called the Supreme Entity. As a single unit, it means that all its parts affect all its other parts. 
+
+Having a duplicate part will create an imperfection or excess in the unit, just as 1.0000001 is an imperfection of 1. 
+
+Therefore, everything is unique so that 1 stays as 1.  
+{{< /box >}}
+
+
 ## Uniqueness Leads to All Movement in Existence
 
 This property of uniqueness creates all of the dynamism in both physical and metaphysical domains. This dynamism is what we call change, movement, and evolution.

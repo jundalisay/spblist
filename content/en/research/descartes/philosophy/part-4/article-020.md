@@ -33,7 +33,7 @@ This phenomenon is the gravity of terrestrial bodies.
 <!-- , by their own motion alone, carries them -->
 - This makes them uniformly press all particles of the Earth towards its center, making the Earth round.
 - This pressing motion is impeded by the resistance of the Earth's mass. 
-  - This in turn pushes all the Earth's parts towards the center.
+  - This in turn pushes all the Earth's particles towards the center.
 
 
 #### 21. All earth-aether particles, if considered alone, are light, not heavy
@@ -51,7 +51,7 @@ If we imagine that:
 - the Earth rotates around its axis with its own motion
 
 Then:
-- all the Earth's parts which not very firmly connected to each other would leap towards the sky from time to time
+- all the Earth's particles which not very firmly connected to each other would leap towards the sky from time to time
   - This is the same as how sand thrown in a whirlwind immediately disperses in all directions.
 - the Earth would be considered light, not heavy.
 

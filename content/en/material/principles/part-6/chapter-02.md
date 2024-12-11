@@ -1,34 +1,26 @@
 ---
-heading: Chapter 2
-title: "Techniques from Material Superphysics"
-# date: 2020-01-27
-image: /graphics/physics/bob.jpg
-description: "Material Superphysics will lead to so many new techniques"
-weight: 2
+heading: "Chapter 2"
+title: "Technologies from The Aethereal Layer"
+# date: 2020-01-31
+image: "/photos/tech/ai.jpg"
+description: "The practical use of qoas is to enable artificial sentience"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
-toc: false
+weight: 10
+icon: /icons/spmat.pn
 ---
 
 
 
-## Cartesian Relationality: Animal Spirits and Organic Levitation Hypothesis
+### Antimatter through the free aether
 
-{{< youtube _Puf9huY-NI >}}
+Crude aether or the lower qoa is the key to antimatter. 
 
 
-In the Treatise on Man, Daycart gave the mechanics on animal spirits, called chi in Taoism, and prana in Hinduism. 
 
-We connect to his vortex theory and relationality to explain organic levitation.
+### Artificial Natural Intelligence
 
-- M is the chosen vortex.
-- H is the height from the ground.
-- g is the force of gravity on the vortex.
+The main technology developed from qoas is [artificial sentience](/superphysics/principles/chapter-07e). 
 
-Assume the woman uses the base chakra to levitate. This leads to a height of around 20 centimeters.
-
-The use of the upper chakras leads to more height.   
-<!-- https://youtu.be/_Puf9huY-NI -->
-
+<!-- Currently,  -->

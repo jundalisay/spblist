@@ -1,3 +1,17 @@
+---
+title: "Newton Versus Descartes "
+date: 2024-11-23
+weight: 2
+image: /covers/newton.jpg
+description: "In 1644, Descartes established a complete theory of gravity, saying that objects revolve around the sun at varying speeds based on their location or distance from the center vortex, represented by the sun"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+icon: /icons/sp.png
+toc: false
+---
+
+
 In 1644, Descartes established a complete theory of gravity, saying that objects revolve around the sun at varying speeds based on their location or distance from the center vortex, represented by the sun. 
 
 The closest planets like Mercury revolved fast.

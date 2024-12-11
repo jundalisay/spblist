@@ -7,18 +7,22 @@ description: "Each identity has a gravitational signature which explains its pur
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 19
+weight: 22
 icon: /icons/spmat.png
 ---
 
 
 ### The Conservation Laws
 
-Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe:
+Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe because:
+- our universe is really one Supreme Entity, as a single unit
+- a change in one aspect or part affects the whole  
+
+This leads to 5 Conservation Laws, 1 for each Layer.
 
 Layer | Conservation Law
 --- | ---
-Aethereal | Idea
+Aethereal | Identity
 Spatial | Momentum
 Radiant | Energy 
 Convertible | Aether 
@@ -26,8 +30,12 @@ Material | Mass
 
 {{< i s="/graphics/physics/layers.png" a="Conservation Laws" >}}
 
+Each law has its implementing rules which will be discussed in each Part for each layer. 
 
-#### The Law of Conservation of Idea
+
+#### The Law of Conservation of Identity
+
+This is the Material Superphysics version of the Law of Conservation of Idea of Superphysics.
 
 This operates in the aethereal layer and is the foundation of the gravitational signature which this law says must be unique. 
 
@@ -60,20 +68,4 @@ It is the wetness of water and liquids that allows both:
 This operates in the material layer and is already well known in Physics. Matter is facilitated by the static aetherspace and is the most crudified version of the aether. 
 
 
-
-### Gravitational Signatures
-
-Each identity has a gravitational signature which explains its purpose or use in Nature, working within the conservation laws.
-
-The more of the 5 Layers an object exists in, the more complex its signature. 
-
-For example, each Material Object has the following components for its gravitational signature.
-
-Layer | Location
---- | ---
-Aethereal | Relative Purpose in Nature
-Spatial | Spacetime coordinates
-Radiant | Energy level
-Convertible | Ability for chemical reactions 
-Material | Persistence
 

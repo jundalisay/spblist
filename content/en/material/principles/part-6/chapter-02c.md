@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 13c"
+heading: "Chapter 2c"
 title: "Cheaper Way to Produce Antimatter"
 # date: 2024-08-01
 image: /photos/physics/neutronstar.jpg
@@ -10,8 +10,6 @@ writer:
 weight: 500
 icon: /icons/spmat.png
 toc: false
-aliases:
-  /material/principles/part-1/chapter-13c
 ---
 
 

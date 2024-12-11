@@ -12,6 +12,16 @@ icon: /icons/spmat.png
 ---
 
 
+Superphysics was created because of the defiencies in the materialist or limited sciences such as Economics, Sociology, Medicine, etc. 
+
+Material Superphysics was created specifically to fix the deficiencies in the physical sciences such as Physics and Chemistry. 
+
+The biggest error in Physics is the Theory of Relativity by Einstein. This is similar to the Marginal Revolution error of Modern Economics that has caused so many problems in society. 
+
+Relativity has held back Physics since the 1900s by misdirecting research efforts towards uselessness.  
+
+
+
 ### The History of the Aether Idea
 
 Relativity has its roots with the Luminiferous Aether idea of Augustin Fresnel who presented his wave theory in 1816.

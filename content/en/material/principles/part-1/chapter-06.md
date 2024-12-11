@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 6"
-title: "Perception: Why Time Moves Forward"
+title: "The Conservation of Idea or Identity"
 # date: 2024-08-01
 weight: 44
 image: /photos/meta/kindness.jpg
@@ -12,14 +12,10 @@ writer:
 ---
 
 
-{{< youtube OW5-dcrqM1I >}}
+Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe.
 
+The Conservation Law for the Aethereal Layer is the Conservation of Idea which we can rename as the Conservation of Identity. 
 
-The main purpose of the aethereal layer is to facilitate perception. 
-
-Perception happens when consciousness goes out of itself. This outward movement is a forward action and is why time moves forward. 
-
-A consciousness that moves back will be deleting its own mind its its own ideas and feelings. 
-
+The Pauli Exclusion Principle for material particles is one of the manifestations of this law.
 
 

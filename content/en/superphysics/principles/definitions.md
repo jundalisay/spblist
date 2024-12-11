@@ -86,6 +86,8 @@ Begging the Question | Circular Answer
 Corollary | A resulting statement that directly follows from a theorem
 Definition | A statement that gives the properties of a new idea
 False Dichotomy | Fake Dilemma
+Intellect | The ability to use combine and harmonize multiple reasonings of cause and effect together
+Intelligent |  Having intellect
 Lemma | A resultant statement proven true, used to prove another, more important theorem
 Logic | The connection of ideas within spacetime. Ibn-khaldun: intellectual speculation to distinguish between true and false
 Mathematics | The use quantities with logic 
@@ -94,13 +96,14 @@ Occam's Razor | Deleting superfluous ideas in reasoning. Also, Cutting to the Ch
 Physical Truth | the equality of physical perceptions
 Postulate | An axiom with a specific scope
 Proposition | A statement that can be either true or false
-Reason | The ability to use logic to explain cause and effect in general. 
-Reasoning | The use logic to explain cause and effect in general. 
+Reason | The ability to use logic to explain cause and effect in general
+Reasoning | The use logic to explain cause and effect in general
 Red Herring | Misdirection of reason
 Relative Truth | the equality of perceptions that is dependent on spacetime
 Straw Man | Specific misdirection of reason
 Theorem | A resultant statement proven true through other statements
 Truth | the equality of perceptions from different perceiving identitites
+Wisdom | An intellect that is in line with the dharma of the causes and effects in question
 
 <!-- , including axioms, definitions, and previously proven theorems. It represents a significant result derived from the system's foundations. -->
 

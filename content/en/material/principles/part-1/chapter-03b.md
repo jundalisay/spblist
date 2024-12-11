@@ -19,44 +19,62 @@ Reality is made up of waves | Waves are either a flow or an identity
 
 
 
-
-Superphysics is based on waves because the universe is made up of waves.
+Material Superphysics is based on waves because the universe is made up of waves.
 
 A wave can be seen either:
-- as a flow or
-- as an identity
+- as a flow, as the 2nd Aethereal Sublayer or
+- as an identity, as the 3rd Aethereal Sublayer
 
-As a flow, we call it energy which can manifest as:
+As a flow, we call it energy. However, to keep the proper demarcation between the physical and metaphysical domains, we all energy in the aethereal layer as "effort".  
+
+{{< i s="/graphics/super/egl.jpg" a="Effort" c="We call aethereal energy as Effort" >}}
+
+<!--  which can manifest as:
 - heat
 - light
 - sound
-- feelings, etc. 
+- feelings, etc.  -->
 
 
-Energy has 4 Laws based on its flow. 
+Energy has 4 Laws based on its flow. This now manifests as the 4 Laws of Thermodynamics. Supersociology and Supereconomics use the same principle:
+
+<!-- to plot the cycles of society -->
+
+Thermodynamics Law | Supersociology/economics Law | Meaning
+--- | --- | ---
+3rd Law | 1st Law | The wave has a base
+1st Law | 2nd Law | The wave maintains its wave-ness instead of fizzling out. This leads to our perceptions (and matter) persisting instead of vanishing instantly
+0th Law | 3rd Law (zero energy) | The wave having regular wavelengths instead of random ones. This is consistent with the previous law
+2nd Law (entropy) | 4th Law | The wave going forward. This creates the concept of linear time or perceptions coming at a sequence
+
 
 {{< i s="/graphics/physics/waveflow.jpg" a="Flow" >}}
 
 
-Property | Thermodynamics | Supersociology | Supereconomics 
+<!-- Property | Thermodynamics | Supersociology | Supereconomics 
 --- | --- | --- | ---
 Continuity or Balance | 0th law | Thinker | 3rd Law 
 Conservation | 1st law | Warrior | 2nd Law
-Spread | 2nd law (entropy) | Traders | 4th Law
-Measure or Range | 3rd law (zero energy) | Worker | 1st Law
+Spread | 2nd law  | Traders | 4th Law
+Measure or Range | 3rd law  | Worker | 1st Law -->
+
+
+
+
 
 
 {{< youtube eEGJY4F6QKw >}}
 
 
-- The 3rd law of thermodynamics (1st law to Superphysics) is the wave having a base.
-- The 1st law of thermodynamics (2nd law to Superphysics) is the wave maintaining its wave-ness instead of fizzling out. This leads to our perceptions (and matter) persisting instead of vanishing instantly
-- The 0th law of thermodynamics (3rd law to Superphysics) is the wave having regular wavelengths instead of random. This is consistent with the previous law. 
-- The 2nd law of thermodynamics (4th law to Superphysics) is the wave going forward. This creates the concept of linear time or perceptions coming at a sequence. 
 
-While the 2nd and 1st law of thermodynamics refer to the external aspects of the wave, the 3rd and 0th laws refer to the internal aspects. 
 
-In Superphysics, the internals are the cause of the externals and so the internals are more important. In Social Superphysics, this is why the Intellectual (Thinking) and Working classes are more important than the Business (Trading) and Warrior Classes.
+
+- The 2nd and 1st law of thermodynamics refer to the external aspects of the wave
+- The 3rd and 0th laws refer to the internal aspects
+
+In Superphysics, the internals are the cause of the externals and so the internals are more important.
+
+In Social Superphysics, this is why the Intellectual (Thinking) and Working classes are more important than the Business (Trading) and Warrior Classes.
 
 
 ### Waves as Sound The Octave vs the Pentatonic Scale
