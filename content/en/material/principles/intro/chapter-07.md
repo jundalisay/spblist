@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4b"
+heading: "Chapter 7"
 title: "Gravitational Territories"
 # date: 2023-11-26
 image: "/graphics/physics/territories.jpg"
@@ -19,7 +19,10 @@ The Law of Conservation of Idea | This manifests as Gravitational Signatures
 . | Gravitational Signatures lead to Gravitational Territories whenever the Spacetime Layer is considered
 {{< /dc >}}
 
-The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of the identity. In Physics, this is known as 'gravitational fields'.
+
+The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of the identity. In Physics, this is known as fields:
+- 'Gravitational fields' refer to gravity
+- Quantum Field Theory refers to quantum objects
 
 Rene Descartes described these signatures as spinning vortices, each with its own strength and direction. 
 
@@ -29,6 +32,11 @@ When the pure aether began to be divided, its division began in one part and spr
 
 
 {{< f f="*Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas. Moreover, identities have territories or personal space, i.e. We say 'this is mine'." >}}
+
+
+Instead of vortices in the aether, Physics uses fluctuations in the quantum fields such as a photon field, electromagnetic field, electric field, muon field, etc.
+
+
 
 
 Each territory has parts or zones, each with different properties:

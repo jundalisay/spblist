@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 6"
-title: "The Conservation Laws and the Gravitational Signature"
+title: "The Conservation Laws"
 # date: 2024-01-02
 image: "/photos/physics/elec.jpg"
 description: "Each identity has a gravitational signature which explains its purpose or use in Nature"

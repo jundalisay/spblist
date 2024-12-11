@@ -73,6 +73,7 @@ For example, imagine that there are currently numerous vapors at the point in th
 
 Simultaneously, there are others at `G`, condensing and converting into water or snow, leaving most of the space they previously occupied.
 
+{{< i s="/graphics/physics/air.jpg" a="Air masses" >}}
 
 Those vapors towards `F` will move towards `G`, thus forming a wind that blows in that direction. 
 

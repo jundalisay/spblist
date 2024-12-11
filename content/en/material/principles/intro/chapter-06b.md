@@ -13,23 +13,32 @@ toc: false
 ---
 
 
-{{< dc t="Principles" >}}
+<!-- {{< dc t="Principles" >}}
 Principles | Assertions
 --- | ---
 The Law of Conservation of Idea in Physical Reality  | This manifests as Gravitational Signatures
-{{< /dc >}}
+{{< /dc >}} -->
 
 
+Chapter 4 explained that energy and force comes from the media of the 5 layers that transfer to the substances or particles in existence. 
 
-Gravitational Signatures show the configuration of substances and quanta that define how they interact with media or how the forces flow through them.  
+The amount of energy that can course through the susbtance depends on the inherent configuration of that substance. We call this the gravitational signature, notated as `G`.
 
-### Gravitational Signatures
+{{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
 
-Each identity has a gravitational signature which explains its purpose or use in Nature, working within the conservation laws.
+Historically, this has been called:
+- dharma (for general things)
+- svadharma (for specific things)
+
+It defines how things interact, not only with media and forces, but also with other substances and particles, and the rest of existence. 
+
+  <!-- or how the forces flow through them.   -->
+
+The gravitational signature also explains the purpose or use of a substance or thing in Nature, working within the conservation laws.
 
 The more of the 5 Layers an object exists in, the more complex its signature. 
 
-For example, each Material Object has the following components for its gravitational signature.
+For example, each existing thing has the following components for its gravitational signature.
 
 Layer | Location
 --- | ---
@@ -41,8 +50,7 @@ Material | Persistence
 
 
 
-
-The Law of Conservation of Idea of Superphysics states that everything in reality is an idea of the Supreme. 
+<!-- The Law of Conservation of Idea of Superphysics states that everything in reality is an idea of the Supreme. 
 
 All such ideas:
 - pre-exist
@@ -67,7 +75,7 @@ This uniqueness is denoted in reality by a metaphysical signature which determin
 1. What Layer or physical body it exists as
 2. What potential motions it can do 
 
-Since motion is more striking to the mind, we call these as gravitational signatures or `G`. Each `G` when deployed in physical reality is known as the **monad** or qoa1. 
+Since motion is more striking to the mind, we call these as gravitational signatures or `G`. Each `G` when deployed in physical reality is known as the **monad** or qoa1. -->
 
 
 <!-- interaction between these identities creates movement  -->
@@ -95,12 +103,10 @@ In this way, the Socratic `G` still ends up as `D` if the thinking person chases
  -->
 
 
-### The Gravitational Signature is the Foundation of an Identity's Nature or its Motion
+<!-- ### The Gravitational Signature is the Foundation of an Identity's Nature or its Motion
 
 
 Aside from determining the Layer, a gravitational signature also determines the range of motions that arise from the attraction or repulsion by its affinity or difference with the other signatures, whether they are from objects, entities, or minds within the same layer.
-
-{{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
 
 Lower layers are affected by higher layers, but higher layers are unaffected by the lower. For example, light is affected by gravity, but gravity is not affected by light.
 
@@ -111,7 +117,7 @@ Aethereal | Monad
 Spacetime | Timespace
 Radiant | Virtual Photons
 Convertible | W Bosons 
-
+ -->
 
 <!-- Layer | Positive or Attraction | Negative or Repulsion 
 --- | --- | ---
@@ -124,7 +130,7 @@ Material | Gluons that form matter | Particle collisions that destroy that matte
 
 
 
-Knowing the `G` and the layer can also reveal what kind of particle it is. For example, the antimatter are created by the free aether aiming to upgrade matter.
+<!-- Knowing the `G` and the layer can also reveal what kind of particle it is. For example, the antimatter are created by the free aether aiming to upgrade matter.
 
 Layer | Antiparticle
 --- | ---
@@ -133,9 +139,9 @@ Convertible | antineutrino :: -a(c)
 Material | antihydrogen :: -a(H)
 
 
-{{< img alt="Korean BTS quantum physics" src="https://sorasystem.sirv.com/photos/btsband.jpg" cap="Gravitational signatures explain why some people are attracted and gravitate towards KPop while others are repulsed by them. In theory, this means that peace and harmony can be achieved granularly by knowing the Gravitational signatures of everyone in order to reduce the repulsion of minds, and generally by imposing higher-layer ideas like virtue (this virtue-based socio-political system is then the job of Social Superphysics)" >}}
+{{< img alt="Korean BTS quantum physics" src="https://sorasystem.sirv.com/photos/btsband.jpg" cap="Gravitational signatures explain why some people are attracted and gravitate towards KPop while others are repulsed by them. In theory, this means that peace and harmony can be achieved granularly by knowing the Gravitational signatures of everyone in order to reduce the repulsion of minds, and generally by imposing higher-layer ideas like virtue (this virtue-based socio-political system is then the job of Social Superphysics)" >}} -->
 
-<!-- ## Leads to Technologies 
+## Leads to Technologies 
 
 In Material Superphysics, gravitational signatures lead to technology-solutions, just as they lead to social solutions in Social Superphysics and medical solutions in Bio Superhysics:
 
@@ -143,4 +149,3 @@ In Material Superphysics, gravitational signatures lead to technology-solutions,
 - Levitation is solved by knowing the gravitational signature of the object
 - Teleportation is solved by estimating the gravitational signature of the object at the other location 
 - Time travel is solved by the same estimation but with the additional factor of the object's past. This is why time travel to the past will be easier than a travel to the future. 
- -->

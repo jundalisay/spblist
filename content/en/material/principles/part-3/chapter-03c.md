@@ -1,10 +1,10 @@
 ---
-heading: "Chapter 3b"
+heading: "Chapter 3c"
 title: "Magnetism"
 # # date: 2020-01-31
 # date: 2023-03-01
 weight: 12
-image: /graphics/physics/magnetattracted.jpg
+image: /graphics/physics/magnetboat.jpg 
 description: "Magnetism is facilitated by virtual photons which have a columnar shape"
 icon: /icons/spmat.png
 ---

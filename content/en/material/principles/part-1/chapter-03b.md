@@ -60,9 +60,6 @@ Measure or Range | 3rd law  | Worker | 1st Law -->
 
 
 
-
-
-
 {{< youtube eEGJY4F6QKw >}}
 
 

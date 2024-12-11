@@ -11,9 +11,11 @@ Feynman diagrams enormously helped physicists in visualizing and calculating the
 
 But they did not cure one important ailment suffered by the theory: When you add the contributions from the infinite number of different histories, you get an infinite result.
 
-If the successive terms in an infinite sum decrease fast enough, it is possible for the sum to be finite, but that, unfortunately, doesn’t happen here.
+If the successive terms in an infinite sum decrease fast enough, it is possible for the sum to be finite. But that, unfortunately, doesn’t happen here.
 
-In particular, when the Feynman diagrams are added up, the answer seems to imply that the electron has an infinite mass and charge. This is absurd, because we can measure the mass and charge and they are finite. 
+When the Feynman diagrams are added up, the answer implies that the electron has an infinite mass and charge. This is absurd because, in reality, they are finite. 
+
+ <!-- we can measure the mass and charge and -->
 
 To deal with these infinities, a procedure called renormalization was developed. 
 

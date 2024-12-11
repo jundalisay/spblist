@@ -24,47 +24,98 @@ We shall retain those which are inversely proportional to `r` or `r2`.
 
 But we shall neglect all terms varying inversely as the higher powers of `r`. 
 
-The influence of these, compared with that of the first mentioned terms will be of the order λ r {\displaystyle {\tfrac {\lambda }{r}}} {\displaystyle {\tfrac {\lambda }{r}}} , if λ {\displaystyle \lambda } \lambda is the wave-length, and we shall suppose this to be a very small fraction.
+The influence of these, compared with that of the first mentioned terms will be of the order λ r 
 
-We shall also omit all terms containing such factors as cos ⁡   2 π k r λ {\displaystyle \cos \ 2\pi k{\tfrac {r}{\lambda }}} {\displaystyle \cos \ 2\pi k{\tfrac {r}{\lambda }}} or sin ⁡   2 π k r λ {\displaystyle \sin \ 2\pi k{\tfrac {r}{\lambda }}} {\displaystyle \sin \ 2\pi k{\tfrac {r}{\lambda }}} (k a moderate number). These reverse their signs by a very small change in r; they will therefore disappear from the resultant force, as soon as, instead of single particles P and Q, we come to consider systems of particles with dimensions many times greater than the wave-length.
+<!-- {\displaystyle {\tfrac {\lambda }{r}}} {\displaystyle {\tfrac {\lambda }{r}}} , if λ {\displaystyle \lambda } \lambda  -->
 
-In applying the above formulae to the ion P, it is sufficient, to take for d {\displaystyle {\mathfrak {d}}} {\displaystyle {\mathfrak {d}}} and H {\displaystyle {\mathfrak {H}}} {\displaystyle {\mathfrak {H}}} the vectors that would exist if P were removed from the field. In each of these vectors two parts are to be distinguished. We shall denote by d 1 {\displaystyle {\mathfrak {d}}_{1}} {\displaystyle {\mathfrak {d}}_{1}} and H 1 {\displaystyle {\mathfrak {H}}_{1}} {\displaystyle {\mathfrak {H}}_{1}} the parts existing independently of Q, and by d 2 {\displaystyle {\mathfrak {d}}_{2}} {\displaystyle {\mathfrak {d}}_{2}} and H 2 {\displaystyle {\mathfrak {H}}_{2}} {\displaystyle {\mathfrak {H}}_{2}} the parts due to the vibrations of this ion.
+is the wave-length. This is a very small fraction.
+
+We shall also omit all terms containing such factors as 
+
+<!-- cos ⁡   2 π k r λ {\displaystyle \cos \ 2\pi k{\tfrac {r}{\lambda }}} {\displaystyle \cos \ 2\pi k{\tfrac {r}{\lambda }}} or sin ⁡   2 π k r λ {\displaystyle \sin \ 2\pi k{\tfrac {r}{\lambda }}} {\displaystyle \sin \ 2\pi k{\tfrac {r}{\lambda }}} (k a moderate number).  -->
+
+These reverse their signs by a very small change in r. They will therefore disappear from the resultant force, as soon as, instead of single particles P and Q, we come to consider systems of particles with dimensions many times greater than the wave-length.
+
+In applying the above formulae to the ion P, it is sufficient, to take for 
+
+<!-- d {\displaystyle {\mathfrak {d}}} {\displaystyle {\mathfrak {d}}} and H {\displaystyle {\mathfrak {H}}} {\displaystyle {\mathfrak {H}}}  -->
+...
+
+the vectors that would exist if P were removed from the field. In each of these vectors two parts are to be distinguished. We shall denote by 
+
+<!-- d 1 {\displaystyle {\mathfrak {d}}_{1}} {\displaystyle {\mathfrak {d}}_{1}} and H 1 {\displaystyle {\mathfrak {H}}_{1}} {\displaystyle {\mathfrak {H}}_{1}}  -->
+
+...
+
+the parts existing independently of Q, and by 
+
+<!-- d 2 {\displaystyle {\mathfrak {d}}_{2}} {\displaystyle {\mathfrak {d}}_{2}} and H 2 {\displaystyle {\mathfrak {H}}_{2}} {\displaystyle {\mathfrak {H}}_{2}}  -->
+
+...
+
+the parts due to the vibrations of this ion.
 
 Let `Q` be taken as origin of coordinates, QP as axis of x, and let us begin with the terms in (2) having the coefficient `a`.
 
 To these corresponds a force on P, whose first component is:
 
-4 π V 2 e 2 a ( d x ∂ d x ∂ x + d y ∂ d x ∂ y + d z ∂ d x ∂ z ) + e 2 a ( d ˙ y H z − d ˙ z H y ) {\displaystyle 4\pi  (5)
+<!-- 4 π V 2 e 2 a ( d x ∂ d x ∂ x + d y ∂ d x ∂ y + d z ∂ d x ∂ z ) + e 2 a ( d ˙ y H z − d ˙ z H y ) {\displaystyle 4\pi  (5) -->
 
 Since we have only to deal with the mean values for a full period, we may write for the last term
 
-− e 2 a ( d y H ˙ z − d z H ˙ y ) {\displaystyle -e^{2}a\left({\mathfrak {d}}_{y}{\mathfrak {\dot {H}}}_{z}-{\mathfrak {d}}{}_{z}{\mathfrak {\dot {H}}}_{y}\right)} {\displaystyle -e^{2}a\left({\mathfrak {d}}_{y}{\mathfrak {\dot {H}}}_{z}-{\mathfrak {d}}{}_{z}{\mathfrak {\dot {H}}}_{y}\right)},
+<!-- − e 2 a ( d y H ˙ z − d z H ˙ y ) {\displaystyle -e^{2}a\left({\mathfrak {d}}_{y}{\mathfrak {\dot {H}}}_{z}-{\mathfrak {d}}{}_{z}{\mathfrak {\dot {H}}}_{y}\right)} {\displaystyle -e^{2}a\left({\mathfrak {d}}_{y}{\mathfrak {\dot {H}}}_{z}-{\mathfrak {d}}{}_{z}{\mathfrak {\dot {H}}}_{y}\right)}, -->
 
-and if, in this expression, H ˙ y {\displaystyle {\mathfrak {\dot {H}}}_{y}} {\displaystyle {\mathfrak {\dot {H}}}_{y}} and H ˙ z {\displaystyle {\mathfrak {\dot {H}}}_{z}} {\displaystyle {\mathfrak {\dot {H}}}_{z}} be replaced by
+and if, in this expression,
 
+<!-- H ˙ y {\displaystyle {\mathfrak {\dot {H}}}_{y}} {\displaystyle {\mathfrak {\dot {H}}}_{y}} and H ˙ z {\displaystyle {\mathfrak {\dot {H}}}_{z}} {\displaystyle {\mathfrak {\dot {H}}}_{z}}  -->
+
+be replaced by
 
 (5) becomes
-2 π V 2 e 2 a ∂ ( b 2 ) ∂ x {\displaystyle 2\pi V^{2}e^{2}a{\frac {\partial \left({\mathfrak {b^{2}}}\right)}{\partial x}}} {\displaystyle 2\pi V^{2}e^{2}a{\frac {\partial \left({\mathfrak {b^{2}}}\right)}{\partial x}}}, 	(6)
+
+<!-- 2 π V 2 e 2 a ∂ ( b 2 ) ∂ x {\displaystyle 2\pi V^{2}e^{2}a{\frac {\partial \left({\mathfrak {b^{2}}}\right)}{\partial x}}} {\displaystyle 2\pi V^{2}e^{2}a{\frac {\partial \left({\mathfrak {b^{2}}}\right)}{\partial x}}}, 	(6) -->
 
 where d {\displaystyle {\mathfrak {d}}} {\displaystyle {\mathfrak {d}}} is the numerical value of the dielectric displacement.
 
-Now, d 2 {\displaystyle {\mathfrak {d}}^{2}} {\displaystyle {\mathfrak {d}}^{2}} will consist of three parts, the first being d 1 2 {\displaystyle {\mathfrak {d}}_{1}^{2}} {\displaystyle {\mathfrak {d}}_{1}^{2}}, the second d 2 2 {\displaystyle {\mathfrak {d}}_{2}^{2}} {\displaystyle {\mathfrak {d}}_{2}^{2}} and the third depending on the combination of d 1 {\displaystyle {\mathfrak {d}}_{1}} {\displaystyle {\mathfrak {d}}_{1}} and d 2 {\displaystyle {\mathfrak {d}}_{2}} {\displaystyle {\mathfrak {d}}_{2}}.
+<!-- Now, d 2 {\displaystyle {\mathfrak {d}}^{2}} {\displaystyle {\mathfrak {d}}^{2}}  -->
+
+...
+
+
+will consist of 3 parts:
+
+1. 
+
+<!-- d 1 2 {\displaystyle {\mathfrak {d}}_{1}^{2}} {\displaystyle {\mathfrak {d}}_{1}^{2}},  -->
+2.
+ <!-- d 2 2 {\displaystyle {\mathfrak {d}}_{2}^{2}} {\displaystyle {\mathfrak {d}}_{2}^{2}}  -->
+3. Depending on the combination of ...
+
+<!-- d 1 {\displaystyle {\mathfrak {d}}_{1}} {\displaystyle {\mathfrak {d}}_{1}} and d 2 {\displaystyle {\mathfrak {d}}_{2}} {\displaystyle {\mathfrak {d}}_{2}}. -->
 
 Evidently, the value of (6), corresponding to the first part, will be 0.
 
-As to the second part, it is to be remarked that the dielectric displacement, produced by Q, is a periodic function of the time. At distant points the amplitude takes the form c r {\displaystyle {\tfrac {c}{r}}} {\displaystyle {\tfrac {c}{r}}}, where c is independent of r. The mean value of d 2 {\displaystyle {\mathfrak {d}}^{2}} {\displaystyle {\mathfrak {d}}^{2}} for a full period is 1 2 c 2 r 2 {\displaystyle {\tfrac {1}{2}}{\tfrac {c^{2}}{r^{2}}}} {\displaystyle {\tfrac {1}{2}}{\tfrac {c^{2}}{r^{2}}}} and differentiating this with regard to x or to r, we should get r 3 {\displaystyle r^{3}} {\displaystyle r^{3}} in the denominator.
+As to the second part, it is to be remarked that the dielectric displacement, produced by Q, is a periodic function of the time. At distant points the amplitude takes the form c r {\displaystyle {\tfrac {c}{r}}} {\displaystyle {\tfrac {c}{r}}}, where c is independent of r.
+
+The mean value of d 2 {\displaystyle {\mathfrak {d}}^{2}} {\displaystyle {\mathfrak {d}}^{2}} for a full period is 1 2 c 2 r 2 {\displaystyle {\tfrac {1}{2}}{\tfrac {c^{2}}{r^{2}}}} {\displaystyle {\tfrac {1}{2}}{\tfrac {c^{2}}{r^{2}}}} and differentiating this with regard to x or to r, we should get r 3 {\displaystyle r^{3}} {\displaystyle r^{3}} in the denominator.
 
 The terms in (6) which correspond to the part
 
 2 ( d 1 x d 2 x + d 1 y d 2 y + d 1 z d 2 z ) {\displaystyle 2\left({\mathfrak {d}}_{1{\mathsf {x}}}{\mathfrak {d}}_{2{\mathsf {x}}}+{\mathfrak {d}}_{1{\mathsf {y}}}{\mathfrak {d}}_{2{\mathsf {y}}}+{\mathfrak {d}}_{1{\mathsf {z}}}{\mathfrak {d}}_{2{\mathsf {z}}}\right)} {\displaystyle 2\left({\mathfrak {d}}_{1{\mathsf {x}}}{\mathfrak {d}}_{2{\mathsf {x}}}+{\mathfrak {d}}_{1{\mathsf {y}}}{\mathfrak {d}}_{2{\mathsf {y}}}+{\mathfrak {d}}_{1{\mathsf {z}}}{\mathfrak {d}}_{2{\mathsf {z}}}\right)}
 
 in d 2 {\displaystyle {\mathfrak {d}}^{2}} {\displaystyle {\mathfrak {d}}^{2}}, may likewise be neglected. Indeed, if these terms are to contain no factors such as cos ⁡   2 π k r λ {\displaystyle \cos \ 2\pi k{\tfrac {r}{\lambda }}} {\displaystyle \cos \ 2\pi k{\tfrac {r}{\lambda }}} or sin ⁡   2 π k r λ {\displaystyle \sin \ 2\pi k{\tfrac {r}{\lambda }}} {\displaystyle \sin \ 2\pi k{\tfrac {r}{\lambda }}}, there must be between d 1 {\displaystyle {\mathfrak {d}}_{1}} {\displaystyle {\mathfrak {d}}_{1}} and d 2 {\displaystyle {\mathfrak {d}}_{2}} {\displaystyle {\mathfrak {d}}_{2}}, either no phase-difference at all, or a difference which is independent of r. This condition can only be fulfilled, if a system of waves, proceeding in the direction of QP, is combined with the vibrations excited by Q, in so far as this ion is put in motion by that system itself. Then, the two vectors d 1 {\displaystyle {\mathfrak {d}}_{1}} {\displaystyle {\mathfrak {d}}_{1}} and d 2 {\displaystyle {\mathfrak {d}}_{2}} {\displaystyle {\mathfrak {d}}_{2}} will have a common direction perpendicular to QP, say that of the axis of y, and they will be of the form
-d 1 y = q   c o s   n   ( t − x V + ε 1 ) {\displaystyle {\mathfrak {d}}_{1{\mathsf {y}}}=q\ cos\ n\ \left(t-{\frac {x}{V}}+\varepsilon _{1}\right)} {\displaystyle {\mathfrak {d}}_{1{\mathsf {y}}}=q\ cos\ n\ \left(t-{\frac {x}{V}}+\varepsilon _{1}\right)}
 
-d 2 y = c r   c o s   n   ( t − x V + ε 2 ) {\displaystyle {\mathfrak {d}}_{2{\mathsf {y}}}={\frac {c}{r}}\ cos\ n\ \left(t-{\frac {x}{V}}+\varepsilon _{2}\right)} {\displaystyle {\mathfrak {d}}_{2{\mathsf {y}}}={\frac {c}{r}}\ cos\ n\ \left(t-{\frac {x}{V}}+\varepsilon _{2}\right)}
+<!-- d 1 y = q   c o s   n   ( t − x V + ε 1 ) {\displaystyle {\mathfrak {d}}_{1{\mathsf {y}}}=q\ cos\ n\ \left(t-{\frac {x}{V}}+\varepsilon _{1}\right)} {\displaystyle {\mathfrak {d}}_{1{\mathsf {y}}}=q\ cos\ n\ \left(t-{\frac {x}{V}}+\varepsilon _{1}\right)}
+
+d 2 y = c r   c o s   n   ( t − x V + ε 2 ) {\displaystyle {\mathfrak {d}}_{2{\mathsf {y}}}={\frac {c}{r}}\ cos\ n\ \left(t-{\frac {x}{V}}+\varepsilon _{2}\right)} {\displaystyle {\mathfrak {d}}_{2{\mathsf {y}}}={\frac {c}{r}}\ cos\ n\ \left(t-{\frac {x}{V}}+\varepsilon _{2}\right)} -->
 	
 
-The mean value of d 1 y d 2 y {\displaystyle {\mathfrak {d}}_{1{\mathsf {y}}}{\mathfrak {d}}_{2{\mathsf {y}}}} {\displaystyle {\mathfrak {d}}_{1{\mathsf {y}}}{\mathfrak {d}}_{2{\mathsf {y}}}} is
+
+The mean value of 
+
+<!-- d 1 y d 2 y {\displaystyle {\mathfrak {d}}_{1{\mathsf {y}}}{\mathfrak {d}}_{2{\mathsf {y}}}} {\displaystyle {\mathfrak {d}}_{1{\mathsf {y}}}{\mathfrak {d}}_{2{\mathsf {y}}}}  -->
+
+is
 
 1 2 q c r cos ⁡ n   ( ε 1 − ε 2 ) {\displaystyle {\frac {1}{2}}{\frac {qc}{r}}\cos n\ \left(\varepsilon _{1}-\varepsilon _{2}\right)} {\displaystyle {\frac {1}{2}}{\frac {qc}{r}}\cos n\ \left(\varepsilon _{1}-\varepsilon _{2}\right)},
 
@@ -78,7 +129,11 @@ and
 If Q were removed, these forces together would be 0, as has already been remarked. On the other hand, the force (8) taken by itself, would then likewise be 0. Indeed, its value is
 n 2 e 2 b ( d y   H z − d z   H y ) {\displaystyle n^{2}e^{2}b\left({\mathfrak {d}}_{\mathsf {y}}\ {\mathfrak {H}}_{\mathsf {z}}-{\mathfrak {d}}_{\mathsf {z}}\ {\mathfrak {H}}_{\mathsf {y}}\right)} {\displaystyle n^{2}e^{2}b\left({\mathfrak {d}}_{\mathsf {y}}\ {\mathfrak {H}}_{\mathsf {z}}-{\mathfrak {d}}_{\mathsf {z}}\ {\mathfrak {H}}_{\mathsf {y}}\right)}. 	(9)
 
-or, by Poynting's theorem n 2 e 2 b V 2 S x {\displaystyle {\tfrac {n^{2}e^{2}b}{V^{2}}}S_{\mathsf {x}}} {\displaystyle {\tfrac {n^{2}e^{2}b}{V^{2}}}S_{\mathsf {x}}}, if S x {\displaystyle S_{\mathsf {x}}} {\displaystyle S_{\mathsf {x}}} be the flow of energy in a direction parallel to the axis of x. Now, it is clear that, in the absence of Q, any plane must be traversed in the two directions by equal amounts of energy.
+or, by Poynting's theorem 
+
+<!-- n 2 e 2 b V 2 S x {\displaystyle {\tfrac {n^{2}e^{2}b}{V^{2}}}S_{\mathsf {x}}} {\displaystyle {\tfrac {n^{2}e^{2}b}{V^{2}}}S_{\mathsf {x}}}, if S x {\displaystyle S_{\mathsf {x}}} {\displaystyle S_{\mathsf {x}}}  -->
+
+be the flow of energy in a direction parallel to the axis of x. Now, it is clear that, in the absence of Q, any plane must be traversed in the two directions by equal amounts of energy.
 
 We conclude that the force (7), in so far as it depends on the part, ( d 1 {\displaystyle {\mathfrak {d}}_{1}} {\displaystyle {\mathfrak {d}}_{1}}), is 0, and from this it follows that the total value of (7) will vanish, because the part arising from the combination of ( d 1 {\displaystyle {\mathfrak {d}}_{1}} {\displaystyle {\mathfrak {d}}_{1}}) and ( d 2 {\displaystyle {\mathfrak {d}}_{2}} {\displaystyle {\mathfrak {d}}_{2}}), as well as that which is solely due to tho vibrations of Q, are 0. As to the first part, this may be shown by a reasoning similar to that used at the end of, the preceding §. For the second part, the proof is as follows.
 

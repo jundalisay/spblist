@@ -2,8 +2,8 @@
 heading: "Chapter 4c"
 title: "Electromagnetic Fields and Circuits"
 weight: 18
-image: /covers/maxwell.jpg
-description: "Electricity is the main substance of radiance"
+image: /graphics/physics/poynting.jpg
+description: "Electrical Energy comes from virtual photons"
 icon: /icons/spmat.png
 writer:
   name: Juan

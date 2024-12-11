@@ -4,12 +4,12 @@ title: "What is Superphysics?"
 # date: 2021-07-19
 date: 2023-12-08
 weight: 70
-image: /photos/idea.jpg
+image: /graphics/super/spmodel.jpg
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: /icons/spmat.png
 ---
 
 
@@ -82,6 +82,9 @@ Chapter | Principle
 7 | Life and Mind
 8 | 5 Layers
 9 | The Supreme
+
+
+{{< i s="/graphics/super/spmodel.jpg" a="Essential Superphysics concepts" c="Superphysics can be summed up as being based on the Supreme Entity, 2 Forces, 5 Elements, and Relationality" >}}
 
 
 In a nutshell, Superphysics is **a paradigm that merges the known and proven perceptions of the physical and metaphysical domains (Chapters 1-2, 8) in order to find patterns (Chapters 3-5) and principles (Chapters 6-9) for the sake of solving problems**.

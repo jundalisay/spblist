@@ -65,9 +65,13 @@ Its circumference is equidistant to its center since they are equally pressed by
 
 When the drops are so small, their weight is not enough to force them to divide the air and fall.
 
-if this does not make them somewhat flatter and less thick in their height than in their width, like `T` or `V`.
+This makes them flatter and less thick in their height than in their width, like `T` or `V`.
 
-They have air around their sides as well as underneath. If their weight is not enough to make the air below them give way and let them descend, it is equally not enough to make the air on their sides move aside and let them become wider. 
+{{< i s="/graphics/physics/tvxy.png" a="Hail" >}}
+
+They have air around their sides as well as underneath. 
+
+If their weight is not enough to make the air below them give way and let them fall, then it is equally not enough to make the air on their sides move aside and let them become wider. 
 
 When their weight makes them descend, the air they divide does not make them somewhat longer and narrower, like `X` or `Y`. 
 

@@ -1,11 +1,10 @@
 ---
 heading: "Chapter 7"
-title: "Maxwell's Equations"
+title: "Radiant Territories: Quantum Electrodynamics"
 # date: 2024-07-22
 weight: 32
-draft: true
-image: /graphics/physics/quasar.jpg
-description: "The gravitational signature in the Spatial Layer is found in the timespace particle."
+image: /photons/physics/sparks.jpg
+description: "Radiant Territories are the electromagentic fields of Physics."
 icon: /icons/spmat.pn
 writer:
   name: Juan
@@ -13,37 +12,8 @@ writer:
 ---
 
 
-### Equation 1
+Physics uses the concept of Quantum Electrodynamics (QED) to explain the dynamics of the Radiant Layer.
 
-The electric flux through a closed surface is proportional to the total charge enclosed by that surface. 
+Our medium-substance-quantum classification is a simpler version of the QED system. 
 
-𝜵ꞏD = Pv
-
-
-### Equation 2
-
-Gauss's Law with Magnetic Flux
-
-𝜵ꞏB  = 0
-
-
-### Equation 3
-
- The electric flux through a closed surface is proportional to the total charge enclosed by that surface. 
-
-𝜵x E = - 𝛅B / 𝛅t
-
-
-This is a version of Faradays Law of Induction. 
-
-
-
-### Equation 4
-
-The electric flux through a closed surface is proportional to the total charge enclosed by that surface. 
-
-𝜵x H  = (𝛅B / 𝛅t) + J
-
-
-Amperes Law 
-
+  

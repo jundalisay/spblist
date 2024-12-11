@@ -12,11 +12,13 @@ description: "John Henry Poynting discovered in 1884 a general theorem on the tr
 
 <!-- In the study of electrical radiation, valuable help is afforded by , which was  by  -->
 
-John Henry Poynting discovered in 1884 a general theorem on the transfer of energy in the electromagnetic field.[33]
+In 1884, John Henry Poynting discovered a general theorem on the transfer of energy in the electromagnetic field.[33]
 
-The older writers on electric currents recognized that an electric current is associated with the transport of energy from one place (e.g. the voltaic cell which maintains the current) to another (e.g. an electromotor which is worked by the current).
-- But they supposed the energy to be conveyed by the current itself within the wire, in much or the same way as dynamical energy is carried by water flowing in a pipe.
-- Whereas in Maxwell's theory, the storehouse and vehicle of energy is the dielectric medium surrounding the wire. 
+<!-- The older writers on electric currents recognized that an electric current is associated with the transport of energy from one place (e.g. the voltaic cell which maintains the current) to another (e.g. an electromotor which is worked by the current). -->
+
+Previously, it was thought that electrical energy was conveyed by the current itself within the wire, similar to how water carries energy flowing in a pipe.
+
+But in Maxwell's theory, the storehouse and vehicle of energy is the dielectric medium surrounding the wire. 
 
 Poynting showed that the flux of energy at any place might be expressed by a simple formula in terms of the electric and magnetic forces at the place.
 
@@ -41,24 +43,40 @@ where S denotes the total current, and ι the current of conduction; or (in virt
 
 ...
 
-(E. ι) is the amount of electric energy transformed into heat per unit volume per second; and therefore the quantity -(1/4π) div [E.H] must represent the deposit of energy in unit volume per second due to the streaming of energy; which shows that the flux of energy is represented by the vector -(1/4π) div [E.H].[35] This is Poynting's theorem: that the flux of energy at any place is represented by the vector-product of the electric and magnetic forces, divided by 4π.[36]
+(E. ι) is the amount of electric energy transformed into heat per unit volume per second; and therefore the quantity -(1/4π) div [E.H] must represent the deposit of energy in unit volume per second due to the streaming of energy; which shows that the flux of energy is represented by the vector -(1/4π) div [E.H].[35]
 
 
-In the special case of the field which surrounds a straight wire carrying a continuous current, the lines of magnetic force are circles round the axis of the wire, while the lines of electric force are directed along the wire; hence energy must be flowing in the medium in a direction at right angles to the axis of the wire. 
+### Poynting's Theorem
 
-A current in any conductor may therefore be regarded as consisting essentially of a convergence of electric and magnetic energy from the medium upon the conductor, and its transformation there into other forms.
+Poynting's theorem is that the flux of energy at any place is represented by the vector-product of the electric and magnetic forces, divided by 4π.[36]
 
-This association of a current with motions at right angles to the wire in which it flows doubtless suggested to Poynting the conceptions of a memoir which he published[37] in the following year. When an electric current flowing in a straight wire is gradually increased in strength from zero, the surrounding space becomes filled with lines of magnetic force, which have the form of circles round the axis of the wire.
+
+In a straight wire that carries a continuous current:
+- the lines of magnetic force are circles around the axis of the wire
+- the lines of electric force are directed along the wire
+
+Hence energy must be flowing in the medium in a direction at right angles to the axis of the wire. 
+
+A current in any conductor may therefore be regarded as consisting essentially of a convergence of electric and magnetic energy from the medium on the conductor, and its transformation there into other forms.
+
+This association of a current with motions at right angles to the wire in which it flows suggested to Poynting that when an electric current flowing in a straight wire is gradually increased in strength from zero, the surrounding space becomes filled with lines of magnetic force. 
+- These have the form of circles around the axis of the wire.
+
+<!-- the conceptions of a memoir which he published[37] in the following year. -->
 
 Poynting adopted Faraday's idea of the physical reality of lines of force. 
 
-He assumed that these lines of force arrive at their places by moving outwards from the wire; so that the magnetic field grows by a continual emission from the wire of lines of force, which enlarge and spread out like the circular ripples from the place where a stone is dropped into a pond. 
+He assumed that these lines of force arrive at their places by moving outwards from the wire. In this way, the magnetic field grows by a continual emission from the wire of lines of force, which enlarge and spread out like the circular ripples from the place where a stone is dropped into a pond.
 
 The electromotive force which is associated with a changing magnetic field was now attributed directly to the motion of the lines of force, so that wherever electromotive force is produced by change in the magnetic field, or by motion of matter through the field, the electric intensity is equal to the number of tubes of magnetic force intersected by unit length in unit time.
 
-A similar conception was introduced in regard to lines of electric force. It was assumed that any change in the total electric induction through a curve is caused by the passage of tubes of force in or out across the boundary; so that whenever magnetomotive force is produced by change in the electric field, or by motion of matter through the field, the magnetomotive force is proportional to the number of tubes of electric force intersected by unit length in unit time.
+A similar conception was introduced in regard to lines of electric force.
 
-Poynting, moreover, assumed that when a steady current C flows in a straight wire, C tubes of electric force close in upon the wire in unit time, and are there dissolved, their energy appearing as heat. If E denote the magnitude of the electric force, the energy of each tube per unit length is 
+It was assumed that any change in the total electric induction through a curve is caused by the passage of tubes of force in or out across the boundary; so that whenever magnetomotive force is produced by change in the electric field, or by motion of matter through the field, the magnetomotive force is proportional to the number of tubes of electric force intersected by unit length in unit time.
+
+Poynting assumed that when a steady current `C` flows in a straight wire, C tubes of electric force close in upon the wire in unit time, and are there dissolved, their energy appearing as heat.
+
+If E denote the magnitude of the electric force, the energy of each tube per unit length is 
 
 ...
 
