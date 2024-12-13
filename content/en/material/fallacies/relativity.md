@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 9b"
+# heading: "Chapter 9b"
 title: "The History of Relativity"
 # date: 2020-01-31
 image: "/covers/einstein.jpg"

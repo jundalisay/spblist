@@ -17,9 +17,19 @@ Divergence of Character and Extinction, on the descendants from a common parent 
 Grouping of all organic beings. -->
 
 
-How will the struggle for existence, discussed too briefly in the last chapter, act in regard to variation? Can the principle of selection, which we have seen is so potent in the hands of man, apply in nature? I think we shall see that it can act most effectually. 
 
-Let it be borne in mind in what an endless number of strange peculiarities our domestic productions, and, in a lesser degree, those under nature, vary; and how strong the hereditary tendency is. Under domestication, it may be truly said that the whole organisation becomes in some degree plastic. Let it be borne in mind how infinitely complex and close-fitting are the mutual relations of all organic beings to each other and to their physical conditions of life. Can it, then, be thought improbable, seeing that variations useful to man have undoubtedly occurred, that other variations useful in some way to each being in the great and complex battle of life, should sometimes occur in the course of thousands of generations? If such do occur, can we doubt (remembering that many more individuals are born than can possibly survive) that individuals having any advantage, however slight, over others, would have the best chance of surviving and of procreating their kind? On the other hand, we may feel sure that any variation in the least degree injurious would be rigidly destroyed.
+
+The principle of selection is so potent in the hands of man.
+
+Does it apply in nature? How will the struggle for existence act in regard to variation? 
+
+
+Our domestic productions have a lot more variety than wild organisms.
+
+
+How strong the hereditary tendency is. Under domestication, it may be truly said that the whole organisation becomes in some degree plastic. Let it be borne in mind how infinitely complex and close-fitting are the mutual relations of all organic beings to each other and to their physical conditions of life.
+
+Can it, then, be thought improbable, seeing that variations useful to man have undoubtedly occurred, that other variations useful in some way to each being in the great and complex battle of life, should sometimes occur in the course of thousands of generations? If such do occur, can we doubt (remembering that many more individuals are born than can possibly survive) that individuals having any advantage, however slight, over others, would have the best chance of surviving and of procreating their kind? On the other hand, we may feel sure that any variation in the least degree injurious would be rigidly destroyed.
 
 This preservation of favourable variations and the rejection of injurious variations, I call Natural Selection. Variations neither useful nor injurious would not be affected by natural selection, and would be left a fluctuating element, as perhaps we see in the species called polymorphic. We shall best understand the probable course of natural selection by taking the case of a country undergoing some physical change, for instance, of climate. The proportional numbers of its inhabitants would almost immediately undergo a change, and some species might become extinct. 
 
@@ -52,19 +62,27 @@ structures, which we are apt to consider as of very trifling importance, may thu
 we see leaf-eating insects green, and bark-feeders mottled-grey; the alpine ptarmigan white in
 winter, the red-grouse the colour of heather, and the black-grouse that of peaty earth, we must
 believe that these tints are of service to these birds and insects in preserving them from danger.
+
+
 Grouse, if not destroyed at some period of their lives, would increase in countless numbers; they
 are known to suffer largely from birds of prey; and hawks are guided by eyesight to their prey,--so
 much so, that on parts of the Continent persons are warned not to keep white pigeons, as being the
-most liable to destruction. Hence I can see no reason to doubt that natural selection might be most
+most liable to destruction. 
+
+Hence I can see no reason to doubt that natural selection might be most
 effective in giving the proper colour to each kind of grouse, and in keeping that colour, when once
 acquired, true and constant. Nor ought we to think that the occasional destruction of an animal of
 any particular colour would produce little effect: we should remember how essential it is in a flock
-of white sheep to destroy every lamb with the faintest trace of black. In plants the down on the
+of white sheep to destroy every lamb with the faintest trace of black. 
+
+In plants the down on the
 fruit and the colour of the flesh are considered by botanists as characters of the most trifling
 importance: yet we hear from an excellent horticulturist, Downing, that in the United States
 smooth-skinned fruits suffer far more from a beetle, a curculio, than those with down; that purple
 plums suffer far more from a certain disease than yellow plums; whereas another disease attacks
-yellow-fleshed peaches far more than those with other coloured flesh. If, with all the aids of art,
+yellow-fleshed peaches far more than those with other coloured flesh.
+
+If, with all the aids of art,
 these slight differences make a great difference in cultivating the several varieties, assuredly, in a
 state of nature, where the trees would have to struggle with other trees and with a host of enemies,
 such differences would effectually settle which variety, whether a smooth or downy, a yellow or
@@ -76,40 +94,27 @@ probably produce some slight and direct effect. It is, however, far more necessa
 that there are many unknown laws of correlation of growth, which, when one part of the
 organisation is modified through variation, and the modifications are accumulated by natural
 selection for the good of the being, will cause other modifications, often of the most unexpected
-nature.As we see that those variations which under domestication appear at any particular period of life,
-tend to reappear in the offspring at the same period;--for instance, in the seeds of the many varieties
-of our culinary and agricultural plants; in the caterpillar and cocoon stages of the varieties of the
-silkworm; in the eggs of poultry, and in the colour of the down of their chickens; in the horns of our
-sheep and cattle when nearly adult;--so in a state of nature, natural selection will be enabled to act
-on and modify organic beings at any age, by the accumulation of profitable variations at that age,
-and by their inheritance at a corresponding age. If it profit a plant to have its seeds more and more
-widely disseminated by the wind, I can see no greater difficulty in this being effected through
-natural selection, than in the cotton-planter increasing and improving by selection the down in the
-pods on his cotton-trees. Natural selection may modify and adapt the larva of an insect to a score
-of contingencies, wholly different from those which concern the mature insect. These
-modifications will no doubt affect, through the laws of correlation, the structure of the adult; and
-probably in the case of those insects which live only for a few hours, and which never feed, a large
-part of their structure is merely the correlated result of successive changes in the structure of their
-larvae. So, conversely, modifications in the adult will probably often affect the structure of the
-larva; but in all cases natural selection will ensure that modifications consequent on other
-modifications at a different period of life, shall not be in the least degree injurious: for if they
-became so, they would cause the extinction of the species.
+nature.
+
+As we see that those variations which under domestication appear at any particular period of life, tend to reappear in the offspring at the same period.
+
+For instance, in the seeds of the many varieties of our culinary and agricultural plants; in the caterpillar and cocoon stages of the varieties of the silkworm; in the eggs of poultry, and in the colour of the down of their chickens; in the horns of our sheep and cattle when nearly adult;--so in a state of nature, natural selection will be enabled to act on and modify organic beings at any age, by the accumulation of profitable variations at that age, and by their inheritance at a corresponding age. 
+
+If it profits a plant to have its seeds more widely disseminated by the wind, I can see no greater difficulty in this being effected through natural selection, than in the cotton-planter increasing and improving by selection the down in the pods on his cotton-trees. Natural selection may modify and adapt the larva of an insect to a score of contingencies, wholly different from those which concern the mature insect. These modifications will no doubt affect, through the laws of correlation, the structure of the adult; and probably in the case of those insects which live only for a few hours, and which never feed, a large part of their structure is merely the correlated result of successive changes in the structure of their larvae.
+
+So, conversely, modifications in the adult will probably often affect the structure of the larva; but in all cases natural selection will ensure that modifications consequent on other modifications at a different period of life, shall not be in the least degree injurious: for if they became so, they would cause the extinction of the species.
 
 Natural selection will modify the structure of the young in relation to the parent, and of the parent
-in relation to the young. In social animals it will adapt the structure of each individual for the
-benefit of the community; if each in consequence profits by the selected change. What natural
-selection cannot do, is to modify the structure of one species, without giving it any advantage, for
-the good of another species; and though statements to this effect may be found in works of natural
-history, I cannot find one case which will bear investigation. A structure used only once in an
-animal's whole life, if of high importance to it, might be modified to any extent by natural
-selection; for instance, the great jaws possessed by certain insects, and used exclusively for opening
-the cocoon--or the hard tip to the beak of nestling birds, used for breaking the egg. 
+in relation to the young. 
+
+In social animals it will adapt the structure of each individual for the
+benefit of the community; if each in consequence profits by the selected change.
+
+What natural selection cannot do, is to modify the structure of one species, without giving it any advantage, for the good of another species; and though statements to this effect may be found in works of natural history, I cannot find one case which will bear investigation.
+
+A structure used only once in an animal's whole life, if of high importance to it, might be modified to any extent by natural selection; for instance, the great jaws possessed by certain insects, and used exclusively for opening the cocoon--or the hard tip to the beak of nestling birds, used for breaking the egg.
 
 Of the best short-beaked tumbler-pigeons more perish in the egg than are able to get
-out of it; so that fanciers assist in the act of hatching. Now, if nature had to make the beak of a full-
-grown pigeon very short for the bird's own advantage, the process of modification would be very
-slow, and there would be simultaneously the most rigorous selection of the young birds within the
-egg, which had the most powerful and hardest beaks, for all with weak beaks would inevitably
-perish: or, more delicate and more easily broken shells might be selected, the thickness of the shell
-being known to vary like every other structure.
+out of it; so that fanciers assist in the act of hatching. 
 
+If nature had to make the beak of a full-grown pigeon very short for the bird's own advantage, the process of modification would be very slow, and there would be simultaneously the most rigorous selection of the young birds within the egg, which had the most powerful and hardest beaks, for all with weak beaks would inevitably perish: or, more delicate and more easily broken shells might be selected, the thickness of the shell being known to vary like every other structure.

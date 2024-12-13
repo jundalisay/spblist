@@ -106,7 +106,7 @@ Much of our greatly increased knowledge of the Deluge and the events preceding i
 
 ### Atra-Hasis
 
-The hero of the Deluge is called Atra-Hasis. 
+The hero of the Deluge is called Atra-Hasis.
 
 The Epic of Gilgamesh has a Deluge segment where Enki called Utnapishtim "the exceedingly wise"—which in Akkadian is atra-hasis.
 
@@ -116,6 +116,8 @@ In time, enough Babylonian, Assyrian, Canaanite, and even original Sumerian tabl
 
 After describing the hard work of the Anunnaki, their mutiny, and the ensuing creation of the Primitive Worker, the epic relates how Man began to procreate and multiply. 
 
+
+{{< q >}}
 **In time, Mankind began to upset Enlil.**
 
 The land extended, the people multiplied;
@@ -126,6 +128,8 @@ and said to the great gods:
 
 "Oppressive have become the pronouncements of Mankind;
 Their conjugations deprive me of sleep."
+{{< /q >}}
+
 
 Enlil then ordered a punishment by calling for the decimation of Mankind through pestilence and sicknesses.
 
@@ -146,11 +150,14 @@ says, "I am Atra-Hasis; I lived in the temple of Ea my lord."  -->
 
 Atra-Hasis alterted Lord Enki and appealed to him to undo his brother Enlil's plan:
 
+
+{{< q >}}
 "Ea, O Lord, Mankind groans;
 the anger of the gods consumes the land.
 Yet it is thou who hast created us!
 Let there cease the aches, the dizziness,
 the chills, the fever!"
+{{< /q >}}
 
 
 Until more pieces of the broken-off tablets are found, we shall not know what Enki's advice was. He said of something, "…let there appear in the land." Whatever it was, it worked.
@@ -168,9 +175,21 @@ Let the rains of the rain god be withheld from above;
 Below, let the waters not rise from their sources.
 
 Let the wind blow and parch the ground;
-Let the clouds thicken, but hold back the downpour. Even the sources of seafood were to disappear: Enki was ordered to "draw the bolt, bar the sea," and "guard" its food away from the people.
+Let the clouds thicken, but hold back the downpour. 
+{{< /q >}}
+
+
+Even the sources of seafood were to disappear: 
+
+
+Enki was ordered to "draw the bolt, bar the sea," and "guard" its food away from the people.
+
 Soon the drought began to spread devastation.
+
+
+{{< q >}}
 From above, the heat was not…
+
 Below, the waters did not rise from their sources. he womb of the earth did not bear; Vegetation did not sprout… The black fields turned white; The broad plain was choked with salt.
 {{< /q >}}
 

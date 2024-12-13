@@ -11,31 +11,48 @@ icon: /avatars/kepler.png
 
 
 
-{{< s v="15" >}} The Moon stands for another physical causes for prediction. Experience proves that all things swell, grow and increase their humidity, when the Moon waxes, and they calm down, bate, get dry and quiet when the Moon wanes. 
+{{< s v="15" >}} The Moon stands for another physical causes for prediction.
 
-This occurence is the cause of many changes of decisions and predictions in economics, agriculture, medicine and navigation. Physicists admit that the reason of this influence is not precisely known yet.
+All things swell, grow and increase their humidity, when the Moon waxes
 
+They calm down, bate, get dry and quiet when the Moon wanes. 
 
-{{< s v="16" >}}  Thus, the action of the Moon is twofold. Each month occurs that one which I already mentioned, the other refers to the ebb and flow of the sea, which I will mention below.
+This is the cause of many changes of decisions and predictions in economics, agriculture, medicine and navigation. 
 
-
-{{< s v="17" >}} So, each day when we find new moon in the calendar, the moisture, swelling and everything what depends on the Moon will decrease, while during the Full Moon all that will increase. But, as previously mentioned, the moon quarters do influence this occurence also very strongly. 
-
-This is simple and purely astrological technique of prediction, which could help to the astrologer to widen the limits of his or her profession and could become to
-work as a farmer, a physicist, a chemist etc.
+Physicists admit that the reason of this influence is not precisely known yet.
 
 
-{{< s v="18" >}}  For now, however, it is appropriate to establish certain limits. For chemists and the like, I offer the following:Seems that the Full Moon is not favourable for melting of metals, because the air is too moist. 
+{{< s v="16" >}}  Thus, the action of the Moon is twofold.
 
-If it is so, it means a great number of possibilities for experiments for their work.
+Each month occurs that one which I already mentioned, the other refers to the ebb and flow of the sea, which I will mention below.
+
+
+{{< s v="17" >}} So, each day when we find new moon in the calendar, the moisture, swelling and everything what depends on the Moon will decrease, while during the Full Moon all that will increase.
+
+But, as previously mentioned, the moon quarters do influence this occurence also very strongly. 
+
+This is simple and purely astrological technique of prediction, which could help to the astrologer to widen the limits of his or her profession and could become to work as a farmer, a physicist, a chemist etc.
+
+
+{{< s v="18" >}}  For chemists, I say that the Full Moon is not favourable for melting of metals, because the air is too moist.
+
+If this is so, then this will lead to many possibilities for experiments for their work.
 
 
 {{< s v="19" >}}  The third physical cause for prediction is the multifarious nature of other planets, which is revealed by their colours.
 
-Here, we would go wrong, if we would divide four conventional qualities between planets. Vital conditions, which are inherent with light, are not good for cold and dryness, because cold and dryness are at their maximum where there is no light, no life and no warm at all. Thus, like nothing else comes to us from above but the light of the stars, like – for sure – neither cold nor dryness do not descend just per se.
+Here, we would go wrong, if we would divide 4 conventional qualities between planets.
+
+Vital conditions, which are inherent with light, are not good for cold and dryness, because cold and dryness are at their maximum where there is no light, no life and no warm at all.
+
+Thus, like nothing else comes to us from above but the light of the stars, like – for sure – neither cold nor dryness do not descend just per se.
 
 
-{{< s v="20" >}}  Our derivation of various effects, quantities and strenghths of the planets slightly differs from that of Aristotle, whose method of derivation stands for four elements from four qualities. All alternates and transformations are based upon antagonism. 
+{{< s v="20" >}} Aristotle's method of derivation of various effects of the quantities and strenghths of the planets stands for 4 elements from 4 qualities.
+
+Our derivation slightly differs from that of Aristotle.
+
+All alternates and transformations are based upon antagonism. 
 
 The first transformation is based on the first contradiction, and so on. 
 
@@ -64,12 +81,15 @@ Before creation of beings, He created the matter, which we know from Moses as wa
 
 So, here there is one natural thing, and it is the wet force. 
 
-But, it was not enough for the Creator, so He did the life and motion, to make the world to His likeness. So, here we have another natural thing, and it is life (or warm force).
+But, it was not enough for the Creator, so He did the life and motion, to make the world to His likeness. 
+
+So, here we have another natural thing, and it is life (or warm force).
 
 The forces of the stars have effect downwards to lower worlds. What kind of influence comes to us from the stars?
 
 It is neither the matter, nor the body itself.
 <!-- ; those were here already before.  -->
+
 Nor the life itself in its primary likeness, because it is present in all living creatures by the agency of the soul, which is inherent in them.
 
 **This means that the stars do not create, but support.** 

@@ -83,9 +83,9 @@ Evening – Sarváuṋgásana, Matsyamudrá, Naokásana, Pashcimottánása
 
 ## Diet for Gastric and Duodenal Ulcer
 
-In the severe state of the disease, only plenty of water and sweet or sour fruit juice should be taken. 
+In the severe state of the disease, only **plenty of water and sweet or sour fruit juice** should be taken. 
 
-When blood is vomited, the patient should be fed durbá juice or kuksiimá-leaf extracts only. 
+When blood is vomited, the patient should be fed durbá juice [durva grass] or kuksiimá-leaf extracts only. 
 
 When the patient is a little better, he or she should be given a small quantity of diluted milk with honey to drink. 
 
@@ -112,7 +112,7 @@ Acidity is the main cause of this disease, so it is desirable that food which ca
 
 An ulcer patient must give up:
 - non-vegetarian food
-- all types of intoxicants.
+- all types of intoxicants
 
 Food which would stimulate or irritate the stomach should also be forsaken.
 
@@ -122,11 +122,17 @@ Once the patient gets well, he or she will find alkaline food best.
 
 But it is better not to take fibrous food even after a complete cure.
 
-After normal health has been restored, the patient should include in the diet spinach, beto shák, mat́ar shák or jute leaves to help clear the bowels and to prevent the vomiting of blood. 
+After normal health has been restored, the patient should include in the diet:
+- spinach
+- beto shák
+- mat́ar shák
+- jute leaves
+
+This is to help clear the bowels and to prevent the vomiting of blood. 
 
 As a medicine, shushuni shák fried in ghee is also excellent.
 
-All ulcer patients must take daily at least two or three spoonfuls of honey mixed with water or milk. 
+All ulcer patients must take daily at least 2-3 spoonfuls of honey mixed with water or milk. 
 
 Habitually doing physical or mental work without taking rest after meals is most harmful.
 

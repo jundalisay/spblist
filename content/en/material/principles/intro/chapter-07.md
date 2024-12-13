@@ -1,13 +1,13 @@
 ---
 heading: "Chapter 7"
-title: "Gravitational Territories"
+title: "Territories in Layers Instead of Fields"
 # date: 2023-11-26
 image: "/graphics/physics/territories.jpg"
 description: "Gravitational Territories are the area of a gravitational signature"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
+weight: 26
 icon: /icons/spmat.png
 ---
 

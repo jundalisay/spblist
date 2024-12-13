@@ -58,20 +58,24 @@ And in summer, on the contrary, the Sun stays above 16 hours and 22 minutes, and
 
 It hides its activity for the period shorter than a half of this time span.
 
-Tycho Brahe de Knudstrup (Tyge Otessen Brahe, December 14, 1546, Knudstrup, Danemark – October 24, 1601, Prague).
+<!-- Tycho Brahe de Knudstrup (Tyge Otessen Brahe, December 14, 1546, Knudstrup, Danemark – October 24, 1601, Prague). -->
 
 
 {{< s v="7" >}} Air, just like water and earth (as far as elements are considered), except when those are warmed for a long time, turn immediately to their nature (natural disposition) and they cool down. 
 
-The well-known statement of Aristotle – that the nature of air itself is warm – will probably be false.
-
-Aristotle says that the nature of the air-element in terms of quality is warm and wet.
-
-
-{{< s v="8" >}} The nature of everything connected with substance is cold. And whatever is potentially warm, takes its nature from the life force, be it added or generated.
+Aristotle said that:
+- the nature of air itself is warm. This will probably be false.
+- the nature of the air-element in terms of quality is warm and wet.
 
 
-{{< s v="9" >}} There is another and much more important reason why the Sun, when it is high above, gives more heat then when it is low: it is because the sun rays, when the Sun is low, fall upon our Earth sidelong and weak, whereas when the Sun is high, the rays fall upon Earth much more intensely, being almost perpendicular to it.
+{{< s v="8" >}} The nature of everything connected with substance is cold. 
+
+Whatever is potentially warm, takes its nature from the life force, be it added or generated.
+
+
+{{< s v="9" >}} When the Sun is high above, it gives more heat then when it is low. This is because its rays, when the Sun is low, fall on our Earth sidelong and weak.
+
+Whereas when the Sun is high, the rays fall upon Earth much more intensely, being almost perpendicular to it.
 
 Nowadays, no one can explain why the non-substantial sun rays act in the same way as the substantial and dense bodies falling upon one another this way.
 
@@ -81,7 +85,9 @@ Nowadays, no one can explain why the non-substantial sun rays act in the same wa
 This, like above stated, implies that during the shortest day, there is no more than 1/8 of the warmth which falls upon the nature elements during the longest summer day.
 
 
-{{< s v="11" >}} Regarding that one eighth of warmth in winter, it does not even take effect as a whole, because the Sun rises only a little above the horizon in winter, and moreover, it stands much more sidelong towards the layer of atmosphere. 
+{{< s v="11" >}} Regarding that one eighth of warmth in winter, it does not even take effect as a whole, because the Sun rises only a little above the horizon in winter.
+
+Moreover, it stands much more sidelong towards the layer of atmosphere. 
 
 Suppose that the dividing line of pure air, where the sun rays bend, is located about one german mile (ca. 7,5 km) of perpendicular distance from us (it hardly could be more because in fact the altitude of the air, which causes sunset or sunrise, differs from that one in which the rays of the stars bend). 
 

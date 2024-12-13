@@ -19,7 +19,9 @@ For the second sha-at-tam they suffered the vengeance.
 The third sha-at-tam came, their features were altered by hunger,  their faces were encrusted… they were living on the verge of death.
 When the fourth sha-at-tam arrived, their faces appeared green; they walked hunched in the streets;
 their broad [shoulders?] became narrow.
-By the fifth "passing," human life began to deteriorate. Mothers barred their doors to their own starving daughters. Daughters spied on their mothers to see whether they had hidden any food.
+By the fifth "passing," human life began to deteriorate. Mothers barred their doors to their own starving daughters. 
+
+Daughters spied on their mothers to see whether they had hidden any food.
 By the sixth "passing," cannibalism was rampant. 
 When the sixth sha-at-tam arrived they prepared the daughter for a meal;
 the child they prepared for food… One house devoured the other.
@@ -27,7 +29,10 @@ the child they prepared for food… One house devoured the other.
 
 The texts report the persistent intercession by Atra-Hasis with his god Enki. 
 
+{{< q >}}
 "In the house of his god … he set foot; …every day he wept, bringing oblations in the morning … he called by the name of his god," seeking Enki's help to avert the famine.
+{{< /q >}}
+
 
 
 <!-- Enki, however, must have felt bound by the decision of the other deities, for at

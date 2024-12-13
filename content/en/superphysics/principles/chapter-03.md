@@ -42,14 +42,12 @@ We create such a theoretical state in order to prevent minds from thinking of wh
 
 Therefore, our concept of Pre-Existence serves as an instant “sink” that will positively absorb and nullify that thinking effort (as opposed to a wall which blocks the thinking tendency and is therefore negative).
 
-{{< i s="/photos/physics/quasar.jpg" a="Sink" c="Our idea of the Void is a sink to nullify action and ideas" >}}
+{{< i s="/graphics/super/existence.jpg" a="Existence" c="The Absolute can be viewed as the holder for Existence, or the central point of Existence, with Existence being the Supreme Entity" >}}
 
 
-{{< q a="Descartes" >}}
-We will thus never enter disputes about the infinite. This is because we are finite. It would be absurd for us to try to
-determine the infinite.
+{{< q a="Descartes" c="Principia Philosophia Part 1, Article 26" >}}
+We will thus never enter disputes about the infinite. This is because we are finite. It would be absurd for us to try to determine the infinite.
 {{< /q >}}
-
 
 
 {{< box >}}
