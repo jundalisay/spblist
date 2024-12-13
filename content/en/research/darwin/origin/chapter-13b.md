@@ -8,18 +8,34 @@ image: "/covers/origin.jpg"
 ---
 
 
+Many trifling physiological characters derived from parts are highly serviceable in the definition of whole groups. 
 
-Numerous instances could be given of characters derived from parts which must be considered of very trifling physiological importance, but which are universally admitted as highly serviceable in the definition of whole groups. 
+Examples are:
+- whether or not there is an open passage from the nostrils to the mouth 
+  - According to Owen, this is the only character which absolutely distinguishes fishes and reptiles
+- the inflection of the angle of the jaws in Marsupials
+- how the wings of insects are folded
+- mere colour in certain Algae
+- mere pubescence on parts of the flower in grasses
+- the nature of the dermal covering, as hair or feathers, in the Vertebrata. 
 
-For instance, whether or not there is an open passage from the nostrils to the mouth, the only character, according to Owen, which absolutely distinguishes fishes and reptiles--the inflection of the angle of the jaws in Marsupials--the manner in which the wings of insects are folded--mere colour in certain Algae--mere pubescence on parts of the flower in grasses-
--the nature of the dermal covering, as hair or feathers, in the Vertebrata. 
+If the Ornithorhynchus had been covered with feathers instead of hair, this external and trifling character would, I think, have been considered by naturalists as important an aid in determining the degree of affinity of thisstrange creature to birds and reptiles, as an approach in structure in any one internal and important organ.
 
-If the Ornithorhynchus had been covered with feathers instead of hair, this external and trifling character would, I think,
-have been considered by naturalists as important an aid in determining the degree of affinity of thisstrange creature to birds and reptiles, as an approach in structure in any one internal and important organ.
+The importance, for classification, of trifling characters, mainly depends on their being correlated with several other characters of more or less importance. 
 
-The importance, for classification, of trifling characters, mainly depends on their being correlated with several other characters of more or less importance. The value indeed of an aggregate of characters is very evident in natural history. Hence, as has often been remarked, a species may depart from its allies in several characters, both of high physiological importance and of almost universal prevalence, and yet leave us in no doubt where it should be ranked. Hence, also, it has been found, that a classification founded on any single character, however important that may be, has always failed; for no part of the organisation is universally constant. The importance of an aggregate of characters, even when none are important, alone explains, I think, that saying of Linnaeus, that the characters do not give the genus, but the genus gives the characters; for this saying seems founded on an appreciation of many trifling points of resemblance, too slight to be defined. Certain plants, belonging to the Malpighiaceae, bear perfect and degraded flowers; in the latter, as A. de Jussieu has remarked, 'the greater number of the characters proper to the species, to the genus, to the family, to the class, disappear, and thus laugh at our classification.' But when Aspicarpa produced in France, during several years, only degraded flowers, departing so wonderfully in a number of the most important points of structure from the proper type of the order, yet M. Richard sagaciously saw, as Jussieu observes, that this genus should still be retained amongst the Malpighiaceae. This case seems to me well to illustrate the spirit with which our classifications are sometimes necessarily founded.
+The value indeed of an aggregate of characters is very evident in natural history. Hence, as has often been remarked, a species may depart from its allies in several characters, both of high physiological importance and of almost universal prevalence, and yet leave us in no doubt where it should be ranked. Hence, also, it has been found, that a classification founded on any single character, however important that may be, has always failed; for no part of the organisation is universally constant.
 
-Practically when naturalists are at work, they do not trouble themselves about the physiological value of the characters which they use in defining a group, or in allocating any particular species. If they find a character nearly uniform, and common to a great number of forms, and not common to others, they use it as one of high value; if common to some lesser number, they use it as of subordinate value. This principle has been broadly confessed by some naturalists to be the true one; and by none more clearly than by that excellent botanist, Aug. St. Hilaire. If certain characters are always found correlated with others, though no apparent bond of connexion can be discovered between them, especial value is set on them. As in most groups of animals, important organs, such as those for propelling the blood, or for aerating it, or those for propagating the race, are found nearly uniform, they are considered as highly serviceable in classification; but in some groups of animals all these, the most important vital organs, are found to offer characters of quite subordinate value.
+The importance of an aggregate of characters, even when none are important, alone explains, I think, that saying of Linnaeus, that the characters do not give the genus, but the genus gives the characters; for this saying seems founded on an appreciation of many trifling points of resemblance, too slight to be defined. 
+
+Certain plants, belonging to the Malpighiaceae, bear perfect and degraded flowers; in the latter, as A. de Jussieu has remarked, 'the greater number of the characters proper to the species, to the genus, to the family, to the class, disappear, and thus laugh at our classification.'
+
+But when Aspicarpa produced in France, during several years, only degraded flowers, departing so wonderfully in a number of the most important points of structure from the proper type of the order, yet M. Richard sagaciously saw, as Jussieu observes, that this genus should still be retained amongst the Malpighiaceae. This case seems to me well to illustrate the spirit with which our classifications are sometimes necessarily founded.
+
+Practically when naturalists are at work, they do not trouble themselves about the physiological value of the characters which they use in defining a group, or in allocating any particular species.
+
+If they find a character nearly uniform, and common to a great number of forms, and not common to others, they use it as one of high value; if common to some lesser number, they use it as of subordinate value. This principle has been broadly confessed by some naturalists to be the true one; and by none more clearly than by that excellent botanist, Aug. St. Hilaire. 
+
+If certain characters are always found correlated with others, though no apparent bond of connexion can be discovered between them, especial value is set on them. As in most groups of animals, important organs, such as those for propelling the blood, or for aerating it, or those for propagating the race, are found nearly uniform, they are considered as highly serviceable in classification; but in some groups of animals all these, the most important vital organs, are found to offer characters of quite subordinate value.
 
 We can see why characters derived from the embryo should be of equal importance with those derived from the adult, for our classifications of course include all ages of each species. But it is by no means obvious, on the ordinary view, why the structure of the embryo should be more important for this purpose than that of the adult, which alone plays its full part in the economy of nature. 
 
@@ -41,12 +57,13 @@ The reader will best understand what is meant, if he will take the trouble of re
 
 Species of three of these genera (A, F, and I) have transmitted modified descendants to the present day, represented by the 1`15 genera (a14 to z14) on the uppermost horizontal line. 
 
-Now all these modified descendants from a single species, are represented as related in blood or descent to the same degree; they may metaphorically be called cousins to the same millionth degree; yet they differ
-widely and in different degrees from each other. The forms descended from A, now broken up into
-two or three families, constitute a distinct order from those descended from I, also broken up into
-two families. Nor can the existing species, descended from A, be ranked in the same genus with
-the parent A; or those from I, with the parent I. But the existing genus F14 may be supposed to
-have been but slightly modified; and it will then rank with the parent-genus F; just as some few stillliving organic beings belong to Silurian genera. So that the amount or value of the differences between organic beings all related to each other in the same degree in blood, has come to be widely different. 
+Now all these modified descendants from a single species, are represented as related in blood or descent to the same degree; they may metaphorically be called cousins to the same millionth degree; yet they differ widely and in different degrees from each other. 
+
+The forms descended from A, now broken up into two or three families, constitute a distinct order from those descended from I, also broken up into two families. 
+
+Nor can the existing species, descended from A, be ranked in the same genus with the parent A; or those from I, with the parent I. But the existing genus F14 may be supposed to have been but slightly modified; and it will then rank with the parent-genus F; just as some few stillliving organic beings belong to Silurian genera. 
+
+So that the amount or value of the differences between organic beings all related to each other in the same degree in blood, has come to be widely different.
 
 Nevertheless their genealogical arrangement remains strictly true, not only at the present time, but at each successive period of descent. All the modified descendants from A will have inherited something in common from their common parent, as will all the descendants from I; so will it be with each subordinate branch of descendants, at each successive period. If, however, we
 choose to suppose that any of the descendants of A or of I have been so much modified as to have
@@ -62,25 +79,49 @@ This natural arrangement is shown, as far as is possible on paper, in the diagra
 
 It may be worth while to illustrate this view of classification, by taking the case of languages. If we possessed a perfect pedigree of mankind, a genealogical arrangement of the races of man would afford the best classification of the various languages now spoken throughout the world; and if all extinct languages, and all intermediate and slowly changing dialects, had to be included, such an arrangement would, I think, be the only possible one.
 
-Yet it might be that some very ancient language had altered little, and had given rise to few new languages, whilst others (owing to the spreading and subsequent isolation and states of civilisation of the several races, descended from a common race) had altered much, and had given rise to many new languages and dialects. The various degrees of difference in the languages from the same stock, would have to be expressed by groups subordinate to groups; but the proper or even only possible arrangement would still be genealogical; and this would be strictly natural, as it would connect together all languages, extinct and modern, by the closest affinities, and would give the filiation and origin of each tongue. In confirmation of this view, let us glance at the classification of varieties, which are believed or known to have descended from one species. These are grouped under species, with sub-varieties under varieties; and with our domestic productions, several other grades of difference are requisite, as we have seen with pigeons. The origin of the existence of groups subordinate to groups, is the same with varieties as with species, namely, closeness of descent with various degrees of modification. Nearly the same rules are followed in classifying varieties, as with species. Authors have insisted on the necessity of classing varieties on a natural instead of an artificial system; we are cautioned, for instance, not to class two varieties of the pine-apple together, merely because their fruit, though the most important part, happens to be nearly identical; no one puts the swedish and common turnips together, though the esculent and thickened stems are so similar. Whatever part is found to be most constant, is used in classing varieties: thus the great agriculturist Marshallsays the horns are very useful for this purpose with cattle, because they are less variable than the shape or colour of the body, &c.; whereas with sheep the horns are much less serviceable, because less constant. In classing varieties, I apprehend if we had a real pedigree, a genealogical classification would be universally preferred; and it has been attempted by some authors. For we might feel sure, whether there had been more or less modification, the principle of inheritance would keep the forms together which were allied in the greatest number of points.
+Yet it might be that some very ancient language had altered little, and had given rise to few new languages, whilst others (owing to the spreading and subsequent isolation and states of civilisation of the several races, descended from a common race) had altered much, and had given rise to many new languages and dialects. 
 
-In tumbler pigeons, though some sub-varieties differ from the others in the important character of having a
-longer beak, yet all are kept together from having the common habit of tumbling; but the short-
-faced breed has nearly or quite lost this habit; nevertheless, without any reasoning or thinking on
-the subject, these tumblers are kept in the same group, because allied in blood and alike in some
-other respects. If it could be proved that the Hottentot had descended from the Negro, I think he
-would be classed under the Negro group, however much he might differ in colour and other
-important characters from negroes.
+The various degrees of difference in the languages from the same stock, would have to be expressed by groups subordinate to groups; but the proper or even only possible arrangement would still be genealogical; and this would be strictly natural, as it would connect together all languages, extinct and modern, by the closest affinities, and would give the filiation and origin of each tongue. In confirmation of this view, let us glance at the classification of varieties, which are believed or known to have descended from one species. 
+
+These are grouped under species, with sub-varieties under varieties; and with our domestic productions, several other grades of difference are requisite, as we have seen with pigeons.
+
+The origin of the existence of groups subordinate to groups, is the same with varieties as with species, namely, closeness of descent with various degrees of modification. Nearly the same rules are followed in classifying varieties, as with species. Authors have insisted on the necessity of classing varieties on a natural instead of an artificial system; we are cautioned, for instance, not to class two varieties of the pine-apple together, merely because their fruit, though the most important part, happens to be nearly identical; no one puts the swedish and common turnips together, though the esculent and thickened stems are so similar.
+
+Whatever part is found to be most constant, is used in classing varieties: thus the great agriculturist Marshallsays the horns are very useful for this purpose with cattle, because they are less variable than the shape or colour of the body, &c.; whereas with sheep the horns are much less serviceable, because less constant. 
+
+In classing varieties, I apprehend if we had a real pedigree, a genealogical classification would be universally preferred; and it has been attempted by some authors. For we might feel sure, whether there had been more or less modification, the principle of inheritance would keep the forms together which were allied in the greatest number of points.
+
+In tumbler pigeons, though some sub-varieties differ from the others in the important character of having a longer beak, yet all are kept together from having the common habit of tumbling; but the short- faced breed has nearly or quite lost this habit; 
+
+nevertheless, without any reasoning or thinking on the subject, these tumblers are kept in the same group, because allied in blood and alike in some other respects. If it could be proved that the Hottentot had descended from the Negro, I think he would be classed under the Negro group, however much he might differ in colour and other important characters from negroes.
 
 With species in a state of nature, every naturalist has in fact brought descent into his classification;
+
 for he includes in his lowest grade, or that of a species, the two sexes; and how enormously these
 sometimes differ in the most important characters, is known to every naturalist: scarcely a single
 fact can be predicated in common of the males and hermaphrodites of certain cirripedes, when
-adult, and yet no one dreams of separating them. The naturalist includes as one species the several
+adult, and yet no one dreams of separating them. 
+
+The naturalist includes as one species the several
 larval stages of the same individual, however much they may differ from each other and from the
 adult; as he likewise includes the so-called alternate generations of Steenstrup, which can only in a
 technical sense be considered as the same individual. 
 
-He includes monsters; he includes varieties, not solely because they closely resemble the parent-form, but because they are descended from it. He who believes that the cowslip is descended from the primrose, or conversely, ranks them together as a single species, and gives a single definition. As soon as three Orchidean forms (Monochanthus, Myanthus, and Catasetum), which had previously been ranked as three distinct genera, were known to be sometimes produced on the same spike, they were immediately included as a single species. But it may be asked, what ought we to do, if it could be proved that one species of kangaroo had been produced, by a long course of modification, from a bear? Ought we to rank this one species with bears, and what should we do with the other species? The supposition is of course preposterous; and I might answer by the argumentum ad hominem, and ask what should be done if a perfect kangaroo were seen to come out of the womb of a bear? According to all analogy, it would be ranked with bears; but then assuredly all the other species of the kangaroo family would have to be classed under the bear genus. The whole case is preposterous; for where there has been close descent in common, there will certainly be close resemblance or affinity.
+He includes monsters; he includes varieties, not solely because they closely resemble the parent-form, but because they are descended from it. He who believes that the cowslip is descended from the primrose, or conversely, ranks them together as a single species, and gives a single definition. 
 
+Three Orchidean forms were previously ranked as 3 distinct genera:
+- Monochanthus
+- Myanthus 
+- Catasetum
 
+When these were discovered to be sometimes produced on the same spike, they were immediately included as a single species. 
+
+But what should we to do if a species of kangaroo had been produced by a long course of modification, from a bear?
+
+Should we rank it as a bear species? 
+
+What if a perfect kangaroo were seen to come out of the womb of a bear? 
+
+According to all analogy, it would be ranked with bears; but then assuredly all the other species of the kangaroo family would have to be classed under the bear genus.
+
+The whole case is preposterous; for where there has been close descent in common, there will certainly be close resemblance or affinity.

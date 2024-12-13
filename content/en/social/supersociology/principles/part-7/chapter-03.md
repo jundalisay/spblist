@@ -1,6 +1,6 @@
 ---
-heading: Chapter 2
-title: "The Essence or Dharma of Humanity"
+heading: Chapter 3
+title: "The Way of Humanity"
 date: 2024-12-10
 image: "/photos/psych/freedom.jpg"
 description: "This book sets the vision for the human species"
@@ -14,4 +14,4 @@ draft: true
 ---
 
 
-From the previous chapter we can 
+Serve the universe.

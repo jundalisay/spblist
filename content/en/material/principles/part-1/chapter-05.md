@@ -4,7 +4,7 @@ title: "The Quantum of Aether: Monads"
 # date: 2023-12-10
 date: 2014-08-01
 weight: 32
-image: /photos/idea.jpg
+image: /graphics/physics/monad.jpg
 description: "The Quantum of Aether is divided into 3 groups"
 icon: /icons/spmat.png
 writer:
@@ -15,7 +15,13 @@ writer:
 
 The Quantum of aether (qoa) is the monad. It is the smallest unit of an aethereal substance which takes the form of the universe.
 
-According to Pythagoras and Kepler, motion is sourced from an invisible, immaterial "monad". We combine this with Asian philosophy to say that monads vibrate in 3 ways according to the 3 influences or gunas:
+
+{{< i s="/graphics/physics/monad.jpg" a="Monad" >}}
+
+According to Pythagoras and Kepler, motion is sourced from an invisible, immaterial "monad". 
+
+We combine this with Asian philosophy to say that monads vibrate in 3 ways according to the 3 influences or gunas:
+
 
 Influence | Position 
 --- | ---

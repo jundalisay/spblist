@@ -2,7 +2,7 @@
 heading: "Chapter 4c"
 title: "The Creation of Matter and Planets"
 # date: 2020-01-31
-image: "/graphics/flipbook.gif"
+image: "/photos/physics/mars.jpg"
 description: "According to Physics, the universe was created through a Big Bang of a material Singularity. This is false."
 writer:
   name: Juan
@@ -14,7 +14,6 @@ icon: /icons/spmat.png
 
 
 ### The Creation of Matter
-
 
 Matter is created inside a steller vortex and is spread to the galaxy through dissociation which is either instant or gradual.
 
@@ -77,7 +76,6 @@ The dynamics of planets such as plate tectonics will be discussed in the Materia
 <!--  gravitational layer as "quanta of spacetime". This allowed the idea to have "space" after other ideas came down with it. For example, "1" alone has no space. But "1 and 1" necessarily creates a space between the two 1's. 
 
 We can say that the space between the two 1's are made up of zeros or empty 1's. So instead of "1 and 1", we now have "100001". -->   
-
 
 <!-- To be created, each object is assigned a place in the computer's memory as a block. A large app needs more memory and uses more blocks than a tiny app. Likewise, the universe is made up of such placeholder blocks which we call quanta of spacetime or qost*. -->
 

@@ -85,8 +85,11 @@ Since motion is more striking to the mind, we call these as gravitational signat
 
 Since the universe is made up of waves and each wave is a representative of a layer or element, then the properties of that identity will reveal either:
 - the layer (subscript `l`) that it is in. This in turn will help reveal its gravitational signature `G` 
-- its gravitational signature `G`. This will help reveal what layer it is in
+- its gravitational signature `G`. This will help reveal what layer it is in*
 
+{{< n n="Technically, the gravitational signature is in the upper aethereal layer." >}}
+
+ 
 
 {{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
 

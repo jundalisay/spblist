@@ -2,7 +2,7 @@
 heading: "Parts 15-21"
 title: "The Moon and Warm and Wet Forces"
 # heading: "Chapter 1"
-description: "The Moon stands for another physical causes for prediction. Experience proves that all things swell, grow and increase their humidity, when the Moon waxes, and they calm down, bate, get dry and quiet when the Moon wanes"
+description: "The Moon stands for another physical causes for prediction"
 image: /covers/astrology.jpg
 weight: 6
 contributors: ['Kepler']

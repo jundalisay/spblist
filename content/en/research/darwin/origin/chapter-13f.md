@@ -21,23 +21,50 @@ Some further explanation, however, of the embryo not undergoing any metamorphosi
 
 Such differences might, also, become correlated with successive stages of development; so that the larvae, in the first stage, might differ greatly from the larvae in the second stage, as we have seen to be the case with cirripedes. The adult might become fitted for sites or habits, in which organs of locomotion or of the senses, &c., would be useless; and in this case the final metamorphosis would be said to be retrograde.
 
-As all the organic beings, extinct and recent, which have ever lived on this earth have to be classed together, and as all have been connected by the finest gradations, the best, or indeed, if our collections were nearly perfect, the only possible arrangement, would be genealogical. Descent being on my view the hidden bond of connexion which naturalists have been seeking under the term of the natural system. On this view we can understand how it is that, in the eyes of most naturalists, the structure of the embryo is even more important for classification than that of the adult. For the embryo is the animal in its less modified state; and in so far it reveals the structure of its progenitor. In two groups of animal, however much they may at present differ from each other in structure and habits, if they pass through the same or similar embryonic stages, we may feel assured that they have both descended from the same or nearly similar parents, and are therefore in that degree closely related. Thus, community in embryonic structure reveals community of descent.
+As all the organic beings, extinct and recent, which have ever lived on this earth have to be classed together, and as all have been connected by the finest gradations, the best, or indeed, if our collections were nearly perfect, the only possible arrangement, would be genealogical. 
 
-It will reveal this community of descent, however much the structure of the adult may have been modified and obscured; we have seen, for instance, that cirripedes can at once be recognised by their larvae as belonging to the great class of crustaceans. As the embryonic state of each species and group of species partially shows us the structure of their less modified ancient progenitors, we can clearly see why ancient and extinct forms of life should resemble the embryos of their descendants,--our existing species. Agassiz believes this to be a law of nature; but I am bound to confess that I only hope to see the law hereafter proved true. 
+Descent being on my view the hidden bond of connexion which naturalists have been seeking under the term of the natural system. 
 
-It can be proved true in those cases alone in which the ancient state, now supposed to be represented in many embryos, has not been obliterated, either by the successive variations in a long course of modification having supervened at a very early age, or by the variations having been inherited at an earlier period than that at which they first appeared. It should also be borne in mind, that the supposed law of resemblance of ancient forms of life to the embryonic stages of recent forms, may be true, but yet, owing to the geological record not extending far enough back in time, may remain for a long period, or for ever, incapable of demonstration.
+On this view we can understand how it is that, in the eyes of most naturalists, the structure of the embryo is even more important for classification than that of the adult. For the embryo is the animal in its less modified state; and in so far it reveals the structure of its progenitor. 
+
+In two groups of animal, however much they may at present differ from each other in structure and habits, if they pass through the same or similar embryonic stages, we may feel assured that they have both descended from the same or nearly similar parents, and are therefore in that degree closely related. Thus, community in embryonic structure reveals community of descent.
+
+It will reveal this community of descent, however much the structure of the adult may have been modified and obscured; we have seen, for instance, that cirripedes can at once be recognised by their larvae as belonging to the great class of crustaceans. 
+
+As the embryonic state of each species and group of species partially shows us the structure of their less modified ancient progenitors, we can clearly see why ancient and extinct forms of life should resemble the embryos of their descendants,--our existing species. Agassiz believes this to be a law of nature; but I am bound to confess that I only hope to see the law hereafter proved true. 
+
+It can be proved true in those cases alone in which the ancient state, now supposed to be represented in many embryos, has not been obliterated, either by the successive variations in a long course of modification having supervened at a very early age, or by the variations having been inherited at an earlier period than that at which they first appeared. 
+
+The supposed law of resemblance of ancient forms of life to the embryonic stages of recent forms, may be true.
+
+Yet, owing to the geological record not extending far enough back in time, may remain for a long period, or for ever, incapable of demonstration.
 
 Thus, the leading facts in embryology, which are second in importance to none in natural history, are explained on the principle of slight modifications not appearing, in the many descendants from some one ancient progenitor, at a very early period in the life of each, though perhaps caused at the earliest, and being inherited at a corresponding not early period. 
 
-Embryology rises greatly in interest, when we thus look at the embryo as a picture, more or less obscured, of the common parent-form of each great class of animals.Rudimentary, atrophied, or aborted organs. -- Organs or parts in this strange condition, bearing the stamp of inutility, are extremely common throughout nature. 
+Embryology rises greatly in interest, when we thus look at the embryo as a picture, more or less obscured, of the common parent-form of each great class of animals.
 
-For instance, rudimentary mammae are very general in the males of mammals: I presume that the 'bastard-wing' in birds may be safely considered as a digit in a rudimentary state: in very many snakes one lobe of the lungs is rudimentary; in other snakes there are rudiments of the pelvis and hind limbs. Some of the cases of rudimentary organs are extremely curious; for instance, the presence of teeth in foetal whales, which when grown up have not a tooth in their heads; and the presence of teeth, which never cut through the gums, in the upper jaws of our unborn calves. It has even been stated on good authority that rudiments of teeth can be detected in the beaks of certain embryonic birds. Nothing can be plainer than that wings are formed for flight, yet in how many insects do we see wings so reduced in size as to be utterly incapable of flight, and not rarely lying under wing-cases, firmly soldered together!
+
+Rudimentary, atrophied, or aborted organs are extremely common throughout nature. 
+
+For instance, rudimentary mammae are very general in the males of mammals.
+
+The 'bastard-wing' in birds was a digit in a rudimentary state.
+
+In many snakes, one lobe of the lungs is rudimentary. In other snakes, there are rudiments of the pelvis and hind limbs.
+
+Some of the cases of rudimentary organs are extremely curious; for instance, the presence of teeth in foetal whales, which when grown up have not a tooth in their heads; and the presence of teeth, which never cut through the gums, in the upper jaws of our unborn calves.
+
+It has even been stated on good authority that rudiments of teeth can be detected in the beaks of certain embryonic birds.
+
+Nothing can be plainer than that wings are formed for flight, yet in how many insects do we see wings so reduced in size as to be utterly incapable of flight, and not rarely lying under wing-cases, firmly soldered together!
 
 The meaning of rudimentary organs is often quite unmistakeable: for instance there are beetles of the same genus (and even of the same species) resembling each other most closely in all respects, one of which will have full-sized wings, and another mere rudiments of membrane; and here it is impossible to doubt, that the rudiments represent wings.
 
 Rudimentary organs sometimes retain their potentiality, and are merely not developed: this seems to be the case with the mammae of male mammals, for many instances are on record of these organs having become well developed in full-grown males, and having secreted milk. So again there are normally four developed and two rudimentary teats in the udders of the genus Bos, but in our domestic cows the two sometimes become developed and give milk. 
 
-In individual plants of the same species the petals sometimes occur as mere rudiments, and sometimes in a well-developed state. In plants with separated sexes, the male flowers often have a rudiment of a pistil; and Kolreuter found that by crossing such male plants with an hermaphrodite species, the rudiment of the pistil in the hybrid offspring was much increased in size; and this shows that the rudiment and the perfect pistil are essentially alike in nature.
+In individual plants of the same species the petals sometimes occur as mere rudiments, and sometimes in a well-developed state. 
+
+In plants with separated sexes, the male flowers often have a rudiment of a pistil; and Kolreuter found that by crossing such male plants with an hermaphrodite species, the rudiment of the pistil in the hybrid offspring was much increased in size; and this shows that the rudiment and the perfect pistil are essentially alike in nature.
 
 An organ serving for two purposes, may become rudimentary or utterly aborted for one, even the more important purpose; and remain perfectly efficient for the other. Thus in plants, the office of the pistil is to allow the pollen-tubes to reach the ovules protected in the ovarium at its base. The pistil consists of a stigma supported on the style; but in some Compositae, the male florets, which of course cannot be fecundated, have a pistil, which is in a rudimentary state, for it is not crowned with a stigma; but the style remains well developed, and is clothed with hairs as in other compositae, for the purpose of brushing the pollen out of the surrounding anthers.
 
