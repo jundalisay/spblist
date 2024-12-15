@@ -61,3 +61,16 @@ This Cosmic Active “I” is known as the Ego-Layer (Ahaḿtattva).
 The metamorphosis of Consciousness in the Ego-Layer <!-- Ahaḿtattva --> is still highly subtle because there are no objects yet. <!-- Ahaḿtattva --> Thus, the Ego-Layer exists only in subjective strata.
 
 
+
+
+{{< box >}}
+
+### Superphysics Note: The 3 Layers of Identity
+
+Layer | Guna
+--- | ---
+Identity (Maha) | Sentient
+Self-Relativist (Aham) | Mutattive
+Mind (Citta) | Static
+
+{{< /box >}}

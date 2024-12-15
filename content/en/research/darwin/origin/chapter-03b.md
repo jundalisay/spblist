@@ -1,9 +1,8 @@
 ---
-title: Variation Under Nature
+title: The Geometric Increase in Population
 heading: Chapter 3b
-# First Meditation
 weight: 18
-description: "We have better evidence on this subject than mere theoretical calculations"
+description: "The rule is that every organic being naturally increases at such a high rate"
 image: "/covers/origin.jpg"
 ---
 
@@ -34,13 +33,38 @@ This is also proven by cattle and horses which have run wild.
   <!-- in several parts of the world: if the statements of the rate of increase of slow-breeding cattle and horses in South America, and latterly in Australia, had not been well authenticated, they would have been quite incredible.  -->
 
 
-So it is with plants: cases could be given of introduced plants which have become common throughout whole islands in a period of less than ten years. Several of the plants now most numerous over the wide plains of La Plata, clothing square leagues of surface almost to the exclusion of all other plants, have been introduced from Europe; and there are plants which now range in India, as I hear from Dr. Falconer, from Cape Comorin to the Himalaya, which have been imported from America since its discovery. In such cases, and endless instances could be given, no one supposes that the fertility of these animals or plants has been suddenly and temporarily increased in any sensible degree.
+Plants have been introduced and have spread throughout whole islands in less than 10 years. 
 
-The obvious explanation is that the conditions of life have been very favourable, and that there has consequently been less destruction of the old and young, and that nearly all the young have been enabled to breed. In such cases the geometrical ratio of increase, the result of which never fails to be surprising, simply explains the extraordinarily rapid increase and wide diffusion of naturalised productions in their new homes.In a state of nature almost every plant produces seed, and amongst animals there are very few which do not annually pair. Hence we may confidently assert, that all plants and animals are tending to increase at a geometrical ratio, that all would most rapidly stock every station in which they could any how exist, and that the geometrical tendency to increase must be checked by destruction at some period of life. Our familiarity with the larger domestic animals tends, I think, to mislead us: we see no great destruction falling on them, and we forget that thousands are annually slaughtered for food, and that in a state of nature an equal number would have somehow to be disposed of.
+<!-- Several of the plants now most numerous over the wide plains of La Plata, clothing square leagues of surface almost to the exclusion of all other plants, have been introduced from Europe; and there are plants which now range in India, as I hear from Dr. Falconer, from Cape Comorin to the Himalaya, which have been imported from America since its discovery. In such cases, and endless instances could be given, no one supposes that the fertility of these animals or plants has been suddenly and temporarily increased in any sensible degree. -->
 
-The only difference between organisms which annually produce eggs or seeds by the thousand, and those which produce extremely few, is, that the slow-breeders would require a few more years to people, under favourable conditions, a whole district, let it be ever so large. The condor lays a couple of eggs and the ostrich a score, and yet in the same country the condor may be the more numerous of the two: the Fulmar petrel lays but one egg, yet it is believed to be the most numerous bird in the world. One fly deposits hundreds of eggs, and another, like the hippobosca, a single one; but this difference does not determine how many individuals of the two species can be supported in a district. 
+The conditions of life have been very favourable. Consequently, nearly all the young have been enabled to breed.
 
-Many eggs is of some importance to those species, which depend on a rapidly fluctuating amount of food, for it allows them rapidly to increase in number. But the real importance of a large number of eggs or seeds is to make up for much destruction at some period of life; and this period in the great majority of cases is an early one. If an animal can in any way protect its own eggs or young, a small number may be produced, and yet the average stock be fully kept up; but if many eggs or young are destroyed, many must be produced, or the species will become extinct. It would suffice to keep up the full number of a tree, which lived on an average for a thousand years, if a single seed were produced once in a thousand years, supposing that this seed were never destroyed, and could be ensured to germinate in a fitting place. So that in all cases, the average number of any animal or plant depends only indirectly on the number of its eggs or seeds.
+In such cases the geometrical ratio of increase, the result of which never fails to be surprising, simply explains the extraordinarily rapid increase and wide diffusion of naturalised productions in their new homes.In a state of nature almost every plant produces seed, and amongst animals there are very few which do not annually pair. Hence we may confidently assert, that 
+
+**All plants and animals tend to increase at a geometrical ratio. This increase must be checked by destruction at some period of life.**
+
+<!-- , that all would most rapidly stock every station in which they could any how exist, and that the geometrical tendency to increase  -->
+
+
+Our familiarity with the larger domestic animals tends to mislead us because we do not see them destroyed. We forget that:
+- thousands are annually slaughtered for food
+- in the wild, an equal number would be destroyed
+
+<!-- The only difference between organisms which annually produce eggs or seeds by the thousand, and those which produce extremely few, is, that the slow-breeders would require a few more years to people, under favourable conditions, a whole district, let it be ever so large.  -->
+
+The condor lays 2 eggs. The ostrich lays 20. 
+
+Yet in the same country, the condor might outnumber the ostrich. 
+
+The Fulmar petrel lays but one egg. Yet it is believed to be the most numerous bird in the world.
+
+One fly deposits hundreds of eggs. The hippobosca lays just one.
+
+But this difference does not determine how many individuals of the two species can be supported in a district. 
+
+Many eggs is of some importance to those species, which depend on a rapidly fluctuating amount of food, for it allows them rapidly to increase in number. But the real importance of a large number of eggs or seeds is to make up for much destruction at some period of life; and this period in the great majority of cases is an early one. 
+
+If an animal can in any way protect its own eggs or young, a small number may be produced, and yet the average stock be fully kept up; but if many eggs or young are destroyed, many must be produced, or the species will become extinct. It would suffice to keep up the full number of a tree, which lived on an average for a thousand years, if a single seed were produced once in a thousand years, supposing that this seed were never destroyed, and could be ensured to germinate in a fitting place. So that in all cases, the average number of any animal or plant depends only indirectly on the number of its eggs or seeds.
 
 In looking at Nature, it is most necessary to keep the foregoing considerations always in mind--
 never to forget that every single organic being around us may be said to be striving to the utmost to
@@ -51,20 +75,40 @@ instantaneously increase to any amount. The face of Nature may be compared to a 
 with ten thousand sharp wedges packed close together and driven inwards by incessant blows,
 sometimes one wedge being struck, and then another with greater force.
 
-What checks the natural tendency of each species to increase in number is most obscure. Look at the most vigorous species; by as much as it swarms in numbers, by so much will its tendency to increase be still further increased. We know not exactly what the checks are in even one single instance. Nor will this surprise any one who reflects how ignorant we are on this head, even in regard to mankind, so incomparably better known than any other animal. This subject has been ably treated by several authors, and I shall, in my future work, discuss some of the checks at considerable length, more especially in regard to the feral animals of South America. Here I will make only a few remarks, just to recall to the reader's mind some of the chief points. Eggs or very young animals seem generally to suffer most, but this is not invariably the case. With plants thereis a vast destruction of seeds, but, from some observations which I have made, I believe that it is the seedlings which suffer most from germinating in ground already thickly stocked with other plants.
 
-Seedlings, also, are destroyed in vast numbers by various enemies; for instance, on a piece of ground three feet long and two wide, dug and cleared, and where there could be no choking from
-other plants, I marked all the seedlings of our native weeds as they came up, and out of the 357 no
-less than 295 were destroyed, chiefly by slugs and insects. If turf which has long been mown, and
-the case would be the same with turf closely browsed by quadrupeds, be let to grow, the more
-vigorous plants gradually kill the less vigorous, though fully grown, plants: thus out of twenty
-species growing on a little plot of turf (three feet by four) nine species perished from the other
-species being allowed to grow up freely.
+It is unclear what checks the natural tendency of each species to increase.
 
-The amount of food for each species of course gives the extreme limit to which each can increase; but very frequently it is not the obtaining food, but the serving as prey to other animals, which determines the average numbers of a species. Thus, there seems to be little doubt that the stock of partridges, grouse, and hares on any large estate depends chiefly on the destruction of vermin. If not one head of game were shot during the next twenty years in England, and, at the same time, if no vermin were destroyed, there would, in all probability, be less game than at present, although hundreds of thousands of game animals are now annually killed. On the other hand, in some cases, as with the elephant and rhinoceros, none are destroyed by beasts of prey: even the tiger in India most rarely dares to attack a young elephant protected by its dam.
+Look at the most vigorous species; by as much as it swarms in numbers, by so much will its tendency to increase be still further increased. 
+
+We know not exactly what the checks are in even one single instance. Nor will this surprise any one who reflects how ignorant we are on this head, even in regard to mankind, so incomparably better known than any other animal.
+
+This subject has been ably treated by several authors, and I shall, in my future work, discuss some of the checks at considerable length, more especially in regard to the feral animals of South America.
+
+
+Eggs or very young animals seem generally to suffer most, but this is not invariably the case.
+
+With plants thereis a vast destruction of seeds, but, from some observations which I have made, I believe that it is the seedlings which suffer most from germinating in ground already thickly stocked with other plants.
+
+Seedlings are destroyed in vast numbers by various enemies.
+
+On a ground 3 x 2 feet, dug and cleared, free from other plants, I marked all the seedlings of our native weeds as they came up. 
+
+Out of the 357, 295 were destroyed, chiefly by slugs and insects.
+
+If turf which has long been mown, and the case would be the same with turf closely browsed by quadrupeds, be let to grow, the more vigorous plants gradually kill the less vigorous, though fully grown, plants: thus out of 20 species growing on a little plot of turf (three feet by four) nine species perished from the other species being allowed to grow up freely.
+
+The amount of food for each species of course gives the extreme limit to which each can increase; but very frequently it is not the obtaining food, but the serving as prey to other animals, which determines the average numbers of a species.
+
+Thus, the stock of partridges, grouse, and hares on any large estate depends chiefly on the destruction of vermin.
+
+If not one head of game were shot during the next twenty years in England, and, at the same time, if no vermin were destroyed, there would, in all probability, be less game than at present, although hundreds of thousands of game animals are now annually killed.
+
+On the other hand, in some cases, as with the elephant and rhinoceros, none are destroyed by beasts of prey: even the tiger in India most rarely dares to attack a young elephant protected by its dam.
 
 Climate plays an important part in determining the average numbers of a species, and periodical
-seasons of extreme cold or drought, I believe to be the most effective of all checks. I estimated that
+seasons of extreme cold or drought, I believe to be the most effective of all checks. 
+
+I estimated that
 the winter of 1854-55 destroyed four-fifths of the birds in my own grounds; and this is a
 tremendous destruction, when we remember that ten per cent. is an extraordinarily severe mortality
 from epidemics with man. The action of climate seems at first sight to be quite independent of the

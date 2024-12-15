@@ -1,7 +1,7 @@
 ---
 title: "The Description Of The Glasses Continued"
 heading: "Part 9b"
-weight: 21
+weight: 34
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -11,7 +11,8 @@ icon: "/icons/descartes.png"
 ---
 
 
-Then the diameter of this glass does not need to be so large as for the preceding bezel, nor must it also be so small as that of the glass A[70] of the other before, but it must at approximately be such that the straight line NP passes through the inner hot point of the hyperbola NRP; for, being less, it would receive fewer rays from the object Z, and being larger, it would receive very little more; so that its thickness, having to be in much greater proportion than before, it would deprive them of their strength as much as its size would give them; and, besides that, the object could not be so illuminated. 
+Then the diameter of this glass does not need to be so large as for the preceding bezel, nor must it also be so small as that of the glass A[70] of the other before, but it must at approximately be such that the straight line NP passes through the inner hot point of the hyperbola NRP; for, being less, it would receive fewer rays from the object Z, and being larger, it would receive very little more; so that its thickness, having to be in much greater proportion than before, it would deprive them of their strength as much as its size would give them; and, besides that, the object could not be so illuminated.
+
 
 It will also be good to put this telescope on some machine like ST, which holds it directly turned towards the sun. And you have to encase the NOPR glass in the middle of a hollow parabolic mirror like CC, which collects all the rays of the sun at the point Z on the object which must be supported there by the small arm G, which comes out of some place of this mirror: and this arm must also support around this object some black and obscure body, like HH, precisely of the size of the NOPR glass, so that it prevents that none of the rays of the sun fall directly on this glass; for from there, entering the pipe, some of them could be reflected towards the eye and weaken the vision accordingly; even though this tube must be completely black on the inside, it cannot be so perfectly so that its material does not always cause some reflection when the light is very bright, as is that of the sun.
 

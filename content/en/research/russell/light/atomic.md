@@ -8,12 +8,12 @@ weight: 8
 ---
 
 
-The elements of matter are not different substances or different things. They are different pressure
-conditions of light waves. The light units of the elements are all alike but are differently conditioned by the
-electric pressures exerted upon them during the inward or outward spiral journey from zero to zero.
+The elements of matter are not different substances or different things. 
+
+They are different pressure conditions of light waves. The light units of the elements are all alike but are differently conditioned by the electric pressures exerted upon them during the inward or outward spiral journey from zero to zero.
+
 The unanswered mystery of how the elements become mathematically precise octave tones, just as musical
-tones or color tones of the spectrum are mathematically precise in vibration orderliness, lies in the wave
-field gyroscopic principle.
+tones or color tones of the spectrum are mathematically precise in vibration orderliness, lies in the wave field gyroscopic principle.
 
 Together the eight elements of an octave form two halves of one whole cycle of tones which ascend from
 zero to the four-zero-four position of amplitude and then descend again to zero to begin anew.

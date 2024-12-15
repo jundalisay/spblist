@@ -68,15 +68,18 @@ These same authors practically rank that character as important (as some few nat
 Under this point of view, no instance of any important part varying will ever be found: but under any other point of view many instances assuredly can be given.
 
 
+### Polymorphic Genera
+
 In terms of individual differences, I am extremely perplexed by 'protean' or 'polymorphic' genera wherein the species present an inordinate amount of variation.
 
-Naturalists cannot agree which forms species and which forms varieties.
+<!-- Naturalists cannot agree which forms species and which forms varieties.
 
-We may instance Rubus, Rosa, and Hieracium amongst plants, several genera of insects, and several genera of Brachiopod shells. In most polymorphic genera some of the species have fixed and definite characters.
+We may instance Rubus, Rosa, and Hieracium amongst plants, several genera of insects, and several genera of Brachiopod shells.  -->
 
-Genera which are polymorphic in one country seem to be, with some few exceptions, polymorphic in other countries.
+In most polymorphic genera some of the species have fixed and definite characters.
 
-Likewise, judging from Brachiopod shells, at former periods of time.
+With a few exceptions, polymorphic genera in one country are polymorphic in other countries and at former periods of time.
+- This is proven by Brachiopod shells
 
 These facts are very perplexing because they show that this kind of variability is independent of the conditions of life.
 
@@ -84,27 +87,41 @@ I suspect that these polymorphic genera variations are in points of structure wh
 - are of no service or disservice to the species
 - have not been seized on and rendered definite by natural selection, as hereafter will be explained.
 
-Those forms which possess the character of species, but which are so closely similar to some other forms, or are so closely linked to them by intermediate gradations. Naturalists do not rank them as distinct species. But these are most important for us. 
+Some forms have the character of species but are so similar to some other forms or are so closely linked to them by intermediate gradations. 
+- Naturalists do not rank them as distinct species. But these are most important for us. 
 
 Many of these doubtful and closely-allied forms have permanently retained their characters in their own country for a long time just as good and true species have.
 
-Practically, when a naturalist can unite 2 forms together by others having intermediate characters, he treats the one as a variety of the other, ranking the most common, but sometimes the one first described, as the species, and the other as the variety. 
+When a naturalist unites 2 forms with others having intermediate characters, he treats the one as a variety of the other.
 
-But cases of great difficulty, which I will not here enumerate, sometimes occur in deciding whether or not to rank one form as a variety of another, even when they are closely connected by intermediate links; nor will the commonly-assumed hybrid nature of the intermediate links always remove the difficulty. 
+<!-- ranking the most common, but sometimes the one first described, as the species, and the other as the variety.  -->
 
-In very many cases, however, one form is ranked as a variety of another, not because the intermediate links have actually been found, but because analogy leads theobserver to suppose either that they do now somewhere exist, or may formerly have existed; and here a wide door for the entry of doubt and conjecture is opened.
+How should we decide if something is a variety or a species?
 
-Hence, in determining whether a form should be ranked as a species or a variety, the opinion of naturalists having sound judgment and wide experience seems the only guide to follow. 
+<!-- But cases of great difficulty, which I will not here enumerate, sometimes occur in deciding whether or not to rank one form as a variety of another, even when they are closely connected by intermediate links; nor will the commonly-assumed hybrid nature of the intermediate links always remove the difficulty.  -->
 
-We must, however, in many cases, decide by a majority of naturalists, for few well-marked and well-known varieties can be named which have not been ranked as species by at least some competent judges. 
+In many cases, a variety is a variety because the observer **assumes** that their species exists elsewhere or in the past. 
+- It is not because the intermediate links have actually been found
 
-That varieties of this doubtful nature are far from uncommon cannot be disputed. Compare the several floras of Great Britain, of France or of the United States, drawn up by different botanists, and see what a surprising number of forms have been ranked by one botanist as good species, and by another as mere varieties.
+<!-- do now somewhere exist, or may formerly have existed. -->
+
+<!-- Hence, in determining whether a form should be ranked as a species or a variety, the opinion of naturalists having sound judgment and wide experience seems the only guide to follow. 
+
+We must, however, in many cases, decide by a majority of naturalists, for few well-marked and well-known varieties can be named which have not been ranked as species by at least some competent judges. --> 
+
+There are so many varieties that might not be actually varieties. 
+
+ <!-- of this  nature are far from uncommon cannot be disputed. Compare the several floras of Great Britain, of France or of the United States, drawn up by  -->
+
+- Some botanists have classified a form as a species, while other classed it as a mere variety. 
+
+ <!-- and see what a surprising number of forms have been ranked by one botanist as good , and by another as mere varieties. -->
 
 Mr. H. C. Watson has marked for me 182 British plants which are considered as varieties, but have all been ranked by botanists as species.
 
-In making this list he has omitted many trifling varieties, but which nevertheless have been ranked by some botanists as species, and he has entirely omitted several highly polymorphic genera.
+In making this list, he has omitted many trifling varieties, but which nevertheless have been ranked by some botanists as species. He has entirely omitted several highly polymorphic genera.
 
-Under genera, including the most polymorphic forms, Mr. Babington gives 251 species, whereas Mr. Bentham gives only 112,--a difference of 139 doubtful forms!
+Under genera, including the most polymorphic forms, Mr. Babington gives 251 species. Whereas Mr. Bentham gives only 112, a difference of 139 doubtful forms!
 
 Amongst animals which unite for each birth, and which are highly locomotive, doubtful forms, ranked by one zoologist as a species and by another as a variety, can rarely be found within the same country, but are common in separated areas. 
 

@@ -12,7 +12,7 @@ icon: "/icons/sarkar.png"
 ---
 
 
-## Objects as Mind-Stuff
+## Objects as Mind-Stuff from the Static Principle of Activity
 
 As static Activity starts its domination, it forces the Ego-Layer or Active Identity <!-- Ahaḿtattva --> to separate from the Identity-Layer or Cosmic Identity to become the object of the Cosmic Identity. 
 

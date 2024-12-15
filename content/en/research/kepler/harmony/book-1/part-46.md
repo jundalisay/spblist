@@ -80,17 +80,11 @@ If I pass over the points which the 2 cases have in common, namely that it is be
 If the arc be given (let it be 48 degrees) and its chord and let it be required to divide this arc into three parts, each of 16 degrees; that is if it be required to find the chord of this part, or its proportion to the whole chord of length 48 degrees: then I am required to make it so that the proportion of the chord of the whole [arc] to the chord that is to be found, that of the part [of the arc], is to be equal to the proportion of this chord to the second, and of the second
 to the third: 
 
-now I am required to triple the chord of the part [of the arc], and from it to subtract the third proportional: the remainder is said to be equal to the whole chord. That is, from the given chord, one third is cubed, as a fraction, and the resulting number is added to the whole: the third part of this sum is a little less than the required chord. For if, instead, this [chord] itself, cubed, is added to the whole; a third part of the sum comes quite close to the correct value; and this can be repeated, indefinitely. By this procedure one comes gradually
-closer to the chord subtended by 16 degrees.^^^ But if you set up the number
-that is to be cubed as greater, and in fact to have about the value that the compasses suggest should be a third part of the remainder of the circle when 48
-degrees have been subtracted, namely 312 degrees, a third of which is 104: then
-in this way you will arrive at the chord of the arc of 104 degrees, and of its
-complement 256 degrees. Nor is this all; but if you add to 48 and 312 the com­
-plete circle, 360, you will also find the thirds of those .sums, 408 and 6 72, namely
-136 and 224, through [i.e. given as the value of] the same Term in the Cossic
-relationship.
+now I am required to triple the chord of the part [of the arc], and from it to subtract the third proportional: the remainder is said to be equal to the whole chord. That is, from the given chord, one third is cubed, as a fraction, and the resulting number is added to the whole: the third part of this sum is a little less than the required chord. For if, instead, this [chord] itself, cubed, is added to the whole; a third part of the sum comes quite close to the correct value; and this can be repeated, indefinitely. 
 
-In general, if one subtracts two from the number that defines the section, the number of units remaining gives the number of times one may add the complete circle to the arc it is proposed to divide, so as to dis­ cover the chords of new arcs by means of the same algebraic relationship.
+By this procedure one comes gradually closer to the chord subtended by 16 degrees.^^^ But if you set up the number that is to be cubed as greater, and in fact to have about the value that the compasses suggest should be a third part of the remainder of the circle when 48 degrees have been subtracted, namely 312 degrees, a third of which is 104: then in this way you will arrive at the chord of the arc of 104 degrees, and of its complement 256 degrees. Nor is this all; but if you add to 48 and 312 the complete circle, 360, you will also find the thirds of those .sums, 408 and 6 72, namely 136 and 224, through [i.e. given as the value of] the same Term in the Cossic relationship.
+
+In general, if one subtracts two from the number that defines the section, the number of units remaining gives the number of times one may add the complete circle to the arc it is proposed to divide, so as to discover the chords of new arcs by means of the same algebraic relationship.
 
 From which it is clear that there is a huge difference between these algebraic terms and the degrees of knowledge which I discussed above.
 
@@ -104,5 +98,4 @@ We have already dealt with these Regular figures above and we shall deal with th
 
 So since such a means must by its nature be prior to the thing that is to be carried out by it; we should be assuming what we wish to prove if in order to procure our Means we were to seek the aid of the Regular figures.
 
-It might here be argued against me: that Pappus of Alexandria, in Proposition 31 of Book 4 of his Mathematical Collection, gives a
-way of trisecting an angle using a Hyperbola; and in Proposition 35 a way of dividing an angle in any ratio using a (fuadratrix and a Spiral: and Clavius, in Proposition 25 of Book VIII of his Practical Geometry achieves the same using the Conchoid of Nicomedes.^
+It might here be argued against me: that Pappus of Alexandria, in Proposition 31 of Book 4 of his Mathematical Collection, gives a way of trisecting an angle using a Hyperbola; and in Proposition 35 a way of dividing an angle in any ratio using a (fuadratrix and a Spiral: and Clavius, in Proposition 25 of Book VIII of his Practical Geometry achieves the same using the Conchoid of Nicomedes.^

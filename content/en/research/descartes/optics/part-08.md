@@ -1,7 +1,7 @@
 ---
 title: "The Rays In All Ways That Serve The View"
 heading: "Part 8"
-weight: 18
+weight: 28
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

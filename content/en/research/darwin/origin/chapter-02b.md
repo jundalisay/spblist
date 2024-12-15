@@ -66,24 +66,44 @@ In this country the highest botanical authorities and practical men can be quote
 
 When a young naturalist commences the study of a group of organisms quite unknown to him, he is at first much perplexed to determine what differences to consider as specific, and what as varieties; for he knows nothing of the amount and kind of variation to which the group is subject; and this shows, at least, how very generally there is some variation.
 
-But if he confine his attention to one class within one country, he will soon make up his mind how to rank most of the doubtful forms. His general tendency will be to make many species, for he will become impressed, just like the pigeon or poultry-fancier before alluded to, with the amount of difference in the forms which he is continually studying; 
+But if he confine his attention to one class within one country, he will soon make up his mind how to rank most of the doubtful forms. 
+
+His general tendency will be to make many species, for he will become impressed, just like the pigeon or poultry-fancier before alluded to, with the amount of difference in the forms which he is continually studying.
 
 
-He has little general knowledge of analogical variation in other groups and in other countries, by which to correct his first impressions. As he extends the range of his observations, he will meet with more cases of difficulty; for he will encounter a greater number of closely-allied forms. 
+He does not know the analogical variation in other groups and in other countries to correct his first impressions. 
 
-But if his observations be widely extended, he will in the end generally be enabled to make up his own mind which to call varieties and which species; but he will succeed in this at the expense of admitting much variation,--and the truth of this admission will often be disputed by other naturalists. When, moreover, he comes to study allied forms brought from countries not now continuous, in which case he can hardly hope to find the intermediate links between his doubtful forms, he will have to trust almost entirely to analogy, and his difficulties will rise to a climax.
+As he extends the range of his observations, he will meet with more cases of difficulty when he encounters more closely-allied forms. 
 
-Certainly no clear line of demarcation has as yet been drawn between species and sub-species--that
+But if his observations are extended, he will make up his own mind on which are varieties and which species.
+
+ <!-- but he will succeed in this at the expense of admitting much variation,--and the truth of this admission will often be disputed by other naturalists. When, moreover, he comes to study allied forms brought from countries not now continuous, in which case he can hardly hope to find the intermediate links between his doubtful forms, he will have to trust almost entirely to analogy, and his difficulties will rise to a climax. -->
+
+No clear line of demarcation has as yet been drawn between species and sub-species--that
 is, the forms which in the opinion of some naturalists come very near to, but do not quite arrive at
 the rank of species; or, again, between sub-species and well-marked varieties, or between lesser
-varieties and individual differences. These differences blend into each other in an insensible series;
-and a series impresses the mind with the idea of an actual passage.
+varieties and individual differences. 
 
-Hence I look at individual differences, though of small interest to the systematist, as of high importance for us, as being the first step towards such slight varieties as are barely thought worth recording in works on natural history.
+These differences blend into each other in an insensible series. A series impresses the mind with the idea of an actual passage.
 
-And I look at varieties which are in any degree more distinct and permanent, as steps leading to more strongly marked and more permanent varieties; and at these latter, as leading to sub-species, and to species. The passage from one stage of difference to another and higher stage may be, in some cases, due merely to the long-continued action ofdifferent physical conditions in two different regions; but I have not much faith in this view; 
+Hence I give importance to individual differences as being the first step towards such slight varieties that are barely thought worth recording.
 
-I attribute the passage of a variety, from a state in which it differs very slightly from its parent to one in which it differs more, to the action of natural selection in accumulating (as will hereafter be more fully explained) differences of structure in certain definite directions. Hence I believe a well- marked variety may be justly called an incipient species;
+Then I look at varieties which are more distinct and permanent. This leads to more strongly marked and permanent varieties.
+
+The permannent varieties lead to sub-species, and then to species.
+
+The passage from one stage of difference to another higher stage might be due merely to different physical conditions in 2 different regions in the long term. 
+
+But I have not much faith in this view.*
+
+{{< n n="Here, Darwin favors the competitive struggle as the cause of adaptations instead of changes in weather and climate. This shows the competitive, domineering Western mentality." >}}
+
+
+The passage of a variety is caused by natural selection accumulating differences of structure in certain definite directions.
+
+<!--  from a state in which it differs very slightly from its parent to one in which it differs more, to the action of  -->
+
+Hence I believe a well-marked variety may be justly called an incipient species;
 
 <!-- but whether this belief be justifiable must be judged of by the general weight of the several facts and views given throughout this work. It need  -->
 

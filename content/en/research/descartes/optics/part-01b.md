@@ -22,14 +22,14 @@ It is necessary to distinguish between:
 {{< img src="/graphics/physics/vat.jpg" alt="Light as grape juice. Electrons as crushed grapes" >}} 
 
 
-The inclination to move is expressed as the grape juice at `C` **tending** towards `B` and `A` without actually moving towards them.
+The **inclination to move** is expressed as the grape juice at `C` **tending** towards `B` and `A` without actually moving towards them.
 
-The actual movement is expressed as the grape juice at `C` **actually moving** towards `B` and `A` but are hindered by the grape clusters that are between them.
+The **actual movement** is expressed as the grape juice at `C` **actually moving** towards `B` and `A` but are hindered by the grape clusters that are between them.
 
 <!-- et ainsi -->
 In the same way, we are concerned with the actual movement of luminous bodies more than their theoretical movement. This is why you must think of the rays of this light as mere lines along which this movement-action tends.
 
-It follows that there are an infinity of such rays that come from all points of the luminous bodies, towards all points which they shine on. 
+It follows that **there is an infinity of such rays that come from all points of the luminous bodies, towards all points which they shine on.** 
 
 
 There is an infinity of straight lines, along with their actions, coming from surface `CDE` going towards `A` and `B` without hindering each other. 

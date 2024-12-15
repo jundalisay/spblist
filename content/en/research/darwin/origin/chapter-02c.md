@@ -1,5 +1,5 @@
 ---
-title: Variation Under Nature
+title: Incipient Species
 heading: Chapter 2c
 weight: 14
 description: "Alph. De Candolle and others have shown that plants which have very wide ranges generally present varieties"

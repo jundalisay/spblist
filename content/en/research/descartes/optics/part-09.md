@@ -1,7 +1,7 @@
 ---
 title: "The Description Of The Glasses"
 heading: "Part 9"
-weight: 20
+weight: 30
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -25,16 +25,35 @@ What is the cause of this reflection? Why does it happen on the surfaces of glas
 
 <!-- you must remember the way in which I made you conceive above of the nature of light. -->
 
-There is nothing else in transparent bodies than the action or inclination to move of a certain very subtle matter which filled their pores, and that you thought that the pores of each of these bodies transparencies are so smooth and so straight that the subtle matter that can enter them flows easily all along without finding anything to stop it; 
+There is nothing else in 
 
-But that those of two transparent bodies of different nature, like those of air and those of glass or crystal, never relate so justly to each other that there are not always several of the parts of subtle matter which, for example, coming from the air towards the glass, are reflected there, because they encounter the solid parts of its surface: and all the same, coming from the glass towards the air, are reflected and return to the inside this glass, because they meet the solid parts of the surface of this air; for there are also many in the air which may be called solid in comparison with this subtle matter. 
+Transparent bodies only have than the action or inclination to move of the fire-aether.
 
-Then, considering that the solid parts of the crystal are even larger than those of glass and its pores tighter, so that it is easy to judge that it is harder and heavier, we can well think that it must cause its reflections still stronger, and consequently give passage to less rays than does neither air nor glass, although nevertheless it gives it freer to those to whom it gives it, according to what has been said. above.
+ certain very subtle matter which filled their pores, and that you thought that the pores of each of these bodies transparencies are so smooth and so straight that the subtle matter that can enter them flows easily all along without finding anything to stop it.
+
+But that those of two transparent bodies of different nature, like those of air and those of glass or crystal, never relate so justly to each other that there are not always several of the parts of subtle matter which, for example, coming from the air towards the glass, are reflected there, because they encounter the solid parts of its surface: 
+
+and all the same, coming from the glass towards the air, are reflected and return to the inside this glass, because they meet the solid parts of the surface of this air; for there are also many in the air which may be called solid in comparison with this subtle matter. 
+
+The solid parts of the crystal are even larger than those of glass. Its pores are tighter. This makes it harder and heavier.
+
+This causes its reflections to be still stronger. Cconsequently, it gives passage to less rays than  air or glass. **But it gives freer movement to the light within.** 
+
+ <!-- those to whom it gives it, according to what has been said. above. -->
 
 
-Having thus chosen the purest glass, the least colored, and that which causes the least possible reflection, if one wishes by its means to correct the defect of those who do not see objects a little distant so well that near, or near than far, the figures best fitted for this purpose are those which are traced by hyperboles. 
+We choose the glass that:
+- is the purest
+- is the least colored
+- has the least possible reflection
 
-For example, the eye B or C, being disposed to cause all the rays which come from point H or I to assemble exactly in the middle of its background, and not those from point V or X, it is necessary, to make him see distinctly the object which is towards V or X, to put between two the glass O or P, whose surfaces, one convex and the other concave, having the figures traced by two hyperbolas which are such let H or I be the burning point of the concave, which must be turned towards the eye, and V or X that of the convex.
+The shapes traced by hyperboles are the best for correcting the defect of people who are near-sighted or far-sighted. 
+
+ <!-- do not see objects a little distant so well that near, or near than far, the figures best fitted for this purpose are those which are  -->
+
+For example, the eye `B` or `C` causes all the rays which come from point `H` or `I` to assemble exactly in the middle of its back.
+
+, and not those from point V or X, it is necessary, to make him see distinctly the object which is towards V or X, to put between two the glass O or P, whose surfaces, one convex and the other concave, having the figures traced by two hyperbolas which are such let H or I be the burning point of the concave, which must be turned towards the eye, and V or X that of the convex.
 
 <!-- Diopter figure 27 28.jpg
 Figures 27 and 28. -->

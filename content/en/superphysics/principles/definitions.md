@@ -48,14 +48,16 @@ Karma | Action and Reaction, or Cause and Effect. Technically, the 7th kind of p
 Knowledge | The assimilation of perceptions with, or into, the abstract mind via ideas. Also, jiṋána as the subjectivization of objects (Sarkar)
 Length Contraction | Decrease of distance within space
 Life | The state where a mind has the ability to express independently of the physical aspects of the universe 
-Mind | the arena for experiences
+Locality | object or movement is relative to or influenced by its immediate surroundings (Quantum mechanics violates local causality) 
+Mind | the arena for experiences; The collective name of the Identity-Layer, Ego-Layer, and mind-stuff, and the effect of consciousness (Sarkar)
 Mode | modifications or versions of Substance
 Moral | the qualities of actions that will lead to positive feelings in the largest spacetime conceivable
 Negative feelings | feelings resulting from the Negative Force that naturally make us feel heavy, such as sadness, greed, hatred, and stress. These are the result of being adharmic or outside of one's true nature, since Existence is Positive
 Negative Force | the force from the desire of Existence that leads to separation, repulsion, and isolation, leading to Existence. Also, Shakti or Yin.
+Non-Locality | Action at a Distance (Einstein); True motion (Descartes)
 Omnitheism | a paradigm that views all Supreme Entities as different versions of one Supreme Entity 
 Passive Observation | Observing the object without doing anything to it.
-Personality Structure | Determines the DNA patterns of the body in order to reinforce the belief system [samskara] (Bashar)
+Personality Structure | Determines the DNA patterns of the body in order to reinforce the belief system [samskara] (Bashar-causal); A collaborated composition of the physical, mental, spiritual body (Sarkar-effect)
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
 Religion | a belief system that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings)

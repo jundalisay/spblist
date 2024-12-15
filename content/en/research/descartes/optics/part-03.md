@@ -1,7 +1,7 @@
 ---
 title: "The Eye"
 heading: "Discourse 3"
-weight: 8
+weight: 10
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

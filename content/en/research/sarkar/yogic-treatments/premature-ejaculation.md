@@ -41,4 +41,5 @@ Low thinking, bad company, intoxicants and non-vegetarian food should be complet
 ## Remedies
 
 1. One inch of basil (Ocimum sanctum Linn.) root, if eaten after chewing very well along with a betel (Piper betle Linn.) leaf daily for about two weeks, will give excellent results.
+
 2. Well-developed roots of the shimúla tree should be dried in the shade and ground into fine powder. 1/4 tola of this powder should be taken along with milk every morning.

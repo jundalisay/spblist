@@ -30,9 +30,11 @@ Unlke the lower layers where forces and particles are easily distinguishable, th
 
 Physical perceptions are made possible by physical existence. Conversely, physical perceptions prove physical existence. 
 
-Superphysics allows 2 domains, a metaphysical and a physical. This means that metaphysical perceptions from a metaphysical existence is also possible. This will be explained by Bio Superphysics.
+Superphysics allows 2 domains, a metaphysical and a physical. This means that metaphysical perceptions from a metaphysical existence are also possible. This will be explained by Bio Superphysics.
 
-Physical existence, as a whole, links to the lowest Elements and Strata of Bio Superphysics and Spiritual Superphysics. 
+Physical existence, as a whole, links to:
+- the lowest Elements of Bio Superphysics
+- the lowest Strata of Spiritual Superphysics
 
 
 
@@ -52,7 +54,10 @@ Therefore, the physical universe (as a substance) and identities, such as subato
 This is the foundation of atom-shaking. 
 
 
-### Medium of Aether 3: Identity
+### Medium of Aether 3: Identity Sublayer
+
+
+This is the limiter 
 
 Superphysics defines:
 - intellect as the ability to combine and harmonize multiple reasonings of cause and effect together 

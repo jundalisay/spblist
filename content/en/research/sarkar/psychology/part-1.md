@@ -75,7 +75,7 @@ Then, the physical body should be sanctified by:
 - good food
 - physical practices that affect the nerve fibres of the body
 
-This is because the first phase of realization comes through the nerve fibres, the afferent and efferent nerves, . 
+This is because the first phase of realization comes through the nerve fibres, the afferent and efferent nerves. 
 
 The highest realization does not depend on the nerve cells and nerve fibres, but for this also good food and self-restraint are necessary.
 

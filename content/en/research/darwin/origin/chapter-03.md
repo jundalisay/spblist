@@ -1,5 +1,5 @@
 ---
-title: Struggle for Existencen
+title: Struggle for Existence
 heading: Chapter 3
 weight: 16
 description: "Organic beings in a state of nature has some individual variability"
@@ -32,66 +32,120 @@ My book is based on the existence of:
 
 But these help us little in understanding how species arise in nature.
 
-How have all those
-exquisite adaptations of one part of the organisation to another part, and to the conditions of life,
-and of one distinct organic being to another being, been perfected? We see these beautiful co-adaptations most plainly in the woodpecker and missletoe; and only a little less plainly in the humblest parasite which clings to the hairs of a quadruped or feathers of a bird; in the structure ofthe beetle which dives through the water; in the plumed seed which is wafted by the gentlest breeze; in short, we see beautiful adaptations everywhere and in every part of the organic world.
-Again, it may be asked, how is it that varieties, which I have called incipient species, become
-ultimately converted into good and distinct species, which in most cases obviously differ from each
-other far more than do the varieties of the same species? How do those groups of species, which
-constitute what are called distinct genera, and which differ from each other more than do the
+How have all those adaptations been perfected? 
+
+<!-- of one part of the organisation to another part, and to the conditions of life, and of one distinct organic being to another being,   -->
+
+How do varieties become distinct species?
+
+<!-- Again, it may be asked, how is it that varieties, which I have called incipient species, become
+ultimately converted into good and  -->
+
+ which in most cases obviously differ from each
+other far more than do the varieties of the same species? 
+
+Genera are groups of species. How do their differences with other genera arise?
+
+<!-- , which constitute what are called distinct , and which differ from each other more than do the
 species of the same genus, arise? All these results, as we shall more fully see in the next chapter,
-follow inevitably from the struggle for life. Owing to this struggle for life, any variation, however
+follow inevitably from the struggle for life.  -->
+
+These are caused by the struggle for life.
+
+All variations are for self-preservation. These will generally be inherited by its offspring.
+
+<!--  any variation, however
 slight and from whatever cause proceeding, if it be in any degree profitable to an individual of any
 species, in its infinitely complex relations to other organic beings and to external nature, will tend
-to the preservation of that individual, and will generally be inherited by its offspring. 
+to the preservation of that individual, and will   -->
 
-The offspring, also, will thus have a better chance of surviving, for, of the many individuals of any
-species which are periodically born, but a small number can survive. I have called this principle,
-by which each slight variation, if useful, is preserved, by the term of Natural Selection, in order to
-mark its relation to man's power of selection. We have seen that man by selection can certainly
-produce great results, and can adapt organic beings to his own uses, through the accumulation of
-slight but useful variations, given to him by the hand of Nature. But Natural Selection, as we shall
-hereafter see, is a power incessantly ready for action, and is as immeasurably superior to man's
-feeble efforts, as the works of Nature are to those of Art.
+<!-- The offspring, also, will thus have a better chance of surviving, for,  -->
 
-We will now discuss in a little more detail the struggle for existence. In my future work this
-subject shall be treated, as it well deserves, at much greater length. The elder De Candolle and
-Lyell have largely and philosophically shown that all organic beings are exposed to severe
-competition. In regard to plants, no one has treated this subject with more spirit and ability than W.
-Herbert, Dean of Manchester, evidently the result of his great horticultural knowledge. Nothing is
-easier than to admit in words the truth of the universal struggle for life, or more difficult--at least I have found it so--than constantly to bear this conclusion in mind. Yet unless it be thoroughly
+Of the many individuals of any species which are born, only a few can survive. 
+
+I have called this principle as Natural Selection in order to relate it to artficial selection [used in breeding]. 
+
+<!-- , by which each slight variation, if useful, is preserved, by the term of , in order to mark its relation to man's power of selection.  -->
+
+By selection, humans can adapt organic beings to his own uses through the accumulation of
+slight but useful variations given to him by Nature.
+
+But Natural Selection is:
+- a power incessantly ready for action. 
+- as immeasurably superior to man's feeble efforts, as the works of Nature are to those of Art.
+
+
+### The struggle for existence
+
+The elder De Candolle and Lyell have shown that all organic beings are exposed to severe competition.
+
+ <!-- , no one has treated this subject with more spirit and ability than  -->
+
+W. Herbert, Dean of Manchester had great horticultural knowledge. He showed this for plants.
+
+The universal struggle for life is:
+- the easiest to admit
+- the hardest to keep in mind*
+
+{{< n n="This is because the idea is very negative, but the mind is postiive" >}}
+
+<!-- in words the truth of , or more difficult--at least I have found it so--than constantly to bear this conclusion in mind. -->
+
+ Yet unless it be thoroughly
 engrained in the mind, I am convinced that the whole economy of nature, with every fact on
 distribution, rarity, abundance, extinction, and variation, will be dimly seen or quite misunderstood.
-We behold the face of nature bright with gladness, we often see superabundance of food; we do not
-see, or we forget, that the birds which are idly singing round us mostly live on insects or seeds, and
-are thus constantly destroying life; or we forget how largely these songsters, or their eggs, or their
-nestlings, are destroyed by birds and beasts of prey; we do not always bear in mind, that though
-food may be now superabundant, it is not so at all seasons of each recurring year.
 
-I should premise that I use the term Struggle for Existence in a large and metaphorical sense,
-including dependence of one being on another, and including (which is more important) not only
-the life of the individual, but success in leaving progeny. Two canine animals in a time of dearth,
-may be truly said to struggle with each other which shall get food and live. But a plant on the edge
-of a desert is said to struggle for life against the drought, though more properly it should be said to
-be dependent on the moisture. 
 
-A plant which annually produces a thousand seeds, of which on an
-average only one comes to maturity, may be more truly said to struggle with the plants of the same
-and other kinds which already clothe the ground. The missletoe is dependent on the apple and a
-few other trees, but can only in a far-fetched sense be said to struggle with these trees, for if too
-many of these parasites grow on the same tree, it will languish and die. But several seedling
-missletoes, growing close together on the same branch, may more truly be said to struggle witheach other. 
+We are happy to see the superabundance of food in Nature. But we forget that:
+- the birds which sing around us are constantly destroying life by eating insects or seeds.
+- their eggs are destroyed by beasts of prey
+- food might be scarce in the next season even if they are now superabundant
 
-As the missletoe is disseminated by birds, its existence depends on birds; and it may metaphorically be said to struggle with other fruit-bearing plants, in order to tempt birds to devour and thus disseminate its seeds rather than those of other plants. In these several senses, which pass into each other, I use for convenience sake the general term of struggle for existence.
-A struggle for existence inevitably follows from the high rate at which all organic beings tend to
-increase. Every being, which during its natural lifetime produces several eggs or seeds, must suffer
+This "Struggle for Existence" is metaphorical. It includes:
+- the dependence of one being on another
+- the individual's life
+- the success in having offspring.
+
+Two canine animals in a time of dearth, might struggle with each other on which shall get food.
+
+But a plant in a desert struggles for life against the drought by being dependent on moisture. 
+
+A plant might only have a few of its thousands of seeds reach maturity.
+- It struggles with the other plants that already exist. 
+
+<!-- The missletoe is dependent on the apple and a few other trees.
+
+but can only in a far-fetched sense be said to struggle with these trees, for if too
+many of these parasites grow on the same tree, it will languish and die.  -->
+
+Several seedling missletoes that grow close together on the same branch struggle with each other.
+
+The missletoe is spread by birds and so its existence depends on birds.
+- It metaphorically struggles with other fruit-bearing plants, in order to tempt birds to devour and thus disseminate its seeds rather than those of other plants. 
+
+<!-- In these several senses, which pass into each other, I use for convenience sake the general term of struggle for existence. -->
+
+The high population growth rate of organic beings inevitably leads to a struggle for existence.
+
+<!-- Every being, which during its natural lifetime produces several eggs or seeds, must suffer
 destruction during some period of its life, and during some season or occasional year, otherwise, on
 the principle of geometrical increase, its numbers would quickly become so inordinately great that
-no country could support the product. Hence, as more individuals are produced than can possibly
-survive, there must in every case be a struggle for existence, either one individual with another of
-the same species, or with the individuals of distinct species, or with the physical conditions of life.
-It is the doctrine of Malthus applied with manifold force to the whole animal and vegetable
-kingdoms; for in this case there can be no artificial increase of food, and no prudential restraint
-from marriage. Although some species may be now increasing, more or less rapidly, in numbers,
-all cannot do so, for the world would not hold them.
+no country could support the product.  -->
+
+Hence, the more population increases, the more the struggle for existence.*
+
+{{< n n="This is only true if those beings are inherently negative and selfish" >}}
+
+ <!-- as more individuals are produced than can possibly survive, there must in every case be a , either one individual with another of the same species, or with the individuals of distinct species, or with the physical conditions of life. -->
+
+
+This doctrine is the doctrine of Malthus applied with manifold force to the animal and vegetable
+kingdoms. This is because in the wild:
+- food cannot be increased artificially 
+- marriages cannot be restrained
+
+<!-- for in this case there can be no  increase of food, and no prudential restraint
+from .
+
+Although some species may be now increasing, more or less rapidly, in numbers, all cannot do so, for the world would not hold them. -->
 

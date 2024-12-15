@@ -30,17 +30,26 @@ In Sanskrit the region across the top of the head above the ears is called sná
 
 A vibration from any part of the body takes one two-hundredths of a second to reach the cranium.
 
-Suppose an insect bites your hand. The sensation will travel through your afferent nerves to the brain. Immediately an order, which will travel through the efferent nerves, will be given to remove the insect.
+Suppose an insect bites your hand. The sensation will travel through your afferent nerves to the brain. 
+
+Immediately, an order to remove the insect will be given and travel through the efferent nerves.
 - “Afferent nerves” mean “sensory nerves” in Latin, saḿjiṋá nád́ii in Sanskrit
 - “Efferent nerves” mean “motor nerves”, ájiṋá nád́ii in Sanskrit
 
 The nerve cells are active and work directly in the conscious (jágrata), subconscious (svapna) and unconscious (suśupta) states of mind, although the Sanskrit and English terms for these three states are not exactly synonymous. 
 
-When the nerves do not work properly, sometimes people experience a condition which may be described as feeling unnerved.
+When the nerves do not work properly, people get a feeling of being unnerved.
 
-For example, if a person is hit on the head and the balance between their afferent and efferent nerves is lost, the person may forget everything, lose his or her discrimination and be unable to decide what to do. 
+ <!-- experience a condition which may be described as feeling . -->
 
-The same condition may occur after a nightmare. If a man dreams that he is being chased by a ghost and falls down and knocks his head, he may suddenly wake up covered in perspiration, suffering from the same symptoms as if he had actually been hit on the head while awake. In such a condition we say he is feeling unnerved.
+For example, if a man is hit on the head and the balance between their afferent and efferent nerves is lost, he may forget everything.
+- He may lose his discrimination and be unable to decide what to do. 
+
+The same condition may occur after a nightmare.
+
+If a man dreams that he is being chased by a ghost and falls down and knocks his head, he may suddenly wake up covered in perspiration, suffering from the same symptoms as if he had actually been hit on the head while awake. 
+
+In such a condition we say he is feeling unnerved.
 
 
 ## The Chakras
