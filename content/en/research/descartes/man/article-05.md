@@ -43,15 +43,19 @@ When one of these beats ceases, another is about to begin. At that moment:
 
 In this way, 2 drops of blood fall through these 2 veins, one into each cavity of the heart. 
 
- <!-- it is impossible for the blood from the two veins to flow out immediately: one droplet into the right ventricle and another into the left ventricle of the heart. -->
+ <!-- it is impossible for the blood from the two veins to flow out immediately: one droplet into the right ventricle and another into the left ventricle of the heart. rarefied-->
 
-These drops of blood then become rarefied, and suddenly spread out into a larger space to occupy it. They push and close those valves at the entrances of the 2 veins.
+These drops of blood then become decompresed and suddenly spread out into a larger space to occupy it.
 
-This prevents any more excess blood from going down into the heart. They then push and open the valves of the 2 arteries, through which they promptly and forcefully rush from the heart.
+They push and close those valves at the entrances of the 2 veins.
+
+This prevents any more excess blood from going down into the heart. 
+
+They then push and open the valves of the 2 arteries, through which they promptly and forcefully rush from the heart.
 
 This makes the heart and all the arteries of the body swell at the same time.
 
-But immediately afterwards, this rarefied blood condenses again, or enters the other parts. 
+But immediately afterwards, this decompressed blood condenses again, or enters the other parts. 
 
 And so the heart and arteries swell up:
 - the valves at the 2 entrances of the arteries close again
@@ -66,7 +70,9 @@ The 2 kinds of blood are:
 - The blood in the veins is freshly transferred from the liver.
 - The blood in the arteries and already perfected in the heart.
 
-The cause of the arterial pulse explains how both of these 2 kinds of blood adheres to other parts of the blood and restores whatever was expelled from the continuous actions and movement of these parts.
+The cause of the arterial pulse explains how these 2 kinds of blood:
+- adheres to other particles of the blood
+- restores whatever was expelled from the continuous actions and movement of these parts.
 
  <!-- and various  of other surrounding bodies expel.  -->
 

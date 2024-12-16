@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-#### 8. When arteries swell, the blood particles within them are dispersed in all directions to the roots of certain filaments.
+#### 8. When arteries swell, the blood particles within them are dispersed in all directions to the roots of certain filaments
 
 These filaments form bones, flesh, skin, nerves, brain, and other solid parts according to the various ways they are connected and interwoven. 
 

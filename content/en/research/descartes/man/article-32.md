@@ -1,6 +1,6 @@
 ---
 heading: Article 32
-title: "The Spirits and Motion"
+title: "The Animal Spirits and Motion"
 # date: 2022-01-29
 weight: 50
 description: "How do the spirits enter into the nerves and create motion?"
@@ -15,8 +15,6 @@ writer:
 
  <!-- consider the motions dependent on them.  -->
 
-
-
 The animal spirits will not receive the impression of a certain idea if, in the innermost part of the brain, some of the tubes:
 - are not more open, or
 - are in a different manner than others 
@@ -26,7 +24,6 @@ The spirits will then be dispersed haphazardly and indifferently in all directio
 
 Hence, the finer particles of them will flow out completely through the pores of the membrane that envelops it. 
 - The remaining parts of the spirits flowing towards `D` will pass into the nerves and muscles without producing any particular effect in them, as they are evenly distributed to all. 
-
 
 
 The action of an object on the sensing agent will open some of those tubes:

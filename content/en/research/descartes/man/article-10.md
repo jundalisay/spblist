@@ -22,13 +22,13 @@ This is the conclusion from examining the sieve-like structure.
 
 For example, those particles with enough strength to reach `D` but are denied further passage to `C` due to the narrowness of the location, return rather to `E` than to `F` or `G`, as the direct path leads there.*
 
-{{< n n="In yoga biopsychology, this is because the relationship between the chi or prana or animal spirits that usually go around the sex organs are opposite those that go the brain. This is why intelligent people have no sex life, and those with too much sex are less intelligent (i.e. their sex activities deplete the chi for their brains). This is why Buddhism and Hinduism has rules against sex, as Brahmacarya" >}}
+{{< n n="In yoga biopsychology, this is because the relationship between the chi or prana or animal spirits that usually go around the sex organs are opposite those that go the brain. This is why intelligent people have no sex life, and those with too much sex are less intelligent (i.e. their sex activities deplete the chi for their brains). This is why Buddhism and Hinduism have rules against sex, as Brahmacarya" >}}
 
 {{< img src="/graphics/bio/fig05-10.jpg" alt="Brain stem" >}}
 
 I could perhaps demonstrate how another machine identical to this one could be formed from the fluid that gathers around `E`.* However, I do not wish to digress further.
 
-{{< n n="This would have explained how sperm is produced from strong particles" >}}
+{{< n n="This would have explained how sperm is produced from strong particles and how strong or weak sperm is a sign of strong or weak vitality" >}}
 
 
 

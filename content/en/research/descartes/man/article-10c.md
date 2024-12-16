@@ -1,7 +1,7 @@
 ---
 heading: Article 10c
 title: How the Animal Spirits Move the Muscles
-weight: 17
+weight: 18
 description: "The portion of blood that rises up to the brain through the arteries primarily produces the animal spirits"
 writer:
   name: Rene Descartes

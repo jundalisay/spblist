@@ -1,70 +1,81 @@
 ---
-heading: Article 29
-title: "The Brain"
-# date: 2022-01-29
-weight: 44
-description: "The brain is like a fairly expanded, dense, and intricately woven plexus, resembling a mesh of crosshatched texture"
-image: "/covers/man.jpg"
+heading: Article 28b
+title: The Distribution of the Animal Spirits
+weight: 41
+description: "The pores of the brain are like the intervals between the threads of linen"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+image: "/covers/man.jpg"
+icon: "/icons/descartes.png"
 ---
 
 
 
-### 29. Conceive the surface `AA`, which faces the concavities `EE`. 
+The distribution of spirits explains the mechanics of the pineal gland. 
 
-It is like a fairly expanded, dense, and intricately woven plexus, resembling a mesh of crosshatched texture.
+These spirits are not confined to any place.
 
-Each of its filaments is a tube which the spirits enter.
+As they enter the ventricles of the brain `EE` through the openings `H` in the pineal gland, they immediately tend towards the tubes `aa`, which are directly opposed to them.
 
-The spirits emanate from gland H. They can easily turn themselves here and there to the different points of that gland, being differently oriented in figure 48 than in 49. 
-
-That gland has countless very delicate filaments emerging from it. 
-
-Some are ordinarily longer than others. 
-
-However, after these filaments have been interwoven in various ways throughout space B, the longer ones descend to D, from there forming the medulla of the nerves, which are then distributed throughout all the limbs. 
-
-The main quality of these filaments is that they can be easily folded and bent in various ways solely by the force of the spirits that touch them, just as if they were made of lead or wax. Therefore, they always retain the fold to which they were last affected until another is impressed on them by spirits acting in the opposite manner. 
-
-
-The pores here are the spaces found between these filaments. These spaces can be extended and contracted in various ways by the force of the spirits that enter them.
-
-<!-- , depending on whether that force is stronger or weaker.  -->
-
-The shorter filaments of this plexus are received into space CC, where each terminates at the ends of certain vessels there, through which the brain receives nourishment. 
-
-<!-- To explain everything noteworthy that occurs in this plexus, it will be worth discussing  -->
-
-## The Distribution of Spirits
-
-They are not confined to any place. 
-
-As they enter the ventricles of the brain EE through the openings marked by the letter H on the gland, they tend immediately towards the tubes aa, which are directly opposed to them.
+{{< i s="/graphics/bio/fig_28.jpg" a="Brain" c="Figure 31" >}}
 
 If these tubes are less open to receive all of them, at least the stronger and more agile ones will be received. 
 
-Meanwhile, the weaker and residual ones are repelled towards the channels I, K, L, which face the nostrils and palate. 
+Meanwhile, the weaker and residual ones are repelled towards the channels `I`, `K`, `L`, which face the nostrils and palate.
 
-Specifically, they are more agitated towards channel I, through which, when they still have sufficient vigor and find less free exit, they sometimes leap forth so impetuously as to cause tickling in the interior parts of the nostrils, and thus sneezing. 
+Specifically, they are more agitated towards channel `I`.
+- When they have enough vigor and find less free exit, they sometimes leap forth impetuously from this channel.
+- This causes tickling in the interior parts of the nostrils, and thus sneezing. 
 
-Then, the remaining spirits are received into K and L, where the channels, being very capacious, allow easy passage for them; or if entry is denied there, forcing them to return to the tubes aa, which are on the inner surface of the brain, causes immediate scotoma or vertigo, disturbing the functions of imagination.
+The remaining spirits are then received into channels `K` and `L`, which are very capacious. 
+- This allows easy passage for them.
 
-Moreover, it is worth noting that while I say the spirits, in their exit from gland H, tend towards the concave spaces or the inner surface of the brain directly opposite to them, I do not mean that they tend directly towards those two points diametrically opposite to them.
+If entry is denied there, they are forced to return to the tubes `aa` which are on the inner surface of the brain.
+- This causes immediate scotoma or vertigo, disturbing the functions of imagination. 
 
-The substance of the brain is very soft and pliable. Its cavities would be very narrow and almost entirely closed. This is seen in the brain of a corpse.
+When the spirits exit from gland `H`, they tend towards the concave spaces or the inner surface of the brain directly opposite to them.
 
-<!-- , if certain spirits did not enter them.  -->
+I do not mean that they tend directly towards those two points diametrically opposite to them. 
 
-But the origin from which those spirits emanate usually abounds with such a copious supply of them that as soon as they enter the ventricles of the brain, they have the strength to remove any surrounding material hindering them, to inflate it, and to intensify all the nerve filaments that proceed from it, just as a slightly stronger wind can spread sails and stretch all the ropes to which they are attached. 
+The substance of the brain is very soft and pliable.
 
-Thus, this machine is arranged as to obey all the actions of the spirits equally. It carries the body of a waking person before it. Or at least the spirits have the power to push and thus expand a certain part of the brain, while the others remain motionless and slack, just as we observe slack and relaxed sails when the wind is too weak to fill and fully expand them. 
+Its cavities would be very narrow and almost entirely closed, as is seen in the brain of a corpse when certain spirits did not enter them. 
 
-When the machine is arranged in this way, it represents the body of a sleeping person to whom various phantasms occur through dreams. 
+But the origin place where those spirits emanate  usually abounds with spirits. 
 
-For example, conceive of the difference between M and N, which we observe between a person half-awake and sleeping, and simultaneously dreaming, as shown in Figure 32.
+As soon as they enter the brain's ventricles, they have the strength to:
+- remove any surrounding material hindering them
+- inflate any surrounding material
+- intensify all the nerve filaments that proceed from it
+
+This is similar to how a slightly stronger wind can spread sails and stretch all the ropes attached to them. 
+
+Thus, our body is arranged to obey all the actions of the spirits equally.
 
 
-<!-- But before I delve into sleep and its particular dreams, it will be worth considering all those things that happen in the brain during waking hours: how indeed ideas of objects are formed in the seat of imagination and common sense, and how they are preserved in memory, stirring the movement of all the limbs. -->
+### Being Asleep and Awake
 
+The moving spirits carry the body of a waking person before it. 
+
+At least, the spirits have the power to push and thus expand a part of the brain, while the other parts remain motionless and slack.
+- This is similar to sails relaxing when the wind is too weak.
+
+ <!-- to fill and fully expand them. -->
+
+The body that is arranged in this way represents the body of a sleeping person to whom various phantasms occur through dreams.
+
+
+For example, conceive of the difference between `M` and `N`, which we observe between a person half-awake and sleeping, and simultaneously dreaming.
+
+
+{{< i s="/graphics/bio/fig_29.jpg" a="Awake" c="The brain when awake" >}}
+
+{{< i s="/graphics/bio/fig_30.jpg" a="Asleep" c="The brain when asleep" >}}
+
+<!-- , as shown in Figure XXXII. -->
+
+
+<!-- But before I delve into sleep and its particular dreams, it will be worth considering all those things that happen in the brain during waking hours: 
+
+ -->

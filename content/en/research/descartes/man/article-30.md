@@ -1,6 +1,6 @@
 ---
 heading: Articles 30-31a
-title: "Ideas and Memory"
+title: "How are Our Ideas Formed?"
 # date: 2022-01-29
 weight: 46
 description: "That obliquity serves the formation of the ideas of objects which strike the senses"
@@ -11,113 +11,84 @@ writer:
 ---
 
 
-### 30. The spirits flow out from gland `H` from the marked figure `M` after they have dilated the part of the brain marked `A` and all pores are opened. 
+### 30. How are our ideas of objects formed in the seat of imagination and common sense?
+
+How are they preserved in memory? How do they stir the movement of all the limbs?
+
+The spirits flow out from the pineal gland `H` from the area `M` after they have dilated the part of the brain marked `A` and all pores are opened. 
 
 They then withdraw from there to `B`, then to `C`, and finally towards `D`, from where they spread into all the nerves.
 
 {{< i s="/graphics/bio/brain.jpg" a="Brain" >}}
 
-In this way, all the filaments from which the nerves and brain are composed are so closely connected that even actions of very slight force in moving are easily communicated from one end to the other.
+<!-- In this way, all the filaments from which  -->
 
-The obliquity of the paths they traverse is by no means an impediment. 
+The nerves and the brain are composed of filaments which are so closely connected.
+- Even actions of very slight force in moving are easily communicated from one end to the other.
 
+The obliquity of the paths they traverse is not an impediment. 
+- That obliquity serves the formation of the ideas of objects which strike the senses.
 <!-- But so that these windings of the paths may not hinder you from clearly perceiving how  -->
 
-That obliquity serves the formation of the ideas of objects which strike the senses. 
+The filaments `1, 2, 3, 4, 5, 6`, and the like, compose the optic nerves. 
+- These are expanded from the bottom of the eye `1, 3, 5` to the inner surface of the brain `2, 4, 6`.
 
-<!-- , cast your eyes on this figure.  -->
-
-The filaments 1, 2, 3, 4, 5, 6 (Figure XXXIV), and the like, compose the optic nerves. These are expanded from the bottom of the eye 1, 3, 5, to the inner surface of the brain 2, 4, 6.
-
-These filaments are so arranged that if rays drawn, for example, from point A, press on the bottom of the eye at point i, they will in that manner draw the entire filament 1, 2 and extend and open more the tube marked number 2.
-
-In exactly the same way, rays incident on point 3 open the tube 4.
-
- Let the same judgment apply to the others, so that just as the different ways in which points 1, 3, 5 are pressed by these rays impress on the bottom of the eye a shape corresponding to object A, B, C, as stated above. 
-
- The various ways in which the tubes 2, 4, 6 are open should also imprint their trace on the inner surface of the brain through filaments 1, 2, 3, 4, 5, 6, etc.
+{{< i s="/graphics/bio/fig_34.jpg" a="Brain" >}}
 
 
+These filaments are so arranged that if rays drawn, for example, 
 
-### 31. The spirits which try to enter each of the tubes 2, 4, 6, and similar ones, not to come out indifferently from all points that are on the surface of gland H, but only from certain ones individually.
+If the rays from point `A` press on the bottom of the eye at point `i`, they will:
+- draw the entire filament `1, 2`
+- extend and open more the tube `2`.
 
-For example, those which come out from point A, strive to enter tubes 4 and 6, and so on for the others. 
+In exactly the same way, rays incident on point `3` open tube `4`.
 
-As soon as the openings of those tubes become larger, the spirits from the surface of this gland begin to exit more freely and quickly than before, looking towards those points on the tubes. 
+This applies to the others. 
 
-Just as the different ways in which the tubes 2, 4, 6 are open impress a shape on the inner surface of the brain similar to the object ABC, so also those modes or determinations which arise from spirits flowing from points ABC imprint the same shape on the surface of the gland. 
+The points `1, 3, 5` are pressed differently by these rays.
+- These then impress on the bottom of the eye a shape corresponding to object `A, B, C`
 
-"Shape" here means not only those things which represent the determinations of lines and the surfaces of objects in a certain way, but also all those things which in the manner mentioned above can give occasion to the soul to perceive motion, distance, magnitude, colors, sounds, smells, and other similar qualities.
-
-Even those by which the soul may perceive tickling, pain, hunger, joy, sadness, or other similar passions. 
-
-A tube, for example, may be opened in a different way by an action other than the one I mentioned, to excite the sensation of red color or the sensation of tickling, than to induce the sensation of white color or that of pain, as I have asserted. 
-
-The spirits flowing from point A tend to enter this tube in different ways depending on how it has been opened, and so on for the others. 
-
-But these shapes are not to be counted among those which are inscribed on the organs of external senses or on the inner surface of the brain. 
-
-Only those are to be considered, which the spirits are affected by on the surface of gland H, where the seat of imagination and common sense is. 
-
-These are to be taken as ideas, that is, as forms or images which the rational soul will consider immediately after this machine is united, when it imagines or feels some object.
+The tubes `2, 4, 6` are open in various ways.
+- These also imprint their trace on the inner surface of the brain through filaments `1, 2, 3, 4, 5, 6`, etc.
 
 
-It will imagine or feel since by the term 
+### 31. How the spirits enter and exit the pineal gland
 
-"Ideas" are any impressions received by the spirits emanating from gland H. 
+The spirits which try to enter each of the tubes `2, 4, 6` and similar ones of the pineal gland 
 
-These depend on the presence of an object and so must be referred to common sense. 
+ not to come out indifferently from all points that are on the surface of gland H, but only from certain ones individually.
 
-But they can also arise from many other causes, as I will show later. 
+Those which come out from point `A` strive to enter tubes `4` and `6`, and so on for the others. 
 
-And then they must be attributed to imagination. 
+As soon as the openings of those tubes become larger, the spirits from the surface of the pineal gland begin to exit more freely and quickly than before.
+- They look towards those points on the tubes. 
 
-The traces of these ideas pass through the arteries into the heart. From there, they spread their rays throughout the whole blood. 
+The different ways in which the tubes `2, 4, 6` are open impress a shape on the inner surface of the brain similar to the object `ABC`.
 
-They can sometimes be so determined by the mother's actions that they impress themselves on the limbs of the infant being formed in the mother's womb. 
+Likewise, those modes or determinations which arise from spirits flowing from points `ABC` imprint the same shape on the surface of the pineal gland. 
 
-<!-- But it will suffice for you to understand how they are impressed : where  -->
+"Shape" here means:
+- those things which represent the determinations of lines and the surfaces of objects in a certain way
+- those things which can make the soul perceive motion, distance, magnitude, colors, sounds, smells, and other similar qualities.
+  - These include those things that make the soul perceive tickling, pain, hunger, joy, sadness, or other similar passions.
 
-The seat of memory is in the internal parts of the brain, marked B. How are ideas impressed there? 
+For example, a tube might be opened in a different way by an action other than the one I mentioned.
 
-After the spirits that emanate from `gland H` have received the impression of an idea there, they pass through points 2, 4, 6, and similar ones, into the pores found between the filaments from which that part of the brain BB is composed. 
+This would then excite the sensation of red color or the sensation of tickling, instead of inducing the sensation of white color or that of pain. 
 
-These spirits have the power to"
-- expand the spaces to some extent
-- fold and arrange the filaments through which they pass, according to:
-  - the various ways in which they move, and
-  - the various openings of the tubes through which they pass: so that they also imprint shapes similar to the shapes of objects there.
+The spirits flowing from point `A` tend to enter this tube in different ways depending on how it has been opened, and so on for the others. 
 
-However, they are not impressed there with such ease or perfection at first as they are on gland `H`. 
+But these shapes are not among those shapes inscribed on:
+- the organs of external senses or
+- the inner surface of the brain
 
-But gradually, better and more accurately: to the extent that the action of the spirits is either stronger, longer-lasting, or more frequently repeated.
+The shapes are those which are affected by the spirits on the surface of the pineal gland `H`. 
+- The pineal gland is the seat of imagination and common sense. 
 
-This is why these shapes are not so easily erased, but remain there. 
-
-Through them, the ideas that were once impressed on that gland can be formed there again long after, even in the absence of the objects of Figure XXXV, of which they are the likenesses.
-
-In this matter consists memory.
-
-For example, when the action of object `ABC` more widely opens tubes 2, 4, 6, 8, it is the cause that spirits enter them in greater abundance than they could without this aid. 
-
-It is also the cause that as they pass further to N, they have the power to form certain channels for themselves there, which, even when the action of object ABC ceases, remain open: or at least if they are closed, they leave behind them a disposition in the filaments from which that part of the brain N is composed, through which they can be easily reopened far more readily than if they had never been opened. 
-
-Figure 36 
-
-Just as if multiple needles had passed through the fabric, as you see in that marked A, the small holes made in it would remain open, as around B, even after the needles were removed.
+These shapes are ideas.
+- These are forms or images which the rational soul will consider immediately after this machine is united, when it imagines or feels some object.
 
 
-Or if they were closed again, certain signs would nevertheless remain in that texture, such as around O: which could be easily reopened anew. 
+<!-- It will imagine or feel since by the term  -->
 
-Figure 37. 
-
-Moreover, it must be noted that if only certain ones of them were opened again, such as A and B for that reason alone, even others, for instance C and D, would also be opened at the same time: especially if they had been opened together more often, and others had not been accustomed to opening without them.
-
-
-This is how the recollection of one thing can be aroused by the memory of another that was impressed on memory at the same time. 
-
-Just as, with the nose and eyes perceiving sight, I immediately imagine the forehead, mouth, and all the other parts of the face: because I am accustomed to seeing none of those parts without looking at all of them together. 
-
-Similarly, looking at fire, I remember its heat: since often, by seeing fire, I also perceive its heat simultaneously. 
-
-Figure 38. 

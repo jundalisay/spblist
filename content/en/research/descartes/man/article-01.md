@@ -58,15 +58,25 @@ I will explain instead the small parts which are invisible because of their smal
 <!-- of this machine -->
 
 
-#### 3. The meats are digested in the stomach through the force of certain liquors.
+#### 3. The meats are digested in the stomach through the force of certain liquors
 
-These liquors slip between their parts, separate, agitate, and heat them just as common water does the same to quicklime, or strong water those of metals.
+These liquors slip between their particles, separate, agitate, and heat them just as:
+- common water does the same to quicklime, or
+- strong water does for metals.
 
 These liquors, brought from the heart by the arteries, become very hot.
 
 The meats could even corrode and heat up by themselves, just as new hay does in the barn when it is squeezed before it is dry.
 
-The agitation that the small parts of these meats receive as they heat up, combined with that of the stomach and the intestines that contain them, and with the arrangement of the small threads of which these intestines are composed, means that as they digest, they descend little by little towards the conduit through which the coarser parts of them must leave; that prevents the bran from following it. 
+The small particles of these meats receive agitation as they heat up.
+
+This combines with the heat of the stomach and the intestines that contain them.
+- These intestines are composed of small threads.
+- These are arranged to use the heat to digest food
+
+
+The food then descends little by little towards the conduit through which the coarser parts of them must leave.
+- This prevents the bran from following it. 
 
 These subtler parts of the meats are uneven and still imperfectly mixed together. 
 - These make up a liquor which is hollow and whitish when unmixed with blood
@@ -78,16 +88,21 @@ But a part of it mingles incontinently with the mass of blood in all the branche
 <!-- ), and in the liver, as well as in a single vessel. -->
 
 The pores of the liver make the entering liquor more subtle so that it elaborates itself.
-- It takes on its color and acquires the form of blood, just as the juice of black grapes, which is white, is converted into clear wine when it is left to ferment on the grater.
+- It takes on its color and acquires the form of blood.
+- This is similar to the juice of black grapes, which is white, converts into clear wine when it is left to ferment on the grater.
 
 This blood in the veins leaves the liver only through one way that also leads it into the right side of the heart.
 
 
 ## The Heart
 
-The flesh of the heart contains in its pores one of those lightless fires of which I have spoken above, which makes it so hot and burning. 
+The flesh of the heart contains in its pores one of those lightless fires.
+- This makes it so hot and burning. 
 
-As blood enters any of the 2 chambers in it, it swells rapidly and expands. This is like what happens when you pour the milk from any animal drop by drop into a very hot vessel.
+ <!-- of which I have spoken above, which -->
+
+As blood enters any of the 2 chambers in it, it swells rapidly and expands.
+- This is similar to pouring milk drop by drop into a very hot vessel.
 
 The fire in the heart dilates, warms, and subtilises the blood which falls in continuously drop by drop through a pipe of the vena cava in its right cavity from where it exhales in the lung. 
 
@@ -101,7 +116,7 @@ It is always refreshed by the air of the breath.
 
 The vapors of the blood come out of the right cavity of the heart and enter the flesh of the lungs to be thickened and converted into blood again.
 
-From there, they fall drop by drop into the left cavity of the heart, where they serve as fuel for the fire in the heart. 
+From there, they fall drop by drop into the left cavity of the heart, where they serve as fuel for the fire in the heart.
 
 <!-- if they entered without being thus thickened again, they would not be sufficient to serve as food for the fire which is there. -->
 
@@ -111,5 +126,7 @@ Respiration serves only to thicken these vapors to maintain this fire.
 
 
 Babies who are still in their mothers' wombs cannot draw any fresh air by breathing. They have 2 conduits which make up for this defect:
+
 1. One through which the blood of the vena cava passes into the vein called the artery
+
 2. The other through which the vapors or rarefied blood of the artery called the vein are exhaled and go into the great artery

@@ -125,9 +125,9 @@ paginate = 12
       icon = "/icons/spmat.png"
       link= "/material/principles"
     [languages.en.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-02"
+      url = "/material/principles/intro/chapter-01"
       img= "/graphics/physics/aetherdrag.jpg"
-      title = "The Five Layers or Elements of Superphysics"
+      title = "The Five Layers of Superphysics"
       sub = "The Material, Convertible, Radiant, Spatial, and Aethereal"
     [languages.en.params.tricon2.items.b]
       url = "/material/fallacies/general-relativity/"
