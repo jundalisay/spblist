@@ -54,7 +54,7 @@ The colon means 'relative to' or 'compared to', and is a fundamental part of our
 
 
 This is a combination of the ideas from:
-- The Asian sciences of Hinduism, Buddhism, and Taoism which say that everything is one
+- The Asian sciences of Hinduism, Buddhism, and Taoism which say that everything is one (i.e. we can connect everything with a relational chain)
 - Socratic philosophy which explains about the One and the Other
 - Descartes' theory of gravity which says that gravity is a relation between bodies
 - Poincare's Law of Relativity which is based on changing states of bodies in a system
@@ -118,7 +118,7 @@ This leads to the same output as the `1 + 1 = 2` of normal math, while imposing 
 The concept of a *focus* is super important as it is the basis of:
 - [gravitational signatures](/material/principles/intro/chapter-02)
 - the hierarchy of the universe
-- Descartes' [First and Third Rules of Movement](/material/principles/intro/chapter-03) 
+- Descartes' [First and Third Rules of Motion](/material/motion) 
 
 But for `1 + 1 = 2.0000123`, we use a different ratio:
 

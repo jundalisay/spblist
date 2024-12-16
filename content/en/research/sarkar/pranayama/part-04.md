@@ -1,8 +1,8 @@
 ---
-title: "What is Pranayama?"
+title: "Speed and Pause"
 weight: 3
 image: "/covers/discourses.jpg"
-description: "Pranayama means the controlling theory of Pranah"
+description: "In every sphere of this universe, you will find the phenomenon of speed and pause"
 icon: "/icons/sarkar.png"
 writer:
   name: PR Sarkar
@@ -12,35 +12,48 @@ writer:
 
 The number of respiration happens to be from 21,000 to 24,000 in a day.
 
-Consciously or unconsciously, the system of respiration is always Puraka, Kumbhaka (for a small duration), Recaka, again Kumbhaka (for a small duration), and then again Pu'raka.
+Consciously or unconsciously, the system of respiration is always:
+
+1. Puraka
+2. Kumbhaka (for a small duration)
+3. Recaka
+4. Again Kumbhaka (for a small duration)
+5. Again Puraka.
 
 It continues on.
 
-Thus, there goes on speed‑pause, speed‑pause. 
+Thus, it goes on as speed, then pause, then speed, then pause. 
+- Puraka is speed
+- Kumbhaka is pause
+- Again Recaka is speed
 
-Pu'raka is speed, Kumbhaka is pause and again Recaka is speed. 
+Indriyas and mind:
+- accept things during the period of speed
+- assimilate things during the period of pause
 
-Indriyas and mind accept things during the period of speed and assimilate them during the period of pause. 
+**In every sphere of this universe, you will find the phenomenon of speed and pause.** 
 
-In every sphere of this universe, you will find the phenomenon of speed and pause. 
-
-You will find no motion in a straight line, rather every movement is systaltic and pulsative. 
+You will find no motion in a straight line. **Every movement is systaltic and pulsative.** 
 
 If you throw something in the sky, it will fall. When it falls, it falls down in a pulsative motion. 
 
-Your nerves are pulsative. If they be not so, you cannot remain alive whether animate or inanimate. It is all in a flux of pulsative motion.
+Your nerves are pulsative. If they were not so, you could not remain alive whether animate or inanimate. It is all in a flux of pulsative motion.
 
-Since assimilation is accomplished only during the period of pause, if there be no pause‑period how can you remain alive? 
+Assimilation is accomplished only during the period of pause.
 
-You take food in the phase of speed, but you assimilate them in the phase of pause. 
+If there be no pause‑period how can you remain alive? 
 
-You have read something with your eyes, but the mind will assimilate it only during the period of pause.
+You take food in the speed-phase. But you assimilate them in the pause-phase. 
+
+You something with your eyes. But the mind will assimilate it only during the period of pause.
 
 **Assimilation means subjectivization.** 
 
 You know that Puraka is followed by Purna Kumbhaka (of a short duration) and Recaka is also followed by a Shunya Kumbhaka (of a short duration). 
 
-You do not breathe in all at once after you have exhaled, in between there is a period of pause, when your breath is out of your body.
+<!-- You do not breathe in all at once after you have exhaled.  -->
+
+In between inhalation and exhalation is a period of pause, when your breath is out of your body.
 
 Scripture describes this period of Shunya‑Kumbhaka as death.
 
@@ -48,11 +61,13 @@ When someone is unable to inhale in the same body from which he has exhaled, it 
 
 An old man exhales in the last moment and inhales again in the mother's womb, when he takes a new birth in the form of an embryo. 
 
-A person actually dies as many times as he exhales, but commonly you call it death, when he is unable to inhale in the same body from which he had exhaled.
+**A person actually dies as many times as he exhales.** 
+
+But commonly, death is when a person is unable to inhale in the same body from which he had exhaled.
 
 When you practise Pranayama, and increase the period of Kumbhaka, you increase the phase of pause, or the period of assimilation. 
 
-A man is hardly able to assimilate 1% of the things in whose contact he comes across. 
+**A man is hardly able to assimilate 1% of the things in whose contact he comes across.** 
 
 **The percentage of utilization of potentialities given to man by God is negligible.** 
 
@@ -60,17 +75,15 @@ When you increase the phase of pause in Pranayama, through Kumbhaka, mind has al
 
 Thus, it gets habituated to remain in a longer duration of pause, and develops a strength for the same. This is a very great significance of Kumbhaka Pranayama.
 
-Before doing any physical action, a person inhales or exhales and thus unconsciously goes in the phase of Kumbhaka (Pu'rn'a or Shu'nya).
+Before doing any physical action, a person inhales or exhales and thus unconsciously goes in the phase of Kumbhaka (Purna or Shunya).
 
 When you climb up a mountain, you do Purna Kumhaka unknowingly.
 
-But if you do the same consciously, you will get less tired. 
+**But if you do the same consciously, you will get less tired.** 
 
-Though, Purna and Shunya Kumbhaka, both are periods of pause, in physical actions.
-
-Physically, Purna Kumbhaka helps you more than the Shunya Kumbhaka.
-
-Whereas in the psycho‑spiritual realm, Shu'nya Kumbhaka is more helpful. 
+Purna Kumbhaka and Shunya Kumbhaka are both periods of pause in physical actions.
+- Physically, Purna Kumbhaka helps you more than the Shunya Kumbhaka.
+- In the psycho‑spiritual realm, Shunya Kumbhaka is more helpful. 
 
 To a Sadhaka, both are equally good, since he has to remain in a state of pause.
 
@@ -78,13 +91,13 @@ Pranayama is itself a rhythmic phenomenon.
 
 One should practise it in the rhythm of an Ista Mantra. 
 
-The prescribed number in Puraka, Kumbhaka and Recaka should be counted not with numerals but with the help of Ista Mantra brought within the scope of Sargam.
+**The prescribed number in Puraka, Kumbhaka and Recaka should be counted not with numbers but with the help of Ista Mantra brought within the scope of Sargam.**
 
 **Iishvara Pranidhana causes the skin to become thinner.** 
+- Correct Pranayama will enable the body to conserve more heat
+- Continuous practise of correct Pranayama will make the body glassy. 
 
-Correct Pranayama will enable the body to conserve more heat, and practise of correct Pranayama will make the body glassy. 
-
-Since in Pranayama, the internal organs of the body are exercised upon, the environment should be clean. 
+In Pranayama, the internal organs of the body are exercised upon. This is why the environment should be clean. 
 
 **There should be no dirt or smoke.** 
 
@@ -92,7 +105,7 @@ The Sadhaka should avoid these when he is in the preliminary stages of practisin
 
 At the preliminary stages, with the expression of energy at the extremities of the body being less, one feels weakness (though actually he is not weak) in such a state. 
 
-Therefore, he should avoid being in the intense sun, dirt, smoke, and cyclonic weather. He should also avoid a strong current of air.
+**Therefore, he should avoid being in the intense sun, dirt, smoke, and cyclonic weather. He should also avoid a strong current of air.**
 
 The best season for starting Pranayama is the middle or end of any season. 
 

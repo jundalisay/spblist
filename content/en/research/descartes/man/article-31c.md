@@ -11,20 +11,30 @@ writer:
 ---
 
 
-
-The animal spirits emanate from points on the surface of the pineal gland `H`.
-- These then go to various tubes causing members to turn to different objects.
-
-Here, the spirits emanate from point `b` alone then go to tubes `4` and `8`. 
-
-This turns both eyes and the right arm towards object `B`.
-
-
-How does the brain determine distance?
+<!-- How does the brain determine distance?
 
  of the object consists; it must be considered how much the surface changes its position, 
 
-those same points refer to places so much more distant from the center of the brain, noted O, the closer they are, and the closer, the Figure 40. 
+those same points refer to places so much more distant from the center of the brain, noted O, the closer they are, and the closer, the Figure 40.  -->
+
+<!-- To understand how the idea of an object’s distance is formed, one must consider how  -->
+
+Distance perception is determined by the position of the points on the pineal gland relative to the center of the brain.
+- 
+changes position, with the same points on its surface correspond to distant locations from the brain’s center (O) as they approach the center and increasingly closer locations as they move further away. 
+
+
+For instance, if point `B` moves backward, it would correspond to a more distant location than `B`. 
+
+Conversely, if it tilted slightly forward, it would correspond to a closer location.
+
+This means that the machine’s soul could sometimes perceive different objects using the same organs arranged in the same way, provided nothing changes except the position of gland H. 
+
+In conclusion, memory operates through the impressions left in the brain by prior experiences, enabling past events to resurface in thought purely by chance, even when no external stimuli directly provoke recall. This mechanism also explains how new combinations of ideas, such as chimeras and fantastical creatures, are formed in the imagination of those who, while awake, indulge in unrestrained flights of fancy without external distractions.
+
+
+
+
 
 
 
@@ -65,6 +75,8 @@ Thus, in this way chimeras and hippogriffs are created in the imagination of peo
 But the effect of memory, whose examination is here of greater utility, consists in this, that this machine, even though no soul exists in it, can nevertheless be naturally arranged so that it can imitate the motions of true men, or other similar things that are present to it.
 
 Another cause that can determine the motion of gland H is the action of objects on the senses that occur.
+
+
 
 The first effect is that when the entrances of the tubes `2, 4, 6, 8` are dilated, the action of objects `A, B, C`, the spirits, which immediately begin to flow more freely and vigorously towards them than before, attract that gland a little after themselves: which if it were not hindered from elsewhere, would become more inclined. 
 

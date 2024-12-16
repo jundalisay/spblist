@@ -6,6 +6,8 @@ weight: 21
 image: /graphics/physics/rule1.jpg
 description: "Rene Descartes gave 3 Rules of Movement in 'The World' which we combine with Spinoza"
 icon: /icons/spmat.png
+aliases:
+  /material/motion
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -50,3 +50,11 @@ Moreover, these can be used by future human explorers on other planets when they
 <!--   part David Hume’s method of assigning physical and metaphysical causes to the observable characteristics of groups of humans, as races.
 
 It is one of the many factors that make up the social cycle theory of my proposed science, which aims to predict man-made events from human mental patterns — since mentality creates reality and since mentality (a constant force called Shiva or Yang) is bound by the universe (a constant force called Shakti or Yin), then history is cyclical and predictable (just as the seasons are cyclical and predictable because heat (a constant force from the sun) is bound by the rotation and revolution of the Earth (through a constant force of the sun’s gravity). -->
+
+
+
+
+### Social Topographic Behavior as a Weight
+
+Social Topographic Behavior is one of the weights that we use, in our social cycles model, to predict the outcomes for a society, or make hypotheses for its missing past. 
+

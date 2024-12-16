@@ -20,7 +20,7 @@ This extends even to philosophy. For example, Hegel does not think that the Asia
 Consequently, philosophical knowledge is not to be looked for in the Orient, since it is proper to philosophical knowledge to be conscious of, to know, the substance, i.e., the universal insofar as I think it, develop it within me, determine it, in such a way that in the substance I have my own determinations and am also contained subjectively or affirmatively.  
 {{< /q >}}
 
-By comparing the works of Confucius, Buddha, and the Vedas, with the works of Aristotle, Kant, and Hegel, we see that the main difference is that the Asians do not need to give a step by step account for ther thinking process. 
+By comparing the works of Confucius, Buddha, and the Vedas, with the works of Aristotle, Kant, and Hegel, we see that the main difference is that the Asians do not need to give a step by step account for their thinking process. 
 
 The Europeans and Greeks, on the other hand, have to explain each step of their logic painstakingly. This makes the Western systems very tedious. More importantly, it also produces less useful things because the energy is wasted on the steps instead of the actual destination.
 
@@ -33,9 +33,17 @@ Eastern Philosophy does not dwell into the thinking process because it aims for 
 
 In contrast, Hegel and Kant merely ramble about things and do not produce anything memorable that would represent a solution to whatever they were rambling about. 
 
-Marx and Mill are more useful, as they create real policies as solutions to the problems that they perceive. 
+Marx and Mill are more useful, as they create real policies as their proposed solutions to the problems that they perceive. 
 
 However, their difference from Eastern philosophy is that they are based on shallow observation and not the nature of things. 
 
 This is why the Capitalism of Mill and the Communism of Marx both end up not solving the problems of poverty, inequality, recessions, inflation, debt, etc. 
 
+
+This lack of detail in Asian philosophy is also its disadvantage. 
+
+This allows anyone to make their own interpretations and shortcuts. 
+
+It also gets weak-willed people lost since they are unable to jump from Step 1 to Step 50 by themselves. 
+
+Instead, they need a teacher to painstakingly teach them Step 2, Step 3, Step 4 and so on, instead of them discovering those mini-steps themselves.

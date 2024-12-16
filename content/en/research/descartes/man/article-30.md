@@ -59,6 +59,8 @@ The spirits which try to enter each of the tubes `2, 4, 6` and similar ones of t
 
  not to come out indifferently from all points that are on the surface of gland H, but only from certain ones individually.
 
+{{< i s="/graphics/bio/fig_34.jpg" a="Brain" >}}
+
 Those which come out from point `A` strive to enter tubes `4` and `6`, and so on for the others. 
 
 As soon as the openings of those tubes become larger, the spirits from the surface of the pineal gland begin to exit more freely and quickly than before.

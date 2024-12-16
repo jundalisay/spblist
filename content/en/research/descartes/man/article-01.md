@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-#### 1. Men have a soul and a body.
+### 1. Men have a soul and a body.
 
 <!-- These men will be composed, like us, of a soul and a body.  -->
 
@@ -20,7 +20,8 @@ icon: "/icons/descartes.png"
 <!-- ## Body -->
 
 <!-- nothing other than a statue or -->
-#### 2. The body is a machine of earth which God forms on purpose to make it as similar to us as possible. 
+
+### 2. The body is a machine of earth which God forms on purpose to make it as similar to us as possible. 
 
 He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies.
 
@@ -58,7 +59,7 @@ I will explain instead the small parts which are invisible because of their smal
 <!-- of this machine -->
 
 
-#### 3. The meats are digested in the stomach through the force of certain liquors
+### 3. The meats are digested in the stomach through the force of certain liquors
 
 These liquors slip between their particles, separate, agitate, and heat them just as:
 - common water does the same to quicklime, or
@@ -107,10 +108,10 @@ As blood enters any of the 2 chambers in it, it swells rapidly and expands.
 The fire in the heart dilates, warms, and subtilises the blood which falls in continuously drop by drop through a pipe of the vena cava in its right cavity from where it exhales in the lung. 
 
 From there it goes to what is called by anatomists as the vein of the lung 'venous Yartère' from where it is distributed to the body.
-<!-- , in its other concavity, -->
+<!-- , in its other concavity, rare-->
 
 
-#### 4. The flesh of the lung is so rare and soft. 
+### 4. The flesh of the lung is so soft and decompressed 
 
 It is always refreshed by the air of the breath. 
 

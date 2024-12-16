@@ -10,12 +10,12 @@ icon: /icons/sp.png
 
 In the paper "Space, Time, and Contigency", Dr. Rudolph quotes Indian philosopher PR Sarkar:
 
-{{< q >}}
+{{< q a="Sarkar" >}}
 there cannot be steady movement. There must be acceleration – either constant acceleration or accelerated acceleration, or retardation – either constant retardation or retarding retardation. Along with these are galloping jumps. And before and after these jumps, there are biological changes, historical changes, agricultural changes and human psychic changes.”
 {{< /q >}}
 
 
-The authors ask: what causes those jumps?
+The authors then ask: what causes those jumps?
 
 Through self-delusion, they answer themselves:  
 
@@ -41,7 +41,10 @@ To them, this then answers the question by saying that Microvita from the future
 
 This can be logically refuted by saying that Microvita from the past could also gallop forward to cancel those future changes. This then would cause no galloping changes or even accelerated changes. 
 
-Their main flaw is to blindly accept Aristotlean and Eisteinian limited-thinking and impose them onto PR Sarkar's universal-thinking. 
+Their main flaw is to blindly accept Aristotlean and Eisteinian limited-thinking* and impose them onto PR Sarkar's universal-thinking. 
+
+{{< n n="This is similar to how some shallow physicists interpreted the quantum eraser experiment to mean retrocausality" >}}
+
 
 
 ### The Correct Solution
@@ -61,3 +64,4 @@ The origin of Covid or Negative Microvita is then the star (which we call [the C
 Ideally, **the forces of Positive Microvita should have been building up from March 1990 to counteract the current wave of Negative Covid Microvita**. Unforunately, the positive force got dogmatized and static. And so there is nothing to stop the Negative force from ravaging the planet.
 
 Rudolph and Vimalananda got seduced by the false intellect of Aristotle and Einstein and so were rendered useless by the same Negative force that powers Covid. 
+

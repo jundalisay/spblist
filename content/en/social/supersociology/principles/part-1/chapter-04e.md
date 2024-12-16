@@ -16,7 +16,7 @@ The word "reason" comes fron Latin *ratus* which is to reckon, think, or judge.
 
 This is similar yet different from the word "intellect" which comes from intelligo or to understand. 
 
-The problem is that these definitions only account for logic or the connection of ideas, and not the feeling that powers those connections. <!--  do not  current definition of reason does not take into account the feelings.  -->
+The problem is that these definitions only account for logic or the connection of ideas, and not the **feeling** that powers those connections. <!--  do not  current definition of reason does not take into account the feelings.  -->
 
 - A terrorist might find it reasonable for him to bomb a market in order to send a signal to foreign occupiers to leave. 
 - A dictator might find it reasonable to supress a protest forcibly in order to deter further protests and insatbility 
@@ -24,7 +24,7 @@ The problem is that these definitions only account for logic or the connection o
 
 ![Iraqi soldiers](/photos/countries/iq/troops.jpg)
 
-Anti-terrorists and anti-dictators would then blame them as unreasonable and thus be subject to punishments. This is similar to how you punish your pet dogs and cats if they won't obey your commands.  
+Anti-terrorists and anti-dictators would then blame them as unreasonable and thus subject them to punishments. This is similar to how you punish your pet dogs and cats if they won't obey your commands.  
 
 Thus, when someone says 'be reasonable' it really means:
 
@@ -40,3 +40,16 @@ This requires:
 For example, a divorce would be immoral under most circumstances as it would deprive the child of love and support. But if the spouse is suffering too much as to die, such as being beaten, then it would be more moral to have a divorce. In this case, the chronic, constant suffering is worse than the future suffering of the child. 
 
 However, if a divorce was thought of just because the spouse fell in love with another person, then it might be immoral to have a divorce because the interests of the children outweigh the romance of the spouse. 
+
+
+### Critical Feeling Needed
+
+In these cases, we use the concept of critical feeling to absorb the concepts mentioned:
+- openness to feel consequences
+- mental ability of project one's mind into those consequences
+- emotional ability to feel the suffering or joy of those consequences 
+
+All of these require more metaphysical energy than usual and is why these are not usually done.
+
+Our system is a system of discreet morality-checking that will facilitate the critical feeling between people and groups.    
+

@@ -120,7 +120,7 @@ All the liquid elements of the body such as the juice, blood, urine, semen and l
 
 All the fiery elements of the body are controlled by the middle point of the equilateral triangle. 
 
-The ten Va'yus are the aerial portions of the body:
+The ten Vayus are the aerial portions of the body:
 
 1. Naga
 2. Kurma

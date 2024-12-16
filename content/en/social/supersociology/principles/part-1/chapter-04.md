@@ -35,10 +35,15 @@ Similarly among humans, the moral rules of a certain time period can be very dif
 - this was later reversed by Jesus who advocated forgiveness
 - this was then overturned by the Prophet Mohammad who sanctioned revenge or punishment
 
-The difference in the Jewish and Islamic moral policy from that of Jesus, is due to the fact that the former was created during a disorderly time when the people were under constant threat from Assyrians, Babylonians, and Arab tribes. Jesus, on the other hand, lived in a stable period under Roman rule. 
+The difference in the Jewish, Islamic, and Christian moral policies is because:
+- During the Jewish period, international politics was lawless, barbaric, and unstable
+- During the Christian period, politics and economy was stable under the Romans
+- During Mohammad's time, the Roman and Persian empires were unstable, leading to external barbarism
+
+<!--   lawless and barbaric
+  from that of Jesus, is due to the fact that the former was created during a disorderly time when the people were under constant threat from Assyrians, Babylonians, and Arab tribes. Jesus, on the other hand, lived in a stable period under Roman rule.  -->
 
 {{< i s="/photos/medieval/rome.jpg" a="Basketball" c="The Romans provided a lot of stability" >}}
-
 
 In this case, the difference in political condition led to differences in moral policy. This is then due to the fact that politics, laws, and morals are all based on feelings which change through time. These changing feelings change what humans are supposed to do and not do. 
 
@@ -72,10 +77,11 @@ In humans, the universal good is happiness. This allows us to define morals base
 
 <!-- With this in mind, we can define human morals or do's and dont's as: -->
 
-- Moral — a quality that produces happiness for now and for as long as possible, for the self and for as many entities as possible.
+- **Moral** — a quality that produces happiness for now and for as long as possible, for the self and for as many entities as possible.
   - We define entities as anything that the mind regards as having an identity
-- Morality — a state of being moral
-- Moral Philosophy — the organized system of ideas designed to bring about morality
+  - We define happiness as being in line with dharma, which itself is timeless
+- **Morality** — a state of being moral
+- **Moral Philosophy** — the organized system of ideas designed to bring about morality
 
 Notice that our definition of moral is not absolute in the sense that it does not include infinity nor all entities. The phrase "for as long as possible" forces the mind to think of future consequences, while "as many entities as possible" forces the ego to go outside of the self. 
 
@@ -121,5 +127,3 @@ Superphysics Morals, on the other hand, is based on the higher pleasures, specif
 The spatial layer is why Superphysics morals:
 - is not fixed
 - focuses on maximum people and maximum length of time. 
-
-

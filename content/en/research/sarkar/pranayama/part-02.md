@@ -1,6 +1,6 @@
 ---
-title: "What is Pranayama?"
-weight: 6
+title: "Rules before teaching Sakumbhaka Pranayama"
+weight: 8
 image: "/covers/discourses.jpg"
 description: "Here are the rules before teaching Sakumbhaka Pranayama"
 icon: "/icons/sarkar.png"
@@ -23,15 +23,19 @@ Before prescribing this Pranayama, therefore, blood pressure should be confirmed
 
 Insterad, do other lessons. When there is no more headache, one can do Pranayama.
 
+
 3. In Sakumbhaka Pranayama, counting must be kept in view very strictly, because the span of time must not vary. 
 
 Prescribed number in Puraka, Kumbhaka and Recaka should be counted not with the help of numerals but with the help of Ista Mantra brought within the scope of Sargam.
 
+
 4. The inner portion of body gets dry by this Pranayama, so the Sadhaka should take fatty materials like milk products, etc.
+
 
 5. After being established in Kevalii Kumbhaka and developing an absolute devotion for the goal, one should be prescribed this Sakumbhaka Pranayama. 
 
 This is because flickering of mind towards unwanted directions will harm the Sa'dhaka.
+
 
 6. Practice of Sakumbhaka Pranayama makes the belly pot‑like. 
 
@@ -167,7 +171,7 @@ Muladhara | Lam
 Svadhisthana | Vam
 Manipura | Ram
 Anahata | Yam
-ishuddha | Ham
+VVishuddha | Ham
 Ajina | T'ham
 
 Since then it have been known as Yudhisthira Vidya.

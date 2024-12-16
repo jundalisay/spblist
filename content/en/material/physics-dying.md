@@ -37,7 +37,12 @@ Our spacetime slices, on the other hand, are testable through predictions of soc
 
 ## The Root Cause: Relativity
 
-All these failures pf Physics have one thing in common: **they are rooted in Einstein's Special and General Relativity** which introduced the biggest fallacy that Electromagnetism is the supreme Element or Force in Nature. 
+All these failures pf Physics have one thing in common: **they are rooted in Einstein's Special and General Relativity** which introduced the biggest fallacy that Electromagnetism is the supreme Element or Force in Nature.
+
+This subtle fallacy then leads to the less subtle fallacy called the "Simultaniety of Time"*. 
+
+
+{{< n n="You can read [100 Authors Against Einstein](/research/einstein/100) for details." >}}
 
 Instead of dividing reality into 5 Elements or Forces (Strong, Weak, Electromagnetic, Spacetime, Aether), it makes the Electromagnetic Force superior to the aether, as E=mc^2. This leads to the failures of Supersymmetry.
 
@@ -50,7 +55,9 @@ This is why Sabine mentions LQG's incompatibility with Lorentz Invariance. This 
 
 Cartesian-Spinozan Physics solves all of these by replacing Einstein's Electromagnetic-centered Relativity with a Relativity that respects the division of the 5 Elements. 
 
-This allows the artificial manipulation of gravity is proven by levitating monks, UFOs, or Egyptian pyramid blocks that become lighter for easier construction with less manpower. 
+For example, to undo the "simultaniety of time", we add the concept of mental time which is aethereal in nature. This aether is then superior to not only electromagnetism, but also to spacetime. 
+
+This allows the artificial manipulation of gravity as proven by levitating monks, UFOs, or Egyptian pyramid blocks that become lighter for easier construction with less manpower. 
 
 We have been able to prelevitate a 1kg mass by using the aether back in 2020 during the pandemic, and again in 2022. 
 

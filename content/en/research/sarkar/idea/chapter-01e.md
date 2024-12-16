@@ -63,7 +63,7 @@ When the dead body is burnt or gets totally decayed, dhanaiṋjaya leaves the bo
 The universal law of of Activity mandates that <!--  (which it had to express according to the  Prakrti that --> every force must have its expression. 
 - The detached mental body possesses the unexpressed momentum of its previous lives.
 - **It is the duty of the Cosmic mutative force to provide it a proper physical parallelism for due expression by making the dissociated mind penetrate into a subtle physical structure.** 
-- This dissociated mind's unit consciousness or atman is still witnesses this state of inaction
+- This dissociated mind's unit consciousness or atman still witnesses this state of inaction
 
 <!--  has, therefore, the witnessing entity who witnesses the mind which is in a state of inaction (or converted into karmáshaya – saḿskára, or reaction in its potentiality).
  

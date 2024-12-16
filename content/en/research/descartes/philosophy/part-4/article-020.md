@@ -71,7 +71,7 @@ In reality:
 
 **The air-aether has no force of heaviness or lightness as long as it totally agrees in the motion that carries the Earth.**
 
-{{< i s="/photos/physics/zerog.jpg" a="Zero G" c="The pushing force of gravity is negated by an airpline falling faster than that push. In Descartes-speak this is when it 'totally agrees in the motion that carries the Earth'" >}}
+{{< i s="/photos/physics/zerog.jpg" a="Zero G" c="The pushing force of gravity is negated by an airplane falling faster than that push. In Descartes-speak this is when it 'totally agrees in the motion that carries the Earth'" >}}
 
 <!-- , has no force of gravity or levity;  celestial matter -->
 <!-- gravity or levity;  -->

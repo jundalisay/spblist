@@ -1,6 +1,10 @@
 art 133-187 for magnetism
 
 
+master links:
+/material/motion Descartes rules of motion
+
+
 
 {{ with .Params.date }}
 

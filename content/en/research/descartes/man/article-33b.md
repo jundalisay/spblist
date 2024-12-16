@@ -1,6 +1,6 @@
 ---
 heading: Article 33b
-title: "The disposition of the Filaments"
+title: "The Disposition of the Filaments"
 # date: 2024-12-12
 weight: 52
 description: "As for the diversity of qualities of the actions that open those tubes, it is also clear that they would open them differently according to their diversity"
@@ -80,34 +80,3 @@ These are merely testimonies of certain passions.
 These only occur if some occasion arises. This is because the nerves through which the ingress of spirits occurs to create them are closely related to the nerves through which the spirits are received to excite passions, as is evident from anatomy. 
 
 
-## How do the different qualities of spirits have the power to change their courses?
-
-This occurs especially when they are determined from elsewhere only temporarily or not at all. 
-
-For example, if the nerves of the stomach are affected in the way that they must be moved to stimulate hunger, and in the meantime nothing edible or drinkable presents itself to any sense or memory; 
-
-the spirits which that action introduces into the brain through tubes 8 will locate themselves where they will find more pores arranged in such a way that they can be conveyed through them into all the nerves indiscriminately, by which our machine can seek or achieve a certain object: so that only the inequality of these particles can derive them into these nerves rather than into others. 
-
-If stronger particles of spirits are conveyed to certain nerves, but immediately afterwards other stronger ones rush forth to the nerves opposite to them, the machine will imitate the motions, Those which occur to us when we hesitate or doubt about something.
-
-Similarly, if the action of fire A lies midway between those which can lead the spirits to O and to P, that is, between those which produce pain and pleasure: 
-
-Only their multiple inequalities, inherent in themselves, suffice to determine them towards one or the other, as the action is pleasing to us when we are in a cheerful mood, often displeasing when we are tormented by melancholy. 
-
-Hence, the explanation must be sought in those things which have been said about temperaments or inclinations, both natural and acquired, insofar as they depend on the difference in spirits.
-
-### The different positions of external limbs
-
-Changing the pores through which the spirits are immediately conveyed into the nerves cause the limbs to momve. 
-
-For example, if when fire A burns hand B, the head would incline to the left, as it is now inclined to the right, the spirits would flow clearly, just as they now pass from 7 to N, then to O, and from there to r and s. 
-
-But from r, when it should pass to X, where I suppose it should tend, to turn the head to the right hand, they would go to Z: where, according to what I assume, they should tend if the head were turned to the left. 
-
-Because that position of the head, which is now the cause that the filaments of the substance of the brain, which are around X, are much looser and can be more easily separated from each other than those which are around Z: changing that position would produce the contrary effect: for those around Z would then be looser, while those around X would be very tense and tight. 
-
-This is how a single action without any change in itself can move one foot, and then the other foot as progress.
-
-It is done when the spirits pass through only one pore, whose end is arranged differently, leading them into other nerves when the left foot has progressed farther than the right. 
-
-This is how respiration and similar other movements (which do not depend on any idea) work.
