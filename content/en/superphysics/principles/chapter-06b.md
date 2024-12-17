@@ -3,7 +3,7 @@ heading: "Chapter 6b"
 title: "The 3 Influences or Gunas"
 date: 2023-12-27
 weight: 30
-image: "/graphics/physics/wave.jpg"
+image: "/graphics/super/wave.jpg"
 description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
 icon: /icons/sp.png
 writer:
@@ -19,7 +19,7 @@ The 2 Forces interact with each other creating waves with 3 parts:
 2. Origin, Rest, or Pause
 3. Trough
 
-{{< img src="/graphics/physics/wave.jpg" alt="Wave" cap="A wave has crests and troughs" >}}
+{{< img src="/graphics/super/wave.jpg" alt="Wave" cap="A wave has crests and troughs" >}}
 
 
 When applied on the circular journey from pre-existence to existence and back to pre-existence, the 3 parts created by the 2 Forces manifest as 3 Influences:

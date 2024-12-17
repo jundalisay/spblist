@@ -13,23 +13,36 @@ icon: "/icons/sarkar.png"
 
 ## Waves
 
-Brahma Cakra is the Cosmic Circle. It is a Cosmic dance in which every created object, under the magic spell of the Cosmos, is moving in proper harmony and rhythm. 
+Brahma Cakra is the Cosmic Circle. 
+- It is a Cosmic dance in which every created object, under the magic spell of the Cosmos, is moving in proper harmony and rhythm. 
 
-An object or objectivity is nothing but a wave motion within the body of the Cosmos. <!-- The philosophy of Ananda Marga thus --> We thus establish the wave theory of modern science through an independent logical outlook. 
+An object or objectivity is nothing but a wave motion within the body of the Cosmos. <!-- The philosophy of Ananda Marga thus --> We thus establish the wave theory* of modern science through an independent logical outlook. 
+
+{{< n n="This is why Superphysics is based on waves" >}}
+
 
 **Life consists only of an ocean of waves.**
 
 Every layer (bhúta) from the aethereal to the solid is in an eternal flow.
 - The very existence of the created layers <!-- bhútatattva --> is just a pattern of waves. 
 
-Quantum-percpetions (Tanmátras) are a microscopic fraction of the waves, taken in a collective form by the mindstuff via the sensory organs<!-- -cum-citta -->. 
+**Quantum-perceptions (Tanmátras) are a microscopic fraction of the waves, taken in a collective form by the mindstuff via the sensory organs**.*
+
+{{< n n="In Superphysics, these fractions are spacetime slices" >}}
+
+Hence, quantum-perceptions <!-- tanmátras --> <!-- are nothing but --> are the waves produced by the objects as a result of **reflection** of the subtler layer* <!-- bhúta --> on the cruder ones.
+
+{{< n n="In Superphysics, this is the timespace particle being reflected back by matter in each spacetime slice" >}}
+
+<!-- -cum-citta -->. 
 <!-- These microscopic fractions carried through waves are called . --> 
-- Hence, quantum-perceptions <!-- tanmátras --> <!-- are nothing but --> are the waves produced by the objects as a result of reflection of the subtler layer <!-- bhúta --> on the cruder ones.
 
 <!-- Tanmátras --> 
-Quantum-perceptions in the mathematical sense are heterogeneous, not homogeneous.
+Quantum-perceptions in the mathematical sense are heterogeneous, not homogeneous.*
 - This leads to the varieties in the perceptible external world. 
 - This heterogeneity is specialized by the difference in wavelengths amongst different quantum-perceptions <!-- tanmátras --> internally or externally of the scope of any particular layer <!-- bhúta -->.
+
+{{< n n="This is why we use Quali-math which has different qualities, instead of math which only as 1 quality as the same number" >}}
 
 
 Ákásha or the aether is theoretical.
@@ -41,9 +54,10 @@ A wave can:
 - **pass through an object where there is no physical obstruction or hindrance from a subtler wave, that is, subtler waves can pass through cruder waves.** 
 
 Under such circumstances, there is always an adjustment of wavelengths. 
-- This results in the creation of physical diversities.
+- **This results in the creation of physical diversities**.
 
-A proper adjustment of wavelength means adjustment at the 2 pauses of the waves:
+
+A proper adjustment of wavelength means adjustment at the **2 pauses** of the waves:
 - the sentient pause and
 - the static pause
 
@@ -56,11 +70,13 @@ The static pause is where:
 - upward motion is just about to start.
 
 They represent the crest and trough of physical science.
-- **The greater the wavelength of any layer, the higher the chance of the other waves passing through.** <!--  this adjustment of the striking . -->
+- **The greater the wavelength of any layer, the higher the chance of the other waves passing through.** *<!--  this adjustment of the striking . -->
 - When an object lets a wave pass through, then it does not come within the scope of sensory nerves. 
 - **But when the wave is reflected back, then our sensory nerves perceive its existence.**
 <!--  does not get such a passage, that is, it -->
 <!-- Let us examine the process of actual perception and see how it occurs.  -->
+
+{{< n n="This is why increasing the wavelength lets us detect the subtler layers and ignore the lower ones" >}}
 
 <!-- HOW TO REFLECT SUBTLER WAVES??? -->
 
@@ -106,13 +122,14 @@ The motor organs <!-- indriyas --> create quantum-perceptions <!-- tanmátras -
 **Any increase in the number of sense perceptions does not affect the total intensity of perception. It remains constant in a mathematical manner.**
 - If the solid can transmit the 5 fundamental perceptions of sound, touch, form, taste and smell with equal intensity, it does not mean that each and every perception of this solid quantum-perception <!-- tanmátra --> will have the same intensity of sound waves transmitted by the aethereal body.*
 
-{{< n n="This is embodied in our Law of Conservation of Idea" >}}
+{{< n n="This is embodied in our Law of Conservation of Idea. Basically everything has an aethereal version. The physicalized versions of it have less intensity than the original aethereal version. For example, the aether version has intensity 5. Its spatial version is 4. Its radiant tejas version is 3 and so on. Therefore the soul of a baby is 5. As a physical baby, it is 1. As it grows through spacetime from baby to old age is 4 (even across its past and future lives). The 4 has that 1 as physicality or matter. The main confusion is that physical perceptions are the most striking to us, while aethereal perceptions are usually invisible, when from the oversouls's perspective, the opposite is true" >}}
 
 
 The aethereal body has the singular characteristic of transmitting sound waves.
 - These sound waves have the collective intensity of all the 5 quantum-perceptions <!-- tanmátras --> transmitted by the solid body having the multilateral sensory functions.*
 
-{{< n n="This means that an aethereal version of a solid object gives out the perceptions of that object via sound, just as its physical version gives out its perceptions as touch, sight, smell." >}} 
+{{< n n="This means that an aethereal version of a solid object gives out the perceptions of that object as aethereal sound, just as its physical version gives out its perceptions as touch, sight, smell. It folows that physical sound is the physical version of aethereal sound or vibration" >}} 
+
 
 <!-- idea-object gives out the perceptions via sound just as its physical object gives out its perceptions as touch, sight,   -->
 

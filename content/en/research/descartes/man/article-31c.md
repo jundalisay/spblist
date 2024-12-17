@@ -19,22 +19,25 @@ those same points refer to places so much more distant from the center of the br
 
 <!-- To understand how the idea of an object’s distance is formed, one must consider how  -->
 
-Distance perception is determined by the position of the points on the pineal gland relative to the center of the brain.
-- 
-changes position, with the same points on its surface correspond to distant locations from the brain’s center (O) as they approach the center and increasingly closer locations as they move further away. 
+Distance perception is determined by the position of the points on the pineal gland relative to the center of the brain. They refer to:
+- closer locations as they move further away from the center of the brain `O` [and go with the original position of the pineal gland]
+- farther locations as they move closer to that center [and farther from the original position of the pineal gland]
 
+<!-- changes position, with the same points on its surface correspond to distant locations from the brain’s center (O) as they approach  and -->
 
 For instance, if point `B` moves backward, it would correspond to a more distant location than `B`. 
 
 Conversely, if it tilted slightly forward, it would correspond to a closer location.
 
-This means that the machine’s soul could sometimes perceive different objects using the same organs arranged in the same way, provided nothing changes except the position of gland H. 
+{{< i s="/graphics/bio/arm.jpg" a="Arm" >}}
 
-In conclusion, memory operates through the impressions left in the brain by prior experiences, enabling past events to resurface in thought purely by chance, even when no external stimuli directly provoke recall. This mechanism also explains how new combinations of ideas, such as chimeras and fantastical creatures, are formed in the imagination of those who, while awake, indulge in unrestrained flights of fancy without external distractions.
+This means that the soul could sometimes perceive different objects using the same organs arranged in the same way if the position of the pineal gland changes. 
 
+In conclusion, memory operates through the impressions left in the brain by prior experiences.
 
+This enables past events to resurface in thought purely by chance, even when no external stimuli directly provokes recall. 
 
-
+This mechanism also explains how new combinations of ideas, such as chimeras and fantastical creatures, are formed in the imagination of those who, while awake, indulge in unrestrained flights of fancy without external distractions.
 
 
 

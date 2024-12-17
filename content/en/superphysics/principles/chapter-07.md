@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 7"
-title: "Qualimath: The Math for Superphysics"
+title: "Supermath and Qualimath: The Maths for Superphysics"
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
 weight: 34
-image: "/graphics/physics/math.jpg"
+image: "/graphics/physics/math.jpg" 
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
 icon: /icons/sp.png
 math: true
@@ -33,7 +33,7 @@ A long series of chains gains the dynamics of a wave. This wave we can split int
 
 We can extend this wave to have more states.
 
-{{< img src="/graphics/physics/waves.jpg" alt="Wave" cap="A wave is made up of many different states which reveal a hidden focus or dharma which we call a 'gravitational signature' to make it sound scientific" >}}
+{{< img src="/graphics/super/wave.jpg" alt="Wave" cap="A wave is made up of many different states which reveal a hidden focus or dharma which we call a 'gravitational signature' to make it sound scientific" >}}
 
 We can know why State 4 is the way it is if we look at all its states from 1 to 4. We can then use this knowledge to predict its future states. We can write this as:
 

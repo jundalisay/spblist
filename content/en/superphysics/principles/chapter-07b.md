@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 7b"
-title: "Decon Notation: Solving the Measurement Problem"
+title: "Qualimath Decon Notation: Solving the Measurement Problem"
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
 weight: 36
@@ -25,7 +25,14 @@ Beyond the Radiant Layer are the Spacetime and Aether layers where the measureme
 - The distance from House A to House B can be denoted in meters, yards, feet, etc.
 - An idea can be important to some, but not important to others.  
 
-We say that such measurements are subjective and are more qualitative instead of quantitative. We can say that: 
+We say that such measurements are subjective and heterogenous and thus are more qualitative instead of quantitative or homogenous. 
+
+{{< q a="Sarkar" c="Idea and Ideology, Chapter 3" >}}
+Hence, tanmátras [quantum-perceptions] are the waves produced by the objects as a result of reflection of the subtler bhúta [element or factor] on the cruder ones. Quantum-perceptions in the mathematical sense are **heterogeneous**, not homogeneous
+{{< /q >}}
+
+
+We can say that: 
 - Materiality and Electromagnetism focus on quantitative particles
 - Space, time, and feelings focus on qualitative waves
 

@@ -104,6 +104,14 @@ The Hindus call this Virtual Reality or Existence as **Brahma** and the Taoists 
 - The ‘off’ or 'draft' state is called **Nirguna Brahma**
 
 
+
+{{< q a="Sarkar" c="Idea and Ideology, Chapter 3" >}}
+A wave can move freely only when it is in harmony with previous waves and their curvatures.
+It can pass through an object where there is no physical obstruction from a subtler wave, that is, subtler waves can pass through cruder waves. Under such circumstances, there is always an adjustment of wavelengths. This results in the creation of physical diversities
+{{< /q >}}
+
+
+
 ## Do You Have a Problem? The Solution Already Exists!
 
 All the data served by the internet pre-exists. This means that all possibilities already pre-exist. 
