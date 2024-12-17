@@ -79,3 +79,18 @@ It is done when the spirits pass through only one pore whose end is arranged dif
 - This leads them into other nerves when the left foot has progressed farther than the right. 
 
 This is how respiration and similar other movements (which do not depend on any idea) work.
+
+
+### 34. The Sleeping Brain
+
+<!-- Up to this point, I believe we have sufficiently explained all the functions of wakefulness; thus, only a few things remain to be said about sleep. **Figure 50**. For first, one need only glance at Figure 50 and observe how  -->
+
+The filaments `D D` connect to the nerves get compressed during sleep.
+
+{{< i s="/graphics/bio/fig_30.jpg" a="Asleep" c="The brain when asleep" >}}
+
+
+This prevents:
+- external objects from passing into the brain to be sensed. 
+- the exit of spirits in the brain to the external limbs
+

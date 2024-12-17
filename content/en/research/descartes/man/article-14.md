@@ -43,15 +43,19 @@ Plain water, on the other hand, do not enter any parts of the tongue or penetrat
 
 The particles of the water of life penetrate the deepest and are agitated with the swiftest motion. 
 
-From this, it is evident how the soul perceives the various species of taste, considering the various ways in which particles of terrestrial bodies can act on the tongue. 
+This shows how the soul perceives the various species of taste, through the various ways the particles of terrestrial bodies can act on the tongue. 
 
-The same particles of food that, when present in the mouth, can enter the pores of the tongue and thereby stimulate the sense of taste, are the ones that, when present in the stomach, can pass into the blood and eventually be assimilated by the other organs. 
+Food particles in the mouth can enter the pores of the tongue and thereby stimulate the sense of taste.
 
-Thus, only those that gently titillate the tongue and thereby provide a pleasant taste sensation to the soul are suitable for this effect. 
+The food in the stomach can then pass into the blood and eventually be assimilated by the other organs. 
+
+Thus, only the food particles that gently titillate the tongue and thereby provide a pleasant taste sensation to the soul are suitable for this effect.
 
 As for those that act too much or too little upon it, they cannot evoke taste unless they are either too sharp or too weak, and they are either too penetrating or too soft to be able to compose the blood and nourish certain organs. 
 
-The food particles that are so coarse or so closely united cannot be separated or diluted by the movement of saliva and thus cannot enter the pores of the tongue, cannot act on those nerves that serve taste; they only act on the nerves that exercise the sense of touch in general. 
+The food particles that are so coarse or so closely united cannot be separated or diluted by the movement of saliva and thus cannot enter the pores of the tongue, cannot act on those nerves that serve taste.
+
+They only act on the nerves that exercise the sense of touch in general. 
 
 Similarly, those that lack pores, as they cannot cause the soul to perceive any taste, are also generally inept when they are sent into the stomach. 
 

@@ -2,7 +2,7 @@
 heading: Articles 30-31a
 title: "How are Our Ideas Formed?"
 # date: 2022-01-29
-weight: 46
+weight: 44
 description: "That obliquity serves the formation of the ideas of objects which strike the senses"
 image: "/covers/man.jpg"
 writer:

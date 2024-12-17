@@ -25,11 +25,11 @@ What is the cause of this reflection? Why does it happen on the surfaces of glas
 
 <!-- you must remember the way in which I made you conceive above of the nature of light. -->
 
-There is nothing else in 
+<!-- There is nothing else in  -->
 
 Transparent bodies only have than the action or inclination to move of the fire-aether.
 
- certain very subtle matter which filled their pores, and that you thought that the pores of each of these bodies transparencies are so smooth and so straight that the subtle matter that can enter them flows easily all along without finding anything to stop it.
+certain very subtle matter which filled their pores, and that you thought that the pores of each of these bodies transparencies are so smooth and so straight that the subtle matter that can enter them flows easily all along without finding anything to stop it.
 
 But that those of two transparent bodies of different nature, like those of air and those of glass or crystal, never relate so justly to each other that there are not always several of the parts of subtle matter which, for example, coming from the air towards the glass, are reflected there, because they encounter the solid parts of its surface: 
 
@@ -72,7 +72,7 @@ But note that I say the most convenient, because I admit that, giving the surfac
 
 But on the other hand such a glass cannot be so conveniently cut. Now this burning point, either of the hyperbole or of the ellipse, must be so close that the object, which must be supposed to be very small, being placed there, there remains between it and the glass only precisely as much enough space to give passage to the light which must illuminate it. 
 
-And you have to set this glass in such a way that nothing remains uncovered except the middle, which is about the same size as the pupil or even a little smaller and that the material in which it will be embedded be all black on the side which must be turned towards the eye, or even also it will not be useless that it be lined all around with an edge of breakdown or black velvet, so that it can be conveniently pressed close to the eye, and thus prevent any light from reaching it except through the opening of the glass; but outside it will be good if it is completely white or rather completely polished, and if it has the shape of a hollow mirror, so that it reflects on the object all the rays of light that come towards it. 
+You have to set this glass in such a way that nothing remains uncovered except the middle, which is about the same size as the pupil or even a little smaller and that the material in which it will be embedded be all black on the side which must be turned towards the eye, or even also it will not be useless that it be lined all around with an edge of breakdown or black velvet, so that it can be conveniently pressed close to the eye, and thus prevent any light from reaching it except through the opening of the glass; but outside it will be good if it is completely white or rather completely polished, and if it has the shape of a hollow mirror, so that it reflects on the object all the rays of light that come towards it. 
 
 To support this object in the place where it must be placed to be seen, I do not disapprove of these little vials of very transparent glass or crystal, the use of which is already quite common in France; but, to make the thing more exact, it will be better still that it be firmly held there by one or two small springs, in the form of arms, which come out of the frame of the telescope.
 
@@ -126,4 +126,3 @@ Figures 60. -->
 But for the exterior NRP, instead of being entirely flat, it must here be very convex and have the shape of a hyperbola, of which the exterior burning point Z is so close that the object being placed there, it there remains between it and the glass only as much space as is necessary to give passage to the light which is to illuminate it.
 
 ---
-

@@ -20,7 +20,9 @@ icon: "/icons/descartes.png"
 For each movement and its opposite determination, two such tubes play a role, like `B F D` and `C G E`, and two others like `D G` and `E F`, as well as the two valves such as `H F I`.
 <!-- in Figure 8. -->
 
-{{< img src="/graphics/bio/fig08-10.jpg" alt="Brain stem" >}}
+<!-- img src="/graphics/bio/fig08-10.jpg" alt="Brain stem" >}} -->
+
+{{< i s="/graphics/bio/eyeball.png" a="Eyeball" >}}
 
 The methods by which these tubes are inserted into the muscles vary a thousand times.
 

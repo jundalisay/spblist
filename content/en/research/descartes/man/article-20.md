@@ -12,7 +12,7 @@ writer:
 
 
 
-#### 20. I do not individually explain what gives the soul the opportunity to conceive all the differences in color
+### 20. I do not individually explain what gives the soul the opportunity to conceive all the differences in color
 
 <!-- , as I have already discussed them abundantly before.  -->
 
@@ -46,7 +46,8 @@ For example, when hand `A` touches object `C`, the parts of the brain `B`, from 
 
 Therefore, the soul can perceive the position, shape, size, and similar qualities of the object in a peculiar way depending on how it is affected.
 
-Similarly, if the eye `D` looks at the object `E`, the soul will be able to perceive the position of that object because the nerves of that eye will be arranged differently than if it were looking elsewhere.
+Similarly, if the eye `D` looks at the object `E`, the soul will be able to perceive the position of that object.
+- This is because the nerves of that eye will be arranged differently than if it were looking elsewhere.
 
 It will recognize its shape because:
 - the rays from point `1` converge at point `2` to the optic nerve

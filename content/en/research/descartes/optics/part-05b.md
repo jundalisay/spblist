@@ -1,5 +1,5 @@
 ---
-title: "Images That Form On The Back Of The Eye"
+title: "Factors that Affect Vision"
 heading: "Part 5"
 weight: 18
 writer:
@@ -44,13 +44,14 @@ This will let several rays from each point of the object enter it.
 
 <!-- For example, here `XB14S` 2, XC25S, XD36S, and as many others as can be imagined between these three, come from the single point X;  -->
 
-If the pupil were so narrow, only a single ray from each point of the object could pass through it to each point of `RST`.
+- If the pupil were narrow, only a single ray could go to `RST` and would not have enough force.
+- If the pupil were larger, but there were no refraction in the eye, the rays coming from the objects would spread out in all directions in `RST`.
+  - The points `V, X, Y` would send 3 rays each towards `R`.
+  - These would reflect from there together towards your eyes.
+  - You would see point `R` as a medium color between red, yellow, and blue.
 
-It would not have enough force to reflect back into the room `P` towards your eyes.
-
-If the pupil were a bit larger, but there were no refraction in the eye, the rays coming from each point of the objects would spread out in all directions in `RST`.
-
-The points `V, X, Y` would send 3 rays each towards `R`. These would reflect from there together towards your eyes. You would see point `R` as a medium color between red, yellow, and blue.
+ <!-- from each point of the object could pass through it to each point of -->
+<!-- It would not have enough force to reflect back into the room `P` towards your eyes.  each point of -->
 
 <!-- and similarly for points S and T, towards which the same points V, X, Y would send their rays. And it would happen almost the same if the refraction in the eye were greater or less than it should be, because of the size of this eye: for, being too great, the rays coming, for example, from point X, would assemble before reaching S, like towards M; and, on the contrary, being too small, they would assemble only beyond, like towards P; so that they would touch the white body RST at several points, towards which other rays from other parts of the object would also come. -->
 
@@ -70,7 +71,7 @@ If `EN`, `EF` were not black, then they would not absorb the light that comes ag
 
 These would disturb the action of each other.
 
-The same would happen also to the rays that come from the chamber P towards RST, if there were any other light in this chamber, other than that which the objects V, X, Y send.
+The same would happen also to the rays that come from the room `P` towards `RST`, if there were any other light in this room, other than those sent by the objects `V, X, Y`.
 
 <!-- The images that are formed there have the likeness of the objects.
 The white body RST, paper or translucent shell.

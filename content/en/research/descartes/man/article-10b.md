@@ -55,6 +55,7 @@ Besides the tube `B F`, there is another tube, `E F`, through which the animal s
 
 {{< i s="/graphics/bio/eyeball.png" a="Eyeball" >}}
 
+
 Similarly, muscle `E`'s function is to move the eye in the opposite direction. It receives animal spirits from the brain through tube `C G` and from muscle `D` through `G`. They are returned to muscle `D` through `E F`.
 
 There is no clear passage for the spirits in the muscles `D` and `E` to exit, except for where they flow back and forth between each other.

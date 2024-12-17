@@ -11,7 +11,7 @@ writer:
 ---
 
 
-#### 19. Convexity and refraction is how the light coming from objects can enter through the pupil
+### 19. Convexity and refraction is how the light coming from objects can enter through the pupil
 
 <!-- looking at that part of the eye -->
 

@@ -110,7 +110,4 @@ This actually happened when artillery was fired towards the bottom of a river fo
 - Those on the opposite bank were injured.
 
 
-Fig 10
-
-
-
+<!-- Fig 10 -->

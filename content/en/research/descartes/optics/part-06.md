@@ -1,7 +1,7 @@
 ---
 title: "Vision"
 heading: "Part 6"
-weight: 20
+weight: 22
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

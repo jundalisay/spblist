@@ -11,20 +11,34 @@ icon: "/icons/descartes.png"
 ---
 
 
-Let us assume that the ball was pushed from `A` to `B`. While at point `B`, it is pushed further by the racket `CBE`. This increases the force of its movement by 1/3 so that it can cover as much distance in 2 moments as it did in 3 moments before. 
+Let us assume that the ball was pushed from `A` to `B`. 
+
+While at point `B`, it is pushed further by the racket `CBE`. 
+
+This increases the force of its movement by 1/3 so that it can cover as much distance in 2 moments as it did in 3 moments before. 
+
+{{< img src="/graphics/physics/tennis.jpg" alt="Tennis Figure 5" >}}
+
 
 This will have the same effect as if it encountered at point `B` a body of such nature that it passed through its surface `CBE`, a third more easily than through the air.
 
-If one draws the circle `AD` as before, and the lines `AC, RB, FE`, in a way that there is a third less distance between `FE` and `RB` than between `RB` and `AC`, the point `I`, where the straight line `FE` and the circular `AD` intersect, will designate the location towards which this ball, being at point B, must deflect.
+Draw circle `AD` and the lines `AC, RB, FE`, in a way that there is 1/3 less distance between `FE` and `RB` than between `RB` and `AC`.
+
+The straight line `FE` and the circular `AD` intersect at the point `I`.
+- This will designate where this ball, being at point `B`, must deflect.
 
 <!-- Pourquoi quelquefois les balles des canons tirés vers l'eau n'y peuvent entrer et se
 réfléchissent vers l'air.
 De combien les rayons sont détournés par les corps transparents qu'ils pénètrent.René Descartes (1637) La Dioptrique -->
 
 
-One can also take the reverse of this conclusion and say that, since the ball that comes from `A` in a straight line to `B`, deflects at point `B` and takes its course from there to `I`, this means that the force or ease with which it enters the body `CBEI` is proportional to the force or ease with which it exits the body `ACBE`, as the distance between `AC` and `HB` is to the distance between `HB` and `FI`, that is, as the line `CB` is to `BE`.
+The reverse of this conclusion is as follows. 
 
-Fig 11
+The ball that comes from `A` in a straight line to `B` deflects at point `B`.
+- From there, it goes to `I`.
+- This means that its force to enter the body `CBEI` is proportional to the force it exits the body `ACBE`, as the distance between `AC` and `HB` is to the distance between `HB` and `FI`, that is, as the line `CB` is to `BE`.
+
+<!-- Fig 11 -->
 
 
 The action of light follows the same laws as the motion of this ball.
@@ -37,7 +51,7 @@ This inclination should be measured by the quantity of straight lines, such as `
 
 It should not be measured by the angle of the lines, such as `ABH` or `GBI`, nor by the angle of the semblables to `DBI`, which are called the angles of refraction.
 
-For the reason or proportion that exists between these angles varies with all the different inclinations of the rays; whereas the proportion that exists between the lines `AH` and `IG`, or similar ones, remains the same in all the refractions caused by the same bodies.
+This is because the proportion that exists between these angles varies with all the different inclinations of the rays; whereas the proportion that exists between the lines `AH` and `IG`, or similar ones, remains the same in all the refractions caused by the same bodies.
 
 
 For example, if a ray passes from A to B in the air, and, encountering the surface of the glass CBR at point B, is deflected towards I within the glass; and another ray passes from K to B, which is deflected towards L; and another from P to R, which is deflected towards S; then the proportion between the lines KM and LN, or PQ and ST, should be the same as between AH and IG, but not the same as the proportion between the angles KBM and LBN, or PRQ and SRT, and the angle ABH and IBG.

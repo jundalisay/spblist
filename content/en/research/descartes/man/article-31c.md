@@ -1,9 +1,9 @@
 ---
 heading: Article 31c
-title: "The Effects of the Pineal Gland"
+title: "Distance Perception"
 # date: 2022-01-29
 weight: 48
-description: "Gland H is composed of a very soft material --  a substance that is not united with the substance of the brain everywhere, but is only attached to it by small arteries"
+description: "The pineal gland is composed of a very soft material"
 image: "/covers/man.jpg"
 writer:
   name: Rene Descartes
