@@ -45,39 +45,41 @@ During the 7 years of Baba's imprisonment no worker became avadhuta because the 
 
 Four of the candidates being considered by Ftim are non-Indian. He called us individually into His room. We were told that He would test our readiness for the kapalika training. 
 
-It was different than any test I've undergone. I'll explain only part of it. 
+It was different from any test I've undergone. I'll explain only part of it. 
 
-He called me first. As with Personal Contact, I was alone with Him. But whereas before He sat in a comfortable unassuming posture, this time He was erect, permeated by an intense transcendentality (how else to describe that mood?). As He spoke, the images He described became as real as the room 
-itself. 
+As with Personal Contact, I was alone with Him. But whereas before He sat in a comfortable unassuming posture, this time He was erect, permeated by an intense transcendentality.
 
-"You are in the cremation ground in the dead of the night..." He said, a fire 
-burning in His eyes, "everything hides behind a blanket of darkness ... vultures 
-flap their wings... a muggy breeze shivers your spine... from some unknown 
-comer echoes 'hooot... hooot... hooot'—will you be afraid?" 
+As He spoke, the images He described became as real as the room itself. 
+
+"You are in the cremation ground in the dead of the night...everything hides behind a blanket of darkness ... vultures flap their wings... a muggy breeze shivers your spine... from some unknown corner echoes 'hooot... hooot... hooot'—will you be afraid?" 
 
 "No, Baba." 
 
-"Very good," He brought His solemn face close to mine. "And if you plunge 
-deep, deep down into silence ... only leaves minutely rustling in the breath of 
-shadows ... your heart beats slowly ... slowly ... slowly ... when suddenly! what 
-hey? scores of faces, nay, skulls are all upon you! raining like arrows on your 
-head! scowling, grating their teeth, hissing, wailing!—will you be afraid?" 
+"Very good"
+
+He brought His solemn face close to mine. 
+
+"And if you plunge deep, deep down into silence ... only leaves minutely rustling in the breath of  shadows ... your heart beats slowly ... slowly ... slowly ... when suddenly! what hey? scores of faces, nay, skulls are all upon you! raining like arrows on your head! scowling, grating their teeth, hissing, wailing!—will you be afraid?" 
 
 "No, Baba." 
 
-"Very good. But, then, how will my boy react if I tell him to take off his clothes 
-and move in the streets without inhibition? Will he do it?" "Yes, Baba." 
+"Very good. But, then, how will my boy react if I tell him to take off his clothes and move in the streets without inhibition? Will he do it?" 
+
+"Yes, Baba." 
 
 "Then, go and do it. Now." 
 
-Immediately without a flick of hesitation, I stood up and started for the door. As 
-my hand reached the door handle. He said, "Stop!" I turned and faced Him. 
+Immediately without a flick of hesitation, I stood up and started for the door. As my hand reached the door handle. He said
+
+ "Stop!" 
+
+ I turned and faced Him. 
 
 "Very good. Very good. Now tell me ... how many blades are in that fan?" 
 
-In that moment nothing could have been more strange than such a common 
+<!-- In that moment nothing could have been more strange than such a common 
 question! I looked up at the ceiling-fan—the blades turned lazily, barely 
-merging into each other. I tried to count them. 
+merging into each other. I tried to count them.  -->
 
 "I think...there maybe three. Baba." 
 
@@ -85,52 +87,49 @@ merging into each other. I tried to count them.
 
 "I...I...think, Baba." 
 
-"The answer is wrong. You should have said. Baba, may I turn the fan off 
-so that I can properly count the blades?'" 
+"The answer is wrong. You should have said. Baba, may I turn the fan off so that I can properly count the blades?'" 
 
-I laughed, while He smiled broadly. The "test" was finished. 
+I laughed, while He smiled broadly. 
 
-He placed His hand on my head, then I embraced Him, and reluctantly left, 
-an extraordinary energy vibrating through every vertebrae of my spine. 
+The "test" was finished. 
 
-Next day. We four were given the thick "Senior Acharya Diary" today and 
-told to copy it. After doing so, we must pass the senior acharya exam, another 
-prerequisite before receiving kapalika initiation. For various reasons the time is 
+He placed His hand on my head, then I embraced Him, and reluctantly left, an extraordinary energy vibrating through every vertebrae of my spine. 
+
+Next day. We 4 were given the thick "Senior Acharya Diary" today and told to copy it. After doing so, we must pass the senior acharya exam, another prerequisite before receiving kapalika initiation.
+
+<!-- For various reasons the time is 
 short, so there's no time for sleep until the copying is finished. Then we will 
-have to cram for the exam. 
+have to cram for the exam.  -->
 
-Two days later. It was 4:00 a.m., and we were immersed in the endless 
-copying. Dada J dropped his pen, and still mindlessly went on writing with his 
-finger. A little later when he fell off his chair, his shocked expression made us 
-split our sides laughing. 
+Two days later. It was 4:00 a.m., and we were immersed in the endless copying. 
 
-Two days later. I am in the biggest hurry, because I, alone among the four, 
-must attend a workers' meeting in Delhi on the 11th. Before that I must pass the 
-exam, which covers not only the material in the diary (which I finally finished copying today), but also all the material in Baba's book Yogic Treatment, and advanced spiritual and social philosophy. 
+Dada J dropped his pen, and still mindlessly went on writing with his finger. A little later when he fell off his chair, his shocked expression made us split our sides laughing. 
 
-I started taking the test today, but the examiner failed me right away because I had not memorized any of the Sanskrit shlokas in the diary. There are 40 shlokas, each having at least four lines. I wonder how I can manage it. 
+Two days later. I am in the biggest hurry, because I, alone among the four, must attend a workers' meeting in Delhi on the 11th.
 
-Next day. So far I have only been able to memorize seven shlokas. So I 
-failed again. My mind seems blocked. Perhaps it's due to exhaustion. 
+Before that I must pass the exam, which covers not only the material in the diary (which I finally finished copying today), but also all the material in Baba's book Yogic Treatment, and advanced spiritual and social philosophy. 
+
+I started taking the test today, but the examiner failed me right away because I had not memorized any of the Sanskrit shlokas in the diary.
+
+There are 40 shlokas, each having at least four lines. I wonder how I can manage it. 
+
+
+Next day. So far I have only been able to memorize 7 shlokas. So I failed again. My mind seems blocked. Perhaps it's due to exhaustion. 
+
 
 Next day. This morning my mind inexplicably shifted into cosmic gear. 
-Within forty minutes I had memorized the remaining thirty-three shlokas. I was 
-amazed, having never before experienced this sort of phenomenal mental 
-power. 
 
-The examiner, however, didn't seem surprised. After passing me on the 
-shlokas, he went on to the other subjects, and one by one I passed them. 
+Within 40 minutes I had memorized the remaining 33 shlokas. I was amazed, having never before experienced this sort of phenomenal mental power. 
 
-In the evening. Dada Tadbhavananda (a senior worker) who was scheduled 
-to fly with me to Delhi came to the room and spoke to the examiner. 
+The examiner, however, didn't seem surprised. After passing me on the shlokas, he went on to the other subjects, and one by one I passed them. 
+
+In the evening. Dada Tadbhavananda (a senior worker) who was scheduled to fly with me to Delhi came to the room and spoke to the examiner. 
 
 "You've got to pass this boy quickly or we'll miss our flight." 
 
-"Don't try to pressure me," said the examiner nonchalantly. "Now finally 
-let's turn to C aryacarya. " u 
+"Don't try to pressure me," said the examiner nonchalantly. "Now finally let's turn to Caryacarya."
 
-"What!" I exclaimed. "I didn't know we'd be examined on Caryacarya. 
-How about just forgetting it, Dadaji?" I hadn't studied the book at all. 
+"What!" I exclaimed. "I didn't know we'd be examined on Caryacarya. How about just forgetting it, Dadaji?" I hadn't studied the book at all. 
 
 "I won't make exceptions for anyone." 
 
@@ -147,8 +146,7 @@ We all searched around, but couldn't find any.
 A few minutes passed, and still no candle appeared. "For God's sake," yelled 
 Tadbhavanandaji, "we've got to leave this minute for the airport!" 
 
-
-44 Caryacarya isa book on social and spiritual functions 
+Caryacarya is a book on social and spiritual functions 
 
 
 "Alright..." said the examiner, grudgingly. "Give me your diary." 

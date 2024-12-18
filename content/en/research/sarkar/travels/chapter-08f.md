@@ -1,7 +1,7 @@
 ---
-title: "Kapalika Meditation"
+title: "Personal Contact"
 heading: "Chapter 8f"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: "Two days later. This morning I was so late for my Aeroflot flight to Moscow"
 image: "/covers/mystic.jpg"
 weight: 124
 author: Dada Dharmavedananda
@@ -38,79 +38,86 @@ Mainjula was sitting there.
 
 Two days later. This morning I was so late for my Aeroflot flight to Moscow that the plane had to be delayed a few minutes only for me. 
 
-Who could believe that I would be late for a flight that was taking me directly to 
-Baba. But there was so much to take care of before I left. I had to be either 
-responsible and late, or irresponsible and on-time. Does He always have to 
-make such last minute dramas? 
+<!-- Who could believe that I would be late for a flight that was taking me directly to Baba.  -->
 
-Once they rushed me aboard, the stewardess escorted me directly to my 
+There was so much to take care of before I left. I had to be either responsible and late, or irresponsible and on-time. 
+
+<!-- Does He always have to 
+make such last minute dramas?  -->
+
+<!-- Once they rushed me aboard, the stewardess escorted me directly to my 
 seat. 
 
-With all the hurry, I didn't notice the passenger sitting next to me until I had 
-already put on my seat belt—it was the same Indian man who had disturbed my 
-meditation two days ago. I was astonished, but immediately understood the 
-connection. Surely he was a member of the CBI (Central Bureau of 
-Investigation in India) with instructions to follow me. How could he be foolish 
-enough to reserve a seat next to mine? 
+With all the hurry,  -->
 
-Damn, I thought. Is this yet another of Baba's tricks to keep me from seeing 
-Him? 
+The man who sat beside me was the same Indian man who had disturbed my meditation 2 days ago. 
 
-"Nice to see you again," he said with a derisive smirk on his face. 
+Surely he was a member of the CBI (Central Bureau of Investigation in India) with instructions to follow me. 
 
+How could he be foolish enough to reserve a seat next to mine? 
+
+{{< r a="Indian" >}}
+[With a derisive smirk] Nice to see you again. Where are you going?
+{{< /r >}}
+
+
+{{< l a="Dharmavedananda" >}}
+To Dacca. I appreciate your recent concern for my security. I can't figure out what you hope to find out from me. Nevertheless, you'll have  to excuse me because my curiosity is less than my repulsion for this kind of game.
+{{< /r >}}
+<!-- 
 "Where are you going?" I asked politely. 
 
 "To Delhi, of course." 
 
 "What takes you to Delhi?" 
 
-"To meet my family. And where are you going?" He was still wearing the 
+"To meet my family. " He was still wearing the 
 same arrogant grin. Confident that I was also going to Delhi, he no longer had 
 anything to hide—in contrast to these last days during which he had shadowed 
-me in Copenhagen. 
+me in Copenhagen.  -->
 
-"To Dacca," I said bluntly, staring at him. The look on his face abruptly 
+<!-- "," I said bluntly, staring at him. The look on his face abruptly 
 turned to bewilderment when he realized that he had miscalculated. 
 
-"And though I appreciate your recent concern for my security," I continued, 
-"I can't figure out what you hope to find out from me. Nevertheless, you'll have 
-to excuse me because my curiosity is less than my repulsion for this kind of 
-game." 
-
 I stood up and moved to another seat. Something tells me this man may 
-soon lose his job. But it's not my duty to look after his security. 
+soon lose his job. But it's not my duty to look after his security.  -->
 
 
 ### Personal contact 
 
-Calcutta. Oh, Lord, my heart pounded as I waited for You upstairs in the 
+<!-- Calcutta. Oh, Lord, my heart pounded as I waited for You upstairs in the 
 Jodhpur Park office. Would You be like my dreams? Would You smile as I'd 
 imagined? How would You treat me? What would You say? They said You 
-would come soon-now, what delays You? After waiting seven years, seven 
-minutes was agony. 
+would come soon-now, what delays You?  -->
 
-Thirty workers lined up in the corridor. Some gossiped or hummed a tune. 
+After waiting seven years, seven  minutes was agony. 
+
+30 workers lined up in the corridor. Some gossiped or hummed a tune. 
+
 But not a sound could pass my lips; nothing could enter my mind except the 
 thought of You; my heart wept, jumped, ached... 
 
 “Parampita Baba ki jai! Victory to Baba!" Suddenly-there You were! 
-Alive. Breathing. Walking towards me. Not a vision or a dream this time. You 
+
+<!-- Alive. Breathing. Walking towards me. Not a vision or a dream this time. You 
 took over my eyes, my mind. Every muscle, every nerve leaned toward You as 
 You moved down the silent row. Oh, God! That for which I was bom-fulfilled. 
 If, in that moment I had died, and fallen at Your feet I would have been 
-satisfied. 
+satisfied.  -->
 
-You gave me a passing glance. You saw me. I was stunned. I didn't need 
-that, but You gave it. Everything which follows in my life will be like toys for 
-an infant already suckling its mother's breast. 
+You gave me a passing glance. I was stunned. I didn't need that, but You gave it.
+
+<!-- Everything which follows in my life will be like toys for  an infant already suckling its mother's breast. 
 
 You walked into Your room. The door closed. I remained-a puppet with a 
 head full of sawdust. 
 
 Then excitement, voices echoing meajun A essly down the corridor, one 
-sound pierced through the din: 'Those who have not yet had Personal Contact, come here." I drifted toward Dada Ramananda, Baba's personal assistant. 
+sound pierced through the din:  -->
 
-Only Indian workers and full-timers were around him. 
+Dada Ramananda, Baba's personal assistant said: 'Those who have not yet had Personal Contact, come here."
+
+<!-- Only Indian workers and full-timers were around him. 
 
 "What, you?" he said to me. "You haven't had Personal Contact yet?" 
 
@@ -124,28 +131,24 @@ through the door. "Go in!" I stumbled, and caught myself while the door shut
 behind me. 
 
 I looked up. You sat alone on Your bed, smiling. I threw myself at Your 
-feet, extending my arms until I was an arrow piercing the target. 
+feet, extending my arms until I was an arrow piercing the target.  -->
 
-"Sit up, my boy." You spoke to me! Was I dreaming? Tears began to flow 
-from my eyes. Oh, what would You say now? I had waited seven years—Baba! 
+<!--  You spoke to me! Was I dreaming? Tears began to flow 
+from my eyes. Oh, what would You say now? I had waited seven years—Baba!  -->
 
-"What is your name, my boy?" What—was this a joke? You knew not only 
-my name, but everything, everything about me, more than I knew about myself. 
+"What is your name, my boy?" 
 
-I smiled and said. "Dharmapala, Baba." How silly. 
+"Dharmapala, Baba."
 
 "And what is your posting?" 
 
-Oh, come to the point. Baba, I thought. Talk to me personally, not like 
-someone You never met! 
-
-Again I smiled. "Regional Secretary of Stockholm and Oslo Regions, 
-Baba." 
+"Regional Secretary of Stockholm and Oslo Regions, Baba." 
 
 "Acha. You know you made some mistakes in your past." 
 
-I smiled, saying, "Yes, Baba." Now, surely You would go into detail about 
-my personal history. 
+"Yes, Baba."
+
+Now, surely You would go into detail about  my personal history. 
 
 But no. It was not to be. A few minutes passed, some more words about 
 correcting myself, about becoming a model for others. Threatened punishment 
@@ -205,11 +208,11 @@ said nothing interesting, and did nothing memorable. Afterward, only afterward.
 You were so loving, beyond my imagination. Why? 
 
 Slowly I began to understand. Personal Contact is spiritual. Purely spiritual. 
+
 It doesn't matter what happens experientially. Experience is not spiritual, it is 
 mental. You did what You wanted during the Personal Contact. It will have 
 exactly the proper unique effect on me, unrelated to either understanding or 
 misunderstanding. 
-
 
 And I know—You want me to tell others that Personal Contact is purely 
 spiritual. Not to expect anything. You will do only what is necessary to deepen 
@@ -220,6 +223,3 @@ You—Tantra Gum—You care only for that spirituality.
 
 And You pinched me. You slapped me—why?—just to please me. You 
 already did what You wanted—and then You did what I wanted. 
-
-You clever One. I... love ... You. 41 
-
