@@ -60,6 +60,10 @@ This will be done in Material Superphysics through Qualimath.
 
 
 
+{{< q a="Leibniz" >}}
+Monads must have some qualities otherwise they would not be beings at all.. Every monad is necessarily different from every other monad.
+{{< /q >}}
+
 
 <!-- Kepler lists 5 kinds of monads: 2 are of the immaterial category and 3 are material. Instead of calling them cube, tetrahedron, etc we call them do, re, mi, sol, la, as Pythagoras' "sesquialter" and the Chinese pentatonic scale. 
 
@@ -119,3 +123,4 @@ This leads to true artificial intelligence which we call Automated Natural Intel
 <!-- Everyone has had an idea. Therefore, ideas are real, but not physical in nature. These ideas then spur us into action in the physical domain.
 
 From the Creator's viewpoint a qoa is Its idea. From a createe's viewpoint, it is a thought. -->
+

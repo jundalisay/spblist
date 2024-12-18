@@ -51,5 +51,6 @@ Descartes explains that matter is not held by gluons but by the same empty space
 
 The smallness of the UAP drones means that it is likely unmanned. 
 
-Cartesian Physics predicts that it would have fewer features than a manned model. It won't be able to zip around like the tic tac model because hypersonic and faster-than-light travel requires the aether, which needs a living detector
+Cartesian Physics predicts that it would have fewer features than a manned model. It won't be able to zip around like the tic tac model because hypersonic and faster-than-light travel requires the aether, which needs a living detector.
 
+What likely happens is that the drones disappear and then fly back to a bigger ship which is capable of hypersonic travel

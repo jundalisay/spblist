@@ -1,46 +1,23 @@
+---
+title: "Preface"
+date: 2024-12-17
+weight: 3
+description: "The Natural Faculties"
+image: /covers/natural.jpg
+draft: true
+---
 
-
-PREFACE
-
-The text used is (with a few unimportant modifications) that of Kühn (Vol. II), as edited by Georg Helmreich; Teubner, Leipzig, 1893. The numbers of the pages of Kühn’s edition are printed at the side of the Greek text, a parallel mark (||) in the line indicating the exact point of division between Kühn’s pages.
-
-Words in the English text which are enclosed in square brackets are supplementary or explanatory; practically all explanations, however, are relegated to the footnotes or introduction. In the footnotes, also, attention is drawn to words which are of particular philological interest from the point of view of modern medicine.
-
-I have made the translation directly from the Greek; where passages of special difficulty occurred, I have been able to compare my own version with Linacre’s Latin translation (1523) and the French rendering of Charles Daremberg (1854-56); in this respect I am also peculiarly fortunate in having had the help of Mr. A. W. Pickard Cambridge of Balliol College, Oxford, who most kindly went through the Pg vi proofs and made many valuable suggestions from the point of view of exact scholarship.
-
-My best thanks are due to the Editors for their courtesy and for the kindly interest they have taken in the work. I have also gratefully to acknowledge the receipt of much assistance and encouragement from Sir William Osler, Regius Professor of Medicine at Oxford, and from Dr. J. D. Comrie, first lecturer on the History of Medicine at Edinburgh University. Professor D’Arcy W. Thompson of University College, Dundee, and Sir W. T. Thiselton-Dyer, late director of the Royal Botanic Gardens at Kew, have very kindly helped me to identify several animals and plants mentioned by Galen.
-
-I cannot conclude without expressing a word of gratitude to my former biological teachers, Professors Patrick Geddes and J. Arthur Thomson. The experience reared on the foundation of their teaching has gone far to help me in interpreting the great medical biologist of Greece.
-
-I should be glad to think that the present work might help, however little, to hasten the coming reunion between the “humanities” and modern biological science; their present separation I believe to be against the best interest of both.
-
-A. J. B.
-
-22nd Stationary Hospital, Aldershot.
-March, 1916.
-
-Pg vii-viii
-
-CONTENTS
- 	page
-preface	v
-introduction	ix
-bibliography	xli
-synopsis of chapters	xliii
-book i	1
-book ii	117
-book iii	223
-index and glossary	335
-Pg ix
 
 INTRODUCTION
-Hippocrates
-and Galen. If the work of Hippocrates be taken as representing the foundation upon which the edifice of historical Greek medicine was reared, then the work of Galen, who lived some six hundred years later, may be looked upon as the summit or apex of the same edifice. Galen’s merit is to have crystallised or brought to a focus all the best work of the Greek medical schools which had preceded his own time. It is essentially in the form of Galenism that Greek medicine was transmitted to after ages.
+
+Hippocrates and Galen. If the work of Hippocrates be taken as representing the foundation upon which the edifice of historical Greek medicine was reared, then the work of Galen, who lived some six hundred years later, may be looked upon as the summit or apex of the same edifice. Galen’s merit is to have crystallised or brought to a focus all the best work of the Greek medical schools which had preceded his own time. It is essentially in the form of Galenism that Greek medicine was transmitted to after ages.
 
 The Beginnings
 of
 Medicine
-in Greece. The ancient Greeks referred the origins of medicine to a god Asklepios (called in Latin Aesculapius), thereby testifying to their appreciation of the truly divine function of the healing art. The emblem of Aesculapius, familiar in medical symbolism at the present day, was a staff with a serpent coiled round it, the animal typifying wisdom in general, and more particularly the wisdom of the medicine-man, with his semi-miraculous powers over life and death.
+in Greece. 
+
+The ancient Greeks referred the origins of medicine to a god Asklepios (called in Latin Aesculapius), thereby testifying to their appreciation of the truly divine function of the healing art. The emblem of Aesculapius, familiar in medical symbolism at the present day, was a staff with a serpent coiled round it, the animal typifying wisdom in general, and more particularly the wisdom of the medicine-man, with his semi-miraculous powers over life and death.
 
 Pg x “Be ye therefore wise as serpents and harmless as doves.”
 
@@ -104,10 +81,8 @@ His respite was short, however, for within a year he was summoned back to Italy 
 
 Thereafter we know little of Galen’s history, beyond the fact that he now entered upon a period of great literary activity. Probably he died about the end of the century.
 
-Subsequent
-History of
-Galen’s
-Works. Galen wrote extensively, not only on anatomy, physiology, and medicine in general, but also on logic; his logical proclivities, as will be shown later, are well exemplified in his medical writings. A considerable number of undoubtedly genuine works of his have come down to us. The full importance of his contributions to medicine does not appear to have been recognized till some time after his death, but eventually, as already pointed out, the terms Galenism and Greek medicine became practically synonymous.
+
+Galen wrote extensively, not only on anatomy, physiology, and medicine in general, but also on logic; his logical proclivities, as will be shown later, are well exemplified in his medical writings. A considerable number of undoubtedly genuine works of his have come down to us. The full importance of his contributions to medicine does not appear to have been recognized till some time after his death, but eventually, as already pointed out, the terms Galenism and Greek medicine became practically synonymous.
 
 A few words may be devoted to the subsequent history of his writings.
 
@@ -124,6 +99,8 @@ of
 Arabian
 Medicine
 to the West.
+
+
 Arabo-Scholastic
 Period. Having arrived at such a condition in the hands of the Mohammedans, Galenism was now destined to pass once more to the West. From the 11th century onwards Latin translations of this “Arabian” Medicine (being Greek medicine in oriental trappings) began to make their way into Europe; here they helped to undermine the authority of the one medical school of native growth which the West produced during the Middle Ages—namely the School of Salerno.
 
@@ -156,8 +133,8 @@ Harvey
 
 Modern medicine, based upon a painstaking Pg xxiv research into the details of physiological function, had begun.
 
-Back to
-Galen! While we cannot sufficiently commend the results of the long modern period of research-work to which the labours of the Renascence anatomists from Vesalius to Harvey form a fitting prelude, we yet by no means allow that Galen’s general medical outlook was so entirely invalidated as many imagine by the conclusive demonstration of his anatomical errors. It is time for us now to turn to Galen again after three hundred years of virtual neglect: it may be that he will help us to see something fundamentally important for medical practice which is beyond the power even of our microscopes and X-rays to reveal. While the value of his work undoubtedly lies mainly in its enabling us to envisage one of the greatest of the early steps attained by man in medical knowledge, it also has a very definite intrinsic value of its own.
+
+While we cannot sufficiently commend the results of the long modern period of research-work to which the labours of the Renascence anatomists from Vesalius to Harvey form a fitting prelude, we yet by no means allow that Galen’s general medical outlook was so entirely invalidated as many imagine by the conclusive demonstration of his anatomical errors. It is time for us now to turn to Galen again after three hundred years of virtual neglect: it may be that he will help us to see something fundamentally important for medical practice which is beyond the power even of our microscopes and X-rays to reveal. While the value of his work undoubtedly lies mainly in its enabling us to envisage one of the greatest of the early steps attained by man in medical knowledge, it also has a very definite intrinsic value of its own.
 
 Galen’s
 Debt to his
@@ -178,21 +155,26 @@ Galen’s
 
 Galen expressed this idea of the unity of the organism by saying that it was governed by a Physis or Nature (ἡ φύσις ἥπερ διοικεῖ τὸ ζῷον), with whose “faculties” or powers it was the province of φυσιολογία (physiology, Nature-lore) to deal. It was because Hippocrates had a clear sense of this principle that Galen called him master. “Greatest,” say the Moslems, “is Allah, and Mohammed is his prophet.” “Greatest,” said Galen, “is the Physis, and Hippocrates is its prophet.” Never did Mohammed more zealously maintain the unity of the Godhead than Hippocrates and Galen the unity of the organism. Pg xxvii
 
-Galen’s
-Physics. But we shall not have read far before we discover that the term Physiology, as used by Galen, stands not merely for what we understand by it nowadays, but also for a large part of Physics as well. This is one of the chief sources of confusion in his writings. Having grasped, for example, the uniqueness of the process of specific selection (ὁλκὴ τοῦ οἰκείου), by which the tissues nourish themselves, he proceeds to apply this principle in explanation of entirely different classes of phenomena; thus he mixes it up with the physical phenomenon of the attraction of the lodestone for iron, of dry grain for moisture, etc. It is noteworthy, however, in these latter instances, that he does not venture to follow out his comparison to its logical conclusion; he certainly stops short of hinting that the lodestone (like a living organ or tissue) assimilates the metal which it has attracted!
+Galen’s Physics. 
+
+He grasped the uniqueness of the process of specific selection (ὁλκὴ τοῦ οἰκείου), by which the tissues nourish themselves, he proceeds to apply this principle in explanation of entirely different classes of phenomena; thus he mixes it up with the physical phenomenon of the attraction of the lodestone for iron, of dry grain for moisture, etc.
+
+It is noteworthy, however, in these latter instances, that he does not venture to follow out his comparison to its logical conclusion; he certainly stops short of hinting that the lodestone (like a living organ or tissue) assimilates the metal which it has attracted!
 
 Setting aside, however, these occasional half-hearted attempts to apply his principle of a φύσις in regions where it has no natural standing, we shall find that in the field of biology Galen moves with an assurance bred of first-hand experience.
 
-The
-Mechanical
-Physicists. Against his attempt to “biologize” physics may be set the converse attempt of the mechanical Atomist school. Thus in Asclepiades he found a doughty defender of the view that physiology was “merely” physics. Galen’s ire being roused, he is not content with driving the enemy out of the biological camp, but must needs attempt also to Pg xxviii dislodge him from that of physics, in which he has every right to be.
+The Mechanical Physicists.
+
+Against his attempt to “biologize” physics may be set the converse attempt of the mechanical Atomist school. Thus in Asclepiades he found a doughty defender of the view that physiology was “merely” physics. Galen’s ire being roused, he is not content with driving the enemy out of the biological camp, but must needs attempt also to Pg xxviii dislodge him from that of physics, in which he has every right to be.
 
 The Anatomists. In defence of the universal validity of his principle, Galen also tends to excessive disparagement of morphological factors; witness his objection to the view of the anatomist Erasistratus that the calibre of vessels played a part in determining the secretion of fluids (p. 123), that digestion was caused by the mechanical action of the stomach walls (p. 243), and dropsy by induration of the liver (p. 171).
 
 Characteristics
 of the
 Living
-Organism. While combating the atomic explanation of physical processes, Galen of course realised that there were many of these which could only be explained according to what we should now call “mechanical laws.” For example, non-living things could be subjected to φορά (passive motion), they answered to the laws of gravity (ταῖς τῶν ὑλῶν οἰακιζόμενα ῥοπαῖς, p. 126). Furthermore, Galen did not fail to see that living things also were not entirely exempted from the operation of these laws; they too may be at least partly subject to gravity (loc. cit.); a hollow organ exerts, by virtue of its cavity, an attraction similar to that of dilating bellows, as well as, by virtue of the living tissue of its walls, a specifically “vital” or selective kind of attraction (p. 325).
+Organism. 
+
+While combating the atomic explanation of physical processes, Galen of course realised that there were many of these which could only be explained according to what we should now call “mechanical laws.” For example, non-living things could be subjected to φορά (passive motion), they answered to the laws of gravity (ταῖς τῶν ὑλῶν οἰακιζόμενα ῥοπαῖς, p. 126). Furthermore, Galen did not fail to see that living things also were not entirely exempted from the operation of these laws; they too may be at least partly subject to gravity (loc. cit.); a hollow organ exerts, by virtue of its cavity, an attraction similar to that of dilating bellows, as well as, by virtue of the living tissue of its walls, a specifically “vital” or selective kind of attraction (p. 325).
 
 As a type of characteristically vital action we may take nutrition, in which occurs a phenomenon Pg xxix which Galen calls active motion (δραστικὴ κίνησις) or, more technically, alteration (ἀλλοίωσις). This active type of motion cannot be adequately stated in terms of the passive movements (groupings and re-groupings) of its constituent parts according to certain empirical “laws.” Alteration involves self-movement, a self-determination of the organism or organic part. Galen does not attempt to explain this fundamental characteristic of alteration any further; he contents himself with referring his opponents to Aristotle’s work on the “Complete Alteration of Substance” (p. 9).
 

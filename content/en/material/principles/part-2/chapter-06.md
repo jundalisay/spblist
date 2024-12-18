@@ -2,7 +2,7 @@
 heading: "Chapter 6"
 title: "Conservation of Momentum: The 4 Rules of True Motion"
 # date: 2024-07-22
-weight: 21
+weight: 34
 image: /graphics/physics/rule1.jpg
 description: "Rene Descartes gave 3 Rules of Movement in 'The World' which we combine with Spinoza"
 icon: /icons/spmat.png
@@ -16,12 +16,8 @@ writer:
 
 Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe.
 
-The Conservation of Momentum states that total momentum of a system remains constant when no external forces act on the system. 
-
-
-### Internal-External Movement
-
-
+The Conservation Law for the Spatial Layer is the Conservation of Momentum.
+- This states that total momentum of a system remains constant when no external forces act on the system. 
 
 
 {{< q a="Descartes" c="The World, Chapter 13" >}}
@@ -29,18 +25,13 @@ A body that 'tends' towards some direction does not mean that there is a thought
 {{< /q >}}
 
 
-relationality
-
-
-
-{{< dc t="Principles" >}}
+<!-- {{< dc t="Principles" >}}
 Principles | Assertions
 --- | ---
 The Law of Conservation of Idea in Physical Reality  | This leads to the Theory of Dynamism as the Rules of Movement
-{{< /dc >}}
+{{< /dc >}} -->
 
-
-The Rules of Motion in Superphysics implement the Law of Conservation of Momentum.
+The Law of Conservation of Momentum is implemented by the Rules of Motion.
 
 <!-- come from Cartesian-Spinozan Physics. These are rules coming from the 
  -Energy-Mass, which we collectively call the Law of Conservation of Idea.  -->
@@ -61,6 +52,16 @@ This is based on the maxim that there is no Void in Nature. This means that ever
 This rule is the basis for:
 - Virtual particles filling "empty" space
 - Gravity pushing object down objects 
+
+{{< q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
+According to Descartes, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the universe was always the same. But there was no void. 
+
+No part of matter could be moved without thrusting some other out of its place. The matter which any body pushed before it, rolled immediately backwards, to supply the place of that matter which flowed in behind it. 
+
+This is similar to the swimming of a fish. The water, which it pushes before it, immediately rolls backwards, to supply the place of what flows in. It thus forms a vortex around the body of the fish. In the same way, the motion originally impressed by the Creator on matter produced in it an infinity of vortices, or circular streams. 
+{{< /q >}}
+
+
 
 {{< dc t="Note" >}}
 This is in Part 2, Proposition 7 of Spinoza's Principles of Cartesian Philosophy, and inferred from Principia, Part 2, Article 33
@@ -119,6 +120,22 @@ This is in Part 2, Article 40 of Descartes' Principia Philosophia and Part 2, Pr
 This rule is the basis for:
 - Nuclear fission and fusion
 - Chemical reactions
+
+
+## Newton's Laws Versus Descartes' Rules
+
+We compare the the principles of Newton and Descartes regarding motion:
+
+Newton | Descartes
+--- | ---
+Law 1: Inertia | Rule 2: State Continuity
+Law 2: Force | Rule 1: No Void
+Law 3: Action-Reaction | Rule 4: Collisions
+
+
+The main difference is that Descartes' is based on quantum or aethereal movement, while Newton's is based on material movement. 
+
+The problem with Newton's system is that material principles cannot be extedned to aethereal phenomena, aethereal principles can be extended down to material phenomena.  
 
 <!-- Every motion in itself is straight. Things which move together eventually move in a circular manner, always tending to move away from the center of the circle which they describe. -->
 

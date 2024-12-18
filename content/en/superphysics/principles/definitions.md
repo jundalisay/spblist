@@ -38,6 +38,7 @@ Entity | Anything that the mind regards as having an identity
 Existence | the effect of Consciousness as its other half
 God | an entity that represents either Enki or Enlil (Sumerian texts)
 gods | entities that represent beings more advanced than humans with corresponding increase in power or abilities
+Gravitational Signature | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
 Humor | Ability to make connections from seemingly unconnected things (Bashar)
 Idea | An original metaphysical object created by the Supreme that is accessed by abstract minds. Also, a product of Ideation (accessing pre-existing ideas)
 Identity | A discrete resultant perception separate from other perceptions or a mass of perceptions
@@ -168,27 +169,6 @@ Pointization | the conversion of goods and services into points
 Products | a good that is processed and is for sale
 Service | anything that is for sale but does not occupy a specific spacetime 
 Wealth | the actual quality and quantity of useful goods and services
-
-
-## Material Superphysics
-
-Word | Acronym | Meaning
---- | --- | ---
-Charge | Rotation direction of that particle 
-Gravitational Signature | | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
-Magnetic Field | The flow of virtual photons around that hole
-Magnetic Moment | A hole in particles for virtual photons to pass through
-Magnetism | The tendency for materials to attract and repel independent of gravitation
-Monad | A 1-dimensional Substance
-Quantum of Aether | Qoa | Substance of idea, feeling, or the abstract mind or soul that has those ideas and feelings
-Quantum of Space-time | Qost | Invisible spacetime particles in the Spatial Layer
-Quantum Substance | A Cartesian Substance subject to measurement
-Spin | Orientation of that particle relative to the virtual photon 
-Spin Number | Ratio of Virtual Photons needed to rotate the particle. 1/2 spin means 2 virtual photons are needed for each rotation
-
-
-<!-- Spinoza | | the Aether, as to separate it from the Physics concept of the aether or the Higgs field -->
-
 
 
 

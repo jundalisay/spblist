@@ -13,9 +13,9 @@ icon: /icons/spmat.png
 
 
 
-We all know that physical reality exists inside space and time, and that space and time are the properties of the universe. 
+<!-- We all know that physical reality exists inside space and time, and that space and time are the properties of the universe. 
 
-But how were space and time and the universe created?
+But how were space and time and the universe created? -->
 
 According to Physics, it was created through a "Big Bang" of a material Singularity. This led to matter and energy, just as we see shrapnel and light, and feel the energy from exploding fireworks. 
 

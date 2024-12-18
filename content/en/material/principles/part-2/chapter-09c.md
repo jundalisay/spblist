@@ -4,7 +4,7 @@ title: "Newtonian Gravity in Cartesian Relationality"
 linkTitle: "Newtonian Gravity"
 # # date: 2020-01-31
 # date: 2023-02-10
-weight: 39
+weight: 44
 image: /graphics/physics/bands.jpg
 description: "The Elastic Theory is from Descartes and kepler, with important maxim-contributions from Socrates, Taoism, Buddhism, and Hinduism."
 icon: /icons/spmat.png

@@ -1,7 +1,7 @@
 ---
-title: "The Natural Faculties"
+title: "Book 3"
 date: 2024-12-17
-weight: 34
+weight: 14
 description: "The Natural Faculties"
 image: /covers/natural.jpg
 ---

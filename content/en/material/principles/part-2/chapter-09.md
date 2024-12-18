@@ -3,85 +3,34 @@ heading: "Chapter 9"
 title: "Spatial Relationality"
 # # date: 2020-01-31
 # date: 2021-12-30
-weight: 36
+weight: 40
 image: /graphics/gravrelm.png
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: /icons/spmat.png
-draft: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
-Spatial Relationality is the implementation of Poincare's Law of Relativity to the spatial layer. 
+Spatial Relationality via `G1 : G2` leads to the following phenomena:
 
-<!-- We explained the flaws in General Relativity:
-- it is limited to visible movement
-- it cannot extend to explain the cause of spacetime
-
-These flaws lead to theories on  dark matter or wormholes and singularities that have never been found. They were caused by Einstein's reliance on arbitrary tensors to lead to his concept of the fabric of spacetime. This is a necessary consequence of him thinking in terms of electromagnetic fields from his earlier work with the photoelectric effect.
-
-Metaphysically, his mind imagined the universe from the perspective of light which has two known properties:
-
-- it has a speed limit of 300km/s -- this leads to c
-- it can travel arbitrarily -- this leads to the arbitrary metric tensor -->
+Identity 1 | Identity 2 | Phenomena
+--- | --- | --- 
+Matter | Matter  | Material or Planetary Gravity 
+Matter | Radiance | Spectral lines
+Radiance | Radiance | Lensing
+Galaxy | Radiance  | Dark Matter, Gravitational Waves
+Galaxy | Galaxy  | Dark Energy
+Galaxy | Matter | Isolation 
 
 
-Both the aether and spacetime have a special property that they can be divided into smaller and smaller particles. In the spatial layer, this leads to the expansion of the universe. 
+The differences in the layer where the identies reside in brings about various physical phenomena.
 
-These identities push each other to preserve their identity, as an effect of [the Law of Conservation of Idea,](/superphysics/principles/chapter-03) a concept not present in Physics nor Science. This law then leads to sub-laws such as:
-- the law of conservation of momentum in the Spatial Layer
-- the law of conservation of energy in the Radiant Layer
-- the law of conservation of aether in the Convertible Layer
-- the law of conservation of mass in the Material Layer
+Currently, Einstein's Relativity is adopted by Modern Physics. This prevents it from advancing and is why Physics has been stuck.
 
 
-Spatial Relationality then glues the conservation laws with each other, from the perspective of the Spatial Layer. 
-
-The main difference between our unification and the one done by Einstein is that Einstein uses light or Electromagnetism as the unifying medium, whereas we use the aether. 
-
-<!-- The pushing leads to the creation and expansion of physical space, first as 2-dimensional (Pythagorean duad) and then into 3-dimensions (triad). The sequence of expansion then leads to physical time as the fourth dimension (tetrad), leading to 4-dimensional "Minkowski" spacetime to an observer. -->
-
-This "pushing" is based on the theory of Descartes which was destroyed by Newton:
-
-{{< q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
-According to Descartes, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the universe was always the same. But there was no void. 
-
-No part of matter could be moved without thrusting some other out of its place. The matter which any body pushed before it, rolled immediately backwards, to supply the place of that matter which flowed in behind it. 
-
-This is similar to the swimming of a fish. The water, which it pushes before it, immediately rolls backwards, to supply the place of what flows in. It thus forms a vortex around the body of the fish. In the same way, the motion originally impressed by the Creator on matter produced in it an infinity of vortices, or circular streams. 
-{{< /q >}}
-
-
-The range of motions arising from the perpetual pushing is determined by the identity's gravitational signature, located in its timespace, in relation to other signatures. 
-
-<!-- The relation can be within the same Layer or extend to lower Layers. For example, magnetism is affected by heat, but not by light, just as light is affected by gravity, but gravity or weight is not changed by light.  -->
-
-<!-- 
-Layer | Ratio
---- | ---
-Aethereal | E::G(idea)
-Spatial | E::G(vortex)
-Radiant | E=mc^2
-Convertible | Feynman diagrams
-Material | w=mg -->
-
-<!-- Can't find a [WIMP of dark energy](https://www.forbes.com/sites/startswithabang/2019/02/22/the-wimp-miracle-is-dead-as-dark-matter-experiments-come-up-empty-again/#95053e86dbc6)? That's because space isn't a thing that fills gaps between objects. Rather, it's just an effect of observation and is the same reason behind quantum non-locality.
-
-Space-time depends totally on perception. Rather than say that it is infinite, it is more correct to call it as totally abitrary. A particle, when imposed on (since its 'spin' reflects reality), can therefore arbitrarily change its location and 'defy' gravity and locality.
- -->
-
-{{< youtube e7rRQEq9C60 >}}
-
-
-This paradigm then leads to new technologies as:
-- teleportation (instant state-change) and
-- levitation (gradual state-change). 
-
-It renders quantum fields and some of Einstein's tensors useless, just as Copernicus and Kepler rendered the spheres of Ptolemy useless.
-
-More importantly, it discards the sophistical ideas of wormholes, singularities, and dark matter (in its current definition) to be replaced with the media of the spatial layer. 
+<!-- {{< youtube e7rRQEq9C60 >}} -->
 
 <!-- 
 Newton was actually the first one to popularize this with the concept of Newton's apple falling. It assumes that the cause of the fall was an external force called gravity from the Earth. But in Superphysics, the fall of the apple is caused by the G of the apple's qost or center of gravity relative to the qost of the earth. 
@@ -91,7 +40,21 @@ A bucket of water has a moving center of gravity just as a flock of birds have a
 A leaf is blown externally by the wind. But in reality, the wind blows from its own nature which reacts in a certain way to heat. The leaf then has its own nature that agrees to being blown by the wind, as opposed to a tree trunk that comes form the same seed but has different natures relative to the wind.  -->
 
 
-## Getting Rid of General Relativity
+## Getting Rid of Relativity
+
+Relativity has 2 kinds, represting 2 different layer relations:
+
+Name | Layer | Phenomena
+--- | --- | ---
+Special Relativity | Radiant-Radiant | Lensing 
+General Relativity | Radiant-Galaxy | Gravitational Waves
+
+The main mechanism of Special Relativity is the metric tensor, while that of General Relativity is the stress-energy tensor. 
+
+The mechanism for the stress-energy tensor is mass-energy equivalence which is really the match between electromagnetic potential and electromagnetic energy.  
+
+
+### The Metric Tensor
 
 In his book Relativity, Einstein proposes a strange way to find the space between an observer on Trafalgar square and a cloud above it. He takes a pole, connects it to both the cloud and Trafalgar square PERPENDICULARLY. This then, he claims, would remove the need to have a rigid Trafalgar square as basis. 
 
@@ -108,6 +71,10 @@ To confine this arbitrariness, Einstein uses c or light (which everyone perceive
 This arbitrariness, established as a science, then necessarily leads to fanciful imaginings like singularities, wormholes, and dark matter to plug the holes and differences between the imagination and the actual nature of the universe. This is similar to Aristotle and Ptolemy creating concentric spheres around the Earth.
 
 No one seemed to ask how would Einstein's system work in total darkness. How would a blind man erect a pole to a cloud that he couldn't see?
+
+
+<!-- ### Mass Energy Equivalence -->
+
 
 
 ### A Different Way: Experiential

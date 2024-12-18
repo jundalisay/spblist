@@ -55,6 +55,9 @@ But the true earth is pure and situated in the pure heaven—there are the stars
 {{< /q >}}
 
 
+
+### The Aether Dominates and is the Most Subtle
+
 The aether is the highest and most important layer in the universe. It is the start of existence in the quasi-physical domain (since the previous layer is Probability which is only theoretical).
 
 This layer dominates and rules the other four layers, just like spacetime dominates light as to give it a speed limit, and electromagnetism dominates matter as to prevent two rocks from merging or passing through each other. 

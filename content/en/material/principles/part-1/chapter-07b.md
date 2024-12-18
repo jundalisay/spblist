@@ -10,8 +10,26 @@ writer:
 weight: 60
 icon: /icons/spmat.png
 toc: false
-# was 5b
+draft: true
 ---
+
+
+## Atomic Gravity: Electron Shells
+
+Electrons orbit the nucleus of an atom through electron shells. Unlike planetary orbits which are elliptical and sequential, electron shells are probabilistic. This is because:
+- planetary orbits are within space-time
+- electron shells are within the aetherspace
+
+
+<!-- Fine structure 
+
+Lamb shift 
+
+Spin flip  -->
+
+
+When a hydrogen atom is put under a magnetic field the electrons get change position and can emit light. This causes rings of light 
+
 
 
 In "The Quantum Theory of Line-Spectra", Niels Bohr explains the mechanics of quantum theory that can work without Einstein's Special Relativity.

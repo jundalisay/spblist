@@ -2,7 +2,7 @@
 heading: "Chapter 9d"
 title: "Cartesian Relationality: Special and General Relativity"
 date: 2023-10-01
-weight: 40
+weight: 46
 image: /graphics/physics/gravity.jpg
 description: "The Elastic Theory is from Descartes and kepler, with important maxim-contributions from Socrates, Taoism, Buddhism, and Hinduism."
 icon: /icons/spmat.png

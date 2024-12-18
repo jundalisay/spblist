@@ -2,7 +2,7 @@
 heading: "Chapter 8"
 title: "Dark Energy: The Expansion of Space-Time"
 # date: 2023-03-10
-weight: 34
+weight: 38
 image: /graphics/physics/expansion.jpg
 description: "Everything is expanding, even your own atoms."
 icon: /icons/spmat.png

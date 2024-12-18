@@ -11,6 +11,8 @@ writer:
 weight: 34
 icon: /icons/spmat.png
 toc: false
+aliases:
+  /material/charges
 ---
 
 

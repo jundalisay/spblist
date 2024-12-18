@@ -30,10 +30,15 @@ Physical | Lower | This is already used in algebra and calculus for the movement
 
 {{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" >}}
 
+The Physical Cartesian Plane is used mostly by the Spatial Layer, as the basis for space-time coordinates. 
+
+
 
 ### The Aethereal Cartesian Plane 
 
-The Aethereal Cartesian Plane is a polar coordinate that has a single origin space or point that has a circumference or area that changes per unit of time. 
+The Aethereal Cartesian Plane is a polar coordinate that is primarily used for the Aethereal layer. 
+- It is used to plot the timespace particle
+- It has a single origin space or point that has a circumference or area that changes per unit of time. 
 
 It is similar to an MP3 visualizer that shows the different frequences relative to, and around, the central point. 
 
@@ -45,6 +50,12 @@ This is also consistent with sound being the main medium of the aether.
 
 This plane will help us plot and understand the timespace concept of the Spatial Layer. 
 
+
+### How We Got It
+
+We cam up with this plane after going through the works of Timeaus and Pythagoras on the Platonic shapes. It is easy to notice that these are abstract metaphysical shapes and not physical ones. 
+
+Then we saw the bagua of Taoism and the mandala of Hinduism and realized that polar coordinates were the best way to visualize the spaceless and timeless aether.   
 
 <!-- The Cartesian View also has 3 attributes:
 
