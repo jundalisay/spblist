@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 9"
-title: "Spatial Relationality: Radiant-Radiant"
+title: "Spatial Relationality"
 date: 2024-12-19
 weight: 40
 image: /graphics/physics/constant.jpg
@@ -12,7 +12,7 @@ writer:
 ---
 
 
-Spatial Relationality via `G1 : G2` leads to the following phenomena:
+Spatial Relationality via `G1 : G2` and the 3 layers leads to the following phenomena:
 
 Identity 1 | Identity 2 | Phenomena
 --- | --- | --- 
@@ -24,7 +24,7 @@ Galaxy | Galaxy  | Dark Energy
 Galaxy | Matter | Isolation 
 
 
-The differences in the layer where the identies reside in brings about various physical phenomena.
+The differences in the layer where the identies reside in brings about various physical phenomena. The relationalities with the convertible layer lead to beta decay and will be discussed in the Part on the convertible layer. 
 
 Currently, Einstein's Relativity is adopted by Modern Physics. This prevents it from advancing and is why Physics has been stuck.
 
