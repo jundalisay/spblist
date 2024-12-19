@@ -55,13 +55,29 @@ The fact of varieties of one species, when they range into the zone of habitatio
 
 Thus the species of shells which are confined to tropical and shallow seas are generally brighter-coloured than those confined to cold and deeper seas. The birds which are confined to continents are, according to Mr. Gould, brighter-coloured than those of islands. 
 
-The insect-species confined to sea-coasts, as every collector knows, are often brassy or lurid. Plants which live exclusively on the sea-side are veryapt to have fleshy leaves. He who believes in the creation of each species, will have to say that this shell, for instance, was created with bright colours for a warm sea; but that this other shell became bright-coloured by variation when it ranged into warmer or shallower waters. When a variation is of the slightest use to a being, we cannot tell how much of it to attribute to the accumulative action of natural selection, and how much to the conditions of life.
+The insect-species confined to sea-coasts are often brassy or lurid.
 
-Thus, it is well known to furriers that animals of the same species have thicker and better fur the more severe the climate is under which they have lived; but who can tell how much of this difference may be due to the warmest-clad individuals having been favoured and preserved during many generations, and how much to the direct action of the severe climate? for it would appear that climate has some direct action on the hair of our domestic quadrupeds.
+Plants which live exclusively on the sea-side often have fleshy leaves.
+
+<!-- He who believes in the creation of each species, will have to say that this shell, for instance, was created with bright colours for a warm sea; but that this other shell became bright-coloured by variation when it ranged into warmer or shallower waters.  -->
+
+When a variation is of the slightest use to a being, we cannot tell how much of it is from:
+- the accumulative action of natural selection
+- the conditions of life.
+
+Thus, animals of the same species have thicker and better fur the more severe their climate is. 
+
+But how can we tell how much of this difference may be due to the warmest-clad individuals having been favoured and preserved during many generations, and how much to the direct action of the severe climate? 
+
+Climate has some direct action on the hair.
 
 Instances could be given of the same variety being produced under conditions of life as different as can well be conceived; and, on the other hand, of different varieties being produced from the same species under the same conditions. 
 
-Such facts show how indirectly the conditions of life must act. Again, innumerable instances are known to every naturalist of species keeping true, or not varying at all, although living under the most opposite climates. Such considerations as these incline me to lay very little weight on the direct action of the conditions of life. Indirectly, as already remarked, they seem to play an important part in affecting the reproductive system, and in thus inducing variability; and natural selection will then accumulate all profitable variations, however slight, until they become plainly developed and appreciable by us.
+Such facts show how indirectly the conditions of life must act.
+
+Innumerable instances are known to every naturalist of species keeping true, or not varying at all, although living under the most opposite climates. 
+
+Such considerations as these incline me to lay very little weight on the direct action of the conditions of life. Indirectly, as already remarked, they seem to play an important part in affecting the reproductive system, and in thus inducing variability; and natural selection will then accumulate all profitable variations, however slight, until they become plainly developed and appreciable by us.
 
 Effects of Use and Disuse. -- From the facts alluded to in the first chapter, I think there can be little doubt that use in our domestic animals strengthens and enlarges certain parts, and disuse diminishes them; and that such modifications are inherited. Under free nature, we can have no standard of comparison, by which to judge of the effects of long-continued use or disuse, for we know not the parent-forms; but many animals have structures which can be explained by the effects of disuse. As Professor Owen has remarked, there is no greater anomaly in nature than a bird that cannot fly; yet there are several in this state. The logger-headed duck of South America can only flap along the surface of the water, and has its wings in nearly the same condition as the domestic Aylesbury duck. As the larger ground-feeding birds seldom take flight except to escape danger, I believe that the nearly wingless condition of several birds, which now inhabit or have lately inhabited several oceanic islands, tenanted by no beast of prey, has been caused by disuse. The ostrich indeed inhabits continents and is exposed to danger from which it cannot escape by flight, but by kicking it can defend itself from enemies, as well as any of the smaller quadrupeds. We may imagine that the early progenitor of the ostrich had habits like those of a bustard, and that as natural selection increased in successive generations the size and weight of its body, its legs were used more, and its wings less, until they became incapable of flight.
 
