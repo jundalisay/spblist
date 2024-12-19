@@ -22,15 +22,15 @@ Have you ever wondered why Covid and influenza are prevalent in Europe but not i
 
 ### Life (and Viruses) Come from Stars
 
-According to science, all the matter in the universe came from stars via supernovae explosions. We extend this and add that viruses and simple bacteria, as life, are also included in such explosions. 
+According to science, all the matter in the universe came from stars. We extend this and add that viruses and simple bacteria, as life, also come from the stars and are affected by them throughout their physical existence. 
 
-Life forms are then influenced by light from the supernova or cluster where they came from. 
-
-For example, everything we do as humans totally depends on our sun. If the sun vanishes, then we all die out. Because of this some early human civilizations have worshipped the sun, which is really the worship of a star. 
+For example, everything we do as humans totally depends on our sun. If the sun vanishes, then we all die out. Because of this, some early human civilizations have worshipped the sun, which is really the worship of a star. 
 
 Similarly, viruses totally depend on their star for everything. 
 
-We imagine a Covid star shining on Earth to empower the corona virus which began in China on Dec 24, 2019. We then add the other successful variants as "Covid landings" noting the rotation and revolution of Earth relative to the Covid Star. This creates a "Covid Equator" or "Covid Line" which starts from the UK then goes to China, India, South Africa, and Brazil. 
+We imagine a Covid star shining on Earth to empower the corona virus which began in China on Dec 24, 2019.
+- We then add the other successful variants as "Covid landings" noting the rotation and revolution of Earth relative to the Covid Star.
+- This creates a "Covid Equator" or "Covid Line" which starts from the UK then goes to China, India, South Africa, and Brazil. 
 
 ![The Covid Star](/graphics/bio/covidstar.jpg)
 

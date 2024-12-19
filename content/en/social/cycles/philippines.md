@@ -10,6 +10,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 155
 icon: "/flags/ph.png"
+aliases:
+  /maharlikanism
 ---
 
 

@@ -1,24 +1,70 @@
 ---
 heading: "Chapter 9d"
-title: "Cartesian Relationality: Special and General Relativity"
+title: "Radiance-to-Radiance Spatial Relationality"
 date: 2023-10-01
 weight: 46
 image: /graphics/physics/gravity.jpg
-description: "The Elastic Theory is from Descartes and kepler, with important maxim-contributions from Socrates, Taoism, Buddhism, and Hinduism."
+description: "We deny the simultaniety of time as a real phenomenon"
 icon: /icons/spmat.png
-# was 04
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
+The pervious part explained the essential ingredients for Einstein's Special Relativity which actually traps reality within the radiant layer.
 
-### Special Relativity as the Changing of Spacetime Slicecs
+Einstein Concept | Meaning
+--- | ---
+c | A constant to create patterns
+Simultaniety of time | creating movement within those patterns
+Minkowski space | a space that allows c-based patterns and time 
+Metric Tensor | Plotting tiny movements in the Minkowski space
+
+
+Material Superphysics flips some of these concepts in order to free allow reality to break out of the radiant layer and into the spatial and aeterheal layers. 
+
+
+Einstein Concept | Material Superphysics Replacement
+--- | ---
+Minkowski space | 7 dimensions 
+Metric Tensor | 2D Space-Time slices 
+
+
+We deny the simultaniety of time as a real phenomenon and instead see it as the desire of the measurer to have a definite answer. For example, instead of getting the answer `1.12345` in one time, `1.1234` at another, and `1.123` at another, we can set it to a standard 3 decimal places to always come up with `1.123`.
+
+
+### The Changing of Spacetime Slices Leads to Time Dilation and Length Contraction
+
+The constant speed of light is based on the emission source. After it is emitted, it stays constant until it hits something that can slow it down. 
+
+The big complication in Physics is that the emission sources also move. This leads to 2 movements:
+
+1. Movement by light from the Emission source
+
+This happens in the radiant layer.
+
+2. Movement by the Emission Source
+
+This happens in the material layer. These 2 movements create a ratio between each other. 
+
+This ratio is the `√(1-0.5c)2/c2` that adjusts the apparent length of the moving source. 
+
+This phenomena is called invariance by Modern Physics. This invariance is the foundation of our timespace particle which is determined by the emitter or observer.  
+
+This can be visualized by 2 flashlights, both 1 meter, emitting light in empty space.
+- Flashlight 1 is stationary
+- Flashlight 2 is moving at half the speed of light
+  - This makes it seem that it is trying to catch up with the light that it emitted
+
+{{< i s="/graphics/physics/length.jpg" a="Length contraction" >}}
+
+This gives an apparent length of 0.866 meters to flashlight 2 
+
 
 {{< youtube 9jVyoe8tiCI >}}
 
-A key component of Einstein's Relativity is time dilation and length contraction.
+<!-- A key component of Einstein's Relativity is time dilation and length contraction.
 
 We define:
 - space as the gap within perception 
@@ -49,19 +95,24 @@ We put these into our relation.
 
 We put the length from its material perspective. Then add its velocity ratio squared. 
 
-Then impose that spacetime onto the object to get the contracted length.
-
-<!-- https://youtu.be/9jVyoe8tiCI -->
+Then impose that spacetime onto the object to get the contracted length. -->
 
 
-### Special Relativity as the Changing of Spacetime Slicecs
+### Special Relativity as the Changing of Spacetime Slices Listed in Francis Bacon Tables
 
-Physics judges things based on their speed and movement. However, Superhysics judgest things based on their Element or Layer.
+Physics judges things based on their speed and movement. However, Superhysics judges speed and movement based on their layer.
 
-The sequential speed of light is the maximum speed achievable by the Radiant Layer. 
+In the future, anti-gravity technology will be available and a ship will find itself moving through space with various objects moving at different speeds.
+
+This is similar to video games. However, a video game crash is not fatal, but a real crash is. So the physics that enables anti-gravity via spatial relationality should also reduce the chances of fatal crashes. 
+
+For this, we suggest a machine learning system that plots the relationalities in real-time, as Francis Bacon Tables.
+
+
+<!-- The sequential speed of light is the maximum speed achievable by the Radiant Layer. 
 
 The maximum speed of the Convertible Layer is a bit slower and that of the Material Layer is the slowest.  
 
 For example, the max speed of light is 300,000,000 m/s. But the max speed of a proton in an actual collider is only 31,400,000 m/s.
 
-So length contraction and time dilation are not effects of speed, but of the Element of the identity. 
+So length contraction and time dilation are not effects of speed, but of the Element of the identity.  -->

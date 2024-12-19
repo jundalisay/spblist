@@ -22,7 +22,7 @@ There are 5 Layers in Reality | The MSQ Classification makes it easier to classi
 
 ### The Superphysics Naming Convention for Particles
 
-To make Physics easier to understand, we create a naming system based on the 5 Elements of Aether, Graviton, Electromagnetism, Weak, and Strong Forces, which we rename into Aether, Spacetime, Radiant, Transformative, and Material. 
+To make Physics easier to understand, we create a naming system based on the 5 Elements of Aether, Graviton, Electromagnetism, Weak, and Strong Forces, which we rename into Aether, Spacetime, Radiant, Convertible, and Material. 
 
 We replace the following Physics names with Superphysics ones:
 
