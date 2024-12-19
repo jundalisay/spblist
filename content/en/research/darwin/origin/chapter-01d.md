@@ -2,6 +2,7 @@
 title: The Breeds of the Domestic Pigeon
 heading: Chapter 1b
 weight: 7
+author: Charles Darwin
 description: "Many treatises in different languages have been published on pigeons."
 image: "/covers/origin.jpg"
 ---
@@ -30,21 +31,39 @@ The runt is a bird of great size, with long, massive beak and large feet.
 
 Some of the sub-breeds of runts have very long necks, others very long wings and tails, others singularly short tails.
 
-The barb is allied to the carrier, but, instead of a very long beak, has a very short and very broad one. The pouter has a much elongated body, wings, and legs; and its enormously developed crop, which it glories in inflating, may well excite astonishment and even laughter. 
+The barb is allied to the carrier.
+- But, instead of a very long beak, it has a very short and broad one.
+
+<!-- The pouter has a much elongated body, wings, and legs; and its enormously developed crop, which it glories in inflating, may well excite astonishment and even laughter. 
 
 The turbit has a very short and conical beak, with a line of reversed feathers down the breast; and it has the habit of continually expanding slightly the upper part of the oesophagus. The Jacobin has the feathers so much reversed along the back of the neck that they form a hood, and it has, proportionally to its size, much elongated wing and tail feathers.
 
-The trumpeter and laugher, as their names express, utter a very different coo from the other breeds. The fantail has thirty or even forty tail-feathers, instead of twelve or fourteen, the normal number in all members of the great pigeon family; and these feathers are kept expanded, and are carried so erect that in good birds the head and tail touch; the oil-gland is quite aborted. Several other less distinct breeds might have been specified.
+The trumpeter and laugher, as their names express, utter a very different coo from the other breeds. The fantail has thirty or even forty tail-feathers, instead of twelve or fourteen, the normal number in all members of the great pigeon family; and these feathers are kept expanded, and are carried so erect that in good birds the head and tail touch; the oil-gland is quite aborted. Several other less distinct breeds might have been specified. -->
 
-In the skeletons of the several breeds, the development of the bones of the face in length and breadth and curvature differs enormously. The shape, as well as the breadth and length of the ramus of the lower jaw, varies in a highly remarkable manner.
+In the skeletons of the several breeds, the development of the bones of the face in length and breadth and curvature differs enormously. 
 
-The number of the caudal and sacral vertebrae vary; as does the number of the ribs, together with their relative breadth and the presence of processes. 
 
-The size and shape of the apertures in the sternum are highly variable; so is the degree of divergence and relative size of the two arms of the furcula. The proportional width of the gape of mouth, the proportional length of the eyelids, of the orifice of the nostrils, of the tongue (not always in strict correlation with the length of beak), the size of the crop and of the upper part of the oesophagus; the development and abortion of the oil-gland; the number of the primary wing and caudal feathers; the relative length of wing and tail to each other and to the body; the relative length of leg and of the feet; the number of scutellae on the toes, the development of skin between the toes, are all points of structure which are variable.
+The following are all points of structure which are variable:
+- The shape, width and length of the ramus of the lower jaw
+- The number of the caudal and sacral vertebrae, the ribs, with their relative width and the presence of processes. 
+
+<!-- The proportional width of the gape of mouth, the proportional length of the eyelids, of the orifice of the nostrils, of the tongue (not always in strict correlation with the length of beak), the size of the crop and of the upper part of the oesophagus.
+
+The development and abortion of the oil-gland. The number of the primary wing and caudal feathers; the relative length of wing and tail to each other and to the body; the relative length of leg and of the feet; the number of scutellae on the toes, the development of skin between the toes, 
 
 The period at which the perfect plumage is acquired varies, as does the state of the down with which the nestling birds are clothed when hatched. The shape and size of the eggs vary. The manner of flight differs remarkably; as does in some breeds the voice and disposition. Lastly, in certain breeds, the males and females have come to differ to a slight degree from each other.
+ -->
 
-Altogether at least a score of pigeons might be chosen, which if shown to an ornithologist, and he were told that they were wild birds, would certainly, I think, be ranked by him as well-defined species. Moreover, I do not believe that any ornithologist would place the English carrier, the short-faced tumbler, the runt, the barb, pouter, and fantail in the same genus; more especially as in each of these breeds several truly-inherited sub-breeds, or species as he might have called them, could be shown him.
+The following are highly variable:
+- The size and shape of the apertures in the sternum are highly variable
+- The degree of divergence and relative size of the two arms of the furcula. 
+
+
+Altogether at least a score of pigeons might be chosen, which if shown to an ornithologist, and he were told that they were wild birds, would certainly, I think, be ranked by him as well-defined species. 
+
+The English carrier, the short-faced tumbler, the runt, the barb, pouter, and fantail are not part of the same genus.
+
+ <!-- more especially as in each of these breeds several truly-inherited sub-breeds, or species as he might have called them, could be shown him. -->
 
 Great as the differences are between the breeds of pigeons, I am fully convinced that the common
 opinion of naturalists is correct, namely, that all have descended from the rock-pigeon (Columba
@@ -55,25 +74,9 @@ If the several breeds are not varieties, and have not proceeded from the rock-pi
 
 Hence the supposed aboriginal stocks must either still exist in the countries where they were originally domesticated, and yet be unknown to ornithologists; and this, considering their size, habits, and remarkable characters, seems very improbable; or they must have become extinct in the wild state. But birds breeding on precipices, and good fliers, are unlikely to be exterminated; and the common rock-pigeon, which has the same habits with the domestic breeds, has not been exterminated even on several of the smaller British islets, or on the shores of the Mediterranean. Hence the supposed extermination of so many species having similar habits with the rock-pigeon seems to me a very rash assumption.
 
-Moreover, the several above-named domesticated breeds have been transported
-to all parts of the world, and, therefore, some of them must have been carried back again into their
-native country; but not one has ever become wild or feral, though the dovecot-pigeon, which is the
-rock-pigeon in a very slightly altered state, has become feral in several places. Again, all recent
-experience shows that it is most difficult to get any wild animal to breed freely under
-domestication; yet on the hypothesis of the multiple origin of our pigeons, it must be assumed that
-at least seven or eight species were so thoroughly domesticated in ancient times by half-civilized
-man, as to be quite prolific under confinement.
+Moreover, the several above-named domesticated breeds have been transported to all parts of the world, and, therefore, some of them must have been carried back again into their native country; but not one has ever become wild or feral, though the dovecot-pigeon, which is the rock-pigeon in a very slightly altered state, has become feral in several places. Again, all recent experience shows that it is most difficult to get any wild animal to breed freely under domestication; yet on the hypothesis of the multiple origin of our pigeons, it must be assumed that at least seven or eight species were so thoroughly domesticated in ancient times by half-civilized man, as to be quite prolific under confinement.
 
-An argument, as it seems to me, of great weight, and applicable in several other cases, is, that the
-above-specified breeds, though agreeing generally in constitution, habits, voice, colouring, and in
-most parts of their structure, with the wild rock-pigeon, yet are certainly highly abnormal in other
-parts of their structure: we may look in vain throughout the whole great family of Columbidae for
-a beak like that of the English carrier, or that of the short-faced tumbler, or barb; for reversed
-feathers like those of the jacobin; for a crop like that of the pouter; for tail-feathers like those of the
-fantail. Hence it must be assumed not only that half-civilized man succeeded in thoroughly
-domesticating several species, but that he intentionally or by chance picked out extraordinarily
-abnormal species; and further, that these very species have since all become extinct or unknown.
-So many strange contingencies seem to me improbable in the highest degree.
+An argument, as it seems to me, of great weight, and applicable in several other cases, is, that the above-specified breeds, though agreeing generally in constitution, habits, voice, colouring, and in most parts of their structure, with the wild rock-pigeon, yet are certainly highly abnormal in other parts of their structure: we may look in vain throughout the whole great family of Columbidae for a beak like that of the English carrier, or that of the short-faced tumbler, or barb; for reversed feathers like those of the jacobin; for a crop like that of the pouter; for tail-feathers like those of the fantail. Hence it must be assumed not only that half-civilized man succeeded in thoroughly domesticating several species, but that he intentionally or by chance picked out extraordinarily abnormal species; and further, that these very species have since all become extinct or unknown. So many strange contingencies seem to me improbable in the highest degree.
 
 Some facts in regard to the colouring of pigeons well deserve consideration. The rock-pigeon is of a slaty-blue, and has a white rump (the Indian sub-species, C. intermedia of Strickland, having it bluish); the tail has a terminal dark bar, with the bases of the outer feathers externally edged with white; the wings have two black bars; some semi-domestic breeds and some apparently truly wild breeds have, besides the two black bars, the wings chequered with black. 
 
