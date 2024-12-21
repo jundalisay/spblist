@@ -10,18 +10,20 @@ writer:
 icon: /icons/descartes.png
 ---
 
+ <!-- when it forms -->
+How does salt float on water, despite its particles being very fixed and heavy?
 
-How does salt float on water when it forms, despite its parts being very fixed and very heavy?
+Salt has small square-shaped grains similar to that of a diamond cut.
 
-Salt has small square-shaped grains similar to that of a diamond cut in table form. How do these form?  
+ <!-- in table form. How do these form?   -->
 
 <!-- , except that the largest of their faces is slightly hollowed? -->
 
-Seawater should be retained in some basins to avoid:
+The seawater retained in some basins prevent:
 - the continuous agitation of the waves
 - the influx of fresh water from the rains and rivers constantly flowing into the ocean. 
 
-Then, hot and dry weather is needed so that the action of the sun has enough force to evaporate the fresh water particles that are rolled around those of the salt.
+During hot and dry weather, the action of the sun has enough force to evaporate the fresh water particles that are rolled around those of the salt.
 
 The water's surface is always very smooth and even, as is the case with all other liquids.
 

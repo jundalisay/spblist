@@ -1,9 +1,9 @@
 ---
-title: The existence of God
+title: The Existence of God
 heading: Part 3
 # Third of the Meditations Simplified
 weight: 8
-description: "Bodies are much more clearly known to me than this puzzling ‘I’ that cannot be pictured in the imagination"
+description: "My sensory experiences and imagination certainly do occur inside me as mental events, even if they do not  exist outside me"
 image: "/covers/med.png"
 writer:
   name: Rene Descartes

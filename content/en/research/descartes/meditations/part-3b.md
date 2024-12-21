@@ -28,17 +28,41 @@ This representative reality is the reality that an idea represents. A stone, for
 
 Similarly, heat cannot be produced in a cold object that has no heat. <!--  except by something of at least the same order of perfection as heat, and so on.  -->
 
-<!-- I do not say simply ‘except by something that is hot’, because that is not necessary. The thing could be caused to be hot by something that doesn’t itself straightforwardly contain heat – i.e. that isn’t itself hot – but contains heat in a higher form, that is, something of a higher order of perfection than heat. Thus, for example, although God is obviously not himself hot, he can cause something to be hot because he contains heat not straightforwardly but in a higher form.) -->
+<!-- I do not say simply ‘except by something that is hot’, because that is not necessary.  -->
 
-The idea of heat or of a stone can be caused in me only by something that contains at least as much reality as I conceive to be in the heat or in the stone.
+The thing could be made hot by something that is not hot and does not contain heat in itself.
+- That something contains heat in a higher form
 
-For although this cause does not transfer any of its actual or intrinsic reality to my idea, it still cannot be less real. 
+<!-- , that is, something of a higher order of perfection than heat. Thus,  -->
 
-The only reality needed by an idea is that which comes from my thought, of which it is a mode.
+For example, God is not himself hot.
+- But he can cause something to be hot because he contains heat not straightforwardly, but in a higher form.*
 
-Any idea that has representative reality comes from a cause that has as much intrinsic reality as there is in its representative idea. If an idea has something that was not in its cause, then it must have gotten it from nothing. 
+{{< n n="This is aethereal energy that is the source of material heat" >}}
+
+
+<!-- or of a stone -->
+
+I can have the idea of heat if I have something in [my mind] that contains the reality for heat. 
+
+<!-- at least as much reality as I conceive to be in the heat or in the stone. -->
+
+<!-- For although  -->
+
+This causal something does not transfer any of its actual or intrinsic reality to my idea of heat.
+- But it does not mean that that something cannot be less real. 
+
+The only reality needed by an idea is the reality which comes from my thought.
+- This is because my thought is a mode of reality.
+
+ <!-- of which it is a mode. representative-->
+
+Any idea that has a corresponding reality comes from a causal something that has as much intrinsic reality as there is in its representative idea. 
+
+If an idea has something that was not in its cause, then it must have gotten it from nothing. 
 
 But the reality in something’s being represented in the mind by an idea<!-- , though it may not be very perfect, --> certainly is not nothing. This is because something cannot come from nothing.
+
 
 ## The Cause is Not an Idea
 

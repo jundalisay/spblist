@@ -79,16 +79,19 @@ But if his observations are extended, he will make up his own mind on which are 
 
  <!-- but he will succeed in this at the expense of admitting much variation,--and the truth of this admission will often be disputed by other naturalists. When, moreover, he comes to study allied forms brought from countries not now continuous, in which case he can hardly hope to find the intermediate links between his doubtful forms, he will have to trust almost entirely to analogy, and his difficulties will rise to a climax. -->
 
-No clear line of demarcation has as yet been drawn between species and sub-species--that
-is, the forms which in the opinion of some naturalists come very near to, but do not quite arrive at
-the rank of species; or, again, between sub-species and well-marked varieties, or between lesser
-varieties and individual differences. 
+No clear line of demarcation has yet been drawn between:
+- species and sub-species.
+  - Sub-species are forms which come very near to, but are not quite, species.
+- sub-species and well-marked varieties
+- lesser varieties and individual differences.
 
-These differences blend into each other in an insensible series. A series impresses the mind with the idea of an actual passage.
 
-Hence I give importance to individual differences as being the first step towards such slight varieties that are barely thought worth recording.
+These differences blend into each other in an insensible series.
+- A series impresses the mind with the idea of an actual passage.
 
-Then I look at varieties which are more distinct and permanent. This leads to more strongly marked and permanent varieties.
+Individual differences are the first step towards such slight varieties that are barely worth recording.
+- Then I look at varieties which are more distinct and permanent.
+- This leads to more strongly marked and permanent varieties.
 
 The permannent varieties lead to sub-species, and then to species.
 
