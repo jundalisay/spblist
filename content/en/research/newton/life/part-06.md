@@ -1,6 +1,6 @@
 ---
 heading: Part 4
-title: "Newton's Interests"
+title: "Observations upon the Prophecies of Holy Writ"
 description: "His attention was soon drawn to that of Judicial Astrology"
 image: "/covers/newton.jpg"
 weight: 8

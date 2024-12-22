@@ -1,11 +1,12 @@
 ---
 title: Natural Selection
 heading: Chapter 4
-# First Meditation
 weight: 20
-description: "How will the struggle for existence, discussed too briefly in the last chapter, act in regard to variation? Can the principle of selection, which we have seen is so potent in the hands of man"
+author: Charles Darwin
+description: "How will the struggle for existence, discussed too briefly in the last chapter, act in regard to variation?"
 image: "/covers/origin.jpg"
 ---
+
 
 <!-- Natural Selection -- its power compared with man's selection -- its power on characters of trifling
 importance -- its power at all ages and on both sexes -- Sexual Selection -- On the generality of
@@ -15,8 +16,6 @@ Extinction caused by Natural Selection -- Divergence of Character, related to th
 inhabitants of any small area, and to naturalisation -- Action of Natural Selection, through
 Divergence of Character and Extinction, on the descendants from a common parent -- Explains the
 Grouping of all organic beings. -->
-
-
 
 
 The principle of selection is so potent in the hands of man.
