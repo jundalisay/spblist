@@ -122,11 +122,11 @@ Something may be attributed to:
 
 The final result is thus rendered infinitely complex.
 
-In some cases, I do not doubt that the intercrossing of species, aboriginally distinct, has played an important part in the origin of our domestic productions. 
+In some cases, the intercrossing of species, aboriginally distinct, has played an important part in the origin of our domestic productions.
 
 When in any country several domestic breeds have once been established, their occasional intercrossing, with the aid of selection, has largely aided the formation of new sub-breeds.
 
-But the importance of the crossing of varieties has been greatly exaggerated, both in regard to animals and to those plants which are propagated by seed.
+But the importance of the crossing of varieties has been greatly exaggerated, both in regard to animals and to plants propagated by seed.
 
 In plants which are temporarily propagated by cuttings, buds, &c., the importance of the crossing both of distinct species and of varieties is immense.
 

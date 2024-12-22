@@ -152,7 +152,14 @@ So it is when we travel northward, but in a lesser degree. This is because the n
 
 Hence in going northward, or in ascending a mountain, we far oftener meet with stunted forms, due to the directly injurious action of climate, than we do in proceeding southwards or in descending a mountain.
 
-When we reach the Arctic regions, or snow-capped summits, or absolute deserts, the struggle for life is almost exclusively with the elements.That climate acts in main part indirectly by favouring other species, we may clearly see in the prodigious number of plants in our gardens which can perfectly well endure our climate, but which never become naturalised, for they cannot compete with our native plants, nor resist destruction by our native animals.
 
 
+In the following regions, the struggle for life is almost exclusively with the elements:
+- the Arctic regions, or snow-capped summits, or
+- absolute deserts
 
+Our gardens have imported plants which can well endure our climate. But they cannot:
+- compete with our native plants
+- resist destruction by our native animals.
+
+This proves that climate acts in main part indirectly by favouring other species.
