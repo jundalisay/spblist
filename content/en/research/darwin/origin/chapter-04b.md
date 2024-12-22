@@ -47,11 +47,15 @@ Amongst birds, the contest is more peaceful.
 
 Those who have closely attended to birds in confinement well know that they often take individual preferences and dislikes: thus Sir R. Heron has described how one pied peacock was eminently attractive to all his hen birds.
 
-It may appear childish to attribute any effect to such apparently weak means: I cannot here enter on the details necessary to support this view; 
+It is childish to attribute any effect to such weak means.
+
+ <!-- I cannot here enter on the details necessary to support this view;  -->
 
 But if man can in a short time give elegant carriage and beauty to his bantams, according to his standard of beauty, I can see no good reason to doubt that female birds, by selecting, during thousands of generations, the most melodious or beautiful males, according to their standard of beauty, might produce a marked effect.
 
-I suspect that some well-known laws with respect to the plumage of male and female birds, in comparison with the plumage of the young, can be explained on the view of plumage having been chiefly modified by sexual selection, acting when the birds have come to the breeding age or during the breeding season; the modifications thus produced being inherited at corresponding ages or seasons, either by the males alone, or by the males and females; but I have not space here to enter on this subject.
+Some well-known laws with respect to the plumage of male and female birds, in comparison with the plumage of the young, can be explained on the view of plumage having been chiefly modified by sexual selection, acting when the birds have come to the breeding age or during the breeding season; 
+
+the modifications thus produced being inherited at corresponding ages or seasons, either by the males alone, or by the males and females; but I have not space here to enter on this subject.
 
 Thus it is, as I believe, that when the males and females of any animal have the same general habits of life, but differ in structure, colour, or ornament, such differences have been mainly caused by sexual selection; that is, individual males have had, in successive generations, some slight advantage over other males, in their weapons, means of defence, or charms; and have transmitted these advantages to their male offspring. 
 
@@ -76,9 +80,26 @@ If any slight innate change of habit or of structure benefited an individual wol
 
 Or, again, the wolves inhabiting a mountainous district, and those frequenting the lowlands, would naturally be forced to hunt different prey; and from the continued preservation of the individuals best fitted for the two sites, two varieties might slowly be formed. These varieties would cross and blend where they met; but to this subject of intercrossing we shall soon have to return. I may add, that, according to Mr. Pierce, there are two varieties of the wolf inhabiting the Catskill Mountains in the United States, one with a light greyhound-like form, which pursues deer, and the other more bulky, with shorter legs, which more frequently attacks the shepherd's flocks.
 
-Let us now take a more complex case. Certain plants excrete a sweet juice, apparently for the sake of eliminating something injurious from their sap: this is effected by glands at the base of the stipules in some Leguminosae, and at the back of the leaf of the common laurel. This juice, though small in quantity, is greedily sought by insects. Let us now suppose a little sweet juice or nectar to be excreted by the inner bases of the petals of a flower. In this case insects in seeking the nectar would get dusted with pollen, and would certainly often transport the pollen from one flower to the stigma of another flower. The flowers of two distinct individuals of the same species would thus get crossed; and the act of crossing, we have good reason to believe (as will hereafter be more fully alluded to), would produce very vigorous seedlings, which consequently would have the best chance of flourishing and surviving. Some of these seedlings would probably inherit the nectar- excreting power. Those individual flowers which had the largest glands or nectaries, and which excreted most nectar, would be oftenest visited by insects, and would be oftenest crossed; and so in the long-run would gain the upper hand.
+<!-- Let us now take a more complex case.  -->
 
-Those flowers, also, which had their stamens and pistils placed, in relation to the size and habits of the particular insects which visited them, so as to favour in any degree the transportal of their pollen from flower to flower, would likewise be favoured or selected. We might have taken the case of insects visiting flowers for the sake of collecting pollen instead of nectar; and as pollen is formed for the sole object of fertilisation, its destruction appears a simple loss to the plant; yet if a little pollen were carried, at first occasionally and then habitually, by the pollen-devouring insects from flower to flower, and a cross thus effected, although nine-tenths of the pollen were destroyed, it might still be a great gain to the plant; and those individuals which produced more and more pollen, and had larger and larger anthers, would be selected.
+Certain plants excrete a little sweet nectar to eliminate something injurious from their sap.
+
+This is effected by glands at the base of the stipules in some Leguminosae, and at the back of the leaf of the common laurel.
+
+This is greedily sought by insects.
+
+Assume that nectar is excreted by the inner bases of the petals of a flower. 
+
+In this case insects in seeking the nectar would get dusted with pollen.
+would transport the pollen from one flower to the stigma of another flower. 
+
+The flowers of two distinct individuals of the same species would thus get crossed; and the act of crossing, we have good reason to believe (as will hereafter be more fully alluded to), would produce very vigorous seedlings, which consequently would have the best chance of flourishing and surviving. 
+
+Some of these seedlings would probably inherit the nectar- excreting power. Those individual flowers which had the largest glands or nectaries, and which excreted most nectar, would be oftenest visited by insects, and would be oftenest crossed; and so in the long-run would gain the upper hand.
+
+Those flowers, also, which had their stamens and pistils placed, in relation to the size and habits of the particular insects which visited them, so as to favour in any degree the transportal of their pollen from flower to flower, would likewise be favoured or selected. 
+
+We might have taken the case of insects visiting flowers for the sake of collecting pollen instead of nectar; and as pollen is formed for the sole object of fertilisation, its destruction appears a simple loss to the plant; yet if a little pollen were carried, at first occasionally and then habitually, by the pollen-devouring insects from flower to flower, and a cross thus effected, although nine-tenths of the pollen were destroyed, it might still be a great gain to the plant; and those individuals which produced more and more pollen, and had larger and larger anthers, would be selected.
 
 When our plant, by this process of the continued preservation or natural selection of more and more attractive flowers, had been rendered highly attractive to insects, they would, unintentionally on their part, regularly carry pollen from flower to flower; and that they can most effectually do this, I could easily show by many striking instances. I will give only one--not as a very striking case, but as likewise illustrating one step in the separation of the sexes of plants, presently to be alluded to.
 
