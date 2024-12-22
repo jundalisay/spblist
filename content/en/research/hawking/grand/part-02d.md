@@ -17,13 +17,11 @@ If nature is governed by laws, 3 questions arise:
 
 
 
-These important questions have been addressed in varying ways by scientists, philosophers, and theologians. 
-
-The answer traditionally given to 
-
 The first question was answered by Kepler, Galileo, Descartes, and Newton— the laws were the work of God.
 
-However, this is no more than a definition of God as the embodiment of the laws of nature. Unless one endows God with some other attributes, such as being the God of the Old Testament, employing God as a response to the first question merely substitutes one mystery for another.
+However, this is no more than a definition of God as the embodiment of the laws of nature.
+
+Unless one endows God with some other attributes, such as being the God of the Old Testament, employing God as a response to the first question merely substitutes one mystery for another.
 
 <!-- So if we involve God in the answer to the first question, the real crunch comes with the second question: Are there miracles, exceptions to the laws? -->
 
@@ -64,13 +62,17 @@ Do people have free will?
 
 If we have free will, where in the evolutionary tree did it develop? Do blue-green algae or bacteria have free will, or is their behavior automatic and within the realm of scientific law? Is it only multicelled organisms that have free will, or only mammals? 
 
-We might think that a chimpanzee is exercising free will when it chooses to chomp on a banana, or a cat when it rips up your sofa, but what about the roundworm called Caenorhabditis elegans—a simple creature made of only 959 cells? It probably never thinks, “That was damn tasty bacteria I got to dine on back there,” yet it too has a definite preference in food and will either settle for an unattractive meal or go foraging for something better, depending on recent experience. 
+We might think that a chimpanzee is exercising free will when it chooses to chomp on a banana, or a cat when it rips up your sofa, but what about the roundworm called Caenorhabditis elegans—a simple creature made of only 959 cells? 
+
+It probably never thinks, “That was damn tasty bacteria I got to dine on back there,” yet it too has a definite preference in food and will either settle for an unattractive meal or go foraging for something better, depending on recent experience. 
 
 Is that the exercise of free will?
 
 Though we feel that we can choose what we do, our understanding of the molecular basis of biology shows that biological processes are governed by the laws of physics and chemistry and therefore are as determined as the orbits of the planets. 
 
-Recent experiments in neuroscience support the view that it is our physical brain, following the known laws of science, that determines our actions, and not some agency that exists outside those laws. For example, a study of patients undergoing awake brain surgery found that by electrically stimulating the appropriate regions of the brain, one could create in the patient the desire to move the hand, arm, or foot, or to move the lips and talk. 
+Recent experiments in neuroscience support the view that it is our physical brain, following the known laws of science, that determines our actions, and not some agency that exists outside those laws.
+
+For example, a study of patients undergoing awake brain surgery found that by electrically stimulating the appropriate regions of the brain, one could create in the patient the desire to move the hand, arm, or foot, or to move the lips and talk. 
 
 It is hard to imagine how free will can operate if our behavior is determined by physical law, so it seems that we are no more than biological machines and that free will is just an illusion.
 
@@ -92,8 +94,6 @@ Similarly, we cannot solve the equations governing the behavior of complex atoms
 
 In the case of people, since we cannot solve the equations that determine our behavior, we use the effective theory that people have free will. 
 
-
-
 The study of our will, and of the behavior that arises from it, is the science of psychology.
 
 Economics is also an effective theory, based on the notion of free will plus the assumption that people evaluate their possible alternative courses of action and choose the best.
@@ -104,11 +104,15 @@ The third question addresses the issue of whether the laws that determine both t
 
 Both Aristotle and Plato believed, like Descartes and later Einstein, that the principles of nature exist out of “necessity,” that is, because they are the only rules that make logical sense. 
 
-Due to his belief in the origin of the laws of nature in logic, Aristotle and his followers felt that one could “derive” those laws without paying a lot of attention to how nature actually behaved. That, and the focus on why objects follow rules rather than on the specifics of what the rules are, led him to mainly qualitative laws that were often wrong and in any case did not prove very useful, even if they did dominate scientific thought for many centuries. 
+Due to his belief in the origin of the laws of nature in logic, Aristotle and his followers felt that one could “derive” those laws without paying a lot of attention to how nature actually behaved. 
+
+That, and the focus on why objects follow rules rather than on the specifics of what the rules are, led him to mainly qualitative laws that were often wrong and in any case did not prove very useful, even if they did dominate scientific thought for many centuries. 
 
 It was only much later that people such as Galileo dared to challenge the authority of Aristotle and observe what nature actually did, rather than what pure “reason” said it ought to do.
 
-This book is rooted in the concept of scientific determinism, which implies that the answer to question two is that there are no miracles, or exceptions to the laws of nature. We will, however, return to address in depth questions one and three, the issues of how the laws arose and whether they are the only possible laws. 
+This book is rooted in the concept of scientific determinism, which implies that the answer to question two is that there are no miracles, or exceptions to the laws of nature.
+
+We will, however, return to address in depth questions one and three, the issues of how the laws arose and whether they are the only possible laws. 
 
 But first, in the next chapter, we will address the issue of what it is that the laws of nature describe. Most scientists would say they are the mathematical reflection of an external reality that exists independent of the observer who sees it. 
 

@@ -12,6 +12,7 @@ draft: true
 
 
 We must now compare the force before and after transformation.
+
 Let X, Y, Z be the force before, and X', Y', Z' the force after transformation, both related to unit
 volume. In order for X' to satisfy the same equations as before the transformation, we must
 have:
@@ -26,14 +27,18 @@ we would have:
 
 and we would have the equations(11bis)
 
+
 Lorentz found [with different notation, page 813, formula (10)]:
 (11ter)
+
 Before going further, it is important to investigate the cause of this significant discrepancy. It is
 obvious that the formulas for ξ', η', ζ' are not the same, while the formulas for the electric and
 magnetic fields are the same.
+
 If the inertia of electrons is exclusively of electromagnetic origin, if in addition they are subject only
 to forces of electromagnetic origin, the equilibrium condition requires that we have inside the
 electrons:
+
 But in virtue of equations (11) those relations are equivalent to
 The equilibrium conditions of the electrons are not altered by the transformation.
 Unfortunately, a hypothesis as simple as that is unacceptable. If, indeed, we assume
@@ -45,30 +50,37 @@ admit that there are, in addition to electromagnetic forces, either other forces
 necessary to search for conditions which must satisfy these forces or bindings, so that the
 equilibrium of the electron is not disturbed by the transformation. This will be the subject of a
 later paragraph.
-§ 2. — Principle of least actionWe know how Lorentz deduced his equations from the principle of least action. I will return to
+
+§ 2. — Principle of least actionWe know how Lorentz deduced his equations from the principle of least action.
+
+I will return to
 this question, even though I have nothing substantial to add to the analysis of Lorentz, because I
-prefer to present it in a slightly different form which will be useful for my purpose. I will pose:
+prefer to present it in a slightly different form which will be useful for my purpose. 
+
+I will pose:
 (1)
 assuming that f, α, F, u, etc.. are subject to the following conditions and the ones deduced by
 symmetry:
+
 (2)
 Regarding the integral J, it must be extended:
+
 I° in relation to the volume element dτ = dx dy dz over the whole space;
 2° in relation to time t, over the interval between the limits t = t0, t = t1.
 According to the principle of least action, the integral J must be a minimum, if one sets the
 various quantities which appear in:
+
 1° the conditions (2);
 2° the condition that the state of the system is determined by both limiting times t = t0, t = t1.
 This last condition allows us to transform our integral by partial integration with respect to time.
 If we have indeed an integral of the form
 where C is a quantity that defines the system state and its variation δC, it will be equal to (by
 partial integration with respect to time):
+
 Since the system state is determined by both limiting times, it is δC = 0 for t = t0, t = t1, so the
 first integral which is related to these two periods is zero, and the 2nd one remains.
 We can also integrate by parts with respect to x, y or z, we have indeedOur integrations are extended to infinity, it must be
-in the first integral on the right-
-hand side; so, since we always assume that all our functions vanish at infinity, this integral will
-be zero and it follows
+in the first integral on the right-hand side; so, since we always assume that all our functions vanish at infinity, this integral will be zero and it follows
 If the system is supposed to be subject to bindings, the binding conditions should be connected
 to the conditions imposed on the various quantities appearing in the integral J.
 Let us first give to F, G, H the increasements δF, δG, δH; where:

@@ -1,20 +1,16 @@
 ---
 title: "State Defence and Security"
 heading: "Chapter 12"
-weight: 1
+weight: 14
 image: "/flags/id.png"
-description: ""
+description: "Every citizen shall have the right and duty to participate in the defence and security of the State"
 icon: /flags/id.png
 ---
 
 
-Article 30
+### Article 30
 
-<!-- Duty to serve in the military
-Indonesia 1945 (reinst. 1959, rev. 2002) -->
-
-1. Every citizen shall have the right and duty to participate in the defence and
-security of the State.
+1. Every citizen shall have the right and duty to participate in the defence and security of the State
 
 2. The defence and security of the State shall be conducted through the total
 people's defence and security system, with the Indonesian National Military
@@ -29,6 +25,3 @@ State.
 has the duty to protect, guard, and serve the people, and to uphold the law.
 
 5. The structure and status of TNI and POLRI, the authority relationships between TNI and POLRI in performing their respective duties, the conditions concerning the participation of citizens in the defence and security of the State, and other matters related to defence and security, shall be regulated by law. 
-
-Duty to serve in the military
-

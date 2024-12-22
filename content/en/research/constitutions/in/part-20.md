@@ -1,7 +1,7 @@
 ---
 title: "Amendment Of The Constitution"
 heading: "Part 20"
-weight: 1
+weight: 95
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

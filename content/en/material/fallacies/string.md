@@ -8,9 +8,61 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
-draft: false
+draft: true
 ---
 
+In the 19th century, the speed of light was discovered to be constant and the same regardless of who looked at it. 
+
+When applied to space, this meant that space was flexible and not fixed. This led to the idea of length contraction wherein bodies changed their length depending on their speed. 
+
+The big problem began in 1905 when Einstein applied the same constant speed of light to time, as the idea of "simultaniety of time".
+
+Practically, this prevented teleportation and only allowed time travel upon reaching very fast speeds.  
+
+Theoreticaly, this led to problems with particle physics when the possible interactions between particles were analyzed through Feynman loops. 
+
+These loops applied the simultaniety of time to particles and naturally came up with impossible infinities.  
+
+To solve these infinities, supersymmetry was created. This theorized partner particles for each of the known ones, making the infinite finite. However, such partner particles have never been found.
+
+Another theoretical problem created by the simultaniety of time was that gravity did not match quantum mechanics. This is because simultaniety uses light to judge space, when in reality, it is immaterial space (as an agent of the aether) that judges material light.
+
+To solve this, String Theory was invented. This absurdly converts particles into dimensions.  
+
+
+convert particles into spacetime. 
+
+IN other words, Supersymmetry converts imaginary objects into partner particles, whereas String Theory turns particles into imaginary objects. Both of them will fail in reality because an imaginary object can never have a reality no matter what you do.  
+
+
+
+In the 19th century, the speed of light was discovered to be constant and the same regardless of who looked at it. 
+
+When applied to space, this meant that space was flexible and not fixed.
+- This led to the idea of length contraction wherein bodies changed their length depending on their speed. 
+
+{{< q a="Lorentz" c="The Relative Motion of the Earth and the Aether" >}}
+It assumes that the line joining 2 points of a solid body does not conserve its length
+{{< /q >}}
+
+
+The big problem began in 1905 when Einstein applied the same constant speed of light to time, as the idea of "simultaniety of time".
+
+Practically, this prevented teleportation and only allowed time travel upon reaching very fast speeds.  
+
+Theoreticaly, this led to problems with particle physics when the possible interactions between particles were analyzed through Feynman loops. 
+
+These loops applied the simultaniety of time to particles and naturally came up with impossible infinities.  
+
+To solve these infinities, supersymmetry was created. This theorized partner particles for each of the known ones. 
+
+
+ the Theory of Relativity by introducing the idea of . This  
+
+
+The fallacies of Supersymmetry, String Theory, M-Theory, and 
+
+supergravity neutralinos
 
 
 When electrons were first discovered orbiting the nucleus, physicists tried to predict their movements using Newton's Laws as F=m(v2/r).
@@ -19,7 +71,7 @@ However, it didn't work. So Einstein tried to use his Special Relativity and it 
 
 Niels Bohr solved it by proposing that the electrons followed pre-defined energy levels from the aether. 
 
-This led to Quantum Mechanics for small-scale movements which was based on state-change, in line with Descartes' Physics wherein internal state is the source of movement. This is different from Newtonian Physics where external forces are the cause of movement. 
+This led to Quantum Mechanics for small-scale movements which was based on state-change, in line with Descartes' Physics wherein internal state is the source of movement. This is different from Newtonian Physics where external forces are the cause of movement.
 
 {{< i s="/graphics/physics/history.jpg" a="History" >}}
 

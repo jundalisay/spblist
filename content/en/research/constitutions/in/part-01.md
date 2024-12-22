@@ -1,14 +1,14 @@
 ---
 title: "The Union And Its Territory"
 heading: "Part 1"
-weight: 1
+weight: 4
 image: "/flags/in.png"
-description: ""
+description: "India, that is Bharat, shall be a Union of States"
 icon: /flags/in.png
 ---
 
 
-**Article 1. Name and territory of the Union.**
+### Article 1. Name and territory of the Union
 
 India, that is Bharat, shall be a Union of States.
 
@@ -19,7 +19,7 @@ The territory of India shall comprise:
 - other territories as may be acquired.
 
 
-**Article 2. Admission or establishment of new States**
+### Article 2. Admission or establishment of new States
 
 Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.
 

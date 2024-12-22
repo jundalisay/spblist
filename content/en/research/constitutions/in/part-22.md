@@ -1,7 +1,7 @@
 ---
 title: "Short Title, Commencement And Repeals"
 heading: "Part 22"
-weight: 1
+weight: 100
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

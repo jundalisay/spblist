@@ -18,15 +18,18 @@ Whether or not he used the word, however, Galileo did uncover a great many laws,
 
 ## Descartes
 
-But the person who first explicitly and rigorously formulated the concept of laws of nature as we understand them was René Descartes (1596–1650).
+The person who first explicitly and rigorously formulated the concept of laws of nature as we understand them was René Descartes (1596–1650).
 
-Descartes believed that all physical phenomena is explained as the collisions of moving masses, which were governed by 3 laws. These were the precursors of Newton’s famous laws of motion.
+He believed that all physical phenomena is explained as the collisions of moving masses, which were governed by 3 laws.
+- These were the precursors of Newton’s famous laws of motion.
 
 He asserted that those laws of nature were valid in all places and at all times. He stated explicitly that obedience to these laws does not imply that these moving bodies have minds.
 
 Descartes also understood the importance of what we today call “initial conditions.” 
 
-Those describe the state of a system at the beginning of whatever interval of time over which one seeks to make predictions. With a given set of initial conditions, the laws of nature determine how a system will evolve over time, but without a specific set of initial conditions, the evolution cannot be specified. 
+Those describe the state of a system at the beginning of whatever interval of time over which one seeks to make predictions.
+
+With a given set of initial conditions, the laws of nature determine how a system will evolve over time, but without a specific set of initial conditions, the evolution cannot be specified. 
 
 For example, if at time zero, a pigeon directly overhead lets something go, the path of that falling object is determined by Newton’s laws. 
 
@@ -63,19 +66,21 @@ Nature and Nature’s laws lay hid in night:
 
 God said, Let Newton be! and all was light.
 
-Today most scientists would say a law of nature is a rule that is based upon an observed regularity and provides predictions that go beyond the immediate situations upon which it is based. For
-example, we might notice that the sun has risen in the east every morning of our lives, and postulate the law “The sun always rises in the east.” This is a generalization that goes beyond our
-limited observations of the rising sun and makes testable predictions about the future. 
+Today most scientists would say a law of nature is a rule that is based upon an observed regularity and provides predictions that go beyond the immediate situations upon which it is based. 
 
-On the other hand, a statement such as “The computers in this office are black” is not a law of nature because it relates only to the computers within the office and makes no predictions such as “If my office
-purchases a new computer, it will be black.”
+For example, we might notice that the sun has risen in the east every morning of our lives, and postulate the law “The sun always rises in the east.” 
 
-Our modern understanding of the term “law of nature” is an issue philosophers argue at length, and it is a more subtle question than one may at first think. For example, the philosopher John W.
-Carroll compared the statement “All gold spheres are less than a mile in diameter” to a statement like “All uranium-235 spheres are less than a mile in diameter.” Our observations of the world tell
-us that there are no gold spheres larger than a mile wide, and we can be pretty confident there never will be. 
+This is a generalization that goes beyond our limited observations of the rising sun and makes testable predictions about the future. 
 
-Still, we have no reason to believe that there couldn’t be one, and so the statement is not considered a law. On the other hand, the statement “All uranium-235 spheres are less than a
-mile in diameter” could be thought of as a law of nature because, according to what we know about nuclear physics, once a sphere of uranium-235 grew to a diameter greater than about 6 inches, it would demolish itself in a nuclear explosion. Hence we can be sure that such spheres do not exist. 
+On the other hand, a statement such as “The computers in this office are black” is not a law of nature because it relates only to the computers within the office and makes no predictions such as “If my office purchases a new computer, it will be black.”
+
+Our modern understanding of the term “law of nature” is an issue philosophers argue at length, and it is a more subtle question than one may at first think. For example, the philosopher John W. Carroll compared the statement “All gold spheres are less than a mile in diameter” to a statement like “All uranium-235 spheres are less than a mile in diameter.” 
+
+Our observations of the world tell us that there are no gold spheres larger than a mile wide, and we can be pretty confident there never will be. 
+
+Still, we have no reason to believe that there couldn’t be one, and so the statement is not considered a law. 
+
+On the other hand, the statement “All uranium-235 spheres are less than a mile in diameter” could be thought of as a law of nature because, according to what we know about nuclear physics, once a sphere of uranium-235 grew to a diameter greater than about 6 inches, it would demolish itself in a nuclear explosion. Hence we can be sure that such spheres do not exist. 
 
 (Nor would it be a good idea to try to make one!) This distinction matters because it illustrates that not all generalizations we observe can be thought of as laws of nature, and that most laws of nature exist as part of a larger, interconnected system of laws.
 

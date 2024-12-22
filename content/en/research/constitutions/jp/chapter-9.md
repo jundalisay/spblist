@@ -1,7 +1,7 @@
 ---
 title: "Amendments"
 heading: "Chapter 9"
-weight: 1
+weight: 18
 image: "/flags/jp.png"
 description: ""
 icon: "/flags/jp.png"
@@ -35,4 +35,6 @@ Article 101. If the House of Councillors is not constituted before the effective
 
 Article 102. The term of office for half the members of the House of Councillors serving in the first term under this Constitution shall be three years. Members falling under this category shall be determined in accordance with law.
 
-Article 103. The Ministers of State, members of the House of Representatives and judges in office on the effective date of this Constitution, and all other public officials who occupy positions corresponding to such positions as are recognized by this Constitution shall not forfeit their positions automatically on account of the enforcement of this Constitution unless otherwise specified by law. When, however, successors are elected or appointed under the provisions of this Constitution, they shall forfeit their positions as a matter of course.
+Article 103. 
+
+The Ministers of State, members of the House of Representatives and judges in office on the effective date of this Constitution, and all other public officials who occupy positions corresponding to such positions as are recognized by this Constitution shall not forfeit their positions automatically on account of the enforcement of this Constitution unless otherwise specified by law. When, however, successors are elected or appointed under the provisions of this Constitution, they shall forfeit their positions as a matter of course.

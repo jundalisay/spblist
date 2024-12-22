@@ -1,7 +1,18 @@
+---
+title: "COMPTROLLER AND AUDITOR-GENERAL"
+heading: "Articles 148-"
+weight: 20
+image: "/flags/in.png"
+description: ""
+icon: /flags/in.png
+---
 
-CHAPTER 5: COMPTROLLER AND AUDITOR-GENERAL
 
-148. Comptroller and Auditor-General of India.—(1) There shall be a Comptroller and Auditor-
+## CHAPTER 5: COMPTROLLER AND AUDITOR-GENERAL
+
+148. Comptroller and Auditor-General of India.
+
+(1) There shall be a Comptroller and Auditor-
 General of India who shall be appointed by the President by warrant under his hand and seal and shall only
 be removed from office in like manner and on the like grounds as a Judge of the Supreme Court.
 (2) Every person appointed to be the Comptroller and Auditor-General of India shall, before he enters

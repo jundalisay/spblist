@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous"
 heading: "Part 18"
-weight: 1
+weight: 93
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

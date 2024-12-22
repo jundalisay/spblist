@@ -1,7 +1,7 @@
 ---
 title: "Special Provisions Relating To Certain Classes"
 heading: "Part 16"
-weight: 1
+weight: 78
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png
@@ -23,14 +23,14 @@ of seats allotted to that State 2 [or Union territory] in the House of the Peopl
 Scheduled Castes in the State 2 [or Union territory] or of the Scheduled Tribes in the State 2 [or Union
 territory] or part of the State or Union territory, as the case may be, in respect of which seats are so reserved,
 bears to the total population of the State 2 [or Union territory].
-4
+
 [(3) Notwithstanding anything contained in clause (2), the number of seats reserved in the House of
 the People for the Scheduled Tribes in the autonomous districts of Assam shall bear to the total number of
 seats allotted to that State a proportion not less than the population of the Scheduled Tribes in the said
 autonomous districts bears to the total population of the State.]
 [Explanation.—In this article and in article 332, the expression “population” means the population as
 ascertained at the last preceding census of which the relevant figures have been published:
-5
+
 Provided that the reference in this Explanation to the last preceding census of which the relevant figures
 have been published shall, until the relevant figures for the first census taken after the year 6 [2026] have
 been published, be construed as a reference to the 7 [2001] census.]
@@ -38,6 +38,7 @@ been published, be construed as a reference to the 7 [2001] census.]
 Notwithstanding anything in article 81, the President may, if he is of opinion that the Anglo-Indian
 community is not adequately represented in the House of the People, nominate not more than two members
 of that community to the House of the People.
+
 332. Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative
 Assemblies of the States.—(1) Seats shall be reserved for the Scheduled Castes and the Scheduled Tribes,
 

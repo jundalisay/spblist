@@ -1,7 +1,7 @@
 ---
 title: "The Legislative Power Of The Governor"
 heading: "Articles 213-"
-weight: 1
+weight: 26
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png
@@ -13,8 +13,10 @@ icon: /flags/in.png
 213. Power of Governor to promulgate Ordinances during recess of Legislature
 
 1) If at anytime, except when the Legislative Assembly of a State is in session, or where there is a Legislative Council in a State, except when both Houses of the Legislature are in session, the Governor is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require:
+
 Provided that the Governor shall not, without instructions from the President, promulgate any such
 Ordinance if
+
 (a) a Bill containing the same provisions would under this Constitution have required the previous
 sanction of the President for the introduction thereof into the Legislature; or
 (b) he would have deemed it necessary to reserve a Bill containing the same provisions for the
@@ -22,8 +24,10 @@ consideration of the President; or
 (c) an Act of the Legislature of the State containing the same provisions would under this
 Constitution have been invalid unless, having been reserved for the consideration of the President, it
 had received the assent of the President.
+
 (2) An Ordinance promulgated under this article shall have the same force and effect as an Act of the
 Legislature of the State assented to by the Governor, but every such Ordinance—
+
 (a) shall be laid before the Legislative Assembly of the State, or where there is a Legislative Council
 in the State, before both the Houses, and shall cease to operate at the expiration of six weeks from the
 reassembly of the Legislature, or if before the expiration of that period a resolution disapproving it is
@@ -41,6 +45,7 @@ Pradesh” (w.e.f. 21-1-1972).
 <!-- Explanation.—Where the Houses of the Legislature of a State having a Legislative Council are
 summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of
 those dates for the purposes of this clause. -->
+
 (3) If and so far as an Ordinance under this article makes any provision which would not be valid if
 enacted in an Act of the Legislature of the State assented to by the Governor, it shall be void:
 Provided that, for the purposes of the provisions of this Constitution relating to the effect of an Act of
@@ -67,12 +72,14 @@ of the National Judicial Appointments Commission referred to in article 124A], a
 the case of an additional or acting Judge, as provided in article 224, and in any other case, until he attains
 the age of 7 [sixty-two years]:]
 Provided that—
+
 (a) a Judge may, by writing under his hand addressed to the President, resign his office;
 (b) a Judge may be removed from his office by the President in the manner provided in clause (4)
 of article 124 for the removal of a Judge of the Supreme Court;
 (c) the office of a Judge shall be vacated by his being appointed by the President to be a Judge of
 the Supreme Court or by his being transferred by the President to any other High Court within the
 territory of India.
+
 (2) A person shall not be qualified for appointment as a Judge of a High Court unless he is a citizen of
 India and
 <!-- 1. Cl. (4) was ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 3 (retrospectively) and omitted by the Constitution
@@ -96,7 +103,7 @@ Explanation.—For the purposes of this clause—
 there shall be included any period, after he has held any judicial office, during which the person has
 been an advocate of a High Court or has held the office of a member of a tribunal or any post, under
 the Union or a State, requiring special knowledge of law;]
-4
+
 [(aa)]in computing the period during which a person has been an advocate of a High Court, there
 shall be included any period during which the person 5 [has held judicial office or the office of a member
 of a tribunal or any post, under the Union or a State, requiring special knowledge of law] after he
@@ -106,10 +113,11 @@ or been an advocate of a High Court, there shall be included any period before t
 this Constitution during which he has held judicial office in any area which was comprised before the
 fifteenth day of August, 1947, within India as defined by the Government of India Act, 1935, or has
 been an advocate of any High Court in any such area, as the case may be.
-6
+
 [(3) If any question arises as to the age of a Judge of a High Court, the question shall be decided by
 the President after consultation with the Chief Justice of India and the decision of the President shall be
 final.
+
 218. Application of certain provisions relating to Supreme Court to High Courts.—The provisions
 of clauses (4) and (5) of article 124 shall apply in relation to a High Court as they apply in relation to the
 Supreme Court with the substitution of references to the High Court for references to the Supreme Court.
@@ -117,7 +125,7 @@ Supreme Court with the substitution of references to the High Court for referenc
 High Court 7 *** shall, before he enters upon his office, make and subscribe before the Governor of the
 State, or some person appointed in that behalf by him, an oath or affirmation according to the form set out
 for the purpose in the Third Schedule.
-8
+
 [220. Restriction on practice after being a permanent Judge.—No person who, after the
 commencement of this Constitution, has held office as a permanent Judge of a High Court shall plead or
 act in any court or before any authority in India except the Supreme Court and the other High Courts.
@@ -188,6 +196,7 @@ amendment has been struck down by the Supreme Court vide its order dated the 16 
 Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117.
 7. Subs. by the Constitution (Fifteenth Amendment) Act, 1963, s. 6, for “sixty years” (w.e.f. 5-10-1963).
 8. Ins. by s. 7, ibid.
+
 86this Chapter, 1 [the National Judicial Appointments Commission on a reference made to it by the Chief
 Justice of a High Court for any State, may with the previous consent of the President], request any person
 who has held the office of a Judge of that Court or of any other High Court to sit and act as a Judge of the
@@ -196,6 +205,7 @@ to such allowances as the President may by order determine and have all the juri
 privileges of, but shall not otherwise be deemed to be, a Judge of that High Court:
 Provided that nothing in this article shall be deemed to require any such person as aforesaid to sit and
 act as a Judge of that High Court unless he consents so to do.]
+
 225. Jurisdiction of existing High Courts.—Subject to the provisions of this Constitution and to the
 provisions of any law of the appropriate Legislature made by virtue of powers conferred on that Legislature
 by this Constitution, the jurisdiction of, and the law administered in, any existing High Court, and the
@@ -203,12 +213,13 @@ respective powers of the Judges thereof in relation to the administration of jus
 any power to make rules of Court and to regulate the sittings of the Court and of members thereof sitting
 alone or in Division Courts, shall be the same as immediately before the commencement of this
 Constitution:
-2
+
+
 [Provided that any restriction to which the exercise of original jurisdiction by any of the High Courts
 with respect to any matter concerning the revenue or concerning any act ordered or done in the collection
 thereof was subject immediately before the commencement of this Constitution shall no longer apply to the
 exercise of such jurisdiction.]
-3
+
 [226. Power of High Courts to issue certain writs.—(1) Notwithstanding anything in article 32 4 ***,
 every High Court shall have power, throughout the territories in relation to which it exercises jurisdiction,
 to issue to any person or authority, including in appropriate cases, any Government, within those territories
@@ -219,7 +230,8 @@ for any other purpose.]
 or person may also be exercised by any High Court exercising jurisdiction in relation to the territories within
 which the cause of action, wholly or in part, arises for the exercise of such power, notwithstanding that the
 seat of such Government or authority or the residence of such person is not within those territories.
-6
+
+
 [(3) Where any party against whom an interim order, whether by way of injunction or stay or in any
 other manner, is made on, or in any proceedings relating to, a petition under clause (1), without—
 (a) furnishing to such party copies of such petition and all documents in support of the plea for

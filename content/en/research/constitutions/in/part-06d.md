@@ -1,7 +1,7 @@
 ---
 title: "Subordinate Courts"
 heading: "Articles 233-"
-weight: 1
+weight: 28
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

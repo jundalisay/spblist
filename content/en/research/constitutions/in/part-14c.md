@@ -1,7 +1,7 @@
 ---
 title: "Tribunals"
 heading: "Part 14c"
-weight: 1
+weight: 82
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

@@ -10,11 +10,19 @@ image: /covers/design.jpg
 
 The plague of infinities is similar to the problem that occurs in the theories of the strong, weak, and electromagnetic forces, except in those cases renormalization removes the infinities. 
 
-The closed loops in the Feynman diagrams for gravity produce infinities that cannot be absorbed by renormalization because in general relativity there are not enough renormalizable parameters (such as the values of mass and charge) to remove all the quantum infinities from the theory.
+The closed loops in the Feynman diagrams for gravity produce infinities that cannot be absorbed by renormalization.
+- This is because in general relativity there are not enough renormalizable parameters (such as the values of mass and charge) to remove all the quantum infinities from the theory.
 
-This leaves a theory of gravity that predicts that certain quantities, such as the curvature of space-time, are infinite. This is no way to run a habitable universe.
+ <!-- leaves a theory of gravity that -->
 
-That means the only possibility of obtaining a sensible theory would be for all the infinities to somehow cancel, without resorting to renormalization.
+This means that General Relativity predicts that certain quantities, such as the curvature of space-time, are infinite.
+- This is cannot be. 
+
+<!-- no way to run a habitable universe. -->
+
+<!-- That means the only possibility of obtaining a sensible theory would be for -->
+
+This means that all the infinities should somehow cancel, without resorting to renormalization.
 
 In 1976, a possible solution was found as supergravity. The “super” refers to a kind of symmetry the theory possesses, called supersymmetry.
 
@@ -51,9 +59,14 @@ You might think that validating supersymmetry would be easy--just examine the pr
 
 **But no such partner particles have been observed.**
 
-But physicists have performed various calculations. These show that the partner particles of those existing particles should be 1,000 times as massive as a proton, if not even heavier. 
+The calculations of physicists showed that the partner particles of those existing particles should be 1,000 times as massive as a proton, if not even heavier.*
 
-That is too heavy for such particles to have been seen in any experiments to date. But there is hope that such particles will eventually be created in the Large Hadron Collider in Geneva.
+{{< n n="The cause is that the mass is really energy from spacetime. This can be revealed by atom-shaking, not atom-smashing" >}}
+
+
+That is too heavy for such particles to have been seen in any experiments to date. 
+
+But there is hope that such particles will eventually be created in the Large Hadron Collider in Geneva.
 
 The idea of supersymmetry was the key to the creation of supergravity.
 

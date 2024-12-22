@@ -42,20 +42,21 @@ As we improved our technology and expanded the range of phenomena that we could 
 That experiment is typical of the type of phenomena that cannot be encompassed by classical science but are described by what is called quantum physics. In fact,
 Richard Feynman wrote that the double-slit experiment like the one we described above “contains all the mystery of quantum mechanics.”
 
-The principles of quantum physics were developed in the first few decades of the twentieth century after Newtonian theory was found to be inadequate for the description of nature on the atomic—or
-subatomic—level. The fundamental theories of physics describe the forces of nature and how objects react to them. Classical theories such as Newton’s are built upon a framework reflecting
-everyday experience, in which material objects have an individual existence, can be located at
-definite locations, follow definite paths, and so on. Quantum physics provides a framework for
-understanding how nature operates on atomic and subatomic scales, but as we’ll see in more detail
-later, it dictates a completely different conceptual schema, one in which an object’s position, path, and even its past and future are not precisely determined. Quantum theories of forces such as
-gravity or the electromagnetic force are built within that framework.
+The principles of quantum physics were developed in the first few decades of the twentieth century after Newtonian theory was found to be inadequate for the description of nature on the atomic—or subatomic—level.
+
+The fundamental theories of physics describe the forces of nature and how objects react to them. Classical theories such as Newton’s are built upon a framework reflecting everyday experience, in which material objects have an individual existence, can be located at definite locations, follow definite paths, and so on. 
+
+Quantum physics provides a framework for understanding how nature operates on atomic and subatomic scales, but as we’ll see in more detail later, it dictates a completely different conceptual schema, one in which an object’s position, path, and even its past and future are not precisely determined. Quantum theories of forces such as gravity or the electromagnetic force are built within that framework.
 
 Can theories built upon a framework so foreign to everyday experience also explain the events of
 ordinary experience that were modeled so accurately by classical physics? They can, for we and
 our surroundings are composite structures, made of an unimaginably large number of atoms, more
-atoms than there are stars in the observable universe. And though the component atoms obey the
-principles of quantum physics, one can show that the large assemblages that form soccer balls,
-turnips, and jumbo jets—and us—will indeed manage to avoid diffracting through slits. So though
+atoms than there are stars in the observable universe. 
+
+Though the component atoms obey the principles of quantum physics, one can show that the large assemblages that form soccer balls,
+turnips, and jumbo jets—and us—will indeed manage to avoid diffracting through slits.
+
+So though
 the components of everyday objects obey quantum physics, Newton’s laws form an effective
 theory that describes very accurately how the composite structures that form our everyday world
 behave.
@@ -63,7 +64,9 @@ behave.
 That might sound strange, but there are many instances in science in which a large assemblage
 appears to behave in a manner that is different from the behavior of its individual components. The
 responses of a single neuron hardly portend those of the human brain, nor does knowing about a
-water molecule tell you much about the behavior of a lake. In the case of quantum physics, physicists are still working to figure out the details of how Newton’s laws emerge from the
+water molecule tell you much about the behavior of a lake. 
+
+In the case of quantum physics, physicists are still working to figure out the details of how Newton’s laws emerge from the
 quantum domain. What we do know is that the components of all objects obey the laws of
 quantum physics, and the Newtonian laws are a good approximation for describing the way
 macroscopic objects made of those quantum components behave.
