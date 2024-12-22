@@ -50,7 +50,20 @@ According to Mr. Pierce, there are 2 varieties of the wolf inhabiting the Catski
 - the other more bulky, with shorter legs, which attacks the shepherd's flocks.
 
 
-Certain plants excrete a sweet juice, apparently for the sake of eliminating something injurious from their sap: this is effected by glands at the base of the stipules in some Leguminosae, and at the back of the leaf of the common laurel. This juice, though small in quantity, is greedily sought by insects. Let us now suppose a little sweet juice or nectar to be excreted by the inner bases of the petals of a flower. In this case insects in seeking the nectar would get dusted with pollen, and would certainly often transport the pollen from one flower to the stigma of another flower. The flowers of two distinct individuals of the same species would thus get crossed; and the act of crossing, we have good reason to believe (as will hereafter be more fully alluded to), would produce very vigorous seedlings, which consequently would have the best chance of flourishing and surviving. Some of these seedlings would probably inherit the nectar- excreting power. Those individual flowers which had the largest glands or nectaries, and which excreted most nectar, would be oftenest visited by insects, and would be oftenest crossed; and so in the long-run would gain the upper hand.
+
+Certain plants excrete a little sweet nectar to eliminate something injurious from their sap.
+
+This is effected by glands at the base of the stipules in some Leguminosae, and at the back of the leaf of the common laurel.
+
+This is greedily sought by insects.
+
+Assume that nectar is excreted by the inner bases of the petals of a flower. 
+
+In this case insects in seeking the nectar would get dusted with pollen.
+would transport the pollen from one flower to the stigma of another flower. 
+
+
+The flowers of two distinct individuals of the same species would thus get crossed; and the act of crossing, we have good reason to believe (as will hereafter be more fully alluded to), would produce very vigorous seedlings, which consequently would have the best chance of flourishing and surviving. Some of these seedlings would probably inherit the nectar- excreting power. Those individual flowers which had the largest glands or nectaries, and which excreted most nectar, would be oftenest visited by insects, and would be oftenest crossed; and so in the long-run would gain the upper hand.
 
 Those flowers, also, which had their stamens and pistils placed, in relation to the size and habits of the particular insects which visited them, so as to favour in any degree the transportal of their pollen from flower to flower, would likewise be favoured or selected. We might have taken the case of insects visiting flowers for the sake of collecting pollen instead of nectar; and as pollen is formed for the sole object of fertilisation, its destruction appears a simple loss to the plant; yet if a little pollen were carried, at first occasionally and then habitually, by the pollen-devouring insects from flower to flower, and a cross thus effected, although nine-tenths of the pollen were destroyed, it might still be a great gain to the plant; and those individuals which produced more and more pollen, and had larger and larger anthers, would be selected.
 

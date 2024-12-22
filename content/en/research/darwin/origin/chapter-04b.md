@@ -62,11 +62,7 @@ Amongst birds, the contest is more peaceful.
 Bird in cages often take individual preferences and dislikes.
 - Sir R. Heron has described how one pied peacock was eminently attractive to all his hen birds.
 
-It may appear childish to attribute any effect to such apparently weak means.
-
- <!-- I cannot here enter on the details necessary to support this view;  -->
-
-<!-- But if man can in a short time give elegant carriage and beauty to his bantams, according to his standard of beauty, I can see no good reason to doubt that  -->
+It is childish to attribute any effect to such weak means.
 
 Female birds, by selecting, during thousands of generations, the most melodious or beautiful males, according to their standard of beauty, might produce a marked effect.
 
@@ -91,5 +87,4 @@ These cannot be either useful to the males in battle, or attractive to the femal
 We see analogous cases in the wild such as the tuft of hair on the breast of the turkey-cock.
 - This can hardly be useful or ornamental to this bird.
 - Had the tuft appeared under domestication, it would have been called a monstrosity.
-
 
