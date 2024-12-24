@@ -1,16 +1,14 @@
 ---
-heading: "1-3"
-title: "SALZBURG"
+heading: "Author 4"
+title: "Geissler"
 # date: 2024-12-12
-weight: 4
-# "introduced the sophistry of General Relativity"
+weight: 8
 description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
-image: "/covers/einstein.jpg"
+image: "/covers/100.jpg"
 ---
 
 
-### Dr. I. K. GEISSLER / RINGGENBERG ENOUGH WITH THE EINSTEIN - MISTAKE!
-
+### 4. Dr. I. K. GEISSLER / RINGGENBERG: ENOUGH WITH THE EINSTEIN - MISTAKE!
 
 Factor | Grade
 --- | ---
@@ -70,13 +68,7 @@ However, it is assumed that there is an area in the space and that such an area 
 
 In fact, Einstein is simply relying on non-Euclidean teachings or assertions.
 
-But in this way, by a faulty circle, one does not get rid of infinity. As on asphere surface, such as the earth's surface, "hump" can be imagined, so should the space can be
-humpback, quasi-spherical. Just as the space lengths in Einstein can change due to the difference in
-speed, so the space itself should be able to get small changes through the influence of "masses" —
-as if such humpbacks were at all understandable and had some sense if one did not assume that
-there is the lack of disgust, from which the hump differs. Of course, of these wonderful things, which
-are written by Einstein of nature, we should usually not notice anything: "even masses the size of a
-sun only minimally influence the metric of the surrounding space". 
+But in this way, by a faulty circle, one does not get rid of infinity. As on asphere surface, such as the earth's surface, "hump" can be imagined, so should the space can be humpback, quasi-spherical. Just as the space lengths in Einstein can change due to the difference in speed, so the space itself should be able to get small changes through the influence of "masses" — as if such humpbacks were at all understandable and had some sense if one did not assume that there is the lack of disgust, from which the hump differs. Of course, of these wonderful things, which are written by Einstein of nature, we should usually not notice anything: "even masses the size of a sun only minimally influence the metric of the surrounding space".
 
 So: there is this sun sitting in the space — or not in the space ? And this sun, which mass has a "spatial" extent (or is the sun as a mass a completely metaphysical, extraspatial thing ? ?), should now have an influence on space, 
 namely the "surrounding” albeit minimal, which makes this space itself humpback.
@@ -95,29 +87,3 @@ to prove right and revere him as a great physicist and philosopher must surely b
 seriously and philosophically himself, or at least have heard the other side. Audiatur et altera pars
 [Latin translates as-> let the other party] - — and thoroughly, not just after a brief excerpt.
 
-
-
-### ARMIN GIMMERTHAL / BONN: RELATIVITY IS FAKE
-
-Factor | Grade
---- | ---
-Light | 
-Time | 1
-Space | 
-Speed | 1
-
-I prove in a recent work "Four Relations Clauses and one Relations System, a Complete Refutation of
-the RTH" :
-
-1. Relativity  is in contradiction with incontrovertible laws of thought, in particular the
-principle of addition and the principle of relativity of classical mechanics;
-
-2. Relativity is a falsification of it and that he has had to make it in order to be able to make his claims
-
-3. All transformation equations intended to support these claims are false;
-
-4. Einstein's views on space and time are untenable, in particular, that he lacks the appropriate ideas for the concept of simultaneity
-
-5. Relativizing simultaneity is an obvious nonsense
-
-6. The Minkowski's "world" — a mathematical fantasy of this is in turn a forgery, and7. that the correctly understood mathematics of theory fully confirms all these accusations.

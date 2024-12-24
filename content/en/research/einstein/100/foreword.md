@@ -5,7 +5,7 @@ title: "100 Authors Against Einstein"
 weight: 27
 # "introduced the sophistry of General Relativity"
 description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
-image: "/covers/einstein.jpg"
+image: "/covers/100.jpg"
 ---
 
 
@@ -61,10 +61,10 @@ crucial questions are demanded with compelling logic, was ignored.
 
 Even before that, Kraus and Gehrcke had been prevented from expressing new concerns and
 revealing weaknesses of the opponent in the "Journal of Physics" and in the "Logos".
-The Naturalists' Congress in Innsbruck did not want a lecture against the RTH, after Schlick had been
+The Naturalists' Congress in Innsbruck did not want a lecture against Relativity, after Schlick had been
 allowed to hold one for Einstein the year before.
 
-Precisely because the RTH has become or has been made a matter not only for science, but for the
+Precisely because Relativity has become or has been made a matter not only for science, but for the
 general public, precisely because it wants or should reshape our entire world view, its defenders
 would have the obligation to stand in the service of truth, which alone is at stake. Magazines and
 newspapers would have a duty not to sabotage the exchange of views.
@@ -78,7 +78,7 @@ to occasional contradictions between the individual authors and thus try to deva
 collective script. On the other hand, it should be noted in advance that there is no uniform and
 authentic representation of the theory of relativity either on the part of Einstein or on the part of his numerous commentators.
 
-Rather, the RTH dazzles in all colours.
+Rather, Relativity dazzles in all colours.
 
 Einstein himself has given rise to contradictory interpretations (see aether question, clock movement, validity of the absolute constancy of the speed of light), which in turn stand in occasional contrast to the interpretations of Mie, Reichenbach, Thirring, Born, Freundlich, Sommerfeld, Riebesell, Weyl, Schlick, Planck, Petzoldt and others, while these again differ physically, mathematically and in the theoretical way. 
 
