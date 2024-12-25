@@ -50,6 +50,7 @@ Knowledge | The assimilation of perceptions with, or into, the abstract mind via
 Length Contraction | Decrease of distance within space
 Life | The state where a mind has the ability to express independently of the physical aspects of the universe 
 Locality | object or movement is relative to or influenced by its immediate surroundings (Quantum mechanics violates local causality) 
+Metaphysics | The study of the Supreme and Absolute Entities in non-physical forms 
 Mind | the arena for experiences; The collective name of the Identity-Layer, Ego-Layer, and mind-stuff, and the effect of consciousness (Sarkar)
 Mode | modifications or versions of Substance
 Moral | the qualities of actions that will lead to positive feelings in the largest spacetime conceivable
@@ -59,6 +60,7 @@ Non-Locality | Action at a Distance (Einstein); True motion (Descartes)
 Omnitheism | a paradigm that views all Supreme Entities as different versions of one Supreme Entity 
 Passive Observation | Observing the object without doing anything to it.
 Personality Structure | Determines the DNA patterns of the body in order to reinforce the belief system [samskara] (Bashar-causal); A collaborated composition of the physical, mental, spiritual body (Sarkar-effect)
+Physics | The study of the Supreme Entity in its physical forms. This includes the 5 Layers or Elements. This absorbs the word 'science'
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
 Religion | a belief system that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings)
@@ -67,6 +69,8 @@ Slavery | A regular state of control of another's actions that produces pain
 Socratic Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma, to arrive at a solution to a problem
 Soul | the mind when viewed independently of the body
 Space | the Gap within perception, marked by identities
+Spirit | Any emtity or identity that relates to the pure Positive Force, with the Absolute as reference
+Spirituality | Any concept or idea that related to the pure Positive Force, with the Absolute as reference
 Substance | a thing which exists in such a way that it needs nothing beyond itself in order to exist (Descartes, Principia Philosophia Part 1)
 Supreme Entity | The Absolute Entity in active form in order to gain reality and be perceived
 Tao | the dharma in active flowing form

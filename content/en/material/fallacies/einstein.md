@@ -1,13 +1,14 @@
 ---
 title: "The Damage Einstein Has Done" 
-description: ""
+description: "The damage that Einstein has done to humanity may be ranked as follows"
+date: 2024-12-25
 weight: 2
 image: "/covers/einstein.jpg"
 ---
 
 
 
-The damage that Einstein has done to humanity may be ranked as follows 
+The damage that Einstein has done to humanity may be ranked as follows:
 
 Damage | Reason
 --- | ---
@@ -18,7 +19,7 @@ Damage | Reason
 5 Lack of Teleportation Technology | This is a consequence of the lack of spacetime
 6 Lack of Cheap Antimatter | This is a consequence of lack of the aether
 7 Lack of Optical Computing  | This is a consequence of the lack of the aether
-8 Nukes | Use Physics to Destroy your enemies before they destroy you 
+8 Nukes | Use Physics to destroy your enemies before they destroy you (because you are peddling a scam)
 
 
 
@@ -88,21 +89,43 @@ We test simultaneity by putting an observer in the middle `M` between `A` and `B
 {{< /q >}}
 
 
-This dominance of math and materialism is a sign of the Negative Force which then a necessary effect of the lack of spirituality or the Positive Force.
+This dominance of math and materialism is a sign of the Negative Force which then is a necessary effect of the lack of spirituality or the Positive Force.
 
 This evil manifests as: 
 
-- Einstein making a simultaneity principle that is based only on his need to publish papers, instead of being in line with Nature*
+- Einstein making a simultaneity principle that is based only on his need to publish papers, instead of being in line with Nature
 - Investment bankers who say that "Too big to fail" will not do any harm
-- Politicians who say that wild democracy will bring peace and progress instead of chaos
+- Politicians who say that wild democracy in Iraq and the Middle East will bring peace and progress instead of chaos
 - Crypto startups who say that crypto is a solution instead of a new problem 
 
-**The successful tests of Relativity are merely measurements of how Nature is already is**, such as time dilation. 
+These are just assertions based on biased beliefs. 
+
+**The successful tests of Relativity are merely measurements of how Nature already is**, such as time dilation. 
 
 **It does not reveal and hidden properties that can be used to create new technology**. This is because Einstein never  explained why light has the speed of `c`, because he didn't know why. 
 
 Cartesian Physics explains that the speed of light is from the constriction of the aether onto spacetime. This leads to our concept of spacetime slices which replace the scam metric tensor and can be the basis for new technologies.  
 
+
+
+### Mathematics and Logic are just Tools
+
+Mathematics and Logic are just tools used by the mind to connect its nature with that of physical nature. 
+
+- A tax evader can use math as creative accounting in order to cheat on taxes. 
+- A real estate developer can use logic that destroying a forest creates employment
+- A mathematician can create useless string theories to show that a mathematics degree is useful
+- An Islamist can use Quran to justify his logic of killing innocent people
+
+The aim of these is to push the desires of the ego onto physical reality. 
+
+- A tax evader and real estate developer really want to make money at the expense of the government the environment
+- A mathematician really is addicted to his own imagination 
+- An Islamist is really angry at the injustice he faces
+
+These all point to feelings. The feelings of Kant and Einstein, as well as tax evaders, developers, and theorists, are all based on their ego which have grown unchecked. 
+
+The discipline of the ego, and the correct use of math and logic, is done through moral philosophy, as the way to combat the Negative Force with the Positive. 
 
 
 <!-- In recent history, we can sum up the 3 worst humans:

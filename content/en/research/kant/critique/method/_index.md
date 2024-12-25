@@ -1,7 +1,8 @@
 ---
+heading: Division 4
 title: "Transcendental Doctrine of Method"
 description: "Transcendental Doctrine of Method"
-weight: 10
+weight: 900
 author: Kant
 image: "/covers/kant.jpg"
 ---

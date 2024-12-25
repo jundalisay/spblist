@@ -1,7 +1,7 @@
 ---
 title: "The Discipline of Pure Reason in Dogmatism"
 description: "The Discipline of Pure Reason in the Sphere of Dogmatism"
-weight: 48
+weight: 6
 author: Kant
 image: "/covers/kant.jpg"
 ---

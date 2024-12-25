@@ -1,7 +1,7 @@
 ---
-title: "Preface" 
-description: "Human reason, in one sphere of its cognition, is called upon to consider questions"
-weight: 48
+title: "Preface 2" 
+description: "PREFACE TO THE SECOND EDITION, 1787"
+weight: 6
 author: Kant
 image: "/covers/kant.jpg"
 ---

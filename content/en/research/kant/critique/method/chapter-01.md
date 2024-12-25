@@ -1,7 +1,7 @@
 ---
 title: "Transcendental Doctrine of Method"
 description: "Transcendental Doctrine of Method"
-weight: 48
+weight: 4
 author: Kant
 image: "/covers/kant.jpg"
 ---

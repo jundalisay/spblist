@@ -1,4 +1,13 @@
-CHAPTER IV. The History of Pure Reason.
+---
+heading: Chapter 4
+title: The History of Pure Reason
+description: "This critique of reason has now taught us that all its efforts to extend the bounds of knowledge are utterly fruitless"
+weight: 40
+author: Kant
+image: "/covers/kant.jpg"
+---
+
+
 
 This title is placed here merely for the purpose of designating a division of the system of pure reason of which I do not intend to treat at present. I shall content myself with casting a cursory glance, from a purely transcendental point of view—that of the nature of pure reason—on the labours of philosophers up to the present time. They have aimed at erecting an edifice of philosophy; but to my eye this edifice appears to be in a very ruinous condition.
 
