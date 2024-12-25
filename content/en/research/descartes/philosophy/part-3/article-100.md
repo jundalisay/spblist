@@ -16,20 +16,20 @@ icon: "/icons/descartes.png"
 
 <!-- rarefied -->
 
+
 **Sunspots are made up of the earth-aether particles.**
-
-
-
-These particles adhere somewhat to each other. They form a large mass, very decompressed like the physical air surrounding the Earth.
+- These particles adhere somewhat to each other.
+- They form a large mass, very decompressed like the physical air surrounding the Earth.
 
 This extends around the Sun, perhaps up to the orbit of Mercury or even beyond. 
 
 However, this earth-aether cannot grow indefinitely even if new particles constantly add to it from the dissolution of spots.
 
-This is because the continuous agitation of the air-aether globules through and around them can easily dissolve them and reconvert them into the fire-aether.
+**This is because the continuous agitation of the air-aether globules through and around them can easily dissolve them and reconvert them into the fire-aether.**
 
 
-We call all the spots of the Sun and other stars, as well as the physical air surrounding them, as the earth-aether*. This is because their parts are less suited for motion than the air-aether globules.
+We call all the spots of the Sun and other stars, as well as the physical air surrounding them, as the earth-aether*. 
+- This is because their parts are less suited for motion than the air-aether globules.
 
 
 {{< n n="*The sun's plasma, as solar wind, has protons" >}}

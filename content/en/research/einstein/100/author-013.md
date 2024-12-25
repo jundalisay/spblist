@@ -2,7 +2,7 @@
 heading: "Authors 13"
 title: "Kuntz, Lasker"
 # date: 2024-12-12
-weight: 18
+weight: 16
 description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
 image: "/covers/100.jpg"
 ---

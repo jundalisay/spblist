@@ -68,7 +68,11 @@ To solve this non-problem, academics had to create "Epistemology" which is suppo
 
 Academics and intellectuals would then create courses on useless epistemology to give employment to themselves.  
 
-The original tool to split fact from opinion is called dialectics and already was doing its job just fine, simply by accepting arguments that can offer proofs. Nowadays, this is seen in peer-reviews. Notice how Kant even tries to destroy the intellectually-democratic tool of dialectics:
+The original tool to split fact from opinion is called dialectics and already was doing its job just fine, simply by accepting arguments that can offer proofs. 
+
+Nowadays, this is seen in peer-reviews or by simply demonstrating the truth of an opinion in physical reality. 
+
+Notice how Kant even tries to destroy the intellectually-democratic tool of dialectics:
 
 {{< q a="Kant" c="Part 2, Introduction, Simple Critique of Pure Reason" >}}
 Dialectics is a logic of illusion. It is a sophistical art for giving ignorance and intentional sophistries.. it teaches us nothing regarding the content of our cognitions. It merely shows the formal conditions of their accordance with the understanding, which do not relate to and are quite indifferent in respect of objects,any attempt to employ it as a tool to extend our knowledge must end in mere nonsense since anyone can oppose any assertion.
@@ -119,7 +123,13 @@ A good will is good not because of the will's virtue. It is good in itself. It i
 
 Thus, Kant ends up defning good and bad arbitrarily according to his whim, just as the Church defined it as they liked. 
 
-What theologians call 'God', Kant calls Pure Reason. Both God and Pure Reason need no experiential proof, and there is no room for debate or dialectics regarding them. Both Theology and Pure Reason have no practical use since their meat is in the abstract or theoretical dimension only. 
+**What theologians call 'God', Kant calls Pure Reason**.* Both God and Pure Reason need no experiential proof, and there is no room for debate or dialectics regarding them. 
+
+{{< n n="Tehcnically, 'God' to Kant is 'Providence' and Pure Reason is the discovery of that Providence" >}}
+
+> What theologians call 'God', Kant calls Pure Reason
+
+Both Theology and Pure Reason have no practical use since their meat is in the abstract or theoretical dimension only. 
 
 Both theolgians and epistemologists gain revenue by selling books and a fee or tithe from its believers or students as college debt. Theologians were then known as mendicant scholars, just as epistemologists are known as philosophers flipping burgers. 
 
@@ -127,7 +137,8 @@ Kant's smart-sounding words draw in unthinking students just as the authoritativ
 
 ![Flip](https://sorasystem.sirv.com/graphics/flip300.jpg)
 
-In contrast, in the moral philosophy of the Enlightenment, the good is defined as the common interest. This common interest can only be known by getting all the a posteriori perceptions of pleasure and pain of all entities throughout space and time. 
+In contrast, in the moral philosophy of the Enlightenment, the good is defined as the common interest.
+- This common interest can only be known by getting all the a posteriori perceptions of pleasure and pain of all entities throughout space and time.
 
 To know what is good or evil, the enlightened system gets the opinions of everyone, even criminals and terrorists, so that the flow or the *Tao* of all feelings and perceptions can be known. A compromise can then be created to bring back harmony as *dharma*. 
 
@@ -135,15 +146,24 @@ To know what is good or evil, the enlightened system gets the opinions of everyo
 
 Kant bypasses the perceptions of entities and goes directly to Providence, leading to arbitrariness. He would support the willpower of a good country invading a bad country to impose its version of goodness, as proven in his essay called *Groundwork and Perpetual Peace*. 
 
+{{< q a="Kant" c="Perpetual Peace" >}}
+This guarantee [of Perpetual Peace] is from Providence. It is the deep-lying wisdom of a Higher Cause. It directs itself towards the ultimate practical end of the human race and predetermining the course of things.
+{{< /q >}}
+
+
 Together with Nietzsche, it helps explain why Germany kept on invading countries in WWI and WWII under the idea of spreading its Nazi-goodness to inferior races, by sheer willpower.
 
 ![War](https://sorasystem.sirv.com/photos/war.jpg)
 
 <!-- The only bright side with Kantianism is that it isuselessin real life and so it does little or no real damage as well. In contrast, Objectivism's successes come with the evils of inequality and financial crises, while Communism comes with war and poverty. -->
 
-In terms of practicality, Kantianism's main rival, Objectivism, is superior simply because its meat is in the physical dimension as material objectives. It's easy to see objectivist-philosophers being rich economists, bankers, and CEOs.  Even Marxist-philosophers (dialectical-materialists) sometimes become national leaders. But who has ever heard of a Kantian president or world leader?
+In terms of practicality, Kantianism's main rival is Objectivism from the anti-religious Ayn Rand. Objectivism is superior simply because its meat is in the physical dimension as material objectives. 
+- It's easy to see objectivist-philosophers being rich economists, bankers, and CEOs.
+- Even Marxist-philosophers (dialectical-materialists) sometimes become national leaders. But who has ever heard of a Kantian president or world leader?*
 
 <!-- > *Update October 2023: After looking into the Cosmology Crisis, we found that ALbert Einstein, who used Kantian principles to create his useless General Relativty, is the perfect example of a Kantian philosopher. His sophistical spacetime equations lead to make-your-own spacetimes such as DeSitter spacetime, Minkowski spacetime, Godel spacetime, etc.  -->
 
 ![Kant and Marx](https://sorasystem.sirv.com/graphics/kantmarxcrop.jpg)
 
+
+{{< u d="Dec 2024" u="The most famous Kantian is Einstein who created the scam theory of Relativity which imposed the simultaniety of time. This then created a class of mathematicians-turned-pseudo-theologians who replaced Creationism with an equally-junk Big Bang Theory (most recently as Penrose's CCC Theory) the large-scale structure of the universe as Godel, Taub Nut, De Sitter spacetimes" >}}
