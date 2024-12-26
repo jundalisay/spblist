@@ -36,7 +36,7 @@ Passive-thinking happens when the predicate is connected to the subject through 
 
 2. The predicate `B` lies completely out of the subject `A` but is connected with it
 
-This is active-thinking [synthetical judgement] and is augmentative. 
+This is active-connective-thinking [synthetical judgement] and is augmentative. 
 <!-- -->
 
 These are not connected by identity.
@@ -49,7 +49,7 @@ In "All bodies are heavy" the predicate is something totally different from the 
 
 <!-- that which I think in the mere conception of a body. By  -->
 
-The addition of the predicate makes it require active-thinking. [because heavy is not inherent in a body, but space is]
+The addition of the predicate makes it require active-connective-thinking. [because heavy is not inherent in a body, but space is]
 
 <!-- , therefore, it becomes a synthetical judgement. -->
 
@@ -61,9 +61,9 @@ Passive-thinking cannot be groundied on experience.
 
 This is because in passive-thinking, I do not need to go out of the ideas in my mind. 
 
- <!--  are extended sphere of my conceptions, and therefore recourse to the testimony of experience is quite unnecessary.  -->
+ <!--  are extended sphere of my conceptions, and therefore recourse to the testimony of experience is quite unnecessary.  empirical  -->
 
-"Bodies occupy space" is not an empirical judgement. It is a within-the-mind proposition.
+"Bodies occupy space" is not a sense-based judgement. It is a within-the-mind proposition.
 
 This is because, I already have all the ideas needed for that idea.*
 
@@ -91,9 +91,9 @@ From this, I can make the main idea: "All bodies are heavy."
 
 
  <!-- to synthetical judgements a priori, -->
-But for active-thinking within-the-mind, such aid is entirely wanting.
+But for active-connective-thinking within-the-mind, such aid is entirely wanting.
 
-I can think of idea B being connected to idea A. But what more can I say about them?
+I can think of idea `B` being connected to idea `A`. But what more can I say about them?
 
 <!-- If I go out of and beyond the conception A, in order to recognize another B as connected with it, what foundation have I to rest on, whereby to render the synthesis possible?  -->
 
@@ -103,10 +103,34 @@ For example, "Everything that happens has a cause."
 
 In the idea "something that happens" I think an existence from which I can derive ideas from passive-thinking. 
 
-<!-- which a certain time antecedes, and from this I can derive analytical judgements.  -->
+<!-- which a certain time antecedes, and from this I can derive analytical judgements. conception   conception conception-->
 
-But the conception of a cause lies quite out of the above conception, and indicates something entirely different from "that which happens," and is consequently not contained in that conception. 
+But the active-connective-thinking of a cause lies quite out of the above idea. The idea of cause indicates something entirely different from "that which happens," and is consequently not contained in that idea [of effect]. 
 
-How then am I able to assert concerning the general conception—"that which happens"—something entirely different from that conception, and to recognize the conception of cause although not contained in it, yet as belonging to it, and even necessarily? what is here the unknown = X, upon which the understanding rests when it believes it has found, out of the conception A a foreign predicate B, which it nevertheless considers to be connected with it? 
+The general idea of effect [that which happens] is entirely different from effect. 
 
-It cannot be experience, because the principle adduced annexes the two representations, cause and effect, to the representation existence, not only with universality, which experience cannot give, but also with the expression of necessity, therefore completely a priori and from pure conceptions. Upon such synthetical, that is augmentative propositions, depends the whole aim of our speculative knowledge a priori; for although analytical judgements are indeed highly important and necessary, they are so, only to arrive at that clearness of conceptions which is requisite for a sure and extended synthesis, and this alone is a real acquisition.
+That cause is unknown, but is connected to the idea of effect. 
+
+
+<!-- How then am I able to assert concerning the general conception—"that which happens"—something entirely different from that conception, and to recognize the conception of cause although not contained in it, yet as belonging to it, and even necessarily? 
+
+What is here the unknown = X, upon which the understanding rests when it believes it has found, out of the conception A a foreign predicate B, which it nevertheless considers to be connected with it?  -->
+
+
+The principle in "Everything that happens has a cause" connects cause with effect [everything] universally and relationally. 
+
+Therefore, it is completely within-the-mind and from pure conceptions.*
+
+{{< n n="In Yogic science, the realization of the cause of everything is called samadhi and is an experience from the 6th sense or the heart chakra. The cause cannot be produced intellectually. This destroys Kant's whole work even before it starts" >}}
+
+<!-- It cannot be experience, because the principle adduced annexes the two representations, cause and effect, to the representation existence, not only with universality, which experience cannot give, but also with the expression of necessity, therefore  -->
+
+
+ <!-- synthetical analytical  conceptions -->
+The aim of our speculative within-the-mind knowledge depends on such active-thinking augmentative propositions.
+
+Passive-thinking judgements are highly important and necessary.
+
+But its goal is only to arrive at that clearness of ideas needed for a sure and extended synthesis of ideas.
+
+<!-- , and this alone is a real acquisition. -->

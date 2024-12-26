@@ -113,13 +113,13 @@ A within-the-mind origin is manifest in judgements and ideas.
 
 For example, we can remove all the physical attributes of a thing so that its body vanishes. But the space which it occupied still remains.*
 
-((< n n="Classically, this was called extension or metaphysical space" >))
+{{< n n="Classically, this was called extension or metaphysical space" >}}
 
  <!-- if we take away by degrees from our conceptions of a body all that can be referred to mere sensuous experience—colour, hardness or softness, weight, even impenetrability—the body will then vanish;  -->
 
 It is utterly impossible to eliminate this space in our minds. This space is the substance of that object in our minds.*
 
-((< n n="In yogic science, this substance is the citta which takes the form of the object" >)) 
+{{< n n="In yogic science, this substance is the citta which takes the form of the object" >}}
 
 <!-- This space is  to annihilate in thought. Again, if we take away, in like manner, from our empirical conception of any object, corporeal or incorporeal, all properties which mere experience has taught us to connect with it, still we cannot think away those through which we cogitate it as substance, or adhering to substance, although our conception of substance is more determined than that of an object.  -->
 
