@@ -12,13 +12,18 @@ icon: /icons/pantry.png
 toc: false
 ---
 
+<!-- We replace our old pre-2019 name 'Socioeconomics' with 'Supereconomics'. -->
 
-{{< u d="April 2021" u="[The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics. We replace our old pre-2019 name 'Socioeconomics' with 'Supereconomics'." >}}
+{{< u d="April 2021" u="[The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics." >}}
 
 
 Adam Smith’s Supply and Demand Curves (below) are the foundation our proposed science called Supereconomics which is based on Classical Economics. It can be applied to any problem in economics in order to provide common sense answers.
 
-![Supply and Demand Correct](https://sorasystem.sirv.com/charts/demsup/right.png)
+
+{{< i s="/graphics/econ/eq.jpg" a="Economics Supply Curves" >}}
+
+
+<!-- ![Supply and Demand Correct](https://sorasystem.sirv.com/charts/demsup/right.png) -->
 
 For example, the question below appears in Principles of Microeconomics by Mankiw, which teaches the unsustainable paradigm of Neoclassical Economics:
 

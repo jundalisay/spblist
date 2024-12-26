@@ -67,6 +67,7 @@ Chinese medicine during Covid | This leads to Bio Superphysics
 Einstein Debunked (All Relativity-based theories fail) | Time is mental, not light-based 
 Bob Lazar's Gravity-A Waves / Drone sightings in the US | Aetherspace can repel space particles 
 
+
 {{< i s="/graphics/physics/drone.jpg" a="Sound" >}}
 
 
@@ -80,10 +81,13 @@ Todo:
 Phenomena | Cartesian Principle or Test
 --- | ---
 Making 1 kg mass lighter by 2 grams | Particle-shaking through the aether
+Levitating Buddhist Monk | Aetherspace can repel space particles 
 James Webb Space Telescope Finding Very Distant Large Galaxies | Aether is instant through light
 Plant growth through the aether | This leads to Bio Superphysics
 Homeopathic cures | This leads to Bio Superphysics
 
+
+{{< youtube ufORgD0s2Mo >}}
 
 Todo:
 - Automated Natural Intelligence
