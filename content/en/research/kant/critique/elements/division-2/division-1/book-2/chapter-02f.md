@@ -1,6 +1,7 @@
 ---
-# heading: Section 3
-title: ANALOGIES OF EXPERIENCE
+heading: Chapter 2 Section 3d
+linkTitle: Analogie
+title: Analogies Of Experience
 description: "The Application of the Categories Sensory Objects"
 weight: 22
 author: Kant
@@ -9,7 +10,7 @@ image: "/covers/kant.jpg"
 
 
 
-3. ANALOGIES OF EXPERIENCE
+### 3. ANALOGIES OF EXPERIENCE
 
 The principle of these is: Experience is possible only through the representation of a necessary connection of Perceptions.
 

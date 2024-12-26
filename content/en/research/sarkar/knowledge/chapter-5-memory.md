@@ -33,17 +33,22 @@ Thus the brain is nothing more than a worldly machine for mental recollection. I
 
 The human mind has 3 stages: 
 
-crude, subtle and causal
+1. Crude
+2. Subtle
+3. Causal
 
 There are also 3 states in human existence:
 
-wakeful, dream and sleep.
+1. Wakeful
+2. Dream
+3. Sleep
 
 The crude mind remains active during the wakeful state.
 
 The causal mind remains active during sleep. 
 
 The causal mind is the repository of infinite knowledge. 
+
 
 Whatever saḿskáras we recreate in the wakeful and dream states remain stored in the causal mind.
 

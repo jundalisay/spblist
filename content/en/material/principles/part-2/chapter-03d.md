@@ -33,4 +33,7 @@ Our preferred theoretical way to generate the aetherspace is through an external
 
 This requires more power than what can be carried in the small craft of the Grays and is what is used by larger UFO craft.
 
+This is because the aetherspace naturally repels spacetime.
+
+
 <!-- https://youtu.be/cJWzBCV0ksc -->

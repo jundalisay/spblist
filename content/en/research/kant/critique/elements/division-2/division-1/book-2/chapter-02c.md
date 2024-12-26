@@ -1,5 +1,6 @@
 ---
-heading: Section 3
+heading: Chapter 2 Section 3
+linkTitle: Systematic
 title: Systematic Representation of all Synthetical Principles of the Pure Understanding
 description: "The Application of the Categories Sensory Objects"
 weight: 10

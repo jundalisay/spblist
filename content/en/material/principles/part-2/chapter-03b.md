@@ -52,7 +52,24 @@ These independent slices:
 The qualities of timespace are derived directly from the aethereal layer above it. This means that it is affected by, or is the result of, monads.
 
 This is why the timespace particles are the holder for the aethereal gravitational signature in the spatial layer. 
- 
+
+
+## How it Works
+
+Every material thing, such as a box, has the 5 Layers: 
+
+Layer | Description 
+--- | ---
+Aether | Identity of the box
+Spatial | The space occupied by the box. This includes location
+Radiant | The energy of the box
+Convertible | The reactivity of the box to other matter
+Material | The mass of the box
+
+{{< i s="/graphics/physics/box2.jpg" a="Box" >}}
+
+Its location in space and time is determined by its timespace, as the main particle of the Spatial Layer. 
+
 
 <!-- The affinity between the gravitational signatures between identities leads to the attractive force between them. 
 

@@ -1,8 +1,8 @@
 ---
-# heading: Section 2b
+heading: Section 2c
 title: General Remarks on Transcendental Aesthetic
 description: "The Application of the Categories Sensory Objects"
-weight: 6
+weight: 12
 author: Kant
 image: "/covers/kant.jpg"
 ---

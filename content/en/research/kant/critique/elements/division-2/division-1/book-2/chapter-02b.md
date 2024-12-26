@@ -1,5 +1,6 @@
 ---
-heading: Section 2
+heading: Chapter 2 Section 2
+linkTitle: Supreme
 title: The Supreme Principle of all Synthetical Judgements
 description: "The Application of the Categories Sensory Objects"
 weight: 8

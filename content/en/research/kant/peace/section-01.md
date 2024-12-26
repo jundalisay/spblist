@@ -1,8 +1,8 @@
 ---
 heading: Section 1
-title: "THE PRELIMINARY ARTICLES OF PERPETUAL PEACE BETWEEN STATES" 
-description: "Vortex Atoms"
-weight: 48
+title: "The Preliminary Articles Of Perpetual Peace" 
+description: "This translation of Kant’s essay on Perpetual Peace was undertaken by Miss Mary Campbell Smith"
+weight: 4
 author: Kant
 image: "/covers/kant.jpg"
 ---

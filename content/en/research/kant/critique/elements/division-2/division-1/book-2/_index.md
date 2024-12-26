@@ -1,6 +1,6 @@
 ---
-linkTitle: Critique
-title: "Critique of Pure Reason"
+linkTitle: Book 2
+title: "The Analytic of Principles"
 description: "Critique of Pure Reason"
 weight: 4
 author: Kant

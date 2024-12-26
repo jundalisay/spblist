@@ -1,15 +1,15 @@
 ---
-heading: Section 2
+heading: Section 2c
 title: "Third Definitive Article" 
 description: "Vortex Atoms"
-weight: 48
+weight: 18
 image: "/covers/kant.jpg"
 ---
 
 
-THIRD DEFINITIVE ARTICLE OF PERPETUAL PEACE
+<!-- THIRD DEFINITIVE ARTICLE OF PERPETUAL PEACE -->
 
-III.—“The rights of men, as citizens of the world, shall be limited to the conditions of universal hospitality.”
+### 3. “The rights of men, as citizens of the world, shall be limited to the conditions of universal hospitality.”
 
 This is a right, not of philanthropy.
 
@@ -21,7 +21,13 @@ It is not a right to be treated as a guest to which the stranger can lay[p. 138]
 
 This right[133] to present themselves to society belongs to all mankind in virtue of our common right of possession on the surface of the earth on which, as it is a globe, we cannot be infinitely scattered, and must in the end reconcile ourselves to existence side by side: at the same time, originally no one individual had more right than another to live in any one particular spot.
 
-Uninhabitable portions of the surface, ocean and desert, split up the human community, but in such a way that ships and camels—“the ship of the desert”—make it possible for men to come into touch with one another across these unappropriated regions and to take advantage of our common claim to the face of the earth with a view to a possible intercommunication. The inhospitality of the inhabitants of certain sea coasts—as, for example, the coast of Barbary—in plundering ships in neighbouring seas or making slaves of shipwrecked mariners; or the behaviour of the Arab Bedouins in the deserts, who think that proximity to nomadic tribes constitutes a right to rob, is thus contrary to the law of nature. This right to hospitality, however—that is to say, the privilege of strangers arriving on foreign soil—does not amount to more than what is implied in a permission to make an attempt at intercourse with the original inhabitants. In this way far distant territories may enter into peaceful relations with one another.
+Uninhabitable areas such as oceans or deserts, split up the human community.
+
+ <!-- but in such a way that ships and camels—“the ship of the desert”—make it possible for men to come into touch with one another across these unappropriated regions and to take advantage of our common claim to the face of the earth with a view to a possible intercommunication. -->
+
+The inhospitality of the inhabitants of certain sea coasts—as, for example, the coast of Barbary—in plundering ships in neighbouring seas or making slaves of shipwrecked mariners; or the behaviour of the Arab Bedouins in the deserts, who think that proximity to nomadic tribes constitutes a right to rob, is thus contrary to the law of nature.
+
+This right to hospitality, however—that is to say, the privilege of strangers arriving on foreign soil—does not amount to more than what is implied in a permission to make an attempt at intercourse with the original inhabitants. In this way far distant territories may enter into peaceful relations with one another.
 
 These relations may at last come under the public control of law, and thus the human race may be brought nearer the realisation of a cosmopolitan constitution.
 

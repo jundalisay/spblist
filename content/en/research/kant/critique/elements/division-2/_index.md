@@ -1,11 +1,9 @@
 ---
+linkTitle: Division 2
 heading: Part 2
-title: "TRANSCENDENTAL LOGIC"
+title: "Transcendental Logic"
 description: "Critique of Pure Reason"
-weight: 4
+weight: 14
 author: Kant
 image: "/covers/kant.jpg"
 ---
-
-
-

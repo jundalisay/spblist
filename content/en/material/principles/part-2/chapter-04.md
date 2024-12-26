@@ -48,11 +48,12 @@ Physics calls these vortices in the spatial layer of the physical domain as **bl
 
 <!-- The main difference is that their main property is mass, which in Newton's time was defined as the amount of matter in a body. This changed when Einstein came along who equated mass (and electromagnetic mass) with energy. This is why the main property of a black hole in Phsyics is **energy**.  -->
 
-However, in Superphysics, a black hole is a spacetime vortex that leads to a tunnel to the aetherspace. Its main properties are:
+However, in Superphysics, a black hole is a spacetime vortex called sos that leads to a tunnel to the aetherspace. Its main properties are:
 
+2. Vortex rotation direction
 1. Vortex energy quantity
-2. Vortex energy quality
-3. Vortex rotation direction
+3. Vortex energy quality
+
 
 The concept of rotation direction is missing in Modern Physics whether from Newton or Einstein. 
 
@@ -61,7 +62,36 @@ The concept of rotation direction is missing in Modern Physics whether from Newt
 Descartes, on the other hand, was sensible enough to think of the relative rotation of different objects such as light, moons, and planets.    -->
 
 
-## Cartesian Vortices
+
+
+## Vortex Energy Quality
+
+There are 3 qualities of of sos':
+
+SOS | Examples 
+--- | ---
+Stellar (sos3) | Stars, Pulsars, Neutron Stars
+Galactic (sos2) | Galaxies, Quasars, Nebulae
+Universal (sos1) | Universes
+
+
+A stellar sos commonly manifests as stars and planets. This is because planets are sos that failed to become stars.
+
+A galactic sos commonly manifests as galaxies and quasars. These are larger than stellar. 
+
+A universal sos is a universe. Our sos is evidenced by the cosmic microwave background radiation. 
+
+
+
+## Vortex Energy Quantity
+
+A sos can have 
+
+
+
+## Vortex Rotation Direction
+
+
 
 In the 1630's, Descartes described black holes as spinning spacetime vortices which prevented light from going into their center. These were opposed to stars which allowed light to go into the center.
 

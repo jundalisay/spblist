@@ -71,17 +71,39 @@ At present, all methods, according to the general persuasion, have been tried in
 
 {{< n n="This is because Westerners never had a sage to teach them about chi and chakra." >}}
 
-There reigns nought but weariness and complete indifferentism—the mother of chaos and night in the scientific world, but at the same time the source of, or at least the prelude to, the re-creation and reinstallation of a science, when it has fallen into confusion, obscurity, and disuse from ill directed effort.
+This leads to weariness and complete indifference. This is:
+- the mother of chaos and night in the scientific world
+- the prelude to a new science. 
 
-For it is in reality vain to profess indifference in regard to such inquiries, the object of which cannot be indifferent to humanity.
+<!--  but at the same time the source of, or at least the prelude to, the re-creation and reinstallation of a science, when it has fallen into confusion, obscurity, and disuse from ill directed effort.
 
-Besides, these pretended indifferentists, however much they may try to disguise themselves by the assumption of a popular style and by changes on the language of the schools, unavoidably fall into metaphysical declarations and propositions, which they profess to regard with so much contempt. At the same time, this indifference, which has arisen in the world of science, and which relates to that kind of knowledge which we should wish to see destroyed the last, is a phenomenon that well deserves our attention and reflection.
+For it is in reality vain to profess indifference in regard to such inquiries, the object of which cannot be indifferent to humanity. -->
 
-It is plainly not the effect of the levity, but of the matured judgement* of the age, which refuses to be any longer entertained with illusory knowledge, It is, in fact, a call to reason, again to undertake the most laborious of all tasks—that of self-examination, and to establish a tribunal, which may secure it in its well-grounded claims, while it pronounces against all baseless assumptions and pretensions, not in an arbitrary manner, but according to its own eternal and unchangeable laws. This tribunal is nothing less than the critical investigation of pure reason.
+Besides, these pretended indifferentists, however much they may try to disguise themselves by the assumption of a popular style and by changes on the language of the schools, unavoidably fall into metaphysical declarations and propositions, which they profess to regard with so much contempt. 
 
-[*Footnote: We very often hear complaints of the shallowness of the present age, and of the decay of profound science. But I do not think that those which rest upon a secure foundation, such as mathematics, physical science, etc., in the least deserve this reproach, but that they rather maintain their ancient fame, and in the latter case, indeed, far surpass it. The same would be the case with the other kinds of cognition, if their principles were but firmly established. In the absence of this security, indifference, doubt, and finally, severe criticism are rather signs of a profound habit of thought. Our age is the age of criticism, to which everything must be subjected. The sacredness of religion, and the authority of legislation, are by many regarded as grounds of exemption from the examination of this tribunal. But, if they on they are exempted, they become the subjects of just suspicion, and cannot lay claim to sincere respect, which reason accords only to that which has stood the test of a free and public examination.]
+At the same time, this indifference, which has arisen in the world of science, and which relates to that kind of knowledge which we should wish to see destroyed the last, is a phenomenon that well deserves our attention and reflection.
 
-I do not mean by this a criticism of books and systems, but a critical inquiry into the faculty of reason, with reference to the cognitions to which it strives to attain without the aid of experience; in other words, the solution of the question regarding the possibility or impossibility of metaphysics, and the determination of the origin, as well as of the extent and limits of this science. All this must be done on the basis of principles.
+Mature judgement gets fed up with illusory knowledge. It instead calls reason to:
+- undertake self-examination, the most laborious of all
+- establish a tribunal, as the critical investigation of pure reason, to secure it in its well-grounded claims
+
+<!-- It is plainly not the effect of the levity, but of the matured judgement* of the age, which refuses to be any longer entertained with , It is, in fact, a call to reason, again 
+
+, while it pronounces against all baseless assumptions and pretensions, not in an arbitrary manner, but according to its own eternal and unchangeable laws. This tribunal is nothing less than . -->
+
+The present age seems to be very shallow. This does not affect mathematics, physical science, etc.
+
+<!-- [*Footnote: We very often hear complaints of the shallowness of the , and of the decay of profound science. But I do not think that those which rest upon a secure foundation, such as 
+
+, in the least deserve this reproach, but that they rather maintain their ancient fame, and in the latter case, indeed, far surpass it. The same would be the case with the other kinds of cognition, if their principles were but firmly established. In the absence of this security, indifference, doubt, and finally, severe criticism are rather signs of a profound habit of thought.  -->
+
+Our age is the age of criticism, which critices everything. Religion and lawmaking should be criticized too. 
+
+ <!-- must be subjected. The sacredness of religion, and the authority of legislation, are by many regarded as grounds of exemption from the examination of this tribunal. But, if they on they are exempted, they become the subjects of just suspicion, and cannot lay claim to sincere respect, which reason accords only to that which has stood the test of a free and public examination.] -->
+
+I aim for a critical inquiry into the faculty of reason, with reference to the cognitions to which it strives to attain without the aid of experience; 
+
+in other words, the solution of the question regarding the possibility or impossibility of metaphysics, and the determination of the origin, as well as of the extent and limits of this science. All this must be done on the basis of principles.
 
 This path—the only one now remaining—has been entered upon by me; and I flatter myself that I have, in this way, discovered the cause of—and consequently the mode of removing—all the errors which have hitherto set reason at variance with itself, in the sphere of non-empirical thought. I have not returned an evasive answer to the questions of reason, by alleging the inability and limitation of the faculties of the mind; I have, on the contrary, examined them completely in the light of principles, and, after having discovered the cause of the doubts and contradictions into which reason fell, have solved them to its perfect satisfaction. It is true, these questions have not been solved as dogmatism, in its vain fancies and desires, had expected; for it can only be satisfied by the exercise of magical arts, and of these I have no knowledge. But neither do these come within the compass of our mental powers; and it was the duty of philosophy to destroy the illusions which had their origin in misconceptions, whatever darling hopes and valued expectations may be ruined by its explanations. My chief aim in this work has been thoroughness; and I make bold to say that there is not a single metaphysical problem that does not find its solution, or at least the key to its solution, here. Pure reason is a perfect unity; and therefore, if the principle presented by it prove to be insufficient for the solution of even a single one of those questions to which the very nature of reason gives birth, we must reject it, as we could not be perfectly certain of its sufficiency in the case of the others.
 

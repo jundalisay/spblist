@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-description: "THE DIALECTICAL PROCEDURE OF PURE REASON"
-weight: 2
+description: "Critique of Pure Reason"
+weight: 4
 author: Kant
 image: "/covers/kant.jpg"
 ---

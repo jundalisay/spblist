@@ -8,46 +8,89 @@ image: "/covers/kant.jpg"
 ---
 
 
-SS 2. Metaphysical Exposition of this Conception.
-
-By means of the external sense (a property of the mind), we represent to ourselves objects as without us, and these all in space. Herein alone are their shape, dimensions, and relations to each other determined or determinable.
-
-The internal sense, by means of which the mind contemplates itself or its internal state, gives, indeed, no intuition of the soul as an object; yet there is nevertheless a determinate form, under which alone the contemplation of our internal state is possible, so that all which relates to the inward determinations of the mind is represented in relations of time. Of time we cannot have any external intuition, any more than we can have an internal intuition of space. What then are time and space?
-
-Are they real existences? Or, are they merely relations or determinations of things, such, however, as would equally belong to these things in themselves, though they should never become objects of intuition; or, are they such as belong only to the form of intuition, and consequently to the subjective constitution of the mind, without which these predicates of time and space could not be attached to any object? In order to become informed on these points, we shall first give an exposition of the conception of space. By exposition, I mean the clear, though not detailed, representation of that which belongs to a conception; and an exposition is metaphysical when it contains that which represents the conception as given a priori.
+{{< n n="We replace Trascendental with Metaphysical" >}}
 
 
-1. Space is not a conception which has been derived from outward experiences. For, in order that certain sensations may relate to something without me (that is, to something which occupies a different part of space from that in which I am); in like manner, in order that I may represent them not merely as without, of, and near to each other, but also in separate places, the representation of space must already exist as a foundation. Consequently, the representation of space cannot be borrowed from the relations of external phenomena through experience; but, on the contrary, this external experience is itself only possible through the said antecedent representation.
+### 2. Metaphysical Exposition of this Conception
+
+Our external senses give our minds the representation of external objects as being in space. 
+- These give us their shape, dimensions, and relations to each other
+
+<!-- By means of the external sense (a property of the mind), we represent to ourselves objects as without us, and these all in space.  -->
+
+The mind uses the internal sense to contemplates itself or its internal state.
+
+<!-- , gives, indeed, no intuition of the soul as an object. -->
+
+Yet the contemplation of our internal state gives a determinate form which relates the inward determinations of the mind to time.  
+
+<!-- , under which alone  is possible, so that all which relates to  the mind is represented in relations of time.  -->
+
+We cannot have any external intuition of time and of space.
+
+<!-- , any more than we can have an internal intuition of space.  -->
+
+What then are time and space? Are they real existences?
+
+<!-- Or, are they merely relations or determinations of things, such, however, as would equally belong to these things in themselves, though they should never become objects of intuition; or, are they such as belong only to the form of intuition, and consequently to the subjective constitution of the mind, without which these predicates of time and space could not be attached to any object? -->
+
+<!-- In order to become informed on these points, we shall first give an exposition of the conception of space. By exposition, I mean the clear, though not detailed, representation of that which belongs to a conception; and an exposition is metaphysical when it contains that which represents the conception as given a priori. -->
 
 
-2. Space then is a necessary representation a priori, which serves for the foundation of all external intuitions. We never can imagine or make a representation to ourselves of the non-existence of space, though we may easily enough think that no objects are found in it. It must, therefore, be considered as the condition of the possibility of phenomena, and by no means as a determination dependent on them, and is a representation a priori, which necessarily supplies the basis for external phenomena.
+1. Space is not an idea derived from outward experiences*
+
+This is because the idea of space must already exist as a foundation so that my sensations can relate to something outside of me, as being in a different location than me. 
+
+ <!-- without me (that is, to something which occupies a different part of space from that in which I am);  -->
+
+<!-- in like manner, in order that I may represent them not merely as without, of, and near to each other, but also in separate places, .  representation be borrowed from the relations of -->
+
+Consequently, the idea of space cannot come from  external phenomena through experience.
+
+On the contrary, this external experience of space is only possible through my inherent idea of space. 
+
+{{< n n="This is totally wrong. Space is an inferior Element to the Aether in the 5 Elements model. Kant is merely siding with the idea of abstract space versus the phenomena of physical space. This is to empower his arbitrary transcendental system. This is proven when he uses abstract geometry as the basis of space" >}}
+
+<!-- the said antecedent representation. -->
 
 
-3. Space is no discursive, or as we say, general conception of the relations of things, but a pure intuition. For, in the first place, we can only represent to ourselves one space, and, when we talk of divers spaces, we mean only parts of one and the same space. Moreover, these parts cannot antecede this one all-embracing space, as the component parts from which the aggregate can be made up, but can be cogitated only as existing in it. Space is essentially one, and multiplicity in it, consequently the general notion of spaces, of this or that space, depends solely upon limitations. Hence it follows that an a priori intuition (which is not empirical) lies at the root of all our conceptions of space. Thus, moreover, the principles of geometry—for example, that "in a triangle, two sides together are greater than the third," are never deduced from general conceptions of line and triangle, but from intuition, and this a priori, with apodeictic certainty.
+2. Space then is a necessary withn-the-mind idea.
+
+ <!-- representation a priori, -->
+
+It serves as the foundation of all external intuitions.
+
+We never can imagine the non-existence of space.*
+
+{{< n n="This is alredy possible with point-particles. It is possible to imagine spacelessness. But it is impossible to think of non-identity because doing so with lead to non-existence i.e. the point-particle has identity, but no space" >}}
 
 
-4. Space is represented as an infinite given quantity. Now every conception must indeed be considered as a representation which is contained in an infinite multitude of different possible representations, which, therefore, comprises these under itself; but no conception, as such, can be so conceived, as if it contained within itself an infinite multitude of representations. Nevertheless, space is so conceived of, for all parts of space are equally capable of being produced to infinity. Consequently, the original representation of space is an intuition a priori, and not a conception.
+<!-- though we may easily enough think that no objects are found in it. It must, therefore, be considered as the condition of the possibility of phenomena, and by no means as a determination dependent on them, and is a representation a priori, which necessarily supplies the basis for external phenomena. -->
 
 
-SS 3. Transcendental Exposition of the Conception of Space.
+3. Space is no discursive or general conception of the relations of things, but a pure intuition.
 
-By a transcendental exposition, I mean the explanation of a conception, as a principle, whence can be discerned the possibility of other synthetical a priori cognitions. For this purpose, it is requisite, firstly, that such cognitions do really flow from the given conception; and, secondly, that the said cognitions are only possible under the presupposition of a given mode of explaining this conception.
+For, in the first place, we can only represent to ourselves one space, and, when we talk of divers spaces, we mean only parts of one and the same space. Moreover, these parts cannot antecede this one all-embracing space, as the component parts from which the aggregate can be made up, but can be cogitated only as existing in it.
 
-Geometry is a science which determines the properties of space synthetically, and yet a priori. What, then, must be our representation of space, in order that such a cognition of it may be possible? It must be originally intuition, for from a mere conception, no propositions can be deduced which go out beyond the conception, and yet this happens in geometry. (Introd. V.) But this intuition must be found in the mind a priori, that is, before any perception of objects, consequently must be pure, not empirical, intuition. For geometrical principles are always apodeictic, that is, united with the consciousness of their necessity, as: "Space has only three dimensions." But propositions of this kind cannot be empirical judgements, nor conclusions from them. (Introd. II.) Now, how can an external intuition anterior to objects themselves, and in which our conception of objects can be determined a priori, exist in the human mind? Obviously not otherwise than in so far as it has its seat in the subject only, as the formal capacity of the subject's being affected by objects, and thereby of obtaining immediate representation, that is, intuition; consequently, only as the form of the external sense in general.
+Space is essentially one, and multiplicity in it, consequently the general notion of spaces, of this or that space, depends solely upon limitations. Hence it follows that an a priori intuition (which is not empirical) lies at the root of all our conceptions of space.
 
-Thus it is only by means of our explanation that the possibility of geometry, as a synthetical science a priori, becomes comprehensible. Every mode of explanation which does not show us this possibility, although in appearance it may be similar to ours, can with the utmost certainty be distinguished from it by these marks.
+Thus, moreover, the principles of geometry—for example, that "in a triangle, two sides together are greater than the third," are never deduced from general conceptions of line and triangle, but from intuition, and this a priori, with apodeictic certainty.
 
-SS 4. Conclusions from the foregoing Conceptions.
 
-(a) Space does not represent any property of objects as things in themselves, nor does it represent them in their relations to each other; in other words, space does not represent to us any determination of objects such as attaches to the objects themselves, and would remain, even though all subjective conditions of the intuition were abstracted. For neither absolute nor relative determinations of objects can be intuited prior to the existence of the things to which they belong, and therefore not a priori.
+4. Space is represented as an infinite given quantity. 
 
-(b) Space is nothing else than the form of all phenomena of the external sense, that is, the subjective condition of the sensibility, under which alone external intuition is possible. Now, because the receptivity or capacity of the subject to be affected by objects necessarily antecedes all intuitions of these objects, it is easily understood how the form of all phenomena can be given in the mind previous to all actual perceptions, therefore a priori, and how it, as a pure intuition, in which all objects must be determined, can contain principles of the relations of these objects prior to all experience.
+Every idea is a representation contained in an infinite multitude of different possible representations.
 
-It is therefore from the human point of view only that we can speak of space, extended objects, etc. If we depart from the subjective condition, under which alone we can obtain external intuition, or, in other words, by means of which we are affected by objects, the representation of space has no meaning whatsoever. 
+But an idea cannot have within itself an infinite multitude of representations.
 
-This predicate is only applicable to things in so far as they appear to us, that is, are objects of sensibility. The constant form of this receptivity, which we call sensibility, is a necessary condition of all relations in which objects can be intuited as existing without us, and when abstraction of these objects is made, is a pure intuition, to which we give the name of space. It is clear that we cannot make the special conditions of sensibility into conditions of the possibility of things, but only of the possibility of their existence as far as they are phenomena. 
+<!-- , which, therefore, comprises these under itself; but no conception, as such, can be so conceived, as if it 
 
-And so we may correctly say that space contains all which can appear to us externally, but not all things considered as things in themselves, be they intuited or not, or by whatsoever subject one will. As to the intuitions of other thinking beings, we cannot judge whether they are or are not bound by the same conditions which limit our own intuition, and which for us are universally valid. If we join the limitation of a judgement to the conception of the subject, then the judgement will possess unconditioned validity. For example, the proposition, "All objects are beside each other in space," is valid only under the limitation that these things are taken as objects of our sensuous intuition. But if I join the condition to the conception and say, "All things, as external phenomena, are beside each other in space," then the rule is valid universally, and without any limitation. Our expositions, consequently, teach the reality (i.e., the objective validity) of space in regard of all which can be presented to us externally as object, and at the same time also the ideality of space in regard to objects when they are considered by means of reason as things in themselves, that is, without reference to the constitution of our sensibility. We maintain, therefore, the empirical reality of space in regard to all possible external experience, although we must admit its transcendental ideality; in other words, that it is nothing, so soon as we withdraw the condition upon which the possibility of all experience depends and look upon space as something that belongs to things in themselves.
+contained within itself   -->
 
-But, with the exception of space, there is no representation, subjective and referring to something external to us, which could be called objective a priori. For there are no other subjective representations from which we can deduce synthetical propositions a priori, as we can from the intuition of space. (See SS 3.) Therefore, to speak accurately, no ideality whatever belongs to these, although they agree in this respect with the representation of space, that they belong merely to the subjective nature of the mode of sensuous perception; such a mode, for example, as that of sight, of hearing, and of feeling, by means of the sensations of colour, sound, and heat, but which, because they are only sensations and not intuitions, do not of themselves give us the cognition of any object, least of all, an a priori cognition. My purpose, in the above remark, is merely this: to guard any one against illustrating the asserted ideality of space by examples quite insufficient, for example, by colour, taste, etc.; for these must be contemplated not as properties of things, but only as changes in the subject, changes which may be different in different men. For, in such a case, that which is originally a mere phenomenon, a rose, for example, is taken by the empirical understanding for a thing in itself, though to every different eye, in respect of its colour, it may appear different. On the contrary, the transcendental conception of phenomena in space is a critical admonition, that, in general, nothing which is intuited in space is a thing in itself, and that space is not a form which belongs as a property to things; but that objects are quite unknown to us in themselves, and what we call outward objects, are nothing else but mere representations of our sensibility, whose form is space, but whose real correlate, the thing in itself, is not known by means of these representations, nor ever can be, but respecting which, in experience, no inquiry is ever made.
+Nevertheless, space is so conceived of, for all parts of space are equally capable of being produced to infinity. 
+
+Consequently, the original representation of space is passive-knowing within the mind, not active-knowing.
+
+ <!-- intuition a priori, and not a conception. -->
+
 

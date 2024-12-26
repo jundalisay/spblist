@@ -1,13 +1,15 @@
 ---
 heading: Section 2
-title: "THE DEFINITIVE ARTICLES OF A PERPETUAL PEACE BETWEEN STATES" 
-description: "Vortex Atoms"
-weight: 48
+title: "The Definitive Articles Of A Perpetual Peace" 
+description: "A state of peace among men who live side by side is not the natural state, which is rather to be described as a state of war"
+weight: 8
 image: "/covers/kant.jpg"
 ---
 
 
-A state of peace among men who live side by side is not the natural state (status naturalis), which[p. 118] is rather to be described as a state of war:[116] that is to say, although there is not perhaps always actual open hostility, yet there is a constant threatening that an outbreak may occur. 
+A state of peace among men who live side by side is not the natural state, which is rather to be described as a state of war.
+
+There is no actual open hostility. Yet there is a constant threatening that an outbreak may occur. 
 
 Thus the state of peace must be established.[117] For the mere[p. 119] cessation of hostilities is no guarantee of continued peaceful relations, and unless this guarantee is given by every individual to his neighbour—which can only be done in a state of society regulated by law—one man is at liberty to challenge another and treat him as an enemy.[118]
 

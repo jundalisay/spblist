@@ -1,4 +1,5 @@
 ---
+linkTitle: Book 1
 heading: Book 1
 title: "Transcendental Analytic" 
 description: ""

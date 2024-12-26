@@ -1,5 +1,6 @@
 ---
 heading: Chapter 1
+linkTitle: Schematism
 title: The Schematism at of the Pure Conceptions of the Understanding
 description: "The Application of the Categories Sensory Objects"
 weight: 4

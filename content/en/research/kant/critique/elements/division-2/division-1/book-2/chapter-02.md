@@ -1,5 +1,6 @@
 ---
 heading: Chapter 2
+linkTitle: System
 title: System of all Principles of the Pure Understanding
 description: "The Application of the Categories Sensory Objects"
 weight: 6

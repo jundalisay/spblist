@@ -1,6 +1,6 @@
 ---
-heading: Section 2
-title: The Supreme Principle of all Synthetical Judgements
+heading: Analogy 3
+title: Principle of Coexistence, According to the Law of Reciprocity
 description: "The Application of the Categories Sensory Objects"
 weight: 48
 author: Kant
@@ -8,20 +8,31 @@ image: "/covers/kant.jpg"
 ---
 
 
-
-C. THIRD ANALOGY.
-
-Principle of Coexistence, According to the Law of Reciprocity or Community.
+<!--C. THIRD ANALOGY  Principle of Coexistence, According to the Law of Reciprocity or Community. -->
 
 All substances, in so far as they can be perceived in space at the same time, exist in a state of complete reciprocity of action.
 
-PROOF.
+PROOF
 
-Things are coexistent, when in empirical intuition the perception of the one can follow upon the perception of the other, and vice versa—which cannot occur in the succession of phenomena, as we have shown in the explanation of the second principle.
+Things are coexistent when in sensory passive-knowing the perception of the one can follow the perception of the other, and vice versa.
 
-Thus I can perceive the moon and then the earth, or conversely, first the earth and then the moon; and for the reason that my perceptions of these objects can reciprocally follow each other, I say, they exist contemporaneously. Now coexistence is the existence of the manifold in the same time. But time itself is not an object of perception; and therefore we cannot conclude from the fact that things are placed in the same time, the other fact, that the perception of these things can follow each other reciprocally.
+This cannot occur in the succession of phenomena, as we have shown Principle 2.
 
-The synthesis of the imagination in apprehension would only present to us each of these perceptions as present in the subject when the other is not present, and contrariwise; but would not show that the objects are coexistent, that is to say, that, if the one exists, the other also exists in the same time, and that this is necessarily so, in order that the perceptions may be capable of following each other reciprocally. It follows that a conception of the understanding or category of the reciprocal sequence of the determinations of phenomena (existing, as they do, apart from each other, and yet contemporaneously), is requisite to justify us in saying that the reciprocal succession of perceptions has its foundation in the object, and to enable us to represent coexistence as objective. But that relation of substances in which the one contains determinations the ground of which is in the other substance, is the relation of influence. And, when this influence is reciprocal, it is the relation of community or reciprocity. Consequently the coexistence of substances in space cannot be cognized in experience otherwise than under the precondition of their reciprocal action. This is therefore the condition of the possibility of things themselves as objects of experience.
+I can perceive the moon and then the earth, or conversely, the earth and then the moon.
+
+My perceptions of these exist contemporaneously.
+
+Coexistence is the existence of the manifold in the same time.
+
+But time itself is not an object of perception. 
+
+Therefore, we cannot conclude from the fact that things are placed in the same time, the other fact, that the perception of these things can follow each other reciprocally.
+
+The synthesis of the imagination in apprehension would only present to us each of these perceptions as present in the subject when the other is not present, and contrariwise; but would not show that the objects are coexistent, that is to say, that, if the one exists, the other also exists in the same time, and that this is necessarily so, in order that the perceptions may be capable of following each other reciprocally. 
+
+It follows that a conception of the understanding or category of the reciprocal sequence of the determinations of phenomena (existing, as they do, apart from each other, and yet contemporaneously), is requisite to justify us in saying that the reciprocal succession of perceptions has its foundation in the object, and to enable us to represent coexistence as objective.
+
+But that relation of substances in which the one contains determinations the ground of which is in the other substance, is the relation of influence. And, when this influence is reciprocal, it is the relation of community or reciprocity. Consequently the coexistence of substances in space cannot be cognized in experience otherwise than under the precondition of their reciprocal action. This is therefore the condition of the possibility of things themselves as objects of experience.
 
 Things are coexistent, in so far as they exist in one and the same time. But how can we know that they exist in one and the same time? Only by observing that the order in the synthesis of apprehension of the manifold is arbitrary and a matter of indifference, that is to say, that it can proceed from A, through B, C, D, to E, or contrariwise from E to A. For if they were successive in time (and in the order, let us suppose, which begins with A), it is quite impossible for the apprehension in perception to begin with E and go backwards to A, inasmuch as A belongs to past time and, therefore, cannot be an object of apprehension.
 
