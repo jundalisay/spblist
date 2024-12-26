@@ -81,11 +81,24 @@ In this way:
 - the mismatch between gravity (spatial layer) and quantum mechanics (aethereal layer) is corrected by making the aether the mechanism behind spacetime 
 
 
+In Cartesian Physics, the simultaneity of time becomes a mere convention instead of a principle. It can be used when an engineer needs to measure *passive* time very accurately, such as:
+- in GPS or
+- in experiments comparing twins, one in a space station and another on Earth. 
+
+This is similar to using chopsticks when eating at a Chinese restarurant.
+
+There is no rule that a diner must use chopsticks. It is only done if a diner wants to perfectly match the utensil to the dining experience. 
+
+Likewise, the simultaneity of time is only used for such passive time measurements. This will allow space and time to be arbitrary, allowing the possibility of levitation and teleportation.    
+
+The aether will naturally be discovered when **atom-smashing** fades in popularity because of its high cost and uselessness, and is replaced by **atom-shaking** which can be done with ordinary electronics. 
+
+
 {{< u d="Dec 22, 2024" u="Overhauled the post after drilling down on the simultaneity of time in Part 2, Chapter 9 of Material Superphysics Principles" >}}
 
 
-<!--
-In Cartesian Physics, a natural symmetry, as polarity, arises from 2 forces, positive and negative, going against each other. This creates vortices in each of the 5 Elements (strong, weak, electromagnetism, spacetime, aether). 
+
+<!-- a natural symmetry, as polarity, arises from 2 forces, positive and negative, going against each other. This creates vortices in each of the 5 Elements (strong, weak, electromagnetism, spacetime, aether). 
 
 This natural polarity is also seen by Physics. 
 

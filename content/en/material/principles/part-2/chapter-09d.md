@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 9b"
-title: "Spatial Relationality: Spatial-Radiant"
+title: "Spatial-Radiant Relationality"
 date: 2024-12-19
 weight: 46
 image: /graphics/physics/gr2.jpg

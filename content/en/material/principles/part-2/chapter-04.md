@@ -45,8 +45,10 @@ Physics calls these vortices in the spatial layer of the physical domain as **bl
 
 - In the Newtonian paradigm, these have a material center as a singularity. This is because Newton believed that gravity comes from matter.
 - In the Einstein paradigm, these are based on energy, forming wormholes. This is because Einstein believed that gravity is from the warping of spacetime.  
+- In the spatial stratum of the metaphysical domain, these vortices manifest as chakras.
 
 <!-- The main difference is that their main property is mass, which in Newton's time was defined as the amount of matter in a body. This changed when Einstein came along who equated mass (and electromagnetic mass) with energy. This is why the main property of a black hole in Phsyics is **energy**.  -->
+
 
 However, in Superphysics, a black hole is a spacetime vortex called sos that leads to a tunnel to the aetherspace. Its main properties are:
 
@@ -82,22 +84,14 @@ A galactic sos commonly manifests as galaxies and quasars. These are larger than
 A universal sos is a universe. Our sos is evidenced by the cosmic microwave background radiation. 
 
 
-
-## Vortex Energy Quantity
-
-A sos can have 
-
-
-
-## Vortex Rotation Direction
-
-
+### The Difference Between Stellar and Galactic Vortices
 
 In the 1630's, Descartes described black holes as spinning spacetime vortices which prevented light from going into their center. These were opposed to stars which allowed light to go into the center.
 
-The main reason for the difference is the sheer size of a galaxy's center compared to that of a star.
-
 {{< img src="/graphics/physics/vortex.jpg" alt="Vortex" >}}
+
+
+The main reason for the difference is the sheer size of a galaxy's center compared to that of a star.
 
 - A stellar vortex is small.
   - This allows the surrounding spacetime particles to easily compress and pressure the center. 
@@ -107,11 +101,32 @@ The main reason for the difference is the sheer size of a galaxy's center compar
   - Since particles must travel straight, they go around the circumference instead of going towards the center like straight radii.
   - This makes the light stay outside of the vortex, different from a star where the light stays in the center. 
 
-
 This outside light predicted by Descartes is now seen as the bright accretion disk of a supermassive black hole.
 
 
-In the spatial stratum of the metaphysical domain, these vortices manifest as chakras.
+
+## Vortex Energy Quantity
+
+A sos can have have a lot of energy of low energy. A high energy vortex can manifest as a large spiral galaxy or a spinning pulsar. 
+
+
+{{< i s="/photos/physics/quasar.jpg" a="Vortex" >}}
+
+
+
+## Vortex Rotation Direction
+
+Finally, a vortex can rotate clockwise or anti clockwise. 
+
+Clockwise | Anti clockwise
+--- | ---
+Star | Pulsar
+Galaxy | Quasar
+
+
+{{< i s="/graphics/physics/quasar.jpg" a="Vortex" >}}
+
+
 
 
 ## Vortices as Tunnels

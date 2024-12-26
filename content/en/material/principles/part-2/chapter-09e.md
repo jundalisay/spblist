@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 9c"
-title: "Spatial Relationality: Matter-to-Matter"
+title: "Matter-to-Matter Relationality"
 linkTitle: "Newtonian Gravity"
 # # date: 2020-01-31
 # date: 2023-02-10

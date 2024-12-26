@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 3d"
-title: "Material Gravity: Gravitational Constant"
+heading: "Chapter 3e"
+title: "The Gravitational Constant"
 date: 2024-12-11
-weight: 30
+weight: 17
 image: /graphics/physics/spacetime.jpg
 description: "Newton's Universal Law is based on the idea that the force of gravity comes from matter"
 writer:
@@ -18,7 +18,9 @@ Newton's Universal Law is based on the idea that the force of gravity comes from
 
 This is given by the formula:
 
+```
 F = G (m1 m2)/r^2
+```
 
 We convert this into Material Superphysics:
 

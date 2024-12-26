@@ -18,9 +18,9 @@ Chapter 5 gave 3 qost types. Here, we match them to their gravitational territor
 
 Qost | Concept
 --- | --- 
-Planetary | Equivalence Principle
-Star | Gravitational Field
-Galaxy | Dark Matter 
+Star or Planet | Gravitational Field and Equivalence Principle
+Galaxy |  Dark Matter 
+Universe | Dark Energy
 
 <!-- Planet | Core | Interior | Surface and Lower Atmosphere | Upper Atmosthere
 Star | Inner Part |  -->
