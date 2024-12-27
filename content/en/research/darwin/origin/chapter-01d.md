@@ -1,6 +1,6 @@
 ---
 title: The Breeds of the Domestic Pigeon
-heading: Chapter 1b
+heading: Chapter 1d
 weight: 7
 author: Charles Darwin
 description: "Many treatises in different languages have been published on pigeons."

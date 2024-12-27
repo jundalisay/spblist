@@ -3,7 +3,7 @@ heading: "Chapter 9"
 title: "Spatial Relationality"
 date: 2024-12-19
 weight: 40
-image: /graphics/physics/constant.jpg
+image: /graphics/physics/traf.png
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: /icons/spmat.png
 writer:

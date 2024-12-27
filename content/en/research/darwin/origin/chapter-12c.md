@@ -1,7 +1,7 @@
 ---
 title: The Inhabitants of Oceanic Islands
-heading: Chapter 12b
-weight: 56
+heading: Chapter 12c
+weight: 90
 description: "Several species of the same genus must originally have come from the same source"
 image: "/covers/origin.jpg"
 ---
@@ -91,17 +91,15 @@ might indeed have been expected on the view of the islands having been stocked b
 means of transport--a seed, for instance, of one plant having been brought to one island, and that of
 another plant to another island. 
 
-Hence when in former times an immigrant settled on any one or more of the islands, or when it subsequently spread from one island to another, it would undoubtedly be exposed to different conditions of life in the different islands, for it would have to compete with different sets of organisms: a plant, for instance, would find the best-fitted ground more perfectly occupied by distinct plants in one island than in another, and it would be exposed to the attacks of somewhat different enemies. If then it varied, natural selection would probably favour different varieties in the different islands. Some species, however, might spread and yetretain the same character throughout the group, just as we see on continents some species spreading
-widely and remaining the same.
+Hence when in former times an immigrant settled on any one or more of the islands, or when it subsequently spread from one island to another, it would undoubtedly be exposed to different conditions of life in the different islands, for it would have to compete with different sets of organisms: a plant, for instance, would find the best-fitted ground more perfectly occupied by distinct plants in one island than in another, and it would be exposed to the attacks of somewhat different enemies. 
+
+If then it varied, natural selection would probably favour different varieties in the different islands. Some species, however, might spread and yetretain the same character throughout the group, just as we see on continents some species spreading widely and remaining the same.
 
 The really surprising fact in this case of the Galapagos Archipelago, and in a lesser degree in some
 analogous instances, is that the new species formed in the separate islands have not quickly spread
 to the other islands.
 
-But the islands, though in sight of each other, are separated by deep arms of the sea, in most cases wider than the British Channel, and there is no reason to suppose that they have at any former period been continuously united. The currents of the sea are rapid and sweep across the archipelago, and gales of wind are extraordinarily rare; so that the islands are far more
-effectually separated from each other than they appear to be on a map. Nevertheless a good many
+But the islands, though in sight of each other, are separated by deep arms of the sea, in most cases wider than the British Channel, and there is no reason to suppose that they have at any former period been continuously united. The currents of the sea are rapid and sweep across the archipelago, and gales of wind are extraordinarily rare; so that the islands are far more effectually separated from each other than they appear to be on a map. Nevertheless a good many
 species, both those found in other parts of the world and those confined to the archipelago, are
 common to the several islands, and we may infer from certain facts that these have probably spread
 from some one island to the others. 
-
-

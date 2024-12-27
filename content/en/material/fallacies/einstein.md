@@ -53,6 +53,17 @@ Anti-gravity is needed by sustained nuclear fusion as is done in stars. This is 
 > By pegging time to light, the 2 Elements of spacetime and aether are lost forever
 
 
+The worst damage is the sheer amount of human brainpower wasted trying to build useful theories on top of Relativity.
+
+
+{{< i s="/graphics/physics/einstein.jpg" a="Einstein" >}}
+
+String theory, supersymmentry, loop quantum gravity, smashing atoms to look for axions and wimps, these have drained effort and resources for nothing. 
+
+It's better to have done nothing for 100 years rather than work so hard and waste resources just to achieve the same nothing.
+
+
+
 ### Kant (and Mathematics) is to Blame
 
 But the fallacy of Einstein is really just a follower of Kant, who is the real factory of fallacy. 

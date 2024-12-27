@@ -1,12 +1,10 @@
 ---
 title: Geographical Distribution
 heading: Chapter 11
-# First Meditation
-weight: 56
+weight: 76
 description: "Neither the similarity nor the dissimilarity of the inhabitants of various regions can be accounted for by their climatal and other physical conditions."
 image: "/covers/origin.jpg"
 ---
-
 
 
 <!-- Present distribution cannot be accounted for by differences in physical conditions -- Importance of

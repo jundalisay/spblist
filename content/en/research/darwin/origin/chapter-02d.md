@@ -1,7 +1,7 @@
 ---
 title: The Principle of Divergence of Character
 heading: Chapter 2d
-weight: 15
+weight: 16
 description: "The amount of difference between varieties, when compared with each other or with their parent-species, is much less"
 image: "/covers/origin.jpg"
 ---

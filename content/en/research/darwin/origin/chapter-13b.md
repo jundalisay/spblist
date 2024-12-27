@@ -1,8 +1,7 @@
 ---
 title: The Inhabitants of Oceanic Islands
 heading: Chapter 13b
-# First Meditation
-weight: 82
+weight: 96
 description: "Several species of the same genus must originally have come from the same source"
 image: "/covers/origin.jpg"
 ---

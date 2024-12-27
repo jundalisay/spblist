@@ -1,21 +1,20 @@
 ---
 heading: "Chapter 8"
+linkTitle: "Dark Energy"
 title: "Dark Energy: The Expansion of Space-Time"
 # date: 2023-03-10
 weight: 38
 image: /graphics/physics/expansion.jpg
 description: "Everything is expanding, even your own atoms."
 icon: /icons/spmat.png
-# was 04c
+tags: [ "dark energy" ]
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
-
-
-In 1644, Descartes established a complete theory of gravity, saying that objects revolve around the sun at varying speeds based on their location or distance from the center vortex, represented by the sun. 
+<!-- In 1644, Descartes established a complete theory of gravity, saying that objects revolve around the sun at varying speeds based on their location or distance from the center vortex, represented by the sun. 
 
 {{< i s="/graphics/physics/rotation2.jpg" a="Rotation" >}}
 
@@ -43,37 +42,62 @@ To put icing on the gravity-cake, the DESI telescopes, meant to measure dark ene
 And so in Cartesian Physics, there is no need for either dark matter or dark energy. 
 
 - Dark matter is an effect of the central vortex. 
-- Dark energy is an effect of clusters of vortices relative to each other. 
+- Dark energy is an effect of clusters of vortices relative to each other. ### The Mechanism for Expansion --> 
 
 
-### The Mechanism for Expansion
+In Modern Physics, the expansion of the universe is seen through the red shift measured from distant galaxies. This acts like a doppler effect that shows that those galaxies are moving away.
 
-In Modern Physics, the expansion of the universe is seen through the red shift measured from distant galaxies. This acts like a  doppler effect that shows that those galaxies are moving away.
+The Hubble and James Webb Space Telescopes measure this with a few galaxies. But specialized telescopes such as DESI measure the red shift from many galaxies for a long time.
 
-The Hubble and James Webb Space Telescopes measure this with a few galaxies. But specialized telescopes such as DESI measure the red shift from many galaxies for a long time. 
+This lets them get a bigger data set for the expansion. They found that that the expansion varies and depends on which galaxy cluster you look.
 
-This lets them get a bigger data set for the expansion. They find that that the expansion varies and depends on which galaxy cluster you look.  
+We explain that this is because the mechanism for expansion is in the aethereal layer, the same layer that creates spatial vortices. 
 
-Descartes explained this expansion in the 1630's. 
+The expansion of the universe is dependent on the aethereal mind that observes that universe, being of the same substance as the mechanism of expansion. 
+
+- In the prehistoric period, cavemen looked at the stars and saw no expansion
+- In the age of telescopes, humans looked at the stars and saw expansion. 
+- In the age of space telescopes, humans looked at the stars and saw accelerated expansion.
+
+This matches the expansion of the human mind.
+
+- In the prehistoric period, the human mind was not expanded
+- In the age of telescopes, it started expanding 
+- In the age of space telescopes, it started expanding faster
+
+{{< q a="Descartes" c="Principia Philosophia, Part 2 Article 34" >}}
+The matter which already fills space G cannot successively fill all the spaces between G and E which are infinitely smaller. Some part of that matter must adapt its shape to the countless measures of those spaces. To achieve this, all its innumerable particles must be separated from each other by division. This leads to the division of certain particles of matter into infinity, or indefinitely.
+{{< /q >}}
+
+
+The abstract mind expands by "dividing" and analyzing its perceptions. 
+
+In the physical universe, this means that everything is growing. But this growth is not noticed because everything is growing at the same rate. 
+
+In other words, this means that we are literally physically larger now than a moment ago. We are not able to perceive any change or difference because everything else is also getting larger.
+
+It is only exposed at the edges of galaxies where there is a discrepancy between the galatic territories. This manifests as red shift at the edges of galaxies. 
+
+<!-- Descartes explained this expansion in the 1630's. 
 
 According to him, the universe began when spacetime became divided. These divisions led to diverse vortices that later became galaxies, stars, and planets. 
 
-This division did not stop after those heavenly bodies were created. It still continues every nanosecond, or more properly at every Planck Time. 
+This division did not stop after those heavenly bodies were created. It still continues every nanosecond, or more properly at every Planck Time.  -->
 
 <!-- This now manifests as the expansion of the universe which is revealed by the cosmic red shift. -->
 
 {{< img src="/graphics/physics/expansion.jpg" alt="Expansion of the Universe" cap="Dark Matter and Dark Energy are unnecessary because they are accounted for by properties of spacetime" >}}
 
 
-It means that we are literally physically larger now than a moment ago. We are not able to perceive any change or difference because everything else is also getting larger.
 
-We are only able to detect this size-increase not from our own planets or galaxies, but from the gaps between those galaxies where there is no matter to be increased. Descartes calls them 'superficies' (surfaces), which we rename into 'edges'.
+
+<!-- We are only able to detect this size-increase not from our own planets or galaxies, but from the gaps between those galaxies where there is no matter to be increased. Descartes calls them 'superficies' (surfaces), which we rename into 'edges'. -->
 
 These edges are traversed by photons from galaxies to ours. It is there where the photons are stretched (relative to themselves before they entered those edges or gaps) as to become red shifts. 
 
-These edges draw the territorial boundary of the galaxy (gravitational field to Newtonian Physics). This territory is where the size-increase happens internally as a single unit, independent of other galaxies.
+These edges then draw the gravitational territorial of the galaxy. This territory is where the size-increase happens internally as a single unit, **independent of other galaxies**.
 
-This is similar to the Earth having a gravitational field or territory which keeps the Earth as a single unit. It explains why we and the atmosphere are not flung away by the rotation of the Earth.  
+This is similar to the Earth having a gravitational field or territory which keeps the Earth as a single unit. It explains why we and the atmosphere are not flung away by the rotation of the Earth.
 
 The territory of a galaxy likewise keeps its contents as a single unit, making the size-increase uniform on its stars and matter. 
 
@@ -91,7 +115,6 @@ By processing Descartes' principles, in theory, division-energy can be extracted
 
 This downgrading has metaphysical consequences though. This is why advanced species would predictably rather use the fusion of material hydrogen as their main energy source or base load, and use spacetime-division only as a backup or starter.
 
-
 <!-- In Cartesian Physics, the expansion is accelerating because spacetime is being divided at a constant rate. 
 
 However, the diversity within those divisions is increasing. 
@@ -99,6 +122,3 @@ However, the diversity within those divisions is increasing.
 So it leads to the perception that the expansion is accelerating. 
 
 Note that the accelerated expansion is only through the red shift in the macro scale, and conversely by length contraction by Lorentz Relativity.   -->
-
-
-In addition to the conclusions from Cartesian Physics mentioned earlier, this gives us an additional conclusion: Everything is expanding, even your own atoms.

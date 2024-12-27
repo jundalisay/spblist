@@ -1,6 +1,6 @@
 ---
 title: Extinction
-heading: Chapter 4e
+heading: Chapter 4f
 weight: 26
 description: "Natural selection acts solely through the preservation of variations in some way advantageous"
 image: "/covers/origin.jpg"
@@ -52,24 +52,50 @@ The forms which stand in closest competition with those undergoing modification 
 
 <!-- And we have seen in the chapter on the Struggle for Existence that it is  -->
 
-The most closely-allied forms,--varieties of the same species, and species of the same genus or of related genera,--which, from having nearly the same structure, constitution, and habits, generally come into the severest competition with each other.
+The most closely-allied forms generally have the severest competition with each other. These:
+- are varieties of the same species
+- are species of the same genus or related genera
+- have nearly the same structure, constitution, and habits
 
-Consequently, each new variety or species, during the progress of its formation, will generally press hardest on its nearest kindred, and tend to exterminate them.
+Consequently, each new variety or species, during the progress of its formation, will generally:
+- press hardest on its nearest kindred, and
+- tend to exterminate them.
 
- We see the same process of extermination amongst our domesticated productions, through the selection of improved forms by man. Many curious instances could be given showing how quickly new breeds of cattle, sheep, and other animals, and varieties of flowers, take the place of older and inferior kinds. 
+We see the same process of extermination amongst our domesticated productions, through the selection of improved forms by man. 
 
- In Yorkshire, it is historically known that the ancient black cattle were displaced by the long-horns, and that these 'were swept away by the short-horns' (I quote the words of an agricultural writer) 'as if by some murderous pestilence.'
+New breeds of cattle, sheep, and other animals, and varieties of flowers, quickly take the place of older and inferior kinds.
+
+In Yorkshire, the ancient black cattle were:
+- displaced by the long-horns.
+- swept away by the short-horns as if by some murderous pestilence.
 
 
 ### Divergence of Character
 
-The principle, which I have designated by this term, is of high importance on my theory, and explains, as I believe, several important facts. In the first place, varieties, even strongly-marked ones, though having somewhat of the character of species--as is shown by the hopeless doubts in many cases how to rank them--yet certainly differ from each other far less than do good and distinct species. Nevertheless, according to my view, varieties are species in the process of formation, or are, as I have called them, incipient species.
+<!-- The principle, which I have designated by this term, is of high importance on my theory, and explains, as I believe, several important facts. In the first place,
 
-How, then, does the lesser difference between varieties become augmented into the greater difference between species? That this does habitually happen, we must infer from most of the innumerable species throughout nature presenting well-marked differences; whereas varieties, the supposed prototypes and parents of future well-marked species, present slight and ill-defined differences. 
+Varieties, even strongly-marked ones, though having somewhat of the character of species differ from each other far less than do good and distinct species.
+
+Nevertheless, according to my view,  -->
+
+Varieties are incipient species, as species in the process of formation.
+
+
+How, then, does the lesser difference between varieties become augmented into the greater difference between species? 
+
+That this does habitually happen, we must infer from most of the innumerable species throughout nature presenting well-marked differences; whereas varieties, the supposed prototypes and parents of future well-marked species, present slight and ill-defined differences. 
 
 Mere chance, as we may call it, might cause one variety to differ in some character from its parents, and the offspring of this variety again to differ from its parent in the very same character and in a greater degree; but this alone would never account for so habitual and large an amount of difference as that between varieties of the same species and species of the same genus.
 
-As has always been my practice, let us seek light on this head from our domestic productions. We shall here find something analogous. A fancier is struck by a pigeon having a slightly shorter beak; another fancier is struck by a pigeon having a rather longer beak; and on the acknowledged principle that 'fanciers do not and will not admire a medium standard, but like extremes,' they both go on (as has actually occurred with tumbler-pigeons) choosing and breeding from birds with longer and longer beaks, or with shorter and shorter beaks.
+As has always been my practice, let us seek light on this head from our domestic productions. We shall here find something analogous. 
+
+A fancier is struck by a pigeon having a slightly shorter beak; 
+
+another fancier is struck by a pigeon having a rather longer beak; 
+
+The acknowledged principle is that 'fanciers do not and will not admire a medium standard, but like extremes,' 
+
+they both go on (as has actually occurred with tumbler-pigeons) choosing and breeding from birds with longer and longer beaks, or with shorter and shorter beaks.
 
 An early period one man preferred swifter horses; another stronger and more bulky horses. The early differences would be very slight; in the course of time, from the continued selection of swifter horses by some breeders, and of stronger ones by others, the differences would become greater, and would be noted as forming two sub-breeds; finally, after the lapse of centuries, the sub-breeds would become converted into two well-established and distinct breeds. 
 

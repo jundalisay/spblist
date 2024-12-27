@@ -1,4 +1,5 @@
 ---
+linkTitle: Knowledge
 title: "The Principles Of Human Knowledge"
 heading: "Part 1"
 # date: 2022-01-29

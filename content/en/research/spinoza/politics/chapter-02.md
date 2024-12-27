@@ -13,10 +13,13 @@ weight: 8
 <!-- [Natural Right] -->
 
 
-{{< s v="1" >}} In our Tractatus theologico-politicus we dealt with natural rightl and civil right,2 and in our Ethics we explained what is sin, what is righteousness, what is
-justice, what is injustice,' and what is human freedom.' 
+{{< s v="1" >}} My Tractatus theologico-politicus dealt with natural rightl and civil right.
 
-But to save the readers of this treatise the trouble of consulting other works for things that are most closely concerned with this treatise, I have decided to explain them here once more, presenting logical proof.
+My Ethics explained what is sin, righteousness, justice, injustice, human freedom.
+
+I will explain them here to save you time. 
+
+<!-- But to save the readers of this treatise the trouble of consulting other works for things that are most closely concerned with this treatise, I have decided to explain them here once more, presenting logical proof. -->
 
 <!-- 6 ["State" here translates the latin impenum. (from imperare, "to command"), which ID pnnclpie
 refers to the adlTIlDlstration of civil power In Hobbes It IS often translated as "sovereign" or "sovereignty." but the latter IS preferable, since for both Hobbes and Spmoza the sovereign power IS not a
@@ -33,35 +36,70 @@ I [See TIP 16/526-535.j
 
 {{< s v="2" >}} Any natural thing can be adequately conceived, whether it actually exists or not. 
 
-Therefore, just as the coming into existence of natural things cannot be concluded from their definition, so neither can their perseverance in existing; for their essence in the form of idea is the same after they have begun to exist as it was before they existed. 
+<!-- The  of natural things cannot be concluded from  -->
 
-Therefore, just as their coming into existence cannot follow from their essence, so neither can their perseverance in existing. The same power5 that they need in order to begin to exist, they also need in order to continue to exist.
+Their definitions do not explain:
+- their coming into existence
+- their persistence in existing
 
-Hence it follows that the power of natural things by which they exist, and consequently by which they act, can be no other than the eternal power of God.
+This is because their essential idea is the same before and while existing. 
 
-For if it were some other power, itself created, it would not be able to preserve its own self, and consequently it would not be able to preserve natural things; it would itself stand in need of that same power to persevere in existing as it needed to be created.
+ <!-- so neither can their perseverance in existing; for their essence in the form of idea is the same after they have begun to exist as it was before they existed.  -->
+
+Therefore, their coming into existence and persistence cannot follow from their essence.
+
+ <!-- so neither can their perseverance in existing.  -->
+
+The same power they need to begin to exist, they also need to continue to exist.
+
+Hence God's eternal power is the cause of natural things to exist and act. 
+
+ <!-- by which they exist, and consequently by which they act, can be no other than the  of . -->
+
+Any other power would not be able to preserve its own self.
+
+<!-- For if it were some other power, itself created, it , and consequently it would not be able to preserve natural things; it would itself stand in need of that same power to persevere in existing as it needed to be created. -->
 
 
-{{< s v="3" >}} So from the fact that the power of natural things by which they exist and act is the very power of God, we can readily understand what is the right of Nature. 
+{{< s v="3" >}} We can understand the right of Nature from the power of God.
 
-Since God has right over all things, and God's right is nothing other than God's power insofar as that is considered as absolutely free, it follows that every natural thing has as much right from Nature as it has power to exist and to acl For the power of every natural thing by which it exists and acts is nothing other than the power of God, which is absolutely free.
+<!-- So from the fact that the power of natural things by which they exist and act is the very power of God, we can readily -->
 
-{{< s v="4" >}} By the right of Nature, then, I understand the laws or rules of Nature in accordance with which all things come to be; that is, the very power of Nature. 
+God has right over all things.
 
-So the natural right of Nature as a whole, and consequently the natural right of every individual, is coextensive with its power. 6 
+God's right is nothing other than God's power insofar as that is considered as absolutely free.
 
-Consequently, whatever each man does from the laws of his own nature, he does by the sovereign right of Nature, and he has as much right over Nature as his power extends.
+It follows that every natural thing has as much right from Nature as it has power to exist and to act.
+
+For the power of every natural thing by which it exists and acts is nothing other than the power of God, which is absolutely free.
 
 
-{{< s v="5" >}} So if human nature were so constituted that men lived only as reason prescribes and attempted nothing other than that, then the right of Nature, insofar as that is considered as specific to man , would be determined solely by the power of reason.'
+{{< s v="4" >}} The right of Nature is the laws of Nature that allows things to exist. It is the very power of Nature. 
 
-But men are led by blind desire more than by reason, and therefore their natural power or right must be defined not by reason but by any appetite by which they may be determined to act and by which they try to preserve themselves. 
+<!-- in accordance with which all things come to be; that is, the  -->
+
+So the natural right of Nature and the natural right of every individual is coextensive with its power. 6 
+
+Consequently, whatever each man does from the laws of his own nature, he does by the sovereign right of Nature.
+- He has as much right over Nature as his power extends.
+
+
+{{< s v="5" >}} So if human nature were so constituted that men lived only as reason prescribes and attempted nothing other than that, then the right of Nature, insofar as that is considered as specific to man , would be determined solely by the power of reason.
+
+But men are led by blind desire more than by reason.
+
+Therefore their natural power or right must be defined not by reason but by appetite.
+- This appetite drives them to act and preserve themselves. 
 
 I do indeed admit that in the case of those desires that do not arise from reason, men are not so much active as passive. 
 
 But since we are here discussing the universal power or right of Nature, we cannot acknowledge any difference between desires that are engendered in us by reason and those arising from other causes. 
 
-For in both cases they are the effects of Nature, explicating the natural force whereby man strives to persist in his own being.8 
+For in both cases they are the effects of Nature.
+
+ explicating the natural force whereby man strives to persist in his own being ignorant, he is a part of Nature, and everything whereby a man is determined to act should be referred to the power of Nature insofar as this power is expressed through the nature of this or that man.
+
+For whether a man is led by reason or solely by desire, he does nothing that is not in accordance with the laws and rules of Nature, that is (Section 4 of this Chapter), he acts by the right of Nature.
 
 <!-- Whether a man be wise or
 , [potenfla.] -->
@@ -75,16 +113,22 @@ cj" 1, 7).]
 [in suo esse" The conatus, or dnve for self-preservation, IS the actual essence of the human mdivldual, accordmg to E3 P7, and the source of both acbon and passion (E5P4Schol) 1  -->
 
 
-ignorant, he is a part of Nature, and everything whereby a man is determined to act should be referred to the power of Nature insofar as this power is expressed through the nature of this or that man. For whether a man is led by reason or solely by desire, he does nothing that is not in accordance with the laws and rules ofNature, that is (Section 4 of this Chapter), he acts by the right of Nature.
 
+{{< s v="6" >}} Yet most people believe that the ignorant violate the order of Nature rather than conform to it.
 
-{{< s v="6" >}} Yet most people believe that the ignorant violate the order of Nature rather than conform to it; they think of men in Nature as a state within a state. 
+ <!-- in Nature as -->
+They think of wild men are a state within a state. 
 
-They hold that the human mind is not produced by natural causes but is directly created by God and is so independent of other things that it has an absolute power9 to determine itself and to use reason in a correct way.
+They believe that the human mind:
+- is not produced by natural causes.
+- is directly created by God
+- is so independent of other things that it has an absolute power9 to determine itself and to use reason in a correct way.
 
 But experience teaches us only too well that it is no more in our power to have a sound mind than to have a sound body. 
 
-Again, since each thing, as far as in it lies, endeavours to preserve its own being, we cannot have the slightest doubt that, if it were equally in our power to live at reason's behest as to be led by blind desire, all would be led by reason and would order their lives wisely, which is by no means the case. 
+Each thing endeavours to preserve its own being.
+
+If it were equally in our power to live at reason's behest as to be led by blind desire, all would be led by reason and would order their lives wisely, which is by no means the case. 
 
 For everyone is drawn by his own pleasure. Nor do theologians remove this difficulty by mainta ining that the cause of this weakness in human nature is the vice or sin whose origin was the fall of our first parent.
 
@@ -105,7 +149,7 @@ was subject to passions.
 
 {{< s v="7" >}} Man, like other individual things, endeavours to preserve his own being as far as in him lies. 
 
-For if there could here be any possible difference, it would have to arise from man's having a free will. Yet the more free we conceived man to be, the more we were compelled to maintain that he must necessarily preserve himself and be of sound mind, as will readily be granted
+For if there could here be any possible difference, it would have to arise from man's having a free will. Yet the more free we conceived man to be, the more we were compelled to maintain that he must necessarily preserve himself and be of sound mind, as will readily be granted by everyone who does not confuse freedom with contingency. 
 
 <!-- 9 [potestatem. I
 1
@@ -114,8 +158,6 @@ II [On belief In tbe Devil and Spinoza's rel ection of it, see fCV2/ZS. For more
 see E4P68Schol; ITP4/430-431, Ep19.1  -->
 
 
-by everyone who does not confuse freedom with contingency. 
-
 Freedom is virtue or perfection.
  
 
@@ -123,7 +165,8 @@ So anything that signifies weakness in man cannot be referred to his freedom.
 
 Therefore a man can certainly not be called free on the grounds that he is able not to exist, or that he is able not to use his reason; he can be called free only insofar as he has the powerl2 to exist and to act in accordance with the laws of human nature. 
 
-So the more free we consider a man to be, the less we can say that he is able not to use his reason and to choose evil before good; and so God, who exists, understands, and acts with absolute freedom, also exists, understands, and acts necessarily, that is, from the necessity of his own nature. For there is no doubt that God acts with the same freedom with which he exists.
+So the more free we consider a man to be, the less we can say that he is able not to use his reason and to choose evil before good; and so God, who exists, understands, and acts with absolute freedom, also exists, understands, and acts necessarily, that is, from the necessity of his own nature. 
+
+For there is no doubt that God acts with the same freedom with which he exists.
 
 Therefore, as he exists from the necessity of his own nature, so he also acts from the necessity of his own nature; that is, he acts from absolute freedom.
-

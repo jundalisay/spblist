@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "Introduction"
+title: "The Need for Laws"
 image: "/covers/politics.jpg"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
@@ -140,17 +140,28 @@ But at the same time, the path taught by reason is very difficult. Those who bel
 <!--  of
 the poets' golden age or of a fairy tale. -->
 
-{{< s v="6" >}} So if the safety of a state6 is dependent on some man's good faith, and its affairs cannot be properly administered unless those responsible for them are willing to act in good faith, that state will lack all stability. 
+{{< s v="6" >}} A state will be unstable if its safety depends on some man's good faith.
 
-If it is to endure, its government must be so organised that its ministers cannot be induced to betray their trust or to act basely, whether they are guided by reason or by passion. 
+<!-- , and its affairs cannot be properly administered unless those responsible for them are willing to act in good faith, that state will lack all stability.  -->
 
-Nor does it matter for the security of the state what motives induce men to administer its affairs properly, provided that its affairs are in fact properly administered. 
+An enduring state will have its government organised so that its ministers cannot be induced to betray their trust or to act basely, whether they are guided by reason or passion. 
 
-Freedom of spirit or strength of mind is the virtue of a private citizen: the virtue of a state is its security.
+The state does not need to care what motives induce men to administer its affairs properly, provided that its affairs are in fact properly administered.
+
+<!-- Nor does it matter for the security of the state what  -->
 
 
-{{< s v="7" >}} All men, whether barbarian or civilised, enter into relationships with one another and set up some kind of civil order.
+The virtue of:
+- a private citizen: is freedom of spirit or strength of mind
+- a state is its security
 
-One should not look for the causes and natural foundations of the state in the teachings of reason, but deduce them from the nature and condition of men in general. 
+
+{{< s v="7" >}} All men, whether barbarian or civilised, enter into relationships with each other and set up some kind of civil order.
+
+The causes of the state are not found in reason.
+- They are deduced from the nature and condition of men in general.
+
+<!-- One should not look for the causes and natural foundations of the state in the teachings of reason, but deduce them  -->
+
 
 <!-- This I propose to do in the next chapter.  -->

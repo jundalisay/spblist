@@ -1,7 +1,7 @@
 ---
 title: Epidemics as a Check
 heading: Chapter 3c
-weight: 19
+weight: 21
 author: Charles Darwin
 description: "When a species increases inordinately in numbers in a small tract due to highly favourable circumstances, epidemics often ensue"
 image: "/covers/origin.jpg"

@@ -82,10 +82,15 @@ This is even if we know well they never did so arise, we will still better expla
 
 #### 46. What I assume here to explain all phenomena
 
-All the bodies in the world are composed of one and the same matter, divisible into any parts, and already in fact divided into many, which move in various ways and have some sort of circular motions, and always maintain the same quantity of motion in the universe. 
+All the bodies in the world are composed of one and the same matter.
 
+It is divisible into any particles, and already divided into many.
+
+These move in various ways and have some sort of circular motions, always maintaining the same quantity of motion in the universe. 
+
+ <!-- of matter -->
 But reason alone cannot determine:
-- how large these parts of matter are
+- how large these particles are
 - how quickly they move
 - what kind of circles they describe
 

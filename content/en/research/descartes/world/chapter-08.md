@@ -27,7 +27,7 @@ Aethereal Universe |  God is constantly dividing the aether as vortices to creat
 ## The Expansion of the Universe (No Big Bang)
 
 
-God put inequality and confusion among the particles of the aether at the beginning following the laws He imposed on Nature. 
+God put inequality and confusion among the particles of the aether at the beginning following the laws He imposed on Nature.
 
 Gradually, those particles became the air-aether when they were reduced to:
 - one size, and
@@ -42,7 +42,6 @@ The act of moving or dividing the pure aether was first imposed on some parts of
 However, this equality of division could not be perfect because the division could not spread in a straight line since there was no void.
 
 Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion. 
-
 
 <!-- Before it was moved by God, the hardest and most solid body in the world*.  -->
 <!-- For to consider this matter in the state in which it could have been before God began to move it, one should imagine it as -->  
@@ -84,7 +83,7 @@ These created the largest circles.
 
 <!-- These had to describe the greatest circles, i.e. the circles most approaching a straight line.  -->
 
-The aether contained in between three or more of these circles were at first much less divided and less agitated than all the other. 
+The aether contained in between 3 or more of these circles were at first much less divided and less agitated than all the other. 
 
 At the beginning, God placed every sort of inequality among these particles. 
 - They had all sorts of sizes, shapes, and dispositions to move or not to move, in all ways and in all directions.
@@ -128,9 +127,6 @@ But this does not apply to the particles that were much larger.
 These became the earth-aether which make up the planets and the comets.
 
 <!-- Thus, they have retained the form of the aethereal earth which composed . -->
-
-
-
 
 
 <!-- 

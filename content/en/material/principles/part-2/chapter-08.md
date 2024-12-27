@@ -15,12 +15,13 @@ draft: true
 
 The chapter on sosts and qosts epxlained the concept of clockwise and anticlockwise vortices. 
 
-Here we cexpplain high and low pressure that cause gravity.  
+Here we explain high and low pressure that causes spatial phenomena such as gravity.  
 
-High Low Presure
+<!-- High Low Presure
 
 Coriolis Force
 
 
 Bernoulli effect 
 
+ -->

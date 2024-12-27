@@ -9,13 +9,28 @@ author: "Lucien Poincare"
 
 
 
-New and valuable information is thus afforded us regarding the properties of the ether, but will this enable us to construct a material representation of this medium which fills the universe, and so to solve a problem which has baffled, as we have seen, the prolonged efforts of our predecessors?
+We now have new and valuable information on the properties of the ether.
 
-Certain scholars seem to have cherished this hope. Dr. Larmor in particular, as we have seen, has proposed a most ingenious image, but one which is manifestly insufficient. 
+But will this enable us to construct a material representation of this medium which fills the universe?
 
-The present tendency of physicists rather tends to the opposite view; since they consider matter as a very complex object, regarding which we wrongly imagine ourselves to be well informed because we are so much accustomed to it, and its singular properties end by seeming natural to us. But in all probability the ether is, in its objective reality, much more simple, and has a better right to be considered as fundamental.
+<!-- , and so to solve a problem which has baffled, as we have seen, the prolonged efforts of our predecessors? -->
 
-We cannot therefore, without being very illogical, define the ether by material properties, and it is useless labour, condemned beforehand to sterility, to endeavour to determine it by other qualities than those of which experiment gives us direct and exact knowledge.
+<!-- Certain scholars seem to have cherished this hope.  -->
+
+Dr. Larmor has proposed a most ingenious but insufficient image. 
+
+Modern physicists tend to the opposite view.
+
+They consider matter as a very complex object.
+
+<!-- , regarding which we wrongly imagine ourselves to be well informed because we are so much accustomed to it, and its singular properties end by seeming natural to us.  -->
+
+But in all probability the ether is, in its objective reality, much more simple, and has a better right to be considered as fundamental.
+
+<!-- without being very illogical, -->
+Therefore, we cannot define the ether by material properties.
+
+<!--  and it is useless labour, condemned beforehand to sterility, to endeavour to determine it by other qualities than those of which experiment gives us direct and exact knowledge. -->
 
 The ether is defined when we know, in all its points, and in magnitude and in direction, the two fields, electric and magnetic, which may exist in it. 
 

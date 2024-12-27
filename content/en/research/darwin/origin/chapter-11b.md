@@ -1,8 +1,7 @@
 ---
 title: Geographical Distribution
 heading: Chapter 11b
-# First Meditation
-weight: 56
+weight: 77
 description: "Several species of the same genus must originally have come from the same source"
 image: "/covers/origin.jpg"
 ---

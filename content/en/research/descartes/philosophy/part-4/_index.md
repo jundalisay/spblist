@@ -1,4 +1,5 @@
 ---
+linkTitle: Earth
 title: "The Principles of the Earth"
 heading: "Part 4"
 # date: 2022-01-29

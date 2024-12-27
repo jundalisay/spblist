@@ -1,7 +1,7 @@
 ---
 title: Struggle for Existence
 heading: Chapter 3
-weight: 16
+weight: 17
 description: "Organic beings in a state of nature has some individual variability"
 image: "/covers/origin.jpg"
 ---

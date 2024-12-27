@@ -101,7 +101,7 @@ Fresnel observes that the speed of light:
 - is not constant when it moves through physical media
 
 
-Unlike Huygens who knew the 5 Elements, Fresnel did not know the division of labor of Nature. 
+Unlike Huygens who knew the 5 Elements, **Fresnel did not know the division of labor of Nature**. 
 
 This caused him to assign a drag whenever light moved through media such as glass or water. This was proven through a prism and through the Fizeau experiment that ran light through columns of flowing water. 
 
@@ -138,9 +138,11 @@ But instead of physicists vindicating Descartes, Einstein comes out of nowhere m
 1. The invariance of the speed of light*
 2. Equivalence of gravitational and inertial mass
 
-This is even worse that Newton because it makes the 2nd Element dependent on mass (3rd Element) via light (1st Element).
+This is even worse that Newton because **it makes the 2nd Element dependent on mass (3rd Element) via light (1st Element)**.
 
-This prevents faster-than-light-travel and levitation with far less energy. These can be used to solve so many problems today that are out of reach just because a single Einstein corrupted Physics, putting it in limbo state for 100 years. 
+This prevents faster-than-light-travel and levitation with far less energy. These can be used to solve so many problems today that are out of reach just because a single Einstein corrupted Physics, putting it in limbo state for over 100 years. 
+
+We explain the huge damage that Einstein has caused [here](/material/fallacies/einstein/).
 
 We fix this with [Cartesian Relationality](/material/fallacies/general-relativity/). 
 

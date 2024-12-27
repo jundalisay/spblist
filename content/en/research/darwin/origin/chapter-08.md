@@ -1,7 +1,6 @@
 ---
 title: Hybridism
 heading: Chapter 8
-# First Meditation
 weight: 52
 description: "Naturalists believe that species, when intercrossed, have been specially endowed with sterility"
 image: "/covers/origin.jpg"

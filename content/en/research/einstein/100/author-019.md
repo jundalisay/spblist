@@ -82,6 +82,8 @@ as is the basic formula, understood in the relativistic sense, for the dependenc
 a moving body on the speed of its movement; this does not affect the question of the justification
 for assuming such a dependency and an insurmountable speed limit, which is based on the
 observation of facts (p. 66).
+
+
 8. The assertion that all simultaneity is to be understood only in relative terms, according to the
 actual content of the relevant statements by Einstein and other relativists, only states that when
 light signals are used to determine the simultaneity of two events, this simultaneity must not be
@@ -92,5 +94,6 @@ Here, contrary to the view of the special RTH, the possibility of different spee
 with (p. 68 f.) And accordingly a "relativity" of simultaneity and thus of time measures in general is
 assumed, which is actually an introduction to the understanding of the special RTH The intended
 relativity of temporal (and spatial) distances proves to be completely unsuitable (p. 69 f.).
+
 9. The special RTH tries to solve a bogus problem. Therefore, with the examination of appearances, it
 must share the fate of the problem of being put aside (p. 76).

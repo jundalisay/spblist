@@ -1,7 +1,7 @@
 ---
 title: Geographical Distribution
 heading: Chapter 12
-weight: 56
+weight: 86
 description: "Several species of the same genus must originally have come from the same source"
 image: "/covers/origin.jpg"
 ---

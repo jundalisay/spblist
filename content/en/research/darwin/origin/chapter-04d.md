@@ -1,8 +1,7 @@
 ---
 title: The Intercrossing of Individuals
 heading: Chapter 4c
-# First Meditation
-weight: 22
+weight: 24
 description: "In the case of animals and plants with separated sexes, two individuals must always unite for each birth"
 image: "/covers/origin.jpg"
 ---

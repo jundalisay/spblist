@@ -1,7 +1,7 @@
 ---
 title: Sexual Selection
 heading: Chapter 4b
-weight: 21
+weight: 22
 author: Charles Darwin
 description: "Peculiarities often appear under domestication in one sex and become hereditarily attached to that sex"
 image: "/covers/origin.jpg"
