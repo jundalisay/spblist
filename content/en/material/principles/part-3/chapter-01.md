@@ -15,9 +15,10 @@ toc: false
 
 The radiant layer is below the spatial layer. It is the energetic part of the universe, facilitating light and heat-energy, spreading them out in space at the speed limit of spacetime (known to physics as the speed of light). 
 
-It manifests as light, heat, magnetism, and electricity.
+It manifests as light, heat, magnetism, and electricity. This is the most useful layer for humans because light furnishes information and colors for us to perceive the physical domain. 
 
-![A lightbulb turned on](/photos/physics/light.jpg)
+{{< i s="/photos/physics/light.jpg" a="A lightbulb turned on" >}}
+
 
 In terms of creation, this layer is the third layer that spreads across the space created by the spacetime layer.
 
@@ -30,15 +31,29 @@ Traditional Name | Fire, Tejas, 火
 Descartes' Name | 1st Element
 Domain | Physical
 Force | Light, Heat
-Medium | Light (mor1), Heat (mor2), Magnetism (mor3)
+Medium | Light (mor1), Magnetism (mor3), Heat (mor3)
 Substance | Electron fluid (electricity)
-Quanta | Electron (qor1)
+Quanta | Electron (qor)
 Aether Content | 3
 Movement | Mostly Kinetic
 Quality | Most striking, conveys information, start of particles
 
 
-Unlike the spacetime layer that has a universal influence, this layer has a limited space to influence which manifests as 'fields' and the 'inverse square law'. 
+
+### Definition and Properties of The Radiant Layer
+
+The Radiant Layer facilitates information and kinetic energy within the spatial layer.
+
+Unlike the aethereal and spatial layers which are purely kinetic, it is has partly kinetic and partly static parts. 
+- The kinetic parts manifest as waves
+- The tatic parts manifest as the non-media particles
+
+Unlike the aethereal and spatial layers which are invisible, the entire radiant layer is detectable by instruments. The latest particle to be detected was the Higgs Boson.
+
+Each particle in the Radiant Layer is made up of 3 aether particles. 
+- Force and matter particles are not interchangeable 
+
+This also follows the inverse square law, like the spatial layer. 
 
 But because it is located at the center of the 5 layer model, it is the basis of gauge symmetries in materialist physics. Examples of gauge symmetries are:
 - Yang Mills
@@ -46,5 +61,7 @@ But because it is located at the center of the 5 layer model, it is the basis of
 - Einstein's General Relativity
 
 
-We assign magnetism to the spatial layer instead of the radiant layer. This unifies magnetism with gravity, allowing Cartesian Relationality on both. 
+Magnetism takes place in the spatial layer just like gravity, but is facilitated by the radiant layer just as gravity is facilitated by the material layer.
+
+This unifies magnetism with gravity, allowing Cartesian Relationality on both. 
 

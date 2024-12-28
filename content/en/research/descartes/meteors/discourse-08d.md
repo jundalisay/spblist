@@ -11,26 +11,39 @@ icon: /icons/descartes.png
 ---
 
 
-Let `AFD` be a drop of water, whose half diameter CD or AB I divide into as many equal parts as I want to calculate rays, in order to attribute as much light to some as to others. 
+Let `AFD` be a drop of water.
+- Its half diameter `CD` or `AB` is divided into as many equal parts as needed to calculate rays that will attribute as much light to some as to others. 
 
 {{< i s="/graphics/physics/fig_77.jpg" a="Water Droplets" >}}
 
+Take ray `EF`.
+- Instead of going straight towards `G`, it turns towards `K` and reflects from `K` towards `N`.
+- From `N` it goes towards the eye `P`
 
-Then I consider one of these rays in particular, for example EF, which instead of going straight towards G, turns towards K, and reflects from K towards N, and from there goes towards the eye P
+Or reflect it from `N` towards `Q`.
+- From there turn towards the eye `R`. 
 
-or else reflects again from N towards Q, and from there turns towards the eye R. 
+Draw `CI` at right angles to `FK`.
 
-having drawn CI at right angles to FK, I know from what has been said in Optics that AE or HF, and CI, have between them the proportion by which the refraction of water is measured. 
+`AE` or `HF` and `CI` have between them the proportion that measures the refraction of water. 
 
-So that if HF contains 8000 parts, such that AB contains 10000, CI will contain about 5984, because the Refraction of water is slightly greater than three to four, and for the most precisely that I have been able to measure it, it is like 187 to 250. 
+If `HF` contains 8,000 parts, then:
+- `AB` contains 10,000
+- `CI` will contain around 5,984
 
-Thus having the two lines HF and CI, I easily know the two arcs, FG which is 73 degrees and 44 minutes, and FK which is 106. 30. 
+This is because the Refraction of water is slightly greater than 3:4, more like 187:250.
 
-Then removing twice the arc FK, from the arc FG added to 180 degrees, I have 40. 44. for the quantity of the angle ONP, because I suppose ON parallel to EF.
+<!-- and for the most precisely that I have been able to measure it, it is .  -->
 
-Removing these 40. 44 from FK, I have 65. 46 for the angle SQR, because I also pose SQ parallel to EF. 
+From the lines `HF` and `CI`, I easily know the 2 arcs:
+- `FG` is 73 degrees and 44 minutes
+- `FK` is 106. 30. 
 
-And calculating in the same way all the other rays parallel to EF, which pass through the divisions of the diameter AB, I compose the following table:
+Remove twice the arc `FK` from the arc `FG` added to 180 degrees. This leaves 40. 44. for the quantity of the angle `ONP` because I suppose `ON` parallel to `EF`.
+
+Removing these `40. 44` from `FK`, I have `65. 46` for the angle `SQR`. This is because I also pose `SQ` parallel to `EF`. 
+
+We calculate in the same way all the other rays parallel to `EF`, which pass through the divisions of the diameter `AB`:
 
 HF | CI | FG | FK | ONP | SQR
 --- | --- | --- | --- | --- | ---
@@ -108,19 +121,27 @@ However, this cannot increase the half diameter of the inner rainbow by more tha
 
 This demonstrates that the refraction of water cannot be much less or greater than I suppose. 
 
-For if it were only a little greater, it would make the half diameter of the inner rainbow less than `41` degrees, instead of which, by common belief, it is given `45` degrees; 
+If it were only a little greater, it would make the half diameter of the inner rainbow less than `41` degrees, instead of which, by common belief, it is given `45` degrees.
 
-If we suppose it small enough to make it really 45, we will find that that of the outer one will not be much more than `45` either, instead of which it appears to the eye to be much larger than that of the inner one.
+If we suppose it small enough to make it really `45`, we will find that that of the outer one will not be much more than `45` either, instead of which it appears to the eye to be much larger than that of the inner one.
 
 Maurolycus was the first to have determined one of `45` degrees. He determines the other to be about `56`. 
 
-This shows the little faith that should be added to observations that are not accompanied by true reason.
+**This shows the little faith that should be added to observations that are not accompanied by true reason.**
+
 
 Red is outside in the inner rainbow and inside in the outer one.
 
 This is based on the same cause for which it appears towards `F`, rather than towards `H`, through the `MNP` prism. 
 
-If the eyes is on white linen `FGH` looking at this crystal, he will see red towards its thicker part `MP`, and blue towards `N`. This is because the red-tinted ray that goes to `F` comes from `C`, the part of the sun most advanced towards `MP`. 
+{{< i s="/graphics/physics/prism.jpg" a="Colors" >}}
+
+
+If the eyes is on white linen `FGH` looking at this crystal, he will see:
+- red towards its thicker part `MP`
+- blue towards `N`
+
+This is because the red-tinted ray that goes to `F` comes from `C`, the part of the sun most advanced towards `MP`. 
 
 This means that the thicker center of the raindrops are:
 - outside with respect to the colored points that form the inner rainbow. 

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 9b"
+heading: "Chapter 9d"
 title: "Spatial-Radiant Relationality"
 date: 2024-12-19
 weight: 46

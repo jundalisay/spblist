@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8"
+heading: "Chapter 7c"
 linkTitle: "Dark Energy"
 title: "Dark Energy: The Expansion of Space-Time"
 # date: 2023-03-10
@@ -7,7 +7,7 @@ weight: 38
 image: /graphics/physics/expansion.jpg
 description: "Everything is expanding, even your own atoms."
 icon: /icons/spmat.png
-tags: [ "dark energy" ]
+tags: [ "Dark Energy" ]
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -99,7 +99,10 @@ These edges then draw the gravitational territorial of the galaxy. This territor
 
 This is similar to the Earth having a gravitational field or territory which keeps the Earth as a single unit. It explains why we and the atmosphere are not flung away by the rotation of the Earth.
 
-The territory of a galaxy likewise keeps its contents as a single unit, making the size-increase uniform on its stars and matter. 
+The territory of a galaxy likewise keeps its contents as a single unit, making the size-increase uniform on its stars and matter.
+
+
+### The Division of Spacetime
 
 Descartes assures us that the rate of division of spacetime is also uniform everywhere in the universe. This then leads to the constant speed of light which travels on that spacetime. 
 

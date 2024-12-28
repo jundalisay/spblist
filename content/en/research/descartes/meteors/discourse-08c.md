@@ -12,14 +12,12 @@ icon: /icons/descartes.png
 
 
 To better understand this, imagine that the ball `1234` is pushed from `V` to `X` in a straight line.
+- Its two sides `1` and `3` descend equally quickly to the surface of the prism `YY`.
+- `3` makes contact with the prism first. This delays its movement while `1` continues.
+
+This makes the ball roll as `1432`.
 
 {{< i s="/graphics/physics/colors.jpg" a="Colors as Rotation" >}}
-
-Its two sides `1` and `3` descend equally quickly to the surface of the prism `YY`.
-
-`3` makes contact with the prism first. This delays its movement while `1` continues.
-
-This makes the ball roll as `1432`
 
 <!-- is because the whole ball infallibly begins to spin in the order of the numbers `123`. -->
 
@@ -50,26 +48,40 @@ In such a case:
 
 This explains the action of the blue `EH` ray.
 
+{{< i s="/graphics/physics/prism.jpg" a="Colors" >}}
+
 This ball `1234` is very round. 
 
-It can easily happen that when it is pressed a little hard by the two `R` and `T`, it goes rotating in another direction instead of stopping its rotation.
+When it is pressed a little hard by the two `R` and `T`, it goes rotating in another direction instead of stopping its rotation.
 
  <!-- back into pirouetting around the axis `42`,  at their occasion. -->
 
-Thus, in changing in a moment of situation, it turns afterwards following the order of the numbers `321`  because the two `R` and `T` which have made it start to turn away, force it to continue until it has completed a half turn in this direction, and that they can increase its rotation, instead of delaying it. 
+Thus, in changing in a moment of situation, it turns afterwards following the order of the numbers `321` .
+- This is because `R` and `T` makes it start to turn away.
+- They force it to continue until it has completed a half turn in this direction
+- They can increase its rotation, instead of delaying it. 
 
-This has served me to resolve the main of all the difficulties I have had in this matter.
+<!-- This has served me to resolve the main of all the difficulties I have had in this matter. -->
 
-The nature of the colors which appear towards `F` consists only in what the parts of the subtle matter, which transmits the action of light, tend to spin, with more force than to move in a straight line.
+The nature of the colors which appear towards `F` consists only in what the fire-aether tends to spin, with more force than to move in a straight line.
 
-Those which tend to turn much stronger, cause the red color, and those which only tend a little stronger, cause the yellow.
+ <!-- parts of the subtle matter, which transmits the action of light, tend  -->
+- Those which tend to turn much stronger, cause the red color.
+- Those which only tend a little stronger, cause the yellow.
 
 
-On the contrary, the nature of those which are seen towards `H` consists only in what these small parts do not spin as quickly as they are accustomed to when there is no particular cause that prevents them; so that green appears where they do not turn much less quickly, and blue where they turn much less quickly; 
+On the contrary, those which are seen towards `H` these small fire-aether particles not spinning as quickly as they are used to.
 
-And ordinarily at the extremities of this blue there is mixed some incarnate, which giving it liveliness and brilliance, changes it into violet or purple color. 
+ <!-- when there is no cause that prevents them.slower much less quickly -->
 
-This comes without doubt from the fact that the same cause, which is accustomed to delay the rotation of the parts of the subtle matter, being then strong enough to change the position of some, must increase it in those there, while it decreases that of the others.
+- Green appears where they do not turn much slower 
+- Blue where they turn much slower
+
+At the extremities of this blue there is mixed some incarnate which gives it liveliness and brilliance. 
+- It changes it into violet or purple color. 
+
+This is also caused by the delay the rotation of the fire-aether particles which are then strong enough to change the position of some. This increases it in those there, while it decreases the rotation of the others.
+
 
 <!-- In all this reason agrees so perfectly with experience that I do not believe that it is possible, after having well known the one and the other, to doubt that the thing is not as I have just explained it.  -->
 
@@ -90,9 +102,11 @@ There is nothing in the `MNP` prism that can produce colors, other than how it s
 
 White light and shadow or black, with the colors of the iris which have been explained here, suffice to compose all the others. 
 
-I do not agree when the Philosophers say that there are some colors that are true, and others that are only false or apparent.
+I do not agree when the Philosophers say that:
+- some colors are true
+- some are false or apparent.
 
-For all their true nature being only to appear, it seems to me a contradiction, to say that they are false, and that they appear.
+<!-- For all their true nature being only to appear, it seems to me a contradiction, to say that they are false, and that they appear. -->
 
 
 

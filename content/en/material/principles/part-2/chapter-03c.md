@@ -3,7 +3,7 @@ heading: "Chapter 3c"
 title: "The Aetherspace and the 7 Dimensions"
 # date: 2024-07-22
 weight: 14
-image: /graphics/physics/spacetime.jpg
+image: /graphics/physics/aetherspaceall.jpg
 description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
 writer:
   name: Juan

@@ -2,7 +2,7 @@
 heading: "Chapter 9b"
 title: "Radiant-Radiant Relationality"
 date: 2024-12-19
-weight: 42
+weight: 43
 image: /graphics/physics/length.jpg
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: /icons/spmat.png
@@ -37,12 +37,15 @@ This can be visualized by 2 flashlights, both 1 meter, emitting light in empty s
 - Flashlight 2 is moving at half the speed of light
   - This makes it seem that it is trying to catch up with the light that it emitted
 
+
+
 {{< i s="/graphics/physics/length.jpg" a="Length contraction" >}}
 
 This gives an apparent length of 0.866 meters to flashlight 2 
 
+{{< i s="/graphics/physics/light.gif" a="Length contraction" >}}
 
-{{< youtube 9jVyoe8tiCI >}}
+<!-- {{< youtube 9jVyoe8tiCI >}} -->
 
 <!-- A key component of Einstein's Relativity is time dilation and length contraction.
 

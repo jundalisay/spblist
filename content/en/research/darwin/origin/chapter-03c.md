@@ -94,5 +94,7 @@ We began this series by insectivorous birds, and we have ended with them. Not th
 
 Battle within battle must ever be recurring with varying success. 
 
-Yet in the long-run the forces are so nicely balanced, that the face of nature remains uniform for long periods of time, though assuredly the merest trifle would often give the victory to one organic being over another. Nevertheless so profound is our ignorance, and so high our presumption, that we marvel when we hear of the extinction of an organic being; and as we do not see the cause, we invoke cataclysms to desolate the world, or invent laws on the duration of the forms of life!
+Yet in the long-run the forces are so nicely balanced, that the face of nature remains uniform for long periods of time, though assuredly the merest trifle would often give the victory to one organic being over another.
+
+Nevertheless so profound is our ignorance, and so high our presumption, that we marvel when we hear of the extinction of an organic being; and as we do not see the cause, we invoke cataclysms to desolate the world, or invent laws on the duration of the forms of life!
 

@@ -1,5 +1,5 @@
 ---
-title: Slave-making instinct
+title: Instincts Opposed to Natural Selection
 heading: Chapter 7d
 weight: 51
 description: "I will take the case of working or sterile ants"
@@ -7,7 +7,23 @@ image: "/covers/origin.jpg"
 ---
 
 
-I will take the case of working or sterile ants. How the workers have been rendered sterile is a difficulty; but not much greater than that of any other striking modification of structure; for it can be shown that some insects and other articulate animals in a state of nature occasionally become sterile; and if such insects had been social, and it had been profitable to the community that a number should have been annually born capable of work, but incapable of procreation, I can see no very great difficulty in this being effected by natural selection.
+
+Many instincts could be opposed to the theory of natural selection, such as those which:
+- have unknown origin
+- have no intermediate gradations
+- are trifling
+- are almost identically the same in animals so remote in the scale of nature
+  - Here, we cannot account for their similarity by inheritance from a common parent, and must therefore believe that they have been acquired by independent acts of natural selection. 
+
+<!-- I will not here enter on these several cases, but
+will confine myself to one special difficulty, which at first appeared to me insuperable, and actuallyfatal to my whole theory. I allude to -->
+
+
+My example is the neuters or sterile females in insect-communities. These neuters often differ widely in instinct and in structure from both the males and fertile females, and yet, from being sterile, they cannot propagate their kind.
+
+I will take the case of working or sterile ants.
+
+How the workers have been rendered sterile is a difficulty; but not much greater than that of any other striking modification of structure; for it can be shown that some insects and other articulate animals in a state of nature occasionally become sterile; and if such insects had been social, and it had been profitable to the community that a number should have been annually born capable of work, but incapable of procreation, I can see no very great difficulty in this being effected by natural selection.
 
 But I must pass over this preliminary difficulty. The great difficulty lies in the working ants differing widely from both the males and the fertile females in structure, as in the shape of the thorax and in being destitute of wings and sometimes of eyes, and in instinct. As far as instinct alone is concerned, the prodigious difference in this respect between the workers and the perfect females, would have been far better exemplified by the hive- bee. 
 
@@ -20,7 +36,11 @@ This difficulty, though appearing insuperable, is lessened, or, as I believe, di
 
 But we have not as yet touched on the climax of the difficulty; namely, the fact that the neuters of several ants differ, not only from the fertile females and males, but from each other, sometimes to an almost incredible degree, and are thus divided into two or even three castes. The castes, moreover, do not generally graduate into each other, but are perfectly well defined; being as distinct from each other, as are any two species of the same genus, or rather as any two genera of the same family. Thus in Eciton, there are working and soldier neuters, with jaws and instincts extraordinarily different: in Cryptocerus, the workers of one caste alone carry a wonderful sort of shield on their heads, the use of which is quite unknown: in the Mexican Myrmecocystus, the workers of one caste never leave the nest; they are fed by the workers of another caste, and they have an enormously developed abdomen which secretes a sort of honey, supplying the place of that excreted by the aphides, or the domestic cattle as they may be called, which our European ants guard or imprison.
 
-It will indeed be thought that I have an overweening confidence in the principle of natural selection, when I do not admit that such wonderful and well-established facts at once annihilate my theory. In the simpler case of neuter insects all of one caste or of the same kind, which have been rendered by natural selection, as I believe to be quite possible, different from the fertile males and females,--in this case, we may safely conclude from the analogy of ordinary variations, that each successive, slight, profitable modification did not probably at first appear in all the individual neuters in the same nest, but in a few alone; and that by the long-continued selection of the fertile parents which produced most neuters with the profitable modification, all the neuters ultimately came to have the desired character.
+It will indeed be thought that I have an overweening confidence in the principle of natural selection, when I do not admit that such wonderful and well-established facts 
+
+These facts might at once annihilate my theory.
+
+In the simpler case of neuter insects all of one caste or of the same kind, which have been rendered by natural selection, as I believe to be quite possible, different from the fertile males and females,--in this case, we may safely conclude from the analogy of ordinary variations, that each successive, slight, profitable modification did not probably at first appear in all the individual neuters in the same nest, but in a few alone; and that by the long-continued selection of the fertile parents which produced most neuters with the profitable modification, all the neuters ultimately came to have the desired character.
 
 On this view we ought occasionally to find neuter-insects of the same species, in the same nest, presenting gradations of structure; and this we do find, even often, considering how few neuter-insects out of Europe have been carefully examined. Mr. F. Smith has shown how surprisingly the neuters of several British ants differ from each other in size and sometimes in colour; and that the extreme forms can sometimes be perfectly linked together by individuals taken out of the same nest: I have myself compared perfect gradations of this kind. It often happens that the larger or the smaller sized workers are the most numerous; or that both large and small are numerous, with those of an intermediate size scanty in numbers. Formica flava has larger and smaller workers, with some of intermediate size; and, in this species, as Mr. F. Smith has observed, the larger workers have simple eyes (ocelli), which though small can be plainly distinguished, whereas the smaller workers have their ocelli rudimentary. Having carefully dissected several specimens of these workers, I can affirm that the eyes are far more rudimentary in the smaller workers than can be accounted for merely by their proportionally lesser size; and I fully believe, though I dare not assert so positively, that the workers of intermediate size have their ocelli in an exactly intermediate condition.
 
@@ -41,5 +61,24 @@ that the canon in natural history, of 'natura non facit saltum' is applicable to
 corporeal structure, and is plainly explicable on the foregoing views, but is otherwise inexplicable,-
 -all tend to corroborate the theory of natural selection.
 
-This theory is, also, strengthened by some few other facts in regard to instincts; as by that common case of closely allied, but certainly distinct, species, when inhabiting distant parts of the world and living under considerably different conditions of life, yet often retaining nearly the same instincts. For instance, we can understand on the principle of inheritance, how it is that the thrush of South America lines its nest with mud, in the same peculiar manner as does our British thrush: how it is that the male wrens (Troglodytes) of North America, build 'cock-nests,' to roost in, like the males of our distinct Kitty-wrens,--a habit wholly unlike that of any other known bird. Finally, it may not be a logical deduction, but to my imagination it is far more satisfactory to look at such instincts as the young cuckoo ejecting its foster-brothers,--ants making slaves,--the larvae of ichneumonidae feeding within the live bodies of caterpillars,--not as specially endowed or created instincts, but as small consequences of one general law, leading to the advancement of all organic beings, namely, multiply, vary, let the strongest live and the weakest die.
+This theory is also strengthened by other facts about instincts.
+
+as by that common case of closely allied, but certainly distinct, species, when inhabiting distant parts of the world and living under considerably different conditions of life, yet often retaining nearly the same instincts. 
+
+For instance, we can understand on the principle of inheritance, how it is that the thrush of South America lines its nest with mud, in the same peculiar manner as does our British thrush: 
+
+how it is that the male wrens (Troglodytes) of North America, build 'cock-nests,' to roost in, like the males of our distinct Kitty-wrens,--a habit wholly unlike that of any other known bird. 
+
+<!-- Finally, it may not be a logical deduction, but to my imagination it is far more satisfactory to look at such instincts as  -->
+
+Example of instincts that prove natural selection are: 
+- The young cuckoo ejecting its foster-brothers
+- Ants making slaves
+- The larvae of ichneumonidae feeding within the live bodies of caterpillars
+
+<!-- not as specially endowed or created instincts, but as small consequences of one general law,  -->
+
+These lead to the advancement of all organic beings letting the strongest live and the weakest die.
+
+<!-- , namely, multiply, vary, -->
 

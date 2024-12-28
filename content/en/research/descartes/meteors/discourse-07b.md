@@ -1,7 +1,7 @@
 ---
 heading: Discourse 7b
-title: Storms, Lightning, and All the Other Fires that Ignite in the Air
-weight: 36
+title: Thunder, Whirlwinds, and Lightning
+weight: 35
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/meteors.png"
 writer:
@@ -11,72 +11,94 @@ icon: /icons/descartes.png
 ---
 
 
-Finally, lightning can sometimes be converted into a very hard stone, which breaks and shatters everything it encounters, if among these very penetrating exhalations there are a quantity of these others that are greasy and sulfurous especially if there are also coarser ones, similar to this earth that is found at the bottom of rainwater when it is allowed to settle in some vessel. 
+There are usually exhalations [ionized air] mixed among these vapors, which cannot be driven as far as them by the cloud.
 
-Having mixed certain portions of this earth, nitrate, and sulfur, if the fire is put in this composition, a stone is suddenly formed.
+This is because their particles are less solid and have more irregular shapes.
 
-If the cloud opens by the side, as towards G, the lightning being launched sideways, meets the tips of towers or rocks rather than low places, as we see towards H. But even when the cloud breaks from below, there is a reason why lightning falls more on high and eminent places than on others. For if, for example, the cloud B is not more disposed to break in one place than in another, it is certain that it will have to break in the one marked F, because of the resistance of the bell tower that is below.
+They become separated from them by the air's agitation. This is similar to how butter is separated from the buttermilk by beating the cream.
 
-There is also a reason why each clap of thunder is usually followed by a shower of rain, and why when this rain comes very abundantly, it does not thunder much more. 
+In this way, they assemble in various heaps.
+- These float always as high as possible against the cloud.
+- These finally come to be attached to the ropes and masts of the ships, when it finishes descending.
 
-For if the force, with which the upper cloud shakes the lower one by falling on it, is great enough to make it all descend, it is evident that the thunder must cease. 
-
-If it is less, it does not fail to often make several snowflakes fall out of it, which melting in the air make rain.
-
-
-People believe that loud noise, such as bells, or cannons, can reduce the effect of lightning because it helps to dissipate and make the lower cloud fall, by shaking the snow of which it is composed.
-
-As those who are accustomed to traveling in valleys where avalanches are to be feared know enough. 
-
-They even refrain from speaking and coughing when passing there, for fear that the sound of their voice will stir the snow.
-
-But it sometimes lightens without thundering, so in places in the air where there are many exhalations and few vapors, clouds can be formed so thin and light that falling from high enough one on the other they do not hear any thunder, nor excite any storm in the air, notwithstanding that they wrap and join together several exhalations; from which they compose not only these lesser flames which one would say to be stars falling from the sky, or others which traverse it, but also rather large fireballs, which reaching us are like diminutives of lightning.
-
-Even since there are exhalations of several different natures, I do not think it is impossible that the clouds, by pressing them, sometimes compose a material, which according to the color and consistency it will have, seems like milk, or blood, or meat; or else which by burning becomes such that it is taken for iron, or stones; or finally which by corrupting generates some small animals in a short time. 
-
-As we often read among the prodigies that it has rained iron, or blood, or grasshoppers, or similar things.
-
-Without any clouds, the exhalations can be heaped up and ignited by the sole breath of the winds, especially when there are two or more contrary ones that meet.
-
-Without winds and clouds, a subtle and penetrating exhalation made up of salts can insinuate itself into the pores of another which is greasy and sulfurous. This can produce light flames both at the top and bottom of the air, as we see at the top these stars which traverse it.
-
-At the bottom both these burning or will-o'-the-wisps which play there, and these others which stop on certain bodies, such as the hair of children, or the mane of horses, or the tips of pikes which have been rubbed with oil to clean them, or similar things.
+There being ignited by this violent agitation, they compose these fires named Saint Elmo's, which console the sailors, and make them hope for good weather.
 
 
-They can be ignited by:
-- a violent agitation
-- often the mere mixture of two different bodies
+Often, these storms are in their greatest force towards the end.
 
-We see this when we:
-- pour water on lime
-- enclose hay before it is dry
-- and so on. 
+There may be several clouds one above the other, under each of which there are such fires.
 
- <!-- or in an infinite number of other examples that occur every day in Chemistry.  -->
+This is why the ancients, seeing only one, which they called Helen's star, esteemed it of bad omen, as if they had still then waited for the height of the storm.
 
-But all these fires have very little force compared to lightning. 
+Instead of which when they saw two, which they called Castor and Pollux, they took them for a good omen. 
 
-This is because they are composed only of the softest and stickiest parts of the oils; notwithstanding that the liveliest and most penetrating salts also ordinarily concur to produce them. 
+For it was ordinarily the most they saw, except perhaps when the storm was extraordinarily great they saw three, and esteemed them also on this account of bad omen. 
 
-For these do not stop for that among the others, but promptly spread out in the open air after they have ignited them. Instead of which lightning is mainly composed of these liveliest and most penetrating ones, which being very violently pressed and driven by the clouds, carry the others with them to the ground. And those who know how much force and speed the fire of saltpeter and sulfur mixed together has, instead of the greasy part of sulfur being separated from its spirits would have very little; will not find anything doubtful in this.
+However, I have heard our sailors say that they sometimes see 4-5 of them perhaps because:
+- their ships are larger and have more masts than those of the ancients, or
+- they travel where exhalations are more frequent. 
 
-For the duration of the fires that stop or flutter around us, it can be more or less long, according to whether their flame is more or less slow, and their material more or less thick and tight: But for that of the fires which are only seen at the top of the air, it cannot be but very short, because if their material were not very rare, their weight would make them descend. 
+<!-- For finally I can say nothing but by conjecture of what is done in the great seas that I have never seen, and of which I have only very imperfect relations. -->
 
-I find that the Philosophers were right to compare them to this flame, which we see running all the way along the smoke, which comes out of a torch that has just been extinguished, when being approached by another torch it ignites. But I am very astonished that after that they could have imagined that the Comets, and the columns or beams of fire, which are sometimes seen in the sky, were composed of exhalations, for they last incomparably longer.
+## Thunder, whirlwinds, and lightning
+
+There are storms that are accompanied by thunder, whirlwinds, and lightning. 
+
+These are caused by several clouds one being above the other.
+
+Sometimes, the highest descends very suddenly on the lowest.
+
+ <!-- rare -->
+The two clouds `A` and `B` are composed only of very decompressed and extended snow.
+
+There is a hotter air around the upper `A`, than around the lower `B`.
+
+{{< i s="/graphics/physics/cloud.jpg" a="Clouds" >}}
 
 
-And because I have endeavored to curiously explain their production and their nature in another treatise, and that I do not believe that they belong to meteors, any more than earthquakes, and minerals, that many writers heap together there, I will only speak here of certain lights, which appearing at night during a calm and serene time, give idle people the subject of imagining squadrons of phantoms fighting in the air, and to whom they presage the loss or victory of the party they favor, according to whether fear or hope predominates in their fancy.
+The heat of this air can condense and weigh it down little by little.
 
-Even because I have never seen such sights, and I know how the reports of them are usually falsified and augmented by superstition and ignorance, I will be content to touch in a few words all the causes that seem to me capable of producing them.
+It can make the highest of its particles, beginning the first to descend, to beat down or drag with them a quantity of others, which will also fall all together with a great noise on the lower one.
 
-1. There are several clouds in the air, small enough to be taken for so many soldiers.
 
-These fall one on the other, envelop enough exhalations to cause a quantity of small flashes, and throw small fires and maybe also make small noises, by which means these soldiers seem to fight.
+In the Alps in May, I saw snow heated and weighed down by the sun.
+- This created avalanches with the slightest movement of air.
+- They also produced the sound of thunder resounding in the valleys.
+<!-- was enough to make suddenly fall large heaps called . -->
 
-2. There are clouds that, instead of falling one on the other, receive their light from the fires and flashes of some great storm which takes place elsewhere so far away that it cannot be perceived there.
+This is why it thunders more rarely in these regions in winter than in summer. 
 
-3. These clouds, or some other more northern ones from which they receive their light, are so high that the sun's rays reach them. 
+For so much heat does not easily reach the highest clouds then, to dissolve them. 
 
-For if we take heed to the Refractions and Reflections that two or three such clouds can cause, we will find that they do not need to be very high to make such lights appear towards the North, after the hour of twilight has passed; and sometimes also the sun itself, at the time it should be set.
+And why, when during the great heats, after a North wind which lasts very little, one feels again a damp and stifling heat, it is a sign that it will soon follow thunder. 
 
-But this does not seem to belong so much to this discourse as to the following ones, where I have the intention of speaking of all the things that can be seen in the air without being there; after having here finished the explanation of all those that are seen there, in the same way that they are there.
+
+It is a sign that this north wind has passed against the earth and has driven the heat towards the place of the air where the highest clouds form. 
+
+Being then driven away, towards that where the lowest form, by the dilation of the lower air which the hot vapors it contains cause, not only the highest by condensing should descend, but also the lowest remaining very rare, and even being as if raised and repelled by this dilation of the lower air, should resist them in such a way that often they can prevent any part of it from falling to the ground. 
+
+
+This makes a noise which becomes louder from the resonance of the air and the falling snow, than is that of avalanches.
+
+Then note also that from this alone, that the parts of the upper clouds fall all together, or one after the other, or faster, or more slowly;
+
+The lower ones are more or less large, and thick, and resist more or less strongly, all the different sounds of thunder can easily be caused.
+
+For the differences of lightning, whirlwinds, and lightning, they depend only on the nature of the exhalations that are found in the space that is between two clouds, and on the way that the upper falls on the other. 
+
+For if there have been great heats and droughts, so that this space contains a quantity of very subtle exhalations, and very disposed to ignite, the upper cloud cannot be almost so small, nor descend so slowly, that driving away the air which is between it and the lower, it does not make an éclair come out, that is to say, a light flame which dissipates itself at the same time. So that one can then see such lightning without hearing any noise of thunder; And even also sometimes without the clouds being thick enough to be visible.
+
+As on the contrary if there are no exhalations in the air that are proper to ignite, one can hear the noise of thunder without any lightning appearing for that. And when the highest cloud falls only by pieces that follow each other, it causes only lightning and thunder; but when it falls whole and fast enough, it can cause whirlwinds and lightning with it.
+
+
+Its extremities, such as C and D, must lower a little faster than the middle, since the air that is below, having less distance to travel to get out, yields to them more easily, and thus coming to touch the lower cloud, rather than the middle, it encloses a lot of air between them, as we see here towards E; then this air being pressed and driven with great force by this middle of the upper cloud which continues to descend, it must necessarily break the lower one to escape, as we see towards F; or open one of its extremities, as we see towards G.
+
+When it has thus broken this cloud, it descends with great force towards the earth, then rises again in a whirlwind, because it finds resistance on all sides, which prevents it from continuing its movement in a straight line, as fast as its agitation requires.
+
+Thus it composes a whirlwind; which may not be accompanied by lightning or lightning, if there are no exhalations in this air that are proper to ignite; 
+
+But when there are some, they all gather in a heap, and being driven very impetuously with this air towards the earth, they compose lightning. And this lightning can burn clothes and shave hair without harming the body, if these exhalations, which usually have the smell of sulfur, are only greasy and oily, so that they compose a light flame which only attaches to bodies that are easy to burn.
+
+On the contrary, it can break bones without damaging the flesh, or melt the sword without spoiling the scabbard, if these exhalations being very subtle and penetrating, only participate in the nature of volatile salts or strong waters, by which means making no effort against bodies that yield to them, they break and dissolve all those which make them a lot of resistance. As we see strong water dissolve the hardest metals, and do not act against wax.
+
+

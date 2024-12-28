@@ -93,17 +93,3 @@ of natural selection having been economy of wax; that individual swarm which was
 in the secretion of wax, having succeeded best, and having transmitted by inheritance its newly
 acquired economical instinct to new swarms, which in their turn will have had the best chance of
 succeeding in the struggle for existence.
-
-
-Many instincts of very difficult explanation could be opposed to the theory of natural
-selection,--cases, in which we cannot see how an instinct could possibly have originated; cases, in
-which no intermediate gradations are known to exist; cases of instinct of apparently such trifling
-importance, that they could hardly have been acted on by natural selection; cases of instincts almost
-identically the same in animals so remote in the scale of nature, that we cannot account for their
-similarity by inheritance from a common parent, and must therefore believe that they have been
-acquired by independent acts of natural selection. I will not here enter on these several cases, but
-will confine myself to one special difficulty, which at first appeared to me insuperable, and actuallyfatal to my whole theory. I allude to the neuters or sterile females in insect-communities: for these
-neuters often differ widely in instinct and in structure from both the males and fertile females, and
-yet, from being sterile, they cannot propagate their kind.
-
-

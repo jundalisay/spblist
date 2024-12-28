@@ -1,5 +1,5 @@
 ---
-title: The Intercrossing of Individuals
+title: Isolation and Elevation
 heading: Chapter 4e
 weight: 25
 description: "Isolation is important in the production of new species"

@@ -1,11 +1,11 @@
 ---
-title: Variation Under Nature
+title: Variation in the Wild 
 heading: Chapter 5d
 weight: 34
 description: "On the ordinary view of each species being independently created"
 image: "/covers/origin.jpg"
 ---
-
+<!-- secondary sexual characters -->
 
 
 The ordinary view is that each species was independently created.
@@ -21,7 +21,13 @@ The points in which all the species of a genus resemble each other, and in which
 
 On the other hand, the points in which species differ from other species of the same genus, are called specific characters; and as these specific characters have varied and come to differ within the period of the branching off of the species from a common progenitor, it is probable that they should still often be in some degree variable,--at least more variable than those parts of the organisation which have for a very long period remained constant.
 
-In connexion with the present subject, I will make only two other remarks. I think it will be admitted, without my entering on details, that secondary sexual characters are very variable; I think it also will be admitted that species of the same group differ from each other more widely in their secondary sexual characters, than in other parts of their organisation; compare, for instance, the amount of difference between the males of gallinaceous birds, in which secondary sexual characters are strongly displayed, with the amount of difference between their females; and the truth of this proposition will be granted. The cause of the original variability of secondary sexual characters is not manifest; but we can see why these characters should not have been rendered as constant and uniform as other parts of the organisation; for secondary sexual characters have been accumulated by sexual selection, which is less rigid in its action than ordinary selection, as it does not entail death, but only gives fewer offspring to the less favoured males. Whatever the cause may be of the variability of secondary sexual characters, as they are highly variable, sexual selection will have had a wide scope for action, and may thus readily have succeeded in giving to the species of the same group a greater amount of difference in their sexual characters, than in other parts of their structure.
+Secondary sexual characters are very variable.
+
+The species of the same group differ from each other more widely in their secondary sexual characters, than in other parts of their organism.
+
+compare, for instance, the amount of difference between the males of gallinaceous birds, in which secondary sexual characters are strongly displayed, with the amount of difference between their females; and the truth of this proposition will be granted. 
+
+The cause of the original variability of secondary sexual characters is not manifest; but we can see why these characters should not have been rendered as constant and uniform as other parts of the organisation; for secondary sexual characters have been accumulated by sexual selection, which is less rigid in its action than ordinary selection, as it does not entail death, but only gives fewer offspring to the less favoured males. Whatever the cause may be of the variability of secondary sexual characters, as they are highly variable, sexual selection will have had a wide scope for action, and may thus readily have succeeded in giving to the species of the same group a greater amount of difference in their sexual characters, than in other parts of their structure.
 
 It is a remarkable fact, that the secondary sexual differences between the two sexes of the same species are generally displayed in the very same parts of the organisation in which the different species of the same genus differ from each other. Of this fact I will give in illustration two instances, the first which happen to stand on my list; and as the differences in these cases are of a very unusual nature, the relation can hardly be accidental. The same number of joints in the tarsi is a character generally common to very large groups of beetles, but in the Engidae, as Westwood has remarked, the number varies greatly; and the number likewise differs in the two sexes of the same species: again in fossorial hymenoptera, the manner of neuration of the wings is a character of the highest importance, because common to large groups; but in certain genera the neuration differs in the different species, and likewise in the two sexes of the same species. This relation has a clear meaning on my view of the subject: I look at all the species of the same genus as having as certainly descended from the same progenitor, as have the two sexes of any one of the species. Consequently, whatever part of the structure of the common progenitor, or of its early descendants, became variable; variations of this part would it is highly probable, be taken advantage of by natural and sexual selection, in order to fit the several species to their several places in the economy of nature, and likewise to fit the two sexes of the same species to each other, or to fit the males andfemales to different habits of life, or the males to struggle with other males for the possession of the females.
 

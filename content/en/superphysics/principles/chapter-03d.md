@@ -1,10 +1,8 @@
 ---
 heading: "Chapter 3d"
 title: "The Great Loop from Desire to Experience"
-# Desire and the Two Forces
-#, Propelled by Feelings
 date: 2020-01-02
-weight: 12
+weight: 13
 image: /photos/econ/writer.jpg
 description: "Everything in existence is created by the two forces"
 icon: /icons/sp.png

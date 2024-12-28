@@ -1,30 +1,65 @@
 ---
-title: Acclimatisation
+title: Low and High Characters
 heading: Chapter 5c
 weight: 33
 description: "Habit is hereditary with plants"
 image: "/covers/origin.jpg"
 ---
 
+<!-- , as soon as it is rendered superfluous. and saving-->
 
-Natural selection will always succeed in the long run in reducing and saving every part of the organisation, as soon as it is rendered superfluous, without by any means causing some other part to be largely developed in a corresponding degree.
+Natural selection will always succeed in the long run in reducing every part of the organism that is not needed.
+- It does this without affecting other parts in a corresponding degree.
 
-Conversely, natural selection may perfectly well succeed in largely developing any organ, without requiring as a necessary compensation the reduction of some adjoining part.It seems to be a rule, as remarked by Is. Geoffroy St. Hilaire, both in varieties and in species, that when any part or organ is repeated many times in the structure of the same individual (as the vertebrae in snakes, and the stamens in polyandrous flowers) the number is variable; whereas the number of the same part or organ, when it occurs in lesser numbers, is constant. 
+ <!-- it does without causing some other part to be largely developed  -->
 
-He further remarked that multiple parts are also very liable to variation in structure. Inasmuch as this 'vegetative repetition,' to use Prof. Owen's expression, seems to be a sign of low organisation; the foregoing remark seems connected with the very general opinion of naturalists, that beings low in the scale of nature are more variable than those which are higher.
+Conversely, natural selection can develop any large organ, without requiring another part to be reduced. 
 
-Lowness in this case means that the several parts of the organisation have been but little specialised for particular functions; and as long as the same part has to perform diversified work, we can perhaps see why it should remain variable, that is, why natural selection should have preserved or rejected each little deviation of form less carefully than when the part has to serve for one special purpose alone. In the same way that a knife which has to cut all sorts of things may be of almost any shape; whilst a tool for some particular object had better be of some particular shape. Natural selection, it should never be forgotten, can act on each part of each being, solely through and for its advantage.
+ <!-- as a necessary compensation the reduction of some adjoining part. both in varieties and in species -->
 
-Rudimentary parts, it has been stated by some authors, and I believe with truth, are apt to be highly
-variable. We shall have to recur to the general subject of rudimentary and aborted organs; and I
-will here only add that their variability seems to be owing to their uselessness, and therefore to
-natural selection having no power to check deviations in their structure. Thus rudimentary parts are
-left to the free play of the various laws of growth, to the effects of long-continued disuse, and to the
-tendency to reversion.
+Is. Geoffroy St. Hilaire says that the rule  is that when any part or organ is repeated many times in the structure of the same individual the number is variable.
+
+Whereas, the number of the same part or organ, when it occurs in lesser numbers, is constant. 
+
+Examples are the vertebrae in snakes, and the stamens in polyandrous flowers.
+
+He further remarked that multiple parts are also very liable to variation in structure.
+
+Inasmuch as this 'vegetative repetition,' to use Prof. Owen's expression, seems to be a sign of low organisation.
+
+<!-- the foregoing remark seems connected with the very general opinion of  -->
+
+Naturalists believe that beings low in the scale of nature are more variable than the higher ones.
+
+Lowness means that several parts of the organism have little specialization for particular functions.
+
+<!-- and as long as the same part has to perform diversified work, we can perhaps see why it should remain variable, that is, why natural selection should have preserved or rejected each little deviation of form less carefully than when the part has to serve for one special purpose alone. -->
+
+An ordinary knife can cut general shapes.
+
+A specialized knife can cut a specific shape.
+
+Natural selection can act on each part of each being, solely through and for its advantage.
+
+Rudimentary parts tend to be highly variable.
+
+<!-- We shall have to recur to the general subject of rudimentary and aborted organs; and I will here only add that  -->
+
+Their variability seems to be owing to their uselessness.
+
+Therefore natural selection has no power to check deviations in their structure.
+
+Thus rudimentary parts are left to the free play of the various laws of growth, to the effects of long-continued disuse, and to the tendency to reversion.
 
 A part developed in any species in an extraordinary degree or manner, in comparison with the same part in allied species, tends to be highly variable. -- Several years ago I was much struck with a remark, nearly to the above effect, published by Mr. Waterhouse. I infer also from an observation made by Professor Owen, with respect to the length of the arms of the ourang-outang, that he has come to a nearly similar conclusion.
 
-It is hopeless to attempt to convince any one of the truth of this proposition without giving the long array of facts which I have collected, and which cannot possibly be here introduced. I can only state my conviction that it is a rule of high generality. I am aware of several causes of error, but I hope that I have made due allowance for them. It should be understood that the rule by no means applies to any part, however unusually developed, unless it be unusually developed in comparison with the same part in closely allied species. Thus, the bat's wing is a most abnormal structure in the class mammalia; but the rule would not here apply, because there is a whole group of bats having wings; it would apply only if some one species of bat had its wings developed in some remarkable manner in comparison with the other species of the same genus. The rule applies very strongly in the case of secondary sexual characters, when displayed in any unusual manner.
+<!-- It is hopeless to attempt to convince any one of the truth of this proposition without giving the long array of facts which I have collected, and which cannot possibly be here introduced. I can only state my conviction that it is a rule of high generality.  -->
+
+<!-- I am aware of several causes of error, but I hope that I have made due allowance for them. It should be understood that  -->
+
+The rule by no means applies to any part, however unusually developed, unless it be unusually developed in comparison with the same part in closely allied species.
+
+Thus, the bat's wing is a most abnormal structure in the class mammalia; but the rule would not here apply, because there is a whole group of bats having wings; it would apply only if some one species of bat had its wings developed in some remarkable manner in comparison with the other species of the same genus. The rule applies very strongly in the case of secondary sexual characters, when displayed in any unusual manner.
 
 The term, secondary sexual characters, used by Hunter, applies to characters which are attached to one sex, but are not directly connected with the act of reproduction. The rule applies to males and females; but as females more rarely offer remarkable secondary sexual characters, it applies more rarely to them.
 

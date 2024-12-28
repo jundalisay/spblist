@@ -2,7 +2,7 @@
 heading: "Chapter 9"
 title: "Spatial Relationality"
 date: 2024-12-19
-weight: 40
+weight: 42
 image: /graphics/physics/traf.png
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: /icons/spmat.png
@@ -14,10 +14,12 @@ writer:
 
 Spatial Relationality via `G1 : G2` and the 3 layers leads to the following phenomena:
 
+
+ <!-- (This was already explained in Chapter 3e) -->
 Identity 1 | Identity 2 | Phenomena
 --- | --- | --- 
-Matter | Matter  | Material or Planetary Gravity 
-Matter | Radiance | Spectral lines
+Matter | Matter (vortex)  | Planetary Gravity
+Matter | Radiance | Spectral lines and Lensing
 Radiance | Radiance | Lensing
 Galaxy | Radiance  | Dark Matter, Gravitational Waves
 Galaxy | Galaxy  | Dark Energy

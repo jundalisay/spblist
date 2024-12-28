@@ -1,48 +1,88 @@
 ---
 heading: "Chapter 1c"
-title: "The 8 Dimensions"
-date: 2022-06-22
-image: "/photos/psych/binoculars.jpg"
-description: "Superphysics opens up a new course for the future that is impossible with the current science"
+title: "The 3 Operational Divisions"
+date: 2024-12-28
+# 2020-01-04
 weight: 4
+image: /graphics/meta/divisions.jpg
+description: "Reality has 3 Operational Divisions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
-icontext: Superphysics icon
 ---
 
 
-Unlike the Minkowski spacetime of Modern Physics which allows only 4 dimensions, the Cartesian View allows a maximum of 8
-dimensions.
+The 2 domains are static divisions of reality, based on immediate perception.
 
-{{< q a="Kepler" c="The Harmony of the World, Introduction" >}}
-By doubling the sides of the first Tetractys, another Pythagorean Tetractys is constructed, of the number 36, the most famous and in all respects the most useful which they possessed, that is the triangle of numbers of which the
-base is the Eightfold.
+For example, you can see your mug with your eyes. But you cannot see the idea of that mug in your mind with your eyes. There is no cloud that pops up on top of your head where you can see how that mug is recreated in your mind.
+
+{{< i s="/photos/objects/mugecon.jpg" a="Mug" c="">}}
+
+
+To have a basis for the actual phenomena that is sequential or made up of  successive perceptions, we create the 3 operational divisions of reality as:
+
+1. Causal
+2. Subtle
+3. Crude
+
+
+{{< i s="/graphics/meta/divisions.jpg" a="3 Operational Divisions" c="">}}
+
+
+{{< q a="Ibn-Khaldun" >}}
+The ability to think has several degrees.
+1. The first degree.. mostly consists of perceptions. 
+2. The experimental intellect
+3. The speculative intellect 
 {{< /q >}}
 
-{{< youtube e7rRQEq9C60 >}}
 
-Dimension | Name | Manifestation
+This is similar to the Freudian:
+
+- Unconscious
+- Subconscious
+- Conscious
+
+However, our difference is that the basis for the divisions are not awareness, but the properties of the 2 Forces of Positive and Negative. 
+- This is the same basis of the 2 domains. 
+
+The interaction of different phenomena take place in 3 divisions based on their affinity with either the Positive or Negative Forces.
+
+
+### Basis for the Groupings of Phenomena
+
+These divisions are the basis for different groups of phenomena:
+
+Division | Phenomena 
+--- | --- 
+Causal | Abstract
+Subtle | Living
+Crude | Non-Living 
+
+Each of these divisions have its own subdivisions made up of 5 parts.
+
+Division | Subdivision 
+--- | --- 
+Causal | 5 Strata
+Subtle | 5 Elements
+Crude | 5 Layers 
+
+- The 5 parts of the causal subdivision is called the 5 Strata
+- The 5 parts of the subtle subdivision is called the 5 Elements, with reference to the Asian 5 Elements
+- The 5 parts of the crude subdivision is called the 5 Layers
+
+
+{{< i s="/graphics/meta/layerstrata.jpg" a="3 Operational Divisions" c="">}}
+
+
+These phenomena and subdivisions will be studied by the different branhces of Superphysics.
+
+
+Subdivision |  Phenomena | Superphysics Branch 
 --- | --- | ---
-1 | Existential | Identity
-2 | Planar | 2-dimensional space
-3 | Spatial | 3-dimensional space
-4 | Temporal | Time
-5 | Lateral | Alternate Realities
-6 | Multiversal | Universes in the Multiverse
-7 | Causal | Ultimate Cause
+5 Strata | Abstract | Social and Spiritual 
+5 Elements | Living | Bio
+5 Layers | Non-Living | Material
 
-The 8 dimensions are based on the spacetime where ideas and experiences are generated. 
-
-This includes the sequence of perceptions. For example, in the Existential, Planar, and Spatial dimensions, the concept of time is just of one moment, as there is no change or gaps in perceptions yet.
-
-Linear time really begins in the Temporal dimension where changes take place. 
-
-Nonlinear time begins in the Lateral dimension where alternate realities take place. In that dimension, switching between
-realities is possible and time becomes less linear. 
-
-An example is a  dream wherein experiences, as scenes, can jump from on to the other randomly. 
-
-In the Multiversal dimension, multiple universes and therefore multiple spacetime exist.
 
