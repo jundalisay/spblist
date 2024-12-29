@@ -1,5 +1,6 @@
 ---
 heading: "Chapter 2"
+linkTitle: Sublayers
 title: "The Upper, Middle, and Lower Spatial Sublayers"
 # date: 2020-01-31
 image: /graphics/physics/disk.jpg

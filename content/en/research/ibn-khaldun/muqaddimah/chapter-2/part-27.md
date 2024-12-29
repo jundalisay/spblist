@@ -11,8 +11,42 @@ writer:
 ---
 
 
+## 26. Arabs can obtain royal authority only using religious coloring, such as prophecy, sainthood, or some great religious event in general
 
-<!-- ## 27. The Arabs are of all nations the one most remote from royal leadership -->
+This is because of their savagery. 
+
+They are the least willing of nations to subordinate themselves to each other, as they are rude, proud, ambitious, and eager to be the leader. 
+
+Their individual aspirations rarely coincide. 
+
+But when there is religion among them through prophecy or sainthood, then they have some restraining influence in themselves. 
+
+The qualities of haughtiness and jealousy leave them. 
+
+It is, then, easy for them to subordinate themselves and to unite as a social organization. 
+
+This is achieved by the common religion they now have.
+
+It causes rudeness and pride to disappear and exercises a restraining influence on their mutual envy and jealousy. 
+
+They become fully united as a social organization and obtain superiority and royal authority when there is a prophet or saint among them. They call on him to:
+- fulfill the commands of God
+- rid them of blameworthy qualities
+- cause them to adopt praiseworthy ones
+- make them concentrate all their strength in order to make the truth prevail
+
+
+The Arabs are the quickest to accept religious truth and right guidance. This is because their natures have been preserved free from distorted habits and uncontaminated by base character qualities. 
+
+The only difficulty lies in the quality of savagery. This is easily taken care of. It is ready to admit good qualities, as it has remained in its first natural state remote from the ugly customs and bad habits.
+
+ <!-- that leave their impress upon the soul.  -->
+
+"Every infant is born in the natural state," as is stated in the tradition that was quoted above.
+
+
+
+## 27. The Arabs are of all nations the one most remote from royal leadership
 
 This is because they are more rooted in desert life than any other nation. They have less need of the products and grain of the hills, because they are used to a tough and hard life. 
 
@@ -76,8 +110,23 @@ Thus, the Bedouins need the cities for the necessities of life by the very natur
 
 They must be active in behalf of their interests and obey them whenever (the latter) ask and demand obedience from them.
 
-When there is a ruler in the city, the submissiveness and obedience of (the Bedouins) is the result of the superiority of the ruler. When there is no ruler in the city, some political leadership and control by some of the inhabitants over the remainder must, of necessity, exist in it. 
+When there is a ruler in the city, the submissiveness and obedience of the Bedouins is the result of the superiority of the ruler.
 
-If not, the civilization of the city would be wiped out. Such a leader makes (the Bedouins) obey him and exert themselves in behalf of his interests. He does so either by persuasion, in that he distributes money among them and lets them have the necessities they need from his city, which enables their civilization to subsist; or, if he has the power to do so, he forces them to obey him, even if he has to cause discord among them so as to get the support of one party, with the help of which he will then be able to overcome the remainder and thus force the others to obey him, since they fear the decay of their civilization as the result of (the unstable situation). 
+When there is no ruler in the city, some political leadership and control by some of the inhabitants over the remainder must, of necessity, exist in it. 
 
-These Bedouins often cannot leave their districts to go to other regions because all of them are already inhabited by other Bedouins who took them away from someone and kept others out. They have, therefore, no hope of survival except by being obedient to the city. Thus, they are of necessity dominated by the urban population.
+If not, the civilization of the city would be wiped out.
+
+Such a leader makes the Bedouins obey him and exert themselves in behalf of his interests.
+
+He does so either:
+- by persuasion or
+  - He distributes money and lets them have the necessities they need from his city which enables their civilization to subsist
+- by forcing them to obey him
+  - He will do this even if he causes discord among them so as to get the support of one party.
+  - He will use that party to overcome the remainder and thus force the others to obey him since they fear their civilization's decay from the instability. 
+
+These Bedouins often cannot leave their districts to go to other regions because all of them are already inhabited by other Bedouins who took them away from someone and kept others out.
+
+So they have no hope of survival except by being obedient to the city.
+
+Thus, they are of necessity dominated by the urban population.

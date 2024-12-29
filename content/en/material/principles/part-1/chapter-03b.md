@@ -63,9 +63,6 @@ Measure or Range | 3rd law  | Worker | 1st Law -->
 {{< youtube eEGJY4F6QKw >}}
 
 
-
-
-
 - The 2nd and 1st law of thermodynamics refer to the external aspects of the wave
 - The 3rd and 0th laws refer to the internal aspects
 

@@ -1,8 +1,9 @@
 art 133-187 for magnetism
 
 
-master links:
+# master links:
 /material/motion Descartes rules of motion
+/material/charges male female
 
 
 

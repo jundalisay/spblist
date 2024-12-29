@@ -6,10 +6,12 @@ weight: 20
 image: /graphics/tokamak.jpg
 description: "Plasma turbulence happens in a fusion reactor"
 icon: /icons/spmat.png
+draft: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
 
 
 Fusion uses high energy plasma to generate heat in order to generate electricity. 

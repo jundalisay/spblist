@@ -25,6 +25,6 @@ W+ Boson | moc2
 Z Boson | moc3   
 
 
-Convertible Bands explains the principles for the Convertible (Weak) Layer. In Physics, this is done by the Feynman diagrams. 
+Convertible Relationality explains how the Convertible Layer changes particles. In Physics, this is done by the Feynman diagrams. 
 
 

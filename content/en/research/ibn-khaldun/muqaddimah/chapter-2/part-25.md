@@ -11,6 +11,30 @@ weight: 34
 ---
 
 
+
+## 24. Arabs can gain control only over flat territory
+
+This is because of their savage nature. They are people who plunder and cause damage. <!-- They plunder whatever they are able to lay their hands on without having to fight or to expose themselves to danger. --> They then retreat to their pastures in the desert. They do not attack or fight except in self-defense.
+
+They bypass every stronghold or locality that is difficult to attack, in favor of an easier enterprise.
+
+Tribes that are protected against the Arabs by inaccessible mountains are safe from their mischief and destructiveness.
+
+The Arabs would not cross hills or undergo hardship and danger in order to get to them.
+
+Flat territory, on the other hand, falls victim to their looting and prey to their appetite whenever they have the opportunity of gaining power over it, when:
+- there is no militia, or
+- the dynasty is weak. 
+
+Then they raid, plunder, and attack that territory repeatedly because it is easily accessible to them.
+
+Eventually, its inhabitants succumb utterly to the Arabs. Then they are pushed around by the Arabs with changes of control and shifts in leadership.
+
+Eventually, their civilization is wiped out. 
+
+<!-- God has power over His creatures. -->
+
+
 ## 25. Places that succumb to the Arabs are quickly ruined
 
 This is because the Arabs are a savage nation. They enjoy savagery because it means freedom from authority<!--  and no subservience to leadership -->. Such a natural disposition negates <!-- is the negation and antithesis of --> civilization. 
@@ -36,21 +60,43 @@ When labor is not appreciated and is done for nothing, the hope for profit vanis
 
 Furthermore, the Arabs are not concerned with laws. They are not concerned to deter people from misdeeds or to protect some against the others. 
 
-They care only for the property that they can take away through looting and imposts. When they have obtained that, they have no interest in anything further, such as taking care of (people), looking after their interests, or forcing them not to commit misdeeds.
+They care only for the property that they can take away through looting and imposts. When they have obtained that, they have no interest in anything further, such as:
+- taking care of people
+- looking after their interests, or
+- forcing them not to commit misdeeds.
 
-They often level fines on property because they want to get some advantage, some tax, or profit out of it. This is their custom.
+They often level fines on property because they want to get some advantage, some tax, or profit out of it. 
+- This is their custom.
 
-It does not help to prevent misdeeds or to deter those who undertake to commit (misdeeds). 
+It does not help to prevent misdeeds or to deter those who undertake to commit misdeeds. 
 
-On the contrary, it increases (misdeeds), because as compared to getting what one wants, the (possible financial) loss (through fines) is insignificant.
+On the contrary, it increases misdeeds because as compared to getting what one wants, the possible financial loss through fines is insignificant.
 
-Under Arab rule, the subjects live as in a state of anarchy, without law. Anarchy destroys mankind and ruins civilization, since the existence of royal authority is a natural quality of man. It alone guarantees their existence and social organization. That was mentioned above at the beginning of the chapter. 142
+Under Arab rule, the subjects live as in a state of anarchy, without law.
 
-Furthermore, (every Arab) is eager to be the leader. Scarcely a one of them would cede his power to another, even to his father, his brother, or the eldest (most important) member of his family. 
+Anarchy destroys mankind and ruins civilization, since the existence of royal authority is a natural quality of man.
 
-That happens only in rare cases and underpressure of considerations of decency. There are numerous authorities and amirs among them. The subjects have to obey many masters in connection with the control of taxation and law. Civilization, thus, decays and is wiped out. 
+Royal authority alone guarantees their existence and social organization. 
 
-'Abd-al-Malik asked one Arab who had come to him on an embassy about al-Hajjaj. He wanted him to praise alHajjaj for his good political leadership (for the benefit of) civilization. But the Arab said= "When I left him, he was acting unjustly all by himself."142a
+<!-- That was mentioned above at the beginning of the chapter. 142 -->
+
+Every Arab is eager to be the leader. 
+
+Scarcely a one of them would cede his power to another, even to his father, his brother, or the eldest most important member of his family. 
+
+That happens only in rare cases and underpressure of considerations of decency. 
+
+There are many authorities and amirs among them.
+
+The subjects have to obey many masters in connection with the control of taxation and law. Civilization, thus, decays and is wiped out. 
+
+'Abd-al-Malik asked one Arab who had come to him on an embassy about al-Hajjaj.
+
+He wanted him to praise alHajjaj for his good political leadership for the benefit of civilization. 
+
+But the Arab said: "When I left him, he was acting unjustly all by himself."
+
+<!-- 142a -->
 
 
 The civilizations that the Arabs took over and conquered always collapsed.
@@ -73,37 +119,3 @@ This is attested by the relics of civilization there, such as:
 - the visible remains of villages and hamlets.
 
 <!-- God inherits the earth and whomever is upon it. He is the best heir.143 -->
-
-
-## 26. Arabs can obtain royal authority only using religious coloring, such as prophecy, sainthood, or some great religious event in general
-
-This is because of their savagery. 
-
-They are the least willing of nations to subordinate themselves to each other, as they are rude, proud, ambitious, and eager to be the leader. 
-
-Their individual aspirations rarely coincide. 
-
-But when there is religion among them through prophecy or sainthood, then they have some restraining influence in themselves. 
-
-The qualities of haughtiness and jealousy leave them. 
-
-It is, then, easy for them to subordinate themselves and to unite as a social organization. 
-
-This is achieved by the common religion they now have.
-
-It causes rudeness and pride to disappear and exercises a restraining influence on their mutual envy and jealousy. 
-
-They become fully united as a social organization and obtain superiority and royal authority when there is a prophet or saint among them. They call on him to:
-- fulfill the commands of God
-- rid them of blameworthy qualities
-- cause them to adopt praiseworthy ones
-- make them concentrate all their strength in order to make the truth prevail
-
-
-The Arabs are the quickest to accept religious truth and right guidance. This is because their natures have been preserved free from distorted habits and uncontaminated by base character qualities. 
-
-The only difficulty lies in the quality of savagery. This is easily taken care of. It is ready to admit good qualities, as it has remained in its first natural state remote from the ugly customs and bad habits.
-
- <!-- that leave their impress upon the soul.  -->
-
-"Every infant is born in the natural state," as is stated in the tradition that was quoted above.

@@ -1,5 +1,6 @@
 ---
 heading: "Chapter 2"
+linkTitle: Sublayers
 title: "The Upper, Middle, Lower Aethereal Sublayers"
 # # date: 2020-11-26
 image: /graphics/super/cartesian.png

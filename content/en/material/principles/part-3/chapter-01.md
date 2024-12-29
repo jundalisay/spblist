@@ -1,6 +1,7 @@
 ---
 title: "The Radiant Layer of Superphysics"
 heading: Chapter 1
+linkTitle: Radiance
 # date: 2020-01-29
 image: /photos/physics/star.jpg
 description: "The radiant layer of Superphysics is equivalent to the electromagentic field in Physics"
@@ -13,7 +14,7 @@ toc: false
 ---
 
 
-The radiant layer is below the spatial layer. It is the energetic part of the universe, facilitating light and heat-energy, spreading them out in space at the speed limit of spacetime (known to physics as the speed of light). 
+The radiant layer is below the spatial layer. It is the energetic part of the universe, facilitating light and heat-energy, spreading them out, "radiating" them, in space at the speed limit of spacetime (known to physics as the speed of light). 
 
 It manifests as light, heat, magnetism, and electricity. This is the most useful layer for humans because light furnishes information and colors for us to perceive the physical domain. 
 

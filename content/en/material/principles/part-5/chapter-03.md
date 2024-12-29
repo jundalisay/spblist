@@ -1,5 +1,6 @@
 ---
 heading: "Chapter 3"
+linkTitle: Media
 title: "The Media of Matter: Contact Forces and Solids, Liquids, and Gases"
 # date: 2023-12-10
 image: /photos/city.jpg
@@ -27,7 +28,7 @@ This leads to the concepts of pressure such as air pressure and hydraulic pressu
 The material forces are:
 
 Force | States | Description 
---- | ---
+--- | --- | ---
 Friction | Solid, Liquid, Gas |  
 Air Resistance or Drag |  | Gas
 Tension | Solid | 

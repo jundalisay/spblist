@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 3"
-title: "The Medium of Radiance (Photons, Heat, Magnetism)"
+linkTitle: Media
+title: "The Media of Radiance: Light, Heat, Magnetism"
 # # date: 2020-01-31
 # date: 2023-03-01
 weight: 8
@@ -99,4 +100,18 @@ Unlike photons, they do not reflect so easily as they are 3-dimensional and have
 This is why the wavelength of light is obvious, whereas those of electrons are not.  
 
 This feature of light gives its abilities in reflection and refraction, making it unique among the 5 Elements.  -->
+
+## Heat
+
+Heat particles or mor3 are the crudest of the radiant forcesas it is able to affect matter directly. This allows them to be easily measureable. 
+
+This is why the mechanics of heat of the Radiance layer is basis for the Laws of Thermodynamics. 
+
+{{< q a="Descartes" >}}
+Heat cannot be produced in a cold object that has no heat. 
+
+The form of “fire,” the quality of “heat,” and the action that “burns” are completely different things from this wood.
+
+Body A cannot move Body B unless Body A itself were also moving. It means that the flame’s body that acts against the wood is composed of small particles*. These move independently of one another with a very fast and violent motion.
+{{< /q >}}
 

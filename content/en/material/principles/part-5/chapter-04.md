@@ -1,5 +1,6 @@
 ---
 heading: "Chapter 4"
+linkTitle: Substance
 title: "The Substance of Matter: Protons"
 # date: 2023-12-10
 image: /photos/physics/neutrino.jpg

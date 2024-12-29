@@ -3,7 +3,7 @@ heading: Chapter 1
 linkTitle: Chapter 1
 title: "The Material Layer of Superphysics"
 # date: 2020-01-27
-image: /photos/objects/engine.jpg
+image: /graphics/physics/periodictable.png
 description: "The material layer is the final layer in the journey of dynamic energy and entropy towards stasis"
 linkTitle: "Material Layer"
 weight: 2
@@ -35,13 +35,17 @@ Quality | Most Crude and Limited Range
 
 An example of a material thing is iron ore.
 
-According to science, iron ore is made of 'elements', specifically as `Fe` which is one of the 118 known elements. 
 
-{{< img src="/graphics/physics/periodictable.png" alt="Periodic Table" >}}
+### Definition of the Material Layer
+
+The material layer is the crudest and least energetic of all the layers. It is totally static. All its movements are facilitated by the upper layers, especially by the radiant and convertible.  
 
 <!-- Instead of elements, Superphysics refers to the 'elements'* as 'versions'. Thus, there are 118 versions of matter which are simply 118 versions of energy in the material layer.  -->
 
 <!-- n n="'Matter' is rooted on 'mother' in Latin, while 'Element' is based on 'rudiment'" -->
+
+
+### The Fulfillment of Creation 
 
 In terms of creation, this layer is the final layer in the journey of dynamic energy and entropy towards stasis and is where mind is at its most dormant state.
 
@@ -52,6 +56,10 @@ Thus, an idea from the Supreme starts as:
 - then it is transformed by the transformative layer into basic versions (elements)
 - then it is hardened into one of the 118 versions in the material layer 
 
+According to science, iron ore is made of 'elements', specifically as `Fe` which is one of the 118 known elements. 
+
+{{< img src="/graphics/physics/periodictable.png" alt="Periodic Table" >}}
+
 
 <!-- Name | Traditional Name | Force | Particle | Quantum
 --- | --- | --- | --- | ---
@@ -61,7 +69,7 @@ Material | Earth | Strong | Gluon | Quantum of matter or Qom -->
 <!-- The conversion from dormant mind into active mind then takes place in stars. In this way, both matter (dormant mind) and life (active mind) come from the explosion of stars as the expression or crossing-over of the metaphysical ideas of the Supreme Entity onto physical reality.  -->
 
 
-We call quarks as qom or quantum of matter, just as we called gravitons as qost or quantum of spacetime. So far, the common fundamental material particles are:
+We call quarks as `qom` or quantum of matter, just as we called gravitons as qost or quantum of spacetime. So far, the common fundamental material particles are:
 
 
 ### Quarks (Qoms)

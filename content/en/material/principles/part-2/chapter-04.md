@@ -1,5 +1,6 @@
 ---
 heading: "Chapter 4"
+linkTitle: Black Holes
 title: "The Substance of Spacetime: Black Holes"
 # date: 2023-11-10
 weight: 20

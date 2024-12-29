@@ -25,7 +25,7 @@ From this, it can naturally be inferred, with proper analogy, how this machine s
 
 #### 11. The muscle for breathing D raises its chest, or lowers its diaphragm. 
 
-The muscle E is its opposite. 
+The muscle `E` is its opposite. 
 
 {{< i s="/graphics/bio/fig_10-10.jpg" a="Muscle" >}}
 

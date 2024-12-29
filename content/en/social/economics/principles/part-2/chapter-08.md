@@ -4,7 +4,7 @@ title: "Industry"
 # date: 2022-03-27
 date: 2022-01-15
 weight: 26
-image: /photos/objects/engine.jpg
+image: /photos/tech/rbe.jpg
 description: "In Book 2, Chapter 5 of the Wealth of Nations, Adam Smith explained the four industries for goods, as the four employments of capitals"
 writer:
   name: Juan

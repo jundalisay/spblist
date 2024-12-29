@@ -1,5 +1,5 @@
 ---
-title: "The vanquished always want to imitate the victor"
+title: "The Vanquished Always Want To Imitate The Victor"
 description: "The soul then adopts the victor's manners and assimilates itself to him. It imitates him"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
@@ -47,54 +47,76 @@ This is proven by the saying: "The common people follow the religion of the rule
 
 <!-- ## 23. A nation that has been defeated and come under the rule of another nation will quickly perish.  -->
 
-## 23. A subjugated nation will quickly perish. 
+## 23. A Subjugated Nation Will Quickly Perish
 
-This is because the apathy that comes over people when they lose control of their own affairs and, through enslavement, become the instrument of others and dependent upon them.  
+This is because apathy comes over people when they lose control of their own affairs.
+- Through enslavement, this apathy becomes the instrument of others to make them dependent.  
+- Hope diminishes and weakens.
 
-Hope diminishes and weakens.
-
-Now, propagation and an increase in civilization (population) take place only as the result of strong hope and of the energy that hope creates in the animal powers (of man). 
-
-When hope and the things it stimulates are gone through apathy, and when group feeling has disappeared under the impact of defeat, civilization decreases and business and other activities stop. With their strength dwindling under the impact of defeat, people become unable to defend themselves. 
-
-They become the victims of anyone who tries to dominate them, and a prey to anyone who has the appetite. It makes no difference whether they have already reached the limit of their royal authority or not.
-
-Here, we possibly learn another secret, namely, that man is a natural leader by virtue of the fact that he has been made a representative (of God on earth). When a leader is deprived of his leadership and prevented from exercising all his powers, he becomes apathetic, even down to such matters as food and drink. This is in the human character. A similar observation may be made with regard to beasts of prey. 
-
-They do not cohabit when they are in human captivity. The group that has lost control of its own affairs thus continues to weaken and to disintegrate until it perishes. Duration be longs to God alone.
-
-This may be illustrated by the Persian nation. In the past, the Persians filled the world with their great numbers. When their military force was annihilated in the days of the Arabs, they were still very numerous. 
-
-It is said that Sa'd (b. Abi Waqqas) counted (the population) beyond Ctesiphon. It numbered 137,000 (individuals), with 37,000 heads of families. 
-
-But when the Persians came under the rule of the Arabs and were made subject to (oppression by) force, they lasted only a short while and were wiped out as if they had never been. One should not think that this was the result of some (specific) persecution or aggression perpetrated against them. 
-
-Islam is known for its justice. 
-
-Such disintegration as befell the Persians is in human nature. It happens when people lose control of their own affairs and become the instrument of someone else.
-
-Therefore, the Negro nations are submissive to slavery because they have little human attributes. Instead, they are quite similar to those of dumb animals. 137
-
-Or, there are those who by accepting slavery hope to obtain high rank or to get money or power. This was the case with the Turks in the East, and with the Galician infidels and European Christians in Spain. Such people are customarily claimed by the dynasty for itself. 
-
-Thus, they are not ashamed to be slaves, because they hope to be chosen for high position by the dynasty. And God knows better.
+But propagation and an increase in civilization (population) takes place only as the result of:
+- strong hope
+- the energy that hope creates in the animal powers (of man). 
 
 
+Civilization decreases and business and other activities stop when:
+- apathy kills the hope and the things it stimulates 
+- the group feeling has disappeared under the impact of defeat
 
-## 24. Arabs can gain control only over flat territory
+<!-- With their strength dwindling under the impact of defeat, people become unable to defend themselves.  -->
 
-This is because of their savage nature. They are people who plunder and cause damage. <!-- They plunder whatever they are able to lay their hands on without having to fight or to expose themselves to danger. --> They then retreat to their pastures in the desert. They do not attack or fight except in self-defense.
+The people become:
+- the victims of anyone who tries to dominate them
+- a prey to anyone who has the appetite
 
-They bypass every stronghold or locality that is difficult to attack, in favor of an easier enterprise. Tribes that are protected against (the Arabs) by inaccessible mountains are safe from their mischief and destructiveness.
+It makes no difference whether they have already reached the limit of their royal authority or not.
 
-The Arabs would not cross hills or undergo hardship and danger in order to get to them.
+<!-- Here, we possibly learn another secret, namely, that  -->
 
-Flat territory, on the other hand, falls victim to their looting and prey to their appetite whenever they (have the opportunity of) gaining power over it, when there is no militia, or when the dynasty is weak. 
+Man is a natural leader by being a representative of God on earth. 
 
-Then they raid, plunder, and attack that territory repeatedly because it is easily (accessible) to them.
+When a leader is deprived of his leadership and prevented from exercising all his powers, he becomes apathetic, even down to such matters as food and drink. 
 
-Eventually, its inhabitants succumb utterly to the Arabs and then they are pushed around by them in accordance with changes of control and shifts in leadership. 
+This is both in the human character and in beasts of prey. 
 
-Eventually, their civilization is wiped out. 
+<!-- A similar observation may be made with regard to beasts .  -->
 
-<!-- God has power over His creatures. -->
+They do not cohabit when they are in human captivity. 
+
+The group that has lost control of its own affairs thus continues to weaken and disintegrate until it perishes.
+- Duration belongs to God alone.
+
+This is shown by Persia.
+- In the past, they filled the world with their great numbers.
+- When their military force was annihilated in the days of the Arabs, they were still very numerous. 
+
+Sa'd (b. Abi Waqqas) counted the population beyond Ctesiphon to be 137,000 individuals, with 37,000 heads of families. 
+
+But when the Persians came under Arab rule, they were oppressed by force.
+
+They lasted only a short while and were wiped out as if they had never existed.
+
+This was not the result of some specific persecution or aggression perpetrated against them. 
+
+**Islam is known for its justice.** 
+
+The disintegration that befell the Persians is in human nature. 
+
+It happens when people lose control of their own affairs and become the instrument of someone else.
+
+Therefore, the Negro nations are submissive to slavery because they have little human attributes. 
+- They are quite similar to those of dumb animals. 
+
+<!-- 137 -->
+
+Or, there are those who hope to obtain high rank or get money or power by accepting slavery.
+
+This was the case with:
+- the Turks in the East
+- the Galician infidels 
+- European Christians in Spain
+
+Such people are customarily claimed by the dynasty for itself. 
+
+They are not ashamed to be slaves because they hope to be chosen for high position by the dynasty. 
+
+<!-- And God knows better. -->

@@ -2,7 +2,7 @@
 heading: Chapter 12
 title: "Element 115"
 # date: 2020-01-27
-image: /photos/objects/engine.jpg
+image: /photos/physics/elec.jpg
 description: "Element 115"
 weight: 40
 writer:

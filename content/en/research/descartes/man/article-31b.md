@@ -18,7 +18,7 @@ writer:
 The pineal gland is composed of a very soft material --  a substance that is not united with the substance of the brain everywhere, but is only attached to it by small arteries.
 
 These arteries have flexible and pliable walls that suspend the gland like a balance.
-- It is influenced by the force of the blood pushed into it by the heartheat.
+- It is influenced by the force of the blood pushed into it by the heartbeat.
 
 <!-- - They are suspended as if on a balance by the force of the blood which the heat of the heart impels into it. -->
 

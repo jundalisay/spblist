@@ -16,15 +16,30 @@ From the description of inanimate bodies and plants, I passed to animals, partic
 
 <!-- But since I had not as yet sufficient knowledge to enable me to treat of these in the same manner as of the rest, that is to say, by deducing effects from their causes, and by showing from what elements and in what manner nature must produce them, I remained satisfied with the supposition that  -->
 
-God formed the body of man wholly like to one of ours, as well in the external shape of the members as in the internal conformation of the organs, of the same matter with that I had described, 
+God formed the body of man wholly like what we have. This includes:
+- the external shape of the members 
+- the internal conformation of the organs
+- the same matter with that I had described
 
-At first, God placed in it no rational soul, nor any other principle, in room of the vegetative or sensitive soul, beyond kindling in the heart one of those fires without light, such as I had already described, and which I thought was not different from the heat in hay that has been heaped together before it is dry, or that which causes fermentation in new wines before they are run clear of the fruit. 
+<!-- to one of ours, as well in  -->
 
-For, when I examined the kind of functions which might, as consequences of this supposition, exist in this body, I found precisely all those which may exist in us independently of all power of thinking, and consequently without being in any measure owing to the soul; 
+At first, God placed in it no rational soul nor any other principle to replace the vegetative or sensitive soul.
+- He merely kindled in the heart one of those lightless fires
 
-in other words, to that part of us which is distinct from the body, and of which it has been said above that the nature distinctively consists in thinking, functions in which the animals void of reason may be said wholly to resemble us; 
+This is not different from:
+- the heat in hay that has been heaped together before it is dry, or
+- the heat which causes fermentation in new wines before they are run clear of the fruit. 
 
-but among which I could not discover any of those that, as dependent on thought alone, belong to us as men, while, on the other hand, I did afterwards discover these as soon as I supposed God to have created a rational soul, and to have annexed it to this body in a particular manner which I described.
+At this point all the functions in the body do not need the power of thinking. Consequently, they are not from the soul.*
+
+{{< n n="This is because Descartes wrongly defined thinking as the power of the human soul, different from the power of reacting which he assigns to the vegetative or sensitive soul. In Superphysics, the latter has only up to the 2 lower chakras active. But humans have the 3rd and 4th chakras active. This leads to the thinking action. The soul of plants, animals, are the same. It is just their physical vehicle has certain limitations which limit each soul" >}}
+
+
+<!-- For, when I examined the kind of functions which might, as consequences of this supposition, exist in this body, I found precisely all those which may exist in us independently of all , and  -->
+
+<!-- in other words, to that part of us which is distinct from the body, and of which it has been said above that the nature distinctively consists in thinking, functions in which the animals void of reason may be said wholly to resemble us; 
+
+but among which I could not discover any of those that, as dependent on thought alone, belong to us as men, while, on the other hand, I did afterwards discover these as soon as I supposed God to have created a rational soul, and to have annexed it to this body in a particular manner which I described. -->
 
 
 ## How does the motion of the heart and arteries work? 
@@ -57,7 +72,9 @@ Nor do we need to seek any other reason for the number of these pellicles beyond
 
 The grand artery and the arterial vein are of much harder and firmer texture than the venous artery and the hollow vein; and that the two last expand before entering the heart, and there form, as it were, two pouches denominated the auricles of the heart, which are composed of a substance similar to that of the heart itself
 
-There is always more warmth in the heart than in any other part of the body, and finally, that this heat is capable of causing any drop of blood that passes into the cavities rapidly to expand and dilate, just as all liquors do when allowed to fall drop by drop into a highly heated vessel.
+There is always more warmth in the heart than in any other part of the body.
+
+This heat can cause any drop of blood that passes into the cavities rapidly to expand and dilate, just as all liquors do when allowed to fall drop by drop into a highly heated vessel.
 
 For, after these things, it is not necessary for me to say anything more with a view to explain the motion of the heart, except that when its cavities are not full of blood, into these the blood of necessity flows, – from the hollow vein into the right, and from the venous artery into the left; because these two vessels are always full of blood, and their orifices, which are turned towards the heart, cannot then be closed. 
 
@@ -92,7 +109,11 @@ From experience which shows that all the blood which is in the body may flow out
 
 But there are many other circumstances which evince that what I have alleged is the true cause of the motion of the blood= thus, in the first place, the difference that is observed between the blood which flows from the veins, and that from the arteries, can only arise from this, that being rarefied, and, as it were, distilled by passing through the heart, it is thinner, and more vivid, and warmer immediately after leaving the heart, in other words, when in the arteries, than it was a short time before passing into either, in other words, when it was in the veins; and if attention be given, it will be found that this difference is very marked only in the neighbourhood of the heart; and is not so evident in parts more remote from it. 
 
-In the next place, the consistency of the coats of which the arterial vein and the great artery are composed, sufficiently shows that the blood is impelled against them with more force than against the veins. And why should the left cavity of the heart and the great artery be wider and larger than the right cavity and the arterial vein, were it not that the blood of the venous artery, having only been in the lungs after it has passed through the heart, is thinner, and rarefies more readily, and in a higher degree, than the blood which proceeds immediately from the hollow vein? And what can physicians conjecture from feeling the pulse unless they know that according as the blood changes its nature it can be rarefied by the warmth of the heart, in a higher or lower degree, and more or less quickly than before? 
+In the next place, the consistency of the coats of which the arterial vein and the great artery are composed, sufficiently shows that the blood is impelled against them with more force than against the veins. 
+
+Why should the left cavity of the heart and the great artery be wider and larger than the right cavity and the arterial vein, were it not that the blood of the venous artery, having only been in the lungs after it has passed through the heart, is thinner, and rarefies more readily, and in a higher degree, than the blood which proceeds immediately from the hollow vein? 
+
+What can physicians conjecture from feeling the pulse unless they know that according as the blood changes its nature it can be rarefied by the warmth of the heart, in a higher or lower degree, and more or less quickly than before? 
 
 How is this heat communicated to the other members?
 
@@ -100,9 +121,26 @@ This is effected by the blood which passes through the heart to be heated there 
 
 If the blood is withdrawn from any part, the heat is likewise withdrawn by the same means.
 
-Although the heart were as-hot as glowing iron, it would not be capable of warming the feet and hands as at present, unless it continually sent thither new blood. We likewise perceive from this, that the true use of respiration is to bring sufficient fresh air into the lungs, to cause the blood which flows into them from the right ventricle of the heart, where it has been rarefied and, as it were, changed into vapors, to become thick, and to convert it anew into blood, before it flows into the left cavity, without which process it would be unfit for the nourishment of the fire that is there. 
+Even if the heart were as hot as glowing iron, it would not be capable of warming the feet and hands unless it continually sent there new blood.
 
-This receives confirmation from the circumstance, that it is observed of animals destitute of lungs that they have also but one cavity in the heart, and that in children who cannot use them while in the womb, there is a hole through which the blood flows from the hollow vein into the left cavity of the heart, and a tube through which it passes from the arterial vein into the grand artery without passing through the lung. 
+We likewise perceive from this, that the true use of respiration is to bring sufficient fresh air into the lungs. This will cause the 
+
+ <!-- rarefied -->
+Blood flows into the lungs from the right ventricle of the heart where it has been decompressed and changed into vapors.
+
+In the lungs this vaprized blood becomes thick and is converted anew into [oxygenized] blood.
+
+It then flows into the left cavity to nourish the fire there.
+
+<!-- , without which process it would be unfit for the nourishment of the   -->
+
+<!-- This receives confirmation from the circumstance, that it is observed of  -->
+
+Animals without lungs have but one cavity in the heart.
+
+Babies while in the womb cannot use their lungs. They have:
+- a hole through which the blood flows from the hollow vein into the left cavity of the heart
+- a tube through which it passes from the arterial vein into the grand artery without passing through the lung. 
 
 How could digestion be carried on in the stomach unless the heart communicated heat to it through the arteries?
 
