@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 4c"
-title: "Static Electricity"
+title: "Static Electricity: Lightning"
 # title: "Electric Potential"
 # date: 2023-11-10
 draft: true
@@ -14,4 +14,8 @@ writer:
 ---
 
 
-Maxwell's Treatise on Electricity starts with the description of static electricity. 
+Maxwell's Treatise on Electricity starts with the description of static electricity which is caused by friction. 
+
+
+
+Lightning is caused by ions in the clouds. 

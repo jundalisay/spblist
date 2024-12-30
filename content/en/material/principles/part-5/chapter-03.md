@@ -44,7 +44,7 @@ Avogadro's Number is the number of molecules in a mole. This is then used to det
 
 ### Bernoulli's Principle
 
-
+We explained this in Part 2 to describe the dynamics of gravity as high-low pressure. 
 
 
 

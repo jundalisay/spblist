@@ -1,6 +1,6 @@
 ---
 heading: Discourse 7c
-title: Storms, Lightning, and All the Other Fires that Ignite in the Air
+title: Ball Lightning
 weight: 36
 description: Lightning can sometimes be converted into a very hard stone which breaks and shatters everything it encounters
 image: "/covers/meteors.png"
@@ -42,9 +42,20 @@ As those who are accustomed to traveling in valleys where avalanches are to be f
 
 They even refrain from speaking and coughing when passing there, for fear that their voice will stir the snow.
 
-But it sometimes lightens without thundering, so in places in the air where there are many exhalations and few vapors, clouds can be formed so thin and light that falling from high enough one on the other they do not hear any thunder, nor excite any storm in the air, notwithstanding that they wrap and join together several exhalations; from which they compose not only these lesser flames which one would say to be stars falling from the sky, or others which traverse it, but also rather large fireballs, which reaching us are like diminutives of lightning.
+Sometimes there is lightning without thunder.
 
-Even since there are exhalations of several different natures, I do not think it is impossible that the clouds, by pressing them, sometimes compose a material, which according to the color and consistency it will have, seems like milk, or blood, or meat; or else which by burning becomes such that it is taken for iron, or stones; or finally which by corrupting generates some small animals in a short time. 
+This happens where the air has many exhalations and few vapors. This creates very thin and light clouds. These fall from high enough one on the other that:
+- people on the ground do not hear any thunder
+- there is no storm excited in the air
+
+This is despite them wrapping and joining together several exhalations which are the basis of these lesser lightnings.
+
+ <!-- and  flames which one would say to be stars falling from the sky, or others which traverse it, but also rather large fireballs, which reaching us are like diminutives of lightning. -->
+
+There are different kinds of exhalations. It is possible that the clouds press on them to create material of the consistency that seems like milk, blood, or meat.
+- These could burn and could be taken as iron or stones.
+- These could corrupt and generates some small animals in a short time.
+ <!-- sometimes compose a material, which according to the color and consistency it will have,  -->
 
 <!-- As we often read among  that  -->
 
