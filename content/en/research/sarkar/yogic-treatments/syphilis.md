@@ -234,8 +234,10 @@ This is an excellent process for destroying the poison of syphilis.
 
 ### How to Pepare Neem Oil
 
-Extract neem juice by mashing or grinding the leaves.
+1. Extract neem juice by mashing or grinding the leaves.
 
-For one measure of neem juice take one-half that measure of sesame oil and mix them together. 
+2. For one measure of neem juice take one-half that measure of sesame oil and mix them together. 
 
-Boil the mixture down to one-half measure and do not boil further. Take care not to burn the oil.
+3. Boil the mixture down to one-half measure and do not boil further.
+
+Take care not to burn the oil.

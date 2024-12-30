@@ -116,9 +116,14 @@ Heleiṋcá, gimá, bráhmii or some other leafy vegetable should also be tak
 
 ## Remedies:
 
-1. The disease can be cured by licking a little myrobalan powder with raw sugar every day.
+1. The disease can be cured by licking a little myrobalan powder with raw sugar every day
+
 2. Leprosy can be conquered by taking gulaiṋca extract daily after eating three to five myrobalan seeds; or
-3. Drinking extracts of neem (Azadirachta indica A. Juss.) bark mixed with paltá extracts.
-4. Good results can also be obtained by covering the diseased area with a poultice of neem leaves.
-5. Also by drinking and digesting gulaiṋca extracts, then eating rice with ghee.
+
+3. Drinking extracts of neem (Azadirachta indica A. Juss.) bark mixed with paltá extracts
+
+4. Good results can also be obtained by covering the diseased area with a poultice of neem leaves
+
+5. Also by drinking and digesting gulaiṋca extracts, then eating rice with ghee
+
 6. One can get rid of the disease by drinking some cow’s urine with turmeric every day at dawn for one month.

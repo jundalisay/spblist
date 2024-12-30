@@ -26,18 +26,20 @@ Some common medicinal plants include:
 - gándál
 - mint (pudiná, rocanii)
 - scholar’s leaves (chátim)
-cinkona (Cinchona calisaya)
-giima shák
-ashwagandha
-bottle gourd (láu)
-aloe (ghrta kumárii)
-neem
-eucalyptus
-lemon
-nágdona
-asparagus (shatamulii)
-Bringaraj
+- cinkona (Cinchona calisaya)
+- giima shák
+- ashwagandha
+- bottle gourd (láu)
+- aloe (ghrta kumárii)
+- neem
+- eucalyptus
+- lemon
+- nágdona
+- asparagus (shatamulii)
+- Bringaraj
+
 Bringaraj yields an oil (tel) which is useful as hair oil and as a treatment for the mentally ill.
+
 
 ## Sushuni Shák
 
@@ -116,9 +118,12 @@ Burns can sometimes be cured immediately by applying aloe, hence it is also call
 
 ## Neem
 
-Neem has many medicinal properties, and is particularly useful as a blood cleanser and purifier. It is good for all skin, teeth and gum problems, therefore it is a common ingredient in soap and toothpaste.
+Neem has many medicinal properties. It is particularly useful as a blood cleanser and purifier. It is good for all skin, teeth and gum problems, therefore it is a common ingredient in soap and toothpaste.
 
-The neem tree has a fibrous root system. It makes a good riverside plant because it will check erosion. The air around the neem tree is good and can be used to balance the bad air around the imli tree.
+The neem tree has a fibrous root system. 
+
+It makes a good riverside plant because it will check erosion. The air around the neem tree is good and can be used to balance the bad air around the imli tree.
+
 
 
 ## Eucalyptus
