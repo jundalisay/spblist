@@ -81,6 +81,7 @@ All animal bodies move at the command of the will through the vibrations of this
 {{< /q >}}
 
 
+Newton could have developed the idea of atom-shaking if only he chased down that dynamics of that Spirit. 
 
 {{< n n="Newton said that gravity comes from the spirit of 'Lord God' which goes through matter. In Cartesian Phyics, this spirit is the same as substance as the aether. This scholium then distributes that spirit, as gravity, into equal time-particles, matching Descartes' distribution of the aether onto a constantly dividing 2nd Element which includes space and time. The main difference with Newton is that he preferred inertial matter instead of spinning vortices" >}}
 
