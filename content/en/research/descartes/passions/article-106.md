@@ -78,7 +78,7 @@ This also caused the openings of the heart to narrow because they received littl
 That is why the movements of the spirits and nerves that serve to narrow the openings of the heart and to lead blood from the spleen always accompany Sadness.
 
 
-### 111. Desire
+### 111. In Desire
 
 All the first Desires that the soul could have had, when it was newly joined to the body, were to receive things suitable for it and to repel those that were harmful.
 
@@ -88,11 +88,3 @@ That is why now, when the soul desires something, the whole body becomes more ag
 
 When it happens otherwise that the body is so disposed, this makes the soul's desires stronger and more ardent.
 
-
-### 122. What are the external signs of these Passions?
-
-What I have put here makes the cause of the differences in the pulse and all the other properties I have attributed to these passions above quite clear, without needing to explain them further. 
-
-But because I have only noted in each what can be observed when it is alone, and which helps to understand the movements of blood and spirits that produce them, I still need to address several external signs that usually accompany them and that are better noticed when they are mixed together, as they often are, than when they are separate. 
-
-The main signs are the actions of the eyes and face, changes in color, tremors, languor, fainting, laughter, tears, groans, and sighs.

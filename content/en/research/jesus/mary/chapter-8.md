@@ -1,31 +1,44 @@
 ---
 heading: Chapter 8
-title: "The seven powers of wrath" 
+title: "The Seven Powers of Wrath" 
 description: "The seven powers of wrath on the soul"
 weight: 12
 image: "/covers/jesus.jpg"
 ---
 
 
-10) And desire said, I did not see you descending, but now I see you ascending. Why do you lie since you belong to me?
+<sup>10</sup>  Desire said:
 
-11) The soul answered and said: "I saw you. You did not see me nor recognize me. I served you as a garment and you did not know me.""
+{{< r a="Desire" >}}
+I did not see you descending, but now I see you ascending. Why do you lie since you belong to me?
+{{< /r >}}
 
-12) When it said this, it (the soul) went away rejoicing greatly.
+{{< l a="Soul" >}}
+<sup>11</sup> I saw you. You did not see me nor recognize me. I served you as a garment and you did not know me.
+{{< /l >}}
 
-13) Again it came to the third power, which is called ignorance.
 
-14) The power questioned the soul, saying: "Where are you going? In wickedness are you bound. But you are bound; do not judge!"
+<sup>12</sup> Then the soul went away rejoicing greatly.
 
-15) And the soul said: "Why do you judge me, although I have not judged?"
+<sup>13</sup> The soul met the third power called ignorance.
 
-16) I was bound, though I have not bound.
 
-17) I was not recognized. But I have recognized that the All is being dissolved, both the earthly things and the heavenly.
+{{< r a="Ignorance" >}}
+<sup>14</sup> Where are you going? In wickedness are you bound. But you are bound; do not judge!
+{{< /r >}}
 
-18) When the soul had overcome the third power, it went upwards and saw the fourth power, which took seven forms.
+{{< l a="Soul" >}}
+<sup>15</sup> Why do you judge me, even if I have not judged?
 
-19) The seven powers of wrath are:
+<sup>16</sup> I was bound, though I have not bound.
+
+<sup>17</sup> I was not recognized. But I have recognized that the All is being dissolved, both the earthly things and the heavenly.
+{{< /l >}}
+
+
+<sup>18</sup> When the soul had overcome Ignorance, it went upwards and saw the fourth power, which took 7 forms.
+
+<sup>19</sup> The 7 powers of wrath are:
 
 1. Darkness
 2. Desire
@@ -35,14 +48,20 @@ image: "/covers/jesus.jpg"
 6. The foolish wisdom of flesh
 7. Wrathful wisdom
 
-20) They asked the soul: "Whence do you come slayer of men, or where are you going, conqueror of space?"
 
-21) The soul answered: "What binds me has been slain, and what turns me about has been overcome,
+{{< r a="Wrath" >}}
+Where do you come from, slayer of men? Where are you going, conqueror of space?
+{{< /r >}}
 
-22) and my desire has been ended, and ignorance has died.
 
-23) In a aeon I was released from a world, and in a Type from a type, and from the fetter of oblivion which is transient.
+{{< l a="Soul" >}}
+<sup>21</sup> What binds me has been slain, and what turns me about has been overcome. <sup>22</sup> My desire has been ended, and ignorance has died.
 
-24) From this time on will I attain to the rest of the time, of the season, of the aeon, in silence."
+<sup>23</sup> In a aeon I was released from a world, and in a Type from a type, and from the fetter of oblivion which is transient.
+
+<sup>24</sup> From this time on will I attain to the rest of the time, of the season, of the aeon, in silence.
+{{< /l >}}
+
+
 
 

@@ -64,7 +64,7 @@
 
 .Adam, .Hunter {background-image: url(/icons/adam.png);}
 
-.Allah, .Spirit {background-image: url(/icons/yellow.png);}
+.Allah, .Spirit, .Soul {background-image: url(/icons/yellow.png);}
 
 .aris, .Aristotle {background-image: url(/icons/aris.png) !important;}
 
@@ -92,6 +92,8 @@
 
 .conf, .Confucius {background-image: url(/icons/conf.png);}
 
+.Desire {background-image: url(/icons/heart.png);}
+
 .descartes, .Descartes {background-image: url(/icons/descartes.png);}
 
 .Dharmavedananda {background-image: url(/avatars/dharma.jpg);}
@@ -103,7 +105,7 @@
 
 .einbla, .einblah, .Einstein-sophist {background-image: url(/icons/einbla.png);}
 
-.Enki, .Enki-Agent, .Enki-Agents {background-image: url(/icons/enki.png);}
+.Enki, .Enki-Agent, .Enki-Agents, .Wrath {background-image: url(/icons/enki.png);}
 
 .Enlil-Followers, .Spies {background-image: url(/icons/g03.png)}
 
@@ -138,6 +140,8 @@
 .Huygens {background-image: url(/avatars/huygens.png);}
 
 .ibn, .Ibn-Khaldun, .Aeschylus {background-image: url(/icons/ibn.jpg);}
+
+.Ignorance {background-image: url(/icons/question.png);}
 
 .Jesus {background-image: url(/avatars/jesus.png);}
 
@@ -202,7 +206,7 @@
 
 .newton, .Newton {background-image: url(/icons/newton.png);}
 
-.Old-man, .Men {background-image: url(/icons/g08.png) !important;}
+.Old-man, .Men, .Levi {background-image: url(/icons/g08.png) !important;}
 
 .Question {background-image: url(/icons/question.png);}
 
@@ -260,7 +264,7 @@
 
 .Thomas-Aquinas, .Aquinas {background-image: url(/icons/aquinas.png) !important;}
 
-.Timaeus {background-image: url(/icons/g05.png) }
+.Timaeus, .Andrew {background-image: url(/icons/g05.png) }
 
 .pantry, .tao {background-image: url(/icons/pantry.png) !important;}
 

@@ -1,8 +1,8 @@
 ---
 heading: Articles 94-105
-title: What are the Passions of the Soul?
+title: The Movements of the Spirits
 weight: 28
-description: What is Passion in relation to one subject is always Action in another respect.
+description: The movements of the blood and spirits that cause the 5 preceding passions.
 image: "/covers/passions.jpg"
 writer:
   name: Rene Descartes
@@ -11,18 +11,38 @@ icon: /icons/descartes.png
 ---
 
 
-### 94. What are the movements of the blood and spirits that cause the five preceding passions
+### 94. The movements of the blood and spirits that cause the 5 preceding passions
 
-Those 5 passions are so closely connected or opposed to one another. It is easier to consider them all together rather than to treat each one separately, as was done with Admiration. 
+Those 5 passions are so closely connected or opposed to one another. 
 
-Their cause is not solely in the brain but also in the heart, spleen, liver, and all other parts of the body insofar as they serve in the production of blood and subsequently of spirits. 
+It is easier to consider them all together rather than to treat each one separately, as was done with Admiration. 
 
-For even though all the veins carry the blood they contain to the heart, it sometimes happens that the blood from some veins is pushed with more force than that from others; it also happens that the openings through which it enters the heart, or those through which it exits, are more widened or narrowed at different times.
+Their cause is not solely in the brain but also in the heart, spleen, liver, and all other parts of the body* insofar as they serve in the production of blood and subsequently of spirits.
+
+{{< n n="Here, Descartes puts the cause of the emotions to the different organs insted of the chakras" >}}
 
 
-### 97. The main experiences that serve to understand these movements in Love
+All the veins carry the blood in the organs to the heart. 
 
-By considering the various alterations that experience shows in our body while our soul is agitated by different passions, I notice in Love, when it is alone, that is, when it is not accompanied by strong Joy, Desire, or Sadness, that the heartbeat is regular and much stronger and more forceful than usual, that a gentle warmth is felt in the chest, and that the digestion of food happens very quickly in the stomach, so that this Passion is beneficial for health.
+Sometimes:
+- the blood from some veins is pushed with more force than that from others.
+- the openings through which it enters the heart, or those through which it exits, are more widened or narrowed
+
+
+### 97. These Movements in Love
+
+<!-- The main experiences that serve to understand -->
+
+<!-- By considering the various alterations that experience shows in our body while our soul is agitated by different passions, I notice in -->
+
+Love is alone when it is not accompanied by strong Joy, Desire, or Sadness. 
+
+In such cases, the heartbeat is regular and much stronger and more forceful than usual.
+- A gentle warmth is felt in the chest
+- The digestion of food happens very quickly in the stomach.
+
+This is why Love is beneficial for health.
+
 
 
 ### 98. In Hatred

@@ -1,14 +1,35 @@
 ---
-heading: Articles 67-
-title: The number and order of the Passions, and the six primary ones
+heading: Articles 68-73
+title: The 6 Primitive Passions
 weight: 22
-description: Descartes gives 4 Precepts on Math and Logic
+description: There are only 6 Primitive Passions
 image: "/covers/passions.jpg"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: /icons/descartes.png
 ---
+
+
+#### 68. Why this enumeration of Passions differs from the commonly accepted one.
+
+Other people have written about the passions. But they base their list on what they distinguish in the sensitive part of the soul as two appetites, which they call one Concupiscible, the other Irascible.
+
+But I do not recognize such a distinction which would mean that the soul has 2 faculties:
+
+1. To desire
+2. To anger
+
+<!-- since it has in the same way the faculties to admire, to love, to hope, to fear, and thus to receive within itself each of the other passions, or to perform the actions to which these passions impel it,  -->
+
+I do not understand why other philosophers wanted to relate all passions to concupiscence or anger. 
+
+Moreover, their enumeration does not include all the principal passions which mine does. There are an indefinite number of passions.*
+
+{{< n n="Yoga tradition numbers the passions as 1,000" >}}
+ 
+
+  <!-- I speak only of the principal ones, because there could still be distinguished several others more specific, and their number is . -->
 
 
 ### 69. There are only 6 Primitive Passions

@@ -59,7 +59,8 @@ Negative Force | the force from the desire of Existence that leads to separation
 Non-Locality | Action at a Distance (Einstein); True motion (Descartes)
 Omnitheism | a paradigm that views all Supreme Entities as different versions of one Supreme Entity 
 Passive Observation | Observing the object without doing anything to it.
-Personality Structure | Determines the DNA patterns of the body in order to reinforce the belief system [samskara] (Bashar-causal); A collaborated composition of the physical, mental, spiritual body (Sarkar-effect)
+Personality | A collaborated composition of the physical, mental, spiritual body (Sarkar-effect)
+Personality Structure | Determines the DNA patterns of the body in order to reinforce the belief system [samskara] (Bashar-causal)
 Physics | The study of the Supreme Entity in its physical forms. This includes the 5 Layers or Elements. This absorbs the word 'science'
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
@@ -132,6 +133,8 @@ Lemmas: Scaffolding, later removed.
 
 Word | Meaning
 --- | ---
+Civilization | Refinement in the expression of a society-organism 
+Culture | Expression of a society-organism
 Dogmisn | a blind belief perpetuated by the mind of a certain person
 Ideology Matrix | a 3D chart that classifies all ideas
 Socratic Liberal | the Democrat caste made up of workers and ordinary people. This is the most numerous in any society

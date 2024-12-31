@@ -1,7 +1,7 @@
 ---
-heading: Articles 130-137
-title: What is Laughter?
-weight: 36
+heading: Articles 128-134
+title: The Origin of Tears
+weight: 38
 description: What is Passion in relation to one subject is always Action in another respect.
 image: "/covers/passions.jpg"
 writer:
@@ -9,6 +9,47 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 icon: /icons/descartes.png
 ---
+
+
+### 128. The origin of Tears
+
+Just as laughter is never caused by extreme joy, tears do not come from extreme sadness, but only from that which is moderate and accompanied or followed by some feeling of love or even joy. 
+
+Vapors continually emanate from all parts of our body. But none of them exit as much as from the eyes, due to:
+- the size of the optic nerves and
+- the multitude of small arteries through which they enter. 
+
+Just as sweat consists only of vapors that, exiting from other parts, convert into water on their surface, tears form from vapors that exit from the eyes.
+
+
+<!-- ### 129. How vapors change into water
+
+The "Meteors", explained how the vapors of the air turn into rain, which happens when they are less agitated or more abundant than usual, I believe that when those leaving the body are much less agitated than usual, although they are not so abundant, they still convert into water. 
+
+This causes the cold sweats that sometimes come from weakness when one is ill. 
+
+I also believe that when they are much more abundant, provided they are not more agitated with it, they also convert into water, which causes sweat during physical exercise. However, the eyes do not sweat during exercise because during bodily exertion, most of the spirits go to the muscles used for movement, and less go through the optic nerve to the eyes. 
+
+It is the same substance that composes blood while in veins or arteries, spirits when in the brain, nerves, or muscles, vapors when they exit in the form of air, and finally sweat or tears when it thickens into water on the body's or eyes' surface.
+ -->
+
+### 129. How Vapors Turn into Water
+
+My work "The Meteors" explained how air vapors transform into rain.
+
+This happens when they are less agitated or more abundant than usual. 
+
+When those leaving the body are much less agitated than usual. 
+
+They still convert into water even if they are not necessarily more abundant.
+
+This causes cold sweats that sometimes arise from weakness when one is ill. 
+
+Similarly, when they are much more abundant, provided they are not more agitated, they also convert into water, which causes sweat during exercise. 
+
+However, the eyes do not sweat during exercise because during physical exertion, most of the spirits move towards the muscles used for movement, and less through the optic nerve towards the eyes. 
+
+It is the same substance that composes blood while in veins or arteries, spirits when in the brain, nerves, or muscles, vapors when they exit in the form of air, and finally sweat or tears when they thicken into water on the surface of the body or eyes.
 
 
 ### 130. How Pain to the Eye Induces Tears
@@ -74,6 +115,8 @@ Yet, it's more often a sign of bad temperament when they incline toward hatred o
 Conversely, those who cry easily are inclined toward love and pity.
 
 
+
+
 ### 135. Sighs
 
 The cause of sighs differs greatly from that of tears, though both presuppose sadness. 
@@ -87,60 +130,3 @@ Then, the little blood remaining in the lungs suddenly falls into the heart's le
 Air is quickly pushed through the mouth into the lungs, filling the space left by this blood. 
 
 <!-- This is what we call sighing. -->
-
-
-### 136. The Specific Effects of Passions on Certain Individuals
-
-Our soul is so connected to our body. After we have associated a bodily action with a thought, one does not present itself to us without the other.
-
-The same thoughts are not always associated with the same actions. 
-
-<!-- This is sufficient to explain everything one might observe in oneself or others regarding this subject, which has not been fully explained here.  -->
-
-Some people have strange aversions such as an inability to tolerate:
-- the smell of roses or
-- the presence of a cat
-
-These stem from early life experiences where they were greatly offended by similar objects or empathized with their mother's discomfort during pregnancy. 
-
-There is a correlation between all movements of the mother and those of the child in her womb, so what is adverse to one can be detrimental to the other.
-
-The smell of roses might have caused a severe headache for a child while still in the cradle. 
-
-A cat might have frightened them greatly, without anyone taking note or them having any subsequent memory of it.
-
-Nonetheless, the aversion they then felt toward roses or cats remains imprinted in their brain for their entire life.
-
-
-### 137. The Use of the Five Passions Discussed Here, in Relation to the Body.
-
-What is the use of Love, Hate, Desire, Joy, and Sadness?
-
-<!-- , and discussing all the bodily movements that cause or accompany them, the only thing left to consider here is their use. -->
-
-According to Nature's design, they all relate to the body. They are given to the soul only insofar as it is connected with it.
-
-Therefore, their natural use is to prompt the soul to consent and contribute to actions that can either:
-- preserve the body or
-- make it more perfect in some way.
-
-In this sense, Sadness and Joy are the first two passions employed. 
-
-The soul is only immediately alerted to things that are harmful to the body by the pain it feels. This pain:
-- first produces Sadness
-- then it is followed by hatred for what causes this pain
-- finally, the desire to rid oneself of it. 
-
-Similarly, the soul is only immediately alerted to things beneficial to the body by some kind of pleasurable sensation. This pleasure:
-- first arouses Joy
-- then gives rise to love for what is believed to be its cause
-- finally, the desire to acquire what can perpetuate this Joy
-
- <!-- or allow for similar enjoyment afterward.  -->
-
-This shows that all 5 are very useful concerning the body. 
-
-Sadness is somewhat more primary and necessary than Joy. 
-
-Hatred is more so than Love, because it is more important to repel things that are harmful and can destroy than to acquire things that add some perfection without which one can exist.
-
