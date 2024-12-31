@@ -1,6 +1,6 @@
 ---
-title: "The Medical Science of the Mahábhárata period"
-heading: "Discourse 4"
+title: "Mesmerism"
+heading: "Discourse 4b"
 description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
 image: "/covers/mv.png"
 writer:
@@ -68,4 +68,4 @@ This invasion discouraged ayurveda, vaedyaka shástra, viśa cikitsá and sur
 
 Because the hakimii system was not much cultivated in this country, the downfall of India as far as medical science is concerned, occurred.
 
-Ranchi
+<!-- Ranchi -->

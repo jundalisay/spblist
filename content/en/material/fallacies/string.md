@@ -49,15 +49,35 @@ In other words:
 - Supersymmetry converts imaginary objects into 'partner particles'
 - String Theory turns particles into imaginary objects
 
-So both of them are just 2 sides of the same fallacy coin. 
+So both of them are just 2 sides of the same fallacy coin.
 - Both of them will fail in reality because an imaginary object can never have a reality no matter what you do.
+
+> Both String Theory and Supersymmetry are just 2 sides of the same fallacy coin.
 
 The creator of the imaginary object is the simultaneity of time. 
 - This is because, in Cartesian Physics, the true cause of simultaneity is the 5th Element called the aether.
 - But Einstein's simultaneity is based on light (1st Element) and so does not match Nature or reality
 
 
-### The Solution
+### The Cause of the Problem: Not Knowing Why C is C
+
+
+String theory and Supersymmetry are a waste of time because Relativity is false.
+
+Relativity is false because time is mental, not electromagnetic.
+
+All tests of Relativity are merely electromagnetic measurements **of how things already are**.
+
+For example, measuring the sun to rise in the east very accurately does not explain why the sun rises to the east. 
+
+And so humans theorize false concentric spheres to account for why the sun rises to the east.
+
+Similarly, humans created false string theory to account for why light is limited to 300,000 kilometers per second.
+
+Therefore, both Einstein and Ptolemy are fallacies peddled as truth, covering up the real ignorance of humans.
+
+
+### The Solution: Time is Mental and Subjective
 
 The solution is to get rid of Einstein's Relativity which carries the false idea of the simultaneity of time. 
 
@@ -75,13 +95,14 @@ This is timespace based on the Radiant layer (1st Element to Cartesian Physics).
 
 This is timespace based on the Material layer (3rd Element to Cartesian Physics). This is known as absolute time in  Classical mechanics 
 
+{{< i s="/photos/physics/clock.jpg" a="String Theory and Supersymmetry are wrong" >}}
 
 In this way:
 - the infinities of particles are removed by sourcing the energy of particles from the external spacetime. 
 - the mismatch between gravity (spatial layer) and quantum mechanics (aethereal layer) is corrected by making the aether the mechanism behind spacetime 
 
 
-In Cartesian Physics, the simultaneity of time becomes a mere convention instead of a principle. It can be used when an engineer needs to measure *passive* time very accurately, such as:
+In Cartesian Physics, the simultaneity of time becomes a mere **convention** instead of a principle. It can be used when an engineer needs to measure *passive* time very accurately, such as:
 - in GPS or
 - in experiments comparing twins, one in a space station and another on Earth. 
 

@@ -8,7 +8,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
-draft: true
 ---
 
 
@@ -241,9 +240,14 @@ GNZ11
 CEERS2_588
 Maisie's galaxy
 CEERS_35590 MACS0647-JD CEERS2_7929
-Fig. 2 Census of MUV and stellar mass in high-redshift galaxies. Left: Absolute UV
+
+Fig. 2 Census of MUV and stellar mass in high-redshift galaxies. 
+
+Left: Absolute UV
 magnitude of galaxies spectroscopically confirmed with JWST, corrected for lensing magnification where appropriate. Right: Stellar Mass (log10(M∗/M⊙)) distribution of confirmed
-galaxies, corrected for magnification where appropriate. Error bars derive from the measured mass or MUV of individual galaxies. In both panels, the point shape represents the
+galaxies, corrected for magnification where appropriate. 
+
+Error bars derive from the measured mass or MUV of individual galaxies. In both panels, the point shape represents the
 resolution mode of the NIRSpec spectroscopy (low-resolution prism: circles; Medium resolution: squares; High resolution: diamonds and star). A black central dot marker indicates the
 detection of emission lines. Our target (red star with central dot) is one of the intrinsically
 brightest and most massive galaxies in the epoch of reionization among the current JWST
@@ -252,14 +256,15 @@ redshift galaxies with emission line detections and the highest redshift one obs
 high resolution mode. Stellar masses were taken as quoted from each study. We note that
 we do not include MACS1149-JD1 [135] as a spectroscopically confirmed galaxy (at z=9.11)
 due to significant uncertainty on its lensing magnification, and hence also on its intrinsic
-MUV and Stellar Mass. Additionally, we note that only a subset of the [18] sample have
+MUV and Stellar Mass. 
+
+Additionally, we note that only a subset of the [18] sample have
 their masses reported, and masses aren’t provided for [22]. We label all galaxies at z > 9. In
 these labels A23 refers to galaxy ID: 10058975 for [22] and Wi22 refers to [15].
 against photometric galaxy candidates [51], Gz9p3 has one of largest masses
 known within the first 750Myr since the Big Bang. The SED modeling from
 the spectrum is restricted to the main region of the galaxy where the shutter was placed, and returns a stellar mass consistent with the photometric
-estimate (see 2.7). Both SED modeling approaches (photometry and spectrum fitting) also identify substantial ongoing star formation (9−19 M⊙yr−1
-),
+estimate (see 2.7). Both SED modeling approaches (photometry and spectrum fitting) also identify substantial ongoing star formation (9−19 M⊙yr−1),
 and limited evidence of dust due to the blue spectral slope β in the UV
 (−2.2 ≲ β ≲ −1.9), with robust results over a range of assumed star formation histories. Interestingly, the spectrum-based modeling shows evidence for
 older stellar populations in the central region of the galaxy (age 120±20 Myr),
@@ -273,7 +278,9 @@ The detection of rest-optical emission lines provides a window into the
 interstellar medium conditions in the galaxy by resolving the [O ii] doublet
 thanks to our high spectral resolution (Figure 1), measuring a line ratio of
 0.94+0.14
-−0.18 (see 2.7). The relative strength of these low-ionization lines is sensitive to the electron number density ne [52], leading to a measurement of
+−0.18 (see 2.7).
+
+The relative strength of these low-ionization lines is sensitive to the electron number density ne [52], leading to a measurement of
 ne = 590+570
 −250cm−3
 . This is marginally higher (at ≳ 1σ) than the median values of ne = 225cm−3
@@ -291,6 +298,7 @@ parameter, exhibiting similar properties to other galaxies spectroscopically
 confirmed at zspec > 8 [19, 20, 22, 32–34, 36]. The ISM conditions are consistent
 with expectations from the young stellar ages derived from SED fitting, providing a self-consistent picture of the stellar populations and their surrounding
 gas.
+
 In Figure 3, the large stellar mass and low oxygen abundance place Gz9p3
 below the mass-metallicity relations for z = 4 − 9 derived by [58], and
 marginally below the relation for z = 2 − 4 galaxies from [56, 59], even
@@ -342,6 +350,7 @@ Andrews+13
 Sanders+21
 Nakajima+23
 This work
+
 Fig. 3 Location of Gz9p3 on the Mass metallicity relation. Gz9p3 is shown in black,
 where the error bar presents the random and systematic uncertainty in the metallicity, based
 on Ne3O2 diagnostic calibrations from [54–57, 90]. The figure includes a comparison to mass

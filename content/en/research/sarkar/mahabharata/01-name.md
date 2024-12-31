@@ -76,32 +76,15 @@ Itikathá is also known as “purákathá”, “itivrtta”, “purávrtta,
 
 4. itihása
 
-“Iti hasati ityarthe itihása.” The meaning of the root of “hasati” is “laugh.” That means, it is illuminating (projjvala). That portion of the itikathá which has educative value can alone be known as itihása. In schools and colleges the students read Indian itikathá and not itihása. All history is not itihása.
+<!-- “Iti hasati ityarthe itihása.”  -->
+
+The meaning of the root of “hasati” is “laugh.” 
+
+That means, it is illuminating (projjvala).
+
+Only the itikathá with educative value can alone be itihása.
+
+In schools and colleges, the students read Indian itikathá and not itihása. All history is not itihása.
 
 <!-- Dharmartha-káma-mokśárthaḿ niitivákyasamanvitam; Purávrttakatháyuktam itihása pracakśyate. -->
-
-## Dharma, artha, káma and mokśa
-
-Itihása is that itikathá from which a man gets the fruits of caturvarga – dharma, artha, káma and mokśa – as well as a system of the dos and don’ts of niiti.
-
-
-
-Káma is the desire for mundane objects – name, fame, wealth, etc. This includes getting food and clothing.
-
-The next varga is artha. 
-
-Artha is that which relieves pain. The pain of hunger is relieved when one buys something and eats it. Hence money is the cause of the removal of the pain of hunger.
-
-Therefore money is known as “artha.” 
-
-Similar is the case in the psychic sphere. Suppose you are mentally disturbed when you are not able to know the meaning of something. The moment you know it your mental trouble is gone. Meaning therefore is known as “artha.” 
-
-So in the psychic field also, “artha” means that which removes pain.
-
-The next varga is dharma. “Dharma” means psycho-spiritual development.
-
-The fourth varga is mokśa. As long as a person is away from Paramátman there will be some trouble or other whether one is righteous or unrighteous. Pain is finally removed only by obtaining moks’a.
-
-“Varga” means “class” there are four classes. The first is physical; the second physico-psychic, the third psycho-spiritual, and the fourth, spiritual. Hence the itikatha which begets the fruits of the four vargas and has the dos and don’ts of life in it is known as “itihása.” So the Mahábhárata is an itihása, the author of which is Krsna Dvaepayana Vyasa.
-
 
