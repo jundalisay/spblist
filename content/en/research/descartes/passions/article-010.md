@@ -14,7 +14,9 @@ icon: /icons/descartes.png
 
 ### 10. How Animal Spirits are Produced in the Brain
 
-All the liveliest and most subtle parts of the blood that the heat has rarefied in the heart enter continually in large quantity into the cavities of the brain. 
+
+<!-- rarefied -->
+All the liveliest and most subtle parts of the blood that the heat has decompressed in the heart enter continually in large quantity into the cavities of the brain. 
 
 They go there rather than anywhere else because all the blood that exits the heart through the aorta flows straight towards this place.
 

@@ -47,28 +47,47 @@ This is why Love is beneficial for health.
 
 ### 98. In Hatred
 
-On the contrary, in Hatred, I notice that the heartbeat is irregular, smaller, and often faster, that one feels chills mixed with a certain harsh and prickly heat in the chest, that the stomach ceases to function properly and tends to vomit and reject the food eaten, or at least to corrupt it and turn it into bad humors.
+Here, the heartbeat is irregular, smaller, and often faster.
+
+One feels chills mixed with a certain harsh and prickly heat in the chest.
+
+The stomach ceases to function properly and tends to vomit and reject the food eaten, or at least to corrupt it and turn it into bad humors.
+
 
 ### 99. In Joy
 
-In Joy, the heartbeat is regular and faster than usual, but not as strong or as large as in Love, and one feels a pleasant warmth, not only in the chest but also spreading to all external parts of the body, with blood visibly flowing there in abundance; and sometimes one loses appetite because digestion occurs less than usual.
+Here, the heartbeat is regular and faster than usual, but not as strong or as large as in Love.
+
+One feels a pleasant warmth in the chest and also spreading to all external parts of the body, with blood visibly flowing there in abundance.
+
+Sometimes, one loses appetite because digestion occurs less than usual.
 
 
-### 100. In Sadness.
+### 100. In Sadness
 
-In Sadness, the heartbeat is weak and slow, and one feels as if there are bands around the heart that squeeze it, and ice that freezes it, communicating their coldness to the rest of the body; and yet one sometimes still has a good appetite and feels that the stomach does not fail to do its duty, provided that there is no Hatred mixed with the Sadness.
+Here, the heartbeat is weak and slow.
+
+One feels as if there are bands around the heart that squeeze it and ice that freezes it. 
+
+These communicate their coldness to the rest of the body.
+
+Yet one sometimes still has a good appetite and feels that the stomach does not fail to do its duty, provided that there is no Hatred mixed with the Sadness.
 
 
 ### 101. In Desire
 
-Desire agitates the heart more violently than any of the other Passions and provides the brain with more spirits; which, passing from there into the muscles, make all the senses sharper and all parts of the body more mobile.
+Desire agitates the heart more violently than any of the other Passions. It provides the brain with more spirits.
+
+These pass from there into the muscles, make all the senses sharper and all parts of the body more mobile.
 
 
 ### 102. The movement of blood and spirits in Love
 
-These observations, and many others would be too long to write down.
+<!-- These observations, and many others would be too long to write down.
 
-These have led me to conclude that when the intellect represents an object of Love, this thought in the brain creates the impression that directs the animal spirits through the nerves of the sixth pair to the muscles around the intestines and stomach.
+These have led me to conclude that  -->
+
+When the intellect represents an object of Love, this thought in the brain creates the impression that directs the animal spirits through the nerves of the sixth pair to the muscles around the intestines and stomach.
 
 This makes juice from the food, which then turns into new blood. 
 
@@ -89,7 +108,8 @@ This is what constitutes the passion of Love.
 ### 103: In Hatred
 
 On the contrary, in Hatred, the first thought of the object that gives aversion directs the animal spirits in the brain to go to:
-- the muscles of the stomach and intestines to prevent the juice of the food from mixing with the blood. This is done by narrowing all the openings through which it usually flows.
+- the muscles of the stomach and intestines to prevent the juice of the food from mixing with the blood. 
+  - This is done by narrowing all the openings through which it usually flows.
 - the small nerves of the spleen and the lower part of the liver, where the bile receptacle is.
   - This is so that the blood usually rejected to these places come out and flow with the blood in the branches of the vena cava to the heart.
 
@@ -111,13 +131,20 @@ Hence, they:
 
 In Joy, the nerves of the rest of the body act, and less of those of the spleen, liver, stomach, or intestines.
 
-Particularly, the nerves around the openings of the heart. These opening and widening of these openings allows the blood that the other nerves drive from the veins to the heart to enter and exit more than usual. 
+Particularly, the nerves around the openings of the heart. 
 
-The blood that then enters the heart has already passed and repassed several times, coming from the arteries to the veins, it dilates very easily and produces spirits whose parts being very equal and subtle, are suitable for forming and strengthening the brain's impressions that give the soul cheerful and calm thoughts.
+These opening and widening of these openings allows the blood that the other nerves drive from the veins to the heart to enter and exit more than usual. 
+
+The blood that then enters the heart has already passed and repassed several times, coming from the arteries to the veins.
+
+It dilates very easily and produces spirits whose parts being very equal and subtle, are suitable for forming and strengthening the brain's impressions that give the soul cheerful and calm thoughts.
 
 
 ### 105. In Sadness
 
-On the contrary, in Sadness, the openings of the heart are very narrowed by the small nerve surrounding them, and the blood in the veins is hardly agitated at all: which means that very little of it goes to the heart. 
+On the contrary, in Sadness:
+- the openings of the heart are very narrowed by the small nerve surrounding them
+- the blood in the veins is hardly agitated at all
+  - This means that very little of it goes to the heart. 
 
 However, the passages through which the food juice flows from the stomach and intestines to the liver remain open; so that appetite does not diminish, except when Hatred, which is often joined with Sadness, closes them.

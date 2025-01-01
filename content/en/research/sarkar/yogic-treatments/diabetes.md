@@ -2,7 +2,7 @@
 title: "Natural Remedies for Diabetes"
 weight: 12
 author: "PR Sarkar"
-description: "Diabetes is a disease of liver and pancreas. Care has to be taken to keep these organs in a healthy state, and to do so patients must select food that will keep their bowels clear, yet which is nutritious and easily digestible"
+description: "Diabetes is a disease of liver and pancreas. Care has to be taken to keep these organs in a healthy state"
 image: "/photos/med/diabetes.jpg"
 ---
 
@@ -25,15 +25,41 @@ image: "/photos/med/diabetes.jpg"
 
 ## Causes
 
-It is not always the case that sugar is present in the urine of diabetes patients. Diabetes with sugar in the urine is called “somaroga” or “madhumeha”. Diabetes without sugar is called “mútrátisára” or “udakameha”.
+It is not always the case that sugar is present in the urine of diabetes patients. Diabetes with sugar in the urine is called “somaroga” or “madhumeha”. 
+
+Diabetes without sugar is called “mútrátisára” or “udakameha”.
 
 The debility of the Mańipura Cakra is the main cause of diabetes.
 
-Amongst the pancreatic juices, one secretion helps in the digestion of food, and another separates the sugar content from non-vegetarian and starchy types of food. The sugar is then stored in a particular section of the liver and according to body requirements it is dissolved to generate heat and vital power to run the body mechanism. 
+Amongst the pancreatic juices:
+- one secretion helps in the digestion of food
+- another separates the sugar content from non-vegetarian and starchy types of food
 
-Chronic indigestion, constipation (here also the stool usually turns into pellets), mental exertion without any physical labour, use of intoxicants, and excessive seminal waste – all weaken the vitality of the liver. When such weakening takes place, the sugar contents of the food, failing to find a storage place in the liver, are assimilated into the blood and gradually accumulate. 
+Sugar is then stored in a section of the liver.
 
-As a result, the blood gets polluted and loses its immune properties to a great extent. The natural reaction of the body in such a situation is to try to purify the blood by separating out its sugar content and expelling it with the urine. To dissolve the sugar, the human body needs plenty of water, and that is why diabetes patients suffer from a continuous thirst. Sugar emitted with the urine in a large quantity gradually reduces the vital energy of diabetes patients.
+According to body requirements, it is dissolved to generate heat and vital power to run the body mechanism. 
+
+The vitality of the liver is weakened by:
+- chronic indigestion
+- constipation where  the stool usually turns into pellets
+- mental exertion without any physical labour
+- use of intoxicants
+- excessive seminal waste
+
+When such weakening takes place, the sugar contents of the food fails to find a storage place in the liver. And so they are assimilated into the blood and gradually accumulate. 
+
+As a result, the blood gets polluted and greatly loses its immune properties.
+
+The body's natural reaction is to try to purify the blood by:
+- separating out its sugar content and
+- expelling it with the urine. 
+
+To dissolve the sugar, the human body needs plenty of water.
+
+This is why diabetes patients suffer from a continuous thirst.
+
+The sugar emitted with the urine in a large quantity gradually reduces the vital energy of diabetes patients.
+
 
 ## Asanas
 
@@ -49,11 +75,23 @@ Ágneyii Mudrá or Ágneyii Práńáyáma | Agnisára Mudrá (Navel)
 
 ## Diet
 
-Diabetes is basically a disease of liver and pancreas. Care has to be taken to keep these organs in a healthy state, and to do so patients must select food that will keep their bowels clear, yet which is nutritious and easily digestible. 
+Diabetes is basically a disease of liver and pancreas. 
+
+These organs should be kept in a healthy state.
+
+Patients must select food that will keep their bowels clear, yet which is nutritious and easily digestible. 
 
 All types of fruits are good for this disease, especially ripe bananas. 
 
-Non-vegetarian food must never be eaten. Vegetable proteins are also acidic, hence they are to be eaten as sparingly as possible. It is therefore advisable to reduce the intake of rice and rut́i (made of wheat flour) and instead to use more foods such as vegetable soup, plantain soup, pat́ol, okra, dhundula, paltá, squash (Lagenaria vulgaris Seringe), plantain spathes and flowers, figs, etc., which contain alkaline properties.
+Non-vegetarian food must never be eaten.
+
+Vegetable proteins are also acidic, hence they are to be eaten as sparingly as possible. 
+
+<!-- It is therefore advisable to reduce the intake of  -->
+
+Rice and rut́i (made of wheat flour) should therefore be reduced. 
+
+More foods such as vegetable soup, plantain soup, pat́ol, okra, dhundula, paltá, squash (Lagenaria vulgaris Seringe), plantain spathes and flowers, figs, etc. should be eaten as they contain alkaline properties.
 
 
 ## Dos and don’ts
@@ -67,16 +105,21 @@ Diabetes is caused by:
 - constipation
 - intemperance, etc.
 
-Only those foods should be selected which do not over-stimulate the liver and pancreas. Similarly, work and exercise which will help to bring these organs into their normal state of health must be pursued more and more. 
+Only those foods to be eated are those which do not over-stimulate the liver and pancreas.
+
+Similarly, work and exercise which will help to bring these organs into their normal state of health must be pursued more and more. 
 
 For those who are adverse to physical labour, a cure from diabetes is next to impossible.
 
 The human body also needs the nutrients offered by starchy and non-vegetarian types of food. 
 
-Therefore, foods which are not acidic but rather alkaline, yet contain those nutrients, should be taken in greater quantity to meet those needs. 
+Therefore, alkaline foods which contain those nutrients should be taken in greater quantity to meet those needs:
+- coconut
+- peanuts
+- curd (yogurt)
+- bananas, etc.
 
-This will include coconut, peanuts, curd (yogurt), bananas, etc. A drink of peanut extract and water without sugar and with little or no honey is ideal as both food and medicine for this disease.
-
+A drink of peanut extract and water without sugar and with little or no honey is ideal as both food and medicine for this disease.
 
 Insulin may increase the vitality of a patient but can never cure the disease.
 
@@ -95,15 +138,40 @@ If in such cases insulin is given, it will actually harm the patient. The best t
 
 ## Remedies
 
-1. Boil myrobalan, muthá, lodhá and banyan fruits in equal quantities and drink 2 tolas of the extract early in the morning for a few days regularly. This will bring a good result.
-2. Crush about 1/8 seer of guava leaves in water at night. The next morning strain the leaves out and drink the water. This will bring good results during the severe state of diabetes.
-3. (a) 1 tola of yajiṋa d́umura juice with honey; or (b) 1 tola of telákucá leaf extract taken with honey early in the morning by licking it; will relieve diabetes.
-4. (a) 1/16 tola of the inside of jám seeds with honey; or (b) Dry shimúla root crushed with powder, to be licked with honey in a quantity of 1/16 tola; will yield excellent results in diabetes.
-5. When the disease is worsening, 5 tolas of bánsha leaves in half a seer of water, boiled down to 1/8 seer, and the leaves strained out, should be drunk for immediate results.
-6. Boil gent́e durbá (see durbá in glossary), vajiṋa d́umura, emblic myrobalan (Emblica officinalis Gaertn.), myrobalan, coriander seeds and gandha-muthá in equal quantities in half a seer of water. When boiled down to 1/8 seer, drink it. Do this every day for a week at break of dawn. This will bring beautiful results.
+1. Boil myrobalan, muthá, lodhá and banyan fruits in equal quantities.
 
-2. Take equal quantities of myrobalan, muthá, lodhá and banyan fruits, mix them together and extract their juice. Take two tolas of the juice regularly.
+Drink 2 tolas of the extract early in the morning for a few days regularly. This will bring a good result.
 
+2. Crush about 1/8 seer of guava leaves in water at night.
+
+The next morning strain the leaves out and drink the water. 
+
+This will bring good results during the severe state of diabetes.
+
+3. These will relieve diabetes:
+- 1 tola of yajiṋa d́umura juice with honey; or
+- 1 tola of telákucá leaf extract taken with honey early in the morning by licking it
+
+4. This will yield excellent results in diabetes:
+
+- 1/16 tola of the inside of jám seeds with honey; or
+- Dry shimúla root crushed with powder, to be licked with honey in a quantity of 1/16 tola
+
+5. For immediate results when the disease is worsening, boil 5 tolas of bánsha leaves in half a seer of water down to 1/8 seer. Strain the leaves.
+
+6. In half a seer of water, boil the following in equal quantities down to 1/8 seer:
+- gent́e durbá (see durbá in glossary)
+- vajiṋa d́umura
+- emblic myrobalan (Emblica officinalis Gaertn.)
+- myrobalan
+- coriander seeds
+- gandha-muthá 
+
+Drink this every day for 1 week at break of dawn. This will bring beautiful results.
+
+2. Mix equal quantities of myrobalan, muthá, lodhá and banyan fruits and extract their juice.
+
+Drink 2 tolas of the juice regularly.
 
 <!-- 
 Weakness of the Manipura chakra. Weakness of the liver from
