@@ -1,19 +1,45 @@
 ---
-title: "Proposition 1"
-description: "The areas, which revolving bodies describe by radii drawn to an immovable centre of force do lie in the same immovable planes, and are proportional to the times in which they are described"
-author: Newton
-draft: true
+heading: Section 2
+linkTitle: Prop 1
+title: "Proposition 1 Theorem 1"
 image: "/covers/principia.jpg"
+description: "We simplify Principlia Mathematica"
+icon: "/icons/newton.png"
+weight: 4
 ---
-
 
 
 ## Proposition 1 Theorem 1
 
+<!-- The areas, which  describe by radii drawn to  -->
 
-The areas, which revolving bodies describe by radii drawn to an immovable centre of force do lie in the same immovable planes, and are proportional to the times in which they are described.
+From an immovable centre of force with revolving bodies, draw radii to plot the areas.   
+- These areas are proportional to the times in which they are drawn.
 
-For suppose the time to be divided into equal parts, and in the first part of that time let the body by its innate force describe the right line AB In the second part of that time, the same would (by Law I.), if not hindered, proceed directly to c, along the line Bc equal to AB; so that by the radii AS, BS, cS, drawn to the centre, the equal areas ASB, BSc, would be described. But when the body is arrived at B, suppose that a centripetal force acts at once with a great impulse; and, turning aside the body from the right line Bc, compels it afterwards to continue its motion along the right line BC. Draw cC parallel to BS meeting BC in C; and at the end of the second part of the time, the body (by Cor. I. of the Laws) will be found in C, in the same plane with the triangle ASB. Join SC, and, because SB and Cc are parallel, the triangle SBC will be equal to the triangle SBc, and therefore also to the triangle SAB. By the like argument, if the centripetal force acts successively in C, D, E. &c.; and makes the body, in each single particle of time, to describe the right lines CD, DE, EF, &c., they will all lie in the same plane; and the triangle SCD will be equal to the triangle SBC, and SDE to SCD, and SEF to SDE. And therefore, in equal times, equal areas are described in one immovable plane: and, by composition, any sums SADS, SAFS, of those areas, are one to the other as the times in which they are described. Now let the number of those triangles be augmented, and their breadth diminished in infinitum; and (by Cor. 4, Lem. III.) their ultimate perimeter ADF will be a curve line: and therefore the centripetal force, by which the body is perpetually drawn back from the tangent of this curve, will act continually; and any described areas SADS, SAFS, which are always proportional to the times of description, will, in this case also, be proportional to those times.   Q.E.D.
+<!--  described.
+
+do lie in the same immovable planes, and  -->
+
+Suppose the time is divided into equal parts.
+
+- In Time 1, the body by its innate force draws the right line `AB`.
+- In Time 2, the body, by Law 1, goes directly to `C` along the line `Bc` equal to `AB`.
+
+So the radii `AS, BS, cS`, drawn to the centre, would also draw the equal areas `ASB, BSc`.
+
+But when the body is at `B`, suppose that a centripetal force acts on it.
+
+It turns the body from the right line `Bc` along the right line `BC`.
+
+Draw `cC` parallel to `BS` meeting `BC` in `C`.
+
+At the end of the second part of the time, the body (by Cor. I. of the Laws) will be found in `C`, in the same plane with the triangle `ASB`.
+
+Join `SC`. 
+
+`SB` and `Cc` are parallel. And so the triangle `SBC` will be equal to the triangle `SBc` and `SAB`. 
+
+By the like argument, if the centripetal force acts successively in C, D, E. &c.; and makes the body, in each single particle of time, to describe the right lines CD, DE, EF, &c., they will all lie in the same plane; and the triangle SCD will be equal to the triangle SBC, and SDE to SCD, and SEF to SDE. And therefore, in equal times, equal areas are described in one immovable plane: and, by composition, any sums SADS, SAFS, of those areas, are one to the other as the times in which they are described. Now let the number of those triangles be augmented, and their breadth diminished in infinitum; and (by Cor. 4, Lem. III.) their ultimate perimeter ADF will be a curve line: and therefore the centripetal force, by which the body is perpetually drawn back from the tangent of this curve, will act continually; and any described areas SADS, SAFS, which are always proportional to the times of description, will, in this case also, be proportional to those times.   Q.E.D.
 
 Cor. 1. The velocity of a body attracted towards an immovable centre, in spaces void of resistance, is reciprocally as the perpendicular let fall from that centre on the right line that touches the orbit. For the velocities in those places A, B, C, D, E, are as the bases AB, BC, CD, DE, EF, of equal triangles; and these bases are reciprocally as the perpendiculars let fall upon them.
 

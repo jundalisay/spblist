@@ -1,6 +1,11 @@
-+++
-title= "How to find motion in orbits"
+---
+heading: Section 6
+linkTitle: Section 6
+title: "How to find motion in orbits"
+# How the orbits are to be found when neither focus is given
+description: "We simplify Section 3 of Principia Mathematica by Isaac Newton"
+author: Newton
+image: "/covers/principia.jpg"
+weight: 14
+---
 
-description= "We simplify Section 6 of  Principia Mathematica by Isaac Newton."
-image= "/covers/principia.jpg"
-+++

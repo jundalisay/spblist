@@ -1,55 +1,126 @@
 ---
-heading: Section 9
+heading: Section 9e
+linkTitle: Prop 53
+heading: Section 9e
 title: "Proposition 53, Theorem 41"
 image: "/covers/principia.jpg"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
-weight: 2
+weight: 10
 ---
 
 
 
-Bodies carried about in a vortex, and returning in the same orb, are of the same density with the vortex, and are moved according to the same law with the parts of the vortex, as to velocity and direction of motion.
+Bodies carried around in a vortex, and returning in the same orb, are of the same density with the vortex.
+
+They are moved according to the same law with the parts of the vortex, as to velocity and direction of motion.
 
 
-For if any small part of the vortex, whose particles or physical points preserve a given situation among each other, be supposed to be congealed, this particle will move according to the same law as before, since no change is made either in its density, vis insita, or figure.
+The particles or physical points of the vortex preserve a given situation among each other.
 
-If a congealed or solid part of the vortex be of the same density with the rest of the vortex, and be resolved into a fluid, this will move according to the same law as before, except in so far as its particles, now become fluid, may be moved among themselves. 
+If these particles are be congealed, this particle will move according to the same law as before. This is because no change is made either in its density, vis insita, or shape.
 
-Neglect, therefore, the motion of the particles among themselves as not at all concerning the progressive motion of the whole, and the motion of the whole will be the same as before. But this motion will be the same with the motion of other parts of the vortex at equal distances from the centre; because the solid, now resolved into a fluid, is become perfectly like to the other parts of the vortex. 
+This fluid vortex will move according to the same law as before if its congealed or solid part is of the same density with the rest of the vortex.
+- Its fluid particles may be moved among themselves. 
+<!-- , and be resolved into a fluid,  -->
 
-Therefore a solid, if it be of the same density with the matter of the vortex, will move with the same motion as the parts thereof, being relatively at rest in the matter that surrounds it. 
 
-If it be more dense, it will endeavour more than before to recede from the centre; and therefore overcoming that force of the vortex, by which, being, as it were, kept in equilibrio, it was retained in its orbit, it will recede from the centre, and in its revolution describe a spiral, returning no longer into the same orbit. And, by the same argument, if it be more rare, it will approach to the centre. 
+Neglect the motion of the particles among themselves. 
+- This is because it does not concern at all the progressive motion of the whole. 
+- This will lead to the motion of the whole being the same as before. 
 
-Therefore it can never continually go round in the same orbit, unless it be of the same density with the fluid. But we have shewn in that case that it would revolve according to the same law with those parts of the fluid that are at the same or equal distances from the centre of the vortex.
+But this motion will be the same with the motion of other parts of the vortex at equal distances from the centre.
+- This is because the solid, now resolved into a fluid, is become perfectly like to the other parts of the vortex. 
 
-COR. 1. Therefore a solid revolving in a vortex, and continually going round in the same orbit, is relatively quiescent in the fluid that carries it.
+Therefore a solid, if it be of the same density with the matter of the vortex, will move with the same motion as its parts, being relatively at rest in the matter that surrounds it. 
 
-COR. 2. And if the vortex be of an uniform density, the same body may revolve at any distance from the centre of the vortex.
+If it is more dense, it will try more to move away from the centre.
+
+It will overcome that force of the vortex which is kept in equilibrio while it was retained in its orbit.
+
+ <!-- in its revolution describe a  -->
+It will move away from the centre and will follow a spiral, leaving its orbit. 
+
+ <!-- returning no longer into the same orbit. And, by the same argument,  -->
+
+If it be more rare, it will move to the centre. 
+
+Therefore it can never continually go around in the same orbit unless it is of the same density with the fluid.
+
+But in that case, it would revolve according to the same law with those parts of the fluid that are at the same or equal distances from the centre of the vortex.
+
+
+### Corollary 1
+
+Therefore a solid revolving in a vortex, and continually going round in the same orbit, is relatively quiescent in the fluid that carries it.
+
+
+### Corollary 2
+
+If the vortex has a uniform density, the same body may revolve at any distance from the vortex' centre.
 
 
 
 ## SCHOLIUM
 
-Hence it is manifest that the planets are not carried round in corporeal vortices; for, according to the Copernican hypothesis, the planets going round the sun revolve in ellipses, having the sun in their common focus; and by radii drawn to the sun describe areas proportional to the times. But now the parts of a vortex can never revolve with such a motion.
+Hence, the planets are not carried round in corporeal vortices.
 
+According to the Copernican hypothesis, the planets going round the sun revolve in ellipses. They have the sun in their common focus.
 
-Let AD, BE, CF, represent three orbits described about the sun S, of which let the utmost circle CF be concentric to the Sun ; and let the aphelia of the two innermost be A, B ; and their perihelia D, E. Therefore a body revolving in the orb CF, describing, by a radius drawn to the sun, areas proportional to the times, will move with an uniform motion. 
+The radii drawn to the sun draw areas proportional to the times. 
 
-According to the laws of astronomy, the body revolving in the orb BE will move slower in its aphelion B, and swifter in its perihelion E; whereas, according to the laws of mechanics, the matter of the vortex ought to move more swiftly in the narrow space between A and C than in the wide space between D and P; that is, more swiftly in the aphelion than in the perihelion. Now these two conclusions contradict each other. 
+But the parts of a vortex can never revolve with such a motion.
 
-So at the beginning of the sign of Virgo, where the aphelion of Mars is at present, the distance between the orbits of Mars and Venus is to the distance between the same orbits, at the beginning of the sign of Pisces, as about 3 to 2; and therefore the matter of the vortex between those orbits ought to be swifter at the beginning of Pisces than at the beginning of Virgo in the ratio of 3 to 2 ; for the narrower the space is through which the same quantity of matter passes in the same time of one revolution, the greater will be the velocity with which it passes through it. 
+{{< i s="/graphics/physics/53s.jpg" a="Drawing" >}}
 
-Therefore if the earth being relatively at rest in this celestial matter should be carried round by it, and revolve together with it about the sun, the velocity of the earth at the beginning of Pisces would be to its velocity at the beginning of Virgo in a sesquialteral ratio. 
+Let `AD, BE, CF` be 3 orbits around sun `S`.
+- The utmost circle `CF` is concentric to the Sun
 
-Therefore the sun's apparent diurnal motion at the beginning of Virgo ought to be above 70 minutes, and at the beginning of Pisces less than 48 minutes; whereas, on the contrary, that apparent motion of the sun is really greater at the beginning of Pisces than at the beginning of Virgo, as experience testifies. 
+The aphelia of the two innermost are `A, B`. Their perihelia `D, E`. 
 
-Therefore the earth is swifter at the beginning of Virgo than at the beginning of Pisces; so that the hypothesis of vortices is utterly irreconcileable with astronomical phenomena, and rather serves to perplex than explain the heavenly motions.
+Therefore a body revolving in the orb `CF`, draws by a radius drawn to the sun, areas proportional to the times. These will move with an uniform motion. 
 
-How these motions are performed in free spaces without vortices, may be understood by the first Book; and I shall now more fully treat of it in the following Book."
+According to the laws of astronomy, the body revolving in the orb `BE` will move:
+- slower in its aphelion `B`
+- faster in its perihelion `E`
 
+According to the laws of mechanics, the matter of the vortex should move faster in the narrow space between `A` and `C` than in the wide space between `D` and `P`. 
+- It should faster in the aphelion than in the perihelion. 
 
+These 2 conclusions contradict each other. 
+
+The aphelion of Mars is currently at the beginning of Virgo.
+
+The distance between the orbits of Mars and Venus now is around 3 to 2 their distance at the beginning of Pisces. 
+
+<!-- is to the distance between the same orbits, at the  of the sign of Pisces, as about 3 to 2. -->
+
+Therefore, the vortex matter between those orbits should faster at the beginning of Pisces than at the beginning of Virgo in the ratio of 3 to 2.
+
+This is because the narrower the space is through which the same quantity of matter passes in the same time of one revolution, the greater will be the velocity with which it passes through it. 
+
+[Descartes assumes] that the earth:
+- is relatively at rest in this celestial matter
+- is carried around by it
+- revolves together with it around the sun.
+
+If so, the earth's velocity at the beginning of Pisces would be have a sesquialteral ratio to its velocity at the beginning of Virgo.
+
+Therefore, the sun's apparent diurnal motion:
+- at the beginning of Virgo should be above 70 minutes
+- at the beginning of Pisces shuld be less than 48 minutes
+
+But in reality, that apparent motion of the sun is really greater at the beginning of Pisces than at the beginning of Virgo.
+
+ <!-- as experience testifies.  -->
+
+Therefore the earth is faster at the beginning of Virgo than at the beginning of Pisces.
+
+Thus, the hypothesis of vortices is utterly irreconcileable with astronomical phenomena. It rather perplexes than explains the heavenly motions.
+
+Book 1 explains how these motions are performed in free spaces without vortices.
+
+<!-- , may be understood by the first Book; and I shall now more fully treat of it in the following Book." -->
 
 <!-- PS. It should be noted that also the mathematics of the motion of a spinning solid disc (in line perhaps with the ideas of Aristotle or early Kepler), do not match the mathematics of the actual motion of the planets around the sun. So neither the mathematics of the motion of a spinning solid disc nor of the motion of a spinning fluid, match the mathematics of the actual motion of the planets around the sun. 
 

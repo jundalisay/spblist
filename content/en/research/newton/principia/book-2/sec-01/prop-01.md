@@ -1,13 +1,12 @@
 ---
-heading: Proposition 1 Theory 1
-title: "The motions of bodies that are  resisted in the ratio of the velocity"
+heading: Section 1
+linkTitle: Prop 1
+title: "Proposition 1-2 Theorem 1-2"
 image: "/covers/principia.jpg"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
-weight: 2
-draft: true
+weight: 4
 ---
-
 
 
 ## Proposition 1 Theory 1
@@ -27,128 +26,48 @@ is to the part lost of that motion.
 ## Lemma 1 
 
 Quantities proportional to their differences are continually proportional.
-B as B to B
-C and C to C D, (fee., and, by con
-Let A be to A
-Q.E.D.
-version, A will be to B as B to C and C to D, &c.
+
+Let A be to A - B as B to B - C and C to C - D, &c., and, by conversion, A will be to B as B to C and C to D, &c.   Q.E.D.
+
+
 
 
 ## PROPOSITION 2 Theorem 2
 
-If a body is resisted in the ratio of its velocity, and moves, by its vis in-
-through a similar medium, and the times be taken equal,
-the velocities in the beginning of each of the times are in a geometri
-sita
-only,
-cal progression,
-and
-the spaces described in each of the times are as
-the velocities.
+If a body is resisted in the ratio of its velocity, and moves, by its vis insita only, through a similar medium, and the times be taken equal, the velocities in the beginning of each of the times are in a geometrical progression, and the spaces described in each of the times are as the velocities.
 
-CASE
-Let the time be divided into equal particles and if at the very
-of
-each particle we suppose the resistance to act with one single
-beginning
-which
-is as the
-velocity, the decrement of the velocity in each of
-impulse
+### Case 1
 
-1.
+Let the time be divided into equal particles.
 
-the particles of time will be as the same velocity.
-Therefore the veloci
-are proportional to their differences, and therefore (by Lem. 1, Book
-ties II)
+If at the very beginning of each particle we suppose the resistance to act with one single impulse which is as the velocity, the decrement of the velocity in each of the particles of time will be as the same velocity.
 
-Therefore if out of an equal number of par
-continually proportional.
-be compounded any equal portions of time, the velocities at the
-ticles there
-beginning of those times will be as terms in a continued progression, which
-are taken by intervals, omitting every where an equal number of interme
-diate terms.
-But the ratios of these terms are compounded of the equa j
-ratios of the intermediate terms equally repeated,
-Therefore the
-rical progression.
-ways
-being proportional
-number increased in infinitum,
-their
-become continual
-and therefore are equal
-to those terms, are in
-geomet
+Therefore, the velocities are proportional to their differences, and therefore (by Lem. 1, Book II) continually proportional.
 
-Let those equal particles of time be diminished, and
-velocities,
-;
-so that the impulse of resistance
-may
-and the velocities at the beginnings of equal times,
-al
-continually proportional, will be also in this case continually pro
-portional. Q.E.D.
-CASE And, by
-2.
-division, the differences of the velocities, that
-is,
-the
-parts of the velocities lost in each of the times, are as the wholes but the
-spaces described in each of the times are as the lost parts of the velocities
+{{< i s="/graphics/physics/1-1a.png" a="Drawing" >}}
 
-(by Prop. 1, Book I), and therefore are also as the wholes.
-;
+
+Therefore, if out of an equal number of particles there be compounded any equal portions of time, the velocities at the beginning of those times will be as terms in a continued progression, which are taken by intervals, omitting every where an equal number of intermediate terms. 
+
+But the ratios of these terms are compounded of the equal ratios of the intermediate terms equally repeated, and therefore are equal.
+
+Therefore the velocities, being proportional to those terms, are in geometrical progression.
+
+Let those equal particles of time be diminished, and their number increased in infinitum, so that the impulse of resistance may become continual.
+
+The velocities at the beginnings of equal times, always continually proportional, will be also in this case continually proportional.   Q.E.D.
+
+
+### Case 2
+
+By division, the differences of the velocities, that is, the parts of the velocities lost in each of the times, are as the wholes; but the spaces described in each of the times are as the lost parts of the velocities (by Prop. 1, Book I), and therefore are also as the wholes.   Q.E.D.
+
 
 ### Corollary  
 
-Hence the rectangular asymptotes AC, CH, be drawn per
-and AB, pendicular to the asymptote AC, and both the velocity of the body, and the resistance of the medium, at the very be the hyperbola
+Hence if to the rectangular asymptotes `AC`, `CH`, the hyperbola `BG` is described, and `AB`, `DG` is drawn perpendicular to the asymptote `AC`, and both the velocity of the body, and the resistance of the medium, at the very beginning of the motion, be expressed by any given line AC, and, after some time is elapsed, by the indefinite line DC; 
 
-if to
-BG
-is
-DG
-described,
-ginning of the motion, be expressed by any given line AC,
-the time may
-and, after some time is elapsed, by the indefinite line
-be expressed by the area ABGD, and the space described in that time by
-DC
-the line
-AD.
-For
-if that area,
-;
-by the motion of the point D, be uniform
-DC
-the same manner
-will de
-as the time, the right line
-ly increased in
-the
-and the
-the
-manner
-as
-ratio
-in
-same
-crease in a geometrical
-velocity
-decrease
-will
-in the
-in
-line
-described
-the
-of
-AC,
-equal times,
-right
-parts same ratio.
+{{< i s="/graphics/physics/1-1a.png" a="Drawing" >}}
 
+
+The time may be expressed by the area ABGD, and the space described in that time by the line AD. For if that area, by the motion of the point D, be uniformly increased in the same manner as the time, the right line DC will decrease in a geometrical ratio in the same manner as the velocity; and the parts of the right line AC, described in equal times, will decrease in the same ratio.

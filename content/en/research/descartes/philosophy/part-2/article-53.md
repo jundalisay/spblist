@@ -11,15 +11,20 @@ icon: "/icons/descartes.png"
 ---
 
 
-#### 53. The use of these rules is difficult because each body is touched by many at the same time
+### 53. The use of these rules is difficult because each body is touched by many at the same time
 
 In the world, there are:
 - no bodies that are so isolated from all others
 - hardly any perfectly hard bodies around us
 
-And so it is much more difficult to devise a calculation to determine how much the motion of each body is altered due to the encounters with others. 
+The motion of each body is altered due to the encounters with others.
+- It is much more difficult to devise a calculation for this alteration. 
 
-This is because we must consider all the factors that surround it. These have very different effects depending on whether they are hard or fluid. 
+<!-- to determine how much  -->
+
+This is because we must consider all the factors that surround it. 
+
+These have very different effects depending on whether they are hard or fluid. 
 
 Therefore, the diversity in this regard must be investigated.
 
